@@ -1,0 +1,430 @@
+{
+  "title": "红装",
+  "title_raw": "红装",
+  "version": null,
+  "artist": "徐良,阿悄",
+  "group_key": "红装|徐良,阿悄",
+  "writers": {
+    "lyricist": "徐良",
+    "composer": "徐良",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.21,
+      "time_str": "00:01.210",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 1.28,
+      "time_str": "00:01.280",
+      "text": "没话讲 我们互相在假装",
+      "translation": null
+    },
+    {
+      "time": 5.65,
+      "time_str": "00:05.650",
+      "text": "你的电话还在响",
+      "translation": null
+    },
+    {
+      "time": 8.9,
+      "time_str": "00:08.900",
+      "text": "下一场",
+      "translation": null
+    },
+    {
+      "time": 10.18,
+      "time_str": "00:10.180",
+      "text": "什么人约你去了什么地方",
+      "translation": null
+    },
+    {
+      "time": 14.44,
+      "time_str": "00:14.440",
+      "text": "我 喜欢用眼睛说谎",
+      "translation": null
+    },
+    {
+      "time": 18.49,
+      "time_str": "00:18.490",
+      "text": "单纯善良的模样",
+      "translation": null
+    },
+    {
+      "time": 21.65,
+      "time_str": "00:21.650",
+      "text": "这是我",
+      "translation": null
+    },
+    {
+      "time": 22.96,
+      "time_str": "00:22.960",
+      "text": "掩饰流血和受伤最好的红装",
+      "translation": null
+    },
+    {
+      "time": 27.7,
+      "time_str": "00:27.700",
+      "text": "男：",
+      "translation": null
+    },
+    {
+      "time": 27.98,
+      "time_str": "00:27.980",
+      "text": "你说过让我成为你唯一的肩膀",
+      "translation": null
+    },
+    {
+      "time": 30.79,
+      "time_str": "00:30.790",
+      "text": "可是我和前面的一二三四一样",
+      "translation": null
+    },
+    {
+      "time": 33.96,
+      "time_str": "00:33.960",
+      "text": "你很忙 总没时间来理我",
+      "translation": null
+    },
+    {
+      "time": 37.21,
+      "time_str": "00:37.210",
+      "text": "现场编出的借口却漂亮",
+      "translation": null
+    },
+    {
+      "time": 40.34,
+      "time_str": "00:40.340",
+      "text": "你说过想要跟我去任何的地方",
+      "translation": null
+    },
+    {
+      "time": 43.55,
+      "time_str": "00:43.550",
+      "text": "可是你还是选择自由自在飞翔",
+      "translation": null
+    },
+    {
+      "time": 46.77,
+      "time_str": "00:46.770",
+      "text": "能不能 有一点点的哀伤",
+      "translation": null
+    },
+    {
+      "time": 50.01,
+      "time_str": "00:50.010",
+      "text": "假装出一个不舍的模样",
+      "translation": null
+    },
+    {
+      "time": 52.81,
+      "time_str": "00:52.810",
+      "text": "你在我的身旁化妆",
+      "translation": null
+    },
+    {
+      "time": 55.68,
+      "time_str": "00:55.680",
+      "text": "超短裙撩人的模样",
+      "translation": null
+    },
+    {
+      "time": 58.9,
+      "time_str": "00:58.900",
+      "text": "有点稍刺鼻的芳香",
+      "translation": null
+    },
+    {
+      "time": 62.07,
+      "time_str": "01:02.070",
+      "text": "调皮的问我你今天漂不漂亮",
+      "translation": null
+    },
+    {
+      "time": 65.85,
+      "time_str": "01:05.850",
+      "text": "车窗里谁在等",
+      "translation": null
+    },
+    {
+      "time": 68.57,
+      "time_str": "01:08.570",
+      "text": "和你的朋友不太像",
+      "translation": null
+    },
+    {
+      "time": 71.85,
+      "time_str": "01:11.850",
+      "text": "我微笑着送你出门",
+      "translation": null
+    },
+    {
+      "time": 74.62,
+      "time_str": "01:14.620",
+      "text": "然后对自己说谎",
+      "translation": null
+    },
+    {
+      "time": 77.34,
+      "time_str": "01:17.340",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 77.67,
+      "time_str": "01:17.670",
+      "text": "没话讲 我们互相在假装",
+      "translation": null
+    },
+    {
+      "time": 82.52,
+      "time_str": "01:22.520",
+      "text": "你的电话还在响",
+      "translation": null
+    },
+    {
+      "time": 85.66,
+      "time_str": "01:25.660",
+      "text": "下一场",
+      "translation": null
+    },
+    {
+      "time": 86.98,
+      "time_str": "01:26.980",
+      "text": "什么人约你去了什么地方",
+      "translation": null
+    },
+    {
+      "time": 91.1,
+      "time_str": "01:31.100",
+      "text": "我 喜欢用眼睛说谎",
+      "translation": null
+    },
+    {
+      "time": 95.33,
+      "time_str": "01:35.330",
+      "text": "单纯善良的模样",
+      "translation": null
+    },
+    {
+      "time": 98.53,
+      "time_str": "01:38.530",
+      "text": "这是我",
+      "translation": null
+    },
+    {
+      "time": 99.85,
+      "time_str": "01:39.850",
+      "text": "掩饰流血和受伤最好的红装",
+      "translation": null
+    },
+    {
+      "time": 129.86,
+      "time_str": "02:09.860",
+      "text": "男：",
+      "translation": null
+    },
+    {
+      "time": 130.31,
+      "time_str": "02:10.310",
+      "text": "你说过让我成为你唯一的肩膀",
+      "translation": null
+    },
+    {
+      "time": 133.17,
+      "time_str": "02:13.170",
+      "text": "可是我和前面的一二三四一样",
+      "translation": null
+    },
+    {
+      "time": 136.39,
+      "time_str": "02:16.390",
+      "text": "你很忙 总没时间来理我",
+      "translation": null
+    },
+    {
+      "time": 139.6,
+      "time_str": "02:19.600",
+      "text": "现场编出的借口却漂亮",
+      "translation": null
+    },
+    {
+      "time": 142.67,
+      "time_str": "02:22.670",
+      "text": "你说过想要跟我去任何的地方",
+      "translation": null
+    },
+    {
+      "time": 145.96,
+      "time_str": "02:25.960",
+      "text": "可是你还是选择自由自在飞翔",
+      "translation": null
+    },
+    {
+      "time": 149.15,
+      "time_str": "02:29.150",
+      "text": "能不能 有一点点的哀伤",
+      "translation": null
+    },
+    {
+      "time": 152.36,
+      "time_str": "02:32.360",
+      "text": "假装出一个不舍的模样",
+      "translation": null
+    },
+    {
+      "time": 155.24,
+      "time_str": "02:35.240",
+      "text": "你在我的身旁化妆",
+      "translation": null
+    },
+    {
+      "time": 158.29,
+      "time_str": "02:38.290",
+      "text": "超短裙撩人的模样",
+      "translation": null
+    },
+    {
+      "time": 161.36,
+      "time_str": "02:41.360",
+      "text": "有点稍刺鼻的芳香",
+      "translation": null
+    },
+    {
+      "time": 164.49,
+      "time_str": "02:44.490",
+      "text": "俏皮的问我你今天漂不漂亮",
+      "translation": null
+    },
+    {
+      "time": 168.0,
+      "time_str": "02:48.000",
+      "text": "车窗里谁在等",
+      "translation": null
+    },
+    {
+      "time": 170.86,
+      "time_str": "02:50.860",
+      "text": "和你的朋友不太像",
+      "translation": null
+    },
+    {
+      "time": 174.09,
+      "time_str": "02:54.090",
+      "text": "我微笑着送你出门",
+      "translation": null
+    },
+    {
+      "time": 176.98,
+      "time_str": "02:56.980",
+      "text": "然后对自己说谎",
+      "translation": null
+    },
+    {
+      "time": 179.67,
+      "time_str": "02:59.670",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 180.0,
+      "time_str": "03:00.000",
+      "text": "没话讲 我们互相在假装",
+      "translation": null
+    },
+    {
+      "time": 184.81,
+      "time_str": "03:04.810",
+      "text": "你的电话还在响",
+      "translation": null
+    },
+    {
+      "time": 188.06,
+      "time_str": "03:08.060",
+      "text": "下一场",
+      "translation": null
+    },
+    {
+      "time": 189.26,
+      "time_str": "03:09.260",
+      "text": "什么人约你去了什么地方",
+      "translation": null
+    },
+    {
+      "time": 193.61,
+      "time_str": "03:13.610",
+      "text": "我 喜欢用眼睛说谎",
+      "translation": null
+    },
+    {
+      "time": 197.84,
+      "time_str": "03:17.840",
+      "text": "单纯善良的模样",
+      "translation": null
+    },
+    {
+      "time": 200.87,
+      "time_str": "03:20.870",
+      "text": "这是我",
+      "translation": null
+    },
+    {
+      "time": 202.13,
+      "time_str": "03:22.130",
+      "text": "掩饰流血和受伤最好的红装",
+      "translation": null
+    },
+    {
+      "time": 206.26,
+      "time_str": "03:26.260",
+      "text": "没话讲 我们互相在假装",
+      "translation": null
+    },
+    {
+      "time": 210.52,
+      "time_str": "03:30.520",
+      "text": "你的电话还在响",
+      "translation": null
+    },
+    {
+      "time": 213.7,
+      "time_str": "03:33.700",
+      "text": "下一场",
+      "translation": null
+    },
+    {
+      "time": 215.0,
+      "time_str": "03:35.000",
+      "text": "什么人约你去了什么地方",
+      "translation": null
+    },
+    {
+      "time": 219.28,
+      "time_str": "03:39.280",
+      "text": "我 喜欢用眼睛说谎",
+      "translation": null
+    },
+    {
+      "time": 223.32,
+      "time_str": "03:43.320",
+      "text": "单纯善良的模样",
+      "translation": null
+    },
+    {
+      "time": 226.48,
+      "time_str": "03:46.480",
+      "text": "这是我",
+      "translation": null
+    },
+    {
+      "time": 227.71,
+      "time_str": "03:47.710",
+      "text": "掩饰流血和受伤最好的红装",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "红装 - 徐良,阿悄.lrc"
+}

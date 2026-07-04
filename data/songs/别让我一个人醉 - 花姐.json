@@ -1,0 +1,160 @@
+{
+  "title": "别让我一个人醉",
+  "title_raw": "别让我一个人醉",
+  "version": null,
+  "artist": "花姐",
+  "group_key": "别让我一个人醉|花姐",
+  "writers": {
+    "lyricist": "李子恒",
+    "composer": "蒋三省",
+    "arranger": "Ricky Ho"
+  },
+  "lyrics": [
+    {
+      "time": 52.2,
+      "time_str": "00:52.200",
+      "text": "把我的伤悲 我的痛 轻轻注入你的眼中",
+      "translation": null
+    },
+    {
+      "time": 54.69,
+      "time_str": "00:54.690",
+      "text": "将我的快乐 我的苦 斟进你手中酒",
+      "translation": null
+    },
+    {
+      "time": 61.14,
+      "time_str": "01:01.140",
+      "text": "把你的希望 你的梦 慢慢靠在我的怀中",
+      "translation": null
+    },
+    {
+      "time": 68.39,
+      "time_str": "01:08.390",
+      "text": "将我的快乐 我的苦 一杯一杯敬我",
+      "translation": null
+    },
+    {
+      "time": 77.92,
+      "time_str": "01:17.920",
+      "text": "人生像醇酒 有时浓烈有时薄",
+      "translation": null
+    },
+    {
+      "time": 82.93,
+      "time_str": "01:22.930",
+      "text": "多情岁月滴滴在心头 别让我一个人醉",
+      "translation": null
+    },
+    {
+      "time": 90.81,
+      "time_str": "01:30.810",
+      "text": "别让我一个人走 寂寞的路上有你相陪",
+      "translation": null
+    },
+    {
+      "time": 102.93,
+      "time_str": "01:42.930",
+      "text": "醒来还有梦 别让我一个人醉",
+      "translation": null
+    },
+    {
+      "time": 109.69,
+      "time_str": "01:49.690",
+      "text": "别让我一个人守 漫长的午夜有你相随",
+      "translation": null
+    },
+    {
+      "time": 118.45,
+      "time_str": "01:58.450",
+      "text": "明天的爱  还要很久",
+      "translation": null
+    },
+    {
+      "time": 155.38,
+      "time_str": "02:35.380",
+      "text": "把我的伤悲 我的痛 轻轻注入你的眼中",
+      "translation": null
+    },
+    {
+      "time": 161.88,
+      "time_str": "02:41.880",
+      "text": "将我的快乐 我的苦 斟进你手中酒",
+      "translation": null
+    },
+    {
+      "time": 169.03,
+      "time_str": "02:49.030",
+      "text": "把你的希望 你的梦 慢慢靠在我怀中",
+      "translation": null
+    },
+    {
+      "time": 176.36,
+      "time_str": "02:56.360",
+      "text": "将我的快乐 我的苦 一杯一杯敬我",
+      "translation": null
+    },
+    {
+      "time": 184.79,
+      "time_str": "03:04.790",
+      "text": "人生像醇酒 有时浓烈有时薄",
+      "translation": null
+    },
+    {
+      "time": 191.07,
+      "time_str": "03:11.070",
+      "text": "多情岁月滴滴在心头 别让我一个人醉",
+      "translation": null
+    },
+    {
+      "time": 198.37,
+      "time_str": "03:18.370",
+      "text": "别让我一个人守 寂寞的路上有你相陪",
+      "translation": null
+    },
+    {
+      "time": 209.57,
+      "time_str": "03:29.570",
+      "text": "醒来还有梦 别让我一个人醉",
+      "translation": null
+    },
+    {
+      "time": 216.85,
+      "time_str": "03:36.850",
+      "text": "别让我一个人守 漫长的午夜有你相随",
+      "translation": null
+    },
+    {
+      "time": 225.75,
+      "time_str": "03:45.750",
+      "text": "明天的爱还要很久",
+      "translation": null
+    },
+    {
+      "time": 232.22,
+      "time_str": "03:52.220",
+      "text": "别让我一个人醉  别让我一个人走",
+      "translation": null
+    },
+    {
+      "time": 237.41,
+      "time_str": "03:57.410",
+      "text": "寂寞的路上有你相陪 醒来还有梦",
+      "translation": null
+    },
+    {
+      "time": 244.59,
+      "time_str": "04:04.590",
+      "text": "别让我一个人醉 别让我一个人守",
+      "translation": null
+    },
+    {
+      "time": 251.22,
+      "time_str": "04:11.220",
+      "text": "漫长的午夜有你相随 明天的爱还要很久",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "别让我一个人醉 - 花姐.lrc"
+}

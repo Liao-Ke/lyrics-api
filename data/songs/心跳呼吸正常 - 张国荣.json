@@ -1,0 +1,286 @@
+{
+  "title": "心跳呼吸正常",
+  "title_raw": "心跳呼吸正常",
+  "version": null,
+  "artist": "张国荣",
+  "group_key": "心跳呼吸正常|张国荣",
+  "writers": {
+    "lyricist": "林振强",
+    "composer": "徐日勤",
+    "arranger": "徐日勤"
+  },
+  "lyrics": [
+    {
+      "time": 28.5,
+      "time_str": "00:28.500",
+      "text": "有心 仍来电关心 关注近况",
+      "translation": null
+    },
+    {
+      "time": 36.5,
+      "time_str": "00:36.500",
+      "text": "放心 仍承受得起 虽已受创",
+      "translation": null
+    },
+    {
+      "time": 44.3,
+      "time_str": "00:44.300",
+      "text": "其实我即使孤单依旧甚忙",
+      "translation": null
+    },
+    {
+      "time": 48.3,
+      "time_str": "00:48.300",
+      "text": "其实你不必担心我无事干",
+      "translation": null
+    },
+    {
+      "time": 52.3,
+      "time_str": "00:52.300",
+      "text": "有心 然而无谓探望",
+      "translation": null
+    },
+    {
+      "time": 61.5,
+      "time_str": "01:01.500",
+      "text": "放心 无穷尽空虚 总会面对",
+      "translation": null
+    },
+    {
+      "time": 70.0,
+      "time_str": "01:10.000",
+      "text": "放心 无涯岸漆黑 总会渐退",
+      "translation": null
+    },
+    {
+      "time": 76.5,
+      "time_str": "01:16.500",
+      "text": "无论你 当天撕得我心多破碎",
+      "translation": null
+    },
+    {
+      "time": 81.3,
+      "time_str": "01:21.300",
+      "text": "我已太懒太累分错或对",
+      "translation": null
+    },
+    {
+      "time": 85.3,
+      "time_str": "01:25.300",
+      "text": "放心 还未唏嘘",
+      "translation": null
+    },
+    {
+      "time": 92.3,
+      "time_str": "01:32.300",
+      "text": "心跳呼吸正常",
+      "translation": null
+    },
+    {
+      "time": 94.3,
+      "time_str": "01:34.300",
+      "text": "不要担心冷场",
+      "translation": null
+    },
+    {
+      "time": 96.0,
+      "time_str": "01:36.000",
+      "text": "不要关注未找到新欢亮相",
+      "translation": null
+    },
+    {
+      "time": 100.3,
+      "time_str": "01:40.300",
+      "text": "偶或须根过长",
+      "translation": null
+    },
+    {
+      "time": 102.5,
+      "time_str": "01:42.500",
+      "text": "不过请你别问详",
+      "translation": null
+    },
+    {
+      "time": 105.2,
+      "time_str": "01:45.200",
+      "text": "为我操心兼紧张",
+      "translation": null
+    },
+    {
+      "time": 108.5,
+      "time_str": "01:48.500",
+      "text": "心跳呼吸正常",
+      "translation": null
+    },
+    {
+      "time": 110.5,
+      "time_str": "01:50.500",
+      "text": "工作休息照常",
+      "translation": null
+    },
+    {
+      "time": 112.2,
+      "time_str": "01:52.200",
+      "text": "所有的往事来年无痕及痒",
+      "translation": null
+    },
+    {
+      "time": 117.0,
+      "time_str": "01:57.000",
+      "text": "不需你来安抚骚扰 我独唱",
+      "translation": null
+    },
+    {
+      "time": 146.5,
+      "time_str": "02:26.500",
+      "text": "放心 无穷尽空虚 总会面对",
+      "translation": null
+    },
+    {
+      "time": 154.2,
+      "time_str": "02:34.200",
+      "text": "放心 无涯岸漆黑 总会渐退",
+      "translation": null
+    },
+    {
+      "time": 160.5,
+      "time_str": "02:40.500",
+      "text": "无论你 当天撕得我心多破碎",
+      "translation": null
+    },
+    {
+      "time": 166.2,
+      "time_str": "02:46.200",
+      "text": "我已太懒太累分错或对",
+      "translation": null
+    },
+    {
+      "time": 169.1,
+      "time_str": "02:49.100",
+      "text": "放心 还未唏嘘",
+      "translation": null
+    },
+    {
+      "time": 176.5,
+      "time_str": "02:56.500",
+      "text": "心跳呼吸正常",
+      "translation": null
+    },
+    {
+      "time": 178.3,
+      "time_str": "02:58.300",
+      "text": "不要担心冷场",
+      "translation": null
+    },
+    {
+      "time": 180.5,
+      "time_str": "03:00.500",
+      "text": "不要关注未找到新欢亮相",
+      "translation": null
+    },
+    {
+      "time": 184.5,
+      "time_str": "03:04.500",
+      "text": "偶或须根过长",
+      "translation": null
+    },
+    {
+      "time": 186.3,
+      "time_str": "03:06.300",
+      "text": "不过请你别问详",
+      "translation": null
+    },
+    {
+      "time": 189.4,
+      "time_str": "03:09.400",
+      "text": "为我操心兼紧张",
+      "translation": null
+    },
+    {
+      "time": 192.4,
+      "time_str": "03:12.400",
+      "text": "心跳呼吸正常",
+      "translation": null
+    },
+    {
+      "time": 194.5,
+      "time_str": "03:14.500",
+      "text": "工作休息照常",
+      "translation": null
+    },
+    {
+      "time": 196.5,
+      "time_str": "03:16.500",
+      "text": "所有的往事来年无痕及痒",
+      "translation": null
+    },
+    {
+      "time": 201.2,
+      "time_str": "03:21.200",
+      "text": "不需你来安抚骚扰 我独唱",
+      "translation": null
+    },
+    {
+      "time": 214.7,
+      "time_str": "03:34.700",
+      "text": "心跳呼吸正常",
+      "translation": null
+    },
+    {
+      "time": 216.5,
+      "time_str": "03:36.500",
+      "text": "不要担心冷场",
+      "translation": null
+    },
+    {
+      "time": 218.5,
+      "time_str": "03:38.500",
+      "text": "不要关注未找到新欢亮相",
+      "translation": null
+    },
+    {
+      "time": 222.5,
+      "time_str": "03:42.500",
+      "text": "偶或须根过长",
+      "translation": null
+    },
+    {
+      "time": 224.5,
+      "time_str": "03:44.500",
+      "text": "不过请你别问详",
+      "translation": null
+    },
+    {
+      "time": 227.3,
+      "time_str": "03:47.300",
+      "text": "为我操心兼紧张",
+      "translation": null
+    },
+    {
+      "time": 230.3,
+      "time_str": "03:50.300",
+      "text": "一切安好正常",
+      "translation": null
+    },
+    {
+      "time": 232.7,
+      "time_str": "03:52.700",
+      "text": "天气交通正常",
+      "translation": null
+    },
+    {
+      "time": 234.5,
+      "time_str": "03:54.500",
+      "text": "所有的往事来年无痕及痒",
+      "translation": null
+    },
+    {
+      "time": 239.1,
+      "time_str": "03:59.100",
+      "text": "不需你来关心猜测 我动向",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "心跳呼吸正常 - 张国荣.lrc"
+}

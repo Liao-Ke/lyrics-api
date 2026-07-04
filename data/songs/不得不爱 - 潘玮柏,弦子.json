@@ -1,0 +1,484 @@
+{
+  "title": "不得不爱",
+  "title_raw": "不得不爱",
+  "version": null,
+  "artist": "潘玮柏,弦子",
+  "group_key": "不得不爱|潘玮柏,弦子",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "최지호/미노",
+    "arranger": "Free Style"
+  },
+  "lyrics": [
+    {
+      "time": 28.78,
+      "time_str": "00:28.780",
+      "text": "天天都需要你爱",
+      "translation": null
+    },
+    {
+      "time": 31.37,
+      "time_str": "00:31.370",
+      "text": "我的心思由你猜",
+      "translation": null
+    },
+    {
+      "time": 34.05,
+      "time_str": "00:34.050",
+      "text": "I love you",
+      "translation": null
+    },
+    {
+      "time": 35.49,
+      "time_str": "00:35.490",
+      "text": "我就是要你 让我每天都精彩",
+      "translation": null
+    },
+    {
+      "time": 40.8,
+      "time_str": "00:40.800",
+      "text": "天天把他挂嘴边",
+      "translation": null
+    },
+    {
+      "time": 43.3,
+      "time_str": "00:43.300",
+      "text": "到底什么是真爱",
+      "translation": null
+    },
+    {
+      "time": 45.99,
+      "time_str": "00:45.990",
+      "text": "I love you",
+      "translation": null
+    },
+    {
+      "time": 47.45,
+      "time_str": "00:47.450",
+      "text": "到底有几分 说得比想象更快",
+      "translation": null
+    },
+    {
+      "time": 51.97,
+      "time_str": "00:51.970",
+      "text": "是我们感情丰富太慷慨",
+      "translation": null
+    },
+    {
+      "time": 55.25,
+      "time_str": "00:55.250",
+      "text": "还是有上天安排",
+      "translation": null
+    },
+    {
+      "time": 59.08,
+      "time_str": "00:59.080",
+      "text": "是我们本来就是那一派",
+      "translation": null
+    },
+    {
+      "time": 61.35,
+      "time_str": "01:01.350",
+      "text": "还是舍不得太乖",
+      "translation": null
+    },
+    {
+      "time": 65.06,
+      "time_str": "01:05.060",
+      "text": "是那一次约定了没有来",
+      "translation": null
+    },
+    {
+      "time": 67.22,
+      "time_str": "01:07.220",
+      "text": "让我哭得像小孩",
+      "translation": null
+    },
+    {
+      "time": 71.06,
+      "time_str": "01:11.060",
+      "text": "是我们急着证明我存在",
+      "translation": null
+    },
+    {
+      "time": 73.39,
+      "time_str": "01:13.390",
+      "text": "还是不爱会发呆 Baby",
+      "translation": null
+    },
+    {
+      "time": 76.58,
+      "time_str": "01:16.580",
+      "text": "不得不爱",
+      "translation": null
+    },
+    {
+      "time": 79.8,
+      "time_str": "01:19.800",
+      "text": "否则快乐 从何而来",
+      "translation": null
+    },
+    {
+      "time": 82.41,
+      "time_str": "01:22.410",
+      "text": "不得不爱",
+      "translation": null
+    },
+    {
+      "time": 85.71,
+      "time_str": "01:25.710",
+      "text": "否则悲伤 从何而来",
+      "translation": null
+    },
+    {
+      "time": 88.73,
+      "time_str": "01:28.730",
+      "text": "不得不爱",
+      "translation": null
+    },
+    {
+      "time": 91.77,
+      "time_str": "01:31.770",
+      "text": "否则我就 失去未来",
+      "translation": null
+    },
+    {
+      "time": 94.36,
+      "time_str": "01:34.360",
+      "text": "好像身不由己 不能自己很失败",
+      "translation": null
+    },
+    {
+      "time": 97.36,
+      "time_str": "01:37.360",
+      "text": "可是每天都过得精彩",
+      "translation": null
+    },
+    {
+      "time": 99.86,
+      "time_str": "01:39.860",
+      "text": "天天都需要你爱",
+      "translation": null
+    },
+    {
+      "time": 103.3,
+      "time_str": "01:43.300",
+      "text": "我的心思由你猜",
+      "translation": null
+    },
+    {
+      "time": 105.98,
+      "time_str": "01:45.980",
+      "text": "I love you",
+      "translation": null
+    },
+    {
+      "time": 107.46,
+      "time_str": "01:47.460",
+      "text": "我就是要你 让我每天都精彩",
+      "translation": null
+    },
+    {
+      "time": 112.64,
+      "time_str": "01:52.640",
+      "text": "天天把他挂嘴边",
+      "translation": null
+    },
+    {
+      "time": 115.25,
+      "time_str": "01:55.250",
+      "text": "到底什么是真爱",
+      "translation": null
+    },
+    {
+      "time": 117.94,
+      "time_str": "01:57.940",
+      "text": "I love you",
+      "translation": null
+    },
+    {
+      "time": 119.41,
+      "time_str": "01:59.410",
+      "text": "到底有几分 说得比想象更快",
+      "translation": null
+    },
+    {
+      "time": 124.18,
+      "time_str": "02:04.180",
+      "text": "I ask girlfriend how you been",
+      "translation": null
+    },
+    {
+      "time": 126.58,
+      "time_str": "02:06.580",
+      "text": "来去了几回 我从来没有想过",
+      "translation": null
+    },
+    {
+      "time": 129.46,
+      "time_str": "02:09.460",
+      "text": "爱情会变得如此无奈 是命运吗",
+      "translation": null
+    },
+    {
+      "time": 132.27,
+      "time_str": "02:12.270",
+      "text": "难道难过是上天的安排 没办法",
+      "translation": null
+    },
+    {
+      "time": 134.53,
+      "time_str": "02:14.530",
+      "text": "天天的每天的心思到底由谁来陪",
+      "translation": null
+    },
+    {
+      "time": 136.88,
+      "time_str": "02:16.880",
+      "text": "我诚心 你诚意 但周围扰人的环境",
+      "translation": null
+    },
+    {
+      "time": 139.53,
+      "time_str": "02:19.530",
+      "text": "始终 让我们无法在这里自由相恋",
+      "translation": null
+    },
+    {
+      "time": 142.45,
+      "time_str": "02:22.450",
+      "text": "我精彩 你发呆 两颗心不安的摇摆",
+      "translation": null
+    },
+    {
+      "time": 145.86,
+      "time_str": "02:25.860",
+      "text": "应该有的未来",
+      "translation": null
+    },
+    {
+      "time": 146.83,
+      "time_str": "02:26.830",
+      "text": "是否真的那么的无法期待",
+      "translation": null
+    },
+    {
+      "time": 148.97,
+      "time_str": "02:28.970",
+      "text": "舍不得再伤害",
+      "translation": null
+    },
+    {
+      "time": 149.9,
+      "time_str": "02:29.900",
+      "text": "You're my girl my girl my friend",
+      "translation": null
+    },
+    {
+      "time": 151.91,
+      "time_str": "02:31.910",
+      "text": "How much I love you so so much baby",
+      "translation": null
+    },
+    {
+      "time": 154.42,
+      "time_str": "02:34.420",
+      "text": "看着你哀愁 要我如何怎么承受面对",
+      "translation": null
+    },
+    {
+      "time": 157.54,
+      "time_str": "02:37.540",
+      "text": "I'm sorry you're my sweet heart",
+      "translation": null
+    },
+    {
+      "time": 159.33,
+      "time_str": "02:39.330",
+      "text": "My love my one&only baby",
+      "translation": null
+    },
+    {
+      "time": 160.91,
+      "time_str": "02:40.910",
+      "text": "不得不爱",
+      "translation": null
+    },
+    {
+      "time": 164.04,
+      "time_str": "02:44.040",
+      "text": "否则快乐 从何而来",
+      "translation": null
+    },
+    {
+      "time": 166.79,
+      "time_str": "02:46.790",
+      "text": "不得不爱",
+      "translation": null
+    },
+    {
+      "time": 169.71,
+      "time_str": "02:49.710",
+      "text": "否则悲伤 从何而来",
+      "translation": null
+    },
+    {
+      "time": 172.78,
+      "time_str": "02:52.780",
+      "text": "不得不爱",
+      "translation": null
+    },
+    {
+      "time": 175.6,
+      "time_str": "02:55.600",
+      "text": "否则我就 失去未来",
+      "translation": null
+    },
+    {
+      "time": 178.21,
+      "time_str": "02:58.210",
+      "text": "好像身不由己 不能自己很失败",
+      "translation": null
+    },
+    {
+      "time": 181.48,
+      "time_str": "03:01.480",
+      "text": "可是每天都过得精彩",
+      "translation": null
+    },
+    {
+      "time": 184.08,
+      "time_str": "03:04.080",
+      "text": "天天都需要你爱",
+      "translation": null
+    },
+    {
+      "time": 187.28,
+      "time_str": "03:07.280",
+      "text": "我的心思由你猜",
+      "translation": null
+    },
+    {
+      "time": 189.95,
+      "time_str": "03:09.950",
+      "text": "I love you",
+      "translation": null
+    },
+    {
+      "time": 191.46,
+      "time_str": "03:11.460",
+      "text": "我就是要你 让我每天都精彩",
+      "translation": null
+    },
+    {
+      "time": 196.69,
+      "time_str": "03:16.690",
+      "text": "天天把他挂嘴边",
+      "translation": null
+    },
+    {
+      "time": 199.33,
+      "time_str": "03:19.330",
+      "text": "到底什么是真爱",
+      "translation": null
+    },
+    {
+      "time": 201.91,
+      "time_str": "03:21.910",
+      "text": "I love you",
+      "translation": null
+    },
+    {
+      "time": 203.4,
+      "time_str": "03:23.400",
+      "text": "到底有几分 说得比想象更快",
+      "translation": null
+    },
+    {
+      "time": 208.17,
+      "time_str": "03:28.170",
+      "text": "会不会有一点无奈",
+      "translation": null
+    },
+    {
+      "time": 214.1,
+      "time_str": "03:34.100",
+      "text": "会不会有一点太快",
+      "translation": null
+    },
+    {
+      "time": 220.23,
+      "time_str": "03:40.230",
+      "text": "可是你给我的爱",
+      "translation": null
+    },
+    {
+      "time": 223.25,
+      "time_str": "03:43.250",
+      "text": "让我养成了依赖",
+      "translation": null
+    },
+    {
+      "time": 227.14,
+      "time_str": "03:47.140",
+      "text": "心中充满爱的节拍",
+      "translation": null
+    },
+    {
+      "time": 229.81,
+      "time_str": "03:49.810",
+      "text": "天天都需要你爱",
+      "translation": null
+    },
+    {
+      "time": 232.29,
+      "time_str": "03:52.290",
+      "text": "我的心思由你猜",
+      "translation": null
+    },
+    {
+      "time": 234.93,
+      "time_str": "03:54.930",
+      "text": "I love you",
+      "translation": null
+    },
+    {
+      "time": 236.43,
+      "time_str": "03:56.430",
+      "text": "我就是要你 让我每天都精彩",
+      "translation": null
+    },
+    {
+      "time": 241.64,
+      "time_str": "04:01.640",
+      "text": "天天把他挂嘴边",
+      "translation": null
+    },
+    {
+      "time": 244.27,
+      "time_str": "04:04.270",
+      "text": "到底什么是真爱",
+      "translation": null
+    },
+    {
+      "time": 246.95,
+      "time_str": "04:06.950",
+      "text": "I love you",
+      "translation": null
+    },
+    {
+      "time": 248.35,
+      "time_str": "04:08.350",
+      "text": "到底有几分 说得比想象更快",
+      "translation": null
+    },
+    {
+      "time": 271.29,
+      "time_str": "04:31.290",
+      "text": "英文词 : 潘玮柏",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不得不爱 - 潘玮柏,弦子.lrc"
+}

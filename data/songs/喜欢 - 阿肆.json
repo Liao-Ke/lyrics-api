@@ -1,0 +1,574 @@
+{
+  "title": "喜欢",
+  "title_raw": "喜欢",
+  "version": null,
+  "artist": "阿肆",
+  "group_key": "喜欢|阿肆",
+  "writers": {
+    "lyricist": "阿肆",
+    "composer": "阿肆",
+    "arranger": "姚源/YOCHO"
+  },
+  "lyrics": [
+    {
+      "time": 0.5,
+      "time_str": "00:00.500",
+      "text": "扛住了 柴米油盐的麻烦",
+      "translation": null
+    },
+    {
+      "time": 4.167,
+      "time_str": "00:04.167",
+      "text": "扛住了 朋友聚会的调侃",
+      "translation": null
+    },
+    {
+      "time": 7.584,
+      "time_str": "00:07.584",
+      "text": "扛住了 世俗生活的刁难",
+      "translation": null
+    },
+    {
+      "time": 11.001,
+      "time_str": "00:11.001",
+      "text": "却扛不住",
+      "translation": null
+    },
+    {
+      "time": 12.735,
+      "time_str": "00:12.735",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 15.547,
+      "time_str": "00:15.547",
+      "text": "亦步亦趋 随你至深不可测",
+      "translation": null
+    },
+    {
+      "time": 18.897,
+      "time_str": "00:18.897",
+      "text": "患得患失 唯恐你遥不可得",
+      "translation": null
+    },
+    {
+      "time": 24.87,
+      "time_str": "00:24.870",
+      "text": "却只面不改色",
+      "translation": null
+    },
+    {
+      "time": 26.905,
+      "time_str": "00:26.905",
+      "text": "为你我认了",
+      "translation": null
+    },
+    {
+      "time": 29.304,
+      "time_str": "00:29.304",
+      "text": "一朝一夕 使我已固不可彻",
+      "translation": null
+    },
+    {
+      "time": 32.604,
+      "time_str": "00:32.604",
+      "text": "若即若离 本应是罪不可赦",
+      "translation": null
+    },
+    {
+      "time": 38.671,
+      "time_str": "00:38.671",
+      "text": "怎不忍心怪你",
+      "translation": null
+    },
+    {
+      "time": 40.687,
+      "time_str": "00:40.687",
+      "text": "对我太独特",
+      "translation": null
+    },
+    {
+      "time": 45.155,
+      "time_str": "00:45.155",
+      "text": "无时无刻",
+      "translation": null
+    },
+    {
+      "time": 48.504,
+      "time_str": "00:48.504",
+      "text": "像是一首",
+      "translation": null
+    },
+    {
+      "time": 49.352,
+      "time_str": "00:49.352",
+      "text": "无法停止单曲循环的无名歌",
+      "translation": null
+    },
+    {
+      "time": 54.935,
+      "time_str": "00:54.935",
+      "text": "扛住了",
+      "translation": null
+    },
+    {
+      "time": 56.252,
+      "time_str": "00:56.252",
+      "text": "柴米油盐的麻烦",
+      "translation": null
+    },
+    {
+      "time": 58.986,
+      "time_str": "00:58.986",
+      "text": "扛住了",
+      "translation": null
+    },
+    {
+      "time": 59.569,
+      "time_str": "00:59.569",
+      "text": "朋友聚会的调侃",
+      "translation": null
+    },
+    {
+      "time": 62.436,
+      "time_str": "01:02.436",
+      "text": "扛住了",
+      "translation": null
+    },
+    {
+      "time": 63.018,
+      "time_str": "01:03.018",
+      "text": "世俗生活的刁难",
+      "translation": null
+    },
+    {
+      "time": 65.852,
+      "time_str": "01:05.852",
+      "text": "却扛不住",
+      "translation": null
+    },
+    {
+      "time": 67.536,
+      "time_str": "01:07.536",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 69.305,
+      "time_str": "01:09.305",
+      "text": "躲过了",
+      "translation": null
+    },
+    {
+      "time": 69.905,
+      "time_str": "01:09.905",
+      "text": "世界末日的灾难",
+      "translation": null
+    },
+    {
+      "time": 72.691,
+      "time_str": "01:12.691",
+      "text": "明白了",
+      "translation": null
+    },
+    {
+      "time": 73.337,
+      "time_str": "01:13.337",
+      "text": "生命是千金不换",
+      "translation": null
+    },
+    {
+      "time": 76.12,
+      "time_str": "01:16.120",
+      "text": "躲过了",
+      "translation": null
+    },
+    {
+      "time": 76.771,
+      "time_str": "01:16.771",
+      "text": "大悲狂喜的极端",
+      "translation": null
+    },
+    {
+      "time": 79.537,
+      "time_str": "01:19.537",
+      "text": "却躲不过",
+      "translation": null
+    },
+    {
+      "time": 81.354,
+      "time_str": "01:21.354",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 97.941,
+      "time_str": "01:37.941",
+      "text": "亦步亦趋 随你至深不可测",
+      "translation": null
+    },
+    {
+      "time": 101.208,
+      "time_str": "01:41.208",
+      "text": "患得患失 唯恐你遥不可得",
+      "translation": null
+    },
+    {
+      "time": 107.208,
+      "time_str": "01:47.208",
+      "text": "却只面不改色",
+      "translation": null
+    },
+    {
+      "time": 109.208,
+      "time_str": "01:49.208",
+      "text": "为你我认了",
+      "translation": null
+    },
+    {
+      "time": 111.525,
+      "time_str": "01:51.525",
+      "text": "一朝一夕 使我已固不可彻",
+      "translation": null
+    },
+    {
+      "time": 114.891,
+      "time_str": "01:54.891",
+      "text": "若即若离 本应是罪不可赦",
+      "translation": null
+    },
+    {
+      "time": 120.825,
+      "time_str": "02:00.825",
+      "text": "怎不忍心怪你",
+      "translation": null
+    },
+    {
+      "time": 122.792,
+      "time_str": "02:02.792",
+      "text": "对我太独特",
+      "translation": null
+    },
+    {
+      "time": 127.308,
+      "time_str": "02:07.308",
+      "text": "无时无刻",
+      "translation": null
+    },
+    {
+      "time": 130.792,
+      "time_str": "02:10.792",
+      "text": "像是一首",
+      "translation": null
+    },
+    {
+      "time": 131.625,
+      "time_str": "02:11.625",
+      "text": "无法停止单曲循环的无名歌",
+      "translation": null
+    },
+    {
+      "time": 137.342,
+      "time_str": "02:17.342",
+      "text": "扛住了",
+      "translation": null
+    },
+    {
+      "time": 138.474,
+      "time_str": "02:18.474",
+      "text": "柴米油盐的麻烦",
+      "translation": null
+    },
+    {
+      "time": 141.224,
+      "time_str": "02:21.224",
+      "text": "扛住了",
+      "translation": null
+    },
+    {
+      "time": 141.824,
+      "time_str": "02:21.824",
+      "text": "朋友聚会的调侃",
+      "translation": null
+    },
+    {
+      "time": 144.758,
+      "time_str": "02:24.758",
+      "text": "扛住了",
+      "translation": null
+    },
+    {
+      "time": 145.275,
+      "time_str": "02:25.275",
+      "text": "世俗生活的刁难",
+      "translation": null
+    },
+    {
+      "time": 148.175,
+      "time_str": "02:28.175",
+      "text": "却扛不住",
+      "translation": null
+    },
+    {
+      "time": 149.875,
+      "time_str": "02:29.875",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 151.525,
+      "time_str": "02:31.525",
+      "text": "躲过了",
+      "translation": null
+    },
+    {
+      "time": 152.275,
+      "time_str": "02:32.275",
+      "text": "世界末日的灾难",
+      "translation": null
+    },
+    {
+      "time": 154.959,
+      "time_str": "02:34.959",
+      "text": "明白了",
+      "translation": null
+    },
+    {
+      "time": 155.508,
+      "time_str": "02:35.508",
+      "text": "生命是千金不换",
+      "translation": null
+    },
+    {
+      "time": 158.508,
+      "time_str": "02:38.508",
+      "text": "躲过了",
+      "translation": null
+    },
+    {
+      "time": 158.974,
+      "time_str": "02:38.974",
+      "text": "大悲狂喜的极端",
+      "translation": null
+    },
+    {
+      "time": 161.86,
+      "time_str": "02:41.860",
+      "text": "却躲不过",
+      "translation": null
+    },
+    {
+      "time": 163.661,
+      "time_str": "02:43.661",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 166.242,
+      "time_str": "02:46.242",
+      "text": "看累了喜新厌旧",
+      "translation": null
+    },
+    {
+      "time": 167.912,
+      "time_str": "02:47.912",
+      "text": "看累了随波逐流",
+      "translation": null
+    },
+    {
+      "time": 169.543,
+      "time_str": "02:49.543",
+      "text": "看累了长厢厮守",
+      "translation": null
+    },
+    {
+      "time": 171.143,
+      "time_str": "02:51.143",
+      "text": "却还没把你看透",
+      "translation": null
+    },
+    {
+      "time": 172.992,
+      "time_str": "02:52.992",
+      "text": "看破了恩怨情仇",
+      "translation": null
+    },
+    {
+      "time": 174.56,
+      "time_str": "02:54.560",
+      "text": "看破了蓦然回首",
+      "translation": null
+    },
+    {
+      "time": 176.259,
+      "time_str": "02:56.259",
+      "text": "看破了从今以后",
+      "translation": null
+    },
+    {
+      "time": 178.11,
+      "time_str": "02:58.110",
+      "text": "却始终被你左右",
+      "translation": null
+    },
+    {
+      "time": 185.162,
+      "time_str": "03:05.162",
+      "text": "扛住了",
+      "translation": null
+    },
+    {
+      "time": 186.492,
+      "time_str": "03:06.492",
+      "text": "柴米油盐的麻烦",
+      "translation": null
+    },
+    {
+      "time": 189.227,
+      "time_str": "03:09.227",
+      "text": "扛住了",
+      "translation": null
+    },
+    {
+      "time": 189.825,
+      "time_str": "03:09.825",
+      "text": "朋友聚会的调侃",
+      "translation": null
+    },
+    {
+      "time": 192.61,
+      "time_str": "03:12.610",
+      "text": "扛住了",
+      "translation": null
+    },
+    {
+      "time": 193.293,
+      "time_str": "03:13.293",
+      "text": "世俗生活的刁难",
+      "translation": null
+    },
+    {
+      "time": 196.075,
+      "time_str": "03:16.075",
+      "text": "却扛不住",
+      "translation": null
+    },
+    {
+      "time": 197.917,
+      "time_str": "03:17.917",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 199.61,
+      "time_str": "03:19.610",
+      "text": "躲过了",
+      "translation": null
+    },
+    {
+      "time": 200.242,
+      "time_str": "03:20.242",
+      "text": "世界末日的灾难",
+      "translation": null
+    },
+    {
+      "time": 202.976,
+      "time_str": "03:22.976",
+      "text": "明白了",
+      "translation": null
+    },
+    {
+      "time": 203.61,
+      "time_str": "03:23.610",
+      "text": "真心是千金不换",
+      "translation": null
+    },
+    {
+      "time": 206.36,
+      "time_str": "03:26.360",
+      "text": "躲过了",
+      "translation": null
+    },
+    {
+      "time": 206.976,
+      "time_str": "03:26.976",
+      "text": "大悲狂喜的极端",
+      "translation": null
+    },
+    {
+      "time": 209.776,
+      "time_str": "03:29.776",
+      "text": "却躲不过",
+      "translation": null
+    },
+    {
+      "time": 211.71,
+      "time_str": "03:31.710",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 215.161,
+      "time_str": "03:35.161",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 218.644,
+      "time_str": "03:38.644",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 221.845,
+      "time_str": "03:41.845",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 225.311,
+      "time_str": "03:45.311",
+      "text": "对你的喜欢",
+      "translation": null
+    },
+    {
+      "time": 229.187,
+      "time_str": "03:49.187",
+      "text": "对你越喜欢",
+      "translation": null
+    },
+    {
+      "time": 232.419,
+      "time_str": "03:52.419",
+      "text": "让我越难堪",
+      "translation": null
+    },
+    {
+      "time": 235.77,
+      "time_str": "03:55.770",
+      "text": "然而再难堪",
+      "translation": null
+    },
+    {
+      "time": 239.187,
+      "time_str": "03:59.187",
+      "text": "我依然",
+      "translation": null
+    },
+    {
+      "time": 240.471,
+      "time_str": "04:00.471",
+      "text": "喜欢",
+      "translation": null
+    },
+    {
+      "time": 243.486,
+      "time_str": "04:03.486",
+      "text": "键盘 : 张伟",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "喜欢 - 阿肆.lrc"
+}

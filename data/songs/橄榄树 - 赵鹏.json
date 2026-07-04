@@ -1,0 +1,130 @@
+{
+  "title": "橄榄树",
+  "title_raw": "橄榄树",
+  "version": null,
+  "artist": "赵鹏",
+  "group_key": "橄榄树|赵鹏",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 41.22,
+      "time_str": "00:41.220",
+      "text": "不要问我从哪里来",
+      "translation": null
+    },
+    {
+      "time": 46.92,
+      "time_str": "00:46.920",
+      "text": "我的故乡在远方",
+      "translation": null
+    },
+    {
+      "time": 53.19,
+      "time_str": "00:53.190",
+      "text": "为什么流浪",
+      "translation": null
+    },
+    {
+      "time": 58.22,
+      "time_str": "00:58.220",
+      "text": "流浪远方　流浪",
+      "translation": null
+    },
+    {
+      "time": 84.86,
+      "time_str": "01:24.860",
+      "text": "为了天空飞翔的小鸟",
+      "translation": null
+    },
+    {
+      "time": 90.91,
+      "time_str": "01:30.910",
+      "text": "为了山间清流的小溪",
+      "translation": null
+    },
+    {
+      "time": 97.05,
+      "time_str": "01:37.050",
+      "text": "为了宽阔的草原",
+      "translation": null
+    },
+    {
+      "time": 102.01,
+      "time_str": "01:42.010",
+      "text": "流浪远方　流浪",
+      "translation": null
+    },
+    {
+      "time": 118.46,
+      "time_str": "01:58.460",
+      "text": "还有　还有",
+      "translation": null
+    },
+    {
+      "time": 122.42,
+      "time_str": "02:02.420",
+      "text": "为了梦中的橄榄树　橄榄树",
+      "translation": null
+    },
+    {
+      "time": 130.49,
+      "time_str": "02:10.490",
+      "text": "不要问我从哪里来",
+      "translation": null
+    },
+    {
+      "time": 136.49,
+      "time_str": "02:16.490",
+      "text": "我的故乡在远方",
+      "translation": null
+    },
+    {
+      "time": 151.09,
+      "time_str": "02:31.090",
+      "text": "为什么流浪",
+      "translation": null
+    },
+    {
+      "time": 155.03,
+      "time_str": "02:35.030",
+      "text": "为什么流浪远方",
+      "translation": null
+    },
+    {
+      "time": 166.68,
+      "time_str": "02:46.680",
+      "text": "为了我梦中的橄榄树",
+      "translation": null
+    },
+    {
+      "time": 196.69,
+      "time_str": "03:16.690",
+      "text": "不要问我从哪里来",
+      "translation": null
+    },
+    {
+      "time": 202.74,
+      "time_str": "03:22.740",
+      "text": "我的故乡在远方",
+      "translation": null
+    },
+    {
+      "time": 208.87,
+      "time_str": "03:28.870",
+      "text": "为什么流浪",
+      "translation": null
+    },
+    {
+      "time": 213.91,
+      "time_str": "03:33.910",
+      "text": "流浪远方　流浪",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "橄榄树 - 赵鹏.lrc"
+}

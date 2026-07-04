@@ -1,0 +1,364 @@
+{
+  "title": "爱降落",
+  "title_raw": "爱降落",
+  "version": null,
+  "artist": "中国娃娃",
+  "group_key": "爱降落|中国娃娃",
+  "writers": {
+    "lyricist": "郭文宗/古裕淼",
+    "composer": "郭文宗",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.44,
+      "time_str": "00:01.440",
+      "text": "我的爱我要追",
+      "translation": null
+    },
+    {
+      "time": 3.46,
+      "time_str": "00:03.460",
+      "text": "I'm falling in love",
+      "translation": null
+    },
+    {
+      "time": 5.88,
+      "time_str": "00:05.880",
+      "text": "决定就不后退",
+      "translation": null
+    },
+    {
+      "time": 9.41,
+      "time_str": "00:09.410",
+      "text": "你的笑你的泪",
+      "translation": null
+    },
+    {
+      "time": 11.38,
+      "time_str": "00:11.380",
+      "text": "晴朗了世界",
+      "translation": null
+    },
+    {
+      "time": 13.85,
+      "time_str": "00:13.850",
+      "text": "爱降落身边",
+      "translation": null
+    },
+    {
+      "time": 33.98,
+      "time_str": "00:33.980",
+      "text": "完美太遥远",
+      "translation": null
+    },
+    {
+      "time": 35.9,
+      "time_str": "00:35.900",
+      "text": "梦想有残缺",
+      "translation": null
+    },
+    {
+      "time": 37.91,
+      "time_str": "00:37.910",
+      "text": "都变成了心愿",
+      "translation": null
+    },
+    {
+      "time": 41.9,
+      "time_str": "00:41.900",
+      "text": "每颗心都有",
+      "translation": null
+    },
+    {
+      "time": 43.88,
+      "time_str": "00:43.880",
+      "text": "心动的危险",
+      "translation": null
+    },
+    {
+      "time": 45.9,
+      "time_str": "00:45.900",
+      "text": "就在一瞬间",
+      "translation": null
+    },
+    {
+      "time": 49.47,
+      "time_str": "00:49.470",
+      "text": "你闯进了我视线",
+      "translation": null
+    },
+    {
+      "time": 53.36,
+      "time_str": "00:53.360",
+      "text": "天旋地转的感觉",
+      "translation": null
+    },
+    {
+      "time": 57.45,
+      "time_str": "00:57.450",
+      "text": "让我一脚踩进",
+      "translation": null
+    },
+    {
+      "time": 59.92,
+      "time_str": "00:59.920",
+      "text": "秘密的花园",
+      "translation": null
+    },
+    {
+      "time": 61.94,
+      "time_str": "01:01.940",
+      "text": "每一步都沦陷",
+      "translation": null
+    },
+    {
+      "time": 65.42,
+      "time_str": "01:05.420",
+      "text": "我的爱我要追",
+      "translation": null
+    },
+    {
+      "time": 67.43,
+      "time_str": "01:07.430",
+      "text": "I'm falling in love",
+      "translation": null
+    },
+    {
+      "time": 69.91,
+      "time_str": "01:09.910",
+      "text": "决定就不后退",
+      "translation": null
+    },
+    {
+      "time": 73.39,
+      "time_str": "01:13.390",
+      "text": "你的笑你的泪",
+      "translation": null
+    },
+    {
+      "time": 75.46,
+      "time_str": "01:15.460",
+      "text": "晴朗了世界",
+      "translation": null
+    },
+    {
+      "time": 77.88,
+      "time_str": "01:17.880",
+      "text": "爱降落身边",
+      "translation": null
+    },
+    {
+      "time": 98.21,
+      "time_str": "01:38.210",
+      "text": "我为你掉泪",
+      "translation": null
+    },
+    {
+      "time": 99.88,
+      "time_str": "01:39.880",
+      "text": "你为我心碎",
+      "translation": null
+    },
+    {
+      "time": 102.1,
+      "time_str": "01:42.100",
+      "text": "爱却不曾后悔",
+      "translation": null
+    },
+    {
+      "time": 105.88,
+      "time_str": "01:45.880",
+      "text": "每颗心都有",
+      "translation": null
+    },
+    {
+      "time": 107.95,
+      "time_str": "01:47.950",
+      "text": "守护的依归",
+      "translation": null
+    },
+    {
+      "time": 109.92,
+      "time_str": "01:49.920",
+      "text": "让夜晚不漆黑",
+      "translation": null
+    },
+    {
+      "time": 113.44,
+      "time_str": "01:53.440",
+      "text": "向流星默默许愿",
+      "translation": null
+    },
+    {
+      "time": 117.28,
+      "time_str": "01:57.280",
+      "text": "要爱像钻石耀眼",
+      "translation": null
+    },
+    {
+      "time": 121.41,
+      "time_str": "02:01.410",
+      "text": "越艰难越特别",
+      "translation": null
+    },
+    {
+      "time": 123.93,
+      "time_str": "02:03.930",
+      "text": "命运在考验",
+      "translation": null
+    },
+    {
+      "time": 125.91,
+      "time_str": "02:05.910",
+      "text": "爱和我们之间",
+      "translation": null
+    },
+    {
+      "time": 129.34,
+      "time_str": "02:09.340",
+      "text": "我的爱我要追",
+      "translation": null
+    },
+    {
+      "time": 131.35,
+      "time_str": "02:11.350",
+      "text": "I'm falling in love",
+      "translation": null
+    },
+    {
+      "time": 133.83,
+      "time_str": "02:13.830",
+      "text": "决定就不后退",
+      "translation": null
+    },
+    {
+      "time": 137.46,
+      "time_str": "02:17.460",
+      "text": "你的笑你的泪",
+      "translation": null
+    },
+    {
+      "time": 139.43,
+      "time_str": "02:19.430",
+      "text": "晴朗了世界",
+      "translation": null
+    },
+    {
+      "time": 141.85,
+      "time_str": "02:21.850",
+      "text": "爱降落身边",
+      "translation": null
+    },
+    {
+      "time": 146.13,
+      "time_str": "02:26.130",
+      "text": "天上的星星",
+      "translation": null
+    },
+    {
+      "time": 147.9,
+      "time_str": "02:27.900",
+      "text": "眨呀眨着眼睛",
+      "translation": null
+    },
+    {
+      "time": 150.27,
+      "time_str": "02:30.270",
+      "text": "偷看着我的心",
+      "translation": null
+    },
+    {
+      "time": 153.86,
+      "time_str": "02:33.860",
+      "text": "地上的蚂蚁",
+      "translation": null
+    },
+    {
+      "time": 155.97,
+      "time_str": "02:35.970",
+      "text": "爬到我的手心",
+      "translation": null
+    },
+    {
+      "time": 157.89,
+      "time_str": "02:37.890",
+      "text": "从此以后不分离",
+      "translation": null
+    },
+    {
+      "time": 161.42,
+      "time_str": "02:41.420",
+      "text": "我的爱我要追",
+      "translation": null
+    },
+    {
+      "time": 163.44,
+      "time_str": "02:43.440",
+      "text": "I'm falling in love",
+      "translation": null
+    },
+    {
+      "time": 165.91,
+      "time_str": "02:45.910",
+      "text": "决定就不后退",
+      "translation": null
+    },
+    {
+      "time": 169.49,
+      "time_str": "02:49.490",
+      "text": "你的笑你的泪",
+      "translation": null
+    },
+    {
+      "time": 171.41,
+      "time_str": "02:51.410",
+      "text": "晴朗了世界",
+      "translation": null
+    },
+    {
+      "time": 173.78,
+      "time_str": "02:53.780",
+      "text": "爱降落身边",
+      "translation": null
+    },
+    {
+      "time": 177.46,
+      "time_str": "02:57.460",
+      "text": "我的爱我要追",
+      "translation": null
+    },
+    {
+      "time": 179.48,
+      "time_str": "02:59.480",
+      "text": "I'm falling in love",
+      "translation": null
+    },
+    {
+      "time": 181.85,
+      "time_str": "03:01.850",
+      "text": "决定就不后退",
+      "translation": null
+    },
+    {
+      "time": 185.48,
+      "time_str": "03:05.480",
+      "text": "你的笑你的泪",
+      "translation": null
+    },
+    {
+      "time": 187.4,
+      "time_str": "03:07.400",
+      "text": "晴朗了世界",
+      "translation": null
+    },
+    {
+      "time": 189.81,
+      "time_str": "03:09.810",
+      "text": "爱降落身边",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱降落 - 中国娃娃.lrc"
+}

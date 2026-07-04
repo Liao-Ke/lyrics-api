@@ -1,0 +1,328 @@
+{
+  "title": "我最闪亮",
+  "title_raw": "我最闪亮",
+  "version": null,
+  "artist": "许飞",
+  "group_key": "我最闪亮|许飞",
+  "writers": {
+    "lyricist": "郭敬明",
+    "composer": "吴梦奇",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 22.488,
+      "time_str": "00:22.488",
+      "text": "灯光和花火一起闪亮",
+      "translation": null
+    },
+    {
+      "time": 26.762,
+      "time_str": "00:26.762",
+      "text": "也亮不过我的梦想",
+      "translation": null
+    },
+    {
+      "time": 30.756,
+      "time_str": "00:30.756",
+      "text": "我旅途的开场",
+      "translation": null
+    },
+    {
+      "time": 33.141,
+      "time_str": "00:33.141",
+      "text": "我沿路的徽章",
+      "translation": null
+    },
+    {
+      "time": 35.785,
+      "time_str": "00:35.785",
+      "text": "风沙搁浅的希望",
+      "translation": null
+    },
+    {
+      "time": 39.349,
+      "time_str": "00:39.349",
+      "text": "时光让脸庞渐渐发光",
+      "translation": null
+    },
+    {
+      "time": 42.814,
+      "time_str": "00:42.814",
+      "text": "风雪把悲伤轻轻吹亮",
+      "translation": null
+    },
+    {
+      "time": 46.675,
+      "time_str": "00:46.675",
+      "text": "被淋湿的翅膀",
+      "translation": null
+    },
+    {
+      "time": 49.133,
+      "time_str": "00:49.133",
+      "text": "才拥有穿越过",
+      "translation": null
+    },
+    {
+      "time": 51.15,
+      "time_str": "00:51.150",
+      "text": "那暴风雨的力量",
+      "translation": null
+    },
+    {
+      "time": 55.429,
+      "time_str": "00:55.429",
+      "text": "曾经的我想唱就唱我最响亮",
+      "translation": null
+    },
+    {
+      "time": 59.369,
+      "time_str": "00:59.369",
+      "text": "这一年夏天有最感动的阳光",
+      "translation": null
+    },
+    {
+      "time": 64.258,
+      "time_str": "01:04.258",
+      "text": "你给我梦想",
+      "translation": null
+    },
+    {
+      "time": 66.13,
+      "time_str": "01:06.130",
+      "text": "我勇敢往前闯",
+      "translation": null
+    },
+    {
+      "time": 68.382,
+      "time_str": "01:08.382",
+      "text": "风吹雨打拍拍肩膀",
+      "translation": null
+    },
+    {
+      "time": 71.385,
+      "time_str": "01:11.385",
+      "text": "现在的我想唱就唱我最响亮",
+      "translation": null
+    },
+    {
+      "time": 75.196,
+      "time_str": "01:15.196",
+      "text": "这一年夏天有最温暖的目光",
+      "translation": null
+    },
+    {
+      "time": 80.16,
+      "time_str": "01:20.160",
+      "text": "记忆的远方",
+      "translation": null
+    },
+    {
+      "time": 82.214,
+      "time_str": "01:22.214",
+      "text": "我披戴的荣光",
+      "translation": null
+    },
+    {
+      "time": 84.32,
+      "time_str": "01:24.320",
+      "text": "照进天窗擦亮梦想",
+      "translation": null
+    },
+    {
+      "time": 89.676,
+      "time_str": "01:29.676",
+      "text": "我最响亮",
+      "translation": null
+    },
+    {
+      "time": 124.906,
+      "time_str": "02:04.906",
+      "text": "灯光和花火一起闪亮",
+      "translation": null
+    },
+    {
+      "time": 128.656,
+      "time_str": "02:08.656",
+      "text": "也亮不过我的梦想",
+      "translation": null
+    },
+    {
+      "time": 132.703,
+      "time_str": "02:12.703",
+      "text": "我旅途的开场",
+      "translation": null
+    },
+    {
+      "time": 135.39,
+      "time_str": "02:15.390",
+      "text": "我沿路的徽章",
+      "translation": null
+    },
+    {
+      "time": 137.826,
+      "time_str": "02:17.826",
+      "text": "风沙搁浅的希望",
+      "translation": null
+    },
+    {
+      "time": 141.282,
+      "time_str": "02:21.282",
+      "text": "时光让脸庞渐渐发光",
+      "translation": null
+    },
+    {
+      "time": 144.602,
+      "time_str": "02:24.602",
+      "text": "风雪把悲伤轻轻吹亮",
+      "translation": null
+    },
+    {
+      "time": 148.699,
+      "time_str": "02:28.699",
+      "text": "被淋湿的翅膀",
+      "translation": null
+    },
+    {
+      "time": 151.132,
+      "time_str": "02:31.132",
+      "text": "才拥有穿越过",
+      "translation": null
+    },
+    {
+      "time": 153.164,
+      "time_str": "02:33.164",
+      "text": "那暴风雨的力量",
+      "translation": null
+    },
+    {
+      "time": 157.31,
+      "time_str": "02:37.310",
+      "text": "曾经的我想唱就唱我最响亮",
+      "translation": null
+    },
+    {
+      "time": 161.153,
+      "time_str": "02:41.153",
+      "text": "这一年夏天有最感动的阳光",
+      "translation": null
+    },
+    {
+      "time": 166.17,
+      "time_str": "02:46.170",
+      "text": "你给我梦想",
+      "translation": null
+    },
+    {
+      "time": 168.158,
+      "time_str": "02:48.158",
+      "text": "我勇敢往前闯",
+      "translation": null
+    },
+    {
+      "time": 170.352,
+      "time_str": "02:50.352",
+      "text": "风吹雨打拍拍肩膀",
+      "translation": null
+    },
+    {
+      "time": 173.209,
+      "time_str": "02:53.209",
+      "text": "现在的我想唱就唱我最响亮",
+      "translation": null
+    },
+    {
+      "time": 177.281,
+      "time_str": "02:57.281",
+      "text": "这一年夏天有最温暖的目光",
+      "translation": null
+    },
+    {
+      "time": 182.139,
+      "time_str": "03:02.139",
+      "text": "记忆的远方",
+      "translation": null
+    },
+    {
+      "time": 184.131,
+      "time_str": "03:04.131",
+      "text": "我披戴的荣光",
+      "translation": null
+    },
+    {
+      "time": 186.338,
+      "time_str": "03:06.338",
+      "text": "照进天窗擦亮梦想",
+      "translation": null
+    },
+    {
+      "time": 189.245,
+      "time_str": "03:09.245",
+      "text": "曾经的我想唱就唱我最响亮",
+      "translation": null
+    },
+    {
+      "time": 193.127,
+      "time_str": "03:13.127",
+      "text": "这一年夏天有最感动的阳光",
+      "translation": null
+    },
+    {
+      "time": 198.179,
+      "time_str": "03:18.179",
+      "text": "你给我梦想",
+      "translation": null
+    },
+    {
+      "time": 200.171,
+      "time_str": "03:20.171",
+      "text": "我勇敢往前闯",
+      "translation": null
+    },
+    {
+      "time": 202.796,
+      "time_str": "03:22.796",
+      "text": "风吹雨打拍拍肩膀",
+      "translation": null
+    },
+    {
+      "time": 205.94,
+      "time_str": "03:25.940",
+      "text": "现在的我想唱就唱我最响亮",
+      "translation": null
+    },
+    {
+      "time": 209.209,
+      "time_str": "03:29.209",
+      "text": "这一年夏天有最温暖的目光",
+      "translation": null
+    },
+    {
+      "time": 214.141,
+      "time_str": "03:34.141",
+      "text": "记忆的远方",
+      "translation": null
+    },
+    {
+      "time": 216.18,
+      "time_str": "03:36.180",
+      "text": "我披戴的荣光",
+      "translation": null
+    },
+    {
+      "time": 218.421,
+      "time_str": "03:38.421",
+      "text": "照进天窗擦亮梦想",
+      "translation": null
+    },
+    {
+      "time": 223.748,
+      "time_str": "03:43.748",
+      "text": "我最闪亮",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我最闪亮 - 许飞.lrc"
+}

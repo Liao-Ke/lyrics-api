@@ -1,0 +1,238 @@
+{
+  "title": "稻香",
+  "title_raw": "稻香",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "稻香|周杰伦",
+  "writers": {
+    "lyricist": "周杰伦",
+    "composer": "周杰伦",
+    "arranger": "黄雨勋"
+  },
+  "lyrics": [
+    {
+      "time": 31.0,
+      "time_str": "00:31.000",
+      "text": "对这个世界如果你有太多的抱怨",
+      "translation": null
+    },
+    {
+      "time": 34.05,
+      "time_str": "00:34.050",
+      "text": "跌倒了就不敢继续往前走",
+      "translation": null
+    },
+    {
+      "time": 37.02,
+      "time_str": "00:37.020",
+      "text": "为什么人要这么的脆弱 堕落",
+      "translation": null
+    },
+    {
+      "time": 41.55,
+      "time_str": "00:41.550",
+      "text": "请你打开电视看看",
+      "translation": null
+    },
+    {
+      "time": 43.14,
+      "time_str": "00:43.140",
+      "text": "多少人为生命在努力勇敢的走下去",
+      "translation": null
+    },
+    {
+      "time": 46.89,
+      "time_str": "00:46.890",
+      "text": "我们是不是该知足",
+      "translation": null
+    },
+    {
+      "time": 49.43,
+      "time_str": "00:49.430",
+      "text": "珍惜一切 就算没有拥有",
+      "translation": null
+    },
+    {
+      "time": 54.24,
+      "time_str": "00:54.240",
+      "text": "还记得你说家是唯一的城堡",
+      "translation": null
+    },
+    {
+      "time": 57.49,
+      "time_str": "00:57.490",
+      "text": "随着稻香河流继续奔跑",
+      "translation": null
+    },
+    {
+      "time": 60.42,
+      "time_str": "01:00.420",
+      "text": "微微笑 小时候的梦我知道",
+      "translation": null
+    },
+    {
+      "time": 65.51,
+      "time_str": "01:05.510",
+      "text": "不要哭让萤火虫带着你逃跑",
+      "translation": null
+    },
+    {
+      "time": 69.21,
+      "time_str": "01:09.210",
+      "text": "乡间的歌谣永远的依靠",
+      "translation": null
+    },
+    {
+      "time": 72.12,
+      "time_str": "01:12.120",
+      "text": "回家吧 回到最初的美好",
+      "translation": null
+    },
+    {
+      "time": 101.14,
+      "time_str": "01:41.140",
+      "text": "不要这么容易就想放弃 就像我说的",
+      "translation": null
+    },
+    {
+      "time": 104.59,
+      "time_str": "01:44.590",
+      "text": "追不到的梦想 换个梦不就得了",
+      "translation": null
+    },
+    {
+      "time": 107.55,
+      "time_str": "01:47.550",
+      "text": "为自己的人生鲜艳上色 先把爱涂上喜欢的颜色",
+      "translation": null
+    },
+    {
+      "time": 111.8,
+      "time_str": "01:51.800",
+      "text": "笑一个吧 功成名就不是目的",
+      "translation": null
+    },
+    {
+      "time": 115.62,
+      "time_str": "01:55.620",
+      "text": "让自己快乐快乐这才叫做意义",
+      "translation": null
+    },
+    {
+      "time": 118.51,
+      "time_str": "01:58.510",
+      "text": "童年的纸飞机 现在终于飞回我手里",
+      "translation": null
+    },
+    {
+      "time": 124.41,
+      "time_str": "02:04.410",
+      "text": "所谓的那快乐 赤脚在田里追蜻蜓追到累了",
+      "translation": null
+    },
+    {
+      "time": 128.62,
+      "time_str": "02:08.620",
+      "text": "偷摘水果被蜜蜂给叮到怕了 谁在偷笑呢",
+      "translation": null
+    },
+    {
+      "time": 133.16,
+      "time_str": "02:13.160",
+      "text": "我靠着稻草人吹着风唱着歌睡着了",
+      "translation": null
+    },
+    {
+      "time": 136.72,
+      "time_str": "02:16.720",
+      "text": "哦 哦 午后吉他在虫鸣中更清脆",
+      "translation": null
+    },
+    {
+      "time": 139.58,
+      "time_str": "02:19.580",
+      "text": "哦 哦 阳光洒在路上就不怕心碎",
+      "translation": null
+    },
+    {
+      "time": 142.53,
+      "time_str": "02:22.530",
+      "text": "珍惜一切 就算没有拥有",
+      "translation": null
+    },
+    {
+      "time": 147.36,
+      "time_str": "02:27.360",
+      "text": "还记得你说家是唯一的城堡",
+      "translation": null
+    },
+    {
+      "time": 151.24,
+      "time_str": "02:31.240",
+      "text": "随着稻香河流继续奔跑",
+      "translation": null
+    },
+    {
+      "time": 154.18,
+      "time_str": "02:34.180",
+      "text": "微微笑 小时候的梦我知道",
+      "translation": null
+    },
+    {
+      "time": 159.35,
+      "time_str": "02:39.350",
+      "text": "不要哭让萤火虫带着你逃跑",
+      "translation": null
+    },
+    {
+      "time": 162.94,
+      "time_str": "02:42.940",
+      "text": "乡间的歌谣永远的依靠",
+      "translation": null
+    },
+    {
+      "time": 165.91,
+      "time_str": "02:45.910",
+      "text": "回家吧 回到最初的美好",
+      "translation": null
+    },
+    {
+      "time": 171.03,
+      "time_str": "02:51.030",
+      "text": "还记得你说家是唯一的城堡",
+      "translation": null
+    },
+    {
+      "time": 174.55,
+      "time_str": "02:54.550",
+      "text": "随着稻香河流继续奔跑",
+      "translation": null
+    },
+    {
+      "time": 177.62,
+      "time_str": "02:57.620",
+      "text": "微微笑 小时候的梦我知道",
+      "translation": null
+    },
+    {
+      "time": 182.67,
+      "time_str": "03:02.670",
+      "text": "不要哭让萤火虫带着你逃跑",
+      "translation": null
+    },
+    {
+      "time": 186.35,
+      "time_str": "03:06.350",
+      "text": "乡间的歌谣永远的依靠",
+      "translation": null
+    },
+    {
+      "time": 189.23,
+      "time_str": "03:09.230",
+      "text": "回家吧 回到最初的美好",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "稻香 - 周杰伦.lrc"
+}

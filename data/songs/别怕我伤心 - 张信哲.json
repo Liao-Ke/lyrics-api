@@ -1,0 +1,292 @@
+{
+  "title": "别怕我伤心",
+  "title_raw": "别怕我伤心",
+  "version": null,
+  "artist": "张信哲",
+  "group_key": "别怕我伤心|张信哲",
+  "writers": {
+    "lyricist": "李宗盛",
+    "composer": "李宗盛",
+    "arranger": "鲍比达"
+  },
+  "lyrics": [
+    {
+      "time": 21.79,
+      "time_str": "00:21.790",
+      "text": "好久没有你的信",
+      "translation": null
+    },
+    {
+      "time": 23.648,
+      "time_str": "00:23.648",
+      "text": "好久没有人陪我谈心",
+      "translation": null
+    },
+    {
+      "time": 27.809,
+      "time_str": "00:27.809",
+      "text": "怀念你柔情似水的眼睛",
+      "translation": null
+    },
+    {
+      "time": 30.809,
+      "time_str": "00:30.809",
+      "text": "是我天空最美丽的星星",
+      "translation": null
+    },
+    {
+      "time": 34.409,
+      "time_str": "00:34.409",
+      "text": "异乡的午夜特别冷清",
+      "translation": null
+    },
+    {
+      "time": 38.099,
+      "time_str": "00:38.099",
+      "text": "一个男人和一颗热切的心",
+      "translation": null
+    },
+    {
+      "time": 41.459,
+      "time_str": "00:41.459",
+      "text": "不知在远方的你是否能感应",
+      "translation": null
+    },
+    {
+      "time": 49.899,
+      "time_str": "00:49.899",
+      "text": "我从来不敢给你任何诺言",
+      "translation": null
+    },
+    {
+      "time": 52.399,
+      "time_str": "00:52.399",
+      "text": "是因为我知道我们太年轻",
+      "translation": null
+    },
+    {
+      "time": 56.579,
+      "time_str": "00:56.579",
+      "text": "你追求的是一种浪漫感觉",
+      "translation": null
+    },
+    {
+      "time": 59.439,
+      "time_str": "00:59.439",
+      "text": "还是那不必负责任的热情",
+      "translation": null
+    },
+    {
+      "time": 63.89,
+      "time_str": "01:03.890",
+      "text": "心中的话到现在才对你表明",
+      "translation": null
+    },
+    {
+      "time": 66.489,
+      "time_str": "01:06.489",
+      "text": "不知道你是否会因此而清醒",
+      "translation": null
+    },
+    {
+      "time": 70.899,
+      "time_str": "01:10.899",
+      "text": "让身在远方的我不必为你担心",
+      "translation": null
+    },
+    {
+      "time": 77.579,
+      "time_str": "01:17.579",
+      "text": "一颗爱你的心",
+      "translation": null
+    },
+    {
+      "time": 82.199,
+      "time_str": "01:22.199",
+      "text": "时时刻刻为你转不停",
+      "translation": null
+    },
+    {
+      "time": 84.689,
+      "time_str": "01:24.689",
+      "text": "我的爱也曾经深深温暖你的心灵",
+      "translation": null
+    },
+    {
+      "time": 91.199,
+      "time_str": "01:31.199",
+      "text": "你和他之间是否已经有了真感情",
+      "translation": null
+    },
+    {
+      "time": 99.419,
+      "time_str": "01:39.419",
+      "text": "别隐瞒对我说",
+      "translation": null
+    },
+    {
+      "time": 102.388,
+      "time_str": "01:42.388",
+      "text": "别怕我伤心",
+      "translation": null
+    },
+    {
+      "time": 157.238,
+      "time_str": "02:37.238",
+      "text": "好久没有你的信",
+      "translation": null
+    },
+    {
+      "time": 160.149,
+      "time_str": "02:40.149",
+      "text": "好久没有人陪我谈心",
+      "translation": null
+    },
+    {
+      "time": 164.048,
+      "time_str": "02:44.048",
+      "text": "怀念你柔情似水的眼睛",
+      "translation": null
+    },
+    {
+      "time": 167.399,
+      "time_str": "02:47.399",
+      "text": "是我天空最美丽的星星",
+      "translation": null
+    },
+    {
+      "time": 171.498,
+      "time_str": "02:51.498",
+      "text": "异乡的午夜特别冷清",
+      "translation": null
+    },
+    {
+      "time": 174.459,
+      "time_str": "02:54.459",
+      "text": "一个男人和一颗热切的心",
+      "translation": null
+    },
+    {
+      "time": 178.009,
+      "time_str": "02:58.009",
+      "text": "不知在远方的你是否能感应",
+      "translation": null
+    },
+    {
+      "time": 185.748,
+      "time_str": "03:05.748",
+      "text": "我从来不敢给你任何诺言",
+      "translation": null
+    },
+    {
+      "time": 188.748,
+      "time_str": "03:08.748",
+      "text": "是因为我知道我们太年轻",
+      "translation": null
+    },
+    {
+      "time": 193.498,
+      "time_str": "03:13.498",
+      "text": "你追求的是一种浪漫感觉",
+      "translation": null
+    },
+    {
+      "time": 197.008,
+      "time_str": "03:17.008",
+      "text": "还是那不必负责任的热情",
+      "translation": null
+    },
+    {
+      "time": 200.689,
+      "time_str": "03:20.689",
+      "text": "心中的话到现在才对你表明",
+      "translation": null
+    },
+    {
+      "time": 204.078,
+      "time_str": "03:24.078",
+      "text": "不知道你是否会因此而清醒",
+      "translation": null
+    },
+    {
+      "time": 207.678,
+      "time_str": "03:27.678",
+      "text": "让身在远方的我不必为你担心",
+      "translation": null
+    },
+    {
+      "time": 214.659,
+      "time_str": "03:34.659",
+      "text": "一颗爱你的心",
+      "translation": null
+    },
+    {
+      "time": 219.09,
+      "time_str": "03:39.090",
+      "text": "时时刻刻为你转不停",
+      "translation": null
+    },
+    {
+      "time": 222.098,
+      "time_str": "03:42.098",
+      "text": "我的爱也曾经深深温暖你的心灵",
+      "translation": null
+    },
+    {
+      "time": 229.18,
+      "time_str": "03:49.180",
+      "text": "你和他之间是否已经有了真感情",
+      "translation": null
+    },
+    {
+      "time": 236.689,
+      "time_str": "03:56.689",
+      "text": "别隐瞒对我说",
+      "translation": null
+    },
+    {
+      "time": 240.18,
+      "time_str": "04:00.180",
+      "text": "别怕我伤心",
+      "translation": null
+    },
+    {
+      "time": 243.178,
+      "time_str": "04:03.178",
+      "text": "一颗爱你的心",
+      "translation": null
+    },
+    {
+      "time": 248.69,
+      "time_str": "04:08.690",
+      "text": "时时刻刻为你转不停",
+      "translation": null
+    },
+    {
+      "time": 251.58,
+      "time_str": "04:11.580",
+      "text": "我的爱也曾经深深温暖你的心灵",
+      "translation": null
+    },
+    {
+      "time": 258.09,
+      "time_str": "04:18.090",
+      "text": "你和他之间是否已经有了真感情",
+      "translation": null
+    },
+    {
+      "time": 265.138,
+      "time_str": "04:25.138",
+      "text": "别隐瞒对我说",
+      "translation": null
+    },
+    {
+      "time": 268.239,
+      "time_str": "04:28.239",
+      "text": "别怕我伤心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "别怕我伤心 - 张信哲.lrc"
+}

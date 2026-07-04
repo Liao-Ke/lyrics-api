@@ -1,0 +1,118 @@
+{
+  "title": "走西口",
+  "title_raw": "走西口",
+  "version": null,
+  "artist": "苏云",
+  "group_key": "走西口|苏云",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.66,
+      "time_str": "00:19.660",
+      "text": "哥哥你走西口，小妹妹我实在难留，",
+      "translation": null
+    },
+    {
+      "time": 27.64,
+      "time_str": "00:27.640",
+      "text": "手拉着哥哥的手，送哥送到大门口。",
+      "translation": null
+    },
+    {
+      "time": 38.1,
+      "time_str": "00:38.10",
+      "text": "哥哥你出村口，小妹妹我有句话儿留，",
+      "translation": null
+    },
+    {
+      "time": 46.36,
+      "time_str": "00:46.36",
+      "text": "走路走那大路口，人马多来解忧愁。",
+      "translation": null
+    },
+    {
+      "time": 56.76,
+      "time_str": "00:56.76",
+      "text": "紧紧地拉着哥哥的袖，汪汪的泪水肚里流，",
+      "translation": null
+    },
+    {
+      "time": 65.52,
+      "time_str": "01:05.52",
+      "text": "只恨妹妹我不能跟你一起走，",
+      "translation": null
+    },
+    {
+      "time": 72.36,
+      "time_str": "01:12.36",
+      "text": "只盼哥哥你早回家门口。",
+      "translation": null
+    },
+    {
+      "time": 78.8,
+      "time_str": "01:18.800",
+      "text": "Music",
+      "translation": null
+    },
+    {
+      "time": 95.51,
+      "time_str": "01:35.510",
+      "text": "哥哥你走西口，小妹妹我苦在心头，",
+      "translation": null
+    },
+    {
+      "time": 103.83,
+      "time_str": "01:43.830",
+      "text": "这一走要去多少时候，盼你也要白了头。",
+      "translation": null
+    },
+    {
+      "time": 114.62,
+      "time_str": "01:54.620",
+      "text": "哥哥你出村口，小妹妹我有句话儿留，",
+      "translation": null
+    },
+    {
+      "time": 122.61,
+      "time_str": "02:02.610",
+      "text": "走路走那大路口，人马多来解忧愁。",
+      "translation": null
+    },
+    {
+      "time": 132.95,
+      "time_str": "02:12.950",
+      "text": "紧紧地拉着哥哥的袖，汪汪的泪水肚里流，",
+      "translation": null
+    },
+    {
+      "time": 141.71,
+      "time_str": "02:21.710",
+      "text": "只恨妹妹我不能跟你一起走，",
+      "translation": null
+    },
+    {
+      "time": 148.72,
+      "time_str": "02:28.720",
+      "text": "只盼哥哥你早回家门口。",
+      "translation": null
+    },
+    {
+      "time": 155.03,
+      "time_str": "02:35.030",
+      "text": "只盼哥哥你早回家门口，",
+      "translation": null
+    },
+    {
+      "time": 161.32,
+      "time_str": "02:41.320",
+      "text": "只盼哥哥你早回家门口。",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "走西口 - 苏云.lrc"
+}

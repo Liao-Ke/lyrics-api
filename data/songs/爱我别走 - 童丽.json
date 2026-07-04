@@ -1,0 +1,256 @@
+{
+  "title": "爱我别走",
+  "title_raw": "爱我别走",
+  "version": null,
+  "artist": "童丽",
+  "group_key": "爱我别走|童丽",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.6,
+      "time_str": "00:29.600",
+      "text": "我到了这个时候还是一样",
+      "translation": null
+    },
+    {
+      "time": 34.9,
+      "time_str": "00:34.900",
+      "text": "夜里的寂寞容易叫人悲伤",
+      "translation": null
+    },
+    {
+      "time": 40.3,
+      "time_str": "00:40.300",
+      "text": "我不敢想的太多",
+      "translation": null
+    },
+    {
+      "time": 44.31,
+      "time_str": "00:44.310",
+      "text": "因为我一个人",
+      "translation": null
+    },
+    {
+      "time": 50.97,
+      "time_str": "00:50.970",
+      "text": "迎面而来的月光拉长身影",
+      "translation": null
+    },
+    {
+      "time": 56.32,
+      "time_str": "00:56.320",
+      "text": "漫无目的地走在冷冷的街",
+      "translation": null
+    },
+    {
+      "time": 61.63,
+      "time_str": "01:01.630",
+      "text": "我没有你的消息",
+      "translation": null
+    },
+    {
+      "time": 65.52,
+      "time_str": "01:05.520",
+      "text": "因为我在想你",
+      "translation": null
+    },
+    {
+      "time": 72.64,
+      "time_str": "01:12.640",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 75.38,
+      "time_str": "01:15.380",
+      "text": "如果你说你不爱我",
+      "translation": null
+    },
+    {
+      "time": 83.27,
+      "time_str": "01:23.270",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 86.91,
+      "time_str": "01:26.910",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 93.96,
+      "time_str": "01:33.960",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 96.63,
+      "time_str": "01:36.630",
+      "text": "如果你说你不爱我",
+      "translation": null
+    },
+    {
+      "time": 104.6,
+      "time_str": "01:44.600",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 108.15,
+      "time_str": "01:48.150",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 117.62,
+      "time_str": "01:57.620",
+      "text": "我到了这个时候还是一样",
+      "translation": null
+    },
+    {
+      "time": 122.94,
+      "time_str": "02:02.940",
+      "text": "夜里的寂寞容易叫人悲伤",
+      "translation": null
+    },
+    {
+      "time": 128.24,
+      "time_str": "02:08.240",
+      "text": "我不敢想的太多",
+      "translation": null
+    },
+    {
+      "time": 132.24,
+      "time_str": "02:12.240",
+      "text": "因为我一个人",
+      "translation": null
+    },
+    {
+      "time": 138.96,
+      "time_str": "02:18.960",
+      "text": "迎面而来的月光拉长身影",
+      "translation": null
+    },
+    {
+      "time": 144.24,
+      "time_str": "02:24.240",
+      "text": "漫无目的地走在冷冷的街",
+      "translation": null
+    },
+    {
+      "time": 149.59,
+      "time_str": "02:29.590",
+      "text": "我没有你的消息",
+      "translation": null
+    },
+    {
+      "time": 153.57,
+      "time_str": "02:33.570",
+      "text": "因为我在想你",
+      "translation": null
+    },
+    {
+      "time": 160.65,
+      "time_str": "02:40.650",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 163.3,
+      "time_str": "02:43.300",
+      "text": "如果你说你不爱我",
+      "translation": null
+    },
+    {
+      "time": 171.44,
+      "time_str": "02:51.440",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 174.75,
+      "time_str": "02:54.750",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 181.9,
+      "time_str": "03:01.900",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 184.55,
+      "time_str": "03:04.550",
+      "text": "如果你说你不爱我",
+      "translation": null
+    },
+    {
+      "time": 192.57,
+      "time_str": "03:12.570",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 196.12,
+      "time_str": "03:16.120",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 224.6,
+      "time_str": "03:44.600",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 227.27,
+      "time_str": "03:47.270",
+      "text": "如果你说你不爱我",
+      "translation": null
+    },
+    {
+      "time": 235.26,
+      "time_str": "03:55.260",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 238.81,
+      "time_str": "03:58.810",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 245.89,
+      "time_str": "04:05.890",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 248.63,
+      "time_str": "04:08.630",
+      "text": "如果你说你不爱我",
+      "translation": null
+    },
+    {
+      "time": 256.57,
+      "time_str": "04:16.570",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 260.2,
+      "time_str": "04:20.200",
+      "text": "再给我一点温柔",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱我别走 - 童丽.lrc"
+}

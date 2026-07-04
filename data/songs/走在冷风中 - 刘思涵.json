@@ -1,0 +1,202 @@
+{
+  "title": "走在冷风中",
+  "title_raw": "走在冷风中",
+  "version": null,
+  "artist": "刘思涵",
+  "group_key": "走在冷风中|刘思涵",
+  "writers": {
+    "lyricist": "安立奎",
+    "composer": "王于升",
+    "arranger": "蔡庭贵"
+  },
+  "lyrics": [
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "吉他录音室 : 杨大纬录音工作室",
+      "translation": null
+    },
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "吉他录音 : Jason Lu",
+      "translation": null
+    },
+    {
+      "time": 11.0,
+      "time_str": "00:11.000",
+      "text": "混音室 : 杨大纬录音工作室",
+      "translation": null
+    },
+    {
+      "time": 18.32,
+      "time_str": "00:18.320",
+      "text": "分手 从你口中说出十分冷漠",
+      "translation": null
+    },
+    {
+      "time": 25.63,
+      "time_str": "00:25.630",
+      "text": "难过 沸腾心中然后熄灭的火",
+      "translation": null
+    },
+    {
+      "time": 32.92,
+      "time_str": "00:32.920",
+      "text": "我以为留下来没有错",
+      "translation": null
+    },
+    {
+      "time": 37.74,
+      "time_str": "00:37.740",
+      "text": "我以为努力过你会懂",
+      "translation": null
+    },
+    {
+      "time": 41.27,
+      "time_str": "00:41.270",
+      "text": "怎么连落叶 都在嘲笑我",
+      "translation": null
+    },
+    {
+      "time": 45.59,
+      "time_str": "00:45.590",
+      "text": "要假装坚强的走",
+      "translation": null
+    },
+    {
+      "time": 53.56,
+      "time_str": "00:53.560",
+      "text": "行走在冬夜的冷风中",
+      "translation": null
+    },
+    {
+      "time": 57.32,
+      "time_str": "00:57.320",
+      "text": "飘散的 踩碎的 都是梦",
+      "translation": null
+    },
+    {
+      "time": 61.29,
+      "time_str": "01:01.290",
+      "text": "孤单单这一刻 如何 确定你曾爱过我",
+      "translation": null
+    },
+    {
+      "time": 69.7,
+      "time_str": "01:09.700",
+      "text": "停留在冬夜的冷风中",
+      "translation": null
+    },
+    {
+      "time": 73.2,
+      "time_str": "01:13.200",
+      "text": "我不是 也不想 装脆弱",
+      "translation": null
+    },
+    {
+      "time": 76.64,
+      "time_str": "01:16.640",
+      "text": "我没说不代表我不会痛",
+      "translation": null
+    },
+    {
+      "time": 100.53,
+      "time_str": "01:40.530",
+      "text": "我以为你暂时走失了",
+      "translation": null
+    },
+    {
+      "time": 104.37,
+      "time_str": "01:44.370",
+      "text": "我以为你累了会回头",
+      "translation": null
+    },
+    {
+      "time": 107.84,
+      "time_str": "01:47.840",
+      "text": "怎么连复杂的故事背后",
+      "translation": null
+    },
+    {
+      "time": 112.21,
+      "time_str": "01:52.210",
+      "text": "都是我听朋友说",
+      "translation": null
+    },
+    {
+      "time": 118.1,
+      "time_str": "01:58.100",
+      "text": "行走在冬夜的冷风中",
+      "translation": null
+    },
+    {
+      "time": 121.97,
+      "time_str": "02:01.970",
+      "text": "飘散的 踩碎的 都是梦",
+      "translation": null
+    },
+    {
+      "time": 125.85,
+      "time_str": "02:05.850",
+      "text": "孤单单这一刻 如何 确定你曾爱过我",
+      "translation": null
+    },
+    {
+      "time": 133.64,
+      "time_str": "02:13.640",
+      "text": "停留在冬夜的冷风中",
+      "translation": null
+    },
+    {
+      "time": 137.57,
+      "time_str": "02:17.570",
+      "text": "我不是 也不想 装脆弱",
+      "translation": null
+    },
+    {
+      "time": 141.57,
+      "time_str": "02:21.570",
+      "text": "我没说不代表我不会痛",
+      "translation": null
+    },
+    {
+      "time": 153.2,
+      "time_str": "02:33.200",
+      "text": "停留在冬夜的冷风中",
+      "translation": null
+    },
+    {
+      "time": 157.9,
+      "time_str": "02:37.900",
+      "text": "我不是 也不想 装脆弱",
+      "translation": null
+    },
+    {
+      "time": 161.7,
+      "time_str": "02:41.700",
+      "text": "只因为你说过 爱是等待是细水长流",
+      "translation": null
+    },
+    {
+      "time": 168.86,
+      "time_str": "02:48.860",
+      "text": "Je le sais continue c’est pas bon",
+      "translation": "(我知道继续是不好的)"
+    },
+    {
+      "time": 172.81,
+      "time_str": "02:52.810",
+      "text": "A la fin tu restes pas longtemps",
+      "translation": "(结局是你不会停留太久)"
+    },
+    {
+      "time": 176.75,
+      "time_str": "02:56.750",
+      "text": "我没说不代表我不会痛",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "走在冷风中 - 刘思涵.lrc"
+}

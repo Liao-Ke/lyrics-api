@@ -1,0 +1,346 @@
+{
+  "title": "父亲",
+  "title_raw": "父亲",
+  "version": null,
+  "artist": "筷子兄弟",
+  "group_key": "父亲|筷子兄弟",
+  "writers": {
+    "lyricist": "筷子兄弟王太利",
+    "composer": "筷子兄弟王太利",
+    "arranger": "赵佳霖"
+  },
+  "lyrics": [
+    {
+      "time": 26.67,
+      "time_str": "00:26.670",
+      "text": "总是向你索取",
+      "translation": null
+    },
+    {
+      "time": 28.94,
+      "time_str": "00:28.940",
+      "text": "却不曾说谢谢你",
+      "translation": null
+    },
+    {
+      "time": 33.08,
+      "time_str": "00:33.080",
+      "text": "直到长大以后",
+      "translation": null
+    },
+    {
+      "time": 35.5,
+      "time_str": "00:35.500",
+      "text": "才懂得你不容易",
+      "translation": null
+    },
+    {
+      "time": 39.87,
+      "time_str": "00:39.870",
+      "text": "每次离开总是",
+      "translation": null
+    },
+    {
+      "time": 42.09,
+      "time_str": "00:42.090",
+      "text": "装做轻松的样子",
+      "translation": null
+    },
+    {
+      "time": 45.92,
+      "time_str": "00:45.920",
+      "text": "微笑着说回去吧",
+      "translation": null
+    },
+    {
+      "time": 49.3,
+      "time_str": "00:49.300",
+      "text": "转身泪湿眼底",
+      "translation": null
+    },
+    {
+      "time": 52.38,
+      "time_str": "00:52.380",
+      "text": "多想和从前一样",
+      "translation": null
+    },
+    {
+      "time": 55.87,
+      "time_str": "00:55.870",
+      "text": "牵你温暖手掌",
+      "translation": null
+    },
+    {
+      "time": 58.55,
+      "time_str": "00:58.550",
+      "text": "可是你不在我身旁",
+      "translation": null
+    },
+    {
+      "time": 62.44,
+      "time_str": "01:02.440",
+      "text": "托清风捎去安康",
+      "translation": null
+    },
+    {
+      "time": 68.67,
+      "time_str": "01:08.670",
+      "text": "时光时光慢些吧",
+      "translation": null
+    },
+    {
+      "time": 71.95,
+      "time_str": "01:11.950",
+      "text": "不要再让你变老了",
+      "translation": null
+    },
+    {
+      "time": 75.33,
+      "time_str": "01:15.330",
+      "text": "我愿用我一切",
+      "translation": null
+    },
+    {
+      "time": 77.35,
+      "time_str": "01:17.350",
+      "text": "换你岁月长留",
+      "translation": null
+    },
+    {
+      "time": 82.01,
+      "time_str": "01:22.010",
+      "text": "一生要强的爸爸",
+      "translation": null
+    },
+    {
+      "time": 85.24,
+      "time_str": "01:25.240",
+      "text": "我能为你做些什么",
+      "translation": null
+    },
+    {
+      "time": 88.52,
+      "time_str": "01:28.520",
+      "text": "微不足道的关心收下吧",
+      "translation": null
+    },
+    {
+      "time": 94.98,
+      "time_str": "01:34.980",
+      "text": "谢谢你做的一切",
+      "translation": null
+    },
+    {
+      "time": 98.37,
+      "time_str": "01:38.370",
+      "text": "双手撑起我们的家",
+      "translation": null
+    },
+    {
+      "time": 101.65,
+      "time_str": "01:41.650",
+      "text": "总是竭尽所有",
+      "translation": null
+    },
+    {
+      "time": 103.72,
+      "time_str": "01:43.720",
+      "text": "把最好的给我",
+      "translation": null
+    },
+    {
+      "time": 107.96,
+      "time_str": "01:47.960",
+      "text": "我是你的骄傲吗",
+      "translation": null
+    },
+    {
+      "time": 111.45,
+      "time_str": "01:51.450",
+      "text": "还在为我而担心吗",
+      "translation": null
+    },
+    {
+      "time": 114.79,
+      "time_str": "01:54.790",
+      "text": "你牵挂的孩子啊",
+      "translation": null
+    },
+    {
+      "time": 117.67,
+      "time_str": "01:57.670",
+      "text": "长大啦",
+      "translation": null
+    },
+    {
+      "time": 154.59,
+      "time_str": "02:34.590",
+      "text": "多想和从前一样",
+      "translation": null
+    },
+    {
+      "time": 157.72,
+      "time_str": "02:37.720",
+      "text": "牵你温暖手掌",
+      "translation": null
+    },
+    {
+      "time": 160.54,
+      "time_str": "02:40.540",
+      "text": "可是你不在我身旁",
+      "translation": null
+    },
+    {
+      "time": 164.28,
+      "time_str": "02:44.280",
+      "text": "托清风捎去安康",
+      "translation": null
+    },
+    {
+      "time": 170.78,
+      "time_str": "02:50.780",
+      "text": "时光时光慢些吧",
+      "translation": null
+    },
+    {
+      "time": 173.92,
+      "time_str": "02:53.920",
+      "text": "不要再让你变老了",
+      "translation": null
+    },
+    {
+      "time": 177.2,
+      "time_str": "02:57.200",
+      "text": "我愿用我一切",
+      "translation": null
+    },
+    {
+      "time": 179.27,
+      "time_str": "02:59.270",
+      "text": "换你岁月长留",
+      "translation": null
+    },
+    {
+      "time": 183.71,
+      "time_str": "03:03.710",
+      "text": "一生要强的爸爸",
+      "translation": null
+    },
+    {
+      "time": 187.09,
+      "time_str": "03:07.090",
+      "text": "我能为你做些什么",
+      "translation": null
+    },
+    {
+      "time": 190.43,
+      "time_str": "03:10.430",
+      "text": "微不足道的关心收下吧",
+      "translation": null
+    },
+    {
+      "time": 196.94,
+      "time_str": "03:16.940",
+      "text": "谢谢你做的一切",
+      "translation": null
+    },
+    {
+      "time": 200.28,
+      "time_str": "03:20.280",
+      "text": "双手撑起我们的家",
+      "translation": null
+    },
+    {
+      "time": 203.71,
+      "time_str": "03:23.710",
+      "text": "总是竭尽所有",
+      "translation": null
+    },
+    {
+      "time": 205.73,
+      "time_str": "03:25.730",
+      "text": "把最好的给我",
+      "translation": null
+    },
+    {
+      "time": 210.06,
+      "time_str": "03:30.060",
+      "text": "我是你的骄傲吗",
+      "translation": null
+    },
+    {
+      "time": 213.4,
+      "time_str": "03:33.400",
+      "text": "还在为我而担心吗",
+      "translation": null
+    },
+    {
+      "time": 216.68,
+      "time_str": "03:36.680",
+      "text": "你牵挂的孩子啊",
+      "translation": null
+    },
+    {
+      "time": 219.56,
+      "time_str": "03:39.560",
+      "text": "长大啦",
+      "translation": null
+    },
+    {
+      "time": 223.35,
+      "time_str": "03:43.350",
+      "text": "时光时光慢些吧",
+      "translation": null
+    },
+    {
+      "time": 226.68,
+      "time_str": "03:46.680",
+      "text": "不要再让你变老了",
+      "translation": null
+    },
+    {
+      "time": 229.86,
+      "time_str": "03:49.860",
+      "text": "我愿用我一切",
+      "translation": null
+    },
+    {
+      "time": 231.98,
+      "time_str": "03:51.980",
+      "text": "换你岁月长留",
+      "translation": null
+    },
+    {
+      "time": 236.17,
+      "time_str": "03:56.170",
+      "text": "我是你的骄傲吗",
+      "translation": null
+    },
+    {
+      "time": 239.8,
+      "time_str": "03:59.800",
+      "text": "还在为我而担心吗",
+      "translation": null
+    },
+    {
+      "time": 243.09,
+      "time_str": "04:03.090",
+      "text": "你牵挂的孩子啊",
+      "translation": null
+    },
+    {
+      "time": 245.86,
+      "time_str": "04:05.860",
+      "text": "长大啦",
+      "translation": null
+    },
+    {
+      "time": 249.6,
+      "time_str": "04:09.600",
+      "text": "感谢一路上有你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "父亲 - 筷子兄弟.lrc"
+}

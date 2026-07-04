@@ -1,0 +1,262 @@
+{
+  "title": "一场游戏一场梦",
+  "title_raw": "一场游戏一场梦",
+  "version": null,
+  "artist": "王杰",
+  "group_key": "一场游戏一场梦|王杰",
+  "writers": {
+    "lyricist": "王文清",
+    "composer": "王文清",
+    "arranger": "陈志远"
+  },
+  "lyrics": [
+    {
+      "time": 34.399,
+      "time_str": "00:34.399",
+      "text": "不要谈什么分离",
+      "translation": null
+    },
+    {
+      "time": 37.19,
+      "time_str": "00:37.190",
+      "text": "我不会因为这样而哭泣",
+      "translation": null
+    },
+    {
+      "time": 41.319,
+      "time_str": "00:41.319",
+      "text": "那只是昨夜的一场梦而已",
+      "translation": null
+    },
+    {
+      "time": 47.379,
+      "time_str": "00:47.379",
+      "text": "不要说愿不愿意",
+      "translation": null
+    },
+    {
+      "time": 50.369,
+      "time_str": "00:50.369",
+      "text": "我不会因为这样而在意",
+      "translation": null
+    },
+    {
+      "time": 55.99,
+      "time_str": "00:55.990",
+      "text": "那只是昨夜的一场游戏",
+      "translation": null
+    },
+    {
+      "time": 60.709,
+      "time_str": "01:00.709",
+      "text": "那只是一场游戏一场梦",
+      "translation": null
+    },
+    {
+      "time": 64.389,
+      "time_str": "01:04.389",
+      "text": "虽然你影子还出现我眼里",
+      "translation": null
+    },
+    {
+      "time": 68.799,
+      "time_str": "01:08.799",
+      "text": "在我的歌声中早已没有你",
+      "translation": null
+    },
+    {
+      "time": 74.999,
+      "time_str": "01:14.999",
+      "text": "那只是一场游戏一场梦",
+      "translation": null
+    },
+    {
+      "time": 78.239,
+      "time_str": "01:18.239",
+      "text": "不要把残缺的爱留在这里",
+      "translation": null
+    },
+    {
+      "time": 82.549,
+      "time_str": "01:22.549",
+      "text": "在两个人的世界里不该有你",
+      "translation": null
+    },
+    {
+      "time": 88.109,
+      "time_str": "01:28.109",
+      "text": "oh 为什么道别离 又说什么在一起",
+      "translation": null
+    },
+    {
+      "time": 96.519,
+      "time_str": "01:36.519",
+      "text": "如今虽然没有你 我还是我自己",
+      "translation": null
+    },
+    {
+      "time": 103.178,
+      "time_str": "01:43.178",
+      "text": "说什么此情永不渝",
+      "translation": null
+    },
+    {
+      "time": 106.648,
+      "time_str": "01:46.648",
+      "text": "说什么我爱你",
+      "translation": null
+    },
+    {
+      "time": 110.019,
+      "time_str": "01:50.019",
+      "text": "如今依然没有你 我还是我自己",
+      "translation": null
+    },
+    {
+      "time": 143.228,
+      "time_str": "02:23.228",
+      "text": "那只是一场游戏一场梦",
+      "translation": null
+    },
+    {
+      "time": 147.009,
+      "time_str": "02:27.009",
+      "text": "虽然你影子还出现我眼里",
+      "translation": null
+    },
+    {
+      "time": 151.29,
+      "time_str": "02:31.290",
+      "text": "在我的歌声中早已没有你",
+      "translation": null
+    },
+    {
+      "time": 157.39,
+      "time_str": "02:37.390",
+      "text": "那只是一场游戏一场梦",
+      "translation": null
+    },
+    {
+      "time": 161.099,
+      "time_str": "02:41.099",
+      "text": "不要把残缺的爱留在这里",
+      "translation": null
+    },
+    {
+      "time": 164.528,
+      "time_str": "02:44.528",
+      "text": "在两个人的世界里不该有你",
+      "translation": null
+    },
+    {
+      "time": 171.69,
+      "time_str": "02:51.690",
+      "text": "oh 为什么道别离 又说什么在一起",
+      "translation": null
+    },
+    {
+      "time": 178.859,
+      "time_str": "02:58.859",
+      "text": "如今虽然没有你 我还是我自己",
+      "translation": null
+    },
+    {
+      "time": 185.749,
+      "time_str": "03:05.749",
+      "text": "说什么此情永不渝",
+      "translation": null
+    },
+    {
+      "time": 189.59,
+      "time_str": "03:09.590",
+      "text": "说什么我爱你",
+      "translation": null
+    },
+    {
+      "time": 192.669,
+      "time_str": "03:12.669",
+      "text": "如今依然没有你 我还是我自己",
+      "translation": null
+    },
+    {
+      "time": 202.199,
+      "time_str": "03:22.199",
+      "text": "为什么道别离 又说什么在一起",
+      "translation": null
+    },
+    {
+      "time": 209.689,
+      "time_str": "03:29.689",
+      "text": "如今虽然没有你 我还是我自己",
+      "translation": null
+    },
+    {
+      "time": 217.3,
+      "time_str": "03:37.300",
+      "text": "说什么此情永不渝",
+      "translation": null
+    },
+    {
+      "time": 221.39,
+      "time_str": "03:41.390",
+      "text": "说什么我爱你",
+      "translation": null
+    },
+    {
+      "time": 223.349,
+      "time_str": "03:43.349",
+      "text": "如今依然没有你 我还是我自己",
+      "translation": null
+    },
+    {
+      "time": 250.333,
+      "time_str": "04:10.333",
+      "text": "键盘：陈志远",
+      "translation": null
+    },
+    {
+      "time": 250.749,
+      "time_str": "04:10.749",
+      "text": "贝斯：郭宗韶",
+      "translation": null
+    },
+    {
+      "time": 251.165,
+      "time_str": "04:11.165",
+      "text": "大提琴：范宗沛",
+      "translation": null
+    },
+    {
+      "time": 253.245,
+      "time_str": "04:13.245",
+      "text": "协调员：陈大力",
+      "translation": null
+    },
+    {
+      "time": 253.661,
+      "time_str": "04:13.661",
+      "text": "设计：Album Design Unit",
+      "translation": null
+    },
+    {
+      "time": 254.077,
+      "time_str": "04:14.077",
+      "text": "执行制作人：彭国华",
+      "translation": null
+    },
+    {
+      "time": 254.493,
+      "time_str": "04:14.493",
+      "text": "摄影：陈福堂",
+      "translation": null
+    },
+    {
+      "time": 254.909,
+      "time_str": "04:14.909",
+      "text": "主持：吴楚楚",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一场游戏一场梦 - 王杰.lrc"
+}

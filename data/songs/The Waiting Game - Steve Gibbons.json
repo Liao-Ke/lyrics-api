@@ -1,0 +1,250 @@
+{
+  "title": "The Waiting Game",
+  "title_raw": "The Waiting Game",
+  "version": null,
+  "artist": "Steve Gibbons",
+  "group_key": "the waiting game|steve gibbons",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 17.41,
+      "time_str": "00:17.410",
+      "text": "I’m gonna miss you so crazed",
+      "translation": "我对你的思念几近疯狂"
+    },
+    {
+      "time": 20.87,
+      "time_str": "00:20.870",
+      "text": "I’ve gotta be some other place",
+      "translation": "我想我要去到另外一个地方"
+    },
+    {
+      "time": 24.9,
+      "time_str": "00:24.900",
+      "text": "I have to leave you on the streets",
+      "translation": "我将要离开你，然后无家可归"
+    },
+    {
+      "time": 28.3,
+      "time_str": "00:28.300",
+      "text": "I need some help to pack my case",
+      "translation": "我需要一些帮助去打包我的行囊"
+    },
+    {
+      "time": 33.419,
+      "time_str": "00:33.419",
+      "text": "This world is all at stage",
+      "translation": "这个世界完全是个舞台"
+    },
+    {
+      "time": 35.959,
+      "time_str": "00:35.959",
+      "text": "We got different roles to play",
+      "translation": "我们有自己要扮演的角色"
+    },
+    {
+      "time": 38.419,
+      "time_str": "00:38.419",
+      "text": "Every day’s another page",
+      "translation": "每一个白天就是崭新的一页"
+    },
+    {
+      "time": 40.25,
+      "time_str": "00:40.250",
+      "text": "Every night I hope and pray",
+      "translation": "每一个夜晚我仰望并祈祷"
+    },
+    {
+      "time": 42.62,
+      "time_str": "00:42.620",
+      "text": "That you’ll always be the same",
+      "translation": "你，也是一样吧"
+    },
+    {
+      "time": 46.419,
+      "time_str": "00:46.419",
+      "text": "We play the waiting game",
+      "translation": "我们正在玩一个名为等待的游戏"
+    },
+    {
+      "time": 50.68,
+      "time_str": "00:50.680",
+      "text": "How bitter sweet to say goodbye",
+      "translation": "说出再见充满了苦涩的甜美"
+    },
+    {
+      "time": 54.25,
+      "time_str": "00:54.250",
+      "text": "Who knows what lies are on the bed",
+      "translation": "谁知道在床上充斥着怎样的谎言？"
+    },
+    {
+      "time": 58.5,
+      "time_str": "00:58.500",
+      "text": "There’s so much danger on the road",
+      "translation": "街道上总是潜伏着危险"
+    },
+    {
+      "time": 62.199,
+      "time_str": "01:02.199",
+      "text": "I would be foolish to pretend",
+      "translation": "我还是愚蠢地伪装"
+    },
+    {
+      "time": 67.8,
+      "time_str": "01:07.800",
+      "text": "That sometimes I'm not afraid",
+      "translation": "但有时我并不害怕"
+    },
+    {
+      "time": 70.2,
+      "time_str": "01:10.200",
+      "text": "When I hear that wild alarm",
+      "translation": "即使听到那疯狂的警告"
+    },
+    {
+      "time": 71.488,
+      "time_str": "01:11.488",
+      "text": "Racing through this mad parade",
+      "translation": "匆匆穿过那发疯般的游行队伍"
+    },
+    {
+      "time": 73.61,
+      "time_str": "01:13.610",
+      "text": "All the world is up and horns",
+      "translation": "整个世界都清醒并喧嚣"
+    },
+    {
+      "time": 75.619,
+      "time_str": "01:15.619",
+      "text": "It’s a downright dirty ****",
+      "translation": "这是一件肮脏彻底的蠢事"
+    },
+    {
+      "time": 80.1,
+      "time_str": "01:20.100",
+      "text": "It’s just a waiting game",
+      "translation": "这只是一场名为等待的游戏"
+    },
+    {
+      "time": 84.56,
+      "time_str": "01:24.560",
+      "text": "It’s the waiting game",
+      "translation": "这只是一场名为等待的游戏"
+    },
+    {
+      "time": 88.22,
+      "time_str": "01:28.220",
+      "text": "It’s the waiting game",
+      "translation": "这只是一场名为等待的游戏"
+    },
+    {
+      "time": 91.6,
+      "time_str": "01:31.600",
+      "text": "It’s just a waiting game",
+      "translation": "这只是一个等待的游戏"
+    },
+    {
+      "time": 113.899,
+      "time_str": "01:53.899",
+      "text": "This world is all at stage",
+      "translation": "这个世界完全是个舞台"
+    },
+    {
+      "time": 116.399,
+      "time_str": "01:56.399",
+      "text": "We got different roles to play",
+      "translation": "我们有自己要扮演的角色"
+    },
+    {
+      "time": 117.8,
+      "time_str": "01:57.800",
+      "text": "Every day’s another page",
+      "translation": "每一个白天就是崭新的一页"
+    },
+    {
+      "time": 120.1,
+      "time_str": "02:00.100",
+      "text": "Every night I hope and pray",
+      "translation": "每一个夜晚我仰望并祈祷"
+    },
+    {
+      "time": 121.83,
+      "time_str": "02:01.830",
+      "text": "That you’ll always be the same",
+      "translation": "你，也是一样吧"
+    },
+    {
+      "time": 125.929,
+      "time_str": "02:05.929",
+      "text": "We play the waiting game",
+      "translation": "我们正在玩一个名为等待的游戏"
+    },
+    {
+      "time": 131.99,
+      "time_str": "02:11.990",
+      "text": "Oh yes, this world is all a stage",
+      "translation": "哦，是的，这个世界是一个舞台"
+    },
+    {
+      "time": 134.9,
+      "time_str": "02:14.900",
+      "text": "We got different roles to play",
+      "translation": "我们有自己要扮演的角色"
+    },
+    {
+      "time": 135.44,
+      "time_str": "02:15.440",
+      "text": "Every day’s another page",
+      "translation": "每一个白天就是崭新的一页"
+    },
+    {
+      "time": 137.49,
+      "time_str": "02:17.490",
+      "text": "Every night I hope and pray",
+      "translation": "每一个夜晚我仰望并祈祷"
+    },
+    {
+      "time": 139.659,
+      "time_str": "02:19.659",
+      "text": "That you’ll always be the same",
+      "translation": "你，也是一样吧"
+    },
+    {
+      "time": 143.59,
+      "time_str": "02:23.590",
+      "text": "We play the waiting game",
+      "translation": "我们正在玩一场名为等待的游戏"
+    },
+    {
+      "time": 158.99,
+      "time_str": "02:38.990",
+      "text": "Please, darling won’t you wait",
+      "translation": "亲爱的，不要再等了"
+    },
+    {
+      "time": 162.478,
+      "time_str": "02:42.478",
+      "text": "Please, I’m coming back",
+      "translation": "我正在努力赶回来"
+    },
+    {
+      "time": 173.56,
+      "time_str": "02:53.560",
+      "text": "Please, darling won’t you wait for my hint",
+      "translation": "亲爱的，请不要等待我的暗示"
+    },
+    {
+      "time": 182.449,
+      "time_str": "03:02.449",
+      "text": "Please, darling won’t you wait for my love",
+      "translation": "亲爱的，请不要再等待我的爱"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "The Waiting Game - Steve Gibbons.lrc"
+}

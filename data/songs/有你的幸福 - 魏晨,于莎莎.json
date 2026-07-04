@@ -1,0 +1,328 @@
+{
+  "title": "有你的幸福",
+  "title_raw": "有你的幸福",
+  "version": null,
+  "artist": "魏晨,于莎莎",
+  "group_key": "有你的幸福|魏晨,于莎莎",
+  "writers": {
+    "lyricist": "王海涛/杜若飞",
+    "composer": "宇桐非",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.73,
+      "time_str": "00:11.730",
+      "text": "(于莎莎)想念伴着天空蓝",
+      "translation": null
+    },
+    {
+      "time": 14.63,
+      "time_str": "00:14.630",
+      "text": "晨光到向晚",
+      "translation": null
+    },
+    {
+      "time": 16.96,
+      "time_str": "00:16.960",
+      "text": "旅行相册的里面",
+      "translation": null
+    },
+    {
+      "time": 19.71,
+      "time_str": "00:19.710",
+      "text": "有人笑得多疯癫",
+      "translation": null
+    },
+    {
+      "time": 22.18,
+      "time_str": "00:22.180",
+      "text": "(魏晨)口袋中的明信片",
+      "translation": null
+    },
+    {
+      "time": 25.06,
+      "time_str": "00:25.060",
+      "text": "贴着心的暖",
+      "translation": null
+    },
+    {
+      "time": 27.22,
+      "time_str": "00:27.220",
+      "text": "手心甜蜜的指环",
+      "translation": null
+    },
+    {
+      "time": 30.13,
+      "time_str": "00:30.130",
+      "text": "我忐忑的不安",
+      "translation": null
+    },
+    {
+      "time": 33.64,
+      "time_str": "00:33.640",
+      "text": "（于莎莎）从现在 会习惯",
+      "translation": null
+    },
+    {
+      "time": 36.55,
+      "time_str": "00:36.550",
+      "text": "将幸福给你保管",
+      "translation": null
+    },
+    {
+      "time": 39.18,
+      "time_str": "00:39.180",
+      "text": "(魏晨)把绚烂 变平凡",
+      "translation": null
+    },
+    {
+      "time": 41.97,
+      "time_str": "00:41.970",
+      "text": "不让一个人落单",
+      "translation": null
+    },
+    {
+      "time": 44.38,
+      "time_str": "00:44.380",
+      "text": "(于莎莎)我喜欢 你平淡",
+      "translation": null
+    },
+    {
+      "time": 46.77,
+      "time_str": "00:46.770",
+      "text": "却不冷却的温暖",
+      "translation": null
+    },
+    {
+      "time": 49.6,
+      "time_str": "00:49.600",
+      "text": "（魏晨）让你坐 我身边",
+      "translation": null
+    },
+    {
+      "time": 52.33,
+      "time_str": "00:52.330",
+      "text": "我最情愿的负担",
+      "translation": null
+    },
+    {
+      "time": 74.36,
+      "time_str": "01:14.360",
+      "text": "(于莎莎)转弯书店镜子前",
+      "translation": null
+    },
+    {
+      "time": 77.23,
+      "time_str": "01:17.230",
+      "text": "孩子气的脸",
+      "translation": null
+    },
+    {
+      "time": 79.57,
+      "time_str": "01:19.570",
+      "text": "马戏团里的火焰",
+      "translation": null
+    },
+    {
+      "time": 82.17,
+      "time_str": "01:22.170",
+      "text": "闪亮在你对面",
+      "translation": null
+    },
+    {
+      "time": 84.74,
+      "time_str": "01:24.740",
+      "text": "(魏晨)车厢里灯光转暗",
+      "translation": null
+    },
+    {
+      "time": 87.61,
+      "time_str": "01:27.610",
+      "text": "睡梦中的脸",
+      "translation": null
+    },
+    {
+      "time": 89.8,
+      "time_str": "01:29.800",
+      "text": "我画出你曾留恋",
+      "translation": null
+    },
+    {
+      "time": 92.87,
+      "time_str": "01:32.870",
+      "text": "穿过风的秋千",
+      "translation": null
+    },
+    {
+      "time": 96.45,
+      "time_str": "01:36.450",
+      "text": "（于莎莎）从现在 会习惯",
+      "translation": null
+    },
+    {
+      "time": 98.97,
+      "time_str": "01:38.970",
+      "text": "将幸福给你保管",
+      "translation": null
+    },
+    {
+      "time": 101.71,
+      "time_str": "01:41.710",
+      "text": "(魏晨)把绚烂 变平凡",
+      "translation": null
+    },
+    {
+      "time": 104.75,
+      "time_str": "01:44.750",
+      "text": "不让一个人落单",
+      "translation": null
+    },
+    {
+      "time": 106.86,
+      "time_str": "01:46.860",
+      "text": "(于莎莎)我喜欢 你平淡",
+      "translation": null
+    },
+    {
+      "time": 109.25,
+      "time_str": "01:49.250",
+      "text": "却不冷却的温暖",
+      "translation": null
+    },
+    {
+      "time": 112.07,
+      "time_str": "01:52.070",
+      "text": "（魏晨）让你坐 我身边",
+      "translation": null
+    },
+    {
+      "time": 114.95,
+      "time_str": "01:54.950",
+      "text": "我最情愿的负担",
+      "translation": null
+    },
+    {
+      "time": 136.85,
+      "time_str": "02:16.850",
+      "text": "（于莎莎）从现在 会习惯",
+      "translation": null
+    },
+    {
+      "time": 139.23,
+      "time_str": "02:19.230",
+      "text": "将幸福给你保管",
+      "translation": null
+    },
+    {
+      "time": 141.93,
+      "time_str": "02:21.930",
+      "text": "(魏晨)把绚烂 变平凡",
+      "translation": null
+    },
+    {
+      "time": 144.91,
+      "time_str": "02:24.910",
+      "text": "不让一个人落单",
+      "translation": null
+    },
+    {
+      "time": 147.39,
+      "time_str": "02:27.390",
+      "text": "(于莎莎)我喜欢 你平淡",
+      "translation": null
+    },
+    {
+      "time": 149.78,
+      "time_str": "02:29.780",
+      "text": "却不冷却的温暖",
+      "translation": null
+    },
+    {
+      "time": 152.55,
+      "time_str": "02:32.550",
+      "text": "（魏晨）让你坐 我身边",
+      "translation": null
+    },
+    {
+      "time": 155.34,
+      "time_str": "02:35.340",
+      "text": "我最情愿的负担",
+      "translation": null
+    },
+    {
+      "time": 157.86,
+      "time_str": "02:37.860",
+      "text": "（于莎莎）从现在 会习惯",
+      "translation": null
+    },
+    {
+      "time": 160.19,
+      "time_str": "02:40.190",
+      "text": "将幸福给你保管",
+      "translation": null
+    },
+    {
+      "time": 162.97,
+      "time_str": "02:42.970",
+      "text": "(魏晨)把绚烂 变平凡",
+      "translation": null
+    },
+    {
+      "time": 165.79,
+      "time_str": "02:45.790",
+      "text": "不让一个人落单",
+      "translation": null
+    },
+    {
+      "time": 168.22,
+      "time_str": "02:48.220",
+      "text": "(于莎莎)我喜欢 你平淡",
+      "translation": null
+    },
+    {
+      "time": 170.69,
+      "time_str": "02:50.690",
+      "text": "却不冷却的温暖",
+      "translation": null
+    },
+    {
+      "time": 173.44,
+      "time_str": "02:53.440",
+      "text": "（魏晨）让你坐 我身边",
+      "translation": null
+    },
+    {
+      "time": 176.35,
+      "time_str": "02:56.350",
+      "text": "我最情愿的负担",
+      "translation": null
+    },
+    {
+      "time": 182.53,
+      "time_str": "03:02.530",
+      "text": "(于莎莎) 车厢里灯光转暗",
+      "translation": null
+    },
+    {
+      "time": 185.73,
+      "time_str": "03:05.730",
+      "text": "平淡的温暖",
+      "translation": null
+    },
+    {
+      "time": 188.26,
+      "time_str": "03:08.260",
+      "text": "星星点点的夜晚",
+      "translation": null
+    },
+    {
+      "time": 191.47,
+      "time_str": "03:11.470",
+      "text": "全都是有你的幸福",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "有你的幸福 - 魏晨,于莎莎.lrc"
+}

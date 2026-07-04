@@ -1,0 +1,268 @@
+{
+  "title": "给你们",
+  "title_raw": "给你们",
+  "version": null,
+  "artist": "张宇",
+  "group_key": "给你们|张宇",
+  "writers": {
+    "lyricist": "十一郎",
+    "composer": "张宇",
+    "arranger": "Michael Thompson"
+  },
+  "lyrics": [
+    {
+      "time": 16.87,
+      "time_str": "00:16.870",
+      "text": "他将是你的新郎",
+      "translation": null
+    },
+    {
+      "time": 21.22,
+      "time_str": "00:21.220",
+      "text": "从今以后他就是你一生的伴",
+      "translation": null
+    },
+    {
+      "time": 25.86,
+      "time_str": "00:25.860",
+      "text": "他的一切都将和你紧密相关 福和祸都要同当",
+      "translation": null
+    },
+    {
+      "time": 34.91,
+      "time_str": "00:34.910",
+      "text": "她将是你的新娘",
+      "translation": null
+    },
+    {
+      "time": 39.47,
+      "time_str": "00:39.470",
+      "text": "她是别人用心托付在你手上",
+      "translation": null
+    },
+    {
+      "time": 44.02,
+      "time_str": "00:44.020",
+      "text": "你要用你一生加倍照顾对待 苦或喜都要同享",
+      "translation": null
+    },
+    {
+      "time": 53.18,
+      "time_str": "00:53.180",
+      "text": "一定是特别的缘分",
+      "translation": null
+    },
+    {
+      "time": 57.59,
+      "time_str": "00:57.590",
+      "text": "才可以一路走来变成了一家人",
+      "translation": null
+    },
+    {
+      "time": 62.7,
+      "time_str": "01:02.700",
+      "text": "他多爱你几分 你多还他几分 找幸福的可能",
+      "translation": null
+    },
+    {
+      "time": 71.34,
+      "time_str": "01:11.340",
+      "text": "从此不再是一个人",
+      "translation": null
+    },
+    {
+      "time": 75.85,
+      "time_str": "01:15.850",
+      "text": "要处处时时想着念的都是我们",
+      "translation": null
+    },
+    {
+      "time": 80.97,
+      "time_str": "01:20.970",
+      "text": "你付出了几分",
+      "translation": null
+    },
+    {
+      "time": 85.09,
+      "time_str": "01:25.090",
+      "text": "爱就圆满了几分",
+      "translation": null
+    },
+    {
+      "time": 107.97,
+      "time_str": "01:47.970",
+      "text": "一定是特别的缘分",
+      "translation": null
+    },
+    {
+      "time": 112.53,
+      "time_str": "01:52.530",
+      "text": "才可以一路走来变成了一家人",
+      "translation": null
+    },
+    {
+      "time": 117.57,
+      "time_str": "01:57.570",
+      "text": "他多爱你几分 你多还他几分 找幸福的可能",
+      "translation": null
+    },
+    {
+      "time": 126.2,
+      "time_str": "02:06.200",
+      "text": "从此不再是一个人",
+      "translation": null
+    },
+    {
+      "time": 130.77,
+      "time_str": "02:10.770",
+      "text": "要处处时时想着念的都是我们",
+      "translation": null
+    },
+    {
+      "time": 135.93,
+      "time_str": "02:15.930",
+      "text": "你付出了几分",
+      "translation": null
+    },
+    {
+      "time": 139.87,
+      "time_str": "02:19.870",
+      "text": "爱就圆满了几分",
+      "translation": null
+    },
+    {
+      "time": 144.77,
+      "time_str": "02:24.770",
+      "text": "他将是你的新郎",
+      "translation": null
+    },
+    {
+      "time": 149.38,
+      "time_str": "02:29.380",
+      "text": "从今以后他就是你一生的伴",
+      "translation": null
+    },
+    {
+      "time": 153.99,
+      "time_str": "02:33.990",
+      "text": "他的一切都将和你紧密相关 福和祸都要同当",
+      "translation": null
+    },
+    {
+      "time": 163.09,
+      "time_str": "02:43.090",
+      "text": "她将是你的新娘",
+      "translation": null
+    },
+    {
+      "time": 167.66,
+      "time_str": "02:47.660",
+      "text": "她是别人用心托付在你手上",
+      "translation": null
+    },
+    {
+      "time": 172.22,
+      "time_str": "02:52.220",
+      "text": "你要用你一生加倍照顾对待 苦或喜都要同享",
+      "translation": null
+    },
+    {
+      "time": 181.16,
+      "time_str": "03:01.160",
+      "text": "一定是特别的缘分",
+      "translation": null
+    },
+    {
+      "time": 185.74,
+      "time_str": "03:05.740",
+      "text": "才可以一路走来变成了一家人",
+      "translation": null
+    },
+    {
+      "time": 190.81,
+      "time_str": "03:10.810",
+      "text": "他多爱你几分 你多还他几分 找幸福的可能",
+      "translation": null
+    },
+    {
+      "time": 199.36,
+      "time_str": "03:19.360",
+      "text": "从此不再是一个人",
+      "translation": null
+    },
+    {
+      "time": 203.91,
+      "time_str": "03:23.910",
+      "text": "要处处时时想着念的都是我们",
+      "translation": null
+    },
+    {
+      "time": 209.1,
+      "time_str": "03:29.100",
+      "text": "你付出了几分",
+      "translation": null
+    },
+    {
+      "time": 213.1,
+      "time_str": "03:33.100",
+      "text": "爱就圆满了几分",
+      "translation": null
+    },
+    {
+      "time": 217.73,
+      "time_str": "03:37.730",
+      "text": "一定是特别的缘分",
+      "translation": null
+    },
+    {
+      "time": 222.19,
+      "time_str": "03:42.190",
+      "text": "才可以一路走来变成了一家人",
+      "translation": null
+    },
+    {
+      "time": 227.32,
+      "time_str": "03:47.320",
+      "text": "他多爱你几分 你多还他几分 找幸福的可能",
+      "translation": null
+    },
+    {
+      "time": 235.83,
+      "time_str": "03:55.830",
+      "text": "从此不再是一个人",
+      "translation": null
+    },
+    {
+      "time": 240.39,
+      "time_str": "04:00.390",
+      "text": "要处处时时想着念的都是我们",
+      "translation": null
+    },
+    {
+      "time": 245.57,
+      "time_str": "04:05.570",
+      "text": "你付出了几分",
+      "translation": null
+    },
+    {
+      "time": 249.53,
+      "time_str": "04:09.530",
+      "text": "爱就圆满了几分",
+      "translation": null
+    },
+    {
+      "time": 254.7,
+      "time_str": "04:14.700",
+      "text": "你付出了几分",
+      "translation": null
+    },
+    {
+      "time": 258.69,
+      "time_str": "04:18.690",
+      "text": "爱就圆满了几分",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "给你们 - 张宇.lrc"
+}

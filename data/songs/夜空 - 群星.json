@@ -1,0 +1,154 @@
+{
+  "title": "夜空",
+  "title_raw": "夜空",
+  "version": null,
+  "artist": "群星",
+  "group_key": "夜空|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.26,
+      "time_str": "00:02.260",
+      "text": "夜空",
+      "translation": null
+    },
+    {
+      "time": 30.13,
+      "time_str": "00:30.130",
+      "text": "忘了吧再想他又有什么用",
+      "translation": null
+    },
+    {
+      "time": 38.11,
+      "time_str": "00:38.110",
+      "text": "还不是烦恼多一重",
+      "translation": null
+    },
+    {
+      "time": 42.88,
+      "time_str": "00:42.880",
+      "text": "还不是有始无终",
+      "translation": null
+    },
+    {
+      "time": 48.65,
+      "time_str": "00:48.650",
+      "text": "来匆匆没想到去也匆匆",
+      "translation": null
+    },
+    {
+      "time": 58.57,
+      "time_str": "00:58.570",
+      "text": "昨夜梦却见你含情笑容",
+      "translation": null
+    },
+    {
+      "time": 69.15,
+      "time_str": "01:09.150",
+      "text": "啊...啊...啊...",
+      "translation": null
+    },
+    {
+      "time": 72.26,
+      "time_str": "01:12.260",
+      "text": "漫长夜空星月无踪",
+      "translation": null
+    },
+    {
+      "time": 77.03,
+      "time_str": "01:17.030",
+      "text": "夜空之下只有我在",
+      "translation": null
+    },
+    {
+      "time": 79.39,
+      "time_str": "01:19.390",
+      "text": "回想著往事如云烟",
+      "translation": null
+    },
+    {
+      "time": 85.69,
+      "time_str": "01:25.690",
+      "text": "忘了吧还是把希望托夜空",
+      "translation": null
+    },
+    {
+      "time": 97.29,
+      "time_str": "01:37.290",
+      "text": "-----Music-----",
+      "translation": null
+    },
+    {
+      "time": 121.33,
+      "time_str": "02:01.330",
+      "text": "忘了吧再想他又有什么用",
+      "translation": null
+    },
+    {
+      "time": 129.18,
+      "time_str": "02:09.180",
+      "text": "还不是烦恼多一重",
+      "translation": null
+    },
+    {
+      "time": 133.97,
+      "time_str": "02:13.970",
+      "text": "还不是有始无终",
+      "translation": null
+    },
+    {
+      "time": 139.79,
+      "time_str": "02:19.790",
+      "text": "来匆匆没想到去也匆匆",
+      "translation": null
+    },
+    {
+      "time": 149.96,
+      "time_str": "02:29.960",
+      "text": "昨夜梦却见你含情笑容",
+      "translation": null
+    },
+    {
+      "time": 159.81,
+      "time_str": "02:39.810",
+      "text": "啊...啊...啊...",
+      "translation": null
+    },
+    {
+      "time": 163.26,
+      "time_str": "02:43.260",
+      "text": "漫长夜空星月无踪",
+      "translation": null
+    },
+    {
+      "time": 168.12,
+      "time_str": "02:48.120",
+      "text": "夜空之下只有我在",
+      "translation": null
+    },
+    {
+      "time": 170.5,
+      "time_str": "02:50.500",
+      "text": "回想著往事如云烟",
+      "translation": null
+    },
+    {
+      "time": 176.9,
+      "time_str": "02:56.900",
+      "text": "忘了吧还是把希望托夜空",
+      "translation": null
+    },
+    {
+      "time": 188.41,
+      "time_str": "03:08.410",
+      "text": "------End------",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "夜空 - 群星.lrc"
+}

@@ -1,0 +1,112 @@
+{
+  "title": "心服口服",
+  "title_raw": "心服口服",
+  "version": null,
+  "artist": "陈慧琳",
+  "group_key": "心服口服|陈慧琳",
+  "writers": {
+    "lyricist": "梁伟文",
+    "composer": "周传雄",
+    "arranger": "Ted Lo"
+  },
+  "lyrics": [
+    {
+      "time": 24.66,
+      "time_str": "00:24.660",
+      "text": "从门缝遥看礼堂的新人 惭愧地自问 她比我胜任",
+      "translation": null
+    },
+    {
+      "time": 32.96,
+      "time_str": "00:32.960",
+      "text": "甘心因一个吻 便贩卖余生 因我不够笨",
+      "translation": null
+    },
+    {
+      "time": 45.32,
+      "time_str": "00:45.320",
+      "text": "从前曾遥看你和她偷情 我本想哑忍 眼看她靠近",
+      "translation": null
+    },
+    {
+      "time": 53.59,
+      "time_str": "00:53.590",
+      "text": "那一脸兴奋 至少比我真 也许她跟你比我衬",
+      "translation": null
+    },
+    {
+      "time": 63.729,
+      "time_str": "01:03.729",
+      "text": "输得心服 惨得舒服 即使真相亲眼看破比较屈辱",
+      "translation": null
+    },
+    {
+      "time": 73.781,
+      "time_str": "01:13.781",
+      "text": "她毕竟比我勇 你这么的满足 我不会不瞑目",
+      "translation": null
+    },
+    {
+      "time": 84.242,
+      "time_str": "01:24.242",
+      "text": "走的心服 哭的舒服 恭喜她已得到这个免费包袱",
+      "translation": null
+    },
+    {
+      "time": 94.153,
+      "time_str": "01:34.153",
+      "text": "苦恋终须中毒 将你亲手送出 起码假装报一报复",
+      "translation": null
+    },
+    {
+      "time": 116.562,
+      "time_str": "01:56.562",
+      "text": "从前曾求你去和她分离 何必玩不羁 你却好心地",
+      "translation": null
+    },
+    {
+      "time": 125.082,
+      "time_str": "02:05.082",
+      "text": "说她损失你 她竟想过死 你只好将我都放弃",
+      "translation": null
+    },
+    {
+      "time": 135.282,
+      "time_str": "02:15.282",
+      "text": "输得心服 惨得舒服 即使真相亲眼看破比较屈辱",
+      "translation": null
+    },
+    {
+      "time": 145.292,
+      "time_str": "02:25.292",
+      "text": "她毕竟比我勇 你这么的满足 我不会不瞑目",
+      "translation": null
+    },
+    {
+      "time": 155.872,
+      "time_str": "02:35.872",
+      "text": "走的心服 哭的舒服 恭喜她已得到这个免费包袱",
+      "translation": null
+    },
+    {
+      "time": 165.622,
+      "time_str": "02:45.622",
+      "text": "苦恋终须中毒 将你亲手送出 起码假装报一报复",
+      "translation": null
+    },
+    {
+      "time": 176.335,
+      "time_str": "02:56.335",
+      "text": "我心不痛 你不必懂 恭喜她已得到这个免费包袱",
+      "translation": null
+    },
+    {
+      "time": 186.031,
+      "time_str": "03:06.031",
+      "text": "苦恋终须中毒 将你亲手送出 起码假装报一报复",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "心服口服 - 陈慧琳.lrc"
+}

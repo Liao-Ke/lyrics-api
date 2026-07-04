@@ -1,0 +1,346 @@
+{
+  "title": "爱的勇气",
+  "title_raw": "爱的勇气",
+  "version": null,
+  "artist": "赖雅妍",
+  "group_key": "爱的勇气|赖雅妍",
+  "writers": {
+    "lyricist": "陈天佑",
+    "composer": "菊池一仁",
+    "arranger": "Tatsugu"
+  },
+  "lyrics": [
+    {
+      "time": 34.5,
+      "time_str": "00:34.500",
+      "text": "雨后晴朗天气",
+      "translation": null
+    },
+    {
+      "time": 37.16,
+      "time_str": "00:37.160",
+      "text": "如此神奇那像是一种命中注定",
+      "translation": null
+    },
+    {
+      "time": 42.05,
+      "time_str": "00:42.050",
+      "text": "许愿一个奇迹",
+      "translation": null
+    },
+    {
+      "time": 44.62,
+      "time_str": "00:44.620",
+      "text": "在未来有幸福的画笔",
+      "translation": null
+    },
+    {
+      "time": 49.59,
+      "time_str": "00:49.590",
+      "text": "我的骄傲表情",
+      "translation": null
+    },
+    {
+      "time": 51.14,
+      "time_str": "00:51.140",
+      "text": "都是因为你疼爱我像超级巨星",
+      "translation": null
+    },
+    {
+      "time": 56.13,
+      "time_str": "00:56.130",
+      "text": "从现在给了爱快乐气息",
+      "translation": null
+    },
+    {
+      "time": 63.0,
+      "time_str": "01:03.000",
+      "text": "一种想爱声音",
+      "translation": null
+    },
+    {
+      "time": 65.44,
+      "time_str": "01:05.440",
+      "text": "那是不顾一切的决定",
+      "translation": null
+    },
+    {
+      "time": 69.39,
+      "time_str": "01:09.390",
+      "text": "而你给我的不只是鼓励",
+      "translation": null
+    },
+    {
+      "time": 73.88,
+      "time_str": "01:13.880",
+      "text": "爱已渐渐占据",
+      "translation": null
+    },
+    {
+      "time": 77.89,
+      "time_str": "01:17.890",
+      "text": "我的心",
+      "translation": null
+    },
+    {
+      "time": 80.64,
+      "time_str": "01:20.640",
+      "text": "呼吸爱的勇气",
+      "translation": null
+    },
+    {
+      "time": 82.97,
+      "time_str": "01:22.970",
+      "text": "不管呼啸的雨",
+      "translation": null
+    },
+    {
+      "time": 85.13,
+      "time_str": "01:25.130",
+      "text": "让爱不由自主",
+      "translation": null
+    },
+    {
+      "time": 87.78,
+      "time_str": "01:27.780",
+      "text": "奔向你 带着自信回忆",
+      "translation": null
+    },
+    {
+      "time": 91.71,
+      "time_str": "01:31.710",
+      "text": "抛掉忧郁和你零距离",
+      "translation": null
+    },
+    {
+      "time": 95.66,
+      "time_str": "01:35.660",
+      "text": "呼吸爱的氧气",
+      "translation": null
+    },
+    {
+      "time": 98.01,
+      "time_str": "01:38.010",
+      "text": "有种爱的肯定",
+      "translation": null
+    },
+    {
+      "time": 100.07,
+      "time_str": "01:40.070",
+      "text": "都是因为有你",
+      "translation": null
+    },
+    {
+      "time": 102.97,
+      "time_str": "01:42.970",
+      "text": "我踮起脚尖亲吻了你",
+      "translation": null
+    },
+    {
+      "time": 107.39,
+      "time_str": "01:47.390",
+      "text": "快握紧我的手",
+      "translation": null
+    },
+    {
+      "time": 109.83,
+      "time_str": "01:49.830",
+      "text": "爱情 爱情 降临 两颗心",
+      "translation": null
+    },
+    {
+      "time": 127.15,
+      "time_str": "02:07.150",
+      "text": "我的坚定语气",
+      "translation": null
+    },
+    {
+      "time": 129.8,
+      "time_str": "02:09.800",
+      "text": "都是遇上你",
+      "translation": null
+    },
+    {
+      "time": 131.13,
+      "time_str": "02:11.130",
+      "text": "改变我的所有心情",
+      "translation": null
+    },
+    {
+      "time": 135.45,
+      "time_str": "02:15.450",
+      "text": "从现在给了爱纯真旋律",
+      "translation": null
+    },
+    {
+      "time": 142.03,
+      "time_str": "02:22.030",
+      "text": "一种想爱声音",
+      "translation": null
+    },
+    {
+      "time": 144.8,
+      "time_str": "02:24.800",
+      "text": "那是不顾一切的决定",
+      "translation": null
+    },
+    {
+      "time": 148.71,
+      "time_str": "02:28.710",
+      "text": "而你给我的不只是鼓励",
+      "translation": null
+    },
+    {
+      "time": 153.19,
+      "time_str": "02:33.190",
+      "text": "爱已渐渐占据",
+      "translation": null
+    },
+    {
+      "time": 157.01,
+      "time_str": "02:37.010",
+      "text": "我的心",
+      "translation": null
+    },
+    {
+      "time": 159.88,
+      "time_str": "02:39.880",
+      "text": "呼吸爱的勇气",
+      "translation": null
+    },
+    {
+      "time": 162.23,
+      "time_str": "02:42.230",
+      "text": "不管呼啸的雨",
+      "translation": null
+    },
+    {
+      "time": 164.24,
+      "time_str": "02:44.240",
+      "text": "让爱不由自主",
+      "translation": null
+    },
+    {
+      "time": 167.25,
+      "time_str": "02:47.250",
+      "text": "奔向你 带着自信回忆",
+      "translation": null
+    },
+    {
+      "time": 171.1,
+      "time_str": "02:51.100",
+      "text": "抛掉忧郁和你零距离",
+      "translation": null
+    },
+    {
+      "time": 174.95,
+      "time_str": "02:54.950",
+      "text": "呼吸爱的氧气",
+      "translation": null
+    },
+    {
+      "time": 177.27,
+      "time_str": "02:57.270",
+      "text": "有种爱的肯定",
+      "translation": null
+    },
+    {
+      "time": 179.29,
+      "time_str": "02:59.290",
+      "text": "都是因为有你",
+      "translation": null
+    },
+    {
+      "time": 182.08,
+      "time_str": "03:02.080",
+      "text": "我踮起脚尖亲吻了你",
+      "translation": null
+    },
+    {
+      "time": 186.06,
+      "time_str": "03:06.060",
+      "text": "快握紧我的手",
+      "translation": null
+    },
+    {
+      "time": 188.99,
+      "time_str": "03:08.990",
+      "text": "爱情 爱情 降临 两颗心",
+      "translation": null
+    },
+    {
+      "time": 205.43,
+      "time_str": "03:25.430",
+      "text": "呼吸爱的勇气",
+      "translation": null
+    },
+    {
+      "time": 207.09,
+      "time_str": "03:27.090",
+      "text": "不管呼啸的雨",
+      "translation": null
+    },
+    {
+      "time": 209.41,
+      "time_str": "03:29.410",
+      "text": "让爱不由自主",
+      "translation": null
+    },
+    {
+      "time": 212.05,
+      "time_str": "03:32.050",
+      "text": "奔向你 带着自信回忆",
+      "translation": null
+    },
+    {
+      "time": 216.3,
+      "time_str": "03:36.300",
+      "text": "抛掉忧郁和你零距离",
+      "translation": null
+    },
+    {
+      "time": 219.89,
+      "time_str": "03:39.890",
+      "text": "呼吸爱的氧气",
+      "translation": null
+    },
+    {
+      "time": 222.27,
+      "time_str": "03:42.270",
+      "text": "有种爱的肯定",
+      "translation": null
+    },
+    {
+      "time": 224.51,
+      "time_str": "03:44.510",
+      "text": "都是因为有你",
+      "translation": null
+    },
+    {
+      "time": 227.15,
+      "time_str": "03:47.150",
+      "text": "我踮起脚尖亲吻了你",
+      "translation": null
+    },
+    {
+      "time": 231.71,
+      "time_str": "03:51.710",
+      "text": "快握紧我的手",
+      "translation": null
+    },
+    {
+      "time": 234.72,
+      "time_str": "03:54.720",
+      "text": "爱情 爱情 甜蜜",
+      "translation": null
+    },
+    {
+      "time": 236.61,
+      "time_str": "03:56.610",
+      "text": "爱情 爱情 降临 两颗心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱的勇气 - 赖雅妍.lrc"
+}

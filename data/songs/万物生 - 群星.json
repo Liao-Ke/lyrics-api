@@ -1,0 +1,160 @@
+{
+  "title": "万物生",
+  "title_raw": "万物生",
+  "version": null,
+  "artist": "群星",
+  "group_key": "万物生|群星",
+  "writers": {
+    "lyricist": "高晓松",
+    "composer": "萨顶顶/黄仙农",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 51.99,
+      "time_str": "00:51.990",
+      "text": "从前冬天冷呀夏天雨呀水呀",
+      "translation": null
+    },
+    {
+      "time": 58.09,
+      "time_str": "00:58.090",
+      "text": "秋天远处传来你声音暖呀暖呀",
+      "translation": null
+    },
+    {
+      "time": 63.75,
+      "time_str": "01:03.750",
+      "text": "你说那时屋后面有白茫茫茫雪呀",
+      "translation": null
+    },
+    {
+      "time": 70.05,
+      "time_str": "01:10.050",
+      "text": "山谷里有金黄旗子在大风里飘呀",
+      "translation": null
+    },
+    {
+      "time": 76.6,
+      "time_str": "01:16.600",
+      "text": "我看见山鹰在寂寞两条鱼上飞",
+      "translation": null
+    },
+    {
+      "time": 83.2,
+      "time_str": "01:23.200",
+      "text": "两条鱼儿穿过海一样咸的河水",
+      "translation": null
+    },
+    {
+      "time": 89.47,
+      "time_str": "01:29.470",
+      "text": "一片河水落下来遇见人们破碎",
+      "translation": null
+    },
+    {
+      "time": 95.77,
+      "time_str": "01:35.770",
+      "text": "人们在行走身上落满山鹰的灰",
+      "translation": null
+    },
+    {
+      "time": 115.06,
+      "time_str": "01:55.060",
+      "text": "从前冬天冷呀夏天雨呀水呀",
+      "translation": null
+    },
+    {
+      "time": 121.359,
+      "time_str": "02:01.359",
+      "text": "秋天远处传来你声音暖呀暖呀",
+      "translation": null
+    },
+    {
+      "time": 127.72,
+      "time_str": "02:07.720",
+      "text": "你说那时屋后面有白茫茫茫雪呀",
+      "translation": null
+    },
+    {
+      "time": 133.92,
+      "time_str": "02:13.920",
+      "text": "山谷里有金黄旗子在大风里飘呀",
+      "translation": null
+    },
+    {
+      "time": 140.4,
+      "time_str": "02:20.400",
+      "text": "我看见山鹰在寂寞两条鱼上飞",
+      "translation": null
+    },
+    {
+      "time": 146.38,
+      "time_str": "02:26.380",
+      "text": "两条鱼儿穿过海一样咸的河水",
+      "translation": null
+    },
+    {
+      "time": 152.53,
+      "time_str": "02:32.530",
+      "text": "一片河水落下来遇见人们破碎",
+      "translation": null
+    },
+    {
+      "time": 158.58,
+      "time_str": "02:38.580",
+      "text": "人们在行走身上落满山鹰的灰",
+      "translation": null
+    },
+    {
+      "time": 166.09,
+      "time_str": "02:46.090",
+      "text": "我看见山鹰在寂寞两条鱼上飞",
+      "translation": null
+    },
+    {
+      "time": 171.59,
+      "time_str": "02:51.590",
+      "text": "两条鱼儿穿过海一样咸的河水",
+      "translation": null
+    },
+    {
+      "time": 177.95,
+      "time_str": "02:57.950",
+      "text": "一片河水落下来遇见人们破碎",
+      "translation": null
+    },
+    {
+      "time": 183.96,
+      "time_str": "03:03.960",
+      "text": "人们在行走身上落满山鹰的灰",
+      "translation": null
+    },
+    {
+      "time": 216.31,
+      "time_str": "03:36.310",
+      "text": "我看见山鹰在寂寞两条鱼上飞",
+      "translation": null
+    },
+    {
+      "time": 222.21,
+      "time_str": "03:42.210",
+      "text": "两条鱼儿穿过海一样咸的河水",
+      "translation": null
+    },
+    {
+      "time": 228.51,
+      "time_str": "03:48.510",
+      "text": "一片河水落下来遇见人们破碎",
+      "translation": null
+    },
+    {
+      "time": 234.72,
+      "time_str": "03:54.720",
+      "text": "人们在行走身上落满山鹰的灰",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "万物生 - 群星.lrc"
+}

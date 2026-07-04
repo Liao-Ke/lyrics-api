@@ -1,0 +1,358 @@
+{
+  "title": "丹歌惊鸿",
+  "title_raw": "丹歌惊鸿",
+  "version": null,
+  "artist": "坡上村",
+  "group_key": "丹歌惊鸿|坡上村",
+  "writers": {
+    "lyricist": "浓缩排骨",
+    "composer": "桂子油",
+    "arranger": "坡上村"
+  },
+  "lyrics": [
+    {
+      "time": 0.5,
+      "time_str": "00:00.500",
+      "text": "算不得北京城里的爷",
+      "translation": null
+    },
+    {
+      "time": 2.6,
+      "time_str": "00:02.600",
+      "text": "山里偷得半日的闲",
+      "translation": null
+    },
+    {
+      "time": 5.48,
+      "time_str": "00:05.480",
+      "text": "搁这儿 遛弯的人别扰着",
+      "translation": null
+    },
+    {
+      "time": 8.3,
+      "time_str": "00:08.300",
+      "text": "您都请便",
+      "translation": null
+    },
+    {
+      "time": 11.69,
+      "time_str": "00:11.690",
+      "text": "半不邋遢 小道名也",
+      "translation": null
+    },
+    {
+      "time": 14.09,
+      "time_str": "00:14.090",
+      "text": "胸无大志 爱咧咧",
+      "translation": null
+    },
+    {
+      "time": 16.49,
+      "time_str": "00:16.490",
+      "text": "少来打听那有的没的",
+      "translation": null
+    },
+    {
+      "time": 19.69,
+      "time_str": "00:19.690",
+      "text": "翻你个底儿掉掀朝天",
+      "translation": null
+    },
+    {
+      "time": 22.49,
+      "time_str": "00:22.490",
+      "text": "顺天下势理天下事",
+      "translation": null
+    },
+    {
+      "time": 25.24,
+      "time_str": "00:25.240",
+      "text": "云山雾绕方为术士",
+      "translation": null
+    },
+    {
+      "time": 28.34,
+      "time_str": "00:28.340",
+      "text": "人间不如意 随了 谁的性",
+      "translation": null
+    },
+    {
+      "time": 31.44,
+      "time_str": "00:31.440",
+      "text": "但求无愧 自在随心",
+      "translation": null
+    },
+    {
+      "time": 33.9,
+      "time_str": "00:33.900",
+      "text": "常应常静常清静灵",
+      "translation": null
+    },
+    {
+      "time": 36.1,
+      "time_str": "00:36.100",
+      "text": "凡人本就六欲七情",
+      "translation": null
+    },
+    {
+      "time": 39.6,
+      "time_str": "00:39.600",
+      "text": "“祖师在上，弟子凡心”",
+      "translation": null
+    },
+    {
+      "time": 42.6,
+      "time_str": "00:42.600",
+      "text": "“不入龙虎局，不得常清静”",
+      "translation": null
+    },
+    {
+      "time": 45.62,
+      "time_str": "00:45.620",
+      "text": "天地 匆匆 惊鸿 而过 路有千百个",
+      "translation": null
+    },
+    {
+      "time": 51.32,
+      "time_str": "00:51.320",
+      "text": "遑遑 无归 闲云 一鹤 人间红尘过",
+      "translation": null
+    },
+    {
+      "time": 56.62,
+      "time_str": "00:56.620",
+      "text": "引势 而流 鸿门 乱局 各有各选择",
+      "translation": null
+    },
+    {
+      "time": 62.22,
+      "time_str": "01:02.220",
+      "text": "乾震 坎艮 坤巽 离兑 定一切生克",
+      "translation": null
+    },
+    {
+      "time": 68.61,
+      "time_str": "01:08.610",
+      "text": "丹歌 起势 同风 而起",
+      "translation": null
+    },
+    {
+      "time": 74.61,
+      "time_str": "01:14.610",
+      "text": "卧龙 低伏 入我 阵来",
+      "translation": null
+    },
+    {
+      "time": 80.11,
+      "time_str": "01:20.110",
+      "text": "我即 方位 我即 吉凶",
+      "translation": null
+    },
+    {
+      "time": 85.11,
+      "time_str": "01:25.110",
+      "text": "四方 万物 皆我 主宰",
+      "translation": null
+    },
+    {
+      "time": 90.6,
+      "time_str": "01:30.600",
+      "text": "本事不大兜里也没钱",
+      "translation": null
+    },
+    {
+      "time": 93.4,
+      "time_str": "01:33.400",
+      "text": "爱好不多就喜欢坑爹",
+      "translation": null
+    },
+    {
+      "time": 96.6,
+      "time_str": "01:36.600",
+      "text": "什刹海 往东四十条嘞",
+      "translation": null
+    },
+    {
+      "time": 99.2,
+      "time_str": "01:39.200",
+      "text": "北三环 到西直门桥",
+      "translation": null
+    },
+    {
+      "time": 102.4,
+      "time_str": "01:42.400",
+      "text": "半夜没事 遛四五圈",
+      "translation": null
+    },
+    {
+      "time": 105.03,
+      "time_str": "01:45.030",
+      "text": "天亮一看 是动物园",
+      "translation": null
+    },
+    {
+      "time": 107.61,
+      "time_str": "01:47.610",
+      "text": "“哪儿又冒出个倒霉玩意儿”",
+      "translation": null
+    },
+    {
+      "time": 110.62,
+      "time_str": "01:50.620",
+      "text": "翻你个底儿掉掀朝天",
+      "translation": null
+    },
+    {
+      "time": 113.31,
+      "time_str": "01:53.310",
+      "text": "无形大贱不摇碧莲",
+      "translation": null
+    },
+    {
+      "time": 115.91,
+      "time_str": "01:55.910",
+      "text": "出世入世走过人间",
+      "translation": null
+    },
+    {
+      "time": 118.91,
+      "time_str": "01:58.910",
+      "text": "人时有穷尽 力所 不能及",
+      "translation": null
+    },
+    {
+      "time": 122.11,
+      "time_str": "02:02.110",
+      "text": "最是难得 二三知己",
+      "translation": null
+    },
+    {
+      "time": 124.22,
+      "time_str": "02:04.220",
+      "text": "三奇六仪八门九星",
+      "translation": null
+    },
+    {
+      "time": 126.72,
+      "time_str": "02:06.720",
+      "text": "天地人位寻根问底",
+      "translation": null
+    },
+    {
+      "time": 130.12,
+      "time_str": "02:10.120",
+      "text": "就在这京城里",
+      "translation": null
+    },
+    {
+      "time": 132.82,
+      "time_str": "02:12.820",
+      "text": "甭管什么局，冲我来就行",
+      "translation": null
+    },
+    {
+      "time": 135.7,
+      "time_str": "02:15.700",
+      "text": "天地 匆匆 惊鸿 而过 路有千百个",
+      "translation": null
+    },
+    {
+      "time": 141.5,
+      "time_str": "02:21.500",
+      "text": "遑遑 无归 闲云 一鹤 人间红尘过",
+      "translation": null
+    },
+    {
+      "time": 147.1,
+      "time_str": "02:27.100",
+      "text": "引势 而流 鸿门 乱局 各有各选择",
+      "translation": null
+    },
+    {
+      "time": 152.6,
+      "time_str": "02:32.600",
+      "text": "乾震 坎艮 坤巽 离兑 定一切生克",
+      "translation": null
+    },
+    {
+      "time": 158.67,
+      "time_str": "02:38.670",
+      "text": "-----solo-----",
+      "translation": null
+    },
+    {
+      "time": 181.6,
+      "time_str": "03:01.600",
+      "text": "丹歌 起势 同风 而起",
+      "translation": null
+    },
+    {
+      "time": 187.4,
+      "time_str": "03:07.400",
+      "text": "卧龙 低伏 入我 阵来",
+      "translation": null
+    },
+    {
+      "time": 192.6,
+      "time_str": "03:12.600",
+      "text": "我即 方位 我即 吉凶",
+      "translation": null
+    },
+    {
+      "time": 197.6,
+      "time_str": "03:17.600",
+      "text": "四方 万物 皆我 主宰",
+      "translation": null
+    },
+    {
+      "time": 203.6,
+      "time_str": "03:23.600",
+      "text": "算不得北京城里的爷",
+      "translation": null
+    },
+    {
+      "time": 206.4,
+      "time_str": "03:26.400",
+      "text": "山里偷得半日的闲",
+      "translation": null
+    },
+    {
+      "time": 209.1,
+      "time_str": "03:29.100",
+      "text": "搁这儿 遛弯的人别扰着",
+      "translation": null
+    },
+    {
+      "time": 212.14,
+      "time_str": "03:32.140",
+      "text": "您都请便",
+      "translation": null
+    },
+    {
+      "time": 215.14,
+      "time_str": "03:35.140",
+      "text": "半不邋邋 小道名也",
+      "translation": null
+    },
+    {
+      "time": 217.64,
+      "time_str": "03:37.640",
+      "text": "胸无大志 爱咧咧",
+      "translation": null
+    },
+    {
+      "time": 220.64,
+      "time_str": "03:40.640",
+      "text": "少来打听那有的没的",
+      "translation": null
+    },
+    {
+      "time": 223.54,
+      "time_str": "03:43.540",
+      "text": "翻你个底儿掉掀朝天",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "丹歌惊鸿 - 坡上村.lrc"
+}

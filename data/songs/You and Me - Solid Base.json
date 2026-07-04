@@ -1,0 +1,508 @@
+{
+  "title": "You and Me",
+  "title_raw": "You and Me",
+  "version": null,
+  "artist": "Solid Base",
+  "group_key": "you and me|solid base",
+  "writers": {
+    "lyricist": null,
+    "composer": "Thomas Nordin/Jonas Eriksson/Mattias Eliasson",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.85,
+      "time_str": "00:02.850",
+      "text": "This is what I want what I really really want",
+      "translation": "这就是我想要的，我真的真的想要"
+    },
+    {
+      "time": 7.33,
+      "time_str": "00:07.330",
+      "text": "This is what I want now party everyone",
+      "translation": "这就是我想要的，邀请小伙伴们来聚会"
+    },
+    {
+      "time": 12.06,
+      "time_str": "00:12.060",
+      "text": "This is what I want what I really really want",
+      "translation": "这就是我想要的，我真的真的想要"
+    },
+    {
+      "time": 16.39,
+      "time_str": "00:16.390",
+      "text": "This is what I want now party everyone",
+      "translation": "这就是我想要的，邀请小伙伴们来聚会"
+    },
+    {
+      "time": 20.68,
+      "time_str": "00:20.680",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 22.82,
+      "time_str": "00:22.820",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 24.31,
+      "time_str": "00:24.310",
+      "text": "Together we have fun everyone",
+      "translation": "小伙伴都能愉快的玩耍"
+    },
+    {
+      "time": 27.25,
+      "time_str": "00:27.250",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 28.79,
+      "time_str": "00:28.790",
+      "text": "Come join us all around to the sun",
+      "translation": "快来加入我们一起寻找明媚"
+    },
+    {
+      "time": 31.88,
+      "time_str": "00:31.880",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 33.32,
+      "time_str": "00:33.320",
+      "text": "Together on the way to the sun",
+      "translation": "一起出发寻找明媚"
+    },
+    {
+      "time": 36.42,
+      "time_str": "00:36.420",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 37.86,
+      "time_str": "00:37.860",
+      "text": "It's always on the run having fun",
+      "translation": "我一直在需找快乐"
+    },
+    {
+      "time": 41.54,
+      "time_str": "00:41.540",
+      "text": "You know it's time for another summer party",
+      "translation": "要知道现在开另一场盛夏聚会正是时候"
+    },
+    {
+      "time": 43.73,
+      "time_str": "00:43.730",
+      "text": "So we're just free gonna let lose your body",
+      "translation": "所以我们让自己自由放逐自己"
+    },
+    {
+      "time": 46.12,
+      "time_str": "00:46.120",
+      "text": "We're gonna have a great time celebrate the sunshine",
+      "translation": "我们用着美好的时刻庆祝阳光"
+    },
+    {
+      "time": 48.41,
+      "time_str": "00:48.410",
+      "text": "You and me baby feeling's so fun",
+      "translation": "你与我都感到如此愉快"
+    },
+    {
+      "time": 50.6,
+      "time_str": "00:50.600",
+      "text": "We did it we've done it we've got a way",
+      "translation": "我们这样做过我们知道方法"
+    },
+    {
+      "time": 52.69,
+      "time_str": "00:52.690",
+      "text": "We …… play an old song sunny holiday",
+      "translation": "我们放首老歌献给阳光假日"
+    },
+    {
+      "time": 55.18,
+      "time_str": "00:55.180",
+      "text": "So let me know what is all about",
+      "translation": "让我知道你还有何顾忌"
+    },
+    {
+      "time": 57.46,
+      "time_str": "00:57.460",
+      "text": "Party had to find you are the way no doubt",
+      "translation": "聚会你必须参加者毫无疑问"
+    },
+    {
+      "time": 60.4,
+      "time_str": "01:00.400",
+      "text": "We are always on the run having fun",
+      "translation": "我们一直在寻找快乐"
+    },
+    {
+      "time": 64.21,
+      "time_str": "01:04.210",
+      "text": "Knowing me",
+      "translation": "了解我"
+    },
+    {
+      "time": 65.0,
+      "time_str": "01:05.000",
+      "text": "Knowing you this",
+      "translation": "了解你"
+    },
+    {
+      "time": 66.15,
+      "time_str": "01:06.150",
+      "text": "It's the best we can do",
+      "translation": "这就是我们能做的最好的"
+    },
+    {
+      "time": 68.73,
+      "time_str": "01:08.730",
+      "text": "You and me",
+      "translation": "你和我"
+    },
+    {
+      "time": 69.65,
+      "time_str": "01:09.650",
+      "text": "We are always on the run having fun",
+      "translation": "我们一直在寻找快乐"
+    },
+    {
+      "time": 72.99,
+      "time_str": "01:12.990",
+      "text": "Knowing me",
+      "translation": "了解我"
+    },
+    {
+      "time": 74.23,
+      "time_str": "01:14.230",
+      "text": "Knowing you this",
+      "translation": "了解你"
+    },
+    {
+      "time": 75.77,
+      "time_str": "01:15.770",
+      "text": "It's the best we can do",
+      "translation": "这就是我们能做的最好的"
+    },
+    {
+      "time": 77.71,
+      "time_str": "01:17.710",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 79.19,
+      "time_str": "01:19.190",
+      "text": "Together we have fun everyone",
+      "translation": "小伙伴都能愉快的玩耍"
+    },
+    {
+      "time": 82.03,
+      "time_str": "01:22.030",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 83.67,
+      "time_str": "01:23.670",
+      "text": "Come join us all around to the sun",
+      "translation": "快来加入我们一起寻找明媚"
+    },
+    {
+      "time": 86.71,
+      "time_str": "01:26.710",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 88.25,
+      "time_str": "01:28.250",
+      "text": "Together on the way to the sun",
+      "translation": "一起出发寻找明媚"
+    },
+    {
+      "time": 91.18,
+      "time_str": "01:31.180",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 92.78,
+      "time_str": "01:32.780",
+      "text": "It's always on the run having fun",
+      "translation": "就是一直寻找快乐"
+    },
+    {
+      "time": 96.51,
+      "time_str": "01:36.510",
+      "text": "Keep on jammin' and another celebration",
+      "translation": "继续歌唱，有是另一场欢庆"
+    },
+    {
+      "time": 98.7,
+      "time_str": "01:38.700",
+      "text": "You look pretty Afrian or American or Asian?",
+      "translation": "你是非洲人？美国人？还是亚洲人？"
+    },
+    {
+      "time": 101.04,
+      "time_str": "01:41.040",
+      "text": "We all know how to get it all want",
+      "translation": "我们都知道怎样让它了然"
+    },
+    {
+      "time": 103.48,
+      "time_str": "01:43.480",
+      "text": "Party in mount to the break up to one",
+      "translation": "在上山的聚会会让你暴露"
+    },
+    {
+      "time": 105.32,
+      "time_str": "01:45.320",
+      "text": "A typical tropical summer night",
+      "translation": "一个典型的热带夏天的夜晚"
+    },
+    {
+      "time": 107.61,
+      "time_str": "01:47.610",
+      "text": "Fat guys fat girls chatting was right",
+      "translation": "男孩女孩聊得火热"
+    },
+    {
+      "time": 109.95,
+      "time_str": "01:49.950",
+      "text": "That's why I met you and you met me",
+      "translation": "这就是我遇到你你遇到我的原因"
+    },
+    {
+      "time": 112.14,
+      "time_str": "01:52.140",
+      "text": "For sunshine jelly and the party",
+      "translation": "为了阳光，果酱，聚会"
+    },
+    {
+      "time": 114.28,
+      "time_str": "01:54.280",
+      "text": "You and me",
+      "translation": "你与我"
+    },
+    {
+      "time": 115.12,
+      "time_str": "01:55.120",
+      "text": "We are always on the run having fun",
+      "translation": "我们一直在寻找快乐"
+    },
+    {
+      "time": 118.36,
+      "time_str": "01:58.360",
+      "text": "Knowing me",
+      "translation": "了解我"
+    },
+    {
+      "time": 119.55,
+      "time_str": "01:59.550",
+      "text": "Knowing you",
+      "translation": "了解你"
+    },
+    {
+      "time": 120.65,
+      "time_str": "02:00.650",
+      "text": "It's the best we can do",
+      "translation": "这就是我们能做的最好的"
+    },
+    {
+      "time": 123.31,
+      "time_str": "02:03.310",
+      "text": "You and me",
+      "translation": "你与我"
+    },
+    {
+      "time": 124.36,
+      "time_str": "02:04.360",
+      "text": "We are always on the run having fun",
+      "translation": "我们一直在寻找快乐"
+    },
+    {
+      "time": 127.74,
+      "time_str": "02:07.740",
+      "text": "Knowing me",
+      "translation": "了解我"
+    },
+    {
+      "time": 128.88,
+      "time_str": "02:08.880",
+      "text": "Knowing you",
+      "translation": "了解你"
+    },
+    {
+      "time": 130.03,
+      "time_str": "02:10.030",
+      "text": "It's the best we can do",
+      "translation": "这就是我们能做的最好的"
+    },
+    {
+      "time": 132.52,
+      "time_str": "02:12.520",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 133.96,
+      "time_str": "02:13.960",
+      "text": "Together we have fun everyone",
+      "translation": "小伙伴都能愉快的玩耍"
+    },
+    {
+      "time": 136.9,
+      "time_str": "02:16.900",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 138.59,
+      "time_str": "02:18.590",
+      "text": "Come join us all around to the sun",
+      "translation": "快来加入我们一起寻找明媚"
+    },
+    {
+      "time": 141.43,
+      "time_str": "02:21.430",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 143.07,
+      "time_str": "02:23.070",
+      "text": "Together on the way to the sun",
+      "translation": "小伙伴都能愉快的玩耍"
+    },
+    {
+      "time": 145.86,
+      "time_str": "02:25.860",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 147.6,
+      "time_str": "02:27.600",
+      "text": "It's always on the run having fun",
+      "translation": "就是一直寻找快乐"
+    },
+    {
+      "time": 153.74,
+      "time_str": "02:33.740",
+      "text": "This is what I want what I really really want",
+      "translation": "这就是我想要的，邀请小伙伴们来聚会"
+    },
+    {
+      "time": 157.92,
+      "time_str": "02:37.920",
+      "text": "This is what I want now party everyone",
+      "translation": "这就是我想要的，邀请小伙伴们来聚会"
+    },
+    {
+      "time": 162.89,
+      "time_str": "02:42.890",
+      "text": "This is what I want what I really really want",
+      "translation": "这就是我想要的，我真的真的想要"
+    },
+    {
+      "time": 167.02,
+      "time_str": "02:47.020",
+      "text": "This is what I want now party everyone",
+      "translation": "这就是我想要的，邀请小伙伴们来聚会"
+    },
+    {
+      "time": 171.48,
+      "time_str": "02:51.480",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 174.26,
+      "time_str": "02:54.260",
+      "text": "This is what I want what I really really want",
+      "translation": "这就是我想要的，我真的真的想要"
+    },
+    {
+      "time": 178.39,
+      "time_str": "02:58.390",
+      "text": "This is what I want now party everyone",
+      "translation": "这就是我想要的，邀请小伙伴们来聚会"
+    },
+    {
+      "time": 183.02,
+      "time_str": "03:03.020",
+      "text": "This is what I want what I really really want",
+      "translation": "这就是我想要的，我真的真的想要"
+    },
+    {
+      "time": 187.55,
+      "time_str": "03:07.550",
+      "text": "This is what I want now party everyone",
+      "translation": "这就是我想要的，邀请小伙伴们来聚会"
+    },
+    {
+      "time": 191.93,
+      "time_str": "03:11.930",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 193.42,
+      "time_str": "03:13.420",
+      "text": "Together we have fun everyone",
+      "translation": "小伙伴都能愉快的玩耍"
+    },
+    {
+      "time": 196.11,
+      "time_str": "03:16.110",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 197.6,
+      "time_str": "03:17.600",
+      "text": "Come join us all around to the sun",
+      "translation": "快来加入我们一起寻找明媚"
+    },
+    {
+      "time": 201.07,
+      "time_str": "03:21.070",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 202.51,
+      "time_str": "03:22.510",
+      "text": "Together on the way to the sun",
+      "translation": "小伙伴都能愉快的玩耍"
+    },
+    {
+      "time": 205.75,
+      "time_str": "03:25.750",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    },
+    {
+      "time": 207.14,
+      "time_str": "03:27.140",
+      "text": "It's always on the run having fun",
+      "translation": "就是一直寻找快乐"
+    },
+    {
+      "time": 210.31,
+      "time_str": "03:30.310",
+      "text": "Happy party people",
+      "translation": "大家一起愉快的聚上一聚"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "You and Me - Solid Base.lrc"
+}

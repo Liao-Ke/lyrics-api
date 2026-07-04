@@ -1,0 +1,364 @@
+{
+  "title": "熟悉的温柔",
+  "title_raw": "熟悉的温柔",
+  "version": null,
+  "artist": "周渝民",
+  "group_key": "熟悉的温柔|周渝民",
+  "writers": {
+    "lyricist": "Dung Sung Seo",
+    "composer": "Jong Seo Park",
+    "arranger": "周恒毅"
+  },
+  "lyrics": [
+    {
+      "time": 14.28,
+      "time_str": "00:14.280",
+      "text": "我",
+      "translation": null
+    },
+    {
+      "time": 16.4,
+      "time_str": "00:16.400",
+      "text": "总是一个人走",
+      "translation": null
+    },
+    {
+      "time": 21.49,
+      "time_str": "00:21.490",
+      "text": "心里",
+      "translation": null
+    },
+    {
+      "time": 23.68,
+      "time_str": "00:23.680",
+      "text": "却充满空洞",
+      "translation": null
+    },
+    {
+      "time": 29.1,
+      "time_str": "00:29.100",
+      "text": "用太多借口",
+      "translation": null
+    },
+    {
+      "time": 32.829,
+      "time_str": "00:32.829",
+      "text": "来弥补寂寞",
+      "translation": null
+    },
+    {
+      "time": 36.549,
+      "time_str": "00:36.549",
+      "text": "却无法",
+      "translation": null
+    },
+    {
+      "time": 38.919,
+      "time_str": "00:38.919",
+      "text": "找回自由",
+      "translation": null
+    },
+    {
+      "time": 43.889,
+      "time_str": "00:43.889",
+      "text": "爱",
+      "translation": null
+    },
+    {
+      "time": 46.59,
+      "time_str": "00:46.590",
+      "text": "曾经擦身而过",
+      "translation": null
+    },
+    {
+      "time": 50.999,
+      "time_str": "00:50.999",
+      "text": "喜欢",
+      "translation": null
+    },
+    {
+      "time": 52.739,
+      "time_str": "00:52.739",
+      "text": "在记忆里停留",
+      "translation": null
+    },
+    {
+      "time": 58.509,
+      "time_str": "00:58.509",
+      "text": "习惯搜寻你的",
+      "translation": null
+    },
+    {
+      "time": 62.199,
+      "time_str": "01:02.199",
+      "text": "只要你就足够",
+      "translation": null
+    },
+    {
+      "time": 65.859,
+      "time_str": "01:05.859",
+      "text": "原来我们一直曾在那",
+      "translation": null
+    },
+    {
+      "time": 69.769,
+      "time_str": "01:09.769",
+      "text": "最美的时候",
+      "translation": null
+    },
+    {
+      "time": 72.19,
+      "time_str": "01:12.190",
+      "text": "你熟悉的温柔",
+      "translation": null
+    },
+    {
+      "time": 75.879,
+      "time_str": "01:15.879",
+      "text": "从不曾离开我",
+      "translation": null
+    },
+    {
+      "time": 79.799,
+      "time_str": "01:19.799",
+      "text": "在我眼里",
+      "translation": null
+    },
+    {
+      "time": 81.379,
+      "time_str": "01:21.379",
+      "text": "看到什么",
+      "translation": null
+    },
+    {
+      "time": 83.479,
+      "time_str": "01:23.479",
+      "text": "全部都是你的笑容",
+      "translation": null
+    },
+    {
+      "time": 87.819,
+      "time_str": "01:27.819",
+      "text": "我终于明白",
+      "translation": null
+    },
+    {
+      "time": 89.749,
+      "time_str": "01:29.749",
+      "text": "你一定会是我幸福的执着",
+      "translation": null
+    },
+    {
+      "time": 95.539,
+      "time_str": "01:35.539",
+      "text": "这一次",
+      "translation": null
+    },
+    {
+      "time": 97.549,
+      "time_str": "01:37.549",
+      "text": "我不会",
+      "translation": null
+    },
+    {
+      "time": 99.679,
+      "time_str": "01:39.679",
+      "text": "放手",
+      "translation": null
+    },
+    {
+      "time": 110.409,
+      "time_str": "01:50.409",
+      "text": "爱",
+      "translation": null
+    },
+    {
+      "time": 112.69,
+      "time_str": "01:52.690",
+      "text": "曾经擦身而过",
+      "translation": null
+    },
+    {
+      "time": 117.469,
+      "time_str": "01:57.469",
+      "text": "喜欢",
+      "translation": null
+    },
+    {
+      "time": 119.899,
+      "time_str": "01:59.899",
+      "text": "在记忆里停留",
+      "translation": null
+    },
+    {
+      "time": 124.859,
+      "time_str": "02:04.859",
+      "text": "习惯搜寻你的",
+      "translation": null
+    },
+    {
+      "time": 128.53,
+      "time_str": "02:08.530",
+      "text": "只要你的就够",
+      "translation": null
+    },
+    {
+      "time": 132.25,
+      "time_str": "02:12.250",
+      "text": "原来我们一直都在那",
+      "translation": null
+    },
+    {
+      "time": 135.9,
+      "time_str": "02:15.900",
+      "text": "最美的时候",
+      "translation": null
+    },
+    {
+      "time": 138.37,
+      "time_str": "02:18.370",
+      "text": "你熟悉的温柔",
+      "translation": null
+    },
+    {
+      "time": 142.8,
+      "time_str": "02:22.800",
+      "text": "从没有离开我",
+      "translation": null
+    },
+    {
+      "time": 146.8,
+      "time_str": "02:26.800",
+      "text": "在我眼里",
+      "translation": null
+    },
+    {
+      "time": 147.73,
+      "time_str": "02:27.730",
+      "text": "看到什么",
+      "translation": null
+    },
+    {
+      "time": 149.77,
+      "time_str": "02:29.770",
+      "text": "全部都是你的笑容",
+      "translation": null
+    },
+    {
+      "time": 154.3,
+      "time_str": "02:34.300",
+      "text": "我终于知道",
+      "translation": null
+    },
+    {
+      "time": 156.8,
+      "time_str": "02:36.800",
+      "text": "你一定就是我幸福的执着",
+      "translation": null
+    },
+    {
+      "time": 161.77,
+      "time_str": "02:41.770",
+      "text": "这一次",
+      "translation": null
+    },
+    {
+      "time": 163.66,
+      "time_str": "02:43.660",
+      "text": "我不会",
+      "translation": null
+    },
+    {
+      "time": 165.24,
+      "time_str": "02:45.240",
+      "text": "放手",
+      "translation": null
+    },
+    {
+      "time": 168.27,
+      "time_str": "02:48.270",
+      "text": "感觉不曾变过",
+      "translation": null
+    },
+    {
+      "time": 172.92,
+      "time_str": "02:52.920",
+      "text": "时间不再转动",
+      "translation": null
+    },
+    {
+      "time": 176.41,
+      "time_str": "02:56.410",
+      "text": "就为了你和我",
+      "translation": null
+    },
+    {
+      "time": 179.2,
+      "time_str": "02:59.200",
+      "text": "你熟悉的温柔",
+      "translation": null
+    },
+    {
+      "time": 182.87,
+      "time_str": "03:02.870",
+      "text": "从不曾离开我",
+      "translation": null
+    },
+    {
+      "time": 186.85,
+      "time_str": "03:06.850",
+      "text": "在你心底",
+      "translation": null
+    },
+    {
+      "time": 188.51,
+      "time_str": "03:08.510",
+      "text": "看到拥有",
+      "translation": null
+    },
+    {
+      "time": 190.32,
+      "time_str": "03:10.320",
+      "text": "你也一直在等着我",
+      "translation": null
+    },
+    {
+      "time": 194.83,
+      "time_str": "03:14.830",
+      "text": "再多的语言",
+      "translation": null
+    },
+    {
+      "time": 196.76,
+      "time_str": "03:16.760",
+      "text": "也很难去表达",
+      "translation": null
+    },
+    {
+      "time": 198.91,
+      "time_str": "03:18.910",
+      "text": "这一份承诺",
+      "translation": null
+    },
+    {
+      "time": 202.62,
+      "time_str": "03:22.620",
+      "text": "我不会放手",
+      "translation": null
+    },
+    {
+      "time": 206.4,
+      "time_str": "03:26.400",
+      "text": "我要勇敢的",
+      "translation": null
+    },
+    {
+      "time": 211.53,
+      "time_str": "03:31.530",
+      "text": "爱着你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "熟悉的温柔 - 周渝民.lrc"
+}

@@ -1,0 +1,340 @@
+{
+  "title": "秋天不回来",
+  "title_raw": "秋天不回来",
+  "version": null,
+  "artist": "王强",
+  "group_key": "秋天不回来|王强",
+  "writers": {
+    "lyricist": "王强",
+    "composer": "胡力",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.41,
+      "time_str": "00:14.410",
+      "text": "初秋的天冰冷的夜",
+      "translation": null
+    },
+    {
+      "time": 17.4,
+      "time_str": "00:17.400",
+      "text": "回忆慢慢袭来",
+      "translation": null
+    },
+    {
+      "time": 20.61,
+      "time_str": "00:20.610",
+      "text": "真心的爱就像落叶",
+      "translation": null
+    },
+    {
+      "time": 23.63,
+      "time_str": "00:23.630",
+      "text": "为何却要分开",
+      "translation": null
+    },
+    {
+      "time": 26.18,
+      "time_str": "00:26.180",
+      "text": "灰色的天独自彷徨",
+      "translation": null
+    },
+    {
+      "time": 29.21,
+      "time_str": "00:29.210",
+      "text": "城市的老地方",
+      "translation": null
+    },
+    {
+      "time": 32.26,
+      "time_str": "00:32.260",
+      "text": "真的孤单走过忧伤",
+      "translation": null
+    },
+    {
+      "time": 35.16,
+      "time_str": "00:35.160",
+      "text": "心碎还要逞强",
+      "translation": null
+    },
+    {
+      "time": 38.06,
+      "time_str": "00:38.060",
+      "text": "想为你披件外衣",
+      "translation": null
+    },
+    {
+      "time": 41.03,
+      "time_str": "00:41.030",
+      "text": "天凉要爱惜自己",
+      "translation": null
+    },
+    {
+      "time": 45.47,
+      "time_str": "00:45.470",
+      "text": "没有人比我更疼你",
+      "translation": null
+    },
+    {
+      "time": 50.41,
+      "time_str": "00:50.410",
+      "text": "告诉你在每个",
+      "translation": null
+    },
+    {
+      "time": 53.49,
+      "time_str": "00:53.490",
+      "text": "想你的夜里",
+      "translation": null
+    },
+    {
+      "time": 57.0,
+      "time_str": "00:57.000",
+      "text": "我哭的好无力",
+      "translation": null
+    },
+    {
+      "time": 62.45,
+      "time_str": "01:02.450",
+      "text": "就让秋风带走我的思念",
+      "translation": null
+    },
+    {
+      "time": 65.83,
+      "time_str": "01:05.830",
+      "text": "带走我的泪",
+      "translation": null
+    },
+    {
+      "time": 68.82,
+      "time_str": "01:08.820",
+      "text": "我还一直静静守候在",
+      "translation": null
+    },
+    {
+      "time": 72.19,
+      "time_str": "01:12.190",
+      "text": "相约的地点",
+      "translation": null
+    },
+    {
+      "time": 74.93,
+      "time_str": "01:14.930",
+      "text": "求求老天淋湿我的双眼",
+      "translation": null
+    },
+    {
+      "time": 78.22,
+      "time_str": "01:18.220",
+      "text": "冰冻我的心",
+      "translation": null
+    },
+    {
+      "time": 80.75,
+      "time_str": "01:20.750",
+      "text": "让我不再苦苦奢求你",
+      "translation": null
+    },
+    {
+      "time": 84.25,
+      "time_str": "01:24.250",
+      "text": "还回来我身边",
+      "translation": null
+    },
+    {
+      "time": 88.66,
+      "time_str": "01:28.660",
+      "text": "我身边",
+      "translation": null
+    },
+    {
+      "time": 121.47,
+      "time_str": "02:01.470",
+      "text": "灰色的天独自彷徨",
+      "translation": null
+    },
+    {
+      "time": 124.49,
+      "time_str": "02:04.490",
+      "text": "城市的老地方",
+      "translation": null
+    },
+    {
+      "time": 127.6,
+      "time_str": "02:07.600",
+      "text": "真的孤单走过忧伤",
+      "translation": null
+    },
+    {
+      "time": 130.69,
+      "time_str": "02:10.690",
+      "text": "心碎还要逞强",
+      "translation": null
+    },
+    {
+      "time": 133.48,
+      "time_str": "02:13.480",
+      "text": "想为你披件外衣",
+      "translation": null
+    },
+    {
+      "time": 136.56,
+      "time_str": "02:16.560",
+      "text": "天凉要爱惜自己",
+      "translation": null
+    },
+    {
+      "time": 140.79,
+      "time_str": "02:20.790",
+      "text": "没有人比我更疼你",
+      "translation": null
+    },
+    {
+      "time": 144.87,
+      "time_str": "02:24.870",
+      "text": "告诉你在每个",
+      "translation": null
+    },
+    {
+      "time": 148.81,
+      "time_str": "02:28.810",
+      "text": "想你的夜里",
+      "translation": null
+    },
+    {
+      "time": 153.13,
+      "time_str": "02:33.130",
+      "text": "我哭的好无力",
+      "translation": null
+    },
+    {
+      "time": 157.95,
+      "time_str": "02:37.950",
+      "text": "就让秋风带走我的思念",
+      "translation": null
+    },
+    {
+      "time": 162.37,
+      "time_str": "02:42.370",
+      "text": "带走我的泪",
+      "translation": null
+    },
+    {
+      "time": 165.31,
+      "time_str": "02:45.310",
+      "text": "我还一直静静守候在",
+      "translation": null
+    },
+    {
+      "time": 168.57,
+      "time_str": "02:48.570",
+      "text": "相约的地点",
+      "translation": null
+    },
+    {
+      "time": 171.29,
+      "time_str": "02:51.290",
+      "text": "求求老天淋湿我的双眼",
+      "translation": null
+    },
+    {
+      "time": 174.95,
+      "time_str": "02:54.950",
+      "text": "冰冻我的心",
+      "translation": null
+    },
+    {
+      "time": 177.66,
+      "time_str": "02:57.660",
+      "text": "让我不再苦苦奢求你",
+      "translation": null
+    },
+    {
+      "time": 180.65,
+      "time_str": "03:00.650",
+      "text": "还回来我身边",
+      "translation": null
+    },
+    {
+      "time": 184.8,
+      "time_str": "03:04.800",
+      "text": "就让秋风带走我的思念",
+      "translation": null
+    },
+    {
+      "time": 188.76,
+      "time_str": "03:08.760",
+      "text": "带走我的泪",
+      "translation": null
+    },
+    {
+      "time": 191.56,
+      "time_str": "03:11.560",
+      "text": "我还一直静静守候在",
+      "translation": null
+    },
+    {
+      "time": 195.01,
+      "time_str": "03:15.010",
+      "text": "相约的地点",
+      "translation": null
+    },
+    {
+      "time": 197.83,
+      "time_str": "03:17.830",
+      "text": "求求老天淋湿我的双眼",
+      "translation": null
+    },
+    {
+      "time": 201.28,
+      "time_str": "03:21.280",
+      "text": "冰冻我的心",
+      "translation": null
+    },
+    {
+      "time": 204.1,
+      "time_str": "03:24.100",
+      "text": "让我不再苦苦奢求你",
+      "translation": null
+    },
+    {
+      "time": 207.07,
+      "time_str": "03:27.070",
+      "text": "还回来我身边",
+      "translation": null
+    },
+    {
+      "time": 211.3,
+      "time_str": "03:31.300",
+      "text": "我身边",
+      "translation": null
+    },
+    {
+      "time": 214.05,
+      "time_str": "03:34.050",
+      "text": "就让秋风带走我的思念",
+      "translation": null
+    },
+    {
+      "time": 218.39,
+      "time_str": "03:38.390",
+      "text": "带走我的泪",
+      "translation": null
+    },
+    {
+      "time": 221.06,
+      "time_str": "03:41.060",
+      "text": "我还一直静静守候在",
+      "translation": null
+    },
+    {
+      "time": 225.23,
+      "time_str": "03:45.230",
+      "text": "相约的地点",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "秋天不回来 - 王强.lrc"
+}

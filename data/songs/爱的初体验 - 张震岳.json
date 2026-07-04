@@ -1,0 +1,328 @@
+{
+  "title": "爱的初体验",
+  "title_raw": "爱的初体验",
+  "version": null,
+  "artist": "张震岳",
+  "group_key": "爱的初体验|张震岳",
+  "writers": {
+    "lyricist": "张震岳",
+    "composer": "张震岳",
+    "arranger": "张震岳"
+  },
+  "lyrics": [
+    {
+      "time": 16.33,
+      "time_str": "00:16.330",
+      "text": "如果说你要离开我",
+      "translation": null
+    },
+    {
+      "time": 19.9,
+      "time_str": "00:19.900",
+      "text": "请诚实点来告诉我",
+      "translation": null
+    },
+    {
+      "time": 23.82,
+      "time_str": "00:23.820",
+      "text": "不要偷偷摸摸的走",
+      "translation": null
+    },
+    {
+      "time": 27.68,
+      "time_str": "00:27.680",
+      "text": "像上次一样等半年",
+      "translation": null
+    },
+    {
+      "time": 31.87,
+      "time_str": "00:31.870",
+      "text": "如果说你真的要走",
+      "translation": null
+    },
+    {
+      "time": 35.799,
+      "time_str": "00:35.799",
+      "text": "把我的相片还给我",
+      "translation": null
+    },
+    {
+      "time": 39.369,
+      "time_str": "00:39.369",
+      "text": "在你身上也没有用",
+      "translation": null
+    },
+    {
+      "time": 43.239,
+      "time_str": "00:43.239",
+      "text": "我可以还给我妈妈",
+      "translation": null
+    },
+    {
+      "time": 47.299,
+      "time_str": "00:47.299",
+      "text": "什么天长地久",
+      "translation": null
+    },
+    {
+      "time": 51.289,
+      "time_str": "00:51.289",
+      "text": "只是随便说说",
+      "translation": null
+    },
+    {
+      "time": 55.29,
+      "time_str": "00:55.290",
+      "text": "你爱我哪一点",
+      "translation": null
+    },
+    {
+      "time": 59.089,
+      "time_str": "00:59.089",
+      "text": "你也说不出口",
+      "translation": null
+    },
+    {
+      "time": 63.019,
+      "time_str": "01:03.019",
+      "text": "你认识了帅哥",
+      "translation": null
+    },
+    {
+      "time": 66.709,
+      "time_str": "01:06.709",
+      "text": "就把我丢一旁",
+      "translation": null
+    },
+    {
+      "time": 71.0,
+      "time_str": "01:11.000",
+      "text": "天气热的夏天",
+      "translation": null
+    },
+    {
+      "time": 74.5,
+      "time_str": "01:14.500",
+      "text": "心像寒冷冬夜",
+      "translation": null
+    },
+    {
+      "time": 78.369,
+      "time_str": "01:18.369",
+      "text": "想要买酒来浇忧愁",
+      "translation": null
+    },
+    {
+      "time": 82.239,
+      "time_str": "01:22.239",
+      "text": "却懒懒不想出去走",
+      "translation": null
+    },
+    {
+      "time": 86.119,
+      "time_str": "01:26.119",
+      "text": "想要来一包长寿烟",
+      "translation": null
+    },
+    {
+      "time": 90.039,
+      "time_str": "01:30.039",
+      "text": "发现我未满十八岁",
+      "translation": null
+    },
+    {
+      "time": 109.629,
+      "time_str": "01:49.629",
+      "text": "如果说你要离开我",
+      "translation": null
+    },
+    {
+      "time": 113.429,
+      "time_str": "01:53.429",
+      "text": "请诚实点来告诉我",
+      "translation": null
+    },
+    {
+      "time": 117.429,
+      "time_str": "01:57.429",
+      "text": "不要偷偷摸摸的走",
+      "translation": null
+    },
+    {
+      "time": 120.93,
+      "time_str": "02:00.930",
+      "text": "像上次一样等半年",
+      "translation": null
+    },
+    {
+      "time": 125.17,
+      "time_str": "02:05.170",
+      "text": "如果说你真的要走",
+      "translation": null
+    },
+    {
+      "time": 129.099,
+      "time_str": "02:09.099",
+      "text": "把我的相片还给我",
+      "translation": null
+    },
+    {
+      "time": 132.9,
+      "time_str": "02:12.900",
+      "text": "在你身上也没有用",
+      "translation": null
+    },
+    {
+      "time": 137.1,
+      "time_str": "02:17.100",
+      "text": "我可以还给我妈妈",
+      "translation": null
+    },
+    {
+      "time": 140.77,
+      "time_str": "02:20.770",
+      "text": "什么天长地久",
+      "translation": null
+    },
+    {
+      "time": 144.7,
+      "time_str": "02:24.700",
+      "text": "只是随便说说",
+      "translation": null
+    },
+    {
+      "time": 148.44,
+      "time_str": "02:28.440",
+      "text": "你爱我哪一点",
+      "translation": null
+    },
+    {
+      "time": 152.5,
+      "time_str": "02:32.500",
+      "text": "你也说不出口",
+      "translation": null
+    },
+    {
+      "time": 156.07,
+      "time_str": "02:36.070",
+      "text": "你认识了帅哥",
+      "translation": null
+    },
+    {
+      "time": 159.89,
+      "time_str": "02:39.890",
+      "text": "就把我丢一旁",
+      "translation": null
+    },
+    {
+      "time": 164.01,
+      "time_str": "02:44.010",
+      "text": "天气热的夏天",
+      "translation": null
+    },
+    {
+      "time": 168.5,
+      "time_str": "02:48.500",
+      "text": "心像寒冷冬夜",
+      "translation": null
+    },
+    {
+      "time": 172.04,
+      "time_str": "02:52.040",
+      "text": "什么天长地久",
+      "translation": null
+    },
+    {
+      "time": 175.84,
+      "time_str": "02:55.840",
+      "text": "只是随便说说",
+      "translation": null
+    },
+    {
+      "time": 180.02,
+      "time_str": "03:00.020",
+      "text": "你爱我那一点",
+      "translation": null
+    },
+    {
+      "time": 183.9,
+      "time_str": "03:03.900",
+      "text": "你也说不出口",
+      "translation": null
+    },
+    {
+      "time": 187.46,
+      "time_str": "03:07.460",
+      "text": "你认识了帅哥",
+      "translation": null
+    },
+    {
+      "time": 191.39,
+      "time_str": "03:11.390",
+      "text": "就把我丢一旁",
+      "translation": null
+    },
+    {
+      "time": 195.26,
+      "time_str": "03:15.260",
+      "text": "天气热的夏天",
+      "translation": null
+    },
+    {
+      "time": 199.32,
+      "time_str": "03:19.320",
+      "text": "心像寒冷冬夜",
+      "translation": null
+    },
+    {
+      "time": 202.7,
+      "time_str": "03:22.700",
+      "text": "想要买酒来浇忧愁",
+      "translation": null
+    },
+    {
+      "time": 206.6,
+      "time_str": "03:26.600",
+      "text": "却懒懒不想出去走",
+      "translation": null
+    },
+    {
+      "time": 210.429,
+      "time_str": "03:30.429",
+      "text": "想要来一包长寿烟",
+      "translation": null
+    },
+    {
+      "time": 214.179,
+      "time_str": "03:34.179",
+      "text": "发现我未满十八岁",
+      "translation": null
+    },
+    {
+      "time": 218.05,
+      "time_str": "03:38.050",
+      "text": "是不是我的十八岁",
+      "translation": null
+    },
+    {
+      "time": 222.23,
+      "time_str": "03:42.230",
+      "text": "注定要为爱情流泪",
+      "translation": null
+    },
+    {
+      "time": 226.33,
+      "time_str": "03:46.330",
+      "text": "是不是我的十八岁",
+      "translation": null
+    },
+    {
+      "time": 230.26,
+      "time_str": "03:50.260",
+      "text": "注定要为爱掉眼泪",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱的初体验 - 张震岳.lrc"
+}

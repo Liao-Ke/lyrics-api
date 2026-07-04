@@ -1,0 +1,328 @@
+{
+  "title": "我的骄傲",
+  "title_raw": "我的骄傲",
+  "version": null,
+  "artist": "容祖儿",
+  "group_key": "我的骄傲|容祖儿",
+  "writers": {
+    "lyricist": "黄伟文",
+    "composer": "陈光荣",
+    "arranger": "陈光荣"
+  },
+  "lyrics": [
+    {
+      "time": 10.26,
+      "time_str": "00:10.260",
+      "text": "Pride in your eyes",
+      "translation": null
+    },
+    {
+      "time": 13.79,
+      "time_str": "00:13.790",
+      "text": "为我改写下半生",
+      "translation": null
+    },
+    {
+      "time": 16.72,
+      "time_str": "00:16.720",
+      "text": "眉目里找到我",
+      "translation": null
+    },
+    {
+      "time": 19.67,
+      "time_str": "00:19.670",
+      "text": "失去的自信心",
+      "translation": null
+    },
+    {
+      "time": 22.52,
+      "time_str": "00:22.520",
+      "text": "才明白被爱的",
+      "translation": null
+    },
+    {
+      "time": 25.35,
+      "time_str": "00:25.350",
+      "text": "能活得这样勇敢",
+      "translation": null
+    },
+    {
+      "time": 28.41,
+      "time_str": "00:28.410",
+      "text": "荣幸眼神能替我",
+      "translation": null
+    },
+    {
+      "time": 31.28,
+      "time_str": "00:31.280",
+      "text": "云上旅行来点灯",
+      "translation": null
+    },
+    {
+      "time": 34.19,
+      "time_str": "00:34.190",
+      "text": "See me fly",
+      "translation": null
+    },
+    {
+      "time": 36.12,
+      "time_str": "00:36.120",
+      "text": "I'm proud to",
+      "translation": null
+    },
+    {
+      "time": 37.22,
+      "time_str": "00:37.220",
+      "text": "fly up high",
+      "translation": null
+    },
+    {
+      "time": 39.0,
+      "time_str": "00:39.000",
+      "text": "不因气压摇摆",
+      "translation": null
+    },
+    {
+      "time": 41.74,
+      "time_str": "00:41.740",
+      "text": "只因有你拥戴",
+      "translation": null
+    },
+    {
+      "time": 44.8,
+      "time_str": "00:44.800",
+      "text": "Believe me I can fly",
+      "translation": null
+    },
+    {
+      "time": 47.82,
+      "time_str": "00:47.820",
+      "text": "I'm singing",
+      "translation": null
+    },
+    {
+      "time": 48.71,
+      "time_str": "00:48.710",
+      "text": "in the sky",
+      "translation": null
+    },
+    {
+      "time": 50.75,
+      "time_str": "00:50.750",
+      "text": "假使我算神话",
+      "translation": null
+    },
+    {
+      "time": 53.57,
+      "time_str": "00:53.570",
+      "text": "因你创更愉快",
+      "translation": null
+    },
+    {
+      "time": 68.85,
+      "time_str": "01:08.850",
+      "text": "Pride in your eyes",
+      "translation": null
+    },
+    {
+      "time": 72.35,
+      "time_str": "01:12.350",
+      "text": "为我闪烁像最初",
+      "translation": null
+    },
+    {
+      "time": 75.3,
+      "time_str": "01:15.300",
+      "text": "唯独你欣赏我",
+      "translation": null
+    },
+    {
+      "time": 78.67,
+      "time_str": "01:18.670",
+      "text": "比我更多",
+      "translation": null
+    },
+    {
+      "time": 81.13,
+      "time_str": "01:21.130",
+      "text": "埋头做愿你可",
+      "translation": null
+    },
+    {
+      "time": 84.06,
+      "time_str": "01:24.060",
+      "text": "能为我骄傲更多",
+      "translation": null
+    },
+    {
+      "time": 86.96,
+      "time_str": "01:26.960",
+      "text": "无论有谁嫌弃我",
+      "translation": null
+    },
+    {
+      "time": 89.88,
+      "time_str": "01:29.880",
+      "text": "投入却无人可阻",
+      "translation": null
+    },
+    {
+      "time": 92.81,
+      "time_str": "01:32.810",
+      "text": "See me fly",
+      "translation": null
+    },
+    {
+      "time": 94.69,
+      "time_str": "01:34.690",
+      "text": "I'm proud to",
+      "translation": null
+    },
+    {
+      "time": 95.78,
+      "time_str": "01:35.780",
+      "text": "fly up high",
+      "translation": null
+    },
+    {
+      "time": 97.4,
+      "time_str": "01:37.400",
+      "text": "不因气压摇摆",
+      "translation": null
+    },
+    {
+      "time": 100.38,
+      "time_str": "01:40.380",
+      "text": "只因有你拥戴",
+      "translation": null
+    },
+    {
+      "time": 103.48,
+      "time_str": "01:43.480",
+      "text": "Believe me I can fly",
+      "translation": null
+    },
+    {
+      "time": 106.31,
+      "time_str": "01:46.310",
+      "text": "I'm singing",
+      "translation": null
+    },
+    {
+      "time": 107.19,
+      "time_str": "01:47.190",
+      "text": "in the sky",
+      "translation": null
+    },
+    {
+      "time": 109.26,
+      "time_str": "01:49.260",
+      "text": "假使我算神话",
+      "translation": null
+    },
+    {
+      "time": 112.05,
+      "time_str": "01:52.050",
+      "text": "因你创更愉快",
+      "translation": null
+    },
+    {
+      "time": 124.9,
+      "time_str": "02:04.900",
+      "text": "我盼有一天",
+      "translation": null
+    },
+    {
+      "time": 127.85,
+      "time_str": "02:07.850",
+      "text": "将你抱入怀",
+      "translation": null
+    },
+    {
+      "time": 130.64,
+      "time_str": "02:10.640",
+      "text": "昂然地对着宇宙说",
+      "translation": null
+    },
+    {
+      "time": 134.24,
+      "time_str": "02:14.240",
+      "text": "是借着你的风",
+      "translation": null
+    },
+    {
+      "time": 136.78,
+      "time_str": "02:16.780",
+      "text": "Let me fly",
+      "translation": null
+    },
+    {
+      "time": 138.58,
+      "time_str": "02:18.580",
+      "text": "I'm proud to",
+      "translation": null
+    },
+    {
+      "time": 139.65,
+      "time_str": "02:19.650",
+      "text": "fly up high",
+      "translation": null
+    },
+    {
+      "time": 141.58,
+      "time_str": "02:21.580",
+      "text": "不因气压摇摆",
+      "translation": null
+    },
+    {
+      "time": 144.35,
+      "time_str": "02:24.350",
+      "text": "只因有你拥戴",
+      "translation": null
+    },
+    {
+      "time": 147.36,
+      "time_str": "02:27.360",
+      "text": "Believe me I can fly",
+      "translation": null
+    },
+    {
+      "time": 150.23,
+      "time_str": "02:30.230",
+      "text": "I'm singing",
+      "translation": null
+    },
+    {
+      "time": 151.14,
+      "time_str": "02:31.140",
+      "text": "in the sky",
+      "translation": null
+    },
+    {
+      "time": 153.05,
+      "time_str": "02:33.050",
+      "text": "假使爱有奇迹",
+      "translation": null
+    },
+    {
+      "time": 156.13,
+      "time_str": "02:36.130",
+      "text": "跟你创最愉快",
+      "translation": null
+    },
+    {
+      "time": 160.95,
+      "time_str": "02:40.950",
+      "text": "我觉得光荣因有你",
+      "translation": null
+    },
+    {
+      "time": 167.98,
+      "time_str": "02:47.980",
+      "text": "拥戴",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我的骄傲 - 容祖儿.lrc"
+}

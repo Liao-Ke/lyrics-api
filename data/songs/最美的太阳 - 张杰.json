@@ -1,0 +1,286 @@
+{
+  "title": "最美的太阳",
+  "title_raw": "最美的太阳",
+  "version": null,
+  "artist": "张杰",
+  "group_key": "最美的太阳|张杰",
+  "writers": {
+    "lyricist": "刘迦宁",
+    "composer": "刘迦宁",
+    "arranger": "周治平"
+  },
+  "lyrics": [
+    {
+      "time": 43.783,
+      "time_str": "00:43.783",
+      "text": "我的世界",
+      "translation": null
+    },
+    {
+      "time": 47.332,
+      "time_str": "00:47.332",
+      "text": "因为有你才会美",
+      "translation": null
+    },
+    {
+      "time": 50.142,
+      "time_str": "00:50.142",
+      "text": "我的天空",
+      "translation": null
+    },
+    {
+      "time": 53.67,
+      "time_str": "00:53.670",
+      "text": "因为有你不会黑",
+      "translation": null
+    },
+    {
+      "time": 56.578,
+      "time_str": "00:56.578",
+      "text": "给我快乐",
+      "translation": null
+    },
+    {
+      "time": 60.101,
+      "time_str": "01:00.101",
+      "text": "为我伤心流眼泪",
+      "translation": null
+    },
+    {
+      "time": 63.0,
+      "time_str": "01:03.000",
+      "text": "给我宽容",
+      "translation": null
+    },
+    {
+      "time": 66.509,
+      "time_str": "01:06.509",
+      "text": "让我能展翅高飞",
+      "translation": null
+    },
+    {
+      "time": 68.956,
+      "time_str": "01:08.956",
+      "text": "你的话你的泪",
+      "translation": null
+    },
+    {
+      "time": 72.128,
+      "time_str": "01:12.128",
+      "text": "你的笑你的美",
+      "translation": null
+    },
+    {
+      "time": 75.349,
+      "time_str": "01:15.349",
+      "text": "在我眼中胜过最美的玫瑰",
+      "translation": null
+    },
+    {
+      "time": 81.735,
+      "time_str": "01:21.735",
+      "text": "抱着梦 往前飞",
+      "translation": null
+    },
+    {
+      "time": 84.904,
+      "time_str": "01:24.904",
+      "text": "不逃避 不后退",
+      "translation": null
+    },
+    {
+      "time": 88.091,
+      "time_str": "01:28.091",
+      "text": "你是我成功路上的堡垒",
+      "translation": null
+    },
+    {
+      "time": 98.146,
+      "time_str": "01:38.146",
+      "text": "给我翅膀",
+      "translation": null
+    },
+    {
+      "time": 101.929,
+      "time_str": "01:41.929",
+      "text": "让我可以翱翔",
+      "translation": null
+    },
+    {
+      "time": 104.585,
+      "time_str": "01:44.585",
+      "text": "给我力量",
+      "translation": null
+    },
+    {
+      "time": 108.054,
+      "time_str": "01:48.054",
+      "text": "是你让我变坚强",
+      "translation": null
+    },
+    {
+      "time": 110.947,
+      "time_str": "01:50.947",
+      "text": "不怕受伤",
+      "translation": null
+    },
+    {
+      "time": 114.309,
+      "time_str": "01:54.309",
+      "text": "因为有你在身旁",
+      "translation": null
+    },
+    {
+      "time": 116.923,
+      "time_str": "01:56.923",
+      "text": "你的笑 你的泪",
+      "translation": null
+    },
+    {
+      "time": 119.28,
+      "time_str": "01:59.280",
+      "text": "是我逐梦路上最美的太阳",
+      "translation": null
+    },
+    {
+      "time": 155.311,
+      "time_str": "02:35.311",
+      "text": "你的话你的泪",
+      "translation": null
+    },
+    {
+      "time": 158.441,
+      "time_str": "02:38.441",
+      "text": "你的笑你的美",
+      "translation": null
+    },
+    {
+      "time": 161.646,
+      "time_str": "02:41.646",
+      "text": "在我眼中胜过最美的玫瑰",
+      "translation": null
+    },
+    {
+      "time": 168.067,
+      "time_str": "02:48.067",
+      "text": "抱着梦 往前飞",
+      "translation": null
+    },
+    {
+      "time": 171.257,
+      "time_str": "02:51.257",
+      "text": "不逃避 不后退",
+      "translation": null
+    },
+    {
+      "time": 174.463,
+      "time_str": "02:54.463",
+      "text": "你是我成功路上的堡垒",
+      "translation": null
+    },
+    {
+      "time": 184.525,
+      "time_str": "03:04.525",
+      "text": "给我翅膀",
+      "translation": null
+    },
+    {
+      "time": 188.297,
+      "time_str": "03:08.297",
+      "text": "让我可以翱翔",
+      "translation": null
+    },
+    {
+      "time": 190.94,
+      "time_str": "03:10.940",
+      "text": "给我力量",
+      "translation": null
+    },
+    {
+      "time": 194.45,
+      "time_str": "03:14.450",
+      "text": "是你让我变坚强",
+      "translation": null
+    },
+    {
+      "time": 197.303,
+      "time_str": "03:17.303",
+      "text": "不怕受伤",
+      "translation": null
+    },
+    {
+      "time": 200.711,
+      "time_str": "03:20.711",
+      "text": "因为有你在身旁",
+      "translation": null
+    },
+    {
+      "time": 203.259,
+      "time_str": "03:23.259",
+      "text": "你的笑 你的泪",
+      "translation": null
+    },
+    {
+      "time": 205.64,
+      "time_str": "03:25.640",
+      "text": "是我逐梦路上最美的太阳",
+      "translation": null
+    },
+    {
+      "time": 213.332,
+      "time_str": "03:33.332",
+      "text": "给我翅膀",
+      "translation": null
+    },
+    {
+      "time": 217.052,
+      "time_str": "03:37.052",
+      "text": "让我可以翱翔",
+      "translation": null
+    },
+    {
+      "time": 219.794,
+      "time_str": "03:39.794",
+      "text": "给我力量",
+      "translation": null
+    },
+    {
+      "time": 223.25,
+      "time_str": "03:43.250",
+      "text": "是你让我变坚强",
+      "translation": null
+    },
+    {
+      "time": 226.149,
+      "time_str": "03:46.149",
+      "text": "不怕受伤",
+      "translation": null
+    },
+    {
+      "time": 229.456,
+      "time_str": "03:49.456",
+      "text": "因为有你在身旁",
+      "translation": null
+    },
+    {
+      "time": 232.03,
+      "time_str": "03:52.030",
+      "text": "你的笑 你的泪",
+      "translation": null
+    },
+    {
+      "time": 234.44,
+      "time_str": "03:54.440",
+      "text": "是我逐梦路上最美的太阳",
+      "translation": null
+    },
+    {
+      "time": 240.863,
+      "time_str": "04:00.863",
+      "text": "是我逐梦路上最美的太阳",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "最美的太阳 - 张杰.lrc"
+}

@@ -1,0 +1,208 @@
+{
+  "title": "凡人歌",
+  "title_raw": "凡人歌",
+  "version": null,
+  "artist": "五月天,萧敬腾",
+  "group_key": "凡人歌|五月天,萧敬腾",
+  "writers": {
+    "lyricist": "李宗盛",
+    "composer": "李宗盛",
+    "arranger": "五月天"
+  },
+  "lyrics": [
+    {
+      "time": 20.34,
+      "time_str": "00:20.340",
+      "text": "你我皆凡人 生在人世间",
+      "translation": null
+    },
+    {
+      "time": 27.59,
+      "time_str": "00:27.590",
+      "text": "终日奔波苦 一刻不得闲",
+      "translation": null
+    },
+    {
+      "time": 35.119,
+      "time_str": "00:35.119",
+      "text": "既然不是仙 难免有杂念",
+      "translation": null
+    },
+    {
+      "time": 42.67,
+      "time_str": "00:42.670",
+      "text": "道义放两旁 把利字摆中间",
+      "translation": null
+    },
+    {
+      "time": 49.773,
+      "time_str": "00:49.773",
+      "text": "多少男子汉 一怒为红颜",
+      "translation": null
+    },
+    {
+      "time": 57.224,
+      "time_str": "00:57.224",
+      "text": "多少同林鸟 已成了分飞燕",
+      "translation": null
+    },
+    {
+      "time": 64.375,
+      "time_str": "01:04.375",
+      "text": "人生何其短 何必苦苦恋",
+      "translation": null
+    },
+    {
+      "time": 71.928,
+      "time_str": "01:11.928",
+      "text": "爱人不见了 向谁去喊冤",
+      "translation": null
+    },
+    {
+      "time": 79.328,
+      "time_str": "01:19.328",
+      "text": "问你 何时曾看见",
+      "translation": null
+    },
+    {
+      "time": 82.578,
+      "time_str": "01:22.578",
+      "text": "这世界为了人们改变",
+      "translation": null
+    },
+    {
+      "time": 87.081,
+      "time_str": "01:27.081",
+      "text": "有了梦寐以求的容颜",
+      "translation": null
+    },
+    {
+      "time": 90.209,
+      "time_str": "01:30.209",
+      "text": "是否就算是拥有春天",
+      "translation": null
+    },
+    {
+      "time": 110.867,
+      "time_str": "01:50.867",
+      "text": "你我皆凡人 生在人世间",
+      "translation": null
+    },
+    {
+      "time": 118.116,
+      "time_str": "01:58.116",
+      "text": "终日奔波苦 一刻不得闲",
+      "translation": null
+    },
+    {
+      "time": 125.467,
+      "time_str": "02:05.467",
+      "text": "既然不是仙 难免有杂念",
+      "translation": null
+    },
+    {
+      "time": 133.117,
+      "time_str": "02:13.117",
+      "text": "道义放两旁 把利字摆中间",
+      "translation": null
+    },
+    {
+      "time": 140.169,
+      "time_str": "02:20.169",
+      "text": "多少男子汉 一怒为红颜",
+      "translation": null
+    },
+    {
+      "time": 147.573,
+      "time_str": "02:27.573",
+      "text": "多少同林鸟 已成了分飞燕",
+      "translation": null
+    },
+    {
+      "time": 155.004,
+      "time_str": "02:35.004",
+      "text": "人生何其短 何必苦苦恋",
+      "translation": null
+    },
+    {
+      "time": 162.454,
+      "time_str": "02:42.454",
+      "text": "爱人不见了 向谁去喊冤",
+      "translation": null
+    },
+    {
+      "time": 169.806,
+      "time_str": "02:49.806",
+      "text": "问你 何时曾看见",
+      "translation": null
+    },
+    {
+      "time": 173.006,
+      "time_str": "02:53.006",
+      "text": "这世界为了人们改变",
+      "translation": null
+    },
+    {
+      "time": 177.458,
+      "time_str": "02:57.458",
+      "text": "有了梦寐以求的容颜",
+      "translation": null
+    },
+    {
+      "time": 180.308,
+      "time_str": "03:00.308",
+      "text": "是否就算是拥有春天",
+      "translation": null
+    },
+    {
+      "time": 229.023,
+      "time_str": "03:49.023",
+      "text": "问你 何时曾看见",
+      "translation": null
+    },
+    {
+      "time": 232.073,
+      "time_str": "03:52.073",
+      "text": "这世界为了人们改变",
+      "translation": null
+    },
+    {
+      "time": 236.474,
+      "time_str": "03:56.474",
+      "text": "有了梦寐以求的容颜",
+      "translation": null
+    },
+    {
+      "time": 239.41,
+      "time_str": "03:59.410",
+      "text": "是否就算是拥有春天",
+      "translation": null
+    },
+    {
+      "time": 243.508,
+      "time_str": "04:03.508",
+      "text": "我问你 何时曾看见",
+      "translation": null
+    },
+    {
+      "time": 246.858,
+      "time_str": "04:06.858",
+      "text": "这世界为了人们改变",
+      "translation": null
+    },
+    {
+      "time": 251.009,
+      "time_str": "04:11.009",
+      "text": "有了梦寐以求的容颜",
+      "translation": null
+    },
+    {
+      "time": 254.159,
+      "time_str": "04:14.159",
+      "text": "是否就算是拥有春天",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "凡人歌 - 五月天,萧敬腾.lrc"
+}

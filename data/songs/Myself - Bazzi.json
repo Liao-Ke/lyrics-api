@@ -1,0 +1,292 @@
+{
+  "title": "Myself",
+  "title_raw": "Myself",
+  "version": null,
+  "artist": "Bazzi",
+  "group_key": "myself|bazzi",
+  "writers": {
+    "lyricist": "Bazzi",
+    "composer": "Bazzi/James Lavigne",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.15,
+      "time_str": "00:03.150",
+      "text": "I think I'm losing my mind",
+      "translation": "我感觉快要陷入疯狂"
+    },
+    {
+      "time": 7.88,
+      "time_str": "00:07.880",
+      "text": "Trying to stay inside the lines",
+      "translation": "尽量不要做出出格的举动"
+    },
+    {
+      "time": 12.67,
+      "time_str": "00:12.670",
+      "text": "It's like I'm running in place",
+      "translation": "就像是原地踏步"
+    },
+    {
+      "time": 17.57,
+      "time_str": "00:17.570",
+      "text": "How you keep staying the same?",
+      "translation": "你怎么还能保持原样"
+    },
+    {
+      "time": 23.31,
+      "time_str": "00:23.310",
+      "text": "Baby, I, I guess I'm something different",
+      "translation": "宝贝，我觉得我有了一些变化"
+    },
+    {
+      "time": 27.49,
+      "time_str": "00:27.490",
+      "text": "And I'm okay with that",
+      "translation": "但我觉得还好"
+    },
+    {
+      "time": 29.79,
+      "time_str": "00:29.790",
+      "text": "I can't fake no more smiles",
+      "translation": "我无法强颜欢笑了"
+    },
+    {
+      "time": 32.12,
+      "time_str": "00:32.120",
+      "text": "That shit gon' drive me mad",
+      "translation": "快要让陷入疯狂"
+    },
+    {
+      "time": 34.73,
+      "time_str": "00:34.730",
+      "text": "I'm focused on the future",
+      "translation": "我着眼于未来"
+    },
+    {
+      "time": 37.09,
+      "time_str": "00:37.090",
+      "text": "Don't care 'bout nothin' else",
+      "translation": "不在意其他事"
+    },
+    {
+      "time": 42.22,
+      "time_str": "00:42.220",
+      "text": "I'm better by myself",
+      "translation": "我自己来就挺好"
+    },
+    {
+      "time": 47.31,
+      "time_str": "00:47.310",
+      "text": "I'm better by myself",
+      "translation": "我能解决这些烦恼"
+    },
+    {
+      "time": 51.89,
+      "time_str": "00:51.890",
+      "text": "I don't need no one else",
+      "translation": "不需要其他人来帮我"
+    },
+    {
+      "time": 56.88,
+      "time_str": "00:56.880",
+      "text": "I'm better by myself",
+      "translation": "我自己来就好"
+    },
+    {
+      "time": 60.9,
+      "time_str": "01:00.900",
+      "text": "Myself",
+      "translation": "就好"
+    },
+    {
+      "time": 64.2,
+      "time_str": "01:04.200",
+      "text": "Don't wanna answer questions",
+      "translation": "不想要回答任何问题"
+    },
+    {
+      "time": 66.57,
+      "time_str": "01:06.570",
+      "text": "Just want your company",
+      "translation": "就想要你陪着我"
+    },
+    {
+      "time": 68.88,
+      "time_str": "01:08.880",
+      "text": "It's all good on the surface",
+      "translation": "表面看上去风平浪静"
+    },
+    {
+      "time": 71.36,
+      "time_str": "01:11.360",
+      "text": "Show me what's underneath",
+      "translation": "不要掩藏你的内心"
+    },
+    {
+      "time": 73.86,
+      "time_str": "01:13.860",
+      "text": "I'm not concerned with drama",
+      "translation": "我不关心这些闹剧"
+    },
+    {
+      "time": 76.25,
+      "time_str": "01:16.250",
+      "text": "I left that shit in school",
+      "translation": "毕业之后就不吃这套"
+    },
+    {
+      "time": 78.74,
+      "time_str": "01:18.740",
+      "text": "I'm more concerned with commas",
+      "translation": "我更关心物质生活"
+    },
+    {
+      "time": 81.17,
+      "time_str": "01:21.170",
+      "text": "Than keeping up with you",
+      "translation": "然后紧接着就是你"
+    },
+    {
+      "time": 83.65,
+      "time_str": "01:23.650",
+      "text": "Keep that away from me",
+      "translation": "不要跟我玩套路"
+    },
+    {
+      "time": 85.49,
+      "time_str": "01:25.490",
+      "text": "I put the Heisman up to bad energy",
+      "translation": "我拒绝一切负能量"
+    },
+    {
+      "time": 89.29,
+      "time_str": "01:29.290",
+      "text": "No empathy, especially when the kid off Hennessy",
+      "translation": "绝不同情，特别是那些扔下酒的那些孩子"
+    },
+    {
+      "time": 93.91,
+      "time_str": "01:33.910",
+      "text": "Fake friends to me make my mood go south like Tennessee",
+      "translation": "表面兄弟让我心情像田纳西一样暴躁"
+    },
+    {
+      "time": 97.72,
+      "time_str": "01:37.720",
+      "text": "Make the fool come out like, \"Who is he?\"",
+      "translation": "让那群傻瓜问出“他谁啊”"
+    },
+    {
+      "time": 100.31,
+      "time_str": "01:40.310",
+      "text": "I mean, I'm trying to tell y'all",
+      "translation": "我意思是，我正打算告诉你"
+    },
+    {
+      "time": 103.56,
+      "time_str": "01:43.560",
+      "text": "I'm better by myself",
+      "translation": "我自己来就挺好"
+    },
+    {
+      "time": 108.24,
+      "time_str": "01:48.240",
+      "text": "I'm better by myself",
+      "translation": "我能解决这些烦恼"
+    },
+    {
+      "time": 113.26,
+      "time_str": "01:53.260",
+      "text": "I don't need no one else",
+      "translation": "求人不如求己"
+    },
+    {
+      "time": 118.17,
+      "time_str": "01:58.170",
+      "text": "I'm better by myself",
+      "translation": "我自己来就好"
+    },
+    {
+      "time": 121.68,
+      "time_str": "02:01.680",
+      "text": "Myself",
+      "translation": "就好"
+    },
+    {
+      "time": 128.17,
+      "time_str": "02:08.170",
+      "text": "I don't know who to trust",
+      "translation": "我不知道能相信谁"
+    },
+    {
+      "time": 130.65,
+      "time_str": "02:10.650",
+      "text": "These days everyone's shady",
+      "translation": "这些日子每个人都很可疑"
+    },
+    {
+      "time": 133.02,
+      "time_str": "02:13.020",
+      "text": "Fool me once, I'm on my own",
+      "translation": "骗我一次，我就靠自己"
+    },
+    {
+      "time": 135.49,
+      "time_str": "02:15.490",
+      "text": "There is no second time, baby",
+      "translation": "绝没有第二次了，宝贝儿"
+    },
+    {
+      "time": 138.0,
+      "time_str": "02:18.000",
+      "text": "That's the shit I don't like",
+      "translation": "我最讨厌背叛了"
+    },
+    {
+      "time": 140.37,
+      "time_str": "02:20.370",
+      "text": "Please no yes, no maybes",
+      "translation": "请绝不要，断绝可能"
+    },
+    {
+      "time": 143.2,
+      "time_str": "02:23.200",
+      "text": "What else?",
+      "translation": "还有？"
+    },
+    {
+      "time": 145.09,
+      "time_str": "02:25.090",
+      "text": "I'm better by myself",
+      "translation": "我自己来就挺好"
+    },
+    {
+      "time": 150.05,
+      "time_str": "02:30.050",
+      "text": "I'm better by myself",
+      "translation": "我能解决这些烦恼"
+    },
+    {
+      "time": 154.95,
+      "time_str": "02:34.950",
+      "text": "I don't need no one else",
+      "translation": "求人不如求己"
+    },
+    {
+      "time": 159.78,
+      "time_str": "02:39.780",
+      "text": "I'm better by myself",
+      "translation": "我自己来就好"
+    },
+    {
+      "time": 163.72,
+      "time_str": "02:43.720",
+      "text": "Myself",
+      "translation": "我自己"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Myself - Bazzi.lrc"
+}

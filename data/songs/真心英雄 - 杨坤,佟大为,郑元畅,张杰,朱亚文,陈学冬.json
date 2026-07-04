@@ -1,0 +1,304 @@
+{
+  "title": "真心英雄",
+  "title_raw": "真心英雄",
+  "version": null,
+  "artist": "杨坤,佟大为,郑元畅,张杰,朱亚文,陈学冬",
+  "group_key": "真心英雄|杨坤,佟大为,郑元畅,张杰,朱亚文,陈学冬",
+  "writers": {
+    "lyricist": "李宗盛",
+    "composer": "李宗盛",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.75,
+      "time_str": "00:01.750",
+      "text": "原唱 : 成龙 / 周华健 / 李宗盛",
+      "translation": null
+    },
+    {
+      "time": 9.75,
+      "time_str": "00:09.750",
+      "text": "佟大为：在我心中曾经有一个梦",
+      "translation": null
+    },
+    {
+      "time": 13.58,
+      "time_str": "00:13.580",
+      "text": "要用歌声让你忘了所有的痛",
+      "translation": null
+    },
+    {
+      "time": 18.26,
+      "time_str": "00:18.260",
+      "text": "陈学冬：灿烂星空谁是真的英雄",
+      "translation": null
+    },
+    {
+      "time": 22.08,
+      "time_str": "00:22.080",
+      "text": "平凡的人们给我最多感动",
+      "translation": null
+    },
+    {
+      "time": 26.61,
+      "time_str": "00:26.610",
+      "text": "郑元畅：再没有恨也没有了痛",
+      "translation": null
+    },
+    {
+      "time": 30.37,
+      "time_str": "00:30.370",
+      "text": "但愿人间处处都有爱的影踪",
+      "translation": null
+    },
+    {
+      "time": 35.15,
+      "time_str": "00:35.150",
+      "text": "杨坤：用我们的歌换你真心笑容",
+      "translation": null
+    },
+    {
+      "time": 39.04,
+      "time_str": "00:39.040",
+      "text": "祝福你的人生从此与众不同",
+      "translation": null
+    },
+    {
+      "time": 43.63,
+      "time_str": "00:43.630",
+      "text": "把握生命里的每一分钟",
+      "translation": null
+    },
+    {
+      "time": 47.39,
+      "time_str": "00:47.390",
+      "text": "全力以赴我们心中的梦",
+      "translation": null
+    },
+    {
+      "time": 52.12,
+      "time_str": "00:52.120",
+      "text": "朱亚文：不经历风雨怎么见彩虹",
+      "translation": null
+    },
+    {
+      "time": 56.29,
+      "time_str": "00:56.290",
+      "text": "没有人能随随便便成功",
+      "translation": null
+    },
+    {
+      "time": 60.58,
+      "time_str": "01:00.580",
+      "text": "张杰：把握生命里每一次感动",
+      "translation": null
+    },
+    {
+      "time": 64.5,
+      "time_str": "01:04.500",
+      "text": "和心爱的朋友热情相拥",
+      "translation": null
+    },
+    {
+      "time": 68.79,
+      "time_str": "01:08.790",
+      "text": "佟大为：让真心的话和开心的泪",
+      "translation": null
+    },
+    {
+      "time": 73.12,
+      "time_str": "01:13.120",
+      "text": "在你我的心里流动",
+      "translation": null
+    },
+    {
+      "time": 78.03,
+      "time_str": "01:18.030",
+      "text": "陈学冬：在我心中曾经有一个梦",
+      "translation": null
+    },
+    {
+      "time": 81.39,
+      "time_str": "01:21.390",
+      "text": "要用歌声让你忘了所有的痛",
+      "translation": null
+    },
+    {
+      "time": 85.96,
+      "time_str": "01:25.960",
+      "text": "朱亚文：灿烂星空谁是真的英雄",
+      "translation": null
+    },
+    {
+      "time": 89.97,
+      "time_str": "01:29.970",
+      "text": "平凡的人们给我最多感动",
+      "translation": null
+    },
+    {
+      "time": 94.51,
+      "time_str": "01:34.510",
+      "text": "郑元畅：再没有恨也没有了痛",
+      "translation": null
+    },
+    {
+      "time": 98.33,
+      "time_str": "01:38.330",
+      "text": "但愿人间处处都有爱的影踪",
+      "translation": null
+    },
+    {
+      "time": 102.93,
+      "time_str": "01:42.930",
+      "text": "杨坤：用我们的歌换你真心笑容",
+      "translation": null
+    },
+    {
+      "time": 107.04,
+      "time_str": "01:47.040",
+      "text": "祝福你的人生从此与众不同",
+      "translation": null
+    },
+    {
+      "time": 111.48,
+      "time_str": "01:51.480",
+      "text": "把握生命里的每一分钟",
+      "translation": null
+    },
+    {
+      "time": 115.61,
+      "time_str": "01:55.610",
+      "text": "全力以赴我们心中的梦",
+      "translation": null
+    },
+    {
+      "time": 119.83,
+      "time_str": "01:59.830",
+      "text": "张杰：不经历风雨怎么见彩虹",
+      "translation": null
+    },
+    {
+      "time": 124.08,
+      "time_str": "02:04.080",
+      "text": "没有人能随随便便成功",
+      "translation": null
+    },
+    {
+      "time": 128.33,
+      "time_str": "02:08.330",
+      "text": "佟大为：把握生命里每一次感动",
+      "translation": null
+    },
+    {
+      "time": 132.24,
+      "time_str": "02:12.240",
+      "text": "和心爱的朋友热情相拥",
+      "translation": null
+    },
+    {
+      "time": 136.8,
+      "time_str": "02:16.800",
+      "text": "朱亚文：让真心的话和开心的泪",
+      "translation": null
+    },
+    {
+      "time": 141.19,
+      "time_str": "02:21.190",
+      "text": "在你我的心里流动",
+      "translation": null
+    },
+    {
+      "time": 145.51,
+      "time_str": "02:25.510",
+      "text": "张杰：把握生命里的每一分钟",
+      "translation": null
+    },
+    {
+      "time": 149.26,
+      "time_str": "02:29.260",
+      "text": "全力以赴我们心中的梦",
+      "translation": null
+    },
+    {
+      "time": 153.78,
+      "time_str": "02:33.780",
+      "text": "合：不经历风雨怎么见彩虹",
+      "translation": null
+    },
+    {
+      "time": 158.0,
+      "time_str": "02:38.000",
+      "text": "没有人能随随便便成功",
+      "translation": null
+    },
+    {
+      "time": 162.24,
+      "time_str": "02:42.240",
+      "text": "把握生命里每一次感动",
+      "translation": null
+    },
+    {
+      "time": 166.53,
+      "time_str": "02:46.530",
+      "text": "和心爱的朋友热情相拥",
+      "translation": null
+    },
+    {
+      "time": 170.34,
+      "time_str": "02:50.340",
+      "text": "让真心的话和开心的泪",
+      "translation": null
+    },
+    {
+      "time": 174.91,
+      "time_str": "02:54.910",
+      "text": "在你我的心里流动",
+      "translation": null
+    },
+    {
+      "time": 179.36,
+      "time_str": "02:59.360",
+      "text": "啦……",
+      "translation": null
+    },
+    {
+      "time": 196.17,
+      "time_str": "03:16.170",
+      "text": "把握生命里每一次感动",
+      "translation": null
+    },
+    {
+      "time": 200.38,
+      "time_str": "03:20.380",
+      "text": "和心爱的朋友热情相拥",
+      "translation": null
+    },
+    {
+      "time": 206.55,
+      "time_str": "03:26.550",
+      "text": "让真心的话和开心的泪",
+      "translation": null
+    },
+    {
+      "time": 209.16,
+      "time_str": "03:29.160",
+      "text": "在你我的心里流动",
+      "translation": null
+    },
+    {
+      "time": 213.19,
+      "time_str": "03:33.190",
+      "text": "佟大为：让真心的话和开心的泪",
+      "translation": null
+    },
+    {
+      "time": 217.49,
+      "time_str": "03:37.490",
+      "text": "在你我的心里流动",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "真心英雄 - 杨坤,佟大为,郑元畅,张杰,朱亚文,陈学冬.lrc"
+}

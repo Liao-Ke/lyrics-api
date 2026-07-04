@@ -1,0 +1,466 @@
+{
+  "title": "啵一个",
+  "title_raw": "啵一个",
+  "version": null,
+  "artist": "花儿乐队",
+  "group_key": "啵一个|花儿乐队",
+  "writers": {
+    "lyricist": "大张伟",
+    "composer": "大张伟",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.03,
+      "time_str": "00:11.030",
+      "text": "亲爱的 啵一个 啵一个",
+      "translation": null
+    },
+    {
+      "time": 13.65,
+      "time_str": "00:13.650",
+      "text": "啵一个 Mm Mm",
+      "translation": null
+    },
+    {
+      "time": 15.31,
+      "time_str": "00:15.310",
+      "text": "啵一个 啵一个",
+      "translation": null
+    },
+    {
+      "time": 16.99,
+      "time_str": "00:16.990",
+      "text": "啵一个 Mm Mm",
+      "translation": null
+    },
+    {
+      "time": 18.65,
+      "time_str": "00:18.650",
+      "text": "红红的太阳蓝蓝的天",
+      "translation": null
+    },
+    {
+      "time": 22.21,
+      "time_str": "00:22.210",
+      "text": "绿绿的草原一望无边",
+      "translation": null
+    },
+    {
+      "time": 24.93,
+      "time_str": "00:24.930",
+      "text": "我那最可爱的人在眼前",
+      "translation": null
+    },
+    {
+      "time": 28.54,
+      "time_str": "00:28.540",
+      "text": "要表的是蜜语和甜言",
+      "translation": null
+    },
+    {
+      "time": 31.62,
+      "time_str": "00:31.620",
+      "text": "亲爱的 啵一个",
+      "translation": null
+    },
+    {
+      "time": 32.91,
+      "time_str": "00:32.910",
+      "text": "啵一个 啵一个 Mm Mm",
+      "translation": null
+    },
+    {
+      "time": 35.41,
+      "time_str": "00:35.410",
+      "text": "溜溜的青山淡淡的烟",
+      "translation": null
+    },
+    {
+      "time": 38.92,
+      "time_str": "00:38.920",
+      "text": "涣涣的河水流向心田",
+      "translation": null
+    },
+    {
+      "time": 41.74,
+      "time_str": "00:41.740",
+      "text": "你那最心疼的人在眼前",
+      "translation": null
+    },
+    {
+      "time": 45.31,
+      "time_str": "00:45.310",
+      "text": "要亲的是谁脸蛋上面",
+      "translation": null
+    },
+    {
+      "time": 48.36,
+      "time_str": "00:48.360",
+      "text": "亲爱的 啵一个",
+      "translation": null
+    },
+    {
+      "time": 49.72,
+      "time_str": "00:49.720",
+      "text": "啵一个 啵一个 Mm Mm",
+      "translation": null
+    },
+    {
+      "time": 52.14,
+      "time_str": "00:52.140",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 53.77,
+      "time_str": "00:53.770",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 55.53,
+      "time_str": "00:55.530",
+      "text": "瞧你笑得像朵花儿",
+      "translation": null
+    },
+    {
+      "time": 58.42,
+      "time_str": "00:58.420",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 60.37,
+      "time_str": "01:00.370",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 62.17,
+      "time_str": "01:02.170",
+      "text": "共划破浪的船啊船啊船",
+      "translation": null
+    },
+    {
+      "time": 65.16,
+      "time_str": "01:05.160",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 67.1,
+      "time_str": "01:07.100",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 68.9,
+      "time_str": "01:08.900",
+      "text": "天天把你挂嘴边儿",
+      "translation": null
+    },
+    {
+      "time": 71.87,
+      "time_str": "01:11.870",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 73.88,
+      "time_str": "01:13.880",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 75.6,
+      "time_str": "01:15.600",
+      "text": "抱起这幸福转啊转啊转",
+      "translation": null
+    },
+    {
+      "time": 78.56,
+      "time_str": "01:18.560",
+      "text": "亲爱的 啵一个",
+      "translation": null
+    },
+    {
+      "time": 79.9,
+      "time_str": "01:19.900",
+      "text": "啵一个 啵一个 Mm Mm",
+      "translation": null
+    },
+    {
+      "time": 82.42,
+      "time_str": "01:22.420",
+      "text": "红红的太阳蓝蓝的天",
+      "translation": null
+    },
+    {
+      "time": 85.96,
+      "time_str": "01:25.960",
+      "text": "绿绿的草原一望无边",
+      "translation": null
+    },
+    {
+      "time": 88.7,
+      "time_str": "01:28.700",
+      "text": "我那最可爱的人在眼前",
+      "translation": null
+    },
+    {
+      "time": 92.32,
+      "time_str": "01:32.320",
+      "text": "要表的是蜜语和甜言",
+      "translation": null
+    },
+    {
+      "time": 95.32,
+      "time_str": "01:35.320",
+      "text": "亲爱的 啵一个",
+      "translation": null
+    },
+    {
+      "time": 96.71,
+      "time_str": "01:36.710",
+      "text": "啵一个 啵一个 Mm Mm",
+      "translation": null
+    },
+    {
+      "time": 99.2,
+      "time_str": "01:39.200",
+      "text": "溜溜的青山淡淡的烟",
+      "translation": null
+    },
+    {
+      "time": 102.72,
+      "time_str": "01:42.720",
+      "text": "涣涣的河水流向心田",
+      "translation": null
+    },
+    {
+      "time": 105.53,
+      "time_str": "01:45.530",
+      "text": "你那最心疼的人在眼前",
+      "translation": null
+    },
+    {
+      "time": 108.97,
+      "time_str": "01:48.970",
+      "text": "要亲的是谁脸蛋上面",
+      "translation": null
+    },
+    {
+      "time": 112.15,
+      "time_str": "01:52.150",
+      "text": "亲爱的 啵一个",
+      "translation": null
+    },
+    {
+      "time": 113.48,
+      "time_str": "01:53.480",
+      "text": "啵一个 啵一个 Mm Mm",
+      "translation": null
+    },
+    {
+      "time": 115.98,
+      "time_str": "01:55.980",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 117.5,
+      "time_str": "01:57.500",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 119.27,
+      "time_str": "01:59.270",
+      "text": "瞧你笑得像朵花儿",
+      "translation": null
+    },
+    {
+      "time": 122.25,
+      "time_str": "02:02.250",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 124.21,
+      "time_str": "02:04.210",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 126.01,
+      "time_str": "02:06.010",
+      "text": "共划破浪的船啊船啊船",
+      "translation": null
+    },
+    {
+      "time": 128.91,
+      "time_str": "02:08.910",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 130.93,
+      "time_str": "02:10.930",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 132.66,
+      "time_str": "02:12.660",
+      "text": "天天把你挂嘴边儿",
+      "translation": null
+    },
+    {
+      "time": 135.66,
+      "time_str": "02:15.660",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 137.73,
+      "time_str": "02:17.730",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 139.48,
+      "time_str": "02:19.480",
+      "text": "抱起这幸福转啊转啊转",
+      "translation": null
+    },
+    {
+      "time": 168.64,
+      "time_str": "02:48.640",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 171.29,
+      "time_str": "02:51.290",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 173.0,
+      "time_str": "02:53.000",
+      "text": "瞧你笑得像朵花儿",
+      "translation": null
+    },
+    {
+      "time": 175.94,
+      "time_str": "02:55.940",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 177.95,
+      "time_str": "02:57.950",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 179.68,
+      "time_str": "02:59.680",
+      "text": "共划破浪的船啊船啊船",
+      "translation": null
+    },
+    {
+      "time": 182.71,
+      "time_str": "03:02.710",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 184.65,
+      "time_str": "03:04.650",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 186.42,
+      "time_str": "03:06.420",
+      "text": "天天把你挂嘴边儿",
+      "translation": null
+    },
+    {
+      "time": 189.34,
+      "time_str": "03:09.340",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 191.38,
+      "time_str": "03:11.380",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 193.14,
+      "time_str": "03:13.140",
+      "text": "抱起这幸福转啊转啊转",
+      "translation": null
+    },
+    {
+      "time": 196.05,
+      "time_str": "03:16.050",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 198.08,
+      "time_str": "03:18.080",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 199.84,
+      "time_str": "03:19.840",
+      "text": "天天把你挂嘴边儿",
+      "translation": null
+    },
+    {
+      "time": 202.8,
+      "time_str": "03:22.800",
+      "text": "我爱逗你 我逗你",
+      "translation": null
+    },
+    {
+      "time": 204.8,
+      "time_str": "03:24.800",
+      "text": "我就爱逗你玩儿",
+      "translation": null
+    },
+    {
+      "time": 206.57,
+      "time_str": "03:26.570",
+      "text": "抱起这幸福转啊转啊转",
+      "translation": null
+    },
+    {
+      "time": 209.51,
+      "time_str": "03:29.510",
+      "text": "亲爱的 啵一个",
+      "translation": null
+    },
+    {
+      "time": 210.81,
+      "time_str": "03:30.810",
+      "text": "啵一个 啵一个 Mm Mm",
+      "translation": null
+    },
+    {
+      "time": 213.32,
+      "time_str": "03:33.320",
+      "text": "啵一个 啵一个 Mm Mm",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "啵一个 - 花儿乐队.lrc"
+}

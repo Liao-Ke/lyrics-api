@@ -1,0 +1,352 @@
+{
+  "title": "有一种爱叫做放手",
+  "title_raw": "有一种爱叫做放手",
+  "version": null,
+  "artist": "阿木",
+  "group_key": "有一种爱叫做放手|阿木",
+  "writers": {
+    "lyricist": "张嘉兴",
+    "composer": "黄友祯",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.92,
+      "time_str": "00:14.920",
+      "text": "如果两个人的天堂",
+      "translation": null
+    },
+    {
+      "time": 17.73,
+      "time_str": "00:17.730",
+      "text": "像是温馨的墙",
+      "translation": null
+    },
+    {
+      "time": 19.52,
+      "time_str": "00:19.520",
+      "text": "囚禁你的梦想",
+      "translation": null
+    },
+    {
+      "time": 21.83,
+      "time_str": "00:21.830",
+      "text": "幸福是否像是一扇铁窗",
+      "translation": null
+    },
+    {
+      "time": 25.46,
+      "time_str": "00:25.460",
+      "text": "候鸟失去了南方",
+      "translation": null
+    },
+    {
+      "time": 29.57,
+      "time_str": "00:29.570",
+      "text": "如果你对天空向往",
+      "translation": null
+    },
+    {
+      "time": 32.469,
+      "time_str": "00:32.469",
+      "text": "渴望一双翅膀",
+      "translation": null
+    },
+    {
+      "time": 35.2,
+      "time_str": "00:35.200",
+      "text": "放手让你飞翔",
+      "translation": null
+    },
+    {
+      "time": 36.639,
+      "time_str": "00:36.639",
+      "text": "你的羽翼不该伴随玫瑰",
+      "translation": null
+    },
+    {
+      "time": 40.219,
+      "time_str": "00:40.219",
+      "text": "听从凋谢的时光",
+      "translation": null
+    },
+    {
+      "time": 43.489,
+      "time_str": "00:43.489",
+      "text": "浪漫如果变成了牵绊",
+      "translation": null
+    },
+    {
+      "time": 47.149,
+      "time_str": "00:47.149",
+      "text": "我愿为你选择回到孤单",
+      "translation": null
+    },
+    {
+      "time": 51.339,
+      "time_str": "00:51.339",
+      "text": "缠绵如果变成了锁链",
+      "translation": null
+    },
+    {
+      "time": 55.069,
+      "time_str": "00:55.069",
+      "text": "抛开诺言",
+      "translation": null
+    },
+    {
+      "time": 58.759,
+      "time_str": "00:58.759",
+      "text": "有一种爱叫做放手",
+      "translation": null
+    },
+    {
+      "time": 62.299,
+      "time_str": "01:02.299",
+      "text": "为爱放弃天长地久",
+      "translation": null
+    },
+    {
+      "time": 66.469,
+      "time_str": "01:06.469",
+      "text": "我们相守若让你付出所有",
+      "translation": null
+    },
+    {
+      "time": 70.439,
+      "time_str": "01:10.439",
+      "text": "让真爱带我走",
+      "translation": null
+    },
+    {
+      "time": 73.559,
+      "time_str": "01:13.559",
+      "text": "有一种爱叫做放手",
+      "translation": null
+    },
+    {
+      "time": 77.069,
+      "time_str": "01:17.069",
+      "text": "为爱结束天长地久",
+      "translation": null
+    },
+    {
+      "time": 81.179,
+      "time_str": "01:21.179",
+      "text": "我的离去若让你拥有所有",
+      "translation": null
+    },
+    {
+      "time": 85.139,
+      "time_str": "01:25.139",
+      "text": "让真爱带我走 说分手",
+      "translation": null
+    },
+    {
+      "time": 126.64,
+      "time_str": "02:06.640",
+      "text": "如果两个人的天堂",
+      "translation": null
+    },
+    {
+      "time": 130.02,
+      "time_str": "02:10.020",
+      "text": "像是温馨的墙",
+      "translation": null
+    },
+    {
+      "time": 131.75,
+      "time_str": "02:11.750",
+      "text": "囚禁你的梦想",
+      "translation": null
+    },
+    {
+      "time": 133.59,
+      "time_str": "02:13.590",
+      "text": "幸福是否像是一扇铁窗",
+      "translation": null
+    },
+    {
+      "time": 137.8,
+      "time_str": "02:17.800",
+      "text": "候鸟失去了南方",
+      "translation": null
+    },
+    {
+      "time": 140.83,
+      "time_str": "02:20.830",
+      "text": "如果你对天空向往",
+      "translation": null
+    },
+    {
+      "time": 144.1,
+      "time_str": "02:24.100",
+      "text": "渴望一双翅膀",
+      "translation": null
+    },
+    {
+      "time": 145.93,
+      "time_str": "02:25.930",
+      "text": "放手让你飞翔",
+      "translation": null
+    },
+    {
+      "time": 148.41,
+      "time_str": "02:28.410",
+      "text": "你的羽翼不该伴随玫瑰",
+      "translation": null
+    },
+    {
+      "time": 152.03,
+      "time_str": "02:32.030",
+      "text": "听从凋谢的时光",
+      "translation": null
+    },
+    {
+      "time": 155.15,
+      "time_str": "02:35.150",
+      "text": "浪漫如果变成了牵绊",
+      "translation": null
+    },
+    {
+      "time": 158.94,
+      "time_str": "02:38.940",
+      "text": "我愿为你选择回到孤单",
+      "translation": null
+    },
+    {
+      "time": 162.9,
+      "time_str": "02:42.900",
+      "text": "缠绵如果变成了锁链",
+      "translation": null
+    },
+    {
+      "time": 166.63,
+      "time_str": "02:46.630",
+      "text": "抛开诺言",
+      "translation": null
+    },
+    {
+      "time": 170.44,
+      "time_str": "02:50.440",
+      "text": "有一种爱叫做放手",
+      "translation": null
+    },
+    {
+      "time": 173.95,
+      "time_str": "02:53.950",
+      "text": "为爱放弃天长地久",
+      "translation": null
+    },
+    {
+      "time": 178.1,
+      "time_str": "02:58.100",
+      "text": "我们相守若让你付出所有",
+      "translation": null
+    },
+    {
+      "time": 182.1,
+      "time_str": "03:02.100",
+      "text": "让真爱带我走",
+      "translation": null
+    },
+    {
+      "time": 185.07,
+      "time_str": "03:05.070",
+      "text": "有一种爱叫做放手",
+      "translation": null
+    },
+    {
+      "time": 188.8,
+      "time_str": "03:08.800",
+      "text": "为爱结束天长地久",
+      "translation": null
+    },
+    {
+      "time": 192.84,
+      "time_str": "03:12.840",
+      "text": "我的离去若让你拥有所有",
+      "translation": null
+    },
+    {
+      "time": 196.88,
+      "time_str": "03:16.880",
+      "text": "让真爱带我走",
+      "translation": null
+    },
+    {
+      "time": 199.74,
+      "time_str": "03:19.740",
+      "text": "为了你 失去你",
+      "translation": null
+    },
+    {
+      "time": 203.62,
+      "time_str": "03:23.620",
+      "text": "狠心扮演伤害你",
+      "translation": null
+    },
+    {
+      "time": 207.35,
+      "time_str": "03:27.350",
+      "text": "为了你 离开你",
+      "translation": null
+    },
+    {
+      "time": 210.97,
+      "time_str": "03:30.970",
+      "text": "永远不分的离去",
+      "translation": null
+    },
+    {
+      "time": 216.34,
+      "time_str": "03:36.340",
+      "text": "有一种爱叫做放手",
+      "translation": null
+    },
+    {
+      "time": 220.19,
+      "time_str": "03:40.190",
+      "text": "为爱放弃天长地久",
+      "translation": null
+    },
+    {
+      "time": 224.23,
+      "time_str": "03:44.230",
+      "text": "我们相守若让你付出所有",
+      "translation": null
+    },
+    {
+      "time": 228.53,
+      "time_str": "03:48.530",
+      "text": "让真爱带我走",
+      "translation": null
+    },
+    {
+      "time": 231.58,
+      "time_str": "03:51.580",
+      "text": "有一种爱叫做放手",
+      "translation": null
+    },
+    {
+      "time": 235.54,
+      "time_str": "03:55.540",
+      "text": "为爱结束天长地久",
+      "translation": null
+    },
+    {
+      "time": 239.65,
+      "time_str": "03:59.650",
+      "text": "我的离去若让你拥有所有",
+      "translation": null
+    },
+    {
+      "time": 243.57,
+      "time_str": "04:03.570",
+      "text": "让真爱带我走 说分手",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "有一种爱叫做放手 - 阿木.lrc"
+}

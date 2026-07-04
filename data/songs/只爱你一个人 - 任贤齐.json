@@ -1,0 +1,244 @@
+{
+  "title": "只爱你一个人",
+  "title_raw": "只爱你一个人",
+  "version": null,
+  "artist": "任贤齐",
+  "group_key": "只爱你一个人|任贤齐",
+  "writers": {
+    "lyricist": "小虫",
+    "composer": "小虫",
+    "arranger": "钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 40.36,
+      "time_str": "00:40.360",
+      "text": "下雨的天空 突然雷声轰隆隆",
+      "translation": null
+    },
+    {
+      "time": 45.6,
+      "time_str": "00:45.600",
+      "text": "有谁知道我心痛",
+      "translation": null
+    },
+    {
+      "time": 50.92,
+      "time_str": "00:50.920",
+      "text": "爱情有独钟 偏偏它是痴人梦",
+      "translation": null
+    },
+    {
+      "time": 56.31,
+      "time_str": "00:56.310",
+      "text": "我实在不该对她心动",
+      "translation": null
+    },
+    {
+      "time": 61.6,
+      "time_str": "01:01.600",
+      "text": "爱上一个不该去爱的人",
+      "translation": null
+    },
+    {
+      "time": 66.659,
+      "time_str": "01:06.659",
+      "text": "我总是加倍包容牺牲",
+      "translation": null
+    },
+    {
+      "time": 72.18,
+      "time_str": "01:12.180",
+      "text": "明知不可能 还勉强自己要去撑",
+      "translation": null
+    },
+    {
+      "time": 77.37,
+      "time_str": "01:17.370",
+      "text": "越撑心越闷 越闷心越冷",
+      "translation": null
+    },
+    {
+      "time": 82.569,
+      "time_str": "01:22.569",
+      "text": "你知道我心里 只爱你一个人",
+      "translation": null
+    },
+    {
+      "time": 87.879,
+      "time_str": "01:27.879",
+      "text": "你的态度我不能平衡",
+      "translation": null
+    },
+    {
+      "time": 93.09,
+      "time_str": "01:33.090",
+      "text": "我给的爱太深 我忍不住想问",
+      "translation": null
+    },
+    {
+      "time": 98.379,
+      "time_str": "01:38.379",
+      "text": "我到底哪里比不上他",
+      "translation": null
+    },
+    {
+      "time": 106.56,
+      "time_str": "01:46.560",
+      "text": "灰暗的天空 不见昨日灯朦胧",
+      "translation": null
+    },
+    {
+      "time": 111.84,
+      "time_str": "01:51.840",
+      "text": "你到底在想什么",
+      "translation": null
+    },
+    {
+      "time": 116.959,
+      "time_str": "01:56.959",
+      "text": "爱依稀结束",
+      "translation": null
+    },
+    {
+      "time": 119.16,
+      "time_str": "01:59.160",
+      "text": "怎么说你都不清楚",
+      "translation": null
+    },
+    {
+      "time": 122.319,
+      "time_str": "02:02.319",
+      "text": "活得好像风中蜡烛",
+      "translation": null
+    },
+    {
+      "time": 127.53,
+      "time_str": "02:07.530",
+      "text": "爱上一个不该去爱的人",
+      "translation": null
+    },
+    {
+      "time": 132.669,
+      "time_str": "02:12.669",
+      "text": "我总是加倍包容牺牲",
+      "translation": null
+    },
+    {
+      "time": 138.069,
+      "time_str": "02:18.069",
+      "text": "明知不可能 还勉强自己要去撑",
+      "translation": null
+    },
+    {
+      "time": 143.24,
+      "time_str": "02:23.240",
+      "text": "越撑心越闷 越闷心越冷",
+      "translation": null
+    },
+    {
+      "time": 148.55,
+      "time_str": "02:28.550",
+      "text": "你知道我心里 只爱你一个人",
+      "translation": null
+    },
+    {
+      "time": 153.78,
+      "time_str": "02:33.780",
+      "text": "你的态度我不能平衡",
+      "translation": null
+    },
+    {
+      "time": 159.129,
+      "time_str": "02:39.129",
+      "text": "我给的爱太深 我忍不住想问",
+      "translation": null
+    },
+    {
+      "time": 164.349,
+      "time_str": "02:44.349",
+      "text": "我到底哪里比不上他",
+      "translation": null
+    },
+    {
+      "time": 169.65,
+      "time_str": "02:49.650",
+      "text": "你知道我心里 只爱你一个人",
+      "translation": null
+    },
+    {
+      "time": 174.9,
+      "time_str": "02:54.900",
+      "text": "你的态度我不能平衡",
+      "translation": null
+    },
+    {
+      "time": 180.18,
+      "time_str": "03:00.180",
+      "text": "如果你的爱 需要两个人来分",
+      "translation": null
+    },
+    {
+      "time": 185.479,
+      "time_str": "03:05.479",
+      "text": "我想我不愿意再等",
+      "translation": null
+    },
+    {
+      "time": 209.34,
+      "time_str": "03:29.340",
+      "text": "你知道我心里 只爱你一个人",
+      "translation": null
+    },
+    {
+      "time": 214.5,
+      "time_str": "03:34.500",
+      "text": "你的态度我不能平衡",
+      "translation": null
+    },
+    {
+      "time": 219.8,
+      "time_str": "03:39.800",
+      "text": "我给的爱太深 我忍不住想问",
+      "translation": null
+    },
+    {
+      "time": 225.02,
+      "time_str": "03:45.020",
+      "text": "我到底哪里比不上他",
+      "translation": null
+    },
+    {
+      "time": 230.41,
+      "time_str": "03:50.410",
+      "text": "你知道我心里 只爱你一个人",
+      "translation": null
+    },
+    {
+      "time": 235.65,
+      "time_str": "03:55.650",
+      "text": "你的态度我不能平衡",
+      "translation": null
+    },
+    {
+      "time": 240.9,
+      "time_str": "04:00.900",
+      "text": "如果你的爱 需要两个人来分",
+      "translation": null
+    },
+    {
+      "time": 246.18,
+      "time_str": "04:06.180",
+      "text": "我想我不愿意再等",
+      "translation": null
+    },
+    {
+      "time": 251.509,
+      "time_str": "04:11.509",
+      "text": "我想我不愿意再等",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "只爱你一个人 - 任贤齐.lrc"
+}

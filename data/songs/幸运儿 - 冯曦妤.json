@@ -1,0 +1,286 @@
+{
+  "title": "幸运儿",
+  "title_raw": "幸运儿",
+  "version": null,
+  "artist": "冯曦妤",
+  "group_key": "幸运儿|冯曦妤",
+  "writers": {
+    "lyricist": "冯曦妤",
+    "composer": "陈光荣",
+    "arranger": "陈光荣"
+  },
+  "lyrics": [
+    {
+      "time": 13.833,
+      "time_str": "00:13.833",
+      "text": "从未怕我会失礼",
+      "translation": null
+    },
+    {
+      "time": 17.0,
+      "time_str": "00:17.000",
+      "text": "为我劳苦都不计",
+      "translation": null
+    },
+    {
+      "time": 20.024,
+      "time_str": "00:20.024",
+      "text": "还在说我如上天",
+      "translation": null
+    },
+    {
+      "time": 23.237,
+      "time_str": "00:23.237",
+      "text": "赏给你的奖励",
+      "translation": null
+    },
+    {
+      "time": 26.107,
+      "time_str": "00:26.107",
+      "text": "其实我那算宝贵",
+      "translation": null
+    },
+    {
+      "time": 29.134,
+      "time_str": "00:29.134",
+      "text": "尚有你宠先珍贵",
+      "translation": null
+    },
+    {
+      "time": 32.4,
+      "time_str": "00:32.400",
+      "text": "眼看今天一切统统",
+      "translation": null
+    },
+    {
+      "time": 35.398,
+      "time_str": "00:35.398",
+      "text": "都靠你先可发挥",
+      "translation": null
+    },
+    {
+      "time": 38.428,
+      "time_str": "00:38.428",
+      "text": "就算翻天风雨盖过我",
+      "translation": null
+    },
+    {
+      "time": 42.191,
+      "time_str": "00:42.191",
+      "text": "攻击批判都很多",
+      "translation": null
+    },
+    {
+      "time": 45.188,
+      "time_str": "00:45.188",
+      "text": "不管怎样也有你陪着我",
+      "translation": null
+    },
+    {
+      "time": 48.089,
+      "time_str": "00:48.089",
+      "text": "再痛苦撑得过",
+      "translation": null
+    },
+    {
+      "time": 51.253,
+      "time_str": "00:51.253",
+      "text": "未见得位位都会爱我",
+      "translation": null
+    },
+    {
+      "time": 54.381,
+      "time_str": "00:54.381",
+      "text": "在这个世界 伪装的很多",
+      "translation": null
+    },
+    {
+      "time": 57.416,
+      "time_str": "00:57.416",
+      "text": "谁似你会讲真话帮我",
+      "translation": null
+    },
+    {
+      "time": 60.771,
+      "time_str": "01:00.771",
+      "text": "感激鞭策我",
+      "translation": null
+    },
+    {
+      "time": 71.212,
+      "time_str": "01:11.212",
+      "text": "来让我 送给你 这阙歌",
+      "translation": null
+    },
+    {
+      "time": 100.477,
+      "time_str": "01:40.477",
+      "text": "从未怕我会失礼",
+      "translation": null
+    },
+    {
+      "time": 103.453,
+      "time_str": "01:43.453",
+      "text": "为我劳苦都不计",
+      "translation": null
+    },
+    {
+      "time": 106.524,
+      "time_str": "01:46.524",
+      "text": "还在说我如上天",
+      "translation": null
+    },
+    {
+      "time": 108.926,
+      "time_str": "01:48.926",
+      "text": "赏给你的奖励",
+      "translation": null
+    },
+    {
+      "time": 112.638,
+      "time_str": "01:52.638",
+      "text": "其实我那算宝贵",
+      "translation": null
+    },
+    {
+      "time": 115.266,
+      "time_str": "01:55.266",
+      "text": "尚有你宠先珍贵",
+      "translation": null
+    },
+    {
+      "time": 118.474,
+      "time_str": "01:58.474",
+      "text": "眼看今天一切统统",
+      "translation": null
+    },
+    {
+      "time": 121.469,
+      "time_str": "02:01.469",
+      "text": "都靠你先可发挥",
+      "translation": null
+    },
+    {
+      "time": 124.519,
+      "time_str": "02:04.519",
+      "text": "就算翻天风雨盖过我",
+      "translation": null
+    },
+    {
+      "time": 128.402,
+      "time_str": "02:08.402",
+      "text": "攻击批判都很多",
+      "translation": null
+    },
+    {
+      "time": 131.455,
+      "time_str": "02:11.455",
+      "text": "不管怎样也有你陪着我",
+      "translation": null
+    },
+    {
+      "time": 134.442,
+      "time_str": "02:14.442",
+      "text": "再痛苦撑得过",
+      "translation": null
+    },
+    {
+      "time": 137.401,
+      "time_str": "02:17.401",
+      "text": "未见得位位都会爱我",
+      "translation": null
+    },
+    {
+      "time": 140.519,
+      "time_str": "02:20.519",
+      "text": "在这个世界 伪装的很多",
+      "translation": null
+    },
+    {
+      "time": 143.637,
+      "time_str": "02:23.637",
+      "text": "谁似你会讲真话帮我",
+      "translation": null
+    },
+    {
+      "time": 146.889,
+      "time_str": "02:26.889",
+      "text": "感激鞭策我",
+      "translation": null
+    },
+    {
+      "time": 150.574,
+      "time_str": "02:30.574",
+      "text": "就算出错 未放低我",
+      "translation": null
+    },
+    {
+      "time": 181.818,
+      "time_str": "03:01.818",
+      "text": "就算翻天风雨盖过我",
+      "translation": null
+    },
+    {
+      "time": 185.229,
+      "time_str": "03:05.229",
+      "text": "攻击批判都很多",
+      "translation": null
+    },
+    {
+      "time": 188.307,
+      "time_str": "03:08.307",
+      "text": "不管怎样也有你陪着我",
+      "translation": null
+    },
+    {
+      "time": 191.775,
+      "time_str": "03:11.775",
+      "text": "再痛苦撑得过",
+      "translation": null
+    },
+    {
+      "time": 194.375,
+      "time_str": "03:14.375",
+      "text": "未见得位位都会爱我",
+      "translation": null
+    },
+    {
+      "time": 197.467,
+      "time_str": "03:17.467",
+      "text": "在这个世界 伪装的很多",
+      "translation": null
+    },
+    {
+      "time": 200.528,
+      "time_str": "03:20.528",
+      "text": "谁似你会讲真话帮我",
+      "translation": null
+    },
+    {
+      "time": 203.818,
+      "time_str": "03:23.818",
+      "text": "感激鞭策我",
+      "translation": null
+    },
+    {
+      "time": 207.721,
+      "time_str": "03:27.721",
+      "text": "被你爱心栽种",
+      "translation": null
+    },
+    {
+      "time": 209.784,
+      "time_str": "03:29.784",
+      "text": "现今终於结果",
+      "translation": null
+    },
+    {
+      "time": 214.138,
+      "time_str": "03:34.138",
+      "text": "来让我 送给你 这阙歌",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "幸运儿 - 冯曦妤.lrc"
+}

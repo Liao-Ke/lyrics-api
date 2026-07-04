@@ -1,0 +1,208 @@
+{
+  "title": "如果有那么一个人",
+  "title_raw": "如果有那么一个人",
+  "version": null,
+  "artist": "Win",
+  "group_key": "如果有那么一个人|win",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.29,
+      "time_str": "00:19.290",
+      "text": "我不一定寂寞 不一定难过",
+      "translation": null
+    },
+    {
+      "time": 25.52,
+      "time_str": "00:25.520",
+      "text": "也不一定哭过",
+      "translation": null
+    },
+    {
+      "time": 28.7,
+      "time_str": "00:28.700",
+      "text": "你和他不一定快乐 不一定难得",
+      "translation": null
+    },
+    {
+      "time": 35.2,
+      "time_str": "00:35.200",
+      "text": "也不一定守侯",
+      "translation": null
+    },
+    {
+      "time": 38.2,
+      "time_str": "00:38.200",
+      "text": "许多人都扮得很高深莫测",
+      "translation": null
+    },
+    {
+      "time": 42.82,
+      "time_str": "00:42.820",
+      "text": "单纯的人会不会显得柔弱",
+      "translation": null
+    },
+    {
+      "time": 47.71,
+      "time_str": "00:47.710",
+      "text": "如果有那么一个人 是和我一样的",
+      "translation": null
+    },
+    {
+      "time": 52.44,
+      "time_str": "00:52.440",
+      "text": "怕单纯承受着自己的快乐",
+      "translation": null
+    },
+    {
+      "time": 57.42,
+      "time_str": "00:57.420",
+      "text": "如果有那么一个人 是和我一样的",
+      "translation": null
+    },
+    {
+      "time": 62.1,
+      "time_str": "01:02.100",
+      "text": "遇见他我会很快乐",
+      "translation": null
+    },
+    {
+      "time": 68.11,
+      "time_str": "01:08.110",
+      "text": "花不一定开花 不一定结果",
+      "translation": null
+    },
+    {
+      "time": 73.51,
+      "time_str": "01:13.510",
+      "text": "也不一定会笑",
+      "translation": null
+    },
+    {
+      "time": 76.76,
+      "time_str": "01:16.760",
+      "text": "抬起头看阴暗的天 看蔚蓝的天",
+      "translation": null
+    },
+    {
+      "time": 83.13,
+      "time_str": "01:23.130",
+      "text": "又或者是雨天",
+      "translation": null
+    },
+    {
+      "time": 86.15,
+      "time_str": "01:26.150",
+      "text": "许多人都扮得很高深莫测",
+      "translation": null
+    },
+    {
+      "time": 90.81,
+      "time_str": "01:30.810",
+      "text": "单纯的人会不会显得柔弱",
+      "translation": null
+    },
+    {
+      "time": 95.69,
+      "time_str": "01:35.690",
+      "text": "如果有那么一个人 是和我一样的",
+      "translation": null
+    },
+    {
+      "time": 100.41,
+      "time_str": "01:40.410",
+      "text": "他眼光很独特 敢于接受失落",
+      "translation": null
+    },
+    {
+      "time": 105.35,
+      "time_str": "01:45.350",
+      "text": "如果有那么一个人 是和我一样的",
+      "translation": null
+    },
+    {
+      "time": 110.14,
+      "time_str": "01:50.140",
+      "text": "遇见他真的很难得",
+      "translation": null
+    },
+    {
+      "time": 134.02,
+      "time_str": "02:14.020",
+      "text": "许多人都扮得很高深莫测",
+      "translation": null
+    },
+    {
+      "time": 138.83,
+      "time_str": "02:18.830",
+      "text": "单纯的人会不会显得柔弱",
+      "translation": null
+    },
+    {
+      "time": 143.8,
+      "time_str": "02:23.800",
+      "text": "如果有那么一个人 是和我一样的",
+      "translation": null
+    },
+    {
+      "time": 148.57,
+      "time_str": "02:28.570",
+      "text": "怕单纯承受着自己的快乐",
+      "translation": null
+    },
+    {
+      "time": 153.29,
+      "time_str": "02:33.290",
+      "text": "如果有那么一个人 是和我一样的",
+      "translation": null
+    },
+    {
+      "time": 158.2,
+      "time_str": "02:38.200",
+      "text": "遇见他我会很快乐",
+      "translation": null
+    },
+    {
+      "time": 163.16,
+      "time_str": "02:43.160",
+      "text": "如果有那么一个人 是和我一样的",
+      "translation": null
+    },
+    {
+      "time": 167.82,
+      "time_str": "02:47.820",
+      "text": "他眼光很独特 敢于接受失落",
+      "translation": null
+    },
+    {
+      "time": 172.77,
+      "time_str": "02:52.770",
+      "text": "如果有那么一个人 是和我一样的",
+      "translation": null
+    },
+    {
+      "time": 177.28,
+      "time_str": "02:57.280",
+      "text": "遇见他真的很难得",
+      "translation": null
+    },
+    {
+      "time": 182.07,
+      "time_str": "03:02.070",
+      "text": "如果有那么一个人 是和我一样的",
+      "translation": null
+    },
+    {
+      "time": 186.85,
+      "time_str": "03:06.850",
+      "text": "遇见他我会很快乐",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "如果有那么一个人 - Win.lrc"
+}

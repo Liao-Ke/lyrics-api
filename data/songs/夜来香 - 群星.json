@@ -1,0 +1,214 @@
+{
+  "title": "夜来香",
+  "title_raw": "夜来香",
+  "version": null,
+  "artist": "群星",
+  "group_key": "夜来香|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.79,
+      "time_str": "00:03.790",
+      "text": "dudududu",
+      "translation": null
+    },
+    {
+      "time": 24.242,
+      "time_str": "00:24.242",
+      "text": "那南风吹来清凉",
+      "translation": null
+    },
+    {
+      "time": 28.538,
+      "time_str": "00:28.538",
+      "text": "那夜莺啼声凄怆",
+      "translation": null
+    },
+    {
+      "time": 33.298,
+      "time_str": "00:33.298",
+      "text": "月下的花都入梦",
+      "translation": null
+    },
+    {
+      "time": 35.848,
+      "time_str": "00:35.848",
+      "text": "只有那夜来香",
+      "translation": null
+    },
+    {
+      "time": 39.65,
+      "time_str": "00:39.650",
+      "text": "吐露着芬芳",
+      "translation": null
+    },
+    {
+      "time": 44.452,
+      "time_str": "00:44.452",
+      "text": "我爱这夜色茫茫",
+      "translation": null
+    },
+    {
+      "time": 49.56,
+      "time_str": "00:49.560",
+      "text": "也爱这夜莺歌唱",
+      "translation": null
+    },
+    {
+      "time": 53.906,
+      "time_str": "00:53.906",
+      "text": "更爱那花般的梦",
+      "translation": null
+    },
+    {
+      "time": 56.457,
+      "time_str": "00:56.457",
+      "text": "拥抱着夜来香吻着夜来香",
+      "translation": null
+    },
+    {
+      "time": 66.36,
+      "time_str": "01:06.360",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 69.542,
+      "time_str": "01:09.542",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 75.9,
+      "time_str": "01:15.900",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 79.46,
+      "time_str": "01:19.460",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 83.8,
+      "time_str": "01:23.800",
+      "text": "啊啊我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 90.08,
+      "time_str": "01:30.080",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 115.614,
+      "time_str": "01:55.614",
+      "text": "那南风吹来清凉",
+      "translation": null
+    },
+    {
+      "time": 119.99,
+      "time_str": "01:59.990",
+      "text": "那夜莺啼声凄怆",
+      "translation": null
+    },
+    {
+      "time": 124.609,
+      "time_str": "02:04.609",
+      "text": "月下的花都入梦",
+      "translation": null
+    },
+    {
+      "time": 127.404,
+      "time_str": "02:07.404",
+      "text": "只有那夜来香",
+      "translation": null
+    },
+    {
+      "time": 131.165,
+      "time_str": "02:11.165",
+      "text": "吐露着芬芳",
+      "translation": null
+    },
+    {
+      "time": 136.62,
+      "time_str": "02:16.620",
+      "text": "我爱这夜色茫茫",
+      "translation": null
+    },
+    {
+      "time": 140.568,
+      "time_str": "02:20.568",
+      "text": "也爱这夜莺歌唱",
+      "translation": null
+    },
+    {
+      "time": 145.165,
+      "time_str": "02:25.165",
+      "text": "更爱那花般的梦",
+      "translation": null
+    },
+    {
+      "time": 147.918,
+      "time_str": "02:27.918",
+      "text": "拥抱着夜来香吻着夜来香",
+      "translation": null
+    },
+    {
+      "time": 157.37,
+      "time_str": "02:37.370",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 160.977,
+      "time_str": "02:40.977",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 166.596,
+      "time_str": "02:46.596",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 170.403,
+      "time_str": "02:50.403",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 175.355,
+      "time_str": "02:55.355",
+      "text": "啊啊我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 181.366,
+      "time_str": "03:01.366",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 187.176,
+      "time_str": "03:07.176",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 191.761,
+      "time_str": "03:11.761",
+      "text": "夜来香",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "夜来香 - 群星.lrc"
+}

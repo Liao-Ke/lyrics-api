@@ -1,0 +1,88 @@
+{
+  "title": "绣荷包",
+  "title_raw": "绣荷包",
+  "version": null,
+  "artist": "Hatsuro TAKANAMI",
+  "group_key": "绣荷包|hatsuro takanami",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.11,
+      "time_str": "00:00.110",
+      "text": "崔岩光-绣荷包",
+      "translation": null
+    },
+    {
+      "time": 28.79,
+      "time_str": "00:28.790",
+      "text": "小小荷包双丝双带飘，",
+      "translation": null
+    },
+    {
+      "time": 35.8,
+      "time_str": "00:35.800",
+      "text": "妹绣荷包嘛挂在郎腰",
+      "translation": null
+    },
+    {
+      "time": 48.5,
+      "time_str": "00:48.500",
+      "text": "小是小情哥，",
+      "translation": null
+    },
+    {
+      "time": 51.13,
+      "time_str": "00:51.130",
+      "text": "等是等等著，",
+      "translation": null
+    },
+    {
+      "time": 54.39,
+      "time_str": "00:54.390",
+      "text": "不等情郎嘛要等哪一个，",
+      "translation": null
+    },
+    {
+      "time": 60.88,
+      "time_str": "01:00.880",
+      "text": "不等情郎嘛要等哪一个",
+      "translation": null
+    },
+    {
+      "time": 74.19,
+      "time_str": "01:14.190",
+      "text": "荷包绣给啊小哥带，",
+      "translation": null
+    },
+    {
+      "time": 80.52,
+      "time_str": "01:20.520",
+      "text": "妹绣荷包嘛有来由，",
+      "translation": null
+    },
+    {
+      "time": 93.66,
+      "time_str": "01:33.660",
+      "text": "哥带荷包啊街前走，",
+      "translation": null
+    },
+    {
+      "time": 99.86,
+      "time_str": "01:39.860",
+      "text": "妹有心来嘛要哥求，",
+      "translation": null
+    },
+    {
+      "time": 106.7,
+      "time_str": "01:46.700",
+      "text": "妹有心来嘛要哥求",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "绣荷包 - Hatsuro TAKANAMI.lrc"
+}

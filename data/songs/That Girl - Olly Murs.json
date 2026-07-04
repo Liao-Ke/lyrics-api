@@ -1,0 +1,430 @@
+{
+  "title": "That Girl",
+  "title_raw": "That Girl",
+  "version": null,
+  "artist": "Olly Murs",
+  "group_key": "that girl|olly murs",
+  "writers": {
+    "lyricist": "Steve Robson/Claude Kelly/Olly Murs",
+    "composer": "Claude Kelly/Olly Murs/Steve Robson",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.3,
+      "time_str": "00:00.300",
+      "text": "There's a girl but I let her get away",
+      "translation": "曾经心爱的女孩 我却让她擦肩而过"
+    },
+    {
+      "time": 5.4,
+      "time_str": "00:05.400",
+      "text": "It's all my fault cause pride got in the way",
+      "translation": "自尊心作祟 一切都是我的错"
+    },
+    {
+      "time": 11.4,
+      "time_str": "00:11.400",
+      "text": "And I'd be lying if I said I was ok",
+      "translation": "若说无事 其实只是谎言未戳破"
+    },
+    {
+      "time": 16.0,
+      "time_str": "00:16.000",
+      "text": "About that girl the one I let get away",
+      "translation": "那个女孩 我们曾擦肩而过"
+    },
+    {
+      "time": 21.0,
+      "time_str": "00:21.000",
+      "text": "I keep saying no",
+      "translation": "我一直否认"
+    },
+    {
+      "time": 23.0,
+      "time_str": "00:23.000",
+      "text": "This can't be the way it was supposed to be",
+      "translation": "这不该是我们的结果"
+    },
+    {
+      "time": 26.0,
+      "time_str": "00:26.000",
+      "text": "I keep saying no",
+      "translation": "我一直否认"
+    },
+    {
+      "time": 29.0,
+      "time_str": "00:29.000",
+      "text": "There's gotta be a way to get you close to me",
+      "translation": "一定还有办法让我们重新来过"
+    },
+    {
+      "time": 31.0,
+      "time_str": "00:31.000",
+      "text": "Now I know you gotta",
+      "translation": "到现在我才明白"
+    },
+    {
+      "time": 33.49,
+      "time_str": "00:33.490",
+      "text": "Speak up if you want somebody",
+      "translation": "要对所爱之人大声诉说"
+    },
+    {
+      "time": 36.49,
+      "time_str": "00:36.490",
+      "text": "Can't let them get away, oh no",
+      "translation": "别让她们错过"
+    },
+    {
+      "time": 38.49,
+      "time_str": "00:38.490",
+      "text": "You don't wanna end up sorry",
+      "translation": "你不愿后悔无措"
+    },
+    {
+      "time": 41.49,
+      "time_str": "00:41.490",
+      "text": "The way that I'm feeling everyday",
+      "translation": "不要像我这样 终日在悔恨中度过"
+    },
+    {
+      "time": 43.49,
+      "time_str": "00:43.490",
+      "text": "(Don't you know)",
+      "translation": "（你是否知晓）"
+    },
+    {
+      "time": 44.0,
+      "time_str": "00:44.000",
+      "text": "No no no no",
+      "translation": "不要像我这样"
+    },
+    {
+      "time": 46.49,
+      "time_str": "00:46.490",
+      "text": "There's no home for the broken heart",
+      "translation": "破碎的心 无家可归"
+    },
+    {
+      "time": 50.0,
+      "time_str": "00:50.000",
+      "text": "No no no no",
+      "translation": "不要像我这样"
+    },
+    {
+      "time": 50.49,
+      "time_str": "00:50.490",
+      "text": "(Don't you know)",
+      "translation": "（你是否知晓）"
+    },
+    {
+      "time": 52.49,
+      "time_str": "00:52.490",
+      "text": "There's no home for the broken",
+      "translation": "破碎的心 无家可归"
+    },
+    {
+      "time": 53.49,
+      "time_str": "00:53.490",
+      "text": "There's a girl but I let her get away",
+      "translation": "曾经心爱的女孩 我却让她擦肩而过"
+    },
+    {
+      "time": 59.49,
+      "time_str": "00:59.490",
+      "text": "It's my fault cause I said I needed space",
+      "translation": "全都因为我说需要空间 都是我的错"
+    },
+    {
+      "time": 64.49,
+      "time_str": "01:04.490",
+      "text": "I've been torturing myself night and day",
+      "translation": "我不断地折磨着自己 从日升到日落"
+    },
+    {
+      "time": 70.49,
+      "time_str": "01:10.490",
+      "text": "About that girl, the one I let get away",
+      "translation": "那个女孩 我们曾擦肩而过"
+    },
+    {
+      "time": 75.49,
+      "time_str": "01:15.490",
+      "text": "I keep saying no",
+      "translation": "我一直否认"
+    },
+    {
+      "time": 77.49,
+      "time_str": "01:17.490",
+      "text": "This can't be the way it was supposed to be",
+      "translation": "这不该是我们的结果"
+    },
+    {
+      "time": 80.49,
+      "time_str": "01:20.490",
+      "text": "I keep saying no",
+      "translation": "我一直否认"
+    },
+    {
+      "time": 83.49,
+      "time_str": "01:23.490",
+      "text": "There's gotta be a way to get you",
+      "translation": "应该还有办法"
+    },
+    {
+      "time": 84.49,
+      "time_str": "01:24.490",
+      "text": "Gotta be a way to get you close to me",
+      "translation": "一定还有办法"
+    },
+    {
+      "time": 86.49,
+      "time_str": "01:26.490",
+      "text": "You gotta",
+      "translation": null
+    },
+    {
+      "time": 87.49,
+      "time_str": "01:27.490",
+      "text": "Speak up if you want somebody",
+      "translation": "要对所爱之人大声诉说"
+    },
+    {
+      "time": 90.49,
+      "time_str": "01:30.490",
+      "text": "Can't let them get away, oh no",
+      "translation": "别让他错过"
+    },
+    {
+      "time": 92.49,
+      "time_str": "01:32.490",
+      "text": "You don't wanna end up sorry",
+      "translation": "你不愿后悔无措"
+    },
+    {
+      "time": 95.49,
+      "time_str": "01:35.490",
+      "text": "The way that I'm feeling everyday",
+      "translation": "不要像我 终日在悔恨中度过"
+    },
+    {
+      "time": 97.49,
+      "time_str": "01:37.490",
+      "text": "(Don't you know)",
+      "translation": "（你是否知晓）"
+    },
+    {
+      "time": 98.49,
+      "time_str": "01:38.490",
+      "text": "No no no no",
+      "translation": "不要像我这样"
+    },
+    {
+      "time": 100.49,
+      "time_str": "01:40.490",
+      "text": "There's no home for the broken heart",
+      "translation": "破碎的心 无家可归"
+    },
+    {
+      "time": 102.49,
+      "time_str": "01:42.490",
+      "text": "(Don't you know)",
+      "translation": "（你是否知晓）"
+    },
+    {
+      "time": 103.49,
+      "time_str": "01:43.490",
+      "text": "No no no no",
+      "translation": "不要像我这样"
+    },
+    {
+      "time": 105.49,
+      "time_str": "01:45.490",
+      "text": "There's no home for the broken",
+      "translation": "破碎的心 无家可归"
+    },
+    {
+      "time": 108.49,
+      "time_str": "01:48.490",
+      "text": "No home for me",
+      "translation": "无处可去"
+    },
+    {
+      "time": 111.49,
+      "time_str": "01:51.490",
+      "text": "No home cause I'm broken",
+      "translation": "无家可归 失魂落魄"
+    },
+    {
+      "time": 113.49,
+      "time_str": "01:53.490",
+      "text": "No room to breathe",
+      "translation": "无法呼吸"
+    },
+    {
+      "time": 115.49,
+      "time_str": "01:55.490",
+      "text": "And I got no one to bla-ame",
+      "translation": "一切只能怪我自己"
+    },
+    {
+      "time": 119.49,
+      "time_str": "01:59.490",
+      "text": "No home for me",
+      "translation": "无处可去"
+    },
+    {
+      "time": 122.49,
+      "time_str": "02:02.490",
+      "text": "No home cause I'm broken",
+      "translation": "无家可归 失魂落魄"
+    },
+    {
+      "time": 123.49,
+      "time_str": "02:03.490",
+      "text": "About that girl",
+      "translation": "关于那个女孩"
+    },
+    {
+      "time": 125.49,
+      "time_str": "02:05.490",
+      "text": "The one I let get away",
+      "translation": "我们曾擦肩而过"
+    },
+    {
+      "time": 129.49,
+      "time_str": "02:09.490",
+      "text": "So you better",
+      "translation": "你最好"
+    },
+    {
+      "time": 130.49,
+      "time_str": "02:10.490",
+      "text": "Speak up if you want somebody",
+      "translation": "对所爱之人大声诉说"
+    },
+    {
+      "time": 133.49,
+      "time_str": "02:13.490",
+      "text": "You can't let him get away oh no",
+      "translation": "别让他错过"
+    },
+    {
+      "time": 136.49,
+      "time_str": "02:16.490",
+      "text": "You don't wanna end up sorry",
+      "translation": "你不愿后悔无措"
+    },
+    {
+      "time": 138.49,
+      "time_str": "02:18.490",
+      "text": "The way that I'm feeling everyday",
+      "translation": "不要像我 终日在悔恨中度过"
+    },
+    {
+      "time": 140.49,
+      "time_str": "02:20.490",
+      "text": "(Don't you know)",
+      "translation": "（你是否知晓）"
+    },
+    {
+      "time": 141.49,
+      "time_str": "02:21.490",
+      "text": "No no no no",
+      "translation": "不要像我这样"
+    },
+    {
+      "time": 143.49,
+      "time_str": "02:23.490",
+      "text": "There's no home for the broken heart",
+      "translation": "破碎的心 无家可归"
+    },
+    {
+      "time": 146.0,
+      "time_str": "02:26.000",
+      "text": "(Don't you know)",
+      "translation": "（你是否知晓）"
+    },
+    {
+      "time": 146.49,
+      "time_str": "02:26.490",
+      "text": "No no no no",
+      "translation": "不要像我这样"
+    },
+    {
+      "time": 149.0,
+      "time_str": "02:29.000",
+      "text": "There's no home for the broken",
+      "translation": "破碎的心 无家可归"
+    },
+    {
+      "time": 151.49,
+      "time_str": "02:31.490",
+      "text": "Oh",
+      "translation": "哦"
+    },
+    {
+      "time": 152.49,
+      "time_str": "02:32.490",
+      "text": "You don't wanna lose at love",
+      "translation": "不想失去所爱之人"
+    },
+    {
+      "time": 154.49,
+      "time_str": "02:34.490",
+      "text": "It's only gonna hurt too much",
+      "translation": "唯有伤痛愈来愈深"
+    },
+    {
+      "time": 157.0,
+      "time_str": "02:37.000",
+      "text": "I'm telling you",
+      "translation": "告诉你"
+    },
+    {
+      "time": 157.49,
+      "time_str": "02:37.490",
+      "text": "You don't wanna lose that love",
+      "translation": "不想失去所爱之人"
+    },
+    {
+      "time": 160.0,
+      "time_str": "02:40.000",
+      "text": "It's only gonna hurt too much",
+      "translation": "唯有伤痛愈来愈深"
+    },
+    {
+      "time": 162.49,
+      "time_str": "02:42.490",
+      "text": "I'm telling you",
+      "translation": "告诉你"
+    },
+    {
+      "time": 163.49,
+      "time_str": "02:43.490",
+      "text": "You don't wanna lose that love",
+      "translation": "不想失去所爱之人"
+    },
+    {
+      "time": 165.49,
+      "time_str": "02:45.490",
+      "text": "Cause There's no home for the broken",
+      "translation": "心碎之人 无家可归"
+    },
+    {
+      "time": 167.49,
+      "time_str": "02:47.490",
+      "text": "About that girl",
+      "translation": "关于那个女孩"
+    },
+    {
+      "time": 169.49,
+      "time_str": "02:49.490",
+      "text": "The one I let get away",
+      "translation": "我们曾擦肩而过"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "That Girl - Olly Murs.lrc"
+}

@@ -1,0 +1,196 @@
+{
+  "title": "幸福千万年",
+  "title_raw": "幸福千万年",
+  "version": null,
+  "artist": "陈浩民,范冰冰",
+  "group_key": "幸福千万年|陈浩民,范冰冰",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.69,
+      "time_str": "00:14.690",
+      "text": "男：爱上了你 不用再怀疑",
+      "translation": null
+    },
+    {
+      "time": 20.36,
+      "time_str": "00:20.360",
+      "text": "女：在这辈子 最爱就是你",
+      "translation": null
+    },
+    {
+      "time": 26.2,
+      "time_str": "00:26.200",
+      "text": "男：若离开舍不得你",
+      "translation": null
+    },
+    {
+      "time": 28.75,
+      "time_str": "00:28.750",
+      "text": "女： 再难熬也撑下去",
+      "translation": null
+    },
+    {
+      "time": 31.74,
+      "time_str": "00:31.740",
+      "text": "合：因为你等待才有意义",
+      "translation": null
+    },
+    {
+      "time": 39.15,
+      "time_str": "00:39.150",
+      "text": "男：为了你 我愿意 穿过风雨回来照顾你",
+      "translation": null
+    },
+    {
+      "time": 44.93,
+      "time_str": "00:44.930",
+      "text": "女：为你在流星雨的夜晚祈祷一千遍",
+      "translation": null
+    },
+    {
+      "time": 51.86,
+      "time_str": "00:51.860",
+      "text": "合：遥远距离当作是证明",
+      "translation": null
+    },
+    {
+      "time": 57.77,
+      "time_str": "00:57.770",
+      "text": "女：俩颗心 心灵会有感应",
+      "translation": null
+    },
+    {
+      "time": 62.09,
+      "time_str": "01:02.090",
+      "text": "男：我愿意 像星星 为你默默守候千年",
+      "translation": null
+    },
+    {
+      "time": 67.71,
+      "time_str": "01:07.710",
+      "text": "女：我相信这种幸福能够蔓延到永远",
+      "translation": null
+    },
+    {
+      "time": 74.47,
+      "time_str": "01:14.470",
+      "text": "男：重聚那天不会太遥远",
+      "translation": null
+    },
+    {
+      "time": 80.3,
+      "time_str": "01:20.300",
+      "text": "女：爱你到海枯",
+      "translation": null
+    },
+    {
+      "time": 83.33,
+      "time_str": "01:23.330",
+      "text": "男：与你渡桑田",
+      "translation": null
+    },
+    {
+      "time": 86.27,
+      "time_str": "01:26.270",
+      "text": "合：你是我今生唯一的记忆",
+      "translation": null
+    },
+    {
+      "time": 103.09,
+      "time_str": "01:43.090",
+      "text": "男：爱上了你 不用再怀疑",
+      "translation": null
+    },
+    {
+      "time": 108.72,
+      "time_str": "01:48.720",
+      "text": "女：在这辈子 最爱就是你",
+      "translation": null
+    },
+    {
+      "time": 114.44,
+      "time_str": "01:54.440",
+      "text": "男：若离开舍不得你",
+      "translation": null
+    },
+    {
+      "time": 117.32,
+      "time_str": "01:57.320",
+      "text": "女： 再难熬也撑下去",
+      "translation": null
+    },
+    {
+      "time": 120.11,
+      "time_str": "02:00.110",
+      "text": "合：因为你等待才有意义",
+      "translation": null
+    },
+    {
+      "time": 127.88,
+      "time_str": "02:07.880",
+      "text": "男：为了你 我愿意 穿过风雨回来照顾你",
+      "translation": null
+    },
+    {
+      "time": 133.27,
+      "time_str": "02:13.270",
+      "text": "女：为你在流星雨的夜晚祈祷一千遍",
+      "translation": null
+    },
+    {
+      "time": 140.0,
+      "time_str": "02:20.000",
+      "text": "合：遥远距离当作是证明",
+      "translation": null
+    },
+    {
+      "time": 145.86,
+      "time_str": "02:25.860",
+      "text": "女：俩颗心 心灵会有感应",
+      "translation": null
+    },
+    {
+      "time": 150.37,
+      "time_str": "02:30.370",
+      "text": "男：我愿意 像星星 为你默默守候千年",
+      "translation": null
+    },
+    {
+      "time": 155.98,
+      "time_str": "02:35.980",
+      "text": "女：我相信这种幸福能够蔓延到永远",
+      "translation": null
+    },
+    {
+      "time": 162.73,
+      "time_str": "02:42.730",
+      "text": "男：重聚那天不会太遥远",
+      "translation": null
+    },
+    {
+      "time": 168.57,
+      "time_str": "02:48.570",
+      "text": "女：爱你到海枯",
+      "translation": null
+    },
+    {
+      "time": 171.48,
+      "time_str": "02:51.480",
+      "text": "男：与你渡桑田",
+      "translation": null
+    },
+    {
+      "time": 174.35,
+      "time_str": "02:54.350",
+      "text": "合：你是我今生唯一的记忆",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "幸福千万年 - 陈浩民,范冰冰.lrc"
+}

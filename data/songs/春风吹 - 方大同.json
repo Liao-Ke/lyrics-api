@@ -1,0 +1,322 @@
+{
+  "title": "春风吹",
+  "title_raw": "春风吹",
+  "version": null,
+  "artist": "方大同",
+  "group_key": "春风吹|方大同",
+  "writers": {
+    "lyricist": "周耀辉",
+    "composer": "方大同",
+    "arranger": "方大同"
+  },
+  "lyrics": [
+    {
+      "time": 1.22,
+      "time_str": "00:01.220",
+      "text": "吹红了桃花吹绿了柳树",
+      "translation": null
+    },
+    {
+      "time": 4.69,
+      "time_str": "00:04.690",
+      "text": "你在路上总会安慰谁",
+      "translation": null
+    },
+    {
+      "time": 8.23,
+      "time_str": "00:08.230",
+      "text": "吹醒了青蛙吹来了燕子",
+      "translation": null
+    },
+    {
+      "time": 11.78,
+      "time_str": "00:11.780",
+      "text": "我在城里刚好缺了谁",
+      "translation": null
+    },
+    {
+      "time": 15.14,
+      "time_str": "00:15.140",
+      "text": "你纵然带来地下的玫瑰",
+      "translation": null
+    },
+    {
+      "time": 19.73,
+      "time_str": "00:19.730",
+      "text": "能否收回地上的滋味",
+      "translation": null
+    },
+    {
+      "time": 24.08,
+      "time_str": "00:24.080",
+      "text": "有人唱胡不归",
+      "translation": null
+    },
+    {
+      "time": 29.67,
+      "time_str": "00:29.670",
+      "text": "春风一吹想起谁",
+      "translation": null
+    },
+    {
+      "time": 33.65,
+      "time_str": "00:33.650",
+      "text": "有所谓无所谓",
+      "translation": null
+    },
+    {
+      "time": 35.2,
+      "time_str": "00:35.200",
+      "text": "只要不后悔",
+      "translation": null
+    },
+    {
+      "time": 37.9,
+      "time_str": "00:37.900",
+      "text": "春风一吹忘了谁",
+      "translation": null
+    },
+    {
+      "time": 40.48,
+      "time_str": "00:40.480",
+      "text": "我上一次流泪又几岁",
+      "translation": null
+    },
+    {
+      "time": 44.26,
+      "time_str": "00:44.260",
+      "text": "你会退我想追",
+      "translation": null
+    },
+    {
+      "time": 45.78,
+      "time_str": "00:45.780",
+      "text": "会不会对不对",
+      "translation": null
+    },
+    {
+      "time": 47.85,
+      "time_str": "00:47.850",
+      "text": "也难怪我有点累",
+      "translation": null
+    },
+    {
+      "time": 51.17,
+      "time_str": "00:51.170",
+      "text": "洞里蛇冬日睡",
+      "translation": null
+    },
+    {
+      "time": 52.87,
+      "time_str": "00:52.870",
+      "text": "原上草春风吹",
+      "translation": null
+    },
+    {
+      "time": 55.04,
+      "time_str": "00:55.040",
+      "text": "到夏天我变了谁",
+      "translation": null
+    },
+    {
+      "time": 60.47,
+      "time_str": "01:00.470",
+      "text": "吹过玉门关吹过南泥湾",
+      "translation": null
+    },
+    {
+      "time": 64.53,
+      "time_str": "01:04.530",
+      "text": "你在北方注定抛弃谁",
+      "translation": null
+    },
+    {
+      "time": 68.12,
+      "time_str": "01:08.120",
+      "text": "吹皱了河水吹散了云堆",
+      "translation": null
+    },
+    {
+      "time": 71.57,
+      "time_str": "01:11.570",
+      "text": "我在世界不巧背着谁",
+      "translation": null
+    },
+    {
+      "time": 75.07,
+      "time_str": "01:15.070",
+      "text": "你可以怂恿三月的闷雷",
+      "translation": null
+    },
+    {
+      "time": 79.71,
+      "time_str": "01:19.710",
+      "text": "能否保证十年的约会",
+      "translation": null
+    },
+    {
+      "time": 83.68,
+      "time_str": "01:23.680",
+      "text": "有人放生乌龟",
+      "translation": null
+    },
+    {
+      "time": 89.38,
+      "time_str": "01:29.380",
+      "text": "春风一吹想起谁",
+      "translation": null
+    },
+    {
+      "time": 92.85,
+      "time_str": "01:32.850",
+      "text": "有所谓无所谓",
+      "translation": null
+    },
+    {
+      "time": 93.88,
+      "time_str": "01:33.880",
+      "text": "只要不后悔",
+      "translation": null
+    },
+    {
+      "time": 96.07,
+      "time_str": "01:36.070",
+      "text": "春风一吹忘了谁",
+      "translation": null
+    },
+    {
+      "time": 99.44,
+      "time_str": "01:39.440",
+      "text": "我上一次流泪又几岁",
+      "translation": null
+    },
+    {
+      "time": 103.1,
+      "time_str": "01:43.100",
+      "text": "你会退我想追",
+      "translation": null
+    },
+    {
+      "time": 104.51,
+      "time_str": "01:44.510",
+      "text": "会不会对不对",
+      "translation": null
+    },
+    {
+      "time": 106.84,
+      "time_str": "01:46.840",
+      "text": "也难怪我有点累",
+      "translation": null
+    },
+    {
+      "time": 109.76,
+      "time_str": "01:49.760",
+      "text": "洞里蛇冬日睡",
+      "translation": null
+    },
+    {
+      "time": 111.879,
+      "time_str": "01:51.879",
+      "text": "原上草春风吹",
+      "translation": null
+    },
+    {
+      "time": 114.0,
+      "time_str": "01:54.000",
+      "text": "到夏天我变了谁",
+      "translation": null
+    },
+    {
+      "time": 131.57,
+      "time_str": "02:11.570",
+      "text": "你可以怂恿三月的闷雷",
+      "translation": null
+    },
+    {
+      "time": 137.05,
+      "time_str": "02:17.050",
+      "text": "能否保证十年的约会",
+      "translation": null
+    },
+    {
+      "time": 140.59,
+      "time_str": "02:20.590",
+      "text": "有人放生乌龟",
+      "translation": null
+    },
+    {
+      "time": 146.4,
+      "time_str": "02:26.400",
+      "text": "春风一吹想起谁",
+      "translation": null
+    },
+    {
+      "time": 149.3,
+      "time_str": "02:29.300",
+      "text": "有所谓无所谓",
+      "translation": null
+    },
+    {
+      "time": 151.04,
+      "time_str": "02:31.040",
+      "text": "只要不后悔",
+      "translation": null
+    },
+    {
+      "time": 153.0,
+      "time_str": "02:33.000",
+      "text": "春风一吹忘了谁",
+      "translation": null
+    },
+    {
+      "time": 156.68,
+      "time_str": "02:36.680",
+      "text": "我上一次流泪又几岁",
+      "translation": null
+    },
+    {
+      "time": 160.35,
+      "time_str": "02:40.350",
+      "text": "你会退我想追",
+      "translation": null
+    },
+    {
+      "time": 161.72,
+      "time_str": "02:41.720",
+      "text": "会不会对不对",
+      "translation": null
+    },
+    {
+      "time": 163.75,
+      "time_str": "02:43.750",
+      "text": "也难怪我有点累",
+      "translation": null
+    },
+    {
+      "time": 167.05,
+      "time_str": "02:47.050",
+      "text": "洞里蛇冬日睡",
+      "translation": null
+    },
+    {
+      "time": 168.82,
+      "time_str": "02:48.820",
+      "text": "原上草春风吹",
+      "translation": null
+    },
+    {
+      "time": 174.5,
+      "time_str": "02:54.500",
+      "text": "到夏天我变了谁",
+      "translation": null
+    },
+    {
+      "time": 191.6,
+      "time_str": "03:11.600",
+      "text": "春风吹",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "春风吹 - 方大同.lrc"
+}

@@ -1,0 +1,424 @@
+{
+  "title": "无话可说",
+  "title_raw": "无话可说",
+  "version": null,
+  "artist": "南风",
+  "group_key": "无话可说|南风",
+  "writers": {
+    "lyricist": "诗藏旧梦深",
+    "composer": "诗藏旧梦深",
+    "arranger": "诗藏旧梦深"
+  },
+  "lyrics": [
+    {
+      "time": 24.0,
+      "time_str": "00:24.000",
+      "text": "要我对你说",
+      "translation": null
+    },
+    {
+      "time": 26.16,
+      "time_str": "00:26.160",
+      "text": "不知说什么",
+      "translation": null
+    },
+    {
+      "time": 28.26,
+      "time_str": "00:28.260",
+      "text": "难道你对我无话可说",
+      "translation": null
+    },
+    {
+      "time": 32.4,
+      "time_str": "00:32.400",
+      "text": "伤心的太多",
+      "translation": null
+    },
+    {
+      "time": 34.5,
+      "time_str": "00:34.500",
+      "text": "回忆是折磨",
+      "translation": null
+    },
+    {
+      "time": 36.66,
+      "time_str": "00:36.660",
+      "text": "早应该放你一人生活",
+      "translation": null
+    },
+    {
+      "time": 40.89,
+      "time_str": "00:40.890",
+      "text": "电话开始躲",
+      "translation": null
+    },
+    {
+      "time": 42.72,
+      "time_str": "00:42.720",
+      "text": "现实才好过",
+      "translation": null
+    },
+    {
+      "time": 44.79,
+      "time_str": "00:44.790",
+      "text": "话题在没有从前快乐",
+      "translation": null
+    },
+    {
+      "time": 49.14,
+      "time_str": "00:49.140",
+      "text": "谁在冷漠谁能懂得",
+      "translation": null
+    },
+    {
+      "time": 53.52,
+      "time_str": "00:53.520",
+      "text": "爱情却总是分分合合",
+      "translation": null
+    },
+    {
+      "time": 57.66,
+      "time_str": "00:57.660",
+      "text": "退缩的我",
+      "translation": null
+    },
+    {
+      "time": 59.64,
+      "time_str": "00:59.640",
+      "text": "手足无措",
+      "translation": null
+    },
+    {
+      "time": 62.04,
+      "time_str": "01:02.040",
+      "text": "该怎么打破这困惑",
+      "translation": null
+    },
+    {
+      "time": 66.15,
+      "time_str": "01:06.150",
+      "text": "我想对你在亲口说",
+      "translation": null
+    },
+    {
+      "time": 69.99,
+      "time_str": "01:09.990",
+      "text": "说没有你我怎么过",
+      "translation": null
+    },
+    {
+      "time": 74.49,
+      "time_str": "01:14.490",
+      "text": "沉默的我",
+      "translation": null
+    },
+    {
+      "time": 76.71,
+      "time_str": "01:16.710",
+      "text": "比你难过",
+      "translation": null
+    },
+    {
+      "time": 78.81,
+      "time_str": "01:18.810",
+      "text": "人总会有失魂落魄",
+      "translation": null
+    },
+    {
+      "time": 82.83,
+      "time_str": "01:22.830",
+      "text": "想亲口对你说复合",
+      "translation": null
+    },
+    {
+      "time": 87.12,
+      "time_str": "01:27.120",
+      "text": "却又不知道怎么开口",
+      "translation": null
+    },
+    {
+      "time": 91.41,
+      "time_str": "01:31.410",
+      "text": "要强的我",
+      "translation": null
+    },
+    {
+      "time": 108.24,
+      "time_str": "01:48.240",
+      "text": "要我对你说",
+      "translation": null
+    },
+    {
+      "time": 110.37,
+      "time_str": "01:50.370",
+      "text": "不知说什么",
+      "translation": null
+    },
+    {
+      "time": 112.47,
+      "time_str": "01:52.470",
+      "text": "难道你对我无话可说",
+      "translation": null
+    },
+    {
+      "time": 116.61,
+      "time_str": "01:56.610",
+      "text": "伤心的太多",
+      "translation": null
+    },
+    {
+      "time": 118.71,
+      "time_str": "01:58.710",
+      "text": "回忆是折磨",
+      "translation": null
+    },
+    {
+      "time": 120.87,
+      "time_str": "02:00.870",
+      "text": "早应该放你一人生活",
+      "translation": null
+    },
+    {
+      "time": 125.1,
+      "time_str": "02:05.100",
+      "text": "电话开始躲",
+      "translation": null
+    },
+    {
+      "time": 126.93,
+      "time_str": "02:06.930",
+      "text": "现实才好过",
+      "translation": null
+    },
+    {
+      "time": 128.97,
+      "time_str": "02:08.970",
+      "text": "话题在没有从前快乐",
+      "translation": null
+    },
+    {
+      "time": 133.35,
+      "time_str": "02:13.350",
+      "text": "谁在冷漠谁能懂得",
+      "translation": null
+    },
+    {
+      "time": 137.73,
+      "time_str": "02:17.730",
+      "text": "爱情却总是分分合合",
+      "translation": null
+    },
+    {
+      "time": 141.93,
+      "time_str": "02:21.930",
+      "text": "退缩的我",
+      "translation": null
+    },
+    {
+      "time": 143.85,
+      "time_str": "02:23.850",
+      "text": "手足无措",
+      "translation": null
+    },
+    {
+      "time": 146.22,
+      "time_str": "02:26.220",
+      "text": "该怎么打破这困惑",
+      "translation": null
+    },
+    {
+      "time": 150.36,
+      "time_str": "02:30.360",
+      "text": "我想对你在亲口说",
+      "translation": null
+    },
+    {
+      "time": 154.2,
+      "time_str": "02:34.200",
+      "text": "说没有你我怎么过",
+      "translation": null
+    },
+    {
+      "time": 158.43,
+      "time_str": "02:38.430",
+      "text": "沉默的我",
+      "translation": null
+    },
+    {
+      "time": 160.92,
+      "time_str": "02:40.920",
+      "text": "比你难过",
+      "translation": null
+    },
+    {
+      "time": 163.02,
+      "time_str": "02:43.020",
+      "text": "人总会有失魂落魄",
+      "translation": null
+    },
+    {
+      "time": 167.04,
+      "time_str": "02:47.040",
+      "text": "想亲口对你说复合",
+      "translation": null
+    },
+    {
+      "time": 171.33,
+      "time_str": "02:51.330",
+      "text": "却又不知道怎么开口",
+      "translation": null
+    },
+    {
+      "time": 175.65,
+      "time_str": "02:55.650",
+      "text": "要强的我",
+      "translation": null
+    },
+    {
+      "time": 179.34,
+      "time_str": "02:59.340",
+      "text": "我们最终",
+      "translation": null
+    },
+    {
+      "time": 180.93,
+      "time_str": "03:00.930",
+      "text": "变成了",
+      "translation": null
+    },
+    {
+      "time": 182.01,
+      "time_str": "03:02.010",
+      "text": "陌生人",
+      "translation": null
+    },
+    {
+      "time": 183.03,
+      "time_str": "03:03.030",
+      "text": "无话可说",
+      "translation": null
+    },
+    {
+      "time": 184.29,
+      "time_str": "03:04.290",
+      "text": "曾经爱过",
+      "translation": null
+    },
+    {
+      "time": 185.43,
+      "time_str": "03:05.430",
+      "text": "现在换谁都心如刀割",
+      "translation": null
+    },
+    {
+      "time": 188.55,
+      "time_str": "03:08.550",
+      "text": "能不能就停步网络",
+      "translation": null
+    },
+    {
+      "time": 192.42,
+      "time_str": "03:12.420",
+      "text": "现实中失去更难过",
+      "translation": null
+    },
+    {
+      "time": 196.8,
+      "time_str": "03:16.800",
+      "text": "退缩的我",
+      "translation": null
+    },
+    {
+      "time": 198.57,
+      "time_str": "03:18.570",
+      "text": "手足无措",
+      "translation": null
+    },
+    {
+      "time": 200.91,
+      "time_str": "03:20.910",
+      "text": "该怎么打破这困惑",
+      "translation": null
+    },
+    {
+      "time": 205.08,
+      "time_str": "03:25.080",
+      "text": "我想对你在亲口说",
+      "translation": null
+    },
+    {
+      "time": 208.92,
+      "time_str": "03:28.920",
+      "text": "说没有你我怎么过",
+      "translation": null
+    },
+    {
+      "time": 213.42,
+      "time_str": "03:33.420",
+      "text": "沉默的我",
+      "translation": null
+    },
+    {
+      "time": 215.64,
+      "time_str": "03:35.640",
+      "text": "比你难过",
+      "translation": null
+    },
+    {
+      "time": 217.71,
+      "time_str": "03:37.710",
+      "text": "人总会有失魂落魄",
+      "translation": null
+    },
+    {
+      "time": 221.76,
+      "time_str": "03:41.760",
+      "text": "想亲口对你说复合",
+      "translation": null
+    },
+    {
+      "time": 226.05,
+      "time_str": "03:46.050",
+      "text": "却又不知道怎么开口",
+      "translation": null
+    },
+    {
+      "time": 230.34,
+      "time_str": "03:50.340",
+      "text": "要强的我",
+      "translation": null
+    },
+    {
+      "time": 243.0,
+      "time_str": "04:03.000",
+      "text": "电话开始说",
+      "translation": null
+    },
+    {
+      "time": 244.8,
+      "time_str": "04:04.800",
+      "text": "说我的不舍",
+      "translation": null
+    },
+    {
+      "time": 247.11,
+      "time_str": "04:07.110",
+      "text": "我不想成为你的过客",
+      "translation": null
+    },
+    {
+      "time": 251.28,
+      "time_str": "04:11.280",
+      "text": "算了别在说",
+      "translation": null
+    },
+    {
+      "time": 253.44,
+      "time_str": "04:13.440",
+      "text": "如果很值得就把你紧握",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "无话可说 - 南风.lrc"
+}

@@ -1,0 +1,304 @@
+{
+  "title": "如果当时",
+  "title_raw": "如果当时",
+  "version": null,
+  "artist": "许嵩",
+  "group_key": "如果当时|许嵩",
+  "writers": {
+    "lyricist": "许嵩",
+    "composer": "许嵩",
+    "arranger": "许嵩"
+  },
+  "lyrics": [
+    {
+      "time": 13.65,
+      "time_str": "00:13.650",
+      "text": "为什么 你当时对我好",
+      "translation": null
+    },
+    {
+      "time": 18.65,
+      "time_str": "00:18.650",
+      "text": "又为什么 现在变得冷淡了",
+      "translation": null
+    },
+    {
+      "time": 25.98,
+      "time_str": "00:25.980",
+      "text": "我知道 爱要走难阻挠",
+      "translation": null
+    },
+    {
+      "time": 31.68,
+      "time_str": "00:31.680",
+      "text": "反正不是我的 我也不该要",
+      "translation": null
+    },
+    {
+      "time": 39.05,
+      "time_str": "00:39.050",
+      "text": "你和我 曾经有共同爱好",
+      "translation": null
+    },
+    {
+      "time": 44.55,
+      "time_str": "00:44.550",
+      "text": "谁的耳边 总有绝句在萦绕",
+      "translation": null
+    },
+    {
+      "time": 51.35,
+      "time_str": "00:51.350",
+      "text": "我们俩 用文言文对话真的很搞笑",
+      "translation": null
+    },
+    {
+      "time": 58.27,
+      "time_str": "00:58.270",
+      "text": "还笑那曹操贪慕着小乔",
+      "translation": null
+    },
+    {
+      "time": 64.79,
+      "time_str": "01:04.790",
+      "text": "天灰了 雨坠了",
+      "translation": null
+    },
+    {
+      "time": 68.14,
+      "time_str": "01:08.140",
+      "text": "视线要模糊了",
+      "translation": null
+    },
+    {
+      "time": 71.13,
+      "time_str": "01:11.130",
+      "text": "此时感觉到你的重要",
+      "translation": null
+    },
+    {
+      "time": 76.8,
+      "time_str": "01:16.800",
+      "text": "爱走了 心走了",
+      "translation": null
+    },
+    {
+      "time": 80.54,
+      "time_str": "01:20.540",
+      "text": "你说你要走了",
+      "translation": null
+    },
+    {
+      "time": 85.43,
+      "time_str": "01:25.430",
+      "text": "我为你唱最后的古谣",
+      "translation": null
+    },
+    {
+      "time": 91.57,
+      "time_str": "01:31.570",
+      "text": "红雨瓢泼泛起了回忆怎么潜",
+      "translation": null
+    },
+    {
+      "time": 97.45,
+      "time_str": "01:37.450",
+      "text": "你美目如当年",
+      "translation": null
+    },
+    {
+      "time": 100.86,
+      "time_str": "01:40.860",
+      "text": "流转我心间",
+      "translation": null
+    },
+    {
+      "time": 103.83,
+      "time_str": "01:43.830",
+      "text": "渡口边最后一面洒下了句点",
+      "translation": null
+    },
+    {
+      "time": 109.96,
+      "time_str": "01:49.960",
+      "text": "与你若只如初见",
+      "translation": null
+    },
+    {
+      "time": 113.38,
+      "time_str": "01:53.380",
+      "text": "何须感伤离别",
+      "translation": null
+    },
+    {
+      "time": 142.93,
+      "time_str": "02:22.930",
+      "text": "你和我 曾经有共同爱好",
+      "translation": null
+    },
+    {
+      "time": 149.55,
+      "time_str": "02:29.550",
+      "text": "谁的耳边 总有绝句在萦绕",
+      "translation": null
+    },
+    {
+      "time": 155.74,
+      "time_str": "02:35.740",
+      "text": "我们俩 用文言文对话真的很搞笑",
+      "translation": null
+    },
+    {
+      "time": 162.23,
+      "time_str": "02:42.230",
+      "text": "还笑那曹操贪慕着小乔",
+      "translation": null
+    },
+    {
+      "time": 169.04,
+      "time_str": "02:49.040",
+      "text": "天灰了 雨坠了",
+      "translation": null
+    },
+    {
+      "time": 172.03,
+      "time_str": "02:52.030",
+      "text": "视线要模糊了",
+      "translation": null
+    },
+    {
+      "time": 175.12,
+      "time_str": "02:55.120",
+      "text": "此时感觉到你的重要",
+      "translation": null
+    },
+    {
+      "time": 180.85,
+      "time_str": "03:00.850",
+      "text": "爱走了 心走了",
+      "translation": null
+    },
+    {
+      "time": 184.54,
+      "time_str": "03:04.540",
+      "text": "你说你要走了",
+      "translation": null
+    },
+    {
+      "time": 188.02,
+      "time_str": "03:08.020",
+      "text": "我为你唱最后的古谣",
+      "translation": null
+    },
+    {
+      "time": 194.13,
+      "time_str": "03:14.130",
+      "text": "红雨瓢泼泛起了回忆怎么潜",
+      "translation": null
+    },
+    {
+      "time": 200.2,
+      "time_str": "03:20.200",
+      "text": "你美目如当年",
+      "translation": null
+    },
+    {
+      "time": 203.48,
+      "time_str": "03:23.480",
+      "text": "流转我心间",
+      "translation": null
+    },
+    {
+      "time": 206.39,
+      "time_str": "03:26.390",
+      "text": "渡口边最后一面洒下了句点",
+      "translation": null
+    },
+    {
+      "time": 212.73,
+      "time_str": "03:32.730",
+      "text": "与你若只如初见",
+      "translation": null
+    },
+    {
+      "time": 216.03,
+      "time_str": "03:36.030",
+      "text": "何须感伤离别",
+      "translation": null
+    },
+    {
+      "time": 219.47,
+      "time_str": "03:39.470",
+      "text": "红雨瓢泼泛起了回忆怎么潜",
+      "translation": null
+    },
+    {
+      "time": 225.28,
+      "time_str": "03:45.280",
+      "text": "你美目如当年",
+      "translation": null
+    },
+    {
+      "time": 228.84,
+      "time_str": "03:48.840",
+      "text": "流转我心间",
+      "translation": null
+    },
+    {
+      "time": 231.77,
+      "time_str": "03:51.770",
+      "text": "渡口边最后一面洒下了句点",
+      "translation": null
+    },
+    {
+      "time": 237.96,
+      "time_str": "03:57.960",
+      "text": "与你若只如初见",
+      "translation": null
+    },
+    {
+      "time": 241.16,
+      "time_str": "04:01.160",
+      "text": "何须感伤离别",
+      "translation": null
+    },
+    {
+      "time": 269.16,
+      "time_str": "04:29.160",
+      "text": "红雨瓢泼泛起了回忆怎么潜",
+      "translation": null
+    },
+    {
+      "time": 275.3,
+      "time_str": "04:35.300",
+      "text": "你美目如当年",
+      "translation": null
+    },
+    {
+      "time": 279.26,
+      "time_str": "04:39.260",
+      "text": "流转我心间",
+      "translation": null
+    },
+    {
+      "time": 282.19,
+      "time_str": "04:42.190",
+      "text": "渡口边最后一面洒下了句点",
+      "translation": null
+    },
+    {
+      "time": 288.77,
+      "time_str": "04:48.770",
+      "text": "与你若只如初见",
+      "translation": null
+    },
+    {
+      "time": 291.75,
+      "time_str": "04:51.750",
+      "text": "何须感伤离别",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "如果当时 - 许嵩.lrc"
+}

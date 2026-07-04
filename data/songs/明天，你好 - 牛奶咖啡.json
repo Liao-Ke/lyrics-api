@@ -1,0 +1,256 @@
+{
+  "title": "明天，你好",
+  "title_raw": "明天，你好",
+  "version": null,
+  "artist": "牛奶咖啡",
+  "group_key": "明天，你好|牛奶咖啡",
+  "writers": {
+    "lyricist": "王海涛",
+    "composer": "牛奶咖啡",
+    "arranger": "格非"
+  },
+  "lyrics": [
+    {
+      "time": 22.99,
+      "time_str": "00:22.990",
+      "text": "看昨天的我们 走远了",
+      "translation": null
+    },
+    {
+      "time": 27.669,
+      "time_str": "00:27.669",
+      "text": "在命运广场中央 等待",
+      "translation": null
+    },
+    {
+      "time": 32.976,
+      "time_str": "00:32.976",
+      "text": "那模糊的 肩膀",
+      "translation": null
+    },
+    {
+      "time": 35.917,
+      "time_str": "00:35.917",
+      "text": "越奔跑 越渺小",
+      "translation": null
+    },
+    {
+      "time": 42.96,
+      "time_str": "00:42.960",
+      "text": "曾经 并肩往前的 伙伴",
+      "translation": null
+    },
+    {
+      "time": 47.96,
+      "time_str": "00:47.960",
+      "text": "在举杯 祝福后都 走散",
+      "translation": null
+    },
+    {
+      "time": 53.07,
+      "time_str": "00:53.070",
+      "text": "只是那个 夜晚",
+      "translation": null
+    },
+    {
+      "time": 56.66,
+      "time_str": "00:56.660",
+      "text": "我深深  的都留藏在心坎",
+      "translation": null
+    },
+    {
+      "time": 60.487,
+      "time_str": "01:00.487",
+      "text": "长大以后 我只能奔跑",
+      "translation": null
+    },
+    {
+      "time": 65.187,
+      "time_str": "01:05.187",
+      "text": "我多害怕 黑暗中跌倒",
+      "translation": null
+    },
+    {
+      "time": 70.98,
+      "time_str": "01:10.980",
+      "text": "明天你好 含着泪微笑",
+      "translation": null
+    },
+    {
+      "time": 75.989,
+      "time_str": "01:15.989",
+      "text": "越美好 越害怕得到",
+      "translation": null
+    },
+    {
+      "time": 80.68,
+      "time_str": "01:20.680",
+      "text": "每一次哭 又笑着 奔跑",
+      "translation": null
+    },
+    {
+      "time": 85.68,
+      "time_str": "01:25.680",
+      "text": "一边失去 一边在寻找",
+      "translation": null
+    },
+    {
+      "time": 89.798,
+      "time_str": "01:29.798",
+      "text": "明天你好 声音多渺小",
+      "translation": null
+    },
+    {
+      "time": 95.197,
+      "time_str": "01:35.197",
+      "text": "却提醒我 勇敢是什么",
+      "translation": null
+    },
+    {
+      "time": 122.979,
+      "time_str": "02:02.979",
+      "text": "当我朝着反方向走去",
+      "translation": null
+    },
+    {
+      "time": 127.628,
+      "time_str": "02:07.628",
+      "text": "在楼梯的角落 找勇气",
+      "translation": null
+    },
+    {
+      "time": 134.099,
+      "time_str": "02:14.099",
+      "text": "抖着肩膀 哭泣",
+      "translation": null
+    },
+    {
+      "time": 137.499,
+      "time_str": "02:17.499",
+      "text": "问自己 在哪里",
+      "translation": null
+    },
+    {
+      "time": 144.69,
+      "time_str": "02:24.690",
+      "text": "曾经 并肩往前 的伙伴",
+      "translation": null
+    },
+    {
+      "time": 149.127,
+      "time_str": "02:29.127",
+      "text": "沉默着 懂得我的委屈",
+      "translation": null
+    },
+    {
+      "time": 154.189,
+      "time_str": "02:34.189",
+      "text": "时间它总说谎",
+      "translation": null
+    },
+    {
+      "time": 157.189,
+      "time_str": "02:37.189",
+      "text": "我从 不曾失去 那些肩膀",
+      "translation": null
+    },
+    {
+      "time": 161.799,
+      "time_str": "02:41.799",
+      "text": "长大以后 我只能奔跑",
+      "translation": null
+    },
+    {
+      "time": 166.799,
+      "time_str": "02:46.799",
+      "text": "我多害怕 黑暗中跌倒",
+      "translation": null
+    },
+    {
+      "time": 171.698,
+      "time_str": "02:51.698",
+      "text": "明天你好 含着泪微笑",
+      "translation": null
+    },
+    {
+      "time": 177.198,
+      "time_str": "02:57.198",
+      "text": "越美好 越害怕得到",
+      "translation": null
+    },
+    {
+      "time": 182.238,
+      "time_str": "03:02.238",
+      "text": "每一次哭 又笑着奔跑",
+      "translation": null
+    },
+    {
+      "time": 187.999,
+      "time_str": "03:07.999",
+      "text": "一边失去 一边在寻找",
+      "translation": null
+    },
+    {
+      "time": 192.298,
+      "time_str": "03:12.298",
+      "text": "明天你好 声音多渺小",
+      "translation": null
+    },
+    {
+      "time": 197.298,
+      "time_str": "03:17.298",
+      "text": "却提醒我",
+      "translation": null
+    },
+    {
+      "time": 202.99,
+      "time_str": "03:22.990",
+      "text": "长大以后 我只能奔跑",
+      "translation": null
+    },
+    {
+      "time": 207.238,
+      "time_str": "03:27.238",
+      "text": "我多害怕 黑暗中跌倒",
+      "translation": null
+    },
+    {
+      "time": 212.298,
+      "time_str": "03:32.298",
+      "text": "明天你好 含着泪微笑",
+      "translation": null
+    },
+    {
+      "time": 217.428,
+      "time_str": "03:37.428",
+      "text": "越美好 越害怕得到",
+      "translation": null
+    },
+    {
+      "time": 222.29,
+      "time_str": "03:42.290",
+      "text": "每一次哭 又笑着奔跑",
+      "translation": null
+    },
+    {
+      "time": 227.999,
+      "time_str": "03:47.999",
+      "text": "一边失去 一边在寻找",
+      "translation": null
+    },
+    {
+      "time": 232.298,
+      "time_str": "03:52.298",
+      "text": "明天你好 声音多渺小",
+      "translation": null
+    },
+    {
+      "time": 238.79,
+      "time_str": "03:58.790",
+      "text": "却提醒我 勇敢是什么",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "明天，你好 - 牛奶咖啡.lrc"
+}

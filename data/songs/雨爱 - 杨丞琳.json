@@ -1,0 +1,322 @@
+{
+  "title": "雨爱",
+  "title_raw": "雨爱",
+  "version": null,
+  "artist": "杨丞琳",
+  "group_key": "雨爱|杨丞琳",
+  "writers": {
+    "lyricist": "Wonderful",
+    "composer": "金大洲",
+    "arranger": "黄宣铭"
+  },
+  "lyrics": [
+    {
+      "time": 16.286,
+      "time_str": "00:16.286",
+      "text": "窗外的天气",
+      "translation": null
+    },
+    {
+      "time": 20.706,
+      "time_str": "00:20.706",
+      "text": "就像是 你多变的表情",
+      "translation": null
+    },
+    {
+      "time": 26.454,
+      "time_str": "00:26.454",
+      "text": "下雨了 雨陪我哭泣",
+      "translation": null
+    },
+    {
+      "time": 32.824,
+      "time_str": "00:32.824",
+      "text": "看不清 我也不想看清",
+      "translation": null
+    },
+    {
+      "time": 38.411,
+      "time_str": "00:38.411",
+      "text": "离开你 我安静的抽离",
+      "translation": null
+    },
+    {
+      "time": 42.188,
+      "time_str": "00:42.188",
+      "text": "不忍揭晓的剧情",
+      "translation": null
+    },
+    {
+      "time": 45.138,
+      "time_str": "00:45.138",
+      "text": "我的泪流在心里",
+      "translation": null
+    },
+    {
+      "time": 48.145,
+      "time_str": "00:48.145",
+      "text": "学会放弃",
+      "translation": null
+    },
+    {
+      "time": 50.943,
+      "time_str": "00:50.943",
+      "text": "听雨的声音 一滴滴清晰",
+      "translation": null
+    },
+    {
+      "time": 54.109,
+      "time_str": "00:54.109",
+      "text": "你的呼吸像雨滴渗入我的爱里",
+      "translation": null
+    },
+    {
+      "time": 59.402,
+      "time_str": "00:59.402",
+      "text": "真希望雨能下不停",
+      "translation": null
+    },
+    {
+      "time": 63.21,
+      "time_str": "01:03.210",
+      "text": "让想念继续 让爱变透明",
+      "translation": null
+    },
+    {
+      "time": 69.173,
+      "time_str": "01:09.173",
+      "text": "我爱上给我勇气的 Rainie Love",
+      "translation": null
+    },
+    {
+      "time": 75.006,
+      "time_str": "01:15.006",
+      "text": "窗外的雨滴 一滴滴累积",
+      "translation": null
+    },
+    {
+      "time": 78.144,
+      "time_str": "01:18.144",
+      "text": "屋内的湿气像储存爱你的记忆",
+      "translation": null
+    },
+    {
+      "time": 83.483,
+      "time_str": "01:23.483",
+      "text": "真希望雨能下不停",
+      "translation": null
+    },
+    {
+      "time": 87.143,
+      "time_str": "01:27.143",
+      "text": "雨爱的秘密 能一直延续",
+      "translation": null
+    },
+    {
+      "time": 93.153,
+      "time_str": "01:33.153",
+      "text": "我相信我将会看到",
+      "translation": null
+    },
+    {
+      "time": 96.507,
+      "time_str": "01:36.507",
+      "text": "彩虹的美丽",
+      "translation": null
+    },
+    {
+      "time": 124.322,
+      "time_str": "02:04.322",
+      "text": "冷冷的空气",
+      "translation": null
+    },
+    {
+      "time": 128.722,
+      "time_str": "02:08.722",
+      "text": "很窒息 我无法呼吸",
+      "translation": null
+    },
+    {
+      "time": 134.289,
+      "time_str": "02:14.289",
+      "text": "一万颗雨滴的距离",
+      "translation": null
+    },
+    {
+      "time": 140.754,
+      "time_str": "02:20.754",
+      "text": "很彻底 让爱消失无息",
+      "translation": null
+    },
+    {
+      "time": 146.302,
+      "time_str": "02:26.302",
+      "text": "离开你 我安静的抽离",
+      "translation": null
+    },
+    {
+      "time": 150.033,
+      "time_str": "02:30.033",
+      "text": "不忍揭晓的剧情",
+      "translation": null
+    },
+    {
+      "time": 153.126,
+      "time_str": "02:33.126",
+      "text": "我的泪流在心里",
+      "translation": null
+    },
+    {
+      "time": 156.056,
+      "time_str": "02:36.056",
+      "text": "学会放弃",
+      "translation": null
+    },
+    {
+      "time": 161.954,
+      "time_str": "02:41.954",
+      "text": "听雨的声音 一滴滴清晰",
+      "translation": null
+    },
+    {
+      "time": 165.156,
+      "time_str": "02:45.156",
+      "text": "你的呼吸像雨滴渗入我的爱里",
+      "translation": null
+    },
+    {
+      "time": 170.271,
+      "time_str": "02:50.271",
+      "text": "真希望雨能下不停",
+      "translation": null
+    },
+    {
+      "time": 174.174,
+      "time_str": "02:54.174",
+      "text": "让想念继续 让爱变透明",
+      "translation": null
+    },
+    {
+      "time": 180.133,
+      "time_str": "03:00.133",
+      "text": "我爱上给我勇气的 Rainie Love",
+      "translation": null
+    },
+    {
+      "time": 185.899,
+      "time_str": "03:05.899",
+      "text": "窗外的雨滴 一滴滴累积",
+      "translation": null
+    },
+    {
+      "time": 189.082,
+      "time_str": "03:09.082",
+      "text": "屋内的湿气像储存爱你的记忆",
+      "translation": null
+    },
+    {
+      "time": 194.369,
+      "time_str": "03:14.369",
+      "text": "真希望雨能下不停",
+      "translation": null
+    },
+    {
+      "time": 198.101,
+      "time_str": "03:18.101",
+      "text": "雨爱的秘密能一直延续",
+      "translation": null
+    },
+    {
+      "time": 204.083,
+      "time_str": "03:24.083",
+      "text": "我相信我将会看到",
+      "translation": null
+    },
+    {
+      "time": 207.448,
+      "time_str": "03:27.448",
+      "text": "彩虹的美丽",
+      "translation": null
+    },
+    {
+      "time": 213.086,
+      "time_str": "03:33.086",
+      "text": "屋内的湿气像储存爱你的记忆",
+      "translation": null
+    },
+    {
+      "time": 218.336,
+      "time_str": "03:38.336",
+      "text": "真希望雨能下不停",
+      "translation": null
+    },
+    {
+      "time": 222.133,
+      "time_str": "03:42.133",
+      "text": "雨爱的秘密能一直延续",
+      "translation": null
+    },
+    {
+      "time": 228.194,
+      "time_str": "03:48.194",
+      "text": "我相信我将会看到",
+      "translation": null
+    },
+    {
+      "time": 231.508,
+      "time_str": "03:51.508",
+      "text": "彩虹的美丽",
+      "translation": null
+    },
+    {
+      "time": 241.419,
+      "time_str": "04:01.419",
+      "text": "贝斯 : 方奎棠",
+      "translation": null
+    },
+    {
+      "time": 242.719,
+      "time_str": "04:02.719",
+      "text": "录音工程师 : 林世龙/蔡志忠",
+      "translation": null
+    },
+    {
+      "time": 243.115,
+      "time_str": "04:03.115",
+      "text": "录音工程室 : PUSH STUDIO",
+      "translation": null
+    },
+    {
+      "time": 243.586,
+      "time_str": "04:03.586",
+      "text": "混音工程师 : 杨大纬",
+      "translation": null
+    },
+    {
+      "time": 243.992,
+      "time_str": "04:03.992",
+      "text": "混音工程室 : 杨大纬录音工作室",
+      "translation": null
+    },
+    {
+      "time": 244.407,
+      "time_str": "04:04.407",
+      "text": "制作助理 : 蔡志忠",
+      "translation": null
+    },
+    {
+      "time": 245.272,
+      "time_str": "04:05.272",
+      "text": "SP : Sony Music Publishing (Pte) Ltd. Taiwan Branch",
+      "translation": null
+    },
+    {
+      "time": 246.082,
+      "time_str": "04:06.082",
+      "text": "SP : 金牌大风音乐文化股份有限公司",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "雨爱 - 杨丞琳.lrc"
+}

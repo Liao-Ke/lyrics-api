@@ -1,0 +1,316 @@
+{
+  "title": "好心分手",
+  "title_raw": "好心分手",
+  "version": null,
+  "artist": "卢巧音,王力宏",
+  "group_key": "好心分手|卢巧音,王力宏",
+  "writers": {
+    "lyricist": "黄伟文",
+    "composer": "雷颂德",
+    "arranger": "雷颂德/Ted Lo"
+  },
+  "lyrics": [
+    {
+      "time": 15.35,
+      "time_str": "00:15.350",
+      "text": "卢：是否很惊讶 讲不出说话",
+      "translation": null
+    },
+    {
+      "time": 19.73,
+      "time_str": "00:19.730",
+      "text": "没错我是说 你想分手吗",
+      "translation": null
+    },
+    {
+      "time": 23.68,
+      "time_str": "00:23.680",
+      "text": "曾给你驯服到 就像绵羊",
+      "translation": null
+    },
+    {
+      "time": 28.88,
+      "time_str": "00:28.880",
+      "text": "何解会反咬你一下 你知吗",
+      "translation": null
+    },
+    {
+      "time": 32.35,
+      "time_str": "00:32.350",
+      "text": "王：也许该反省 不应再说话",
+      "translation": null
+    },
+    {
+      "time": 37.62,
+      "time_str": "00:37.620",
+      "text": "被放弃的我 应有此报吗",
+      "translation": null
+    },
+    {
+      "time": 40.53,
+      "time_str": "00:40.530",
+      "text": "如果我曾是个坏牧羊人",
+      "translation": null
+    },
+    {
+      "time": 45.72,
+      "time_str": "00:45.720",
+      "text": "能否再让我试一下",
+      "translation": null
+    },
+    {
+      "time": 48.57,
+      "time_str": "00:48.570",
+      "text": "抱一下",
+      "translation": null
+    },
+    {
+      "time": 50.61,
+      "time_str": "00:50.610",
+      "text": "卢：回头望 伴你走",
+      "translation": null
+    },
+    {
+      "time": 52.65,
+      "time_str": "00:52.650",
+      "text": "从来未曾幸福过",
+      "translation": null
+    },
+    {
+      "time": 54.69,
+      "time_str": "00:54.690",
+      "text": "王：恨太多 没结果",
+      "translation": null
+    },
+    {
+      "time": 56.93,
+      "time_str": "00:56.930",
+      "text": "往事重提是折磨",
+      "translation": null
+    },
+    {
+      "time": 59.0,
+      "time_str": "00:59.000",
+      "text": "卢：下半生 陪住你",
+      "translation": null
+    },
+    {
+      "time": 61.09,
+      "time_str": "01:01.090",
+      "text": "怀疑快乐也不多",
+      "translation": null
+    },
+    {
+      "time": 63.19,
+      "time_str": "01:03.190",
+      "text": "王：被我伤 让你痛",
+      "translation": null
+    },
+    {
+      "time": 65.37,
+      "time_str": "01:05.370",
+      "text": "卢：好心一早放开我",
+      "translation": null
+    },
+    {
+      "time": 67.31,
+      "time_str": "01:07.310",
+      "text": "从头努力也坎坷",
+      "translation": null
+    },
+    {
+      "time": 69.76,
+      "time_str": "01:09.760",
+      "text": "通通不要好过",
+      "translation": null
+    },
+    {
+      "time": 71.71,
+      "time_str": "01:11.710",
+      "text": "王：为何唱着这首歌",
+      "translation": null
+    },
+    {
+      "time": 73.96,
+      "time_str": "01:13.960",
+      "text": "为怨恨 而分手",
+      "translation": null
+    },
+    {
+      "time": 75.81,
+      "time_str": "01:15.810",
+      "text": "问你是否原谅我",
+      "translation": null
+    },
+    {
+      "time": 78.12,
+      "time_str": "01:18.120",
+      "text": "卢：若注定有一点苦楚",
+      "translation": null
+    },
+    {
+      "time": 81.42,
+      "time_str": "01:21.420",
+      "text": "不如自己亲手割破",
+      "translation": null
+    },
+    {
+      "time": 100.26,
+      "time_str": "01:40.260",
+      "text": "王：回头吧 不要走",
+      "translation": null
+    },
+    {
+      "time": 103.16,
+      "time_str": "01:43.160",
+      "text": "不要这样离开我",
+      "translation": null
+    },
+    {
+      "time": 105.36,
+      "time_str": "01:45.360",
+      "text": "恨太多 没结果",
+      "translation": null
+    },
+    {
+      "time": 107.47,
+      "time_str": "01:47.470",
+      "text": "往事重提 是折磨",
+      "translation": null
+    },
+    {
+      "time": 109.57,
+      "time_str": "01:49.570",
+      "text": "卢：下半生 陪住你",
+      "translation": null
+    },
+    {
+      "time": 111.63,
+      "time_str": "01:51.630",
+      "text": "怀疑快乐也不多",
+      "translation": null
+    },
+    {
+      "time": 113.73,
+      "time_str": "01:53.730",
+      "text": "没有心 别再拖",
+      "translation": null
+    },
+    {
+      "time": 115.86,
+      "time_str": "01:55.860",
+      "text": "好心一早放开我",
+      "translation": null
+    },
+    {
+      "time": 117.96,
+      "time_str": "01:57.960",
+      "text": "从头努力也坎坷",
+      "translation": null
+    },
+    {
+      "time": 120.29,
+      "time_str": "02:00.290",
+      "text": "通通不要好过",
+      "translation": null
+    },
+    {
+      "time": 122.2,
+      "time_str": "02:02.200",
+      "text": "王：为何唱着这首歌",
+      "translation": null
+    },
+    {
+      "time": 124.61,
+      "time_str": "02:04.610",
+      "text": "为怨恨而分手",
+      "translation": null
+    },
+    {
+      "time": 126.48,
+      "time_str": "02:06.480",
+      "text": "问你是否原谅我",
+      "translation": null
+    },
+    {
+      "time": 128.83,
+      "time_str": "02:08.830",
+      "text": "卢：若勉强也分到不多",
+      "translation": null
+    },
+    {
+      "time": 131.91,
+      "time_str": "02:11.910",
+      "text": "不如什么也摔破",
+      "translation": null
+    },
+    {
+      "time": 140.56,
+      "time_str": "02:20.560",
+      "text": "王：好心分手 每天播",
+      "translation": null
+    },
+    {
+      "time": 142.23,
+      "time_str": "02:22.230",
+      "text": "卢：可知歌者也奈何",
+      "translation": null
+    },
+    {
+      "time": 147.58,
+      "time_str": "02:27.580",
+      "text": "难捱就无谓再拖",
+      "translation": null
+    },
+    {
+      "time": 149.56,
+      "time_str": "02:29.560",
+      "text": "好心一早放开我",
+      "translation": null
+    },
+    {
+      "time": 151.59,
+      "time_str": "02:31.590",
+      "text": "从头努力也坎坷",
+      "translation": null
+    },
+    {
+      "time": 154.05,
+      "time_str": "02:34.050",
+      "text": "通通不要好过",
+      "translation": null
+    },
+    {
+      "time": 155.9,
+      "time_str": "02:35.900",
+      "text": "王：为何唱着这首歌",
+      "translation": null
+    },
+    {
+      "time": 158.22,
+      "time_str": "02:38.220",
+      "text": "为怨恨而分手",
+      "translation": null
+    },
+    {
+      "time": 160.13,
+      "time_str": "02:40.130",
+      "text": "问你是否原谅我",
+      "translation": null
+    },
+    {
+      "time": 162.59,
+      "time_str": "02:42.590",
+      "text": "卢：若注定有一点苦楚",
+      "translation": null
+    },
+    {
+      "time": 165.65,
+      "time_str": "02:45.650",
+      "text": "不如自己亲手割破",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "好心分手 - 卢巧音,王力宏.lrc"
+}

@@ -1,0 +1,376 @@
+{
+  "title": "猎物直觉",
+  "title_raw": "猎物直觉",
+  "version": null,
+  "artist": "卷毛TuT",
+  "group_key": "猎物直觉|卷毛tut",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": "卷毛TuT"
+  },
+  "lyrics": [
+    {
+      "time": 2.63,
+      "time_str": "00:02.630",
+      "text": "《猎物直觉》",
+      "translation": null
+    },
+    {
+      "time": 4.11,
+      "time_str": "00:04.110",
+      "text": "词曲：小涛",
+      "translation": null
+    },
+    {
+      "time": 7.73,
+      "time_str": "00:07.730",
+      "text": "混音/母带：JOVE、星一问水",
+      "translation": null
+    },
+    {
+      "time": 17.16,
+      "time_str": "00:17.160",
+      "text": "你坐在中央舞池边",
+      "translation": null
+    },
+    {
+      "time": 18.81,
+      "time_str": "00:18.810",
+      "text": "看我的眼神有点变",
+      "translation": null
+    },
+    {
+      "time": 20.83,
+      "time_str": "00:20.830",
+      "text": "不安还想靠近一点点",
+      "translation": null
+    },
+    {
+      "time": 24.45,
+      "time_str": "00:24.450",
+      "text": "酒杯手中摇晃旋转",
+      "translation": null
+    },
+    {
+      "time": 26.28,
+      "time_str": "00:26.280",
+      "text": "似乎烈酒更多些",
+      "translation": null
+    },
+    {
+      "time": 28.12,
+      "time_str": "00:28.120",
+      "text": "暗示今晚不止是消遣",
+      "translation": null
+    },
+    {
+      "time": 31.93,
+      "time_str": "00:31.930",
+      "text": "没有钱话不用多说",
+      "translation": null
+    },
+    {
+      "time": 33.65,
+      "time_str": "00:33.650",
+      "text": "顺其自然不用啰嗦",
+      "translation": null
+    },
+    {
+      "time": 35.49,
+      "time_str": "00:35.490",
+      "text": "意料之中你主动迎合",
+      "translation": null
+    },
+    {
+      "time": 39.29,
+      "time_str": "00:39.290",
+      "text": "靠近我更靠近快乐",
+      "translation": null
+    },
+    {
+      "time": 41.13,
+      "time_str": "00:41.130",
+      "text": "自然坐在你的一侧",
+      "translation": null
+    },
+    {
+      "time": 42.97,
+      "time_str": "00:42.970",
+      "text": "放大谁更止不住忐忑",
+      "translation": null
+    },
+    {
+      "time": 46.84,
+      "time_str": "00:46.840",
+      "text": "轻抚着你的耳朵看着你眼睛",
+      "translation": null
+    },
+    {
+      "time": 49.97,
+      "time_str": "00:49.970",
+      "text": "试探这心情变格升温在下一刻",
+      "translation": null
+    },
+    {
+      "time": 53.71,
+      "time_str": "00:53.710",
+      "text": "心跳让你更冲动在这暧昧氛围中",
+      "translation": null
+    },
+    {
+      "time": 57.42,
+      "time_str": "00:57.420",
+      "text": "要不要你侬我侬在这舞池之中",
+      "translation": null
+    },
+    {
+      "time": 61.49,
+      "time_str": "01:01.490",
+      "text": "你的呼吸忽轻忽重",
+      "translation": null
+    },
+    {
+      "time": 63.33,
+      "time_str": "01:03.330",
+      "text": "你的微醺有点朦胧",
+      "translation": null
+    },
+    {
+      "time": 65.3,
+      "time_str": "01:05.300",
+      "text": "距离渐渐不知所踪",
+      "translation": null
+    },
+    {
+      "time": 69.03,
+      "time_str": "01:09.030",
+      "text": "去掉所有复杂繁冗",
+      "translation": null
+    },
+    {
+      "time": 70.68,
+      "time_str": "01:10.680",
+      "text": "进入彼此深色瞳孔",
+      "translation": null
+    },
+    {
+      "time": 72.76,
+      "time_str": "01:12.760",
+      "text": "划出一道绚烂彩虹 yeah~",
+      "translation": null
+    },
+    {
+      "time": 91.54,
+      "time_str": "01:31.540",
+      "text": "抬起手 喝一杯 今天晚上 不醉不归",
+      "translation": null
+    },
+    {
+      "time": 95.35,
+      "time_str": "01:35.350",
+      "text": "后面的时间我们都 继续放飞 yeah~",
+      "translation": null
+    },
+    {
+      "time": 99.3,
+      "time_str": "01:39.300",
+      "text": "话不用 说一堆 我们都不算太亏",
+      "translation": null
+    },
+    {
+      "time": 102.98,
+      "time_str": "01:42.980",
+      "text": "今天晚上我是king",
+      "translation": null
+    },
+    {
+      "time": 104.21,
+      "time_str": "01:44.210",
+      "text": "你要不要做我的 queen baby",
+      "translation": null
+    },
+    {
+      "time": 106.63,
+      "time_str": "01:46.630",
+      "text": "我知道你都懂",
+      "translation": null
+    },
+    {
+      "time": 108.42,
+      "time_str": "01:48.420",
+      "text": "我知道你很从容",
+      "translation": null
+    },
+    {
+      "time": 110.33,
+      "time_str": "01:50.330",
+      "text": "我轻抚着你的面容",
+      "translation": null
+    },
+    {
+      "time": 111.8,
+      "time_str": "01:51.800",
+      "text": "跟着舞池一起摆动",
+      "translation": null
+    },
+    {
+      "time": 113.94,
+      "time_str": "01:53.940",
+      "text": "我们一起跳动",
+      "translation": null
+    },
+    {
+      "time": 115.78,
+      "time_str": "01:55.780",
+      "text": "我对你的放纵",
+      "translation": null
+    },
+    {
+      "time": 117.73,
+      "time_str": "01:57.730",
+      "text": "今天晚上 今天晚上",
+      "translation": null
+    },
+    {
+      "time": 119.27,
+      "time_str": "01:59.270",
+      "text": "大家一起失控 yeah~",
+      "translation": null
+    },
+    {
+      "time": 121.47,
+      "time_str": "02:01.470",
+      "text": "你坐在中央舞池边",
+      "translation": null
+    },
+    {
+      "time": 123.25,
+      "time_str": "02:03.250",
+      "text": "看我的眼神有点变",
+      "translation": null
+    },
+    {
+      "time": 125.16,
+      "time_str": "02:05.160",
+      "text": "不安还想靠近一点点",
+      "translation": null
+    },
+    {
+      "time": 128.83,
+      "time_str": "02:08.830",
+      "text": "酒杯手中摇晃旋转",
+      "translation": null
+    },
+    {
+      "time": 130.61,
+      "time_str": "02:10.610",
+      "text": "似乎烈酒更多些",
+      "translation": null
+    },
+    {
+      "time": 132.7,
+      "time_str": "02:12.700",
+      "text": "暗示今晚不止是消遣",
+      "translation": null
+    },
+    {
+      "time": 136.31,
+      "time_str": "02:16.310",
+      "text": "没有钱话不用多说",
+      "translation": null
+    },
+    {
+      "time": 138.15,
+      "time_str": "02:18.150",
+      "text": "顺其自然不用啰嗦",
+      "translation": null
+    },
+    {
+      "time": 139.99,
+      "time_str": "02:19.990",
+      "text": "意料之中你主动迎合",
+      "translation": null
+    },
+    {
+      "time": 143.86,
+      "time_str": "02:23.860",
+      "text": "靠近我更靠近快乐",
+      "translation": null
+    },
+    {
+      "time": 145.52,
+      "time_str": "02:25.520",
+      "text": "自然坐在你的一侧",
+      "translation": null
+    },
+    {
+      "time": 147.49,
+      "time_str": "02:27.490",
+      "text": "放大谁更止不住忐忑",
+      "translation": null
+    },
+    {
+      "time": 151.11,
+      "time_str": "02:31.110",
+      "text": "轻抚着你的耳朵看着你眼睛",
+      "translation": null
+    },
+    {
+      "time": 154.36,
+      "time_str": "02:34.360",
+      "text": "试探这心情变格升温在下一刻",
+      "translation": null
+    },
+    {
+      "time": 158.05,
+      "time_str": "02:38.050",
+      "text": "心跳让你更冲动在这暧昧氛围中",
+      "translation": null
+    },
+    {
+      "time": 161.66,
+      "time_str": "02:41.660",
+      "text": "要不要你侬我侬在这舞池之中",
+      "translation": null
+    },
+    {
+      "time": 166.06,
+      "time_str": "02:46.060",
+      "text": "你的呼吸忽轻忽重",
+      "translation": null
+    },
+    {
+      "time": 167.77,
+      "time_str": "02:47.770",
+      "text": "你的微醺有点朦胧",
+      "translation": null
+    },
+    {
+      "time": 169.61,
+      "time_str": "02:49.610",
+      "text": "距离渐渐不知所踪",
+      "translation": null
+    },
+    {
+      "time": 172.86,
+      "time_str": "02:52.860",
+      "text": "去掉所有复杂繁冗",
+      "translation": null
+    },
+    {
+      "time": 175.13,
+      "time_str": "02:55.130",
+      "text": "进入彼此深色瞳孔",
+      "translation": null
+    },
+    {
+      "time": 177.02,
+      "time_str": "02:57.020",
+      "text": "划出一道绚烂彩虹 yeah~",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "猎物直觉 - 卷毛TuT.lrc"
+}

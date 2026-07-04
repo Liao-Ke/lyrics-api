@@ -1,0 +1,250 @@
+{
+  "title": "香格里拉",
+  "title_raw": "香格里拉",
+  "version": null,
+  "artist": "魏如萱",
+  "group_key": "香格里拉|魏如萱",
+  "writers": {
+    "lyricist": "黄玠",
+    "composer": "黄玠",
+    "arranger": "陈建骐"
+  },
+  "lyrics": [
+    {
+      "time": 25.25,
+      "time_str": "00:25.250",
+      "text": "我以为认真去做就能实现我的梦",
+      "translation": null
+    },
+    {
+      "time": 32.267,
+      "time_str": "00:32.267",
+      "text": "以为写首好歌走路就能抬起头",
+      "translation": null
+    },
+    {
+      "time": 38.308,
+      "time_str": "00:38.308",
+      "text": "以为骑摩托车旅行就能变英雄",
+      "translation": null
+    },
+    {
+      "time": 44.374,
+      "time_str": "00:44.374",
+      "text": "现在的我失去了冲动",
+      "translation": null
+    },
+    {
+      "time": 50.78,
+      "time_str": "00:50.780",
+      "text": "有才华的人唾弃金光闪闪的奖座",
+      "translation": null
+    },
+    {
+      "time": 58.16,
+      "time_str": "00:58.160",
+      "text": "亲爱的Cobain是否也曾爱慕虚荣",
+      "translation": null
+    },
+    {
+      "time": 63.856,
+      "time_str": "01:03.856",
+      "text": "多希望有人冲破疑惑带我向前走",
+      "translation": null
+    },
+    {
+      "time": 70.354,
+      "time_str": "01:10.354",
+      "text": "现在的我变的好懦弱",
+      "translation": null
+    },
+    {
+      "time": 77.278,
+      "time_str": "01:17.278",
+      "text": "雨会下雨会停 这是不变的道理",
+      "translation": null
+    },
+    {
+      "time": 83.672,
+      "time_str": "01:23.672",
+      "text": "夜空中北极星 迷路的人不恐惧",
+      "translation": null
+    },
+    {
+      "time": 90.171,
+      "time_str": "01:30.171",
+      "text": "我唱歌你在听 一切风平又浪静",
+      "translation": null
+    },
+    {
+      "time": 96.702,
+      "time_str": "01:36.702",
+      "text": "G 和弦的根音 抚平脆弱的心灵",
+      "translation": null
+    },
+    {
+      "time": 103.289,
+      "time_str": "01:43.289",
+      "text": "我只想牵着你 走到很远的梦里",
+      "translation": null
+    },
+    {
+      "time": 109.627,
+      "time_str": "01:49.627",
+      "text": "小木屋红屋顶 地址是一个秘密",
+      "translation": null
+    },
+    {
+      "time": 116.075,
+      "time_str": "01:56.075",
+      "text": "你抱着小猫咪 蓝眼睛不再忧郁",
+      "translation": null
+    },
+    {
+      "time": 122.677,
+      "time_str": "02:02.677",
+      "text": "香格里拉 让我们去找寻",
+      "translation": null
+    },
+    {
+      "time": 161.304,
+      "time_str": "02:41.304",
+      "text": "我以为认真去做就能实现我的梦",
+      "translation": null
+    },
+    {
+      "time": 168.411,
+      "time_str": "02:48.411",
+      "text": "以为写首好歌走路就能抬起头",
+      "translation": null
+    },
+    {
+      "time": 174.335,
+      "time_str": "02:54.335",
+      "text": "以为骑摩托车旅行就能变英雄",
+      "translation": null
+    },
+    {
+      "time": 180.613,
+      "time_str": "03:00.613",
+      "text": "现在的我失去了冲动",
+      "translation": null
+    },
+    {
+      "time": 187.49,
+      "time_str": "03:07.490",
+      "text": "雨会下雨会停 这是不变的道理",
+      "translation": null
+    },
+    {
+      "time": 193.952,
+      "time_str": "03:13.952",
+      "text": "夜空中北极星 迷路的人不恐惧",
+      "translation": null
+    },
+    {
+      "time": 200.374,
+      "time_str": "03:20.374",
+      "text": "我唱歌你在听 一切风平又浪静",
+      "translation": null
+    },
+    {
+      "time": 206.938,
+      "time_str": "03:26.938",
+      "text": "G 和弦的根音 抚平脆弱的心灵",
+      "translation": null
+    },
+    {
+      "time": 220.251,
+      "time_str": "03:40.251",
+      "text": "我只想牵着你 走到很远的梦里",
+      "translation": null
+    },
+    {
+      "time": 226.363,
+      "time_str": "03:46.363",
+      "text": "小木屋红屋顶 地址是一个秘密",
+      "translation": null
+    },
+    {
+      "time": 232.819,
+      "time_str": "03:52.819",
+      "text": "你抱着小猫咪 蓝眼睛不再忧郁",
+      "translation": null
+    },
+    {
+      "time": 239.44,
+      "time_str": "03:59.440",
+      "text": "香格里拉在哪里 让我们去找寻",
+      "translation": null
+    },
+    {
+      "time": 253.385,
+      "time_str": "04:13.385",
+      "text": "制作人 Producer：陈建骐 George Chen",
+      "translation": null
+    },
+    {
+      "time": 253.747,
+      "time_str": "04:13.747",
+      "text": "手风琴 Accordion：张瀚中 Han Chung Chang",
+      "translation": null
+    },
+    {
+      "time": 254.148,
+      "time_str": "04:14.148",
+      "text": "低音提琴 Double Bass：黄少庸 Huang Shao Yong",
+      "translation": null
+    },
+    {
+      "time": 254.519,
+      "time_str": "04:14.519",
+      "text": "制作助理 Production Assistant：陈以霖 Yi Lin Chen",
+      "translation": null
+    },
+    {
+      "time": 254.875,
+      "time_str": "04:14.875",
+      "text": "录音工程师 Recording Engineer：郑皓文 Howard Tay",
+      "translation": null
+    },
+    {
+      "time": 255.196,
+      "time_str": "04:15.196",
+      "text": "混音工程师 Mixing Engineer：袁述中 Oda Yuan",
+      "translation": null
+    },
+    {
+      "time": 255.513,
+      "time_str": "04:15.513",
+      "text": "录音室 Recording Studio：大小眼录音室 Twin Eyes Studio",
+      "translation": null
+    },
+    {
+      "time": 255.923,
+      "time_str": "04:15.923",
+      "text": "母带后期处理制作人 Mastering Producer：陈建骐 George Chen",
+      "translation": null
+    },
+    {
+      "time": 256.337,
+      "time_str": "04:16.337",
+      "text": "母带后期处理工程师 Mastering Engineer：樊乃纲 Kenny Fan",
+      "translation": null
+    },
+    {
+      "time": 256.719,
+      "time_str": "04:16.719",
+      "text": "母带后期录音室 Mastering Studio：有禾录音室 Yohu Studio",
+      "translation": null
+    },
+    {
+      "time": 257.999,
+      "time_str": "04:17.999",
+      "text": "SP：风和日丽唱片行 A Good Day Records",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "香格里拉 - 魏如萱.lrc"
+}

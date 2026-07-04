@@ -1,0 +1,136 @@
+{
+  "title": "追梦人",
+  "title_raw": "追梦人",
+  "version": null,
+  "artist": "阿木",
+  "group_key": "追梦人|阿木",
+  "writers": {
+    "lyricist": "罗大佑",
+    "composer": "罗大佑",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 32.6,
+      "time_str": "00:32.600",
+      "text": "让青春吹动了你的长发让它牵引你的梦",
+      "translation": null
+    },
+    {
+      "time": 40.28,
+      "time_str": "00:40.280",
+      "text": "不知不觉这红尘的历史已记取了你的笑容",
+      "translation": null
+    },
+    {
+      "time": 48.03,
+      "time_str": "00:48.030",
+      "text": "红红心中蓝蓝的天是个生命的开始",
+      "translation": null
+    },
+    {
+      "time": 56.0,
+      "time_str": "00:56.000",
+      "text": "春雨不眠隔夜的你曾空独眠的日子",
+      "translation": null
+    },
+    {
+      "time": 64.05,
+      "time_str": "01:04.050",
+      "text": "让青春娇艳的花朵绽开了深藏的红颜",
+      "translation": null
+    },
+    {
+      "time": 72.15,
+      "time_str": "01:12.150",
+      "text": "飞去飞来的满天的飞絮是幻想你的笑颜",
+      "translation": null
+    },
+    {
+      "time": 80.01,
+      "time_str": "01:20.010",
+      "text": "秋来春去红尘中谁在宿命里安排",
+      "translation": null
+    },
+    {
+      "time": 88.67,
+      "time_str": "01:28.670",
+      "text": "冰雪不语寒夜的你那难隐藏的光采",
+      "translation": null
+    },
+    {
+      "time": 96.94,
+      "time_str": "01:36.940",
+      "text": "看我看一眼吧 莫让红颜守空枕",
+      "translation": null
+    },
+    {
+      "time": 105.29,
+      "time_str": "01:45.290",
+      "text": "青春无悔不死 永远的爱人",
+      "translation": null
+    },
+    {
+      "time": 113.25,
+      "time_str": "01:53.250",
+      "text": "让流浪的足迹在荒漠里写下永久的回忆",
+      "translation": null
+    },
+    {
+      "time": 121.09,
+      "time_str": "02:01.090",
+      "text": "飘去飘来的笔迹是深藏的激情你的心语",
+      "translation": null
+    },
+    {
+      "time": 128.87,
+      "time_str": "02:08.870",
+      "text": "前尘后世轮回中谁在宿命里徘徊",
+      "translation": null
+    },
+    {
+      "time": 136.59,
+      "time_str": "02:16.590",
+      "text": "痴情笑我凡俗的人世终难解的关怀",
+      "translation": null
+    },
+    {
+      "time": 176.2,
+      "time_str": "02:56.200",
+      "text": "看我看一眼吧 莫让红颜守空枕",
+      "translation": null
+    },
+    {
+      "time": 185.4,
+      "time_str": "03:05.400",
+      "text": "青春无悔不死 永远的爱人",
+      "translation": null
+    },
+    {
+      "time": 193.42,
+      "time_str": "03:13.420",
+      "text": "让青春吹动了你的长发让它牵引你的梦",
+      "translation": null
+    },
+    {
+      "time": 200.75,
+      "time_str": "03:20.750",
+      "text": "不知不觉这红尘的历史已记取了你的笑容",
+      "translation": null
+    },
+    {
+      "time": 209.13,
+      "time_str": "03:29.130",
+      "text": "红红心中蓝蓝的天是个生命的开始",
+      "translation": null
+    },
+    {
+      "time": 218.54,
+      "time_str": "03:38.540",
+      "text": "春雨不眠隔夜的你曾空独眠的日子",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "追梦人 - 阿木.lrc"
+}

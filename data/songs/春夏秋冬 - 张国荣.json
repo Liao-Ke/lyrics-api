@@ -1,0 +1,232 @@
+{
+  "title": "春夏秋冬",
+  "title_raw": "春夏秋冬",
+  "version": null,
+  "artist": "张国荣",
+  "group_key": "春夏秋冬|张国荣",
+  "writers": {
+    "lyricist": "林振强",
+    "composer": "叶良俊",
+    "arranger": "Adrian Chan"
+  },
+  "lyrics": [
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "秋天该很好 你若尚在场",
+      "translation": null
+    },
+    {
+      "time": 22.0,
+      "time_str": "00:22.000",
+      "text": "秋风即使带凉 亦漂亮",
+      "translation": null
+    },
+    {
+      "time": 29.0,
+      "time_str": "00:29.000",
+      "text": "深秋中的你填密我梦想",
+      "translation": null
+    },
+    {
+      "time": 36.0,
+      "time_str": "00:36.000",
+      "text": "就像落叶飞 轻敲我窗",
+      "translation": null
+    },
+    {
+      "time": 43.0,
+      "time_str": "00:43.000",
+      "text": "冬天该很好 你若尚在场",
+      "translation": null
+    },
+    {
+      "time": 50.0,
+      "time_str": "00:50.000",
+      "text": "天空多灰 我们亦放亮",
+      "translation": null
+    },
+    {
+      "time": 57.0,
+      "time_str": "00:57.000",
+      "text": "一起坐坐谈谈来日动向",
+      "translation": null
+    },
+    {
+      "time": 64.0,
+      "time_str": "01:04.000",
+      "text": "漠视外间低温 这样唱",
+      "translation": null
+    },
+    {
+      "time": 70.0,
+      "time_str": "01:10.000",
+      "text": "能同途偶遇在这星球上",
+      "translation": null
+    },
+    {
+      "time": 76.0,
+      "time_str": "01:16.000",
+      "text": "燃亮飘渺人生",
+      "translation": null
+    },
+    {
+      "time": 80.0,
+      "time_str": "01:20.000",
+      "text": "我多么够运",
+      "translation": null
+    },
+    {
+      "time": 84.0,
+      "time_str": "01:24.000",
+      "text": "无人如你逗留我思潮上",
+      "translation": null
+    },
+    {
+      "time": 90.0,
+      "time_str": "01:30.000",
+      "text": "从没再疑问",
+      "translation": null
+    },
+    {
+      "time": 94.0,
+      "time_str": "01:34.000",
+      "text": "这个世界好得很",
+      "translation": null
+    },
+    {
+      "time": 100.0,
+      "time_str": "01:40.000",
+      "text": "暑天该很好 你若尚在场",
+      "translation": null
+    },
+    {
+      "time": 106.0,
+      "time_str": "01:46.000",
+      "text": "火一般的太阳在脸上",
+      "translation": null
+    },
+    {
+      "time": 113.0,
+      "time_str": "01:53.000",
+      "text": "烧得肌肤如情 痕极又痒",
+      "translation": null
+    },
+    {
+      "time": 120.0,
+      "time_str": "02:00.000",
+      "text": "滴着汗的一双 笑着唱",
+      "translation": null
+    },
+    {
+      "time": 147.0,
+      "time_str": "02:27.000",
+      "text": "能同途偶遇在这星球上",
+      "translation": null
+    },
+    {
+      "time": 153.0,
+      "time_str": "02:33.000",
+      "text": "燃亮飘渺人生",
+      "translation": null
+    },
+    {
+      "time": 157.0,
+      "time_str": "02:37.000",
+      "text": "我多么够运",
+      "translation": null
+    },
+    {
+      "time": 161.0,
+      "time_str": "02:41.000",
+      "text": "无人如你逗留我思潮上",
+      "translation": null
+    },
+    {
+      "time": 167.0,
+      "time_str": "02:47.000",
+      "text": "从没再疑问",
+      "translation": null
+    },
+    {
+      "time": 170.0,
+      "time_str": "02:50.000",
+      "text": "这个世界好得很",
+      "translation": null
+    },
+    {
+      "time": 175.0,
+      "time_str": "02:55.000",
+      "text": "能同途偶遇在这星球上",
+      "translation": null
+    },
+    {
+      "time": 182.0,
+      "time_str": "03:02.000",
+      "text": "是某种缘份",
+      "translation": null
+    },
+    {
+      "time": 186.0,
+      "time_str": "03:06.000",
+      "text": "我多么庆幸",
+      "translation": null
+    },
+    {
+      "time": 189.0,
+      "time_str": "03:09.000",
+      "text": "如离别 你亦长处心灵上",
+      "translation": null
+    },
+    {
+      "time": 195.0,
+      "time_str": "03:15.000",
+      "text": "宁愿有遗憾",
+      "translation": null
+    },
+    {
+      "time": 199.0,
+      "time_str": "03:19.000",
+      "text": "亦愿和你远亦近",
+      "translation": null
+    },
+    {
+      "time": 205.0,
+      "time_str": "03:25.000",
+      "text": "春天该很好 你若尚在场",
+      "translation": null
+    },
+    {
+      "time": 212.0,
+      "time_str": "03:32.000",
+      "text": "春风仿佛爱情",
+      "translation": null
+    },
+    {
+      "time": 215.0,
+      "time_str": "03:35.000",
+      "text": "在酝酿",
+      "translation": null
+    },
+    {
+      "time": 219.0,
+      "time_str": "03:39.000",
+      "text": "初春中的你 撩动我幻想",
+      "translation": null
+    },
+    {
+      "time": 226.0,
+      "time_str": "03:46.000",
+      "text": "就像嫩绿草使",
+      "translation": null
+    },
+    {
+      "time": 232.0,
+      "time_str": "03:52.000",
+      "text": "春雨香",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "春夏秋冬 - 张国荣.lrc"
+}

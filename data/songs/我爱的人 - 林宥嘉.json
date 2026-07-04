@@ -1,0 +1,220 @@
+{
+  "title": "我爱的人",
+  "title_raw": "我爱的人",
+  "version": null,
+  "artist": "林宥嘉",
+  "group_key": "我爱的人|林宥嘉",
+  "writers": {
+    "lyricist": "施人诚",
+    "composer": "周杰伦",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.3,
+      "time_str": "00:00.300",
+      "text": "原唱 : 陈小春",
+      "translation": null
+    },
+    {
+      "time": 18.714,
+      "time_str": "00:18.714",
+      "text": "我知道故事不会太曲折",
+      "translation": null
+    },
+    {
+      "time": 25.763,
+      "time_str": "00:25.763",
+      "text": "我总会遇见一个 什么人",
+      "translation": null
+    },
+    {
+      "time": 33.092,
+      "time_str": "00:33.092",
+      "text": "陪我过没有了她的人生",
+      "translation": null
+    },
+    {
+      "time": 40.196,
+      "time_str": "00:40.196",
+      "text": "成家立业之类的 等等",
+      "translation": null
+    },
+    {
+      "time": 47.765,
+      "time_str": "00:47.765",
+      "text": "她做了她觉得对 的选择",
+      "translation": null
+    },
+    {
+      "time": 54.775,
+      "time_str": "00:54.775",
+      "text": "我只好祝福她真 的对了",
+      "translation": null
+    },
+    {
+      "time": 62.077,
+      "time_str": "01:02.077",
+      "text": "爱不到我最想要爱的人",
+      "translation": null
+    },
+    {
+      "time": 69.274,
+      "time_str": "01:09.274",
+      "text": "谁还能要我怎样呢",
+      "translation": null
+    },
+    {
+      "time": 75.341,
+      "time_str": "01:15.341",
+      "text": "我爱的人 不是我的爱人",
+      "translation": null
+    },
+    {
+      "time": 81.817,
+      "time_str": "01:21.817",
+      "text": "她心里每一寸 都属于另一个人",
+      "translation": null
+    },
+    {
+      "time": 89.822,
+      "time_str": "01:29.822",
+      "text": "她真幸福 幸福得真残忍",
+      "translation": null
+    },
+    {
+      "time": 96.493,
+      "time_str": "01:36.493",
+      "text": "让我又爱又恨 她的爱",
+      "translation": null
+    },
+    {
+      "time": 100.307,
+      "time_str": "01:40.307",
+      "text": "怎么那么深",
+      "translation": null
+    },
+    {
+      "time": 104.407,
+      "time_str": "01:44.407",
+      "text": "我爱的人 她已有了爱人",
+      "translation": null
+    },
+    {
+      "time": 111.06,
+      "time_str": "01:51.060",
+      "text": "从他们的眼神 说明了我不可能",
+      "translation": null
+    },
+    {
+      "time": 118.955,
+      "time_str": "01:58.955",
+      "text": "每当听见 她或他说我们",
+      "translation": null
+    },
+    {
+      "time": 125.711,
+      "time_str": "02:05.711",
+      "text": "就像听见爱情 永恒的嘲笑声",
+      "translation": null
+    },
+    {
+      "time": 145.982,
+      "time_str": "02:25.982",
+      "text": "她做了她觉得对 的选择",
+      "translation": null
+    },
+    {
+      "time": 153.129,
+      "time_str": "02:33.129",
+      "text": "我只好祝福她真 的对了",
+      "translation": null
+    },
+    {
+      "time": 160.245,
+      "time_str": "02:40.245",
+      "text": "爱不到我最想要爱的人",
+      "translation": null
+    },
+    {
+      "time": 167.526,
+      "time_str": "02:47.526",
+      "text": "谁还能要我怎样呢",
+      "translation": null
+    },
+    {
+      "time": 173.509,
+      "time_str": "02:53.509",
+      "text": "我爱的人 不是我的爱人",
+      "translation": null
+    },
+    {
+      "time": 180.143,
+      "time_str": "03:00.143",
+      "text": "她心里每一寸 都属于另一个人",
+      "translation": null
+    },
+    {
+      "time": 188.029,
+      "time_str": "03:08.029",
+      "text": "她真幸福 幸福得真残忍",
+      "translation": null
+    },
+    {
+      "time": 194.492,
+      "time_str": "03:14.492",
+      "text": "让我又爱又恨 她的爱",
+      "translation": null
+    },
+    {
+      "time": 198.506,
+      "time_str": "03:18.506",
+      "text": "怎么那么深",
+      "translation": null
+    },
+    {
+      "time": 202.558,
+      "time_str": "03:22.558",
+      "text": "我爱的人 她已有了爱人",
+      "translation": null
+    },
+    {
+      "time": 208.992,
+      "time_str": "03:28.992",
+      "text": "从他们的眼神 说明了我不可能",
+      "translation": null
+    },
+    {
+      "time": 217.097,
+      "time_str": "03:37.097",
+      "text": "每当听见 她或他说我们",
+      "translation": null
+    },
+    {
+      "time": 223.796,
+      "time_str": "03:43.796",
+      "text": "就像听见爱情 永恒的嘲笑声",
+      "translation": null
+    },
+    {
+      "time": 231.956,
+      "time_str": "03:51.956",
+      "text": "每当听见 她或他说我们",
+      "translation": null
+    },
+    {
+      "time": 238.242,
+      "time_str": "03:58.242",
+      "text": "就像听见爱情",
+      "translation": null
+    },
+    {
+      "time": 240.84,
+      "time_str": "04:00.840",
+      "text": "永恒的 嘲 笑 声",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我爱的人 - 林宥嘉.lrc"
+}

@@ -1,0 +1,226 @@
+{
+  "title": "加速度",
+  "title_raw": "加速度",
+  "version": null,
+  "artist": "瞿颖",
+  "group_key": "加速度|瞿颖",
+  "writers": {
+    "lyricist": "王海涛",
+    "composer": "杨崴",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 28.3,
+      "time_str": "00:28.300",
+      "text": "原来我和你的世界",
+      "translation": null
+    },
+    {
+      "time": 31.5,
+      "time_str": "00:31.500",
+      "text": "隔着暧昧的黑夜",
+      "translation": null
+    },
+    {
+      "time": 34.449,
+      "time_str": "00:34.449",
+      "text": "你的爱不是我要的那一种亲切",
+      "translation": null
+    },
+    {
+      "time": 41.279,
+      "time_str": "00:41.279",
+      "text": "等时间让我能了解",
+      "translation": null
+    },
+    {
+      "time": 44.579,
+      "time_str": "00:44.579",
+      "text": "寻找另一种体贴",
+      "translation": null
+    },
+    {
+      "time": 47.989,
+      "time_str": "00:47.989",
+      "text": "出口在天亮以前",
+      "translation": null
+    },
+    {
+      "time": 52.29,
+      "time_str": "00:52.290",
+      "text": "我就要穿过那条街",
+      "translation": null
+    },
+    {
+      "time": 55.919,
+      "time_str": "00:55.919",
+      "text": "沉默加速度是我的脚步",
+      "translation": null
+    },
+    {
+      "time": 59.699,
+      "time_str": "00:59.699",
+      "text": "奔跑在视线里的路",
+      "translation": null
+    },
+    {
+      "time": 62.629,
+      "time_str": "01:02.629",
+      "text": "我不要祝福不理会孤独",
+      "translation": null
+    },
+    {
+      "time": 66.408,
+      "time_str": "01:06.408",
+      "text": "奔向最远处",
+      "translation": null
+    },
+    {
+      "time": 76.89,
+      "time_str": "01:16.890",
+      "text": "眼光若能坚定一些",
+      "translation": null
+    },
+    {
+      "time": 79.559,
+      "time_str": "01:19.559",
+      "text": "就不会在乎那一切",
+      "translation": null
+    },
+    {
+      "time": 83.18,
+      "time_str": "01:23.180",
+      "text": "不值得爱就拒绝",
+      "translation": null
+    },
+    {
+      "time": 86.159,
+      "time_str": "01:26.159",
+      "text": "就将他忽略",
+      "translation": null
+    },
+    {
+      "time": 89.689,
+      "time_str": "01:29.689",
+      "text": "前面的路就算重叠",
+      "translation": null
+    },
+    {
+      "time": 93.39,
+      "time_str": "01:33.390",
+      "text": "那也是我要的世界",
+      "translation": null
+    },
+    {
+      "time": 96.499,
+      "time_str": "01:36.499",
+      "text": "我不会笑的轻蔑",
+      "translation": null
+    },
+    {
+      "time": 99.639,
+      "time_str": "01:39.639",
+      "text": "不随便对谁说感谢",
+      "translation": null
+    },
+    {
+      "time": 104.518,
+      "time_str": "01:44.518",
+      "text": "沉默加速度是我的脚步",
+      "translation": null
+    },
+    {
+      "time": 108.199,
+      "time_str": "01:48.199",
+      "text": "奔跑在视线里的路",
+      "translation": null
+    },
+    {
+      "time": 111.129,
+      "time_str": "01:51.129",
+      "text": "我不要祝福不理会孤独",
+      "translation": null
+    },
+    {
+      "time": 114.588,
+      "time_str": "01:54.588",
+      "text": "奔向宽阔的最远处",
+      "translation": null
+    },
+    {
+      "time": 117.939,
+      "time_str": "01:57.939",
+      "text": "沉默加速度是我的脚步",
+      "translation": null
+    },
+    {
+      "time": 121.619,
+      "time_str": "02:01.619",
+      "text": "奔跑在视线里的路",
+      "translation": null
+    },
+    {
+      "time": 124.619,
+      "time_str": "02:04.619",
+      "text": "我不要祝福不理会孤独",
+      "translation": null
+    },
+    {
+      "time": 128.79,
+      "time_str": "02:08.790",
+      "text": "奔向最远处",
+      "translation": null
+    },
+    {
+      "time": 166.28,
+      "time_str": "02:46.280",
+      "text": "沉默加速度是我的脚步",
+      "translation": null
+    },
+    {
+      "time": 170.16,
+      "time_str": "02:50.160",
+      "text": "奔跑在视线里的路",
+      "translation": null
+    },
+    {
+      "time": 173.1,
+      "time_str": "02:53.100",
+      "text": "我不要祝福不理会孤独",
+      "translation": null
+    },
+    {
+      "time": 176.61,
+      "time_str": "02:56.610",
+      "text": "奔向宽阔的最远处",
+      "translation": null
+    },
+    {
+      "time": 180.18,
+      "time_str": "03:00.180",
+      "text": "沉默加速度是我的脚步",
+      "translation": null
+    },
+    {
+      "time": 183.64,
+      "time_str": "03:03.640",
+      "text": "奔跑在视线里的路",
+      "translation": null
+    },
+    {
+      "time": 186.74,
+      "time_str": "03:06.740",
+      "text": "我不要祝福不理会孤独",
+      "translation": null
+    },
+    {
+      "time": 190.3,
+      "time_str": "03:10.300",
+      "text": "奔向最远处",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "加速度 - 瞿颖.lrc"
+}

@@ -1,0 +1,214 @@
+{
+  "title": "还是好朋友",
+  "title_raw": "还是好朋友",
+  "version": null,
+  "artist": "古巨基,梁静茹",
+  "group_key": "还是好朋友|古巨基,梁静茹",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "黄韵玲",
+    "arranger": "钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 40.599,
+      "time_str": "00:40.599",
+      "text": "没有人要内疚 没需要缘由",
+      "translation": null
+    },
+    {
+      "time": 49.729,
+      "time_str": "00:49.729",
+      "text": "在十字街头 就相互保佑",
+      "translation": null
+    },
+    {
+      "time": 58.307,
+      "time_str": "00:58.307",
+      "text": "那些体贴问候 那美丽镜头",
+      "translation": null
+    },
+    {
+      "time": 65.033,
+      "time_str": "01:05.033",
+      "text": "没必要一分开就变成了诅咒",
+      "translation": null
+    },
+    {
+      "time": 72.893,
+      "time_str": "01:12.893",
+      "text": "相爱这一场",
+      "translation": null
+    },
+    {
+      "time": 75.091,
+      "time_str": "01:15.091",
+      "text": "可能是为了",
+      "translation": null
+    },
+    {
+      "time": 76.793,
+      "time_str": "01:16.793",
+      "text": "能拥有一个好朋友",
+      "translation": null
+    },
+    {
+      "time": 83.223,
+      "time_str": "01:23.223",
+      "text": "还是好朋友 比爱人长久",
+      "translation": null
+    },
+    {
+      "time": 87.412,
+      "time_str": "01:27.412",
+      "text": "不能牵的手按在心头",
+      "translation": null
+    },
+    {
+      "time": 90.293,
+      "time_str": "01:30.293",
+      "text": "在最寂寞的关头 永远在左右",
+      "translation": null
+    },
+    {
+      "time": 98.884,
+      "time_str": "01:38.884",
+      "text": "事过情迁后",
+      "translation": null
+    },
+    {
+      "time": 100.985,
+      "time_str": "01:40.985",
+      "text": "（升华以后）升华眼泪后",
+      "translation": null
+    },
+    {
+      "time": 103.134,
+      "time_str": "01:43.134",
+      "text": "思念是最漫长的享受",
+      "translation": null
+    },
+    {
+      "time": 107.274,
+      "time_str": "01:47.274",
+      "text": "（漫长的享受）",
+      "translation": null
+    },
+    {
+      "time": 108.553,
+      "time_str": "01:48.553",
+      "text": "那无痛的伤口 还带着温柔到白头",
+      "translation": null
+    },
+    {
+      "time": 124.103,
+      "time_str": "02:04.103",
+      "text": "亲吻失去感受 火花烧到尽头",
+      "translation": null
+    },
+    {
+      "time": 134.153,
+      "time_str": "02:14.153",
+      "text": "没激情有感情",
+      "translation": null
+    },
+    {
+      "time": 138.084,
+      "time_str": "02:18.084",
+      "text": "有另一种邂逅",
+      "translation": null
+    },
+    {
+      "time": 141.825,
+      "time_str": "02:21.825",
+      "text": "相爱这一场",
+      "translation": null
+    },
+    {
+      "time": 144.145,
+      "time_str": "02:24.145",
+      "text": "可能是为了",
+      "translation": null
+    },
+    {
+      "time": 145.994,
+      "time_str": "02:25.994",
+      "text": "能拥有一个好朋友",
+      "translation": null
+    },
+    {
+      "time": 152.785,
+      "time_str": "02:32.785",
+      "text": "还是好朋友 比爱人长久",
+      "translation": null
+    },
+    {
+      "time": 156.724,
+      "time_str": "02:36.724",
+      "text": "不能牵的手按在心头",
+      "translation": null
+    },
+    {
+      "time": 161.085,
+      "time_str": "02:41.085",
+      "text": "在最寂寞的关头 永远在左右",
+      "translation": null
+    },
+    {
+      "time": 167.966,
+      "time_str": "02:47.966",
+      "text": "事过情迁后 合（升华以后）升华眼泪后",
+      "translation": null
+    },
+    {
+      "time": 172.194,
+      "time_str": "02:52.194",
+      "text": "思念是最漫长的享受（漫长的享受）",
+      "translation": null
+    },
+    {
+      "time": 176.123,
+      "time_str": "02:56.123",
+      "text": "那无痛的伤口 还带着温柔到白头",
+      "translation": null
+    },
+    {
+      "time": 187.894,
+      "time_str": "03:07.894",
+      "text": "还是好朋友 比爱人长久",
+      "translation": null
+    },
+    {
+      "time": 191.504,
+      "time_str": "03:11.504",
+      "text": "不能牵的手按在心头",
+      "translation": null
+    },
+    {
+      "time": 195.705,
+      "time_str": "03:15.705",
+      "text": "在最寂寞的关头 永远在左右",
+      "translation": null
+    },
+    {
+      "time": 203.343,
+      "time_str": "03:23.343",
+      "text": "事过情迁后（升华以后）升华眼泪后",
+      "translation": null
+    },
+    {
+      "time": 206.843,
+      "time_str": "03:26.843",
+      "text": "思念是最漫长的享受（漫长的享受）",
+      "translation": null
+    },
+    {
+      "time": 211.294,
+      "time_str": "03:31.294",
+      "text": "是什么叫你我 只配做一对好朋友",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "还是好朋友 - 古巨基,梁静茹.lrc"
+}

@@ -1,0 +1,304 @@
+{
+  "title": "小情歌",
+  "title_raw": "小情歌",
+  "version": null,
+  "artist": "苏打绿",
+  "group_key": "小情歌|苏打绿",
+  "writers": {
+    "lyricist": "吴青峰",
+    "composer": "吴青峰",
+    "arranger": "苏打绿"
+  },
+  "lyrics": [
+    {
+      "time": 2.239,
+      "time_str": "00:02.239",
+      "text": "制作助理：谢馨仪",
+      "translation": null
+    },
+    {
+      "time": 5.239,
+      "time_str": "00:05.239",
+      "text": "母带后期处理：杨大纬@超音素 杨大纬工作室",
+      "translation": null
+    },
+    {
+      "time": 6.239,
+      "time_str": "00:06.239",
+      "text": "钢琴 / 键盘 / 中提琴：龚钰祺",
+      "translation": null
+    },
+    {
+      "time": 7.239,
+      "time_str": "00:07.239",
+      "text": "鼓 / Percussion：史俊威",
+      "translation": null
+    },
+    {
+      "time": 8.239,
+      "time_str": "00:08.239",
+      "text": "贝斯：谢馨仪",
+      "translation": null
+    },
+    {
+      "time": 9.239,
+      "time_str": "00:09.239",
+      "text": "木吉他：何景扬",
+      "translation": null
+    },
+    {
+      "time": 10.239,
+      "time_str": "00:10.239",
+      "text": "电吉他：刘家凯",
+      "translation": null
+    },
+    {
+      "time": 11.239,
+      "time_str": "00:11.239",
+      "text": "合音 / 合音编写 / 键盘：吴青峰",
+      "translation": null
+    },
+    {
+      "time": 13.239,
+      "time_str": "00:13.239",
+      "text": "SP：林暐哲音乐社有限公司",
+      "translation": null
+    },
+    {
+      "time": 29.67,
+      "time_str": "00:29.670",
+      "text": "这是一首简单的小情歌",
+      "translation": null
+    },
+    {
+      "time": 36.85,
+      "time_str": "00:36.850",
+      "text": "唱着人们心肠的曲折",
+      "translation": null
+    },
+    {
+      "time": 42.99,
+      "time_str": "00:42.990",
+      "text": "我想我很快乐",
+      "translation": null
+    },
+    {
+      "time": 46.67,
+      "time_str": "00:46.670",
+      "text": "当有你的温热",
+      "translation": null
+    },
+    {
+      "time": 50.91,
+      "time_str": "00:50.910",
+      "text": "脚边的空气转了",
+      "translation": null
+    },
+    {
+      "time": 73.278,
+      "time_str": "01:13.278",
+      "text": "这是一首简单的小情歌",
+      "translation": null
+    },
+    {
+      "time": 80.59,
+      "time_str": "01:20.590",
+      "text": "唱着我们心头的白鸽",
+      "translation": null
+    },
+    {
+      "time": 86.76,
+      "time_str": "01:26.760",
+      "text": "我想我很适合",
+      "translation": null
+    },
+    {
+      "time": 90.358,
+      "time_str": "01:30.358",
+      "text": "当一个歌颂者",
+      "translation": null
+    },
+    {
+      "time": 94.65,
+      "time_str": "01:34.650",
+      "text": "青春在风中飘着",
+      "translation": null
+    },
+    {
+      "time": 101.29,
+      "time_str": "01:41.290",
+      "text": "你知道就算大雨让整座城市颠倒",
+      "translation": null
+    },
+    {
+      "time": 106.18,
+      "time_str": "01:46.180",
+      "text": "我会给你怀抱",
+      "translation": null
+    },
+    {
+      "time": 108.61,
+      "time_str": "01:48.610",
+      "text": "受不了看见你背影来到",
+      "translation": null
+    },
+    {
+      "time": 112.129,
+      "time_str": "01:52.129",
+      "text": "写下我度秒如年难捱的离骚",
+      "translation": null
+    },
+    {
+      "time": 116.87,
+      "time_str": "01:56.870",
+      "text": "就算整个世界被寂寞绑票",
+      "translation": null
+    },
+    {
+      "time": 120.599,
+      "time_str": "02:00.599",
+      "text": "我也不会奔跑",
+      "translation": null
+    },
+    {
+      "time": 123.09,
+      "time_str": "02:03.090",
+      "text": "逃不了最后谁也都苍老",
+      "translation": null
+    },
+    {
+      "time": 126.68,
+      "time_str": "02:06.680",
+      "text": "写下我时间和琴声交错的城堡",
+      "translation": null
+    },
+    {
+      "time": 149.81,
+      "time_str": "02:29.810",
+      "text": "这是一首简单的小情歌",
+      "translation": null
+    },
+    {
+      "time": 156.849,
+      "time_str": "02:36.849",
+      "text": "唱着我们心头的白鸽",
+      "translation": null
+    },
+    {
+      "time": 163.169,
+      "time_str": "02:43.169",
+      "text": "我想我很适合",
+      "translation": null
+    },
+    {
+      "time": 166.799,
+      "time_str": "02:46.799",
+      "text": "当一个歌颂者",
+      "translation": null
+    },
+    {
+      "time": 170.929,
+      "time_str": "02:50.929",
+      "text": "青春在风中飘着",
+      "translation": null
+    },
+    {
+      "time": 177.649,
+      "time_str": "02:57.649",
+      "text": "你知道就算大雨让整座城市颠倒",
+      "translation": null
+    },
+    {
+      "time": 182.519,
+      "time_str": "03:02.519",
+      "text": "我会给你怀抱",
+      "translation": null
+    },
+    {
+      "time": 184.989,
+      "time_str": "03:04.989",
+      "text": "受不了看见你背影来到",
+      "translation": null
+    },
+    {
+      "time": 188.539,
+      "time_str": "03:08.539",
+      "text": "写下我度秒如年难捱的离骚",
+      "translation": null
+    },
+    {
+      "time": 193.199,
+      "time_str": "03:13.199",
+      "text": "就算整个世界被寂寞绑票",
+      "translation": null
+    },
+    {
+      "time": 197.039,
+      "time_str": "03:17.039",
+      "text": "我也不会奔跑",
+      "translation": null
+    },
+    {
+      "time": 199.53,
+      "time_str": "03:19.530",
+      "text": "逃不了最后谁也都苍老",
+      "translation": null
+    },
+    {
+      "time": 202.929,
+      "time_str": "03:22.929",
+      "text": "写下我时间和琴声交错的城堡",
+      "translation": null
+    },
+    {
+      "time": 209.849,
+      "time_str": "03:29.849",
+      "text": "你知道就算大雨让整座城市颠倒",
+      "translation": null
+    },
+    {
+      "time": 215.149,
+      "time_str": "03:35.149",
+      "text": "我会给你怀抱",
+      "translation": null
+    },
+    {
+      "time": 217.669,
+      "time_str": "03:37.669",
+      "text": "受不了看见你背影来到",
+      "translation": null
+    },
+    {
+      "time": 221.579,
+      "time_str": "03:41.579",
+      "text": "写下我度秒如年难捱的离骚",
+      "translation": null
+    },
+    {
+      "time": 226.019,
+      "time_str": "03:46.019",
+      "text": "就算整个世界被寂寞绑票",
+      "translation": null
+    },
+    {
+      "time": 229.799,
+      "time_str": "03:49.799",
+      "text": "我也不会奔跑",
+      "translation": null
+    },
+    {
+      "time": 233.239,
+      "time_str": "03:53.239",
+      "text": "最后谁也都苍老",
+      "translation": null
+    },
+    {
+      "time": 235.639,
+      "time_str": "03:55.639",
+      "text": "写下我时间和琴声交错的城堡",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "小情歌 - 苏打绿.lrc"
+}

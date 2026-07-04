@@ -1,0 +1,340 @@
+{
+  "title": "孤雏",
+  "title_raw": "孤雏",
+  "version": null,
+  "artist": "AGA",
+  "group_key": "孤雏|aga",
+  "writers": {
+    "lyricist": "林若宁",
+    "composer": "AGA",
+    "arranger": "Johnny Yim"
+  },
+  "lyrics": [
+    {
+      "time": 22.37,
+      "time_str": "00:22.370",
+      "text": "我的伤心",
+      "translation": null
+    },
+    {
+      "time": 24.7,
+      "time_str": "00:24.700",
+      "text": "衬托你的伤心",
+      "translation": null
+    },
+    {
+      "time": 28.58,
+      "time_str": "00:28.580",
+      "text": "尴尬身份给你慰问",
+      "translation": null
+    },
+    {
+      "time": 34.58,
+      "time_str": "00:34.580",
+      "text": "同时做失恋者也好",
+      "translation": null
+    },
+    {
+      "time": 39.56,
+      "time_str": "00:39.560",
+      "text": "我与你都总算衬",
+      "translation": null
+    },
+    {
+      "time": 47.04,
+      "time_str": "00:47.040",
+      "text": "你的开心",
+      "translation": null
+    },
+    {
+      "time": 48.98,
+      "time_str": "00:48.980",
+      "text": "我会故作开心",
+      "translation": null
+    },
+    {
+      "time": 52.83,
+      "time_str": "00:52.830",
+      "text": "至少心声比较接近",
+      "translation": null
+    },
+    {
+      "time": 58.7,
+      "time_str": "00:58.700",
+      "text": "只怪自己口不对心",
+      "translation": null
+    },
+    {
+      "time": 63.92,
+      "time_str": "01:03.920",
+      "text": "更怕你开始过敏",
+      "translation": null
+    },
+    {
+      "time": 70.02,
+      "time_str": "01:10.020",
+      "text": "无情人做对孤雏",
+      "translation": null
+    },
+    {
+      "time": 73.71,
+      "time_str": "01:13.710",
+      "text": "暂时度过坎坷",
+      "translation": null
+    },
+    {
+      "time": 75.99,
+      "time_str": "01:15.990",
+      "text": "苦海中不至独处至少互相依赖过",
+      "translation": null
+    },
+    {
+      "time": 82.77,
+      "time_str": "01:22.770",
+      "text": "行人路里穿梭",
+      "translation": null
+    },
+    {
+      "time": 85.84,
+      "time_str": "01:25.840",
+      "text": "在旁为你哼歌",
+      "translation": null
+    },
+    {
+      "time": 88.18,
+      "time_str": "01:28.180",
+      "text": "你永远并非一个",
+      "translation": null
+    },
+    {
+      "time": 94.48,
+      "time_str": "01:34.480",
+      "text": "无人时别理亲疏",
+      "translation": null
+    },
+    {
+      "time": 98.0,
+      "time_str": "01:38.000",
+      "text": "二人暂借星火",
+      "translation": null
+    },
+    {
+      "time": 100.32,
+      "time_str": "01:40.320",
+      "text": "这分钟仿似伴侣至少并非孤独过",
+      "translation": null
+    },
+    {
+      "time": 106.97,
+      "time_str": "01:46.970",
+      "text": "若平伏你风波",
+      "translation": null
+    },
+    {
+      "time": 110.25,
+      "time_str": "01:50.250",
+      "text": "便和睦似当初",
+      "translation": null
+    },
+    {
+      "time": 112.63,
+      "time_str": "01:52.630",
+      "text": "你痛了先需要我",
+      "translation": null
+    },
+    {
+      "time": 125.85,
+      "time_str": "02:05.850",
+      "text": "见你欢欣",
+      "translation": null
+    },
+    {
+      "time": 128.22,
+      "time_str": "02:08.220",
+      "text": "我会尽快抽身",
+      "translation": null
+    },
+    {
+      "time": 131.75,
+      "time_str": "02:11.750",
+      "text": "维持在一公尺远近",
+      "translation": null
+    },
+    {
+      "time": 137.82,
+      "time_str": "02:17.820",
+      "text": "今晚自己哼一句歌去替我自己悲悯",
+      "translation": null
+    },
+    {
+      "time": 149.26,
+      "time_str": "02:29.260",
+      "text": "无情人做对孤雏",
+      "translation": null
+    },
+    {
+      "time": 152.78,
+      "time_str": "02:32.780",
+      "text": "暂时度过坎坷",
+      "translation": null
+    },
+    {
+      "time": 154.98,
+      "time_str": "02:34.980",
+      "text": "苦海中不至独处至少互相依赖过",
+      "translation": null
+    },
+    {
+      "time": 161.76,
+      "time_str": "02:41.760",
+      "text": "行人路裡穿梭",
+      "translation": null
+    },
+    {
+      "time": 164.92,
+      "time_str": "02:44.920",
+      "text": "在旁为你哼歌",
+      "translation": null
+    },
+    {
+      "time": 167.03,
+      "time_str": "02:47.030",
+      "text": "你永远并非一个",
+      "translation": null
+    },
+    {
+      "time": 173.47,
+      "time_str": "02:53.470",
+      "text": "无人时别理亲疏",
+      "translation": null
+    },
+    {
+      "time": 176.95,
+      "time_str": "02:56.950",
+      "text": "二人暂借星火",
+      "translation": null
+    },
+    {
+      "time": 179.24,
+      "time_str": "02:59.240",
+      "text": "这分钟仿似伴侣至少并非孤独过",
+      "translation": null
+    },
+    {
+      "time": 186.25,
+      "time_str": "03:06.250",
+      "text": "若平伏你风波",
+      "translation": null
+    },
+    {
+      "time": 189.28,
+      "time_str": "03:09.280",
+      "text": "便和睦似当初",
+      "translation": null
+    },
+    {
+      "time": 191.46,
+      "time_str": "03:11.460",
+      "text": "你痛了先需要我",
+      "translation": null
+    },
+    {
+      "time": 197.78,
+      "time_str": "03:17.780",
+      "text": "到你爱上可人儿",
+      "translation": null
+    },
+    {
+      "time": 202.09,
+      "time_str": "03:22.090",
+      "text": "姑且删去了我位置",
+      "translation": null
+    },
+    {
+      "time": 209.67,
+      "time_str": "03:29.670",
+      "text": "带有醋意的仁慈",
+      "translation": null
+    },
+    {
+      "time": 214.21,
+      "time_str": "03:34.210",
+      "text": "言词当中的意思很想你知知不知",
+      "translation": null
+    },
+    {
+      "time": 220.13,
+      "time_str": "03:40.130",
+      "text": "做对孤雏",
+      "translation": null
+    },
+    {
+      "time": 222.49,
+      "time_str": "03:42.490",
+      "text": "暂时度过坎坷",
+      "translation": null
+    },
+    {
+      "time": 224.84,
+      "time_str": "03:44.840",
+      "text": "苦海中不至独处至少互相依赖过",
+      "translation": null
+    },
+    {
+      "time": 231.65,
+      "time_str": "03:51.650",
+      "text": "行人路裡穿梭",
+      "translation": null
+    },
+    {
+      "time": 234.73,
+      "time_str": "03:54.730",
+      "text": "在旁为你哼歌",
+      "translation": null
+    },
+    {
+      "time": 236.99,
+      "time_str": "03:56.990",
+      "text": "你永远并非一个",
+      "translation": null
+    },
+    {
+      "time": 243.34,
+      "time_str": "04:03.340",
+      "text": "难停留在你心窝",
+      "translation": null
+    },
+    {
+      "time": 246.91,
+      "time_str": "04:06.910",
+      "text": "做回路过孤雏",
+      "translation": null
+    },
+    {
+      "time": 249.15,
+      "time_str": "04:09.150",
+      "text": "虽知这一世令你幸福或者不是我",
+      "translation": null
+    },
+    {
+      "time": 255.97,
+      "time_str": "04:15.970",
+      "text": "自言自语都可",
+      "translation": null
+    },
+    {
+      "time": 259.07,
+      "time_str": "04:19.070",
+      "text": "自怜自爱都可",
+      "translation": null
+    },
+    {
+      "time": 261.41,
+      "time_str": "04:21.410",
+      "text": "你笑了不需要我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "孤雏 - AGA.lrc"
+}

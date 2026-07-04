@@ -1,0 +1,148 @@
+{
+  "title": "昨夜星辰",
+  "title_raw": "昨夜星辰",
+  "version": null,
+  "artist": "高胜美",
+  "group_key": "昨夜星辰|高胜美",
+  "writers": {
+    "lyricist": "吴桓",
+    "composer": "张勇强",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.02,
+      "time_str": "00:18.020",
+      "text": "昨夜的",
+      "translation": null
+    },
+    {
+      "time": 18.92,
+      "time_str": "00:18.920",
+      "text": "昨夜的星辰已坠落",
+      "translation": null
+    },
+    {
+      "time": 28.23,
+      "time_str": "00:28.230",
+      "text": "消失在遥远的银河",
+      "translation": null
+    },
+    {
+      "time": 37.23,
+      "time_str": "00:37.230",
+      "text": "想记起偏又已忘记",
+      "translation": null
+    },
+    {
+      "time": 44.83,
+      "time_str": "00:44.830",
+      "text": "那份爱换来的是寂寞",
+      "translation": null
+    },
+    {
+      "time": 54.58,
+      "time_str": "00:54.580",
+      "text": "爱是不变的星辰",
+      "translation": null
+    },
+    {
+      "time": 57.88,
+      "time_str": "00:57.880",
+      "text": "爱是永恒的星辰",
+      "translation": null
+    },
+    {
+      "time": 62.56,
+      "time_str": "01:02.560",
+      "text": "绝不会在银河中坠落",
+      "translation": null
+    },
+    {
+      "time": 71.76,
+      "time_str": "01:11.760",
+      "text": "常忆着那份情那份爱",
+      "translation": null
+    },
+    {
+      "time": 80.88,
+      "time_str": "01:20.880",
+      "text": "今夜星辰今夜星辰",
+      "translation": null
+    },
+    {
+      "time": 83.63,
+      "time_str": "01:23.630",
+      "text": "依然闪烁……",
+      "translation": null
+    },
+    {
+      "time": 106.34,
+      "time_str": "01:46.340",
+      "text": "今夜的",
+      "translation": null
+    },
+    {
+      "time": 107.14,
+      "time_str": "01:47.140",
+      "text": "今夜的星辰依然闪烁",
+      "translation": null
+    },
+    {
+      "time": 117.1,
+      "time_str": "01:57.100",
+      "text": "像眼神点燃爱的火",
+      "translation": null
+    },
+    {
+      "time": 125.55,
+      "time_str": "02:05.550",
+      "text": "想得到偏又怕失去",
+      "translation": null
+    },
+    {
+      "time": 133.36,
+      "time_str": "02:13.360",
+      "text": "那份爱深深埋在心窝",
+      "translation": null
+    },
+    {
+      "time": 143.16,
+      "time_str": "02:23.160",
+      "text": "爱是不变的星辰",
+      "translation": null
+    },
+    {
+      "time": 147.06,
+      "time_str": "02:27.060",
+      "text": "爱是永恒的星辰",
+      "translation": null
+    },
+    {
+      "time": 151.21,
+      "time_str": "02:31.210",
+      "text": "绝不会在银河中坠落",
+      "translation": null
+    },
+    {
+      "time": 160.32,
+      "time_str": "02:40.320",
+      "text": "常忆着那份情那份爱",
+      "translation": null
+    },
+    {
+      "time": 169.12,
+      "time_str": "02:49.120",
+      "text": "今夜星辰今夜星辰",
+      "translation": null
+    },
+    {
+      "time": 171.88,
+      "time_str": "02:51.880",
+      "text": "依然闪烁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "昨夜星辰 - 高胜美.lrc"
+}

@@ -1,0 +1,334 @@
+{
+  "title": "一生爱你千百回",
+  "title_raw": "一生爱你千百回",
+  "version": null,
+  "artist": "梅艳芳",
+  "group_key": "一生爱你千百回|梅艳芳",
+  "writers": {
+    "lyricist": "陈佳明",
+    "composer": "叶良俊",
+    "arranger": "Ricky Ho"
+  },
+  "lyrics": [
+    {
+      "time": 23.05,
+      "time_str": "00:23.050",
+      "text": "日夜为你着迷时刻为你挂虑",
+      "translation": null
+    },
+    {
+      "time": 27.16,
+      "time_str": "00:27.160",
+      "text": "思念是不留余地",
+      "translation": null
+    },
+    {
+      "time": 31.38,
+      "time_str": "00:31.380",
+      "text": "已是曾经沧海即使百般煎熬",
+      "translation": null
+    },
+    {
+      "time": 35.42,
+      "time_str": "00:35.420",
+      "text": "终究觉得你最好",
+      "translation": null
+    },
+    {
+      "time": 38.77,
+      "time_str": "00:38.770",
+      "text": "管不了外面风风雨雨心中念的是你",
+      "translation": null
+    },
+    {
+      "time": 43.43,
+      "time_str": "00:43.430",
+      "text": "只想和你在一起",
+      "translation": null
+    },
+    {
+      "time": 46.72,
+      "time_str": "00:46.720",
+      "text": "我要你看清我的决心相信我的柔情",
+      "translation": null
+    },
+    {
+      "time": 51.03,
+      "time_str": "00:51.030",
+      "text": "明白我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 54.53,
+      "time_str": "00:54.530",
+      "text": "一转眼青春如梦岁月如梭不回头",
+      "translation": null
+    },
+    {
+      "time": 58.55,
+      "time_str": "00:58.550",
+      "text": "而我完全付出不保留",
+      "translation": null
+    },
+    {
+      "time": 62.584,
+      "time_str": "01:02.584",
+      "text": "天知道什么时候地点原因会分手",
+      "translation": null
+    },
+    {
+      "time": 66.555,
+      "time_str": "01:06.555",
+      "text": "只要能爱就要爱个够",
+      "translation": null
+    },
+    {
+      "time": 70.281,
+      "time_str": "01:10.281",
+      "text": "我要飞越春夏秋冬飞越千山万水",
+      "translation": null
+    },
+    {
+      "time": 75.04,
+      "time_str": "01:15.040",
+      "text": "带给你所有沉醉",
+      "translation": null
+    },
+    {
+      "time": 78.349,
+      "time_str": "01:18.349",
+      "text": "我要天天与你相对夜夜拥你入睡",
+      "translation": null
+    },
+    {
+      "time": 83.203,
+      "time_str": "01:23.203",
+      "text": "梦过了尽头也不归",
+      "translation": null
+    },
+    {
+      "time": 86.48,
+      "time_str": "01:26.480",
+      "text": "我要飞越春夏秋冬飞越千山万水",
+      "translation": null
+    },
+    {
+      "time": 91.173,
+      "time_str": "01:31.173",
+      "text": "守住你给我的美",
+      "translation": null
+    },
+    {
+      "time": 94.533,
+      "time_str": "01:34.533",
+      "text": "我要天天与你相对夜夜拥你入睡",
+      "translation": null
+    },
+    {
+      "time": 99.063,
+      "time_str": "01:39.063",
+      "text": "要一生爱你千百回",
+      "translation": null
+    },
+    {
+      "time": 139.638,
+      "time_str": "02:19.638",
+      "text": "日夜为你着迷时刻为你挂虑",
+      "translation": null
+    },
+    {
+      "time": 143.441,
+      "time_str": "02:23.441",
+      "text": "思念是不留余地",
+      "translation": null
+    },
+    {
+      "time": 147.388,
+      "time_str": "02:27.388",
+      "text": "已是曾经沧海即使百般煎熬",
+      "translation": null
+    },
+    {
+      "time": 151.019,
+      "time_str": "02:31.019",
+      "text": "终究觉得你最好",
+      "translation": null
+    },
+    {
+      "time": 154.579,
+      "time_str": "02:34.579",
+      "text": "管不了外面风风雨雨心中念的是你",
+      "translation": null
+    },
+    {
+      "time": 159.192,
+      "time_str": "02:39.192",
+      "text": "只想和你在一起",
+      "translation": null
+    },
+    {
+      "time": 162.851,
+      "time_str": "02:42.851",
+      "text": "我要你看清我的决心相信我的柔情",
+      "translation": null
+    },
+    {
+      "time": 167.232,
+      "time_str": "02:47.232",
+      "text": "明白我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 170.699,
+      "time_str": "02:50.699",
+      "text": "一转眼青春如梦岁月如梭不回头",
+      "translation": null
+    },
+    {
+      "time": 174.949,
+      "time_str": "02:54.949",
+      "text": "而我完全付出不保留",
+      "translation": null
+    },
+    {
+      "time": 178.64,
+      "time_str": "02:58.640",
+      "text": "天知道什么时候地点原因会分手",
+      "translation": null
+    },
+    {
+      "time": 182.599,
+      "time_str": "03:02.599",
+      "text": "只要能爱就要爱个够",
+      "translation": null
+    },
+    {
+      "time": 186.396,
+      "time_str": "03:06.396",
+      "text": "我要飞越春夏秋冬飞越千山万水",
+      "translation": null
+    },
+    {
+      "time": 191.119,
+      "time_str": "03:11.119",
+      "text": "带给你所有沉醉",
+      "translation": null
+    },
+    {
+      "time": 194.497,
+      "time_str": "03:14.497",
+      "text": "我要天天与你相对夜夜拥你入睡",
+      "translation": null
+    },
+    {
+      "time": 199.168,
+      "time_str": "03:19.168",
+      "text": "梦过了尽头也不归",
+      "translation": null
+    },
+    {
+      "time": 202.479,
+      "time_str": "03:22.479",
+      "text": "我要飞越春夏秋冬飞越千山万水",
+      "translation": null
+    },
+    {
+      "time": 207.138,
+      "time_str": "03:27.138",
+      "text": "守住你给我的美",
+      "translation": null
+    },
+    {
+      "time": 210.5,
+      "time_str": "03:30.500",
+      "text": "我要天天与你相对夜夜拥你入睡",
+      "translation": null
+    },
+    {
+      "time": 215.471,
+      "time_str": "03:35.471",
+      "text": "要一生爱你千百回",
+      "translation": null
+    },
+    {
+      "time": 218.86,
+      "time_str": "03:38.860",
+      "text": "我要飞越春夏秋冬飞越千山万水",
+      "translation": null
+    },
+    {
+      "time": 223.192,
+      "time_str": "03:43.192",
+      "text": "带给你所有沉醉",
+      "translation": null
+    },
+    {
+      "time": 226.281,
+      "time_str": "03:46.281",
+      "text": "我要天天与你相对夜夜拥你入睡",
+      "translation": null
+    },
+    {
+      "time": 230.949,
+      "time_str": "03:50.949",
+      "text": "梦过了尽头也不归",
+      "translation": null
+    },
+    {
+      "time": 234.422,
+      "time_str": "03:54.422",
+      "text": "我要飞越春夏秋冬飞越千山万水",
+      "translation": null
+    },
+    {
+      "time": 239.449,
+      "time_str": "03:59.449",
+      "text": "守住你给我的美",
+      "translation": null
+    },
+    {
+      "time": 242.539,
+      "time_str": "04:02.539",
+      "text": "我要天天与你相对夜夜拥你入睡",
+      "translation": null
+    },
+    {
+      "time": 247.036,
+      "time_str": "04:07.036",
+      "text": "要一生爱你千百回",
+      "translation": null
+    },
+    {
+      "time": 250.579,
+      "time_str": "04:10.579",
+      "text": "我要天天与你相对夜夜拥你入睡",
+      "translation": null
+    },
+    {
+      "time": 255.269,
+      "time_str": "04:15.269",
+      "text": "要一生爱你千百回",
+      "translation": null
+    },
+    {
+      "time": 265.192,
+      "time_str": "04:25.192",
+      "text": "制作助理：彭学斌",
+      "translation": null
+    },
+    {
+      "time": 267.192,
+      "time_str": "04:27.192",
+      "text": "胡琴：温金龙",
+      "translation": null
+    },
+    {
+      "time": 271.192,
+      "time_str": "04:31.192",
+      "text": "混音室：白金录音室",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一生爱你千百回 - 梅艳芳.lrc"
+}

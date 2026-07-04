@@ -1,0 +1,220 @@
+{
+  "title": "明明就",
+  "title_raw": "明明就",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "明明就|周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "黄雨勋"
+  },
+  "lyrics": [
+    {
+      "time": 3.66,
+      "time_str": "00:03.660",
+      "text": "执行制作 : 罗宇轩/李旺哲",
+      "translation": null
+    },
+    {
+      "time": 6.41,
+      "time_str": "00:06.410",
+      "text": "第一小提琴 : 王心为/陈晏榕",
+      "translation": null
+    },
+    {
+      "time": 7.33,
+      "time_str": "00:07.330",
+      "text": "第二小提琴 : 周有玓/骆思云",
+      "translation": null
+    },
+    {
+      "time": 8.25,
+      "time_str": "00:08.250",
+      "text": "中提琴 : 叶棣绮/黄馨颖",
+      "translation": null
+    },
+    {
+      "time": 9.17,
+      "time_str": "00:09.170",
+      "text": "大提琴 : 刘涵/张道文",
+      "translation": null
+    },
+    {
+      "time": 12.83,
+      "time_str": "00:12.830",
+      "text": "混音室 : 杨大纬录音工作室",
+      "translation": null
+    },
+    {
+      "time": 14.67,
+      "time_str": "00:14.670",
+      "text": "SP : Sony/ATV Music Publishing",
+      "translation": null
+    },
+    {
+      "time": 19.6,
+      "time_str": "00:19.600",
+      "text": "糖果罐里好多颜色 微笑却不甜了",
+      "translation": null
+    },
+    {
+      "time": 28.04,
+      "time_str": "00:28.040",
+      "text": "你的某些快乐 在没有我的时刻",
+      "translation": null
+    },
+    {
+      "time": 36.48,
+      "time_str": "00:36.480",
+      "text": "中古世纪的城市里 我想就走到这",
+      "translation": null
+    },
+    {
+      "time": 44.88,
+      "time_str": "00:44.880",
+      "text": "海鸥不再眷恋大海 可以飞更远",
+      "translation": null
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "远方传来风笛 我只在意有你的消息",
+      "translation": null
+    },
+    {
+      "time": 60.2,
+      "time_str": "01:00.200",
+      "text": "城堡为爱守着秘密 而我为你守着回忆",
+      "translation": null
+    },
+    {
+      "time": 68.23,
+      "time_str": "01:08.230",
+      "text": "明明就 不习惯 牵手",
+      "translation": null
+    },
+    {
+      "time": 72.08,
+      "time_str": "01:12.080",
+      "text": "为何却主动把手勾",
+      "translation": null
+    },
+    {
+      "time": 76.27,
+      "time_str": "01:16.270",
+      "text": "你的心事太多 我不会戳破",
+      "translation": null
+    },
+    {
+      "time": 84.82,
+      "time_str": "01:24.820",
+      "text": "明明就 他比较 温柔",
+      "translation": null
+    },
+    {
+      "time": 88.91,
+      "time_str": "01:28.910",
+      "text": "也许他能给你更多",
+      "translation": null
+    },
+    {
+      "time": 94.32,
+      "time_str": "01:34.320",
+      "text": "不用抉择 我会自动变朋友",
+      "translation": null
+    },
+    {
+      "time": 116.86,
+      "time_str": "01:56.860",
+      "text": "糖果罐里好多颜色 微笑却不甜了",
+      "translation": null
+    },
+    {
+      "time": 125.31,
+      "time_str": "02:05.310",
+      "text": "你的某些快乐 在没有我的时刻",
+      "translation": null
+    },
+    {
+      "time": 133.74,
+      "time_str": "02:13.740",
+      "text": "中古世纪的城市里 我想就走到这",
+      "translation": null
+    },
+    {
+      "time": 142.09,
+      "time_str": "02:22.090",
+      "text": "海鸥不再眷恋大海 可以飞更远",
+      "translation": null
+    },
+    {
+      "time": 148.82,
+      "time_str": "02:28.820",
+      "text": "远方传来风笛 我只在意有你的消息",
+      "translation": null
+    },
+    {
+      "time": 157.31,
+      "time_str": "02:37.310",
+      "text": "城堡为爱守着秘密 而我为你守着回忆",
+      "translation": null
+    },
+    {
+      "time": 165.24,
+      "time_str": "02:45.240",
+      "text": "明明就 不习惯 牵手",
+      "translation": null
+    },
+    {
+      "time": 169.33,
+      "time_str": "02:49.330",
+      "text": "为何却主动把手勾",
+      "translation": null
+    },
+    {
+      "time": 173.38,
+      "time_str": "02:53.380",
+      "text": "你的心事太多 我不会戳破",
+      "translation": null
+    },
+    {
+      "time": 182.03,
+      "time_str": "03:02.030",
+      "text": "明明就 他比较 温柔",
+      "translation": null
+    },
+    {
+      "time": 186.12,
+      "time_str": "03:06.120",
+      "text": "也许他能给你更多",
+      "translation": null
+    },
+    {
+      "time": 191.83,
+      "time_str": "03:11.830",
+      "text": "不用抉择 我会自动变朋友",
+      "translation": null
+    },
+    {
+      "time": 215.12,
+      "time_str": "03:35.120",
+      "text": "明明就 明明就 明明就 他比较 温柔",
+      "translation": null
+    },
+    {
+      "time": 220.88,
+      "time_str": "03:40.880",
+      "text": "也许他能给你更多",
+      "translation": null
+    },
+    {
+      "time": 225.63,
+      "time_str": "03:45.630",
+      "text": "不用抉择 我会自动变朋友",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "明明就 - 周杰伦.lrc"
+}

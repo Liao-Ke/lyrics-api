@@ -1,0 +1,292 @@
+{
+  "title": "下辈子如果我还记得你",
+  "title_raw": "下辈子如果我还记得你",
+  "version": null,
+  "artist": "童丽",
+  "group_key": "下辈子如果我还记得你|童丽",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.478,
+      "time_str": "00:24.478",
+      "text": "信箱出现一张美丽的明信片",
+      "translation": null
+    },
+    {
+      "time": 28.478,
+      "time_str": "00:28.478",
+      "text": "翠绿的山脚木屋袅袅的烟",
+      "translation": null
+    },
+    {
+      "time": 31.81,
+      "time_str": "00:31.810",
+      "text": "但我惊讶的却是背面",
+      "translation": null
+    },
+    {
+      "time": 35.289,
+      "time_str": "00:35.289",
+      "text": "你熟悉的字迹竟已相隔多年",
+      "translation": null
+    },
+    {
+      "time": 40.593,
+      "time_str": "00:40.593",
+      "text": "那一句话是你离开的玩笑话",
+      "translation": null
+    },
+    {
+      "time": 44.443,
+      "time_str": "00:44.443",
+      "text": "搁在我心里灰尘堆成了塔",
+      "translation": null
+    },
+    {
+      "time": 47.695,
+      "time_str": "00:47.695",
+      "text": "你就这样的拨开了它",
+      "translation": null
+    },
+    {
+      "time": 51.48,
+      "time_str": "00:51.480",
+      "text": "在信箱前我依旧是那个木偶",
+      "translation": null
+    },
+    {
+      "time": 56.1,
+      "time_str": "00:56.100",
+      "text": "线等着你来拉",
+      "translation": null
+    },
+    {
+      "time": 61.62,
+      "time_str": "01:01.620",
+      "text": "你说下辈子如果我还记得你",
+      "translation": null
+    },
+    {
+      "time": 65.727,
+      "time_str": "01:05.727",
+      "text": "我们死也要在一起",
+      "translation": null
+    },
+    {
+      "time": 69.661,
+      "time_str": "01:09.661",
+      "text": "像是陷入催眠的指令",
+      "translation": null
+    },
+    {
+      "time": 73.811,
+      "time_str": "01:13.811",
+      "text": "我已开始昏迷不醒",
+      "translation": null
+    },
+    {
+      "time": 77.716,
+      "time_str": "01:17.716",
+      "text": "好吧",
+      "translation": null
+    },
+    {
+      "time": 78.216,
+      "time_str": "01:18.216",
+      "text": "下辈子如果我还记得你",
+      "translation": null
+    },
+    {
+      "time": 81.617,
+      "time_str": "01:21.617",
+      "text": "你的誓言可别忘记",
+      "translation": null
+    },
+    {
+      "time": 85.569,
+      "time_str": "01:25.569",
+      "text": "不过一张明信片而已",
+      "translation": null
+    },
+    {
+      "time": 89.666,
+      "time_str": "01:29.666",
+      "text": "我已随它走入下个轮回里",
+      "translation": null
+    },
+    {
+      "time": 130.643,
+      "time_str": "02:10.643",
+      "text": "那一句话是你离开的玩笑话",
+      "translation": null
+    },
+    {
+      "time": 134.493,
+      "time_str": "02:14.493",
+      "text": "搁在我心里灰尘堆成了塔",
+      "translation": null
+    },
+    {
+      "time": 137.643,
+      "time_str": "02:17.643",
+      "text": "你就这样的拨开了它",
+      "translation": null
+    },
+    {
+      "time": 141.209,
+      "time_str": "02:21.209",
+      "text": "在信箱前",
+      "translation": null
+    },
+    {
+      "time": 142.209,
+      "time_str": "02:22.209",
+      "text": "我依旧是那个木偶",
+      "translation": null
+    },
+    {
+      "time": 146.11,
+      "time_str": "02:26.110",
+      "text": "线等着你来拉",
+      "translation": null
+    },
+    {
+      "time": 151.662,
+      "time_str": "02:31.662",
+      "text": "你说下辈子",
+      "translation": null
+    },
+    {
+      "time": 153.162,
+      "time_str": "02:33.162",
+      "text": "如果我还记得你",
+      "translation": null
+    },
+    {
+      "time": 155.612,
+      "time_str": "02:35.612",
+      "text": "我们死也要在一起",
+      "translation": null
+    },
+    {
+      "time": 159.698,
+      "time_str": "02:39.698",
+      "text": "像是陷入催眠的指令",
+      "translation": null
+    },
+    {
+      "time": 163.648,
+      "time_str": "02:43.648",
+      "text": "我已开始昏迷不醒",
+      "translation": null
+    },
+    {
+      "time": 167.698,
+      "time_str": "02:47.698",
+      "text": "好吧",
+      "translation": null
+    },
+    {
+      "time": 168.148,
+      "time_str": "02:48.148",
+      "text": "下辈子如果我还记得你",
+      "translation": null
+    },
+    {
+      "time": 171.602,
+      "time_str": "02:51.602",
+      "text": "你的誓言可别忘记",
+      "translation": null
+    },
+    {
+      "time": 175.653,
+      "time_str": "02:55.653",
+      "text": "不过一张明信片而已",
+      "translation": null
+    },
+    {
+      "time": 179.713,
+      "time_str": "02:59.713",
+      "text": "我已随它走入下个轮回里",
+      "translation": null
+    },
+    {
+      "time": 188.317,
+      "time_str": "03:08.317",
+      "text": "迷失在我模糊的空气里",
+      "translation": null
+    },
+    {
+      "time": 195.528,
+      "time_str": "03:15.528",
+      "text": "我在你字里行间",
+      "translation": null
+    },
+    {
+      "time": 197.91,
+      "time_str": "03:17.910",
+      "text": "寻找一线生机",
+      "translation": null
+    },
+    {
+      "time": 205.663,
+      "time_str": "03:25.663",
+      "text": "你说下辈子如果我还记得你",
+      "translation": null
+    },
+    {
+      "time": 209.66,
+      "time_str": "03:29.660",
+      "text": "我们死也要在一起",
+      "translation": null
+    },
+    {
+      "time": 213.661,
+      "time_str": "03:33.661",
+      "text": "像是陷入催眠的指令",
+      "translation": null
+    },
+    {
+      "time": 217.714,
+      "time_str": "03:37.714",
+      "text": "我已开始昏迷不醒",
+      "translation": null
+    },
+    {
+      "time": 221.616,
+      "time_str": "03:41.616",
+      "text": "好吧",
+      "translation": null
+    },
+    {
+      "time": 222.166,
+      "time_str": "03:42.166",
+      "text": "下辈子如果我还记得你",
+      "translation": null
+    },
+    {
+      "time": 225.666,
+      "time_str": "03:45.666",
+      "text": "你的誓言可别忘记",
+      "translation": null
+    },
+    {
+      "time": 229.618,
+      "time_str": "03:49.618",
+      "text": "不过一张明信片而已",
+      "translation": null
+    },
+    {
+      "time": 233.668,
+      "time_str": "03:53.668",
+      "text": "我已随它走入下个轮回里",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "下辈子如果我还记得你 - 童丽.lrc"
+}

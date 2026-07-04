@@ -1,0 +1,400 @@
+{
+  "title": "By Your Side",
+  "title_raw": "By Your Side",
+  "version": null,
+  "artist": "RAYE,Jonas Blue",
+  "group_key": "by your side|raye,jonas blue",
+  "writers": {
+    "lyricist": "Guy James Robin/Grace Barker/Jason Pebworth/Jonathan Shave/George Astasio",
+    "composer": "Guy James Robin/Grace Barker/Jason Pebworth/Jonathan Shave/George Astasio",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.27,
+      "time_str": "00:08.270",
+      "text": "Let's go out and be wild",
+      "translation": "让我们出门狂野"
+    },
+    {
+      "time": 10.28,
+      "time_str": "00:10.280",
+      "text": "Do it while we can (do, do)",
+      "translation": "在我们能做的时候"
+    },
+    {
+      "time": 16.9,
+      "time_str": "00:16.900",
+      "text": "Runnin' free in the world",
+      "translation": "在这个世界自由的奔跑"
+    },
+    {
+      "time": 18.11,
+      "time_str": "00:18.110",
+      "text": "We've got all weekend (do, do)",
+      "translation": "我们有一整个周末"
+    },
+    {
+      "time": 22.67,
+      "time_str": "00:22.670",
+      "text": "Tear it up, tear it down",
+      "translation": "撕碎它"
+    },
+    {
+      "time": 24.67,
+      "time_str": "00:24.670",
+      "text": "Gettin' lost in the sound of our hearts beatin'",
+      "translation": "在我们心跳声中迷失"
+    },
+    {
+      "time": 30.46,
+      "time_str": "00:30.460",
+      "text": "Take me here, take me now",
+      "translation": "带我来这里，就现在"
+    },
+    {
+      "time": 32.41,
+      "time_str": "00:32.410",
+      "text": "Gettin' lost in a crowd with you",
+      "translation": "和你一起迷失在人群中"
+    },
+    {
+      "time": 38.98,
+      "time_str": "00:38.980",
+      "text": "Up, all night",
+      "translation": "一整夜"
+    },
+    {
+      "time": 41.62,
+      "time_str": "00:41.620",
+      "text": "I waited for you all my life",
+      "translation": "我倾尽一生等待你"
+    },
+    {
+      "time": 45.35,
+      "time_str": "00:45.350",
+      "text": "Hold my hand and keep me close",
+      "translation": "握住我的手靠近我"
+    },
+    {
+      "time": 47.54,
+      "time_str": "00:47.540",
+      "text": "I'll never let you go",
+      "translation": "我不会让你走"
+    },
+    {
+      "time": 49.47,
+      "time_str": "00:49.470",
+      "text": "No not tonight",
+      "translation": "别在今夜走"
+    },
+    {
+      "time": 52.63,
+      "time_str": "00:52.630",
+      "text": "Keep me by your side",
+      "translation": "让我留在你身边"
+    },
+    {
+      "time": 60.44,
+      "time_str": "01:00.440",
+      "text": "Keep me by your side",
+      "translation": "让我留在你身边"
+    },
+    {
+      "time": 68.26,
+      "time_str": "01:08.260",
+      "text": "Keep me by your",
+      "translation": "让我留在你"
+    },
+    {
+      "time": 70.2,
+      "time_str": "01:10.200",
+      "text": "Side, by by your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 72.19,
+      "time_str": "01:12.190",
+      "text": "Side, by by  your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 74.13,
+      "time_str": "01:14.130",
+      "text": "Side,by，by, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 76.9,
+      "time_str": "01:16.900",
+      "text": "Side, your-your-your-your-your-your",
+      "translation": "身边，留在你的"
+    },
+    {
+      "time": 78.2,
+      "time_str": "01:18.200",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 79.92,
+      "time_str": "01:19.920",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 81.91,
+      "time_str": "01:21.910",
+      "text": "Side, side, side",
+      "translation": "身边"
+    },
+    {
+      "time": 83.9,
+      "time_str": "01:23.900",
+      "text": "Keep me by your",
+      "translation": "让我留在你"
+    },
+    {
+      "time": 85.84,
+      "time_str": "01:25.840",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 87.77,
+      "time_str": "01:27.770",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 89.73,
+      "time_str": "01:29.730",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 91.66,
+      "time_str": "01:31.660",
+      "text": "Side, your-your-your-your-your-your",
+      "translation": "身边，留在你的"
+    },
+    {
+      "time": 93.63,
+      "time_str": "01:33.630",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 95.59,
+      "time_str": "01:35.590",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 97.53,
+      "time_str": "01:37.530",
+      "text": "Side, side, side",
+      "translation": "身边"
+    },
+    {
+      "time": 99.5,
+      "time_str": "01:39.500",
+      "text": "Keep me by your side",
+      "translation": "让我留在你身边"
+    },
+    {
+      "time": 101.83,
+      "time_str": "01:41.830",
+      "text": "Scattered hearts, broken glass",
+      "translation": "破碎的心，破碎的玻璃"
+    },
+    {
+      "time": 103.84,
+      "time_str": "01:43.840",
+      "text": "I don't feel a thing (do, do)",
+      "translation": "我什么都感觉不到"
+    },
+    {
+      "time": 109.73,
+      "time_str": "01:49.730",
+      "text": "'Cause I'm frozen in time",
+      "translation": "因为我冻在那段时间里"
+    },
+    {
+      "time": 111.68,
+      "time_str": "01:51.680",
+      "text": "When you're next to me (do, do)",
+      "translation": "当你就在我身边"
+    },
+    {
+      "time": 116.3,
+      "time_str": "01:56.300",
+      "text": "Tear it up, tear it down",
+      "translation": "撕碎它"
+    },
+    {
+      "time": 118.29,
+      "time_str": "01:58.290",
+      "text": "Gettin' lost in the sound of our hearts beatin'",
+      "translation": "在我们心跳声中迷失"
+    },
+    {
+      "time": 124.13,
+      "time_str": "02:04.130",
+      "text": "Take me here, take me now",
+      "translation": "带我来这里，就现在"
+    },
+    {
+      "time": 126.1,
+      "time_str": "02:06.100",
+      "text": "Gettin' lost in a crowd with you",
+      "translation": "和你一起迷失在人群中"
+    },
+    {
+      "time": 132.64,
+      "time_str": "02:12.640",
+      "text": "Up, all night",
+      "translation": "一整夜"
+    },
+    {
+      "time": 135.33,
+      "time_str": "02:15.330",
+      "text": "I waited for you all my life",
+      "translation": "我倾尽一生等待你"
+    },
+    {
+      "time": 139.1,
+      "time_str": "02:19.100",
+      "text": "Hold my hand and keep me close",
+      "translation": "握住我的手靠近我"
+    },
+    {
+      "time": 141.18,
+      "time_str": "02:21.180",
+      "text": "I'll never let you go",
+      "translation": "我不会让你走"
+    },
+    {
+      "time": 143.11,
+      "time_str": "02:23.110",
+      "text": "No not tonight",
+      "translation": "别在今夜走"
+    },
+    {
+      "time": 146.31,
+      "time_str": "02:26.310",
+      "text": "Keep me by your side",
+      "translation": "让我留在你身边"
+    },
+    {
+      "time": 154.12,
+      "time_str": "02:34.120",
+      "text": "Keep me by your side",
+      "translation": "让我留在你身边"
+    },
+    {
+      "time": 161.86,
+      "time_str": "02:41.860",
+      "text": "Keep me by your",
+      "translation": "让我留在你"
+    },
+    {
+      "time": 163.85,
+      "time_str": "02:43.850",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 165.76,
+      "time_str": "02:45.760",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 167.73,
+      "time_str": "02:47.730",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 169.72,
+      "time_str": "02:49.720",
+      "text": "Side, your-your-your-your-your-your",
+      "translation": "身边，留在你的"
+    },
+    {
+      "time": 171.69,
+      "time_str": "02:51.690",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 173.58,
+      "time_str": "02:53.580",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 175.54,
+      "time_str": "02:55.540",
+      "text": "Side, side, side",
+      "translation": "身边"
+    },
+    {
+      "time": 177.57,
+      "time_str": "02:57.570",
+      "text": "Keep me by your",
+      "translation": "让我留在你"
+    },
+    {
+      "time": 179.5,
+      "time_str": "02:59.500",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 181.43,
+      "time_str": "03:01.430",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 183.39,
+      "time_str": "03:03.390",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 185.32,
+      "time_str": "03:05.320",
+      "text": "Side, your-your-your-your-your-your",
+      "translation": "身边，留在你的"
+    },
+    {
+      "time": 187.26,
+      "time_str": "03:07.260",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 189.19,
+      "time_str": "03:09.190",
+      "text": "Side, side, side, your",
+      "translation": "身边，留在你"
+    },
+    {
+      "time": 191.19,
+      "time_str": "03:11.190",
+      "text": "Side, side, side",
+      "translation": "身边"
+    },
+    {
+      "time": 193.17,
+      "time_str": "03:13.170",
+      "text": "Keep me by your side",
+      "translation": "请让我留在你身边"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "By Your Side - RAYE,Jonas Blue.lrc"
+}

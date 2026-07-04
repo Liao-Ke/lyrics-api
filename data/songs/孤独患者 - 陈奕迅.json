@@ -1,0 +1,238 @@
+{
+  "title": "孤独患者",
+  "title_raw": "孤独患者",
+  "version": null,
+  "artist": "陈奕迅",
+  "group_key": "孤独患者|陈奕迅",
+  "writers": {
+    "lyricist": "小寒",
+    "composer": "方大同",
+    "arranger": "方大同/Edward Chan"
+  },
+  "lyrics": [
+    {
+      "time": 17.03,
+      "time_str": "00:17.030",
+      "text": "欢笑声 欢呼声",
+      "translation": null
+    },
+    {
+      "time": 20.52,
+      "time_str": "00:20.520",
+      "text": "炒热气氛 心却很冷",
+      "translation": null
+    },
+    {
+      "time": 24.29,
+      "time_str": "00:24.290",
+      "text": "聚光灯 是种蒙恩",
+      "translation": null
+    },
+    {
+      "time": 27.95,
+      "time_str": "00:27.950",
+      "text": "我却不能 喊等一等",
+      "translation": null
+    },
+    {
+      "time": 31.42,
+      "time_str": "00:31.420",
+      "text": "我真佩服我 还能幽默",
+      "translation": null
+    },
+    {
+      "time": 35.03,
+      "time_str": "00:35.030",
+      "text": "掉眼泪时 用笑掩过",
+      "translation": null
+    },
+    {
+      "time": 38.78,
+      "time_str": "00:38.780",
+      "text": "怕人看破 顾虑好多",
+      "translation": null
+    },
+    {
+      "time": 42.5,
+      "time_str": "00:42.500",
+      "text": "不谈寂寞 我们就都快活",
+      "translation": null
+    },
+    {
+      "time": 48.4,
+      "time_str": "00:48.400",
+      "text": "我不唱声嘶力竭的情歌",
+      "translation": null
+    },
+    {
+      "time": 55.62,
+      "time_str": "00:55.620",
+      "text": "不表示没有心碎的时刻",
+      "translation": null
+    },
+    {
+      "time": 62.63,
+      "time_str": "01:02.630",
+      "text": "我不曾摊开伤口任宰割",
+      "translation": null
+    },
+    {
+      "time": 68.53,
+      "time_str": "01:08.530",
+      "text": "愈合 就无人晓得",
+      "translation": null
+    },
+    {
+      "time": 73.43,
+      "time_str": "01:13.430",
+      "text": "我内心挫折",
+      "translation": null
+    },
+    {
+      "time": 76.99,
+      "time_str": "01:16.990",
+      "text": "活像个孤独患者 自我拉扯",
+      "translation": null
+    },
+    {
+      "time": 84.27,
+      "time_str": "01:24.270",
+      "text": "外向的孤独患者 有何不可",
+      "translation": null
+    },
+    {
+      "time": 99.9,
+      "time_str": "01:39.900",
+      "text": "笑越大声 越是残忍",
+      "translation": null
+    },
+    {
+      "time": 103.45,
+      "time_str": "01:43.450",
+      "text": "挤满体温 室温更冷",
+      "translation": null
+    },
+    {
+      "time": 107.02,
+      "time_str": "01:47.020",
+      "text": "万一关灯 空虚扰人",
+      "translation": null
+    },
+    {
+      "time": 110.62,
+      "time_str": "01:50.620",
+      "text": "我却不能 喊等一等",
+      "translation": null
+    },
+    {
+      "time": 114.12,
+      "time_str": "01:54.120",
+      "text": "你说你爱我 却一直说",
+      "translation": null
+    },
+    {
+      "time": 117.57,
+      "time_str": "01:57.570",
+      "text": "说我不该 窝在角落",
+      "translation": null
+    },
+    {
+      "time": 121.18,
+      "time_str": "02:01.180",
+      "text": "策划逃脱 这也有错",
+      "translation": null
+    },
+    {
+      "time": 124.91,
+      "time_str": "02:04.910",
+      "text": "连我脆弱 的权利都掠夺",
+      "translation": null
+    },
+    {
+      "time": 130.85,
+      "time_str": "02:10.850",
+      "text": "我不唱声嘶力竭的情歌",
+      "translation": null
+    },
+    {
+      "time": 137.83,
+      "time_str": "02:17.830",
+      "text": "不表示没有心碎的时刻",
+      "translation": null
+    },
+    {
+      "time": 144.8,
+      "time_str": "02:24.800",
+      "text": "我不曾摊开伤口任宰割",
+      "translation": null
+    },
+    {
+      "time": 150.79,
+      "time_str": "02:30.790",
+      "text": "愈合 就无人晓得",
+      "translation": null
+    },
+    {
+      "time": 155.49,
+      "time_str": "02:35.490",
+      "text": "我内心挫折",
+      "translation": null
+    },
+    {
+      "time": 159.05,
+      "time_str": "02:39.050",
+      "text": "活像个孤独患者 自我拉扯",
+      "translation": null
+    },
+    {
+      "time": 166.07,
+      "time_str": "02:46.070",
+      "text": "外向的孤独患者 有何不可",
+      "translation": null
+    },
+    {
+      "time": 201.52,
+      "time_str": "03:21.520",
+      "text": "我不要声嘶力竭的情歌",
+      "translation": null
+    },
+    {
+      "time": 208.75,
+      "time_str": "03:28.750",
+      "text": "来提示我需要你的时刻",
+      "translation": null
+    },
+    {
+      "time": 215.59,
+      "time_str": "03:35.590",
+      "text": "表面镇定并不是保护色",
+      "translation": null
+    },
+    {
+      "time": 221.47,
+      "time_str": "03:41.470",
+      "text": "反而 是要你懂得",
+      "translation": null
+    },
+    {
+      "time": 226.1,
+      "time_str": "03:46.100",
+      "text": "我不知为何",
+      "translation": null
+    },
+    {
+      "time": 229.87,
+      "time_str": "03:49.870",
+      "text": "活像个孤独患者 自我拉扯",
+      "translation": null
+    },
+    {
+      "time": 237.01,
+      "time_str": "03:57.010",
+      "text": "外向的孤独患者 需要认可",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "孤独患者 - 陈奕迅.lrc"
+}

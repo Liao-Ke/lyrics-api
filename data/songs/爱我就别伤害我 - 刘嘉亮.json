@@ -1,0 +1,316 @@
+{
+  "title": "爱我就别伤害我",
+  "title_raw": "爱我就别伤害我",
+  "version": null,
+  "artist": "刘嘉亮",
+  "group_key": "爱我就别伤害我|刘嘉亮",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 33.628,
+      "time_str": "00:33.628",
+      "text": "走在冷冷的大街",
+      "translation": null
+    },
+    {
+      "time": 36.548,
+      "time_str": "00:36.548",
+      "text": "天空突然下起了大雪",
+      "translation": null
+    },
+    {
+      "time": 40.268,
+      "time_str": "00:40.268",
+      "text": "好想和你见面",
+      "translation": null
+    },
+    {
+      "time": 44.168,
+      "time_str": "00:44.168",
+      "text": "可你何时出现",
+      "translation": null
+    },
+    {
+      "time": 48.648,
+      "time_str": "00:48.648",
+      "text": "我在爱的边缘",
+      "translation": null
+    },
+    {
+      "time": 52.278,
+      "time_str": "00:52.278",
+      "text": "想起和你分手的那天",
+      "translation": null
+    },
+    {
+      "time": 56.198,
+      "time_str": "00:56.198",
+      "text": "泪水一点一点",
+      "translation": null
+    },
+    {
+      "time": 59.258,
+      "time_str": "00:59.258",
+      "text": "一遍一遍",
+      "translation": null
+    },
+    {
+      "time": 64.448,
+      "time_str": "01:04.448",
+      "text": "我们的爱情",
+      "translation": null
+    },
+    {
+      "time": 67.069,
+      "time_str": "01:07.069",
+      "text": "就像风筝断了线",
+      "translation": null
+    },
+    {
+      "time": 72.289,
+      "time_str": "01:12.289",
+      "text": "感情的世界我无法改变",
+      "translation": null
+    },
+    {
+      "time": 75.198,
+      "time_str": "01:15.198",
+      "text": "泪水留在天亮以前",
+      "translation": null
+    },
+    {
+      "time": 78.789,
+      "time_str": "01:18.789",
+      "text": "如果你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 82.629,
+      "time_str": "01:22.629",
+      "text": "这不是我犯下的错",
+      "translation": null
+    },
+    {
+      "time": 86.179,
+      "time_str": "01:26.179",
+      "text": "如果你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 90.789,
+      "time_str": "01:30.789",
+      "text": "这不是我想要的结果",
+      "translation": null
+    },
+    {
+      "time": 95.087,
+      "time_str": "01:35.087",
+      "text": "你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 98.689,
+      "time_str": "01:38.689",
+      "text": "这不是我犯下的错",
+      "translation": null
+    },
+    {
+      "time": 102.078,
+      "time_str": "01:42.078",
+      "text": "如果你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 106.018,
+      "time_str": "01:46.018",
+      "text": "这不是我想要的结果",
+      "translation": null
+    },
+    {
+      "time": 145.789,
+      "time_str": "02:25.789",
+      "text": "走在冷冷的大街",
+      "translation": null
+    },
+    {
+      "time": 148.729,
+      "time_str": "02:28.729",
+      "text": "天空突然下起了大雪",
+      "translation": null
+    },
+    {
+      "time": 153.19,
+      "time_str": "02:33.190",
+      "text": "好想和你见面",
+      "translation": null
+    },
+    {
+      "time": 156.8,
+      "time_str": "02:36.800",
+      "text": "可你何时出现",
+      "translation": null
+    },
+    {
+      "time": 161.409,
+      "time_str": "02:41.409",
+      "text": "我在爱的边缘",
+      "translation": null
+    },
+    {
+      "time": 164.519,
+      "time_str": "02:44.519",
+      "text": "想起和你分手的那天",
+      "translation": null
+    },
+    {
+      "time": 168.519,
+      "time_str": "02:48.519",
+      "text": "泪水一点一点",
+      "translation": null
+    },
+    {
+      "time": 171.109,
+      "time_str": "02:51.109",
+      "text": "一遍一遍",
+      "translation": null
+    },
+    {
+      "time": 176.729,
+      "time_str": "02:56.729",
+      "text": "我们的爱情",
+      "translation": null
+    },
+    {
+      "time": 179.279,
+      "time_str": "02:59.279",
+      "text": "就像风筝断了线",
+      "translation": null
+    },
+    {
+      "time": 184.7,
+      "time_str": "03:04.700",
+      "text": "感情的世界我无法改变",
+      "translation": null
+    },
+    {
+      "time": 187.39,
+      "time_str": "03:07.390",
+      "text": "泪水留在天亮以前",
+      "translation": null
+    },
+    {
+      "time": 190.779,
+      "time_str": "03:10.779",
+      "text": "如果你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 194.549,
+      "time_str": "03:14.549",
+      "text": "这不是我犯下的错",
+      "translation": null
+    },
+    {
+      "time": 198.799,
+      "time_str": "03:18.799",
+      "text": "如果你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 202.679,
+      "time_str": "03:22.679",
+      "text": "这不是我想要的结果",
+      "translation": null
+    },
+    {
+      "time": 206.429,
+      "time_str": "03:26.429",
+      "text": "你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 210.229,
+      "time_str": "03:30.229",
+      "text": "这不是我犯下的错",
+      "translation": null
+    },
+    {
+      "time": 214.599,
+      "time_str": "03:34.599",
+      "text": "如果你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 218.189,
+      "time_str": "03:38.189",
+      "text": "这不是我想要的结果",
+      "translation": null
+    },
+    {
+      "time": 222.589,
+      "time_str": "03:42.589",
+      "text": "你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 226.229,
+      "time_str": "03:46.229",
+      "text": "这不是我犯下的错",
+      "translation": null
+    },
+    {
+      "time": 230.479,
+      "time_str": "03:50.479",
+      "text": "如果你爱我就别伤害我",
+      "translation": null
+    },
+    {
+      "time": 234.09,
+      "time_str": "03:54.090",
+      "text": "这不是我想要的结果",
+      "translation": null
+    },
+    {
+      "time": 240.029,
+      "time_str": "04:00.029",
+      "text": "犯下的错",
+      "translation": null
+    },
+    {
+      "time": 245.49,
+      "time_str": "04:05.490",
+      "text": "想要的结果",
+      "translation": null
+    },
+    {
+      "time": 252.399,
+      "time_str": "04:12.399",
+      "text": "走在冷冷的大街",
+      "translation": null
+    },
+    {
+      "time": 255.29,
+      "time_str": "04:15.290",
+      "text": "天空突然下起了大雪",
+      "translation": null
+    },
+    {
+      "time": 259.249,
+      "time_str": "04:19.249",
+      "text": "好想和你见面",
+      "translation": null
+    },
+    {
+      "time": 262.089,
+      "time_str": "04:22.089",
+      "text": "可你何时出",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱我就别伤害我 - 刘嘉亮.lrc"
+}

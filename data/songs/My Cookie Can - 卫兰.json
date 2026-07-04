@@ -1,0 +1,394 @@
+{
+  "title": "My Cookie Can",
+  "title_raw": "My Cookie Can",
+  "version": null,
+  "artist": "卫兰",
+  "group_key": "my cookie can|卫兰",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "雷颂德",
+    "arranger": "雷頌德"
+  },
+  "lyrics": [
+    {
+      "time": 22.99,
+      "time_str": "00:22.990",
+      "text": "You and I",
+      "translation": null
+    },
+    {
+      "time": 26.06,
+      "time_str": "00:26.060",
+      "text": "All right",
+      "translation": null
+    },
+    {
+      "time": 29.08,
+      "time_str": "00:29.080",
+      "text": "You and I",
+      "translation": null
+    },
+    {
+      "time": 30.0,
+      "time_str": "00:30.000",
+      "text": "All right",
+      "translation": null
+    },
+    {
+      "time": 35.57,
+      "time_str": "00:35.570",
+      "text": "讲一声冻冻",
+      "translation": null
+    },
+    {
+      "time": 36.63,
+      "time_str": "00:36.630",
+      "text": "你会和我抱拥",
+      "translation": null
+    },
+    {
+      "time": 37.83,
+      "time_str": "00:37.830",
+      "text": "话一声痛痛",
+      "translation": null
+    },
+    {
+      "time": 39.44,
+      "time_str": "00:39.440",
+      "text": "你会张开我的笑容",
+      "translation": null
+    },
+    {
+      "time": 41.44,
+      "time_str": "00:41.440",
+      "text": "You give me security",
+      "translation": null
+    },
+    {
+      "time": 47.41,
+      "time_str": "00:47.410",
+      "text": "手信要永远藏铁罐中",
+      "translation": null
+    },
+    {
+      "time": 50.11,
+      "time_str": "00:50.110",
+      "text": "天天都碰碰",
+      "translation": null
+    },
+    {
+      "time": 50.88,
+      "time_str": "00:50.880",
+      "text": "就似古董那么贵重",
+      "translation": null
+    },
+    {
+      "time": 55.17,
+      "time_str": "00:55.170",
+      "text": "You give me security",
+      "translation": null
+    },
+    {
+      "time": 58.98,
+      "time_str": "00:58.980",
+      "text": "你叫一切变美",
+      "translation": null
+    },
+    {
+      "time": 61.018,
+      "time_str": "01:01.018",
+      "text": "有关你每秒也要收起",
+      "translation": null
+    },
+    {
+      "time": 64.518,
+      "time_str": "01:04.518",
+      "text": "糖分满爆也不理",
+      "translation": null
+    },
+    {
+      "time": 66.438,
+      "time_str": "01:06.438",
+      "text": "挤挤逼逼我更欢喜",
+      "translation": null
+    },
+    {
+      "time": 70.539,
+      "time_str": "01:10.539",
+      "text": "收获但愿会变定期",
+      "translation": null
+    },
+    {
+      "time": 72.75,
+      "time_str": "01:12.750",
+      "text": "手里心里都要怀着你",
+      "translation": null
+    },
+    {
+      "time": 78.7,
+      "time_str": "01:18.700",
+      "text": "我要",
+      "translation": null
+    },
+    {
+      "time": 80.119,
+      "time_str": "01:20.119",
+      "text": "储起你",
+      "translation": null
+    },
+    {
+      "time": 81.56,
+      "time_str": "01:21.560",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 83.119,
+      "time_str": "01:23.119",
+      "text": "Hey you say love me till the end",
+      "translation": null
+    },
+    {
+      "time": 87.5,
+      "time_str": "01:27.500",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 88.938,
+      "time_str": "01:28.938",
+      "text": "Hey you're  the only one I called my man",
+      "translation": null
+    },
+    {
+      "time": 93.369,
+      "time_str": "01:33.369",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 94.789,
+      "time_str": "01:34.789",
+      "text": "Hey you say love me till the end",
+      "translation": null
+    },
+    {
+      "time": 99.2,
+      "time_str": "01:39.200",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 102.119,
+      "time_str": "01:42.119",
+      "text": "You are my man",
+      "translation": null
+    },
+    {
+      "time": 105.539,
+      "time_str": "01:45.539",
+      "text": "讲一声冻冻",
+      "translation": null
+    },
+    {
+      "time": 106.509,
+      "time_str": "01:46.509",
+      "text": "你会和我抱拥",
+      "translation": null
+    },
+    {
+      "time": 108.42,
+      "time_str": "01:48.420",
+      "text": "哗一声痛痛",
+      "translation": null
+    },
+    {
+      "time": 109.75,
+      "time_str": "01:49.750",
+      "text": "你会张开我的笑容",
+      "translation": null
+    },
+    {
+      "time": 114.03,
+      "time_str": "01:54.030",
+      "text": "You give me security",
+      "translation": null
+    },
+    {
+      "time": 117.47,
+      "time_str": "01:57.470",
+      "text": "这铁罐我以无法放松",
+      "translation": null
+    },
+    {
+      "time": 120.268,
+      "time_str": "02:00.268",
+      "text": "天天都碰碰",
+      "translation": null
+    },
+    {
+      "time": 121.468,
+      "time_str": "02:01.468",
+      "text": "我比千亿富翁更红",
+      "translation": null
+    },
+    {
+      "time": 125.56,
+      "time_str": "02:05.560",
+      "text": "You give me security",
+      "translation": null
+    },
+    {
+      "time": 129.218,
+      "time_str": "02:09.218",
+      "text": "你叫一切变美",
+      "translation": null
+    },
+    {
+      "time": 131.158,
+      "time_str": "02:11.158",
+      "text": "有关你每秒也要收起",
+      "translation": null
+    },
+    {
+      "time": 134.658,
+      "time_str": "02:14.658",
+      "text": "糖分满爆也不理",
+      "translation": null
+    },
+    {
+      "time": 138.008,
+      "time_str": "02:18.008",
+      "text": "挤挤逼逼我更欢喜",
+      "translation": null
+    },
+    {
+      "time": 140.83,
+      "time_str": "02:20.830",
+      "text": "收获但愿会变定期",
+      "translation": null
+    },
+    {
+      "time": 143.438,
+      "time_str": "02:23.438",
+      "text": "手里心里都要怀着你",
+      "translation": null
+    },
+    {
+      "time": 148.968,
+      "time_str": "02:28.968",
+      "text": "我要",
+      "translation": null
+    },
+    {
+      "time": 150.339,
+      "time_str": "02:30.339",
+      "text": "储起你",
+      "translation": null
+    },
+    {
+      "time": 151.889,
+      "time_str": "02:31.889",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 153.318,
+      "time_str": "02:33.318",
+      "text": "Hey you say love me till the end",
+      "translation": null
+    },
+    {
+      "time": 157.748,
+      "time_str": "02:37.748",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 159.149,
+      "time_str": "02:39.149",
+      "text": "Hey you're the only one I called my man",
+      "translation": null
+    },
+    {
+      "time": 163.169,
+      "time_str": "02:43.169",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 164.998,
+      "time_str": "02:44.998",
+      "text": "Hey you say love me till the end",
+      "translation": null
+    },
+    {
+      "time": 169.33,
+      "time_str": "02:49.330",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 170.91,
+      "time_str": "02:50.910",
+      "text": "You are my man",
+      "translation": null
+    },
+    {
+      "time": 186.709,
+      "time_str": "03:06.709",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 188.209,
+      "time_str": "03:08.209",
+      "text": "Hey you say love me till the end",
+      "translation": null
+    },
+    {
+      "time": 192.638,
+      "time_str": "03:12.638",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 194.019,
+      "time_str": "03:14.019",
+      "text": "Hey your the only one I called my man",
+      "translation": null
+    },
+    {
+      "time": 198.369,
+      "time_str": "03:18.369",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 199.869,
+      "time_str": "03:19.869",
+      "text": "Hey you say love me till the end",
+      "translation": null
+    },
+    {
+      "time": 204.209,
+      "time_str": "03:24.209",
+      "text": "My cookie can",
+      "translation": null
+    },
+    {
+      "time": 205.748,
+      "time_str": "03:25.748",
+      "text": "You are my man",
+      "translation": null
+    },
+    {
+      "time": 215.88,
+      "time_str": "03:35.880",
+      "text": "音乐监制 : 雷頌德",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "My Cookie Can - 卫兰.lrc"
+}

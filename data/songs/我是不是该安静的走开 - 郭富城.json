@@ -1,0 +1,232 @@
+{
+  "title": "我是不是该安静的走开",
+  "title_raw": "我是不是该安静的走开",
+  "version": null,
+  "artist": "郭富城",
+  "group_key": "我是不是该安静的走开|郭富城",
+  "writers": {
+    "lyricist": "张方露",
+    "composer": "陈秀男",
+    "arranger": "Ricky Ho"
+  },
+  "lyrics": [
+    {
+      "time": 19.76,
+      "time_str": "00:19.760",
+      "text": "我不知道为什么这样",
+      "translation": null
+    },
+    {
+      "time": 24.4,
+      "time_str": "00:24.400",
+      "text": "爱情不是我想像",
+      "translation": null
+    },
+    {
+      "time": 29.07,
+      "time_str": "00:29.070",
+      "text": "就是找不到往你的方向",
+      "translation": null
+    },
+    {
+      "time": 34.75,
+      "time_str": "00:34.750",
+      "text": "更别说怎么遗忘",
+      "translation": null
+    },
+    {
+      "time": 38.94,
+      "time_str": "00:38.940",
+      "text": "站在雨里泪水在眼底",
+      "translation": null
+    },
+    {
+      "time": 43.63,
+      "time_str": "00:43.630",
+      "text": "不知该往哪里去",
+      "translation": null
+    },
+    {
+      "time": 48.68,
+      "time_str": "00:48.680",
+      "text": "心中千万遍不停呼唤你",
+      "translation": null
+    },
+    {
+      "time": 54.12,
+      "time_str": "00:54.120",
+      "text": "不停疯狂找寻你",
+      "translation": null
+    },
+    {
+      "time": 58.92,
+      "time_str": "00:58.920",
+      "text": "我是不是该安静的走开",
+      "translation": null
+    },
+    {
+      "time": 63.03,
+      "time_str": "01:03.030",
+      "text": "还是该勇敢留下来",
+      "translation": null
+    },
+    {
+      "time": 68.66,
+      "time_str": "01:08.660",
+      "text": "我也不知道那么多无奈",
+      "translation": null
+    },
+    {
+      "time": 73.69,
+      "time_str": "01:13.690",
+      "text": "可不可以都重来",
+      "translation": null
+    },
+    {
+      "time": 78.35,
+      "time_str": "01:18.350",
+      "text": "我是不是该安静的走开",
+      "translation": null
+    },
+    {
+      "time": 82.39,
+      "time_str": "01:22.390",
+      "text": "还是该在这里等待",
+      "translation": null
+    },
+    {
+      "time": 87.55,
+      "time_str": "01:27.550",
+      "text": "等你明白我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 94.43,
+      "time_str": "01:34.430",
+      "text": "永远都不能走开",
+      "translation": null
+    },
+    {
+      "time": 120.94,
+      "time_str": "02:00.940",
+      "text": "站在雨里泪水在眼底",
+      "translation": null
+    },
+    {
+      "time": 125.7,
+      "time_str": "02:05.700",
+      "text": "不知该往哪里去",
+      "translation": null
+    },
+    {
+      "time": 130.42,
+      "time_str": "02:10.420",
+      "text": "心中千万遍不停呼唤你",
+      "translation": null
+    },
+    {
+      "time": 136.1,
+      "time_str": "02:16.100",
+      "text": "不停疯狂找寻你",
+      "translation": null
+    },
+    {
+      "time": 140.81,
+      "time_str": "02:20.810",
+      "text": "我是不是该安静的走开",
+      "translation": null
+    },
+    {
+      "time": 144.8,
+      "time_str": "02:24.800",
+      "text": "还是该勇敢留下来",
+      "translation": null
+    },
+    {
+      "time": 150.54,
+      "time_str": "02:30.540",
+      "text": "我也不知道那么多无奈",
+      "translation": null
+    },
+    {
+      "time": 155.43,
+      "time_str": "02:35.430",
+      "text": "可不可以都重来",
+      "translation": null
+    },
+    {
+      "time": 160.14,
+      "time_str": "02:40.140",
+      "text": "我是不是该安静的走开",
+      "translation": null
+    },
+    {
+      "time": 164.07,
+      "time_str": "02:44.070",
+      "text": "还是该在这里等待",
+      "translation": null
+    },
+    {
+      "time": 169.38,
+      "time_str": "02:49.380",
+      "text": "等你明白我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 174.79,
+      "time_str": "02:54.790",
+      "text": "永远都不能走开",
+      "translation": null
+    },
+    {
+      "time": 179.59,
+      "time_str": "02:59.590",
+      "text": "我是不是该安静的走开",
+      "translation": null
+    },
+    {
+      "time": 183.78,
+      "time_str": "03:03.780",
+      "text": "还是该勇敢留下来",
+      "translation": null
+    },
+    {
+      "time": 189.28,
+      "time_str": "03:09.280",
+      "text": "我也不知道那么多无奈",
+      "translation": null
+    },
+    {
+      "time": 194.32,
+      "time_str": "03:14.320",
+      "text": "可不可以都重来",
+      "translation": null
+    },
+    {
+      "time": 198.91,
+      "time_str": "03:18.910",
+      "text": "我是不是该安静的走开",
+      "translation": null
+    },
+    {
+      "time": 203.23,
+      "time_str": "03:23.230",
+      "text": "还是该在这里等待",
+      "translation": null
+    },
+    {
+      "time": 208.25,
+      "time_str": "03:28.250",
+      "text": "等你明白我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 213.61,
+      "time_str": "03:33.610",
+      "text": "永远都不能走开",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我是不是该安静的走开 - 郭富城.lrc"
+}

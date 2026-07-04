@@ -1,0 +1,286 @@
+{
+  "title": "打上花火",
+  "title_raw": "打上花火",
+  "version": null,
+  "artist": "Daoko,米津玄師",
+  "group_key": "打上花火|daoko,米津玄師",
+  "writers": {
+    "lyricist": "米津玄師",
+    "composer": "米津玄師",
+    "arranger": "米津玄師/田中隼人"
+  },
+  "lyrics": [
+    {
+      "time": 19.64,
+      "time_str": "00:19.640",
+      "text": "あの日見渡した渚を",
+      "translation": "那天所眺望的海岸"
+    },
+    {
+      "time": 24.5,
+      "time_str": "00:24.500",
+      "text": "今も思い出すんだ",
+      "translation": "直至今日仍能想起"
+    },
+    {
+      "time": 29.5,
+      "time_str": "00:29.500",
+      "text": "砂の上に刻んだ言葉",
+      "translation": "在沙滩上刻下的话语"
+    },
+    {
+      "time": 34.6,
+      "time_str": "00:34.600",
+      "text": "君の後ろ姿",
+      "translation": "和你的背影"
+    },
+    {
+      "time": 39.64,
+      "time_str": "00:39.640",
+      "text": "寄り返す波が",
+      "translation": "涌动的波浪"
+    },
+    {
+      "time": 42.86,
+      "time_str": "00:42.860",
+      "text": "足元をよぎり何かを攫う",
+      "translation": "掠过脚边究竟掠走了什么"
+    },
+    {
+      "time": 49.58,
+      "time_str": "00:49.580",
+      "text": "夕凪の中",
+      "translation": "风平浪静之中"
+    },
+    {
+      "time": 53.0,
+      "time_str": "00:53.000",
+      "text": "日暮れだけが通り過ぎて行く",
+      "translation": "只有黄昏悄悄地流逝"
+    },
+    {
+      "time": 59.33,
+      "time_str": "00:59.330",
+      "text": "パッと光って咲いた",
+      "translation": "光芒怦然绽放"
+    },
+    {
+      "time": 62.3,
+      "time_str": "01:02.300",
+      "text": "花火を見ていた",
+      "translation": "烟花映入眼帘"
+    },
+    {
+      "time": 64.54,
+      "time_str": "01:04.540",
+      "text": "きっとまだ 終わらない夏が",
+      "translation": "一定是夏天还未结束"
+    },
+    {
+      "time": 69.56,
+      "time_str": "01:09.560",
+      "text": "曖昧な心を 解かして繋いだ",
+      "translation": "将暧昧的心结解开再紧紧相连"
+    },
+    {
+      "time": 74.5,
+      "time_str": "01:14.500",
+      "text": "この夜が 続いて欲しかった",
+      "translation": "愿今夜永不结束"
+    },
+    {
+      "time": 90.1,
+      "time_str": "01:30.100",
+      "text": "「あと何度君と同じ花火を",
+      "translation": "还能与你一起看几次"
+    },
+    {
+      "time": 92.95,
+      "time_str": "01:32.950",
+      "text": "見られるかな」って",
+      "translation": "同样的烟花呢"
+    },
+    {
+      "time": 94.62,
+      "time_str": "01:34.620",
+      "text": "笑う顔に何ができるだろうか",
+      "translation": "面对你的笑容 我又能做些什么呢"
+    },
+    {
+      "time": 99.89,
+      "time_str": "01:39.890",
+      "text": "傷つくこと 喜ぶこと",
+      "translation": "受伤亦或是喜悦"
+    },
+    {
+      "time": 102.47,
+      "time_str": "01:42.470",
+      "text": "繰り返す波と情動",
+      "translation": "浪来浪去与情动"
+    },
+    {
+      "time": 104.7,
+      "time_str": "01:44.700",
+      "text": "焦燥 最終列車の音",
+      "translation": "焦躁 响起了末班列车的声音"
+    },
+    {
+      "time": 110.19,
+      "time_str": "01:50.190",
+      "text": "何度でも 言葉にして君を呼ぶよ",
+      "translation": "无数次用言语呼唤着你"
+    },
+    {
+      "time": 114.71,
+      "time_str": "01:54.710",
+      "text": "波間を選び もう一度...",
+      "translation": "向着海浪 再一次"
+    },
+    {
+      "time": 120.26,
+      "time_str": "02:00.260",
+      "text": "もう二度と悲しまずに済むように",
+      "translation": "祈祷不再感受那份悲伤"
+    },
+    {
+      "time": 137.17,
+      "time_str": "02:17.170",
+      "text": "はっと息を飲めば",
+      "translation": "呼吸骤然停滞"
+    },
+    {
+      "time": 139.43,
+      "time_str": "02:19.430",
+      "text": "消えちゃいそうな光が",
+      "translation": "那快要消失的光芒"
+    },
+    {
+      "time": 142.1,
+      "time_str": "02:22.100",
+      "text": "きっとまだ 胸に住んでいた",
+      "translation": "一定仍留存在心中"
+    },
+    {
+      "time": 147.3,
+      "time_str": "02:27.300",
+      "text": "手を伸ばせば触れた",
+      "translation": "伸出手就能触及"
+    },
+    {
+      "time": 149.47,
+      "time_str": "02:29.470",
+      "text": "あったかい未来は",
+      "translation": "那温暖的未来"
+    },
+    {
+      "time": 151.99,
+      "time_str": "02:31.990",
+      "text": "ひそかに二人を見ていた",
+      "translation": "默默地守望着两人"
+    },
+    {
+      "time": 158.12,
+      "time_str": "02:38.120",
+      "text": "パッと花火が（パッと花火が）",
+      "translation": "怦然绽放的烟花"
+    },
+    {
+      "time": 160.56,
+      "time_str": "02:40.560",
+      "text": "夜に咲いた（夜に咲いた）",
+      "translation": "在夜空中绽放后"
+    },
+    {
+      "time": 163.11,
+      "time_str": "02:43.110",
+      "text": "夜に咲いて（夜に咲いて）",
+      "translation": "在夜空中绽放后"
+    },
+    {
+      "time": 165.62,
+      "time_str": "02:45.620",
+      "text": "静かに消えた（静かに消えた）",
+      "translation": "又静静地消失"
+    },
+    {
+      "time": 168.15,
+      "time_str": "02:48.150",
+      "text": "離さないで（離れないで）",
+      "translation": "请不要离开"
+    },
+    {
+      "time": 170.7,
+      "time_str": "02:50.700",
+      "text": "もう少しだけ（もう少しだけ）",
+      "translation": "再给一点点时间"
+    },
+    {
+      "time": 173.18,
+      "time_str": "02:53.180",
+      "text": "もう少しだけ",
+      "translation": "再给一点点时间"
+    },
+    {
+      "time": 174.48,
+      "time_str": "02:54.480",
+      "text": "このままで",
+      "translation": "就这样一直"
+    },
+    {
+      "time": 187.18,
+      "time_str": "03:07.180",
+      "text": "あの日見渡した渚を",
+      "translation": "那天所眺望的海岸"
+    },
+    {
+      "time": 191.99,
+      "time_str": "03:11.990",
+      "text": "今も思い出すんだ",
+      "translation": "直至今日仍能想起"
+    },
+    {
+      "time": 197.4,
+      "time_str": "03:17.400",
+      "text": "砂の上に刻んだ言葉",
+      "translation": "在沙滩上刻下的话语"
+    },
+    {
+      "time": 201.98,
+      "time_str": "03:21.980",
+      "text": "君の後ろ姿",
+      "translation": "和你的背影"
+    },
+    {
+      "time": 207.15,
+      "time_str": "03:27.150",
+      "text": "パッと光って咲いた",
+      "translation": "光芒怦然绽放"
+    },
+    {
+      "time": 209.43,
+      "time_str": "03:29.430",
+      "text": "花火を見ていた",
+      "translation": "烟花映入眼帘"
+    },
+    {
+      "time": 212.27,
+      "time_str": "03:32.270",
+      "text": "きっとまだ 終わらない夏が",
+      "translation": "还未结束的夏天 一定会将"
+    },
+    {
+      "time": 217.3,
+      "time_str": "03:37.300",
+      "text": "曖昧な心を 解かして繋いだ",
+      "translation": "暧昧的心结融化相连在一起"
+    },
+    {
+      "time": 221.94,
+      "time_str": "03:41.940",
+      "text": "この夜が 続いて欲しかった",
+      "translation": "愿今夜永不结束"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "打上花火 - Daoko,米津玄師.lrc"
+}

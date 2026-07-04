@@ -1,0 +1,172 @@
+{
+  "title": "是否",
+  "title_raw": "是否",
+  "version": null,
+  "artist": "群星",
+  "group_key": "是否|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 17.5,
+      "time_str": "00:17.500",
+      "text": "是否这次我将真的离开你",
+      "translation": null
+    },
+    {
+      "time": 24.5,
+      "time_str": "00:24.500",
+      "text": "是否这次我将不再哭",
+      "translation": null
+    },
+    {
+      "time": 31.5,
+      "time_str": "00:31.500",
+      "text": "是否这次我将一去不回头",
+      "translation": null
+    },
+    {
+      "time": 37.5,
+      "time_str": "00:37.500",
+      "text": "走向那条漫漫永无止境的路",
+      "translation": null
+    },
+    {
+      "time": 45.5,
+      "time_str": "00:45.500",
+      "text": "是否这次我已真的离开你",
+      "translation": null
+    },
+    {
+      "time": 52.5,
+      "time_str": "00:52.500",
+      "text": "是否泪水已干不再流",
+      "translation": null
+    },
+    {
+      "time": 59.5,
+      "time_str": "00:59.500",
+      "text": "是否应验了我曾说的那句话",
+      "translation": null
+    },
+    {
+      "time": 66.5,
+      "time_str": "01:06.500",
+      "text": "情到深处人孤独",
+      "translation": null
+    },
+    {
+      "time": 73.5,
+      "time_str": "01:13.500",
+      "text": "多少次的寂寞挣扎在心头",
+      "translation": null
+    },
+    {
+      "time": 79.5,
+      "time_str": "01:19.500",
+      "text": "只为挽回我将远去的脚步",
+      "translation": null
+    },
+    {
+      "time": 87.5,
+      "time_str": "01:27.500",
+      "text": "多少次我忍住胸口的泪水",
+      "translation": null
+    },
+    {
+      "time": 93.5,
+      "time_str": "01:33.500",
+      "text": "只是为了告诉我自己",
+      "translation": null
+    },
+    {
+      "time": 97.5,
+      "time_str": "01:37.500",
+      "text": "我不在乎",
+      "translation": null
+    },
+    {
+      "time": 101.5,
+      "time_str": "01:41.500",
+      "text": "是否这次我已真的离开你",
+      "translation": null
+    },
+    {
+      "time": 108.5,
+      "time_str": "01:48.500",
+      "text": "是否泪水已干不再流",
+      "translation": null
+    },
+    {
+      "time": 115.5,
+      "time_str": "01:55.500",
+      "text": "是否应验了我曾说的那句话",
+      "translation": null
+    },
+    {
+      "time": 123.5,
+      "time_str": "02:03.500",
+      "text": "情到深处人孤独",
+      "translation": null
+    },
+    {
+      "time": 130.5,
+      "time_str": "02:10.500",
+      "text": "多少次的寂寞挣扎在心头",
+      "translation": null
+    },
+    {
+      "time": 136.5,
+      "time_str": "02:16.500",
+      "text": "只为挽回我将远去的脚步",
+      "translation": null
+    },
+    {
+      "time": 144.5,
+      "time_str": "02:24.500",
+      "text": "多少次我忍住胸口的泪水",
+      "translation": null
+    },
+    {
+      "time": 150.5,
+      "time_str": "02:30.500",
+      "text": "只是为了告诉我自己",
+      "translation": null
+    },
+    {
+      "time": 153.5,
+      "time_str": "02:33.500",
+      "text": "我不在乎",
+      "translation": null
+    },
+    {
+      "time": 158.5,
+      "time_str": "02:38.500",
+      "text": "是否这次我已真的离开你",
+      "translation": null
+    },
+    {
+      "time": 165.5,
+      "time_str": "02:45.500",
+      "text": "是否泪水已干不再流",
+      "translation": null
+    },
+    {
+      "time": 172.5,
+      "time_str": "02:52.500",
+      "text": "是否应验了我曾说的那句话",
+      "translation": null
+    },
+    {
+      "time": 179.5,
+      "time_str": "02:59.500",
+      "text": "情到深处人孤独",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "是否 - 群星.lrc"
+}

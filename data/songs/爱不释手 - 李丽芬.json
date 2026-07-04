@@ -1,0 +1,454 @@
+{
+  "title": "爱不释手",
+  "title_raw": "爱不释手",
+  "version": null,
+  "artist": "李丽芬",
+  "group_key": "爱不释手|李丽芬",
+  "writers": {
+    "lyricist": "小虫",
+    "composer": "小虫",
+    "arranger": "梁伯君"
+  },
+  "lyrics": [
+    {
+      "time": 11.13,
+      "time_str": "00:11.130",
+      "text": "男：啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 21.09,
+      "time_str": "00:21.090",
+      "text": "啊啊啊啊啊啊哈",
+      "translation": null
+    },
+    {
+      "time": 30.34,
+      "time_str": "00:30.340",
+      "text": "女：沉鱼落雁 闭月羞花",
+      "translation": null
+    },
+    {
+      "time": 35.05,
+      "time_str": "00:35.050",
+      "text": "美得无处藏",
+      "translation": null
+    },
+    {
+      "time": 37.04,
+      "time_str": "00:37.040",
+      "text": "男：美得无处藏",
+      "translation": null
+    },
+    {
+      "time": 39.19,
+      "time_str": "00:39.190",
+      "text": "女：人在身旁 如沐春光",
+      "translation": null
+    },
+    {
+      "time": 44.34,
+      "time_str": "00:44.340",
+      "text": "宁死也无憾",
+      "translation": null
+    },
+    {
+      "time": 47.14,
+      "time_str": "00:47.140",
+      "text": "男：哈哈",
+      "translation": null
+    },
+    {
+      "time": 48.19,
+      "time_str": "00:48.190",
+      "text": "女：国色天香 任由纠缠",
+      "translation": null
+    },
+    {
+      "time": 53.59,
+      "time_str": "00:53.590",
+      "text": "哪怕人生短",
+      "translation": null
+    },
+    {
+      "time": 56.67,
+      "time_str": "00:56.670",
+      "text": "男：哪怕人生短",
+      "translation": null
+    },
+    {
+      "time": 58.47,
+      "time_str": "00:58.470",
+      "text": "女：你情我愿 你来我往",
+      "translation": null
+    },
+    {
+      "time": 63.02,
+      "time_str": "01:03.020",
+      "text": "何等有幸配成双",
+      "translation": null
+    },
+    {
+      "time": 68.17,
+      "time_str": "01:08.170",
+      "text": "女：啊哈",
+      "translation": null
+    },
+    {
+      "time": 69.19,
+      "time_str": "01:09.190",
+      "text": "男：嘿",
+      "translation": null
+    },
+    {
+      "time": 70.13,
+      "time_str": "01:10.130",
+      "text": "女：待我拱手河山讨你欢",
+      "translation": null
+    },
+    {
+      "time": 74.13,
+      "time_str": "01:14.130",
+      "text": "万众齐声高歌千古传",
+      "translation": null
+    },
+    {
+      "time": 79.35,
+      "time_str": "01:19.350",
+      "text": "男：嘿",
+      "translation": null
+    },
+    {
+      "time": 80.1,
+      "time_str": "01:20.100",
+      "text": "女：你看远山含笑水流长",
+      "translation": null
+    },
+    {
+      "time": 83.27,
+      "time_str": "01:23.270",
+      "text": "男：生生世世 海枯石烂",
+      "translation": null
+    },
+    {
+      "time": 88.09,
+      "time_str": "01:28.090",
+      "text": "合：啊哈",
+      "translation": null
+    },
+    {
+      "time": 91.44,
+      "time_str": "01:31.440",
+      "text": "女：今朝有你今朝醉呀",
+      "translation": null
+    },
+    {
+      "time": 94.44,
+      "time_str": "01:34.440",
+      "text": "男：今朝醉呀",
+      "translation": null
+    },
+    {
+      "time": 96.09,
+      "time_str": "01:36.090",
+      "text": "女：爱不释手你的美呀",
+      "translation": null
+    },
+    {
+      "time": 99.09,
+      "time_str": "01:39.090",
+      "text": "男：你的美呀",
+      "translation": null
+    },
+    {
+      "time": 100.69,
+      "time_str": "01:40.690",
+      "text": "合：莫等闲白了发才后悔",
+      "translation": null
+    },
+    {
+      "time": 104.69,
+      "time_str": "01:44.690",
+      "text": "男：后悔",
+      "translation": null
+    },
+    {
+      "time": 107.0,
+      "time_str": "01:47.000",
+      "text": "女：啊哈",
+      "translation": null
+    },
+    {
+      "time": 110.25,
+      "time_str": "01:50.250",
+      "text": "女：今朝有你今朝醉呀",
+      "translation": null
+    },
+    {
+      "time": 113.25,
+      "time_str": "01:53.250",
+      "text": "男：今朝醉呀",
+      "translation": null
+    },
+    {
+      "time": 115.0,
+      "time_str": "01:55.000",
+      "text": "女：爱不释手你的美呀",
+      "translation": null
+    },
+    {
+      "time": 117.0,
+      "time_str": "01:57.000",
+      "text": "男：你的美呀",
+      "translation": null
+    },
+    {
+      "time": 119.4,
+      "time_str": "01:59.400",
+      "text": "女：让我抱得美人归",
+      "translation": null
+    },
+    {
+      "time": 148.0,
+      "time_str": "02:28.000",
+      "text": "女：沉鱼落雁 闭月羞花",
+      "translation": null
+    },
+    {
+      "time": 154.05,
+      "time_str": "02:34.050",
+      "text": "美得无处藏",
+      "translation": null
+    },
+    {
+      "time": 156.5,
+      "time_str": "02:36.500",
+      "text": "男：美得无处藏",
+      "translation": null
+    },
+    {
+      "time": 158.05,
+      "time_str": "02:38.050",
+      "text": "女：人在身旁 如沐春光",
+      "translation": null
+    },
+    {
+      "time": 163.15,
+      "time_str": "02:43.150",
+      "text": "宁死也无憾",
+      "translation": null
+    },
+    {
+      "time": 165.05,
+      "time_str": "02:45.050",
+      "text": "男：宁死也无憾",
+      "translation": null
+    },
+    {
+      "time": 168.1,
+      "time_str": "02:48.100",
+      "text": "女：国色天香 任由纠缠",
+      "translation": null
+    },
+    {
+      "time": 173.01,
+      "time_str": "02:53.010",
+      "text": "哪怕人生短",
+      "translation": null
+    },
+    {
+      "time": 175.31,
+      "time_str": "02:55.310",
+      "text": "男：哪怕人生短",
+      "translation": null
+    },
+    {
+      "time": 177.08,
+      "time_str": "02:57.080",
+      "text": "女：你情我愿 你来我往",
+      "translation": null
+    },
+    {
+      "time": 182.03,
+      "time_str": "03:02.030",
+      "text": "何等有幸配成双",
+      "translation": null
+    },
+    {
+      "time": 187.66,
+      "time_str": "03:07.660",
+      "text": "女：啊哈",
+      "translation": null
+    },
+    {
+      "time": 188.07,
+      "time_str": "03:08.070",
+      "text": "男：嘿",
+      "translation": null
+    },
+    {
+      "time": 189.06,
+      "time_str": "03:09.060",
+      "text": "女：待我拱手河山讨你欢",
+      "translation": null
+    },
+    {
+      "time": 193.18,
+      "time_str": "03:13.180",
+      "text": "万众齐声高歌千古传",
+      "translation": null
+    },
+    {
+      "time": 198.05,
+      "time_str": "03:18.050",
+      "text": "男：嘿",
+      "translation": null
+    },
+    {
+      "time": 199.4,
+      "time_str": "03:19.400",
+      "text": "女：你看远山含笑水流长",
+      "translation": null
+    },
+    {
+      "time": 202.1,
+      "time_str": "03:22.100",
+      "text": "生生世世 海枯石烂",
+      "translation": null
+    },
+    {
+      "time": 207.06,
+      "time_str": "03:27.060",
+      "text": "女：啊哈",
+      "translation": null
+    },
+    {
+      "time": 210.16,
+      "time_str": "03:30.160",
+      "text": "今朝有你今朝醉呀",
+      "translation": null
+    },
+    {
+      "time": 213.16,
+      "time_str": "03:33.160",
+      "text": "男：今朝醉呀",
+      "translation": null
+    },
+    {
+      "time": 215.16,
+      "time_str": "03:35.160",
+      "text": "女：爱不释手你的美呀",
+      "translation": null
+    },
+    {
+      "time": 217.16,
+      "time_str": "03:37.160",
+      "text": "男：你的美呀",
+      "translation": null
+    },
+    {
+      "time": 219.53,
+      "time_str": "03:39.530",
+      "text": "女：莫等闲白了发才后悔",
+      "translation": null
+    },
+    {
+      "time": 223.53,
+      "time_str": "03:43.530",
+      "text": "男：后悔",
+      "translation": null
+    },
+    {
+      "time": 225.64,
+      "time_str": "03:45.640",
+      "text": "女：啊哈",
+      "translation": null
+    },
+    {
+      "time": 229.05,
+      "time_str": "03:49.050",
+      "text": "今朝有你今朝醉呀",
+      "translation": null
+    },
+    {
+      "time": 232.05,
+      "time_str": "03:52.050",
+      "text": "男：今朝醉呀",
+      "translation": null
+    },
+    {
+      "time": 233.63,
+      "time_str": "03:53.630",
+      "text": "女：爱不释手你的美呀",
+      "translation": null
+    },
+    {
+      "time": 237.63,
+      "time_str": "03:57.630",
+      "text": "男：你的美呀",
+      "translation": null
+    },
+    {
+      "time": 238.19,
+      "time_str": "03:58.190",
+      "text": "合：让我抱得美人归",
+      "translation": null
+    },
+    {
+      "time": 245.45,
+      "time_str": "04:05.450",
+      "text": "女：让我抱得美人归",
+      "translation": null
+    },
+    {
+      "time": 254.26,
+      "time_str": "04:14.260",
+      "text": "男：啊啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 263.11,
+      "time_str": "04:23.110",
+      "text": "啊啊啊啊啊啊啊哈",
+      "translation": null
+    },
+    {
+      "time": 272.17,
+      "time_str": "04:32.170",
+      "text": "啊啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 282.12,
+      "time_str": "04:42.120",
+      "text": "啊啊啊啊啊啊啊哈",
+      "translation": null
+    },
+    {
+      "time": 291.03,
+      "time_str": "04:51.030",
+      "text": "啊啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 300.11,
+      "time_str": "05:00.110",
+      "text": "啊啊啊啊啊啊啊哈",
+      "translation": null
+    },
+    {
+      "time": 310.16,
+      "time_str": "05:10.160",
+      "text": "啊啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 318.81,
+      "time_str": "05:18.810",
+      "text": "啊啊啊啊",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱不释手 - 李丽芬.lrc"
+}

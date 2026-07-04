@@ -1,0 +1,160 @@
+{
+  "title": "康定情歌",
+  "title_raw": "康定情歌",
+  "version": null,
+  "artist": "谢军",
+  "group_key": "康定情歌|谢军",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.8,
+      "time_str": "00:11.800",
+      "text": "跑马溜溜的山上",
+      "translation": null
+    },
+    {
+      "time": 13.74,
+      "time_str": "00:13.740",
+      "text": "一朵溜溜的云哟",
+      "translation": null
+    },
+    {
+      "time": 17.119,
+      "time_str": "00:17.119",
+      "text": "端端溜溜的照在",
+      "translation": null
+    },
+    {
+      "time": 20.76,
+      "time_str": "00:20.760",
+      "text": "康定溜溜的城哟",
+      "translation": null
+    },
+    {
+      "time": 24.18,
+      "time_str": "00:24.180",
+      "text": "月亮弯弯",
+      "translation": null
+    },
+    {
+      "time": 29.54,
+      "time_str": "00:29.540",
+      "text": "康定溜溜的城哟",
+      "translation": null
+    },
+    {
+      "time": 35.399,
+      "time_str": "00:35.399",
+      "text": "李家溜溜的大姐",
+      "translation": null
+    },
+    {
+      "time": 38.429,
+      "time_str": "00:38.429",
+      "text": "人才溜溜的好哟",
+      "translation": null
+    },
+    {
+      "time": 42.199,
+      "time_str": "00:42.199",
+      "text": "张家溜溜的大哥",
+      "translation": null
+    },
+    {
+      "time": 45.399,
+      "time_str": "00:45.399",
+      "text": "看上溜溜的她哟",
+      "translation": null
+    },
+    {
+      "time": 49.109,
+      "time_str": "00:49.109",
+      "text": "月亮湾弯",
+      "translation": null
+    },
+    {
+      "time": 54.369,
+      "time_str": "00:54.369",
+      "text": "看上溜溜的她哟",
+      "translation": null
+    },
+    {
+      "time": 69.199,
+      "time_str": "01:09.199",
+      "text": "一来溜溜的看上",
+      "translation": null
+    },
+    {
+      "time": 72.9,
+      "time_str": "01:12.900",
+      "text": "人才溜溜的好哟",
+      "translation": null
+    },
+    {
+      "time": 75.419,
+      "time_str": "01:15.419",
+      "text": "二来溜溜的看上",
+      "translation": null
+    },
+    {
+      "time": 79.199,
+      "time_str": "01:19.199",
+      "text": "会当溜溜的家哟",
+      "translation": null
+    },
+    {
+      "time": 82.46,
+      "time_str": "01:22.460",
+      "text": "月亮湾弯",
+      "translation": null
+    },
+    {
+      "time": 87.82,
+      "time_str": "01:27.820",
+      "text": "会当溜溜的家哟",
+      "translation": null
+    },
+    {
+      "time": 93.7,
+      "time_str": "01:33.700",
+      "text": "世间溜溜的女子",
+      "translation": null
+    },
+    {
+      "time": 96.679,
+      "time_str": "01:36.679",
+      "text": "任你溜溜的求哟",
+      "translation": null
+    },
+    {
+      "time": 100.259,
+      "time_str": "01:40.259",
+      "text": "世间溜溜的男子",
+      "translation": null
+    },
+    {
+      "time": 103.689,
+      "time_str": "01:43.689",
+      "text": "任你溜溜的爱哟",
+      "translation": null
+    },
+    {
+      "time": 107.35,
+      "time_str": "01:47.350",
+      "text": "月亮湾弯",
+      "translation": null
+    },
+    {
+      "time": 112.49,
+      "time_str": "01:52.490",
+      "text": "任你溜溜的爱哟",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "康定情歌 - 谢军.lrc"
+}

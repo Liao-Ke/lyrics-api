@@ -1,0 +1,550 @@
+{
+  "title": "怎么了",
+  "title_raw": "怎么了",
+  "version": null,
+  "artist": "周杰伦,袁咏琳",
+  "group_key": "怎么了|周杰伦,袁咏琳",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "林迈可"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "女声 : 袁咏琳(Cindy Yen)",
+      "translation": null
+    },
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "混音室 : VIP Music",
+      "translation": null
+    },
+    {
+      "time": 27.68,
+      "time_str": "00:27.680",
+      "text": "上车了",
+      "translation": null
+    },
+    {
+      "time": 28.88,
+      "time_str": "00:28.880",
+      "text": "收拾心情背上",
+      "translation": null
+    },
+    {
+      "time": 30.08,
+      "time_str": "00:30.080",
+      "text": "行李我走了",
+      "translation": null
+    },
+    {
+      "time": 32.03,
+      "time_str": "00:32.030",
+      "text": "一再重复听",
+      "translation": null
+    },
+    {
+      "time": 33.08,
+      "time_str": "00:33.080",
+      "text": "你喜欢听的歌",
+      "translation": null
+    },
+    {
+      "time": 35.29,
+      "time_str": "00:35.290",
+      "text": "甜蜜回忆太多心乱了",
+      "translation": null
+    },
+    {
+      "time": 38.45,
+      "time_str": "00:38.450",
+      "text": "真的结束了",
+      "translation": null
+    },
+    {
+      "time": 40.5,
+      "time_str": "00:40.500",
+      "text": "舍不得你唱的生日快乐歌",
+      "translation": null
+    },
+    {
+      "time": 43.55,
+      "time_str": "00:43.550",
+      "text": "还记得",
+      "translation": null
+    },
+    {
+      "time": 44.8,
+      "time_str": "00:44.800",
+      "text": "你的温柔方式",
+      "translation": null
+    },
+    {
+      "time": 46.1,
+      "time_str": "00:46.100",
+      "text": "终于我懂了",
+      "translation": null
+    },
+    {
+      "time": 47.98,
+      "time_str": "00:47.980",
+      "text": "话题聊到这里你笑了",
+      "translation": null
+    },
+    {
+      "time": 51.28,
+      "time_str": "00:51.280",
+      "text": "却也太迟了",
+      "translation": null
+    },
+    {
+      "time": 53.33,
+      "time_str": "00:53.330",
+      "text": "我用咖啡拉花",
+      "translation": null
+    },
+    {
+      "time": 54.48,
+      "time_str": "00:54.480",
+      "text": "拉出白色的线",
+      "translation": null
+    },
+    {
+      "time": 55.58,
+      "time_str": "00:55.580",
+      "text": "煮一杯眷恋",
+      "translation": null
+    },
+    {
+      "time": 56.58,
+      "time_str": "00:56.580",
+      "text": "你侧脸在咖啡表面",
+      "translation": null
+    },
+    {
+      "time": 57.98,
+      "time_str": "00:57.980",
+      "text": "形成了思念形成怀念",
+      "translation": null
+    },
+    {
+      "time": 60.03,
+      "time_str": "01:00.030",
+      "text": "你长发披肩我",
+      "translation": null
+    },
+    {
+      "time": 61.17,
+      "time_str": "01:01.170",
+      "text": "渐渐的勾划出",
+      "translation": null
+    },
+    {
+      "time": 62.17,
+      "time_str": "01:02.170",
+      "text": "你嘴角弧线",
+      "translation": null
+    },
+    {
+      "time": 63.17,
+      "time_str": "01:03.170",
+      "text": "所有的从前我",
+      "translation": null
+    },
+    {
+      "time": 64.47,
+      "time_str": "01:04.470",
+      "text": "慢慢的喝掉",
+      "translation": null
+    },
+    {
+      "time": 65.32,
+      "time_str": "01:05.320",
+      "text": "有你在的画面",
+      "translation": null
+    },
+    {
+      "time": 66.43,
+      "time_str": "01:06.430",
+      "text": "手中的寂寞续杯苦了谁",
+      "translation": null
+    },
+    {
+      "time": 69.68,
+      "time_str": "01:09.680",
+      "text": "清醒了当初离开",
+      "translation": null
+    },
+    {
+      "time": 71.73,
+      "time_str": "01:11.730",
+      "text": "你的感觉",
+      "translation": null
+    },
+    {
+      "time": 72.92,
+      "time_str": "01:12.920",
+      "text": "在不是冬天季节",
+      "translation": null
+    },
+    {
+      "time": 74.83,
+      "time_str": "01:14.830",
+      "text": "冷了离别",
+      "translation": null
+    },
+    {
+      "time": 78.54,
+      "time_str": "01:18.540",
+      "text": "我还想听你叫我宝贝",
+      "translation": null
+    },
+    {
+      "time": 82.1,
+      "time_str": "01:22.100",
+      "text": "怕你身边多了个谁",
+      "translation": null
+    },
+    {
+      "time": 85.3,
+      "time_str": "01:25.300",
+      "text": "失眠的夜独自面对",
+      "translation": null
+    },
+    {
+      "time": 88.55,
+      "time_str": "01:28.550",
+      "text": "花少了蝶树枯了叶",
+      "translation": null
+    },
+    {
+      "time": 91.8,
+      "time_str": "01:31.800",
+      "text": "还想听你叫我宝贝",
+      "translation": null
+    },
+    {
+      "time": 94.87,
+      "time_str": "01:34.870",
+      "text": "痛快心碎或许干脆",
+      "translation": null
+    },
+    {
+      "time": 98.07,
+      "time_str": "01:38.070",
+      "text": "两人世界漫天的风雪",
+      "translation": null
+    },
+    {
+      "time": 102.53,
+      "time_str": "01:42.530",
+      "text": "我爱过的谁",
+      "translation": null
+    },
+    {
+      "time": 107.78,
+      "time_str": "01:47.780",
+      "text": "怎么了",
+      "translation": null
+    },
+    {
+      "time": 108.38,
+      "time_str": "01:48.380",
+      "text": "你说呢",
+      "translation": null
+    },
+    {
+      "time": 109.3,
+      "time_str": "01:49.300",
+      "text": "为何沟通最后",
+      "translation": null
+    },
+    {
+      "time": 110.45,
+      "time_str": "01:50.450",
+      "text": "总是我哭了",
+      "translation": null
+    },
+    {
+      "time": 111.85,
+      "time_str": "01:51.850",
+      "text": "不说了",
+      "translation": null
+    },
+    {
+      "time": 112.35,
+      "time_str": "01:52.350",
+      "text": "承认犯错",
+      "translation": null
+    },
+    {
+      "time": 113.0,
+      "time_str": "01:53.000",
+      "text": "又能如何你选择",
+      "translation": null
+    },
+    {
+      "time": 114.7,
+      "time_str": "01:54.700",
+      "text": "我认了",
+      "translation": null
+    },
+    {
+      "time": 115.46,
+      "time_str": "01:55.460",
+      "text": "是不是我们都太自我",
+      "translation": null
+    },
+    {
+      "time": 117.55,
+      "time_str": "01:57.550",
+      "text": "自我",
+      "translation": null
+    },
+    {
+      "time": 118.51,
+      "time_str": "01:58.510",
+      "text": "借口要自由",
+      "translation": null
+    },
+    {
+      "time": 120.51,
+      "time_str": "02:00.510",
+      "text": "沉默了",
+      "translation": null
+    },
+    {
+      "time": 121.16,
+      "time_str": "02:01.160",
+      "text": "离开了",
+      "translation": null
+    },
+    {
+      "time": 121.91,
+      "time_str": "02:01.910",
+      "text": "明明彼此付出",
+      "translation": null
+    },
+    {
+      "time": 123.11,
+      "time_str": "02:03.110",
+      "text": "比谁都要多",
+      "translation": null
+    },
+    {
+      "time": 124.46,
+      "time_str": "02:04.460",
+      "text": "我才多",
+      "translation": null
+    },
+    {
+      "time": 125.11,
+      "time_str": "02:05.110",
+      "text": "却相爱的",
+      "translation": null
+    },
+    {
+      "time": 125.81,
+      "time_str": "02:05.810",
+      "text": "比谁都要不成熟",
+      "translation": null
+    },
+    {
+      "time": 127.66,
+      "time_str": "02:07.660",
+      "text": "都怪我",
+      "translation": null
+    },
+    {
+      "time": 128.26,
+      "time_str": "02:08.260",
+      "text": "是不是等伤口都愈合",
+      "translation": null
+    },
+    {
+      "time": 130.31,
+      "time_str": "02:10.310",
+      "text": "愈合",
+      "translation": null
+    },
+    {
+      "time": 131.39,
+      "time_str": "02:11.390",
+      "text": "才能再拥有",
+      "translation": null
+    },
+    {
+      "time": 133.04,
+      "time_str": "02:13.040",
+      "text": "我用咖啡拉花",
+      "translation": null
+    },
+    {
+      "time": 134.44,
+      "time_str": "02:14.440",
+      "text": "拉出白色的线煮一杯眷恋",
+      "translation": null
+    },
+    {
+      "time": 136.6,
+      "time_str": "02:16.600",
+      "text": "你侧脸在咖啡表面",
+      "translation": null
+    },
+    {
+      "time": 138.01,
+      "time_str": "02:18.010",
+      "text": "形成了思念形成怀念",
+      "translation": null
+    },
+    {
+      "time": 139.86,
+      "time_str": "02:19.860",
+      "text": "你长发披肩",
+      "translation": null
+    },
+    {
+      "time": 141.2,
+      "time_str": "02:21.200",
+      "text": "我渐渐的勾画出你嘴角弧线",
+      "translation": null
+    },
+    {
+      "time": 143.25,
+      "time_str": "02:23.250",
+      "text": "所有的从前",
+      "translation": null
+    },
+    {
+      "time": 144.3,
+      "time_str": "02:24.300",
+      "text": "我慢慢的喝掉",
+      "translation": null
+    },
+    {
+      "time": 145.3,
+      "time_str": "02:25.300",
+      "text": "有你在的画面",
+      "translation": null
+    },
+    {
+      "time": 146.71,
+      "time_str": "02:26.710",
+      "text": "手中的寂寞续杯苦了谁",
+      "translation": null
+    },
+    {
+      "time": 149.61,
+      "time_str": "02:29.610",
+      "text": "清醒了当初离开你的感觉",
+      "translation": null
+    },
+    {
+      "time": 152.86,
+      "time_str": "02:32.860",
+      "text": "在不是冬天季节冷了离别",
+      "translation": null
+    },
+    {
+      "time": 158.61,
+      "time_str": "02:38.610",
+      "text": "我还想听你叫我宝贝",
+      "translation": null
+    },
+    {
+      "time": 162.06,
+      "time_str": "02:42.060",
+      "text": "怕你身边多了个谁",
+      "translation": null
+    },
+    {
+      "time": 165.26,
+      "time_str": "02:45.260",
+      "text": "失眠的夜独自面对",
+      "translation": null
+    },
+    {
+      "time": 168.46,
+      "time_str": "02:48.460",
+      "text": "花少了蝶树枯了叶",
+      "translation": null
+    },
+    {
+      "time": 171.77,
+      "time_str": "02:51.770",
+      "text": "还想听你叫我宝贝",
+      "translation": null
+    },
+    {
+      "time": 174.85,
+      "time_str": "02:54.850",
+      "text": "痛快心碎或许干脆",
+      "translation": null
+    },
+    {
+      "time": 178.1,
+      "time_str": "02:58.100",
+      "text": "两人世界漫天的风雪",
+      "translation": null
+    },
+    {
+      "time": 182.33,
+      "time_str": "03:02.330",
+      "text": "我爱过的谁",
+      "translation": null
+    },
+    {
+      "time": 184.18,
+      "time_str": "03:04.180",
+      "text": "我还想听你叫我宝贝",
+      "translation": null
+    },
+    {
+      "time": 187.63,
+      "time_str": "03:07.630",
+      "text": "怕你身边多了个谁",
+      "translation": null
+    },
+    {
+      "time": 190.83,
+      "time_str": "03:10.830",
+      "text": "失眠的夜独自面对",
+      "translation": null
+    },
+    {
+      "time": 194.03,
+      "time_str": "03:14.030",
+      "text": "花少了蝶树枯了叶",
+      "translation": null
+    },
+    {
+      "time": 197.33,
+      "time_str": "03:17.330",
+      "text": "还想听你叫我宝贝",
+      "translation": null
+    },
+    {
+      "time": 200.38,
+      "time_str": "03:20.380",
+      "text": "痛快心碎或许干脆",
+      "translation": null
+    },
+    {
+      "time": 203.59,
+      "time_str": "03:23.590",
+      "text": "两人世界漫天的风雪",
+      "translation": null
+    },
+    {
+      "time": 208.18,
+      "time_str": "03:28.180",
+      "text": "我爱过的谁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "怎么了 - 周杰伦,袁咏琳.lrc"
+}

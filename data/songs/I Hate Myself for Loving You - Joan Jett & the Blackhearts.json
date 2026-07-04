@@ -1,0 +1,244 @@
+{
+  "title": "I Hate Myself for Loving You",
+  "title_raw": "I Hate Myself for Loving You",
+  "version": null,
+  "artist": "Joan Jett & the Blackhearts",
+  "group_key": "i hate myself for loving you|joan jett & the blackhearts",
+  "writers": {
+    "lyricist": "Desmond Child/Joan Jett",
+    "composer": "Desmond Child/Joan Jett",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.52,
+      "time_str": "00:25.520",
+      "text": "Midnight gettin' uptight Where are you",
+      "translation": "午夜时分 气氛正好而你在哪里？"
+    },
+    {
+      "time": 30.1,
+      "time_str": "00:30.100",
+      "text": "You said you'd meet me now it's quarter to two",
+      "translation": "你说会来找我 但此时此刻已经一点四十五分"
+    },
+    {
+      "time": 34.27,
+      "time_str": "00:34.270",
+      "text": "I know I'm hangin' but I'm still wantin' you",
+      "translation": "我明白自己犹豫不决 但我依然需要你"
+    },
+    {
+      "time": 37.86,
+      "time_str": "00:37.860",
+      "text": "Hey Jack It's a fact they're talkin' in town",
+      "translation": "嘿 杰克 城里的人们真的议论纷纷"
+    },
+    {
+      "time": 42.32,
+      "time_str": "00:42.320",
+      "text": "I turn my back and you're messin' around",
+      "translation": "我置若罔闻 你却越闹越大"
+    },
+    {
+      "time": 46.14,
+      "time_str": "00:46.140",
+      "text": "I'm not really jealous don't like lookin' like a clown",
+      "translation": "我不是真的吃醋 只是不想被人当小丑看待"
+    },
+    {
+      "time": 50.59,
+      "time_str": "00:50.590",
+      "text": "I think of you every night and day",
+      "translation": "我日日夜夜都想着你"
+    },
+    {
+      "time": 54.63,
+      "time_str": "00:54.630",
+      "text": "You took my heart then you took my pride away",
+      "translation": "你带走了我的心 然后又夺走了我的尊严"
+    },
+    {
+      "time": 62.229,
+      "time_str": "01:02.229",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 66.26,
+      "time_str": "01:06.260",
+      "text": "Can't break free from the things that you do",
+      "translation": "无法从你的所作所为中泰然自若"
+    },
+    {
+      "time": 70.87,
+      "time_str": "01:10.870",
+      "text": "I wanna walk but I run back to you that's why",
+      "translation": "我曾经离开 却又回到你身边"
+    },
+    {
+      "time": 74.349,
+      "time_str": "01:14.349",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 84.68,
+      "time_str": "01:24.680",
+      "text": "Daylight spent the night without you",
+      "translation": "白天了 我没有你而过了一晚"
+    },
+    {
+      "time": 99.7,
+      "time_str": "01:39.700",
+      "text": "But I've been dreamin' 'bout the lovin' you do",
+      "translation": "但我一直梦想着你的爱"
+    },
+    {
+      "time": 103.09,
+      "time_str": "01:43.090",
+      "text": "I won't be as angry 'bout the hell you put me through",
+      "translation": "你对我那么糟 但我已经没那么生气了"
+    },
+    {
+      "time": 107.049,
+      "time_str": "01:47.049",
+      "text": "Hey man bet you can treat me right",
+      "translation": "嗨 老兄 我打赌你会对我好"
+    },
+    {
+      "time": 111.659,
+      "time_str": "01:51.659",
+      "text": "He just doesn't know what you was missin' last night",
+      "translation": "你只是不清楚昨晚错过了什么"
+    },
+    {
+      "time": 115.54,
+      "time_str": "01:55.540",
+      "text": "I wanna see your face and say forget it just from spite",
+      "translation": "我想看看你 告诉你忘掉这些不愉快"
+    },
+    {
+      "time": 119.578,
+      "time_str": "01:59.578",
+      "text": "I think of you every night and day",
+      "translation": "我日日夜夜都想着你"
+    },
+    {
+      "time": 123.578,
+      "time_str": "02:03.578",
+      "text": "You took my heart then you took my pride away",
+      "translation": "你带走了我的心 然后又夺走了我的尊严"
+    },
+    {
+      "time": 131.25,
+      "time_str": "02:11.250",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 135.28,
+      "time_str": "02:15.280",
+      "text": "Can't break free from the things that you do",
+      "translation": "无法从你的所作所为中泰然自若"
+    },
+    {
+      "time": 139.879,
+      "time_str": "02:19.879",
+      "text": "I wanna walk but I run back to you, that's why",
+      "translation": "我曾经离开 却又回到你身边"
+    },
+    {
+      "time": 144.299,
+      "time_str": "02:24.299",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 164.039,
+      "time_str": "02:44.039",
+      "text": "I think of you ev'ry night and day",
+      "translation": "我日日夜夜都想着你"
+    },
+    {
+      "time": 167.86,
+      "time_str": "02:47.860",
+      "text": "You took my heart then you took my pride away",
+      "translation": "你带走了我的心 然后又夺走了我的尊严"
+    },
+    {
+      "time": 175.69,
+      "time_str": "02:55.690",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 179.329,
+      "time_str": "02:59.329",
+      "text": "Can't break free from the things that you do",
+      "translation": "无法从你的所作所为中泰然自若"
+    },
+    {
+      "time": 184.119,
+      "time_str": "03:04.119",
+      "text": "I wanna walk but I run back to you that's why",
+      "translation": "我曾经离开 却又回到你身边"
+    },
+    {
+      "time": 187.389,
+      "time_str": "03:07.389",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 192.03,
+      "time_str": "03:12.030",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 196.009,
+      "time_str": "03:16.009",
+      "text": "Can't break free from the things that you do",
+      "translation": "无法从你的所作所为中泰然自若"
+    },
+    {
+      "time": 200.199,
+      "time_str": "03:20.199",
+      "text": "I wanna walk but I run back to you that's why",
+      "translation": "我曾经离开 却又回到你身边"
+    },
+    {
+      "time": 204.989,
+      "time_str": "03:24.989",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 209.109,
+      "time_str": "03:29.109",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 217.129,
+      "time_str": "03:37.129",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 225.129,
+      "time_str": "03:45.129",
+      "text": "I hate myself for loving you",
+      "translation": "我恨自己爱上了你"
+    },
+    {
+      "time": 233.129,
+      "time_str": "03:53.129",
+      "text": "I hate myself I hate myself for loving you",
+      "translation": "我真的恨自己爱上了你"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "I Hate Myself for Loving You - Joan Jett & the Blackhearts.lrc"
+}

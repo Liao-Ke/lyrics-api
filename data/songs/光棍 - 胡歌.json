@@ -1,0 +1,166 @@
+{
+  "title": "光棍",
+  "title_raw": "光棍",
+  "version": null,
+  "artist": "胡歌",
+  "group_key": "光棍|胡歌",
+  "writers": {
+    "lyricist": "林乔",
+    "composer": "金大洲",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.91,
+      "time_str": "00:10.910",
+      "text": "每天都 伸着懒腰大摇大摆的享受",
+      "translation": null
+    },
+    {
+      "time": 14.88,
+      "time_str": "00:14.880",
+      "text": "这春暖花开 多潇洒",
+      "translation": null
+    },
+    {
+      "time": 19.48,
+      "time_str": "00:19.480",
+      "text": "为感情繁琐 那太傻",
+      "translation": null
+    },
+    {
+      "time": 25.33,
+      "time_str": "00:25.330",
+      "text": "乘着风 满世界嘻嘻哈哈的乱逛",
+      "translation": null
+    },
+    {
+      "time": 29.31,
+      "time_str": "00:29.310",
+      "text": "有太多新奇等我 逍遥啊",
+      "translation": null
+    },
+    {
+      "time": 34.03,
+      "time_str": "00:34.030",
+      "text": "天知道寂寞 什么滋味",
+      "translation": null
+    },
+    {
+      "time": 39.89,
+      "time_str": "00:39.890",
+      "text": "乘着风 满世界嘻嘻哈哈的乱逛",
+      "translation": null
+    },
+    {
+      "time": 43.89,
+      "time_str": "00:43.890",
+      "text": "有太多新奇等我 逍遥啊",
+      "translation": null
+    },
+    {
+      "time": 48.56,
+      "time_str": "00:48.560",
+      "text": "天知道寂寞 什么滋味 我先开心",
+      "translation": null
+    },
+    {
+      "time": 58.49,
+      "time_str": "00:58.490",
+      "text": "其他的事想它干嘛",
+      "translation": null
+    },
+    {
+      "time": 63.14,
+      "time_str": "01:03.140",
+      "text": "我以为 我就是自由自在的一个人",
+      "translation": null
+    },
+    {
+      "time": 68.35,
+      "time_str": "01:08.350",
+      "text": "为什么我一天没见到你就 焦躁难忍",
+      "translation": null
+    },
+    {
+      "time": 74.67,
+      "time_str": "01:14.670",
+      "text": "我怎么 变得这么蠢",
+      "translation": null
+    },
+    {
+      "time": 78.02,
+      "time_str": "01:18.020",
+      "text": "我以为 我就是这样快乐的光棍",
+      "translation": null
+    },
+    {
+      "time": 82.89,
+      "time_str": "01:22.890",
+      "text": "却为何老是 拼命跟自己斗气较真",
+      "translation": null
+    },
+    {
+      "time": 89.5,
+      "time_str": "01:29.500",
+      "text": "才发现 我已经 爱上你",
+      "translation": null
+    },
+    {
+      "time": 96.78,
+      "time_str": "01:36.780",
+      "text": "爱上你……",
+      "translation": null
+    },
+    {
+      "time": 115.87,
+      "time_str": "01:55.870",
+      "text": "我以为 我就是自由自在的一个人",
+      "translation": null
+    },
+    {
+      "time": 121.09,
+      "time_str": "02:01.090",
+      "text": "为什么我一天没见到你就 焦躁难忍",
+      "translation": null
+    },
+    {
+      "time": 127.39,
+      "time_str": "02:07.390",
+      "text": "我怎么 变得这么蠢",
+      "translation": null
+    },
+    {
+      "time": 130.71,
+      "time_str": "02:10.710",
+      "text": "我以为 我就是这样快乐的光棍",
+      "translation": null
+    },
+    {
+      "time": 135.56,
+      "time_str": "02:15.560",
+      "text": "却为何老是 拼命跟自己斗气较真",
+      "translation": null
+    },
+    {
+      "time": 142.16,
+      "time_str": "02:22.160",
+      "text": "才发现 我已经 爱上你",
+      "translation": null
+    },
+    {
+      "time": 153.12,
+      "time_str": "02:33.120",
+      "text": "爱上你……",
+      "translation": null
+    },
+    {
+      "time": 160.28,
+      "time_str": "02:40.280",
+      "text": "（唉，行了行了，够了够了，知道了）",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "光棍 - 胡歌.lrc"
+}

@@ -1,0 +1,256 @@
+{
+  "title": "一生有你",
+  "title_raw": "一生有你 (Live)",
+  "version": "Live",
+  "artist": "水木年华",
+  "group_key": "一生有你|水木年华",
+  "writers": {
+    "lyricist": "卢庚戌",
+    "composer": "卢庚戌",
+    "arranger": "陈若平 混音：韩金城"
+  },
+  "lyrics": [
+    {
+      "time": 1.78,
+      "time_str": "00:01.780",
+      "text": "program：王辉雄",
+      "translation": null
+    },
+    {
+      "time": 3.015,
+      "time_str": "00:03.015",
+      "text": "键盘：童达琴 罗璟田",
+      "translation": null
+    },
+    {
+      "time": 3.851,
+      "time_str": "00:03.851",
+      "text": "贝斯：谢宁宁",
+      "translation": null
+    },
+    {
+      "time": 4.529,
+      "time_str": "00:04.529",
+      "text": "鼓手：刘星星",
+      "translation": null
+    },
+    {
+      "time": 23.321,
+      "time_str": "00:23.321",
+      "text": "因为梦见你离开",
+      "translation": null
+    },
+    {
+      "time": 27.616,
+      "time_str": "00:27.616",
+      "text": "我从哭泣中醒来",
+      "translation": null
+    },
+    {
+      "time": 32.403,
+      "time_str": "00:32.403",
+      "text": "看夜风吹过窗台",
+      "translation": null
+    },
+    {
+      "time": 36.026,
+      "time_str": "00:36.026",
+      "text": "你能否感受我的爱",
+      "translation": null
+    },
+    {
+      "time": 42.294,
+      "time_str": "00:42.294",
+      "text": "等到老去那一天",
+      "translation": null
+    },
+    {
+      "time": 46.819,
+      "time_str": "00:46.819",
+      "text": "你是否还在我身边",
+      "translation": null
+    },
+    {
+      "time": 51.546,
+      "time_str": "00:51.546",
+      "text": "看那些誓言谎言",
+      "translation": null
+    },
+    {
+      "time": 55.166,
+      "time_str": "00:55.166",
+      "text": "随往事慢慢飘散",
+      "translation": null
+    },
+    {
+      "time": 63.051,
+      "time_str": "01:03.051",
+      "text": "多少人曾爱慕你年轻时的容颜",
+      "translation": null
+    },
+    {
+      "time": 67.613,
+      "time_str": "01:07.613",
+      "text": "可知谁愿承受岁月无情的变迁",
+      "translation": null
+    },
+    {
+      "time": 72.633,
+      "time_str": "01:12.633",
+      "text": "多少人曾在你生命中来了又还",
+      "translation": null
+    },
+    {
+      "time": 77.383,
+      "time_str": "01:17.383",
+      "text": "可知一生有你我都陪在你身边",
+      "translation": null
+    },
+    {
+      "time": 102.11,
+      "time_str": "01:42.110",
+      "text": "因为梦见你离开",
+      "translation": null
+    },
+    {
+      "time": 106.858,
+      "time_str": "01:46.858",
+      "text": "我从哭泣中醒来",
+      "translation": null
+    },
+    {
+      "time": 111.654,
+      "time_str": "01:51.654",
+      "text": "看夜风吹过窗台",
+      "translation": null
+    },
+    {
+      "time": 115.282,
+      "time_str": "01:55.282",
+      "text": "你能否感受我的爱",
+      "translation": null
+    },
+    {
+      "time": 121.776,
+      "time_str": "02:01.776",
+      "text": "等到老去那一天",
+      "translation": null
+    },
+    {
+      "time": 126.31,
+      "time_str": "02:06.310",
+      "text": "你是否还在我身边",
+      "translation": null
+    },
+    {
+      "time": 130.817,
+      "time_str": "02:10.817",
+      "text": "看那些誓言谎言",
+      "translation": null
+    },
+    {
+      "time": 134.52,
+      "time_str": "02:14.520",
+      "text": "随往事慢慢飘散",
+      "translation": null
+    },
+    {
+      "time": 142.501,
+      "time_str": "02:22.501",
+      "text": "多少人曾爱慕你年轻时的容颜",
+      "translation": null
+    },
+    {
+      "time": 146.989,
+      "time_str": "02:26.989",
+      "text": "可知谁愿承受岁月无情的变迁",
+      "translation": null
+    },
+    {
+      "time": 152.086,
+      "time_str": "02:32.086",
+      "text": "多少人曾在你生命中来了又还",
+      "translation": null
+    },
+    {
+      "time": 156.606,
+      "time_str": "02:36.606",
+      "text": "可知一生有你我都陪在你身边",
+      "translation": null
+    },
+    {
+      "time": 164.636,
+      "time_str": "02:44.636",
+      "text": "当所有一切都已看平淡",
+      "translation": null
+    },
+    {
+      "time": 171.852,
+      "time_str": "02:51.852",
+      "text": "是否有一种坚持还留在心间",
+      "translation": null
+    },
+    {
+      "time": 177.658,
+      "time_str": "02:57.658",
+      "text": "呼哦 哦",
+      "translation": null
+    },
+    {
+      "time": 185.403,
+      "time_str": "03:05.403",
+      "text": "多少人曾爱慕你年轻时的容颜",
+      "translation": null
+    },
+    {
+      "time": 190.171,
+      "time_str": "03:10.171",
+      "text": "可知谁愿承受岁月无情的变迁",
+      "translation": null
+    },
+    {
+      "time": 194.978,
+      "time_str": "03:14.978",
+      "text": "多少人曾在你生命中来了又还",
+      "translation": null
+    },
+    {
+      "time": 199.723,
+      "time_str": "03:19.723",
+      "text": "可知一生有你我都陪在你身边",
+      "translation": null
+    },
+    {
+      "time": 204.633,
+      "time_str": "03:24.633",
+      "text": "多少人曾爱慕你年轻时的容颜",
+      "translation": null
+    },
+    {
+      "time": 209.325,
+      "time_str": "03:29.325",
+      "text": "可知谁愿承受岁月无情的变迁",
+      "translation": null
+    },
+    {
+      "time": 214.167,
+      "time_str": "03:34.167",
+      "text": "多少人曾在你生命中来了又还",
+      "translation": null
+    },
+    {
+      "time": 218.974,
+      "time_str": "03:38.974",
+      "text": "可知一生有你我都陪在你身边",
+      "translation": null
+    },
+    {
+      "time": 224.043,
+      "time_str": "03:44.043",
+      "text": "可知一生有你我都陪在你身边",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一生有你 (Live) - 水木年华.lrc"
+}

@@ -1,0 +1,406 @@
+{
+  "title": "不怕不怕",
+  "title_raw": "不怕不怕",
+  "version": null,
+  "artist": "美美jocie",
+  "group_key": "不怕不怕|美美jocie",
+  "writers": {
+    "lyricist": "Dan Bălan/Xiao Wei",
+    "composer": "Dan Bălan",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.19,
+      "time_str": "00:01.190",
+      "text": "MAI-A-HEE MAI-A-HU",
+      "translation": null
+    },
+    {
+      "time": 5.14,
+      "time_str": "00:05.140",
+      "text": "MAI-A-HO MAI-A-HA-HA",
+      "translation": null
+    },
+    {
+      "time": 8.88,
+      "time_str": "00:08.880",
+      "text": "MAI-A-HEE MAI-A-HU",
+      "translation": null
+    },
+    {
+      "time": 12.31,
+      "time_str": "00:12.310",
+      "text": "MAI-A-HO MAI-A-HA-HA",
+      "translation": null
+    },
+    {
+      "time": 16.39,
+      "time_str": "00:16.390",
+      "text": "MAI-A-HEE MAI-A-HU",
+      "translation": null
+    },
+    {
+      "time": 19.93,
+      "time_str": "00:19.930",
+      "text": "MAI-A-HO MAI-A-HA-HA",
+      "translation": null
+    },
+    {
+      "time": 23.49,
+      "time_str": "00:23.490",
+      "text": "MAI-A-HEE MAI-A-HU",
+      "translation": null
+    },
+    {
+      "time": 27.31,
+      "time_str": "00:27.310",
+      "text": "MAI-A-HO MAI-A-HA-HA",
+      "translation": null
+    },
+    {
+      "time": 33.07,
+      "time_str": "00:33.070",
+      "text": "HELLO！看我！",
+      "translation": null
+    },
+    {
+      "time": 37.05,
+      "time_str": "00:37.050",
+      "text": "你在害怕什么？",
+      "translation": null
+    },
+    {
+      "time": 40.52,
+      "time_str": "00:40.520",
+      "text": "是我错，",
+      "translation": null
+    },
+    {
+      "time": 42.4,
+      "time_str": "00:42.400",
+      "text": "没能够啊 把自己变得成熟",
+      "translation": null
+    },
+    {
+      "time": 48.09,
+      "time_str": "00:48.090",
+      "text": "伤口 那么多",
+      "translation": null
+    },
+    {
+      "time": 51.56,
+      "time_str": "00:51.560",
+      "text": "已经不怕再痛",
+      "translation": null
+    },
+    {
+      "time": 55.35,
+      "time_str": "00:55.350",
+      "text": "没什么 转身以后",
+      "translation": null
+    },
+    {
+      "time": 58.57,
+      "time_str": "00:58.570",
+      "text": "我会练成无敌神功!",
+      "translation": null
+    },
+    {
+      "time": 62.47,
+      "time_str": "01:02.470",
+      "text": "看见蟑螂",
+      "translation": null
+    },
+    {
+      "time": 64.12,
+      "time_str": "01:04.120",
+      "text": "我不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 65.97,
+      "time_str": "01:05.970",
+      "text": "我神经比较大",
+      "translation": null
+    },
+    {
+      "time": 67.77,
+      "time_str": "01:07.770",
+      "text": "不怕不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 69.74,
+      "time_str": "01:09.740",
+      "text": "胆怯只会让自己更憔悴",
+      "translation": null
+    },
+    {
+      "time": 73.36,
+      "time_str": "01:13.360",
+      "text": "麻痹也是勇敢表现",
+      "translation": null
+    },
+    {
+      "time": 77.18,
+      "time_str": "01:17.180",
+      "text": "一个人睡也不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 80.75,
+      "time_str": "01:20.750",
+      "text": "勇气当棉被",
+      "translation": null
+    },
+    {
+      "time": 82.62,
+      "time_str": "01:22.620",
+      "text": "不怕不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 84.51,
+      "time_str": "01:24.510",
+      "text": "夜晚再黑我就当看不见",
+      "translation": null
+    },
+    {
+      "time": 88.17,
+      "time_str": "01:28.170",
+      "text": "太阳一定就快出现",
+      "translation": null
+    },
+    {
+      "time": 92.35,
+      "time_str": "01:32.350",
+      "text": "HELLO！看我！",
+      "translation": null
+    },
+    {
+      "time": 95.99,
+      "time_str": "01:35.990",
+      "text": "你在害怕什么？",
+      "translation": null
+    },
+    {
+      "time": 99.57,
+      "time_str": "01:39.570",
+      "text": "是我错，",
+      "translation": null
+    },
+    {
+      "time": 101.43,
+      "time_str": "01:41.430",
+      "text": "没能够啊 把自己变得成熟",
+      "translation": null
+    },
+    {
+      "time": 107.25,
+      "time_str": "01:47.250",
+      "text": "伤口 那么多",
+      "translation": null
+    },
+    {
+      "time": 110.63,
+      "time_str": "01:50.630",
+      "text": "没地方可以再受伤了",
+      "translation": null
+    },
+    {
+      "time": 114.25,
+      "time_str": "01:54.250",
+      "text": "没什么 转身以后",
+      "translation": null
+    },
+    {
+      "time": 117.77,
+      "time_str": "01:57.770",
+      "text": "我会练成无敌神功!",
+      "translation": null
+    },
+    {
+      "time": 121.27,
+      "time_str": "02:01.270",
+      "text": "看见蟑螂",
+      "translation": null
+    },
+    {
+      "time": 122.94,
+      "time_str": "02:02.940",
+      "text": "我不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 124.97,
+      "time_str": "02:04.970",
+      "text": "我神经比较大",
+      "translation": null
+    },
+    {
+      "time": 126.67,
+      "time_str": "02:06.670",
+      "text": "不怕不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 128.77,
+      "time_str": "02:08.770",
+      "text": "胆怯只会让自己更憔悴",
+      "translation": null
+    },
+    {
+      "time": 132.39,
+      "time_str": "02:12.390",
+      "text": "麻痹也是勇敢表现",
+      "translation": null
+    },
+    {
+      "time": 136.11,
+      "time_str": "02:16.110",
+      "text": "一个人睡也不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 139.83,
+      "time_str": "02:19.830",
+      "text": "勇气当棉被",
+      "translation": null
+    },
+    {
+      "time": 141.59,
+      "time_str": "02:21.590",
+      "text": "不怕不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 143.6,
+      "time_str": "02:23.600",
+      "text": "夜晚再黑我就当看不见",
+      "translation": null
+    },
+    {
+      "time": 147.28,
+      "time_str": "02:27.280",
+      "text": "太阳一定就快出现",
+      "translation": null
+    },
+    {
+      "time": 150.96,
+      "time_str": "02:30.960",
+      "text": "MAI-A-HEE MAI-A-HU",
+      "translation": null
+    },
+    {
+      "time": 154.47,
+      "time_str": "02:34.470",
+      "text": "MAI-A-HO MAI-A-HA-HA",
+      "translation": null
+    },
+    {
+      "time": 158.33,
+      "time_str": "02:38.330",
+      "text": "MAI-A-HEE MAI-A-HU",
+      "translation": null
+    },
+    {
+      "time": 161.92,
+      "time_str": "02:41.920",
+      "text": "MAI-A-HO MAI-A-HA-HA",
+      "translation": null
+    },
+    {
+      "time": 165.84,
+      "time_str": "02:45.840",
+      "text": "MAI-A-HEE MAI-A-HU",
+      "translation": null
+    },
+    {
+      "time": 169.41,
+      "time_str": "02:49.410",
+      "text": "MAI-A-HO MAI-A-HA-HA",
+      "translation": null
+    },
+    {
+      "time": 172.94,
+      "time_str": "02:52.940",
+      "text": "MAI-A-HEE MAI-A-HU",
+      "translation": null
+    },
+    {
+      "time": 176.77,
+      "time_str": "02:56.770",
+      "text": "MAI-A-HO MAI-A-HA-HA",
+      "translation": null
+    },
+    {
+      "time": 180.44,
+      "time_str": "03:00.440",
+      "text": "看见蟑螂",
+      "translation": null
+    },
+    {
+      "time": 182.09,
+      "time_str": "03:02.090",
+      "text": "我不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 183.98,
+      "time_str": "03:03.980",
+      "text": "我神经比较大",
+      "translation": null
+    },
+    {
+      "time": 185.82,
+      "time_str": "03:05.820",
+      "text": "不怕不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 187.92,
+      "time_str": "03:07.920",
+      "text": "胆怯只会让自己更憔悴",
+      "translation": null
+    },
+    {
+      "time": 191.56,
+      "time_str": "03:11.560",
+      "text": "麻痹也是勇敢表现",
+      "translation": null
+    },
+    {
+      "time": 195.27,
+      "time_str": "03:15.270",
+      "text": "一个人睡也不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 198.81,
+      "time_str": "03:18.810",
+      "text": "勇气当棉被",
+      "translation": null
+    },
+    {
+      "time": 200.67,
+      "time_str": "03:20.670",
+      "text": "不怕不怕不怕啦",
+      "translation": null
+    },
+    {
+      "time": 202.66,
+      "time_str": "03:22.660",
+      "text": "夜晚再黑我就当看不见",
+      "translation": null
+    },
+    {
+      "time": 206.32,
+      "time_str": "03:26.320",
+      "text": "太阳一定就快出现",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不怕不怕 - 美美jocie.lrc"
+}

@@ -1,0 +1,280 @@
+{
+  "title": "小小",
+  "title_raw": "小小",
+  "version": null,
+  "artist": "容祖儿",
+  "group_key": "小小|容祖儿",
+  "writers": {
+    "lyricist": "Fang Wen Shan",
+    "composer": "周杰伦",
+    "arranger": "林迈可"
+  },
+  "lyrics": [
+    {
+      "time": 16.98,
+      "time_str": "00:16.980",
+      "text": "回忆像个说书的人",
+      "translation": null
+    },
+    {
+      "time": 20.74,
+      "time_str": "00:20.740",
+      "text": "用充满乡音的口吻",
+      "translation": null
+    },
+    {
+      "time": 24.76,
+      "time_str": "00:24.760",
+      "text": "跳过水坑 绕过小村",
+      "translation": null
+    },
+    {
+      "time": 28.74,
+      "time_str": "00:28.740",
+      "text": "等相遇的缘份",
+      "translation": null
+    },
+    {
+      "time": 32.8,
+      "time_str": "00:32.800",
+      "text": "你用泥巴捏一座城",
+      "translation": null
+    },
+    {
+      "time": 36.62,
+      "time_str": "00:36.620",
+      "text": "说将来要娶我进门",
+      "translation": null
+    },
+    {
+      "time": 40.72,
+      "time_str": "00:40.720",
+      "text": "转多少身 过几次门 虚掷青春",
+      "translation": null
+    },
+    {
+      "time": 48.7,
+      "time_str": "00:48.700",
+      "text": "小小的誓言还不稳",
+      "translation": null
+    },
+    {
+      "time": 52.63,
+      "time_str": "00:52.630",
+      "text": "小小的泪水还在撑",
+      "translation": null
+    },
+    {
+      "time": 56.28,
+      "time_str": "00:56.280",
+      "text": "稚嫩的唇 在说离分",
+      "translation": null
+    },
+    {
+      "time": 63.96,
+      "time_str": "01:03.960",
+      "text": "我的心里从此住了一个人",
+      "translation": null
+    },
+    {
+      "time": 68.26,
+      "time_str": "01:08.260",
+      "text": "曾经模样小小的我们",
+      "translation": null
+    },
+    {
+      "time": 72.36,
+      "time_str": "01:12.360",
+      "text": "那年你搬小小的板凳",
+      "translation": null
+    },
+    {
+      "time": 76.49,
+      "time_str": "01:16.490",
+      "text": "为戏入迷我也一路跟",
+      "translation": null
+    },
+    {
+      "time": 80.11,
+      "time_str": "01:20.110",
+      "text": "我在找那个故事里的人",
+      "translation": null
+    },
+    {
+      "time": 84.38,
+      "time_str": "01:24.380",
+      "text": "你是不能缺少的部份",
+      "translation": null
+    },
+    {
+      "time": 88.42,
+      "time_str": "01:28.420",
+      "text": "你在树下小小的打盹",
+      "translation": null
+    },
+    {
+      "time": 92.27,
+      "time_str": "01:32.270",
+      "text": "小小的我傻傻等",
+      "translation": null
+    },
+    {
+      "time": 134.86,
+      "time_str": "02:14.860",
+      "text": "回忆像个说书的人",
+      "translation": null
+    },
+    {
+      "time": 138.76,
+      "time_str": "02:18.760",
+      "text": "用充满乡音的口吻",
+      "translation": null
+    },
+    {
+      "time": 142.65,
+      "time_str": "02:22.650",
+      "text": "跳过水坑 绕过小村",
+      "translation": null
+    },
+    {
+      "time": 146.64,
+      "time_str": "02:26.640",
+      "text": "等相遇的缘份",
+      "translation": null
+    },
+    {
+      "time": 150.86,
+      "time_str": "02:30.860",
+      "text": "你用泥巴捏一座城",
+      "translation": null
+    },
+    {
+      "time": 154.67,
+      "time_str": "02:34.670",
+      "text": "说将来要娶我进门",
+      "translation": null
+    },
+    {
+      "time": 158.65,
+      "time_str": "02:38.650",
+      "text": "转多少身 过几次门 虚掷青春",
+      "translation": null
+    },
+    {
+      "time": 166.8,
+      "time_str": "02:46.800",
+      "text": "小小的感动雨纷纷",
+      "translation": null
+    },
+    {
+      "time": 170.8,
+      "time_str": "02:50.800",
+      "text": "小小的别扭惹人疼",
+      "translation": null
+    },
+    {
+      "time": 174.35,
+      "time_str": "02:54.350",
+      "text": "小小的人 还不会吻",
+      "translation": null
+    },
+    {
+      "time": 181.88,
+      "time_str": "03:01.880",
+      "text": "我的心里从此住了一个人",
+      "translation": null
+    },
+    {
+      "time": 186.26,
+      "time_str": "03:06.260",
+      "text": "曾经模样小小的我们",
+      "translation": null
+    },
+    {
+      "time": 190.29,
+      "time_str": "03:10.290",
+      "text": "那年你搬小小的板凳",
+      "translation": null
+    },
+    {
+      "time": 194.28,
+      "time_str": "03:14.280",
+      "text": "为戏入迷我也一路跟",
+      "translation": null
+    },
+    {
+      "time": 198.13,
+      "time_str": "03:18.130",
+      "text": "我在找那个故事里的人",
+      "translation": null
+    },
+    {
+      "time": 202.36,
+      "time_str": "03:22.360",
+      "text": "你是不能缺少的部份",
+      "translation": null
+    },
+    {
+      "time": 206.37,
+      "time_str": "03:26.370",
+      "text": "你在树下小小的打盹",
+      "translation": null
+    },
+    {
+      "time": 210.24,
+      "time_str": "03:30.240",
+      "text": "小小的我傻傻等",
+      "translation": null
+    },
+    {
+      "time": 217.93,
+      "time_str": "03:37.930",
+      "text": "我的心里从此住了一个人",
+      "translation": null
+    },
+    {
+      "time": 222.3,
+      "time_str": "03:42.300",
+      "text": "曾经模样小小的我们",
+      "translation": null
+    },
+    {
+      "time": 226.23,
+      "time_str": "03:46.230",
+      "text": "当初学人说爱念剧本",
+      "translation": null
+    },
+    {
+      "time": 230.25,
+      "time_str": "03:50.250",
+      "text": "缺牙的你发音却不准",
+      "translation": null
+    },
+    {
+      "time": 234.05,
+      "time_str": "03:54.050",
+      "text": "我在找那个故事里的人",
+      "translation": null
+    },
+    {
+      "time": 238.22,
+      "time_str": "03:58.220",
+      "text": "你是不能缺少的部份",
+      "translation": null
+    },
+    {
+      "time": 242.41,
+      "time_str": "04:02.410",
+      "text": "小小的手牵小小的人",
+      "translation": null
+    },
+    {
+      "time": 246.32,
+      "time_str": "04:06.320",
+      "text": "守着小小的永恒",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "小小 - 容祖儿.lrc"
+}

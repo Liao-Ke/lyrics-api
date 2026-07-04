@@ -1,0 +1,292 @@
+{
+  "title": "再见杰克",
+  "title_raw": "再见杰克",
+  "version": null,
+  "artist": "痛仰乐队",
+  "group_key": "再见杰克|痛仰乐队",
+  "writers": {
+    "lyricist": "高虎",
+    "composer": "高虎",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.087,
+      "time_str": "00:29.087",
+      "text": "雨绵绵的下过古城",
+      "translation": null
+    },
+    {
+      "time": 32.457,
+      "time_str": "00:32.457",
+      "text": "人民路有我的好心情",
+      "translation": null
+    },
+    {
+      "time": 36.846,
+      "time_str": "00:36.846",
+      "text": "今天就像一封写好的游戏",
+      "translation": null
+    },
+    {
+      "time": 40.842,
+      "time_str": "00:40.842",
+      "text": "等着贴上一枚新邮票",
+      "translation": null
+    },
+    {
+      "time": 44.761,
+      "time_str": "00:44.761",
+      "text": "宁愿我的心里没有平静",
+      "translation": null
+    },
+    {
+      "time": 48.183,
+      "time_str": "00:48.183",
+      "text": "遗忘的只能剩下美好",
+      "translation": null
+    },
+    {
+      "time": 52.597,
+      "time_str": "00:52.597",
+      "text": "过去就像脑海里翻腾的喧嚣",
+      "translation": null
+    },
+    {
+      "time": 56.568,
+      "time_str": "00:56.568",
+      "text": "繁星在梦里闪耀",
+      "translation": null
+    },
+    {
+      "time": 60.277,
+      "time_str": "01:00.277",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 62.237,
+      "time_str": "01:02.237",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 64.666,
+      "time_str": "01:04.666",
+      "text": "不要让疑问留停在心间",
+      "translation": null
+    },
+    {
+      "time": 68.166,
+      "time_str": "01:08.166",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 70.073,
+      "time_str": "01:10.073",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 72.607,
+      "time_str": "01:12.607",
+      "text": "不要让疑问留停在心间",
+      "translation": null
+    },
+    {
+      "time": 91.99,
+      "time_str": "01:31.990",
+      "text": "雨绵绵的下过古城",
+      "translation": null
+    },
+    {
+      "time": 95.36,
+      "time_str": "01:35.360",
+      "text": "人民路有我的好心情",
+      "translation": null
+    },
+    {
+      "time": 99.827,
+      "time_str": "01:39.827",
+      "text": "今天就像一封写好的游戏",
+      "translation": null
+    },
+    {
+      "time": 103.797,
+      "time_str": "01:43.797",
+      "text": "等着贴上一枚新邮票",
+      "translation": null
+    },
+    {
+      "time": 107.716,
+      "time_str": "01:47.716",
+      "text": "宁愿我的心里没有平静",
+      "translation": null
+    },
+    {
+      "time": 111.086,
+      "time_str": "01:51.086",
+      "text": "遗忘的只能剩下美好",
+      "translation": null
+    },
+    {
+      "time": 115.553,
+      "time_str": "01:55.553",
+      "text": "过去就像脑海里翻腾的喧嚣",
+      "translation": null
+    },
+    {
+      "time": 119.523,
+      "time_str": "01:59.523",
+      "text": "繁星在梦里闪耀",
+      "translation": null
+    },
+    {
+      "time": 123.128,
+      "time_str": "02:03.128",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 125.14,
+      "time_str": "02:05.140",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 127.569,
+      "time_str": "02:07.569",
+      "text": "不要让疑问留停在心间",
+      "translation": null
+    },
+    {
+      "time": 131.043,
+      "time_str": "02:11.043",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 133.002,
+      "time_str": "02:13.002",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 135.432,
+      "time_str": "02:15.432",
+      "text": "不要让疑问留停在心间",
+      "translation": null
+    },
+    {
+      "time": 139.141,
+      "time_str": "02:19.141",
+      "text": "再见杰克",
+      "translation": null
+    },
+    {
+      "time": 143.06,
+      "time_str": "02:23.060",
+      "text": "再见我的凯鲁亚克",
+      "translation": null
+    },
+    {
+      "time": 147.004,
+      "time_str": "02:27.004",
+      "text": "再见杰克",
+      "translation": null
+    },
+    {
+      "time": 150.922,
+      "time_str": "02:30.922",
+      "text": "再见我的凯鲁亚克",
+      "translation": null
+    },
+    {
+      "time": 186.371,
+      "time_str": "03:06.371",
+      "text": "再见杰克",
+      "translation": null
+    },
+    {
+      "time": 190.315,
+      "time_str": "03:10.315",
+      "text": "再见我的凯鲁亚克",
+      "translation": null
+    },
+    {
+      "time": 194.207,
+      "time_str": "03:14.207",
+      "text": "再见杰克",
+      "translation": null
+    },
+    {
+      "time": 198.126,
+      "time_str": "03:18.126",
+      "text": "再见我的凯鲁亚克",
+      "translation": null
+    },
+    {
+      "time": 201.861,
+      "time_str": "03:21.861",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 203.846,
+      "time_str": "03:23.846",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 206.276,
+      "time_str": "03:26.276",
+      "text": "不要让疑问留停在心间",
+      "translation": null
+    },
+    {
+      "time": 209.724,
+      "time_str": "03:29.724",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 211.709,
+      "time_str": "03:31.709",
+      "text": "让我欢乐一点",
+      "translation": null
+    },
+    {
+      "time": 214.217,
+      "time_str": "03:34.217",
+      "text": "不要让疑问留停在心间",
+      "translation": null
+    },
+    {
+      "time": 217.874,
+      "time_str": "03:37.874",
+      "text": "再见杰克",
+      "translation": null
+    },
+    {
+      "time": 221.819,
+      "time_str": "03:41.819",
+      "text": "再见我的凯鲁亚克",
+      "translation": null
+    },
+    {
+      "time": 225.789,
+      "time_str": "03:45.789",
+      "text": "再见杰克",
+      "translation": null
+    },
+    {
+      "time": 229.708,
+      "time_str": "03:49.708",
+      "text": "再见我的凯鲁亚克",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "再见杰克 - 痛仰乐队.lrc"
+}

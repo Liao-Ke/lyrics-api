@@ -1,0 +1,268 @@
+{
+  "title": "路过人间",
+  "title_raw": "路过人间",
+  "version": null,
+  "artist": "郁可唯",
+  "group_key": "路过人间|郁可唯",
+  "writers": {
+    "lyricist": "施人诚",
+    "composer": "张简君伟",
+    "arranger": "许钧"
+  },
+  "lyrics": [
+    {
+      "time": 5.0,
+      "time_str": "00:05.000",
+      "text": "音乐总监 : 荒井十一",
+      "translation": null
+    },
+    {
+      "time": 6.0,
+      "time_str": "00:06.000",
+      "text": "音乐统筹 : 许夙@ELEVENZMUSIC",
+      "translation": null
+    },
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "制作协力 : 王矜霖@ELEVENZMUSIC",
+      "translation": null
+    },
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "乐队总监 : Lawrence Ku顾忠山＠11zband",
+      "translation": null
+    },
+    {
+      "time": 10.0,
+      "time_str": "00:10.000",
+      "text": "贝斯 : Damien Banzigou ＠11zband",
+      "translation": null
+    },
+    {
+      "time": 12.0,
+      "time_str": "00:12.000",
+      "text": "键盘 : 弋洋/刘晓光 ＠11zband",
+      "translation": null
+    },
+    {
+      "time": 13.0,
+      "time_str": "00:13.000",
+      "text": "小提琴 : 刘星 ＠11zband",
+      "translation": null
+    },
+    {
+      "time": 15.0,
+      "time_str": "00:15.000",
+      "text": "PGM : Sanbist Lin克昶 ＠11zband",
+      "translation": null
+    },
+    {
+      "time": 37.38,
+      "time_str": "00:37.380",
+      "text": "嘿 意不意外",
+      "translation": null
+    },
+    {
+      "time": 43.74,
+      "time_str": "00:43.740",
+      "text": "她背影 那么轻快",
+      "translation": null
+    },
+    {
+      "time": 52.08,
+      "time_str": "00:52.080",
+      "text": "嘿 要明白",
+      "translation": null
+    },
+    {
+      "time": 58.59,
+      "time_str": "00:58.590",
+      "text": "人会来就会离开",
+      "translation": null
+    },
+    {
+      "time": 65.85,
+      "time_str": "01:05.850",
+      "text": "世上唯一不变 是人都善变",
+      "translation": null
+    },
+    {
+      "time": 70.62,
+      "time_str": "01:10.620",
+      "text": "路过人间 爱都有 期限",
+      "translation": null
+    },
+    {
+      "time": 74.28,
+      "time_str": "01:14.280",
+      "text": "天可怜见 心碎在所难免",
+      "translation": null
+    },
+    {
+      "time": 80.73,
+      "time_str": "01:20.730",
+      "text": "以为痛过几回 多了些修炼",
+      "translation": null
+    },
+    {
+      "time": 85.38,
+      "time_str": "01:25.380",
+      "text": "路过人间 就懂得防卫",
+      "translation": null
+    },
+    {
+      "time": 88.95,
+      "time_str": "01:28.950",
+      "text": "说来惭愧 人只要有机会",
+      "translation": null
+    },
+    {
+      "time": 95.19,
+      "time_str": "01:35.190",
+      "text": "就又沦陷",
+      "translation": null
+    },
+    {
+      "time": 111.18,
+      "time_str": "01:51.180",
+      "text": "嘿 别再猜",
+      "translation": null
+    },
+    {
+      "time": 117.63,
+      "time_str": "01:57.630",
+      "text": "她可曾 想过回来",
+      "translation": null
+    },
+    {
+      "time": 126.06,
+      "time_str": "02:06.060",
+      "text": "嘿 醒过来",
+      "translation": null
+    },
+    {
+      "time": 132.45,
+      "time_str": "02:12.450",
+      "text": "你很好 她也不坏",
+      "translation": null
+    },
+    {
+      "time": 139.74,
+      "time_str": "02:19.740",
+      "text": "快快抹干眼泪 看昙花多美",
+      "translation": null
+    },
+    {
+      "time": 144.45,
+      "time_str": "02:24.450",
+      "text": "路过人间 无非一瞬间",
+      "translation": null
+    },
+    {
+      "time": 148.11,
+      "time_str": "02:28.110",
+      "text": "每段并肩 都不过是擦肩",
+      "translation": null
+    },
+    {
+      "time": 154.56,
+      "time_str": "02:34.560",
+      "text": "曾经辜负哪位 这才被亏欠",
+      "translation": null
+    },
+    {
+      "time": 159.21,
+      "time_str": "02:39.210",
+      "text": "路过人间 一直这轮回",
+      "translation": null
+    },
+    {
+      "time": 162.81,
+      "time_str": "02:42.810",
+      "text": "幸运一点 也许最后和谁",
+      "translation": null
+    },
+    {
+      "time": 169.2,
+      "time_str": "02:49.200",
+      "text": "都不相欠",
+      "translation": null
+    },
+    {
+      "time": 172.89,
+      "time_str": "02:52.890",
+      "text": "都不相欠",
+      "translation": null
+    },
+    {
+      "time": 176.61,
+      "time_str": "02:56.610",
+      "text": "都不相欠",
+      "translation": null
+    },
+    {
+      "time": 213.9,
+      "time_str": "03:33.900",
+      "text": "人对爱和永远 应该有幻觉",
+      "translation": null
+    },
+    {
+      "time": 218.28,
+      "time_str": "03:38.280",
+      "text": "路过人间 也才几十年",
+      "translation": null
+    },
+    {
+      "time": 221.97,
+      "time_str": "03:41.970",
+      "text": "却为了爱 勇于蹉跎岁月",
+      "translation": null
+    },
+    {
+      "time": 229.35,
+      "time_str": "03:49.350",
+      "text": "相遇离别 贪嗔爱痴怨",
+      "translation": null
+    },
+    {
+      "time": 233.04,
+      "time_str": "03:53.040",
+      "text": "路过人间 就忙着这些",
+      "translation": null
+    },
+    {
+      "time": 236.64,
+      "time_str": "03:56.640",
+      "text": "谁有意见 莫非是心里面",
+      "translation": null
+    },
+    {
+      "time": 243.0,
+      "time_str": "04:03.000",
+      "text": "渺无人烟",
+      "translation": null
+    },
+    {
+      "time": 250.86,
+      "time_str": "04:10.860",
+      "text": "无人可恋",
+      "translation": null
+    },
+    {
+      "time": 252.24,
+      "time_str": "04:12.240",
+      "text": "来这人间",
+      "translation": null
+    },
+    {
+      "time": 265.59,
+      "time_str": "04:25.590",
+      "text": "有多浪费",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "路过人间 - 郁可唯.lrc"
+}

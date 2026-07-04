@@ -1,0 +1,292 @@
+{
+  "title": "没有我你怎么办",
+  "title_raw": "没有我你怎么办",
+  "version": null,
+  "artist": "何润东",
+  "group_key": "没有我你怎么办|何润东",
+  "writers": {
+    "lyricist": "徐世珍",
+    "composer": "黎沸挥",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 19.66,
+      "time_str": "00:19.660",
+      "text": "直到整条街上 剩我和路灯",
+      "translation": null
+    },
+    {
+      "time": 24.81,
+      "time_str": "00:24.810",
+      "text": "衬衫上你的泪痕已 变冷",
+      "translation": null
+    },
+    {
+      "time": 28.98,
+      "time_str": "00:28.980",
+      "text": "我不懂 我不能",
+      "translation": null
+    },
+    {
+      "time": 34.6,
+      "time_str": "00:34.600",
+      "text": "相信爱结束了",
+      "translation": null
+    },
+    {
+      "time": 38.84,
+      "time_str": "00:38.840",
+      "text": "恍恍惚惚坐着 想起那些快乐",
+      "translation": null
+    },
+    {
+      "time": 44.04,
+      "time_str": "00:44.040",
+      "text": "刚刚的分手不像是 真的",
+      "translation": null
+    },
+    {
+      "time": 48.36,
+      "time_str": "00:48.360",
+      "text": "我不懂 能不能",
+      "translation": null
+    },
+    {
+      "time": 53.76,
+      "time_str": "00:53.760",
+      "text": "证明你爱过呢",
+      "translation": null
+    },
+    {
+      "time": 57.28,
+      "time_str": "00:57.280",
+      "text": "路人别再看我 不是疯了",
+      "translation": null
+    },
+    {
+      "time": 61.94,
+      "time_str": "01:01.940",
+      "text": "只是心好疼",
+      "translation": null
+    },
+    {
+      "time": 65.72,
+      "time_str": "01:05.720",
+      "text": "我想我还不能走开",
+      "translation": null
+    },
+    {
+      "time": 69.78,
+      "time_str": "01:09.780",
+      "text": "也许等等 你就回来",
+      "translation": null
+    },
+    {
+      "time": 74.9,
+      "time_str": "01:14.900",
+      "text": "没有我 你怎么办",
+      "translation": null
+    },
+    {
+      "time": 78.35,
+      "time_str": "01:18.350",
+      "text": "你的泪水 谁为你擦干",
+      "translation": null
+    },
+    {
+      "time": 82.82,
+      "time_str": "01:22.820",
+      "text": "谁帮你打伞 安慰你心烦",
+      "translation": null
+    },
+    {
+      "time": 87.0,
+      "time_str": "01:27.000",
+      "text": "失眠的夜 你最怕孤单",
+      "translation": null
+    },
+    {
+      "time": 91.92,
+      "time_str": "01:31.920",
+      "text": "没有我 你怎么办",
+      "translation": null
+    },
+    {
+      "time": 95.56,
+      "time_str": "01:35.560",
+      "text": "你的心事 还有谁明白",
+      "translation": null
+    },
+    {
+      "time": 99.91,
+      "time_str": "01:39.910",
+      "text": "为什么放手 为什么离开",
+      "translation": null
+    },
+    {
+      "time": 104.27,
+      "time_str": "01:44.270",
+      "text": "不是说好吗 要一辈子相爱",
+      "translation": null
+    },
+    {
+      "time": 125.9,
+      "time_str": "02:05.900",
+      "text": "路人别再看我",
+      "translation": null
+    },
+    {
+      "time": 128.43,
+      "time_str": "02:08.430",
+      "text": "不是疯了 只是心好疼",
+      "translation": null
+    },
+    {
+      "time": 134.23,
+      "time_str": "02:14.230",
+      "text": "我想我还不能走开",
+      "translation": null
+    },
+    {
+      "time": 138.44,
+      "time_str": "02:18.440",
+      "text": "也许等等 你就回来",
+      "translation": null
+    },
+    {
+      "time": 143.36,
+      "time_str": "02:23.360",
+      "text": "没有我 你怎么办",
+      "translation": null
+    },
+    {
+      "time": 148.63,
+      "time_str": "02:28.630",
+      "text": "你的泪水 谁为你擦干",
+      "translation": null
+    },
+    {
+      "time": 151.29,
+      "time_str": "02:31.290",
+      "text": "谁帮你打伞 安慰你心烦",
+      "translation": null
+    },
+    {
+      "time": 155.58,
+      "time_str": "02:35.580",
+      "text": "失眠的夜 你最怕孤单",
+      "translation": null
+    },
+    {
+      "time": 160.58,
+      "time_str": "02:40.580",
+      "text": "没有我 你怎么办",
+      "translation": null
+    },
+    {
+      "time": 164.13,
+      "time_str": "02:44.130",
+      "text": "你的心事 还有谁明白",
+      "translation": null
+    },
+    {
+      "time": 168.44,
+      "time_str": "02:48.440",
+      "text": "为什么放手 为什么离开",
+      "translation": null
+    },
+    {
+      "time": 172.72,
+      "time_str": "02:52.720",
+      "text": "不是说好吗 要一辈子相爱",
+      "translation": null
+    },
+    {
+      "time": 186.14,
+      "time_str": "03:06.140",
+      "text": "没有我 你怎么办",
+      "translation": null
+    },
+    {
+      "time": 191.27,
+      "time_str": "03:11.270",
+      "text": "你的泪水 谁为你擦干",
+      "translation": null
+    },
+    {
+      "time": 194.11,
+      "time_str": "03:14.110",
+      "text": "谁帮你打伞 安慰你心烦",
+      "translation": null
+    },
+    {
+      "time": 198.49,
+      "time_str": "03:18.490",
+      "text": "失眠的夜 你最怕孤单",
+      "translation": null
+    },
+    {
+      "time": 203.31,
+      "time_str": "03:23.310",
+      "text": "没有我 你怎么办",
+      "translation": null
+    },
+    {
+      "time": 206.98,
+      "time_str": "03:26.980",
+      "text": "你的心事 还有谁明白",
+      "translation": null
+    },
+    {
+      "time": 211.23,
+      "time_str": "03:31.230",
+      "text": "为什么放手 为什么离开",
+      "translation": null
+    },
+    {
+      "time": 215.52,
+      "time_str": "03:35.520",
+      "text": "不是说好吗 要一辈子相爱",
+      "translation": null
+    },
+    {
+      "time": 224.4,
+      "time_str": "03:44.400",
+      "text": "为什么放手 为什么离开",
+      "translation": null
+    },
+    {
+      "time": 228.46,
+      "time_str": "03:48.460",
+      "text": "不是说好吗 要一辈子相爱",
+      "translation": null
+    },
+    {
+      "time": 238.08,
+      "time_str": "03:58.080",
+      "text": "恍恍惚惚坐着 想起那些快乐",
+      "translation": null
+    },
+    {
+      "time": 243.23,
+      "time_str": "04:03.230",
+      "text": "刚刚的分手不像是真的",
+      "translation": null
+    },
+    {
+      "time": 247.58,
+      "time_str": "04:07.580",
+      "text": "我不懂 能不能",
+      "translation": null
+    },
+    {
+      "time": 253.75,
+      "time_str": "04:13.750",
+      "text": "证明你 爱过呢",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "没有我你怎么办 - 何润东.lrc"
+}

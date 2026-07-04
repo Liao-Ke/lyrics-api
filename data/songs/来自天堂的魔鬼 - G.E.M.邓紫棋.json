@@ -1,0 +1,340 @@
+{
+  "title": "来自天堂的魔鬼",
+  "title_raw": "来自天堂的魔鬼",
+  "version": null,
+  "artist": "G.E.M.邓紫棋",
+  "group_key": "来自天堂的魔鬼|g.e.m.邓紫棋",
+  "writers": {
+    "lyricist": "G.E.M.邓紫棋",
+    "composer": "G.E.M.邓紫棋",
+    "arranger": "Lupo Groinig"
+  },
+  "lyrics": [
+    {
+      "time": 7.45,
+      "time_str": "00:07.450",
+      "text": "我见过天使",
+      "translation": null
+    },
+    {
+      "time": 9.3,
+      "time_str": "00:09.300",
+      "text": "遇过魔鬼",
+      "translation": null
+    },
+    {
+      "time": 10.87,
+      "time_str": "00:10.870",
+      "text": "亲爱的 你到底",
+      "translation": null
+    },
+    {
+      "time": 12.62,
+      "time_str": "00:12.620",
+      "text": "你到底是谁",
+      "translation": null
+    },
+    {
+      "time": 13.86,
+      "time_str": "00:13.860",
+      "text": "夜里做了美丽的噩梦",
+      "translation": null
+    },
+    {
+      "time": 17.37,
+      "time_str": "00:17.370",
+      "text": "想清醒我却抵不过心动",
+      "translation": null
+    },
+    {
+      "time": 21.08,
+      "time_str": "00:21.080",
+      "text": "梦里你是无底的黑洞",
+      "translation": null
+    },
+    {
+      "time": 24.18,
+      "time_str": "00:24.180",
+      "text": "我无力抗拒失重",
+      "translation": null
+    },
+    {
+      "time": 27.17,
+      "time_str": "00:27.170",
+      "text": "我的意识自控脉搏流动",
+      "translation": null
+    },
+    {
+      "time": 31.47,
+      "time_str": "00:31.470",
+      "text": "全被你神秘引力操控",
+      "translation": null
+    },
+    {
+      "time": 34.81,
+      "time_str": "00:34.810",
+      "text": "亲爱的你是危险的迷宫",
+      "translation": null
+    },
+    {
+      "time": 38.26,
+      "time_str": "00:38.260",
+      "text": "我找不到出口",
+      "translation": null
+    },
+    {
+      "time": 42.85,
+      "time_str": "00:42.850",
+      "text": "You took my heart away",
+      "translation": null
+    },
+    {
+      "time": 45.56,
+      "time_str": "00:45.560",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 49.86,
+      "time_str": "00:49.860",
+      "text": "My head is blown away",
+      "translation": null
+    },
+    {
+      "time": 52.58,
+      "time_str": "00:52.580",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 57.05,
+      "time_str": "00:57.050",
+      "text": "你就是传说来自天堂的魔鬼",
+      "translation": null
+    },
+    {
+      "time": 63.95,
+      "time_str": "01:03.950",
+      "text": "Cause you took my heart away",
+      "translation": null
+    },
+    {
+      "time": 65.56,
+      "time_str": "01:05.560",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 68.43,
+      "time_str": "01:08.430",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 86.45,
+      "time_str": "01:26.450",
+      "text": "拜托别对我细心问候",
+      "translation": null
+    },
+    {
+      "time": 89.42,
+      "time_str": "01:29.420",
+      "text": "这是你也不察觉的阴谋",
+      "translation": null
+    },
+    {
+      "time": 93.08,
+      "time_str": "01:33.080",
+      "text": "我讨厌你无心的微笑",
+      "translation": null
+    },
+    {
+      "time": 96.61,
+      "time_str": "01:36.610",
+      "text": "我快无可救药",
+      "translation": null
+    },
+    {
+      "time": 99.58,
+      "time_str": "01:39.580",
+      "text": "你像一个漩涡慢慢让我",
+      "translation": null
+    },
+    {
+      "time": 104.13,
+      "time_str": "01:44.130",
+      "text": "无法抽离一直地坠落",
+      "translation": null
+    },
+    {
+      "time": 106.98,
+      "time_str": "01:46.980",
+      "text": "亲爱的你是优雅的恶魔",
+      "translation": null
+    },
+    {
+      "time": 110.81,
+      "time_str": "01:50.810",
+      "text": "一点一点把我吞没",
+      "translation": null
+    },
+    {
+      "time": 113.56,
+      "time_str": "01:53.560",
+      "text": "You took my heart away",
+      "translation": null
+    },
+    {
+      "time": 116.05,
+      "time_str": "01:56.050",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 120.56,
+      "time_str": "02:00.560",
+      "text": "My head is blown away",
+      "translation": null
+    },
+    {
+      "time": 123.07,
+      "time_str": "02:03.070",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 127.64,
+      "time_str": "02:07.640",
+      "text": "你就是传说来自天堂的魔鬼",
+      "translation": null
+    },
+    {
+      "time": 134.59,
+      "time_str": "02:14.590",
+      "text": "Cause you took my heart away",
+      "translation": null
+    },
+    {
+      "time": 136.12,
+      "time_str": "02:16.120",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 138.97,
+      "time_str": "02:18.970",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 157.48,
+      "time_str": "02:37.480",
+      "text": "如果你是蛇的诱惑",
+      "translation": null
+    },
+    {
+      "time": 160.11,
+      "time_str": "02:40.110",
+      "text": "你存心迷惑 我才能软弱",
+      "translation": null
+    },
+    {
+      "time": 164.2,
+      "time_str": "02:44.200",
+      "text": "但你是牛顿头上那颗",
+      "translation": null
+    },
+    {
+      "time": 166.97,
+      "time_str": "02:46.970",
+      "text": "若无其事的苹果",
+      "translation": null
+    },
+    {
+      "time": 171.83,
+      "time_str": "02:51.830",
+      "text": "You took my heart away",
+      "translation": null
+    },
+    {
+      "time": 174.32,
+      "time_str": "02:54.320",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 178.72,
+      "time_str": "02:58.720",
+      "text": "You took my heart away",
+      "translation": null
+    },
+    {
+      "time": 181.36,
+      "time_str": "03:01.360",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 185.75,
+      "time_str": "03:05.750",
+      "text": "You took my heart away",
+      "translation": null
+    },
+    {
+      "time": 188.49,
+      "time_str": "03:08.490",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 192.71,
+      "time_str": "03:12.710",
+      "text": "My head is blown away",
+      "translation": null
+    },
+    {
+      "time": 195.49,
+      "time_str": "03:15.490",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 199.79,
+      "time_str": "03:19.790",
+      "text": "你就是传说来自天堂的魔鬼",
+      "translation": null
+    },
+    {
+      "time": 206.66,
+      "time_str": "03:26.660",
+      "text": "Cause you took my heart away",
+      "translation": null
+    },
+    {
+      "time": 208.62,
+      "time_str": "03:28.620",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 211.33,
+      "time_str": "03:31.330",
+      "text": "away away away",
+      "translation": null
+    },
+    {
+      "time": 236.95,
+      "time_str": "03:56.950",
+      "text": "你到底是谁 你是谁",
+      "translation": null
+    },
+    {
+      "time": 240.43,
+      "time_str": "04:00.430",
+      "text": "你到底是谁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "来自天堂的魔鬼 - G.E.M.邓紫棋.lrc"
+}

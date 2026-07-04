@@ -1,0 +1,244 @@
+{
+  "title": "约定",
+  "title_raw": "约定",
+  "version": null,
+  "artist": "光良",
+  "group_key": "约定|光良",
+  "writers": {
+    "lyricist": "光良",
+    "composer": "光良",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.01,
+      "time_str": "00:11.010",
+      "text": "说好的 三年不见面",
+      "translation": null
+    },
+    {
+      "time": 16.3,
+      "time_str": "00:16.300",
+      "text": "用我们的爱把时间留住",
+      "translation": null
+    },
+    {
+      "time": 21.2,
+      "time_str": "00:21.200",
+      "text": "你笑着说这是我们的考验",
+      "translation": null
+    },
+    {
+      "time": 26.07,
+      "time_str": "00:26.070",
+      "text": "我们的约定",
+      "translation": null
+    },
+    {
+      "time": 31.4,
+      "time_str": "00:31.400",
+      "text": "就这样 三年又过了",
+      "translation": null
+    },
+    {
+      "time": 37.15,
+      "time_str": "00:37.150",
+      "text": "我还是回到这个地方",
+      "translation": null
+    },
+    {
+      "time": 41.57,
+      "time_str": "00:41.570",
+      "text": "闭上眼等你的出现",
+      "translation": null
+    },
+    {
+      "time": 46.73,
+      "time_str": "00:46.730",
+      "text": "空气中吻你的脸",
+      "translation": null
+    },
+    {
+      "time": 51.61,
+      "time_str": "00:51.610",
+      "text": "我还记得 我们的约定",
+      "translation": null
+    },
+    {
+      "time": 56.9,
+      "time_str": "00:56.900",
+      "text": "一辈子幸福的约定",
+      "translation": null
+    },
+    {
+      "time": 61.81,
+      "time_str": "01:01.810",
+      "text": "为你写的那首歌",
+      "translation": null
+    },
+    {
+      "time": 66.77,
+      "time_str": "01:06.770",
+      "text": "他也偷偷的掉泪了",
+      "translation": null
+    },
+    {
+      "time": 71.57,
+      "time_str": "01:11.570",
+      "text": "我还记得 我们的约定",
+      "translation": null
+    },
+    {
+      "time": 76.79,
+      "time_str": "01:16.790",
+      "text": "我比以前还更爱你了",
+      "translation": null
+    },
+    {
+      "time": 81.87,
+      "time_str": "01:21.870",
+      "text": "连那风都笑我了",
+      "translation": null
+    },
+    {
+      "time": 86.79,
+      "time_str": "01:26.790",
+      "text": "我想他会告诉你的",
+      "translation": null
+    },
+    {
+      "time": 91.09,
+      "time_str": "01:31.090",
+      "text": "我更爱你了",
+      "translation": null
+    },
+    {
+      "time": 111.83,
+      "time_str": "01:51.830",
+      "text": "就这样 三年又过了",
+      "translation": null
+    },
+    {
+      "time": 117.62,
+      "time_str": "01:57.620",
+      "text": "我还是回到这个地方",
+      "translation": null
+    },
+    {
+      "time": 121.97,
+      "time_str": "02:01.970",
+      "text": "闭上眼等你的出现",
+      "translation": null
+    },
+    {
+      "time": 127.15,
+      "time_str": "02:07.150",
+      "text": "空气中吻你的脸",
+      "translation": null
+    },
+    {
+      "time": 132.04,
+      "time_str": "02:12.040",
+      "text": "我还记得 我们的约定",
+      "translation": null
+    },
+    {
+      "time": 137.3,
+      "time_str": "02:17.300",
+      "text": "一辈子幸福的约定",
+      "translation": null
+    },
+    {
+      "time": 142.25,
+      "time_str": "02:22.250",
+      "text": "为你写的那首歌",
+      "translation": null
+    },
+    {
+      "time": 147.2,
+      "time_str": "02:27.200",
+      "text": "他也偷偷的掉泪了",
+      "translation": null
+    },
+    {
+      "time": 151.89,
+      "time_str": "02:31.890",
+      "text": "我还记得 我们的约定",
+      "translation": null
+    },
+    {
+      "time": 157.26,
+      "time_str": "02:37.260",
+      "text": "我比以前还更爱你了",
+      "translation": null
+    },
+    {
+      "time": 162.18,
+      "time_str": "02:42.180",
+      "text": "连那风都笑我了",
+      "translation": null
+    },
+    {
+      "time": 167.31,
+      "time_str": "02:47.310",
+      "text": "我想他会告诉你的",
+      "translation": null
+    },
+    {
+      "time": 171.93,
+      "time_str": "02:51.930",
+      "text": "你会记得 我们的约定",
+      "translation": null
+    },
+    {
+      "time": 177.3,
+      "time_str": "02:57.300",
+      "text": "一辈子幸福的约定",
+      "translation": null
+    },
+    {
+      "time": 182.31,
+      "time_str": "03:02.310",
+      "text": "为你写的那首歌",
+      "translation": null
+    },
+    {
+      "time": 187.34,
+      "time_str": "03:07.340",
+      "text": "他也偷偷的掉泪了",
+      "translation": null
+    },
+    {
+      "time": 191.95,
+      "time_str": "03:11.950",
+      "text": "你会记得 我们的约定",
+      "translation": null
+    },
+    {
+      "time": 197.17,
+      "time_str": "03:17.170",
+      "text": "我比以前还更爱你了",
+      "translation": null
+    },
+    {
+      "time": 202.2,
+      "time_str": "03:22.200",
+      "text": "迎着风我也笑了",
+      "translation": null
+    },
+    {
+      "time": 207.08,
+      "time_str": "03:27.080",
+      "text": "他一定会告诉你的",
+      "translation": null
+    },
+    {
+      "time": 211.59,
+      "time_str": "03:31.590",
+      "text": "我更爱你了",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "约定 - 光良.lrc"
+}

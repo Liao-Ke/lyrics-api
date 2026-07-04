@@ -1,0 +1,274 @@
+{
+  "title": "Free Loop",
+  "title_raw": "Free Loop",
+  "version": null,
+  "artist": "Daniel Powter",
+  "group_key": "free loop|daniel powter",
+  "writers": {
+    "lyricist": "Daniel Powter",
+    "composer": "Daniel Powter",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.23,
+      "time_str": "00:00.230",
+      "text": "I'm a little used to calling outside your name",
+      "translation": "我已习惯在外面呼唤你的名字"
+    },
+    {
+      "time": 5.66,
+      "time_str": "00:05.660",
+      "text": "I won't see you tonight so I can keep from going insane",
+      "translation": "今晚不去见你，不想自己又陷入疯狂"
+    },
+    {
+      "time": 12.03,
+      "time_str": "00:12.030",
+      "text": "But I don't know enough, I get some kinda lazy day",
+      "translation": "但不知道为什么，这一天过得无精打采"
+    },
+    {
+      "time": 18.37,
+      "time_str": "00:18.370",
+      "text": "Hey yeah",
+      "translation": null
+    },
+    {
+      "time": 24.52,
+      "time_str": "00:24.520",
+      "text": "I've been fabulous through to find my tattered name",
+      "translation": "我也曾辉煌一时，如今却默默无闻"
+    },
+    {
+      "time": 31.07,
+      "time_str": "00:31.070",
+      "text": "I'll be stewed tomorrow if i don't leave as both the same",
+      "translation": "我的前景一片黯淡不想连累你一起"
+    },
+    {
+      "time": 36.54,
+      "time_str": "00:36.540",
+      "text": "But I don't know enough, I get some kinda lazy day",
+      "translation": "但不知道为什么，这一天过得无精打采"
+    },
+    {
+      "time": 43.66,
+      "time_str": "00:43.660",
+      "text": "Hey yeah",
+      "translation": null
+    },
+    {
+      "time": 50.04,
+      "time_str": "00:50.040",
+      "text": "Cause it's hard for me to lose",
+      "translation": "因为失去你是一种煎熬"
+    },
+    {
+      "time": 52.14,
+      "time_str": "00:52.140",
+      "text": "In my life I've found only time will tell",
+      "translation": "我发现,在我一生当中只有时间会证明一切"
+    },
+    {
+      "time": 54.81,
+      "time_str": "00:54.810",
+      "text": "And I will figure out that we can baby",
+      "translation": "宝贝，我会找到答案的"
+    },
+    {
+      "time": 58.81,
+      "time_str": "00:58.810",
+      "text": "We can do a one night stand, yeah",
+      "translation": "至少我们可以一夜相拥"
+    },
+    {
+      "time": 61.87,
+      "time_str": "01:01.870",
+      "text": "And it's hard for me to lose in my life",
+      "translation": "我的人生中失去你是一种煎熬"
+    },
+    {
+      "time": 65.88,
+      "time_str": "01:05.880",
+      "text": "I've found outside your skin right near the fire",
+      "translation": "我从你热情的外表可以看出"
+    },
+    {
+      "time": 70.0,
+      "time_str": "01:10.000",
+      "text": "That we can baby",
+      "translation": "宝贝，我们可以"
+    },
+    {
+      "time": 71.62,
+      "time_str": "01:11.620",
+      "text": "We can change and feel alright",
+      "translation": "扭转一切，共度难关"
+    },
+    {
+      "time": 79.13,
+      "time_str": "01:19.130",
+      "text": "I'm a little used to wandering outside the rain",
+      "translation": "我已习惯在雨中漫步"
+    },
+    {
+      "time": 84.04,
+      "time_str": "01:24.040",
+      "text": "You can leave me tomorrow if it suits you just the same",
+      "translation": "如果你找到依赖，大可天明就离我而去"
+    },
+    {
+      "time": 90.92,
+      "time_str": "01:30.920",
+      "text": "But I don't know enough, I need someone who leaves the day",
+      "translation": "但我不明白这是为什么，整天都昏昏沉沉"
+    },
+    {
+      "time": 97.79,
+      "time_str": "01:37.790",
+      "text": "Hey yeah",
+      "translation": null
+    },
+    {
+      "time": 103.89,
+      "time_str": "01:43.890",
+      "text": "Cause it's hard for me to lose",
+      "translation": "因为失去你是一种煎熬"
+    },
+    {
+      "time": 106.67,
+      "time_str": "01:46.670",
+      "text": "In my life I've found only time will tell",
+      "translation": "我发觉在我的生活中只有时间才能证明一切"
+    },
+    {
+      "time": 110.23,
+      "time_str": "01:50.230",
+      "text": "And I will figure out that we can baby",
+      "translation": "亲爱的，我会弄明白的"
+    },
+    {
+      "time": 114.25,
+      "time_str": "01:54.250",
+      "text": "We can do a one night stand, yeah",
+      "translation": "至少我们可以一夜相拥"
+    },
+    {
+      "time": 119.2,
+      "time_str": "01:59.200",
+      "text": "And it's hard for me to lose in my life",
+      "translation": "我的人生中失去你是一种煎熬"
+    },
+    {
+      "time": 121.21,
+      "time_str": "02:01.210",
+      "text": "I've found outside your skin right near the fire",
+      "translation": "我从你热情的外表可以看出"
+    },
+    {
+      "time": 125.36,
+      "time_str": "02:05.360",
+      "text": "That we can baby",
+      "translation": "宝贝，我们可以"
+    },
+    {
+      "time": 126.95,
+      "time_str": "02:06.950",
+      "text": "We can change and feel alright",
+      "translation": "扭转一切，共度难关"
+    },
+    {
+      "time": 160.2,
+      "time_str": "02:40.200",
+      "text": "Cause it's hard for me to lose",
+      "translation": "因为失去你是一种煎熬"
+    },
+    {
+      "time": 163.26,
+      "time_str": "02:43.260",
+      "text": "In my life I've found only time will tell",
+      "translation": "我发觉在我的生活中只有时间才能证明一切"
+    },
+    {
+      "time": 165.51,
+      "time_str": "02:45.510",
+      "text": "I will figure out that we can baby",
+      "translation": "亲爱的，我会弄明白的"
+    },
+    {
+      "time": 169.34,
+      "time_str": "02:49.340",
+      "text": "We can do a one night stand, yeah",
+      "translation": "至少我们可以一夜相拥"
+    },
+    {
+      "time": 174.02,
+      "time_str": "02:54.020",
+      "text": "And it's hard for me to lose in my life",
+      "translation": "我的人生中失去你是一种煎熬"
+    },
+    {
+      "time": 176.52,
+      "time_str": "02:56.520",
+      "text": "I've found outside your skin right near the fire",
+      "translation": "我从你热情的外表可以看出"
+    },
+    {
+      "time": 180.7,
+      "time_str": "03:00.700",
+      "text": "That we can baby",
+      "translation": "宝贝，我们可以"
+    },
+    {
+      "time": 182.22,
+      "time_str": "03:02.220",
+      "text": "We can change and feel alright",
+      "translation": "扭转一切，共度难关"
+    },
+    {
+      "time": 187.0,
+      "time_str": "03:07.000",
+      "text": "Cause it's hard for me to lose",
+      "translation": "因为失去你是一种煎熬"
+    },
+    {
+      "time": 188.7,
+      "time_str": "03:08.700",
+      "text": "In my life I've found only time will tell",
+      "translation": "我发觉在我的生活中只有时间才能证明一切"
+    },
+    {
+      "time": 191.0,
+      "time_str": "03:11.000",
+      "text": "And I will figure out that we can baby",
+      "translation": "亲爱的，我会弄明白的"
+    },
+    {
+      "time": 194.91,
+      "time_str": "03:14.910",
+      "text": "We can do a one night stand, yeah",
+      "translation": "至少我们可以一夜相拥"
+    },
+    {
+      "time": 200.0,
+      "time_str": "03:20.000",
+      "text": "And it's hard for me to lose in my life",
+      "translation": "我的人生中失去你是一种煎熬"
+    },
+    {
+      "time": 202.14,
+      "time_str": "03:22.140",
+      "text": "I've found outside your skin right near the fire",
+      "translation": "我从你热情的外表可以看出"
+    },
+    {
+      "time": 206.12,
+      "time_str": "03:26.120",
+      "text": "That we can baby   we can change and feel alright",
+      "translation": "宝贝，我们可以扭转一切，共度难关"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Free Loop - Daniel Powter.lrc"
+}

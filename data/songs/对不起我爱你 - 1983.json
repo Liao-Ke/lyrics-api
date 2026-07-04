@@ -1,0 +1,418 @@
+{
+  "title": "对不起我爱你",
+  "title_raw": "对不起我爱你",
+  "version": null,
+  "artist": "1983",
+  "group_key": "对不起我爱你|1983",
+  "writers": {
+    "lyricist": "何文龙",
+    "composer": "Yukino Hana",
+    "arranger": "雷颂德"
+  },
+  "lyrics": [
+    {
+      "time": 35.48,
+      "time_str": "00:35.480",
+      "text": "这熟悉的天气",
+      "translation": null
+    },
+    {
+      "time": 38.98,
+      "time_str": "00:38.980",
+      "text": "留在深处的记忆",
+      "translation": null
+    },
+    {
+      "time": 42.3,
+      "time_str": "00:42.300",
+      "text": "似乎那次我们相遇",
+      "translation": null
+    },
+    {
+      "time": 45.64,
+      "time_str": "00:45.640",
+      "text": "是缘分前世的累积",
+      "translation": null
+    },
+    {
+      "time": 49.0,
+      "time_str": "00:49.000",
+      "text": "那曾经的旋律",
+      "translation": null
+    },
+    {
+      "time": 52.43,
+      "time_str": "00:52.430",
+      "text": "却不能再次响起",
+      "translation": null
+    },
+    {
+      "time": 55.68,
+      "time_str": "00:55.680",
+      "text": "是否我们无法逃避",
+      "translation": null
+    },
+    {
+      "time": 59.0,
+      "time_str": "00:59.000",
+      "text": "早已注定的结局",
+      "translation": null
+    },
+    {
+      "time": 63.61,
+      "time_str": "01:03.610",
+      "text": "而距离",
+      "translation": null
+    },
+    {
+      "time": 66.37,
+      "time_str": "01:06.370",
+      "text": "我们在不同轨迹",
+      "translation": null
+    },
+    {
+      "time": 70.11,
+      "time_str": "01:10.110",
+      "text": "再多的努力也是悲戚",
+      "translation": null
+    },
+    {
+      "time": 76.76,
+      "time_str": "01:16.760",
+      "text": "在心底千万次地练习",
+      "translation": null
+    },
+    {
+      "time": 81.97,
+      "time_str": "01:21.970",
+      "text": "千万次不停地温习",
+      "translation": null
+    },
+    {
+      "time": 86.74,
+      "time_str": "01:26.740",
+      "text": "只怕已来不及",
+      "translation": null
+    },
+    {
+      "time": 90.1,
+      "time_str": "01:30.100",
+      "text": "只是还没告诉你",
+      "translation": null
+    },
+    {
+      "time": 93.0,
+      "time_str": "01:33.000",
+      "text": "对不起 我爱你",
+      "translation": null
+    },
+    {
+      "time": 96.16,
+      "time_str": "01:36.160",
+      "text": "没有你 我无法呼吸",
+      "translation": null
+    },
+    {
+      "time": 100.2,
+      "time_str": "01:40.200",
+      "text": "我不能看你泪流了几公里",
+      "translation": null
+    },
+    {
+      "time": 103.98,
+      "time_str": "01:43.980",
+      "text": "只是我还没有鼓足勇气",
+      "translation": null
+    },
+    {
+      "time": 107.62,
+      "time_str": "01:47.620",
+      "text": "还没告诉你",
+      "translation": null
+    },
+    {
+      "time": 109.66,
+      "time_str": "01:49.660",
+      "text": "对不起 我爱你",
+      "translation": null
+    },
+    {
+      "time": 113.09,
+      "time_str": "01:53.090",
+      "text": "就算有一天脱离了身体",
+      "translation": null
+    },
+    {
+      "time": 116.74,
+      "time_str": "01:56.740",
+      "text": "我依然这样的死心塌地",
+      "translation": null
+    },
+    {
+      "time": 134.03,
+      "time_str": "02:14.030",
+      "text": "这熟悉的天气",
+      "translation": null
+    },
+    {
+      "time": 137.21,
+      "time_str": "02:17.210",
+      "text": "留在深处的记忆",
+      "translation": null
+    },
+    {
+      "time": 140.65,
+      "time_str": "02:20.650",
+      "text": "似乎那次我们相遇",
+      "translation": null
+    },
+    {
+      "time": 143.83,
+      "time_str": "02:23.830",
+      "text": "是缘分前世的累积",
+      "translation": null
+    },
+    {
+      "time": 147.29,
+      "time_str": "02:27.290",
+      "text": "那曾经的旋律",
+      "translation": null
+    },
+    {
+      "time": 150.56,
+      "time_str": "02:30.560",
+      "text": "却不能再次响起",
+      "translation": null
+    },
+    {
+      "time": 153.77,
+      "time_str": "02:33.770",
+      "text": "是否我们无法逃避",
+      "translation": null
+    },
+    {
+      "time": 157.22,
+      "time_str": "02:37.220",
+      "text": "早已注定的结局",
+      "translation": null
+    },
+    {
+      "time": 161.88,
+      "time_str": "02:41.880",
+      "text": "而距离",
+      "translation": null
+    },
+    {
+      "time": 164.84,
+      "time_str": "02:44.840",
+      "text": "我们在不同轨迹",
+      "translation": null
+    },
+    {
+      "time": 168.47,
+      "time_str": "02:48.470",
+      "text": "再多的努力也是悲戚",
+      "translation": null
+    },
+    {
+      "time": 175.05,
+      "time_str": "02:55.050",
+      "text": "在心底千万次地练习",
+      "translation": null
+    },
+    {
+      "time": 180.46,
+      "time_str": "03:00.460",
+      "text": "千万次不停地温习",
+      "translation": null
+    },
+    {
+      "time": 185.01,
+      "time_str": "03:05.010",
+      "text": "只怕已来不及",
+      "translation": null
+    },
+    {
+      "time": 188.48,
+      "time_str": "03:08.480",
+      "text": "只是还没告诉你",
+      "translation": null
+    },
+    {
+      "time": 191.35,
+      "time_str": "03:11.350",
+      "text": "对不起 我爱你",
+      "translation": null
+    },
+    {
+      "time": 194.63,
+      "time_str": "03:14.630",
+      "text": "没有你 我无法呼吸",
+      "translation": null
+    },
+    {
+      "time": 198.44,
+      "time_str": "03:18.440",
+      "text": "我不能看你泪流了几公里",
+      "translation": null
+    },
+    {
+      "time": 202.27,
+      "time_str": "03:22.270",
+      "text": "只是我还没有鼓足勇气",
+      "translation": null
+    },
+    {
+      "time": 205.9,
+      "time_str": "03:25.900",
+      "text": "还没告诉你",
+      "translation": null
+    },
+    {
+      "time": 208.01,
+      "time_str": "03:28.010",
+      "text": "对不起 我爱你",
+      "translation": null
+    },
+    {
+      "time": 211.33,
+      "time_str": "03:31.330",
+      "text": "就算有一天脱离了身体",
+      "translation": null
+    },
+    {
+      "time": 215.14,
+      "time_str": "03:35.140",
+      "text": "我依然这样的死心塌地",
+      "translation": null
+    },
+    {
+      "time": 222.38,
+      "time_str": "03:42.380",
+      "text": "我不能听信别人为我做好的安排",
+      "translation": null
+    },
+    {
+      "time": 229.05,
+      "time_str": "03:49.050",
+      "text": "我知道现在的你对我有多么的依赖",
+      "translation": null
+    },
+    {
+      "time": 235.28,
+      "time_str": "03:55.280",
+      "text": "我相信你一定还在原地为我等待",
+      "translation": null
+    },
+    {
+      "time": 241.6,
+      "time_str": "04:01.600",
+      "text": "因为你而我存在",
+      "translation": null
+    },
+    {
+      "time": 244.63,
+      "time_str": "04:04.630",
+      "text": "别离开我的爱",
+      "translation": null
+    },
+    {
+      "time": 252.53,
+      "time_str": "04:12.530",
+      "text": "还没告诉你",
+      "translation": null
+    },
+    {
+      "time": 254.93,
+      "time_str": "04:14.930",
+      "text": "对不起 我爱你",
+      "translation": null
+    },
+    {
+      "time": 257.89,
+      "time_str": "04:17.890",
+      "text": "没有你 我无法呼吸",
+      "translation": null
+    },
+    {
+      "time": 261.9,
+      "time_str": "04:21.900",
+      "text": "我不能看你泪流了几公里",
+      "translation": null
+    },
+    {
+      "time": 265.65,
+      "time_str": "04:25.650",
+      "text": "只是我还没有鼓足勇气",
+      "translation": null
+    },
+    {
+      "time": 269.27,
+      "time_str": "04:29.270",
+      "text": "还没告诉你",
+      "translation": null
+    },
+    {
+      "time": 271.4,
+      "time_str": "04:31.400",
+      "text": "对不起 我爱你",
+      "translation": null
+    },
+    {
+      "time": 274.88,
+      "time_str": "04:34.880",
+      "text": "没有你 我无法呼吸",
+      "translation": null
+    },
+    {
+      "time": 278.52,
+      "time_str": "04:38.520",
+      "text": "我不能看你泪流了几公里",
+      "translation": null
+    },
+    {
+      "time": 282.29,
+      "time_str": "04:42.290",
+      "text": "只是我还没有鼓足勇气",
+      "translation": null
+    },
+    {
+      "time": 285.97,
+      "time_str": "04:45.970",
+      "text": "还没告诉你",
+      "translation": null
+    },
+    {
+      "time": 287.97,
+      "time_str": "04:47.970",
+      "text": "对不起 我爱你",
+      "translation": null
+    },
+    {
+      "time": 291.41,
+      "time_str": "04:51.410",
+      "text": "就算有一天脱离了身体",
+      "translation": null
+    },
+    {
+      "time": 295.14,
+      "time_str": "04:55.140",
+      "text": "我依然无法与你分离",
+      "translation": null
+    },
+    {
+      "time": 298.92,
+      "time_str": "04:58.920",
+      "text": "还要和你继续在一起",
+      "translation": null
+    },
+    {
+      "time": 302.28,
+      "time_str": "05:02.280",
+      "text": "对你说上那句我爱你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "对不起我爱你 - 1983.lrc"
+}

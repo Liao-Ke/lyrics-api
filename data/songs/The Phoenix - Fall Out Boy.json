@@ -1,0 +1,382 @@
+{
+  "title": "The Phoenix",
+  "title_raw": "The Phoenix",
+  "version": null,
+  "artist": "Fall Out Boy",
+  "group_key": "the phoenix|fall out boy",
+  "writers": {
+    "lyricist": "Pete Wentz/Joe Trohman/Patrick Stump/Andy Hurley",
+    "composer": "Pete Wentz/Joe Trohman/Patrick Stump/Andy Hurley",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.65,
+      "time_str": "00:08.650",
+      "text": "Put on your war paint",
+      "translation": "披上你的戎装吧"
+    },
+    {
+      "time": 15.58,
+      "time_str": "00:15.580",
+      "text": "You are a brick tied to me that's dragging me down",
+      "translation": "你虽如巨石加身将我拽入深渊"
+    },
+    {
+      "time": 19.08,
+      "time_str": "00:19.080",
+      "text": "Strike a match and I'll burn you to the ground",
+      "translation": "但我会划亮火柴将你烧至乌有"
+    },
+    {
+      "time": 22.64,
+      "time_str": "00:22.640",
+      "text": "We are the jack-o-lanterns in July",
+      "translation": "我们如七月的南瓜灯"
+    },
+    {
+      "time": 25.07,
+      "time_str": "00:25.070",
+      "text": "Setting fire to the sky",
+      "translation": "恣意燃烧划破天际"
+    },
+    {
+      "time": 26.74,
+      "time_str": "00:26.740",
+      "text": "Here, here comes this rising tide",
+      "translation": "而如今潮涨来袭危机四起"
+    },
+    {
+      "time": 29.4,
+      "time_str": "00:29.400",
+      "text": "So come on",
+      "translation": "吾辈尽将奔赴战场英勇杀敌"
+    },
+    {
+      "time": 32.93,
+      "time_str": "00:32.930",
+      "text": "Put on your war paint",
+      "translation": "披上你的戎装吧"
+    },
+    {
+      "time": 37.0,
+      "time_str": "00:37.000",
+      "text": "Cross walks and crossed hearts and hope-to-dies",
+      "translation": "吾愿背负十字，默默祈祷，战死沙场"
+    },
+    {
+      "time": 40.52,
+      "time_str": "00:40.520",
+      "text": "Silver clouds with grey linings",
+      "translation": "而我已经看见乌云背后胜利的曙光"
+    },
+    {
+      "time": 43.29,
+      "time_str": "00:43.290",
+      "text": "So we can take the world back from a heart attack",
+      "translation": "我们终将从失落暴戾手中夺回城池"
+    },
+    {
+      "time": 46.9,
+      "time_str": "00:46.900",
+      "text": "One maniac at a time we will take it back",
+      "translation": "甚至一个狂躁的战士就够了"
+    },
+    {
+      "time": 50.38,
+      "time_str": "00:50.380",
+      "text": "You know time crawls on when you're waiting for the song to start",
+      "translation": "你也知道当你在等待战歌响起之时时间也在匆匆流逝"
+    },
+    {
+      "time": 54.75,
+      "time_str": "00:54.750",
+      "text": "So dance alone to the beat of your heart",
+      "translation": "所以独自随心舞动吧"
+    },
+    {
+      "time": 58.75,
+      "time_str": "00:58.750",
+      "text": "Hey! young blood!",
+      "translation": "嘿！年轻人！"
+    },
+    {
+      "time": 60.45,
+      "time_str": "01:00.450",
+      "text": "Doesn't it feel like our time is running out?",
+      "translation": "你难道感受不到时光飞逝所剩无几？"
+    },
+    {
+      "time": 65.48,
+      "time_str": "01:05.480",
+      "text": "I'm gonna change you like a remix",
+      "translation": "我一定会像混音一样天翻地覆地改造你"
+    },
+    {
+      "time": 69.45,
+      "time_str": "01:09.450",
+      "text": "Then I'll raise you like a phoenix",
+      "translation": "接着你便会如凤凰涅槃般崛起"
+    },
+    {
+      "time": 72.72,
+      "time_str": "01:12.720",
+      "text": "Wearing our vintage misery",
+      "translation": "我们都带着曾经的苦难忧伤"
+    },
+    {
+      "time": 76.05,
+      "time_str": "01:16.050",
+      "text": "No, I think it looked a little better on me",
+      "translation": "不，我觉得我伤的更深懂得愈多"
+    },
+    {
+      "time": 79.45,
+      "time_str": "01:19.450",
+      "text": "I'm gonna change you like a remix",
+      "translation": "我定会从头来改变你"
+    },
+    {
+      "time": 83.43,
+      "time_str": "01:23.430",
+      "text": "Then I'll raise you like a phoenix",
+      "translation": "然后再让你如凤凰般涅槃翻飞"
+    },
+    {
+      "time": 90.32,
+      "time_str": "01:30.320",
+      "text": "Bring home the boys and scrap scrap metal the tanks",
+      "translation": "带上那些战争中的热血少年和坦克碎片回家吧"
+    },
+    {
+      "time": 93.88,
+      "time_str": "01:33.880",
+      "text": "Get hitched, make a career out of robbing banks",
+      "translation": "结个婚，然后说不定以抢银行度过余生"
+    },
+    {
+      "time": 97.33,
+      "time_str": "01:37.330",
+      "text": "Because the world is just a teller and we are wearing black masks",
+      "translation": "因为世间只讲述历史而我们只是活在黑暗笼罩下的普通人"
+    },
+    {
+      "time": 101.3,
+      "time_str": "01:41.300",
+      "text": "\"You broke our spirit,\" says the note we pass",
+      "translation": "而那转手相传的纸条上赫然写着“你击垮了我们的精神”"
+    },
+    {
+      "time": 104.31,
+      "time_str": "01:44.310",
+      "text": "So we can take the world back from a heart attack",
+      "translation": "所以我们终将夺回这个世界"
+    },
+    {
+      "time": 107.9,
+      "time_str": "01:47.900",
+      "text": "One maniac at a time we will take it back",
+      "translation": "有时一个疯子就够了"
+    },
+    {
+      "time": 111.27,
+      "time_str": "01:51.270",
+      "text": "You know time crawls on when you're waiting for the song to start",
+      "translation": "你也知道当你在等待战歌响起之时时间也在匆匆流逝"
+    },
+    {
+      "time": 115.58,
+      "time_str": "01:55.580",
+      "text": "So dance alone to the beat of your heart",
+      "translation": "所以独自随心而动吧"
+    },
+    {
+      "time": 119.56,
+      "time_str": "01:59.560",
+      "text": "Hey! young blood!",
+      "translation": "嘿！热血青年！"
+    },
+    {
+      "time": 121.34,
+      "time_str": "02:01.340",
+      "text": "Doesn't it feel like our time is running out?",
+      "translation": "你难道感受不到大限将至吗？"
+    },
+    {
+      "time": 126.39,
+      "time_str": "02:06.390",
+      "text": "I'm gonna change you like a remix",
+      "translation": "我一定会像混音一样天翻地覆地改造你"
+    },
+    {
+      "time": 130.37,
+      "time_str": "02:10.370",
+      "text": "Then I'll raise you like a phoenix",
+      "translation": "接着你便会如凤凰涅槃般崛起"
+    },
+    {
+      "time": 133.57,
+      "time_str": "02:13.570",
+      "text": "Wearing our vintage misery",
+      "translation": "我们都带着曾经同样的苦难忧伤"
+    },
+    {
+      "time": 137.03,
+      "time_str": "02:17.030",
+      "text": "No, I think it looked a little better on me",
+      "translation": "不，我还是觉得我理解更深"
+    },
+    {
+      "time": 140.34,
+      "time_str": "02:20.340",
+      "text": "I'm gonna change you like a remix",
+      "translation": "我定会像混音样改变你"
+    },
+    {
+      "time": 144.26,
+      "time_str": "02:24.260",
+      "text": "Then I'll raise you like a phoenix",
+      "translation": "然后再让你如凤凰般涅槃翻飞"
+    },
+    {
+      "time": 151.0,
+      "time_str": "02:31.000",
+      "text": "Put on your war paint",
+      "translation": "画上你战争所需的伪装吧"
+    },
+    {
+      "time": 162.55,
+      "time_str": "02:42.550",
+      "text": "The war is won, before it's begun",
+      "translation": "这场恶斗我们不战而胜"
+    },
+    {
+      "time": 166.22,
+      "time_str": "02:46.220",
+      "text": "Release the doves, surrender love",
+      "translation": "放飞和平，交出了爱"
+    },
+    {
+      "time": 169.87,
+      "time_str": "02:49.870",
+      "text": "The war is won, before it's begun",
+      "translation": "这场恶斗我们不战而胜"
+    },
+    {
+      "time": 173.13,
+      "time_str": "02:53.130",
+      "text": "Release the doves, surrender love",
+      "translation": "放飞和平，拥抱了爱"
+    },
+    {
+      "time": 176.72,
+      "time_str": "02:56.720",
+      "text": "The war is won, before it's begun",
+      "translation": "这场恶斗我们不战而胜"
+    },
+    {
+      "time": 180.21,
+      "time_str": "03:00.210",
+      "text": "Release the doves, surrender love (Wave the white flag!)",
+      "translation": "放飞和平，交出了爱（白旗挥舞）"
+    },
+    {
+      "time": 183.69,
+      "time_str": "03:03.690",
+      "text": "The war is won, before it's begun (Wave the white flag!)",
+      "translation": "这场恶斗我们不战而胜"
+    },
+    {
+      "time": 187.05,
+      "time_str": "03:07.050",
+      "text": "Release the doves, surrender love (Wave the white flag!)",
+      "translation": "放飞和平，拥抱了爱（白旗舞动）"
+    },
+    {
+      "time": 190.77,
+      "time_str": "03:10.770",
+      "text": "Heyyyyyyyy",
+      "translation": "嘿！"
+    },
+    {
+      "time": 193.11,
+      "time_str": "03:13.110",
+      "text": "Young Blood!",
+      "translation": "热爱摇滚的年轻人们！"
+    },
+    {
+      "time": 194.34,
+      "time_str": "03:14.340",
+      "text": "Doesn't it feel like our time is running out?",
+      "translation": "你们难道感受不到我们都命不久矣？"
+    },
+    {
+      "time": 199.48,
+      "time_str": "03:19.480",
+      "text": "I'm gonna change you like a remix",
+      "translation": "我一定会像混音一样天翻地覆地改造你"
+    },
+    {
+      "time": 203.5,
+      "time_str": "03:23.500",
+      "text": "Then I'll raise you like a phoenix",
+      "translation": "接着你便会如凤凰涅槃般崛起"
+    },
+    {
+      "time": 206.62,
+      "time_str": "03:26.620",
+      "text": "Wearing our vintage misery",
+      "translation": "我们都带着曾经同样的苦难忧伤"
+    },
+    {
+      "time": 210.04,
+      "time_str": "03:30.040",
+      "text": "No, I think it looked a little better on me",
+      "translation": "不，我还是觉得我理解更深"
+    },
+    {
+      "time": 213.41,
+      "time_str": "03:33.410",
+      "text": "I'm gonna change you like a remix",
+      "translation": "我定会像混音样改变你"
+    },
+    {
+      "time": 217.32,
+      "time_str": "03:37.320",
+      "text": "Then I'll raise you like a phoenix",
+      "translation": "然后再让你如凤凰般涅槃翻飞"
+    },
+    {
+      "time": 220.39,
+      "time_str": "03:40.390",
+      "text": "Hey! young blood!",
+      "translation": "嘿！激情四溢的热血青年们！"
+    },
+    {
+      "time": 222.22,
+      "time_str": "03:42.220",
+      "text": "Doesn't it feel like our time is running out?",
+      "translation": "你们难道感受不到大限将至吗？"
+    },
+    {
+      "time": 227.32,
+      "time_str": "03:47.320",
+      "text": "I'm gonna change you like a remix",
+      "translation": "我一定会像混音一样天翻地覆地改造你"
+    },
+    {
+      "time": 231.25,
+      "time_str": "03:51.250",
+      "text": "Then I'll raise you like a phoenix",
+      "translation": "接着你便会如凤凰涅槃般崛起"
+    },
+    {
+      "time": 238.34,
+      "time_str": "03:58.340",
+      "text": "Put on your war paint",
+      "translation": "还请画好你的战妆"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "The Phoenix - Fall Out Boy.lrc"
+}

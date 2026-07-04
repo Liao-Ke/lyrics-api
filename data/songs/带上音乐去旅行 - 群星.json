@@ -1,0 +1,208 @@
+{
+  "title": "带上音乐去旅行",
+  "title_raw": "带上音乐去旅行",
+  "version": null,
+  "artist": "群星",
+  "group_key": "带上音乐去旅行|群星",
+  "writers": {
+    "lyricist": "何沐阳 作曲：何沐阳",
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 5.29,
+      "time_str": "00:05.290",
+      "text": "带上音乐去旅行",
+      "translation": null
+    },
+    {
+      "time": 13.3,
+      "time_str": "00:13.300",
+      "text": "演唱：徐千雅",
+      "translation": null
+    },
+    {
+      "time": 36.159,
+      "time_str": "00:36.159",
+      "text": "风吹过森林 天籁在回应",
+      "translation": null
+    },
+    {
+      "time": 41.69,
+      "time_str": "00:41.690",
+      "text": "海水蓝得透明 彼岸云",
+      "translation": null
+    },
+    {
+      "time": 47.79,
+      "time_str": "00:47.790",
+      "text": "尽情呼吸空气纯净",
+      "translation": null
+    },
+    {
+      "time": 49.759,
+      "time_str": "00:49.759",
+      "text": "慢慢释放着心情",
+      "translation": null
+    },
+    {
+      "time": 51.719,
+      "time_str": "00:51.719",
+      "text": "在下一个黎明 继续前行",
+      "translation": null
+    },
+    {
+      "time": 59.59,
+      "time_str": "00:59.590",
+      "text": "带上音乐去旅行 和山水谈情",
+      "translation": null
+    },
+    {
+      "time": 65.19,
+      "time_str": "01:05.190",
+      "text": "跟陌生相爱 动听",
+      "translation": null
+    },
+    {
+      "time": 69.779,
+      "time_str": "01:09.779",
+      "text": "带上音乐去旅行 把幸福唤醒",
+      "translation": null
+    },
+    {
+      "time": 75.819,
+      "time_str": "01:15.819",
+      "text": "自由的生命 她舞步最轻盈",
+      "translation": null
+    },
+    {
+      "time": 87.69,
+      "time_str": "01:27.690",
+      "text": "风吹过森林 天籁在回应",
+      "translation": null
+    },
+    {
+      "time": 91.739,
+      "time_str": "01:31.739",
+      "text": "海水蓝得透明 彼岸云",
+      "translation": null
+    },
+    {
+      "time": 97.749,
+      "time_str": "01:37.749",
+      "text": "尽情呼吸空气纯净",
+      "translation": null
+    },
+    {
+      "time": 100.409,
+      "time_str": "01:40.409",
+      "text": "慢慢释放着心情",
+      "translation": null
+    },
+    {
+      "time": 102.379,
+      "time_str": "01:42.379",
+      "text": "在下一个黎明 继续前行",
+      "translation": null
+    },
+    {
+      "time": 109.719,
+      "time_str": "01:49.719",
+      "text": "带上音乐去旅行 和山水谈情",
+      "translation": null
+    },
+    {
+      "time": 115.749,
+      "time_str": "01:55.749",
+      "text": "跟陌生相爱 动听",
+      "translation": null
+    },
+    {
+      "time": 120.389,
+      "time_str": "02:00.389",
+      "text": "带上音乐去旅行 把幸福唤醒",
+      "translation": null
+    },
+    {
+      "time": 126.399,
+      "time_str": "02:06.399",
+      "text": "自由的生命 她舞步最轻盈",
+      "translation": null
+    },
+    {
+      "time": 153.29,
+      "time_str": "02:33.290",
+      "text": "让伤痛随风 纠缠归零",
+      "translation": null
+    },
+    {
+      "time": 158.68,
+      "time_str": "02:38.680",
+      "text": "遗忘的路上 有未来风景",
+      "translation": null
+    },
+    {
+      "time": 163.72,
+      "time_str": "02:43.720",
+      "text": "感受时光柔软 像浪漫电影",
+      "translation": null
+    },
+    {
+      "time": 169.34,
+      "time_str": "02:49.340",
+      "text": "那迷惑的心 在别处安静",
+      "translation": null
+    },
+    {
+      "time": 179.1,
+      "time_str": "02:59.100",
+      "text": "带上音乐去旅行 和山水谈情",
+      "translation": null
+    },
+    {
+      "time": 185.7,
+      "time_str": "03:05.700",
+      "text": "跟陌生相爱 动听",
+      "translation": null
+    },
+    {
+      "time": 189.75,
+      "time_str": "03:09.750",
+      "text": "带上音乐去旅行 把幸福唤醒",
+      "translation": null
+    },
+    {
+      "time": 195.77,
+      "time_str": "03:15.770",
+      "text": "自由的生命 她舞步最轻盈",
+      "translation": null
+    },
+    {
+      "time": 200.71,
+      "time_str": "03:20.710",
+      "text": "带上音乐去旅行 和山水谈情",
+      "translation": null
+    },
+    {
+      "time": 206.3,
+      "time_str": "03:26.300",
+      "text": "跟陌生相爱 动听",
+      "translation": null
+    },
+    {
+      "time": 211.0,
+      "time_str": "03:31.000",
+      "text": "带上音乐去旅行 把幸福唤醒",
+      "translation": null
+    },
+    {
+      "time": 217.11,
+      "time_str": "03:37.110",
+      "text": "自由的生命 她舞步最轻盈",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "带上音乐去旅行 - 群星.lrc"
+}

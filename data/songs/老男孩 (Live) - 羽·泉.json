@@ -1,0 +1,286 @@
+{
+  "title": "老男孩",
+  "title_raw": "老男孩 (Live)",
+  "version": "Live",
+  "artist": "羽·泉",
+  "group_key": "老男孩|羽·泉",
+  "writers": {
+    "lyricist": "筷子兄弟",
+    "composer": "大橋卓弥",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 30.74,
+      "time_str": "00:30.740",
+      "text": "那是我日夜思念深深爱着的人呐",
+      "translation": null
+    },
+    {
+      "time": 37.59,
+      "time_str": "00:37.590",
+      "text": "到底我该如何表达",
+      "translation": null
+    },
+    {
+      "time": 40.42,
+      "time_str": "00:40.420",
+      "text": "她会接受我吗",
+      "translation": null
+    },
+    {
+      "time": 44.12,
+      "time_str": "00:44.120",
+      "text": "也许永远都不会跟他说出那句话",
+      "translation": null
+    },
+    {
+      "time": 50.42,
+      "time_str": "00:50.420",
+      "text": "注定我要浪迹天涯",
+      "translation": null
+    },
+    {
+      "time": 53.73,
+      "time_str": "00:53.730",
+      "text": "怎么能有牵挂",
+      "translation": null
+    },
+    {
+      "time": 57.2,
+      "time_str": "00:57.200",
+      "text": "梦想总是遥不可及",
+      "translation": null
+    },
+    {
+      "time": 60.32,
+      "time_str": "01:00.320",
+      "text": "是不是应该放弃",
+      "translation": null
+    },
+    {
+      "time": 63.61,
+      "time_str": "01:03.610",
+      "text": "花开花落又是雨季",
+      "translation": null
+    },
+    {
+      "time": 66.95,
+      "time_str": "01:06.950",
+      "text": "春天啊你在哪里",
+      "translation": null
+    },
+    {
+      "time": 77.51,
+      "time_str": "01:17.510",
+      "text": "青春如同奔流的江河",
+      "translation": null
+    },
+    {
+      "time": 80.68,
+      "time_str": "01:20.680",
+      "text": "一去不回来不及道别",
+      "translation": null
+    },
+    {
+      "time": 84.24,
+      "time_str": "01:24.240",
+      "text": "只剩下麻木的我没有了当年的热血",
+      "translation": null
+    },
+    {
+      "time": 90.28,
+      "time_str": "01:30.280",
+      "text": "看那漫天飘零的花朵",
+      "translation": null
+    },
+    {
+      "time": 94.26,
+      "time_str": "01:34.260",
+      "text": "在最美丽的时刻凋谢",
+      "translation": null
+    },
+    {
+      "time": 97.8,
+      "time_str": "01:37.800",
+      "text": "有谁会记得这世界它来过",
+      "translation": null
+    },
+    {
+      "time": 105.42,
+      "time_str": "01:45.420",
+      "text": "转眼过去多年时间多少离合悲欢",
+      "translation": null
+    },
+    {
+      "time": 110.94,
+      "time_str": "01:50.940",
+      "text": "曾经志在四方少年羡慕南飞的燕",
+      "translation": null
+    },
+    {
+      "time": 118.5,
+      "time_str": "01:58.500",
+      "text": "各自奔前程的身影匆匆渐行渐远",
+      "translation": null
+    },
+    {
+      "time": 124.44,
+      "time_str": "02:04.440",
+      "text": "未来在哪里平凡啊你给了我答案",
+      "translation": null
+    },
+    {
+      "time": 130.91,
+      "time_str": "02:10.910",
+      "text": "那时陪伴我的人啊你们如今在何方",
+      "translation": null
+    },
+    {
+      "time": 137.54,
+      "time_str": "02:17.540",
+      "text": "我曾深爱过的人啊现在是什么模样",
+      "translation": null
+    },
+    {
+      "time": 146.97,
+      "time_str": "02:26.970",
+      "text": "当初的愿望实现了吗",
+      "translation": null
+    },
+    {
+      "time": 149.7,
+      "time_str": "02:29.700",
+      "text": "事到如今只好祭奠吗",
+      "translation": null
+    },
+    {
+      "time": 153.18,
+      "time_str": "02:33.180",
+      "text": "任岁月风干理想再也找不回真的我",
+      "translation": null
+    },
+    {
+      "time": 160.18,
+      "time_str": "02:40.180",
+      "text": "抬头仰望着满天星河",
+      "translation": null
+    },
+    {
+      "time": 163.8,
+      "time_str": "02:43.800",
+      "text": "那时候陪伴我的那颗",
+      "translation": null
+    },
+    {
+      "time": 166.51,
+      "time_str": "02:46.510",
+      "text": "这里的故事你是否还记得",
+      "translation": null
+    },
+    {
+      "time": 183.49,
+      "time_str": "03:03.490",
+      "text": "生活像一把无情刻刀",
+      "translation": null
+    },
+    {
+      "time": 186.71,
+      "time_str": "03:06.710",
+      "text": "改变了我们模样",
+      "translation": null
+    },
+    {
+      "time": 189.69,
+      "time_str": "03:09.690",
+      "text": "绽放以后就会枯萎吗",
+      "translation": null
+    },
+    {
+      "time": 193.34,
+      "time_str": "03:13.340",
+      "text": "我们还拥有梦想",
+      "translation": null
+    },
+    {
+      "time": 200.35,
+      "time_str": "03:20.350",
+      "text": "青春如同奔流的江河",
+      "translation": null
+    },
+    {
+      "time": 203.49,
+      "time_str": "03:23.490",
+      "text": "一去不回来不及道别",
+      "translation": null
+    },
+    {
+      "time": 207.13,
+      "time_str": "03:27.130",
+      "text": "只剩下麻木的我没有了当年的热血",
+      "translation": null
+    },
+    {
+      "time": 213.78,
+      "time_str": "03:33.780",
+      "text": "看那满天飘零的花朵",
+      "translation": null
+    },
+    {
+      "time": 217.19,
+      "time_str": "03:37.190",
+      "text": "在最美的时刻凋谢",
+      "translation": null
+    },
+    {
+      "time": 221.1,
+      "time_str": "03:41.100",
+      "text": "有谁会记得这世界它来过",
+      "translation": null
+    },
+    {
+      "time": 234.44,
+      "time_str": "03:54.440",
+      "text": "当初的愿望实现了吗",
+      "translation": null
+    },
+    {
+      "time": 237.2,
+      "time_str": "03:57.200",
+      "text": "事到如今只好祭奠吗",
+      "translation": null
+    },
+    {
+      "time": 240.63,
+      "time_str": "04:00.630",
+      "text": "任岁月风干理想再也找不回真的我",
+      "translation": null
+    },
+    {
+      "time": 246.77,
+      "time_str": "04:06.770",
+      "text": "抬头仰望着满天星河",
+      "translation": null
+    },
+    {
+      "time": 250.7,
+      "time_str": "04:10.700",
+      "text": "那时候陪伴我的那颗",
+      "translation": null
+    },
+    {
+      "time": 253.67,
+      "time_str": "04:13.670",
+      "text": "这里的故事你是否还记得",
+      "translation": null
+    },
+    {
+      "time": 274.04,
+      "time_str": "04:34.040",
+      "text": "如果有明天祝福你我亲爱的",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "老男孩 (Live) - 羽·泉.lrc"
+}

@@ -1,0 +1,208 @@
+{
+  "title": "Victory",
+  "title_raw": "Victory",
+  "version": null,
+  "artist": "Two Steps From Hell,Thomas Bergersen",
+  "group_key": "victory|two steps from hell,thomas bergersen",
+  "writers": {
+    "lyricist": "Thomas Bergersen/Merethe Soltvedt",
+    "composer": "Thomas Bergersen",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 161.408,
+      "time_str": "02:41.408",
+      "text": "From far away",
+      "translation": "在遥远的地方"
+    },
+    {
+      "time": 163.406,
+      "time_str": "02:43.406",
+      "text": "In mountains deep",
+      "translation": "在群山的深处"
+    },
+    {
+      "time": 165.172,
+      "time_str": "02:45.172",
+      "text": "The night of blood",
+      "translation": "在血色的夜晚"
+    },
+    {
+      "time": 166.915,
+      "time_str": "02:46.915",
+      "text": "In twilight sleep",
+      "translation": "在朦胧的睡眼"
+    },
+    {
+      "time": 169.157,
+      "time_str": "02:49.157",
+      "text": "The armies fight",
+      "translation": "军队正激战"
+    },
+    {
+      "time": 171.156,
+      "time_str": "02:51.156",
+      "text": "For king and queen",
+      "translation": "为王与后"
+    },
+    {
+      "time": 173.171,
+      "time_str": "02:53.171",
+      "text": "There will be no",
+      "translation": "将不会有"
+    },
+    {
+      "time": 175.169,
+      "time_str": "02:55.169",
+      "text": "No victory",
+      "translation": "胜利"
+    },
+    {
+      "time": 177.153,
+      "time_str": "02:57.153",
+      "text": "The swords collide",
+      "translation": "利刃相撞"
+    },
+    {
+      "time": 179.161,
+      "time_str": "02:59.161",
+      "text": "With power and force",
+      "translation": "充斥力量"
+    },
+    {
+      "time": 181.159,
+      "time_str": "03:01.159",
+      "text": "As mighty men",
+      "translation": "身为勇士"
+    },
+    {
+      "time": 183.166,
+      "time_str": "03:03.166",
+      "text": "Show no remorse",
+      "translation": "毫无悔意"
+    },
+    {
+      "time": 185.161,
+      "time_str": "03:05.161",
+      "text": "It is the time",
+      "translation": "正是"
+    },
+    {
+      "time": 187.17,
+      "time_str": "03:07.170",
+      "text": "The snow is melting",
+      "translation": "雪融之际"
+    },
+    {
+      "time": 189.412,
+      "time_str": "03:09.412",
+      "text": "It is the time",
+      "translation": "正是"
+    },
+    {
+      "time": 191.16,
+      "time_str": "03:11.160",
+      "text": "Of reckoning",
+      "translation": "清算之时"
+    },
+    {
+      "time": 257.411,
+      "time_str": "04:17.411",
+      "text": "From far away",
+      "translation": "遥远异方"
+    },
+    {
+      "time": 259.167,
+      "time_str": "04:19.167",
+      "text": "In moutains deep",
+      "translation": "深深山上"
+    },
+    {
+      "time": 261.153,
+      "time_str": "04:21.153",
+      "text": "The night of blood",
+      "translation": "血色之夜"
+    },
+    {
+      "time": 263.164,
+      "time_str": "04:23.164",
+      "text": "In twilight sleep",
+      "translation": "睡眼微张"
+    },
+    {
+      "time": 265.161,
+      "time_str": "04:25.161",
+      "text": "The armies fight",
+      "translation": "正义之师"
+    },
+    {
+      "time": 267.166,
+      "time_str": "04:27.166",
+      "text": "For king and queen",
+      "translation": "为王而战"
+    },
+    {
+      "time": 269.161,
+      "time_str": "04:29.161",
+      "text": "There will be no",
+      "translation": "激战之中"
+    },
+    {
+      "time": 271.165,
+      "time_str": "04:31.165",
+      "text": "No victory",
+      "translation": "胜负难盼"
+    },
+    {
+      "time": 273.156,
+      "time_str": "04:33.156",
+      "text": "The swords collide",
+      "translation": "刀剑铿锵"
+    },
+    {
+      "time": 275.163,
+      "time_str": "04:35.163",
+      "text": "With power and force",
+      "translation": "力举无疆"
+    },
+    {
+      "time": 277.168,
+      "time_str": "04:37.168",
+      "text": "As mighty men",
+      "translation": "生而无畏"
+    },
+    {
+      "time": 279.175,
+      "time_str": "04:39.175",
+      "text": "Show no remorse",
+      "translation": "死而不悔"
+    },
+    {
+      "time": 281.159,
+      "time_str": "04:41.159",
+      "text": "It is the time",
+      "translation": "时辰已到"
+    },
+    {
+      "time": 283.155,
+      "time_str": "04:43.155",
+      "text": "The snow is melting",
+      "translation": "白雪消融"
+    },
+    {
+      "time": 285.16,
+      "time_str": "04:45.160",
+      "text": "It is the time",
+      "translation": "时辰已到"
+    },
+    {
+      "time": 287.17,
+      "time_str": "04:47.170",
+      "text": "Of reckoning",
+      "translation": "清算旧账"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Victory - Two Steps From Hell,Thomas Bergersen.lrc"
+}

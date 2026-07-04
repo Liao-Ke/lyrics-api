@@ -1,0 +1,268 @@
+{
+  "title": "黑白电影",
+  "title_raw": "黑白电影",
+  "version": null,
+  "artist": "莫艳琳",
+  "group_key": "黑白电影|莫艳琳",
+  "writers": {
+    "lyricist": "李斌",
+    "composer": "莫艳琳",
+    "arranger": "柳森/小哲/李斌"
+  },
+  "lyrics": [
+    {
+      "time": 10.83,
+      "time_str": "00:10.830",
+      "text": "编曲 柳森 小哲 李斌",
+      "translation": null
+    },
+    {
+      "time": 41.26,
+      "time_str": "00:41.260",
+      "text": "独自一个人需要一点点勇气",
+      "translation": null
+    },
+    {
+      "time": 48.55,
+      "time_str": "00:48.550",
+      "text": "安静地听见呼吸的声音",
+      "translation": null
+    },
+    {
+      "time": 55.03,
+      "time_str": "00:55.030",
+      "text": "去找那一首爱的歌",
+      "translation": null
+    },
+    {
+      "time": 58.64,
+      "time_str": "00:58.640",
+      "text": "也会跟着一起唱着",
+      "translation": null
+    },
+    {
+      "time": 62.4,
+      "time_str": "01:02.400",
+      "text": "用不用了心 不太在意",
+      "translation": null
+    },
+    {
+      "time": 70.78,
+      "time_str": "01:10.780",
+      "text": "释放了光线散在白色的墙壁",
+      "translation": null
+    },
+    {
+      "time": 78.08,
+      "time_str": "01:18.080",
+      "text": "刻意的导演一出无声的电影",
+      "translation": null
+    },
+    {
+      "time": 84.52,
+      "time_str": "01:24.520",
+      "text": "为这样的故事难过",
+      "translation": null
+    },
+    {
+      "time": 88.23,
+      "time_str": "01:28.230",
+      "text": "什么样的结局感动",
+      "translation": null
+    },
+    {
+      "time": 91.99,
+      "time_str": "01:31.990",
+      "text": "做一个不曾出镜的角色",
+      "translation": null
+    },
+    {
+      "time": 99.37,
+      "time_str": "01:39.370",
+      "text": "是为谁唱的歌",
+      "translation": null
+    },
+    {
+      "time": 102.99,
+      "time_str": "01:42.990",
+      "text": "和满天的烟火",
+      "translation": null
+    },
+    {
+      "time": 106.66,
+      "time_str": "01:46.660",
+      "text": "时间不知不觉流走",
+      "translation": null
+    },
+    {
+      "time": 110.35,
+      "time_str": "01:50.350",
+      "text": "在灯彻夜不息的角落",
+      "translation": null
+    },
+    {
+      "time": 114.53,
+      "time_str": "01:54.530",
+      "text": "有一点冲动 去冲淡了寂寞",
+      "translation": null
+    },
+    {
+      "time": 121.75,
+      "time_str": "02:01.750",
+      "text": "做一个想做的梦",
+      "translation": null
+    },
+    {
+      "time": 125.52,
+      "time_str": "02:05.520",
+      "text": "哪怕它只是黑白电影",
+      "translation": null
+    },
+    {
+      "time": 144.58,
+      "time_str": "02:24.580",
+      "text": "释放了光线散在白色的墙壁",
+      "translation": null
+    },
+    {
+      "time": 152.39,
+      "time_str": "02:32.390",
+      "text": "刻意的导演一出无声的电影",
+      "translation": null
+    },
+    {
+      "time": 158.44,
+      "time_str": "02:38.440",
+      "text": "为这样的故事难过",
+      "translation": null
+    },
+    {
+      "time": 161.92,
+      "time_str": "02:41.920",
+      "text": "什么样的结局感动",
+      "translation": null
+    },
+    {
+      "time": 165.87,
+      "time_str": "02:45.870",
+      "text": "做一个不曾出镜的角色",
+      "translation": null
+    },
+    {
+      "time": 172.78,
+      "time_str": "02:52.780",
+      "text": "是为谁唱的歌",
+      "translation": null
+    },
+    {
+      "time": 176.95,
+      "time_str": "02:56.950",
+      "text": "和满天的烟火",
+      "translation": null
+    },
+    {
+      "time": 182.1,
+      "time_str": "03:02.100",
+      "text": "时间不知不觉流走",
+      "translation": null
+    },
+    {
+      "time": 183.79,
+      "time_str": "03:03.790",
+      "text": "在灯彻夜不息的角落",
+      "translation": null
+    },
+    {
+      "time": 188.22,
+      "time_str": "03:08.220",
+      "text": "有一点冲动 去冲淡了寂寞",
+      "translation": null
+    },
+    {
+      "time": 196.01,
+      "time_str": "03:16.010",
+      "text": "做一个想做的梦",
+      "translation": null
+    },
+    {
+      "time": 199.37,
+      "time_str": "03:19.370",
+      "text": "哪怕它只是黑白电影",
+      "translation": null
+    },
+    {
+      "time": 221.15,
+      "time_str": "03:41.150",
+      "text": "一点忍耐 用心等待",
+      "translation": null
+    },
+    {
+      "time": 222.9,
+      "time_str": "03:42.900",
+      "text": "谜底解不开",
+      "translation": null
+    },
+    {
+      "time": 225.6,
+      "time_str": "03:45.600",
+      "text": "需要一点时间留给空白",
+      "translation": null
+    },
+    {
+      "time": 232.63,
+      "time_str": "03:52.630",
+      "text": "是为谁唱的歌",
+      "translation": null
+    },
+    {
+      "time": 240.17,
+      "time_str": "04:00.170",
+      "text": "和满天的烟火",
+      "translation": null
+    },
+    {
+      "time": 241.39,
+      "time_str": "04:01.390",
+      "text": "时间不知不觉流走",
+      "translation": null
+    },
+    {
+      "time": 243.03,
+      "time_str": "04:03.030",
+      "text": "在灯彻夜不息的角落",
+      "translation": null
+    },
+    {
+      "time": 247.24,
+      "time_str": "04:07.240",
+      "text": "有一点冲动 去冲淡了寂寞",
+      "translation": null
+    },
+    {
+      "time": 252.28,
+      "time_str": "04:12.280",
+      "text": "做一个想做的梦",
+      "translation": null
+    },
+    {
+      "time": 256.64,
+      "time_str": "04:16.640",
+      "text": "哪怕它只是黑白电影",
+      "translation": null
+    },
+    {
+      "time": 269.94,
+      "time_str": "04:29.940",
+      "text": "做一个想做的梦",
+      "translation": null
+    },
+    {
+      "time": 277.67,
+      "time_str": "04:37.670",
+      "text": "哪怕它只是黑白电影",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "黑白电影 - 莫艳琳.lrc"
+}

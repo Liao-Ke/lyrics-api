@@ -1,0 +1,262 @@
+{
+  "title": "吻你",
+  "title_raw": "吻你",
+  "version": null,
+  "artist": "赵鹏",
+  "group_key": "吻你|赵鹏",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.79,
+      "time_str": "00:00.790",
+      "text": "赵鹏――吻你",
+      "translation": null
+    },
+    {
+      "time": 37.59,
+      "time_str": "00:37.590",
+      "text": "银色月光",
+      "translation": null
+    },
+    {
+      "time": 40.78,
+      "time_str": "00:40.780",
+      "text": "洒在你脸上",
+      "translation": null
+    },
+    {
+      "time": 44.4,
+      "time_str": "00:44.400",
+      "text": "你纯真脸庞",
+      "translation": null
+    },
+    {
+      "time": 47.83,
+      "time_str": "00:47.830",
+      "text": "像个孩子一样",
+      "translation": null
+    },
+    {
+      "time": 51.39,
+      "time_str": "00:51.390",
+      "text": "马头琴悠扬",
+      "translation": null
+    },
+    {
+      "time": 54.63,
+      "time_str": "00:54.630",
+      "text": "是谁在歌唱",
+      "translation": null
+    },
+    {
+      "time": 58.5,
+      "time_str": "00:58.500",
+      "text": "请别吵醒我",
+      "translation": null
+    },
+    {
+      "time": 61.81,
+      "time_str": "01:01.810",
+      "text": "心爱的姑娘",
+      "translation": null
+    },
+    {
+      "time": 65.56,
+      "time_str": "01:05.560",
+      "text": "吻你的脸颊",
+      "translation": null
+    },
+    {
+      "time": 68.92,
+      "time_str": "01:08.920",
+      "text": "吻你的长发",
+      "translation": null
+    },
+    {
+      "time": 72.67,
+      "time_str": "01:12.670",
+      "text": "靠在我胸膛",
+      "translation": null
+    },
+    {
+      "time": 76.07,
+      "time_str": "01:16.070",
+      "text": "不管夜 多漫长",
+      "translation": null
+    },
+    {
+      "time": 79.58,
+      "time_str": "01:19.580",
+      "text": "吻你的善良",
+      "translation": null
+    },
+    {
+      "time": 83.01,
+      "time_str": "01:23.010",
+      "text": "吻你的坚强",
+      "translation": null
+    },
+    {
+      "time": 86.56,
+      "time_str": "01:26.560",
+      "text": "有你在身旁",
+      "translation": null
+    },
+    {
+      "time": 90.12,
+      "time_str": "01:30.120",
+      "text": "心就不再流浪",
+      "translation": null
+    },
+    {
+      "time": 124.05,
+      "time_str": "02:04.050",
+      "text": "银色月光",
+      "translation": null
+    },
+    {
+      "time": 127.23,
+      "time_str": "02:07.230",
+      "text": "洒在你脸上",
+      "translation": null
+    },
+    {
+      "time": 130.72,
+      "time_str": "02:10.720",
+      "text": "你纯真脸庞",
+      "translation": null
+    },
+    {
+      "time": 133.79,
+      "time_str": "02:13.790",
+      "text": "像个孩子一样",
+      "translation": null
+    },
+    {
+      "time": 137.84,
+      "time_str": "02:17.840",
+      "text": "马头琴悠扬",
+      "translation": null
+    },
+    {
+      "time": 141.29,
+      "time_str": "02:21.290",
+      "text": "是谁在歌唱",
+      "translation": null
+    },
+    {
+      "time": 144.86,
+      "time_str": "02:24.860",
+      "text": "请别吵醒我",
+      "translation": null
+    },
+    {
+      "time": 148.29,
+      "time_str": "02:28.290",
+      "text": "心爱的人啊",
+      "translation": null
+    },
+    {
+      "time": 152.03,
+      "time_str": "02:32.030",
+      "text": "吻你的微笑",
+      "translation": null
+    },
+    {
+      "time": 155.41,
+      "time_str": "02:35.410",
+      "text": "吻你的忧伤",
+      "translation": null
+    },
+    {
+      "time": 158.98,
+      "time_str": "02:38.980",
+      "text": "有你的地方",
+      "translation": null
+    },
+    {
+      "time": 162.54,
+      "time_str": "02:42.540",
+      "text": "哪里都是天堂",
+      "translation": null
+    },
+    {
+      "time": 166.09,
+      "time_str": "02:46.090",
+      "text": "吻你的沧桑",
+      "translation": null
+    },
+    {
+      "time": 169.73,
+      "time_str": "02:49.730",
+      "text": "吻你的花香",
+      "translation": null
+    },
+    {
+      "time": 173.09,
+      "time_str": "02:53.090",
+      "text": "骑上你的骏马",
+      "translation": null
+    },
+    {
+      "time": 176.71,
+      "time_str": "02:56.710",
+      "text": "带我去飞翔",
+      "translation": null
+    },
+    {
+      "time": 180.15,
+      "time_str": "03:00.150",
+      "text": "吻你的微笑",
+      "translation": null
+    },
+    {
+      "time": 183.64,
+      "time_str": "03:03.640",
+      "text": "吻你的忧伤",
+      "translation": null
+    },
+    {
+      "time": 187.26,
+      "time_str": "03:07.260",
+      "text": "有你的地方",
+      "translation": null
+    },
+    {
+      "time": 190.69,
+      "time_str": "03:10.690",
+      "text": "哪里都是天堂",
+      "translation": null
+    },
+    {
+      "time": 194.62,
+      "time_str": "03:14.620",
+      "text": "吻你的沧桑",
+      "translation": null
+    },
+    {
+      "time": 197.82,
+      "time_str": "03:17.820",
+      "text": "吻你的花香",
+      "translation": null
+    },
+    {
+      "time": 201.25,
+      "time_str": "03:21.250",
+      "text": "骑上你的骏马",
+      "translation": null
+    },
+    {
+      "time": 204.81,
+      "time_str": "03:24.810",
+      "text": "带我去飞翔",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "吻你 - 赵鹏.lrc"
+}

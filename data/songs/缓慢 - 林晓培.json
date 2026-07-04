@@ -1,0 +1,316 @@
+{
+  "title": "缓慢",
+  "title_raw": "缓慢",
+  "version": null,
+  "artist": "林晓培",
+  "group_key": "缓慢|林晓培",
+  "writers": {
+    "lyricist": "李焯雄/周耀辉",
+    "composer": "黄家驹",
+    "arranger": "刘志远"
+  },
+  "lyrics": [
+    {
+      "time": 18.54,
+      "time_str": "00:18.540",
+      "text": "一双铁翅膀",
+      "translation": null
+    },
+    {
+      "time": 22.28,
+      "time_str": "00:22.280",
+      "text": "送我到这地方",
+      "translation": null
+    },
+    {
+      "time": 26.0,
+      "time_str": "00:26.000",
+      "text": "天快亮 舍不得这机场",
+      "translation": null
+    },
+    {
+      "time": 32.78,
+      "time_str": "00:32.780",
+      "text": "缓慢的游荡",
+      "translation": null
+    },
+    {
+      "time": 35.28,
+      "time_str": "00:35.280",
+      "text": "在拥挤的机场",
+      "translation": null
+    },
+    {
+      "time": 38.34,
+      "time_str": "00:38.340",
+      "text": "风一样",
+      "translation": null
+    },
+    {
+      "time": 44.4,
+      "time_str": "00:44.400",
+      "text": "多少荧光屏",
+      "translation": null
+    },
+    {
+      "time": 47.74,
+      "time_str": "00:47.740",
+      "text": "总是闪烁不定",
+      "translation": null
+    },
+    {
+      "time": 51.43,
+      "time_str": "00:51.430",
+      "text": "天与地",
+      "translation": null
+    },
+    {
+      "time": 54.51,
+      "time_str": "00:54.510",
+      "text": "在中间它来临",
+      "translation": null
+    },
+    {
+      "time": 57.48,
+      "time_str": "00:57.480",
+      "text": "缓慢的飞机",
+      "translation": null
+    },
+    {
+      "time": 60.77,
+      "time_str": "01:00.770",
+      "text": "有否我期待的",
+      "translation": null
+    },
+    {
+      "time": 64.18,
+      "time_str": "01:04.180",
+      "text": "一个你",
+      "translation": null
+    },
+    {
+      "time": 71.5,
+      "time_str": "01:11.500",
+      "text": "忘记你说你会继续",
+      "translation": null
+    },
+    {
+      "time": 76.06,
+      "time_str": "01:16.060",
+      "text": "还是要结束",
+      "translation": null
+    },
+    {
+      "time": 78.82,
+      "time_str": "01:18.820",
+      "text": "分开时只管哭",
+      "translation": null
+    },
+    {
+      "time": 82.12,
+      "time_str": "01:22.120",
+      "text": "我是否太迷糊",
+      "translation": null
+    },
+    {
+      "time": 85.3,
+      "time_str": "01:25.300",
+      "text": "你是否仍在乎",
+      "translation": null
+    },
+    {
+      "time": 91.74,
+      "time_str": "01:31.740",
+      "text": "等的太久不想继续",
+      "translation": null
+    },
+    {
+      "time": 95.53,
+      "time_str": "01:35.530",
+      "text": "也不愿结束",
+      "translation": null
+    },
+    {
+      "time": 98.34,
+      "time_str": "01:38.340",
+      "text": "分开时我走出",
+      "translation": null
+    },
+    {
+      "time": 101.53,
+      "time_str": "01:41.530",
+      "text": "最遥远的旅途",
+      "translation": null
+    },
+    {
+      "time": 105.1,
+      "time_str": "01:45.100",
+      "text": "最缓慢的脚步",
+      "translation": null
+    },
+    {
+      "time": 125.61,
+      "time_str": "02:05.610",
+      "text": "一杯热咖啡",
+      "translation": null
+    },
+    {
+      "time": 129.46,
+      "time_str": "02:09.460",
+      "text": "抵不住我的泪",
+      "translation": null
+    },
+    {
+      "time": 132.87,
+      "time_str": "02:12.870",
+      "text": "他是谁",
+      "translation": null
+    },
+    {
+      "time": 135.63,
+      "time_str": "02:15.630",
+      "text": "在拥抱的是谁",
+      "translation": null
+    },
+    {
+      "time": 138.59,
+      "time_str": "02:18.590",
+      "text": "缓慢的流泪",
+      "translation": null
+    },
+    {
+      "time": 142.66,
+      "time_str": "02:22.660",
+      "text": "我没有太伤悲",
+      "translation": null
+    },
+    {
+      "time": 145.41,
+      "time_str": "02:25.410",
+      "text": "我以为",
+      "translation": null
+    },
+    {
+      "time": 153.38,
+      "time_str": "02:33.380",
+      "text": "忘记你说你会继续",
+      "translation": null
+    },
+    {
+      "time": 157.4,
+      "time_str": "02:37.400",
+      "text": "还是要结束",
+      "translation": null
+    },
+    {
+      "time": 159.82,
+      "time_str": "02:39.820",
+      "text": "分开时只管哭",
+      "translation": null
+    },
+    {
+      "time": 163.24,
+      "time_str": "02:43.240",
+      "text": "我是否太迷糊",
+      "translation": null
+    },
+    {
+      "time": 166.42,
+      "time_str": "02:46.420",
+      "text": "你是否仍在乎",
+      "translation": null
+    },
+    {
+      "time": 172.9,
+      "time_str": "02:52.900",
+      "text": "等的太久不想继续",
+      "translation": null
+    },
+    {
+      "time": 176.42,
+      "time_str": "02:56.420",
+      "text": "也不愿结束",
+      "translation": null
+    },
+    {
+      "time": 179.51,
+      "time_str": "02:59.510",
+      "text": "分开时我走出",
+      "translation": null
+    },
+    {
+      "time": 182.8,
+      "time_str": "03:02.800",
+      "text": "最遥远的旅途",
+      "translation": null
+    },
+    {
+      "time": 186.24,
+      "time_str": "03:06.240",
+      "text": "最缓慢的脚步",
+      "translation": null
+    },
+    {
+      "time": 221.64,
+      "time_str": "03:41.640",
+      "text": "忘记你说你会继续",
+      "translation": null
+    },
+    {
+      "time": 225.54,
+      "time_str": "03:45.540",
+      "text": "还是要结束",
+      "translation": null
+    },
+    {
+      "time": 228.83,
+      "time_str": "03:48.830",
+      "text": "分开时只管哭",
+      "translation": null
+    },
+    {
+      "time": 231.41,
+      "time_str": "03:51.410",
+      "text": "我是否太迷糊",
+      "translation": null
+    },
+    {
+      "time": 234.71,
+      "time_str": "03:54.710",
+      "text": "你是否仍在乎",
+      "translation": null
+    },
+    {
+      "time": 241.04,
+      "time_str": "04:01.040",
+      "text": "等的太久不想继续",
+      "translation": null
+    },
+    {
+      "time": 244.89,
+      "time_str": "04:04.890",
+      "text": "也不愿结束",
+      "translation": null
+    },
+    {
+      "time": 247.53,
+      "time_str": "04:07.530",
+      "text": "分开时我走出",
+      "translation": null
+    },
+    {
+      "time": 250.88,
+      "time_str": "04:10.880",
+      "text": "最遥远的旅途",
+      "translation": null
+    },
+    {
+      "time": 254.02,
+      "time_str": "04:14.020",
+      "text": "最缓慢的脚步",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "缓慢 - 林晓培.lrc"
+}

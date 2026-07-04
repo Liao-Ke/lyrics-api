@@ -1,0 +1,322 @@
+{
+  "title": "Hello",
+  "title_raw": "Hello",
+  "version": null,
+  "artist": "Adele",
+  "group_key": "hello|adele",
+  "writers": {
+    "lyricist": "Adele Adkins",
+    "composer": "Adele Adkins/Greg Kurstin",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 6.22,
+      "time_str": "00:06.220",
+      "text": "Hello, it's me",
+      "translation": "你好 是我"
+    },
+    {
+      "time": 11.32,
+      "time_str": "00:11.320",
+      "text": "I was wondering if after all these years you'd like to meet",
+      "translation": "我犹豫着要不要给你来电 不确定多年后你是否还愿相见"
+    },
+    {
+      "time": 17.73,
+      "time_str": "00:17.730",
+      "text": "To go over everything",
+      "translation": "愿意闲聊寒暄 细数从前"
+    },
+    {
+      "time": 23.17,
+      "time_str": "00:23.170",
+      "text": "They say that time's supposed to heal ya but I ain't done much healing",
+      "translation": "人们都说时间能治愈一切 但我却似乎没有更好一点"
+    },
+    {
+      "time": 30.14,
+      "time_str": "00:30.140",
+      "text": "Hello, can you hear me",
+      "translation": "嘿 你在听吗"
+    },
+    {
+      "time": 35.66,
+      "time_str": "00:35.660",
+      "text": "I'm in California dreaming about who we used to be",
+      "translation": "我在加州梦见我们过去的种种美好"
+    },
+    {
+      "time": 41.62,
+      "time_str": "00:41.620",
+      "text": "When we were younger and free",
+      "translation": "当时那年轻而向往自由的我们"
+    },
+    {
+      "time": 47.72,
+      "time_str": "00:47.720",
+      "text": "I've forgotten how it felt before the world fell at our feet",
+      "translation": "我都快要忘了 但现实却让一切重现眼前"
+    },
+    {
+      "time": 53.62,
+      "time_str": "00:53.620",
+      "text": "There's such a difference between us",
+      "translation": "我们之间的差距愈见明显"
+    },
+    {
+      "time": 60.09,
+      "time_str": "01:00.090",
+      "text": "And a million miles",
+      "translation": "有如天差地别"
+    },
+    {
+      "time": 66.72,
+      "time_str": "01:06.720",
+      "text": "Hello from the other side",
+      "translation": "我还是想打给你 即使相隔天边"
+    },
+    {
+      "time": 72.36,
+      "time_str": "01:12.360",
+      "text": "I must've called a thousand times to tell you",
+      "translation": "即使打上千遍万遍我也想给你来电"
+    },
+    {
+      "time": 79.44,
+      "time_str": "01:19.440",
+      "text": "I'm sorry, for everything that I've done",
+      "translation": "对我从前所有的一切说声抱歉"
+    },
+    {
+      "time": 83.72,
+      "time_str": "01:23.720",
+      "text": "But when I call you never seem to be home",
+      "translation": "但我每次来电 似乎都是忙音不断没人接"
+    },
+    {
+      "time": 90.81,
+      "time_str": "01:30.810",
+      "text": "Hello from the outside",
+      "translation": "但这相隔千里的来电"
+    },
+    {
+      "time": 96.47,
+      "time_str": "01:36.470",
+      "text": "At least I can say that I've tried to tell you",
+      "translation": "至少能让我不留遗憾地告诉你"
+    },
+    {
+      "time": 103.68,
+      "time_str": "01:43.680",
+      "text": "I'm sorry, for breaking your heart",
+      "translation": "抱歉我曾让你心碎成片"
+    },
+    {
+      "time": 107.87,
+      "time_str": "01:47.870",
+      "text": "But it don't matter, it clearly doesn't tear you apart anymore",
+      "translation": "但值得庆幸 不会再有人让你悲痛欲绝"
+    },
+    {
+      "time": 121.44,
+      "time_str": "02:01.440",
+      "text": "Hello, how are you",
+      "translation": "嗨 你最近还好吗"
+    },
+    {
+      "time": 126.55,
+      "time_str": "02:06.550",
+      "text": "It's so typical of me to talk about myself",
+      "translation": "我已经习惯了自说自话帮你回答"
+    },
+    {
+      "time": 131.83,
+      "time_str": "02:11.830",
+      "text": "I'm sorry, I hope that you're well",
+      "translation": "也希望你现在能好过一点"
+    },
+    {
+      "time": 138.59,
+      "time_str": "02:18.590",
+      "text": "Did you ever make it out of that town",
+      "translation": "不知你是否已忘记那小城"
+    },
+    {
+      "time": 142.46,
+      "time_str": "02:22.460",
+      "text": "Where nothing ever happened",
+      "translation": "那不再有故事发生的小城"
+    },
+    {
+      "time": 144.67,
+      "time_str": "02:24.670",
+      "text": "It's no secret",
+      "translation": "毫无悬念"
+    },
+    {
+      "time": 147.79,
+      "time_str": "02:27.790",
+      "text": "That the both of us are running out of time",
+      "translation": "我们都荒废了从前的那些时间"
+    },
+    {
+      "time": 157.52,
+      "time_str": "02:37.520",
+      "text": "So hello from the other side",
+      "translation": "所以这来自远方的我的来电"
+    },
+    {
+      "time": 163.55,
+      "time_str": "02:43.550",
+      "text": "I must've called a thousand times to tell you",
+      "translation": "即使打上千遍万遍我也想对你说"
+    },
+    {
+      "time": 170.73,
+      "time_str": "02:50.730",
+      "text": "I'm sorry,",
+      "translation": "对我从前"
+    },
+    {
+      "time": 172.95,
+      "time_str": "02:52.950",
+      "text": "for everything that I've done",
+      "translation": "所有的一切说声抱歉"
+    },
+    {
+      "time": 175.21,
+      "time_str": "02:55.210",
+      "text": "But when I call you never seem to be home",
+      "translation": "但我每次来电 似乎都是忙音不断没人接"
+    },
+    {
+      "time": 182.55,
+      "time_str": "03:02.550",
+      "text": "Hello from the outside",
+      "translation": "但这相隔千里的来电"
+    },
+    {
+      "time": 188.12,
+      "time_str": "03:08.120",
+      "text": "At least I can say that I've tried to tell you",
+      "translation": "至少能让我不留遗憾地告诉你"
+    },
+    {
+      "time": 195.0,
+      "time_str": "03:15.000",
+      "text": "I'm sorry, for breaking your heart",
+      "translation": "抱歉我曾让你心碎成片"
+    },
+    {
+      "time": 199.48,
+      "time_str": "03:19.480",
+      "text": "But it don't matter",
+      "translation": "但值得庆幸"
+    },
+    {
+      "time": 201.81,
+      "time_str": "03:21.810",
+      "text": "it clearly doesn't tear you apart anymore",
+      "translation": "不会再有人让你悲痛欲绝"
+    },
+    {
+      "time": 212.72,
+      "time_str": "03:32.720",
+      "text": "anymore",
+      "translation": "也不会再有"
+    },
+    {
+      "time": 218.67,
+      "time_str": "03:38.670",
+      "text": "anymore",
+      "translation": "不会再有"
+    },
+    {
+      "time": 224.64,
+      "time_str": "03:44.640",
+      "text": "anymore",
+      "translation": "不会再有"
+    },
+    {
+      "time": 227.77,
+      "time_str": "03:47.770",
+      "text": "anymore",
+      "translation": "我们的从前"
+    },
+    {
+      "time": 230.95,
+      "time_str": "03:50.950",
+      "text": "Hello from the other side",
+      "translation": "这来自远方的我的来电"
+    },
+    {
+      "time": 236.79,
+      "time_str": "03:56.790",
+      "text": "I must've called a thousand times",
+      "translation": "即使打上千遍万遍"
+    },
+    {
+      "time": 242.08,
+      "time_str": "04:02.080",
+      "text": "to tell you",
+      "translation": "我也想对你"
+    },
+    {
+      "time": 243.59,
+      "time_str": "04:03.590",
+      "text": "I'm sorry,",
+      "translation": "说声抱歉"
+    },
+    {
+      "time": 245.7,
+      "time_str": "04:05.700",
+      "text": "for everything that I've done",
+      "translation": "对我从前的一切说声抱歉"
+    },
+    {
+      "time": 248.13,
+      "time_str": "04:08.130",
+      "text": "But when I call you never seem to be home",
+      "translation": "但我每次来电 似乎都是忙音不断没人接"
+    },
+    {
+      "time": 255.04,
+      "time_str": "04:15.040",
+      "text": "Hello from the outside",
+      "translation": "但这相隔千里的来电"
+    },
+    {
+      "time": 260.98,
+      "time_str": "04:20.980",
+      "text": "At least I can say that I've tried",
+      "translation": "至少能让我不留遗憾地"
+    },
+    {
+      "time": 266.23,
+      "time_str": "04:26.230",
+      "text": "to tell you",
+      "translation": "告诉你"
+    },
+    {
+      "time": 267.85,
+      "time_str": "04:27.850",
+      "text": "I'm sorry, for breaking your heart",
+      "translation": "抱歉我曾让你心碎成片"
+    },
+    {
+      "time": 272.18,
+      "time_str": "04:32.180",
+      "text": "But it don't matter",
+      "translation": "但值得庆幸"
+    },
+    {
+      "time": 274.38,
+      "time_str": "04:34.380",
+      "text": "it clearly doesn't tear you apart anymore",
+      "translation": "不会再有人让你悲痛欲绝"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Hello - Adele.lrc"
+}

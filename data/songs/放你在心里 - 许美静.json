@@ -1,0 +1,346 @@
+{
+  "title": "放你在心里",
+  "title_raw": "放你在心里",
+  "version": null,
+  "artist": "许美静",
+  "group_key": "放你在心里|许美静",
+  "writers": {
+    "lyricist": "陈佳明",
+    "composer": "陈佳明",
+    "arranger": "Derek Zuzarte"
+  },
+  "lyrics": [
+    {
+      "time": 17.46,
+      "time_str": "00:17.460",
+      "text": "曾经拥有 你给我的爱那么深",
+      "translation": null
+    },
+    {
+      "time": 21.63,
+      "time_str": "00:21.630",
+      "text": "以为你会宠爱我一生",
+      "translation": null
+    },
+    {
+      "time": 25.91,
+      "time_str": "00:25.910",
+      "text": "是我太贪心是我太天真",
+      "translation": null
+    },
+    {
+      "time": 30.13,
+      "time_str": "00:30.130",
+      "text": "始终不见你犹豫的眼神",
+      "translation": null
+    },
+    {
+      "time": 34.43,
+      "time_str": "00:34.430",
+      "text": "曾经想过 深爱一个人怎么够",
+      "translation": null
+    },
+    {
+      "time": 38.5,
+      "time_str": "00:38.500",
+      "text": "还要刹那和天长地久",
+      "translation": null
+    },
+    {
+      "time": 43.13,
+      "time_str": "00:43.130",
+      "text": "是我太贪心是我太天真",
+      "translation": null
+    },
+    {
+      "time": 47.14,
+      "time_str": "00:47.140",
+      "text": "始终不信你的爱变冷",
+      "translation": null
+    },
+    {
+      "time": 54.08,
+      "time_str": "00:54.080",
+      "text": "该是最后一次让你心疼",
+      "translation": null
+    },
+    {
+      "time": 57.83,
+      "time_str": "00:57.830",
+      "text": "分不清这是梦还是真",
+      "translation": null
+    },
+    {
+      "time": 62.56,
+      "time_str": "01:02.560",
+      "text": "不能肯定对你没有恨",
+      "translation": null
+    },
+    {
+      "time": 66.36,
+      "time_str": "01:06.360",
+      "text": "我会如何继续你别问",
+      "translation": null
+    },
+    {
+      "time": 74.18,
+      "time_str": "01:14.180",
+      "text": "一生把你放在心里头",
+      "translation": null
+    },
+    {
+      "time": 78.11,
+      "time_str": "01:18.110",
+      "text": "尽管未必能够长相厮守",
+      "translation": null
+    },
+    {
+      "time": 82.36,
+      "time_str": "01:22.360",
+      "text": "只要偶尔深夜想起有你",
+      "translation": null
+    },
+    {
+      "time": 86.61,
+      "time_str": "01:26.610",
+      "text": "会有一丝微微的酒意",
+      "translation": null
+    },
+    {
+      "time": 91.44,
+      "time_str": "01:31.440",
+      "text": "一生把你放在梦里头",
+      "translation": null
+    },
+    {
+      "time": 95.17,
+      "time_str": "01:35.170",
+      "text": "尽管就要和你从此分手",
+      "translation": null
+    },
+    {
+      "time": 99.55,
+      "time_str": "01:39.550",
+      "text": "让我能够感觉一些暖意",
+      "translation": null
+    },
+    {
+      "time": 103.61,
+      "time_str": "01:43.610",
+      "text": "让我以为还在你怀里",
+      "translation": null
+    },
+    {
+      "time": 129.96,
+      "time_str": "02:09.960",
+      "text": "曾经拥有 你给我的爱那么深",
+      "translation": null
+    },
+    {
+      "time": 133.96,
+      "time_str": "02:13.960",
+      "text": "以为你会宠爱我一生",
+      "translation": null
+    },
+    {
+      "time": 138.34,
+      "time_str": "02:18.340",
+      "text": "是我太贪心是我太天真",
+      "translation": null
+    },
+    {
+      "time": 142.63,
+      "time_str": "02:22.630",
+      "text": "始终不见你犹豫的眼神",
+      "translation": null
+    },
+    {
+      "time": 147.03,
+      "time_str": "02:27.030",
+      "text": "曾经想过 深爱一个人怎么够",
+      "translation": null
+    },
+    {
+      "time": 151.11,
+      "time_str": "02:31.110",
+      "text": "还要刹那和天长地久",
+      "translation": null
+    },
+    {
+      "time": 155.49,
+      "time_str": "02:35.490",
+      "text": "是我太贪心是我太天真",
+      "translation": null
+    },
+    {
+      "time": 159.68,
+      "time_str": "02:39.680",
+      "text": "始终不信你的爱变冷",
+      "translation": null
+    },
+    {
+      "time": 166.2,
+      "time_str": "02:46.200",
+      "text": "该是最后一次让你心疼",
+      "translation": null
+    },
+    {
+      "time": 170.3,
+      "time_str": "02:50.300",
+      "text": "分不清这是梦还是真",
+      "translation": null
+    },
+    {
+      "time": 175.13,
+      "time_str": "02:55.130",
+      "text": "不能肯定对你没有恨",
+      "translation": null
+    },
+    {
+      "time": 178.89,
+      "time_str": "02:58.890",
+      "text": "我会如何继续你别问",
+      "translation": null
+    },
+    {
+      "time": 185.85,
+      "time_str": "03:05.850",
+      "text": "一生把你放在心里头",
+      "translation": null
+    },
+    {
+      "time": 189.53,
+      "time_str": "03:09.530",
+      "text": "尽管未必能够长相厮守",
+      "translation": null
+    },
+    {
+      "time": 193.85,
+      "time_str": "03:13.850",
+      "text": "只要偶尔深夜想起有你",
+      "translation": null
+    },
+    {
+      "time": 198.01,
+      "time_str": "03:18.010",
+      "text": "会有一丝微微的酒意",
+      "translation": null
+    },
+    {
+      "time": 202.84,
+      "time_str": "03:22.840",
+      "text": "一生把你放在梦里头",
+      "translation": null
+    },
+    {
+      "time": 206.58,
+      "time_str": "03:26.580",
+      "text": "尽管就要和你从此分手",
+      "translation": null
+    },
+    {
+      "time": 210.91,
+      "time_str": "03:30.910",
+      "text": "让我能够感觉一些暖意",
+      "translation": null
+    },
+    {
+      "time": 215.15,
+      "time_str": "03:35.150",
+      "text": "让我以为还在你怀里",
+      "translation": null
+    },
+    {
+      "time": 222.33,
+      "time_str": "03:42.330",
+      "text": "一生把你放在心里头",
+      "translation": null
+    },
+    {
+      "time": 226.08,
+      "time_str": "03:46.080",
+      "text": "尽管未必能够长相厮守",
+      "translation": null
+    },
+    {
+      "time": 230.49,
+      "time_str": "03:50.490",
+      "text": "只要偶尔深夜想起有你",
+      "translation": null
+    },
+    {
+      "time": 234.71,
+      "time_str": "03:54.710",
+      "text": "会有一丝微微的酒意",
+      "translation": null
+    },
+    {
+      "time": 239.17,
+      "time_str": "03:59.170",
+      "text": "一生把你放在梦里头",
+      "translation": null
+    },
+    {
+      "time": 243.21,
+      "time_str": "04:03.210",
+      "text": "尽管就要和你从此分手",
+      "translation": null
+    },
+    {
+      "time": 247.43,
+      "time_str": "04:07.430",
+      "text": "让我能够感觉一些暖意",
+      "translation": null
+    },
+    {
+      "time": 251.72,
+      "time_str": "04:11.720",
+      "text": "让我以为还在你怀里",
+      "translation": null
+    },
+    {
+      "time": 258.3,
+      "time_str": "04:18.300",
+      "text": "让我能够感觉一些暖意",
+      "translation": null
+    },
+    {
+      "time": 262.63,
+      "time_str": "04:22.630",
+      "text": "让我以为还在你怀里",
+      "translation": null
+    },
+    {
+      "time": 267.54,
+      "time_str": "04:27.540",
+      "text": "Guitar: Joe Ranjan",
+      "translation": null
+    },
+    {
+      "time": 267.7,
+      "time_str": "04:27.700",
+      "text": "制作: 仙人掌音乐工作室",
+      "translation": null
+    },
+    {
+      "time": 268.43,
+      "time_str": "04:28.430",
+      "text": "混音录音师: Frank Lee Lupo",
+      "translation": null
+    },
+    {
+      "time": 268.8,
+      "time_str": "04:28.800",
+      "text": "Mastering: 徐崇宪",
+      "translation": null
+    },
+    {
+      "time": 269.0,
+      "time_str": "04:29.000",
+      "text": "Mastering录音室: 丽风录音室 (台北)",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "放你在心里 - 许美静.lrc"
+}

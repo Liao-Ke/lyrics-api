@@ -1,0 +1,364 @@
+{
+  "title": "借口",
+  "title_raw": "借口",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "借口|周杰伦",
+  "writers": {
+    "lyricist": "周杰伦",
+    "composer": "周杰伦",
+    "arranger": "周杰伦"
+  },
+  "lyrics": [
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "贝斯 : 陈任佑",
+      "translation": null
+    },
+    {
+      "time": 15.47,
+      "time_str": "00:15.470",
+      "text": "翻着我们的照片",
+      "translation": null
+    },
+    {
+      "time": 18.47,
+      "time_str": "00:18.470",
+      "text": "想念若隐若现",
+      "translation": null
+    },
+    {
+      "time": 22.28,
+      "time_str": "00:22.280",
+      "text": "去年的冬天",
+      "translation": null
+    },
+    {
+      "time": 25.94,
+      "time_str": "00:25.940",
+      "text": "我们笑得很甜",
+      "translation": null
+    },
+    {
+      "time": 30.1,
+      "time_str": "00:30.100",
+      "text": "看着你哭泣的脸",
+      "translation": null
+    },
+    {
+      "time": 33.21,
+      "time_str": "00:33.210",
+      "text": "对着我说再见",
+      "translation": null
+    },
+    {
+      "time": 36.96,
+      "time_str": "00:36.960",
+      "text": "来不及听见",
+      "translation": null
+    },
+    {
+      "time": 40.52,
+      "time_str": "00:40.520",
+      "text": "你已走得很远",
+      "translation": null
+    },
+    {
+      "time": 44.23,
+      "time_str": "00:44.230",
+      "text": "也许你已经放弃我",
+      "translation": null
+    },
+    {
+      "time": 47.84,
+      "time_str": "00:47.840",
+      "text": "也许已经很难回头",
+      "translation": null
+    },
+    {
+      "time": 51.59,
+      "time_str": "00:51.590",
+      "text": "我知道是自己错过",
+      "translation": null
+    },
+    {
+      "time": 55.2,
+      "time_str": "00:55.200",
+      "text": "请再给我一个理由",
+      "translation": null
+    },
+    {
+      "time": 58.85,
+      "time_str": "00:58.850",
+      "text": "说你不爱我",
+      "translation": null
+    },
+    {
+      "time": 63.06,
+      "time_str": "01:03.060",
+      "text": "就算是我不懂",
+      "translation": null
+    },
+    {
+      "time": 66.67,
+      "time_str": "01:06.670",
+      "text": "能不能原谅我",
+      "translation": null
+    },
+    {
+      "time": 70.32,
+      "time_str": "01:10.320",
+      "text": "请不要把分手",
+      "translation": null
+    },
+    {
+      "time": 73.47,
+      "time_str": "01:13.470",
+      "text": "当作你的请求",
+      "translation": null
+    },
+    {
+      "time": 77.8,
+      "time_str": "01:17.800",
+      "text": "我知道坚持要走",
+      "translation": null
+    },
+    {
+      "time": 81.32,
+      "time_str": "01:21.320",
+      "text": "是你受伤的借口",
+      "translation": null
+    },
+    {
+      "time": 84.57,
+      "time_str": "01:24.570",
+      "text": "请你回头",
+      "translation": null
+    },
+    {
+      "time": 86.43,
+      "time_str": "01:26.430",
+      "text": "我会陪你一直走到最后",
+      "translation": null
+    },
+    {
+      "time": 92.38,
+      "time_str": "01:32.380",
+      "text": "就算没有结果",
+      "translation": null
+    },
+    {
+      "time": 96.04,
+      "time_str": "01:36.040",
+      "text": "我也能够承受",
+      "translation": null
+    },
+    {
+      "time": 99.7,
+      "time_str": "01:39.700",
+      "text": "我知道你的痛",
+      "translation": null
+    },
+    {
+      "time": 102.8,
+      "time_str": "01:42.800",
+      "text": "是我给的承诺",
+      "translation": null
+    },
+    {
+      "time": 106.97,
+      "time_str": "01:46.970",
+      "text": "你说给过我纵容",
+      "translation": null
+    },
+    {
+      "time": 110.69,
+      "time_str": "01:50.690",
+      "text": "沉默是因为包容",
+      "translation": null
+    },
+    {
+      "time": 113.94,
+      "time_str": "01:53.940",
+      "text": "如果要走 请你记得我",
+      "translation": null
+    },
+    {
+      "time": 132.78,
+      "time_str": "02:12.780",
+      "text": "翻着我们的照片",
+      "translation": null
+    },
+    {
+      "time": 135.8,
+      "time_str": "02:15.800",
+      "text": "想念若隐若现",
+      "translation": null
+    },
+    {
+      "time": 139.61,
+      "time_str": "02:19.610",
+      "text": "去年的冬天",
+      "translation": null
+    },
+    {
+      "time": 143.21,
+      "time_str": "02:23.210",
+      "text": "我们笑得很甜",
+      "translation": null
+    },
+    {
+      "time": 147.36,
+      "time_str": "02:27.360",
+      "text": "看着你哭泣的脸",
+      "translation": null
+    },
+    {
+      "time": 150.51,
+      "time_str": "02:30.510",
+      "text": "对着我说再见",
+      "translation": null
+    },
+    {
+      "time": 154.26,
+      "time_str": "02:34.260",
+      "text": "来不及听见",
+      "translation": null
+    },
+    {
+      "time": 157.88,
+      "time_str": "02:37.880",
+      "text": "你已走得很远",
+      "translation": null
+    },
+    {
+      "time": 161.63,
+      "time_str": "02:41.630",
+      "text": "也许你已经放弃我",
+      "translation": null
+    },
+    {
+      "time": 165.19,
+      "time_str": "02:45.190",
+      "text": "也许已经很难回头",
+      "translation": null
+    },
+    {
+      "time": 168.9,
+      "time_str": "02:48.900",
+      "text": "我知道是自己错过",
+      "translation": null
+    },
+    {
+      "time": 172.55,
+      "time_str": "02:52.550",
+      "text": "请再给我一个理由",
+      "translation": null
+    },
+    {
+      "time": 176.11,
+      "time_str": "02:56.110",
+      "text": "说你不爱我",
+      "translation": null
+    },
+    {
+      "time": 180.35,
+      "time_str": "03:00.350",
+      "text": "就算是我不懂",
+      "translation": null
+    },
+    {
+      "time": 184.01,
+      "time_str": "03:04.010",
+      "text": "能不能原谅我",
+      "translation": null
+    },
+    {
+      "time": 187.71,
+      "time_str": "03:07.710",
+      "text": "请不要把分手",
+      "translation": null
+    },
+    {
+      "time": 190.87,
+      "time_str": "03:10.870",
+      "text": "当作你的请求",
+      "translation": null
+    },
+    {
+      "time": 194.94,
+      "time_str": "03:14.940",
+      "text": "我知道坚持要走",
+      "translation": null
+    },
+    {
+      "time": 198.66,
+      "time_str": "03:18.660",
+      "text": "是你受伤的借口",
+      "translation": null
+    },
+    {
+      "time": 201.82,
+      "time_str": "03:21.820",
+      "text": "请你回头",
+      "translation": null
+    },
+    {
+      "time": 203.69,
+      "time_str": "03:23.690",
+      "text": "我会陪你一直走到最后",
+      "translation": null
+    },
+    {
+      "time": 209.75,
+      "time_str": "03:29.750",
+      "text": "就算没有结果",
+      "translation": null
+    },
+    {
+      "time": 213.4,
+      "time_str": "03:33.400",
+      "text": "我也能够承受",
+      "translation": null
+    },
+    {
+      "time": 217.06,
+      "time_str": "03:37.060",
+      "text": "我知道你的痛",
+      "translation": null
+    },
+    {
+      "time": 220.14,
+      "time_str": "03:40.140",
+      "text": "是我给的承诺",
+      "translation": null
+    },
+    {
+      "time": 224.36,
+      "time_str": "03:44.360",
+      "text": "你说给过我纵容",
+      "translation": null
+    },
+    {
+      "time": 228.01,
+      "time_str": "03:48.010",
+      "text": "沉默是因为包容",
+      "translation": null
+    },
+    {
+      "time": 231.14,
+      "time_str": "03:51.140",
+      "text": "如果要走 请你记得我",
+      "translation": null
+    },
+    {
+      "time": 242.65,
+      "time_str": "04:02.650",
+      "text": "如果难过 请你忘了我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "借口 - 周杰伦.lrc"
+}

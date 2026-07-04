@@ -1,0 +1,208 @@
+{
+  "title": "忘记你太难",
+  "title_raw": "忘记你太难",
+  "version": null,
+  "artist": "阿里郎",
+  "group_key": "忘记你太难|阿里郎",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 20.54,
+      "time_str": "00:20.540",
+      "text": "当我转身倔强离开的时候",
+      "translation": null
+    },
+    {
+      "time": 24.75,
+      "time_str": "00:24.750",
+      "text": "没能预见以后多难受",
+      "translation": null
+    },
+    {
+      "time": 29.34,
+      "time_str": "00:29.340",
+      "text": "以为天空海阔可以找回自由",
+      "translation": null
+    },
+    {
+      "time": 34.0,
+      "time_str": "00:34.000",
+      "text": "现实总叫人留下伤口",
+      "translation": null
+    },
+    {
+      "time": 38.54,
+      "time_str": "00:38.540",
+      "text": "就在此刻不经意去想你的夜晚",
+      "translation": null
+    },
+    {
+      "time": 43.19,
+      "time_str": "00:43.190",
+      "text": "失去牵挂的人心好乱",
+      "translation": null
+    },
+    {
+      "time": 47.93,
+      "time_str": "00:47.930",
+      "text": "落入前尘往事眼泪反复纠缠",
+      "translation": null
+    },
+    {
+      "time": 52.64,
+      "time_str": "00:52.640",
+      "text": "我的回忆有你剪不断",
+      "translation": null
+    },
+    {
+      "time": 57.01,
+      "time_str": "00:57.010",
+      "text": "忘记你太难 想爱你太晚",
+      "translation": null
+    },
+    {
+      "time": 61.93,
+      "time_str": "01:01.930",
+      "text": "我的生命留下遗憾",
+      "translation": null
+    },
+    {
+      "time": 66.2,
+      "time_str": "01:06.200",
+      "text": "不想你太难 花开得太晚",
+      "translation": null
+    },
+    {
+      "time": 71.32,
+      "time_str": "01:11.320",
+      "text": "回首爱已曲终人散",
+      "translation": null
+    },
+    {
+      "time": 78.31,
+      "time_str": "01:18.310",
+      "text": "就在此刻不经意去想你的夜晚",
+      "translation": null
+    },
+    {
+      "time": 82.78,
+      "time_str": "01:22.780",
+      "text": "失去牵挂的人心好乱",
+      "translation": null
+    },
+    {
+      "time": 87.45,
+      "time_str": "01:27.450",
+      "text": "落入前尘往事眼泪反复纠缠",
+      "translation": null
+    },
+    {
+      "time": 92.16,
+      "time_str": "01:32.160",
+      "text": "我的回忆有你剪不断",
+      "translation": null
+    },
+    {
+      "time": 96.47,
+      "time_str": "01:36.470",
+      "text": "忘记你太难 想爱你太晚",
+      "translation": null
+    },
+    {
+      "time": 101.48,
+      "time_str": "01:41.480",
+      "text": "我的生命留下遗憾",
+      "translation": null
+    },
+    {
+      "time": 105.57,
+      "time_str": "01:45.570",
+      "text": "不想你太难 花开得太晚",
+      "translation": null
+    },
+    {
+      "time": 110.75,
+      "time_str": "01:50.750",
+      "text": "回首爱已曲终人散",
+      "translation": null
+    },
+    {
+      "time": 115.56,
+      "time_str": "01:55.560",
+      "text": "思念一步一步吞没像流沙",
+      "translation": null
+    },
+    {
+      "time": 120.13,
+      "time_str": "02:00.130",
+      "text": "曾经勇敢的心无法自拔",
+      "translation": null
+    },
+    {
+      "time": 124.78,
+      "time_str": "02:04.780",
+      "text": "流过的泪水 洗不掉的伤疤",
+      "translation": null
+    },
+    {
+      "time": 129.52,
+      "time_str": "02:09.520",
+      "text": "原来幸福只是神话",
+      "translation": null
+    },
+    {
+      "time": 133.8,
+      "time_str": "02:13.800",
+      "text": "忘记你太难 想爱你太晚",
+      "translation": null
+    },
+    {
+      "time": 138.84,
+      "time_str": "02:18.840",
+      "text": "我的生命留下遗憾",
+      "translation": null
+    },
+    {
+      "time": 142.94,
+      "time_str": "02:22.940",
+      "text": "不想你太难 花开得太晚",
+      "translation": null
+    },
+    {
+      "time": 148.15,
+      "time_str": "02:28.150",
+      "text": "回首爱已曲终人散",
+      "translation": null
+    },
+    {
+      "time": 154.82,
+      "time_str": "02:34.820",
+      "text": "忘记你太难 想爱你太晚",
+      "translation": null
+    },
+    {
+      "time": 159.69,
+      "time_str": "02:39.690",
+      "text": "我的生命留下遗憾",
+      "translation": null
+    },
+    {
+      "time": 164.97,
+      "time_str": "02:44.970",
+      "text": "不想你太难 花开得太晚",
+      "translation": null
+    },
+    {
+      "time": 169.96,
+      "time_str": "02:49.960",
+      "text": "回首爱已曲终人散",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "忘记你太难 - 阿里郎.lrc"
+}

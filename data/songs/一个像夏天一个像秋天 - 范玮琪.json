@@ -1,0 +1,382 @@
+{
+  "title": "一个像夏天一个像秋天",
+  "title_raw": "一个像夏天一个像秋天",
+  "version": null,
+  "artist": "范玮琪",
+  "group_key": "一个像夏天一个像秋天|范玮琪",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "陈小霞",
+    "arranger": "吕绍淳/蔡庭贵"
+  },
+  "lyrics": [
+    {
+      "time": 10.6,
+      "time_str": "00:10.600",
+      "text": "哦哦~~~~~",
+      "translation": null
+    },
+    {
+      "time": 13.5,
+      "time_str": "00:13.500",
+      "text": "哦哦~~~~~",
+      "translation": null
+    },
+    {
+      "time": 14.64,
+      "time_str": "00:14.640",
+      "text": "yeah~~yeah~~",
+      "translation": null
+    },
+    {
+      "time": 27.1,
+      "time_str": "00:27.100",
+      "text": "第一次见面看你不太顺眼",
+      "translation": null
+    },
+    {
+      "time": 31.499,
+      "time_str": "00:31.499",
+      "text": "谁知道后来关系那么密切",
+      "translation": null
+    },
+    {
+      "time": 34.869,
+      "time_str": "00:34.869",
+      "text": "我们一个像夏天一个像秋天",
+      "translation": null
+    },
+    {
+      "time": 39.349,
+      "time_str": "00:39.349",
+      "text": "却总能把冬天变成了春天",
+      "translation": null
+    },
+    {
+      "time": 45.089,
+      "time_str": "00:45.089",
+      "text": "你拖我离开一场爱的风雪",
+      "translation": null
+    },
+    {
+      "time": 49.539,
+      "time_str": "00:49.539",
+      "text": "我背你逃出一次梦的断裂",
+      "translation": null
+    },
+    {
+      "time": 52.829,
+      "time_str": "00:52.829",
+      "text": "遇见一个人然后生命全改变",
+      "translation": null
+    },
+    {
+      "time": 57.329,
+      "time_str": "00:57.329",
+      "text": "原来不是恋爱才有的情节",
+      "translation": null
+    },
+    {
+      "time": 66.49,
+      "time_str": "01:06.490",
+      "text": "如果不是你",
+      "translation": null
+    },
+    {
+      "time": 69.139,
+      "time_str": "01:09.139",
+      "text": "我不会相信",
+      "translation": null
+    },
+    {
+      "time": 69.899,
+      "time_str": "01:09.899",
+      "text": "朋友比情人还死心塌地",
+      "translation": null
+    },
+    {
+      "time": 71.389,
+      "time_str": "01:11.389",
+      "text": "就算我忙恋爱",
+      "translation": null
+    },
+    {
+      "time": 74.19,
+      "time_str": "01:14.190",
+      "text": "把你冷冻结冰",
+      "translation": null
+    },
+    {
+      "time": 75.249,
+      "time_str": "01:15.249",
+      "text": "你也不会恨我",
+      "translation": null
+    },
+    {
+      "time": 78.639,
+      "time_str": "01:18.639",
+      "text": "只是骂我几句",
+      "translation": null
+    },
+    {
+      "time": 80.669,
+      "time_str": "01:20.669",
+      "text": "如果不是你",
+      "translation": null
+    },
+    {
+      "time": 83.89,
+      "time_str": "01:23.890",
+      "text": "我不会确定",
+      "translation": null
+    },
+    {
+      "time": 85.699,
+      "time_str": "01:25.699",
+      "text": "朋友比情人更懂得倾听",
+      "translation": null
+    },
+    {
+      "time": 88.589,
+      "time_str": "01:28.589",
+      "text": "我的弦外之音",
+      "translation": null
+    },
+    {
+      "time": 91.878,
+      "time_str": "01:31.878",
+      "text": "我的有口无心",
+      "translation": null
+    },
+    {
+      "time": 93.269,
+      "time_str": "01:33.269",
+      "text": "我离不开darling更离不开你",
+      "translation": null
+    },
+    {
+      "time": 116.908,
+      "time_str": "01:56.908",
+      "text": "你拖我离开一场爱的风雪",
+      "translation": null
+    },
+    {
+      "time": 121.069,
+      "time_str": "02:01.069",
+      "text": "我背你逃出一次梦的断裂",
+      "translation": null
+    },
+    {
+      "time": 124.519,
+      "time_str": "02:04.519",
+      "text": "遇见一个人然后生命全改变",
+      "translation": null
+    },
+    {
+      "time": 128.159,
+      "time_str": "02:08.159",
+      "text": "原来不是恋爱才有的情节如果不是你",
+      "translation": null
+    },
+    {
+      "time": 137.6,
+      "time_str": "02:17.600",
+      "text": "我不会相信",
+      "translation": null
+    },
+    {
+      "time": 139.1,
+      "time_str": "02:19.100",
+      "text": "朋友比情人还死心塌地",
+      "translation": null
+    },
+    {
+      "time": 142.04,
+      "time_str": "02:22.040",
+      "text": "如果不是你",
+      "translation": null
+    },
+    {
+      "time": 143.0,
+      "time_str": "02:23.000",
+      "text": "就算我忙恋爱",
+      "translation": null
+    },
+    {
+      "time": 145.64,
+      "time_str": "02:25.640",
+      "text": "把你冷冻结冰",
+      "translation": null
+    },
+    {
+      "time": 146.92,
+      "time_str": "02:26.920",
+      "text": "你也不会恨我",
+      "translation": null
+    },
+    {
+      "time": 150.04,
+      "time_str": "02:30.040",
+      "text": "只是骂我几句",
+      "translation": null
+    },
+    {
+      "time": 152.6,
+      "time_str": "02:32.600",
+      "text": "如果不是你",
+      "translation": null
+    },
+    {
+      "time": 155.7,
+      "time_str": "02:35.700",
+      "text": "我不会确定",
+      "translation": null
+    },
+    {
+      "time": 157.03,
+      "time_str": "02:37.030",
+      "text": "朋友比情人更懂得倾听",
+      "translation": null
+    },
+    {
+      "time": 161.0,
+      "time_str": "02:41.000",
+      "text": "我的弦外之音",
+      "translation": null
+    },
+    {
+      "time": 163.63,
+      "time_str": "02:43.630",
+      "text": "我的有口无心",
+      "translation": null
+    },
+    {
+      "time": 164.91,
+      "time_str": "02:44.910",
+      "text": "我离不开darling更离不开你",
+      "translation": null
+    },
+    {
+      "time": 171.12,
+      "time_str": "02:51.120",
+      "text": "你了解我所有得意的东西",
+      "translation": null
+    },
+    {
+      "time": 174.34,
+      "time_str": "02:54.340",
+      "text": "才常泼我冷水怕我忘形",
+      "translation": null
+    },
+    {
+      "time": 179.99,
+      "time_str": "02:59.990",
+      "text": "你知道我所有的丢脸的事情",
+      "translation": null
+    },
+    {
+      "time": 183.11,
+      "time_str": "03:03.110",
+      "text": "却为我的美好形象保密",
+      "translation": null
+    },
+    {
+      "time": 189.1,
+      "time_str": "03:09.100",
+      "text": "如果不是你",
+      "translation": null
+    },
+    {
+      "time": 191.29,
+      "time_str": "03:11.290",
+      "text": "我不会相信",
+      "translation": null
+    },
+    {
+      "time": 193.13,
+      "time_str": "03:13.130",
+      "text": "朋友比情人还死心塌地",
+      "translation": null
+    },
+    {
+      "time": 196.17,
+      "time_str": "03:16.170",
+      "text": "就算我忙恋爱",
+      "translation": null
+    },
+    {
+      "time": 199.5,
+      "time_str": "03:19.500",
+      "text": "把你冷冻结冰",
+      "translation": null
+    },
+    {
+      "time": 201.08,
+      "time_str": "03:21.080",
+      "text": "你也不会恨我",
+      "translation": null
+    },
+    {
+      "time": 204.11,
+      "time_str": "03:24.110",
+      "text": "只是骂我几句",
+      "translation": null
+    },
+    {
+      "time": 207.19,
+      "time_str": "03:27.190",
+      "text": "如果不是你",
+      "translation": null
+    },
+    {
+      "time": 209.33,
+      "time_str": "03:29.330",
+      "text": "我不会确定",
+      "translation": null
+    },
+    {
+      "time": 211.5,
+      "time_str": "03:31.500",
+      "text": "朋友比情人更懂得倾听",
+      "translation": null
+    },
+    {
+      "time": 214.8,
+      "time_str": "03:34.800",
+      "text": "我的弦外之音",
+      "translation": null
+    },
+    {
+      "time": 217.37,
+      "time_str": "03:37.370",
+      "text": "我的有口无心",
+      "translation": null
+    },
+    {
+      "time": 219.22,
+      "time_str": "03:39.220",
+      "text": "我离不开darling更离不开你",
+      "translation": null
+    },
+    {
+      "time": 226.11,
+      "time_str": "03:46.110",
+      "text": "哦哦~~~~~",
+      "translation": null
+    },
+    {
+      "time": 227.8,
+      "time_str": "03:47.800",
+      "text": "哦哦~~~~~",
+      "translation": null
+    },
+    {
+      "time": 230.0,
+      "time_str": "03:50.000",
+      "text": "yeah~~yeah~~",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一个像夏天一个像秋天 - 范玮琪.lrc"
+}

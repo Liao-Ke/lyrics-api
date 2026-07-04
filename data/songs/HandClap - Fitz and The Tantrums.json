@@ -1,0 +1,340 @@
+{
+  "title": "HandClap",
+  "title_raw": "HandClap",
+  "version": null,
+  "artist": "Fitz and The Tantrums",
+  "group_key": "handclap|fitz and the tantrums",
+  "writers": {
+    "lyricist": "Eric Frederic/John Wicks/James King/Noelle Scaggs/Joseph Karnes/Jeremy Ruzumna/Sam Hollander/Michael Fitzpatrick",
+    "composer": "Eric Frederic/John Wicks/James King/Noelle Scaggs/Joseph Karnes/Jeremy Ruzumna/Sam Hollander/Michael Fitzpatrick",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.932,
+      "time_str": "00:01.932",
+      "text": "(Turn it up)",
+      "translation": "把音量调大！"
+    },
+    {
+      "time": 12.486,
+      "time_str": "00:12.486",
+      "text": "Somebody save your soul cause you've been sinning in this city I know",
+      "translation": "我知道你曾在这座城市无恶不作 直到有人将你灵魂救赎"
+    },
+    {
+      "time": 17.036,
+      "time_str": "00:17.036",
+      "text": "Too many troubles, all these lovers got you losing control",
+      "translation": "这些暧昧情人麻烦不断 让你失去了理智"
+    },
+    {
+      "time": 20.079,
+      "time_str": "00:20.079",
+      "text": "You're like a drug to me, a luxury, my sugar and gold",
+      "translation": "你就像一剂猛药 吸睛的奢侈品 我的蜜糖与宝藏"
+    },
+    {
+      "time": 23.443,
+      "time_str": "00:23.443",
+      "text": "I want the good life",
+      "translation": "我向往着美好生活"
+    },
+    {
+      "time": 25.137,
+      "time_str": "00:25.137",
+      "text": "Every good night you're a hard one to hold",
+      "translation": "夜色之中的你如此火辣让我迷恋"
+    },
+    {
+      "time": 27.684,
+      "time_str": "00:27.684",
+      "text": "Cause you don't even know",
+      "translation": "因为你不曾知晓"
+    },
+    {
+      "time": 29.926,
+      "time_str": "00:29.926",
+      "text": "I can make your hands clap",
+      "translation": "我可以让你情不自禁雀跃鼓掌"
+    },
+    {
+      "time": 33.64,
+      "time_str": "00:33.640",
+      "text": "Said I can make your hands clap",
+      "translation": "我说 我会让你为之卖力鼓掌"
+    },
+    {
+      "time": 37.002,
+      "time_str": "00:37.002",
+      "text": "Somebody save your soul cause you've been sinning in this city I know",
+      "translation": "我知道你曾在这座城市无恶不作 直到有人将你灵魂救赎"
+    },
+    {
+      "time": 40.756,
+      "time_str": "00:40.756",
+      "text": "Too many troubles, all these lovers got you losing control",
+      "translation": "这些暧昧情人麻烦不断 让你失去了理智"
+    },
+    {
+      "time": 44.485,
+      "time_str": "00:44.485",
+      "text": "You're like a drug to me, a luxury, my sugar and gold",
+      "translation": "你就像一剂毒品 吸睛的奢侈品 我的蜜糖与宝藏"
+    },
+    {
+      "time": 47.659,
+      "time_str": "00:47.659",
+      "text": "I want your sex and your affection when they’re holdin’ you close",
+      "translation": "当旁人向你咄咄逼近 我只想你为我尽态极妍 目不他望"
+    },
+    {
+      "time": 52.912,
+      "time_str": "00:52.912",
+      "text": "Cause you don't even know",
+      "translation": "因为你不曾知晓"
+    },
+    {
+      "time": 54.38,
+      "time_str": "00:54.380",
+      "text": "I can make your hands clap",
+      "translation": "我可以让你情不自禁雀跃鼓掌"
+    },
+    {
+      "time": 57.526,
+      "time_str": "00:57.526",
+      "text": "Said I can make your hands clap",
+      "translation": "我说 我会让你为之卖力鼓掌"
+    },
+    {
+      "time": 60.831,
+      "time_str": "01:00.831",
+      "text": "Every night when the stars come out",
+      "translation": "夜幕降临群星隐现"
+    },
+    {
+      "time": 64.087,
+      "time_str": "01:04.087",
+      "text": "Am I the only living soul around?",
+      "translation": "我可否是你身旁唯一生气盎然的灵魂？"
+    },
+    {
+      "time": 67.323,
+      "time_str": "01:07.323",
+      "text": "Need to believe you could hold me down",
+      "translation": "我必须坚信你会将我拥入怀中"
+    },
+    {
+      "time": 70.735,
+      "time_str": "01:10.735",
+      "text": "Cause I'm in need of somethin' good right now",
+      "translation": "因为此刻我正渴望着美好事情的发生"
+    },
+    {
+      "time": 74.757,
+      "time_str": "01:14.757",
+      "text": "We could be screamin' till the sun comes out",
+      "translation": "我们可以尽情狂欢直至旭日东升"
+    },
+    {
+      "time": 77.754,
+      "time_str": "01:17.754",
+      "text": "And when we wake we'd be the only sound",
+      "translation": "苏醒之时 我们便是这世间唯一的声响"
+    },
+    {
+      "time": 81.442,
+      "time_str": "01:21.442",
+      "text": "I get on my knees and say a prayer: James Brown",
+      "translation": "我跪地祈求 向着James Brown祷告（灵魂乐教父）"
+    },
+    {
+      "time": 86.031,
+      "time_str": "01:26.031",
+      "text": "That I can make your hands clap",
+      "translation": "我能让你情不自禁雀跃鼓掌"
+    },
+    {
+      "time": 94.757,
+      "time_str": "01:34.757",
+      "text": "That I can make your hands clap",
+      "translation": "我能让你为之卖力鼓掌"
+    },
+    {
+      "time": 99.223,
+      "time_str": "01:39.223",
+      "text": "(Turn it up)",
+      "translation": "把音量调大"
+    },
+    {
+      "time": 101.276,
+      "time_str": "01:41.276",
+      "text": "That I can make your hands clap",
+      "translation": "我能让你情不自禁雀跃鼓掌"
+    },
+    {
+      "time": 103.358,
+      "time_str": "01:43.358",
+      "text": "My flesh is searchin' for your worst and best, don't ever deny",
+      "translation": "请别矢口否认 我的存在只为搜寻你的恶与善"
+    },
+    {
+      "time": 106.79,
+      "time_str": "01:46.790",
+      "text": "I'm like a stranger, gimme me danger",
+      "translation": "我如同陌路行人 你让我心惊胆战"
+    },
+    {
+      "time": 109.098,
+      "time_str": "01:49.098",
+      "text": "All your wrongs and your rights",
+      "translation": "你的那些是非对错"
+    },
+    {
+      "time": 110.568,
+      "time_str": "01:50.568",
+      "text": "Secrets on Broadway to the freeway, you're a keeper of crimes",
+      "translation": "你是罪孽的保有者 隐匿着那些不可告人的秘密"
+    },
+    {
+      "time": 113.474,
+      "time_str": "01:53.474",
+      "text": "Fear no conviction, grapes of wrath can only sweeten your wine",
+      "translation": "我可不相信愤怒之果可酿制甘甜之酒"
+    },
+    {
+      "time": 118.711,
+      "time_str": "01:58.711",
+      "text": "But you don't even know",
+      "translation": "可是你不曾知晓"
+    },
+    {
+      "time": 120.336,
+      "time_str": "02:00.336",
+      "text": "I can make your hands clap",
+      "translation": "我可以让你情不自禁雀跃鼓掌"
+    },
+    {
+      "time": 123.333,
+      "time_str": "02:03.333",
+      "text": "Said I can make your hands clap",
+      "translation": "我说 我会让你为之卖力鼓掌"
+    },
+    {
+      "time": 126.606,
+      "time_str": "02:06.606",
+      "text": "Every night when the stars come out",
+      "translation": "夜幕降临群星隐现"
+    },
+    {
+      "time": 129.677,
+      "time_str": "02:09.677",
+      "text": "Am I the only living soul around?",
+      "translation": "我可否是你身旁唯一生气盎然的灵魂？"
+    },
+    {
+      "time": 133.147,
+      "time_str": "02:13.147",
+      "text": "Need to believe you could hold me down",
+      "translation": "我必须坚信你会将我拥入怀中"
+    },
+    {
+      "time": 136.868,
+      "time_str": "02:16.868",
+      "text": "Cause I'm in need of somethin' good right now",
+      "translation": "因为此刻我正渴望着美好事情的发生"
+    },
+    {
+      "time": 140.259,
+      "time_str": "02:20.259",
+      "text": "We could be screamin' till the sun comes out",
+      "translation": "我们可以尽情狂欢直至旭日东升"
+    },
+    {
+      "time": 143.693,
+      "time_str": "02:23.693",
+      "text": "And when we wake we'd be the only sound",
+      "translation": "苏醒之时 我们便是这世间唯一的声响"
+    },
+    {
+      "time": 147.437,
+      "time_str": "02:27.437",
+      "text": "I get on my knees and say a prayer: James Brown",
+      "translation": "我跪地祈求 向着James Brown祷告（灵魂乐教父）"
+    },
+    {
+      "time": 151.646,
+      "time_str": "02:31.646",
+      "text": "That I can make your hands clap",
+      "translation": "我可以让你情不自禁雀跃鼓掌"
+    },
+    {
+      "time": 160.575,
+      "time_str": "02:40.575",
+      "text": "That I can make your hands clap",
+      "translation": "我会让你为之卖力鼓掌"
+    },
+    {
+      "time": 167.251,
+      "time_str": "02:47.251",
+      "text": "That I can make your hands clap",
+      "translation": "我可以让你情不自禁雀跃鼓掌"
+    },
+    {
+      "time": 174.296,
+      "time_str": "02:54.296",
+      "text": "That I can make your hands clap",
+      "translation": "我会让你为之卖力鼓掌"
+    },
+    {
+      "time": 180.873,
+      "time_str": "03:00.873",
+      "text": "So can I get a hand clap?",
+      "translation": "所以我可否让你掌声不息？"
+    },
+    {
+      "time": 188.753,
+      "time_str": "03:08.753",
+      "text": "贝斯 : Joseph Karnes/Ricky Reed",
+      "translation": null
+    },
+    {
+      "time": 189.753,
+      "time_str": "03:09.753",
+      "text": "音频工程师 : Ethan Shumaker",
+      "translation": null
+    },
+    {
+      "time": 190.253,
+      "time_str": "03:10.253",
+      "text": "萨克斯 : James King",
+      "translation": null
+    },
+    {
+      "time": 190.753,
+      "time_str": "03:10.753",
+      "text": "混音助理 : Chris Galland/Ike Schultz",
+      "translation": null
+    },
+    {
+      "time": 191.253,
+      "time_str": "03:11.253",
+      "text": "鼓编程 : Grant Michaels",
+      "translation": null
+    },
+    {
+      "time": 192.253,
+      "time_str": "03:12.253",
+      "text": "主人声 : Fitz",
+      "translation": null
+    },
+    {
+      "time": 192.753,
+      "time_str": "03:12.753",
+      "text": "母带工程师 : Michelle Mancini",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "HandClap - Fitz and The Tantrums.lrc"
+}

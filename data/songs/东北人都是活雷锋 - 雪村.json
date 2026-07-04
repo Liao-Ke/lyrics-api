@@ -1,0 +1,124 @@
+{
+  "title": "东北人都是活雷锋",
+  "title_raw": "东北人都是活雷锋",
+  "version": null,
+  "artist": "雪村",
+  "group_key": "东北人都是活雷锋|雪村",
+  "writers": {
+    "lyricist": "雪村 演唱：雪村",
+    "composer": "雪村 演唱：雪村",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.3,
+      "time_str": "00:09.300",
+      "text": "老张开车去东北",
+      "translation": null
+    },
+    {
+      "time": 11.79,
+      "time_str": "00:11.790",
+      "text": "撞了",
+      "translation": null
+    },
+    {
+      "time": 15.63,
+      "time_str": "00:15.630",
+      "text": "肇事司机耍流氓",
+      "translation": null
+    },
+    {
+      "time": 18.6,
+      "time_str": "00:18.600",
+      "text": "跑了",
+      "translation": null
+    },
+    {
+      "time": 22.42,
+      "time_str": "00:22.420",
+      "text": "多亏一个东北人",
+      "translation": null
+    },
+    {
+      "time": 25.73,
+      "time_str": "00:25.730",
+      "text": "送到医院缝五针",
+      "translation": null
+    },
+    {
+      "time": 28.69,
+      "time_str": "00:28.690",
+      "text": "好了",
+      "translation": null
+    },
+    {
+      "time": 33.99,
+      "time_str": "00:33.990",
+      "text": "老张请他吃顿饭",
+      "translation": null
+    },
+    {
+      "time": 36.549,
+      "time_str": "00:36.549",
+      "text": "喝得少了他不干",
+      "translation": null
+    },
+    {
+      "time": 39.139,
+      "time_str": "00:39.139",
+      "text": "他说........俺们那嘎都是东北人...",
+      "translation": null
+    },
+    {
+      "time": 41.889,
+      "time_str": "00:41.889",
+      "text": "俺们那嘎特产高丽参...",
+      "translation": null
+    },
+    {
+      "time": 48.999,
+      "time_str": "00:48.999",
+      "text": "俺们那嘎猪肉炖粉条...",
+      "translation": null
+    },
+    {
+      "time": 52.259,
+      "time_str": "00:52.259",
+      "text": "俺们那嘎都是活雷锋...",
+      "translation": null
+    },
+    {
+      "time": 55.619,
+      "time_str": "00:55.619",
+      "text": "俺们那嘎没有这种人...",
+      "translation": null
+    },
+    {
+      "time": 59.9,
+      "time_str": "00:59.900",
+      "text": "撞了车哪能不救人...",
+      "translation": null
+    },
+    {
+      "time": 62.389,
+      "time_str": "01:02.389",
+      "text": "俺们哪嘎山上有榛蘑...",
+      "translation": null
+    },
+    {
+      "time": 65.769,
+      "time_str": "01:05.769",
+      "text": "那个人他不是东北人 ...",
+      "translation": null
+    },
+    {
+      "time": 70.89,
+      "time_str": "01:10.890",
+      "text": "翠花 上酸菜",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "东北人都是活雷锋 - 雪村.lrc"
+}

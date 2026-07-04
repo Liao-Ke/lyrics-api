@@ -1,0 +1,340 @@
+{
+  "title": "寂寞在唱歌",
+  "title_raw": "寂寞在唱歌",
+  "version": null,
+  "artist": "阿桑",
+  "group_key": "寂寞在唱歌|阿桑",
+  "writers": {
+    "lyricist": "施人诚",
+    "composer": "Dylan W.Cross/Michael Crétu",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 0.73,
+      "time_str": "00:00.730",
+      "text": "Le ciel obscure",
+      "translation": null
+    },
+    {
+      "time": 2.33,
+      "time_str": "00:02.330",
+      "text": "La solitude qui nous rend la peine",
+      "translation": null
+    },
+    {
+      "time": 5.78,
+      "time_str": "00:05.780",
+      "text": "La ceour brise",
+      "translation": null
+    },
+    {
+      "time": 7.62,
+      "time_str": "00:07.620",
+      "text": "A cause qu'il y a vécu seul",
+      "translation": null
+    },
+    {
+      "time": 9.87,
+      "time_str": "00:09.870",
+      "text": "L'amour est parti",
+      "translation": null
+    },
+    {
+      "time": 11.58,
+      "time_str": "00:11.580",
+      "text": "Il y a longtemp que je t'ai vu",
+      "translation": null
+    },
+    {
+      "time": 13.87,
+      "time_str": "00:13.870",
+      "text": "C'est trop long",
+      "translation": null
+    },
+    {
+      "time": 15.68,
+      "time_str": "00:15.680",
+      "text": "C'est incroyable que je peux vivre",
+      "translation": null
+    },
+    {
+      "time": 18.58,
+      "time_str": "00:18.580",
+      "text": "Comme ça",
+      "translation": null
+    },
+    {
+      "time": 24.48,
+      "time_str": "00:24.480",
+      "text": "天黑了",
+      "translation": null
+    },
+    {
+      "time": 27.21,
+      "time_str": "00:27.210",
+      "text": "孤独又慢慢割着",
+      "translation": null
+    },
+    {
+      "time": 31.16,
+      "time_str": "00:31.160",
+      "text": "有人的心 又开始疼了",
+      "translation": null
+    },
+    {
+      "time": 37.63,
+      "time_str": "00:37.630",
+      "text": "爱很远了 很久没再见了",
+      "translation": null
+    },
+    {
+      "time": 44.6,
+      "time_str": "00:44.600",
+      "text": "就这样竟然也能活着",
+      "translation": null
+    },
+    {
+      "time": 50.63,
+      "time_str": "00:50.630",
+      "text": "你听寂寞在唱歌",
+      "translation": null
+    },
+    {
+      "time": 54.18,
+      "time_str": "00:54.180",
+      "text": "轻轻的 狠狠的",
+      "translation": null
+    },
+    {
+      "time": 57.49,
+      "time_str": "00:57.490",
+      "text": "歌声是这么残忍",
+      "translation": null
+    },
+    {
+      "time": 60.91,
+      "time_str": "01:00.910",
+      "text": "让人忍不住泪流成河",
+      "translation": null
+    },
+    {
+      "time": 75.04,
+      "time_str": "01:15.040",
+      "text": "谁说的",
+      "translation": null
+    },
+    {
+      "time": 77.77,
+      "time_str": "01:17.770",
+      "text": "人非要快乐不可",
+      "translation": null
+    },
+    {
+      "time": 81.7,
+      "time_str": "01:21.700",
+      "text": "好像快乐 由得人选择",
+      "translation": null
+    },
+    {
+      "time": 88.52,
+      "time_str": "01:28.520",
+      "text": "找不到的 那个人来不来呢",
+      "translation": null
+    },
+    {
+      "time": 95.24,
+      "time_str": "01:35.240",
+      "text": "我会是谁的 谁是我的",
+      "translation": null
+    },
+    {
+      "time": 101.4,
+      "time_str": "01:41.400",
+      "text": "你听寂寞在唱歌",
+      "translation": null
+    },
+    {
+      "time": 104.83,
+      "time_str": "01:44.830",
+      "text": "轻轻的 狠狠的",
+      "translation": null
+    },
+    {
+      "time": 108.16,
+      "time_str": "01:48.160",
+      "text": "歌声是这么残忍",
+      "translation": null
+    },
+    {
+      "time": 111.52,
+      "time_str": "01:51.520",
+      "text": "让人忍不住泪流成河",
+      "translation": null
+    },
+    {
+      "time": 114.96,
+      "time_str": "01:54.960",
+      "text": "你听寂寞在唱歌",
+      "translation": null
+    },
+    {
+      "time": 118.29,
+      "time_str": "01:58.290",
+      "text": "温柔的 疯狂的",
+      "translation": null
+    },
+    {
+      "time": 121.68,
+      "time_str": "02:01.680",
+      "text": "悲伤越来越深刻",
+      "translation": null
+    },
+    {
+      "time": 125.08,
+      "time_str": "02:05.080",
+      "text": "怎样才能够让它停呢",
+      "translation": null
+    },
+    {
+      "time": 153.84,
+      "time_str": "02:33.840",
+      "text": "你听寂寞在唱歌",
+      "translation": null
+    },
+    {
+      "time": 157.21,
+      "time_str": "02:37.210",
+      "text": "轻轻的 狠狠的",
+      "translation": null
+    },
+    {
+      "time": 160.57,
+      "time_str": "02:40.570",
+      "text": "歌声是这么残忍",
+      "translation": null
+    },
+    {
+      "time": 163.94,
+      "time_str": "02:43.940",
+      "text": "让人忍不住泪流成河",
+      "translation": null
+    },
+    {
+      "time": 167.35,
+      "time_str": "02:47.350",
+      "text": "你听寂寞在唱歌",
+      "translation": null
+    },
+    {
+      "time": 170.72,
+      "time_str": "02:50.720",
+      "text": "温柔的 疯狂的",
+      "translation": null
+    },
+    {
+      "time": 174.13,
+      "time_str": "02:54.130",
+      "text": "悲伤越来越深刻",
+      "translation": null
+    },
+    {
+      "time": 177.53,
+      "time_str": "02:57.530",
+      "text": "怎样才能够让它停呢",
+      "translation": null
+    },
+    {
+      "time": 180.9,
+      "time_str": "03:00.900",
+      "text": "你听寂寞在唱歌",
+      "translation": null
+    },
+    {
+      "time": 184.27,
+      "time_str": "03:04.270",
+      "text": "轻轻的 狠狠的",
+      "translation": null
+    },
+    {
+      "time": 187.64,
+      "time_str": "03:07.640",
+      "text": "歌声是这么残忍",
+      "translation": null
+    },
+    {
+      "time": 191.01,
+      "time_str": "03:11.010",
+      "text": "让人忍不住泪流成河",
+      "translation": null
+    },
+    {
+      "time": 194.47,
+      "time_str": "03:14.470",
+      "text": "你听寂寞在唱歌",
+      "translation": null
+    },
+    {
+      "time": 197.77,
+      "time_str": "03:17.770",
+      "text": "温柔的 疯狂的",
+      "translation": null
+    },
+    {
+      "time": 201.15,
+      "time_str": "03:21.150",
+      "text": "悲伤越来越深刻",
+      "translation": null
+    },
+    {
+      "time": 204.53,
+      "time_str": "03:24.530",
+      "text": "谁能帮个忙让它停呢",
+      "translation": null
+    },
+    {
+      "time": 220.48,
+      "time_str": "03:40.480",
+      "text": "天黑得 像不会再天亮了",
+      "translation": null
+    },
+    {
+      "time": 227.07,
+      "time_str": "03:47.070",
+      "text": "明不明天 也无所谓了",
+      "translation": null
+    },
+    {
+      "time": 233.95,
+      "time_str": "03:53.950",
+      "text": "就静静地 看青春难依难舍",
+      "translation": null
+    },
+    {
+      "time": 240.56,
+      "time_str": "04:00.560",
+      "text": "泪还是热的 泪痕冷了",
+      "translation": null
+    },
+    {
+      "time": 266.0,
+      "time_str": "04:26.000",
+      "text": "OT : Florence Scaligine",
+      "translation": null
+    },
+    {
+      "time": 266.2,
+      "time_str": "04:26.200",
+      "text": "制作助理 : 杨子朴",
+      "translation": null
+    },
+    {
+      "time": 266.9,
+      "time_str": "04:26.900",
+      "text": "混音室 : 强力录音室",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "寂寞在唱歌 - 阿桑.lrc"
+}

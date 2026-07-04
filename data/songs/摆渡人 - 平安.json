@@ -1,0 +1,196 @@
+{
+  "title": "摆渡人",
+  "title_raw": "摆渡人",
+  "version": null,
+  "artist": "平安",
+  "group_key": "摆渡人|平安",
+  "writers": {
+    "lyricist": "陈曦",
+    "composer": "董冬冬",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 12.59,
+      "time_str": "00:12.590",
+      "text": "我把所有的梦想都画在墙上",
+      "translation": null
+    },
+    {
+      "time": 19.04,
+      "time_str": "00:19.040",
+      "text": "等待被现实温暖被照亮",
+      "translation": null
+    },
+    {
+      "time": 25.31,
+      "time_str": "00:25.310",
+      "text": "我把全部的倔强都藏进心脏",
+      "translation": null
+    },
+    {
+      "time": 31.39,
+      "time_str": "00:31.390",
+      "text": "希望在人群中去融入去释放",
+      "translation": null
+    },
+    {
+      "time": 37.88,
+      "time_str": "00:37.880",
+      "text": "我把所有的希望放在他身上",
+      "translation": null
+    },
+    {
+      "time": 44.1,
+      "time_str": "00:44.100",
+      "text": "祈祷在寒冷黑夜能给我力量",
+      "translation": null
+    },
+    {
+      "time": 49.67,
+      "time_str": "00:49.670",
+      "text": "我把命运的摇晃都当做奖赏",
+      "translation": null
+    },
+    {
+      "time": 57.27,
+      "time_str": "00:57.270",
+      "text": "依然在路上",
+      "translation": null
+    },
+    {
+      "time": 62.81,
+      "time_str": "01:02.810",
+      "text": "你说我是你的摆渡人",
+      "translation": null
+    },
+    {
+      "time": 69.11,
+      "time_str": "01:09.110",
+      "text": "让你找回曾经的温存",
+      "translation": null
+    },
+    {
+      "time": 75.36,
+      "time_str": "01:15.360",
+      "text": "从被忽略被遗忘被捉弄的世界",
+      "translation": null
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "找回一切",
+      "translation": null
+    },
+    {
+      "time": 87.97,
+      "time_str": "01:27.970",
+      "text": "你说我是你的摆渡人",
+      "translation": null
+    },
+    {
+      "time": 94.5,
+      "time_str": "01:34.500",
+      "text": "让你学会面对爱和恨",
+      "translation": null
+    },
+    {
+      "time": 100.59,
+      "time_str": "01:40.590",
+      "text": "在下一个路口",
+      "translation": null
+    },
+    {
+      "time": 104.58,
+      "time_str": "01:44.580",
+      "text": "下个渡口",
+      "translation": null
+    },
+    {
+      "time": 107.86,
+      "time_str": "01:47.860",
+      "text": "你说让我陪你走",
+      "translation": null
+    },
+    {
+      "time": 139.07,
+      "time_str": "02:19.070",
+      "text": "我把所有的希望放在他身上",
+      "translation": null
+    },
+    {
+      "time": 145.22,
+      "time_str": "02:25.220",
+      "text": "祈祷在寒冷黑夜能给我力量",
+      "translation": null
+    },
+    {
+      "time": 150.82,
+      "time_str": "02:30.820",
+      "text": "我把命运的摇晃都当做奖赏",
+      "translation": null
+    },
+    {
+      "time": 158.39,
+      "time_str": "02:38.390",
+      "text": "依然在路上",
+      "translation": null
+    },
+    {
+      "time": 163.94,
+      "time_str": "02:43.940",
+      "text": "你说我是你的摆渡人",
+      "translation": null
+    },
+    {
+      "time": 170.32,
+      "time_str": "02:50.320",
+      "text": "让你找回曾经的温存",
+      "translation": null
+    },
+    {
+      "time": 176.36,
+      "time_str": "02:56.360",
+      "text": "从被忽略被遗忘被捉弄的世界",
+      "translation": null
+    },
+    {
+      "time": 183.09,
+      "time_str": "03:03.090",
+      "text": "找回一切",
+      "translation": null
+    },
+    {
+      "time": 189.11,
+      "time_str": "03:09.110",
+      "text": "你说我是你的摆渡人",
+      "translation": null
+    },
+    {
+      "time": 195.31,
+      "time_str": "03:15.310",
+      "text": "让你学会面对爱和恨",
+      "translation": null
+    },
+    {
+      "time": 201.76,
+      "time_str": "03:21.760",
+      "text": "在下一个路口",
+      "translation": null
+    },
+    {
+      "time": 205.6,
+      "time_str": "03:25.600",
+      "text": "下个渡口",
+      "translation": null
+    },
+    {
+      "time": 208.94,
+      "time_str": "03:28.940",
+      "text": "你说让我陪你走",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "摆渡人 - 平安.lrc"
+}

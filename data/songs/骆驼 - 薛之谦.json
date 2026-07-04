@@ -1,0 +1,214 @@
+{
+  "title": "骆驼",
+  "title_raw": "骆驼",
+  "version": null,
+  "artist": "薛之谦",
+  "group_key": "骆驼|薛之谦",
+  "writers": {
+    "lyricist": "甘世佳",
+    "composer": "郭顶",
+    "arranger": "陈迪"
+  },
+  "lyrics": [
+    {
+      "time": 14.71,
+      "time_str": "00:14.710",
+      "text": "是什么在召唤着我提醒我",
+      "translation": null
+    },
+    {
+      "time": 23.13,
+      "time_str": "00:23.130",
+      "text": "我懦弱过犹豫过",
+      "translation": null
+    },
+    {
+      "time": 28.01,
+      "time_str": "00:28.010",
+      "text": "若我能挣脱那绳索",
+      "translation": null
+    },
+    {
+      "time": 32.61,
+      "time_str": "00:32.610",
+      "text": "旁若无人见我来议论我",
+      "translation": null
+    },
+    {
+      "time": 41.03,
+      "time_str": "00:41.030",
+      "text": "我是骆驼没见过最美的沙漠",
+      "translation": null
+    },
+    {
+      "time": 54.08,
+      "time_str": "00:54.080",
+      "text": "井里的青蛙劝我别相信候鸟胡说",
+      "translation": null
+    },
+    {
+      "time": 65.87,
+      "time_str": "01:05.870",
+      "text": "我心里有片沙漠",
+      "translation": null
+    },
+    {
+      "time": 68.85,
+      "time_str": "01:08.850",
+      "text": "那里有很多骆驼",
+      "translation": null
+    },
+    {
+      "time": 71.71,
+      "time_str": "01:11.710",
+      "text": "不再寂寞会围绕着我陪我说说",
+      "translation": null
+    },
+    {
+      "time": 78.97,
+      "time_str": "01:18.970",
+      "text": "我心里有片沙漠",
+      "translation": null
+    },
+    {
+      "time": 81.96,
+      "time_str": "01:21.960",
+      "text": "点缀着森林湖泊",
+      "translation": null
+    },
+    {
+      "time": 84.84,
+      "time_str": "01:24.840",
+      "text": "雨季一过有我爱吃的小水果",
+      "translation": null
+    },
+    {
+      "time": 106.71,
+      "time_str": "01:46.710",
+      "text": "我终于挣脱了绳索从不曾",
+      "translation": null
+    },
+    {
+      "time": 115.02,
+      "time_str": "01:55.020",
+      "text": "这么自在过轻松过",
+      "translation": null
+    },
+    {
+      "time": 119.24,
+      "time_str": "01:59.240",
+      "text": "我决定找回骆驼的生活",
+      "translation": null
+    },
+    {
+      "time": 124.65,
+      "time_str": "02:04.650",
+      "text": "不要再跟着我再骑着我",
+      "translation": null
+    },
+    {
+      "time": 133.25,
+      "time_str": "02:13.250",
+      "text": "沿途云朵趁没人看见就降落",
+      "translation": null
+    },
+    {
+      "time": 146.17,
+      "time_str": "02:26.170",
+      "text": "提醒着我再往前就从没人出去过",
+      "translation": null
+    },
+    {
+      "time": 157.9,
+      "time_str": "02:37.900",
+      "text": "转眼就看见沙漠",
+      "translation": null
+    },
+    {
+      "time": 160.85,
+      "time_str": "02:40.850",
+      "text": "那里有没有骆驼",
+      "translation": null
+    },
+    {
+      "time": 163.61,
+      "time_str": "02:43.610",
+      "text": "在期待我它是否在哪偷偷看我",
+      "translation": null
+    },
+    {
+      "time": 170.85,
+      "time_str": "02:50.850",
+      "text": "明明就来到沙漠",
+      "translation": null
+    },
+    {
+      "time": 173.53,
+      "time_str": "02:53.530",
+      "text": "为何看不到骆驼",
+      "translation": null
+    },
+    {
+      "time": 176.75,
+      "time_str": "02:56.750",
+      "text": "是不是说我来的不是时候",
+      "translation": null
+    },
+    {
+      "time": 210.46,
+      "time_str": "03:30.460",
+      "text": "原来这就是沙漠",
+      "translation": null
+    },
+    {
+      "time": 213.49,
+      "time_str": "03:33.490",
+      "text": "本来就没有骆驼",
+      "translation": null
+    },
+    {
+      "time": 216.33,
+      "time_str": "03:36.330",
+      "text": "负责地说那什么是我什么是我",
+      "translation": null
+    },
+    {
+      "time": 223.59,
+      "time_str": "03:43.590",
+      "text": "全世界都是沙漠",
+      "translation": null
+    },
+    {
+      "time": 226.54,
+      "time_str": "03:46.540",
+      "text": "人心里住着骆驼",
+      "translation": null
+    },
+    {
+      "time": 229.2,
+      "time_str": "03:49.200",
+      "text": "你就当做 我根本没有来过 来过",
+      "translation": null
+    },
+    {
+      "time": 245.5,
+      "time_str": "04:05.500",
+      "text": "都怪我亲手杀了骆驼",
+      "translation": null
+    },
+    {
+      "time": 273.82,
+      "time_str": "04:33.820",
+      "text": "贝斯：陈迪",
+      "translation": null
+    },
+    {
+      "time": 276.49,
+      "time_str": "04:36.490",
+      "text": "母带：Ryan Smith At Sterling Sound NYC",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "骆驼 - 薛之谦.lrc"
+}

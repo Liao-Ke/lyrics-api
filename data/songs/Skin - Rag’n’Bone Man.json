@@ -1,0 +1,418 @@
+{
+  "title": "Skin",
+  "title_raw": "Skin",
+  "version": null,
+  "artist": "Rag’n’Bone Man",
+  "group_key": "skin|rag’n’bone man",
+  "writers": {
+    "lyricist": "Jonny Coffer/Mike Needle/Jamie Scott/Dan Bryer/Rory Graham",
+    "composer": "Jamie Scott/Mike Needle/Dan Bryer/Jonny Coffer/Rory Graham/Jerome Williams",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.7,
+      "time_str": "00:01.700",
+      "text": "When I heard that sound",
+      "translation": "当我听见那句话"
+    },
+    {
+      "time": 3.6,
+      "time_str": "00:03.600",
+      "text": "When the walls came down",
+      "translation": "当我的心墙崩塌"
+    },
+    {
+      "time": 6.33,
+      "time_str": "00:06.330",
+      "text": "I was thinking about you",
+      "translation": "我无时不在思念你"
+    },
+    {
+      "time": 9.46,
+      "time_str": "00:09.460",
+      "text": "About you",
+      "translation": "思念你"
+    },
+    {
+      "time": 12.23,
+      "time_str": "00:12.230",
+      "text": "When my skin grows old",
+      "translation": "当我皮肤起皱褶"
+    },
+    {
+      "time": 14.94,
+      "time_str": "00:14.940",
+      "text": "When my breath runs cold",
+      "translation": "当我的呼吸冻结"
+    },
+    {
+      "time": 17.46,
+      "time_str": "00:17.460",
+      "text": "I'll be thinking about you",
+      "translation": "我在思念你"
+    },
+    {
+      "time": 21.11,
+      "time_str": "00:21.110",
+      "text": "About you",
+      "translation": "思念你"
+    },
+    {
+      "time": 22.74,
+      "time_str": "00:22.740",
+      "text": "Seconds from my heart",
+      "translation": "那一刹，我的心"
+    },
+    {
+      "time": 25.43,
+      "time_str": "00:25.430",
+      "text": "A bullet from the dark",
+      "translation": "被漆黑中的子弹击穿"
+    },
+    {
+      "time": 28.31,
+      "time_str": "00:28.310",
+      "text": "Helpless, I surrender",
+      "translation": "无助，举降"
+    },
+    {
+      "time": 30.99,
+      "time_str": "00:30.990",
+      "text": "Shackled by your love",
+      "translation": "被你的爱桎梏"
+    },
+    {
+      "time": 33.95,
+      "time_str": "00:33.950",
+      "text": "Holding me like this",
+      "translation": "你这样抱住我"
+    },
+    {
+      "time": 36.59,
+      "time_str": "00:36.590",
+      "text": "With poison on your lips",
+      "translation": "迷幻的毒唇"
+    },
+    {
+      "time": 39.45,
+      "time_str": "00:39.450",
+      "text": "Only when it's over",
+      "translation": "但一切都结束了"
+    },
+    {
+      "time": 42.27,
+      "time_str": "00:42.270",
+      "text": "The silence hits so hard",
+      "translation": "寂静得如此冰冷"
+    },
+    {
+      "time": 46.25,
+      "time_str": "00:46.250",
+      "text": "'Cause it was almost love, it was almost love",
+      "translation": "差一点就是爱了，差一点"
+    },
+    {
+      "time": 52.8,
+      "time_str": "00:52.800",
+      "text": "It was almost love, it was almost love",
+      "translation": "差一点就是爱了，差一点"
+    },
+    {
+      "time": 57.25,
+      "time_str": "00:57.250",
+      "text": "When I heard that sound",
+      "translation": "当我听见那句话"
+    },
+    {
+      "time": 59.92,
+      "time_str": "00:59.920",
+      "text": "When the walls came down",
+      "translation": "当我的心墙崩塌"
+    },
+    {
+      "time": 62.32,
+      "time_str": "01:02.320",
+      "text": "I was thinking about you",
+      "translation": "我无时不在思念你"
+    },
+    {
+      "time": 65.51,
+      "time_str": "01:05.510",
+      "text": "About you",
+      "translation": "思念你"
+    },
+    {
+      "time": 68.32,
+      "time_str": "01:08.320",
+      "text": "When my skin grows old",
+      "translation": "当我皮肤起皱褶"
+    },
+    {
+      "time": 71.13,
+      "time_str": "01:11.130",
+      "text": "When my breath runs cold",
+      "translation": "当我的呼吸冻结"
+    },
+    {
+      "time": 73.57,
+      "time_str": "01:13.570",
+      "text": "I'll be thinking about you",
+      "translation": "我在思念你"
+    },
+    {
+      "time": 76.79,
+      "time_str": "01:16.790",
+      "text": "About you",
+      "translation": "思念你"
+    },
+    {
+      "time": 79.99,
+      "time_str": "01:19.990",
+      "text": "When I run out of air to breathe",
+      "translation": "当我缺氧抽搐"
+    },
+    {
+      "time": 82.42,
+      "time_str": "01:22.420",
+      "text": "It's your ghost I see",
+      "translation": "我晃见你的身影"
+    },
+    {
+      "time": 85.6,
+      "time_str": "01:25.600",
+      "text": "I'll be thinking about you, about you",
+      "translation": "我依旧在思念你，思念你"
+    },
+    {
+      "time": 91.41,
+      "time_str": "01:31.410",
+      "text": "It was almost love, it was almost...",
+      "translation": "差一点就是爱，差一点"
+    },
+    {
+      "time": 95.72,
+      "time_str": "01:35.720",
+      "text": "We bleed ourselves in vain",
+      "translation": "我们流尽鲜红血液"
+    },
+    {
+      "time": 98.23,
+      "time_str": "01:38.230",
+      "text": "How tragic is this game?",
+      "translation": "这游戏如此悲剧收幕"
+    },
+    {
+      "time": 101.42,
+      "time_str": "01:41.420",
+      "text": "Turn around, I'm holding on to someone",
+      "translation": "拥抱着别人重来一次"
+    },
+    {
+      "time": 104.79,
+      "time_str": "01:44.790",
+      "text": "But the love is gone",
+      "translation": "但爱却已消散"
+    },
+    {
+      "time": 106.99,
+      "time_str": "01:46.990",
+      "text": "Carrying the load, with wings that feel like stone",
+      "translation": "我的羽翼如岩石般沉重"
+    },
+    {
+      "time": 112.63,
+      "time_str": "01:52.630",
+      "text": "Knowing that we nearly fell so far now",
+      "translation": "我们越飘越远"
+    },
+    {
+      "time": 116.54,
+      "time_str": "01:56.540",
+      "text": "It's hard to tell",
+      "translation": "我已看不清你"
+    },
+    {
+      "time": 119.45,
+      "time_str": "01:59.450",
+      "text": "Yeah we came so close, it was almost love",
+      "translation": "曾经如此紧密，差一点就是爱"
+    },
+    {
+      "time": 125.11,
+      "time_str": "02:05.110",
+      "text": "It was almost love, it was almost love",
+      "translation": "差一点就是爱，差一点"
+    },
+    {
+      "time": 130.35,
+      "time_str": "02:10.350",
+      "text": "When I heard that sound",
+      "translation": "当我听见那句话"
+    },
+    {
+      "time": 132.99,
+      "time_str": "02:12.990",
+      "text": "When the walls came down",
+      "translation": "当我的心墙崩塌"
+    },
+    {
+      "time": 135.37,
+      "time_str": "02:15.370",
+      "text": "I was thinking about you",
+      "translation": "我无时不在思念你"
+    },
+    {
+      "time": 138.91,
+      "time_str": "02:18.910",
+      "text": "About you",
+      "translation": "思念你"
+    },
+    {
+      "time": 141.37,
+      "time_str": "02:21.370",
+      "text": "When my skin grows old",
+      "translation": "当我皮肤起皱褶"
+    },
+    {
+      "time": 144.23,
+      "time_str": "02:24.230",
+      "text": "When my breath runs cold",
+      "translation": "当我的呼吸冻结"
+    },
+    {
+      "time": 146.55,
+      "time_str": "02:26.550",
+      "text": "I'll be thinking about you",
+      "translation": "我在思念你"
+    },
+    {
+      "time": 149.35,
+      "time_str": "02:29.350",
+      "text": "About you",
+      "translation": "思念你"
+    },
+    {
+      "time": 152.84,
+      "time_str": "02:32.840",
+      "text": "When I run out of air to breathe",
+      "translation": "当我缺氧抽搐"
+    },
+    {
+      "time": 155.7,
+      "time_str": "02:35.700",
+      "text": "It's your ghost I see",
+      "translation": "我晃见你的身影"
+    },
+    {
+      "time": 158.19,
+      "time_str": "02:38.190",
+      "text": "I'll be thinking about you, about you",
+      "translation": "我依旧一直思念你，思念你"
+    },
+    {
+      "time": 165.91,
+      "time_str": "02:45.910",
+      "text": "While I reached out for your hand",
+      "translation": "当我伸手向你"
+    },
+    {
+      "time": 171.42,
+      "time_str": "02:51.420",
+      "text": "When the walls were caving in",
+      "translation": "当那堵墙坍塌"
+    },
+    {
+      "time": 177.12,
+      "time_str": "02:57.120",
+      "text": "When I see you on the other side",
+      "translation": "我看见对面的你"
+    },
+    {
+      "time": 181.28,
+      "time_str": "03:01.280",
+      "text": "We can try all over again",
+      "translation": "我们重来一次吧"
+    },
+    {
+      "time": 186.56,
+      "time_str": "03:06.560",
+      "text": "When I heard that sound",
+      "translation": "当我听见那句话"
+    },
+    {
+      "time": 189.25,
+      "time_str": "03:09.250",
+      "text": "When the walls came down",
+      "translation": "当我的心墙崩塌"
+    },
+    {
+      "time": 191.68,
+      "time_str": "03:11.680",
+      "text": "I was thinking about you",
+      "translation": "我在思念你"
+    },
+    {
+      "time": 194.88,
+      "time_str": "03:14.880",
+      "text": "About you",
+      "translation": "思念你"
+    },
+    {
+      "time": 197.6,
+      "time_str": "03:17.600",
+      "text": "When my skin grows old",
+      "translation": "当我皮肤起皱褶"
+    },
+    {
+      "time": 200.43,
+      "time_str": "03:20.430",
+      "text": "When my breath runs cold",
+      "translation": "当我的呼吸冻结"
+    },
+    {
+      "time": 202.76,
+      "time_str": "03:22.760",
+      "text": "I'll be thinking about you",
+      "translation": "我在思念你"
+    },
+    {
+      "time": 206.62,
+      "time_str": "03:26.620",
+      "text": "About you",
+      "translation": "思念你"
+    },
+    {
+      "time": 209.1,
+      "time_str": "03:29.100",
+      "text": "When I run out of air to breathe",
+      "translation": "当我缺氧抽搐"
+    },
+    {
+      "time": 211.68,
+      "time_str": "03:31.680",
+      "text": "It's your ghost I see",
+      "translation": "我晃见你的身影"
+    },
+    {
+      "time": 214.17,
+      "time_str": "03:34.170",
+      "text": "I'll be thinking about you, about you",
+      "translation": "我依旧在思念你，思念你"
+    },
+    {
+      "time": 220.56,
+      "time_str": "03:40.560",
+      "text": "'Cause it was almost love, it was almost love",
+      "translation": "差一点就是爱，差一点"
+    },
+    {
+      "time": 226.23,
+      "time_str": "03:46.230",
+      "text": "It was almost love, it was almost love",
+      "translation": "差一点就是爱，差一点"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Skin - Rag’n’Bone Man.lrc"
+}

@@ -1,0 +1,232 @@
+{
+  "title": "Superstar 超级明星",
+  "title_raw": "Superstar 超级明星",
+  "version": null,
+  "artist": "群星",
+  "group_key": "superstar 超级明星|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 12.06,
+      "time_str": "00:12.060",
+      "text": "Long ago, and, oh, so far away",
+      "translation": "很久以前，那么遥远"
+    },
+    {
+      "time": 19.41,
+      "time_str": "00:19.410",
+      "text": "很久以前，那么遥远",
+      "translation": null
+    },
+    {
+      "time": 23.28,
+      "time_str": "00:23.280",
+      "text": "I fell in love with you before the second show.",
+      "translation": "在第二场演出前我爱上了你"
+    },
+    {
+      "time": 31.53,
+      "time_str": "00:31.530",
+      "text": "在第二场演出前我爱上了你",
+      "translation": null
+    },
+    {
+      "time": 32.25,
+      "time_str": "00:32.250",
+      "text": "Your guitar, it sounds so sweet and clear,",
+      "translation": "你的吉他声，那么甜蜜清晰"
+    },
+    {
+      "time": 44.52,
+      "time_str": "00:44.520",
+      "text": "你的吉他声，那么甜蜜清晰",
+      "translation": null
+    },
+    {
+      "time": 47.46,
+      "time_str": "00:47.460",
+      "text": "but you're not really here.",
+      "translation": "但如今你已不在"
+    },
+    {
+      "time": 49.53,
+      "time_str": "00:49.530",
+      "text": "但如今你已不在",
+      "translation": null
+    },
+    {
+      "time": 54.0,
+      "time_str": "00:54.000",
+      "text": "It's just the radio.",
+      "translation": "空余收音机的回响"
+    },
+    {
+      "time": 59.01,
+      "time_str": "00:59.010",
+      "text": "空余收音机的回响",
+      "translation": null
+    },
+    {
+      "time": 61.23,
+      "time_str": "01:01.230",
+      "text": "Don't you remember you told me you loved me baby?",
+      "translation": "你可曾记得你说过爱我"
+    },
+    {
+      "time": 65.37,
+      "time_str": "01:05.370",
+      "text": "你可曾记得你说过爱我",
+      "translation": null
+    },
+    {
+      "time": 67.17,
+      "time_str": "01:07.170",
+      "text": "You said you'd be coming back this way again baby.",
+      "translation": "你说你会这样再回来"
+    },
+    {
+      "time": 71.97,
+      "time_str": "01:11.970",
+      "text": "你说你会这样再回来",
+      "translation": null
+    },
+    {
+      "time": 72.57,
+      "time_str": "01:12.570",
+      "text": "Baby, baby, baby, baby, oh, baby.",
+      "translation": "哦，爱人，爱人"
+    },
+    {
+      "time": 78.51,
+      "time_str": "01:18.510",
+      "text": "哦，爱人，爱人",
+      "translation": null
+    },
+    {
+      "time": 79.44,
+      "time_str": "01:19.440",
+      "text": "I love you, I really do.",
+      "translation": "我真的爱你"
+    },
+    {
+      "time": 84.78,
+      "time_str": "01:24.780",
+      "text": "我真的爱你",
+      "translation": null
+    },
+    {
+      "time": 85.05,
+      "time_str": "01:25.050",
+      "text": "Loneliness is such a sad affair,",
+      "translation": "孤独是一件伤感的事情"
+    },
+    {
+      "time": 106.17,
+      "time_str": "01:46.170",
+      "text": "孤独是一件伤感的事情",
+      "translation": null
+    },
+    {
+      "time": 108.93,
+      "time_str": "01:48.930",
+      "text": "and I can hardly wait to be with you again.",
+      "translation": "我迫不及待想再与你一起"
+    },
+    {
+      "time": 119.73,
+      "time_str": "01:59.730",
+      "text": "我迫不及待想再与你一起",
+      "translation": null
+    },
+    {
+      "time": 127.92,
+      "time_str": "02:07.920",
+      "text": "What to say, to make you come again?",
+      "translation": "该说什么你才会回来"
+    },
+    {
+      "time": 130.8,
+      "time_str": "02:10.800",
+      "text": "该说什么你才会回来",
+      "translation": null
+    },
+    {
+      "time": 133.26,
+      "time_str": "02:13.260",
+      "text": "Come back to me again,",
+      "translation": "回到我的身边"
+    },
+    {
+      "time": 136.5,
+      "time_str": "02:16.500",
+      "text": "回到我的身边",
+      "translation": null
+    },
+    {
+      "time": 139.98,
+      "time_str": "02:19.980",
+      "text": "and play your sad guitar.",
+      "translation": "重弹那忧伤的吉他"
+    },
+    {
+      "time": 142.41,
+      "time_str": "02:22.410",
+      "text": "重弹那忧伤的吉他",
+      "translation": null
+    },
+    {
+      "time": 174.9,
+      "time_str": "02:54.900",
+      "text": "Don't you remember you told me you loved me baby?",
+      "translation": "你可曾记得你说过爱我"
+    },
+    {
+      "time": 179.25,
+      "time_str": "02:59.250",
+      "text": "你可曾记得你说过爱我",
+      "translation": null
+    },
+    {
+      "time": 180.93,
+      "time_str": "03:00.930",
+      "text": "You said you'd be coming back this way again baby.",
+      "translation": "你说你会这样再回来"
+    },
+    {
+      "time": 185.82,
+      "time_str": "03:05.820",
+      "text": "你说你会这样再回来",
+      "translation": null
+    },
+    {
+      "time": 186.42,
+      "time_str": "03:06.420",
+      "text": "Baby, baby, baby, baby, oh, baby.",
+      "translation": "哦，爱人，爱人"
+    },
+    {
+      "time": 190.41,
+      "time_str": "03:10.410",
+      "text": "哦，爱人，爱人",
+      "translation": null
+    },
+    {
+      "time": 193.47,
+      "time_str": "03:13.470",
+      "text": "I love you, I really do.",
+      "translation": "我真的爱你"
+    },
+    {
+      "time": 202.23,
+      "time_str": "03:22.230",
+      "text": "我真的爱你",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Superstar 超级明星 - 群星.lrc"
+}

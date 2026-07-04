@@ -1,0 +1,256 @@
+{
+  "title": "全世界宣布爱你",
+  "title_raw": "全世界宣布爱你",
+  "version": null,
+  "artist": "孙子涵,李潇潇",
+  "group_key": "全世界宣布爱你|孙子涵,李潇潇",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.3,
+      "time_str": "00:18.300",
+      "text": "在躲过雨的香樟树下等你",
+      "translation": null
+    },
+    {
+      "time": 21.48,
+      "time_str": "00:21.480",
+      "text": "在天桥上的转角擦肩而遇",
+      "translation": null
+    },
+    {
+      "time": 25.94,
+      "time_str": "00:25.940",
+      "text": "制造每个邂逅的缘分累积",
+      "translation": null
+    },
+    {
+      "time": 30.298,
+      "time_str": "00:30.298",
+      "text": "终于可以牵你的手保护你",
+      "translation": null
+    },
+    {
+      "time": 34.228,
+      "time_str": "00:34.228",
+      "text": "有你的地方就格外的清新",
+      "translation": null
+    },
+    {
+      "time": 39.189,
+      "time_str": "00:39.189",
+      "text": "想着你我的嘴角都会扬起",
+      "translation": null
+    },
+    {
+      "time": 43.48,
+      "time_str": "00:43.480",
+      "text": "倾城的轮廓 沾满我的憧憬",
+      "translation": null
+    },
+    {
+      "time": 47.838,
+      "time_str": "00:47.838",
+      "text": "天空都变透明 听到你的亲口允许",
+      "translation": null
+    },
+    {
+      "time": 54.388,
+      "time_str": "00:54.388",
+      "text": "对全世界宣布爱你",
+      "translation": null
+    },
+    {
+      "time": 58.548,
+      "time_str": "00:58.548",
+      "text": "我只想和你在一起",
+      "translation": null
+    },
+    {
+      "time": 62.898,
+      "time_str": "01:02.898",
+      "text": "这颗心 没畏惧 太坚定",
+      "translation": null
+    },
+    {
+      "time": 67.318,
+      "time_str": "01:07.318",
+      "text": "庆幸让我能够遇见你",
+      "translation": null
+    },
+    {
+      "time": 72.49,
+      "time_str": "01:12.490",
+      "text": "就算全世界都否定",
+      "translation": null
+    },
+    {
+      "time": 75.999,
+      "time_str": "01:15.999",
+      "text": "我也要跟你在一起",
+      "translation": null
+    },
+    {
+      "time": 80.469,
+      "time_str": "01:20.469",
+      "text": "想牵手 想拥抱 想爱你",
+      "translation": null
+    },
+    {
+      "time": 85.49,
+      "time_str": "01:25.490",
+      "text": "天崩地裂也要在一起",
+      "translation": null
+    },
+    {
+      "time": 99.4,
+      "time_str": "01:39.400",
+      "text": "有你的地方就格外的清新",
+      "translation": null
+    },
+    {
+      "time": 102.689,
+      "time_str": "01:42.689",
+      "text": "想着你我的嘴角都会扬起",
+      "translation": null
+    },
+    {
+      "time": 107.28,
+      "time_str": "01:47.280",
+      "text": "倾城的轮廓 沾满我的憧憬",
+      "translation": null
+    },
+    {
+      "time": 111.657,
+      "time_str": "01:51.657",
+      "text": "天空都变透明 听到你的亲口允许",
+      "translation": null
+    },
+    {
+      "time": 117.859,
+      "time_str": "01:57.859",
+      "text": "对全世界宣布爱你",
+      "translation": null
+    },
+    {
+      "time": 122.118,
+      "time_str": "02:02.118",
+      "text": "我只想和你在一起",
+      "translation": null
+    },
+    {
+      "time": 126.438,
+      "time_str": "02:06.438",
+      "text": "这颗心 没畏惧 太坚定",
+      "translation": null
+    },
+    {
+      "time": 130.859,
+      "time_str": "02:10.859",
+      "text": "庆幸让我能够遇见你",
+      "translation": null
+    },
+    {
+      "time": 135.179,
+      "time_str": "02:15.179",
+      "text": "就算全世界都否定",
+      "translation": null
+    },
+    {
+      "time": 140.89,
+      "time_str": "02:20.890",
+      "text": "我也要跟你在一起",
+      "translation": null
+    },
+    {
+      "time": 144.6,
+      "time_str": "02:24.600",
+      "text": "想牵手 想拥抱 想爱你",
+      "translation": null
+    },
+    {
+      "time": 148.279,
+      "time_str": "02:28.279",
+      "text": "天崩地裂也要在一起",
+      "translation": null
+    },
+    {
+      "time": 153.209,
+      "time_str": "02:33.209",
+      "text": "对全世界宣布爱你",
+      "translation": null
+    },
+    {
+      "time": 157.07,
+      "time_str": "02:37.070",
+      "text": "我只想和你在一起",
+      "translation": null
+    },
+    {
+      "time": 162.399,
+      "time_str": "02:42.399",
+      "text": "这颗心 没畏惧 太坚定",
+      "translation": null
+    },
+    {
+      "time": 166.109,
+      "time_str": "02:46.109",
+      "text": "庆幸让我能遇见你",
+      "translation": null
+    },
+    {
+      "time": 170.479,
+      "time_str": "02:50.479",
+      "text": "对全世界宣布爱你",
+      "translation": null
+    },
+    {
+      "time": 174.789,
+      "time_str": "02:54.789",
+      "text": "我只想和你在一起",
+      "translation": null
+    },
+    {
+      "time": 179.329,
+      "time_str": "02:59.329",
+      "text": "这颗心 没畏惧 太坚定",
+      "translation": null
+    },
+    {
+      "time": 183.599,
+      "time_str": "03:03.599",
+      "text": "庆幸让我能够遇见你",
+      "translation": null
+    },
+    {
+      "time": 187.969,
+      "time_str": "03:07.969",
+      "text": "就算全世界都否定",
+      "translation": null
+    },
+    {
+      "time": 192.34,
+      "time_str": "03:12.340",
+      "text": "我也要跟你在一起",
+      "translation": null
+    },
+    {
+      "time": 197.199,
+      "time_str": "03:17.199",
+      "text": "想牵手 想拥抱 想爱你",
+      "translation": null
+    },
+    {
+      "time": 200.969,
+      "time_str": "03:20.969",
+      "text": "天崩地裂也要在一起",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "全世界宣布爱你 - 孙子涵,李潇潇.lrc"
+}

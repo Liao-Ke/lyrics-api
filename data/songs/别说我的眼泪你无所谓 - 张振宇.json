@@ -1,0 +1,286 @@
+{
+  "title": "别说我的眼泪你无所谓",
+  "title_raw": "别说我的眼泪你无所谓",
+  "version": null,
+  "artist": "张振宇",
+  "group_key": "别说我的眼泪你无所谓|张振宇",
+  "writers": {
+    "lyricist": "楊, 斌",
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 42.6,
+      "time_str": "00:42.600",
+      "text": "一个人在这个夜里",
+      "translation": null
+    },
+    {
+      "time": 47.21,
+      "time_str": "00:47.210",
+      "text": "孤单得难以入睡",
+      "translation": null
+    },
+    {
+      "time": 51.41,
+      "time_str": "00:51.410",
+      "text": "真的想找个人来陪",
+      "translation": null
+    },
+    {
+      "time": 55.37,
+      "time_str": "00:55.370",
+      "text": "不愿意一个人喝醉",
+      "translation": null
+    },
+    {
+      "time": 59.6,
+      "time_str": "00:59.600",
+      "text": "醉了以后就会流泪",
+      "translation": null
+    },
+    {
+      "time": 62.87,
+      "time_str": "01:02.870",
+      "text": "数着你给的伤悲",
+      "translation": null
+    },
+    {
+      "time": 67.6,
+      "time_str": "01:07.600",
+      "text": "为什么你总让我憔悴",
+      "translation": null
+    },
+    {
+      "time": 71.17,
+      "time_str": "01:11.170",
+      "text": "别说我的眼泪你无所谓",
+      "translation": null
+    },
+    {
+      "time": 74.5,
+      "time_str": "01:14.500",
+      "text": "看我流泪你头也不回",
+      "translation": null
+    },
+    {
+      "time": 78.52,
+      "time_str": "01:18.520",
+      "text": "哭过了泪干了心变成灰",
+      "translation": null
+    },
+    {
+      "time": 82.41,
+      "time_str": "01:22.410",
+      "text": "我想要的美你还不想给",
+      "translation": null
+    },
+    {
+      "time": 86.35,
+      "time_str": "01:26.350",
+      "text": "伤了的我的心怎去面对",
+      "translation": null
+    },
+    {
+      "time": 90.37,
+      "time_str": "01:30.370",
+      "text": "爱给了你我不后悔",
+      "translation": null
+    },
+    {
+      "time": 94.32,
+      "time_str": "01:34.320",
+      "text": "只希望你给我一次机会",
+      "translation": null
+    },
+    {
+      "time": 98.27,
+      "time_str": "01:38.270",
+      "text": "让我去追让我去飞",
+      "translation": null
+    },
+    {
+      "time": 102.32,
+      "time_str": "01:42.320",
+      "text": "毕竟爱过的心需要安慰",
+      "translation": null
+    },
+    {
+      "time": 106.27,
+      "time_str": "01:46.270",
+      "text": "需要你安慰",
+      "translation": null
+    },
+    {
+      "time": 110.15,
+      "time_str": "01:50.150",
+      "text": "一个人在这个夜里",
+      "translation": null
+    },
+    {
+      "time": 130.539,
+      "time_str": "02:10.539",
+      "text": "孤单得难以入睡",
+      "translation": null
+    },
+    {
+      "time": 134.89,
+      "time_str": "02:14.890",
+      "text": "真的想找个人来陪",
+      "translation": null
+    },
+    {
+      "time": 138.79,
+      "time_str": "02:18.790",
+      "text": "不愿意一个人喝醉",
+      "translation": null
+    },
+    {
+      "time": 142.6,
+      "time_str": "02:22.600",
+      "text": "醉了以后就会流泪",
+      "translation": null
+    },
+    {
+      "time": 146.12,
+      "time_str": "02:26.120",
+      "text": "数着你给的伤悲",
+      "translation": null
+    },
+    {
+      "time": 150.53,
+      "time_str": "02:30.530",
+      "text": "为什么你总让我憔悴",
+      "translation": null
+    },
+    {
+      "time": 154.57,
+      "time_str": "02:34.570",
+      "text": "别说我的眼泪你无所谓",
+      "translation": null
+    },
+    {
+      "time": 158.3,
+      "time_str": "02:38.300",
+      "text": "看我流泪你头也不回",
+      "translation": null
+    },
+    {
+      "time": 161.95,
+      "time_str": "02:41.950",
+      "text": "哭过了泪干了心变成灰",
+      "translation": null
+    },
+    {
+      "time": 165.96,
+      "time_str": "02:45.960",
+      "text": "我想要的美你还不想给",
+      "translation": null
+    },
+    {
+      "time": 169.89,
+      "time_str": "02:49.890",
+      "text": "伤了的我的心怎去面对",
+      "translation": null
+    },
+    {
+      "time": 173.99,
+      "time_str": "02:53.990",
+      "text": "爱给了你我不后悔",
+      "translation": null
+    },
+    {
+      "time": 177.94,
+      "time_str": "02:57.940",
+      "text": "只希望你给我一次机会",
+      "translation": null
+    },
+    {
+      "time": 181.93,
+      "time_str": "03:01.930",
+      "text": "让我去追让我去飞",
+      "translation": null
+    },
+    {
+      "time": 185.82,
+      "time_str": "03:05.820",
+      "text": "毕竟爱过的心需要安慰",
+      "translation": null
+    },
+    {
+      "time": 189.91,
+      "time_str": "03:09.910",
+      "text": "需要你安慰",
+      "translation": null
+    },
+    {
+      "time": 193.92,
+      "time_str": "03:13.920",
+      "text": "看我流泪你头也不回",
+      "translation": null
+    },
+    {
+      "time": 197.85,
+      "time_str": "03:17.850",
+      "text": "哭过了泪干了心变成灰",
+      "translation": null
+    },
+    {
+      "time": 201.82,
+      "time_str": "03:21.820",
+      "text": "我想要的美你还不想给",
+      "translation": null
+    },
+    {
+      "time": 205.73,
+      "time_str": "03:25.730",
+      "text": "伤了的我的心怎去面对",
+      "translation": null
+    },
+    {
+      "time": 209.77,
+      "time_str": "03:29.770",
+      "text": "爱给了你我不后悔",
+      "translation": null
+    },
+    {
+      "time": 213.72,
+      "time_str": "03:33.720",
+      "text": "只希望你给我一次机会",
+      "translation": null
+    },
+    {
+      "time": 217.74,
+      "time_str": "03:37.740",
+      "text": "让我去追让我去飞",
+      "translation": null
+    },
+    {
+      "time": 221.72,
+      "time_str": "03:41.720",
+      "text": "毕竟爱过的心需要安慰",
+      "translation": null
+    },
+    {
+      "time": 225.8,
+      "time_str": "03:45.800",
+      "text": "需要你安慰",
+      "translation": null
+    },
+    {
+      "time": 229.32,
+      "time_str": "03:49.320",
+      "text": "让我去追让我去飞",
+      "translation": null
+    },
+    {
+      "time": 233.69,
+      "time_str": "03:53.690",
+      "text": "毕竟爱过的心需要安慰",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "别说我的眼泪你无所谓 - 张振宇.lrc"
+}

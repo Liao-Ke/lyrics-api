@@ -1,0 +1,424 @@
+{
+  "title": "We Don't Talk Anymore",
+  "title_raw": "We Don't Talk Anymore",
+  "version": null,
+  "artist": "Charlie Puth,Selena Gomez",
+  "group_key": "we don't talk anymore|charlie puth,selena gomez",
+  "writers": {
+    "lyricist": "Charlie Puth/Selena Gomez/Jacob Hindlin",
+    "composer": "Charlie Puth/Selena Gomez/Jacob Hindlin",
+    "arranger": "Charlie Puth"
+  },
+  "lyrics": [
+    {
+      "time": 0.72,
+      "time_str": "00:00.720",
+      "text": "We don't talk anymore, we don't talk anymore",
+      "translation": "我们之间只剩沉默 再回不到耳鬓厮磨"
+    },
+    {
+      "time": 5.42,
+      "time_str": "00:05.420",
+      "text": "We don't talk anymore, like we used to do",
+      "translation": "我们之间只剩沉默 一切都已再难如昨日"
+    },
+    {
+      "time": 10.31,
+      "time_str": "00:10.310",
+      "text": "We don't love anymore",
+      "translation": "爱也因此慢慢消磨"
+    },
+    {
+      "time": 12.67,
+      "time_str": "00:12.670",
+      "text": "What was all of it for?",
+      "translation": "为何会是这样的结果"
+    },
+    {
+      "time": 14.3,
+      "time_str": "00:14.300",
+      "text": "Oh, we don't talk anymore, like we used to do",
+      "translation": "无话不说的从前只剩沉默 一切都已再难如昨日"
+    },
+    {
+      "time": 19.88,
+      "time_str": "00:19.880",
+      "text": "I just heard you found the one you've been looking",
+      "translation": "我听闻你已找到心仪的那个人"
+    },
+    {
+      "time": 23.47,
+      "time_str": "00:23.470",
+      "text": "You've been looking for",
+      "translation": "你寻觅已久的他"
+    },
+    {
+      "time": 25.85,
+      "time_str": "00:25.850",
+      "text": "I wish I would have known that wasn't me",
+      "translation": "真该早些明白我并不在你心里"
+    },
+    {
+      "time": 29.36,
+      "time_str": "00:29.360",
+      "text": "Cause even after all this time I still wonder",
+      "translation": "分开了那么久我却不知为何"
+    },
+    {
+      "time": 33.1,
+      "time_str": "00:33.100",
+      "text": "Why I can't move on",
+      "translation": "还是无法将你放下"
+    },
+    {
+      "time": 35.42,
+      "time_str": "00:35.420",
+      "text": "Just the way you did so easily",
+      "translation": "而你却离开得如此潇洒"
+    },
+    {
+      "time": 39.37,
+      "time_str": "00:39.370",
+      "text": "Don't wanna know",
+      "translation": "不想去想"
+    },
+    {
+      "time": 41.1,
+      "time_str": "00:41.100",
+      "text": "what kind of dress you're wearing tonight",
+      "translation": "今夜的你会为他怎样精挑衣装"
+    },
+    {
+      "time": 43.39,
+      "time_str": "00:43.390",
+      "text": "If he's holding onto you so tight",
+      "translation": "而他又会否如我从前那样"
+    },
+    {
+      "time": 46.3,
+      "time_str": "00:46.300",
+      "text": "The way I did before",
+      "translation": "将你紧拥入怀里徜徉"
+    },
+    {
+      "time": 48.99,
+      "time_str": "00:48.990",
+      "text": "I overdosed",
+      "translation": "我心难平息"
+    },
+    {
+      "time": 50.47,
+      "time_str": "00:50.470",
+      "text": "Should've known your love was a game",
+      "translation": "早该明白你我之间不过游戏"
+    },
+    {
+      "time": 53.0,
+      "time_str": "00:53.000",
+      "text": "Now I can't get you out of my brain",
+      "translation": "那样也不至于忘不了你"
+    },
+    {
+      "time": 55.55,
+      "time_str": "00:55.550",
+      "text": "Oh, it's such a shame",
+      "translation": "噢如此不堪的自己"
+    },
+    {
+      "time": 58.2,
+      "time_str": "00:58.200",
+      "text": "We don't talk anymore, we don't talk anymore",
+      "translation": "我们之间只剩沉默 再回不到耳鬓厮磨"
+    },
+    {
+      "time": 63.0,
+      "time_str": "01:03.000",
+      "text": "We don't talk anymore, like we used to do",
+      "translation": "我们之间只剩沉默 一切都已再难如昨日"
+    },
+    {
+      "time": 67.87,
+      "time_str": "01:07.870",
+      "text": "We don't love anymore",
+      "translation": "爱也因此慢慢消磨"
+    },
+    {
+      "time": 70.22,
+      "time_str": "01:10.220",
+      "text": "What was all of it for?",
+      "translation": "为何会是这样的结果"
+    },
+    {
+      "time": 71.74,
+      "time_str": "01:11.740",
+      "text": "Oh, we don't talk anymore, like we used to do",
+      "translation": "无话不说的从前只剩沉默 一切都已再难如昨日"
+    },
+    {
+      "time": 77.44,
+      "time_str": "01:17.440",
+      "text": "I just hope you're lying next to somebody",
+      "translation": "希望此时的你正轻靠在某个良人怀里"
+    },
+    {
+      "time": 80.54,
+      "time_str": "01:20.540",
+      "text": "Who knows how to love you like me",
+      "translation": "希望她也能像我那般懂得爱你"
+    },
+    {
+      "time": 83.31,
+      "time_str": "01:23.310",
+      "text": "There must be a good reason that you're gone",
+      "translation": "那样也算是个让我说服自己的不错原因"
+    },
+    {
+      "time": 87.07,
+      "time_str": "01:27.070",
+      "text": "Every now and then I think you",
+      "translation": "我常常会幻想着"
+    },
+    {
+      "time": 89.14,
+      "time_str": "01:29.140",
+      "text": "Might want me to come show up at your door",
+      "translation": "再回到在你楼下等我的场景"
+    },
+    {
+      "time": 92.9,
+      "time_str": "01:32.900",
+      "text": "But I'm just too afraid that I'll be wrong",
+      "translation": "但那恐怕只是我自作多情"
+    },
+    {
+      "time": 96.9,
+      "time_str": "01:36.900",
+      "text": "Don't wanna know",
+      "translation": "不想去想"
+    },
+    {
+      "time": 98.53,
+      "time_str": "01:38.530",
+      "text": "If you're looking into her eyes",
+      "translation": "此刻你是否正深情望着她的眼睛"
+    },
+    {
+      "time": 100.88,
+      "time_str": "01:40.880",
+      "text": "If she's holding onto you so tight the way I did before",
+      "translation": "而她又会否如我从前那般 将你紧拥入怀里"
+    },
+    {
+      "time": 106.49,
+      "time_str": "01:46.490",
+      "text": "I overdosed",
+      "translation": "我心难平息"
+    },
+    {
+      "time": 108.07,
+      "time_str": "01:48.070",
+      "text": "Should've known your love was a game",
+      "translation": "早该明白你我之间不过游戏"
+    },
+    {
+      "time": 110.54,
+      "time_str": "01:50.540",
+      "text": "Now I can't get you out of my brain",
+      "translation": "那样也不至于忘不了你"
+    },
+    {
+      "time": 113.19,
+      "time_str": "01:53.190",
+      "text": "Oh, it's such a shame",
+      "translation": "噢如此不堪的自己"
+    },
+    {
+      "time": 115.66,
+      "time_str": "01:55.660",
+      "text": "That we don't talk anymore (We don't, we don't)",
+      "translation": "我们之间只剩沉默"
+    },
+    {
+      "time": 118.23,
+      "time_str": "01:58.230",
+      "text": "We don't talk anymore (We don't, we don't)",
+      "translation": "再回不到耳鬓厮磨"
+    },
+    {
+      "time": 120.64,
+      "time_str": "02:00.640",
+      "text": "We don't talk anymore, like we used to do",
+      "translation": "我们之间只剩沉默 一切都已再难如昨日"
+    },
+    {
+      "time": 125.46,
+      "time_str": "02:05.460",
+      "text": "We don't love anymore (We don't, we don't)",
+      "translation": "爱也因此慢慢消磨"
+    },
+    {
+      "time": 127.75,
+      "time_str": "02:07.750",
+      "text": "What was all of it for? (We don't, we don't)",
+      "translation": "为何会是这样的结果"
+    },
+    {
+      "time": 129.5,
+      "time_str": "02:09.500",
+      "text": "Oh, we don't talk anymore, like we used to do",
+      "translation": "无话不说的从前只剩沉默 一切都已再难如昨日"
+    },
+    {
+      "time": 143.76,
+      "time_str": "02:23.760",
+      "text": "Like we used to do",
+      "translation": "曾经那样亲密的你我"
+    },
+    {
+      "time": 154.5,
+      "time_str": "02:34.500",
+      "text": "Don't wanna know",
+      "translation": "不想去想"
+    },
+    {
+      "time": 156.13,
+      "time_str": "02:36.130",
+      "text": "kind of dress you're wearing tonight",
+      "translation": "今夜的你会为他怎样精挑衣装"
+    },
+    {
+      "time": 158.62,
+      "time_str": "02:38.620",
+      "text": "If he's giving it to you just right",
+      "translation": "而他又会否如我从前那样"
+    },
+    {
+      "time": 161.1,
+      "time_str": "02:41.100",
+      "text": "The way I did before",
+      "translation": "将你紧拥入怀里徜徉"
+    },
+    {
+      "time": 164.11,
+      "time_str": "02:44.110",
+      "text": "I overdosed",
+      "translation": "我心难平息"
+    },
+    {
+      "time": 165.64,
+      "time_str": "02:45.640",
+      "text": "Should've known your love was a game",
+      "translation": "早该明白你我之间不过游戏"
+    },
+    {
+      "time": 168.08,
+      "time_str": "02:48.080",
+      "text": "Now I can't get you out of my brain",
+      "translation": "那样也不至于忘不了你"
+    },
+    {
+      "time": 170.71,
+      "time_str": "02:50.710",
+      "text": "Oh, it's such a shame",
+      "translation": "噢如此不堪的自己"
+    },
+    {
+      "time": 173.33,
+      "time_str": "02:53.330",
+      "text": "That we don't talk anymore (We don't, we don't)",
+      "translation": "我们之间只剩沉默"
+    },
+    {
+      "time": 175.88,
+      "time_str": "02:55.880",
+      "text": "We don't talk anymore (We don't, we don't)",
+      "translation": "再回不到耳鬓厮磨"
+    },
+    {
+      "time": 178.2,
+      "time_str": "02:58.200",
+      "text": "We don't talk anymore, like we used to do",
+      "translation": "我们之间只剩沉默 一切都已再难如昨日"
+    },
+    {
+      "time": 183.1,
+      "time_str": "03:03.100",
+      "text": "We don't love anymore (We don't, we don't)",
+      "translation": "爱也因此慢慢消磨"
+    },
+    {
+      "time": 185.36,
+      "time_str": "03:05.360",
+      "text": "What was all of it for? (We don't, we don't)",
+      "translation": "为何会是这样的结果"
+    },
+    {
+      "time": 187.0,
+      "time_str": "03:07.000",
+      "text": "Oh, we don't talk anymore, like we used to do",
+      "translation": "无话不说的从前只剩沉默 一切都已再难如昨日"
+    },
+    {
+      "time": 192.65,
+      "time_str": "03:12.650",
+      "text": "We don't talk anymore",
+      "translation": "美好从前只剩沉默"
+    },
+    {
+      "time": 194.33,
+      "time_str": "03:14.330",
+      "text": "What kind of dress you're wearing tonight (Oh)",
+      "translation": "今夜的你会为他怎样精挑衣装"
+    },
+    {
+      "time": 197.0,
+      "time_str": "03:17.000",
+      "text": "If he's holding onto you so tight (Oh)",
+      "translation": "而他又会否如我从前那样"
+    },
+    {
+      "time": 199.54,
+      "time_str": "03:19.540",
+      "text": "The way I did before",
+      "translation": "将你紧拥入怀里徜徉"
+    },
+    {
+      "time": 202.23,
+      "time_str": "03:22.230",
+      "text": "We don't talk anymore (I overdosed)",
+      "translation": "我们之间只剩沉默(心难平息的我)"
+    },
+    {
+      "time": 204.08,
+      "time_str": "03:24.080",
+      "text": "Should've known your love was a game (Oh)",
+      "translation": "早该明白你我之间不过游戏"
+    },
+    {
+      "time": 206.62,
+      "time_str": "03:26.620",
+      "text": "Now I can't get you out of my brain (Woah)",
+      "translation": "那样也不至于忘不了你"
+    },
+    {
+      "time": 209.22,
+      "time_str": "03:29.220",
+      "text": "Oh, it's such a shame",
+      "translation": "噢如此不堪的自己"
+    },
+    {
+      "time": 211.88,
+      "time_str": "03:31.880",
+      "text": "We don't talk anymore",
+      "translation": "无间亲密都已成过去"
+    },
+    {
+      "time": 216.88,
+      "time_str": "03:36.880",
+      "text": "Recorded in 2015",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "We Don't Talk Anymore - Charlie Puth,Selena Gomez.lrc"
+}

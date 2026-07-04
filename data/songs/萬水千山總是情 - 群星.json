@@ -1,0 +1,154 @@
+{
+  "title": "萬水千山總是情",
+  "title_raw": "萬水千山總是情",
+  "version": null,
+  "artist": "群星",
+  "group_key": "萬水千山總是情|群星",
+  "writers": {
+    "lyricist": "邓伟雄",
+    "composer": "顾嘉辉",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "莫说青山多障碍",
+      "translation": null
+    },
+    {
+      "time": 19.0,
+      "time_str": "00:19.000",
+      "text": "风也急风也劲",
+      "translation": null
+    },
+    {
+      "time": 24.0,
+      "time_str": "00:24.000",
+      "text": "白云过山峰也可传情",
+      "translation": null
+    },
+    {
+      "time": 31.0,
+      "time_str": "00:31.000",
+      "text": "莫说水中多变幻",
+      "translation": null
+    },
+    {
+      "time": 35.0,
+      "time_str": "00:35.000",
+      "text": "水也清水也静",
+      "translation": null
+    },
+    {
+      "time": 39.0,
+      "time_str": "00:39.000",
+      "text": "柔情似水爱共永",
+      "translation": null
+    },
+    {
+      "time": 46.5,
+      "time_str": "00:46.500",
+      "text": "未怕罡风吹散了热爱",
+      "translation": null
+    },
+    {
+      "time": 55.0,
+      "time_str": "00:55.000",
+      "text": "万水千山总是情",
+      "translation": null
+    },
+    {
+      "time": 63.0,
+      "time_str": "01:03.000",
+      "text": "聚散也有天注定",
+      "translation": null
+    },
+    {
+      "time": 67.0,
+      "time_str": "01:07.000",
+      "text": "不怨天不怨命",
+      "translation": null
+    },
+    {
+      "time": 72.0,
+      "time_str": "01:12.000",
+      "text": "但求有山水共作证",
+      "translation": null
+    },
+    {
+      "time": 94.0,
+      "time_str": "01:34.000",
+      "text": "莫说青山多障碍",
+      "translation": null
+    },
+    {
+      "time": 100.0,
+      "time_str": "01:40.000",
+      "text": "风也急风也劲",
+      "translation": null
+    },
+    {
+      "time": 103.4,
+      "time_str": "01:43.400",
+      "text": "白云过山峰也可传情",
+      "translation": null
+    },
+    {
+      "time": 111.0,
+      "time_str": "01:51.000",
+      "text": "莫说水中多变幻",
+      "translation": null
+    },
+    {
+      "time": 116.0,
+      "time_str": "01:56.000",
+      "text": "水也清水也静",
+      "translation": null
+    },
+    {
+      "time": 120.0,
+      "time_str": "02:00.000",
+      "text": "柔情似水爱共永",
+      "translation": null
+    },
+    {
+      "time": 127.0,
+      "time_str": "02:07.000",
+      "text": "未怕罡风吹散了热爱",
+      "translation": null
+    },
+    {
+      "time": 135.0,
+      "time_str": "02:15.000",
+      "text": "万水千山总是情",
+      "translation": null
+    },
+    {
+      "time": 143.0,
+      "time_str": "02:23.000",
+      "text": "聚散也有天注定",
+      "translation": null
+    },
+    {
+      "time": 148.0,
+      "time_str": "02:28.000",
+      "text": "不怨天不怨命",
+      "translation": null
+    },
+    {
+      "time": 152.0,
+      "time_str": "02:32.000",
+      "text": "但求有山水共作证",
+      "translation": null
+    },
+    {
+      "time": 159.5,
+      "time_str": "02:39.500",
+      "text": "但求有山水共作证",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "萬水千山總是情 - 群星.lrc"
+}

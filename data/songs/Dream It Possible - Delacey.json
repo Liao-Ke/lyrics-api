@@ -1,0 +1,226 @@
+{
+  "title": "Dream It Possible",
+  "title_raw": "Dream It Possible",
+  "version": null,
+  "artist": "Delacey",
+  "group_key": "dream it possible|delacey",
+  "writers": {
+    "lyricist": "Andy Love",
+    "composer": "Andy Love",
+    "arranger": "Andy Love"
+  },
+  "lyrics": [
+    {
+      "time": 8.085,
+      "time_str": "00:08.085",
+      "text": "I will run, I will climb, I will soar",
+      "translation": "我将奔跑，我将攀爬，我将飞翔"
+    },
+    {
+      "time": 12.42,
+      "time_str": "00:12.420",
+      "text": "I’m undefeated",
+      "translation": "永不言败"
+    },
+    {
+      "time": 16.128,
+      "time_str": "00:16.128",
+      "text": "Jumping out of my skin, pull the chord",
+      "translation": "脱离身体的桎梏，拉动琴弦"
+    },
+    {
+      "time": 20.419,
+      "time_str": "00:20.419",
+      "text": "Yeah I believe it",
+      "translation": "哦，我相信。"
+    },
+    {
+      "time": 23.65,
+      "time_str": "00:23.650",
+      "text": "The past, is everything we were don’t make us who we are",
+      "translation": "往昔，逝去的光阴不会决定现在"
+    },
+    {
+      "time": 31.104,
+      "time_str": "00:31.104",
+      "text": "So I’ll dream, until I make it real, and all I see is stars",
+      "translation": "所以我们梦想，直到变成真，看到满天星光"
+    },
+    {
+      "time": 38.397,
+      "time_str": "00:38.397",
+      "text": "It's not until you fall that you fly",
+      "translation": "经历跌倒，才能飞翔"
+    },
+    {
+      "time": 43.154,
+      "time_str": "00:43.154",
+      "text": "When your dreams come alive you’re unstoppable",
+      "translation": "当你的梦想成真，你是不可阻挡"
+    },
+    {
+      "time": 47.102,
+      "time_str": "00:47.102",
+      "text": "Take a shot, chase the sun, find the beautiful",
+      "translation": "挥着翅膀，追逐太阳，寻找美丽"
+    },
+    {
+      "time": 51.116,
+      "time_str": "00:51.116",
+      "text": "We will glow in the dark turning dust to gold",
+      "translation": "在黑暗中闪耀点石成金"
+    },
+    {
+      "time": 55.11,
+      "time_str": "00:55.110",
+      "text": "And we’ll dream it possible possible And we'll dream it possible",
+      "translation": "我们会梦想成真，有可能的，我们会梦想成真"
+    },
+    {
+      "time": 76.197,
+      "time_str": "01:16.197",
+      "text": "I will chase, I will reach, I will fly",
+      "translation": "我将追逐，我将到达，我将飞翔"
+    },
+    {
+      "time": 80.436,
+      "time_str": "01:20.436",
+      "text": "Until I’m breaking, until I’m breaking",
+      "translation": "直到我摧毁，直到我打破"
+    },
+    {
+      "time": 84.105,
+      "time_str": "01:24.105",
+      "text": "Out of my cage, like a bird in the night",
+      "translation": "囚禁我的牢笼，像在黑夜里自由的鸟儿"
+    },
+    {
+      "time": 88.444,
+      "time_str": "01:28.444",
+      "text": "I know I’m changing, I know I’m changing",
+      "translation": "我知道我在变化，在蜕变"
+    },
+    {
+      "time": 91.668,
+      "time_str": "01:31.668",
+      "text": "In, into something big, better than before",
+      "translation": "变成无比强大，从未有过"
+    },
+    {
+      "time": 98.866,
+      "time_str": "01:38.866",
+      "text": "And if it takes, takes a thousand lives",
+      "translation": "如果需要牺牲，需要无数的生命"
+    },
+    {
+      "time": 102.361,
+      "time_str": "01:42.361",
+      "text": "Then it’s worth fighting for",
+      "translation": "那值得去奋斗"
+    },
+    {
+      "time": 106.396,
+      "time_str": "01:46.396",
+      "text": "It's not until you fall that you fly",
+      "translation": "经历跌倒，才能飞翔"
+    },
+    {
+      "time": 111.096,
+      "time_str": "01:51.096",
+      "text": "When your dreams come alive you’re unstoppable",
+      "translation": "当你的梦想成真，你是不可阻挡"
+    },
+    {
+      "time": 115.081,
+      "time_str": "01:55.081",
+      "text": "Take a shot, chase the sun, find the beautiful",
+      "translation": "挥着翅膀，追逐太阳，寻找美丽"
+    },
+    {
+      "time": 119.096,
+      "time_str": "01:59.096",
+      "text": "We will glow in the dark turning dust to gold",
+      "translation": "在黑暗中闪耀点石成金"
+    },
+    {
+      "time": 123.1,
+      "time_str": "02:03.100",
+      "text": "And we’ll dream it possible it possible",
+      "translation": "我们会梦想成真"
+    },
+    {
+      "time": 143.628,
+      "time_str": "02:23.628",
+      "text": "From the bottom to the top",
+      "translation": "从低谷到巅峰"
+    },
+    {
+      "time": 145.842,
+      "time_str": "02:25.842",
+      "text": "We’re sparking wild fires",
+      "translation": "我们正在迸发野火"
+    },
+    {
+      "time": 147.634,
+      "time_str": "02:27.634",
+      "text": "Never quit and never stop",
+      "translation": "永不放弃，永不停止"
+    },
+    {
+      "time": 149.877,
+      "time_str": "02:29.877",
+      "text": "The rest of our lives",
+      "translation": "点燃未来"
+    },
+    {
+      "time": 151.628,
+      "time_str": "02:31.628",
+      "text": "From the bottom to the top",
+      "translation": "从山谷到巅峰"
+    },
+    {
+      "time": 153.902,
+      "time_str": "02:33.902",
+      "text": "We’re sparking wild fires",
+      "translation": "我们正在迸发野火"
+    },
+    {
+      "time": 155.663,
+      "time_str": "02:35.663",
+      "text": "Never quit and never stop",
+      "translation": "永不放弃，永不停止"
+    },
+    {
+      "time": 158.48,
+      "time_str": "02:38.480",
+      "text": "It's not until you fall that you fly",
+      "translation": "经历跌倒，才能飞翔"
+    },
+    {
+      "time": 165.312,
+      "time_str": "02:45.312",
+      "text": "When your dreams come alive you’re unstoppable",
+      "translation": "当你的梦想成真，你是不可阻挡"
+    },
+    {
+      "time": 169.12,
+      "time_str": "02:49.120",
+      "text": "Take a shot, chase the sun, find the beautiful",
+      "translation": "挥着翅膀，追逐太阳，寻找美丽"
+    },
+    {
+      "time": 173.145,
+      "time_str": "02:53.145",
+      "text": "We will glow in the dark turning dust to gold",
+      "translation": "在黑暗中闪耀点石成金"
+    },
+    {
+      "time": 177.184,
+      "time_str": "02:57.184",
+      "text": "And we’ll dream it possible possible And we'll dream it possible",
+      "translation": "我们会梦想成真"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Dream It Possible - Delacey.lrc"
+}

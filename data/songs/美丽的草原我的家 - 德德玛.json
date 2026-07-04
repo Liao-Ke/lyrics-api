@@ -1,0 +1,136 @@
+{
+  "title": "美丽的草原我的家",
+  "title_raw": "美丽的草原我的家",
+  "version": null,
+  "artist": "德德玛",
+  "group_key": "美丽的草原我的家|德德玛",
+  "writers": {
+    "lyricist": "火华",
+    "composer": "阿拉腾奥勒",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.66,
+      "time_str": "00:19.660",
+      "text": "美丽的草原我的家",
+      "translation": null
+    },
+    {
+      "time": 26.37,
+      "time_str": "00:26.370",
+      "text": "风吹绿草遍地花",
+      "translation": null
+    },
+    {
+      "time": 33.37,
+      "time_str": "00:33.370",
+      "text": "彩蝶纷飞百鸟儿唱",
+      "translation": null
+    },
+    {
+      "time": 40.11,
+      "time_str": "00:40.110",
+      "text": "一弯碧水映晚霞",
+      "translation": null
+    },
+    {
+      "time": 47.03,
+      "time_str": "00:47.030",
+      "text": "骏马好似彩云朵",
+      "translation": null
+    },
+    {
+      "time": 53.83,
+      "time_str": "00:53.830",
+      "text": "牛羊好似珍珠撒",
+      "translation": null
+    },
+    {
+      "time": 61.29,
+      "time_str": "01:01.290",
+      "text": "啊，牧羊姑娘放声唱",
+      "translation": null
+    },
+    {
+      "time": 71.77,
+      "time_str": "01:11.770",
+      "text": "愉快的歌声满天涯",
+      "translation": null
+    },
+    {
+      "time": 78.49,
+      "time_str": "01:18.490",
+      "text": "牧羊姑娘放声唱",
+      "translation": null
+    },
+    {
+      "time": 85.52,
+      "time_str": "01:25.520",
+      "text": "愉快的歌声满天涯",
+      "translation": null
+    },
+    {
+      "time": 113.87,
+      "time_str": "01:53.870",
+      "text": "美丽的草原我的家",
+      "translation": null
+    },
+    {
+      "time": 120.54,
+      "time_str": "02:00.540",
+      "text": "水清草美我爱她",
+      "translation": null
+    },
+    {
+      "time": 127.56,
+      "time_str": "02:07.560",
+      "text": "草原就像绿色的海",
+      "translation": null
+    },
+    {
+      "time": 134.38,
+      "time_str": "02:14.380",
+      "text": "毡包就像白莲花",
+      "translation": null
+    },
+    {
+      "time": 141.16,
+      "time_str": "02:21.160",
+      "text": "牧民描绘幸福景",
+      "translation": null
+    },
+    {
+      "time": 148.03,
+      "time_str": "02:28.030",
+      "text": "春光万里美如画",
+      "translation": null
+    },
+    {
+      "time": 155.49,
+      "time_str": "02:35.490",
+      "text": "啊，牧羊姑娘放声唱",
+      "translation": null
+    },
+    {
+      "time": 165.95,
+      "time_str": "02:45.950",
+      "text": "愉快的歌声满天涯",
+      "translation": null
+    },
+    {
+      "time": 172.95,
+      "time_str": "02:52.950",
+      "text": "牧羊姑娘放声唱",
+      "translation": null
+    },
+    {
+      "time": 179.69,
+      "time_str": "02:59.690",
+      "text": "愉快的歌声满天涯",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "美丽的草原我的家 - 德德玛.lrc"
+}

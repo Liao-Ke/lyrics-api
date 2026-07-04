@@ -1,0 +1,172 @@
+{
+  "title": "月半小夜曲",
+  "title_raw": "月半小夜曲",
+  "version": null,
+  "artist": "李克勤",
+  "group_key": "月半小夜曲|李克勤",
+  "writers": {
+    "lyricist": "向雪怀",
+    "composer": "河合奈保子",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 33.009,
+      "time_str": "00:33.009",
+      "text": "仍然倚在失眠夜望天边星宿",
+      "translation": null
+    },
+    {
+      "time": 39.519,
+      "time_str": "00:39.519",
+      "text": "仍然听见小提琴如泣似诉再挑逗",
+      "translation": null
+    },
+    {
+      "time": 46.5,
+      "time_str": "00:46.500",
+      "text": "为何只剩一弯月留在我的天空",
+      "translation": null
+    },
+    {
+      "time": 52.989,
+      "time_str": "00:52.989",
+      "text": "这晚以后音讯隔绝",
+      "translation": null
+    },
+    {
+      "time": 59.049,
+      "time_str": "00:59.049",
+      "text": "人如天上的明月是不可拥有",
+      "translation": null
+    },
+    {
+      "time": 65.379,
+      "time_str": "01:05.379",
+      "text": "情如曲过只遗留无可挽救再分别",
+      "translation": null
+    },
+    {
+      "time": 71.489,
+      "time_str": "01:11.489",
+      "text": "为何只是失望填密我的空虚",
+      "translation": null
+    },
+    {
+      "time": 78.779,
+      "time_str": "01:18.779",
+      "text": "这晚夜没有吻别",
+      "translation": null
+    },
+    {
+      "time": 84.679,
+      "time_str": "01:24.679",
+      "text": "仍在说永久想不到是借口",
+      "translation": null
+    },
+    {
+      "time": 91.539,
+      "time_str": "01:31.539",
+      "text": "从未意会要分手",
+      "translation": null
+    },
+    {
+      "time": 100.199,
+      "time_str": "01:40.199",
+      "text": "但我的心每分每刻仍然被她占有",
+      "translation": null
+    },
+    {
+      "time": 107.609,
+      "time_str": "01:47.609",
+      "text": "她似这月儿仍然是不开口",
+      "translation": null
+    },
+    {
+      "time": 112.649,
+      "time_str": "01:52.649",
+      "text": "提琴独奏独奏着明月半倚深秋",
+      "translation": null
+    },
+    {
+      "time": 117.268,
+      "time_str": "01:57.268",
+      "text": "我的牵挂我的渴望  直至以后",
+      "translation": null
+    },
+    {
+      "time": 122.868,
+      "time_str": "02:02.868",
+      "text": ".....",
+      "translation": null
+    },
+    {
+      "time": 144.058,
+      "time_str": "02:24.058",
+      "text": "人如天上的明月是不可拥有",
+      "translation": null
+    },
+    {
+      "time": 150.648,
+      "time_str": "02:30.648",
+      "text": "情如曲过只遗留无可挽救再分别",
+      "translation": null
+    },
+    {
+      "time": 157.178,
+      "time_str": "02:37.178",
+      "text": "为何只是失望填密我的空虚",
+      "translation": null
+    },
+    {
+      "time": 164.008,
+      "time_str": "02:44.008",
+      "text": "这晚夜没有吻别",
+      "translation": null
+    },
+    {
+      "time": 169.948,
+      "time_str": "02:49.948",
+      "text": "仍在说永久想不到是借口",
+      "translation": null
+    },
+    {
+      "time": 177.048,
+      "time_str": "02:57.048",
+      "text": "从未意会要分手",
+      "translation": null
+    },
+    {
+      "time": 185.158,
+      "time_str": "03:05.158",
+      "text": "但我的心每分每刻仍然被她占有",
+      "translation": null
+    },
+    {
+      "time": 193.588,
+      "time_str": "03:13.588",
+      "text": "她似这月儿仍然是不开口",
+      "translation": null
+    },
+    {
+      "time": 198.848,
+      "time_str": "03:18.848",
+      "text": "提琴独奏独奏着明月半倚深秋",
+      "translation": null
+    },
+    {
+      "time": 206.088,
+      "time_str": "03:26.088",
+      "text": "我的牵挂我的渴望  直至以后",
+      "translation": null
+    },
+    {
+      "time": 216.038,
+      "time_str": "03:36.038",
+      "text": "....",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月半小夜曲 - 李克勤.lrc"
+}

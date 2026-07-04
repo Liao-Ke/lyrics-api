@@ -1,0 +1,352 @@
+{
+  "title": "虚虚实实",
+  "title_raw": "虚虚实实",
+  "version": null,
+  "artist": "张卫健",
+  "group_key": "虚虚实实|张卫健",
+  "writers": {
+    "lyricist": "林敏骢",
+    "composer": "温浩杰",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 23.62,
+      "time_str": "00:23.620",
+      "text": "假如我可以再生",
+      "translation": null
+    },
+    {
+      "time": 26.81,
+      "time_str": "00:26.810",
+      "text": "像太极为两仪而生",
+      "translation": null
+    },
+    {
+      "time": 30.25,
+      "time_str": "00:30.250",
+      "text": "动静之间如行云流水",
+      "translation": null
+    },
+    {
+      "time": 33.78,
+      "time_str": "00:33.780",
+      "text": "追一个豁达的眼神",
+      "translation": null
+    },
+    {
+      "time": 38.19,
+      "time_str": "00:38.190",
+      "text": "任膨湃巨力来打我",
+      "translation": null
+    },
+    {
+      "time": 42.1,
+      "time_str": "00:42.100",
+      "text": "牵动我四两拨千斤",
+      "translation": null
+    },
+    {
+      "time": 44.75,
+      "time_str": "00:44.750",
+      "text": "以弱可胜强",
+      "translation": null
+    },
+    {
+      "time": 47.63,
+      "time_str": "00:47.630",
+      "text": "后发可先至",
+      "translation": null
+    },
+    {
+      "time": 49.39,
+      "time_str": "00:49.390",
+      "text": "天大地大博大精深",
+      "translation": null
+    },
+    {
+      "time": 53.38,
+      "time_str": "00:53.380",
+      "text": "在虚虚在实实 神会中",
+      "translation": null
+    },
+    {
+      "time": 55.95,
+      "time_str": "00:55.950",
+      "text": "虚守实发掌中穷",
+      "translation": null
+    },
+    {
+      "time": 57.89,
+      "time_str": "00:57.890",
+      "text": "来势凶不为动",
+      "translation": null
+    },
+    {
+      "time": 59.78,
+      "time_str": "00:59.780",
+      "text": "所向无敌真英雄",
+      "translation": null
+    },
+    {
+      "time": 62.55,
+      "time_str": "01:02.550",
+      "text": "随心行动",
+      "translation": null
+    },
+    {
+      "time": 65.09,
+      "time_str": "01:05.090",
+      "text": "心底我是这样的人",
+      "translation": null
+    },
+    {
+      "time": 68.06,
+      "time_str": "01:08.060",
+      "text": "在虚虚在实实 现实中",
+      "translation": null
+    },
+    {
+      "time": 70.87,
+      "time_str": "01:10.870",
+      "text": "爱与不爱都很难",
+      "translation": null
+    },
+    {
+      "time": 72.65,
+      "time_str": "01:12.650",
+      "text": "伤依然那么深",
+      "translation": null
+    },
+    {
+      "time": 74.74,
+      "time_str": "01:14.740",
+      "text": "每一条路的尽头",
+      "translation": null
+    },
+    {
+      "time": 78.1,
+      "time_str": "01:18.100",
+      "text": "是一个人",
+      "translation": null
+    },
+    {
+      "time": 79.31,
+      "time_str": "01:19.310",
+      "text": "看不透世上的真",
+      "translation": null
+    },
+    {
+      "time": 83.12,
+      "time_str": "01:23.120",
+      "text": "你还是这样天真",
+      "translation": null
+    },
+    {
+      "time": 117.39,
+      "time_str": "01:57.390",
+      "text": "假如我可以再生",
+      "translation": null
+    },
+    {
+      "time": 120.92,
+      "time_str": "02:00.920",
+      "text": "像太极为两仪而生",
+      "translation": null
+    },
+    {
+      "time": 124.27,
+      "time_str": "02:04.270",
+      "text": "动静之间如行云流水",
+      "translation": null
+    },
+    {
+      "time": 127.92,
+      "time_str": "02:07.920",
+      "text": "追一个豁达的眼神",
+      "translation": null
+    },
+    {
+      "time": 132.05,
+      "time_str": "02:12.050",
+      "text": "任膨湃巨力来打我",
+      "translation": null
+    },
+    {
+      "time": 135.57,
+      "time_str": "02:15.570",
+      "text": "牵动我四两拨千斤",
+      "translation": null
+    },
+    {
+      "time": 139.68,
+      "time_str": "02:19.680",
+      "text": "以弱可胜强",
+      "translation": null
+    },
+    {
+      "time": 141.6,
+      "time_str": "02:21.600",
+      "text": "后发可先至",
+      "translation": null
+    },
+    {
+      "time": 143.06,
+      "time_str": "02:23.060",
+      "text": "天大地大博大精深",
+      "translation": null
+    },
+    {
+      "time": 147.24,
+      "time_str": "02:27.240",
+      "text": "在虚虚在实实 神会中",
+      "translation": null
+    },
+    {
+      "time": 149.82,
+      "time_str": "02:29.820",
+      "text": "虚守实发掌中穷",
+      "translation": null
+    },
+    {
+      "time": 151.75,
+      "time_str": "02:31.750",
+      "text": "来势凶不为动",
+      "translation": null
+    },
+    {
+      "time": 153.57,
+      "time_str": "02:33.570",
+      "text": "所向无敌真英雄",
+      "translation": null
+    },
+    {
+      "time": 156.5,
+      "time_str": "02:36.500",
+      "text": "随心行动",
+      "translation": null
+    },
+    {
+      "time": 158.36,
+      "time_str": "02:38.360",
+      "text": "心底我是这样的人",
+      "translation": null
+    },
+    {
+      "time": 163.33,
+      "time_str": "02:43.330",
+      "text": "在虚虚在实实 现实中",
+      "translation": null
+    },
+    {
+      "time": 166.05,
+      "time_str": "02:46.050",
+      "text": "爱与不爱都很难",
+      "translation": null
+    },
+    {
+      "time": 167.82,
+      "time_str": "02:47.820",
+      "text": "伤依然那么深",
+      "translation": null
+    },
+    {
+      "time": 169.87,
+      "time_str": "02:49.870",
+      "text": "每一条路的尽头",
+      "translation": null
+    },
+    {
+      "time": 172.71,
+      "time_str": "02:52.710",
+      "text": "是一个人",
+      "translation": null
+    },
+    {
+      "time": 174.44,
+      "time_str": "02:54.440",
+      "text": "看不透世上的真",
+      "translation": null
+    },
+    {
+      "time": 178.79,
+      "time_str": "02:58.790",
+      "text": "在虚虚在实实 神会中",
+      "translation": null
+    },
+    {
+      "time": 181.23,
+      "time_str": "03:01.230",
+      "text": "虚守实发掌中穷",
+      "translation": null
+    },
+    {
+      "time": 183.09,
+      "time_str": "03:03.090",
+      "text": "来势凶不为动",
+      "translation": null
+    },
+    {
+      "time": 185.4,
+      "time_str": "03:05.400",
+      "text": "所向无敌真英雄",
+      "translation": null
+    },
+    {
+      "time": 187.67,
+      "time_str": "03:07.670",
+      "text": "随心行动",
+      "translation": null
+    },
+    {
+      "time": 189.61,
+      "time_str": "03:09.610",
+      "text": "心底我是这样的人",
+      "translation": null
+    },
+    {
+      "time": 193.24,
+      "time_str": "03:13.240",
+      "text": "在虚虚在实实 现实中",
+      "translation": null
+    },
+    {
+      "time": 196.38,
+      "time_str": "03:16.380",
+      "text": "爱与不爱都很难",
+      "translation": null
+    },
+    {
+      "time": 198.08,
+      "time_str": "03:18.080",
+      "text": "伤依然那么深",
+      "translation": null
+    },
+    {
+      "time": 200.08,
+      "time_str": "03:20.080",
+      "text": "每一条路的尽头",
+      "translation": null
+    },
+    {
+      "time": 203.0,
+      "time_str": "03:23.000",
+      "text": "是一个人",
+      "translation": null
+    },
+    {
+      "time": 204.64,
+      "time_str": "03:24.640",
+      "text": "看不透世上的真",
+      "translation": null
+    },
+    {
+      "time": 208.68,
+      "time_str": "03:28.680",
+      "text": "你还是这样天真",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "虚虚实实 - 张卫健.lrc"
+}

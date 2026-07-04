@@ -1,0 +1,256 @@
+{
+  "title": "我的未来式",
+  "title_raw": "我的未来式",
+  "version": null,
+  "artist": "郭采洁",
+  "group_key": "我的未来式|郭采洁",
+  "writers": {
+    "lyricist": "刘伟恩",
+    "composer": "전준규",
+    "arranger": "轻松玩"
+  },
+  "lyrics": [
+    {
+      "time": 11.86,
+      "time_str": "00:11.860",
+      "text": "脱下鞋子跳舞 赤着脚太空漫步",
+      "translation": null
+    },
+    {
+      "time": 15.8,
+      "time_str": "00:15.800",
+      "text": "我笑了 你还装酷",
+      "translation": null
+    },
+    {
+      "time": 17.72,
+      "time_str": "00:17.720",
+      "text": "阳光晒过的路 正好是年轻的温度",
+      "translation": null
+    },
+    {
+      "time": 21.86,
+      "time_str": "00:21.860",
+      "text": "温暖舒服",
+      "translation": null
+    },
+    {
+      "time": 23.74,
+      "time_str": "00:23.740",
+      "text": "吵醒了闹区 的树木",
+      "translation": null
+    },
+    {
+      "time": 27.04,
+      "time_str": "00:27.040",
+      "text": "吸一口纯氧 就漂浮",
+      "translation": null
+    },
+    {
+      "time": 29.78,
+      "time_str": "00:29.780",
+      "text": "蓝色背景下 我练习 飞行的角度",
+      "translation": null
+    },
+    {
+      "time": 33.94,
+      "time_str": "00:33.940",
+      "text": "保持我的态度",
+      "translation": null
+    },
+    {
+      "time": 35.83,
+      "time_str": "00:35.830",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 39.16,
+      "time_str": "00:39.160",
+      "text": "跳整天的舞 玩耍整片荧幕",
+      "translation": null
+    },
+    {
+      "time": 42.14,
+      "time_str": "00:42.140",
+      "text": "不断电的梦 直线加速",
+      "translation": null
+    },
+    {
+      "time": 45.15,
+      "time_str": "00:45.150",
+      "text": "奔跑在我画的地图",
+      "translation": null
+    },
+    {
+      "time": 60.348,
+      "time_str": "01:00.348",
+      "text": "翻开了五线谱 是我涂鸦的音符",
+      "translation": null
+    },
+    {
+      "time": 64.319,
+      "time_str": "01:04.319",
+      "text": "我找到 我的幸福",
+      "translation": null
+    },
+    {
+      "time": 66.269,
+      "time_str": "01:06.269",
+      "text": "自由平等博爱 我复古 创新演出",
+      "translation": null
+    },
+    {
+      "time": 70.498,
+      "time_str": "01:10.498",
+      "text": "我的天赋",
+      "translation": null
+    },
+    {
+      "time": 72.388,
+      "time_str": "01:12.388",
+      "text": "吵醒了闹区 的树木",
+      "translation": null
+    },
+    {
+      "time": 75.489,
+      "time_str": "01:15.489",
+      "text": "吸一口纯氧 就漂浮",
+      "translation": null
+    },
+    {
+      "time": 78.56,
+      "time_str": "01:18.560",
+      "text": "蓝色背景下 我练习 飞行的角度",
+      "translation": null
+    },
+    {
+      "time": 82.489,
+      "time_str": "01:22.489",
+      "text": "保持我的态度",
+      "translation": null
+    },
+    {
+      "time": 84.468,
+      "time_str": "01:24.468",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 87.819,
+      "time_str": "01:27.819",
+      "text": "每一个动作 我都完整投入",
+      "translation": null
+    },
+    {
+      "time": 90.718,
+      "time_str": "01:30.718",
+      "text": "不断电的你 陪我加速",
+      "translation": null
+    },
+    {
+      "time": 93.9,
+      "time_str": "01:33.900",
+      "text": "奔跑在我们的领土",
+      "translation": null
+    },
+    {
+      "time": 97.349,
+      "time_str": "01:37.349",
+      "text": "用汗水 写记录",
+      "translation": null
+    },
+    {
+      "time": 100.03,
+      "time_str": "01:40.030",
+      "text": "今天我是封面人物",
+      "translation": null
+    },
+    {
+      "time": 103.599,
+      "time_str": "01:43.599",
+      "text": "银河像 梦的蓝图",
+      "translation": null
+    },
+    {
+      "time": 105.87,
+      "time_str": "01:45.870",
+      "text": "就让我 勇敢的走每一步 我的路",
+      "translation": null
+    },
+    {
+      "time": 122.709,
+      "time_str": "02:02.709",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 128.659,
+      "time_str": "02:08.659",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 134.659,
+      "time_str": "02:14.659",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 140.659,
+      "time_str": "02:20.659",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 144.03,
+      "time_str": "02:24.030",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 146.989,
+      "time_str": "02:26.989",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 150.009,
+      "time_str": "02:30.009",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 153.03,
+      "time_str": "02:33.030",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 159.169,
+      "time_str": "02:39.169",
+      "text": "我的未来式 由我作主",
+      "translation": null
+    },
+    {
+      "time": 162.209,
+      "time_str": "02:42.209",
+      "text": "每一个动作 我都完整投入",
+      "translation": null
+    },
+    {
+      "time": 165.119,
+      "time_str": "02:45.119",
+      "text": "不断电的你 陪我加速",
+      "translation": null
+    },
+    {
+      "time": 168.269,
+      "time_str": "02:48.269",
+      "text": "奔跑在我们的领土",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我的未来式 - 郭采洁.lrc"
+}

@@ -1,0 +1,280 @@
+{
+  "title": "Pretty Boy",
+  "title_raw": "Pretty Boy",
+  "version": null,
+  "artist": "M2M",
+  "group_key": "pretty boy|m2m",
+  "writers": {
+    "lyricist": "Du Jia Shin/Bottolf L?demel and Nora Skaug/Bottolf Lodemel and Nora Skaug",
+    "composer": "Bottolf Lodemel/Du Jia Shin/Nora Skaug",
+    "arranger": "Per Magnusson and David Kreuger/Unknown"
+  },
+  "lyrics": [
+    {
+      "time": 24.45,
+      "time_str": "00:24.450",
+      "text": "I lie awake at night",
+      "translation": "我夜不能寐"
+    },
+    {
+      "time": 29.75,
+      "time_str": "00:29.750",
+      "text": "See things in black and white",
+      "translation": "黑白分明地看待事物"
+    },
+    {
+      "time": 35.44,
+      "time_str": "00:35.440",
+      "text": "I've only got you inside my mind",
+      "translation": "我心里只有你"
+    },
+    {
+      "time": 41.04,
+      "time_str": "00:41.040",
+      "text": "You know you have made me blind",
+      "translation": "你知道你让我变得盲目"
+    },
+    {
+      "time": 46.54,
+      "time_str": "00:46.540",
+      "text": "I lie awake and pray",
+      "translation": "我醒着躺着祈祷"
+    },
+    {
+      "time": 52.04,
+      "time_str": "00:52.040",
+      "text": "That you will look my way",
+      "translation": "你会看着我"
+    },
+    {
+      "time": 57.73,
+      "time_str": "00:57.730",
+      "text": "I have all this longing in my heart",
+      "translation": "我心中充满了渴望"
+    },
+    {
+      "time": 63.15,
+      "time_str": "01:03.150",
+      "text": "I knew it right from the start",
+      "translation": "我从一开始就知道"
+    },
+    {
+      "time": 70.24,
+      "time_str": "01:10.240",
+      "text": "Oh my pretty pretty boy I love you",
+      "translation": "哦，我可爱的男孩，我爱你"
+    },
+    {
+      "time": 75.53,
+      "time_str": "01:15.530",
+      "text": "Like I never ever loved no one before you",
+      "translation": "好像在你之前我从未爱过任何人"
+    },
+    {
+      "time": 82.64,
+      "time_str": "01:22.640",
+      "text": "Pretty pretty boy of mine",
+      "translation": "我的漂亮男孩"
+    },
+    {
+      "time": 86.63,
+      "time_str": "01:26.630",
+      "text": "Just tell me you love me too",
+      "translation": "告诉我你也爱我"
+    },
+    {
+      "time": 92.43,
+      "time_str": "01:32.430",
+      "text": "Oh my pretty pretty boy I need you",
+      "translation": "哦，我可爱的男孩，我需要你"
+    },
+    {
+      "time": 99.24,
+      "time_str": "01:39.240",
+      "text": "Oh my pretty pretty boy I do",
+      "translation": "哦，我可爱的男孩，我愿意"
+    },
+    {
+      "time": 103.42,
+      "time_str": "01:43.420",
+      "text": "Let me inside",
+      "translation": "让我进入你心里"
+    },
+    {
+      "time": 106.23,
+      "time_str": "01:46.230",
+      "text": "Make me stay right beside you",
+      "translation": "让我留在你身边"
+    },
+    {
+      "time": 121.14,
+      "time_str": "02:01.140",
+      "text": "I used to write your name",
+      "translation": "我曾经写过你的名字"
+    },
+    {
+      "time": 126.64,
+      "time_str": "02:06.640",
+      "text": "And put it in a frame",
+      "translation": "并把它放在一个框架里"
+    },
+    {
+      "time": 132.34,
+      "time_str": "02:12.340",
+      "text": "And sometimes I think I hear you call",
+      "translation": "有时我想我听到你的呼唤"
+    },
+    {
+      "time": 138.25,
+      "time_str": "02:18.250",
+      "text": "Right from my bedroom wall",
+      "translation": "就在我卧室的墙上"
+    },
+    {
+      "time": 143.74,
+      "time_str": "02:23.740",
+      "text": "You stay a little while",
+      "translation": "你呆一会儿"
+    },
+    {
+      "time": 149.33,
+      "time_str": "02:29.330",
+      "text": "And touch me with your smile",
+      "translation": "用你的微笑感动我"
+    },
+    {
+      "time": 154.84,
+      "time_str": "02:34.840",
+      "text": "And what can I say to make you mine",
+      "translation": "我能说什么让你成为我的"
+    },
+    {
+      "time": 160.74,
+      "time_str": "02:40.740",
+      "text": "To reach out for you in time",
+      "translation": "及时向你伸出援手"
+    },
+    {
+      "time": 164.84,
+      "time_str": "02:44.840",
+      "text": "Oh my pretty pretty boy I love you",
+      "translation": "哦，我可爱的男孩，我爱你"
+    },
+    {
+      "time": 169.92,
+      "time_str": "02:49.920",
+      "text": "Like I never ever loved no one before you",
+      "translation": "好像在你之前我从未爱过任何人"
+    },
+    {
+      "time": 177.14,
+      "time_str": "02:57.140",
+      "text": "Pretty pretty boy of mine",
+      "translation": "我的漂亮男孩"
+    },
+    {
+      "time": 181.64,
+      "time_str": "03:01.640",
+      "text": "Just tell me you love me too",
+      "translation": "告诉我你也爱我"
+    },
+    {
+      "time": 187.85,
+      "time_str": "03:07.850",
+      "text": "Oh my pretty pretty boy I need you",
+      "translation": "哦，我可爱的男孩，我需要你"
+    },
+    {
+      "time": 192.93,
+      "time_str": "03:12.930",
+      "text": "Oh my pretty pretty boy I do",
+      "translation": "哦，我可爱的男孩，我愿意"
+    },
+    {
+      "time": 198.84,
+      "time_str": "03:18.840",
+      "text": "Let me inside",
+      "translation": "让我进入你心里"
+    },
+    {
+      "time": 201.43,
+      "time_str": "03:21.430",
+      "text": "Make me stay right beside you",
+      "translation": "让我留在你身边"
+    },
+    {
+      "time": 220.91,
+      "time_str": "03:40.910",
+      "text": "Oh pretty boy , pretty boy , pretty boy",
+      "translation": "可爱的男孩，可爱的男孩，可爱的男孩"
+    },
+    {
+      "time": 227.5,
+      "time_str": "03:47.500",
+      "text": "Say you love me too",
+      "translation": "说你也爱我"
+    },
+    {
+      "time": 231.51,
+      "time_str": "03:51.510",
+      "text": "Oh my pretty pretty boy I love you",
+      "translation": "哦，我漂亮的男孩，我爱你"
+    },
+    {
+      "time": 237.02,
+      "time_str": "03:57.020",
+      "text": "Like I never ever loved no one before you",
+      "translation": "好像在你之前我从未爱过任何人"
+    },
+    {
+      "time": 244.0,
+      "time_str": "04:04.000",
+      "text": "Pretty pretty boy of mine",
+      "translation": "我的漂亮男孩"
+    },
+    {
+      "time": 248.0,
+      "time_str": "04:08.000",
+      "text": "Just tell me you love me too",
+      "translation": "告诉我你也爱我"
+    },
+    {
+      "time": 254.11,
+      "time_str": "04:14.110",
+      "text": "Oh my pretty pretty boy I need you",
+      "translation": "哦，我可爱的男孩，我需要你"
+    },
+    {
+      "time": 260.0,
+      "time_str": "04:20.000",
+      "text": "Oh my pretty pretty boy I do",
+      "translation": "哦，我可爱的男孩，我愿意"
+    },
+    {
+      "time": 265.81,
+      "time_str": "04:25.810",
+      "text": "Let me inside",
+      "translation": "让我进入你心里"
+    },
+    {
+      "time": 268.5,
+      "time_str": "04:28.500",
+      "text": "Make me stay right beside you",
+      "translation": "让我留在你身边"
+    },
+    {
+      "time": 274.24,
+      "time_str": "04:34.240",
+      "text": "音频工程师 : Bernard Lohr",
+      "translation": null
+    },
+    {
+      "time": 275.24,
+      "time_str": "04:35.240",
+      "text": "人声 : M2M",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Pretty Boy - M2M.lrc"
+}

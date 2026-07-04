@@ -1,0 +1,268 @@
+{
+  "title": "画中仙",
+  "title_raw": "画中仙",
+  "version": null,
+  "artist": "金莎",
+  "group_key": "画中仙|金莎",
+  "writers": {
+    "lyricist": "姚云",
+    "composer": "姚云",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 23.59,
+      "time_str": "00:23.590",
+      "text": "我怎么舍得看不见",
+      "translation": null
+    },
+    {
+      "time": 28.6,
+      "time_str": "00:28.600",
+      "text": "那一张清秀完美的脸",
+      "translation": null
+    },
+    {
+      "time": 33.78,
+      "time_str": "00:33.780",
+      "text": "雨点掉落下来打湿整个屋檐",
+      "translation": null
+    },
+    {
+      "time": 39.56,
+      "time_str": "00:39.560",
+      "text": "你淋湿站在我左边",
+      "translation": null
+    },
+    {
+      "time": 45.9,
+      "time_str": "00:45.900",
+      "text": "你美的像幅泼墨画中的仙",
+      "translation": null
+    },
+    {
+      "time": 52.69,
+      "time_str": "00:52.690",
+      "text": "我靠近递你一张手绢",
+      "translation": null
+    },
+    {
+      "time": 57.27,
+      "time_str": "00:57.270",
+      "text": "你突然的笑了道谢说得腼腆",
+      "translation": null
+    },
+    {
+      "time": 63.1,
+      "time_str": "01:03.100",
+      "text": "骤雨停了你就这样越走越远",
+      "translation": null
+    },
+    {
+      "time": 70.3,
+      "time_str": "01:10.300",
+      "text": "青石板的马路边那离别似空间",
+      "translation": null
+    },
+    {
+      "time": 75.82,
+      "time_str": "01:15.820",
+      "text": "勾起我不断对你的思念",
+      "translation": null
+    },
+    {
+      "time": 81.84,
+      "time_str": "01:21.840",
+      "text": "倘若雨势再蔓延",
+      "translation": null
+    },
+    {
+      "time": 84.78,
+      "time_str": "01:24.780",
+      "text": "能再多看你几眼",
+      "translation": null
+    },
+    {
+      "time": 87.61,
+      "time_str": "01:27.610",
+      "text": "现唯借手绢吻你的脸",
+      "translation": null
+    },
+    {
+      "time": 93.37,
+      "time_str": "01:33.370",
+      "text": "泪水划过我唇边",
+      "translation": null
+    },
+    {
+      "time": 96.42,
+      "time_str": "01:36.420",
+      "text": "笔墨挥洒宣纸砚",
+      "translation": null
+    },
+    {
+      "time": 99.43,
+      "time_str": "01:39.430",
+      "text": "刻画出对你无尽的思念",
+      "translation": null
+    },
+    {
+      "time": 104.7,
+      "time_str": "01:44.700",
+      "text": "如果还能在雨天遇见",
+      "translation": null
+    },
+    {
+      "time": 109.78,
+      "time_str": "01:49.780",
+      "text": "可否能邀画中的仙赏花儿月圆",
+      "translation": null
+    },
+    {
+      "time": 139.9,
+      "time_str": "02:19.900",
+      "text": "你美的像幅泼墨画中的仙",
+      "translation": null
+    },
+    {
+      "time": 145.64,
+      "time_str": "02:25.640",
+      "text": "我靠近递你一张手绢",
+      "translation": null
+    },
+    {
+      "time": 150.25,
+      "time_str": "02:30.250",
+      "text": "你突然的笑了道谢说得腼腆",
+      "translation": null
+    },
+    {
+      "time": 155.99,
+      "time_str": "02:35.990",
+      "text": "骤雨停了你就这样越走越远",
+      "translation": null
+    },
+    {
+      "time": 162.78,
+      "time_str": "02:42.780",
+      "text": "青石板的马路边那离别似空间",
+      "translation": null
+    },
+    {
+      "time": 168.82,
+      "time_str": "02:48.820",
+      "text": "勾起我不断对你的思念",
+      "translation": null
+    },
+    {
+      "time": 174.78,
+      "time_str": "02:54.780",
+      "text": "倘若雨势再蔓延",
+      "translation": null
+    },
+    {
+      "time": 177.71,
+      "time_str": "02:57.710",
+      "text": "能再多看你几眼",
+      "translation": null
+    },
+    {
+      "time": 180.71,
+      "time_str": "03:00.710",
+      "text": "现唯借手绢吻你的脸",
+      "translation": null
+    },
+    {
+      "time": 185.74,
+      "time_str": "03:05.740",
+      "text": "泪水划过我唇边",
+      "translation": null
+    },
+    {
+      "time": 189.3,
+      "time_str": "03:09.300",
+      "text": "笔墨挥洒宣纸砚",
+      "translation": null
+    },
+    {
+      "time": 192.34,
+      "time_str": "03:12.340",
+      "text": "刻画出对你无尽的思念",
+      "translation": null
+    },
+    {
+      "time": 198.0,
+      "time_str": "03:18.000",
+      "text": "如果还能在雨天遇见",
+      "translation": null
+    },
+    {
+      "time": 202.69,
+      "time_str": "03:22.690",
+      "text": "可否能邀画中的仙赏花儿月圆",
+      "translation": null
+    },
+    {
+      "time": 220.6,
+      "time_str": "03:40.600",
+      "text": "青石板的马路边那离别似空间",
+      "translation": null
+    },
+    {
+      "time": 227.36,
+      "time_str": "03:47.360",
+      "text": "勾起我不断对你的思念",
+      "translation": null
+    },
+    {
+      "time": 233.33,
+      "time_str": "03:53.330",
+      "text": "倘若雨势再蔓延",
+      "translation": null
+    },
+    {
+      "time": 236.35,
+      "time_str": "03:56.350",
+      "text": "能再多看你几眼",
+      "translation": null
+    },
+    {
+      "time": 239.33,
+      "time_str": "03:59.330",
+      "text": "现唯借手绢吻你的脸",
+      "translation": null
+    },
+    {
+      "time": 244.72,
+      "time_str": "04:04.720",
+      "text": "泪水划过我唇边",
+      "translation": null
+    },
+    {
+      "time": 247.95,
+      "time_str": "04:07.950",
+      "text": "笔墨挥洒宣纸砚",
+      "translation": null
+    },
+    {
+      "time": 250.92,
+      "time_str": "04:10.920",
+      "text": "刻画出对你无尽的思念",
+      "translation": null
+    },
+    {
+      "time": 256.6,
+      "time_str": "04:16.600",
+      "text": "如果还能在雨天遇见",
+      "translation": null
+    },
+    {
+      "time": 261.5,
+      "time_str": "04:21.500",
+      "text": "可否能邀画中的仙赏花儿月圆",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "画中仙 - 金莎.lrc"
+}

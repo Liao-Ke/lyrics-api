@@ -1,0 +1,256 @@
+{
+  "title": "Beautiful Now",
+  "title_raw": "Beautiful Now",
+  "version": null,
+  "artist": "Zedd,Jon Bellion",
+  "group_key": "beautiful now|zedd,jon bellion",
+  "writers": {
+    "lyricist": "Antonina Armato/Desmond Child/Jonathan Bellion/Anton Zaslavski/David Josteinn/T. Price",
+    "composer": "Antonina Armato/Desmond Child/Jonathan Bellion/Anton Zaslavski/David Josteinn/T. Price",
+    "arranger": "Zedd"
+  },
+  "lyrics": [
+    {
+      "time": 3.05,
+      "time_str": "00:03.050",
+      "text": "I see what you're wearing, there's nothing beneath it",
+      "translation": "我看见了你身着何物，毫无掩映显现于我眼前"
+    },
+    {
+      "time": 6.48,
+      "time_str": "00:06.480",
+      "text": "Forgive me for staring, forgive me for breathing",
+      "translation": "原谅我的不住凝视，原谅我的短暂窒息"
+    },
+    {
+      "time": 10.2,
+      "time_str": "00:10.200",
+      "text": "We might not know why, we might not know how",
+      "translation": "我们可能不知道为何，亦不知道如何"
+    },
+    {
+      "time": 13.96,
+      "time_str": "00:13.960",
+      "text": "But baby, tonight, we're beautiful now",
+      "translation": "但是我的爱人，今晚，我们如此绚烂"
+    },
+    {
+      "time": 17.91,
+      "time_str": "00:17.910",
+      "text": "We're beautiful now",
+      "translation": "我们于此刻最美"
+    },
+    {
+      "time": 21.56,
+      "time_str": "00:21.560",
+      "text": "We're beautiful now",
+      "translation": "我们美在当下"
+    },
+    {
+      "time": 25.4,
+      "time_str": "00:25.400",
+      "text": "We might not know why, we might not know how",
+      "translation": "我们可能不知道为何，亦不知道如何"
+    },
+    {
+      "time": 28.89,
+      "time_str": "00:28.890",
+      "text": "But baby, tonight, we're beautiful now",
+      "translation": "但是我的爱人，今晚，我们如此绚烂"
+    },
+    {
+      "time": 32.66,
+      "time_str": "00:32.660",
+      "text": "We'll light up the sky, we'll open the clouds",
+      "translation": "我们照亮夜空，我们拨开云雾"
+    },
+    {
+      "time": 36.42,
+      "time_str": "00:36.420",
+      "text": "'Cause baby, tonight, we're beautiful now, we're beautiful",
+      "translation": "只因爱人，今晚，你我是如此绚烂耀眼"
+    },
+    {
+      "time": 40.44,
+      "time_str": "00:40.440",
+      "text": "We're beautiful",
+      "translation": "我们如此耀眼"
+    },
+    {
+      "time": 55.41,
+      "time_str": "00:55.410",
+      "text": "We're beautiful",
+      "translation": "我们如此绚丽"
+    },
+    {
+      "time": 70.46,
+      "time_str": "01:10.460",
+      "text": "Wherever it's going, I'm gonna chase it",
+      "translation": "无论目指何处，我将一往无前"
+    },
+    {
+      "time": 73.97,
+      "time_str": "01:13.970",
+      "text": "What's left of this moment, I'm not gonna waste it",
+      "translation": "抓住此刻光阴，莫待时间流逝"
+    },
+    {
+      "time": 77.64,
+      "time_str": "01:17.640",
+      "text": "Stranded together, our worlds have collided",
+      "translation": "如果我们滞留不前，我们的世界将陷于冲突"
+    },
+    {
+      "time": 81.42,
+      "time_str": "01:21.420",
+      "text": "This won't be forever, so why try to fight it",
+      "translation": "然而这并不是永远，为何我们不奋力向前"
+    },
+    {
+      "time": 85.33,
+      "time_str": "01:25.330",
+      "text": "We're beautiful now",
+      "translation": "我们于此刻最美"
+    },
+    {
+      "time": 88.95,
+      "time_str": "01:28.950",
+      "text": "We're beautiful now",
+      "translation": "我们应美在当下"
+    },
+    {
+      "time": 92.79,
+      "time_str": "01:32.790",
+      "text": "We might not know why, we might not know how",
+      "translation": "我们可能不知道为何，亦不知道如何"
+    },
+    {
+      "time": 96.38,
+      "time_str": "01:36.380",
+      "text": "But baby, tonight, we're beautiful now",
+      "translation": "但是我的爱人，今晚，我们如此绚烂"
+    },
+    {
+      "time": 100.32,
+      "time_str": "01:40.320",
+      "text": "We'll light up the sky, we'll open the clouds",
+      "translation": "我们照亮夜空，我们拨开云雾"
+    },
+    {
+      "time": 103.88,
+      "time_str": "01:43.880",
+      "text": "'Cause baby, tonight, we're beautiful now,",
+      "translation": "只因爱人，今晚，你我是如此绚烂耀眼"
+    },
+    {
+      "time": 107.94,
+      "time_str": "01:47.940",
+      "text": "we're beautiful",
+      "translation": "我们如此耀眼"
+    },
+    {
+      "time": 122.84,
+      "time_str": "02:02.840",
+      "text": "We're beautiful",
+      "translation": "我们如此绚丽"
+    },
+    {
+      "time": 154.75,
+      "time_str": "02:34.750",
+      "text": "Let's live tonight like fireflies",
+      "translation": "让我们像萤火虫一般只为今夜"
+    },
+    {
+      "time": 158.4,
+      "time_str": "02:38.400",
+      "text": "And one by one light up the sky",
+      "translation": "一个接一个点燃星星之火"
+    },
+    {
+      "time": 162.19,
+      "time_str": "02:42.190",
+      "text": "We disappear and pass the crown",
+      "translation": "我们虽逝去，火种永不灭"
+    },
+    {
+      "time": 166.0,
+      "time_str": "02:46.000",
+      "text": "You're beautiful, you're beautiful",
+      "translation": "你如此美丽"
+    },
+    {
+      "time": 168.81,
+      "time_str": "02:48.810",
+      "text": "We're beautiful now",
+      "translation": "我们于此刻最美"
+    },
+    {
+      "time": 171.54,
+      "time_str": "02:51.540",
+      "text": "We're beautiful now",
+      "translation": "我们美于此瞬间"
+    },
+    {
+      "time": 175.3,
+      "time_str": "02:55.300",
+      "text": "We're beautiful now",
+      "translation": "我们闪耀于今"
+    },
+    {
+      "time": 179.02,
+      "time_str": "02:59.020",
+      "text": "We're beautiful now",
+      "translation": "我们美在当下"
+    },
+    {
+      "time": 182.88,
+      "time_str": "03:02.880",
+      "text": "We're beautiful",
+      "translation": "我们如此耀眼"
+    },
+    {
+      "time": 189.68,
+      "time_str": "03:09.680",
+      "text": "We're beautiful",
+      "translation": "我们如此绚丽"
+    },
+    {
+      "time": 190.37,
+      "time_str": "03:10.370",
+      "text": "We're beautiful now",
+      "translation": "我们应美在当下"
+    },
+    {
+      "time": 197.97,
+      "time_str": "03:17.970",
+      "text": "We're beautiful now",
+      "translation": "我们于此刻最美"
+    },
+    {
+      "time": 201.52,
+      "time_str": "03:21.520",
+      "text": "We're beautiful now",
+      "translation": "我们美于此瞬间"
+    },
+    {
+      "time": 205.24,
+      "time_str": "03:25.240",
+      "text": "We're beautiful now",
+      "translation": "我们闪耀于今"
+    },
+    {
+      "time": 209.01,
+      "time_str": "03:29.010",
+      "text": "We're beautiful now",
+      "translation": "我们美在当下"
+    },
+    {
+      "time": 212.86,
+      "time_str": "03:32.860",
+      "text": "We're beautiful",
+      "translation": "我们如此耀眼"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Beautiful Now - Zedd,Jon Bellion.lrc"
+}

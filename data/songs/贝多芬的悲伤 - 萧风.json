@@ -1,0 +1,232 @@
+{
+  "title": "贝多芬的悲伤",
+  "title_raw": "贝多芬的悲伤",
+  "version": null,
+  "artist": "萧风",
+  "group_key": "贝多芬的悲伤|萧风",
+  "writers": {
+    "lyricist": "口袋易百",
+    "composer": "郑毅",
+    "arranger": "郑毅"
+  },
+  "lyrics": [
+    {
+      "time": 21.96,
+      "time_str": "00:21.960",
+      "text": "旋律伴随故事响起",
+      "translation": null
+    },
+    {
+      "time": 26.78,
+      "time_str": "00:26.780",
+      "text": "揭开你 不平凡的传记",
+      "translation": null
+    },
+    {
+      "time": 32.25,
+      "time_str": "00:32.250",
+      "text": "在夜里 天使在黎明前降临",
+      "translation": null
+    },
+    {
+      "time": 38.76,
+      "time_str": "00:38.760",
+      "text": "唤醒 充满奇迹的命运",
+      "translation": null
+    },
+    {
+      "time": 43.98,
+      "time_str": "00:43.980",
+      "text": "倾听 爱丽丝的旋律",
+      "translation": null
+    },
+    {
+      "time": 48.72,
+      "time_str": "00:48.720",
+      "text": "若别离 撕毁我写的信",
+      "translation": null
+    },
+    {
+      "time": 54.09,
+      "time_str": "00:54.090",
+      "text": "当序曲 落幕后拆穿的回忆",
+      "translation": null
+    },
+    {
+      "time": 60.74,
+      "time_str": "01:00.740",
+      "text": "抚慰你 心灵悠扬的协奏曲",
+      "translation": null
+    },
+    {
+      "time": 65.54,
+      "time_str": "01:05.540",
+      "text": "在莱茵河畔 贝多芬的悲伤在徜徉",
+      "translation": null
+    },
+    {
+      "time": 71.17,
+      "time_str": "01:11.170",
+      "text": "诙谐夜晚 遗留在波恩城的泪光",
+      "translation": null
+    },
+    {
+      "time": 76.63,
+      "time_str": "01:16.630",
+      "text": "维也纳 推开 窗 风景却如此委婉",
+      "translation": null
+    },
+    {
+      "time": 82.57,
+      "time_str": "01:22.570",
+      "text": "黑白琴键上 谱写华丽的乐章",
+      "translation": null
+    },
+    {
+      "time": 87.53,
+      "time_str": "01:27.530",
+      "text": "在破旧琴房 弹唱出贝多芬的悲伤",
+      "translation": null
+    },
+    {
+      "time": 93.25,
+      "time_str": "01:33.250",
+      "text": "诙谐街上 探望绚烂欲望的橱窗",
+      "translation": null
+    },
+    {
+      "time": 98.67,
+      "time_str": "01:38.670",
+      "text": "小木船 被遗忘 剩下黯淡的月光",
+      "translation": null
+    },
+    {
+      "time": 104.5,
+      "time_str": "01:44.500",
+      "text": "无力哀叹 谁的情绪彷徨 结局被凌乱",
+      "translation": null
+    },
+    {
+      "time": 131.62,
+      "time_str": "02:11.620",
+      "text": "倾听 爱丽丝的旋律",
+      "translation": null
+    },
+    {
+      "time": 136.33,
+      "time_str": "02:16.330",
+      "text": "若别离 撕毁我写的信",
+      "translation": null
+    },
+    {
+      "time": 141.95,
+      "time_str": "02:21.950",
+      "text": "当序曲 落幕后拆穿的回忆",
+      "translation": null
+    },
+    {
+      "time": 148.43,
+      "time_str": "02:28.430",
+      "text": "抚慰你 心灵悠扬的协奏曲",
+      "translation": null
+    },
+    {
+      "time": 153.24,
+      "time_str": "02:33.240",
+      "text": "在莱茵河畔 贝多芬的悲伤在徜徉",
+      "translation": null
+    },
+    {
+      "time": 159.12,
+      "time_str": "02:39.120",
+      "text": "诙谐夜晚 遗留在波恩城的泪光",
+      "translation": null
+    },
+    {
+      "time": 164.49,
+      "time_str": "02:44.490",
+      "text": "维也纳 推开 窗 风景却如此委婉",
+      "translation": null
+    },
+    {
+      "time": 170.49,
+      "time_str": "02:50.490",
+      "text": "黑白琴键上 谱写华丽的乐章",
+      "translation": null
+    },
+    {
+      "time": 175.21,
+      "time_str": "02:55.210",
+      "text": "在破旧琴房 弹唱出贝多芬的悲伤",
+      "translation": null
+    },
+    {
+      "time": 180.92,
+      "time_str": "03:00.920",
+      "text": "诙谐街上 探望绚烂欲望的橱窗",
+      "translation": null
+    },
+    {
+      "time": 186.46,
+      "time_str": "03:06.460",
+      "text": "小木船 被遗忘 剩下黯淡的月光",
+      "translation": null
+    },
+    {
+      "time": 192.36,
+      "time_str": "03:12.360",
+      "text": "无力哀叹 谁的情绪彷徨",
+      "translation": null
+    },
+    {
+      "time": 197.16,
+      "time_str": "03:17.160",
+      "text": "在莱茵河畔 贝多芬的悲伤在徜徉",
+      "translation": null
+    },
+    {
+      "time": 202.87,
+      "time_str": "03:22.870",
+      "text": "诙谐夜晚 遗留在波恩城的泪光",
+      "translation": null
+    },
+    {
+      "time": 208.28,
+      "time_str": "03:28.280",
+      "text": "维也纳 推开 窗 风景却如此委婉",
+      "translation": null
+    },
+    {
+      "time": 214.18,
+      "time_str": "03:34.180",
+      "text": "黑白琴键上 谱写华丽的乐章",
+      "translation": null
+    },
+    {
+      "time": 219.03,
+      "time_str": "03:39.030",
+      "text": "在破旧琴房 弹唱出贝多芬的悲伤",
+      "translation": null
+    },
+    {
+      "time": 224.71,
+      "time_str": "03:44.710",
+      "text": "诙谐街上 探望绚烂欲望的橱窗",
+      "translation": null
+    },
+    {
+      "time": 230.16,
+      "time_str": "03:50.160",
+      "text": "小木船 被遗忘 剩下黯淡的月光",
+      "translation": null
+    },
+    {
+      "time": 236.37,
+      "time_str": "03:56.370",
+      "text": "无力哀叹 谁的情绪彷徨 结局被凌乱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "贝多芬的悲伤 - 萧风.lrc"
+}

@@ -1,0 +1,568 @@
+{
+  "title": "Edge of My Life",
+  "title_raw": "Edge of My Life",
+  "version": null,
+  "artist": "Manafest",
+  "group_key": "edge of my life|manafest",
+  "writers": {
+    "lyricist": "Manafest/Christopher Greenwood",
+    "composer": "Manafest/Christopher Greenwood",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.64,
+      "time_str": "00:01.640",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 3.28,
+      "time_str": "00:03.280",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 5.55,
+      "time_str": "00:05.550",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 7.92,
+      "time_str": "00:07.920",
+      "text": "My life yeah",
+      "translation": "我的生活啊"
+    },
+    {
+      "time": 10.14,
+      "time_str": "00:10.140",
+      "text": "Last dollar just got spent",
+      "translation": "最后一美元刚刚花完"
+    },
+    {
+      "time": 11.71,
+      "time_str": "00:11.710",
+      "text": "First of the month comes",
+      "translation": "月初又要到了"
+    },
+    {
+      "time": 12.96,
+      "time_str": "00:12.960",
+      "text": "Got to pay rent",
+      "translation": "我得去交房租"
+    },
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "Where'd the money go",
+      "translation": "钱都去哪里了"
+    },
+    {
+      "time": 14.93,
+      "time_str": "00:14.930",
+      "text": "Slipping through my hands",
+      "translation": "就这么从我手里溜走了"
+    },
+    {
+      "time": 16.89,
+      "time_str": "00:16.890",
+      "text": "I'm working with these hands",
+      "translation": "从我用来工作的双手里"
+    },
+    {
+      "time": 19.2,
+      "time_str": "00:19.200",
+      "text": "Little Johnny needs a lunch box",
+      "translation": "小强尼要买一个午餐盒"
+    },
+    {
+      "time": 20.89,
+      "time_str": "00:20.890",
+      "text": "Little Susy needs clothes it won't stop",
+      "translation": "小苏西还要买衣服了 但这远远不够"
+    },
+    {
+      "time": 23.15,
+      "time_str": "00:23.150",
+      "text": "Banks calling us up",
+      "translation": "银行要来打电话催款了"
+    },
+    {
+      "time": 24.46,
+      "time_str": "00:24.460",
+      "text": "And they don't care",
+      "translation": "他们才不会管你的死活"
+    },
+    {
+      "time": 26.02,
+      "time_str": "00:26.020",
+      "text": "It's more than I can bear",
+      "translation": "我已经忍无可忍了"
+    },
+    {
+      "time": 28.28,
+      "time_str": "00:28.280",
+      "text": "I gotta gotta believe",
+      "translation": "我一定一定要坚信"
+    },
+    {
+      "time": 30.6,
+      "time_str": "00:30.600",
+      "text": "I can more than survive",
+      "translation": "我还可以活下去"
+    },
+    {
+      "time": 33.09,
+      "time_str": "00:33.090",
+      "text": "Still one trick up my sleeve",
+      "translation": "我还有一招绝技"
+    },
+    {
+      "time": 35.19,
+      "time_str": "00:35.190",
+      "text": "We're gonna make this one shine",
+      "translation": "我们一定可以获得光明"
+    },
+    {
+      "time": 37.47,
+      "time_str": "00:37.470",
+      "text": "I gotta gotta believe",
+      "translation": "我一定一定要坚信"
+    },
+    {
+      "time": 40.08,
+      "time_str": "00:40.080",
+      "text": "I can more then survive",
+      "translation": "我还可以活下去"
+    },
+    {
+      "time": 42.08,
+      "time_str": "00:42.080",
+      "text": "Still one trick up my sleeve",
+      "translation": "我还有一招绝技"
+    },
+    {
+      "time": 44.32,
+      "time_str": "00:44.320",
+      "text": "We're gonna make this one shine",
+      "translation": "我们一定可以获得光明"
+    },
+    {
+      "time": 46.9,
+      "time_str": "00:46.900",
+      "text": "I I'm at the edge of my life",
+      "translation": "我在绝望的生活边缘挣扎着"
+    },
+    {
+      "time": 50.14,
+      "time_str": "00:50.140",
+      "text": "I got no time to think twice",
+      "translation": "我已经没时间再多想了"
+    },
+    {
+      "time": 52.75,
+      "time_str": "00:52.750",
+      "text": "When I'm standing with the weight",
+      "translation": "当我不堪重负的时候"
+    },
+    {
+      "time": 54.0,
+      "time_str": "00:54.000",
+      "text": "Of the world on my shoulders",
+      "translation": "我背负着全世界的希望"
+    },
+    {
+      "time": 56.28,
+      "time_str": "00:56.280",
+      "text": "I I'm gonna fight the good fight",
+      "translation": "我一定要好好拼一把"
+    },
+    {
+      "time": 59.16,
+      "time_str": "00:59.160",
+      "text": "'Cause I I know I'll get by",
+      "translation": "因为我知道我一定可以活下去"
+    },
+    {
+      "time": 61.77,
+      "time_str": "01:01.770",
+      "text": "When I battle every day through the pain",
+      "translation": "当我每天在与痛苦争斗的时候"
+    },
+    {
+      "time": 63.76,
+      "time_str": "01:03.760",
+      "text": "Like a soldier",
+      "translation": "就像是一个战士"
+    },
+    {
+      "time": 64.93,
+      "time_str": "01:04.930",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 67.19,
+      "time_str": "01:07.190",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 69.49,
+      "time_str": "01:09.490",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 72.23,
+      "time_str": "01:12.230",
+      "text": "My life yeah",
+      "translation": "我的生活啊"
+    },
+    {
+      "time": 73.91,
+      "time_str": "01:13.910",
+      "text": "Mom crying on the sofa",
+      "translation": "妈妈在沙发上哭泣"
+    },
+    {
+      "time": 75.79,
+      "time_str": "01:15.790",
+      "text": "Dad comes home but he's not sober",
+      "translation": "爸爸回家了，但是酩酊大醉"
+    },
+    {
+      "time": 77.99,
+      "time_str": "01:17.990",
+      "text": "Where'd the family go",
+      "translation": "这个家庭将要何去何从"
+    },
+    {
+      "time": 78.92,
+      "time_str": "01:18.920",
+      "text": "Up in smoke again",
+      "translation": "又将要硝烟四起"
+    },
+    {
+      "time": 80.88,
+      "time_str": "01:20.880",
+      "text": "Feels just like sinking sand",
+      "translation": "散沙一样的无力感涌来"
+    },
+    {
+      "time": 83.12,
+      "time_str": "01:23.120",
+      "text": "Heard shouts in the backyard",
+      "translation": "后院传来刺耳的叫喊"
+    },
+    {
+      "time": 85.07,
+      "time_str": "01:25.070",
+      "text": "Sirens ringing from a cop car",
+      "translation": "警笛声响了起来"
+    },
+    {
+      "time": 87.08,
+      "time_str": "01:27.080",
+      "text": "It's a rough day",
+      "translation": "多么艰难的一天"
+    },
+    {
+      "time": 88.12,
+      "time_str": "01:28.120",
+      "text": "For this family man",
+      "translation": "为了这个有家室的男人"
+    },
+    {
+      "time": 89.97,
+      "time_str": "01:29.970",
+      "text": "I'm praying with these hands",
+      "translation": "我双手祷告"
+    },
+    {
+      "time": 92.29,
+      "time_str": "01:32.290",
+      "text": "I gotta gotta believe",
+      "translation": "我一定一定要坚信"
+    },
+    {
+      "time": 94.99,
+      "time_str": "01:34.990",
+      "text": "I can more then survive",
+      "translation": "我还可以活下去"
+    },
+    {
+      "time": 97.1,
+      "time_str": "01:37.100",
+      "text": "Still one trick up my sleeve",
+      "translation": "我还有一招绝技"
+    },
+    {
+      "time": 99.23,
+      "time_str": "01:39.230",
+      "text": "We're gonna make this one shine",
+      "translation": "我们一定会获得光明"
+    },
+    {
+      "time": 101.52,
+      "time_str": "01:41.520",
+      "text": "I gotta gotta believe",
+      "translation": "我一定一定要坚信"
+    },
+    {
+      "time": 104.06,
+      "time_str": "01:44.060",
+      "text": "I can more then survive",
+      "translation": "我还可以活下去"
+    },
+    {
+      "time": 106.18,
+      "time_str": "01:46.180",
+      "text": "Still one trick up my sleeve",
+      "translation": "我还有一招绝技"
+    },
+    {
+      "time": 108.35,
+      "time_str": "01:48.350",
+      "text": "We're gonna make this one shine",
+      "translation": "我们一定可以获得光明"
+    },
+    {
+      "time": 110.93,
+      "time_str": "01:50.930",
+      "text": "I I'm at the edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 114.09,
+      "time_str": "01:54.090",
+      "text": "I got no time to think twice",
+      "translation": "我已经没时间再多想了"
+    },
+    {
+      "time": 116.72,
+      "time_str": "01:56.720",
+      "text": "When I'm standing with the weight",
+      "translation": "当我不堪重负的时候"
+    },
+    {
+      "time": 117.97,
+      "time_str": "01:57.970",
+      "text": "Of the world on my shoulders",
+      "translation": "我背负着全家的希望"
+    },
+    {
+      "time": 120.29,
+      "time_str": "02:00.290",
+      "text": "I I'm gonna fight the good fight",
+      "translation": "我一定要好好拼一把"
+    },
+    {
+      "time": 123.11,
+      "time_str": "02:03.110",
+      "text": "'Cause I I know I'll get by",
+      "translation": "因为我知道我一定可以活下去"
+    },
+    {
+      "time": 125.62,
+      "time_str": "02:05.620",
+      "text": "When I battle every day through the pain",
+      "translation": "当我每天在与痛苦争斗的时候"
+    },
+    {
+      "time": 127.73,
+      "time_str": "02:07.730",
+      "text": "Like a soldier",
+      "translation": "就像是一个战士"
+    },
+    {
+      "time": 128.88,
+      "time_str": "02:08.880",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 131.17,
+      "time_str": "02:11.170",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 133.46,
+      "time_str": "02:13.460",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 135.96,
+      "time_str": "02:15.960",
+      "text": "My life",
+      "translation": "我的生活"
+    },
+    {
+      "time": 137.93,
+      "time_str": "02:17.930",
+      "text": "Just don't look down",
+      "translation": "只要不放弃希望"
+    },
+    {
+      "time": 142.0,
+      "time_str": "02:22.000",
+      "text": "And you'll never fall",
+      "translation": "你将永远不会被打倒"
+    },
+    {
+      "time": 147.36,
+      "time_str": "02:27.360",
+      "text": "I gotta gotta believe",
+      "translation": "我一定一定要坚信"
+    },
+    {
+      "time": 149.76,
+      "time_str": "02:29.760",
+      "text": "I can more then survive",
+      "translation": "我还可以活下去"
+    },
+    {
+      "time": 151.98,
+      "time_str": "02:31.980",
+      "text": "Still one trick up my sleeve",
+      "translation": "我还有一招绝技"
+    },
+    {
+      "time": 154.05,
+      "time_str": "02:34.050",
+      "text": "We're gonna make this one shine",
+      "translation": "我们一定可以获得光明"
+    },
+    {
+      "time": 156.33,
+      "time_str": "02:36.330",
+      "text": "I gotta gotta believe",
+      "translation": "我一定一定要坚信"
+    },
+    {
+      "time": 158.88,
+      "time_str": "02:38.880",
+      "text": "I can more then survive",
+      "translation": "我还可以活下去"
+    },
+    {
+      "time": 161.02,
+      "time_str": "02:41.020",
+      "text": "Still one trick up my sleeve",
+      "translation": "我还有一招绝技"
+    },
+    {
+      "time": 165.78,
+      "time_str": "02:45.780",
+      "text": "I I'm at the edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 168.86,
+      "time_str": "02:48.860",
+      "text": "I got no time to think twice",
+      "translation": "我已经没有时间再多想了"
+    },
+    {
+      "time": 171.61,
+      "time_str": "02:51.610",
+      "text": "When I'm standing with the weight",
+      "translation": "当我不堪重负的时候"
+    },
+    {
+      "time": 172.88,
+      "time_str": "02:52.880",
+      "text": "Of the world on my shoulders",
+      "translation": "我背负着全家的希望"
+    },
+    {
+      "time": 175.1,
+      "time_str": "02:55.100",
+      "text": "I I'm gonna fight the good fight",
+      "translation": "我一定要好好拼一把"
+    },
+    {
+      "time": 178.01,
+      "time_str": "02:58.010",
+      "text": "'Cause I I know I'll get by",
+      "translation": "因为我知道我一定可以活下去"
+    },
+    {
+      "time": 180.56,
+      "time_str": "03:00.560",
+      "text": "When I battle every day through the pain",
+      "translation": "当我每天在与痛苦争斗的时候"
+    },
+    {
+      "time": 182.62,
+      "time_str": "03:02.620",
+      "text": "Like a soldier",
+      "translation": "就像是一个战士"
+    },
+    {
+      "time": 183.74,
+      "time_str": "03:03.740",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 185.99,
+      "time_str": "03:05.990",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 188.27,
+      "time_str": "03:08.270",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 190.91,
+      "time_str": "03:10.910",
+      "text": "My life",
+      "translation": "我的生活"
+    },
+    {
+      "time": 192.83,
+      "time_str": "03:12.830",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 195.2,
+      "time_str": "03:15.200",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 197.49,
+      "time_str": "03:17.490",
+      "text": "Edge of my life",
+      "translation": "我在绝望的生活边缘挣扎"
+    },
+    {
+      "time": 199.97,
+      "time_str": "03:19.970",
+      "text": "My life",
+      "translation": "我的生活"
+    },
+    {
+      "time": 204.08,
+      "time_str": "03:24.080",
+      "text": "standing on the edge of my life",
+      "translation": "站在我生活的边缘"
+    },
+    {
+      "time": 207.78,
+      "time_str": "03:27.780",
+      "text": "Don't fall down",
+      "translation": "不要倒下"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Edge of My Life - Manafest.lrc"
+}

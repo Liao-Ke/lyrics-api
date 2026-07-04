@@ -1,0 +1,238 @@
+{
+  "title": "同桌的你",
+  "title_raw": "同桌的你",
+  "version": null,
+  "artist": "胡夏",
+  "group_key": "同桌的你|胡夏",
+  "writers": {
+    "lyricist": "高晓松",
+    "composer": "高晓松",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.13,
+      "time_str": "00:02.130",
+      "text": "明天你是否会想起",
+      "translation": null
+    },
+    {
+      "time": 5.76,
+      "time_str": "00:05.760",
+      "text": "昨天你写的日记",
+      "translation": null
+    },
+    {
+      "time": 9.42,
+      "time_str": "00:09.420",
+      "text": "明天你是否还惦记",
+      "translation": null
+    },
+    {
+      "time": 12.97,
+      "time_str": "00:12.970",
+      "text": "曾经最爱哭的你",
+      "translation": null
+    },
+    {
+      "time": 16.8,
+      "time_str": "00:16.800",
+      "text": "老师们都已想不起",
+      "translation": null
+    },
+    {
+      "time": 20.4,
+      "time_str": "00:20.400",
+      "text": "猜不出问题的你",
+      "translation": null
+    },
+    {
+      "time": 24.03,
+      "time_str": "00:24.030",
+      "text": "我也是偶然翻相片",
+      "translation": null
+    },
+    {
+      "time": 27.72,
+      "time_str": "00:27.720",
+      "text": "才想起同桌的你",
+      "translation": null
+    },
+    {
+      "time": 31.38,
+      "time_str": "00:31.380",
+      "text": "谁娶了多愁善感的你",
+      "translation": null
+    },
+    {
+      "time": 35.11,
+      "time_str": "00:35.110",
+      "text": "谁看了你的日记",
+      "translation": null
+    },
+    {
+      "time": 38.69,
+      "time_str": "00:38.690",
+      "text": "谁把你的长发盘起",
+      "translation": null
+    },
+    {
+      "time": 42.4,
+      "time_str": "00:42.400",
+      "text": "谁给你做的嫁衣",
+      "translation": null
+    },
+    {
+      "time": 74.79,
+      "time_str": "01:14.790",
+      "text": "你从前总是很小心",
+      "translation": null
+    },
+    {
+      "time": 78.36,
+      "time_str": "01:18.360",
+      "text": "问我借半块橡皮",
+      "translation": null
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "你也曾无意中说起",
+      "translation": null
+    },
+    {
+      "time": 85.6,
+      "time_str": "01:25.600",
+      "text": "喜欢跟我在一起",
+      "translation": null
+    },
+    {
+      "time": 89.62,
+      "time_str": "01:29.620",
+      "text": "那时候天总是很蓝",
+      "translation": null
+    },
+    {
+      "time": 93.05,
+      "time_str": "01:33.050",
+      "text": "日子总过得太慢",
+      "translation": null
+    },
+    {
+      "time": 96.62,
+      "time_str": "01:36.620",
+      "text": "你总说毕业遥遥无期",
+      "translation": null
+    },
+    {
+      "time": 100.3,
+      "time_str": "01:40.300",
+      "text": "转眼就各奔东西",
+      "translation": null
+    },
+    {
+      "time": 103.98,
+      "time_str": "01:43.980",
+      "text": "谁遇到多愁善感的你",
+      "translation": null
+    },
+    {
+      "time": 107.73,
+      "time_str": "01:47.730",
+      "text": "谁安慰爱哭的你",
+      "translation": null
+    },
+    {
+      "time": 111.4,
+      "time_str": "01:51.400",
+      "text": "谁看了我给你写的信",
+      "translation": null
+    },
+    {
+      "time": 114.93,
+      "time_str": "01:54.930",
+      "text": "谁把它丢在风里",
+      "translation": null
+    },
+    {
+      "time": 162.83,
+      "time_str": "02:42.830",
+      "text": "从前的日子都远去",
+      "translation": null
+    },
+    {
+      "time": 166.29,
+      "time_str": "02:46.290",
+      "text": "我也会有我的妻",
+      "translation": null
+    },
+    {
+      "time": 170.02,
+      "time_str": "02:50.020",
+      "text": "我也会给她看相片",
+      "translation": null
+    },
+    {
+      "time": 173.63,
+      "time_str": "02:53.630",
+      "text": "给她讲同桌的你",
+      "translation": null
+    },
+    {
+      "time": 177.38,
+      "time_str": "02:57.380",
+      "text": "谁娶了多愁善感的你",
+      "translation": null
+    },
+    {
+      "time": 181.07,
+      "time_str": "03:01.070",
+      "text": "谁安慰爱哭的你",
+      "translation": null
+    },
+    {
+      "time": 184.67,
+      "time_str": "03:04.670",
+      "text": "谁把你的长发盘起",
+      "translation": null
+    },
+    {
+      "time": 188.29,
+      "time_str": "03:08.290",
+      "text": "谁给你做的嫁衣",
+      "translation": null
+    },
+    {
+      "time": 209.82,
+      "time_str": "03:29.820",
+      "text": "谁娶了多愁善感的你",
+      "translation": null
+    },
+    {
+      "time": 213.45,
+      "time_str": "03:33.450",
+      "text": "谁安慰爱哭的你",
+      "translation": null
+    },
+    {
+      "time": 216.99,
+      "time_str": "03:36.990",
+      "text": "谁把你的长发盘起",
+      "translation": null
+    },
+    {
+      "time": 220.68,
+      "time_str": "03:40.680",
+      "text": "谁给你做的嫁衣",
+      "translation": null
+    },
+    {
+      "time": 225.78,
+      "time_str": "03:45.780",
+      "text": "啦~~~~~~~~",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "同桌的你 - 胡夏.lrc"
+}

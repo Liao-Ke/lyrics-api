@@ -1,0 +1,328 @@
+{
+  "title": "怀念",
+  "title_raw": "怀念",
+  "version": null,
+  "artist": "王菲",
+  "group_key": "怀念|王菲",
+  "writers": {
+    "lyricist": "黄伟文",
+    "composer": "Robin Guthrie/Elizabeth Fraser/Simon Raymonde/Cocteau Twins",
+    "arranger": "张亚东"
+  },
+  "lyrics": [
+    {
+      "time": 21.59,
+      "time_str": "00:21.590",
+      "text": "关起满室",
+      "translation": null
+    },
+    {
+      "time": 24.12,
+      "time_str": "00:24.120",
+      "text": "不足的氧气",
+      "translation": null
+    },
+    {
+      "time": 26.84,
+      "time_str": "00:26.840",
+      "text": "点着烟蒂",
+      "translation": null
+    },
+    {
+      "time": 29.12,
+      "time_str": "00:29.120",
+      "text": "回味你的呼吸",
+      "translation": null
+    },
+    {
+      "time": 32.34,
+      "time_str": "00:32.340",
+      "text": "搜索脑里",
+      "translation": null
+    },
+    {
+      "time": 34.76,
+      "time_str": "00:34.760",
+      "text": "未完的龃龉",
+      "translation": null
+    },
+    {
+      "time": 37.48,
+      "time_str": "00:37.480",
+      "text": "对着空气",
+      "translation": null
+    },
+    {
+      "time": 39.66,
+      "time_str": "00:39.660",
+      "text": "还击着你的问题",
+      "translation": null
+    },
+    {
+      "time": 42.98,
+      "time_str": "00:42.980",
+      "text": "推辞每次",
+      "translation": null
+    },
+    {
+      "time": 45.37,
+      "time_str": "00:45.370",
+      "text": "真实的相聚",
+      "translation": null
+    },
+    {
+      "time": 48.19,
+      "time_str": "00:48.190",
+      "text": "困着自己",
+      "translation": null
+    },
+    {
+      "time": 50.26,
+      "time_str": "00:50.260",
+      "text": "渴望着你的消息",
+      "translation": null
+    },
+    {
+      "time": 53.74,
+      "time_str": "00:53.740",
+      "text": "沾沾自喜",
+      "translation": null
+    },
+    {
+      "time": 56.21,
+      "time_str": "00:56.210",
+      "text": "拒绝的魅力",
+      "translation": null
+    },
+    {
+      "time": 58.89,
+      "time_str": "00:58.890",
+      "text": "不着痕迹",
+      "translation": null
+    },
+    {
+      "time": 61.04,
+      "time_str": "01:01.040",
+      "text": "享受着与你的距离",
+      "translation": null
+    },
+    {
+      "time": 65.06,
+      "time_str": "01:05.060",
+      "text": "也许喜欢怀念你",
+      "translation": null
+    },
+    {
+      "time": 68.89,
+      "time_str": "01:08.890",
+      "text": "多于看见你",
+      "translation": null
+    },
+    {
+      "time": 75.25,
+      "time_str": "01:15.250",
+      "text": "我也许喜欢想象你",
+      "translation": null
+    },
+    {
+      "time": 79.54,
+      "time_str": "01:19.540",
+      "text": "多于得到你",
+      "translation": null
+    },
+    {
+      "time": 85.06,
+      "time_str": "01:25.060",
+      "text": "我关起满室",
+      "translation": null
+    },
+    {
+      "time": 88.13,
+      "time_str": "01:28.130",
+      "text": "不足的氧气",
+      "translation": null
+    },
+    {
+      "time": 90.91,
+      "time_str": "01:30.910",
+      "text": "点着烟蒂",
+      "translation": null
+    },
+    {
+      "time": 93.14,
+      "time_str": "01:33.140",
+      "text": "回味你的呼吸",
+      "translation": null
+    },
+    {
+      "time": 96.22,
+      "time_str": "01:36.220",
+      "text": "散落一地",
+      "translation": null
+    },
+    {
+      "time": 98.84,
+      "time_str": "01:38.840",
+      "text": "断续的谜语",
+      "translation": null
+    },
+    {
+      "time": 101.62,
+      "time_str": "01:41.620",
+      "text": "对着空气",
+      "translation": null
+    },
+    {
+      "time": 103.72,
+      "time_str": "01:43.720",
+      "text": "还击着你的问题",
+      "translation": null
+    },
+    {
+      "time": 107.06,
+      "time_str": "01:47.060",
+      "text": "推辞每次",
+      "translation": null
+    },
+    {
+      "time": 109.49,
+      "time_str": "01:49.490",
+      "text": "真实的相聚",
+      "translation": null
+    },
+    {
+      "time": 112.23,
+      "time_str": "01:52.230",
+      "text": "困着自己",
+      "translation": null
+    },
+    {
+      "time": 114.08,
+      "time_str": "01:54.080",
+      "text": "渴望着你的消息",
+      "translation": null
+    },
+    {
+      "time": 117.53,
+      "time_str": "01:57.530",
+      "text": "翻来覆去",
+      "translation": null
+    },
+    {
+      "time": 120.1,
+      "time_str": "02:00.100",
+      "text": "甜蜜的怀疑",
+      "translation": null
+    },
+    {
+      "time": 123.24,
+      "time_str": "02:03.240",
+      "text": "故作神秘",
+      "translation": null
+    },
+    {
+      "time": 125.0,
+      "time_str": "02:05.000",
+      "text": "延续着你的好奇",
+      "translation": null
+    },
+    {
+      "time": 128.91,
+      "time_str": "02:08.910",
+      "text": "也许喜欢怀念你",
+      "translation": null
+    },
+    {
+      "time": 133.0,
+      "time_str": "02:13.000",
+      "text": "多于看见你",
+      "translation": null
+    },
+    {
+      "time": 139.48,
+      "time_str": "02:19.480",
+      "text": "我也许喜欢想象你",
+      "translation": null
+    },
+    {
+      "time": 143.47,
+      "time_str": "02:23.470",
+      "text": "不需要抱着你",
+      "translation": null
+    },
+    {
+      "time": 148.98,
+      "time_str": "02:28.980",
+      "text": "Ah ...",
+      "translation": null
+    },
+    {
+      "time": 155.03,
+      "time_str": "02:35.030",
+      "text": "Ah ...",
+      "translation": null
+    },
+    {
+      "time": 160.79,
+      "time_str": "02:40.790",
+      "text": "Ah ...",
+      "translation": null
+    },
+    {
+      "time": 165.43,
+      "time_str": "02:45.430",
+      "text": "Ah ...",
+      "translation": null
+    },
+    {
+      "time": 166.95,
+      "time_str": "02:46.950",
+      "text": "Ah ...",
+      "translation": null
+    },
+    {
+      "time": 168.36,
+      "time_str": "02:48.360",
+      "text": "Ah ...",
+      "translation": null
+    },
+    {
+      "time": 169.71,
+      "time_str": "02:49.710",
+      "text": "Ah ...",
+      "translation": null
+    },
+    {
+      "time": 171.56,
+      "time_str": "02:51.560",
+      "text": "也许喜欢怀念你",
+      "translation": null
+    },
+    {
+      "time": 175.6,
+      "time_str": "02:55.600",
+      "text": "多于看见你",
+      "translation": null
+    },
+    {
+      "time": 182.24,
+      "time_str": "03:02.240",
+      "text": "我也许喜欢想象你",
+      "translation": null
+    },
+    {
+      "time": 186.35,
+      "time_str": "03:06.350",
+      "text": "受不了真一起",
+      "translation": null
+    },
+    {
+      "time": 191.49,
+      "time_str": "03:11.490",
+      "text": "Ah ...",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "怀念 - 王菲.lrc"
+}

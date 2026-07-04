@@ -1,0 +1,298 @@
+{
+  "title": "GQ",
+  "title_raw": "GQ",
+  "version": null,
+  "artist": "Lola Coca",
+  "group_key": "gq|lola coca",
+  "writers": {
+    "lyricist": "Andy Hill",
+    "composer": "Rory J. Nelson",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.18,
+      "time_str": "00:02.180",
+      "text": "You're a man without a backbone",
+      "translation": "你个没脊梁的男人"
+    },
+    {
+      "time": 4.38,
+      "time_str": "00:04.380",
+      "text": "I see you're looking for a window",
+      "translation": "我看你想找个地缝钻进去吧"
+    },
+    {
+      "time": 7.38,
+      "time_str": "00:07.380",
+      "text": "You really think you're something special",
+      "translation": "你真以为你挺特殊"
+    },
+    {
+      "time": 10.09,
+      "time_str": "00:10.090",
+      "text": "And think you're hot but acting so cold",
+      "translation": "以为自己很性感很酷吗"
+    },
+    {
+      "time": 12.86,
+      "time_str": "00:12.860",
+      "text": "That rock 'n rock don't really loose my soul",
+      "translation": "你这种摇滚风老娘并不稀罕"
+    },
+    {
+      "time": 15.65,
+      "time_str": "00:15.650",
+      "text": "You're a budget Elvis Costello",
+      "translation": "你就是个超低配的猫王"
+    },
+    {
+      "time": 18.52,
+      "time_str": "00:18.520",
+      "text": "Baby, you deserve a medal",
+      "translation": "小伙子我真想给你发个奖牌"
+    },
+    {
+      "time": 21.25,
+      "time_str": "00:21.250",
+      "text": "For being number one asshole",
+      "translation": "因为你是最混的一个"
+    },
+    {
+      "time": 25.29,
+      "time_str": "00:25.290",
+      "text": "Stop wasting my time",
+      "translation": "别浪费老娘的时间了"
+    },
+    {
+      "time": 29.61,
+      "time_str": "00:29.610",
+      "text": "Even on the cover of GQ",
+      "translation": "就算你上了GQ封面"
+    },
+    {
+      "time": 32.22,
+      "time_str": "00:32.220",
+      "text": "I am never going home with you",
+      "translation": "老娘也不会和你回家的"
+    },
+    {
+      "time": 35.02,
+      "time_str": "00:35.020",
+      "text": "A leather jacket don't impress me",
+      "translation": "皮夹克并不能给我留什么印象"
+    },
+    {
+      "time": 37.71,
+      "time_str": "00:37.710",
+      "text": "I'm not a fool",
+      "translation": "老娘又不是个傻子"
+    },
+    {
+      "time": 38.33,
+      "time_str": "00:38.330",
+      "text": "I'm not a fool",
+      "translation": "老娘又不是个傻子"
+    },
+    {
+      "time": 40.49,
+      "time_str": "00:40.490",
+      "text": "I'm kinda different to the girl-next-door",
+      "translation": "老娘和隔壁的傻白甜还是不一样的"
+    },
+    {
+      "time": 43.4,
+      "time_str": "00:43.400",
+      "text": "I'm looking for something more",
+      "translation": "老娘找的不只是这些"
+    },
+    {
+      "time": 46.21,
+      "time_str": "00:46.210",
+      "text": "You're barking up the wrong tree",
+      "translation": "你的绳子挂错树了"
+    },
+    {
+      "time": 49.16,
+      "time_str": "00:49.160",
+      "text": "Shh！Girl please",
+      "translation": "小傻子"
+    },
+    {
+      "time": 51.88,
+      "time_str": "00:51.880",
+      "text": "Rescue me",
+      "translation": "救救我吧"
+    },
+    {
+      "time": 57.05,
+      "time_str": "00:57.050",
+      "text": "You're the legend of your lunch hour",
+      "translation": "你也就在你的地盘风光风光"
+    },
+    {
+      "time": 59.71,
+      "time_str": "00:59.710",
+      "text": "Over me you bear no power",
+      "translation": "在老娘这你啥都不是"
+    },
+    {
+      "time": 62.82,
+      "time_str": "01:02.820",
+      "text": "You'll never get a smidge from  me",
+      "translation": "你休想从我这得到啥了"
+    },
+    {
+      "time": 65.32,
+      "time_str": "01:05.320",
+      "text": "Acting like a chief on me",
+      "translation": "装的像回事似的"
+    },
+    {
+      "time": 67.83,
+      "time_str": "01:07.830",
+      "text": "I bet you'd like to see me on my knees",
+      "translation": "你大概还在YY我屈服你淫威下的样子吧"
+    },
+    {
+      "time": 70.68,
+      "time_str": "01:10.680",
+      "text": "This ain't reality MTV",
+      "translation": "这又不是真人秀"
+    },
+    {
+      "time": 73.2,
+      "time_str": "01:13.200",
+      "text": "Another reject from the city",
+      "translation": "你已经不在老娘的视野内了"
+    },
+    {
+      "time": 76.27,
+      "time_str": "01:16.270",
+      "text": "I only listen out of pity",
+      "translation": "听你说话只是出于怜悯而已"
+    },
+    {
+      "time": 80.0,
+      "time_str": "01:20.000",
+      "text": "Stop wasting my time",
+      "translation": "别浪费老娘的时间了"
+    },
+    {
+      "time": 84.48,
+      "time_str": "01:24.480",
+      "text": "Even on the cover of GQ",
+      "translation": "就算你上了GQ封面"
+    },
+    {
+      "time": 87.19,
+      "time_str": "01:27.190",
+      "text": "I am never going home with you",
+      "translation": "老娘也不会和你回家的"
+    },
+    {
+      "time": 89.94,
+      "time_str": "01:29.940",
+      "text": "A leather jacket don't impress me",
+      "translation": "皮夹克并不能给我留什么印象"
+    },
+    {
+      "time": 92.76,
+      "time_str": "01:32.760",
+      "text": "I'm not a fool",
+      "translation": "老娘又不是个傻子"
+    },
+    {
+      "time": 95.53,
+      "time_str": "01:35.530",
+      "text": "I'm kinda different to the girl-next-door",
+      "translation": "老娘和隔壁的傻白甜还是不一样的"
+    },
+    {
+      "time": 98.04,
+      "time_str": "01:38.040",
+      "text": "I'm looking for something more",
+      "translation": "老娘找的不只是这些"
+    },
+    {
+      "time": 100.7,
+      "time_str": "01:40.700",
+      "text": "You're barking up the wrong tree",
+      "translation": "你的绳子挂错树了"
+    },
+    {
+      "time": 103.91,
+      "time_str": "01:43.910",
+      "text": "Shh！Girl please",
+      "translation": "小傻子"
+    },
+    {
+      "time": 106.62,
+      "time_str": "01:46.620",
+      "text": "Rescue me",
+      "translation": "救救我吧"
+    },
+    {
+      "time": 129.91,
+      "time_str": "02:09.910",
+      "text": "Stop wasting my time",
+      "translation": "别浪费老娘的时间了"
+    },
+    {
+      "time": 134.14,
+      "time_str": "02:14.140",
+      "text": "Even on the cover of GQ",
+      "translation": "就算你上了GQ封面"
+    },
+    {
+      "time": 136.95,
+      "time_str": "02:16.950",
+      "text": "I am never going home with you",
+      "translation": "老娘也不会和你回家的"
+    },
+    {
+      "time": 139.72,
+      "time_str": "02:19.720",
+      "text": "A leather jacket don't impress me",
+      "translation": "皮夹克并不能给我留什么印象"
+    },
+    {
+      "time": 143.42,
+      "time_str": "02:23.420",
+      "text": "I'm not a fool",
+      "translation": "老娘又不是个傻子"
+    },
+    {
+      "time": 145.27,
+      "time_str": "02:25.270",
+      "text": "I'm kinda different to the girl-next-door",
+      "translation": "老娘和隔壁的傻白甜还是不一样的"
+    },
+    {
+      "time": 148.04,
+      "time_str": "02:28.040",
+      "text": "I'm looking for something more",
+      "translation": "老娘找的不只是这些"
+    },
+    {
+      "time": 150.86,
+      "time_str": "02:30.860",
+      "text": "You're barking up the wrong tree",
+      "translation": "你的绳子挂错树了"
+    },
+    {
+      "time": 153.83,
+      "time_str": "02:33.830",
+      "text": "Shh！Girl please",
+      "translation": "小傻子"
+    },
+    {
+      "time": 156.54,
+      "time_str": "02:36.540",
+      "text": "Rescue me",
+      "translation": "救救我吧"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "GQ - Lola Coca.lrc"
+}

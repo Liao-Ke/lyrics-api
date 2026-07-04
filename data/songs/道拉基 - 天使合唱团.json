@@ -1,0 +1,118 @@
+{
+  "title": "道拉基",
+  "title_raw": "道拉基",
+  "version": null,
+  "artist": "天使合唱团",
+  "group_key": "道拉基|天使合唱团",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 32.13,
+      "time_str": "00:32.130",
+      "text": "道拉基道拉基道拉基",
+      "translation": null
+    },
+    {
+      "time": 38.46,
+      "time_str": "00:38.460",
+      "text": "白白的桔梗哟长满山野",
+      "translation": null
+    },
+    {
+      "time": 46.14,
+      "time_str": "00:46.140",
+      "text": "只要挖出一两根 就可以装满我的小菜筐",
+      "translation": null
+    },
+    {
+      "time": 59.55,
+      "time_str": "00:59.550",
+      "text": "哎嘿哎嘿唷 哎嘿哎嘿唷 哎咳唷",
+      "translation": null
+    },
+    {
+      "time": 81.36,
+      "time_str": "01:21.360",
+      "text": "你呀叫我多难过",
+      "translation": null
+    },
+    {
+      "time": 83.07,
+      "time_str": "01:23.070",
+      "text": "因为你长的地方叫我太难挖",
+      "translation": null
+    },
+    {
+      "time": 113.7,
+      "time_str": "01:53.700",
+      "text": "道拉基道拉基道拉基",
+      "translation": null
+    },
+    {
+      "time": 119.61,
+      "time_str": "01:59.610",
+      "text": "白白的桔梗哟长满山野",
+      "translation": null
+    },
+    {
+      "time": 120.6,
+      "time_str": "02:00.600",
+      "text": "挖出桔梗装在篮里 挖出给儒仅用裙包",
+      "translation": null
+    },
+    {
+      "time": 122.07,
+      "time_str": "02:02.070",
+      "text": "哎嘿哎嘿唷 哎嘿哎嘿唷 哎咳唷",
+      "translation": null
+    },
+    {
+      "time": 127.29,
+      "time_str": "02:07.290",
+      "text": "你呀叫我多难过",
+      "translation": null
+    },
+    {
+      "time": 131.4,
+      "time_str": "02:11.400",
+      "text": "因为你长的地方叫我太难挖",
+      "translation": null
+    },
+    {
+      "time": 132.96,
+      "time_str": "02:12.960",
+      "text": "你借口去挖桔梗",
+      "translation": null
+    },
+    {
+      "time": 134.91,
+      "time_str": "02:14.910",
+      "text": "其实到情郎坟上去献花",
+      "translation": null
+    },
+    {
+      "time": 139.89,
+      "time_str": "02:19.890",
+      "text": "哎嘿哎嘿唷 哎嘿哎嘿唷 哎咳唷",
+      "translation": null
+    },
+    {
+      "time": 211.95,
+      "time_str": "03:31.950",
+      "text": "你呀叫我多难过",
+      "translation": null
+    },
+    {
+      "time": 216.33,
+      "time_str": "03:36.330",
+      "text": "因为你长的地方叫我太难挖",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "道拉基 - 天使合唱团.lrc"
+}

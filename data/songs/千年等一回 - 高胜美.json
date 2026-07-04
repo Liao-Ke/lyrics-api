@@ -1,0 +1,124 @@
+{
+  "title": "千年等一回",
+  "title_raw": "千年等一回",
+  "version": null,
+  "artist": "高胜美",
+  "group_key": "千年等一回|高胜美",
+  "writers": {
+    "lyricist": "陈自为",
+    "composer": "左宏元",
+    "arranger": "尤景仰"
+  },
+  "lyrics": [
+    {
+      "time": 27.19,
+      "time_str": "00:27.190",
+      "text": "千年等一回等一回啊",
+      "translation": null
+    },
+    {
+      "time": 33.36,
+      "time_str": "00:33.360",
+      "text": "千年等一回我无悔啊",
+      "translation": null
+    },
+    {
+      "time": 43.66,
+      "time_str": "00:43.660",
+      "text": "是谁在耳边说爱我永不变",
+      "translation": null
+    },
+    {
+      "time": 53.13,
+      "time_str": "00:53.130",
+      "text": "只为这一句啊哈断肠也无怨",
+      "translation": null
+    },
+    {
+      "time": 61.48,
+      "time_str": "01:01.480",
+      "text": "雨心碎风流泪梦缠绵情悠远",
+      "translation": null
+    },
+    {
+      "time": 73.98,
+      "time_str": "01:13.980",
+      "text": "Chi-chi-na",
+      "translation": null
+    },
+    {
+      "time": 82.84,
+      "time_str": "01:22.840",
+      "text": "西湖的水我的泪",
+      "translation": null
+    },
+    {
+      "time": 87.91,
+      "time_str": "01:27.910",
+      "text": "我情愿和你化作一团火焰",
+      "translation": null
+    },
+    {
+      "time": 92.69,
+      "time_str": "01:32.690",
+      "text": "啊……啊……啊……",
+      "translation": null
+    },
+    {
+      "time": 112.1,
+      "time_str": "01:52.100",
+      "text": "千年等一回等一回啊",
+      "translation": null
+    },
+    {
+      "time": 117.52,
+      "time_str": "01:57.520",
+      "text": "千年等一回我无悔啊",
+      "translation": null
+    },
+    {
+      "time": 127.67,
+      "time_str": "02:07.670",
+      "text": "雨心碎风流泪梦缠绵情悠远",
+      "translation": null
+    },
+    {
+      "time": 145.79,
+      "time_str": "02:25.790",
+      "text": "西湖的水我的泪",
+      "translation": null
+    },
+    {
+      "time": 151.21,
+      "time_str": "02:31.210",
+      "text": "我情愿和你化作一团火焰",
+      "translation": null
+    },
+    {
+      "time": 156.89,
+      "time_str": "02:36.890",
+      "text": "啊……啊……啊……",
+      "translation": null
+    },
+    {
+      "time": 168.98,
+      "time_str": "02:48.980",
+      "text": "千年等一回等一回啊",
+      "translation": null
+    },
+    {
+      "time": 178.24,
+      "time_str": "02:58.240",
+      "text": "千年等一回我无悔啊",
+      "translation": null
+    },
+    {
+      "time": 187.19,
+      "time_str": "03:07.190",
+      "text": "千年等一回等一回啊",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "千年等一回 - 高胜美.lrc"
+}

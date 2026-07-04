@@ -1,0 +1,340 @@
+{
+  "title": "The Cure",
+  "title_raw": "The Cure",
+  "version": null,
+  "artist": "Lady Gaga",
+  "group_key": "the cure|lady gaga",
+  "writers": {
+    "lyricist": "Lady Gaga/Lukas Nelson/Nick Monson/Mark Nilan Jr/Blair",
+    "composer": "Lukas Nelson/Nick Monson/Mark Nilan Jr/Blair/Lady Gaga",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.638,
+      "time_str": "00:09.638",
+      "text": "I'll undress you, 'cause you're tired",
+      "translation": "我会为你褪下外衣 因为你看起来疲惫不堪"
+    },
+    {
+      "time": 12.254,
+      "time_str": "00:12.254",
+      "text": "Cover you as you desire",
+      "translation": "我会像你希望的那样成为你的避难所"
+    },
+    {
+      "time": 14.703,
+      "time_str": "00:14.703",
+      "text": "When you fall asleep inside my arms",
+      "translation": "当你在我怀中酣畅入眠"
+    },
+    {
+      "time": 19.688,
+      "time_str": "00:19.688",
+      "text": "May not have the fancy things",
+      "translation": "也许没有那些华丽的藻饰"
+    },
+    {
+      "time": 21.855,
+      "time_str": "00:21.855",
+      "text": "But I'll give you everything",
+      "translation": "但我会给你我的一切"
+    },
+    {
+      "time": 24.191,
+      "time_str": "00:24.191",
+      "text": "You could ever want, it's in my arms",
+      "translation": "你想要的一切，都在我的臂弯中"
+    },
+    {
+      "time": 29.158,
+      "time_str": "00:29.158",
+      "text": "So baby tell me yes",
+      "translation": "所以亲爱的，你只要说愿意"
+    },
+    {
+      "time": 31.614,
+      "time_str": "00:31.614",
+      "text": "And I will give you everything",
+      "translation": "我会毫无保留 给你想要的一切"
+    },
+    {
+      "time": 34.319,
+      "time_str": "00:34.319",
+      "text": "So baby tell me yes",
+      "translation": "所以亲爱的，你只要说愿意"
+    },
+    {
+      "time": 36.218,
+      "time_str": "00:36.218",
+      "text": "And I will be all yours tonight",
+      "translation": "今夜我的身心完全属于你"
+    },
+    {
+      "time": 38.887,
+      "time_str": "00:38.887",
+      "text": "So baby tell me yes",
+      "translation": "所以亲爱的，只要你应允"
+    },
+    {
+      "time": 41.022,
+      "time_str": "00:41.022",
+      "text": "And I will give you everything",
+      "translation": "我会毫无保留 给你想要的一切"
+    },
+    {
+      "time": 45.847,
+      "time_str": "00:45.847",
+      "text": "I will be right by your side",
+      "translation": "无论如何我将陪伴在你身边"
+    },
+    {
+      "time": 48.695,
+      "time_str": "00:48.695",
+      "text": "If I can't find the cure l'll",
+      "translation": "如果找不到治愈良方"
+    },
+    {
+      "time": 51.006,
+      "time_str": "00:51.006",
+      "text": "I'll fix you with my love",
+      "translation": "我会用满腔爱意抚平你的伤痛"
+    },
+    {
+      "time": 53.215,
+      "time_str": "00:53.215",
+      "text": "No matter what you know l'll",
+      "translation": "不管你是否知道"
+    },
+    {
+      "time": 55.783,
+      "time_str": "00:55.783",
+      "text": "I'll fix you with my love",
+      "translation": "我会用满腔爱意抚平你的伤痛"
+    },
+    {
+      "time": 57.903,
+      "time_str": "00:57.903",
+      "text": "And if you say you're okay",
+      "translation": "即使你佯装没事"
+    },
+    {
+      "time": 60.216,
+      "time_str": "01:00.216",
+      "text": "I'm gonna heal you anyway",
+      "translation": "我也会义无反顾地治愈你的伤痛"
+    },
+    {
+      "time": 62.559,
+      "time_str": "01:02.559",
+      "text": "Promise I'll always be there",
+      "translation": "我承诺，我会永远守护你"
+    },
+    {
+      "time": 65.468,
+      "time_str": "01:05.468",
+      "text": "Promise I'll be the cure (Be the cure)",
+      "translation": "我承诺，我会是治愈你的良药"
+    },
+    {
+      "time": 77.007,
+      "time_str": "01:17.007",
+      "text": "Rub your feet, your hands, your legs",
+      "translation": "轻轻按摩你的双脚，你的双手，你的双腿"
+    },
+    {
+      "time": 79.446,
+      "time_str": "01:19.446",
+      "text": "Let me take care of it, babe",
+      "translation": "让我来为你消除疲惫吧"
+    },
+    {
+      "time": 81.825,
+      "time_str": "01:21.825",
+      "text": "Close your eyes, I'll sing your favorite song",
+      "translation": "闭上你的双眼，我要哼唱你最爱的歌曲"
+    },
+    {
+      "time": 86.598,
+      "time_str": "01:26.598",
+      "text": "I wrote you this lullaby",
+      "translation": "我为你写下这首催眠曲"
+    },
+    {
+      "time": 89.015,
+      "time_str": "01:29.015",
+      "text": "Hush now baby, don't you cry",
+      "translation": "安静吧 宝贝，别哭了"
+    },
+    {
+      "time": 91.47,
+      "time_str": "01:31.470",
+      "text": "Anything you want could not be wrong",
+      "translation": "你想要的都没有过错"
+    },
+    {
+      "time": 96.614,
+      "time_str": "01:36.614",
+      "text": "So baby tell me yes",
+      "translation": "所以亲爱的，你只要说愿意"
+    },
+    {
+      "time": 98.879,
+      "time_str": "01:38.879",
+      "text": "And I will give you everything",
+      "translation": "我会毫无保留 给你想要的一切"
+    },
+    {
+      "time": 101.513,
+      "time_str": "01:41.513",
+      "text": "So baby tell me yes",
+      "translation": "所以亲爱的，你只要说愿意"
+    },
+    {
+      "time": 103.344,
+      "time_str": "01:43.344",
+      "text": "And I will be all yours tonight",
+      "translation": "今夜我的身心完全属于你"
+    },
+    {
+      "time": 106.048,
+      "time_str": "01:46.048",
+      "text": "So baby tell me yes",
+      "translation": "所以亲爱的，只要你应允"
+    },
+    {
+      "time": 108.218,
+      "time_str": "01:48.218",
+      "text": "And I will give you everything",
+      "translation": "我会毫无保留 给你想要的一切"
+    },
+    {
+      "time": 113.319,
+      "time_str": "01:53.319",
+      "text": "I will be right by your side",
+      "translation": "无论如何我将陪伴在你身边"
+    },
+    {
+      "time": 115.927,
+      "time_str": "01:55.927",
+      "text": "If I can't find the cure l'll",
+      "translation": "如果找不到治愈良方"
+    },
+    {
+      "time": 118.158,
+      "time_str": "01:58.158",
+      "text": "I'll fix you with my love",
+      "translation": "我会用满腔爱意抚平你的伤痛"
+    },
+    {
+      "time": 120.391,
+      "time_str": "02:00.391",
+      "text": "No matter what you know l'll",
+      "translation": "不管你是否知道"
+    },
+    {
+      "time": 123.031,
+      "time_str": "02:03.031",
+      "text": "I'll fix you with my love",
+      "translation": "我会用满腔爱意抚平你的伤痛"
+    },
+    {
+      "time": 125.111,
+      "time_str": "02:05.111",
+      "text": "And if you say you're okay",
+      "translation": "即使你佯装没事"
+    },
+    {
+      "time": 127.438,
+      "time_str": "02:07.438",
+      "text": "I'm gonna heal you anyway",
+      "translation": "我也会义无反顾地治愈你的伤痛"
+    },
+    {
+      "time": 129.727,
+      "time_str": "02:09.727",
+      "text": "Promise I'll always be there",
+      "translation": "我承诺，我会永远守护你"
+    },
+    {
+      "time": 132.639,
+      "time_str": "02:12.639",
+      "text": "Promise I'll be the cure (Be the cure)",
+      "translation": "我承诺，我会是治愈你的良药"
+    },
+    {
+      "time": 144.488,
+      "time_str": "02:24.488",
+      "text": "I'll fix you with my love(I'll fix you with my love-lo-love)",
+      "translation": "我会用满腔爱意抚平你的伤痛"
+    },
+    {
+      "time": 154.504,
+      "time_str": "02:34.504",
+      "text": "I'll fix you with my love(I'll fix you with my love-lo-love)",
+      "translation": "我会用满腔爱意抚平你的伤痛"
+    },
+    {
+      "time": 163.791,
+      "time_str": "02:43.791",
+      "text": "If I can't find the cure l'll",
+      "translation": "如果找不到治愈良方"
+    },
+    {
+      "time": 166.23,
+      "time_str": "02:46.230",
+      "text": "I'll fix you with my love",
+      "translation": "我会用满腔爱意抚平你的伤痛"
+    },
+    {
+      "time": 168.502,
+      "time_str": "02:48.502",
+      "text": "No matter what you know l'll",
+      "translation": "不管你是否知道"
+    },
+    {
+      "time": 171.049,
+      "time_str": "02:51.049",
+      "text": "I'll fix you with my love",
+      "translation": "我会用满腔爱意抚平你的伤痛"
+    },
+    {
+      "time": 173.127,
+      "time_str": "02:53.127",
+      "text": "And if you say you're okay",
+      "translation": "即使你佯装没事"
+    },
+    {
+      "time": 175.414,
+      "time_str": "02:55.414",
+      "text": "I'm gonna heal you anyway",
+      "translation": "我也会义无反顾地治愈你的伤痛"
+    },
+    {
+      "time": 177.894,
+      "time_str": "02:57.894",
+      "text": "Promise I'll always be there",
+      "translation": "我承诺，我会永远守护你"
+    },
+    {
+      "time": 180.646,
+      "time_str": "03:00.646",
+      "text": "Promise I'll be the cure (Be the cure)",
+      "translation": "我承诺，我会是治愈你的良药"
+    },
+    {
+      "time": 190.55,
+      "time_str": "03:10.550",
+      "text": "Promise I'll be the cure (Be the cure)",
+      "translation": "我承诺，我会是治愈你的良药"
+    },
+    {
+      "time": 203.264,
+      "time_str": "03:23.264",
+      "text": "I'll fix you with my love",
+      "translation": "我会用满腔爱意抚平你的伤痛"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "The Cure - Lady Gaga.lrc"
+}

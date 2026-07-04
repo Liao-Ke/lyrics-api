@@ -1,0 +1,226 @@
+{
+  "title": "Ein Kleines Lied",
+  "title_raw": "Ein Kleines Lied (Around the World)",
+  "version": "Around the World",
+  "artist": "Candee!",
+  "group_key": "ein kleines lied|candee!",
+  "writers": {
+    "lyricist": "Candee!",
+    "composer": "Candee!",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.9,
+      "time_str": "00:01.900",
+      "text": "失色天空",
+      "translation": null
+    },
+    {
+      "time": 7.28,
+      "time_str": "00:07.280",
+      "text": "Ich singe ein kleines lied'ein kleines Melody .",
+      "translation": "我唱一首小小的歌，一曲小小的旋律"
+    },
+    {
+      "time": 10.92,
+      "time_str": "00:10.920",
+      "text": "Hast du sie mal gehoert.Dann vergest du sie nie.",
+      "translation": "只要你偶尔听到一次，那么永远不会忘记"
+    },
+    {
+      "time": 14.48,
+      "time_str": "00:14.480",
+      "text": "Singe ein kleines lied'und das ist wundbar.",
+      "translation": "唱一首小小的歌，这是多么美妙"
+    },
+    {
+      "time": 18.22,
+      "time_str": "00:18.220",
+      "text": "telesinge mit'wir singen lalala...",
+      "translation": "与音乐一起唱，我们唱，啦啦啦…"
+    },
+    {
+      "time": 24.1,
+      "time_str": "00:24.100",
+      "text": "Ich singe ein kleines Lied lalala...",
+      "translation": "我唱一首小小的歌，啦啦啦…"
+    },
+    {
+      "time": 27.62,
+      "time_str": "00:27.620",
+      "text": "Ich chancen Ruhe bitte lalala...",
+      "translation": "我可能需要安静，啦啦啦…"
+    },
+    {
+      "time": 31.25,
+      "time_str": "00:31.250",
+      "text": "Kommst du singen alle mit lalala...",
+      "translation": "和所有的一切一起唱，啦啦啦..."
+    },
+    {
+      "time": 34.8,
+      "time_str": "00:34.800",
+      "text": "Dann verstehen denn bei Tetel lalala...",
+      "translation": "然后得到感悟，因为其中的音乐"
+    },
+    {
+      "time": 38.58,
+      "time_str": "00:38.580",
+      "text": "lalala...",
+      "translation": "啦啦啦…… 啦啦啦……"
+    },
+    {
+      "time": 65.59,
+      "time_str": "01:05.590",
+      "text": "Ich singe ein kleines Lied'weil ich freundlich bin.",
+      "translation": "我唱一首小小的歌，因为我是热情友好的"
+    },
+    {
+      "time": 69.6,
+      "time_str": "01:09.600",
+      "text": "Gerleschaft geschiedt'besonders habe ich nicht Sendung",
+      "translation": "发生了交往"
+    },
+    {
+      "time": 72.68,
+      "time_str": "01:12.680",
+      "text": "Viele nicht mein durf",
+      "translation": "我没有发送特别的讯息"
+    },
+    {
+      "time": 74.98,
+      "time_str": "01:14.980",
+      "text": "Und das ist nie mit Mutter",
+      "translation": "而且她从未能够与母亲在一起"
+    },
+    {
+      "time": 76.42,
+      "time_str": "01:16.420",
+      "text": "Singe ich mein Lied",
+      "translation": "我唱我的歌"
+    },
+    {
+      "time": 78.63,
+      "time_str": "01:18.630",
+      "text": "Oder wie gehts nie Ruhe",
+      "translation": "或许像行走一样永远不休息"
+    },
+    {
+      "time": 80.12,
+      "time_str": "01:20.120",
+      "text": "Ich singe ein kleines lied'ein kleines Melody .",
+      "translation": "我唱一首小小的歌，一曲小小的旋律"
+    },
+    {
+      "time": 83.56,
+      "time_str": "01:23.560",
+      "text": "Hast du sie mal gehoert.Dann vergest du sie nie.",
+      "translation": "只要你偶尔听过一次，那么永远不会忘记"
+    },
+    {
+      "time": 87.1,
+      "time_str": "01:27.100",
+      "text": "Singe ein kleines lied'und das ist wundbar.",
+      "translation": "唱一首小小的歌，这是多么美妙"
+    },
+    {
+      "time": 90.74,
+      "time_str": "01:30.740",
+      "text": "telesinge mit'wir singen lalala...",
+      "translation": "与音乐一起唱，我们唱，啦啦啦…"
+    },
+    {
+      "time": 96.72,
+      "time_str": "01:36.720",
+      "text": "Ich singe ein kleines Lied lalala...",
+      "translation": "我唱一首小小的歌，啦啦啦…"
+    },
+    {
+      "time": 100.32,
+      "time_str": "01:40.320",
+      "text": "Ich chancen Ruhe bitte lalala...",
+      "translation": "我可能需要安静，啦啦啦…"
+    },
+    {
+      "time": 103.99,
+      "time_str": "01:43.990",
+      "text": "Kommst du singen alle mit lalala...",
+      "translation": "和所有的一切一起唱，啦啦啦…"
+    },
+    {
+      "time": 107.64,
+      "time_str": "01:47.640",
+      "text": "Dann verstehen denn bei Tetel lalala...",
+      "translation": "然后得到感悟，因为其中的音乐，啦啦啦…"
+    },
+    {
+      "time": 111.14,
+      "time_str": "01:51.140",
+      "text": "lalala...",
+      "translation": "啦啦啦…"
+    },
+    {
+      "time": 145.48,
+      "time_str": "02:25.480",
+      "text": "Ein Kleines Lied",
+      "translation": "唱一首小小的歌"
+    },
+    {
+      "time": 147.56,
+      "time_str": "02:27.560",
+      "text": "Ein Kleines Lied",
+      "translation": "唱一首小小的歌"
+    },
+    {
+      "time": 148.87,
+      "time_str": "02:28.870",
+      "text": "Ein Kleines Lied",
+      "translation": "唱一首小小的歌"
+    },
+    {
+      "time": 150.69,
+      "time_str": "02:30.690",
+      "text": "Ein Kleines Lied",
+      "translation": "唱一首小小的歌"
+    },
+    {
+      "time": 154.61,
+      "time_str": "02:34.610",
+      "text": "lalala...Ich singe ein kleines Lied lalala...",
+      "translation": "啦啦啦...我唱一首小小的歌，啦啦啦…"
+    },
+    {
+      "time": 160.21,
+      "time_str": "02:40.210",
+      "text": "Ich chancen Ruhe bitte lalala...",
+      "translation": "我可能需要安静，啦啦啦…"
+    },
+    {
+      "time": 163.89,
+      "time_str": "02:43.890",
+      "text": "Kommst du singen all mit lalala...",
+      "translation": "和所有的一切一起唱，啦啦啦…"
+    },
+    {
+      "time": 167.64,
+      "time_str": "02:47.640",
+      "text": "Dann verstehen denn bei Tetel lalala...",
+      "translation": "然后得到感悟，因为其中的音乐，啦啦啦…"
+    },
+    {
+      "time": 171.14,
+      "time_str": "02:51.140",
+      "text": "lalala......",
+      "translation": "啦啦啦…"
+    },
+    {
+      "time": 188.87,
+      "time_str": "03:08.870",
+      "text": "lalala......",
+      "translation": "啦啦啦…"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Ein Kleines Lied (Around the World) - Candee!.lrc"
+}

@@ -1,0 +1,268 @@
+{
+  "title": "赔偿",
+  "title_raw": "赔偿",
+  "version": null,
+  "artist": "钟汶",
+  "group_key": "赔偿|钟汶",
+  "writers": {
+    "lyricist": "稻草人",
+    "composer": "稻草人",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 21.28,
+      "time_str": "00:21.280",
+      "text": "剩下嘴巴逞强",
+      "translation": null
+    },
+    {
+      "time": 25.44,
+      "time_str": "00:25.440",
+      "text": "眼睛无力支撑",
+      "translation": null
+    },
+    {
+      "time": 29.96,
+      "time_str": "00:29.960",
+      "text": "就连说一个谎",
+      "translation": null
+    },
+    {
+      "time": 32.49,
+      "time_str": "00:32.490",
+      "text": "瞒一瞒你都不想",
+      "translation": null
+    },
+    {
+      "time": 36.54,
+      "time_str": "00:36.540",
+      "text": "受尽委屈能怎样",
+      "translation": null
+    },
+    {
+      "time": 40.86,
+      "time_str": "00:40.860",
+      "text": "哭过又怎样",
+      "translation": null
+    },
+    {
+      "time": 44.87,
+      "time_str": "00:44.870",
+      "text": "结果都一样",
+      "translation": null
+    },
+    {
+      "time": 48.33,
+      "time_str": "00:48.330",
+      "text": "被你所伤",
+      "translation": null
+    },
+    {
+      "time": 53.11,
+      "time_str": "00:53.110",
+      "text": "你从不曾把我放在心上",
+      "translation": null
+    },
+    {
+      "time": 57.33,
+      "time_str": "00:57.330",
+      "text": "你从不曾在意我所想",
+      "translation": null
+    },
+    {
+      "time": 61.12,
+      "time_str": "01:01.120",
+      "text": "如果爱你从来只是妄想",
+      "translation": null
+    },
+    {
+      "time": 65.59,
+      "time_str": "01:05.590",
+      "text": "承认早已疯狂",
+      "translation": null
+    },
+    {
+      "time": 68.44,
+      "time_str": "01:08.440",
+      "text": "原谅我已无力再坚强",
+      "translation": null
+    },
+    {
+      "time": 72.1,
+      "time_str": "01:12.100",
+      "text": "请你相信实非我所想",
+      "translation": null
+    },
+    {
+      "time": 75.83,
+      "time_str": "01:15.830",
+      "text": "如果真的令你有点沮丧",
+      "translation": null
+    },
+    {
+      "time": 80.59,
+      "time_str": "01:20.590",
+      "text": "拿什么赔偿",
+      "translation": null
+    },
+    {
+      "time": 90.24,
+      "time_str": "01:30.240",
+      "text": "何苦一再勉强",
+      "translation": null
+    },
+    {
+      "time": 92.73,
+      "time_str": "01:32.730",
+      "text": "越期待越失望",
+      "translation": null
+    },
+    {
+      "time": 96.64,
+      "time_str": "01:36.640",
+      "text": "何苦为你设想",
+      "translation": null
+    },
+    {
+      "time": 100.06,
+      "time_str": "01:40.060",
+      "text": "不过想留你在旁",
+      "translation": null
+    },
+    {
+      "time": 103.64,
+      "time_str": "01:43.640",
+      "text": "跌得痛会成长",
+      "translation": null
+    },
+    {
+      "time": 108.75,
+      "time_str": "01:48.750",
+      "text": "说则多平常",
+      "translation": null
+    },
+    {
+      "time": 112.13,
+      "time_str": "01:52.130",
+      "text": "不如就这样",
+      "translation": null
+    },
+    {
+      "time": 116.18,
+      "time_str": "01:56.180",
+      "text": "一次输光",
+      "translation": null
+    },
+    {
+      "time": 121.07,
+      "time_str": "02:01.070",
+      "text": "你从不曾把我放在心上",
+      "translation": null
+    },
+    {
+      "time": 124.9,
+      "time_str": "02:04.900",
+      "text": "你从不曾在意我所想",
+      "translation": null
+    },
+    {
+      "time": 128.52,
+      "time_str": "02:08.520",
+      "text": "如果爱你从来只是妄想",
+      "translation": null
+    },
+    {
+      "time": 133.28,
+      "time_str": "02:13.280",
+      "text": "承认早已疯狂",
+      "translation": null
+    },
+    {
+      "time": 136.09,
+      "time_str": "02:16.090",
+      "text": "原谅我已无力再坚强",
+      "translation": null
+    },
+    {
+      "time": 139.81,
+      "time_str": "02:19.810",
+      "text": "请你相信实非我所想",
+      "translation": null
+    },
+    {
+      "time": 144.09,
+      "time_str": "02:24.090",
+      "text": "如果真的令你有点沮丧",
+      "translation": null
+    },
+    {
+      "time": 148.26,
+      "time_str": "02:28.260",
+      "text": "拿什么赔偿",
+      "translation": null
+    },
+    {
+      "time": 167.92,
+      "time_str": "02:47.920",
+      "text": "你从不曾把我放在心上",
+      "translation": null
+    },
+    {
+      "time": 171.76,
+      "time_str": "02:51.760",
+      "text": "你从不曾在意我所想",
+      "translation": null
+    },
+    {
+      "time": 175.53,
+      "time_str": "02:55.530",
+      "text": "如果爱你从来只是妄想",
+      "translation": null
+    },
+    {
+      "time": 180.13,
+      "time_str": "03:00.130",
+      "text": "承认早已疯狂",
+      "translation": null
+    },
+    {
+      "time": 183.12,
+      "time_str": "03:03.120",
+      "text": "原谅我已无力再坚强",
+      "translation": null
+    },
+    {
+      "time": 186.79,
+      "time_str": "03:06.790",
+      "text": "请你相信实非我所想",
+      "translation": null
+    },
+    {
+      "time": 191.29,
+      "time_str": "03:11.290",
+      "text": "如果真的令你有点沮丧",
+      "translation": null
+    },
+    {
+      "time": 195.6,
+      "time_str": "03:15.600",
+      "text": "拿什么赔偿",
+      "translation": null
+    },
+    {
+      "time": 200.22,
+      "time_str": "03:20.220",
+      "text": "如果真的令你有点沮丧",
+      "translation": null
+    },
+    {
+      "time": 205.11,
+      "time_str": "03:25.110",
+      "text": "我拿尊严赔偿",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "赔偿 - 钟汶.lrc"
+}

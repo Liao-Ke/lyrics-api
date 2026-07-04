@@ -1,0 +1,208 @@
+{
+  "title": "水月",
+  "title_raw": "水月",
+  "version": null,
+  "artist": "于涛",
+  "group_key": "水月|于涛",
+  "writers": {
+    "lyricist": "唐健",
+    "composer": "唐健",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.17,
+      "time_str": "00:18.170",
+      "text": "心已随风去",
+      "translation": null
+    },
+    {
+      "time": 22.34,
+      "time_str": "00:22.340",
+      "text": "山水仍相依",
+      "translation": null
+    },
+    {
+      "time": 26.34,
+      "time_str": "00:26.340",
+      "text": "错放的人生",
+      "translation": null
+    },
+    {
+      "time": 29.67,
+      "time_str": "00:29.670",
+      "text": "谁在喃喃自语",
+      "translation": null
+    },
+    {
+      "time": 33.33,
+      "time_str": "00:33.330",
+      "text": "来去的你我",
+      "translation": null
+    },
+    {
+      "time": 37.17,
+      "time_str": "00:37.170",
+      "text": "曾笑看的风雨",
+      "translation": null
+    },
+    {
+      "time": 40.55,
+      "time_str": "00:40.550",
+      "text": "而今的大地",
+      "translation": null
+    },
+    {
+      "time": 44.42,
+      "time_str": "00:44.420",
+      "text": "空留一声叹息",
+      "translation": null
+    },
+    {
+      "time": 48.04,
+      "time_str": "00:48.040",
+      "text": "月儿明明",
+      "translation": null
+    },
+    {
+      "time": 53.2,
+      "time_str": "00:53.200",
+      "text": "水清清",
+      "translation": null
+    },
+    {
+      "time": 56.98,
+      "time_str": "00:56.980",
+      "text": "一曲清流",
+      "translation": null
+    },
+    {
+      "time": 59.9,
+      "time_str": "00:59.900",
+      "text": "翻飞弦外的音",
+      "translation": null
+    },
+    {
+      "time": 63.67,
+      "time_str": "01:03.670",
+      "text": "来时花铺满路",
+      "translation": null
+    },
+    {
+      "time": 68.13,
+      "time_str": "01:08.130",
+      "text": "去时已荒芜",
+      "translation": null
+    },
+    {
+      "time": 71.23,
+      "time_str": "01:11.230",
+      "text": "若天外有天",
+      "translation": null
+    },
+    {
+      "time": 74.85,
+      "time_str": "01:14.850",
+      "text": "何必今世缠绵",
+      "translation": null
+    },
+    {
+      "time": 93.98,
+      "time_str": "01:33.980",
+      "text": "水自多情",
+      "translation": null
+    },
+    {
+      "time": 99.4,
+      "time_str": "01:39.400",
+      "text": "不懂月的阴晴",
+      "translation": null
+    },
+    {
+      "time": 103.57,
+      "time_str": "01:43.570",
+      "text": "只留住这一刻",
+      "translation": null
+    },
+    {
+      "time": 107.62,
+      "time_str": "01:47.620",
+      "text": "凝动的表情",
+      "translation": null
+    },
+    {
+      "time": 110.81,
+      "time_str": "01:50.810",
+      "text": "缘尽的你我",
+      "translation": null
+    },
+    {
+      "time": 114.32,
+      "time_str": "01:54.320",
+      "text": "只剩下天意",
+      "translation": null
+    },
+    {
+      "time": 117.94,
+      "time_str": "01:57.940",
+      "text": "只爱到一人独行",
+      "translation": null
+    },
+    {
+      "time": 122.55,
+      "time_str": "02:02.550",
+      "text": "霜满的大地",
+      "translation": null
+    },
+    {
+      "time": 125.03,
+      "time_str": "02:05.030",
+      "text": "水自多情",
+      "translation": null
+    },
+    {
+      "time": 128.01,
+      "time_str": "02:08.010",
+      "text": "不懂月的阴晴",
+      "translation": null
+    },
+    {
+      "time": 131.94,
+      "time_str": "02:11.940",
+      "text": "只留住这一刻",
+      "translation": null
+    },
+    {
+      "time": 136.33,
+      "time_str": "02:16.330",
+      "text": "凝动的表情",
+      "translation": null
+    },
+    {
+      "time": 139.52,
+      "time_str": "02:19.520",
+      "text": "缘尽的你我",
+      "translation": null
+    },
+    {
+      "time": 142.77,
+      "time_str": "02:22.770",
+      "text": "只剩下天意",
+      "translation": null
+    },
+    {
+      "time": 146.22,
+      "time_str": "02:26.220",
+      "text": "只爱到一人独行",
+      "translation": null
+    },
+    {
+      "time": 151.14,
+      "time_str": "02:31.140",
+      "text": "霜满的大地",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "水月 - 于涛.lrc"
+}

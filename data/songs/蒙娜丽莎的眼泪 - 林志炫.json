@@ -1,0 +1,322 @@
+{
+  "title": "蒙娜丽莎的眼泪",
+  "title_raw": "蒙娜丽莎的眼泪",
+  "version": null,
+  "artist": "林志炫",
+  "group_key": "蒙娜丽莎的眼泪|林志炫",
+  "writers": {
+    "lyricist": "郑华娟",
+    "composer": "郑华娟",
+    "arranger": "Tony Smith"
+  },
+  "lyrics": [
+    {
+      "time": 12.674,
+      "time_str": "00:12.674",
+      "text": "在浪漫之都",
+      "translation": null
+    },
+    {
+      "time": 13.793,
+      "time_str": "00:13.793",
+      "text": "你看到了蒙娜丽莎的微笑",
+      "translation": null
+    },
+    {
+      "time": 19.952,
+      "time_str": "00:19.952",
+      "text": "你说这对你很好",
+      "translation": null
+    },
+    {
+      "time": 23.798,
+      "time_str": "00:23.798",
+      "text": "这次旅行让你渡过了感情的低潮",
+      "translation": null
+    },
+    {
+      "time": 28.657,
+      "time_str": "00:28.657",
+      "text": "你觉得曾经爱的太苦",
+      "translation": null
+    },
+    {
+      "time": 33.228,
+      "time_str": "00:33.228",
+      "text": "感谢我听你倾诉",
+      "translation": null
+    },
+    {
+      "time": 36.131,
+      "time_str": "00:36.131",
+      "text": "温柔的痛苦",
+      "translation": null
+    },
+    {
+      "time": 39.71,
+      "time_str": "00:39.710",
+      "text": "在我的梦里",
+      "translation": null
+    },
+    {
+      "time": 40.913,
+      "time_str": "00:40.913",
+      "text": "因为可以和你相爱而骄傲",
+      "translation": null
+    },
+    {
+      "time": 47.073,
+      "time_str": "00:47.073",
+      "text": "然而你都不知道",
+      "translation": null
+    },
+    {
+      "time": 50.873,
+      "time_str": "00:50.873",
+      "text": "我期待在你爱的世界里变得重要",
+      "translation": null
+    },
+    {
+      "time": 55.674,
+      "time_str": "00:55.674",
+      "text": "你要把爱人慢慢寻找",
+      "translation": null
+    },
+    {
+      "time": 60.29,
+      "time_str": "01:00.290",
+      "text": "对你付出的一切",
+      "translation": null
+    },
+    {
+      "time": 62.444,
+      "time_str": "01:02.444",
+      "text": "只换来我对自己苦苦的嘲笑",
+      "translation": null
+    },
+    {
+      "time": 68.765,
+      "time_str": "01:08.765",
+      "text": "蒙娜丽莎 她是谁",
+      "translation": null
+    },
+    {
+      "time": 73.069,
+      "time_str": "01:13.069",
+      "text": "她是否也曾为爱争论错与对",
+      "translation": null
+    },
+    {
+      "time": 77.463,
+      "time_str": "01:17.463",
+      "text": "为什么你总留给我失恋的泪水",
+      "translation": null
+    },
+    {
+      "time": 81.058,
+      "time_str": "01:21.058",
+      "text": "却把你的感情付给别人去摧毁",
+      "translation": null
+    },
+    {
+      "time": 86.396,
+      "time_str": "01:26.396",
+      "text": "蒙娜丽莎 她是谁",
+      "translation": null
+    },
+    {
+      "time": 90.526,
+      "time_str": "01:30.526",
+      "text": "她是否也曾为爱寻觅好几回",
+      "translation": null
+    },
+    {
+      "time": 94.573,
+      "time_str": "01:34.573",
+      "text": "她的微笑那么神秘那么美",
+      "translation": null
+    },
+    {
+      "time": 98.224,
+      "time_str": "01:38.224",
+      "text": "或许她也走过感情的千山万水",
+      "translation": null
+    },
+    {
+      "time": 102.14,
+      "time_str": "01:42.140",
+      "text": "才发现 爱你的人",
+      "translation": null
+    },
+    {
+      "time": 106.21,
+      "time_str": "01:46.210",
+      "text": "不会让他的蒙娜丽莎流眼泪",
+      "translation": null
+    },
+    {
+      "time": 124.83,
+      "time_str": "02:04.830",
+      "text": "在我的梦里",
+      "translation": null
+    },
+    {
+      "time": 126.032,
+      "time_str": "02:06.032",
+      "text": "因为可以和你相爱而骄傲",
+      "translation": null
+    },
+    {
+      "time": 132.076,
+      "time_str": "02:12.076",
+      "text": "然而你都不知道",
+      "translation": null
+    },
+    {
+      "time": 136.001,
+      "time_str": "02:16.001",
+      "text": "我期待在你爱的世界里变得重要",
+      "translation": null
+    },
+    {
+      "time": 140.734,
+      "time_str": "02:20.734",
+      "text": "你要把爱人慢慢寻找",
+      "translation": null
+    },
+    {
+      "time": 145.399,
+      "time_str": "02:25.399",
+      "text": "对你付出的一切",
+      "translation": null
+    },
+    {
+      "time": 147.505,
+      "time_str": "02:27.505",
+      "text": "只换来我对自己苦苦的嘲笑",
+      "translation": null
+    },
+    {
+      "time": 153.765,
+      "time_str": "02:33.765",
+      "text": "蒙娜丽莎 她是谁",
+      "translation": null
+    },
+    {
+      "time": 158.138,
+      "time_str": "02:38.138",
+      "text": "她是否也曾为爱争论错与对",
+      "translation": null
+    },
+    {
+      "time": 162.446,
+      "time_str": "02:42.446",
+      "text": "为什么你总留给我失恋的泪水",
+      "translation": null
+    },
+    {
+      "time": 166.142,
+      "time_str": "02:46.142",
+      "text": "却把你的感情付给别人去摧毁",
+      "translation": null
+    },
+    {
+      "time": 171.428,
+      "time_str": "02:51.428",
+      "text": "蒙娜丽莎 她是谁",
+      "translation": null
+    },
+    {
+      "time": 175.539,
+      "time_str": "02:55.539",
+      "text": "她是否也曾为爱寻觅好几回",
+      "translation": null
+    },
+    {
+      "time": 179.674,
+      "time_str": "02:59.674",
+      "text": "她的微笑那么神秘那么美",
+      "translation": null
+    },
+    {
+      "time": 183.29,
+      "time_str": "03:03.290",
+      "text": "或许她也走过感情的千山万水",
+      "translation": null
+    },
+    {
+      "time": 187.14,
+      "time_str": "03:07.140",
+      "text": "才发现 爱你的人",
+      "translation": null
+    },
+    {
+      "time": 191.246,
+      "time_str": "03:11.246",
+      "text": "不会让他的蒙娜丽莎流眼泪",
+      "translation": null
+    },
+    {
+      "time": 198.245,
+      "time_str": "03:18.245",
+      "text": "蒙娜丽莎 她是谁",
+      "translation": null
+    },
+    {
+      "time": 202.626,
+      "time_str": "03:22.626",
+      "text": "她是否也曾为爱争论错与对",
+      "translation": null
+    },
+    {
+      "time": 206.917,
+      "time_str": "03:26.917",
+      "text": "为什么你总留给我失恋的泪水",
+      "translation": null
+    },
+    {
+      "time": 210.527,
+      "time_str": "03:30.527",
+      "text": "却把你的感情付给别人去摧毁",
+      "translation": null
+    },
+    {
+      "time": 215.866,
+      "time_str": "03:35.866",
+      "text": "蒙娜丽莎 她是谁",
+      "translation": null
+    },
+    {
+      "time": 220.026,
+      "time_str": "03:40.026",
+      "text": "她是否也曾为爱寻觅好几回",
+      "translation": null
+    },
+    {
+      "time": 224.115,
+      "time_str": "03:44.115",
+      "text": "她的微笑那么神秘那么美",
+      "translation": null
+    },
+    {
+      "time": 227.715,
+      "time_str": "03:47.715",
+      "text": "或许她也走过感情的千山万水",
+      "translation": null
+    },
+    {
+      "time": 231.62,
+      "time_str": "03:51.620",
+      "text": "才发现 爱你的人",
+      "translation": null
+    },
+    {
+      "time": 235.721,
+      "time_str": "03:55.721",
+      "text": "不会让他的蒙娜丽莎流眼泪",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "蒙娜丽莎的眼泪 - 林志炫.lrc"
+}

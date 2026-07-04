@@ -1,0 +1,118 @@
+{
+  "title": "兰花草",
+  "title_raw": "兰花草",
+  "version": null,
+  "artist": "叶蒨文",
+  "group_key": "兰花草|叶蒨文",
+  "writers": {
+    "lyricist": "胡适",
+    "composer": "陈贤德",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 54.98,
+      "time_str": "00:54.980",
+      "text": "我从山中来带着兰花草",
+      "translation": null
+    },
+    {
+      "time": 59.5,
+      "time_str": "00:59.500",
+      "text": "种在小园中希望花开早",
+      "translation": null
+    },
+    {
+      "time": 64.41,
+      "time_str": "01:04.410",
+      "text": "一日看三回看得花时过",
+      "translation": null
+    },
+    {
+      "time": 69.45,
+      "time_str": "01:09.450",
+      "text": "兰花却依然苞也无一个",
+      "translation": null
+    },
+    {
+      "time": 84.74,
+      "time_str": "01:24.740",
+      "text": "转眼秋天到移兰入暖房",
+      "translation": null
+    },
+    {
+      "time": 89.29,
+      "time_str": "01:29.290",
+      "text": "朝朝频顾惜夜夜不相忘",
+      "translation": null
+    },
+    {
+      "time": 94.12,
+      "time_str": "01:34.120",
+      "text": "期待春花开能将夙愿偿",
+      "translation": null
+    },
+    {
+      "time": 99.29,
+      "time_str": "01:39.290",
+      "text": "满庭花簇簇添得许多香",
+      "translation": null
+    },
+    {
+      "time": 122.6,
+      "time_str": "02:02.600",
+      "text": "转眼秋天到移兰入暖房",
+      "translation": null
+    },
+    {
+      "time": 127.24,
+      "time_str": "02:07.240",
+      "text": "朝朝频顾惜夜夜不相忘",
+      "translation": null
+    },
+    {
+      "time": 132.21,
+      "time_str": "02:12.210",
+      "text": "期待春花开能将夙愿偿",
+      "translation": null
+    },
+    {
+      "time": 137.23,
+      "time_str": "02:17.230",
+      "text": "满庭花簇簇添得许多香",
+      "translation": null
+    },
+    {
+      "time": 172.59,
+      "time_str": "02:52.590",
+      "text": "我从山中来带着兰花草",
+      "translation": null
+    },
+    {
+      "time": 177.86,
+      "time_str": "02:57.860",
+      "text": "种在小园中希望花开早",
+      "translation": null
+    },
+    {
+      "time": 182.85,
+      "time_str": "03:02.850",
+      "text": "一日看三回看得花时过",
+      "translation": null
+    },
+    {
+      "time": 187.75,
+      "time_str": "03:07.750",
+      "text": "兰花却依然苞也无一个",
+      "translation": null
+    },
+    {
+      "time": 192.93,
+      "time_str": "03:12.930",
+      "text": "兰花却依然苞也无一个",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "兰花草 - 叶蒨文.lrc"
+}

@@ -1,0 +1,136 @@
+{
+  "title": "烟雨唱扬州",
+  "title_raw": "烟雨唱扬州",
+  "version": null,
+  "artist": "李殊",
+  "group_key": "烟雨唱扬州|李殊",
+  "writers": {
+    "lyricist": "张子恩 童边",
+    "composer": "雷蕾",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.66,
+      "time_str": "00:14.660",
+      "text": "风吹云动天不动",
+      "translation": null
+    },
+    {
+      "time": 20.69,
+      "time_str": "00:20.690",
+      "text": "水推船移岸不移",
+      "translation": null
+    },
+    {
+      "time": 27.5,
+      "time_str": "00:27.500",
+      "text": "刀切莲藕丝不断",
+      "translation": null
+    },
+    {
+      "time": 33.9,
+      "time_str": "00:33.900",
+      "text": "山高水远情不离",
+      "translation": null
+    },
+    {
+      "time": 39.29,
+      "time_str": "00:39.290",
+      "text": "雨绵绵情依依",
+      "translation": null
+    },
+    {
+      "time": 45.65,
+      "time_str": "00:45.650",
+      "text": "多少故事在心里",
+      "translation": null
+    },
+    {
+      "time": 52.23,
+      "time_str": "00:52.230",
+      "text": "五月烟雨蒙蒙唱扬州",
+      "translation": null
+    },
+    {
+      "time": 60.2,
+      "time_str": "01:00.200",
+      "text": "百年巧合话惊奇",
+      "translation": null
+    },
+    {
+      "time": 66.12,
+      "time_str": "01:06.120",
+      "text": "善恶皆会得报应",
+      "translation": null
+    },
+    {
+      "time": 72.7,
+      "time_str": "01:12.700",
+      "text": "祸福自然有天理",
+      "translation": null
+    },
+    {
+      "time": 79.71,
+      "time_str": "01:19.710",
+      "text": "姻缘桩桩似线牵",
+      "translation": null
+    },
+    {
+      "time": 85.93,
+      "time_str": "01:25.930",
+      "text": "万事幽幽当自立",
+      "translation": null
+    },
+    {
+      "time": 91.66,
+      "time_str": "01:31.660",
+      "text": "雨绵绵情依依",
+      "translation": null
+    },
+    {
+      "time": 97.81,
+      "time_str": "01:37.810",
+      "text": "多少故事在心里",
+      "translation": null
+    },
+    {
+      "time": 104.57,
+      "time_str": "01:44.570",
+      "text": "五月烟雨蒙蒙唱扬州",
+      "translation": null
+    },
+    {
+      "time": 111.979,
+      "time_str": "01:51.979",
+      "text": "百年巧合话惊奇",
+      "translation": null
+    },
+    {
+      "time": 117.25,
+      "time_str": "01:57.250",
+      "text": "雨绵绵情依依",
+      "translation": null
+    },
+    {
+      "time": 123.72,
+      "time_str": "02:03.720",
+      "text": "多少故事在心里",
+      "translation": null
+    },
+    {
+      "time": 130.5,
+      "time_str": "02:10.500",
+      "text": "五月烟雨蒙蒙唱扬州",
+      "translation": null
+    },
+    {
+      "time": 137.28,
+      "time_str": "02:17.280",
+      "text": "百年巧合话惊奇",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "烟雨唱扬州 - 李殊.lrc"
+}

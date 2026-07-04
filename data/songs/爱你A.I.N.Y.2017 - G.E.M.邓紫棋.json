@@ -1,0 +1,352 @@
+{
+  "title": "爱你A.I.N.Y.2017",
+  "title_raw": "爱你A.I.N.Y.2017",
+  "version": null,
+  "artist": "G.E.M.邓紫棋",
+  "group_key": "爱你a.i.n.y.2017|g.e.m.邓紫棋",
+  "writers": {
+    "lyricist": "G.E.M.邓紫棋",
+    "composer": "G.E.M.邓紫棋/Lupo Groinig",
+    "arranger": "Lupo Groinig"
+  },
+  "lyrics": [
+    {
+      "time": 13.95,
+      "time_str": "00:13.950",
+      "text": "分开以后每个夜晚",
+      "translation": null
+    },
+    {
+      "time": 17.11,
+      "time_str": "00:17.110",
+      "text": "格外的寂静",
+      "translation": null
+    },
+    {
+      "time": 20.56,
+      "time_str": "00:20.560",
+      "text": "滴答滴答",
+      "translation": null
+    },
+    {
+      "time": 22.27,
+      "time_str": "00:22.270",
+      "text": "剩大钟在陪着我回忆",
+      "translation": null
+    },
+    {
+      "time": 27.35,
+      "time_str": "00:27.350",
+      "text": "电话里头曾经是你最温柔的声音",
+      "translation": null
+    },
+    {
+      "time": 33.73,
+      "time_str": "00:33.730",
+      "text": "现在只有空气",
+      "translation": null
+    },
+    {
+      "time": 35.9,
+      "time_str": "00:35.900",
+      "text": "冷漠地回应",
+      "translation": null
+    },
+    {
+      "time": 40.28,
+      "time_str": "00:40.280",
+      "text": "Oh 给你我的心",
+      "translation": null
+    },
+    {
+      "time": 43.68,
+      "time_str": "00:43.680",
+      "text": "能否请你别遗弃",
+      "translation": null
+    },
+    {
+      "time": 47.54,
+      "time_str": "00:47.540",
+      "text": "一句爱你爱你爱你爱你",
+      "translation": null
+    },
+    {
+      "time": 50.72,
+      "time_str": "00:50.720",
+      "text": "能否再也不分离",
+      "translation": null
+    },
+    {
+      "time": 53.95,
+      "time_str": "00:53.950",
+      "text": "Oh 给你我的心",
+      "translation": null
+    },
+    {
+      "time": 57.38,
+      "time_str": "00:57.380",
+      "text": "为什么你却给了我孤寂",
+      "translation": null
+    },
+    {
+      "time": 61.27,
+      "time_str": "01:01.270",
+      "text": "就算爱你爱你爱你爱你",
+      "translation": null
+    },
+    {
+      "time": 64.34,
+      "time_str": "01:04.340",
+      "text": "可能你也不想听",
+      "translation": null
+    },
+    {
+      "time": 75.73,
+      "time_str": "01:15.730",
+      "text": "你的拥抱曾经是",
+      "translation": null
+    },
+    {
+      "time": 78.48,
+      "time_str": "01:18.480",
+      "text": "最温暖最熟悉",
+      "translation": null
+    },
+    {
+      "time": 82.32,
+      "time_str": "01:22.320",
+      "text": "现在换了谁安睡在你胸口的位置",
+      "translation": null
+    },
+    {
+      "time": 89.27,
+      "time_str": "01:29.270",
+      "text": "你的承诺曾是一种不自觉的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 95.49,
+      "time_str": "01:35.490",
+      "text": "现在一划一笔",
+      "translation": null
+    },
+    {
+      "time": 97.68,
+      "time_str": "01:37.680",
+      "text": "刺在我心里",
+      "translation": null
+    },
+    {
+      "time": 101.97,
+      "time_str": "01:41.970",
+      "text": "Oh 给你我的心",
+      "translation": null
+    },
+    {
+      "time": 105.29,
+      "time_str": "01:45.290",
+      "text": "能否请你别遗弃",
+      "translation": null
+    },
+    {
+      "time": 109.25,
+      "time_str": "01:49.250",
+      "text": "一句爱你爱你爱你爱你",
+      "translation": null
+    },
+    {
+      "time": 112.24,
+      "time_str": "01:52.240",
+      "text": "能否再也不分离",
+      "translation": null
+    },
+    {
+      "time": 115.55,
+      "time_str": "01:55.550",
+      "text": "Oh 给你我的心",
+      "translation": null
+    },
+    {
+      "time": 119.16,
+      "time_str": "01:59.160",
+      "text": "为什么你却给了我孤寂",
+      "translation": null
+    },
+    {
+      "time": 122.95,
+      "time_str": "02:02.950",
+      "text": "就算爱你爱你爱你爱你",
+      "translation": null
+    },
+    {
+      "time": 126.0,
+      "time_str": "02:06.000",
+      "text": "可能你也不想听 你不想听",
+      "translation": null
+    },
+    {
+      "time": 151.28,
+      "time_str": "02:31.280",
+      "text": "回忆",
+      "translation": null
+    },
+    {
+      "time": 151.83,
+      "time_str": "02:31.830",
+      "text": "最后的回忆",
+      "translation": null
+    },
+    {
+      "time": 152.84,
+      "time_str": "02:32.840",
+      "text": "对你最后的回忆",
+      "translation": null
+    },
+    {
+      "time": 154.43,
+      "time_str": "02:34.430",
+      "text": "是你",
+      "translation": null
+    },
+    {
+      "time": 154.95,
+      "time_str": "02:34.950",
+      "text": "走远的身影",
+      "translation": null
+    },
+    {
+      "time": 156.2,
+      "time_str": "02:36.200",
+      "text": "慢慢走远的身影",
+      "translation": null
+    },
+    {
+      "time": 157.88,
+      "time_str": "02:37.880",
+      "text": "然后你",
+      "translation": null
+    },
+    {
+      "time": 158.74,
+      "time_str": "02:38.740",
+      "text": "离开了",
+      "translation": null
+    },
+    {
+      "time": 159.54,
+      "time_str": "02:39.540",
+      "text": "离开了没有痕迹",
+      "translation": null
+    },
+    {
+      "time": 161.4,
+      "time_str": "02:41.400",
+      "text": "然后我 哭泣",
+      "translation": null
+    },
+    {
+      "time": 163.05,
+      "time_str": "02:43.050",
+      "text": "崩溃了放纵哭泣",
+      "translation": null
+    },
+    {
+      "time": 164.92,
+      "time_str": "02:44.920",
+      "text": "恨你恨你 每当我想起曾经",
+      "translation": null
+    },
+    {
+      "time": 168.31,
+      "time_str": "02:48.310",
+      "text": "曾经曾经曾经曾经",
+      "translation": null
+    },
+    {
+      "time": 172.28,
+      "time_str": "02:52.280",
+      "text": "Yeah",
+      "translation": null
+    },
+    {
+      "time": 180.06,
+      "time_str": "03:00.060",
+      "text": "还是爱你爱你爱你爱你",
+      "translation": null
+    },
+    {
+      "time": 182.73,
+      "time_str": "03:02.730",
+      "text": "难道还不能清醒",
+      "translation": null
+    },
+    {
+      "time": 186.12,
+      "time_str": "03:06.120",
+      "text": "Oh 给你我的心",
+      "translation": null
+    },
+    {
+      "time": 189.21,
+      "time_str": "03:09.210",
+      "text": "为什么你却给了我孤寂",
+      "translation": null
+    },
+    {
+      "time": 193.45,
+      "time_str": "03:13.450",
+      "text": "一句爱你爱你爱你爱你",
+      "translation": null
+    },
+    {
+      "time": 196.36,
+      "time_str": "03:16.360",
+      "text": "难道你也不想听",
+      "translation": null
+    },
+    {
+      "time": 199.64,
+      "time_str": "03:19.640",
+      "text": "Oh 给你我的心",
+      "translation": null
+    },
+    {
+      "time": 202.87,
+      "time_str": "03:22.870",
+      "text": "为什么你却给了我孤寂",
+      "translation": null
+    },
+    {
+      "time": 207.06,
+      "time_str": "03:27.060",
+      "text": "就算爱你爱你爱你爱你",
+      "translation": null
+    },
+    {
+      "time": 210.14,
+      "time_str": "03:30.140",
+      "text": "不值得为你伤心伤心",
+      "translation": null
+    },
+    {
+      "time": 221.4,
+      "time_str": "03:41.400",
+      "text": "Your confession remains to be my final pleading",
+      "translation": null
+    },
+    {
+      "time": 225.57,
+      "time_str": "03:45.570",
+      "text": "But the only thing that's here with me",
+      "translation": null
+    },
+    {
+      "time": 227.83,
+      "time_str": "03:47.830",
+      "text": "Is tic tac tic tac tic tac tic tac",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱你A.I.N.Y.2017 - G.E.M.邓紫棋.lrc"
+}

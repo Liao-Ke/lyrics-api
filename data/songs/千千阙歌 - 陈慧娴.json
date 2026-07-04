@@ -1,0 +1,388 @@
+{
+  "title": "千千阙歌",
+  "title_raw": "千千阙歌",
+  "version": null,
+  "artist": "陈慧娴",
+  "group_key": "千千阙歌|陈慧娴",
+  "writers": {
+    "lyricist": "林振强",
+    "composer": "马饲野康二",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 15.5,
+      "time_str": "00:15.500",
+      "text": "徐徐回望",
+      "translation": null
+    },
+    {
+      "time": 17.86,
+      "time_str": "00:17.860",
+      "text": "曾属于彼此的晚上",
+      "translation": null
+    },
+    {
+      "time": 22.7,
+      "time_str": "00:22.700",
+      "text": "红红仍是你",
+      "translation": null
+    },
+    {
+      "time": 24.75,
+      "time_str": "00:24.750",
+      "text": "赠我的心中艳阳",
+      "translation": null
+    },
+    {
+      "time": 29.37,
+      "time_str": "00:29.370",
+      "text": "如流傻泪",
+      "translation": null
+    },
+    {
+      "time": 31.92,
+      "time_str": "00:31.920",
+      "text": "祈望可体恤兼见谅",
+      "translation": null
+    },
+    {
+      "time": 36.6,
+      "time_str": "00:36.600",
+      "text": "明晨离别你",
+      "translation": null
+    },
+    {
+      "time": 39.0,
+      "time_str": "00:39.000",
+      "text": "路也许孤单得漫长",
+      "translation": null
+    },
+    {
+      "time": 43.76,
+      "time_str": "00:43.760",
+      "text": "一瞬间 太多东西要讲",
+      "translation": null
+    },
+    {
+      "time": 47.11,
+      "time_str": "00:47.110",
+      "text": "可惜即将在各一方",
+      "translation": null
+    },
+    {
+      "time": 50.11,
+      "time_str": "00:50.110",
+      "text": "只好深深把这刻尽凝望",
+      "translation": null
+    },
+    {
+      "time": 56.75,
+      "time_str": "00:56.750",
+      "text": "来日纵使千千阕歌",
+      "translation": null
+    },
+    {
+      "time": 60.3,
+      "time_str": "01:00.300",
+      "text": "飘于远方我路上",
+      "translation": null
+    },
+    {
+      "time": 63.93,
+      "time_str": "01:03.930",
+      "text": "来日纵使千千晚星",
+      "translation": null
+    },
+    {
+      "time": 67.38,
+      "time_str": "01:07.380",
+      "text": "亮过今晚月亮",
+      "translation": null
+    },
+    {
+      "time": 71.62,
+      "time_str": "01:11.620",
+      "text": "都比不起这宵美丽",
+      "translation": null
+    },
+    {
+      "time": 75.08,
+      "time_str": "01:15.080",
+      "text": "亦绝不可使我更欣赏",
+      "translation": null
+    },
+    {
+      "time": 78.28,
+      "time_str": "01:18.280",
+      "text": "AH 因你今晚共我唱",
+      "translation": null
+    },
+    {
+      "time": 118.09,
+      "time_str": "01:58.090",
+      "text": "临行临别",
+      "translation": null
+    },
+    {
+      "time": 120.29,
+      "time_str": "02:00.290",
+      "text": "才顿感哀伤的漂亮",
+      "translation": null
+    },
+    {
+      "time": 125.15,
+      "time_str": "02:05.150",
+      "text": "原来全是你",
+      "translation": null
+    },
+    {
+      "time": 127.36,
+      "time_str": "02:07.360",
+      "text": "令我的思忆漫长",
+      "translation": null
+    },
+    {
+      "time": 132.24,
+      "time_str": "02:12.240",
+      "text": "何年何月",
+      "translation": null
+    },
+    {
+      "time": 134.39,
+      "time_str": "02:14.390",
+      "text": "才又可今宵一样",
+      "translation": null
+    },
+    {
+      "time": 138.68,
+      "time_str": "02:18.680",
+      "text": "停留凝望里",
+      "translation": null
+    },
+    {
+      "time": 141.53,
+      "time_str": "02:21.530",
+      "text": "让眼睛讲彼此立场",
+      "translation": null
+    },
+    {
+      "time": 146.12,
+      "time_str": "02:26.120",
+      "text": "当某天",
+      "translation": null
+    },
+    {
+      "time": 147.38,
+      "time_str": "02:27.380",
+      "text": "雨点轻敲你窗",
+      "translation": null
+    },
+    {
+      "time": 149.33,
+      "time_str": "02:29.330",
+      "text": "当风声吹乱你构想",
+      "translation": null
+    },
+    {
+      "time": 152.69,
+      "time_str": "02:32.690",
+      "text": "可否抽空想这张旧模样",
+      "translation": null
+    },
+    {
+      "time": 159.36,
+      "time_str": "02:39.360",
+      "text": "来日纵使千千阕歌",
+      "translation": null
+    },
+    {
+      "time": 162.87,
+      "time_str": "02:42.870",
+      "text": "飘于远方我路上",
+      "translation": null
+    },
+    {
+      "time": 166.39,
+      "time_str": "02:46.390",
+      "text": "来日纵使千千晚星",
+      "translation": null
+    },
+    {
+      "time": 169.82,
+      "time_str": "02:49.820",
+      "text": "亮过今晚月亮",
+      "translation": null
+    },
+    {
+      "time": 174.1,
+      "time_str": "02:54.100",
+      "text": "都比不起这宵美丽",
+      "translation": null
+    },
+    {
+      "time": 177.39,
+      "time_str": "02:57.390",
+      "text": "亦绝不可使我更欣赏",
+      "translation": null
+    },
+    {
+      "time": 180.89,
+      "time_str": "03:00.890",
+      "text": "AH 因你今晚共我唱",
+      "translation": null
+    },
+    {
+      "time": 201.07,
+      "time_str": "03:21.070",
+      "text": "HA 怎都比不起这宵美丽",
+      "translation": null
+    },
+    {
+      "time": 205.73,
+      "time_str": "03:25.730",
+      "text": "亦绝不可使我更欣赏",
+      "translation": null
+    },
+    {
+      "time": 209.13,
+      "time_str": "03:29.130",
+      "text": "因今宵的我可共你唱",
+      "translation": null
+    },
+    {
+      "time": 215.99,
+      "time_str": "03:35.990",
+      "text": "来日纵使千千阕歌",
+      "translation": null
+    },
+    {
+      "time": 219.34,
+      "time_str": "03:39.340",
+      "text": "飘于远方我路上",
+      "translation": null
+    },
+    {
+      "time": 222.99,
+      "time_str": "03:42.990",
+      "text": "来日纵使千千晚星",
+      "translation": null
+    },
+    {
+      "time": 226.14,
+      "time_str": "03:46.140",
+      "text": "亮过今晚月亮",
+      "translation": null
+    },
+    {
+      "time": 230.49,
+      "time_str": "03:50.490",
+      "text": "都比不起这宵美丽",
+      "translation": null
+    },
+    {
+      "time": 233.95,
+      "time_str": "03:53.950",
+      "text": "亦绝不可使我更欣赏",
+      "translation": null
+    },
+    {
+      "time": 237.3,
+      "time_str": "03:57.300",
+      "text": "AH 因你今晚共我唱",
+      "translation": null
+    },
+    {
+      "time": 244.09,
+      "time_str": "04:04.090",
+      "text": "来日纵使千千阕歌",
+      "translation": null
+    },
+    {
+      "time": 247.55,
+      "time_str": "04:07.550",
+      "text": "飘于远方我路上",
+      "translation": null
+    },
+    {
+      "time": 251.25,
+      "time_str": "04:11.250",
+      "text": "来日纵使千千晚星",
+      "translation": null
+    },
+    {
+      "time": 254.55,
+      "time_str": "04:14.550",
+      "text": "亮过今晚月亮",
+      "translation": null
+    },
+    {
+      "time": 258.68,
+      "time_str": "04:18.680",
+      "text": "都比不起这宵美丽",
+      "translation": null
+    },
+    {
+      "time": 262.18,
+      "time_str": "04:22.180",
+      "text": "都洗不清今晚我所想",
+      "translation": null
+    },
+    {
+      "time": 265.63,
+      "time_str": "04:25.630",
+      "text": "因不知哪天再共你唱",
+      "translation": null
+    },
+    {
+      "time": 293.538,
+      "time_str": "04:53.538",
+      "text": "Keyboards : 卢东尼/大谷幸",
+      "translation": null
+    },
+    {
+      "time": 293.924,
+      "time_str": "04:53.924",
+      "text": "Drums : 冈本郭男",
+      "translation": null
+    },
+    {
+      "time": 294.141,
+      "time_str": "04:54.141",
+      "text": "Bass : 渡边茂树",
+      "translation": null
+    },
+    {
+      "time": 294.363,
+      "time_str": "04:54.363",
+      "text": "Guitars : 苏德华/伊丹雅博",
+      "translation": null
+    },
+    {
+      "time": 294.556,
+      "time_str": "04:54.556",
+      "text": "Strings : Encora",
+      "translation": null
+    },
+    {
+      "time": 294.746,
+      "time_str": "04:54.746",
+      "text": "Chorus : Nancy/May/李小梅/Patrick/Donald/Michael/Priscilla",
+      "translation": null
+    },
+    {
+      "time": 294.962,
+      "time_str": "04:54.962",
+      "text": "Studios : Dragon Studio/Nippon Phonogram(Rhythm section)/EMI HK (Strings section)",
+      "translation": null
+    },
+    {
+      "time": 295.421,
+      "time_str": "04:55.421",
+      "text": "SP : Taiyo Music (HK) Ltd.",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "千千阙歌 - 陈慧娴.lrc"
+}

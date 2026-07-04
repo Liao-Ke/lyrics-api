@@ -1,0 +1,364 @@
+{
+  "title": "去年夏天",
+  "title_raw": "去年夏天",
+  "version": null,
+  "artist": "杨梓琪呀",
+  "group_key": "去年夏天|杨梓琪呀",
+  "writers": {
+    "lyricist": "家家",
+    "composer": "家家",
+    "arranger": "家家"
+  },
+  "lyrics": [
+    {
+      "time": 17.61,
+      "time_str": "00:17.610",
+      "text": "还有什么等待还有什么悲哀",
+      "translation": null
+    },
+    {
+      "time": 21.41,
+      "time_str": "00:21.410",
+      "text": "这故事中的人不太精彩",
+      "translation": null
+    },
+    {
+      "time": 25.42,
+      "time_str": "00:25.420",
+      "text": "夏去了又回来而人却已不在",
+      "translation": null
+    },
+    {
+      "time": 29.16,
+      "time_str": "00:29.160",
+      "text": "它重复着我汹涌的忍耐",
+      "translation": null
+    },
+    {
+      "time": 32.98,
+      "time_str": "00:32.980",
+      "text": "今年兰花又开开了它也会败",
+      "translation": null
+    },
+    {
+      "time": 36.96,
+      "time_str": "00:36.960",
+      "text": "我想要一个人活得精彩",
+      "translation": null
+    },
+    {
+      "time": 40.79,
+      "time_str": "00:40.790",
+      "text": "有些人总会来",
+      "translation": null
+    },
+    {
+      "time": 42.62,
+      "time_str": "00:42.620",
+      "text": "有些人在我心中在徘徊",
+      "translation": null
+    },
+    {
+      "time": 48.42,
+      "time_str": "00:48.420",
+      "text": "我拿了总会还你拿了就逃开",
+      "translation": null
+    },
+    {
+      "time": 52.42,
+      "time_str": "00:52.420",
+      "text": "在失去中我慢慢的变呆",
+      "translation": null
+    },
+    {
+      "time": 56.36,
+      "time_str": "00:56.360",
+      "text": "是不同步的未来",
+      "translation": null
+    },
+    {
+      "time": 60.03,
+      "time_str": "01:00.030",
+      "text": "却把书包中的日记更改",
+      "translation": null
+    },
+    {
+      "time": 63.95,
+      "time_str": "01:03.950",
+      "text": "把虚伪的尘埃也全部都掩盖",
+      "translation": null
+    },
+    {
+      "time": 67.95,
+      "time_str": "01:07.950",
+      "text": "把每次心痛都当成活该",
+      "translation": null
+    },
+    {
+      "time": 71.92,
+      "time_str": "01:11.920",
+      "text": "把心慢慢的释怀",
+      "translation": null
+    },
+    {
+      "time": 75.45,
+      "time_str": "01:15.450",
+      "text": "我相信总有一天你会明白",
+      "translation": null
+    },
+    {
+      "time": 79.52,
+      "time_str": "01:19.520",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 81.26,
+      "time_str": "01:21.260",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 83.26,
+      "time_str": "01:23.260",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 85.47,
+      "time_str": "01:25.470",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 96.47,
+      "time_str": "01:36.470",
+      "text": "疼不疼痛不痛",
+      "translation": null
+    },
+    {
+      "time": 98.16,
+      "time_str": "01:38.160",
+      "text": "这样一直被动",
+      "translation": null
+    },
+    {
+      "time": 99.97,
+      "time_str": "01:39.970",
+      "text": "幻想中我的梦",
+      "translation": null
+    },
+    {
+      "time": 102.02,
+      "time_str": "01:42.020",
+      "text": "总会过分要命的囧",
+      "translation": null
+    },
+    {
+      "time": 104.15,
+      "time_str": "01:44.150",
+      "text": "在过去每个时候我都会想象的念头",
+      "translation": null
+    },
+    {
+      "time": 110.94,
+      "time_str": "01:50.940",
+      "text": "别怕就算我是你的",
+      "translation": null
+    },
+    {
+      "time": 113.09,
+      "time_str": "01:53.090",
+      "text": "小小狗也总会被打痛",
+      "translation": null
+    },
+    {
+      "time": 115.82,
+      "time_str": "01:55.820",
+      "text": "意念中想不痛",
+      "translation": null
+    },
+    {
+      "time": 117.47,
+      "time_str": "01:57.470",
+      "text": "却总是被一次掏空",
+      "translation": null
+    },
+    {
+      "time": 119.76,
+      "time_str": "01:59.760",
+      "text": "在去年夏天跟你说了",
+      "translation": null
+    },
+    {
+      "time": 122.26,
+      "time_str": "02:02.260",
+      "text": "一个小小要求",
+      "translation": null
+    },
+    {
+      "time": 126.12,
+      "time_str": "02:06.120",
+      "text": "还有什么等待还有什么悲哀",
+      "translation": null
+    },
+    {
+      "time": 129.87,
+      "time_str": "02:09.870",
+      "text": "这故事中的人不太精彩",
+      "translation": null
+    },
+    {
+      "time": 133.62,
+      "time_str": "02:13.620",
+      "text": "夏去了又回来",
+      "translation": null
+    },
+    {
+      "time": 135.52,
+      "time_str": "02:15.520",
+      "text": "而人却已不在",
+      "translation": null
+    },
+    {
+      "time": 137.67,
+      "time_str": "02:17.670",
+      "text": "它重复着我汹涌的忍耐",
+      "translation": null
+    },
+    {
+      "time": 141.51,
+      "time_str": "02:21.510",
+      "text": "我拿了总会还",
+      "translation": null
+    },
+    {
+      "time": 143.47,
+      "time_str": "02:23.470",
+      "text": "你拿了就逃开",
+      "translation": null
+    },
+    {
+      "time": 145.44,
+      "time_str": "02:25.440",
+      "text": "在失去中我慢慢的变呆",
+      "translation": null
+    },
+    {
+      "time": 149.24,
+      "time_str": "02:29.240",
+      "text": "是不同步的未来",
+      "translation": null
+    },
+    {
+      "time": 152.96,
+      "time_str": "02:32.960",
+      "text": "却把书包中的日记更改",
+      "translation": null
+    },
+    {
+      "time": 156.93,
+      "time_str": "02:36.930",
+      "text": "把虚伪的尘埃",
+      "translation": null
+    },
+    {
+      "time": 158.9,
+      "time_str": "02:38.900",
+      "text": "也全部都掩盖",
+      "translation": null
+    },
+    {
+      "time": 160.88,
+      "time_str": "02:40.880",
+      "text": "把每次心痛都当成活该",
+      "translation": null
+    },
+    {
+      "time": 164.71,
+      "time_str": "02:44.710",
+      "text": "把心慢慢的释怀",
+      "translation": null
+    },
+    {
+      "time": 168.43,
+      "time_str": "02:48.430",
+      "text": "我相信总有一天你会明白",
+      "translation": null
+    },
+    {
+      "time": 172.49,
+      "time_str": "02:52.490",
+      "text": "我拿了总会还",
+      "translation": null
+    },
+    {
+      "time": 174.51,
+      "time_str": "02:54.510",
+      "text": "你拿了就逃开",
+      "translation": null
+    },
+    {
+      "time": 176.42,
+      "time_str": "02:56.420",
+      "text": "在失去中我慢慢的变呆",
+      "translation": null
+    },
+    {
+      "time": 180.21,
+      "time_str": "03:00.210",
+      "text": "是不同步的未来",
+      "translation": null
+    },
+    {
+      "time": 183.85,
+      "time_str": "03:03.850",
+      "text": "却把书包中的日记更改",
+      "translation": null
+    },
+    {
+      "time": 187.98,
+      "time_str": "03:07.980",
+      "text": "把虚伪的尘埃",
+      "translation": null
+    },
+    {
+      "time": 189.98,
+      "time_str": "03:09.980",
+      "text": "也全部都掩盖",
+      "translation": null
+    },
+    {
+      "time": 191.94,
+      "time_str": "03:11.940",
+      "text": "把每次心痛都当成活该",
+      "translation": null
+    },
+    {
+      "time": 195.81,
+      "time_str": "03:15.810",
+      "text": "把心慢慢的释怀",
+      "translation": null
+    },
+    {
+      "time": 199.38,
+      "time_str": "03:19.380",
+      "text": "我相信总有一天你会明白",
+      "translation": null
+    },
+    {
+      "time": 203.48,
+      "time_str": "03:23.480",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 205.28,
+      "time_str": "03:25.280",
+      "text": "啦",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "去年夏天 - 杨梓琪呀.lrc"
+}

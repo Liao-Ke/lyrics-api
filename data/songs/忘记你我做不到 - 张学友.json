@@ -1,0 +1,352 @@
+{
+  "title": "忘记你我做不到",
+  "title_raw": "忘记你我做不到",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "忘记你我做不到|张学友",
+  "writers": {
+    "lyricist": "陈家丽",
+    "composer": "郭子",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 30.225,
+      "time_str": "00:30.225",
+      "text": "有爱就有恨",
+      "translation": null
+    },
+    {
+      "time": 34.195,
+      "time_str": "00:34.195",
+      "text": "或多或少",
+      "translation": null
+    },
+    {
+      "time": 37.802,
+      "time_str": "00:37.802",
+      "text": "有幸福就有烦恼",
+      "translation": null
+    },
+    {
+      "time": 40.528,
+      "time_str": "00:40.528",
+      "text": "除非你都不要",
+      "translation": null
+    },
+    {
+      "time": 45.586,
+      "time_str": "00:45.586",
+      "text": "跟你的温柔比较",
+      "translation": null
+    },
+    {
+      "time": 48.35,
+      "time_str": "00:48.350",
+      "text": "一切变得不重要",
+      "translation": null
+    },
+    {
+      "time": 53.32,
+      "time_str": "00:53.320",
+      "text": "没有你分分秒秒",
+      "translation": null
+    },
+    {
+      "time": 57.474,
+      "time_str": "00:57.474",
+      "text": "都是煎熬",
+      "translation": null
+    },
+    {
+      "time": 65.107,
+      "time_str": "01:05.107",
+      "text": "有爱就有恨",
+      "translation": null
+    },
+    {
+      "time": 68.936,
+      "time_str": "01:08.936",
+      "text": "或多或少",
+      "translation": null
+    },
+    {
+      "time": 72.689,
+      "time_str": "01:12.689",
+      "text": "想一次白头到老",
+      "translation": null
+    },
+    {
+      "time": 75.191,
+      "time_str": "01:15.191",
+      "text": "说再见太潦草",
+      "translation": null
+    },
+    {
+      "time": 80.158,
+      "time_str": "01:20.158",
+      "text": "看你头也不回地走掉",
+      "translation": null
+    },
+    {
+      "time": 83.642,
+      "time_str": "01:23.642",
+      "text": "心里像火烧",
+      "translation": null
+    },
+    {
+      "time": 87.865,
+      "time_str": "01:27.865",
+      "text": "分分秒秒没有你",
+      "translation": null
+    },
+    {
+      "time": 91.363,
+      "time_str": "01:31.363",
+      "text": "管他艳阳高照",
+      "translation": null
+    },
+    {
+      "time": 94.238,
+      "time_str": "01:34.238",
+      "text": "忘记你我做不到",
+      "translation": null
+    },
+    {
+      "time": 96.639,
+      "time_str": "01:36.639",
+      "text": "不去天涯海角",
+      "translation": null
+    },
+    {
+      "time": 99.91,
+      "time_str": "01:39.910",
+      "text": "在我身边就好",
+      "translation": null
+    },
+    {
+      "time": 102.36,
+      "time_str": "01:42.360",
+      "text": "要是承诺不可靠",
+      "translation": null
+    },
+    {
+      "time": 106.452,
+      "time_str": "01:46.452",
+      "text": "是什么让我们拥抱",
+      "translation": null
+    },
+    {
+      "time": 109.652,
+      "time_str": "01:49.652",
+      "text": "忘记你我做不到",
+      "translation": null
+    },
+    {
+      "time": 112.02,
+      "time_str": "01:52.020",
+      "text": "不去天涯海角",
+      "translation": null
+    },
+    {
+      "time": 114.555,
+      "time_str": "01:54.555",
+      "text": "在我身边就好",
+      "translation": null
+    },
+    {
+      "time": 117.747,
+      "time_str": "01:57.747",
+      "text": "如果爱是痛苦的泥沼",
+      "translation": null
+    },
+    {
+      "time": 122.107,
+      "time_str": "02:02.107",
+      "text": "让我们一起逃",
+      "translation": null
+    },
+    {
+      "time": 161.806,
+      "time_str": "02:41.806",
+      "text": "有爱就有恨",
+      "translation": null
+    },
+    {
+      "time": 165.817,
+      "time_str": "02:45.817",
+      "text": "或多或少",
+      "translation": null
+    },
+    {
+      "time": 169.442,
+      "time_str": "02:49.442",
+      "text": "想一次白头到老",
+      "translation": null
+    },
+    {
+      "time": 172.104,
+      "time_str": "02:52.104",
+      "text": "说再见太潦草",
+      "translation": null
+    },
+    {
+      "time": 176.842,
+      "time_str": "02:56.842",
+      "text": "看你头也不回地走掉",
+      "translation": null
+    },
+    {
+      "time": 180.26,
+      "time_str": "03:00.260",
+      "text": "心里像火烧",
+      "translation": null
+    },
+    {
+      "time": 184.731,
+      "time_str": "03:04.731",
+      "text": "分分秒秒没有你",
+      "translation": null
+    },
+    {
+      "time": 187.981,
+      "time_str": "03:07.981",
+      "text": "管他艳阳高照",
+      "translation": null
+    },
+    {
+      "time": 191.62,
+      "time_str": "03:11.620",
+      "text": "忘记你我做不到",
+      "translation": null
+    },
+    {
+      "time": 193.313,
+      "time_str": "03:13.313",
+      "text": "不去天涯海角",
+      "translation": null
+    },
+    {
+      "time": 195.764,
+      "time_str": "03:15.764",
+      "text": "在我身边就好",
+      "translation": null
+    },
+    {
+      "time": 199.202,
+      "time_str": "03:19.202",
+      "text": "要是承诺不可靠",
+      "translation": null
+    },
+    {
+      "time": 203.282,
+      "time_str": "03:23.282",
+      "text": "是什么让我们拥抱",
+      "translation": null
+    },
+    {
+      "time": 206.333,
+      "time_str": "03:26.333",
+      "text": "忘记你我做不到",
+      "translation": null
+    },
+    {
+      "time": 208.683,
+      "time_str": "03:28.683",
+      "text": "不去天涯海角",
+      "translation": null
+    },
+    {
+      "time": 211.135,
+      "time_str": "03:31.135",
+      "text": "在我身边就好",
+      "translation": null
+    },
+    {
+      "time": 214.649,
+      "time_str": "03:34.649",
+      "text": "如果爱是痛苦的泥沼",
+      "translation": null
+    },
+    {
+      "time": 218.808,
+      "time_str": "03:38.808",
+      "text": "让我们一起逃",
+      "translation": null
+    },
+    {
+      "time": 225.894,
+      "time_str": "03:45.894",
+      "text": "喔…",
+      "translation": null
+    },
+    {
+      "time": 229.594,
+      "time_str": "03:49.594",
+      "text": "忘记你我做不到",
+      "translation": null
+    },
+    {
+      "time": 231.946,
+      "time_str": "03:51.946",
+      "text": "不去天涯海角",
+      "translation": null
+    },
+    {
+      "time": 234.45,
+      "time_str": "03:54.450",
+      "text": "在我身边就好",
+      "translation": null
+    },
+    {
+      "time": 237.879,
+      "time_str": "03:57.879",
+      "text": "要是承诺不可靠",
+      "translation": null
+    },
+    {
+      "time": 242.37,
+      "time_str": "04:02.370",
+      "text": "是什么让我们拥抱",
+      "translation": null
+    },
+    {
+      "time": 245.38,
+      "time_str": "04:05.380",
+      "text": "忘记你我做不到",
+      "translation": null
+    },
+    {
+      "time": 247.389,
+      "time_str": "04:07.389",
+      "text": "不去天涯海角",
+      "translation": null
+    },
+    {
+      "time": 249.941,
+      "time_str": "04:09.941",
+      "text": "在我身边就好",
+      "translation": null
+    },
+    {
+      "time": 253.332,
+      "time_str": "04:13.332",
+      "text": "如果爱是痛苦的泥沼",
+      "translation": null
+    },
+    {
+      "time": 257.463,
+      "time_str": "04:17.463",
+      "text": "让我们一起逃",
+      "translation": null
+    },
+    {
+      "time": 264.89,
+      "time_str": "04:24.890",
+      "text": "喔…喔…喔…",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "忘记你我做不到 - 张学友.lrc"
+}

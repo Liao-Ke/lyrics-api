@@ -1,0 +1,178 @@
+{
+  "title": "夜色",
+  "title_raw": "夜色",
+  "version": null,
+  "artist": "玉置浩二",
+  "group_key": "夜色|玉置浩二",
+  "writers": {
+    "lyricist": "玉置浩二/須藤晃",
+    "composer": "玉置浩二",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.67,
+      "time_str": "00:02.670",
+      "text": "詞：松井 五郎",
+      "translation": null
+    },
+    {
+      "time": 34.29,
+      "time_str": "00:34.290",
+      "text": "夢のつづきはこもれ陽",
+      "translation": "梦的延续是树叶下流淌的阳光"
+    },
+    {
+      "time": 41.79,
+      "time_str": "00:41.790",
+      "text": "静かなあなたの瞳",
+      "translation": "你安静的双眸"
+    },
+    {
+      "time": 48.43,
+      "time_str": "00:48.430",
+      "text": "遠くでピアノが聴こえてる",
+      "translation": "听见远处的琴声"
+    },
+    {
+      "time": 61.38,
+      "time_str": "01:01.380",
+      "text": "青い手帖にはさんだ",
+      "translation": "夹在蓝色的记事本中"
+    },
+    {
+      "time": 69.5,
+      "time_str": "01:09.500",
+      "text": "真夏のふたりの写真",
+      "translation": "盛夏时俩人的照片"
+    },
+    {
+      "time": 75.87,
+      "time_str": "01:15.870",
+      "text": "やさしい気持ちが",
+      "translation": "这份温情"
+    },
+    {
+      "time": 81.73,
+      "time_str": "01:21.730",
+      "text": "風になる時",
+      "translation": "化为清风"
+    },
+    {
+      "time": 87.66,
+      "time_str": "01:27.660",
+      "text": "あなたがいるから",
+      "translation": "因为有你"
+    },
+    {
+      "time": 94.19,
+      "time_str": "01:34.190",
+      "text": "いつもあたたかいから",
+      "translation": "时常让我感到温暖"
+    },
+    {
+      "time": 100.72,
+      "time_str": "01:40.720",
+      "text": "大切なことがよくわかる",
+      "translation": "让我体会到什么才是最重要的"
+    },
+    {
+      "time": 114.01,
+      "time_str": "01:54.010",
+      "text": "夕暮れ思い出",
+      "translation": "夕阳下的思念"
+    },
+    {
+      "time": 117.93,
+      "time_str": "01:57.930",
+      "text": "記念の指輪捜した",
+      "translation": "寻找纪念的戒指"
+    },
+    {
+      "time": 124.55,
+      "time_str": "02:04.550",
+      "text": "あなたに似合った",
+      "translation": "只是因为"
+    },
+    {
+      "time": 130.27,
+      "time_str": "02:10.270",
+      "text": "それだけで",
+      "translation": "它很适合你"
+    },
+    {
+      "time": 137.33,
+      "time_str": "02:17.330",
+      "text": "あの日そろいの帽子は",
+      "translation": "那天戴的情侣帽"
+    },
+    {
+      "time": 145.21,
+      "time_str": "02:25.210",
+      "text": "どんな街角にいても",
+      "translation": "无论在哪个街角"
+    },
+    {
+      "time": 151.47,
+      "time_str": "02:31.470",
+      "text": "ひとつに広がる空を知っていた",
+      "translation": "我们的天空依然广阔"
+    },
+    {
+      "time": 163.6,
+      "time_str": "02:43.600",
+      "text": "あなたがいるから",
+      "translation": "因为有你"
+    },
+    {
+      "time": 170.32,
+      "time_str": "02:50.320",
+      "text": "今でもまぶしいから",
+      "translation": "现在依然耀眼"
+    },
+    {
+      "time": 176.35,
+      "time_str": "02:56.350",
+      "text": "さみしかった日々も忘れてく",
+      "translation": "寂寞的时光也逐渐忘却"
+    },
+    {
+      "time": 212.67,
+      "time_str": "03:32.670",
+      "text": "あなたがいるから",
+      "translation": "因为有你"
+    },
+    {
+      "time": 218.3,
+      "time_str": "03:38.300",
+      "text": "いつもあたたかいから",
+      "translation": "时常让我感到温暖"
+    },
+    {
+      "time": 224.85,
+      "time_str": "03:44.850",
+      "text": "何より優しく暮したい",
+      "translation": "奢求着那样温柔的生活"
+    },
+    {
+      "time": 236.83,
+      "time_str": "03:56.830",
+      "text": "どれほど季節が",
+      "translation": "无论时光飞逝"
+    },
+    {
+      "time": 242.58,
+      "time_str": "04:02.580",
+      "text": "どれほど巡りきても",
+      "translation": "季节更替"
+    },
+    {
+      "time": 249.13,
+      "time_str": "04:09.130",
+      "text": "楽しかった日々を忘れない",
+      "translation": "不会忘记那快乐的时光"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "夜色 - 玉置浩二.lrc"
+}

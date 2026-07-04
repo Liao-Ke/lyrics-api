@@ -1,0 +1,334 @@
+{
+  "title": "分手快乐",
+  "title_raw": "分手快乐",
+  "version": null,
+  "artist": "梁静茹",
+  "group_key": "分手快乐|梁静茹",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "郭文贤",
+    "arranger": "陈飞午"
+  },
+  "lyrics": [
+    {
+      "time": 38.871,
+      "time_str": "00:38.871",
+      "text": "我无法帮你预言",
+      "translation": null
+    },
+    {
+      "time": 41.874,
+      "time_str": "00:41.874",
+      "text": "委屈求全有没有用",
+      "translation": null
+    },
+    {
+      "time": 45.79,
+      "time_str": "00:45.790",
+      "text": "可是我多么不舍",
+      "translation": null
+    },
+    {
+      "time": 48.829,
+      "time_str": "00:48.829",
+      "text": "朋友爱得那么苦痛",
+      "translation": null
+    },
+    {
+      "time": 52.692,
+      "time_str": "00:52.692",
+      "text": "爱可以不问对错",
+      "translation": null
+    },
+    {
+      "time": 55.848,
+      "time_str": "00:55.848",
+      "text": "至少要喜悦感动",
+      "translation": null
+    },
+    {
+      "time": 58.487,
+      "time_str": "00:58.487",
+      "text": "如果他总为别人撑伞",
+      "translation": null
+    },
+    {
+      "time": 61.64,
+      "time_str": "01:01.640",
+      "text": "你何苦非为他等在雨中",
+      "translation": null
+    },
+    {
+      "time": 66.592,
+      "time_str": "01:06.592",
+      "text": "泡咖啡让你暖手",
+      "translation": null
+    },
+    {
+      "time": 69.7,
+      "time_str": "01:09.700",
+      "text": "想挡挡你心口里的风",
+      "translation": null
+    },
+    {
+      "time": 73.695,
+      "time_str": "01:13.695",
+      "text": "你却想上街走走",
+      "translation": null
+    },
+    {
+      "time": 76.588,
+      "time_str": "01:16.588",
+      "text": "吹吹冷风会清醒得多",
+      "translation": null
+    },
+    {
+      "time": 80.526,
+      "time_str": "01:20.526",
+      "text": "你说你不怕分手",
+      "translation": null
+    },
+    {
+      "time": 83.623,
+      "time_str": "01:23.623",
+      "text": "只有点遗憾难过",
+      "translation": null
+    },
+    {
+      "time": 86.279,
+      "time_str": "01:26.279",
+      "text": "情人节就要来了",
+      "translation": null
+    },
+    {
+      "time": 88.591,
+      "time_str": "01:28.591",
+      "text": "剩自己一个",
+      "translation": null
+    },
+    {
+      "time": 90.32,
+      "time_str": "01:30.320",
+      "text": "其实爱对了人",
+      "translation": null
+    },
+    {
+      "time": 92.1,
+      "time_str": "01:32.100",
+      "text": "情人节每天都过",
+      "translation": null
+    },
+    {
+      "time": 96.262,
+      "time_str": "01:36.262",
+      "text": "分手快乐 祝你快乐",
+      "translation": null
+    },
+    {
+      "time": 99.665,
+      "time_str": "01:39.665",
+      "text": "你可以找到更好的",
+      "translation": null
+    },
+    {
+      "time": 103.158,
+      "time_str": "01:43.158",
+      "text": "不想过冬 厌倦沉重",
+      "translation": null
+    },
+    {
+      "time": 106.665,
+      "time_str": "01:46.665",
+      "text": "就飞去热带的岛屿游泳",
+      "translation": null
+    },
+    {
+      "time": 110.146,
+      "time_str": "01:50.146",
+      "text": "分手快乐 请你快乐",
+      "translation": null
+    },
+    {
+      "time": 113.533,
+      "time_str": "01:53.533",
+      "text": "挥别错的才能和对的相逢",
+      "translation": null
+    },
+    {
+      "time": 117.341,
+      "time_str": "01:57.341",
+      "text": "离开旧爱 像坐慢车",
+      "translation": null
+    },
+    {
+      "time": 120.492,
+      "time_str": "02:00.492",
+      "text": "看透彻了心就会是晴朗的",
+      "translation": null
+    },
+    {
+      "time": 124.931,
+      "time_str": "02:04.931",
+      "text": "没人能把谁的幸福没收",
+      "translation": null
+    },
+    {
+      "time": 130.867,
+      "time_str": "02:10.867",
+      "text": "你发誓你会活得有笑容",
+      "translation": null
+    },
+    {
+      "time": 171.007,
+      "time_str": "02:51.007",
+      "text": "泡咖啡让你暖手",
+      "translation": null
+    },
+    {
+      "time": 174.065,
+      "time_str": "02:54.065",
+      "text": "想挡挡你心口里的风",
+      "translation": null
+    },
+    {
+      "time": 178.003,
+      "time_str": "02:58.003",
+      "text": "你却想上街走走",
+      "translation": null
+    },
+    {
+      "time": 181.0,
+      "time_str": "03:01.000",
+      "text": "吹吹冷风会清醒得多",
+      "translation": null
+    },
+    {
+      "time": 184.954,
+      "time_str": "03:04.954",
+      "text": "你说你不怕分手",
+      "translation": null
+    },
+    {
+      "time": 187.948,
+      "time_str": "03:07.948",
+      "text": "只有点遗憾难过",
+      "translation": null
+    },
+    {
+      "time": 190.656,
+      "time_str": "03:10.656",
+      "text": "情人节就要来了",
+      "translation": null
+    },
+    {
+      "time": 192.854,
+      "time_str": "03:12.854",
+      "text": "剩自己一个",
+      "translation": null
+    },
+    {
+      "time": 194.632,
+      "time_str": "03:14.632",
+      "text": "其实爱对了人",
+      "translation": null
+    },
+    {
+      "time": 196.408,
+      "time_str": "03:16.408",
+      "text": "情人节每天都过",
+      "translation": null
+    },
+    {
+      "time": 200.549,
+      "time_str": "03:20.549",
+      "text": "分手快乐 祝你快乐",
+      "translation": null
+    },
+    {
+      "time": 203.951,
+      "time_str": "03:23.951",
+      "text": "你可以找到更好的",
+      "translation": null
+    },
+    {
+      "time": 207.596,
+      "time_str": "03:27.596",
+      "text": "不想过冬 厌倦沉重",
+      "translation": null
+    },
+    {
+      "time": 211.048,
+      "time_str": "03:31.048",
+      "text": "就飞去热带的岛屿游泳",
+      "translation": null
+    },
+    {
+      "time": 214.582,
+      "time_str": "03:34.582",
+      "text": "分手快乐 请你快乐",
+      "translation": null
+    },
+    {
+      "time": 217.853,
+      "time_str": "03:37.853",
+      "text": "挥别错的才能和对的相逢",
+      "translation": null
+    },
+    {
+      "time": 221.614,
+      "time_str": "03:41.614",
+      "text": "离开旧爱 像坐慢车",
+      "translation": null
+    },
+    {
+      "time": 224.953,
+      "time_str": "03:44.953",
+      "text": "看透彻了心就会是晴朗的",
+      "translation": null
+    },
+    {
+      "time": 229.271,
+      "time_str": "03:49.271",
+      "text": "没人能把谁的幸福没收",
+      "translation": null
+    },
+    {
+      "time": 235.443,
+      "time_str": "03:55.443",
+      "text": "你发誓你会活得有笑容",
+      "translation": null
+    },
+    {
+      "time": 242.342,
+      "time_str": "04:02.342",
+      "text": "你自信时候真的美多了",
+      "translation": null
+    },
+    {
+      "time": 253.342,
+      "time_str": "04:13.342",
+      "text": "弦乐编写：李琪",
+      "translation": null
+    },
+    {
+      "time": 254.342,
+      "time_str": "04:14.342",
+      "text": "大提琴：吴世杰",
+      "translation": null
+    },
+    {
+      "time": 255.342,
+      "time_str": "04:15.342",
+      "text": "小提琴：李琪/蓝国融/梁钟尹",
+      "translation": null
+    },
+    {
+      "time": 260.342,
+      "time_str": "04:20.342",
+      "text": "混音室：谱丽音",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "分手快乐 - 梁静茹.lrc"
+}

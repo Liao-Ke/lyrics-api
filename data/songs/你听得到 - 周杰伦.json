@@ -1,0 +1,310 @@
+{
+  "title": "你听得到",
+  "title_raw": "你听得到",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "你听得到|周杰伦",
+  "writers": {
+    "lyricist": "曾郁婷",
+    "composer": "周杰伦",
+    "arranger": "林迈可"
+  },
+  "lyrics": [
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "混音助理 : 刘勇志",
+      "translation": null
+    },
+    {
+      "time": 18.91,
+      "time_str": "00:18.910",
+      "text": "有谁能比我知道",
+      "translation": null
+    },
+    {
+      "time": 23.08,
+      "time_str": "00:23.080",
+      "text": "你的温柔像羽毛",
+      "translation": null
+    },
+    {
+      "time": 27.2,
+      "time_str": "00:27.200",
+      "text": "秘密躺在我怀抱",
+      "translation": null
+    },
+    {
+      "time": 31.31,
+      "time_str": "00:31.310",
+      "text": "只有你能听得到",
+      "translation": null
+    },
+    {
+      "time": 35.46,
+      "time_str": "00:35.460",
+      "text": "还有没有人知道",
+      "translation": null
+    },
+    {
+      "time": 39.58,
+      "time_str": "00:39.580",
+      "text": "你的微笑像拥抱",
+      "translation": null
+    },
+    {
+      "time": 43.72,
+      "time_str": "00:43.720",
+      "text": "多想藏着你的好",
+      "translation": null
+    },
+    {
+      "time": 47.82,
+      "time_str": "00:47.820",
+      "text": "只有我看得到",
+      "translation": null
+    },
+    {
+      "time": 51.48,
+      "time_str": "00:51.480",
+      "text": "站在屋顶只对风说",
+      "translation": null
+    },
+    {
+      "time": 55.11,
+      "time_str": "00:55.110",
+      "text": "不想被左右",
+      "translation": null
+    },
+    {
+      "time": 58.98,
+      "time_str": "00:58.980",
+      "text": "本来讨厌下雨的天空",
+      "translation": null
+    },
+    {
+      "time": 63.13,
+      "time_str": "01:03.130",
+      "text": "直到听见有人说爱我",
+      "translation": null
+    },
+    {
+      "time": 67.98,
+      "time_str": "01:07.980",
+      "text": "坐在电影院的二楼",
+      "translation": null
+    },
+    {
+      "time": 71.66,
+      "time_str": "01:11.660",
+      "text": "看人群走过",
+      "translation": null
+    },
+    {
+      "time": 75.52,
+      "time_str": "01:15.520",
+      "text": "怎么那一天的我们",
+      "translation": null
+    },
+    {
+      "time": 79.62,
+      "time_str": "01:19.620",
+      "text": "都默默的微笑很久",
+      "translation": null
+    },
+    {
+      "time": 84.55,
+      "time_str": "01:24.550",
+      "text": "我想我是太过依赖",
+      "translation": null
+    },
+    {
+      "time": 89.16,
+      "time_str": "01:29.160",
+      "text": "在挂电话的刚才",
+      "translation": null
+    },
+    {
+      "time": 93.38,
+      "time_str": "01:33.380",
+      "text": "坚持学单纯的小孩",
+      "translation": null
+    },
+    {
+      "time": 97.51,
+      "time_str": "01:37.510",
+      "text": "静静看守这份爱",
+      "translation": null
+    },
+    {
+      "time": 101.62,
+      "time_str": "01:41.620",
+      "text": "知道不能太依赖",
+      "translation": null
+    },
+    {
+      "time": 105.7,
+      "time_str": "01:45.700",
+      "text": "怕你会把我宠坏",
+      "translation": null
+    },
+    {
+      "time": 109.9,
+      "time_str": "01:49.900",
+      "text": "你的香味一直徘徊",
+      "translation": null
+    },
+    {
+      "time": 114.78,
+      "time_str": "01:54.780",
+      "text": "我舍不得离开",
+      "translation": null
+    },
+    {
+      "time": 119.69,
+      "time_str": "01:59.690",
+      "text": "比我知道",
+      "translation": null
+    },
+    {
+      "time": 122.33,
+      "time_str": "02:02.330",
+      "text": "你的温柔像羽毛",
+      "translation": null
+    },
+    {
+      "time": 126.47,
+      "time_str": "02:06.470",
+      "text": "秘密躺在我怀抱",
+      "translation": null
+    },
+    {
+      "time": 130.59,
+      "time_str": "02:10.590",
+      "text": "只有你能听得到",
+      "translation": null
+    },
+    {
+      "time": 134.7,
+      "time_str": "02:14.700",
+      "text": "还有没有人知道",
+      "translation": null
+    },
+    {
+      "time": 138.88,
+      "time_str": "02:18.880",
+      "text": "你的微笑像拥抱",
+      "translation": null
+    },
+    {
+      "time": 143.0,
+      "time_str": "02:23.000",
+      "text": "多想藏着你的好",
+      "translation": null
+    },
+    {
+      "time": 147.13,
+      "time_str": "02:27.130",
+      "text": "只有我看得到",
+      "translation": null
+    },
+    {
+      "time": 150.76,
+      "time_str": "02:30.760",
+      "text": "坐在电影院的二楼",
+      "translation": null
+    },
+    {
+      "time": 154.44,
+      "time_str": "02:34.440",
+      "text": "看人群走过",
+      "translation": null
+    },
+    {
+      "time": 158.29,
+      "time_str": "02:38.290",
+      "text": "怎么那一天的我们",
+      "translation": null
+    },
+    {
+      "time": 162.39,
+      "time_str": "02:42.390",
+      "text": "都默默的微笑很久",
+      "translation": null
+    },
+    {
+      "time": 167.31,
+      "time_str": "02:47.310",
+      "text": "我想我是太过依赖",
+      "translation": null
+    },
+    {
+      "time": 171.96,
+      "time_str": "02:51.960",
+      "text": "在挂电话的刚才",
+      "translation": null
+    },
+    {
+      "time": 176.13,
+      "time_str": "02:56.130",
+      "text": "坚持学单纯的小孩",
+      "translation": null
+    },
+    {
+      "time": 180.26,
+      "time_str": "03:00.260",
+      "text": "静静看守这份爱",
+      "translation": null
+    },
+    {
+      "time": 184.39,
+      "time_str": "03:04.390",
+      "text": "知道不能太依赖",
+      "translation": null
+    },
+    {
+      "time": 188.56,
+      "time_str": "03:08.560",
+      "text": "怕你会把我宠坏",
+      "translation": null
+    },
+    {
+      "time": 192.68,
+      "time_str": "03:12.680",
+      "text": "你的香味一直徘徊",
+      "translation": null
+    },
+    {
+      "time": 197.6,
+      "time_str": "03:17.600",
+      "text": "我舍不得离开",
+      "translation": null
+    },
+    {
+      "time": 200.35,
+      "time_str": "03:20.350",
+      "text": "我想我是太过依赖",
+      "translation": null
+    },
+    {
+      "time": 205.05,
+      "time_str": "03:25.050",
+      "text": "在挂电话的刚才",
+      "translation": null
+    },
+    {
+      "time": 209.1,
+      "time_str": "03:29.100",
+      "text": "坚持学单纯的小孩",
+      "translation": null
+    },
+    {
+      "time": 213.84,
+      "time_str": "03:33.840",
+      "text": "我舍不得离开",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你听得到 - 周杰伦.lrc"
+}

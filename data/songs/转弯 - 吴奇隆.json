@@ -1,0 +1,178 @@
+{
+  "title": "转弯",
+  "title_raw": "转弯",
+  "version": null,
+  "artist": "吴奇隆",
+  "group_key": "转弯|吴奇隆",
+  "writers": {
+    "lyricist": "武雄",
+    "composer": "金培达",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 26.59,
+      "time_str": "00:26.590",
+      "text": "天苍苍，路漫漫，人在人海里流着浪",
+      "translation": null
+    },
+    {
+      "time": 33.89,
+      "time_str": "00:33.890",
+      "text": "风在飞，心在盼，爱在爱情里靠个岸",
+      "translation": null
+    },
+    {
+      "time": 41.27,
+      "time_str": "00:41.270",
+      "text": "夜夜夜里高唱",
+      "translation": null
+    },
+    {
+      "time": 44.01,
+      "time_str": "00:44.010",
+      "text": "唱尽人情冷暖世情如霜",
+      "translation": null
+    },
+    {
+      "time": 48.76,
+      "time_str": "00:48.760",
+      "text": "聚与散，悲与欢，如此纠缠",
+      "translation": null
+    },
+    {
+      "time": 55.92,
+      "time_str": "00:55.920",
+      "text": "天在晃，路在转，心在心动时受了伤",
+      "translation": null
+    },
+    {
+      "time": 63.28,
+      "time_str": "01:03.280",
+      "text": "风越穿，心越乱，梦在梦醒时转了弯",
+      "translation": null
+    },
+    {
+      "time": 70.62,
+      "time_str": "01:10.620",
+      "text": "深深深情几许",
+      "translation": null
+    },
+    {
+      "time": 73.42,
+      "time_str": "01:13.420",
+      "text": "如果一刀能够化作两断",
+      "translation": null
+    },
+    {
+      "time": 77.83,
+      "time_str": "01:17.830",
+      "text": "就让一切在这地方松绑",
+      "translation": null
+    },
+    {
+      "time": 83.8,
+      "time_str": "01:23.800",
+      "text": "峰已回，路已转，此情何苦枉断肠",
+      "translation": null
+    },
+    {
+      "time": 91.37,
+      "time_str": "01:31.370",
+      "text": "爱是没有人能够解开的两难",
+      "translation": null
+    },
+    {
+      "time": 98.63,
+      "time_str": "01:38.630",
+      "text": "了了断，圆了谎，莫道当时已惘然",
+      "translation": null
+    },
+    {
+      "time": 106.14,
+      "time_str": "01:46.140",
+      "text": "当作生命里最美的转弯",
+      "translation": null
+    },
+    {
+      "time": 133.12,
+      "time_str": "02:13.120",
+      "text": "天在晃，路在转，心在心动时受了伤",
+      "translation": null
+    },
+    {
+      "time": 140.3,
+      "time_str": "02:20.300",
+      "text": "那风越穿，心越乱，梦在梦醒时转了弯",
+      "translation": null
+    },
+    {
+      "time": 147.81,
+      "time_str": "02:27.810",
+      "text": "深深深情几许",
+      "translation": null
+    },
+    {
+      "time": 150.65,
+      "time_str": "02:30.650",
+      "text": "如果一刀能够化作两断",
+      "translation": null
+    },
+    {
+      "time": 154.99,
+      "time_str": "02:34.990",
+      "text": "就让一切在这地方松绑",
+      "translation": null
+    },
+    {
+      "time": 161.04,
+      "time_str": "02:41.040",
+      "text": "峰已回，路已转，此情何苦枉断肠",
+      "translation": null
+    },
+    {
+      "time": 168.47,
+      "time_str": "02:48.470",
+      "text": "爱是没有人能够解开的两难",
+      "translation": null
+    },
+    {
+      "time": 175.86,
+      "time_str": "02:55.860",
+      "text": "了了断，圆了谎，莫道当时已惘然",
+      "translation": null
+    },
+    {
+      "time": 183.19,
+      "time_str": "03:03.190",
+      "text": "就让你和我转个弯",
+      "translation": null
+    },
+    {
+      "time": 188.73,
+      "time_str": "03:08.730",
+      "text": "峰已回，路已转，此情何苦枉断肠",
+      "translation": null
+    },
+    {
+      "time": 196.02,
+      "time_str": "03:16.020",
+      "text": "爱是没有人能够解开的两难",
+      "translation": null
+    },
+    {
+      "time": 203.38,
+      "time_str": "03:23.380",
+      "text": "了了断，圆了谎，莫道当时已惘然",
+      "translation": null
+    },
+    {
+      "time": 210.71,
+      "time_str": "03:30.710",
+      "text": "当作生命里最美的转弯",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "转弯 - 吴奇隆.lrc"
+}

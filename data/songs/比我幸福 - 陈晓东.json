@@ -1,0 +1,196 @@
+{
+  "title": "比我幸福",
+  "title_raw": "比我幸福",
+  "version": null,
+  "artist": "陈晓东",
+  "group_key": "比我幸福|陈晓东",
+  "writers": {
+    "lyricist": "陈静楠",
+    "composer": "李伟菘/李景升",
+    "arranger": "Terence Teo"
+  },
+  "lyrics": [
+    {
+      "time": 19.0,
+      "time_str": "00:19.000",
+      "text": "望着广场的时钟 你还在我的怀里躲风",
+      "translation": null
+    },
+    {
+      "time": 28.0,
+      "time_str": "00:28.000",
+      "text": "不习惯言不由衷 沉默如何能让你都懂",
+      "translation": null
+    },
+    {
+      "time": 36.0,
+      "time_str": "00:36.000",
+      "text": "此刻与你相拥 也算有始有终",
+      "translation": null
+    },
+    {
+      "time": 46.0,
+      "time_str": "00:46.000",
+      "text": "祝福有许多种 心痛却尽在不言中",
+      "translation": null
+    },
+    {
+      "time": 53.0,
+      "time_str": "00:53.000",
+      "text": "请你一定要比我幸福 才不枉费我狼狈退出",
+      "translation": null
+    },
+    {
+      "time": 64.0,
+      "time_str": "01:04.000",
+      "text": "再痛也不说苦 爱不用抱歉来弥补",
+      "translation": null
+    },
+    {
+      "time": 70.0,
+      "time_str": "01:10.000",
+      "text": "至少我能成全你的追逐",
+      "translation": null
+    },
+    {
+      "time": 73.0,
+      "time_str": "01:13.000",
+      "text": "请记得你要比我幸福 才值得我对自己残酷",
+      "translation": null
+    },
+    {
+      "time": 83.0,
+      "time_str": "01:23.000",
+      "text": "我默默地倒数 最后再把你看清楚",
+      "translation": null
+    },
+    {
+      "time": 88.0,
+      "time_str": "01:28.000",
+      "text": "看你眼里的我好模糊 慢慢被放逐",
+      "translation": null
+    },
+    {
+      "time": 106.0,
+      "time_str": "01:46.000",
+      "text": "望着广场的时钟 你还在我的怀里躲风",
+      "translation": null
+    },
+    {
+      "time": 115.0,
+      "time_str": "01:55.000",
+      "text": "不习惯言不由衷 沉默如何能让你都懂",
+      "translation": null
+    },
+    {
+      "time": 123.9,
+      "time_str": "02:03.900",
+      "text": "此刻与你相拥 也算有始有终",
+      "translation": null
+    },
+    {
+      "time": 132.899,
+      "time_str": "02:12.899",
+      "text": "祝福有许多种 心痛却尽在不言中",
+      "translation": null
+    },
+    {
+      "time": 142.899,
+      "time_str": "02:22.899",
+      "text": "请你一定要比我幸福 才不枉费我狼狈退出",
+      "translation": null
+    },
+    {
+      "time": 151.899,
+      "time_str": "02:31.899",
+      "text": "再痛也不说苦 爱不用抱歉来弥补",
+      "translation": null
+    },
+    {
+      "time": 157.799,
+      "time_str": "02:37.799",
+      "text": "至少我能成全你的追逐",
+      "translation": null
+    },
+    {
+      "time": 161.799,
+      "time_str": "02:41.799",
+      "text": "请记得你要比我幸福 才值得我对自己残酷",
+      "translation": null
+    },
+    {
+      "time": 171.799,
+      "time_str": "02:51.799",
+      "text": "我默默地倒数 最后再把你看清楚",
+      "translation": null
+    },
+    {
+      "time": 176.799,
+      "time_str": "02:56.799",
+      "text": "看你眼里的我好模糊 慢慢被放逐",
+      "translation": null
+    },
+    {
+      "time": 186.799,
+      "time_str": "03:06.799",
+      "text": "放心去追逐你的幸福",
+      "translation": null
+    },
+    {
+      "time": 190.799,
+      "time_str": "03:10.799",
+      "text": "别管我愿不愿孤不孤独 都别在乎!",
+      "translation": null
+    },
+    {
+      "time": 199.799,
+      "time_str": "03:19.799",
+      "text": "请你一定要比我幸福 才不枉费我狼狈退出",
+      "translation": null
+    },
+    {
+      "time": 209.799,
+      "time_str": "03:29.799",
+      "text": "再痛也不说苦 爱不用抱歉来弥补",
+      "translation": null
+    },
+    {
+      "time": 214.799,
+      "time_str": "03:34.799",
+      "text": "至少我能成全你的追逐",
+      "translation": null
+    },
+    {
+      "time": 218.799,
+      "time_str": "03:38.799",
+      "text": "请记得你要比我幸福 才值得我对自己残酷",
+      "translation": null
+    },
+    {
+      "time": 227.799,
+      "time_str": "03:47.799",
+      "text": "我默默地倒数 最后再把你看清楚",
+      "translation": null
+    },
+    {
+      "time": 236.799,
+      "time_str": "03:56.799",
+      "text": "看你眼里的我好模糊 慢慢被放逐",
+      "translation": null
+    },
+    {
+      "time": 245.799,
+      "time_str": "04:05.799",
+      "text": "放心去追逐你的幸福",
+      "translation": null
+    },
+    {
+      "time": 250.799,
+      "time_str": "04:10.799",
+      "text": "别管我愿不愿孤不孤独 都别在乎!",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "比我幸福 - 陈晓东.lrc"
+}

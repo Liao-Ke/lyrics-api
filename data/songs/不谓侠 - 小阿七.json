@@ -1,0 +1,568 @@
+{
+  "title": "不谓侠",
+  "title_raw": "不谓侠",
+  "version": null,
+  "artist": "小阿七",
+  "group_key": "不谓侠|小阿七",
+  "writers": {
+    "lyricist": "迟意",
+    "composer": "潮汐-tide",
+    "arranger": "潮汐-tide"
+  },
+  "lyrics": [
+    {
+      "time": 31.16,
+      "time_str": "00:31.160",
+      "text": "衣襟上",
+      "translation": null
+    },
+    {
+      "time": 32.12,
+      "time_str": "00:32.120",
+      "text": "别好了晚霞",
+      "translation": null
+    },
+    {
+      "time": 34.49,
+      "time_str": "00:34.490",
+      "text": "余晖送我牵匹老马",
+      "translation": null
+    },
+    {
+      "time": 38.73,
+      "time_str": "00:38.730",
+      "text": "正路过",
+      "translation": null
+    },
+    {
+      "time": 39.72,
+      "time_str": "00:39.720",
+      "text": "烟村里人家",
+      "translation": null
+    },
+    {
+      "time": 41.92,
+      "time_str": "00:41.920",
+      "text": "恰似当年故里正飞花",
+      "translation": null
+    },
+    {
+      "time": 45.45,
+      "time_str": "00:45.450",
+      "text": "醉过风",
+      "translation": null
+    },
+    {
+      "time": 47.34,
+      "time_str": "00:47.340",
+      "text": "喝过茶",
+      "translation": null
+    },
+    {
+      "time": 49.06,
+      "time_str": "00:49.060",
+      "text": "寻常巷口寻个酒家",
+      "translation": null
+    },
+    {
+      "time": 52.86,
+      "time_str": "00:52.860",
+      "text": "在座皆算老友",
+      "translation": null
+    },
+    {
+      "time": 56.7,
+      "time_str": "00:56.700",
+      "text": "碗底便是天涯",
+      "translation": null
+    },
+    {
+      "time": 61.57,
+      "time_str": "01:01.570",
+      "text": "天涯远",
+      "translation": null
+    },
+    {
+      "time": 62.59,
+      "time_str": "01:02.590",
+      "text": "无处不为家",
+      "translation": null
+    },
+    {
+      "time": 64.95,
+      "time_str": "01:04.950",
+      "text": "蓬门自我也像广厦",
+      "translation": null
+    },
+    {
+      "time": 69.21,
+      "time_str": "01:09.210",
+      "text": "论意气",
+      "translation": null
+    },
+    {
+      "time": 70.2,
+      "time_str": "01:10.200",
+      "text": "不计多或寡",
+      "translation": null
+    },
+    {
+      "time": 72.35,
+      "time_str": "01:12.350",
+      "text": "占三分便敢自称为侠",
+      "translation": null
+    },
+    {
+      "time": 75.93,
+      "time_str": "01:15.930",
+      "text": "刀可捉",
+      "translation": null
+    },
+    {
+      "time": 77.79,
+      "time_str": "01:17.790",
+      "text": "拳也耍",
+      "translation": null
+    },
+    {
+      "time": 79.53,
+      "time_str": "01:19.530",
+      "text": "偶尔闲来问个生杀",
+      "translation": null
+    },
+    {
+      "time": 83.37,
+      "time_str": "01:23.370",
+      "text": "没得英雄名讳",
+      "translation": null
+    },
+    {
+      "time": 85.29,
+      "time_str": "01:25.290",
+      "text": "掂量个旧事抵酒价",
+      "translation": null
+    },
+    {
+      "time": 90.51,
+      "time_str": "01:30.510",
+      "text": "向江南折过花",
+      "translation": null
+    },
+    {
+      "time": 92.37,
+      "time_str": "01:32.370",
+      "text": "对春风与红蜡",
+      "translation": null
+    },
+    {
+      "time": 94.29,
+      "time_str": "01:34.290",
+      "text": "多情总似我",
+      "translation": null
+    },
+    {
+      "time": 95.49,
+      "time_str": "01:35.490",
+      "text": "风流爱天下",
+      "translation": null
+    },
+    {
+      "time": 98.09,
+      "time_str": "01:38.090",
+      "text": "人世肯相逢",
+      "translation": null
+    },
+    {
+      "time": 99.92,
+      "time_str": "01:39.920",
+      "text": "知己幸有七八",
+      "translation": null
+    },
+    {
+      "time": 101.87,
+      "time_str": "01:41.870",
+      "text": "邀我拍坛去",
+      "translation": null
+    },
+    {
+      "time": 103.12,
+      "time_str": "01:43.120",
+      "text": "醉眼万斗烟霞",
+      "translation": null
+    },
+    {
+      "time": 105.67,
+      "time_str": "01:45.670",
+      "text": "向江北饮过马",
+      "translation": null
+    },
+    {
+      "time": 107.61,
+      "time_str": "01:47.610",
+      "text": "对西风与黄沙",
+      "translation": null
+    },
+    {
+      "time": 109.54,
+      "time_str": "01:49.540",
+      "text": "无情也似我",
+      "translation": null
+    },
+    {
+      "time": 110.76,
+      "time_str": "01:50.760",
+      "text": "向剑底斩桃花",
+      "translation": null
+    },
+    {
+      "time": 113.33,
+      "time_str": "01:53.330",
+      "text": "人世难相逢",
+      "translation": null
+    },
+    {
+      "time": 115.15,
+      "time_str": "01:55.150",
+      "text": "谢青山催白发",
+      "translation": null
+    },
+    {
+      "time": 117.11,
+      "time_str": "01:57.110",
+      "text": "慷慨唯霜雪",
+      "translation": null
+    },
+    {
+      "time": 118.35,
+      "time_str": "01:58.350",
+      "text": "相赠眉间一道疤",
+      "translation": null
+    },
+    {
+      "time": 137.85,
+      "time_str": "02:17.850",
+      "text": "过三巡",
+      "translation": null
+    },
+    {
+      "time": 138.81,
+      "time_str": "02:18.810",
+      "text": "酒气开月华",
+      "translation": null
+    },
+    {
+      "time": 141.13,
+      "time_str": "02:21.130",
+      "text": "浓醉到五更不还家",
+      "translation": null
+    },
+    {
+      "time": 145.48,
+      "time_str": "02:25.480",
+      "text": "漫说道",
+      "translation": null
+    },
+    {
+      "time": 146.44,
+      "time_str": "02:26.440",
+      "text": "无瑕少年事",
+      "translation": null
+    },
+    {
+      "time": 148.53,
+      "time_str": "02:28.530",
+      "text": "敢夸玉带宝剑青骢马",
+      "translation": null
+    },
+    {
+      "time": 152.16,
+      "time_str": "02:32.160",
+      "text": "眠星子",
+      "translation": null
+    },
+    {
+      "time": 154.01,
+      "time_str": "02:34.010",
+      "text": "枕霜花",
+      "translation": null
+    },
+    {
+      "time": 155.77,
+      "time_str": "02:35.770",
+      "text": "就茅草也比神仙塌",
+      "translation": null
+    },
+    {
+      "time": 159.51,
+      "time_str": "02:39.510",
+      "text": "交游任意南北",
+      "translation": null
+    },
+    {
+      "time": 163.3,
+      "time_str": "02:43.300",
+      "text": "洒落不计冬夏",
+      "translation": null
+    },
+    {
+      "time": 168.26,
+      "time_str": "02:48.260",
+      "text": "算冬夏",
+      "translation": null
+    },
+    {
+      "time": 169.29,
+      "time_str": "02:49.290",
+      "text": "豪气未曾罢",
+      "translation": null
+    },
+    {
+      "time": 171.62,
+      "time_str": "02:51.620",
+      "text": "再砥砺剑锋出京华",
+      "translation": null
+    },
+    {
+      "time": 175.92,
+      "time_str": "02:55.920",
+      "text": "问来人",
+      "translation": null
+    },
+    {
+      "time": 176.88,
+      "time_str": "02:56.880",
+      "text": "胸襟谁似我",
+      "translation": null
+    },
+    {
+      "time": 179.05,
+      "time_str": "02:59.050",
+      "text": "将日月山海一并笑纳",
+      "translation": null
+    },
+    {
+      "time": 182.45,
+      "time_str": "03:02.450",
+      "text": "只姓名",
+      "translation": null
+    },
+    {
+      "time": 184.46,
+      "time_str": "03:04.460",
+      "text": "不作答",
+      "translation": null
+    },
+    {
+      "time": 186.17,
+      "time_str": "03:06.170",
+      "text": "转身向云外寄生涯",
+      "translation": null
+    },
+    {
+      "time": 190.03,
+      "time_str": "03:10.030",
+      "text": "不必英雄名讳",
+      "translation": null
+    },
+    {
+      "time": 191.87,
+      "time_str": "03:11.870",
+      "text": "记两个旧事抵酒价",
+      "translation": null
+    },
+    {
+      "time": 197.18,
+      "time_str": "03:17.180",
+      "text": "向江南折过花",
+      "translation": null
+    },
+    {
+      "time": 198.98,
+      "time_str": "03:18.980",
+      "text": "对春风与红蜡",
+      "translation": null
+    },
+    {
+      "time": 200.97,
+      "time_str": "03:20.970",
+      "text": "多情总似我",
+      "translation": null
+    },
+    {
+      "time": 202.17,
+      "time_str": "03:22.170",
+      "text": "风流爱天下",
+      "translation": null
+    },
+    {
+      "time": 204.77,
+      "time_str": "03:24.770",
+      "text": "人世肯相逢",
+      "translation": null
+    },
+    {
+      "time": 206.61,
+      "time_str": "03:26.610",
+      "text": "知己幸有七八",
+      "translation": null
+    },
+    {
+      "time": 208.54,
+      "time_str": "03:28.540",
+      "text": "邀我拍坛去",
+      "translation": null
+    },
+    {
+      "time": 209.8,
+      "time_str": "03:29.800",
+      "text": "醉言万斗烟霞",
+      "translation": null
+    },
+    {
+      "time": 212.32,
+      "time_str": "03:32.320",
+      "text": "向江北饮过马",
+      "translation": null
+    },
+    {
+      "time": 214.25,
+      "time_str": "03:34.250",
+      "text": "对西风与黄沙",
+      "translation": null
+    },
+    {
+      "time": 216.16,
+      "time_str": "03:36.160",
+      "text": "无情也似我",
+      "translation": null
+    },
+    {
+      "time": 217.44,
+      "time_str": "03:37.440",
+      "text": "迎剑锋斩桃花",
+      "translation": null
+    },
+    {
+      "time": 219.98,
+      "time_str": "03:39.980",
+      "text": "人世难相逢",
+      "translation": null
+    },
+    {
+      "time": 221.83,
+      "time_str": "03:41.830",
+      "text": "谢青山催白发",
+      "translation": null
+    },
+    {
+      "time": 223.76,
+      "time_str": "03:43.760",
+      "text": "慷慨唯霜雪",
+      "translation": null
+    },
+    {
+      "time": 225.03,
+      "time_str": "03:45.030",
+      "text": "相赠眉尖一道疤",
+      "translation": null
+    },
+    {
+      "time": 227.74,
+      "time_str": "03:47.740",
+      "text": "当此世",
+      "translation": null
+    },
+    {
+      "time": 229.55,
+      "time_str": "03:49.550",
+      "text": "输赢都算闲话",
+      "translation": null
+    },
+    {
+      "time": 231.47,
+      "time_str": "03:51.470",
+      "text": "来换杯陈年酒",
+      "translation": null
+    },
+    {
+      "time": 233.04,
+      "time_str": "03:53.040",
+      "text": "天纵我潇洒",
+      "translation": null
+    },
+    {
+      "time": 235.27,
+      "time_str": "03:55.270",
+      "text": "风流不曾老",
+      "translation": null
+    },
+    {
+      "time": 237.09,
+      "time_str": "03:57.090",
+      "text": "弹铗唱作年华",
+      "translation": null
+    },
+    {
+      "time": 239.02,
+      "time_str": "03:59.020",
+      "text": "凭我纵马去",
+      "translation": null
+    },
+    {
+      "time": 240.27,
+      "time_str": "04:00.270",
+      "text": "过剑底杯中觅生涯",
+      "translation": null
+    },
+    {
+      "time": 243.0,
+      "time_str": "04:03.000",
+      "text": "当此世",
+      "translation": null
+    },
+    {
+      "time": 244.78,
+      "time_str": "04:04.780",
+      "text": "生死也算闲话",
+      "translation": null
+    },
+    {
+      "time": 246.65,
+      "time_str": "04:06.650",
+      "text": "来换场豪醉",
+      "translation": null
+    },
+    {
+      "time": 247.88,
+      "time_str": "04:07.880",
+      "text": "不负天纵潇洒",
+      "translation": null
+    },
+    {
+      "time": 250.44,
+      "time_str": "04:10.440",
+      "text": "风流不曾老",
+      "translation": null
+    },
+    {
+      "time": 252.35,
+      "time_str": "04:12.350",
+      "text": "弹铗唱作年华",
+      "translation": null
+    },
+    {
+      "time": 254.23,
+      "time_str": "04:14.230",
+      "text": "凭我自由去",
+      "translation": null
+    },
+    {
+      "time": 255.48,
+      "time_str": "04:15.480",
+      "text": "只做狂人不谓侠",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不谓侠 - 小阿七.lrc"
+}

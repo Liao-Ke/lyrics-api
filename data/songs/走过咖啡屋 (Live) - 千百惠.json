@@ -1,0 +1,232 @@
+{
+  "title": "走过咖啡屋",
+  "title_raw": "走过咖啡屋 (Live)",
+  "version": "Live",
+  "artist": "千百惠",
+  "group_key": "走过咖啡屋|千百惠",
+  "writers": {
+    "lyricist": "牧莎",
+    "composer": "林子渊",
+    "arranger": "王辉雄"
+  },
+  "lyrics": [
+    {
+      "time": 3.0,
+      "time_str": "00:03.000",
+      "text": "萨克斯 : 张文彪",
+      "translation": null
+    },
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "Program : 王辉雄",
+      "translation": null
+    },
+    {
+      "time": 6.0,
+      "time_str": "00:06.000",
+      "text": "键盘 : 童达琴 罗璟田",
+      "translation": null
+    },
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "贝斯 : 谢宁宁",
+      "translation": null
+    },
+    {
+      "time": 17.561,
+      "time_str": "00:17.561",
+      "text": "每次走过这间咖啡屋",
+      "translation": null
+    },
+    {
+      "time": 20.51,
+      "time_str": "00:20.510",
+      "text": "忍不住慢下了脚步",
+      "translation": null
+    },
+    {
+      "time": 23.948,
+      "time_str": "00:23.948",
+      "text": "你我初次相识在这里",
+      "translation": null
+    },
+    {
+      "time": 27.881,
+      "time_str": "00:27.881",
+      "text": "揭开了相悦的序幕",
+      "translation": null
+    },
+    {
+      "time": 31.826,
+      "time_str": "00:31.826",
+      "text": "今天你不再是座上客",
+      "translation": null
+    },
+    {
+      "time": 35.518,
+      "time_str": "00:35.518",
+      "text": "我也就恢复了孤独",
+      "translation": null
+    },
+    {
+      "time": 39.286,
+      "time_str": "00:39.286",
+      "text": "不知什么缘故使我俩",
+      "translation": null
+    },
+    {
+      "time": 43.184,
+      "time_str": "00:43.184",
+      "text": "由情侣变成了陌路",
+      "translation": null
+    },
+    {
+      "time": 47.006,
+      "time_str": "00:47.006",
+      "text": "芳香的咖啡飘满小屋",
+      "translation": null
+    },
+    {
+      "time": 51.183,
+      "time_str": "00:51.183",
+      "text": "对你的情感依然如故",
+      "translation": null
+    },
+    {
+      "time": 54.722,
+      "time_str": "00:54.722",
+      "text": "不知道何时再续前缘",
+      "translation": null
+    },
+    {
+      "time": 58.468,
+      "time_str": "00:58.468",
+      "text": "让我把思念向你倾诉",
+      "translation": null
+    },
+    {
+      "time": 64.878,
+      "time_str": "01:04.878",
+      "text": "我又走过这间咖啡屋",
+      "translation": null
+    },
+    {
+      "time": 68.241,
+      "time_str": "01:08.241",
+      "text": "忍不住慢下了脚步",
+      "translation": null
+    },
+    {
+      "time": 72.011,
+      "time_str": "01:12.011",
+      "text": "屋里再也不见你和我",
+      "translation": null
+    },
+    {
+      "time": 75.755,
+      "time_str": "01:15.755",
+      "text": "美丽的往事已模糊",
+      "translation": null
+    },
+    {
+      "time": 95.079,
+      "time_str": "01:35.079",
+      "text": "每次走过这间咖啡屋",
+      "translation": null
+    },
+    {
+      "time": 98.846,
+      "time_str": "01:38.846",
+      "text": "忍不住慢下了脚步",
+      "translation": null
+    },
+    {
+      "time": 102.858,
+      "time_str": "01:42.858",
+      "text": "你我初次相识在这里",
+      "translation": null
+    },
+    {
+      "time": 106.472,
+      "time_str": "01:46.472",
+      "text": "揭开了相悦的序幕",
+      "translation": null
+    },
+    {
+      "time": 110.526,
+      "time_str": "01:50.526",
+      "text": "今天你不再是座上客",
+      "translation": null
+    },
+    {
+      "time": 114.239,
+      "time_str": "01:54.239",
+      "text": "我也就恢复了孤独",
+      "translation": null
+    },
+    {
+      "time": 118.031,
+      "time_str": "01:58.031",
+      "text": "不知什么缘故使我俩",
+      "translation": null
+    },
+    {
+      "time": 121.757,
+      "time_str": "02:01.757",
+      "text": "由情侣变成了陌路",
+      "translation": null
+    },
+    {
+      "time": 125.985,
+      "time_str": "02:05.985",
+      "text": "芳香的咖啡飘满小屋",
+      "translation": null
+    },
+    {
+      "time": 130.015,
+      "time_str": "02:10.015",
+      "text": "对你的情感依然如故",
+      "translation": null
+    },
+    {
+      "time": 133.269,
+      "time_str": "02:13.269",
+      "text": "不知道何时再续前缘",
+      "translation": null
+    },
+    {
+      "time": 137.148,
+      "time_str": "02:17.148",
+      "text": "让我把思念向你倾诉",
+      "translation": null
+    },
+    {
+      "time": 143.538,
+      "time_str": "02:23.538",
+      "text": "我又走过这间咖啡屋",
+      "translation": null
+    },
+    {
+      "time": 146.925,
+      "time_str": "02:26.925",
+      "text": "忍不住慢下了脚步",
+      "translation": null
+    },
+    {
+      "time": 151.231,
+      "time_str": "02:31.231",
+      "text": "屋里再也不见你和我",
+      "translation": null
+    },
+    {
+      "time": 154.768,
+      "time_str": "02:34.768",
+      "text": "美丽的往事已模糊",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "走过咖啡屋 (Live) - 千百惠.lrc"
+}

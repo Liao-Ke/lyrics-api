@@ -1,0 +1,346 @@
+{
+  "title": "微微",
+  "title_raw": "微微",
+  "version": null,
+  "artist": "傅如乔",
+  "group_key": "微微|傅如乔",
+  "writers": {
+    "lyricist": "潘凯， 周禹成",
+    "composer": "周禹成",
+    "arranger": "周禹成"
+  },
+  "lyrics": [
+    {
+      "time": 0.89,
+      "time_str": "00:00.890",
+      "text": "微微-傅如乔(Meddhi)",
+      "translation": null
+    },
+    {
+      "time": 4.04,
+      "time_str": "00:04.040",
+      "text": "封面:周禹颉",
+      "translation": null
+    },
+    {
+      "time": 4.79,
+      "time_str": "00:04.790",
+      "text": "MV导演:周禹颉",
+      "translation": null
+    },
+    {
+      "time": 5.54,
+      "time_str": "00:05.540",
+      "text": "艺人总监:王芳",
+      "translation": null
+    },
+    {
+      "time": 6.21,
+      "time_str": "00:06.210",
+      "text": "艺人宣传:褚苗苗",
+      "translation": null
+    },
+    {
+      "time": 6.75,
+      "time_str": "00:06.750",
+      "text": "艺人经纪主管:牛瑞楠",
+      "translation": null
+    },
+    {
+      "time": 7.47,
+      "time_str": "00:07.470",
+      "text": "艺人经纪:周思妤",
+      "translation": null
+    },
+    {
+      "time": 9.33,
+      "time_str": "00:09.330",
+      "text": "微微晨光点亮这喧嚣世界",
+      "translation": null
+    },
+    {
+      "time": 13.58,
+      "time_str": "00:13.580",
+      "text": "微微温暖融化昨夜的冰雪",
+      "translation": null
+    },
+    {
+      "time": 18.0,
+      "time_str": "00:18.000",
+      "text": "就像是每一秒都称为岁月",
+      "translation": null
+    },
+    {
+      "time": 22.11,
+      "time_str": "00:22.110",
+      "text": "微微从不停歇",
+      "translation": null
+    },
+    {
+      "time": 26.63,
+      "time_str": "00:26.630",
+      "text": "微微就是秋天里每片落叶",
+      "translation": null
+    },
+    {
+      "time": 30.93,
+      "time_str": "00:30.930",
+      "text": "微微就是彩虹里每滴雨点",
+      "translation": null
+    },
+    {
+      "time": 35.25,
+      "time_str": "00:35.250",
+      "text": "微微她很渺小却从不疲倦",
+      "translation": null
+    },
+    {
+      "time": 39.74,
+      "time_str": "00:39.740",
+      "text": "微微就是我们",
+      "translation": null
+    },
+    {
+      "time": 43.06,
+      "time_str": "00:43.060",
+      "text": "微 微 微 微",
+      "translation": null
+    },
+    {
+      "time": 48.09,
+      "time_str": "00:48.090",
+      "text": "微 微 微 微",
+      "translation": null
+    },
+    {
+      "time": 60.54,
+      "time_str": "01:00.540",
+      "text": "多少次跌跌撞撞才学会坚强",
+      "translation": null
+    },
+    {
+      "time": 64.66,
+      "time_str": "01:04.660",
+      "text": "多少次在迷茫之中寻找方向",
+      "translation": null
+    },
+    {
+      "time": 69.08,
+      "time_str": "01:09.080",
+      "text": "多少次跌倒之后再站起来面对",
+      "translation": null
+    },
+    {
+      "time": 72.89,
+      "time_str": "01:12.890",
+      "text": "再勇敢去闯啊",
+      "translation": null
+    },
+    {
+      "time": 87.61,
+      "time_str": "01:27.610",
+      "text": "微微晨光点亮这喧嚣世界",
+      "translation": null
+    },
+    {
+      "time": 92.1,
+      "time_str": "01:32.100",
+      "text": "微微温暖融化昨夜的冰雪",
+      "translation": null
+    },
+    {
+      "time": 96.52,
+      "time_str": "01:36.520",
+      "text": "就像是每一秒都称为岁月",
+      "translation": null
+    },
+    {
+      "time": 100.71,
+      "time_str": "01:40.710",
+      "text": "微微从不停歇",
+      "translation": null
+    },
+    {
+      "time": 105.05,
+      "time_str": "01:45.050",
+      "text": "微微就是秋天里每片落叶",
+      "translation": null
+    },
+    {
+      "time": 109.56,
+      "time_str": "01:49.560",
+      "text": "微微就是彩虹里每滴雨点",
+      "translation": null
+    },
+    {
+      "time": 113.81,
+      "time_str": "01:53.810",
+      "text": "微微她很渺小却从不疲倦",
+      "translation": null
+    },
+    {
+      "time": 118.28,
+      "time_str": "01:58.280",
+      "text": "微微就是我们",
+      "translation": null
+    },
+    {
+      "time": 121.98,
+      "time_str": "02:01.980",
+      "text": "微 微 微 微",
+      "translation": null
+    },
+    {
+      "time": 126.72,
+      "time_str": "02:06.720",
+      "text": "微 微 微 微",
+      "translation": null
+    },
+    {
+      "time": 139.11,
+      "time_str": "02:19.110",
+      "text": "多少次跌跌撞撞才学会坚强",
+      "translation": null
+    },
+    {
+      "time": 143.11,
+      "time_str": "02:23.110",
+      "text": "多少次在迷茫之中寻找方向",
+      "translation": null
+    },
+    {
+      "time": 147.78,
+      "time_str": "02:27.780",
+      "text": "多少次跌倒之后再站起来面对",
+      "translation": null
+    },
+    {
+      "time": 151.48,
+      "time_str": "02:31.480",
+      "text": "再勇敢去闯啊",
+      "translation": null
+    },
+    {
+      "time": 159.51,
+      "time_str": "02:39.510",
+      "text": "微 微 微 微",
+      "translation": null
+    },
+    {
+      "time": 166.19,
+      "time_str": "02:46.190",
+      "text": "微 微 微 微",
+      "translation": null
+    },
+    {
+      "time": 174.15,
+      "time_str": "02:54.150",
+      "text": "微 微 微 微",
+      "translation": null
+    },
+    {
+      "time": 182.47,
+      "time_str": "03:02.470",
+      "text": "微 微 微 微",
+      "translation": null
+    },
+    {
+      "time": 191.33,
+      "time_str": "03:11.330",
+      "text": "多少次跌跌撞撞才学会坚强",
+      "translation": null
+    },
+    {
+      "time": 195.74,
+      "time_str": "03:15.740",
+      "text": "多少次在迷茫之中寻找方向",
+      "translation": null
+    },
+    {
+      "time": 200.17,
+      "time_str": "03:20.170",
+      "text": "多少次跌倒之后再站起来面对",
+      "translation": null
+    },
+    {
+      "time": 203.98,
+      "time_str": "03:23.980",
+      "text": "再勇敢去闯啊",
+      "translation": null
+    },
+    {
+      "time": 208.96,
+      "time_str": "03:28.960",
+      "text": "多少次跌跌撞撞才学会坚强",
+      "translation": null
+    },
+    {
+      "time": 213.29,
+      "time_str": "03:33.290",
+      "text": "多少次在迷茫之中寻找方向",
+      "translation": null
+    },
+    {
+      "time": 217.53,
+      "time_str": "03:37.530",
+      "text": "多少次跌倒之后再站起来面对",
+      "translation": null
+    },
+    {
+      "time": 221.26,
+      "time_str": "03:41.260",
+      "text": "再勇敢去闯啊",
+      "translation": null
+    },
+    {
+      "time": 227.0,
+      "time_str": "03:47.000",
+      "text": "微微晨光点亮这喧嚣世界",
+      "translation": null
+    },
+    {
+      "time": 231.4,
+      "time_str": "03:51.400",
+      "text": "微微温暖融化昨夜的冰雪",
+      "translation": null
+    },
+    {
+      "time": 235.98,
+      "time_str": "03:55.980",
+      "text": "就像是每一秒都称为岁月",
+      "translation": null
+    },
+    {
+      "time": 240.52,
+      "time_str": "04:00.520",
+      "text": "微微从不停歇",
+      "translation": null
+    },
+    {
+      "time": 244.68,
+      "time_str": "04:04.680",
+      "text": "微微就是秋天里每片落叶",
+      "translation": null
+    },
+    {
+      "time": 249.07,
+      "time_str": "04:09.070",
+      "text": "微微就是彩虹里每滴雨点",
+      "translation": null
+    },
+    {
+      "time": 253.66,
+      "time_str": "04:13.660",
+      "text": "微微她很渺小却从不疲倦",
+      "translation": null
+    },
+    {
+      "time": 258.31,
+      "time_str": "04:18.310",
+      "text": "微微就是我们啊",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "微微 - 傅如乔.lrc"
+}

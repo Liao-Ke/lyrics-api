@@ -1,0 +1,334 @@
+{
+  "title": "淘汰",
+  "title_raw": "淘汰",
+  "version": null,
+  "artist": "陈奕迅",
+  "group_key": "淘汰|陈奕迅",
+  "writers": {
+    "lyricist": "周杰伦",
+    "composer": "周杰伦",
+    "arranger": "C. Y. Kong"
+  },
+  "lyrics": [
+    {
+      "time": 2.3,
+      "time_str": "00:02.300",
+      "text": "Production Coordination: Stanley Leung",
+      "translation": null
+    },
+    {
+      "time": 3.3,
+      "time_str": "00:03.300",
+      "text": "Arrangement, Keyboards & Programming: C. Y.Kong",
+      "translation": null
+    },
+    {
+      "time": 4.3,
+      "time_str": "00:04.300",
+      "text": "Drums: Davy Chan",
+      "translation": null
+    },
+    {
+      "time": 5.3,
+      "time_str": "00:05.300",
+      "text": "Bass: Pal 哥",
+      "translation": null
+    },
+    {
+      "time": 6.3,
+      "time_str": "00:06.300",
+      "text": "Guitar: 亚贤",
+      "translation": null
+    },
+    {
+      "time": 7.3,
+      "time_str": "00:07.300",
+      "text": "Strings Arranged & Conducted by 陈珀",
+      "translation": null
+    },
+    {
+      "time": 8.3,
+      "time_str": "00:08.300",
+      "text": "Recorded at aroom studio & seewisehk,",
+      "translation": null
+    },
+    {
+      "time": 9.3,
+      "time_str": "00:09.300",
+      "text": "Engineered by Davy Chan, Rob Porter & C.Y .Kong",
+      "translation": null
+    },
+    {
+      "time": 10.3,
+      "time_str": "00:10.300",
+      "text": "Vocals Recorded at Conrad's Studios & Avon Studios,",
+      "translation": null
+    },
+    {
+      "time": 11.3,
+      "time_str": "00:11.300",
+      "text": "Engineered by 黄尚伟 & Davy Chan & Amic",
+      "translation": null
+    },
+    {
+      "time": 12.3,
+      "time_str": "00:12.300",
+      "text": "Mixed by Simon Li at nOiz",
+      "translation": null
+    },
+    {
+      "time": 35.09,
+      "time_str": "00:35.090",
+      "text": "我说了所有的谎",
+      "translation": null
+    },
+    {
+      "time": 39.72,
+      "time_str": "00:39.720",
+      "text": "你全都相信",
+      "translation": null
+    },
+    {
+      "time": 42.68,
+      "time_str": "00:42.680",
+      "text": "简单的我爱你",
+      "translation": null
+    },
+    {
+      "time": 46.79,
+      "time_str": "00:46.790",
+      "text": "你却老不信",
+      "translation": null
+    },
+    {
+      "time": 50.66,
+      "time_str": "00:50.660",
+      "text": "你书里的剧情",
+      "translation": null
+    },
+    {
+      "time": 54.83,
+      "time_str": "00:54.830",
+      "text": "我不想上演",
+      "translation": null
+    },
+    {
+      "time": 58.31,
+      "time_str": "00:58.310",
+      "text": "因为我喜欢喜剧收尾",
+      "translation": null
+    },
+    {
+      "time": 67.58,
+      "time_str": "01:07.580",
+      "text": "我试过完美放弃",
+      "translation": null
+    },
+    {
+      "time": 72.15,
+      "time_str": "01:12.150",
+      "text": "的确很踏实",
+      "translation": null
+    },
+    {
+      "time": 75.42,
+      "time_str": "01:15.420",
+      "text": "醒来了 梦散了",
+      "translation": null
+    },
+    {
+      "time": 79.28,
+      "time_str": "01:19.280",
+      "text": "你我都走散了",
+      "translation": null
+    },
+    {
+      "time": 82.93,
+      "time_str": "01:22.930",
+      "text": "情歌的词何必押韵",
+      "translation": null
+    },
+    {
+      "time": 86.93,
+      "time_str": "01:26.930",
+      "text": "就算我是K歌之王",
+      "translation": null
+    },
+    {
+      "time": 91.06,
+      "time_str": "01:31.060",
+      "text": "也不见得把爱情唱得完美",
+      "translation": null
+    },
+    {
+      "time": 98.04,
+      "time_str": "01:38.040",
+      "text": "只能说我输了",
+      "translation": null
+    },
+    {
+      "time": 102.16,
+      "time_str": "01:42.160",
+      "text": "也许是你怕了",
+      "translation": null
+    },
+    {
+      "time": 106.09,
+      "time_str": "01:46.090",
+      "text": "我们的回忆没有皱褶",
+      "translation": null
+    },
+    {
+      "time": 110.84,
+      "time_str": "01:50.840",
+      "text": "你却用离开烫下句点",
+      "translation": null
+    },
+    {
+      "time": 114.5,
+      "time_str": "01:54.500",
+      "text": "只能说我认了",
+      "translation": null
+    },
+    {
+      "time": 118.29,
+      "time_str": "01:58.290",
+      "text": "你的不安赢得你信任",
+      "translation": null
+    },
+    {
+      "time": 123.48,
+      "time_str": "02:03.480",
+      "text": "我却得到你安慰的淘汰",
+      "translation": null
+    },
+    {
+      "time": 144.99,
+      "time_str": "02:24.990",
+      "text": "我试过完美放弃",
+      "translation": null
+    },
+    {
+      "time": 149.17,
+      "time_str": "02:29.170",
+      "text": "的确很踏实",
+      "translation": null
+    },
+    {
+      "time": 152.56,
+      "time_str": "02:32.560",
+      "text": "醒来了 梦散了",
+      "translation": null
+    },
+    {
+      "time": 156.49,
+      "time_str": "02:36.490",
+      "text": "你我都走散了",
+      "translation": null
+    },
+    {
+      "time": 160.26,
+      "time_str": "02:40.260",
+      "text": "情歌的词何必押韵",
+      "translation": null
+    },
+    {
+      "time": 164.22,
+      "time_str": "02:44.220",
+      "text": "就算我是K歌之王",
+      "translation": null
+    },
+    {
+      "time": 168.36,
+      "time_str": "02:48.360",
+      "text": "也不见得把爱情唱得完美",
+      "translation": null
+    },
+    {
+      "time": 175.35,
+      "time_str": "02:55.350",
+      "text": "只能说我输了",
+      "translation": null
+    },
+    {
+      "time": 179.45,
+      "time_str": "02:59.450",
+      "text": "也许是你怕了",
+      "translation": null
+    },
+    {
+      "time": 183.45,
+      "time_str": "03:03.450",
+      "text": "我们的回忆没有皱褶",
+      "translation": null
+    },
+    {
+      "time": 188.15,
+      "time_str": "03:08.150",
+      "text": "你却用离开烫下句点",
+      "translation": null
+    },
+    {
+      "time": 191.76,
+      "time_str": "03:11.760",
+      "text": "只能说我认了",
+      "translation": null
+    },
+    {
+      "time": 195.62,
+      "time_str": "03:15.620",
+      "text": "你的不安赢得你信任",
+      "translation": null
+    },
+    {
+      "time": 200.7,
+      "time_str": "03:20.700",
+      "text": "我却得到你安慰的淘汰",
+      "translation": null
+    },
+    {
+      "time": 224.23,
+      "time_str": "03:44.230",
+      "text": "只能说我输了",
+      "translation": null
+    },
+    {
+      "time": 228.21,
+      "time_str": "03:48.210",
+      "text": "也许是你怕了",
+      "translation": null
+    },
+    {
+      "time": 232.29,
+      "time_str": "03:52.290",
+      "text": "我们的回忆没有皱褶",
+      "translation": null
+    },
+    {
+      "time": 237.04,
+      "time_str": "03:57.040",
+      "text": "你却用离开烫下句点",
+      "translation": null
+    },
+    {
+      "time": 240.59,
+      "time_str": "04:00.590",
+      "text": "只能说我认了",
+      "translation": null
+    },
+    {
+      "time": 244.5,
+      "time_str": "04:04.500",
+      "text": "你的不安赢得你信任",
+      "translation": null
+    },
+    {
+      "time": 249.66,
+      "time_str": "04:09.660",
+      "text": "我却得到你安慰的淘汰",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "淘汰 - 陈奕迅.lrc"
+}

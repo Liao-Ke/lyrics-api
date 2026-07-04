@@ -1,0 +1,310 @@
+{
+  "title": "风度",
+  "title_raw": "风度",
+  "version": null,
+  "artist": "汪苏泷",
+  "group_key": "风度|汪苏泷",
+  "writers": {
+    "lyricist": "汪苏泷",
+    "composer": "汪苏泷",
+    "arranger": "金若晨@光合声动"
+  },
+  "lyrics": [
+    {
+      "time": 17.7,
+      "time_str": "00:17.700",
+      "text": "我曾和你走过多少个的秋末",
+      "translation": null
+    },
+    {
+      "time": 21.16,
+      "time_str": "00:21.160",
+      "text": "我曾紧紧握着你手臂的脉搏",
+      "translation": null
+    },
+    {
+      "time": 24.89,
+      "time_str": "00:24.890",
+      "text": "看你脸上的酒窝",
+      "translation": null
+    },
+    {
+      "time": 26.69,
+      "time_str": "00:26.690",
+      "text": "唱着背叛的情歌 情绪不由我",
+      "translation": null
+    },
+    {
+      "time": 31.11,
+      "time_str": "00:31.110",
+      "text": "我曾带你去看星空下的花火",
+      "translation": null
+    },
+    {
+      "time": 35.26,
+      "time_str": "00:35.260",
+      "text": "我曾把我的爱都交给你挥霍",
+      "translation": null
+    },
+    {
+      "time": 38.85,
+      "time_str": "00:38.850",
+      "text": "这世界爱情好多",
+      "translation": null
+    },
+    {
+      "time": 40.7,
+      "time_str": "00:40.700",
+      "text": "结局未必有几个 这痛算什么",
+      "translation": null
+    },
+    {
+      "time": 44.6,
+      "time_str": "00:44.600",
+      "text": "我在无人的街头 想念着某某",
+      "translation": null
+    },
+    {
+      "time": 48.14,
+      "time_str": "00:48.140",
+      "text": "你在别人的宇宙 施舍着温柔",
+      "translation": null
+    },
+    {
+      "time": 51.73,
+      "time_str": "00:51.730",
+      "text": "我能给的风度是微笑着默默放开手",
+      "translation": null
+    },
+    {
+      "time": 58.14,
+      "time_str": "00:58.140",
+      "text": "我知道你的眼泪只是一种无奈",
+      "translation": null
+    },
+    {
+      "time": 62.19,
+      "time_str": "01:02.190",
+      "text": "何必虚情假意的勾勒着未来",
+      "translation": null
+    },
+    {
+      "time": 65.67,
+      "time_str": "01:05.670",
+      "text": "当爱已不存在 我又为谁等待",
+      "translation": null
+    },
+    {
+      "time": 69.25,
+      "time_str": "01:09.250",
+      "text": "嘲笑命运这幽默的安排",
+      "translation": null
+    },
+    {
+      "time": 72.48,
+      "time_str": "01:12.480",
+      "text": "我知道你的挽回只是一种习惯",
+      "translation": null
+    },
+    {
+      "time": 76.09,
+      "time_str": "01:16.090",
+      "text": "也曾为难你有多么害怕孤单",
+      "translation": null
+    },
+    {
+      "time": 79.95,
+      "time_str": "01:19.950",
+      "text": "故事可以重来 时光却已不再",
+      "translation": null
+    },
+    {
+      "time": 83.39,
+      "time_str": "01:23.390",
+      "text": "感情需要一点点的空白",
+      "translation": null
+    },
+    {
+      "time": 86.49,
+      "time_str": "01:26.490",
+      "text": "来整理遗憾",
+      "translation": null
+    },
+    {
+      "time": 101.67,
+      "time_str": "01:41.670",
+      "text": "我曾和你走过多少个的秋末",
+      "translation": null
+    },
+    {
+      "time": 105.75,
+      "time_str": "01:45.750",
+      "text": "我曾紧紧握着你手臂的脉搏",
+      "translation": null
+    },
+    {
+      "time": 109.09,
+      "time_str": "01:49.090",
+      "text": "看你脸上的酒窝",
+      "translation": null
+    },
+    {
+      "time": 110.93,
+      "time_str": "01:50.930",
+      "text": "唱着背叛的情歌 情绪不由我",
+      "translation": null
+    },
+    {
+      "time": 115.48,
+      "time_str": "01:55.480",
+      "text": "我曾带你去看星空下的花火",
+      "translation": null
+    },
+    {
+      "time": 119.66,
+      "time_str": "01:59.660",
+      "text": "我曾把我的爱都交给你挥霍",
+      "translation": null
+    },
+    {
+      "time": 123.24,
+      "time_str": "02:03.240",
+      "text": "这世界爱情好多",
+      "translation": null
+    },
+    {
+      "time": 124.81,
+      "time_str": "02:04.810",
+      "text": "结局未必有几个 这痛算什么",
+      "translation": null
+    },
+    {
+      "time": 128.15,
+      "time_str": "02:08.150",
+      "text": "我在无人的街头 想念着某某",
+      "translation": null
+    },
+    {
+      "time": 132.61,
+      "time_str": "02:12.610",
+      "text": "你在别人的宇宙 施舍着温柔",
+      "translation": null
+    },
+    {
+      "time": 136.09,
+      "time_str": "02:16.090",
+      "text": "我能给的风度是微笑着默默放开手",
+      "translation": null
+    },
+    {
+      "time": 142.56,
+      "time_str": "02:22.560",
+      "text": "我知道你的眼泪只是一种无奈",
+      "translation": null
+    },
+    {
+      "time": 146.63,
+      "time_str": "02:26.630",
+      "text": "何必虚情假意的勾勒着未来",
+      "translation": null
+    },
+    {
+      "time": 150.1,
+      "time_str": "02:30.100",
+      "text": "当爱已不存在 我又为谁等待",
+      "translation": null
+    },
+    {
+      "time": 153.77,
+      "time_str": "02:33.770",
+      "text": "嘲笑命运这幽默的安排",
+      "translation": null
+    },
+    {
+      "time": 156.82,
+      "time_str": "02:36.820",
+      "text": "我知道你的挽回只是一种习惯",
+      "translation": null
+    },
+    {
+      "time": 160.52,
+      "time_str": "02:40.520",
+      "text": "也曾为难你有多么害怕孤单",
+      "translation": null
+    },
+    {
+      "time": 164.2,
+      "time_str": "02:44.200",
+      "text": "故事可以重来 时光却已不再",
+      "translation": null
+    },
+    {
+      "time": 167.78,
+      "time_str": "02:47.780",
+      "text": "感情需要一点点的空白",
+      "translation": null
+    },
+    {
+      "time": 170.62,
+      "time_str": "02:50.620",
+      "text": "来整理遗憾",
+      "translation": null
+    },
+    {
+      "time": 174.4,
+      "time_str": "02:54.400",
+      "text": "我知道你的眼泪只是一种无奈",
+      "translation": null
+    },
+    {
+      "time": 177.81,
+      "time_str": "02:57.810",
+      "text": "何必虚情假意的勾勒着未来",
+      "translation": null
+    },
+    {
+      "time": 182.03,
+      "time_str": "03:02.030",
+      "text": "当爱已不存在 我又为谁等待",
+      "translation": null
+    },
+    {
+      "time": 185.15,
+      "time_str": "03:05.150",
+      "text": "嘲笑命运这幽默的安排",
+      "translation": null
+    },
+    {
+      "time": 188.08,
+      "time_str": "03:08.080",
+      "text": "我知道你的挽回只是一种习惯",
+      "translation": null
+    },
+    {
+      "time": 192.16,
+      "time_str": "03:12.160",
+      "text": "也曾为难你有多么害怕孤单",
+      "translation": null
+    },
+    {
+      "time": 195.64,
+      "time_str": "03:15.640",
+      "text": "故事可以重来 时光却已不再",
+      "translation": null
+    },
+    {
+      "time": 199.31,
+      "time_str": "03:19.310",
+      "text": "感情需要一点点的空白",
+      "translation": null
+    },
+    {
+      "time": 202.17,
+      "time_str": "03:22.170",
+      "text": "来整理遗憾",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "风度 - 汪苏泷.lrc"
+}

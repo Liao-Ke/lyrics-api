@@ -1,0 +1,442 @@
+{
+  "title": "敢爱敢做",
+  "title_raw": "敢爱敢做 (Live)",
+  "version": "Live",
+  "artist": "林子祥,叶蒨文",
+  "group_key": "敢爱敢做|林子祥,叶蒨文",
+  "writers": {
+    "lyricist": "潘伟源",
+    "composer": "Albert Hammond/Diane Warren",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.0,
+      "time_str": "00:02.000",
+      "text": "原唱 : 林子祥",
+      "translation": null
+    },
+    {
+      "time": 21.69,
+      "time_str": "00:21.690",
+      "text": "林子祥：",
+      "translation": null
+    },
+    {
+      "time": 21.9,
+      "time_str": "00:21.900",
+      "text": "街边焦急的我餐厅忧郁的你",
+      "translation": null
+    },
+    {
+      "time": 26.61,
+      "time_str": "00:26.610",
+      "text": "隔片沙玻璃两眼带些伤悲",
+      "translation": null
+    },
+    {
+      "time": 31.92,
+      "time_str": "00:31.920",
+      "text": "交通灯边的我紧抱深爱的你",
+      "translation": null
+    },
+    {
+      "time": 37.02,
+      "time_str": "00:37.020",
+      "text": "听呼吸声我急速到死",
+      "translation": null
+    },
+    {
+      "time": 43.26,
+      "time_str": "00:43.260",
+      "text": "叶蒨文：",
+      "translation": null
+    },
+    {
+      "time": 43.41,
+      "time_str": "00:43.410",
+      "text": "冷雨扑向我点点纷飞",
+      "translation": null
+    },
+    {
+      "time": 48.54,
+      "time_str": "00:48.540",
+      "text": "千吨高温波涛",
+      "translation": null
+    },
+    {
+      "time": 50.58,
+      "time_str": "00:50.580",
+      "text": "由你涌起",
+      "translation": null
+    },
+    {
+      "time": 53.91,
+      "time_str": "00:53.910",
+      "text": "个个说我太狂",
+      "translation": null
+    },
+    {
+      "time": 56.49,
+      "time_str": "00:56.490",
+      "text": "笑我不羁",
+      "translation": null
+    },
+    {
+      "time": 59.25,
+      "time_str": "00:59.250",
+      "text": "敢于交出真情",
+      "translation": null
+    },
+    {
+      "time": 61.2,
+      "time_str": "01:01.200",
+      "text": "哪算可鄙",
+      "translation": null
+    },
+    {
+      "time": 63.3,
+      "time_str": "01:03.300",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 64.55,
+      "time_str": "01:04.550",
+      "text": "狂抱拥不需休息的吻",
+      "translation": null
+    },
+    {
+      "time": 68.31,
+      "time_str": "01:08.310",
+      "text": "不需呼吸空气",
+      "translation": null
+    },
+    {
+      "time": 70.68,
+      "time_str": "01:10.680",
+      "text": "不需街边观众远离",
+      "translation": null
+    },
+    {
+      "time": 74.25,
+      "time_str": "01:14.250",
+      "text": "微雨中身边车辆飞过",
+      "translation": null
+    },
+    {
+      "time": 77.64,
+      "time_str": "01:17.640",
+      "text": "街里路人走过",
+      "translation": null
+    },
+    {
+      "time": 80.07,
+      "time_str": "01:20.070",
+      "text": "交通灯催促过",
+      "translation": null
+    },
+    {
+      "time": 82.56,
+      "time_str": "01:22.560",
+      "text": "剩下独是我跟你",
+      "translation": null
+    },
+    {
+      "time": 94.33,
+      "time_str": "01:34.330",
+      "text": "收紧一双手臂",
+      "translation": null
+    },
+    {
+      "time": 96.24,
+      "time_str": "01:36.240",
+      "text": "箍紧身边的你",
+      "translation": null
+    },
+    {
+      "time": 98.55,
+      "time_str": "01:38.550",
+      "text": "透过湿恤衫贴向你的肤肌",
+      "translation": null
+    },
+    {
+      "time": 103.26,
+      "time_str": "01:43.260",
+      "text": "身边多少指责都已一概不理",
+      "translation": null
+    },
+    {
+      "time": 108.06,
+      "time_str": "01:48.060",
+      "text": "爱得真心我俩应该吻死",
+      "translation": null
+    },
+    {
+      "time": 113.25,
+      "time_str": "01:53.250",
+      "text": "冷雨扑向我点点纷飞",
+      "translation": null
+    },
+    {
+      "time": 117.9,
+      "time_str": "01:57.900",
+      "text": "千吨高温波涛由你涌起",
+      "translation": null
+    },
+    {
+      "time": 122.58,
+      "time_str": "02:02.580",
+      "text": "个个说我太狂笑我不羁",
+      "translation": null
+    },
+    {
+      "time": 127.23,
+      "time_str": "02:07.230",
+      "text": "敢于交出真情哪算可鄙",
+      "translation": null
+    },
+    {
+      "time": 132.0,
+      "time_str": "02:12.000",
+      "text": "狂抱拥不需休息的吻",
+      "translation": null
+    },
+    {
+      "time": 135.87,
+      "time_str": "02:15.870",
+      "text": "不需呼吸空气",
+      "translation": null
+    },
+    {
+      "time": 138.24,
+      "time_str": "02:18.240",
+      "text": "不需街边观众远离",
+      "translation": null
+    },
+    {
+      "time": 141.87,
+      "time_str": "02:21.870",
+      "text": "微雨中身边车辆飞过",
+      "translation": null
+    },
+    {
+      "time": 145.08,
+      "time_str": "02:25.080",
+      "text": "街里路人走过",
+      "translation": null
+    },
+    {
+      "time": 147.66,
+      "time_str": "02:27.660",
+      "text": "交通灯催促过",
+      "translation": null
+    },
+    {
+      "time": 150.21,
+      "time_str": "02:30.210",
+      "text": "剩下独是我跟你",
+      "translation": null
+    },
+    {
+      "time": 154.92,
+      "time_str": "02:34.920",
+      "text": "就让宇宙塌下",
+      "translation": null
+    },
+    {
+      "time": 160.2,
+      "time_str": "02:40.200",
+      "text": "世界变了荒地",
+      "translation": null
+    },
+    {
+      "time": 164.25,
+      "time_str": "02:44.250",
+      "text": "日月碎做殒石",
+      "translation": null
+    },
+    {
+      "time": 168.9,
+      "time_str": "02:48.900",
+      "text": "我俩也吻着到每个世纪",
+      "translation": null
+    },
+    {
+      "time": 179.7,
+      "time_str": "02:59.700",
+      "text": "狂抱拥不需休息的吻",
+      "translation": null
+    },
+    {
+      "time": 186.36,
+      "time_str": "03:06.360",
+      "text": "不需呼吸空气",
+      "translation": null
+    },
+    {
+      "time": 189.04,
+      "time_str": "03:09.040",
+      "text": "不需街边观众远离",
+      "translation": null
+    },
+    {
+      "time": 192.51,
+      "time_str": "03:12.510",
+      "text": "微雨中身边车辆飞过",
+      "translation": null
+    },
+    {
+      "time": 195.6,
+      "time_str": "03:15.600",
+      "text": "街里路人走过",
+      "translation": null
+    },
+    {
+      "time": 198.18,
+      "time_str": "03:18.180",
+      "text": "交通灯催促过",
+      "translation": null
+    },
+    {
+      "time": 200.61,
+      "time_str": "03:20.610",
+      "text": "剩下独是我跟你",
+      "translation": null
+    },
+    {
+      "time": 203.29,
+      "time_str": "03:23.290",
+      "text": "不需休息的吻",
+      "translation": null
+    },
+    {
+      "time": 205.09,
+      "time_str": "03:25.090",
+      "text": "不需呼吸空气",
+      "translation": null
+    },
+    {
+      "time": 207.44,
+      "time_str": "03:27.440",
+      "text": "不需街边观众远离",
+      "translation": null
+    },
+    {
+      "time": 210.84,
+      "time_str": "03:30.840",
+      "text": "微雨中身边车辆飞过",
+      "translation": null
+    },
+    {
+      "time": 214.23,
+      "time_str": "03:34.230",
+      "text": "街里路人走过",
+      "translation": null
+    },
+    {
+      "time": 216.61,
+      "time_str": "03:36.610",
+      "text": "交通灯催促过",
+      "translation": null
+    },
+    {
+      "time": 219.36,
+      "time_str": "03:39.360",
+      "text": "剩下独是我跟你",
+      "translation": null
+    },
+    {
+      "time": 249.52,
+      "time_str": "04:09.520",
+      "text": "SP：KOBALT MUSIC PUBLISHING ASIA LIMITED/Universal Music Publishing CHINA/博曼（北京）文化发展有限公司",
+      "translation": null
+    },
+    {
+      "time": 249.77,
+      "time_str": "04:09.770",
+      "text": "音乐总监：谷粟@牛班NEWBAND",
+      "translation": null
+    },
+    {
+      "time": 250.02,
+      "time_str": "04:10.020",
+      "text": "音响总监：何飚",
+      "translation": null
+    },
+    {
+      "time": 250.27,
+      "time_str": "04:10.270",
+      "text": "舞台总监：李柯",
+      "translation": null
+    },
+    {
+      "time": 250.52,
+      "time_str": "04:10.520",
+      "text": "高级音乐顾问：许愿",
+      "translation": null
+    },
+    {
+      "time": 250.77,
+      "time_str": "04:10.770",
+      "text": "音乐设计：王皓@WONDERWALL",
+      "translation": null
+    },
+    {
+      "time": 251.27,
+      "time_str": "04:11.270",
+      "text": "改编编曲：Johnny Yim",
+      "translation": null
+    },
+    {
+      "time": 251.77,
+      "time_str": "04:11.770",
+      "text": "乐队队长：洪信杰@牛班NEWBAND",
+      "translation": null
+    },
+    {
+      "time": 252.02,
+      "time_str": "04:12.020",
+      "text": "键盘：洪信杰@牛班NEWBAND/ 张人杰Andy@牛班NEWBAND",
+      "translation": null
+    },
+    {
+      "time": 252.52,
+      "time_str": "04:12.520",
+      "text": "贝斯：宣一亨@牛班NEWBAND",
+      "translation": null
+    },
+    {
+      "time": 253.02,
+      "time_str": "04:13.020",
+      "text": "打击乐：高兴@牛班NEWBAND",
+      "translation": null
+    },
+    {
+      "time": 253.27,
+      "time_str": "04:13.270",
+      "text": "和音：林灵@牛班NEWBAND 牟雪@牛班NEWBAND",
+      "translation": null
+    },
+    {
+      "time": 253.52,
+      "time_str": "04:13.520",
+      "text": "曾嵘@牛班NEWBAND 叶俊@牛班NEWBAND",
+      "translation": null
+    },
+    {
+      "time": 253.77,
+      "time_str": "04:13.770",
+      "text": "和音编写：林灵@牛班NEWBAND",
+      "translation": null
+    },
+    {
+      "time": 254.02,
+      "time_str": "04:14.020",
+      "text": "PGM：郭锦阳@牛班NEWBAND",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "敢爱敢做 (Live) - 林子祥,叶蒨文.lrc"
+}

@@ -1,0 +1,328 @@
+{
+  "title": "回忆总想哭",
+  "title_raw": "回忆总想哭",
+  "version": null,
+  "artist": "南宫嘉骏,姜玉阳",
+  "group_key": "回忆总想哭|南宫嘉骏,姜玉阳",
+  "writers": {
+    "lyricist": "姜玉阳",
+    "composer": "姜玉阳",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 28.19,
+      "time_str": "00:28.190",
+      "text": "常常习惯性的想你的需要",
+      "translation": null
+    },
+    {
+      "time": 34.4,
+      "time_str": "00:34.400",
+      "text": "不知你现在可好",
+      "translation": null
+    },
+    {
+      "time": 39.22,
+      "time_str": "00:39.220",
+      "text": "换你一个微笑",
+      "translation": null
+    },
+    {
+      "time": 42.58,
+      "time_str": "00:42.580",
+      "text": "我愿为爱乞讨",
+      "translation": null
+    },
+    {
+      "time": 45.78,
+      "time_str": "00:45.780",
+      "text": "愿永远做你的依靠",
+      "translation": null
+    },
+    {
+      "time": 52.87,
+      "time_str": "00:52.870",
+      "text": "果然没有爱也没有了烦恼",
+      "translation": null
+    },
+    {
+      "time": 58.94,
+      "time_str": "00:58.940",
+      "text": "只是记忆抹不掉",
+      "translation": null
+    },
+    {
+      "time": 64.22,
+      "time_str": "01:04.220",
+      "text": "你烫过的衣服",
+      "translation": null
+    },
+    {
+      "time": 67.12,
+      "time_str": "01:07.120",
+      "text": "仿佛还有温度",
+      "translation": null
+    },
+    {
+      "time": 70.46,
+      "time_str": "01:10.460",
+      "text": "却抵挡不了我寒冷孤独",
+      "translation": null
+    },
+    {
+      "time": 76.98,
+      "time_str": "01:16.980",
+      "text": "回忆总想哭",
+      "translation": null
+    },
+    {
+      "time": 79.67,
+      "time_str": "01:19.670",
+      "text": "一个人太孤独",
+      "translation": null
+    },
+    {
+      "time": 82.37,
+      "time_str": "01:22.370",
+      "text": "这段情千山万水却迷了路",
+      "translation": null
+    },
+    {
+      "time": 88.58,
+      "time_str": "01:28.580",
+      "text": "千辛万苦的付出",
+      "translation": null
+    },
+    {
+      "time": 91.58,
+      "time_str": "01:31.580",
+      "text": "早已放弃了归路",
+      "translation": null
+    },
+    {
+      "time": 94.58,
+      "time_str": "01:34.580",
+      "text": "爱到深处却只剩下无助",
+      "translation": null
+    },
+    {
+      "time": 101.44,
+      "time_str": "01:41.440",
+      "text": "回忆总想哭",
+      "translation": null
+    },
+    {
+      "time": 104.28,
+      "time_str": "01:44.280",
+      "text": "一个人的幸福",
+      "translation": null
+    },
+    {
+      "time": 106.97,
+      "time_str": "01:46.970",
+      "text": "就像你最后给我那些叮嘱",
+      "translation": null
+    },
+    {
+      "time": 113.1,
+      "time_str": "01:53.100",
+      "text": "爱如何形同陌路",
+      "translation": null
+    },
+    {
+      "time": 116.16,
+      "time_str": "01:56.160",
+      "text": "你走有你走的苦",
+      "translation": null
+    },
+    {
+      "time": 119.24,
+      "time_str": "01:59.240",
+      "text": "怎知你走以后不会为我哭",
+      "translation": null
+    },
+    {
+      "time": 151.29,
+      "time_str": "02:31.290",
+      "text": "果然没有爱也没有了烦恼",
+      "translation": null
+    },
+    {
+      "time": 157.56,
+      "time_str": "02:37.560",
+      "text": "只是记忆抹不掉",
+      "translation": null
+    },
+    {
+      "time": 162.56,
+      "time_str": "02:42.560",
+      "text": "你烫过的衣服",
+      "translation": null
+    },
+    {
+      "time": 165.79,
+      "time_str": "02:45.790",
+      "text": "仿佛还有温度",
+      "translation": null
+    },
+    {
+      "time": 168.88,
+      "time_str": "02:48.880",
+      "text": "却抵挡不了我寒冷孤独",
+      "translation": null
+    },
+    {
+      "time": 175.45,
+      "time_str": "02:55.450",
+      "text": "回忆总想哭",
+      "translation": null
+    },
+    {
+      "time": 178.13,
+      "time_str": "02:58.130",
+      "text": "一个人太孤独",
+      "translation": null
+    },
+    {
+      "time": 180.8,
+      "time_str": "03:00.800",
+      "text": "这段情千山万水却迷了路",
+      "translation": null
+    },
+    {
+      "time": 186.85,
+      "time_str": "03:06.850",
+      "text": "千辛万苦的付出",
+      "translation": null
+    },
+    {
+      "time": 189.97,
+      "time_str": "03:09.970",
+      "text": "早已放弃了归路",
+      "translation": null
+    },
+    {
+      "time": 193.0,
+      "time_str": "03:13.000",
+      "text": "爱到深处却只剩下无助",
+      "translation": null
+    },
+    {
+      "time": 199.98,
+      "time_str": "03:19.980",
+      "text": "回忆总想哭",
+      "translation": null
+    },
+    {
+      "time": 202.69,
+      "time_str": "03:22.690",
+      "text": "一个人的幸福",
+      "translation": null
+    },
+    {
+      "time": 205.46,
+      "time_str": "03:25.460",
+      "text": "就像你最后给我那些叮嘱",
+      "translation": null
+    },
+    {
+      "time": 211.55,
+      "time_str": "03:31.550",
+      "text": "爱如何形同陌路",
+      "translation": null
+    },
+    {
+      "time": 214.6,
+      "time_str": "03:34.600",
+      "text": "你走有你走的苦",
+      "translation": null
+    },
+    {
+      "time": 217.67,
+      "time_str": "03:37.670",
+      "text": "怎知你走以后不会为我哭",
+      "translation": null
+    },
+    {
+      "time": 230.81,
+      "time_str": "03:50.810",
+      "text": "回忆总想哭",
+      "translation": null
+    },
+    {
+      "time": 233.48,
+      "time_str": "03:53.480",
+      "text": "一个人太孤独",
+      "translation": null
+    },
+    {
+      "time": 236.18,
+      "time_str": "03:56.180",
+      "text": "这段情千山万水却迷了路",
+      "translation": null
+    },
+    {
+      "time": 242.22,
+      "time_str": "04:02.220",
+      "text": "千辛万苦的付出",
+      "translation": null
+    },
+    {
+      "time": 245.31,
+      "time_str": "04:05.310",
+      "text": "早已放弃了归路",
+      "translation": null
+    },
+    {
+      "time": 248.48,
+      "time_str": "04:08.480",
+      "text": "爱到深处却只剩下无助",
+      "translation": null
+    },
+    {
+      "time": 255.31,
+      "time_str": "04:15.310",
+      "text": "回忆总想哭",
+      "translation": null
+    },
+    {
+      "time": 258.04,
+      "time_str": "04:18.040",
+      "text": "一个人的幸福",
+      "translation": null
+    },
+    {
+      "time": 260.76,
+      "time_str": "04:20.760",
+      "text": "就像你最后给我那些叮嘱",
+      "translation": null
+    },
+    {
+      "time": 266.95,
+      "time_str": "04:26.950",
+      "text": "爱如何形同陌路",
+      "translation": null
+    },
+    {
+      "time": 269.93,
+      "time_str": "04:29.930",
+      "text": "你走有你走的苦",
+      "translation": null
+    },
+    {
+      "time": 273.05,
+      "time_str": "04:33.050",
+      "text": "怎知你走以后不会为我哭",
+      "translation": null
+    },
+    {
+      "time": 279.18,
+      "time_str": "04:39.180",
+      "text": "怎知你走以后不会为我哭",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "回忆总想哭 - 南宫嘉骏,姜玉阳.lrc"
+}

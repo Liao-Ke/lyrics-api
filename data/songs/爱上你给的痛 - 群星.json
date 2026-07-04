@@ -1,0 +1,214 @@
+{
+  "title": "爱上你给的痛",
+  "title_raw": "爱上你给的痛",
+  "version": null,
+  "artist": "群星",
+  "group_key": "爱上你给的痛|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 34.85,
+      "time_str": "00:34.850",
+      "text": "哭不尽多情梦",
+      "translation": null
+    },
+    {
+      "time": 38.6,
+      "time_str": "00:38.600",
+      "text": "已忘了伤心痛",
+      "translation": null
+    },
+    {
+      "time": 42.24,
+      "time_str": "00:42.240",
+      "text": "我的一世一生只有你最懂",
+      "translation": null
+    },
+    {
+      "time": 50.02,
+      "time_str": "00:50.020",
+      "text": "醒不了痴情夜",
+      "translation": null
+    },
+    {
+      "time": 53.77,
+      "time_str": "00:53.770",
+      "text": "不在乎孤枕眠",
+      "translation": null
+    },
+    {
+      "time": 57.57,
+      "time_str": "00:57.570",
+      "text": "我的千辛万苦都藏在心中",
+      "translation": null
+    },
+    {
+      "time": 66.81,
+      "time_str": "01:06.810",
+      "text": "我爱上你给的痛",
+      "translation": null
+    },
+    {
+      "time": 70.74,
+      "time_str": "01:10.740",
+      "text": "心甘情愿等你的梦",
+      "translation": null
+    },
+    {
+      "time": 74.73,
+      "time_str": "01:14.730",
+      "text": "藏起泪眼只用笑容相送",
+      "translation": null
+    },
+    {
+      "time": 82.53,
+      "time_str": "01:22.530",
+      "text": "我爱上你给的痛",
+      "translation": null
+    },
+    {
+      "time": 86.03,
+      "time_str": "01:26.030",
+      "text": "只要活在你的怀中",
+      "translation": null
+    },
+    {
+      "time": 90.09,
+      "time_str": "01:30.090",
+      "text": "但求今生化作伴你的风",
+      "translation": null
+    },
+    {
+      "time": 96.33,
+      "time_str": "01:36.330",
+      "text": "爱上你给的痛",
+      "translation": null
+    },
+    {
+      "time": 133.0,
+      "time_str": "02:13.000",
+      "text": "哭不尽多情梦",
+      "translation": null
+    },
+    {
+      "time": 136.28,
+      "time_str": "02:16.280",
+      "text": "已忘了伤心痛",
+      "translation": null
+    },
+    {
+      "time": 140.08,
+      "time_str": "02:20.080",
+      "text": "我的一世一生只有你最懂",
+      "translation": null
+    },
+    {
+      "time": 147.76,
+      "time_str": "02:27.760",
+      "text": "醒不了痴情夜",
+      "translation": null
+    },
+    {
+      "time": 151.5,
+      "time_str": "02:31.500",
+      "text": "不在乎孤枕眠",
+      "translation": null
+    },
+    {
+      "time": 155.43,
+      "time_str": "02:35.430",
+      "text": "我的千辛万苦都藏在心中",
+      "translation": null
+    },
+    {
+      "time": 165.04,
+      "time_str": "02:45.040",
+      "text": "我爱上你给的痛",
+      "translation": null
+    },
+    {
+      "time": 168.54,
+      "time_str": "02:48.540",
+      "text": "心甘情愿等你的梦",
+      "translation": null
+    },
+    {
+      "time": 172.47,
+      "time_str": "02:52.470",
+      "text": "藏起泪眼只用笑容相送",
+      "translation": null
+    },
+    {
+      "time": 179.58,
+      "time_str": "02:59.580",
+      "text": "我爱上你给的痛",
+      "translation": null
+    },
+    {
+      "time": 183.76,
+      "time_str": "03:03.760",
+      "text": "只要活在你的怀中",
+      "translation": null
+    },
+    {
+      "time": 187.82,
+      "time_str": "03:07.820",
+      "text": "但求今生化作伴你的风",
+      "translation": null
+    },
+    {
+      "time": 194.06,
+      "time_str": "03:14.060",
+      "text": "爱上你给的痛",
+      "translation": null
+    },
+    {
+      "time": 199.36,
+      "time_str": "03:19.360",
+      "text": "我爱上你给的痛",
+      "translation": null
+    },
+    {
+      "time": 202.92,
+      "time_str": "03:22.920",
+      "text": "心甘情愿等你的梦",
+      "translation": null
+    },
+    {
+      "time": 206.93,
+      "time_str": "03:26.930",
+      "text": "藏起泪眼只用笑容相送",
+      "translation": null
+    },
+    {
+      "time": 214.54,
+      "time_str": "03:34.540",
+      "text": "我爱上你给的痛",
+      "translation": null
+    },
+    {
+      "time": 218.23,
+      "time_str": "03:38.230",
+      "text": "只要活在你的怀中",
+      "translation": null
+    },
+    {
+      "time": 222.28,
+      "time_str": "03:42.280",
+      "text": "但求今生化作伴你的风",
+      "translation": null
+    },
+    {
+      "time": 228.64,
+      "time_str": "03:48.640",
+      "text": "爱上你给的痛",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱上你给的痛 - 群星.lrc"
+}

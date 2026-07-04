@@ -1,0 +1,340 @@
+{
+  "title": "知否知否",
+  "title_raw": "知否知否",
+  "version": null,
+  "artist": "胡夏,郁可唯",
+  "group_key": "知否知否|胡夏,郁可唯",
+  "writers": {
+    "lyricist": "李清照/张靖怡",
+    "composer": "刘炫豆",
+    "arranger": "刘炫豆"
+  },
+  "lyrics": [
+    {
+      "time": 25.9,
+      "time_str": "00:25.900",
+      "text": "一朝花开傍柳",
+      "translation": null
+    },
+    {
+      "time": 29.46,
+      "time_str": "00:29.460",
+      "text": "寻香误觅亭侯",
+      "translation": null
+    },
+    {
+      "time": 35.86,
+      "time_str": "00:35.860",
+      "text": "纵饮朝霞半日晖",
+      "translation": null
+    },
+    {
+      "time": 39.81,
+      "time_str": "00:39.810",
+      "text": "风雨着不透",
+      "translation": null
+    },
+    {
+      "time": 44.87,
+      "time_str": "00:44.870",
+      "text": "一任宫长骁瘦",
+      "translation": null
+    },
+    {
+      "time": 47.77,
+      "time_str": "00:47.770",
+      "text": "台高冰泪难流",
+      "translation": null
+    },
+    {
+      "time": 54.17,
+      "time_str": "00:54.170",
+      "text": "锦书送罢蓦回首",
+      "translation": null
+    },
+    {
+      "time": 58.17,
+      "time_str": "00:58.170",
+      "text": "无余岁可偷",
+      "translation": null
+    },
+    {
+      "time": 63.97,
+      "time_str": "01:03.970",
+      "text": "昨夜雨疏风骤",
+      "translation": null
+    },
+    {
+      "time": 66.12,
+      "time_str": "01:06.120",
+      "text": "浓睡不消残酒",
+      "translation": null
+    },
+    {
+      "time": 68.57,
+      "time_str": "01:08.570",
+      "text": "试问卷帘人",
+      "translation": null
+    },
+    {
+      "time": 70.42,
+      "time_str": "01:10.420",
+      "text": "却道海棠依旧",
+      "translation": null
+    },
+    {
+      "time": 72.77,
+      "time_str": "01:12.770",
+      "text": "知否 知否",
+      "translation": null
+    },
+    {
+      "time": 77.17,
+      "time_str": "01:17.170",
+      "text": "应是绿肥红瘦",
+      "translation": null
+    },
+    {
+      "time": 82.43,
+      "time_str": "01:22.430",
+      "text": "昨夜雨疏风骤",
+      "translation": null
+    },
+    {
+      "time": 84.53,
+      "time_str": "01:24.530",
+      "text": "浓睡不消残酒",
+      "translation": null
+    },
+    {
+      "time": 86.88,
+      "time_str": "01:26.880",
+      "text": "试问卷帘人",
+      "translation": null
+    },
+    {
+      "time": 88.67,
+      "time_str": "01:28.670",
+      "text": "却道海棠依旧",
+      "translation": null
+    },
+    {
+      "time": 91.23,
+      "time_str": "01:31.230",
+      "text": "知否 知否",
+      "translation": null
+    },
+    {
+      "time": 95.78,
+      "time_str": "01:35.780",
+      "text": "应是绿肥红瘦",
+      "translation": null
+    },
+    {
+      "time": 141.7,
+      "time_str": "02:21.700",
+      "text": "一朝花开傍柳",
+      "translation": null
+    },
+    {
+      "time": 144.65,
+      "time_str": "02:24.650",
+      "text": "寻香误觅亭侯",
+      "translation": null
+    },
+    {
+      "time": 151.2,
+      "time_str": "02:31.200",
+      "text": "纵饮朝霞半日晖",
+      "translation": null
+    },
+    {
+      "time": 155.06,
+      "time_str": "02:35.060",
+      "text": "风雨着不透",
+      "translation": null
+    },
+    {
+      "time": 160.26,
+      "time_str": "02:40.260",
+      "text": "一任宫长骁瘦",
+      "translation": null
+    },
+    {
+      "time": 163.07,
+      "time_str": "02:43.070",
+      "text": "台高冰泪难流",
+      "translation": null
+    },
+    {
+      "time": 169.57,
+      "time_str": "02:49.570",
+      "text": "锦书送罢蓦回首",
+      "translation": null
+    },
+    {
+      "time": 173.66,
+      "time_str": "02:53.660",
+      "text": "无余岁可偷",
+      "translation": null
+    },
+    {
+      "time": 179.36,
+      "time_str": "02:59.360",
+      "text": "昨夜雨疏风骤",
+      "translation": null
+    },
+    {
+      "time": 181.47,
+      "time_str": "03:01.470",
+      "text": "浓睡不消残酒",
+      "translation": null
+    },
+    {
+      "time": 184.02,
+      "time_str": "03:04.020",
+      "text": "试问卷帘人",
+      "translation": null
+    },
+    {
+      "time": 185.48,
+      "time_str": "03:05.480",
+      "text": "却道海棠依旧",
+      "translation": null
+    },
+    {
+      "time": 187.98,
+      "time_str": "03:07.980",
+      "text": "知否 知否",
+      "translation": null
+    },
+    {
+      "time": 192.63,
+      "time_str": "03:12.630",
+      "text": "应是绿肥红瘦",
+      "translation": null
+    },
+    {
+      "time": 197.83,
+      "time_str": "03:17.830",
+      "text": "昨夜雨疏风骤",
+      "translation": null
+    },
+    {
+      "time": 199.97,
+      "time_str": "03:19.970",
+      "text": "浓睡不消残酒",
+      "translation": null
+    },
+    {
+      "time": 202.37,
+      "time_str": "03:22.370",
+      "text": "试问卷帘人",
+      "translation": null
+    },
+    {
+      "time": 203.98,
+      "time_str": "03:23.980",
+      "text": "却道海棠依旧",
+      "translation": null
+    },
+    {
+      "time": 206.42,
+      "time_str": "03:26.420",
+      "text": "知否 知否",
+      "translation": null
+    },
+    {
+      "time": 211.18,
+      "time_str": "03:31.180",
+      "text": "应是绿肥红瘦",
+      "translation": null
+    },
+    {
+      "time": 216.34,
+      "time_str": "03:36.340",
+      "text": "昨夜雨疏风骤",
+      "translation": null
+    },
+    {
+      "time": 218.34,
+      "time_str": "03:38.340",
+      "text": "浓睡不消残酒",
+      "translation": null
+    },
+    {
+      "time": 220.74,
+      "time_str": "03:40.740",
+      "text": "试问卷帘人",
+      "translation": null
+    },
+    {
+      "time": 222.49,
+      "time_str": "03:42.490",
+      "text": "却道海棠依旧",
+      "translation": null
+    },
+    {
+      "time": 224.88,
+      "time_str": "03:44.880",
+      "text": "知否 知否",
+      "translation": null
+    },
+    {
+      "time": 229.84,
+      "time_str": "03:49.840",
+      "text": "应是绿肥红瘦",
+      "translation": null
+    },
+    {
+      "time": 234.69,
+      "time_str": "03:54.690",
+      "text": "昨夜雨疏风骤",
+      "translation": null
+    },
+    {
+      "time": 236.74,
+      "time_str": "03:56.740",
+      "text": "浓睡不消残酒",
+      "translation": null
+    },
+    {
+      "time": 239.08,
+      "time_str": "03:59.080",
+      "text": "试问卷帘人",
+      "translation": null
+    },
+    {
+      "time": 241.24,
+      "time_str": "04:01.240",
+      "text": "却道海棠依旧",
+      "translation": null
+    },
+    {
+      "time": 243.54,
+      "time_str": "04:03.540",
+      "text": "知否 知否",
+      "translation": null
+    },
+    {
+      "time": 248.15,
+      "time_str": "04:08.150",
+      "text": "应是绿肥红瘦",
+      "translation": null
+    },
+    {
+      "time": 255.09,
+      "time_str": "04:15.090",
+      "text": "知否 知否",
+      "translation": null
+    },
+    {
+      "time": 259.86,
+      "time_str": "04:19.860",
+      "text": "应是绿肥红瘦",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "知否知否 - 胡夏,郁可唯.lrc"
+}

@@ -1,0 +1,196 @@
+{
+  "title": "爱情",
+  "title_raw": "爱情",
+  "version": null,
+  "artist": "莫文蔚",
+  "group_key": "爱情|莫文蔚",
+  "writers": {
+    "lyricist": "姚谦/张洪量",
+    "composer": "张洪量",
+    "arranger": "董运昌"
+  },
+  "lyrics": [
+    {
+      "time": 36.56,
+      "time_str": "00:36.560",
+      "text": "若不是因为爱着你",
+      "translation": null
+    },
+    {
+      "time": 42.49,
+      "time_str": "00:42.490",
+      "text": "怎么会夜深还没睡意",
+      "translation": null
+    },
+    {
+      "time": 48.43,
+      "time_str": "00:48.430",
+      "text": "每个念头都关于你",
+      "translation": null
+    },
+    {
+      "time": 54.12,
+      "time_str": "00:54.120",
+      "text": "我想你 想你 好想你",
+      "translation": null
+    },
+    {
+      "time": 66.62,
+      "time_str": "01:06.620",
+      "text": "若不是因为爱着你",
+      "translation": null
+    },
+    {
+      "time": 72.43,
+      "time_str": "01:12.430",
+      "text": "怎会有不安的情绪",
+      "translation": null
+    },
+    {
+      "time": 78.37,
+      "time_str": "01:18.370",
+      "text": "每个莫名的日子里",
+      "translation": null
+    },
+    {
+      "time": 84.06,
+      "time_str": "01:24.060",
+      "text": "我想你 想你 好想你",
+      "translation": null
+    },
+    {
+      "time": 96.37,
+      "time_str": "01:36.370",
+      "text": "爱是折磨人的东西",
+      "translation": null
+    },
+    {
+      "time": 102.31,
+      "time_str": "01:42.310",
+      "text": "却又舍不得这样放弃",
+      "translation": null
+    },
+    {
+      "time": 108.5,
+      "time_str": "01:48.500",
+      "text": "不停揣测你的心里",
+      "translation": null
+    },
+    {
+      "time": 114.37,
+      "time_str": "01:54.370",
+      "text": "可有我姓名",
+      "translation": null
+    },
+    {
+      "time": 126.74,
+      "time_str": "02:06.740",
+      "text": "若不是因为爱着你",
+      "translation": null
+    },
+    {
+      "time": 132.37,
+      "time_str": "02:12.370",
+      "text": "怎会不经意就叹息",
+      "translation": null
+    },
+    {
+      "time": 138.31,
+      "time_str": "02:18.310",
+      "text": "有种不完整的心情",
+      "translation": null
+    },
+    {
+      "time": 144.5,
+      "time_str": "02:24.500",
+      "text": "爱你 爱你",
+      "translation": null
+    },
+    {
+      "time": 150.24,
+      "time_str": "02:30.240",
+      "text": "爱着你",
+      "translation": null
+    },
+    {
+      "time": 180.5,
+      "time_str": "03:00.500",
+      "text": "爱是折磨人的东西",
+      "translation": null
+    },
+    {
+      "time": 186.31,
+      "time_str": "03:06.310",
+      "text": "却又舍不得这样放弃",
+      "translation": null
+    },
+    {
+      "time": 192.18,
+      "time_str": "03:12.180",
+      "text": "不停揣测你的心理",
+      "translation": null
+    },
+    {
+      "time": 198.25,
+      "time_str": "03:18.250",
+      "text": "可有我姓名",
+      "translation": null
+    },
+    {
+      "time": 204.5,
+      "time_str": "03:24.500",
+      "text": "爱是我唯一的秘密",
+      "translation": null
+    },
+    {
+      "time": 210.0,
+      "time_str": "03:30.000",
+      "text": "让人心碎却又着迷",
+      "translation": null
+    },
+    {
+      "time": 216.12,
+      "time_str": "03:36.120",
+      "text": "无论是用什么言语",
+      "translation": null
+    },
+    {
+      "time": 222.18,
+      "time_str": "03:42.180",
+      "text": "只会 只会思念你",
+      "translation": null
+    },
+    {
+      "time": 234.25,
+      "time_str": "03:54.250",
+      "text": "若不是因为爱着你",
+      "translation": null
+    },
+    {
+      "time": 240.06,
+      "time_str": "04:00.060",
+      "text": "怎会不经意就叹息",
+      "translation": null
+    },
+    {
+      "time": 246.06,
+      "time_str": "04:06.060",
+      "text": "有种不完整的心情",
+      "translation": null
+    },
+    {
+      "time": 252.25,
+      "time_str": "04:12.250",
+      "text": "爱你",
+      "translation": null
+    },
+    {
+      "time": 256.18,
+      "time_str": "04:16.180",
+      "text": "爱着你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱情 - 莫文蔚.lrc"
+}

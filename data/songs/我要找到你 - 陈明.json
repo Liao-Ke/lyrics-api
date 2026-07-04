@@ -1,0 +1,304 @@
+{
+  "title": "我要找到你",
+  "title_raw": "我要找到你",
+  "version": null,
+  "artist": "陈明",
+  "group_key": "我要找到你|陈明",
+  "writers": {
+    "lyricist": "楼南蔚",
+    "composer": "陈耀川",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 25.45,
+      "time_str": "00:25.450",
+      "text": "有些人爱到忘了形",
+      "translation": null
+    },
+    {
+      "time": 28.45,
+      "time_str": "00:28.450",
+      "text": "结果落的一败涂地",
+      "translation": null
+    },
+    {
+      "time": 33.48,
+      "time_str": "00:33.480",
+      "text": "有些人永远在憧憬",
+      "translation": null
+    },
+    {
+      "time": 36.97,
+      "time_str": "00:36.970",
+      "text": "却只差一步距离",
+      "translation": null
+    },
+    {
+      "time": 41.39,
+      "time_str": "00:41.390",
+      "text": "问世间什么最美丽",
+      "translation": null
+    },
+    {
+      "time": 44.49,
+      "time_str": "00:44.490",
+      "text": "爱情绝对是个奇迹",
+      "translation": null
+    },
+    {
+      "time": 49.44,
+      "time_str": "00:49.440",
+      "text": "我明白会有一颗心",
+      "translation": null
+    },
+    {
+      "time": 52.99,
+      "time_str": "00:52.990",
+      "text": "在远方等我靠近",
+      "translation": null
+    },
+    {
+      "time": 56.74,
+      "time_str": "00:56.740",
+      "text": "Oh 我要找到你 不管南北东西",
+      "translation": null
+    },
+    {
+      "time": 60.94,
+      "time_str": "01:00.940",
+      "text": "直觉会给我指引",
+      "translation": null
+    },
+    {
+      "time": 64.97,
+      "time_str": "01:04.970",
+      "text": "若是爱上你 别问什么原因",
+      "translation": null
+    },
+    {
+      "time": 68.96,
+      "time_str": "01:08.960",
+      "text": "第一眼就能够认出你",
+      "translation": null
+    },
+    {
+      "time": 72.67,
+      "time_str": "01:12.670",
+      "text": "Oh 我要找到你 喊出你的名字",
+      "translation": null
+    },
+    {
+      "time": 76.97,
+      "time_str": "01:16.970",
+      "text": "打开幸福的盒子",
+      "translation": null
+    },
+    {
+      "time": 80.93,
+      "time_str": "01:20.930",
+      "text": "让我找到你 就从那一刻起",
+      "translation": null
+    },
+    {
+      "time": 84.93,
+      "time_str": "01:24.930",
+      "text": "一开始一路走 一辈子",
+      "translation": null
+    },
+    {
+      "time": 105.39,
+      "time_str": "01:45.390",
+      "text": "问世间什么最美丽",
+      "translation": null
+    },
+    {
+      "time": 108.42,
+      "time_str": "01:48.420",
+      "text": "爱情绝对是个奇迹",
+      "translation": null
+    },
+    {
+      "time": 113.44,
+      "time_str": "01:53.440",
+      "text": "我明白会有一颗心",
+      "translation": null
+    },
+    {
+      "time": 116.97,
+      "time_str": "01:56.970",
+      "text": "在远方等我靠近",
+      "translation": null
+    },
+    {
+      "time": 120.73,
+      "time_str": "02:00.730",
+      "text": "Oh 我要找到你 不管南北东西",
+      "translation": null
+    },
+    {
+      "time": 124.95,
+      "time_str": "02:04.950",
+      "text": "直觉会给我指引",
+      "translation": null
+    },
+    {
+      "time": 128.98,
+      "time_str": "02:08.980",
+      "text": "若是爱上你 别问什么原因",
+      "translation": null
+    },
+    {
+      "time": 132.98,
+      "time_str": "02:12.980",
+      "text": "第一眼就能够认出你",
+      "translation": null
+    },
+    {
+      "time": 136.59,
+      "time_str": "02:16.590",
+      "text": "Oh 我要找到你 喊出你的名字",
+      "translation": null
+    },
+    {
+      "time": 140.95,
+      "time_str": "02:20.950",
+      "text": "打开幸福的盒子",
+      "translation": null
+    },
+    {
+      "time": 144.99,
+      "time_str": "02:24.990",
+      "text": "让我找到你 就从那一刻起",
+      "translation": null
+    },
+    {
+      "time": 148.96,
+      "time_str": "02:28.960",
+      "text": "一开始一路走 一辈子",
+      "translation": null
+    },
+    {
+      "time": 168.99,
+      "time_str": "02:48.990",
+      "text": "我要找到你 不管南北东西",
+      "translation": null
+    },
+    {
+      "time": 172.98,
+      "time_str": "02:52.980",
+      "text": "直觉会给我指引",
+      "translation": null
+    },
+    {
+      "time": 177.01,
+      "time_str": "02:57.010",
+      "text": "若是爱上你 别问什么原因",
+      "translation": null
+    },
+    {
+      "time": 180.96,
+      "time_str": "03:00.960",
+      "text": "第一眼就能够认出你",
+      "translation": null
+    },
+    {
+      "time": 184.7,
+      "time_str": "03:04.700",
+      "text": "Oh 我要找到你 喊出你的名字",
+      "translation": null
+    },
+    {
+      "time": 188.96,
+      "time_str": "03:08.960",
+      "text": "打开幸福的盒子",
+      "translation": null
+    },
+    {
+      "time": 192.98,
+      "time_str": "03:12.980",
+      "text": "让我找到你 就从那一刻起",
+      "translation": null
+    },
+    {
+      "time": 196.96,
+      "time_str": "03:16.960",
+      "text": "一开始一路走 一辈子",
+      "translation": null
+    },
+    {
+      "time": 200.96,
+      "time_str": "03:20.960",
+      "text": "我要找到你 不管南北东西",
+      "translation": null
+    },
+    {
+      "time": 204.97,
+      "time_str": "03:24.970",
+      "text": "直觉会给我指引",
+      "translation": null
+    },
+    {
+      "time": 208.94,
+      "time_str": "03:28.940",
+      "text": "若是爱上你 别问什么原因",
+      "translation": null
+    },
+    {
+      "time": 212.94,
+      "time_str": "03:32.940",
+      "text": "看见你就是你 别怀疑",
+      "translation": null
+    },
+    {
+      "time": 216.69,
+      "time_str": "03:36.690",
+      "text": "Oh 我要找到你 喊出你的名字",
+      "translation": null
+    },
+    {
+      "time": 220.97,
+      "time_str": "03:40.970",
+      "text": "打开幸福的盒子",
+      "translation": null
+    },
+    {
+      "time": 225.01,
+      "time_str": "03:45.010",
+      "text": "让我找到你 就从那一刻起",
+      "translation": null
+    },
+    {
+      "time": 228.98,
+      "time_str": "03:48.980",
+      "text": "一开始一路走 一辈子",
+      "translation": null
+    },
+    {
+      "time": 261.556,
+      "time_str": "04:21.556",
+      "text": "电小提琴 : 李琪",
+      "translation": null
+    },
+    {
+      "time": 264.052,
+      "time_str": "04:24.052",
+      "text": "混音室 : 白金录音室 (Taiwan)",
+      "translation": null
+    },
+    {
+      "time": 264.884,
+      "time_str": "04:24.884",
+      "text": "SP : 爱贝克思 (北京) 文化传媒有限公司",
+      "translation": null
+    },
+    {
+      "time": 265.716,
+      "time_str": "04:25.716",
+      "text": "SP : Universal Music Publishing CHINA",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我要找到你 - 陈明.lrc"
+}

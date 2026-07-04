@@ -1,0 +1,328 @@
+{
+  "title": "终身美丽",
+  "title_raw": "终身美丽 (电影“瘦身男女”主题曲)",
+  "version": "电影“瘦身男女”主题曲",
+  "artist": "郑秀文",
+  "group_key": "终身美丽|郑秀文",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "陈辉阳",
+    "arranger": "陈辉阳"
+  },
+  "lyrics": [
+    {
+      "time": 13.4,
+      "time_str": "00:13.400",
+      "text": "塔尖仍旧记得",
+      "translation": null
+    },
+    {
+      "time": 16.23,
+      "time_str": "00:16.230",
+      "text": "这拥抱极美好",
+      "translation": null
+    },
+    {
+      "time": 20.13,
+      "time_str": "00:20.130",
+      "text": "爱有千斤重",
+      "translation": null
+    },
+    {
+      "time": 23.31,
+      "time_str": "00:23.310",
+      "text": "重过无涯的铁路",
+      "translation": null
+    },
+    {
+      "time": 26.81,
+      "time_str": "00:26.810",
+      "text": "你那手指再笨拙再粗",
+      "translation": null
+    },
+    {
+      "time": 30.06,
+      "time_str": "00:30.060",
+      "text": "肌肤也被你修补",
+      "translation": null
+    },
+    {
+      "time": 33.85,
+      "time_str": "00:33.850",
+      "text": "从前那一位",
+      "translation": null
+    },
+    {
+      "time": 37.2,
+      "time_str": "00:37.200",
+      "text": "永未能做到",
+      "translation": null
+    },
+    {
+      "time": 40.92,
+      "time_str": "00:40.920",
+      "text": "是你去唤醒我",
+      "translation": null
+    },
+    {
+      "time": 44.24,
+      "time_str": "00:44.240",
+      "text": "努力才能被爱慕",
+      "translation": null
+    },
+    {
+      "time": 47.88,
+      "time_str": "00:47.880",
+      "text": "但回头目睹你",
+      "translation": null
+    },
+    {
+      "time": 51.23,
+      "time_str": "00:51.230",
+      "text": "为我好自己不好",
+      "translation": null
+    },
+    {
+      "time": 54.66,
+      "time_str": "00:54.660",
+      "text": "我这幸运儿合着眼睛",
+      "translation": null
+    },
+    {
+      "time": 57.88,
+      "time_str": "00:57.880",
+      "text": "只得你沉重身影",
+      "translation": null
+    },
+    {
+      "time": 61.8,
+      "time_str": "01:01.800",
+      "text": "如果这记忆非爱情",
+      "translation": null
+    },
+    {
+      "time": 65.39,
+      "time_str": "01:05.390",
+      "text": "连天都不会太高兴",
+      "translation": null
+    },
+    {
+      "time": 68.76,
+      "time_str": "01:08.760",
+      "text": "莫非可终身美丽",
+      "translation": null
+    },
+    {
+      "time": 71.72,
+      "time_str": "01:11.720",
+      "text": "才值得勾勾手指发誓",
+      "translation": null
+    },
+    {
+      "time": 75.41,
+      "time_str": "01:15.410",
+      "text": "对你不止感激敬礼",
+      "translation": null
+    },
+    {
+      "time": 78.88,
+      "time_str": "01:18.880",
+      "text": "当你知己才是虚伪",
+      "translation": null
+    },
+    {
+      "time": 82.58,
+      "time_str": "01:22.580",
+      "text": "莫非多一分秀丽",
+      "translation": null
+    },
+    {
+      "time": 85.51,
+      "time_str": "01:25.510",
+      "text": "才值得分享我的一切",
+      "translation": null
+    },
+    {
+      "time": 89.2,
+      "time_str": "01:29.200",
+      "text": "给我自信给我地位",
+      "translation": null
+    },
+    {
+      "time": 92.71,
+      "time_str": "01:32.710",
+      "text": "这叫幸福不怕流逝",
+      "translation": null
+    },
+    {
+      "time": 96.29,
+      "time_str": "01:36.290",
+      "text": "任他们多漂亮",
+      "translation": null
+    },
+    {
+      "time": 99.35,
+      "time_str": "01:39.350",
+      "text": "未及你矜贵",
+      "translation": null
+    },
+    {
+      "time": 112.87,
+      "time_str": "01:52.870",
+      "text": "记忆无论再轻",
+      "translation": null
+    },
+    {
+      "time": 115.61,
+      "time_str": "01:55.610",
+      "text": "轻不过脉搏声",
+      "translation": null
+    },
+    {
+      "time": 119.24,
+      "time_str": "01:59.240",
+      "text": "靠你的手臂",
+      "translation": null
+    },
+    {
+      "time": 122.62,
+      "time_str": "02:02.620",
+      "text": "抱我人潮中畅泳",
+      "translation": null
+    },
+    {
+      "time": 125.64,
+      "time_str": "02:05.640",
+      "text": "我这幸运儿幸运到",
+      "translation": null
+    },
+    {
+      "time": 127.64,
+      "time_str": "02:07.640",
+      "text": "一转身找得到你",
+      "translation": null
+    },
+    {
+      "time": 130.0,
+      "time_str": "02:10.000",
+      "text": "来为我打气",
+      "translation": null
+    },
+    {
+      "time": 132.18,
+      "time_str": "02:12.180",
+      "text": "如果可抱起这爱情",
+      "translation": null
+    },
+    {
+      "time": 135.57,
+      "time_str": "02:15.570",
+      "text": "连天都会替我高兴",
+      "translation": null
+    },
+    {
+      "time": 138.71,
+      "time_str": "02:18.710",
+      "text": "莫非可终身美丽",
+      "translation": null
+    },
+    {
+      "time": 141.44,
+      "time_str": "02:21.440",
+      "text": "才值得勾勾手指发誓",
+      "translation": null
+    },
+    {
+      "time": 145.14,
+      "time_str": "02:25.140",
+      "text": "对你不止感激敬礼",
+      "translation": null
+    },
+    {
+      "time": 148.46,
+      "time_str": "02:28.460",
+      "text": "当你知己才是虚伪",
+      "translation": null
+    },
+    {
+      "time": 151.78,
+      "time_str": "02:31.780",
+      "text": "莫非多一分秀丽",
+      "translation": null
+    },
+    {
+      "time": 154.7,
+      "time_str": "02:34.700",
+      "text": "才值得分享我的一切",
+      "translation": null
+    },
+    {
+      "time": 157.89,
+      "time_str": "02:37.890",
+      "text": "给我自信给我地位",
+      "translation": null
+    },
+    {
+      "time": 161.53,
+      "time_str": "02:41.530",
+      "text": "这叫幸福不怕流逝",
+      "translation": null
+    },
+    {
+      "time": 164.89,
+      "time_str": "02:44.890",
+      "text": "任他们多漂亮",
+      "translation": null
+    },
+    {
+      "time": 167.97,
+      "time_str": "02:47.970",
+      "text": "未及你矜贵",
+      "translation": null
+    },
+    {
+      "time": 174.7,
+      "time_str": "02:54.700",
+      "text": "因有自信所以美丽",
+      "translation": null
+    },
+    {
+      "time": 178.06,
+      "time_str": "02:58.060",
+      "text": "使我自卑都放低",
+      "translation": null
+    },
+    {
+      "time": 181.44,
+      "time_str": "03:01.440",
+      "text": "在半空之中亲你",
+      "translation": null
+    },
+    {
+      "time": 186.54,
+      "time_str": "03:06.540",
+      "text": "不管身世",
+      "translation": null
+    },
+    {
+      "time": 201.14,
+      "time_str": "03:21.140",
+      "text": "音频助理 : Owen Li",
+      "translation": null
+    },
+    {
+      "time": 202.14,
+      "time_str": "03:22.140",
+      "text": "音频工程师 : 陈辉阳",
+      "translation": null
+    },
+    {
+      "time": 203.14,
+      "time_str": "03:23.140",
+      "text": "混音工程师 : K.Y.",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "终身美丽 (电影“瘦身男女”主题曲) - 郑秀文.lrc"
+}

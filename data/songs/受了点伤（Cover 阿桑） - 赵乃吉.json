@@ -1,0 +1,256 @@
+{
+  "title": "受了点伤",
+  "title_raw": "受了点伤（Cover 阿桑）",
+  "version": "Cover 阿桑",
+  "artist": "赵乃吉",
+  "group_key": "受了点伤|赵乃吉",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.87,
+      "time_str": "00:00.870",
+      "text": "受了点伤",
+      "translation": null
+    },
+    {
+      "time": 5.99,
+      "time_str": "00:05.990",
+      "text": "原唱：阿桑",
+      "translation": null
+    },
+    {
+      "time": 8.34,
+      "time_str": "00:08.340",
+      "text": "翻唱：Seammy赵乃吉",
+      "translation": null
+    },
+    {
+      "time": 26.49,
+      "time_str": "00:26.490",
+      "text": "My love 晚安",
+      "translation": null
+    },
+    {
+      "time": 30.29,
+      "time_str": "00:30.290",
+      "text": "就别再为难",
+      "translation": null
+    },
+    {
+      "time": 34.19,
+      "time_str": "00:34.190",
+      "text": "别管我会受伤",
+      "translation": null
+    },
+    {
+      "time": 40.04,
+      "time_str": "00:40.040",
+      "text": "想开 体谅 我已经习惯",
+      "translation": null
+    },
+    {
+      "time": 46.9,
+      "time_str": "00:46.900",
+      "text": "不然又能怎样",
+      "translation": null
+    },
+    {
+      "time": 52.45,
+      "time_str": "00:52.450",
+      "text": "这个城市太会说谎",
+      "translation": null
+    },
+    {
+      "time": 57.25,
+      "time_str": "00:57.250",
+      "text": "爱情只是昂贵的橱窗",
+      "translation": null
+    },
+    {
+      "time": 64.26,
+      "time_str": "01:04.260",
+      "text": "沿路华丽灿烂",
+      "translation": null
+    },
+    {
+      "time": 67.64,
+      "time_str": "01:07.640",
+      "text": "陈列甜美幻象",
+      "translation": null
+    },
+    {
+      "time": 71.41,
+      "time_str": "01:11.410",
+      "text": "谁当真谁就上当",
+      "translation": null
+    },
+    {
+      "time": 78.22,
+      "time_str": "01:18.220",
+      "text": "竟然以为你会不一样",
+      "translation": null
+    },
+    {
+      "time": 83.26,
+      "time_str": "01:23.260",
+      "text": "但凭什么你要不一样",
+      "translation": null
+    },
+    {
+      "time": 90.01,
+      "time_str": "01:30.010",
+      "text": "因为寂寞太冷",
+      "translation": null
+    },
+    {
+      "time": 93.58,
+      "time_str": "01:33.580",
+      "text": "虚构出的温暖",
+      "translation": null
+    },
+    {
+      "time": 97.27,
+      "time_str": "01:37.270",
+      "text": "没理由能撑到天亮",
+      "translation": null
+    },
+    {
+      "time": 132.83,
+      "time_str": "02:12.830",
+      "text": "前进 转弯",
+      "translation": null
+    },
+    {
+      "time": 138.84,
+      "time_str": "02:18.840",
+      "text": "我跌跌撞撞",
+      "translation": null
+    },
+    {
+      "time": 142.57,
+      "time_str": "02:22.570",
+      "text": "在这迷宫打转",
+      "translation": null
+    },
+    {
+      "time": 148.9,
+      "time_str": "02:28.900",
+      "text": "死心 失望 会比较简单",
+      "translation": null
+    },
+    {
+      "time": 155.6,
+      "time_str": "02:35.600",
+      "text": "却又心有不甘",
+      "translation": null
+    },
+    {
+      "time": 161.27,
+      "time_str": "02:41.270",
+      "text": "这个城市太会伪装",
+      "translation": null
+    },
+    {
+      "time": 166.27,
+      "time_str": "02:46.270",
+      "text": "爱情就像霓虹灯一样",
+      "translation": null
+    },
+    {
+      "time": 173.04,
+      "time_str": "02:53.040",
+      "text": "谁离开之后",
+      "translation": null
+    },
+    {
+      "time": 176.69,
+      "time_str": "02:56.690",
+      "text": "却把灯忘了关",
+      "translation": null
+    },
+    {
+      "time": 179.99,
+      "time_str": "02:59.990",
+      "text": "让梦作得太辉煌",
+      "translation": null
+    },
+    {
+      "time": 187.0,
+      "time_str": "03:07.000",
+      "text": "以为能够留你在身旁",
+      "translation": null
+    },
+    {
+      "time": 192.14,
+      "time_str": "03:12.140",
+      "text": "但是谁肯留在谁身旁",
+      "translation": null
+    },
+    {
+      "time": 200.03,
+      "time_str": "03:20.030",
+      "text": "一首情歌都比一个亲吻更长",
+      "translation": null
+    },
+    {
+      "time": 206.57,
+      "time_str": "03:26.570",
+      "text": "这就叫做好聚好散",
+      "translation": null
+    },
+    {
+      "time": 212.42,
+      "time_str": "03:32.420",
+      "text": "别说你对我感到愧疚",
+      "translation": null
+    },
+    {
+      "time": 217.22,
+      "time_str": "03:37.220",
+      "text": "别说你会永远想念我",
+      "translation": null
+    },
+    {
+      "time": 225.64,
+      "time_str": "03:45.640",
+      "text": "我很知道孤单这条路怎么走",
+      "translation": null
+    },
+    {
+      "time": 232.4,
+      "time_str": "03:52.400",
+      "text": "请你不要安慰我",
+      "translation": null
+    },
+    {
+      "time": 238.78,
+      "time_str": "03:58.780",
+      "text": "My love 晚安",
+      "translation": null
+    },
+    {
+      "time": 241.72,
+      "time_str": "04:01.720",
+      "text": "别放在心上",
+      "translation": null
+    },
+    {
+      "time": 245.43,
+      "time_str": "04:05.430",
+      "text": "我只受了点伤",
+      "translation": null
+    },
+    {
+      "time": 252.34,
+      "time_str": "04:12.340",
+      "text": "只是受了点伤",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "受了点伤（Cover 阿桑） - 赵乃吉.lrc"
+}

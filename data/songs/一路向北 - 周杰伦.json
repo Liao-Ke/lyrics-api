@@ -1,0 +1,298 @@
+{
+  "title": "一路向北",
+  "title_raw": "一路向北",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "一路向北|周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "蔡科俊"
+  },
+  "lyrics": [
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "贝斯 : 陈任佑",
+      "translation": null
+    },
+    {
+      "time": 36.993,
+      "time_str": "00:36.993",
+      "text": "后视镜里的世界",
+      "translation": null
+    },
+    {
+      "time": 44.165,
+      "time_str": "00:44.165",
+      "text": "越来越远的道别",
+      "translation": null
+    },
+    {
+      "time": 48.675,
+      "time_str": "00:48.675",
+      "text": "你转身向背",
+      "translation": null
+    },
+    {
+      "time": 51.809,
+      "time_str": "00:51.809",
+      "text": "侧脸还是很美",
+      "translation": null
+    },
+    {
+      "time": 55.371,
+      "time_str": "00:55.371",
+      "text": "我用眼光去追",
+      "translation": null
+    },
+    {
+      "time": 58.951,
+      "time_str": "00:58.951",
+      "text": "竟听见你的泪",
+      "translation": null
+    },
+    {
+      "time": 65.639,
+      "time_str": "01:05.639",
+      "text": "在车窗外面徘徊",
+      "translation": null
+    },
+    {
+      "time": 72.816,
+      "time_str": "01:12.816",
+      "text": "是我错失的机会",
+      "translation": null
+    },
+    {
+      "time": 77.293,
+      "time_str": "01:17.293",
+      "text": "你站的方位",
+      "translation": null
+    },
+    {
+      "time": 79.993,
+      "time_str": "01:19.993",
+      "text": "跟我中间隔着泪",
+      "translation": null
+    },
+    {
+      "time": 83.547,
+      "time_str": "01:23.547",
+      "text": "街景一直在后退",
+      "translation": null
+    },
+    {
+      "time": 87.171,
+      "time_str": "01:27.171",
+      "text": "你的崩溃在窗外零碎",
+      "translation": null
+    },
+    {
+      "time": 91.617,
+      "time_str": "01:31.617",
+      "text": "我一路向北",
+      "translation": null
+    },
+    {
+      "time": 94.301,
+      "time_str": "01:34.301",
+      "text": "离开有你的季节",
+      "translation": null
+    },
+    {
+      "time": 98.801,
+      "time_str": "01:38.801",
+      "text": "你说你好累",
+      "translation": null
+    },
+    {
+      "time": 101.472,
+      "time_str": "01:41.472",
+      "text": "已无法再爱上谁",
+      "translation": null
+    },
+    {
+      "time": 105.956,
+      "time_str": "01:45.956",
+      "text": "风在山路吹",
+      "translation": null
+    },
+    {
+      "time": 108.628,
+      "time_str": "01:48.628",
+      "text": "过往的画面全都是我不对",
+      "translation": null
+    },
+    {
+      "time": 114.012,
+      "time_str": "01:54.012",
+      "text": "细数惭愧 我伤你几回",
+      "translation": null
+    },
+    {
+      "time": 140.935,
+      "time_str": "02:20.935",
+      "text": "后视镜里的世界",
+      "translation": null
+    },
+    {
+      "time": 148.053,
+      "time_str": "02:28.053",
+      "text": "越来越远的道别",
+      "translation": null
+    },
+    {
+      "time": 152.564,
+      "time_str": "02:32.564",
+      "text": "你转身向背",
+      "translation": null
+    },
+    {
+      "time": 155.685,
+      "time_str": "02:35.685",
+      "text": "侧脸还是很美",
+      "translation": null
+    },
+    {
+      "time": 159.254,
+      "time_str": "02:39.254",
+      "text": "我用眼光去追",
+      "translation": null
+    },
+    {
+      "time": 162.859,
+      "time_str": "02:42.859",
+      "text": "竟听见你的泪",
+      "translation": null
+    },
+    {
+      "time": 169.545,
+      "time_str": "02:49.545",
+      "text": "在车窗外面徘徊",
+      "translation": null
+    },
+    {
+      "time": 176.706,
+      "time_str": "02:56.706",
+      "text": "是我错失的机会",
+      "translation": null
+    },
+    {
+      "time": 181.149,
+      "time_str": "03:01.149",
+      "text": "你站的方位",
+      "translation": null
+    },
+    {
+      "time": 183.864,
+      "time_str": "03:03.864",
+      "text": "跟我中间隔着泪",
+      "translation": null
+    },
+    {
+      "time": 187.385,
+      "time_str": "03:07.385",
+      "text": "街景一直在后退",
+      "translation": null
+    },
+    {
+      "time": 191.001,
+      "time_str": "03:11.001",
+      "text": "你的崩溃在窗外零碎",
+      "translation": null
+    },
+    {
+      "time": 195.48,
+      "time_str": "03:15.480",
+      "text": "我一路向北",
+      "translation": null
+    },
+    {
+      "time": 198.2,
+      "time_str": "03:18.200",
+      "text": "离开有你的季节",
+      "translation": null
+    },
+    {
+      "time": 202.654,
+      "time_str": "03:22.654",
+      "text": "你说你好累",
+      "translation": null
+    },
+    {
+      "time": 205.318,
+      "time_str": "03:25.318",
+      "text": "已无法再爱上谁",
+      "translation": null
+    },
+    {
+      "time": 209.811,
+      "time_str": "03:29.811",
+      "text": "风在山路吹",
+      "translation": null
+    },
+    {
+      "time": 212.494,
+      "time_str": "03:32.494",
+      "text": "过往的画面全都是我不对",
+      "translation": null
+    },
+    {
+      "time": 217.875,
+      "time_str": "03:37.875",
+      "text": "细数惭愧 我伤你几回",
+      "translation": null
+    },
+    {
+      "time": 224.086,
+      "time_str": "03:44.086",
+      "text": "我一路向北",
+      "translation": null
+    },
+    {
+      "time": 226.823,
+      "time_str": "03:46.823",
+      "text": "离开有你的季节",
+      "translation": null
+    },
+    {
+      "time": 231.225,
+      "time_str": "03:51.225",
+      "text": "方向盘周围",
+      "translation": null
+    },
+    {
+      "time": 233.947,
+      "time_str": "03:53.947",
+      "text": "回转着我的后悔",
+      "translation": null
+    },
+    {
+      "time": 238.479,
+      "time_str": "03:58.479",
+      "text": "我加速超越",
+      "translation": null
+    },
+    {
+      "time": 241.164,
+      "time_str": "04:01.164",
+      "text": "却甩不掉紧紧跟随的伤悲",
+      "translation": null
+    },
+    {
+      "time": 246.531,
+      "time_str": "04:06.531",
+      "text": "细数惭愧 我伤你几回",
+      "translation": null
+    },
+    {
+      "time": 253.726,
+      "time_str": "04:13.726",
+      "text": "停止狼狈 就让错纯粹",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一路向北 - 周杰伦.lrc"
+}

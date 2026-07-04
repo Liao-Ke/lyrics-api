@@ -1,0 +1,304 @@
+{
+  "title": "杀破狼",
+  "title_raw": "杀破狼",
+  "version": null,
+  "artist": "哥哥妹妹",
+  "group_key": "杀破狼|哥哥妹妹",
+  "writers": {
+    "lyricist": "陈忠义",
+    "composer": "陈忠义",
+    "arranger": "陈飞午"
+  },
+  "lyrics": [
+    {
+      "time": 27.7,
+      "time_str": "00:27.700",
+      "text": "沉睡了千年的身体",
+      "translation": null
+    },
+    {
+      "time": 30.55,
+      "time_str": "00:30.550",
+      "text": "从腐枝枯叶里苏醒",
+      "translation": null
+    },
+    {
+      "time": 33.82,
+      "time_str": "00:33.820",
+      "text": "是夜莺凄凉的叹息",
+      "translation": null
+    },
+    {
+      "time": 37.68,
+      "time_str": "00:37.680",
+      "text": "解开咒语",
+      "translation": null
+    },
+    {
+      "time": 40.73,
+      "time_str": "00:40.730",
+      "text": "遗忘的剑被谁封印",
+      "translation": null
+    },
+    {
+      "time": 44.04,
+      "time_str": "00:44.040",
+      "text": "追随着箫声和马蹄",
+      "translation": null
+    },
+    {
+      "time": 51.49,
+      "time_str": "00:51.490",
+      "text": "找到你",
+      "translation": null
+    },
+    {
+      "time": 53.55,
+      "time_str": "00:53.550",
+      "text": "最光荣的牺牲",
+      "translation": null
+    },
+    {
+      "time": 56.8,
+      "time_str": "00:56.800",
+      "text": "是武士的宿命",
+      "translation": null
+    },
+    {
+      "time": 60.97,
+      "time_str": "01:00.970",
+      "text": "挥刀的瞬间心却在哭泣",
+      "translation": null
+    },
+    {
+      "time": 67.56,
+      "time_str": "01:07.56",
+      "text": "生 是为了证明",
+      "translation": null
+    },
+    {
+      "time": 71.22,
+      "time_str": "01:11.22",
+      "text": "爱 存在的痕迹",
+      "translation": null
+    },
+    {
+      "time": 74.95,
+      "time_str": "01:14.95",
+      "text": "火 燃烧后更伟大的生命",
+      "translation": null
+    },
+    {
+      "time": 81.18,
+      "time_str": "01:21.18",
+      "text": "杀 是为了歌颂",
+      "translation": null
+    },
+    {
+      "time": 85.05,
+      "time_str": "01:25.05",
+      "text": "破灭前的壮丽",
+      "translation": null
+    },
+    {
+      "time": 88.5,
+      "time_str": "01:28.50",
+      "text": "夜 是狼深邃眼睛",
+      "translation": null
+    },
+    {
+      "time": 93.23,
+      "time_str": "01:33.23",
+      "text": "孤独等待黎明",
+      "translation": null
+    },
+    {
+      "time": 109.13,
+      "time_str": "01:49.130",
+      "text": "看不见未来和过去",
+      "translation": null
+    },
+    {
+      "time": 112.99,
+      "time_str": "01:52.990",
+      "text": "分不清生死的差异",
+      "translation": null
+    },
+    {
+      "time": 116.47,
+      "time_str": "01:56.470",
+      "text": "不带走喜悦或遗憾",
+      "translation": null
+    },
+    {
+      "time": 119.99,
+      "time_str": "01:59.990",
+      "text": "离开这里",
+      "translation": null
+    },
+    {
+      "time": 123.8,
+      "time_str": "02:03.800",
+      "text": "破晓和月牙在交替",
+      "translation": null
+    },
+    {
+      "time": 127.3,
+      "time_str": "02:07.300",
+      "text": "我穿越过几个世纪",
+      "translation": null
+    },
+    {
+      "time": 134.33,
+      "time_str": "02:14.330",
+      "text": "只为你",
+      "translation": null
+    },
+    {
+      "time": 137.1,
+      "time_str": "02:17.100",
+      "text": "樱花瓣在飘零",
+      "translation": null
+    },
+    {
+      "time": 140.0,
+      "time_str": "02:20.000",
+      "text": "这悲凉的风景",
+      "translation": null
+    },
+    {
+      "time": 143.87,
+      "time_str": "02:23.870",
+      "text": "长袖挥不去一生刀光剑影",
+      "translation": null
+    },
+    {
+      "time": 149.99,
+      "time_str": "02:29.99",
+      "text": "嘿 耶～",
+      "translation": null
+    },
+    {
+      "time": 153.1,
+      "time_str": "02:33.10",
+      "text": "生 是为了证明",
+      "translation": null
+    },
+    {
+      "time": 157.11,
+      "time_str": "02:37.11",
+      "text": "爱 存在的痕迹",
+      "translation": null
+    },
+    {
+      "time": 160.48,
+      "time_str": "02:40.48",
+      "text": "火 燃烧后更伟大的生命",
+      "translation": null
+    },
+    {
+      "time": 167.9,
+      "time_str": "02:47.90",
+      "text": "杀 是为了歌颂",
+      "translation": null
+    },
+    {
+      "time": 171.25,
+      "time_str": "02:51.25",
+      "text": "破灭前的壮丽",
+      "translation": null
+    },
+    {
+      "time": 174.63,
+      "time_str": "02:54.63",
+      "text": "夜 是狼深邃眼睛",
+      "translation": null
+    },
+    {
+      "time": 178.8,
+      "time_str": "02:58.80",
+      "text": "孤独等待黎明",
+      "translation": null
+    },
+    {
+      "time": 182.43,
+      "time_str": "03:02.430",
+      "text": "嘿 耶～",
+      "translation": null
+    },
+    {
+      "time": 207.4,
+      "time_str": "03:27.400",
+      "text": "我 是否已经注定",
+      "translation": null
+    },
+    {
+      "time": 213.29,
+      "time_str": "03:33.290",
+      "text": "这流离的宿命",
+      "translation": null
+    },
+    {
+      "time": 217.1,
+      "time_str": "03:37.100",
+      "text": "我残破的羽翼",
+      "translation": null
+    },
+    {
+      "time": 221.9,
+      "time_str": "03:41.900",
+      "text": "直到你",
+      "translation": null
+    },
+    {
+      "time": 224.09,
+      "time_str": "03:44.090",
+      "text": "是你让我找回自己",
+      "translation": null
+    },
+    {
+      "time": 229.79,
+      "time_str": "03:49.790",
+      "text": "生 是为了证明",
+      "translation": null
+    },
+    {
+      "time": 232.35,
+      "time_str": "03:52.350",
+      "text": "爱 存在的痕迹",
+      "translation": null
+    },
+    {
+      "time": 236.35,
+      "time_str": "03:56.350",
+      "text": "火 燃烧后更伟大的生命",
+      "translation": null
+    },
+    {
+      "time": 243.61,
+      "time_str": "04:03.610",
+      "text": "杀 是为了歌颂",
+      "translation": null
+    },
+    {
+      "time": 246.85,
+      "time_str": "04:06.850",
+      "text": "破灭前的壮丽",
+      "translation": null
+    },
+    {
+      "time": 250.44,
+      "time_str": "04:10.440",
+      "text": "夜 是狼深邃眼睛",
+      "translation": null
+    },
+    {
+      "time": 254.87,
+      "time_str": "04:14.870",
+      "text": "孤独等待黎明",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "杀破狼 - 哥哥妹妹.lrc"
+}

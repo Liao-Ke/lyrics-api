@@ -1,0 +1,238 @@
+{
+  "title": "一直",
+  "title_raw": "一直",
+  "version": null,
+  "artist": "王筝",
+  "group_key": "一直|王筝",
+  "writers": {
+    "lyricist": "仓雁彬/王筝",
+    "composer": "仓雁彬",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 21.62,
+      "time_str": "00:21.620",
+      "text": "我们等待过  也奢望过",
+      "translation": null
+    },
+    {
+      "time": 25.57,
+      "time_str": "00:25.570",
+      "text": "怀疑着一切没发生过",
+      "translation": null
+    },
+    {
+      "time": 29.6,
+      "time_str": "00:29.600",
+      "text": "原来寂寞都是一样的",
+      "translation": null
+    },
+    {
+      "time": 33.72,
+      "time_str": "00:33.720",
+      "text": "不管谁爱得更多",
+      "translation": null
+    },
+    {
+      "time": 37.97,
+      "time_str": "00:37.970",
+      "text": "所以沉默着  也很痛着",
+      "translation": null
+    },
+    {
+      "time": 42.45,
+      "time_str": "00:42.450",
+      "text": "靠近了又能说出什么",
+      "translation": null
+    },
+    {
+      "time": 46.47,
+      "time_str": "00:46.470",
+      "text": "想要抹去你笑的影子",
+      "translation": null
+    },
+    {
+      "time": 50.66,
+      "time_str": "00:50.660",
+      "text": "从这一刻到最后",
+      "translation": null
+    },
+    {
+      "time": 56.64,
+      "time_str": "00:56.640",
+      "text": "我一直在努力往前走",
+      "translation": null
+    },
+    {
+      "time": 60.74,
+      "time_str": "01:00.740",
+      "text": "要把一路风景都看过",
+      "translation": null
+    },
+    {
+      "time": 65.4,
+      "time_str": "01:05.400",
+      "text": "祝福能不能代替眼泪",
+      "translation": null
+    },
+    {
+      "time": 69.17,
+      "time_str": "01:09.170",
+      "text": "那幸福一直只是你的",
+      "translation": null
+    },
+    {
+      "time": 73.47,
+      "time_str": "01:13.470",
+      "text": "总该试着把风雨忘了",
+      "translation": null
+    },
+    {
+      "time": 77.37,
+      "time_str": "01:17.370",
+      "text": "爱与恨都已经舍不得",
+      "translation": null
+    },
+    {
+      "time": 82.8,
+      "time_str": "01:22.800",
+      "text": "不是朋友我们能是什么",
+      "translation": null
+    },
+    {
+      "time": 86.31,
+      "time_str": "01:26.310",
+      "text": "像陌生人相遇时一秒凝望着",
+      "translation": null
+    },
+    {
+      "time": 107.95,
+      "time_str": "01:47.950",
+      "text": "所以沉默着  也很痛着",
+      "translation": null
+    },
+    {
+      "time": 112.44,
+      "time_str": "01:52.440",
+      "text": "靠近了又能说出什么",
+      "translation": null
+    },
+    {
+      "time": 116.509,
+      "time_str": "01:56.509",
+      "text": "想要抹去你笑的影子",
+      "translation": null
+    },
+    {
+      "time": 120.78,
+      "time_str": "02:00.780",
+      "text": "从这一刻到最后",
+      "translation": null
+    },
+    {
+      "time": 126.82,
+      "time_str": "02:06.820",
+      "text": "我一直在努力往前走",
+      "translation": null
+    },
+    {
+      "time": 130.5,
+      "time_str": "02:10.500",
+      "text": "要把一路风景都看过",
+      "translation": null
+    },
+    {
+      "time": 134.8,
+      "time_str": "02:14.800",
+      "text": "祝福能不能代替眼泪",
+      "translation": null
+    },
+    {
+      "time": 139.3,
+      "time_str": "02:19.300",
+      "text": "那幸福一直只是你的",
+      "translation": null
+    },
+    {
+      "time": 143.34,
+      "time_str": "02:23.340",
+      "text": "总该试着把风雨忘了",
+      "translation": null
+    },
+    {
+      "time": 147.78,
+      "time_str": "02:27.780",
+      "text": "爱与恨都已经舍不得",
+      "translation": null
+    },
+    {
+      "time": 151.89,
+      "time_str": "02:31.890",
+      "text": "不是朋友我们能是什么",
+      "translation": null
+    },
+    {
+      "time": 156.39,
+      "time_str": "02:36.390",
+      "text": "像陌生人相遇时一秒凝望着",
+      "translation": null
+    },
+    {
+      "time": 164.92,
+      "time_str": "02:44.920",
+      "text": "我一直在努力往前走",
+      "translation": null
+    },
+    {
+      "time": 168.94,
+      "time_str": "02:48.940",
+      "text": "要把一路风景都看过",
+      "translation": null
+    },
+    {
+      "time": 173.2,
+      "time_str": "02:53.200",
+      "text": "祝福能不能代替眼泪",
+      "translation": null
+    },
+    {
+      "time": 177.31,
+      "time_str": "02:57.310",
+      "text": "那幸福一直只是你的",
+      "translation": null
+    },
+    {
+      "time": 181.45,
+      "time_str": "03:01.450",
+      "text": "总该试着把风雨忘了",
+      "translation": null
+    },
+    {
+      "time": 185.6,
+      "time_str": "03:05.600",
+      "text": "爱与恨都已经舍不得",
+      "translation": null
+    },
+    {
+      "time": 190.5,
+      "time_str": "03:10.500",
+      "text": "不是朋友我们能是什么",
+      "translation": null
+    },
+    {
+      "time": 194.5,
+      "time_str": "03:14.500",
+      "text": "像陌生人相遇时一秒凝望着",
+      "translation": null
+    },
+    {
+      "time": 207.3,
+      "time_str": "03:27.300",
+      "text": "像陌生人相遇时一秒凝望着",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一直 - 王筝.lrc"
+}

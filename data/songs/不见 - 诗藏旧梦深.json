@@ -1,0 +1,226 @@
+{
+  "title": "不见",
+  "title_raw": "不见",
+  "version": null,
+  "artist": "诗藏旧梦深",
+  "group_key": "不见|诗藏旧梦深",
+  "writers": {
+    "lyricist": "诗藏旧梦深",
+    "composer": "诗藏旧梦深",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.522,
+      "time_str": "00:04.522",
+      "text": "忘不掉你留给我的话",
+      "translation": null
+    },
+    {
+      "time": 11.562,
+      "time_str": "00:11.562",
+      "text": "在平行时空我回答",
+      "translation": null
+    },
+    {
+      "time": 16.313,
+      "time_str": "00:16.313",
+      "text": "就把过去放下",
+      "translation": null
+    },
+    {
+      "time": 20.74,
+      "time_str": "00:20.740",
+      "text": "要学会遮住伤疤",
+      "translation": null
+    },
+    {
+      "time": 25.625,
+      "time_str": "00:25.625",
+      "text": "是无声的 惩罚",
+      "translation": null
+    },
+    {
+      "time": 33.058,
+      "time_str": "00:33.058",
+      "text": "承诺最害怕不懂表达",
+      "translation": null
+    },
+    {
+      "time": 40.745,
+      "time_str": "00:40.745",
+      "text": "电话那端时钟嘀嗒",
+      "translation": null
+    },
+    {
+      "time": 46.594,
+      "time_str": "00:46.594",
+      "text": "措辞想到沙哑",
+      "translation": null
+    },
+    {
+      "time": 49.81,
+      "time_str": "00:49.810",
+      "text": "眼泪始终不听话",
+      "translation": null
+    },
+    {
+      "time": 53.93,
+      "time_str": "00:53.930",
+      "text": "我应该怎么表达",
+      "translation": null
+    },
+    {
+      "time": 61.609,
+      "time_str": "01:01.609",
+      "text": "眼泪太拥挤当眼里都是你",
+      "translation": null
+    },
+    {
+      "time": 67.866,
+      "time_str": "01:07.866",
+      "text": "却刻意轻描淡写我们的关系",
+      "translation": null
+    },
+    {
+      "time": 75.297,
+      "time_str": "01:15.297",
+      "text": "过往被旁人提起",
+      "translation": null
+    },
+    {
+      "time": 79.017,
+      "time_str": "01:19.017",
+      "text": "心里下起了暴雨",
+      "translation": null
+    },
+    {
+      "time": 83.938,
+      "time_str": "01:23.938",
+      "text": "我该学会自我疗愈",
+      "translation": null
+    },
+    {
+      "time": 90.762,
+      "time_str": "01:30.762",
+      "text": "眼泪太拥挤当眼里都是你",
+      "translation": null
+    },
+    {
+      "time": 97.05,
+      "time_str": "01:37.050",
+      "text": "当初是我太逃避爱情的难题",
+      "translation": null
+    },
+    {
+      "time": 105.322,
+      "time_str": "01:45.322",
+      "text": "还你晚到的歉意",
+      "translation": null
+    },
+    {
+      "time": 107.85,
+      "time_str": "01:47.850",
+      "text": "落得这般的境地",
+      "translation": null
+    },
+    {
+      "time": 112.905,
+      "time_str": "01:52.905",
+      "text": "最后我也只能说句 对不起",
+      "translation": null
+    },
+    {
+      "time": 138.89,
+      "time_str": "02:18.890",
+      "text": "承诺最害怕不懂表达",
+      "translation": null
+    },
+    {
+      "time": 146.194,
+      "time_str": "02:26.194",
+      "text": "电话那端时钟嘀嗒",
+      "translation": null
+    },
+    {
+      "time": 152.346,
+      "time_str": "02:32.346",
+      "text": "措辞想到沙哑",
+      "translation": null
+    },
+    {
+      "time": 155.347,
+      "time_str": "02:35.347",
+      "text": "眼泪始终不听话",
+      "translation": null
+    },
+    {
+      "time": 159.459,
+      "time_str": "02:39.459",
+      "text": "我应该怎么表达",
+      "translation": null
+    },
+    {
+      "time": 167.034,
+      "time_str": "02:47.034",
+      "text": "眼泪太拥挤当眼里都是你",
+      "translation": null
+    },
+    {
+      "time": 173.442,
+      "time_str": "02:53.442",
+      "text": "却刻意轻描淡写我们的关系",
+      "translation": null
+    },
+    {
+      "time": 180.858,
+      "time_str": "03:00.858",
+      "text": "过往被旁人提起",
+      "translation": null
+    },
+    {
+      "time": 186.267,
+      "time_str": "03:06.267",
+      "text": "心里下起了暴雨",
+      "translation": null
+    },
+    {
+      "time": 189.421,
+      "time_str": "03:09.421",
+      "text": "我该学会自我疗愈",
+      "translation": null
+    },
+    {
+      "time": 196.058,
+      "time_str": "03:16.058",
+      "text": "眼泪太拥挤当眼里都是你",
+      "translation": null
+    },
+    {
+      "time": 202.554,
+      "time_str": "03:22.554",
+      "text": "当初是我太逃避爱情的难题",
+      "translation": null
+    },
+    {
+      "time": 209.754,
+      "time_str": "03:29.754",
+      "text": "还你晚到的歉意",
+      "translation": null
+    },
+    {
+      "time": 213.418,
+      "time_str": "03:33.418",
+      "text": "落得这般的境地",
+      "translation": null
+    },
+    {
+      "time": 218.482,
+      "time_str": "03:38.482",
+      "text": "最后我也只能说句 对不起",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不见 - 诗藏旧梦深.lrc"
+}

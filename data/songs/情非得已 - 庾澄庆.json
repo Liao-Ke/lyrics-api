@@ -1,0 +1,274 @@
+{
+  "title": "情非得已",
+  "title_raw": "情非得已",
+  "version": null,
+  "artist": "庾澄庆",
+  "group_key": "情非得已|庾澄庆",
+  "writers": {
+    "lyricist": "张国祥",
+    "composer": "汤小康",
+    "arranger": "Jamie Wilson"
+  },
+  "lyrics": [
+    {
+      "time": 13.63,
+      "time_str": "00:13.630",
+      "text": "难以忘记初次见你",
+      "translation": null
+    },
+    {
+      "time": 17.47,
+      "time_str": "00:17.470",
+      "text": "一双迷人的眼睛",
+      "translation": null
+    },
+    {
+      "time": 22.45,
+      "time_str": "00:22.450",
+      "text": "在我脑海里 你的身影 挥散不去",
+      "translation": null
+    },
+    {
+      "time": 31.21,
+      "time_str": "00:31.210",
+      "text": "握你的双手感觉你的温柔",
+      "translation": null
+    },
+    {
+      "time": 35.92,
+      "time_str": "00:35.920",
+      "text": "真的有点透不过气",
+      "translation": null
+    },
+    {
+      "time": 40.63,
+      "time_str": "00:40.630",
+      "text": "你的天真我想珍惜",
+      "translation": null
+    },
+    {
+      "time": 44.84,
+      "time_str": "00:44.840",
+      "text": "看到你受委屈我会伤心",
+      "translation": null
+    },
+    {
+      "time": 51.31,
+      "time_str": "00:51.310",
+      "text": "只怕我自己会爱上你",
+      "translation": null
+    },
+    {
+      "time": 56.02,
+      "time_str": "00:56.020",
+      "text": "不敢让自己靠的太近",
+      "translation": null
+    },
+    {
+      "time": 60.45,
+      "time_str": "01:00.450",
+      "text": "怕我没什么能够给你",
+      "translation": null
+    },
+    {
+      "time": 64.95,
+      "time_str": "01:04.950",
+      "text": "爱你也需要很大的勇气",
+      "translation": null
+    },
+    {
+      "time": 69.16,
+      "time_str": "01:09.160",
+      "text": "只怕我自己会爱上你",
+      "translation": null
+    },
+    {
+      "time": 73.92,
+      "time_str": "01:13.920",
+      "text": "也许有天会情不自禁",
+      "translation": null
+    },
+    {
+      "time": 78.35,
+      "time_str": "01:18.350",
+      "text": "想念只让自己苦了自己",
+      "translation": null
+    },
+    {
+      "time": 82.85,
+      "time_str": "01:22.850",
+      "text": "爱上你是我情非得已",
+      "translation": null
+    },
+    {
+      "time": 89.42,
+      "time_str": "01:29.420",
+      "text": "难以忘记初次见你",
+      "translation": null
+    },
+    {
+      "time": 93.85,
+      "time_str": "01:33.850",
+      "text": "一双迷人的眼睛",
+      "translation": null
+    },
+    {
+      "time": 98.84,
+      "time_str": "01:38.840",
+      "text": "在我脑海里 你的身影 挥散不去",
+      "translation": null
+    },
+    {
+      "time": 107.55,
+      "time_str": "01:47.550",
+      "text": "握你的双手感觉你的温柔",
+      "translation": null
+    },
+    {
+      "time": 112.32,
+      "time_str": "01:52.320",
+      "text": "真的有点透不过气",
+      "translation": null
+    },
+    {
+      "time": 116.96,
+      "time_str": "01:56.960",
+      "text": "你的天真我想珍惜",
+      "translation": null
+    },
+    {
+      "time": 121.24,
+      "time_str": "02:01.240",
+      "text": "看到你受委屈我会伤心",
+      "translation": null
+    },
+    {
+      "time": 127.59,
+      "time_str": "02:07.590",
+      "text": "只怕我自己会爱上你",
+      "translation": null
+    },
+    {
+      "time": 132.35,
+      "time_str": "02:12.350",
+      "text": "不敢让自己靠的太近",
+      "translation": null
+    },
+    {
+      "time": 136.85,
+      "time_str": "02:16.850",
+      "text": "怕我没什么能够给你",
+      "translation": null
+    },
+    {
+      "time": 141.28,
+      "time_str": "02:21.280",
+      "text": "爱你也需要很大的勇气",
+      "translation": null
+    },
+    {
+      "time": 145.44,
+      "time_str": "02:25.440",
+      "text": "只怕我自己会爱上你",
+      "translation": null
+    },
+    {
+      "time": 150.26,
+      "time_str": "02:30.260",
+      "text": "也许有天会情不自禁",
+      "translation": null
+    },
+    {
+      "time": 154.7,
+      "time_str": "02:34.700",
+      "text": "想念只让自己苦了自己",
+      "translation": null
+    },
+    {
+      "time": 159.19,
+      "time_str": "02:39.190",
+      "text": "爱上你是我情非得已",
+      "translation": null
+    },
+    {
+      "time": 184.82,
+      "time_str": "03:04.820",
+      "text": "什么原因",
+      "translation": null
+    },
+    {
+      "time": 188.99,
+      "time_str": "03:08.990",
+      "text": "我竟然又会遇见你",
+      "translation": null
+    },
+    {
+      "time": 193.75,
+      "time_str": "03:13.750",
+      "text": "我真的真的不愿意",
+      "translation": null
+    },
+    {
+      "time": 197.88,
+      "time_str": "03:17.880",
+      "text": "就这样陷入爱的陷阱",
+      "translation": null
+    },
+    {
+      "time": 203.6,
+      "time_str": "03:23.600",
+      "text": "只怕我自己会爱上你",
+      "translation": null
+    },
+    {
+      "time": 208.36,
+      "time_str": "03:28.360",
+      "text": "不敢让自己靠的太近",
+      "translation": null
+    },
+    {
+      "time": 212.74,
+      "time_str": "03:32.740",
+      "text": "怕我没什么能够给你",
+      "translation": null
+    },
+    {
+      "time": 217.23,
+      "time_str": "03:37.230",
+      "text": "爱你也需要很大的勇气",
+      "translation": null
+    },
+    {
+      "time": 221.39,
+      "time_str": "03:41.390",
+      "text": "只怕我自己会爱上你",
+      "translation": null
+    },
+    {
+      "time": 226.22,
+      "time_str": "03:46.220",
+      "text": "也许有天会情不自禁",
+      "translation": null
+    },
+    {
+      "time": 230.66,
+      "time_str": "03:50.660",
+      "text": "想念只让自己苦了自己",
+      "translation": null
+    },
+    {
+      "time": 235.15,
+      "time_str": "03:55.150",
+      "text": "爱上你是我情非得已",
+      "translation": null
+    },
+    {
+      "time": 239.77,
+      "time_str": "03:59.770",
+      "text": "爱上你是我情非得已",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情非得已 - 庾澄庆.lrc"
+}

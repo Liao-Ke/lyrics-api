@@ -1,0 +1,418 @@
+{
+  "title": "East of Eden",
+  "title_raw": "East of Eden",
+  "version": null,
+  "artist": "Zella Day",
+  "group_key": "east of eden|zella day",
+  "writers": {
+    "lyricist": "Zella Day / Xandy Barry / Wally Gagel / Bonnie Baker",
+    "composer": "Zella Day / Xandy Barry / Wally Gagel / Bonnie Baker",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.3,
+      "time_str": "00:00.300",
+      "text": "Producer : Wax Ltd. (Wally Gagel & Xandy Barry)",
+      "translation": null
+    },
+    {
+      "time": 0.78,
+      "time_str": "00:00.780",
+      "text": "Pink toes pressed against the carpet",
+      "translation": "粉红脚趾头压住地毯"
+    },
+    {
+      "time": 4.38,
+      "time_str": "00:04.380",
+      "text": "Show your face and finish",
+      "translation": "显露你的表情"
+    },
+    {
+      "time": 6.59,
+      "time_str": "00:06.590",
+      "text": "what you started",
+      "translation": "在你开始的地方结束"
+    },
+    {
+      "time": 8.13,
+      "time_str": "00:08.130",
+      "text": "The record spins down",
+      "translation": "唱片不停播放着"
+    },
+    {
+      "time": 9.96,
+      "time_str": "00:09.960",
+      "text": "the alley late night",
+      "translation": "在深夜的小巷回荡着"
+    },
+    {
+      "time": 12.12,
+      "time_str": "00:12.120",
+      "text": "Be my friend,",
+      "translation": "做我的朋友吧"
+    },
+    {
+      "time": 13.42,
+      "time_str": "00:13.420",
+      "text": "surround me like a satellite",
+      "translation": "像一颗卫星般包围我"
+    },
+    {
+      "time": 15.67,
+      "time_str": "00:15.670",
+      "text": "Tiger on the prowl",
+      "translation": "老虎潜行徘徊"
+    },
+    {
+      "time": 18.15,
+      "time_str": "00:18.150",
+      "text": "East of Eden",
+      "translation": "伊甸之东"
+    },
+    {
+      "time": 19.61,
+      "time_str": "00:19.610",
+      "text": "Coming for you now",
+      "translation": "为你而来"
+    },
+    {
+      "time": 22.62,
+      "time_str": "00:22.620",
+      "text": "Keep me from the cages",
+      "translation": "让我逃离"
+    },
+    {
+      "time": 24.54,
+      "time_str": "00:24.540",
+      "text": "under the control",
+      "translation": "受控的牢笼"
+    },
+    {
+      "time": 26.27,
+      "time_str": "00:26.270",
+      "text": "Running in the dark",
+      "translation": "黑暗中奔跑"
+    },
+    {
+      "time": 27.87,
+      "time_str": "00:27.870",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 30.24,
+      "time_str": "00:30.240",
+      "text": "Keep me from the cages",
+      "translation": "让我逃离"
+    },
+    {
+      "time": 32.22,
+      "time_str": "00:32.220",
+      "text": "under the control",
+      "translation": "受控的牢笼"
+    },
+    {
+      "time": 34.1,
+      "time_str": "00:34.100",
+      "text": "Running in the dark",
+      "translation": "黑暗中奔跑"
+    },
+    {
+      "time": 35.91,
+      "time_str": "00:35.910",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 37.98,
+      "time_str": "00:37.980",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 41.83,
+      "time_str": "00:41.830",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 45.77,
+      "time_str": "00:45.770",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 49.48,
+      "time_str": "00:49.480",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 55.28,
+      "time_str": "00:55.280",
+      "text": "Call me wild,",
+      "translation": "唤我狂野吧"
+    },
+    {
+      "time": 56.69,
+      "time_str": "00:56.690",
+      "text": "drinking up the sunshine",
+      "translation": "阳光下痛饮"
+    },
+    {
+      "time": 58.89,
+      "time_str": "00:58.890",
+      "text": "Be my man and show me",
+      "translation": "做我的男人吧"
+    },
+    {
+      "time": 61.08,
+      "time_str": "01:01.080",
+      "text": "what it feels like",
+      "translation": "告诉我那是什么感觉"
+    },
+    {
+      "time": 62.73,
+      "time_str": "01:02.730",
+      "text": "Denim sky unbuttoned",
+      "translation": "幽暗的天空"
+    },
+    {
+      "time": 64.88,
+      "time_str": "01:04.880",
+      "text": "down the middle",
+      "translation": "从中间断开"
+    },
+    {
+      "time": 66.76,
+      "time_str": "01:06.760",
+      "text": "Spilling out little by little",
+      "translation": "一点点被撕裂"
+    },
+    {
+      "time": 70.3,
+      "time_str": "01:10.300",
+      "text": "Tiger on the prowl",
+      "translation": "老虎潜行徘徊"
+    },
+    {
+      "time": 72.74,
+      "time_str": "01:12.740",
+      "text": "East of Eden",
+      "translation": "伊甸之东"
+    },
+    {
+      "time": 74.2,
+      "time_str": "01:14.200",
+      "text": "Coming for you now",
+      "translation": "为你而来"
+    },
+    {
+      "time": 77.24,
+      "time_str": "01:17.240",
+      "text": "Keep me from the cages",
+      "translation": "让我逃离"
+    },
+    {
+      "time": 79.11,
+      "time_str": "01:19.110",
+      "text": "under the control",
+      "translation": "受控的牢笼"
+    },
+    {
+      "time": 81.0,
+      "time_str": "01:21.000",
+      "text": "Running in the dark",
+      "translation": "黑暗中奔跑"
+    },
+    {
+      "time": 82.86,
+      "time_str": "01:22.860",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 84.83,
+      "time_str": "01:24.830",
+      "text": "Keep me from the cages",
+      "translation": "让我逃离"
+    },
+    {
+      "time": 86.86,
+      "time_str": "01:26.860",
+      "text": "under the control",
+      "translation": "受控的牢笼"
+    },
+    {
+      "time": 88.72,
+      "time_str": "01:28.720",
+      "text": "Running in the dark",
+      "translation": "黑暗中奔跑"
+    },
+    {
+      "time": 90.65,
+      "time_str": "01:30.650",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 92.65,
+      "time_str": "01:32.650",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 96.6,
+      "time_str": "01:36.600",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 100.24,
+      "time_str": "01:40.240",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 104.1,
+      "time_str": "01:44.100",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 109.9,
+      "time_str": "01:49.900",
+      "text": "If I wanted to stay",
+      "translation": "如果我想留下"
+    },
+    {
+      "time": 111.97,
+      "time_str": "01:51.970",
+      "text": "You don't mind,",
+      "translation": "你并不在意"
+    },
+    {
+      "time": 113.72,
+      "time_str": "01:53.720",
+      "text": "you're a true believer",
+      "translation": "你是个真正的信徒"
+    },
+    {
+      "time": 117.46,
+      "time_str": "01:57.460",
+      "text": "Take it up with the bad man",
+      "translation": "却将信仰施予不可信的人"
+    },
+    {
+      "time": 120.07,
+      "time_str": "02:00.070",
+      "text": "Scribbling on in like a concrete fever",
+      "translation": "像是发烧般病态佝偻爬行"
+    },
+    {
+      "time": 125.36,
+      "time_str": "02:05.360",
+      "text": "If I wanted to stay",
+      "translation": "如果我想留下"
+    },
+    {
+      "time": 127.62,
+      "time_str": "02:07.620",
+      "text": "You don't mind,",
+      "translation": "你并不在意"
+    },
+    {
+      "time": 129.49,
+      "time_str": "02:09.490",
+      "text": "you're a true believer",
+      "translation": "你是个真正的信徒"
+    },
+    {
+      "time": 133.18,
+      "time_str": "02:13.180",
+      "text": "Take it up with the bad man",
+      "translation": "却将信仰施予不可信的人"
+    },
+    {
+      "time": 135.5,
+      "time_str": "02:15.500",
+      "text": "Scribbling on in like a concrete fever",
+      "translation": "像是发烧般病态涂鸦"
+    },
+    {
+      "time": 147.54,
+      "time_str": "02:27.540",
+      "text": "Keep me from the cages",
+      "translation": "让我逃离"
+    },
+    {
+      "time": 149.27,
+      "time_str": "02:29.270",
+      "text": "under the control",
+      "translation": "受控的牢笼"
+    },
+    {
+      "time": 151.15,
+      "time_str": "02:31.150",
+      "text": "Running in the dark",
+      "translation": "黑暗中奔跑"
+    },
+    {
+      "time": 152.72,
+      "time_str": "02:32.720",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 155.06,
+      "time_str": "02:35.060",
+      "text": "Keep me from the cages",
+      "translation": "让我逃离"
+    },
+    {
+      "time": 157.05,
+      "time_str": "02:37.050",
+      "text": "under the control",
+      "translation": "受控的牢笼"
+    },
+    {
+      "time": 158.99,
+      "time_str": "02:38.990",
+      "text": "Running in the dark",
+      "translation": "黑暗中奔跑"
+    },
+    {
+      "time": 160.79,
+      "time_str": "02:40.790",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 162.8,
+      "time_str": "02:42.800",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 166.76,
+      "time_str": "02:46.760",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 170.56,
+      "time_str": "02:50.560",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    },
+    {
+      "time": 174.4,
+      "time_str": "02:54.400",
+      "text": "to find East of Eden",
+      "translation": "找寻伊甸之东"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "East of Eden - Zella Day.lrc"
+}

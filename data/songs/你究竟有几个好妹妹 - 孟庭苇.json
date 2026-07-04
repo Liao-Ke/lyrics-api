@@ -1,0 +1,256 @@
+{
+  "title": "你究竟有几个好妹妹",
+  "title_raw": "你究竟有几个好妹妹",
+  "version": null,
+  "artist": "孟庭苇",
+  "group_key": "你究竟有几个好妹妹|孟庭苇",
+  "writers": {
+    "lyricist": "梁文福",
+    "composer": "梁文福",
+    "arranger": "尤景仰"
+  },
+  "lyrics": [
+    {
+      "time": 3.0,
+      "time_str": "00:03.000",
+      "text": "小提琴 : 李琪",
+      "translation": null
+    },
+    {
+      "time": 26.34,
+      "time_str": "00:26.340",
+      "text": "是否每一位你身边的女子",
+      "translation": null
+    },
+    {
+      "time": 32.87,
+      "time_str": "00:32.870",
+      "text": "最后都成为你的妹妹",
+      "translation": null
+    },
+    {
+      "time": 39.36,
+      "time_str": "00:39.360",
+      "text": "她的心碎 我的心碎",
+      "translation": null
+    },
+    {
+      "time": 45.85,
+      "time_str": "00:45.850",
+      "text": "是否都是你呀你收集的伤悲",
+      "translation": null
+    },
+    {
+      "time": 52.3,
+      "time_str": "00:52.300",
+      "text": "是否每一位快乐过的红颜",
+      "translation": null
+    },
+    {
+      "time": 58.86,
+      "time_str": "00:58.860",
+      "text": "最后都是你伤心的妹妹",
+      "translation": null
+    },
+    {
+      "time": 65.3,
+      "time_str": "01:05.300",
+      "text": "她的心醉 我的心醉",
+      "translation": null
+    },
+    {
+      "time": 71.69,
+      "time_str": "01:11.690",
+      "text": "是否都是你呀你亏欠的陶醉",
+      "translation": null
+    },
+    {
+      "time": 78.23,
+      "time_str": "01:18.230",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 84.74,
+      "time_str": "01:24.740",
+      "text": "为何每个妹妹都那么憔悴",
+      "translation": null
+    },
+    {
+      "time": 91.22,
+      "time_str": "01:31.220",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 96.84,
+      "time_str": "01:36.840",
+      "text": "Ah 为何每个妹妹都嫁给眼泪",
+      "translation": null
+    },
+    {
+      "time": 104.14,
+      "time_str": "01:44.140",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 110.63,
+      "time_str": "01:50.630",
+      "text": "为何每个妹妹都那么憔悴",
+      "translation": null
+    },
+    {
+      "time": 117.12,
+      "time_str": "01:57.120",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 122.79,
+      "time_str": "02:02.790",
+      "text": "Ah我的哥哥 你心里头爱的是谁",
+      "translation": null
+    },
+    {
+      "time": 130.05,
+      "time_str": "02:10.050",
+      "text": "猜不透 摸不着 唉",
+      "translation": null
+    },
+    {
+      "time": 134.13,
+      "time_str": "02:14.130",
+      "text": "我也只是妹妹",
+      "translation": null
+    },
+    {
+      "time": 175.48,
+      "time_str": "02:55.480",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 181.98,
+      "time_str": "03:01.980",
+      "text": "为何每个妹妹都那么憔悴",
+      "translation": null
+    },
+    {
+      "time": 188.42,
+      "time_str": "03:08.420",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 194.09,
+      "time_str": "03:14.090",
+      "text": "Ah 为何每个妹妹都嫁给眼泪",
+      "translation": null
+    },
+    {
+      "time": 201.41,
+      "time_str": "03:21.410",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 207.87,
+      "time_str": "03:27.870",
+      "text": "为何每个妹妹都那么憔悴",
+      "translation": null
+    },
+    {
+      "time": 214.35,
+      "time_str": "03:34.350",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 220.05,
+      "time_str": "03:40.050",
+      "text": "Ah 我的哥哥 你心里头爱的是谁",
+      "translation": null
+    },
+    {
+      "time": 227.33,
+      "time_str": "03:47.330",
+      "text": "猜不透 摸不着 唉",
+      "translation": null
+    },
+    {
+      "time": 231.44,
+      "time_str": "03:51.440",
+      "text": "我也只是妹妹",
+      "translation": null
+    },
+    {
+      "time": 237.1,
+      "time_str": "03:57.100",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 243.56,
+      "time_str": "04:03.560",
+      "text": "为何每个妹妹都那么憔悴",
+      "translation": null
+    },
+    {
+      "time": 250.02,
+      "time_str": "04:10.020",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 255.69,
+      "time_str": "04:15.690",
+      "text": "Ah 为何每个妹妹都嫁给眼泪",
+      "translation": null
+    },
+    {
+      "time": 262.99,
+      "time_str": "04:22.990",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 269.49,
+      "time_str": "04:29.490",
+      "text": "为何每个妹妹都那么憔悴",
+      "translation": null
+    },
+    {
+      "time": 275.96,
+      "time_str": "04:35.960",
+      "text": "你究竟有几个好妹妹",
+      "translation": null
+    },
+    {
+      "time": 281.61,
+      "time_str": "04:41.610",
+      "text": "Ah 我的哥哥 你心里头爱的是谁",
+      "translation": null
+    },
+    {
+      "time": 288.93,
+      "time_str": "04:48.930",
+      "text": "猜不透 摸不着 唉",
+      "translation": null
+    },
+    {
+      "time": 293.0,
+      "time_str": "04:53.000",
+      "text": "我也只是妹妹",
+      "translation": null
+    },
+    {
+      "time": 298.0,
+      "time_str": "04:58.000",
+      "text": "SP : 大潮音乐经纪有限公司（Admin by 北京大石音乐版权有限公司）/北京大石音乐版权有限公司",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你究竟有几个好妹妹 - 孟庭苇.lrc"
+}

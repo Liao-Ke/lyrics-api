@@ -1,0 +1,370 @@
+{
+  "title": "一个人的北京",
+  "title_raw": "一个人的北京",
+  "version": null,
+  "artist": "李昊瀚",
+  "group_key": "一个人的北京|李昊瀚",
+  "writers": {
+    "lyricist": "李昊瀚",
+    "composer": "李昊瀚",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.05,
+      "time_str": "00:03.050",
+      "text": "编  曲：姚雷",
+      "translation": null
+    },
+    {
+      "time": 4.41,
+      "time_str": "00:04.410",
+      "text": "走在没有你的夜里",
+      "translation": null
+    },
+    {
+      "time": 8.16,
+      "time_str": "00:08.160",
+      "text": "好大的北京",
+      "translation": null
+    },
+    {
+      "time": 10.33,
+      "time_str": "00:10.330",
+      "text": "我哭都没有了声音",
+      "translation": null
+    },
+    {
+      "time": 14.26,
+      "time_str": "00:14.260",
+      "text": "我坐在没有你的家里好冷清",
+      "translation": null
+    },
+    {
+      "time": 19.04,
+      "time_str": "00:19.040",
+      "text": "你走的如此的肯定",
+      "translation": null
+    },
+    {
+      "time": 23.0,
+      "time_str": "00:23.000",
+      "text": "我躺在没有你的回忆冷冰冰",
+      "translation": null
+    },
+    {
+      "time": 27.88,
+      "time_str": "00:27.880",
+      "text": "我痛都没有人伤心",
+      "translation": null
+    },
+    {
+      "time": 31.7,
+      "time_str": "00:31.700",
+      "text": "我站在没有你的窗前看孤独的风景",
+      "translation": null
+    },
+    {
+      "time": 36.27,
+      "time_str": "00:36.270",
+      "text": "很美丽却少了你",
+      "translation": null
+    },
+    {
+      "time": 45.98,
+      "time_str": "00:45.980",
+      "text": "重庆的解放碑",
+      "translation": null
+    },
+    {
+      "time": 49.71,
+      "time_str": "00:49.710",
+      "text": "你轻轻吻我的嘴",
+      "translation": null
+    },
+    {
+      "time": 54.33,
+      "time_str": "00:54.330",
+      "text": "下着雪的哈尔滨",
+      "translation": null
+    },
+    {
+      "time": 58.48,
+      "time_str": "00:58.480",
+      "text": "我们背靠着背",
+      "translation": null
+    },
+    {
+      "time": 63.38,
+      "time_str": "01:03.380",
+      "text": "繁华的大上海",
+      "translation": null
+    },
+    {
+      "time": 67.17,
+      "time_str": "01:07.170",
+      "text": "你认识了另一个男孩",
+      "translation": null
+    },
+    {
+      "time": 71.81,
+      "time_str": "01:11.810",
+      "text": "在杭州的西湖边",
+      "translation": null
+    },
+    {
+      "time": 75.62,
+      "time_str": "01:15.620",
+      "text": "我们流着泪",
+      "translation": null
+    },
+    {
+      "time": 77.18,
+      "time_str": "01:17.180",
+      "text": "say goodbye",
+      "translation": null
+    },
+    {
+      "time": 81.93,
+      "time_str": "01:21.930",
+      "text": "我走在没有你的夜里",
+      "translation": null
+    },
+    {
+      "time": 84.54,
+      "time_str": "01:24.540",
+      "text": "好大的北京",
+      "translation": null
+    },
+    {
+      "time": 86.7,
+      "time_str": "01:26.700",
+      "text": "我哭都没有了声音",
+      "translation": null
+    },
+    {
+      "time": 90.56,
+      "time_str": "01:30.560",
+      "text": "我坐在没有你的家里好冷清",
+      "translation": null
+    },
+    {
+      "time": 95.4,
+      "time_str": "01:35.400",
+      "text": "你走的如此的肯定",
+      "translation": null
+    },
+    {
+      "time": 99.25,
+      "time_str": "01:39.250",
+      "text": "我躺在没有你的回忆冷冰冰",
+      "translation": null
+    },
+    {
+      "time": 104.06,
+      "time_str": "01:44.060",
+      "text": "我痛都没有人伤心",
+      "translation": null
+    },
+    {
+      "time": 107.98,
+      "time_str": "01:47.980",
+      "text": "我站在没有你的窗前看孤独的风景",
+      "translation": null
+    },
+    {
+      "time": 112.58,
+      "time_str": "01:52.580",
+      "text": "很美丽却少了你",
+      "translation": null
+    },
+    {
+      "time": 131.24,
+      "time_str": "02:11.240",
+      "text": "布达拉宫的门前",
+      "translation": null
+    },
+    {
+      "time": 134.76,
+      "time_str": "02:14.760",
+      "text": "我们曾许下过誓言",
+      "translation": null
+    },
+    {
+      "time": 138.79,
+      "time_str": "02:18.790",
+      "text": "就算天涯海角都结成冰",
+      "translation": null
+    },
+    {
+      "time": 143.54,
+      "time_str": "02:23.540",
+      "text": "我们都不变心",
+      "translation": null
+    },
+    {
+      "time": 148.57,
+      "time_str": "02:28.570",
+      "text": "事到如今",
+      "translation": null
+    },
+    {
+      "time": 152.35,
+      "time_str": "02:32.350",
+      "text": "我一个人去了北京",
+      "translation": null
+    },
+    {
+      "time": 156.13,
+      "time_str": "02:36.130",
+      "text": "我们的故事结束写成歌曲",
+      "translation": null
+    },
+    {
+      "time": 160.69,
+      "time_str": "02:40.690",
+      "text": "唱给伤心的人们听",
+      "translation": null
+    },
+    {
+      "time": 165.75,
+      "time_str": "02:45.750",
+      "text": "走在没有你的夜里",
+      "translation": null
+    },
+    {
+      "time": 169.56,
+      "time_str": "02:49.560",
+      "text": "好大的北京",
+      "translation": null
+    },
+    {
+      "time": 171.76,
+      "time_str": "02:51.760",
+      "text": "我哭都没有了声音",
+      "translation": null
+    },
+    {
+      "time": 175.7,
+      "time_str": "02:55.700",
+      "text": "我坐在没有你的家里好冷清",
+      "translation": null
+    },
+    {
+      "time": 180.4,
+      "time_str": "03:00.400",
+      "text": "你走的如此的肯定",
+      "translation": null
+    },
+    {
+      "time": 184.3,
+      "time_str": "03:04.300",
+      "text": "我躺在没有你的回忆冷冰冰",
+      "translation": null
+    },
+    {
+      "time": 189.2,
+      "time_str": "03:09.200",
+      "text": "我痛都没有人伤心",
+      "translation": null
+    },
+    {
+      "time": 193.07,
+      "time_str": "03:13.070",
+      "text": "我站在没有你的窗前看孤独的风景",
+      "translation": null
+    },
+    {
+      "time": 197.64,
+      "time_str": "03:17.640",
+      "text": "很美丽却少了你",
+      "translation": null
+    },
+    {
+      "time": 206.23,
+      "time_str": "03:26.230",
+      "text": "我走在没有你的夜里",
+      "translation": null
+    },
+    {
+      "time": 208.96,
+      "time_str": "03:28.960",
+      "text": "好大的北京",
+      "translation": null
+    },
+    {
+      "time": 211.13,
+      "time_str": "03:31.130",
+      "text": "我哭都没有了声音",
+      "translation": null
+    },
+    {
+      "time": 215.03,
+      "time_str": "03:35.030",
+      "text": "我坐在没有你的家里好冷清",
+      "translation": null
+    },
+    {
+      "time": 219.71,
+      "time_str": "03:39.710",
+      "text": "你走的如此的肯定",
+      "translation": null
+    },
+    {
+      "time": 223.75,
+      "time_str": "03:43.750",
+      "text": "我躺在没有你的回忆冷冰冰",
+      "translation": null
+    },
+    {
+      "time": 228.6,
+      "time_str": "03:48.600",
+      "text": "我痛都没有人伤心",
+      "translation": null
+    },
+    {
+      "time": 232.25,
+      "time_str": "03:52.250",
+      "text": "我站在没有你的窗前看孤独的风景",
+      "translation": null
+    },
+    {
+      "time": 236.84,
+      "time_str": "03:56.840",
+      "text": "很美丽却少了你",
+      "translation": null
+    },
+    {
+      "time": 245.84,
+      "time_str": "04:05.840",
+      "text": "我走到哪里都没有你",
+      "translation": null
+    },
+    {
+      "time": 263.51,
+      "time_str": "04:23.510",
+      "text": "混  音：顾潇予",
+      "translation": null
+    },
+    {
+      "time": 264.29,
+      "time_str": "04:24.290",
+      "text": "和  声：陈永涛",
+      "translation": null
+    },
+    {
+      "time": 266.11,
+      "time_str": "04:26.110",
+      "text": "出品人：沙麟",
+      "translation": null
+    },
+    {
+      "time": 266.97,
+      "time_str": "04:26.970",
+      "text": "唱片/经纪公司：晓友名气文化传媒有限公司",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一个人的北京 - 李昊瀚.lrc"
+}

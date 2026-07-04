@@ -1,0 +1,280 @@
+{
+  "title": "解药",
+  "title_raw": "解药",
+  "version": null,
+  "artist": "孙兵兵",
+  "group_key": "解药|孙兵兵",
+  "writers": {
+    "lyricist": "口袋易百",
+    "composer": "颜小健/郑国锋",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.39,
+      "time_str": "00:04.390",
+      "text": "直到现在",
+      "translation": null
+    },
+    {
+      "time": 7.2,
+      "time_str": "00:07.200",
+      "text": "我才发现",
+      "translation": null
+    },
+    {
+      "time": 9.14,
+      "time_str": "00:09.140",
+      "text": "爱得太深",
+      "translation": null
+    },
+    {
+      "time": 10.63,
+      "time_str": "00:10.630",
+      "text": "需要一种解药",
+      "translation": null
+    },
+    {
+      "time": 24.37,
+      "time_str": "00:24.370",
+      "text": "行驶在城市的边缘",
+      "translation": null
+    },
+    {
+      "time": 27.94,
+      "time_str": "00:27.940",
+      "text": "故意把情绪抛很远",
+      "translation": null
+    },
+    {
+      "time": 33.92,
+      "time_str": "00:33.920",
+      "text": "电台音乐夹着眼泪",
+      "translation": null
+    },
+    {
+      "time": 37.58,
+      "time_str": "00:37.580",
+      "text": "切歌之前 假装看不见",
+      "translation": null
+    },
+    {
+      "time": 43.54,
+      "time_str": "00:43.540",
+      "text": "天鹅湖转了一个圈圈圈圈",
+      "translation": null
+    },
+    {
+      "time": 48.41,
+      "time_str": "00:48.410",
+      "text": "从起点回到了终点",
+      "translation": null
+    },
+    {
+      "time": 53.15,
+      "time_str": "00:53.150",
+      "text": "咖啡店等了一整夜夜夜夜",
+      "translation": null
+    },
+    {
+      "time": 57.95,
+      "time_str": "00:57.950",
+      "text": "你还是没有出现",
+      "translation": null
+    },
+    {
+      "time": 61.57,
+      "time_str": "01:01.570",
+      "text": "就在昨天 爱悄然离线",
+      "translation": null
+    },
+    {
+      "time": 66.41,
+      "time_str": "01:06.410",
+      "text": "等到的只是 冷却的留言",
+      "translation": null
+    },
+    {
+      "time": 71.15,
+      "time_str": "01:11.150",
+      "text": "说了道歉 也不能澄清一切",
+      "translation": null
+    },
+    {
+      "time": 75.96,
+      "time_str": "01:15.960",
+      "text": "我陷入黑色的空间",
+      "translation": null
+    },
+    {
+      "time": 80.73,
+      "time_str": "01:20.730",
+      "text": "再见雨天 爱越走越远",
+      "translation": null
+    },
+    {
+      "time": 85.53,
+      "time_str": "01:25.530",
+      "text": "解药遗失在梦破晓之间",
+      "translation": null
+    },
+    {
+      "time": 90.32,
+      "time_str": "01:30.320",
+      "text": "闭上双眼 心里还是会默念",
+      "translation": null
+    },
+    {
+      "time": 95.13,
+      "time_str": "01:35.130",
+      "text": "老地方出现 我忘返流连",
+      "translation": null
+    },
+    {
+      "time": 120.35,
+      "time_str": "02:00.350",
+      "text": "行驶在城市的边缘",
+      "translation": null
+    },
+    {
+      "time": 123.93,
+      "time_str": "02:03.930",
+      "text": "故意把情绪抛很远",
+      "translation": null
+    },
+    {
+      "time": 129.96,
+      "time_str": "02:09.960",
+      "text": "电台音乐夹着眼泪",
+      "translation": null
+    },
+    {
+      "time": 133.56,
+      "time_str": "02:13.560",
+      "text": "切歌之前 假装看不见",
+      "translation": null
+    },
+    {
+      "time": 139.52,
+      "time_str": "02:19.520",
+      "text": "天鹅湖转了一个圈圈圈圈",
+      "translation": null
+    },
+    {
+      "time": 144.38,
+      "time_str": "02:24.380",
+      "text": "从起点回到了终点",
+      "translation": null
+    },
+    {
+      "time": 149.14,
+      "time_str": "02:29.140",
+      "text": "咖啡店等了一整夜夜夜夜",
+      "translation": null
+    },
+    {
+      "time": 153.9,
+      "time_str": "02:33.900",
+      "text": "你还是没有出现",
+      "translation": null
+    },
+    {
+      "time": 157.53,
+      "time_str": "02:37.530",
+      "text": "就在昨天 爱悄然离线",
+      "translation": null
+    },
+    {
+      "time": 162.37,
+      "time_str": "02:42.370",
+      "text": "等到的只是 冷却的留言",
+      "translation": null
+    },
+    {
+      "time": 167.13,
+      "time_str": "02:47.130",
+      "text": "说了道歉 也不能澄清一切",
+      "translation": null
+    },
+    {
+      "time": 171.88,
+      "time_str": "02:51.880",
+      "text": "我陷入黑色的空间",
+      "translation": null
+    },
+    {
+      "time": 176.74,
+      "time_str": "02:56.740",
+      "text": "再见雨天 爱越走越远",
+      "translation": null
+    },
+    {
+      "time": 181.56,
+      "time_str": "03:01.560",
+      "text": "解药遗失在梦破晓之前",
+      "translation": null
+    },
+    {
+      "time": 186.38,
+      "time_str": "03:06.380",
+      "text": "闭上双眼 心里还是会默念",
+      "translation": null
+    },
+    {
+      "time": 191.08,
+      "time_str": "03:11.080",
+      "text": "老地方出现 我忘返流连",
+      "translation": null
+    },
+    {
+      "time": 195.98,
+      "time_str": "03:15.980",
+      "text": "就在昨天 爱悄然离线",
+      "translation": null
+    },
+    {
+      "time": 200.69,
+      "time_str": "03:20.690",
+      "text": "等到的只是 冷却的留言",
+      "translation": null
+    },
+    {
+      "time": 205.63,
+      "time_str": "03:25.630",
+      "text": "说了道歉 也不能澄清一切",
+      "translation": null
+    },
+    {
+      "time": 210.29,
+      "time_str": "03:30.290",
+      "text": "我陷入黑色的空间",
+      "translation": null
+    },
+    {
+      "time": 215.1,
+      "time_str": "03:35.100",
+      "text": "再见雨天 爱越走越远",
+      "translation": null
+    },
+    {
+      "time": 219.94,
+      "time_str": "03:39.940",
+      "text": "解药遗失在梦破晓之间",
+      "translation": null
+    },
+    {
+      "time": 224.71,
+      "time_str": "03:44.710",
+      "text": "闭上双眼 心里还是会默念",
+      "translation": null
+    },
+    {
+      "time": 229.53,
+      "time_str": "03:49.530",
+      "text": "老地方出现 我忘返流连",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "解药 - 孙兵兵.lrc"
+}

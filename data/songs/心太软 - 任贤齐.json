@@ -1,0 +1,376 @@
+{
+  "title": "心太软",
+  "title_raw": "心太软",
+  "version": null,
+  "artist": "任贤齐",
+  "group_key": "心太软|任贤齐",
+  "writers": {
+    "lyricist": "小虫",
+    "composer": "小虫",
+    "arranger": "Christopher Troy"
+  },
+  "lyrics": [
+    {
+      "time": 25.991,
+      "time_str": "00:25.991",
+      "text": "你总是心太软 心太软",
+      "translation": null
+    },
+    {
+      "time": 31.917,
+      "time_str": "00:31.917",
+      "text": "独自一个人流泪到天亮",
+      "translation": null
+    },
+    {
+      "time": 37.107,
+      "time_str": "00:37.107",
+      "text": "你无怨无悔的爱着那个人",
+      "translation": null
+    },
+    {
+      "time": 42.293,
+      "time_str": "00:42.293",
+      "text": "我知道你根本没那么坚强",
+      "translation": null
+    },
+    {
+      "time": 46.847,
+      "time_str": "00:46.847",
+      "text": "你总是心太软 心太软",
+      "translation": null
+    },
+    {
+      "time": 52.633,
+      "time_str": "00:52.633",
+      "text": "把所有问题都自己扛",
+      "translation": null
+    },
+    {
+      "time": 57.546,
+      "time_str": "00:57.546",
+      "text": "相爱总是简单 相处太难",
+      "translation": null
+    },
+    {
+      "time": 62.792,
+      "time_str": "01:02.792",
+      "text": "不是你的就别再勉强",
+      "translation": null
+    },
+    {
+      "time": 71.553,
+      "time_str": "01:11.553",
+      "text": "夜深了你还不想睡",
+      "translation": null
+    },
+    {
+      "time": 76.758,
+      "time_str": "01:16.758",
+      "text": "你还在想着他吗",
+      "translation": null
+    },
+    {
+      "time": 81.936,
+      "time_str": "01:21.936",
+      "text": "你这样痴情到底累不累",
+      "translation": null
+    },
+    {
+      "time": 87.132,
+      "time_str": "01:27.132",
+      "text": "明知他不会回来安慰",
+      "translation": null
+    },
+    {
+      "time": 92.357,
+      "time_str": "01:32.357",
+      "text": "只不过想好好爱一个人",
+      "translation": null
+    },
+    {
+      "time": 97.557,
+      "time_str": "01:37.557",
+      "text": "可惜他无法给你满分",
+      "translation": null
+    },
+    {
+      "time": 102.77,
+      "time_str": "01:42.770",
+      "text": "多余的牺牲 他不懂心疼",
+      "translation": null
+    },
+    {
+      "time": 107.938,
+      "time_str": "01:47.938",
+      "text": "你应该不会只想做个好人",
+      "translation": null
+    },
+    {
+      "time": 111.864,
+      "time_str": "01:51.864",
+      "text": "喔 算了吧",
+      "translation": null
+    },
+    {
+      "time": 115.045,
+      "time_str": "01:55.045",
+      "text": "就这样忘了吧 该放就放",
+      "translation": null
+    },
+    {
+      "time": 120.278,
+      "time_str": "02:00.278",
+      "text": "再想也没有用",
+      "translation": null
+    },
+    {
+      "time": 122.638,
+      "time_str": "02:02.638",
+      "text": "傻傻等待 他也不会回来",
+      "translation": null
+    },
+    {
+      "time": 128.124,
+      "time_str": "02:08.124",
+      "text": "你总该为自己想想未来",
+      "translation": null
+    },
+    {
+      "time": 132.638,
+      "time_str": "02:12.638",
+      "text": "你总是心太软 心太软",
+      "translation": null
+    },
+    {
+      "time": 138.525,
+      "time_str": "02:18.525",
+      "text": "独自一个人流泪到天亮",
+      "translation": null
+    },
+    {
+      "time": 143.743,
+      "time_str": "02:23.743",
+      "text": "你无怨无悔的爱着那个人",
+      "translation": null
+    },
+    {
+      "time": 148.923,
+      "time_str": "02:28.923",
+      "text": "我知道你根本没那么坚强",
+      "translation": null
+    },
+    {
+      "time": 153.48,
+      "time_str": "02:33.480",
+      "text": "你总是心太软 心太软",
+      "translation": null
+    },
+    {
+      "time": 159.345,
+      "time_str": "02:39.345",
+      "text": "把所有问题都自己扛",
+      "translation": null
+    },
+    {
+      "time": 164.188,
+      "time_str": "02:44.188",
+      "text": "相爱总是简单 相处太难",
+      "translation": null
+    },
+    {
+      "time": 169.433,
+      "time_str": "02:49.433",
+      "text": "不是你的就别再勉强",
+      "translation": null
+    },
+    {
+      "time": 217.191,
+      "time_str": "03:37.191",
+      "text": "夜深了你还不想睡",
+      "translation": null
+    },
+    {
+      "time": 222.395,
+      "time_str": "03:42.395",
+      "text": "你还在想着他吗",
+      "translation": null
+    },
+    {
+      "time": 227.551,
+      "time_str": "03:47.551",
+      "text": "你这样痴情到底累不累",
+      "translation": null
+    },
+    {
+      "time": 232.766,
+      "time_str": "03:52.766",
+      "text": "明知他不会回来安慰",
+      "translation": null
+    },
+    {
+      "time": 237.944,
+      "time_str": "03:57.944",
+      "text": "只不过想好好爱一个人",
+      "translation": null
+    },
+    {
+      "time": 243.175,
+      "time_str": "04:03.175",
+      "text": "可惜他无法给你满分",
+      "translation": null
+    },
+    {
+      "time": 248.406,
+      "time_str": "04:08.406",
+      "text": "多余的牺牲 他不懂心疼",
+      "translation": null
+    },
+    {
+      "time": 253.611,
+      "time_str": "04:13.611",
+      "text": "你应该不会只想做个好人",
+      "translation": null
+    },
+    {
+      "time": 257.426,
+      "time_str": "04:17.426",
+      "text": "喔 算了吧",
+      "translation": null
+    },
+    {
+      "time": 260.725,
+      "time_str": "04:20.725",
+      "text": "就这样忘了吧 该放就放",
+      "translation": null
+    },
+    {
+      "time": 265.949,
+      "time_str": "04:25.949",
+      "text": "再想也没有用",
+      "translation": null
+    },
+    {
+      "time": 268.2,
+      "time_str": "04:28.200",
+      "text": "傻傻等待 他也不会回来",
+      "translation": null
+    },
+    {
+      "time": 273.724,
+      "time_str": "04:33.724",
+      "text": "你总该为自己想想未来",
+      "translation": null
+    },
+    {
+      "time": 278.262,
+      "time_str": "04:38.262",
+      "text": "你总是心太软 心太软",
+      "translation": null
+    },
+    {
+      "time": 284.148,
+      "time_str": "04:44.148",
+      "text": "独自一个人流泪到天亮",
+      "translation": null
+    },
+    {
+      "time": 289.359,
+      "time_str": "04:49.359",
+      "text": "你无怨无悔的爱着那个人",
+      "translation": null
+    },
+    {
+      "time": 294.563,
+      "time_str": "04:54.563",
+      "text": "我知道你根本没那么坚强",
+      "translation": null
+    },
+    {
+      "time": 299.074,
+      "time_str": "04:59.074",
+      "text": "你总是心太软 心太软",
+      "translation": null
+    },
+    {
+      "time": 304.938,
+      "time_str": "05:04.938",
+      "text": "把所有问题都自己扛",
+      "translation": null
+    },
+    {
+      "time": 309.774,
+      "time_str": "05:09.774",
+      "text": "相爱总是简单 相处太难",
+      "translation": null
+    },
+    {
+      "time": 315.049,
+      "time_str": "05:15.049",
+      "text": "不是你的就别再勉强",
+      "translation": null
+    },
+    {
+      "time": 320.257,
+      "time_str": "05:20.257",
+      "text": "不是你的就别再勉强",
+      "translation": null
+    },
+    {
+      "time": 325.461,
+      "time_str": "05:25.461",
+      "text": "不是你的就别再勉强",
+      "translation": null
+    },
+    {
+      "time": 330.66,
+      "time_str": "05:30.660",
+      "text": "不是你的就别再勉强",
+      "translation": null
+    },
+    {
+      "time": 341.0,
+      "time_str": "05:41.000",
+      "text": "编曲录音室 : Our Own Studio L.A.",
+      "translation": null
+    },
+    {
+      "time": 342.0,
+      "time_str": "05:42.000",
+      "text": "录音混音工程师 : Mark Nathan",
+      "translation": null
+    },
+    {
+      "time": 343.0,
+      "time_str": "05:43.000",
+      "text": "录音混音室助理 : Aaron Lepley",
+      "translation": null
+    },
+    {
+      "time": 344.0,
+      "time_str": "05:44.000",
+      "text": "录音混音室 : Sound Castle Studio's L.A.",
+      "translation": null
+    },
+    {
+      "time": 345.0,
+      "time_str": "05:45.000",
+      "text": "混音后期处理制作人 : 小虫",
+      "translation": null
+    },
+    {
+      "time": 346.0,
+      "time_str": "05:46.000",
+      "text": "混音后期处理工程师 : Brian \"Big Bass\" Gardner",
+      "translation": null
+    },
+    {
+      "time": 347.0,
+      "time_str": "05:47.000",
+      "text": "混音后期处理录音室 : Bernie Grundman Mastering L.A.",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "心太软 - 任贤齐.lrc"
+}

@@ -1,0 +1,328 @@
+{
+  "title": "倒带",
+  "title_raw": "倒带",
+  "version": null,
+  "artist": "蔡依林",
+  "group_key": "倒带|蔡依林",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "钟佐泓"
+  },
+  "lyrics": [
+    {
+      "time": 16.218,
+      "time_str": "00:16.218",
+      "text": "我受够了等待",
+      "translation": null
+    },
+    {
+      "time": 19.809,
+      "time_str": "00:19.809",
+      "text": "你所谓的安排",
+      "translation": null
+    },
+    {
+      "time": 24.941,
+      "time_str": "00:24.941",
+      "text": "说的未来到底多久才来",
+      "translation": null
+    },
+    {
+      "time": 30.958,
+      "time_str": "00:30.958",
+      "text": "总是要来不及",
+      "translation": null
+    },
+    {
+      "time": 34.595,
+      "time_str": "00:34.595",
+      "text": "才知道我可爱",
+      "translation": null
+    },
+    {
+      "time": 39.656,
+      "time_str": "00:39.656",
+      "text": "我想依赖 而你却都不在",
+      "translation": null
+    },
+    {
+      "time": 44.774,
+      "time_str": "00:44.774",
+      "text": "应该开心的地带",
+      "translation": null
+    },
+    {
+      "time": 48.422,
+      "time_str": "00:48.422",
+      "text": "你给的全是空白",
+      "translation": null
+    },
+    {
+      "time": 52.108,
+      "time_str": "00:52.108",
+      "text": "一个人假日发呆",
+      "translation": null
+    },
+    {
+      "time": 55.335,
+      "time_str": "00:55.335",
+      "text": "找不到人陪我看海",
+      "translation": null
+    },
+    {
+      "time": 59.495,
+      "time_str": "00:59.495",
+      "text": "我在幸福的门外",
+      "translation": null
+    },
+    {
+      "time": 63.152,
+      "time_str": "01:03.152",
+      "text": "却一直都进不来",
+      "translation": null
+    },
+    {
+      "time": 66.845,
+      "time_str": "01:06.845",
+      "text": "你累积给的伤害",
+      "translation": null
+    },
+    {
+      "time": 70.022,
+      "time_str": "01:10.022",
+      "text": "我是真的很难释怀",
+      "translation": null
+    },
+    {
+      "time": 73.741,
+      "time_str": "01:13.741",
+      "text": "终于看开 爱回不来",
+      "translation": null
+    },
+    {
+      "time": 77.387,
+      "time_str": "01:17.387",
+      "text": "而你总是太晚明白",
+      "translation": null
+    },
+    {
+      "time": 81.086,
+      "time_str": "01:21.086",
+      "text": "最后才把话说开",
+      "translation": null
+    },
+    {
+      "time": 84.77,
+      "time_str": "01:24.770",
+      "text": "哭着求我留下来",
+      "translation": null
+    },
+    {
+      "time": 88.427,
+      "time_str": "01:28.427",
+      "text": "终于看开 爱回不来",
+      "translation": null
+    },
+    {
+      "time": 92.168,
+      "time_str": "01:32.168",
+      "text": "我们面前太多阻碍",
+      "translation": null
+    },
+    {
+      "time": 95.835,
+      "time_str": "01:35.835",
+      "text": "你的手却放不开",
+      "translation": null
+    },
+    {
+      "time": 99.269,
+      "time_str": "01:39.269",
+      "text": "宁愿没出息 求我别离开",
+      "translation": null
+    },
+    {
+      "time": 119.31,
+      "time_str": "01:59.310",
+      "text": "你总是要我乖",
+      "translation": null
+    },
+    {
+      "time": 122.928,
+      "time_str": "02:02.928",
+      "text": "慢慢计划将来",
+      "translation": null
+    },
+    {
+      "time": 128.025,
+      "time_str": "02:08.025",
+      "text": "我的眼泪却一直掉下来",
+      "translation": null
+    },
+    {
+      "time": 134.001,
+      "time_str": "02:14.001",
+      "text": "过去怎么交代",
+      "translation": null
+    },
+    {
+      "time": 137.657,
+      "time_str": "02:17.657",
+      "text": "你该给的信赖",
+      "translation": null
+    },
+    {
+      "time": 142.72,
+      "time_str": "02:22.720",
+      "text": "被你亲手缓缓推入悬崖",
+      "translation": null
+    },
+    {
+      "time": 147.747,
+      "time_str": "02:27.747",
+      "text": "从我脸上的苍白",
+      "translation": null
+    },
+    {
+      "time": 151.485,
+      "time_str": "02:31.485",
+      "text": "看到记忆慢下来",
+      "translation": null
+    },
+    {
+      "time": 155.122,
+      "time_str": "02:35.122",
+      "text": "过去甜蜜在倒带",
+      "translation": null
+    },
+    {
+      "time": 158.382,
+      "time_str": "02:38.382",
+      "text": "只是感觉已经不在",
+      "translation": null
+    },
+    {
+      "time": 162.538,
+      "time_str": "02:42.538",
+      "text": "而我对你的期待",
+      "translation": null
+    },
+    {
+      "time": 166.198,
+      "time_str": "02:46.198",
+      "text": "被你一次次摔坏",
+      "translation": null
+    },
+    {
+      "time": 169.888,
+      "time_str": "02:49.888",
+      "text": "已经碎成太多块",
+      "translation": null
+    },
+    {
+      "time": 173.11,
+      "time_str": "02:53.110",
+      "text": "要怎么拼凑跟重来",
+      "translation": null
+    },
+    {
+      "time": 176.769,
+      "time_str": "02:56.769",
+      "text": "终于看开 爱回不来",
+      "translation": null
+    },
+    {
+      "time": 180.5,
+      "time_str": "03:00.500",
+      "text": "而你总是太晚明白",
+      "translation": null
+    },
+    {
+      "time": 184.17,
+      "time_str": "03:04.170",
+      "text": "最后才把话说开",
+      "translation": null
+    },
+    {
+      "time": 187.865,
+      "time_str": "03:07.865",
+      "text": "哭着求我留下来",
+      "translation": null
+    },
+    {
+      "time": 191.519,
+      "time_str": "03:11.519",
+      "text": "终于看开 爱回不来",
+      "translation": null
+    },
+    {
+      "time": 195.176,
+      "time_str": "03:15.176",
+      "text": "我们面前太多阻碍",
+      "translation": null
+    },
+    {
+      "time": 198.924,
+      "time_str": "03:18.924",
+      "text": "你的手却放不开",
+      "translation": null
+    },
+    {
+      "time": 202.338,
+      "time_str": "03:22.338",
+      "text": "宁愿没出息 求我别离开",
+      "translation": null
+    },
+    {
+      "time": 209.915,
+      "time_str": "03:29.915",
+      "text": "终于看开 爱回不来",
+      "translation": null
+    },
+    {
+      "time": 213.634,
+      "time_str": "03:33.634",
+      "text": "而你总是太晚明白",
+      "translation": null
+    },
+    {
+      "time": 217.251,
+      "time_str": "03:37.251",
+      "text": "最后才把话说开",
+      "translation": null
+    },
+    {
+      "time": 220.935,
+      "time_str": "03:40.935",
+      "text": "哭着求我留下来",
+      "translation": null
+    },
+    {
+      "time": 224.659,
+      "time_str": "03:44.659",
+      "text": "终于看开 爱回不来",
+      "translation": null
+    },
+    {
+      "time": 228.348,
+      "time_str": "03:48.348",
+      "text": "我们面前太多阻碍",
+      "translation": null
+    },
+    {
+      "time": 231.988,
+      "time_str": "03:51.988",
+      "text": "你的手却放不开",
+      "translation": null
+    },
+    {
+      "time": 235.412,
+      "time_str": "03:55.412",
+      "text": "宁愿没出息 求我别离开",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "倒带 - 蔡依林.lrc"
+}

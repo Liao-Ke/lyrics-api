@@ -1,0 +1,274 @@
+{
+  "title": "钟无艳",
+  "title_raw": "钟无艳",
+  "version": null,
+  "artist": "谢安琪",
+  "group_key": "钟无艳|谢安琪",
+  "writers": {
+    "lyricist": "梁伟文",
+    "composer": "Christopher Chak",
+    "arranger": "陈珀"
+  },
+  "lyrics": [
+    {
+      "time": 21.076,
+      "time_str": "00:21.076",
+      "text": "其实我怕你 总夸奖高估我坚忍",
+      "translation": null
+    },
+    {
+      "time": 25.318,
+      "time_str": "00:25.318",
+      "text": "其实更怕你 只懂得欣赏我品行",
+      "translation": null
+    },
+    {
+      "time": 29.53,
+      "time_str": "00:29.530",
+      "text": "无人及我用字绝 重拾了你信心",
+      "translation": null
+    },
+    {
+      "time": 33.542,
+      "time_str": "00:33.542",
+      "text": "无人问我可甘心 演这伟大化身",
+      "translation": null
+    },
+    {
+      "time": 38.154,
+      "time_str": "00:38.154",
+      "text": "其实我想间中崩溃 脆弱如恋人",
+      "translation": null
+    },
+    {
+      "time": 42.392,
+      "time_str": "00:42.392",
+      "text": "垂在你两臂中 低得不需要身份",
+      "translation": null
+    },
+    {
+      "time": 46.67,
+      "time_str": "00:46.670",
+      "text": "无奈被你识穿这个念头",
+      "translation": null
+    },
+    {
+      "time": 49.601,
+      "time_str": "00:49.601",
+      "text": "得到好处的你 明示不想失去绝世好友",
+      "translation": null
+    },
+    {
+      "time": 55.313,
+      "time_str": "00:55.313",
+      "text": "没有得你的允许 我都会爱下去",
+      "translation": null
+    },
+    {
+      "time": 60.093,
+      "time_str": "01:00.093",
+      "text": "互相祝福心软之际 或者准我吻下去",
+      "translation": null
+    },
+    {
+      "time": 64.601,
+      "time_str": "01:04.601",
+      "text": "我痛恨成熟到 不要你望着我流泪",
+      "translation": null
+    },
+    {
+      "time": 68.879,
+      "time_str": "01:08.879",
+      "text": "但漂亮笑下去 仿佛冬天饮雪水",
+      "translation": null
+    },
+    {
+      "time": 72.866,
+      "time_str": "01:12.866",
+      "text": "被你一贯的赞许 却不配爱下去",
+      "translation": null
+    },
+    {
+      "time": 77.172,
+      "time_str": "01:17.172",
+      "text": "在你悲伤一刻必须解慰 找到我乐趣",
+      "translation": null
+    },
+    {
+      "time": 81.717,
+      "time_str": "01:21.717",
+      "text": "我甘于当副车 也是快乐着唏嘘",
+      "translation": null
+    },
+    {
+      "time": 86.034,
+      "time_str": "01:26.034",
+      "text": "彼此这么了解 难怪注定似兄妹 一对",
+      "translation": null
+    },
+    {
+      "time": 123.869,
+      "time_str": "02:03.869",
+      "text": "其实我怕你的好感 基于我修养",
+      "translation": null
+    },
+    {
+      "time": 128.116,
+      "time_str": "02:08.116",
+      "text": "其实最怕你的私心 窥准我体谅",
+      "translation": null
+    },
+    {
+      "time": 132.353,
+      "time_str": "02:12.353",
+      "text": "无人问我寂寞尽头 何处去养伤",
+      "translation": null
+    },
+    {
+      "time": 136.369,
+      "time_str": "02:16.369",
+      "text": "原来是我的心境高到 变为偶像",
+      "translation": null
+    },
+    {
+      "time": 140.937,
+      "time_str": "02:20.937",
+      "text": "谁情愿照耀着别人 就如月亮",
+      "translation": null
+    },
+    {
+      "time": 144.949,
+      "time_str": "02:24.949",
+      "text": "为奴婢为你备饭奉茶 是残忍真相",
+      "translation": null
+    },
+    {
+      "time": 149.476,
+      "time_str": "02:29.476",
+      "text": "无奈被你识穿这个念头",
+      "translation": null
+    },
+    {
+      "time": 152.406,
+      "time_str": "02:32.406",
+      "text": "得到好处的你 明示不想失去绝世好友",
+      "translation": null
+    },
+    {
+      "time": 158.083,
+      "time_str": "02:38.083",
+      "text": "没有得你的允许 我都会爱下去",
+      "translation": null
+    },
+    {
+      "time": 162.903,
+      "time_str": "02:42.903",
+      "text": "互相祝福心软之际 或者准我吻下去",
+      "translation": null
+    },
+    {
+      "time": 167.42,
+      "time_str": "02:47.420",
+      "text": "我痛恨成熟到 不要你望着我流泪",
+      "translation": null
+    },
+    {
+      "time": 171.713,
+      "time_str": "02:51.713",
+      "text": "但漂亮笑下去 仿佛冬天饮雪水",
+      "translation": null
+    },
+    {
+      "time": 175.751,
+      "time_str": "02:55.751",
+      "text": "被你一贯的赞许 却不配爱下去",
+      "translation": null
+    },
+    {
+      "time": 180.017,
+      "time_str": "03:00.017",
+      "text": "在你悲伤一刻必须解慰 找到我乐趣",
+      "translation": null
+    },
+    {
+      "time": 184.543,
+      "time_str": "03:04.543",
+      "text": "我甘于当副车 也是快乐着唏嘘",
+      "translation": null
+    },
+    {
+      "time": 188.882,
+      "time_str": "03:08.882",
+      "text": "彼此这么了解",
+      "translation": null
+    },
+    {
+      "time": 190.729,
+      "time_str": "03:10.729",
+      "text": "让我决定我的快乐 哪须得你的允许",
+      "translation": null
+    },
+    {
+      "time": 195.003,
+      "time_str": "03:15.003",
+      "text": "我都会爱下去",
+      "translation": null
+    },
+    {
+      "time": 197.186,
+      "time_str": "03:17.186",
+      "text": "互相祝福心软之际 或者准我吻下去",
+      "translation": null
+    },
+    {
+      "time": 201.705,
+      "time_str": "03:21.705",
+      "text": "我痛恨成熟到 不要你望着我流泪",
+      "translation": null
+    },
+    {
+      "time": 206.004,
+      "time_str": "03:26.004",
+      "text": "但漂亮笑下去 仿佛冬天饮雪水",
+      "translation": null
+    },
+    {
+      "time": 209.991,
+      "time_str": "03:29.991",
+      "text": "被你一贯的赞许 无需再说下去",
+      "translation": null
+    },
+    {
+      "time": 214.304,
+      "time_str": "03:34.304",
+      "text": "在你悲伤一刻必须解慰 找到我乐趣",
+      "translation": null
+    },
+    {
+      "time": 218.807,
+      "time_str": "03:38.807",
+      "text": "我甘于当副车 却没法撞入堡垒",
+      "translation": null
+    },
+    {
+      "time": 223.131,
+      "time_str": "03:43.131",
+      "text": "彼此这么了解 难怪注定似兄妹 一对",
+      "translation": null
+    },
+    {
+      "time": 231.672,
+      "time_str": "03:51.672",
+      "text": "你的她怎允许 结伴观赏雪的泪",
+      "translation": null
+    },
+    {
+      "time": 236.585,
+      "time_str": "03:56.585",
+      "text": "永不开封的汽水 让我抱在怀内吻下去",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "钟无艳 - 谢安琪.lrc"
+}

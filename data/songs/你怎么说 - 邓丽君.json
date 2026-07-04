@@ -1,0 +1,154 @@
+{
+  "title": "你怎么说",
+  "title_raw": "你怎么说",
+  "version": null,
+  "artist": "邓丽君",
+  "group_key": "你怎么说|邓丽君",
+  "writers": {
+    "lyricist": "Shang Guan Yue",
+    "composer": "司马亮",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 23.855,
+      "time_str": "00:23.855",
+      "text": "我没忘记你忘记我",
+      "translation": null
+    },
+    {
+      "time": 30.124,
+      "time_str": "00:30.124",
+      "text": "连名字你都说错",
+      "translation": null
+    },
+    {
+      "time": 35.898,
+      "time_str": "00:35.898",
+      "text": "证明你一切都是在骗我",
+      "translation": null
+    },
+    {
+      "time": 41.665,
+      "time_str": "00:41.665",
+      "text": "看今天你怎么说",
+      "translation": null
+    },
+    {
+      "time": 47.184,
+      "time_str": "00:47.184",
+      "text": "你说过两天来看我",
+      "translation": null
+    },
+    {
+      "time": 52.953,
+      "time_str": "00:52.953",
+      "text": "一等就是一年多",
+      "translation": null
+    },
+    {
+      "time": 57.969,
+      "time_str": "00:57.969",
+      "text": "三百六十五个日子不好过",
+      "translation": null
+    },
+    {
+      "time": 64.236,
+      "time_str": "01:04.236",
+      "text": "你心里根本没有我",
+      "translation": null
+    },
+    {
+      "time": 70.755,
+      "time_str": "01:10.755",
+      "text": "把我的爱情还给我",
+      "translation": null
+    },
+    {
+      "time": 87.557,
+      "time_str": "01:27.557",
+      "text": "我没忘记你忘记我",
+      "translation": null
+    },
+    {
+      "time": 93.577,
+      "time_str": "01:33.577",
+      "text": "连名字你都说错",
+      "translation": null
+    },
+    {
+      "time": 99.598,
+      "time_str": "01:39.598",
+      "text": "证明你一切都是在骗我",
+      "translation": null
+    },
+    {
+      "time": 105.38,
+      "time_str": "01:45.380",
+      "text": "看今天你怎么说",
+      "translation": null
+    },
+    {
+      "time": 110.899,
+      "time_str": "01:50.899",
+      "text": "你说过两天来看我",
+      "translation": null
+    },
+    {
+      "time": 116.416,
+      "time_str": "01:56.416",
+      "text": "一等就是一年多",
+      "translation": null
+    },
+    {
+      "time": 121.43,
+      "time_str": "02:01.430",
+      "text": "三百六十五个日子不好过",
+      "translation": null
+    },
+    {
+      "time": 127.949,
+      "time_str": "02:07.949",
+      "text": "你心里根本没有我",
+      "translation": null
+    },
+    {
+      "time": 134.228,
+      "time_str": "02:14.228",
+      "text": "把我的爱情还给我",
+      "translation": null
+    },
+    {
+      "time": 163.057,
+      "time_str": "02:43.057",
+      "text": "你说过两天来看我",
+      "translation": null
+    },
+    {
+      "time": 168.823,
+      "time_str": "02:48.823",
+      "text": "一等就是一年多",
+      "translation": null
+    },
+    {
+      "time": 173.837,
+      "time_str": "02:53.837",
+      "text": "三百六十五个日子不好过",
+      "translation": null
+    },
+    {
+      "time": 180.357,
+      "time_str": "03:00.357",
+      "text": "你心里根本没有我",
+      "translation": null
+    },
+    {
+      "time": 186.622,
+      "time_str": "03:06.622",
+      "text": "把我的爱情还给我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你怎么说 - 邓丽君.lrc"
+}

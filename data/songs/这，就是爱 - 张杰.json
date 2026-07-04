@@ -1,0 +1,280 @@
+{
+  "title": "这，就是爱",
+  "title_raw": "这，就是爱",
+  "version": null,
+  "artist": "张杰",
+  "group_key": "这，就是爱|张杰",
+  "writers": {
+    "lyricist": "易家扬",
+    "composer": "曲世聪/文一丁",
+    "arranger": "曲世聪/宋涛"
+  },
+  "lyrics": [
+    {
+      "time": 28.08,
+      "time_str": "00:28.080",
+      "text": "可能回忆掉进了大海",
+      "translation": null
+    },
+    {
+      "time": 31.62,
+      "time_str": "00:31.620",
+      "text": "可能有些往事回不来",
+      "translation": null
+    },
+    {
+      "time": 35.13,
+      "time_str": "00:35.130",
+      "text": "可能岁月会偷走等待",
+      "translation": null
+    },
+    {
+      "time": 38.31,
+      "time_str": "00:38.310",
+      "text": "爱了很久也许会分开",
+      "translation": null
+    },
+    {
+      "time": 42.21,
+      "time_str": "00:42.210",
+      "text": "我们一同喜欢着现在",
+      "translation": null
+    },
+    {
+      "time": 45.72,
+      "time_str": "00:45.720",
+      "text": "我们曾经被别人取代",
+      "translation": null
+    },
+    {
+      "time": 49.2,
+      "time_str": "00:49.200",
+      "text": "我们都有类似的遗憾",
+      "translation": null
+    },
+    {
+      "time": 52.35,
+      "time_str": "00:52.350",
+      "text": "所以一起漂流在人海",
+      "translation": null
+    },
+    {
+      "time": 55.86,
+      "time_str": "00:55.860",
+      "text": "挥不去的阴霾",
+      "translation": null
+    },
+    {
+      "time": 59.4,
+      "time_str": "00:59.400",
+      "text": "让我为你掩埋",
+      "translation": null
+    },
+    {
+      "time": 63.42,
+      "time_str": "01:03.420",
+      "text": "哭了一晚的你的样子",
+      "translation": null
+    },
+    {
+      "time": 66.9,
+      "time_str": "01:06.900",
+      "text": "从此都种在我的脑海",
+      "translation": null
+    },
+    {
+      "time": 70.049,
+      "time_str": "01:10.049",
+      "text": "月亮下的对白",
+      "translation": null
+    },
+    {
+      "time": 73.59,
+      "time_str": "01:13.590",
+      "text": "单纯得像小孩",
+      "translation": null
+    },
+    {
+      "time": 77.489,
+      "time_str": "01:17.489",
+      "text": "你有好几次问我那是什么",
+      "translation": null
+    },
+    {
+      "time": 81.84,
+      "time_str": "01:21.840",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 88.92,
+      "time_str": "01:28.920",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 96.0,
+      "time_str": "01:36.000",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 103.08,
+      "time_str": "01:43.080",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 110.099,
+      "time_str": "01:50.099",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 141.12,
+      "time_str": "02:21.120",
+      "text": "以为得到时间的青睐",
+      "translation": null
+    },
+    {
+      "time": 144.599,
+      "time_str": "02:24.599",
+      "text": "以为旅途没有了意外",
+      "translation": null
+    },
+    {
+      "time": 148.11,
+      "time_str": "02:28.110",
+      "text": "以为每天都会说晚安",
+      "translation": null
+    },
+    {
+      "time": 151.199,
+      "time_str": "02:31.199",
+      "text": "但是有你就没有不安",
+      "translation": null
+    },
+    {
+      "time": 155.25,
+      "time_str": "02:35.250",
+      "text": "因为想念比谁都厉害",
+      "translation": null
+    },
+    {
+      "time": 158.699,
+      "time_str": "02:38.699",
+      "text": "因为寂寞会趁虚而来",
+      "translation": null
+    },
+    {
+      "time": 162.24,
+      "time_str": "02:42.240",
+      "text": "因为爱的晴天和阴天",
+      "translation": null
+    },
+    {
+      "time": 165.3,
+      "time_str": "02:45.300",
+      "text": "都在心里同时地存在",
+      "translation": null
+    },
+    {
+      "time": 168.78,
+      "time_str": "02:48.780",
+      "text": "挥不去的阴霾",
+      "translation": null
+    },
+    {
+      "time": 172.289,
+      "time_str": "02:52.289",
+      "text": "让我为你掩埋",
+      "translation": null
+    },
+    {
+      "time": 176.28,
+      "time_str": "02:56.280",
+      "text": "哭了一晚的你的样子",
+      "translation": null
+    },
+    {
+      "time": 179.849,
+      "time_str": "02:59.849",
+      "text": "从此都种在我的脑海",
+      "translation": null
+    },
+    {
+      "time": 183.0,
+      "time_str": "03:03.000",
+      "text": "月亮下的对白",
+      "translation": null
+    },
+    {
+      "time": 186.509,
+      "time_str": "03:06.509",
+      "text": "单纯得像小孩",
+      "translation": null
+    },
+    {
+      "time": 190.439,
+      "time_str": "03:10.439",
+      "text": "你有好几次问我那是什么",
+      "translation": null
+    },
+    {
+      "time": 194.789,
+      "time_str": "03:14.789",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 201.87,
+      "time_str": "03:21.870",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 208.919,
+      "time_str": "03:28.919",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 215.97,
+      "time_str": "03:35.970",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 223.02,
+      "time_str": "03:43.020",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 230.099,
+      "time_str": "03:50.099",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 237.18,
+      "time_str": "03:57.180",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 244.229,
+      "time_str": "04:04.229",
+      "text": "这就是爱",
+      "translation": null
+    },
+    {
+      "time": 251.28,
+      "time_str": "04:11.280",
+      "text": "这就是爱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "这，就是爱 - 张杰.lrc"
+}

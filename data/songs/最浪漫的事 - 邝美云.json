@@ -1,0 +1,256 @@
+{
+  "title": "最浪漫的事",
+  "title_raw": "最浪漫的事",
+  "version": null,
+  "artist": "邝美云",
+  "group_key": "最浪漫的事|邝美云",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "李正帆",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.29,
+      "time_str": "00:18.290",
+      "text": "背靠着背 坐在地毯上",
+      "translation": null
+    },
+    {
+      "time": 22.99,
+      "time_str": "00:22.990",
+      "text": "听听音乐 聊聊愿望",
+      "translation": null
+    },
+    {
+      "time": 26.61,
+      "time_str": "00:26.610",
+      "text": "你希望我越来越温柔",
+      "translation": null
+    },
+    {
+      "time": 30.599,
+      "time_str": "00:30.599",
+      "text": "我希望你放我在心上",
+      "translation": null
+    },
+    {
+      "time": 36.58,
+      "time_str": "00:36.580",
+      "text": "你说想送我个浪漫的梦想",
+      "translation": null
+    },
+    {
+      "time": 40.53,
+      "time_str": "00:40.530",
+      "text": "谢谢我带你找到天堂",
+      "translation": null
+    },
+    {
+      "time": 45.04,
+      "time_str": "00:45.040",
+      "text": "哪怕用一辈子才能完成",
+      "translation": null
+    },
+    {
+      "time": 49.22,
+      "time_str": "00:49.220",
+      "text": "只要我讲你就记住不忘",
+      "translation": null
+    },
+    {
+      "time": 55.58,
+      "time_str": "00:55.580",
+      "text": "我能想到最浪漫的事",
+      "translation": null
+    },
+    {
+      "time": 59.37,
+      "time_str": "00:59.370",
+      "text": "就是和你一起慢慢变老",
+      "translation": null
+    },
+    {
+      "time": 63.89,
+      "time_str": "01:03.890",
+      "text": "一路上收藏点点滴滴的欢笑",
+      "translation": null
+    },
+    {
+      "time": 67.67,
+      "time_str": "01:07.670",
+      "text": "留到以后 坐着摇椅 慢慢聊",
+      "translation": null
+    },
+    {
+      "time": 72.25,
+      "time_str": "01:12.250",
+      "text": "我能想到最浪漫的事",
+      "translation": null
+    },
+    {
+      "time": 77.2,
+      "time_str": "01:17.200",
+      "text": "就是和你一起慢慢变老",
+      "translation": null
+    },
+    {
+      "time": 80.86,
+      "time_str": "01:20.860",
+      "text": "直到我们老的哪儿也去不了",
+      "translation": null
+    },
+    {
+      "time": 84.98,
+      "time_str": "01:24.980",
+      "text": "你还依然 把我当成 手心里的宝",
+      "translation": null
+    },
+    {
+      "time": 126.25,
+      "time_str": "02:06.250",
+      "text": "背靠着背 坐在地毯上",
+      "translation": null
+    },
+    {
+      "time": 131.28,
+      "time_str": "02:11.280",
+      "text": "听听音乐 聊聊愿望",
+      "translation": null
+    },
+    {
+      "time": 135.189,
+      "time_str": "02:15.189",
+      "text": "你希望我越来越温柔",
+      "translation": null
+    },
+    {
+      "time": 138.898,
+      "time_str": "02:18.898",
+      "text": "我希望你放我在心上",
+      "translation": null
+    },
+    {
+      "time": 144.219,
+      "time_str": "02:24.219",
+      "text": "你说想送我个浪漫的梦想",
+      "translation": null
+    },
+    {
+      "time": 149.889,
+      "time_str": "02:29.889",
+      "text": "谢谢我带你找到天堂",
+      "translation": null
+    },
+    {
+      "time": 154.49,
+      "time_str": "02:34.490",
+      "text": "哪怕用一辈子才能完成",
+      "translation": null
+    },
+    {
+      "time": 157.309,
+      "time_str": "02:37.309",
+      "text": "只要我讲你就记住不忘",
+      "translation": null
+    },
+    {
+      "time": 164.38,
+      "time_str": "02:44.380",
+      "text": "我能想到最浪漫的事",
+      "translation": null
+    },
+    {
+      "time": 168.199,
+      "time_str": "02:48.199",
+      "text": "就是和你一起慢慢变老",
+      "translation": null
+    },
+    {
+      "time": 172.398,
+      "time_str": "02:52.398",
+      "text": "一路上收藏点点滴滴的欢笑",
+      "translation": null
+    },
+    {
+      "time": 176.498,
+      "time_str": "02:56.498",
+      "text": "留到以后 坐着摇椅 慢慢聊",
+      "translation": null
+    },
+    {
+      "time": 181.259,
+      "time_str": "03:01.259",
+      "text": "我能想到最浪漫的事",
+      "translation": null
+    },
+    {
+      "time": 186.379,
+      "time_str": "03:06.379",
+      "text": "就是和你一起慢慢变老",
+      "translation": null
+    },
+    {
+      "time": 190.68,
+      "time_str": "03:10.680",
+      "text": "直到我们老的哪儿也去不了",
+      "translation": null
+    },
+    {
+      "time": 194.798,
+      "time_str": "03:14.798",
+      "text": "你还依然 把我当成 手心里的宝",
+      "translation": null
+    },
+    {
+      "time": 203.09,
+      "time_str": "03:23.090",
+      "text": "我能想到最浪漫的事",
+      "translation": null
+    },
+    {
+      "time": 206.748,
+      "time_str": "03:26.748",
+      "text": "就是和你一起慢慢变老",
+      "translation": null
+    },
+    {
+      "time": 210.898,
+      "time_str": "03:30.898",
+      "text": "一路上收藏点点滴滴的欢笑",
+      "translation": null
+    },
+    {
+      "time": 215.489,
+      "time_str": "03:35.489",
+      "text": "留到以后 坐着摇椅 慢慢聊",
+      "translation": null
+    },
+    {
+      "time": 220.088,
+      "time_str": "03:40.088",
+      "text": "我能想到最浪漫的事",
+      "translation": null
+    },
+    {
+      "time": 223.909,
+      "time_str": "03:43.909",
+      "text": "就是和你一起慢慢变老",
+      "translation": null
+    },
+    {
+      "time": 228.058,
+      "time_str": "03:48.058",
+      "text": "直到我们老的哪儿也去不了",
+      "translation": null
+    },
+    {
+      "time": 232.459,
+      "time_str": "03:52.459",
+      "text": "你还依然 把我当成 手心里的宝",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "最浪漫的事 - 邝美云.lrc"
+}

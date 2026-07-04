@@ -1,0 +1,346 @@
+{
+  "title": "从前说",
+  "title_raw": "从前说 (DJ阿卓版伴奏)",
+  "version": "DJ阿卓版伴奏",
+  "artist": "小阿七",
+  "group_key": "从前说|小阿七",
+  "writers": {
+    "lyricist": "刘通",
+    "composer": "刘通",
+    "arranger": "筱明"
+  },
+  "lyrics": [
+    {
+      "time": 23.48,
+      "time_str": "00:23.480",
+      "text": "还记得 妈妈说",
+      "translation": null
+    },
+    {
+      "time": 25.72,
+      "time_str": "00:25.720",
+      "text": "陪一个男孩子长大要用",
+      "translation": null
+    },
+    {
+      "time": 28.68,
+      "time_str": "00:28.680",
+      "text": "青春来做赌注",
+      "translation": null
+    },
+    {
+      "time": 31.78,
+      "time_str": "00:31.780",
+      "text": "我要听着亲戚们的闲话",
+      "translation": null
+    },
+    {
+      "time": 35.91,
+      "time_str": "00:35.910",
+      "text": "等你为我送来一束鲜花",
+      "translation": null
+    },
+    {
+      "time": 39.97,
+      "time_str": "00:39.970",
+      "text": "到后来 我们俩",
+      "translation": null
+    },
+    {
+      "time": 42.2,
+      "time_str": "00:42.200",
+      "text": "连一句不咸不淡的问候",
+      "translation": null
+    },
+    {
+      "time": 45.24,
+      "time_str": "00:45.240",
+      "text": "终于也没有了",
+      "translation": null
+    },
+    {
+      "time": 48.29,
+      "time_str": "00:48.290",
+      "text": "我为你把所有人都推开",
+      "translation": null
+    },
+    {
+      "time": 52.42,
+      "time_str": "00:52.420",
+      "text": "只为了那不确定的未来",
+      "translation": null
+    },
+    {
+      "time": 56.44,
+      "time_str": "00:56.440",
+      "text": "先生的一句喜欢",
+      "translation": null
+    },
+    {
+      "time": 59.69,
+      "time_str": "00:59.690",
+      "text": "三言两语我就投降",
+      "translation": null
+    },
+    {
+      "time": 64.63,
+      "time_str": "01:04.630",
+      "text": "后来我身边有他 身后有家",
+      "translation": null
+    },
+    {
+      "time": 67.48,
+      "time_str": "01:07.480",
+      "text": "但我只想问你一句 你 爱过吗",
+      "translation": null
+    },
+    {
+      "time": 74.45,
+      "time_str": "01:14.450",
+      "text": "从前对妈妈说谎",
+      "translation": null
+    },
+    {
+      "time": 76.53,
+      "time_str": "01:16.530",
+      "text": "翻山越岭只为能与你拥抱一场",
+      "translation": null
+    },
+    {
+      "time": 79.94,
+      "time_str": "01:19.940",
+      "text": "幻想 披上红妆",
+      "translation": null
+    },
+    {
+      "time": 83.5,
+      "time_str": "01:23.500",
+      "text": "后来你娶了理想",
+      "translation": null
+    },
+    {
+      "time": 85.85,
+      "time_str": "01:25.850",
+      "text": "我嫁给了户对门当",
+      "translation": null
+    },
+    {
+      "time": 88.22,
+      "time_str": "01:28.220",
+      "text": "爱与不爱又何妨",
+      "translation": null
+    },
+    {
+      "time": 91.08,
+      "time_str": "01:31.080",
+      "text": "从前说无惧山海",
+      "translation": null
+    },
+    {
+      "time": 93.14,
+      "time_str": "01:33.140",
+      "text": "用九百九十九张车票换有你的",
+      "translation": null
+    },
+    {
+      "time": 96.51,
+      "time_str": "01:36.510",
+      "text": "未来 只要你在",
+      "translation": null
+    },
+    {
+      "time": 100.07,
+      "time_str": "01:40.070",
+      "text": "后来你把我归还人海",
+      "translation": null
+    },
+    {
+      "time": 104.15,
+      "time_str": "01:44.150",
+      "text": "哭着说欠我的未来 下辈子再爱",
+      "translation": null
+    },
+    {
+      "time": 127.14,
+      "time_str": "02:07.140",
+      "text": "先生的一句喜欢",
+      "translation": null
+    },
+    {
+      "time": 129.92,
+      "time_str": "02:09.920",
+      "text": "三言两语我就投降",
+      "translation": null
+    },
+    {
+      "time": 134.96,
+      "time_str": "02:14.960",
+      "text": "后来我身边有他 身后有家",
+      "translation": null
+    },
+    {
+      "time": 137.76,
+      "time_str": "02:17.760",
+      "text": "但我只想问你一句 你 爱过吗",
+      "translation": null
+    },
+    {
+      "time": 144.74,
+      "time_str": "02:24.740",
+      "text": "从前对妈妈说谎",
+      "translation": null
+    },
+    {
+      "time": 146.78,
+      "time_str": "02:26.780",
+      "text": "翻山越岭只为能与你拥抱一场",
+      "translation": null
+    },
+    {
+      "time": 150.31,
+      "time_str": "02:30.310",
+      "text": "幻想 披上红妆",
+      "translation": null
+    },
+    {
+      "time": 153.8,
+      "time_str": "02:33.800",
+      "text": "后来你娶了理想",
+      "translation": null
+    },
+    {
+      "time": 156.22,
+      "time_str": "02:36.220",
+      "text": "我嫁给了户对门当",
+      "translation": null
+    },
+    {
+      "time": 158.56,
+      "time_str": "02:38.560",
+      "text": "爱与不爱又何妨",
+      "translation": null
+    },
+    {
+      "time": 161.37,
+      "time_str": "02:41.370",
+      "text": "从前说无惧山海",
+      "translation": null
+    },
+    {
+      "time": 163.38,
+      "time_str": "02:43.380",
+      "text": "用九百九十九张车票换有你的",
+      "translation": null
+    },
+    {
+      "time": 166.77,
+      "time_str": "02:46.770",
+      "text": "未来 只要你在",
+      "translation": null
+    },
+    {
+      "time": 170.39,
+      "time_str": "02:50.390",
+      "text": "后来你把我归还人海",
+      "translation": null
+    },
+    {
+      "time": 174.49,
+      "time_str": "02:54.490",
+      "text": "哭着说欠我的未来 下辈子再爱",
+      "translation": null
+    },
+    {
+      "time": 185.64,
+      "time_str": "03:05.640",
+      "text": "没后悔爱过你",
+      "translation": null
+    },
+    {
+      "time": 187.76,
+      "time_str": "03:07.760",
+      "text": "就算没在一起",
+      "translation": null
+    },
+    {
+      "time": 189.85,
+      "time_str": "03:09.850",
+      "text": "没说出 我愿意",
+      "translation": null
+    },
+    {
+      "time": 193.07,
+      "time_str": "03:13.070",
+      "text": "没关系 没给我个家我不怪你",
+      "translation": null
+    },
+    {
+      "time": 200.55,
+      "time_str": "03:20.550",
+      "text": "从前对妈妈说谎",
+      "translation": null
+    },
+    {
+      "time": 202.7,
+      "time_str": "03:22.700",
+      "text": "翻山越岭只为能与你拥抱一场",
+      "translation": null
+    },
+    {
+      "time": 206.09,
+      "time_str": "03:26.090",
+      "text": "幻想 披上红妆",
+      "translation": null
+    },
+    {
+      "time": 209.65,
+      "time_str": "03:29.650",
+      "text": "后来你娶了理想",
+      "translation": null
+    },
+    {
+      "time": 212.03,
+      "time_str": "03:32.030",
+      "text": "我嫁给了户对门当",
+      "translation": null
+    },
+    {
+      "time": 214.37,
+      "time_str": "03:34.370",
+      "text": "爱与不爱又何妨",
+      "translation": null
+    },
+    {
+      "time": 217.18,
+      "time_str": "03:37.180",
+      "text": "从前说无惧山海",
+      "translation": null
+    },
+    {
+      "time": 219.29,
+      "time_str": "03:39.290",
+      "text": "用九百九十九张车票换有你的",
+      "translation": null
+    },
+    {
+      "time": 222.62,
+      "time_str": "03:42.620",
+      "text": "未来 只要你在",
+      "translation": null
+    },
+    {
+      "time": 226.18,
+      "time_str": "03:46.180",
+      "text": "后来你把我归还人海",
+      "translation": null
+    },
+    {
+      "time": 230.24,
+      "time_str": "03:50.240",
+      "text": "哭着说欠我的未来 下辈子再爱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "从前说 (DJ阿卓版伴奏) - 小阿七.lrc"
+}

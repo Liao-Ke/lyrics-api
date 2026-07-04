@@ -1,0 +1,286 @@
+{
+  "title": "特别的爱给特别的你",
+  "title_raw": "特别的爱给特别的你",
+  "version": null,
+  "artist": "伍思凯",
+  "group_key": "特别的爱给特别的你|伍思凯",
+  "writers": {
+    "lyricist": "陈家丽",
+    "composer": "伍思凯",
+    "arranger": "伍思凯"
+  },
+  "lyrics": [
+    {
+      "time": 12.19,
+      "time_str": "00:12.190",
+      "text": "没有承诺",
+      "translation": null
+    },
+    {
+      "time": 15.995,
+      "time_str": "00:15.995",
+      "text": "却被你抓得更紧",
+      "translation": null
+    },
+    {
+      "time": 21.586,
+      "time_str": "00:21.586",
+      "text": "没有了你",
+      "translation": null
+    },
+    {
+      "time": 25.388,
+      "time_str": "00:25.388",
+      "text": "我的世界 雨下个不停",
+      "translation": null
+    },
+    {
+      "time": 31.612,
+      "time_str": "00:31.612",
+      "text": "我付出一生的时间",
+      "translation": null
+    },
+    {
+      "time": 35.065,
+      "time_str": "00:35.065",
+      "text": "想要忘记你",
+      "translation": null
+    },
+    {
+      "time": 39.746,
+      "time_str": "00:39.746",
+      "text": "但是回忆 回忆 回忆",
+      "translation": null
+    },
+    {
+      "time": 44.458,
+      "time_str": "00:44.458",
+      "text": "从我心里跳出来 拥抱你",
+      "translation": null
+    },
+    {
+      "time": 54.556,
+      "time_str": "00:54.556",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 58.677,
+      "time_str": "00:58.677",
+      "text": "我的寂寞逃不过你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 63.958,
+      "time_str": "01:03.958",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 67.759,
+      "time_str": "01:07.759",
+      "text": "你让我越来越不相信自己",
+      "translation": null
+    },
+    {
+      "time": 94.558,
+      "time_str": "01:34.558",
+      "text": "没有承诺",
+      "translation": null
+    },
+    {
+      "time": 98.41,
+      "time_str": "01:38.410",
+      "text": "却被你抓得更紧",
+      "translation": null
+    },
+    {
+      "time": 104.017,
+      "time_str": "01:44.017",
+      "text": "没有了你",
+      "translation": null
+    },
+    {
+      "time": 107.786,
+      "time_str": "01:47.786",
+      "text": "我的世界 雨下个不停",
+      "translation": null
+    },
+    {
+      "time": 113.986,
+      "time_str": "01:53.986",
+      "text": "我付出一生的时间",
+      "translation": null
+    },
+    {
+      "time": 117.527,
+      "time_str": "01:57.527",
+      "text": "想要忘记你",
+      "translation": null
+    },
+    {
+      "time": 122.236,
+      "time_str": "02:02.236",
+      "text": "但是回忆 回忆 回忆",
+      "translation": null
+    },
+    {
+      "time": 126.908,
+      "time_str": "02:06.908",
+      "text": "从我心里跳出来 拥抱你",
+      "translation": null
+    },
+    {
+      "time": 136.973,
+      "time_str": "02:16.973",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 141.061,
+      "time_str": "02:21.061",
+      "text": "我的寂寞逃不过你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 146.339,
+      "time_str": "02:26.339",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 150.206,
+      "time_str": "02:30.206",
+      "text": "你让我越来越不相信自己",
+      "translation": null
+    },
+    {
+      "time": 155.764,
+      "time_str": "02:35.764",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 159.934,
+      "time_str": "02:39.934",
+      "text": "我的寂寞逃不过你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 165.17,
+      "time_str": "02:45.170",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 168.975,
+      "time_str": "02:48.975",
+      "text": "你让我越来越不相信自己",
+      "translation": null
+    },
+    {
+      "time": 177.555,
+      "time_str": "02:57.555",
+      "text": "我还听见 你的声音",
+      "translation": null
+    },
+    {
+      "time": 183.13,
+      "time_str": "03:03.130",
+      "text": "轻轻萦绕着我的心",
+      "translation": null
+    },
+    {
+      "time": 186.949,
+      "time_str": "03:06.949",
+      "text": "我还不能 接受分离",
+      "translation": null
+    },
+    {
+      "time": 192.516,
+      "time_str": "03:12.516",
+      "text": "就是永远不在一起",
+      "translation": null
+    },
+    {
+      "time": 200.445,
+      "time_str": "03:20.445",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 204.626,
+      "time_str": "03:24.626",
+      "text": "我的寂寞逃不过你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 209.958,
+      "time_str": "03:29.958",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 213.7,
+      "time_str": "03:33.700",
+      "text": "你让我越来越不相信自己",
+      "translation": null
+    },
+    {
+      "time": 219.348,
+      "time_str": "03:39.348",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 223.457,
+      "time_str": "03:43.457",
+      "text": "我的寂寞逃不过你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 228.761,
+      "time_str": "03:48.761",
+      "text": "特别的爱给特别的你",
+      "translation": null
+    },
+    {
+      "time": 232.551,
+      "time_str": "03:52.551",
+      "text": "你让我越来越不相信自己",
+      "translation": null
+    },
+    {
+      "time": 250.561,
+      "time_str": "04:10.561",
+      "text": "我还听见 你的声音",
+      "translation": null
+    },
+    {
+      "time": 256.082,
+      "time_str": "04:16.082",
+      "text": "轻轻萦绕着我的心",
+      "translation": null
+    },
+    {
+      "time": 263.203,
+      "time_str": "04:23.203",
+      "text": "我的心",
+      "translation": null
+    },
+    {
+      "time": 269.378,
+      "time_str": "04:29.378",
+      "text": "我还不能 接受分离",
+      "translation": null
+    },
+    {
+      "time": 275.496,
+      "time_str": "04:35.496",
+      "text": "就是永远不能在一起",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "特别的爱给特别的你 - 伍思凯.lrc"
+}

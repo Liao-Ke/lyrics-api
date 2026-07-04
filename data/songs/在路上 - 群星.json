@@ -1,0 +1,190 @@
+{
+  "title": "在路上",
+  "title_raw": "在路上",
+  "version": null,
+  "artist": "群星",
+  "group_key": "在路上|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.28,
+      "time_str": "00:13.280",
+      "text": "那一天",
+      "translation": null
+    },
+    {
+      "time": 16.28,
+      "time_str": "00:16.280",
+      "text": "我不得已上路",
+      "translation": null
+    },
+    {
+      "time": 21.28,
+      "time_str": "00:21.280",
+      "text": "为不安分的心",
+      "translation": null
+    },
+    {
+      "time": 27.65,
+      "time_str": "00:27.650",
+      "text": "为自尊的生存",
+      "translation": null
+    },
+    {
+      "time": 34.03,
+      "time_str": "00:34.030",
+      "text": "为自我的证明",
+      "translation": null
+    },
+    {
+      "time": 41.04,
+      "time_str": "00:41.040",
+      "text": "路上的辛酸已融进我的眼睛",
+      "translation": null
+    },
+    {
+      "time": 46.94,
+      "time_str": "00:46.940",
+      "text": "心灵的困境已化作我的坚定",
+      "translation": null
+    },
+    {
+      "time": 60.51,
+      "time_str": "01:00.510",
+      "text": "在路上 用我心灵的呼声",
+      "translation": null
+    },
+    {
+      "time": 68.7,
+      "time_str": "01:08.700",
+      "text": "在路上 只为伴着我的人",
+      "translation": null
+    },
+    {
+      "time": 77.13,
+      "time_str": "01:17.130",
+      "text": "在路上 是我生命的远行",
+      "translation": null
+    },
+    {
+      "time": 86.83,
+      "time_str": "01:26.830",
+      "text": "在路上 只为温暖我的人",
+      "translation": null
+    },
+    {
+      "time": 94.4,
+      "time_str": "01:34.400",
+      "text": "温暖我的人",
+      "translation": null
+    },
+    {
+      "time": 130.18,
+      "time_str": "02:10.180",
+      "text": "那一天",
+      "translation": null
+    },
+    {
+      "time": 132.55,
+      "time_str": "02:12.550",
+      "text": "我不得已上路",
+      "translation": null
+    },
+    {
+      "time": 137.49,
+      "time_str": "02:17.490",
+      "text": "为不安分的心",
+      "translation": null
+    },
+    {
+      "time": 144.24,
+      "time_str": "02:24.240",
+      "text": "为自尊的生存",
+      "translation": null
+    },
+    {
+      "time": 150.18,
+      "time_str": "02:30.180",
+      "text": "为自我的证明",
+      "translation": null
+    },
+    {
+      "time": 158.18,
+      "time_str": "02:38.180",
+      "text": "路上的辛酸已融进我的眼睛",
+      "translation": null
+    },
+    {
+      "time": 163.0,
+      "time_str": "02:43.000",
+      "text": "心灵的困境已化作我的坚定",
+      "translation": null
+    },
+    {
+      "time": 176.58,
+      "time_str": "02:56.580",
+      "text": "在路上 用我心灵的呼声",
+      "translation": null
+    },
+    {
+      "time": 184.77,
+      "time_str": "03:04.770",
+      "text": "在路上 只为伴着我的人",
+      "translation": null
+    },
+    {
+      "time": 193.44,
+      "time_str": "03:13.440",
+      "text": "在路上 是我生命的远行",
+      "translation": null
+    },
+    {
+      "time": 201.88,
+      "time_str": "03:21.880",
+      "text": "在路上 只为温暖我的人",
+      "translation": null
+    },
+    {
+      "time": 213.19,
+      "time_str": "03:33.190",
+      "text": "温暖我的人",
+      "translation": null
+    },
+    {
+      "time": 217.56,
+      "time_str": "03:37.560",
+      "text": "在路上 用我心灵的呼声",
+      "translation": null
+    },
+    {
+      "time": 225.13,
+      "time_str": "03:45.130",
+      "text": "在路上 只为伴着我的人",
+      "translation": null
+    },
+    {
+      "time": 234.37,
+      "time_str": "03:54.370",
+      "text": "在路上 是我生命的远行",
+      "translation": null
+    },
+    {
+      "time": 242.5,
+      "time_str": "04:02.500",
+      "text": "在路上 只为温暖我的人",
+      "translation": null
+    },
+    {
+      "time": 251.5,
+      "time_str": "04:11.500",
+      "text": "温暖我的人",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "在路上 - 群星.lrc"
+}

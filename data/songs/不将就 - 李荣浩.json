@@ -1,0 +1,304 @@
+{
+  "title": "不将就",
+  "title_raw": "不将就",
+  "version": null,
+  "artist": "李荣浩",
+  "group_key": "不将就|李荣浩",
+  "writers": {
+    "lyricist": "黄伟文/李荣浩",
+    "composer": "李荣浩",
+    "arranger": "Edward Chan"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "贝斯 : 李荣浩",
+      "translation": null
+    },
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "弦乐编写 : 李荣浩/陈迪",
+      "translation": null
+    },
+    {
+      "time": 9.0,
+      "time_str": "00:09.000",
+      "text": "录音/混音室 : 一样音乐工作室",
+      "translation": null
+    },
+    {
+      "time": 12.0,
+      "time_str": "00:12.000",
+      "text": "音乐监制 : 乐视音乐",
+      "translation": null
+    },
+    {
+      "time": 13.54,
+      "time_str": "00:13.540",
+      "text": "那时候 我以为爱的是生活",
+      "translation": null
+    },
+    {
+      "time": 19.55,
+      "time_str": "00:19.550",
+      "text": "也算懂得 什么适合什么不可",
+      "translation": null
+    },
+    {
+      "time": 26.24,
+      "time_str": "00:26.240",
+      "text": "最近还是一样努力着",
+      "translation": null
+    },
+    {
+      "time": 29.76,
+      "time_str": "00:29.760",
+      "text": "配合你的性格",
+      "translation": null
+    },
+    {
+      "time": 32.81,
+      "time_str": "00:32.810",
+      "text": "你的追求者 你的坎坷",
+      "translation": null
+    },
+    {
+      "time": 36.27,
+      "time_str": "00:36.270",
+      "text": "我开的车",
+      "translation": null
+    },
+    {
+      "time": 39.53,
+      "time_str": "00:39.530",
+      "text": "算一算 虚度了多少个年头",
+      "translation": null
+    },
+    {
+      "time": 46.3,
+      "time_str": "00:46.300",
+      "text": "仿佛足够写一套错爱的春秋",
+      "translation": null
+    },
+    {
+      "time": 52.5,
+      "time_str": "00:52.500",
+      "text": "如果以后 你还想为谁",
+      "translation": null
+    },
+    {
+      "time": 56.47,
+      "time_str": "00:56.470",
+      "text": "浪费美好时候",
+      "translation": null
+    },
+    {
+      "time": 59.48,
+      "time_str": "00:59.480",
+      "text": "眼泪只能在我的胸膛",
+      "translation": null
+    },
+    {
+      "time": 63.21,
+      "time_str": "01:03.210",
+      "text": "毫无保留",
+      "translation": null
+    },
+    {
+      "time": 69.63,
+      "time_str": "01:09.630",
+      "text": "互相折磨到白头",
+      "translation": null
+    },
+    {
+      "time": 76.59,
+      "time_str": "01:16.590",
+      "text": "悲伤坚决不放手",
+      "translation": null
+    },
+    {
+      "time": 83.16,
+      "time_str": "01:23.160",
+      "text": "开始纠缠之后",
+      "translation": null
+    },
+    {
+      "time": 88.33,
+      "time_str": "01:28.330",
+      "text": "才又被人放大了自由",
+      "translation": null
+    },
+    {
+      "time": 96.67,
+      "time_str": "01:36.670",
+      "text": "你的暴烈太温柔",
+      "translation": null
+    },
+    {
+      "time": 103.17,
+      "time_str": "01:43.170",
+      "text": "感情又痛又享受",
+      "translation": null
+    },
+    {
+      "time": 109.88,
+      "time_str": "01:49.880",
+      "text": "如果我说不吻你不罢休",
+      "translation": null
+    },
+    {
+      "time": 116.07,
+      "time_str": "01:56.070",
+      "text": "谁能逼我将就",
+      "translation": null
+    },
+    {
+      "time": 126.89,
+      "time_str": "02:06.890",
+      "text": "你问我 为什么顽固而专一",
+      "translation": null
+    },
+    {
+      "time": 132.98,
+      "time_str": "02:12.980",
+      "text": "天下太大 总有人比你更合适",
+      "translation": null
+    },
+    {
+      "time": 139.44,
+      "time_str": "02:19.440",
+      "text": "其实我觉得这样不值",
+      "translation": null
+    },
+    {
+      "time": 143.01,
+      "time_str": "02:23.010",
+      "text": "可没选择方式",
+      "translation": null
+    },
+    {
+      "time": 146.16,
+      "time_str": "02:26.160",
+      "text": "你一出场别人都显得不过如此",
+      "translation": null
+    },
+    {
+      "time": 154.65,
+      "time_str": "02:34.650",
+      "text": "互相折磨到白头",
+      "translation": null
+    },
+    {
+      "time": 161.54,
+      "time_str": "02:41.540",
+      "text": "悲伤坚决不放手",
+      "translation": null
+    },
+    {
+      "time": 168.2,
+      "time_str": "02:48.200",
+      "text": "开始纠缠之后",
+      "translation": null
+    },
+    {
+      "time": 173.38,
+      "time_str": "02:53.380",
+      "text": "才又被人放大了自由",
+      "translation": null
+    },
+    {
+      "time": 181.58,
+      "time_str": "03:01.580",
+      "text": "你的暴烈太温柔",
+      "translation": null
+    },
+    {
+      "time": 188.19,
+      "time_str": "03:08.190",
+      "text": "感情又痛又享受",
+      "translation": null
+    },
+    {
+      "time": 194.89,
+      "time_str": "03:14.890",
+      "text": "如果我说不吻你不罢休",
+      "translation": null
+    },
+    {
+      "time": 201.05,
+      "time_str": "03:21.050",
+      "text": "谁能逼我将就",
+      "translation": null
+    },
+    {
+      "time": 228.46,
+      "time_str": "03:48.460",
+      "text": "不吻你不罢休",
+      "translation": null
+    },
+    {
+      "time": 231.65,
+      "time_str": "03:51.650",
+      "text": "谁能逼我将就",
+      "translation": null
+    },
+    {
+      "time": 238.53,
+      "time_str": "03:58.530",
+      "text": "互相折磨到白头",
+      "translation": null
+    },
+    {
+      "time": 244.87,
+      "time_str": "04:04.870",
+      "text": "悲伤坚决不放手",
+      "translation": null
+    },
+    {
+      "time": 251.39,
+      "time_str": "04:11.390",
+      "text": "开始纠缠之后",
+      "translation": null
+    },
+    {
+      "time": 256.85,
+      "time_str": "04:16.850",
+      "text": "才又被人放大了自由",
+      "translation": null
+    },
+    {
+      "time": 264.88,
+      "time_str": "04:24.880",
+      "text": "你的暴烈太温柔",
+      "translation": null
+    },
+    {
+      "time": 271.66,
+      "time_str": "04:31.660",
+      "text": "感情又痛又享受",
+      "translation": null
+    },
+    {
+      "time": 278.26,
+      "time_str": "04:38.260",
+      "text": "如果我说不吻你不罢休",
+      "translation": null
+    },
+    {
+      "time": 284.29,
+      "time_str": "04:44.290",
+      "text": "谁能逼我将就",
+      "translation": null
+    },
+    {
+      "time": 290.92,
+      "time_str": "04:50.920",
+      "text": "他们不过将就",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不将就 - 李荣浩.lrc"
+}

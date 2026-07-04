@@ -1,0 +1,268 @@
+{
+  "title": "爱在离别时",
+  "title_raw": "爱在离别时",
+  "version": null,
+  "artist": "永邦",
+  "group_key": "爱在离别时|永邦",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.91,
+      "time_str": "00:18.910",
+      "text": "失去后才珍惜",
+      "translation": null
+    },
+    {
+      "time": 21.22,
+      "time_str": "00:21.220",
+      "text": "还有什么意义",
+      "translation": null
+    },
+    {
+      "time": 24.94,
+      "time_str": "00:24.940",
+      "text": "还是会有人不肯去忘记",
+      "translation": null
+    },
+    {
+      "time": 29.76,
+      "time_str": "00:29.760",
+      "text": "忘不了那一段回忆",
+      "translation": null
+    },
+    {
+      "time": 33.02,
+      "time_str": "00:33.020",
+      "text": "刹那间",
+      "translation": null
+    },
+    {
+      "time": 36.31,
+      "time_str": "00:36.310",
+      "text": "他开始怀疑",
+      "translation": null
+    },
+    {
+      "time": 41.14,
+      "time_str": "00:41.140",
+      "text": "自己的命运",
+      "translation": null
+    },
+    {
+      "time": 43.21,
+      "time_str": "00:43.210",
+      "text": "像一场电影",
+      "translation": null
+    },
+    {
+      "time": 45.07,
+      "time_str": "00:45.070",
+      "text": "不断在重复上映",
+      "translation": null
+    },
+    {
+      "time": 48.69,
+      "time_str": "00:48.690",
+      "text": "抓不住的情绪",
+      "translation": null
+    },
+    {
+      "time": 50.76,
+      "time_str": "00:50.760",
+      "text": "逃不了的陷阱",
+      "translation": null
+    },
+    {
+      "time": 52.51,
+      "time_str": "00:52.510",
+      "text": "凌乱的心情",
+      "translation": null
+    },
+    {
+      "time": 56.23,
+      "time_str": "00:56.230",
+      "text": "这样纠缠下去",
+      "translation": null
+    },
+    {
+      "time": 58.31,
+      "time_str": "00:58.310",
+      "text": "该怎么抚平",
+      "translation": null
+    },
+    {
+      "time": 63.66,
+      "time_str": "01:03.660",
+      "text": "爱总是在离别之前",
+      "translation": null
+    },
+    {
+      "time": 70.23,
+      "time_str": "01:10.230",
+      "text": "让每个人能看清一点",
+      "translation": null
+    },
+    {
+      "time": 77.66,
+      "time_str": "01:17.660",
+      "text": "犯下的错",
+      "translation": null
+    },
+    {
+      "time": 80.51,
+      "time_str": "01:20.510",
+      "text": "该如何放下",
+      "translation": null
+    },
+    {
+      "time": 83.79,
+      "time_str": "01:23.790",
+      "text": "该如何放手",
+      "translation": null
+    },
+    {
+      "time": 88.06,
+      "time_str": "01:28.060",
+      "text": "再怎么去挽回",
+      "translation": null
+    },
+    {
+      "time": 92.1,
+      "time_str": "01:32.100",
+      "text": "一道裂痕隐隐约约的掠过",
+      "translation": null
+    },
+    {
+      "time": 108.06,
+      "time_str": "01:48.060",
+      "text": "失去后才珍惜",
+      "translation": null
+    },
+    {
+      "time": 109.17,
+      "time_str": "01:49.170",
+      "text": "还有什么意义",
+      "translation": null
+    },
+    {
+      "time": 111.4,
+      "time_str": "01:51.400",
+      "text": "还是会有人不肯去忘记",
+      "translation": null
+    },
+    {
+      "time": 113.99,
+      "time_str": "01:53.990",
+      "text": "放不下那一段回忆",
+      "translation": null
+    },
+    {
+      "time": 119.22,
+      "time_str": "01:59.220",
+      "text": "刹那间",
+      "translation": null
+    },
+    {
+      "time": 120.82,
+      "time_str": "02:00.820",
+      "text": "他开始怀疑",
+      "translation": null
+    },
+    {
+      "time": 124.65,
+      "time_str": "02:04.650",
+      "text": "自己的命运",
+      "translation": null
+    },
+    {
+      "time": 127.62,
+      "time_str": "02:07.620",
+      "text": "像一场电影",
+      "translation": null
+    },
+    {
+      "time": 130.02,
+      "time_str": "02:10.020",
+      "text": "不断在重复上映",
+      "translation": null
+    },
+    {
+      "time": 133.74,
+      "time_str": "02:13.740",
+      "text": "抓不住的情绪",
+      "translation": null
+    },
+    {
+      "time": 135.49,
+      "time_str": "02:15.490",
+      "text": "逃不了的陷阱",
+      "translation": null
+    },
+    {
+      "time": 137.95,
+      "time_str": "02:17.950",
+      "text": "凌乱的心情",
+      "translation": null
+    },
+    {
+      "time": 142.11,
+      "time_str": "02:22.110",
+      "text": "这样纠缠下去",
+      "translation": null
+    },
+    {
+      "time": 143.65,
+      "time_str": "02:23.650",
+      "text": "该怎么抚平",
+      "translation": null
+    },
+    {
+      "time": 148.66,
+      "time_str": "02:28.660",
+      "text": "爱总是在离别之前",
+      "translation": null
+    },
+    {
+      "time": 155.46,
+      "time_str": "02:35.460",
+      "text": "让每个人能看清一点",
+      "translation": null
+    },
+    {
+      "time": 163.14,
+      "time_str": "02:43.140",
+      "text": "犯下的错",
+      "translation": null
+    },
+    {
+      "time": 167.07,
+      "time_str": "02:47.070",
+      "text": "该如何放下",
+      "translation": null
+    },
+    {
+      "time": 168.38,
+      "time_str": "02:48.380",
+      "text": "该如何放手",
+      "translation": null
+    },
+    {
+      "time": 172.57,
+      "time_str": "02:52.570",
+      "text": "再怎么去挽回",
+      "translation": null
+    },
+    {
+      "time": 178.27,
+      "time_str": "02:58.270",
+      "text": "一道裂痕隐隐约约的掠过",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱在离别时 - 永邦.lrc"
+}

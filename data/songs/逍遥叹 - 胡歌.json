@@ -1,0 +1,340 @@
+{
+  "title": "逍遥叹",
+  "title_raw": "逍遥叹",
+  "version": null,
+  "artist": "胡歌",
+  "group_key": "逍遥叹|胡歌",
+  "writers": {
+    "lyricist": "陈宇任",
+    "composer": "陈宇任",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 26.412,
+      "time_str": "00:26.412",
+      "text": "岁月难得沉默",
+      "translation": null
+    },
+    {
+      "time": 29.745,
+      "time_str": "00:29.745",
+      "text": "秋风厌倦漂泊",
+      "translation": null
+    },
+    {
+      "time": 33.067,
+      "time_str": "00:33.067",
+      "text": "夕阳赖着不走",
+      "translation": null
+    },
+    {
+      "time": 35.563,
+      "time_str": "00:35.563",
+      "text": "挂在墙头舍不得我",
+      "translation": null
+    },
+    {
+      "time": 39.73,
+      "time_str": "00:39.730",
+      "text": "昔日伊人耳边话",
+      "translation": null
+    },
+    {
+      "time": 43.067,
+      "time_str": "00:43.067",
+      "text": "已和潮声向东流",
+      "translation": null
+    },
+    {
+      "time": 46.392,
+      "time_str": "00:46.392",
+      "text": "再回首",
+      "translation": null
+    },
+    {
+      "time": 48.016,
+      "time_str": "00:48.016",
+      "text": "往事也随枫叶一片片落",
+      "translation": null
+    },
+    {
+      "time": 53.048,
+      "time_str": "00:53.048",
+      "text": "爱已走到尽头",
+      "translation": null
+    },
+    {
+      "time": 56.396,
+      "time_str": "00:56.396",
+      "text": "恨也放弃承诺",
+      "translation": null
+    },
+    {
+      "time": 59.75,
+      "time_str": "00:59.750",
+      "text": "命运自认幽默",
+      "translation": null
+    },
+    {
+      "time": 62.209,
+      "time_str": "01:02.209",
+      "text": "想法太多由不得我",
+      "translation": null
+    },
+    {
+      "time": 66.381,
+      "time_str": "01:06.381",
+      "text": "壮志凌云几分酬",
+      "translation": null
+    },
+    {
+      "time": 69.726,
+      "time_str": "01:09.726",
+      "text": "知己难逢几人留",
+      "translation": null
+    },
+    {
+      "time": 73.075,
+      "time_str": "01:13.075",
+      "text": "再回首",
+      "translation": null
+    },
+    {
+      "time": 74.706,
+      "time_str": "01:14.706",
+      "text": "却闻笑传醉梦中",
+      "translation": null
+    },
+    {
+      "time": 81.001,
+      "time_str": "01:21.001",
+      "text": "笑叹词穷 古痴今狂 终成空",
+      "translation": null
+    },
+    {
+      "time": 87.685,
+      "time_str": "01:27.685",
+      "text": "刀钝刃乏 恩断义绝 梦方破",
+      "translation": null
+    },
+    {
+      "time": 94.333,
+      "time_str": "01:34.333",
+      "text": "路荒遗叹 饱览足迹 没人懂",
+      "translation": null
+    },
+    {
+      "time": 100.973,
+      "time_str": "01:40.973",
+      "text": "多年望眼欲穿过",
+      "translation": null
+    },
+    {
+      "time": 103.896,
+      "time_str": "01:43.896",
+      "text": "红尘滚滚 我没看透",
+      "translation": null
+    },
+    {
+      "time": 107.623,
+      "time_str": "01:47.623",
+      "text": "自嘲墨尽 千情万怨 英杰愁",
+      "translation": null
+    },
+    {
+      "time": 114.271,
+      "time_str": "01:54.271",
+      "text": "曲终人散 发华鬓白 红颜殁",
+      "translation": null
+    },
+    {
+      "time": 120.978,
+      "time_str": "02:00.978",
+      "text": "烛残未觉 与日争辉 徒消瘦",
+      "translation": null
+    },
+    {
+      "time": 127.635,
+      "time_str": "02:07.635",
+      "text": "当泪干血盈眶涌",
+      "translation": null
+    },
+    {
+      "time": 130.542,
+      "time_str": "02:10.542",
+      "text": "白雪纷飞 都成空",
+      "translation": null
+    },
+    {
+      "time": 159.775,
+      "time_str": "02:39.775",
+      "text": "爱已走到尽头",
+      "translation": null
+    },
+    {
+      "time": 163.103,
+      "time_str": "02:43.103",
+      "text": "恨也放弃承诺",
+      "translation": null
+    },
+    {
+      "time": 166.419,
+      "time_str": "02:46.419",
+      "text": "命运自认幽默",
+      "translation": null
+    },
+    {
+      "time": 168.905,
+      "time_str": "02:48.905",
+      "text": "想法太多由不得我",
+      "translation": null
+    },
+    {
+      "time": 173.065,
+      "time_str": "02:53.065",
+      "text": "壮志凌云几分酬",
+      "translation": null
+    },
+    {
+      "time": 176.371,
+      "time_str": "02:56.371",
+      "text": "知己难逢几人留",
+      "translation": null
+    },
+    {
+      "time": 179.71,
+      "time_str": "02:59.710",
+      "text": "再回首",
+      "translation": null
+    },
+    {
+      "time": 181.418,
+      "time_str": "03:01.418",
+      "text": "却闻笑传醉梦中",
+      "translation": null
+    },
+    {
+      "time": 187.619,
+      "time_str": "03:07.619",
+      "text": "笑叹词穷 古痴今狂 终成空",
+      "translation": null
+    },
+    {
+      "time": 194.262,
+      "time_str": "03:14.262",
+      "text": "刀钝刃乏 恩断义绝 梦方破",
+      "translation": null
+    },
+    {
+      "time": 200.898,
+      "time_str": "03:20.898",
+      "text": "路荒遗叹 饱览足迹 没人懂",
+      "translation": null
+    },
+    {
+      "time": 207.625,
+      "time_str": "03:27.625",
+      "text": "多年望眼欲穿过",
+      "translation": null
+    },
+    {
+      "time": 210.538,
+      "time_str": "03:30.538",
+      "text": "红尘滚滚 我没看透",
+      "translation": null
+    },
+    {
+      "time": 214.252,
+      "time_str": "03:34.252",
+      "text": "自嘲墨尽 千情万怨 英杰愁",
+      "translation": null
+    },
+    {
+      "time": 220.907,
+      "time_str": "03:40.907",
+      "text": "曲终人散 发华鬓白 红颜殁",
+      "translation": null
+    },
+    {
+      "time": 227.569,
+      "time_str": "03:47.569",
+      "text": "烛残未觉 与日争辉 徒消瘦",
+      "translation": null
+    },
+    {
+      "time": 234.252,
+      "time_str": "03:54.252",
+      "text": "当泪干血盈眶涌",
+      "translation": null
+    },
+    {
+      "time": 237.255,
+      "time_str": "03:57.255",
+      "text": "白雪纷飞 都成红",
+      "translation": null
+    },
+    {
+      "time": 240.928,
+      "time_str": "04:00.928",
+      "text": "笑叹词穷 古痴今狂 终成空",
+      "translation": null
+    },
+    {
+      "time": 247.593,
+      "time_str": "04:07.593",
+      "text": "刀钝刃乏 恩断义绝 梦方破",
+      "translation": null
+    },
+    {
+      "time": 254.276,
+      "time_str": "04:14.276",
+      "text": "路荒遗叹 饱览足迹 没人懂",
+      "translation": null
+    },
+    {
+      "time": 260.942,
+      "time_str": "04:20.942",
+      "text": "多年望眼欲穿过",
+      "translation": null
+    },
+    {
+      "time": 263.836,
+      "time_str": "04:23.836",
+      "text": "红尘滚滚 我没看透",
+      "translation": null
+    },
+    {
+      "time": 267.563,
+      "time_str": "04:27.563",
+      "text": "自嘲墨尽 千情万怨 英杰愁",
+      "translation": null
+    },
+    {
+      "time": 274.259,
+      "time_str": "04:34.259",
+      "text": "曲终人散 发华鬓白 红颜殁",
+      "translation": null
+    },
+    {
+      "time": 280.844,
+      "time_str": "04:40.844",
+      "text": "烛残未觉 与日争辉 徒消瘦",
+      "translation": null
+    },
+    {
+      "time": 287.559,
+      "time_str": "04:47.559",
+      "text": "当泪干血盈眶涌",
+      "translation": null
+    },
+    {
+      "time": 290.59,
+      "time_str": "04:50.590",
+      "text": "白雪纷飞 都成红",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "逍遥叹 - 胡歌.lrc"
+}

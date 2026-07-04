@@ -1,0 +1,382 @@
+{
+  "title": "七友",
+  "title_raw": "七友",
+  "version": null,
+  "artist": "梁汉文",
+  "group_key": "七友|梁汉文",
+  "writers": {
+    "lyricist": "梁伟文",
+    "composer": "雷颂德",
+    "arranger": "雷颂德"
+  },
+  "lyrics": [
+    {
+      "time": 25.55,
+      "time_str": "00:25.550",
+      "text": "为了她又再勉强去谈天论爱",
+      "translation": null
+    },
+    {
+      "time": 30.81,
+      "time_str": "00:30.810",
+      "text": "又再振作去慰解他人",
+      "translation": null
+    },
+    {
+      "time": 34.45,
+      "time_str": "00:34.450",
+      "text": "如难复合便尽早放开",
+      "translation": null
+    },
+    {
+      "time": 37.65,
+      "time_str": "00:37.650",
+      "text": "凡事看开",
+      "translation": null
+    },
+    {
+      "time": 39.77,
+      "time_str": "00:39.770",
+      "text": "又再讲没有情人时还可自爱",
+      "translation": null
+    },
+    {
+      "time": 45.19,
+      "time_str": "00:45.190",
+      "text": "忘掉或是为自己感慨",
+      "translation": null
+    },
+    {
+      "time": 48.52,
+      "time_str": "00:48.520",
+      "text": "笑住说沉沦那些苦海",
+      "translation": null
+    },
+    {
+      "time": 52.72,
+      "time_str": "00:52.720",
+      "text": "会有害",
+      "translation": null
+    },
+    {
+      "time": 54.74,
+      "time_str": "00:54.740",
+      "text": "因为我坚强到利用",
+      "translation": null
+    },
+    {
+      "time": 57.01,
+      "time_str": "00:57.010",
+      "text": "自己的痛心",
+      "translation": null
+    },
+    {
+      "time": 59.33,
+      "time_str": "00:59.330",
+      "text": "转换成爱心",
+      "translation": null
+    },
+    {
+      "time": 61.66,
+      "time_str": "01:01.660",
+      "text": "抵我对她操心",
+      "translation": null
+    },
+    {
+      "time": 64.29,
+      "time_str": "01:04.290",
+      "text": "已记不起我也有权利爱人",
+      "translation": null
+    },
+    {
+      "time": 67.88,
+      "time_str": "01:07.880",
+      "text": "谁人曾照顾过我的感受",
+      "translation": null
+    },
+    {
+      "time": 71.53,
+      "time_str": "01:11.530",
+      "text": "待我温柔吻过我伤口",
+      "translation": null
+    },
+    {
+      "time": 76.07,
+      "time_str": "01:16.070",
+      "text": "能得到的安慰是失恋者",
+      "translation": null
+    },
+    {
+      "time": 79.01,
+      "time_str": "01:19.010",
+      "text": "得救后很感激忠诚的狗",
+      "translation": null
+    },
+    {
+      "time": 82.34,
+      "time_str": "01:22.340",
+      "text": "谁人曾介意我也不好受",
+      "translation": null
+    },
+    {
+      "time": 85.84,
+      "time_str": "01:25.840",
+      "text": "为我出头碰过我的手",
+      "translation": null
+    },
+    {
+      "time": 90.24,
+      "time_str": "01:30.240",
+      "text": "重生者走得的都走",
+      "translation": null
+    },
+    {
+      "time": 93.52,
+      "time_str": "01:33.520",
+      "text": "谁人又为天使忧愁",
+      "translation": null
+    },
+    {
+      "time": 97.26,
+      "time_str": "01:37.260",
+      "text": "甜言蜜语没有",
+      "translation": null
+    },
+    {
+      "time": 99.24,
+      "time_str": "01:39.240",
+      "text": "但却有我这个好友",
+      "translation": null
+    },
+    {
+      "time": 115.04,
+      "time_str": "01:55.040",
+      "text": "直到她又再告诉我重新被爱",
+      "translation": null
+    },
+    {
+      "time": 120.36,
+      "time_str": "02:00.360",
+      "text": "又再看透了我的将来",
+      "translation": null
+    },
+    {
+      "time": 123.95,
+      "time_str": "02:03.950",
+      "text": "完成任务后大可喝彩",
+      "translation": null
+    },
+    {
+      "time": 127.18,
+      "time_str": "02:07.180",
+      "text": "无谓搭台",
+      "translation": null
+    },
+    {
+      "time": 129.4,
+      "time_str": "02:09.400",
+      "text": "别怪她就怪我永远难得被爱",
+      "translation": null
+    },
+    {
+      "time": 134.7,
+      "time_str": "02:14.700",
+      "text": "然后自虐地赞她可爱",
+      "translation": null
+    },
+    {
+      "time": 138.09,
+      "time_str": "02:18.090",
+      "text": "往日最彷徨那刻",
+      "translation": null
+    },
+    {
+      "time": 140.62,
+      "time_str": "02:20.620",
+      "text": "好彩有我在",
+      "translation": null
+    },
+    {
+      "time": 144.21,
+      "time_str": "02:24.210",
+      "text": "因为我坚强到利用",
+      "translation": null
+    },
+    {
+      "time": 146.49,
+      "time_str": "02:26.490",
+      "text": "自己的痛心",
+      "translation": null
+    },
+    {
+      "time": 148.46,
+      "time_str": "02:28.460",
+      "text": "转换成爱心",
+      "translation": null
+    },
+    {
+      "time": 151.24,
+      "time_str": "02:31.240",
+      "text": "抵我对她操心",
+      "translation": null
+    },
+    {
+      "time": 153.87,
+      "time_str": "02:33.870",
+      "text": "已记不起我也有权利爱人",
+      "translation": null
+    },
+    {
+      "time": 157.46,
+      "time_str": "02:37.460",
+      "text": "谁人曾照顾过我的感受",
+      "translation": null
+    },
+    {
+      "time": 161.0,
+      "time_str": "02:41.000",
+      "text": "待我温柔吻过我伤口",
+      "translation": null
+    },
+    {
+      "time": 165.29,
+      "time_str": "02:45.290",
+      "text": "能得到的安慰是失恋者",
+      "translation": null
+    },
+    {
+      "time": 168.23,
+      "time_str": "02:48.230",
+      "text": "得救后很感激忠诚的狗",
+      "translation": null
+    },
+    {
+      "time": 171.77,
+      "time_str": "02:51.770",
+      "text": "谁人曾介意我也不好受",
+      "translation": null
+    },
+    {
+      "time": 175.36,
+      "time_str": "02:55.360",
+      "text": "为我出头碰过我的手",
+      "translation": null
+    },
+    {
+      "time": 179.86,
+      "time_str": "02:59.860",
+      "text": "重生者走得的都走",
+      "translation": null
+    },
+    {
+      "time": 183.05,
+      "time_str": "03:03.050",
+      "text": "谁人又为天使忧愁",
+      "translation": null
+    },
+    {
+      "time": 186.59,
+      "time_str": "03:06.590",
+      "text": "甜言蜜语没有",
+      "translation": null
+    },
+    {
+      "time": 188.66,
+      "time_str": "03:08.660",
+      "text": "但却有我这个好友",
+      "translation": null
+    },
+    {
+      "time": 197.56,
+      "time_str": "03:17.560",
+      "text": "白雪公主不多",
+      "translation": null
+    },
+    {
+      "time": 199.48,
+      "time_str": "03:19.480",
+      "text": "认命扮矮人的有太多个",
+      "translation": null
+    },
+    {
+      "time": 203.45,
+      "time_str": "03:23.450",
+      "text": "早有六个",
+      "translation": null
+    },
+    {
+      "time": 205.06,
+      "time_str": "03:25.060",
+      "text": "多我这个不多",
+      "translation": null
+    },
+    {
+      "time": 207.59,
+      "time_str": "03:27.590",
+      "text": "我太好心还是太傻",
+      "translation": null
+    },
+    {
+      "time": 210.36,
+      "time_str": "03:30.360",
+      "text": "未问过她有没有理我的感受",
+      "translation": null
+    },
+    {
+      "time": 214.76,
+      "time_str": "03:34.760",
+      "text": "待我温柔吻过我伤口",
+      "translation": null
+    },
+    {
+      "time": 218.9,
+      "time_str": "03:38.900",
+      "text": "能得到的安慰是失恋者",
+      "translation": null
+    },
+    {
+      "time": 222.03,
+      "time_str": "03:42.030",
+      "text": "得救后很感激忠诚的狗",
+      "translation": null
+    },
+    {
+      "time": 225.47,
+      "time_str": "03:45.470",
+      "text": "谁人曾介意我也不好受",
+      "translation": null
+    },
+    {
+      "time": 229.11,
+      "time_str": "03:49.110",
+      "text": "为我出头碰过我的手",
+      "translation": null
+    },
+    {
+      "time": 233.56,
+      "time_str": "03:53.560",
+      "text": "重生者走得的都走",
+      "translation": null
+    },
+    {
+      "time": 236.79,
+      "time_str": "03:56.790",
+      "text": "谁人又为天使忧愁",
+      "translation": null
+    },
+    {
+      "time": 240.41,
+      "time_str": "04:00.410",
+      "text": "甜言蜜语没有",
+      "translation": null
+    },
+    {
+      "time": 242.38,
+      "time_str": "04:02.380",
+      "text": "但却有我这个好友",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "七友 - 梁汉文.lrc"
+}

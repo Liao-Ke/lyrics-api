@@ -1,0 +1,304 @@
+{
+  "title": "一直在找一个人",
+  "title_raw": "一直在找一个人",
+  "version": null,
+  "artist": "冯玮君",
+  "group_key": "一直在找一个人|冯玮君",
+  "writers": {
+    "lyricist": "徐世珍",
+    "composer": "Simon Ellis/Cathy Dennis",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 22.58,
+      "time_str": "00:22.580",
+      "text": "直到我遇见了你",
+      "translation": null
+    },
+    {
+      "time": 25.64,
+      "time_str": "00:25.640",
+      "text": "才开始了解爱",
+      "translation": null
+    },
+    {
+      "time": 30.27,
+      "time_str": "00:30.270",
+      "text": "控制不住的心跳",
+      "translation": null
+    },
+    {
+      "time": 33.11,
+      "time_str": "00:33.110",
+      "text": "等待你轻轻呼唤",
+      "translation": null
+    },
+    {
+      "time": 37.18,
+      "time_str": "00:37.180",
+      "text": "才知道我一点都不勇敢",
+      "translation": null
+    },
+    {
+      "time": 40.94,
+      "time_str": "00:40.940",
+      "text": "才知道越在乎也越不安",
+      "translation": null
+    },
+    {
+      "time": 44.9,
+      "time_str": "00:44.900",
+      "text": "要不是那天你伸出的手",
+      "translation": null
+    },
+    {
+      "time": 50.14,
+      "time_str": "00:50.140",
+      "text": "那么温暖",
+      "translation": null
+    },
+    {
+      "time": 52.17,
+      "time_str": "00:52.170",
+      "text": "我一直在找一个人",
+      "translation": null
+    },
+    {
+      "time": 56.14,
+      "time_str": "00:56.140",
+      "text": "就算盲目都快乐",
+      "translation": null
+    },
+    {
+      "time": 60.09,
+      "time_str": "01:00.090",
+      "text": "也只有真心相爱才可能",
+      "translation": null
+    },
+    {
+      "time": 65.5,
+      "time_str": "01:05.500",
+      "text": "了解什么叫深刻",
+      "translation": null
+    },
+    {
+      "time": 67.86,
+      "time_str": "01:07.860",
+      "text": "我一直在找一个人",
+      "translation": null
+    },
+    {
+      "time": 71.81,
+      "time_str": "01:11.810",
+      "text": "让我相信幸福是真的",
+      "translation": null
+    },
+    {
+      "time": 76.09,
+      "time_str": "01:16.090",
+      "text": "还有什么能够让人更虔诚",
+      "translation": null
+    },
+    {
+      "time": 80.47,
+      "time_str": "01:20.470",
+      "text": "身边有你我就有了答案",
+      "translation": null
+    },
+    {
+      "time": 104.2,
+      "time_str": "01:44.200",
+      "text": "你走进我的心里",
+      "translation": null
+    },
+    {
+      "time": 106.8,
+      "time_str": "01:46.800",
+      "text": "如此理所当然",
+      "translation": null
+    },
+    {
+      "time": 111.38,
+      "time_str": "01:51.380",
+      "text": "就算有理由迷惑吧",
+      "translation": null
+    },
+    {
+      "time": 114.38,
+      "time_str": "01:54.380",
+      "text": "你的拥抱却让我明白",
+      "translation": null
+    },
+    {
+      "time": 118.38,
+      "time_str": "01:58.380",
+      "text": "才知道我一点都不勇敢",
+      "translation": null
+    },
+    {
+      "time": 122.14,
+      "time_str": "02:02.140",
+      "text": "才知道越在乎夜越不安",
+      "translation": null
+    },
+    {
+      "time": 126.1,
+      "time_str": "02:06.100",
+      "text": "要不是那天你伸出的手",
+      "translation": null
+    },
+    {
+      "time": 131.42,
+      "time_str": "02:11.420",
+      "text": "那么温暖",
+      "translation": null
+    },
+    {
+      "time": 133.33,
+      "time_str": "02:13.330",
+      "text": "我一直在找一个人",
+      "translation": null
+    },
+    {
+      "time": 137.36,
+      "time_str": "02:17.360",
+      "text": "就算盲目都快乐",
+      "translation": null
+    },
+    {
+      "time": 141.24,
+      "time_str": "02:21.240",
+      "text": "也只有真心相爱才可能",
+      "translation": null
+    },
+    {
+      "time": 145.98,
+      "time_str": "02:25.980",
+      "text": "了解什么叫深刻",
+      "translation": null
+    },
+    {
+      "time": 148.9,
+      "time_str": "02:28.900",
+      "text": "我一直在找一个人",
+      "translation": null
+    },
+    {
+      "time": 153.06,
+      "time_str": "02:33.060",
+      "text": "让我相信幸福是真的",
+      "translation": null
+    },
+    {
+      "time": 156.94,
+      "time_str": "02:36.940",
+      "text": "还有什么能够让人更虔诚",
+      "translation": null
+    },
+    {
+      "time": 162.1,
+      "time_str": "02:42.100",
+      "text": "身边有你就有答案",
+      "translation": null
+    },
+    {
+      "time": 167.07,
+      "time_str": "02:47.070",
+      "text": "有谁不是在汹涌人海里",
+      "translation": null
+    },
+    {
+      "time": 171.12,
+      "time_str": "02:51.120",
+      "text": "寂寞地等待谁呼唤自己的名字",
+      "translation": null
+    },
+    {
+      "time": 176.07,
+      "time_str": "02:56.070",
+      "text": "等待着有天爱让自己变得完整",
+      "translation": null
+    },
+    {
+      "time": 183.31,
+      "time_str": "03:03.310",
+      "text": "才知道我一点都不勇敢",
+      "translation": null
+    },
+    {
+      "time": 187.04,
+      "time_str": "03:07.040",
+      "text": "才知道越在乎夜越不安",
+      "translation": null
+    },
+    {
+      "time": 191.0,
+      "time_str": "03:11.000",
+      "text": "要不是那天你伸出的手",
+      "translation": null
+    },
+    {
+      "time": 196.27,
+      "time_str": "03:16.270",
+      "text": "那么温暖",
+      "translation": null
+    },
+    {
+      "time": 202.37,
+      "time_str": "03:22.370",
+      "text": "我一直在找一个人",
+      "translation": null
+    },
+    {
+      "time": 206.129,
+      "time_str": "03:26.129",
+      "text": "就算盲目都快乐",
+      "translation": null
+    },
+    {
+      "time": 210.02,
+      "time_str": "03:30.020",
+      "text": "也只有真心相爱才可能",
+      "translation": null
+    },
+    {
+      "time": 214.9,
+      "time_str": "03:34.900",
+      "text": "了解什么叫深刻",
+      "translation": null
+    },
+    {
+      "time": 217.98,
+      "time_str": "03:37.980",
+      "text": "一直在找一个人",
+      "translation": null
+    },
+    {
+      "time": 221.77,
+      "time_str": "03:41.770",
+      "text": "让我相信幸福是真的",
+      "translation": null
+    },
+    {
+      "time": 225.68,
+      "time_str": "03:45.680",
+      "text": "还有什么能够让人更虔诚",
+      "translation": null
+    },
+    {
+      "time": 230.49,
+      "time_str": "03:50.490",
+      "text": "身边有你我就有",
+      "translation": null
+    },
+    {
+      "time": 234.66,
+      "time_str": "03:54.660",
+      "text": "身边有你我就有了答案",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一直在找一个人 - 冯玮君.lrc"
+}

@@ -1,0 +1,166 @@
+{
+  "title": "星语心愿",
+  "title_raw": "星语心愿",
+  "version": null,
+  "artist": "张柏芝",
+  "group_key": "星语心愿|张柏芝",
+  "writers": {
+    "lyricist": "傅佩嘉",
+    "composer": "金培达",
+    "arranger": "金培达"
+  },
+  "lyrics": [
+    {
+      "time": 29.61,
+      "time_str": "00:29.610",
+      "text": "我要控制我自己",
+      "translation": null
+    },
+    {
+      "time": 35.1,
+      "time_str": "00:35.100",
+      "text": "不会让谁看见我哭泣",
+      "translation": null
+    },
+    {
+      "time": 41.37,
+      "time_str": "00:41.370",
+      "text": "装作漠不关心你",
+      "translation": null
+    },
+    {
+      "time": 45.42,
+      "time_str": "00:45.420",
+      "text": "不愿想起你",
+      "translation": null
+    },
+    {
+      "time": 48.57,
+      "time_str": "00:48.570",
+      "text": "怪自己没勇气",
+      "translation": null
+    },
+    {
+      "time": 57.84,
+      "time_str": "00:57.840",
+      "text": "心痛得无法呼吸",
+      "translation": null
+    },
+    {
+      "time": 63.45,
+      "time_str": "01:03.450",
+      "text": "找不到你留下的痕迹",
+      "translation": null
+    },
+    {
+      "time": 69.81,
+      "time_str": "01:09.810",
+      "text": "眼睁睁的看着你",
+      "translation": null
+    },
+    {
+      "time": 73.65,
+      "time_str": "01:13.650",
+      "text": "却无能为力",
+      "translation": null
+    },
+    {
+      "time": 76.98,
+      "time_str": "01:16.980",
+      "text": "任你消失在世界的尽头",
+      "translation": null
+    },
+    {
+      "time": 88.71,
+      "time_str": "01:28.710",
+      "text": "找不到坚强的理由",
+      "translation": null
+    },
+    {
+      "time": 95.07,
+      "time_str": "01:35.070",
+      "text": "再也感觉不到你的温柔",
+      "translation": null
+    },
+    {
+      "time": 101.64,
+      "time_str": "01:41.640",
+      "text": "告诉我星空在哪头",
+      "translation": null
+    },
+    {
+      "time": 107.67,
+      "time_str": "01:47.670",
+      "text": "那里是否有尽头",
+      "translation": null
+    },
+    {
+      "time": 117.87,
+      "time_str": "01:57.870",
+      "text": "心痛得无法呼吸",
+      "translation": null
+    },
+    {
+      "time": 123.45,
+      "time_str": "02:03.450",
+      "text": "找不到昨天留下的痕迹",
+      "translation": null
+    },
+    {
+      "time": 129.78,
+      "time_str": "02:09.780",
+      "text": "眼睁睁的看着你",
+      "translation": null
+    },
+    {
+      "time": 133.62,
+      "time_str": "02:13.620",
+      "text": "却无能为力",
+      "translation": null
+    },
+    {
+      "time": 136.98,
+      "time_str": "02:16.980",
+      "text": "任你消失在世界的尽头",
+      "translation": null
+    },
+    {
+      "time": 148.74,
+      "time_str": "02:28.740",
+      "text": "找不到坚强的理由",
+      "translation": null
+    },
+    {
+      "time": 155.1,
+      "time_str": "02:35.100",
+      "text": "再也感觉不到你的温柔",
+      "translation": null
+    },
+    {
+      "time": 161.52,
+      "time_str": "02:41.520",
+      "text": "告诉我星空在哪头",
+      "translation": null
+    },
+    {
+      "time": 167.73,
+      "time_str": "02:47.730",
+      "text": "那里是否有尽头",
+      "translation": null
+    },
+    {
+      "time": 174.03,
+      "time_str": "02:54.030",
+      "text": "就向流星许个心愿",
+      "translation": null
+    },
+    {
+      "time": 180.33,
+      "time_str": "03:00.330",
+      "text": "让你知道我爱你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "星语心愿 - 张柏芝.lrc"
+}

@@ -1,0 +1,340 @@
+{
+  "title": "手放开",
+  "title_raw": "手放开",
+  "version": null,
+  "artist": "李圣杰",
+  "group_key": "手放开|李圣杰",
+  "writers": {
+    "lyricist": "十方",
+    "composer": "方文良",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.0,
+      "time_str": "00:02.000",
+      "text": "手放开",
+      "translation": null
+    },
+    {
+      "time": 23.66,
+      "time_str": "00:23.660",
+      "text": "我把自己关起来只留下一个阳台",
+      "translation": null
+    },
+    {
+      "time": 28.33,
+      "time_str": "00:28.330",
+      "text": "每当天黑推开窗我对着夜幕发呆",
+      "translation": null
+    },
+    {
+      "time": 32.36,
+      "time_str": "00:32.360",
+      "text": "看着往事一幕一幕",
+      "translation": null
+    },
+    {
+      "time": 36.39,
+      "time_str": "00:36.390",
+      "text": "再次演出你我的爱",
+      "translation": null
+    },
+    {
+      "time": 43.26,
+      "time_str": "00:43.260",
+      "text": "我把电视机打开听着别人的对白",
+      "translation": null
+    },
+    {
+      "time": 47.37,
+      "time_str": "00:47.370",
+      "text": "也许那些故事可以给我一个交代",
+      "translation": null
+    },
+    {
+      "time": 51.76,
+      "time_str": "00:51.760",
+      "text": "你要的爱我学不来",
+      "translation": null
+    },
+    {
+      "time": 55.85,
+      "time_str": "00:55.850",
+      "text": "眼睁睁看情变坏",
+      "translation": null
+    },
+    {
+      "time": 57.89,
+      "time_str": "00:57.890",
+      "text": "人怔怔看情感慨",
+      "translation": null
+    },
+    {
+      "time": 61.87,
+      "time_str": "01:01.870",
+      "text": "不能给你未来我还你现在",
+      "translation": null
+    },
+    {
+      "time": 66.25,
+      "time_str": "01:06.250",
+      "text": "安静结束也是另一种对待",
+      "translation": null
+    },
+    {
+      "time": 70.96,
+      "time_str": "01:10.960",
+      "text": "当眼泪留下来",
+      "translation": null
+    },
+    {
+      "time": 72.99,
+      "time_str": "01:12.990",
+      "text": "伤已超载",
+      "translation": null
+    },
+    {
+      "time": 74.96,
+      "time_str": "01:14.960",
+      "text": "分开也是另一种明白",
+      "translation": null
+    },
+    {
+      "time": 78.0,
+      "time_str": "01:18.000",
+      "text": "我给你最后的疼爱是手放开",
+      "translation": null
+    },
+    {
+      "time": 83.25,
+      "time_str": "01:23.250",
+      "text": "不要一张双人床中间隔着一片海",
+      "translation": null
+    },
+    {
+      "time": 87.46,
+      "time_str": "01:27.460",
+      "text": "感情的污点就留给时间慢慢漂白",
+      "translation": null
+    },
+    {
+      "time": 92.57,
+      "time_str": "01:32.570",
+      "text": "把爱收进胸前左边口袋",
+      "translation": null
+    },
+    {
+      "time": 96.66,
+      "time_str": "01:36.660",
+      "text": "最后的疼爱是手放开",
+      "translation": null
+    },
+    {
+      "time": 100.34,
+      "time_str": "01:40.340",
+      "text": "不想用言语拉扯所以选择不责怪",
+      "translation": null
+    },
+    {
+      "time": 104.92,
+      "time_str": "01:44.920",
+      "text": "感情就像候车月台有人走有人来",
+      "translation": null
+    },
+    {
+      "time": 109.53,
+      "time_str": "01:49.530",
+      "text": "我的心是一个站牌",
+      "translation": null
+    },
+    {
+      "time": 114.74,
+      "time_str": "01:54.740",
+      "text": "写着等待",
+      "translation": null
+    },
+    {
+      "time": 132.41,
+      "time_str": "02:12.410",
+      "text": "不能给你未来我还你现在",
+      "translation": null
+    },
+    {
+      "time": 136.98,
+      "time_str": "02:16.980",
+      "text": "安静结束也是另一种对待",
+      "translation": null
+    },
+    {
+      "time": 141.52,
+      "time_str": "02:21.520",
+      "text": "当眼泪留下来",
+      "translation": null
+    },
+    {
+      "time": 143.58,
+      "time_str": "02:23.580",
+      "text": "伤已超载",
+      "translation": null
+    },
+    {
+      "time": 145.48,
+      "time_str": "02:25.480",
+      "text": "分开也是另一种明白",
+      "translation": null
+    },
+    {
+      "time": 148.87,
+      "time_str": "02:28.870",
+      "text": "我给你最后的疼爱是手放开",
+      "translation": null
+    },
+    {
+      "time": 153.91,
+      "time_str": "02:33.910",
+      "text": "不要一张双人床中间隔着一片海",
+      "translation": null
+    },
+    {
+      "time": 158.34,
+      "time_str": "02:38.340",
+      "text": "感情的污点就留给时间慢慢漂白",
+      "translation": null
+    },
+    {
+      "time": 163.16,
+      "time_str": "02:43.160",
+      "text": "把爱收进胸前左边口袋",
+      "translation": null
+    },
+    {
+      "time": 167.37,
+      "time_str": "02:47.370",
+      "text": "最后的疼爱是手放开",
+      "translation": null
+    },
+    {
+      "time": 171.12,
+      "time_str": "02:51.120",
+      "text": "不想用言语拉扯所以选择不责怪",
+      "translation": null
+    },
+    {
+      "time": 175.41,
+      "time_str": "02:55.410",
+      "text": "感情就像候车月台有人走有人来",
+      "translation": null
+    },
+    {
+      "time": 180.19,
+      "time_str": "03:00.190",
+      "text": "我的心是一个站牌",
+      "translation": null
+    },
+    {
+      "time": 185.0,
+      "time_str": "03:05.000",
+      "text": "写着等待",
+      "translation": null
+    },
+    {
+      "time": 189.05,
+      "time_str": "03:09.050",
+      "text": "最后的疼爱是手放开",
+      "translation": null
+    },
+    {
+      "time": 192.33,
+      "time_str": "03:12.330",
+      "text": "不要一张双人床中间隔着一片海",
+      "translation": null
+    },
+    {
+      "time": 197.05,
+      "time_str": "03:17.050",
+      "text": "感情的污点就留给时间慢慢漂白",
+      "translation": null
+    },
+    {
+      "time": 201.63,
+      "time_str": "03:21.630",
+      "text": "把爱收进胸前左边口袋",
+      "translation": null
+    },
+    {
+      "time": 205.84,
+      "time_str": "03:25.840",
+      "text": "最后的疼爱是手放开",
+      "translation": null
+    },
+    {
+      "time": 209.37,
+      "time_str": "03:29.370",
+      "text": "不想用言语拉扯所以选择不责怪",
+      "translation": null
+    },
+    {
+      "time": 214.02,
+      "time_str": "03:34.020",
+      "text": "感情就像候车月台有人走有人来",
+      "translation": null
+    },
+    {
+      "time": 218.67,
+      "time_str": "03:38.670",
+      "text": "我的心是一个站牌",
+      "translation": null
+    },
+    {
+      "time": 221.87,
+      "time_str": "03:41.870",
+      "text": "写着等待",
+      "translation": null
+    },
+    {
+      "time": 227.66,
+      "time_str": "03:47.660",
+      "text": "我把收音机打开听着别人的失败",
+      "translation": null
+    },
+    {
+      "time": 231.84,
+      "time_str": "03:51.840",
+      "text": "哽咽的声音仿佛诉说着相同悲哀",
+      "translation": null
+    },
+    {
+      "time": 236.1,
+      "time_str": "03:56.100",
+      "text": "你的依赖还在胸怀",
+      "translation": null
+    },
+    {
+      "time": 244.42,
+      "time_str": "04:04.420",
+      "text": "我无法轻易推开",
+      "translation": null
+    },
+    {
+      "time": 247.27,
+      "time_str": "04:07.270",
+      "text": "我无法随便走开",
+      "translation": null
+    },
+    {
+      "time": 252.97,
+      "time_str": "04:12.970",
+      "text": "感情中专心的人容易",
+      "translation": null
+    },
+    {
+      "time": 259.17,
+      "time_str": "04:19.170",
+      "text": "被伤害",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "手放开 - 李圣杰.lrc"
+}

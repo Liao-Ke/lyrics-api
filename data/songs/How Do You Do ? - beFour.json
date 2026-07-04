@@ -1,0 +1,364 @@
+{
+  "title": "How Do You Do ?",
+  "title_raw": "How Do You Do ?",
+  "version": null,
+  "artist": "beFour",
+  "group_key": "how do you do ?|befour",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.2,
+      "time_str": "00:14.200",
+      "text": "How do you do",
+      "translation": "你好吗"
+    },
+    {
+      "time": 16.03,
+      "time_str": "00:16.030",
+      "text": "You like me and I like you",
+      "translation": "你喜欢我正如我也一样"
+    },
+    {
+      "time": 17.7,
+      "time_str": "00:17.700",
+      "text": "Come and take me by the hand",
+      "translation": "过来抓紧我的手"
+    },
+    {
+      "time": 19.53,
+      "time_str": "00:19.530",
+      "text": "Cuz I wanna be your friend",
+      "translation": "因为我想成为你的朋友"
+    },
+    {
+      "time": 21.38,
+      "time_str": "00:21.380",
+      "text": "How do you do",
+      "translation": "你好吗"
+    },
+    {
+      "time": 23.05,
+      "time_str": "00:23.050",
+      "text": "You like me and I like you",
+      "translation": "你喜欢我　我喜欢你"
+    },
+    {
+      "time": 24.8,
+      "time_str": "00:24.800",
+      "text": "Say how do you do you do",
+      "translation": "说你会怎么做"
+    },
+    {
+      "time": 25.91,
+      "time_str": "00:25.910",
+      "text": "How do you do you do",
+      "translation": "你好吗你好吗"
+    },
+    {
+      "time": 29.55,
+      "time_str": "00:29.550",
+      "text": "When I`m going on a summer holiday",
+      "translation": "每当我度假的时候"
+    },
+    {
+      "time": 33.45,
+      "time_str": "00:33.450",
+      "text": "And my plane leaves to a place so far away",
+      "translation": "当我飞往遥远的地方"
+    },
+    {
+      "time": 37.21,
+      "time_str": "00:37.210",
+      "text": "I`m so happy cuz its time to celebrate",
+      "translation": "我如此快乐 因为此刻值得庆祝"
+    },
+    {
+      "time": 40.84,
+      "time_str": "00:40.840",
+      "text": "Oh I feel like I could dance",
+      "translation": "oh 我感觉我已在跳舞"
+    },
+    {
+      "time": 44.3,
+      "time_str": "00:44.300",
+      "text": "Different people all around the globe don`t know",
+      "translation": "全世界的人都不知道"
+    },
+    {
+      "time": 47.93,
+      "time_str": "00:47.930",
+      "text": "What to say when there`s a stranger I will show",
+      "translation": "当我这个陌生人出现时该说什么"
+    },
+    {
+      "time": 51.62,
+      "time_str": "00:51.620",
+      "text": "That there is a way you can communicate",
+      "translation": "但有一种方式你会知道"
+    },
+    {
+      "time": 55.02,
+      "time_str": "00:55.020",
+      "text": "Everybody understands",
+      "translation": "你一定知道"
+    },
+    {
+      "time": 57.82,
+      "time_str": "00:57.820",
+      "text": "How do you do",
+      "translation": "你好吗"
+    },
+    {
+      "time": 58.9,
+      "time_str": "00:58.900",
+      "text": "You like me and I like you",
+      "translation": "你喜欢我正如我也一样"
+    },
+    {
+      "time": 60.799,
+      "time_str": "01:00.799",
+      "text": "Come and take me by the hand",
+      "translation": "过来抓紧我的手"
+    },
+    {
+      "time": 62.899,
+      "time_str": "01:02.899",
+      "text": "Cuz I wanna be your friend",
+      "translation": "因为我想成为你的朋友"
+    },
+    {
+      "time": 64.28,
+      "time_str": "01:04.280",
+      "text": "How do you do",
+      "translation": "你会怎么做"
+    },
+    {
+      "time": 66.629,
+      "time_str": "01:06.629",
+      "text": "You like me and I like you",
+      "translation": "我喜欢你　你喜欢我"
+    },
+    {
+      "time": 68.43,
+      "time_str": "01:08.430",
+      "text": "Say how do you do you do",
+      "translation": "说你好吗你好吗"
+    },
+    {
+      "time": 70.14,
+      "time_str": "01:10.140",
+      "text": "How do you do you do",
+      "translation": "你好吗你好吗"
+    },
+    {
+      "time": 71.969,
+      "time_str": "01:11.969",
+      "text": "How do you do",
+      "translation": "你好呀"
+    },
+    {
+      "time": 73.719,
+      "time_str": "01:13.719",
+      "text": "You like me and I like you",
+      "translation": "你喜欢我正如我也一样"
+    },
+    {
+      "time": 75.54,
+      "time_str": "01:15.540",
+      "text": "Come and take me by the hand",
+      "translation": "快来抓紧我的手"
+    },
+    {
+      "time": 77.33,
+      "time_str": "01:17.330",
+      "text": "Cuz I wanna be your friend",
+      "translation": "我想成为你的朋友"
+    },
+    {
+      "time": 79.03,
+      "time_str": "01:19.030",
+      "text": "How do you do",
+      "translation": "你好吗"
+    },
+    {
+      "time": 80.83,
+      "time_str": "01:20.830",
+      "text": "You like me and I like you",
+      "translation": "你喜欢我正如我也一样"
+    },
+    {
+      "time": 82.61,
+      "time_str": "01:22.610",
+      "text": "Say how do you do you do",
+      "translation": "快说你好吗"
+    },
+    {
+      "time": 84.39,
+      "time_str": "01:24.390",
+      "text": "How do you do you do",
+      "translation": "你好吗你好吗"
+    },
+    {
+      "time": 87.099,
+      "time_str": "01:27.099",
+      "text": "How do you do",
+      "translation": "你好啊"
+    },
+    {
+      "time": 102.069,
+      "time_str": "01:42.069",
+      "text": "It`s so easy when you want to make a friend",
+      "translation": "当你想交朋友是如此容易"
+    },
+    {
+      "time": 105.76,
+      "time_str": "01:45.760",
+      "text": "When the sun is shining in a distant land",
+      "translation": "当阳光照在遥远的海岛上"
+    },
+    {
+      "time": 109.4,
+      "time_str": "01:49.400",
+      "text": "There`s a certain feeling that surrounds your mind",
+      "translation": "如此特殊的感觉 围绕着你的心"
+    },
+    {
+      "time": 112.91,
+      "time_str": "01:52.910",
+      "text": "And you feel like you can dance",
+      "translation": "就像你正在跳舞一样"
+    },
+    {
+      "time": 118.28,
+      "time_str": "01:58.280",
+      "text": "When you`re going to the south of Africa",
+      "translation": "当你要去南非的时候"
+    },
+    {
+      "time": 120.81,
+      "time_str": "02:00.810",
+      "text": "To America or to Australia",
+      "translation": "美国或澳大利亚"
+    },
+    {
+      "time": 124.319,
+      "time_str": "02:04.319",
+      "text": "You`ll see people of all colors and all kinds",
+      "translation": "你能看到不同肤色和种族的人们"
+    },
+    {
+      "time": 128.09,
+      "time_str": "02:08.090",
+      "text": "Everybody understands",
+      "translation": "每个人都明白"
+    },
+    {
+      "time": 129.889,
+      "time_str": "02:09.889",
+      "text": "How do you do",
+      "translation": "你好吗"
+    },
+    {
+      "time": 131.49,
+      "time_str": "02:11.490",
+      "text": "You like me and I like you",
+      "translation": "你喜欢我正如我也一样"
+    },
+    {
+      "time": 133.319,
+      "time_str": "02:13.319",
+      "text": "Come and take me by the hand",
+      "translation": "现在握紧我的手"
+    },
+    {
+      "time": 135.06,
+      "time_str": "02:15.060",
+      "text": "Cuz I wanna be your friend",
+      "translation": "我会成为你的朋友"
+    },
+    {
+      "time": 136.289,
+      "time_str": "02:16.289",
+      "text": "How do you do",
+      "translation": "你好吗"
+    },
+    {
+      "time": 138.09,
+      "time_str": "02:18.090",
+      "text": "You like me and I like you",
+      "translation": "你喜欢我正如我也一样"
+    },
+    {
+      "time": 141.05,
+      "time_str": "02:21.050",
+      "text": "Say how do you do you do",
+      "translation": "说你好呀你好"
+    },
+    {
+      "time": 142.84,
+      "time_str": "02:22.840",
+      "text": "How do you do you do",
+      "translation": "你好啊你好"
+    },
+    {
+      "time": 144.58,
+      "time_str": "02:24.580",
+      "text": "How do you do",
+      "translation": "你好吗"
+    },
+    {
+      "time": 146.37,
+      "time_str": "02:26.370",
+      "text": "You like me and I like you",
+      "translation": "你喜欢我正如我也一样"
+    },
+    {
+      "time": 148.159,
+      "time_str": "02:28.159",
+      "text": "Come and take me by the hand",
+      "translation": "现在握紧我的手"
+    },
+    {
+      "time": 149.979,
+      "time_str": "02:29.979",
+      "text": "Cuz I wanna be your friend",
+      "translation": "我会成为你的朋友"
+    },
+    {
+      "time": 151.8,
+      "time_str": "02:31.800",
+      "text": "How do you do",
+      "translation": "你好吗"
+    },
+    {
+      "time": 153.59,
+      "time_str": "02:33.590",
+      "text": "You like me and I like you",
+      "translation": "你喜欢我正如我也一样"
+    },
+    {
+      "time": 155.22,
+      "time_str": "02:35.220",
+      "text": "Say how do you do you do",
+      "translation": "说你好吗你好吗"
+    },
+    {
+      "time": 156.97,
+      "time_str": "02:36.970",
+      "text": "How do you do you do",
+      "translation": "你好吗你好"
+    },
+    {
+      "time": 159.3,
+      "time_str": "02:39.300",
+      "text": "How do you do",
+      "translation": "你好呀"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "How Do You Do ? - beFour.lrc"
+}

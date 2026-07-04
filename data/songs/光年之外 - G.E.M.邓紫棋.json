@@ -1,0 +1,358 @@
+{
+  "title": "光年之外",
+  "title_raw": "光年之外",
+  "version": null,
+  "artist": "G.E.M.邓紫棋",
+  "group_key": "光年之外|g.e.m.邓紫棋",
+  "writers": {
+    "lyricist": "G.E.M.邓紫棋",
+    "composer": "G.E.M.邓紫棋",
+    "arranger": "Lupo Groinig"
+  },
+  "lyrics": [
+    {
+      "time": 12.512,
+      "time_str": "00:12.512",
+      "text": "感受停在我发端的指尖",
+      "translation": null
+    },
+    {
+      "time": 16.573,
+      "time_str": "00:16.573",
+      "text": "如何瞬间冻结时间",
+      "translation": null
+    },
+    {
+      "time": 23.365,
+      "time_str": "00:23.365",
+      "text": "记住望着我坚定的双眼",
+      "translation": null
+    },
+    {
+      "time": 27.308,
+      "time_str": "00:27.308",
+      "text": "也许已经没有明天",
+      "translation": null
+    },
+    {
+      "time": 33.597,
+      "time_str": "00:33.597",
+      "text": "面对浩瀚的星海",
+      "translation": null
+    },
+    {
+      "time": 36.394,
+      "time_str": "00:36.394",
+      "text": "我们微小得像尘埃",
+      "translation": null
+    },
+    {
+      "time": 38.906,
+      "time_str": "00:38.906",
+      "text": "漂浮在一片无奈",
+      "translation": null
+    },
+    {
+      "time": 44.684,
+      "time_str": "00:44.684",
+      "text": "缘分让我们相遇乱世以外",
+      "translation": null
+    },
+    {
+      "time": 50.126,
+      "time_str": "00:50.126",
+      "text": "命运却要我们危难中相爱",
+      "translation": null
+    },
+    {
+      "time": 55.544,
+      "time_str": "00:55.544",
+      "text": "也许未来遥远在光年之外",
+      "translation": null
+    },
+    {
+      "time": 60.989,
+      "time_str": "01:00.989",
+      "text": "我愿守候未知里",
+      "translation": null
+    },
+    {
+      "time": 63.643,
+      "time_str": "01:03.643",
+      "text": "为你等待",
+      "translation": null
+    },
+    {
+      "time": 65.109,
+      "time_str": "01:05.109",
+      "text": "我没想到",
+      "translation": null
+    },
+    {
+      "time": 66.396,
+      "time_str": "01:06.396",
+      "text": "为了你我能疯狂到",
+      "translation": null
+    },
+    {
+      "time": 70.571,
+      "time_str": "01:10.571",
+      "text": "山崩海啸",
+      "translation": null
+    },
+    {
+      "time": 71.786,
+      "time_str": "01:11.786",
+      "text": "没有你根本不想逃",
+      "translation": null
+    },
+    {
+      "time": 76.058,
+      "time_str": "01:16.058",
+      "text": "我的大脑",
+      "translation": null
+    },
+    {
+      "time": 77.327,
+      "time_str": "01:17.327",
+      "text": "为了你已经疯狂到",
+      "translation": null
+    },
+    {
+      "time": 81.477,
+      "time_str": "01:21.477",
+      "text": "脉搏心跳",
+      "translation": null
+    },
+    {
+      "time": 82.718,
+      "time_str": "01:22.718",
+      "text": "没有你根本不重要",
+      "translation": null
+    },
+    {
+      "time": 88.891,
+      "time_str": "01:28.891",
+      "text": "一双围在我胸口的臂弯",
+      "translation": null
+    },
+    {
+      "time": 92.768,
+      "time_str": "01:32.768",
+      "text": "足够抵挡 天旋地转",
+      "translation": null
+    },
+    {
+      "time": 99.6,
+      "time_str": "01:39.600",
+      "text": "一种执迷不放手的倔强",
+      "translation": null
+    },
+    {
+      "time": 103.655,
+      "time_str": "01:43.655",
+      "text": "足以点燃 所有希望",
+      "translation": null
+    },
+    {
+      "time": 110.029,
+      "time_str": "01:50.029",
+      "text": "宇宙磅礴而冷漠",
+      "translation": null
+    },
+    {
+      "time": 112.707,
+      "time_str": "01:52.707",
+      "text": "我们的爱微小却闪烁",
+      "translation": null
+    },
+    {
+      "time": 115.211,
+      "time_str": "01:55.211",
+      "text": "颠簸却如此忘我",
+      "translation": null
+    },
+    {
+      "time": 120.943,
+      "time_str": "02:00.943",
+      "text": "缘分让我们相遇乱世以外",
+      "translation": null
+    },
+    {
+      "time": 126.422,
+      "time_str": "02:06.422",
+      "text": "命运却要我们危难中相爱",
+      "translation": null
+    },
+    {
+      "time": 131.867,
+      "time_str": "02:11.867",
+      "text": "也许未来遥远在光年之外",
+      "translation": null
+    },
+    {
+      "time": 137.382,
+      "time_str": "02:17.382",
+      "text": "我愿守候未知里",
+      "translation": null
+    },
+    {
+      "time": 139.991,
+      "time_str": "02:19.991",
+      "text": "为你等待",
+      "translation": null
+    },
+    {
+      "time": 141.492,
+      "time_str": "02:21.492",
+      "text": "我没想到",
+      "translation": null
+    },
+    {
+      "time": 142.766,
+      "time_str": "02:22.766",
+      "text": "为了你我能疯狂到",
+      "translation": null
+    },
+    {
+      "time": 146.921,
+      "time_str": "02:26.921",
+      "text": "山崩海啸",
+      "translation": null
+    },
+    {
+      "time": 148.18,
+      "time_str": "02:28.180",
+      "text": "没有你根本不想逃",
+      "translation": null
+    },
+    {
+      "time": 152.428,
+      "time_str": "02:32.428",
+      "text": "我的大脑",
+      "translation": null
+    },
+    {
+      "time": 153.668,
+      "time_str": "02:33.668",
+      "text": "为了你已经疯狂到",
+      "translation": null
+    },
+    {
+      "time": 157.788,
+      "time_str": "02:37.788",
+      "text": "脉搏心跳",
+      "translation": null
+    },
+    {
+      "time": 159.124,
+      "time_str": "02:39.124",
+      "text": "没有你根本不重要",
+      "translation": null
+    },
+    {
+      "time": 164.121,
+      "time_str": "02:44.121",
+      "text": "也许航道以外",
+      "translation": null
+    },
+    {
+      "time": 169.628,
+      "time_str": "02:49.628",
+      "text": "是醒不来的梦",
+      "translation": null
+    },
+    {
+      "time": 176.44,
+      "time_str": "02:56.440",
+      "text": "乱世以外",
+      "translation": null
+    },
+    {
+      "time": 180.256,
+      "time_str": "03:00.256",
+      "text": "是纯粹的相拥",
+      "translation": null
+    },
+    {
+      "time": 185.035,
+      "time_str": "03:05.035",
+      "text": "我没想到",
+      "translation": null
+    },
+    {
+      "time": 186.538,
+      "time_str": "03:06.538",
+      "text": "为了你我能疯狂到",
+      "translation": null
+    },
+    {
+      "time": 190.532,
+      "time_str": "03:10.532",
+      "text": "山崩海啸",
+      "translation": null
+    },
+    {
+      "time": 191.871,
+      "time_str": "03:11.871",
+      "text": "没有你根本不想逃",
+      "translation": null
+    },
+    {
+      "time": 196.155,
+      "time_str": "03:16.155",
+      "text": "我的大脑",
+      "translation": null
+    },
+    {
+      "time": 197.343,
+      "time_str": "03:17.343",
+      "text": "为了你已经疯狂到",
+      "translation": null
+    },
+    {
+      "time": 201.483,
+      "time_str": "03:21.483",
+      "text": "脉搏心跳",
+      "translation": null
+    },
+    {
+      "time": 202.687,
+      "time_str": "03:22.687",
+      "text": "没有你根本不重要",
+      "translation": null
+    },
+    {
+      "time": 206.944,
+      "time_str": "03:26.944",
+      "text": "相遇乱世以外",
+      "translation": null
+    },
+    {
+      "time": 212.344,
+      "time_str": "03:32.344",
+      "text": "危难中相爱",
+      "translation": null
+    },
+    {
+      "time": 217.796,
+      "time_str": "03:37.796",
+      "text": "相遇乱世以外",
+      "translation": null
+    },
+    {
+      "time": 223.303,
+      "time_str": "03:43.303",
+      "text": "危难中相爱",
+      "translation": null
+    },
+    {
+      "time": 228.756,
+      "time_str": "03:48.756",
+      "text": "我没想到",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "光年之外 - G.E.M.邓紫棋.lrc"
+}

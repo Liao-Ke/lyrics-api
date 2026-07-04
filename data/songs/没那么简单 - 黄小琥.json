@@ -1,0 +1,382 @@
+{
+  "title": "没那么简单",
+  "title_raw": "没那么简单",
+  "version": null,
+  "artist": "黄小琥",
+  "group_key": "没那么简单|黄小琥",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "萧煌奇",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 20.78,
+      "time_str": "00:20.780",
+      "text": "没那么简单",
+      "translation": null
+    },
+    {
+      "time": 23.17,
+      "time_str": "00:23.170",
+      "text": "就能找到 聊得来的伴",
+      "translation": null
+    },
+    {
+      "time": 28.59,
+      "time_str": "00:28.590",
+      "text": "尤其是在 看过了那么多的背叛",
+      "translation": null
+    },
+    {
+      "time": 35.69,
+      "time_str": "00:35.690",
+      "text": "总是不安 只好强悍",
+      "translation": null
+    },
+    {
+      "time": 42.999,
+      "time_str": "00:42.999",
+      "text": "谁谋杀了我的浪漫",
+      "translation": null
+    },
+    {
+      "time": 48.679,
+      "time_str": "00:48.679",
+      "text": "没那么简单",
+      "translation": null
+    },
+    {
+      "time": 51.639,
+      "time_str": "00:51.639",
+      "text": "就能去爱 别的全不看",
+      "translation": null
+    },
+    {
+      "time": 56.679,
+      "time_str": "00:56.679",
+      "text": "变得实际 也许好也许坏各一半",
+      "translation": null
+    },
+    {
+      "time": 63.609,
+      "time_str": "01:03.609",
+      "text": "不爱孤单 一久也习惯",
+      "translation": null
+    },
+    {
+      "time": 70.95,
+      "time_str": "01:10.950",
+      "text": "不用担心谁 也不用被谁管",
+      "translation": null
+    },
+    {
+      "time": 78.2,
+      "time_str": "01:18.200",
+      "text": "感觉快乐就忙东忙西",
+      "translation": null
+    },
+    {
+      "time": 81.03,
+      "time_str": "01:21.030",
+      "text": "感觉累了就放空自己",
+      "translation": null
+    },
+    {
+      "time": 84.529,
+      "time_str": "01:24.529",
+      "text": "别人说的话 随便听一听",
+      "translation": null
+    },
+    {
+      "time": 88.099,
+      "time_str": "01:28.099",
+      "text": "自己作决定",
+      "translation": null
+    },
+    {
+      "time": 91.579,
+      "time_str": "01:31.579",
+      "text": "不想拥有太多情绪",
+      "translation": null
+    },
+    {
+      "time": 94.909,
+      "time_str": "01:34.909",
+      "text": "一杯红酒配电影",
+      "translation": null
+    },
+    {
+      "time": 98.52,
+      "time_str": "01:38.520",
+      "text": "在周末晚上 关上了手机",
+      "translation": null
+    },
+    {
+      "time": 102.599,
+      "time_str": "01:42.599",
+      "text": "舒服窝在沙发里",
+      "translation": null
+    },
+    {
+      "time": 105.359,
+      "time_str": "01:45.359",
+      "text": "相爱没有那么容易",
+      "translation": null
+    },
+    {
+      "time": 108.879,
+      "time_str": "01:48.879",
+      "text": "每个人有他的脾气",
+      "translation": null
+    },
+    {
+      "time": 112.45,
+      "time_str": "01:52.450",
+      "text": "过了爱做梦的年纪",
+      "translation": null
+    },
+    {
+      "time": 116.299,
+      "time_str": "01:56.299",
+      "text": "轰轰烈烈不如平静",
+      "translation": null
+    },
+    {
+      "time": 119.629,
+      "time_str": "01:59.629",
+      "text": "幸福没有那么容易",
+      "translation": null
+    },
+    {
+      "time": 123.3,
+      "time_str": "02:03.300",
+      "text": "才会特别让人着迷",
+      "translation": null
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "什么都不懂的年纪",
+      "translation": null
+    },
+    {
+      "time": 130.4,
+      "time_str": "02:10.400",
+      "text": "曾经最掏心",
+      "translation": null
+    },
+    {
+      "time": 132.33,
+      "time_str": "02:12.330",
+      "text": "所以最开心 曾经",
+      "translation": null
+    },
+    {
+      "time": 144.61,
+      "time_str": "02:24.610",
+      "text": "没那么简单",
+      "translation": null
+    },
+    {
+      "time": 147.1,
+      "time_str": "02:27.100",
+      "text": "就能去爱 别的全不看",
+      "translation": null
+    },
+    {
+      "time": 152.27,
+      "time_str": "02:32.270",
+      "text": "变得实际 也许好也许坏各一半",
+      "translation": null
+    },
+    {
+      "time": 159.27,
+      "time_str": "02:39.270",
+      "text": "不爱孤单 一久也习惯",
+      "translation": null
+    },
+    {
+      "time": 166.41,
+      "time_str": "02:46.410",
+      "text": "不用担心谁 也不用被谁管",
+      "translation": null
+    },
+    {
+      "time": 173.51,
+      "time_str": "02:53.510",
+      "text": "感觉快乐就忙东忙西",
+      "translation": null
+    },
+    {
+      "time": 177.69,
+      "time_str": "02:57.690",
+      "text": "感觉累了就放空自己",
+      "translation": null
+    },
+    {
+      "time": 181.52,
+      "time_str": "03:01.520",
+      "text": "别人说的话 随便听一听",
+      "translation": null
+    },
+    {
+      "time": 184.97,
+      "time_str": "03:04.970",
+      "text": "自己作决定",
+      "translation": null
+    },
+    {
+      "time": 188.51,
+      "time_str": "03:08.510",
+      "text": "不想拥有太多情绪",
+      "translation": null
+    },
+    {
+      "time": 191.79,
+      "time_str": "03:11.790",
+      "text": "一杯红酒配电影",
+      "translation": null
+    },
+    {
+      "time": 195.74,
+      "time_str": "03:15.740",
+      "text": "在周末晚上 关上了手机",
+      "translation": null
+    },
+    {
+      "time": 199.18,
+      "time_str": "03:19.180",
+      "text": "舒服窝在沙发里",
+      "translation": null
+    },
+    {
+      "time": 202.6,
+      "time_str": "03:22.600",
+      "text": "相爱没有那么容易",
+      "translation": null
+    },
+    {
+      "time": 205.84,
+      "time_str": "03:25.840",
+      "text": "每个人有他的脾气",
+      "translation": null
+    },
+    {
+      "time": 209.42,
+      "time_str": "03:29.420",
+      "text": "过了爱做梦的年纪",
+      "translation": null
+    },
+    {
+      "time": 212.97,
+      "time_str": "03:32.970",
+      "text": "轰轰烈烈不如平静",
+      "translation": null
+    },
+    {
+      "time": 216.42,
+      "time_str": "03:36.420",
+      "text": "幸福没有那么容易",
+      "translation": null
+    },
+    {
+      "time": 220.02,
+      "time_str": "03:40.020",
+      "text": "才会特别让人着迷",
+      "translation": null
+    },
+    {
+      "time": 223.57,
+      "time_str": "03:43.570",
+      "text": "什么都不懂的年纪",
+      "translation": null
+    },
+    {
+      "time": 227.7,
+      "time_str": "03:47.700",
+      "text": "曾经最掏心",
+      "translation": null
+    },
+    {
+      "time": 229.9,
+      "time_str": "03:49.900",
+      "text": "所以最开心 曾经",
+      "translation": null
+    },
+    {
+      "time": 238.0,
+      "time_str": "03:58.000",
+      "text": "相爱没有那么容易",
+      "translation": null
+    },
+    {
+      "time": 241.43,
+      "time_str": "04:01.430",
+      "text": "每个人有他的脾气",
+      "translation": null
+    },
+    {
+      "time": 244.97,
+      "time_str": "04:04.970",
+      "text": "过了爱做梦的年纪",
+      "translation": null
+    },
+    {
+      "time": 248.61,
+      "time_str": "04:08.610",
+      "text": "轰轰烈烈不如平静",
+      "translation": null
+    },
+    {
+      "time": 252.07,
+      "time_str": "04:12.070",
+      "text": "幸福没有那么容易",
+      "translation": null
+    },
+    {
+      "time": 255.57,
+      "time_str": "04:15.570",
+      "text": "才会特别让人着迷",
+      "translation": null
+    },
+    {
+      "time": 259.15,
+      "time_str": "04:19.150",
+      "text": "什么都不懂的年纪",
+      "translation": null
+    },
+    {
+      "time": 263.61,
+      "time_str": "04:23.610",
+      "text": "曾经最掏心",
+      "translation": null
+    },
+    {
+      "time": 265.39,
+      "time_str": "04:25.390",
+      "text": "所以最开心 曾经",
+      "translation": null
+    },
+    {
+      "time": 274.34,
+      "time_str": "04:34.340",
+      "text": "想念最伤心",
+      "translation": null
+    },
+    {
+      "time": 276.45,
+      "time_str": "04:36.450",
+      "text": "但却最动心 的记忆",
+      "translation": null
+    },
+    {
+      "time": 309.417,
+      "time_str": "05:09.417",
+      "text": "混音室 : 白金录音室",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "没那么简单 - 黄小琥.lrc"
+}

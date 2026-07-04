@@ -1,0 +1,520 @@
+{
+  "title": "Ơ Sao Bé Không Lak",
+  "title_raw": "Ơ Sao Bé Không Lak (KAIZ Remix)",
+  "version": "KAIZ Remix",
+  "artist": "KAIZ,BigDaddy,Emily",
+  "group_key": "ơ sao bé không lak|kaiz,bigdaddy,emily",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.448,
+      "time_str": "00:14.448",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何不尽情摇摆"
+    },
+    {
+      "time": 18.258,
+      "time_str": "00:18.258",
+      "text": "Ơ sao bé không lắc",
+      "translation": "为何她不尽情摇摆"
+    },
+    {
+      "time": 21.069,
+      "time_str": "00:21.069",
+      "text": "lắc lư lắc lư",
+      "translation": "摇摆"
+    },
+    {
+      "time": 22.104,
+      "time_str": "00:22.104",
+      "text": "Ơ-ơ sao bé không lắc",
+      "translation": "为何他不摇摆"
+    },
+    {
+      "time": 25.875,
+      "time_str": "00:25.875",
+      "text": "Ơ sao bé không lắc",
+      "translation": "为何她不摇摆"
+    },
+    {
+      "time": 28.747,
+      "time_str": "00:28.747",
+      "text": "lắc lư lắc lư",
+      "translation": "摇摆"
+    },
+    {
+      "time": 31.158,
+      "time_str": "00:31.158",
+      "text": "Chọn một ngày để tắt chiếc phone đi",
+      "translation": "挑个约会时间 关掉手机"
+    },
+    {
+      "time": 33.176,
+      "time_str": "00:33.176",
+      "text": "Mọi buồn rầu và những thứ li ti",
+      "translation": "抛开所有的悲伤"
+    },
+    {
+      "time": 34.505,
+      "time_str": "00:34.505",
+      "text": "Làm ơn trôi đi đi đi",
+      "translation": "尽情摇摆"
+    },
+    {
+      "time": 36.288,
+      "time_str": "00:36.288",
+      "text": "Để yên cho em tối nay party",
+      "translation": "今晚让我独自享受这个派对"
+    },
+    {
+      "time": 38.83,
+      "time_str": "00:38.830",
+      "text": "Tự nhìn lại từ lúc biết yêu đương",
+      "translation": "好好回忆你坠入爱河的那个瞬间"
+    },
+    {
+      "time": 40.806,
+      "time_str": "00:40.806",
+      "text": "Lâu không đi đâu đó một mình",
+      "translation": "不要独自一人远行"
+    },
+    {
+      "time": 42.209,
+      "time_str": "00:42.209",
+      "text": "Thả trôi bao nhiêu ưu tư",
+      "translation": "还有多少艳遇等待邂逅"
+    },
+    {
+      "time": 44.093,
+      "time_str": "00:44.093",
+      "text": "Tự do như cơn gió đưa yeah",
+      "translation": "就像风一样自由"
+    },
+    {
+      "time": 46.485,
+      "time_str": "00:46.485",
+      "text": "Bật to một bài nhạc hay",
+      "translation": "大声播放那首美妙的音乐"
+    },
+    {
+      "time": 48.404,
+      "time_str": "00:48.404",
+      "text": "Đạp ga vài giờ tới ngay",
+      "translation": "现在踩下油门 尽情驰骋"
+    },
+    {
+      "time": 50.322,
+      "time_str": "00:50.322",
+      "text": "Không bao lâu trước mắt sẽ là biển xanh nắng chiều tà yeah",
+      "translation": "很快就会见到那片碧蓝的海洋"
+    },
+    {
+      "time": 54.194,
+      "time_str": "00:54.194",
+      "text": "Hoàng hôn nhẹ nhàng chìm xuống",
+      "translation": "朝阳温柔地现身"
+    },
+    {
+      "time": 56.096,
+      "time_str": "00:56.096",
+      "text": "Ngẩn ngơ lặng thầm đứng nhìn",
+      "translation": "静静地观赏"
+    },
+    {
+      "time": 58.023,
+      "time_str": "00:58.023",
+      "text": "Không trông mong nơi đâu thích hơn vì ở đây cũng như phim",
+      "translation": "世界上仅此一处 就像电影场景一般"
+    },
+    {
+      "time": 61.855,
+      "time_str": "01:01.855",
+      "text": "Phải làm gì để ngừng suy tư",
+      "translation": "不要停止你的思绪"
+    },
+    {
+      "time": 63.791,
+      "time_str": "01:03.791",
+      "text": "Phải làm gì để mình vui hơn",
+      "translation": "要做些什么才能让我更加快乐"
+    },
+    {
+      "time": 65.711,
+      "time_str": "01:05.711",
+      "text": "Phải làm gì vì em muốn quên",
+      "translation": "我该怎样才能忘记"
+    },
+    {
+      "time": 67.153,
+      "time_str": "01:07.153",
+      "text": "Em muốn không còn buồn",
+      "translation": "我不想再如此悲伤"
+    },
+    {
+      "time": 69.554,
+      "time_str": "01:09.554",
+      "text": "Phải làm gì để ngừng âu lo",
+      "translation": "不想再如此担忧"
+    },
+    {
+      "time": 71.444,
+      "time_str": "01:11.444",
+      "text": "Phải làm gì để mình vui hơn",
+      "translation": "要做些什么才能让我更加快乐"
+    },
+    {
+      "time": 73.426,
+      "time_str": "01:13.426",
+      "text": "Phải làm gì vì em muốn quên",
+      "translation": "我该做些什么 因为我想要忘记"
+    },
+    {
+      "time": 74.875,
+      "time_str": "01:14.875",
+      "text": "Em muốn không còn buồn",
+      "translation": "我不想再如此悲伤"
+    },
+    {
+      "time": 75.837,
+      "time_str": "01:15.837",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 79.689,
+      "time_str": "01:19.689",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 82.521,
+      "time_str": "01:22.521",
+      "text": "lắc lư lắc lư",
+      "translation": "尽情摇摆"
+    },
+    {
+      "time": 83.53,
+      "time_str": "01:23.530",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 87.362,
+      "time_str": "01:27.362",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 90.179,
+      "time_str": "01:30.179",
+      "text": "lắc lư lắc lư",
+      "translation": "尽情摇摆"
+    },
+    {
+      "time": 91.224,
+      "time_str": "01:31.224",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 95.001,
+      "time_str": "01:35.001",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 97.869,
+      "time_str": "01:37.869",
+      "text": "lắc lư lắc lư",
+      "translation": "尽情摇摆"
+    },
+    {
+      "time": 98.984,
+      "time_str": "01:38.984",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 102.691,
+      "time_str": "01:42.691",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 105.527,
+      "time_str": "01:45.527",
+      "text": "lắc lư lắc lư",
+      "translation": "尽情摇摆"
+    },
+    {
+      "time": 106.561,
+      "time_str": "01:46.561",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 110.784,
+      "time_str": "01:50.784",
+      "text": "Ay, yeah-yeah, hình như em không phải là người local",
+      "translation": "我看起来并不像本地人"
+    },
+    {
+      "time": 117.702,
+      "time_str": "01:57.702",
+      "text": "Hình như em không thích đến những nơi ăn chơi xô bồ",
+      "translation": "我并不是来这里吃喝玩乐的"
+    },
+    {
+      "time": 119.151,
+      "time_str": "01:59.151",
+      "text": "Nhìn em kiêu kì như một cô gái phố cổ",
+      "translation": "你看起来像个旧城姑娘"
+    },
+    {
+      "time": 121.18,
+      "time_str": "02:01.180",
+      "text": "Nói chung em cũng khó đoán cứ như là knuckleball",
+      "translation": "平心而论 我就像knuckleball一样不可思议"
+    },
+    {
+      "time": 123.435,
+      "time_str": "02:03.435",
+      "text": "Vậy còn ngại ngùng gì nữa mà nhảy nhót vẫn chưa sáng",
+      "translation": "为何不敢尽情舞蹈"
+    },
+    {
+      "time": 125.188,
+      "time_str": "02:05.188",
+      "text": "Mặt mũi trông cũng xinh xắn mỗi tội hơi đưa đám",
+      "translation": "每当你起舞的时候 身姿是那么美丽"
+    },
+    {
+      "time": 127.184,
+      "time_str": "02:07.184",
+      "text": "Ta đã đi một chặng đường dài để thấy biển xanh nắng vàng",
+      "translation": "我走了很远的路 只为来沐浴阳光"
+    },
+    {
+      "time": 128.743,
+      "time_str": "02:08.743",
+      "text": "Sao không cùng lắc lư để ta được phép ngắm nàng",
+      "translation": "为何你不与我一起跳舞 这样我就能看到你的身影"
+    },
+    {
+      "time": 130.465,
+      "time_str": "02:10.465",
+      "text": "Trông em ngon nghê trong bikini",
+      "translation": "拿着铂金包的你看起来是如此美丽"
+    },
+    {
+      "time": 131.632,
+      "time_str": "02:11.632",
+      "text": "The Face vẫn chưa đủ tầm để được mời em đi thi",
+      "translation": "那些庸脂俗粉根本没资格邀我入场"
+    },
+    {
+      "time": 132.855,
+      "time_str": "02:12.855",
+      "text": "Em biết là anh đang muốn gì?",
+      "translation": "我知道 你想要做什么"
+    },
+    {
+      "time": 134.362,
+      "time_str": "02:14.362",
+      "text": "Do you wanna dance with me?",
+      "translation": "你想要和我一起跳舞吗"
+    },
+    {
+      "time": 135.668,
+      "time_str": "02:15.668",
+      "text": "Pop champagne tu nguyên chai không cần ly",
+      "translation": "香槟倒入杯中 让我一饮而尽"
+    },
+    {
+      "time": 137.441,
+      "time_str": "02:17.441",
+      "text": "Nào giờ thì ơ sao bé không lắc",
+      "translation": "现在为何你不尽情舞蹈"
+    },
+    {
+      "time": 138.302,
+      "time_str": "02:18.302",
+      "text": "Ơ-ơ-ơ-ơ sao bé không lắc",
+      "translation": "为何他不尽情摇摆"
+    },
+    {
+      "time": 139.794,
+      "time_str": "02:19.794",
+      "text": "Bởi vì em đã thích nên em không có đề phòng",
+      "translation": "因为我喜欢这样 我不会采取什么安全措施"
+    },
+    {
+      "time": 140.653,
+      "time_str": "02:20.653",
+      "text": "Vậy nên cứ ăn chơi nhảy múa rồi lát mình cùng về phòng",
+      "translation": "品尝美食 尽情舞蹈 在这个房间里嗨上天"
+    },
+    {
+      "time": 142.501,
+      "time_str": "02:22.501",
+      "text": "Phải làm gì để ngừng suy tư",
+      "translation": "不要停止你的思绪"
+    },
+    {
+      "time": 144.422,
+      "time_str": "02:24.422",
+      "text": "Phải làm gì để mình vui hơn",
+      "translation": "要做些什么才能让我更加快乐"
+    },
+    {
+      "time": 146.296,
+      "time_str": "02:26.296",
+      "text": "Phải làm gì vì em muốn quên",
+      "translation": "我该怎样才能忘记"
+    },
+    {
+      "time": 147.769,
+      "time_str": "02:27.769",
+      "text": "Em muốn không còn buồn",
+      "translation": "我不想再如此悲伤"
+    },
+    {
+      "time": 150.19,
+      "time_str": "02:30.190",
+      "text": "Phải làm gì để ngừng âu lo",
+      "translation": "不想再如此担忧"
+    },
+    {
+      "time": 152.106,
+      "time_str": "02:32.106",
+      "text": "Phải làm gì để mình vui hơn",
+      "translation": "要做些什么才能让我更加快乐"
+    },
+    {
+      "time": 154.01,
+      "time_str": "02:34.010",
+      "text": "Phải làm gì vì em muốn quên",
+      "translation": "我该做些什么 因为我想要忘记"
+    },
+    {
+      "time": 155.45,
+      "time_str": "02:35.450",
+      "text": "Em muốn không còn buồn",
+      "translation": "我不想再如此悲伤"
+    },
+    {
+      "time": 156.462,
+      "time_str": "02:36.462",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 164.241,
+      "time_str": "02:44.241",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 168.015,
+      "time_str": "02:48.015",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 170.838,
+      "time_str": "02:50.838",
+      "text": "lắc lư lắc lư",
+      "translation": "尽情摇摆"
+    },
+    {
+      "time": 171.875,
+      "time_str": "02:51.875",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 175.672,
+      "time_str": "02:55.672",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 178.494,
+      "time_str": "02:58.494",
+      "text": "lắc lư lắc lư",
+      "translation": "尽情摇摆"
+    },
+    {
+      "time": 179.493,
+      "time_str": "02:59.493",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 183.365,
+      "time_str": "03:03.365",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 186.217,
+      "time_str": "03:06.217",
+      "text": "lắc lư lắc lư",
+      "translation": "尽情摇摆"
+    },
+    {
+      "time": 187.191,
+      "time_str": "03:07.191",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 191.008,
+      "time_str": "03:11.008",
+      "text": "Ơ sao bé không lắc lắc lắc lắc",
+      "translation": "为何你不尽情摇摆"
+    },
+    {
+      "time": 193.899,
+      "time_str": "03:13.899",
+      "text": "lắc lư lắc lư",
+      "translation": "尽情摇摆"
+    },
+    {
+      "time": 194.913,
+      "time_str": "03:14.913",
+      "text": "Ơ sao bé không lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 198.743,
+      "time_str": "03:18.743",
+      "text": "Ơ sao bé không lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 202.562,
+      "time_str": "03:22.562",
+      "text": "Ơ sao bé không lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 206.407,
+      "time_str": "03:26.407",
+      "text": "Ơ sao bé không lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    },
+    {
+      "time": 210.279,
+      "time_str": "03:30.279",
+      "text": "Ơ sao bé không lắc",
+      "translation": "为何你不摇摆身体 宝贝"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Ơ Sao Bé Không Lak (KAIZ Remix) - KAIZ,BigDaddy,Emily.lrc"
+}

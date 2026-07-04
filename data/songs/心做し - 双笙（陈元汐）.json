@@ -1,0 +1,322 @@
+{
+  "title": "心做し",
+  "title_raw": "心做し",
+  "version": null,
+  "artist": "双笙（陈元汐）",
+  "group_key": "心做し|双笙（陈元汐）",
+  "writers": {
+    "lyricist": "一之瀬ユウ",
+    "composer": "一之瀬ユウ",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.74,
+      "time_str": "00:01.740",
+      "text": "ねぇもしも",
+      "translation": "呐，如果.."
+    },
+    {
+      "time": 3.9,
+      "time_str": "00:03.900",
+      "text": "全て投げ捨てられたら",
+      "translation": "能将一切舍弃的话"
+    },
+    {
+      "time": 7.48,
+      "time_str": "00:07.480",
+      "text": "笑って生きることが楽になるの",
+      "translation": "笑着活下去这样的事就会变的轻松吗？"
+    },
+    {
+      "time": 12.9,
+      "time_str": "00:12.900",
+      "text": "また胸が痛くなるから",
+      "translation": "胸口又再疼痛起来了呢"
+    },
+    {
+      "time": 17.3,
+      "time_str": "00:17.300",
+      "text": "もう何も言わないでよ",
+      "translation": "够了什么都不要说了啊"
+    },
+    {
+      "time": 47.4,
+      "time_str": "00:47.400",
+      "text": "ねぇもしも",
+      "translation": "呐，如果..."
+    },
+    {
+      "time": 48.9,
+      "time_str": "00:48.900",
+      "text": "全て忘れられたなら",
+      "translation": "一切都能尽数忘却的话"
+    },
+    {
+      "time": 52.85,
+      "time_str": "00:52.850",
+      "text": "泣かないで生きることも 楽になるの",
+      "translation": "不再哭泣而活下去这事也会变得轻松吗？"
+    },
+    {
+      "time": 58.73,
+      "time_str": "00:58.730",
+      "text": "でもそんな事出来ないから",
+      "translation": "然而那般的事貌似是不可能的呢"
+    },
+    {
+      "time": 62.91,
+      "time_str": "01:02.910",
+      "text": "もう何も見せないでよ",
+      "translation": "够了什么都不要再给我看啊"
+    },
+    {
+      "time": 68.52,
+      "time_str": "01:08.520",
+      "text": "君にどれだけ近づいても",
+      "translation": "就算再怎样接近你"
+    },
+    {
+      "time": 74.3,
+      "time_str": "01:14.300",
+      "text": "僕の心臓は一つだけ",
+      "translation": "我的心脏也是仅此唯一一个的"
+    },
+    {
+      "time": 80.52,
+      "time_str": "01:20.520",
+      "text": "酷いよ酷いよ",
+      "translation": "太残酷了 太残酷了"
+    },
+    {
+      "time": 82.72,
+      "time_str": "01:22.720",
+      "text": "もういっそ僕の体を",
+      "translation": "干脆将我的身体"
+    },
+    {
+      "time": 85.72,
+      "time_str": "01:25.720",
+      "text": "壊して引き裂いて",
+      "translation": "破坏吧！撕裂吧！"
+    },
+    {
+      "time": 88.6,
+      "time_str": "01:28.600",
+      "text": "好きなようにしてよ",
+      "translation": "随你喜欢地处置吧"
+    },
+    {
+      "time": 91.3,
+      "time_str": "01:31.300",
+      "text": "叫んで藻掻いて",
+      "translation": "不论怎样呼叫、挣扎"
+    },
+    {
+      "time": 94.1,
+      "time_str": "01:34.100",
+      "text": "瞼を腫らしても",
+      "translation": "就算哭得双眼红肿也好"
+    },
+    {
+      "time": 97.0,
+      "time_str": "01:37.000",
+      "text": "まだ君は僕の事を",
+      "translation": "你还是..."
+    },
+    {
+      "time": 99.85,
+      "time_str": "01:39.850",
+      "text": "抱きしめて離さない",
+      "translation": "紧抱着我永不分离"
+    },
+    {
+      "time": 102.76,
+      "time_str": "01:42.760",
+      "text": "もういいよ",
+      "translation": "已经够了啊！"
+    },
+    {
+      "time": 115.64,
+      "time_str": "01:55.640",
+      "text": "ねぇもしも",
+      "translation": "呐，如果..."
+    },
+    {
+      "time": 117.75,
+      "time_str": "01:57.750",
+      "text": "僕の願いが叶うなら",
+      "translation": "我的愿望能得以实现的话"
+    },
+    {
+      "time": 121.15,
+      "time_str": "02:01.150",
+      "text": "君と同じものが欲しいんだ",
+      "translation": "我想要得到与你相同的事物呢"
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "でも僕には存在しないから",
+      "translation": "但因为对我而言 那样的喜欢并不存在"
+    },
+    {
+      "time": 131.45,
+      "time_str": "02:11.450",
+      "text": "じゃあ せめて此処に来てよ",
+      "translation": "所以...希望你到我这来啊"
+    },
+    {
+      "time": 141.1,
+      "time_str": "02:21.100",
+      "text": "あ",
+      "translation": null
+    },
+    {
+      "time": 162.3,
+      "time_str": "02:42.300",
+      "text": "君にどれだけ愛されても",
+      "translation": "就算有多被你所爱"
+    },
+    {
+      "time": 168.09,
+      "time_str": "02:48.090",
+      "text": "僕の心臓は一つだけ",
+      "translation": "我的心脏也是仅此唯一一个的"
+    },
+    {
+      "time": 173.78,
+      "time_str": "02:53.780",
+      "text": "やめてよやめてよ",
+      "translation": "住手吧 住手吧"
+    },
+    {
+      "time": 176.5,
+      "time_str": "02:56.500",
+      "text": "優しくしないでよ",
+      "translation": "不要对我那么温柔啊"
+    },
+    {
+      "time": 179.39,
+      "time_str": "02:59.390",
+      "text": "どうしても僕には",
+      "translation": "不论怎样.."
+    },
+    {
+      "time": 182.3,
+      "time_str": "03:02.300",
+      "text": "理解ができないよ",
+      "translation": "我都无法理解"
+    },
+    {
+      "time": 185.06,
+      "time_str": "03:05.060",
+      "text": "痛いよ痛いよ",
+      "translation": "好痛啊 好痛啊"
+    },
+    {
+      "time": 188.01,
+      "time_str": "03:08.010",
+      "text": "言葉で教えてよ",
+      "translation": "用言语教教我吧"
+    },
+    {
+      "time": 190.8,
+      "time_str": "03:10.800",
+      "text": "こんなの知らないよ",
+      "translation": "这样的事我不懂啊"
+    },
+    {
+      "time": 193.66,
+      "time_str": "03:13.660",
+      "text": "独りにしないで",
+      "translation": "不要让我独自一人"
+    },
+    {
+      "time": 196.6,
+      "time_str": "03:16.600",
+      "text": "酷いよ酷いよ",
+      "translation": "太残酷了 太残酷了"
+    },
+    {
+      "time": 199.18,
+      "time_str": "03:19.180",
+      "text": "もういっそ僕の体を",
+      "translation": "干脆将我的身体"
+    },
+    {
+      "time": 202.21,
+      "time_str": "03:22.210",
+      "text": "壊して引き裂いて",
+      "translation": "破坏吧 撕裂吧"
+    },
+    {
+      "time": 204.97,
+      "time_str": "03:24.970",
+      "text": "好きなようにしてよ",
+      "translation": "随你喜欢地处置吧"
+    },
+    {
+      "time": 207.8,
+      "time_str": "03:27.800",
+      "text": "叫んで藻掻いて",
+      "translation": "不论怎样呼叫、挣扎"
+    },
+    {
+      "time": 210.55,
+      "time_str": "03:30.550",
+      "text": "瞼を腫らしても",
+      "translation": "哭得双眼红肿也好"
+    },
+    {
+      "time": 213.54,
+      "time_str": "03:33.540",
+      "text": "まだ君は僕の事を",
+      "translation": "你还是.."
+    },
+    {
+      "time": 216.25,
+      "time_str": "03:36.250",
+      "text": "抱きしめて離さない",
+      "translation": "紧抱着我永不分离"
+    },
+    {
+      "time": 219.29,
+      "time_str": "03:39.290",
+      "text": "もういいよ",
+      "translation": "已经够了啊"
+    },
+    {
+      "time": 243.59,
+      "time_str": "04:03.590",
+      "text": "ねぇもしも",
+      "translation": "呐，如果..."
+    },
+    {
+      "time": 244.87,
+      "time_str": "04:04.870",
+      "text": "僕に心があるなら",
+      "translation": "我有一颗跳动着的心的话"
+    },
+    {
+      "time": 249.06,
+      "time_str": "04:09.060",
+      "text": "どうやってそれを 見つければいいの",
+      "translation": "那我该怎样去寻找才好呢？"
+    },
+    {
+      "time": 254.8,
+      "time_str": "04:14.800",
+      "text": "少し微笑んで君が言う",
+      "translation": "你颔首微笑"
+    },
+    {
+      "time": 259.13,
+      "time_str": "04:19.130",
+      "text": "「それはねここにあるよ」",
+      "translation": "「那个呢，就在这里啊」"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "心做し - 双笙（陈元汐）.lrc"
+}

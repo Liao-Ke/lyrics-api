@@ -1,0 +1,400 @@
+{
+  "title": "不想长大",
+  "title_raw": "不想长大",
+  "version": null,
+  "artist": "S.H.E",
+  "group_key": "不想长大|s.h.e",
+  "writers": {
+    "lyricist": "施人诚",
+    "composer": "左安安",
+    "arranger": "陈台证"
+  },
+  "lyrics": [
+    {
+      "time": 20.67,
+      "time_str": "00:20.670",
+      "text": "为什么就是找不到",
+      "translation": null
+    },
+    {
+      "time": 23.08,
+      "time_str": "00:23.080",
+      "text": "不谢的玫瑰花",
+      "translation": null
+    },
+    {
+      "time": 25.56,
+      "time_str": "00:25.560",
+      "text": "为什么遇见的王子",
+      "translation": null
+    },
+    {
+      "time": 27.96,
+      "time_str": "00:27.960",
+      "text": "都不够王子啊",
+      "translation": null
+    },
+    {
+      "time": 30.72,
+      "time_str": "00:30.720",
+      "text": "我并不期盼他会有",
+      "translation": null
+    },
+    {
+      "time": 33.07,
+      "time_str": "00:33.070",
+      "text": "玻璃鞋和白马",
+      "translation": null
+    },
+    {
+      "time": 35.92,
+      "time_str": "00:35.920",
+      "text": "我惊讶的是 情话竟然",
+      "translation": null
+    },
+    {
+      "time": 38.53,
+      "time_str": "00:38.530",
+      "text": "会变成谎话",
+      "translation": null
+    },
+    {
+      "time": 41.3,
+      "time_str": "00:41.300",
+      "text": "为什么幸福的青鸟",
+      "translation": null
+    },
+    {
+      "time": 43.69,
+      "time_str": "00:43.690",
+      "text": "要飞得那么高",
+      "translation": null
+    },
+    {
+      "time": 46.06,
+      "time_str": "00:46.060",
+      "text": "为什么苹果和拥抱",
+      "translation": null
+    },
+    {
+      "time": 48.83,
+      "time_str": "00:48.830",
+      "text": "都可能是毒药",
+      "translation": null
+    },
+    {
+      "time": 51.31,
+      "time_str": "00:51.310",
+      "text": "我从没想过有了他",
+      "translation": null
+    },
+    {
+      "time": 53.96,
+      "time_str": "00:53.960",
+      "text": "还孤单得可怕",
+      "translation": null
+    },
+    {
+      "time": 56.5,
+      "time_str": "00:56.500",
+      "text": "我突然想起从前陪我那个洋娃娃",
+      "translation": null
+    },
+    {
+      "time": 61.62,
+      "time_str": "01:01.620",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 64.24,
+      "time_str": "01:04.240",
+      "text": "长大后 世界就 没童话",
+      "translation": null
+    },
+    {
+      "time": 66.86,
+      "time_str": "01:06.860",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 69.42,
+      "time_str": "01:09.420",
+      "text": "我宁愿 永远都 笨又傻",
+      "translation": null
+    },
+    {
+      "time": 71.21,
+      "time_str": "01:11.210",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 74.52,
+      "time_str": "01:14.520",
+      "text": "长大后 我就会 失去他",
+      "translation": null
+    },
+    {
+      "time": 77.02,
+      "time_str": "01:17.020",
+      "text": "我深爱的他 深爱我的他",
+      "translation": null
+    },
+    {
+      "time": 79.71,
+      "time_str": "01:19.710",
+      "text": "已经变得不像他",
+      "translation": null
+    },
+    {
+      "time": 82.25,
+      "time_str": "01:22.250",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 84.8,
+      "time_str": "01:24.800",
+      "text": "长大后 世界就 没童话",
+      "translation": null
+    },
+    {
+      "time": 87.32,
+      "time_str": "01:27.320",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 90.02,
+      "time_str": "01:30.020",
+      "text": "我宁愿 永远都 笨又傻",
+      "translation": null
+    },
+    {
+      "time": 92.49,
+      "time_str": "01:32.490",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 95.02,
+      "time_str": "01:35.020",
+      "text": "长大后 我就会 失去他",
+      "translation": null
+    },
+    {
+      "time": 97.73,
+      "time_str": "01:37.730",
+      "text": "我深爱的他 深爱我的他",
+      "translation": null
+    },
+    {
+      "time": 100.29,
+      "time_str": "01:40.290",
+      "text": "怎么会 爱上别个她",
+      "translation": null
+    },
+    {
+      "time": 123.36,
+      "time_str": "02:03.360",
+      "text": "为什么水晶球里面",
+      "translation": null
+    },
+    {
+      "time": 126.63,
+      "time_str": "02:06.630",
+      "text": "看不出他在变",
+      "translation": null
+    },
+    {
+      "time": 128.74,
+      "time_str": "02:08.740",
+      "text": "为什么结局没欢笑",
+      "translation": null
+    },
+    {
+      "time": 130.91,
+      "time_str": "02:10.910",
+      "text": "而是泪流满面",
+      "translation": null
+    },
+    {
+      "time": 133.88,
+      "time_str": "02:13.880",
+      "text": "我愿意在他回来前",
+      "translation": null
+    },
+    {
+      "time": 136.34,
+      "time_str": "02:16.340",
+      "text": "继续安静沉睡",
+      "translation": null
+    },
+    {
+      "time": 139.01,
+      "time_str": "02:19.010",
+      "text": "但他已去到别座城堡",
+      "translation": null
+    },
+    {
+      "time": 141.88,
+      "time_str": "02:21.880",
+      "text": "吻另一双嘴",
+      "translation": null
+    },
+    {
+      "time": 144.33,
+      "time_str": "02:24.330",
+      "text": "为什么对流星许愿",
+      "translation": null
+    },
+    {
+      "time": 146.63,
+      "time_str": "02:26.630",
+      "text": "却从来没实现",
+      "translation": null
+    },
+    {
+      "time": 149.36,
+      "time_str": "02:29.360",
+      "text": "为什么英勇的骑士",
+      "translation": null
+    },
+    {
+      "time": 151.77,
+      "time_str": "02:31.770",
+      "text": "会比龙还危险",
+      "translation": null
+    },
+    {
+      "time": 154.48,
+      "time_str": "02:34.480",
+      "text": "我当然知道这世界",
+      "translation": null
+    },
+    {
+      "time": 156.95,
+      "time_str": "02:36.950",
+      "text": "不会完美无暇",
+      "translation": null
+    },
+    {
+      "time": 159.66,
+      "time_str": "02:39.660",
+      "text": "我只求爱情能够不要那么样复杂",
+      "translation": null
+    },
+    {
+      "time": 165.01,
+      "time_str": "02:45.010",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 167.3,
+      "time_str": "02:47.300",
+      "text": "长大后 世界就 没童话",
+      "translation": null
+    },
+    {
+      "time": 169.88,
+      "time_str": "02:49.880",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 172.55,
+      "time_str": "02:52.550",
+      "text": "我宁愿 永远都 笨又傻",
+      "translation": null
+    },
+    {
+      "time": 174.99,
+      "time_str": "02:54.990",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 177.59,
+      "time_str": "02:57.590",
+      "text": "长大后 我就会 失去他",
+      "translation": null
+    },
+    {
+      "time": 180.22,
+      "time_str": "03:00.220",
+      "text": "我深爱的他 深爱我的他",
+      "translation": null
+    },
+    {
+      "time": 182.72,
+      "time_str": "03:02.720",
+      "text": "怎么会爱上别个她",
+      "translation": null
+    },
+    {
+      "time": 187.24,
+      "time_str": "03:07.240",
+      "text": "让我们回去从前好不好",
+      "translation": null
+    },
+    {
+      "time": 191.32,
+      "time_str": "03:11.320",
+      "text": "天真愚蠢快乐美好",
+      "translation": null
+    },
+    {
+      "time": 197.85,
+      "time_str": "03:17.850",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 201.08,
+      "time_str": "03:21.080",
+      "text": "长大后 世界就 没童话",
+      "translation": null
+    },
+    {
+      "time": 203.53,
+      "time_str": "03:23.530",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 206.11,
+      "time_str": "03:26.110",
+      "text": "我宁愿 永远都 笨又傻",
+      "translation": null
+    },
+    {
+      "time": 208.55,
+      "time_str": "03:28.550",
+      "text": "我不想 我不想 不想长大",
+      "translation": null
+    },
+    {
+      "time": 211.12,
+      "time_str": "03:31.120",
+      "text": "长大后 我就会 失去他",
+      "translation": null
+    },
+    {
+      "time": 213.63,
+      "time_str": "03:33.630",
+      "text": "我深爱的他 深爱我的他",
+      "translation": null
+    },
+    {
+      "time": 216.49,
+      "time_str": "03:36.490",
+      "text": "怎么会 爱上别个她",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不想长大 - S.H.E.lrc"
+}

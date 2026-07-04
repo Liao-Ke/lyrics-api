@@ -1,0 +1,274 @@
+{
+  "title": "Bye Bye Bye",
+  "title_raw": "Bye Bye Bye",
+  "version": null,
+  "artist": "Lovestoned",
+  "group_key": "bye bye bye|lovestoned",
+  "writers": {
+    "lyricist": "Kristian Lundin/Jake Schulze/Andreas Carlsson",
+    "composer": "Emma Rohan/Gandolf Roudette Muschamp/Joshua Thompson",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.14,
+      "time_str": "00:10.140",
+      "text": "When I see you",
+      "translation": "当我看到你"
+    },
+    {
+      "time": 12.5,
+      "time_str": "00:12.500",
+      "text": "looking back at me",
+      "translation": "回头看着我"
+    },
+    {
+      "time": 15.0,
+      "time_str": "00:15.000",
+      "text": "Watching this eye still",
+      "translation": "我们一直对视"
+    },
+    {
+      "time": 17.74,
+      "time_str": "00:17.740",
+      "text": "through your fingers",
+      "translation": "经过你的手指"
+    },
+    {
+      "time": 21.04,
+      "time_str": "00:21.040",
+      "text": "and your eyes",
+      "translation": "你的眼睛"
+    },
+    {
+      "time": 23.1,
+      "time_str": "00:23.100",
+      "text": "have told a thousand lies",
+      "translation": "有无数道的谎言"
+    },
+    {
+      "time": 25.52,
+      "time_str": "00:25.520",
+      "text": "but I can't tell this time",
+      "translation": "但我还是"
+    },
+    {
+      "time": 28.19,
+      "time_str": "00:28.190",
+      "text": "that you really mean it",
+      "translation": "无法理解你的意思"
+    },
+    {
+      "time": 32.99,
+      "time_str": "00:32.990",
+      "text": "We've been crossing the wire",
+      "translation": "我们遇见彼此"
+    },
+    {
+      "time": 36.04,
+      "time_str": "00:36.040",
+      "text": "and still no spark",
+      "translation": "但还是没能擦出火花"
+    },
+    {
+      "time": 38.64,
+      "time_str": "00:38.640",
+      "text": "lost and tired, falling apart",
+      "translation": "迷失，疲倦，最终分离"
+    },
+    {
+      "time": 41.88,
+      "time_str": "00:41.880",
+      "text": "we've been together for forever tell me why why why",
+      "translation": "我们曾说要永远在一起告诉我为什么"
+    },
+    {
+      "time": 47.6,
+      "time_str": "00:47.600",
+      "text": "Did we have to turn around and say goodbye bye bye",
+      "translation": "我们真的要转身对彼此说再见吗"
+    },
+    {
+      "time": 52.9,
+      "time_str": "00:52.900",
+      "text": "and the only thing that's left to do is cry cry cry",
+      "translation": "而且我唯一剩下能做的事情就是哭泣"
+    },
+    {
+      "time": 58.31,
+      "time_str": "00:58.310",
+      "text": "nothing left for me to say to you but bye bye bye",
+      "translation": "除了再见之外我不能再说些什么"
+    },
+    {
+      "time": 74.11,
+      "time_str": "01:14.110",
+      "text": "I can sing another broken song",
+      "translation": "我可以唱一首伤心的歌曲"
+    },
+    {
+      "time": 78.78,
+      "time_str": "01:18.780",
+      "text": "trying to hold on to your picture.",
+      "translation": "尝试抓住你的照片"
+    },
+    {
+      "time": 85.14,
+      "time_str": "01:25.140",
+      "text": "out of face",
+      "translation": "你消失了"
+    },
+    {
+      "time": 87.07,
+      "time_str": "01:27.070",
+      "text": "you hide behind your face",
+      "translation": "躲在人群中"
+    },
+    {
+      "time": 89.62,
+      "time_str": "01:29.620",
+      "text": "it's more than I can take",
+      "translation": "我无能为力"
+    },
+    {
+      "time": 92.3,
+      "time_str": "01:32.300",
+      "text": "I know you run deeper",
+      "translation": "你越陷越深"
+    },
+    {
+      "time": 97.18,
+      "time_str": "01:37.180",
+      "text": "We've been crossing the wire",
+      "translation": "我们遇见彼此"
+    },
+    {
+      "time": 100.02,
+      "time_str": "01:40.020",
+      "text": "and still no spark",
+      "translation": "但还是没能擦出火花"
+    },
+    {
+      "time": 102.83,
+      "time_str": "01:42.830",
+      "text": "lost and tired, falling apart",
+      "translation": "迷失，疲倦，最终分离"
+    },
+    {
+      "time": 105.81,
+      "time_str": "01:45.810",
+      "text": "we've been together for forever tell me why why why",
+      "translation": "我们曾说要永远在一起告诉我为什么"
+    },
+    {
+      "time": 111.65,
+      "time_str": "01:51.650",
+      "text": "did we have to turn around and say goodbye bye bye",
+      "translation": "我们真的要转身对彼此说再见吗"
+    },
+    {
+      "time": 116.88,
+      "time_str": "01:56.880",
+      "text": "and the only thing that's left to do is cry cry cry",
+      "translation": "而且我唯一剩下能做的事情就是哭泣"
+    },
+    {
+      "time": 122.29,
+      "time_str": "02:02.290",
+      "text": "nothing left for me to say to you but bye bye bye",
+      "translation": "除了再见之外我不能再说些什么"
+    },
+    {
+      "time": 127.38,
+      "time_str": "02:07.380",
+      "text": "you left me hanging on the light",
+      "translation": "你带走了我赖以生存的光芒"
+    },
+    {
+      "time": 130.43,
+      "time_str": "02:10.430",
+      "text": "why you stealing all my time",
+      "translation": "为什么你还要偷走我的时间"
+    },
+    {
+      "time": 133.11,
+      "time_str": "02:13.110",
+      "text": "you take a piece of me",
+      "translation": "你把我丢弃"
+    },
+    {
+      "time": 138.39,
+      "time_str": "02:18.390",
+      "text": "you've been driving too slow",
+      "translation": "你太过拖拉"
+    },
+    {
+      "time": 141.19,
+      "time_str": "02:21.190",
+      "text": "so I gotta let you go",
+      "translation": "所以我必须让你走"
+    },
+    {
+      "time": 143.56,
+      "time_str": "02:23.560",
+      "text": "before you break me em~yeah~",
+      "translation": "在你让我心碎之前"
+    },
+    {
+      "time": 148.97,
+      "time_str": "02:28.970",
+      "text": "we've been together for forever tell me why why why",
+      "translation": "我们曾说要永远在一起告诉我为什么"
+    },
+    {
+      "time": 154.39,
+      "time_str": "02:34.390",
+      "text": "did we have to turn around and say goodbye bye bye",
+      "translation": "我们真的要转身对彼此说再见吗"
+    },
+    {
+      "time": 159.48,
+      "time_str": "02:39.480",
+      "text": "and the only thing that's left to do is cry cry cry",
+      "translation": "而且我唯一剩下能做的事情就是哭泣"
+    },
+    {
+      "time": 164.9,
+      "time_str": "02:44.900",
+      "text": "nothing left for me to say to you but bye bye bye",
+      "translation": "除了再见之外我不能再说些什么"
+    },
+    {
+      "time": 169.81,
+      "time_str": "02:49.810",
+      "text": "we've been together for forever tell me why why why",
+      "translation": "我们曾说要永远在一起告诉我为什么"
+    },
+    {
+      "time": 175.6,
+      "time_str": "02:55.600",
+      "text": "did we have to turn around and say goodbye bye bye",
+      "translation": "我们真的要转身对彼此说再见吗"
+    },
+    {
+      "time": 180.76,
+      "time_str": "03:00.760",
+      "text": "and the only thing that's left to do is cry cry cry",
+      "translation": "而且我唯一剩下能做的事情就是哭泣"
+    },
+    {
+      "time": 186.18,
+      "time_str": "03:06.180",
+      "text": "nothing left for me to say to you but bye bye bye",
+      "translation": "除了再见之外我不能再说些什么"
+    },
+    {
+      "time": 191.27,
+      "time_str": "03:11.270",
+      "text": "Bye Bye",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Bye Bye Bye - Lovestoned.lrc"
+}

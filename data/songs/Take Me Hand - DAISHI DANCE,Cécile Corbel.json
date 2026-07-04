@@ -1,0 +1,388 @@
+{
+  "title": "Take Me Hand",
+  "title_raw": "Take Me Hand",
+  "version": null,
+  "artist": "DAISHI DANCE,Cécile Corbel",
+  "group_key": "take me hand|daishi dance,cécile corbel",
+  "writers": {
+    "lyricist": "Cécile Corbel",
+    "composer": "DAISHI DANCE/Cécile Corbel/Tomoharu Moriya",
+    "arranger": "DAISHI DANCE"
+  },
+  "lyrics": [
+    {
+      "time": 59.06,
+      "time_str": "00:59.060",
+      "text": "In my dreams",
+      "translation": "我的梦里"
+    },
+    {
+      "time": 61.01,
+      "time_str": "01:01.010",
+      "text": "I feel your light",
+      "translation": "有你的光芒"
+    },
+    {
+      "time": 62.85,
+      "time_str": "01:02.850",
+      "text": "I feel love is born again",
+      "translation": "爱再次绽放"
+    },
+    {
+      "time": 66.67,
+      "time_str": "01:06.670",
+      "text": "Fireflies",
+      "translation": "萤火虫"
+    },
+    {
+      "time": 68.56,
+      "time_str": "01:08.560",
+      "text": "In the moonlight",
+      "translation": "在月光里"
+    },
+    {
+      "time": 70.73,
+      "time_str": "01:10.730",
+      "text": "Rising stars",
+      "translation": "如闪烁的繁星"
+    },
+    {
+      "time": 73.92,
+      "time_str": "01:13.920",
+      "text": "Remember",
+      "translation": "还记得吗"
+    },
+    {
+      "time": 76.48,
+      "time_str": "01:16.480",
+      "text": "The day",
+      "translation": "在那一天"
+    },
+    {
+      "time": 78.36,
+      "time_str": "01:18.360",
+      "text": "I fell in love with you",
+      "translation": "我迷恋上了你"
+    },
+    {
+      "time": 81.53,
+      "time_str": "01:21.530",
+      "text": "Darling won't you break",
+      "translation": "亲爱的，请不要伤害"
+    },
+    {
+      "time": 85.46,
+      "time_str": "01:25.460",
+      "text": "My heart",
+      "translation": "我的心"
+    },
+    {
+      "time": 89.47,
+      "time_str": "01:29.470",
+      "text": "Take my hand now",
+      "translation": "抓紧我的手"
+    },
+    {
+      "time": 91.35,
+      "time_str": "01:31.350",
+      "text": "Stay close to me",
+      "translation": "靠近我的心"
+    },
+    {
+      "time": 93.12,
+      "time_str": "01:33.120",
+      "text": "be my lover",
+      "translation": "成为我爱人"
+    },
+    {
+      "time": 95.15,
+      "time_str": "01:35.150",
+      "text": "Won't you let me go",
+      "translation": "不要放开我的手"
+    },
+    {
+      "time": 96.89,
+      "time_str": "01:36.890",
+      "text": "close your eyes now",
+      "translation": "闭上你的眼睛"
+    },
+    {
+      "time": 98.78,
+      "time_str": "01:38.780",
+      "text": "And you will see",
+      "translation": "你将会看到"
+    },
+    {
+      "time": 101.12,
+      "time_str": "01:41.120",
+      "text": "There's a rainbow",
+      "translation": "有道彩虹"
+    },
+    {
+      "time": 102.56,
+      "time_str": "01:42.560",
+      "text": "For you and me",
+      "translation": "连接你我的心"
+    },
+    {
+      "time": 119.22,
+      "time_str": "01:59.220",
+      "text": "As I wake up",
+      "translation": "当我醒来"
+    },
+    {
+      "time": 120.85,
+      "time_str": "02:00.850",
+      "text": "I see your face",
+      "translation": "看到你的脸"
+    },
+    {
+      "time": 122.88,
+      "time_str": "02:02.880",
+      "text": "I feel love is born again",
+      "translation": "爱再次绽放"
+    },
+    {
+      "time": 126.47,
+      "time_str": "02:06.470",
+      "text": "Cherry blossom",
+      "translation": "樱花盛开"
+    },
+    {
+      "time": 128.46,
+      "time_str": "02:08.460",
+      "text": "Flying birds",
+      "translation": "飞翔的鸟儿"
+    },
+    {
+      "time": 130.29,
+      "time_str": "02:10.290",
+      "text": "In the sky",
+      "translation": "在蓝天翱翔"
+    },
+    {
+      "time": 134.25,
+      "time_str": "02:14.250",
+      "text": "Can't you see",
+      "translation": "你看见了吗"
+    },
+    {
+      "time": 136.41,
+      "time_str": "02:16.410",
+      "text": "The sun",
+      "translation": "阳光"
+    },
+    {
+      "time": 138.11,
+      "time_str": "02:18.110",
+      "text": "That is shining on the fields",
+      "translation": "在原野闪烁"
+    },
+    {
+      "time": 141.51,
+      "time_str": "02:21.510",
+      "text": "Is it shining in",
+      "translation": "像闪烁在"
+    },
+    {
+      "time": 145.64,
+      "time_str": "02:25.640",
+      "text": "Your heart",
+      "translation": "你的心"
+    },
+    {
+      "time": 149.39,
+      "time_str": "02:29.390",
+      "text": "Take my hand now",
+      "translation": "抓紧我的手"
+    },
+    {
+      "time": 151.33,
+      "time_str": "02:31.330",
+      "text": "Stay close to me",
+      "translation": "靠近我的心"
+    },
+    {
+      "time": 153.11,
+      "time_str": "02:33.110",
+      "text": "be my lover",
+      "translation": "成为我爱人"
+    },
+    {
+      "time": 155.06,
+      "time_str": "02:35.060",
+      "text": "Won't you let me go",
+      "translation": "不要放开我的手"
+    },
+    {
+      "time": 156.96,
+      "time_str": "02:36.960",
+      "text": "Close your eyes now",
+      "translation": "闭上你的眼睛"
+    },
+    {
+      "time": 158.74,
+      "time_str": "02:38.740",
+      "text": "And you will see",
+      "translation": "你将会看到"
+    },
+    {
+      "time": 160.69,
+      "time_str": "02:40.690",
+      "text": "There's a rainbow",
+      "translation": "有道彩虹"
+    },
+    {
+      "time": 162.4,
+      "time_str": "02:42.400",
+      "text": "For you and me",
+      "translation": "连接你我的心"
+    },
+    {
+      "time": 179.62,
+      "time_str": "02:59.620",
+      "text": "And I dream of you",
+      "translation": "你出现在我梦中"
+    },
+    {
+      "time": 183.31,
+      "time_str": "03:03.310",
+      "text": "Every night",
+      "translation": "每个夜晚"
+    },
+    {
+      "time": 186.79,
+      "time_str": "03:06.790",
+      "text": "Cause's there only you",
+      "translation": "因为只有你"
+    },
+    {
+      "time": 190.32,
+      "time_str": "03:10.320",
+      "text": "In my mind",
+      "translation": "在我脑海里"
+    },
+    {
+      "time": 194.24,
+      "time_str": "03:14.240",
+      "text": "Will you be",
+      "translation": "你愿成为"
+    },
+    {
+      "time": 196.73,
+      "time_str": "03:16.730",
+      "text": "A stranger or a friend in my life",
+      "translation": "我生命中的陌生人或朋友吗？"
+    },
+    {
+      "time": 201.56,
+      "time_str": "03:21.560",
+      "text": "Darling won't you break",
+      "translation": "亲爱的，请不要伤害"
+    },
+    {
+      "time": 205.47,
+      "time_str": "03:25.470",
+      "text": "My heart",
+      "translation": "我的心"
+    },
+    {
+      "time": 210.0,
+      "time_str": "03:30.000",
+      "text": "Take my hand now",
+      "translation": "抓紧我的手"
+    },
+    {
+      "time": 211.9,
+      "time_str": "03:31.900",
+      "text": "Stay close to me",
+      "translation": "靠近我的心"
+    },
+    {
+      "time": 213.77,
+      "time_str": "03:33.770",
+      "text": "be my lover",
+      "translation": "成为我爱人"
+    },
+    {
+      "time": 215.11,
+      "time_str": "03:35.110",
+      "text": "Won't you let me go",
+      "translation": "不要放开我的手"
+    },
+    {
+      "time": 216.91,
+      "time_str": "03:36.910",
+      "text": "Close your eyes now",
+      "translation": "闭上你的眼睛"
+    },
+    {
+      "time": 219.1,
+      "time_str": "03:39.100",
+      "text": "And you will see",
+      "translation": "你将会看到"
+    },
+    {
+      "time": 221.01,
+      "time_str": "03:41.010",
+      "text": "There's a rainbow",
+      "translation": "有道彩虹"
+    },
+    {
+      "time": 222.81,
+      "time_str": "03:42.810",
+      "text": "For you and me",
+      "translation": "连接你我的心"
+    },
+    {
+      "time": 224.68,
+      "time_str": "03:44.680",
+      "text": "Take my hand now",
+      "translation": "抓紧我的手"
+    },
+    {
+      "time": 226.51,
+      "time_str": "03:46.510",
+      "text": "Stay close to me",
+      "translation": "靠近我的心"
+    },
+    {
+      "time": 228.36,
+      "time_str": "03:48.360",
+      "text": "be my lover",
+      "translation": "成为我爱人"
+    },
+    {
+      "time": 230.3,
+      "time_str": "03:50.300",
+      "text": "Won't you let me go",
+      "translation": "不要放开我的手"
+    },
+    {
+      "time": 232.39,
+      "time_str": "03:52.390",
+      "text": "Close your eyes now",
+      "translation": "闭上你的眼睛"
+    },
+    {
+      "time": 234.3,
+      "time_str": "03:54.300",
+      "text": "And you will see",
+      "translation": "你将会看到"
+    },
+    {
+      "time": 236.33,
+      "time_str": "03:56.330",
+      "text": "There's a rainbow",
+      "translation": "有道彩虹"
+    },
+    {
+      "time": 238.17,
+      "time_str": "03:58.170",
+      "text": "For you and me",
+      "translation": "连接你我的心"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Take Me Hand - DAISHI DANCE,Cécile Corbel.lrc"
+}

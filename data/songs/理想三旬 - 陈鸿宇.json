@@ -1,0 +1,256 @@
+{
+  "title": "理想三旬",
+  "title_raw": "理想三旬",
+  "version": null,
+  "artist": "陈鸿宇",
+  "group_key": "理想三旬|陈鸿宇",
+  "writers": {
+    "lyricist": "唐映枫",
+    "composer": "陈鸿宇",
+    "arranger": "陈鸿宇/马雨阳"
+  },
+  "lyrics": [
+    {
+      "time": 1.34,
+      "time_str": "00:01.340",
+      "text": "雨后有车驶来",
+      "translation": null
+    },
+    {
+      "time": 3.51,
+      "time_str": "00:03.510",
+      "text": "驶过暮色苍白",
+      "translation": null
+    },
+    {
+      "time": 6.09,
+      "time_str": "00:06.090",
+      "text": "旧铁皮往南开 恋人已不在",
+      "translation": null
+    },
+    {
+      "time": 10.89,
+      "time_str": "00:10.890",
+      "text": "收听浓烟下的 诗歌电台",
+      "translation": null
+    },
+    {
+      "time": 15.7,
+      "time_str": "00:15.700",
+      "text": "不动情的咳嗽 至少看起来",
+      "translation": null
+    },
+    {
+      "time": 20.42,
+      "time_str": "00:20.420",
+      "text": "归途也还可爱",
+      "translation": null
+    },
+    {
+      "time": 22.87,
+      "time_str": "00:22.870",
+      "text": "琴弦少了姿态",
+      "translation": null
+    },
+    {
+      "time": 25.16,
+      "time_str": "00:25.160",
+      "text": "再不见那夜里 听歌的小孩",
+      "translation": null
+    },
+    {
+      "time": 30.17,
+      "time_str": "00:30.170",
+      "text": "时光匆匆独白",
+      "translation": null
+    },
+    {
+      "time": 32.38,
+      "time_str": "00:32.380",
+      "text": "将颠沛磨成卡带",
+      "translation": null
+    },
+    {
+      "time": 34.81,
+      "time_str": "00:34.810",
+      "text": "已枯卷的情怀 踏碎成年代",
+      "translation": null
+    },
+    {
+      "time": 49.17,
+      "time_str": "00:49.170",
+      "text": "就老去吧 孤独别醒来",
+      "translation": null
+    },
+    {
+      "time": 55.31,
+      "time_str": "00:55.310",
+      "text": "你渴望的离开",
+      "translation": null
+    },
+    {
+      "time": 59.54,
+      "time_str": "00:59.540",
+      "text": "只是无处停摆",
+      "translation": null
+    },
+    {
+      "time": 63.7,
+      "time_str": "01:03.700",
+      "text": "就歌唱吧 眼睛眯起来",
+      "translation": null
+    },
+    {
+      "time": 69.858,
+      "time_str": "01:09.858",
+      "text": "而热泪的崩坏",
+      "translation": null
+    },
+    {
+      "time": 74.218,
+      "time_str": "01:14.218",
+      "text": "只是没抵达的存在",
+      "translation": null
+    },
+    {
+      "time": 97.09,
+      "time_str": "01:37.090",
+      "text": "青春又醉倒在",
+      "translation": null
+    },
+    {
+      "time": 99.84,
+      "time_str": "01:39.840",
+      "text": "籍籍无名的怀",
+      "translation": null
+    },
+    {
+      "time": 102.2,
+      "time_str": "01:42.200",
+      "text": "靠嬉笑来虚度 聚散得慷慨",
+      "translation": null
+    },
+    {
+      "time": 106.989,
+      "time_str": "01:46.989",
+      "text": "辗转却去不到 对的站台",
+      "translation": null
+    },
+    {
+      "time": 111.89,
+      "time_str": "01:51.890",
+      "text": "如果漂泊是成长 必经的路牌",
+      "translation": null
+    },
+    {
+      "time": 116.53,
+      "time_str": "01:56.530",
+      "text": "你迷醒岁月中",
+      "translation": null
+    },
+    {
+      "time": 118.84,
+      "time_str": "01:58.840",
+      "text": "那贫瘠的未来",
+      "translation": null
+    },
+    {
+      "time": 121.418,
+      "time_str": "02:01.418",
+      "text": "像遗憾季节里 未结果的爱",
+      "translation": null
+    },
+    {
+      "time": 125.808,
+      "time_str": "02:05.808",
+      "text": "弄脏了每一页诗",
+      "translation": null
+    },
+    {
+      "time": 128.31,
+      "time_str": "02:08.310",
+      "text": "吻最疼痛的告白",
+      "translation": null
+    },
+    {
+      "time": 130.859,
+      "time_str": "02:10.859",
+      "text": "而风声吹到这 已不需要释怀",
+      "translation": null
+    },
+    {
+      "time": 135.718,
+      "time_str": "02:15.718",
+      "text": "就老去吧 孤独别醒来",
+      "translation": null
+    },
+    {
+      "time": 141.869,
+      "time_str": "02:21.869",
+      "text": "你渴望的离开",
+      "translation": null
+    },
+    {
+      "time": 146.0,
+      "time_str": "02:26.000",
+      "text": "只是无处停摆",
+      "translation": null
+    },
+    {
+      "time": 150.138,
+      "time_str": "02:30.138",
+      "text": "就歌唱吧 眼睛眯起来",
+      "translation": null
+    },
+    {
+      "time": 156.0,
+      "time_str": "02:36.000",
+      "text": "而热泪的崩坏",
+      "translation": null
+    },
+    {
+      "time": 160.22,
+      "time_str": "02:40.220",
+      "text": "只是没抵达的存在",
+      "translation": null
+    },
+    {
+      "time": 186.019,
+      "time_str": "03:06.019",
+      "text": "就甜蜜地忍耐",
+      "translation": null
+    },
+    {
+      "time": 188.459,
+      "time_str": "03:08.459",
+      "text": "繁星润湿窗台",
+      "translation": null
+    },
+    {
+      "time": 190.878,
+      "time_str": "03:10.878",
+      "text": "光影跳动着像在 困倦里说爱",
+      "translation": null
+    },
+    {
+      "time": 195.679,
+      "time_str": "03:15.679",
+      "text": "再无谓的感慨",
+      "translation": null
+    },
+    {
+      "time": 198.348,
+      "time_str": "03:18.348",
+      "text": "以为明白",
+      "translation": null
+    },
+    {
+      "time": 200.418,
+      "time_str": "03:20.418",
+      "text": "梦倒塌的地方 今已爬满青苔",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "理想三旬 - 陈鸿宇.lrc"
+}

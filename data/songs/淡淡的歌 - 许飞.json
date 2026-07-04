@@ -1,0 +1,244 @@
+{
+  "title": "淡淡的歌",
+  "title_raw": "淡淡的歌",
+  "version": null,
+  "artist": "许飞",
+  "group_key": "淡淡的歌|许飞",
+  "writers": {
+    "lyricist": "郭彪",
+    "composer": "郭彪",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.07,
+      "time_str": "00:19.07",
+      "text": "说你想说的情话",
+      "translation": null
+    },
+    {
+      "time": 22.75,
+      "time_str": "00:22.75",
+      "text": "做你爱做的童话",
+      "translation": null
+    },
+    {
+      "time": 26.2,
+      "time_str": "00:26.20",
+      "text": "我已不想再挣扎",
+      "translation": null
+    },
+    {
+      "time": 29.54,
+      "time_str": "00:29.54",
+      "text": "这份感情有多复杂",
+      "translation": null
+    },
+    {
+      "time": 34.68,
+      "time_str": "00:34.68",
+      "text": "关于你的回答 我在心里牵挂",
+      "translation": null
+    },
+    {
+      "time": 42.2,
+      "time_str": "00:42.20",
+      "text": "这样煽情的歌 唱到你想家",
+      "translation": null
+    },
+    {
+      "time": 47.39,
+      "time_str": "00:47.39",
+      "text": "唱情歌 流眼泪 不会想着谁",
+      "translation": null
+    },
+    {
+      "time": 54.54,
+      "time_str": "00:54.54",
+      "text": "双人床 黑咖啡",
+      "translation": null
+    },
+    {
+      "time": 58.55,
+      "time_str": "00:58.55",
+      "text": "只想有人 有个人来陪",
+      "translation": null
+    },
+    {
+      "time": 65.15,
+      "time_str": "01:05.15",
+      "text": "写一首淡淡的歌给你啊",
+      "translation": null
+    },
+    {
+      "time": 69.48,
+      "time_str": "01:09.48",
+      "text": "让你说我傻",
+      "translation": null
+    },
+    {
+      "time": 72.19,
+      "time_str": "01:12.19",
+      "text": "这一首淡淡的歌给你啊",
+      "translation": null
+    },
+    {
+      "time": 76.52,
+      "time_str": "01:16.52",
+      "text": "说说心里话",
+      "translation": null
+    },
+    {
+      "time": 79.28,
+      "time_str": "01:19.28",
+      "text": "播一首淡淡的歌给你啊",
+      "translation": null
+    },
+    {
+      "time": 83.58,
+      "time_str": "01:23.58",
+      "text": "LaLaLaLaLa",
+      "translation": null
+    },
+    {
+      "time": 86.28,
+      "time_str": "01:26.28",
+      "text": "这一首淡淡的歌给你啊",
+      "translation": null
+    },
+    {
+      "time": 90.56,
+      "time_str": "01:30.56",
+      "text": "让你会想他",
+      "translation": null
+    },
+    {
+      "time": 93.42,
+      "time_str": "01:33.42",
+      "text": "我会一直拥抱着你 告诉他们",
+      "translation": null
+    },
+    {
+      "time": 100.0,
+      "time_str": "01:40.00",
+      "text": "我也会牵挂",
+      "translation": null
+    },
+    {
+      "time": 120.37,
+      "time_str": "02:00.370",
+      "text": "说你想说的情话",
+      "translation": null
+    },
+    {
+      "time": 123.41,
+      "time_str": "02:03.410",
+      "text": "做你爱做的童话",
+      "translation": null
+    },
+    {
+      "time": 126.81,
+      "time_str": "02:06.810",
+      "text": "我已不想再挣扎",
+      "translation": null
+    },
+    {
+      "time": 130.11,
+      "time_str": "02:10.110",
+      "text": "这份感情有多复杂",
+      "translation": null
+    },
+    {
+      "time": 133.82,
+      "time_str": "02:13.820",
+      "text": "关于你的回答 我在心里牵挂",
+      "translation": null
+    },
+    {
+      "time": 141.04,
+      "time_str": "02:21.040",
+      "text": "这样煽情的歌 唱到你想家",
+      "translation": null
+    },
+    {
+      "time": 146.25,
+      "time_str": "02:26.250",
+      "text": "唱情歌 流眼泪 不会想着谁",
+      "translation": null
+    },
+    {
+      "time": 153.34,
+      "time_str": "02:33.340",
+      "text": "双人床 黑咖啡",
+      "translation": null
+    },
+    {
+      "time": 158.23,
+      "time_str": "02:38.230",
+      "text": "只想有人 有个人来陪",
+      "translation": null
+    },
+    {
+      "time": 163.92,
+      "time_str": "02:43.920",
+      "text": "写一首淡淡的歌给你啊",
+      "translation": null
+    },
+    {
+      "time": 168.32,
+      "time_str": "02:48.320",
+      "text": "让你说我傻",
+      "translation": null
+    },
+    {
+      "time": 171.05,
+      "time_str": "02:51.050",
+      "text": "这一首淡淡的歌给你啊",
+      "translation": null
+    },
+    {
+      "time": 175.32,
+      "time_str": "02:55.320",
+      "text": "说说心里话",
+      "translation": null
+    },
+    {
+      "time": 178.12,
+      "time_str": "02:58.120",
+      "text": "播一首淡淡的歌给你啊",
+      "translation": null
+    },
+    {
+      "time": 182.43,
+      "time_str": "03:02.430",
+      "text": "LaLaLaLaLa",
+      "translation": null
+    },
+    {
+      "time": 185.08,
+      "time_str": "03:05.080",
+      "text": "这一首淡淡的歌给你啊",
+      "translation": null
+    },
+    {
+      "time": 189.52,
+      "time_str": "03:09.520",
+      "text": "让你会想他",
+      "translation": null
+    },
+    {
+      "time": 192.25,
+      "time_str": "03:12.250",
+      "text": "我会一直拥抱着你 告诉他们",
+      "translation": null
+    },
+    {
+      "time": 198.73,
+      "time_str": "03:18.730",
+      "text": "我也会牵挂",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "淡淡的歌 - 许飞.lrc"
+}

@@ -1,0 +1,220 @@
+{
+  "title": "怪咖",
+  "title_raw": "怪咖",
+  "version": null,
+  "artist": "薛之谦",
+  "group_key": "怪咖|薛之谦",
+  "writers": {
+    "lyricist": "薛之谦",
+    "composer": "薛之谦",
+    "arranger": "郑楠"
+  },
+  "lyrics": [
+    {
+      "time": 16.92,
+      "time_str": "00:16.920",
+      "text": "你的改变 很难制止了",
+      "translation": null
+    },
+    {
+      "time": 24.52,
+      "time_str": "00:24.520",
+      "text": "我的取悦 也不是天生的",
+      "translation": null
+    },
+    {
+      "time": 31.84,
+      "time_str": "00:31.840",
+      "text": "熟练了 喜怒就合并了",
+      "translation": null
+    },
+    {
+      "time": 40.11,
+      "time_str": "00:40.110",
+      "text": "你的理由是星星点点的",
+      "translation": null
+    },
+    {
+      "time": 47.44,
+      "time_str": "00:47.440",
+      "text": "我尽量充当气氛营造者",
+      "translation": null
+    },
+    {
+      "time": 55.06,
+      "time_str": "00:55.060",
+      "text": "练就成了 无痛的角色",
+      "translation": null
+    },
+    {
+      "time": 62.26,
+      "time_str": "01:02.260",
+      "text": "再听多几次分开的话",
+      "translation": null
+    },
+    {
+      "time": 66.68,
+      "time_str": "01:06.680",
+      "text": "越致命越不正面回答",
+      "translation": null
+    },
+    {
+      "time": 70.87,
+      "time_str": "01:10.870",
+      "text": "感情里的怪咖 有铺垫就不尴尬",
+      "translation": null
+    },
+    {
+      "time": 78.48,
+      "time_str": "01:18.480",
+      "text": "所以要找个延期方法",
+      "translation": null
+    },
+    {
+      "time": 82.37,
+      "time_str": "01:22.370",
+      "text": "既平静还能突然挣扎",
+      "translation": null
+    },
+    {
+      "time": 86.53,
+      "time_str": "01:26.530",
+      "text": "我自愿作怪咖 就不怕被你笑话",
+      "translation": null
+    },
+    {
+      "time": 94.59,
+      "time_str": "01:34.590",
+      "text": "你的铺垫 零零散散的",
+      "translation": null
+    },
+    {
+      "time": 102.32,
+      "time_str": "01:42.320",
+      "text": "别去揭穿 话题制造者",
+      "translation": null
+    },
+    {
+      "time": 109.74,
+      "time_str": "01:49.740",
+      "text": "我记得 你也会不舍",
+      "translation": null
+    },
+    {
+      "time": 117.56,
+      "time_str": "01:57.560",
+      "text": "我偶尔取悦也会失手的",
+      "translation": null
+    },
+    {
+      "time": 125.66,
+      "time_str": "02:05.660",
+      "text": "搞笑的人变成做恶的",
+      "translation": null
+    },
+    {
+      "time": 133.02,
+      "time_str": "02:13.020",
+      "text": "我习惯了 无痛的货色",
+      "translation": null
+    },
+    {
+      "time": 140.19,
+      "time_str": "02:20.190",
+      "text": "再听多几次分开的话",
+      "translation": null
+    },
+    {
+      "time": 144.57,
+      "time_str": "02:24.570",
+      "text": "越致命越不正面回答",
+      "translation": null
+    },
+    {
+      "time": 148.88,
+      "time_str": "02:28.880",
+      "text": "感情里的怪咖 有铺垫就不尴尬",
+      "translation": null
+    },
+    {
+      "time": 156.41,
+      "time_str": "02:36.410",
+      "text": "所以要找个延期方法",
+      "translation": null
+    },
+    {
+      "time": 160.19,
+      "time_str": "02:40.190",
+      "text": "既平静还能突然挣扎",
+      "translation": null
+    },
+    {
+      "time": 164.47,
+      "time_str": "02:44.470",
+      "text": "我自愿作怪咖 就不怕被你笑话",
+      "translation": null
+    },
+    {
+      "time": 187.25,
+      "time_str": "03:07.250",
+      "text": "你还有几次分开的话",
+      "translation": null
+    },
+    {
+      "time": 191.77,
+      "time_str": "03:11.770",
+      "text": "新鲜感不佳词语匮乏",
+      "translation": null
+    },
+    {
+      "time": 195.98,
+      "time_str": "03:15.980",
+      "text": "感情里的怪咖 可手里也没筹码",
+      "translation": null
+    },
+    {
+      "time": 203.5,
+      "time_str": "03:23.500",
+      "text": "所以要找个缓冲方法",
+      "translation": null
+    },
+    {
+      "time": 207.43,
+      "time_str": "03:27.430",
+      "text": "直到有天我也放得下",
+      "translation": null
+    },
+    {
+      "time": 211.67,
+      "time_str": "03:31.670",
+      "text": "我不是个怪咖 是不计较的惩罚",
+      "translation": null
+    },
+    {
+      "time": 221.42,
+      "time_str": "03:41.420",
+      "text": "感情里的怪咖 再难过也笑着说吧",
+      "translation": null
+    },
+    {
+      "time": 247.99,
+      "time_str": "04:07.990",
+      "text": "弦乐编写 : 郑楠",
+      "translation": null
+    },
+    {
+      "time": 248.99,
+      "time_str": "04:08.990",
+      "text": "大提琴独奏 : 郎莹",
+      "translation": null
+    },
+    {
+      "time": 249.99,
+      "time_str": "04:09.990",
+      "text": "母带 : 赵靖",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "怪咖 - 薛之谦.lrc"
+}

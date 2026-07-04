@@ -1,0 +1,280 @@
+{
+  "title": "奇妙能力歌",
+  "title_raw": "奇妙能力歌",
+  "version": null,
+  "artist": "陈粒",
+  "group_key": "奇妙能力歌|陈粒",
+  "writers": {
+    "lyricist": "陈粒",
+    "composer": "陈粒",
+    "arranger": "燕池"
+  },
+  "lyrics": [
+    {
+      "time": 20.312,
+      "time_str": "00:20.312",
+      "text": "我看过沙漠下暴雨",
+      "translation": null
+    },
+    {
+      "time": 24.862,
+      "time_str": "00:24.862",
+      "text": "看过大海亲吻鲨鱼",
+      "translation": null
+    },
+    {
+      "time": 29.113,
+      "time_str": "00:29.113",
+      "text": "看过黄昏追逐黎明",
+      "translation": null
+    },
+    {
+      "time": 32.263,
+      "time_str": "00:32.263",
+      "text": "没看过你",
+      "translation": null
+    },
+    {
+      "time": 37.664,
+      "time_str": "00:37.664",
+      "text": "我知道美丽会老去",
+      "translation": null
+    },
+    {
+      "time": 41.765,
+      "time_str": "00:41.765",
+      "text": "生命之外还有生命",
+      "translation": null
+    },
+    {
+      "time": 46.266,
+      "time_str": "00:46.266",
+      "text": "我知道风里有诗句",
+      "translation": null
+    },
+    {
+      "time": 49.617,
+      "time_str": "00:49.617",
+      "text": "不知道你",
+      "translation": null
+    },
+    {
+      "time": 55.169,
+      "time_str": "00:55.169",
+      "text": "我听过荒芜变成热闹",
+      "translation": null
+    },
+    {
+      "time": 59.519,
+      "time_str": "00:59.519",
+      "text": "听过尘埃掩埋城堡",
+      "translation": null
+    },
+    {
+      "time": 63.869,
+      "time_str": "01:03.869",
+      "text": "听过天空拒绝飞鸟",
+      "translation": null
+    },
+    {
+      "time": 67.17,
+      "time_str": "01:07.170",
+      "text": "没听过你",
+      "translation": null
+    },
+    {
+      "time": 72.621,
+      "time_str": "01:12.621",
+      "text": "我明白眼前都是气泡",
+      "translation": null
+    },
+    {
+      "time": 76.721,
+      "time_str": "01:16.721",
+      "text": "安静的才是苦口良药",
+      "translation": null
+    },
+    {
+      "time": 81.272,
+      "time_str": "01:21.272",
+      "text": "明白什么才让我骄傲",
+      "translation": null
+    },
+    {
+      "time": 84.472,
+      "time_str": "01:24.472",
+      "text": "不明白你",
+      "translation": null
+    },
+    {
+      "time": 90.273,
+      "time_str": "01:30.273",
+      "text": "我拒绝更好更圆的月亮",
+      "translation": null
+    },
+    {
+      "time": 94.573,
+      "time_str": "01:34.573",
+      "text": "拒绝未知的疯狂",
+      "translation": null
+    },
+    {
+      "time": 98.923,
+      "time_str": "01:38.923",
+      "text": "拒绝声色的张扬",
+      "translation": null
+    },
+    {
+      "time": 102.24,
+      "time_str": "01:42.240",
+      "text": "不拒绝你",
+      "translation": null
+    },
+    {
+      "time": 107.574,
+      "time_str": "01:47.574",
+      "text": "我变成荒凉的景象",
+      "translation": null
+    },
+    {
+      "time": 111.976,
+      "time_str": "01:51.976",
+      "text": "变成无所谓的模样",
+      "translation": null
+    },
+    {
+      "time": 115.777,
+      "time_str": "01:55.777",
+      "text": "变成透明的高墙",
+      "translation": null
+    },
+    {
+      "time": 119.528,
+      "time_str": "01:59.528",
+      "text": "没能变成你",
+      "translation": null
+    },
+    {
+      "time": 159.996,
+      "time_str": "02:39.996",
+      "text": "我听过空境的回音",
+      "translation": null
+    },
+    {
+      "time": 164.496,
+      "time_str": "02:44.496",
+      "text": "雨水浇绿孤山岭",
+      "translation": null
+    },
+    {
+      "time": 168.746,
+      "time_str": "02:48.746",
+      "text": "听过被诅咒的秘密",
+      "translation": null
+    },
+    {
+      "time": 172.49,
+      "time_str": "02:52.490",
+      "text": "没听过你",
+      "translation": null
+    },
+    {
+      "time": 177.299,
+      "time_str": "02:57.299",
+      "text": "我抓住散落的欲望",
+      "translation": null
+    },
+    {
+      "time": 181.649,
+      "time_str": "03:01.649",
+      "text": "缱绻的馥郁让我紧张",
+      "translation": null
+    },
+    {
+      "time": 185.949,
+      "time_str": "03:05.949",
+      "text": "我抓住时间的假象",
+      "translation": null
+    },
+    {
+      "time": 189.2,
+      "time_str": "03:09.200",
+      "text": "没抓住你",
+      "translation": null
+    },
+    {
+      "time": 194.65,
+      "time_str": "03:14.650",
+      "text": "我包容六月清泉结冰",
+      "translation": null
+    },
+    {
+      "time": 199.187,
+      "time_str": "03:19.187",
+      "text": "包容不老的生命",
+      "translation": null
+    },
+    {
+      "time": 203.489,
+      "time_str": "03:23.489",
+      "text": "包容世界的迟疑",
+      "translation": null
+    },
+    {
+      "time": 206.789,
+      "time_str": "03:26.789",
+      "text": "没包容你",
+      "translation": null
+    },
+    {
+      "time": 212.139,
+      "time_str": "03:32.139",
+      "text": "我忘了置身濒绝孤岛",
+      "translation": null
+    },
+    {
+      "time": 216.64,
+      "time_str": "03:36.640",
+      "text": "忘了眼泪不过失效药",
+      "translation": null
+    },
+    {
+      "time": 220.99,
+      "time_str": "03:40.990",
+      "text": "忘了百年无声口号",
+      "translation": null
+    },
+    {
+      "time": 224.49,
+      "time_str": "03:44.490",
+      "text": "没能忘记你",
+      "translation": null
+    },
+    {
+      "time": 229.791,
+      "time_str": "03:49.791",
+      "text": "我想要更好更圆的月亮",
+      "translation": null
+    },
+    {
+      "time": 233.742,
+      "time_str": "03:53.742",
+      "text": "想要未知的疯狂",
+      "translation": null
+    },
+    {
+      "time": 238.592,
+      "time_str": "03:58.592",
+      "text": "想要声色的张扬",
+      "translation": null
+    },
+    {
+      "time": 242.142,
+      "time_str": "04:02.142",
+      "text": "我想要你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "奇妙能力歌 - 陈粒.lrc"
+}

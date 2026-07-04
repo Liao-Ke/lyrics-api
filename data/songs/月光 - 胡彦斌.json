@@ -1,0 +1,208 @@
+{
+  "title": "月光",
+  "title_raw": "月光",
+  "version": null,
+  "artist": "胡彦斌",
+  "group_key": "月光|胡彦斌",
+  "writers": {
+    "lyricist": "林文炫",
+    "composer": "胡彦斌",
+    "arranger": "胡彦斌"
+  },
+  "lyrics": [
+    {
+      "time": 21.71,
+      "time_str": "00:21.710",
+      "text": "月光色 女子香",
+      "translation": null
+    },
+    {
+      "time": 26.05,
+      "time_str": "00:26.050",
+      "text": "泪断剑 情多长",
+      "translation": null
+    },
+    {
+      "time": 30.35,
+      "time_str": "00:30.350",
+      "text": "有多痛 无字想 忘了你",
+      "translation": null
+    },
+    {
+      "time": 40.77,
+      "time_str": "00:40.770",
+      "text": "孤单魂 随风荡",
+      "translation": null
+    },
+    {
+      "time": 45.07,
+      "time_str": "00:45.070",
+      "text": "谁去笑 痴情郎",
+      "translation": null
+    },
+    {
+      "time": 49.42,
+      "time_str": "00:49.420",
+      "text": "这红尘的战场",
+      "translation": null
+    },
+    {
+      "time": 54.28,
+      "time_str": "00:54.280",
+      "text": "千军万马 有谁能称王",
+      "translation": null
+    },
+    {
+      "time": 63.07,
+      "time_str": "01:03.070",
+      "text": "过情关 谁敢闯",
+      "translation": null
+    },
+    {
+      "time": 71.73,
+      "time_str": "01:11.730",
+      "text": "望明月 心悲凉",
+      "translation": null
+    },
+    {
+      "time": 80.38,
+      "time_str": "01:20.380",
+      "text": "千古恨 轮回尝",
+      "translation": null
+    },
+    {
+      "time": 89.61,
+      "time_str": "01:29.610",
+      "text": "眼一闭 谁最狂",
+      "translation": null
+    },
+    {
+      "time": 100.67,
+      "time_str": "01:40.670",
+      "text": "这世道的无常",
+      "translation": null
+    },
+    {
+      "time": 104.86,
+      "time_str": "01:44.860",
+      "text": "注定敢爱的人一生伤",
+      "translation": null
+    },
+    {
+      "time": 128.91,
+      "time_str": "02:08.910",
+      "text": "月光色 女子香",
+      "translation": null
+    },
+    {
+      "time": 133.21,
+      "time_str": "02:13.210",
+      "text": "泪断剑 情多长",
+      "translation": null
+    },
+    {
+      "time": 137.45,
+      "time_str": "02:17.450",
+      "text": "有多痛 无字想 忘了你",
+      "translation": null
+    },
+    {
+      "time": 147.82,
+      "time_str": "02:27.820",
+      "text": "孤单魂 随风荡",
+      "translation": null
+    },
+    {
+      "time": 152.17,
+      "time_str": "02:32.170",
+      "text": "谁去笑 痴情郎",
+      "translation": null
+    },
+    {
+      "time": 156.52,
+      "time_str": "02:36.520",
+      "text": "这红尘的战场",
+      "translation": null
+    },
+    {
+      "time": 161.34,
+      "time_str": "02:41.340",
+      "text": "千军万马 有谁能称王",
+      "translation": null
+    },
+    {
+      "time": 170.15,
+      "time_str": "02:50.150",
+      "text": "过情关 谁敢闯",
+      "translation": null
+    },
+    {
+      "time": 178.8,
+      "time_str": "02:58.800",
+      "text": "望明月 心悲凉",
+      "translation": null
+    },
+    {
+      "time": 187.4,
+      "time_str": "03:07.400",
+      "text": "千古恨 轮回尝",
+      "translation": null
+    },
+    {
+      "time": 196.07,
+      "time_str": "03:16.070",
+      "text": "眼一闭 谁最狂",
+      "translation": null
+    },
+    {
+      "time": 211.41,
+      "time_str": "03:31.410",
+      "text": "过情关 谁敢闯",
+      "translation": null
+    },
+    {
+      "time": 220.0,
+      "time_str": "03:40.000",
+      "text": "望明月 心悲凉",
+      "translation": null
+    },
+    {
+      "time": 228.6,
+      "time_str": "03:48.600",
+      "text": "千古恨 轮回尝",
+      "translation": null
+    },
+    {
+      "time": 237.37,
+      "time_str": "03:57.370",
+      "text": "眼一闭 谁最狂",
+      "translation": null
+    },
+    {
+      "time": 248.29,
+      "time_str": "04:08.290",
+      "text": "这世道的无常",
+      "translation": null
+    },
+    {
+      "time": 252.65,
+      "time_str": "04:12.650",
+      "text": "注定敢爱的人一生伤",
+      "translation": null
+    },
+    {
+      "time": 275.9,
+      "time_str": "04:35.900",
+      "text": "笛子 : 刘一",
+      "translation": null
+    },
+    {
+      "time": 278.4,
+      "time_str": "04:38.400",
+      "text": "SP : 上海步升大风音乐文化传播有限公司",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月光 - 胡彦斌.lrc"
+}

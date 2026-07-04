@@ -1,0 +1,358 @@
+{
+  "title": "有时寂寞",
+  "title_raw": "有时寂寞",
+  "version": null,
+  "artist": "陈慧琳",
+  "group_key": "有时寂寞|陈慧琳",
+  "writers": {
+    "lyricist": "甄健强",
+    "composer": "雷颂德",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.75,
+      "time_str": "00:07.750",
+      "text": "Gonna Say Bye Bye",
+      "translation": null
+    },
+    {
+      "time": 9.81,
+      "time_str": "00:09.810",
+      "text": "谈情太似悬崖绝岭",
+      "translation": null
+    },
+    {
+      "time": 13.32,
+      "time_str": "00:13.320",
+      "text": "没有开心可保证",
+      "translation": null
+    },
+    {
+      "time": 15.42,
+      "time_str": "00:15.420",
+      "text": "有时寂寞亦是聪明",
+      "translation": null
+    },
+    {
+      "time": 19.61,
+      "time_str": "00:19.610",
+      "text": "人人会变 人人任性",
+      "translation": null
+    },
+    {
+      "time": 23.13,
+      "time_str": "00:23.130",
+      "text": "热吻不担保高兴",
+      "translation": null
+    },
+    {
+      "time": 25.34,
+      "time_str": "00:25.340",
+      "text": "有时寂寞亦是本领",
+      "translation": null
+    },
+    {
+      "time": 39.55,
+      "time_str": "00:39.550",
+      "text": "一个人 找到的节目 太多",
+      "translation": null
+    },
+    {
+      "time": 45.02,
+      "time_str": "00:45.020",
+      "text": "轻快得想哼歌",
+      "translation": null
+    },
+    {
+      "time": 49.91,
+      "time_str": "00:49.910",
+      "text": "宽慰得自在地消磨",
+      "translation": null
+    },
+    {
+      "time": 53.6,
+      "time_str": "00:53.600",
+      "text": "放心我可温暖得到心窝",
+      "translation": null
+    },
+    {
+      "time": 58.6,
+      "time_str": "00:58.600",
+      "text": "骤眼间我似落寞",
+      "translation": null
+    },
+    {
+      "time": 61.14,
+      "time_str": "01:01.140",
+      "text": "但是时日飞过",
+      "translation": null
+    },
+    {
+      "time": 64.26,
+      "time_str": "01:04.260",
+      "text": "我这哲学都跟恋爱差不多",
+      "translation": null
+    },
+    {
+      "time": 69.14,
+      "time_str": "01:09.140",
+      "text": "人间烟火勿来缠绕我",
+      "translation": null
+    },
+    {
+      "time": 73.31,
+      "time_str": "01:13.310",
+      "text": "撩乱错综 不会是我",
+      "translation": null
+    },
+    {
+      "time": 77.2,
+      "time_str": "01:17.200",
+      "text": "Gonna Say Bye Bye",
+      "translation": null
+    },
+    {
+      "time": 79.5,
+      "time_str": "01:19.500",
+      "text": "谈情太似悬崖绝岭",
+      "translation": null
+    },
+    {
+      "time": 82.52,
+      "time_str": "01:22.520",
+      "text": "没有开心可保证",
+      "translation": null
+    },
+    {
+      "time": 84.7,
+      "time_str": "01:24.700",
+      "text": "有时寂寞亦是聪明",
+      "translation": null
+    },
+    {
+      "time": 88.68,
+      "time_str": "01:28.680",
+      "text": "人人会变 人人任性",
+      "translation": null
+    },
+    {
+      "time": 92.52,
+      "time_str": "01:32.520",
+      "text": "热吻不担保高兴",
+      "translation": null
+    },
+    {
+      "time": 94.82,
+      "time_str": "01:34.820",
+      "text": "有时寂寞亦是本领",
+      "translation": null
+    },
+    {
+      "time": 99.5,
+      "time_str": "01:39.500",
+      "text": "我有权自愿寂寞",
+      "translation": null
+    },
+    {
+      "time": 101.5,
+      "time_str": "01:41.500",
+      "text": "最爱是独自玩乐",
+      "translation": null
+    },
+    {
+      "time": 104.03,
+      "time_str": "01:44.030",
+      "text": "看戏和阅读直落是种收获",
+      "translation": null
+    },
+    {
+      "time": 108.83,
+      "time_str": "01:48.830",
+      "text": "我有权自愿寂寞",
+      "translation": null
+    },
+    {
+      "time": 111.71,
+      "time_str": "01:51.710",
+      "text": "最爱是独自玩乐",
+      "translation": null
+    },
+    {
+      "time": 114.07,
+      "time_str": "01:54.070",
+      "text": "看戏和阅读直落是种收获",
+      "translation": null
+    },
+    {
+      "time": 119.3,
+      "time_str": "01:59.300",
+      "text": "狠了心 不必依靠人 最多",
+      "translation": null
+    },
+    {
+      "time": 124.18,
+      "time_str": "02:04.180",
+      "text": "拥有不到风魔",
+      "translation": null
+    },
+    {
+      "time": 129.11,
+      "time_str": "02:09.110",
+      "text": "很勇敢 道别坏心情",
+      "translation": null
+    },
+    {
+      "time": 132.78,
+      "time_str": "02:12.780",
+      "text": "有好结果 不觉得几坎坷",
+      "translation": null
+    },
+    {
+      "time": 137.8,
+      "time_str": "02:17.800",
+      "text": "愉快的节庆项目 自问能随心过",
+      "translation": null
+    },
+    {
+      "time": 143.11,
+      "time_str": "02:23.110",
+      "text": "放过我吧不必找我可不可",
+      "translation": null
+    },
+    {
+      "time": 148.06,
+      "time_str": "02:28.060",
+      "text": "难得轻松勿来难为我",
+      "translation": null
+    },
+    {
+      "time": 152.4,
+      "time_str": "02:32.400",
+      "text": "还受哄骗 恐怕犯错",
+      "translation": null
+    },
+    {
+      "time": 156.45,
+      "time_str": "02:36.450",
+      "text": "Gonna Say Bye Bye",
+      "translation": null
+    },
+    {
+      "time": 158.71,
+      "time_str": "02:38.710",
+      "text": "谈情太似悬崖绝岭",
+      "translation": null
+    },
+    {
+      "time": 161.7,
+      "time_str": "02:41.700",
+      "text": "没有开心可保证",
+      "translation": null
+    },
+    {
+      "time": 164.25,
+      "time_str": "02:44.250",
+      "text": "有时寂寞亦是聪明",
+      "translation": null
+    },
+    {
+      "time": 168.3,
+      "time_str": "02:48.300",
+      "text": "人人会变 人人任性",
+      "translation": null
+    },
+    {
+      "time": 171.71,
+      "time_str": "02:51.710",
+      "text": "热吻不担保高兴",
+      "translation": null
+    },
+    {
+      "time": 174.02,
+      "time_str": "02:54.020",
+      "text": "有时寂寞亦是本领",
+      "translation": null
+    },
+    {
+      "time": 185.92,
+      "time_str": "03:05.920",
+      "text": "Gonna Say Bye Bye",
+      "translation": null
+    },
+    {
+      "time": 188.4,
+      "time_str": "03:08.400",
+      "text": "谈情太似悬崖绝岭",
+      "translation": null
+    },
+    {
+      "time": 191.44,
+      "time_str": "03:11.440",
+      "text": "没有开心可保证",
+      "translation": null
+    },
+    {
+      "time": 193.8,
+      "time_str": "03:13.800",
+      "text": "有时寂寞亦是聪明",
+      "translation": null
+    },
+    {
+      "time": 197.75,
+      "time_str": "03:17.750",
+      "text": "人人会变 人人任性",
+      "translation": null
+    },
+    {
+      "time": 201.45,
+      "time_str": "03:21.450",
+      "text": "热吻不担保高兴",
+      "translation": null
+    },
+    {
+      "time": 203.45,
+      "time_str": "03:23.450",
+      "text": "有时寂寞亦是本领",
+      "translation": null
+    },
+    {
+      "time": 208.3,
+      "time_str": "03:28.300",
+      "text": "我有权自愿寂寞",
+      "translation": null
+    },
+    {
+      "time": 210.47,
+      "time_str": "03:30.470",
+      "text": "最爱是独自玩乐",
+      "translation": null
+    },
+    {
+      "time": 213.0,
+      "time_str": "03:33.000",
+      "text": "看戏和阅读直落是种收获",
+      "translation": null
+    },
+    {
+      "time": 218.02,
+      "time_str": "03:38.020",
+      "text": "我有权自愿寂寞",
+      "translation": null
+    },
+    {
+      "time": 220.5,
+      "time_str": "03:40.500",
+      "text": "最爱是独自玩乐",
+      "translation": null
+    },
+    {
+      "time": 222.92,
+      "time_str": "03:42.920",
+      "text": "看戏和阅读直落是种收获",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "有时寂寞 - 陈慧琳.lrc"
+}

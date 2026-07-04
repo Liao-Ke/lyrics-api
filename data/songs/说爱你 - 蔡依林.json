@@ -1,0 +1,406 @@
+{
+  "title": "说爱你",
+  "title_raw": "说爱你",
+  "version": null,
+  "artist": "蔡依林",
+  "group_key": "说爱你|蔡依林",
+  "writers": {
+    "lyricist": "天天",
+    "composer": "周杰伦",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 20.509,
+      "time_str": "00:20.509",
+      "text": "我的世界",
+      "translation": null
+    },
+    {
+      "time": 21.7,
+      "time_str": "00:21.700",
+      "text": "变得奇妙更难以言喻",
+      "translation": null
+    },
+    {
+      "time": 24.86,
+      "time_str": "00:24.860",
+      "text": "还以为",
+      "translation": null
+    },
+    {
+      "time": 26.74,
+      "time_str": "00:26.740",
+      "text": "是从天而降的梦境",
+      "translation": null
+    },
+    {
+      "time": 29.65,
+      "time_str": "00:29.650",
+      "text": "直到确定",
+      "translation": null
+    },
+    {
+      "time": 31.99,
+      "time_str": "00:31.990",
+      "text": "手的温度来自你心里",
+      "translation": null
+    },
+    {
+      "time": 34.37,
+      "time_str": "00:34.370",
+      "text": "这一刻",
+      "translation": null
+    },
+    {
+      "time": 36.6,
+      "time_str": "00:36.600",
+      "text": "我终于勇敢说爱你",
+      "translation": null
+    },
+    {
+      "time": 39.59,
+      "time_str": "00:39.590",
+      "text": "一开始",
+      "translation": null
+    },
+    {
+      "time": 41.0,
+      "time_str": "00:41.000",
+      "text": "我只顾着看你",
+      "translation": null
+    },
+    {
+      "time": 42.1,
+      "time_str": "00:42.100",
+      "text": "装做不经意",
+      "translation": null
+    },
+    {
+      "time": 42.64,
+      "time_str": "00:42.640",
+      "text": "心却飘过去",
+      "translation": null
+    },
+    {
+      "time": 43.96,
+      "time_str": "00:43.960",
+      "text": "还窃喜 你 没发现我",
+      "translation": null
+    },
+    {
+      "time": 46.88,
+      "time_str": "00:46.880",
+      "text": "躲在角落",
+      "translation": null
+    },
+    {
+      "time": 48.51,
+      "time_str": "00:48.510",
+      "text": "忙着快乐 忙着感动",
+      "translation": null
+    },
+    {
+      "time": 50.58,
+      "time_str": "00:50.580",
+      "text": "从彼此陌生到熟",
+      "translation": null
+    },
+    {
+      "time": 52.1,
+      "time_str": "00:52.100",
+      "text": "会是我们从没想过",
+      "translation": null
+    },
+    {
+      "time": 54.5,
+      "time_str": "00:54.500",
+      "text": "真爱 到现在 不敢期待",
+      "translation": null
+    },
+    {
+      "time": 59.8,
+      "time_str": "00:59.800",
+      "text": "要证明自己",
+      "translation": null
+    },
+    {
+      "time": 60.91,
+      "time_str": "01:00.910",
+      "text": "曾被你想起 Really",
+      "translation": null
+    },
+    {
+      "time": 63.8,
+      "time_str": "01:03.800",
+      "text": "我胡思乱想就从今天起 I wish",
+      "translation": null
+    },
+    {
+      "time": 68.5,
+      "time_str": "01:08.500",
+      "text": "像一个陷阱",
+      "translation": null
+    },
+    {
+      "time": 70.57,
+      "time_str": "01:10.570",
+      "text": "却从未犹豫 相信",
+      "translation": null
+    },
+    {
+      "time": 73.27,
+      "time_str": "01:13.270",
+      "text": "你真的愿意",
+      "translation": null
+    },
+    {
+      "time": 75.9,
+      "time_str": "01:15.900",
+      "text": "就请给我惊喜",
+      "translation": null
+    },
+    {
+      "time": 76.9,
+      "time_str": "01:16.900",
+      "text": "关于爱情",
+      "translation": null
+    },
+    {
+      "time": 78.4,
+      "time_str": "01:18.400",
+      "text": "过去没有异想的结局",
+      "translation": null
+    },
+    {
+      "time": 82.0,
+      "time_str": "01:22.000",
+      "text": "那天起 却颠覆了自己逻辑",
+      "translation": null
+    },
+    {
+      "time": 86.6,
+      "time_str": "01:26.600",
+      "text": "我的怀疑",
+      "translation": null
+    },
+    {
+      "time": 87.5,
+      "time_str": "01:27.500",
+      "text": "所有答案因你而明白",
+      "translation": null
+    },
+    {
+      "time": 91.4,
+      "time_str": "01:31.400",
+      "text": "转啊转",
+      "translation": null
+    },
+    {
+      "time": 92.7,
+      "time_str": "01:32.700",
+      "text": "就真的遇见 Mr.right",
+      "translation": null
+    },
+    {
+      "time": 115.158,
+      "time_str": "01:55.158",
+      "text": "一开始",
+      "translation": null
+    },
+    {
+      "time": 115.929,
+      "time_str": "01:55.929",
+      "text": "我只顾着看你",
+      "translation": null
+    },
+    {
+      "time": 117.0,
+      "time_str": "01:57.000",
+      "text": "装做不经意 心却飘过去",
+      "translation": null
+    },
+    {
+      "time": 119.509,
+      "time_str": "01:59.509",
+      "text": "还窃喜 你 没发现我",
+      "translation": null
+    },
+    {
+      "time": 123.0,
+      "time_str": "02:03.000",
+      "text": "躲在角落",
+      "translation": null
+    },
+    {
+      "time": 124.7,
+      "time_str": "02:04.700",
+      "text": "忙着快乐 忙着感动",
+      "translation": null
+    },
+    {
+      "time": 126.11,
+      "time_str": "02:06.110",
+      "text": "从彼此陌生到熟",
+      "translation": null
+    },
+    {
+      "time": 128.1,
+      "time_str": "02:08.100",
+      "text": "会是我们从没想过",
+      "translation": null
+    },
+    {
+      "time": 129.898,
+      "time_str": "02:09.898",
+      "text": "真爱 到现在",
+      "translation": null
+    },
+    {
+      "time": 131.809,
+      "time_str": "02:11.809",
+      "text": "不敢期待",
+      "translation": null
+    },
+    {
+      "time": 134.639,
+      "time_str": "02:14.639",
+      "text": "要证明自己",
+      "translation": null
+    },
+    {
+      "time": 137.19,
+      "time_str": "02:17.190",
+      "text": "曾被你想起 Really",
+      "translation": null
+    },
+    {
+      "time": 139.269,
+      "time_str": "02:19.269",
+      "text": "我胡思乱想就从今天起 I wish",
+      "translation": null
+    },
+    {
+      "time": 143.989,
+      "time_str": "02:23.989",
+      "text": "像一个陷阱",
+      "translation": null
+    },
+    {
+      "time": 145.669,
+      "time_str": "02:25.669",
+      "text": "却从未犹豫 相信",
+      "translation": null
+    },
+    {
+      "time": 149.99,
+      "time_str": "02:29.990",
+      "text": "你真的愿意",
+      "translation": null
+    },
+    {
+      "time": 150.699,
+      "time_str": "02:30.699",
+      "text": "就请给我惊喜",
+      "translation": null
+    },
+    {
+      "time": 152.239,
+      "time_str": "02:32.239",
+      "text": "关于爱情",
+      "translation": null
+    },
+    {
+      "time": 154.489,
+      "time_str": "02:34.489",
+      "text": "过去没有异想的结局",
+      "translation": null
+    },
+    {
+      "time": 156.889,
+      "time_str": "02:36.889",
+      "text": "那天起",
+      "translation": null
+    },
+    {
+      "time": 159.299,
+      "time_str": "02:39.299",
+      "text": "却颠覆了自己逻辑",
+      "translation": null
+    },
+    {
+      "time": 161.649,
+      "time_str": "02:41.649",
+      "text": "我的怀疑",
+      "translation": null
+    },
+    {
+      "time": 163.139,
+      "time_str": "02:43.139",
+      "text": "所有答案因你而明白",
+      "translation": null
+    },
+    {
+      "time": 167.299,
+      "time_str": "02:47.299",
+      "text": "转啊转",
+      "translation": null
+    },
+    {
+      "time": 169.2,
+      "time_str": "02:49.200",
+      "text": "就真的遇见 Mr.right",
+      "translation": null
+    },
+    {
+      "time": 171.28,
+      "time_str": "02:51.280",
+      "text": "我的世界",
+      "translation": null
+    },
+    {
+      "time": 172.579,
+      "time_str": "02:52.579",
+      "text": "变得奇妙更难以言喻",
+      "translation": null
+    },
+    {
+      "time": 176.99,
+      "time_str": "02:56.990",
+      "text": "还以为",
+      "translation": null
+    },
+    {
+      "time": 177.538,
+      "time_str": "02:57.538",
+      "text": "是从天而降的梦境",
+      "translation": null
+    },
+    {
+      "time": 181.29,
+      "time_str": "03:01.290",
+      "text": "直到确定",
+      "translation": null
+    },
+    {
+      "time": 181.889,
+      "time_str": "03:01.889",
+      "text": "手的温度来自你心里",
+      "translation": null
+    },
+    {
+      "time": 184.929,
+      "time_str": "03:04.929",
+      "text": "这一刻",
+      "translation": null
+    },
+    {
+      "time": 186.968,
+      "time_str": "03:06.968",
+      "text": "也终于勇敢说爱你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "说爱你 - 蔡依林.lrc"
+}

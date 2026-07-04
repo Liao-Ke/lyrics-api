@@ -1,0 +1,340 @@
+{
+  "title": "天生反骨鸵鸟",
+  "title_raw": "天生反骨鸵鸟",
+  "version": null,
+  "artist": "毛毛不插电",
+  "group_key": "天生反骨鸵鸟|毛毛不插电",
+  "writers": {
+    "lyricist": "于晓明",
+    "composer": "BEN小样",
+    "arranger": "富宇"
+  },
+  "lyrics": [
+    {
+      "time": 0.183,
+      "time_str": "00:00.183",
+      "text": "我是天生反骨的 鸵鸟",
+      "translation": null
+    },
+    {
+      "time": 3.439,
+      "time_str": "00:03.439",
+      "text": "不是束手待宰的 羊羔",
+      "translation": null
+    },
+    {
+      "time": 6.686,
+      "time_str": "00:06.686",
+      "text": "冷枪暗刀 请放马过来 赐教",
+      "translation": null
+    },
+    {
+      "time": 10.182,
+      "time_str": "00:10.182",
+      "text": "别对我叫嚣 我任性逍遥 我没有小号",
+      "translation": null
+    },
+    {
+      "time": 13.686,
+      "time_str": "00:13.686",
+      "text": "我是天生反骨的 鸵鸟",
+      "translation": null
+    },
+    {
+      "time": 17.063,
+      "time_str": "00:17.063",
+      "text": "把小小宇宙充满 燃料",
+      "translation": null
+    },
+    {
+      "time": 20.066,
+      "time_str": "00:20.066",
+      "text": "跟上我的速度 烦恼 全甩掉",
+      "translation": null
+    },
+    {
+      "time": 23.577,
+      "time_str": "00:23.577",
+      "text": "别给我高帽 所有的梦想 都在熊熊燃烧",
+      "translation": null
+    },
+    {
+      "time": 31.517,
+      "time_str": "00:31.517",
+      "text": "命运 发出召唤的 信号",
+      "translation": null
+    },
+    {
+      "time": 34.512,
+      "time_str": "00:34.512",
+      "text": "拼了命 去挣脱寂寞 的铐",
+      "translation": null
+    },
+    {
+      "time": 37.52,
+      "time_str": "00:37.520",
+      "text": "我没有名号 别称我为 菜鸟",
+      "translation": null
+    },
+    {
+      "time": 41.025,
+      "time_str": "00:41.025",
+      "text": "把情歌关掉 把弱鸡踢爆",
+      "translation": null
+    },
+    {
+      "time": 44.914,
+      "time_str": "00:44.914",
+      "text": "漫天 飞砂走石在 呼啸",
+      "translation": null
+    },
+    {
+      "time": 47.913,
+      "time_str": "00:47.913",
+      "text": "怎么玩 不需要谁来 赐教",
+      "translation": null
+    },
+    {
+      "time": 50.922,
+      "time_str": "00:50.922",
+      "text": "烦恼全甩掉 每一刻都 闪耀",
+      "translation": null
+    },
+    {
+      "time": 54.362,
+      "time_str": "00:54.362",
+      "text": "极限的奔跑 速度已爆表",
+      "translation": null
+    },
+    {
+      "time": 57.363,
+      "time_str": "00:57.363",
+      "text": "我是天生反骨的 鸵鸟",
+      "translation": null
+    },
+    {
+      "time": 60.363,
+      "time_str": "01:00.363",
+      "text": "不是束手待宰的 羊羔",
+      "translation": null
+    },
+    {
+      "time": 63.862,
+      "time_str": "01:03.862",
+      "text": "冷枪暗刀 请放马过来 赐教",
+      "translation": null
+    },
+    {
+      "time": 67.112,
+      "time_str": "01:07.112",
+      "text": "别对我叫嚣 我任性逍遥 我没有小号",
+      "translation": null
+    },
+    {
+      "time": 70.862,
+      "time_str": "01:10.862",
+      "text": "我是天生反骨的 鸵鸟",
+      "translation": null
+    },
+    {
+      "time": 73.862,
+      "time_str": "01:13.862",
+      "text": "把小小宇宙充满 燃料",
+      "translation": null
+    },
+    {
+      "time": 77.115,
+      "time_str": "01:17.115",
+      "text": "跟上我的速度 烦恼 全甩掉",
+      "translation": null
+    },
+    {
+      "time": 80.375,
+      "time_str": "01:20.375",
+      "text": "别给我高帽 所有的梦想 都在熊熊燃烧",
+      "translation": null
+    },
+    {
+      "time": 98.507,
+      "time_str": "01:38.507",
+      "text": "命运 发出召唤的 信号",
+      "translation": null
+    },
+    {
+      "time": 101.514,
+      "time_str": "01:41.514",
+      "text": "拼了命 去挣脱寂寞 的铐",
+      "translation": null
+    },
+    {
+      "time": 104.756,
+      "time_str": "01:44.756",
+      "text": "我没有名号 别称我为 菜鸟",
+      "translation": null
+    },
+    {
+      "time": 107.949,
+      "time_str": "01:47.949",
+      "text": "把情歌关掉 把弱鸡踢爆",
+      "translation": null
+    },
+    {
+      "time": 111.645,
+      "time_str": "01:51.645",
+      "text": "漫天 飞砂走石在 呼啸",
+      "translation": null
+    },
+    {
+      "time": 115.087,
+      "time_str": "01:55.087",
+      "text": "怎么玩 不需要谁来 赐教",
+      "translation": null
+    },
+    {
+      "time": 117.842,
+      "time_str": "01:57.842",
+      "text": "烦恼全甩掉 每一刻都 闪耀",
+      "translation": null
+    },
+    {
+      "time": 121.587,
+      "time_str": "02:01.587",
+      "text": "极限的奔跑 速度已爆表",
+      "translation": null
+    },
+    {
+      "time": 124.78,
+      "time_str": "02:04.780",
+      "text": "我是天生反骨的 鸵鸟",
+      "translation": null
+    },
+    {
+      "time": 127.529,
+      "time_str": "02:07.529",
+      "text": "不是束手待宰的 羊羔",
+      "translation": null
+    },
+    {
+      "time": 131.044,
+      "time_str": "02:11.044",
+      "text": "冷枪暗刀 请放马过来 赐教",
+      "translation": null
+    },
+    {
+      "time": 134.286,
+      "time_str": "02:14.286",
+      "text": "别对我叫嚣 我任性逍遥 我没有小号",
+      "translation": null
+    },
+    {
+      "time": 138.034,
+      "time_str": "02:18.034",
+      "text": "我是天生反骨的 鸵鸟",
+      "translation": null
+    },
+    {
+      "time": 141.029,
+      "time_str": "02:21.029",
+      "text": "把小小宇宙充满 燃料",
+      "translation": null
+    },
+    {
+      "time": 144.291,
+      "time_str": "02:24.291",
+      "text": "跟上我的速度 烦恼 全甩掉",
+      "translation": null
+    },
+    {
+      "time": 147.977,
+      "time_str": "02:27.977",
+      "text": "别给我高帽 所有的梦想 都在熊熊燃烧",
+      "translation": null
+    },
+    {
+      "time": 154.42,
+      "time_str": "02:34.420",
+      "text": "熊熊燃烧",
+      "translation": null
+    },
+    {
+      "time": 158.417,
+      "time_str": "02:38.417",
+      "text": "跟上我的速度 烦恼 全甩掉",
+      "translation": null
+    },
+    {
+      "time": 161.568,
+      "time_str": "02:41.568",
+      "text": "别给我高帽 所有的梦想 都在熊熊燃烧",
+      "translation": null
+    },
+    {
+      "time": 165.068,
+      "time_str": "02:45.068",
+      "text": "我是天生反骨的 鸵鸟",
+      "translation": null
+    },
+    {
+      "time": 167.822,
+      "time_str": "02:47.822",
+      "text": "不是束手待宰的 羊羔",
+      "translation": null
+    },
+    {
+      "time": 171.082,
+      "time_str": "02:51.082",
+      "text": "冷枪暗刀 请放马过来 赐教",
+      "translation": null
+    },
+    {
+      "time": 174.574,
+      "time_str": "02:54.574",
+      "text": "别对我叫嚣 我任性逍遥 我没有小号",
+      "translation": null
+    },
+    {
+      "time": 178.32,
+      "time_str": "02:58.320",
+      "text": "我是天生反骨的 鸵鸟",
+      "translation": null
+    },
+    {
+      "time": 181.317,
+      "time_str": "03:01.317",
+      "text": "把小小宇宙充满 燃料",
+      "translation": null
+    },
+    {
+      "time": 184.758,
+      "time_str": "03:04.758",
+      "text": "跟上我的速度 烦恼 全甩掉",
+      "translation": null
+    },
+    {
+      "time": 188.145,
+      "time_str": "03:08.145",
+      "text": "别给我高帽 所有的梦想 都在熊熊燃烧",
+      "translation": null
+    },
+    {
+      "time": 196.393,
+      "time_str": "03:16.393",
+      "text": "(嘘，千万别被我吓跑)",
+      "translation": null
+    },
+    {
+      "time": 207.195,
+      "time_str": "03:27.195",
+      "text": "统筹 : Xiaomeng/夜灵儿elf",
+      "translation": null
+    },
+    {
+      "time": 208.028,
+      "time_str": "03:28.028",
+      "text": "封面 : 卜家驹@QuantumMusic",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天生反骨鸵鸟 - 毛毛不插电.lrc"
+}

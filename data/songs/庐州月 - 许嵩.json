@@ -1,0 +1,304 @@
+{
+  "title": "庐州月",
+  "title_raw": "庐州月",
+  "version": null,
+  "artist": "许嵩",
+  "group_key": "庐州月|许嵩",
+  "writers": {
+    "lyricist": "许嵩",
+    "composer": "许嵩",
+    "arranger": "许嵩"
+  },
+  "lyrics": [
+    {
+      "time": 20.209,
+      "time_str": "00:20.209",
+      "text": "儿时凿壁偷了谁家的光",
+      "translation": null
+    },
+    {
+      "time": 23.61,
+      "time_str": "00:23.610",
+      "text": "宿昔不梳 一苦十年寒窗",
+      "translation": null
+    },
+    {
+      "time": 27.499,
+      "time_str": "00:27.499",
+      "text": "如今灯下闲读 红袖添香",
+      "translation": null
+    },
+    {
+      "time": 31.259,
+      "time_str": "00:31.259",
+      "text": "半生浮名只是虚妄",
+      "translation": null
+    },
+    {
+      "time": 35.119,
+      "time_str": "00:35.119",
+      "text": "三月 一路烟霞 莺飞草长",
+      "translation": null
+    },
+    {
+      "time": 38.799,
+      "time_str": "00:38.799",
+      "text": "柳絮纷飞里看见了故乡",
+      "translation": null
+    },
+    {
+      "time": 42.659,
+      "time_str": "00:42.659",
+      "text": "不知心上的你是否还在庐阳",
+      "translation": null
+    },
+    {
+      "time": 47.159,
+      "time_str": "00:47.159",
+      "text": "一缕青丝一生珍藏",
+      "translation": null
+    },
+    {
+      "time": 51.099,
+      "time_str": "00:51.099",
+      "text": "桥上的恋人入对出双",
+      "translation": null
+    },
+    {
+      "time": 54.389,
+      "time_str": "00:54.389",
+      "text": "桥边红药叹夜太漫长",
+      "translation": null
+    },
+    {
+      "time": 58.19,
+      "time_str": "00:58.190",
+      "text": "月也摇晃 人也彷徨",
+      "translation": null
+    },
+    {
+      "time": 61.709,
+      "time_str": "01:01.709",
+      "text": "乌篷里传来了一曲离殇",
+      "translation": null
+    },
+    {
+      "time": 67.899,
+      "time_str": "01:07.899",
+      "text": "庐州月光 洒在心上",
+      "translation": null
+    },
+    {
+      "time": 71.249,
+      "time_str": "01:11.249",
+      "text": "月下的你不复当年模样",
+      "translation": null
+    },
+    {
+      "time": 75.199,
+      "time_str": "01:15.199",
+      "text": "太多的伤 难诉衷肠",
+      "translation": null
+    },
+    {
+      "time": 78.819,
+      "time_str": "01:18.819",
+      "text": "叹一句当时只道是寻常",
+      "translation": null
+    },
+    {
+      "time": 83.899,
+      "time_str": "01:23.899",
+      "text": "庐州月光 梨花雨凉",
+      "translation": null
+    },
+    {
+      "time": 87.099,
+      "time_str": "01:27.099",
+      "text": "如今的你又在谁的身旁",
+      "translation": null
+    },
+    {
+      "time": 90.788,
+      "time_str": "01:30.788",
+      "text": "家乡月光 深深烙在我心上",
+      "translation": null
+    },
+    {
+      "time": 95.299,
+      "time_str": "01:35.299",
+      "text": "却流不出当年泪光",
+      "translation": null
+    },
+    {
+      "time": 116.057,
+      "time_str": "01:56.057",
+      "text": "三月 一路烟霞 莺飞草长",
+      "translation": null
+    },
+    {
+      "time": 119.729,
+      "time_str": "01:59.729",
+      "text": "柳絮纷飞里看见了故乡",
+      "translation": null
+    },
+    {
+      "time": 123.489,
+      "time_str": "02:03.489",
+      "text": "不知心上的你是否还在庐阳",
+      "translation": null
+    },
+    {
+      "time": 128.01,
+      "time_str": "02:08.010",
+      "text": "一缕青丝一生珍藏",
+      "translation": null
+    },
+    {
+      "time": 132.1,
+      "time_str": "02:12.100",
+      "text": "桥上的恋人入对出双",
+      "translation": null
+    },
+    {
+      "time": 135.169,
+      "time_str": "02:15.169",
+      "text": "桥边红药叹夜太漫长",
+      "translation": null
+    },
+    {
+      "time": 139.7,
+      "time_str": "02:19.700",
+      "text": "月也摇晃 人也彷徨",
+      "translation": null
+    },
+    {
+      "time": 142.579,
+      "time_str": "02:22.579",
+      "text": "乌篷里传来了一曲离殇",
+      "translation": null
+    },
+    {
+      "time": 148.29,
+      "time_str": "02:28.290",
+      "text": "庐州月光 洒在心上",
+      "translation": null
+    },
+    {
+      "time": 152.179,
+      "time_str": "02:32.179",
+      "text": "月下的你不复当年模样",
+      "translation": null
+    },
+    {
+      "time": 156.39,
+      "time_str": "02:36.390",
+      "text": "太多的伤 难诉衷肠",
+      "translation": null
+    },
+    {
+      "time": 159.689,
+      "time_str": "02:39.689",
+      "text": "叹一句当时只道是寻常",
+      "translation": null
+    },
+    {
+      "time": 163.499,
+      "time_str": "02:43.499",
+      "text": "庐州月光 梨花雨凉",
+      "translation": null
+    },
+    {
+      "time": 167.799,
+      "time_str": "02:47.799",
+      "text": "如今的你又在谁的身旁",
+      "translation": null
+    },
+    {
+      "time": 171.119,
+      "time_str": "02:51.119",
+      "text": "家乡月光 深深烙在我心上",
+      "translation": null
+    },
+    {
+      "time": 175.619,
+      "time_str": "02:55.619",
+      "text": "却流不出当年泪光",
+      "translation": null
+    },
+    {
+      "time": 182.0,
+      "time_str": "03:02.000",
+      "text": "庐州的月光 在我心上",
+      "translation": null
+    },
+    {
+      "time": 185.419,
+      "time_str": "03:05.419",
+      "text": "太多的伤 难诉衷肠",
+      "translation": null
+    },
+    {
+      "time": 189.259,
+      "time_str": "03:09.259",
+      "text": "如今的你在谁的身旁",
+      "translation": null
+    },
+    {
+      "time": 192.699,
+      "time_str": "03:12.699",
+      "text": "我流不出当年泪光",
+      "translation": null
+    },
+    {
+      "time": 196.69,
+      "time_str": "03:16.690",
+      "text": "庐州月光 洒在心上",
+      "translation": null
+    },
+    {
+      "time": 199.699,
+      "time_str": "03:19.699",
+      "text": "月下的你不复当年模样",
+      "translation": null
+    },
+    {
+      "time": 203.509,
+      "time_str": "03:23.509",
+      "text": "太多的伤 难诉衷肠",
+      "translation": null
+    },
+    {
+      "time": 207.6,
+      "time_str": "03:27.600",
+      "text": "叹一句当时只道是寻常",
+      "translation": null
+    },
+    {
+      "time": 211.1,
+      "time_str": "03:31.100",
+      "text": "庐州月光 梨花雨凉",
+      "translation": null
+    },
+    {
+      "time": 215.19,
+      "time_str": "03:35.190",
+      "text": "如今的你又在谁的身旁",
+      "translation": null
+    },
+    {
+      "time": 218.769,
+      "time_str": "03:38.769",
+      "text": "家乡月光 深深烙在我心上",
+      "translation": null
+    },
+    {
+      "time": 223.529,
+      "time_str": "03:43.529",
+      "text": "却流不出当年泪光",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "庐州月 - 许嵩.lrc"
+}

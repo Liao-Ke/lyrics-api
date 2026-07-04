@@ -1,0 +1,346 @@
+{
+  "title": "天亮以前说再见",
+  "title_raw": "天亮以前说再见",
+  "version": null,
+  "artist": "曲肖冰",
+  "group_key": "天亮以前说再见|曲肖冰",
+  "writers": {
+    "lyricist": "康梓峰",
+    "composer": "康梓峰",
+    "arranger": "王柏鸿"
+  },
+  "lyrics": [
+    {
+      "time": 27.6,
+      "time_str": "00:27.600",
+      "text": "水花只能开在雨天",
+      "translation": null
+    },
+    {
+      "time": 33.44,
+      "time_str": "00:33.440",
+      "text": "烟花要绽放在黑夜",
+      "translation": null
+    },
+    {
+      "time": 39.51,
+      "time_str": "00:39.510",
+      "text": "雪花多舍不得冬天",
+      "translation": null
+    },
+    {
+      "time": 45.54,
+      "time_str": "00:45.540",
+      "text": "像我舍不得和你说再见",
+      "translation": null
+    },
+    {
+      "time": 51.4,
+      "time_str": "00:51.400",
+      "text": "谎言并不代表欺骗",
+      "translation": null
+    },
+    {
+      "time": 57.46,
+      "time_str": "00:57.460",
+      "text": "诺言也不一定兑现",
+      "translation": null
+    },
+    {
+      "time": 63.43,
+      "time_str": "01:03.430",
+      "text": "誓言就都留给时间",
+      "translation": null
+    },
+    {
+      "time": 69.49,
+      "time_str": "01:09.490",
+      "text": "就请把从前留在今天",
+      "translation": null
+    },
+    {
+      "time": 76.31,
+      "time_str": "01:16.310",
+      "text": "天亮以前说再见",
+      "translation": null
+    },
+    {
+      "time": 79.14,
+      "time_str": "01:19.140",
+      "text": "笑着泪流满面",
+      "translation": null
+    },
+    {
+      "time": 82.17,
+      "time_str": "01:22.170",
+      "text": "去迎接",
+      "translation": null
+    },
+    {
+      "time": 83.24,
+      "time_str": "01:23.240",
+      "text": "应该你的",
+      "translation": null
+    },
+    {
+      "time": 85.21,
+      "time_str": "01:25.210",
+      "text": "更好的明天",
+      "translation": null
+    },
+    {
+      "time": 88.19,
+      "time_str": "01:28.190",
+      "text": "昙花若只一现",
+      "translation": null
+    },
+    {
+      "time": 91.13,
+      "time_str": "01:31.130",
+      "text": "更要开的耀眼",
+      "translation": null
+    },
+    {
+      "time": 94.21,
+      "time_str": "01:34.210",
+      "text": "别回头去拥有",
+      "translation": null
+    },
+    {
+      "time": 96.5,
+      "time_str": "01:36.500",
+      "text": "属于你更好的世界",
+      "translation": null
+    },
+    {
+      "time": 100.24,
+      "time_str": "01:40.240",
+      "text": "天亮以前说再见",
+      "translation": null
+    },
+    {
+      "time": 103.12,
+      "time_str": "01:43.120",
+      "text": "让我留在今天",
+      "translation": null
+    },
+    {
+      "time": 106.31,
+      "time_str": "01:46.310",
+      "text": "去保护",
+      "translation": null
+    },
+    {
+      "time": 107.22,
+      "time_str": "01:47.220",
+      "text": "我和你的",
+      "translation": null
+    },
+    {
+      "time": 109.19,
+      "time_str": "01:49.190",
+      "text": "最好的夏天",
+      "translation": null
+    },
+    {
+      "time": 112.08,
+      "time_str": "01:52.080",
+      "text": "情丝若水三千",
+      "translation": null
+    },
+    {
+      "time": 115.17,
+      "time_str": "01:55.170",
+      "text": "只取一瓢眷恋",
+      "translation": null
+    },
+    {
+      "time": 117.75,
+      "time_str": "01:57.750",
+      "text": "当你来过的纪念",
+      "translation": null
+    },
+    {
+      "time": 123.57,
+      "time_str": "02:03.570",
+      "text": "水花只能开在雨天",
+      "translation": null
+    },
+    {
+      "time": 129.49,
+      "time_str": "02:09.490",
+      "text": "烟花要绽放在黑夜",
+      "translation": null
+    },
+    {
+      "time": 135.4,
+      "time_str": "02:15.400",
+      "text": "雪花多舍不得冬天",
+      "translation": null
+    },
+    {
+      "time": 141.37,
+      "time_str": "02:21.370",
+      "text": "像我舍不得和你说再见",
+      "translation": null
+    },
+    {
+      "time": 147.39,
+      "time_str": "02:27.390",
+      "text": "谎言并不代表欺骗",
+      "translation": null
+    },
+    {
+      "time": 153.46,
+      "time_str": "02:33.460",
+      "text": "诺言也不一定兑现",
+      "translation": null
+    },
+    {
+      "time": 159.43,
+      "time_str": "02:39.430",
+      "text": "誓言就都留给时间",
+      "translation": null
+    },
+    {
+      "time": 165.35,
+      "time_str": "02:45.350",
+      "text": "就请把从前留在今天",
+      "translation": null
+    },
+    {
+      "time": 172.29,
+      "time_str": "02:52.290",
+      "text": "天亮以前说再见",
+      "translation": null
+    },
+    {
+      "time": 175.22,
+      "time_str": "02:55.220",
+      "text": "笑着泪流满面",
+      "translation": null
+    },
+    {
+      "time": 178.31,
+      "time_str": "02:58.310",
+      "text": "去迎接",
+      "translation": null
+    },
+    {
+      "time": 179.27,
+      "time_str": "02:59.270",
+      "text": "应该你的",
+      "translation": null
+    },
+    {
+      "time": 181.24,
+      "time_str": "03:01.240",
+      "text": "更好的明天",
+      "translation": null
+    },
+    {
+      "time": 184.28,
+      "time_str": "03:04.280",
+      "text": "昙花若只一现",
+      "translation": null
+    },
+    {
+      "time": 187.16,
+      "time_str": "03:07.160",
+      "text": "更要开的耀眼",
+      "translation": null
+    },
+    {
+      "time": 189.84,
+      "time_str": "03:09.840",
+      "text": "别回头去拥有",
+      "translation": null
+    },
+    {
+      "time": 192.48,
+      "time_str": "03:12.480",
+      "text": "属于你更好的世界",
+      "translation": null
+    },
+    {
+      "time": 196.07,
+      "time_str": "03:16.070",
+      "text": "天亮以前说再见",
+      "translation": null
+    },
+    {
+      "time": 199.26,
+      "time_str": "03:19.260",
+      "text": "让我留在今天",
+      "translation": null
+    },
+    {
+      "time": 202.39,
+      "time_str": "03:22.390",
+      "text": "去保护",
+      "translation": null
+    },
+    {
+      "time": 203.36,
+      "time_str": "03:23.360",
+      "text": "我和你的",
+      "translation": null
+    },
+    {
+      "time": 205.22,
+      "time_str": "03:25.220",
+      "text": "最好的夏天",
+      "translation": null
+    },
+    {
+      "time": 208.26,
+      "time_str": "03:28.260",
+      "text": "情丝若水三千",
+      "translation": null
+    },
+    {
+      "time": 211.24,
+      "time_str": "03:31.240",
+      "text": "只取一瓢眷恋",
+      "translation": null
+    },
+    {
+      "time": 213.92,
+      "time_str": "03:33.920",
+      "text": "当你来过的纪念",
+      "translation": null
+    },
+    {
+      "time": 236.68,
+      "time_str": "03:56.680",
+      "text": "缩混：张栩赫（Ethan）",
+      "translation": null
+    },
+    {
+      "time": 242.52,
+      "time_str": "04:02.520",
+      "text": "混音室：Hot Music Studio",
+      "translation": null
+    },
+    {
+      "time": 243.87,
+      "time_str": "04:03.870",
+      "text": "制作团队：KingStar音乐社团/柏鸿工作室",
+      "translation": null
+    },
+    {
+      "time": 244.17,
+      "time_str": "04:04.170",
+      "text": "企划营销：梦童娱乐",
+      "translation": null
+    },
+    {
+      "time": 246.25,
+      "time_str": "04:06.250",
+      "text": "ＯＰ：千和世纪",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天亮以前说再见 - 曲肖冰.lrc"
+}

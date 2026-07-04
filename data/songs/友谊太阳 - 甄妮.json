@@ -1,0 +1,268 @@
+{
+  "title": "友谊太阳",
+  "title_raw": "友谊太阳",
+  "version": null,
+  "artist": "甄妮",
+  "group_key": "友谊太阳|甄妮",
+  "writers": {
+    "lyricist": "潘伟源",
+    "composer": "李英勋",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 37.546,
+      "time_str": "00:37.546",
+      "text": "人尽了已完场",
+      "translation": null
+    },
+    {
+      "time": 41.197,
+      "time_str": "00:41.197",
+      "text": "瞭望今生气象",
+      "translation": null
+    },
+    {
+      "time": 44.627,
+      "time_str": "00:44.627",
+      "text": "延续那无尽路向",
+      "translation": null
+    },
+    {
+      "time": 47.735,
+      "time_str": "00:47.735",
+      "text": "心底的光辉总照亮",
+      "translation": null
+    },
+    {
+      "time": 51.727,
+      "time_str": "00:51.727",
+      "text": "年月似乎很绵长",
+      "translation": null
+    },
+    {
+      "time": 55.701,
+      "time_str": "00:55.701",
+      "text": "难及你的友谊长",
+      "translation": null
+    },
+    {
+      "time": 59.212,
+      "time_str": "00:59.212",
+      "text": "带引又上路觅我方向",
+      "translation": null
+    },
+    {
+      "time": 66.962,
+      "time_str": "01:06.962",
+      "text": "美好的自会印在我心间",
+      "translation": null
+    },
+    {
+      "time": 72.48,
+      "time_str": "01:12.480",
+      "text": "忘掉了满眼泪的喟叹",
+      "translation": null
+    },
+    {
+      "time": 79.653,
+      "time_str": "01:19.653",
+      "text": "别了他纸醉金迷于梦幻",
+      "translation": null
+    },
+    {
+      "time": 87.652,
+      "time_str": "01:27.652",
+      "text": "挽着我是友善的臂弯",
+      "translation": null
+    },
+    {
+      "time": 96.284,
+      "time_str": "01:36.284",
+      "text": "每一天是你暖在我心间",
+      "translation": null
+    },
+    {
+      "time": 102.165,
+      "time_str": "01:42.165",
+      "text": "携着我极快乐的步上",
+      "translation": null
+    },
+    {
+      "time": 109.131,
+      "time_str": "01:49.131",
+      "text": "友爱的臂弯超越了极限",
+      "translation": null
+    },
+    {
+      "time": 116.82,
+      "time_str": "01:56.820",
+      "text": "你令我长夜更浪漫",
+      "translation": null
+    },
+    {
+      "time": 128.755,
+      "time_str": "02:08.755",
+      "text": "燃亮友谊太阳",
+      "translation": null
+    },
+    {
+      "time": 133.032,
+      "time_str": "02:13.032",
+      "text": "情在眼中酝酿",
+      "translation": null
+    },
+    {
+      "time": 135.976,
+      "time_str": "02:15.976",
+      "text": "延续了无限热爱",
+      "translation": null
+    },
+    {
+      "time": 138.265,
+      "time_str": "02:18.265",
+      "text": "分手的一刻都漂亮",
+      "translation": null
+    },
+    {
+      "time": 142.849,
+      "time_str": "02:22.849",
+      "text": "前路似乎很绵长",
+      "translation": null
+    },
+    {
+      "time": 146.447,
+      "time_str": "02:26.447",
+      "text": "难及你的友谊长",
+      "translation": null
+    },
+    {
+      "time": 150.155,
+      "time_str": "02:30.155",
+      "text": "纵有百个路为你跨上",
+      "translation": null
+    },
+    {
+      "time": 158.177,
+      "time_str": "02:38.177",
+      "text": "美好的自会印在我心间",
+      "translation": null
+    },
+    {
+      "time": 163.384,
+      "time_str": "02:43.384",
+      "text": "忘掉了满眼泪的喟叹",
+      "translation": null
+    },
+    {
+      "time": 170.752,
+      "time_str": "02:50.752",
+      "text": "别了他纸醉金迷于梦幻",
+      "translation": null
+    },
+    {
+      "time": 178.431,
+      "time_str": "02:58.431",
+      "text": "挽着我是友善的臂弯",
+      "translation": null
+    },
+    {
+      "time": 187.079,
+      "time_str": "03:07.079",
+      "text": "每一天是你暖在我心间",
+      "translation": null
+    },
+    {
+      "time": 192.518,
+      "time_str": "03:12.518",
+      "text": "携着我极快乐的步上",
+      "translation": null
+    },
+    {
+      "time": 199.904,
+      "time_str": "03:19.904",
+      "text": "友爱的臂弯超越了极限",
+      "translation": null
+    },
+    {
+      "time": 207.654,
+      "time_str": "03:27.654",
+      "text": "你令我长夜更浪漫",
+      "translation": null
+    },
+    {
+      "time": 216.782,
+      "time_str": "03:36.782",
+      "text": "每一天是你暖在我心间",
+      "translation": null
+    },
+    {
+      "time": 222.167,
+      "time_str": "03:42.167",
+      "text": "携着我极快乐的步上",
+      "translation": null
+    },
+    {
+      "time": 229.0,
+      "time_str": "03:49.000",
+      "text": "友爱的臂弯超越了极限",
+      "translation": null
+    },
+    {
+      "time": 236.811,
+      "time_str": "03:56.811",
+      "text": "你令我长夜更浪漫",
+      "translation": null
+    },
+    {
+      "time": 245.8,
+      "time_str": "04:05.800",
+      "text": "每一天是你暖在我心间",
+      "translation": null
+    },
+    {
+      "time": 251.397,
+      "time_str": "04:11.397",
+      "text": "携着我极快乐的步上",
+      "translation": null
+    },
+    {
+      "time": 258.284,
+      "time_str": "04:18.284",
+      "text": "友爱的臂弯超越了极限",
+      "translation": null
+    },
+    {
+      "time": 265.482,
+      "time_str": "04:25.482",
+      "text": "你令我长夜更浪漫",
+      "translation": null
+    },
+    {
+      "time": 275.352,
+      "time_str": "04:35.352",
+      "text": "每一天是你暖在我心间",
+      "translation": null
+    },
+    {
+      "time": 279.989,
+      "time_str": "04:39.989",
+      "text": "携着我极快乐的步上",
+      "translation": null
+    },
+    {
+      "time": 287.472,
+      "time_str": "04:47.472",
+      "text": "友爱的臂弯超越了极限",
+      "translation": null
+    },
+    {
+      "time": 295.284,
+      "time_str": "04:55.284",
+      "text": "你令我长夜更浪漫",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "友谊太阳 - 甄妮.lrc"
+}

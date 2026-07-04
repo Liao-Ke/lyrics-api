@@ -1,0 +1,244 @@
+{
+  "title": "我们说好的",
+  "title_raw": "我们说好的",
+  "version": null,
+  "artist": "群星",
+  "group_key": "我们说好的|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.92,
+      "time_str": "00:16.920",
+      "text": "好吗一句话就哽住了喉",
+      "translation": null
+    },
+    {
+      "time": 23.43,
+      "time_str": "00:23.430",
+      "text": "城市当背景的海市蜃楼",
+      "translation": null
+    },
+    {
+      "time": 30.17,
+      "time_str": "00:30.170",
+      "text": "我们像分隔成一整个宇宙",
+      "translation": null
+    },
+    {
+      "time": 36.95,
+      "time_str": "00:36.950",
+      "text": "再见都化作乌有",
+      "translation": null
+    },
+    {
+      "time": 43.15,
+      "time_str": "00:43.150",
+      "text": "我们说好决不放开相互牵的手",
+      "translation": null
+    },
+    {
+      "time": 50.34,
+      "time_str": "00:50.340",
+      "text": "可现实说过有爱还不够",
+      "translation": null
+    },
+    {
+      "time": 57.34,
+      "time_str": "00:57.340",
+      "text": "走到分岔的路口",
+      "translation": null
+    },
+    {
+      "time": 60.89,
+      "time_str": "01:00.890",
+      "text": "你向左我向右",
+      "translation": null
+    },
+    {
+      "time": 64.44,
+      "time_str": "01:04.440",
+      "text": "我们都倔强地不曾回头",
+      "translation": null
+    },
+    {
+      "time": 70.41,
+      "time_str": "01:10.410",
+      "text": "我们说好就算分开一样做朋友",
+      "translation": null
+    },
+    {
+      "time": 77.06,
+      "time_str": "01:17.060",
+      "text": "时间说我们从此不可能再问候",
+      "translation": null
+    },
+    {
+      "time": 83.79,
+      "time_str": "01:23.790",
+      "text": "人群中再次邂逅",
+      "translation": null
+    },
+    {
+      "time": 86.97,
+      "time_str": "01:26.970",
+      "text": "你变得那么瘦",
+      "translation": null
+    },
+    {
+      "time": 90.37,
+      "time_str": "01:30.370",
+      "text": "我还是沦陷在你的眼眸",
+      "translation": null
+    },
+    {
+      "time": 109.61,
+      "time_str": "01:49.610",
+      "text": "好吗一句话就哽住了喉",
+      "translation": null
+    },
+    {
+      "time": 116.61,
+      "time_str": "01:56.610",
+      "text": "城市当背景的海市蜃楼",
+      "translation": null
+    },
+    {
+      "time": 122.95,
+      "time_str": "02:02.950",
+      "text": "我们像分隔成一整个宇宙",
+      "translation": null
+    },
+    {
+      "time": 130.06,
+      "time_str": "02:10.060",
+      "text": "再见都化作乌有",
+      "translation": null
+    },
+    {
+      "time": 136.23,
+      "time_str": "02:16.230",
+      "text": "我们说好决不放开相互牵的手",
+      "translation": null
+    },
+    {
+      "time": 143.64,
+      "time_str": "02:23.640",
+      "text": "可现实说过有爱还不够",
+      "translation": null
+    },
+    {
+      "time": 150.31,
+      "time_str": "02:30.310",
+      "text": "走到分岔的路口",
+      "translation": null
+    },
+    {
+      "time": 153.55,
+      "time_str": "02:33.550",
+      "text": "你向左我向右",
+      "translation": null
+    },
+    {
+      "time": 156.76,
+      "time_str": "02:36.760",
+      "text": "我们都倔强地不曾回头",
+      "translation": null
+    },
+    {
+      "time": 162.84,
+      "time_str": "02:42.840",
+      "text": "我们说好就算分开一样做朋友",
+      "translation": null
+    },
+    {
+      "time": 169.53,
+      "time_str": "02:49.530",
+      "text": "时间说我们从此不可能再问候",
+      "translation": null
+    },
+    {
+      "time": 176.91,
+      "time_str": "02:56.910",
+      "text": "人群中再次邂逅",
+      "translation": null
+    },
+    {
+      "time": 180.3,
+      "time_str": "03:00.300",
+      "text": "你变得那么瘦",
+      "translation": null
+    },
+    {
+      "time": 183.83,
+      "time_str": "03:03.830",
+      "text": "我还是沦陷在你的眼眸",
+      "translation": null
+    },
+    {
+      "time": 213.15,
+      "time_str": "03:33.150",
+      "text": "我们说好一起老去看细水长流",
+      "translation": null
+    },
+    {
+      "time": 219.83,
+      "time_str": "03:39.830",
+      "text": "却将会成为别人的某某",
+      "translation": null
+    },
+    {
+      "time": 227.28,
+      "time_str": "03:47.280",
+      "text": "走到分岔的路口",
+      "translation": null
+    },
+    {
+      "time": 230.23,
+      "time_str": "03:50.230",
+      "text": "你向左我向右",
+      "translation": null
+    },
+    {
+      "time": 233.5,
+      "time_str": "03:53.500",
+      "text": "我们都强忍着不曾回头",
+      "translation": null
+    },
+    {
+      "time": 239.69,
+      "time_str": "03:59.690",
+      "text": "我们说好下个永恒里面再碰头",
+      "translation": null
+    },
+    {
+      "time": 246.71,
+      "time_str": "04:06.710",
+      "text": "爱情挥霍在当时光渐渐在退后",
+      "translation": null
+    },
+    {
+      "time": 253.34,
+      "time_str": "04:13.340",
+      "text": "下一次如果邂逅你别再那么伤",
+      "translation": null
+    },
+    {
+      "time": 260.68,
+      "time_str": "04:20.680",
+      "text": "我想一直沦陷在你的眼眸",
+      "translation": null
+    },
+    {
+      "time": 267.41,
+      "time_str": "04:27.410",
+      "text": "这是无可救药爱情的荒谬",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我们说好的 - 群星.lrc"
+}

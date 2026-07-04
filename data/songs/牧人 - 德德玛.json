@@ -1,0 +1,178 @@
+{
+  "title": "牧人",
+  "title_raw": "牧人",
+  "version": null,
+  "artist": "德德玛",
+  "group_key": "牧人|德德玛",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.5,
+      "time_str": "00:29.500",
+      "text": "一辈子放牧摸黑又起早，",
+      "translation": null
+    },
+    {
+      "time": 34.998,
+      "time_str": "00:34.998",
+      "text": "马背上失去了青春却不曾知道；",
+      "translation": null
+    },
+    {
+      "time": 42.379,
+      "time_str": "00:42.379",
+      "text": "放过羊群放过马群；",
+      "translation": null
+    },
+    {
+      "time": 49.999,
+      "time_str": "00:49.999",
+      "text": "放过了风沙也放过了风暴；",
+      "translation": null
+    },
+    {
+      "time": 56.479,
+      "time_str": "00:56.479",
+      "text": "最爱喝的是烈性的酒；",
+      "translation": null
+    },
+    {
+      "time": 65.937,
+      "time_str": "01:05.937",
+      "text": "最爱唱的是蒙古的长调；",
+      "translation": null
+    },
+    {
+      "time": 73.298,
+      "time_str": "01:13.298",
+      "text": "只要喝了酒只要唱起歌；",
+      "translation": null
+    },
+    {
+      "time": 80.498,
+      "time_str": "01:20.498",
+      "text": "大树也压不垮，大风也刮不倒；",
+      "translation": null
+    },
+    {
+      "time": 85.837,
+      "time_str": "01:25.837",
+      "text": "啊~~~哈~~~嘿`~~~~~`",
+      "translation": null
+    },
+    {
+      "time": 107.808,
+      "time_str": "01:47.808",
+      "text": "一辈子放牧摸黑又起早，",
+      "translation": null
+    },
+    {
+      "time": 115.687,
+      "time_str": "01:55.687",
+      "text": "马背上颠簸的岁月累弯了腰；",
+      "translation": null
+    },
+    {
+      "time": 121.287,
+      "time_str": "02:01.287",
+      "text": "放牧着昨天，放牧着明天；",
+      "translation": null
+    },
+    {
+      "time": 127.397,
+      "time_str": "02:07.397",
+      "text": "追逐过彩云迷恋过花草；",
+      "translation": null
+    },
+    {
+      "time": 133.99,
+      "time_str": "02:13.990",
+      "text": "从不辗转昨日的围栏；",
+      "translation": null
+    },
+    {
+      "time": 138.98,
+      "time_str": "02:18.980",
+      "text": "总在把新的牧场寻找；",
+      "translation": null
+    },
+    {
+      "time": 146.95,
+      "time_str": "02:26.950",
+      "text": "大河也拦不住，沙漠也挡不住；",
+      "translation": null
+    },
+    {
+      "time": 151.67,
+      "time_str": "02:31.670",
+      "text": "马蹄声叩响了心中的春潮",
+      "translation": null
+    },
+    {
+      "time": 156.629,
+      "time_str": "02:36.629",
+      "text": "啊~~~哈~~~嘿`~~~~~`，",
+      "translation": null
+    },
+    {
+      "time": 193.48,
+      "time_str": "03:13.480",
+      "text": "一辈子放牧摸黑又起早，",
+      "translation": null
+    },
+    {
+      "time": 200.6,
+      "time_str": "03:20.600",
+      "text": "马背上失去了青春却不曾知道；",
+      "translation": null
+    },
+    {
+      "time": 207.5,
+      "time_str": "03:27.500",
+      "text": "放过羊群放过马群；",
+      "translation": null
+    },
+    {
+      "time": 215.6,
+      "time_str": "03:35.600",
+      "text": "放过了风沙也放过了风暴；",
+      "translation": null
+    },
+    {
+      "time": 225.42,
+      "time_str": "03:45.420",
+      "text": "最爱喝的是烈性的酒；",
+      "translation": null
+    },
+    {
+      "time": 232.81,
+      "time_str": "03:52.810",
+      "text": "最爱唱的是蒙古的长调；",
+      "translation": null
+    },
+    {
+      "time": 240.84,
+      "time_str": "04:00.840",
+      "text": "只要喝了酒只要唱起歌；",
+      "translation": null
+    },
+    {
+      "time": 247.86,
+      "time_str": "04:07.860",
+      "text": "大树也压不垮，大风也刮不倒；",
+      "translation": null
+    },
+    {
+      "time": 254.05,
+      "time_str": "04:14.050",
+      "text": "啊~~~哈~~~嘿`~~~~~`",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "牧人 - 德德玛.lrc"
+}

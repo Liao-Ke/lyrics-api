@@ -1,0 +1,334 @@
+{
+  "title": "追光者",
+  "title_raw": "追光者(粤语版)",
+  "version": "粤语版",
+  "artist": "张与桐（阿细）",
+  "group_key": "追光者|张与桐（阿细）",
+  "writers": {
+    "lyricist": "阿细",
+    "composer": "马敬",
+    "arranger": "发发"
+  },
+  "lyrics": [
+    {
+      "time": 3.15,
+      "time_str": "00:03.150",
+      "text": "你永远在远处发着光",
+      "translation": null
+    },
+    {
+      "time": 6.86,
+      "time_str": "00:06.860",
+      "text": "但我却怎么也抓不到",
+      "translation": null
+    },
+    {
+      "time": 10.62,
+      "time_str": "00:10.620",
+      "text": "即使前路一片漆黑",
+      "translation": null
+    },
+    {
+      "time": 13.56,
+      "time_str": "00:13.560",
+      "text": "但是",
+      "translation": null
+    },
+    {
+      "time": 15.4,
+      "time_str": "00:15.400",
+      "text": "我愿意",
+      "translation": null
+    },
+    {
+      "time": 24.46,
+      "time_str": "00:24.460",
+      "text": "你似光",
+      "translation": null
+    },
+    {
+      "time": 29.2,
+      "time_str": "00:29.200",
+      "text": "注定燃亮我心火",
+      "translation": null
+    },
+    {
+      "time": 29.41,
+      "time_str": "00:29.410",
+      "text": "即管重复地划破",
+      "translation": null
+    },
+    {
+      "time": 33.12,
+      "time_str": "00:33.120",
+      "text": "告别我",
+      "translation": null
+    },
+    {
+      "time": 34.61,
+      "time_str": "00:34.610",
+      "text": "唯独亦不熄感觉",
+      "translation": null
+    },
+    {
+      "time": 37.71,
+      "time_str": "00:37.710",
+      "text": "像最初",
+      "translation": null
+    },
+    {
+      "time": 39.34,
+      "time_str": "00:39.340",
+      "text": "我是无惧那一个",
+      "translation": null
+    },
+    {
+      "time": 42.35,
+      "time_str": "00:42.350",
+      "text": "漆黑里敢于自我",
+      "translation": null
+    },
+    {
+      "time": 48.01,
+      "time_str": "00:48.010",
+      "text": "直到光交错于身擦过",
+      "translation": null
+    },
+    {
+      "time": 51.17,
+      "time_str": "00:51.170",
+      "text": "没法一起是我想得太多",
+      "translation": null
+    },
+    {
+      "time": 60.5,
+      "time_str": "01:00.500",
+      "text": "原来幸福装载对岸",
+      "translation": null
+    },
+    {
+      "time": 63.86,
+      "time_str": "01:03.860",
+      "text": "一闪过不要太惊慌",
+      "translation": null
+    },
+    {
+      "time": 67.07,
+      "time_str": "01:07.070",
+      "text": "为何未写过便要放",
+      "translation": null
+    },
+    {
+      "time": 70.6,
+      "time_str": "01:10.600",
+      "text": "可给我终确定答案",
+      "translation": null
+    },
+    {
+      "time": 73.65,
+      "time_str": "01:13.650",
+      "text": "原来自卑淹没过我",
+      "translation": null
+    },
+    {
+      "time": 77.12,
+      "time_str": "01:17.120",
+      "text": "不敢去拥抱那束光",
+      "translation": null
+    },
+    {
+      "time": 80.6,
+      "time_str": "01:20.600",
+      "text": "情愿没改变像困我",
+      "translation": null
+    },
+    {
+      "time": 84.31,
+      "time_str": "01:24.310",
+      "text": "若有错",
+      "translation": null
+    },
+    {
+      "time": 86.9,
+      "time_str": "01:26.900",
+      "text": "可否改过",
+      "translation": null
+    },
+    {
+      "time": 101.04,
+      "time_str": "01:41.040",
+      "text": "你似光",
+      "translation": null
+    },
+    {
+      "time": 102.61,
+      "time_str": "01:42.610",
+      "text": "注定燃亮我心火",
+      "translation": null
+    },
+    {
+      "time": 105.87,
+      "time_str": "01:45.870",
+      "text": "即管重复地划破",
+      "translation": null
+    },
+    {
+      "time": 109.65,
+      "time_str": "01:49.650",
+      "text": "告别我",
+      "translation": null
+    },
+    {
+      "time": 111.23,
+      "time_str": "01:51.230",
+      "text": "唯独亦不熄感觉",
+      "translation": null
+    },
+    {
+      "time": 114.2,
+      "time_str": "01:54.200",
+      "text": "像最初",
+      "translation": null
+    },
+    {
+      "time": 115.79,
+      "time_str": "01:55.790",
+      "text": "我是无惧那一个",
+      "translation": null
+    },
+    {
+      "time": 119.09,
+      "time_str": "01:59.090",
+      "text": "漆黑里敢于自我",
+      "translation": null
+    },
+    {
+      "time": 124.66,
+      "time_str": "02:04.660",
+      "text": "直到光交错于身擦过",
+      "translation": null
+    },
+    {
+      "time": 127.71,
+      "time_str": "02:07.710",
+      "text": "没法一起是我想得太多",
+      "translation": null
+    },
+    {
+      "time": 133.79,
+      "time_str": "02:13.790",
+      "text": "原来幸福装载对岸",
+      "translation": null
+    },
+    {
+      "time": 136.99,
+      "time_str": "02:16.990",
+      "text": "一闪过不要太惊慌",
+      "translation": null
+    },
+    {
+      "time": 140.36,
+      "time_str": "02:20.360",
+      "text": "为何未写过便要放",
+      "translation": null
+    },
+    {
+      "time": 143.77,
+      "time_str": "02:23.770",
+      "text": "可给我终确定答案",
+      "translation": null
+    },
+    {
+      "time": 146.82,
+      "time_str": "02:26.820",
+      "text": "原来自卑淹没过我",
+      "translation": null
+    },
+    {
+      "time": 150.18,
+      "time_str": "02:30.180",
+      "text": "不敢去拥抱那束光",
+      "translation": null
+    },
+    {
+      "time": 153.75,
+      "time_str": "02:33.750",
+      "text": "情愿没改变像困我",
+      "translation": null
+    },
+    {
+      "time": 157.47,
+      "time_str": "02:37.470",
+      "text": "若有错",
+      "translation": null
+    },
+    {
+      "time": 160.28,
+      "time_str": "02:40.280",
+      "text": "可否改过",
+      "translation": null
+    },
+    {
+      "time": 187.83,
+      "time_str": "03:07.830",
+      "text": "原来幸福装载对岸",
+      "translation": null
+    },
+    {
+      "time": 190.58,
+      "time_str": "03:10.580",
+      "text": "一闪过不要太惊慌",
+      "translation": null
+    },
+    {
+      "time": 193.73,
+      "time_str": "03:13.730",
+      "text": "为何未写过便要放",
+      "translation": null
+    },
+    {
+      "time": 197.1,
+      "time_str": "03:17.100",
+      "text": "可给我终确定答案",
+      "translation": null
+    },
+    {
+      "time": 200.25,
+      "time_str": "03:20.250",
+      "text": "原来自卑淹没过我",
+      "translation": null
+    },
+    {
+      "time": 203.61,
+      "time_str": "03:23.610",
+      "text": "不敢去拥抱那束光",
+      "translation": null
+    },
+    {
+      "time": 207.34,
+      "time_str": "03:27.340",
+      "text": "情愿没改变像困我",
+      "translation": null
+    },
+    {
+      "time": 210.49,
+      "time_str": "03:30.490",
+      "text": "若有错",
+      "translation": null
+    },
+    {
+      "time": 213.91,
+      "time_str": "03:33.910",
+      "text": "可否改过",
+      "translation": null
+    },
+    {
+      "time": 221.55,
+      "time_str": "03:41.550",
+      "text": "SP：北京听见时代娱乐传媒有限公司",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "追光者(粤语版) - 张与桐（阿细）.lrc"
+}

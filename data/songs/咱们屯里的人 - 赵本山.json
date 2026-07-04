@@ -1,0 +1,136 @@
+{
+  "title": "咱们屯里的人",
+  "title_raw": "咱们屯里的人",
+  "version": null,
+  "artist": "赵本山",
+  "group_key": "咱们屯里的人|赵本山",
+  "writers": {
+    "lyricist": "马金萍",
+    "composer": "杨柏森",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 21.32,
+      "time_str": "00:21.320",
+      "text": "我的老家哎就住在这个屯",
+      "translation": null
+    },
+    {
+      "time": 26.04,
+      "time_str": "00:26.040",
+      "text": "我是这个屯里土生土长的人",
+      "translation": null
+    },
+    {
+      "time": 30.69,
+      "time_str": "00:30.690",
+      "text": "别看屯子不咋大呀有山有水有树林",
+      "translation": null
+    },
+    {
+      "time": 35.61,
+      "time_str": "00:35.610",
+      "text": "邻里乡亲挺和睦老少爷们更合群",
+      "translation": null
+    },
+    {
+      "time": 44.41,
+      "time_str": "00:44.410",
+      "text": "屯子里面发生过许多许多的事",
+      "translation": null
+    },
+    {
+      "time": 50.35,
+      "time_str": "00:50.350",
+      "text": "回想起那是特别的哏",
+      "translation": null
+    },
+    {
+      "time": 55.2,
+      "time_str": "00:55.200",
+      "text": "朋友们若是有兴趣呀",
+      "translation": null
+    },
+    {
+      "time": 60.1,
+      "time_str": "01:00.100",
+      "text": "我领你认识认识",
+      "translation": null
+    },
+    {
+      "time": 64.8,
+      "time_str": "01:04.800",
+      "text": "认识认识我们屯里的人",
+      "translation": null
+    },
+    {
+      "time": 104.46,
+      "time_str": "01:44.460",
+      "text": "天上升起一弯月牙啊",
+      "translation": null
+    },
+    {
+      "time": 116.1,
+      "time_str": "01:56.100",
+      "text": "月牙弯弯正把那个月光洒",
+      "translation": null
+    },
+    {
+      "time": 128.03,
+      "time_str": "02:08.030",
+      "text": "人都管月牙叫月老",
+      "translation": null
+    },
+    {
+      "time": 136.12,
+      "time_str": "02:16.120",
+      "text": "月老儿专把",
+      "translation": null
+    },
+    {
+      "time": 141.59,
+      "time_str": "02:21.590",
+      "text": "专把那个红线扎",
+      "translation": null
+    },
+    {
+      "time": 144.75,
+      "time_str": "02:24.750",
+      "text": "红线扎紧两颗心",
+      "translation": null
+    },
+    {
+      "time": 152.07,
+      "time_str": "02:32.070",
+      "text": "两颗心为啥就不在那个一疙瘩呀 啊.....",
+      "translation": null
+    },
+    {
+      "time": 164.22,
+      "time_str": "02:44.220",
+      "text": "夜深啦 月牙出来啦",
+      "translation": null
+    },
+    {
+      "time": 172.2,
+      "time_str": "02:52.200",
+      "text": "月圆啦 心儿更亮啦",
+      "translation": null
+    },
+    {
+      "time": 180.03,
+      "time_str": "03:00.030",
+      "text": "今晚夜深人不静",
+      "translation": null
+    },
+    {
+      "time": 188.48,
+      "time_str": "03:08.480",
+      "text": "都等着月圆月圆进咱家吧 啊......",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "咱们屯里的人 - 赵本山.lrc"
+}

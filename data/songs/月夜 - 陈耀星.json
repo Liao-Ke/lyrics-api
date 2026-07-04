@@ -1,0 +1,166 @@
+{
+  "title": "月夜",
+  "title_raw": "月夜",
+  "version": null,
+  "artist": "陈耀星",
+  "group_key": "月夜|陈耀星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 5.42,
+      "time_str": "00:05.420",
+      "text": "春江花月夜",
+      "translation": null
+    },
+    {
+      "time": 37.86,
+      "time_str": "00:37.860",
+      "text": "-------------------☆☆～39159～☆☆-------------------",
+      "translation": null
+    },
+    {
+      "time": 44.58,
+      "time_str": "00:44.580",
+      "text": "江楼上独凭澜",
+      "translation": null
+    },
+    {
+      "time": 49.73,
+      "time_str": "00:49.730",
+      "text": "听种鼓声传",
+      "translation": null
+    },
+    {
+      "time": 56.48,
+      "time_str": "00:56.480",
+      "text": "袅袅娜娜散入那落霞斑斓",
+      "translation": null
+    },
+    {
+      "time": 67.04,
+      "time_str": "01:07.040",
+      "text": "一江春水缓缓流",
+      "translation": null
+    },
+    {
+      "time": 74.51,
+      "time_str": "01:14.510",
+      "text": "四野悄无人",
+      "translation": null
+    },
+    {
+      "time": 80.47,
+      "time_str": "01:20.470",
+      "text": "惟有淡淡袭来薄雾轻烟",
+      "translation": null
+    },
+    {
+      "time": 90.13,
+      "time_str": "01:30.130",
+      "text": "---Music---",
+      "translation": null
+    },
+    {
+      "time": 101.54,
+      "time_str": "01:41.540",
+      "text": "哎~月上东山",
+      "translation": null
+    },
+    {
+      "time": 109.14,
+      "time_str": "01:49.140",
+      "text": "天宇云开雾散云开雾散",
+      "translation": null
+    },
+    {
+      "time": 116.44,
+      "time_str": "01:56.440",
+      "text": "光辉照山川",
+      "translation": null
+    },
+    {
+      "time": 120.69,
+      "time_str": "02:00.690",
+      "text": "千点万点千点万点撒在江面",
+      "translation": null
+    },
+    {
+      "time": 129.93,
+      "time_str": "02:09.930",
+      "text": "恰似银鳞闪闪",
+      "translation": null
+    },
+    {
+      "time": 136.01,
+      "time_str": "02:16.010",
+      "text": "惊起了江滩一只宿雁",
+      "translation": null
+    },
+    {
+      "time": 147.85,
+      "time_str": "02:27.850",
+      "text": "---Music---",
+      "translation": null
+    },
+    {
+      "time": 170.55,
+      "time_str": "02:50.550",
+      "text": "江楼上独凭澜",
+      "translation": null
+    },
+    {
+      "time": 175.86,
+      "time_str": "02:55.860",
+      "text": "听种鼓声传",
+      "translation": null
+    },
+    {
+      "time": 182.49,
+      "time_str": "03:02.490",
+      "text": "袅袅娜娜散入那落霞斑斓",
+      "translation": null
+    },
+    {
+      "time": 193.02,
+      "time_str": "03:13.020",
+      "text": "一江春水缓缓流",
+      "translation": null
+    },
+    {
+      "time": 200.57,
+      "time_str": "03:20.570",
+      "text": "四野悄无人",
+      "translation": null
+    },
+    {
+      "time": 206.51,
+      "time_str": "03:26.510",
+      "text": "惟有淡淡袭来薄雾轻烟",
+      "translation": null
+    },
+    {
+      "time": 215.67,
+      "time_str": "03:35.670",
+      "text": "春江花月夜",
+      "translation": null
+    },
+    {
+      "time": 220.91,
+      "time_str": "03:40.910",
+      "text": "怎不叫人留恋",
+      "translation": null
+    },
+    {
+      "time": 232.66,
+      "time_str": "03:52.660",
+      "text": "----End----",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月夜 - 陈耀星.lrc"
+}

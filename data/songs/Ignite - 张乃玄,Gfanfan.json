@@ -1,0 +1,358 @@
+{
+  "title": "Ignite",
+  "title_raw": "Ignite",
+  "version": null,
+  "artist": "张乃玄,Gfanfan",
+  "group_key": "ignite|张乃玄,gfanfan",
+  "writers": {
+    "lyricist": "无",
+    "composer": "无",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.32,
+      "time_str": "00:00.320",
+      "text": "Fanfan：",
+      "translation": null
+    },
+    {
+      "time": 10.68,
+      "time_str": "00:10.680",
+      "text": "Fireflies",
+      "translation": "萤火虫"
+    },
+    {
+      "time": 12.94,
+      "time_str": "00:12.940",
+      "text": "A million little pieces",
+      "translation": "百万只"
+    },
+    {
+      "time": 15.63,
+      "time_str": "00:15.630",
+      "text": "Feeds the dying light",
+      "translation": "点燃垂死的光"
+    },
+    {
+      "time": 17.85,
+      "time_str": "00:17.850",
+      "text": "And breathes me back to life",
+      "translation": "使我苏醒"
+    },
+    {
+      "time": 21.34,
+      "time_str": "00:21.340",
+      "text": "In your eyes",
+      "translation": "在你眼中"
+    },
+    {
+      "time": 23.33,
+      "time_str": "00:23.330",
+      "text": "I see something to believe in",
+      "translation": "我看到信仰"
+    },
+    {
+      "time": 26.22,
+      "time_str": "00:26.220",
+      "text": "Your hands are like a flame",
+      "translation": "你双臂如灼热的火焰"
+    },
+    {
+      "time": 28.66,
+      "time_str": "00:28.660",
+      "text": "Your palms the sweetest pain",
+      "translation": "你掌心甜蜜的伤"
+    },
+    {
+      "time": 31.99,
+      "time_str": "00:31.990",
+      "text": "Let the darkness lead us into the light",
+      "translation": "让黑暗带我们进入光明"
+    },
+    {
+      "time": 34.62,
+      "time_str": "00:34.620",
+      "text": "Let our dreams get lost feel the temperature rise",
+      "translation": "让高温迷失我们的梦想"
+    },
+    {
+      "time": 37.32,
+      "time_str": "00:37.320",
+      "text": "Baby tell me one more beautiful lie",
+      "translation": "宝贝 再给我讲一个美丽的谎言"
+    },
+    {
+      "time": 39.97,
+      "time_str": "00:39.970",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 42.6,
+      "time_str": "00:42.600",
+      "text": "Like a starship speeding into the night",
+      "translation": "像夜空航行的飞船"
+    },
+    {
+      "time": 45.2,
+      "time_str": "00:45.200",
+      "text": "You and I get lost in the infinite lights",
+      "translation": "你我迷失在无尽光芒"
+    },
+    {
+      "time": 47.92,
+      "time_str": "00:47.920",
+      "text": "Baby tell me one more beautiful lie",
+      "translation": "宝贝 再给我讲一个美丽的谎言"
+    },
+    {
+      "time": 50.62,
+      "time_str": "00:50.620",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 61.39,
+      "time_str": "01:01.390",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 72.03,
+      "time_str": "01:12.030",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 74.61,
+      "time_str": "01:14.610",
+      "text": "So alive",
+      "translation": "活跃"
+    },
+    {
+      "time": 76.84,
+      "time_str": "01:16.840",
+      "text": "Your touch is like the daylight",
+      "translation": "你的触碰像日光"
+    },
+    {
+      "time": 79.69,
+      "time_str": "01:19.690",
+      "text": "Burning on my skin",
+      "translation": "灼伤我肌肤"
+    },
+    {
+      "time": 82.16,
+      "time_str": "01:22.160",
+      "text": "It turns me on again",
+      "translation": "再一次点燃"
+    },
+    {
+      "time": 85.36,
+      "time_str": "01:25.360",
+      "text": "You and I",
+      "translation": "你和我"
+    },
+    {
+      "time": 87.46,
+      "time_str": "01:27.460",
+      "text": "Survivors of the same kind",
+      "translation": "同为幸存者"
+    },
+    {
+      "time": 89.99,
+      "time_str": "01:29.990",
+      "text": "And we're the only ones",
+      "translation": "唯一的幸存者"
+    },
+    {
+      "time": 92.75,
+      "time_str": "01:32.750",
+      "text": "Dancing on the sun",
+      "translation": "烈日中舞蹈"
+    },
+    {
+      "time": 96.02,
+      "time_str": "01:36.020",
+      "text": "Let the darkness lead us into the light",
+      "translation": "让黑暗带我们进入光明"
+    },
+    {
+      "time": 98.62,
+      "time_str": "01:38.620",
+      "text": "Let our dreams get lost feel the temperature rise",
+      "translation": "让高温迷失我们的梦想"
+    },
+    {
+      "time": 101.32,
+      "time_str": "01:41.320",
+      "text": "Baby tell me one more beautiful lie",
+      "translation": "宝贝 再给我讲一个美丽的谎言"
+    },
+    {
+      "time": 104.0,
+      "time_str": "01:44.000",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 106.58,
+      "time_str": "01:46.580",
+      "text": "Like a starship speeding into the night",
+      "translation": "想夜空中航行的飞船"
+    },
+    {
+      "time": 109.23,
+      "time_str": "01:49.230",
+      "text": "You and I get lost in the infinite lights",
+      "translation": "你我迷失在无尽光芒"
+    },
+    {
+      "time": 111.93,
+      "time_str": "01:51.930",
+      "text": "Baby tell me one more beautiful lie",
+      "translation": "宝贝再给我讲一个谎言"
+    },
+    {
+      "time": 114.73,
+      "time_str": "01:54.730",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 125.43,
+      "time_str": "02:05.430",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 136.07,
+      "time_str": "02:16.070",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 138.38,
+      "time_str": "02:18.380",
+      "text": "奶悬：",
+      "translation": null
+    },
+    {
+      "time": 138.75,
+      "time_str": "02:18.750",
+      "text": "Diamonds are forever but all we need is just tonight",
+      "translation": "钻石恒久 你我只要今晚"
+    },
+    {
+      "time": 143.89,
+      "time_str": "02:23.890",
+      "text": "We're monumental tremors that can freeze the speed of life",
+      "translation": "我们强大到足以静止时间"
+    },
+    {
+      "time": 148.93,
+      "time_str": "02:28.930",
+      "text": "Just like particles that's falling from heaven all over the stars",
+      "translation": "像星空坠落的尘埃"
+    },
+    {
+      "time": 154.43,
+      "time_str": "02:34.430",
+      "text": "Hear you calling for me",
+      "translation": "我听见你的呼唤"
+    },
+    {
+      "time": 156.99,
+      "time_str": "02:36.990",
+      "text": "Hear you calling me on from afar",
+      "translation": "我听见你在遥远的地方呼唤"
+    },
+    {
+      "time": 160.17,
+      "time_str": "02:40.170",
+      "text": "Fanfan：",
+      "translation": null
+    },
+    {
+      "time": 160.27,
+      "time_str": "02:40.270",
+      "text": "Let the darkness lead us into the light",
+      "translation": "让黑暗带我们进入光明"
+    },
+    {
+      "time": 162.56,
+      "time_str": "02:42.560",
+      "text": "Let our dreams get lost feel the temperature rise",
+      "translation": "让高温迷失我们的梦想"
+    },
+    {
+      "time": 165.09,
+      "time_str": "02:45.090",
+      "text": "Baby tell me one more beautiful lie",
+      "translation": "宝贝再给我讲一个谎言"
+    },
+    {
+      "time": 167.88,
+      "time_str": "02:47.880",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 170.45,
+      "time_str": "02:50.450",
+      "text": "I feel the heat as we collide",
+      "translation": "我感受到我们碰撞一样的灼热"
+    },
+    {
+      "time": 173.07,
+      "time_str": "02:53.070",
+      "text": "Like a fever that feels so right",
+      "translation": "灼热一样的正确感"
+    },
+    {
+      "time": 175.66,
+      "time_str": "02:55.660",
+      "text": "So baby tell me one more beautiful lie",
+      "translation": "所以  宝贝再给我讲一个谎言"
+    },
+    {
+      "time": 178.64,
+      "time_str": "02:58.640",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 190.72,
+      "time_str": "03:10.720",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 193.28,
+      "time_str": "03:13.280",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 195.75,
+      "time_str": "03:15.750",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 198.73,
+      "time_str": "03:18.730",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    },
+    {
+      "time": 201.13,
+      "time_str": "03:21.130",
+      "text": "One touch and I ignite",
+      "translation": "一触即燃"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Ignite - 张乃玄,Gfanfan.lrc"
+}

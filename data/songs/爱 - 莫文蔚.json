@@ -1,0 +1,214 @@
+{
+  "title": "爱",
+  "title_raw": "爱",
+  "version": null,
+  "artist": "莫文蔚",
+  "group_key": "爱|莫文蔚",
+  "writers": {
+    "lyricist": "李焯雄",
+    "composer": "陈晓娟",
+    "arranger": "Terence Teo"
+  },
+  "lyrics": [
+    {
+      "time": 13.18,
+      "time_str": "00:13.180",
+      "text": "你还记得吗 记忆的炎夏",
+      "translation": null
+    },
+    {
+      "time": 19.42,
+      "time_str": "00:19.420",
+      "text": "散落在风中的已蒸发",
+      "translation": null
+    },
+    {
+      "time": 21.94,
+      "time_str": "00:21.940",
+      "text": "喧哗的都已沙哑",
+      "translation": null
+    },
+    {
+      "time": 26.12,
+      "time_str": "00:26.120",
+      "text": "没结果的花 未完成的牵挂",
+      "translation": null
+    },
+    {
+      "time": 32.82,
+      "time_str": "00:32.820",
+      "text": "我们学会许多说法",
+      "translation": null
+    },
+    {
+      "time": 34.86,
+      "time_str": "00:34.860",
+      "text": "来掩饰不碰的伤疤",
+      "translation": null
+    },
+    {
+      "time": 39.38,
+      "time_str": "00:39.380",
+      "text": "因为我会想起你",
+      "translation": null
+    },
+    {
+      "time": 42.59,
+      "time_str": "00:42.590",
+      "text": "我害怕面对自己",
+      "translation": null
+    },
+    {
+      "time": 45.72,
+      "time_str": "00:45.720",
+      "text": "我的意志 总被寂寞吞食",
+      "translation": null
+    },
+    {
+      "time": 52.4,
+      "time_str": "00:52.400",
+      "text": "因为你总会提醒",
+      "translation": null
+    },
+    {
+      "time": 55.58,
+      "time_str": "00:55.580",
+      "text": "过去总不会过去",
+      "translation": null
+    },
+    {
+      "time": 59.4,
+      "time_str": "00:59.400",
+      "text": "有种真爱不是我的",
+      "translation": null
+    },
+    {
+      "time": 73.94,
+      "time_str": "01:13.940",
+      "text": "没结果的花 未完成的牵挂",
+      "translation": null
+    },
+    {
+      "time": 80.35,
+      "time_str": "01:20.350",
+      "text": "我们学会许多说法",
+      "translation": null
+    },
+    {
+      "time": 82.47,
+      "time_str": "01:22.470",
+      "text": "来掩饰不碰的伤疤",
+      "translation": null
+    },
+    {
+      "time": 86.86,
+      "time_str": "01:26.860",
+      "text": "因为我会想起你",
+      "translation": null
+    },
+    {
+      "time": 90.01,
+      "time_str": "01:30.010",
+      "text": "我害怕面对自己",
+      "translation": null
+    },
+    {
+      "time": 93.32,
+      "time_str": "01:33.320",
+      "text": "我的意志 总被寂寞吞食",
+      "translation": null
+    },
+    {
+      "time": 100.06,
+      "time_str": "01:40.060",
+      "text": "因为你总会提醒",
+      "translation": null
+    },
+    {
+      "time": 103.17,
+      "time_str": "01:43.170",
+      "text": "过去总不会过去",
+      "translation": null
+    },
+    {
+      "time": 106.91,
+      "time_str": "01:46.910",
+      "text": "有种真爱不是我的",
+      "translation": null
+    },
+    {
+      "time": 135.97,
+      "time_str": "02:15.970",
+      "text": "假如我不曾爱你",
+      "translation": null
+    },
+    {
+      "time": 139.07,
+      "time_str": "02:19.070",
+      "text": "我不会失去自己",
+      "translation": null
+    },
+    {
+      "time": 142.48,
+      "time_str": "02:22.480",
+      "text": "想念的刺 钉住我的位置",
+      "translation": null
+    },
+    {
+      "time": 149.03,
+      "time_str": "02:29.030",
+      "text": "因为你总会提醒",
+      "translation": null
+    },
+    {
+      "time": 152.2,
+      "time_str": "02:32.200",
+      "text": "尽管我得到世界",
+      "translation": null
+    },
+    {
+      "time": 155.97,
+      "time_str": "02:35.970",
+      "text": "有些幸福不是我的",
+      "translation": null
+    },
+    {
+      "time": 172.24,
+      "time_str": "02:52.240",
+      "text": "你还记得吗 记忆的炎夏",
+      "translation": null
+    },
+    {
+      "time": 179.14,
+      "time_str": "02:59.140",
+      "text": "我终于没选择的分岔",
+      "translation": null
+    },
+    {
+      "time": 181.5,
+      "time_str": "03:01.500",
+      "text": "最后又有谁到达",
+      "translation": null
+    },
+    {
+      "time": 194.76,
+      "time_str": "03:14.760",
+      "text": "小提琴 : 孔朝晖/顾文丽",
+      "translation": null
+    },
+    {
+      "time": 195.47,
+      "time_str": "03:15.470",
+      "text": "中提琴 : 水兵",
+      "translation": null
+    },
+    {
+      "time": 196.18,
+      "time_str": "03:16.180",
+      "text": "大提琴 : 王言",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱 - 莫文蔚.lrc"
+}

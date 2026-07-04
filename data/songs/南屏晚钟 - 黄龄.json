@@ -1,0 +1,274 @@
+{
+  "title": "南屏晚钟",
+  "title_raw": "南屏晚钟",
+  "version": null,
+  "artist": "黄龄",
+  "group_key": "南屏晚钟|黄龄",
+  "writers": {
+    "lyricist": "陈蝶衣",
+    "composer": "王福龄",
+    "arranger": "常石磊"
+  },
+  "lyrics": [
+    {
+      "time": 1.52,
+      "time_str": "00:01.520",
+      "text": "人声录制录音棚：BIG.J Studio",
+      "translation": null
+    },
+    {
+      "time": 2.28,
+      "time_str": "00:02.280",
+      "text": "混音棚：MoFo Music Studio",
+      "translation": null
+    },
+    {
+      "time": 2.51,
+      "time_str": "00:02.510",
+      "text": "母带工程师：Chris Gehringer",
+      "translation": null
+    },
+    {
+      "time": 4.13,
+      "time_str": "00:04.130",
+      "text": "我匆匆地走入森林中",
+      "translation": null
+    },
+    {
+      "time": 8.78,
+      "time_str": "00:08.780",
+      "text": "森林它一丛丛",
+      "translation": null
+    },
+    {
+      "time": 12.52,
+      "time_str": "00:12.520",
+      "text": "我找不到他的行踪",
+      "translation": null
+    },
+    {
+      "time": 17.11,
+      "time_str": "00:17.110",
+      "text": "只看到那树摇风",
+      "translation": null
+    },
+    {
+      "time": 21.23,
+      "time_str": "00:21.230",
+      "text": "我匆匆地走入森林中",
+      "translation": null
+    },
+    {
+      "time": 25.84,
+      "time_str": "00:25.840",
+      "text": "森林它一丛丛",
+      "translation": null
+    },
+    {
+      "time": 29.84,
+      "time_str": "00:29.840",
+      "text": "我看不到他的行踪",
+      "translation": null
+    },
+    {
+      "time": 34.4,
+      "time_str": "00:34.400",
+      "text": "只听到那南屏钟",
+      "translation": null
+    },
+    {
+      "time": 41.05,
+      "time_str": "00:41.050",
+      "text": "行踪",
+      "translation": null
+    },
+    {
+      "time": 41.93,
+      "time_str": "00:41.930",
+      "text": "南屏晚钟",
+      "translation": null
+    },
+    {
+      "time": 47.53,
+      "time_str": "00:47.530",
+      "text": "行踪",
+      "translation": null
+    },
+    {
+      "time": 50.09,
+      "time_str": "00:50.090",
+      "text": "随风飘送",
+      "translation": null
+    },
+    {
+      "time": 55.68,
+      "time_str": "00:55.680",
+      "text": "我匆匆地走入森林中",
+      "translation": null
+    },
+    {
+      "time": 60.5,
+      "time_str": "01:00.500",
+      "text": "森林它一丛丛",
+      "translation": null
+    },
+    {
+      "time": 64.25,
+      "time_str": "01:04.250",
+      "text": "我找不到他的行踪",
+      "translation": null
+    },
+    {
+      "time": 68.72,
+      "time_str": "01:08.720",
+      "text": "只看到那树摇风",
+      "translation": null
+    },
+    {
+      "time": 72.76,
+      "time_str": "01:12.760",
+      "text": "我匆匆地走入森林中",
+      "translation": null
+    },
+    {
+      "time": 77.35,
+      "time_str": "01:17.350",
+      "text": "森林它一丛丛",
+      "translation": null
+    },
+    {
+      "time": 81.4,
+      "time_str": "01:21.400",
+      "text": "我看不到他的行踪",
+      "translation": null
+    },
+    {
+      "time": 85.8,
+      "time_str": "01:25.800",
+      "text": "只听到那南屏钟",
+      "translation": null
+    },
+    {
+      "time": 92.94,
+      "time_str": "01:32.940",
+      "text": "南屏晚钟",
+      "translation": null
+    },
+    {
+      "time": 97.23,
+      "time_str": "01:37.230",
+      "text": "随风飘送",
+      "translation": null
+    },
+    {
+      "time": 101.61,
+      "time_str": "01:41.610",
+      "text": "它好像是敲呀 敲呀 敲呀 敲呀",
+      "translation": null
+    },
+    {
+      "time": 106.46,
+      "time_str": "01:46.460",
+      "text": "敲在我的心坎中",
+      "translation": null
+    },
+    {
+      "time": 110.08,
+      "time_str": "01:50.080",
+      "text": "南屏晚钟",
+      "translation": null
+    },
+    {
+      "time": 114.42,
+      "time_str": "01:54.420",
+      "text": "随风飘送",
+      "translation": null
+    },
+    {
+      "time": 118.65,
+      "time_str": "01:58.650",
+      "text": "它好像是催呀 催呀 催呀 催呀",
+      "translation": null
+    },
+    {
+      "time": 123.65,
+      "time_str": "02:03.650",
+      "text": "催醒我的相思梦",
+      "translation": null
+    },
+    {
+      "time": 134.41,
+      "time_str": "02:14.410",
+      "text": "我匆匆地走入森林中",
+      "translation": null
+    },
+    {
+      "time": 138.93,
+      "time_str": "02:18.930",
+      "text": "森林它一丛丛",
+      "translation": null
+    },
+    {
+      "time": 142.82,
+      "time_str": "02:22.820",
+      "text": "我看不到他的行踪",
+      "translation": null
+    },
+    {
+      "time": 147.37,
+      "time_str": "02:27.370",
+      "text": "只听到那南屏钟",
+      "translation": null
+    },
+    {
+      "time": 167.55,
+      "time_str": "02:47.550",
+      "text": "南屏晚钟",
+      "translation": null
+    },
+    {
+      "time": 171.67,
+      "time_str": "02:51.670",
+      "text": "随风飘送",
+      "translation": null
+    },
+    {
+      "time": 176.09,
+      "time_str": "02:56.090",
+      "text": "它好像是敲呀 敲呀 敲呀 敲呀",
+      "translation": null
+    },
+    {
+      "time": 180.93,
+      "time_str": "03:00.930",
+      "text": "敲在我的心坎中",
+      "translation": null
+    },
+    {
+      "time": 184.55,
+      "time_str": "03:04.550",
+      "text": "南屏晚钟",
+      "translation": null
+    },
+    {
+      "time": 188.93,
+      "time_str": "03:08.930",
+      "text": "随风飘送",
+      "translation": null
+    },
+    {
+      "time": 193.16,
+      "time_str": "03:13.160",
+      "text": "它好像是催呀 催呀 催呀 催呀",
+      "translation": null
+    },
+    {
+      "time": 198.1,
+      "time_str": "03:18.100",
+      "text": "催醒我的相思梦",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "南屏晚钟 - 黄龄.lrc"
+}

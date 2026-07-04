@@ -1,0 +1,286 @@
+{
+  "title": "带我走",
+  "title_raw": "带我走",
+  "version": null,
+  "artist": "杨丞琳",
+  "group_key": "带我走|杨丞琳",
+  "writers": {
+    "lyricist": "吴青峰",
+    "composer": "吴青峰",
+    "arranger": "于京延"
+  },
+  "lyrics": [
+    {
+      "time": 5.0,
+      "time_str": "00:05.000",
+      "text": "弦乐编写 : 阿滚(动静音乐)",
+      "translation": null
+    },
+    {
+      "time": 6.0,
+      "time_str": "00:06.000",
+      "text": "小提琴 : 阿滚(动静音乐)",
+      "translation": null
+    },
+    {
+      "time": 9.0,
+      "time_str": "00:09.000",
+      "text": "录音工程师 : 林世龙/阿滚/小威",
+      "translation": null
+    },
+    {
+      "time": 11.0,
+      "time_str": "00:11.000",
+      "text": "SP : Universal Ms Publ Ltd Taiwan",
+      "translation": null
+    },
+    {
+      "time": 12.0,
+      "time_str": "00:12.000",
+      "text": "混音工程师 : 林世龙",
+      "translation": null
+    },
+    {
+      "time": 17.18,
+      "time_str": "00:17.180",
+      "text": "每次我总 一个人走",
+      "translation": null
+    },
+    {
+      "time": 22.63,
+      "time_str": "00:22.630",
+      "text": "交叉路口 自己生活",
+      "translation": null
+    },
+    {
+      "time": 30.96,
+      "time_str": "00:30.960",
+      "text": "这次你却 说带我走",
+      "translation": null
+    },
+    {
+      "time": 36.13,
+      "time_str": "00:36.130",
+      "text": "某个角落 就你和我",
+      "translation": null
+    },
+    {
+      "time": 44.23,
+      "time_str": "00:44.230",
+      "text": "像土壤抓紧花的迷惑",
+      "translation": null
+    },
+    {
+      "time": 50.77,
+      "time_str": "00:50.770",
+      "text": "像天空缠绵雨的汹涌",
+      "translation": null
+    },
+    {
+      "time": 56.08,
+      "time_str": "00:56.080",
+      "text": "在你的身后 计算的步伐",
+      "translation": null
+    },
+    {
+      "time": 60.15,
+      "time_str": "01:00.150",
+      "text": "每个背影 每个场景",
+      "translation": null
+    },
+    {
+      "time": 63.7,
+      "time_str": "01:03.700",
+      "text": "都有发过的梦",
+      "translation": null
+    },
+    {
+      "time": 70.81,
+      "time_str": "01:10.810",
+      "text": "带我走 到遥远的以后",
+      "translation": null
+    },
+    {
+      "time": 77.04,
+      "time_str": "01:17.040",
+      "text": "带走我 一个人自转的寂寞",
+      "translation": null
+    },
+    {
+      "time": 84.01,
+      "time_str": "01:24.010",
+      "text": "带我走 就算我的爱 你的自由 都将成为泡沫",
+      "translation": null
+    },
+    {
+      "time": 92.65,
+      "time_str": "01:32.650",
+      "text": "我不怕 带我走",
+      "translation": null
+    },
+    {
+      "time": 109.44,
+      "time_str": "01:49.440",
+      "text": "每次我总 独自远走",
+      "translation": null
+    },
+    {
+      "time": 114.17,
+      "time_str": "01:54.170",
+      "text": "保持缄默 不皱眉头",
+      "translation": null
+    },
+    {
+      "time": 121.69,
+      "time_str": "02:01.690",
+      "text": "这次你却 说一起走",
+      "translation": null
+    },
+    {
+      "time": 127.64,
+      "time_str": "02:07.640",
+      "text": "彼此温柔 从此以后",
+      "translation": null
+    },
+    {
+      "time": 135.19,
+      "time_str": "02:15.190",
+      "text": "像土壤抓紧花的迷惑",
+      "translation": null
+    },
+    {
+      "time": 142.14,
+      "time_str": "02:22.140",
+      "text": "像天空缠绵雨的汹涌",
+      "translation": null
+    },
+    {
+      "time": 147.44,
+      "time_str": "02:27.440",
+      "text": "在你的身后 计算的步伐",
+      "translation": null
+    },
+    {
+      "time": 151.4,
+      "time_str": "02:31.400",
+      "text": "每个背影 每个场景",
+      "translation": null
+    },
+    {
+      "time": 155.15,
+      "time_str": "02:35.150",
+      "text": "都有发过的梦",
+      "translation": null
+    },
+    {
+      "time": 162.13,
+      "time_str": "02:42.130",
+      "text": "带我走 到遥远的以后",
+      "translation": null
+    },
+    {
+      "time": 168.72,
+      "time_str": "02:48.720",
+      "text": "带走我 一个人自转的寂寞",
+      "translation": null
+    },
+    {
+      "time": 175.29,
+      "time_str": "02:55.290",
+      "text": "带我走 就算我的爱 你的自由 都将成为泡沫",
+      "translation": null
+    },
+    {
+      "time": 183.52,
+      "time_str": "03:03.520",
+      "text": "我不怕 带我走",
+      "translation": null
+    },
+    {
+      "time": 190.42,
+      "time_str": "03:10.420",
+      "text": "白马溜过漆黑尽头",
+      "translation": null
+    },
+    {
+      "time": 193.73,
+      "time_str": "03:13.730",
+      "text": "潮汐袭来浪花颤动",
+      "translation": null
+    },
+    {
+      "time": 197.22,
+      "time_str": "03:17.220",
+      "text": "凝在海岸结成了墨",
+      "translation": null
+    },
+    {
+      "time": 203.4,
+      "time_str": "03:23.400",
+      "text": "蔷薇朝向草原气球",
+      "translation": null
+    },
+    {
+      "time": 207.39,
+      "time_str": "03:27.390",
+      "text": "邮差传来一地彩虹",
+      "translation": null
+    },
+    {
+      "time": 210.51,
+      "time_str": "03:30.510",
+      "text": "刻在心中拍打着脉搏",
+      "translation": null
+    },
+    {
+      "time": 219.44,
+      "time_str": "03:39.440",
+      "text": "带我走 到遥远的以后",
+      "translation": null
+    },
+    {
+      "time": 226.05,
+      "time_str": "03:46.050",
+      "text": "带走我 一个人自转的寂寞",
+      "translation": null
+    },
+    {
+      "time": 232.69,
+      "time_str": "03:52.690",
+      "text": "带我走 就算我的爱 你的自由 都将成为泡沫",
+      "translation": null
+    },
+    {
+      "time": 240.91,
+      "time_str": "04:00.910",
+      "text": "我不怕 带我走",
+      "translation": null
+    },
+    {
+      "time": 246.39,
+      "time_str": "04:06.390",
+      "text": "带我走 就算我的爱 你的自由 都将成为泡沫",
+      "translation": null
+    },
+    {
+      "time": 259.67,
+      "time_str": "04:19.670",
+      "text": "带我走",
+      "translation": null
+    },
+    {
+      "time": 285.96,
+      "time_str": "04:45.960",
+      "text": "录音工程室：PUSH STUDIO、动静音乐录音室",
+      "translation": null
+    },
+    {
+      "time": 286.96,
+      "time_str": "04:46.960",
+      "text": "混音工程室：PUSH STUDIO",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "带我走 - 杨丞琳.lrc"
+}

@@ -1,0 +1,244 @@
+{
+  "title": "天意",
+  "title_raw": "天意(Live)",
+  "version": "Live",
+  "artist": "刘德华",
+  "group_key": "天意|刘德华",
+  "writers": {
+    "lyricist": "李安修",
+    "composer": "陈耀川",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 26.97,
+      "time_str": "00:26.970",
+      "text": "谁在乎我的心里有多苦",
+      "translation": null
+    },
+    {
+      "time": 34.9,
+      "time_str": "00:34.900",
+      "text": "谁在意我的明天去何处",
+      "translation": null
+    },
+    {
+      "time": 40.96,
+      "time_str": "00:40.960",
+      "text": "这条路究竟多少崎岖多少坎坷途",
+      "translation": null
+    },
+    {
+      "time": 48.43,
+      "time_str": "00:48.430",
+      "text": "我和你早已没有回头路",
+      "translation": null
+    },
+    {
+      "time": 55.58,
+      "time_str": "00:55.580",
+      "text": "我的爱藏不住",
+      "translation": null
+    },
+    {
+      "time": 59.8,
+      "time_str": "00:59.800",
+      "text": "任凭世界无情的摆布",
+      "translation": null
+    },
+    {
+      "time": 62.55,
+      "time_str": "01:02.550",
+      "text": "我不怕痛不怕输",
+      "translation": null
+    },
+    {
+      "time": 65.97,
+      "time_str": "01:05.970",
+      "text": "只怕是再多努力也无助",
+      "translation": null
+    },
+    {
+      "time": 71.67,
+      "time_str": "01:11.670",
+      "text": "如果说一切都是天意一切都是命运",
+      "translation": null
+    },
+    {
+      "time": 76.15,
+      "time_str": "01:16.150",
+      "text": "终究已注定",
+      "translation": null
+    },
+    {
+      "time": 79.2,
+      "time_str": "01:19.200",
+      "text": "是否能再多爱一天能再多看一眼",
+      "translation": null
+    },
+    {
+      "time": 82.989,
+      "time_str": "01:22.989",
+      "text": "伤会少一点",
+      "translation": null
+    },
+    {
+      "time": 85.42,
+      "time_str": "01:25.420",
+      "text": "如果说一切都是天意一切都是命运",
+      "translation": null
+    },
+    {
+      "time": 90.27,
+      "time_str": "01:30.270",
+      "text": "谁也逃不离",
+      "translation": null
+    },
+    {
+      "time": 93.85,
+      "time_str": "01:33.850",
+      "text": "无情无爱此生又何必",
+      "translation": null
+    },
+    {
+      "time": 107.53,
+      "time_str": "01:47.530",
+      "text": "谁在乎我的心里有多苦",
+      "translation": null
+    },
+    {
+      "time": 114.63,
+      "time_str": "01:54.630",
+      "text": "谁在意我的明天去何处",
+      "translation": null
+    },
+    {
+      "time": 121.69,
+      "time_str": "02:01.690",
+      "text": "这条路究竟多少崎岖多少坎坷途",
+      "translation": null
+    },
+    {
+      "time": 128.859,
+      "time_str": "02:08.859",
+      "text": "我和你早已没有回头路",
+      "translation": null
+    },
+    {
+      "time": 136.1,
+      "time_str": "02:16.100",
+      "text": "我的爱藏不住",
+      "translation": null
+    },
+    {
+      "time": 139.44,
+      "time_str": "02:19.440",
+      "text": "任凭世界无情的摆布",
+      "translation": null
+    },
+    {
+      "time": 142.989,
+      "time_str": "02:22.989",
+      "text": "我不怕痛不怕输",
+      "translation": null
+    },
+    {
+      "time": 146.7,
+      "time_str": "02:26.700",
+      "text": "只怕是再多努力也无助",
+      "translation": null
+    },
+    {
+      "time": 152.16,
+      "time_str": "02:32.160",
+      "text": "如果说一切都是天意一切都是命运",
+      "translation": null
+    },
+    {
+      "time": 156.519,
+      "time_str": "02:36.519",
+      "text": "终究已注定",
+      "translation": null
+    },
+    {
+      "time": 159.14,
+      "time_str": "02:39.140",
+      "text": "是否能再多爱一天能再多看一眼",
+      "translation": null
+    },
+    {
+      "time": 163.44,
+      "time_str": "02:43.440",
+      "text": "伤会少一点",
+      "translation": null
+    },
+    {
+      "time": 166.19,
+      "time_str": "02:46.190",
+      "text": "如果说一切都是天意一切都是命运",
+      "translation": null
+    },
+    {
+      "time": 170.899,
+      "time_str": "02:50.899",
+      "text": "谁也逃不离",
+      "translation": null
+    },
+    {
+      "time": 174.39,
+      "time_str": "02:54.390",
+      "text": "无情无爱此生又何必",
+      "translation": null
+    },
+    {
+      "time": 213.589,
+      "time_str": "03:33.589",
+      "text": "如果说一切都是天意一切都是命运",
+      "translation": null
+    },
+    {
+      "time": 218.0,
+      "time_str": "03:38.000",
+      "text": "终究已注定",
+      "translation": null
+    },
+    {
+      "time": 221.1,
+      "time_str": "03:41.100",
+      "text": "是否能再多爱一天能再多看一眼",
+      "translation": null
+    },
+    {
+      "time": 224.92,
+      "time_str": "03:44.920",
+      "text": "伤会少一点",
+      "translation": null
+    },
+    {
+      "time": 227.54,
+      "time_str": "03:47.540",
+      "text": "如果说一切都是天意一切都是命运",
+      "translation": null
+    },
+    {
+      "time": 232.279,
+      "time_str": "03:52.279",
+      "text": "谁也逃不离",
+      "translation": null
+    },
+    {
+      "time": 235.899,
+      "time_str": "03:55.899",
+      "text": "无情无爱此生又何必",
+      "translation": null
+    },
+    {
+      "time": 243.56,
+      "time_str": "04:03.560",
+      "text": "无情无爱此生我认命",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天意(Live) - 刘德华.lrc"
+}

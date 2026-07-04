@@ -1,0 +1,202 @@
+{
+  "title": "让我为你唱首歌",
+  "title_raw": "让我为你唱首歌",
+  "version": null,
+  "artist": "张翰,朱梓骁,魏晨,俞灏明",
+  "group_key": "让我为你唱首歌|张翰,朱梓骁,魏晨,俞灏明",
+  "writers": {
+    "lyricist": "严艺丹",
+    "composer": "严艺丹/刘佳",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.659,
+      "time_str": "00:00.659",
+      "text": "让我为你唱一首歌 全世界都陪你听着",
+      "translation": null
+    },
+    {
+      "time": 7.5,
+      "time_str": "00:07.500",
+      "text": "这是爱 你会明白 你是唯一不可替代",
+      "translation": null
+    },
+    {
+      "time": 14.18,
+      "time_str": "00:14.180",
+      "text": "让我为你唱一首歌 闭上眼睛把心交给我",
+      "translation": null
+    },
+    {
+      "time": 22.36,
+      "time_str": "00:22.360",
+      "text": "这一刻 要你听见幸福的颜色",
+      "translation": null
+    },
+    {
+      "time": 34.819,
+      "time_str": "00:34.819",
+      "text": "琴弦的快乐 在我手中为你颤抖着",
+      "translation": null
+    },
+    {
+      "time": 41.969,
+      "time_str": "00:41.969",
+      "text": "多一秒你的笑容 付出什么都值得",
+      "translation": null
+    },
+    {
+      "time": 48.909,
+      "time_str": "00:48.909",
+      "text": "旋转八音盒 每一个音符都记录着",
+      "translation": null
+    },
+    {
+      "time": 55.789,
+      "time_str": "00:55.789",
+      "text": "你的喜怒哀乐 让我来谱成歌",
+      "translation": null
+    },
+    {
+      "time": 63.799,
+      "time_str": "01:03.799",
+      "text": "让我为你唱一首歌 全世界都陪你听着",
+      "translation": null
+    },
+    {
+      "time": 70.639,
+      "time_str": "01:10.639",
+      "text": "这是爱 你会明白 你是唯一不可替代",
+      "translation": null
+    },
+    {
+      "time": 77.309,
+      "time_str": "01:17.309",
+      "text": "让我为你唱一首歌 闭上眼睛把心交给我",
+      "translation": null
+    },
+    {
+      "time": 85.569,
+      "time_str": "01:25.569",
+      "text": "这一刻 要你听见幸福的颜色",
+      "translation": null
+    },
+    {
+      "time": 105.59,
+      "time_str": "01:45.590",
+      "text": "琴弦的快乐 在我手中为你颤抖着",
+      "translation": null
+    },
+    {
+      "time": 112.069,
+      "time_str": "01:52.069",
+      "text": "多一秒你的笑容 付出什么都值得",
+      "translation": null
+    },
+    {
+      "time": 118.879,
+      "time_str": "01:58.879",
+      "text": "旋转八音盒 每一个音符都记录着",
+      "translation": null
+    },
+    {
+      "time": 125.71,
+      "time_str": "02:05.710",
+      "text": "你的喜怒哀乐 让我来谱成歌",
+      "translation": null
+    },
+    {
+      "time": 133.9,
+      "time_str": "02:13.900",
+      "text": "让我为你唱一首歌 全世界都陪你听着",
+      "translation": null
+    },
+    {
+      "time": 140.69,
+      "time_str": "02:20.690",
+      "text": "这是爱 你会明白 你是唯一不可替代",
+      "translation": null
+    },
+    {
+      "time": 147.4,
+      "time_str": "02:27.400",
+      "text": "让我为你唱一首歌 闭上眼睛把心交给我",
+      "translation": null
+    },
+    {
+      "time": 155.53,
+      "time_str": "02:35.530",
+      "text": "这一刻 要你听见幸福的颜色",
+      "translation": null
+    },
+    {
+      "time": 167.82,
+      "time_str": "02:47.820",
+      "text": "给我你的手 靠在我肩头",
+      "translation": null
+    },
+    {
+      "time": 174.52,
+      "time_str": "02:54.520",
+      "text": "把所有风雨挡在身后",
+      "translation": null
+    },
+    {
+      "time": 177.73,
+      "time_str": "02:57.730",
+      "text": "让整个星空为你演奏",
+      "translation": null
+    },
+    {
+      "time": 182.43,
+      "time_str": "03:02.430",
+      "text": "让我为你唱一首歌 全世界都陪你听着",
+      "translation": null
+    },
+    {
+      "time": 188.36,
+      "time_str": "03:08.360",
+      "text": "这是爱 你会明白 你是唯一不可替代",
+      "translation": null
+    },
+    {
+      "time": 195.01,
+      "time_str": "03:15.010",
+      "text": "让我为你唱一首歌 闭上眼睛把心交给我",
+      "translation": null
+    },
+    {
+      "time": 204.38,
+      "time_str": "03:24.380",
+      "text": "这一刻 要你听见幸福的颜色",
+      "translation": null
+    },
+    {
+      "time": 210.04,
+      "time_str": "03:30.040",
+      "text": "让我为你唱一首歌 全世界都陪你听着",
+      "translation": null
+    },
+    {
+      "time": 215.79,
+      "time_str": "03:35.790",
+      "text": "这是爱 你会明白 你是唯一不可替代",
+      "translation": null
+    },
+    {
+      "time": 222.17,
+      "time_str": "03:42.170",
+      "text": "让我为你唱一首歌 闭上眼睛把心交给我",
+      "translation": null
+    },
+    {
+      "time": 230.37,
+      "time_str": "03:50.370",
+      "text": "这一刻 要你听见幸福的颜色",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "让我为你唱首歌 - 张翰,朱梓骁,魏晨,俞灏明.lrc"
+}

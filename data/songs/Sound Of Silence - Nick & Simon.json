@@ -1,0 +1,208 @@
+{
+  "title": "Sound Of Silence",
+  "title_raw": "Sound Of Silence",
+  "version": null,
+  "artist": "Nick & Simon",
+  "group_key": "sound of silence|nick & simon",
+  "writers": {
+    "lyricist": "Paul Simon/Garfunkel",
+    "composer": "Paul Simon",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.85,
+      "time_str": "00:07.850",
+      "text": "Hello darkness, my old friend",
+      "translation": "别来无恙,黑暗,我的老友"
+    },
+    {
+      "time": 12.2,
+      "time_str": "00:12.200",
+      "text": "I've come to talk with you again",
+      "translation": "我又来同你叙叙旧"
+    },
+    {
+      "time": 16.92,
+      "time_str": "00:16.920",
+      "text": "Because a vision softly creeping",
+      "translation": "因为一道幻象悄悄来临"
+    },
+    {
+      "time": 22.14,
+      "time_str": "00:22.140",
+      "text": "Left its seeds while I was sleeping",
+      "translation": "趁我入睡时播下了种子"
+    },
+    {
+      "time": 26.9,
+      "time_str": "00:26.900",
+      "text": "And the vision that was planted in my brain",
+      "translation": "那在我的脑海中生长的幻象"
+    },
+    {
+      "time": 34.05,
+      "time_str": "00:34.050",
+      "text": "Still remains",
+      "translation": "仍然滞留"
+    },
+    {
+      "time": 37.37,
+      "time_str": "00:37.370",
+      "text": "Within the sound of silence",
+      "translation": "在寂静之声中"
+    },
+    {
+      "time": 43.48,
+      "time_str": "00:43.480",
+      "text": "In restless dreams I walked alone",
+      "translation": "在一次不安的梦境中我独自徘徊"
+    },
+    {
+      "time": 48.47,
+      "time_str": "00:48.470",
+      "text": "Narrow streets of cobblestone",
+      "translation": "流连于狭窄的卵石道上"
+    },
+    {
+      "time": 53.23,
+      "time_str": "00:53.230",
+      "text": "Neath the halo of a street lamp",
+      "translation": "伫立在路灯微弱的光线下"
+    },
+    {
+      "time": 57.5,
+      "time_str": "00:57.500",
+      "text": "I turned my collar to the cold and damp",
+      "translation": "寒冷与潮湿的侵袭使我竖起衣领"
+    },
+    {
+      "time": 62.5,
+      "time_str": "01:02.500",
+      "text": "When my eyes were stabbed by the flash of a neon light",
+      "translation": "当我察觉眼睛被霓虹灯光刺痛时"
+    },
+    {
+      "time": 69.9,
+      "time_str": "01:09.900",
+      "text": "That split the night",
+      "translation": "灯光划破夜空"
+    },
+    {
+      "time": 73.31,
+      "time_str": "01:13.310",
+      "text": "And touched the sound of silence",
+      "translation": "触到那寂静之声"
+    },
+    {
+      "time": 79.21,
+      "time_str": "01:19.210",
+      "text": "And in the naked light I saw",
+      "translation": "在那无遮蔽的灯光下我看见"
+    },
+    {
+      "time": 84.0,
+      "time_str": "01:24.000",
+      "text": "Ten thousand people, maybe more",
+      "translation": "成千上万的人们,也许更多"
+    },
+    {
+      "time": 89.0,
+      "time_str": "01:29.000",
+      "text": "People talking without speaking",
+      "translation": "人们说而不言"
+    },
+    {
+      "time": 94.0,
+      "time_str": "01:34.000",
+      "text": "People hearing without listening",
+      "translation": "人们听而不闻"
+    },
+    {
+      "time": 98.5,
+      "time_str": "01:38.500",
+      "text": "People writing songs that voices never share",
+      "translation": "人们谱写从未被吟唱的乐章"
+    },
+    {
+      "time": 107.0,
+      "time_str": "01:47.000",
+      "text": "And no one dare disturb the sound of silence",
+      "translation": "没有人敢去惊动那寂静之声"
+    },
+    {
+      "time": 117.0,
+      "time_str": "01:57.000",
+      "text": "\"Fools\" said I, \"You do not know",
+      "translation": "“傻子,你们根本不知道.”我说,"
+    },
+    {
+      "time": 121.5,
+      "time_str": "02:01.500",
+      "text": "Silence like a cancer grows\"",
+      "translation": "“寂静早已犹如癌症一般生长”，"
+    },
+    {
+      "time": 126.63,
+      "time_str": "02:06.630",
+      "text": "Hear my words that I might teach you",
+      "translation": "细细聆听我教你们的说的话语,"
+    },
+    {
+      "time": 131.3,
+      "time_str": "02:11.300",
+      "text": "Take my arms that I might reach you",
+      "translation": "紧握我递给你们的手臂.”"
+    },
+    {
+      "time": 136.25,
+      "time_str": "02:16.250",
+      "text": "But my words like silent raindrops fell",
+      "translation": "但是我的话如同雨滴般无声落下"
+    },
+    {
+      "time": 146.3,
+      "time_str": "02:26.300",
+      "text": "And echoed in the wells of silence",
+      "translation": "回荡在寂静的深井里"
+    },
+    {
+      "time": 154.14,
+      "time_str": "02:34.140",
+      "text": "And the people bowed and prayed to the neon god they made.",
+      "translation": "人们朝着他们创造的虚幻的神（霓虹灯）低头祈祷"
+    },
+    {
+      "time": 163.7,
+      "time_str": "02:43.700",
+      "text": "And the sign flashed out its warning",
+      "translation": "而霓虹灯广告牌却在一闪一闪发出警告,"
+    },
+    {
+      "time": 168.3,
+      "time_str": "02:48.300",
+      "text": "And the words that it was forming",
+      "translation": "它展现出来的话语是:"
+    },
+    {
+      "time": 173.1,
+      "time_str": "02:53.100",
+      "text": "And the sign said:\"The words of the prophets are written on the subway walls",
+      "translation": "“先知者的语言就在地铁站墙上,"
+    },
+    {
+      "time": 181.6,
+      "time_str": "03:01.600",
+      "text": "and tenement halls",
+      "translation": "就在贫民的住房中,"
+    },
+    {
+      "time": 184.5,
+      "time_str": "03:04.500",
+      "text": "And whispered in the sound of silence.\"",
+      "translation": "还在于寂静之声中的低语.\""
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Sound Of Silence - Nick & Simon.lrc"
+}

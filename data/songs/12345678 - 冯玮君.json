@@ -1,0 +1,346 @@
+{
+  "title": "12345678",
+  "title_raw": "12345678",
+  "version": null,
+  "artist": "冯玮君",
+  "group_key": "12345678|冯玮君",
+  "writers": {
+    "lyricist": "葛大为",
+    "composer": "林宥佐",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 32.03,
+      "time_str": "00:32.030",
+      "text": "喜欢的东西怎么可以忍住不买",
+      "translation": null
+    },
+    {
+      "time": 35.45,
+      "time_str": "00:35.450",
+      "text": "这样太困难",
+      "translation": null
+    },
+    {
+      "time": 40.14,
+      "time_str": "00:40.140",
+      "text": "谈一场恋爱",
+      "translation": null
+    },
+    {
+      "time": 41.61,
+      "time_str": "00:41.610",
+      "text": "却不想浪费太多自由来交换",
+      "translation": null
+    },
+    {
+      "time": 47.53,
+      "time_str": "00:47.530",
+      "text": "在那横冲直撞的捷运站",
+      "translation": null
+    },
+    {
+      "time": 52.12,
+      "time_str": "00:52.120",
+      "text": "回想她的八次恋爱",
+      "translation": null
+    },
+    {
+      "time": 54.13,
+      "time_str": "00:54.130",
+      "text": "好或坏 高或矮",
+      "translation": null
+    },
+    {
+      "time": 56.06,
+      "time_str": "00:56.060",
+      "text": "甚至有些奇怪的习惯",
+      "translation": null
+    },
+    {
+      "time": 61.89,
+      "time_str": "01:01.890",
+      "text": "分不开 分得开",
+      "translation": null
+    },
+    {
+      "time": 63.73,
+      "time_str": "01:03.730",
+      "text": "原来只是想有人陪伴",
+      "translation": null
+    },
+    {
+      "time": 70.49,
+      "time_str": "01:10.490",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 73.99,
+      "time_str": "01:13.990",
+      "text": "她谈了八次恋爱 八次遗憾",
+      "translation": null
+    },
+    {
+      "time": 78.21,
+      "time_str": "01:18.210",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 81.61,
+      "time_str": "01:21.610",
+      "text": "机会都已经蒸发 时间快转",
+      "translation": null
+    },
+    {
+      "time": 85.91,
+      "time_str": "01:25.910",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 89.51,
+      "time_str": "01:29.510",
+      "text": "也许换电话的人 有了新欢",
+      "translation": null
+    },
+    {
+      "time": 93.61,
+      "time_str": "01:33.610",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 97.17,
+      "time_str": "01:37.170",
+      "text": "她对于下次情感",
+      "translation": null
+    },
+    {
+      "time": 100.1,
+      "time_str": "01:40.100",
+      "text": "该怎么期待",
+      "translation": null
+    },
+    {
+      "time": 109.71,
+      "time_str": "01:49.710",
+      "text": "在那横冲直撞的捷运站",
+      "translation": null
+    },
+    {
+      "time": 113.83,
+      "time_str": "01:53.830",
+      "text": "回想她的八次恋爱",
+      "translation": null
+    },
+    {
+      "time": 115.94,
+      "time_str": "01:55.940",
+      "text": "好或坏 高或矮",
+      "translation": null
+    },
+    {
+      "time": 118.08,
+      "time_str": "01:58.080",
+      "text": "甚至有些奇怪的习惯",
+      "translation": null
+    },
+    {
+      "time": 123.83,
+      "time_str": "02:03.830",
+      "text": "分不开 分得开",
+      "translation": null
+    },
+    {
+      "time": 126.06,
+      "time_str": "02:06.060",
+      "text": "原来只是想有人陪伴",
+      "translation": null
+    },
+    {
+      "time": 132.32,
+      "time_str": "02:12.320",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 136.06,
+      "time_str": "02:16.060",
+      "text": "她谈了八次恋爱 八次遗憾",
+      "translation": null
+    },
+    {
+      "time": 139.78,
+      "time_str": "02:19.780",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 143.73,
+      "time_str": "02:23.730",
+      "text": "机会都已经蒸发 时间快转",
+      "translation": null
+    },
+    {
+      "time": 147.42,
+      "time_str": "02:27.420",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 151.71,
+      "time_str": "02:31.710",
+      "text": "也许换电话的人 有了新欢",
+      "translation": null
+    },
+    {
+      "time": 155.33,
+      "time_str": "02:35.330",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 159.09,
+      "time_str": "02:39.090",
+      "text": "她对于下次情感",
+      "translation": null
+    },
+    {
+      "time": 162.12,
+      "time_str": "02:42.120",
+      "text": "该怎么期待",
+      "translation": null
+    },
+    {
+      "time": 179.28,
+      "time_str": "02:59.280",
+      "text": "每当她的 Mr.Right",
+      "translation": null
+    },
+    {
+      "time": 180.8,
+      "time_str": "03:00.800",
+      "text": "最后变成 Mr.Wrong",
+      "translation": null
+    },
+    {
+      "time": 182.25,
+      "time_str": "03:02.250",
+      "text": "她总会伤感 好几个夜晚",
+      "translation": null
+    },
+    {
+      "time": 187.44,
+      "time_str": "03:07.440",
+      "text": "Oh 眼泪一干",
+      "translation": null
+    },
+    {
+      "time": 190.2,
+      "time_str": "03:10.200",
+      "text": "她就能慢慢恢复光彩",
+      "translation": null
+    },
+    {
+      "time": 194.68,
+      "time_str": "03:14.680",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 197.77,
+      "time_str": "03:17.770",
+      "text": "她谈了八次恋爱 八次遗憾",
+      "translation": null
+    },
+    {
+      "time": 202.51,
+      "time_str": "03:22.510",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 205.75,
+      "time_str": "03:25.750",
+      "text": "机会都已经蒸发 时间快转",
+      "translation": null
+    },
+    {
+      "time": 209.36,
+      "time_str": "03:29.360",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 213.13,
+      "time_str": "03:33.130",
+      "text": "也许换电话的人 有了新欢",
+      "translation": null
+    },
+    {
+      "time": 217.32,
+      "time_str": "03:37.320",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 221.11,
+      "time_str": "03:41.110",
+      "text": "她对于下次情感",
+      "translation": null
+    },
+    {
+      "time": 224.0,
+      "time_str": "03:44.000",
+      "text": "该怎么期待",
+      "translation": null
+    },
+    {
+      "time": 225.35,
+      "time_str": "03:45.350",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 228.68,
+      "time_str": "03:48.680",
+      "text": "她谈了八次恋爱 八次遗憾",
+      "translation": null
+    },
+    {
+      "time": 232.5,
+      "time_str": "03:52.500",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 236.7,
+      "time_str": "03:56.700",
+      "text": "她对于下次情感",
+      "translation": null
+    },
+    {
+      "time": 239.59,
+      "time_str": "03:59.590",
+      "text": "该怎么期待",
+      "translation": null
+    },
+    {
+      "time": 241.65,
+      "time_str": "04:01.650",
+      "text": "12345678",
+      "translation": null
+    },
+    {
+      "time": 248.28,
+      "time_str": "04:08.280",
+      "text": "12345678",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "12345678 - 冯玮君.lrc"
+}

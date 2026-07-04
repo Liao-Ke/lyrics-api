@@ -1,0 +1,136 @@
+{
+  "title": "映山红",
+  "title_raw": "映山红",
+  "version": null,
+  "artist": "青燕子演唱组",
+  "group_key": "映山红|青燕子演唱组",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.79,
+      "time_str": "00:13.790",
+      "text": "夜半三更哟盼天明",
+      "translation": null
+    },
+    {
+      "time": 21.31,
+      "time_str": "00:21.310",
+      "text": "寒冬腊月哟盼春风",
+      "translation": null
+    },
+    {
+      "time": 29.05,
+      "time_str": "00:29.050",
+      "text": "若要盼得哟红军来",
+      "translation": null
+    },
+    {
+      "time": 36.79,
+      "time_str": "00:36.790",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 44.63,
+      "time_str": "00:44.630",
+      "text": "若要盼得哟红军来",
+      "translation": null
+    },
+    {
+      "time": 52.39,
+      "time_str": "00:52.390",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 59.19,
+      "time_str": "00:59.190",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 66.98,
+      "time_str": "01:06.980",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 83.25,
+      "time_str": "01:23.250",
+      "text": "夜半三更哟盼天明",
+      "translation": null
+    },
+    {
+      "time": 90.93,
+      "time_str": "01:30.930",
+      "text": "寒冬腊月哟盼春风",
+      "translation": null
+    },
+    {
+      "time": 97.69,
+      "time_str": "01:37.690",
+      "text": "若要盼得哟红军来",
+      "translation": null
+    },
+    {
+      "time": 103.52,
+      "time_str": "01:43.520",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 111.32,
+      "time_str": "01:51.320",
+      "text": "若要盼得哟红军来",
+      "translation": null
+    },
+    {
+      "time": 117.02,
+      "time_str": "01:57.020",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 124.8,
+      "time_str": "02:04.800",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 131.57,
+      "time_str": "02:11.570",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 139.0,
+      "time_str": "02:19.000",
+      "text": "若要盼得哟红军来",
+      "translation": null
+    },
+    {
+      "time": 145.65,
+      "time_str": "02:25.650",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 151.09,
+      "time_str": "02:31.090",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 158.86,
+      "time_str": "02:38.860",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "映山红 - 青燕子演唱组.lrc"
+}

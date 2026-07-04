@@ -1,0 +1,364 @@
+{
+  "title": "About",
+  "title_raw": "About",
+  "version": null,
+  "artist": "Beatrich",
+  "group_key": "about|beatrich",
+  "writers": {
+    "lyricist": null,
+    "composer": "Beatrice Pundziute/Benas Ivanovas",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 17.43,
+      "time_str": "00:17.430",
+      "text": "Trust me, I will give you honor",
+      "translation": "相信我，我将给予你无上荣耀"
+    },
+    {
+      "time": 21.71,
+      "time_str": "00:21.710",
+      "text": "Chess like kings and queens above all",
+      "translation": "像国际象棋中的王和王后执掌四海"
+    },
+    {
+      "time": 26.03,
+      "time_str": "00:26.030",
+      "text": "Guess I'm not the only daughter",
+      "translation": "大概我不是唯一的公主"
+    },
+    {
+      "time": 30.38,
+      "time_str": "00:30.380",
+      "text": "Golden wings is what we follow",
+      "translation": "我们追随着金色的翅膀（飞翔）"
+    },
+    {
+      "time": 34.67,
+      "time_str": "00:34.670",
+      "text": "Trust me, I will go there solo",
+      "translation": "相信我，我将要独自前行"
+    },
+    {
+      "time": 39.05,
+      "time_str": "00:39.050",
+      "text": "Don't go mad for every dollar",
+      "translation": "不要因为钱生气"
+    },
+    {
+      "time": 43.34,
+      "time_str": "00:43.340",
+      "text": "Pain will drown in whiskey",
+      "translation": "痛苦将醉倒在威士忌中"
+    },
+    {
+      "time": 46.61,
+      "time_str": "00:46.610",
+      "text": "But I don't go straight and oh, oh, oh",
+      "translation": "但我不会改过自新噢，噢，噢"
+    },
+    {
+      "time": 51.94,
+      "time_str": "00:51.940",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 55.75,
+      "time_str": "00:55.750",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 57.94,
+      "time_str": "00:57.940",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 60.41,
+      "time_str": "01:00.410",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 64.4,
+      "time_str": "01:04.400",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 66.58,
+      "time_str": "01:06.580",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 69.03,
+      "time_str": "01:09.030",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 73.1,
+      "time_str": "01:13.100",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 75.23,
+      "time_str": "01:15.230",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 77.7,
+      "time_str": "01:17.700",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 81.76,
+      "time_str": "01:21.760",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 83.91,
+      "time_str": "01:23.910",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 87.17,
+      "time_str": "01:27.170",
+      "text": "Oh oh oh oh",
+      "translation": "噢~ ~ ~"
+    },
+    {
+      "time": 91.48,
+      "time_str": "01:31.480",
+      "text": "Oh oh oh oh",
+      "translation": "噢~ ~ ~"
+    },
+    {
+      "time": 95.21,
+      "time_str": "01:35.210",
+      "text": "Life is long without this sorrow",
+      "translation": "人生有很长时间不会伴随爱情是严冬"
+    },
+    {
+      "time": 99.58,
+      "time_str": "01:39.580",
+      "text": "Give me chill down by the water",
+      "translation": "给我泼水让我冷静下来"
+    },
+    {
+      "time": 103.94,
+      "time_str": "01:43.940",
+      "text": "All there was will make you swallow",
+      "translation": "所有的这些可以使我抑制住感情"
+    },
+    {
+      "time": 108.25,
+      "time_str": "01:48.250",
+      "text": "Feel that pain from no tomorrow",
+      "translation": "感到痛苦将不再延续"
+    },
+    {
+      "time": 112.52,
+      "time_str": "01:52.520",
+      "text": "Stay and sold that you have borrowed",
+      "translation": "延续并去掉你借来的"
+    },
+    {
+      "time": 116.89,
+      "time_str": "01:56.890",
+      "text": "Take yourself on getting wallow",
+      "translation": "让你自己保持清醒"
+    },
+    {
+      "time": 121.23,
+      "time_str": "02:01.230",
+      "text": "No one said that you are hollow",
+      "translation": "没有人说你你取得的是表面胜利"
+    },
+    {
+      "time": 125.54,
+      "time_str": "02:05.540",
+      "text": "Give it all for oh, oh, oh",
+      "translation": "将所有给予（爱情）噢~ 噢~ 噢~"
+    },
+    {
+      "time": 129.61,
+      "time_str": "02:09.610",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 133.65,
+      "time_str": "02:13.650",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 135.83,
+      "time_str": "02:15.830",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 138.26,
+      "time_str": "02:18.260",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 142.29,
+      "time_str": "02:22.290",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 144.45,
+      "time_str": "02:24.450",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 146.86,
+      "time_str": "02:26.860",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 150.94,
+      "time_str": "02:30.940",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 153.13,
+      "time_str": "02:33.130",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 155.49,
+      "time_str": "02:35.490",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 159.59,
+      "time_str": "02:39.590",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 161.78,
+      "time_str": "02:41.780",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 164.52,
+      "time_str": "02:44.520",
+      "text": "Oh my love is getting nowhere",
+      "translation": "我的爱无处可去"
+    },
+    {
+      "time": 169.0,
+      "time_str": "02:49.000",
+      "text": "My love is all the worst of me",
+      "translation": "我的爱是我身上最糟的一部分"
+    },
+    {
+      "time": 173.88,
+      "time_str": "02:53.880",
+      "text": "My love is getting nowhere",
+      "translation": "我的爱无处安置"
+    },
+    {
+      "time": 177.78,
+      "time_str": "02:57.780",
+      "text": "My love is getting oh, oh, oh",
+      "translation": "我的爱将要，噢~"
+    },
+    {
+      "time": 181.54,
+      "time_str": "03:01.540",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 185.53,
+      "time_str": "03:05.530",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 187.73,
+      "time_str": "03:07.730",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 190.13,
+      "time_str": "03:10.130",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 194.23,
+      "time_str": "03:14.230",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 196.39,
+      "time_str": "03:16.390",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 198.8,
+      "time_str": "03:18.800",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 202.84,
+      "time_str": "03:22.840",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 205.05,
+      "time_str": "03:25.050",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 207.47,
+      "time_str": "03:27.470",
+      "text": "A lover don't care what you think about",
+      "translation": "爱情不在乎你怎么想"
+    },
+    {
+      "time": 211.49,
+      "time_str": "03:31.490",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    },
+    {
+      "time": 213.68,
+      "time_str": "03:33.680",
+      "text": "What it's all about",
+      "translation": "这都是关于"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "About - Beatrich.lrc"
+}

@@ -1,0 +1,340 @@
+{
+  "title": "美人鱼",
+  "title_raw": "美人鱼",
+  "version": null,
+  "artist": "林俊杰",
+  "group_key": "美人鱼|林俊杰",
+  "writers": {
+    "lyricist": "林秋离/简胜",
+    "composer": "林俊杰",
+    "arranger": "梁定江/Case Woo"
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "美人鱼",
+      "translation": null
+    },
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "演唱：林俊杰",
+      "translation": null
+    },
+    {
+      "time": 26.34,
+      "time_str": "00:26.340",
+      "text": "我在沙滩划个圆圈",
+      "translation": null
+    },
+    {
+      "time": 29.29,
+      "time_str": "00:29.290",
+      "text": "属于我俩安逸世界",
+      "translation": null
+    },
+    {
+      "time": 31.94,
+      "time_str": "00:31.940",
+      "text": "不用和别人连线",
+      "translation": null
+    },
+    {
+      "time": 36.93,
+      "time_str": "00:36.930",
+      "text": "我不管你来自深渊",
+      "translation": null
+    },
+    {
+      "time": 39.35,
+      "time_str": "00:39.350",
+      "text": "也不在乎身上鳞片",
+      "translation": null
+    },
+    {
+      "time": 41.94,
+      "time_str": "00:41.940",
+      "text": "爱情能超越一切",
+      "translation": null
+    },
+    {
+      "time": 46.24,
+      "time_str": "00:46.240",
+      "text": "只要你在我身边",
+      "translation": null
+    },
+    {
+      "time": 48.23,
+      "time_str": "00:48.230",
+      "text": "所有蜚语流言 完全视而不见",
+      "translation": null
+    },
+    {
+      "time": 51.21,
+      "time_str": "00:51.210",
+      "text": "请不要匆匆一面",
+      "translation": null
+    },
+    {
+      "time": 53.13,
+      "time_str": "00:53.130",
+      "text": "一转身就沉入海平线",
+      "translation": null
+    },
+    {
+      "time": 58.91,
+      "time_str": "00:58.910",
+      "text": "传说中你为爱甘心被搁浅",
+      "translation": null
+    },
+    {
+      "time": 63.76,
+      "time_str": "01:03.760",
+      "text": "我也可以为你 潜入海里面",
+      "translation": null
+    },
+    {
+      "time": 68.36,
+      "time_str": "01:08.360",
+      "text": "怎么忍心断绝",
+      "translation": null
+    },
+    {
+      "time": 70.93,
+      "time_str": "01:10.930",
+      "text": "忘记我不变的誓言",
+      "translation": null
+    },
+    {
+      "time": 74.85,
+      "time_str": "01:14.850",
+      "text": "我眼泪断了线",
+      "translation": null
+    },
+    {
+      "time": 79.16,
+      "time_str": "01:19.160",
+      "text": "现实里有了我对你的眷恋",
+      "translation": null
+    },
+    {
+      "time": 83.92,
+      "time_str": "01:23.920",
+      "text": "我愿意化作雕像 等你出现",
+      "translation": null
+    },
+    {
+      "time": 88.84,
+      "time_str": "01:28.840",
+      "text": "再见再也不见",
+      "translation": null
+    },
+    {
+      "time": 91.17,
+      "time_str": "01:31.170",
+      "text": "心碎了飘荡在海边",
+      "translation": null
+    },
+    {
+      "time": 94.75,
+      "time_str": "01:34.750",
+      "text": "你抬头就看见",
+      "translation": null
+    },
+    {
+      "time": 119.82,
+      "time_str": "01:59.820",
+      "text": "我在沙滩划个圆圈",
+      "translation": null
+    },
+    {
+      "time": 122.46,
+      "time_str": "02:02.460",
+      "text": "属于我俩安逸世界",
+      "translation": null
+    },
+    {
+      "time": 125.23,
+      "time_str": "02:05.230",
+      "text": "不用和别人连线",
+      "translation": null
+    },
+    {
+      "time": 130.18,
+      "time_str": "02:10.180",
+      "text": "我不管你来自深渊",
+      "translation": null
+    },
+    {
+      "time": 132.8,
+      "time_str": "02:12.800",
+      "text": "也不在乎身上鳞片",
+      "translation": null
+    },
+    {
+      "time": 135.17,
+      "time_str": "02:15.170",
+      "text": "爱情能超越一切",
+      "translation": null
+    },
+    {
+      "time": 139.62,
+      "time_str": "02:19.620",
+      "text": "只要你在我身边",
+      "translation": null
+    },
+    {
+      "time": 141.52,
+      "time_str": "02:21.520",
+      "text": "所有蜚语流言 完全视而不见",
+      "translation": null
+    },
+    {
+      "time": 144.66,
+      "time_str": "02:24.660",
+      "text": "请不要匆匆一面",
+      "translation": null
+    },
+    {
+      "time": 146.6,
+      "time_str": "02:26.600",
+      "text": "一转身就沉入海平线",
+      "translation": null
+    },
+    {
+      "time": 152.33,
+      "time_str": "02:32.330",
+      "text": "传说中你为爱甘心被搁浅",
+      "translation": null
+    },
+    {
+      "time": 157.27,
+      "time_str": "02:37.270",
+      "text": "我也可以为你 潜入海里面",
+      "translation": null
+    },
+    {
+      "time": 161.95,
+      "time_str": "02:41.950",
+      "text": "怎么忍心断绝",
+      "translation": null
+    },
+    {
+      "time": 164.42,
+      "time_str": "02:44.420",
+      "text": "忘记我不变的誓言",
+      "translation": null
+    },
+    {
+      "time": 167.96,
+      "time_str": "02:47.960",
+      "text": "我眼泪断了线",
+      "translation": null
+    },
+    {
+      "time": 172.48,
+      "time_str": "02:52.480",
+      "text": "现实里有了我对你的眷恋",
+      "translation": null
+    },
+    {
+      "time": 177.43,
+      "time_str": "02:57.430",
+      "text": "我愿意化作雕像 等你出现",
+      "translation": null
+    },
+    {
+      "time": 182.16,
+      "time_str": "03:02.160",
+      "text": "再见再也不见",
+      "translation": null
+    },
+    {
+      "time": 184.71,
+      "time_str": "03:04.710",
+      "text": "心碎了飘荡在海边",
+      "translation": null
+    },
+    {
+      "time": 188.28,
+      "time_str": "03:08.280",
+      "text": "你抬头就看见",
+      "translation": null
+    },
+    {
+      "time": 192.67,
+      "time_str": "03:12.670",
+      "text": "传说中你为爱甘心被搁浅",
+      "translation": null
+    },
+    {
+      "time": 197.73,
+      "time_str": "03:17.730",
+      "text": "我也可以为你 潜入海里面",
+      "translation": null
+    },
+    {
+      "time": 202.34,
+      "time_str": "03:22.340",
+      "text": "怎么忍心断绝",
+      "translation": null
+    },
+    {
+      "time": 204.85,
+      "time_str": "03:24.850",
+      "text": "忘记我不变的誓言",
+      "translation": null
+    },
+    {
+      "time": 208.43,
+      "time_str": "03:28.430",
+      "text": "我眼泪断了线",
+      "translation": null
+    },
+    {
+      "time": 212.95,
+      "time_str": "03:32.950",
+      "text": "现实里有了我对你的眷恋",
+      "translation": null
+    },
+    {
+      "time": 217.97,
+      "time_str": "03:37.970",
+      "text": "我愿意化作雕像 等你出现",
+      "translation": null
+    },
+    {
+      "time": 222.61,
+      "time_str": "03:42.610",
+      "text": "再见再也不见",
+      "translation": null
+    },
+    {
+      "time": 225.2,
+      "time_str": "03:45.200",
+      "text": "心碎了飘荡在海边",
+      "translation": null
+    },
+    {
+      "time": 228.7,
+      "time_str": "03:48.700",
+      "text": "你抬头就看见",
+      "translation": null
+    },
+    {
+      "time": 232.74,
+      "time_str": "03:52.740",
+      "text": "你 你抬头就看见",
+      "translation": null
+    },
+    {
+      "time": 237.88,
+      "time_str": "03:57.880",
+      "text": "你 你抬头就看见",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "美人鱼 - 林俊杰.lrc"
+}

@@ -1,0 +1,112 @@
+{
+  "title": "美丽的草原我的家",
+  "title_raw": "美丽的草原我的家",
+  "version": null,
+  "artist": "叶凡",
+  "group_key": "美丽的草原我的家|叶凡",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.431,
+      "time_str": "00:29.431",
+      "text": "美丽的草原我的家",
+      "translation": null
+    },
+    {
+      "time": 37.176,
+      "time_str": "00:37.176",
+      "text": "风吹绿草遍地花",
+      "translation": null
+    },
+    {
+      "time": 45.428,
+      "time_str": "00:45.428",
+      "text": "彩蝶纷飞百鸟儿唱",
+      "translation": null
+    },
+    {
+      "time": 53.685,
+      "time_str": "00:53.685",
+      "text": "一弯碧水映晚霞",
+      "translation": null
+    },
+    {
+      "time": 61.566,
+      "time_str": "01:01.566",
+      "text": "骏马好似彩云朵",
+      "translation": null
+    },
+    {
+      "time": 70.018,
+      "time_str": "01:10.018",
+      "text": "牛羊好似珍珠撒",
+      "translation": null
+    },
+    {
+      "time": 114.479,
+      "time_str": "01:54.479",
+      "text": "美丽的草原我的家",
+      "translation": null
+    },
+    {
+      "time": 121.734,
+      "time_str": "02:01.734",
+      "text": "水青草肥我爱她",
+      "translation": null
+    },
+    {
+      "time": 129.734,
+      "time_str": "02:09.734",
+      "text": "草原就象绿色的海",
+      "translation": null
+    },
+    {
+      "time": 137.978,
+      "time_str": "02:17.978",
+      "text": "毡房就像白莲花",
+      "translation": null
+    },
+    {
+      "time": 146.232,
+      "time_str": "02:26.232",
+      "text": "牧民描绘幸福景",
+      "translation": null
+    },
+    {
+      "time": 154.232,
+      "time_str": "02:34.232",
+      "text": "春光万里美如画",
+      "translation": null
+    },
+    {
+      "time": 165.431,
+      "time_str": "02:45.431",
+      "text": "啊，牧羊姑娘放声唱",
+      "translation": null
+    },
+    {
+      "time": 177.904,
+      "time_str": "02:57.904",
+      "text": "愉快的歌声满天涯",
+      "translation": null
+    },
+    {
+      "time": 185.903,
+      "time_str": "03:05.903",
+      "text": "牧羊姑娘放声唱",
+      "translation": null
+    },
+    {
+      "time": 194.901,
+      "time_str": "03:14.901",
+      "text": "愉快的歌声满天涯",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "美丽的草原我的家 - 叶凡.lrc"
+}

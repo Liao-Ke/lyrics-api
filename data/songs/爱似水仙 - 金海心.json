@@ -1,0 +1,310 @@
+{
+  "title": "爱似水仙",
+  "title_raw": "爱似水仙",
+  "version": null,
+  "artist": "金海心",
+  "group_key": "爱似水仙|金海心",
+  "writers": {
+    "lyricist": "梁俊睿/胡力",
+    "composer": "胡力",
+    "arranger": "胡力"
+  },
+  "lyrics": [
+    {
+      "time": 14.95,
+      "time_str": "00:14.950",
+      "text": "你说",
+      "translation": null
+    },
+    {
+      "time": 17.32,
+      "time_str": "00:17.320",
+      "text": "我冷得像水仙",
+      "translation": null
+    },
+    {
+      "time": 22.04,
+      "time_str": "00:22.040",
+      "text": "冬天才看到我的笑脸",
+      "translation": null
+    },
+    {
+      "time": 29.15,
+      "time_str": "00:29.150",
+      "text": "你说",
+      "translation": null
+    },
+    {
+      "time": 31.52,
+      "time_str": "00:31.520",
+      "text": "我在等一个寓言",
+      "translation": null
+    },
+    {
+      "time": 35.89,
+      "time_str": "00:35.890",
+      "text": "却永远不能够",
+      "translation": null
+    },
+    {
+      "time": 38.51,
+      "time_str": "00:38.510",
+      "text": "不能够实现",
+      "translation": null
+    },
+    {
+      "time": 43.38,
+      "time_str": "00:43.380",
+      "text": "要为你改变",
+      "translation": null
+    },
+    {
+      "time": 47.31,
+      "time_str": "00:47.310",
+      "text": "盛开在夏天",
+      "translation": null
+    },
+    {
+      "time": 49.87,
+      "time_str": "00:49.870",
+      "text": "别忘了我就是水仙",
+      "translation": null
+    },
+    {
+      "time": 53.42,
+      "time_str": "00:53.420",
+      "text": "白雪映出了",
+      "translation": null
+    },
+    {
+      "time": 55.67,
+      "time_str": "00:55.670",
+      "text": "我的春天",
+      "translation": null
+    },
+    {
+      "time": 60.47,
+      "time_str": "01:00.470",
+      "text": "盛开在冬天的水仙",
+      "translation": null
+    },
+    {
+      "time": 64.28,
+      "time_str": "01:04.280",
+      "text": "你是否闻得到我的娇艳",
+      "translation": null
+    },
+    {
+      "time": 67.84,
+      "time_str": "01:07.840",
+      "text": "如果你给我一双舞鞋",
+      "translation": null
+    },
+    {
+      "time": 71.35,
+      "time_str": "01:11.350",
+      "text": "我就会为你长袖翩翩",
+      "translation": null
+    },
+    {
+      "time": 75.18,
+      "time_str": "01:15.180",
+      "text": "如果你看穿我的思念",
+      "translation": null
+    },
+    {
+      "time": 78.43,
+      "time_str": "01:18.430",
+      "text": "我就不会为你哭红双眼",
+      "translation": null
+    },
+    {
+      "time": 82.08,
+      "time_str": "01:22.080",
+      "text": "如果我能戒掉了思念",
+      "translation": null
+    },
+    {
+      "time": 85.57,
+      "time_str": "01:25.570",
+      "text": "就不会开在你的窗前",
+      "translation": null
+    },
+    {
+      "time": 107.18,
+      "time_str": "01:47.180",
+      "text": "你说",
+      "translation": null
+    },
+    {
+      "time": 109.36,
+      "time_str": "01:49.360",
+      "text": "我冷得像水仙",
+      "translation": null
+    },
+    {
+      "time": 113.92,
+      "time_str": "01:53.920",
+      "text": "冬天才看到我的笑脸",
+      "translation": null
+    },
+    {
+      "time": 121.06,
+      "time_str": "02:01.060",
+      "text": "你说",
+      "translation": null
+    },
+    {
+      "time": 123.53,
+      "time_str": "02:03.530",
+      "text": "我在等一个寓言",
+      "translation": null
+    },
+    {
+      "time": 128.02,
+      "time_str": "02:08.020",
+      "text": "却永远不能够",
+      "translation": null
+    },
+    {
+      "time": 130.14,
+      "time_str": "02:10.140",
+      "text": "不能够实现",
+      "translation": null
+    },
+    {
+      "time": 135.89,
+      "time_str": "02:15.890",
+      "text": "要为你改变",
+      "translation": null
+    },
+    {
+      "time": 139.69,
+      "time_str": "02:19.690",
+      "text": "盛开在夏天",
+      "translation": null
+    },
+    {
+      "time": 142.38,
+      "time_str": "02:22.380",
+      "text": "别忘了我就是水仙",
+      "translation": null
+    },
+    {
+      "time": 145.78,
+      "time_str": "02:25.780",
+      "text": "白雪映出了",
+      "translation": null
+    },
+    {
+      "time": 148.3,
+      "time_str": "02:28.300",
+      "text": "我的春天",
+      "translation": null
+    },
+    {
+      "time": 153.15,
+      "time_str": "02:33.150",
+      "text": "盛开在冬天的水仙",
+      "translation": null
+    },
+    {
+      "time": 156.52,
+      "time_str": "02:36.520",
+      "text": "你是否闻得到我的娇艳",
+      "translation": null
+    },
+    {
+      "time": 160.44,
+      "time_str": "02:40.440",
+      "text": "如果你给我一双舞鞋",
+      "translation": null
+    },
+    {
+      "time": 163.99,
+      "time_str": "02:43.990",
+      "text": "我就会为你长袖翩翩",
+      "translation": null
+    },
+    {
+      "time": 167.61,
+      "time_str": "02:47.610",
+      "text": "如果你看穿我的思念",
+      "translation": null
+    },
+    {
+      "time": 171.06,
+      "time_str": "02:51.060",
+      "text": "我就不会为你哭红双眼",
+      "translation": null
+    },
+    {
+      "time": 174.62,
+      "time_str": "02:54.620",
+      "text": "如果我能戒掉了思念",
+      "translation": null
+    },
+    {
+      "time": 178.11,
+      "time_str": "02:58.110",
+      "text": "就不会开在你的窗前",
+      "translation": null
+    },
+    {
+      "time": 185.32,
+      "time_str": "03:05.320",
+      "text": "盛开在冬天的水仙",
+      "translation": null
+    },
+    {
+      "time": 188.87,
+      "time_str": "03:08.870",
+      "text": "你是否闻得到我的娇艳",
+      "translation": null
+    },
+    {
+      "time": 192.25,
+      "time_str": "03:12.250",
+      "text": "如果你给我一双舞鞋",
+      "translation": null
+    },
+    {
+      "time": 195.78,
+      "time_str": "03:15.780",
+      "text": "我就会为你长袖翩翩",
+      "translation": null
+    },
+    {
+      "time": 199.27,
+      "time_str": "03:19.270",
+      "text": "如果你看穿我的思念",
+      "translation": null
+    },
+    {
+      "time": 202.72,
+      "time_str": "03:22.720",
+      "text": "我就不会为你哭红双眼",
+      "translation": null
+    },
+    {
+      "time": 206.59,
+      "time_str": "03:26.590",
+      "text": "如果我能戒掉了思念",
+      "translation": null
+    },
+    {
+      "time": 209.77,
+      "time_str": "03:29.770",
+      "text": "就不会开在你的窗前",
+      "translation": null
+    },
+    {
+      "time": 217.07,
+      "time_str": "03:37.070",
+      "text": "就不会开在你的窗前",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱似水仙 - 金海心.lrc"
+}

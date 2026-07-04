@@ -1,0 +1,136 @@
+{
+  "title": "Scarborough Fair",
+  "title_raw": "Scarborough Fair",
+  "version": null,
+  "artist": "Sarah Brightman",
+  "group_key": "scarborough fair|sarah brightman",
+  "writers": {
+    "lyricist": "Simon & Garfunkel",
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 12.21,
+      "time_str": "00:12.210",
+      "text": "Are you going to Scarborough Fair?",
+      "translation": "你要去斯卡布罗集市吗？"
+    },
+    {
+      "time": 19.98,
+      "time_str": "00:19.980",
+      "text": "Parsley, sage, rosemary and thyme",
+      "translation": "欧芹，鼠尾草，迷迭香和百里香"
+    },
+    {
+      "time": 29.6,
+      "time_str": "00:29.600",
+      "text": "Remember me to one who lives there",
+      "translation": "请代我向住在那里的一个人问好"
+    },
+    {
+      "time": 37.39,
+      "time_str": "00:37.390",
+      "text": "He once was a true love of mine",
+      "translation": "他曾经是我的真爱"
+    },
+    {
+      "time": 48.37,
+      "time_str": "00:48.370",
+      "text": "Tell him to make me a cambric shirt",
+      "translation": "告诉他做件麻布衣衫"
+    },
+    {
+      "time": 55.99,
+      "time_str": "00:55.990",
+      "text": "Parsley, sage, rosemary and thyme",
+      "translation": "欧芹，鼠尾草，迷迭香和百里香"
+    },
+    {
+      "time": 65.73,
+      "time_str": "01:05.730",
+      "text": "Without no seams nor needle work",
+      "translation": "不要用针线，也找不到接缝"
+    },
+    {
+      "time": 73.61,
+      "time_str": "01:13.610",
+      "text": "Then he'll be a true love of mine",
+      "translation": "然后，他会成为我的真爱"
+    },
+    {
+      "time": 83.92,
+      "time_str": "01:23.920",
+      "text": "Tell him to find me on acre of land",
+      "translation": "告诉他为我找一亩地"
+    },
+    {
+      "time": 92.28,
+      "time_str": "01:32.280",
+      "text": "Parsley, sage, rosemary and thyme",
+      "translation": "欧芹，鼠尾草，迷迭香和百里香"
+    },
+    {
+      "time": 101.74,
+      "time_str": "01:41.740",
+      "text": "Between the salt water and the sea strand",
+      "translation": "就在海岸和大海之间"
+    },
+    {
+      "time": 109.83,
+      "time_str": "01:49.830",
+      "text": "Then he'll be a true love of mine",
+      "translation": "然后，他会成为我的真爱"
+    },
+    {
+      "time": 156.0,
+      "time_str": "02:36.000",
+      "text": "Tell him to reap it with a sickle of leather",
+      "translation": "告诉他用皮制的镰刀收割"
+    },
+    {
+      "time": 164.1,
+      "time_str": "02:44.100",
+      "text": "Parsley, sage, rosemary and thyme",
+      "translation": "欧芹，鼠尾草，迷迭香和百里香"
+    },
+    {
+      "time": 173.0,
+      "time_str": "02:53.000",
+      "text": "And gather it all in a bunch of heather",
+      "translation": "并收集在一起用石楠草扎成一束"
+    },
+    {
+      "time": 181.29,
+      "time_str": "03:01.290",
+      "text": "Then he'll be a true love of mine",
+      "translation": "然后，他会成为我的真爱"
+    },
+    {
+      "time": 191.95,
+      "time_str": "03:11.950",
+      "text": "Are you going to Scarborough Fair?",
+      "translation": "你要去斯卡布罗集市吗？"
+    },
+    {
+      "time": 199.83,
+      "time_str": "03:19.830",
+      "text": "Parsley, sage, rosemary and thyme",
+      "translation": "欧芹，鼠尾草，迷迭香和百里香"
+    },
+    {
+      "time": 209.66,
+      "time_str": "03:29.660",
+      "text": "Remember me to one who lives there",
+      "translation": "请代我向住在那里的一个人问好"
+    },
+    {
+      "time": 217.32,
+      "time_str": "03:37.320",
+      "text": "He once was a true love of mine",
+      "translation": "他曾经是我的真爱……"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Scarborough Fair - Sarah Brightman.lrc"
+}

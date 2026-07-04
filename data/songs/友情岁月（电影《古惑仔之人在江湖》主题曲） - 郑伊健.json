@@ -1,0 +1,340 @@
+{
+  "title": "友情岁月",
+  "title_raw": "友情岁月（电影《古惑仔之人在江湖》主题曲）",
+  "version": "电影《古惑仔之人在江湖》主题曲",
+  "artist": "郑伊健",
+  "group_key": "友情岁月|郑伊健",
+  "writers": {
+    "lyricist": "刘卓辉",
+    "composer": "陈光荣",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.91,
+      "time_str": "00:19.910",
+      "text": "消失的光阴散在风里",
+      "translation": null
+    },
+    {
+      "time": 24.13,
+      "time_str": "00:24.130",
+      "text": "彷彿想不起再面对",
+      "translation": null
+    },
+    {
+      "time": 27.68,
+      "time_str": "00:27.680",
+      "text": "流浪日子",
+      "translation": null
+    },
+    {
+      "time": 29.6,
+      "time_str": "00:29.600",
+      "text": "你在伴随",
+      "translation": null
+    },
+    {
+      "time": 30.88,
+      "time_str": "00:30.880",
+      "text": "有缘再聚",
+      "translation": null
+    },
+    {
+      "time": 35.37,
+      "time_str": "00:35.370",
+      "text": "天真的声音已在减退",
+      "translation": null
+    },
+    {
+      "time": 39.1,
+      "time_str": "00:39.100",
+      "text": "彼此为著目标相距",
+      "translation": null
+    },
+    {
+      "time": 42.48,
+      "time_str": "00:42.480",
+      "text": "凝望夜空",
+      "translation": null
+    },
+    {
+      "time": 44.0,
+      "time_str": "00:44.000",
+      "text": "往日是谁",
+      "translation": null
+    },
+    {
+      "time": 46.74,
+      "time_str": "00:46.740",
+      "text": "领会心中疲累",
+      "translation": null
+    },
+    {
+      "time": 51.8,
+      "time_str": "00:51.800",
+      "text": "来忘掉错对",
+      "translation": null
+    },
+    {
+      "time": 53.21,
+      "time_str": "00:53.210",
+      "text": "来怀念过去",
+      "translation": null
+    },
+    {
+      "time": 55.59,
+      "time_str": "00:55.590",
+      "text": "曾共渡患难日子总有乐趣",
+      "translation": null
+    },
+    {
+      "time": 59.5,
+      "time_str": "00:59.500",
+      "text": "不相信会绝望",
+      "translation": null
+    },
+    {
+      "time": 61.32,
+      "time_str": "01:01.320",
+      "text": "不感觉到踌躇",
+      "translation": null
+    },
+    {
+      "time": 63.37,
+      "time_str": "01:03.370",
+      "text": "在美梦里竞争",
+      "translation": null
+    },
+    {
+      "time": 64.5,
+      "time_str": "01:04.500",
+      "text": "每日拼命进取",
+      "translation": null
+    },
+    {
+      "time": 67.4,
+      "time_str": "01:07.400",
+      "text": "奔波的风雨里",
+      "translation": null
+    },
+    {
+      "time": 68.59,
+      "time_str": "01:08.590",
+      "text": "不羁的醒与醉",
+      "translation": null
+    },
+    {
+      "time": 70.66,
+      "time_str": "01:10.660",
+      "text": "所有故事像已发生飘泊岁月里",
+      "translation": null
+    },
+    {
+      "time": 74.31,
+      "time_str": "01:14.310",
+      "text": "风吹过已静下",
+      "translation": null
+    },
+    {
+      "time": 76.18,
+      "time_str": "01:16.180",
+      "text": "将心意再还谁",
+      "translation": null
+    },
+    {
+      "time": 78.1,
+      "time_str": "01:18.100",
+      "text": "让眼泪已带走夜憔悴",
+      "translation": null
+    },
+    {
+      "time": 96.28,
+      "time_str": "01:36.280",
+      "text": "天真的声音已在减退",
+      "translation": null
+    },
+    {
+      "time": 99.99,
+      "time_str": "01:39.990",
+      "text": "彼此为著目标相距",
+      "translation": null
+    },
+    {
+      "time": 103.79,
+      "time_str": "01:43.790",
+      "text": "凝望夜空",
+      "translation": null
+    },
+    {
+      "time": 105.77,
+      "time_str": "01:45.770",
+      "text": "往日是谁",
+      "translation": null
+    },
+    {
+      "time": 107.77,
+      "time_str": "01:47.770",
+      "text": "领会心中疲累",
+      "translation": null
+    },
+    {
+      "time": 113.33,
+      "time_str": "01:53.330",
+      "text": "来忘掉错对",
+      "translation": null
+    },
+    {
+      "time": 114.83,
+      "time_str": "01:54.830",
+      "text": "来怀念过去",
+      "translation": null
+    },
+    {
+      "time": 116.63,
+      "time_str": "01:56.630",
+      "text": "曾共渡患难日子总有乐趣",
+      "translation": null
+    },
+    {
+      "time": 120.38,
+      "time_str": "02:00.380",
+      "text": "不相信会绝望",
+      "translation": null
+    },
+    {
+      "time": 122.49,
+      "time_str": "02:02.490",
+      "text": "不感觉到踌躇",
+      "translation": null
+    },
+    {
+      "time": 124.26,
+      "time_str": "02:04.260",
+      "text": "在美梦里竞争",
+      "translation": null
+    },
+    {
+      "time": 126.24,
+      "time_str": "02:06.240",
+      "text": "每日拚命进取",
+      "translation": null
+    },
+    {
+      "time": 128.3,
+      "time_str": "02:08.300",
+      "text": "奔波的风雨里",
+      "translation": null
+    },
+    {
+      "time": 129.8,
+      "time_str": "02:09.800",
+      "text": "不羁的醒与醉",
+      "translation": null
+    },
+    {
+      "time": 131.88,
+      "time_str": "02:11.880",
+      "text": "所有故事像已发生飘泊岁月里",
+      "translation": null
+    },
+    {
+      "time": 135.42,
+      "time_str": "02:15.420",
+      "text": "风吹过已静下",
+      "translation": null
+    },
+    {
+      "time": 137.3,
+      "time_str": "02:17.300",
+      "text": "将心意再还谁",
+      "translation": null
+    },
+    {
+      "time": 139.4,
+      "time_str": "02:19.400",
+      "text": "让眼泪已带走夜憔悴",
+      "translation": null
+    },
+    {
+      "time": 160.24,
+      "time_str": "02:40.240",
+      "text": "来忘掉错对",
+      "translation": null
+    },
+    {
+      "time": 162.33,
+      "time_str": "02:42.330",
+      "text": "来怀念过去",
+      "translation": null
+    },
+    {
+      "time": 163.96,
+      "time_str": "02:43.960",
+      "text": "曾共渡患难日子总有乐趣",
+      "translation": null
+    },
+    {
+      "time": 167.83,
+      "time_str": "02:47.830",
+      "text": "不相信会绝望",
+      "translation": null
+    },
+    {
+      "time": 169.73,
+      "time_str": "02:49.730",
+      "text": "不感觉到踌躇",
+      "translation": null
+    },
+    {
+      "time": 171.52,
+      "time_str": "02:51.520",
+      "text": "在美梦里竞争",
+      "translation": null
+    },
+    {
+      "time": 173.39,
+      "time_str": "02:53.390",
+      "text": "每日拚命进取",
+      "translation": null
+    },
+    {
+      "time": 175.32,
+      "time_str": "02:55.320",
+      "text": "奔波的风雨里",
+      "translation": null
+    },
+    {
+      "time": 177.1,
+      "time_str": "02:57.100",
+      "text": "不羁的醒与醉",
+      "translation": null
+    },
+    {
+      "time": 178.98,
+      "time_str": "02:58.980",
+      "text": "所有故事像已发生飘泊岁月里",
+      "translation": null
+    },
+    {
+      "time": 182.74,
+      "time_str": "03:02.740",
+      "text": "风吹过已静下",
+      "translation": null
+    },
+    {
+      "time": 184.31,
+      "time_str": "03:04.310",
+      "text": "将心意再还谁",
+      "translation": null
+    },
+    {
+      "time": 186.23,
+      "time_str": "03:06.230",
+      "text": "让眼泪已带走夜憔悴",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "友情岁月（电影《古惑仔之人在江湖》主题曲） - 郑伊健.lrc"
+}

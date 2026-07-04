@@ -1,0 +1,370 @@
+{
+  "title": "生活倒影",
+  "title_raw": "生活倒影",
+  "version": null,
+  "artist": "苏运莹",
+  "group_key": "生活倒影|苏运莹",
+  "writers": {
+    "lyricist": "苏运莹",
+    "composer": "苏运莹",
+    "arranger": "Ari阿瑞 @elevenzmusic/荒井十一"
+  },
+  "lyrics": [
+    {
+      "time": 0.12,
+      "time_str": "00:00.120",
+      "text": "贝斯 : 贡多杰 @elevenzmusic",
+      "translation": null
+    },
+    {
+      "time": 0.17,
+      "time_str": "00:00.170",
+      "text": "键盘 : Ari阿瑞 @elevenzmusic",
+      "translation": null
+    },
+    {
+      "time": 0.27,
+      "time_str": "00:00.270",
+      "text": "乐器录音 : 李游/倪涵文@55T.E.C./Beijing",
+      "translation": null
+    },
+    {
+      "time": 0.3,
+      "time_str": "00:00.300",
+      "text": "音乐编辑 : 荒井十一/克昶/倪涵文",
+      "translation": null
+    },
+    {
+      "time": 0.32,
+      "time_str": "00:00.320",
+      "text": "统筹 : 许夙 @elevenzmusic",
+      "translation": null
+    },
+    {
+      "time": 0.35,
+      "time_str": "00:00.350",
+      "text": "混音母带 : 周天澈 @TC Faders",
+      "translation": null
+    },
+    {
+      "time": 0.41,
+      "time_str": "00:00.410",
+      "text": "编曲 Music Arranged by：Ari阿瑞 @elevenzmusic/荒井十一",
+      "translation": null
+    },
+    {
+      "time": 4.06,
+      "time_str": "00:04.060",
+      "text": "半山腰上的人 他还好吗",
+      "translation": null
+    },
+    {
+      "time": 11.11,
+      "time_str": "00:11.110",
+      "text": "为什么看起来 总有悲伤眼睛",
+      "translation": null
+    },
+    {
+      "time": 18.54,
+      "time_str": "00:18.540",
+      "text": "路 过 他 的 人 们",
+      "translation": null
+    },
+    {
+      "time": 22.76,
+      "time_str": "00:22.760",
+      "text": "也许会问候 也许会就走",
+      "translation": null
+    },
+    {
+      "time": 26.69,
+      "time_str": "00:26.690",
+      "text": "也许还没等他回过神",
+      "translation": null
+    },
+    {
+      "time": 29.63,
+      "time_str": "00:29.630",
+      "text": "就已是朝夕又交替",
+      "translation": null
+    },
+    {
+      "time": 35.23,
+      "time_str": "00:35.230",
+      "text": "没有人知道他 他还 好吗",
+      "translation": null
+    },
+    {
+      "time": 42.33,
+      "time_str": "00:42.330",
+      "text": "为什么遇到的 总是苦难的呢",
+      "translation": null
+    },
+    {
+      "time": 49.68,
+      "time_str": "00:49.680",
+      "text": "路 过 他 的 朋 友",
+      "translation": null
+    },
+    {
+      "time": 53.94,
+      "time_str": "00:53.940",
+      "text": "不必用怜悯 不必要问候",
+      "translation": null
+    },
+    {
+      "time": 57.93,
+      "time_str": "00:57.930",
+      "text": "也许还没等他回过神",
+      "translation": null
+    },
+    {
+      "time": 60.81,
+      "time_str": "01:00.810",
+      "text": "就又是一年春天过去",
+      "translation": null
+    },
+    {
+      "time": 66.19,
+      "time_str": "01:06.190",
+      "text": "风轻轻拂过半山腰",
+      "translation": null
+    },
+    {
+      "time": 69.8,
+      "time_str": "01:09.800",
+      "text": "他的眼睛总有些落寞",
+      "translation": null
+    },
+    {
+      "time": 74.26,
+      "time_str": "01:14.260",
+      "text": "云轻轻盖过他头崖",
+      "translation": null
+    },
+    {
+      "time": 78.06,
+      "time_str": "01:18.060",
+      "text": "他的眼睛总是有泪痕",
+      "translation": null
+    },
+    {
+      "time": 82.13,
+      "time_str": "01:22.130",
+      "text": "他在等什么 他在盼着 什么",
+      "translation": null
+    },
+    {
+      "time": 94.75,
+      "time_str": "01:34.750",
+      "text": "没有人知道他 他还 好吗",
+      "translation": null
+    },
+    {
+      "time": 101.96,
+      "time_str": "01:41.960",
+      "text": "为什么遇到的 总是苦难的呢",
+      "translation": null
+    },
+    {
+      "time": 109.41,
+      "time_str": "01:49.410",
+      "text": "路 过 他 的 朋 友",
+      "translation": null
+    },
+    {
+      "time": 113.67,
+      "time_str": "01:53.670",
+      "text": "不必用怜悯 不必要问候",
+      "translation": null
+    },
+    {
+      "time": 117.56,
+      "time_str": "01:57.560",
+      "text": "也许还没等他回过神",
+      "translation": null
+    },
+    {
+      "time": 120.54,
+      "time_str": "02:00.540",
+      "text": "就又是一年春天过去",
+      "translation": null
+    },
+    {
+      "time": 125.8,
+      "time_str": "02:05.800",
+      "text": "风轻轻拂过半山腰",
+      "translation": null
+    },
+    {
+      "time": 129.35,
+      "time_str": "02:09.350",
+      "text": "他的眼睛总有些落寞",
+      "translation": null
+    },
+    {
+      "time": 133.76,
+      "time_str": "02:13.760",
+      "text": "云轻轻盖过他头崖",
+      "translation": null
+    },
+    {
+      "time": 137.41,
+      "time_str": "02:17.410",
+      "text": "他的眼睛总是有泪痕",
+      "translation": null
+    },
+    {
+      "time": 141.41,
+      "time_str": "02:21.410",
+      "text": "他在等什么 他在盼着 什么",
+      "translation": null
+    },
+    {
+      "time": 149.65,
+      "time_str": "02:29.650",
+      "text": "风轻轻拂过半山腰",
+      "translation": null
+    },
+    {
+      "time": 153.12,
+      "time_str": "02:33.120",
+      "text": "他的眼睛总有些落寞",
+      "translation": null
+    },
+    {
+      "time": 157.63,
+      "time_str": "02:37.630",
+      "text": "云轻轻盖过他头崖",
+      "translation": null
+    },
+    {
+      "time": 161.11,
+      "time_str": "02:41.110",
+      "text": "他的眼睛总是有泪痕",
+      "translation": null
+    },
+    {
+      "time": 165.2,
+      "time_str": "02:45.200",
+      "text": "他在等什么 他在盼着 什么",
+      "translation": null
+    },
+    {
+      "time": 173.46,
+      "time_str": "02:53.460",
+      "text": "（嘿 年轻的小伙子",
+      "translation": null
+    },
+    {
+      "time": 177.33,
+      "time_str": "02:57.330",
+      "text": "你怎么看起来没有精神",
+      "translation": null
+    },
+    {
+      "time": 181.17,
+      "time_str": "03:01.170",
+      "text": "你有什么心事可以告诉阿妈",
+      "translation": null
+    },
+    {
+      "time": 186.8,
+      "time_str": "03:06.800",
+      "text": "阿妈帮你出出主意",
+      "translation": null
+    },
+    {
+      "time": 190.72,
+      "time_str": "03:10.720",
+      "text": "阿妈家里养的鸡鸭鹅 鱼鸟菜叶",
+      "translation": null
+    },
+    {
+      "time": 198.5,
+      "time_str": "03:18.500",
+      "text": "我每天都给它们浇水",
+      "translation": null
+    },
+    {
+      "time": 203.48,
+      "time_str": "03:23.480",
+      "text": "觉得很幸福 生活是这样的",
+      "translation": null
+    },
+    {
+      "time": 209.63,
+      "time_str": "03:29.630",
+      "text": "你要学会坚强和面对",
+      "translation": null
+    },
+    {
+      "time": 214.53,
+      "time_str": "03:34.530",
+      "text": "还有发现身边的美好",
+      "translation": null
+    },
+    {
+      "time": 217.71,
+      "time_str": "03:37.710",
+      "text": "你看对面的高山多漂亮）",
+      "translation": null
+    },
+    {
+      "time": 221.15,
+      "time_str": "03:41.150",
+      "text": "《海南话 黎族话》",
+      "translation": null
+    },
+    {
+      "time": 224.64,
+      "time_str": "03:44.640",
+      "text": "风轻轻拂过半山腰",
+      "translation": null
+    },
+    {
+      "time": 228.05,
+      "time_str": "03:48.050",
+      "text": "春天时刻万物苏醒了",
+      "translation": null
+    },
+    {
+      "time": 232.5,
+      "time_str": "03:52.500",
+      "text": "云轻轻盖过他头崖",
+      "translation": null
+    },
+    {
+      "time": 236.18,
+      "time_str": "03:56.180",
+      "text": "悲伤过去迎来朝阳",
+      "translation": null
+    },
+    {
+      "time": 239.92,
+      "time_str": "03:59.920",
+      "text": "他终于笑了 他终于笑了",
+      "translation": null
+    },
+    {
+      "time": 243.24,
+      "time_str": "04:03.240",
+      "text": "他笑得好看",
+      "translation": null
+    },
+    {
+      "time": 247.8,
+      "time_str": "04:07.800",
+      "text": "他终于笑了 他终于笑了",
+      "translation": null
+    },
+    {
+      "time": 254.32,
+      "time_str": "04:14.320",
+      "text": "他笑得好看",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "生活倒影 - 苏运莹.lrc"
+}

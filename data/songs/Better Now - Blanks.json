@@ -1,0 +1,190 @@
+{
+  "title": "Better Now",
+  "title_raw": "Better Now",
+  "version": null,
+  "artist": "Blanks",
+  "group_key": "better now|blanks",
+  "writers": {
+    "lyricist": "Robert Belford",
+    "composer": "Post Malone",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.2,
+      "time_str": "00:14.200",
+      "text": "You probably think that you are better now, better now",
+      "translation": "你大概觉得你现在变成更好的人了吧"
+    },
+    {
+      "time": 18.2,
+      "time_str": "00:18.200",
+      "text": "You only say that 'cause I'm not around, not around",
+      "translation": "你还说这是因为我不在你身边"
+    },
+    {
+      "time": 22.2,
+      "time_str": "00:22.200",
+      "text": "You know I never meant to let you down, let you down",
+      "translation": "你知道我从未想过让你失望"
+    },
+    {
+      "time": 26.2,
+      "time_str": "00:26.200",
+      "text": "Woulda gave you anything, woulda gave you everything",
+      "translation": "会给你一切的，会给你一切的"
+    },
+    {
+      "time": 32.2,
+      "time_str": "00:32.200",
+      "text": "I did not believe that it would end, no",
+      "translation": "我不相信它会结束，不"
+    },
+    {
+      "time": 36.0,
+      "time_str": "00:36.000",
+      "text": "Everything came second to the Benzo oh",
+      "translation": "所有的一切都不如一辆奔驰"
+    },
+    {
+      "time": 40.2,
+      "time_str": "00:40.200",
+      "text": "You're not even speaking to my friends, no",
+      "translation": "你甚至连我的朋友都不再理会了"
+    },
+    {
+      "time": 44.2,
+      "time_str": "00:44.200",
+      "text": "You knew all my uncles and my aunts though",
+      "translation": "尽管你对我的家人已经如此熟悉了"
+    },
+    {
+      "time": 48.2,
+      "time_str": "00:48.200",
+      "text": "Twenty candles, blow 'em out and open your eyes",
+      "translation": "二十根蜡烛，吹灭它们睁开你的眼睛吧"
+    },
+    {
+      "time": 52.2,
+      "time_str": "00:52.200",
+      "text": "We were looking forward to the rest of our lives",
+      "translation": "我们都在期待着余生"
+    },
+    {
+      "time": 56.2,
+      "time_str": "00:56.200",
+      "text": "Used to keep my picture posted by your bedside",
+      "translation": "曾经我的照片伴你枕边"
+    },
+    {
+      "time": 60.0,
+      "time_str": "01:00.000",
+      "text": "But now it's in your dresser with the socks you don't like",
+      "translation": "现在它们被你弃如敝履"
+    },
+    {
+      "time": 63.8,
+      "time_str": "01:03.800",
+      "text": "And I'm rollin', rollin', rollin', rollin'",
+      "translation": "我不断的打拼着"
+    },
+    {
+      "time": 67.8,
+      "time_str": "01:07.800",
+      "text": "With my brothers like it's Jonas, Jonas",
+      "translation": "和我的兄弟一块就像Jonas兄弟们"
+    },
+    {
+      "time": 71.8,
+      "time_str": "01:11.800",
+      "text": "Drinkin' Henny and I'm tryna forget",
+      "translation": "喝着轩尼诗，我仍在尝试忘记"
+    },
+    {
+      "time": 75.65,
+      "time_str": "01:15.650",
+      "text": "But I can't get this shit outta my head",
+      "translation": "可我忘不掉你"
+    },
+    {
+      "time": 78.36,
+      "time_str": "01:18.360",
+      "text": "You probably think that you are better now, better now",
+      "translation": "你大概觉得你现在变成更好的人了吧"
+    },
+    {
+      "time": 82.36,
+      "time_str": "01:22.360",
+      "text": "You only say that 'cause I'm not around, not around",
+      "translation": "你还说着是因为我不在你身边"
+    },
+    {
+      "time": 86.8,
+      "time_str": "01:26.800",
+      "text": "You know I never meant to let you down, let you down",
+      "translation": "你知道我从未想过让你失望"
+    },
+    {
+      "time": 90.8,
+      "time_str": "01:30.800",
+      "text": "Woulda gave you anything, woulda gave you everything",
+      "translation": "会给你一切的，会给你一切的"
+    },
+    {
+      "time": 94.8,
+      "time_str": "01:34.800",
+      "text": "Whoa oh",
+      "translation": "噢"
+    },
+    {
+      "time": 96.0,
+      "time_str": "01:36.000",
+      "text": "better now, better now,yeah",
+      "translation": "更好的人"
+    },
+    {
+      "time": 99.4,
+      "time_str": "01:39.400",
+      "text": "i'm b-b-b-b-better now,better now,yeah",
+      "translation": "我已成为更好的人"
+    },
+    {
+      "time": 102.8,
+      "time_str": "01:42.800",
+      "text": "i'm b-b-b-b-better now,better now,yeah",
+      "translation": "成为更好的人"
+    },
+    {
+      "time": 106.75,
+      "time_str": "01:46.750",
+      "text": "i'm b-b-b-b-better now, better now",
+      "translation": "成为更好的人"
+    },
+    {
+      "time": 144.0,
+      "time_str": "02:24.000",
+      "text": "better now, better now,yeah",
+      "translation": "更好的人"
+    },
+    {
+      "time": 146.8,
+      "time_str": "02:26.800",
+      "text": "i'm b-b-b-b-better now,better now,yeah",
+      "translation": "我已经变更好"
+    },
+    {
+      "time": 150.8,
+      "time_str": "02:30.800",
+      "text": "i'm b-b-b-b-better now,better now,yeah",
+      "translation": "我现在已经变更好"
+    },
+    {
+      "time": 154.8,
+      "time_str": "02:34.800",
+      "text": "i'm b-b-b-b-better now,better now",
+      "translation": "成为了更好的人"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Better Now - Blanks.lrc"
+}

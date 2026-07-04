@@ -1,0 +1,268 @@
+{
+  "title": "彩虹",
+  "title_raw": "彩虹",
+  "version": null,
+  "artist": "乔楚熙",
+  "group_key": "彩虹|乔楚熙",
+  "writers": {
+    "lyricist": "黄韦皓",
+    "composer": "黄韦皓",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 28.53,
+      "time_str": "00:28.530",
+      "text": "风 吹干我的泪",
+      "translation": null
+    },
+    {
+      "time": 31.87,
+      "time_str": "00:31.870",
+      "text": "情 让它飞",
+      "translation": null
+    },
+    {
+      "time": 36.29,
+      "time_str": "00:36.290",
+      "text": "这份爱难再追",
+      "translation": null
+    },
+    {
+      "time": 42.35,
+      "time_str": "00:42.350",
+      "text": "雨 依旧在飘",
+      "translation": null
+    },
+    {
+      "time": 45.31,
+      "time_str": "00:45.310",
+      "text": "分不清是哭是笑",
+      "translation": null
+    },
+    {
+      "time": 49.25,
+      "time_str": "00:49.250",
+      "text": "天真的梦该醒了",
+      "translation": null
+    },
+    {
+      "time": 54.27,
+      "time_str": "00:54.270",
+      "text": "雨后的天空",
+      "translation": null
+    },
+    {
+      "time": 57.66,
+      "time_str": "00:57.660",
+      "text": "有一点迷蒙",
+      "translation": null
+    },
+    {
+      "time": 60.83,
+      "time_str": "01:00.830",
+      "text": "你在远方挥手",
+      "translation": null
+    },
+    {
+      "time": 64.13,
+      "time_str": "01:04.130",
+      "text": "仿佛要 我跟着 你远走",
+      "translation": null
+    },
+    {
+      "time": 67.88,
+      "time_str": "01:07.880",
+      "text": "一起拥有过",
+      "translation": null
+    },
+    {
+      "time": 71.14,
+      "time_str": "01:11.140",
+      "text": "的甜蜜和幻想追求过的梦",
+      "translation": null
+    },
+    {
+      "time": 75.98,
+      "time_str": "01:15.980",
+      "text": "现在只能",
+      "translation": null
+    },
+    {
+      "time": 77.22,
+      "time_str": "01:17.220",
+      "text": "深藏在 脑海中",
+      "translation": null
+    },
+    {
+      "time": 81.45,
+      "time_str": "01:21.450",
+      "text": "看见天空中",
+      "translation": null
+    },
+    {
+      "time": 84.86,
+      "time_str": "01:24.860",
+      "text": "有一片彩虹",
+      "translation": null
+    },
+    {
+      "time": 88.28,
+      "time_str": "01:28.280",
+      "text": "是否你也会",
+      "translation": null
+    },
+    {
+      "time": 91.56,
+      "time_str": "01:31.560",
+      "text": "惦记起我和你的相逢",
+      "translation": null
+    },
+    {
+      "time": 95.39,
+      "time_str": "01:35.390",
+      "text": "随时光匆匆",
+      "translation": null
+    },
+    {
+      "time": 98.28,
+      "time_str": "01:38.280",
+      "text": "曾经美丽的爱情将会飞走",
+      "translation": null
+    },
+    {
+      "time": 103.26,
+      "time_str": "01:43.260",
+      "text": "你我的笑 仍留在 回忆中",
+      "translation": null
+    },
+    {
+      "time": 140.08,
+      "time_str": "02:20.080",
+      "text": "风 吹干我的泪",
+      "translation": null
+    },
+    {
+      "time": 143.36,
+      "time_str": "02:23.360",
+      "text": "情 让它飞",
+      "translation": null
+    },
+    {
+      "time": 147.75,
+      "time_str": "02:27.750",
+      "text": "这份爱难再追",
+      "translation": null
+    },
+    {
+      "time": 153.89,
+      "time_str": "02:33.890",
+      "text": "雨 依旧在飘",
+      "translation": null
+    },
+    {
+      "time": 156.8,
+      "time_str": "02:36.800",
+      "text": "分不清是哭是笑",
+      "translation": null
+    },
+    {
+      "time": 160.66,
+      "time_str": "02:40.660",
+      "text": "天真的梦该醒了",
+      "translation": null
+    },
+    {
+      "time": 165.77,
+      "time_str": "02:45.770",
+      "text": "雨后的天空",
+      "translation": null
+    },
+    {
+      "time": 169.09,
+      "time_str": "02:49.090",
+      "text": "有一点迷蒙",
+      "translation": null
+    },
+    {
+      "time": 172.44,
+      "time_str": "02:52.440",
+      "text": "你在远方挥手",
+      "translation": null
+    },
+    {
+      "time": 175.48,
+      "time_str": "02:55.480",
+      "text": "仿佛要 我跟着 你远走",
+      "translation": null
+    },
+    {
+      "time": 179.37,
+      "time_str": "02:59.370",
+      "text": "一起拥有过",
+      "translation": null
+    },
+    {
+      "time": 182.32,
+      "time_str": "03:02.320",
+      "text": "的甜蜜和幻想追求过的梦",
+      "translation": null
+    },
+    {
+      "time": 187.25,
+      "time_str": "03:07.250",
+      "text": "现在只能",
+      "translation": null
+    },
+    {
+      "time": 188.64,
+      "time_str": "03:08.640",
+      "text": "深藏在 脑海中",
+      "translation": null
+    },
+    {
+      "time": 193.25,
+      "time_str": "03:13.250",
+      "text": "看见天空中",
+      "translation": null
+    },
+    {
+      "time": 196.42,
+      "time_str": "03:16.420",
+      "text": "有一片彩虹",
+      "translation": null
+    },
+    {
+      "time": 199.78,
+      "time_str": "03:19.780",
+      "text": "是否你也会",
+      "translation": null
+    },
+    {
+      "time": 202.94,
+      "time_str": "03:22.940",
+      "text": "惦记起我和你的相逢",
+      "translation": null
+    },
+    {
+      "time": 206.97,
+      "time_str": "03:26.970",
+      "text": "随时光匆匆",
+      "translation": null
+    },
+    {
+      "time": 209.87,
+      "time_str": "03:29.870",
+      "text": "曾经美丽的爱情将会飞走",
+      "translation": null
+    },
+    {
+      "time": 214.86,
+      "time_str": "03:34.860",
+      "text": "你我的笑 仍留在 回忆中",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "彩虹 - 乔楚熙.lrc"
+}

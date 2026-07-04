@@ -1,0 +1,250 @@
+{
+  "title": "老情歌",
+  "title_raw": "老情歌",
+  "version": null,
+  "artist": "童丽",
+  "group_key": "老情歌|童丽",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 40.69,
+      "time_str": "00:40.690",
+      "text": "我只想唱",
+      "translation": null
+    },
+    {
+      "time": 42.354,
+      "time_str": "00:42.354",
+      "text": "这一首老情歌",
+      "translation": null
+    },
+    {
+      "time": 45.914,
+      "time_str": "00:45.914",
+      "text": "让回忆再涌满心头",
+      "translation": null
+    },
+    {
+      "time": 52.46,
+      "time_str": "00:52.460",
+      "text": "当时光飞逝",
+      "translation": null
+    },
+    {
+      "time": 55.53,
+      "time_str": "00:55.530",
+      "text": "已不知秋冬",
+      "translation": null
+    },
+    {
+      "time": 58.458,
+      "time_str": "00:58.458",
+      "text": "这是我唯一的线索",
+      "translation": null
+    },
+    {
+      "time": 68.128,
+      "time_str": "01:08.128",
+      "text": "人说情歌总是老的好",
+      "translation": null
+    },
+    {
+      "time": 74.603,
+      "time_str": "01:14.603",
+      "text": "走遍天涯海角忘不了",
+      "translation": null
+    },
+    {
+      "time": 81.231,
+      "time_str": "01:21.231",
+      "text": "我说情人却是老的好",
+      "translation": null
+    },
+    {
+      "time": 87.512,
+      "time_str": "01:27.512",
+      "text": "曾经沧海桑田分不了",
+      "translation": null
+    },
+    {
+      "time": 95.167,
+      "time_str": "01:35.167",
+      "text": "我只想唱",
+      "translation": null
+    },
+    {
+      "time": 97.177,
+      "time_str": "01:37.177",
+      "text": "这一首老情歌",
+      "translation": null
+    },
+    {
+      "time": 100.828,
+      "time_str": "01:40.828",
+      "text": "愿歌声飞到你左右",
+      "translation": null
+    },
+    {
+      "time": 107.362,
+      "time_str": "01:47.362",
+      "text": "虽然你不能",
+      "translation": null
+    },
+    {
+      "time": 110.524,
+      "time_str": "01:50.524",
+      "text": "和我常相守",
+      "translation": null
+    },
+    {
+      "time": 113.488,
+      "time_str": "01:53.488",
+      "text": "但求你永远在心中",
+      "translation": null
+    },
+    {
+      "time": 149.802,
+      "time_str": "02:29.802",
+      "text": "我只想唱",
+      "translation": null
+    },
+    {
+      "time": 152.162,
+      "time_str": "02:32.162",
+      "text": "这一首老情歌",
+      "translation": null
+    },
+    {
+      "time": 155.757,
+      "time_str": "02:35.757",
+      "text": "让往事回荡在四周",
+      "translation": null
+    },
+    {
+      "time": 162.289,
+      "time_str": "02:42.289",
+      "text": "啊事到如今",
+      "translation": null
+    },
+    {
+      "time": 165.382,
+      "time_str": "02:45.382",
+      "text": "已无所可求",
+      "translation": null
+    },
+    {
+      "time": 168.332,
+      "time_str": "02:48.332",
+      "text": "这是我仅有的寄托",
+      "translation": null
+    },
+    {
+      "time": 174.844,
+      "time_str": "02:54.844",
+      "text": "人说情歌总是老的好",
+      "translation": null
+    },
+    {
+      "time": 181.17,
+      "time_str": "03:01.170",
+      "text": "走遍天涯海角忘不了",
+      "translation": null
+    },
+    {
+      "time": 187.746,
+      "time_str": "03:07.746",
+      "text": "我说情人却是老的好",
+      "translation": null
+    },
+    {
+      "time": 193.898,
+      "time_str": "03:13.898",
+      "text": "曾经沧海桑田分不了",
+      "translation": null
+    },
+    {
+      "time": 203.916,
+      "time_str": "03:23.916",
+      "text": "人说情歌总是老的好",
+      "translation": null
+    },
+    {
+      "time": 210.284,
+      "time_str": "03:30.284",
+      "text": "走遍天涯海角忘不了",
+      "translation": null
+    },
+    {
+      "time": 216.789,
+      "time_str": "03:36.789",
+      "text": "我说情人却是老的好",
+      "translation": null
+    },
+    {
+      "time": 223.207,
+      "time_str": "03:43.207",
+      "text": "曾经沧海桑田分不了",
+      "translation": null
+    },
+    {
+      "time": 234.144,
+      "time_str": "03:54.144",
+      "text": "我只想唱",
+      "translation": null
+    },
+    {
+      "time": 236.112,
+      "time_str": "03:56.112",
+      "text": "这一首老情歌",
+      "translation": null
+    },
+    {
+      "time": 239.861,
+      "time_str": "03:59.861",
+      "text": "愿歌声飞到你左右",
+      "translation": null
+    },
+    {
+      "time": 245.913,
+      "time_str": "04:05.913",
+      "text": "虽然你不能",
+      "translation": null
+    },
+    {
+      "time": 249.381,
+      "time_str": "04:09.381",
+      "text": "和我常相守",
+      "translation": null
+    },
+    {
+      "time": 252.365,
+      "time_str": "04:12.365",
+      "text": "但求你永远在心中",
+      "translation": null
+    },
+    {
+      "time": 259.199,
+      "time_str": "04:19.199",
+      "text": "虽然你不能",
+      "translation": null
+    },
+    {
+      "time": 262.354,
+      "time_str": "04:22.354",
+      "text": "和我常相守",
+      "translation": null
+    },
+    {
+      "time": 265.536,
+      "time_str": "04:25.536",
+      "text": "但求你永远在心中",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "老情歌 - 童丽.lrc"
+}

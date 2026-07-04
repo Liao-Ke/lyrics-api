@@ -1,0 +1,250 @@
+{
+  "title": "征服",
+  "title_raw": "征服",
+  "version": null,
+  "artist": "那英",
+  "group_key": "征服|那英",
+  "writers": {
+    "lyricist": "袁惟仁",
+    "composer": "袁惟仁",
+    "arranger": "王继康"
+  },
+  "lyrics": [
+    {
+      "time": 23.287,
+      "time_str": "00:23.287",
+      "text": "终于你找到一个方式分出了胜负",
+      "translation": null
+    },
+    {
+      "time": 30.459,
+      "time_str": "00:30.459",
+      "text": "输赢的代价是彼此粉身碎骨",
+      "translation": null
+    },
+    {
+      "time": 39.045,
+      "time_str": "00:39.045",
+      "text": "外表健康的你心里伤痕无数",
+      "translation": null
+    },
+    {
+      "time": 46.111,
+      "time_str": "00:46.111",
+      "text": "顽强的我是这场战役的俘虏",
+      "translation": null
+    },
+    {
+      "time": 53.309,
+      "time_str": "00:53.309",
+      "text": "就这样被你征服",
+      "translation": null
+    },
+    {
+      "time": 57.189,
+      "time_str": "00:57.189",
+      "text": "切断了所有退路",
+      "translation": null
+    },
+    {
+      "time": 60.858,
+      "time_str": "01:00.858",
+      "text": "我的心情是坚固",
+      "translation": null
+    },
+    {
+      "time": 64.788,
+      "time_str": "01:04.788",
+      "text": "我的决定是糊涂",
+      "translation": null
+    },
+    {
+      "time": 69.005,
+      "time_str": "01:09.005",
+      "text": "就这样被你征服",
+      "translation": null
+    },
+    {
+      "time": 72.897,
+      "time_str": "01:12.897",
+      "text": "喝下你藏好的毒",
+      "translation": null
+    },
+    {
+      "time": 76.609,
+      "time_str": "01:16.609",
+      "text": "我的剧情已落幕",
+      "translation": null
+    },
+    {
+      "time": 80.564,
+      "time_str": "01:20.564",
+      "text": "我的爱恨已入土",
+      "translation": null
+    },
+    {
+      "time": 117.772,
+      "time_str": "01:57.772",
+      "text": "终于我明白两人要的是一个结束",
+      "translation": null
+    },
+    {
+      "time": 124.846,
+      "time_str": "02:04.846",
+      "text": "所有的辩解都让对方以为是企图",
+      "translation": null
+    },
+    {
+      "time": 133.516,
+      "time_str": "02:13.516",
+      "text": "放一把火烧掉你送我的礼物",
+      "translation": null
+    },
+    {
+      "time": 140.567,
+      "time_str": "02:20.567",
+      "text": "却浇不熄我胸口灼热的愤怒",
+      "translation": null
+    },
+    {
+      "time": 147.695,
+      "time_str": "02:27.695",
+      "text": "就这样被你征服",
+      "translation": null
+    },
+    {
+      "time": 151.595,
+      "time_str": "02:31.595",
+      "text": "切断了所有退路",
+      "translation": null
+    },
+    {
+      "time": 155.304,
+      "time_str": "02:35.304",
+      "text": "我的心情是坚固",
+      "translation": null
+    },
+    {
+      "time": 159.241,
+      "time_str": "02:39.241",
+      "text": "我的决定是糊涂",
+      "translation": null
+    },
+    {
+      "time": 163.367,
+      "time_str": "02:43.367",
+      "text": "就这样被你征服",
+      "translation": null
+    },
+    {
+      "time": 167.352,
+      "time_str": "02:47.352",
+      "text": "喝下你藏好的毒",
+      "translation": null
+    },
+    {
+      "time": 171.068,
+      "time_str": "02:51.068",
+      "text": "我的剧情已落幕",
+      "translation": null
+    },
+    {
+      "time": 175.001,
+      "time_str": "02:55.001",
+      "text": "我的爱恨已入土",
+      "translation": null
+    },
+    {
+      "time": 180.659,
+      "time_str": "03:00.659",
+      "text": "你如果经过我的坟墓",
+      "translation": null
+    },
+    {
+      "time": 188.517,
+      "time_str": "03:08.517",
+      "text": "你可以双手合十为我祝福",
+      "translation": null
+    },
+    {
+      "time": 196.943,
+      "time_str": "03:16.943",
+      "text": "就这样被你征服",
+      "translation": null
+    },
+    {
+      "time": 200.785,
+      "time_str": "03:20.785",
+      "text": "切断了所有退路",
+      "translation": null
+    },
+    {
+      "time": 204.483,
+      "time_str": "03:24.483",
+      "text": "我的心情是坚固",
+      "translation": null
+    },
+    {
+      "time": 208.446,
+      "time_str": "03:28.446",
+      "text": "我的决定是糊涂",
+      "translation": null
+    },
+    {
+      "time": 212.576,
+      "time_str": "03:32.576",
+      "text": "就这样被你征服",
+      "translation": null
+    },
+    {
+      "time": 216.511,
+      "time_str": "03:36.511",
+      "text": "喝下你藏好的毒",
+      "translation": null
+    },
+    {
+      "time": 220.232,
+      "time_str": "03:40.232",
+      "text": "我的剧情已落幕",
+      "translation": null
+    },
+    {
+      "time": 224.121,
+      "time_str": "03:44.121",
+      "text": "我的爱恨已入土",
+      "translation": null
+    },
+    {
+      "time": 230.596,
+      "time_str": "03:50.596",
+      "text": "Hah",
+      "translation": null
+    },
+    {
+      "time": 239.884,
+      "time_str": "03:59.884",
+      "text": "我的决定是糊涂",
+      "translation": null
+    },
+    {
+      "time": 246.303,
+      "time_str": "04:06.303",
+      "text": "就这样被你征服",
+      "translation": null
+    },
+    {
+      "time": 262.037,
+      "time_str": "04:22.037",
+      "text": "就这样被你 被你征服 Oh",
+      "translation": null
+    },
+    {
+      "time": 270.872,
+      "time_str": "04:30.872",
+      "text": "Hah",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "征服 - 那英.lrc"
+}

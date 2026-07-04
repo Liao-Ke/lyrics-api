@@ -1,0 +1,280 @@
+{
+  "title": "和你一样",
+  "title_raw": "和你一样",
+  "version": null,
+  "artist": "李宇春",
+  "group_key": "和你一样|李宇春",
+  "writers": {
+    "lyricist": "任淼",
+    "composer": "任淼",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.26,
+      "time_str": "00:25.260",
+      "text": "谁在最需要的时候轻轻拍着我肩膀",
+      "translation": null
+    },
+    {
+      "time": 31.22,
+      "time_str": "00:31.220",
+      "text": "谁在最快乐的时候愿意和我分享",
+      "translation": null
+    },
+    {
+      "time": 36.94,
+      "time_str": "00:36.940",
+      "text": "日子那么长 我在你身旁",
+      "translation": null
+    },
+    {
+      "time": 42.6,
+      "time_str": "00:42.600",
+      "text": "见证你成长让我感到充满力量",
+      "translation": null
+    },
+    {
+      "time": 48.3,
+      "time_str": "00:48.300",
+      "text": "谁能忘记过去一路走来陪你受的伤",
+      "translation": null
+    },
+    {
+      "time": 53.55,
+      "time_str": "00:53.550",
+      "text": "谁能预料未来茫茫漫长你在何方",
+      "translation": null
+    },
+    {
+      "time": 59.64,
+      "time_str": "00:59.640",
+      "text": "笑容在脸上 和你一样",
+      "translation": null
+    },
+    {
+      "time": 65.39,
+      "time_str": "01:05.390",
+      "text": "大声唱 为自己鼓掌",
+      "translation": null
+    },
+    {
+      "time": 70.37,
+      "time_str": "01:10.370",
+      "text": "我和你一样 一样的坚强",
+      "translation": null
+    },
+    {
+      "time": 76.2,
+      "time_str": "01:16.200",
+      "text": "一样的全力以赴追逐我的梦想",
+      "translation": null
+    },
+    {
+      "time": 81.69,
+      "time_str": "01:21.690",
+      "text": "哪怕会受伤 哪怕有风浪",
+      "translation": null
+    },
+    {
+      "time": 87.47,
+      "time_str": "01:27.470",
+      "text": "风雨之后才会有迷人芬芳",
+      "translation": null
+    },
+    {
+      "time": 92.74,
+      "time_str": "01:32.740",
+      "text": "我和你一样 一样的善良",
+      "translation": null
+    },
+    {
+      "time": 98.89,
+      "time_str": "01:38.890",
+      "text": "一样为需要的人打造一个天堂",
+      "translation": null
+    },
+    {
+      "time": 104.58,
+      "time_str": "01:44.580",
+      "text": "歌声是翅膀 唱出了希望",
+      "translation": null
+    },
+    {
+      "time": 110.32,
+      "time_str": "01:50.320",
+      "text": "所有的付出只因爱的力量",
+      "translation": null
+    },
+    {
+      "time": 115.44,
+      "time_str": "01:55.440",
+      "text": "和你一样",
+      "translation": null
+    },
+    {
+      "time": 145.73,
+      "time_str": "02:25.730",
+      "text": "谁能忘记过去一路走来陪你受的伤",
+      "translation": null
+    },
+    {
+      "time": 151.6,
+      "time_str": "02:31.600",
+      "text": "谁能预料未来茫茫漫长你在何方",
+      "translation": null
+    },
+    {
+      "time": 156.84,
+      "time_str": "02:36.840",
+      "text": "笑容在脸上 和你一样",
+      "translation": null
+    },
+    {
+      "time": 162.98,
+      "time_str": "02:42.980",
+      "text": "大声唱 为自己鼓掌",
+      "translation": null
+    },
+    {
+      "time": 168.21,
+      "time_str": "02:48.210",
+      "text": "我和你一样 一样的坚强",
+      "translation": null
+    },
+    {
+      "time": 173.24,
+      "time_str": "02:53.240",
+      "text": "一样的全力以赴追逐我的梦想",
+      "translation": null
+    },
+    {
+      "time": 179.0,
+      "time_str": "02:59.000",
+      "text": "哪怕会受伤 哪怕有风浪",
+      "translation": null
+    },
+    {
+      "time": 184.83,
+      "time_str": "03:04.830",
+      "text": "风雨之后才会有迷人芬芳",
+      "translation": null
+    },
+    {
+      "time": 190.16,
+      "time_str": "03:10.160",
+      "text": "我和你一样 一样的善良",
+      "translation": null
+    },
+    {
+      "time": 196.15,
+      "time_str": "03:16.150",
+      "text": "一样为需要的人打造一个天堂",
+      "translation": null
+    },
+    {
+      "time": 201.9,
+      "time_str": "03:21.900",
+      "text": "歌声是翅膀 唱出了希望",
+      "translation": null
+    },
+    {
+      "time": 207.64,
+      "time_str": "03:27.640",
+      "text": "所有的付出只因爱的力量",
+      "translation": null
+    },
+    {
+      "time": 213.26,
+      "time_str": "03:33.260",
+      "text": "我们都一样 一样的坚强",
+      "translation": null
+    },
+    {
+      "time": 219.2,
+      "time_str": "03:39.200",
+      "text": "一样的青春焕发金黄色的光芒",
+      "translation": null
+    },
+    {
+      "time": 224.79,
+      "time_str": "03:44.790",
+      "text": "哪怕会受伤 哪怕有风浪",
+      "translation": null
+    },
+    {
+      "time": 230.59,
+      "time_str": "03:50.590",
+      "text": "风雨之后才会有彩色阳光",
+      "translation": null
+    },
+    {
+      "time": 235.85,
+      "time_str": "03:55.850",
+      "text": "我们都一样 一样的善良",
+      "translation": null
+    },
+    {
+      "time": 241.98,
+      "time_str": "04:01.980",
+      "text": "一样为需要的人打造一个天堂",
+      "translation": null
+    },
+    {
+      "time": 247.63,
+      "time_str": "04:07.630",
+      "text": "歌声是翅膀 唱出了希望",
+      "translation": null
+    },
+    {
+      "time": 253.42,
+      "time_str": "04:13.420",
+      "text": "所有的付出只因爱的力量",
+      "translation": null
+    },
+    {
+      "time": 258.52,
+      "time_str": "04:18.520",
+      "text": "和你一样",
+      "translation": null
+    },
+    {
+      "time": 262.65,
+      "time_str": "04:22.650",
+      "text": "我们都一样",
+      "translation": null
+    },
+    {
+      "time": 269.37,
+      "time_str": "04:29.370",
+      "text": "谁在最需要的时候轻轻拍着我肩膀",
+      "translation": null
+    },
+    {
+      "time": 276.96,
+      "time_str": "04:36.960",
+      "text": "谁在最快乐的时候愿意和我分享",
+      "translation": null
+    },
+    {
+      "time": 282.81,
+      "time_str": "04:42.810",
+      "text": "日子那么长 我在你身旁",
+      "translation": null
+    },
+    {
+      "time": 288.55,
+      "time_str": "04:48.550",
+      "text": "见证你成长",
+      "translation": null
+    },
+    {
+      "time": 291.14,
+      "time_str": "04:51.140",
+      "text": "永远为你鼓掌",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "和你一样 - 李宇春.lrc"
+}

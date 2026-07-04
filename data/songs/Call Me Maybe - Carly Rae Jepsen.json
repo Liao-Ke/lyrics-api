@@ -1,0 +1,520 @@
+{
+  "title": "Call Me Maybe",
+  "title_raw": "Call Me Maybe",
+  "version": null,
+  "artist": "Carly Rae Jepsen",
+  "group_key": "call me maybe|carly rae jepsen",
+  "writers": {
+    "lyricist": "Carly Rae Jepsen, Josh Ramsay, Tavish Crowe",
+    "composer": "Carly Rae Jepsen, Josh Ramsay, Tavish Crowe",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.46,
+      "time_str": "00:04.460",
+      "text": "I threw a wish in the well",
+      "translation": "我将一个愿望投入许愿池中"
+    },
+    {
+      "time": 6.25,
+      "time_str": "00:06.250",
+      "text": "Don’t ask me I’ll never tell",
+      "translation": "别问我,我绝不泄露"
+    },
+    {
+      "time": 8.289,
+      "time_str": "00:08.289",
+      "text": "I looked to you as it fell",
+      "translation": "它落下时我与你相遇"
+    },
+    {
+      "time": 10.25,
+      "time_str": "00:10.250",
+      "text": "And now you’re in my way",
+      "translation": "如今你出现在我面前"
+    },
+    {
+      "time": 12.6,
+      "time_str": "00:12.600",
+      "text": "I’d trade my soul for a wish",
+      "translation": "我用自己的灵魂交换一个愿望"
+    },
+    {
+      "time": 14.279,
+      "time_str": "00:14.279",
+      "text": "Pennies and dimes for a kiss",
+      "translation": "放弃了所有金钱只为了一个吻"
+    },
+    {
+      "time": 16.289,
+      "time_str": "00:16.289",
+      "text": "I wasn’t looking for this",
+      "translation": "这可不是我想要的"
+    },
+    {
+      "time": 18.7,
+      "time_str": "00:18.700",
+      "text": "But now you’re in my way",
+      "translation": "但是如今你出现在我的面前"
+    },
+    {
+      "time": 20.59,
+      "time_str": "00:20.590",
+      "text": "Your stare was holding",
+      "translation": "你眼神坚定"
+    },
+    {
+      "time": 22.99,
+      "time_str": "00:22.990",
+      "text": "Ripped jeans skin was showing",
+      "translation": "牛仔裤上的破洞 展现出你的肌肤"
+    },
+    {
+      "time": 23.98,
+      "time_str": "00:23.980",
+      "text": "Hot night wind was blowing",
+      "translation": "炎炎夏夜，凉风吹过"
+    },
+    {
+      "time": 26.0,
+      "time_str": "00:26.000",
+      "text": "Where you think you’re going baby",
+      "translation": "小心肝，你还能躲到哪里呢？"
+    },
+    {
+      "time": 28.41,
+      "time_str": "00:28.410",
+      "text": "Hey I just met you",
+      "translation": "嘿,我刚才遇见了你"
+    },
+    {
+      "time": 30.939,
+      "time_str": "00:30.939",
+      "text": "And this is crazy",
+      "translation": "这简直太不可思议了"
+    },
+    {
+      "time": 32.619,
+      "time_str": "00:32.619",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 34.86,
+      "time_str": "00:34.860",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 36.72,
+      "time_str": "00:36.720",
+      "text": "It’s hard to look right",
+      "translation": "你让我目不转睛"
+    },
+    {
+      "time": 38.98,
+      "time_str": "00:38.980",
+      "text": "At you baby",
+      "translation": "宝贝，"
+    },
+    {
+      "time": 40.9,
+      "time_str": "00:40.900",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 42.769,
+      "time_str": "00:42.769",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 44.68,
+      "time_str": "00:44.680",
+      "text": "Hey I just met you",
+      "translation": "嘿,我刚才遇见了你"
+    },
+    {
+      "time": 46.739,
+      "time_str": "00:46.739",
+      "text": "And this is crazy",
+      "translation": "这简直太不可思议了"
+    },
+    {
+      "time": 48.57,
+      "time_str": "00:48.570",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 50.769,
+      "time_str": "00:50.769",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 52.58,
+      "time_str": "00:52.580",
+      "text": "And all the other boys",
+      "translation": "其他那些男孩子们"
+    },
+    {
+      "time": 54.94,
+      "time_str": "00:54.940",
+      "text": "Try to chase me",
+      "translation": "都拼命地追我"
+    },
+    {
+      "time": 56.879,
+      "time_str": "00:56.879",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 58.82,
+      "time_str": "00:58.820",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 64.44,
+      "time_str": "01:04.440",
+      "text": "You took your time with the call",
+      "translation": "你不急着给我打电话"
+    },
+    {
+      "time": 66.259,
+      "time_str": "01:06.259",
+      "text": "I took no time with the fall",
+      "translation": "而我却迅速坠入对你的爱河"
+    },
+    {
+      "time": 68.3,
+      "time_str": "01:08.300",
+      "text": "You gave me nothing at all",
+      "translation": "你什么也没给我"
+    },
+    {
+      "time": 70.21,
+      "time_str": "01:10.210",
+      "text": "But still you’re in my way",
+      "translation": "但你在我的生命里"
+    },
+    {
+      "time": 72.2,
+      "time_str": "01:12.200",
+      "text": "I beg and borrow and steal",
+      "translation": "我使出浑身解数"
+    },
+    {
+      "time": 74.399,
+      "time_str": "01:14.399",
+      "text": "At first sight and it's real",
+      "translation": "去预想这是真的"
+    },
+    {
+      "time": 77.2,
+      "time_str": "01:17.200",
+      "text": "I didn't know I would feel it",
+      "translation": "我不敢确定我对你的感觉"
+    },
+    {
+      "time": 78.539,
+      "time_str": "01:18.539",
+      "text": "But it’s in my way",
+      "translation": "但如今你出现在我的面前"
+    },
+    {
+      "time": 80.899,
+      "time_str": "01:20.899",
+      "text": "Your stare was holding",
+      "translation": "你眼神坚定"
+    },
+    {
+      "time": 82.39,
+      "time_str": "01:22.390",
+      "text": "Ripped jeans skin was showing",
+      "translation": "牛仔裤上的破洞 展现出你的肌肤"
+    },
+    {
+      "time": 83.99,
+      "time_str": "01:23.990",
+      "text": "Hot night wind was blowing",
+      "translation": "炎炎夏夜，凉风吹过"
+    },
+    {
+      "time": 86.1,
+      "time_str": "01:26.100",
+      "text": "Where you think you’re going baby",
+      "translation": "小心肝，你还能躲到哪里呢？"
+    },
+    {
+      "time": 88.24,
+      "time_str": "01:28.240",
+      "text": "Hey I just met you",
+      "translation": "嘿，我刚才遇见了你"
+    },
+    {
+      "time": 90.94,
+      "time_str": "01:30.940",
+      "text": "And this is crazy",
+      "translation": "这简直太不可思议了"
+    },
+    {
+      "time": 92.72,
+      "time_str": "01:32.720",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 94.649,
+      "time_str": "01:34.649",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 96.76,
+      "time_str": "01:36.760",
+      "text": "It’s hard to look right",
+      "translation": "真不敢直视你的双眼"
+    },
+    {
+      "time": 98.66,
+      "time_str": "01:38.660",
+      "text": "At you baby",
+      "translation": "宝贝"
+    },
+    {
+      "time": 100.899,
+      "time_str": "01:40.899",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 102.839,
+      "time_str": "01:42.839",
+      "text": "So call me maybe",
+      "translation": "或许可以给我打电话吧？"
+    },
+    {
+      "time": 104.61,
+      "time_str": "01:44.610",
+      "text": "Hey I just met you",
+      "translation": "嘿,我刚才遇见了你"
+    },
+    {
+      "time": 106.8,
+      "time_str": "01:46.800",
+      "text": "And this is crazy",
+      "translation": "这简直不可思议"
+    },
+    {
+      "time": 108.61,
+      "time_str": "01:48.610",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 110.73,
+      "time_str": "01:50.730",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 112.52,
+      "time_str": "01:52.520",
+      "text": "And all the other boys",
+      "translation": "其他那些男孩子们"
+    },
+    {
+      "time": 114.75,
+      "time_str": "01:54.750",
+      "text": "Try to chase me",
+      "translation": "无处不在地想得到我"
+    },
+    {
+      "time": 116.899,
+      "time_str": "01:56.899",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 118.75,
+      "time_str": "01:58.750",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 120.84,
+      "time_str": "02:00.840",
+      "text": "Before you came into my life",
+      "translation": "你走进我的生活之前"
+    },
+    {
+      "time": 122.6,
+      "time_str": "02:02.600",
+      "text": "I missed you so bad",
+      "translation": "我总是非常想念你"
+    },
+    {
+      "time": 124.6,
+      "time_str": "02:04.600",
+      "text": "I missed you so bad",
+      "translation": "非常想念你"
+    },
+    {
+      "time": 126.119,
+      "time_str": "02:06.119",
+      "text": "I missed you so so bad",
+      "translation": "非常非常地想念你"
+    },
+    {
+      "time": 128.439,
+      "time_str": "02:08.439",
+      "text": "Before you came into my life",
+      "translation": "你走进我的生活之前"
+    },
+    {
+      "time": 130.759,
+      "time_str": "02:10.759",
+      "text": "I missed you so bad",
+      "translation": "我总是非常想念你"
+    },
+    {
+      "time": 132.79,
+      "time_str": "02:12.790",
+      "text": "And you should know that",
+      "translation": "你应该知道吧"
+    },
+    {
+      "time": 134.69,
+      "time_str": "02:14.690",
+      "text": "I missed you so so bad",
+      "translation": "我非常非常地想念你"
+    },
+    {
+      "time": 139.89,
+      "time_str": "02:19.890",
+      "text": "It’s hard to look right",
+      "translation": "你吸引着我的目光"
+    },
+    {
+      "time": 144.819,
+      "time_str": "02:24.819",
+      "text": "At you baby",
+      "translation": "宝贝"
+    },
+    {
+      "time": 147.199,
+      "time_str": "02:27.199",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 149.19,
+      "time_str": "02:29.190",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 150.929,
+      "time_str": "02:30.929",
+      "text": "Hey I just met you",
+      "translation": "嘿,我刚才遇见了你"
+    },
+    {
+      "time": 154.669,
+      "time_str": "02:34.669",
+      "text": "And this is crazy",
+      "translation": "这简直不可思议"
+    },
+    {
+      "time": 156.629,
+      "time_str": "02:36.629",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 158.659,
+      "time_str": "02:38.659",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 160.649,
+      "time_str": "02:40.649",
+      "text": "And all the other boys",
+      "translation": "其他那些男孩们"
+    },
+    {
+      "time": 162.62,
+      "time_str": "02:42.620",
+      "text": "Try to chase me",
+      "translation": "无处不在地想得到我"
+    },
+    {
+      "time": 164.829,
+      "time_str": "02:44.829",
+      "text": "But here’s my number",
+      "translation": "对了，这是我的电话号码"
+    },
+    {
+      "time": 169.799,
+      "time_str": "02:49.799",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    },
+    {
+      "time": 170.829,
+      "time_str": "02:50.829",
+      "text": "Before you came into my life",
+      "translation": "你走进我的生活之前"
+    },
+    {
+      "time": 172.678,
+      "time_str": "02:52.678",
+      "text": "I missed you so bad",
+      "translation": "我总是非常想念你"
+    },
+    {
+      "time": 174.19,
+      "time_str": "02:54.190",
+      "text": "I missed you so bad",
+      "translation": "非常想念你"
+    },
+    {
+      "time": 175.419,
+      "time_str": "02:55.419",
+      "text": "I missed you so so bad",
+      "translation": "非常非常地想念你"
+    },
+    {
+      "time": 178.229,
+      "time_str": "02:58.229",
+      "text": "Before you came into my life",
+      "translation": "你走进我的生活之前"
+    },
+    {
+      "time": 180.79,
+      "time_str": "03:00.790",
+      "text": "I missed you so bad",
+      "translation": "我总是非常想念你"
+    },
+    {
+      "time": 181.479,
+      "time_str": "03:01.479",
+      "text": "and you should know that",
+      "translation": "你应该知道吧"
+    },
+    {
+      "time": 183.49,
+      "time_str": "03:03.490",
+      "text": "So call me maybe",
+      "translation": "所以下次给我打电话吧"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Call Me Maybe - Carly Rae Jepsen.lrc"
+}

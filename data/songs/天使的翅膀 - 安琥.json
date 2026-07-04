@@ -1,0 +1,220 @@
+{
+  "title": "天使的翅膀",
+  "title_raw": "天使的翅膀",
+  "version": null,
+  "artist": "安琥",
+  "group_key": "天使的翅膀|安琥",
+  "writers": {
+    "lyricist": "徐誉滕",
+    "composer": "徐誉滕",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.62,
+      "time_str": "00:07.620",
+      "text": "落叶随风将要去何方",
+      "translation": null
+    },
+    {
+      "time": 12.9,
+      "time_str": "00:12.900",
+      "text": "只留给天空美丽一场",
+      "translation": null
+    },
+    {
+      "time": 20.1,
+      "time_str": "00:20.100",
+      "text": "曾飞舞的身影",
+      "translation": null
+    },
+    {
+      "time": 22.59,
+      "time_str": "00:22.590",
+      "text": "像天使的翅膀",
+      "translation": null
+    },
+    {
+      "time": 25.65,
+      "time_str": "00:25.650",
+      "text": "划过我幸福的过往",
+      "translation": null
+    },
+    {
+      "time": 32.929,
+      "time_str": "00:32.929",
+      "text": "爱曾经来到过的地方",
+      "translation": null
+    },
+    {
+      "time": 39.129,
+      "time_str": "00:39.129",
+      "text": "依昔留着昨天的芬芳",
+      "translation": null
+    },
+    {
+      "time": 45.069,
+      "time_str": "00:45.069",
+      "text": "那熟悉的温暖",
+      "translation": null
+    },
+    {
+      "time": 48.439,
+      "time_str": "00:48.439",
+      "text": "像天使的翅膀",
+      "translation": null
+    },
+    {
+      "time": 51.899,
+      "time_str": "00:51.899",
+      "text": "划过我无边的心上",
+      "translation": null
+    },
+    {
+      "time": 57.999,
+      "time_str": "00:57.999",
+      "text": "相信你还在这里",
+      "translation": null
+    },
+    {
+      "time": 62.029,
+      "time_str": "01:02.029",
+      "text": "从不曾离去",
+      "translation": null
+    },
+    {
+      "time": 65.59,
+      "time_str": "01:05.590",
+      "text": "我的爱像天使守护你",
+      "translation": null
+    },
+    {
+      "time": 70.969,
+      "time_str": "01:10.969",
+      "text": "若生命只到这里",
+      "translation": null
+    },
+    {
+      "time": 74.969,
+      "time_str": "01:14.969",
+      "text": "从此没有我",
+      "translation": null
+    },
+    {
+      "time": 77.479,
+      "time_str": "01:17.479",
+      "text": "我会找个天使替我去爱你",
+      "translation": null
+    },
+    {
+      "time": 97.609,
+      "time_str": "01:37.609",
+      "text": "爱曾经来到过的地方",
+      "translation": null
+    },
+    {
+      "time": 104.149,
+      "time_str": "01:44.149",
+      "text": "依昔留着昨天的芬芳",
+      "translation": null
+    },
+    {
+      "time": 109.678,
+      "time_str": "01:49.678",
+      "text": "那熟悉的温暖",
+      "translation": null
+    },
+    {
+      "time": 113.66,
+      "time_str": "01:53.660",
+      "text": "像天使的翅膀",
+      "translation": null
+    },
+    {
+      "time": 116.559,
+      "time_str": "01:56.559",
+      "text": "划过我无边的心伤",
+      "translation": null
+    },
+    {
+      "time": 122.689,
+      "time_str": "02:02.689",
+      "text": "相信你还在这里",
+      "translation": null
+    },
+    {
+      "time": 127.17,
+      "time_str": "02:07.170",
+      "text": "从不曾离去",
+      "translation": null
+    },
+    {
+      "time": 130.419,
+      "time_str": "02:10.419",
+      "text": "我的爱像天使守护你",
+      "translation": null
+    },
+    {
+      "time": 135.99,
+      "time_str": "02:15.990",
+      "text": "若生命只到这里",
+      "translation": null
+    },
+    {
+      "time": 140.7,
+      "time_str": "02:20.700",
+      "text": "从此没有我",
+      "translation": null
+    },
+    {
+      "time": 142.6,
+      "time_str": "02:22.600",
+      "text": "我会找个天使替我去爱你",
+      "translation": null
+    },
+    {
+      "time": 175.55,
+      "time_str": "02:55.550",
+      "text": "相信你还在这里",
+      "translation": null
+    },
+    {
+      "time": 182.3,
+      "time_str": "03:02.300",
+      "text": "从不曾离去",
+      "translation": null
+    },
+    {
+      "time": 183.63,
+      "time_str": "03:03.630",
+      "text": "我的爱像天使守护你",
+      "translation": null
+    },
+    {
+      "time": 189.48,
+      "time_str": "03:09.480",
+      "text": "若生命只到这里",
+      "translation": null
+    },
+    {
+      "time": 193.45,
+      "time_str": "03:13.450",
+      "text": "从此没有我",
+      "translation": null
+    },
+    {
+      "time": 196.0,
+      "time_str": "03:16.000",
+      "text": "我会找个天使替我去爱你",
+      "translation": null
+    },
+    {
+      "time": 202.38,
+      "time_str": "03:22.380",
+      "text": "我会找个天使替我去爱你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天使的翅膀 - 安琥.lrc"
+}

@@ -1,0 +1,196 @@
+{
+  "title": "我爱的人",
+  "title_raw": "我爱的人",
+  "version": null,
+  "artist": "陈小春",
+  "group_key": "我爱的人|陈小春",
+  "writers": {
+    "lyricist": "施人诚",
+    "composer": "周杰伦",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 18.18,
+      "time_str": "00:18.180",
+      "text": "我知道 故事不会 太曲折",
+      "translation": null
+    },
+    {
+      "time": 25.51,
+      "time_str": "00:25.510",
+      "text": "我总会 遇见一个 什么人",
+      "translation": null
+    },
+    {
+      "time": 32.82,
+      "time_str": "00:32.820",
+      "text": "陪我过 没有了 她的人生",
+      "translation": null
+    },
+    {
+      "time": 39.88,
+      "time_str": "00:39.880",
+      "text": "成家立业之类的 等等",
+      "translation": null
+    },
+    {
+      "time": 47.37,
+      "time_str": "00:47.370",
+      "text": "她做了她 觉得对 的选择",
+      "translation": null
+    },
+    {
+      "time": 54.67,
+      "time_str": "00:54.670",
+      "text": "我只好 祝福她 真的对了",
+      "translation": null
+    },
+    {
+      "time": 61.96,
+      "time_str": "01:01.960",
+      "text": "爱不到我 最想要爱的人",
+      "translation": null
+    },
+    {
+      "time": 68.91,
+      "time_str": "01:08.910",
+      "text": "谁还能要我 怎样呢",
+      "translation": null
+    },
+    {
+      "time": 75.14,
+      "time_str": "01:15.140",
+      "text": "我爱的人 不是我的爱人",
+      "translation": null
+    },
+    {
+      "time": 81.44,
+      "time_str": "01:21.440",
+      "text": "她心里每一寸 都属于另一个人",
+      "translation": null
+    },
+    {
+      "time": 89.68,
+      "time_str": "01:29.680",
+      "text": "她真幸福 幸福得真残忍",
+      "translation": null
+    },
+    {
+      "time": 96.2,
+      "time_str": "01:36.200",
+      "text": "让我又爱又恨 她的爱 怎么那么深",
+      "translation": null
+    },
+    {
+      "time": 104.15,
+      "time_str": "01:44.150",
+      "text": "我爱的人 她已有了爱人",
+      "translation": null
+    },
+    {
+      "time": 110.66,
+      "time_str": "01:50.660",
+      "text": "从他们的眼神 说明了我不可能",
+      "translation": null
+    },
+    {
+      "time": 118.69,
+      "time_str": "01:58.690",
+      "text": "每当听见 她或他说 我们",
+      "translation": null
+    },
+    {
+      "time": 125.29,
+      "time_str": "02:05.290",
+      "text": "就像听见爱情 永恒的嘲笑声",
+      "translation": null
+    },
+    {
+      "time": 145.53,
+      "time_str": "02:25.530",
+      "text": "她做了她 觉得对 的选择",
+      "translation": null
+    },
+    {
+      "time": 152.83,
+      "time_str": "02:32.830",
+      "text": "我只好 祝福她 真的对了",
+      "translation": null
+    },
+    {
+      "time": 160.08,
+      "time_str": "02:40.080",
+      "text": "爱不到我 最想要爱的人",
+      "translation": null
+    },
+    {
+      "time": 167.15,
+      "time_str": "02:47.150",
+      "text": "谁还能要 我怎样呢",
+      "translation": null
+    },
+    {
+      "time": 173.46,
+      "time_str": "02:53.460",
+      "text": "我爱的人 不是我的爱人",
+      "translation": null
+    },
+    {
+      "time": 179.66,
+      "time_str": "02:59.660",
+      "text": "她心里每一寸 都属于另一个人",
+      "translation": null
+    },
+    {
+      "time": 187.82,
+      "time_str": "03:07.820",
+      "text": "她真幸福 幸福得真残忍",
+      "translation": null
+    },
+    {
+      "time": 194.39,
+      "time_str": "03:14.390",
+      "text": "让我又爱又恨 她的爱 怎么那么深",
+      "translation": null
+    },
+    {
+      "time": 202.32,
+      "time_str": "03:22.320",
+      "text": "我爱的人 她已有了爱人",
+      "translation": null
+    },
+    {
+      "time": 208.91,
+      "time_str": "03:28.910",
+      "text": "从他们的眼神 说明了我不可能",
+      "translation": null
+    },
+    {
+      "time": 216.96,
+      "time_str": "03:36.960",
+      "text": "每当听见 她或他说 我们",
+      "translation": null
+    },
+    {
+      "time": 223.54,
+      "time_str": "03:43.540",
+      "text": "就像听见爱情 永恒的嘲笑声",
+      "translation": null
+    },
+    {
+      "time": 231.47,
+      "time_str": "03:51.470",
+      "text": "每当听见 她或他说 我们",
+      "translation": null
+    },
+    {
+      "time": 238.12,
+      "time_str": "03:58.120",
+      "text": "就像听见爱情 永恒的嘲笑声",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我爱的人 - 陈小春.lrc"
+}

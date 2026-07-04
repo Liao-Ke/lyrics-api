@@ -1,0 +1,322 @@
+{
+  "title": "It's My Life",
+  "title_raw": "It's My Life",
+  "version": null,
+  "artist": "Bon Jovi",
+  "group_key": "it's my life|bon jovi",
+  "writers": {
+    "lyricist": "Jon Bon Jovi/Richie Sambora/Max Martin",
+    "composer": "Jon Bon Jovi/Richie Sambora/Max Martin",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.59,
+      "time_str": "00:07.590",
+      "text": "This ain't a song for the broken-hearted",
+      "translation": "这首歌并不是写给那些伤心的人"
+    },
+    {
+      "time": 15.64,
+      "time_str": "00:15.640",
+      "text": "No silent prayer for the faith-departed",
+      "translation": "上帝不会庇护那些没有信仰的祈祷者"
+    },
+    {
+      "time": 23.95,
+      "time_str": "00:23.950",
+      "text": "I ain't gonna be just a face in the crowd",
+      "translation": "我不希望自己只是芸芸众生之一"
+    },
+    {
+      "time": 27.32,
+      "time_str": "00:27.320",
+      "text": "You're gonna hear my voice",
+      "translation": "你将会听到我的心声"
+    },
+    {
+      "time": 29.57,
+      "time_str": "00:29.570",
+      "text": "When I shout it out aloud",
+      "translation": "当我大声呐喊出来"
+    },
+    {
+      "time": 33.2,
+      "time_str": "00:33.200",
+      "text": "It's my life",
+      "translation": "这就是我的人生"
+    },
+    {
+      "time": 35.54,
+      "time_str": "00:35.540",
+      "text": "It's now or never",
+      "translation": "把握现在，机会稍纵即逝"
+    },
+    {
+      "time": 38.97,
+      "time_str": "00:38.970",
+      "text": "I ain't gonna live forever",
+      "translation": "我不祈望能够长生不老"
+    },
+    {
+      "time": 43.1,
+      "time_str": "00:43.100",
+      "text": "I just wanna live while I'm alive",
+      "translation": "我只想趁我活着的时候认真生活"
+    },
+    {
+      "time": 48.98,
+      "time_str": "00:48.980",
+      "text": "（It's my life）",
+      "translation": "（这就是我的人生）"
+    },
+    {
+      "time": 51.13,
+      "time_str": "00:51.130",
+      "text": "My heart is like an open highway",
+      "translation": "我的心就像飞驰在公路上"
+    },
+    {
+      "time": 55.06,
+      "time_str": "00:55.060",
+      "text": "Like Frankie said",
+      "translation": "就像Frankie说的那样（弗兰克.辛纳屈歌曲《My Way》中的最后一句就是I did it my way）"
+    },
+    {
+      "time": 56.55,
+      "time_str": "00:56.550",
+      "text": "I did it my way",
+      "translation": "我走我自己的路"
+    },
+    {
+      "time": 59.7,
+      "time_str": "00:59.700",
+      "text": "I just wanna live while I'm alive",
+      "translation": "我只想趁我活着的时候认真生活"
+    },
+    {
+      "time": 64.5,
+      "time_str": "01:04.500",
+      "text": "It's my life",
+      "translation": "这就是我的人生"
+    },
+    {
+      "time": 74.26,
+      "time_str": "01:14.260",
+      "text": "This is for the ones who stood their ground",
+      "translation": "这首歌是送给那些坚定信念的人"
+    },
+    {
+      "time": 81.97,
+      "time_str": "01:21.970",
+      "text": "For Tommy and Gina who never backed down",
+      "translation": "送给从未退缩的Tommy and Gina（Bon Jovi另一首歌Living on a prayer里的主人公)"
+    },
+    {
+      "time": 90.8,
+      "time_str": "01:30.800",
+      "text": "Tomorrow's getting harder make no mistake",
+      "translation": "毫无疑问，未来更加艰辛"
+    },
+    {
+      "time": 94.61,
+      "time_str": "01:34.610",
+      "text": "Luck ain't even lucky",
+      "translation": "幸运女神不会一再的眷顾"
+    },
+    {
+      "time": 96.29,
+      "time_str": "01:36.290",
+      "text": "Got to make your own breaks",
+      "translation": "你必须自己寻求突破"
+    },
+    {
+      "time": 99.84,
+      "time_str": "01:39.840",
+      "text": "It's my life",
+      "translation": "这就是我的人生"
+    },
+    {
+      "time": 102.29,
+      "time_str": "01:42.290",
+      "text": "And it's now or never",
+      "translation": "把握现在，机会稍纵即逝"
+    },
+    {
+      "time": 105.78,
+      "time_str": "01:45.780",
+      "text": "I ain't gonna live forever",
+      "translation": "我不祈望能够长生不老"
+    },
+    {
+      "time": 109.83,
+      "time_str": "01:49.830",
+      "text": "I just want to live while I'm alive",
+      "translation": "我只想趁我活着的时候认真生活"
+    },
+    {
+      "time": 115.76,
+      "time_str": "01:55.760",
+      "text": "（It's my life）",
+      "translation": "（这就是我的人生）"
+    },
+    {
+      "time": 117.6,
+      "time_str": "01:57.600",
+      "text": "My heart is like an open highway",
+      "translation": "我的心就像飞驰在公路上"
+    },
+    {
+      "time": 121.77,
+      "time_str": "02:01.770",
+      "text": "Like Frankie said",
+      "translation": "就像Frankie说的那样"
+    },
+    {
+      "time": 122.72,
+      "time_str": "02:02.720",
+      "text": "I did it my way",
+      "translation": "我走我自己的路"
+    },
+    {
+      "time": 125.88,
+      "time_str": "02:05.880",
+      "text": "I just want to live while I'm alive",
+      "translation": "我只想趁我活着的时候认真生活"
+    },
+    {
+      "time": 131.5,
+      "time_str": "02:11.500",
+      "text": "（It's my life）",
+      "translation": "（这就是我的人生）"
+    },
+    {
+      "time": 150.29,
+      "time_str": "02:30.290",
+      "text": "Better stand tall when they're calling you out",
+      "translation": "无论面对什么困难都要挺直身子"
+    },
+    {
+      "time": 153.1,
+      "time_str": "02:33.100",
+      "text": "Don't bend don't break baby don't back down",
+      "translation": "不要屈服，不要放弃，宝贝，不要畏退缩"
+    },
+    {
+      "time": 158.6,
+      "time_str": "02:38.600",
+      "text": "It's my life",
+      "translation": "这就是我的人生"
+    },
+    {
+      "time": 160.84,
+      "time_str": "02:40.840",
+      "text": "It's now or never",
+      "translation": "把握现在，机会稍纵即逝"
+    },
+    {
+      "time": 164.45,
+      "time_str": "02:44.450",
+      "text": "I ain't gonna live forever",
+      "translation": "我不祈望能够长生不老"
+    },
+    {
+      "time": 168.39,
+      "time_str": "02:48.390",
+      "text": "I just want to live while I'm alive",
+      "translation": "我只想趁我活着的时候认真生活"
+    },
+    {
+      "time": 174.39,
+      "time_str": "02:54.390",
+      "text": "（It's my life）",
+      "translation": "（这就是我的人生）"
+    },
+    {
+      "time": 178.39,
+      "time_str": "02:58.390",
+      "text": "My heart is like an open highway",
+      "translation": "我的心就像飞驰在公路上"
+    },
+    {
+      "time": 181.69,
+      "time_str": "03:01.690",
+      "text": "Like Frankie said",
+      "translation": "就像Frankie说的那样"
+    },
+    {
+      "time": 182.62,
+      "time_str": "03:02.620",
+      "text": "I did it my way",
+      "translation": "我走我自己的路"
+    },
+    {
+      "time": 185.91,
+      "time_str": "03:05.910",
+      "text": "I just want to live while I'm alive",
+      "translation": "我只想趁我活着的时候认真生活"
+    },
+    {
+      "time": 190.83,
+      "time_str": "03:10.830",
+      "text": "It's my life",
+      "translation": "这就是我的人生"
+    },
+    {
+      "time": 194.5,
+      "time_str": "03:14.500",
+      "text": "It's now or never",
+      "translation": "把握现在，机会稍纵即逝"
+    },
+    {
+      "time": 197.68,
+      "time_str": "03:17.680",
+      "text": "I ain't gonna live forever",
+      "translation": "我不祈望能够长生不老"
+    },
+    {
+      "time": 201.34,
+      "time_str": "03:21.340",
+      "text": "I just want to live while I'm alive",
+      "translation": "我只想趁我活着的时候认真生活"
+    },
+    {
+      "time": 207.3,
+      "time_str": "03:27.300",
+      "text": "（It's my life）",
+      "translation": "这就是我的人生"
+    },
+    {
+      "time": 209.06,
+      "time_str": "03:29.060",
+      "text": "My heart is like an open highway",
+      "translation": "我的心就像飞驰在公路上"
+    },
+    {
+      "time": 213.11,
+      "time_str": "03:33.110",
+      "text": "Like Frankie said",
+      "translation": "就像Frankie说的那样"
+    },
+    {
+      "time": 214.26,
+      "time_str": "03:34.260",
+      "text": "I did it my way",
+      "translation": "我走我自己的路"
+    },
+    {
+      "time": 217.28,
+      "time_str": "03:37.280",
+      "text": "I just want to live while I'm alive",
+      "translation": "我只想趁我活着的时候认真生活"
+    },
+    {
+      "time": 222.18,
+      "time_str": "03:42.180",
+      "text": "It's my life",
+      "translation": "这就是我的人生"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "It's My Life - Bon Jovi.lrc"
+}

@@ -1,0 +1,394 @@
+{
+  "title": "A Little Love",
+  "title_raw": "A Little Love",
+  "version": null,
+  "artist": "冯曦妤",
+  "group_key": "a little love|冯曦妤",
+  "writers": {
+    "lyricist": "冯曦妤",
+    "composer": "陈光荣",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 12.7,
+      "time_str": "00:12.700",
+      "text": "Greatness as you",
+      "translation": "伟大如你"
+    },
+    {
+      "time": 15.139,
+      "time_str": "00:15.139",
+      "text": "smallest as me",
+      "translation": "渺小如我"
+    },
+    {
+      "time": 18.119,
+      "time_str": "00:18.119",
+      "text": "You show me",
+      "translation": "你告诉我"
+    },
+    {
+      "time": 19.83,
+      "time_str": "00:19.830",
+      "text": "what is deep as sea",
+      "translation": "什么如海般深沉"
+    },
+    {
+      "time": 24.7,
+      "time_str": "00:24.700",
+      "text": "A little love,",
+      "translation": "柔柔的爱"
+    },
+    {
+      "time": 25.889,
+      "time_str": "00:25.889",
+      "text": "little kiss",
+      "translation": "浅浅的吻"
+    },
+    {
+      "time": 27.0,
+      "time_str": "00:27.000",
+      "text": "A little hug,",
+      "translation": "轻轻的拥抱"
+    },
+    {
+      "time": 28.558,
+      "time_str": "00:28.558",
+      "text": "little gift",
+      "translation": "小小的礼物"
+    },
+    {
+      "time": 29.909,
+      "time_str": "00:29.909",
+      "text": "all of little something",
+      "translation": "这些点点滴滴"
+    },
+    {
+      "time": 33.9,
+      "time_str": "00:33.900",
+      "text": "these are our memories",
+      "translation": "是我们的记忆"
+    },
+    {
+      "time": 35.389,
+      "time_str": "00:35.389",
+      "text": "You make me cry",
+      "translation": "你逗我哭"
+    },
+    {
+      "time": 37.559,
+      "time_str": "00:37.559",
+      "text": "make me smile",
+      "translation": "逗我笑"
+    },
+    {
+      "time": 38.939,
+      "time_str": "00:38.939",
+      "text": "make me feel that love is true",
+      "translation": "让我感受爱的真谛"
+    },
+    {
+      "time": 41.759,
+      "time_str": "00:41.759",
+      "text": "You always stand by my side",
+      "translation": "你总是在我身边"
+    },
+    {
+      "time": 44.289,
+      "time_str": "00:44.289",
+      "text": "I don't want to say goodbye",
+      "translation": "我不愿意说再见"
+    },
+    {
+      "time": 47.319,
+      "time_str": "00:47.319",
+      "text": "You make me cry",
+      "translation": "你逗我哭"
+    },
+    {
+      "time": 49.359,
+      "time_str": "00:49.359",
+      "text": "make me smile",
+      "translation": "逗我笑"
+    },
+    {
+      "time": 50.849,
+      "time_str": "00:50.849",
+      "text": "make me feel",
+      "translation": "让我感觉"
+    },
+    {
+      "time": 51.989,
+      "time_str": "00:51.989",
+      "text": "the joy of love",
+      "translation": "爱的奇妙"
+    },
+    {
+      "time": 53.549,
+      "time_str": "00:53.549",
+      "text": "oh kissing you",
+      "translation": "哦  吻你"
+    },
+    {
+      "time": 55.679,
+      "time_str": "00:55.679",
+      "text": "Thank you for all the love",
+      "translation": "谢谢你一直以来给我的爱"
+    },
+    {
+      "time": 57.939,
+      "time_str": "00:57.939",
+      "text": "you always give to me",
+      "translation": null
+    },
+    {
+      "time": 60.609,
+      "time_str": "01:00.609",
+      "text": "oh I love you",
+      "translation": "哦 我爱你"
+    },
+    {
+      "time": 65.839,
+      "time_str": "01:05.839",
+      "text": "Greatness as you",
+      "translation": "伟大如你"
+    },
+    {
+      "time": 68.619,
+      "time_str": "01:08.619",
+      "text": "smallest as me",
+      "translation": "渺小如我"
+    },
+    {
+      "time": 71.209,
+      "time_str": "01:11.209",
+      "text": "You show me",
+      "translation": "你告诉我"
+    },
+    {
+      "time": 72.859,
+      "time_str": "01:12.859",
+      "text": "what is deep as sea",
+      "translation": "什么如海般深沉"
+    },
+    {
+      "time": 77.169,
+      "time_str": "01:17.169",
+      "text": "A little love,",
+      "translation": "柔柔的爱"
+    },
+    {
+      "time": 78.979,
+      "time_str": "01:18.979",
+      "text": "little kiss",
+      "translation": "浅浅的吻"
+    },
+    {
+      "time": 80.209,
+      "time_str": "01:20.209",
+      "text": "A little hug,",
+      "translation": "轻轻的拥抱"
+    },
+    {
+      "time": 81.839,
+      "time_str": "01:21.839",
+      "text": "little gift",
+      "translation": "小小的礼物"
+    },
+    {
+      "time": 83.159,
+      "time_str": "01:23.159",
+      "text": "all of little something",
+      "translation": "这些点点滴滴"
+    },
+    {
+      "time": 86.689,
+      "time_str": "01:26.689",
+      "text": "these are our memories",
+      "translation": "是我们的记忆"
+    },
+    {
+      "time": 88.748,
+      "time_str": "01:28.748",
+      "text": "You make me cry",
+      "translation": "你逗我哭"
+    },
+    {
+      "time": 90.759,
+      "time_str": "01:30.759",
+      "text": "make me smile",
+      "translation": "逗我笑"
+    },
+    {
+      "time": 92.349,
+      "time_str": "01:32.349",
+      "text": "make me feel that love is true",
+      "translation": "让我感受爱的真谛"
+    },
+    {
+      "time": 95.209,
+      "time_str": "01:35.209",
+      "text": "You always stand by my side",
+      "translation": "你总是在我身边"
+    },
+    {
+      "time": 97.699,
+      "time_str": "01:37.699",
+      "text": "I don't want to say goodbye",
+      "translation": "我不愿意说再见"
+    },
+    {
+      "time": 100.669,
+      "time_str": "01:40.669",
+      "text": "You make me cry",
+      "translation": "你逗我哭"
+    },
+    {
+      "time": 102.769,
+      "time_str": "01:42.769",
+      "text": "make me smile",
+      "translation": "逗我笑"
+    },
+    {
+      "time": 104.209,
+      "time_str": "01:44.209",
+      "text": "make me feel",
+      "translation": "让我感觉"
+    },
+    {
+      "time": 105.349,
+      "time_str": "01:45.349",
+      "text": "the joy of love",
+      "translation": "爱的奇妙"
+    },
+    {
+      "time": 106.879,
+      "time_str": "01:46.879",
+      "text": "oh kissing you",
+      "translation": "哦 吻你"
+    },
+    {
+      "time": 109.49,
+      "time_str": "01:49.490",
+      "text": "Thank you for all the love",
+      "translation": "谢谢你一直以来给我的爱"
+    },
+    {
+      "time": 111.199,
+      "time_str": "01:51.199",
+      "text": "you always give to me",
+      "translation": null
+    },
+    {
+      "time": 113.969,
+      "time_str": "01:53.969",
+      "text": "oh I love you",
+      "translation": "哦 我爱你"
+    },
+    {
+      "time": 117.929,
+      "time_str": "01:57.929",
+      "text": "Yes I do,",
+      "translation": "我真的爱你"
+    },
+    {
+      "time": 129.51,
+      "time_str": "02:09.510",
+      "text": "I always do",
+      "translation": "我永远爱你"
+    },
+    {
+      "time": 139.969,
+      "time_str": "02:19.969",
+      "text": "Make me cry",
+      "translation": "逗我哭"
+    },
+    {
+      "time": 141.26,
+      "time_str": "02:21.260",
+      "text": "make me smile",
+      "translation": "逗我笑"
+    },
+    {
+      "time": 142.959,
+      "time_str": "02:22.959",
+      "text": "make me feel that love is true",
+      "translation": "让我感受爱的真谛"
+    },
+    {
+      "time": 145.57,
+      "time_str": "02:25.570",
+      "text": "you always stand by my side",
+      "translation": "你总是在我身边"
+    },
+    {
+      "time": 148.59,
+      "time_str": "02:28.590",
+      "text": "I don't want to say goodbye",
+      "translation": "我不愿意说再见"
+    },
+    {
+      "time": 150.999,
+      "time_str": "02:30.999",
+      "text": "You make me cry",
+      "translation": "你逗我哭"
+    },
+    {
+      "time": 153.159,
+      "time_str": "02:33.159",
+      "text": "make me smile",
+      "translation": "逗我笑"
+    },
+    {
+      "time": 154.629,
+      "time_str": "02:34.629",
+      "text": "make me feel",
+      "translation": "让我感受"
+    },
+    {
+      "time": 155.7,
+      "time_str": "02:35.700",
+      "text": "the joy of love",
+      "translation": "爱的奇妙"
+    },
+    {
+      "time": 157.149,
+      "time_str": "02:37.149",
+      "text": "oh kissing you",
+      "translation": "哦 吻你"
+    },
+    {
+      "time": 159.399,
+      "time_str": "02:39.399",
+      "text": "Thank you for all the love",
+      "translation": "谢谢你一直以来给我的爱"
+    },
+    {
+      "time": 161.559,
+      "time_str": "02:41.559",
+      "text": "you always give to me",
+      "translation": null
+    },
+    {
+      "time": 164.329,
+      "time_str": "02:44.329",
+      "text": "oh I love you",
+      "translation": "哦 我爱你"
+    },
+    {
+      "time": 170.549,
+      "time_str": "02:50.549",
+      "text": "To be with you,",
+      "translation": "和你在一起"
+    },
+    {
+      "time": 176.329,
+      "time_str": "02:56.329",
+      "text": "oh I love you",
+      "translation": "哦 我爱你"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "A Little Love - 冯曦妤.lrc"
+}

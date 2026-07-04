@@ -1,0 +1,274 @@
+{
+  "title": "黑街",
+  "title_raw": "黑街",
+  "version": null,
+  "artist": "陈雅雯",
+  "group_key": "黑街|陈雅雯",
+  "writers": {
+    "lyricist": "陈少琪",
+    "composer": "唐奕聪",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 36.63,
+      "time_str": "00:36.630",
+      "text": "黑街的孩儿，夜夜也爱在此",
+      "translation": null
+    },
+    {
+      "time": 40.61,
+      "time_str": "00:40.610",
+      "text": "玻璃樽，空罐子",
+      "translation": null
+    },
+    {
+      "time": 42.56,
+      "time_str": "00:42.560",
+      "text": "野火烧去憾事",
+      "translation": null
+    },
+    {
+      "time": 44.26,
+      "time_str": "00:44.260",
+      "text": "阴森的零时，造就畅快日子",
+      "translation": null
+    },
+    {
+      "time": 48.21,
+      "time_str": "00:48.210",
+      "text": "喧哗中，烧报纸, 去写宣泄定义",
+      "translation": null
+    },
+    {
+      "time": 52.59,
+      "time_str": "00:52.590",
+      "text": "不知社会，不知世间",
+      "translation": null
+    },
+    {
+      "time": 55.8,
+      "time_str": "00:55.800",
+      "text": "发生着任何事（永不愿读文字）",
+      "translation": null
+    },
+    {
+      "time": 60.21,
+      "time_str": "01:00.210",
+      "text": "不给劝解，不给制止",
+      "translation": null
+    },
+    {
+      "time": 64.08,
+      "time_str": "01:04.080",
+      "text": "最厌恶发觉，夜幕告止（看我吧）",
+      "translation": null
+    },
+    {
+      "time": 68.03,
+      "time_str": "01:08.030",
+      "text": "凶狠对打， 被擒绝未怕（看我吧）",
+      "translation": null
+    },
+    {
+      "time": 71.92,
+      "time_str": "01:11.920",
+      "text": "警方废话，像全是笑话（听我话）",
+      "translation": null
+    },
+    {
+      "time": 75.67,
+      "time_str": "01:15.670",
+      "text": "青春太多，燃烧到尽了作罢（每晚夜）",
+      "translation": null
+    },
+    {
+      "time": 83.19,
+      "time_str": "01:23.190",
+      "text": "区区这些，让甜梦暂借（每晚夜）",
+      "translation": null
+    },
+    {
+      "time": 86.95,
+      "time_str": "01:26.950",
+      "text": "躲于货车，被明月探射（不悔恨）",
+      "translation": null
+    },
+    {
+      "time": 90.72,
+      "time_str": "01:30.720",
+      "text": "青春满泻， 从不往后看昨夜.",
+      "translation": null
+    },
+    {
+      "time": 97.89,
+      "time_str": "01:37.890",
+      "text": "黑街的墙旁，暴露冷冷目光",
+      "translation": null
+    },
+    {
+      "time": 101.51,
+      "time_str": "01:41.510",
+      "text": "知不知这国邦，接管阴暗陋巷,",
+      "translation": null
+    },
+    {
+      "time": 105.38,
+      "time_str": "01:45.380",
+      "text": "深宵中人们若路过这地方",
+      "translation": null
+    },
+    {
+      "time": 109.05,
+      "time_str": "01:49.050",
+      "text": "瑟缩中不作声, 决不可以乱望",
+      "translation": null
+    },
+    {
+      "time": 113.7,
+      "time_str": "01:53.700",
+      "text": "不想捆绑，不想曙光",
+      "translation": null
+    },
+    {
+      "time": 116.95,
+      "time_str": "01:56.950",
+      "text": "理想夜夜游荡（晚风伴着流浪）",
+      "translation": null
+    },
+    {
+      "time": 121.29,
+      "time_str": "02:01.290",
+      "text": "不死恶党，不死眼光",
+      "translation": null
+    },
+    {
+      "time": 125.04,
+      "time_str": "02:05.040",
+      "text": "最厌恶去看 命运处方（看我吧）",
+      "translation": null
+    },
+    {
+      "time": 129.13,
+      "time_str": "02:09.130",
+      "text": "凶狠对打，被擒绝未怕（看我吧）",
+      "translation": null
+    },
+    {
+      "time": 132.75,
+      "time_str": "02:12.750",
+      "text": "警方废话，像全是笑话（听我话）",
+      "translation": null
+    },
+    {
+      "time": 136.68,
+      "time_str": "02:16.680",
+      "text": "青春太多，燃烧到尽了作罢（每晚夜）",
+      "translation": null
+    },
+    {
+      "time": 144.23,
+      "time_str": "02:24.230",
+      "text": "区区这些，让甜梦暂借（每晚夜）",
+      "translation": null
+    },
+    {
+      "time": 147.97,
+      "time_str": "02:27.970",
+      "text": "躲于货车，被明月探射（不悔恨）",
+      "translation": null
+    },
+    {
+      "time": 152.01,
+      "time_str": "02:32.010",
+      "text": "青春满泻，从不往后看昨夜",
+      "translation": null
+    },
+    {
+      "time": 189.1,
+      "time_str": "03:09.100",
+      "text": "（看我吧）",
+      "translation": null
+    },
+    {
+      "time": 190.15,
+      "time_str": "03:10.150",
+      "text": "凶狠对打，被擒绝未怕（看我吧）",
+      "translation": null
+    },
+    {
+      "time": 193.77,
+      "time_str": "03:13.770",
+      "text": "警方废话，像全是笑话（听我话）",
+      "translation": null
+    },
+    {
+      "time": 197.72,
+      "time_str": "03:17.720",
+      "text": "青春太多，燃烧到尽了作罢（每晚夜）",
+      "translation": null
+    },
+    {
+      "time": 205.29,
+      "time_str": "03:25.290",
+      "text": "区区这些，让甜梦暂借（每晚夜）",
+      "translation": null
+    },
+    {
+      "time": 209.09,
+      "time_str": "03:29.090",
+      "text": "躲于货车，被明月探射（不悔恨）",
+      "translation": null
+    },
+    {
+      "time": 212.8,
+      "time_str": "03:32.800",
+      "text": "青春满泻，从不往后看昨夜.",
+      "translation": null
+    },
+    {
+      "time": 219.67,
+      "time_str": "03:39.670",
+      "text": "（看我吧）",
+      "translation": null
+    },
+    {
+      "time": 220.6,
+      "time_str": "03:40.600",
+      "text": "凶狠对打，被擒绝未怕（看我吧）",
+      "translation": null
+    },
+    {
+      "time": 224.29,
+      "time_str": "03:44.290",
+      "text": "警方废话，像全是笑话（听我话）",
+      "translation": null
+    },
+    {
+      "time": 228.09,
+      "time_str": "03:48.090",
+      "text": "青春太多，燃烧到尽了作罢（每晚夜）",
+      "translation": null
+    },
+    {
+      "time": 235.66,
+      "time_str": "03:55.660",
+      "text": "区区这些，让甜梦暂借（每晚夜）",
+      "translation": null
+    },
+    {
+      "time": 239.41,
+      "time_str": "03:59.410",
+      "text": "躲于货车，被明月探射（不悔恨）",
+      "translation": null
+    },
+    {
+      "time": 243.61,
+      "time_str": "04:03.610",
+      "text": "End",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "黑街 - 陈雅雯.lrc"
+}

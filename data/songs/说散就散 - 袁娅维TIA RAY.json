@@ -1,0 +1,406 @@
+{
+  "title": "说散就散",
+  "title_raw": "说散就散",
+  "version": null,
+  "artist": "袁娅维TIA RAY",
+  "group_key": "说散就散|袁娅维tia ray",
+  "writers": {
+    "lyricist": "张楚翘",
+    "composer": "伍乐城",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.4,
+      "time_str": "00:18.400",
+      "text": "抱一抱",
+      "translation": null
+    },
+    {
+      "time": 19.16,
+      "time_str": "00:19.160",
+      "text": "就当作从没有在一起",
+      "translation": null
+    },
+    {
+      "time": 24.93,
+      "time_str": "00:24.930",
+      "text": "好不好",
+      "translation": null
+    },
+    {
+      "time": 25.88,
+      "time_str": "00:25.880",
+      "text": "要解释都已经来不及",
+      "translation": null
+    },
+    {
+      "time": 31.65,
+      "time_str": "00:31.650",
+      "text": "算了吧",
+      "translation": null
+    },
+    {
+      "time": 32.82,
+      "time_str": "00:32.820",
+      "text": "我付出过什么没关系",
+      "translation": null
+    },
+    {
+      "time": 37.21,
+      "time_str": "00:37.210",
+      "text": "我忽略自己",
+      "translation": null
+    },
+    {
+      "time": 39.61,
+      "time_str": "00:39.610",
+      "text": "就因为遇见你",
+      "translation": null
+    },
+    {
+      "time": 44.09,
+      "time_str": "00:44.090",
+      "text": "没办法",
+      "translation": null
+    },
+    {
+      "time": 45.93,
+      "time_str": "00:45.930",
+      "text": "好可怕",
+      "translation": null
+    },
+    {
+      "time": 47.5,
+      "time_str": "00:47.500",
+      "text": "那个我",
+      "translation": null
+    },
+    {
+      "time": 49.32,
+      "time_str": "00:49.320",
+      "text": "不像话",
+      "translation": null
+    },
+    {
+      "time": 50.72,
+      "time_str": "00:50.720",
+      "text": "一直奋不顾身",
+      "translation": null
+    },
+    {
+      "time": 54.36,
+      "time_str": "00:54.360",
+      "text": "是我太傻",
+      "translation": null
+    },
+    {
+      "time": 56.73,
+      "time_str": "00:56.730",
+      "text": "说不上爱别说谎",
+      "translation": null
+    },
+    {
+      "time": 60.167,
+      "time_str": "01:00.167",
+      "text": "就一点喜欢",
+      "translation": null
+    },
+    {
+      "time": 63.658,
+      "time_str": "01:03.658",
+      "text": "说不上恨别纠缠",
+      "translation": null
+    },
+    {
+      "time": 67.167,
+      "time_str": "01:07.167",
+      "text": "别装作感叹",
+      "translation": null
+    },
+    {
+      "time": 70.569,
+      "time_str": "01:10.569",
+      "text": "就当作我太麻烦",
+      "translation": null
+    },
+    {
+      "time": 72.658,
+      "time_str": "01:12.658",
+      "text": "不停让自己受伤",
+      "translation": null
+    },
+    {
+      "time": 74.497,
+      "time_str": "01:14.497",
+      "text": "我告诉我自己",
+      "translation": null
+    },
+    {
+      "time": 77.17,
+      "time_str": "01:17.170",
+      "text": "感情就是这样",
+      "translation": null
+    },
+    {
+      "time": 80.628,
+      "time_str": "01:20.628",
+      "text": "怎么一不小心太疯狂",
+      "translation": null
+    },
+    {
+      "time": 94.0,
+      "time_str": "01:34.000",
+      "text": "抱一抱",
+      "translation": null
+    },
+    {
+      "time": 94.599,
+      "time_str": "01:34.599",
+      "text": "再好好觉悟不能长久",
+      "translation": null
+    },
+    {
+      "time": 100.488,
+      "time_str": "01:40.488",
+      "text": "好不好",
+      "translation": null
+    },
+    {
+      "time": 101.34,
+      "time_str": "01:41.340",
+      "text": "有亏欠我们都别追究",
+      "translation": null
+    },
+    {
+      "time": 107.14,
+      "time_str": "01:47.140",
+      "text": "算了吧",
+      "translation": null
+    },
+    {
+      "time": 108.298,
+      "time_str": "01:48.298",
+      "text": "我付出再多都不足够",
+      "translation": null
+    },
+    {
+      "time": 112.679,
+      "time_str": "01:52.679",
+      "text": "我终于得救",
+      "translation": null
+    },
+    {
+      "time": 115.099,
+      "time_str": "01:55.099",
+      "text": "我不想再献丑",
+      "translation": null
+    },
+    {
+      "time": 119.777,
+      "time_str": "01:59.777",
+      "text": "没办法 不好吗",
+      "translation": null
+    },
+    {
+      "time": 123.048,
+      "time_str": "02:03.048",
+      "text": "大家都 不留下",
+      "translation": null
+    },
+    {
+      "time": 126.268,
+      "time_str": "02:06.268",
+      "text": "一直勉强相处",
+      "translation": null
+    },
+    {
+      "time": 129.998,
+      "time_str": "02:09.998",
+      "text": "总会累垮",
+      "translation": null
+    },
+    {
+      "time": 132.268,
+      "time_str": "02:12.268",
+      "text": "说不上爱别说谎",
+      "translation": null
+    },
+    {
+      "time": 135.788,
+      "time_str": "02:15.788",
+      "text": "就一点喜欢",
+      "translation": null
+    },
+    {
+      "time": 139.158,
+      "time_str": "02:19.158",
+      "text": "说不上恨别纠缠",
+      "translation": null
+    },
+    {
+      "time": 142.548,
+      "time_str": "02:22.548",
+      "text": "别装作感叹",
+      "translation": null
+    },
+    {
+      "time": 145.988,
+      "time_str": "02:25.988",
+      "text": "就当作我太麻烦",
+      "translation": null
+    },
+    {
+      "time": 148.427,
+      "time_str": "02:28.427",
+      "text": "不停让自己受伤",
+      "translation": null
+    },
+    {
+      "time": 149.927,
+      "time_str": "02:29.927",
+      "text": "我告诉我自己",
+      "translation": null
+    },
+    {
+      "time": 152.598,
+      "time_str": "02:32.598",
+      "text": "感情就是这样",
+      "translation": null
+    },
+    {
+      "time": 156.028,
+      "time_str": "02:36.028",
+      "text": "怎么一不小心太疯狂",
+      "translation": null
+    },
+    {
+      "time": 162.298,
+      "time_str": "02:42.298",
+      "text": "别后悔",
+      "translation": null
+    },
+    {
+      "time": 163.258,
+      "time_str": "02:43.258",
+      "text": "就算错过",
+      "translation": null
+    },
+    {
+      "time": 165.298,
+      "time_str": "02:45.298",
+      "text": "在以后",
+      "translation": null
+    },
+    {
+      "time": 166.587,
+      "time_str": "02:46.587",
+      "text": "你少不免想起我",
+      "translation": null
+    },
+    {
+      "time": 171.428,
+      "time_str": "02:51.428",
+      "text": "还算不错",
+      "translation": null
+    },
+    {
+      "time": 174.988,
+      "time_str": "02:54.988",
+      "text": "当我不在你会不会难过",
+      "translation": null
+    },
+    {
+      "time": 178.578,
+      "time_str": "02:58.578",
+      "text": "你够不够我这样洒脱",
+      "translation": null
+    },
+    {
+      "time": 183.548,
+      "time_str": "03:03.548",
+      "text": "说不上爱别说谎",
+      "translation": null
+    },
+    {
+      "time": 187.207,
+      "time_str": "03:07.207",
+      "text": "就一点喜欢",
+      "translation": null
+    },
+    {
+      "time": 190.518,
+      "time_str": "03:10.518",
+      "text": "说不上恨别纠缠",
+      "translation": null
+    },
+    {
+      "time": 194.048,
+      "time_str": "03:14.048",
+      "text": "别装作感叹",
+      "translation": null
+    },
+    {
+      "time": 196.288,
+      "time_str": "03:16.288",
+      "text": "将一切都体谅",
+      "translation": null
+    },
+    {
+      "time": 197.788,
+      "time_str": "03:17.788",
+      "text": "将一切都原谅",
+      "translation": null
+    },
+    {
+      "time": 199.639,
+      "time_str": "03:19.639",
+      "text": "我尝试找答案",
+      "translation": null
+    },
+    {
+      "time": 201.308,
+      "time_str": "03:21.308",
+      "text": "而答案很简单",
+      "translation": null
+    },
+    {
+      "time": 202.889,
+      "time_str": "03:22.889",
+      "text": "简单得很遗憾",
+      "translation": null
+    },
+    {
+      "time": 206.897,
+      "time_str": "03:26.897",
+      "text": "因为成长",
+      "translation": null
+    },
+    {
+      "time": 209.358,
+      "time_str": "03:29.358",
+      "text": "我们逼不得已要习惯",
+      "translation": null
+    },
+    {
+      "time": 214.059,
+      "time_str": "03:34.059",
+      "text": "因为成长",
+      "translation": null
+    },
+    {
+      "time": 216.087,
+      "time_str": "03:36.087",
+      "text": "我们忽尔间说散就散",
+      "translation": null
+    },
+    {
+      "time": 237.625,
+      "time_str": "03:57.625",
+      "text": "人声 : 袁娅维",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "说散就散 - 袁娅维TIA RAY.lrc"
+}

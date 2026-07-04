@@ -1,0 +1,220 @@
+{
+  "title": "安和桥",
+  "title_raw": "安和桥",
+  "version": null,
+  "artist": "宋冬野",
+  "group_key": "安和桥|宋冬野",
+  "writers": {
+    "lyricist": "宋冬野",
+    "composer": "宋冬野",
+    "arranger": "韦伟"
+  },
+  "lyrics": [
+    {
+      "time": 37.196,
+      "time_str": "00:37.196",
+      "text": "让我再看你一遍",
+      "translation": null
+    },
+    {
+      "time": 39.294,
+      "time_str": "00:39.294",
+      "text": "从南到北",
+      "translation": null
+    },
+    {
+      "time": 44.176,
+      "time_str": "00:44.176",
+      "text": "像是被五环路蒙住的双眼",
+      "translation": null
+    },
+    {
+      "time": 52.359,
+      "time_str": "00:52.359",
+      "text": "请你再讲一遍",
+      "translation": null
+    },
+    {
+      "time": 54.196,
+      "time_str": "00:54.196",
+      "text": "关于那天",
+      "translation": null
+    },
+    {
+      "time": 58.196,
+      "time_str": "00:58.196",
+      "text": "抱着盒子的姑娘",
+      "translation": null
+    },
+    {
+      "time": 62.7,
+      "time_str": "01:02.700",
+      "text": "和擦汗的男人",
+      "translation": null
+    },
+    {
+      "time": 66.48,
+      "time_str": "01:06.480",
+      "text": "我知道 那些夏天",
+      "translation": null
+    },
+    {
+      "time": 69.48,
+      "time_str": "01:09.480",
+      "text": "就像青春一样回不来",
+      "translation": null
+    },
+    {
+      "time": 73.06,
+      "time_str": "01:13.060",
+      "text": "代替梦想的也只能是勉为其难",
+      "translation": null
+    },
+    {
+      "time": 80.378,
+      "time_str": "01:20.378",
+      "text": "我知道 吹过的牛逼",
+      "translation": null
+    },
+    {
+      "time": 83.878,
+      "time_str": "01:23.878",
+      "text": "也会随青春一笑了之",
+      "translation": null
+    },
+    {
+      "time": 88.179,
+      "time_str": "01:28.179",
+      "text": "让我困在城市里",
+      "translation": null
+    },
+    {
+      "time": 91.468,
+      "time_str": "01:31.468",
+      "text": "纪念你",
+      "translation": null
+    },
+    {
+      "time": 96.069,
+      "time_str": "01:36.069",
+      "text": "让我再尝一口",
+      "translation": null
+    },
+    {
+      "time": 98.9,
+      "time_str": "01:38.900",
+      "text": "秋天的酒",
+      "translation": null
+    },
+    {
+      "time": 103.584,
+      "time_str": "01:43.584",
+      "text": "一直往南方开",
+      "translation": null
+    },
+    {
+      "time": 105.816,
+      "time_str": "01:45.816",
+      "text": "不会太久",
+      "translation": null
+    },
+    {
+      "time": 111.468,
+      "time_str": "01:51.468",
+      "text": "让我再听一遍",
+      "translation": null
+    },
+    {
+      "time": 113.194,
+      "time_str": "01:53.194",
+      "text": "最美的那一句",
+      "translation": null
+    },
+    {
+      "time": 117.498,
+      "time_str": "01:57.498",
+      "text": "你回家了",
+      "translation": null
+    },
+    {
+      "time": 120.477,
+      "time_str": "02:00.477",
+      "text": "我在等你呢",
+      "translation": null
+    },
+    {
+      "time": 154.997,
+      "time_str": "02:34.997",
+      "text": "我知道 那些夏天",
+      "translation": null
+    },
+    {
+      "time": 158.151,
+      "time_str": "02:38.151",
+      "text": "就像青春一样回不来",
+      "translation": null
+    },
+    {
+      "time": 161.872,
+      "time_str": "02:41.872",
+      "text": "代替梦想的也只能是勉为其难",
+      "translation": null
+    },
+    {
+      "time": 169.747,
+      "time_str": "02:49.747",
+      "text": "我知道 吹过的牛逼",
+      "translation": null
+    },
+    {
+      "time": 172.697,
+      "time_str": "02:52.697",
+      "text": "也会随青春一笑了之",
+      "translation": null
+    },
+    {
+      "time": 178.997,
+      "time_str": "02:58.997",
+      "text": "让我困在城市里 纪念你",
+      "translation": null
+    },
+    {
+      "time": 183.575,
+      "time_str": "03:03.575",
+      "text": "我知道 那些夏天",
+      "translation": null
+    },
+    {
+      "time": 187.646,
+      "time_str": "03:07.646",
+      "text": "就像你一样回不来",
+      "translation": null
+    },
+    {
+      "time": 191.284,
+      "time_str": "03:11.284",
+      "text": "我已不会再对谁满怀期待",
+      "translation": null
+    },
+    {
+      "time": 198.895,
+      "time_str": "03:18.895",
+      "text": "我知道 这个世界",
+      "translation": null
+    },
+    {
+      "time": 202.598,
+      "time_str": "03:22.598",
+      "text": "每天都有太多遗憾",
+      "translation": null
+    },
+    {
+      "time": 206.153,
+      "time_str": "03:26.153",
+      "text": "所以你好 再见",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "安和桥 - 宋冬野.lrc"
+}

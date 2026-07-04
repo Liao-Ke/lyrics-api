@@ -1,0 +1,430 @@
+{
+  "title": "双刀",
+  "title_raw": "双刀",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "双刀|周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 48.78,
+      "time_str": "00:48.780",
+      "text": "透过镜头重新接剪历史",
+      "translation": null
+    },
+    {
+      "time": 51.53,
+      "time_str": "00:51.530",
+      "text": "给人的想像",
+      "translation": null
+    },
+    {
+      "time": 53.33,
+      "time_str": "00:53.330",
+      "text": "八厘米纪录片的桥段",
+      "translation": null
+    },
+    {
+      "time": 55.88,
+      "time_str": "00:55.880",
+      "text": "隔着距离欣赏",
+      "translation": null
+    },
+    {
+      "time": 57.93,
+      "time_str": "00:57.930",
+      "text": "正邪对立的两方我握紧拳头",
+      "translation": null
+    },
+    {
+      "time": 61.38,
+      "time_str": "01:01.380",
+      "text": "开始习惯",
+      "translation": null
+    },
+    {
+      "time": 63.73,
+      "time_str": "01:03.730",
+      "text": "以牙还牙的手段",
+      "translation": null
+    },
+    {
+      "time": 66.93,
+      "time_str": "01:06.930",
+      "text": "风盘旋烟雾弥漫",
+      "translation": null
+    },
+    {
+      "time": 74.08,
+      "time_str": "01:14.080",
+      "text": "我虔诚点的香",
+      "translation": null
+    },
+    {
+      "time": 78.68,
+      "time_str": "01:18.680",
+      "text": "在祈祷着平安",
+      "translation": null
+    },
+    {
+      "time": 85.75,
+      "time_str": "01:25.750",
+      "text": "从天台向下俯瞰",
+      "translation": null
+    },
+    {
+      "time": 87.6,
+      "time_str": "01:27.600",
+      "text": "暴力在原地打转",
+      "translation": null
+    },
+    {
+      "time": 90.2,
+      "time_str": "01:30.200",
+      "text": "上一代解决的答案",
+      "translation": null
+    },
+    {
+      "time": 92.51,
+      "time_str": "01:32.510",
+      "text": "是微笑不抵抗",
+      "translation": null
+    },
+    {
+      "time": 94.91,
+      "time_str": "01:34.910",
+      "text": "被雨淋湿的唐装",
+      "translation": null
+    },
+    {
+      "time": 96.91,
+      "time_str": "01:36.910",
+      "text": "那股叹息很东方",
+      "translation": null
+    },
+    {
+      "time": 99.54,
+      "time_str": "01:39.540",
+      "text": "我看不惯尊严",
+      "translation": null
+    },
+    {
+      "time": 101.09,
+      "time_str": "01:41.090",
+      "text": "受伤家族如此不堪",
+      "translation": null
+    },
+    {
+      "time": 113.16,
+      "time_str": "01:53.160",
+      "text": "风",
+      "translation": null
+    },
+    {
+      "time": 115.71,
+      "time_str": "01:55.710",
+      "text": "缓缓绕过武馆",
+      "translation": null
+    },
+    {
+      "time": 120.26,
+      "time_str": "02:00.260",
+      "text": "正上方的月亮",
+      "translation": null
+    },
+    {
+      "time": 124.91,
+      "time_str": "02:04.910",
+      "text": "那颜色中国黄",
+      "translation": null
+    },
+    {
+      "time": 131.94,
+      "time_str": "02:11.940",
+      "text": "透过透过镜头重新接剪",
+      "translation": null
+    },
+    {
+      "time": 134.39,
+      "time_str": "02:14.390",
+      "text": "历史给人的想像",
+      "translation": null
+    },
+    {
+      "time": 135.94,
+      "time_str": "02:15.940",
+      "text": "八厘米纪录片的桥段在播放",
+      "translation": null
+    },
+    {
+      "time": 138.24,
+      "time_str": "02:18.240",
+      "text": "隔着距离欣赏",
+      "translation": null
+    },
+    {
+      "time": 139.54,
+      "time_str": "02:19.540",
+      "text": "正邪对立的两方",
+      "translation": null
+    },
+    {
+      "time": 141.59,
+      "time_str": "02:21.590",
+      "text": "我握紧拳头开始习惯",
+      "translation": null
+    },
+    {
+      "time": 143.87,
+      "time_str": "02:23.870",
+      "text": "那以牙还牙的手段",
+      "translation": null
+    },
+    {
+      "time": 146.37,
+      "time_str": "02:26.370",
+      "text": "恐惧来自退让",
+      "translation": null
+    },
+    {
+      "time": 182.64,
+      "time_str": "03:02.640",
+      "text": "从天台向下俯瞰",
+      "translation": null
+    },
+    {
+      "time": 184.54,
+      "time_str": "03:04.540",
+      "text": "暴力在原地打转",
+      "translation": null
+    },
+    {
+      "time": 187.09,
+      "time_str": "03:07.090",
+      "text": "上一代解决的答案",
+      "translation": null
+    },
+    {
+      "time": 189.44,
+      "time_str": "03:09.440",
+      "text": "是微笑不抵抗",
+      "translation": null
+    },
+    {
+      "time": 191.84,
+      "time_str": "03:11.840",
+      "text": "被雨淋湿的唐装",
+      "translation": null
+    },
+    {
+      "time": 193.79,
+      "time_str": "03:13.790",
+      "text": "那股叹息很东方",
+      "translation": null
+    },
+    {
+      "time": 196.44,
+      "time_str": "03:16.440",
+      "text": "我看不惯尊严",
+      "translation": null
+    },
+    {
+      "time": 198.09,
+      "time_str": "03:18.090",
+      "text": "受伤家族如此不堪",
+      "translation": null
+    },
+    {
+      "time": 221.92,
+      "time_str": "03:41.920",
+      "text": "从天台向下俯瞰",
+      "translation": null
+    },
+    {
+      "time": 223.72,
+      "time_str": "03:43.720",
+      "text": "暴力在原地打转",
+      "translation": null
+    },
+    {
+      "time": 226.37,
+      "time_str": "03:46.370",
+      "text": "上一代解决的答案",
+      "translation": null
+    },
+    {
+      "time": 228.67,
+      "time_str": "03:48.670",
+      "text": "是微笑不抵抗",
+      "translation": null
+    },
+    {
+      "time": 231.07,
+      "time_str": "03:51.070",
+      "text": "被雨淋湿的唐装",
+      "translation": null
+    },
+    {
+      "time": 232.98,
+      "time_str": "03:52.980",
+      "text": "那股叹息很东方",
+      "translation": null
+    },
+    {
+      "time": 235.58,
+      "time_str": "03:55.580",
+      "text": "我看不惯尊严",
+      "translation": null
+    },
+    {
+      "time": 237.28,
+      "time_str": "03:57.280",
+      "text": "受伤家族如此不堪",
+      "translation": null
+    },
+    {
+      "time": 239.77,
+      "time_str": "03:59.770",
+      "text": "双刀的正前方",
+      "translation": null
+    },
+    {
+      "time": 241.07,
+      "time_str": "04:01.070",
+      "text": "我杀气不转弯",
+      "translation": null
+    },
+    {
+      "time": 242.27,
+      "time_str": "04:02.270",
+      "text": "背对我的力量",
+      "translation": null
+    },
+    {
+      "time": 243.37,
+      "time_str": "04:03.370",
+      "text": "它自己却受伤",
+      "translation": null
+    },
+    {
+      "time": 244.62,
+      "time_str": "04:04.620",
+      "text": "双刀的右下方",
+      "translation": null
+    },
+    {
+      "time": 245.67,
+      "time_str": "04:05.670",
+      "text": "我挥刀去了断",
+      "translation": null
+    },
+    {
+      "time": 246.67,
+      "time_str": "04:06.670",
+      "text": "将恩怨全看穿",
+      "translation": null
+    },
+    {
+      "time": 247.97,
+      "time_str": "04:07.970",
+      "text": "丹凤眼的目光",
+      "translation": null
+    },
+    {
+      "time": 249.17,
+      "time_str": "04:09.170",
+      "text": "双刀的正前方",
+      "translation": null
+    },
+    {
+      "time": 250.22,
+      "time_str": "04:10.220",
+      "text": "我杀气不转弯",
+      "translation": null
+    },
+    {
+      "time": 251.37,
+      "time_str": "04:11.370",
+      "text": "背对我的力量",
+      "translation": null
+    },
+    {
+      "time": 252.47,
+      "time_str": "04:12.470",
+      "text": "它自己却受伤",
+      "translation": null
+    },
+    {
+      "time": 253.62,
+      "time_str": "04:13.620",
+      "text": "双刀的右下方",
+      "translation": null
+    },
+    {
+      "time": 254.72,
+      "time_str": "04:14.720",
+      "text": "我挥刀去了断",
+      "translation": null
+    },
+    {
+      "time": 255.92,
+      "time_str": "04:15.920",
+      "text": "将恩怨全看穿",
+      "translation": null
+    },
+    {
+      "time": 257.07,
+      "time_str": "04:17.070",
+      "text": "丹凤眼的目光",
+      "translation": null
+    },
+    {
+      "time": 280.817,
+      "time_str": "04:40.817",
+      "text": "Scratch：郭正男、江尚谕",
+      "translation": null
+    },
+    {
+      "time": 281.456,
+      "time_str": "04:41.456",
+      "text": "Violin：毛新光、曹飞、张安祥、李明",
+      "translation": null
+    },
+    {
+      "time": 281.667,
+      "time_str": "04:41.667",
+      "text": "Cello：关大伟、黄远泽、郭筱姮、刘宇冬",
+      "translation": null
+    },
+    {
+      "time": 281.907,
+      "time_str": "04:41.907",
+      "text": "Bass：勋士岐、曹辉",
+      "translation": null
+    },
+    {
+      "time": 282.146,
+      "time_str": "04:42.146",
+      "text": "四重奏：1st 陈允 2nd 曾诚 Viola 毛新光 Cello 关大伟",
+      "translation": null
+    },
+    {
+      "time": 282.861,
+      "time_str": "04:42.861",
+      "text": "弦乐编写助理：萧良悌(台北)、杨波(北京)",
+      "translation": null
+    },
+    {
+      "time": 283.748,
+      "time_str": "04:43.748",
+      "text": "混音助理：刘勇志",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "双刀 - 周杰伦.lrc"
+}

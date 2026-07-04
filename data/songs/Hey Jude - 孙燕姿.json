@@ -1,0 +1,220 @@
+{
+  "title": "Hey Jude",
+  "title_raw": "Hey Jude",
+  "version": null,
+  "artist": "孙燕姿",
+  "group_key": "hey jude|孙燕姿",
+  "writers": {
+    "lyricist": "John Lennon/Paul McCartney",
+    "composer": "John Lennon/Paul McCartney",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "孙燕姿 - Hey Jude",
+      "translation": null
+    },
+    {
+      "time": 7.26,
+      "time_str": "00:07.260",
+      "text": "Hey jude  don't make it bad",
+      "translation": "嘿 Jude 别再沮丧了"
+    },
+    {
+      "time": 12.22,
+      "time_str": "00:12.220",
+      "text": "Take a sad song  and make it better",
+      "translation": "唱一首悲伤的歌让一切好起来吧"
+    },
+    {
+      "time": 19.3,
+      "time_str": "00:19.300",
+      "text": "Remember  to let her into your heart",
+      "translation": "记得让她进入你的心房"
+    },
+    {
+      "time": 24.34,
+      "time_str": "00:24.340",
+      "text": "Then you can start  to make it better",
+      "translation": "让一切开始变好"
+    },
+    {
+      "time": 31.68,
+      "time_str": "00:31.680",
+      "text": "Hey jude don't be afraid",
+      "translation": "嘿 Jude 别害怕"
+    },
+    {
+      "time": 38.11,
+      "time_str": "00:38.110",
+      "text": "You were made to  go out and get her",
+      "translation": "你生来就要得到她"
+    },
+    {
+      "time": 42.83,
+      "time_str": "00:42.830",
+      "text": "The minute  you let her under your skin",
+      "translation": "当你与她相爱时"
+    },
+    {
+      "time": 50.35,
+      "time_str": "00:50.350",
+      "text": "Then  you begin  to make it better",
+      "translation": "一切开始变得更好了"
+    },
+    {
+      "time": 57.29,
+      "time_str": "00:57.290",
+      "text": "And  anytime you feel the pain  hey jude refrain",
+      "translation": "无论何时当你感到痛苦 嘿 Jude 坚持一下"
+    },
+    {
+      "time": 65.73,
+      "time_str": "01:05.730",
+      "text": "Don't carry the world  upon your shoulders",
+      "translation": "别把一切扛在肩上"
+    },
+    {
+      "time": 75.26,
+      "time_str": "01:15.260",
+      "text": "For well you know that it's a fool  who plays it cool",
+      "translation": "你知道装作漠不关心"
+    },
+    {
+      "time": 81.66,
+      "time_str": "01:21.660",
+      "text": "By making his world  a little  colder",
+      "translation": "故作坚强是愚蠢的"
+    },
+    {
+      "time": 90.0,
+      "time_str": "01:30.000",
+      "text": "Na na  na na  na na na  na",
+      "translation": "呐 呐 呐 呐 呐 呐 呐 呐"
+    },
+    {
+      "time": 98.13,
+      "time_str": "01:38.130",
+      "text": "Hey jude  don't let me down",
+      "translation": "嘿 Jude 别让我失望"
+    },
+    {
+      "time": 104.63,
+      "time_str": "01:44.630",
+      "text": "You have found her  now go and get her",
+      "translation": "现在 爱你所爱"
+    },
+    {
+      "time": 111.78,
+      "time_str": "01:51.780",
+      "text": "Remember  to let her into your heart",
+      "translation": "记得让她进入你的心房"
+    },
+    {
+      "time": 116.85,
+      "time_str": "01:56.850",
+      "text": "Then you can start  to make it  better",
+      "translation": "让一切开始变好"
+    },
+    {
+      "time": 125.47,
+      "time_str": "02:05.470",
+      "text": "So let it out and let it in  hey jude begin",
+      "translation": "所以让往事不再重提 嘿Jude 让一切继续吧"
+    },
+    {
+      "time": 132.22,
+      "time_str": "02:12.220",
+      "text": "You're waiting for someone to  perform  with",
+      "translation": "你在等待谁去邀你共舞呢"
+    },
+    {
+      "time": 141.93,
+      "time_str": "02:21.930",
+      "text": "And don't you know that it's just you hey jude you'll do",
+      "translation": "你知道吗 Jude 你自己可以的"
+    },
+    {
+      "time": 144.31,
+      "time_str": "02:24.310",
+      "text": "The movement you need is on your shoulder",
+      "translation": "你已经在路上了"
+    },
+    {
+      "time": 145.12,
+      "time_str": "02:25.120",
+      "text": "Na na na na na na na na",
+      "translation": "呐 呐 呐 呐 呐 呐 呐 呐"
+    },
+    {
+      "time": 145.6,
+      "time_str": "02:25.600",
+      "text": "Hey jude  don't  make it bad",
+      "translation": "嘿 Jude 别再沮丧了"
+    },
+    {
+      "time": 171.12,
+      "time_str": "02:51.120",
+      "text": "Take a sad song  and make it better",
+      "translation": "唱一首悲伤的歌让一切好起来吧"
+    },
+    {
+      "time": 178.26,
+      "time_str": "02:58.260",
+      "text": "Remember  to let her under your skin",
+      "translation": "记得永远爱她"
+    },
+    {
+      "time": 183.34,
+      "time_str": "03:03.340",
+      "text": "Then you'll begin  to make it",
+      "translation": "让一切好起来吧"
+    },
+    {
+      "time": 187.85,
+      "time_str": "03:07.850",
+      "text": "Better better better better better  better  oh",
+      "translation": "让一切好起来吧 好起来吧"
+    },
+    {
+      "time": 196.32,
+      "time_str": "03:16.320",
+      "text": "Na na  na na na  na na na  hey jude",
+      "translation": "呐 呐 呐 呐 呐 呐 呐 呐 嘿Jude"
+    },
+    {
+      "time": 207.63,
+      "time_str": "03:27.630",
+      "text": "Na na na na na  na na na  hey  jude",
+      "translation": "呐 呐 呐 呐 呐 呐 呐 呐 嘿Jude"
+    },
+    {
+      "time": 220.62,
+      "time_str": "03:40.620",
+      "text": "Na  na  na na na  na na  na  hey jude",
+      "translation": "呐 呐 呐 呐 呐 呐 呐 呐 嘿Jude"
+    },
+    {
+      "time": 233.64,
+      "time_str": "03:53.640",
+      "text": "Na  na  na na  na  na  na na  hey jude",
+      "translation": "呐 呐 呐 呐 呐 呐 呐 呐 嘿Jude"
+    },
+    {
+      "time": 247.07,
+      "time_str": "04:07.070",
+      "text": "Na  na  na na na  na  na na  hey  jude",
+      "translation": "呐 呐 呐 呐 呐 呐 呐 呐 嘿Jude"
+    },
+    {
+      "time": 259.47,
+      "time_str": "04:19.470",
+      "text": "Na na na na na  na na na  hey  jude",
+      "translation": "呐 呐 呐 呐 呐 呐 呐 呐 嘿Jude"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Hey Jude - 孙燕姿.lrc"
+}

@@ -1,0 +1,172 @@
+{
+  "title": "情感的禁区",
+  "title_raw": "情感的禁区",
+  "version": null,
+  "artist": "刘德华",
+  "group_key": "情感的禁区|刘德华",
+  "writers": {
+    "lyricist": "陈浩贤",
+    "composer": "天野滋",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 28.8,
+      "time_str": "00:28.800",
+      "text": "街中飘雨车蓬半开我身湿透水",
+      "translation": null
+    },
+    {
+      "time": 34.799,
+      "time_str": "00:34.799",
+      "text": "独自飞驰追忆挥不去忧虑",
+      "translation": null
+    },
+    {
+      "time": 40.799,
+      "time_str": "00:40.799",
+      "text": "当天的我不曾爱惜你痴心暗许",
+      "translation": null
+    },
+    {
+      "time": 45.799,
+      "time_str": "00:45.799",
+      "text": "常令你独垂泪 弄得爱路极崎岖",
+      "translation": null
+    },
+    {
+      "time": 52.799,
+      "time_str": "00:52.799",
+      "text": "今天的你已跟他去 心已被窃取",
+      "translation": null
+    },
+    {
+      "time": 58.799,
+      "time_str": "00:58.799",
+      "text": "孤单的我只有叹唏嘘",
+      "translation": null
+    },
+    {
+      "time": 62.799,
+      "time_str": "01:02.799",
+      "text": "踏快车 雨中追 但愿停车跟你聚",
+      "translation": null
+    },
+    {
+      "time": 68.799,
+      "time_str": "01:08.799",
+      "text": "但我知 你的心 尽是情感的禁区",
+      "translation": null
+    },
+    {
+      "time": 88.799,
+      "time_str": "01:28.799",
+      "text": "街灯映照车头撇湿满窗的雨水",
+      "translation": null
+    },
+    {
+      "time": 96.799,
+      "time_str": "01:36.799",
+      "text": "就象我心头抑郁心中满苦泪",
+      "translation": null
+    },
+    {
+      "time": 98.799,
+      "time_str": "01:38.799",
+      "text": "车厢中我心神更加仿佛空虚",
+      "translation": null
+    },
+    {
+      "time": 107.799,
+      "time_str": "01:47.799",
+      "text": "连夜我未能睡 内心悔恨如有罪",
+      "translation": null
+    },
+    {
+      "time": 114.799,
+      "time_str": "01:54.799",
+      "text": "当天的你已消失去 心若冷水",
+      "translation": null
+    },
+    {
+      "time": 119.799,
+      "time_str": "01:59.799",
+      "text": "今天的我只有叹唏嘘",
+      "translation": null
+    },
+    {
+      "time": 124.799,
+      "time_str": "02:04.799",
+      "text": "愿你知 我空虚 但愿重新跟你聚",
+      "translation": null
+    },
+    {
+      "time": 130.8,
+      "time_str": "02:10.800",
+      "text": "但我知 你的心 尽是情感的禁区",
+      "translation": null
+    },
+    {
+      "time": 138.8,
+      "time_str": "02:18.800",
+      "text": "今天的你已跟他去 心已被窃取",
+      "translation": null
+    },
+    {
+      "time": 144.8,
+      "time_str": "02:24.800",
+      "text": "孤单的我只有叹唏嘘",
+      "translation": null
+    },
+    {
+      "time": 149.8,
+      "time_str": "02:29.800",
+      "text": "踏快车 雨中追 但愿停车跟你聚",
+      "translation": null
+    },
+    {
+      "time": 156.8,
+      "time_str": "02:36.800",
+      "text": "但我知 你的心 尽是情感的禁区",
+      "translation": null
+    },
+    {
+      "time": 161.8,
+      "time_str": "02:41.800",
+      "text": "愿你知 我空虚 但愿重新跟你聚",
+      "translation": null
+    },
+    {
+      "time": 165.8,
+      "time_str": "02:45.800",
+      "text": "但我知 你的心 尽是情感的禁区",
+      "translation": null
+    },
+    {
+      "time": 187.8,
+      "time_str": "03:07.800",
+      "text": "踏快车 雨中追 但愿停车跟你聚",
+      "translation": null
+    },
+    {
+      "time": 193.8,
+      "time_str": "03:13.800",
+      "text": "但我知 你的心 尽是情感的禁区",
+      "translation": null
+    },
+    {
+      "time": 199.8,
+      "time_str": "03:19.800",
+      "text": "愿你知 我空虚 但愿重新跟你聚",
+      "translation": null
+    },
+    {
+      "time": 205.8,
+      "time_str": "03:25.800",
+      "text": "但我知 你的心 尽是情感的禁区",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情感的禁区 - 刘德华.lrc"
+}

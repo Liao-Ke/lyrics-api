@@ -1,0 +1,142 @@
+{
+  "title": "弥渡山歌",
+  "title_raw": "弥渡山歌",
+  "version": null,
+  "artist": "苏云",
+  "group_key": "弥渡山歌|苏云",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 41.12,
+      "time_str": "00:41.120",
+      "text": "咿哪山对山来崖对崖",
+      "translation": null
+    },
+    {
+      "time": 48.87,
+      "time_str": "00:48.870",
+      "text": "蜜蜂采花深山里来",
+      "translation": null
+    },
+    {
+      "time": 51.56,
+      "time_str": "00:51.560",
+      "text": "蜜蜂本为采花死",
+      "translation": null
+    },
+    {
+      "time": 54.13,
+      "time_str": "00:54.130",
+      "text": "梁山伯为祝英台",
+      "translation": null
+    },
+    {
+      "time": 62.28,
+      "time_str": "01:02.280",
+      "text": "咿哪梁山伯为祝英台",
+      "translation": null
+    },
+    {
+      "time": 75.61,
+      "time_str": "01:15.610",
+      "text": "咿哪山对山来崖对崖",
+      "translation": null
+    },
+    {
+      "time": 83.43,
+      "time_str": "01:23.430",
+      "text": "小河隔着过不尼来",
+      "translation": null
+    },
+    {
+      "time": 86.06,
+      "time_str": "01:26.060",
+      "text": "哥抬石头妹兜土",
+      "translation": null
+    },
+    {
+      "time": 88.64,
+      "time_str": "01:28.640",
+      "text": "花桥造起走过尼来",
+      "translation": null
+    },
+    {
+      "time": 96.81,
+      "time_str": "01:36.810",
+      "text": "咿哪花桥造起走过尼来",
+      "translation": null
+    },
+    {
+      "time": 131.28,
+      "time_str": "02:11.280",
+      "text": "咿哪山对山来崖对崖",
+      "translation": null
+    },
+    {
+      "time": 139.07,
+      "time_str": "02:19.070",
+      "text": "蜜蜂采花深山里来",
+      "translation": null
+    },
+    {
+      "time": 141.75,
+      "time_str": "02:21.750",
+      "text": "蜜蜂本为采花死",
+      "translation": null
+    },
+    {
+      "time": 144.37,
+      "time_str": "02:24.370",
+      "text": "梁山伯为祝英台",
+      "translation": null
+    },
+    {
+      "time": 152.54,
+      "time_str": "02:32.540",
+      "text": "咿哪梁山伯为祝英台",
+      "translation": null
+    },
+    {
+      "time": 165.79,
+      "time_str": "02:45.790",
+      "text": "咿哪山对山来崖对崖",
+      "translation": null
+    },
+    {
+      "time": 173.58,
+      "time_str": "02:53.580",
+      "text": "小河隔着过不尼来",
+      "translation": null
+    },
+    {
+      "time": 176.29,
+      "time_str": "02:56.290",
+      "text": "哥抬石头妹兜土",
+      "translation": null
+    },
+    {
+      "time": 178.87,
+      "time_str": "02:58.870",
+      "text": "花桥造起走过尼来",
+      "translation": null
+    },
+    {
+      "time": 187.08,
+      "time_str": "03:07.080",
+      "text": "咿哪梁山伯为祝英台",
+      "translation": null
+    },
+    {
+      "time": 195.02,
+      "time_str": "03:15.020",
+      "text": "哎....",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "弥渡山歌 - 苏云.lrc"
+}

@@ -1,0 +1,322 @@
+{
+  "title": "在他乡",
+  "title_raw": "在他乡（翻唱）",
+  "version": "翻唱",
+  "artist": "战国摇滚,小鸟学摇滚",
+  "group_key": "在他乡|战国摇滚,小鸟学摇滚",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.09,
+      "time_str": "00:01.090",
+      "text": "在他乡",
+      "translation": null
+    },
+    {
+      "time": 1.33,
+      "time_str": "00:01.330",
+      "text": "翻唱：战国摇滚/小鸟学摇滚",
+      "translation": null
+    },
+    {
+      "time": 1.61,
+      "time_str": "00:01.610",
+      "text": "我多想回到家乡",
+      "translation": null
+    },
+    {
+      "time": 3.64,
+      "time_str": "00:03.640",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 6.17,
+      "time_str": "00:06.170",
+      "text": "看她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 8.76,
+      "time_str": "00:08.760",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 11.32,
+      "time_str": "00:11.320",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 13.9,
+      "time_str": "00:13.900",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 16.43,
+      "time_str": "00:16.430",
+      "text": "让她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 18.95,
+      "time_str": "00:18.950",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 25.4,
+      "time_str": "00:25.400",
+      "text": "那年你踏上暮色他乡",
+      "translation": null
+    },
+    {
+      "time": 30.27,
+      "time_str": "00:30.270",
+      "text": "你以为那里有你的理想",
+      "translation": null
+    },
+    {
+      "time": 35.5,
+      "time_str": "00:35.500",
+      "text": "你看着周围陌生目光",
+      "translation": null
+    },
+    {
+      "time": 40.55,
+      "time_str": "00:40.550",
+      "text": "清晨醒来却没人在身旁",
+      "translation": null
+    },
+    {
+      "time": 46.15,
+      "time_str": "00:46.150",
+      "text": "人静的雨夜想起了她",
+      "translation": null
+    },
+    {
+      "time": 51.29,
+      "time_str": "00:51.290",
+      "text": "她的挽留还萦绕耳旁",
+      "translation": null
+    },
+    {
+      "time": 56.37,
+      "time_str": "00:56.370",
+      "text": "想起离别她带泪的脸庞",
+      "translation": null
+    },
+    {
+      "time": 61.38,
+      "time_str": "01:01.380",
+      "text": "你忍不住的哭出声响",
+      "translation": null
+    },
+    {
+      "time": 65.35,
+      "time_str": "01:05.350",
+      "text": "我多想回到家乡",
+      "translation": null
+    },
+    {
+      "time": 67.77,
+      "time_str": "01:07.770",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 70.4,
+      "time_str": "01:10.400",
+      "text": "看她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 72.88,
+      "time_str": "01:12.880",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 75.48,
+      "time_str": "01:15.480",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 78.09,
+      "time_str": "01:18.090",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 80.66,
+      "time_str": "01:20.660",
+      "text": "让她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 83.24,
+      "time_str": "01:23.240",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 107.59,
+      "time_str": "01:47.590",
+      "text": "那年你一人迷失他乡",
+      "translation": null
+    },
+    {
+      "time": 112.56,
+      "time_str": "01:52.560",
+      "text": "你想的未来还不见模样",
+      "translation": null
+    },
+    {
+      "time": 117.67,
+      "time_str": "01:57.670",
+      "text": "你看着那些冷漠目光",
+      "translation": null
+    },
+    {
+      "time": 122.74,
+      "time_str": "02:02.740",
+      "text": "不知道这条路还有多长",
+      "translation": null
+    },
+    {
+      "time": 128.39,
+      "time_str": "02:08.390",
+      "text": "人静的雨夜想起了她",
+      "translation": null
+    },
+    {
+      "time": 133.35,
+      "time_str": "02:13.350",
+      "text": "她的挽留还萦绕耳旁",
+      "translation": null
+    },
+    {
+      "time": 138.58,
+      "time_str": "02:18.580",
+      "text": "想起离别她带泪的脸庞",
+      "translation": null
+    },
+    {
+      "time": 143.67,
+      "time_str": "02:23.670",
+      "text": "你忍不住的哭出声响",
+      "translation": null
+    },
+    {
+      "time": 147.65,
+      "time_str": "02:27.65",
+      "text": "我多想回到家乡",
+      "translation": null
+    },
+    {
+      "time": 150.02,
+      "time_str": "02:30.02",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 152.65,
+      "time_str": "02:32.65",
+      "text": "看她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 155.19,
+      "time_str": "02:35.19",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 157.8,
+      "time_str": "02:37.80",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 160.37,
+      "time_str": "02:40.37",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 162.94,
+      "time_str": "02:42.94",
+      "text": "让她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 165.49,
+      "time_str": "02:45.49",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 170.72,
+      "time_str": "02:50.720",
+      "text": "我多想回到家乡",
+      "translation": null
+    },
+    {
+      "time": 173.22,
+      "time_str": "02:53.220",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 175.81,
+      "time_str": "02:55.810",
+      "text": "看她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 178.33,
+      "time_str": "02:58.330",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 180.89,
+      "time_str": "03:00.890",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 183.52,
+      "time_str": "03:03.520",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 186.03,
+      "time_str": "03:06.030",
+      "text": "让她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 188.6,
+      "time_str": "03:08.600",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 194.25,
+      "time_str": "03:14.250",
+      "text": "那一夜 那一夜 那一夜",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "在他乡（翻唱） - 战国摇滚,小鸟学摇滚.lrc"
+}

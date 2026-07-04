@@ -1,0 +1,196 @@
+{
+  "title": "太多",
+  "title_raw": "太多",
+  "version": null,
+  "artist": "陈冠蒲",
+  "group_key": "太多|陈冠蒲",
+  "writers": {
+    "lyricist": "李岩修",
+    "composer": "徐嘉良",
+    "arranger": "徐嘉良"
+  },
+  "lyrics": [
+    {
+      "time": 23.08,
+      "time_str": "00:23.080",
+      "text": "将爱情肆无忌惮的挥霍",
+      "translation": null
+    },
+    {
+      "time": 25.67,
+      "time_str": "00:25.670",
+      "text": "心都碎了 还要计较些什么",
+      "translation": null
+    },
+    {
+      "time": 30.69,
+      "time_str": "00:30.690",
+      "text": "无论你想要什么 都让你带走",
+      "translation": null
+    },
+    {
+      "time": 40.02,
+      "time_str": "00:40.020",
+      "text": "如果你觉得自由是快乐",
+      "translation": null
+    },
+    {
+      "time": 45.34,
+      "time_str": "00:45.340",
+      "text": "爱是犯了软弱成就的差错",
+      "translation": null
+    },
+    {
+      "time": 49.65,
+      "time_str": "00:49.650",
+      "text": "又何必在乎别人怎么看 怎么说",
+      "translation": null
+    },
+    {
+      "time": 58.38,
+      "time_str": "00:58.380",
+      "text": "太多的借口 太多的理由",
+      "translation": null
+    },
+    {
+      "time": 63.04,
+      "time_str": "01:03.040",
+      "text": "为了爱情 我也背叛了所有",
+      "translation": null
+    },
+    {
+      "time": 67.96,
+      "time_str": "01:07.960",
+      "text": "如果你想离开我 就别再畏畏缩缩",
+      "translation": null
+    },
+    {
+      "time": 76.28,
+      "time_str": "01:16.280",
+      "text": "太多的借口 太多的理由",
+      "translation": null
+    },
+    {
+      "time": 81.6,
+      "time_str": "01:21.600",
+      "text": "别再问我难过时候怎么过",
+      "translation": null
+    },
+    {
+      "time": 86.67,
+      "time_str": "01:26.670",
+      "text": "或许会好好地活 或许会消失无踪",
+      "translation": null
+    },
+    {
+      "time": 94.97,
+      "time_str": "01:34.970",
+      "text": "你在乎什么",
+      "translation": null
+    },
+    {
+      "time": 119.76,
+      "time_str": "01:59.760",
+      "text": "如果你觉得自由是快乐",
+      "translation": null
+    },
+    {
+      "time": 123.62,
+      "time_str": "02:03.620",
+      "text": "爱是犯了软弱成就的差错",
+      "translation": null
+    },
+    {
+      "time": 128.33,
+      "time_str": "02:08.330",
+      "text": "又何必在乎别人怎么看 怎么说",
+      "translation": null
+    },
+    {
+      "time": 136.89,
+      "time_str": "02:16.890",
+      "text": "太多的借口 太多的理由",
+      "translation": null
+    },
+    {
+      "time": 141.61,
+      "time_str": "02:21.610",
+      "text": "为了爱情 我也背叛了所有",
+      "translation": null
+    },
+    {
+      "time": 146.64,
+      "time_str": "02:26.640",
+      "text": "如果你想离开我就别再畏畏缩缩",
+      "translation": null
+    },
+    {
+      "time": 155.21,
+      "time_str": "02:35.210",
+      "text": "太多的借口 太多的理由",
+      "translation": null
+    },
+    {
+      "time": 160.03,
+      "time_str": "02:40.030",
+      "text": "别再问我难过时候怎么过",
+      "translation": null
+    },
+    {
+      "time": 165.1,
+      "time_str": "02:45.100",
+      "text": "或许会好好地活 或许会消失无踪",
+      "translation": null
+    },
+    {
+      "time": 173.37,
+      "time_str": "02:53.370",
+      "text": "你在乎什么",
+      "translation": null
+    },
+    {
+      "time": 177.94,
+      "time_str": "02:57.940",
+      "text": "太多的借口 太多的理由",
+      "translation": null
+    },
+    {
+      "time": 183.01,
+      "time_str": "03:03.010",
+      "text": "为了爱情 我也背叛了所有",
+      "translation": null
+    },
+    {
+      "time": 188.18,
+      "time_str": "03:08.180",
+      "text": "如果你想离开我 就别再畏畏缩缩",
+      "translation": null
+    },
+    {
+      "time": 196.41,
+      "time_str": "03:16.410",
+      "text": "太多的借口 太多的理由",
+      "translation": null
+    },
+    {
+      "time": 201.59,
+      "time_str": "03:21.590",
+      "text": "别再问我难过时候怎么过",
+      "translation": null
+    },
+    {
+      "time": 206.45,
+      "time_str": "03:26.450",
+      "text": "或许会好好地活 或许会消失无踪",
+      "translation": null
+    },
+    {
+      "time": 215.33,
+      "time_str": "03:35.330",
+      "text": "你在乎什么",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "太多 - 陈冠蒲.lrc"
+}

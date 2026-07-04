@@ -1,0 +1,262 @@
+{
+  "title": "回忆里的那个人",
+  "title_raw": "回忆里的那个人",
+  "version": null,
+  "artist": "李行亮",
+  "group_key": "回忆里的那个人|李行亮",
+  "writers": {
+    "lyricist": "孙小丁",
+    "composer": "孙小丁",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 20.21,
+      "time_str": "00:20.210",
+      "text": "路灯下的恋人",
+      "translation": null
+    },
+    {
+      "time": 23.79,
+      "time_str": "00:23.790",
+      "text": "多像是曾经的我们",
+      "translation": null
+    },
+    {
+      "time": 28.04,
+      "time_str": "00:28.040",
+      "text": "深情拥抱亲吻",
+      "translation": null
+    },
+    {
+      "time": 32.01,
+      "time_str": "00:32.010",
+      "text": "爱的难舍又难分",
+      "translation": null
+    },
+    {
+      "time": 36.21,
+      "time_str": "00:36.210",
+      "text": "曾相爱的光阴",
+      "translation": null
+    },
+    {
+      "time": 39.94,
+      "time_str": "00:39.940",
+      "text": "全世界只有两个人",
+      "translation": null
+    },
+    {
+      "time": 44.26,
+      "time_str": "00:44.260",
+      "text": "为何一个转身",
+      "translation": null
+    },
+    {
+      "time": 48.33,
+      "time_str": "00:48.330",
+      "text": "就能变成陌路人",
+      "translation": null
+    },
+    {
+      "time": 52.1,
+      "time_str": "00:52.100",
+      "text": "藏在我回忆里的那个人",
+      "translation": null
+    },
+    {
+      "time": 56.74,
+      "time_str": "00:56.740",
+      "text": "愿你现在过得幸福安稳",
+      "translation": null
+    },
+    {
+      "time": 60.76,
+      "time_str": "01:00.760",
+      "text": "若再相遇人海黄昏",
+      "translation": null
+    },
+    {
+      "time": 64.48,
+      "time_str": "01:04.480",
+      "text": "你是否还记得我的眼神",
+      "translation": null
+    },
+    {
+      "time": 67.86,
+      "time_str": "01:07.860",
+      "text": "藏在我回忆里的那个人",
+      "translation": null
+    },
+    {
+      "time": 72.61,
+      "time_str": "01:12.610",
+      "text": "有你我的青春才算完整",
+      "translation": null
+    },
+    {
+      "time": 76.56,
+      "time_str": "01:16.560",
+      "text": "感谢曾经你的认真",
+      "translation": null
+    },
+    {
+      "time": 80.51,
+      "time_str": "01:20.510",
+      "text": "让我知道爱一个人会奋不顾身",
+      "translation": null
+    },
+    {
+      "time": 104.58,
+      "time_str": "01:44.580",
+      "text": "路灯下的恋人",
+      "translation": null
+    },
+    {
+      "time": 107.85,
+      "time_str": "01:47.850",
+      "text": "多像是曾经的我们",
+      "translation": null
+    },
+    {
+      "time": 112.03,
+      "time_str": "01:52.030",
+      "text": "深情拥抱亲吻",
+      "translation": null
+    },
+    {
+      "time": 115.98,
+      "time_str": "01:55.980",
+      "text": "爱的难舍又难分",
+      "translation": null
+    },
+    {
+      "time": 119.94,
+      "time_str": "01:59.940",
+      "text": "曾相爱的光阴",
+      "translation": null
+    },
+    {
+      "time": 123.85,
+      "time_str": "02:03.850",
+      "text": "全世界只有两个人",
+      "translation": null
+    },
+    {
+      "time": 128.08,
+      "time_str": "02:08.080",
+      "text": "为何一个转身",
+      "translation": null
+    },
+    {
+      "time": 131.77,
+      "time_str": "02:11.770",
+      "text": "就能变成陌路人",
+      "translation": null
+    },
+    {
+      "time": 135.91,
+      "time_str": "02:15.910",
+      "text": "藏在我回忆里的那个人",
+      "translation": null
+    },
+    {
+      "time": 140.57,
+      "time_str": "02:20.570",
+      "text": "愿你现在过得幸福安稳",
+      "translation": null
+    },
+    {
+      "time": 144.49,
+      "time_str": "02:24.490",
+      "text": "若再相遇人海黄昏",
+      "translation": null
+    },
+    {
+      "time": 148.46,
+      "time_str": "02:28.460",
+      "text": "你是否还记得我的眼神",
+      "translation": null
+    },
+    {
+      "time": 151.78,
+      "time_str": "02:31.780",
+      "text": "藏在我回忆里的那个人",
+      "translation": null
+    },
+    {
+      "time": 156.57,
+      "time_str": "02:36.570",
+      "text": "有你我的青春才算完整",
+      "translation": null
+    },
+    {
+      "time": 160.37,
+      "time_str": "02:40.370",
+      "text": "感谢曾经你的认真",
+      "translation": null
+    },
+    {
+      "time": 164.47,
+      "time_str": "02:44.470",
+      "text": "让我知道爱一个人会奋不顾身",
+      "translation": null
+    },
+    {
+      "time": 172.15,
+      "time_str": "02:52.150",
+      "text": "藏在我回忆里的那个人",
+      "translation": null
+    },
+    {
+      "time": 176.38,
+      "time_str": "02:56.380",
+      "text": "愿你现在过得幸福安稳",
+      "translation": null
+    },
+    {
+      "time": 180.26,
+      "time_str": "03:00.260",
+      "text": "若再相遇人海黄昏",
+      "translation": null
+    },
+    {
+      "time": 184.12,
+      "time_str": "03:04.120",
+      "text": "你是否还记得我的眼神",
+      "translation": null
+    },
+    {
+      "time": 187.69,
+      "time_str": "03:07.690",
+      "text": "藏在我回忆里的那个人",
+      "translation": null
+    },
+    {
+      "time": 192.29,
+      "time_str": "03:12.290",
+      "text": "有你我的青春才算完整",
+      "translation": null
+    },
+    {
+      "time": 196.21,
+      "time_str": "03:16.210",
+      "text": "感谢曾经你的认真",
+      "translation": null
+    },
+    {
+      "time": 200.2,
+      "time_str": "03:20.200",
+      "text": "让我知道爱一个人会奋不顾身",
+      "translation": null
+    },
+    {
+      "time": 208.31,
+      "time_str": "03:28.310",
+      "text": "让我知道爱一个人会奋不顾身",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "回忆里的那个人 - 李行亮.lrc"
+}

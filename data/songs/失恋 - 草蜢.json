@@ -1,0 +1,256 @@
+{
+  "title": "失恋",
+  "title_raw": "失恋",
+  "version": null,
+  "artist": "草蜢",
+  "group_key": "失恋|草蜢",
+  "writers": {
+    "lyricist": "潘伟源",
+    "composer": "Cha Tri Kong Suwan",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.72,
+      "time_str": "00:15.720",
+      "text": "将敌意将身份放低些吧",
+      "translation": null
+    },
+    {
+      "time": 19.41,
+      "time_str": "00:19.410",
+      "text": "今夜里应一起了解她",
+      "translation": null
+    },
+    {
+      "time": 23.02,
+      "time_str": "00:23.020",
+      "text": "失败过哪用怕即管说吧",
+      "translation": null
+    },
+    {
+      "time": 26.72,
+      "time_str": "00:26.720",
+      "text": "共于苦恋中找点潇洒",
+      "translation": null
+    },
+    {
+      "time": 30.26,
+      "time_str": "00:30.260",
+      "text": "深夜里将一起暗恋的她",
+      "translation": null
+    },
+    {
+      "time": 34.02,
+      "time_str": "00:34.020",
+      "text": "互倾诉不应关闭嘴巴",
+      "translation": null
+    },
+    {
+      "time": 37.59,
+      "time_str": "00:37.590",
+      "text": "遭遇也会近似将苦诉吧",
+      "translation": null
+    },
+    {
+      "time": 41.23,
+      "time_str": "00:41.230",
+      "text": "莫于孤清里自怜自挂",
+      "translation": null
+    },
+    {
+      "time": 44.7,
+      "time_str": "00:44.700",
+      "text": "象你这般深爱她",
+      "translation": null
+    },
+    {
+      "time": 46.64,
+      "time_str": "00:46.640",
+      "text": "心里只得一个她",
+      "translation": null
+    },
+    {
+      "time": 48.49,
+      "time_str": "00:48.490",
+      "text": "她偏却太傲气",
+      "translation": null
+    },
+    {
+      "time": 50.36,
+      "time_str": "00:50.360",
+      "text": "见面也不多说话",
+      "translation": null
+    },
+    {
+      "time": 52.16,
+      "time_str": "00:52.160",
+      "text": "要坦率分析",
+      "translation": null
+    },
+    {
+      "time": 53.94,
+      "time_str": "00:53.940",
+      "text": "为何没法得到她",
+      "translation": null
+    },
+    {
+      "time": 56.01,
+      "time_str": "00:56.010",
+      "text": "心里长留下旧创疤",
+      "translation": null
+    },
+    {
+      "time": 59.51,
+      "time_str": "00:59.510",
+      "text": "将阵线将思想也统一吧",
+      "translation": null
+    },
+    {
+      "time": 63.17,
+      "time_str": "01:03.170",
+      "text": "于今晚应一起探讨她",
+      "translation": null
+    },
+    {
+      "time": 66.77,
+      "time_str": "01:06.770",
+      "text": "假若有结论再一起爱吧",
+      "translation": null
+    },
+    {
+      "time": 70.39,
+      "time_str": "01:10.390",
+      "text": "莫于孤清里自怜自挂",
+      "translation": null
+    },
+    {
+      "time": 103.31,
+      "time_str": "01:43.310",
+      "text": "将敌意将身份放低些吧",
+      "translation": null
+    },
+    {
+      "time": 106.82,
+      "time_str": "01:46.820",
+      "text": "今夜里应一起了解她",
+      "translation": null
+    },
+    {
+      "time": 110.44,
+      "time_str": "01:50.440",
+      "text": "失败过哪用怕即管说吧",
+      "translation": null
+    },
+    {
+      "time": 114.08,
+      "time_str": "01:54.080",
+      "text": "共于苦恋中找点潇洒",
+      "translation": null
+    },
+    {
+      "time": 117.65,
+      "time_str": "01:57.650",
+      "text": "深夜里将一起暗恋的她",
+      "translation": null
+    },
+    {
+      "time": 121.39,
+      "time_str": "02:01.390",
+      "text": "互倾诉不应关闭嘴巴",
+      "translation": null
+    },
+    {
+      "time": 124.95,
+      "time_str": "02:04.950",
+      "text": "遭遇也会近似将苦诉吧",
+      "translation": null
+    },
+    {
+      "time": 128.62,
+      "time_str": "02:08.620",
+      "text": "莫于孤清里自怜自挂",
+      "translation": null
+    },
+    {
+      "time": 132.09,
+      "time_str": "02:12.090",
+      "text": "象你这般深爱她",
+      "translation": null
+    },
+    {
+      "time": 134.04,
+      "time_str": "02:14.040",
+      "text": "心里只得一个她",
+      "translation": null
+    },
+    {
+      "time": 135.87,
+      "time_str": "02:15.870",
+      "text": "她偏却太傲气",
+      "translation": null
+    },
+    {
+      "time": 137.7,
+      "time_str": "02:17.700",
+      "text": "见面也不多说话",
+      "translation": null
+    },
+    {
+      "time": 139.49,
+      "time_str": "02:19.490",
+      "text": "要坦率分析",
+      "translation": null
+    },
+    {
+      "time": 141.31,
+      "time_str": "02:21.310",
+      "text": "为何没法得到她",
+      "translation": null
+    },
+    {
+      "time": 143.42,
+      "time_str": "02:23.420",
+      "text": "心里长留下旧创疤",
+      "translation": null
+    },
+    {
+      "time": 146.91,
+      "time_str": "02:26.910",
+      "text": "将阵线将思想也统一吧",
+      "translation": null
+    },
+    {
+      "time": 150.5,
+      "time_str": "02:30.500",
+      "text": "于今晚应一起探讨她",
+      "translation": null
+    },
+    {
+      "time": 154.15,
+      "time_str": "02:34.150",
+      "text": "假若有结论再一起爱吧",
+      "translation": null
+    },
+    {
+      "time": 157.76,
+      "time_str": "02:37.760",
+      "text": "莫于孤清里自怜自挂",
+      "translation": null
+    },
+    {
+      "time": 161.4,
+      "time_str": "02:41.400",
+      "text": "莫于孤清里自怜自挂",
+      "translation": null
+    },
+    {
+      "time": 165.07,
+      "time_str": "02:45.070",
+      "text": "莫于孤清里自怜自挂",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "失恋 - 草蜢.lrc"
+}

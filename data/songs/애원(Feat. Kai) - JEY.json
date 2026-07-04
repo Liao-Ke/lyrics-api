@@ -1,0 +1,346 @@
+{
+  "title": "애원",
+  "title_raw": "애원(Feat. Kai)",
+  "version": "Feat. Kai",
+  "artist": "JEY",
+  "group_key": "애원|jey",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.02,
+      "time_str": "00:09.020",
+      "text": "널 보내고 돌아서던 날",
+      "translation": "把你送走转头离去的那天"
+    },
+    {
+      "time": 14.72,
+      "time_str": "00:14.720",
+      "text": "그때 이미 난 죽었어",
+      "translation": "我已经死去"
+    },
+    {
+      "time": 20.42,
+      "time_str": "00:20.420",
+      "text": "넌 그렇게 날 원망하며",
+      "translation": "如果你怨恨我"
+    },
+    {
+      "time": 25.37,
+      "time_str": "00:25.370",
+      "text": "나를 다 잊어줘",
+      "translation": "请将我忘记"
+    },
+    {
+      "time": 30.52,
+      "time_str": "00:30.520",
+      "text": "너를 사랑해서 또 널 원해서",
+      "translation": "因为太爱你 也是为了你"
+    },
+    {
+      "time": 35.77,
+      "time_str": "00:35.770",
+      "text": "아직도 나 갈수 없어",
+      "translation": "我还无法去向别处"
+    },
+    {
+      "time": 41.02,
+      "time_str": "00:41.020",
+      "text": "너는 행복해줘",
+      "translation": "你一定要幸福"
+    },
+    {
+      "time": 44.02,
+      "time_str": "00:44.020",
+      "text": "내 몫까지도 살아줘",
+      "translation": "连同我的那份幸福地活着"
+    },
+    {
+      "time": 48.07,
+      "time_str": "00:48.070",
+      "text": "나 갈 수 있게",
+      "translation": "那我才能离开"
+    },
+    {
+      "time": 51.77,
+      "time_str": "00:51.770",
+      "text": "나의 사랑아",
+      "translation": "我的爱情啊"
+    },
+    {
+      "time": 54.47,
+      "time_str": "00:54.470",
+      "text": "우리 함께했던 추억만큼",
+      "translation": "我们一起渡过"
+    },
+    {
+      "time": 59.77,
+      "time_str": "00:59.770",
+      "text": "나를 미워하기를",
+      "translation": "对我的怨恨已融入回忆"
+    },
+    {
+      "time": 62.72,
+      "time_str": "01:02.720",
+      "text": "내 사람아",
+      "translation": "我的爱人啊"
+    },
+    {
+      "time": 65.17,
+      "time_str": "01:05.170",
+      "text": "나를 찾지말아 너를",
+      "translation": "别再寻找我"
+    },
+    {
+      "time": 69.08,
+      "time_str": "01:09.080",
+      "text": "또 버린 나를",
+      "translation": "我再次把你抛弃"
+    },
+    {
+      "time": 72.75,
+      "time_str": "01:12.750",
+      "text": "그래 너 그리고 나 함께",
+      "translation": "是的 你和我一起"
+    },
+    {
+      "time": 75.1,
+      "time_str": "01:15.100",
+      "text": "보낸 많은 시간아",
+      "translation": "渡过了漫长的时间"
+    },
+    {
+      "time": 76.4,
+      "time_str": "01:16.400",
+      "text": "다시 볼 수 없는",
+      "translation": "再也看不到的"
+    },
+    {
+      "time": 77.65,
+      "time_str": "01:17.650",
+      "text": "나만의 슬픈 사랑아",
+      "translation": "我那悲伤的爱啊"
+    },
+    {
+      "time": 79.2,
+      "time_str": "01:19.200",
+      "text": "그렇게 돌아서던",
+      "translation": "无法挽留"
+    },
+    {
+      "time": 80.4,
+      "time_str": "01:20.400",
+      "text": "널 잡지 못해서",
+      "translation": "回头的你"
+    },
+    {
+      "time": 81.75,
+      "time_str": "01:21.750",
+      "text": "이렇게 후회하는 나는 오늘도",
+      "translation": "我是那么地后悔 今天也是"
+    },
+    {
+      "time": 84.1,
+      "time_str": "01:24.100",
+      "text": "난 또 너와 함께 고르던",
+      "translation": "我和你一起分享的咖啡"
+    },
+    {
+      "time": 86.0,
+      "time_str": "01:26.000",
+      "text": "카페가 지금 내 눈 앞에",
+      "translation": "分享的咖啡"
+    },
+    {
+      "time": 87.6,
+      "time_str": "01:27.600",
+      "text": "나도 모르게 너를",
+      "translation": "现在就在眼前"
+    },
+    {
+      "time": 88.85,
+      "time_str": "01:28.850",
+      "text": "찾아 여기까지 와서 지쳐",
+      "translation": "我也不自禁地找寻着你"
+    },
+    {
+      "time": 90.71,
+      "time_str": "01:30.710",
+      "text": "고개를 숙여 울었어",
+      "translation": "走到这里 已经太累了只得低头哭泣"
+    },
+    {
+      "time": 92.16,
+      "time_str": "01:32.160",
+      "text": "다시 떠나간 날들속에",
+      "translation": "再次流逝的日子里"
+    },
+    {
+      "time": 93.61,
+      "time_str": "01:33.610",
+      "text": "너를 찾아 또 난",
+      "translation": "我依然在寻找着你"
+    },
+    {
+      "time": 94.51,
+      "time_str": "01:34.510",
+      "text": "너무 사랑해서 난 미안해서",
+      "translation": "因为太爱你 因为对不起"
+    },
+    {
+      "time": 99.76,
+      "time_str": "01:39.760",
+      "text": "이렇게 또 가지못해",
+      "translation": "又无法再离去"
+    },
+    {
+      "time": 105.02,
+      "time_str": "01:45.020",
+      "text": "다른 사람만나 꼭 행복하길",
+      "translation": "请一定遇到另一个人"
+    },
+    {
+      "time": 110.42,
+      "time_str": "01:50.420",
+      "text": "바랄께 널 위해",
+      "translation": "幸福地生活 这正是为了你"
+    },
+    {
+      "time": 115.72,
+      "time_str": "01:55.720",
+      "text": "나의 사랑아",
+      "translation": "我的爱情啊"
+    },
+    {
+      "time": 118.37,
+      "time_str": "01:58.370",
+      "text": "우리 함께했던 시간들은",
+      "translation": "我们一起经历的时间里"
+    },
+    {
+      "time": 123.77,
+      "time_str": "02:03.770",
+      "text": "모두 잊어주기를",
+      "translation": "把一切抹去"
+    },
+    {
+      "time": 126.68,
+      "time_str": "02:06.680",
+      "text": "내 사람아",
+      "translation": "我的爱人啊"
+    },
+    {
+      "time": 129.08,
+      "time_str": "02:09.080",
+      "text": "제발 울지말아",
+      "translation": "请别哭泣"
+    },
+    {
+      "time": 131.81,
+      "time_str": "02:11.810",
+      "text": "이제 행복해줘 널 보내고",
+      "translation": "现在请幸福地活着 把你送走"
+    },
+    {
+      "time": 137.82,
+      "time_str": "02:17.820",
+      "text": "나 혼자 참 많이 울었을거야",
+      "translation": "我独自放声大哭"
+    },
+    {
+      "time": 145.37,
+      "time_str": "02:25.370",
+      "text": "나 후회해도 또 그리워도 이젠",
+      "translation": "即使再后悔 再思念"
+    },
+    {
+      "time": 152.02,
+      "time_str": "02:32.020",
+      "text": "날 볼 수 없어",
+      "translation": "也再也看不到你"
+    },
+    {
+      "time": 156.02,
+      "time_str": "02:36.020",
+      "text": "내 사랑아",
+      "translation": "我的爱情啊"
+    },
+    {
+      "time": 158.32,
+      "time_str": "02:38.320",
+      "text": "슬픈 사랑아",
+      "translation": "悲伤的爱情啊"
+    },
+    {
+      "time": 161.03,
+      "time_str": "02:41.030",
+      "text": "슬픔 아픔 모두 내가 가질께",
+      "translation": "给我带来世间所有的伤痛"
+    },
+    {
+      "time": 166.68,
+      "time_str": "02:46.680",
+      "text": "넌 웃어줘",
+      "translation": "请你微笑"
+    },
+    {
+      "time": 169.08,
+      "time_str": "02:49.080",
+      "text": "내가 갈 수 있게 이젠 행복해줘",
+      "translation": "那样我才能离去 请一定要幸福"
+    },
+    {
+      "time": 177.73,
+      "time_str": "02:57.730",
+      "text": "사랑아 슬픈 내 사랑아",
+      "translation": "我的爱情啊 悲伤的爱情啊"
+    },
+    {
+      "time": 182.48,
+      "time_str": "03:02.480",
+      "text": "슬픔 아픔 모두 내가 가질께",
+      "translation": "给我带来世间所有的伤痛"
+    },
+    {
+      "time": 187.99,
+      "time_str": "03:07.990",
+      "text": "넌 웃어줘",
+      "translation": "请你微笑"
+    },
+    {
+      "time": 190.39,
+      "time_str": "03:10.390",
+      "text": "내가 갈 수 있게",
+      "translation": "那样我才能离去"
+    },
+    {
+      "time": 193.2,
+      "time_str": "03:13.200",
+      "text": "제발 넌 행복해줘",
+      "translation": "现在请幸福地活着"
+    },
+    {
+      "time": 196.2,
+      "time_str": "03:16.200",
+      "text": "내 사랑아",
+      "translation": "我的爱情啊"
+    },
+    {
+      "time": 198.35,
+      "time_str": "03:18.350",
+      "text": "슬픈 사랑아",
+      "translation": "悲伤的爱情啊"
+    },
+    {
+      "time": 201.0,
+      "time_str": "03:21.000",
+      "text": "슬픔 아픔 모두 내가 가질께",
+      "translation": "给我带来世间所有的伤痛"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "애원(Feat. Kai) - JEY.lrc"
+}

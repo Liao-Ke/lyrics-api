@@ -1,0 +1,394 @@
+{
+  "title": "素颜",
+  "title_raw": "素颜",
+  "version": null,
+  "artist": "许嵩,何曼婷",
+  "group_key": "素颜|许嵩,何曼婷",
+  "writers": {
+    "lyricist": "许嵩",
+    "composer": "许嵩",
+    "arranger": "夏侯哲"
+  },
+  "lyrics": [
+    {
+      "time": 13.05,
+      "time_str": "00:13.050",
+      "text": "又是一个安静的晚上",
+      "translation": null
+    },
+    {
+      "time": 15.9,
+      "time_str": "00:15.900",
+      "text": "一个人窝在摇椅里乘凉",
+      "translation": null
+    },
+    {
+      "time": 18.84,
+      "time_str": "00:18.840",
+      "text": "我承认这样真的很安详",
+      "translation": null
+    },
+    {
+      "time": 21.17,
+      "time_str": "00:21.170",
+      "text": "和楼下老爷爷一样",
+      "translation": null
+    },
+    {
+      "time": 24.53,
+      "time_str": "00:24.530",
+      "text": "听说你还在搞什么原创",
+      "translation": null
+    },
+    {
+      "time": 27.35,
+      "time_str": "00:27.350",
+      "text": "搞来搞去好像也就这样",
+      "translation": null
+    },
+    {
+      "time": 30.21,
+      "time_str": "00:30.210",
+      "text": "不如花点时间想想",
+      "translation": null
+    },
+    {
+      "time": 32.3,
+      "time_str": "00:32.300",
+      "text": "琢磨一下模样",
+      "translation": null
+    },
+    {
+      "time": 35.63,
+      "time_str": "00:35.630",
+      "text": "今夜化了美美的妆",
+      "translation": null
+    },
+    {
+      "time": 38.45,
+      "time_str": "00:38.450",
+      "text": "(我相信是很美美的装)",
+      "translation": null
+    },
+    {
+      "time": 41.48,
+      "time_str": "00:41.480",
+      "text": "我摇晃在舞池中央",
+      "translation": null
+    },
+    {
+      "time": 44.31,
+      "time_str": "00:44.310",
+      "text": "(那种体态可以想象)",
+      "translation": null
+    },
+    {
+      "time": 47.45,
+      "time_str": "00:47.450",
+      "text": "我做我的改变 又何必纠结",
+      "translation": null
+    },
+    {
+      "time": 51.51,
+      "time_str": "00:51.510",
+      "text": "那就拜托别和我碰面",
+      "translation": null
+    },
+    {
+      "time": 57.16,
+      "time_str": "00:57.160",
+      "text": "如果再看你一眼",
+      "translation": null
+    },
+    {
+      "time": 59.87,
+      "time_str": "00:59.870",
+      "text": "是否还会有感觉",
+      "translation": null
+    },
+    {
+      "time": 62.59,
+      "time_str": "01:02.590",
+      "text": "当年素面朝天要多纯洁就有多纯洁",
+      "translation": null
+    },
+    {
+      "time": 68.31,
+      "time_str": "01:08.310",
+      "text": "不画扮熟的眼线",
+      "translation": null
+    },
+    {
+      "time": 71.04,
+      "time_str": "01:11.040",
+      "text": "不用抹匀粉底液",
+      "translation": null
+    },
+    {
+      "time": 74.069,
+      "time_str": "01:14.069",
+      "text": "暴雨天 照逛街",
+      "translation": null
+    },
+    {
+      "time": 76.86,
+      "time_str": "01:16.860",
+      "text": "偷笑别人花了脸",
+      "translation": null
+    },
+    {
+      "time": 79.59,
+      "time_str": "01:19.590",
+      "text": "如果再看你一眼",
+      "translation": null
+    },
+    {
+      "time": 82.489,
+      "time_str": "01:22.489",
+      "text": "是否还会有感觉",
+      "translation": null
+    },
+    {
+      "time": 85.36,
+      "time_str": "01:25.360",
+      "text": "最真实的喜怒哀乐全都埋葬在昨天",
+      "translation": null
+    },
+    {
+      "time": 90.9,
+      "time_str": "01:30.900",
+      "text": "不掺任何的表演",
+      "translation": null
+    },
+    {
+      "time": 93.58,
+      "time_str": "01:33.580",
+      "text": "轰轰烈烈那几年",
+      "translation": null
+    },
+    {
+      "time": 96.54,
+      "time_str": "01:36.540",
+      "text": "我怀念 别怀念",
+      "translation": null
+    },
+    {
+      "time": 99.43,
+      "time_str": "01:39.430",
+      "text": "怀念也回不到从前",
+      "translation": null
+    },
+    {
+      "time": 120.62,
+      "time_str": "02:00.620",
+      "text": "又是一个安静的晚上",
+      "translation": null
+    },
+    {
+      "time": 122.98,
+      "time_str": "02:02.980",
+      "text": "一个人窝在摇椅里乘凉",
+      "translation": null
+    },
+    {
+      "time": 125.879,
+      "time_str": "02:05.879",
+      "text": "我承认这样真的很安详",
+      "translation": null
+    },
+    {
+      "time": 128.37,
+      "time_str": "02:08.370",
+      "text": "和楼下老爷爷一样",
+      "translation": null
+    },
+    {
+      "time": 131.65,
+      "time_str": "02:11.650",
+      "text": "听说你还在搞什么原创",
+      "translation": null
+    },
+    {
+      "time": 134.74,
+      "time_str": "02:14.740",
+      "text": "搞来搞去好像也就这样",
+      "translation": null
+    },
+    {
+      "time": 137.5,
+      "time_str": "02:17.500",
+      "text": "不如花点时间想想",
+      "translation": null
+    },
+    {
+      "time": 139.49,
+      "time_str": "02:19.490",
+      "text": "琢磨一下模样",
+      "translation": null
+    },
+    {
+      "time": 143.03,
+      "time_str": "02:23.030",
+      "text": "今夜化了美美的妆",
+      "translation": null
+    },
+    {
+      "time": 145.58,
+      "time_str": "02:25.580",
+      "text": "(我相信是很美美的装)",
+      "translation": null
+    },
+    {
+      "time": 148.71,
+      "time_str": "02:28.710",
+      "text": "我摇晃在舞池中央",
+      "translation": null
+    },
+    {
+      "time": 151.22,
+      "time_str": "02:31.220",
+      "text": "(那种体态可以想象)",
+      "translation": null
+    },
+    {
+      "time": 154.319,
+      "time_str": "02:34.319",
+      "text": "我做我的改变 又何必纠结",
+      "translation": null
+    },
+    {
+      "time": 158.71,
+      "time_str": "02:38.710",
+      "text": "那就拜托别和我碰面",
+      "translation": null
+    },
+    {
+      "time": 164.37,
+      "time_str": "02:44.370",
+      "text": "如果再看你一眼",
+      "translation": null
+    },
+    {
+      "time": 167.11,
+      "time_str": "02:47.110",
+      "text": "是否还会有感觉",
+      "translation": null
+    },
+    {
+      "time": 169.889,
+      "time_str": "02:49.889",
+      "text": "当年素面朝天要多纯洁就有多纯洁",
+      "translation": null
+    },
+    {
+      "time": 175.62,
+      "time_str": "02:55.620",
+      "text": "不画扮熟的眼线",
+      "translation": null
+    },
+    {
+      "time": 178.33,
+      "time_str": "02:58.330",
+      "text": "不用抹匀粉底液",
+      "translation": null
+    },
+    {
+      "time": 181.229,
+      "time_str": "03:01.229",
+      "text": "暴雨天 照逛街",
+      "translation": null
+    },
+    {
+      "time": 183.99,
+      "time_str": "03:03.990",
+      "text": "偷笑别人花了脸",
+      "translation": null
+    },
+    {
+      "time": 186.849,
+      "time_str": "03:06.849",
+      "text": "如果再看你一眼",
+      "translation": null
+    },
+    {
+      "time": 189.759,
+      "time_str": "03:09.759",
+      "text": "是否还会有感觉",
+      "translation": null
+    },
+    {
+      "time": 192.569,
+      "time_str": "03:12.569",
+      "text": "最真实的喜怒哀乐全都埋葬在昨天",
+      "translation": null
+    },
+    {
+      "time": 198.15,
+      "time_str": "03:18.150",
+      "text": "不掺任何的表演",
+      "translation": null
+    },
+    {
+      "time": 200.819,
+      "time_str": "03:20.819",
+      "text": "轰轰烈烈那几年",
+      "translation": null
+    },
+    {
+      "time": 203.8,
+      "time_str": "03:23.800",
+      "text": "我怀念 别怀念",
+      "translation": null
+    },
+    {
+      "time": 206.439,
+      "time_str": "03:26.439",
+      "text": "怀念也回不到从前",
+      "translation": null
+    },
+    {
+      "time": 210.87,
+      "time_str": "03:30.870",
+      "text": "曾经对上的瞬间",
+      "translation": null
+    },
+    {
+      "time": 213.55,
+      "time_str": "03:33.550",
+      "text": "难道是一种错觉",
+      "translation": null
+    },
+    {
+      "time": 216.09,
+      "time_str": "03:36.090",
+      "text": "那些流逝了的就永远不会复现",
+      "translation": null
+    },
+    {
+      "time": 221.25,
+      "time_str": "03:41.250",
+      "text": "不掺任何的表演",
+      "translation": null
+    },
+    {
+      "time": 223.53,
+      "time_str": "03:43.530",
+      "text": "轰轰烈烈那几年",
+      "translation": null
+    },
+    {
+      "time": 226.389,
+      "time_str": "03:46.389",
+      "text": "有遗憾的感觉 为何感觉",
+      "translation": null
+    },
+    {
+      "time": 230.49,
+      "time_str": "03:50.490",
+      "text": "那消失不见的素颜",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "素颜 - 许嵩,何曼婷.lrc"
+}

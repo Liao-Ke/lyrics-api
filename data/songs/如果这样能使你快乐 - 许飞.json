@@ -1,0 +1,214 @@
+{
+  "title": "如果这样能使你快乐",
+  "title_raw": "如果这样能使你快乐",
+  "version": null,
+  "artist": "许飞",
+  "group_key": "如果这样能使你快乐|许飞",
+  "writers": {
+    "lyricist": "许飞",
+    "composer": "许飞",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.43,
+      "time_str": "00:19.430",
+      "text": "昨夜的一场雨让我清醒",
+      "translation": null
+    },
+    {
+      "time": 23.3,
+      "time_str": "00:23.300",
+      "text": "才知道 你已离去",
+      "translation": null
+    },
+    {
+      "time": 28.55,
+      "time_str": "00:28.550",
+      "text": "昨夜的许多话都未能将你挽留",
+      "translation": null
+    },
+    {
+      "time": 32.548,
+      "time_str": "00:32.548",
+      "text": "也许这次我们注定分手",
+      "translation": null
+    },
+    {
+      "time": 37.679,
+      "time_str": "00:37.679",
+      "text": "房间里你的身影依然清晰",
+      "translation": null
+    },
+    {
+      "time": 41.619,
+      "time_str": "00:41.619",
+      "text": "枕边还留有你的气息",
+      "translation": null
+    },
+    {
+      "time": 46.869,
+      "time_str": "00:46.869",
+      "text": "眼看着这一切即将成为过去",
+      "translation": null
+    },
+    {
+      "time": 50.989,
+      "time_str": "00:50.989",
+      "text": "而我却无能为力",
+      "translation": null
+    },
+    {
+      "time": 55.489,
+      "time_str": "00:55.489",
+      "text": "Oh baby 如果这样能够让你快乐",
+      "translation": null
+    },
+    {
+      "time": 60.599,
+      "time_str": "01:00.599",
+      "text": "我愿承受一切哪怕寂寞",
+      "translation": null
+    },
+    {
+      "time": 64.309,
+      "time_str": "01:04.309",
+      "text": "就请你原谅我 都是我的错",
+      "translation": null
+    },
+    {
+      "time": 69.369,
+      "time_str": "01:09.369",
+      "text": "才会让你走的如此洒脱",
+      "translation": null
+    },
+    {
+      "time": 73.679,
+      "time_str": "01:13.679",
+      "text": "Oh baby 如果这样这够让你快乐",
+      "translation": null
+    },
+    {
+      "time": 79.19,
+      "time_str": "01:19.190",
+      "text": "我愿承受一切哪怕寂寞",
+      "translation": null
+    },
+    {
+      "time": 82.679,
+      "time_str": "01:22.679",
+      "text": "就请你原谅我 都是我的错",
+      "translation": null
+    },
+    {
+      "time": 87.809,
+      "time_str": "01:27.809",
+      "text": "才会让你走的如此洒脱",
+      "translation": null
+    },
+    {
+      "time": 111.608,
+      "time_str": "01:51.608",
+      "text": "昨夜的一场雨让我清醒",
+      "translation": null
+    },
+    {
+      "time": 115.608,
+      "time_str": "01:55.608",
+      "text": "才知道 你已离去oh oh my love",
+      "translation": null
+    },
+    {
+      "time": 120.859,
+      "time_str": "02:00.859",
+      "text": "昨夜的许多话 都未能将你挽留",
+      "translation": null
+    },
+    {
+      "time": 125.69,
+      "time_str": "02:05.690",
+      "text": "也许这次我们注定分手En.. my baby",
+      "translation": null
+    },
+    {
+      "time": 130.11,
+      "time_str": "02:10.110",
+      "text": "房间里你的身影依然清晰",
+      "translation": null
+    },
+    {
+      "time": 133.87,
+      "time_str": "02:13.870",
+      "text": "枕边还留有你的气息I miss you,now",
+      "translation": null
+    },
+    {
+      "time": 139.43,
+      "time_str": "02:19.430",
+      "text": "眼看着这一切 即将成为过去",
+      "translation": null
+    },
+    {
+      "time": 143.12,
+      "time_str": "02:23.120",
+      "text": "而我却无能为力",
+      "translation": null
+    },
+    {
+      "time": 147.43,
+      "time_str": "02:27.430",
+      "text": "Oh baby 如果这样能够让你快乐让你快乐",
+      "translation": null
+    },
+    {
+      "time": 152.49,
+      "time_str": "02:32.490",
+      "text": "我愿承受一切哪怕寂寞我不怕寂寞",
+      "translation": null
+    },
+    {
+      "time": 157.1,
+      "time_str": "02:37.100",
+      "text": "就请你原谅我 都是我的错",
+      "translation": null
+    },
+    {
+      "time": 162.1,
+      "time_str": "02:42.100",
+      "text": "才会让你走的如此洒脱",
+      "translation": null
+    },
+    {
+      "time": 165.87,
+      "time_str": "02:45.870",
+      "text": "Oh baby 如果这样这够让你快乐让你快乐",
+      "translation": null
+    },
+    {
+      "time": 171.6,
+      "time_str": "02:51.600",
+      "text": "我愿承受一切哪怕寂寞我不怕寂寞",
+      "translation": null
+    },
+    {
+      "time": 175.18,
+      "time_str": "02:55.180",
+      "text": "就请你原谅我 都是我的错",
+      "translation": null
+    },
+    {
+      "time": 180.12,
+      "time_str": "03:00.120",
+      "text": "才会让你走的如此洒脱如此洒脱",
+      "translation": null
+    },
+    {
+      "time": 187.12,
+      "time_str": "03:07.120",
+      "text": "如果这样你真的会 快乐",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "如果这样能使你快乐 - 许飞.lrc"
+}

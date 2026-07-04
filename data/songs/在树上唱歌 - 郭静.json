@@ -1,0 +1,262 @@
+{
+  "title": "在树上唱歌",
+  "title_raw": "在树上唱歌",
+  "version": null,
+  "artist": "郭静",
+  "group_key": "在树上唱歌|郭静",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "陈小霞",
+    "arranger": "洪敬尧/谢明祥"
+  },
+  "lyrics": [
+    {
+      "time": 0.37,
+      "time_str": "00:00.370",
+      "text": "想要光着脚丫 在树上唱歌",
+      "translation": null
+    },
+    {
+      "time": 24.58,
+      "time_str": "00:24.580",
+      "text": "你说的每个笑话我都笑了",
+      "translation": null
+    },
+    {
+      "time": 27.21,
+      "time_str": "00:27.210",
+      "text": "是你变幽默还是我变快乐",
+      "translation": null
+    },
+    {
+      "time": 31.98,
+      "time_str": "00:31.980",
+      "text": "好久不见你说我大不相同",
+      "translation": null
+    },
+    {
+      "time": 34.68,
+      "time_str": "00:34.680",
+      "text": "偷偷告诉你 我的心去整型了",
+      "translation": null
+    },
+    {
+      "time": 42.91,
+      "time_str": "00:42.910",
+      "text": "不想对每件事都那么严格",
+      "translation": null
+    },
+    {
+      "time": 45.66,
+      "time_str": "00:45.660",
+      "text": "弄得全世界好像只剩挫折",
+      "translation": null
+    },
+    {
+      "time": 50.29,
+      "time_str": "00:50.290",
+      "text": "爱一朵花不猜它能开多久",
+      "translation": null
+    },
+    {
+      "time": 53.4,
+      "time_str": "00:53.400",
+      "text": "放宽了心情 把什么都变美了",
+      "translation": null
+    },
+    {
+      "time": 60.15,
+      "time_str": "01:00.150",
+      "text": "想要光着脚丫 在树上唱歌",
+      "translation": null
+    },
+    {
+      "time": 64.16,
+      "time_str": "01:04.160",
+      "text": "好多事物全被缩小了",
+      "translation": null
+    },
+    {
+      "time": 67.73,
+      "time_str": "01:07.730",
+      "text": "心里不想放的就去了 算了",
+      "translation": null
+    },
+    {
+      "time": 71.39,
+      "time_str": "01:11.390",
+      "text": "让太阳把脸庞给晒得红彤彤",
+      "translation": null
+    },
+    {
+      "time": 74.789,
+      "time_str": "01:14.789",
+      "text": "想要吹着口哨 在树上唱歌",
+      "translation": null
+    },
+    {
+      "time": 78.88,
+      "time_str": "01:18.880",
+      "text": "要像开往远方的火车",
+      "translation": null
+    },
+    {
+      "time": 82.53,
+      "time_str": "01:22.530",
+      "text": "可以那么轻快地穿过山洞",
+      "translation": null
+    },
+    {
+      "time": 86.16,
+      "time_str": "01:26.160",
+      "text": "大树上还很空 你要不要陪我",
+      "translation": null
+    },
+    {
+      "time": 98.11,
+      "time_str": "01:38.110",
+      "text": "你说的每个笑话我都笑了",
+      "translation": null
+    },
+    {
+      "time": 100.82,
+      "time_str": "01:40.820",
+      "text": "是你变幽默还是我变快乐",
+      "translation": null
+    },
+    {
+      "time": 105.44,
+      "time_str": "01:45.440",
+      "text": "好久不见你说我大不相同",
+      "translation": null
+    },
+    {
+      "time": 108.18,
+      "time_str": "01:48.180",
+      "text": "偷偷告诉你 我的心去整型了",
+      "translation": null
+    },
+    {
+      "time": 116.46,
+      "time_str": "01:56.460",
+      "text": "不想对每件事都那么严格",
+      "translation": null
+    },
+    {
+      "time": 119.18,
+      "time_str": "01:59.180",
+      "text": "弄得全世界好像只剩挫折",
+      "translation": null
+    },
+    {
+      "time": 123.85,
+      "time_str": "02:03.850",
+      "text": "爱一朵花不猜它能开多久",
+      "translation": null
+    },
+    {
+      "time": 127.15,
+      "time_str": "02:07.150",
+      "text": "放宽了心情 把什么都变美了",
+      "translation": null
+    },
+    {
+      "time": 135.96,
+      "time_str": "02:15.960",
+      "text": "想要光着脚丫 在树上唱歌",
+      "translation": null
+    },
+    {
+      "time": 139.76,
+      "time_str": "02:19.760",
+      "text": "好多事物全被缩小了",
+      "translation": null
+    },
+    {
+      "time": 143.37,
+      "time_str": "02:23.370",
+      "text": "心里不想放的就去了 算了",
+      "translation": null
+    },
+    {
+      "time": 146.89,
+      "time_str": "02:26.890",
+      "text": "让太阳把脸庞给晒得红彤彤",
+      "translation": null
+    },
+    {
+      "time": 150.27,
+      "time_str": "02:30.270",
+      "text": "想要吹着口哨 在树上唱歌",
+      "translation": null
+    },
+    {
+      "time": 154.48,
+      "time_str": "02:34.480",
+      "text": "要像开往远方的火车",
+      "translation": null
+    },
+    {
+      "time": 158.1,
+      "time_str": "02:38.100",
+      "text": "可以那么轻快地穿过山洞",
+      "translation": null
+    },
+    {
+      "time": 161.76,
+      "time_str": "02:41.760",
+      "text": "大树上还很空 你要不要陪我",
+      "translation": null
+    },
+    {
+      "time": 179.82,
+      "time_str": "02:59.820",
+      "text": "想要光着脚丫 在树上唱歌",
+      "translation": null
+    },
+    {
+      "time": 183.98,
+      "time_str": "03:03.980",
+      "text": "好多事物全被缩小了",
+      "translation": null
+    },
+    {
+      "time": 187.45,
+      "time_str": "03:07.450",
+      "text": "心里不想放的就去了 算了",
+      "translation": null
+    },
+    {
+      "time": 191.06,
+      "time_str": "03:11.060",
+      "text": "让太阳把脸庞给晒得红彤彤",
+      "translation": null
+    },
+    {
+      "time": 194.4,
+      "time_str": "03:14.400",
+      "text": "想要吹着口哨 在树上唱歌",
+      "translation": null
+    },
+    {
+      "time": 198.66,
+      "time_str": "03:18.660",
+      "text": "要像开往远方的火车",
+      "translation": null
+    },
+    {
+      "time": 202.24,
+      "time_str": "03:22.240",
+      "text": "可以那么轻快地穿过山洞",
+      "translation": null
+    },
+    {
+      "time": 205.82,
+      "time_str": "03:25.820",
+      "text": "大树上还很空 你要不要陪我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "在树上唱歌 - 郭静.lrc"
+}

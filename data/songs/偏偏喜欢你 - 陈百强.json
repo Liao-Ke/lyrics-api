@@ -1,0 +1,172 @@
+{
+  "title": "偏偏喜欢你",
+  "title_raw": "偏偏喜欢你",
+  "version": null,
+  "artist": "陈百强",
+  "group_key": "偏偏喜欢你|陈百强",
+  "writers": {
+    "lyricist": "郑国江",
+    "composer": "陈百强",
+    "arranger": "周启生"
+  },
+  "lyrics": [
+    {
+      "time": 14.263,
+      "time_str": "00:14.263",
+      "text": "愁绪挥不去 苦闷散不去",
+      "translation": null
+    },
+    {
+      "time": 20.362,
+      "time_str": "00:20.362",
+      "text": "为何我心一片空虚",
+      "translation": null
+    },
+    {
+      "time": 26.453,
+      "time_str": "00:26.453",
+      "text": "感情已失去 一切都失去",
+      "translation": null
+    },
+    {
+      "time": 32.473,
+      "time_str": "00:32.473",
+      "text": "满腔恨愁不可消除",
+      "translation": null
+    },
+    {
+      "time": 38.517,
+      "time_str": "00:38.517",
+      "text": "为何你的嘴里总是那一句",
+      "translation": null
+    },
+    {
+      "time": 44.564,
+      "time_str": "00:44.564",
+      "text": "为何我的心不会死",
+      "translation": null
+    },
+    {
+      "time": 50.208,
+      "time_str": "00:50.208",
+      "text": "明白到爱失去 一切都不对",
+      "translation": null
+    },
+    {
+      "time": 56.64,
+      "time_str": "00:56.640",
+      "text": "我又为何偏偏喜欢你",
+      "translation": null
+    },
+    {
+      "time": 62.667,
+      "time_str": "01:02.667",
+      "text": "爱已是负累 相爱似受罪",
+      "translation": null
+    },
+    {
+      "time": 69.043,
+      "time_str": "01:09.043",
+      "text": "心底如今满苦泪",
+      "translation": null
+    },
+    {
+      "time": 74.783,
+      "time_str": "01:14.783",
+      "text": "旧日情如醉 此际怕再追",
+      "translation": null
+    },
+    {
+      "time": 81.562,
+      "time_str": "01:21.562",
+      "text": "偏偏痴心想见你",
+      "translation": null
+    },
+    {
+      "time": 86.879,
+      "time_str": "01:26.879",
+      "text": "为何我心分秒想着过去",
+      "translation": null
+    },
+    {
+      "time": 92.874,
+      "time_str": "01:32.874",
+      "text": "为何你一点都不记起",
+      "translation": null
+    },
+    {
+      "time": 98.508,
+      "time_str": "01:38.508",
+      "text": "情义已失去 恩爱都失去",
+      "translation": null
+    },
+    {
+      "time": 104.928,
+      "time_str": "01:44.928",
+      "text": "我却为何偏偏喜欢你",
+      "translation": null
+    },
+    {
+      "time": 135.087,
+      "time_str": "02:15.087",
+      "text": "爱已是负累 相爱似受罪",
+      "translation": null
+    },
+    {
+      "time": 141.509,
+      "time_str": "02:21.509",
+      "text": "心底如今满苦泪",
+      "translation": null
+    },
+    {
+      "time": 147.189,
+      "time_str": "02:27.189",
+      "text": "旧日情如醉 此际怕再追",
+      "translation": null
+    },
+    {
+      "time": 153.97,
+      "time_str": "02:33.970",
+      "text": "偏偏痴心想见你",
+      "translation": null
+    },
+    {
+      "time": 159.27,
+      "time_str": "02:39.270",
+      "text": "为何我心分秒想着过去",
+      "translation": null
+    },
+    {
+      "time": 165.321,
+      "time_str": "02:45.321",
+      "text": "为何你一点都不记起",
+      "translation": null
+    },
+    {
+      "time": 170.953,
+      "time_str": "02:50.953",
+      "text": "情义已失去 恩爱都失去",
+      "translation": null
+    },
+    {
+      "time": 177.405,
+      "time_str": "02:57.405",
+      "text": "我却为何偏偏喜欢你",
+      "translation": null
+    },
+    {
+      "time": 183.089,
+      "time_str": "03:03.089",
+      "text": "情义已失去 恩爱都失去",
+      "translation": null
+    },
+    {
+      "time": 189.522,
+      "time_str": "03:09.522",
+      "text": "我却为何偏偏喜欢你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "偏偏喜欢你 - 陈百强.lrc"
+}

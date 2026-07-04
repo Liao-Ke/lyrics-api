@@ -1,0 +1,292 @@
+{
+  "title": "情归于尽",
+  "title_raw": "情归于尽",
+  "version": null,
+  "artist": "黎明",
+  "group_key": "情归于尽|黎明",
+  "writers": {
+    "lyricist": "黄伟文",
+    "composer": "雷颂德",
+    "arranger": "雷颂德"
+  },
+  "lyrics": [
+    {
+      "time": 15.623,
+      "time_str": "00:15.623",
+      "text": "你仍然当我是情人",
+      "translation": null
+    },
+    {
+      "time": 20.557,
+      "time_str": "00:20.557",
+      "text": "因为现在先变心太薄幸",
+      "translation": null
+    },
+    {
+      "time": 24.933,
+      "time_str": "00:24.933",
+      "text": "何以我发现你不爱我",
+      "translation": null
+    },
+    {
+      "time": 28.62,
+      "time_str": "00:28.620",
+      "text": "我仍然全没戒心",
+      "translation": null
+    },
+    {
+      "time": 31.371,
+      "time_str": "00:31.371",
+      "text": "分开假如难为谁",
+      "translation": null
+    },
+    {
+      "time": 33.869,
+      "time_str": "00:33.869",
+      "text": "一起一样是负累",
+      "translation": null
+    },
+    {
+      "time": 35.748,
+      "time_str": "00:35.748",
+      "text": "相恋仿如悬崖悬着离合都太累",
+      "translation": null
+    },
+    {
+      "time": 40.59,
+      "time_str": "00:40.590",
+      "text": "要行刑时你若畏罪",
+      "translation": null
+    },
+    {
+      "time": 42.807,
+      "time_str": "00:42.807",
+      "text": "必须解脱的当我要争取",
+      "translation": null
+    },
+    {
+      "time": 46.807,
+      "time_str": "00:46.807",
+      "text": "无能为力接收就放手让我走",
+      "translation": null
+    },
+    {
+      "time": 50.621,
+      "time_str": "00:50.621",
+      "text": "必须粉身碎骨仍然独自接受",
+      "translation": null
+    },
+    {
+      "time": 54.369,
+      "time_str": "00:54.369",
+      "text": "肯牺牲我又可以获救",
+      "translation": null
+    },
+    {
+      "time": 57.121,
+      "time_str": "00:57.121",
+      "text": "就含笑分手",
+      "translation": null
+    },
+    {
+      "time": 59.368,
+      "time_str": "00:59.368",
+      "text": "高尚地赢得我伤口",
+      "translation": null
+    },
+    {
+      "time": 61.368,
+      "time_str": "01:01.368",
+      "text": "悬崖如若太深就放手让我走",
+      "translation": null
+    },
+    {
+      "time": 66.56,
+      "time_str": "01:06.560",
+      "text": "苦恋拖得太久让我默默退后",
+      "translation": null
+    },
+    {
+      "time": 69.992,
+      "time_str": "01:09.992",
+      "text": "将一起跌下去一边应该放手",
+      "translation": null
+    },
+    {
+      "time": 72.992,
+      "time_str": "01:12.992",
+      "text": "得不到你但我能够",
+      "translation": null
+    },
+    {
+      "time": 77.119,
+      "time_str": "01:17.119",
+      "text": "要你永不担忧",
+      "translation": null
+    },
+    {
+      "time": 93.242,
+      "time_str": "01:33.242",
+      "text": "分开假如难为谁",
+      "translation": null
+    },
+    {
+      "time": 95.244,
+      "time_str": "01:35.244",
+      "text": "一起一样是负累",
+      "translation": null
+    },
+    {
+      "time": 97.18,
+      "time_str": "01:37.180",
+      "text": "相恋仿如悬崖悬着离合都太累",
+      "translation": null
+    },
+    {
+      "time": 101.994,
+      "time_str": "01:41.994",
+      "text": "要行刑时你若畏罪",
+      "translation": null
+    },
+    {
+      "time": 104.679,
+      "time_str": "01:44.679",
+      "text": "必须解脱的当我要争取",
+      "translation": null
+    },
+    {
+      "time": 108.803,
+      "time_str": "01:48.803",
+      "text": "无能为力接收就放手让我走",
+      "translation": null
+    },
+    {
+      "time": 112.491,
+      "time_str": "01:52.491",
+      "text": "必须粉身碎骨仍然独自接受",
+      "translation": null
+    },
+    {
+      "time": 116.366,
+      "time_str": "01:56.366",
+      "text": "肯牺牲我又可以获救",
+      "translation": null
+    },
+    {
+      "time": 119.56,
+      "time_str": "01:59.560",
+      "text": "就含笑分手",
+      "translation": null
+    },
+    {
+      "time": 121.181,
+      "time_str": "02:01.181",
+      "text": "高尚地赢得我伤口",
+      "translation": null
+    },
+    {
+      "time": 124.239,
+      "time_str": "02:04.239",
+      "text": "悬崖如若太深就放手让我走",
+      "translation": null
+    },
+    {
+      "time": 128.54,
+      "time_str": "02:08.540",
+      "text": "苦恋拖得太久让我默默退后",
+      "translation": null
+    },
+    {
+      "time": 130.615,
+      "time_str": "02:10.615",
+      "text": "将一起跌下去一边应该放手",
+      "translation": null
+    },
+    {
+      "time": 135.429,
+      "time_str": "02:15.429",
+      "text": "争不开我让我出手",
+      "translation": null
+    },
+    {
+      "time": 140.239,
+      "time_str": "02:20.239",
+      "text": "你不爱我还你那自由",
+      "translation": null
+    },
+    {
+      "time": 145.177,
+      "time_str": "02:25.177",
+      "text": "既然能承受是你早有预谋",
+      "translation": null
+    },
+    {
+      "time": 149.241,
+      "time_str": "02:29.241",
+      "text": "何必不放手一起去堕进深沟",
+      "translation": null
+    },
+    {
+      "time": 154.803,
+      "time_str": "02:34.803",
+      "text": "明明其实有他就放手让我走",
+      "translation": null
+    },
+    {
+      "time": 158.99,
+      "time_str": "02:38.990",
+      "text": "即使粉身碎骨仍能独自接受",
+      "translation": null
+    },
+    {
+      "time": 162.926,
+      "time_str": "02:42.926",
+      "text": "即使手里什么也没有",
+      "translation": null
+    },
+    {
+      "time": 165.677,
+      "time_str": "02:45.677",
+      "text": "但还有双手掩护着自己那伤口",
+      "translation": null
+    },
+    {
+      "time": 170.489,
+      "time_str": "02:50.489",
+      "text": "悬崖如若太深就放手让我走",
+      "translation": null
+    },
+    {
+      "time": 174.425,
+      "time_str": "02:54.425",
+      "text": "苦恋拖得太久让我默默退后",
+      "translation": null
+    },
+    {
+      "time": 178.302,
+      "time_str": "02:58.302",
+      "text": "不想都跌下去一边应该放手",
+      "translation": null
+    },
+    {
+      "time": 181.801,
+      "time_str": "03:01.801",
+      "text": "挣不开我让我出手",
+      "translation": null
+    },
+    {
+      "time": 185.426,
+      "time_str": "03:05.426",
+      "text": "你不必担忧",
+      "translation": null
+    },
+    {
+      "time": 189.364,
+      "time_str": "03:09.364",
+      "text": "如有罪疚  都交在我手",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情归于尽 - 黎明.lrc"
+}

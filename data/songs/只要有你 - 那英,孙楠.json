@@ -1,0 +1,280 @@
+{
+  "title": "只要有你",
+  "title_raw": "只要有你",
+  "version": null,
+  "artist": "那英,孙楠",
+  "group_key": "只要有你|那英,孙楠",
+  "writers": {
+    "lyricist": "陈颂红",
+    "composer": "陈颂红",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 22.75,
+      "time_str": "00:22.750",
+      "text": "谁能告诉我",
+      "translation": null
+    },
+    {
+      "time": 25.06,
+      "time_str": "00:25.060",
+      "text": "有没有这样的笔",
+      "translation": null
+    },
+    {
+      "time": 27.95,
+      "time_str": "00:27.950",
+      "text": "能画出一双双不流泪的眼睛",
+      "translation": null
+    },
+    {
+      "time": 34.15,
+      "time_str": "00:34.150",
+      "text": "留得住世上一纵即逝的光阴",
+      "translation": null
+    },
+    {
+      "time": 39.89,
+      "time_str": "00:39.890",
+      "text": "能让所有美丽从此也不再凋零",
+      "translation": null
+    },
+    {
+      "time": 45.57,
+      "time_str": "00:45.570",
+      "text": "如果是这样",
+      "translation": null
+    },
+    {
+      "time": 47.87,
+      "time_str": "00:47.870",
+      "text": "我可以安慰自己",
+      "translation": null
+    },
+    {
+      "time": 50.85,
+      "time_str": "00:50.850",
+      "text": "在没有你的夜里",
+      "translation": null
+    },
+    {
+      "time": 53.66,
+      "time_str": "00:53.660",
+      "text": "能画出一线光明",
+      "translation": null
+    },
+    {
+      "time": 56.91,
+      "time_str": "00:56.910",
+      "text": "留得住快乐",
+      "translation": null
+    },
+    {
+      "time": 59.37,
+      "time_str": "00:59.370",
+      "text": "全部都送去给你",
+      "translation": null
+    },
+    {
+      "time": 62.23,
+      "time_str": "01:02.230",
+      "text": "苦涩的味道变了甜蜜",
+      "translation": null
+    },
+    {
+      "time": 67.84,
+      "time_str": "01:07.840",
+      "text": "从此也不用分开相爱的天和地",
+      "translation": null
+    },
+    {
+      "time": 73.57,
+      "time_str": "01:13.570",
+      "text": "还能在同一天空月亮太阳再相遇",
+      "translation": null
+    },
+    {
+      "time": 79.2,
+      "time_str": "01:19.200",
+      "text": "生命中只要有你",
+      "translation": null
+    },
+    {
+      "time": 82.09,
+      "time_str": "01:22.090",
+      "text": "什么都变了可以",
+      "translation": null
+    },
+    {
+      "time": 84.95,
+      "time_str": "01:24.950",
+      "text": "让所有流星随时都相遇",
+      "translation": null
+    },
+    {
+      "time": 90.66,
+      "time_str": "01:30.660",
+      "text": "从此在人世上也没有无奈的分离",
+      "translation": null
+    },
+    {
+      "time": 96.3,
+      "time_str": "01:36.300",
+      "text": "我不用睁着眼睛看你远走的背影",
+      "translation": null
+    },
+    {
+      "time": 102.01,
+      "time_str": "01:42.010",
+      "text": "没有变坏的青春",
+      "translation": null
+    },
+    {
+      "time": 104.92,
+      "time_str": "01:44.920",
+      "text": "没有失落的爱情",
+      "translation": null
+    },
+    {
+      "time": 108.73,
+      "time_str": "01:48.730",
+      "text": "所有承诺永恒得像星星",
+      "translation": null
+    },
+    {
+      "time": 140.46,
+      "time_str": "02:20.460",
+      "text": "谁能告诉我",
+      "translation": null
+    },
+    {
+      "time": 142.63,
+      "time_str": "02:22.630",
+      "text": "有没有这样的笔",
+      "translation": null
+    },
+    {
+      "time": 145.56,
+      "time_str": "02:25.560",
+      "text": "能画出一双双不流泪的眼睛",
+      "translation": null
+    },
+    {
+      "time": 151.68,
+      "time_str": "02:31.680",
+      "text": "留得住世上一纵即逝的光阴",
+      "translation": null
+    },
+    {
+      "time": 157.31,
+      "time_str": "02:37.310",
+      "text": "能让所有美丽从此也不再凋零",
+      "translation": null
+    },
+    {
+      "time": 163.26,
+      "time_str": "02:43.260",
+      "text": "如果是这样",
+      "translation": null
+    },
+    {
+      "time": 165.5,
+      "time_str": "02:45.500",
+      "text": "我可以安慰自己",
+      "translation": null
+    },
+    {
+      "time": 169.33,
+      "time_str": "02:49.330",
+      "text": "在没有你的夜里",
+      "translation": null
+    },
+    {
+      "time": 172.08,
+      "time_str": "02:52.080",
+      "text": "能画出一线光明",
+      "translation": null
+    },
+    {
+      "time": 175.34,
+      "time_str": "02:55.340",
+      "text": "留得住快乐",
+      "translation": null
+    },
+    {
+      "time": 177.71,
+      "time_str": "02:57.710",
+      "text": "全部都送去给你",
+      "translation": null
+    },
+    {
+      "time": 180.69,
+      "time_str": "03:00.690",
+      "text": "苦涩的味道变了甜蜜",
+      "translation": null
+    },
+    {
+      "time": 186.45,
+      "time_str": "03:06.450",
+      "text": "从此也不用分开相爱的天和地",
+      "translation": null
+    },
+    {
+      "time": 191.97,
+      "time_str": "03:11.970",
+      "text": "还能在同一天空月亮太阳再相遇",
+      "translation": null
+    },
+    {
+      "time": 197.7,
+      "time_str": "03:17.700",
+      "text": "生命中只要有你",
+      "translation": null
+    },
+    {
+      "time": 200.44,
+      "time_str": "03:20.440",
+      "text": "什么都变了可以",
+      "translation": null
+    },
+    {
+      "time": 203.36,
+      "time_str": "03:23.360",
+      "text": "让所有流星随时都相遇",
+      "translation": null
+    },
+    {
+      "time": 209.14,
+      "time_str": "03:29.140",
+      "text": "从此在人世上也没有无奈的分离",
+      "translation": null
+    },
+    {
+      "time": 214.71,
+      "time_str": "03:34.710",
+      "text": "我不用睁着眼睛看你远走的背影",
+      "translation": null
+    },
+    {
+      "time": 220.59,
+      "time_str": "03:40.590",
+      "text": "没有变坏的青春",
+      "translation": null
+    },
+    {
+      "time": 223.22,
+      "time_str": "03:43.220",
+      "text": "没有失落的爱情",
+      "translation": null
+    },
+    {
+      "time": 226.15,
+      "time_str": "03:46.150",
+      "text": "所有承诺永恒得像星星",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "只要有你 - 那英,孙楠.lrc"
+}

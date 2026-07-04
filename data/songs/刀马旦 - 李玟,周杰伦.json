@@ -1,0 +1,526 @@
+{
+  "title": "刀马旦",
+  "title_raw": "刀马旦",
+  "version": null,
+  "artist": "李玟,周杰伦",
+  "group_key": "刀马旦|李玟,周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "林迈可"
+  },
+  "lyrics": [
+    {
+      "time": 26.09,
+      "time_str": "00:26.090",
+      "text": "明明早上人还在香港",
+      "translation": null
+    },
+    {
+      "time": 29.27,
+      "time_str": "00:29.270",
+      "text": "还在九龙茶馆喝煲汤",
+      "translation": null
+    },
+    {
+      "time": 32.41,
+      "time_str": "00:32.410",
+      "text": "怎么场景一下跳西安",
+      "translation": null
+    },
+    {
+      "time": 35.61,
+      "time_str": "00:35.610",
+      "text": "我在护城河的堤岸",
+      "translation": null
+    },
+    {
+      "time": 38.85,
+      "time_str": "00:38.850",
+      "text": "站在古老神秘的城墙",
+      "translation": null
+    },
+    {
+      "time": 42.06,
+      "time_str": "00:42.060",
+      "text": "月光摇又晃",
+      "translation": null
+    },
+    {
+      "time": 45.08,
+      "time_str": "00:45.080",
+      "text": "我用英语跟小贩交谈",
+      "translation": null
+    },
+    {
+      "time": 48.4,
+      "time_str": "00:48.400",
+      "text": "突然画面一下就全暗",
+      "translation": null
+    },
+    {
+      "time": 51.4,
+      "time_str": "00:51.400",
+      "text": "我",
+      "translation": null
+    },
+    {
+      "time": 51.95,
+      "time_str": "00:51.950",
+      "text": "还在想",
+      "translation": null
+    },
+    {
+      "time": 52.54,
+      "time_str": "00:52.540",
+      "text": "到底身在何方",
+      "translation": null
+    },
+    {
+      "time": 54.52,
+      "time_str": "00:54.520",
+      "text": "我",
+      "translation": null
+    },
+    {
+      "time": 55.02,
+      "time_str": "00:55.020",
+      "text": "变模样",
+      "translation": null
+    },
+    {
+      "time": 55.81,
+      "time_str": "00:55.810",
+      "text": "是个华裔姑娘",
+      "translation": null
+    },
+    {
+      "time": 57.79,
+      "time_str": "00:57.790",
+      "text": "我",
+      "translation": null
+    },
+    {
+      "time": 58.27,
+      "time_str": "00:58.270",
+      "text": "开始想",
+      "translation": null
+    },
+    {
+      "time": 58.91,
+      "time_str": "00:58.910",
+      "text": "认真细心装扮",
+      "translation": null
+    },
+    {
+      "time": 61.0,
+      "time_str": "01:01.000",
+      "text": "我",
+      "translation": null
+    },
+    {
+      "time": 61.46,
+      "time_str": "01:01.460",
+      "text": "回台上",
+      "translation": null
+    },
+    {
+      "time": 62.13,
+      "time_str": "01:02.130",
+      "text": "终于轮我上场",
+      "translation": null
+    },
+    {
+      "time": 64.19,
+      "time_str": "01:04.190",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 65.33,
+      "time_str": "01:05.330",
+      "text": "一个后空翻",
+      "translation": null
+    },
+    {
+      "time": 66.92,
+      "time_str": "01:06.920",
+      "text": "腰身跟着转",
+      "translation": null
+    },
+    {
+      "time": 68.5,
+      "time_str": "01:08.500",
+      "text": "马步扎的稳当",
+      "translation": null
+    },
+    {
+      "time": 70.59,
+      "time_str": "01:10.590",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 71.7,
+      "time_str": "01:11.700",
+      "text": "比谁都漂亮",
+      "translation": null
+    },
+    {
+      "time": 73.29,
+      "time_str": "01:13.290",
+      "text": "接着唱一段",
+      "translation": null
+    },
+    {
+      "time": 74.92,
+      "time_str": "01:14.920",
+      "text": "虞姬和霸王",
+      "translation": null
+    },
+    {
+      "time": 77.0,
+      "time_str": "01:17.000",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 78.11,
+      "time_str": "01:18.110",
+      "text": "舞台的戏班",
+      "translation": null
+    },
+    {
+      "time": 79.78,
+      "time_str": "01:19.780",
+      "text": "二胡拉的响",
+      "translation": null
+    },
+    {
+      "time": 81.31,
+      "time_str": "01:21.310",
+      "text": "观众用力鼓掌",
+      "translation": null
+    },
+    {
+      "time": 83.31,
+      "time_str": "01:23.310",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 84.5,
+      "time_str": "01:24.500",
+      "text": "比谁都漂亮",
+      "translation": null
+    },
+    {
+      "time": 86.09,
+      "time_str": "01:26.090",
+      "text": "刀马旦身段",
+      "translation": null
+    },
+    {
+      "time": 87.75,
+      "time_str": "01:27.750",
+      "text": "演出风靡全场",
+      "translation": null
+    },
+    {
+      "time": 112.5,
+      "time_str": "01:52.500",
+      "text": "一口粮 一张床 一面墙 一扇窗",
+      "translation": null
+    },
+    {
+      "time": 114.35,
+      "time_str": "01:54.350",
+      "text": "我洒下一地月光 一次种下一亩高粱",
+      "translation": null
+    },
+    {
+      "time": 116.9,
+      "time_str": "01:56.900",
+      "text": "一个人 在北大荒",
+      "translation": null
+    },
+    {
+      "time": 118.64,
+      "time_str": "01:58.640",
+      "text": "一碗热汤 啊",
+      "translation": null
+    },
+    {
+      "time": 120.21,
+      "time_str": "02:00.210",
+      "text": "温暖了我 一个晚上",
+      "translation": null
+    },
+    {
+      "time": 121.92,
+      "time_str": "02:01.920",
+      "text": "一匹苍狼 一身风霜",
+      "translation": null
+    },
+    {
+      "time": 123.34,
+      "time_str": "02:03.340",
+      "text": "走过丝路回家乡",
+      "translation": null
+    },
+    {
+      "time": 125.29,
+      "time_str": "02:05.290",
+      "text": "站在古老神秘的城墙",
+      "translation": null
+    },
+    {
+      "time": 128.43,
+      "time_str": "02:08.430",
+      "text": "月光摇又晃",
+      "translation": null
+    },
+    {
+      "time": 131.55,
+      "time_str": "02:11.550",
+      "text": "我用英语跟小贩交谈",
+      "translation": null
+    },
+    {
+      "time": 134.77,
+      "time_str": "02:14.770",
+      "text": "突然画面一下就全暗",
+      "translation": null
+    },
+    {
+      "time": 138.05,
+      "time_str": "02:18.050",
+      "text": "我",
+      "translation": null
+    },
+    {
+      "time": 138.46,
+      "time_str": "02:18.460",
+      "text": "还在想",
+      "translation": null
+    },
+    {
+      "time": 138.98,
+      "time_str": "02:18.980",
+      "text": "到底身在何方",
+      "translation": null
+    },
+    {
+      "time": 140.88,
+      "time_str": "02:20.880",
+      "text": "我",
+      "translation": null
+    },
+    {
+      "time": 141.34,
+      "time_str": "02:21.340",
+      "text": "变模样",
+      "translation": null
+    },
+    {
+      "time": 142.08,
+      "time_str": "02:22.080",
+      "text": "是个华裔姑娘",
+      "translation": null
+    },
+    {
+      "time": 144.04,
+      "time_str": "02:24.040",
+      "text": "我",
+      "translation": null
+    },
+    {
+      "time": 144.52,
+      "time_str": "02:24.520",
+      "text": "开始想",
+      "translation": null
+    },
+    {
+      "time": 145.31,
+      "time_str": "02:25.310",
+      "text": "认真细心装扮",
+      "translation": null
+    },
+    {
+      "time": 147.31,
+      "time_str": "02:27.310",
+      "text": "我",
+      "translation": null
+    },
+    {
+      "time": 147.67,
+      "time_str": "02:27.670",
+      "text": "回台上",
+      "translation": null
+    },
+    {
+      "time": 148.43,
+      "time_str": "02:28.430",
+      "text": "终于轮我上场",
+      "translation": null
+    },
+    {
+      "time": 150.49,
+      "time_str": "02:30.490",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 151.7,
+      "time_str": "02:31.700",
+      "text": "一个后空翻",
+      "translation": null
+    },
+    {
+      "time": 153.3,
+      "time_str": "02:33.300",
+      "text": "腰身跟着转",
+      "translation": null
+    },
+    {
+      "time": 154.9,
+      "time_str": "02:34.900",
+      "text": "马步扎的稳当",
+      "translation": null
+    },
+    {
+      "time": 156.95,
+      "time_str": "02:36.950",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 158.13,
+      "time_str": "02:38.130",
+      "text": "比谁都漂亮",
+      "translation": null
+    },
+    {
+      "time": 159.71,
+      "time_str": "02:39.710",
+      "text": "接着唱一段",
+      "translation": null
+    },
+    {
+      "time": 161.35,
+      "time_str": "02:41.350",
+      "text": "虞姬和霸王",
+      "translation": null
+    },
+    {
+      "time": 163.31,
+      "time_str": "02:43.310",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 164.49,
+      "time_str": "02:44.490",
+      "text": "舞台的戏班",
+      "translation": null
+    },
+    {
+      "time": 166.09,
+      "time_str": "02:46.090",
+      "text": "二胡拉的响",
+      "translation": null
+    },
+    {
+      "time": 167.73,
+      "time_str": "02:47.730",
+      "text": "观众用力鼓掌",
+      "translation": null
+    },
+    {
+      "time": 169.73,
+      "time_str": "02:49.730",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 170.93,
+      "time_str": "02:50.930",
+      "text": "比谁都漂亮",
+      "translation": null
+    },
+    {
+      "time": 172.5,
+      "time_str": "02:52.500",
+      "text": "刀马旦身段",
+      "translation": null
+    },
+    {
+      "time": 174.11,
+      "time_str": "02:54.110",
+      "text": "演出风靡全场",
+      "translation": null
+    },
+    {
+      "time": 176.45,
+      "time_str": "02:56.450",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 177.24,
+      "time_str": "02:57.240",
+      "text": "一个后空翻",
+      "translation": null
+    },
+    {
+      "time": 178.84,
+      "time_str": "02:58.840",
+      "text": "腰身跟着转",
+      "translation": null
+    },
+    {
+      "time": 180.45,
+      "time_str": "03:00.450",
+      "text": "马步扎的稳当",
+      "translation": null
+    },
+    {
+      "time": 182.53,
+      "time_str": "03:02.530",
+      "text": "耍花枪",
+      "translation": null
+    },
+    {
+      "time": 183.68,
+      "time_str": "03:03.680",
+      "text": "比谁都漂亮",
+      "translation": null
+    },
+    {
+      "time": 185.27,
+      "time_str": "03:05.270",
+      "text": "接着唱一段",
+      "translation": null
+    },
+    {
+      "time": 186.88,
+      "time_str": "03:06.880",
+      "text": "虞姬和霸王",
+      "translation": null
+    },
+    {
+      "time": 187.88,
+      "time_str": "03:07.880",
+      "text": "键盘 : 林迈可",
+      "translation": null
+    },
+    {
+      "time": 191.47,
+      "time_str": "03:11.470",
+      "text": "混音室 : 丽风录音室",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "刀马旦 - 李玟,周杰伦.lrc"
+}

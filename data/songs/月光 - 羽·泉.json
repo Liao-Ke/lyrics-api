@@ -1,0 +1,196 @@
+{
+  "title": "月光",
+  "title_raw": "月光",
+  "version": null,
+  "artist": "羽·泉",
+  "group_key": "月光|羽·泉",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 17.16,
+      "time_str": "00:17.160",
+      "text": "月光洒在每个人心上",
+      "translation": null
+    },
+    {
+      "time": 23.46,
+      "time_str": "00:23.460",
+      "text": "为想家的人照着亮",
+      "translation": null
+    },
+    {
+      "time": 30.44,
+      "time_str": "00:30.440",
+      "text": "哦~离开太久的故乡",
+      "translation": null
+    },
+    {
+      "time": 37.18,
+      "time_str": "00:37.180",
+      "text": "和老去的爹娘",
+      "translation": null
+    },
+    {
+      "time": 44.18,
+      "time_str": "00:44.180",
+      "text": "哦~迎着月色散落的光芒",
+      "translation": null
+    },
+    {
+      "time": 50.66,
+      "time_str": "00:50.660",
+      "text": "把古老的歌谣轻轻唱",
+      "translation": null
+    },
+    {
+      "time": 57.88,
+      "time_str": "00:57.880",
+      "text": "哦~无论走到任何的地方",
+      "translation": null
+    },
+    {
+      "time": 64.439,
+      "time_str": "01:04.439",
+      "text": "都别忘了故乡",
+      "translation": null
+    },
+    {
+      "time": 71.38,
+      "time_str": "01:11.380",
+      "text": "是什么力量 让我们坚强",
+      "translation": null
+    },
+    {
+      "time": 78.14,
+      "time_str": "01:18.140",
+      "text": "是什么离去 让我们悲伤",
+      "translation": null
+    },
+    {
+      "time": 84.93,
+      "time_str": "01:24.930",
+      "text": "是什么付出 让我们坦荡",
+      "translation": null
+    },
+    {
+      "time": 91.989,
+      "time_str": "01:31.989",
+      "text": "是什么结束 让我们成长",
+      "translation": null
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "哦~迎着月色散落的光芒",
+      "translation": null
+    },
+    {
+      "time": 133.7,
+      "time_str": "02:13.700",
+      "text": "把古老的歌谣轻轻唱",
+      "translation": null
+    },
+    {
+      "time": 140.55,
+      "time_str": "02:20.550",
+      "text": "哦~无论走到任何的地方",
+      "translation": null
+    },
+    {
+      "time": 147.49,
+      "time_str": "02:27.490",
+      "text": "都别忘了故乡",
+      "translation": null
+    },
+    {
+      "time": 154.26,
+      "time_str": "02:34.260",
+      "text": "是什么力量 让我们坚强",
+      "translation": null
+    },
+    {
+      "time": 160.94,
+      "time_str": "02:40.940",
+      "text": "是什么离去 让我们悲伤",
+      "translation": null
+    },
+    {
+      "time": 167.879,
+      "time_str": "02:47.879",
+      "text": "是什么付出 让我们坦荡",
+      "translation": null
+    },
+    {
+      "time": 174.75,
+      "time_str": "02:54.750",
+      "text": "是什么结束 让我们成长",
+      "translation": null
+    },
+    {
+      "time": 182.38,
+      "time_str": "03:02.380",
+      "text": "是什么欲望 让我们疯狂",
+      "translation": null
+    },
+    {
+      "time": 189.1,
+      "time_str": "03:09.100",
+      "text": "是什么距离 让我们守望",
+      "translation": null
+    },
+    {
+      "time": 196.1,
+      "time_str": "03:16.100",
+      "text": "是什么誓言 让我们幻想",
+      "translation": null
+    },
+    {
+      "time": 202.83,
+      "time_str": "03:22.830",
+      "text": "是什么风雨 让我们流浪",
+      "translation": null
+    },
+    {
+      "time": 212.01,
+      "time_str": "03:32.010",
+      "text": "哦~月亮高高挂在了天上",
+      "translation": null
+    },
+    {
+      "time": 218.42,
+      "time_str": "03:38.420",
+      "text": "让回家的路有方向",
+      "translation": null
+    },
+    {
+      "time": 225.19,
+      "time_str": "03:45.190",
+      "text": "哦~离开太久的故乡",
+      "translation": null
+    },
+    {
+      "time": 232.74,
+      "time_str": "03:52.740",
+      "text": "好想回去见爹娘",
+      "translation": null
+    },
+    {
+      "time": 240.07,
+      "time_str": "04:00.070",
+      "text": "离开了太久的故乡",
+      "translation": null
+    },
+    {
+      "time": 246.74,
+      "time_str": "04:06.740",
+      "text": "快快回去见爹娘",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月光 - 羽·泉.lrc"
+}

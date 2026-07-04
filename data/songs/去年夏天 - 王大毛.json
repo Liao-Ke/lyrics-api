@@ -1,0 +1,418 @@
+{
+  "title": "去年夏天",
+  "title_raw": "去年夏天",
+  "version": null,
+  "artist": "王大毛",
+  "group_key": "去年夏天|王大毛",
+  "writers": {
+    "lyricist": "家家",
+    "composer": "家家",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 17.92,
+      "time_str": "00:17.920",
+      "text": "还有什么等待",
+      "translation": null
+    },
+    {
+      "time": 20.24,
+      "time_str": "00:20.240",
+      "text": "还有什么悲哀",
+      "translation": null
+    },
+    {
+      "time": 22.2,
+      "time_str": "00:22.200",
+      "text": "这故事中的人不太精彩",
+      "translation": null
+    },
+    {
+      "time": 25.8,
+      "time_str": "00:25.800",
+      "text": "夏去了又回来",
+      "translation": null
+    },
+    {
+      "time": 27.74,
+      "time_str": "00:27.740",
+      "text": "而人却已不在",
+      "translation": null
+    },
+    {
+      "time": 29.62,
+      "time_str": "00:29.620",
+      "text": "它重复着我汹涌的忍耐",
+      "translation": null
+    },
+    {
+      "time": 33.69,
+      "time_str": "00:33.690",
+      "text": "今年兰花又开",
+      "translation": null
+    },
+    {
+      "time": 35.52,
+      "time_str": "00:35.520",
+      "text": "开了它也会败",
+      "translation": null
+    },
+    {
+      "time": 37.65,
+      "time_str": "00:37.650",
+      "text": "我想要一个人活得精彩",
+      "translation": null
+    },
+    {
+      "time": 41.27,
+      "time_str": "00:41.270",
+      "text": "有些人总会来",
+      "translation": null
+    },
+    {
+      "time": 43.37,
+      "time_str": "00:43.370",
+      "text": "有些人在我心中在徘徊",
+      "translation": null
+    },
+    {
+      "time": 49.22,
+      "time_str": "00:49.220",
+      "text": "我拿了总会还",
+      "translation": null
+    },
+    {
+      "time": 51.0,
+      "time_str": "00:51.000",
+      "text": "你拿了就逃开",
+      "translation": null
+    },
+    {
+      "time": 53.08,
+      "time_str": "00:53.080",
+      "text": "在失去中我慢慢的变呆",
+      "translation": null
+    },
+    {
+      "time": 57.04,
+      "time_str": "00:57.040",
+      "text": "是不同步的未来",
+      "translation": null
+    },
+    {
+      "time": 60.92,
+      "time_str": "01:00.920",
+      "text": "却把书包中的日记更改",
+      "translation": null
+    },
+    {
+      "time": 64.72,
+      "time_str": "01:04.720",
+      "text": "把虚伪的尘埃",
+      "translation": null
+    },
+    {
+      "time": 66.36,
+      "time_str": "01:06.360",
+      "text": "也全部都掩盖",
+      "translation": null
+    },
+    {
+      "time": 68.51,
+      "time_str": "01:08.510",
+      "text": "把每次心痛都当成活该",
+      "translation": null
+    },
+    {
+      "time": 72.52,
+      "time_str": "01:12.520",
+      "text": "把心慢慢的释怀",
+      "translation": null
+    },
+    {
+      "time": 76.28,
+      "time_str": "01:16.280",
+      "text": "我相信总有一天你会明白",
+      "translation": null
+    },
+    {
+      "time": 80.13,
+      "time_str": "01:20.130",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 82.1,
+      "time_str": "01:22.100",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 84.06,
+      "time_str": "01:24.060",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 85.84,
+      "time_str": "01:25.840",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 96.7,
+      "time_str": "01:36.700",
+      "text": "疼不疼痛不痛",
+      "translation": null
+    },
+    {
+      "time": 98.55,
+      "time_str": "01:38.550",
+      "text": "这样一直被动",
+      "translation": null
+    },
+    {
+      "time": 100.52,
+      "time_str": "01:40.520",
+      "text": "幻想中我的梦",
+      "translation": null
+    },
+    {
+      "time": 102.49,
+      "time_str": "01:42.490",
+      "text": "总会过分要命的囧",
+      "translation": null
+    },
+    {
+      "time": 104.46,
+      "time_str": "01:44.460",
+      "text": "在过去每个时候",
+      "translation": null
+    },
+    {
+      "time": 106.3,
+      "time_str": "01:46.300",
+      "text": "我都会想象的念头",
+      "translation": null
+    },
+    {
+      "time": 111.53,
+      "time_str": "01:51.530",
+      "text": "别怕你就算我是你的",
+      "translation": null
+    },
+    {
+      "time": 113.6,
+      "time_str": "01:53.600",
+      "text": "小小狗也总会被打痛",
+      "translation": null
+    },
+    {
+      "time": 115.96,
+      "time_str": "01:55.960",
+      "text": "意念中想不痛",
+      "translation": null
+    },
+    {
+      "time": 117.93,
+      "time_str": "01:57.930",
+      "text": "却总是被一次掏空",
+      "translation": null
+    },
+    {
+      "time": 120.12,
+      "time_str": "02:00.120",
+      "text": "在去年夏天跟你说了",
+      "translation": null
+    },
+    {
+      "time": 122.53,
+      "time_str": "02:02.530",
+      "text": "一个小小要求",
+      "translation": null
+    },
+    {
+      "time": 124.56,
+      "time_str": "02:04.560",
+      "text": "答应了不放手",
+      "translation": null
+    },
+    {
+      "time": 125.76,
+      "time_str": "02:05.760",
+      "text": "而如今也再不回头",
+      "translation": null
+    },
+    {
+      "time": 127.75,
+      "time_str": "02:07.750",
+      "text": "还有什么等待",
+      "translation": null
+    },
+    {
+      "time": 128.76,
+      "time_str": "02:08.760",
+      "text": "还有什么悲哀",
+      "translation": null
+    },
+    {
+      "time": 130.4,
+      "time_str": "02:10.400",
+      "text": "这故事中的人不太精彩",
+      "translation": null
+    },
+    {
+      "time": 134.28,
+      "time_str": "02:14.280",
+      "text": "夏去了又回来",
+      "translation": null
+    },
+    {
+      "time": 136.21,
+      "time_str": "02:16.210",
+      "text": "而人却已不在",
+      "translation": null
+    },
+    {
+      "time": 138.04,
+      "time_str": "02:18.040",
+      "text": "它重复着我汹涌的忍耐",
+      "translation": null
+    },
+    {
+      "time": 142.03,
+      "time_str": "02:22.030",
+      "text": "我拿了总会还",
+      "translation": null
+    },
+    {
+      "time": 143.96,
+      "time_str": "02:23.960",
+      "text": "你拿了就逃开",
+      "translation": null
+    },
+    {
+      "time": 145.98,
+      "time_str": "02:25.980",
+      "text": "在失去中我慢慢的变呆",
+      "translation": null
+    },
+    {
+      "time": 149.92,
+      "time_str": "02:29.920",
+      "text": "是不同步的未来",
+      "translation": null
+    },
+    {
+      "time": 153.68,
+      "time_str": "02:33.680",
+      "text": "却把书包中的日记更改",
+      "translation": null
+    },
+    {
+      "time": 157.37,
+      "time_str": "02:37.370",
+      "text": "把虚伪的尘埃",
+      "translation": null
+    },
+    {
+      "time": 159.4,
+      "time_str": "02:39.400",
+      "text": "也全部都掩盖",
+      "translation": null
+    },
+    {
+      "time": 161.39,
+      "time_str": "02:41.390",
+      "text": "把每次心痛都当成活该",
+      "translation": null
+    },
+    {
+      "time": 165.24,
+      "time_str": "02:45.240",
+      "text": "把心慢慢的释怀",
+      "translation": null
+    },
+    {
+      "time": 169.03,
+      "time_str": "02:49.030",
+      "text": "我相信总有一天你会明白",
+      "translation": null
+    },
+    {
+      "time": 173.11,
+      "time_str": "02:53.110",
+      "text": "我拿了总会还",
+      "translation": null
+    },
+    {
+      "time": 175.08,
+      "time_str": "02:55.080",
+      "text": "你拿了就逃开",
+      "translation": null
+    },
+    {
+      "time": 177.04,
+      "time_str": "02:57.040",
+      "text": "在失去中我慢慢的变呆",
+      "translation": null
+    },
+    {
+      "time": 180.88,
+      "time_str": "03:00.880",
+      "text": "是不同步的未来",
+      "translation": null
+    },
+    {
+      "time": 184.73,
+      "time_str": "03:04.730",
+      "text": "却把书包中的日记更改",
+      "translation": null
+    },
+    {
+      "time": 188.39,
+      "time_str": "03:08.390",
+      "text": "把虚伪的尘埃",
+      "translation": null
+    },
+    {
+      "time": 190.33,
+      "time_str": "03:10.330",
+      "text": "也全部都掩盖",
+      "translation": null
+    },
+    {
+      "time": 192.3,
+      "time_str": "03:12.300",
+      "text": "把每次心痛都当成活该",
+      "translation": null
+    },
+    {
+      "time": 196.24,
+      "time_str": "03:16.240",
+      "text": "把心慢慢的释怀",
+      "translation": null
+    },
+    {
+      "time": 200.28,
+      "time_str": "03:20.280",
+      "text": "我相信总有一天你会明白",
+      "translation": null
+    },
+    {
+      "time": 203.95,
+      "time_str": "03:23.950",
+      "text": "我给你的爱",
+      "translation": null
+    },
+    {
+      "time": 205.81,
+      "time_str": "03:25.810",
+      "text": "啦啦啦啦啦...",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "去年夏天 - 王大毛.lrc"
+}

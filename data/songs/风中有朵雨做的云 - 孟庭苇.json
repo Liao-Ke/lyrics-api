@@ -1,0 +1,244 @@
+{
+  "title": "风中有朵雨做的云",
+  "title_raw": "风中有朵雨做的云",
+  "version": null,
+  "artist": "孟庭苇",
+  "group_key": "风中有朵雨做的云|孟庭苇",
+  "writers": {
+    "lyricist": "李安修",
+    "composer": "陈耀川",
+    "arranger": "涂惠源"
+  },
+  "lyrics": [
+    {
+      "time": 22.08,
+      "time_str": "00:22.080",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 26.75,
+      "time_str": "00:26.750",
+      "text": "一朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 31.28,
+      "time_str": "00:31.280",
+      "text": "云的心里全都是雨",
+      "translation": null
+    },
+    {
+      "time": 36.46,
+      "time_str": "00:36.460",
+      "text": "滴滴全都是你",
+      "translation": null
+    },
+    {
+      "time": 41.16,
+      "time_str": "00:41.160",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 45.9,
+      "time_str": "00:45.900",
+      "text": "一朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 50.92,
+      "time_str": "00:50.920",
+      "text": "云在风里伤透了心",
+      "translation": null
+    },
+    {
+      "time": 55.16,
+      "time_str": "00:55.160",
+      "text": "不知又将吹向哪儿去",
+      "translation": null
+    },
+    {
+      "time": 59.79,
+      "time_str": "00:59.790",
+      "text": "吹啊吹吹落花满地",
+      "translation": null
+    },
+    {
+      "time": 64.72,
+      "time_str": "01:04.720",
+      "text": "找不到一丝丝怜惜",
+      "translation": null
+    },
+    {
+      "time": 69.46,
+      "time_str": "01:09.460",
+      "text": "飘呀飘飘过千万里",
+      "translation": null
+    },
+    {
+      "time": 74.16,
+      "time_str": "01:14.160",
+      "text": "苦苦守候你的归期",
+      "translation": null
+    },
+    {
+      "time": 81.46,
+      "time_str": "01:21.460",
+      "text": "每当天空又下起了雨",
+      "translation": null
+    },
+    {
+      "time": 85.92,
+      "time_str": "01:25.920",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 91.09,
+      "time_str": "01:31.090",
+      "text": "每当心中又想起了你",
+      "translation": null
+    },
+    {
+      "time": 95.88,
+      "time_str": "01:35.880",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 120.47,
+      "time_str": "02:00.470",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 125.09,
+      "time_str": "02:05.090",
+      "text": "一朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 130.45,
+      "time_str": "02:10.450",
+      "text": "云在风里伤透了心",
+      "translation": null
+    },
+    {
+      "time": 134.21,
+      "time_str": "02:14.210",
+      "text": "不知又将吹向那儿去",
+      "translation": null
+    },
+    {
+      "time": 139.06,
+      "time_str": "02:19.060",
+      "text": "吹啊吹吹落花满地",
+      "translation": null
+    },
+    {
+      "time": 143.86,
+      "time_str": "02:23.860",
+      "text": "找不到一丝丝怜惜",
+      "translation": null
+    },
+    {
+      "time": 148.75,
+      "time_str": "02:28.750",
+      "text": "飘啊飘飘过千万里",
+      "translation": null
+    },
+    {
+      "time": 153.45,
+      "time_str": "02:33.450",
+      "text": "苦苦守候你的归期",
+      "translation": null
+    },
+    {
+      "time": 160.56,
+      "time_str": "02:40.560",
+      "text": "每当天空又下起了雨",
+      "translation": null
+    },
+    {
+      "time": 165.26,
+      "time_str": "02:45.260",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 170.17,
+      "time_str": "02:50.170",
+      "text": "每当心中又想起了你",
+      "translation": null
+    },
+    {
+      "time": 174.94,
+      "time_str": "02:54.940",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 189.47,
+      "time_str": "03:09.470",
+      "text": "吹啊吹吹落花满地",
+      "translation": null
+    },
+    {
+      "time": 194.41,
+      "time_str": "03:14.410",
+      "text": "找不到一丝丝怜惜",
+      "translation": null
+    },
+    {
+      "time": 199.1,
+      "time_str": "03:19.100",
+      "text": "飘啊飘飘过千万里",
+      "translation": null
+    },
+    {
+      "time": 203.84,
+      "time_str": "03:23.840",
+      "text": "苦苦守候你的归期",
+      "translation": null
+    },
+    {
+      "time": 213.46,
+      "time_str": "03:33.460",
+      "text": "每当天空又下起了雨",
+      "translation": null
+    },
+    {
+      "time": 218.09,
+      "time_str": "03:38.090",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 222.98,
+      "time_str": "03:42.980",
+      "text": "每当心中又想起了你",
+      "translation": null
+    },
+    {
+      "time": 227.9,
+      "time_str": "03:47.900",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    },
+    {
+      "time": 232.58,
+      "time_str": "03:52.580",
+      "text": "每当心中又想起了你",
+      "translation": null
+    },
+    {
+      "time": 237.45,
+      "time_str": "03:57.450",
+      "text": "风中有朵雨做的云",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "风中有朵雨做的云 - 孟庭苇.lrc"
+}

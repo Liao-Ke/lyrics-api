@@ -1,0 +1,250 @@
+{
+  "title": "西海情歌",
+  "title_raw": "西海情歌",
+  "version": null,
+  "artist": "刀郎",
+  "group_key": "西海情歌|刀郎",
+  "writers": {
+    "lyricist": "刀郎",
+    "composer": "刀郎",
+    "arranger": "刀郎"
+  },
+  "lyrics": [
+    {
+      "time": 55.16,
+      "time_str": "00:55.160",
+      "text": "自你离开以后",
+      "translation": null
+    },
+    {
+      "time": 61.39,
+      "time_str": "01:01.390",
+      "text": "从此就丢了温柔",
+      "translation": null
+    },
+    {
+      "time": 67.83,
+      "time_str": "01:07.830",
+      "text": "等待在这雪山路漫长",
+      "translation": null
+    },
+    {
+      "time": 73.2,
+      "time_str": "01:13.200",
+      "text": "听寒风呼啸依旧",
+      "translation": null
+    },
+    {
+      "time": 80.38,
+      "time_str": "01:20.380",
+      "text": "一眼望不到边",
+      "translation": null
+    },
+    {
+      "time": 86.68,
+      "time_str": "01:26.680",
+      "text": "风似刀割我的脸",
+      "translation": null
+    },
+    {
+      "time": 93.0,
+      "time_str": "01:33.000",
+      "text": "等不到西海天际蔚蓝",
+      "translation": null
+    },
+    {
+      "time": 98.33,
+      "time_str": "01:38.330",
+      "text": "无言这苍茫的高原",
+      "translation": null
+    },
+    {
+      "time": 105.67,
+      "time_str": "01:45.670",
+      "text": "还记得你答应过我",
+      "translation": null
+    },
+    {
+      "time": 108.97,
+      "time_str": "01:48.970",
+      "text": "不会让我把你找不见",
+      "translation": null
+    },
+    {
+      "time": 113.09,
+      "time_str": "01:53.090",
+      "text": "可你跟随那南归的候鸟飞得那么远",
+      "translation": null
+    },
+    {
+      "time": 119.4,
+      "time_str": "01:59.400",
+      "text": "爱像风筝断了线",
+      "translation": null
+    },
+    {
+      "time": 122.49,
+      "time_str": "02:02.490",
+      "text": "拉不住你许下的诺言",
+      "translation": null
+    },
+    {
+      "time": 129.44,
+      "time_str": "02:09.440",
+      "text": "我在苦苦等待雪山之巅温暖的春天",
+      "translation": null
+    },
+    {
+      "time": 135.03,
+      "time_str": "02:15.030",
+      "text": "等待高原冰雪融化之后归来的孤雁",
+      "translation": null
+    },
+    {
+      "time": 141.44,
+      "time_str": "02:21.440",
+      "text": "爱再难以续情缘",
+      "translation": null
+    },
+    {
+      "time": 144.64,
+      "time_str": "02:24.640",
+      "text": "回不到我们的从前",
+      "translation": null
+    },
+    {
+      "time": 162.64,
+      "time_str": "02:42.640",
+      "text": "一眼望不到边",
+      "translation": null
+    },
+    {
+      "time": 168.71,
+      "time_str": "02:48.710",
+      "text": "风似刀割我的脸",
+      "translation": null
+    },
+    {
+      "time": 175.0,
+      "time_str": "02:55.000",
+      "text": "等不到西海天际蔚蓝",
+      "translation": null
+    },
+    {
+      "time": 181.27,
+      "time_str": "03:01.270",
+      "text": "无言这苍茫的高原",
+      "translation": null
+    },
+    {
+      "time": 187.78,
+      "time_str": "03:07.780",
+      "text": "还记得你答应过我",
+      "translation": null
+    },
+    {
+      "time": 191.08,
+      "time_str": "03:11.080",
+      "text": "不会让我把你找不见",
+      "translation": null
+    },
+    {
+      "time": 194.97,
+      "time_str": "03:14.970",
+      "text": "可你跟随那南归的候鸟飞得那么远",
+      "translation": null
+    },
+    {
+      "time": 201.31,
+      "time_str": "03:21.310",
+      "text": "爱像风筝断了线",
+      "translation": null
+    },
+    {
+      "time": 204.62,
+      "time_str": "03:24.620",
+      "text": "拉不住你许下的诺言",
+      "translation": null
+    },
+    {
+      "time": 211.27,
+      "time_str": "03:31.270",
+      "text": "我在苦苦等待雪山之巅温暖的春天",
+      "translation": null
+    },
+    {
+      "time": 217.2,
+      "time_str": "03:37.200",
+      "text": "等待高原冰雪融化之后归来的孤雁",
+      "translation": null
+    },
+    {
+      "time": 223.48,
+      "time_str": "03:43.480",
+      "text": "爱再难以续情缘",
+      "translation": null
+    },
+    {
+      "time": 226.67,
+      "time_str": "03:46.670",
+      "text": "回不到我们的从前",
+      "translation": null
+    },
+    {
+      "time": 263.73,
+      "time_str": "04:23.730",
+      "text": "还记得你答应过我",
+      "translation": null
+    },
+    {
+      "time": 266.96,
+      "time_str": "04:26.960",
+      "text": "不会让我把你找不见",
+      "translation": null
+    },
+    {
+      "time": 270.91,
+      "time_str": "04:30.910",
+      "text": "可你跟随那南归的候鸟飞得那么远",
+      "translation": null
+    },
+    {
+      "time": 277.14,
+      "time_str": "04:37.140",
+      "text": "爱像风筝断了线",
+      "translation": null
+    },
+    {
+      "time": 280.74,
+      "time_str": "04:40.740",
+      "text": "拉不住你许下的诺言",
+      "translation": null
+    },
+    {
+      "time": 287.05,
+      "time_str": "04:47.050",
+      "text": "我在苦苦等待雪山之巅温暖的春天",
+      "translation": null
+    },
+    {
+      "time": 292.99,
+      "time_str": "04:52.990",
+      "text": "等待高原冰雪融化之后归来的孤雁",
+      "translation": null
+    },
+    {
+      "time": 299.24,
+      "time_str": "04:59.240",
+      "text": "爱再难以续情缘",
+      "translation": null
+    },
+    {
+      "time": 302.55,
+      "time_str": "05:02.550",
+      "text": "回不到我们的从前",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "西海情歌 - 刀郎.lrc"
+}

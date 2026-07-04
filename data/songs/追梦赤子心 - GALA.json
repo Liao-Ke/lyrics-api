@@ -1,0 +1,298 @@
+{
+  "title": "追梦赤子心",
+  "title_raw": "追梦赤子心",
+  "version": null,
+  "artist": "GALA",
+  "group_key": "追梦赤子心|gala",
+  "writers": {
+    "lyricist": "GALA",
+    "composer": "GALA",
+    "arranger": "甘虎"
+  },
+  "lyrics": [
+    {
+      "time": 5.0,
+      "time_str": "00:05.000",
+      "text": "贝斯 : 石亮",
+      "translation": null
+    },
+    {
+      "time": 10.0,
+      "time_str": "00:10.000",
+      "text": "弦乐编写 : 陈迪/棨冰",
+      "translation": null
+    },
+    {
+      "time": 11.0,
+      "time_str": "00:11.000",
+      "text": "录音工程师 : 郝宇/石亮@Jet Studio",
+      "translation": null
+    },
+    {
+      "time": 12.0,
+      "time_str": "00:12.000",
+      "text": "录音助理 : 时磊/路路@Jet Studio",
+      "translation": null
+    },
+    {
+      "time": 13.0,
+      "time_str": "00:13.000",
+      "text": "混音工程师 : 军军@Village Studio",
+      "translation": null
+    },
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "母带工程师 : 军军@Perfect Studio",
+      "translation": null
+    },
+    {
+      "time": 15.33,
+      "time_str": "00:15.330",
+      "text": "充满鲜花的世界到底在哪里",
+      "translation": null
+    },
+    {
+      "time": 21.31,
+      "time_str": "00:21.310",
+      "text": "如果它真的存在那么我一定会去",
+      "translation": null
+    },
+    {
+      "time": 28.76,
+      "time_str": "00:28.760",
+      "text": "我想在那里最高的山峰矗立",
+      "translation": null
+    },
+    {
+      "time": 34.18,
+      "time_str": "00:34.180",
+      "text": "不在乎它是不是悬崖峭壁",
+      "translation": null
+    },
+    {
+      "time": 42.01,
+      "time_str": "00:42.010",
+      "text": "用力活着用力爱哪怕肝脑涂地",
+      "translation": null
+    },
+    {
+      "time": 47.83,
+      "time_str": "00:47.830",
+      "text": "不求任何人满意只要对得起自己",
+      "translation": null
+    },
+    {
+      "time": 55.2,
+      "time_str": "00:55.200",
+      "text": "关于理想我从来没选择放弃",
+      "translation": null
+    },
+    {
+      "time": 60.66,
+      "time_str": "01:00.660",
+      "text": "即使在灰头土脸的日子里",
+      "translation": null
+    },
+    {
+      "time": 67.39,
+      "time_str": "01:07.390",
+      "text": "也许我没有天分",
+      "translation": null
+    },
+    {
+      "time": 70.6,
+      "time_str": "01:10.600",
+      "text": "但我有梦的天真",
+      "translation": null
+    },
+    {
+      "time": 73.9,
+      "time_str": "01:13.900",
+      "text": "我将会去证明用我的一生",
+      "translation": null
+    },
+    {
+      "time": 80.64,
+      "time_str": "01:20.640",
+      "text": "也许我手比较笨",
+      "translation": null
+    },
+    {
+      "time": 83.85,
+      "time_str": "01:23.850",
+      "text": "但我愿不停探寻",
+      "translation": null
+    },
+    {
+      "time": 87.26,
+      "time_str": "01:27.260",
+      "text": "付出所有的青春不留遗憾",
+      "translation": null
+    },
+    {
+      "time": 94.61,
+      "time_str": "01:34.610",
+      "text": "向前跑 迎着冷眼和嘲笑",
+      "translation": null
+    },
+    {
+      "time": 100.16,
+      "time_str": "01:40.160",
+      "text": "生命的广阔不历经磨难怎能感到",
+      "translation": null
+    },
+    {
+      "time": 107.13,
+      "time_str": "01:47.130",
+      "text": "命运它无法让我们跪地求饶",
+      "translation": null
+    },
+    {
+      "time": 114.71,
+      "time_str": "01:54.710",
+      "text": "就算鲜血洒满了怀抱",
+      "translation": null
+    },
+    {
+      "time": 120.98,
+      "time_str": "02:00.980",
+      "text": "继续跑 带着赤子的骄傲",
+      "translation": null
+    },
+    {
+      "time": 127.69,
+      "time_str": "02:07.690",
+      "text": "生命的闪耀不坚持到底怎能看到",
+      "translation": null
+    },
+    {
+      "time": 134.02,
+      "time_str": "02:14.020",
+      "text": "与其苟延残喘不如纵情燃烧吧",
+      "translation": null
+    },
+    {
+      "time": 142.46,
+      "time_str": "02:22.460",
+      "text": "有一天会再发芽",
+      "translation": null
+    },
+    {
+      "time": 176.26,
+      "time_str": "02:56.260",
+      "text": "未来迷人绚烂总在向我召唤",
+      "translation": null
+    },
+    {
+      "time": 181.18,
+      "time_str": "03:01.180",
+      "text": "哪怕只有痛苦作伴也要勇往直前",
+      "translation": null
+    },
+    {
+      "time": 189.07,
+      "time_str": "03:09.070",
+      "text": "我想在那里最蓝的大海扬帆",
+      "translation": null
+    },
+    {
+      "time": 194.78,
+      "time_str": "03:14.780",
+      "text": "绝不管自己能不能回还",
+      "translation": null
+    },
+    {
+      "time": 201.89,
+      "time_str": "03:21.890",
+      "text": "失败后郁郁寡欢",
+      "translation": null
+    },
+    {
+      "time": 204.76,
+      "time_str": "03:24.760",
+      "text": "那是懦夫的表现",
+      "translation": null
+    },
+    {
+      "time": 208.19,
+      "time_str": "03:28.190",
+      "text": "只要一息尚存请握紧双拳",
+      "translation": null
+    },
+    {
+      "time": 215.01,
+      "time_str": "03:35.010",
+      "text": "在天色破晓之前",
+      "translation": null
+    },
+    {
+      "time": 218.17,
+      "time_str": "03:38.170",
+      "text": "我们要更加勇敢",
+      "translation": null
+    },
+    {
+      "time": 221.64,
+      "time_str": "03:41.640",
+      "text": "等待日出时最耀眼的瞬间",
+      "translation": null
+    },
+    {
+      "time": 229.27,
+      "time_str": "03:49.270",
+      "text": "向前跑 迎着冷眼和嘲笑",
+      "translation": null
+    },
+    {
+      "time": 235.6,
+      "time_str": "03:55.600",
+      "text": "生命的广阔不历经磨难怎能感到",
+      "translation": null
+    },
+    {
+      "time": 242.61,
+      "time_str": "04:02.610",
+      "text": "命运它无法让我们跪地求饶",
+      "translation": null
+    },
+    {
+      "time": 249.53,
+      "time_str": "04:09.530",
+      "text": "就算鲜血洒满了怀抱",
+      "translation": null
+    },
+    {
+      "time": 256.11,
+      "time_str": "04:16.110",
+      "text": "继续跑 带着赤子的骄傲",
+      "translation": null
+    },
+    {
+      "time": 262.72,
+      "time_str": "04:22.720",
+      "text": "生命的闪耀不坚持到底怎能看到",
+      "translation": null
+    },
+    {
+      "time": 269.17,
+      "time_str": "04:29.170",
+      "text": "与其苟延残喘不如纵情燃烧吧",
+      "translation": null
+    },
+    {
+      "time": 276.97,
+      "time_str": "04:36.970",
+      "text": "为了心中的美好",
+      "translation": null
+    },
+    {
+      "time": 283.98,
+      "time_str": "04:43.980",
+      "text": "不妥协直到变老",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "追梦赤子心 - GALA.lrc"
+}

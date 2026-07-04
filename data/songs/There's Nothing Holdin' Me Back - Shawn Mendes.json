@@ -1,0 +1,310 @@
+{
+  "title": "There's Nothing Holdin' Me Back",
+  "title_raw": "There's Nothing Holdin' Me Back",
+  "version": null,
+  "artist": "Shawn Mendes",
+  "group_key": "there's nothing holdin' me back|shawn mendes",
+  "writers": {
+    "lyricist": "Teddy Geiger/Shawn Mendes/Scott Harris/Geoffrey Warburton",
+    "composer": "Teddy Geiger/Shawn Mendes/Scott Harris/Geoffrey Warburton",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.25,
+      "time_str": "00:08.250",
+      "text": "I wanna follow where she goes",
+      "translation": "我想要跟随她 去她想去的地方"
+    },
+    {
+      "time": 12.18,
+      "time_str": "00:12.180",
+      "text": "I think about her and she knows it",
+      "translation": "我时刻都在想念她 这点她心知肚明"
+    },
+    {
+      "time": 16.11,
+      "time_str": "00:16.110",
+      "text": "I wanna let her take control",
+      "translation": "我真想我能好好把持这份情愫"
+    },
+    {
+      "time": 20.1,
+      "time_str": "00:20.100",
+      "text": "'Cause every time that she gets close, yeah",
+      "translation": "因为无时无刻 她总是会越靠越近"
+    },
+    {
+      "time": 23.49,
+      "time_str": "00:23.490",
+      "text": "She pulls me in enough to keep me guessing, mmm",
+      "translation": "她让我深陷其中 让我不免怀疑"
+    },
+    {
+      "time": 31.39,
+      "time_str": "00:31.390",
+      "text": "Maybe I should stop and start confessing",
+      "translation": "也许我应该停下我靠近的脚步 摊牌我的一切"
+    },
+    {
+      "time": 36.97,
+      "time_str": "00:36.970",
+      "text": "Confessing, yeah",
+      "translation": "坦白一切"
+    },
+    {
+      "time": 39.75,
+      "time_str": "00:39.750",
+      "text": "Oh, I've been shaking",
+      "translation": "哦 我战栗着"
+    },
+    {
+      "time": 40.95,
+      "time_str": "00:40.950",
+      "text": "I love it when you go crazy",
+      "translation": "当你渐渐疯狂 我爱的正是你这模样"
+    },
+    {
+      "time": 42.95,
+      "time_str": "00:42.950",
+      "text": "You take all my inhibitions",
+      "translation": "你让我的自制力都为你崩溃"
+    },
+    {
+      "time": 45.2,
+      "time_str": "00:45.200",
+      "text": "Baby, there's nothing holding me back",
+      "translation": "亲爱的 如今再没有什么可以踌躇我的脚步"
+    },
+    {
+      "time": 47.55,
+      "time_str": "00:47.550",
+      "text": "You take me places that tear up my reputation",
+      "translation": "你带我来到名声狼藉的境地"
+    },
+    {
+      "time": 50.77,
+      "time_str": "00:50.770",
+      "text": "Manipulate my decisions",
+      "translation": "操控我所有选择"
+    },
+    {
+      "time": 52.95,
+      "time_str": "00:52.950",
+      "text": "Baby, there's nothing holding me back",
+      "translation": "亲爱的 如今已没有什么可以阻碍我的脚步"
+    },
+    {
+      "time": 61.33,
+      "time_str": "01:01.330",
+      "text": "There's nothing holding me back",
+      "translation": "如今已没有什么可以阻碍我的脚步"
+    },
+    {
+      "time": 69.19,
+      "time_str": "01:09.190",
+      "text": "There's nothing holding me back",
+      "translation": "如今已没有什么可以阻碍我的脚步"
+    },
+    {
+      "time": 71.18,
+      "time_str": "01:11.180",
+      "text": "She says that she’s never afraid",
+      "translation": "她说她永远不会害怕"
+    },
+    {
+      "time": 75.11,
+      "time_str": "01:15.110",
+      "text": "Just picture everybody naked",
+      "translation": "就想象所有人都卸下伪装"
+    },
+    {
+      "time": 79.0,
+      "time_str": "01:19.000",
+      "text": "She really doesn't like to wait",
+      "translation": "她不愿意等待"
+    },
+    {
+      "time": 82.98,
+      "time_str": "01:22.980",
+      "text": "Not really into hesitation",
+      "translation": "绝不愿陷入犹豫"
+    },
+    {
+      "time": 86.66,
+      "time_str": "01:26.660",
+      "text": "Pulls me in enough to keep me guessing, whoa",
+      "translation": "她让我深陷其中 让我不免怀疑"
+    },
+    {
+      "time": 94.34,
+      "time_str": "01:34.340",
+      "text": "And maybe I should stop and start confessing",
+      "translation": "也许我应该停下我靠近的脚步 摊牌我的一切"
+    },
+    {
+      "time": 99.95,
+      "time_str": "01:39.950",
+      "text": "Confessing, yeah",
+      "translation": "坦白一切"
+    },
+    {
+      "time": 102.69,
+      "time_str": "01:42.690",
+      "text": "Oh, I've been shaking",
+      "translation": "哦 我战栗着"
+    },
+    {
+      "time": 103.85,
+      "time_str": "01:43.850",
+      "text": "I love it when you go crazy",
+      "translation": "当你渐渐疯狂 我爱的正是你这模样"
+    },
+    {
+      "time": 105.81,
+      "time_str": "01:45.810",
+      "text": "You take all my inhibitions",
+      "translation": "你让我的自制力都为你崩溃"
+    },
+    {
+      "time": 108.2,
+      "time_str": "01:48.200",
+      "text": "Baby, there's nothing holding me back",
+      "translation": "亲爱的 如今再没有什么可以踌躇我的脚步"
+    },
+    {
+      "time": 110.51,
+      "time_str": "01:50.510",
+      "text": "You take me places that tear up my reputation",
+      "translation": "你带我来到名声狼藉的境地"
+    },
+    {
+      "time": 113.67,
+      "time_str": "01:53.670",
+      "text": "Manipulate my decisions",
+      "translation": "操控我所有选择"
+    },
+    {
+      "time": 115.97,
+      "time_str": "01:55.970",
+      "text": "Baby, there's nothing holding me back",
+      "translation": "亲爱的 如今已没有什么可以阻碍我的脚步"
+    },
+    {
+      "time": 124.3,
+      "time_str": "02:04.300",
+      "text": "There's nothing holding me back",
+      "translation": "如今已没有什么可以阻碍我的脚步"
+    },
+    {
+      "time": 133.14,
+      "time_str": "02:13.140",
+      "text": "'Cause if we lost our minds and we took it way too far",
+      "translation": "如果你我终于丢掉了最后的理智 天涯两隔"
+    },
+    {
+      "time": 137.2,
+      "time_str": "02:17.200",
+      "text": "I know we'd be alright, know we would be alright",
+      "translation": "我清楚的 我们都会好好的 我们都会好好的"
+    },
+    {
+      "time": 141.3,
+      "time_str": "02:21.300",
+      "text": "If you were by my side and we stumbled in the dark",
+      "translation": "虽在黑暗中 步履维艰 而我始终有你相随"
+    },
+    {
+      "time": 144.97,
+      "time_str": "02:24.970",
+      "text": "I know we'd be alright, I know we would be alright",
+      "translation": "我清楚的 我们都会好好的 我们都会好好的"
+    },
+    {
+      "time": 148.92,
+      "time_str": "02:28.920",
+      "text": "'Cause if we lost our minds and we took it way too far",
+      "translation": "如果你我终于丢掉了最后的理智 天涯两隔"
+    },
+    {
+      "time": 152.85,
+      "time_str": "02:32.850",
+      "text": "I know we'd be alright, I know we would be alright",
+      "translation": "我清楚的 我们都会好好的 我们都会好好的"
+    },
+    {
+      "time": 156.78,
+      "time_str": "02:36.780",
+      "text": "If you were by my side and we stumbled in the dark",
+      "translation": "虽在黑暗中 步履维艰 而我始终有你相随"
+    },
+    {
+      "time": 160.68,
+      "time_str": "02:40.680",
+      "text": "I know we'd be alright, we would be alright",
+      "translation": "我清楚的 我们都会好好的 我们都会好好的"
+    },
+    {
+      "time": 165.65,
+      "time_str": "02:45.650",
+      "text": "Oh, I've been shaking",
+      "translation": "哦 我战栗着"
+    },
+    {
+      "time": 166.8,
+      "time_str": "02:46.800",
+      "text": "I love it when you go crazy",
+      "translation": "当你渐渐疯狂 我爱的正是你这模样"
+    },
+    {
+      "time": 168.82,
+      "time_str": "02:48.820",
+      "text": "You take all my inhibitions",
+      "translation": "你让我的自制力都为你崩溃"
+    },
+    {
+      "time": 171.2,
+      "time_str": "02:51.200",
+      "text": "Baby, there's nothing holding me back",
+      "translation": "亲爱的 如今再没有什么可以踌躇我的脚步"
+    },
+    {
+      "time": 173.49,
+      "time_str": "02:53.490",
+      "text": "You take me places that tear up my reputation",
+      "translation": "你带我来到名声狼藉的境地"
+    },
+    {
+      "time": 176.67,
+      "time_str": "02:56.670",
+      "text": "Manipulate my decisions",
+      "translation": "操控我所有选择"
+    },
+    {
+      "time": 178.88,
+      "time_str": "02:58.880",
+      "text": "Baby, there's nothing holding me back",
+      "translation": "亲爱的 如今已没有什么可以阻碍我的脚步"
+    },
+    {
+      "time": 187.21,
+      "time_str": "03:07.210",
+      "text": "There's nothing holding me back",
+      "translation": "如今已没有什么可以阻碍我的脚步"
+    },
+    {
+      "time": 189.29,
+      "time_str": "03:09.290",
+      "text": "I feel so free when you're with me, baby",
+      "translation": "亲爱的 当我与你相伴 我只感觉无拘无束"
+    },
+    {
+      "time": 194.76,
+      "time_str": "03:14.760",
+      "text": "Baby, there's nothing holding me back",
+      "translation": "亲爱的 如今已没有什么可以阻碍我的脚步"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "There's Nothing Holdin' Me Back - Shawn Mendes.lrc"
+}

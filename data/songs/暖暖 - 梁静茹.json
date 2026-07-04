@@ -1,0 +1,418 @@
+{
+  "title": "暖暖",
+  "title_raw": "暖暖",
+  "version": null,
+  "artist": "梁静茹",
+  "group_key": "暖暖|梁静茹",
+  "writers": {
+    "lyricist": "李焯雄",
+    "composer": "人工卫星",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 32.31,
+      "time_str": "00:32.310",
+      "text": "都可以 随便的",
+      "translation": null
+    },
+    {
+      "time": 34.3,
+      "time_str": "00:34.300",
+      "text": "你说的 我都愿意去",
+      "translation": null
+    },
+    {
+      "time": 37.23,
+      "time_str": "00:37.230",
+      "text": "小火车",
+      "translation": null
+    },
+    {
+      "time": 38.54,
+      "time_str": "00:38.540",
+      "text": "摆动的旋律",
+      "translation": null
+    },
+    {
+      "time": 41.37,
+      "time_str": "00:41.370",
+      "text": "都可以 是真的",
+      "translation": null
+    },
+    {
+      "time": 43.44,
+      "time_str": "00:43.440",
+      "text": "你说的 我都会相信",
+      "translation": null
+    },
+    {
+      "time": 46.45,
+      "time_str": "00:46.450",
+      "text": "因为我",
+      "translation": null
+    },
+    {
+      "time": 47.73,
+      "time_str": "00:47.730",
+      "text": "完全信任你",
+      "translation": null
+    },
+    {
+      "time": 50.98,
+      "time_str": "00:50.980",
+      "text": "细腻的喜欢",
+      "translation": null
+    },
+    {
+      "time": 53.24,
+      "time_str": "00:53.240",
+      "text": "毛毯般的厚重感",
+      "translation": null
+    },
+    {
+      "time": 55.59,
+      "time_str": "00:55.590",
+      "text": "晒过太阳",
+      "translation": null
+    },
+    {
+      "time": 57.27,
+      "time_str": "00:57.270",
+      "text": "熟悉的安全感",
+      "translation": null
+    },
+    {
+      "time": 60.11,
+      "time_str": "01:00.110",
+      "text": "分享热汤",
+      "translation": null
+    },
+    {
+      "time": 61.92,
+      "time_str": "01:01.920",
+      "text": "我们两支汤匙一个碗",
+      "translation": null
+    },
+    {
+      "time": 64.87,
+      "time_str": "01:04.870",
+      "text": "左心房",
+      "translation": null
+    },
+    {
+      "time": 66.18,
+      "time_str": "01:06.180",
+      "text": "暖暖的好饱满",
+      "translation": null
+    },
+    {
+      "time": 69.07,
+      "time_str": "01:09.070",
+      "text": "我想说其实你很好",
+      "translation": null
+    },
+    {
+      "time": 71.77,
+      "time_str": "01:11.770",
+      "text": "你自己却不知道",
+      "translation": null
+    },
+    {
+      "time": 74.61,
+      "time_str": "01:14.610",
+      "text": "真心的对我好",
+      "translation": null
+    },
+    {
+      "time": 76.87,
+      "time_str": "01:16.870",
+      "text": "不要求回报",
+      "translation": null
+    },
+    {
+      "time": 79.23,
+      "time_str": "01:19.230",
+      "text": "爱一个人",
+      "translation": null
+    },
+    {
+      "time": 80.95,
+      "time_str": "01:20.950",
+      "text": "希望他 过更好",
+      "translation": null
+    },
+    {
+      "time": 83.71,
+      "time_str": "01:23.710",
+      "text": "打从心里暖暖的",
+      "translation": null
+    },
+    {
+      "time": 86.16,
+      "time_str": "01:26.160",
+      "text": "你比自己更重要",
+      "translation": null
+    },
+    {
+      "time": 106.13,
+      "time_str": "01:46.130",
+      "text": "都可以 随便的",
+      "translation": null
+    },
+    {
+      "time": 108.07,
+      "time_str": "01:48.070",
+      "text": "你说的 我都愿意去",
+      "translation": null
+    },
+    {
+      "time": 111.2,
+      "time_str": "01:51.200",
+      "text": "回忆里",
+      "translation": null
+    },
+    {
+      "time": 112.42,
+      "time_str": "01:52.420",
+      "text": "满足的旋律",
+      "translation": null
+    },
+    {
+      "time": 115.38,
+      "time_str": "01:55.380",
+      "text": "都可以 是真的",
+      "translation": null
+    },
+    {
+      "time": 117.41,
+      "time_str": "01:57.410",
+      "text": "你说的 我都会相信",
+      "translation": null
+    },
+    {
+      "time": 120.31,
+      "time_str": "02:00.310",
+      "text": "因为我",
+      "translation": null
+    },
+    {
+      "time": 121.56,
+      "time_str": "02:01.560",
+      "text": "完全信任你",
+      "translation": null
+    },
+    {
+      "time": 124.68,
+      "time_str": "02:04.680",
+      "text": "细腻的喜欢",
+      "translation": null
+    },
+    {
+      "time": 127.17,
+      "time_str": "02:07.170",
+      "text": "你手掌的厚实感",
+      "translation": null
+    },
+    {
+      "time": 129.47,
+      "time_str": "02:09.470",
+      "text": "什么困难",
+      "translation": null
+    },
+    {
+      "time": 131.19,
+      "time_str": "02:11.190",
+      "text": "都觉得有希望",
+      "translation": null
+    },
+    {
+      "time": 133.98,
+      "time_str": "02:13.980",
+      "text": "我哼着歌",
+      "translation": null
+    },
+    {
+      "time": 135.76,
+      "time_str": "02:15.760",
+      "text": "你自然的就接下一段",
+      "translation": null
+    },
+    {
+      "time": 138.79,
+      "time_str": "02:18.790",
+      "text": "我知道",
+      "translation": null
+    },
+    {
+      "time": 140.07,
+      "time_str": "02:20.070",
+      "text": "暖暖 就在胸膛",
+      "translation": null
+    },
+    {
+      "time": 143.1,
+      "time_str": "02:23.100",
+      "text": "我想说其实你很好",
+      "translation": null
+    },
+    {
+      "time": 145.66,
+      "time_str": "02:25.660",
+      "text": "你自己却不知道",
+      "translation": null
+    },
+    {
+      "time": 148.44,
+      "time_str": "02:28.440",
+      "text": "真心的对我好",
+      "translation": null
+    },
+    {
+      "time": 150.88,
+      "time_str": "02:30.880",
+      "text": "不要求回报",
+      "translation": null
+    },
+    {
+      "time": 153.12,
+      "time_str": "02:33.120",
+      "text": "爱一个人",
+      "translation": null
+    },
+    {
+      "time": 154.77,
+      "time_str": "02:34.770",
+      "text": "希望他 过更好",
+      "translation": null
+    },
+    {
+      "time": 157.73,
+      "time_str": "02:37.730",
+      "text": "打从心里暖暖的",
+      "translation": null
+    },
+    {
+      "time": 160.07,
+      "time_str": "02:40.070",
+      "text": "你比自己更重要",
+      "translation": null
+    },
+    {
+      "time": 166.0,
+      "time_str": "02:46.000",
+      "text": "我想说 其实你很好",
+      "translation": null
+    },
+    {
+      "time": 168.65,
+      "time_str": "02:48.650",
+      "text": "你自己却不知道",
+      "translation": null
+    },
+    {
+      "time": 171.65,
+      "time_str": "02:51.650",
+      "text": "从来都很低调",
+      "translation": null
+    },
+    {
+      "time": 173.85,
+      "time_str": "02:53.850",
+      "text": "自信心不高",
+      "translation": null
+    },
+    {
+      "time": 176.23,
+      "time_str": "02:56.230",
+      "text": "爱一个人",
+      "translation": null
+    },
+    {
+      "time": 177.89,
+      "time_str": "02:57.890",
+      "text": "希望他 过更好",
+      "translation": null
+    },
+    {
+      "time": 180.73,
+      "time_str": "03:00.730",
+      "text": "打从心里 暖暖的",
+      "translation": null
+    },
+    {
+      "time": 183.05,
+      "time_str": "03:03.050",
+      "text": "你比自己更重要",
+      "translation": null
+    },
+    {
+      "time": 185.5,
+      "time_str": "03:05.500",
+      "text": "我想说其实你很好",
+      "translation": null
+    },
+    {
+      "time": 187.09,
+      "time_str": "03:07.090",
+      "text": "你自己却不知道 (你不知道)",
+      "translation": null
+    },
+    {
+      "time": 189.94,
+      "time_str": "03:09.940",
+      "text": "真心的对我好",
+      "translation": null
+    },
+    {
+      "time": 192.23,
+      "time_str": "03:12.230",
+      "text": "不要求回报",
+      "translation": null
+    },
+    {
+      "time": 194.61,
+      "time_str": "03:14.610",
+      "text": "爱一个人",
+      "translation": null
+    },
+    {
+      "time": 196.29,
+      "time_str": "03:16.290",
+      "text": "希望他 过更好",
+      "translation": null
+    },
+    {
+      "time": 199.17,
+      "time_str": "03:19.170",
+      "text": "打从心里",
+      "translation": null
+    },
+    {
+      "time": 200.45,
+      "time_str": "03:20.450",
+      "text": "暖暖的",
+      "translation": null
+    },
+    {
+      "time": 203.79,
+      "time_str": "03:23.790",
+      "text": "你比自己更重要",
+      "translation": null
+    },
+    {
+      "time": 208.24,
+      "time_str": "03:28.240",
+      "text": "我也希望变更好",
+      "translation": null
+    },
+    {
+      "time": 221.62,
+      "time_str": "03:41.620",
+      "text": "Lalala",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "暖暖 - 梁静茹.lrc"
+}

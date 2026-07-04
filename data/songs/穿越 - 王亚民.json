@@ -1,0 +1,106 @@
+{
+  "title": "穿越",
+  "title_raw": "穿越",
+  "version": null,
+  "artist": "王亚民",
+  "group_key": "穿越|王亚民",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 21.69,
+      "time_str": "00:21.690",
+      "text": "不惜改变穿越时间",
+      "translation": null
+    },
+    {
+      "time": 27.56,
+      "time_str": "00:27.560",
+      "text": "想去你身边",
+      "translation": null
+    },
+    {
+      "time": 33.24,
+      "time_str": "00:33.240",
+      "text": "到达之后猛然发现",
+      "translation": null
+    },
+    {
+      "time": 39.51,
+      "time_str": "00:39.510",
+      "text": "是个未知的地点",
+      "translation": null
+    },
+    {
+      "time": 45.15,
+      "time_str": "00:45.150",
+      "text": "你离我更遥远",
+      "translation": null
+    },
+    {
+      "time": 51.83,
+      "time_str": "00:51.830",
+      "text": "生活被搅乱",
+      "translation": null
+    },
+    {
+      "time": 53.68,
+      "time_str": "00:53.680",
+      "text": "但改不了我思念的习惯",
+      "translation": null
+    },
+    {
+      "time": 64.82,
+      "time_str": "01:04.820",
+      "text": "爱 让我死心眼能去不能返",
+      "translation": null
+    },
+    {
+      "time": 67.75,
+      "time_str": "01:07.750",
+      "text": "也会去冒险",
+      "translation": null
+    },
+    {
+      "time": 70.65,
+      "time_str": "01:10.650",
+      "text": "爱 不管有多长不管有多短",
+      "translation": null
+    },
+    {
+      "time": 73.77,
+      "time_str": "01:13.770",
+      "text": "情愿去体验",
+      "translation": null
+    },
+    {
+      "time": 76.58,
+      "time_str": "01:16.580",
+      "text": "爱 让我死心眼给我一段",
+      "translation": null
+    },
+    {
+      "time": 79.76,
+      "time_str": "01:19.760",
+      "text": "甜蜜的考验",
+      "translation": null
+    },
+    {
+      "time": 82.26,
+      "time_str": "01:22.260",
+      "text": "爱 让我的一生回味无限",
+      "translation": null
+    },
+    {
+      "time": 85.58,
+      "time_str": "01:25.580",
+      "text": "直到永远",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "穿越 - 王亚民.lrc"
+}

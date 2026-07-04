@@ -1,0 +1,202 @@
+{
+  "title": "月亮代表我的心",
+  "title_raw": "月亮代表我的心",
+  "version": null,
+  "artist": "邓丽君",
+  "group_key": "月亮代表我的心|邓丽君",
+  "writers": {
+    "lyricist": "孙仪",
+    "composer": "翁清溪/（汤尼）",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 12.5,
+      "time_str": "00:12.500",
+      "text": "你问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 18.84,
+      "time_str": "00:18.840",
+      "text": "我爱你有几分",
+      "translation": null
+    },
+    {
+      "time": 24.36,
+      "time_str": "00:24.360",
+      "text": "我的情也真",
+      "translation": null
+    },
+    {
+      "time": 27.57,
+      "time_str": "00:27.570",
+      "text": "我的爱也真",
+      "translation": null
+    },
+    {
+      "time": 30.61,
+      "time_str": "00:30.610",
+      "text": "月亮代表我的心",
+      "translation": null
+    },
+    {
+      "time": 37.28,
+      "time_str": "00:37.280",
+      "text": "你问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 43.49,
+      "time_str": "00:43.490",
+      "text": "我爱你有几分",
+      "translation": null
+    },
+    {
+      "time": 49.15,
+      "time_str": "00:49.150",
+      "text": "我的情不移",
+      "translation": null
+    },
+    {
+      "time": 52.19,
+      "time_str": "00:52.190",
+      "text": "我的爱不变",
+      "translation": null
+    },
+    {
+      "time": 55.21,
+      "time_str": "00:55.210",
+      "text": "月亮代表我的心",
+      "translation": null
+    },
+    {
+      "time": 61.41,
+      "time_str": "01:01.410",
+      "text": "轻轻的一个吻",
+      "translation": null
+    },
+    {
+      "time": 67.5,
+      "time_str": "01:07.500",
+      "text": "已经打动我的心",
+      "translation": null
+    },
+    {
+      "time": 73.65,
+      "time_str": "01:13.650",
+      "text": "深深的一段情",
+      "translation": null
+    },
+    {
+      "time": 79.81,
+      "time_str": "01:19.810",
+      "text": "教我思念到如今",
+      "translation": null
+    },
+    {
+      "time": 85.97,
+      "time_str": "01:25.970",
+      "text": "你问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 92.67,
+      "time_str": "01:32.670",
+      "text": "我爱你有几分",
+      "translation": null
+    },
+    {
+      "time": 98.33,
+      "time_str": "01:38.330",
+      "text": "你去想一想",
+      "translation": null
+    },
+    {
+      "time": 101.41,
+      "time_str": "01:41.410",
+      "text": "你去看一看",
+      "translation": null
+    },
+    {
+      "time": 104.41,
+      "time_str": "01:44.410",
+      "text": "月亮代表我的心",
+      "translation": null
+    },
+    {
+      "time": 134.73,
+      "time_str": "02:14.730",
+      "text": "轻轻的一个吻",
+      "translation": null
+    },
+    {
+      "time": 141.14,
+      "time_str": "02:21.140",
+      "text": "已经打动我的心",
+      "translation": null
+    },
+    {
+      "time": 147.26,
+      "time_str": "02:27.260",
+      "text": "深深的一段情",
+      "translation": null
+    },
+    {
+      "time": 153.35,
+      "time_str": "02:33.350",
+      "text": "教我思念到如今",
+      "translation": null
+    },
+    {
+      "time": 159.78,
+      "time_str": "02:39.780",
+      "text": "你问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 165.99,
+      "time_str": "02:45.990",
+      "text": "我爱你有几分",
+      "translation": null
+    },
+    {
+      "time": 171.73,
+      "time_str": "02:51.730",
+      "text": "你去想一想",
+      "translation": null
+    },
+    {
+      "time": 174.89,
+      "time_str": "02:54.890",
+      "text": "你去看一看",
+      "translation": null
+    },
+    {
+      "time": 177.86,
+      "time_str": "02:57.860",
+      "text": "月亮代表我的心",
+      "translation": null
+    },
+    {
+      "time": 183.93,
+      "time_str": "03:03.930",
+      "text": "你去想一想",
+      "translation": null
+    },
+    {
+      "time": 187.13,
+      "time_str": "03:07.130",
+      "text": "你去看一看",
+      "translation": null
+    },
+    {
+      "time": 190.09,
+      "time_str": "03:10.090",
+      "text": "月亮代表我的心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月亮代表我的心 - 邓丽君.lrc"
+}

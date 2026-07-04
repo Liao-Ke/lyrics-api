@@ -1,0 +1,118 @@
+{
+  "title": "答应不爱你",
+  "title_raw": "答应不爱你",
+  "version": null,
+  "artist": "郑中基",
+  "group_key": "答应不爱你|郑中基",
+  "writers": {
+    "lyricist": "孙艺",
+    "composer": "金大洲",
+    "arranger": "伍乐城"
+  },
+  "lyrics": [
+    {
+      "time": 19.87,
+      "time_str": "00:19.870",
+      "text": "明明爱很清晰 却又接受分离",
+      "translation": null
+    },
+    {
+      "time": 27.4,
+      "time_str": "00:27.400",
+      "text": "我只剩思念的 权利",
+      "translation": null
+    },
+    {
+      "time": 34.29,
+      "time_str": "00:34.290",
+      "text": "难过还来不及 爱早已融入呼吸",
+      "translation": null
+    },
+    {
+      "time": 41.74,
+      "time_str": "00:41.740",
+      "text": "不存在的存在 心底",
+      "translation": null
+    },
+    {
+      "time": 48.47,
+      "time_str": "00:48.470",
+      "text": "虽然很努力 练习着忘记",
+      "translation": null
+    },
+    {
+      "time": 56.25,
+      "time_str": "00:56.250",
+      "text": "我的心却还没答应可以 放弃了你",
+      "translation": null
+    },
+    {
+      "time": 63.0,
+      "time_str": "01:03.000",
+      "text": "真的对不起 答应了你不再爱你",
+      "translation": null
+    },
+    {
+      "time": 73.7,
+      "time_str": "01:13.700",
+      "text": "我却还没答应我 自己",
+      "translation": null
+    },
+    {
+      "time": 81.12,
+      "time_str": "01:21.120",
+      "text": "明明爱很清晰 却要接受分离",
+      "translation": null
+    },
+    {
+      "time": 88.58,
+      "time_str": "01:28.580",
+      "text": "我只剩思念的权利",
+      "translation": null
+    },
+    {
+      "time": 95.53,
+      "time_str": "01:35.530",
+      "text": "难过还来不及 就让爱融入空气",
+      "translation": null
+    },
+    {
+      "time": 102.97,
+      "time_str": "01:42.970",
+      "text": "不存在的存在 心底",
+      "translation": null
+    },
+    {
+      "time": 131.42,
+      "time_str": "02:11.420",
+      "text": "说好要忘记 偏偏又想起",
+      "translation": null
+    },
+    {
+      "time": 139.21,
+      "time_str": "02:19.210",
+      "text": "原来我的心还没有答应 放弃了你",
+      "translation": null
+    },
+    {
+      "time": 146.21,
+      "time_str": "02:26.210",
+      "text": "真的对不起 虽然曾经答应了你",
+      "translation": null
+    },
+    {
+      "time": 156.72,
+      "time_str": "02:36.720",
+      "text": "我却还没答应我 自己",
+      "translation": null
+    },
+    {
+      "time": 164.2,
+      "time_str": "02:44.200",
+      "text": "却又如何真的不 爱你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "答应不爱你 - 郑中基.lrc"
+}

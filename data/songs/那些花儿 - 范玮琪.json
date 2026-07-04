@@ -1,0 +1,214 @@
+{
+  "title": "那些花儿",
+  "title_raw": "那些花儿",
+  "version": null,
+  "artist": "范玮琪",
+  "group_key": "那些花儿|范玮琪",
+  "writers": {
+    "lyricist": "朴树/付翀/范玮琪",
+    "composer": "朴树",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 17.169,
+      "time_str": "00:17.169",
+      "text": "那片笑声让我想起我的那些花儿",
+      "translation": null
+    },
+    {
+      "time": 24.74,
+      "time_str": "00:24.740",
+      "text": "在我生命每个角落静静为我开着",
+      "translation": null
+    },
+    {
+      "time": 33.2,
+      "time_str": "00:33.200",
+      "text": "我曾以为我会永远守在他身旁",
+      "translation": null
+    },
+    {
+      "time": 41.7,
+      "time_str": "00:41.700",
+      "text": "今天我们已经离去在人海茫茫",
+      "translation": null
+    },
+    {
+      "time": 49.34,
+      "time_str": "00:49.340",
+      "text": "他们都老了吧？",
+      "translation": null
+    },
+    {
+      "time": 53.2,
+      "time_str": "00:53.200",
+      "text": "他们在哪里呀？",
+      "translation": null
+    },
+    {
+      "time": 57.7,
+      "time_str": "00:57.700",
+      "text": "我们就这样各自奔天涯",
+      "translation": null
+    },
+    {
+      "time": 66.58,
+      "time_str": "01:06.580",
+      "text": "啦……想她。",
+      "translation": null
+    },
+    {
+      "time": 74.67,
+      "time_str": "01:14.670",
+      "text": "啦…她还在开吗？",
+      "translation": null
+    },
+    {
+      "time": 82.79,
+      "time_str": "01:22.790",
+      "text": "啦……去呀！",
+      "translation": null
+    },
+    {
+      "time": 90.89,
+      "time_str": "01:30.890",
+      "text": "她们已经被风吹走散落在天涯",
+      "translation": null
+    },
+    {
+      "time": 116.31,
+      "time_str": "01:56.310",
+      "text": "有些故事还没讲完那就算了吧",
+      "translation": null
+    },
+    {
+      "time": 124.2,
+      "time_str": "02:04.200",
+      "text": "那些心情在岁月中已经难辨真假",
+      "translation": null
+    },
+    {
+      "time": 132.609,
+      "time_str": "02:12.609",
+      "text": "如今这里荒草丛生没有了鲜花",
+      "translation": null
+    },
+    {
+      "time": 140.619,
+      "time_str": "02:20.619",
+      "text": "好在曾经拥有你们的春秋和冬夏",
+      "translation": null
+    },
+    {
+      "time": 148.939,
+      "time_str": "02:28.939",
+      "text": "他们都老了吧？",
+      "translation": null
+    },
+    {
+      "time": 152.76,
+      "time_str": "02:32.760",
+      "text": "他们在哪里呀？",
+      "translation": null
+    },
+    {
+      "time": 157.849,
+      "time_str": "02:37.849",
+      "text": "我们就这样各自奔天涯",
+      "translation": null
+    },
+    {
+      "time": 165.899,
+      "time_str": "02:45.899",
+      "text": "啦……想她",
+      "translation": null
+    },
+    {
+      "time": 173.789,
+      "time_str": "02:53.789",
+      "text": "啦…她还在开吗？",
+      "translation": null
+    },
+    {
+      "time": 181.959,
+      "time_str": "03:01.959",
+      "text": "啦……去呀！",
+      "translation": null
+    },
+    {
+      "time": 190.569,
+      "time_str": "03:10.569",
+      "text": "她们已经被风吹走散落在天涯",
+      "translation": null
+    },
+    {
+      "time": 198.569,
+      "time_str": "03:18.569",
+      "text": "Where have all the flowers gone？",
+      "translation": null
+    },
+    {
+      "time": 203.569,
+      "time_str": "03:23.569",
+      "text": "Where the flowers gone？",
+      "translation": null
+    },
+    {
+      "time": 207.569,
+      "time_str": "03:27.569",
+      "text": "Where have all the young girls gone？",
+      "translation": null
+    },
+    {
+      "time": 211.569,
+      "time_str": "03:31.569",
+      "text": "Where did they all gone？",
+      "translation": null
+    },
+    {
+      "time": 215.569,
+      "time_str": "03:35.569",
+      "text": "Where have all the young men gone？",
+      "translation": null
+    },
+    {
+      "time": 220.569,
+      "time_str": "03:40.569",
+      "text": "Where the soldiers gone？",
+      "translation": null
+    },
+    {
+      "time": 223.569,
+      "time_str": "03:43.569",
+      "text": "Where have all the graveyards gone？",
+      "translation": null
+    },
+    {
+      "time": 228.569,
+      "time_str": "03:48.569",
+      "text": "Where have all they gone？",
+      "translation": null
+    },
+    {
+      "time": 231.95,
+      "time_str": "03:51.950",
+      "text": "他们都老了吧？",
+      "translation": null
+    },
+    {
+      "time": 235.57,
+      "time_str": "03:55.570",
+      "text": "他们在哪里呀？",
+      "translation": null
+    },
+    {
+      "time": 240.26,
+      "time_str": "04:00.260",
+      "text": "我们就这样各自奔天涯",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "那些花儿 - 范玮琪.lrc"
+}

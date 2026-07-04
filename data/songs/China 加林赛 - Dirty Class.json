@@ -1,0 +1,184 @@
+{
+  "title": "China 加林赛",
+  "title_raw": "China 加林赛",
+  "version": null,
+  "artist": "Dirty Class",
+  "group_key": "china 加林赛|dirty class",
+  "writers": {
+    "lyricist": "Dirty Class/Dirty Class",
+    "composer": "Dirty Class/Dirty Class",
+    "arranger": "Dirty Class"
+  },
+  "lyrics": [
+    {
+      "time": 1.87,
+      "time_str": "00:01.870",
+      "text": "佤语（音）：Ei-",
+      "translation": null
+    },
+    {
+      "time": 3.63,
+      "time_str": "00:03.630",
+      "text": "Sim dang hlax bō gīeh njiah dāi ei",
+      "translation": null
+    },
+    {
+      "time": 6.77,
+      "time_str": "00:06.770",
+      "text": "Grax dang hu bō gīeh vōi hrom",
+      "translation": null
+    },
+    {
+      "time": 8.89,
+      "time_str": "00:08.890",
+      "text": "Moh nin hei moh nin hei moh nin hei",
+      "translation": null
+    },
+    {
+      "time": 14.88,
+      "time_str": "00:14.880",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 18.23,
+      "time_str": "00:18.230",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 21.72,
+      "time_str": "00:21.720",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 25.01,
+      "time_str": "00:25.010",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 28.23,
+      "time_str": "00:28.230",
+      "text": "Ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 29.59,
+      "time_str": "00:29.590",
+      "text": "Ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 31.66,
+      "time_str": "00:31.660",
+      "text": "Ndia leing ndia leing ndia leing ndia leing ..（repeat）",
+      "translation": null
+    },
+    {
+      "time": 39.59,
+      "time_str": "00:39.590",
+      "text": "Ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 97.68,
+      "time_str": "01:37.680",
+      "text": "Ei-",
+      "translation": null
+    },
+    {
+      "time": 99.33,
+      "time_str": "01:39.330",
+      "text": "Sim dang hlax bō gīeh njiah dāi ei",
+      "translation": null
+    },
+    {
+      "time": 102.72,
+      "time_str": "01:42.720",
+      "text": "Grax dang hu bō gīeh vōi hrom",
+      "translation": null
+    },
+    {
+      "time": 105.27,
+      "time_str": "01:45.270",
+      "text": "Moh nin hei moh nin hei moh nin hei hei hei hei",
+      "translation": null
+    },
+    {
+      "time": 111.06,
+      "time_str": "01:51.060",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 114.38,
+      "time_str": "01:54.380",
+      "text": "Ndia leing nia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 117.62,
+      "time_str": "01:57.620",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 120.83,
+      "time_str": "02:00.830",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 124.31,
+      "time_str": "02:04.310",
+      "text": "Ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 125.76,
+      "time_str": "02:05.760",
+      "text": "Ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 127.42,
+      "time_str": "02:07.420",
+      "text": "Ndia leing ndia leing ndia leing ndia leing ..（repeat）",
+      "translation": null
+    },
+    {
+      "time": 135.72,
+      "time_str": "02:15.720",
+      "text": "Ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 193.66,
+      "time_str": "03:13.660",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 197.09,
+      "time_str": "03:17.090",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 200.42,
+      "time_str": "03:20.420",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    },
+    {
+      "time": 203.6,
+      "time_str": "03:23.600",
+      "text": "Ndia leing ndia leing seih, ndia leing ndia leing seih",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "China 加林赛 - Dirty Class.lrc"
+}

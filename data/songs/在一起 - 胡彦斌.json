@@ -1,0 +1,262 @@
+{
+  "title": "在一起",
+  "title_raw": "在一起",
+  "version": null,
+  "artist": "胡彦斌",
+  "group_key": "在一起|胡彦斌",
+  "writers": {
+    "lyricist": "胡彦斌",
+    "composer": "胡彦斌",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 19.5,
+      "time_str": "00:19.500",
+      "text": "你说你有个性 她说她有脾气",
+      "translation": null
+    },
+    {
+      "time": 29.458,
+      "time_str": "00:29.458",
+      "text": "你说你很帅气 她说她很美丽",
+      "translation": null
+    },
+    {
+      "time": 38.588,
+      "time_str": "00:38.588",
+      "text": "你说你有诚意 她说她还很年轻",
+      "translation": null
+    },
+    {
+      "time": 49.78,
+      "time_str": "00:49.780",
+      "text": "你说你不花心 她说她不相信",
+      "translation": null
+    },
+    {
+      "time": 60.388,
+      "time_str": "01:00.388",
+      "text": "你们要在一起",
+      "translation": null
+    },
+    {
+      "time": 62.047,
+      "time_str": "01:02.047",
+      "text": "在一起 在一起 在一起 在一起 在一起",
+      "translation": null
+    },
+    {
+      "time": 69.089,
+      "time_str": "01:09.089",
+      "text": "有个人你说不出他什么好",
+      "translation": null
+    },
+    {
+      "time": 74.037,
+      "time_str": "01:14.037",
+      "text": "可就是谁也替代不了",
+      "translation": null
+    },
+    {
+      "time": 79.78,
+      "time_str": "01:19.780",
+      "text": "这也许就是一种暗号",
+      "translation": null
+    },
+    {
+      "time": 81.179,
+      "time_str": "01:21.179",
+      "text": "这个暗号叫做心跳",
+      "translation": null
+    },
+    {
+      "time": 88.507,
+      "time_str": "01:28.507",
+      "text": "你们要在一起",
+      "translation": null
+    },
+    {
+      "time": 90.09,
+      "time_str": "01:30.090",
+      "text": "在一起 在一起 在一起 在一起 在一起",
+      "translation": null
+    },
+    {
+      "time": 98.689,
+      "time_str": "01:38.689",
+      "text": "从来也没有什么天生一对",
+      "translation": null
+    },
+    {
+      "time": 103.379,
+      "time_str": "01:43.379",
+      "text": "这些年错过了多多少少",
+      "translation": null
+    },
+    {
+      "time": 108.78,
+      "time_str": "01:48.780",
+      "text": "想有人陪你慢慢变老",
+      "translation": null
+    },
+    {
+      "time": 113.598,
+      "time_str": "01:53.598",
+      "text": "把握时间很重要",
+      "translation": null
+    },
+    {
+      "time": 116.498,
+      "time_str": "01:56.498",
+      "text": "我要你们在一起",
+      "translation": null
+    },
+    {
+      "time": 130.445,
+      "time_str": "02:10.445",
+      "text": "你说你有孝心 她说她很任性",
+      "translation": null
+    },
+    {
+      "time": 140.4,
+      "time_str": "02:20.400",
+      "text": "你说你哄她开心 她说你有爱心",
+      "translation": null
+    },
+    {
+      "time": 149.414,
+      "time_str": "02:29.414",
+      "text": "你说你不够细心 她说你总花言巧语",
+      "translation": null
+    },
+    {
+      "time": 159.496,
+      "time_str": "02:39.496",
+      "text": "你说你们会在一起 她说这可不一定",
+      "translation": null
+    },
+    {
+      "time": 170.77,
+      "time_str": "02:50.770",
+      "text": "你们要在一起",
+      "translation": null
+    },
+    {
+      "time": 171.316,
+      "time_str": "02:51.316",
+      "text": "在一起 在一起 在一起 在一起 在一起",
+      "translation": null
+    },
+    {
+      "time": 180.069,
+      "time_str": "03:00.069",
+      "text": "有个人你说不出他什么好",
+      "translation": null
+    },
+    {
+      "time": 184.355,
+      "time_str": "03:04.355",
+      "text": "可就是谁也替代不了",
+      "translation": null
+    },
+    {
+      "time": 190.478,
+      "time_str": "03:10.478",
+      "text": "这也许就是一种暗号",
+      "translation": null
+    },
+    {
+      "time": 193.378,
+      "time_str": "03:13.378",
+      "text": "这个暗号叫做心跳",
+      "translation": null
+    },
+    {
+      "time": 200.015,
+      "time_str": "03:20.015",
+      "text": "你们要在一起",
+      "translation": null
+    },
+    {
+      "time": 201.436,
+      "time_str": "03:21.436",
+      "text": "在一起 在一起 在一起 在一起在一起",
+      "translation": null
+    },
+    {
+      "time": 208.556,
+      "time_str": "03:28.556",
+      "text": "从来也没有什么天生一对",
+      "translation": null
+    },
+    {
+      "time": 214.87,
+      "time_str": "03:34.870",
+      "text": "这些年错过了多多少少",
+      "translation": null
+    },
+    {
+      "time": 218.035,
+      "time_str": "03:38.035",
+      "text": "想有人陪你慢慢变老",
+      "translation": null
+    },
+    {
+      "time": 220.426,
+      "time_str": "03:40.426",
+      "text": "把握时间很重要",
+      "translation": null
+    },
+    {
+      "time": 226.566,
+      "time_str": "03:46.566",
+      "text": "我要你们在一起",
+      "translation": null
+    },
+    {
+      "time": 232.426,
+      "time_str": "03:52.426",
+      "text": "你们要在一起",
+      "translation": null
+    },
+    {
+      "time": 233.36,
+      "time_str": "03:53.360",
+      "text": "在一起 在一起 在一起 在一起 在一起",
+      "translation": null
+    },
+    {
+      "time": 243.035,
+      "time_str": "04:03.035",
+      "text": "从来也没有什么天生一对",
+      "translation": null
+    },
+    {
+      "time": 246.8,
+      "time_str": "04:06.800",
+      "text": "这些年错过了多多少少",
+      "translation": null
+    },
+    {
+      "time": 252.468,
+      "time_str": "04:12.468",
+      "text": "想有人陪你慢慢变老",
+      "translation": null
+    },
+    {
+      "time": 255.06,
+      "time_str": "04:15.060",
+      "text": "把握时间很重要",
+      "translation": null
+    },
+    {
+      "time": 260.487,
+      "time_str": "04:20.487",
+      "text": "我要你们在一起",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "在一起 - 胡彦斌.lrc"
+}

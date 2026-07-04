@@ -1,0 +1,442 @@
+{
+  "title": "把耳朵叫醒",
+  "title_raw": "把耳朵叫醒",
+  "version": null,
+  "artist": "金海心",
+  "group_key": "把耳朵叫醒|金海心",
+  "writers": {
+    "lyricist": "厉曼婷",
+    "composer": "黄征",
+    "arranger": "张亚东"
+  },
+  "lyrics": [
+    {
+      "time": 16.13,
+      "time_str": "00:16.130",
+      "text": "这大街上来来往往的",
+      "translation": null
+    },
+    {
+      "time": 18.02,
+      "time_str": "00:18.020",
+      "text": "红男绿女",
+      "translation": null
+    },
+    {
+      "time": 19.74,
+      "time_str": "00:19.740",
+      "text": "从不忘带出门的",
+      "translation": null
+    },
+    {
+      "time": 21.47,
+      "time_str": "00:21.470",
+      "text": "是面无表情",
+      "translation": null
+    },
+    {
+      "time": 23.51,
+      "time_str": "00:23.510",
+      "text": "我那颗",
+      "translation": null
+    },
+    {
+      "time": 24.13,
+      "time_str": "00:24.130",
+      "text": "总爱唱歌的心灵",
+      "translation": null
+    },
+    {
+      "time": 26.75,
+      "time_str": "00:26.750",
+      "text": "也就只好两手一摊",
+      "translation": null
+    },
+    {
+      "time": 28.27,
+      "time_str": "00:28.270",
+      "text": "坐在路边休息",
+      "translation": null
+    },
+    {
+      "time": 31.04,
+      "time_str": "00:31.040",
+      "text": "不管3 3 6 3",
+      "translation": null
+    },
+    {
+      "time": 32.4,
+      "time_str": "00:32.400",
+      "text": "或是3 1 2 7",
+      "translation": null
+    },
+    {
+      "time": 34.83,
+      "time_str": "00:34.830",
+      "text": "像一个一个困在",
+      "translation": null
+    },
+    {
+      "time": 36.45,
+      "time_str": "00:36.450",
+      "text": "凡间的精灵",
+      "translation": null
+    },
+    {
+      "time": 38.59,
+      "time_str": "00:38.590",
+      "text": "我愿意歌颂祖国",
+      "translation": null
+    },
+    {
+      "time": 40.48,
+      "time_str": "00:40.480",
+      "text": "和表扬爱情",
+      "translation": null
+    },
+    {
+      "time": 41.98,
+      "time_str": "00:41.980",
+      "text": "但只盼望",
+      "translation": null
+    },
+    {
+      "time": 42.79,
+      "time_str": "00:42.790",
+      "text": "听我歌唱的人赶快清醒",
+      "translation": null
+    },
+    {
+      "time": 46.28,
+      "time_str": "00:46.280",
+      "text": "1 1 1 2 3 5",
+      "translation": null
+    },
+    {
+      "time": 47.84,
+      "time_str": "00:47.840",
+      "text": "像风筝呼啸而去",
+      "translation": null
+    },
+    {
+      "time": 50.1,
+      "time_str": "00:50.100",
+      "text": "5 5 5 7 2 4",
+      "translation": null
+    },
+    {
+      "time": 51.55,
+      "time_str": "00:51.550",
+      "text": "是落叶轻轻哭泣",
+      "translation": null
+    },
+    {
+      "time": 53.73,
+      "time_str": "00:53.730",
+      "text": "1 1 1 2 3 7",
+      "translation": null
+    },
+    {
+      "time": 55.39,
+      "time_str": "00:55.390",
+      "text": "没有人认真在听",
+      "translation": null
+    },
+    {
+      "time": 57.41,
+      "time_str": "00:57.410",
+      "text": "那被你遗忘的旋律",
+      "translation": null
+    },
+    {
+      "time": 59.17,
+      "time_str": "00:59.170",
+      "text": "却是我宿命的追寻",
+      "translation": null
+    },
+    {
+      "time": 65.16,
+      "time_str": "01:05.160",
+      "text": "公园就要拆去",
+      "translation": null
+    },
+    {
+      "time": 66.67,
+      "time_str": "01:06.670",
+      "text": "别拆去记忆",
+      "translation": null
+    },
+    {
+      "time": 68.6,
+      "time_str": "01:08.600",
+      "text": "何不用歌声摘录下",
+      "translation": null
+    },
+    {
+      "time": 70.33,
+      "time_str": "01:10.330",
+      "text": "你的日记",
+      "translation": null
+    },
+    {
+      "time": 72.17,
+      "time_str": "01:12.170",
+      "text": "如果你不会唱歌",
+      "translation": null
+    },
+    {
+      "time": 74.05,
+      "time_str": "01:14.050",
+      "text": "也没关系",
+      "translation": null
+    },
+    {
+      "time": 75.77,
+      "time_str": "01:15.770",
+      "text": "就让第一道阳光",
+      "translation": null
+    },
+    {
+      "time": 77.27,
+      "time_str": "01:17.270",
+      "text": "把你的耳朵叫醒",
+      "translation": null
+    },
+    {
+      "time": 110.14,
+      "time_str": "01:50.140",
+      "text": "不管3 3 6 3",
+      "translation": null
+    },
+    {
+      "time": 111.49,
+      "time_str": "01:51.490",
+      "text": "或是3 1 2 7",
+      "translation": null
+    },
+    {
+      "time": 113.67,
+      "time_str": "01:53.670",
+      "text": "像一个一个困在",
+      "translation": null
+    },
+    {
+      "time": 115.52,
+      "time_str": "01:55.520",
+      "text": "凡间的精灵",
+      "translation": null
+    },
+    {
+      "time": 117.28,
+      "time_str": "01:57.280",
+      "text": "我愿意歌颂祖国",
+      "translation": null
+    },
+    {
+      "time": 119.05,
+      "time_str": "01:59.050",
+      "text": "和表扬爱情",
+      "translation": null
+    },
+    {
+      "time": 120.82,
+      "time_str": "02:00.820",
+      "text": "但只盼望",
+      "translation": null
+    },
+    {
+      "time": 121.51,
+      "time_str": "02:01.510",
+      "text": "听我歌唱的人赶快清醒",
+      "translation": null
+    },
+    {
+      "time": 125.03,
+      "time_str": "02:05.030",
+      "text": "1 1 1 2 3 5",
+      "translation": null
+    },
+    {
+      "time": 126.59,
+      "time_str": "02:06.590",
+      "text": "像风筝呼啸而去",
+      "translation": null
+    },
+    {
+      "time": 128.82,
+      "time_str": "02:08.820",
+      "text": "5 5 5 7 2 4",
+      "translation": null
+    },
+    {
+      "time": 130.46,
+      "time_str": "02:10.460",
+      "text": "是落叶轻轻哭泣",
+      "translation": null
+    },
+    {
+      "time": 132.59,
+      "time_str": "02:12.590",
+      "text": "1 1 1 2 3 7",
+      "translation": null
+    },
+    {
+      "time": 134.2,
+      "time_str": "02:14.200",
+      "text": "没有人认真在听",
+      "translation": null
+    },
+    {
+      "time": 136.13,
+      "time_str": "02:16.130",
+      "text": "那被你遗忘的旋律",
+      "translation": null
+    },
+    {
+      "time": 137.82,
+      "time_str": "02:17.820",
+      "text": "却是我宿命的追寻",
+      "translation": null
+    },
+    {
+      "time": 145.73,
+      "time_str": "02:25.730",
+      "text": "公园就要拆去",
+      "translation": null
+    },
+    {
+      "time": 147.41,
+      "time_str": "02:27.410",
+      "text": "别拆去记忆",
+      "translation": null
+    },
+    {
+      "time": 149.37,
+      "time_str": "02:29.370",
+      "text": "何不用歌声摘录下",
+      "translation": null
+    },
+    {
+      "time": 151.29,
+      "time_str": "02:31.290",
+      "text": "你的日记",
+      "translation": null
+    },
+    {
+      "time": 152.82,
+      "time_str": "02:32.820",
+      "text": "如果你不会唱歌",
+      "translation": null
+    },
+    {
+      "time": 154.91,
+      "time_str": "02:34.910",
+      "text": "也没关系",
+      "translation": null
+    },
+    {
+      "time": 156.44,
+      "time_str": "02:36.440",
+      "text": "就让第一道阳光",
+      "translation": null
+    },
+    {
+      "time": 157.85,
+      "time_str": "02:37.850",
+      "text": "把你的耳朵叫醒",
+      "translation": null
+    },
+    {
+      "time": 160.68,
+      "time_str": "02:40.680",
+      "text": "公园就要拆去",
+      "translation": null
+    },
+    {
+      "time": 162.31,
+      "time_str": "02:42.310",
+      "text": "别拆去记忆",
+      "translation": null
+    },
+    {
+      "time": 164.22,
+      "time_str": "02:44.220",
+      "text": "何不用歌声摘录下",
+      "translation": null
+    },
+    {
+      "time": 166.15,
+      "time_str": "02:46.150",
+      "text": "你的日记",
+      "translation": null
+    },
+    {
+      "time": 167.86,
+      "time_str": "02:47.860",
+      "text": "如果你不会唱歌",
+      "translation": null
+    },
+    {
+      "time": 169.68,
+      "time_str": "02:49.680",
+      "text": "也没关系",
+      "translation": null
+    },
+    {
+      "time": 171.25,
+      "time_str": "02:51.250",
+      "text": "就让第一道阳光",
+      "translation": null
+    },
+    {
+      "time": 173.01,
+      "time_str": "02:53.010",
+      "text": "把你的耳朵叫醒",
+      "translation": null
+    },
+    {
+      "time": 177.87,
+      "time_str": "02:57.870",
+      "text": "3  3 4 3 4",
+      "translation": null
+    },
+    {
+      "time": 181.19,
+      "time_str": "03:01.190",
+      "text": "4  4 5 4 3 4 3",
+      "translation": null
+    },
+    {
+      "time": 185.03,
+      "time_str": "03:05.030",
+      "text": "3  3 4 3 4",
+      "translation": null
+    },
+    {
+      "time": 188.63,
+      "time_str": "03:08.630",
+      "text": "4  4 5 4 3",
+      "translation": null
+    },
+    {
+      "time": 192.57,
+      "time_str": "03:12.570",
+      "text": "3  3 4 3 4",
+      "translation": null
+    },
+    {
+      "time": 196.15,
+      "time_str": "03:16.150",
+      "text": "4  4 5 4 3 4 3",
+      "translation": null
+    },
+    {
+      "time": 200.09,
+      "time_str": "03:20.090",
+      "text": "3  3 4 3 4",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "把耳朵叫醒 - 金海心.lrc"
+}

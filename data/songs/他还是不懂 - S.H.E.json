@@ -1,0 +1,220 @@
+{
+  "title": "他还是不懂",
+  "title_raw": "他还是不懂",
+  "version": null,
+  "artist": "S.H.E",
+  "group_key": "他还是不懂|s.h.e",
+  "writers": {
+    "lyricist": "徐世珍",
+    "composer": "王治平",
+    "arranger": "王治平"
+  },
+  "lyrics": [
+    {
+      "time": 38.08,
+      "time_str": "00:38.080",
+      "text": "要说什么 杯子都已经空了",
+      "translation": null
+    },
+    {
+      "time": 45.54,
+      "time_str": "00:45.540",
+      "text": "闭上眼睛心里下起大雪",
+      "translation": null
+    },
+    {
+      "time": 50.17,
+      "time_str": "00:50.170",
+      "text": "天寒又地冻",
+      "translation": null
+    },
+    {
+      "time": 53.04,
+      "time_str": "00:53.040",
+      "text": "是不是到了 爱情结帐的时候",
+      "translation": null
+    },
+    {
+      "time": 59.29,
+      "time_str": "00:59.290",
+      "text": "只剩下各自买单的寂寞",
+      "translation": null
+    },
+    {
+      "time": 64.61,
+      "time_str": "01:04.610",
+      "text": "为什么当我推开门 他没有来拉住我",
+      "translation": null
+    },
+    {
+      "time": 73.51,
+      "time_str": "01:13.510",
+      "text": "他还不懂 还是不懂",
+      "translation": null
+    },
+    {
+      "time": 77.32,
+      "time_str": "01:17.320",
+      "text": "离开是想要被挽留",
+      "translation": null
+    },
+    {
+      "time": 82.7,
+      "time_str": "01:22.700",
+      "text": "如果开口那只是 我要来的温柔",
+      "translation": null
+    },
+    {
+      "time": 88.57,
+      "time_str": "01:28.570",
+      "text": "他还不懂 永远不懂",
+      "translation": null
+    },
+    {
+      "time": 92.45,
+      "time_str": "01:32.450",
+      "text": "一个拥抱能代替所有",
+      "translation": null
+    },
+    {
+      "time": 96.82,
+      "time_str": "01:36.820",
+      "text": "爱绝对能够动摇我",
+      "translation": null
+    },
+    {
+      "time": 122.45,
+      "time_str": "02:02.450",
+      "text": "要用什么融化这一片沉默",
+      "translation": null
+    },
+    {
+      "time": 130.01,
+      "time_str": "02:10.010",
+      "text": "在四周的冷空气里叹息",
+      "translation": null
+    },
+    {
+      "time": 134.45,
+      "time_str": "02:14.450",
+      "text": "化成烟飘走",
+      "translation": null
+    },
+    {
+      "time": 137.26,
+      "time_str": "02:17.260",
+      "text": "过去的种种 在心里滚成雪球",
+      "translation": null
+    },
+    {
+      "time": 143.7,
+      "time_str": "02:23.700",
+      "text": "怕还没说话 泪就会先流",
+      "translation": null
+    },
+    {
+      "time": 148.95,
+      "time_str": "02:28.950",
+      "text": "爱不是他给得不多 是不知道我要什么",
+      "translation": null
+    },
+    {
+      "time": 157.89,
+      "time_str": "02:37.890",
+      "text": "他还不懂 还是不懂",
+      "translation": null
+    },
+    {
+      "time": 161.7,
+      "time_str": "02:41.700",
+      "text": "离开是想要被挽留",
+      "translation": null
+    },
+    {
+      "time": 166.95,
+      "time_str": "02:46.950",
+      "text": "如果开口那只是 我要来的温柔",
+      "translation": null
+    },
+    {
+      "time": 172.88,
+      "time_str": "02:52.880",
+      "text": "他还不懂 永远不懂",
+      "translation": null
+    },
+    {
+      "time": 176.76,
+      "time_str": "02:56.760",
+      "text": "一个拥抱能代替所有",
+      "translation": null
+    },
+    {
+      "time": 180.89,
+      "time_str": "03:00.890",
+      "text": "爱绝对能够动摇我",
+      "translation": null
+    },
+    {
+      "time": 188.26,
+      "time_str": "03:08.260",
+      "text": "都是背了太多的心愿",
+      "translation": null
+    },
+    {
+      "time": 192.26,
+      "time_str": "03:12.260",
+      "text": "流星才会跌的那么重",
+      "translation": null
+    },
+    {
+      "time": 195.89,
+      "time_str": "03:15.890",
+      "text": "爱太多 心也有坠毁的时候",
+      "translation": null
+    },
+    {
+      "time": 202.95,
+      "time_str": "03:22.950",
+      "text": "他还不懂 还是不懂",
+      "translation": null
+    },
+    {
+      "time": 206.72,
+      "time_str": "03:26.720",
+      "text": "离开是想要被挽留",
+      "translation": null
+    },
+    {
+      "time": 212.03,
+      "time_str": "03:32.030",
+      "text": "如果开口那只是 我要来的温柔",
+      "translation": null
+    },
+    {
+      "time": 217.97,
+      "time_str": "03:37.970",
+      "text": "他还不懂 永远不懂",
+      "translation": null
+    },
+    {
+      "time": 221.84,
+      "time_str": "03:41.840",
+      "text": "一个拥抱能代替所有",
+      "translation": null
+    },
+    {
+      "time": 226.15,
+      "time_str": "03:46.150",
+      "text": "爱绝对能够动摇我",
+      "translation": null
+    },
+    {
+      "time": 233.84,
+      "time_str": "03:53.840",
+      "text": "在第一时间拯救我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "他还是不懂 - S.H.E.lrc"
+}

@@ -1,0 +1,328 @@
+{
+  "title": "Let It Go",
+  "title_raw": "Let It Go (From \"Frozen\"⁄Soundtrack Version)",
+  "version": "From \"Frozen\"⁄Soundtrack Version",
+  "artist": "Idina Menzel",
+  "group_key": "let it go|idina menzel",
+  "writers": {
+    "lyricist": "Robert Lopez/Kristen Anderson-Lopez",
+    "composer": "Robert Lopez/Kristen Anderson-Lopez",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.34,
+      "time_str": "00:14.340",
+      "text": "The snow glows white on the mountain tonight",
+      "translation": "今夜的飘絮席卷了山脉"
+    },
+    {
+      "time": 17.5,
+      "time_str": "00:17.500",
+      "text": "Not a footprint to be seen",
+      "translation": "之前的脚印再无踪影"
+    },
+    {
+      "time": 21.4,
+      "time_str": "00:21.400",
+      "text": "A kingdom of isolation and it looks like I'm the Queen",
+      "translation": "在这个与世隔绝的王国里 我便是至上的女王"
+    },
+    {
+      "time": 28.76,
+      "time_str": "00:28.760",
+      "text": "The wind is howling like this swirling storm inside",
+      "translation": "狂风呼啸 像是要风卷残云"
+    },
+    {
+      "time": 35.84,
+      "time_str": "00:35.840",
+      "text": "Couldn't keep it in, heaven knows I've tried",
+      "translation": "再也无法控制 只是天知道我竭尽了全力"
+    },
+    {
+      "time": 42.84,
+      "time_str": "00:42.840",
+      "text": "Don't let them in, don't let them see",
+      "translation": "别让他们进来 别让他们看到"
+    },
+    {
+      "time": 46.25,
+      "time_str": "00:46.250",
+      "text": "Be the good girl",
+      "translation": "只管做好自己"
+    },
+    {
+      "time": 47.47,
+      "time_str": "00:47.470",
+      "text": "You always have to be",
+      "translation": "一如既往地做个好姑娘"
+    },
+    {
+      "time": 49.78,
+      "time_str": "00:49.780",
+      "text": "Conceal, don't feel",
+      "translation": "学会收敛而不是张扬"
+    },
+    {
+      "time": 51.37,
+      "time_str": "00:51.370",
+      "text": "Don't let them know",
+      "translation": "不要让他们知道"
+    },
+    {
+      "time": 55.99,
+      "time_str": "00:55.990",
+      "text": "Well, now they know",
+      "translation": "好吧如今他们也都知道了"
+    },
+    {
+      "time": 59.44,
+      "time_str": "00:59.440",
+      "text": "Let it go",
+      "translation": "就让它去吧"
+    },
+    {
+      "time": 61.11,
+      "time_str": "01:01.110",
+      "text": "Let it go",
+      "translation": "随风而去吧"
+    },
+    {
+      "time": 63.05,
+      "time_str": "01:03.050",
+      "text": "Can't hold it back anymore",
+      "translation": "无须再继续忍隐屈从"
+    },
+    {
+      "time": 66.49,
+      "time_str": "01:06.490",
+      "text": "Let it go",
+      "translation": "就让它去吧"
+    },
+    {
+      "time": 68.2,
+      "time_str": "01:08.200",
+      "text": "Let it go",
+      "translation": "随风而去吧"
+    },
+    {
+      "time": 69.9,
+      "time_str": "01:09.900",
+      "text": "Turn away and slam the door",
+      "translation": "转身离开 甩门而出"
+    },
+    {
+      "time": 73.91,
+      "time_str": "01:13.910",
+      "text": "I don't care",
+      "translation": "我不会在乎"
+    },
+    {
+      "time": 76.57,
+      "time_str": "01:16.570",
+      "text": "What they're going to say",
+      "translation": "他们的议论"
+    },
+    {
+      "time": 80.53,
+      "time_str": "01:20.530",
+      "text": "Let the storm rage on",
+      "translation": "让风暴来得更猛烈些吧"
+    },
+    {
+      "time": 84.54,
+      "time_str": "01:24.540",
+      "text": "The cold never bothered me anyway",
+      "translation": "我再也不会为寒意所困扰了"
+    },
+    {
+      "time": 91.83,
+      "time_str": "01:31.830",
+      "text": "It's funny how some distance",
+      "translation": "想来有趣的是"
+    },
+    {
+      "time": 94.69,
+      "time_str": "01:34.690",
+      "text": "Makes everything seem small",
+      "translation": "距离让事物变得渺小"
+    },
+    {
+      "time": 98.65,
+      "time_str": "01:38.650",
+      "text": "And the fears that once controlled me",
+      "translation": "而曾经一度控制着我的恐惧"
+    },
+    {
+      "time": 101.57,
+      "time_str": "01:41.570",
+      "text": "Can't get to me at all",
+      "translation": "再也奈何不了我了"
+    },
+    {
+      "time": 105.86,
+      "time_str": "01:45.860",
+      "text": "It's time to see what I can do",
+      "translation": "是时候见识一下我的本领了"
+    },
+    {
+      "time": 109.54,
+      "time_str": "01:49.540",
+      "text": "To test the limits and break through",
+      "translation": "天际再高也要尝试飞翔"
+    },
+    {
+      "time": 112.9,
+      "time_str": "01:52.900",
+      "text": "No right, no wrong, no rules for me",
+      "translation": "没有对错是非，我不会被规则束缚"
+    },
+    {
+      "time": 117.15,
+      "time_str": "01:57.150",
+      "text": "I'm free",
+      "translation": "我已经彻底自由"
+    },
+    {
+      "time": 120.81,
+      "time_str": "02:00.810",
+      "text": "Let it go",
+      "translation": "就让它去吧"
+    },
+    {
+      "time": 122.3,
+      "time_str": "02:02.300",
+      "text": "Let it go",
+      "translation": "随风而去吧"
+    },
+    {
+      "time": 124.18,
+      "time_str": "02:04.180",
+      "text": "I am one with the wind and sky",
+      "translation": "我是乘风飞舞的精灵"
+    },
+    {
+      "time": 127.67,
+      "time_str": "02:07.670",
+      "text": "Let it go",
+      "translation": "就让它去吧"
+    },
+    {
+      "time": 129.24,
+      "time_str": "02:09.240",
+      "text": "Let it go",
+      "translation": "随风而去吧"
+    },
+    {
+      "time": 131.2,
+      "time_str": "02:11.200",
+      "text": "You'll never see me cry",
+      "translation": "你永远不会见到我脆弱而落泪"
+    },
+    {
+      "time": 135.28,
+      "time_str": "02:15.280",
+      "text": "Here I stand",
+      "translation": "我脚下的土地"
+    },
+    {
+      "time": 138.43,
+      "time_str": "02:18.430",
+      "text": "And here I'll stay",
+      "translation": "将是我的新辟"
+    },
+    {
+      "time": 141.96,
+      "time_str": "02:21.960",
+      "text": "Let the storm rage on",
+      "translation": "让风暴来得更猛烈些吧"
+    },
+    {
+      "time": 153.42,
+      "time_str": "02:33.420",
+      "text": "My power flurries through the air into the ground",
+      "translation": "我的能量在冰天雪地中转换"
+    },
+    {
+      "time": 160.34,
+      "time_str": "02:40.340",
+      "text": "My soul is spiraling in frozen fractals all around",
+      "translation": "我的灵魂在晶莹剔透间盘旋"
+    },
+    {
+      "time": 167.41,
+      "time_str": "02:47.410",
+      "text": "And one thought crystallizes like an icy blast",
+      "translation": "一个念头在漫天雪地中爆破"
+    },
+    {
+      "time": 174.18,
+      "time_str": "02:54.180",
+      "text": "I'm never going back",
+      "translation": "我再也不要回到过去"
+    },
+    {
+      "time": 177.01,
+      "time_str": "02:57.010",
+      "text": "The past is in the past",
+      "translation": "历史已经永远是过去时了"
+    },
+    {
+      "time": 182.02,
+      "time_str": "03:02.020",
+      "text": "Let it go",
+      "translation": "就让它去吧"
+    },
+    {
+      "time": 183.73,
+      "time_str": "03:03.730",
+      "text": "Let it go",
+      "translation": "随风而去吧"
+    },
+    {
+      "time": 185.55,
+      "time_str": "03:05.550",
+      "text": "And I'll rise like the break of dawn",
+      "translation": "我会如破晓的黎明般觉醒"
+    },
+    {
+      "time": 189.03,
+      "time_str": "03:09.030",
+      "text": "Let it go",
+      "translation": "就让它去吧"
+    },
+    {
+      "time": 190.77,
+      "time_str": "03:10.770",
+      "text": "Let it go",
+      "translation": "随风而去吧"
+    },
+    {
+      "time": 192.73,
+      "time_str": "03:12.730",
+      "text": "That perfect girl is gone",
+      "translation": "那个乖乖女已经无处寻觅了"
+    },
+    {
+      "time": 196.62,
+      "time_str": "03:16.620",
+      "text": "Here I stand in the light of day",
+      "translation": "我在此重生 迎着白日的光芒"
+    },
+    {
+      "time": 204.96,
+      "time_str": "03:24.960",
+      "text": "Let the storm rage on",
+      "translation": "让风暴来得更猛烈些吧"
+    },
+    {
+      "time": 210.7,
+      "time_str": "03:30.700",
+      "text": "The cold never bothered me anyway",
+      "translation": "我再也不会为寒意所困扰了"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Let It Go (From \"Frozen\"⁄Soundtrack Version) - Idina Menzel.lrc"
+}

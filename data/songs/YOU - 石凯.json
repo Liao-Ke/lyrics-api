@@ -1,0 +1,364 @@
+{
+  "title": "YOU",
+  "title_raw": "YOU",
+  "version": null,
+  "artist": "石凯",
+  "group_key": "you|石凯",
+  "writers": {
+    "lyricist": "郭俊诚@发动音乐",
+    "composer": "郭俊诚@发动音乐",
+    "arranger": "郭俊诚@发动音乐"
+  },
+  "lyrics": [
+    {
+      "time": 7.74,
+      "time_str": "00:07.740",
+      "text": "人声音频编辑：吕欣橦@发动音乐",
+      "translation": null
+    },
+    {
+      "time": 9.18,
+      "time_str": "00:09.180",
+      "text": "母带：刘辉@发动音乐",
+      "translation": null
+    },
+    {
+      "time": 10.83,
+      "time_str": "00:10.830",
+      "text": "发行公司：宇宙星船",
+      "translation": null
+    },
+    {
+      "time": 12.81,
+      "time_str": "00:12.810",
+      "text": "你的眼眸闪过的冰冷",
+      "translation": null
+    },
+    {
+      "time": 15.84,
+      "time_str": "00:15.840",
+      "text": "皱着眉头你关闭了心门",
+      "translation": null
+    },
+    {
+      "time": 18.84,
+      "time_str": "00:18.840",
+      "text": "你耳后褪色的纹身",
+      "translation": null
+    },
+    {
+      "time": 21.81,
+      "time_str": "00:21.810",
+      "text": "i wanna know好奇你所有",
+      "translation": null
+    },
+    {
+      "time": 24.87,
+      "time_str": "00:24.870",
+      "text": "你说很痛过去的伤痕",
+      "translation": null
+    },
+    {
+      "time": 27.81,
+      "time_str": "00:27.810",
+      "text": "早就看透也不想再等",
+      "translation": null
+    },
+    {
+      "time": 30.9,
+      "time_str": "00:30.900",
+      "text": "I promise you I'm kind a different",
+      "translation": null
+    },
+    {
+      "time": 33.81,
+      "time_str": "00:33.810",
+      "text": "给你温柔给你我所有",
+      "translation": null
+    },
+    {
+      "time": 35.67,
+      "time_str": "00:35.670",
+      "text": "想对你说",
+      "translation": null
+    },
+    {
+      "time": 36.3,
+      "time_str": "00:36.300",
+      "text": "girl I have to say对你是真的",
+      "translation": null
+    },
+    {
+      "time": 39.36,
+      "time_str": "00:39.360",
+      "text": "不会让你 wait才不像他呢",
+      "translation": null
+    },
+    {
+      "time": 42.33,
+      "time_str": "00:42.330",
+      "text": "girl just join my trip给我机会",
+      "translation": null
+    },
+    {
+      "time": 45.27,
+      "time_str": "00:45.270",
+      "text": "卸下你防备不会后悔",
+      "translation": null
+    },
+    {
+      "time": 48.33,
+      "time_str": "00:48.330",
+      "text": "girl I have to say别再流泪",
+      "translation": null
+    },
+    {
+      "time": 51.33,
+      "time_str": "00:51.330",
+      "text": "我们一起去 LA玩到天黑",
+      "translation": null
+    },
+    {
+      "time": 54.33,
+      "time_str": "00:54.330",
+      "text": "girl you can be my bae开心加倍",
+      "translation": null
+    },
+    {
+      "time": 57.36,
+      "time_str": "00:57.360",
+      "text": "天亮前陪你安稳的睡",
+      "translation": null
+    },
+    {
+      "time": 60.3,
+      "time_str": "01:00.300",
+      "text": "让时光划破海洋 I found you",
+      "translation": null
+    },
+    {
+      "time": 66.21,
+      "time_str": "01:06.210",
+      "text": "爱拨开宇宙星光 I hold you",
+      "translation": null
+    },
+    {
+      "time": 72.18,
+      "time_str": "01:12.180",
+      "text": "看潮水疯狂的涨 I love you",
+      "translation": null
+    },
+    {
+      "time": 80.19,
+      "time_str": "01:20.190",
+      "text": "my love is you you you",
+      "translation": null
+    },
+    {
+      "time": 83.4,
+      "time_str": "01:23.400",
+      "text": "想对你说",
+      "translation": null
+    },
+    {
+      "time": 84.33,
+      "time_str": "01:24.330",
+      "text": "girl I have to say对你是真的",
+      "translation": null
+    },
+    {
+      "time": 87.33,
+      "time_str": "01:27.330",
+      "text": "不会让你 wait才不像他呢",
+      "translation": null
+    },
+    {
+      "time": 90.33,
+      "time_str": "01:30.330",
+      "text": "girl just join my trip给我机会",
+      "translation": null
+    },
+    {
+      "time": 93.24,
+      "time_str": "01:33.240",
+      "text": "卸下你防备不会后悔",
+      "translation": null
+    },
+    {
+      "time": 96.33,
+      "time_str": "01:36.330",
+      "text": "girl I have to say别再流泪",
+      "translation": null
+    },
+    {
+      "time": 99.33,
+      "time_str": "01:39.330",
+      "text": "我们一起去 LA玩到天黑",
+      "translation": null
+    },
+    {
+      "time": 102.33,
+      "time_str": "01:42.330",
+      "text": "girl you can be my bae开心加倍",
+      "translation": null
+    },
+    {
+      "time": 105.36,
+      "time_str": "01:45.360",
+      "text": "天亮前陪你安稳的睡",
+      "translation": null
+    },
+    {
+      "time": 108.21,
+      "time_str": "01:48.210",
+      "text": "就让美梦成对",
+      "translation": null
+    },
+    {
+      "time": 109.29,
+      "time_str": "01:49.290",
+      "text": "伴着心跳 and sweet",
+      "translation": null
+    },
+    {
+      "time": 110.79,
+      "time_str": "01:50.790",
+      "text": "看着夕阳在海上的我们起飞",
+      "translation": null
+    },
+    {
+      "time": 113.85,
+      "time_str": "01:53.850",
+      "text": "天空星辰漫布",
+      "translation": null
+    },
+    {
+      "time": 115.32,
+      "time_str": "01:55.320",
+      "text": "那是我们归宿",
+      "translation": null
+    },
+    {
+      "time": 116.79,
+      "time_str": "01:56.790",
+      "text": "懒懒的海风吹散掉孤独和 blue",
+      "translation": null
+    },
+    {
+      "time": 119.85,
+      "time_str": "01:59.850",
+      "text": "看海鸥成群飞",
+      "translation": null
+    },
+    {
+      "time": 121.32,
+      "time_str": "02:01.320",
+      "text": "雾和云彩作陪",
+      "translation": null
+    },
+    {
+      "time": 122.82,
+      "time_str": "02:02.820",
+      "text": "追着你奔跑的我早忘了疲惫",
+      "translation": null
+    },
+    {
+      "time": 125.91,
+      "time_str": "02:05.910",
+      "text": "月色渐渐催促",
+      "translation": null
+    },
+    {
+      "time": 127.29,
+      "time_str": "02:07.290",
+      "text": "星光点点坠入",
+      "translation": null
+    },
+    {
+      "time": 128.85,
+      "time_str": "02:08.850",
+      "text": "按下快门将遗忘的美好记录",
+      "translation": null
+    },
+    {
+      "time": 131.61,
+      "time_str": "02:11.610",
+      "text": "想对你说",
+      "translation": null
+    },
+    {
+      "time": 132.33,
+      "time_str": "02:12.330",
+      "text": "girl I have to say对你是真的",
+      "translation": null
+    },
+    {
+      "time": 135.36,
+      "time_str": "02:15.360",
+      "text": "不会让你 wait才不像他呢",
+      "translation": null
+    },
+    {
+      "time": 138.33,
+      "time_str": "02:18.330",
+      "text": "girl just join my trip给我机会",
+      "translation": null
+    },
+    {
+      "time": 141.27,
+      "time_str": "02:21.270",
+      "text": "卸下你防备不会后悔",
+      "translation": null
+    },
+    {
+      "time": 144.33,
+      "time_str": "02:24.330",
+      "text": "girl I have to say别再流泪",
+      "translation": null
+    },
+    {
+      "time": 147.33,
+      "time_str": "02:27.330",
+      "text": "我们一起去 LA玩到天黑",
+      "translation": null
+    },
+    {
+      "time": 150.33,
+      "time_str": "02:30.330",
+      "text": "girl you can be my bae开心加倍",
+      "translation": null
+    },
+    {
+      "time": 153.36,
+      "time_str": "02:33.360",
+      "text": "天亮前陪你安稳的睡",
+      "translation": null
+    },
+    {
+      "time": 156.3,
+      "time_str": "02:36.300",
+      "text": "让时光划破海洋 I found you",
+      "translation": null
+    },
+    {
+      "time": 162.21,
+      "time_str": "02:42.210",
+      "text": "爱拨开宇宙星光 I hold you",
+      "translation": null
+    },
+    {
+      "time": 168.18,
+      "time_str": "02:48.180",
+      "text": "看潮水疯狂的涨 I love you",
+      "translation": null
+    },
+    {
+      "time": 176.19,
+      "time_str": "02:56.190",
+      "text": "my love is you you you",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "YOU - 石凯.lrc"
+}

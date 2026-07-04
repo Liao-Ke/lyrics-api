@@ -1,0 +1,268 @@
+{
+  "title": "下一个天亮",
+  "title_raw": "下一个天亮",
+  "version": null,
+  "artist": "郭静",
+  "group_key": "下一个天亮|郭静",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "陈小霞",
+    "arranger": "陈俊廷"
+  },
+  "lyrics": [
+    {
+      "time": 18.64,
+      "time_str": "00:18.640",
+      "text": "用起伏的背影挡住哭泣的心",
+      "translation": null
+    },
+    {
+      "time": 26.839,
+      "time_str": "00:26.839",
+      "text": "有些故事不必说给每个人听",
+      "translation": null
+    },
+    {
+      "time": 34.629,
+      "time_str": "00:34.629",
+      "text": "许多眼睛看的太浅太近",
+      "translation": null
+    },
+    {
+      "time": 41.809,
+      "time_str": "00:41.809",
+      "text": "错过我没被看见那个自己",
+      "translation": null
+    },
+    {
+      "time": 50.399,
+      "time_str": "00:50.399",
+      "text": "用简单的言语解开超载的心",
+      "translation": null
+    },
+    {
+      "time": 58.289,
+      "time_str": "00:58.289",
+      "text": "有些情绪是该说给懂的人听",
+      "translation": null
+    },
+    {
+      "time": 66.309,
+      "time_str": "01:06.309",
+      "text": "你的热泪比我激动怜惜",
+      "translation": null
+    },
+    {
+      "time": 73.35,
+      "time_str": "01:13.350",
+      "text": "我发誓要更努力更有勇气",
+      "translation": null
+    },
+    {
+      "time": 81.27,
+      "time_str": "01:21.270",
+      "text": "等下一个天亮",
+      "translation": null
+    },
+    {
+      "time": 85.09,
+      "time_str": "01:25.090",
+      "text": "去上次牵手赏花那里散步好吗",
+      "translation": null
+    },
+    {
+      "time": 89.649,
+      "time_str": "01:29.649",
+      "text": "有些积雪会自己融化",
+      "translation": null
+    },
+    {
+      "time": 93.499,
+      "time_str": "01:33.499",
+      "text": "你的肩膀是我豁达的天堂",
+      "translation": null
+    },
+    {
+      "time": 97.8,
+      "time_str": "01:37.800",
+      "text": "等下一个天亮",
+      "translation": null
+    },
+    {
+      "time": 100.219,
+      "time_str": "01:40.219",
+      "text": "把偷拍我看海的照片送我好吗",
+      "translation": null
+    },
+    {
+      "time": 105.7,
+      "time_str": "01:45.700",
+      "text": "我喜欢我飞舞的头发",
+      "translation": null
+    },
+    {
+      "time": 109.059,
+      "time_str": "01:49.059",
+      "text": "和飘着雨还是眺望的眼光",
+      "translation": null
+    },
+    {
+      "time": 123.389,
+      "time_str": "02:03.389",
+      "text": "用简单的言语解开超载的心",
+      "translation": null
+    },
+    {
+      "time": 132.39,
+      "time_str": "02:12.390",
+      "text": "有些情绪是该说给懂的人听",
+      "translation": null
+    },
+    {
+      "time": 139.329,
+      "time_str": "02:19.329",
+      "text": "你的热泪比我激动怜惜",
+      "translation": null
+    },
+    {
+      "time": 147.29,
+      "time_str": "02:27.290",
+      "text": "我发誓要更努力更有勇气",
+      "translation": null
+    },
+    {
+      "time": 155.4,
+      "time_str": "02:35.400",
+      "text": "等下一个天亮",
+      "translation": null
+    },
+    {
+      "time": 157.31,
+      "time_str": "02:37.310",
+      "text": "去上次牵手赏花那里散步好吗",
+      "translation": null
+    },
+    {
+      "time": 162.689,
+      "time_str": "02:42.689",
+      "text": "有些积雪会自己融化",
+      "translation": null
+    },
+    {
+      "time": 166.198,
+      "time_str": "02:46.198",
+      "text": "你的肩膀是我豁达的天堂",
+      "translation": null
+    },
+    {
+      "time": 171.4,
+      "time_str": "02:51.400",
+      "text": "等下一个天亮",
+      "translation": null
+    },
+    {
+      "time": 173.06,
+      "time_str": "02:53.060",
+      "text": "把偷拍我看海的照片送我好吗",
+      "translation": null
+    },
+    {
+      "time": 178.239,
+      "time_str": "02:58.239",
+      "text": "我喜欢我飞舞的头发",
+      "translation": null
+    },
+    {
+      "time": 181.919,
+      "time_str": "03:01.919",
+      "text": "和飘着雨还是眺望的眼光",
+      "translation": null
+    },
+    {
+      "time": 189.06,
+      "time_str": "03:09.060",
+      "text": "时间可以磨去我的棱角",
+      "translation": null
+    },
+    {
+      "time": 191.72,
+      "time_str": "03:11.720",
+      "text": "有些坚持却永远磨不掉",
+      "translation": null
+    },
+    {
+      "time": 195.71,
+      "time_str": "03:15.710",
+      "text": "请容许我小小的骄傲",
+      "translation": null
+    },
+    {
+      "time": 199.82,
+      "time_str": "03:19.820",
+      "text": "因为有你这样的依靠",
+      "translation": null
+    },
+    {
+      "time": 207.919,
+      "time_str": "03:27.919",
+      "text": "等下一个天亮",
+      "translation": null
+    },
+    {
+      "time": 210.389,
+      "time_str": "03:30.389",
+      "text": "去上次牵手赏花那里散步好吗",
+      "translation": null
+    },
+    {
+      "time": 215.6,
+      "time_str": "03:35.600",
+      "text": "有些积雪会自己融化",
+      "translation": null
+    },
+    {
+      "time": 219.259,
+      "time_str": "03:39.259",
+      "text": "你的肩膀是我豁达的天堂",
+      "translation": null
+    },
+    {
+      "time": 222.91,
+      "time_str": "03:42.910",
+      "text": "等下一个天亮",
+      "translation": null
+    },
+    {
+      "time": 226.098,
+      "time_str": "03:46.098",
+      "text": "把偷拍我看海的照片送我好吗",
+      "translation": null
+    },
+    {
+      "time": 231.299,
+      "time_str": "03:51.299",
+      "text": "我喜欢我飞舞的头发",
+      "translation": null
+    },
+    {
+      "time": 235.009,
+      "time_str": "03:55.009",
+      "text": "和飘着雨还是眺望的眼光",
+      "translation": null
+    },
+    {
+      "time": 242.989,
+      "time_str": "04:02.989",
+      "text": "贝斯：陈俊廷",
+      "translation": null
+    },
+    {
+      "time": 248.989,
+      "time_str": "04:08.989",
+      "text": "混音工程师：杨大纬",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "下一个天亮 - 郭静.lrc"
+}

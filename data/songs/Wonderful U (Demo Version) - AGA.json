@@ -1,0 +1,424 @@
+{
+  "title": "Wonderful U",
+  "title_raw": "Wonderful U (Demo Version)",
+  "version": "Demo Version",
+  "artist": "AGA",
+  "group_key": "wonderful u|aga",
+  "writers": {
+    "lyricist": "AGA",
+    "composer": "AGA",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.63,
+      "time_str": "00:15.630",
+      "text": "I never knew",
+      "translation": "我从未察觉"
+    },
+    {
+      "time": 17.58,
+      "time_str": "00:17.580",
+      "text": "When the clock stopped and I'm looking at you",
+      "translation": "自己在凝视你时如此入神，仿佛时间停止了流逝"
+    },
+    {
+      "time": 21.63,
+      "time_str": "00:21.630",
+      "text": "I never thought I'll miss someone like you",
+      "translation": "我从不知我会如此想念你"
+    },
+    {
+      "time": 25.63,
+      "time_str": "00:25.630",
+      "text": "Someone I thought that I knew",
+      "translation": "想念我曾以为我已了解透彻的你"
+    },
+    {
+      "time": 31.72,
+      "time_str": "00:31.720",
+      "text": "I never knew",
+      "translation": "我从来不认为"
+    },
+    {
+      "time": 33.61,
+      "time_str": "00:33.610",
+      "text": "I should have known something wouldn't be true",
+      "translation": "我应该明白梦想并不总能成真"
+    },
+    {
+      "time": 37.63,
+      "time_str": "00:37.630",
+      "text": "Baby you know that I'm so into you",
+      "translation": "亲爱的 你知道我有多爱你"
+    },
+    {
+      "time": 41.61,
+      "time_str": "00:41.610",
+      "text": "More than I know I should do",
+      "translation": "我本不应如此爱你"
+    },
+    {
+      "time": 47.44,
+      "time_str": "00:47.440",
+      "text": "So why why why",
+      "translation": "所以为什么"
+    },
+    {
+      "time": 50.62,
+      "time_str": "00:50.620",
+      "text": "Why should we wait there",
+      "translation": "我们要等待"
+    },
+    {
+      "time": 55.21,
+      "time_str": "00:55.210",
+      "text": "And I I I",
+      "translation": "而我"
+    },
+    {
+      "time": 58.6,
+      "time_str": "00:58.600",
+      "text": "I should be waiting",
+      "translation": "我应该等待"
+    },
+    {
+      "time": 62.7,
+      "time_str": "01:02.700",
+      "text": "Waiting for someone new",
+      "translation": "等待另一个他进入到我的生命中"
+    },
+    {
+      "time": 65.96,
+      "time_str": "01:05.960",
+      "text": "Even though that it wasn't you",
+      "translation": "即使那个人不是你"
+    },
+    {
+      "time": 70.46,
+      "time_str": "01:10.460",
+      "text": "But I know that it's",
+      "translation": "但我知道"
+    },
+    {
+      "time": 71.91,
+      "time_str": "01:11.910",
+      "text": "Wonderful",
+      "translation": "这一切是无比美好的"
+    },
+    {
+      "time": 73.33,
+      "time_str": "01:13.330",
+      "text": "Incredible",
+      "translation": "它不可思议"
+    },
+    {
+      "time": 74.75,
+      "time_str": "01:14.750",
+      "text": "Baby irrational",
+      "translation": "甚至不合情理"
+    },
+    {
+      "time": 77.38,
+      "time_str": "01:17.380",
+      "text": "I never knew it was obsessional",
+      "translation": "我没有想到这种感觉如此难以抗拒"
+    },
+    {
+      "time": 81.34,
+      "time_str": "01:21.340",
+      "text": "And I never knew it was with you oooh",
+      "translation": "没有想过是你和我一同深陷其中"
+    },
+    {
+      "time": 86.35,
+      "time_str": "01:26.350",
+      "text": "Baby if it's just",
+      "translation": "亲爱的"
+    },
+    {
+      "time": 87.85,
+      "time_str": "01:27.850",
+      "text": "Wonderful",
+      "translation": "如果它是如此美好"
+    },
+    {
+      "time": 89.53,
+      "time_str": "01:29.530",
+      "text": "Incredible",
+      "translation": "不可思议"
+    },
+    {
+      "time": 90.68,
+      "time_str": "01:30.680",
+      "text": "Baby irrational",
+      "translation": "甚至到了荒谬的地步"
+    },
+    {
+      "time": 93.41,
+      "time_str": "01:33.410",
+      "text": "I never knew it was so sad",
+      "translation": "我从未想过这会令我悲伤"
+    },
+    {
+      "time": 97.06,
+      "time_str": "01:37.060",
+      "text": "Just so sad",
+      "translation": "如此悲伤"
+    },
+    {
+      "time": 98.98,
+      "time_str": "01:38.980",
+      "text": "I'm so sorry",
+      "translation": "我很抱歉"
+    },
+    {
+      "time": 101.98,
+      "time_str": "01:41.980",
+      "text": "Even now I just cannot feel you feel me",
+      "translation": "（因为）尽管如此我仍然感受不到你在乎我"
+    },
+    {
+      "time": 110.6,
+      "time_str": "01:50.600",
+      "text": "Hmmm",
+      "translation": "（哼唱）"
+    },
+    {
+      "time": 119.28,
+      "time_str": "01:59.280",
+      "text": "So why why why",
+      "translation": "所以为什么"
+    },
+    {
+      "time": 122.59,
+      "time_str": "02:02.590",
+      "text": "Why should we waited",
+      "translation": "我们要等待"
+    },
+    {
+      "time": 127.21,
+      "time_str": "02:07.210",
+      "text": "And I I I",
+      "translation": "而我"
+    },
+    {
+      "time": 130.46,
+      "time_str": "02:10.460",
+      "text": "I should be waiting",
+      "translation": "我应该等待"
+    },
+    {
+      "time": 134.76,
+      "time_str": "02:14.760",
+      "text": "Waiting for someone new",
+      "translation": "等待爱情将我们变得焕然一新"
+    },
+    {
+      "time": 138.02,
+      "time_str": "02:18.020",
+      "text": "Even though that it wasn't you",
+      "translation": "即使那时的你已经不再是现在的你"
+    },
+    {
+      "time": 142.39,
+      "time_str": "02:22.390",
+      "text": "But I know that it's",
+      "translation": "但我知道，这一切"
+    },
+    {
+      "time": 143.93,
+      "time_str": "02:23.930",
+      "text": "Wonderful",
+      "translation": "是无比美好的"
+    },
+    {
+      "time": 145.5,
+      "time_str": "02:25.500",
+      "text": "Incredible",
+      "translation": "它不可思议"
+    },
+    {
+      "time": 146.72,
+      "time_str": "02:26.720",
+      "text": "Baby irrational",
+      "translation": "亲爱的，甚至不合情理"
+    },
+    {
+      "time": 149.51,
+      "time_str": "02:29.510",
+      "text": "I never knew it was obsessional",
+      "translation": "我没有想到这种感觉如此难以抗拒"
+    },
+    {
+      "time": 153.4,
+      "time_str": "02:33.400",
+      "text": "And I never knew it was with you oooh",
+      "translation": "没有想过和我经历这一切的竟是你"
+    },
+    {
+      "time": 158.34,
+      "time_str": "02:38.340",
+      "text": "Baby if it's just",
+      "translation": "亲爱的，如果它是如此"
+    },
+    {
+      "time": 159.77,
+      "time_str": "02:39.770",
+      "text": "Wonderful",
+      "translation": "美好"
+    },
+    {
+      "time": 161.42,
+      "time_str": "02:41.420",
+      "text": "Incredible",
+      "translation": "不可思议"
+    },
+    {
+      "time": 162.7,
+      "time_str": "02:42.700",
+      "text": "Baby irrational",
+      "translation": "甚至不合情理"
+    },
+    {
+      "time": 165.39,
+      "time_str": "02:45.390",
+      "text": "I never knew it was so sad",
+      "translation": "我从不知这会令我感到如此悲伤"
+    },
+    {
+      "time": 168.9,
+      "time_str": "02:48.900",
+      "text": "Just so sad",
+      "translation": "如此悲伤"
+    },
+    {
+      "time": 170.87,
+      "time_str": "02:50.870",
+      "text": "I'm so sorry",
+      "translation": "我很抱歉"
+    },
+    {
+      "time": 173.81,
+      "time_str": "02:53.810",
+      "text": "Even now I just cannot feel you feel",
+      "translation": "（因为）尽管如此我仍然感受不到你在乎我"
+    },
+    {
+      "time": 180.01,
+      "time_str": "03:00.010",
+      "text": "I don't even know now",
+      "translation": "我无法确定"
+    },
+    {
+      "time": 182.4,
+      "time_str": "03:02.400",
+      "text": "I'm sure you'll wait for me",
+      "translation": "你是否会为我等待"
+    },
+    {
+      "time": 185.9,
+      "time_str": "03:05.900",
+      "text": "Even now I just cannot deny",
+      "translation": "但即使如此我已无法抗拒"
+    },
+    {
+      "time": 189.17,
+      "time_str": "03:09.170",
+      "text": "I just hold on so tight",
+      "translation": "我只能抱紧你"
+    },
+    {
+      "time": 191.11,
+      "time_str": "03:11.110",
+      "text": "Until you and I never could breathe",
+      "translation": "直到你我都无法呼吸"
+    },
+    {
+      "time": 194.67,
+      "time_str": "03:14.670",
+      "text": "Oh",
+      "translation": "哦.."
+    },
+    {
+      "time": 195.89,
+      "time_str": "03:15.890",
+      "text": "Wonderful",
+      "translation": "美好"
+    },
+    {
+      "time": 197.32,
+      "time_str": "03:17.320",
+      "text": "Incredible",
+      "translation": "不可思议"
+    },
+    {
+      "time": 198.63,
+      "time_str": "03:18.630",
+      "text": "Baby irrational",
+      "translation": "甚至不合情理"
+    },
+    {
+      "time": 201.42,
+      "time_str": "03:21.420",
+      "text": "I never knew it was obsessional",
+      "translation": "我从不知道它如此难以抗拒"
+    },
+    {
+      "time": 205.34,
+      "time_str": "03:25.340",
+      "text": "And I never knew it was with you until you tell me to",
+      "translation": "在你告诉我之前，我不知道和我经历这一切的会是你"
+    },
+    {
+      "time": 210.31,
+      "time_str": "03:30.310",
+      "text": "Baby if it's just",
+      "translation": "亲爱的 它真是如此"
+    },
+    {
+      "time": 211.83,
+      "time_str": "03:31.830",
+      "text": "Wonderful",
+      "translation": "美妙"
+    },
+    {
+      "time": 213.49,
+      "time_str": "03:33.490",
+      "text": "Incredible",
+      "translation": "不可思议"
+    },
+    {
+      "time": 214.64,
+      "time_str": "03:34.640",
+      "text": "Baby irrational",
+      "translation": "甚至不合情理"
+    },
+    {
+      "time": 217.35,
+      "time_str": "03:37.350",
+      "text": "I never knew it was so sad",
+      "translation": "我从不知道它会让我感到如此悲伤"
+    },
+    {
+      "time": 220.8,
+      "time_str": "03:40.800",
+      "text": "Just so sad",
+      "translation": "如此悲伤"
+    },
+    {
+      "time": 222.94,
+      "time_str": "03:42.940",
+      "text": "I'm so sorry",
+      "translation": "我很抱歉"
+    },
+    {
+      "time": 225.93,
+      "time_str": "03:45.930",
+      "text": "Even now I just cannot feel you feel me",
+      "translation": "（因为）尽管如此我仍然感受不到你在乎我"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Wonderful U (Demo Version) - AGA.lrc"
+}

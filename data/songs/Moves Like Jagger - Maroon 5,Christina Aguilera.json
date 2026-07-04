@@ -1,0 +1,478 @@
+{
+  "title": "Moves Like Jagger",
+  "title_raw": "Moves Like Jagger",
+  "version": null,
+  "artist": "Maroon 5,Christina Aguilera",
+  "group_key": "moves like jagger|maroon 5,christina aguilera",
+  "writers": {
+    "lyricist": "Adam Levine/Benjamin Levin/Ammar Malik/Shellback",
+    "composer": "Adam Levine/Benjamin Levin/Ammar Malik/Shellback",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.009,
+      "time_str": "00:14.009",
+      "text": "Just shoot for the stars",
+      "translation": "准心瞄向众星"
+    },
+    {
+      "time": 16.159,
+      "time_str": "00:16.159",
+      "text": "If it feels right",
+      "translation": "找到感觉了吗"
+    },
+    {
+      "time": 17.709,
+      "time_str": "00:17.709",
+      "text": "And aim for my heart",
+      "translation": "那再瞄准我的心脏试试"
+    },
+    {
+      "time": 19.849,
+      "time_str": "00:19.849",
+      "text": "If you feel like",
+      "translation": "你确定的话"
+    },
+    {
+      "time": 21.699,
+      "time_str": "00:21.699",
+      "text": "And take me away",
+      "translation": "就带走我吧"
+    },
+    {
+      "time": 23.239,
+      "time_str": "00:23.239",
+      "text": "And make it okay",
+      "translation": "做什么我都愿意"
+    },
+    {
+      "time": 24.889,
+      "time_str": "00:24.889",
+      "text": "I swear I'll behave",
+      "translation": "我发誓会做任何事"
+    },
+    {
+      "time": 29.109,
+      "time_str": "00:29.109",
+      "text": "You wanted control",
+      "translation": "你就是个控制狂"
+    },
+    {
+      "time": 32.3,
+      "time_str": "00:32.300",
+      "text": "So we waited",
+      "translation": "那好我让着你"
+    },
+    {
+      "time": 32.639,
+      "time_str": "00:32.639",
+      "text": "I put on a show",
+      "translation": "我装的够像吧"
+    },
+    {
+      "time": 34.689,
+      "time_str": "00:34.689",
+      "text": "Now I make it",
+      "translation": "骗过你了吗"
+    },
+    {
+      "time": 36.289,
+      "time_str": "00:36.289",
+      "text": "You say I'm a kid",
+      "translation": "你说我幼稚"
+    },
+    {
+      "time": 38.069,
+      "time_str": "00:38.069",
+      "text": "My ego is big",
+      "translation": "说我自视甚高"
+    },
+    {
+      "time": 39.979,
+      "time_str": "00:39.979",
+      "text": "I don't give a shit",
+      "translation": "其实我都没听进去"
+    },
+    {
+      "time": 43.269,
+      "time_str": "00:43.269",
+      "text": "And it goes like this",
+      "translation": "接下来很自然地"
+    },
+    {
+      "time": 45.829,
+      "time_str": "00:45.829",
+      "text": "Take me by the tongue",
+      "translation": "你的吻夺去了我的理智"
+    },
+    {
+      "time": 47.179,
+      "time_str": "00:47.179",
+      "text": "And I'll know you",
+      "translation": "却没夺走我回吻的力气"
+    },
+    {
+      "time": 49.519,
+      "time_str": "00:49.519",
+      "text": "Kiss me till you're drunk",
+      "translation": "直到这亲吻让你也沉醉"
+    },
+    {
+      "time": 50.879,
+      "time_str": "00:50.879",
+      "text": "And I'll show you",
+      "translation": "我会让你无法自拔"
+    },
+    {
+      "time": 52.079,
+      "time_str": "00:52.079",
+      "text": "You want the moves like Jagger",
+      "translation": "一心只想与我共舞"
+    },
+    {
+      "time": 53.609,
+      "time_str": "00:53.609",
+      "text": "I've got the moves like Jagger",
+      "translation": "我也变得像jagger一样酷"
+    },
+    {
+      "time": 55.529,
+      "time_str": "00:55.529",
+      "text": "I've got the moves like Jagger",
+      "translation": "变得像jagger一样摇摆"
+    },
+    {
+      "time": 61.059,
+      "time_str": "01:01.059",
+      "text": "I don't need to try to control you",
+      "translation": "我不需要用什么去束缚你"
+    },
+    {
+      "time": 65.39,
+      "time_str": "01:05.390",
+      "text": "Look into my eyes and i'll own you",
+      "translation": "只一个眼神就能困住你"
+    },
+    {
+      "time": 67.039,
+      "time_str": "01:07.039",
+      "text": "With the moves like Jagger",
+      "translation": "变得像jagger一样摇摆"
+    },
+    {
+      "time": 68.509,
+      "time_str": "01:08.509",
+      "text": "I've got the moves like Jagger",
+      "translation": "我变得像jagger一样摇摆"
+    },
+    {
+      "time": 71.09,
+      "time_str": "01:11.090",
+      "text": "I've got the mooooooves like Jagger",
+      "translation": "我变得像jagger一样摇摆"
+    },
+    {
+      "time": 74.69,
+      "time_str": "01:14.690",
+      "text": "Baby it's hard",
+      "translation": "这是真的难"
+    },
+    {
+      "time": 77.19,
+      "time_str": "01:17.190",
+      "text": "When you feel like you're broken and scarred",
+      "translation": "你好像已经被创伤击倒"
+    },
+    {
+      "time": 79.849,
+      "time_str": "01:19.849",
+      "text": "Nothing feels right",
+      "translation": "已经无药可救"
+    },
+    {
+      "time": 81.69,
+      "time_str": "01:21.690",
+      "text": "But when you're with me",
+      "translation": "但我就是能救你"
+    },
+    {
+      "time": 83.139,
+      "time_str": "01:23.139",
+      "text": "I'll make you believe",
+      "translation": "让你重拾希望"
+    },
+    {
+      "time": 85.039,
+      "time_str": "01:25.039",
+      "text": "That I've got the key",
+      "translation": "我手里握着车钥匙呢"
+    },
+    {
+      "time": 89.049,
+      "time_str": "01:29.049",
+      "text": "Oh so get in the car",
+      "translation": "快上车吧"
+    },
+    {
+      "time": 91.089,
+      "time_str": "01:31.089",
+      "text": "We can ride it",
+      "translation": "我们这就启程"
+    },
+    {
+      "time": 92.549,
+      "time_str": "01:32.549",
+      "text": "Wherever you want",
+      "translation": "去往你想去的任何地方"
+    },
+    {
+      "time": 94.749,
+      "time_str": "01:34.749",
+      "text": "Get inside it",
+      "translation": "快上车呀"
+    },
+    {
+      "time": 96.208,
+      "time_str": "01:36.208",
+      "text": "And you wanna steer",
+      "translation": "想掌控方向是吧"
+    },
+    {
+      "time": 98.029,
+      "time_str": "01:38.029",
+      "text": "But I'm shifting gears",
+      "translation": "我这不就在换挡了嘛"
+    },
+    {
+      "time": 99.958,
+      "time_str": "01:39.958",
+      "text": "I'll take it from here oh yeah yeah",
+      "translation": "这就带你走"
+    },
+    {
+      "time": 103.79,
+      "time_str": "01:43.790",
+      "text": "And it goes like this",
+      "translation": "接下来很自然地"
+    },
+    {
+      "time": 105.829,
+      "time_str": "01:45.829",
+      "text": "Take me by the tongue",
+      "translation": "你的吻夺去了我的理智"
+    },
+    {
+      "time": 107.089,
+      "time_str": "01:47.089",
+      "text": "And I'll know you",
+      "translation": "却没夺走我回吻的力气"
+    },
+    {
+      "time": 110.3,
+      "time_str": "01:50.300",
+      "text": "Kiss me till you're drunk",
+      "translation": "直到这亲吻让你也沉醉"
+    },
+    {
+      "time": 110.739,
+      "time_str": "01:50.739",
+      "text": "And I'll show you",
+      "translation": "我会让你无法自拔"
+    },
+    {
+      "time": 111.928,
+      "time_str": "01:51.928",
+      "text": "You want the moves like Jagger",
+      "translation": "一心只想与我共舞"
+    },
+    {
+      "time": 113.529,
+      "time_str": "01:53.529",
+      "text": "I've got the moves like Jagger",
+      "translation": "我也变得像jagger一样酷"
+    },
+    {
+      "time": 116.089,
+      "time_str": "01:56.089",
+      "text": "I've got the mooooooves like Jagger",
+      "translation": "变得像jagger一样摇摆"
+    },
+    {
+      "time": 120.819,
+      "time_str": "02:00.819",
+      "text": "I don't need to try to control you",
+      "translation": "我不需要用什么去束缚你"
+    },
+    {
+      "time": 124.099,
+      "time_str": "02:04.099",
+      "text": "Look into my eyes and I'll own you",
+      "translation": "只一个眼神就能困住你"
+    },
+    {
+      "time": 126.938,
+      "time_str": "02:06.938",
+      "text": "With the moves like Jagger",
+      "translation": "变得像jagger一样摇摆"
+    },
+    {
+      "time": 128.709,
+      "time_str": "02:08.709",
+      "text": "I've got the moves like Jagger",
+      "translation": "我变得像jagger一样摇摆"
+    },
+    {
+      "time": 130.69,
+      "time_str": "02:10.690",
+      "text": "I've got the mooooooves like Jagger",
+      "translation": "我变得像jagger一样摇摆"
+    },
+    {
+      "time": 135.769,
+      "time_str": "02:15.769",
+      "text": "You wanna know how to make me smile",
+      "translation": "知道怎样能让我开心吗"
+    },
+    {
+      "time": 139.79,
+      "time_str": "02:19.790",
+      "text": "Take control own me just for the night",
+      "translation": "这一晚就是你的主场"
+    },
+    {
+      "time": 143.219,
+      "time_str": "02:23.219",
+      "text": "But if I share my secret",
+      "translation": "我有秘密要告诉你"
+    },
+    {
+      "time": 145.059,
+      "time_str": "02:25.059",
+      "text": "You gonna have to keep it",
+      "translation": "可是你要保证能守住哦"
+    },
+    {
+      "time": 146.949,
+      "time_str": "02:26.949",
+      "text": "Nobody else can see this",
+      "translation": "我只告诉你一个人"
+    },
+    {
+      "time": 150.749,
+      "time_str": "02:30.749",
+      "text": "So watch and learn",
+      "translation": "好好看着吧"
+    },
+    {
+      "time": 152.589,
+      "time_str": "02:32.589",
+      "text": "I won't show you twice",
+      "translation": "不会有第二次机会啦"
+    },
+    {
+      "time": 154.219,
+      "time_str": "02:34.219",
+      "text": "Head to toe ooh baby rub me right",
+      "translation": "从头到脚 肆意舞动"
+    },
+    {
+      "time": 158.279,
+      "time_str": "02:38.279",
+      "text": "But if I share my secret",
+      "translation": "我有秘密要告诉你"
+    },
+    {
+      "time": 160.069,
+      "time_str": "02:40.069",
+      "text": "You gonna have to keep it",
+      "translation": "可是你要保证能守住哦"
+    },
+    {
+      "time": 161.969,
+      "time_str": "02:41.969",
+      "text": "Nobody else can see this",
+      "translation": "我只告诉你一个人"
+    },
+    {
+      "time": 165.599,
+      "time_str": "02:45.599",
+      "text": "And it goes like this",
+      "translation": "接下来很自然地"
+    },
+    {
+      "time": 167.569,
+      "time_str": "02:47.569",
+      "text": "Take me by the tongue",
+      "translation": "你的吻夺去了我的理智"
+    },
+    {
+      "time": 168.899,
+      "time_str": "02:48.899",
+      "text": "And I'll know you",
+      "translation": "却没夺走我回吻的力气"
+    },
+    {
+      "time": 171.399,
+      "time_str": "02:51.399",
+      "text": "Kiss me till you're drunk",
+      "translation": "直到这亲吻让你也沉醉"
+    },
+    {
+      "time": 172.619,
+      "time_str": "02:52.619",
+      "text": "And I'll show you",
+      "translation": "我会让你无法自拔"
+    },
+    {
+      "time": 173.779,
+      "time_str": "02:53.779",
+      "text": "You want the moves like Jagger",
+      "translation": "一心只想与我共舞"
+    },
+    {
+      "time": 175.99,
+      "time_str": "02:55.990",
+      "text": "I've got the moves like Jagger",
+      "translation": "我也变得像jagger一样酷"
+    },
+    {
+      "time": 177.219,
+      "time_str": "02:57.219",
+      "text": "I've got the mooooooves like Jagger",
+      "translation": "变得像jagger一样摇摆"
+    },
+    {
+      "time": 182.659,
+      "time_str": "03:02.659",
+      "text": "I don't need to try to control you",
+      "translation": "我不需要用什么去束缚你"
+    },
+    {
+      "time": 186.279,
+      "time_str": "03:06.279",
+      "text": "Look into my eyes and I'll own you",
+      "translation": "只一个眼神就能困住你"
+    },
+    {
+      "time": 188.889,
+      "time_str": "03:08.889",
+      "text": "With the moves like Jagger",
+      "translation": "变得像jagger一样摇摆"
+    },
+    {
+      "time": 190.69,
+      "time_str": "03:10.690",
+      "text": "I've got the moves like Jagger",
+      "translation": "我变得像jagger一样摇摆"
+    },
+    {
+      "time": 192.289,
+      "time_str": "03:12.289",
+      "text": "I've got the mooooooves like Jagger",
+      "translation": "我变得像jagger一样摇摆"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Moves Like Jagger - Maroon 5,Christina Aguilera.lrc"
+}

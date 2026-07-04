@@ -1,0 +1,100 @@
+{
+  "title": "映山红",
+  "title_raw": "映山红",
+  "version": null,
+  "artist": "童丽",
+  "group_key": "映山红|童丽",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 50.24,
+      "time_str": "00:50.240",
+      "text": "夜半三更哟盼天明",
+      "translation": null
+    },
+    {
+      "time": 62.41,
+      "time_str": "01:02.410",
+      "text": "寒冬腊月哟盼春风",
+      "translation": null
+    },
+    {
+      "time": 72.57,
+      "time_str": "01:12.570",
+      "text": "若要盼得哟红军来",
+      "translation": null
+    },
+    {
+      "time": 82.71,
+      "time_str": "01:22.710",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 93.21,
+      "time_str": "01:33.21",
+      "text": "若要盼得哟红军来",
+      "translation": null
+    },
+    {
+      "time": 103.07,
+      "time_str": "01:43.07",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 125.51,
+      "time_str": "02:05.510",
+      "text": "...",
+      "translation": null
+    },
+    {
+      "time": 180.26,
+      "time_str": "03:00.26",
+      "text": "夜半三更哟盼天明",
+      "translation": null
+    },
+    {
+      "time": 189.87,
+      "time_str": "03:09.87",
+      "text": "寒冬腊月哟盼春风",
+      "translation": null
+    },
+    {
+      "time": 199.91,
+      "time_str": "03:19.91",
+      "text": "若要盼得哟红军来",
+      "translation": null
+    },
+    {
+      "time": 210.39,
+      "time_str": "03:30.39",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 221.01,
+      "time_str": "03:41.01",
+      "text": "若要盼得哟红军来",
+      "translation": null
+    },
+    {
+      "time": 230.95,
+      "time_str": "03:50.95",
+      "text": "岭上开遍哟映山红",
+      "translation": null
+    },
+    {
+      "time": 250.85,
+      "time_str": "04:10.850",
+      "text": "岭上开~遍哟映山红...",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "映山红 - 童丽.lrc"
+}

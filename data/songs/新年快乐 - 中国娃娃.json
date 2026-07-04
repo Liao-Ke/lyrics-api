@@ -1,0 +1,376 @@
+{
+  "title": "新年快乐",
+  "title_raw": "新年快乐",
+  "version": null,
+  "artist": "中国娃娃",
+  "group_key": "新年快乐|中国娃娃",
+  "writers": {
+    "lyricist": "许常德/陈冠桦",
+    "composer": "Charchai Cahbemnej",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.0,
+      "time_str": "00:15.000",
+      "text": "萨瓦迪卡～财神来敲我家门",
+      "translation": null
+    },
+    {
+      "time": 18.3,
+      "time_str": "00:18.300",
+      "text": "娃娃来点灯",
+      "translation": null
+    },
+    {
+      "time": 21.7,
+      "time_str": "00:21.700",
+      "text": "新夜红包加鞭炮声",
+      "translation": null
+    },
+    {
+      "time": 25.1,
+      "time_str": "00:25.100",
+      "text": "多财又多福",
+      "translation": null
+    },
+    {
+      "time": 55.97,
+      "time_str": "00:55.970",
+      "text": "恭喜啦 中国娃娃",
+      "translation": null
+    },
+    {
+      "time": 62.6,
+      "time_str": "01:02.600",
+      "text": "发财啦 中国娃娃",
+      "translation": null
+    },
+    {
+      "time": 69.46,
+      "time_str": "01:09.460",
+      "text": "开市啦",
+      "translation": null
+    },
+    {
+      "time": 70.03,
+      "time_str": "01:10.030",
+      "text": "祝大家新年恭喜恭喜发财",
+      "translation": null
+    },
+    {
+      "time": 71.91,
+      "time_str": "01:11.910",
+      "text": "中国娃娃",
+      "translation": null
+    },
+    {
+      "time": 73.06,
+      "time_str": "01:13.060",
+      "text": "祝大家快快乐乐见财有福",
+      "translation": null
+    },
+    {
+      "time": 75.46,
+      "time_str": "01:15.460",
+      "text": "福气啦（台语）",
+      "translation": null
+    },
+    {
+      "time": 76.82,
+      "time_str": "01:16.820",
+      "text": "祝大家新年 恭喜恭喜发财",
+      "translation": null
+    },
+    {
+      "time": 79.27,
+      "time_str": "01:19.270",
+      "text": "中国娃娃祝大家",
+      "translation": null
+    },
+    {
+      "time": 80.77,
+      "time_str": "01:20.770",
+      "text": "happy happy new year",
+      "translation": null
+    },
+    {
+      "time": 82.65,
+      "time_str": "01:22.650",
+      "text": "一天一天的过去",
+      "translation": null
+    },
+    {
+      "time": 85.3,
+      "time_str": "01:25.300",
+      "text": "新年又来临",
+      "translation": null
+    },
+    {
+      "time": 86.7,
+      "time_str": "01:26.700",
+      "text": "你我不分离",
+      "translation": null
+    },
+    {
+      "time": 89.15,
+      "time_str": "01:29.150",
+      "text": "不管到世界各地",
+      "translation": null
+    },
+    {
+      "time": 92.06,
+      "time_str": "01:32.060",
+      "text": "同样的气息",
+      "translation": null
+    },
+    {
+      "time": 93.57,
+      "time_str": "01:33.570",
+      "text": "家家都欢喜",
+      "translation": null
+    },
+    {
+      "time": 95.77,
+      "time_str": "01:35.770",
+      "text": "好运来 接著来",
+      "translation": null
+    },
+    {
+      "time": 99.27,
+      "time_str": "01:39.270",
+      "text": "恭喜恭喜发大财",
+      "translation": null
+    },
+    {
+      "time": 102.42,
+      "time_str": "01:42.420",
+      "text": "客人来 心花开",
+      "translation": null
+    },
+    {
+      "time": 105.77,
+      "time_str": "01:45.770",
+      "text": "生意兴隆笑开怀",
+      "translation": null
+    },
+    {
+      "time": 109.18,
+      "time_str": "01:49.180",
+      "text": "好运来 滚滚来",
+      "translation": null
+    },
+    {
+      "time": 112.58,
+      "time_str": "01:52.580",
+      "text": "我把大红包打开",
+      "translation": null
+    },
+    {
+      "time": 116.01,
+      "time_str": "01:56.010",
+      "text": "我的爱 让你带",
+      "translation": null
+    },
+    {
+      "time": 119.41,
+      "time_str": "01:59.410",
+      "text": "歌舞疯狂跳起来",
+      "translation": null
+    },
+    {
+      "time": 137.42,
+      "time_str": "02:17.420",
+      "text": "财神来敲我家门",
+      "translation": null
+    },
+    {
+      "time": 140.67,
+      "time_str": "02:20.670",
+      "text": "娃娃来点灯",
+      "translation": null
+    },
+    {
+      "time": 144.17,
+      "time_str": "02:24.170",
+      "text": "新夜红包加鞭炮声",
+      "translation": null
+    },
+    {
+      "time": 147.47,
+      "time_str": "02:27.470",
+      "text": "多财又多福",
+      "translation": null
+    },
+    {
+      "time": 178.35,
+      "time_str": "02:58.350",
+      "text": "恭喜啦 中国娃娃",
+      "translation": null
+    },
+    {
+      "time": 185.26,
+      "time_str": "03:05.260",
+      "text": "发财啦 中国娃娃",
+      "translation": null
+    },
+    {
+      "time": 192.04,
+      "time_str": "03:12.040",
+      "text": "开市啦",
+      "translation": null
+    },
+    {
+      "time": 192.52,
+      "time_str": "03:12.520",
+      "text": "祝大家新年恭喜恭喜发财",
+      "translation": null
+    },
+    {
+      "time": 194.38,
+      "time_str": "03:14.380",
+      "text": "中国娃娃",
+      "translation": null
+    },
+    {
+      "time": 195.64,
+      "time_str": "03:15.640",
+      "text": "祝大家快快乐乐见财有福",
+      "translation": null
+    },
+    {
+      "time": 198.24,
+      "time_str": "03:18.240",
+      "text": "福气啦（台语）",
+      "translation": null
+    },
+    {
+      "time": 199.69,
+      "time_str": "03:19.690",
+      "text": "祝大家新年 恭喜恭喜发财",
+      "translation": null
+    },
+    {
+      "time": 201.9,
+      "time_str": "03:21.900",
+      "text": "中国娃娃祝大家",
+      "translation": null
+    },
+    {
+      "time": 202.05,
+      "time_str": "03:22.050",
+      "text": "happy happy new year",
+      "translation": null
+    },
+    {
+      "time": 203.55,
+      "time_str": "03:23.550",
+      "text": "一天一天的过去",
+      "translation": null
+    },
+    {
+      "time": 207.76,
+      "time_str": "03:27.760",
+      "text": "新年又来临",
+      "translation": null
+    },
+    {
+      "time": 209.31,
+      "time_str": "03:29.310",
+      "text": "你我不分离",
+      "translation": null
+    },
+    {
+      "time": 211.86,
+      "time_str": "03:31.860",
+      "text": "不管到世界各地",
+      "translation": null
+    },
+    {
+      "time": 214.46,
+      "time_str": "03:34.460",
+      "text": "同样的气息",
+      "translation": null
+    },
+    {
+      "time": 216.06,
+      "time_str": "03:36.060",
+      "text": "家家都欢喜",
+      "translation": null
+    },
+    {
+      "time": 218.37,
+      "time_str": "03:38.370",
+      "text": "好运来 接著来",
+      "translation": null
+    },
+    {
+      "time": 221.56,
+      "time_str": "03:41.560",
+      "text": "恭喜恭喜发大财",
+      "translation": null
+    },
+    {
+      "time": 224.97,
+      "time_str": "03:44.970",
+      "text": "客人来 心花开",
+      "translation": null
+    },
+    {
+      "time": 228.32,
+      "time_str": "03:48.320",
+      "text": "生意兴隆笑开怀",
+      "translation": null
+    },
+    {
+      "time": 231.68,
+      "time_str": "03:51.680",
+      "text": "好运来 滚滚来",
+      "translation": null
+    },
+    {
+      "time": 235.18,
+      "time_str": "03:55.180",
+      "text": "我把大红包打开",
+      "translation": null
+    },
+    {
+      "time": 238.53,
+      "time_str": "03:58.530",
+      "text": "我的爱 让你带",
+      "translation": null
+    },
+    {
+      "time": 241.98,
+      "time_str": "04:01.980",
+      "text": "歌舞疯狂跳起来",
+      "translation": null
+    },
+    {
+      "time": 273.52,
+      "time_str": "04:33.520",
+      "text": "财神来敲我家门",
+      "translation": null
+    },
+    {
+      "time": 276.91,
+      "time_str": "04:36.910",
+      "text": "娃娃来点灯",
+      "translation": null
+    },
+    {
+      "time": 280.47,
+      "time_str": "04:40.470",
+      "text": "新夜红包加鞭炮声",
+      "translation": null
+    },
+    {
+      "time": 283.72,
+      "time_str": "04:43.720",
+      "text": "多财又多福",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "新年快乐 - 中国娃娃.lrc"
+}

@@ -1,0 +1,352 @@
+{
+  "title": "我是好人？",
+  "title_raw": "我是好人？",
+  "version": null,
+  "artist": "JAEFOREAL",
+  "group_key": "我是好人？|jaeforeal",
+  "writers": {
+    "lyricist": "JAEFOREAL",
+    "composer": "JAEFOREAL",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.54,
+      "time_str": "00:24.540",
+      "text": "只想把你装进我行李",
+      "translation": null
+    },
+    {
+      "time": 27.26,
+      "time_str": "00:27.260",
+      "text": "打包带走住进你心底",
+      "translation": null
+    },
+    {
+      "time": 30.26,
+      "time_str": "00:30.260",
+      "text": "别再说我是个好人好吗",
+      "translation": null
+    },
+    {
+      "time": 33.14,
+      "time_str": "00:33.140",
+      "text": "不想让你被骗去坏人家",
+      "translation": null
+    },
+    {
+      "time": 35.98,
+      "time_str": "00:35.980",
+      "text": "只是想要跟你在一起",
+      "translation": null
+    },
+    {
+      "time": 38.82,
+      "time_str": "00:38.820",
+      "text": "可是你为什么不同意",
+      "translation": null
+    },
+    {
+      "time": 41.74,
+      "time_str": "00:41.740",
+      "text": "给我发了无数张好人卡",
+      "translation": null
+    },
+    {
+      "time": 44.5,
+      "time_str": "00:44.500",
+      "text": "是个好人真的打扰了",
+      "translation": null
+    },
+    {
+      "time": 46.72,
+      "time_str": "00:46.720",
+      "text": "Oh宝贝别再让我难过",
+      "translation": null
+    },
+    {
+      "time": 48.56,
+      "time_str": "00:48.560",
+      "text": "你知道孤单的夜我一个人早就受够",
+      "translation": null
+    },
+    {
+      "time": 51.74,
+      "time_str": "00:51.740",
+      "text": "关系变得尴尬在跟你表白之后",
+      "translation": null
+    },
+    {
+      "time": 54.44,
+      "time_str": "00:54.440",
+      "text": "你说只把我当成好朋友而不是男朋友",
+      "translation": null
+    },
+    {
+      "time": 57.41,
+      "time_str": "00:57.410",
+      "text": "OK好吧我也不想让你难做",
+      "translation": null
+    },
+    {
+      "time": 60.11,
+      "time_str": "01:00.110",
+      "text": "一个人生活早就习惯其实过的也不错",
+      "translation": null
+    },
+    {
+      "time": 63.21,
+      "time_str": "01:03.210",
+      "text": "除了吃不到你之外",
+      "translation": null
+    },
+    {
+      "time": 64.5,
+      "time_str": "01:04.500",
+      "text": "还是能吃到大鱼大肉",
+      "translation": null
+    },
+    {
+      "time": 65.95,
+      "time_str": "01:05.950",
+      "text": "这个凌乱的房间袜子依然很臭",
+      "translation": null
+    },
+    {
+      "time": 68.89,
+      "time_str": "01:08.890",
+      "text": "可变化就在某天早上打开朋友圈",
+      "translation": null
+    },
+    {
+      "time": 71.56,
+      "time_str": "01:11.560",
+      "text": "看到你和陌生男的秀恩爱的照片",
+      "translation": null
+    },
+    {
+      "time": 74.32,
+      "time_str": "01:14.320",
+      "text": "我至少拿着手机懵逼了三分钟的时间",
+      "translation": null
+    },
+    {
+      "time": 77.43,
+      "time_str": "01:17.430",
+      "text": "感觉到被欺骗跪在地上思绪万千",
+      "translation": null
+    },
+    {
+      "time": 80.31,
+      "time_str": "01:20.310",
+      "text": "怎么办我找到你的电话打给你说干就干",
+      "translation": null
+    },
+    {
+      "time": 84.04,
+      "time_str": "01:24.040",
+      "text": "我问你为什么跟别人在一起",
+      "translation": null
+    },
+    {
+      "time": 86.1,
+      "time_str": "01:26.100",
+      "text": "你说我是个好人是我配不上你（wonderful）",
+      "translation": null
+    },
+    {
+      "time": 93.1,
+      "time_str": "01:33.100",
+      "text": "只想把你装进我行李",
+      "translation": null
+    },
+    {
+      "time": 95.93,
+      "time_str": "01:35.930",
+      "text": "打包带走住进你心底",
+      "translation": null
+    },
+    {
+      "time": 98.69,
+      "time_str": "01:38.690",
+      "text": "别再说我是个好人好吗",
+      "translation": null
+    },
+    {
+      "time": 101.69,
+      "time_str": "01:41.690",
+      "text": "不想让你被骗去坏人家",
+      "translation": null
+    },
+    {
+      "time": 104.54,
+      "time_str": "01:44.540",
+      "text": "只是想要跟你在一起",
+      "translation": null
+    },
+    {
+      "time": 107.41,
+      "time_str": "01:47.410",
+      "text": "可是你为什么不同意",
+      "translation": null
+    },
+    {
+      "time": 110.29,
+      "time_str": "01:50.290",
+      "text": "给我发了无数张好人卡",
+      "translation": null
+    },
+    {
+      "time": 113.09,
+      "time_str": "01:53.090",
+      "text": "是个好人真的打扰啦",
+      "translation": null
+    },
+    {
+      "time": 115.34,
+      "time_str": "01:55.340",
+      "text": "好像又分手了没过多久",
+      "translation": null
+    },
+    {
+      "time": 117.11,
+      "time_str": "01:57.110",
+      "text": "分手之后你第一时间又来找我喝酒",
+      "translation": null
+    },
+    {
+      "time": 120.27,
+      "time_str": "02:00.270",
+      "text": "倒了一肚子的苦水听你忏悔",
+      "translation": null
+    },
+    {
+      "time": 123.05,
+      "time_str": "02:03.050",
+      "text": "你说男人都是骗子相信他们才是见了鬼",
+      "translation": null
+    },
+    {
+      "time": 126.41,
+      "time_str": "02:06.410",
+      "text": "不是这样的别否定所有结果",
+      "translation": null
+    },
+    {
+      "time": 128.63,
+      "time_str": "02:08.630",
+      "text": "世上好男人千千万万这其中也包括我",
+      "translation": null
+    },
+    {
+      "time": 131.69,
+      "time_str": "02:11.690",
+      "text": "你说再也不相信爱情啥男人天下太平",
+      "translation": null
+    },
+    {
+      "time": 135.08,
+      "time_str": "02:15.080",
+      "text": "你一饮而尽拿的却是一个空瓶",
+      "translation": null
+    },
+    {
+      "time": 137.8,
+      "time_str": "02:17.800",
+      "text": "以后不谈恋爱了真的好累",
+      "translation": null
+    },
+    {
+      "time": 140.36,
+      "time_str": "02:20.360",
+      "text": "心里偷乐这代表着我又有机会",
+      "translation": null
+    },
+    {
+      "time": 143.14,
+      "time_str": "02:23.140",
+      "text": "然而喝的不省人事的你只有我来背",
+      "translation": null
+    },
+    {
+      "time": 146.02,
+      "time_str": "02:26.020",
+      "text": "把你安全送回家绝不乘人之危",
+      "translation": null
+    },
+    {
+      "time": 148.91,
+      "time_str": "02:28.910",
+      "text": "又是相同的场景某天的早上我打开了朋友圈",
+      "translation": null
+    },
+    {
+      "time": 151.46,
+      "time_str": "02:31.460",
+      "text": "又看到了你和那个男的在一起甜蜜的照片",
+      "translation": null
+    },
+    {
+      "time": 154.54,
+      "time_str": "02:34.540",
+      "text": "我顿时感到窒息差一点猝死在我房间",
+      "translation": null
+    },
+    {
+      "time": 157.25,
+      "time_str": "02:37.250",
+      "text": "给你一个电话你tm接都不接",
+      "translation": null
+    },
+    {
+      "time": 161.72,
+      "time_str": "02:41.720",
+      "text": "只想把你装进我行李",
+      "translation": null
+    },
+    {
+      "time": 164.6,
+      "time_str": "02:44.600",
+      "text": "打包带走住进你心底",
+      "translation": null
+    },
+    {
+      "time": 167.43,
+      "time_str": "02:47.430",
+      "text": "别再说我是个好人好吗",
+      "translation": null
+    },
+    {
+      "time": 170.24,
+      "time_str": "02:50.240",
+      "text": "不想让你被骗去坏人家",
+      "translation": null
+    },
+    {
+      "time": 173.15,
+      "time_str": "02:53.150",
+      "text": "只是想要跟你在一起",
+      "translation": null
+    },
+    {
+      "time": 176.04,
+      "time_str": "02:56.040",
+      "text": "可是你为什么不同意",
+      "translation": null
+    },
+    {
+      "time": 178.83,
+      "time_str": "02:58.830",
+      "text": "给我发了无数张好人卡",
+      "translation": null
+    },
+    {
+      "time": 181.76,
+      "time_str": "03:01.760",
+      "text": "是个好人真的打扰啦",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我是好人？ - JAEFOREAL.lrc"
+}

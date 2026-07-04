@@ -1,0 +1,328 @@
+{
+  "title": "我坐在这里",
+  "title_raw": "我坐在这里",
+  "version": null,
+  "artist": "林忆莲",
+  "group_key": "我坐在这里|林忆莲",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "Lene Marlin",
+    "arranger": "刘志远"
+  },
+  "lyrics": [
+    {
+      "time": 2.57,
+      "time_str": "00:02.570",
+      "text": "我坐在这里 看着时间溜过",
+      "translation": null
+    },
+    {
+      "time": 23.97,
+      "time_str": "00:23.970",
+      "text": "我怕我会爱上了 这个角落",
+      "translation": null
+    },
+    {
+      "time": 27.81,
+      "time_str": "00:27.810",
+      "text": "是它看着我日子 到底怎么样过",
+      "translation": null
+    },
+    {
+      "time": 31.67,
+      "time_str": "00:31.670",
+      "text": "人来人往地出没 有什么样的轮廓",
+      "translation": null
+    },
+    {
+      "time": 35.5,
+      "time_str": "00:35.500",
+      "text": "老房子若有话说 它会说什么",
+      "translation": null
+    },
+    {
+      "time": 39.44,
+      "time_str": "00:39.440",
+      "text": "有谁和谁的身影 影响我过什么",
+      "translation": null
+    },
+    {
+      "time": 43.27,
+      "time_str": "00:43.270",
+      "text": "有谁含情脉脉 让我惊心动魄",
+      "translation": null
+    },
+    {
+      "time": 47.04,
+      "time_str": "00:47.040",
+      "text": "窗口长了眼睛",
+      "translation": null
+    },
+    {
+      "time": 49.04,
+      "time_str": "00:49.040",
+      "text": "说不定拍下来 拿去广播",
+      "translation": null
+    },
+    {
+      "time": 54.82,
+      "time_str": "00:54.820",
+      "text": "我坐在这里 看着时间溜过",
+      "translation": null
+    },
+    {
+      "time": 58.98,
+      "time_str": "00:58.980",
+      "text": "我的心 会不会在这里停泊",
+      "translation": null
+    },
+    {
+      "time": 62.83,
+      "time_str": "01:02.830",
+      "text": "站在这里 会不会立地成佛",
+      "translation": null
+    },
+    {
+      "time": 66.65,
+      "time_str": "01:06.650",
+      "text": "躺在这里 会否夜长梦多",
+      "translation": null
+    },
+    {
+      "time": 70.28,
+      "time_str": "01:10.280",
+      "text": "我坐在这里 会否开花结果",
+      "translation": null
+    },
+    {
+      "time": 77.94,
+      "time_str": "01:17.940",
+      "text": "其实我讨厌 水龙头的回音",
+      "translation": null
+    },
+    {
+      "time": 81.83,
+      "time_str": "01:21.830",
+      "text": "滴滴答答地挑拨",
+      "translation": null
+    },
+    {
+      "time": 83.73,
+      "time_str": "01:23.730",
+      "text": "告诉我有多寂寞",
+      "translation": null
+    },
+    {
+      "time": 85.84,
+      "time_str": "01:25.840",
+      "text": "有谁和谁走过",
+      "translation": null
+    },
+    {
+      "time": 87.51,
+      "time_str": "01:27.510",
+      "text": "灯火一下下闪烁",
+      "translation": null
+    },
+    {
+      "time": 89.66,
+      "time_str": "01:29.660",
+      "text": "只有老房子记得 这些人的承诺",
+      "translation": null
+    },
+    {
+      "time": 93.58,
+      "time_str": "01:33.580",
+      "text": "听过谁的呼吸 像潮起潮落",
+      "translation": null
+    },
+    {
+      "time": 97.39,
+      "time_str": "01:37.390",
+      "text": "有某某的声音",
+      "translation": null
+    },
+    {
+      "time": 99.05,
+      "time_str": "01:39.050",
+      "text": "一句句地隐没",
+      "translation": null
+    },
+    {
+      "time": 101.17,
+      "time_str": "01:41.170",
+      "text": "窗帘长了耳朵",
+      "translation": null
+    },
+    {
+      "time": 103.21,
+      "time_str": "01:43.210",
+      "text": "说不定录下来 拿去广播",
+      "translation": null
+    },
+    {
+      "time": 108.76,
+      "time_str": "01:48.760",
+      "text": "我坐在这里 看着时间溜过",
+      "translation": null
+    },
+    {
+      "time": 113.13,
+      "time_str": "01:53.130",
+      "text": "我的心 会不会在这里停泊",
+      "translation": null
+    },
+    {
+      "time": 117.01,
+      "time_str": "01:57.010",
+      "text": "站在这里 会不会立地成佛",
+      "translation": null
+    },
+    {
+      "time": 120.83,
+      "time_str": "02:00.830",
+      "text": "躺在这里 会否夜长梦多",
+      "translation": null
+    },
+    {
+      "time": 124.59,
+      "time_str": "02:04.590",
+      "text": "我坐在这里 看着时间溜过",
+      "translation": null
+    },
+    {
+      "time": 128.58,
+      "time_str": "02:08.580",
+      "text": "我的心 会不会在这里停泊",
+      "translation": null
+    },
+    {
+      "time": 132.48,
+      "time_str": "02:12.480",
+      "text": "站在这里 会不会立地成佛",
+      "translation": null
+    },
+    {
+      "time": 136.4,
+      "time_str": "02:16.400",
+      "text": "躺在这里 会否夜长梦多",
+      "translation": null
+    },
+    {
+      "time": 155.7,
+      "time_str": "02:35.700",
+      "text": "在我和某某之前",
+      "translation": null
+    },
+    {
+      "time": 157.53,
+      "time_str": "02:37.530",
+      "text": "这里是谁的窝",
+      "translation": null
+    },
+    {
+      "time": 159.37,
+      "time_str": "02:39.370",
+      "text": "有谁比谁快活",
+      "translation": null
+    },
+    {
+      "time": 161.01,
+      "time_str": "02:41.010",
+      "text": "谁为谁而难过",
+      "translation": null
+    },
+    {
+      "time": 163.03,
+      "time_str": "02:43.030",
+      "text": "留下多少指纹",
+      "translation": null
+    },
+    {
+      "time": 165.13,
+      "time_str": "02:45.130",
+      "text": "说不定做过一样的动作",
+      "translation": null
+    },
+    {
+      "time": 170.93,
+      "time_str": "02:50.930",
+      "text": "我坐在这里 看着时间溜过",
+      "translation": null
+    },
+    {
+      "time": 175.04,
+      "time_str": "02:55.040",
+      "text": "我的心 会不会在这里停泊",
+      "translation": null
+    },
+    {
+      "time": 178.79,
+      "time_str": "02:58.790",
+      "text": "站在这里 会不会立地成佛",
+      "translation": null
+    },
+    {
+      "time": 182.8,
+      "time_str": "03:02.800",
+      "text": "躺在这里 会否夜长梦多",
+      "translation": null
+    },
+    {
+      "time": 186.4,
+      "time_str": "03:06.400",
+      "text": "我坐在这里 看着时间溜过",
+      "translation": null
+    },
+    {
+      "time": 190.6,
+      "time_str": "03:10.600",
+      "text": "我的心 会不会在这里停泊",
+      "translation": null
+    },
+    {
+      "time": 194.4,
+      "time_str": "03:14.400",
+      "text": "站在这里 会不会立地成佛",
+      "translation": null
+    },
+    {
+      "time": 198.28,
+      "time_str": "03:18.280",
+      "text": "躺在这里 会否夜长梦多",
+      "translation": null
+    },
+    {
+      "time": 201.99,
+      "time_str": "03:21.990",
+      "text": "我坐在这里 看着时间溜过",
+      "translation": null
+    },
+    {
+      "time": 205.99,
+      "time_str": "03:25.990",
+      "text": "我的心 会不会在这里停泊",
+      "translation": null
+    },
+    {
+      "time": 209.83,
+      "time_str": "03:29.830",
+      "text": "站在这里 会不会立地成佛",
+      "translation": null
+    },
+    {
+      "time": 213.68,
+      "time_str": "03:33.680",
+      "text": "躺在这里 会否夜长梦多",
+      "translation": null
+    },
+    {
+      "time": 217.46,
+      "time_str": "03:37.460",
+      "text": "我坐在这里 会否开花结果",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我坐在这里 - 林忆莲.lrc"
+}

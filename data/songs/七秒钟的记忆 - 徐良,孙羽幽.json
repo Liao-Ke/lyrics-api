@@ -1,0 +1,310 @@
+{
+  "title": "七秒钟的记忆",
+  "title_raw": "七秒钟的记忆",
+  "version": null,
+  "artist": "徐良,孙羽幽",
+  "group_key": "七秒钟的记忆|徐良,孙羽幽",
+  "writers": {
+    "lyricist": "徐良",
+    "composer": "徐良",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.63,
+      "time_str": "00:25.630",
+      "text": "Hello没关系",
+      "translation": null
+    },
+    {
+      "time": 27.8,
+      "time_str": "00:27.800",
+      "text": "只是会掉眼泪而已",
+      "translation": null
+    },
+    {
+      "time": 31.56,
+      "time_str": "00:31.560",
+      "text": "思念在躲避",
+      "translation": null
+    },
+    {
+      "time": 33.88,
+      "time_str": "00:33.880",
+      "text": "却依然逃不过回忆",
+      "translation": null
+    },
+    {
+      "time": 37.71,
+      "time_str": "00:37.710",
+      "text": "晚风的声音",
+      "translation": null
+    },
+    {
+      "time": 40.5,
+      "time_str": "00:40.500",
+      "text": "带走你曾经的曾经",
+      "translation": null
+    },
+    {
+      "time": 43.88,
+      "time_str": "00:43.880",
+      "text": "我化作人鱼",
+      "translation": null
+    },
+    {
+      "time": 46.3,
+      "time_str": "00:46.300",
+      "text": "只有七秒钟的记忆",
+      "translation": null
+    },
+    {
+      "time": 48.71,
+      "time_str": "00:48.710",
+      "text": "不经意的思念是那么痛",
+      "translation": null
+    },
+    {
+      "time": 52.29,
+      "time_str": "00:52.290",
+      "text": "痛到回忆根本不敢触碰",
+      "translation": null
+    },
+    {
+      "time": 55.21,
+      "time_str": "00:55.210",
+      "text": "岁月带不走痛 是习惯了痛",
+      "translation": null
+    },
+    {
+      "time": 58.58,
+      "time_str": "00:58.580",
+      "text": "你有恃无恐",
+      "translation": null
+    },
+    {
+      "time": 60.96,
+      "time_str": "01:00.960",
+      "text": "时光不停地在转动",
+      "translation": null
+    },
+    {
+      "time": 64.15,
+      "time_str": "01:04.150",
+      "text": "现在你是谁的英雄",
+      "translation": null
+    },
+    {
+      "time": 67.24,
+      "time_str": "01:07.240",
+      "text": "回到你和我的时空",
+      "translation": null
+    },
+    {
+      "time": 70.289,
+      "time_str": "01:10.289",
+      "text": "抱紧了我让我心痛",
+      "translation": null
+    },
+    {
+      "time": 73.46,
+      "time_str": "01:13.460",
+      "text": "眼泪划过我的面容",
+      "translation": null
+    },
+    {
+      "time": 76.43,
+      "time_str": "01:16.430",
+      "text": "闭上眼睛会是好梦",
+      "translation": null
+    },
+    {
+      "time": 79.37,
+      "time_str": "01:19.370",
+      "text": "无论你是谁的天空",
+      "translation": null
+    },
+    {
+      "time": 82.48,
+      "time_str": "01:22.480",
+      "text": "今夜你是我的英雄",
+      "translation": null
+    },
+    {
+      "time": 104.63,
+      "time_str": "01:44.630",
+      "text": "Hello没关系",
+      "translation": null
+    },
+    {
+      "time": 106.75,
+      "time_str": "01:46.750",
+      "text": "只是会掉眼泪而已",
+      "translation": null
+    },
+    {
+      "time": 110.55,
+      "time_str": "01:50.550",
+      "text": "思念在躲避",
+      "translation": null
+    },
+    {
+      "time": 112.86,
+      "time_str": "01:52.860",
+      "text": "却依然逃不过回忆",
+      "translation": null
+    },
+    {
+      "time": 116.8,
+      "time_str": "01:56.800",
+      "text": "晚风的声音",
+      "translation": null
+    },
+    {
+      "time": 118.9,
+      "time_str": "01:58.900",
+      "text": "带走你曾经的曾经",
+      "translation": null
+    },
+    {
+      "time": 122.83,
+      "time_str": "02:02.830",
+      "text": "我化作人鱼",
+      "translation": null
+    },
+    {
+      "time": 124.97,
+      "time_str": "02:04.970",
+      "text": "只有七秒钟的记忆",
+      "translation": null
+    },
+    {
+      "time": 127.72,
+      "time_str": "02:07.720",
+      "text": "不经意的思念是那么痛",
+      "translation": null
+    },
+    {
+      "time": 131.23,
+      "time_str": "02:11.230",
+      "text": "痛到回忆根本不敢触碰",
+      "translation": null
+    },
+    {
+      "time": 134.26,
+      "time_str": "02:14.260",
+      "text": "岁月带不走痛 是习惯了痛",
+      "translation": null
+    },
+    {
+      "time": 137.54,
+      "time_str": "02:17.540",
+      "text": "你有恃无恐",
+      "translation": null
+    },
+    {
+      "time": 140.6,
+      "time_str": "02:20.600",
+      "text": "时光不停的在转动",
+      "translation": null
+    },
+    {
+      "time": 143.11,
+      "time_str": "02:23.110",
+      "text": "现在你是谁的英雄",
+      "translation": null
+    },
+    {
+      "time": 146.22,
+      "time_str": "02:26.220",
+      "text": "回到你和我的时空",
+      "translation": null
+    },
+    {
+      "time": 149.21,
+      "time_str": "02:29.210",
+      "text": "抱紧了我让我心痛",
+      "translation": null
+    },
+    {
+      "time": 152.329,
+      "time_str": "02:32.329",
+      "text": "眼泪划过我的面容",
+      "translation": null
+    },
+    {
+      "time": 155.41,
+      "time_str": "02:35.410",
+      "text": "闭上眼睛会是好梦",
+      "translation": null
+    },
+    {
+      "time": 158.35,
+      "time_str": "02:38.350",
+      "text": "无论你是谁的天空",
+      "translation": null
+    },
+    {
+      "time": 161.41,
+      "time_str": "02:41.410",
+      "text": "今夜你是我的英雄",
+      "translation": null
+    },
+    {
+      "time": 164.29,
+      "time_str": "02:44.290",
+      "text": "时光不停的在转动",
+      "translation": null
+    },
+    {
+      "time": 167.42,
+      "time_str": "02:47.420",
+      "text": "现在你是谁的英雄",
+      "translation": null
+    },
+    {
+      "time": 170.48,
+      "time_str": "02:50.480",
+      "text": "回到你和我的时空",
+      "translation": null
+    },
+    {
+      "time": 173.49,
+      "time_str": "02:53.490",
+      "text": "抱紧了我让我心痛",
+      "translation": null
+    },
+    {
+      "time": 176.61,
+      "time_str": "02:56.610",
+      "text": "眼泪划过我的面容",
+      "translation": null
+    },
+    {
+      "time": 179.73,
+      "time_str": "02:59.730",
+      "text": "闭上眼睛会是好梦",
+      "translation": null
+    },
+    {
+      "time": 182.65,
+      "time_str": "03:02.650",
+      "text": "无论你是谁的天空",
+      "translation": null
+    },
+    {
+      "time": 185.75,
+      "time_str": "03:05.750",
+      "text": "今夜你是我的英雄",
+      "translation": null
+    },
+    {
+      "time": 197.23,
+      "time_str": "03:17.230",
+      "text": "The end~",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "七秒钟的记忆 - 徐良,孙羽幽.lrc"
+}

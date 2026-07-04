@@ -1,0 +1,364 @@
+{
+  "title": "The Day You Went Away",
+  "title_raw": "The Day You Went Away",
+  "version": null,
+  "artist": "M2M",
+  "group_key": "the day you went away|m2m",
+  "writers": {
+    "lyricist": "M2M",
+    "composer": "M2M",
+    "arranger": "M2M"
+  },
+  "lyrics": [
+    {
+      "time": 19.71,
+      "time_str": "00:19.710",
+      "text": "Well I wonder could it be",
+      "translation": "我想知道,这是否可能？"
+    },
+    {
+      "time": 24.48,
+      "time_str": "00:24.480",
+      "text": "When I was dreaming about you baby",
+      "translation": "当我梦到你的时候"
+    },
+    {
+      "time": 27.56,
+      "time_str": "00:27.560",
+      "text": "You were dreaming of me",
+      "translation": "你的梦中是否也有我"
+    },
+    {
+      "time": 29.71,
+      "time_str": "00:29.710",
+      "text": "Call me crazy",
+      "translation": "有人说我疯狂"
+    },
+    {
+      "time": 32.49,
+      "time_str": "00:32.490",
+      "text": "Call me blind",
+      "translation": "让我盲目"
+    },
+    {
+      "time": 34.919,
+      "time_str": "00:34.919",
+      "text": "To still be suffering is stupid after",
+      "translation": "已过去那么长时间"
+    },
+    {
+      "time": 38.449,
+      "time_str": "00:38.449",
+      "text": "all of this time",
+      "translation": "仍然在为此伤痛真是太傻了"
+    },
+    {
+      "time": 39.739,
+      "time_str": "00:39.739",
+      "text": "Did I lose my love to someone better",
+      "translation": "我把我的爱输给了更好的人吗？"
+    },
+    {
+      "time": 43.659,
+      "time_str": "00:43.659",
+      "text": "And does she love you like I do",
+      "translation": "她会像我那样爱你吗 ？"
+    },
+    {
+      "time": 46.69,
+      "time_str": "00:46.690",
+      "text": "I do, you know I really really do",
+      "translation": "是的,你知道我真的真的很爱你"
+    },
+    {
+      "time": 52.29,
+      "time_str": "00:52.290",
+      "text": "Well hey",
+      "translation": "嗨"
+    },
+    {
+      "time": 52.589,
+      "time_str": "00:52.589",
+      "text": "So much I need to say",
+      "translation": "我需要说的有太多太多"
+    },
+    {
+      "time": 54.669,
+      "time_str": "00:54.669",
+      "text": "Been lonely since the day",
+      "translation": "从那一天起我是多么的孤独"
+    },
+    {
+      "time": 56.939,
+      "time_str": "00:56.939",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 60.89,
+      "time_str": "01:00.890",
+      "text": "So sad but true",
+      "translation": "我是真的很难过"
+    },
+    {
+      "time": 62.599,
+      "time_str": "01:02.599",
+      "text": "For me there's only you",
+      "translation": "你是我的唯一"
+    },
+    {
+      "time": 64.639,
+      "time_str": "01:04.639",
+      "text": "Been crying since the day",
+      "translation": "从那一天起我就一直在哭泣"
+    },
+    {
+      "time": 68.109,
+      "time_str": "01:08.109",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 82.689,
+      "time_str": "01:22.689",
+      "text": "I remember date and time",
+      "translation": "我记得那一天那一刻"
+    },
+    {
+      "time": 87.659,
+      "time_str": "01:27.659",
+      "text": "September twenty second",
+      "translation": "九月22日"
+    },
+    {
+      "time": 89.799,
+      "time_str": "01:29.799",
+      "text": "Sunday twenty five after nine",
+      "translation": "星期天的九点二十五分"
+    },
+    {
+      "time": 92.589,
+      "time_str": "01:32.589",
+      "text": "In the doorway with your case",
+      "translation": "在门口拿着你的行李"
+    },
+    {
+      "time": 97.759,
+      "time_str": "01:37.759",
+      "text": "No longer shouting at each other",
+      "translation": "我们不再争吵"
+    },
+    {
+      "time": 100.879,
+      "time_str": "01:40.879",
+      "text": "There were tears on our faces",
+      "translation": "泪水挂在我们的脸上"
+    },
+    {
+      "time": 103.89,
+      "time_str": "01:43.890",
+      "text": "And we were letting go of something special",
+      "translation": "我们让某些特别的东西溜走"
+    },
+    {
+      "time": 106.789,
+      "time_str": "01:46.789",
+      "text": "Something we'll never have again",
+      "translation": "这些东西我们再也不会得到"
+    },
+    {
+      "time": 109.399,
+      "time_str": "01:49.399",
+      "text": "I know, I guess I really really know",
+      "translation": "我明白,我想我真的真的明白了"
+    },
+    {
+      "time": 114.99,
+      "time_str": "01:54.990",
+      "text": "Well hey",
+      "translation": "是的"
+    },
+    {
+      "time": 115.569,
+      "time_str": "01:55.569",
+      "text": "So much I need to say",
+      "translation": "我多么想告诉你"
+    },
+    {
+      "time": 118.799,
+      "time_str": "01:58.799",
+      "text": "Been lonely since the day",
+      "translation": "从那一天起我是多么的孤独"
+    },
+    {
+      "time": 120.849,
+      "time_str": "02:00.849",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 123.889,
+      "time_str": "02:03.889",
+      "text": "So sad but true",
+      "translation": "我是真的很难过"
+    },
+    {
+      "time": 125.929,
+      "time_str": "02:05.929",
+      "text": "For me there's only you",
+      "translation": "你是我的唯一"
+    },
+    {
+      "time": 128.63,
+      "time_str": "02:08.630",
+      "text": "Been crying since the day",
+      "translation": "从那一天起我就一直在哭泣"
+    },
+    {
+      "time": 131.97,
+      "time_str": "02:11.970",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 134.51,
+      "time_str": "02:14.510",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 136.03,
+      "time_str": "02:16.030",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 149.6,
+      "time_str": "02:29.600",
+      "text": "Did I lose my love to someone better",
+      "translation": "我把我的爱输给某个更好的人了吗？"
+    },
+    {
+      "time": 153.14,
+      "time_str": "02:33.140",
+      "text": "And does she love you like I do",
+      "translation": "她会像我那样爱你吗"
+    },
+    {
+      "time": 156.02,
+      "time_str": "02:36.020",
+      "text": "I do, you know I really really do",
+      "translation": "是的,你知道我真的真的很爱你"
+    },
+    {
+      "time": 161.0,
+      "time_str": "02:41.000",
+      "text": "Well hey",
+      "translation": "是的"
+    },
+    {
+      "time": 161.52,
+      "time_str": "02:41.520",
+      "text": "So much I need to say",
+      "translation": "我多么想告诉你"
+    },
+    {
+      "time": 163.86,
+      "time_str": "02:43.860",
+      "text": "Been lonely since the day",
+      "translation": "从那一天起我是多么的孤独"
+    },
+    {
+      "time": 166.57,
+      "time_str": "02:46.570",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 170.03,
+      "time_str": "02:50.030",
+      "text": "So sad but true",
+      "translation": "我是真的很难过"
+    },
+    {
+      "time": 172.8,
+      "time_str": "02:52.800",
+      "text": "For me there's only you",
+      "translation": "你是我的唯一"
+    },
+    {
+      "time": 174.31,
+      "time_str": "02:54.310",
+      "text": "Been crying since the day",
+      "translation": "从那一天起我就一直在哭泣"
+    },
+    {
+      "time": 176.83,
+      "time_str": "02:56.830",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 179.98,
+      "time_str": "02:59.980",
+      "text": "Why do we never know",
+      "translation": "为什么直到失去了"
+    },
+    {
+      "time": 181.76,
+      "time_str": "03:01.760",
+      "text": "what we've got till it's gone",
+      "translation": "我们才明白自己曾经得到过什么？"
+    },
+    {
+      "time": 185.0,
+      "time_str": "03:05.000",
+      "text": "How could I carry on",
+      "translation": "我该怎样继续生活？"
+    },
+    {
+      "time": 187.6,
+      "time_str": "03:07.600",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 190.7,
+      "time_str": "03:10.700",
+      "text": "Cause I've been missing you so much",
+      "translation": "我是多么地想念你。"
+    },
+    {
+      "time": 192.85,
+      "time_str": "03:12.850",
+      "text": "I have to say",
+      "translation": "我不得不说"
+    },
+    {
+      "time": 194.9,
+      "time_str": "03:14.900",
+      "text": "Been crying since the day",
+      "translation": "从那一天起我就一直在哭泣"
+    },
+    {
+      "time": 197.33,
+      "time_str": "03:17.330",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 199.69,
+      "time_str": "03:19.690",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    },
+    {
+      "time": 202.38,
+      "time_str": "03:22.380",
+      "text": "The day you went away",
+      "translation": "你离去的那一天"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "The Day You Went Away - M2M.lrc"
+}

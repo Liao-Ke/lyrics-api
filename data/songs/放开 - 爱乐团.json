@@ -1,0 +1,208 @@
+{
+  "title": "放开",
+  "title_raw": "放开",
+  "version": null,
+  "artist": "爱乐团",
+  "group_key": "放开|爱乐团",
+  "writers": {
+    "lyricist": "文龙/郑珂歆",
+    "composer": "王超",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.84,
+      "time_str": "00:29.840",
+      "text": "春去秋来花谢花开",
+      "translation": null
+    },
+    {
+      "time": 36.96,
+      "time_str": "00:36.960",
+      "text": "记忆深埋那片心海",
+      "translation": null
+    },
+    {
+      "time": 44.02,
+      "time_str": "00:44.020",
+      "text": "所谓纠缠只是伤害",
+      "translation": null
+    },
+    {
+      "time": 49.82,
+      "time_str": "00:49.820",
+      "text": "没有人去灌溉一切成黑白",
+      "translation": null
+    },
+    {
+      "time": 56.52,
+      "time_str": "00:56.520",
+      "text": "只是我还放不开",
+      "translation": null
+    },
+    {
+      "time": 60.06,
+      "time_str": "01:00.060",
+      "text": "对你太依赖",
+      "translation": null
+    },
+    {
+      "time": 63.59,
+      "time_str": "01:03.590",
+      "text": "只是我还不能够释怀",
+      "translation": null
+    },
+    {
+      "time": 70.75,
+      "time_str": "01:10.750",
+      "text": "只是我还放不开",
+      "translation": null
+    },
+    {
+      "time": 75.48,
+      "time_str": "01:15.480",
+      "text": "内心的阴霾",
+      "translation": null
+    },
+    {
+      "time": 79.02,
+      "time_str": "01:19.020",
+      "text": "忘了曾经你把我出卖",
+      "translation": null
+    },
+    {
+      "time": 87.94,
+      "time_str": "01:27.940",
+      "text": "一路走来几许尘埃",
+      "translation": null
+    },
+    {
+      "time": 95.0,
+      "time_str": "01:35.000",
+      "text": "爱是谁来还谁的债",
+      "translation": null
+    },
+    {
+      "time": 102.11,
+      "time_str": "01:42.110",
+      "text": "决定醒来躲开伤害",
+      "translation": null
+    },
+    {
+      "time": 107.91,
+      "time_str": "01:47.910",
+      "text": "而命运的安排已无法更改",
+      "translation": null
+    },
+    {
+      "time": 114.57,
+      "time_str": "01:54.570",
+      "text": "只是我还放不开",
+      "translation": null
+    },
+    {
+      "time": 118.2,
+      "time_str": "01:58.200",
+      "text": "给我个痛快",
+      "translation": null
+    },
+    {
+      "time": 121.68,
+      "time_str": "02:01.680",
+      "text": "只怪我已不能够表白",
+      "translation": null
+    },
+    {
+      "time": 128.85,
+      "time_str": "02:08.850",
+      "text": "只是我还放不开",
+      "translation": null
+    },
+    {
+      "time": 132.43,
+      "time_str": "02:12.430",
+      "text": "对你的期待",
+      "translation": null
+    },
+    {
+      "time": 135.91,
+      "time_str": "02:15.910",
+      "text": "无法忽视真爱的存在",
+      "translation": null
+    },
+    {
+      "time": 171.61,
+      "time_str": "02:51.610",
+      "text": "只是我还放不开",
+      "translation": null
+    },
+    {
+      "time": 175.03,
+      "time_str": "02:55.030",
+      "text": "对你太依赖",
+      "translation": null
+    },
+    {
+      "time": 178.66,
+      "time_str": "02:58.660",
+      "text": "只是我还不能够释怀",
+      "translation": null
+    },
+    {
+      "time": 186.33,
+      "time_str": "03:06.330",
+      "text": "只是我还放不开",
+      "translation": null
+    },
+    {
+      "time": 189.86,
+      "time_str": "03:09.860",
+      "text": "内心的阴霾",
+      "translation": null
+    },
+    {
+      "time": 194.34,
+      "time_str": "03:14.340",
+      "text": "忘了你早已把我出卖",
+      "translation": null
+    },
+    {
+      "time": 201.4,
+      "time_str": "03:21.400",
+      "text": "只是我还放不开",
+      "translation": null
+    },
+    {
+      "time": 204.98,
+      "time_str": "03:24.980",
+      "text": "给我个痛快",
+      "translation": null
+    },
+    {
+      "time": 208.56,
+      "time_str": "03:28.560",
+      "text": "因为我已不能够表白",
+      "translation": null
+    },
+    {
+      "time": 215.62,
+      "time_str": "03:35.620",
+      "text": "只是我还放不开",
+      "translation": null
+    },
+    {
+      "time": 219.11,
+      "time_str": "03:39.110",
+      "text": "对你的期待",
+      "translation": null
+    },
+    {
+      "time": 222.78,
+      "time_str": "03:42.780",
+      "text": "无法忽视真爱的存在",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "放开 - 爱乐团.lrc"
+}

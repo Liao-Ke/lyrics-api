@@ -1,0 +1,346 @@
+{
+  "title": "春天里",
+  "title_raw": "春天里",
+  "version": null,
+  "artist": "旭日阳刚",
+  "group_key": "春天里|旭日阳刚",
+  "writers": {
+    "lyricist": "汪峰",
+    "composer": "汪峰",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.51,
+      "time_str": "00:00.510",
+      "text": "还记得许多年前的春天",
+      "translation": null
+    },
+    {
+      "time": 4.51,
+      "time_str": "00:04.510",
+      "text": "那时的我还没剪去长发",
+      "translation": null
+    },
+    {
+      "time": 8.39,
+      "time_str": "00:08.390",
+      "text": "没有信用卡没有她",
+      "translation": null
+    },
+    {
+      "time": 12.34,
+      "time_str": "00:12.340",
+      "text": "没有24小时热水的家",
+      "translation": null
+    },
+    {
+      "time": 16.58,
+      "time_str": "00:16.580",
+      "text": "可当初的我是那么快乐",
+      "translation": null
+    },
+    {
+      "time": 20.21,
+      "time_str": "00:20.210",
+      "text": "虽然只有一把破木吉他",
+      "translation": null
+    },
+    {
+      "time": 24.31,
+      "time_str": "00:24.310",
+      "text": "在街上 在桥下 在田野中",
+      "translation": null
+    },
+    {
+      "time": 28.1,
+      "time_str": "00:28.100",
+      "text": "唱着那无人问津的歌谣",
+      "translation": null
+    },
+    {
+      "time": 32.18,
+      "time_str": "00:32.180",
+      "text": "如果有一天",
+      "translation": null
+    },
+    {
+      "time": 36.09,
+      "time_str": "00:36.090",
+      "text": "我老无所依",
+      "translation": null
+    },
+    {
+      "time": 40.05,
+      "time_str": "00:40.050",
+      "text": "请把我留在",
+      "translation": null
+    },
+    {
+      "time": 44.05,
+      "time_str": "00:44.050",
+      "text": "在那时光里",
+      "translation": null
+    },
+    {
+      "time": 48.16,
+      "time_str": "00:48.160",
+      "text": "如果有一天",
+      "translation": null
+    },
+    {
+      "time": 52.17,
+      "time_str": "00:52.170",
+      "text": "我悄然离去",
+      "translation": null
+    },
+    {
+      "time": 56.14,
+      "time_str": "00:56.140",
+      "text": "请把我埋在",
+      "translation": null
+    },
+    {
+      "time": 60.09,
+      "time_str": "01:00.090",
+      "text": "这春天里",
+      "translation": null
+    },
+    {
+      "time": 65.57,
+      "time_str": "01:05.570",
+      "text": "还记得那些寂寞的春天",
+      "translation": null
+    },
+    {
+      "time": 69.28,
+      "time_str": "01:09.280",
+      "text": "那时的我还没冒起胡须",
+      "translation": null
+    },
+    {
+      "time": 73.02,
+      "time_str": "01:13.020",
+      "text": "没有情人节",
+      "translation": null
+    },
+    {
+      "time": 74.77,
+      "time_str": "01:14.770",
+      "text": "没有礼物",
+      "translation": null
+    },
+    {
+      "time": 77.17,
+      "time_str": "01:17.170",
+      "text": "没有我那可爱的小公主",
+      "translation": null
+    },
+    {
+      "time": 81.08,
+      "time_str": "01:21.080",
+      "text": "可我觉得一切没那么糟",
+      "translation": null
+    },
+    {
+      "time": 85.04,
+      "time_str": "01:25.040",
+      "text": "虽然我只有对爱的幻想",
+      "translation": null
+    },
+    {
+      "time": 89.07,
+      "time_str": "01:29.070",
+      "text": "在清晨 在夜晚在风中",
+      "translation": null
+    },
+    {
+      "time": 93.13,
+      "time_str": "01:33.130",
+      "text": "唱着那无人问津的歌谣",
+      "translation": null
+    },
+    {
+      "time": 97.11,
+      "time_str": "01:37.110",
+      "text": "也许有一天",
+      "translation": null
+    },
+    {
+      "time": 101.07,
+      "time_str": "01:41.070",
+      "text": "我老无所依",
+      "translation": null
+    },
+    {
+      "time": 105.06,
+      "time_str": "01:45.060",
+      "text": "请把我留在",
+      "translation": null
+    },
+    {
+      "time": 109.12,
+      "time_str": "01:49.120",
+      "text": "在那时光里",
+      "translation": null
+    },
+    {
+      "time": 113.18,
+      "time_str": "01:53.180",
+      "text": "如果有一天",
+      "translation": null
+    },
+    {
+      "time": 117.13,
+      "time_str": "01:57.130",
+      "text": "我悄然离去",
+      "translation": null
+    },
+    {
+      "time": 121.14,
+      "time_str": "02:01.140",
+      "text": "请把我埋在",
+      "translation": null
+    },
+    {
+      "time": 125.12,
+      "time_str": "02:05.120",
+      "text": "在这春天里",
+      "translation": null
+    },
+    {
+      "time": 129.25,
+      "time_str": "02:09.250",
+      "text": "春天里",
+      "translation": null
+    },
+    {
+      "time": 161.69,
+      "time_str": "02:41.690",
+      "text": "凝视着此刻烂漫的春天",
+      "translation": null
+    },
+    {
+      "time": 165.1,
+      "time_str": "02:45.100",
+      "text": "依然像那时温暖的模样",
+      "translation": null
+    },
+    {
+      "time": 169.09,
+      "time_str": "02:49.090",
+      "text": "我剪去长发留起了胡须",
+      "translation": null
+    },
+    {
+      "time": 172.89,
+      "time_str": "02:52.890",
+      "text": "曾经的苦痛都随风而去",
+      "translation": null
+    },
+    {
+      "time": 176.91,
+      "time_str": "02:56.910",
+      "text": "可我感觉却是那么悲伤",
+      "translation": null
+    },
+    {
+      "time": 181.01,
+      "time_str": "03:01.010",
+      "text": "岁月留给我更深的迷惘",
+      "translation": null
+    },
+    {
+      "time": 184.9,
+      "time_str": "03:04.900",
+      "text": "在这阳光明媚的春天里",
+      "translation": null
+    },
+    {
+      "time": 189.12,
+      "time_str": "03:09.120",
+      "text": "我的眼泪忍不住的流淌",
+      "translation": null
+    },
+    {
+      "time": 193.1,
+      "time_str": "03:13.100",
+      "text": "也许有一天我老无所依",
+      "translation": null
+    },
+    {
+      "time": 201.05,
+      "time_str": "03:21.050",
+      "text": "请把我留在在那时光里",
+      "translation": null
+    },
+    {
+      "time": 209.04,
+      "time_str": "03:29.040",
+      "text": "如果有一天我悄然离去",
+      "translation": null
+    },
+    {
+      "time": 217.14,
+      "time_str": "03:37.140",
+      "text": "请把我埋在在这春天里",
+      "translation": null
+    },
+    {
+      "time": 225.19,
+      "time_str": "03:45.190",
+      "text": "如果有一天",
+      "translation": null
+    },
+    {
+      "time": 229.04,
+      "time_str": "03:49.040",
+      "text": "我老无所依",
+      "translation": null
+    },
+    {
+      "time": 233.05,
+      "time_str": "03:53.050",
+      "text": "请把我留在",
+      "translation": null
+    },
+    {
+      "time": 236.99,
+      "time_str": "03:56.990",
+      "text": "在这春天里",
+      "translation": null
+    },
+    {
+      "time": 241.06,
+      "time_str": "04:01.060",
+      "text": "如果有一天",
+      "translation": null
+    },
+    {
+      "time": 244.92,
+      "time_str": "04:04.920",
+      "text": "我悄然离去",
+      "translation": null
+    },
+    {
+      "time": 248.83,
+      "time_str": "04:08.830",
+      "text": "请把我埋在",
+      "translation": null
+    },
+    {
+      "time": 253.12,
+      "time_str": "04:13.120",
+      "text": "在这春天里 春天里",
+      "translation": null
+    },
+    {
+      "time": 260.84,
+      "time_str": "04:20.840",
+      "text": "歌词贡献者：未来皇",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "春天里 - 旭日阳刚.lrc"
+}

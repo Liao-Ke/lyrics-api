@@ -1,0 +1,280 @@
+{
+  "title": "明天你是否依然爱我",
+  "title_raw": "明天你是否依然爱我",
+  "version": null,
+  "artist": "童安格",
+  "group_key": "明天你是否依然爱我|童安格",
+  "writers": {
+    "lyricist": "杨立德",
+    "composer": "童安格",
+    "arranger": "陈玉立"
+  },
+  "lyrics": [
+    {
+      "time": 3.0,
+      "time_str": "00:03.000",
+      "text": "Publisher : UFO Group (Warner)",
+      "translation": null
+    },
+    {
+      "time": 28.727,
+      "time_str": "00:28.727",
+      "text": "午夜的收音机",
+      "translation": null
+    },
+    {
+      "time": 31.808,
+      "time_str": "00:31.808",
+      "text": "轻轻传来一首歌",
+      "translation": null
+    },
+    {
+      "time": 35.74,
+      "time_str": "00:35.740",
+      "text": "那是你我都已熟悉的旋律",
+      "translation": null
+    },
+    {
+      "time": 42.746,
+      "time_str": "00:42.746",
+      "text": "在你遗忘的时候",
+      "translation": null
+    },
+    {
+      "time": 45.833,
+      "time_str": "00:45.833",
+      "text": "我依然还记得",
+      "translation": null
+    },
+    {
+      "time": 49.49,
+      "time_str": "00:49.490",
+      "text": "明天你是否依然爱我",
+      "translation": null
+    },
+    {
+      "time": 56.711,
+      "time_str": "00:56.711",
+      "text": "我早已经了解",
+      "translation": null
+    },
+    {
+      "time": 59.813,
+      "time_str": "00:59.813",
+      "text": "追逐爱情的规则",
+      "translation": null
+    },
+    {
+      "time": 63.794,
+      "time_str": "01:03.794",
+      "text": "虽然不能爱你",
+      "translation": null
+    },
+    {
+      "time": 66.837,
+      "time_str": "01:06.837",
+      "text": "却又不知该如何",
+      "translation": null
+    },
+    {
+      "time": 70.805,
+      "time_str": "01:10.805",
+      "text": "相信总会有一天",
+      "translation": null
+    },
+    {
+      "time": 73.85,
+      "time_str": "01:13.850",
+      "text": "你一定会离去",
+      "translation": null
+    },
+    {
+      "time": 77.556,
+      "time_str": "01:17.556",
+      "text": "但明天你是否依然爱我",
+      "translation": null
+    },
+    {
+      "time": 85.198,
+      "time_str": "01:25.198",
+      "text": "所有的故事",
+      "translation": null
+    },
+    {
+      "time": 87.804,
+      "time_str": "01:27.804",
+      "text": "只能有一首主题歌",
+      "translation": null
+    },
+    {
+      "time": 92.184,
+      "time_str": "01:32.184",
+      "text": "我知道你最后的选择",
+      "translation": null
+    },
+    {
+      "time": 99.17,
+      "time_str": "01:39.170",
+      "text": "所有的爱情",
+      "translation": null
+    },
+    {
+      "time": 101.831,
+      "time_str": "01:41.831",
+      "text": "只能有一个结果",
+      "translation": null
+    },
+    {
+      "time": 106.411,
+      "time_str": "01:46.411",
+      "text": "我深深知道那绝对不是我",
+      "translation": null
+    },
+    {
+      "time": 114.54,
+      "time_str": "01:54.540",
+      "text": "既然曾经爱过",
+      "translation": null
+    },
+    {
+      "time": 117.388,
+      "time_str": "01:57.388",
+      "text": "又何必真正拥有你",
+      "translation": null
+    },
+    {
+      "time": 121.592,
+      "time_str": "02:01.592",
+      "text": "即使离别",
+      "translation": null
+    },
+    {
+      "time": 124.413,
+      "time_str": "02:04.413",
+      "text": "也不会有太多难过",
+      "translation": null
+    },
+    {
+      "time": 128.591,
+      "time_str": "02:08.591",
+      "text": "午夜里的旋律",
+      "translation": null
+    },
+    {
+      "time": 131.599,
+      "time_str": "02:11.599",
+      "text": "一直重复着那首歌",
+      "translation": null
+    },
+    {
+      "time": 135.955,
+      "time_str": "02:15.955",
+      "text": "Will you still love me tomorrow",
+      "translation": null
+    },
+    {
+      "time": 171.008,
+      "time_str": "02:51.008",
+      "text": "所有的故事",
+      "translation": null
+    },
+    {
+      "time": 173.603,
+      "time_str": "02:53.603",
+      "text": "只能有一首主题歌",
+      "translation": null
+    },
+    {
+      "time": 177.966,
+      "time_str": "02:57.966",
+      "text": "我知道你最后的选择",
+      "translation": null
+    },
+    {
+      "time": 184.982,
+      "time_str": "03:04.982",
+      "text": "所有的爱情",
+      "translation": null
+    },
+    {
+      "time": 187.671,
+      "time_str": "03:07.671",
+      "text": "只能有一个结果",
+      "translation": null
+    },
+    {
+      "time": 192.272,
+      "time_str": "03:12.272",
+      "text": "我深深知道那绝对不是我",
+      "translation": null
+    },
+    {
+      "time": 200.354,
+      "time_str": "03:20.354",
+      "text": "既然曾经爱过",
+      "translation": null
+    },
+    {
+      "time": 203.188,
+      "time_str": "03:23.188",
+      "text": "又何必真正拥有你",
+      "translation": null
+    },
+    {
+      "time": 207.422,
+      "time_str": "03:27.422",
+      "text": "即使离别",
+      "translation": null
+    },
+    {
+      "time": 210.235,
+      "time_str": "03:30.235",
+      "text": "也不会有太多难过",
+      "translation": null
+    },
+    {
+      "time": 214.419,
+      "time_str": "03:34.419",
+      "text": "午夜里的旋律",
+      "translation": null
+    },
+    {
+      "time": 217.463,
+      "time_str": "03:37.463",
+      "text": "一直重复着那首歌",
+      "translation": null
+    },
+    {
+      "time": 221.803,
+      "time_str": "03:41.803",
+      "text": "Will you still love me tomorrow",
+      "translation": null
+    },
+    {
+      "time": 228.818,
+      "time_str": "03:48.818",
+      "text": "Will you still love me tomorrow",
+      "translation": null
+    },
+    {
+      "time": 248.154,
+      "time_str": "04:08.154",
+      "text": "键盘 : 陈玉立/涂惠源",
+      "translation": null
+    },
+    {
+      "time": 248.633,
+      "time_str": "04:08.633",
+      "text": "Bass : 郭宗韶",
+      "translation": null
+    },
+    {
+      "time": 250.002,
+      "time_str": "04:10.002",
+      "text": "TWA750100511",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "明天你是否依然爱我 - 童安格.lrc"
+}

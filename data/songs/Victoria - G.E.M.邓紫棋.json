@@ -1,0 +1,220 @@
+{
+  "title": "Victoria",
+  "title_raw": "Victoria",
+  "version": null,
+  "artist": "G.E.M.邓紫棋",
+  "group_key": "victoria|g.e.m.邓紫棋",
+  "writers": {
+    "lyricist": "Elvis Kwok Bun Chan/G.E.M.邓紫棋/王祖蓝/林洛民",
+    "composer": "G.E.M.邓紫棋",
+    "arranger": "王双骏"
+  },
+  "lyrics": [
+    {
+      "time": 13.44,
+      "time_str": "00:13.440",
+      "text": "凝望对岸灯火线",
+      "translation": null
+    },
+    {
+      "time": 18.34,
+      "time_str": "00:18.340",
+      "text": "童年望到如今不厌",
+      "translation": null
+    },
+    {
+      "time": 23.45,
+      "time_str": "00:23.450",
+      "text": "流连球场内妈妈有些怨言",
+      "translation": null
+    },
+    {
+      "time": 27.72,
+      "time_str": "00:27.720",
+      "text": "却是那最熟悉声线",
+      "translation": null
+    },
+    {
+      "time": 33.47,
+      "time_str": "00:33.470",
+      "text": "常回味那蛋挞的脆",
+      "translation": null
+    },
+    {
+      "time": 38.64,
+      "time_str": "00:38.640",
+      "text": "人情味也属于这里",
+      "translation": null
+    },
+    {
+      "time": 44.01,
+      "time_str": "00:44.010",
+      "text": "谁曾离别天星下再相聚",
+      "translation": null
+    },
+    {
+      "time": 48.59,
+      "time_str": "00:48.590",
+      "text": "你共我已成长几岁",
+      "translation": null
+    },
+    {
+      "time": 54.25,
+      "time_str": "00:54.250",
+      "text": "看遍风雨和繁花",
+      "translation": null
+    },
+    {
+      "time": 59.18,
+      "time_str": "00:59.180",
+      "text": "共灌溉七百万童话",
+      "translation": null
+    },
+    {
+      "time": 64.73,
+      "time_str": "01:04.730",
+      "text": "Victoria Victoria",
+      "translation": null
+    },
+    {
+      "time": 69.87,
+      "time_str": "01:09.870",
+      "text": "你的我的  这一个家",
+      "translation": null
+    },
+    {
+      "time": 74.81,
+      "time_str": "01:14.810",
+      "text": "重读幼嫩的笔记",
+      "translation": null
+    },
+    {
+      "time": 79.07,
+      "time_str": "01:19.070",
+      "text": "记载著还在努力的希冀",
+      "translation": null
+    },
+    {
+      "time": 84.6,
+      "time_str": "01:24.600",
+      "text": "时代门外多少挚真忆记",
+      "translation": null
+    },
+    {
+      "time": 89.64,
+      "time_str": "01:29.640",
+      "text": "那是有过梦想的你",
+      "translation": null
+    },
+    {
+      "time": 95.01,
+      "time_str": "01:35.010",
+      "text": "看遍风雨和繁花",
+      "translation": null
+    },
+    {
+      "time": 99.71,
+      "time_str": "01:39.710",
+      "text": "共灌溉七百万童话",
+      "translation": null
+    },
+    {
+      "time": 105.54,
+      "time_str": "01:45.540",
+      "text": "Victoria Victoria",
+      "translation": null
+    },
+    {
+      "time": 110.67,
+      "time_str": "01:50.670",
+      "text": "你的我的  这一个家",
+      "translation": null
+    },
+    {
+      "time": 115.51,
+      "time_str": "01:55.510",
+      "text": "即使几多惊涛骇浪",
+      "translation": null
+    },
+    {
+      "time": 120.88,
+      "time_str": "02:00.880",
+      "text": "即使都少不免相撞",
+      "translation": null
+    },
+    {
+      "time": 125.38,
+      "time_str": "02:05.380",
+      "text": "可否牵手一同泊岸",
+      "translation": null
+    },
+    {
+      "time": 130.29,
+      "time_str": "02:10.290",
+      "text": "这景致谁亦向往",
+      "translation": null
+    },
+    {
+      "time": 145.93,
+      "time_str": "02:25.930",
+      "text": "无论几多次迷路不怕",
+      "translation": null
+    },
+    {
+      "time": 150.62,
+      "time_str": "02:30.620",
+      "text": "沿著港湾会望见烟花",
+      "translation": null
+    },
+    {
+      "time": 156.55,
+      "time_str": "02:36.550",
+      "text": "世界千百样图画",
+      "translation": null
+    },
+    {
+      "time": 161.1,
+      "time_str": "02:41.100",
+      "text": "但你我也只渴望回家",
+      "translation": null
+    },
+    {
+      "time": 166.82,
+      "time_str": "02:46.820",
+      "text": "Victoria Victoria",
+      "translation": null
+    },
+    {
+      "time": 172.52,
+      "time_str": "02:52.520",
+      "text": "你的我的  这一个家",
+      "translation": null
+    },
+    {
+      "time": 177.17,
+      "time_str": "02:57.170",
+      "text": "冷暖起跌像浮沙",
+      "translation": null
+    },
+    {
+      "time": 181.71,
+      "time_str": "03:01.710",
+      "text": "用爱种七百万童话",
+      "translation": null
+    },
+    {
+      "time": 187.2,
+      "time_str": "03:07.200",
+      "text": "Victoria Victoria",
+      "translation": null
+    },
+    {
+      "time": 192.51,
+      "time_str": "03:12.510",
+      "text": "你的我的  这一个家",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "Victoria - G.E.M.邓紫棋.lrc"
+}

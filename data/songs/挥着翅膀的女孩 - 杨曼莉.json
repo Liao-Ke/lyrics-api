@@ -1,0 +1,268 @@
+{
+  "title": "挥着翅膀的女孩",
+  "title_raw": "挥着翅膀的女孩",
+  "version": null,
+  "artist": "杨曼莉",
+  "group_key": "挥着翅膀的女孩|杨曼莉",
+  "writers": {
+    "lyricist": "陈光荣",
+    "composer": "陈光荣",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 32.57,
+      "time_str": "00:32.570",
+      "text": "当我还是一个懵懂的女孩",
+      "translation": null
+    },
+    {
+      "time": 39.7,
+      "time_str": "00:39.700",
+      "text": "遇到爱 不懂爱 从过去到现在",
+      "translation": null
+    },
+    {
+      "time": 49.01,
+      "time_str": "00:49.010",
+      "text": "直到他也离开",
+      "translation": null
+    },
+    {
+      "time": 53.08,
+      "time_str": "00:53.080",
+      "text": "留我在云海徘徊",
+      "translation": null
+    },
+    {
+      "time": 56.76,
+      "time_str": "00:56.760",
+      "text": "明白没人能取代",
+      "translation": null
+    },
+    {
+      "time": 60.76,
+      "time_str": "01:00.760",
+      "text": "他曾给我的信赖",
+      "translation": null
+    },
+    {
+      "time": 64.39,
+      "time_str": "01:04.390",
+      "text": "See me fly",
+      "translation": null
+    },
+    {
+      "time": 67.45,
+      "time_str": "01:07.450",
+      "text": "I’m proud to fly up high",
+      "translation": null
+    },
+    {
+      "time": 71.76,
+      "time_str": "01:11.760",
+      "text": "不能一直依赖",
+      "translation": null
+    },
+    {
+      "time": 75.64,
+      "time_str": "01:15.640",
+      "text": "别人给我拥戴",
+      "translation": null
+    },
+    {
+      "time": 79.76,
+      "time_str": "01:19.760",
+      "text": "Believe Me I Can Fly",
+      "translation": null
+    },
+    {
+      "time": 84.14,
+      "time_str": "01:24.140",
+      "text": "I Am Singing In The Sky",
+      "translation": null
+    },
+    {
+      "time": 88.33,
+      "time_str": "01:28.330",
+      "text": "就算风雨覆盖",
+      "translation": null
+    },
+    {
+      "time": 92.51,
+      "time_str": "01:32.510",
+      "text": "我也不怕重来",
+      "translation": null
+    },
+    {
+      "time": 121.2,
+      "time_str": "02:01.200",
+      "text": "我已不是那个懵懂的女孩",
+      "translation": null
+    },
+    {
+      "time": 127.7,
+      "time_str": "02:07.700",
+      "text": "遇到爱 用力爱",
+      "translation": null
+    },
+    {
+      "time": 132.2,
+      "time_str": "02:12.200",
+      "text": "仍信真爱",
+      "translation": null
+    },
+    {
+      "time": 136.89,
+      "time_str": "02:16.890",
+      "text": "风雨来不避开",
+      "translation": null
+    },
+    {
+      "time": 140.7,
+      "time_str": "02:20.700",
+      "text": "谦虚把头低下来",
+      "translation": null
+    },
+    {
+      "time": 145.01,
+      "time_str": "02:25.010",
+      "text": "像沙鸥来去天地",
+      "translation": null
+    },
+    {
+      "time": 148.83,
+      "time_str": "02:28.830",
+      "text": "只为寻一个奇迹",
+      "translation": null
+    },
+    {
+      "time": 152.51,
+      "time_str": "02:32.510",
+      "text": "See me fly",
+      "translation": null
+    },
+    {
+      "time": 154.83,
+      "time_str": "02:34.830",
+      "text": "I’m proud to fly up high",
+      "translation": null
+    },
+    {
+      "time": 159.51,
+      "time_str": "02:39.510",
+      "text": "生命已经打开",
+      "translation": null
+    },
+    {
+      "time": 163.51,
+      "time_str": "02:43.510",
+      "text": "我要那种精彩",
+      "translation": null
+    },
+    {
+      "time": 167.64,
+      "time_str": "02:47.640",
+      "text": "Believe Me I Can Fly",
+      "translation": null
+    },
+    {
+      "time": 171.76,
+      "time_str": "02:51.760",
+      "text": "I Am Singing In The Sky",
+      "translation": null
+    },
+    {
+      "time": 175.89,
+      "time_str": "02:55.890",
+      "text": "你曾经对我说",
+      "translation": null
+    },
+    {
+      "time": 179.96,
+      "time_str": "02:59.960",
+      "text": "做勇敢的女孩",
+      "translation": null
+    },
+    {
+      "time": 187.58,
+      "time_str": "03:07.580",
+      "text": "我盼有一天能和你相见",
+      "translation": null
+    },
+    {
+      "time": 192.96,
+      "time_str": "03:12.960",
+      "text": "骄傲的对着天空说",
+      "translation": null
+    },
+    {
+      "time": 197.64,
+      "time_str": "03:17.640",
+      "text": "是借着你的风",
+      "translation": null
+    },
+    {
+      "time": 201.14,
+      "time_str": "03:21.140",
+      "text": "Let me fly",
+      "translation": null
+    },
+    {
+      "time": 204.02,
+      "time_str": "03:24.020",
+      "text": "I’m proud to fly up high",
+      "translation": null
+    },
+    {
+      "time": 207.95,
+      "time_str": "03:27.950",
+      "text": "生命已经打开",
+      "translation": null
+    },
+    {
+      "time": 212.01,
+      "time_str": "03:32.010",
+      "text": "我要那种精彩",
+      "translation": null
+    },
+    {
+      "time": 215.95,
+      "time_str": "03:35.950",
+      "text": "Believe Me I Can Fly",
+      "translation": null
+    },
+    {
+      "time": 220.08,
+      "time_str": "03:40.080",
+      "text": "I Am Singing In The Sky",
+      "translation": null
+    },
+    {
+      "time": 224.08,
+      "time_str": "03:44.080",
+      "text": "你曾经对我说",
+      "translation": null
+    },
+    {
+      "time": 228.2,
+      "time_str": "03:48.200",
+      "text": "做勇敢的女孩",
+      "translation": null
+    },
+    {
+      "time": 236.33,
+      "time_str": "03:56.330",
+      "text": "我不会孤单",
+      "translation": null
+    },
+    {
+      "time": 240.71,
+      "time_str": "04:00.710",
+      "text": "因为你...都在",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "挥着翅膀的女孩 - 杨曼莉.lrc"
+}

@@ -1,0 +1,142 @@
+{
+  "title": "花香",
+  "title_raw": "花香",
+  "version": null,
+  "artist": "周传雄",
+  "group_key": "花香|周传雄",
+  "writers": {
+    "lyricist": "陈信荣",
+    "composer": "周传雄",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 31.57,
+      "time_str": "00:31.570",
+      "text": "风　没有方向的吹来　雨　也跟著悲伤起来",
+      "translation": null
+    },
+    {
+      "time": 42.82,
+      "time_str": "00:42.820",
+      "text": "没有人能告诉我　爱是在什么时候　悄悄走开",
+      "translation": null
+    },
+    {
+      "time": 53.23,
+      "time_str": "00:53.230",
+      "text": "风　伴著花谢了又开　雨　把眼泪落向大海",
+      "translation": null
+    },
+    {
+      "time": 63.22,
+      "time_str": "01:03.220",
+      "text": "现在的我才明白　妳抱著紫色的梦　选择等待",
+      "translation": null
+    },
+    {
+      "time": 73.7,
+      "time_str": "01:13.700",
+      "text": "记忆是阵阵花香　我们说好谁都不能忘",
+      "translation": null
+    },
+    {
+      "time": 83.47,
+      "time_str": "01:23.470",
+      "text": "守著黑夜的阳光　难过却假装坚强　等待的日子里妳比我勇敢",
+      "translation": null
+    },
+    {
+      "time": 94.23,
+      "time_str": "01:34.230",
+      "text": "记忆是阵阵花香　一起走过永远不能忘",
+      "translation": null
+    },
+    {
+      "time": 103.82,
+      "time_str": "01:43.820",
+      "text": "妳的温柔是阳光　把我的未来填满",
+      "translation": null
+    },
+    {
+      "time": 108.85,
+      "time_str": "01:48.850",
+      "text": "提醒我花香常在就像我的爱",
+      "translation": null
+    },
+    {
+      "time": 139.96,
+      "time_str": "02:19.960",
+      "text": "风　伴著花谢了又开　雨　把眼泪落向大海",
+      "translation": null
+    },
+    {
+      "time": 150.19,
+      "time_str": "02:30.190",
+      "text": "现在的我才明白　妳抱著紫色的梦　选择等待",
+      "translation": null
+    },
+    {
+      "time": 160.83,
+      "time_str": "02:40.830",
+      "text": "记忆是阵阵花香　我们说好谁都不能忘",
+      "translation": null
+    },
+    {
+      "time": 170.23,
+      "time_str": "02:50.230",
+      "text": "守著黑夜的阳光　难过却假装坚强　等待的日子里妳比我勇敢",
+      "translation": null
+    },
+    {
+      "time": 181.35,
+      "time_str": "03:01.350",
+      "text": "记忆是阵阵花香　一起走过永远不能忘",
+      "translation": null
+    },
+    {
+      "time": 190.4,
+      "time_str": "03:10.400",
+      "text": "妳的温柔是阳光　把我的未来填满",
+      "translation": null
+    },
+    {
+      "time": 195.42,
+      "time_str": "03:15.420",
+      "text": "提醒我花香常在就像我的爱",
+      "translation": null
+    },
+    {
+      "time": 207.33,
+      "time_str": "03:27.330",
+      "text": "记忆是阵阵花香　我们说好谁都不能忘",
+      "translation": null
+    },
+    {
+      "time": 215.72,
+      "time_str": "03:35.720",
+      "text": "守著黑夜的阳光　难过却假装坚强　等待的日子里妳比我勇敢",
+      "translation": null
+    },
+    {
+      "time": 226.9,
+      "time_str": "03:46.900",
+      "text": "记忆是阵阵花香　一起走过永远不能忘",
+      "translation": null
+    },
+    {
+      "time": 236.68,
+      "time_str": "03:56.680",
+      "text": "妳的温柔是阳光　把我的未来填满",
+      "translation": null
+    },
+    {
+      "time": 241.56,
+      "time_str": "04:01.560",
+      "text": "风吹起花的香味就像妳的爱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "花香 - 周传雄.lrc"
+}

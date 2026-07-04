@@ -1,0 +1,214 @@
+{
+  "title": "想起",
+  "title_raw": "想起",
+  "version": null,
+  "artist": "韩雪",
+  "group_key": "想起|韩雪",
+  "writers": {
+    "lyricist": "陈耀川/何启弘",
+    "composer": "陈耀川/缪森",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 23.12,
+      "time_str": "00:23.120",
+      "text": "回到相遇的地点",
+      "translation": null
+    },
+    {
+      "time": 29.3,
+      "time_str": "00:29.300",
+      "text": "才知我对你不了解",
+      "translation": null
+    },
+    {
+      "time": 34.83,
+      "time_str": "00:34.830",
+      "text": "以为爱得深就不怕伤悲",
+      "translation": null
+    },
+    {
+      "time": 40.28,
+      "time_str": "00:40.280",
+      "text": "偏偏爱让心成雪",
+      "translation": null
+    },
+    {
+      "time": 46.97,
+      "time_str": "00:46.970",
+      "text": "我独自走在寂寞的长街",
+      "translation": null
+    },
+    {
+      "time": 52.75,
+      "time_str": "00:52.750",
+      "text": "回忆一幕幕重演",
+      "translation": null
+    },
+    {
+      "time": 58.82,
+      "time_str": "00:58.820",
+      "text": "我告诉自己勇敢去面对",
+      "translation": null
+    },
+    {
+      "time": 63.81,
+      "time_str": "01:03.810",
+      "text": "就算心碎也完美",
+      "translation": null
+    },
+    {
+      "time": 69.8,
+      "time_str": "01:09.800",
+      "text": "想起我和你牵手的画面",
+      "translation": null
+    },
+    {
+      "time": 75.8,
+      "time_str": "01:15.800",
+      "text": "泪水化成雨下满天",
+      "translation": null
+    },
+    {
+      "time": 81.68,
+      "time_str": "01:21.680",
+      "text": "如果我和你还能再见面",
+      "translation": null
+    },
+    {
+      "time": 87.51,
+      "time_str": "01:27.510",
+      "text": "就让情依旧梦能圆",
+      "translation": null
+    },
+    {
+      "time": 105.289,
+      "time_str": "01:45.289",
+      "text": "我们在不同的世界",
+      "translation": null
+    },
+    {
+      "time": 111.0,
+      "time_str": "01:51.000",
+      "text": "想着每一次的误会",
+      "translation": null
+    },
+    {
+      "time": 116.68,
+      "time_str": "01:56.680",
+      "text": "好想再一次依偎你身边",
+      "translation": null
+    },
+    {
+      "time": 122.26,
+      "time_str": "02:02.260",
+      "text": "偏偏你有千里远",
+      "translation": null
+    },
+    {
+      "time": 128.788,
+      "time_str": "02:08.788",
+      "text": "我独自走在寂寞的长街",
+      "translation": null
+    },
+    {
+      "time": 134.3,
+      "time_str": "02:14.300",
+      "text": "回忆一幕幕重演",
+      "translation": null
+    },
+    {
+      "time": 140.68,
+      "time_str": "02:20.680",
+      "text": "我告诉自己勇敢去面对",
+      "translation": null
+    },
+    {
+      "time": 145.68,
+      "time_str": "02:25.680",
+      "text": "就算心碎也完美",
+      "translation": null
+    },
+    {
+      "time": 151.65,
+      "time_str": "02:31.650",
+      "text": "想起我和你牵手的画面",
+      "translation": null
+    },
+    {
+      "time": 157.7,
+      "time_str": "02:37.700",
+      "text": "泪水化成雨下满天",
+      "translation": null
+    },
+    {
+      "time": 163.6,
+      "time_str": "02:43.600",
+      "text": "如果我和你还能再见面",
+      "translation": null
+    },
+    {
+      "time": 169.49,
+      "time_str": "02:49.490",
+      "text": "就让情依旧梦能圆",
+      "translation": null
+    },
+    {
+      "time": 198.91,
+      "time_str": "03:18.910",
+      "text": "想起我和你牵手的画面",
+      "translation": null
+    },
+    {
+      "time": 204.53,
+      "time_str": "03:24.530",
+      "text": "泪水化成雨下满天",
+      "translation": null
+    },
+    {
+      "time": 210.41,
+      "time_str": "03:30.410",
+      "text": "如果我和你还能再见面",
+      "translation": null
+    },
+    {
+      "time": 216.26,
+      "time_str": "03:36.260",
+      "text": "就让情依旧梦能圆",
+      "translation": null
+    },
+    {
+      "time": 222.13,
+      "time_str": "03:42.130",
+      "text": "想起我和你牵手的画面",
+      "translation": null
+    },
+    {
+      "time": 227.87,
+      "time_str": "03:47.870",
+      "text": "泪水化成雨下满天",
+      "translation": null
+    },
+    {
+      "time": 233.8,
+      "time_str": "03:53.800",
+      "text": "如果我和你还能再见面",
+      "translation": null
+    },
+    {
+      "time": 239.76,
+      "time_str": "03:59.760",
+      "text": "就让情依旧梦能圆",
+      "translation": null
+    },
+    {
+      "time": 245.82,
+      "time_str": "04:05.820",
+      "text": "就让情依旧梦能圆",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "想起 - 韩雪.lrc"
+}

@@ -1,0 +1,358 @@
+{
+  "title": "Try",
+  "title_raw": "Try",
+  "version": null,
+  "artist": "Colbie Caillat",
+  "group_key": "try|colbie caillat",
+  "writers": {
+    "lyricist": "Antonio Dixon/Kenny \"Babyface\" Edmonds/Colbie Caillat/Jason Reeves",
+    "composer": "Antonio Dixon/Kenny \"Babyface\" Edmonds/Colbie Caillat/Jason Reeves",
+    "arranger": "Babyface"
+  },
+  "lyrics": [
+    {
+      "time": 13.2,
+      "time_str": "00:13.200",
+      "text": "Put your make up on",
+      "translation": "化好妆"
+    },
+    {
+      "time": 14.69,
+      "time_str": "00:14.690",
+      "text": "Get your nails done",
+      "translation": "涂好指甲"
+    },
+    {
+      "time": 15.98,
+      "time_str": "00:15.980",
+      "text": "Curl your hair",
+      "translation": "盘好秀发"
+    },
+    {
+      "time": 17.08,
+      "time_str": "00:17.080",
+      "text": "Run the extra mile",
+      "translation": "多跑跑步"
+    },
+    {
+      "time": 18.18,
+      "time_str": "00:18.180",
+      "text": "Keep it slim so they like you, do they like you?",
+      "translation": "保持苗条 他们才喜欢你 他们真的喜欢你吗？"
+    },
+    {
+      "time": 27.86,
+      "time_str": "00:27.860",
+      "text": "Get your sexy on",
+      "translation": "妩媚性感"
+    },
+    {
+      "time": 28.77,
+      "time_str": "00:28.770",
+      "text": "Don't be shy, girl",
+      "translation": "不要害羞 女孩"
+    },
+    {
+      "time": 29.63,
+      "time_str": "00:29.630",
+      "text": "Take it off",
+      "translation": "袒露身段"
+    },
+    {
+      "time": 30.63,
+      "time_str": "00:30.630",
+      "text": "This is what you want, to belong, so they like you",
+      "translation": "这就是你想要的吗？因为这样他们才喜欢你"
+    },
+    {
+      "time": 36.1,
+      "time_str": "00:36.100",
+      "text": "Do you like you?",
+      "translation": "你喜欢自己吗？"
+    },
+    {
+      "time": 39.88,
+      "time_str": "00:39.880",
+      "text": "You don't have to try so hard",
+      "translation": "你不必逼自己竭尽全力"
+    },
+    {
+      "time": 43.4,
+      "time_str": "00:43.400",
+      "text": "You don't have to, give it all away",
+      "translation": "你不必逼自己毫无保留"
+    },
+    {
+      "time": 46.88,
+      "time_str": "00:46.880",
+      "text": "You just have to get up, get up, get up, get up",
+      "translation": "你只需要振作起来"
+    },
+    {
+      "time": 50.51,
+      "time_str": "00:50.510",
+      "text": "You don't have to change a single thing",
+      "translation": "你不必逼自己做任何改变"
+    },
+    {
+      "time": 53.65,
+      "time_str": "00:53.650",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 57.17,
+      "time_str": "00:57.170",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 60.31,
+      "time_str": "01:00.310",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 63.99,
+      "time_str": "01:03.990",
+      "text": "You don't have to try",
+      "translation": "你不必尝试"
+    },
+    {
+      "time": 66.23,
+      "time_str": "01:06.230",
+      "text": "Yooou don't have to try",
+      "translation": "你不必尝试"
+    },
+    {
+      "time": 81.98,
+      "time_str": "01:21.980",
+      "text": "Get your shopping on, at the mall, max your credit cards",
+      "translation": "疯狂购物 逛遍商场 刷爆信用卡"
+    },
+    {
+      "time": 85.9,
+      "time_str": "01:25.900",
+      "text": "You don't have to choose, buy it all, so they like you",
+      "translation": "你没有选择，只能一口气买完 因为这样他们才喜欢你"
+    },
+    {
+      "time": 90.92,
+      "time_str": "01:30.920",
+      "text": "Do they like you?",
+      "translation": "他们真的喜欢你吗？"
+    },
+    {
+      "time": 95.56,
+      "time_str": "01:35.560",
+      "text": "Wait a second,",
+      "translation": "等一下"
+    },
+    {
+      "time": 97.05,
+      "time_str": "01:37.050",
+      "text": "Why, should you care, what they think of you",
+      "translation": "为什么你需要在乎他们如何想你"
+    },
+    {
+      "time": 99.21,
+      "time_str": "01:39.210",
+      "text": "When you're all alone, by yourself, do you like you?",
+      "translation": "当你一个人的时候 你喜欢你自己吗？"
+    },
+    {
+      "time": 104.66,
+      "time_str": "01:44.660",
+      "text": "Do you like you?",
+      "translation": "你爱你自己吗？"
+    },
+    {
+      "time": 108.45,
+      "time_str": "01:48.450",
+      "text": "You don't have to try so hard",
+      "translation": "你不必逼自己竭尽全力"
+    },
+    {
+      "time": 111.76,
+      "time_str": "01:51.760",
+      "text": "You don't have to, give it all away",
+      "translation": "你不必逼自己毫无保留"
+    },
+    {
+      "time": 115.64,
+      "time_str": "01:55.640",
+      "text": "You just have to get up, get up, get up, get up",
+      "translation": "你只需要振作起来"
+    },
+    {
+      "time": 119.09,
+      "time_str": "01:59.090",
+      "text": "You don't have to change a single thing",
+      "translation": "你不必逼自己做任何改变"
+    },
+    {
+      "time": 122.03,
+      "time_str": "02:02.030",
+      "text": "You don't have to try so hard",
+      "translation": "你不必逼自己竭尽全力"
+    },
+    {
+      "time": 126.45,
+      "time_str": "02:06.450",
+      "text": "You don't have to bend until you break",
+      "translation": "你不必委曲求全"
+    },
+    {
+      "time": 129.06,
+      "time_str": "02:09.060",
+      "text": "You just have to get up, get up, get up, get up",
+      "translation": "你只需要振作起来"
+    },
+    {
+      "time": 132.41,
+      "time_str": "02:12.410",
+      "text": "You don't have to change a single thing",
+      "translation": "你不必逼自己做任何改变"
+    },
+    {
+      "time": 136.04,
+      "time_str": "02:16.040",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 139.56,
+      "time_str": "02:19.560",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 142.8,
+      "time_str": "02:22.800",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必尝试"
+    },
+    {
+      "time": 146.26,
+      "time_str": "02:26.260",
+      "text": "You don't have to try",
+      "translation": "你不必尝试"
+    },
+    {
+      "time": 149.48,
+      "time_str": "02:29.480",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 153.04,
+      "time_str": "02:33.040",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 156.41,
+      "time_str": "02:36.410",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 160.08,
+      "time_str": "02:40.080",
+      "text": "You don't have to try",
+      "translation": "你不必尝试"
+    },
+    {
+      "time": 162.44,
+      "time_str": "02:42.440",
+      "text": "Yooou don't have to try",
+      "translation": "你不必尝试"
+    },
+    {
+      "time": 176.91,
+      "time_str": "02:56.910",
+      "text": "You don't have to try so hard",
+      "translation": "你不必逼自己竭尽全力"
+    },
+    {
+      "time": 180.36,
+      "time_str": "03:00.360",
+      "text": "You don't have to, give it all away",
+      "translation": "你不必逼自己毫无保留"
+    },
+    {
+      "time": 183.9,
+      "time_str": "03:03.900",
+      "text": "You just have to get up, get up, get up, get up",
+      "translation": "你只需要振作起来"
+    },
+    {
+      "time": 187.45,
+      "time_str": "03:07.450",
+      "text": "You don't have to change a single thing",
+      "translation": "你不必逼自己做任何改变"
+    },
+    {
+      "time": 190.92,
+      "time_str": "03:10.920",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 194.41,
+      "time_str": "03:14.410",
+      "text": "You don't have to try, try, try, try",
+      "translation": "你不必去努力尝试"
+    },
+    {
+      "time": 197.62,
+      "time_str": "03:17.620",
+      "text": "You don't have to try",
+      "translation": "你不必尝试"
+    },
+    {
+      "time": 201.77,
+      "time_str": "03:21.770",
+      "text": "You don't have to try",
+      "translation": "你不必尝试"
+    },
+    {
+      "time": 205.86,
+      "time_str": "03:25.860",
+      "text": "Take your make up off",
+      "translation": "卸掉妆"
+    },
+    {
+      "time": 206.88,
+      "time_str": "03:26.880",
+      "text": "Put your hair down",
+      "translation": "披落秀发"
+    },
+    {
+      "time": 207.98,
+      "time_str": "03:27.980",
+      "text": "Take a breath",
+      "translation": "轻声呼吸"
+    },
+    {
+      "time": 208.95,
+      "time_str": "03:28.950",
+      "text": "Look into the mirror, at yourself",
+      "translation": "对着镜子 看着自己"
+    },
+    {
+      "time": 211.01,
+      "time_str": "03:31.010",
+      "text": "Don't you like you?",
+      "translation": "你不喜欢你自己吗？"
+    },
+    {
+      "time": 214.4,
+      "time_str": "03:34.400",
+      "text": "Cause I like you",
+      "translation": "但是我喜欢真实的你"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Try - Colbie Caillat.lrc"
+}

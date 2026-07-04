@@ -1,0 +1,214 @@
+{
+  "title": "死而无憾",
+  "title_raw": "死而无憾",
+  "version": null,
+  "artist": "爱乐团",
+  "group_key": "死而无憾|爱乐团",
+  "writers": {
+    "lyricist": "胡霖",
+    "composer": "王超",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.47,
+      "time_str": "00:29.470",
+      "text": "岁月在蒸发",
+      "translation": null
+    },
+    {
+      "time": 32.56,
+      "time_str": "00:32.560",
+      "text": "蝴蝶依旧恋着花",
+      "translation": null
+    },
+    {
+      "time": 36.49,
+      "time_str": "00:36.490",
+      "text": "我笑她太傻",
+      "translation": null
+    },
+    {
+      "time": 39.56,
+      "time_str": "00:39.560",
+      "text": "守着枯萎的枝丫",
+      "translation": null
+    },
+    {
+      "time": 43.19,
+      "time_str": "00:43.190",
+      "text": "没结果的花 它痴恋着沙",
+      "translation": null
+    },
+    {
+      "time": 46.7,
+      "time_str": "00:46.700",
+      "text": "风吹散落在天涯",
+      "translation": null
+    },
+    {
+      "time": 50.18,
+      "time_str": "00:50.180",
+      "text": "爱不怕太傻 你的一句话",
+      "translation": null
+    },
+    {
+      "time": 53.72,
+      "time_str": "00:53.720",
+      "text": "我用心牢牢记下",
+      "translation": null
+    },
+    {
+      "time": 57.22,
+      "time_str": "00:57.220",
+      "text": "如果有一天你对我的爱只剩下残骸",
+      "translation": null
+    },
+    {
+      "time": 63.79,
+      "time_str": "01:03.790",
+      "text": "我依然可以为你死而无憾",
+      "translation": null
+    },
+    {
+      "time": 71.33,
+      "time_str": "01:11.330",
+      "text": "就算爱到尽头泪水掩埋我的心还在",
+      "translation": null
+    },
+    {
+      "time": 77.95,
+      "time_str": "01:17.950",
+      "text": "冰雪尘封不了我对你的爱",
+      "translation": null
+    },
+    {
+      "time": 85.88,
+      "time_str": "01:25.880",
+      "text": "爱总有伤害",
+      "translation": null
+    },
+    {
+      "time": 89.1,
+      "time_str": "01:29.100",
+      "text": "任他们笑我活该",
+      "translation": null
+    },
+    {
+      "time": 92.99,
+      "time_str": "01:32.990",
+      "text": "花开总会败",
+      "translation": null
+    },
+    {
+      "time": 96.8,
+      "time_str": "01:36.800",
+      "text": "只为绽放的精彩",
+      "translation": null
+    },
+    {
+      "time": 99.67,
+      "time_str": "01:39.670",
+      "text": "没结果的花 它痴恋着沙",
+      "translation": null
+    },
+    {
+      "time": 103.15,
+      "time_str": "01:43.150",
+      "text": "风吹散落在天涯",
+      "translation": null
+    },
+    {
+      "time": 106.66,
+      "time_str": "01:46.660",
+      "text": "爱不怕太傻 你的一句话",
+      "translation": null
+    },
+    {
+      "time": 110.17,
+      "time_str": "01:50.170",
+      "text": "我用心牢牢记下",
+      "translation": null
+    },
+    {
+      "time": 113.729,
+      "time_str": "01:53.729",
+      "text": "如果有一天你对我的爱只剩下残骸",
+      "translation": null
+    },
+    {
+      "time": 120.32,
+      "time_str": "02:00.320",
+      "text": "我依然可以为你死而无憾",
+      "translation": null
+    },
+    {
+      "time": 127.81,
+      "time_str": "02:07.810",
+      "text": "就算爱到尽头生死难改我葬身火海",
+      "translation": null
+    },
+    {
+      "time": 134.42,
+      "time_str": "02:14.420",
+      "text": "只要拥有过你我没有遗憾",
+      "translation": null
+    },
+    {
+      "time": 169.77,
+      "time_str": "02:49.770",
+      "text": "如果有一天你对我的爱只剩下残骸",
+      "translation": null
+    },
+    {
+      "time": 176.67,
+      "time_str": "02:56.670",
+      "text": "我依然可以为你死而无憾",
+      "translation": null
+    },
+    {
+      "time": 184.15,
+      "time_str": "03:04.150",
+      "text": "就算爱到尽头泪水掩埋我的心还在",
+      "translation": null
+    },
+    {
+      "time": 190.83,
+      "time_str": "03:10.830",
+      "text": "冰雪尘封不了我对你的爱",
+      "translation": null
+    },
+    {
+      "time": 197.88,
+      "time_str": "03:17.880",
+      "text": "直到有一天你对我的爱只剩下残骸",
+      "translation": null
+    },
+    {
+      "time": 204.97,
+      "time_str": "03:24.970",
+      "text": "我依然可以为你死而无憾",
+      "translation": null
+    },
+    {
+      "time": 212.47,
+      "time_str": "03:32.470",
+      "text": "就算爱到尽头生死难改我葬身火海",
+      "translation": null
+    },
+    {
+      "time": 219.9,
+      "time_str": "03:39.900",
+      "text": "只要拥有过你我没有遗憾",
+      "translation": null
+    },
+    {
+      "time": 226.37,
+      "time_str": "03:46.370",
+      "text": "只要拥有过你再没有遗憾",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "死而无憾 - 爱乐团.lrc"
+}

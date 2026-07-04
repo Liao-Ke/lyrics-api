@@ -1,0 +1,106 @@
+{
+  "title": "月亮河",
+  "title_raw": "月亮河",
+  "version": null,
+  "artist": "藤田恵美",
+  "group_key": "月亮河|藤田恵美",
+  "writers": {
+    "lyricist": "Johnny Mercer",
+    "composer": "Henry Mancini",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "月亮河-藤田恵美（じたえみ）",
+      "translation": null
+    },
+    {
+      "time": 16.56,
+      "time_str": "00:16.560",
+      "text": "Moon river",
+      "translation": "月亮河"
+    },
+    {
+      "time": 22.85,
+      "time_str": "00:22.850",
+      "text": "Wider than a mile",
+      "translation": "比一英里更宽广"
+    },
+    {
+      "time": 28.78,
+      "time_str": "00:28.780",
+      "text": "I'm crossing you in style some day",
+      "translation": "终有一天我会优雅地横渡你"
+    },
+    {
+      "time": 37.539,
+      "time_str": "00:37.539",
+      "text": "Oh dream maker",
+      "translation": "噢 织梦者"
+    },
+    {
+      "time": 41.739,
+      "time_str": "00:41.739",
+      "text": "You heart breaker",
+      "translation": "你这偷心人"
+    },
+    {
+      "time": 46.158,
+      "time_str": "00:46.158",
+      "text": "Wherever you're goin'",
+      "translation": "无论你去往何方"
+    },
+    {
+      "time": 50.758,
+      "time_str": "00:50.758",
+      "text": "I'm goin'your way",
+      "translation": "我都将追随"
+    },
+    {
+      "time": 57.968,
+      "time_str": "00:57.968",
+      "text": "Two drifters",
+      "translation": "两个流浪者"
+    },
+    {
+      "time": 62.808,
+      "time_str": "01:02.808",
+      "text": "Off to see the world",
+      "translation": "出发去看世界"
+    },
+    {
+      "time": 67.347,
+      "time_str": "01:07.347",
+      "text": "There's such a lot of world to see",
+      "translation": "大千世界如此多值得一看"
+    },
+    {
+      "time": 75.137,
+      "time_str": "01:15.137",
+      "text": "We're after the same rainbow's end",
+      "translation": "我们追寻着同一道彩虹的尽头"
+    },
+    {
+      "time": 86.835,
+      "time_str": "01:26.835",
+      "text": "Waitin''round the bend",
+      "translation": "在转弯处等候"
+    },
+    {
+      "time": 90.774,
+      "time_str": "01:30.774",
+      "text": "My huckleberry friend",
+      "translation": "我亲爱的老友"
+    },
+    {
+      "time": 95.964,
+      "time_str": "01:35.964",
+      "text": "Moon River and me",
+      "translation": "月亮河与我同行"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "月亮河 - 藤田恵美.lrc"
+}

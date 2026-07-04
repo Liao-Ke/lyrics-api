@@ -1,0 +1,346 @@
+{
+  "title": "Wrap Me In Plastic",
+  "title_raw": "Wrap Me In Plastic",
+  "version": null,
+  "artist": "CHROMANCE,Marcus Layton",
+  "group_key": "wrap me in plastic|chromance,marcus layton",
+  "writers": {
+    "lyricist": "Daniel France Stanfill/Johannes-Chane Becker",
+    "composer": "Daniel France Stanfill/Marcus Layton/Johannes-Chane Becker",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.36,
+      "time_str": "00:00.360",
+      "text": "It's my first night out with you",
+      "translation": "这是我第一次和你在晚上约会"
+    },
+    {
+      "time": 5.71,
+      "time_str": "00:05.710",
+      "text": "treat me right and buy me shoes",
+      "translation": "好好待我 给我买鞋子"
+    },
+    {
+      "time": 11.09,
+      "time_str": "00:11.090",
+      "text": "Let me be your fantasy play with me",
+      "translation": "让我做你的梦中情人 和我在一起吧"
+    },
+    {
+      "time": 17.75,
+      "time_str": "00:17.750",
+      "text": "I wanna be your girl",
+      "translation": "我想成为你的女孩"
+    },
+    {
+      "time": 22.27,
+      "time_str": "00:22.270",
+      "text": "Just give me some time",
+      "translation": "给我一点时间"
+    },
+    {
+      "time": 23.37,
+      "time_str": "00:23.370",
+      "text": "I will be ready",
+      "translation": "我很快就准备好"
+    },
+    {
+      "time": 24.75,
+      "time_str": "00:24.750",
+      "text": "Do my make-up",
+      "translation": "要化妆"
+    },
+    {
+      "time": 25.77,
+      "time_str": "00:25.770",
+      "text": "Bathe in my perfume",
+      "translation": "喷香水"
+    },
+    {
+      "time": 27.35,
+      "time_str": "00:27.350",
+      "text": "Quick shower won't take too long",
+      "translation": "冲个澡 要不了多久"
+    },
+    {
+      "time": 29.81,
+      "time_str": "00:29.810",
+      "text": "I'll be done just sing this song so",
+      "translation": "唱完这首歌我就可以"
+    },
+    {
+      "time": 32.41,
+      "time_str": "00:32.410",
+      "text": "Wrap me in plastic and make me shine",
+      "translation": "让我好好打扮 让我光芒四射"
+    },
+    {
+      "time": 35.08,
+      "time_str": "00:35.080",
+      "text": "We can make a dollhouse follow your design",
+      "translation": "我们可以做个玩具小屋 由你来设计"
+    },
+    {
+      "time": 37.69,
+      "time_str": "00:37.690",
+      "text": "Let's build a dog out of sticks and twine",
+      "translation": "让我们先用木棍和绳子制作一只狗"
+    },
+    {
+      "time": 40.31,
+      "time_str": "00:40.310",
+      "text": "I can call you master",
+      "translation": "我可以叫你主人"
+    },
+    {
+      "time": 41.7,
+      "time_str": "00:41.700",
+      "text": "You can call me mine",
+      "translation": "你可以拥有我"
+    },
+    {
+      "time": 43.06,
+      "time_str": "00:43.060",
+      "text": "Wrap me in plastic and make me shine",
+      "translation": "让我好好打扮 让我光芒四射"
+    },
+    {
+      "time": 45.7,
+      "time_str": "00:45.700",
+      "text": "We can make a dollhouse follow your design",
+      "translation": "我们可以做个玩具小屋 由你来设计"
+    },
+    {
+      "time": 48.35,
+      "time_str": "00:48.350",
+      "text": "Let's build a dog out of sticks and twine",
+      "translation": "让我们先用木棍和绳子制作一只狗"
+    },
+    {
+      "time": 51.04,
+      "time_str": "00:51.040",
+      "text": "I can call you master",
+      "translation": "我可以叫你主人"
+    },
+    {
+      "time": 52.39,
+      "time_str": "00:52.390",
+      "text": "You can call me mine",
+      "translation": "你可以拥有我"
+    },
+    {
+      "time": 53.78,
+      "time_str": "00:53.780",
+      "text": "(*music*)",
+      "translation": "（间奏）"
+    },
+    {
+      "time": 75.159,
+      "time_str": "01:15.159",
+      "text": "Move me tell me what to go",
+      "translation": "告诉我该做什么"
+    },
+    {
+      "time": 80.459,
+      "time_str": "01:20.459",
+      "text": "If you're happy, I am too",
+      "translation": "只要你开心 我就会开心"
+    },
+    {
+      "time": 85.709,
+      "time_str": "01:25.709",
+      "text": "Please just show me what you like don't be shy",
+      "translation": "请告诉我你喜欢什么 不要害羞"
+    },
+    {
+      "time": 92.409,
+      "time_str": "01:32.409",
+      "text": "I wanna be your girl",
+      "translation": "我想成为你的女孩"
+    },
+    {
+      "time": 96.43,
+      "time_str": "01:36.430",
+      "text": "Just give me some time",
+      "translation": "给我一点时间"
+    },
+    {
+      "time": 98.06,
+      "time_str": "01:38.060",
+      "text": "I will be ready",
+      "translation": "我很快就准备好"
+    },
+    {
+      "time": 99.45,
+      "time_str": "01:39.450",
+      "text": "Do my make-up",
+      "translation": "我要化妆"
+    },
+    {
+      "time": 100.36,
+      "time_str": "01:40.360",
+      "text": "Bathe in my perfume",
+      "translation": "喷香水"
+    },
+    {
+      "time": 102.019,
+      "time_str": "01:42.019",
+      "text": "Quick shower won't take too long",
+      "translation": "冲个澡 要不了多久的"
+    },
+    {
+      "time": 105.489,
+      "time_str": "01:45.489",
+      "text": "I'll be done just sing this song",
+      "translation": "唱完这首歌我就可以了"
+    },
+    {
+      "time": 107.069,
+      "time_str": "01:47.069",
+      "text": "So wrap me in plastic and make me shine",
+      "translation": "让我好好打扮 让我光芒四射"
+    },
+    {
+      "time": 109.769,
+      "time_str": "01:49.769",
+      "text": "We can make a dollhouse follow your design",
+      "translation": "我们可以做个玩具小屋 由你来设计"
+    },
+    {
+      "time": 112.43,
+      "time_str": "01:52.430",
+      "text": "Let's build a dog out of sticks and twine",
+      "translation": "让我们先用木棍和绳子制作一只狗"
+    },
+    {
+      "time": 115.049,
+      "time_str": "01:55.049",
+      "text": "I can call you master",
+      "translation": "我可以叫你主人"
+    },
+    {
+      "time": 116.349,
+      "time_str": "01:56.349",
+      "text": "You can call me mine",
+      "translation": "你可以拥有我"
+    },
+    {
+      "time": 117.79,
+      "time_str": "01:57.790",
+      "text": "Wrap me in plastic and make me shine",
+      "translation": "让我好好打扮 让我光芒四射"
+    },
+    {
+      "time": 120.379,
+      "time_str": "02:00.379",
+      "text": "We can make a dollhouse follow your design",
+      "translation": "我们可以做个玩具小屋 由你来设计"
+    },
+    {
+      "time": 123.058,
+      "time_str": "02:03.058",
+      "text": "Let's build a dog out of sticks and twine",
+      "translation": "让我们先用木棍和绳子制作一只狗"
+    },
+    {
+      "time": 125.718,
+      "time_str": "02:05.718",
+      "text": "I can call you master",
+      "translation": "我可以叫你主人"
+    },
+    {
+      "time": 127.058,
+      "time_str": "02:07.058",
+      "text": "You can call me mine",
+      "translation": "你可以拥有我"
+    },
+    {
+      "time": 128.409,
+      "time_str": "02:08.409",
+      "text": "(*music*)",
+      "translation": "（间奏）"
+    },
+    {
+      "time": 150.359,
+      "time_str": "02:30.359",
+      "text": "Just give me some time",
+      "translation": "给我一点时间"
+    },
+    {
+      "time": 151.379,
+      "time_str": "02:31.379",
+      "text": "I will be ready",
+      "translation": "我很快就准备好"
+    },
+    {
+      "time": 155.699,
+      "time_str": "02:35.699",
+      "text": "Quick shower won't take too long",
+      "translation": "冲个澡 要不了多久"
+    },
+    {
+      "time": 160.78,
+      "time_str": "02:40.780",
+      "text": "Just give me some time",
+      "translation": "给我一点时间"
+    },
+    {
+      "time": 162.25,
+      "time_str": "02:42.250",
+      "text": "I will be ready",
+      "translation": "我很快就准备好"
+    },
+    {
+      "time": 166.039,
+      "time_str": "02:46.039",
+      "text": "Quick shower won't take too long",
+      "translation": "冲个澡 要不了多久的"
+    },
+    {
+      "time": 169.94,
+      "time_str": "02:49.940",
+      "text": "Just sing this song",
+      "translation": "唱完这首歌就好了"
+    },
+    {
+      "time": 171.079,
+      "time_str": "02:51.079",
+      "text": "Wrap me in plastic and make me shine",
+      "translation": "让我好好打扮 让我光芒四射"
+    },
+    {
+      "time": 173.75,
+      "time_str": "02:53.750",
+      "text": "We can make a dollhouse follow your design",
+      "translation": "我们可以做个玩具小屋 由你来设计"
+    },
+    {
+      "time": 176.339,
+      "time_str": "02:56.339",
+      "text": "Let's build a dog out of sticks and twine",
+      "translation": "让我们先用木棍和绳子制作一只狗"
+    },
+    {
+      "time": 179.03,
+      "time_str": "02:59.030",
+      "text": "I can call you master",
+      "translation": "我可以叫你主人"
+    },
+    {
+      "time": 180.329,
+      "time_str": "03:00.329",
+      "text": "You can call me mine",
+      "translation": "你可以拥有我"
+    },
+    {
+      "time": 181.909,
+      "time_str": "03:01.909",
+      "text": "(*music*)",
+      "translation": "（尾奏）"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Wrap Me In Plastic - CHROMANCE,Marcus Layton.lrc"
+}

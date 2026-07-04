@@ -1,0 +1,274 @@
+{
+  "title": "青红皂白",
+  "title_raw": "青红皂白",
+  "version": null,
+  "artist": "钟汶",
+  "group_key": "青红皂白|钟汶",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "青红皂白",
+      "translation": null
+    },
+    {
+      "time": 22.11,
+      "time_str": "00:22.11",
+      "text": "天　天天变着脸",
+      "translation": null
+    },
+    {
+      "time": 28.39,
+      "time_str": "00:28.39",
+      "text": "好戏正铺张上演",
+      "translation": null
+    },
+    {
+      "time": 32.28,
+      "time_str": "00:32.28",
+      "text": "黑变了白　浓转了淡",
+      "translation": null
+    },
+    {
+      "time": 36.33,
+      "time_str": "00:36.33",
+      "text": "一瞬间布下了伏线",
+      "translation": null
+    },
+    {
+      "time": 39.88,
+      "time_str": "00:39.88",
+      "text": "沉默中互吞吐烟圈",
+      "translation": null
+    },
+    {
+      "time": 43.61,
+      "time_str": "00:43.61",
+      "text": "正试探着最后底线",
+      "translation": null
+    },
+    {
+      "time": 46.98,
+      "time_str": "00:46.98",
+      "text": "清算着　青的脸",
+      "translation": null
+    },
+    {
+      "time": 49.83,
+      "time_str": "00:49.83",
+      "text": "激动得　红的眼",
+      "translation": null
+    },
+    {
+      "time": 51.53,
+      "time_str": "00:51.53",
+      "text": "翻了脸　忘了留一线",
+      "translation": null
+    },
+    {
+      "time": 55.09,
+      "time_str": "00:55.09",
+      "text": "谁不分青红皂白",
+      "translation": null
+    },
+    {
+      "time": 60.8,
+      "time_str": "01:00.80",
+      "text": "谁说话不算",
+      "translation": null
+    },
+    {
+      "time": 63.78,
+      "time_str": "01:03.78",
+      "text": "这笔帐越算越乱",
+      "translation": null
+    },
+    {
+      "time": 68.5,
+      "time_str": "01:08.50",
+      "text": "最多一拍两散",
+      "translation": null
+    },
+    {
+      "time": 71.38,
+      "time_str": "01:11.38",
+      "text": "无非想讨个明白",
+      "translation": null
+    },
+    {
+      "time": 76.02,
+      "time_str": "01:16.02",
+      "text": "又何必发难",
+      "translation": null
+    },
+    {
+      "time": 79.08,
+      "time_str": "01:19.08",
+      "text": "这话不止你会说",
+      "translation": null
+    },
+    {
+      "time": 83.9,
+      "time_str": "01:23.90",
+      "text": "算了吧（大不了）一刀两断",
+      "translation": null
+    },
+    {
+      "time": 93.15,
+      "time_str": "01:33.150",
+      "text": "天　天天变着脸",
+      "translation": null
+    },
+    {
+      "time": 98.56,
+      "time_str": "01:38.560",
+      "text": "好戏正铺张上演",
+      "translation": null
+    },
+    {
+      "time": 102.4,
+      "time_str": "01:42.400",
+      "text": "黑变了白　浓转了淡",
+      "translation": null
+    },
+    {
+      "time": 106.4,
+      "time_str": "01:46.400",
+      "text": "一瞬间布下了伏线",
+      "translation": null
+    },
+    {
+      "time": 110.1,
+      "time_str": "01:50.100",
+      "text": "沉默中互吞吐烟圈",
+      "translation": null
+    },
+    {
+      "time": 113.8,
+      "time_str": "01:53.800",
+      "text": "正试探着最后底线",
+      "translation": null
+    },
+    {
+      "time": 117.45,
+      "time_str": "01:57.450",
+      "text": "清算着　青的脸",
+      "translation": null
+    },
+    {
+      "time": 120.12,
+      "time_str": "02:00.120",
+      "text": "激动得　红的眼",
+      "translation": null
+    },
+    {
+      "time": 121.96,
+      "time_str": "02:01.960",
+      "text": "翻了脸　忘了留一线",
+      "translation": null
+    },
+    {
+      "time": 125.53,
+      "time_str": "02:05.53",
+      "text": "谁不分青红皂白",
+      "translation": null
+    },
+    {
+      "time": 131.16,
+      "time_str": "02:11.16",
+      "text": "谁说话不算",
+      "translation": null
+    },
+    {
+      "time": 134.23,
+      "time_str": "02:14.23",
+      "text": "这笔帐越算越乱",
+      "translation": null
+    },
+    {
+      "time": 138.84,
+      "time_str": "02:18.84",
+      "text": "最多一拍两散",
+      "translation": null
+    },
+    {
+      "time": 141.87,
+      "time_str": "02:21.87",
+      "text": "无非想讨个明白",
+      "translation": null
+    },
+    {
+      "time": 146.36,
+      "time_str": "02:26.36",
+      "text": "又何必发难",
+      "translation": null
+    },
+    {
+      "time": 149.44,
+      "time_str": "02:29.44",
+      "text": "这话不止你会说",
+      "translation": null
+    },
+    {
+      "time": 154.04,
+      "time_str": "02:34.04",
+      "text": "算了吧（大不了）一刀两断",
+      "translation": null
+    },
+    {
+      "time": 188.0,
+      "time_str": "03:08.000",
+      "text": "谁不分青红皂白",
+      "translation": null
+    },
+    {
+      "time": 191.94,
+      "time_str": "03:11.940",
+      "text": "谁说话不算",
+      "translation": null
+    },
+    {
+      "time": 194.85,
+      "time_str": "03:14.850",
+      "text": "这笔帐越算越乱",
+      "translation": null
+    },
+    {
+      "time": 199.71,
+      "time_str": "03:19.710",
+      "text": "最多一拍两散",
+      "translation": null
+    },
+    {
+      "time": 203.19,
+      "time_str": "03:23.190",
+      "text": "无非想讨个明白",
+      "translation": null
+    },
+    {
+      "time": 207.53,
+      "time_str": "03:27.530",
+      "text": "又何必发难",
+      "translation": null
+    },
+    {
+      "time": 210.53,
+      "time_str": "03:30.530",
+      "text": "这话不止你会说",
+      "translation": null
+    },
+    {
+      "time": 216.16,
+      "time_str": "03:36.160",
+      "text": "算了吧（大不了）一刀两断",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "青红皂白 - 钟汶.lrc"
+}

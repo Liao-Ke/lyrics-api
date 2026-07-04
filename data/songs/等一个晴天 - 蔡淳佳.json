@@ -1,0 +1,220 @@
+{
+  "title": "等一个晴天",
+  "title_raw": "等一个晴天",
+  "version": null,
+  "artist": "蔡淳佳",
+  "group_key": "等一个晴天|蔡淳佳",
+  "writers": {
+    "lyricist": "梁文福",
+    "composer": "武部聡志",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 22.306,
+      "time_str": "00:22.306",
+      "text": "阳光中 风筝断了线",
+      "translation": null
+    },
+    {
+      "time": 27.948,
+      "time_str": "00:27.948",
+      "text": "往事般 落在我面前",
+      "translation": null
+    },
+    {
+      "time": 33.597,
+      "time_str": "00:33.597",
+      "text": "那是谁 忘了放风筝握紧一点",
+      "translation": null
+    },
+    {
+      "time": 39.278,
+      "time_str": "00:39.278",
+      "text": "捡起了 那年的秋天",
+      "translation": null
+    },
+    {
+      "time": 44.883,
+      "time_str": "00:44.883",
+      "text": "阳光中 我住雨里面",
+      "translation": null
+    },
+    {
+      "time": 50.514,
+      "time_str": "00:50.514",
+      "text": "你给我 风筝和蓝天",
+      "translation": null
+    },
+    {
+      "time": 56.146,
+      "time_str": "00:56.146",
+      "text": "那是我 忘了将幸福握紧一点",
+      "translation": null
+    },
+    {
+      "time": 62.234,
+      "time_str": "01:02.234",
+      "text": "感谢你 最后的相约",
+      "translation": null
+    },
+    {
+      "time": 70.328,
+      "time_str": "01:10.328",
+      "text": "等一个晴天 我们会再相见",
+      "translation": null
+    },
+    {
+      "time": 76.013,
+      "time_str": "01:16.013",
+      "text": "你说了 风吹我就听见",
+      "translation": null
+    },
+    {
+      "time": 81.906,
+      "time_str": "01:21.906",
+      "text": "笑着说再见 就一定会再见",
+      "translation": null
+    },
+    {
+      "time": 87.24,
+      "time_str": "01:27.240",
+      "text": "心晴朗 就看得到永远",
+      "translation": null
+    },
+    {
+      "time": 104.193,
+      "time_str": "01:44.193",
+      "text": "阳光在 抚摸我的脸",
+      "translation": null
+    },
+    {
+      "time": 110.06,
+      "time_str": "01:50.060",
+      "text": "感觉到 你还在身边",
+      "translation": null
+    },
+    {
+      "time": 115.434,
+      "time_str": "01:55.434",
+      "text": "那是秋 牵回忆的手温暖一点",
+      "translation": null
+    },
+    {
+      "time": 121.17,
+      "time_str": "02:01.170",
+      "text": "我独自 散步在昨天",
+      "translation": null
+    },
+    {
+      "time": 126.823,
+      "time_str": "02:06.823",
+      "text": "阳光在 照亮你的脸",
+      "translation": null
+    },
+    {
+      "time": 132.446,
+      "time_str": "02:12.446",
+      "text": "难忘你 微笑的双眼",
+      "translation": null
+    },
+    {
+      "time": 138.322,
+      "time_str": "02:18.322",
+      "text": "那是你 让离别可以晴朗一点",
+      "translation": null
+    },
+    {
+      "time": 144.08,
+      "time_str": "02:24.080",
+      "text": "你背影我目送到今天",
+      "translation": null
+    },
+    {
+      "time": 152.487,
+      "time_str": "02:32.487",
+      "text": "等一个晴天 我们会再相见",
+      "translation": null
+    },
+    {
+      "time": 157.822,
+      "time_str": "02:37.822",
+      "text": "你说了 风吹我就听见",
+      "translation": null
+    },
+    {
+      "time": 163.447,
+      "time_str": "02:43.447",
+      "text": "笑着说再见 就一定会再见",
+      "translation": null
+    },
+    {
+      "time": 169.095,
+      "time_str": "02:49.095",
+      "text": "心晴朗 就看得到永远",
+      "translation": null
+    },
+    {
+      "time": 197.273,
+      "time_str": "03:17.273",
+      "text": "等一个晴天 我们会再相见",
+      "translation": null
+    },
+    {
+      "time": 202.99,
+      "time_str": "03:22.990",
+      "text": "你说了 风吹我就听见",
+      "translation": null
+    },
+    {
+      "time": 208.933,
+      "time_str": "03:28.933",
+      "text": "笑着说再见 就一定会再见",
+      "translation": null
+    },
+    {
+      "time": 214.265,
+      "time_str": "03:34.265",
+      "text": "心晴朗 就看得到永远",
+      "translation": null
+    },
+    {
+      "time": 220.241,
+      "time_str": "03:40.241",
+      "text": "因为很想念 每天都是晴天",
+      "translation": null
+    },
+    {
+      "time": 225.572,
+      "time_str": "03:45.572",
+      "text": "心晴朗 就看到永远",
+      "translation": null
+    },
+    {
+      "time": 231.226,
+      "time_str": "03:51.226",
+      "text": "阳光中 风筝飞上天",
+      "translation": null
+    },
+    {
+      "time": 236.844,
+      "time_str": "03:56.844",
+      "text": "你笑着 回到我面前",
+      "translation": null
+    },
+    {
+      "time": 242.492,
+      "time_str": "04:02.492",
+      "text": "让我像 那风筝贴着天空的脸",
+      "translation": null
+    },
+    {
+      "time": 248.585,
+      "time_str": "04:08.585",
+      "text": "让爱是今生不断的线",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "等一个晴天 - 蔡淳佳.lrc"
+}

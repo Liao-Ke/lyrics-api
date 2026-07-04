@@ -1,0 +1,220 @@
+{
+  "title": "天黑",
+  "title_raw": "天黑",
+  "version": null,
+  "artist": "阿杜",
+  "group_key": "天黑|阿杜",
+  "writers": {
+    "lyricist": "林秋离",
+    "composer": "洪典",
+    "arranger": "梁定江"
+  },
+  "lyrics": [
+    {
+      "time": 23.17,
+      "time_str": "00:23.170",
+      "text": "风若停了云要怎么飞",
+      "translation": null
+    },
+    {
+      "time": 29.17,
+      "time_str": "00:29.170",
+      "text": "你若走了我要怎么睡",
+      "translation": null
+    },
+    {
+      "time": 34.83,
+      "time_str": "00:34.830",
+      "text": "心若破了你要怎么赔",
+      "translation": null
+    },
+    {
+      "time": 39.3,
+      "time_str": "00:39.300",
+      "text": "若非你只是贪玩的蝴蝶",
+      "translation": null
+    },
+    {
+      "time": 52.23,
+      "time_str": "00:52.230",
+      "text": "天都黑了你在想着谁",
+      "translation": null
+    },
+    {
+      "time": 58.08,
+      "time_str": "00:58.080",
+      "text": "情都灭了我要怎么追",
+      "translation": null
+    },
+    {
+      "time": 63.56,
+      "time_str": "01:03.560",
+      "text": "话都说了你要怎么退",
+      "translation": null
+    },
+    {
+      "time": 68.22,
+      "time_str": "01:08.220",
+      "text": "原来你只会让我掉眼泪",
+      "translation": null
+    },
+    {
+      "time": 81.25,
+      "time_str": "01:21.250",
+      "text": "整个世界突然一起天黑",
+      "translation": null
+    },
+    {
+      "time": 87.71,
+      "time_str": "01:27.710",
+      "text": "爱在眼前无声崩溃",
+      "translation": null
+    },
+    {
+      "time": 93.38,
+      "time_str": "01:33.380",
+      "text": "摔成粉碎",
+      "translation": null
+    },
+    {
+      "time": 98.92,
+      "time_str": "01:38.920",
+      "text": "我闭上眼睛就是天黑",
+      "translation": null
+    },
+    {
+      "time": 103.65,
+      "time_str": "01:43.650",
+      "text": "一种撕裂的感觉",
+      "translation": null
+    },
+    {
+      "time": 110.86,
+      "time_str": "01:50.860",
+      "text": "嘴里泛着血腥滋味",
+      "translation": null
+    },
+    {
+      "time": 115.07,
+      "time_str": "01:55.070",
+      "text": "多么伤的离别",
+      "translation": null
+    },
+    {
+      "time": 121.95,
+      "time_str": "02:01.950",
+      "text": "我承认我最害怕天黑",
+      "translation": null
+    },
+    {
+      "time": 126.71,
+      "time_str": "02:06.710",
+      "text": "梦被掏空的错觉",
+      "translation": null
+    },
+    {
+      "time": 133.81,
+      "time_str": "02:13.810",
+      "text": "我已不再是你的谁",
+      "translation": null
+    },
+    {
+      "time": 138.09,
+      "time_str": "02:18.090",
+      "text": "想到就会心碎",
+      "translation": null
+    },
+    {
+      "time": 159.14,
+      "time_str": "02:39.140",
+      "text": "天都黑了你在想着谁",
+      "translation": null
+    },
+    {
+      "time": 164.67,
+      "time_str": "02:44.670",
+      "text": "情都灭了我要怎么追",
+      "translation": null
+    },
+    {
+      "time": 170.47,
+      "time_str": "02:50.470",
+      "text": "话都说了你要怎么退",
+      "translation": null
+    },
+    {
+      "time": 175.13,
+      "time_str": "02:55.130",
+      "text": "原来你只会让我掉眼泪",
+      "translation": null
+    },
+    {
+      "time": 185.51,
+      "time_str": "03:05.510",
+      "text": "我闭上眼睛就是天黑",
+      "translation": null
+    },
+    {
+      "time": 190.23,
+      "time_str": "03:10.230",
+      "text": "一种撕裂的感觉",
+      "translation": null
+    },
+    {
+      "time": 197.45,
+      "time_str": "03:17.450",
+      "text": "嘴里泛着血腥滋味",
+      "translation": null
+    },
+    {
+      "time": 201.82,
+      "time_str": "03:21.820",
+      "text": "多么伤的离别",
+      "translation": null
+    },
+    {
+      "time": 208.75,
+      "time_str": "03:28.750",
+      "text": "我承认我最害怕天黑",
+      "translation": null
+    },
+    {
+      "time": 213.49,
+      "time_str": "03:33.490",
+      "text": "梦被掏空的错觉",
+      "translation": null
+    },
+    {
+      "time": 220.52,
+      "time_str": "03:40.520",
+      "text": "我已不再是你的谁",
+      "translation": null
+    },
+    {
+      "time": 225.34,
+      "time_str": "03:45.340",
+      "text": "想到都会心碎",
+      "translation": null
+    },
+    {
+      "time": 234.27,
+      "time_str": "03:54.270",
+      "text": "风若停了云要怎么飞",
+      "translation": null
+    },
+    {
+      "time": 239.96,
+      "time_str": "03:59.960",
+      "text": "你若走了我要怎么睡",
+      "translation": null
+    },
+    {
+      "time": 245.54,
+      "time_str": "04:05.540",
+      "text": "心若破了你要怎么赔",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天黑 - 阿杜.lrc"
+}

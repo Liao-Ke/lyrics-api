@@ -1,0 +1,244 @@
+{
+  "title": "试音方程式",
+  "title_raw": "试音方程式",
+  "version": null,
+  "artist": "群星",
+  "group_key": "试音方程式|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.12,
+      "time_str": "00:00.120",
+      "text": "梁祝",
+      "translation": null
+    },
+    {
+      "time": 16.12,
+      "time_str": "00:16.120",
+      "text": "SWEETY",
+      "translation": null
+    },
+    {
+      "time": 27.12,
+      "time_str": "00:27.120",
+      "text": "凝鱼",
+      "translation": null
+    },
+    {
+      "time": 38.12,
+      "time_str": "00:38.120",
+      "text": "沉默了几世纪",
+      "translation": null
+    },
+    {
+      "time": 40.42,
+      "time_str": "00:40.420",
+      "text": "没放弃  逆转的宿命",
+      "translation": null
+    },
+    {
+      "time": 44.42,
+      "time_str": "00:44.420",
+      "text": "蝴蝶恋的传奇",
+      "translation": null
+    },
+    {
+      "time": 47.42,
+      "time_str": "00:47.420",
+      "text": "势多必写满了贪心",
+      "translation": null
+    },
+    {
+      "time": 51.42,
+      "time_str": "00:51.420",
+      "text": "跨越百年距离",
+      "translation": null
+    },
+    {
+      "time": 54.42,
+      "time_str": "00:54.420",
+      "text": "多努力  想改这剧情",
+      "translation": null
+    },
+    {
+      "time": 58.42,
+      "time_str": "00:58.420",
+      "text": "却不能在  情人名字  名字都不行",
+      "translation": null
+    },
+    {
+      "time": 68.42,
+      "time_str": "01:08.420",
+      "text": "这故事失落到你无从说起",
+      "translation": null
+    },
+    {
+      "time": 70.42,
+      "time_str": "01:10.420",
+      "text": "时间全都成风景",
+      "translation": null
+    },
+    {
+      "time": 71.42,
+      "time_str": "01:11.420",
+      "text": "不甘心还要回到黄泉哭泣",
+      "translation": null
+    },
+    {
+      "time": 75.42,
+      "time_str": "01:15.420",
+      "text": "我不相信",
+      "translation": null
+    },
+    {
+      "time": 78.42,
+      "time_str": "01:18.420",
+      "text": "时间全都成风景",
+      "translation": null
+    },
+    {
+      "time": 79.42,
+      "time_str": "01:19.420",
+      "text": "你却还在我心里",
+      "translation": null
+    },
+    {
+      "time": 82.42,
+      "time_str": "01:22.420",
+      "text": "我该怎么昏迷",
+      "translation": null
+    },
+    {
+      "time": 84.42,
+      "time_str": "01:24.420",
+      "text": "我们说好的约定",
+      "translation": null
+    },
+    {
+      "time": 85.42,
+      "time_str": "01:25.420",
+      "text": "爱的上演的悲剧",
+      "translation": null
+    },
+    {
+      "time": 86.42,
+      "time_str": "01:26.420",
+      "text": "是我不变的定律",
+      "translation": null
+    },
+    {
+      "time": 88.42,
+      "time_str": "01:28.420",
+      "text": "但我只能悄悄的碎了颗心",
+      "translation": null
+    },
+    {
+      "time": 93.42,
+      "time_str": "01:33.420",
+      "text": "你却还在我心里",
+      "translation": null
+    },
+    {
+      "time": 96.42,
+      "time_str": "01:36.420",
+      "text": "我该怎么昏迷",
+      "translation": null
+    },
+    {
+      "time": 98.42,
+      "time_str": "01:38.420",
+      "text": "我们说好的约定",
+      "translation": null
+    },
+    {
+      "time": 99.42,
+      "time_str": "01:39.420",
+      "text": "深呼吸你的字迹",
+      "translation": null
+    },
+    {
+      "time": 100.42,
+      "time_str": "01:40.420",
+      "text": "有勇气和你一起",
+      "translation": null
+    },
+    {
+      "time": 102.42,
+      "time_str": "01:42.420",
+      "text": "希望只能和你",
+      "translation": null
+    },
+    {
+      "time": 104.42,
+      "time_str": "01:44.420",
+      "text": "成为他人的情",
+      "translation": null
+    },
+    {
+      "time": 150.12,
+      "time_str": "02:30.120",
+      "text": "沉默了几世纪",
+      "translation": null
+    },
+    {
+      "time": 152.12,
+      "time_str": "02:32.120",
+      "text": "没放弃  逆转的宿命",
+      "translation": null
+    },
+    {
+      "time": 156.12,
+      "time_str": "02:36.120",
+      "text": "蝴蝶恋的传奇",
+      "translation": null
+    },
+    {
+      "time": 159.12,
+      "time_str": "02:39.120",
+      "text": "势多必写满了贪心",
+      "translation": null
+    },
+    {
+      "time": 163.12,
+      "time_str": "02:43.120",
+      "text": "跨越百年距离",
+      "translation": null
+    },
+    {
+      "time": 166.12,
+      "time_str": "02:46.120",
+      "text": "多努力  想改这剧情",
+      "translation": null
+    },
+    {
+      "time": 170.12,
+      "time_str": "02:50.120",
+      "text": "却不能在  情人名字  名字都不行",
+      "translation": null
+    },
+    {
+      "time": 180.12,
+      "time_str": "03:00.120",
+      "text": "这故事失落到你无从说起",
+      "translation": null
+    },
+    {
+      "time": 183.12,
+      "time_str": "03:03.120",
+      "text": "不甘心还要回到黄泉哭泣",
+      "translation": null
+    },
+    {
+      "time": 187.12,
+      "time_str": "03:07.120",
+      "text": "我不相信",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "试音方程式 - 群星.lrc"
+}

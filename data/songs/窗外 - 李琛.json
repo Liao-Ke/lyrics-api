@@ -1,0 +1,274 @@
+{
+  "title": "窗外",
+  "title_raw": "窗外",
+  "version": null,
+  "artist": "李琛",
+  "group_key": "窗外|李琛",
+  "writers": {
+    "lyricist": "牛朝阳",
+    "composer": "牛朝阳",
+    "arranger": "张宏光"
+  },
+  "lyrics": [
+    {
+      "time": 28.94,
+      "time_str": "00:28.940",
+      "text": "今夜我又来到你的窗外",
+      "translation": null
+    },
+    {
+      "time": 33.31,
+      "time_str": "00:33.310",
+      "text": "窗帘上你的影子多么可爱",
+      "translation": null
+    },
+    {
+      "time": 38.42,
+      "time_str": "00:38.420",
+      "text": "悄悄的爱过你这么多年",
+      "translation": null
+    },
+    {
+      "time": 42.87,
+      "time_str": "00:42.870",
+      "text": "明天我就要离开",
+      "translation": null
+    },
+    {
+      "time": 47.62,
+      "time_str": "00:47.620",
+      "text": "多少回我来到你的窗外",
+      "translation": null
+    },
+    {
+      "time": 52.36,
+      "time_str": "00:52.360",
+      "text": "也曾想敲敲门叫你出来",
+      "translation": null
+    },
+    {
+      "time": 56.7,
+      "time_str": "00:56.700",
+      "text": "想一想你的美丽",
+      "translation": null
+    },
+    {
+      "time": 59.31,
+      "time_str": "00:59.310",
+      "text": "我的平凡",
+      "translation": null
+    },
+    {
+      "time": 61.47,
+      "time_str": "01:01.470",
+      "text": "一次次默默走开",
+      "translation": null
+    },
+    {
+      "time": 66.15,
+      "time_str": "01:06.150",
+      "text": "再见了心爱的梦中女孩",
+      "translation": null
+    },
+    {
+      "time": 70.92,
+      "time_str": "01:10.920",
+      "text": "我将要去远方寻找未来",
+      "translation": null
+    },
+    {
+      "time": 75.3,
+      "time_str": "01:15.300",
+      "text": "假如我有一天荣归故里",
+      "translation": null
+    },
+    {
+      "time": 79.63,
+      "time_str": "01:19.630",
+      "text": "再到你窗外诉说情怀",
+      "translation": null
+    },
+    {
+      "time": 84.51,
+      "time_str": "01:24.510",
+      "text": "再见了心爱的梦中女孩",
+      "translation": null
+    },
+    {
+      "time": 89.39,
+      "time_str": "01:29.390",
+      "text": "对着你的影子说声珍重",
+      "translation": null
+    },
+    {
+      "time": 93.93,
+      "time_str": "01:33.930",
+      "text": "假如我永远不再回来",
+      "translation": null
+    },
+    {
+      "time": 97.99,
+      "time_str": "01:37.990",
+      "text": "就让月亮守在你窗外",
+      "translation": null
+    },
+    {
+      "time": 121.25,
+      "time_str": "02:01.250",
+      "text": "今夜我又来到你的窗外",
+      "translation": null
+    },
+    {
+      "time": 125.32,
+      "time_str": "02:05.320",
+      "text": "窗帘上你的影子多么可爱",
+      "translation": null
+    },
+    {
+      "time": 130.87,
+      "time_str": "02:10.870",
+      "text": "悄悄的爱过你这么多年",
+      "translation": null
+    },
+    {
+      "time": 135.0,
+      "time_str": "02:15.000",
+      "text": "明天我就要离开",
+      "translation": null
+    },
+    {
+      "time": 139.51,
+      "time_str": "02:19.510",
+      "text": "多少回我来到你的窗外",
+      "translation": null
+    },
+    {
+      "time": 144.24,
+      "time_str": "02:24.240",
+      "text": "也曾想敲敲门叫你出来",
+      "translation": null
+    },
+    {
+      "time": 148.82,
+      "time_str": "02:28.820",
+      "text": "想一想你的美丽",
+      "translation": null
+    },
+    {
+      "time": 151.14,
+      "time_str": "02:31.140",
+      "text": "我的平凡",
+      "translation": null
+    },
+    {
+      "time": 153.38,
+      "time_str": "02:33.380",
+      "text": "一次次默默走开",
+      "translation": null
+    },
+    {
+      "time": 157.58,
+      "time_str": "02:37.580",
+      "text": "再见了心爱的梦中女孩",
+      "translation": null
+    },
+    {
+      "time": 162.57,
+      "time_str": "02:42.570",
+      "text": "我将要去远方寻找未来",
+      "translation": null
+    },
+    {
+      "time": 166.72,
+      "time_str": "02:46.720",
+      "text": "假如我有一天荣归故里",
+      "translation": null
+    },
+    {
+      "time": 171.16,
+      "time_str": "02:51.160",
+      "text": "再到你窗外诉说情怀",
+      "translation": null
+    },
+    {
+      "time": 175.84,
+      "time_str": "02:55.840",
+      "text": "再见了心爱的梦中女孩",
+      "translation": null
+    },
+    {
+      "time": 180.45,
+      "time_str": "03:00.450",
+      "text": "对着你的影子说声珍重",
+      "translation": null
+    },
+    {
+      "time": 185.26,
+      "time_str": "03:05.260",
+      "text": "假如我永远不再回来",
+      "translation": null
+    },
+    {
+      "time": 189.35,
+      "time_str": "03:09.350",
+      "text": "就让月亮守在你窗外",
+      "translation": null
+    },
+    {
+      "time": 194.13,
+      "time_str": "03:14.130",
+      "text": "再见了心爱的梦中女孩",
+      "translation": null
+    },
+    {
+      "time": 199.02,
+      "time_str": "03:19.020",
+      "text": "我将要去远方寻找未来",
+      "translation": null
+    },
+    {
+      "time": 203.67,
+      "time_str": "03:23.670",
+      "text": "假如我有一天荣归故里",
+      "translation": null
+    },
+    {
+      "time": 207.76,
+      "time_str": "03:27.760",
+      "text": "再到你窗外诉说情怀",
+      "translation": null
+    },
+    {
+      "time": 212.8,
+      "time_str": "03:32.800",
+      "text": "再见了心爱的梦中女孩",
+      "translation": null
+    },
+    {
+      "time": 217.51,
+      "time_str": "03:37.510",
+      "text": "对着你的影子说声珍重",
+      "translation": null
+    },
+    {
+      "time": 221.93,
+      "time_str": "03:41.930",
+      "text": "假如我永远不再回来",
+      "translation": null
+    },
+    {
+      "time": 225.99,
+      "time_str": "03:45.990",
+      "text": "就让月亮守在你窗外",
+      "translation": null
+    },
+    {
+      "time": 230.78,
+      "time_str": "03:50.780",
+      "text": "就让月亮守在你窗外",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "窗外 - 李琛.lrc"
+}

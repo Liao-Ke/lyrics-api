@@ -1,0 +1,322 @@
+{
+  "title": "沦陷",
+  "title_raw": "沦陷",
+  "version": null,
+  "artist": "王靖雯不胖",
+  "group_key": "沦陷|王靖雯不胖",
+  "writers": {
+    "lyricist": "乔与",
+    "composer": "楚明玉",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.28,
+      "time_str": "00:16.280",
+      "text": "你走之后整个世界",
+      "translation": null
+    },
+    {
+      "time": 20.32,
+      "time_str": "00:20.320",
+      "text": "像是期待黎明的黑夜",
+      "translation": null
+    },
+    {
+      "time": 23.5,
+      "time_str": "00:23.500",
+      "text": "我被自己封锁",
+      "translation": null
+    },
+    {
+      "time": 25.97,
+      "time_str": "00:25.970",
+      "text": "在第五个不存在的季节",
+      "translation": null
+    },
+    {
+      "time": 30.37,
+      "time_str": "00:30.370",
+      "text": "剪下了翅膀的蝴蝶",
+      "translation": null
+    },
+    {
+      "time": 34.86,
+      "time_str": "00:34.860",
+      "text": "只能选择和玫瑰告别",
+      "translation": null
+    },
+    {
+      "time": 38.3,
+      "time_str": "00:38.300",
+      "text": "我没想过后果",
+      "translation": null
+    },
+    {
+      "time": 39.97,
+      "time_str": "00:39.970",
+      "text": "以为你就是我爱的一切",
+      "translation": null
+    },
+    {
+      "time": 44.41,
+      "time_str": "00:44.410",
+      "text": "出现在 小说电影的桥段",
+      "translation": null
+    },
+    {
+      "time": 49.51,
+      "time_str": "00:49.510",
+      "text": "镜头下拥抱 分开的画面",
+      "translation": null
+    },
+    {
+      "time": 53.0,
+      "time_str": "00:53.000",
+      "text": "回忆情节 重合明显",
+      "translation": null
+    },
+    {
+      "time": 56.38,
+      "time_str": "00:56.380",
+      "text": "模糊了从前",
+      "translation": null
+    },
+    {
+      "time": 61.139,
+      "time_str": "01:01.139",
+      "text": "我的爱 滴滴点点",
+      "translation": null
+    },
+    {
+      "time": 63.569,
+      "time_str": "01:03.569",
+      "text": "圆圆圈圈 像断了线",
+      "translation": null
+    },
+    {
+      "time": 65.84,
+      "time_str": "01:05.840",
+      "text": "你曾经 心心念念 信誓旦旦",
+      "translation": null
+    },
+    {
+      "time": 69.48,
+      "time_str": "01:09.480",
+      "text": "时间 改变 昨天 所以",
+      "translation": null
+    },
+    {
+      "time": 73.37,
+      "time_str": "01:13.370",
+      "text": "爱会消失不见",
+      "translation": null
+    },
+    {
+      "time": 76.099,
+      "time_str": "01:16.099",
+      "text": "我的心 明明暗暗",
+      "translation": null
+    },
+    {
+      "time": 78.17,
+      "time_str": "01:18.170",
+      "text": "零零散散 缺氧搁浅",
+      "translation": null
+    },
+    {
+      "time": 80.59,
+      "time_str": "01:20.590",
+      "text": "你带走 我的呼吸 不顾不管",
+      "translation": null
+    },
+    {
+      "time": 84.23,
+      "time_str": "01:24.230",
+      "text": "爱沦陷在边缘 等待救援",
+      "translation": null
+    },
+    {
+      "time": 103.218,
+      "time_str": "01:43.218",
+      "text": "你走之后整个世界",
+      "translation": null
+    },
+    {
+      "time": 107.209,
+      "time_str": "01:47.209",
+      "text": "像是期待黎明的黑夜",
+      "translation": null
+    },
+    {
+      "time": 110.25,
+      "time_str": "01:50.250",
+      "text": "我被自己封锁",
+      "translation": null
+    },
+    {
+      "time": 112.468,
+      "time_str": "01:52.468",
+      "text": "在第五个不存在的季节",
+      "translation": null
+    },
+    {
+      "time": 117.438,
+      "time_str": "01:57.438",
+      "text": "剪下了翅膀的蝴蝶",
+      "translation": null
+    },
+    {
+      "time": 121.68,
+      "time_str": "02:01.680",
+      "text": "只能选择和玫瑰告别",
+      "translation": null
+    },
+    {
+      "time": 125.069,
+      "time_str": "02:05.069",
+      "text": "我没想过后果",
+      "translation": null
+    },
+    {
+      "time": 126.638,
+      "time_str": "02:06.638",
+      "text": "以为你就是我爱的一切",
+      "translation": null
+    },
+    {
+      "time": 131.53,
+      "time_str": "02:11.530",
+      "text": "出现在 小说电影的桥段",
+      "translation": null
+    },
+    {
+      "time": 136.22,
+      "time_str": "02:16.220",
+      "text": "镜头下拥抱 分开的画面",
+      "translation": null
+    },
+    {
+      "time": 139.81,
+      "time_str": "02:19.810",
+      "text": "回忆情节 重合明显",
+      "translation": null
+    },
+    {
+      "time": 143.399,
+      "time_str": "02:23.399",
+      "text": "模糊了从前",
+      "translation": null
+    },
+    {
+      "time": 146.079,
+      "time_str": "02:26.079",
+      "text": "我的爱 滴滴点点",
+      "translation": null
+    },
+    {
+      "time": 148.399,
+      "time_str": "02:28.399",
+      "text": "圆圆圈圈 像断了线",
+      "translation": null
+    },
+    {
+      "time": 150.829,
+      "time_str": "02:30.829",
+      "text": "你曾经 心心念念 信誓旦旦",
+      "translation": null
+    },
+    {
+      "time": 154.319,
+      "time_str": "02:34.319",
+      "text": "时间 改变 昨天 所以",
+      "translation": null
+    },
+    {
+      "time": 158.259,
+      "time_str": "02:38.259",
+      "text": "爱会消失不见",
+      "translation": null
+    },
+    {
+      "time": 161.139,
+      "time_str": "02:41.139",
+      "text": "我的心 明明暗暗",
+      "translation": null
+    },
+    {
+      "time": 163.16,
+      "time_str": "02:43.160",
+      "text": "零零散散 缺氧搁浅",
+      "translation": null
+    },
+    {
+      "time": 165.539,
+      "time_str": "02:45.539",
+      "text": "你带走 我的呼吸 不顾不管",
+      "translation": null
+    },
+    {
+      "time": 169.079,
+      "time_str": "02:49.079",
+      "text": "爱沦陷在边缘 等待救援",
+      "translation": null
+    },
+    {
+      "time": 175.569,
+      "time_str": "02:55.569",
+      "text": "我的爱 滴滴点点",
+      "translation": null
+    },
+    {
+      "time": 177.949,
+      "time_str": "02:57.949",
+      "text": "圆圆圈圈 像断了线",
+      "translation": null
+    },
+    {
+      "time": 180.319,
+      "time_str": "03:00.319",
+      "text": "你曾经 心心念念 信誓旦旦",
+      "translation": null
+    },
+    {
+      "time": 183.81,
+      "time_str": "03:03.810",
+      "text": "时间 改变 昨天 所以",
+      "translation": null
+    },
+    {
+      "time": 187.81,
+      "time_str": "03:07.810",
+      "text": "爱会消失不见",
+      "translation": null
+    },
+    {
+      "time": 190.539,
+      "time_str": "03:10.539",
+      "text": "我的心 明明暗暗",
+      "translation": null
+    },
+    {
+      "time": 192.609,
+      "time_str": "03:12.609",
+      "text": "零零散散 缺氧搁浅",
+      "translation": null
+    },
+    {
+      "time": 195.149,
+      "time_str": "03:15.149",
+      "text": "你带走 我的呼吸 不顾不管",
+      "translation": null
+    },
+    {
+      "time": 198.689,
+      "time_str": "03:18.689",
+      "text": "爱沦陷在边缘 等待救援",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "沦陷 - 王靖雯不胖.lrc"
+}

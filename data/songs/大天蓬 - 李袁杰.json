@@ -1,0 +1,262 @@
+{
+  "title": "大天蓬",
+  "title_raw": "大天蓬",
+  "version": null,
+  "artist": "李袁杰",
+  "group_key": "大天蓬|李袁杰",
+  "writers": {
+    "lyricist": "宋雪苍/李袁杰",
+    "composer": "李袁杰",
+    "arranger": "刘旭阳"
+  },
+  "lyrics": [
+    {
+      "time": 8.53,
+      "time_str": "00:08.530",
+      "text": "经纪人：方国庆",
+      "translation": null
+    },
+    {
+      "time": 9.76,
+      "time_str": "00:09.760",
+      "text": "企划人：王烨扬",
+      "translation": null
+    },
+    {
+      "time": 12.24,
+      "time_str": "00:12.240",
+      "text": "发行人：桑爱",
+      "translation": null
+    },
+    {
+      "time": 13.35,
+      "time_str": "00:13.350",
+      "text": "出品人：桑爱/刘凯",
+      "translation": null
+    },
+    {
+      "time": 14.58,
+      "time_str": "00:14.580",
+      "text": "电影片方：北京麦堂娱乐传媒有限公司",
+      "translation": null
+    },
+    {
+      "time": 15.88,
+      "time_str": "00:15.880",
+      "text": "发行方：北京看见文娱文化有限公司",
+      "translation": null
+    },
+    {
+      "time": 17.02,
+      "time_str": "00:17.020",
+      "text": "出品方：北京看见文娱文化有限公司",
+      "translation": null
+    },
+    {
+      "time": 27.18,
+      "time_str": "00:27.180",
+      "text": "美人不是凡胎生",
+      "translation": null
+    },
+    {
+      "time": 32.92,
+      "time_str": "00:32.920",
+      "text": "应是仙器灵长成",
+      "translation": null
+    },
+    {
+      "time": 38.86,
+      "time_str": "00:38.860",
+      "text": "既然你是神兵",
+      "translation": null
+    },
+    {
+      "time": 42.25,
+      "time_str": "00:42.250",
+      "text": "为何比我更多情",
+      "translation": null
+    },
+    {
+      "time": 45.5,
+      "time_str": "00:45.500",
+      "text": "深深伤的却是你",
+      "translation": null
+    },
+    {
+      "time": 51.76,
+      "time_str": "00:51.760",
+      "text": "六曜五星配红妆",
+      "translation": null
+    },
+    {
+      "time": 57.48,
+      "time_str": "00:57.480",
+      "text": "此生虽短情意长",
+      "translation": null
+    },
+    {
+      "time": 63.5,
+      "time_str": "01:03.500",
+      "text": "惹得天怒地也恼",
+      "translation": null
+    },
+    {
+      "time": 66.61,
+      "time_str": "01:06.610",
+      "text": "人间再无红颜笑",
+      "translation": null
+    },
+    {
+      "time": 70.18,
+      "time_str": "01:10.180",
+      "text": "留一半相思上大道",
+      "translation": null
+    },
+    {
+      "time": 75.78,
+      "time_str": "01:15.780",
+      "text": "怕什么天道轮回",
+      "translation": null
+    },
+    {
+      "time": 79.09,
+      "time_str": "01:19.090",
+      "text": "什么魄散魂飞",
+      "translation": null
+    },
+    {
+      "time": 82.52,
+      "time_str": "01:22.520",
+      "text": "若没有你那才叫可悲",
+      "translation": null
+    },
+    {
+      "time": 87.85,
+      "time_str": "01:27.850",
+      "text": "怕什么西行无归",
+      "translation": null
+    },
+    {
+      "time": 91.6,
+      "time_str": "01:31.600",
+      "text": "什么事与愿违",
+      "translation": null
+    },
+    {
+      "time": 94.95,
+      "time_str": "01:34.950",
+      "text": "这一世换我护你一对",
+      "translation": null
+    },
+    {
+      "time": 125.22,
+      "time_str": "02:05.220",
+      "text": "六曜五星配红妆",
+      "translation": null
+    },
+    {
+      "time": 131.31,
+      "time_str": "02:11.310",
+      "text": "此生虽短情意长",
+      "translation": null
+    },
+    {
+      "time": 137.63,
+      "time_str": "02:17.630",
+      "text": "惹得天怒地也恼",
+      "translation": null
+    },
+    {
+      "time": 140.65,
+      "time_str": "02:20.650",
+      "text": "人间再无红颜笑",
+      "translation": null
+    },
+    {
+      "time": 143.79,
+      "time_str": "02:23.790",
+      "text": "留一半相思上大道",
+      "translation": null
+    },
+    {
+      "time": 149.51,
+      "time_str": "02:29.510",
+      "text": "怕什么天道轮回",
+      "translation": null
+    },
+    {
+      "time": 152.72,
+      "time_str": "02:32.720",
+      "text": "什么魄散魂飞",
+      "translation": null
+    },
+    {
+      "time": 156.29,
+      "time_str": "02:36.290",
+      "text": "若没有你那才叫可悲",
+      "translation": null
+    },
+    {
+      "time": 161.75,
+      "time_str": "02:41.750",
+      "text": "怕什么西行无归",
+      "translation": null
+    },
+    {
+      "time": 165.05,
+      "time_str": "02:45.050",
+      "text": "什么事与愿违",
+      "translation": null
+    },
+    {
+      "time": 168.73,
+      "time_str": "02:48.730",
+      "text": "这一世换我护你一对",
+      "translation": null
+    },
+    {
+      "time": 186.68,
+      "time_str": "03:06.680",
+      "text": "怕什么天道轮回",
+      "translation": null
+    },
+    {
+      "time": 189.96,
+      "time_str": "03:09.960",
+      "text": "什么魄散魂飞",
+      "translation": null
+    },
+    {
+      "time": 193.51,
+      "time_str": "03:13.510",
+      "text": "若没有你那才叫可悲",
+      "translation": null
+    },
+    {
+      "time": 198.85,
+      "time_str": "03:18.850",
+      "text": "怕什么西行无归",
+      "translation": null
+    },
+    {
+      "time": 202.04,
+      "time_str": "03:22.040",
+      "text": "什么事与愿违",
+      "translation": null
+    },
+    {
+      "time": 205.66,
+      "time_str": "03:25.660",
+      "text": "这一世换我护你一对",
+      "translation": null
+    },
+    {
+      "time": 211.84,
+      "time_str": "03:31.840",
+      "text": "这一世换我护你一对",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "大天蓬 - 李袁杰.lrc"
+}

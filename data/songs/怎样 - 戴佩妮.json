@@ -1,0 +1,442 @@
+{
+  "title": "怎样",
+  "title_raw": "怎样",
+  "version": null,
+  "artist": "戴佩妮",
+  "group_key": "怎样|戴佩妮",
+  "writers": {
+    "lyricist": "戴佩妮",
+    "composer": "戴佩妮",
+    "arranger": "Andy Peterson/Jamie Willson/李守信/黄中岳/吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 20.71,
+      "time_str": "00:20.710",
+      "text": "我这里天快要黑了",
+      "translation": null
+    },
+    {
+      "time": 23.25,
+      "time_str": "00:23.250",
+      "text": "那里呢",
+      "translation": null
+    },
+    {
+      "time": 28.32,
+      "time_str": "00:28.320",
+      "text": "我这里天气凉凉的",
+      "translation": null
+    },
+    {
+      "time": 31.48,
+      "time_str": "00:31.480",
+      "text": "那里呢",
+      "translation": null
+    },
+    {
+      "time": 35.5,
+      "time_str": "00:35.500",
+      "text": "我这里一切都变了",
+      "translation": null
+    },
+    {
+      "time": 40.58,
+      "time_str": "00:40.580",
+      "text": "我变得懂事了",
+      "translation": null
+    },
+    {
+      "time": 43.77,
+      "time_str": "00:43.770",
+      "text": "我又开始写日记了",
+      "translation": null
+    },
+    {
+      "time": 46.81,
+      "time_str": "00:46.810",
+      "text": "而那你呢",
+      "translation": null
+    },
+    {
+      "time": 52.79,
+      "time_str": "00:52.790",
+      "text": "我这里天快要亮了",
+      "translation": null
+    },
+    {
+      "time": 55.48,
+      "time_str": "00:55.480",
+      "text": "那里呢",
+      "translation": null
+    },
+    {
+      "time": 60.51,
+      "time_str": "01:00.510",
+      "text": "我这里天气很炎热",
+      "translation": null
+    },
+    {
+      "time": 63.46,
+      "time_str": "01:03.460",
+      "text": "那里呢",
+      "translation": null
+    },
+    {
+      "time": 67.69,
+      "time_str": "01:07.690",
+      "text": "我这里一切都变了",
+      "translation": null
+    },
+    {
+      "time": 72.33,
+      "time_str": "01:12.330",
+      "text": "我变得不哭了",
+      "translation": null
+    },
+    {
+      "time": 75.56,
+      "time_str": "01:15.560",
+      "text": "我把照片也收起了",
+      "translation": null
+    },
+    {
+      "time": 78.61,
+      "time_str": "01:18.610",
+      "text": "而那你呢",
+      "translation": null
+    },
+    {
+      "time": 82.94,
+      "time_str": "01:22.940",
+      "text": "如果",
+      "translation": null
+    },
+    {
+      "time": 84.23,
+      "time_str": "01:24.230",
+      "text": "我们现在还在一起",
+      "translation": null
+    },
+    {
+      "time": 86.71,
+      "time_str": "01:26.710",
+      "text": "会是怎样",
+      "translation": null
+    },
+    {
+      "time": 88.3,
+      "time_str": "01:28.300",
+      "text": "我们是不是",
+      "translation": null
+    },
+    {
+      "time": 89.7,
+      "time_str": "01:29.700",
+      "text": "还是深爱着对方",
+      "translation": null
+    },
+    {
+      "time": 92.0,
+      "time_str": "01:32.000",
+      "text": "像开始时那样",
+      "translation": null
+    },
+    {
+      "time": 94.79,
+      "time_str": "01:34.790",
+      "text": "握着手",
+      "translation": null
+    },
+    {
+      "time": 96.04,
+      "time_str": "01:36.040",
+      "text": "就算天快亮",
+      "translation": null
+    },
+    {
+      "time": 100.6,
+      "time_str": "01:40.600",
+      "text": "我们现在还在一起",
+      "translation": null
+    },
+    {
+      "time": 102.59,
+      "time_str": "01:42.590",
+      "text": "会是怎样",
+      "translation": null
+    },
+    {
+      "time": 104.45,
+      "time_str": "01:44.450",
+      "text": "我们是不是还是",
+      "translation": null
+    },
+    {
+      "time": 106.25,
+      "time_str": "01:46.250",
+      "text": "隐瞒着对方",
+      "translation": null
+    },
+    {
+      "time": 108.05,
+      "time_str": "01:48.050",
+      "text": "像结束时那样",
+      "translation": null
+    },
+    {
+      "time": 111.03,
+      "time_str": "01:51.030",
+      "text": "明知道你没有错",
+      "translation": null
+    },
+    {
+      "time": 113.93,
+      "time_str": "01:53.930",
+      "text": "还硬要我原谅",
+      "translation": null
+    },
+    {
+      "time": 132.63,
+      "time_str": "02:12.630",
+      "text": "我这里天快要亮了",
+      "translation": null
+    },
+    {
+      "time": 135.42,
+      "time_str": "02:15.420",
+      "text": "那里呢",
+      "translation": null
+    },
+    {
+      "time": 140.25,
+      "time_str": "02:20.250",
+      "text": "我这里天气很炎热",
+      "translation": null
+    },
+    {
+      "time": 143.24,
+      "time_str": "02:23.240",
+      "text": "那里呢",
+      "translation": null
+    },
+    {
+      "time": 147.53,
+      "time_str": "02:27.530",
+      "text": "我这里一切都变了",
+      "translation": null
+    },
+    {
+      "time": 151.56,
+      "time_str": "02:31.560",
+      "text": "我变得不哭了",
+      "translation": null
+    },
+    {
+      "time": 155.45,
+      "time_str": "02:35.450",
+      "text": "我把照片也收起了",
+      "translation": null
+    },
+    {
+      "time": 158.54,
+      "time_str": "02:38.540",
+      "text": "而那你呢",
+      "translation": null
+    },
+    {
+      "time": 163.24,
+      "time_str": "02:43.240",
+      "text": "如果",
+      "translation": null
+    },
+    {
+      "time": 164.13,
+      "time_str": "02:44.130",
+      "text": "我们现在还在一起",
+      "translation": null
+    },
+    {
+      "time": 166.76,
+      "time_str": "02:46.760",
+      "text": "会是怎样",
+      "translation": null
+    },
+    {
+      "time": 168.5,
+      "time_str": "02:48.500",
+      "text": "我们是不是",
+      "translation": null
+    },
+    {
+      "time": 169.8,
+      "time_str": "02:49.800",
+      "text": "还是深爱着对方",
+      "translation": null
+    },
+    {
+      "time": 172.19,
+      "time_str": "02:52.190",
+      "text": "像开始时那样",
+      "translation": null
+    },
+    {
+      "time": 174.88,
+      "time_str": "02:54.880",
+      "text": "握着手",
+      "translation": null
+    },
+    {
+      "time": 176.12,
+      "time_str": "02:56.120",
+      "text": "就算天快亮",
+      "translation": null
+    },
+    {
+      "time": 180.46,
+      "time_str": "03:00.460",
+      "text": "我们现在还在一起",
+      "translation": null
+    },
+    {
+      "time": 182.6,
+      "time_str": "03:02.600",
+      "text": "会是怎样",
+      "translation": null
+    },
+    {
+      "time": 184.49,
+      "time_str": "03:04.490",
+      "text": "我们是不是还是",
+      "translation": null
+    },
+    {
+      "time": 186.29,
+      "time_str": "03:06.290",
+      "text": "隐瞒着对方",
+      "translation": null
+    },
+    {
+      "time": 187.94,
+      "time_str": "03:07.940",
+      "text": "像结束时那样",
+      "translation": null
+    },
+    {
+      "time": 191.02,
+      "time_str": "03:11.020",
+      "text": "明知道你没有错",
+      "translation": null
+    },
+    {
+      "time": 193.82,
+      "time_str": "03:13.820",
+      "text": "还硬要我原谅",
+      "translation": null
+    },
+    {
+      "time": 210.69,
+      "time_str": "03:30.690",
+      "text": "如果",
+      "translation": null
+    },
+    {
+      "time": 212.59,
+      "time_str": "03:32.590",
+      "text": "我们现在还在一起",
+      "translation": null
+    },
+    {
+      "time": 215.08,
+      "time_str": "03:35.080",
+      "text": "会是怎样",
+      "translation": null
+    },
+    {
+      "time": 216.97,
+      "time_str": "03:36.970",
+      "text": "我们是不是",
+      "translation": null
+    },
+    {
+      "time": 218.17,
+      "time_str": "03:38.170",
+      "text": "还是深爱着对方",
+      "translation": null
+    },
+    {
+      "time": 220.56,
+      "time_str": "03:40.560",
+      "text": "像开始时那样",
+      "translation": null
+    },
+    {
+      "time": 223.26,
+      "time_str": "03:43.260",
+      "text": "握着手",
+      "translation": null
+    },
+    {
+      "time": 224.46,
+      "time_str": "03:44.460",
+      "text": "就算天快亮",
+      "translation": null
+    },
+    {
+      "time": 228.93,
+      "time_str": "03:48.930",
+      "text": "我们现在还在一起",
+      "translation": null
+    },
+    {
+      "time": 230.94,
+      "time_str": "03:50.940",
+      "text": "会是怎样",
+      "translation": null
+    },
+    {
+      "time": 232.68,
+      "time_str": "03:52.680",
+      "text": "我们是不是还是",
+      "translation": null
+    },
+    {
+      "time": 234.52,
+      "time_str": "03:54.520",
+      "text": "隐瞒着对方",
+      "translation": null
+    },
+    {
+      "time": 236.26,
+      "time_str": "03:56.260",
+      "text": "像结束时那样",
+      "translation": null
+    },
+    {
+      "time": 239.31,
+      "time_str": "03:59.310",
+      "text": "明知道你没有错",
+      "translation": null
+    },
+    {
+      "time": 242.14,
+      "time_str": "04:02.140",
+      "text": "还硬要我原谅",
+      "translation": null
+    },
+    {
+      "time": 249.47,
+      "time_str": "04:09.470",
+      "text": "我不会原谅",
+      "translation": null
+    },
+    {
+      "time": 253.41,
+      "time_str": "04:13.410",
+      "text": "我怎么原谅",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "怎样 - 戴佩妮.lrc"
+}

@@ -1,0 +1,310 @@
+{
+  "title": "风起时，想你",
+  "title_raw": "风起时，想你",
+  "version": null,
+  "artist": "陈楚生",
+  "group_key": "风起时，想你|陈楚生",
+  "writers": {
+    "lyricist": "徐邦源",
+    "composer": "殷锺泰",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.12,
+      "time_str": "00:19.120",
+      "text": "谁 能让我忘了你",
+      "translation": null
+    },
+    {
+      "time": 23.18,
+      "time_str": "00:23.180",
+      "text": "我 用什么写日记",
+      "translation": null
+    },
+    {
+      "time": 27.31,
+      "time_str": "00:27.310",
+      "text": "心 在半空中飞行",
+      "translation": null
+    },
+    {
+      "time": 31.37,
+      "time_str": "00:31.370",
+      "text": "已习惯孤寂",
+      "translation": null
+    },
+    {
+      "time": 35.56,
+      "time_str": "00:35.560",
+      "text": "遇见了你 爱上了你",
+      "translation": null
+    },
+    {
+      "time": 39.37,
+      "time_str": "00:39.370",
+      "text": "最后重归于平静",
+      "translation": null
+    },
+    {
+      "time": 43.62,
+      "time_str": "00:43.620",
+      "text": "我用回忆剪成一部无声电影",
+      "translation": null
+    },
+    {
+      "time": 47.49,
+      "time_str": "00:47.490",
+      "text": "纪念我们真挚的曾经",
+      "translation": null
+    },
+    {
+      "time": 51.24,
+      "time_str": "00:51.240",
+      "text": "珍贵的你",
+      "translation": null
+    },
+    {
+      "time": 53.18,
+      "time_str": "00:53.180",
+      "text": "每当温柔的风把头发吹起",
+      "translation": null
+    },
+    {
+      "time": 57.43,
+      "time_str": "00:57.430",
+      "text": "总让我想起那时别离情景",
+      "translation": null
+    },
+    {
+      "time": 61.68,
+      "time_str": "01:01.680",
+      "text": "你的眼泪是那样晶莹透明",
+      "translation": null
+    },
+    {
+      "time": 65.74,
+      "time_str": "01:05.740",
+      "text": "每一滴 在我心里",
+      "translation": null
+    },
+    {
+      "time": 69.37,
+      "time_str": "01:09.370",
+      "text": "每当温柔的风把头发吹起",
+      "translation": null
+    },
+    {
+      "time": 73.62,
+      "time_str": "01:13.620",
+      "text": "总让我想起你给过的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 78.18,
+      "time_str": "01:18.180",
+      "text": "我们好不容易，鼓起了勇气",
+      "translation": null
+    },
+    {
+      "time": 82.5,
+      "time_str": "01:22.500",
+      "text": "却敌不过命运",
+      "translation": null
+    },
+    {
+      "time": 87.6,
+      "time_str": "01:27.600",
+      "text": "雨 整整下了一季",
+      "translation": null
+    },
+    {
+      "time": 91.41,
+      "time_str": "01:31.410",
+      "text": "梦 轻轻碎了一地",
+      "translation": null
+    },
+    {
+      "time": 95.53,
+      "time_str": "01:35.530",
+      "text": "Hey 我依然在这里",
+      "translation": null
+    },
+    {
+      "time": 99.47,
+      "time_str": "01:39.470",
+      "text": "虽然已没有你",
+      "translation": null
+    },
+    {
+      "time": 103.78,
+      "time_str": "01:43.780",
+      "text": "遇见了你 爱上了你",
+      "translation": null
+    },
+    {
+      "time": 107.97,
+      "time_str": "01:47.970",
+      "text": "最后重归于平静",
+      "translation": null
+    },
+    {
+      "time": 111.97,
+      "time_str": "01:51.970",
+      "text": "我用回忆剪成一部无声电影",
+      "translation": null
+    },
+    {
+      "time": 115.78,
+      "time_str": "01:55.780",
+      "text": "纪念我们真挚的曾经",
+      "translation": null
+    },
+    {
+      "time": 119.47,
+      "time_str": "01:59.470",
+      "text": "珍贵的你",
+      "translation": null
+    },
+    {
+      "time": 121.22,
+      "time_str": "02:01.220",
+      "text": "每当温柔的风把头发吹起",
+      "translation": null
+    },
+    {
+      "time": 125.65,
+      "time_str": "02:05.650",
+      "text": "总让我想起那时别离情景",
+      "translation": null
+    },
+    {
+      "time": 130.03,
+      "time_str": "02:10.030",
+      "text": "你的眼泪是那样晶莹透明",
+      "translation": null
+    },
+    {
+      "time": 133.97,
+      "time_str": "02:13.970",
+      "text": "每一滴 在我心里",
+      "translation": null
+    },
+    {
+      "time": 137.53,
+      "time_str": "02:17.530",
+      "text": "每当温柔的风把头发吹起",
+      "translation": null
+    },
+    {
+      "time": 142.03,
+      "time_str": "02:22.030",
+      "text": "总让我想起你给过的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 146.41,
+      "time_str": "02:26.410",
+      "text": "我们好不容易，鼓起了勇气",
+      "translation": null
+    },
+    {
+      "time": 150.72,
+      "time_str": "02:30.720",
+      "text": "却敌不过命运",
+      "translation": null
+    },
+    {
+      "time": 155.78,
+      "time_str": "02:35.780",
+      "text": "也许是我太不小心",
+      "translation": null
+    },
+    {
+      "time": 159.78,
+      "time_str": "02:39.780",
+      "text": "也许是我太在乎你",
+      "translation": null
+    },
+    {
+      "time": 163.46,
+      "time_str": "02:43.460",
+      "text": "你什么也没说",
+      "translation": null
+    },
+    {
+      "time": 165.4,
+      "time_str": "02:45.400",
+      "text": "我也无从问起",
+      "translation": null
+    },
+    {
+      "time": 167.59,
+      "time_str": "02:47.590",
+      "text": "就让往事散落风中",
+      "translation": null
+    },
+    {
+      "time": 171.51,
+      "time_str": "02:51.510",
+      "text": "不再提",
+      "translation": null
+    },
+    {
+      "time": 173.57,
+      "time_str": "02:53.570",
+      "text": "每当温柔的风把头发吹起",
+      "translation": null
+    },
+    {
+      "time": 177.64,
+      "time_str": "02:57.640",
+      "text": "总让我想起那时别离情景",
+      "translation": null
+    },
+    {
+      "time": 181.96,
+      "time_str": "03:01.960",
+      "text": "一转身时间飞了再回不去",
+      "translation": null
+    },
+    {
+      "time": 186.02,
+      "time_str": "03:06.020",
+      "text": "我的爱你在哪里",
+      "translation": null
+    },
+    {
+      "time": 189.64,
+      "time_str": "03:09.640",
+      "text": "每当温柔的风把头发吹起",
+      "translation": null
+    },
+    {
+      "time": 194.08,
+      "time_str": "03:14.080",
+      "text": "总让我想起你给过的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 198.15,
+      "time_str": "03:18.150",
+      "text": "无论你在哪里",
+      "translation": null
+    },
+    {
+      "time": 200.14,
+      "time_str": "03:20.140",
+      "text": "和谁在一起",
+      "translation": null
+    },
+    {
+      "time": 202.83,
+      "time_str": "03:22.830",
+      "text": "依然是我的唯一",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "风起时，想你 - 陈楚生.lrc"
+}

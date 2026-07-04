@@ -1,0 +1,532 @@
+{
+  "title": "竹蜻蜓",
+  "title_raw": "竹蜻蜓",
+  "version": null,
+  "artist": "石凯",
+  "group_key": "竹蜻蜓|石凯",
+  "writers": {
+    "lyricist": "山弟；王秋生",
+    "composer": "山弟；王秋生",
+    "arranger": "孔潇一"
+  },
+  "lyrics": [
+    {
+      "time": 6.187,
+      "time_str": "00:06.187",
+      "text": "吉他 孔潇一",
+      "translation": null
+    },
+    {
+      "time": 7.939,
+      "time_str": "00:07.939",
+      "text": "合音 石凯",
+      "translation": null
+    },
+    {
+      "time": 9.937,
+      "time_str": "00:09.937",
+      "text": "录音 翟行",
+      "translation": null
+    },
+    {
+      "time": 11.186,
+      "time_str": "00:11.186",
+      "text": "混音 李南博",
+      "translation": null
+    },
+    {
+      "time": 12.186,
+      "time_str": "00:12.186",
+      "text": "母带 李南博",
+      "translation": null
+    },
+    {
+      "time": 12.937,
+      "time_str": "00:12.937",
+      "text": "发行公司：宇宙星船",
+      "translation": null
+    },
+    {
+      "time": 13.436,
+      "time_str": "00:13.436",
+      "text": "我要飞到世界各地去",
+      "translation": null
+    },
+    {
+      "time": 16.436,
+      "time_str": "00:16.436",
+      "text": "戴上属于我的竹蜻蜓，",
+      "translation": null
+    },
+    {
+      "time": 19.188,
+      "time_str": "00:19.188",
+      "text": "打开抽屉坐上时光机，",
+      "translation": null
+    },
+    {
+      "time": 22.687,
+      "time_str": "00:22.687",
+      "text": "和伙伴们唱着 哆唻咪",
+      "translation": null
+    },
+    {
+      "time": 25.436,
+      "time_str": "00:25.436",
+      "text": "诶 那些繁多的记忆记不住到底该要怎么办呢，",
+      "translation": null
+    },
+    {
+      "time": 29.443,
+      "time_str": "00:29.443",
+      "text": "情绪也有点乱了，",
+      "translation": null
+    },
+    {
+      "time": 30.692,
+      "time_str": "00:30.692",
+      "text": "你是否还记得那童年甜蜜的暗号，",
+      "translation": null
+    },
+    {
+      "time": 33.941,
+      "time_str": "00:33.941",
+      "text": "那些梦想我也拼尽全力的办到，",
+      "translation": null
+    },
+    {
+      "time": 36.442,
+      "time_str": "00:36.442",
+      "text": "那条路不长但我也走了很久，",
+      "translation": null
+    },
+    {
+      "time": 39.691,
+      "time_str": "00:39.691",
+      "text": "翻个跟斗在别人面前只是为了大显身手，",
+      "translation": null
+    },
+    {
+      "time": 42.192,
+      "time_str": "00:42.192",
+      "text": "还真有大人眼中些许童真的味道，",
+      "translation": null
+    },
+    {
+      "time": 44.942,
+      "time_str": "00:44.942",
+      "text": "对我来说只是想玩还不想睡觉，",
+      "translation": null
+    },
+    {
+      "time": 47.941,
+      "time_str": "00:47.941",
+      "text": "天色晚了暗了淡了听见奶奶喊我的声音，",
+      "translation": null
+    },
+    {
+      "time": 50.692,
+      "time_str": "00:50.692",
+      "text": "书包满了烂了又换了一颗糖果就代表真心，",
+      "translation": null
+    },
+    {
+      "time": 53.692,
+      "time_str": "00:53.692",
+      "text": "就继续顽皮玩着游戏和我的小伙伴，",
+      "translation": null
+    },
+    {
+      "time": 56.442,
+      "time_str": "00:56.442",
+      "text": "和过去的爱恋说个再见再吃个散伙饭，",
+      "translation": null
+    },
+    {
+      "time": 59.192,
+      "time_str": "00:59.192",
+      "text": "那夜的星空多么清澈多么灿烂，",
+      "translation": null
+    },
+    {
+      "time": 62.192,
+      "time_str": "01:02.192",
+      "text": "如今抬头看到的尽是遮住双眼的黯淡，",
+      "translation": null
+    },
+    {
+      "time": 64.693,
+      "time_str": "01:04.693",
+      "text": "不管你人在哪但你的心也没处跑",
+      "translation": null
+    },
+    {
+      "time": 67.192,
+      "time_str": "01:07.192",
+      "text": "竖立在童年的旗帜也许我一直都推不倒",
+      "translation": null
+    },
+    {
+      "time": 81.692,
+      "time_str": "01:21.692",
+      "text": "我要飞到世界各地去",
+      "translation": null
+    },
+    {
+      "time": 84.692,
+      "time_str": "01:24.692",
+      "text": "戴上属于我的竹蜻蜓，",
+      "translation": null
+    },
+    {
+      "time": 86.942,
+      "time_str": "01:26.942",
+      "text": "打开抽屉坐上时光机，",
+      "translation": null
+    },
+    {
+      "time": 90.442,
+      "time_str": "01:30.442",
+      "text": "和伙伴们唱着哆唻咪",
+      "translation": null
+    },
+    {
+      "time": 92.692,
+      "time_str": "01:32.692",
+      "text": "我要飞到世界各地去，",
+      "translation": null
+    },
+    {
+      "time": 95.942,
+      "time_str": "01:35.942",
+      "text": "戴上属于我的竹蜻蜓，",
+      "translation": null
+    },
+    {
+      "time": 98.443,
+      "time_str": "01:38.443",
+      "text": "打开抽屉坐上时光机，",
+      "translation": null
+    },
+    {
+      "time": 101.691,
+      "time_str": "01:41.691",
+      "text": "和伙伴们唱着哆唻咪",
+      "translation": null
+    },
+    {
+      "time": 104.194,
+      "time_str": "01:44.194",
+      "text": "around my way 围绕我走过的路",
+      "translation": null
+    },
+    {
+      "time": 105.192,
+      "time_str": "01:45.192",
+      "text": "故事里片段记忆吹散谁还记得",
+      "translation": null
+    },
+    {
+      "time": 110.191,
+      "time_str": "01:50.191",
+      "text": "around my lay 回顾我写过的故事",
+      "translation": null
+    },
+    {
+      "time": 110.942,
+      "time_str": "01:50.942",
+      "text": "有太多变幻秘密晦暗掩埋时刻，",
+      "translation": null
+    },
+    {
+      "time": 115.192,
+      "time_str": "01:55.192",
+      "text": "儿时的梦想记忆书写在日记里，",
+      "translation": null
+    },
+    {
+      "time": 118.192,
+      "time_str": "01:58.192",
+      "text": "总是担心名字被提起，",
+      "translation": null
+    },
+    {
+      "time": 121.443,
+      "time_str": "02:01.443",
+      "text": "打瞌睡 被责备 笑和泪 为了谁",
+      "translation": null
+    },
+    {
+      "time": 123.693,
+      "time_str": "02:03.693",
+      "text": "我总是站在街角你的名字我还记着，",
+      "translation": null
+    },
+    {
+      "time": 127.193,
+      "time_str": "02:07.193",
+      "text": "总是会做梦回到那年的屋檐下",
+      "translation": null
+    },
+    {
+      "time": 129.943,
+      "time_str": "02:09.943",
+      "text": "那个仲夏",
+      "translation": null
+    },
+    {
+      "time": 130.442,
+      "time_str": "02:10.442",
+      "text": "和伙伴看着动画",
+      "translation": null
+    },
+    {
+      "time": 131.942,
+      "time_str": "02:11.942",
+      "text": "留下的欢乐",
+      "translation": null
+    },
+    {
+      "time": 133.193,
+      "time_str": "02:13.193",
+      "text": "只是突然记得那天炎热的盛夏",
+      "translation": null
+    },
+    {
+      "time": 135.192,
+      "time_str": "02:15.192",
+      "text": "雪糕融化",
+      "translation": null
+    },
+    {
+      "time": 136.442,
+      "time_str": "02:16.442",
+      "text": "看着天空日暮童话",
+      "translation": null
+    },
+    {
+      "time": 137.442,
+      "time_str": "02:17.442",
+      "text": "落下的天色",
+      "translation": null
+    },
+    {
+      "time": 138.692,
+      "time_str": "02:18.692",
+      "text": "新买的脚踏车",
+      "translation": null
+    },
+    {
+      "time": 139.943,
+      "time_str": "02:19.943",
+      "text": "在我的车后座",
+      "translation": null
+    },
+    {
+      "time": 141.442,
+      "time_str": "02:21.442",
+      "text": "新买的卡带新的歌在耳机循环放着，",
+      "translation": null
+    },
+    {
+      "time": 144.442,
+      "time_str": "02:24.442",
+      "text": "想要大声宣布 对你依依不舍，",
+      "translation": null
+    },
+    {
+      "time": 146.943,
+      "time_str": "02:26.943",
+      "text": "课桌上刻下的名字到底是谁留下的呢，",
+      "translation": null
+    },
+    {
+      "time": 149.443,
+      "time_str": "02:29.443",
+      "text": "翻开了记忆，",
+      "translation": null
+    },
+    {
+      "time": 150.443,
+      "time_str": "02:30.443",
+      "text": "过去重播就像在放电影，",
+      "translation": null
+    },
+    {
+      "time": 152.443,
+      "time_str": "02:32.443",
+      "text": "我们在经历，",
+      "translation": null
+    },
+    {
+      "time": 153.194,
+      "time_str": "02:33.194",
+      "text": "浮生如寄",
+      "translation": null
+    },
+    {
+      "time": 153.945,
+      "time_str": "02:33.945",
+      "text": "在我们这个年纪，",
+      "translation": null
+    },
+    {
+      "time": 154.944,
+      "time_str": "02:34.944",
+      "text": "想回到过去，",
+      "translation": null
+    },
+    {
+      "time": 156.194,
+      "time_str": "02:36.194",
+      "text": "搭上找回自我的时光机，",
+      "translation": null
+    },
+    {
+      "time": 158.443,
+      "time_str": "02:38.443",
+      "text": "这是一个乐园，",
+      "translation": null
+    },
+    {
+      "time": 159.443,
+      "time_str": "02:39.443",
+      "text": "在孤单的时候让我可以逃避，",
+      "translation": null
+    },
+    {
+      "time": 161.693,
+      "time_str": "02:41.693",
+      "text": "没有刻板条例",
+      "translation": null
+    },
+    {
+      "time": 162.694,
+      "time_str": "02:42.694",
+      "text": "不再态度消极",
+      "translation": null
+    },
+    {
+      "time": 163.944,
+      "time_str": "02:43.944",
+      "text": "冬日的阳光洒落满地，",
+      "translation": null
+    },
+    {
+      "time": 166.693,
+      "time_str": "02:46.693",
+      "text": "再看看妈妈亲手为我织的毛衣，",
+      "translation": null
+    },
+    {
+      "time": 169.194,
+      "time_str": "02:49.194",
+      "text": "重温有你们陪的每个朝夕，",
+      "translation": null
+    },
+    {
+      "time": 171.943,
+      "time_str": "02:51.943",
+      "text": "朋友你记得吗，",
+      "translation": null
+    },
+    {
+      "time": 173.443,
+      "time_str": "02:53.443",
+      "text": "曾经说过的话，",
+      "translation": null
+    },
+    {
+      "time": 174.943,
+      "time_str": "02:54.943",
+      "text": "说我们一起携手仗剑走天涯，",
+      "translation": null
+    },
+    {
+      "time": 177.693,
+      "time_str": "02:57.693",
+      "text": "未完续的动画，是没结果的花，",
+      "translation": null
+    },
+    {
+      "time": 180.444,
+      "time_str": "03:00.444",
+      "text": "但陪伴我们度过每一个炎夏，",
+      "translation": null
+    },
+    {
+      "time": 183.194,
+      "time_str": "03:03.194",
+      "text": "朋友你记得吗，曾经说过的话，",
+      "translation": null
+    },
+    {
+      "time": 186.447,
+      "time_str": "03:06.447",
+      "text": "说我们一起携手仗剑走天涯，",
+      "translation": null
+    },
+    {
+      "time": 188.944,
+      "time_str": "03:08.944",
+      "text": "未完续的动画，是没结果的花，",
+      "translation": null
+    },
+    {
+      "time": 191.944,
+      "time_str": "03:11.944",
+      "text": "但陪伴我们度过每一个炎夏",
+      "translation": null
+    },
+    {
+      "time": 205.944,
+      "time_str": "03:25.944",
+      "text": "我要飞到世界各地去",
+      "translation": null
+    },
+    {
+      "time": 208.943,
+      "time_str": "03:28.943",
+      "text": "戴上属于我的竹蜻蜓，",
+      "translation": null
+    },
+    {
+      "time": 211.693,
+      "time_str": "03:31.693",
+      "text": "打开抽屉坐上时光机，",
+      "translation": null
+    },
+    {
+      "time": 214.443,
+      "time_str": "03:34.443",
+      "text": "和伙伴们唱着哆唻咪",
+      "translation": null
+    },
+    {
+      "time": 217.194,
+      "time_str": "03:37.194",
+      "text": "我要飞到世界各地去，",
+      "translation": null
+    },
+    {
+      "time": 220.194,
+      "time_str": "03:40.194",
+      "text": "戴上属于我的竹蜻蜓，",
+      "translation": null
+    },
+    {
+      "time": 222.944,
+      "time_str": "03:42.944",
+      "text": "打开抽屉坐上时光机，",
+      "translation": null
+    },
+    {
+      "time": 231.694,
+      "time_str": "03:51.694",
+      "text": "和伙伴们唱着哆唻咪",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "竹蜻蜓 - 石凯.lrc"
+}

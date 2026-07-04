@@ -1,0 +1,376 @@
+{
+  "title": "Move Your Body",
+  "title_raw": "Move Your Body (Alan Walker Remix)",
+  "version": "Alan Walker Remix",
+  "artist": "Alan Walker,Sia",
+  "group_key": "move your body|alan walker,sia",
+  "writers": {
+    "lyricist": "Sia/Greg Kurstin",
+    "composer": "Sia/Greg Kurstin",
+    "arranger": "Alan Walker/Greg Kurstin/Mood Melodies"
+  },
+  "lyrics": [
+    {
+      "time": 1.59,
+      "time_str": "00:01.590",
+      "text": "Wu-oh-oh, oh-oh-oh, oh, oh",
+      "translation": null
+    },
+    {
+      "time": 6.63,
+      "time_str": "00:06.630",
+      "text": "Wu-oh-oh, oh-oh-oh, oh, oh",
+      "translation": null
+    },
+    {
+      "time": 9.76,
+      "time_str": "00:09.760",
+      "text": "Poetry in your body",
+      "translation": "你如诗般的身体"
+    },
+    {
+      "time": 11.7,
+      "time_str": "00:11.700",
+      "text": "You got it in every way",
+      "translation": "尽情的舞动着"
+    },
+    {
+      "time": 17.18,
+      "time_str": "00:17.180",
+      "text": "And can't you see it's you I'm watching?",
+      "translation": "你看不见我在注视着你？"
+    },
+    {
+      "time": 19.17,
+      "time_str": "00:19.170",
+      "text": "I am hot for you in every way",
+      "translation": "我为你的一切感到痴迷"
+    },
+    {
+      "time": 24.63,
+      "time_str": "00:24.630",
+      "text": "And turn around, let me see you",
+      "translation": "转过身来，让我仔细看看你"
+    },
+    {
+      "time": 26.69,
+      "time_str": "00:26.690",
+      "text": "Wanna free you with my rhythm",
+      "translation": "想要你跟随着我的节奏嗨翻天"
+    },
+    {
+      "time": 32.2,
+      "time_str": "00:32.200",
+      "text": "I know you can't get enough",
+      "translation": "我知道你无法满足"
+    },
+    {
+      "time": 34.08,
+      "time_str": "00:34.080",
+      "text": "When I turn up with my rhythm",
+      "translation": "那就跟随着这节奏一起摇摆吧"
+    },
+    {
+      "time": 39.2,
+      "time_str": "00:39.200",
+      "text": "Your body’s poetry, speak to me",
+      "translation": "你身体如诗的韵律快对我说"
+    },
+    {
+      "time": 41.71,
+      "time_str": "00:41.710",
+      "text": "Won’t you let me be your rhythm tonight?",
+      "translation": "今夜是否愿与我随这节奏摇摆"
+    },
+    {
+      "time": 44.48,
+      "time_str": "00:44.480",
+      "text": "(Move your body, move your body)",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 46.96,
+      "time_str": "00:46.960",
+      "text": "I wanna be your muse,use my music",
+      "translation": "我要感受你随音乐舞动的节奏"
+    },
+    {
+      "time": 49.52,
+      "time_str": "00:49.520",
+      "text": "And let me be your rhythm tonight",
+      "translation": "今晚就同我一起享受这激情的旋律"
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "(Move your body, move your body)",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 54.2,
+      "time_str": "00:54.200",
+      "text": "Your body’s poetry speak to me",
+      "translation": "你身体如诗的韵律快对我说"
+    },
+    {
+      "time": 56.73,
+      "time_str": "00:56.730",
+      "text": "Won’t you let me be your rhythm tonight?",
+      "translation": "今夜是否愿与我随这节奏摇摆"
+    },
+    {
+      "time": 59.55,
+      "time_str": "00:59.550",
+      "text": "(Move your body, move your body)",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 61.88,
+      "time_str": "01:01.880",
+      "text": "I wanna be your muse,use my music",
+      "translation": "我要感受你随音乐舞动的节奏"
+    },
+    {
+      "time": 64.28,
+      "time_str": "01:04.280",
+      "text": "And let me be your rhythm tonight",
+      "translation": "今晚就同我一起享受这激情的旋律"
+    },
+    {
+      "time": 67.03,
+      "time_str": "01:07.030",
+      "text": "(Move your body, move your body)",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 75.99,
+      "time_str": "01:15.990",
+      "text": "Move your, move your body",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 83.56,
+      "time_str": "01:23.560",
+      "text": "Move your, move your body",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 85.83,
+      "time_str": "01:25.830",
+      "text": "Move your body, dy, dy",
+      "translation": "舞动起来"
+    },
+    {
+      "time": 89.52,
+      "time_str": "01:29.520",
+      "text": "Move your body",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 93.33,
+      "time_str": "01:33.330",
+      "text": "Move your body, dy, dy",
+      "translation": "舞动起来"
+    },
+    {
+      "time": 97.01,
+      "time_str": "01:37.010",
+      "text": "Move your body",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 101.79,
+      "time_str": "01:41.790",
+      "text": "Poetry in your body",
+      "translation": "你如诗般的身体"
+    },
+    {
+      "time": 103.62,
+      "time_str": "01:43.620",
+      "text": "Got me started",
+      "translation": "让我痴迷"
+    },
+    {
+      "time": 104.56,
+      "time_str": "01:44.560",
+      "text": "May it never end",
+      "translation": "愿他永无止境"
+    },
+    {
+      "time": 109.24,
+      "time_str": "01:49.240",
+      "text": "Feel my rhythm in your system",
+      "translation": "让这节奏在你的身体里如血液奔流"
+    },
+    {
+      "time": 111.12,
+      "time_str": "01:51.120",
+      "text": "This is living, I'm your only friend",
+      "translation": "这快节奏的生活 只有我才是你唯一的朋友"
+    },
+    {
+      "time": 116.66,
+      "time_str": "01:56.660",
+      "text": "Feel the beat in your chest",
+      "translation": "感受着你心跳的声音"
+    },
+    {
+      "time": 118.7,
+      "time_str": "01:58.700",
+      "text": "Beat your chest like an animal",
+      "translation": "如同野兽为这节奏的狂躁"
+    },
+    {
+      "time": 124.02,
+      "time_str": "02:04.020",
+      "text": "Free the beast from it's cage",
+      "translation": "如同重获自由的猛兽"
+    },
+    {
+      "time": 126.09,
+      "time_str": "02:06.090",
+      "text": "Free the rage like an animal",
+      "translation": "一声咆哮惊天明"
+    },
+    {
+      "time": 132.96,
+      "time_str": "02:12.960",
+      "text": "Your body’s poetry, speak to me",
+      "translation": "你身体如诗的韵律快对我说"
+    },
+    {
+      "time": 135.44,
+      "time_str": "02:15.440",
+      "text": "Won’t you let me be your rhythm tonight?",
+      "translation": "今夜是否愿与我随这节奏摇摆"
+    },
+    {
+      "time": 138.21,
+      "time_str": "02:18.210",
+      "text": "(Move your body, move your body)",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 140.48,
+      "time_str": "02:20.480",
+      "text": "I wanna be your muse,use my music",
+      "translation": "我要感受你随音乐舞动的节奏"
+    },
+    {
+      "time": 142.99,
+      "time_str": "02:22.990",
+      "text": "And let me be your rhythm tonight",
+      "translation": "今晚就同我一起享受这激情的旋律"
+    },
+    {
+      "time": 145.73,
+      "time_str": "02:25.730",
+      "text": "(Move your body, move your body)",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 148.0,
+      "time_str": "02:28.000",
+      "text": "Your body’s poetry speak to me",
+      "translation": "你身体如诗的韵律快对我说"
+    },
+    {
+      "time": 150.46,
+      "time_str": "02:30.460",
+      "text": "Won’t you let me be your rhythm tonight?",
+      "translation": "今夜是否愿与我随这节奏摇摆"
+    },
+    {
+      "time": 153.2,
+      "time_str": "02:33.200",
+      "text": "(Move your body, move your body)",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 155.35,
+      "time_str": "02:35.350",
+      "text": "I wanna be your muse,use my music",
+      "translation": "我要感受你随音乐舞动的节奏"
+    },
+    {
+      "time": 158.01,
+      "time_str": "02:38.010",
+      "text": "And let me be your rhythm tonight",
+      "translation": "今晚就同我一起享受这激情的旋律"
+    },
+    {
+      "time": 160.73,
+      "time_str": "02:40.730",
+      "text": "(Move your body, move your body)",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 169.69,
+      "time_str": "02:49.690",
+      "text": "Move your, move your body",
+      "translation": "舞动起来"
+    },
+    {
+      "time": 177.11,
+      "time_str": "02:57.110",
+      "text": "Move your, move your body",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 179.64,
+      "time_str": "02:59.640",
+      "text": "Move your body, dy, dy",
+      "translation": "舞动起来"
+    },
+    {
+      "time": 183.24,
+      "time_str": "03:03.240",
+      "text": "Move your body",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 187.01,
+      "time_str": "03:07.010",
+      "text": "Move your body, dy, dy",
+      "translation": "舞动起来"
+    },
+    {
+      "time": 190.69,
+      "time_str": "03:10.690",
+      "text": "Move your body",
+      "translation": "快跟着这节奏舞动起来"
+    },
+    {
+      "time": 194.03,
+      "time_str": "03:14.030",
+      "text": "Oh-oh-oh, oh-oh-oh, oh, oh",
+      "translation": null
+    },
+    {
+      "time": 197.79,
+      "time_str": "03:17.790",
+      "text": "Oh-oh-oh, oh-oh-oh, oh, oh",
+      "translation": null
+    },
+    {
+      "time": 201.5,
+      "time_str": "03:21.500",
+      "text": "Oh-oh-oh, oh-oh-oh, oh, oh",
+      "translation": null
+    },
+    {
+      "time": 205.21,
+      "time_str": "03:25.210",
+      "text": "Oh-oh-oh, oh-oh-oh, oh, oh",
+      "translation": null
+    },
+    {
+      "time": 207.83,
+      "time_str": "03:27.830",
+      "text": "Move your body",
+      "translation": "快跟着这节奏舞动起来"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Move Your Body (Alan Walker Remix) - Alan Walker,Sia.lrc"
+}

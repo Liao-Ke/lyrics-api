@@ -1,0 +1,256 @@
+{
+  "title": "谁想轻轻偷走我的吻",
+  "title_raw": "谁想轻轻偷走我的吻",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "谁想轻轻偷走我的吻|张学友",
+  "writers": {
+    "lyricist": "陈家丽",
+    "composer": "童安格",
+    "arranger": "杜自持"
+  },
+  "lyrics": [
+    {
+      "time": 36.966,
+      "time_str": "00:36.966",
+      "text": "春风细细诉说秘密",
+      "translation": null
+    },
+    {
+      "time": 41.471,
+      "time_str": "00:41.471",
+      "text": "谁的手握在一起",
+      "translation": null
+    },
+    {
+      "time": 48.387,
+      "time_str": "00:48.387",
+      "text": "若现若隐",
+      "translation": null
+    },
+    {
+      "time": 50.632,
+      "time_str": "00:50.632",
+      "text": "谁是梦中的你",
+      "translation": null
+    },
+    {
+      "time": 57.594,
+      "time_str": "00:57.594",
+      "text": "月光如蜜寻欢人群",
+      "translation": null
+    },
+    {
+      "time": 62.147,
+      "time_str": "01:02.147",
+      "text": "多少爱慕的眼睛",
+      "translation": null
+    },
+    {
+      "time": 68.987,
+      "time_str": "01:08.987",
+      "text": "不远不近",
+      "translation": null
+    },
+    {
+      "time": 71.193,
+      "time_str": "01:11.193",
+      "text": "正好使我动情",
+      "translation": null
+    },
+    {
+      "time": 77.753,
+      "time_str": "01:17.753",
+      "text": "我的心从来不觉得冷",
+      "translation": null
+    },
+    {
+      "time": 82.632,
+      "time_str": "01:22.632",
+      "text": "像盏粉红色的灯",
+      "translation": null
+    },
+    {
+      "time": 87.32,
+      "time_str": "01:27.320",
+      "text": "温柔的燃烧在夜里",
+      "translation": null
+    },
+    {
+      "time": 96.508,
+      "time_str": "01:36.508",
+      "text": "谁想轻轻偷走我的吻",
+      "translation": null
+    },
+    {
+      "time": 100.982,
+      "time_str": "01:40.982",
+      "text": "谁在捉弄我的眼神",
+      "translation": null
+    },
+    {
+      "time": 105.649,
+      "time_str": "01:45.649",
+      "text": "谁想轻轻偷走我的吻",
+      "translation": null
+    },
+    {
+      "time": 110.74,
+      "time_str": "01:50.740",
+      "text": "趁著杯中",
+      "translation": null
+    },
+    {
+      "time": 111.328,
+      "time_str": "01:51.328",
+      "text": "酒意还有几分",
+      "translation": null
+    },
+    {
+      "time": 114.742,
+      "time_str": "01:54.742",
+      "text": "谁想轻轻偷走我的吻",
+      "translation": null
+    },
+    {
+      "time": 119.258,
+      "time_str": "01:59.258",
+      "text": "不想做个寂寞的人",
+      "translation": null
+    },
+    {
+      "time": 123.956,
+      "time_str": "02:03.956",
+      "text": "谁想轻轻偷走我的吻",
+      "translation": null
+    },
+    {
+      "time": 128.418,
+      "time_str": "02:08.418",
+      "text": "也许不用太认真",
+      "translation": null
+    },
+    {
+      "time": 167.507,
+      "time_str": "02:47.507",
+      "text": "春风细细诉说秘密",
+      "translation": null
+    },
+    {
+      "time": 171.881,
+      "time_str": "02:51.881",
+      "text": "谁的手握在一起",
+      "translation": null
+    },
+    {
+      "time": 178.897,
+      "time_str": "02:58.897",
+      "text": "若现若隐",
+      "translation": null
+    },
+    {
+      "time": 181.105,
+      "time_str": "03:01.105",
+      "text": "谁是梦中的你",
+      "translation": null
+    },
+    {
+      "time": 188.67,
+      "time_str": "03:08.670",
+      "text": "月光如蜜寻欢人群",
+      "translation": null
+    },
+    {
+      "time": 192.642,
+      "time_str": "03:12.642",
+      "text": "多少爱慕的眼睛",
+      "translation": null
+    },
+    {
+      "time": 199.417,
+      "time_str": "03:19.417",
+      "text": "不远不近",
+      "translation": null
+    },
+    {
+      "time": 201.674,
+      "time_str": "03:21.674",
+      "text": "正好使我动情",
+      "translation": null
+    },
+    {
+      "time": 208.229,
+      "time_str": "03:28.229",
+      "text": "我的心从来不觉得冷",
+      "translation": null
+    },
+    {
+      "time": 213.203,
+      "time_str": "03:33.203",
+      "text": "像盏粉红色的灯",
+      "translation": null
+    },
+    {
+      "time": 217.86,
+      "time_str": "03:37.860",
+      "text": "温柔的燃烧在夜里",
+      "translation": null
+    },
+    {
+      "time": 227.141,
+      "time_str": "03:47.141",
+      "text": "谁想轻轻偷走我的吻",
+      "translation": null
+    },
+    {
+      "time": 231.465,
+      "time_str": "03:51.465",
+      "text": "谁在捉弄我的眼神",
+      "translation": null
+    },
+    {
+      "time": 236.146,
+      "time_str": "03:56.146",
+      "text": "谁想轻轻偷走我的吻",
+      "translation": null
+    },
+    {
+      "time": 240.618,
+      "time_str": "04:00.618",
+      "text": "趁著杯中",
+      "translation": null
+    },
+    {
+      "time": 241.827,
+      "time_str": "04:01.827",
+      "text": "酒意还有几分",
+      "translation": null
+    },
+    {
+      "time": 245.243,
+      "time_str": "04:05.243",
+      "text": "谁想轻轻偷走我的吻",
+      "translation": null
+    },
+    {
+      "time": 249.705,
+      "time_str": "04:09.705",
+      "text": "不想做个寂寞的人",
+      "translation": null
+    },
+    {
+      "time": 254.431,
+      "time_str": "04:14.431",
+      "text": "谁想轻轻偷走我的吻",
+      "translation": null
+    },
+    {
+      "time": 258.95,
+      "time_str": "04:18.950",
+      "text": "也许不用太认真",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "谁想轻轻偷走我的吻 - 张学友.lrc"
+}

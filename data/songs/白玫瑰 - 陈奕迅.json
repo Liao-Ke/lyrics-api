@@ -1,0 +1,298 @@
+{
+  "title": "白玫瑰",
+  "title_raw": "白玫瑰",
+  "version": null,
+  "artist": "陈奕迅",
+  "group_key": "白玫瑰|陈奕迅",
+  "writers": {
+    "lyricist": "李焯雄",
+    "composer": "梁翘柏",
+    "arranger": "梁翘柏"
+  },
+  "lyrics": [
+    {
+      "time": 15.54,
+      "time_str": "00:15.540",
+      "text": "白如白牙热情被吞噬",
+      "translation": null
+    },
+    {
+      "time": 18.19,
+      "time_str": "00:18.190",
+      "text": "香槟早挥发得彻底",
+      "translation": null
+    },
+    {
+      "time": 22.89,
+      "time_str": "00:22.890",
+      "text": "白如白蛾潜回红尘俗世",
+      "translation": null
+    },
+    {
+      "time": 25.9,
+      "time_str": "00:25.900",
+      "text": "俯瞰过灵位",
+      "translation": null
+    },
+    {
+      "time": 29.35,
+      "time_str": "00:29.350",
+      "text": "但是爱骤变芥蒂后",
+      "translation": null
+    },
+    {
+      "time": 33.12,
+      "time_str": "00:33.120",
+      "text": "如同肮脏污秽不要提",
+      "translation": null
+    },
+    {
+      "time": 35.41,
+      "time_str": "00:35.410",
+      "text": "沉默带笑玫瑰",
+      "translation": null
+    },
+    {
+      "time": 38.82,
+      "time_str": "00:38.820",
+      "text": "带刺回礼 只信任防卫",
+      "translation": null
+    },
+    {
+      "time": 43.97,
+      "time_str": "00:43.970",
+      "text": "怎么冷酷却仍然美丽",
+      "translation": null
+    },
+    {
+      "time": 47.63,
+      "time_str": "00:47.630",
+      "text": "得不到的从来矜贵",
+      "translation": null
+    },
+    {
+      "time": 51.4,
+      "time_str": "00:51.400",
+      "text": "身处劣势如何不攻心计",
+      "translation": null
+    },
+    {
+      "time": 55.45,
+      "time_str": "00:55.450",
+      "text": "流露敬畏试探你的法规",
+      "translation": null
+    },
+    {
+      "time": 58.88,
+      "time_str": "00:58.880",
+      "text": "即使恶梦却仍然绮丽",
+      "translation": null
+    },
+    {
+      "time": 62.6,
+      "time_str": "01:02.600",
+      "text": "甘心垫底衬你的高贵",
+      "translation": null
+    },
+    {
+      "time": 66.42,
+      "time_str": "01:06.420",
+      "text": "一撮玫瑰无疑心的丧礼",
+      "translation": null
+    },
+    {
+      "time": 70.59,
+      "time_str": "01:10.590",
+      "text": "前事作废当爱已经流逝",
+      "translation": null
+    },
+    {
+      "time": 73.91,
+      "time_str": "01:13.910",
+      "text": "下一世",
+      "translation": null
+    },
+    {
+      "time": 90.44,
+      "time_str": "01:30.440",
+      "text": "白如白忙莫名被摧毁",
+      "translation": null
+    },
+    {
+      "time": 92.95,
+      "time_str": "01:32.950",
+      "text": "得到的竟已非那位",
+      "translation": null
+    },
+    {
+      "time": 97.84,
+      "time_str": "01:37.840",
+      "text": "白如白糖误投红尘俗世",
+      "translation": null
+    },
+    {
+      "time": 100.9,
+      "time_str": "01:40.900",
+      "text": "消耗里亡逝",
+      "translation": null
+    },
+    {
+      "time": 104.42,
+      "time_str": "01:44.420",
+      "text": "但是爱骤变芥蒂后",
+      "translation": null
+    },
+    {
+      "time": 108.03,
+      "time_str": "01:48.030",
+      "text": "如同肮脏污秽不要提",
+      "translation": null
+    },
+    {
+      "time": 111.83,
+      "time_str": "01:51.830",
+      "text": "沉默带笑玫瑰",
+      "translation": null
+    },
+    {
+      "time": 114.13,
+      "time_str": "01:54.130",
+      "text": "带刺回礼 只信任防卫",
+      "translation": null
+    },
+    {
+      "time": 118.98,
+      "time_str": "01:58.980",
+      "text": "怎么冷酷却仍然美丽",
+      "translation": null
+    },
+    {
+      "time": 122.64,
+      "time_str": "02:02.640",
+      "text": "得不到的 从来矜贵",
+      "translation": null
+    },
+    {
+      "time": 126.4,
+      "time_str": "02:06.400",
+      "text": "身处劣势 如何不攻心计",
+      "translation": null
+    },
+    {
+      "time": 130.62,
+      "time_str": "02:10.620",
+      "text": "流露敬畏试探你的法规",
+      "translation": null
+    },
+    {
+      "time": 133.97,
+      "time_str": "02:13.970",
+      "text": "即使恶梦却仍然绮丽",
+      "translation": null
+    },
+    {
+      "time": 137.58,
+      "time_str": "02:17.580",
+      "text": "甘心垫底 衬你的高贵",
+      "translation": null
+    },
+    {
+      "time": 141.62,
+      "time_str": "02:21.620",
+      "text": "一撮玫瑰 无疑心的丧礼",
+      "translation": null
+    },
+    {
+      "time": 145.74,
+      "time_str": "02:25.740",
+      "text": "前事作废当爱已经流逝",
+      "translation": null
+    },
+    {
+      "time": 149.06,
+      "time_str": "02:29.060",
+      "text": "下一世",
+      "translation": null
+    },
+    {
+      "time": 163.69,
+      "time_str": "02:43.690",
+      "text": "怎么冷酷却仍然美丽",
+      "translation": null
+    },
+    {
+      "time": 167.61,
+      "time_str": "02:47.610",
+      "text": "得不到的 从来矜贵",
+      "translation": null
+    },
+    {
+      "time": 171.4,
+      "time_str": "02:51.400",
+      "text": "身处劣势 如何不攻心计",
+      "translation": null
+    },
+    {
+      "time": 175.51,
+      "time_str": "02:55.510",
+      "text": "流露敬畏试探爱的法规",
+      "translation": null
+    },
+    {
+      "time": 178.95,
+      "time_str": "02:58.950",
+      "text": "即使恶梦却仍然绮丽",
+      "translation": null
+    },
+    {
+      "time": 182.57,
+      "time_str": "03:02.570",
+      "text": "甘心垫底 最美的姿势",
+      "translation": null
+    },
+    {
+      "time": 186.38,
+      "time_str": "03:06.380",
+      "text": "一撮玫瑰 无疑心的丧礼",
+      "translation": null
+    },
+    {
+      "time": 190.48,
+      "time_str": "03:10.480",
+      "text": "前事作废当我已经流逝",
+      "translation": null
+    },
+    {
+      "time": 193.86,
+      "time_str": "03:13.860",
+      "text": "即使恶梦却仍然绮丽",
+      "translation": null
+    },
+    {
+      "time": 197.53,
+      "time_str": "03:17.530",
+      "text": "甘心垫底 衬你的高贵",
+      "translation": null
+    },
+    {
+      "time": 201.43,
+      "time_str": "03:21.430",
+      "text": "给我玫瑰 前来参加丧礼",
+      "translation": null
+    },
+    {
+      "time": 205.6,
+      "time_str": "03:25.600",
+      "text": "前事作废当我已经流逝",
+      "translation": null
+    },
+    {
+      "time": 208.95,
+      "time_str": "03:28.950",
+      "text": "又一世",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "白玫瑰 - 陈奕迅.lrc"
+}

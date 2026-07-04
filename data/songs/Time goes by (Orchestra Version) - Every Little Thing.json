@@ -1,0 +1,208 @@
+{
+  "title": "Time goes by",
+  "title_raw": "Time goes by (Orchestra Version)",
+  "version": "Orchestra Version",
+  "artist": "Every Little Thing",
+  "group_key": "time goes by|every little thing",
+  "writers": {
+    "lyricist": "五十嵐充",
+    "composer": "五十嵐充",
+    "arranger": "五十嵐充"
+  },
+  "lyrics": [
+    {
+      "time": 13.139,
+      "time_str": "00:13.139",
+      "text": "Wow wow wow...",
+      "translation": null
+    },
+    {
+      "time": 13.139,
+      "time_str": "00:13.139",
+      "text": "Wow wow wow...",
+      "translation": null
+    },
+    {
+      "time": 24.79,
+      "time_str": "00:24.790",
+      "text": "きっときっと誰もが  何か足りないものを",
+      "translation": "一定谁都有过这样的经历吧"
+    },
+    {
+      "time": 35.44,
+      "time_str": "00:35.440",
+      "text": "無理に期待しすぎて  人を傷つけている",
+      "translation": "过分期待自己不足的东西 而伤害了别人"
+    },
+    {
+      "time": 47.49,
+      "time_str": "00:47.490",
+      "text": "Wow wow wow...",
+      "translation": null
+    },
+    {
+      "time": 47.49,
+      "time_str": "00:47.490",
+      "text": "Wow wow wow...",
+      "translation": null
+    },
+    {
+      "time": 58.47,
+      "time_str": "00:58.470",
+      "text": "会えばケンカしてたね  長く居すぎたのかな",
+      "translation": "一见面就吵架 是因为在一起太久了吗"
+    },
+    {
+      "time": 69.97,
+      "time_str": "01:09.970",
+      "text": "意地を張ればなおさら  隙間広がるばかり",
+      "translation": "互相赌气的话 只会让隔阂越来越大"
+    },
+    {
+      "time": 81.3,
+      "time_str": "01:21.300",
+      "text": "Kissをしたり抱き合ったり",
+      "translation": "曾有过亲吻 曾有过拥抱"
+    },
+    {
+      "time": 86.89,
+      "time_str": "01:26.890",
+      "text": "多分それでよかった",
+      "translation": "或许那样多好"
+    },
+    {
+      "time": 92.91,
+      "time_str": "01:32.910",
+      "text": "あたりまえの  愛し方も  ずっと忘れてたね",
+      "translation": "那些平凡的相爱之道 却一直被我们遗忘"
+    },
+    {
+      "time": 104.35,
+      "time_str": "01:44.350",
+      "text": "信じ合える喜びも  傷つけ合う悲しみも",
+      "translation": "互相信任的喜悦也好 互相伤害的悲伤也好"
+    },
+    {
+      "time": 115.87,
+      "time_str": "01:55.870",
+      "text": "いつかありのままに愛せるように",
+      "translation": "但愿将来有一天能够真心相爱"
+    },
+    {
+      "time": 122.36,
+      "time_str": "02:02.360",
+      "text": "Time goes by...",
+      "translation": null
+    },
+    {
+      "time": 122.36,
+      "time_str": "02:02.360",
+      "text": "Time goes by...",
+      "translation": null
+    },
+    {
+      "time": 139.109,
+      "time_str": "02:19.109",
+      "text": "都合悪い時には  いつも言い訳してた",
+      "translation": "在不顺利的时候 总是在为自己找借口"
+    },
+    {
+      "time": 150.409,
+      "time_str": "02:30.409",
+      "text": "そうねそんなところは  二人よくにていたね",
+      "translation": "是啊 在这一方面 我们二人真是相似呢"
+    },
+    {
+      "time": 161.359,
+      "time_str": "02:41.359",
+      "text": "安らぎとか真実とか",
+      "translation": "安稳也好 真实也好"
+    },
+    {
+      "time": 168.49,
+      "time_str": "02:48.490",
+      "text": "いつも求めてたけど",
+      "translation": "虽然一直都在努力追求"
+    },
+    {
+      "time": 173.79,
+      "time_str": "02:53.790",
+      "text": "言葉のように  簡単には  うまく伝えられずに",
+      "translation": "但却不能像言语般 如此容易地传达"
+    },
+    {
+      "time": 184.779,
+      "time_str": "03:04.779",
+      "text": "もう一度思い出して  あんなにも愛したこと",
+      "translation": "再一次回忆起曾经恋爱的经历"
+    },
+    {
+      "time": 196.279,
+      "time_str": "03:16.279",
+      "text": "「アリガトウ」が言える時が来るまで",
+      "translation": "直到可以说出“谢谢”的那一刻来临"
+    },
+    {
+      "time": 202.779,
+      "time_str": "03:22.779",
+      "text": "Say goodbye...",
+      "translation": null
+    },
+    {
+      "time": 202.779,
+      "time_str": "03:22.779",
+      "text": "Say goodbye...",
+      "translation": null
+    },
+    {
+      "time": 207.989,
+      "time_str": "03:27.989",
+      "text": "残された傷あとが消えた瞬間",
+      "translation": "在余下的伤痕消失的那一瞬间"
+    },
+    {
+      "time": 213.969,
+      "time_str": "03:33.969",
+      "text": "本当のやさしさの意味がわかるよきっと",
+      "translation": "心中也一定会明白温柔的真正意义"
+    },
+    {
+      "time": 248.129,
+      "time_str": "04:08.129",
+      "text": "過ぎた日に背をむけずに  ゆっくり時間(とき)を感じて",
+      "translation": "无法背离过去的那些日子 只是平静缓慢地感受时间"
+    },
+    {
+      "time": 259.629,
+      "time_str": "04:19.629",
+      "text": "いつかまた笑って会えるといいね",
+      "translation": "要是将来有一天能笑着相逢该多好"
+    },
+    {
+      "time": 265.949,
+      "time_str": "04:25.949",
+      "text": "Time goes by...",
+      "translation": null
+    },
+    {
+      "time": 265.949,
+      "time_str": "04:25.949",
+      "text": "Time goes by...",
+      "translation": null
+    },
+    {
+      "time": 271.709,
+      "time_str": "04:31.709",
+      "text": "Wow wow wow...",
+      "translation": null
+    },
+    {
+      "time": 271.709,
+      "time_str": "04:31.709",
+      "text": "Wow wow wow...",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Time goes by (Orchestra Version) - Every Little Thing.lrc"
+}

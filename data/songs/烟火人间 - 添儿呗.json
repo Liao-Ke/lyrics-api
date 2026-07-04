@@ -1,0 +1,340 @@
+{
+  "title": "烟火人间",
+  "title_raw": "烟火人间",
+  "version": null,
+  "artist": "添儿呗",
+  "group_key": "烟火人间|添儿呗",
+  "writers": {
+    "lyricist": "王韵澄",
+    "composer": "王韵澄",
+    "arranger": "王韵澄"
+  },
+  "lyrics": [
+    {
+      "time": 54.33,
+      "time_str": "00:54.330",
+      "text": "杯未满",
+      "translation": null
+    },
+    {
+      "time": 56.02,
+      "time_str": "00:56.020",
+      "text": "窥得星河灿烂",
+      "translation": null
+    },
+    {
+      "time": 59.48,
+      "time_str": "00:59.480",
+      "text": "一念间",
+      "translation": null
+    },
+    {
+      "time": 60.63,
+      "time_str": "01:00.630",
+      "text": "痴于奔波山川",
+      "translation": null
+    },
+    {
+      "time": 65.86,
+      "time_str": "01:05.860",
+      "text": "意未灭",
+      "translation": null
+    },
+    {
+      "time": 67.64,
+      "time_str": "01:07.640",
+      "text": "祈愿悯人悲天",
+      "translation": null
+    },
+    {
+      "time": 70.77,
+      "time_str": "01:10.770",
+      "text": "声影绝",
+      "translation": null
+    },
+    {
+      "time": 72.0,
+      "time_str": "01:12.000",
+      "text": "恃勇催马扬鞭",
+      "translation": null
+    },
+    {
+      "time": 76.85,
+      "time_str": "01:16.850",
+      "text": "盛寒",
+      "translation": null
+    },
+    {
+      "time": 78.21,
+      "time_str": "01:18.210",
+      "text": "不凡",
+      "translation": null
+    },
+    {
+      "time": 79.43,
+      "time_str": "01:19.430",
+      "text": "宁整夜寝馈难安",
+      "translation": null
+    },
+    {
+      "time": 82.96,
+      "time_str": "01:22.960",
+      "text": "执迷独断的斗胆",
+      "translation": null
+    },
+    {
+      "time": 88.29,
+      "time_str": "01:28.290",
+      "text": "傲寒",
+      "translation": null
+    },
+    {
+      "time": 89.79,
+      "time_str": "01:29.790",
+      "text": "叹惋",
+      "translation": null
+    },
+    {
+      "time": 90.83,
+      "time_str": "01:30.830",
+      "text": "层楼刺骨却难言",
+      "translation": null
+    },
+    {
+      "time": 94.32,
+      "time_str": "01:34.320",
+      "text": "出淤泥怎能不染",
+      "translation": null
+    },
+    {
+      "time": 101.72,
+      "time_str": "01:41.720",
+      "text": "我与蝉声为伴",
+      "translation": null
+    },
+    {
+      "time": 104.0,
+      "time_str": "01:44.000",
+      "text": "留灯一盏",
+      "translation": null
+    },
+    {
+      "time": 105.43,
+      "time_str": "01:45.430",
+      "text": "不识烟火人间",
+      "translation": null
+    },
+    {
+      "time": 107.68,
+      "time_str": "01:47.680",
+      "text": "咽下须臾悲欢",
+      "translation": null
+    },
+    {
+      "time": 109.91,
+      "time_str": "01:49.910",
+      "text": "句句唏嘘寡言",
+      "translation": null
+    },
+    {
+      "time": 113.21,
+      "time_str": "01:53.210",
+      "text": "酒满染湿衣衫",
+      "translation": null
+    },
+    {
+      "time": 115.59,
+      "time_str": "01:55.590",
+      "text": "形只影单",
+      "translation": null
+    },
+    {
+      "time": 116.79,
+      "time_str": "01:56.790",
+      "text": "余生不必为难",
+      "translation": null
+    },
+    {
+      "time": 119.0,
+      "time_str": "01:59.000",
+      "text": "我愿迁就离散",
+      "translation": null
+    },
+    {
+      "time": 121.0,
+      "time_str": "02:01.000",
+      "text": "沦为众生长谈",
+      "translation": null
+    },
+    {
+      "time": 151.0,
+      "time_str": "02:31.000",
+      "text": "迁徙岁月",
+      "translation": null
+    },
+    {
+      "time": 153.23,
+      "time_str": "02:33.230",
+      "text": "世故如梦初觉",
+      "translation": null
+    },
+    {
+      "time": 156.0,
+      "time_str": "02:36.000",
+      "text": "人世执念",
+      "translation": null
+    },
+    {
+      "time": 157.97,
+      "time_str": "02:37.970",
+      "text": "宿命山高路远",
+      "translation": null
+    },
+    {
+      "time": 162.68,
+      "time_str": "02:42.680",
+      "text": "恩恩怨怨",
+      "translation": null
+    },
+    {
+      "time": 165.07,
+      "time_str": "02:45.070",
+      "text": "因人圆也因人缺",
+      "translation": null
+    },
+    {
+      "time": 168.32,
+      "time_str": "02:48.320",
+      "text": "难断",
+      "translation": null
+    },
+    {
+      "time": 169.86,
+      "time_str": "02:49.860",
+      "text": "何为由原",
+      "translation": null
+    },
+    {
+      "time": 173.49,
+      "time_str": "02:53.490",
+      "text": "我与蝉声为伴",
+      "translation": null
+    },
+    {
+      "time": 175.15,
+      "time_str": "02:55.150",
+      "text": "留灯一盏",
+      "translation": null
+    },
+    {
+      "time": 176.79,
+      "time_str": "02:56.790",
+      "text": "不识烟火人间",
+      "translation": null
+    },
+    {
+      "time": 179.08,
+      "time_str": "02:59.080",
+      "text": "咽下须臾悲欢",
+      "translation": null
+    },
+    {
+      "time": 181.0,
+      "time_str": "03:01.000",
+      "text": "句句唏嘘寡言",
+      "translation": null
+    },
+    {
+      "time": 184.67,
+      "time_str": "03:04.670",
+      "text": "酒满染湿衣衫",
+      "translation": null
+    },
+    {
+      "time": 186.88,
+      "time_str": "03:06.880",
+      "text": "形只影单",
+      "translation": null
+    },
+    {
+      "time": 188.1,
+      "time_str": "03:08.100",
+      "text": "余生不必为难",
+      "translation": null
+    },
+    {
+      "time": 190.61,
+      "time_str": "03:10.610",
+      "text": "我愿迁就离散",
+      "translation": null
+    },
+    {
+      "time": 192.59,
+      "time_str": "03:12.590",
+      "text": "沦为众生长谈",
+      "translation": null
+    },
+    {
+      "time": 219.03,
+      "time_str": "03:39.030",
+      "text": "我已不问世间",
+      "translation": null
+    },
+    {
+      "time": 221.0,
+      "time_str": "03:41.000",
+      "text": "嬉戏争辩",
+      "translation": null
+    },
+    {
+      "time": 222.53,
+      "time_str": "03:42.530",
+      "text": "将诸君皆看穿",
+      "translation": null
+    },
+    {
+      "time": 224.97,
+      "time_str": "03:44.970",
+      "text": "无非口舌欢宴",
+      "translation": null
+    },
+    {
+      "time": 226.92,
+      "time_str": "03:46.920",
+      "text": "尽皆雀跃疯癫",
+      "translation": null
+    },
+    {
+      "time": 230.32,
+      "time_str": "03:50.320",
+      "text": "愿化作尘世间",
+      "translation": null
+    },
+    {
+      "time": 232.48,
+      "time_str": "03:52.480",
+      "text": "烟火一瞥",
+      "translation": null
+    },
+    {
+      "time": 233.83,
+      "time_str": "03:53.830",
+      "text": "不畏众生指点",
+      "translation": null
+    },
+    {
+      "time": 236.3,
+      "time_str": "03:56.300",
+      "text": "任星月变迁",
+      "translation": null
+    },
+    {
+      "time": 238.02,
+      "time_str": "03:58.020",
+      "text": "我仍自保周全",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "烟火人间 - 添儿呗.lrc"
+}

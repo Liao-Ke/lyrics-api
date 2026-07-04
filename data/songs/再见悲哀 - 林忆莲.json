@@ -1,0 +1,310 @@
+{
+  "title": "再见悲哀",
+  "title_raw": "再见悲哀",
+  "version": null,
+  "artist": "林忆莲",
+  "group_key": "再见悲哀|林忆莲",
+  "writers": {
+    "lyricist": null,
+    "composer": "Eric Kwok",
+    "arranger": "Eric Kwok/Ted Lo"
+  },
+  "lyrics": [
+    {
+      "time": 0.47,
+      "time_str": "00:00.470",
+      "text": "再见悲哀因我不再计较任何结果",
+      "translation": null
+    },
+    {
+      "time": 5.67,
+      "time_str": "00:05.670",
+      "text": "什么都可以坦荡未在乎谁是错",
+      "translation": null
+    },
+    {
+      "time": 10.42,
+      "time_str": "00:10.420",
+      "text": "我两眼合上失去什么",
+      "translation": null
+    },
+    {
+      "time": 13.71,
+      "time_str": "00:13.710",
+      "text": "是与非也掠过",
+      "translation": null
+    },
+    {
+      "time": 16.28,
+      "time_str": "00:16.280",
+      "text": "别固执到问一切为何",
+      "translation": null
+    },
+    {
+      "time": 19.62,
+      "time_str": "00:19.620",
+      "text": "再见伤感因我不易被泪流留住我",
+      "translation": null
+    },
+    {
+      "time": 24.78,
+      "time_str": "00:24.780",
+      "text": "什么的境界都爱自自然地渡过",
+      "translation": null
+    },
+    {
+      "time": 29.5,
+      "time_str": "00:29.500",
+      "text": "去到最尾就如与物忘我",
+      "translation": null
+    },
+    {
+      "time": 32.92,
+      "time_str": "00:32.920",
+      "text": "回复身心最初",
+      "translation": null
+    },
+    {
+      "time": 35.48,
+      "time_str": "00:35.480",
+      "text": "面对心镜内一片平和",
+      "translation": null
+    },
+    {
+      "time": 39.31,
+      "time_str": "00:39.310",
+      "text": "鸟声瞬间闪过",
+      "translation": null
+    },
+    {
+      "time": 49.73,
+      "time_str": "00:49.730",
+      "text": "除了心只有心可以解心锁",
+      "translation": null
+    },
+    {
+      "time": 54.46,
+      "time_str": "00:54.460",
+      "text": "烦恼多因我要得多",
+      "translation": null
+    },
+    {
+      "time": 59.16,
+      "time_str": "00:59.160",
+      "text": "微似砂轻似烟怎会有风波",
+      "translation": null
+    },
+    {
+      "time": 64.01,
+      "time_str": "01:04.010",
+      "text": "有惆怅跌入了恒河",
+      "translation": null
+    },
+    {
+      "time": 68.57,
+      "time_str": "01:08.570",
+      "text": "情路太弯过就过当是个经过",
+      "translation": null
+    },
+    {
+      "time": 73.45,
+      "time_str": "01:13.450",
+      "text": "感动的爱当做一次切磋",
+      "translation": null
+    },
+    {
+      "time": 78.2,
+      "time_str": "01:18.200",
+      "text": "沿途上遇上什么都欣赏过",
+      "translation": null
+    },
+    {
+      "time": 82.82,
+      "time_str": "01:22.820",
+      "text": "投入时便快乐一起过",
+      "translation": null
+    },
+    {
+      "time": 86.72,
+      "time_str": "01:26.720",
+      "text": "再见悲哀因我不再计较任何结果",
+      "translation": null
+    },
+    {
+      "time": 92.02,
+      "time_str": "01:32.020",
+      "text": "什么都可以坦荡未在乎谁是错",
+      "translation": null
+    },
+    {
+      "time": 96.71,
+      "time_str": "01:36.710",
+      "text": "我两眼合上失去什么",
+      "translation": null
+    },
+    {
+      "time": 100.24,
+      "time_str": "01:40.240",
+      "text": "是与非也掠过",
+      "translation": null
+    },
+    {
+      "time": 102.62,
+      "time_str": "01:42.620",
+      "text": "别固执到问一切为何",
+      "translation": null
+    },
+    {
+      "time": 105.98,
+      "time_str": "01:45.980",
+      "text": "再见伤感因我不易被泪流留住我",
+      "translation": null
+    },
+    {
+      "time": 111.15,
+      "time_str": "01:51.150",
+      "text": "什么的境界都爱自自然地渡过",
+      "translation": null
+    },
+    {
+      "time": 115.92,
+      "time_str": "01:55.920",
+      "text": "去到最尾就如与物忘我",
+      "translation": null
+    },
+    {
+      "time": 119.38,
+      "time_str": "01:59.380",
+      "text": "回复身心最初",
+      "translation": null
+    },
+    {
+      "time": 121.79,
+      "time_str": "02:01.790",
+      "text": "面对心镜内一片平和",
+      "translation": null
+    },
+    {
+      "time": 125.69,
+      "time_str": "02:05.690",
+      "text": "这么最好不过",
+      "translation": null
+    },
+    {
+      "time": 131.05,
+      "time_str": "02:11.050",
+      "text": "傻也好痴也好因你记得多",
+      "translation": null
+    },
+    {
+      "time": 135.98,
+      "time_str": "02:15.980",
+      "text": "忘记的比你记的多",
+      "translation": null
+    },
+    {
+      "time": 140.58,
+      "time_str": "02:20.580",
+      "text": "怀念最好我便会继续爱惜我",
+      "translation": null
+    },
+    {
+      "time": 145.36,
+      "time_str": "02:25.360",
+      "text": "花瓣飘过美在不顾结果",
+      "translation": null
+    },
+    {
+      "time": 150.19,
+      "time_str": "02:30.190",
+      "text": "人存活在世就似沙粒飞过",
+      "translation": null
+    },
+    {
+      "time": 154.82,
+      "time_str": "02:34.820",
+      "text": "谁又曾为了谁褒贬过",
+      "translation": null
+    },
+    {
+      "time": 158.78,
+      "time_str": "02:38.780",
+      "text": "再见悲哀因我不再计较任何结果",
+      "translation": null
+    },
+    {
+      "time": 164.02,
+      "time_str": "02:44.020",
+      "text": "什么都可以坦荡未在乎谁是错",
+      "translation": null
+    },
+    {
+      "time": 168.74,
+      "time_str": "02:48.740",
+      "text": "我两眼合上失去什么",
+      "translation": null
+    },
+    {
+      "time": 172.11,
+      "time_str": "02:52.110",
+      "text": "是与非也掠过",
+      "translation": null
+    },
+    {
+      "time": 174.65,
+      "time_str": "02:54.650",
+      "text": "别固执到问一切为何",
+      "translation": null
+    },
+    {
+      "time": 177.97,
+      "time_str": "02:57.970",
+      "text": "再见伤感因我不易被泪流留住我",
+      "translation": null
+    },
+    {
+      "time": 183.1,
+      "time_str": "03:03.100",
+      "text": "什么的境界都爱自自然地渡过",
+      "translation": null
+    },
+    {
+      "time": 187.95,
+      "time_str": "03:07.950",
+      "text": "去到最尾就如与物忘我",
+      "translation": null
+    },
+    {
+      "time": 191.43,
+      "time_str": "03:11.430",
+      "text": "回复身心最初",
+      "translation": null
+    },
+    {
+      "time": 193.8,
+      "time_str": "03:13.800",
+      "text": "面对心镜内一片平和",
+      "translation": null
+    },
+    {
+      "time": 197.72,
+      "time_str": "03:17.720",
+      "text": "这么最好不过",
+      "translation": null
+    },
+    {
+      "time": 202.53,
+      "time_str": "03:22.530",
+      "text": "这么最好不过",
+      "translation": null
+    },
+    {
+      "time": 207.22,
+      "time_str": "03:27.220",
+      "text": "全是一种经过",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "再见悲哀 - 林忆莲.lrc"
+}

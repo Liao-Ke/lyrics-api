@@ -1,0 +1,490 @@
+{
+  "title": "我怀念的",
+  "title_raw": "我怀念的",
+  "version": null,
+  "artist": "孙燕姿",
+  "group_key": "我怀念的|孙燕姿",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "李偲菘",
+    "arranger": "Martin Tang"
+  },
+  "lyrics": [
+    {
+      "time": 16.86,
+      "time_str": "00:16.860",
+      "text": "我问为什么",
+      "translation": null
+    },
+    {
+      "time": 19.18,
+      "time_str": "00:19.180",
+      "text": "那女孩 传简讯给我",
+      "translation": null
+    },
+    {
+      "time": 24.4,
+      "time_str": "00:24.400",
+      "text": "而你为什么",
+      "translation": null
+    },
+    {
+      "time": 26.48,
+      "time_str": "00:26.480",
+      "text": "不解释 低着头沉默",
+      "translation": null
+    },
+    {
+      "time": 30.61,
+      "time_str": "00:30.610",
+      "text": "我该相信你很爱我",
+      "translation": null
+    },
+    {
+      "time": 34.21,
+      "time_str": "00:34.210",
+      "text": "不愿意敷衍我",
+      "translation": null
+    },
+    {
+      "time": 37.63,
+      "time_str": "00:37.630",
+      "text": "还是明白",
+      "translation": null
+    },
+    {
+      "time": 39.13,
+      "time_str": "00:39.130",
+      "text": "你已不想挽回什么",
+      "translation": null
+    },
+    {
+      "time": 45.71,
+      "time_str": "00:45.710",
+      "text": "想问为什么",
+      "translation": null
+    },
+    {
+      "time": 48.27,
+      "time_str": "00:48.270",
+      "text": "我不再 是你的快乐",
+      "translation": null
+    },
+    {
+      "time": 53.26,
+      "time_str": "00:53.260",
+      "text": "可是为什么",
+      "translation": null
+    },
+    {
+      "time": 55.33,
+      "time_str": "00:55.330",
+      "text": "却苦笑 说我都懂了",
+      "translation": null
+    },
+    {
+      "time": 59.37,
+      "time_str": "00:59.370",
+      "text": "自尊常常将人拖着",
+      "translation": null
+    },
+    {
+      "time": 63.02,
+      "time_str": "01:03.020",
+      "text": "把爱都走曲折",
+      "translation": null
+    },
+    {
+      "time": 66.27,
+      "time_str": "01:06.270",
+      "text": "假装了解是怕",
+      "translation": null
+    },
+    {
+      "time": 68.37,
+      "time_str": "01:08.370",
+      "text": "真相 太赤裸裸",
+      "translation": null
+    },
+    {
+      "time": 71.87,
+      "time_str": "01:11.870",
+      "text": "狼狈比失去难受",
+      "translation": null
+    },
+    {
+      "time": 74.36,
+      "time_str": "01:14.360",
+      "text": "我怀念的 是无话不说",
+      "translation": null
+    },
+    {
+      "time": 77.72,
+      "time_str": "01:17.720",
+      "text": "我怀念的 是一起做梦",
+      "translation": null
+    },
+    {
+      "time": 81.28,
+      "time_str": "01:21.280",
+      "text": "我怀念的 是争吵以后",
+      "translation": null
+    },
+    {
+      "time": 84.5,
+      "time_str": "01:24.500",
+      "text": "还是想要 爱你的冲动",
+      "translation": null
+    },
+    {
+      "time": 88.54,
+      "time_str": "01:28.540",
+      "text": "我记得那年生日",
+      "translation": null
+    },
+    {
+      "time": 91.81,
+      "time_str": "01:31.810",
+      "text": "也记得那一首歌",
+      "translation": null
+    },
+    {
+      "time": 95.14,
+      "time_str": "01:35.140",
+      "text": "记得那片星空",
+      "translation": null
+    },
+    {
+      "time": 97.12,
+      "time_str": "01:37.120",
+      "text": "最紧的右手",
+      "translation": null
+    },
+    {
+      "time": 98.81,
+      "time_str": "01:38.810",
+      "text": "最暖的胸口",
+      "translation": null
+    },
+    {
+      "time": 100.34,
+      "time_str": "01:40.340",
+      "text": "谁记得",
+      "translation": null
+    },
+    {
+      "time": 103.84,
+      "time_str": "01:43.840",
+      "text": "谁忘了",
+      "translation": null
+    },
+    {
+      "time": 116.42,
+      "time_str": "01:56.420",
+      "text": "想问为什么",
+      "translation": null
+    },
+    {
+      "time": 118.49,
+      "time_str": "01:58.490",
+      "text": "我不再 是你的快乐",
+      "translation": null
+    },
+    {
+      "time": 123.34,
+      "time_str": "02:03.340",
+      "text": "可是为什么",
+      "translation": null
+    },
+    {
+      "time": 125.36,
+      "time_str": "02:05.360",
+      "text": "却苦笑 说我都懂了",
+      "translation": null
+    },
+    {
+      "time": 129.41,
+      "time_str": "02:09.410",
+      "text": "自尊常常将人拖着",
+      "translation": null
+    },
+    {
+      "time": 133.11,
+      "time_str": "02:13.110",
+      "text": "把爱都走曲折",
+      "translation": null
+    },
+    {
+      "time": 136.29,
+      "time_str": "02:16.290",
+      "text": "假装了解是怕",
+      "translation": null
+    },
+    {
+      "time": 138.49,
+      "time_str": "02:18.490",
+      "text": "真相太赤裸裸",
+      "translation": null
+    },
+    {
+      "time": 141.86,
+      "time_str": "02:21.860",
+      "text": "狼狈比失去难受",
+      "translation": null
+    },
+    {
+      "time": 144.46,
+      "time_str": "02:24.460",
+      "text": "我怀念的 是无话不说",
+      "translation": null
+    },
+    {
+      "time": 147.65,
+      "time_str": "02:27.650",
+      "text": "我怀念的 是一起做梦",
+      "translation": null
+    },
+    {
+      "time": 151.07,
+      "time_str": "02:31.070",
+      "text": "我怀念的 是争吵以后",
+      "translation": null
+    },
+    {
+      "time": 154.29,
+      "time_str": "02:34.290",
+      "text": "还是想要 爱你的冲动",
+      "translation": null
+    },
+    {
+      "time": 158.27,
+      "time_str": "02:38.270",
+      "text": "我记得那年生日",
+      "translation": null
+    },
+    {
+      "time": 161.69,
+      "time_str": "02:41.690",
+      "text": "也记得那一首歌",
+      "translation": null
+    },
+    {
+      "time": 164.85,
+      "time_str": "02:44.850",
+      "text": "记得那片星空",
+      "translation": null
+    },
+    {
+      "time": 166.77,
+      "time_str": "02:46.770",
+      "text": "最紧的右手",
+      "translation": null
+    },
+    {
+      "time": 168.5,
+      "time_str": "02:48.500",
+      "text": "最暖的胸口",
+      "translation": null
+    },
+    {
+      "time": 169.93,
+      "time_str": "02:49.930",
+      "text": "谁忘了",
+      "translation": null
+    },
+    {
+      "time": 171.76,
+      "time_str": "02:51.760",
+      "text": "我怀念的 是无言感动",
+      "translation": null
+    },
+    {
+      "time": 175.14,
+      "time_str": "02:55.140",
+      "text": "我怀念的 是绝对炽热",
+      "translation": null
+    },
+    {
+      "time": 178.52,
+      "time_str": "02:58.520",
+      "text": "我怀念的 是你很激动",
+      "translation": null
+    },
+    {
+      "time": 181.54,
+      "time_str": "03:01.540",
+      "text": "求我原谅 抱得我都痛",
+      "translation": null
+    },
+    {
+      "time": 185.69,
+      "time_str": "03:05.690",
+      "text": "我记得你在背后",
+      "translation": null
+    },
+    {
+      "time": 189.04,
+      "time_str": "03:09.040",
+      "text": "也记得我颤抖着",
+      "translation": null
+    },
+    {
+      "time": 192.26,
+      "time_str": "03:12.260",
+      "text": "记得感觉汹涌",
+      "translation": null
+    },
+    {
+      "time": 194.37,
+      "time_str": "03:14.370",
+      "text": "最美的烟火",
+      "translation": null
+    },
+    {
+      "time": 195.97,
+      "time_str": "03:15.970",
+      "text": "最长的相拥",
+      "translation": null
+    },
+    {
+      "time": 197.35,
+      "time_str": "03:17.350",
+      "text": "谁爱得太自由",
+      "translation": null
+    },
+    {
+      "time": 200.9,
+      "time_str": "03:20.900",
+      "text": "谁过头太远了",
+      "translation": null
+    },
+    {
+      "time": 204.17,
+      "time_str": "03:24.170",
+      "text": "谁要走我的心",
+      "translation": null
+    },
+    {
+      "time": 207.59,
+      "time_str": "03:27.590",
+      "text": "谁忘了那就是承诺",
+      "translation": null
+    },
+    {
+      "time": 211.21,
+      "time_str": "03:31.210",
+      "text": "谁自顾自地走",
+      "translation": null
+    },
+    {
+      "time": 214.49,
+      "time_str": "03:34.490",
+      "text": "谁忘了看着我",
+      "translation": null
+    },
+    {
+      "time": 217.89,
+      "time_str": "03:37.890",
+      "text": "谁让爱变沉重",
+      "translation": null
+    },
+    {
+      "time": 221.35,
+      "time_str": "03:41.350",
+      "text": "谁忘了要给你温柔",
+      "translation": null
+    },
+    {
+      "time": 236.86,
+      "time_str": "03:56.860",
+      "text": "我怀念的",
+      "translation": null
+    },
+    {
+      "time": 239.42,
+      "time_str": "03:59.420",
+      "text": "我还有想要 爱你的冲动",
+      "translation": null
+    },
+    {
+      "time": 243.77,
+      "time_str": "04:03.770",
+      "text": "我记得那年生日",
+      "translation": null
+    },
+    {
+      "time": 247.11,
+      "time_str": "04:07.110",
+      "text": "也记得那一首歌",
+      "translation": null
+    },
+    {
+      "time": 250.25,
+      "time_str": "04:10.250",
+      "text": "记得那片星空",
+      "translation": null
+    },
+    {
+      "time": 252.05,
+      "time_str": "04:12.050",
+      "text": "最紧的右手",
+      "translation": null
+    },
+    {
+      "time": 253.86,
+      "time_str": "04:13.860",
+      "text": "最暖的胸口",
+      "translation": null
+    },
+    {
+      "time": 255.35,
+      "time_str": "04:15.350",
+      "text": "我放手",
+      "translation": null
+    },
+    {
+      "time": 258.74,
+      "time_str": "04:18.740",
+      "text": "我让座",
+      "translation": null
+    },
+    {
+      "time": 262.09,
+      "time_str": "04:22.090",
+      "text": "假洒脱",
+      "translation": null
+    },
+    {
+      "time": 265.51,
+      "time_str": "04:25.510",
+      "text": "谁懂我多么不舍得",
+      "translation": null
+    },
+    {
+      "time": 269.34,
+      "time_str": "04:29.340",
+      "text": "太爱了",
+      "translation": null
+    },
+    {
+      "time": 272.37,
+      "time_str": "04:32.370",
+      "text": "所以我",
+      "translation": null
+    },
+    {
+      "time": 275.91,
+      "time_str": "04:35.910",
+      "text": "没有哭",
+      "translation": null
+    },
+    {
+      "time": 279.24,
+      "time_str": "04:39.240",
+      "text": "没有说",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我怀念的 - 孙燕姿.lrc"
+}

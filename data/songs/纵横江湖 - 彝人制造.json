@@ -1,0 +1,250 @@
+{
+  "title": "纵横江湖",
+  "title_raw": "纵横江湖",
+  "version": null,
+  "artist": "彝人制造",
+  "group_key": "纵横江湖|彝人制造",
+  "writers": {
+    "lyricist": "翟廷雅",
+    "composer": "罗晓音",
+    "arranger": "罗晓音"
+  },
+  "lyrics": [
+    {
+      "time": 0.83,
+      "time_str": "00:00.830",
+      "text": "纵横江湖",
+      "translation": null
+    },
+    {
+      "time": 27.2,
+      "time_str": "00:27.200",
+      "text": "纵马江湖道 今生任逍遥",
+      "translation": null
+    },
+    {
+      "time": 31.83,
+      "time_str": "00:31.830",
+      "text": "英雄不为红颜折腰",
+      "translation": null
+    },
+    {
+      "time": 36.25,
+      "time_str": "00:36.250",
+      "text": "豪情比天高 一身冷傲骨",
+      "translation": null
+    },
+    {
+      "time": 40.59,
+      "time_str": "00:40.590",
+      "text": "天地来打造",
+      "translation": null
+    },
+    {
+      "time": 43.14,
+      "time_str": "00:43.140",
+      "text": "剑荡群魔鬼神惊",
+      "translation": null
+    },
+    {
+      "time": 47.13,
+      "time_str": "00:47.130",
+      "text": "男儿正侠少",
+      "translation": null
+    },
+    {
+      "time": 49.3,
+      "time_str": "00:49.300",
+      "text": "手握残阳沥血剑",
+      "translation": null
+    },
+    {
+      "time": 51.51,
+      "time_str": "00:51.510",
+      "text": "心有冷月凝霜刀",
+      "translation": null
+    },
+    {
+      "time": 54.12,
+      "time_str": "00:54.120",
+      "text": "绝顶一览众山小",
+      "translation": null
+    },
+    {
+      "time": 59.87,
+      "time_str": "00:59.870",
+      "text": "男儿世间走一遭",
+      "translation": null
+    },
+    {
+      "time": 64.59,
+      "time_str": "01:04.590",
+      "text": "手握残阳沥血剑",
+      "translation": null
+    },
+    {
+      "time": 66.8,
+      "time_str": "01:06.800",
+      "text": "心有冷月凝霜刀",
+      "translation": null
+    },
+    {
+      "time": 69.56,
+      "time_str": "01:09.560",
+      "text": "绝顶一览众山小",
+      "translation": null
+    },
+    {
+      "time": 75.2,
+      "time_str": "01:15.200",
+      "text": "男儿世间走一遭",
+      "translation": null
+    },
+    {
+      "time": 112.22,
+      "time_str": "01:52.220",
+      "text": "纵马江湖道 今生任逍遥",
+      "translation": null
+    },
+    {
+      "time": 116.95,
+      "time_str": "01:56.950",
+      "text": "英雄不为红颜折腰",
+      "translation": null
+    },
+    {
+      "time": 121.33,
+      "time_str": "02:01.330",
+      "text": "豪情比天高 一身冷傲骨",
+      "translation": null
+    },
+    {
+      "time": 125.71,
+      "time_str": "02:05.710",
+      "text": "天地来打造",
+      "translation": null
+    },
+    {
+      "time": 128.22,
+      "time_str": "02:08.220",
+      "text": "剑荡群魔鬼神惊",
+      "translation": null
+    },
+    {
+      "time": 132.25,
+      "time_str": "02:12.250",
+      "text": "男儿正侠少",
+      "translation": null
+    },
+    {
+      "time": 134.43,
+      "time_str": "02:14.430",
+      "text": "手握残阳沥血剑",
+      "translation": null
+    },
+    {
+      "time": 136.56,
+      "time_str": "02:16.560",
+      "text": "心有冷月凝霜刀",
+      "translation": null
+    },
+    {
+      "time": 139.23,
+      "time_str": "02:19.230",
+      "text": "绝顶一览众山小",
+      "translation": null
+    },
+    {
+      "time": 144.94,
+      "time_str": "02:24.940",
+      "text": "男儿世间走一遭",
+      "translation": null
+    },
+    {
+      "time": 149.73,
+      "time_str": "02:29.730",
+      "text": "手握残阳沥血剑",
+      "translation": null
+    },
+    {
+      "time": 151.75,
+      "time_str": "02:31.750",
+      "text": "心有冷月凝霜刀",
+      "translation": null
+    },
+    {
+      "time": 154.53,
+      "time_str": "02:34.530",
+      "text": "绝顶一览众山小",
+      "translation": null
+    },
+    {
+      "time": 160.17,
+      "time_str": "02:40.170",
+      "text": "男儿世间走一遭",
+      "translation": null
+    },
+    {
+      "time": 167.29,
+      "time_str": "02:47.290",
+      "text": "手握残阳沥血剑",
+      "translation": null
+    },
+    {
+      "time": 169.39,
+      "time_str": "02:49.390",
+      "text": "心有冷月凝霜刀",
+      "translation": null
+    },
+    {
+      "time": 172.44,
+      "time_str": "02:52.440",
+      "text": "绝顶一览众山小",
+      "translation": null
+    },
+    {
+      "time": 177.74,
+      "time_str": "02:57.740",
+      "text": "男儿世间走一遭",
+      "translation": null
+    },
+    {
+      "time": 182.43,
+      "time_str": "03:02.430",
+      "text": "手握残阳沥血剑",
+      "translation": null
+    },
+    {
+      "time": 184.6,
+      "time_str": "03:04.600",
+      "text": "心有冷月凝霜刀",
+      "translation": null
+    },
+    {
+      "time": 187.13,
+      "time_str": "03:07.130",
+      "text": "绝顶一览众山小",
+      "translation": null
+    },
+    {
+      "time": 193.12,
+      "time_str": "03:13.120",
+      "text": "男儿世间走一遭",
+      "translation": null
+    },
+    {
+      "time": 197.34,
+      "time_str": "03:17.340",
+      "text": "男儿世间走一遭",
+      "translation": null
+    },
+    {
+      "time": 201.76,
+      "time_str": "03:21.760",
+      "text": "男儿世间走一遭",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "纵横江湖 - 彝人制造.lrc"
+}

@@ -1,0 +1,220 @@
+{
+  "title": "Solo Dance",
+  "title_raw": "Solo Dance",
+  "version": null,
+  "artist": "Martin Jensen",
+  "group_key": "solo dance|martin jensen",
+  "writers": {
+    "lyricist": "Martin Jensen/Peter Bjørnskov/Lene Dissing/Mads Dyhrberg",
+    "composer": "Martin Jensen",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.69,
+      "time_str": "00:01.690",
+      "text": "In the faded light you touch my body",
+      "translation": "阑珊灯影中我感到你的触碰"
+    },
+    {
+      "time": 5.87,
+      "time_str": "00:05.870",
+      "text": "I can feel your hands on my skin",
+      "translation": "你的手在我的肌肤上游走"
+    },
+    {
+      "time": 9.79,
+      "time_str": "00:09.790",
+      "text": "Think you got me right where you want me",
+      "translation": "你以为我享受你的追捧"
+    },
+    {
+      "time": 14.05,
+      "time_str": "00:14.050",
+      "text": "But you're just in my way",
+      "translation": "但不好意思你只是挡了我的路"
+    },
+    {
+      "time": 16.69,
+      "time_str": "00:16.690",
+      "text": "I came the party on my own",
+      "translation": "我一个人来赶趴"
+    },
+    {
+      "time": 20.81,
+      "time_str": "00:20.810",
+      "text": "Don't need nobody in my zone",
+      "translation": "我的地盘不许别人踏入"
+    },
+    {
+      "time": 25.02,
+      "time_str": "00:25.020",
+      "text": "I get down to the beat, I lose control",
+      "translation": "我随着节奏摇摆，放浪形骸"
+    },
+    {
+      "time": 28.94,
+      "time_str": "00:28.940",
+      "text": "Hey, Oh, I go So-Solo",
+      "translation": "没错，我就喜欢一个人"
+    },
+    {
+      "time": 34.24,
+      "time_str": "00:34.240",
+      "text": "Boy you can cool it down",
+      "translation": "别紧张，放松点"
+    },
+    {
+      "time": 36.49,
+      "time_str": "00:36.490",
+      "text": "Not here to fool around",
+      "translation": "我来这不是调情的"
+    },
+    {
+      "time": 38.6,
+      "time_str": "00:38.600",
+      "text": "Just wanna dance dance dance",
+      "translation": "我只想翩翩起舞"
+    },
+    {
+      "time": 41.19,
+      "time_str": "00:41.190",
+      "text": "Dance dance dance",
+      "translation": "手舞足蹈"
+    },
+    {
+      "time": 43.04,
+      "time_str": "00:43.040",
+      "text": "I know you want me",
+      "translation": "我知道你渴望得到我"
+    },
+    {
+      "time": 44.9,
+      "time_str": "00:44.900",
+      "text": "But I don't care baby",
+      "translation": "对不起这关我什么事"
+    },
+    {
+      "time": 46.91,
+      "time_str": "00:46.910",
+      "text": "Just wanna dance dance dance",
+      "translation": "我只想翩翩起舞"
+    },
+    {
+      "time": 49.55,
+      "time_str": "00:49.550",
+      "text": "Dance dance dance",
+      "translation": "手舞足蹈"
+    },
+    {
+      "time": 66.29,
+      "time_str": "01:06.290",
+      "text": "Dance dance dance",
+      "translation": "手舞足蹈"
+    },
+    {
+      "time": 87.3,
+      "time_str": "01:27.300",
+      "text": "In the shade of night you're moving closer",
+      "translation": "斑驳的夜色里你向我靠近"
+    },
+    {
+      "time": 91.32,
+      "time_str": "01:31.320",
+      "text": "We're on our way to cross the line",
+      "translation": "我们就快要越界"
+    },
+    {
+      "time": 95.39,
+      "time_str": "01:35.390",
+      "text": "Think you got me right where you want me",
+      "translation": "你以为我享受你的追捧"
+    },
+    {
+      "time": 99.55,
+      "time_str": "01:39.550",
+      "text": "But it's all in your mind",
+      "translation": "但这只是你的完美幻觉"
+    },
+    {
+      "time": 102.26,
+      "time_str": "01:42.260",
+      "text": "I came the party on my own",
+      "translation": "我一个人来赶趴"
+    },
+    {
+      "time": 106.34,
+      "time_str": "01:46.340",
+      "text": "Don't need nobody in my zone",
+      "translation": "我的地盘不许别人踏入"
+    },
+    {
+      "time": 110.55,
+      "time_str": "01:50.550",
+      "text": "I get down to the beat, I lose control",
+      "translation": "我随着节奏摇摆，放浪形骸"
+    },
+    {
+      "time": 114.52,
+      "time_str": "01:54.520",
+      "text": "Hey, Oh, I go So-Solo",
+      "translation": "没错，我就喜欢一个人"
+    },
+    {
+      "time": 120.16,
+      "time_str": "02:00.160",
+      "text": "Boy you can cool it down",
+      "translation": "别紧张，放松点"
+    },
+    {
+      "time": 122.12,
+      "time_str": "02:02.120",
+      "text": "Not here to fool around",
+      "translation": "我来这不是调情的"
+    },
+    {
+      "time": 124.16,
+      "time_str": "02:04.160",
+      "text": "Just wanna dance dance dance",
+      "translation": "我只想翩翩起舞"
+    },
+    {
+      "time": 126.79,
+      "time_str": "02:06.790",
+      "text": "Dance dance dance",
+      "translation": "手舞足蹈"
+    },
+    {
+      "time": 128.73,
+      "time_str": "02:08.730",
+      "text": "I know you want me",
+      "translation": "我知道你渴望得到我"
+    },
+    {
+      "time": 130.48,
+      "time_str": "02:10.480",
+      "text": "But I don't care baby",
+      "translation": "对不起这关我什么事"
+    },
+    {
+      "time": 132.72,
+      "time_str": "02:12.720",
+      "text": "Just wanna dance dance dance",
+      "translation": "我只想翩翩起舞"
+    },
+    {
+      "time": 135.2,
+      "time_str": "02:15.200",
+      "text": "Dance dance dance",
+      "translation": "手舞足蹈"
+    },
+    {
+      "time": 151.74,
+      "time_str": "02:31.740",
+      "text": "Dance dance dance",
+      "translation": "手舞足蹈"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Solo Dance - Martin Jensen.lrc"
+}

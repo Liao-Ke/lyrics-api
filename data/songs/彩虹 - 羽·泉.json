@@ -1,0 +1,256 @@
+{
+  "title": "彩虹",
+  "title_raw": "彩虹",
+  "version": null,
+  "artist": "羽·泉",
+  "group_key": "彩虹|羽·泉",
+  "writers": {
+    "lyricist": "陈羽凡",
+    "composer": "陈羽凡",
+    "arranger": "郭亮"
+  },
+  "lyrics": [
+    {
+      "time": 20.55,
+      "time_str": "00:20.550",
+      "text": "爱了就别伪装",
+      "translation": null
+    },
+    {
+      "time": 25.641,
+      "time_str": "00:25.641",
+      "text": "迷失了也别彷徨",
+      "translation": null
+    },
+    {
+      "time": 30.478,
+      "time_str": "00:30.478",
+      "text": "不管未来怎样",
+      "translation": null
+    },
+    {
+      "time": 35.064,
+      "time_str": "00:35.064",
+      "text": "你都要保持坚强",
+      "translation": null
+    },
+    {
+      "time": 39.642,
+      "time_str": "00:39.642",
+      "text": "如果明天你的心",
+      "translation": null
+    },
+    {
+      "time": 44.477,
+      "time_str": "00:44.477",
+      "text": "依然还在流浪",
+      "translation": null
+    },
+    {
+      "time": 49.298,
+      "time_str": "00:49.298",
+      "text": "我愿意承受这份爱",
+      "translation": null
+    },
+    {
+      "time": 52.36,
+      "time_str": "00:52.360",
+      "text": "陪着你 打造一片天地",
+      "translation": null
+    },
+    {
+      "time": 57.953,
+      "time_str": "00:57.953",
+      "text": "我的世界从此以后多了一个你",
+      "translation": null
+    },
+    {
+      "time": 62.271,
+      "time_str": "01:02.271",
+      "text": "每天都是一出戏",
+      "translation": null
+    },
+    {
+      "time": 67.089,
+      "time_str": "01:07.089",
+      "text": "无论情节浪漫或多离奇",
+      "translation": null
+    },
+    {
+      "time": 71.16,
+      "time_str": "01:11.160",
+      "text": "这主角是你",
+      "translation": null
+    },
+    {
+      "time": 76.777,
+      "time_str": "01:16.777",
+      "text": "我的世界从此以后多了一个你",
+      "translation": null
+    },
+    {
+      "time": 81.124,
+      "time_str": "01:21.124",
+      "text": "有时天晴 有时雨",
+      "translation": null
+    },
+    {
+      "time": 84.93,
+      "time_str": "01:24.930",
+      "text": "阴天时候我会告诉你",
+      "translation": null
+    },
+    {
+      "time": 96.072,
+      "time_str": "01:36.072",
+      "text": "我爱你 胜过彩虹的美丽",
+      "translation": null
+    },
+    {
+      "time": 134.127,
+      "time_str": "02:14.127",
+      "text": "爱了就别伪装",
+      "translation": null
+    },
+    {
+      "time": 138.691,
+      "time_str": "02:18.691",
+      "text": "迷失了也别彷徨",
+      "translation": null
+    },
+    {
+      "time": 143.498,
+      "time_str": "02:23.498",
+      "text": "不管未来怎样",
+      "translation": null
+    },
+    {
+      "time": 148.301,
+      "time_str": "02:28.301",
+      "text": "你都要保持坚强",
+      "translation": null
+    },
+    {
+      "time": 152.865,
+      "time_str": "02:32.865",
+      "text": "如果明天你的心",
+      "translation": null
+    },
+    {
+      "time": 156.937,
+      "time_str": "02:36.937",
+      "text": "依然还在流浪",
+      "translation": null
+    },
+    {
+      "time": 162.278,
+      "time_str": "02:42.278",
+      "text": "我愿意承受这份爱",
+      "translation": null
+    },
+    {
+      "time": 165.346,
+      "time_str": "02:45.346",
+      "text": "陪着你 打造一片天地",
+      "translation": null
+    },
+    {
+      "time": 170.907,
+      "time_str": "02:50.907",
+      "text": "我的世界从此以后多了一个你",
+      "translation": null
+    },
+    {
+      "time": 175.73,
+      "time_str": "02:55.730",
+      "text": "每天都是一出戏",
+      "translation": null
+    },
+    {
+      "time": 180.289,
+      "time_str": "03:00.289",
+      "text": "无论情节浪漫或多离奇",
+      "translation": null
+    },
+    {
+      "time": 184.107,
+      "time_str": "03:04.107",
+      "text": "这主角是你",
+      "translation": null
+    },
+    {
+      "time": 189.949,
+      "time_str": "03:09.949",
+      "text": "我的世界从此以后多了一个你",
+      "translation": null
+    },
+    {
+      "time": 194.511,
+      "time_str": "03:14.511",
+      "text": "有时天晴 有时雨",
+      "translation": null
+    },
+    {
+      "time": 198.086,
+      "time_str": "03:18.086",
+      "text": "阴天时候我会告诉你",
+      "translation": null
+    },
+    {
+      "time": 203.146,
+      "time_str": "03:23.146",
+      "text": "我爱你 胜过彩虹的美丽",
+      "translation": null
+    },
+    {
+      "time": 209.012,
+      "time_str": "03:29.012",
+      "text": "我的世界从此以后多了一个你",
+      "translation": null
+    },
+    {
+      "time": 214.572,
+      "time_str": "03:34.572",
+      "text": "每天都是一出戏",
+      "translation": null
+    },
+    {
+      "time": 218.37,
+      "time_str": "03:38.370",
+      "text": "无论情节浪漫或多离奇",
+      "translation": null
+    },
+    {
+      "time": 221.922,
+      "time_str": "03:41.922",
+      "text": "这主角是你",
+      "translation": null
+    },
+    {
+      "time": 227.531,
+      "time_str": "03:47.531",
+      "text": "我的世界从此以后多了一个你",
+      "translation": null
+    },
+    {
+      "time": 232.339,
+      "time_str": "03:52.339",
+      "text": "有时天晴 有时雨",
+      "translation": null
+    },
+    {
+      "time": 235.89,
+      "time_str": "03:55.890",
+      "text": "阴天时候我会告诉你",
+      "translation": null
+    },
+    {
+      "time": 240.95,
+      "time_str": "04:00.950",
+      "text": "我爱你 胜过彩虹的美丽",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "彩虹 - 羽·泉.lrc"
+}

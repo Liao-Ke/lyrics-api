@@ -1,0 +1,418 @@
+{
+  "title": "我的天空",
+  "title_raw": "我的天空",
+  "version": null,
+  "artist": "南征北战NZBZ",
+  "group_key": "我的天空|南征北战nzbz",
+  "writers": {
+    "lyricist": "赵辰龙(Dragon X)",
+    "composer": "赵辰龙(Dragon X)",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "\\",
+      "translation": null
+    },
+    {
+      "time": 21.442,
+      "time_str": "00:21.442",
+      "text": "再见我的爱I wanna say goodbye",
+      "translation": null
+    },
+    {
+      "time": 24.327,
+      "time_str": "00:24.327",
+      "text": "再见我的过去I want a new life",
+      "translation": null
+    },
+    {
+      "time": 26.967,
+      "time_str": "00:26.967",
+      "text": "再见我的眼泪跌倒和失败",
+      "translation": null
+    },
+    {
+      "time": 29.731,
+      "time_str": "00:29.731",
+      "text": "再见那个年少轻狂的时代",
+      "translation": null
+    },
+    {
+      "time": 32.475,
+      "time_str": "00:32.475",
+      "text": "再见我的烦恼不再孤单",
+      "translation": null
+    },
+    {
+      "time": 35.171,
+      "time_str": "00:35.171",
+      "text": "再见我的懦弱不再哭喊",
+      "translation": null
+    },
+    {
+      "time": 37.612,
+      "time_str": "00:37.612",
+      "text": "Now I wanna say",
+      "translation": null
+    },
+    {
+      "time": 38.882,
+      "time_str": "00:38.882",
+      "text": "Hello Hello 我的未来（Hello Hello）",
+      "translation": null
+    },
+    {
+      "time": 43.309,
+      "time_str": "00:43.309",
+      "text": "在无尽的黑夜",
+      "translation": null
+    },
+    {
+      "time": 46.101,
+      "time_str": "00:46.101",
+      "text": "所有都快要毁灭",
+      "translation": null
+    },
+    {
+      "time": 48.437,
+      "time_str": "00:48.437",
+      "text": "至少我还有梦",
+      "translation": null
+    },
+    {
+      "time": 51.232,
+      "time_str": "00:51.232",
+      "text": "也为你而感动",
+      "translation": null
+    },
+    {
+      "time": 54.178,
+      "time_str": "00:54.178",
+      "text": "原来黎明的起点",
+      "translation": null
+    },
+    {
+      "time": 57.25,
+      "time_str": "00:57.250",
+      "text": "就在我的心里面",
+      "translation": null
+    },
+    {
+      "time": 59.511,
+      "time_str": "00:59.511",
+      "text": "只要我还有梦",
+      "translation": null
+    },
+    {
+      "time": 62.305,
+      "time_str": "01:02.305",
+      "text": "就会看到彩虹",
+      "translation": null
+    },
+    {
+      "time": 65.275,
+      "time_str": "01:05.275",
+      "text": "在我的天空",
+      "translation": null
+    },
+    {
+      "time": 71.878,
+      "time_str": "01:11.878",
+      "text": "挫折和离别不过是生命中的点缀",
+      "translation": null
+    },
+    {
+      "time": 74.318,
+      "time_str": "01:14.318",
+      "text": "过了多年我才读懂了家人的眼泪",
+      "translation": null
+    },
+    {
+      "time": 77.469,
+      "time_str": "01:17.469",
+      "text": "发现原来自己没有说再见的勇气",
+      "translation": null
+    },
+    {
+      "time": 80.258,
+      "time_str": "01:20.258",
+      "text": "离别的伤感感染了满城的空气",
+      "translation": null
+    },
+    {
+      "time": 83.5,
+      "time_str": "01:23.500",
+      "text": "失去后才知道那些有多么的珍贵",
+      "translation": null
+    },
+    {
+      "time": 85.643,
+      "time_str": "01:25.643",
+      "text": "亲爱的朋友们是否已经展翅纷飞",
+      "translation": null
+    },
+    {
+      "time": 88.589,
+      "time_str": "01:28.589",
+      "text": "不飞到高处怎么开阔自己的视野",
+      "translation": null
+    },
+    {
+      "time": 91.284,
+      "time_str": "01:31.284",
+      "text": "你已经长大了快告诉全世界",
+      "translation": null
+    },
+    {
+      "time": 93.978,
+      "time_str": "01:33.978",
+      "text": "外面的世界散发着强大的磁场",
+      "translation": null
+    },
+    {
+      "time": 96.772,
+      "time_str": "01:36.772",
+      "text": "诱惑着每一双即将展开的翅膀",
+      "translation": null
+    },
+    {
+      "time": 99.509,
+      "time_str": "01:39.509",
+      "text": "热恋的火在懵懂中凶猛的燃烧",
+      "translation": null
+    },
+    {
+      "time": 102.251,
+      "time_str": "01:42.251",
+      "text": "美丽的火花在恋人的周围环绕",
+      "translation": null
+    },
+    {
+      "time": 105.48,
+      "time_str": "01:45.480",
+      "text": "这过程很美尽管有无奈和失落",
+      "translation": null
+    },
+    {
+      "time": 107.794,
+      "time_str": "01:47.794",
+      "text": "刻骨铭心地爱过 尽管爱的并不是我",
+      "translation": null
+    },
+    {
+      "time": 110.69,
+      "time_str": "01:50.690",
+      "text": "如果没有离别如何学会承受打击",
+      "translation": null
+    },
+    {
+      "time": 113.329,
+      "time_str": "01:53.329",
+      "text": "如果没有跌倒如何能够学会爬起",
+      "translation": null
+    },
+    {
+      "time": 116.25,
+      "time_str": "01:56.250",
+      "text": "在无尽的黑夜",
+      "translation": null
+    },
+    {
+      "time": 117.701,
+      "time_str": "01:57.701",
+      "text": "所有都快要毁灭",
+      "translation": null
+    },
+    {
+      "time": 120.244,
+      "time_str": "02:00.244",
+      "text": "至少我还有梦",
+      "translation": null
+    },
+    {
+      "time": 122.989,
+      "time_str": "02:02.989",
+      "text": "也为你而感动",
+      "translation": null
+    },
+    {
+      "time": 125.83,
+      "time_str": "02:05.830",
+      "text": "原来黎明的起点",
+      "translation": null
+    },
+    {
+      "time": 128.776,
+      "time_str": "02:08.776",
+      "text": "就在我的心里面",
+      "translation": null
+    },
+    {
+      "time": 131.162,
+      "time_str": "02:11.162",
+      "text": "只要我还有梦",
+      "translation": null
+    },
+    {
+      "time": 133.954,
+      "time_str": "02:13.954",
+      "text": "就会看到彩虹",
+      "translation": null
+    },
+    {
+      "time": 136.946,
+      "time_str": "02:16.946",
+      "text": "在我的天空",
+      "translation": null
+    },
+    {
+      "time": 149.342,
+      "time_str": "02:29.342",
+      "text": "Hello Hello 是谁在为我等待",
+      "translation": null
+    },
+    {
+      "time": 151.979,
+      "time_str": "02:31.979",
+      "text": "Hello Hello 在那神秘的未来",
+      "translation": null
+    },
+    {
+      "time": 154.825,
+      "time_str": "02:34.825",
+      "text": "Hello Hello 找到属于我的爱",
+      "translation": null
+    },
+    {
+      "time": 157.573,
+      "time_str": "02:37.573",
+      "text": "Hello Hello this is my new life",
+      "translation": null
+    },
+    {
+      "time": 161.281,
+      "time_str": "02:41.281",
+      "text": "是谁在为我等待",
+      "translation": null
+    },
+    {
+      "time": 164.71,
+      "time_str": "02:44.710",
+      "text": "在那神秘的未来",
+      "translation": null
+    },
+    {
+      "time": 166.759,
+      "time_str": "02:46.759",
+      "text": "找到属于我的爱",
+      "translation": null
+    },
+    {
+      "time": 170.363,
+      "time_str": "02:50.363",
+      "text": "在无尽的黑夜",
+      "translation": null
+    },
+    {
+      "time": 172.905,
+      "time_str": "02:52.905",
+      "text": "所有都快要毁灭",
+      "translation": null
+    },
+    {
+      "time": 175.391,
+      "time_str": "02:55.391",
+      "text": "至少我还有梦",
+      "translation": null
+    },
+    {
+      "time": 178.85,
+      "time_str": "02:58.850",
+      "text": "也为你而感动",
+      "translation": null
+    },
+    {
+      "time": 180.876,
+      "time_str": "03:00.876",
+      "text": "原来黎明的起点",
+      "translation": null
+    },
+    {
+      "time": 183.883,
+      "time_str": "03:03.883",
+      "text": "就在我的心里面",
+      "translation": null
+    },
+    {
+      "time": 186.322,
+      "time_str": "03:06.322",
+      "text": "只要我还有梦",
+      "translation": null
+    },
+    {
+      "time": 189.113,
+      "time_str": "03:09.113",
+      "text": "就会看到彩虹",
+      "translation": null
+    },
+    {
+      "time": 191.908,
+      "time_str": "03:11.908",
+      "text": "在无尽的黑夜",
+      "translation": null
+    },
+    {
+      "time": 195.261,
+      "time_str": "03:15.261",
+      "text": "所有都快要毁灭",
+      "translation": null
+    },
+    {
+      "time": 198.62,
+      "time_str": "03:18.620",
+      "text": "至少我还有梦",
+      "translation": null
+    },
+    {
+      "time": 200.404,
+      "time_str": "03:20.404",
+      "text": "也为你而感动",
+      "translation": null
+    },
+    {
+      "time": 203.199,
+      "time_str": "03:23.199",
+      "text": "原来黎明的起点",
+      "translation": null
+    },
+    {
+      "time": 205.996,
+      "time_str": "03:25.996",
+      "text": "就在我的心里面",
+      "translation": null
+    },
+    {
+      "time": 208.633,
+      "time_str": "03:28.633",
+      "text": "只要我还有梦",
+      "translation": null
+    },
+    {
+      "time": 211.329,
+      "time_str": "03:31.329",
+      "text": "就会看到彩虹",
+      "translation": null
+    },
+    {
+      "time": 214.234,
+      "time_str": "03:34.234",
+      "text": "在我的天空",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我的天空 - 南征北战NZBZ.lrc"
+}

@@ -1,0 +1,166 @@
+{
+  "title": "Way Back",
+  "title_raw": "Way Back",
+  "version": null,
+  "artist": "Vicetone,Cozi Zuehlsdorff",
+  "group_key": "way back|vicetone,cozi zuehlsdorff",
+  "writers": {
+    "lyricist": "Vicetone/Cozi Zuehlsdorff",
+    "composer": "Laura Welsh/Jayson M. Dezuzio/Ruben C/Julia Den Boer/Teddy Geiger/Victor Pool",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.51,
+      "time_str": "00:07.510",
+      "text": "Playing with temptation, searching for salvation",
+      "translation": "沉溺于万般诱惑 苦苦寻觅救赎"
+    },
+    {
+      "time": 12.08,
+      "time_str": "00:12.080",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否找到归去的路？"
+    },
+    {
+      "time": 16.49,
+      "time_str": "00:16.490",
+      "text": "Caught up in confusion, need a resolution",
+      "translation": "困顿于疑惑之中 急需下定决心"
+    },
+    {
+      "time": 20.95,
+      "time_str": "00:20.950",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否寻回美妙的过往？"
+    },
+    {
+      "time": 25.86,
+      "time_str": "00:25.860",
+      "text": "No more running, no more running, no more chasing",
+      "translation": "别再逃跑 别再狂奔 别再追逐"
+    },
+    {
+      "time": 30.27,
+      "time_str": "00:30.270",
+      "text": "No more running, now I'm running out of patience",
+      "translation": "别再逃跑了 我的耐心即将耗尽"
+    },
+    {
+      "time": 34.18,
+      "time_str": "00:34.180",
+      "text": "Caught up in confusion, need a resolution",
+      "translation": "困顿于疑惑之中 急需下定决心"
+    },
+    {
+      "time": 38.66,
+      "time_str": "00:38.660",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否找到归去的路？"
+    },
+    {
+      "time": 65.38,
+      "time_str": "01:05.380",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否寻回美好的昨日？"
+    },
+    {
+      "time": 83.07,
+      "time_str": "01:23.070",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否溯回那美好的过去？"
+    },
+    {
+      "time": 87.52,
+      "time_str": "01:27.520",
+      "text": "Playing with temptation, searching for salvation",
+      "translation": "沉溺于万般诱惑 苦苦寻觅救赎"
+    },
+    {
+      "time": 92.06,
+      "time_str": "01:32.060",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否找到归去的路？"
+    },
+    {
+      "time": 96.4,
+      "time_str": "01:36.400",
+      "text": "Caught up in confusion, need a resolution",
+      "translation": "困顿于疑惑之中 急需下定决心"
+    },
+    {
+      "time": 100.92,
+      "time_str": "01:40.920",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否寻回美妙的过往？"
+    },
+    {
+      "time": 105.94,
+      "time_str": "01:45.940",
+      "text": "No more running, no more running, no more chasing",
+      "translation": "别再逃跑 别再狂奔 别再追逐"
+    },
+    {
+      "time": 110.34,
+      "time_str": "01:50.340",
+      "text": "No more running, now I'm running out of patience",
+      "translation": "别再逃跑了 我的耐心即将耗尽"
+    },
+    {
+      "time": 114.21,
+      "time_str": "01:54.210",
+      "text": "Caught up in confusion, need a resolution",
+      "translation": "困顿于疑惑之中 急需下定决心"
+    },
+    {
+      "time": 118.66,
+      "time_str": "01:58.660",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否找到归去的路？"
+    },
+    {
+      "time": 136.37,
+      "time_str": "02:16.370",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否溯回那美好的过去？"
+    },
+    {
+      "time": 150.36,
+      "time_str": "02:30.360",
+      "text": "No more running, no more running, no more chasing",
+      "translation": "别再逃跑 别再狂奔 别再追逐"
+    },
+    {
+      "time": 154.82,
+      "time_str": "02:34.820",
+      "text": "No more running, now I'm running out of patience",
+      "translation": "别再逃跑了 我的耐心即将耗尽"
+    },
+    {
+      "time": 158.64,
+      "time_str": "02:38.640",
+      "text": "Caught up in confusion, need a resolution",
+      "translation": "困顿于疑惑之中 急需下定决心"
+    },
+    {
+      "time": 163.15,
+      "time_str": "02:43.150",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否找到归去的路？"
+    },
+    {
+      "time": 180.97,
+      "time_str": "03:00.970",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否寻回美好的昨日？"
+    },
+    {
+      "time": 198.73,
+      "time_str": "03:18.730",
+      "text": "Can we find our way back, way back?",
+      "translation": "我们还能否溯回那美好的过去？"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Way Back - Vicetone,Cozi Zuehlsdorff.lrc"
+}

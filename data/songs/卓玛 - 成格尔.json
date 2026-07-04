@@ -1,0 +1,256 @@
+{
+  "title": "卓玛",
+  "title_raw": "卓玛",
+  "version": null,
+  "artist": "成格尔",
+  "group_key": "卓玛|成格尔",
+  "writers": {
+    "lyricist": "真知",
+    "composer": "秋嘉措",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.0,
+      "time_str": "00:09.000",
+      "text": "------",
+      "translation": null
+    },
+    {
+      "time": 15.49,
+      "time_str": "00:15.490",
+      "text": "music",
+      "translation": null
+    },
+    {
+      "time": 32.63,
+      "time_str": "00:32.630",
+      "text": "格桑花开那一朵朵",
+      "translation": null
+    },
+    {
+      "time": 36.63,
+      "time_str": "00:36.630",
+      "text": "（好像那天边的云彩哟）",
+      "translation": null
+    },
+    {
+      "time": 40.36,
+      "time_str": "00:40.360",
+      "text": "贡嘎山头那云飘过",
+      "translation": null
+    },
+    {
+      "time": 44.08,
+      "time_str": "00:44.080",
+      "text": "（好像那飞来的白天鹅）",
+      "translation": null
+    },
+    {
+      "time": 47.73,
+      "time_str": "00:47.730",
+      "text": "美丽善良姑娘卓玛",
+      "translation": null
+    },
+    {
+      "time": 51.41,
+      "time_str": "00:51.410",
+      "text": "她是天上吉祥菩萨",
+      "translation": null
+    },
+    {
+      "time": 55.26,
+      "time_str": "00:55.260",
+      "text": "带着善良的一颗心",
+      "translation": null
+    },
+    {
+      "time": 58.83,
+      "time_str": "00:58.830",
+      "text": "（从此呀我们就不害怕）",
+      "translation": null
+    },
+    {
+      "time": 62.57,
+      "time_str": "01:02.570",
+      "text": "music",
+      "translation": null
+    },
+    {
+      "time": 77.32,
+      "time_str": "01:17.320",
+      "text": "美丽善良姑娘卓玛",
+      "translation": null
+    },
+    {
+      "time": 80.97,
+      "time_str": "01:20.970",
+      "text": "她是天上吉祥菩萨",
+      "translation": null
+    },
+    {
+      "time": 84.64,
+      "time_str": "01:24.640",
+      "text": "带着善良的一颗心",
+      "translation": null
+    },
+    {
+      "time": 88.38,
+      "time_str": "01:28.380",
+      "text": "（从此呀我们就不害怕）",
+      "translation": null
+    },
+    {
+      "time": 92.03,
+      "time_str": "01:32.030",
+      "text": "为谁献上那洁白的哈达",
+      "translation": null
+    },
+    {
+      "time": 95.66,
+      "time_str": "01:35.660",
+      "text": "献给救人的门巴卓玛",
+      "translation": null
+    },
+    {
+      "time": 99.42,
+      "time_str": "01:39.420",
+      "text": "她给我们带来欢和笑",
+      "translation": null
+    },
+    {
+      "time": 103.12,
+      "time_str": "01:43.120",
+      "text": "（她和我们永远是一家）",
+      "translation": null
+    },
+    {
+      "time": 106.81,
+      "time_str": "01:46.810",
+      "text": "啊~~~~啊",
+      "translation": null
+    },
+    {
+      "time": 114.14,
+      "time_str": "01:54.140",
+      "text": "啊~~~~啊",
+      "translation": null
+    },
+    {
+      "time": 122.1,
+      "time_str": "02:02.100",
+      "text": "啊~~~~啊",
+      "translation": null
+    },
+    {
+      "time": 128.97,
+      "time_str": "02:08.970",
+      "text": "啊~~~~啊",
+      "translation": null
+    },
+    {
+      "time": 140.01,
+      "time_str": "02:20.010",
+      "text": "music",
+      "translation": null
+    },
+    {
+      "time": 143.71,
+      "time_str": "02:23.710",
+      "text": "格桑花开那一朵朵",
+      "translation": null
+    },
+    {
+      "time": 147.34,
+      "time_str": "02:27.340",
+      "text": "（好像那天边的云彩哟）",
+      "translation": null
+    },
+    {
+      "time": 151.05,
+      "time_str": "02:31.050",
+      "text": "贡嘎山头那云飘过",
+      "translation": null
+    },
+    {
+      "time": 154.79,
+      "time_str": "02:34.790",
+      "text": "（好像那飞来的白天鹅）",
+      "translation": null
+    },
+    {
+      "time": 158.48,
+      "time_str": "02:38.480",
+      "text": "美丽善良姑娘卓玛",
+      "translation": null
+    },
+    {
+      "time": 162.19,
+      "time_str": "02:42.190",
+      "text": "她是天上吉祥菩萨",
+      "translation": null
+    },
+    {
+      "time": 165.84,
+      "time_str": "02:45.840",
+      "text": "带着善良的一颗心",
+      "translation": null
+    },
+    {
+      "time": 169.59,
+      "time_str": "02:49.590",
+      "text": "（从此呀我们就不害怕）",
+      "translation": null
+    },
+    {
+      "time": 173.43,
+      "time_str": "02:53.430",
+      "text": "为谁献上那洁白的哈达",
+      "translation": null
+    },
+    {
+      "time": 176.99,
+      "time_str": "02:56.990",
+      "text": "献给救人的门巴卓玛",
+      "translation": null
+    },
+    {
+      "time": 180.62,
+      "time_str": "03:00.620",
+      "text": "她给我们带来欢和笑",
+      "translation": null
+    },
+    {
+      "time": 184.36,
+      "time_str": "03:04.360",
+      "text": "（她和我们永远是一家）",
+      "translation": null
+    },
+    {
+      "time": 188.58,
+      "time_str": "03:08.580",
+      "text": "啊~~~~啊",
+      "translation": null
+    },
+    {
+      "time": 195.34,
+      "time_str": "03:15.340",
+      "text": "啊~~~~啊",
+      "translation": null
+    },
+    {
+      "time": 202.8,
+      "time_str": "03:22.800",
+      "text": "啊~~~~啊",
+      "translation": null
+    },
+    {
+      "time": 210.19,
+      "time_str": "03:30.190",
+      "text": "啊~~~~啊",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "卓玛 - 成格尔.lrc"
+}

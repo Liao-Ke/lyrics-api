@@ -1,0 +1,244 @@
+{
+  "title": "如果我变成回忆",
+  "title_raw": "如果我变成回忆",
+  "version": null,
+  "artist": "Tank",
+  "group_key": "如果我变成回忆|tank",
+  "writers": {
+    "lyricist": "陈信延/施人诚",
+    "composer": "Tank",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 15.47,
+      "time_str": "00:15.470",
+      "text": "累了 照惯例努力清醒着",
+      "translation": null
+    },
+    {
+      "time": 23.3,
+      "time_str": "00:23.300",
+      "text": "也照惯例想你了",
+      "translation": null
+    },
+    {
+      "time": 30.55,
+      "time_str": "00:30.550",
+      "text": "好怕一放心睡了",
+      "translation": null
+    },
+    {
+      "time": 34.55,
+      "time_str": "00:34.550",
+      "text": "心跳在梦中 不听话的 就停止了",
+      "translation": null
+    },
+    {
+      "time": 44.68,
+      "time_str": "00:44.680",
+      "text": "听着 呼吸像浪潮拍动着",
+      "translation": null
+    },
+    {
+      "time": 52.67,
+      "time_str": "00:52.670",
+      "text": "越美丽越让我忐忑",
+      "translation": null
+    },
+    {
+      "time": 60.05,
+      "time_str": "01:00.050",
+      "text": "我还能珍惜什么",
+      "translation": null
+    },
+    {
+      "time": 63.78,
+      "time_str": "01:03.780",
+      "text": "如果我连自己的脉搏 都难掌握",
+      "translation": null
+    },
+    {
+      "time": 76.07,
+      "time_str": "01:16.070",
+      "text": "如果我变成回忆 退出了这场生命",
+      "translation": null
+    },
+    {
+      "time": 83.64,
+      "time_str": "01:23.640",
+      "text": "留下你错愕哭泣",
+      "translation": null
+    },
+    {
+      "time": 86.62,
+      "time_str": "01:26.620",
+      "text": "我冰冷身体 拥抱不了你",
+      "translation": null
+    },
+    {
+      "time": 91.48,
+      "time_str": "01:31.480",
+      "text": "想到我让深爱的你 人海孤独旅行",
+      "translation": null
+    },
+    {
+      "time": 98.29,
+      "time_str": "01:38.290",
+      "text": "我会恨自己 如此狠心",
+      "translation": null
+    },
+    {
+      "time": 105.81,
+      "time_str": "01:45.810",
+      "text": "如果我变成回忆 终于没那么幸运",
+      "translation": null
+    },
+    {
+      "time": 112.8,
+      "time_str": "01:52.800",
+      "text": "没机会白着头发 蹒跚牵着你 看晚霞落尽",
+      "translation": null
+    },
+    {
+      "time": 120.54,
+      "time_str": "02:00.540",
+      "text": "漫长时光总有一天你会伤心痊愈",
+      "translation": null
+    },
+    {
+      "time": 127.33,
+      "time_str": "02:07.330",
+      "text": "若有人可以 让他陪你 我不怪你",
+      "translation": null
+    },
+    {
+      "time": 136.1,
+      "time_str": "02:16.100",
+      "text": "累了 照惯例努力清醒着",
+      "translation": null
+    },
+    {
+      "time": 139.74,
+      "time_str": "02:19.740",
+      "text": "听着 呼吸像浪潮拍动着",
+      "translation": null
+    },
+    {
+      "time": 149.65,
+      "time_str": "02:29.650",
+      "text": "快乐 什么时候会结束呢",
+      "translation": null
+    },
+    {
+      "time": 158.16,
+      "time_str": "02:38.160",
+      "text": "哪一刻是最后一刻",
+      "translation": null
+    },
+    {
+      "time": 164.52,
+      "time_str": "02:44.520",
+      "text": "想把你紧紧抱着",
+      "translation": null
+    },
+    {
+      "time": 169.1,
+      "time_str": "02:49.100",
+      "text": "可知你是我生命中的 最舍不得",
+      "translation": null
+    },
+    {
+      "time": 178.34,
+      "time_str": "02:58.340",
+      "text": "如果我变成回忆 退出了这场生命",
+      "translation": null
+    },
+    {
+      "time": 185.51,
+      "time_str": "03:05.510",
+      "text": "留下你错愕哭泣",
+      "translation": null
+    },
+    {
+      "time": 188.43,
+      "time_str": "03:08.430",
+      "text": "我冰冷身体 拥抱不了你",
+      "translation": null
+    },
+    {
+      "time": 193.19,
+      "time_str": "03:13.190",
+      "text": "想到我让深爱的你 人海孤独旅行",
+      "translation": null
+    },
+    {
+      "time": 200.1,
+      "time_str": "03:20.100",
+      "text": "我会恨自己 如此狠心",
+      "translation": null
+    },
+    {
+      "time": 207.37,
+      "time_str": "03:27.370",
+      "text": "如果我变成回忆 终于没那么幸运",
+      "translation": null
+    },
+    {
+      "time": 214.59,
+      "time_str": "03:34.590",
+      "text": "没机会白着头发 蹒跚牵着你 看晚霞落尽",
+      "translation": null
+    },
+    {
+      "time": 222.24,
+      "time_str": "03:42.240",
+      "text": "漫长时光总有一天你会伤心痊愈",
+      "translation": null
+    },
+    {
+      "time": 228.99,
+      "time_str": "03:48.990",
+      "text": "若有人可以 让他陪你",
+      "translation": null
+    },
+    {
+      "time": 236.36,
+      "time_str": "03:56.360",
+      "text": "如果我变成回忆 最怕我太不争气",
+      "translation": null
+    },
+    {
+      "time": 243.71,
+      "time_str": "04:03.710",
+      "text": "顽固的赖在空气 霸占你心里 每一寸缝隙",
+      "translation": null
+    },
+    {
+      "time": 251.63,
+      "time_str": "04:11.630",
+      "text": "连累依然爱我的你 痛苦承受失去",
+      "translation": null
+    },
+    {
+      "time": 258.21,
+      "time_str": "04:18.210",
+      "text": "这样不公平 请你尽力 把我忘记",
+      "translation": null
+    },
+    {
+      "time": 274.21,
+      "time_str": "04:34.210",
+      "text": "制作助理：张简君伟",
+      "translation": null
+    },
+    {
+      "time": 277.21,
+      "time_str": "04:37.210",
+      "text": "混音录音师：杨大纬",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "如果我变成回忆 - Tank.lrc"
+}

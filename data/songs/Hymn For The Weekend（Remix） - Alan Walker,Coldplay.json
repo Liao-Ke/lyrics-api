@@ -1,0 +1,286 @@
+{
+  "title": "Hymn For The Weekend",
+  "title_raw": "Hymn For The Weekend（Remix）",
+  "version": "Remix",
+  "artist": "Alan Walker,Coldplay",
+  "group_key": "hymn for the weekend|alan walker,coldplay",
+  "writers": {
+    "lyricist": "Guy Berryman/Chris Martin/Jonny Buckland/Will Champion",
+    "composer": "Guy Berryman/Chris Martin/Jonny Buckland/Will Champion",
+    "arranger": "Alan Walker"
+  },
+  "lyrics": [
+    {
+      "time": 0.25,
+      "time_str": "00:00.250",
+      "text": "混音编曲: Alan Walker/Anders \"Mood Melodies\" Froen/Jesper Borgen/Tor Erik Hermansen/Mikkel S. Eriksen",
+      "translation": null
+    },
+    {
+      "time": 0.65,
+      "time_str": "00:00.650",
+      "text": "I, oh I, oh I",
+      "translation": "我...我...我..."
+    },
+    {
+      "time": 4.98,
+      "time_str": "00:04.980",
+      "text": "I, so high, so high",
+      "translation": "如同在九重云霄"
+    },
+    {
+      "time": 9.09,
+      "time_str": "00:09.090",
+      "text": "Oh, angel sent from up above",
+      "translation": "你如同天仙下凡般"
+    },
+    {
+      "time": 13.79,
+      "time_str": "00:13.790",
+      "text": "You know you make my world light up",
+      "translation": "我的世界因你而熠熠生辉"
+    },
+    {
+      "time": 18.75,
+      "time_str": "00:18.750",
+      "text": "When I was down, when I was hurt",
+      "translation": "当我落魄，千疮百孔"
+    },
+    {
+      "time": 23.92,
+      "time_str": "00:23.920",
+      "text": "You came to lift me up",
+      "translation": "你令我重新振作"
+    },
+    {
+      "time": 29.07,
+      "time_str": "00:29.070",
+      "text": "Life is a drink, and love's a drug",
+      "translation": "生活令人迷醉，爱情令人沉醉"
+    },
+    {
+      "time": 33.69,
+      "time_str": "00:33.690",
+      "text": "Oh, now I think I must be miles up",
+      "translation": "噢，我想我现在已迷茫不已"
+    },
+    {
+      "time": 38.87,
+      "time_str": "00:38.870",
+      "text": "When I was a river, dried up",
+      "translation": "当我如同河流，干涸枯竭时"
+    },
+    {
+      "time": 43.75,
+      "time_str": "00:43.750",
+      "text": "You came to rain a flood",
+      "translation": "你为我降下甘霖"
+    },
+    {
+      "time": 49.37,
+      "time_str": "00:49.370",
+      "text": "I, oh, I, oh I",
+      "translation": "我...我...我..."
+    },
+    {
+      "time": 53.23,
+      "time_str": "00:53.230",
+      "text": "Got me feeling drunk and high",
+      "translation": "我如痴如醉，畅快淋漓"
+    },
+    {
+      "time": 55.66,
+      "time_str": "00:55.660",
+      "text": "So high, so high",
+      "translation": "如同在九重云霄"
+    },
+    {
+      "time": 59.76,
+      "time_str": "00:59.760",
+      "text": "Oh, I, oh, I, oh I",
+      "translation": "我...我...我..."
+    },
+    {
+      "time": 63.32,
+      "time_str": "01:03.320",
+      "text": "Now I'm feeling drunk and high",
+      "translation": "我如痴如醉，畅快淋漓"
+    },
+    {
+      "time": 65.67,
+      "time_str": "01:05.670",
+      "text": "So high, so high",
+      "translation": "如同在九重云霄"
+    },
+    {
+      "time": 91.24,
+      "time_str": "01:31.240",
+      "text": "Oh, angel sent from up above",
+      "translation": "你如同天仙下凡般"
+    },
+    {
+      "time": 96.05,
+      "time_str": "01:36.050",
+      "text": "I feel it coursing through my blood",
+      "translation": "我感觉全身血液沸腾"
+    },
+    {
+      "time": 101.3,
+      "time_str": "01:41.300",
+      "text": "Life is a drink, your love's about",
+      "translation": "生活令人迷醉，而你的爱"
+    },
+    {
+      "time": 106.39,
+      "time_str": "01:46.390",
+      "text": "To make the stars come out",
+      "translation": "使得天上繁星闪烁"
+    },
+    {
+      "time": 111.93,
+      "time_str": "01:51.930",
+      "text": "Drink for me, drink for me",
+      "translation": "在这仙乐之中"
+    },
+    {
+      "time": 116.4,
+      "time_str": "01:56.400",
+      "text": "Pour on a symphony for me",
+      "translation": "与我共进一杯吧"
+    },
+    {
+      "time": 119.53,
+      "time_str": "01:59.530",
+      "text": "When I'm low, low, low, low",
+      "translation": "当我低落之时"
+    },
+    {
+      "time": 122.22,
+      "time_str": "02:02.220",
+      "text": "I, oh I, oh I",
+      "translation": "我...我...我..."
+    },
+    {
+      "time": 125.7,
+      "time_str": "02:05.700",
+      "text": "Got me feeling drunk and high",
+      "translation": "如痴如醉，畅快淋漓"
+    },
+    {
+      "time": 128.18,
+      "time_str": "02:08.180",
+      "text": "So high, so high",
+      "translation": "如同在九重云霄"
+    },
+    {
+      "time": 132.15,
+      "time_str": "02:12.150",
+      "text": "Oh I, oh I, oh I",
+      "translation": "我...我...我..."
+    },
+    {
+      "time": 135.65,
+      "time_str": "02:15.650",
+      "text": "I'm feeling drunk and high",
+      "translation": "我如痴如醉，畅快淋漓"
+    },
+    {
+      "time": 138.21,
+      "time_str": "02:18.210",
+      "text": "So high, so high",
+      "translation": "如同在九重云霄"
+    },
+    {
+      "time": 142.44,
+      "time_str": "02:22.440",
+      "text": "I, oh I, oh I",
+      "translation": null
+    },
+    {
+      "time": 164.91,
+      "time_str": "02:44.910",
+      "text": "I, oh I, oh I",
+      "translation": "我...我...我..."
+    },
+    {
+      "time": 168.43,
+      "time_str": "02:48.430",
+      "text": "La la la la la la la",
+      "translation": "啦啦啦 啦啦 啦啦"
+    },
+    {
+      "time": 170.73,
+      "time_str": "02:50.730",
+      "text": "So high, so high",
+      "translation": "如同在九重云霄"
+    },
+    {
+      "time": 174.81,
+      "time_str": "02:54.810",
+      "text": "I, oh I, oh I",
+      "translation": "我...我...我..."
+    },
+    {
+      "time": 178.25,
+      "time_str": "02:58.250",
+      "text": "I'm feeling drunk and high",
+      "translation": "我如痴如醉，畅快淋漓"
+    },
+    {
+      "time": 180.71,
+      "time_str": "03:00.710",
+      "text": "So high, so high",
+      "translation": "如同在九重云霄"
+    },
+    {
+      "time": 183.92,
+      "time_str": "03:03.920",
+      "text": "Then we'll shoot across the sky",
+      "translation": "我们如同流星般，划过天际"
+    },
+    {
+      "time": 188.21,
+      "time_str": "03:08.210",
+      "text": "Then we'll shoot across the...",
+      "translation": "我们如同流星一般"
+    },
+    {
+      "time": 193.22,
+      "time_str": "03:13.220",
+      "text": "Then we'll shoot across the sky",
+      "translation": "我们如同流星般，划过天际"
+    },
+    {
+      "time": 198.32,
+      "time_str": "03:18.320",
+      "text": "Then we'll shoot across the...",
+      "translation": "我们如同流星一般"
+    },
+    {
+      "time": 203.23,
+      "time_str": "03:23.230",
+      "text": "Then we'll shoot across the sky",
+      "translation": "我们如同流星般，划过天际"
+    },
+    {
+      "time": 208.19,
+      "time_str": "03:28.190",
+      "text": "Then we'll shoot across the...",
+      "translation": "我们如同流星一般"
+    },
+    {
+      "time": 213.28,
+      "time_str": "03:33.280",
+      "text": "Then we'll shoot across the sky",
+      "translation": "我们如同流星般，划过天际"
+    },
+    {
+      "time": 218.4,
+      "time_str": "03:38.400",
+      "text": "Then we'll shoot across the...",
+      "translation": "我们如同流星一般"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Hymn For The Weekend（Remix） - Alan Walker,Coldplay.lrc"
+}

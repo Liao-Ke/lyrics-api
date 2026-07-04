@@ -1,0 +1,442 @@
+{
+  "title": "下一页的我",
+  "title_raw": "下一页的我",
+  "version": null,
+  "artist": "王心凌",
+  "group_key": "下一页的我|王心凌",
+  "writers": {
+    "lyricist": "易家扬",
+    "composer": "水野良樹",
+    "arranger": "Vehnee Saturno"
+  },
+  "lyrics": [
+    {
+      "time": 29.09,
+      "time_str": "00:29.090",
+      "text": "就要出发 是吗",
+      "translation": null
+    },
+    {
+      "time": 32.85,
+      "time_str": "00:32.850",
+      "text": "这问题困扰着我",
+      "translation": null
+    },
+    {
+      "time": 35.78,
+      "time_str": "00:35.780",
+      "text": "是个可能吧 或许想太多",
+      "translation": null
+    },
+    {
+      "time": 39.0,
+      "time_str": "00:39.000",
+      "text": "有的梦不去做好可惜",
+      "translation": null
+    },
+    {
+      "time": 42.42,
+      "time_str": "00:42.420",
+      "text": "我害怕吗 有点",
+      "translation": null
+    },
+    {
+      "time": 45.9,
+      "time_str": "00:45.900",
+      "text": "孤单很痛的对不对",
+      "translation": null
+    },
+    {
+      "time": 48.99,
+      "time_str": "00:48.990",
+      "text": "我得放下 翻开这一页",
+      "translation": null
+    },
+    {
+      "time": 52.42,
+      "time_str": "00:52.420",
+      "text": "没时间想过去",
+      "translation": null
+    },
+    {
+      "time": 56.4,
+      "time_str": "00:56.400",
+      "text": "心中会怕才问自己",
+      "translation": null
+    },
+    {
+      "time": 59.68,
+      "time_str": "00:59.680",
+      "text": "那些曾经的话语",
+      "translation": null
+    },
+    {
+      "time": 63.03,
+      "time_str": "01:03.030",
+      "text": "谢谢是你让我有天空和明天",
+      "translation": null
+    },
+    {
+      "time": 67.28,
+      "time_str": "01:07.280",
+      "text": "学会独立",
+      "translation": null
+    },
+    {
+      "time": 69.56,
+      "time_str": "01:09.560",
+      "text": "站在未知的泥土里",
+      "translation": null
+    },
+    {
+      "time": 72.85,
+      "time_str": "01:12.850",
+      "text": "看我勇敢的深呼吸",
+      "translation": null
+    },
+    {
+      "time": 76.12,
+      "time_str": "01:16.120",
+      "text": "黑的夜 我不怕 天空很大",
+      "translation": null
+    },
+    {
+      "time": 81.55,
+      "time_str": "01:21.550",
+      "text": "像在说 不能哭",
+      "translation": null
+    },
+    {
+      "time": 88.56,
+      "time_str": "01:28.560",
+      "text": "下一页的我 会去哪里",
+      "translation": null
+    },
+    {
+      "time": 91.87,
+      "time_str": "01:31.870",
+      "text": "用多大的勇气",
+      "translation": null
+    },
+    {
+      "time": 95.11,
+      "time_str": "01:35.110",
+      "text": "所有梦里面的风雨",
+      "translation": null
+    },
+    {
+      "time": 98.28,
+      "time_str": "01:38.280",
+      "text": "我不怕 那是我的试题",
+      "translation": null
+    },
+    {
+      "time": 101.5,
+      "time_str": "01:41.500",
+      "text": "下一页的我 希望能拥有",
+      "translation": null
+    },
+    {
+      "time": 105.34,
+      "time_str": "01:45.340",
+      "text": "美丽的明天",
+      "translation": null
+    },
+    {
+      "time": 108.26,
+      "time_str": "01:48.260",
+      "text": "所以这次我送走从前",
+      "translation": null
+    },
+    {
+      "time": 111.51,
+      "time_str": "01:51.510",
+      "text": "因为我 看的见",
+      "translation": null
+    },
+    {
+      "time": 127.88,
+      "time_str": "02:07.880",
+      "text": "担心什么 去吧",
+      "translation": null
+    },
+    {
+      "time": 131.09,
+      "time_str": "02:11.090",
+      "text": "爱让人哭真对不起",
+      "translation": null
+    },
+    {
+      "time": 134.5,
+      "time_str": "02:14.500",
+      "text": "之前的回忆 握在掌心里",
+      "translation": null
+    },
+    {
+      "time": 137.61,
+      "time_str": "02:17.610",
+      "text": "它让我 再苦也肯努力",
+      "translation": null
+    },
+    {
+      "time": 140.93,
+      "time_str": "02:20.930",
+      "text": "耳边的风 吹吧",
+      "translation": null
+    },
+    {
+      "time": 144.2,
+      "time_str": "02:24.200",
+      "text": "让我听见新消息",
+      "translation": null
+    },
+    {
+      "time": 147.62,
+      "time_str": "02:27.620",
+      "text": "在旅途上 爱是氧气",
+      "translation": null
+    },
+    {
+      "time": 150.94,
+      "time_str": "02:30.940",
+      "text": "让我越来越肯定",
+      "translation": null
+    },
+    {
+      "time": 155.05,
+      "time_str": "02:35.050",
+      "text": "心中会怕才问自己",
+      "translation": null
+    },
+    {
+      "time": 158.32,
+      "time_str": "02:38.320",
+      "text": "那些曾经的话语",
+      "translation": null
+    },
+    {
+      "time": 161.66,
+      "time_str": "02:41.660",
+      "text": "谢谢是你让我有天空和明天",
+      "translation": null
+    },
+    {
+      "time": 166.04,
+      "time_str": "02:46.040",
+      "text": "学会独立",
+      "translation": null
+    },
+    {
+      "time": 168.18,
+      "time_str": "02:48.180",
+      "text": "站在未知的泥土里",
+      "translation": null
+    },
+    {
+      "time": 171.49,
+      "time_str": "02:51.490",
+      "text": "看我勇敢的深呼吸",
+      "translation": null
+    },
+    {
+      "time": 174.81,
+      "time_str": "02:54.810",
+      "text": "黑的夜 我不怕 天空很大",
+      "translation": null
+    },
+    {
+      "time": 180.16,
+      "time_str": "03:00.160",
+      "text": "像在说 不能哭",
+      "translation": null
+    },
+    {
+      "time": 187.12,
+      "time_str": "03:07.120",
+      "text": "下一页的我 会去哪里",
+      "translation": null
+    },
+    {
+      "time": 190.46,
+      "time_str": "03:10.460",
+      "text": "用多大的勇气",
+      "translation": null
+    },
+    {
+      "time": 193.73,
+      "time_str": "03:13.730",
+      "text": "所有梦里面的风雨",
+      "translation": null
+    },
+    {
+      "time": 197.07,
+      "time_str": "03:17.070",
+      "text": "我不怕 那是我的试题",
+      "translation": null
+    },
+    {
+      "time": 200.13,
+      "time_str": "03:20.130",
+      "text": "下一页的我 希望能拥有",
+      "translation": null
+    },
+    {
+      "time": 203.91,
+      "time_str": "03:23.910",
+      "text": "美丽的明天",
+      "translation": null
+    },
+    {
+      "time": 206.89,
+      "time_str": "03:26.890",
+      "text": "所以这次我送走从前",
+      "translation": null
+    },
+    {
+      "time": 209.95,
+      "time_str": "03:29.950",
+      "text": "因为我 看的见",
+      "translation": null
+    },
+    {
+      "time": 227.39,
+      "time_str": "03:47.390",
+      "text": "寓言藏在我心中",
+      "translation": null
+    },
+    {
+      "time": 230.65,
+      "time_str": "03:50.650",
+      "text": "相信它吧 往前冲",
+      "translation": null
+    },
+    {
+      "time": 234.01,
+      "time_str": "03:54.010",
+      "text": "我的路 我就一定让它走成幸福",
+      "translation": null
+    },
+    {
+      "time": 240.54,
+      "time_str": "04:00.540",
+      "text": "那些作了的梦忘了吗",
+      "translation": null
+    },
+    {
+      "time": 243.84,
+      "time_str": "04:03.840",
+      "text": "那些万分之一的也许",
+      "translation": null
+    },
+    {
+      "time": 247.1,
+      "time_str": "04:07.100",
+      "text": "不用说 我还是我",
+      "translation": null
+    },
+    {
+      "time": 250.06,
+      "time_str": "04:10.060",
+      "text": "约定怎样寂寞也不能哭",
+      "translation": null
+    },
+    {
+      "time": 256.52,
+      "time_str": "04:16.520",
+      "text": "看吧 下大雨不认输",
+      "translation": null
+    },
+    {
+      "time": 262.78,
+      "time_str": "04:22.780",
+      "text": "请让我 学长大",
+      "translation": null
+    },
+    {
+      "time": 272.57,
+      "time_str": "04:32.570",
+      "text": "下一页的我 会去哪里",
+      "translation": null
+    },
+    {
+      "time": 276.13,
+      "time_str": "04:36.130",
+      "text": "用多大的勇气",
+      "translation": null
+    },
+    {
+      "time": 279.17,
+      "time_str": "04:39.170",
+      "text": "所有梦里面的风雨",
+      "translation": null
+    },
+    {
+      "time": 282.49,
+      "time_str": "04:42.490",
+      "text": "我不怕 那是我的试题",
+      "translation": null
+    },
+    {
+      "time": 285.66,
+      "time_str": "04:45.660",
+      "text": "下一页的我 希望能拥有",
+      "translation": null
+    },
+    {
+      "time": 289.42,
+      "time_str": "04:49.420",
+      "text": "美丽的明天",
+      "translation": null
+    },
+    {
+      "time": 292.33,
+      "time_str": "04:52.330",
+      "text": "所以这次我送走从前",
+      "translation": null
+    },
+    {
+      "time": 295.64,
+      "time_str": "04:55.640",
+      "text": "因为我 看的见",
+      "translation": null
+    },
+    {
+      "time": 305.35,
+      "time_str": "05:05.350",
+      "text": "所有梦里面的风雨",
+      "translation": null
+    },
+    {
+      "time": 308.79,
+      "time_str": "05:08.790",
+      "text": "我不怕 那是我的试题",
+      "translation": null
+    },
+    {
+      "time": 311.87,
+      "time_str": "05:11.870",
+      "text": "下一页的我 希望能拥有",
+      "translation": null
+    },
+    {
+      "time": 315.73,
+      "time_str": "05:15.730",
+      "text": "美丽的明天",
+      "translation": null
+    },
+    {
+      "time": 318.62,
+      "time_str": "05:18.620",
+      "text": "所以这次我送走从前",
+      "translation": null
+    },
+    {
+      "time": 321.84,
+      "time_str": "05:21.840",
+      "text": "因为我 看的见",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "下一页的我 - 王心凌.lrc"
+}

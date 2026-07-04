@@ -1,0 +1,322 @@
+{
+  "title": "一生中最爱",
+  "title_raw": "一生中最爱",
+  "version": null,
+  "artist": "谭咏麟",
+  "group_key": "一生中最爱|谭咏麟",
+  "writers": {
+    "lyricist": "向雪怀",
+    "composer": "伍思凯",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 22.797,
+      "time_str": "00:22.797",
+      "text": "如果痴痴的等某日",
+      "translation": null
+    },
+    {
+      "time": 25.149,
+      "time_str": "00:25.149",
+      "text": "终于可等到一生中最爱",
+      "translation": null
+    },
+    {
+      "time": 30.641,
+      "time_str": "00:30.641",
+      "text": "谁介意你我这段情",
+      "translation": null
+    },
+    {
+      "time": 32.795,
+      "time_str": "00:32.795",
+      "text": "每每碰上了意外",
+      "translation": null
+    },
+    {
+      "time": 34.657,
+      "time_str": "00:34.657",
+      "text": "不清楚未来",
+      "translation": null
+    },
+    {
+      "time": 37.988,
+      "time_str": "00:37.988",
+      "text": "何曾愿意 我心中所爱",
+      "translation": null
+    },
+    {
+      "time": 46.584,
+      "time_str": "00:46.584",
+      "text": "每天要孤单看海",
+      "translation": null
+    },
+    {
+      "time": 53.535,
+      "time_str": "00:53.535",
+      "text": "宁愿一生都不说话",
+      "translation": null
+    },
+    {
+      "time": 55.623,
+      "time_str": "00:55.623",
+      "text": "都不想讲假说话欺骗你",
+      "translation": null
+    },
+    {
+      "time": 61.138,
+      "time_str": "01:01.138",
+      "text": "留意到你我这段情",
+      "translation": null
+    },
+    {
+      "time": 63.254,
+      "time_str": "01:03.254",
+      "text": "你会发觉间隔着一点点距离",
+      "translation": null
+    },
+    {
+      "time": 68.516,
+      "time_str": "01:08.516",
+      "text": "无言地爱 我偏不敢说",
+      "translation": null
+    },
+    {
+      "time": 77.075,
+      "time_str": "01:17.075",
+      "text": "说一句想跟你一起",
+      "translation": null
+    },
+    {
+      "time": 83.624,
+      "time_str": "01:23.624",
+      "text": "WOOH...OH...",
+      "translation": null
+    },
+    {
+      "time": 87.72,
+      "time_str": "01:27.720",
+      "text": "如真如假",
+      "translation": null
+    },
+    {
+      "time": 91.58,
+      "time_str": "01:31.580",
+      "text": "如可分身饰演自己",
+      "translation": null
+    },
+    {
+      "time": 95.452,
+      "time_str": "01:35.452",
+      "text": "会将心中的温柔",
+      "translation": null
+    },
+    {
+      "time": 97.556,
+      "time_str": "01:37.556",
+      "text": "献出给你唯有的知己",
+      "translation": null
+    },
+    {
+      "time": 103.06,
+      "time_str": "01:43.060",
+      "text": "如痴如醉",
+      "translation": null
+    },
+    {
+      "time": 106.826,
+      "time_str": "01:46.826",
+      "text": "还盼你懂珍惜自己",
+      "translation": null
+    },
+    {
+      "time": 110.669,
+      "time_str": "01:50.669",
+      "text": "有天即使分离我都想你",
+      "translation": null
+    },
+    {
+      "time": 114.762,
+      "time_str": "01:54.762",
+      "text": "我真的想你",
+      "translation": null
+    },
+    {
+      "time": 137.34,
+      "time_str": "02:17.340",
+      "text": "宁愿一生都不说话",
+      "translation": null
+    },
+    {
+      "time": 139.454,
+      "time_str": "02:19.454",
+      "text": "都不想讲假说话欺骗你",
+      "translation": null
+    },
+    {
+      "time": 144.915,
+      "time_str": "02:24.915",
+      "text": "留意到你我这段情",
+      "translation": null
+    },
+    {
+      "time": 147.04,
+      "time_str": "02:27.040",
+      "text": "你会发觉间隔着一点点距离",
+      "translation": null
+    },
+    {
+      "time": 152.305,
+      "time_str": "02:32.305",
+      "text": "无言地爱 我偏不敢说",
+      "translation": null
+    },
+    {
+      "time": 160.87,
+      "time_str": "02:40.870",
+      "text": "说一句想跟你一起",
+      "translation": null
+    },
+    {
+      "time": 166.862,
+      "time_str": "02:46.862",
+      "text": "WOOH...OH...",
+      "translation": null
+    },
+    {
+      "time": 171.567,
+      "time_str": "02:51.567",
+      "text": "如真如假",
+      "translation": null
+    },
+    {
+      "time": 175.34,
+      "time_str": "02:55.340",
+      "text": "如可分身饰演自己",
+      "translation": null
+    },
+    {
+      "time": 179.161,
+      "time_str": "02:59.161",
+      "text": "会将心中的温柔",
+      "translation": null
+    },
+    {
+      "time": 181.396,
+      "time_str": "03:01.396",
+      "text": "献出给你唯有的知己",
+      "translation": null
+    },
+    {
+      "time": 186.883,
+      "time_str": "03:06.883",
+      "text": "如痴如醉",
+      "translation": null
+    },
+    {
+      "time": 190.67,
+      "time_str": "03:10.670",
+      "text": "还盼你懂珍惜自己",
+      "translation": null
+    },
+    {
+      "time": 194.434,
+      "time_str": "03:14.434",
+      "text": "有天即使分离我都想你",
+      "translation": null
+    },
+    {
+      "time": 198.554,
+      "time_str": "03:18.554",
+      "text": "我真的想你",
+      "translation": null
+    },
+    {
+      "time": 205.909,
+      "time_str": "03:25.909",
+      "text": "如真如假",
+      "translation": null
+    },
+    {
+      "time": 209.705,
+      "time_str": "03:29.705",
+      "text": "如可分身饰演自己",
+      "translation": null
+    },
+    {
+      "time": 213.522,
+      "time_str": "03:33.522",
+      "text": "会将心中的温柔",
+      "translation": null
+    },
+    {
+      "time": 215.707,
+      "time_str": "03:35.707",
+      "text": "献出给你唯有的知己",
+      "translation": null
+    },
+    {
+      "time": 221.15,
+      "time_str": "03:41.150",
+      "text": "如痴如醉",
+      "translation": null
+    },
+    {
+      "time": 224.965,
+      "time_str": "03:44.965",
+      "text": "还盼你懂珍惜自己",
+      "translation": null
+    },
+    {
+      "time": 228.756,
+      "time_str": "03:48.756",
+      "text": "有天即使分离我都想你",
+      "translation": null
+    },
+    {
+      "time": 232.841,
+      "time_str": "03:52.841",
+      "text": "我真的想你",
+      "translation": null
+    },
+    {
+      "time": 240.198,
+      "time_str": "04:00.198",
+      "text": "如果痴痴的等某日",
+      "translation": null
+    },
+    {
+      "time": 242.554,
+      "time_str": "04:02.554",
+      "text": "终于可等到",
+      "translation": null
+    },
+    {
+      "time": 245.557,
+      "time_str": "04:05.557",
+      "text": "一生中最爱",
+      "translation": null
+    },
+    {
+      "time": 256.537,
+      "time_str": "04:16.537",
+      "text": "贝斯 : 林志宏",
+      "translation": null
+    },
+    {
+      "time": 258.679,
+      "time_str": "04:18.679",
+      "text": "键盘 : 卢东尼",
+      "translation": null
+    },
+    {
+      "time": 260.821,
+      "time_str": "04:20.821",
+      "text": "Publisher : Coden Records (In-Co) / PolyGram",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一生中最爱 - 谭咏麟.lrc"
+}

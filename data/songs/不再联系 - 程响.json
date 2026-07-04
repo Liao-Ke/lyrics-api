@@ -1,0 +1,292 @@
+{
+  "title": "不再联系",
+  "title_raw": "不再联系",
+  "version": null,
+  "artist": "程响",
+  "group_key": "不再联系|程响",
+  "writers": {
+    "lyricist": "夏天Alex",
+    "composer": "夏天Alex",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.33,
+      "time_str": "00:19.330",
+      "text": "也许还能在网上看到你的消息",
+      "translation": null
+    },
+    {
+      "time": 23.5,
+      "time_str": "00:23.500",
+      "text": "也许我唱的歌还存在你的手机",
+      "translation": null
+    },
+    {
+      "time": 27.15,
+      "time_str": "00:27.150",
+      "text": "也许我爱你埋在心底变成秘密",
+      "translation": null
+    },
+    {
+      "time": 30.89,
+      "time_str": "00:30.890",
+      "text": "也许你想我的时候我也在想你",
+      "translation": null
+    },
+    {
+      "time": 37.6,
+      "time_str": "00:37.600",
+      "text": "多少次我告诉自己",
+      "translation": null
+    },
+    {
+      "time": 40.63,
+      "time_str": "00:40.630",
+      "text": "此情可待已成追忆",
+      "translation": null
+    },
+    {
+      "time": 44.35,
+      "time_str": "00:44.350",
+      "text": "多少次我告诫自己",
+      "translation": null
+    },
+    {
+      "time": 47.99,
+      "time_str": "00:47.990",
+      "text": "不再为你流泪到一败涂地",
+      "translation": null
+    },
+    {
+      "time": 51.69,
+      "time_str": "00:51.690",
+      "text": "我和你不再联系",
+      "translation": null
+    },
+    {
+      "time": 53.47,
+      "time_str": "00:53.470",
+      "text": "希望你不要介意",
+      "translation": null
+    },
+    {
+      "time": 55.33,
+      "time_str": "00:55.330",
+      "text": "要怪就怪当初没在一起",
+      "translation": null
+    },
+    {
+      "time": 59.6,
+      "time_str": "00:59.600",
+      "text": "而你对现在也比较满意",
+      "translation": null
+    },
+    {
+      "time": 62.71,
+      "time_str": "01:02.710",
+      "text": "所以我留下来也没有道理",
+      "translation": null
+    },
+    {
+      "time": 66.41,
+      "time_str": "01:06.410",
+      "text": "我和你断了联系",
+      "translation": null
+    },
+    {
+      "time": 68.21,
+      "time_str": "01:08.210",
+      "text": "不代表我不想你",
+      "translation": null
+    },
+    {
+      "time": 70.8,
+      "time_str": "01:10.800",
+      "text": "走到哪里还是会有惦记",
+      "translation": null
+    },
+    {
+      "time": 73.71,
+      "time_str": "01:13.710",
+      "text": "而我也开始试着去忘记",
+      "translation": null
+    },
+    {
+      "time": 77.55,
+      "time_str": "01:17.550",
+      "text": "抹去我们过去的放弃的所有交集",
+      "translation": null
+    },
+    {
+      "time": 100.509,
+      "time_str": "01:40.509",
+      "text": "也许还能在网上看到你的消息",
+      "translation": null
+    },
+    {
+      "time": 104.66,
+      "time_str": "01:44.660",
+      "text": "也许我唱的歌还存在你的手机",
+      "translation": null
+    },
+    {
+      "time": 108.36,
+      "time_str": "01:48.360",
+      "text": "也许我爱你埋在心底变成秘密",
+      "translation": null
+    },
+    {
+      "time": 112.15,
+      "time_str": "01:52.150",
+      "text": "也许你想我的时候我也在想你",
+      "translation": null
+    },
+    {
+      "time": 118.33,
+      "time_str": "01:58.330",
+      "text": "多少次我告诉自己",
+      "translation": null
+    },
+    {
+      "time": 121.84,
+      "time_str": "02:01.840",
+      "text": "此情可待已成追忆",
+      "translation": null
+    },
+    {
+      "time": 125.55,
+      "time_str": "02:05.550",
+      "text": "多少次我告诫自己",
+      "translation": null
+    },
+    {
+      "time": 129.169,
+      "time_str": "02:09.169",
+      "text": "不再为你流泪到一败涂地",
+      "translation": null
+    },
+    {
+      "time": 132.93,
+      "time_str": "02:12.930",
+      "text": "我和你不再联系",
+      "translation": null
+    },
+    {
+      "time": 134.68,
+      "time_str": "02:14.680",
+      "text": "希望你不要介意",
+      "translation": null
+    },
+    {
+      "time": 136.55,
+      "time_str": "02:16.550",
+      "text": "要怪就怪当初没在一起",
+      "translation": null
+    },
+    {
+      "time": 140.19,
+      "time_str": "02:20.190",
+      "text": "而你对现在也比较满意",
+      "translation": null
+    },
+    {
+      "time": 143.86,
+      "time_str": "02:23.860",
+      "text": "所以我留下来也没有道理",
+      "translation": null
+    },
+    {
+      "time": 147.6,
+      "time_str": "02:27.600",
+      "text": "我和你断了联系",
+      "translation": null
+    },
+    {
+      "time": 149.5,
+      "time_str": "02:29.500",
+      "text": "不代表我不想你",
+      "translation": null
+    },
+    {
+      "time": 151.329,
+      "time_str": "02:31.329",
+      "text": "走到哪里还是会有惦记",
+      "translation": null
+    },
+    {
+      "time": 154.95,
+      "time_str": "02:34.950",
+      "text": "而我也开始试着去忘记",
+      "translation": null
+    },
+    {
+      "time": 158.74,
+      "time_str": "02:38.740",
+      "text": "抹去我们过去的放弃的所有交集",
+      "translation": null
+    },
+    {
+      "time": 179.4,
+      "time_str": "02:59.400",
+      "text": "我和你不再联系",
+      "translation": null
+    },
+    {
+      "time": 180.88,
+      "time_str": "03:00.880",
+      "text": "希望你不要介意",
+      "translation": null
+    },
+    {
+      "time": 182.73,
+      "time_str": "03:02.730",
+      "text": "要怪就怪当初没在一起",
+      "translation": null
+    },
+    {
+      "time": 186.41,
+      "time_str": "03:06.410",
+      "text": "而你对现在也比较满意",
+      "translation": null
+    },
+    {
+      "time": 190.1,
+      "time_str": "03:10.100",
+      "text": "所以我留下来也没有道理",
+      "translation": null
+    },
+    {
+      "time": 193.77,
+      "time_str": "03:13.770",
+      "text": "我和你断了联系",
+      "translation": null
+    },
+    {
+      "time": 195.63,
+      "time_str": "03:15.630",
+      "text": "不代表我不想你",
+      "translation": null
+    },
+    {
+      "time": 197.54,
+      "time_str": "03:17.540",
+      "text": "走到哪里还是会有惦记",
+      "translation": null
+    },
+    {
+      "time": 201.17,
+      "time_str": "03:21.170",
+      "text": "而我也开始试着去忘记",
+      "translation": null
+    },
+    {
+      "time": 204.92,
+      "time_str": "03:24.920",
+      "text": "抹去我们过去的放弃的所有交集",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不再联系 - 程响.lrc"
+}

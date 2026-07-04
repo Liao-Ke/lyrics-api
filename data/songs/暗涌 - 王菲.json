@@ -1,0 +1,286 @@
+{
+  "title": "暗涌",
+  "title_raw": "暗涌",
+  "version": null,
+  "artist": "王菲",
+  "group_key": "暗涌|王菲",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "陈辉阳",
+    "arranger": "陈辉阳"
+  },
+  "lyrics": [
+    {
+      "time": 5.0,
+      "time_str": "00:05.000",
+      "text": "Programming : Keith Chan",
+      "translation": null
+    },
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "合成器 : Keith Chan",
+      "translation": null
+    },
+    {
+      "time": 31.84,
+      "time_str": "00:31.840",
+      "text": "就算天空再深 看不出裂痕",
+      "translation": null
+    },
+    {
+      "time": 35.845,
+      "time_str": "00:35.845",
+      "text": "眉头 仍聚满密云",
+      "translation": null
+    },
+    {
+      "time": 39.574,
+      "time_str": "00:39.574",
+      "text": "就算一屋暗灯 照不穿我身",
+      "translation": null
+    },
+    {
+      "time": 43.626,
+      "time_str": "00:43.626",
+      "text": "仍可反映你心",
+      "translation": null
+    },
+    {
+      "time": 47.867,
+      "time_str": "00:47.867",
+      "text": "让这口烟跳升 我身躯下沉",
+      "translation": null
+    },
+    {
+      "time": 51.687,
+      "time_str": "00:51.687",
+      "text": "曾多么想多么想贴近",
+      "translation": null
+    },
+    {
+      "time": 55.587,
+      "time_str": "00:55.587",
+      "text": "你的心和眼 口和耳亦没缘分",
+      "translation": null
+    },
+    {
+      "time": 59.546,
+      "time_str": "00:59.546",
+      "text": "我都捉不紧",
+      "translation": null
+    },
+    {
+      "time": 63.53,
+      "time_str": "01:03.530",
+      "text": "害怕悲剧重演 我的命中命中",
+      "translation": null
+    },
+    {
+      "time": 67.35,
+      "time_str": "01:07.350",
+      "text": "越美丽的东西我越不可碰",
+      "translation": null
+    },
+    {
+      "time": 71.495,
+      "time_str": "01:11.495",
+      "text": "历史在重演 这么烦嚣城中",
+      "translation": null
+    },
+    {
+      "time": 75.268,
+      "time_str": "01:15.268",
+      "text": "没理由 相恋可以没有暗涌",
+      "translation": null
+    },
+    {
+      "time": 79.403,
+      "time_str": "01:19.403",
+      "text": "其实我再去爱惜你又有何用",
+      "translation": null
+    },
+    {
+      "time": 83.327,
+      "time_str": "01:23.327",
+      "text": "难道这次我抱紧你未必落空",
+      "translation": null
+    },
+    {
+      "time": 87.541,
+      "time_str": "01:27.541",
+      "text": "仍静候着你说 我别错用神",
+      "translation": null
+    },
+    {
+      "time": 91.302,
+      "time_str": "01:31.302",
+      "text": "什么我 都有预感",
+      "translation": null
+    },
+    {
+      "time": 95.342,
+      "time_str": "01:35.342",
+      "text": "然后睁不开两眼 看命运光临",
+      "translation": null
+    },
+    {
+      "time": 99.138,
+      "time_str": "01:39.138",
+      "text": "然后天空又再涌起密云",
+      "translation": null
+    },
+    {
+      "time": 127.182,
+      "time_str": "02:07.182",
+      "text": "就算天空再深看不出裂痕",
+      "translation": null
+    },
+    {
+      "time": 131.248,
+      "time_str": "02:11.248",
+      "text": "眉头仍聚满密云",
+      "translation": null
+    },
+    {
+      "time": 135.126,
+      "time_str": "02:15.126",
+      "text": "就算一屋暗灯照不穿我身",
+      "translation": null
+    },
+    {
+      "time": 138.983,
+      "time_str": "02:18.983",
+      "text": "仍可反映你心",
+      "translation": null
+    },
+    {
+      "time": 142.898,
+      "time_str": "02:22.898",
+      "text": "让这口烟跳升我身躯下沉",
+      "translation": null
+    },
+    {
+      "time": 146.8,
+      "time_str": "02:26.800",
+      "text": "曾多么想多么想贴近",
+      "translation": null
+    },
+    {
+      "time": 151.096,
+      "time_str": "02:31.096",
+      "text": "你的心和眼口和耳亦没缘份",
+      "translation": null
+    },
+    {
+      "time": 155.077,
+      "time_str": "02:35.077",
+      "text": "我都捉不紧",
+      "translation": null
+    },
+    {
+      "time": 158.762,
+      "time_str": "02:38.762",
+      "text": "害怕悲剧重演我的命中命中",
+      "translation": null
+    },
+    {
+      "time": 162.766,
+      "time_str": "02:42.766",
+      "text": "越美丽的东西我越不可碰",
+      "translation": null
+    },
+    {
+      "time": 166.9,
+      "time_str": "02:46.900",
+      "text": "历史在重演这么烦嚣城中",
+      "translation": null
+    },
+    {
+      "time": 170.778,
+      "time_str": "02:50.778",
+      "text": "没理由相恋可以没有暗涌",
+      "translation": null
+    },
+    {
+      "time": 174.679,
+      "time_str": "02:54.679",
+      "text": "其实我再去爱惜你又有何用",
+      "translation": null
+    },
+    {
+      "time": 178.636,
+      "time_str": "02:58.636",
+      "text": "难道这次我抱紧你未必落空",
+      "translation": null
+    },
+    {
+      "time": 182.862,
+      "time_str": "03:02.862",
+      "text": "仍静候着你说我别错用神",
+      "translation": null
+    },
+    {
+      "time": 186.658,
+      "time_str": "03:06.658",
+      "text": "什么我都有预感",
+      "translation": null
+    },
+    {
+      "time": 190.825,
+      "time_str": "03:10.825",
+      "text": "然后睁不开两眼看命运光临",
+      "translation": null
+    },
+    {
+      "time": 194.657,
+      "time_str": "03:14.657",
+      "text": "然后天空又再涌起密云",
+      "translation": null
+    },
+    {
+      "time": 199.022,
+      "time_str": "03:19.022",
+      "text": "仍静候着你说我别错用神",
+      "translation": null
+    },
+    {
+      "time": 202.655,
+      "time_str": "03:22.655",
+      "text": "什么我都有预感",
+      "translation": null
+    },
+    {
+      "time": 206.742,
+      "time_str": "03:26.742",
+      "text": "然后睁不开两眼看命运光临",
+      "translation": null
+    },
+    {
+      "time": 210.596,
+      "time_str": "03:30.596",
+      "text": "然后天空又再涌起密云",
+      "translation": null
+    },
+    {
+      "time": 214.695,
+      "time_str": "03:34.695",
+      "text": "然后天空又再涌起密云",
+      "translation": null
+    },
+    {
+      "time": 256.266,
+      "time_str": "04:16.266",
+      "text": "Additional Recording Engineer : 金少刚",
+      "translation": null
+    },
+    {
+      "time": 258.266,
+      "time_str": "04:18.266",
+      "text": "Recorded at Studio S & R in Hong Kong, China",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "暗涌 - 王菲.lrc"
+}

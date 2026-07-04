@@ -1,0 +1,352 @@
+{
+  "title": "Fractures",
+  "title_raw": "Fractures",
+  "version": null,
+  "artist": "ILLENIUM,Nevve",
+  "group_key": "fractures|illenium,nevve",
+  "writers": {
+    "lyricist": "William Rappaport/Henry Lanz/Keeley Bumford/Nicholas Miller",
+    "composer": "William Rappaport/Henry Lanz/Keeley Bumford/Nicholas Miller",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.0,
+      "time_str": "00:25.000",
+      "text": "Burning everything I know",
+      "translation": "熊熊烈焰燃尽目所能及的一切"
+    },
+    {
+      "time": 30.59,
+      "time_str": "00:30.590",
+      "text": "Desperate for a change",
+      "translation": "绝望的火焰中寻觅着涅槃重生的蜕变"
+    },
+    {
+      "time": 37.16,
+      "time_str": "00:37.160",
+      "text": "Crashing down the ancient roads",
+      "translation": "一路疾驰过苍老的路"
+    },
+    {
+      "time": 42.65,
+      "time_str": "00:42.650",
+      "text": "Past our yesterday",
+      "translation": "挥别昨天"
+    },
+    {
+      "time": 49.36,
+      "time_str": "00:49.360",
+      "text": "Maybe there is hunger in my blood",
+      "translation": "也许那贪婪在我血液中流淌"
+    },
+    {
+      "time": 55.39,
+      "time_str": "00:55.390",
+      "text": "Screaming out loud for what I want",
+      "translation": "嘶吼出我欲求渴想的一切"
+    },
+    {
+      "time": 59.17,
+      "time_str": "00:59.170",
+      "text": "See me running full speed at it",
+      "translation": "且看我全速奔跑追逐着那些"
+    },
+    {
+      "time": 63.95,
+      "time_str": "01:03.950",
+      "text": "Shattering, collide",
+      "translation": "即便是粉身碎骨 亦能复而重生"
+    },
+    {
+      "time": 65.8,
+      "time_str": "01:05.800",
+      "text": "Call it post-traumatic",
+      "translation": "你大可随意唾弃伤痕累累的我"
+    },
+    {
+      "time": 69.93,
+      "time_str": "01:09.930",
+      "text": "Now it's do or die",
+      "translation": "我只准备孤注一掷"
+    },
+    {
+      "time": 72.6,
+      "time_str": "01:12.600",
+      "text": "Coming after tiny fractures",
+      "translation": "哪怕我只是那渺小的裂纹随其漂泊"
+    },
+    {
+      "time": 78.84,
+      "time_str": "01:18.840",
+      "text": "Coming after tiny fractures",
+      "translation": "哪怕我只是那微漠的碎痕任其摆布"
+    },
+    {
+      "time": 83.17,
+      "time_str": "01:23.170",
+      "text": "See me running full speed at it",
+      "translation": "且看我全速奔跑追逐着那些"
+    },
+    {
+      "time": 88.0,
+      "time_str": "01:28.000",
+      "text": "Coming after tiny fractures",
+      "translation": "哪怕我只是那渺小的裂纹随其漂泊"
+    },
+    {
+      "time": 89.98,
+      "time_str": "01:29.980",
+      "text": "Call me post-traumatic",
+      "translation": "你大可随意唾弃伤痕累累的我"
+    },
+    {
+      "time": 93.8,
+      "time_str": "01:33.800",
+      "text": "What comes after, tiny fractures",
+      "translation": "我也会是那渺小的蜉蝣 奔跑追逐着想要的一切"
+    },
+    {
+      "time": 98.33,
+      "time_str": "01:38.330",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 101.27,
+      "time_str": "01:41.270",
+      "text": "Tiny fractures",
+      "translation": "奔跑追逐着想要的一切"
+    },
+    {
+      "time": 104.35,
+      "time_str": "01:44.350",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 110.31,
+      "time_str": "01:50.310",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 113.29,
+      "time_str": "01:53.290",
+      "text": "Tiny fractures",
+      "translation": "奔跑追逐着想要的一切"
+    },
+    {
+      "time": 116.25,
+      "time_str": "01:56.250",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 120.93,
+      "time_str": "02:00.930",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 122.25,
+      "time_str": "02:02.250",
+      "text": "Tiny fractures",
+      "translation": "微小断裂"
+    },
+    {
+      "time": 123.92,
+      "time_str": "02:03.920",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 126.8,
+      "time_str": "02:06.800",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 128.34,
+      "time_str": "02:08.340",
+      "text": "Tiny fractures",
+      "translation": "奔跑追逐着想要的一切"
+    },
+    {
+      "time": 129.83,
+      "time_str": "02:09.830",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣 奔跑追逐着想要的一切"
+    },
+    {
+      "time": 133.1,
+      "time_str": "02:13.100",
+      "text": "Feeding frenzy is in my brain",
+      "translation": "脑海中疯狂的思绪"
+    },
+    {
+      "time": 138.26,
+      "time_str": "02:18.260",
+      "text": "I'm hopeful every day",
+      "translation": "每天都如此的希冀"
+    },
+    {
+      "time": 144.43,
+      "time_str": "02:24.430",
+      "text": "I gotta get it while we are still young enough to break",
+      "translation": "想要冲破束缚的那年少轻狂的妄想"
+    },
+    {
+      "time": 150.15,
+      "time_str": "02:30.150",
+      "text": "We're finally not afraid",
+      "translation": "还有什么可恐惧的"
+    },
+    {
+      "time": 157.36,
+      "time_str": "02:37.360",
+      "text": "Maybe there is hunger in my blood",
+      "translation": "也许那贪婪在我血液中流淌"
+    },
+    {
+      "time": 163.32,
+      "time_str": "02:43.320",
+      "text": "Screaming out loud for what I want",
+      "translation": "嘶吼出我欲求渴想的一切"
+    },
+    {
+      "time": 167.13,
+      "time_str": "02:47.130",
+      "text": "See me running full speed at it",
+      "translation": "且看我全速奔跑追逐着那些"
+    },
+    {
+      "time": 172.5,
+      "time_str": "02:52.500",
+      "text": "Shattering, collide",
+      "translation": "即便是粉身碎骨 亦能复而重生"
+    },
+    {
+      "time": 173.98,
+      "time_str": "02:53.980",
+      "text": "Call me post-traumatic",
+      "translation": "你大可随意唾弃伤痕累累的我"
+    },
+    {
+      "time": 177.92,
+      "time_str": "02:57.920",
+      "text": "Now it's do or die",
+      "translation": "我只准备孤注一掷"
+    },
+    {
+      "time": 180.76,
+      "time_str": "03:00.760",
+      "text": "Coming after tiny fractures",
+      "translation": "哪怕我只是那渺小的裂纹随其漂泊"
+    },
+    {
+      "time": 186.77,
+      "time_str": "03:06.770",
+      "text": "Coming after tiny fractures",
+      "translation": "哪怕我只是那微漠的碎痕任其摆布"
+    },
+    {
+      "time": 191.17,
+      "time_str": "03:11.170",
+      "text": "See me running full speed at it",
+      "translation": "且看我全速奔跑追逐着那些"
+    },
+    {
+      "time": 195.84,
+      "time_str": "03:15.840",
+      "text": "Coming after tiny fractures",
+      "translation": "哪怕我只是那渺小的裂纹随其漂泊"
+    },
+    {
+      "time": 197.91,
+      "time_str": "03:17.910",
+      "text": "Call me post-traumatic",
+      "translation": "你大可随意唾弃伤痕累累的我"
+    },
+    {
+      "time": 201.81,
+      "time_str": "03:21.810",
+      "text": "What comes after, tiny fractures",
+      "translation": "我也会是那渺小的蜉蝣 奔跑追逐着想要的一切"
+    },
+    {
+      "time": 206.44,
+      "time_str": "03:26.440",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 209.34,
+      "time_str": "03:29.340",
+      "text": "Tiny fractures",
+      "translation": "奔跑追逐着想要的一切"
+    },
+    {
+      "time": 212.31,
+      "time_str": "03:32.310",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 218.32,
+      "time_str": "03:38.320",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 221.31,
+      "time_str": "03:41.310",
+      "text": "Tiny fractures",
+      "translation": "奔跑追逐着想要的一切"
+    },
+    {
+      "time": 224.27,
+      "time_str": "03:44.270",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 229.16,
+      "time_str": "03:49.160",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 230.39,
+      "time_str": "03:50.390",
+      "text": "Tiny fractures",
+      "translation": "奔跑追逐着想要的一切"
+    },
+    {
+      "time": 231.92,
+      "time_str": "03:51.920",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 234.77,
+      "time_str": "03:54.770",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣"
+    },
+    {
+      "time": 236.23,
+      "time_str": "03:56.230",
+      "text": "Tiny fractures",
+      "translation": "奔跑追逐着想要的一切"
+    },
+    {
+      "time": 237.78,
+      "time_str": "03:57.780",
+      "text": "What comes after",
+      "translation": "我也会是那渺小的蜉蝣 奔跑追逐着想要的一切"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Fractures - ILLENIUM,Nevve.lrc"
+}

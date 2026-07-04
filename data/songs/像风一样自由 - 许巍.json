@@ -1,0 +1,148 @@
+{
+  "title": "像风一样自由",
+  "title_raw": "像风一样自由",
+  "version": null,
+  "artist": "许巍",
+  "group_key": "像风一样自由|许巍",
+  "writers": {
+    "lyricist": "许巍",
+    "composer": "许巍",
+    "arranger": "栾树"
+  },
+  "lyrics": [
+    {
+      "time": 42.1,
+      "time_str": "00:42.100",
+      "text": "我像风一样自由",
+      "translation": null
+    },
+    {
+      "time": 46.1,
+      "time_str": "00:46.100",
+      "text": "就像你的温柔无法挽留",
+      "translation": null
+    },
+    {
+      "time": 51.65,
+      "time_str": "00:51.650",
+      "text": "你推开我伸出的双手",
+      "translation": null
+    },
+    {
+      "time": 56.15,
+      "time_str": "00:56.150",
+      "text": "你走吧 最好别回头",
+      "translation": null
+    },
+    {
+      "time": 60.68,
+      "time_str": "01:00.680",
+      "text": "无尽的漂流 自由的渴求",
+      "translation": null
+    },
+    {
+      "time": 65.649,
+      "time_str": "01:05.649",
+      "text": "所有沧桑 独自承受",
+      "translation": null
+    },
+    {
+      "time": 74.66,
+      "time_str": "01:14.660",
+      "text": "我给你温柔 你拒绝接受",
+      "translation": null
+    },
+    {
+      "time": 79.9,
+      "time_str": "01:19.900",
+      "text": "我给你双手 真实的感受",
+      "translation": null
+    },
+    {
+      "time": 85.0,
+      "time_str": "01:25.000",
+      "text": "我给你自由 记忆的长久",
+      "translation": null
+    },
+    {
+      "time": 89.91,
+      "time_str": "01:29.910",
+      "text": "我给你所有 但不能停留",
+      "translation": null
+    },
+    {
+      "time": 97.48,
+      "time_str": "01:37.480",
+      "text": "我像风一样自由",
+      "translation": null
+    },
+    {
+      "time": 119.376,
+      "time_str": "01:59.376",
+      "text": "我像风一样自由",
+      "translation": null
+    },
+    {
+      "time": 122.936,
+      "time_str": "02:02.936",
+      "text": "就像你的温柔无法挽留",
+      "translation": null
+    },
+    {
+      "time": 129.216,
+      "time_str": "02:09.216",
+      "text": "你推开我伸出的双手",
+      "translation": null
+    },
+    {
+      "time": 133.757,
+      "time_str": "02:13.757",
+      "text": "你走吧 最好别回头",
+      "translation": null
+    },
+    {
+      "time": 138.176,
+      "time_str": "02:18.176",
+      "text": "无尽的漂流 自由的渴求",
+      "translation": null
+    },
+    {
+      "time": 143.156,
+      "time_str": "02:23.156",
+      "text": "所有沧桑 独自承受",
+      "translation": null
+    },
+    {
+      "time": 152.176,
+      "time_str": "02:32.176",
+      "text": "我给你温柔 你拒绝接受",
+      "translation": null
+    },
+    {
+      "time": 157.226,
+      "time_str": "02:37.226",
+      "text": "我给你双手 真实的感受",
+      "translation": null
+    },
+    {
+      "time": 162.357,
+      "time_str": "02:42.357",
+      "text": "我给你自由 记忆的长久",
+      "translation": null
+    },
+    {
+      "time": 167.797,
+      "time_str": "02:47.797",
+      "text": "我给你所有 但不能停留",
+      "translation": null
+    },
+    {
+      "time": 174.276,
+      "time_str": "02:54.276",
+      "text": "我像风一样自由",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "像风一样自由 - 许巍.lrc"
+}

@@ -1,0 +1,454 @@
+{
+  "title": "单人旅途",
+  "title_raw": "单人旅途",
+  "version": null,
+  "artist": "许嵩",
+  "group_key": "单人旅途|许嵩",
+  "writers": {
+    "lyricist": "许嵩",
+    "composer": "许嵩",
+    "arranger": "覃桢"
+  },
+  "lyrics": [
+    {
+      "time": 27.4,
+      "time_str": "00:27.400",
+      "text": "黄昏骤雨过后",
+      "translation": null
+    },
+    {
+      "time": 29.1,
+      "time_str": "00:29.100",
+      "text": "濛濛的水边",
+      "translation": null
+    },
+    {
+      "time": 31.25,
+      "time_str": "00:31.250",
+      "text": "有蓝色的蝴蝶",
+      "translation": null
+    },
+    {
+      "time": 33.7,
+      "time_str": "00:33.700",
+      "text": "画翩翩的弧线",
+      "translation": null
+    },
+    {
+      "time": 37.1,
+      "time_str": "00:37.100",
+      "text": "多么缠绵",
+      "translation": null
+    },
+    {
+      "time": 39.31,
+      "time_str": "00:39.310",
+      "text": "酝酿着的诺言",
+      "translation": null
+    },
+    {
+      "time": 41.82,
+      "time_str": "00:41.820",
+      "text": "保存期又有几年",
+      "translation": null
+    },
+    {
+      "time": 47.4,
+      "time_str": "00:47.400",
+      "text": "夕阳如血",
+      "translation": null
+    },
+    {
+      "time": 49.79,
+      "time_str": "00:49.790",
+      "text": "彼岸花开得妖艳",
+      "translation": null
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "当美景都重叠",
+      "translation": null
+    },
+    {
+      "time": 54.55,
+      "time_str": "00:54.550",
+      "text": "视线丢了焦点",
+      "translation": null
+    },
+    {
+      "time": 58.3,
+      "time_str": "00:58.300",
+      "text": "车窗外面",
+      "translation": null
+    },
+    {
+      "time": 60.11,
+      "time_str": "01:00.110",
+      "text": "泥土清香沁入心田",
+      "translation": null
+    },
+    {
+      "time": 62.88,
+      "time_str": "01:02.880",
+      "text": "情绪一点一点沉淀",
+      "translation": null
+    },
+    {
+      "time": 67.89,
+      "time_str": "01:07.890",
+      "text": "松 松 松",
+      "translation": null
+    },
+    {
+      "time": 69.84,
+      "time_str": "01:09.840",
+      "text": "松开了你的手",
+      "translation": null
+    },
+    {
+      "time": 72.8,
+      "time_str": "01:12.800",
+      "text": "没有觉得一个人的旅途有何寂寞",
+      "translation": null
+    },
+    {
+      "time": 78.3,
+      "time_str": "01:18.300",
+      "text": "你有离开的理由",
+      "translation": null
+    },
+    {
+      "time": 80.69,
+      "time_str": "01:20.690",
+      "text": "我有闲适的理由",
+      "translation": null
+    },
+    {
+      "time": 83.38,
+      "time_str": "01:23.380",
+      "text": "你 我",
+      "translation": null
+    },
+    {
+      "time": 85.7,
+      "time_str": "01:25.700",
+      "text": "太多的不同",
+      "translation": null
+    },
+    {
+      "time": 88.98,
+      "time_str": "01:28.980",
+      "text": "No No No",
+      "translation": null
+    },
+    {
+      "time": 90.58,
+      "time_str": "01:30.580",
+      "text": "没什么参不透",
+      "translation": null
+    },
+    {
+      "time": 93.68,
+      "time_str": "01:33.680",
+      "text": "没有觉得一个人的生活有何不妥",
+      "translation": null
+    },
+    {
+      "time": 98.94,
+      "time_str": "01:38.940",
+      "text": "你有离开的理由",
+      "translation": null
+    },
+    {
+      "time": 101.539,
+      "time_str": "01:41.539",
+      "text": "我有闲适的理由",
+      "translation": null
+    },
+    {
+      "time": 104.27,
+      "time_str": "01:44.270",
+      "text": "你 我",
+      "translation": null
+    },
+    {
+      "time": 105.71,
+      "time_str": "01:45.710",
+      "text": "太多的不同",
+      "translation": null
+    },
+    {
+      "time": 107.78,
+      "time_str": "01:47.780",
+      "text": "那就没什么好说",
+      "translation": null
+    },
+    {
+      "time": 131.14,
+      "time_str": "02:11.140",
+      "text": "黄昏骤雨过后",
+      "translation": null
+    },
+    {
+      "time": 133.14,
+      "time_str": "02:13.140",
+      "text": "濛濛的水边",
+      "translation": null
+    },
+    {
+      "time": 135.43,
+      "time_str": "02:15.430",
+      "text": "有蓝色的蝴蝶",
+      "translation": null
+    },
+    {
+      "time": 137.99,
+      "time_str": "02:17.990",
+      "text": "画翩翩的弧线",
+      "translation": null
+    },
+    {
+      "time": 141.38,
+      "time_str": "02:21.380",
+      "text": "多么缠绵",
+      "translation": null
+    },
+    {
+      "time": 143.57,
+      "time_str": "02:23.570",
+      "text": "酝酿着的诺言",
+      "translation": null
+    },
+    {
+      "time": 146.12,
+      "time_str": "02:26.120",
+      "text": "保存期又有几年",
+      "translation": null
+    },
+    {
+      "time": 151.91,
+      "time_str": "02:31.910",
+      "text": "夕阳如血",
+      "translation": null
+    },
+    {
+      "time": 153.48,
+      "time_str": "02:33.480",
+      "text": "彼岸花开得妖艳",
+      "translation": null
+    },
+    {
+      "time": 156.28,
+      "time_str": "02:36.280",
+      "text": "当美景都重叠",
+      "translation": null
+    },
+    {
+      "time": 158.84,
+      "time_str": "02:38.840",
+      "text": "视线丢了焦点",
+      "translation": null
+    },
+    {
+      "time": 162.24,
+      "time_str": "02:42.240",
+      "text": "车窗外面",
+      "translation": null
+    },
+    {
+      "time": 164.39,
+      "time_str": "02:44.390",
+      "text": "泥土清香沁入心田",
+      "translation": null
+    },
+    {
+      "time": 167.19,
+      "time_str": "02:47.190",
+      "text": "情绪一点一点沉淀",
+      "translation": null
+    },
+    {
+      "time": 172.18,
+      "time_str": "02:52.180",
+      "text": "松 松 松",
+      "translation": null
+    },
+    {
+      "time": 174.79,
+      "time_str": "02:54.790",
+      "text": "松开了你的手",
+      "translation": null
+    },
+    {
+      "time": 177.34,
+      "time_str": "02:57.340",
+      "text": "没有觉得一个人的旅途有何寂寞",
+      "translation": null
+    },
+    {
+      "time": 182.36,
+      "time_str": "03:02.360",
+      "text": "你有离开的理由",
+      "translation": null
+    },
+    {
+      "time": 184.92,
+      "time_str": "03:04.920",
+      "text": "我有闲适的理由",
+      "translation": null
+    },
+    {
+      "time": 187.74,
+      "time_str": "03:07.740",
+      "text": "你 我",
+      "translation": null
+    },
+    {
+      "time": 189.2,
+      "time_str": "03:09.200",
+      "text": "太多的不同",
+      "translation": null
+    },
+    {
+      "time": 193.7,
+      "time_str": "03:13.700",
+      "text": "No No No",
+      "translation": null
+    },
+    {
+      "time": 194.99,
+      "time_str": "03:14.990",
+      "text": "没什么参不透",
+      "translation": null
+    },
+    {
+      "time": 198.9,
+      "time_str": "03:18.900",
+      "text": "没有觉得一个人的生活有何不妥",
+      "translation": null
+    },
+    {
+      "time": 203.86,
+      "time_str": "03:23.860",
+      "text": "你有离开的理由",
+      "translation": null
+    },
+    {
+      "time": 206.39,
+      "time_str": "03:26.390",
+      "text": "我有闲适的理由",
+      "translation": null
+    },
+    {
+      "time": 209.19,
+      "time_str": "03:29.190",
+      "text": "你 我",
+      "translation": null
+    },
+    {
+      "time": 210.9,
+      "time_str": "03:30.900",
+      "text": "太多的不同",
+      "translation": null
+    },
+    {
+      "time": 212.77,
+      "time_str": "03:32.770",
+      "text": "那就没什么好说",
+      "translation": null
+    },
+    {
+      "time": 215.1,
+      "time_str": "03:35.100",
+      "text": "松 松 松",
+      "translation": null
+    },
+    {
+      "time": 216.41,
+      "time_str": "03:36.410",
+      "text": "松开了你的手",
+      "translation": null
+    },
+    {
+      "time": 220.3,
+      "time_str": "03:40.300",
+      "text": "没有觉得一个人的旅途有何寂寞",
+      "translation": null
+    },
+    {
+      "time": 224.8,
+      "time_str": "03:44.800",
+      "text": "你有离开的理由",
+      "translation": null
+    },
+    {
+      "time": 227.23,
+      "time_str": "03:47.230",
+      "text": "我有闲适的理由",
+      "translation": null
+    },
+    {
+      "time": 230.17,
+      "time_str": "03:50.170",
+      "text": "你 我",
+      "translation": null
+    },
+    {
+      "time": 231.48,
+      "time_str": "03:51.480",
+      "text": "太多的不同",
+      "translation": null
+    },
+    {
+      "time": 236.3,
+      "time_str": "03:56.300",
+      "text": "No No No",
+      "translation": null
+    },
+    {
+      "time": 239.07,
+      "time_str": "03:59.070",
+      "text": "没什么参不透",
+      "translation": null
+    },
+    {
+      "time": 241.42,
+      "time_str": "04:01.420",
+      "text": "没有觉得一个人的生活有何不妥",
+      "translation": null
+    },
+    {
+      "time": 246.46,
+      "time_str": "04:06.460",
+      "text": "你有离开的理由",
+      "translation": null
+    },
+    {
+      "time": 249.05,
+      "time_str": "04:09.050",
+      "text": "我有闲适的理由",
+      "translation": null
+    },
+    {
+      "time": 251.87,
+      "time_str": "04:11.870",
+      "text": "你 我",
+      "translation": null
+    },
+    {
+      "time": 253.21,
+      "time_str": "04:13.210",
+      "text": "太多的不同",
+      "translation": null
+    },
+    {
+      "time": 255.26,
+      "time_str": "04:15.260",
+      "text": "那就没什么好说",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "单人旅途 - 许嵩.lrc"
+}

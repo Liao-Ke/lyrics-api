@@ -1,0 +1,190 @@
+{
+  "title": "Non Piu Andrai",
+  "title_raw": "Non Piu Andrai (你再不要去做情郎) (Live)",
+  "version": "你再不要去做情郎",
+  "artist": "石凯",
+  "group_key": "non piu andrai|石凯",
+  "writers": {
+    "lyricist": "蓬特",
+    "composer": "莫扎特",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.82,
+      "time_str": "00:00.820",
+      "text": "音乐总监 : 钟兴民",
+      "translation": null
+    },
+    {
+      "time": 1.1,
+      "time_str": "00:01.100",
+      "text": "演唱总监 : 黄韵玲",
+      "translation": null
+    },
+    {
+      "time": 1.66,
+      "time_str": "00:01.660",
+      "text": "Non più andrai farfallone amoroso",
+      "translation": "你再不要去做情郎"
+    },
+    {
+      "time": 5.5,
+      "time_str": "00:05.500",
+      "text": "Notte e giorno d' intorno girando",
+      "translation": "论年纪你也不算小"
+    },
+    {
+      "time": 8.64,
+      "time_str": "00:08.640",
+      "text": "Delle belle turbando il riposo",
+      "translation": "男子汉大丈夫应该去当兵"
+    },
+    {
+      "time": 12.42,
+      "time_str": "00:12.420",
+      "text": "Narcisetto adoncino d'amor",
+      "translation": "不要再日日谈爱情"
+    },
+    {
+      "time": 15.95,
+      "time_str": "00:15.950",
+      "text": "Delle belle turbando il riposo",
+      "translation": "男子汉大丈夫应该去当兵"
+    },
+    {
+      "time": 19.58,
+      "time_str": "00:19.580",
+      "text": "Narcisetto adoncino d' amor",
+      "translation": "不要再日日谈爱情"
+    },
+    {
+      "time": 26.24,
+      "time_str": "00:26.240",
+      "text": "Non più avrai questi bei penacchini",
+      "translation": "也不要梳油头洒香水"
+    },
+    {
+      "time": 31.65,
+      "time_str": "00:31.650",
+      "text": "Quel cappello leggiero e galante",
+      "translation": "更不要满脑袋想爱情"
+    },
+    {
+      "time": 35.42,
+      "time_str": "00:35.420",
+      "text": "Quella chioma quell'aria brillante",
+      "translation": "小夜曲 写情书都要忘掉"
+    },
+    {
+      "time": 38.71,
+      "time_str": "00:38.710",
+      "text": "Quel vermiglio donnesco color",
+      "translation": "红绒帽 花围巾也都扔掉"
+    },
+    {
+      "time": 41.78,
+      "time_str": "00:41.780",
+      "text": "Quel vermiglio donnes color",
+      "translation": "红绒帽 花围巾也都扔掉"
+    },
+    {
+      "time": 45.52,
+      "time_str": "00:45.520",
+      "text": "Non più avrai",
+      "translation": "现在你"
+    },
+    {
+      "time": 47.1,
+      "time_str": "00:47.100",
+      "text": "Quei penacchini",
+      "translation": "再不要惋惜"
+    },
+    {
+      "time": 49.09,
+      "time_str": "00:49.090",
+      "text": "Quel cappello",
+      "translation": "也不要悲伤"
+    },
+    {
+      "time": 50.87,
+      "time_str": "00:50.870",
+      "text": "Quella chioma quell'aria brillante",
+      "translation": "过去的日子一去不复返"
+    },
+    {
+      "time": 57.42,
+      "time_str": "00:57.420",
+      "text": "Non più andrai farfallone amoroso",
+      "translation": "你再不要去做情郎"
+    },
+    {
+      "time": 60.99,
+      "time_str": "01:00.990",
+      "text": "Notte e giorno d' intorno girando",
+      "translation": "论年纪你也不算小"
+    },
+    {
+      "time": 64.41,
+      "time_str": "01:04.410",
+      "text": "Delle belle turbando il riposo",
+      "translation": "男子汉大丈夫应该去当兵"
+    },
+    {
+      "time": 68.23,
+      "time_str": "01:08.230",
+      "text": "Narcisetto adoncino d'amor",
+      "translation": "不要再日日谈爱情"
+    },
+    {
+      "time": 71.93,
+      "time_str": "01:11.930",
+      "text": "Delle belle turbando il riposo",
+      "translation": "男子汉大丈夫应该去当兵"
+    },
+    {
+      "time": 75.56,
+      "time_str": "01:15.560",
+      "text": "Narcisetto adoncino d'amor",
+      "translation": "不要再日日谈爱情"
+    },
+    {
+      "time": 80.1,
+      "time_str": "01:20.100",
+      "text": "Cherubino alla vittoria",
+      "translation": "凯鲁比诺 你很勇敢"
+    },
+    {
+      "time": 83.74,
+      "time_str": "01:23.740",
+      "text": "Alla gloria militar",
+      "translation": "你的前途很远大"
+    },
+    {
+      "time": 86.24,
+      "time_str": "01:26.240",
+      "text": "Cherubino alla vittoria",
+      "translation": "凯鲁比诺 你很勇敢"
+    },
+    {
+      "time": 89.71,
+      "time_str": "01:29.710",
+      "text": "Alla gloria militar",
+      "translation": "你的前途很远大"
+    },
+    {
+      "time": 93.24,
+      "time_str": "01:33.240",
+      "text": "Alla gloria militar",
+      "translation": "你的前途很远大"
+    },
+    {
+      "time": 96.85,
+      "time_str": "01:36.850",
+      "text": "Alla gloria militar",
+      "translation": "你的前途很远大"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Non Piu Andrai (你再不要去做情郎) (Live) - 石凯.lrc"
+}

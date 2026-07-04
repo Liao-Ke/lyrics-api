@@ -1,0 +1,220 @@
+{
+  "title": "下个, 路口, 见",
+  "title_raw": "下个, 路口, 见",
+  "version": null,
+  "artist": "李宇春",
+  "group_key": "下个, 路口, 见|李宇春",
+  "writers": {
+    "lyricist": "李宇春",
+    "composer": "李宇春",
+    "arranger": "谭伊哲"
+  },
+  "lyrics": [
+    {
+      "time": 23.03,
+      "time_str": "00:23.030",
+      "text": "刚下的地铁还不算拥挤",
+      "translation": null
+    },
+    {
+      "time": 27.85,
+      "time_str": "00:27.850",
+      "text": "你那边飞机碰巧也落地",
+      "translation": null
+    },
+    {
+      "time": 32.53,
+      "time_str": "00:32.530",
+      "text": "东京下雨 淋湿巴黎",
+      "translation": null
+    },
+    {
+      "time": 34.92,
+      "time_str": "00:34.920",
+      "text": "收音机 你听几点几",
+      "translation": null
+    },
+    {
+      "time": 42.51,
+      "time_str": "00:42.510",
+      "text": "当半个地球外还有个你",
+      "translation": null
+    },
+    {
+      "time": 47.2,
+      "time_str": "00:47.200",
+      "text": "当相遇还没到对的时机",
+      "translation": null
+    },
+    {
+      "time": 52.01,
+      "time_str": "00:52.010",
+      "text": "夏天一去 又是冬季",
+      "translation": null
+    },
+    {
+      "time": 54.58,
+      "time_str": "00:54.580",
+      "text": "7-11 暖杯巧克力",
+      "translation": null
+    },
+    {
+      "time": 61.9,
+      "time_str": "01:01.900",
+      "text": "秒针转动 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 64.16,
+      "time_str": "01:04.160",
+      "text": "小小时差 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 66.59,
+      "time_str": "01:06.590",
+      "text": "我早茶月光洒在你头发",
+      "translation": null
+    },
+    {
+      "time": 71.47,
+      "time_str": "01:11.470",
+      "text": "平行的画 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 73.85,
+      "time_str": "01:13.850",
+      "text": "几时交叉 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 76.41,
+      "time_str": "01:16.410",
+      "text": "下个路口再见吧",
+      "translation": null
+    },
+    {
+      "time": 101.15,
+      "time_str": "01:41.150",
+      "text": "忙碌会议你头脑转不停",
+      "translation": null
+    },
+    {
+      "time": 106.27,
+      "time_str": "01:46.270",
+      "text": "我街头散步偷偷喘口气",
+      "translation": null
+    },
+    {
+      "time": 111.07,
+      "time_str": "01:51.070",
+      "text": "伦敦叹息 倾听悉尼",
+      "translation": null
+    },
+    {
+      "time": 113.46,
+      "time_str": "01:53.460",
+      "text": "同时期 就像在一起",
+      "translation": null
+    },
+    {
+      "time": 120.71,
+      "time_str": "02:00.710",
+      "text": "我偏爱弗朗明哥的热情",
+      "translation": null
+    },
+    {
+      "time": 125.52,
+      "time_str": "02:05.520",
+      "text": "你倾心维也纳古典钢琴",
+      "translation": null
+    },
+    {
+      "time": 130.53,
+      "time_str": "02:10.530",
+      "text": "不曾相遇 未曾熟悉",
+      "translation": null
+    },
+    {
+      "time": 132.91,
+      "time_str": "02:12.910",
+      "text": "深呼吸 你会在哪里",
+      "translation": null
+    },
+    {
+      "time": 140.35,
+      "time_str": "02:20.350",
+      "text": "秒针转动 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 142.47,
+      "time_str": "02:22.470",
+      "text": "小小时差 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 144.97,
+      "time_str": "02:24.970",
+      "text": "我早茶月光洒在你头发",
+      "translation": null
+    },
+    {
+      "time": 149.8,
+      "time_str": "02:29.800",
+      "text": "平行的画 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 152.3,
+      "time_str": "02:32.300",
+      "text": "几时交叉 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 154.74,
+      "time_str": "02:34.740",
+      "text": "下个路口再见吧",
+      "translation": null
+    },
+    {
+      "time": 159.81,
+      "time_str": "02:39.810",
+      "text": "秒针转动 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 162.12,
+      "time_str": "02:42.120",
+      "text": "小小时差 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 164.5,
+      "time_str": "02:44.500",
+      "text": "我早茶月光洒在你头发",
+      "translation": null
+    },
+    {
+      "time": 169.31,
+      "time_str": "02:49.310",
+      "text": "平行的画 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 171.88,
+      "time_str": "02:51.880",
+      "text": "几时交叉 DI DI DA",
+      "translation": null
+    },
+    {
+      "time": 174.26,
+      "time_str": "02:54.260",
+      "text": "下个路口再见吧",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "下个, 路口, 见 - 李宇春.lrc"
+}

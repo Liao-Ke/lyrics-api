@@ -1,0 +1,244 @@
+{
+  "title": "爱若去了",
+  "title_raw": "爱若去了",
+  "version": null,
+  "artist": "群星",
+  "group_key": "爱若去了|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 27.87,
+      "time_str": "00:27.870",
+      "text": "北风呼啸着吹过",
+      "translation": null
+    },
+    {
+      "time": 31.54,
+      "time_str": "00:31.540",
+      "text": "吹来他乡的冬季",
+      "translation": null
+    },
+    {
+      "time": 35.39,
+      "time_str": "00:35.390",
+      "text": "冰冻着当初爱情开始的城市",
+      "translation": null
+    },
+    {
+      "time": 42.52,
+      "time_str": "00:42.520",
+      "text": "此刻谁的怀抱感动着你",
+      "translation": null
+    },
+    {
+      "time": 46.11,
+      "time_str": "00:46.110",
+      "text": "此刻谁在唇边温馨着你",
+      "translation": null
+    },
+    {
+      "time": 49.27,
+      "time_str": "00:49.270",
+      "text": "现在的他是否比我懂你",
+      "translation": null
+    },
+    {
+      "time": 57.24,
+      "time_str": "00:57.240",
+      "text": "无意中再次路过",
+      "translation": null
+    },
+    {
+      "time": 60.71,
+      "time_str": "01:00.710",
+      "text": "这片寒冷的故地",
+      "translation": null
+    },
+    {
+      "time": 64.53,
+      "time_str": "01:04.530",
+      "text": "仿佛空气的味道都那么熟悉",
+      "translation": null
+    },
+    {
+      "time": 71.58,
+      "time_str": "01:11.580",
+      "text": "此刻已不想用太多力气",
+      "translation": null
+    },
+    {
+      "time": 75.2,
+      "time_str": "01:15.200",
+      "text": "将过去一点点片段记起",
+      "translation": null
+    },
+    {
+      "time": 78.35,
+      "time_str": "01:18.350",
+      "text": "只有重复事过境迁提醒自己",
+      "translation": null
+    },
+    {
+      "time": 86.13,
+      "time_str": "01:26.130",
+      "text": "爱若去了 就由它吧",
+      "translation": null
+    },
+    {
+      "time": 89.71,
+      "time_str": "01:29.710",
+      "text": "谁不是在爱情起起落落中浮沉",
+      "translation": null
+    },
+    {
+      "time": 93.41,
+      "time_str": "01:33.410",
+      "text": "那些去而复返的情节",
+      "translation": null
+    },
+    {
+      "time": 96.51,
+      "time_str": "01:36.510",
+      "text": "总有人重温",
+      "translation": null
+    },
+    {
+      "time": 100.63,
+      "time_str": "01:40.630",
+      "text": "爱若去了 就由它吧",
+      "translation": null
+    },
+    {
+      "time": 104.25,
+      "time_str": "01:44.250",
+      "text": "至少精彩过后点点滴滴的余烬",
+      "translation": null
+    },
+    {
+      "time": 107.92,
+      "time_str": "01:47.920",
+      "text": "能够陪着梦醒来时的清晨",
+      "translation": null
+    },
+    {
+      "time": 129.27,
+      "time_str": "02:09.270",
+      "text": "无意中再次路过",
+      "translation": null
+    },
+    {
+      "time": 133.44,
+      "time_str": "02:13.440",
+      "text": "这片寒冷的故地",
+      "translation": null
+    },
+    {
+      "time": 137.25,
+      "time_str": "02:17.250",
+      "text": "仿佛空气的味道都那么熟悉",
+      "translation": null
+    },
+    {
+      "time": 144.15,
+      "time_str": "02:24.150",
+      "text": "此刻已不想用太多力气",
+      "translation": null
+    },
+    {
+      "time": 147.89,
+      "time_str": "02:27.890",
+      "text": "将过去一点点片段记起",
+      "translation": null
+    },
+    {
+      "time": 151.09,
+      "time_str": "02:31.090",
+      "text": "只有重复事过境迁提醒自己",
+      "translation": null
+    },
+    {
+      "time": 158.95,
+      "time_str": "02:38.950",
+      "text": "爱若去了 就由它吧",
+      "translation": null
+    },
+    {
+      "time": 162.35,
+      "time_str": "02:42.350",
+      "text": "谁不是在爱情起起落落中浮沉",
+      "translation": null
+    },
+    {
+      "time": 166.05,
+      "time_str": "02:46.050",
+      "text": "那些去而复返的情节",
+      "translation": null
+    },
+    {
+      "time": 169.17,
+      "time_str": "02:49.170",
+      "text": "总有人重温",
+      "translation": null
+    },
+    {
+      "time": 173.21,
+      "time_str": "02:53.210",
+      "text": "爱若去了 就由它吧",
+      "translation": null
+    },
+    {
+      "time": 176.93,
+      "time_str": "02:56.930",
+      "text": "至少精彩过后点点滴滴的余烬",
+      "translation": null
+    },
+    {
+      "time": 180.67,
+      "time_str": "03:00.670",
+      "text": "能够陪着梦醒来时的清晨",
+      "translation": null
+    },
+    {
+      "time": 187.8,
+      "time_str": "03:07.800",
+      "text": "爱若去了 就由它吧",
+      "translation": null
+    },
+    {
+      "time": 191.39,
+      "time_str": "03:11.390",
+      "text": "谁不是在爱情起起落落中浮沉",
+      "translation": null
+    },
+    {
+      "time": 195.05,
+      "time_str": "03:15.050",
+      "text": "那些去而复返的情节总有人重温",
+      "translation": null
+    },
+    {
+      "time": 202.36,
+      "time_str": "03:22.360",
+      "text": "爱若去了 就由它吧",
+      "translation": null
+    },
+    {
+      "time": 205.83,
+      "time_str": "03:25.830",
+      "text": "至少精彩过后点点滴滴的余烬",
+      "translation": null
+    },
+    {
+      "time": 209.64,
+      "time_str": "03:29.640",
+      "text": "能够陪着梦醒来时的清晨",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱若去了 - 群星.lrc"
+}

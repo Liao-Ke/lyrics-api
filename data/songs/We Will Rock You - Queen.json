@@ -1,0 +1,214 @@
+{
+  "title": "We Will Rock You",
+  "title_raw": "We Will Rock You",
+  "version": null,
+  "artist": "Queen",
+  "group_key": "we will rock you|queen",
+  "writers": {
+    "lyricist": "Brian May",
+    "composer": "Brian May",
+    "arranger": "Queen"
+  },
+  "lyrics": [
+    {
+      "time": 12.655,
+      "time_str": "00:12.655",
+      "text": "Buddy you're a boy make a big noise",
+      "translation": "伙计 你是个只会大声嚷嚷的孩子"
+    },
+    {
+      "time": 14.92,
+      "time_str": "00:14.920",
+      "text": "Playing in the street gonna be a big man some day",
+      "translation": "在街头嬉闹 希望有一天能成为大人物"
+    },
+    {
+      "time": 17.992,
+      "time_str": "00:17.992",
+      "text": "You got mud on your face",
+      "translation": "你搞得灰头土脸"
+    },
+    {
+      "time": 19.862,
+      "time_str": "00:19.862",
+      "text": "You big disgrace",
+      "translation": "你狼狈至极"
+    },
+    {
+      "time": 21.552,
+      "time_str": "00:21.552",
+      "text": "Kicking your can all over the place",
+      "translation": "把铁罐到处踢来踢去"
+    },
+    {
+      "time": 24.068,
+      "time_str": "00:24.068",
+      "text": "Singing",
+      "translation": "大声唱吧"
+    },
+    {
+      "time": 24.46,
+      "time_str": "00:24.460",
+      "text": "We will, we will, rock you",
+      "translation": "我们将震撼你"
+    },
+    {
+      "time": 30.406,
+      "time_str": "00:30.406",
+      "text": "We will, we will, rock you",
+      "translation": "我们将震撼你"
+    },
+    {
+      "time": 36.324,
+      "time_str": "00:36.324",
+      "text": "Buddy you're a young man, hard man",
+      "translation": "老兄 你是个年轻人 一条硬汉"
+    },
+    {
+      "time": 38.53,
+      "time_str": "00:38.530",
+      "text": "Shouting in the street gonna take on the world some day",
+      "translation": "在街头叫嚣 总有一天要接管这个世界"
+    },
+    {
+      "time": 41.704,
+      "time_str": "00:41.704",
+      "text": "You got blood on your face",
+      "translation": "你搞得血流满面"
+    },
+    {
+      "time": 43.472,
+      "time_str": "00:43.472",
+      "text": "You big disgrace",
+      "translation": "你狼狈至极"
+    },
+    {
+      "time": 45.157,
+      "time_str": "00:45.157",
+      "text": "Waving your banner all over the place",
+      "translation": "到处挥舞你的条幅"
+    },
+    {
+      "time": 48.082,
+      "time_str": "00:48.082",
+      "text": "We will, we will, rock you",
+      "translation": "我们将震撼你"
+    },
+    {
+      "time": 52.868,
+      "time_str": "00:52.868",
+      "text": "Sing it out!",
+      "translation": "大声唱吧"
+    },
+    {
+      "time": 54.013,
+      "time_str": "00:54.013",
+      "text": "We will, we will, rock you",
+      "translation": "我们将震撼你"
+    },
+    {
+      "time": 59.945,
+      "time_str": "00:59.945",
+      "text": "Buddy you're an old man, poor man",
+      "translation": "老兄 你是个可怜的老头"
+    },
+    {
+      "time": 62.143,
+      "time_str": "01:02.143",
+      "text": "Pleading with your eyes gonna make you some peace some day",
+      "translation": "眼里祈求着宽恕 总有一天可以使你得到平静"
+    },
+    {
+      "time": 65.24,
+      "time_str": "01:05.240",
+      "text": "You got mud on your face",
+      "translation": "你搞得灰头土脸"
+    },
+    {
+      "time": 67.279,
+      "time_str": "01:07.279",
+      "text": "Big disgrace",
+      "translation": "狼狈至极"
+    },
+    {
+      "time": 68.28,
+      "time_str": "01:08.280",
+      "text": "Somebody better put you back into your place",
+      "translation": "最好有人能把你赶回老家去"
+    },
+    {
+      "time": 71.628,
+      "time_str": "01:11.628",
+      "text": "We will, we will, rock you",
+      "translation": "我们将震撼你"
+    },
+    {
+      "time": 75.982,
+      "time_str": "01:15.982",
+      "text": "Sing it!",
+      "translation": "大声唱吧"
+    },
+    {
+      "time": 77.57,
+      "time_str": "01:17.570",
+      "text": "We will, we will, rock you",
+      "translation": "我们将震撼你"
+    },
+    {
+      "time": 82.708,
+      "time_str": "01:22.708",
+      "text": "Everybody",
+      "translation": "大家一起来吧"
+    },
+    {
+      "time": 83.37,
+      "time_str": "01:23.370",
+      "text": "We will, we will, rock you",
+      "translation": "我们将震撼你"
+    },
+    {
+      "time": 89.387,
+      "time_str": "01:29.387",
+      "text": "We will, we will, rock you",
+      "translation": "我们将震撼你"
+    },
+    {
+      "time": 94.721,
+      "time_str": "01:34.721",
+      "text": "Alright",
+      "translation": "好吧"
+    },
+    {
+      "time": 98.0,
+      "time_str": "01:38.000",
+      "text": "Producers : Queen / Mike Stone",
+      "translation": null
+    },
+    {
+      "time": 102.0,
+      "time_str": "01:42.000",
+      "text": "Lead Vocals : Freddie Mercury",
+      "translation": null
+    },
+    {
+      "time": 106.0,
+      "time_str": "01:46.000",
+      "text": "Backing Vocals : Freddie Mercury / Brian May / Roger Taylor",
+      "translation": null
+    },
+    {
+      "time": 110.0,
+      "time_str": "01:50.000",
+      "text": "Electric Guitar : Brian May",
+      "translation": null
+    },
+    {
+      "time": 114.0,
+      "time_str": "01:54.000",
+      "text": "Stamping : Queen",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "We Will Rock You - Queen.lrc"
+}

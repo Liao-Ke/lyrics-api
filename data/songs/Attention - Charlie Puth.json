@@ -1,0 +1,346 @@
+{
+  "title": "Attention",
+  "title_raw": "Attention",
+  "version": null,
+  "artist": "Charlie Puth",
+  "group_key": "attention|charlie puth",
+  "writers": {
+    "lyricist": "Charlie Puth/Jacob Kasher",
+    "composer": "Charlie Puth/Jacob Kasher",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.18,
+      "time_str": "00:09.180",
+      "text": "You've been running round, running round, running round throwing that dirt all on my name",
+      "translation": "你总在四处兜圈 到处撒野 还把所有污名都扣我头上"
+    },
+    {
+      "time": 14.04,
+      "time_str": "00:14.040",
+      "text": "Cause you knew that I, knew that I, knew that I'd call you up",
+      "translation": "因为你我都知道这样的话我就会给你来电"
+    },
+    {
+      "time": 18.69,
+      "time_str": "00:18.690",
+      "text": "You've been going round, going round, going round every party in LA",
+      "translation": "你总是混迹在洛杉矶的各个派对"
+    },
+    {
+      "time": 23.58,
+      "time_str": "00:23.580",
+      "text": "Cause you knew that I, knew that I, knew that I be at one",
+      "translation": "因为你我都明了我也会同时出现"
+    },
+    {
+      "time": 29.02,
+      "time_str": "00:29.020",
+      "text": "I know that dress is karma, perfume regret",
+      "translation": "那身衣服是祸之源头 而香水引来罪恶歉疚"
+    },
+    {
+      "time": 33.3,
+      "time_str": "00:33.300",
+      "text": "You got me thinking 'bout when you were mine",
+      "translation": "你总让我不断想起那些你属于我的时候"
+    },
+    {
+      "time": 38.49,
+      "time_str": "00:38.490",
+      "text": "And now I'm all up on ya, what you expect",
+      "translation": "而现在我亦是悉听尊便 随你所愿"
+    },
+    {
+      "time": 42.85,
+      "time_str": "00:42.850",
+      "text": "But you're not coming home with me tonight",
+      "translation": "反正今晚你也不愿意跟我回家"
+    },
+    {
+      "time": 46.67,
+      "time_str": "00:46.670",
+      "text": "You just want attention",
+      "translation": "你只是想引人注意"
+    },
+    {
+      "time": 49.08,
+      "time_str": "00:49.080",
+      "text": "You don't want my heart",
+      "translation": "并不是真想俘获我心"
+    },
+    {
+      "time": 51.47,
+      "time_str": "00:51.470",
+      "text": "Maybe you just hate the thought of me with someone new",
+      "translation": "你只是不愿去想到我和别人会在一起"
+    },
+    {
+      "time": 56.02,
+      "time_str": "00:56.020",
+      "text": "Yeah, you just want attention",
+      "translation": "你只是想引起我的注意"
+    },
+    {
+      "time": 58.81,
+      "time_str": "00:58.810",
+      "text": "I knew from the start",
+      "translation": "从一开始我便心知肚明"
+    },
+    {
+      "time": 61.09,
+      "time_str": "01:01.090",
+      "text": "You're just making sure I'm never getting over you",
+      "translation": "你只是想确信我还是依然忘不掉你"
+    },
+    {
+      "time": 66.84,
+      "time_str": "01:06.840",
+      "text": "You've been running round, running round, running round throwing that dirt all on my name",
+      "translation": "你总在四处兜圈 到处撒野 还把所有污名都扣我头上"
+    },
+    {
+      "time": 71.55,
+      "time_str": "01:11.550",
+      "text": "'Cause you knew that I, knew that I, knew that I'd call you up",
+      "translation": "因为你我都知道这样的话我就会给你来电"
+    },
+    {
+      "time": 76.35,
+      "time_str": "01:16.350",
+      "text": "Baby, now that we're, now that we're, now that we're right here standing face to face",
+      "translation": "现在 你满意了吧 我俩就站在这儿 面对着面"
+    },
+    {
+      "time": 81.26,
+      "time_str": "01:21.260",
+      "text": "You already know, already know, already know that you won, oh",
+      "translation": "你早就知道 早就知道 你会赢的"
+    },
+    {
+      "time": 86.56,
+      "time_str": "01:26.560",
+      "text": "I know that dress is karma, perfume regret",
+      "translation": "那身衣服是祸之源头 而香水引来罪恶歉疚"
+    },
+    {
+      "time": 90.92,
+      "time_str": "01:30.920",
+      "text": "You got me thinking 'bout when you were mine",
+      "translation": "你总让我不断想起那些你属于我的时候"
+    },
+    {
+      "time": 93.43,
+      "time_str": "01:33.430",
+      "text": "You got me thinking 'bout when you were mine",
+      "translation": "你总让我不断想起那些你属于我的时候"
+    },
+    {
+      "time": 96.22,
+      "time_str": "01:36.220",
+      "text": "And now I'm all up on ya, what you expect",
+      "translation": "而现在我亦是悉听尊便 随你所愿"
+    },
+    {
+      "time": 100.58,
+      "time_str": "01:40.580",
+      "text": "But you're not coming home with me tonight",
+      "translation": "反正今晚你也不愿意跟我回家"
+    },
+    {
+      "time": 104.36,
+      "time_str": "01:44.360",
+      "text": "You just want attention",
+      "translation": "你只是想引人注意"
+    },
+    {
+      "time": 106.68,
+      "time_str": "01:46.680",
+      "text": "You don't want my heart",
+      "translation": "并不是真想俘获我心"
+    },
+    {
+      "time": 109.09,
+      "time_str": "01:49.090",
+      "text": "Maybe you just hate the thought of me with someone new",
+      "translation": "你只是不愿去想到我和别人会在一起"
+    },
+    {
+      "time": 113.59,
+      "time_str": "01:53.590",
+      "text": "Yeah, you just want attention",
+      "translation": "你只是想引起我的注意"
+    },
+    {
+      "time": 116.31,
+      "time_str": "01:56.310",
+      "text": "I knew from the start",
+      "translation": "从一开始我便心知肚明"
+    },
+    {
+      "time": 118.65,
+      "time_str": "01:58.650",
+      "text": "You're just making sure I'm never getting over you",
+      "translation": "你只是想确信我还是依然忘不掉你"
+    },
+    {
+      "time": 125.3,
+      "time_str": "02:05.300",
+      "text": "What are you doing to me?",
+      "translation": "你在对我做些什么"
+    },
+    {
+      "time": 126.93,
+      "time_str": "02:06.930",
+      "text": "What are you doing, huh? (What are you doing)",
+      "translation": "你究竟想对我做些什么"
+    },
+    {
+      "time": 129.98,
+      "time_str": "02:09.980",
+      "text": "What are you doing to me?",
+      "translation": "你在对我做些什么"
+    },
+    {
+      "time": 131.87,
+      "time_str": "02:11.870",
+      "text": "What are you doing, huh? (What are you doing)",
+      "translation": "你究竟想对我做些什么"
+    },
+    {
+      "time": 134.79,
+      "time_str": "02:14.790",
+      "text": "What are you doing to me?",
+      "translation": "你在对我做些什么"
+    },
+    {
+      "time": 136.66,
+      "time_str": "02:16.660",
+      "text": "What are you doing huh? (What are you doing)",
+      "translation": "你究竟想对我做些什么"
+    },
+    {
+      "time": 139.54,
+      "time_str": "02:19.540",
+      "text": "What are you doing to me?",
+      "translation": "你在对我做些什么"
+    },
+    {
+      "time": 141.48,
+      "time_str": "02:21.480",
+      "text": "What are you doing, huh?",
+      "translation": "你究竟想对我做些什么"
+    },
+    {
+      "time": 144.24,
+      "time_str": "02:24.240",
+      "text": "I know that dress is karma, perfume regret",
+      "translation": "那身衣服是祸之源头 而香水引来罪恶歉疚"
+    },
+    {
+      "time": 148.61,
+      "time_str": "02:28.610",
+      "text": "You got me thinking 'bout when you were mine",
+      "translation": "你总让我不断想起那些你属于我的时候"
+    },
+    {
+      "time": 153.8,
+      "time_str": "02:33.800",
+      "text": "And now I'm all up on ya, what you expect",
+      "translation": "而现在我亦是悉听尊便 随你所愿"
+    },
+    {
+      "time": 158.13,
+      "time_str": "02:38.130",
+      "text": "But you're not coming home with me tonight",
+      "translation": "反正今晚你也不愿意跟我回家"
+    },
+    {
+      "time": 164.3,
+      "time_str": "02:44.300",
+      "text": "You just want attention",
+      "translation": "你只是想引人注意"
+    },
+    {
+      "time": 166.76,
+      "time_str": "02:46.760",
+      "text": "You don't want my heart",
+      "translation": "并不是真想俘获我心"
+    },
+    {
+      "time": 168.99,
+      "time_str": "02:48.990",
+      "text": "Maybe you just hate the thought of me with someone new",
+      "translation": "你只是不愿去想到我和别人会在一起"
+    },
+    {
+      "time": 173.57,
+      "time_str": "02:53.570",
+      "text": "Yeah, you just want attention",
+      "translation": "你只是想引起我的注意"
+    },
+    {
+      "time": 176.31,
+      "time_str": "02:56.310",
+      "text": "I knew from the start",
+      "translation": "从一开始我便心知肚明"
+    },
+    {
+      "time": 178.62,
+      "time_str": "02:58.620",
+      "text": "You're just making sure I'm never getting over you (over you)",
+      "translation": "你只是想确信我还是依然忘不掉你"
+    },
+    {
+      "time": 185.23,
+      "time_str": "03:05.230",
+      "text": "What are you doing to me? (hey)",
+      "translation": "你在对我做些什么"
+    },
+    {
+      "time": 187.03,
+      "time_str": "03:07.030",
+      "text": "What are you doing, huh? (What are you doing, what?)",
+      "translation": "你究竟想对我做些什么"
+    },
+    {
+      "time": 190.15,
+      "time_str": "03:10.150",
+      "text": "What are you doing to me?",
+      "translation": "你在对我做些什么"
+    },
+    {
+      "time": 191.86,
+      "time_str": "03:11.860",
+      "text": "What are you doing, huh? (yeah you just want attention)",
+      "translation": "你究竟想对我做些什么(只是想引起我的注意罢了)"
+    },
+    {
+      "time": 194.85,
+      "time_str": "03:14.850",
+      "text": "What are you doing to me? (I knew from the start)",
+      "translation": "你究竟想对我做些什么(从一开始我便心知肚明了)"
+    },
+    {
+      "time": 196.76,
+      "time_str": "03:16.760",
+      "text": "What are you doing huh? (You're just making sure I'll never getting over you)",
+      "translation": "你究竟想对我做些什么(不过是想确信我还是依然忘不掉你罢了)"
+    },
+    {
+      "time": 199.72,
+      "time_str": "03:19.720",
+      "text": "What are you doing to me?",
+      "translation": "你究竟想对我做些什么"
+    },
+    {
+      "time": 201.42,
+      "time_str": "03:21.420",
+      "text": "What are you doing, huh?",
+      "translation": "所以现在能否告诉我呢"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Attention - Charlie Puth.lrc"
+}

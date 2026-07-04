@@ -1,0 +1,244 @@
+{
+  "title": "All We Know",
+  "title_raw": "All We Know",
+  "version": null,
+  "artist": "The Chainsmokers,Phoebe Ryan",
+  "group_key": "all we know|the chainsmokers,phoebe ryan",
+  "writers": {
+    "lyricist": "Andrew Taggart/Nirob Islam/SHY Martin",
+    "composer": "Andrew Taggart/Nirob Islam/Sara Hejellstrom",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.8,
+      "time_str": "00:10.800",
+      "text": "Fighting flames of fire",
+      "translation": "宛若在烈焰中苦苦挣扎"
+    },
+    {
+      "time": 13.38,
+      "time_str": "00:13.380",
+      "text": "Hang onto burning wires",
+      "translation": "倔强将火中之栗在手中紧握"
+    },
+    {
+      "time": 16.02,
+      "time_str": "00:16.020",
+      "text": "We don't care anymore",
+      "translation": "不在意伤痕痛苦的你我"
+    },
+    {
+      "time": 21.4,
+      "time_str": "00:21.400",
+      "text": "Are we fading lovers?",
+      "translation": "我们是否已经走到尽头"
+    },
+    {
+      "time": 23.92,
+      "time_str": "00:23.920",
+      "text": "We keep wasting colors",
+      "translation": "再多挣扎也只是徒增苦愁"
+    },
+    {
+      "time": 26.66,
+      "time_str": "00:26.660",
+      "text": "Maybe we should let this go",
+      "translation": "也许是时候该放手"
+    },
+    {
+      "time": 31.57,
+      "time_str": "00:31.570",
+      "text": "We're falling apart, still we hold together",
+      "translation": "渐行渐远的你我 依然将双手紧握"
+    },
+    {
+      "time": 36.89,
+      "time_str": "00:36.890",
+      "text": "We've passed the end so we chase forever",
+      "translation": "相信挺过这难关 爱或许就能永久"
+    },
+    {
+      "time": 41.89,
+      "time_str": "00:41.890",
+      "text": "Cause this is all we know",
+      "translation": "这就是我们为何而坚守"
+    },
+    {
+      "time": 47.36,
+      "time_str": "00:47.360",
+      "text": "This feeling's all we know",
+      "translation": "这就是我们共同拥有的感受"
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "I'll ride my bike up to the road",
+      "translation": "骑着单车的我 欲将这世界环游"
+    },
+    {
+      "time": 55.02,
+      "time_str": "00:55.020",
+      "text": "Down the streets right through the city",
+      "translation": "横穿这城市 在转角的街头直走"
+    },
+    {
+      "time": 57.71,
+      "time_str": "00:57.710",
+      "text": "I'll go everywhere you go",
+      "translation": "无论你到哪 我都跟着你走"
+    },
+    {
+      "time": 60.26,
+      "time_str": "01:00.260",
+      "text": "From Chicago to the coast",
+      "translation": "哪怕是从芝加哥到西海岸的尽头"
+    },
+    {
+      "time": 62.96,
+      "time_str": "01:02.960",
+      "text": "You tell me, \"Hit this and let's go",
+      "translation": "想起你对我说过 决定了就即刻行动"
+    },
+    {
+      "time": 65.68,
+      "time_str": "01:05.680",
+      "text": "Blow the smoke right through the window\"",
+      "translation": "想起在车窗前吞云吐雾那般自在的时候"
+    },
+    {
+      "time": 68.72,
+      "time_str": "01:08.720",
+      "text": "Cause this is all we know",
+      "translation": "这就是我们共同的拥有"
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "Cause this is all we know",
+      "translation": "这也是我们都记得的感受"
+    },
+    {
+      "time": 92.72,
+      "time_str": "01:32.720",
+      "text": "Cause this is all we know",
+      "translation": "我们都记得 都认同 都共同拥有"
+    },
+    {
+      "time": 96.12,
+      "time_str": "01:36.120",
+      "text": "Never face each other",
+      "translation": "不再见面的你我"
+    },
+    {
+      "time": 98.62,
+      "time_str": "01:38.620",
+      "text": "one bed, different covers",
+      "translation": "心还连着 但眼前风景却早已不同"
+    },
+    {
+      "time": 101.31,
+      "time_str": "01:41.310",
+      "text": "We don't care anymore",
+      "translation": "也不能再像从前那般关怀问候"
+    },
+    {
+      "time": 106.64,
+      "time_str": "01:46.640",
+      "text": "Two hearts still beating",
+      "translation": "两颗心依旧为彼此跳动"
+    },
+    {
+      "time": 109.26,
+      "time_str": "01:49.260",
+      "text": "On with different rhythms",
+      "translation": "却渐渐不再是相同的频率和节奏"
+    },
+    {
+      "time": 111.96,
+      "time_str": "01:51.960",
+      "text": "Maybe we should let this go",
+      "translation": "也许真的是时候该放手"
+    },
+    {
+      "time": 116.76,
+      "time_str": "01:56.760",
+      "text": "We're falling apart, still we hold together",
+      "translation": "渐行渐远的你我 依然在为彼此坚守"
+    },
+    {
+      "time": 121.96,
+      "time_str": "02:01.960",
+      "text": "We've passed the end so we chase forever",
+      "translation": "相信挺过这难关 爱或许就能永久"
+    },
+    {
+      "time": 127.28,
+      "time_str": "02:07.280",
+      "text": "Cause this is all we know",
+      "translation": "这就是我们为何而坚守"
+    },
+    {
+      "time": 132.65,
+      "time_str": "02:12.650",
+      "text": "This feeling's all we know",
+      "translation": "这就是我们共同拥有的感受"
+    },
+    {
+      "time": 137.35,
+      "time_str": "02:17.350",
+      "text": "I'll ride my bike up to the road",
+      "translation": "骑着单车的我 欲将这世界环游"
+    },
+    {
+      "time": 140.31,
+      "time_str": "02:20.310",
+      "text": "Down the streets right through the city",
+      "translation": "横穿这城市 在转角的街头直走"
+    },
+    {
+      "time": 142.93,
+      "time_str": "02:22.930",
+      "text": "I'll go everywhere you go",
+      "translation": "无论你到哪 我都跟着你走"
+    },
+    {
+      "time": 145.62,
+      "time_str": "02:25.620",
+      "text": "From Chicago to the coast",
+      "translation": "哪怕是从芝加哥到西海岸的尽头"
+    },
+    {
+      "time": 148.06,
+      "time_str": "02:28.060",
+      "text": "You tell me, \"Hit this and let's go",
+      "translation": "想起你对我说过 决定了就即刻行动"
+    },
+    {
+      "time": 150.95,
+      "time_str": "02:30.950",
+      "text": "Blow the smoke right through the window\"",
+      "translation": "想起在车窗前吞云吐雾那般自在的时候"
+    },
+    {
+      "time": 153.98,
+      "time_str": "02:33.980",
+      "text": "Cause this is all we know",
+      "translation": "这就是我们共同的拥有"
+    },
+    {
+      "time": 167.37,
+      "time_str": "02:47.370",
+      "text": "Cause this is all we know",
+      "translation": "这也是我们都记得的感受"
+    },
+    {
+      "time": 177.92,
+      "time_str": "02:57.920",
+      "text": "Cause this is all we know",
+      "translation": "我们都记得 都认同 都共同拥有"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "All We Know - The Chainsmokers,Phoebe Ryan.lrc"
+}

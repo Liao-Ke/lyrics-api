@@ -1,0 +1,220 @@
+{
+  "title": "红颜",
+  "title_raw": "红颜",
+  "version": null,
+  "artist": "胡彦斌",
+  "group_key": "红颜|胡彦斌",
+  "writers": {
+    "lyricist": "林文炫",
+    "composer": "胡彦斌",
+    "arranger": "胡彦斌"
+  },
+  "lyrics": [
+    {
+      "time": 2.5,
+      "time_str": "00:02.500",
+      "text": "剑煮酒无味",
+      "translation": null
+    },
+    {
+      "time": 6.52,
+      "time_str": "00:06.520",
+      "text": "饮一杯为谁",
+      "translation": null
+    },
+    {
+      "time": 10.86,
+      "time_str": "00:10.860",
+      "text": "你为我送别",
+      "translation": null
+    },
+    {
+      "time": 14.79,
+      "time_str": "00:14.790",
+      "text": "你为我送别",
+      "translation": null
+    },
+    {
+      "time": 19.07,
+      "time_str": "00:19.070",
+      "text": "胭脂香味",
+      "translation": null
+    },
+    {
+      "time": 22.54,
+      "time_str": "00:22.540",
+      "text": "能爱不能给",
+      "translation": null
+    },
+    {
+      "time": 26.83,
+      "time_str": "00:26.830",
+      "text": "天有多长",
+      "translation": null
+    },
+    {
+      "time": 30.89,
+      "time_str": "00:30.890",
+      "text": "地有多远",
+      "translation": null
+    },
+    {
+      "time": 36.64,
+      "time_str": "00:36.640",
+      "text": "你是英雄就注定无泪无悔",
+      "translation": null
+    },
+    {
+      "time": 44.58,
+      "time_str": "00:44.580",
+      "text": "这笑有多危险 是穿肠毒药",
+      "translation": null
+    },
+    {
+      "time": 52.5,
+      "time_str": "00:52.500",
+      "text": "这泪有多么美 只有你知道",
+      "translation": null
+    },
+    {
+      "time": 60.56,
+      "time_str": "01:00.560",
+      "text": "这心没有你活着可笑",
+      "translation": null
+    },
+    {
+      "time": 68.58,
+      "time_str": "01:08.580",
+      "text": "这一世英名我不要",
+      "translation": null
+    },
+    {
+      "time": 76.53,
+      "time_str": "01:16.530",
+      "text": "只求换来红颜一笑",
+      "translation": null
+    },
+    {
+      "time": 84.75,
+      "time_str": "01:24.750",
+      "text": "这一去如果还能轮回",
+      "translation": null
+    },
+    {
+      "time": 92.78,
+      "time_str": "01:32.780",
+      "text": "我愿意来生做牛马",
+      "translation": null
+    },
+    {
+      "time": 96.6,
+      "time_str": "01:36.600",
+      "text": "也要与你天涯相随",
+      "translation": null
+    },
+    {
+      "time": 108.13,
+      "time_str": "01:48.130",
+      "text": "剑煮酒无味",
+      "translation": null
+    },
+    {
+      "time": 112.52,
+      "time_str": "01:52.520",
+      "text": "饮一杯为谁",
+      "translation": null
+    },
+    {
+      "time": 116.91,
+      "time_str": "01:56.910",
+      "text": "你为我送别",
+      "translation": null
+    },
+    {
+      "time": 120.83,
+      "time_str": "02:00.830",
+      "text": "你为我送别",
+      "translation": null
+    },
+    {
+      "time": 124.95,
+      "time_str": "02:04.950",
+      "text": "胭脂香味",
+      "translation": null
+    },
+    {
+      "time": 128.51,
+      "time_str": "02:08.510",
+      "text": "能爱不能给",
+      "translation": null
+    },
+    {
+      "time": 132.98,
+      "time_str": "02:12.980",
+      "text": "天有多长",
+      "translation": null
+    },
+    {
+      "time": 137.02,
+      "time_str": "02:17.020",
+      "text": "地有多远",
+      "translation": null
+    },
+    {
+      "time": 142.74,
+      "time_str": "02:22.740",
+      "text": "你是英雄就注定无泪无悔",
+      "translation": null
+    },
+    {
+      "time": 150.67,
+      "time_str": "02:30.670",
+      "text": "这笑有多危险 是穿肠毒药",
+      "translation": null
+    },
+    {
+      "time": 158.48,
+      "time_str": "02:38.480",
+      "text": "这泪有多么美 只有你知道",
+      "translation": null
+    },
+    {
+      "time": 166.49,
+      "time_str": "02:46.490",
+      "text": "这心没有你活着可笑",
+      "translation": null
+    },
+    {
+      "time": 174.62,
+      "time_str": "02:54.620",
+      "text": "这一世英名我不要",
+      "translation": null
+    },
+    {
+      "time": 182.56,
+      "time_str": "03:02.560",
+      "text": "只求换来红颜一笑",
+      "translation": null
+    },
+    {
+      "time": 190.89,
+      "time_str": "03:10.890",
+      "text": "这一去如果还能轮回",
+      "translation": null
+    },
+    {
+      "time": 198.66,
+      "time_str": "03:18.660",
+      "text": "我愿意来生做牛马",
+      "translation": null
+    },
+    {
+      "time": 202.61,
+      "time_str": "03:22.610",
+      "text": "也要与你天涯相随",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "红颜 - 胡彦斌.lrc"
+}

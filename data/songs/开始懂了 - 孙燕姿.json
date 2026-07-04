@@ -1,0 +1,310 @@
+{
+  "title": "开始懂了",
+  "title_raw": "开始懂了",
+  "version": null,
+  "artist": "孙燕姿",
+  "group_key": "开始懂了|孙燕姿",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "李偲菘",
+    "arranger": "Kenn C"
+  },
+  "lyrics": [
+    {
+      "time": 21.6,
+      "time_str": "00:21.600",
+      "text": "我竟然没有调头",
+      "translation": null
+    },
+    {
+      "time": 24.92,
+      "time_str": "00:24.920",
+      "text": "最残忍那一刻",
+      "translation": null
+    },
+    {
+      "time": 28.46,
+      "time_str": "00:28.460",
+      "text": "静静看你走",
+      "translation": null
+    },
+    {
+      "time": 31.69,
+      "time_str": "00:31.690",
+      "text": "一点都不像我",
+      "translation": null
+    },
+    {
+      "time": 37.8,
+      "time_str": "00:37.800",
+      "text": "原来人会变得温柔",
+      "translation": null
+    },
+    {
+      "time": 41.09,
+      "time_str": "00:41.090",
+      "text": "是透彻的懂了",
+      "translation": null
+    },
+    {
+      "time": 44.68,
+      "time_str": "00:44.680",
+      "text": "爱情是流动的 不由人的",
+      "translation": null
+    },
+    {
+      "time": 49.28,
+      "time_str": "00:49.280",
+      "text": "何必激动着要理由",
+      "translation": null
+    },
+    {
+      "time": 54.48,
+      "time_str": "00:54.480",
+      "text": "相信你只是怕伤害我",
+      "translation": null
+    },
+    {
+      "time": 57.81,
+      "time_str": "00:57.810",
+      "text": "不是骗我",
+      "translation": null
+    },
+    {
+      "time": 60.23,
+      "time_str": "01:00.230",
+      "text": "很爱过谁会舍得",
+      "translation": null
+    },
+    {
+      "time": 64.21,
+      "time_str": "01:04.210",
+      "text": "把我的梦摇醒了",
+      "translation": null
+    },
+    {
+      "time": 66.98,
+      "time_str": "01:06.980",
+      "text": "宣布幸福不会来了",
+      "translation": null
+    },
+    {
+      "time": 70.77,
+      "time_str": "01:10.770",
+      "text": "用心酸微笑去原谅了",
+      "translation": null
+    },
+    {
+      "time": 74.15,
+      "time_str": "01:14.150",
+      "text": "也翻越了",
+      "translation": null
+    },
+    {
+      "time": 76.38,
+      "time_str": "01:16.380",
+      "text": "有昨天还是好的",
+      "translation": null
+    },
+    {
+      "time": 80.47,
+      "time_str": "01:20.470",
+      "text": "但明天是自己的",
+      "translation": null
+    },
+    {
+      "time": 83.2,
+      "time_str": "01:23.200",
+      "text": "开始懂了",
+      "translation": null
+    },
+    {
+      "time": 86.79,
+      "time_str": "01:26.790",
+      "text": "快乐是选择",
+      "translation": null
+    },
+    {
+      "time": 107.15,
+      "time_str": "01:47.150",
+      "text": "我竟然没有调头",
+      "translation": null
+    },
+    {
+      "time": 110.47,
+      "time_str": "01:50.470",
+      "text": "最残忍那一刻",
+      "translation": null
+    },
+    {
+      "time": 113.91,
+      "time_str": "01:53.910",
+      "text": "静静看你走",
+      "translation": null
+    },
+    {
+      "time": 117.29,
+      "time_str": "01:57.290",
+      "text": "一点都不像我",
+      "translation": null
+    },
+    {
+      "time": 123.44,
+      "time_str": "02:03.440",
+      "text": "原来人会变得温柔",
+      "translation": null
+    },
+    {
+      "time": 126.78,
+      "time_str": "02:06.780",
+      "text": "是透彻的懂了",
+      "translation": null
+    },
+    {
+      "time": 130.31,
+      "time_str": "02:10.310",
+      "text": "爱情是流动的 不由人的",
+      "translation": null
+    },
+    {
+      "time": 134.91,
+      "time_str": "02:14.910",
+      "text": "何必激动着要理由",
+      "translation": null
+    },
+    {
+      "time": 140.01,
+      "time_str": "02:20.010",
+      "text": "相信你只是怕伤害我",
+      "translation": null
+    },
+    {
+      "time": 143.24,
+      "time_str": "02:23.240",
+      "text": "不是骗我",
+      "translation": null
+    },
+    {
+      "time": 145.52,
+      "time_str": "02:25.520",
+      "text": "很爱过谁会舍得",
+      "translation": null
+    },
+    {
+      "time": 149.67,
+      "time_str": "02:29.670",
+      "text": "把我的梦摇醒了",
+      "translation": null
+    },
+    {
+      "time": 152.35,
+      "time_str": "02:32.350",
+      "text": "宣布幸福不会来了",
+      "translation": null
+    },
+    {
+      "time": 156.25,
+      "time_str": "02:36.250",
+      "text": "用心酸微笑去原谅了",
+      "translation": null
+    },
+    {
+      "time": 159.49,
+      "time_str": "02:39.490",
+      "text": "也翻越了",
+      "translation": null
+    },
+    {
+      "time": 161.86,
+      "time_str": "02:41.860",
+      "text": "有昨天还是好的",
+      "translation": null
+    },
+    {
+      "time": 165.96,
+      "time_str": "02:45.960",
+      "text": "但明天是自己的",
+      "translation": null
+    },
+    {
+      "time": 168.58,
+      "time_str": "02:48.580",
+      "text": "开始懂了",
+      "translation": null
+    },
+    {
+      "time": 172.27,
+      "time_str": "02:52.270",
+      "text": "快乐是选择",
+      "translation": null
+    },
+    {
+      "time": 204.78,
+      "time_str": "03:24.780",
+      "text": "相信你只是怕伤害我",
+      "translation": null
+    },
+    {
+      "time": 208.36,
+      "time_str": "03:28.360",
+      "text": "不是骗我",
+      "translation": null
+    },
+    {
+      "time": 210.64,
+      "time_str": "03:30.640",
+      "text": "很爱过谁会舍得",
+      "translation": null
+    },
+    {
+      "time": 214.74,
+      "time_str": "03:34.740",
+      "text": "把我的梦摇醒了",
+      "translation": null
+    },
+    {
+      "time": 217.52,
+      "time_str": "03:37.520",
+      "text": "宣布幸福不会来了",
+      "translation": null
+    },
+    {
+      "time": 221.35,
+      "time_str": "03:41.350",
+      "text": "用心酸微笑去原谅了",
+      "translation": null
+    },
+    {
+      "time": 224.64,
+      "time_str": "03:44.640",
+      "text": "也翻越了",
+      "translation": null
+    },
+    {
+      "time": 227.06,
+      "time_str": "03:47.060",
+      "text": "有昨天还是好的",
+      "translation": null
+    },
+    {
+      "time": 231.04,
+      "time_str": "03:51.040",
+      "text": "但明天是自己的",
+      "translation": null
+    },
+    {
+      "time": 233.66,
+      "time_str": "03:53.660",
+      "text": "开始懂了",
+      "translation": null
+    },
+    {
+      "time": 237.44,
+      "time_str": "03:57.440",
+      "text": "快乐是选择",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "开始懂了 - 孙燕姿.lrc"
+}

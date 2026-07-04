@@ -1,0 +1,328 @@
+{
+  "title": "杀手",
+  "title_raw": "杀手",
+  "version": null,
+  "artist": "林俊杰",
+  "group_key": "杀手|林俊杰",
+  "writers": {
+    "lyricist": "林秋离",
+    "composer": "林俊杰",
+    "arranger": "林俊杰"
+  },
+  "lyrics": [
+    {
+      "time": 38.309,
+      "time_str": "00:38.309",
+      "text": "绝对的完美一双手",
+      "translation": null
+    },
+    {
+      "time": 41.499,
+      "time_str": "00:41.499",
+      "text": "不流汗也不发抖",
+      "translation": null
+    },
+    {
+      "time": 43.719,
+      "time_str": "00:43.719",
+      "text": "交叉在微笑的背后",
+      "translation": null
+    },
+    {
+      "time": 46.419,
+      "time_str": "00:46.419",
+      "text": "暗藏危险的轮廓",
+      "translation": null
+    },
+    {
+      "time": 48.599,
+      "time_str": "00:48.599",
+      "text": "在你最放松的时候",
+      "translation": null
+    },
+    {
+      "time": 51.289,
+      "time_str": "00:51.289",
+      "text": "绝不带着任何感情就下手",
+      "translation": null
+    },
+    {
+      "time": 55.999,
+      "time_str": "00:55.999",
+      "text": "从来不回头",
+      "translation": null
+    },
+    {
+      "time": 58.529,
+      "time_str": "00:58.529",
+      "text": "开始的感觉不会痛 不会痛",
+      "translation": null
+    },
+    {
+      "time": 60.899,
+      "time_str": "01:00.899",
+      "text": "放大的瞳孔就像做梦",
+      "translation": null
+    },
+    {
+      "time": 63.368,
+      "time_str": "01:03.368",
+      "text": "幸福的错觉很温暖很包容",
+      "translation": null
+    },
+    {
+      "time": 66.19,
+      "time_str": "01:06.190",
+      "text": "也许还期待",
+      "translation": null
+    },
+    {
+      "time": 67.669,
+      "time_str": "01:07.669",
+      "text": "这是致命的冲动 你不懂 我不懂",
+      "translation": null
+    },
+    {
+      "time": 70.839,
+      "time_str": "01:10.839",
+      "text": "究竟杀手为什么存在",
+      "translation": null
+    },
+    {
+      "time": 73.559,
+      "time_str": "01:13.559",
+      "text": "因为爱 还是未知的未来",
+      "translation": null
+    },
+    {
+      "time": 77.699,
+      "time_str": "01:17.699",
+      "text": "心情放松摇摆在你三百米之外",
+      "translation": null
+    },
+    {
+      "time": 82.69,
+      "time_str": "01:22.690",
+      "text": "数着心跳等待所有念头全抛开",
+      "translation": null
+    },
+    {
+      "time": 87.299,
+      "time_str": "01:27.299",
+      "text": "锁进来 进来 这美丽的悲哀",
+      "translation": null
+    },
+    {
+      "time": 91.989,
+      "time_str": "01:31.989",
+      "text": "这是爱 就是爱全世界都不明白",
+      "translation": null
+    },
+    {
+      "time": 96.989,
+      "time_str": "01:36.989",
+      "text": "心情停止摇摆在你三百米之外",
+      "translation": null
+    },
+    {
+      "time": 101.429,
+      "time_str": "01:41.429",
+      "text": "感觉饥饿难耐需要你填满空白",
+      "translation": null
+    },
+    {
+      "time": 106.628,
+      "time_str": "01:46.628",
+      "text": "锁进来进来这美丽的悲哀",
+      "translation": null
+    },
+    {
+      "time": 111.569,
+      "time_str": "01:51.569",
+      "text": "这是爱 就是爱 只有你明白",
+      "translation": null
+    },
+    {
+      "time": 137.24,
+      "time_str": "02:17.240",
+      "text": "绝对的完美一双手",
+      "translation": null
+    },
+    {
+      "time": 140.3,
+      "time_str": "02:20.300",
+      "text": "不流汗也不发抖",
+      "translation": null
+    },
+    {
+      "time": 142.56,
+      "time_str": "02:22.560",
+      "text": "交叉在微笑的背后",
+      "translation": null
+    },
+    {
+      "time": 145.14,
+      "time_str": "02:25.140",
+      "text": "暗藏危险的轮廓",
+      "translation": null
+    },
+    {
+      "time": 147.4,
+      "time_str": "02:27.400",
+      "text": "在你最放松的时候",
+      "translation": null
+    },
+    {
+      "time": 150.16,
+      "time_str": "02:30.160",
+      "text": "绝不带着任何感情就下手",
+      "translation": null
+    },
+    {
+      "time": 154.12,
+      "time_str": "02:34.120",
+      "text": "从来不回头",
+      "translation": null
+    },
+    {
+      "time": 157.29,
+      "time_str": "02:37.290",
+      "text": "开始的感觉不会痛 不会痛",
+      "translation": null
+    },
+    {
+      "time": 160.5,
+      "time_str": "02:40.500",
+      "text": "放大的瞳孔就像做梦",
+      "translation": null
+    },
+    {
+      "time": 162.17,
+      "time_str": "02:42.170",
+      "text": "幸福的错觉很温暖很包容",
+      "translation": null
+    },
+    {
+      "time": 164.84,
+      "time_str": "02:44.840",
+      "text": "也许还期待",
+      "translation": null
+    },
+    {
+      "time": 166.35,
+      "time_str": "02:46.350",
+      "text": "这是致命的冲动你不懂 我不懂",
+      "translation": null
+    },
+    {
+      "time": 169.69,
+      "time_str": "02:49.690",
+      "text": "究竟杀手为什么存在",
+      "translation": null
+    },
+    {
+      "time": 172.479,
+      "time_str": "02:52.479",
+      "text": "因为爱 还是未知的未来",
+      "translation": null
+    },
+    {
+      "time": 176.1,
+      "time_str": "02:56.100",
+      "text": "心情放松摇摆在你三百米之外",
+      "translation": null
+    },
+    {
+      "time": 180.87,
+      "time_str": "03:00.870",
+      "text": "数着心跳等待所有念头全抛开",
+      "translation": null
+    },
+    {
+      "time": 186.4,
+      "time_str": "03:06.400",
+      "text": "锁进来 进来 这美丽的悲哀",
+      "translation": null
+    },
+    {
+      "time": 191.2,
+      "time_str": "03:11.200",
+      "text": "这是爱 就是爱全世界都不明白",
+      "translation": null
+    },
+    {
+      "time": 195.76,
+      "time_str": "03:15.760",
+      "text": "心情停止摇摆在你三百米之外",
+      "translation": null
+    },
+    {
+      "time": 200.39,
+      "time_str": "03:20.390",
+      "text": "感觉饥饿难耐需要你填满空白",
+      "translation": null
+    },
+    {
+      "time": 205.54,
+      "time_str": "03:25.540",
+      "text": "锁进来 进来 这美丽的悲哀",
+      "translation": null
+    },
+    {
+      "time": 210.44,
+      "time_str": "03:30.440",
+      "text": "这是爱 就是爱 只有你明白",
+      "translation": null
+    },
+    {
+      "time": 235.58,
+      "time_str": "03:55.580",
+      "text": "心情放松摇摆在你三百米之外",
+      "translation": null
+    },
+    {
+      "time": 240.55,
+      "time_str": "04:00.550",
+      "text": "数着心跳等待所有念头全抛开",
+      "translation": null
+    },
+    {
+      "time": 245.77,
+      "time_str": "04:05.770",
+      "text": "锁进来 进来 这美丽的悲哀",
+      "translation": null
+    },
+    {
+      "time": 250.56,
+      "time_str": "04:10.560",
+      "text": "这是爱 就是爱全世界都不明白",
+      "translation": null
+    },
+    {
+      "time": 255.129,
+      "time_str": "04:15.129",
+      "text": "心情停止摇摆在你三百米之外",
+      "translation": null
+    },
+    {
+      "time": 260.15,
+      "time_str": "04:20.150",
+      "text": "感觉饥饿难耐需要你填满空白",
+      "translation": null
+    },
+    {
+      "time": 265.25,
+      "time_str": "04:25.250",
+      "text": "锁进来 进来 这美丽的悲哀",
+      "translation": null
+    },
+    {
+      "time": 270.15,
+      "time_str": "04:30.150",
+      "text": "这是爱 就是爱 只有你明白",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "杀手 - 林俊杰.lrc"
+}

@@ -1,0 +1,364 @@
+{
+  "title": "不了情",
+  "title_raw": "不了情",
+  "version": null,
+  "artist": "群星",
+  "group_key": "不了情|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.804,
+      "time_str": "00:08.804",
+      "text": "有没有人可以告诉我,",
+      "translation": null
+    },
+    {
+      "time": 11.369,
+      "time_str": "00:11.369",
+      "text": "考验一断爱情或是要忘记一个人.",
+      "translation": null
+    },
+    {
+      "time": 15.132,
+      "time_str": "00:15.132",
+      "text": "究竟要多久的时间呢!",
+      "translation": null
+    },
+    {
+      "time": 17.256,
+      "time_str": "00:17.256",
+      "text": "两年.....足够长了吗?~",
+      "translation": null
+    },
+    {
+      "time": 22.264,
+      "time_str": "00:22.264",
+      "text": "翻开一本旧日记",
+      "translation": null
+    },
+    {
+      "time": 26.134,
+      "time_str": "00:26.134",
+      "text": "记载着一段旧恋情",
+      "translation": null
+    },
+    {
+      "time": 30.08,
+      "time_str": "00:30.080",
+      "text": "每段都那么的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 34.288,
+      "time_str": "00:34.288",
+      "text": "往事历历在这里",
+      "translation": null
+    },
+    {
+      "time": 37.639,
+      "time_str": "00:37.639",
+      "text": "曾看过多少的风雨",
+      "translation": null
+    },
+    {
+      "time": 41.528,
+      "time_str": "00:41.528",
+      "text": "曾说过要到哪里去",
+      "translation": null
+    },
+    {
+      "time": 45.423,
+      "time_str": "00:45.423",
+      "text": "曾做过觉得傻的事",
+      "translation": null
+    },
+    {
+      "time": 49.708,
+      "time_str": "00:49.708",
+      "text": "爱过在这城市里",
+      "translation": null
+    },
+    {
+      "time": 53.135,
+      "time_str": "00:53.135",
+      "text": "昨晚下了一场雨",
+      "translation": null
+    },
+    {
+      "time": 55.504,
+      "time_str": "00:55.504",
+      "text": "让我忽然梦里见到你",
+      "translation": null
+    },
+    {
+      "time": 61.283,
+      "time_str": "01:01.283",
+      "text": "躲在某个地方哭泣",
+      "translation": null
+    },
+    {
+      "time": 65.227,
+      "time_str": "01:05.227",
+      "text": "好想紧紧抱着你",
+      "translation": null
+    },
+    {
+      "time": 68.107,
+      "time_str": "01:08.107",
+      "text": "no so sorry baby",
+      "translation": null
+    },
+    {
+      "time": 69.139,
+      "time_str": "01:09.139",
+      "text": "有一次从朋友口中听到你消息",
+      "translation": null
+    },
+    {
+      "time": 76.907,
+      "time_str": "01:16.907",
+      "text": "我的心都在发抖",
+      "translation": null
+    },
+    {
+      "time": 80.802,
+      "time_str": "01:20.802",
+      "text": "你是否孤身一人",
+      "translation": null
+    },
+    {
+      "time": 84.578,
+      "time_str": "01:24.578",
+      "text": "分手两年后我还是想着你",
+      "translation": null
+    },
+    {
+      "time": 92.398,
+      "time_str": "01:32.398",
+      "text": "多久没有见过你",
+      "translation": null
+    },
+    {
+      "time": 96.298,
+      "time_str": "01:36.298",
+      "text": "现在你住在哪里",
+      "translation": null
+    },
+    {
+      "time": 100.154,
+      "time_str": "01:40.154",
+      "text": "只怕有一天我们都会老去",
+      "translation": null
+    },
+    {
+      "time": 107.774,
+      "time_str": "01:47.774",
+      "text": "只想留一点回忆",
+      "translation": null
+    },
+    {
+      "time": 111.73,
+      "time_str": "01:51.730",
+      "text": "能够让我们依靠",
+      "translation": null
+    },
+    {
+      "time": 118.966,
+      "time_str": "01:58.966",
+      "text": "我在一个咖啡店",
+      "translation": null
+    },
+    {
+      "time": 122.826,
+      "time_str": "02:02.826",
+      "text": "透过玻璃窗往外望",
+      "translation": null
+    },
+    {
+      "time": 126.754,
+      "time_str": "02:06.754",
+      "text": "你的人影无所不在",
+      "translation": null
+    },
+    {
+      "time": 131.9,
+      "time_str": "02:11.900",
+      "text": "无心无魂的想你",
+      "translation": null
+    },
+    {
+      "time": 134.509,
+      "time_str": "02:14.509",
+      "text": "昨晚下了一场雨",
+      "translation": null
+    },
+    {
+      "time": 137.161,
+      "time_str": "02:17.161",
+      "text": "让我忽然梦里见到你",
+      "translation": null
+    },
+    {
+      "time": 142.457,
+      "time_str": "02:22.457",
+      "text": "躲在某个地方哭泣",
+      "translation": null
+    },
+    {
+      "time": 146.475,
+      "time_str": "02:26.475",
+      "text": "好想紧紧抱着你",
+      "translation": null
+    },
+    {
+      "time": 149.465,
+      "time_str": "02:29.465",
+      "text": "no so sorry baby",
+      "translation": null
+    },
+    {
+      "time": 150.577,
+      "time_str": "02:30.577",
+      "text": "有一次从朋友口中听到你消息",
+      "translation": null
+    },
+    {
+      "time": 158.149,
+      "time_str": "02:38.149",
+      "text": "我的心都在发抖",
+      "translation": null
+    },
+    {
+      "time": 162.85,
+      "time_str": "02:42.850",
+      "text": "你是否孤身一人",
+      "translation": null
+    },
+    {
+      "time": 165.125,
+      "time_str": "02:45.125",
+      "text": "我不停追问",
+      "translation": null
+    },
+    {
+      "time": 166.273,
+      "time_str": "02:46.273",
+      "text": "分手两年后我还是想着你",
+      "translation": null
+    },
+    {
+      "time": 173.653,
+      "time_str": "02:53.653",
+      "text": "多久没有见过你",
+      "translation": null
+    },
+    {
+      "time": 177.513,
+      "time_str": "02:57.513",
+      "text": "现在你住在哪里",
+      "translation": null
+    },
+    {
+      "time": 181.402,
+      "time_str": "03:01.402",
+      "text": "只怕有一天我们都会老去",
+      "translation": null
+    },
+    {
+      "time": 189.136,
+      "time_str": "03:09.136",
+      "text": "只想留一点回忆",
+      "translation": null
+    },
+    {
+      "time": 192.981,
+      "time_str": "03:12.981",
+      "text": "能够让我们依靠",
+      "translation": null
+    },
+    {
+      "time": 197.876,
+      "time_str": "03:17.876",
+      "text": "为什么人总要等到失去才珍惜",
+      "translation": null
+    },
+    {
+      "time": 204.976,
+      "time_str": "03:24.976",
+      "text": "我来不及想告诉你",
+      "translation": null
+    },
+    {
+      "time": 208.752,
+      "time_str": "03:28.752",
+      "text": "要永远不分离",
+      "translation": null
+    },
+    {
+      "time": 212.372,
+      "time_str": "03:32.372",
+      "text": "分手两年后我还是想着你",
+      "translation": null
+    },
+    {
+      "time": 220.172,
+      "time_str": "03:40.172",
+      "text": "多久没有见过你",
+      "translation": null
+    },
+    {
+      "time": 224.112,
+      "time_str": "03:44.112",
+      "text": "现在你住在哪里",
+      "translation": null
+    },
+    {
+      "time": 227.916,
+      "time_str": "03:47.916",
+      "text": "只怕有一天我们都会老去",
+      "translation": null
+    },
+    {
+      "time": 235.562,
+      "time_str": "03:55.562",
+      "text": "只想留一点回忆",
+      "translation": null
+    },
+    {
+      "time": 239.501,
+      "time_str": "03:59.501",
+      "text": "能够让我们依靠",
+      "translation": null
+    },
+    {
+      "time": 244.312,
+      "time_str": "04:04.312",
+      "text": "分手两年后我还是想着你",
+      "translation": null
+    },
+    {
+      "time": 251.211,
+      "time_str": "04:11.211",
+      "text": "多久没有见过你",
+      "translation": null
+    },
+    {
+      "time": 255.87,
+      "time_str": "04:15.870",
+      "text": "现在你住在哪里",
+      "translation": null
+    },
+    {
+      "time": 258.935,
+      "time_str": "04:18.935",
+      "text": "只怕有一天我们都会老去",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不了情 - 群星.lrc"
+}

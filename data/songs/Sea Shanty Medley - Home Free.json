@@ -1,0 +1,466 @@
+{
+  "title": "Sea Shanty Medley",
+  "title_raw": "Sea Shanty Medley",
+  "version": null,
+  "artist": "Home Free",
+  "group_key": "sea shanty medley|home free",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.04,
+      "time_str": "00:00.040",
+      "text": "<Wellerman>",
+      "translation": "《威勒曼号》"
+    },
+    {
+      "time": 2.56,
+      "time_str": "00:02.560",
+      "text": "There once was a ship that put to sea",
+      "translation": "有一艘船要出航"
+    },
+    {
+      "time": 7.04,
+      "time_str": "00:07.040",
+      "text": "and the name of the ship was the billy of tea",
+      "translation": "她的名字叫“运茶比利号”"
+    },
+    {
+      "time": 8.49,
+      "time_str": "00:08.490",
+      "text": "The winds blew harder bowed it down",
+      "translation": "大风起兮船头沉浮"
+    },
+    {
+      "time": 10.16,
+      "time_str": "00:10.160",
+      "text": "below my bully boy's blow",
+      "translation": "吹吧，海上的霸王，你吹吧！"
+    },
+    {
+      "time": 12.27,
+      "time_str": "00:12.270",
+      "text": "Soon may the Wellerman come",
+      "translation": "很快威勒曼号就要来了"
+    },
+    {
+      "time": 14.59,
+      "time_str": "00:14.590",
+      "text": "to bring us sugar and tea and rum",
+      "translation": "给我们带来糖，茶叶和朗姆酒"
+    },
+    {
+      "time": 17.03,
+      "time_str": "00:17.030",
+      "text": "One day when the tonguin is done",
+      "translation": "当有一天我们补给耗尽了"
+    },
+    {
+      "time": 19.31,
+      "time_str": "00:19.310",
+      "text": "we'll take our leave and go",
+      "translation": "我们就要离开了"
+    },
+    {
+      "time": 21.91,
+      "time_str": "00:21.910",
+      "text": "She'd not been two weeks from shore",
+      "translation": "她离岸还不到两个星期"
+    },
+    {
+      "time": 24.87,
+      "time_str": "00:24.870",
+      "text": "went down on her a right whale bore",
+      "translation": "有一只露脊鲸向她冲来"
+    },
+    {
+      "time": 26.6,
+      "time_str": "00:26.600",
+      "text": "The captain called all hands and swore",
+      "translation": "船长让水手们准备好"
+    },
+    {
+      "time": 28.84,
+      "time_str": "00:28.840",
+      "text": "He'd take that whale in tow",
+      "translation": "他要抓到它并把它绑在船体上"
+    },
+    {
+      "time": 31.34,
+      "time_str": "00:31.340",
+      "text": "Soon may the Wellerman come",
+      "translation": "很快威勒曼号就要来了"
+    },
+    {
+      "time": 33.68,
+      "time_str": "00:33.680",
+      "text": "To bring us sugar and tea and rum",
+      "translation": "给我们带来糖，茶叶和朗姆酒"
+    },
+    {
+      "time": 36.23,
+      "time_str": "00:36.230",
+      "text": "One day, when the tonguin' is done",
+      "translation": "当有一天我们补给耗尽了"
+    },
+    {
+      "time": 38.54,
+      "time_str": "00:38.540",
+      "text": "We'll take our leave and go",
+      "translation": "我们就要离开了"
+    },
+    {
+      "time": 49.98,
+      "time_str": "00:49.980",
+      "text": "<Drunken Sailor>",
+      "translation": "《喝醉的水手》"
+    },
+    {
+      "time": 50.83,
+      "time_str": "00:50.830",
+      "text": "What will we do with a drunken sailor",
+      "translation": "我们拿喝醉的水手怎么办"
+    },
+    {
+      "time": 52.65,
+      "time_str": "00:52.650",
+      "text": "What will we do with a drunken sailor",
+      "translation": "我们拿喝醉的水手怎么办"
+    },
+    {
+      "time": 54.96,
+      "time_str": "00:54.960",
+      "text": "What will we do with a drunken sailor",
+      "translation": "我们拿喝醉的水手怎么办"
+    },
+    {
+      "time": 57.21,
+      "time_str": "00:57.210",
+      "text": "Early in the morning!",
+      "translation": "在这么早的清晨！"
+    },
+    {
+      "time": 59.4,
+      "time_str": "00:59.400",
+      "text": "Put him in the brick until he's sober",
+      "translation": "把他扔到双桅帆船上直到他醒过来"
+    },
+    {
+      "time": 61.6,
+      "time_str": "01:01.600",
+      "text": "Put him in the brick until he's sober",
+      "translation": "把他扔到双桅帆船上直到他醒过来"
+    },
+    {
+      "time": 63.85,
+      "time_str": "01:03.850",
+      "text": "Put him in the brick until he's sober",
+      "translation": "把他扔到双桅帆船上直到他醒过来"
+    },
+    {
+      "time": 66.13,
+      "time_str": "01:06.130",
+      "text": "Early in the morning!",
+      "translation": "在这么早的清晨！"
+    },
+    {
+      "time": 68.04,
+      "time_str": "01:08.040",
+      "text": "Way hay and up she rises",
+      "translation": "嘿呦～扬帆起航咯"
+    },
+    {
+      "time": 70.54,
+      "time_str": "01:10.540",
+      "text": "Way hay and up she rises",
+      "translation": "嘿呦～扬帆起航咯"
+    },
+    {
+      "time": 72.69,
+      "time_str": "01:12.690",
+      "text": "Way hay and up she rises",
+      "translation": "嘿呦～扬帆起航咯"
+    },
+    {
+      "time": 75.02,
+      "time_str": "01:15.020",
+      "text": "Early in the morning!",
+      "translation": "在这么早的清晨！"
+    },
+    {
+      "time": 77.71,
+      "time_str": "01:17.710",
+      "text": "<Leave Her Johnny Leave Her>",
+      "translation": "《离开她吧，强尼，离开她吧》"
+    },
+    {
+      "time": 79.16,
+      "time_str": "01:19.160",
+      "text": "Oh the wind was foul and the sea ran high",
+      "translation": "今日天晴碧波高，"
+    },
+    {
+      "time": 81.84,
+      "time_str": "01:21.840",
+      "text": "Leave her johnny leave her",
+      "translation": "离开她吧，强尼，离开那艘旧船吧！"
+    },
+    {
+      "time": 85.14,
+      "time_str": "01:25.140",
+      "text": "she shipped it green and none went by",
+      "translation": "船已锈迹斑驳，也没有人愿意经过她"
+    },
+    {
+      "time": 88.98,
+      "time_str": "01:28.980",
+      "text": "and it's time for us to leave her",
+      "translation": "是时候离开她啦！"
+    },
+    {
+      "time": 93.29,
+      "time_str": "01:33.290",
+      "text": "Leave her, Johnny, leave her",
+      "translation": "离开她吧，强尼，离开那艘旧船吧！"
+    },
+    {
+      "time": 96.53,
+      "time_str": "01:36.530",
+      "text": "Oh, leave her, Johnny, leave her",
+      "translation": "哦～离开她吧，强尼，离开那艘旧船吧！"
+    },
+    {
+      "time": 100.45,
+      "time_str": "01:40.450",
+      "text": "For the voyage is long and the winds don't blow",
+      "translation": "航路还长，风儿也不吹了～"
+    },
+    {
+      "time": 104.26,
+      "time_str": "01:44.260",
+      "text": "And it's time for us to leave her",
+      "translation": "是时候离开那艘旧船啦！"
+    },
+    {
+      "time": 107.84,
+      "time_str": "01:47.840",
+      "text": "<Cape Cod girls>",
+      "translation": "《鳕鱼岬女孩》"
+    },
+    {
+      "time": 108.53,
+      "time_str": "01:48.530",
+      "text": "Cape Cod ships ain't got no sails",
+      "translation": "鳕鱼岬的船儿还没升帆"
+    },
+    {
+      "time": 111.45,
+      "time_str": "01:51.450",
+      "text": "Haul away, haul away!",
+      "translation": "启航！启航！"
+    },
+    {
+      "time": 116.88,
+      "time_str": "01:56.880",
+      "text": "They'd all blown off in the Northeast gales",
+      "translation": "这时候刮起了东北风"
+    },
+    {
+      "time": 120.4,
+      "time_str": "02:00.400",
+      "text": "And we're bound away for Australia!",
+      "translation": "驾一叶轻舟我们去澳大利亚！"
+    },
+    {
+      "time": 124.66,
+      "time_str": "02:04.660",
+      "text": "So heave her up my bully, bully boys",
+      "translation": "起锚吧，健壮的小伙子们"
+    },
+    {
+      "time": 128.58,
+      "time_str": "02:08.580",
+      "text": "Haul away, haul away!",
+      "translation": "升帆，启航！"
+    },
+    {
+      "time": 133.53,
+      "time_str": "02:13.530",
+      "text": "Oh heave her up and don't you make a noise",
+      "translation": "哦～升起帆的动作可真麻利"
+    },
+    {
+      "time": 136.83,
+      "time_str": "02:16.830",
+      "text": "And we're bound away for Australia!",
+      "translation": "驾一叶轻舟我们去澳大利亚！"
+    },
+    {
+      "time": 140.39,
+      "time_str": "02:20.390",
+      "text": "<Santiana>",
+      "translation": "《圣迪亚诺号》"
+    },
+    {
+      "time": 141.36,
+      "time_str": "02:21.360",
+      "text": "Oh Santiana gained the day",
+      "translation": "圣迪亚诺号跑得可真快"
+    },
+    {
+      "time": 144.17,
+      "time_str": "02:24.170",
+      "text": "Away Santianna",
+      "translation": "出发，圣迪亚诺号"
+    },
+    {
+      "time": 147.88,
+      "time_str": "02:27.880",
+      "text": "Now pull the yan up the west they say",
+      "translation": "他们说把帆拉起来"
+    },
+    {
+      "time": 150.74,
+      "time_str": "02:30.740",
+      "text": "Along the plains of Mexico",
+      "translation": "沿着墨西哥的平原走"
+    },
+    {
+      "time": 154.15,
+      "time_str": "02:34.150",
+      "text": "Well heave her up and away we'll go",
+      "translation": "我们拉起了帆出发吧"
+    },
+    {
+      "time": 157.44,
+      "time_str": "02:37.440",
+      "text": "Away Santiana",
+      "translation": "出发，圣迪亚诺号"
+    },
+    {
+      "time": 160.72,
+      "time_str": "02:40.720",
+      "text": "Heave her up and away we'll go",
+      "translation": "拉起了帆出发吧"
+    },
+    {
+      "time": 164.15,
+      "time_str": "02:44.150",
+      "text": "Along the plains of Mexico",
+      "translation": "沿着墨西哥的平原走"
+    },
+    {
+      "time": 167.59,
+      "time_str": "02:47.590",
+      "text": "She's a fast clipper ship and a bully good crew",
+      "translation": "她是最好的快帆船还有最好的船员"
+    },
+    {
+      "time": 170.81,
+      "time_str": "02:50.810",
+      "text": "Away Santiana",
+      "translation": "出发，圣迪亚诺号"
+    },
+    {
+      "time": 174.12,
+      "time_str": "02:54.120",
+      "text": "And an old salty Yank for a captain too",
+      "translation": "还有一个老船长"
+    },
+    {
+      "time": 177.55,
+      "time_str": "02:57.550",
+      "text": "Along the plains of Mexico",
+      "translation": "沿着墨西哥的平原走"
+    },
+    {
+      "time": 180.97,
+      "time_str": "03:00.970",
+      "text": "Well heave her up and away we'll go",
+      "translation": "拉好帆就出发吧"
+    },
+    {
+      "time": 185.63,
+      "time_str": "03:05.630",
+      "text": "Away Santiana",
+      "translation": "出发，圣迪亚诺号"
+    },
+    {
+      "time": 187.44,
+      "time_str": "03:07.440",
+      "text": "Heave her up and away we'll go",
+      "translation": "拉好帆就出发吧"
+    },
+    {
+      "time": 190.78,
+      "time_str": "03:10.780",
+      "text": "Along the plains of Mexico",
+      "translation": "沿着墨西哥的平原走"
+    },
+    {
+      "time": 194.65,
+      "time_str": "03:14.650",
+      "text": "Santiana fought for gold",
+      "translation": "圣迪亚诺号是来找金矿的"
+    },
+    {
+      "time": 197.6,
+      "time_str": "03:17.600",
+      "text": "Away Santiana",
+      "translation": "出发，圣迪亚诺号"
+    },
+    {
+      "time": 201.08,
+      "time_str": "03:21.080",
+      "text": "Around Cape Horn through the ice and snow",
+      "translation": "穿过合恩角的雪与冰"
+    },
+    {
+      "time": 204.16,
+      "time_str": "03:24.160",
+      "text": "Along the plains of Mexico",
+      "translation": "沿着墨西哥的平原走"
+    },
+    {
+      "time": 207.59,
+      "time_str": "03:27.590",
+      "text": "Well heave her up and away we'll go",
+      "translation": "拉好帆了出发吧"
+    },
+    {
+      "time": 211.55,
+      "time_str": "03:31.550",
+      "text": "Away Santiana",
+      "translation": "出发，圣迪亚诺号！"
+    },
+    {
+      "time": 214.57,
+      "time_str": "03:34.570",
+      "text": "Heave her up and away we'll go",
+      "translation": "拉好了帆出发吧"
+    },
+    {
+      "time": 217.8,
+      "time_str": "03:37.800",
+      "text": "Along the plains of Mexico",
+      "translation": "沿着墨西哥的平原走！"
+    },
+    {
+      "time": 221.05,
+      "time_str": "03:41.050",
+      "text": "So leave her Jonny off we'll go",
+      "translation": "离开她吧强尼，出发吧"
+    },
+    {
+      "time": 224.54,
+      "time_str": "03:44.540",
+      "text": "The drunken sailor Wellerman whaler found a way for Mexico!",
+      "translation": "和喝醉的水手还有威勒曼号捕鲸船一起去墨西哥吧！"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Sea Shanty Medley - Home Free.lrc"
+}

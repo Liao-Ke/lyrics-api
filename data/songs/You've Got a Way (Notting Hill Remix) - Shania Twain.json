@@ -1,0 +1,184 @@
+{
+  "title": "You've Got a Way",
+  "title_raw": "You've Got a Way (Notting Hill Remix)",
+  "version": "Notting Hill Remix",
+  "artist": "Shania Twain",
+  "group_key": "you've got a way|shania twain",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "You've got a way with me",
+      "translation": "你总于找到与我相处的秘诀"
+    },
+    {
+      "time": 13.69,
+      "time_str": "00:13.690",
+      "text": "Somehow you got me to believe",
+      "translation": "不知怎的你终于让我相信"
+    },
+    {
+      "time": 20.86,
+      "time_str": "00:20.860",
+      "text": "In everything that I could be",
+      "translation": "我能得偿所愿"
+    },
+    {
+      "time": 26.63,
+      "time_str": "00:26.630",
+      "text": "I've gotta say-you really got a way",
+      "translation": "我得说你真有办法"
+    },
+    {
+      "time": 35.79,
+      "time_str": "00:35.790",
+      "text": "You've got a way it seems",
+      "translation": "你找到那秘诀，看起来像是"
+    },
+    {
+      "time": 42.79,
+      "time_str": "00:42.790",
+      "text": "You gave me faith to find my dreams",
+      "translation": "给了我信心找回我的梦"
+    },
+    {
+      "time": 49.99,
+      "time_str": "00:49.990",
+      "text": "You'll never know just what that means",
+      "translation": "你不知道那意味着什么"
+    },
+    {
+      "time": 55.72,
+      "time_str": "00:55.720",
+      "text": "Can't you see... you got a way with me",
+      "translation": "你看你找到了与我相处的秘诀"
+    },
+    {
+      "time": 61.23,
+      "time_str": "01:01.230",
+      "text": "It's in the way you want me",
+      "translation": "在你思恋我时"
+    },
+    {
+      "time": 68.29,
+      "time_str": "01:08.290",
+      "text": "It's in the way you hold me",
+      "translation": "在你拥我入怀时"
+    },
+    {
+      "time": 75.46,
+      "time_str": "01:15.460",
+      "text": "The way you show me just what love's made of",
+      "translation": "在你示爱于我时"
+    },
+    {
+      "time": 82.74,
+      "time_str": "01:22.740",
+      "text": "It's in the way we make love",
+      "translation": "在我们缠绵之时"
+    },
+    {
+      "time": 92.37,
+      "time_str": "01:32.370",
+      "text": "You've got a way with words",
+      "translation": "你终于找到言语的秘诀"
+    },
+    {
+      "time": 98.46,
+      "time_str": "01:38.460",
+      "text": "You get me smiling even when it hurts",
+      "translation": "哪怕给我伤害你都会带给我欢笑"
+    },
+    {
+      "time": 105.25,
+      "time_str": "01:45.250",
+      "text": "There's no way to measure what your love is worth",
+      "translation": "你的爱是无价之宝"
+    },
+    {
+      "time": 112.15,
+      "time_str": "01:52.150",
+      "text": "I can't believe the way you get through to me",
+      "translation": "难以置信你找到接近我的秘诀"
+    },
+    {
+      "time": 117.4,
+      "time_str": "01:57.400",
+      "text": "It's in the way you want me",
+      "translation": "在你思恋我时"
+    },
+    {
+      "time": 124.49,
+      "time_str": "02:04.490",
+      "text": "It's in the way you hold me",
+      "translation": "在你拥我入怀时"
+    },
+    {
+      "time": 131.76,
+      "time_str": "02:11.760",
+      "text": "The way you show me just what love's made of",
+      "translation": "在你拥我入怀时"
+    },
+    {
+      "time": 139.18,
+      "time_str": "02:19.180",
+      "text": "It's in the way we make love",
+      "translation": "在我们缠绵之时"
+    },
+    {
+      "time": 145.87,
+      "time_str": "02:25.870",
+      "text": "Oh, how I adore you",
+      "translation": "哦，我多么爱你"
+    },
+    {
+      "time": 149.47,
+      "time_str": "02:29.470",
+      "text": "Like no one before you",
+      "translation": "从未爱过如此之深"
+    },
+    {
+      "time": 152.85,
+      "time_str": "02:32.850",
+      "text": "I love you just the way you are",
+      "translation": "我喜欢你找到的秘诀"
+    },
+    {
+      "time": 157.54,
+      "time_str": "02:37.540",
+      "text": "It's in the way you want me",
+      "translation": "在你思恋我时"
+    },
+    {
+      "time": 164.02,
+      "time_str": "02:44.020",
+      "text": "It's in the way you hold me",
+      "translation": "在你拥我入怀时"
+    },
+    {
+      "time": 171.99,
+      "time_str": "02:51.990",
+      "text": "The way you show me just what love's made of",
+      "translation": "在你示爱于我时"
+    },
+    {
+      "time": 179.23,
+      "time_str": "02:59.230",
+      "text": "It's in the way we make love",
+      "translation": "在我们缠绵之时"
+    },
+    {
+      "time": 186.6,
+      "time_str": "03:06.600",
+      "text": "It's just the way you are",
+      "translation": "那只有你才会用的秘诀"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "You've Got a Way (Notting Hill Remix) - Shania Twain.lrc"
+}

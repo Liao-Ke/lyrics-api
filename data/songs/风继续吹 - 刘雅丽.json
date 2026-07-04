@@ -1,0 +1,364 @@
+{
+  "title": "风继续吹",
+  "title_raw": "风继续吹",
+  "version": null,
+  "artist": "刘雅丽",
+  "group_key": "风继续吹|刘雅丽",
+  "writers": {
+    "lyricist": "AKI, YOKO",
+    "composer": "UZAKI, RYUDO",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.86,
+      "time_str": "00:25.860",
+      "text": "我劝你早点归去",
+      "translation": null
+    },
+    {
+      "time": 31.22,
+      "time_str": "00:31.220",
+      "text": "你说你不想归去",
+      "translation": null
+    },
+    {
+      "time": 35.42,
+      "time_str": "00:35.420",
+      "text": "只叫我抱着你",
+      "translation": null
+    },
+    {
+      "time": 38.78,
+      "time_str": "00:38.780",
+      "text": "悠悠海风轻轻吹",
+      "translation": null
+    },
+    {
+      "time": 41.84,
+      "time_str": "00:41.840",
+      "text": "冷却了野火堆",
+      "translation": null
+    },
+    {
+      "time": 46.3,
+      "time_str": "00:46.300",
+      "text": "我看见伤心的你",
+      "translation": null
+    },
+    {
+      "time": 50.33,
+      "time_str": "00:50.330",
+      "text": "你叫我怎舍得去",
+      "translation": null
+    },
+    {
+      "time": 54.13,
+      "time_str": "00:54.130",
+      "text": "哭态也绝美",
+      "translation": null
+    },
+    {
+      "time": 57.68,
+      "time_str": "00:57.680",
+      "text": "如何止哭只得轻吻你发边",
+      "translation": null
+    },
+    {
+      "time": 62.49,
+      "time_str": "01:02.490",
+      "text": "让 风继续吹不忍远离",
+      "translation": null
+    },
+    {
+      "time": 71.78,
+      "time_str": "01:11.780",
+      "text": "心里极渴望",
+      "translation": null
+    },
+    {
+      "time": 74.59,
+      "time_str": "01:14.590",
+      "text": "希望留下伴着你",
+      "translation": null
+    },
+    {
+      "time": 80.45,
+      "time_str": "01:20.450",
+      "text": "风继续吹 不忍远离",
+      "translation": null
+    },
+    {
+      "time": 88.87,
+      "time_str": "01:28.870",
+      "text": "心里亦有泪",
+      "translation": null
+    },
+    {
+      "time": 91.67,
+      "time_str": "01:31.670",
+      "text": "不愿流泪望着你",
+      "translation": null
+    },
+    {
+      "time": 96.49,
+      "time_str": "01:36.490",
+      "text": "过去多少快乐记忆",
+      "translation": null
+    },
+    {
+      "time": 104.72,
+      "time_str": "01:44.720",
+      "text": "何妨与你一起去追",
+      "translation": null
+    },
+    {
+      "time": 113.259,
+      "time_str": "01:53.259",
+      "text": "要将忧郁苦痛洗去",
+      "translation": null
+    },
+    {
+      "time": 117.5,
+      "time_str": "01:57.500",
+      "text": "柔情蜜意我愿记取",
+      "translation": null
+    },
+    {
+      "time": 121.68,
+      "time_str": "02:01.680",
+      "text": "要强忍离情泪",
+      "translation": null
+    },
+    {
+      "time": 125.99,
+      "time_str": "02:05.990",
+      "text": "未许它向下垂",
+      "translation": null
+    },
+    {
+      "time": 130.35,
+      "time_str": "02:10.350",
+      "text": "愁如锁 眉头聚",
+      "translation": null
+    },
+    {
+      "time": 134.53,
+      "time_str": "02:14.530",
+      "text": "别离泪始终要下垂",
+      "translation": null
+    },
+    {
+      "time": 149.17,
+      "time_str": "02:29.170",
+      "text": "我已令你快乐",
+      "translation": null
+    },
+    {
+      "time": 153.41,
+      "time_str": "02:33.410",
+      "text": "你也令我痴痴醉",
+      "translation": null
+    },
+    {
+      "time": 157.4,
+      "time_str": "02:37.400",
+      "text": "你已在我心 不必再问记着谁",
+      "translation": null
+    },
+    {
+      "time": 165.79,
+      "time_str": "02:45.790",
+      "text": "留住眼内每滴泪",
+      "translation": null
+    },
+    {
+      "time": 168.81,
+      "time_str": "02:48.810",
+      "text": "为何仍断续流默默垂",
+      "translation": null
+    },
+    {
+      "time": 211.1,
+      "time_str": "03:31.100",
+      "text": "我劝你早点归去",
+      "translation": null
+    },
+    {
+      "time": 215.4,
+      "time_str": "03:35.400",
+      "text": "你说你不想归去",
+      "translation": null
+    },
+    {
+      "time": 219.11,
+      "time_str": "03:39.110",
+      "text": "只叫我抱着你",
+      "translation": null
+    },
+    {
+      "time": 222.63,
+      "time_str": "03:42.630",
+      "text": "悠悠海风轻轻吹",
+      "translation": null
+    },
+    {
+      "time": 225.56,
+      "time_str": "03:45.560",
+      "text": "冷却了野火堆",
+      "translation": null
+    },
+    {
+      "time": 229.12,
+      "time_str": "03:49.120",
+      "text": "我看见伤心的你",
+      "translation": null
+    },
+    {
+      "time": 232.8,
+      "time_str": "03:52.800",
+      "text": "你说我怎舍得去",
+      "translation": null
+    },
+    {
+      "time": 236.47,
+      "time_str": "03:56.470",
+      "text": "哭态也绝美",
+      "translation": null
+    },
+    {
+      "time": 240.51,
+      "time_str": "04:00.510",
+      "text": "如何止哭只得轻吻你发边",
+      "translation": null
+    },
+    {
+      "time": 245.7,
+      "time_str": "04:05.700",
+      "text": "让风继续吹不忍远离",
+      "translation": null
+    },
+    {
+      "time": 254.49,
+      "time_str": "04:14.490",
+      "text": "心里极渴望",
+      "translation": null
+    },
+    {
+      "time": 257.42,
+      "time_str": "04:17.420",
+      "text": "希望留下伴着你",
+      "translation": null
+    },
+    {
+      "time": 262.6,
+      "time_str": "04:22.600",
+      "text": "风继续吹 不忍远离",
+      "translation": null
+    },
+    {
+      "time": 272.9,
+      "time_str": "04:32.900",
+      "text": "心里亦有泪",
+      "translation": null
+    },
+    {
+      "time": 275.15,
+      "time_str": "04:35.150",
+      "text": "不愿流泪望着你",
+      "translation": null
+    },
+    {
+      "time": 280.7,
+      "time_str": "04:40.700",
+      "text": "过去多少快乐记忆",
+      "translation": null
+    },
+    {
+      "time": 288.62,
+      "time_str": "04:48.620",
+      "text": "何妨与你一起去追",
+      "translation": null
+    },
+    {
+      "time": 297.22,
+      "time_str": "04:57.220",
+      "text": "要将忧郁苦痛洗去",
+      "translation": null
+    },
+    {
+      "time": 301.46,
+      "time_str": "05:01.460",
+      "text": "柔情蜜意我愿记取",
+      "translation": null
+    },
+    {
+      "time": 305.66,
+      "time_str": "05:05.660",
+      "text": "要强忍离情泪",
+      "translation": null
+    },
+    {
+      "time": 309.91,
+      "time_str": "05:09.910",
+      "text": "未许它向下垂",
+      "translation": null
+    },
+    {
+      "time": 314.33,
+      "time_str": "05:14.330",
+      "text": "愁如锁 眉头紧",
+      "translation": null
+    },
+    {
+      "time": 318.76,
+      "time_str": "05:18.760",
+      "text": "别离泪始终要下垂",
+      "translation": null
+    },
+    {
+      "time": 333.24,
+      "time_str": "05:33.240",
+      "text": "我已令你快乐",
+      "translation": null
+    },
+    {
+      "time": 337.55,
+      "time_str": "05:37.550",
+      "text": "你也令我痴痴醉",
+      "translation": null
+    },
+    {
+      "time": 341.42,
+      "time_str": "05:41.420",
+      "text": "你已在我心 不必再问记着谁",
+      "translation": null
+    },
+    {
+      "time": 349.9,
+      "time_str": "05:49.900",
+      "text": "留住眼内每滴泪",
+      "translation": null
+    },
+    {
+      "time": 352.78,
+      "time_str": "05:52.780",
+      "text": "为何仍断续流默默垂",
+      "translation": null
+    },
+    {
+      "time": 356.96,
+      "time_str": "05:56.960",
+      "text": "为何仍断续流默默垂",
+      "translation": null
+    },
+    {
+      "time": 362.58,
+      "time_str": "06:02.580",
+      "text": "为何仍断续流默默垂",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "风继续吹 - 刘雅丽.lrc"
+}

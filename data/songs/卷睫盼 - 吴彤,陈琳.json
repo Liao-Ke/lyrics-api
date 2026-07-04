@@ -1,0 +1,460 @@
+{
+  "title": "卷睫盼",
+  "title_raw": "卷睫盼",
+  "version": null,
+  "artist": "吴彤,陈琳",
+  "group_key": "卷睫盼|吴彤,陈琳",
+  "writers": {
+    "lyricist": "钟志荣",
+    "composer": "钟志荣",
+    "arranger": "张兆鸿"
+  },
+  "lyrics": [
+    {
+      "time": 14.73,
+      "time_str": "00:14.730",
+      "text": "男：美是初见",
+      "translation": null
+    },
+    {
+      "time": 17.6,
+      "time_str": "00:17.600",
+      "text": "燃起爱情火焰",
+      "translation": null
+    },
+    {
+      "time": 20.86,
+      "time_str": "00:20.860",
+      "text": "燃烧在茫茫东海边缘",
+      "translation": null
+    },
+    {
+      "time": 23.61,
+      "time_str": "00:23.610",
+      "text": "随着风飞翻",
+      "translation": null
+    },
+    {
+      "time": 26.54,
+      "time_str": "00:26.540",
+      "text": "卷睫盼",
+      "translation": null
+    },
+    {
+      "time": 29.39,
+      "time_str": "00:29.390",
+      "text": "明眸璀璨我捉不住",
+      "translation": null
+    },
+    {
+      "time": 33.91,
+      "time_str": "00:33.910",
+      "text": "你若即若离的手指尖",
+      "translation": null
+    },
+    {
+      "time": 38.31,
+      "time_str": "00:38.310",
+      "text": "女：爱是因为你 美丽被还原",
+      "translation": null
+    },
+    {
+      "time": 44.69,
+      "time_str": "00:44.690",
+      "text": "我知道有一千种可能",
+      "translation": null
+    },
+    {
+      "time": 47.25,
+      "time_str": "00:47.250",
+      "text": "是与你相恋",
+      "translation": null
+    },
+    {
+      "time": 50.28,
+      "time_str": "00:50.280",
+      "text": "睁开眼",
+      "translation": null
+    },
+    {
+      "time": 53.15,
+      "time_str": "00:53.150",
+      "text": "闭上眼难得难弃的缘",
+      "translation": null
+    },
+    {
+      "time": 57.64,
+      "time_str": "00:57.640",
+      "text": "女：天赐的",
+      "translation": null
+    },
+    {
+      "time": 58.45,
+      "time_str": "00:58.450",
+      "text": "男：地护的",
+      "translation": null
+    },
+    {
+      "time": 59.31,
+      "time_str": "00:59.310",
+      "text": "合：永不变",
+      "translation": null
+    },
+    {
+      "time": 62.12,
+      "time_str": "01:02.120",
+      "text": "望眼欲穿",
+      "translation": null
+    },
+    {
+      "time": 64.59,
+      "time_str": "01:04.590",
+      "text": "终于走到我面前",
+      "translation": null
+    },
+    {
+      "time": 68.03,
+      "time_str": "01:08.030",
+      "text": "相拥不相视",
+      "translation": null
+    },
+    {
+      "time": 69.92,
+      "time_str": "01:09.920",
+      "text": "在胸襟沾满了泪水",
+      "translation": null
+    },
+    {
+      "time": 73.98,
+      "time_str": "01:13.980",
+      "text": "再难阻断",
+      "translation": null
+    },
+    {
+      "time": 76.37,
+      "time_str": "01:16.370",
+      "text": "这份感情到海枯到石烂",
+      "translation": null
+    },
+    {
+      "time": 85.54,
+      "time_str": "01:25.540",
+      "text": "男：美是初见",
+      "translation": null
+    },
+    {
+      "time": 88.52,
+      "time_str": "01:28.520",
+      "text": "燃起爱情火焰",
+      "translation": null
+    },
+    {
+      "time": 91.64,
+      "time_str": "01:31.640",
+      "text": "燃烧在茫茫东海边缘",
+      "translation": null
+    },
+    {
+      "time": 94.35,
+      "time_str": "01:34.350",
+      "text": "随着风飞翻",
+      "translation": null
+    },
+    {
+      "time": 97.37,
+      "time_str": "01:37.370",
+      "text": "卷睫盼",
+      "translation": null
+    },
+    {
+      "time": 100.25,
+      "time_str": "01:40.250",
+      "text": "明眸璀璨我捉不住",
+      "translation": null
+    },
+    {
+      "time": 104.75,
+      "time_str": "01:44.750",
+      "text": "你若即若离的手指尖",
+      "translation": null
+    },
+    {
+      "time": 109.15,
+      "time_str": "01:49.150",
+      "text": "女：爱是因为你 美丽被还原",
+      "translation": null
+    },
+    {
+      "time": 115.39,
+      "time_str": "01:55.390",
+      "text": "我知道有一千种可能",
+      "translation": null
+    },
+    {
+      "time": 117.95,
+      "time_str": "01:57.950",
+      "text": "是与你相恋",
+      "translation": null
+    },
+    {
+      "time": 121.02,
+      "time_str": "02:01.020",
+      "text": "睁开眼",
+      "translation": null
+    },
+    {
+      "time": 124.04,
+      "time_str": "02:04.040",
+      "text": "闭上眼难得难弃的缘",
+      "translation": null
+    },
+    {
+      "time": 128.18,
+      "time_str": "02:08.180",
+      "text": "女：天赐的",
+      "translation": null
+    },
+    {
+      "time": 129.1,
+      "time_str": "02:09.100",
+      "text": "男：地护的",
+      "translation": null
+    },
+    {
+      "time": 129.92,
+      "time_str": "02:09.920",
+      "text": "合：永不变",
+      "translation": null
+    },
+    {
+      "time": 132.78,
+      "time_str": "02:12.780",
+      "text": "望眼欲穿",
+      "translation": null
+    },
+    {
+      "time": 135.29,
+      "time_str": "02:15.290",
+      "text": "终于走到我面前",
+      "translation": null
+    },
+    {
+      "time": 138.7,
+      "time_str": "02:18.700",
+      "text": "相拥不相视",
+      "translation": null
+    },
+    {
+      "time": 140.65,
+      "time_str": "02:20.650",
+      "text": "在胸襟沾满了泪水",
+      "translation": null
+    },
+    {
+      "time": 144.64,
+      "time_str": "02:24.640",
+      "text": "再难阻断",
+      "translation": null
+    },
+    {
+      "time": 147.1,
+      "time_str": "02:27.100",
+      "text": "这份感情到海枯到石烂",
+      "translation": null
+    },
+    {
+      "time": 151.0,
+      "time_str": "02:31.000",
+      "text": "男：我有心",
+      "translation": null
+    },
+    {
+      "time": 152.42,
+      "time_str": "02:32.420",
+      "text": "合：我有泪",
+      "translation": null
+    },
+    {
+      "time": 165.44,
+      "time_str": "02:45.440",
+      "text": "男：美是初见",
+      "translation": null
+    },
+    {
+      "time": 168.4,
+      "time_str": "02:48.400",
+      "text": "燃起爱情火焰",
+      "translation": null
+    },
+    {
+      "time": 171.57,
+      "time_str": "02:51.570",
+      "text": "燃烧在茫茫东海边缘",
+      "translation": null
+    },
+    {
+      "time": 174.36,
+      "time_str": "02:54.360",
+      "text": "随着风飞翻",
+      "translation": null
+    },
+    {
+      "time": 177.31,
+      "time_str": "02:57.310",
+      "text": "卷睫盼",
+      "translation": null
+    },
+    {
+      "time": 180.12,
+      "time_str": "03:00.120",
+      "text": "明眸璀璨我捉不住",
+      "translation": null
+    },
+    {
+      "time": 184.61,
+      "time_str": "03:04.610",
+      "text": "你若即若离的手指尖",
+      "translation": null
+    },
+    {
+      "time": 189.0,
+      "time_str": "03:09.000",
+      "text": "女：爱是因为你 美丽被还原",
+      "translation": null
+    },
+    {
+      "time": 195.4,
+      "time_str": "03:15.400",
+      "text": "我知道有一千种可能",
+      "translation": null
+    },
+    {
+      "time": 198.05,
+      "time_str": "03:18.050",
+      "text": "是与你相恋",
+      "translation": null
+    },
+    {
+      "time": 201.05,
+      "time_str": "03:21.050",
+      "text": "睁开眼",
+      "translation": null
+    },
+    {
+      "time": 203.91,
+      "time_str": "03:23.910",
+      "text": "闭上眼",
+      "translation": null
+    },
+    {
+      "time": 204.64,
+      "time_str": "03:24.640",
+      "text": "难得难弃的缘",
+      "translation": null
+    },
+    {
+      "time": 208.4,
+      "time_str": "03:28.400",
+      "text": "女：天赐的",
+      "translation": null
+    },
+    {
+      "time": 209.18,
+      "time_str": "03:29.180",
+      "text": "男：地护的",
+      "translation": null
+    },
+    {
+      "time": 209.93,
+      "time_str": "03:29.930",
+      "text": "合：永不变",
+      "translation": null
+    },
+    {
+      "time": 212.87,
+      "time_str": "03:32.870",
+      "text": "望眼欲穿",
+      "translation": null
+    },
+    {
+      "time": 215.42,
+      "time_str": "03:35.420",
+      "text": "终于走到我面前",
+      "translation": null
+    },
+    {
+      "time": 218.88,
+      "time_str": "03:38.880",
+      "text": "相拥不相视",
+      "translation": null
+    },
+    {
+      "time": 220.82,
+      "time_str": "03:40.820",
+      "text": "在胸襟沾满了泪水",
+      "translation": null
+    },
+    {
+      "time": 224.8,
+      "time_str": "03:44.800",
+      "text": "再难阻断",
+      "translation": null
+    },
+    {
+      "time": 227.31,
+      "time_str": "03:47.310",
+      "text": "这份感情到海枯到石烂",
+      "translation": null
+    },
+    {
+      "time": 231.08,
+      "time_str": "03:51.080",
+      "text": "男：我有心",
+      "translation": null
+    },
+    {
+      "time": 232.56,
+      "time_str": "03:52.560",
+      "text": "合：我有泪",
+      "translation": null
+    },
+    {
+      "time": 237.35,
+      "time_str": "03:57.350",
+      "text": "再难阻断",
+      "translation": null
+    },
+    {
+      "time": 239.81,
+      "time_str": "03:59.810",
+      "text": "这份感情到海枯到石烂",
+      "translation": null
+    },
+    {
+      "time": 243.79,
+      "time_str": "04:03.790",
+      "text": "男：我有心",
+      "translation": null
+    },
+    {
+      "time": 245.12,
+      "time_str": "04:05.120",
+      "text": "合：我有泪",
+      "translation": null
+    },
+    {
+      "time": 246.14,
+      "time_str": "04:06.140",
+      "text": "相拥不相视",
+      "translation": null
+    },
+    {
+      "time": 248.18,
+      "time_str": "04:08.180",
+      "text": "在胸襟沾满了泪水",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "卷睫盼 - 吴彤,陈琳.lrc"
+}

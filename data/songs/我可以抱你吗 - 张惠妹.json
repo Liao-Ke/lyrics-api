@@ -1,0 +1,322 @@
+{
+  "title": "我可以抱你吗",
+  "title_raw": "我可以抱你吗",
+  "version": null,
+  "artist": "张惠妹",
+  "group_key": "我可以抱你吗|张惠妹",
+  "writers": {
+    "lyricist": "小虫",
+    "composer": "小虫",
+    "arranger": "江建民"
+  },
+  "lyrics": [
+    {
+      "time": 14.263,
+      "time_str": "00:14.263",
+      "text": "外面下着雨",
+      "translation": null
+    },
+    {
+      "time": 17.301,
+      "time_str": "00:17.301",
+      "text": "犹如我心血在滴",
+      "translation": null
+    },
+    {
+      "time": 21.236,
+      "time_str": "00:21.236",
+      "text": "爱你那么久",
+      "translation": null
+    },
+    {
+      "time": 24.398,
+      "time_str": "00:24.398",
+      "text": "其实算算不容易",
+      "translation": null
+    },
+    {
+      "time": 28.315,
+      "time_str": "00:28.315",
+      "text": "就要分东西",
+      "translation": null
+    },
+    {
+      "time": 31.576,
+      "time_str": "00:31.576",
+      "text": "明天不再有关系",
+      "translation": null
+    },
+    {
+      "time": 35.312,
+      "time_str": "00:35.312",
+      "text": "留在家里的衣服",
+      "translation": null
+    },
+    {
+      "time": 38.39,
+      "time_str": "00:38.390",
+      "text": "有空再来拿回去",
+      "translation": null
+    },
+    {
+      "time": 42.997,
+      "time_str": "00:42.997",
+      "text": "不去想爱都结了果",
+      "translation": null
+    },
+    {
+      "time": 47.12,
+      "time_str": "00:47.120",
+      "text": "舍不得拼命找借口",
+      "translation": null
+    },
+    {
+      "time": 49.972,
+      "time_str": "00:49.972",
+      "text": "不勉强你再为了我",
+      "translation": null
+    },
+    {
+      "time": 54.216,
+      "time_str": "00:54.216",
+      "text": "心不在留不留都是痛",
+      "translation": null
+    },
+    {
+      "time": 60.96,
+      "time_str": "01:00.960",
+      "text": "我可以抱你吗 爱人",
+      "translation": null
+    },
+    {
+      "time": 63.663,
+      "time_str": "01:03.663",
+      "text": "让我在你肩膀哭泣",
+      "translation": null
+    },
+    {
+      "time": 66.81,
+      "time_str": "01:06.810",
+      "text": "如果今天我们就要分离",
+      "translation": null
+    },
+    {
+      "time": 69.871,
+      "time_str": "01:09.871",
+      "text": "让我痛快地哭出声音",
+      "translation": null
+    },
+    {
+      "time": 74.368,
+      "time_str": "01:14.368",
+      "text": "我可以抱你吗 宝贝",
+      "translation": null
+    },
+    {
+      "time": 77.861,
+      "time_str": "01:17.861",
+      "text": "容我最后一次这样叫你",
+      "translation": null
+    },
+    {
+      "time": 80.913,
+      "time_str": "01:20.913",
+      "text": "你也不得已",
+      "translation": null
+    },
+    {
+      "time": 82.681,
+      "time_str": "01:22.681",
+      "text": "我会笑笑的离去",
+      "translation": null
+    },
+    {
+      "time": 120.37,
+      "time_str": "02:00.370",
+      "text": "外面下着雨",
+      "translation": null
+    },
+    {
+      "time": 123.185,
+      "time_str": "02:03.185",
+      "text": "犹如我心血在滴",
+      "translation": null
+    },
+    {
+      "time": 127.241,
+      "time_str": "02:07.241",
+      "text": "爱你那么久",
+      "translation": null
+    },
+    {
+      "time": 130.243,
+      "time_str": "02:10.243",
+      "text": "其实算算不容易",
+      "translation": null
+    },
+    {
+      "time": 134.289,
+      "time_str": "02:14.289",
+      "text": "就要分东西",
+      "translation": null
+    },
+    {
+      "time": 137.251,
+      "time_str": "02:17.251",
+      "text": "明天不再有关系",
+      "translation": null
+    },
+    {
+      "time": 141.296,
+      "time_str": "02:21.296",
+      "text": "留在家里的衣服",
+      "translation": null
+    },
+    {
+      "time": 144.338,
+      "time_str": "02:24.338",
+      "text": "有空再来拿回去",
+      "translation": null
+    },
+    {
+      "time": 148.626,
+      "time_str": "02:28.626",
+      "text": "不去想爱都结了果",
+      "translation": null
+    },
+    {
+      "time": 153.6,
+      "time_str": "02:33.600",
+      "text": "舍不得拼命找借口",
+      "translation": null
+    },
+    {
+      "time": 155.867,
+      "time_str": "02:35.867",
+      "text": "不勉强你再为了我",
+      "translation": null
+    },
+    {
+      "time": 159.963,
+      "time_str": "02:39.963",
+      "text": "心不在留不留都是痛",
+      "translation": null
+    },
+    {
+      "time": 165.979,
+      "time_str": "02:45.979",
+      "text": "我可以抱你吗 爱人",
+      "translation": null
+    },
+    {
+      "time": 169.544,
+      "time_str": "02:49.544",
+      "text": "让我在你肩膀哭泣",
+      "translation": null
+    },
+    {
+      "time": 172.554,
+      "time_str": "02:52.554",
+      "text": "如果今天我们就要分离",
+      "translation": null
+    },
+    {
+      "time": 175.773,
+      "time_str": "02:55.773",
+      "text": "让我痛快地哭出声音",
+      "translation": null
+    },
+    {
+      "time": 180.313,
+      "time_str": "03:00.313",
+      "text": "我可以抱你吗 宝贝",
+      "translation": null
+    },
+    {
+      "time": 183.601,
+      "time_str": "03:03.601",
+      "text": "容我最后一次这样叫你",
+      "translation": null
+    },
+    {
+      "time": 186.795,
+      "time_str": "03:06.795",
+      "text": "你也不得已",
+      "translation": null
+    },
+    {
+      "time": 188.529,
+      "time_str": "03:08.529",
+      "text": "我会笑笑的离去",
+      "translation": null
+    },
+    {
+      "time": 194.441,
+      "time_str": "03:14.441",
+      "text": "我可以抱你吗 爱人",
+      "translation": null
+    },
+    {
+      "time": 197.736,
+      "time_str": "03:17.736",
+      "text": "让我在你肩膀哭泣",
+      "translation": null
+    },
+    {
+      "time": 200.83,
+      "time_str": "03:20.830",
+      "text": "如果今天我们就要分离",
+      "translation": null
+    },
+    {
+      "time": 203.935,
+      "time_str": "03:23.935",
+      "text": "让我痛快地哭出声音",
+      "translation": null
+    },
+    {
+      "time": 208.302,
+      "time_str": "03:28.302",
+      "text": "我可以抱你吗 宝贝",
+      "translation": null
+    },
+    {
+      "time": 211.901,
+      "time_str": "03:31.901",
+      "text": "容我最后一次这样叫你",
+      "translation": null
+    },
+    {
+      "time": 214.954,
+      "time_str": "03:34.954",
+      "text": "你也不得已",
+      "translation": null
+    },
+    {
+      "time": 216.564,
+      "time_str": "03:36.564",
+      "text": "我会 笑笑的离去",
+      "translation": null
+    },
+    {
+      "time": 221.701,
+      "time_str": "03:41.701",
+      "text": "你也不得已",
+      "translation": null
+    },
+    {
+      "time": 223.88,
+      "time_str": "03:43.880",
+      "text": "我会笑笑的离去",
+      "translation": null
+    },
+    {
+      "time": 235.806,
+      "time_str": "03:55.806",
+      "text": "End..吙喍天嘡",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我可以抱你吗 - 张惠妹.lrc"
+}

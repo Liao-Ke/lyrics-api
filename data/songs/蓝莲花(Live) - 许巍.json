@@ -1,0 +1,160 @@
+{
+  "title": "蓝莲花",
+  "title_raw": "蓝莲花(Live)",
+  "version": "Live",
+  "artist": "许巍",
+  "group_key": "蓝莲花|许巍",
+  "writers": {
+    "lyricist": "许巍",
+    "composer": "许巍",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 99.4,
+      "time_str": "01:39.400",
+      "text": "没有什么能够阻挡",
+      "translation": null
+    },
+    {
+      "time": 105.128,
+      "time_str": "01:45.128",
+      "text": "你对自由的向往",
+      "translation": null
+    },
+    {
+      "time": 110.189,
+      "time_str": "01:50.189",
+      "text": "天马行空的生涯",
+      "translation": null
+    },
+    {
+      "time": 116.128,
+      "time_str": "01:56.128",
+      "text": "你的心了无牵挂",
+      "translation": null
+    },
+    {
+      "time": 121.55,
+      "time_str": "02:01.550",
+      "text": "穿过幽暗的岁月",
+      "translation": null
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "也曾感到彷徨",
+      "translation": null
+    },
+    {
+      "time": 131.899,
+      "time_str": "02:11.899",
+      "text": "当你低头的瞬间",
+      "translation": null
+    },
+    {
+      "time": 136.76,
+      "time_str": "02:16.760",
+      "text": "才发觉脚下的路",
+      "translation": null
+    },
+    {
+      "time": 142.289,
+      "time_str": "02:22.289",
+      "text": "心中那自由的世界",
+      "translation": null
+    },
+    {
+      "time": 147.179,
+      "time_str": "02:27.179",
+      "text": "如此的清澈高远",
+      "translation": null
+    },
+    {
+      "time": 152.32,
+      "time_str": "02:32.320",
+      "text": "盛开着永不凋零",
+      "translation": null
+    },
+    {
+      "time": 157.7,
+      "time_str": "02:37.700",
+      "text": "蓝莲花",
+      "translation": null
+    },
+    {
+      "time": 208.719,
+      "time_str": "03:28.719",
+      "text": "穿过幽暗的岁月",
+      "translation": null
+    },
+    {
+      "time": 213.958,
+      "time_str": "03:33.958",
+      "text": "也曾感到彷徨",
+      "translation": null
+    },
+    {
+      "time": 219.99,
+      "time_str": "03:39.990",
+      "text": "当你低头的瞬间",
+      "translation": null
+    },
+    {
+      "time": 224.219,
+      "time_str": "03:44.219",
+      "text": "才发觉脚下的路",
+      "translation": null
+    },
+    {
+      "time": 229.268,
+      "time_str": "03:49.268",
+      "text": "穿过幽暗的岁月",
+      "translation": null
+    },
+    {
+      "time": 234.509,
+      "time_str": "03:54.509",
+      "text": "也曾感到彷徨",
+      "translation": null
+    },
+    {
+      "time": 238.898,
+      "time_str": "03:58.898",
+      "text": "当你低头的瞬间",
+      "translation": null
+    },
+    {
+      "time": 243.789,
+      "time_str": "04:03.789",
+      "text": "才发觉脚下的路",
+      "translation": null
+    },
+    {
+      "time": 248.668,
+      "time_str": "04:08.668",
+      "text": "心中那自由地世界",
+      "translation": null
+    },
+    {
+      "time": 255.698,
+      "time_str": "04:15.698",
+      "text": "如此的清澈高远",
+      "translation": null
+    },
+    {
+      "time": 260.988,
+      "time_str": "04:20.988",
+      "text": "盛开着永不凋零",
+      "translation": null
+    },
+    {
+      "time": 264.328,
+      "time_str": "04:24.328",
+      "text": "蓝莲花",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "蓝莲花(Live) - 许巍.lrc"
+}

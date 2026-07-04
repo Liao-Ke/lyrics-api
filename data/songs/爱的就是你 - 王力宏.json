@@ -1,0 +1,394 @@
+{
+  "title": "爱的就是你",
+  "title_raw": "爱的就是你",
+  "version": null,
+  "artist": "王力宏",
+  "group_key": "爱的就是你|王力宏",
+  "writers": {
+    "lyricist": "王力宏/楼南蔚/黄慧宁",
+    "composer": "王力宏",
+    "arranger": "王力宏/钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 0.34,
+      "time_str": "00:00.340",
+      "text": "在爱的幸福国度你就是我唯一",
+      "translation": null
+    },
+    {
+      "time": 5.38,
+      "time_str": "00:05.380",
+      "text": "我唯一爱的就是你 Yeah Yeah",
+      "translation": null
+    },
+    {
+      "time": 10.24,
+      "time_str": "00:10.240",
+      "text": "我真的爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 16.19,
+      "time_str": "00:16.190",
+      "text": "失去才会懂得珍惜",
+      "translation": null
+    },
+    {
+      "time": 20.9,
+      "time_str": "00:20.900",
+      "text": "但我珍惜你",
+      "translation": null
+    },
+    {
+      "time": 25.97,
+      "time_str": "00:25.970",
+      "text": "伤越痛就是爱越深 Emm",
+      "translation": null
+    },
+    {
+      "time": 31.6,
+      "time_str": "00:31.600",
+      "text": "我不相信",
+      "translation": null
+    },
+    {
+      "time": 35.73,
+      "time_str": "00:35.730",
+      "text": "你和我同时停止呼吸",
+      "translation": null
+    },
+    {
+      "time": 40.84,
+      "time_str": "00:40.840",
+      "text": "每一次我们靠近",
+      "translation": null
+    },
+    {
+      "time": 46.4,
+      "time_str": "00:46.400",
+      "text": "你让我忘了困惑",
+      "translation": null
+    },
+    {
+      "time": 50.69,
+      "time_str": "00:50.690",
+      "text": "忘了所有烦心",
+      "translation": null
+    },
+    {
+      "time": 54.67,
+      "time_str": "00:54.670",
+      "text": "我把你紧紧拥入怀里",
+      "translation": null
+    },
+    {
+      "time": 57.79,
+      "time_str": "00:57.790",
+      "text": "捧你在我手心",
+      "translation": null
+    },
+    {
+      "time": 60.21,
+      "time_str": "01:00.210",
+      "text": "谁叫我真的爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 66.0,
+      "time_str": "01:06.000",
+      "text": "在爱的纯净世界",
+      "translation": null
+    },
+    {
+      "time": 67.78,
+      "time_str": "01:07.780",
+      "text": "你就是我唯一",
+      "translation": null
+    },
+    {
+      "time": 70.28,
+      "time_str": "01:10.280",
+      "text": "永远 永远不要怀疑",
+      "translation": null
+    },
+    {
+      "time": 74.71,
+      "time_str": "01:14.710",
+      "text": "我把你当作我的空气",
+      "translation": null
+    },
+    {
+      "time": 77.7,
+      "time_str": "01:17.700",
+      "text": "如此形影不离",
+      "translation": null
+    },
+    {
+      "time": 80.1,
+      "time_str": "01:20.100",
+      "text": "我大声说我爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 85.17,
+      "time_str": "01:25.170",
+      "text": "在爱的幸福国度",
+      "translation": null
+    },
+    {
+      "time": 87.74,
+      "time_str": "01:27.740",
+      "text": "你就是我唯一",
+      "translation": null
+    },
+    {
+      "time": 90.29,
+      "time_str": "01:30.290",
+      "text": "我唯一爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 95.34,
+      "time_str": "01:35.340",
+      "text": "我真的爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 109.1,
+      "time_str": "01:49.100",
+      "text": "失去才会懂得珍惜",
+      "translation": null
+    },
+    {
+      "time": 113.61,
+      "time_str": "01:53.610",
+      "text": "但我珍惜你",
+      "translation": null
+    },
+    {
+      "time": 119.2,
+      "time_str": "01:59.200",
+      "text": "伤越痛就是爱越深 Emm 我不相信",
+      "translation": null
+    },
+    {
+      "time": 128.34,
+      "time_str": "02:08.340",
+      "text": "你和我同时停止呼吸",
+      "translation": null
+    },
+    {
+      "time": 133.36,
+      "time_str": "02:13.360",
+      "text": "每一次我们靠近",
+      "translation": null
+    },
+    {
+      "time": 138.64,
+      "time_str": "02:18.640",
+      "text": "你让我忘了困惑",
+      "translation": null
+    },
+    {
+      "time": 143.16,
+      "time_str": "02:23.160",
+      "text": "忘了所有烦心",
+      "translation": null
+    },
+    {
+      "time": 148.1,
+      "time_str": "02:28.100",
+      "text": "我把你紧紧拥入怀里",
+      "translation": null
+    },
+    {
+      "time": 150.19,
+      "time_str": "02:30.190",
+      "text": "捧你在我手心",
+      "translation": null
+    },
+    {
+      "time": 152.76,
+      "time_str": "02:32.760",
+      "text": "谁叫我真的爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 157.86,
+      "time_str": "02:37.860",
+      "text": "在爱的纯净世界",
+      "translation": null
+    },
+    {
+      "time": 160.29,
+      "time_str": "02:40.290",
+      "text": "你就是我唯一",
+      "translation": null
+    },
+    {
+      "time": 162.729,
+      "time_str": "02:42.729",
+      "text": "永远 永远不要怀疑",
+      "translation": null
+    },
+    {
+      "time": 167.31,
+      "time_str": "02:47.310",
+      "text": "我把你当作我的空气",
+      "translation": null
+    },
+    {
+      "time": 170.12,
+      "time_str": "02:50.120",
+      "text": "如此形影不离",
+      "translation": null
+    },
+    {
+      "time": 172.68,
+      "time_str": "02:52.680",
+      "text": "我大声说我爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 177.729,
+      "time_str": "02:57.729",
+      "text": "在爱的幸福国度",
+      "translation": null
+    },
+    {
+      "time": 180.13,
+      "time_str": "03:00.130",
+      "text": "你就是我唯一",
+      "translation": null
+    },
+    {
+      "time": 182.72,
+      "time_str": "03:02.720",
+      "text": "我唯一爱的就是你 Yeah Yeah",
+      "translation": null
+    },
+    {
+      "time": 187.82,
+      "time_str": "03:07.820",
+      "text": "我真的爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 192.29,
+      "time_str": "03:12.290",
+      "text": "就是你 Yeah Emm",
+      "translation": null
+    },
+    {
+      "time": 199.31,
+      "time_str": "03:19.310",
+      "text": "就是你",
+      "translation": null
+    },
+    {
+      "time": 202.16,
+      "time_str": "03:22.160",
+      "text": "就是你 Yeah",
+      "translation": null
+    },
+    {
+      "time": 208.12,
+      "time_str": "03:28.120",
+      "text": "唯一爱的就是你 Oh Huh",
+      "translation": null
+    },
+    {
+      "time": 218.27,
+      "time_str": "03:38.270",
+      "text": "我把你紧紧拥入怀里",
+      "translation": null
+    },
+    {
+      "time": 221.2,
+      "time_str": "03:41.200",
+      "text": "捧你在我手心",
+      "translation": null
+    },
+    {
+      "time": 223.64,
+      "time_str": "03:43.640",
+      "text": "谁叫我真的爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 228.81,
+      "time_str": "03:48.810",
+      "text": "在爱的纯净世界",
+      "translation": null
+    },
+    {
+      "time": 231.17,
+      "time_str": "03:51.170",
+      "text": "你就是我唯一",
+      "translation": null
+    },
+    {
+      "time": 233.74,
+      "time_str": "03:53.740",
+      "text": "永远 永远不要怀疑",
+      "translation": null
+    },
+    {
+      "time": 238.19,
+      "time_str": "03:58.190",
+      "text": "我把你当作我的空气",
+      "translation": null
+    },
+    {
+      "time": 241.06,
+      "time_str": "04:01.060",
+      "text": "如此形影不离",
+      "translation": null
+    },
+    {
+      "time": 243.58,
+      "time_str": "04:03.580",
+      "text": "我大声说我爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 248.86,
+      "time_str": "04:08.860",
+      "text": "在爱的幸福国度",
+      "translation": null
+    },
+    {
+      "time": 251.2,
+      "time_str": "04:11.200",
+      "text": "你就是我唯一",
+      "translation": null
+    },
+    {
+      "time": 253.76,
+      "time_str": "04:13.760",
+      "text": "我唯一爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 258.509,
+      "time_str": "04:18.509",
+      "text": "我真的爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 263.77,
+      "time_str": "04:23.770",
+      "text": "我唯一爱的就是你",
+      "translation": null
+    },
+    {
+      "time": 269.18,
+      "time_str": "04:29.180",
+      "text": "真的爱的就是你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱的就是你 - 王力宏.lrc"
+}

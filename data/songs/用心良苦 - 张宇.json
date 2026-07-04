@@ -1,0 +1,406 @@
+{
+  "title": "用心良苦",
+  "title_raw": "用心良苦",
+  "version": null,
+  "artist": "张宇",
+  "group_key": "用心良苦|张宇",
+  "writers": {
+    "lyricist": "十一郎",
+    "composer": "张宇",
+    "arranger": "涂惠源"
+  },
+  "lyrics": [
+    {
+      "time": 16.006,
+      "time_str": "00:16.006",
+      "text": "你的脸有几分憔悴",
+      "translation": null
+    },
+    {
+      "time": 19.541,
+      "time_str": "00:19.541",
+      "text": "你的眼有残留的泪",
+      "translation": null
+    },
+    {
+      "time": 23.202,
+      "time_str": "00:23.202",
+      "text": "你的唇美丽中有疲惫",
+      "translation": null
+    },
+    {
+      "time": 30.588,
+      "time_str": "00:30.588",
+      "text": "我用去整夜的时间",
+      "translation": null
+    },
+    {
+      "time": 34.177,
+      "time_str": "00:34.177",
+      "text": "想分辨在你我之间",
+      "translation": null
+    },
+    {
+      "time": 38.037,
+      "time_str": "00:38.037",
+      "text": "到底谁会爱谁多一点",
+      "translation": null
+    },
+    {
+      "time": 45.228,
+      "time_str": "00:45.228",
+      "text": "我宁愿看着你",
+      "translation": null
+    },
+    {
+      "time": 48.842,
+      "time_str": "00:48.842",
+      "text": "睡得如此沉静",
+      "translation": null
+    },
+    {
+      "time": 52.509,
+      "time_str": "00:52.509",
+      "text": "胜过你醒时决裂般无情",
+      "translation": null
+    },
+    {
+      "time": 59.22,
+      "time_str": "00:59.220",
+      "text": "你说你 想要逃",
+      "translation": null
+    },
+    {
+      "time": 62.933,
+      "time_str": "01:02.933",
+      "text": "偏偏注定要落脚",
+      "translation": null
+    },
+    {
+      "time": 66.559,
+      "time_str": "01:06.559",
+      "text": "情灭了 爱熄了",
+      "translation": null
+    },
+    {
+      "time": 70.278,
+      "time_str": "01:10.278",
+      "text": "剩下空心要不要",
+      "translation": null
+    },
+    {
+      "time": 73.899,
+      "time_str": "01:13.899",
+      "text": "春已走 花又落",
+      "translation": null
+    },
+    {
+      "time": 77.622,
+      "time_str": "01:17.622",
+      "text": "用心良苦却成空",
+      "translation": null
+    },
+    {
+      "time": 81.388,
+      "time_str": "01:21.388",
+      "text": "我的痛怎么形容",
+      "translation": null
+    },
+    {
+      "time": 84.949,
+      "time_str": "01:24.949",
+      "text": "一生爱错放你的手",
+      "translation": null
+    },
+    {
+      "time": 98.889,
+      "time_str": "01:38.889",
+      "text": "你的脸有几分憔悴",
+      "translation": null
+    },
+    {
+      "time": 102.553,
+      "time_str": "01:42.553",
+      "text": "你的眼有残留的泪",
+      "translation": null
+    },
+    {
+      "time": 106.24,
+      "time_str": "01:46.240",
+      "text": "你的唇美丽中有疲惫",
+      "translation": null
+    },
+    {
+      "time": 113.604,
+      "time_str": "01:53.604",
+      "text": "我用去整夜的时间",
+      "translation": null
+    },
+    {
+      "time": 117.322,
+      "time_str": "01:57.322",
+      "text": "想分辨在你我之间",
+      "translation": null
+    },
+    {
+      "time": 120.965,
+      "time_str": "02:00.965",
+      "text": "到底谁会爱谁多一点",
+      "translation": null
+    },
+    {
+      "time": 128.214,
+      "time_str": "02:08.214",
+      "text": "我宁愿看着你",
+      "translation": null
+    },
+    {
+      "time": 131.883,
+      "time_str": "02:11.883",
+      "text": "睡得如此沉静",
+      "translation": null
+    },
+    {
+      "time": 135.613,
+      "time_str": "02:15.613",
+      "text": "胜过你醒时决裂般无情",
+      "translation": null
+    },
+    {
+      "time": 142.246,
+      "time_str": "02:22.246",
+      "text": "你说你 想要逃",
+      "translation": null
+    },
+    {
+      "time": 145.946,
+      "time_str": "02:25.946",
+      "text": "偏偏注定要落脚",
+      "translation": null
+    },
+    {
+      "time": 149.643,
+      "time_str": "02:29.643",
+      "text": "情灭了 爱熄了",
+      "translation": null
+    },
+    {
+      "time": 153.326,
+      "time_str": "02:33.326",
+      "text": "剩下空心要不要",
+      "translation": null
+    },
+    {
+      "time": 157.021,
+      "time_str": "02:37.021",
+      "text": "春已走 花又落",
+      "translation": null
+    },
+    {
+      "time": 160.731,
+      "time_str": "02:40.731",
+      "text": "用心良苦却成空",
+      "translation": null
+    },
+    {
+      "time": 164.473,
+      "time_str": "02:44.473",
+      "text": "我的痛怎么形容",
+      "translation": null
+    },
+    {
+      "time": 168.087,
+      "time_str": "02:48.087",
+      "text": "一生爱错放你的手",
+      "translation": null
+    },
+    {
+      "time": 188.463,
+      "time_str": "03:08.463",
+      "text": "你说你 想要逃",
+      "translation": null
+    },
+    {
+      "time": 192.105,
+      "time_str": "03:12.105",
+      "text": "偏偏注定要落脚",
+      "translation": null
+    },
+    {
+      "time": 195.743,
+      "time_str": "03:15.743",
+      "text": "情灭了 爱熄了",
+      "translation": null
+    },
+    {
+      "time": 199.477,
+      "time_str": "03:19.477",
+      "text": "剩下空心要不要",
+      "translation": null
+    },
+    {
+      "time": 203.138,
+      "time_str": "03:23.138",
+      "text": "春已走 花又落",
+      "translation": null
+    },
+    {
+      "time": 206.86,
+      "time_str": "03:26.860",
+      "text": "用心良苦却成空",
+      "translation": null
+    },
+    {
+      "time": 210.547,
+      "time_str": "03:30.547",
+      "text": "我的痛怎么形容",
+      "translation": null
+    },
+    {
+      "time": 214.262,
+      "time_str": "03:34.262",
+      "text": "一生爱错放你的手",
+      "translation": null
+    },
+    {
+      "time": 219.897,
+      "time_str": "03:39.897",
+      "text": "你说你 想要逃",
+      "translation": null
+    },
+    {
+      "time": 223.504,
+      "time_str": "03:43.504",
+      "text": "偏偏注定要落脚",
+      "translation": null
+    },
+    {
+      "time": 227.191,
+      "time_str": "03:47.191",
+      "text": "情灭了 爱熄了",
+      "translation": null
+    },
+    {
+      "time": 230.886,
+      "time_str": "03:50.886",
+      "text": "剩下空心要不要",
+      "translation": null
+    },
+    {
+      "time": 234.576,
+      "time_str": "03:54.576",
+      "text": "春已走 花又落",
+      "translation": null
+    },
+    {
+      "time": 238.263,
+      "time_str": "03:58.263",
+      "text": "用心良苦却成空",
+      "translation": null
+    },
+    {
+      "time": 241.96,
+      "time_str": "04:01.960",
+      "text": "我的痛怎么形容",
+      "translation": null
+    },
+    {
+      "time": 245.653,
+      "time_str": "04:05.653",
+      "text": "一生爱错放你的手",
+      "translation": null
+    },
+    {
+      "time": 251.344,
+      "time_str": "04:11.344",
+      "text": "我的痛怎么形容",
+      "translation": null
+    },
+    {
+      "time": 254.948,
+      "time_str": "04:14.948",
+      "text": "一生爱错放你的手",
+      "translation": null
+    },
+    {
+      "time": 260.271,
+      "time_str": "04:20.271",
+      "text": "Arranged By – 涂惠源",
+      "translation": null
+    },
+    {
+      "time": 260.494,
+      "time_str": "04:20.494",
+      "text": "Backing Vocals – 小游, 张宇, 林蒙, 蔡宗政",
+      "translation": null
+    },
+    {
+      "time": 260.694,
+      "time_str": "04:20.694",
+      "text": "Drums – 徐德昌",
+      "translation": null
+    },
+    {
+      "time": 260.882,
+      "time_str": "04:20.882",
+      "text": "Guitar – 倪方来",
+      "translation": null
+    },
+    {
+      "time": 261.054,
+      "time_str": "04:21.054",
+      "text": "Lyrics By – 十一郎",
+      "translation": null
+    },
+    {
+      "time": 261.237,
+      "time_str": "04:21.237",
+      "text": "Mixed By – 林哲民",
+      "translation": null
+    },
+    {
+      "time": 261.404,
+      "time_str": "04:21.404",
+      "text": "Co-producer – 田恕仁",
+      "translation": null
+    },
+    {
+      "time": 261.572,
+      "time_str": "04:21.572",
+      "text": "Mixed By  – 张瑞麒, 杨秉仁",
+      "translation": null
+    },
+    {
+      "time": 261.753,
+      "time_str": "04:21.753",
+      "text": "Music By – 张宇",
+      "translation": null
+    },
+    {
+      "time": 261.928,
+      "time_str": "04:21.928",
+      "text": "Music Director – 翁宜冠",
+      "translation": null
+    },
+    {
+      "time": 262.103,
+      "time_str": "04:22.103",
+      "text": "Photography By – 陈福堂",
+      "translation": null
+    },
+    {
+      "time": 262.26,
+      "time_str": "04:22.260",
+      "text": "Producer, Arranged By  – 蔡宗政",
+      "translation": null
+    },
+    {
+      "time": 262.453,
+      "time_str": "04:22.453",
+      "text": "Recorded By – Ed Sanders, 林哲民, 黄伟峰",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "用心良苦 - 张宇.lrc"
+}

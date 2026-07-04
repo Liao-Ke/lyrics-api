@@ -1,0 +1,244 @@
+{
+  "title": "为什么你背着我爱别人",
+  "title_raw": "为什么你背着我爱别人",
+  "version": null,
+  "artist": "许志安",
+  "group_key": "为什么你背着我爱别人|许志安",
+  "writers": {
+    "lyricist": "张翠华",
+    "composer": "张洪量",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 27.1,
+      "time_str": "00:27.100",
+      "text": "想着你的脸 空虚的脸",
+      "translation": null
+    },
+    {
+      "time": 33.239,
+      "time_str": "00:33.239",
+      "text": "麻木的走在崩溃边缘",
+      "translation": null
+    },
+    {
+      "time": 39.5,
+      "time_str": "00:39.500",
+      "text": "我需要可以 流泪的花园",
+      "translation": null
+    },
+    {
+      "time": 45.199,
+      "time_str": "00:45.199",
+      "text": "灌溉这朵枯萎的诺言",
+      "translation": null
+    },
+    {
+      "time": 50.669,
+      "time_str": "00:50.669",
+      "text": "最心爱的情人 却伤害我最深",
+      "translation": null
+    },
+    {
+      "time": 56.69,
+      "time_str": "00:56.690",
+      "text": "为什么你背着我爱别人",
+      "translation": null
+    },
+    {
+      "time": 63.269,
+      "time_str": "01:03.269",
+      "text": "女人天真的眼神 藏着冷酷的针",
+      "translation": null
+    },
+    {
+      "time": 69.27,
+      "time_str": "01:09.270",
+      "text": "人生看不清却奢望永恒",
+      "translation": null
+    },
+    {
+      "time": 75.14,
+      "time_str": "01:15.140",
+      "text": "哦 软弱的灵魂 已陷入太深",
+      "translation": null
+    },
+    {
+      "time": 81.11,
+      "time_str": "01:21.110",
+      "text": "为什么你背着我爱别人",
+      "translation": null
+    },
+    {
+      "time": 87.74,
+      "time_str": "01:27.740",
+      "text": "早已冷却的吻 藏在心中加温",
+      "translation": null
+    },
+    {
+      "time": 93.649,
+      "time_str": "01:33.649",
+      "text": "爱情充满残忍 我却太认真",
+      "translation": null
+    },
+    {
+      "time": 100.8,
+      "time_str": "01:40.800",
+      "text": "爱 一层层 被撕裂",
+      "translation": null
+    },
+    {
+      "time": 122.25,
+      "time_str": "02:02.250",
+      "text": "想着你的脸 空虚的脸",
+      "translation": null
+    },
+    {
+      "time": 128.67,
+      "time_str": "02:08.670",
+      "text": "麻木的走在崩溃边缘",
+      "translation": null
+    },
+    {
+      "time": 134.86,
+      "time_str": "02:14.860",
+      "text": "我需要可以 流泪的花园",
+      "translation": null
+    },
+    {
+      "time": 140.7,
+      "time_str": "02:20.700",
+      "text": "灌溉这朵枯萎的诺言",
+      "translation": null
+    },
+    {
+      "time": 146.5,
+      "time_str": "02:26.500",
+      "text": "最心爱的情人 却伤害我最深",
+      "translation": null
+    },
+    {
+      "time": 152.29,
+      "time_str": "02:32.290",
+      "text": "为什么你背着我爱别人",
+      "translation": null
+    },
+    {
+      "time": 158.55,
+      "time_str": "02:38.550",
+      "text": "女人天真的眼神 藏着冷酷的针",
+      "translation": null
+    },
+    {
+      "time": 164.84,
+      "time_str": "02:44.840",
+      "text": "人生看不清却奢望永恒",
+      "translation": null
+    },
+    {
+      "time": 171.1,
+      "time_str": "02:51.100",
+      "text": "哦 软弱的灵魂 已陷入太深",
+      "translation": null
+    },
+    {
+      "time": 177.87,
+      "time_str": "02:57.870",
+      "text": "为什么你背着我爱别人",
+      "translation": null
+    },
+    {
+      "time": 184.2,
+      "time_str": "03:04.200",
+      "text": "早已冷却的吻 藏在心中加温",
+      "translation": null
+    },
+    {
+      "time": 190.4,
+      "time_str": "03:10.400",
+      "text": "爱情充满残忍 我却太认真",
+      "translation": null
+    },
+    {
+      "time": 196.37,
+      "time_str": "03:16.370",
+      "text": "我 一层层 被摧毁 被爱摧毁",
+      "translation": null
+    },
+    {
+      "time": 206.33,
+      "time_str": "03:26.330",
+      "text": "我来不及 找到出口",
+      "translation": null
+    },
+    {
+      "time": 211.529,
+      "time_str": "03:31.529",
+      "text": "最心爱的情人 却伤害我最深",
+      "translation": null
+    },
+    {
+      "time": 217.64,
+      "time_str": "03:37.640",
+      "text": "为什么你背着我爱别人",
+      "translation": null
+    },
+    {
+      "time": 225.1,
+      "time_str": "03:45.100",
+      "text": "女人天真的眼神 藏着冷酷的针",
+      "translation": null
+    },
+    {
+      "time": 230.4,
+      "time_str": "03:50.400",
+      "text": "人生看不清却奢望永恒",
+      "translation": null
+    },
+    {
+      "time": 236.17,
+      "time_str": "03:56.170",
+      "text": "哦 软弱的灵魂 已陷入太深",
+      "translation": null
+    },
+    {
+      "time": 242.7,
+      "time_str": "04:02.700",
+      "text": "为什么你背着我爱别人",
+      "translation": null
+    },
+    {
+      "time": 248.77,
+      "time_str": "04:08.770",
+      "text": "早已冷却的吻 藏在心中加温",
+      "translation": null
+    },
+    {
+      "time": 254.95,
+      "time_str": "04:14.950",
+      "text": "爱情充满残忍 我却太认真",
+      "translation": null
+    },
+    {
+      "time": 261.159,
+      "time_str": "04:21.159",
+      "text": "我 一层层 被摧毁",
+      "translation": null
+    },
+    {
+      "time": 267.87,
+      "time_str": "04:27.870",
+      "text": "狠不下心 向黑夜 说再见",
+      "translation": null
+    },
+    {
+      "time": 284.16,
+      "time_str": "04:44.160",
+      "text": "说再见",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "为什么你背着我爱别人 - 许志安.lrc"
+}

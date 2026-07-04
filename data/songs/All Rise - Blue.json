@@ -1,0 +1,472 @@
+{
+  "title": "All Rise",
+  "title_raw": "All Rise",
+  "version": null,
+  "artist": "Blue",
+  "group_key": "all rise|blue",
+  "writers": {
+    "lyricist": "Mikkel S. Eriksen/Hallgeir Rustan/Tor Erik Hermansen/Daniel Stephens/Samuel Webbe",
+    "composer": "Mikkel S. Eriksen/Hallgeir Rustan/Tor Erik Hermansen/Daniel Stephens/Samuel Webbe",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.652,
+      "time_str": "00:07.652",
+      "text": "Yo, yo",
+      "translation": "哟"
+    },
+    {
+      "time": 8.151,
+      "time_str": "00:08.151",
+      "text": "Yo, yo",
+      "translation": "哟"
+    },
+    {
+      "time": 19.853,
+      "time_str": "00:19.853",
+      "text": "Your honour please",
+      "translation": "法官大人"
+    },
+    {
+      "time": 21.734,
+      "time_str": "00:21.734",
+      "text": "Gotta believe what I say (say)",
+      "translation": "请您务必相信我的话"
+    },
+    {
+      "time": 24.701,
+      "time_str": "00:24.701",
+      "text": "What I will tell (tell)",
+      "translation": "我一一细数"
+    },
+    {
+      "time": 26.534,
+      "time_str": "00:26.534",
+      "text": "Happened just the other day (day)",
+      "translation": "过去发生的一切"
+    },
+    {
+      "time": 29.417,
+      "time_str": "00:29.417",
+      "text": "I must confess (confess)",
+      "translation": "我必须诚实招供"
+    },
+    {
+      "time": 31.507,
+      "time_str": "00:31.507",
+      "text": "'Cos I've had about enough (enough)",
+      "translation": "因为我已经受够"
+    },
+    {
+      "time": 34.468,
+      "time_str": "00:34.468",
+      "text": "I need your help (help)",
+      "translation": "我需要你的帮助"
+    },
+    {
+      "time": 36.219,
+      "time_str": "00:36.219",
+      "text": "Got to make this here thing stop (stop)",
+      "translation": "将事情划上休止符"
+    },
+    {
+      "time": 38.853,
+      "time_str": "00:38.853",
+      "text": "Baby I swear I tell the truth (uhuh)",
+      "translation": "宝贝，我发誓所言千真万确"
+    },
+    {
+      "time": 43.718,
+      "time_str": "00:43.718",
+      "text": "About all the things you used to do (come on)",
+      "translation": "关于你所做过的一切"
+    },
+    {
+      "time": 48.651,
+      "time_str": "00:48.651",
+      "text": "And if you thought you had me fooled (come on)",
+      "translation": "如果你觉得你骗过我"
+    },
+    {
+      "time": 53.687,
+      "time_str": "00:53.687",
+      "text": "I'm tellin' you now objection overruled",
+      "translation": "我会告诉你，反对无效"
+    },
+    {
+      "time": 58.639,
+      "time_str": "00:58.639",
+      "text": "Here we go (oh baby)",
+      "translation": "现在就开始（噢宝贝）"
+    },
+    {
+      "time": 60.087,
+      "time_str": "01:00.087",
+      "text": "One for the money and the free rides",
+      "translation": "第一件，我付出的时间和金钱"
+    },
+    {
+      "time": 62.219,
+      "time_str": "01:02.219",
+      "text": "It's two for the lie that you denied",
+      "translation": "第二件，你矢口否认的谎言"
+    },
+    {
+      "time": 64.57,
+      "time_str": "01:04.570",
+      "text": "All rise (all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 67.037,
+      "time_str": "01:07.037",
+      "text": "All rise (all rise, all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 69.438,
+      "time_str": "01:09.438",
+      "text": "Three for the calls you've been making",
+      "translation": "第三件，你说过的花言巧语"
+    },
+    {
+      "time": 71.954,
+      "time_str": "01:11.954",
+      "text": "It's four for the times you've been faking",
+      "translation": "第四件，你从没有动过真情"
+    },
+    {
+      "time": 74.219,
+      "time_str": "01:14.219",
+      "text": "All rise (I'm gonna tell it to your face)",
+      "translation": "全体肃立（我将当着你的面揭露一切）"
+    },
+    {
+      "time": 76.787,
+      "time_str": "01:16.787",
+      "text": "All rise (I rest my case)",
+      "translation": "全体肃立（我的证词完毕）"
+    },
+    {
+      "time": 83.423,
+      "time_str": "01:23.423",
+      "text": "You're on the stand (stand)",
+      "translation": "你站在审判台上"
+    },
+    {
+      "time": 85.403,
+      "time_str": "01:25.403",
+      "text": "With your back against the wall (wall)",
+      "translation": "你的背倚靠着墙"
+    },
+    {
+      "time": 88.171,
+      "time_str": "01:28.171",
+      "text": "Nowhere to run (run)",
+      "translation": "无处可逃"
+    },
+    {
+      "time": 90.186,
+      "time_str": "01:30.186",
+      "text": "And nobody you can call (call) oh no",
+      "translation": "无人能助"
+    },
+    {
+      "time": 93.37,
+      "time_str": "01:33.370",
+      "text": "I just can't wait (wait)",
+      "translation": "我已迫不及待"
+    },
+    {
+      "time": 95.173,
+      "time_str": "01:35.173",
+      "text": "Now the case is open wide (wide)",
+      "translation": "案件已经明朗"
+    },
+    {
+      "time": 97.937,
+      "time_str": "01:37.937",
+      "text": "You'll try to pray (pray)",
+      "translation": "你试着祈祷（祈祷吧）"
+    },
+    {
+      "time": 100.105,
+      "time_str": "01:40.105",
+      "text": "But the jury will decide (decide)",
+      "translation": "但审判团已经决定（决定吧）"
+    },
+    {
+      "time": 102.504,
+      "time_str": "01:42.504",
+      "text": "Baby I swear I tell the truth (uhuh)",
+      "translation": "宝贝，我发誓所言千真万确（啊哈哈）"
+    },
+    {
+      "time": 107.319,
+      "time_str": "01:47.319",
+      "text": "About all the things you used to do (come on)",
+      "translation": "关于你所做过的一切（来吧）"
+    },
+    {
+      "time": 112.238,
+      "time_str": "01:52.238",
+      "text": "And if you thought you had me fooled (come on)",
+      "translation": "如果你觉得你骗过我（来吧）"
+    },
+    {
+      "time": 117.458,
+      "time_str": "01:57.458",
+      "text": "I'm tellin' you now objection overruled",
+      "translation": "我会告诉你，反对无效"
+    },
+    {
+      "time": 122.492,
+      "time_str": "02:02.492",
+      "text": "（噢，宝贝）",
+      "translation": null
+    },
+    {
+      "time": 123.724,
+      "time_str": "02:03.724",
+      "text": "One for the money and the free rides",
+      "translation": "第一件，我付出的时间和金钱"
+    },
+    {
+      "time": 125.808,
+      "time_str": "02:05.808",
+      "text": "It's two for the lie that you denied",
+      "translation": "第二件，你矢口否认的谎言"
+    },
+    {
+      "time": 128.126,
+      "time_str": "02:08.126",
+      "text": "All rise (all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 133.193,
+      "time_str": "02:13.193",
+      "text": "All rise (all rise, all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 133.662,
+      "time_str": "02:13.662",
+      "text": "Three for the calls you've been making",
+      "translation": "第三件，你说过的花言巧语"
+    },
+    {
+      "time": 135.542,
+      "time_str": "02:15.542",
+      "text": "It's four for the times you've been faking",
+      "translation": "第四件，你从没有动过真情"
+    },
+    {
+      "time": 137.858,
+      "time_str": "02:17.858",
+      "text": "All rise (I'm gonna tell it to your face)",
+      "translation": "全体肃立（我将当着你的面揭露一切）"
+    },
+    {
+      "time": 142.461,
+      "time_str": "02:22.461",
+      "text": "All rise (I rest my case)",
+      "translation": "全体肃立（我的证词完毕）"
+    },
+    {
+      "time": 143.377,
+      "time_str": "02:23.377",
+      "text": "So step back 'cos you don't know this cat",
+      "translation": "所以退后一步，因为你不知道她的本色"
+    },
+    {
+      "time": 145.226,
+      "time_str": "02:25.226",
+      "text": "I know deep down that you don't want me to react",
+      "translation": "我了解最深，你不希望我反应过度"
+    },
+    {
+      "time": 147.659,
+      "time_str": "02:27.659",
+      "text": "I lay low leaving all my options open",
+      "translation": "我会低调行事，以释怀之心面对"
+    },
+    {
+      "time": 149.976,
+      "time_str": "02:29.976",
+      "text": "The decision of the jury has not been spoken",
+      "translation": "陪审团的决定还没有被判决"
+    },
+    {
+      "time": 152.491,
+      "time_str": "02:32.491",
+      "text": "Step in my house you find that your stuff has gone (gone)",
+      "translation": "步入我家门，你会发现属于你的家当全无踪影"
+    },
+    {
+      "time": 154.842,
+      "time_str": "02:34.842",
+      "text": "But in reality to whom does the stuff belong",
+      "translation": "事实上，这些东西又属于谁去拥有"
+    },
+    {
+      "time": 157.275,
+      "time_str": "02:37.275",
+      "text": "I bring you into court to preach my order",
+      "translation": "我向法庭投诉，细说自己的原则"
+    },
+    {
+      "time": 159.758,
+      "time_str": "02:39.758",
+      "text": "And you know that you overstep the border, uhuh",
+      "translation": "你也知道自己早已超越界限"
+    },
+    {
+      "time": 162.376,
+      "time_str": "02:42.376",
+      "text": "One for the money and the free rides",
+      "translation": "第一，我付出的金钱及时间"
+    },
+    {
+      "time": 164.891,
+      "time_str": "02:44.891",
+      "text": "It's two for the lie that you denied",
+      "translation": "第二，你矢口否认的谎言"
+    },
+    {
+      "time": 167.342,
+      "time_str": "02:47.342",
+      "text": "All rise (all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 169.842,
+      "time_str": "02:49.842",
+      "text": "All rise (all rise, all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 172.292,
+      "time_str": "02:52.292",
+      "text": "Three for the calls you've been making",
+      "translation": "第三件，你说过的花言巧语"
+    },
+    {
+      "time": 174.758,
+      "time_str": "02:54.758",
+      "text": "It's four for the times you've been faking",
+      "translation": "第四件，你从没有动过真情"
+    },
+    {
+      "time": 176.974,
+      "time_str": "02:56.974",
+      "text": "All rise (I'm gonna tell it to your face)",
+      "translation": "全体肃立（我将当着你的面揭露一切）"
+    },
+    {
+      "time": 179.842,
+      "time_str": "02:59.842",
+      "text": "All rise",
+      "translation": "全体肃立（我的证词完毕）"
+    },
+    {
+      "time": 182.074,
+      "time_str": "03:02.074",
+      "text": "One for the money and the free rides",
+      "translation": "第一，我付出的金钱及时间"
+    },
+    {
+      "time": 184.491,
+      "time_str": "03:04.491",
+      "text": "It's two for the lie that you denied",
+      "translation": "第二，你矢口否认的谎言"
+    },
+    {
+      "time": 186.805,
+      "time_str": "03:06.805",
+      "text": "All rise (all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 189.342,
+      "time_str": "03:09.342",
+      "text": "All rise (all rise, all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 192.042,
+      "time_str": "03:12.042",
+      "text": "Three for the calls you've been making",
+      "translation": "第三件，你说过的花言巧语"
+    },
+    {
+      "time": 194.292,
+      "time_str": "03:14.292",
+      "text": "It's four for the times you've been faking",
+      "translation": "第四件，你从没有动过真情"
+    },
+    {
+      "time": 196.741,
+      "time_str": "03:16.741",
+      "text": "All rise (I'm gonna tell it to your face)",
+      "translation": "全体肃立（我将当着你的面揭露一切）"
+    },
+    {
+      "time": 199.226,
+      "time_str": "03:19.226",
+      "text": "All rise",
+      "translation": "全体肃立（我的证词完毕）"
+    },
+    {
+      "time": 201.792,
+      "time_str": "03:21.792",
+      "text": "One for the money and the free rides",
+      "translation": "第一，我付出的金钱及时间"
+    },
+    {
+      "time": 204.161,
+      "time_str": "03:24.161",
+      "text": "It's two for the lie that you denied",
+      "translation": "第二，你矢口否认的谎言"
+    },
+    {
+      "time": 206.542,
+      "time_str": "03:26.542",
+      "text": "All rise (all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 208.443,
+      "time_str": "03:28.443",
+      "text": "All rise (all rise, all rise)",
+      "translation": "全体肃立（肃立）"
+    },
+    {
+      "time": 211.391,
+      "time_str": "03:31.391",
+      "text": "Three for the calls you've been making",
+      "translation": "第三件，你说过的花言巧语"
+    },
+    {
+      "time": 213.792,
+      "time_str": "03:33.792",
+      "text": "It's four for the times you've been faking",
+      "translation": "第四件，你从没有动过真情"
+    },
+    {
+      "time": 216.108,
+      "time_str": "03:36.108",
+      "text": "All rise (I'm gonna tell it to your face)",
+      "translation": "全体肃立（我将当着你的面揭露一切）"
+    },
+    {
+      "time": 218.859,
+      "time_str": "03:38.859",
+      "text": "All rise (I rest my case)",
+      "translation": "全体肃立（我的证词完毕）"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "All Rise - Blue.lrc"
+}

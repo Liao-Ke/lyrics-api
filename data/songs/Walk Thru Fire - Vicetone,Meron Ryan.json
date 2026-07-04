@@ -1,0 +1,340 @@
+{
+  "title": "Walk Thru Fire",
+  "title_raw": "Walk Thru Fire",
+  "version": null,
+  "artist": "Vicetone,Meron Ryan",
+  "group_key": "walk thru fire|vicetone,meron ryan",
+  "writers": {
+    "lyricist": "Van Der Voort, Joren Johannes",
+    "composer": "Victor Pool/Justin Gammella/Ruben Christopher den Boer/Meron Mengist/Joren van der Voort",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.52,
+      "time_str": "00:08.520",
+      "text": "Talk to me",
+      "translation": "和我谈谈吧"
+    },
+    {
+      "time": 12.55,
+      "time_str": "00:12.550",
+      "text": "Spill the secrets you've been keeping",
+      "translation": "向我吐露那深藏于你心底的秘密"
+    },
+    {
+      "time": 16.86,
+      "time_str": "00:16.860",
+      "text": "Life cuts deep",
+      "translation": "生活诚然充满坎坷"
+    },
+    {
+      "time": 20.85,
+      "time_str": "00:20.850",
+      "text": "Let me help pick up the pieces",
+      "translation": "但请让我助你重拾信心"
+    },
+    {
+      "time": 24.4,
+      "time_str": "00:24.400",
+      "text": "You're not alone, I'm by your side",
+      "translation": "若我如影随形 你便不会再感孤寂"
+    },
+    {
+      "time": 26.7,
+      "time_str": "00:26.700",
+      "text": "Don't you know, don't you know",
+      "translation": "你知道吗"
+    },
+    {
+      "time": 28.04,
+      "time_str": "00:28.040",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你携手 走过刀山火海"
+    },
+    {
+      "time": 30.08,
+      "time_str": "00:30.080",
+      "text": "I'll walk through fire",
+      "translation": "我愿为你赴汤蹈火"
+    },
+    {
+      "time": 32.62,
+      "time_str": "00:32.620",
+      "text": "No matter what, I'll make it right",
+      "translation": "就算误入歧途 我也会使我们重回正轨"
+    },
+    {
+      "time": 34.95,
+      "time_str": "00:34.950",
+      "text": "Don't you know, don't you know",
+      "translation": "你并不知道我"
+    },
+    {
+      "time": 36.17,
+      "time_str": "00:36.170",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你一同 穿过熊熊烈焰"
+    },
+    {
+      "time": 38.29,
+      "time_str": "00:38.290",
+      "text": "I'll walk through fire",
+      "translation": "我愿为你承受煎熬"
+    },
+    {
+      "time": 40.18,
+      "time_str": "00:40.180",
+      "text": "I'm not an angel, I'm not a saint",
+      "translation": "我并非天使 更非圣人"
+    },
+    {
+      "time": 44.25,
+      "time_str": "00:44.250",
+      "text": "I've been a closed book full of mistakes",
+      "translation": "我曾如一本紧闭的书 晦涩难懂却又荒诞不经"
+    },
+    {
+      "time": 48.39,
+      "time_str": "00:48.390",
+      "text": "But when you're broken, when you're in pain",
+      "translation": "但当你怆然心碎 痛苦不堪之时"
+    },
+    {
+      "time": 52.5,
+      "time_str": "00:52.500",
+      "text": "Oooh, ooh",
+      "translation": null
+    },
+    {
+      "time": 55.88,
+      "time_str": "00:55.880",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你携手 走过刀山火海"
+    },
+    {
+      "time": 64.18,
+      "time_str": "01:04.180",
+      "text": "I'll walk through fire",
+      "translation": "我愿为你赴汤蹈火"
+    },
+    {
+      "time": 68.34,
+      "time_str": "01:08.340",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你一同 穿过熊熊烈焰"
+    },
+    {
+      "time": 72.39,
+      "time_str": "01:12.390",
+      "text": "I'll walk through fire",
+      "translation": "我愿为你承受煎熬"
+    },
+    {
+      "time": 74.79,
+      "time_str": "01:14.790",
+      "text": "You know I",
+      "translation": "你知道吗"
+    },
+    {
+      "time": 78.95,
+      "time_str": "01:18.950",
+      "text": "Don't pretend to be a savior",
+      "translation": "我不会假装自己能够拯救你于水火"
+    },
+    {
+      "time": 82.75,
+      "time_str": "01:22.750",
+      "text": "But let me in, yeah",
+      "translation": "但请让我住进你的心"
+    },
+    {
+      "time": 86.89,
+      "time_str": "01:26.890",
+      "text": "I promise nobody can break us",
+      "translation": "我发誓 没有人能够拆散我们"
+    },
+    {
+      "time": 90.58,
+      "time_str": "01:30.580",
+      "text": "You're not alone, I'm by your side",
+      "translation": "若我如影随形 你便不会再感孤寂"
+    },
+    {
+      "time": 92.89,
+      "time_str": "01:32.890",
+      "text": "Don't you know, don't you know",
+      "translation": "你知道吗"
+    },
+    {
+      "time": 94.19,
+      "time_str": "01:34.190",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你携手 走过刀山火海"
+    },
+    {
+      "time": 96.19,
+      "time_str": "01:36.190",
+      "text": "I'll walk through fire",
+      "translation": "我愿为你赴汤蹈火"
+    },
+    {
+      "time": 98.83,
+      "time_str": "01:38.830",
+      "text": "No matter what, I'll make it right",
+      "translation": "就算误入歧途 我也会使我们重回正轨"
+    },
+    {
+      "time": 101.11,
+      "time_str": "01:41.110",
+      "text": "Don't you know, don't you know",
+      "translation": "你知道吗"
+    },
+    {
+      "time": 102.41,
+      "time_str": "01:42.410",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你一同 穿过熊熊烈焰"
+    },
+    {
+      "time": 104.47,
+      "time_str": "01:44.470",
+      "text": "I'll walk through fire",
+      "translation": "我愿为你承受煎熬"
+    },
+    {
+      "time": 106.33,
+      "time_str": "01:46.330",
+      "text": "I'm not an angel, I'm not a saint",
+      "translation": "我并非守护你的天使 更非普爱众生的圣人"
+    },
+    {
+      "time": 110.43,
+      "time_str": "01:50.430",
+      "text": "I've been a closed book full of mistakes",
+      "translation": "我曾如一本紧闭的书 晦涩难懂却又荒诞不经"
+    },
+    {
+      "time": 114.55,
+      "time_str": "01:54.550",
+      "text": "But when you're broken, when you're in pain",
+      "translation": "但当你怆然心碎 痛苦不堪之时"
+    },
+    {
+      "time": 118.75,
+      "time_str": "01:58.750",
+      "text": "Oooh, ooh",
+      "translation": null
+    },
+    {
+      "time": 122.05,
+      "time_str": "02:02.050",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你携手 走过刀山火海"
+    },
+    {
+      "time": 126.23,
+      "time_str": "02:06.230",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你一同 穿过熊熊烈焰"
+    },
+    {
+      "time": 130.38,
+      "time_str": "02:10.380",
+      "text": "I'll walk through fire",
+      "translation": "我愿为你赴汤蹈火"
+    },
+    {
+      "time": 134.5,
+      "time_str": "02:14.500",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你携手 走过刀山火海"
+    },
+    {
+      "time": 138.63,
+      "time_str": "02:18.630",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你一同 穿过熊熊烈焰"
+    },
+    {
+      "time": 148.52,
+      "time_str": "02:28.520",
+      "text": "You're not alone, I'm by your side",
+      "translation": "若我如影随形 你便不会再感孤寂"
+    },
+    {
+      "time": 150.83,
+      "time_str": "02:30.830",
+      "text": "Don't you know, don't you know",
+      "translation": "你知道吗"
+    },
+    {
+      "time": 152.09,
+      "time_str": "02:32.090",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你携手 走过刀山火海"
+    },
+    {
+      "time": 154.1,
+      "time_str": "02:34.100",
+      "text": "I'll walk through fire",
+      "translation": "我愿与你一同 穿过熊熊烈焰"
+    },
+    {
+      "time": 156.03,
+      "time_str": "02:36.030",
+      "text": "I'm not an angel, I'm not a saint",
+      "translation": "我并非守护你的天使 更非圣人"
+    },
+    {
+      "time": 160.11,
+      "time_str": "02:40.110",
+      "text": "I've been a closed book full of mistakes",
+      "translation": "我曾如一本紧闭的书 晦涩难懂却又荒诞不经"
+    },
+    {
+      "time": 164.23,
+      "time_str": "02:44.230",
+      "text": "But when you're broken, when you're in pain",
+      "translation": "但当你怆然心碎 痛苦不堪之时"
+    },
+    {
+      "time": 168.39,
+      "time_str": "02:48.390",
+      "text": "Oooh, ooh",
+      "translation": null
+    },
+    {
+      "time": 171.79,
+      "time_str": "02:51.790",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你携手 走过刀山火海"
+    },
+    {
+      "time": 175.92,
+      "time_str": "02:55.920",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你一同 穿过熊熊烈焰"
+    },
+    {
+      "time": 180.11,
+      "time_str": "03:00.110",
+      "text": "I'll walk through fire",
+      "translation": "我愿为你赴汤蹈火"
+    },
+    {
+      "time": 184.14,
+      "time_str": "03:04.140",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你携手 走过刀山火海"
+    },
+    {
+      "time": 188.28,
+      "time_str": "03:08.280",
+      "text": "I'll walk through fire with you",
+      "translation": "我愿与你一同 穿过熊熊烈焰"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Walk Thru Fire - Vicetone,Meron Ryan.lrc"
+}

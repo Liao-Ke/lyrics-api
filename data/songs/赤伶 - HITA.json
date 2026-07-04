@@ -1,0 +1,238 @@
+{
+  "title": "赤伶",
+  "title_raw": "赤伶",
+  "version": null,
+  "artist": "HITA",
+  "group_key": "赤伶|hita",
+  "writers": {
+    "lyricist": "清彦",
+    "composer": "李建衡",
+    "arranger": "何天程"
+  },
+  "lyrics": [
+    {
+      "time": 19.5,
+      "time_str": "00:19.500",
+      "text": "文案：清彦",
+      "translation": null
+    },
+    {
+      "time": 21.15,
+      "time_str": "00:21.150",
+      "text": "演唱/和声：HITA",
+      "translation": null
+    },
+    {
+      "time": 22.69,
+      "time_str": "00:22.690",
+      "text": "昆曲念白：朱虹",
+      "translation": null
+    },
+    {
+      "time": 25.91,
+      "time_str": "00:25.910",
+      "text": "二胡：钟意",
+      "translation": null
+    },
+    {
+      "time": 27.35,
+      "time_str": "00:27.350",
+      "text": "笛子：笛呆子囚牛",
+      "translation": null
+    },
+    {
+      "time": 32.24,
+      "time_str": "00:32.240",
+      "text": "戏一折 水袖起落",
+      "translation": null
+    },
+    {
+      "time": 37.98,
+      "time_str": "00:37.980",
+      "text": "唱悲欢唱离合 无关我",
+      "translation": null
+    },
+    {
+      "time": 45.24,
+      "time_str": "00:45.240",
+      "text": "扇开合 锣鼓响又默",
+      "translation": null
+    },
+    {
+      "time": 50.95,
+      "time_str": "00:50.950",
+      "text": "戏中情戏外人 凭谁说",
+      "translation": null
+    },
+    {
+      "time": 57.42,
+      "time_str": "00:57.420",
+      "text": "惯将喜怒哀乐都融入粉墨",
+      "translation": null
+    },
+    {
+      "time": 62.67,
+      "time_str": "01:02.670",
+      "text": "陈词唱穿又如何 白骨青灰皆我",
+      "translation": null
+    },
+    {
+      "time": 70.35,
+      "time_str": "01:10.350",
+      "text": "乱世浮萍忍看烽火燃山河",
+      "translation": null
+    },
+    {
+      "time": 75.55,
+      "time_str": "01:15.550",
+      "text": "位卑未敢忘忧国 哪怕无人知我",
+      "translation": null
+    },
+    {
+      "time": 83.01,
+      "time_str": "01:23.010",
+      "text": "台下人走过 不见旧颜色",
+      "translation": null
+    },
+    {
+      "time": 89.45,
+      "time_str": "01:29.450",
+      "text": "台上人唱着 心碎离别歌",
+      "translation": null
+    },
+    {
+      "time": 95.91,
+      "time_str": "01:35.910",
+      "text": "情字难落墨 她唱须以血来和",
+      "translation": null
+    },
+    {
+      "time": 102.8,
+      "time_str": "01:42.800",
+      "text": "戏幕起 戏幕落 谁是客",
+      "translation": null
+    },
+    {
+      "time": 113.49,
+      "time_str": "01:53.490",
+      "text": "啊……",
+      "translation": null
+    },
+    {
+      "time": 113.97,
+      "time_str": "01:53.970",
+      "text": "（昆曲白）",
+      "translation": null
+    },
+    {
+      "time": 114.6,
+      "time_str": "01:54.600",
+      "text": "李香君：浓情悔认真，回头皆幻景，对面是何人……",
+      "translation": null
+    },
+    {
+      "time": 139.34,
+      "time_str": "02:19.340",
+      "text": "戏一折 水袖起落",
+      "translation": null
+    },
+    {
+      "time": 144.93,
+      "time_str": "02:24.930",
+      "text": "唱悲欢唱离合 无关我",
+      "translation": null
+    },
+    {
+      "time": 152.27,
+      "time_str": "02:32.270",
+      "text": "扇开合 锣鼓响又默",
+      "translation": null
+    },
+    {
+      "time": 157.96,
+      "time_str": "02:37.960",
+      "text": "戏中情戏外人 凭谁说",
+      "translation": null
+    },
+    {
+      "time": 164.37,
+      "time_str": "02:44.370",
+      "text": "惯将喜怒哀乐都藏入粉墨",
+      "translation": null
+    },
+    {
+      "time": 169.66,
+      "time_str": "02:49.660",
+      "text": "陈词唱穿又如何 白骨青灰皆我",
+      "translation": null
+    },
+    {
+      "time": 177.34,
+      "time_str": "02:57.340",
+      "text": "乱世浮萍忍看烽火燃山河",
+      "translation": null
+    },
+    {
+      "time": 182.64,
+      "time_str": "03:02.640",
+      "text": "位卑未敢忘忧国 哪怕无人知我",
+      "translation": null
+    },
+    {
+      "time": 189.98,
+      "time_str": "03:09.980",
+      "text": "台下人走过 不见旧颜色",
+      "translation": null
+    },
+    {
+      "time": 196.52,
+      "time_str": "03:16.520",
+      "text": "台上人唱着 心碎离别歌",
+      "translation": null
+    },
+    {
+      "time": 202.98,
+      "time_str": "03:22.980",
+      "text": "情字难落墨 她唱须以血来和",
+      "translation": null
+    },
+    {
+      "time": 209.82,
+      "time_str": "03:29.820",
+      "text": "戏幕起 戏幕落 终是客",
+      "translation": null
+    },
+    {
+      "time": 218.74,
+      "time_str": "03:38.740",
+      "text": "你方唱罢我登场",
+      "translation": null
+    },
+    {
+      "time": 225.7,
+      "time_str": "03:45.700",
+      "text": "莫嘲风月戏 莫笑人荒唐",
+      "translation": null
+    },
+    {
+      "time": 232.15,
+      "time_str": "03:52.150",
+      "text": "也曾问青黄 也曾铿锵唱兴亡",
+      "translation": null
+    },
+    {
+      "time": 238.98,
+      "time_str": "03:58.980",
+      "text": "道无情 道有情 怎思量",
+      "translation": null
+    },
+    {
+      "time": 248.83,
+      "time_str": "04:08.830",
+      "text": "道无情 道有情 费思量",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "赤伶 - HITA.lrc"
+}

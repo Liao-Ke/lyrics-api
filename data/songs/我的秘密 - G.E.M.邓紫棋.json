@@ -1,0 +1,220 @@
+{
+  "title": "我的秘密",
+  "title_raw": "我的秘密",
+  "version": null,
+  "artist": "G.E.M.邓紫棋",
+  "group_key": "我的秘密|g.e.m.邓紫棋",
+  "writers": {
+    "lyricist": "G.E.M.邓紫棋",
+    "composer": "G.E.M.邓紫棋",
+    "arranger": "Lupo Groinig"
+  },
+  "lyrics": [
+    {
+      "time": 10.17,
+      "time_str": "00:10.170",
+      "text": "最近一直很好心情 不知道什么原因",
+      "translation": null
+    },
+    {
+      "time": 19.36,
+      "time_str": "00:19.360",
+      "text": "我现在这一种心情 我想要唱给你听",
+      "translation": null
+    },
+    {
+      "time": 37.82,
+      "time_str": "00:37.820",
+      "text": "看着窗外的小星星 心里想着我的秘密",
+      "translation": null
+    },
+    {
+      "time": 47.03,
+      "time_str": "00:47.030",
+      "text": "算不算爱我不太确定 我只知道我在想你",
+      "translation": null
+    },
+    {
+      "time": 64.959,
+      "time_str": "01:04.959",
+      "text": "我们之间的距离好像忽远又忽近",
+      "translation": null
+    },
+    {
+      "time": 69.579,
+      "time_str": "01:09.579",
+      "text": "你明明不在我身边我却觉得很亲",
+      "translation": null
+    },
+    {
+      "time": 73.989,
+      "time_str": "01:13.989",
+      "text": "Ha~ 有一种感觉我想说明",
+      "translation": null
+    },
+    {
+      "time": 78.4,
+      "time_str": "01:18.400",
+      "text": "我心里的秘密 是你给的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 83.409,
+      "time_str": "01:23.409",
+      "text": "我们之间的距离好像一点点靠近",
+      "translation": null
+    },
+    {
+      "time": 87.9,
+      "time_str": "01:27.900",
+      "text": "是不是你对我也有一种特殊感情",
+      "translation": null
+    },
+    {
+      "time": 92.22,
+      "time_str": "01:32.220",
+      "text": "Ha~ 我犹豫要不要告诉你",
+      "translation": null
+    },
+    {
+      "time": 96.83,
+      "time_str": "01:36.830",
+      "text": "我心里的秘密 是我好像喜欢了你",
+      "translation": null
+    },
+    {
+      "time": 111.68,
+      "time_str": "01:51.680",
+      "text": "夜里陪着我的声音 就算沙了也动听",
+      "translation": null
+    },
+    {
+      "time": 120.969,
+      "time_str": "02:00.969",
+      "text": "这一种累了的声音 是最温柔的证明",
+      "translation": null
+    },
+    {
+      "time": 130.389,
+      "time_str": "02:10.389",
+      "text": "(你是我 你是我的秘密)",
+      "translation": null
+    },
+    {
+      "time": 138.86,
+      "time_str": "02:18.860",
+      "text": "我们之间的距离好像忽远又忽近",
+      "translation": null
+    },
+    {
+      "time": 144.539,
+      "time_str": "02:24.539",
+      "text": "你明明不在我身边我却觉得很亲",
+      "translation": null
+    },
+    {
+      "time": 147.71,
+      "time_str": "02:27.710",
+      "text": "Ha~ 有一种感觉我想说明",
+      "translation": null
+    },
+    {
+      "time": 152.22,
+      "time_str": "02:32.220",
+      "text": "我心里的秘密 是你给的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 157.229,
+      "time_str": "02:37.229",
+      "text": "我们之间的距离好像一点点靠近",
+      "translation": null
+    },
+    {
+      "time": 161.77,
+      "time_str": "02:41.770",
+      "text": "是不是你对我也有一种特殊感情",
+      "translation": null
+    },
+    {
+      "time": 166.099,
+      "time_str": "02:46.099",
+      "text": "Ha~ 我犹豫要不要告诉你",
+      "translation": null
+    },
+    {
+      "time": 170.71,
+      "time_str": "02:50.710",
+      "text": "我心里的秘密 是我好像喜欢了你",
+      "translation": null
+    },
+    {
+      "time": 184.58,
+      "time_str": "03:04.580",
+      "text": "这模糊的关系 是莫名的美丽",
+      "translation": null
+    },
+    {
+      "time": 194.0,
+      "time_str": "03:14.000",
+      "text": "我们之间的距离好像忽远又忽近",
+      "translation": null
+    },
+    {
+      "time": 198.68,
+      "time_str": "03:18.680",
+      "text": "你明明不在我身边我却觉得很亲",
+      "translation": null
+    },
+    {
+      "time": 203.05,
+      "time_str": "03:23.050",
+      "text": "Ha~ 这一刻我真的想说明",
+      "translation": null
+    },
+    {
+      "time": 207.659,
+      "time_str": "03:27.659",
+      "text": "我心里的秘密 是你给的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 212.5,
+      "time_str": "03:32.500",
+      "text": "我们之间的距离每天一点点靠近",
+      "translation": null
+    },
+    {
+      "time": 217.16,
+      "time_str": "03:37.160",
+      "text": "这是种别人无法理解的特殊感情",
+      "translation": null
+    },
+    {
+      "time": 221.53,
+      "time_str": "03:41.530",
+      "text": "Ha~ 我要让全世界都清晰",
+      "translation": null
+    },
+    {
+      "time": 226.12,
+      "time_str": "03:46.120",
+      "text": "我心里的秘密 是我会一直深爱着你",
+      "translation": null
+    },
+    {
+      "time": 235.069,
+      "time_str": "03:55.069",
+      "text": "深爱着你",
+      "translation": null
+    },
+    {
+      "time": 248.409,
+      "time_str": "04:08.409",
+      "text": "The end~",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我的秘密 - G.E.M.邓紫棋.lrc"
+}

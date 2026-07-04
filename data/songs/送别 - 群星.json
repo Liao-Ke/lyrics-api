@@ -1,0 +1,256 @@
+{
+  "title": "送别",
+  "title_raw": "送别",
+  "version": null,
+  "artist": "群星",
+  "group_key": "送别|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 27.0,
+      "time_str": "00:27.000",
+      "text": "长亭外",
+      "translation": null
+    },
+    {
+      "time": 31.0,
+      "time_str": "00:31.000",
+      "text": "古道边",
+      "translation": null
+    },
+    {
+      "time": 34.0,
+      "time_str": "00:34.000",
+      "text": "芳草碧连天",
+      "translation": null
+    },
+    {
+      "time": 40.0,
+      "time_str": "00:40.000",
+      "text": "晚风拂柳笛声残",
+      "translation": null
+    },
+    {
+      "time": 46.0,
+      "time_str": "00:46.000",
+      "text": "夕阳山外山",
+      "translation": null
+    },
+    {
+      "time": 53.0,
+      "time_str": "00:53.000",
+      "text": "天之涯",
+      "translation": null
+    },
+    {
+      "time": 56.0,
+      "time_str": "00:56.000",
+      "text": "地之角",
+      "translation": null
+    },
+    {
+      "time": 59.0,
+      "time_str": "00:59.000",
+      "text": "知交半零落",
+      "translation": null
+    },
+    {
+      "time": 65.0,
+      "time_str": "01:05.000",
+      "text": "一壶浊酒尽余欢",
+      "translation": null
+    },
+    {
+      "time": 72.0,
+      "time_str": "01:12.000",
+      "text": "今宵别梦寒",
+      "translation": null
+    },
+    {
+      "time": 77.0,
+      "time_str": "01:17.000",
+      "text": "长亭外",
+      "translation": null
+    },
+    {
+      "time": 81.0,
+      "time_str": "01:21.000",
+      "text": "古道边",
+      "translation": null
+    },
+    {
+      "time": 84.0,
+      "time_str": "01:24.000",
+      "text": "芳草碧连天",
+      "translation": null
+    },
+    {
+      "time": 90.0,
+      "time_str": "01:30.000",
+      "text": "晚风拂柳笛声残",
+      "translation": null
+    },
+    {
+      "time": 97.0,
+      "time_str": "01:37.000",
+      "text": "夕阳山外山",
+      "translation": null
+    },
+    {
+      "time": 129.0,
+      "time_str": "02:09.000",
+      "text": "长亭外",
+      "translation": null
+    },
+    {
+      "time": 133.0,
+      "time_str": "02:13.000",
+      "text": "古道边",
+      "translation": null
+    },
+    {
+      "time": 135.0,
+      "time_str": "02:15.000",
+      "text": "芳草碧连天",
+      "translation": null
+    },
+    {
+      "time": 142.0,
+      "time_str": "02:22.000",
+      "text": "晚风拂柳笛声残",
+      "translation": null
+    },
+    {
+      "time": 148.0,
+      "time_str": "02:28.000",
+      "text": "夕阳山外山",
+      "translation": null
+    },
+    {
+      "time": 154.0,
+      "time_str": "02:34.000",
+      "text": "天之涯",
+      "translation": null
+    },
+    {
+      "time": 158.0,
+      "time_str": "02:38.000",
+      "text": "地之角",
+      "translation": null
+    },
+    {
+      "time": 160.0,
+      "time_str": "02:40.000",
+      "text": "知交半零落",
+      "translation": null
+    },
+    {
+      "time": 167.0,
+      "time_str": "02:47.000",
+      "text": "一壶浊酒尽余欢",
+      "translation": null
+    },
+    {
+      "time": 172.0,
+      "time_str": "02:52.000",
+      "text": "今宵别梦寒",
+      "translation": null
+    },
+    {
+      "time": 179.0,
+      "time_str": "02:59.000",
+      "text": "长亭外",
+      "translation": null
+    },
+    {
+      "time": 183.0,
+      "time_str": "03:03.000",
+      "text": "古道边",
+      "translation": null
+    },
+    {
+      "time": 186.0,
+      "time_str": "03:06.000",
+      "text": "芳草碧连天",
+      "translation": null
+    },
+    {
+      "time": 192.0,
+      "time_str": "03:12.000",
+      "text": "晚风拂柳笛声残",
+      "translation": null
+    },
+    {
+      "time": 198.0,
+      "time_str": "03:18.000",
+      "text": "夕阳山外山",
+      "translation": null
+    },
+    {
+      "time": 204.0,
+      "time_str": "03:24.000",
+      "text": "天之涯",
+      "translation": null
+    },
+    {
+      "time": 208.0,
+      "time_str": "03:28.000",
+      "text": "地之角",
+      "translation": null
+    },
+    {
+      "time": 210.0,
+      "time_str": "03:30.000",
+      "text": "知交半零落",
+      "translation": null
+    },
+    {
+      "time": 217.0,
+      "time_str": "03:37.000",
+      "text": "一壶浊酒尽余欢",
+      "translation": null
+    },
+    {
+      "time": 223.0,
+      "time_str": "03:43.000",
+      "text": "今宵别梦寒",
+      "translation": null
+    },
+    {
+      "time": 230.0,
+      "time_str": "03:50.000",
+      "text": "长亭外",
+      "translation": null
+    },
+    {
+      "time": 233.0,
+      "time_str": "03:53.000",
+      "text": "古道边",
+      "translation": null
+    },
+    {
+      "time": 236.0,
+      "time_str": "03:56.000",
+      "text": "芳草碧连天",
+      "translation": null
+    },
+    {
+      "time": 242.0,
+      "time_str": "04:02.000",
+      "text": "晚风拂柳笛声残",
+      "translation": null
+    },
+    {
+      "time": 248.0,
+      "time_str": "04:08.000",
+      "text": "夕阳山外山",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "送别 - 群星.lrc"
+}

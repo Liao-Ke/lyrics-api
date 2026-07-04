@@ -1,0 +1,352 @@
+{
+  "title": "Send It",
+  "title_raw": "Send It (feat. Rich Homie Quan)",
+  "version": "feat. Rich Homie Quan",
+  "artist": "Austin Mahone,Rich Homie Quan",
+  "group_key": "send it|austin mahone,rich homie quan",
+  "writers": {
+    "lyricist": "Austin Mahone/Brandon Green/Dequantes Devontay Lamar/Robert Villanueva/Felix De Laet/Radboud Miedema/Janick Van De Polder",
+    "composer": "Brandon Green/Joey Lopez/Felix De Laet/Radboud Miedema/Janick Van De Polder",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 5.2,
+      "time_str": "00:05.200",
+      "text": "Send it to my phone send it to my phone",
+      "translation": "把它发送到我的手机里，把它发送到我的手机里。"
+    },
+    {
+      "time": 8.6,
+      "time_str": "00:08.600",
+      "text": "You already know I’ll keep it on the low",
+      "translation": "你知道我将会一直保存它。"
+    },
+    {
+      "time": 11.85,
+      "time_str": "00:11.850",
+      "text": "Baby, you can trust me, promise I'm alone",
+      "translation": "亲爱的，你可以相信我，我保证我是独自一人知道的，"
+    },
+    {
+      "time": 15.09,
+      "time_str": "00:15.090",
+      "text": "I won't tell a soul, send it to my phone",
+      "translation": "我不会告诉任何人，把它发送到我的手机里。"
+    },
+    {
+      "time": 18.36,
+      "time_str": "00:18.360",
+      "text": "Send it to my phone, send it to my phone",
+      "translation": "把它发送到我的手机里，把它发送到我的手机里。"
+    },
+    {
+      "time": 21.6,
+      "time_str": "00:21.600",
+      "text": "You already know I keep it on the low",
+      "translation": "你知道我将会一直保存它。"
+    },
+    {
+      "time": 24.86,
+      "time_str": "00:24.860",
+      "text": "Baby, you can trust me, promise I'm alone",
+      "translation": "亲爱的，你可以相信我，我保证我是独自一人知道的，"
+    },
+    {
+      "time": 28.15,
+      "time_str": "00:28.150",
+      "text": "I won't tell a soul, send it to my phone",
+      "translation": "我不会告诉任何人，把它发送到我的手机里。"
+    },
+    {
+      "time": 31.24,
+      "time_str": "00:31.240",
+      "text": "You took it in the mirror, so I could see it clear",
+      "translation": "你把镜子照向它，所以我可以把它看清楚。"
+    },
+    {
+      "time": 34.67,
+      "time_str": "00:34.670",
+      "text": "Baby have no fear, you know it's stayin' here",
+      "translation": "亲爱的不用怕，你知道它一直在这。"
+    },
+    {
+      "time": 37.78,
+      "time_str": "00:37.780",
+      "text": "I know you wanna share, baby might as well",
+      "translation": "我知道你想分享，亲爱的这也许很好。"
+    },
+    {
+      "time": 41.01,
+      "time_str": "00:41.010",
+      "text": "You know I keep it trill, you know I'd never tell",
+      "translation": "你知道我在保密，你知道我永远不会说出去。"
+    },
+    {
+      "time": 44.7,
+      "time_str": "00:44.700",
+      "text": "I'm sure you took a few, slide me one or two",
+      "translation": "我确信你拍了好几张，在你想做这事的时候。"
+    },
+    {
+      "time": 47.74,
+      "time_str": "00:47.740",
+      "text": "I know when that hotline bling, that can only mean one thing",
+      "translation": "你知道当那电话铃声响起，那只意味着一件事情。"
+    },
+    {
+      "time": 51.0,
+      "time_str": "00:51.000",
+      "text": "You know what I like, I've been waitin' on",
+      "translation": "你知道我喜欢什么，我一直在等待。"
+    },
+    {
+      "time": 54.25,
+      "time_str": "00:54.250",
+      "text": "What's takin' so long? Send it to my phone",
+      "translation": "怎么会这么久呢？把它发送到我的手机里。"
+    },
+    {
+      "time": 57.51,
+      "time_str": "00:57.510",
+      "text": "Send it to my phone, send it to my phone",
+      "translation": "把它发送到我的手机里，把它发送到我的手机里。"
+    },
+    {
+      "time": 60.799,
+      "time_str": "01:00.799",
+      "text": "You already know I keep it on the low",
+      "translation": "你知道我将会一直保存它。"
+    },
+    {
+      "time": 64.09,
+      "time_str": "01:04.090",
+      "text": "Baby, you can trust me, promise I'm alone",
+      "translation": "亲爱的，你可以相信我，我保证我是独自一人知道的，"
+    },
+    {
+      "time": 67.299,
+      "time_str": "01:07.299",
+      "text": "I won't tell a soul, send it to my phone",
+      "translation": "我不会告诉任何人，把它发送到我的手机里。"
+    },
+    {
+      "time": 69.989,
+      "time_str": "01:09.989",
+      "text": "Okay now send it to my phone like a message that's unread",
+      "translation": "好吧，现在发送信息到我的手机里，那会是未读的。"
+    },
+    {
+      "time": 73.879,
+      "time_str": "01:13.879",
+      "text": "Send it to my phone, new nude picture, open leg",
+      "translation": "把它发送到我的手机里，新的裸体图片，打开你的腿。"
+    },
+    {
+      "time": 76.709,
+      "time_str": "01:16.709",
+      "text": "Hope they ready",
+      "translation": "希望他们做好准备。"
+    },
+    {
+      "time": 77.498,
+      "time_str": "01:17.498",
+      "text": "Austin Mahone got 'em motivated",
+      "translation": "Austin Mahone他们是对你抱有目的的。"
+    },
+    {
+      "time": 80.37,
+      "time_str": "01:20.370",
+      "text": "Send it to my phone like a notification",
+      "translation": "像是发通知一样把它发送到我的手机里。"
+    },
+    {
+      "time": 83.65,
+      "time_str": "01:23.650",
+      "text": "Send it to my phone, but my ringer cut off",
+      "translation": "把它发送到我的手机里，这样我的铃声就会切断。"
+    },
+    {
+      "time": 86.498,
+      "time_str": "01:26.498",
+      "text": "I can't leave you alone, even though I'm single and I'm",
+      "translation": "我不能离开你，独自一人，就算我现在单身。"
+    },
+    {
+      "time": 89.718,
+      "time_str": "01:29.718",
+      "text": "Send it to my phone like a message from my BM",
+      "translation": "把它像普通短信一样发送到我的手机里。"
+    },
+    {
+      "time": 93.04,
+      "time_str": "01:33.040",
+      "text": "Notify me on my phone like a message in my DM",
+      "translation": "在手机里通知我，就像一条普通短信。"
+    },
+    {
+      "time": 96.709,
+      "time_str": "01:36.709",
+      "text": "Send it to my phone, send it to my phone",
+      "translation": "把它发送到我的手机里，把它发送到我的手机里。"
+    },
+    {
+      "time": 96.739,
+      "time_str": "01:36.739",
+      "text": "Send it to my phone",
+      "translation": "发送它。"
+    },
+    {
+      "time": 100.0,
+      "time_str": "01:40.000",
+      "text": "You already know I keep it on the low",
+      "translation": "你知道我将会一直保存它。"
+    },
+    {
+      "time": 103.26,
+      "time_str": "01:43.260",
+      "text": "Baby, you can trust me, promise I'm alone",
+      "translation": "亲爱的，你可以相信我，我保证我是独自一人知道的，"
+    },
+    {
+      "time": 106.519,
+      "time_str": "01:46.519",
+      "text": "I won't tell a soul, send it to my phone",
+      "translation": "我不会告诉任何人，把它发送到我的手机里。"
+    },
+    {
+      "time": 109.769,
+      "time_str": "01:49.769",
+      "text": "Send it to my phone, send it to my phone",
+      "translation": "把它发送到我的手机里，把它发送到我的手机里。"
+    },
+    {
+      "time": 113.01,
+      "time_str": "01:53.010",
+      "text": "You already know I keep it on the low",
+      "translation": "你知道我将会一直保存它。"
+    },
+    {
+      "time": 116.31,
+      "time_str": "01:56.310",
+      "text": "Baby, you can trust me, promise I'm alone",
+      "translation": "亲爱的，你可以相信我，我保证我是独自一人知道的，"
+    },
+    {
+      "time": 119.549,
+      "time_str": "01:59.549",
+      "text": "I won't tell a soul, send it to my phone",
+      "translation": "我不会告诉任何人，把它发送到我的手机。"
+    },
+    {
+      "time": 122.84,
+      "time_str": "02:02.840",
+      "text": "Baby what's the move? Don't need no attitude",
+      "translation": "亲爱的你在做什么？不要多想。"
+    },
+    {
+      "time": 126.09,
+      "time_str": "02:06.090",
+      "text": "You know it'll stay between just me and you",
+      "translation": "你知道这件事只有我和你知道。"
+    },
+    {
+      "time": 129.28,
+      "time_str": "02:09.280",
+      "text": "I wanna see already, it's the perfect view",
+      "translation": "我现在很想看，这会是很完美的风景。"
+    },
+    {
+      "time": 132.639,
+      "time_str": "02:12.639",
+      "text": "Tell me if you're leavin', can I have it too?",
+      "translation": "告诉我如果你离开了，我也能拥有它吗？"
+    },
+    {
+      "time": 135.879,
+      "time_str": "02:15.879",
+      "text": "Tell you that I love you, yeah, ain't none above you, yeah",
+      "translation": "我想告诉你，我爱你。耶，没有人能比得上你，耶。"
+    },
+    {
+      "time": 139.5,
+      "time_str": "02:19.500",
+      "text": "I wanna see you, babe",
+      "translation": "我想见你，亲爱的。"
+    },
+    {
+      "time": 140.979,
+      "time_str": "02:20.979",
+      "text": "I promise, baby girl, it'll be our little secret, yeah",
+      "translation": "我保证，我的可爱女孩，那会是个秘密，耶。"
+    },
+    {
+      "time": 144.269,
+      "time_str": "02:24.269",
+      "text": "I'm gonna keep it, yeah",
+      "translation": "我会一直保守秘密，耶。"
+    },
+    {
+      "time": 145.829,
+      "time_str": "02:25.829",
+      "text": "Let no one see it, except for me",
+      "translation": "没有人会看到它，除了我。"
+    },
+    {
+      "time": 148.949,
+      "time_str": "02:28.949",
+      "text": "Send it to my phone, send it to my phone",
+      "translation": "把它发送到我的手机里，把它发送到我的手机里。"
+    },
+    {
+      "time": 152.19,
+      "time_str": "02:32.190",
+      "text": "You already know I keep it on the low",
+      "translation": "你知道我会将会一直保存它。"
+    },
+    {
+      "time": 156.099,
+      "time_str": "02:36.099",
+      "text": "Baby, you can trust me, promise I'm alone",
+      "translation": "亲爱的，你可以相信我，我保证我是独自一人知道的，"
+    },
+    {
+      "time": 158.75,
+      "time_str": "02:38.750",
+      "text": "I won't tell a soul, send it to my phone",
+      "translation": "我不会告诉任何人，把它发送到我的手机里。"
+    },
+    {
+      "time": 162.0,
+      "time_str": "02:42.000",
+      "text": "Send it to my phone, send it to my phone",
+      "translation": "把它发送到我的手机里，把它发送到我的手机里。"
+    },
+    {
+      "time": 165.229,
+      "time_str": "02:45.229",
+      "text": "You already know I keep it on the low",
+      "translation": "你知道我会将会一直保存它。"
+    },
+    {
+      "time": 168.53,
+      "time_str": "02:48.530",
+      "text": "Baby, you can trust me, promise I'm alone",
+      "translation": "亲爱的，你可以相信我，我保证我是独自一人知道的，"
+    },
+    {
+      "time": 171.799,
+      "time_str": "02:51.799",
+      "text": "I won't tell a soul, send it to my phone",
+      "translation": "我不会告诉任何人，把它发送到我的手机里。"
+    },
+    {
+      "time": 175.119,
+      "time_str": "02:55.119",
+      "text": "Send it to my phone",
+      "translation": "把它发送到我的手机里。"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Send It (feat. Rich Homie Quan) - Austin Mahone,Rich Homie Quan.lrc"
+}

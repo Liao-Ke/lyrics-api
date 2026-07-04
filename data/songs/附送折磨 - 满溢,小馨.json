@@ -1,0 +1,310 @@
+{
+  "title": "附送折磨",
+  "title_raw": "附送折磨",
+  "version": null,
+  "artist": "满溢,小馨",
+  "group_key": "附送折磨|满溢,小馨",
+  "writers": {
+    "lyricist": "赵钦",
+    "composer": "覃桢",
+    "arranger": "覃桢"
+  },
+  "lyrics": [
+    {
+      "time": 30.86,
+      "time_str": "00:30.860",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 32.55,
+      "time_str": "00:32.550",
+      "text": "昨天那缠绵",
+      "translation": null
+    },
+    {
+      "time": 35.3,
+      "time_str": "00:35.300",
+      "text": "孤独静静摆一边",
+      "translation": null
+    },
+    {
+      "time": 39.54,
+      "time_str": "00:39.540",
+      "text": "云朵把天空装点",
+      "translation": null
+    },
+    {
+      "time": 42.39,
+      "time_str": "00:42.390",
+      "text": "变幻成你的脸噢",
+      "translation": null
+    },
+    {
+      "time": 46.82,
+      "time_str": "00:46.820",
+      "text": "难道这是失恋",
+      "translation": null
+    },
+    {
+      "time": 49.98,
+      "time_str": "00:49.980",
+      "text": "的确什么都不想干",
+      "translation": null
+    },
+    {
+      "time": 54.63,
+      "time_str": "00:54.630",
+      "text": "懦弱这词太打眼",
+      "translation": null
+    },
+    {
+      "time": 60.69,
+      "time_str": "01:00.690",
+      "text": "一个人走在街头",
+      "translation": null
+    },
+    {
+      "time": 64.17,
+      "time_str": "01:04.170",
+      "text": "想着温柔的某某某",
+      "translation": null
+    },
+    {
+      "time": 67.75,
+      "time_str": "01:07.750",
+      "text": "她还住在这星球",
+      "translation": null
+    },
+    {
+      "time": 70.76,
+      "time_str": "01:10.760",
+      "text": "但我被遗漏",
+      "translation": null
+    },
+    {
+      "time": 73.24,
+      "time_str": "01:13.240",
+      "text": "男：",
+      "translation": null
+    },
+    {
+      "time": 74.76,
+      "time_str": "01:14.760",
+      "text": "你离开了我",
+      "translation": null
+    },
+    {
+      "time": 76.61,
+      "time_str": "01:16.610",
+      "text": "还附送折磨",
+      "translation": null
+    },
+    {
+      "time": 78.44,
+      "time_str": "01:18.440",
+      "text": "只有天晓得我该怎么做",
+      "translation": null
+    },
+    {
+      "time": 82.37,
+      "time_str": "01:22.370",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 82.92,
+      "time_str": "01:22.920",
+      "text": "痴情这种罪过",
+      "translation": null
+    },
+    {
+      "time": 86.7,
+      "time_str": "01:26.700",
+      "text": "我一直都不能挣脱",
+      "translation": null
+    },
+    {
+      "time": 89.47,
+      "time_str": "01:29.470",
+      "text": "男：",
+      "translation": null
+    },
+    {
+      "time": 89.51,
+      "time_str": "01:29.510",
+      "text": "你离开了我还附送折磨",
+      "translation": null
+    },
+    {
+      "time": 93.22,
+      "time_str": "01:33.220",
+      "text": "只有天晓得我该怎么做",
+      "translation": null
+    },
+    {
+      "time": 97.39,
+      "time_str": "01:37.390",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 97.86,
+      "time_str": "01:37.860",
+      "text": "心已不知下落",
+      "translation": null
+    },
+    {
+      "time": 101.06,
+      "time_str": "01:41.060",
+      "text": "怎样找回单纯的我",
+      "translation": null
+    },
+    {
+      "time": 105.71,
+      "time_str": "01:45.710",
+      "text": "倔强的你遇上倔强的我",
+      "translation": null
+    },
+    {
+      "time": 108.48,
+      "time_str": "01:48.480",
+      "text": "矛盾从来没有停止过",
+      "translation": null
+    },
+    {
+      "time": 110.13,
+      "time_str": "01:50.130",
+      "text": "从来没有想象分手的结果",
+      "translation": null
+    },
+    {
+      "time": 112.74,
+      "time_str": "01:52.740",
+      "text": "多想老去还是牵着你的手",
+      "translation": null
+    },
+    {
+      "time": 116.7,
+      "time_str": "01:56.700",
+      "text": "你说愿意为我妥协",
+      "translation": null
+    },
+    {
+      "time": 118.29,
+      "time_str": "01:58.290",
+      "text": "并停留直到生命的最后",
+      "translation": null
+    },
+    {
+      "time": 120.01,
+      "time_str": "02:00.010",
+      "text": "一个人走在街头",
+      "translation": null
+    },
+    {
+      "time": 123.27,
+      "time_str": "02:03.270",
+      "text": "想着温柔的某某某",
+      "translation": null
+    },
+    {
+      "time": 127.0,
+      "time_str": "02:07.000",
+      "text": "她还住在这星球",
+      "translation": null
+    },
+    {
+      "time": 129.77,
+      "time_str": "02:09.770",
+      "text": "但我被遗漏",
+      "translation": null
+    },
+    {
+      "time": 132.11,
+      "time_str": "02:12.110",
+      "text": "男：",
+      "translation": null
+    },
+    {
+      "time": 133.88,
+      "time_str": "02:13.880",
+      "text": "你离开了我 还附送折磨",
+      "translation": null
+    },
+    {
+      "time": 137.44,
+      "time_str": "02:17.440",
+      "text": "只有天晓得我该怎么做",
+      "translation": null
+    },
+    {
+      "time": 141.32,
+      "time_str": "02:21.320",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 142.39,
+      "time_str": "02:22.390",
+      "text": "痴情这种罪过",
+      "translation": null
+    },
+    {
+      "time": 145.87,
+      "time_str": "02:25.870",
+      "text": "我一直都不能挣脱",
+      "translation": null
+    },
+    {
+      "time": 148.33,
+      "time_str": "02:28.330",
+      "text": "男：",
+      "translation": null
+    },
+    {
+      "time": 148.33,
+      "time_str": "02:28.330",
+      "text": "你离开了我还附送折磨",
+      "translation": null
+    },
+    {
+      "time": 152.49,
+      "time_str": "02:32.490",
+      "text": "只有天晓得我该怎么做",
+      "translation": null
+    },
+    {
+      "time": 156.06,
+      "time_str": "02:36.060",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 156.98,
+      "time_str": "02:36.980",
+      "text": "心已不知下落",
+      "translation": null
+    },
+    {
+      "time": 160.51,
+      "time_str": "02:40.510",
+      "text": "怎样找回单纯的我",
+      "translation": null
+    },
+    {
+      "time": 184.2,
+      "time_str": "03:04.200",
+      "text": "混缩：覃桢",
+      "translation": null
+    },
+    {
+      "time": 184.34,
+      "time_str": "03:04.340",
+      "text": "宣发：枫华弦乐",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "附送折磨 - 满溢,小馨.lrc"
+}

@@ -1,0 +1,262 @@
+{
+  "title": "对面的女孩看过来",
+  "title_raw": "对面的女孩看过来",
+  "version": null,
+  "artist": "任贤齐",
+  "group_key": "对面的女孩看过来|任贤齐",
+  "writers": {
+    "lyricist": "阿牛",
+    "composer": "阿牛",
+    "arranger": "许华强"
+  },
+  "lyrics": [
+    {
+      "time": 7.04,
+      "time_str": "00:07.040",
+      "text": "嗯 对面的女孩看过来",
+      "translation": null
+    },
+    {
+      "time": 11.38,
+      "time_str": "00:11.380",
+      "text": "看过来 看过来",
+      "translation": null
+    },
+    {
+      "time": 15.06,
+      "time_str": "00:15.060",
+      "text": "这里的表演很精彩",
+      "translation": null
+    },
+    {
+      "time": 18.67,
+      "time_str": "00:18.670",
+      "text": "请不要假装不理不睬",
+      "translation": null
+    },
+    {
+      "time": 24.37,
+      "time_str": "00:24.370",
+      "text": "对面的女孩看过来",
+      "translation": null
+    },
+    {
+      "time": 27.99,
+      "time_str": "00:27.990",
+      "text": "看过来 看过来",
+      "translation": null
+    },
+    {
+      "time": 31.74,
+      "time_str": "00:31.740",
+      "text": "不要被我的样子吓坏",
+      "translation": null
+    },
+    {
+      "time": 35.33,
+      "time_str": "00:35.330",
+      "text": "其实我很可爱",
+      "translation": null
+    },
+    {
+      "time": 40.91,
+      "time_str": "00:40.910",
+      "text": "寂寞男孩的悲哀",
+      "translation": null
+    },
+    {
+      "time": 44.6,
+      "time_str": "00:44.600",
+      "text": "说出来 谁明白",
+      "translation": null
+    },
+    {
+      "time": 48.26,
+      "time_str": "00:48.260",
+      "text": "求求你抛个媚眼过来",
+      "translation": null
+    },
+    {
+      "time": 51.93,
+      "time_str": "00:51.930",
+      "text": "哄哄我 逗我乐开怀",
+      "translation": null
+    },
+    {
+      "time": 58.15,
+      "time_str": "00:58.150",
+      "text": "嘿嘿嘿",
+      "translation": null
+    },
+    {
+      "time": 59.09,
+      "time_str": "00:59.090",
+      "text": "没人理我 嘿",
+      "translation": null
+    },
+    {
+      "time": 61.21,
+      "time_str": "01:01.210",
+      "text": "我左看右看 上看下看",
+      "translation": null
+    },
+    {
+      "time": 64.93,
+      "time_str": "01:04.930",
+      "text": "原来每个女孩都不简单",
+      "translation": null
+    },
+    {
+      "time": 68.45,
+      "time_str": "01:08.450",
+      "text": "我想了又想 我猜了又猜",
+      "translation": null
+    },
+    {
+      "time": 72.22,
+      "time_str": "01:12.220",
+      "text": "女孩们的心事还真奇怪",
+      "translation": null
+    },
+    {
+      "time": 92.8,
+      "time_str": "01:32.800",
+      "text": "寂寞男孩的苍蝇拍",
+      "translation": null
+    },
+    {
+      "time": 96.31,
+      "time_str": "01:36.310",
+      "text": "左拍拍 右拍拍",
+      "translation": null
+    },
+    {
+      "time": 99.96,
+      "time_str": "01:39.960",
+      "text": "为什么还是没人来爱",
+      "translation": null
+    },
+    {
+      "time": 103.7,
+      "time_str": "01:43.700",
+      "text": "无人问津哪 真无奈",
+      "translation": null
+    },
+    {
+      "time": 109.22,
+      "time_str": "01:49.220",
+      "text": "对面的女孩看过来",
+      "translation": null
+    },
+    {
+      "time": 112.96,
+      "time_str": "01:52.960",
+      "text": "看过来 看过来",
+      "translation": null
+    },
+    {
+      "time": 116.6,
+      "time_str": "01:56.600",
+      "text": "寂寞男孩情窦初开",
+      "translation": null
+    },
+    {
+      "time": 120.26,
+      "time_str": "02:00.260",
+      "text": "需要你给我一点爱",
+      "translation": null
+    },
+    {
+      "time": 125.84,
+      "time_str": "02:05.840",
+      "text": "嗨 嗨",
+      "translation": null
+    },
+    {
+      "time": 129.43,
+      "time_str": "02:09.430",
+      "text": "我左看右看 上看下看",
+      "translation": null
+    },
+    {
+      "time": 133.23,
+      "time_str": "02:13.230",
+      "text": "原来每个女孩都不简单",
+      "translation": null
+    },
+    {
+      "time": 136.78,
+      "time_str": "02:16.780",
+      "text": "我想了又想 我猜了又猜",
+      "translation": null
+    },
+    {
+      "time": 140.52,
+      "time_str": "02:20.520",
+      "text": "女孩们的心事还真奇怪",
+      "translation": null
+    },
+    {
+      "time": 144.26,
+      "time_str": "02:24.260",
+      "text": "我左看右看 上看下看",
+      "translation": null
+    },
+    {
+      "time": 147.97,
+      "time_str": "02:27.970",
+      "text": "原来每个女孩都不简单",
+      "translation": null
+    },
+    {
+      "time": 151.53,
+      "time_str": "02:31.530",
+      "text": "我想了又想 我猜了又猜",
+      "translation": null
+    },
+    {
+      "time": 155.3,
+      "time_str": "02:35.300",
+      "text": "女孩们的心事还真奇怪",
+      "translation": null
+    },
+    {
+      "time": 159.76,
+      "time_str": "02:39.760",
+      "text": "爱真奇怪",
+      "translation": null
+    },
+    {
+      "time": 161.29,
+      "time_str": "02:41.290",
+      "text": "来来来来来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 164.8,
+      "time_str": "02:44.800",
+      "text": "来来来来来来 哦嘿哦",
+      "translation": null
+    },
+    {
+      "time": 168.31,
+      "time_str": "02:48.310",
+      "text": "来来来来来来来来来来来来 来来来来来来来哦",
+      "translation": null
+    },
+    {
+      "time": 178.78,
+      "time_str": "02:58.780",
+      "text": "唉 算了",
+      "translation": null
+    },
+    {
+      "time": 180.6,
+      "time_str": "03:00.600",
+      "text": "回家吧",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "对面的女孩看过来 - 任贤齐.lrc"
+}

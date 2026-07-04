@@ -1,0 +1,190 @@
+{
+  "title": "猪之歌",
+  "title_raw": "猪之歌",
+  "version": null,
+  "artist": "香香",
+  "group_key": "猪之歌|香香",
+  "writers": {
+    "lyricist": "毛慧",
+    "composer": "毛慧",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 27.749,
+      "time_str": "00:27.749",
+      "text": "猪！你的鼻子有两个孔",
+      "translation": null
+    },
+    {
+      "time": 31.499,
+      "time_str": "00:31.499",
+      "text": "感冒时的你还挂着鼻涕牛牛",
+      "translation": null
+    },
+    {
+      "time": 35.078,
+      "time_str": "00:35.078",
+      "text": "猪！你有着黑漆漆的眼",
+      "translation": null
+    },
+    {
+      "time": 38.898,
+      "time_str": "00:38.898",
+      "text": "望呀望呀望也看不到边",
+      "translation": null
+    },
+    {
+      "time": 42.078,
+      "time_str": "00:42.078",
+      "text": "猪！你的耳朵是那么大",
+      "translation": null
+    },
+    {
+      "time": 46.489,
+      "time_str": "00:46.489",
+      "text": "呼扇呼扇也听不到我在骂你傻",
+      "translation": null
+    },
+    {
+      "time": 49.048,
+      "time_str": "00:49.048",
+      "text": "猪！你的尾巴是卷又卷",
+      "translation": null
+    },
+    {
+      "time": 52.118,
+      "time_str": "00:52.118",
+      "text": "原来跑跑跳跳 还离不开它 哦~~~",
+      "translation": null
+    },
+    {
+      "time": 60.789,
+      "time_str": "01:00.789",
+      "text": "猪头猪脑猪身猪尾（yi）巴",
+      "translation": null
+    },
+    {
+      "time": 63.888,
+      "time_str": "01:03.888",
+      "text": "从来不挑食的乖娃娃",
+      "translation": null
+    },
+    {
+      "time": 67.599,
+      "time_str": "01:07.599",
+      "text": "每天睡到日晒三竿后",
+      "translation": null
+    },
+    {
+      "time": 70.268,
+      "time_str": "01:10.268",
+      "text": "从不刷牙 从不打架",
+      "translation": null
+    },
+    {
+      "time": 95.969,
+      "time_str": "01:35.969",
+      "text": "猪！你的肚子是那么鼓",
+      "translation": null
+    },
+    {
+      "time": 100.087,
+      "time_str": "01:40.087",
+      "text": "一看就知道受不了生活的苦",
+      "translation": null
+    },
+    {
+      "time": 103.587,
+      "time_str": "01:43.587",
+      "text": "猪！你的皮肤是那么白",
+      "translation": null
+    },
+    {
+      "time": 106.969,
+      "time_str": "01:46.969",
+      "text": "上辈子一定投在了富贵人家 哦~~~",
+      "translation": null
+    },
+    {
+      "time": 114.699,
+      "time_str": "01:54.699",
+      "text": "传说你的祖先有把钉耙",
+      "translation": null
+    },
+    {
+      "time": 117.878,
+      "time_str": "01:57.878",
+      "text": "算命先生说他命中犯桃花",
+      "translation": null
+    },
+    {
+      "time": 121.788,
+      "time_str": "02:01.788",
+      "text": "见到漂亮姑娘就嘻嘻哈哈",
+      "translation": null
+    },
+    {
+      "time": 124.868,
+      "time_str": "02:04.868",
+      "text": "不会脸红 不会害怕 哦~~~",
+      "translation": null
+    },
+    {
+      "time": 161.129,
+      "time_str": "02:41.129",
+      "text": "猪头猪脑猪身 猪尾（yi）巴",
+      "translation": null
+    },
+    {
+      "time": 164.089,
+      "time_str": "02:44.089",
+      "text": "从来不挑食的乖娃娃",
+      "translation": null
+    },
+    {
+      "time": 168.01,
+      "time_str": "02:48.010",
+      "text": "每天睡到日晒三竿后",
+      "translation": null
+    },
+    {
+      "time": 171.07,
+      "time_str": "02:51.070",
+      "text": "从不刷牙 从不打架 哦~~~",
+      "translation": null
+    },
+    {
+      "time": 179.2,
+      "time_str": "02:59.200",
+      "text": "传说你的祖先有把钉耙",
+      "translation": null
+    },
+    {
+      "time": 182.49,
+      "time_str": "03:02.490",
+      "text": "算命先生说他命中犯桃花",
+      "translation": null
+    },
+    {
+      "time": 185.899,
+      "time_str": "03:05.899",
+      "text": "见到漂亮姑娘就嘻嘻哈哈",
+      "translation": null
+    },
+    {
+      "time": 189.49,
+      "time_str": "03:09.490",
+      "text": "不会脸红 不会害怕",
+      "translation": null
+    },
+    {
+      "time": 192.219,
+      "time_str": "03:12.219",
+      "text": "你很像他",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "猪之歌 - 香香.lrc"
+}

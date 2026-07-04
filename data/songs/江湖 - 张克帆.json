@@ -1,0 +1,94 @@
+{
+  "title": "江湖",
+  "title_raw": "江湖",
+  "version": null,
+  "artist": "张克帆",
+  "group_key": "江湖|张克帆",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 5.518,
+      "time_str": "00:05.518",
+      "text": "才洗罢血雨腥风",
+      "translation": null
+    },
+    {
+      "time": 11.819,
+      "time_str": "00:11.819",
+      "text": "又遭遇明枪暗箭",
+      "translation": null
+    },
+    {
+      "time": 17.909,
+      "time_str": "00:17.909",
+      "text": "言不尽爱恨情仇",
+      "translation": null
+    },
+    {
+      "time": 24.111,
+      "time_str": "00:24.111",
+      "text": "刀光剑影撬动江湖天",
+      "translation": null
+    },
+    {
+      "time": 30.409,
+      "time_str": "00:30.409",
+      "text": "为铸就侠肝义胆",
+      "translation": null
+    },
+    {
+      "time": 36.564,
+      "time_str": "00:36.564",
+      "text": "哪儿顾得儿女私情",
+      "translation": null
+    },
+    {
+      "time": 42.756,
+      "time_str": "00:42.756",
+      "text": "有道是热血男儿",
+      "translation": null
+    },
+    {
+      "time": 48.939,
+      "time_str": "00:48.939",
+      "text": "两肋插刀撑起江湖天",
+      "translation": null
+    },
+    {
+      "time": 55.127,
+      "time_str": "00:55.127",
+      "text": "一身侠骨遮不住",
+      "translation": null
+    },
+    {
+      "time": 61.252,
+      "time_str": "01:01.252",
+      "text": "一腔柔情",
+      "translation": null
+    },
+    {
+      "time": 67.502,
+      "time_str": "01:07.502",
+      "text": "抹去血痕擦干泪眼",
+      "translation": null
+    },
+    {
+      "time": 73.783,
+      "time_str": "01:13.783",
+      "text": "坎坷江湖路",
+      "translation": null
+    },
+    {
+      "time": 77.286,
+      "time_str": "01:17.286",
+      "text": "不回头只向前",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "江湖 - 张克帆.lrc"
+}

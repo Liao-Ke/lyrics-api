@@ -1,0 +1,346 @@
+{
+  "title": "山丘",
+  "title_raw": "山丘",
+  "version": null,
+  "artist": "李宗盛",
+  "group_key": "山丘|李宗盛",
+  "writers": {
+    "lyricist": "李宗盛",
+    "composer": "李宗盛",
+    "arranger": "李宗盛/Mac Chew"
+  },
+  "lyrics": [
+    {
+      "time": 19.43,
+      "time_str": "00:19.430",
+      "text": "想说却还没说的 还很多",
+      "translation": null
+    },
+    {
+      "time": 29.26,
+      "time_str": "00:29.260",
+      "text": "攒着是因为想写成歌",
+      "translation": null
+    },
+    {
+      "time": 33.73,
+      "time_str": "00:33.730",
+      "text": "让人轻轻地唱着 淡淡地记着",
+      "translation": null
+    },
+    {
+      "time": 40.88,
+      "time_str": "00:40.880",
+      "text": "就算终于忘了 也值了",
+      "translation": null
+    },
+    {
+      "time": 49.72,
+      "time_str": "00:49.720",
+      "text": "说不定我一生涓滴意念",
+      "translation": null
+    },
+    {
+      "time": 54.05,
+      "time_str": "00:54.050",
+      "text": "侥幸汇成河",
+      "translation": null
+    },
+    {
+      "time": 59.94,
+      "time_str": "00:59.940",
+      "text": "然后我俩各自一端",
+      "translation": null
+    },
+    {
+      "time": 64.12,
+      "time_str": "01:04.120",
+      "text": "望着大河弯弯 终于敢放胆",
+      "translation": null
+    },
+    {
+      "time": 71.35,
+      "time_str": "01:11.350",
+      "text": "嘻皮笑脸 面对 人生的难",
+      "translation": null
+    },
+    {
+      "time": 79.37,
+      "time_str": "01:19.370",
+      "text": "也许我们从未成熟",
+      "translation": null
+    },
+    {
+      "time": 82.16,
+      "time_str": "01:22.160",
+      "text": "还没能晓得 就快要老了",
+      "translation": null
+    },
+    {
+      "time": 85.31,
+      "time_str": "01:25.310",
+      "text": "尽管心里活着的还是那个年轻人",
+      "translation": null
+    },
+    {
+      "time": 92.99,
+      "time_str": "01:32.990",
+      "text": "因为不安而频频回首",
+      "translation": null
+    },
+    {
+      "time": 95.57,
+      "time_str": "01:35.570",
+      "text": "无知地索求 羞耻于求救",
+      "translation": null
+    },
+    {
+      "time": 99.09,
+      "time_str": "01:39.090",
+      "text": "不知疲倦地翻越 每一个山丘",
+      "translation": null
+    },
+    {
+      "time": 105.11,
+      "time_str": "01:45.110",
+      "text": "越过山丘 虽然已白了头",
+      "translation": null
+    },
+    {
+      "time": 111.82,
+      "time_str": "01:51.820",
+      "text": "喋喋不休 时不我予的哀愁",
+      "translation": null
+    },
+    {
+      "time": 119.48,
+      "time_str": "01:59.480",
+      "text": "还未如愿见着不朽",
+      "translation": null
+    },
+    {
+      "time": 122.4,
+      "time_str": "02:02.400",
+      "text": "就把自己先搞丢",
+      "translation": null
+    },
+    {
+      "time": 125.53,
+      "time_str": "02:05.530",
+      "text": "越过山丘 才发现无人等候",
+      "translation": null
+    },
+    {
+      "time": 132.17,
+      "time_str": "02:12.170",
+      "text": "喋喋不休 再也唤不回温柔",
+      "translation": null
+    },
+    {
+      "time": 139.44,
+      "time_str": "02:19.440",
+      "text": "为何记不得上一次是谁给的拥抱",
+      "translation": null
+    },
+    {
+      "time": 145.62,
+      "time_str": "02:25.620",
+      "text": "在什么时候",
+      "translation": null
+    },
+    {
+      "time": 152.13,
+      "time_str": "02:32.130",
+      "text": "我没有刻意隐藏 也无意让你感伤",
+      "translation": null
+    },
+    {
+      "time": 161.77,
+      "time_str": "02:41.770",
+      "text": "多少次我们无醉不欢",
+      "translation": null
+    },
+    {
+      "time": 166.17,
+      "time_str": "02:46.170",
+      "text": "咒骂人生太短 唏嘘相见恨晚",
+      "translation": null
+    },
+    {
+      "time": 173.18,
+      "time_str": "02:53.180",
+      "text": "让女人把妆哭花了 也不管",
+      "translation": null
+    },
+    {
+      "time": 181.44,
+      "time_str": "03:01.440",
+      "text": "遗憾我们从未成熟",
+      "translation": null
+    },
+    {
+      "time": 184.3,
+      "time_str": "03:04.300",
+      "text": "还没能晓得 就已经老了",
+      "translation": null
+    },
+    {
+      "time": 187.24,
+      "time_str": "03:07.240",
+      "text": "尽力却仍不明白",
+      "translation": null
+    },
+    {
+      "time": 189.32,
+      "time_str": "03:09.320",
+      "text": "身边的年轻人",
+      "translation": null
+    },
+    {
+      "time": 195.13,
+      "time_str": "03:15.130",
+      "text": "给自己随便找个理由",
+      "translation": null
+    },
+    {
+      "time": 197.6,
+      "time_str": "03:17.600",
+      "text": "向情爱的挑逗 命运的左右",
+      "translation": null
+    },
+    {
+      "time": 201.1,
+      "time_str": "03:21.100",
+      "text": "不自量力地还手 直至死方休",
+      "translation": null
+    },
+    {
+      "time": 207.16,
+      "time_str": "03:27.160",
+      "text": "越过山丘 虽然已白了头",
+      "translation": null
+    },
+    {
+      "time": 213.87,
+      "time_str": "03:33.870",
+      "text": "喋喋不休 时不我予的哀愁",
+      "translation": null
+    },
+    {
+      "time": 221.49,
+      "time_str": "03:41.490",
+      "text": "还未如愿见着不朽",
+      "translation": null
+    },
+    {
+      "time": 224.46,
+      "time_str": "03:44.460",
+      "text": "就把自己先搞丢",
+      "translation": null
+    },
+    {
+      "time": 228.11,
+      "time_str": "03:48.110",
+      "text": "越过山丘 才发现无人等候",
+      "translation": null
+    },
+    {
+      "time": 234.32,
+      "time_str": "03:54.320",
+      "text": "喋喋不休 再也唤不回了温柔",
+      "translation": null
+    },
+    {
+      "time": 241.98,
+      "time_str": "04:01.980",
+      "text": "为何记不得上一次是谁给的拥抱",
+      "translation": null
+    },
+    {
+      "time": 248.11,
+      "time_str": "04:08.110",
+      "text": "在什么时候",
+      "translation": null
+    },
+    {
+      "time": 279.04,
+      "time_str": "04:39.040",
+      "text": "越过山丘 虽然已白了头",
+      "translation": null
+    },
+    {
+      "time": 285.58,
+      "time_str": "04:45.580",
+      "text": "喋喋不休 时不我予的哀愁",
+      "translation": null
+    },
+    {
+      "time": 293.18,
+      "time_str": "04:53.180",
+      "text": "还未如愿见着不朽",
+      "translation": null
+    },
+    {
+      "time": 296.15,
+      "time_str": "04:56.150",
+      "text": "就把自己先搞丢",
+      "translation": null
+    },
+    {
+      "time": 299.1,
+      "time_str": "04:59.100",
+      "text": "越过山丘 才发现无人等候",
+      "translation": null
+    },
+    {
+      "time": 305.33,
+      "time_str": "05:05.330",
+      "text": "喋喋不休 再也唤不回了温柔",
+      "translation": null
+    },
+    {
+      "time": 312.97,
+      "time_str": "05:12.970",
+      "text": "为何记不得上一次是谁给的拥抱",
+      "translation": null
+    },
+    {
+      "time": 319.09,
+      "time_str": "05:19.090",
+      "text": "在什么时候",
+      "translation": null
+    },
+    {
+      "time": 323.26,
+      "time_str": "05:23.260",
+      "text": "喋喋不休 时不我予的哀愁",
+      "translation": null
+    },
+    {
+      "time": 327.18,
+      "time_str": "05:27.180",
+      "text": "向情爱的挑逗 命运的左右",
+      "translation": null
+    },
+    {
+      "time": 332.34,
+      "time_str": "05:32.340",
+      "text": "不自量力地还手 直至死方休",
+      "translation": null
+    },
+    {
+      "time": 341.3,
+      "time_str": "05:41.300",
+      "text": "为何记不得上一次是谁给的拥抱",
+      "translation": null
+    },
+    {
+      "time": 345.41,
+      "time_str": "05:45.410",
+      "text": "在什么时候",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "山丘 - 李宗盛.lrc"
+}

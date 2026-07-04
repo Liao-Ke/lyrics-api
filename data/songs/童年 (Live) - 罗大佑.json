@@ -1,0 +1,118 @@
+{
+  "title": "童年",
+  "title_raw": "童年 (Live)",
+  "version": "Live",
+  "artist": "罗大佑",
+  "group_key": "童年|罗大佑",
+  "writers": {
+    "lyricist": "罗大佑",
+    "composer": "罗大佑",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.8,
+      "time_str": "00:08.800",
+      "text": "池塘边的榕树上 知了在声声叫着夏天",
+      "translation": null
+    },
+    {
+      "time": 16.38,
+      "time_str": "00:16.380",
+      "text": "操场边的秋千上 只有蝴蝶停在上面",
+      "translation": null
+    },
+    {
+      "time": 23.87,
+      "time_str": "00:23.870",
+      "text": "黑板上老师的粉笔还在拼命叽叽喳喳写个不停",
+      "translation": null
+    },
+    {
+      "time": 31.48,
+      "time_str": "00:31.480",
+      "text": "等待着下课 等待着放学 等待游戏的童年",
+      "translation": null
+    },
+    {
+      "time": 40.77,
+      "time_str": "00:40.770",
+      "text": "总是要等到睡觉前 才知道功课只做了一点点",
+      "translation": null
+    },
+    {
+      "time": 48.68,
+      "time_str": "00:48.680",
+      "text": "总是要等到考试后 才知道该念的书都没有念",
+      "translation": null
+    },
+    {
+      "time": 56.63,
+      "time_str": "00:56.630",
+      "text": "一寸光阴一寸金 老师说过寸金难买寸光阴",
+      "translation": null
+    },
+    {
+      "time": 64.27,
+      "time_str": "01:04.270",
+      "text": "一天又一天 一年又一年 迷迷糊糊的童年",
+      "translation": null
+    },
+    {
+      "time": 104.45,
+      "time_str": "01:44.450",
+      "text": "没有人知道为什么 太阳总下到山的那一边",
+      "translation": null
+    },
+    {
+      "time": 114.46,
+      "time_str": "01:54.460",
+      "text": "没有人能够告诉我 山里面有没有住着神仙",
+      "translation": null
+    },
+    {
+      "time": 121.94,
+      "time_str": "02:01.940",
+      "text": "多少的日子里总是 一个人面对着天空发呆",
+      "translation": null
+    },
+    {
+      "time": 129.84,
+      "time_str": "02:09.840",
+      "text": "就这么好奇 就这么幻想 这么孤单的童年",
+      "translation": null
+    },
+    {
+      "time": 139.27,
+      "time_str": "02:19.270",
+      "text": "阳光下蜻蜓飞过来 一片片绿油油的稻田",
+      "translation": null
+    },
+    {
+      "time": 146.99,
+      "time_str": "02:26.990",
+      "text": "水彩蜡笔和万花筒 画不出天边的一条彩虹",
+      "translation": null
+    },
+    {
+      "time": 154.3,
+      "time_str": "02:34.300",
+      "text": "什么时候才能像高年级的同学有张成熟与长大的脸",
+      "translation": null
+    },
+    {
+      "time": 161.77,
+      "time_str": "02:41.770",
+      "text": "盼望着假期 盼望着明天 盼望长大的童年",
+      "translation": null
+    },
+    {
+      "time": 169.25,
+      "time_str": "02:49.250",
+      "text": "哦 一天又一天 一年又一年 盼望长大的童年",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "童年 (Live) - 罗大佑.lrc"
+}

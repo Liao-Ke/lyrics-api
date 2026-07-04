@@ -1,0 +1,322 @@
+{
+  "title": "张三的歌",
+  "title_raw": "张三的歌",
+  "version": null,
+  "artist": "蔡琴",
+  "group_key": "张三的歌|蔡琴",
+  "writers": {
+    "lyricist": "张子石",
+    "composer": "张子石",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.64,
+      "time_str": "00:09.640",
+      "text": "我要带你到处去飞翔",
+      "translation": null
+    },
+    {
+      "time": 15.85,
+      "time_str": "00:15.850",
+      "text": "走遍世界各地去观赏",
+      "translation": null
+    },
+    {
+      "time": 22.12,
+      "time_str": "00:22.120",
+      "text": "没有烦恼没有那悲伤",
+      "translation": null
+    },
+    {
+      "time": 28.14,
+      "time_str": "00:28.140",
+      "text": "自由自在身心多开朗",
+      "translation": null
+    },
+    {
+      "time": 34.48,
+      "time_str": "00:34.480",
+      "text": "忘掉痛苦忘掉那悲伤",
+      "translation": null
+    },
+    {
+      "time": 40.75,
+      "time_str": "00:40.750",
+      "text": "我们一起启程去流浪",
+      "translation": null
+    },
+    {
+      "time": 46.99,
+      "time_str": "00:46.990",
+      "text": "虽然没有华厦美衣裳",
+      "translation": null
+    },
+    {
+      "time": 53.47,
+      "time_str": "00:53.470",
+      "text": "但是心里充满著希望",
+      "translation": null
+    },
+    {
+      "time": 58.5,
+      "time_str": "00:58.500",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 63.67,
+      "time_str": "01:03.670",
+      "text": "看一看这世界",
+      "translation": null
+    },
+    {
+      "time": 66.82,
+      "time_str": "01:06.820",
+      "text": "并非那么凄凉",
+      "translation": null
+    },
+    {
+      "time": 71.42,
+      "time_str": "01:11.420",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 76.58,
+      "time_str": "01:16.580",
+      "text": "望一望",
+      "translation": null
+    },
+    {
+      "time": 78.17,
+      "time_str": "01:18.170",
+      "text": "这世界还是一片的光亮",
+      "translation": null
+    },
+    {
+      "time": 111.28,
+      "time_str": "01:51.280",
+      "text": "我要带你到处去飞翔",
+      "translation": null
+    },
+    {
+      "time": 117.51,
+      "time_str": "01:57.510",
+      "text": "走遍世界各地去观赏",
+      "translation": null
+    },
+    {
+      "time": 123.8,
+      "time_str": "02:03.800",
+      "text": "没有烦恼没有那悲伤",
+      "translation": null
+    },
+    {
+      "time": 130.12,
+      "time_str": "02:10.120",
+      "text": "自由自在身心多开朗",
+      "translation": null
+    },
+    {
+      "time": 136.42,
+      "time_str": "02:16.420",
+      "text": "忘掉痛苦忘掉那悲伤",
+      "translation": null
+    },
+    {
+      "time": 142.75,
+      "time_str": "02:22.750",
+      "text": "我们一起启程去流浪",
+      "translation": null
+    },
+    {
+      "time": 148.98,
+      "time_str": "02:28.980",
+      "text": "虽然没有华厦美衣裳",
+      "translation": null
+    },
+    {
+      "time": 155.31,
+      "time_str": "02:35.310",
+      "text": "但是心里充满著希望",
+      "translation": null
+    },
+    {
+      "time": 160.5,
+      "time_str": "02:40.500",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 165.76,
+      "time_str": "02:45.760",
+      "text": "看一看这世界",
+      "translation": null
+    },
+    {
+      "time": 169.1,
+      "time_str": "02:49.100",
+      "text": "并非那么凄凉",
+      "translation": null
+    },
+    {
+      "time": 173.37,
+      "time_str": "02:53.370",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 178.55,
+      "time_str": "02:58.550",
+      "text": "望一望",
+      "translation": null
+    },
+    {
+      "time": 180.16,
+      "time_str": "03:00.160",
+      "text": "这世界还是一片的光亮",
+      "translation": null
+    },
+    {
+      "time": 186.08,
+      "time_str": "03:06.080",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 191.25,
+      "time_str": "03:11.250",
+      "text": "看一看这世界",
+      "translation": null
+    },
+    {
+      "time": 194.38,
+      "time_str": "03:14.380",
+      "text": "并非那么凄凉",
+      "translation": null
+    },
+    {
+      "time": 198.78,
+      "time_str": "03:18.780",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 203.81,
+      "time_str": "03:23.810",
+      "text": "望一望",
+      "translation": null
+    },
+    {
+      "time": 205.38,
+      "time_str": "03:25.380",
+      "text": "这世界还是一片的光亮",
+      "translation": null
+    },
+    {
+      "time": 211.44,
+      "time_str": "03:31.440",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 216.38,
+      "time_str": "03:36.380",
+      "text": "看一看这世界",
+      "translation": null
+    },
+    {
+      "time": 219.57,
+      "time_str": "03:39.570",
+      "text": "并非那么凄凉",
+      "translation": null
+    },
+    {
+      "time": 224.01,
+      "time_str": "03:44.010",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 229.07,
+      "time_str": "03:49.070",
+      "text": "望一望",
+      "translation": null
+    },
+    {
+      "time": 230.7,
+      "time_str": "03:50.700",
+      "text": "这世界还是一片的光亮",
+      "translation": null
+    },
+    {
+      "time": 237.16,
+      "time_str": "03:57.160",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 241.73,
+      "time_str": "04:01.730",
+      "text": "看一看这世界",
+      "translation": null
+    },
+    {
+      "time": 244.86,
+      "time_str": "04:04.860",
+      "text": "并非那么凄凉",
+      "translation": null
+    },
+    {
+      "time": 249.33,
+      "time_str": "04:09.330",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 254.29,
+      "time_str": "04:14.290",
+      "text": "望一望",
+      "translation": null
+    },
+    {
+      "time": 255.92,
+      "time_str": "04:15.920",
+      "text": "这世界还是一片的光亮",
+      "translation": null
+    },
+    {
+      "time": 262.05,
+      "time_str": "04:22.050",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 266.91,
+      "time_str": "04:26.910",
+      "text": "看一看这世界",
+      "translation": null
+    },
+    {
+      "time": 270.12,
+      "time_str": "04:30.120",
+      "text": "并非那么凄凉",
+      "translation": null
+    },
+    {
+      "time": 274.57,
+      "time_str": "04:34.570",
+      "text": "我们要飞到那遥远地方",
+      "translation": null
+    },
+    {
+      "time": 279.56,
+      "time_str": "04:39.560",
+      "text": "望一望...",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "张三的歌 - 蔡琴.lrc"
+}

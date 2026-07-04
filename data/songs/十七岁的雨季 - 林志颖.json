@@ -1,0 +1,316 @@
+{
+  "title": "十七岁的雨季",
+  "title_raw": "十七岁的雨季",
+  "version": null,
+  "artist": "林志颖",
+  "group_key": "十七岁的雨季|林志颖",
+  "writers": {
+    "lyricist": "潘芳烈",
+    "composer": "潘芳烈",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 38.398,
+      "time_str": "00:38.398",
+      "text": "当我还是小孩子",
+      "translation": null
+    },
+    {
+      "time": 41.398,
+      "time_str": "00:41.398",
+      "text": "门前有许多的茉莉花",
+      "translation": null
+    },
+    {
+      "time": 45.398,
+      "time_str": "00:45.398",
+      "text": "散发着淡淡的清香",
+      "translation": null
+    },
+    {
+      "time": 52.398,
+      "time_str": "00:52.398",
+      "text": "当我渐渐地长大",
+      "translation": null
+    },
+    {
+      "time": 55.398,
+      "time_str": "00:55.398",
+      "text": "门前的那些茉莉花",
+      "translation": null
+    },
+    {
+      "time": 59.398,
+      "time_str": "00:59.398",
+      "text": "已经慢慢地枯萎不再萌芽",
+      "translation": null
+    },
+    {
+      "time": 67.399,
+      "time_str": "01:07.399",
+      "text": "什么样的心情",
+      "translation": null
+    },
+    {
+      "time": 71.399,
+      "time_str": "01:11.399",
+      "text": "什么样的年纪",
+      "translation": null
+    },
+    {
+      "time": 74.399,
+      "time_str": "01:14.399",
+      "text": "什么样的欢愉",
+      "translation": null
+    },
+    {
+      "time": 78.399,
+      "time_str": "01:18.399",
+      "text": "什么样的哭泣",
+      "translation": null
+    },
+    {
+      "time": 85.399,
+      "time_str": "01:25.399",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 88.399,
+      "time_str": "01:28.399",
+      "text": "我们有共同的期许",
+      "translation": null
+    },
+    {
+      "time": 92.399,
+      "time_str": "01:32.399",
+      "text": "也曾经紧紧拥抱在一起",
+      "translation": null
+    },
+    {
+      "time": 99.399,
+      "time_str": "01:39.399",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 102.399,
+      "time_str": "01:42.399",
+      "text": "回忆起童年的点点滴滴",
+      "translation": null
+    },
+    {
+      "time": 106.399,
+      "time_str": "01:46.399",
+      "text": "却发现成长已慢慢接近",
+      "translation": null
+    },
+    {
+      "time": 113.399,
+      "time_str": "01:53.399",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 116.399,
+      "time_str": "01:56.399",
+      "text": "我们有共同的期许",
+      "translation": null
+    },
+    {
+      "time": 120.399,
+      "time_str": "02:00.399",
+      "text": "也曾经紧紧拥抱在一起",
+      "translation": null
+    },
+    {
+      "time": 127.4,
+      "time_str": "02:07.400",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 130.4,
+      "time_str": "02:10.400",
+      "text": "回忆起童年的点点滴滴",
+      "translation": null
+    },
+    {
+      "time": 134.4,
+      "time_str": "02:14.400",
+      "text": "却发现成长已慢慢接近",
+      "translation": null
+    },
+    {
+      "time": 171.4,
+      "time_str": "02:51.400",
+      "text": "当我还是小孩子",
+      "translation": null
+    },
+    {
+      "time": 174.4,
+      "time_str": "02:54.400",
+      "text": "门前有许多的茉莉花",
+      "translation": null
+    },
+    {
+      "time": 178.4,
+      "time_str": "02:58.400",
+      "text": "散发着淡淡的清香",
+      "translation": null
+    },
+    {
+      "time": 185.4,
+      "time_str": "03:05.400",
+      "text": "当我渐渐地长大",
+      "translation": null
+    },
+    {
+      "time": 188.4,
+      "time_str": "03:08.400",
+      "text": "门前的那些茉莉花",
+      "translation": null
+    },
+    {
+      "time": 192.4,
+      "time_str": "03:12.400",
+      "text": "已经慢慢地枯萎不再萌芽",
+      "translation": null
+    },
+    {
+      "time": 200.4,
+      "time_str": "03:20.400",
+      "text": "什么样的心情",
+      "translation": null
+    },
+    {
+      "time": 204.4,
+      "time_str": "03:24.400",
+      "text": "什么样的年纪",
+      "translation": null
+    },
+    {
+      "time": 207.4,
+      "time_str": "03:27.400",
+      "text": "什么样的欢愉",
+      "translation": null
+    },
+    {
+      "time": 211.4,
+      "time_str": "03:31.400",
+      "text": "什么样的哭泣",
+      "translation": null
+    },
+    {
+      "time": 218.4,
+      "time_str": "03:38.400",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 222.4,
+      "time_str": "03:42.400",
+      "text": "我们有共同的期许",
+      "translation": null
+    },
+    {
+      "time": 225.4,
+      "time_str": "03:45.400",
+      "text": "也曾经紧紧拥抱在一起",
+      "translation": null
+    },
+    {
+      "time": 232.4,
+      "time_str": "03:52.400",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 235.4,
+      "time_str": "03:55.400",
+      "text": "回忆起童年的点点滴滴",
+      "translation": null
+    },
+    {
+      "time": 239.4,
+      "time_str": "03:59.400",
+      "text": "却发现成长已慢慢接近",
+      "translation": null
+    },
+    {
+      "time": 246.4,
+      "time_str": "04:06.400",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 250.4,
+      "time_str": "04:10.400",
+      "text": "我们有共同的期许",
+      "translation": null
+    },
+    {
+      "time": 253.4,
+      "time_str": "04:13.400",
+      "text": "也曾经紧紧拥抱在一起",
+      "translation": null
+    },
+    {
+      "time": 260.4,
+      "time_str": "04:20.400",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 263.4,
+      "time_str": "04:23.400",
+      "text": "回忆起童年的点点滴滴",
+      "translation": null
+    },
+    {
+      "time": 267.4,
+      "time_str": "04:27.400",
+      "text": "却发现成长已慢慢接近",
+      "translation": null
+    },
+    {
+      "time": 277.4,
+      "time_str": "04:37.400",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 281.4,
+      "time_str": "04:41.400",
+      "text": "我们有共同的期许",
+      "translation": null
+    },
+    {
+      "time": 284.4,
+      "time_str": "04:44.400",
+      "text": "也曾经紧紧拥抱在一起",
+      "translation": null
+    },
+    {
+      "time": 291.4,
+      "time_str": "04:51.400",
+      "text": "十七岁那年的雨季",
+      "translation": null
+    },
+    {
+      "time": 295.4,
+      "time_str": "04:55.400",
+      "text": "回忆起童年的点点滴滴",
+      "translation": null
+    },
+    {
+      "time": 298.4,
+      "time_str": "04:58.400",
+      "text": "却发现成长已慢慢接近",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "十七岁的雨季 - 林志颖.lrc"
+}

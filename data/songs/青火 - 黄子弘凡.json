@@ -1,0 +1,346 @@
+{
+  "title": "青火",
+  "title_raw": "青火",
+  "version": null,
+  "artist": "黄子弘凡",
+  "group_key": "青火|黄子弘凡",
+  "writers": {
+    "lyricist": "姜华杰/叶怀谦",
+    "composer": "叶怀谦",
+    "arranger": "于韵非"
+  },
+  "lyrics": [
+    {
+      "time": 17.04,
+      "time_str": "00:17.040",
+      "text": "穿过山峰 追过汹涌流",
+      "translation": null
+    },
+    {
+      "time": 23.88,
+      "time_str": "00:23.880",
+      "text": "然后醒来发现世界依旧",
+      "translation": null
+    },
+    {
+      "time": 30.66,
+      "time_str": "00:30.660",
+      "text": "在一遍遍重复的街口",
+      "translation": null
+    },
+    {
+      "time": 36.59,
+      "time_str": "00:36.590",
+      "text": "看每个人 都在找 都在丢",
+      "translation": null
+    },
+    {
+      "time": 43.82,
+      "time_str": "00:43.820",
+      "text": "多少个迷茫的夜晚",
+      "translation": null
+    },
+    {
+      "time": 47.21,
+      "time_str": "00:47.210",
+      "text": "望着宇宙 想着以后",
+      "translation": null
+    },
+    {
+      "time": 50.67,
+      "time_str": "00:50.670",
+      "text": "多少次无谓的羁绊",
+      "translation": null
+    },
+    {
+      "time": 54.0,
+      "time_str": "00:54.000",
+      "text": "不断纠缠",
+      "translation": null
+    },
+    {
+      "time": 57.42,
+      "time_str": "00:57.420",
+      "text": "终于踏上了四海的航船",
+      "translation": null
+    },
+    {
+      "time": 60.9,
+      "time_str": "01:00.900",
+      "text": "作别后各自寻找着",
+      "translation": null
+    },
+    {
+      "time": 64.31,
+      "time_str": "01:04.310",
+      "text": "青春的宝藏",
+      "translation": null
+    },
+    {
+      "time": 66.1,
+      "time_str": "01:06.100",
+      "text": "找到了 是你和我",
+      "translation": null
+    },
+    {
+      "time": 71.11,
+      "time_str": "01:11.110",
+      "text": "看那山河远阔",
+      "translation": null
+    },
+    {
+      "time": 73.76,
+      "time_str": "01:13.760",
+      "text": "听那青火的呐喊",
+      "translation": null
+    },
+    {
+      "time": 78.08,
+      "time_str": "01:18.080",
+      "text": "想要素履以往",
+      "translation": null
+    },
+    {
+      "time": 80.56,
+      "time_str": "01:20.560",
+      "text": "我们总是不甘平凡",
+      "translation": null
+    },
+    {
+      "time": 84.89,
+      "time_str": "01:24.890",
+      "text": "任岁月似水流年",
+      "translation": null
+    },
+    {
+      "time": 88.36,
+      "time_str": "01:28.360",
+      "text": "仍在灯火中看见",
+      "translation": null
+    },
+    {
+      "time": 91.7,
+      "time_str": "01:31.700",
+      "text": "彼此的脸 骄傲的眼",
+      "translation": null
+    },
+    {
+      "time": 95.2,
+      "time_str": "01:35.200",
+      "text": "骄傲的少年",
+      "translation": null
+    },
+    {
+      "time": 126.56,
+      "time_str": "02:06.560",
+      "text": "穿过山峰 追过汹涌流",
+      "translation": null
+    },
+    {
+      "time": 133.53,
+      "time_str": "02:13.530",
+      "text": "终有一天知道这不是梦",
+      "translation": null
+    },
+    {
+      "time": 140.31,
+      "time_str": "02:20.310",
+      "text": "回到那个熟悉的街口",
+      "translation": null
+    },
+    {
+      "time": 146.04,
+      "time_str": "02:26.040",
+      "text": "我们都在找 都在丢 都在停留",
+      "translation": null
+    },
+    {
+      "time": 153.44,
+      "time_str": "02:33.440",
+      "text": "多少个迷茫的夜晚",
+      "translation": null
+    },
+    {
+      "time": 156.92,
+      "time_str": "02:36.920",
+      "text": "望着宇宙 想着以后",
+      "translation": null
+    },
+    {
+      "time": 160.32,
+      "time_str": "02:40.320",
+      "text": "多少次无谓的羁绊",
+      "translation": null
+    },
+    {
+      "time": 163.72,
+      "time_str": "02:43.720",
+      "text": "不断纠缠",
+      "translation": null
+    },
+    {
+      "time": 167.2,
+      "time_str": "02:47.200",
+      "text": "终于踏上了四海的航船",
+      "translation": null
+    },
+    {
+      "time": 170.62,
+      "time_str": "02:50.620",
+      "text": "作别后各自寻找着",
+      "translation": null
+    },
+    {
+      "time": 174.04,
+      "time_str": "02:54.040",
+      "text": "青春的宝藏",
+      "translation": null
+    },
+    {
+      "time": 175.71,
+      "time_str": "02:55.710",
+      "text": "找到了 是你和我",
+      "translation": null
+    },
+    {
+      "time": 180.78,
+      "time_str": "03:00.780",
+      "text": "看那山河远阔",
+      "translation": null
+    },
+    {
+      "time": 183.41,
+      "time_str": "03:03.410",
+      "text": "听那青火的呐喊",
+      "translation": null
+    },
+    {
+      "time": 187.72,
+      "time_str": "03:07.720",
+      "text": "想要素履以往",
+      "translation": null
+    },
+    {
+      "time": 190.32,
+      "time_str": "03:10.320",
+      "text": "我们总是不甘平凡",
+      "translation": null
+    },
+    {
+      "time": 194.55,
+      "time_str": "03:14.550",
+      "text": "任岁月似水流年",
+      "translation": null
+    },
+    {
+      "time": 198.1,
+      "time_str": "03:18.100",
+      "text": "仍在灯火中看见",
+      "translation": null
+    },
+    {
+      "time": 201.5,
+      "time_str": "03:21.500",
+      "text": "彼此的脸 骄傲的眼",
+      "translation": null
+    },
+    {
+      "time": 204.93,
+      "time_str": "03:24.930",
+      "text": "骄傲的少年",
+      "translation": null
+    },
+    {
+      "time": 208.27,
+      "time_str": "03:28.270",
+      "text": "看那山河远阔",
+      "translation": null
+    },
+    {
+      "time": 210.91,
+      "time_str": "03:30.910",
+      "text": "听那青火的呐喊",
+      "translation": null
+    },
+    {
+      "time": 215.15,
+      "time_str": "03:35.150",
+      "text": "想要素履以往",
+      "translation": null
+    },
+    {
+      "time": 217.73,
+      "time_str": "03:37.730",
+      "text": "我们总是不甘平凡",
+      "translation": null
+    },
+    {
+      "time": 221.96,
+      "time_str": "03:41.960",
+      "text": "任岁月似水流年",
+      "translation": null
+    },
+    {
+      "time": 225.45,
+      "time_str": "03:45.450",
+      "text": "仍在灯火中看见",
+      "translation": null
+    },
+    {
+      "time": 232.25,
+      "time_str": "03:52.250",
+      "text": "彼此的脸 骄傲的眼",
+      "translation": null
+    },
+    {
+      "time": 235.83,
+      "time_str": "03:55.830",
+      "text": "骄傲的少年",
+      "translation": null
+    },
+    {
+      "time": 243.22,
+      "time_str": "04:03.220",
+      "text": "穿过山峰 追过汹涌流",
+      "translation": null
+    },
+    {
+      "time": 250.14,
+      "time_str": "04:10.140",
+      "text": "终有一天知道这不是梦",
+      "translation": null
+    },
+    {
+      "time": 256.85,
+      "time_str": "04:16.850",
+      "text": "回到那个熟悉的街口",
+      "translation": null
+    },
+    {
+      "time": 262.82,
+      "time_str": "04:22.820",
+      "text": "我们都在找 都在丢",
+      "translation": null
+    },
+    {
+      "time": 266.39,
+      "time_str": "04:26.390",
+      "text": "都在停留",
+      "translation": null
+    },
+    {
+      "time": 276.34,
+      "time_str": "04:36.340",
+      "text": "弦乐指导：李朋",
+      "translation": null
+    },
+    {
+      "time": 280.04,
+      "time_str": "04:40.040",
+      "text": "母带工程：顾潇予",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "青火 - 黄子弘凡.lrc"
+}

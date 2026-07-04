@@ -1,0 +1,160 @@
+{
+  "title": "情动",
+  "title_raw": "情动",
+  "version": null,
+  "artist": "YEHAIYAHAN",
+  "group_key": "情动|yehaiyahan",
+  "writers": {
+    "lyricist": "汪文伟 (WWW)",
+    "composer": "汪文伟 (WWW)",
+    "arranger": "水晶蝶"
+  },
+  "lyrics": [
+    {
+      "time": 21.91,
+      "time_str": "00:21.910",
+      "text": "眨眼间",
+      "translation": null
+    },
+    {
+      "time": 26.58,
+      "time_str": "00:26.580",
+      "text": "风卷干草帘",
+      "translation": null
+    },
+    {
+      "time": 33.74,
+      "time_str": "00:33.740",
+      "text": "刀光影",
+      "translation": null
+    },
+    {
+      "time": 38.11,
+      "time_str": "00:38.110",
+      "text": "挥舞弹指间",
+      "translation": null
+    },
+    {
+      "time": 45.46,
+      "time_str": "00:45.460",
+      "text": "心飘摇",
+      "translation": null
+    },
+    {
+      "time": 49.89,
+      "time_str": "00:49.890",
+      "text": "朱红轻飞溅",
+      "translation": null
+    },
+    {
+      "time": 57.1,
+      "time_str": "00:57.100",
+      "text": "难入眠",
+      "translation": null
+    },
+    {
+      "time": 60.82,
+      "time_str": "01:00.820",
+      "text": "黑夜漫漫无边",
+      "translation": null
+    },
+    {
+      "time": 68.97,
+      "time_str": "01:08.970",
+      "text": "不是英雄",
+      "translation": null
+    },
+    {
+      "time": 72.56,
+      "time_str": "01:12.560",
+      "text": "你不在我的身边",
+      "translation": null
+    },
+    {
+      "time": 80.52,
+      "time_str": "01:20.520",
+      "text": "走天涯",
+      "translation": null
+    },
+    {
+      "time": 84.26,
+      "time_str": "01:24.260",
+      "text": "一把剑握在手间",
+      "translation": null
+    },
+    {
+      "time": 92.31,
+      "time_str": "01:32.310",
+      "text": "漫漫路",
+      "translation": null
+    },
+    {
+      "time": 95.99,
+      "time_str": "01:35.990",
+      "text": "踏破铁鞋无觅处",
+      "translation": null
+    },
+    {
+      "time": 103.96,
+      "time_str": "01:43.960",
+      "text": "相思苦",
+      "translation": null
+    },
+    {
+      "time": 107.61,
+      "time_str": "01:47.610",
+      "text": "刻骨铭心情不古",
+      "translation": null
+    },
+    {
+      "time": 139.17,
+      "time_str": "02:19.170",
+      "text": "不是英雄",
+      "translation": null
+    },
+    {
+      "time": 142.99,
+      "time_str": "02:22.990",
+      "text": "你不在我的身边",
+      "translation": null
+    },
+    {
+      "time": 150.83,
+      "time_str": "02:30.830",
+      "text": "走天涯",
+      "translation": null
+    },
+    {
+      "time": 154.51,
+      "time_str": "02:34.510",
+      "text": "一把剑握在手间",
+      "translation": null
+    },
+    {
+      "time": 162.51,
+      "time_str": "02:42.510",
+      "text": "漫漫路",
+      "translation": null
+    },
+    {
+      "time": 166.25,
+      "time_str": "02:46.250",
+      "text": "踏破铁鞋无觅处",
+      "translation": null
+    },
+    {
+      "time": 174.22,
+      "time_str": "02:54.220",
+      "text": "相思苦",
+      "translation": null
+    },
+    {
+      "time": 177.91,
+      "time_str": "02:57.910",
+      "text": "刻骨铭心情不古",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情动 - YEHAIYAHAN.lrc"
+}

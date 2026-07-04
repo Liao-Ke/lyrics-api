@@ -1,0 +1,322 @@
+{
+  "title": "逆光",
+  "title_raw": "逆光",
+  "version": null,
+  "artist": "孙燕姿",
+  "group_key": "逆光|孙燕姿",
+  "writers": {
+    "lyricist": "廖莹如",
+    "composer": "李伟菘",
+    "arranger": "Martin Tang"
+  },
+  "lyrics": [
+    {
+      "time": 24.36,
+      "time_str": "00:24.360",
+      "text": "也许我一直害怕有答案",
+      "translation": null
+    },
+    {
+      "time": 29.9,
+      "time_str": "00:29.900",
+      "text": "也许爱静静在风里打转",
+      "translation": null
+    },
+    {
+      "time": 35.69,
+      "time_str": "00:35.690",
+      "text": "离开 释怀 很短暂 又重来",
+      "translation": null
+    },
+    {
+      "time": 41.84,
+      "time_str": "00:41.840",
+      "text": "有时候自问自答",
+      "translation": null
+    },
+    {
+      "time": 46.83,
+      "time_str": "00:46.830",
+      "text": "我不要困难把我们挤散",
+      "translation": null
+    },
+    {
+      "time": 52.34,
+      "time_str": "00:52.340",
+      "text": "我责备自己那么不勇敢",
+      "translation": null
+    },
+    {
+      "time": 57.89,
+      "time_str": "00:57.890",
+      "text": "遗憾没有到达",
+      "translation": null
+    },
+    {
+      "time": 60.7,
+      "time_str": "01:00.700",
+      "text": "拥抱过还是害怕",
+      "translation": null
+    },
+    {
+      "time": 63.44,
+      "time_str": "01:03.440",
+      "text": "用力推开你 我依然留下",
+      "translation": null
+    },
+    {
+      "time": 69.19,
+      "time_str": "01:09.190",
+      "text": "有一束光 那瞬间",
+      "translation": null
+    },
+    {
+      "time": 72.35,
+      "time_str": "01:12.350",
+      "text": "是什么痛得刺眼",
+      "translation": null
+    },
+    {
+      "time": 74.88,
+      "time_str": "01:14.880",
+      "text": "你的视线 是谅解",
+      "translation": null
+    },
+    {
+      "time": 77.69,
+      "time_str": "01:17.690",
+      "text": "为什么舍不得熄灭",
+      "translation": null
+    },
+    {
+      "time": 82.02,
+      "time_str": "01:22.020",
+      "text": "我逆着光 却看见",
+      "translation": null
+    },
+    {
+      "time": 91.06,
+      "time_str": "01:31.060",
+      "text": "那是泪光 那力量",
+      "translation": null
+    },
+    {
+      "time": 94.0,
+      "time_str": "01:34.000",
+      "text": "我不想再去抵挡",
+      "translation": null
+    },
+    {
+      "time": 96.59,
+      "time_str": "01:36.590",
+      "text": "面对希望 逆着光",
+      "translation": null
+    },
+    {
+      "time": 99.56,
+      "time_str": "01:39.560",
+      "text": "感觉爱存在的地方",
+      "translation": null
+    },
+    {
+      "time": 103.69,
+      "time_str": "01:43.690",
+      "text": "一直就在 我身旁",
+      "translation": null
+    },
+    {
+      "time": 124.0,
+      "time_str": "02:04.000",
+      "text": "我不要困难把我们挤散",
+      "translation": null
+    },
+    {
+      "time": 129.16,
+      "time_str": "02:09.160",
+      "text": "我责备自己那么不勇敢",
+      "translation": null
+    },
+    {
+      "time": 134.7,
+      "time_str": "02:14.700",
+      "text": "遗憾没有到达",
+      "translation": null
+    },
+    {
+      "time": 137.29,
+      "time_str": "02:17.290",
+      "text": "拥抱过还是害怕",
+      "translation": null
+    },
+    {
+      "time": 140.13,
+      "time_str": "02:20.130",
+      "text": "用力推开你 我依然留下",
+      "translation": null
+    },
+    {
+      "time": 145.86,
+      "time_str": "02:25.860",
+      "text": "有一束光 那瞬间",
+      "translation": null
+    },
+    {
+      "time": 148.83,
+      "time_str": "02:28.830",
+      "text": "是什么痛得刺眼",
+      "translation": null
+    },
+    {
+      "time": 151.2,
+      "time_str": "02:31.200",
+      "text": "你的视线 是谅解",
+      "translation": null
+    },
+    {
+      "time": 154.16,
+      "time_str": "02:34.160",
+      "text": "为什么舍不得熄灭",
+      "translation": null
+    },
+    {
+      "time": 158.36,
+      "time_str": "02:38.360",
+      "text": "我逆着光 却看见",
+      "translation": null
+    },
+    {
+      "time": 167.54,
+      "time_str": "02:47.540",
+      "text": "那是泪光 那力量",
+      "translation": null
+    },
+    {
+      "time": 170.53,
+      "time_str": "02:50.530",
+      "text": "我不想再去抵挡",
+      "translation": null
+    },
+    {
+      "time": 172.95,
+      "time_str": "02:52.950",
+      "text": "面对希望 逆着光",
+      "translation": null
+    },
+    {
+      "time": 175.93,
+      "time_str": "02:55.930",
+      "text": "感觉爱存在的地方",
+      "translation": null
+    },
+    {
+      "time": 180.1,
+      "time_str": "03:00.100",
+      "text": "一直就在 我身旁",
+      "translation": null
+    },
+    {
+      "time": 188.67,
+      "time_str": "03:08.670",
+      "text": "我以为 我能后退 反复证明",
+      "translation": null
+    },
+    {
+      "time": 194.1,
+      "time_str": "03:14.100",
+      "text": "这份爱 有多不对",
+      "translation": null
+    },
+    {
+      "time": 197.98,
+      "time_str": "03:17.980",
+      "text": "背对着你如此漆黑",
+      "translation": null
+    },
+    {
+      "time": 202.23,
+      "time_str": "03:22.230",
+      "text": "忍住疲惫",
+      "translation": null
+    },
+    {
+      "time": 204.85,
+      "time_str": "03:24.850",
+      "text": "睁开眼 打开窗 才发现 你就是光芒",
+      "translation": null
+    },
+    {
+      "time": 214.03,
+      "time_str": "03:34.030",
+      "text": "有一束光 那瞬间",
+      "translation": null
+    },
+    {
+      "time": 216.93,
+      "time_str": "03:36.930",
+      "text": "是什么痛得刺眼",
+      "translation": null
+    },
+    {
+      "time": 219.4,
+      "time_str": "03:39.400",
+      "text": "你的视线 是谅解",
+      "translation": null
+    },
+    {
+      "time": 222.43,
+      "time_str": "03:42.430",
+      "text": "为什么舍不得熄灭",
+      "translation": null
+    },
+    {
+      "time": 226.55,
+      "time_str": "03:46.550",
+      "text": "我逆着光 却看见",
+      "translation": null
+    },
+    {
+      "time": 235.73,
+      "time_str": "03:55.730",
+      "text": "那是泪光 那力量",
+      "translation": null
+    },
+    {
+      "time": 238.8,
+      "time_str": "03:58.800",
+      "text": "我不想再去抵挡",
+      "translation": null
+    },
+    {
+      "time": 241.13,
+      "time_str": "04:01.130",
+      "text": "面对希望 逆着光",
+      "translation": null
+    },
+    {
+      "time": 244.13,
+      "time_str": "04:04.130",
+      "text": "感觉爱存在的地方",
+      "translation": null
+    },
+    {
+      "time": 248.26,
+      "time_str": "04:08.260",
+      "text": "一直就在 我身旁",
+      "translation": null
+    },
+    {
+      "time": 262.51,
+      "time_str": "04:22.510",
+      "text": "光芒",
+      "translation": null
+    },
+    {
+      "time": 267.67,
+      "time_str": "04:27.670",
+      "text": "你是光芒",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "逆光 - 孙燕姿.lrc"
+}

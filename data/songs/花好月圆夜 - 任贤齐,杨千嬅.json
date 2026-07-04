@@ -1,0 +1,262 @@
+{
+  "title": "花好月圆夜",
+  "title_raw": "花好月圆夜",
+  "version": null,
+  "artist": "任贤齐,杨千嬅",
+  "group_key": "花好月圆夜|任贤齐,杨千嬅",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "任贤齐",
+    "arranger": "伍乐城"
+  },
+  "lyrics": [
+    {
+      "time": 18.91,
+      "time_str": "00:18.910",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 20.18,
+      "time_str": "00:20.180",
+      "text": "情话寄呀寄春意飞呀飞",
+      "translation": null
+    },
+    {
+      "time": 25.11,
+      "time_str": "00:25.110",
+      "text": "谁在跳呀跳",
+      "translation": null
+    },
+    {
+      "time": 27.64,
+      "time_str": "00:27.640",
+      "text": "心也比我厚脸皮",
+      "translation": null
+    },
+    {
+      "time": 30.17,
+      "time_str": "00:30.170",
+      "text": "可惜你呀你",
+      "translation": null
+    },
+    {
+      "time": 32.7,
+      "time_str": "00:32.700",
+      "text": "错不该当我后备",
+      "translation": null
+    },
+    {
+      "time": 35.18,
+      "time_str": "00:35.180",
+      "text": "枉将满月空照你绝美",
+      "translation": null
+    },
+    {
+      "time": 39.18,
+      "time_str": "00:39.180",
+      "text": "男：",
+      "translation": null
+    },
+    {
+      "time": 40.49,
+      "time_str": "00:40.490",
+      "text": "明月美呀美",
+      "translation": null
+    },
+    {
+      "time": 42.86,
+      "time_str": "00:42.860",
+      "text": "只怪花好燕单飞",
+      "translation": null
+    },
+    {
+      "time": 45.35,
+      "time_str": "00:45.350",
+      "text": "谁在唱呀唱",
+      "translation": null
+    },
+    {
+      "time": 47.92,
+      "time_str": "00:47.920",
+      "text": "拂揽春意笑画眉",
+      "translation": null
+    },
+    {
+      "time": 50.4,
+      "time_str": "00:50.400",
+      "text": "最憎你呀你",
+      "translation": null
+    },
+    {
+      "time": 52.98,
+      "time_str": "00:52.980",
+      "text": "错将飞吻接落地",
+      "translation": null
+    },
+    {
+      "time": 55.46,
+      "time_str": "00:55.460",
+      "text": "上青天",
+      "translation": null
+    },
+    {
+      "time": 57.08,
+      "time_str": "00:57.080",
+      "text": "宫阙中点醒你",
+      "translation": null
+    },
+    {
+      "time": 59.08,
+      "time_str": "00:59.080",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 60.418,
+      "time_str": "01:00.418",
+      "text": "凭圆月普照照万里",
+      "translation": null
+    },
+    {
+      "time": 63.037,
+      "time_str": "01:03.037",
+      "text": "一对鸳鸯水里嬉",
+      "translation": null
+    },
+    {
+      "time": 65.718,
+      "time_str": "01:05.718",
+      "text": "圆月高照美上美",
+      "translation": null
+    },
+    {
+      "time": 68.2,
+      "time_str": "01:08.200",
+      "text": "此爱不要实习期",
+      "translation": null
+    },
+    {
+      "time": 70.78,
+      "time_str": "01:10.780",
+      "text": "正等你呀你",
+      "translation": null
+    },
+    {
+      "time": 73.61,
+      "time_str": "01:13.610",
+      "text": "飞天再去遁地",
+      "translation": null
+    },
+    {
+      "time": 75.84,
+      "time_str": "01:15.840",
+      "text": "趁花好圆月弯弯",
+      "translation": null
+    },
+    {
+      "time": 80.14,
+      "time_str": "01:20.140",
+      "text": "不玩把戏",
+      "translation": null
+    },
+    {
+      "time": 86.899,
+      "time_str": "01:26.899",
+      "text": "男：把酒将天问",
+      "translation": null
+    },
+    {
+      "time": 89.378,
+      "time_str": "01:29.378",
+      "text": "女：把酒将天问",
+      "translation": null
+    },
+    {
+      "time": 91.709,
+      "time_str": "01:31.709",
+      "text": "男：花开起风云",
+      "translation": null
+    },
+    {
+      "time": 94.34,
+      "time_str": "01:34.340",
+      "text": "女：花开起风云",
+      "translation": null
+    },
+    {
+      "time": 96.92,
+      "time_str": "01:36.920",
+      "text": "男：何时何地",
+      "translation": null
+    },
+    {
+      "time": 98.23,
+      "time_str": "01:38.230",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 99.23,
+      "time_str": "01:39.230",
+      "text": "抱玉人",
+      "translation": null
+    },
+    {
+      "time": 101.959,
+      "time_str": "01:41.959",
+      "text": "明月枕中印",
+      "translation": null
+    },
+    {
+      "time": 105.95,
+      "time_str": "01:45.950",
+      "text": "凭圆月普照照万里",
+      "translation": null
+    },
+    {
+      "time": 108.83,
+      "time_str": "01:48.830",
+      "text": "一对鸳鸯水里嬉",
+      "translation": null
+    },
+    {
+      "time": 111.41,
+      "time_str": "01:51.410",
+      "text": "圆月高照美上美",
+      "translation": null
+    },
+    {
+      "time": 113.95,
+      "time_str": "01:53.950",
+      "text": "此爱不要实习期",
+      "translation": null
+    },
+    {
+      "time": 116.518,
+      "time_str": "01:56.518",
+      "text": "正等你呀你",
+      "translation": null
+    },
+    {
+      "time": 119.36,
+      "time_str": "01:59.360",
+      "text": "飞天再去遁地",
+      "translation": null
+    },
+    {
+      "time": 121.539,
+      "time_str": "02:01.539",
+      "text": "趁花好圆月弯弯",
+      "translation": null
+    },
+    {
+      "time": 125.789,
+      "time_str": "02:05.789",
+      "text": "不玩把戏",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "花好月圆夜 - 任贤齐,杨千嬅.lrc"
+}

@@ -1,0 +1,172 @@
+{
+  "title": "车站",
+  "title_raw": "车站",
+  "version": null,
+  "artist": "群星",
+  "group_key": "车站|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.0,
+      "time_str": "00:24.000",
+      "text": "火车已经进车站",
+      "translation": null
+    },
+    {
+      "time": 28.66,
+      "time_str": "00:28.660",
+      "text": "我的心里涌悲伤",
+      "translation": null
+    },
+    {
+      "time": 33.24,
+      "time_str": "00:33.240",
+      "text": "汽笛声音已渐渐响",
+      "translation": null
+    },
+    {
+      "time": 37.89,
+      "time_str": "00:37.890",
+      "text": "心爱的人要分散",
+      "translation": null
+    },
+    {
+      "time": 45.53,
+      "time_str": "00:45.530",
+      "text": "离别的伤心泪水滴落下",
+      "translation": null
+    },
+    {
+      "time": 54.9,
+      "time_str": "00:54.900",
+      "text": "站台边片片离愁涌入我心上",
+      "translation": null
+    },
+    {
+      "time": 65.93,
+      "time_str": "01:05.930",
+      "text": "火车已经离家乡",
+      "translation": null
+    },
+    {
+      "time": 70.45,
+      "time_str": "01:10.450",
+      "text": "我的眼泪在流淌",
+      "translation": null
+    },
+    {
+      "time": 75.2,
+      "time_str": "01:15.200",
+      "text": "把你牵挂在心肠",
+      "translation": null
+    },
+    {
+      "time": 79.63,
+      "time_str": "01:19.630",
+      "text": "只有梦里再相望",
+      "translation": null
+    },
+    {
+      "time": 106.64,
+      "time_str": "01:46.640",
+      "text": "火车已经进车站",
+      "translation": null
+    },
+    {
+      "time": 110.42,
+      "time_str": "01:50.420",
+      "text": "我的心里涌悲伤",
+      "translation": null
+    },
+    {
+      "time": 115.0,
+      "time_str": "01:55.000",
+      "text": "汽笛声音已渐渐响",
+      "translation": null
+    },
+    {
+      "time": 118.98,
+      "time_str": "01:58.980",
+      "text": "心爱的人要分散",
+      "translation": null
+    },
+    {
+      "time": 127.98,
+      "time_str": "02:07.980",
+      "text": "离别的伤心泪水滴落下",
+      "translation": null
+    },
+    {
+      "time": 135.8,
+      "time_str": "02:15.800",
+      "text": "站台边片片离愁涌入我心上",
+      "translation": null
+    },
+    {
+      "time": 146.58,
+      "time_str": "02:26.580",
+      "text": "火车已经离家乡",
+      "translation": null
+    },
+    {
+      "time": 151.77,
+      "time_str": "02:31.770",
+      "text": "我的眼泪在流淌",
+      "translation": null
+    },
+    {
+      "time": 155.85,
+      "time_str": "02:35.850",
+      "text": "把你牵挂在心肠",
+      "translation": null
+    },
+    {
+      "time": 160.66,
+      "time_str": "02:40.660",
+      "text": "只有梦里再相望",
+      "translation": null
+    },
+    {
+      "time": 168.15,
+      "time_str": "02:48.150",
+      "text": "离别的伤心泪水滴落下",
+      "translation": null
+    },
+    {
+      "time": 179.09,
+      "time_str": "02:59.090",
+      "text": "站台边片片离愁涌入我心上",
+      "translation": null
+    },
+    {
+      "time": 188.41,
+      "time_str": "03:08.410",
+      "text": "火车已经离家乡",
+      "translation": null
+    },
+    {
+      "time": 192.7,
+      "time_str": "03:12.700",
+      "text": "我的眼泪在流淌",
+      "translation": null
+    },
+    {
+      "time": 197.96,
+      "time_str": "03:17.960",
+      "text": "把你牵挂在心肠",
+      "translation": null
+    },
+    {
+      "time": 201.87,
+      "time_str": "03:21.870",
+      "text": "只有梦里再相望",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "车站 - 群星.lrc"
+}

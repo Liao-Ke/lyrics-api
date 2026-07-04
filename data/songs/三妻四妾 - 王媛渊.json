@@ -1,0 +1,256 @@
+{
+  "title": "三妻四妾",
+  "title_raw": "三妻四妾",
+  "version": null,
+  "artist": "王媛渊",
+  "group_key": "三妻四妾|王媛渊",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.81,
+      "time_str": "00:15.810",
+      "text": "你又不在我的身旁",
+      "translation": null
+    },
+    {
+      "time": 20.17,
+      "time_str": "00:20.170",
+      "text": "开水冷却成冰凉",
+      "translation": null
+    },
+    {
+      "time": 24.74,
+      "time_str": "00:24.740",
+      "text": "最近你也有些忙",
+      "translation": null
+    },
+    {
+      "time": 29.19,
+      "time_str": "00:29.190",
+      "text": "疲惫劳累的脸庞",
+      "translation": null
+    },
+    {
+      "time": 33.78,
+      "time_str": "00:33.780",
+      "text": "房间弥漫的香",
+      "translation": null
+    },
+    {
+      "time": 38.33,
+      "time_str": "00:38.330",
+      "text": "陌生的依偎在你身上",
+      "translation": null
+    },
+    {
+      "time": 42.9,
+      "time_str": "00:42.900",
+      "text": "那是你原本的模样",
+      "translation": null
+    },
+    {
+      "time": 47.21,
+      "time_str": "00:47.210",
+      "text": "我知道不该分裂成伤",
+      "translation": null
+    },
+    {
+      "time": 51.08,
+      "time_str": "00:51.080",
+      "text": "你生活在花花世界",
+      "translation": null
+    },
+    {
+      "time": 55.19,
+      "time_str": "00:55.190",
+      "text": "所以可以三妻四妾",
+      "translation": null
+    },
+    {
+      "time": 59.84,
+      "time_str": "00:59.840",
+      "text": "随手复制的体贴",
+      "translation": null
+    },
+    {
+      "time": 64.32,
+      "time_str": "01:04.320",
+      "text": "对几位有过粘贴",
+      "translation": null
+    },
+    {
+      "time": 68.85,
+      "time_str": "01:08.850",
+      "text": "我生活在痴心季节",
+      "translation": null
+    },
+    {
+      "time": 73.32,
+      "time_str": "01:13.320",
+      "text": "感触升温过于热烈",
+      "translation": null
+    },
+    {
+      "time": 77.83,
+      "time_str": "01:17.830",
+      "text": "灼热的伤渗透了心血",
+      "translation": null
+    },
+    {
+      "time": 82.41,
+      "time_str": "01:22.410",
+      "text": "你不辞而别",
+      "translation": null
+    },
+    {
+      "time": 106.32,
+      "time_str": "01:46.320",
+      "text": "你又不在我的身旁",
+      "translation": null
+    },
+    {
+      "time": 110.68,
+      "time_str": "01:50.680",
+      "text": "开水冷却成冰凉",
+      "translation": null
+    },
+    {
+      "time": 115.26,
+      "time_str": "01:55.260",
+      "text": "最近你也有些忙",
+      "translation": null
+    },
+    {
+      "time": 119.74,
+      "time_str": "01:59.740",
+      "text": "疲惫劳累的脸庞",
+      "translation": null
+    },
+    {
+      "time": 124.6,
+      "time_str": "02:04.600",
+      "text": "房间弥漫的香",
+      "translation": null
+    },
+    {
+      "time": 129.44,
+      "time_str": "02:09.440",
+      "text": "陌生的依偎在你身上",
+      "translation": null
+    },
+    {
+      "time": 134.24,
+      "time_str": "02:14.240",
+      "text": "那是你原本的模样",
+      "translation": null
+    },
+    {
+      "time": 138.63,
+      "time_str": "02:18.630",
+      "text": "我知道不该分裂成伤",
+      "translation": null
+    },
+    {
+      "time": 142.32,
+      "time_str": "02:22.320",
+      "text": "你生活在花花世界",
+      "translation": null
+    },
+    {
+      "time": 146.6,
+      "time_str": "02:26.600",
+      "text": "所以可以三妻四妾",
+      "translation": null
+    },
+    {
+      "time": 151.24,
+      "time_str": "02:31.240",
+      "text": "随手复制的体贴",
+      "translation": null
+    },
+    {
+      "time": 155.7,
+      "time_str": "02:35.700",
+      "text": "对几位有过粘贴",
+      "translation": null
+    },
+    {
+      "time": 160.21,
+      "time_str": "02:40.210",
+      "text": "我生活在痴心季节",
+      "translation": null
+    },
+    {
+      "time": 164.78,
+      "time_str": "02:44.780",
+      "text": "感触升温过于热烈",
+      "translation": null
+    },
+    {
+      "time": 169.36,
+      "time_str": "02:49.360",
+      "text": "灼热的伤渗透了心血",
+      "translation": null
+    },
+    {
+      "time": 173.77,
+      "time_str": "02:53.770",
+      "text": "你不辞而别",
+      "translation": null
+    },
+    {
+      "time": 178.43,
+      "time_str": "02:58.430",
+      "text": "你生活在花花世界",
+      "translation": null
+    },
+    {
+      "time": 182.87,
+      "time_str": "03:02.870",
+      "text": "所以可以三妻四妾",
+      "translation": null
+    },
+    {
+      "time": 187.46,
+      "time_str": "03:07.460",
+      "text": "随手复制的体贴",
+      "translation": null
+    },
+    {
+      "time": 191.9,
+      "time_str": "03:11.900",
+      "text": "对几位有过粘贴",
+      "translation": null
+    },
+    {
+      "time": 196.44,
+      "time_str": "03:16.440",
+      "text": "我生活在痴心季节",
+      "translation": null
+    },
+    {
+      "time": 201.01,
+      "time_str": "03:21.010",
+      "text": "感触升温过于热烈",
+      "translation": null
+    },
+    {
+      "time": 205.51,
+      "time_str": "03:25.510",
+      "text": "灼热的伤渗透了心血",
+      "translation": null
+    },
+    {
+      "time": 209.99,
+      "time_str": "03:29.990",
+      "text": "你不辞而别",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "三妻四妾 - 王媛渊.lrc"
+}

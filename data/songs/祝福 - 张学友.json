@@ -1,0 +1,370 @@
+{
+  "title": "祝福",
+  "title_raw": "祝福",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "祝福|张学友",
+  "writers": {
+    "lyricist": "丁晓雯",
+    "composer": "郭子",
+    "arranger": "王豫民"
+  },
+  "lyrics": [
+    {
+      "time": 0.07,
+      "time_str": "00:00.070",
+      "text": "（朋友我永远祝福你",
+      "translation": null
+    },
+    {
+      "time": 7.9,
+      "time_str": "00:07.900",
+      "text": "朋友我永远祝福你",
+      "translation": null
+    },
+    {
+      "time": 15.41,
+      "time_str": "00:15.410",
+      "text": "啊...",
+      "translation": null
+    },
+    {
+      "time": 22.43,
+      "time_str": "00:22.430",
+      "text": "朋友我永远祝福你）",
+      "translation": null
+    },
+    {
+      "time": 29.174,
+      "time_str": "00:29.174",
+      "text": "不要问",
+      "translation": null
+    },
+    {
+      "time": 30.94,
+      "time_str": "00:30.940",
+      "text": "不要说",
+      "translation": null
+    },
+    {
+      "time": 32.421,
+      "time_str": "00:32.421",
+      "text": "一切尽在不言中",
+      "translation": null
+    },
+    {
+      "time": 35.93,
+      "time_str": "00:35.930",
+      "text": "这一刻",
+      "translation": null
+    },
+    {
+      "time": 37.373,
+      "time_str": "00:37.373",
+      "text": "偎着烛光让我们静静的渡过",
+      "translation": null
+    },
+    {
+      "time": 42.323,
+      "time_str": "00:42.323",
+      "text": "莫挥手",
+      "translation": null
+    },
+    {
+      "time": 43.924,
+      "time_str": "00:43.924",
+      "text": "莫回头",
+      "translation": null
+    },
+    {
+      "time": 45.524,
+      "time_str": "00:45.524",
+      "text": "当我唱起这首歌",
+      "translation": null
+    },
+    {
+      "time": 48.824,
+      "time_str": "00:48.824",
+      "text": "怕只怕泪水轻轻的滑落",
+      "translation": null
+    },
+    {
+      "time": 55.424,
+      "time_str": "00:55.424",
+      "text": "愿心中",
+      "translation": null
+    },
+    {
+      "time": 57.074,
+      "time_str": "00:57.074",
+      "text": "永远留着我的笑容",
+      "translation": null
+    },
+    {
+      "time": 62.124,
+      "time_str": "01:02.124",
+      "text": "伴你走过每一个春夏秋冬",
+      "translation": null
+    },
+    {
+      "time": 68.843,
+      "time_str": "01:08.843",
+      "text": "几许愁",
+      "translation": null
+    },
+    {
+      "time": 70.442,
+      "time_str": "01:10.442",
+      "text": "几许忧",
+      "translation": null
+    },
+    {
+      "time": 72.043,
+      "time_str": "01:12.043",
+      "text": "人生难免苦与痛",
+      "translation": null
+    },
+    {
+      "time": 75.343,
+      "time_str": "01:15.343",
+      "text": "失去过",
+      "translation": null
+    },
+    {
+      "time": 77.044,
+      "time_str": "01:17.044",
+      "text": "才能真正懂得去珍惜和拥有",
+      "translation": null
+    },
+    {
+      "time": 81.945,
+      "time_str": "01:21.945",
+      "text": "情难舍",
+      "translation": null
+    },
+    {
+      "time": 83.544,
+      "time_str": "01:23.544",
+      "text": "人难留",
+      "translation": null
+    },
+    {
+      "time": 85.144,
+      "time_str": "01:25.144",
+      "text": "今朝一别各西东",
+      "translation": null
+    },
+    {
+      "time": 88.444,
+      "time_str": "01:28.444",
+      "text": "冷和热点点滴滴在心头",
+      "translation": null
+    },
+    {
+      "time": 95.195,
+      "time_str": "01:35.195",
+      "text": "愿心中永远留着我的笑容",
+      "translation": null
+    },
+    {
+      "time": 102.66,
+      "time_str": "01:42.660",
+      "text": "伴你走过每一个春夏秋冬",
+      "translation": null
+    },
+    {
+      "time": 108.442,
+      "time_str": "01:48.442",
+      "text": "伤离别",
+      "translation": null
+    },
+    {
+      "time": 111.994,
+      "time_str": "01:51.994",
+      "text": "离别虽然在眼前",
+      "translation": null
+    },
+    {
+      "time": 115.193,
+      "time_str": "01:55.193",
+      "text": "说再见",
+      "translation": null
+    },
+    {
+      "time": 118.444,
+      "time_str": "01:58.444",
+      "text": "再见不会太遥远",
+      "translation": null
+    },
+    {
+      "time": 122.13,
+      "time_str": "02:02.130",
+      "text": "若有缘有缘就能期待明天",
+      "translation": null
+    },
+    {
+      "time": 128.445,
+      "time_str": "02:08.445",
+      "text": "你和我重逢在灿烂的季节",
+      "translation": null
+    },
+    {
+      "time": 168.521,
+      "time_str": "02:48.521",
+      "text": "伤离别",
+      "translation": null
+    },
+    {
+      "time": 171.9,
+      "time_str": "02:51.900",
+      "text": "离别虽然在眼前",
+      "translation": null
+    },
+    {
+      "time": 175.022,
+      "time_str": "02:55.022",
+      "text": "说再见",
+      "translation": null
+    },
+    {
+      "time": 178.372,
+      "time_str": "02:58.372",
+      "text": "再见不会太遥远",
+      "translation": null
+    },
+    {
+      "time": 181.623,
+      "time_str": "03:01.623",
+      "text": "若有缘有缘就能期待明天",
+      "translation": null
+    },
+    {
+      "time": 188.275,
+      "time_str": "03:08.275",
+      "text": "你和我重逢在灿烂的季节",
+      "translation": null
+    },
+    {
+      "time": 193.924,
+      "time_str": "03:13.924",
+      "text": "（伤离别",
+      "translation": null
+    },
+    {
+      "time": 198.024,
+      "time_str": "03:18.024",
+      "text": "离别虽然在眼前",
+      "translation": null
+    },
+    {
+      "time": 201.176,
+      "time_str": "03:21.176",
+      "text": "说再见",
+      "translation": null
+    },
+    {
+      "time": 204.476,
+      "time_str": "03:24.476",
+      "text": "再见不会太遥远",
+      "translation": null
+    },
+    {
+      "time": 207.676,
+      "time_str": "03:27.676",
+      "text": "伤离别",
+      "translation": null
+    },
+    {
+      "time": 210.876,
+      "time_str": "03:30.876",
+      "text": "离别虽然在眼前",
+      "translation": null
+    },
+    {
+      "time": 214.029,
+      "time_str": "03:34.029",
+      "text": "说再见",
+      "translation": null
+    },
+    {
+      "time": 217.23,
+      "time_str": "03:37.230",
+      "text": "再见不会太遥远）",
+      "translation": null
+    },
+    {
+      "time": 220.529,
+      "time_str": "03:40.529",
+      "text": "若有缘有缘就能期待明天",
+      "translation": null
+    },
+    {
+      "time": 227.23,
+      "time_str": "03:47.230",
+      "text": "你和我重逢在灿烂的季节",
+      "translation": null
+    },
+    {
+      "time": 234.332,
+      "time_str": "03:54.332",
+      "text": "不要问",
+      "translation": null
+    },
+    {
+      "time": 235.932,
+      "time_str": "03:55.932",
+      "text": "不要说",
+      "translation": null
+    },
+    {
+      "time": 237.585,
+      "time_str": "03:57.585",
+      "text": "一切尽在不言中",
+      "translation": null
+    },
+    {
+      "time": 240.886,
+      "time_str": "04:00.886",
+      "text": "这一刻",
+      "translation": null
+    },
+    {
+      "time": 242.535,
+      "time_str": "04:02.535",
+      "text": "偎着烛光让我们静静的渡过",
+      "translation": null
+    },
+    {
+      "time": 247.486,
+      "time_str": "04:07.486",
+      "text": "莫挥手",
+      "translation": null
+    },
+    {
+      "time": 249.236,
+      "time_str": "04:09.236",
+      "text": "莫回头",
+      "translation": null
+    },
+    {
+      "time": 250.886,
+      "time_str": "04:10.886",
+      "text": "当我唱起这首歌",
+      "translation": null
+    },
+    {
+      "time": 254.137,
+      "time_str": "04:14.137",
+      "text": "愿心中留着笑容",
+      "translation": null
+    },
+    {
+      "time": 257.936,
+      "time_str": "04:17.936",
+      "text": "陪你渡过每个春夏秋冬",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "祝福 - 张学友.lrc"
+}

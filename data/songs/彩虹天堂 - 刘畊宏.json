@@ -1,0 +1,226 @@
+{
+  "title": "彩虹天堂",
+  "title_raw": "彩虹天堂",
+  "version": null,
+  "artist": "刘畊宏",
+  "group_key": "彩虹天堂|刘畊宏",
+  "writers": {
+    "lyricist": "刘畊宏",
+    "composer": "刘畊宏",
+    "arranger": "林迈可"
+  },
+  "lyrics": [
+    {
+      "time": 28.598,
+      "time_str": "00:28.598",
+      "text": "我不知不觉 又徘徊在从前",
+      "translation": null
+    },
+    {
+      "time": 33.338,
+      "time_str": "00:33.338",
+      "text": "秋风悄悄的呼唤 听来尽是孤单",
+      "translation": null
+    },
+    {
+      "time": 40.229,
+      "time_str": "00:40.229",
+      "text": "落叶的期盼 片片左右为难",
+      "translation": null
+    },
+    {
+      "time": 47.17,
+      "time_str": "00:47.170",
+      "text": "心走寂寞攀 跟着飘进灰暗",
+      "translation": null
+    },
+    {
+      "time": 55.449,
+      "time_str": "00:55.449",
+      "text": "我不闻不问 也许好过一点",
+      "translation": null
+    },
+    {
+      "time": 60.299,
+      "time_str": "01:00.299",
+      "text": "被遗憾关在房间 挣扎只是拖延",
+      "translation": null
+    },
+    {
+      "time": 67.6,
+      "time_str": "01:07.600",
+      "text": "无望的空谈 一声声的轻叹",
+      "translation": null
+    },
+    {
+      "time": 74.9,
+      "time_str": "01:14.900",
+      "text": "回忆扯不断 怎么摆脱纠缠",
+      "translation": null
+    },
+    {
+      "time": 80.93,
+      "time_str": "01:20.930",
+      "text": "找不到方向 往彩虹天堂",
+      "translation": null
+    },
+    {
+      "time": 87.42,
+      "time_str": "01:27.420",
+      "text": "有你说的爱 在用幸福触摸忧伤",
+      "translation": null
+    },
+    {
+      "time": 94.069,
+      "time_str": "01:34.069",
+      "text": "两个人 相守直到白发苍苍",
+      "translation": null
+    },
+    {
+      "time": 100.779,
+      "time_str": "01:40.779",
+      "text": "自由地飞翔在灿烂的星光",
+      "translation": null
+    },
+    {
+      "time": 107.4,
+      "time_str": "01:47.400",
+      "text": "找不到方向 往彩虹天堂",
+      "translation": null
+    },
+    {
+      "time": 114.069,
+      "time_str": "01:54.069",
+      "text": "有你说的爱 在用幸福触摸忧伤",
+      "translation": null
+    },
+    {
+      "time": 121.4,
+      "time_str": "02:01.400",
+      "text": "两个人 相守直到白发苍苍",
+      "translation": null
+    },
+    {
+      "time": 127.43,
+      "time_str": "02:07.430",
+      "text": "自由地飞翔在灿烂的星光",
+      "translation": null
+    },
+    {
+      "time": 133.109,
+      "time_str": "02:13.109",
+      "text": "有你在我身旁",
+      "translation": null
+    },
+    {
+      "time": 150.09,
+      "time_str": "02:30.090",
+      "text": "我不闻不问 也许好过一点",
+      "translation": null
+    },
+    {
+      "time": 154.099,
+      "time_str": "02:34.099",
+      "text": "被遗憾关在房间 挣扎只是拖延",
+      "translation": null
+    },
+    {
+      "time": 160.748,
+      "time_str": "02:40.748",
+      "text": "无望的空谈 一声声的轻叹",
+      "translation": null
+    },
+    {
+      "time": 168.398,
+      "time_str": "02:48.398",
+      "text": "回忆扯不断 怎么摆脱纠缠",
+      "translation": null
+    },
+    {
+      "time": 174.168,
+      "time_str": "02:54.168",
+      "text": "找不到方向 往彩虹天堂",
+      "translation": null
+    },
+    {
+      "time": 180.699,
+      "time_str": "03:00.699",
+      "text": "有你说的爱 在用幸福触摸忧伤",
+      "translation": null
+    },
+    {
+      "time": 187.89,
+      "time_str": "03:07.890",
+      "text": "两个人 相守直到白发苍苍",
+      "translation": null
+    },
+    {
+      "time": 194.169,
+      "time_str": "03:14.169",
+      "text": "自由地飞翔在灿烂的星光",
+      "translation": null
+    },
+    {
+      "time": 201.389,
+      "time_str": "03:21.389",
+      "text": "找不到方向 往彩虹天堂",
+      "translation": null
+    },
+    {
+      "time": 208.009,
+      "time_str": "03:28.009",
+      "text": "有你说的爱 在用幸福触摸忧伤",
+      "translation": null
+    },
+    {
+      "time": 214.649,
+      "time_str": "03:34.649",
+      "text": "两个人 相守直到白发苍苍",
+      "translation": null
+    },
+    {
+      "time": 221.709,
+      "time_str": "03:41.709",
+      "text": "自由地飞翔在灿烂的星光",
+      "translation": null
+    },
+    {
+      "time": 227.328,
+      "time_str": "03:47.328",
+      "text": "有你在我身旁",
+      "translation": null
+    },
+    {
+      "time": 255.388,
+      "time_str": "04:15.388",
+      "text": "找不到方向 往彩虹天堂",
+      "translation": null
+    },
+    {
+      "time": 262.039,
+      "time_str": "04:22.039",
+      "text": "有你说的爱 在用幸福触摸忧伤",
+      "translation": null
+    },
+    {
+      "time": 269.199,
+      "time_str": "04:29.199",
+      "text": "两个人 相守直到白发苍苍",
+      "translation": null
+    },
+    {
+      "time": 275.299,
+      "time_str": "04:35.299",
+      "text": "自由地飞翔在灿烂的星光",
+      "translation": null
+    },
+    {
+      "time": 280.939,
+      "time_str": "04:40.939",
+      "text": "有你在我身旁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "彩虹天堂 - 刘畊宏.lrc"
+}

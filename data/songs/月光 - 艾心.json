@@ -1,0 +1,196 @@
+{
+  "title": "月光",
+  "title_raw": "月光",
+  "version": null,
+  "artist": "艾心",
+  "group_key": "月光|艾心",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 22.44,
+      "time_str": "00:22.440",
+      "text": "带我去吧月光",
+      "translation": null
+    },
+    {
+      "time": 27.23,
+      "time_str": "00:27.230",
+      "text": "随便哪个地方",
+      "translation": null
+    },
+    {
+      "time": 31.27,
+      "time_str": "00:31.270",
+      "text": "只要那里没人看出",
+      "translation": null
+    },
+    {
+      "time": 36.09,
+      "time_str": "00:36.090",
+      "text": "我心中的忧伤",
+      "translation": null
+    },
+    {
+      "time": 41.4,
+      "time_str": "00:41.400",
+      "text": "带我去吧月光",
+      "translation": null
+    },
+    {
+      "time": 45.96,
+      "time_str": "00:45.960",
+      "text": "随便哪个地方",
+      "translation": null
+    },
+    {
+      "time": 50.65,
+      "time_str": "00:50.650",
+      "text": "当我死的时候",
+      "translation": null
+    },
+    {
+      "time": 55.52,
+      "time_str": "00:55.520",
+      "text": "草草把我埋葬",
+      "translation": null
+    },
+    {
+      "time": 61.41,
+      "time_str": "01:01.410",
+      "text": "有一天我的灵魂",
+      "translation": null
+    },
+    {
+      "time": 66.8,
+      "time_str": "01:06.800",
+      "text": "会变成坟上的草",
+      "translation": null
+    },
+    {
+      "time": 71.49,
+      "time_str": "01:11.490",
+      "text": "我的爱会变成",
+      "translation": null
+    },
+    {
+      "time": 74.99,
+      "time_str": "01:14.990",
+      "text": "草中飞舞的花",
+      "translation": null
+    },
+    {
+      "time": 81.49,
+      "time_str": "01:21.490",
+      "text": "到那时请让",
+      "translation": null
+    },
+    {
+      "time": 86.49,
+      "time_str": "01:26.490",
+      "text": "花草的幽香",
+      "translation": null
+    },
+    {
+      "time": 90.87,
+      "time_str": "01:30.870",
+      "text": "随着你月光",
+      "translation": null
+    },
+    {
+      "time": 95.76,
+      "time_str": "01:35.760",
+      "text": "陪在他的身旁",
+      "translation": null
+    },
+    {
+      "time": 120.0,
+      "time_str": "02:00.000",
+      "text": "带我去吧月光",
+      "translation": null
+    },
+    {
+      "time": 124.23,
+      "time_str": "02:04.230",
+      "text": "随便哪个地方",
+      "translation": null
+    },
+    {
+      "time": 128.91,
+      "time_str": "02:08.910",
+      "text": "当我死的时候",
+      "translation": null
+    },
+    {
+      "time": 133.48,
+      "time_str": "02:13.480",
+      "text": "草草把我埋葬",
+      "translation": null
+    },
+    {
+      "time": 139.97,
+      "time_str": "02:19.970",
+      "text": "有一天我的灵魂",
+      "translation": null
+    },
+    {
+      "time": 144.98,
+      "time_str": "02:24.980",
+      "text": "会变成坟上的草",
+      "translation": null
+    },
+    {
+      "time": 149.85,
+      "time_str": "02:29.850",
+      "text": "我的爱会变成",
+      "translation": null
+    },
+    {
+      "time": 153.26,
+      "time_str": "02:33.260",
+      "text": "草中飞舞的花",
+      "translation": null
+    },
+    {
+      "time": 159.37,
+      "time_str": "02:39.370",
+      "text": "到那时请让",
+      "translation": null
+    },
+    {
+      "time": 164.37,
+      "time_str": "02:44.370",
+      "text": "花草的幽香",
+      "translation": null
+    },
+    {
+      "time": 169.1,
+      "time_str": "02:49.100",
+      "text": "随着你月光",
+      "translation": null
+    },
+    {
+      "time": 173.91,
+      "time_str": "02:53.910",
+      "text": "陪在他的身旁",
+      "translation": null
+    },
+    {
+      "time": 178.6,
+      "time_str": "02:58.600",
+      "text": "随着你飘在",
+      "translation": null
+    },
+    {
+      "time": 183.29,
+      "time_str": "03:03.290",
+      "text": "他斑白的发上",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月光 - 艾心.lrc"
+}

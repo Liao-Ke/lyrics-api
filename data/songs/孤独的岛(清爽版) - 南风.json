@@ -1,0 +1,346 @@
+{
+  "title": "孤独的岛",
+  "title_raw": "孤独的岛(清爽版)",
+  "version": "清爽版",
+  "artist": "南风",
+  "group_key": "孤独的岛|南风",
+  "writers": {
+    "lyricist": "诗藏旧梦深",
+    "composer": "诗藏旧梦深",
+    "arranger": "诗藏旧梦深"
+  },
+  "lyrics": [
+    {
+      "time": 20.64,
+      "time_str": "00:20.640",
+      "text": "我是一只卑微的鸟",
+      "translation": null
+    },
+    {
+      "time": 25.86,
+      "time_str": "00:25.860",
+      "text": "总逃不出他的魔爪",
+      "translation": null
+    },
+    {
+      "time": 31.14,
+      "time_str": "00:31.140",
+      "text": "不是我的心在动摇",
+      "translation": null
+    },
+    {
+      "time": 36.18,
+      "time_str": "00:36.180",
+      "text": "是他对我不怎么好",
+      "translation": null
+    },
+    {
+      "time": 40.83,
+      "time_str": "00:40.830",
+      "text": "清早的阳光穿透了枝桠摇晃",
+      "translation": null
+    },
+    {
+      "time": 46.65,
+      "time_str": "00:46.650",
+      "text": "是谁存在一丝幻想",
+      "translation": null
+    },
+    {
+      "time": 51.33,
+      "time_str": "00:51.330",
+      "text": "你说我配不上你也不会勉强",
+      "translation": null
+    },
+    {
+      "time": 57.15,
+      "time_str": "00:57.150",
+      "text": "我也刚好不痛不痒",
+      "translation": null
+    },
+    {
+      "time": 61.5,
+      "time_str": "01:01.500",
+      "text": "孤独的鸟",
+      "translation": null
+    },
+    {
+      "time": 63.06,
+      "time_str": "01:03.060",
+      "text": "飞在蓝天怀抱",
+      "translation": null
+    },
+    {
+      "time": 66.69,
+      "time_str": "01:06.690",
+      "text": "远方的岛是我栖息依靠",
+      "translation": null
+    },
+    {
+      "time": 71.82,
+      "time_str": "01:11.820",
+      "text": "温暖阳光",
+      "translation": null
+    },
+    {
+      "time": 73.53,
+      "time_str": "01:13.530",
+      "text": "照在我的羽毛",
+      "translation": null
+    },
+    {
+      "time": 76.74,
+      "time_str": "01:16.740",
+      "text": "空虚烦恼",
+      "translation": null
+    },
+    {
+      "time": 79.98,
+      "time_str": "01:19.980",
+      "text": "减少",
+      "translation": null
+    },
+    {
+      "time": 82.35,
+      "time_str": "01:22.350",
+      "text": "孤独的鸟",
+      "translation": null
+    },
+    {
+      "time": 84.0,
+      "time_str": "01:24.000",
+      "text": "逃离世间喧嚣",
+      "translation": null
+    },
+    {
+      "time": 87.51,
+      "time_str": "01:27.510",
+      "text": "飞的更高",
+      "translation": null
+    },
+    {
+      "time": 89.22,
+      "time_str": "01:29.220",
+      "text": "迎接爱的怀抱",
+      "translation": null
+    },
+    {
+      "time": 92.7,
+      "time_str": "01:32.700",
+      "text": "我不在被困在爱情的牢",
+      "translation": null
+    },
+    {
+      "time": 97.65,
+      "time_str": "01:37.650",
+      "text": "没有烦恼",
+      "translation": null
+    },
+    {
+      "time": 125.07,
+      "time_str": "02:05.070",
+      "text": "我是一只卑微的鸟",
+      "translation": null
+    },
+    {
+      "time": 130.2,
+      "time_str": "02:10.200",
+      "text": "总逃不出他的魔爪",
+      "translation": null
+    },
+    {
+      "time": 135.51,
+      "time_str": "02:15.510",
+      "text": "不是我的心在动摇",
+      "translation": null
+    },
+    {
+      "time": 140.55,
+      "time_str": "02:20.550",
+      "text": "是他对我不怎么好",
+      "translation": null
+    },
+    {
+      "time": 145.2,
+      "time_str": "02:25.200",
+      "text": "清早的阳光穿透了枝桠摇晃",
+      "translation": null
+    },
+    {
+      "time": 150.99,
+      "time_str": "02:30.990",
+      "text": "是谁存在一丝幻想",
+      "translation": null
+    },
+    {
+      "time": 155.67,
+      "time_str": "02:35.670",
+      "text": "你说我配不上你也不会勉强",
+      "translation": null
+    },
+    {
+      "time": 161.49,
+      "time_str": "02:41.490",
+      "text": "我也刚好不痛不痒",
+      "translation": null
+    },
+    {
+      "time": 165.84,
+      "time_str": "02:45.840",
+      "text": "孤独的鸟",
+      "translation": null
+    },
+    {
+      "time": 167.4,
+      "time_str": "02:47.400",
+      "text": "飞在蓝天怀抱",
+      "translation": null
+    },
+    {
+      "time": 171.03,
+      "time_str": "02:51.030",
+      "text": "远方的岛是我栖息依靠",
+      "translation": null
+    },
+    {
+      "time": 176.16,
+      "time_str": "02:56.160",
+      "text": "温暖阳光",
+      "translation": null
+    },
+    {
+      "time": 177.84,
+      "time_str": "02:57.840",
+      "text": "照在我的羽毛",
+      "translation": null
+    },
+    {
+      "time": 181.08,
+      "time_str": "03:01.080",
+      "text": "空虚烦恼",
+      "translation": null
+    },
+    {
+      "time": 184.32,
+      "time_str": "03:04.320",
+      "text": "减少",
+      "translation": null
+    },
+    {
+      "time": 186.69,
+      "time_str": "03:06.690",
+      "text": "孤独的鸟",
+      "translation": null
+    },
+    {
+      "time": 188.34,
+      "time_str": "03:08.340",
+      "text": "逃离世间喧嚣",
+      "translation": null
+    },
+    {
+      "time": 191.85,
+      "time_str": "03:11.850",
+      "text": "飞的更高",
+      "translation": null
+    },
+    {
+      "time": 193.56,
+      "time_str": "03:13.560",
+      "text": "迎接爱的怀抱",
+      "translation": null
+    },
+    {
+      "time": 197.04,
+      "time_str": "03:17.040",
+      "text": "我不在被困在爱情的牢",
+      "translation": null
+    },
+    {
+      "time": 201.99,
+      "time_str": "03:21.990",
+      "text": "没有烦恼",
+      "translation": null
+    },
+    {
+      "time": 207.72,
+      "time_str": "03:27.720",
+      "text": "孤独的鸟",
+      "translation": null
+    },
+    {
+      "time": 209.19,
+      "time_str": "03:29.190",
+      "text": "飞在蓝天怀抱",
+      "translation": null
+    },
+    {
+      "time": 212.82,
+      "time_str": "03:32.820",
+      "text": "远方的岛是我栖息依靠",
+      "translation": null
+    },
+    {
+      "time": 217.98,
+      "time_str": "03:37.980",
+      "text": "温暖阳光",
+      "translation": null
+    },
+    {
+      "time": 219.63,
+      "time_str": "03:39.630",
+      "text": "照在我的羽毛",
+      "translation": null
+    },
+    {
+      "time": 222.87,
+      "time_str": "03:42.870",
+      "text": "空虚烦恼",
+      "translation": null
+    },
+    {
+      "time": 226.11,
+      "time_str": "03:46.110",
+      "text": "减少",
+      "translation": null
+    },
+    {
+      "time": 228.48,
+      "time_str": "03:48.480",
+      "text": "孤独的鸟",
+      "translation": null
+    },
+    {
+      "time": 230.19,
+      "time_str": "03:50.190",
+      "text": "逃离世间喧嚣",
+      "translation": null
+    },
+    {
+      "time": 233.64,
+      "time_str": "03:53.640",
+      "text": "飞的更高",
+      "translation": null
+    },
+    {
+      "time": 235.32,
+      "time_str": "03:55.320",
+      "text": "迎接爱的怀抱",
+      "translation": null
+    },
+    {
+      "time": 238.83,
+      "time_str": "03:58.830",
+      "text": "我不在被困在爱情的牢",
+      "translation": null
+    },
+    {
+      "time": 243.75,
+      "time_str": "04:03.750",
+      "text": "没有烦恼",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "孤独的岛(清爽版) - 南风.lrc"
+}

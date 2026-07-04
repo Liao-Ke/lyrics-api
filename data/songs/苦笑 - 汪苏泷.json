@@ -1,0 +1,382 @@
+{
+  "title": "苦笑",
+  "title_raw": "苦笑",
+  "version": null,
+  "artist": "汪苏泷",
+  "group_key": "苦笑|汪苏泷",
+  "writers": {
+    "lyricist": "汪苏泷",
+    "composer": "汪苏泷",
+    "arranger": "汪苏泷"
+  },
+  "lyrics": [
+    {
+      "time": 16.85,
+      "time_str": "00:16.850",
+      "text": "分手之后 你的温柔",
+      "translation": null
+    },
+    {
+      "time": 20.19,
+      "time_str": "00:20.190",
+      "text": "分手之后 你的温柔",
+      "translation": null
+    },
+    {
+      "time": 23.47,
+      "time_str": "00:23.470",
+      "text": "分手之后 你的温柔",
+      "translation": null
+    },
+    {
+      "time": 26.81,
+      "time_str": "00:26.810",
+      "text": "分手之后",
+      "translation": null
+    },
+    {
+      "time": 29.29,
+      "time_str": "00:29.290",
+      "text": "就分开",
+      "translation": null
+    },
+    {
+      "time": 31.12,
+      "time_str": "00:31.120",
+      "text": "我把车窗偷偷偷偷摇下来",
+      "translation": null
+    },
+    {
+      "time": 34.22,
+      "time_str": "00:34.220",
+      "text": "看不见你脸上点点点点悲哀",
+      "translation": null
+    },
+    {
+      "time": 37.55,
+      "time_str": "00:37.550",
+      "text": "后照镜里反射我的无奈",
+      "translation": null
+    },
+    {
+      "time": 40.64,
+      "time_str": "00:40.640",
+      "text": "你不明白",
+      "translation": null
+    },
+    {
+      "time": 42.71,
+      "time_str": "00:42.710",
+      "text": "还等待",
+      "translation": null
+    },
+    {
+      "time": 44.23,
+      "time_str": "00:44.230",
+      "text": "我还在原地傻傻傻傻的等待",
+      "translation": null
+    },
+    {
+      "time": 47.61,
+      "time_str": "00:47.610",
+      "text": "所有情绪在我脸上发呆",
+      "translation": null
+    },
+    {
+      "time": 50.9,
+      "time_str": "00:50.900",
+      "text": "突然间他影子出现太快",
+      "translation": null
+    },
+    {
+      "time": 54.03,
+      "time_str": "00:54.030",
+      "text": "故事精彩",
+      "translation": null
+    },
+    {
+      "time": 56.11,
+      "time_str": "00:56.110",
+      "text": "你说他对你温柔疼爱",
+      "translation": null
+    },
+    {
+      "time": 59.8,
+      "time_str": "00:59.800",
+      "text": "我想我是学不来",
+      "translation": null
+    },
+    {
+      "time": 63.13,
+      "time_str": "01:03.130",
+      "text": "怪我 没把爱说出来",
+      "translation": null
+    },
+    {
+      "time": 68.86,
+      "time_str": "01:08.860",
+      "text": "我苦笑着释怀 你给的伤害",
+      "translation": null
+    },
+    {
+      "time": 72.81,
+      "time_str": "01:12.810",
+      "text": "你苦笑着等待 已没有未来",
+      "translation": null
+    },
+    {
+      "time": 76.15,
+      "time_str": "01:16.150",
+      "text": "故事花开花败 都有人去猜",
+      "translation": null
+    },
+    {
+      "time": 80.0,
+      "time_str": "01:20.000",
+      "text": "你用优雅姿态 说你不会回来",
+      "translation": null
+    },
+    {
+      "time": 83.54,
+      "time_str": "01:23.540",
+      "text": "我的爱 从没有离开",
+      "translation": null
+    },
+    {
+      "time": 86.12,
+      "time_str": "01:26.120",
+      "text": "可惜两人相爱 总会有无奈",
+      "translation": null
+    },
+    {
+      "time": 89.61,
+      "time_str": "01:29.610",
+      "text": "你的爱很慷慨 分享的愉快",
+      "translation": null
+    },
+    {
+      "time": 93.35,
+      "time_str": "01:33.350",
+      "text": "原谅我只能挥手说拜拜",
+      "translation": null
+    },
+    {
+      "time": 109.34,
+      "time_str": "01:49.340",
+      "text": "就分开",
+      "translation": null
+    },
+    {
+      "time": 111.06,
+      "time_str": "01:51.060",
+      "text": "我把车窗偷偷偷偷摇下来",
+      "translation": null
+    },
+    {
+      "time": 114.24,
+      "time_str": "01:54.240",
+      "text": "看不见你脸上点点点点悲哀",
+      "translation": null
+    },
+    {
+      "time": 117.6,
+      "time_str": "01:57.600",
+      "text": "后照镜里反射我的无奈",
+      "translation": null
+    },
+    {
+      "time": 120.63,
+      "time_str": "02:00.630",
+      "text": "你不明白",
+      "translation": null
+    },
+    {
+      "time": 122.66,
+      "time_str": "02:02.660",
+      "text": "还等待",
+      "translation": null
+    },
+    {
+      "time": 124.17,
+      "time_str": "02:04.170",
+      "text": "我还在原地傻傻傻傻的等待",
+      "translation": null
+    },
+    {
+      "time": 127.56,
+      "time_str": "02:07.560",
+      "text": "所有情绪在我脸上发呆",
+      "translation": null
+    },
+    {
+      "time": 130.85,
+      "time_str": "02:10.850",
+      "text": "突然间他影子出现太快",
+      "translation": null
+    },
+    {
+      "time": 133.93,
+      "time_str": "02:13.930",
+      "text": "故事精彩",
+      "translation": null
+    },
+    {
+      "time": 136.06,
+      "time_str": "02:16.060",
+      "text": "你说他对你温柔疼爱",
+      "translation": null
+    },
+    {
+      "time": 139.81,
+      "time_str": "02:19.810",
+      "text": "我想我是学不来",
+      "translation": null
+    },
+    {
+      "time": 143.1,
+      "time_str": "02:23.100",
+      "text": "怪我 没把爱说出来",
+      "translation": null
+    },
+    {
+      "time": 148.82,
+      "time_str": "02:28.820",
+      "text": "我苦笑着释怀 你给的伤害",
+      "translation": null
+    },
+    {
+      "time": 152.92,
+      "time_str": "02:32.920",
+      "text": "你苦笑着等待 已没有未来",
+      "translation": null
+    },
+    {
+      "time": 156.31,
+      "time_str": "02:36.310",
+      "text": "故事花开花败 都有人去猜",
+      "translation": null
+    },
+    {
+      "time": 160.09,
+      "time_str": "02:40.090",
+      "text": "你用优雅姿态 说你不会回来",
+      "translation": null
+    },
+    {
+      "time": 163.48,
+      "time_str": "02:43.480",
+      "text": "我的爱 从没有离开",
+      "translation": null
+    },
+    {
+      "time": 166.33,
+      "time_str": "02:46.330",
+      "text": "可惜两人相爱 总会有无奈",
+      "translation": null
+    },
+    {
+      "time": 169.62,
+      "time_str": "02:49.620",
+      "text": "你的爱很慷慨 分享的愉快",
+      "translation": null
+    },
+    {
+      "time": 173.25,
+      "time_str": "02:53.250",
+      "text": "原谅我只能挥手说拜拜",
+      "translation": null
+    },
+    {
+      "time": 190.6,
+      "time_str": "03:10.600",
+      "text": "我苦笑着释怀 你给的伤害",
+      "translation": null
+    },
+    {
+      "time": 194.6,
+      "time_str": "03:14.600",
+      "text": "你苦笑着等待 已没有未来",
+      "translation": null
+    },
+    {
+      "time": 197.99,
+      "time_str": "03:17.990",
+      "text": "故事花开花败 都有人去猜",
+      "translation": null
+    },
+    {
+      "time": 201.73,
+      "time_str": "03:21.730",
+      "text": "你用优雅姿态 说你不会回来",
+      "translation": null
+    },
+    {
+      "time": 205.42,
+      "time_str": "03:25.420",
+      "text": "我的爱 从没有离开",
+      "translation": null
+    },
+    {
+      "time": 207.74,
+      "time_str": "03:27.740",
+      "text": "可惜两人相爱 总会有无奈",
+      "translation": null
+    },
+    {
+      "time": 211.18,
+      "time_str": "03:31.180",
+      "text": "你的爱很慷慨 分享的愉快",
+      "translation": null
+    },
+    {
+      "time": 214.92,
+      "time_str": "03:34.920",
+      "text": "原谅我只能挥手说拜拜",
+      "translation": null
+    },
+    {
+      "time": 218.52,
+      "time_str": "03:38.520",
+      "text": "分手之后 你的温柔",
+      "translation": null
+    },
+    {
+      "time": 221.8,
+      "time_str": "03:41.800",
+      "text": "分手之后 你的温柔",
+      "translation": null
+    },
+    {
+      "time": 225.24,
+      "time_str": "03:45.240",
+      "text": "分手之后 你的温柔",
+      "translation": null
+    },
+    {
+      "time": 228.63,
+      "time_str": "03:48.630",
+      "text": "分手之后",
+      "translation": null
+    },
+    {
+      "time": 231.77,
+      "time_str": "03:51.770",
+      "text": "分手之后 你的温柔",
+      "translation": null
+    },
+    {
+      "time": 235.15,
+      "time_str": "03:55.150",
+      "text": "分手之后 你的温柔",
+      "translation": null
+    },
+    {
+      "time": 238.6,
+      "time_str": "03:58.600",
+      "text": "分手之后 你的温柔",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "苦笑 - 汪苏泷.lrc"
+}

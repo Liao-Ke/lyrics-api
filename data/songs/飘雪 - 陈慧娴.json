@@ -1,0 +1,262 @@
+{
+  "title": "飘雪",
+  "title_raw": "飘雪",
+  "version": null,
+  "artist": "陈慧娴",
+  "group_key": "飘雪|陈慧娴",
+  "writers": {
+    "lyricist": "简宁",
+    "composer": "桑田佳祐",
+    "arranger": "赵增熹"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "Publisher : Publisher House Amuse Inc (PolyGram)",
+      "translation": null
+    },
+    {
+      "time": 30.25,
+      "time_str": "00:30.250",
+      "text": "又见雪飘过",
+      "translation": null
+    },
+    {
+      "time": 32.89,
+      "time_str": "00:32.890",
+      "text": "飘于伤心记忆中",
+      "translation": null
+    },
+    {
+      "time": 36.91,
+      "time_str": "00:36.910",
+      "text": "让我再想你",
+      "translation": null
+    },
+    {
+      "time": 39.43,
+      "time_str": "00:39.430",
+      "text": "却掀起我心痛",
+      "translation": null
+    },
+    {
+      "time": 43.57,
+      "time_str": "00:43.570",
+      "text": "早经分了手",
+      "translation": null
+    },
+    {
+      "time": 46.09,
+      "time_str": "00:46.090",
+      "text": "为何热爱尚情重",
+      "translation": null
+    },
+    {
+      "time": 49.41,
+      "time_str": "00:49.410",
+      "text": "独过追忆岁月",
+      "translation": null
+    },
+    {
+      "time": 52.69,
+      "time_str": "00:52.690",
+      "text": "或许此生不会懂",
+      "translation": null
+    },
+    {
+      "time": 56.87,
+      "time_str": "00:56.870",
+      "text": "又再想起你",
+      "translation": null
+    },
+    {
+      "time": 59.46,
+      "time_str": "00:59.460",
+      "text": "抱拥飘飘白雪中",
+      "translation": null
+    },
+    {
+      "time": 63.49,
+      "time_str": "01:03.490",
+      "text": "让你心中暖",
+      "translation": null
+    },
+    {
+      "time": 66.08,
+      "time_str": "01:06.080",
+      "text": "去驱走我冰冻",
+      "translation": null
+    },
+    {
+      "time": 70.25,
+      "time_str": "01:10.250",
+      "text": "冷风吹我醒",
+      "translation": null
+    },
+    {
+      "time": 72.72,
+      "time_str": "01:12.720",
+      "text": "原来共你是场梦",
+      "translation": null
+    },
+    {
+      "time": 76.15,
+      "time_str": "01:16.150",
+      "text": "像那飘飘雪泪下",
+      "translation": null
+    },
+    {
+      "time": 79.38,
+      "time_str": "01:19.380",
+      "text": "弄湿冷清的晚空",
+      "translation": null
+    },
+    {
+      "time": 83.5,
+      "time_str": "01:23.500",
+      "text": "原来是那么 深爱你",
+      "translation": null
+    },
+    {
+      "time": 89.23,
+      "time_str": "01:29.230",
+      "text": "此际伴着我追忆的心痛",
+      "translation": null
+    },
+    {
+      "time": 96.85,
+      "time_str": "01:36.850",
+      "text": "又见雪飘过",
+      "translation": null
+    },
+    {
+      "time": 99.38,
+      "time_str": "01:39.380",
+      "text": "飘于伤心记忆中",
+      "translation": null
+    },
+    {
+      "time": 103.64,
+      "time_str": "01:43.640",
+      "text": "让我再想你",
+      "translation": null
+    },
+    {
+      "time": 106.02,
+      "time_str": "01:46.020",
+      "text": "却掀起我心痛",
+      "translation": null
+    },
+    {
+      "time": 110.24,
+      "time_str": "01:50.240",
+      "text": "早经分了手",
+      "translation": null
+    },
+    {
+      "time": 112.65,
+      "time_str": "01:52.650",
+      "text": "为何热爱尚情重",
+      "translation": null
+    },
+    {
+      "time": 116.11,
+      "time_str": "01:56.110",
+      "text": "独过追忆岁月",
+      "translation": null
+    },
+    {
+      "time": 119.28,
+      "time_str": "01:59.280",
+      "text": "或许此生不会懂",
+      "translation": null
+    },
+    {
+      "time": 123.59,
+      "time_str": "02:03.590",
+      "text": "原来是那么 深爱你",
+      "translation": null
+    },
+    {
+      "time": 129.32,
+      "time_str": "02:09.320",
+      "text": "此际伴着我追忆的心痛",
+      "translation": null
+    },
+    {
+      "time": 163.58,
+      "time_str": "02:43.580",
+      "text": "又再想起你",
+      "translation": null
+    },
+    {
+      "time": 166.08,
+      "time_str": "02:46.080",
+      "text": "抱拥飘飘白雪中",
+      "translation": null
+    },
+    {
+      "time": 170.15,
+      "time_str": "02:50.150",
+      "text": "让你心中暖",
+      "translation": null
+    },
+    {
+      "time": 172.64,
+      "time_str": "02:52.640",
+      "text": "去驱走我冰冻",
+      "translation": null
+    },
+    {
+      "time": 176.72,
+      "time_str": "02:56.720",
+      "text": "冷风吹我醒",
+      "translation": null
+    },
+    {
+      "time": 179.17,
+      "time_str": "02:59.170",
+      "text": "原来共你是场梦",
+      "translation": null
+    },
+    {
+      "time": 182.65,
+      "time_str": "03:02.650",
+      "text": "像那飘飘雪泪下",
+      "translation": null
+    },
+    {
+      "time": 186.09,
+      "time_str": "03:06.090",
+      "text": "弄湿冷清的晚空",
+      "translation": null
+    },
+    {
+      "time": 190.17,
+      "time_str": "03:10.170",
+      "text": "原来是那么 深爱你",
+      "translation": null
+    },
+    {
+      "time": 195.94,
+      "time_str": "03:15.940",
+      "text": "此际伴着我追忆的心痛",
+      "translation": null
+    },
+    {
+      "time": 203.57,
+      "time_str": "03:23.570",
+      "text": "原来是那么 深爱你",
+      "translation": null
+    },
+    {
+      "time": 209.32,
+      "time_str": "03:29.320",
+      "text": "此际伴着我追忆的心痛",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "飘雪 - 陈慧娴.lrc"
+}

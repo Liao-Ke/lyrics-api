@@ -1,0 +1,340 @@
+{
+  "title": "可惜不是你",
+  "title_raw": "可惜不是你",
+  "version": null,
+  "artist": "梁静茹",
+  "group_key": "可惜不是你|梁静茹",
+  "writers": {
+    "lyricist": "李焯雄",
+    "composer": "曹轩宾",
+    "arranger": "陈飞午"
+  },
+  "lyrics": [
+    {
+      "time": 37.64,
+      "time_str": "00:37.640",
+      "text": "这一刻突然觉得好熟悉",
+      "translation": null
+    },
+    {
+      "time": 43.7,
+      "time_str": "00:43.700",
+      "text": "像昨天今天同时在放映",
+      "translation": null
+    },
+    {
+      "time": 50.48,
+      "time_str": "00:50.480",
+      "text": "我这句语气原来好像你",
+      "translation": null
+    },
+    {
+      "time": 56.46,
+      "time_str": "00:56.460",
+      "text": "不就是我们爱过的证据",
+      "translation": null
+    },
+    {
+      "time": 63.24,
+      "time_str": "01:03.240",
+      "text": "差一点骗了自己骗了你",
+      "translation": null
+    },
+    {
+      "time": 70.34,
+      "time_str": "01:10.340",
+      "text": "爱与被爱不一定成正比",
+      "translation": null
+    },
+    {
+      "time": 76.6,
+      "time_str": "01:16.600",
+      "text": "我知道被疼是一种运气",
+      "translation": null
+    },
+    {
+      "time": 82.72,
+      "time_str": "01:22.720",
+      "text": "但我无法完全交出自己",
+      "translation": null
+    },
+    {
+      "time": 89.4,
+      "time_str": "01:29.400",
+      "text": "努力为你改变",
+      "translation": null
+    },
+    {
+      "time": 91.67,
+      "time_str": "01:31.670",
+      "text": "却变不了预留的伏线",
+      "translation": null
+    },
+    {
+      "time": 95.78,
+      "time_str": "01:35.780",
+      "text": "以为在你身边那也算永远",
+      "translation": null
+    },
+    {
+      "time": 102.34,
+      "time_str": "01:42.340",
+      "text": "仿佛还是昨天",
+      "translation": null
+    },
+    {
+      "time": 104.49,
+      "time_str": "01:44.490",
+      "text": "可是昨天已非常遥远",
+      "translation": null
+    },
+    {
+      "time": 108.74,
+      "time_str": "01:48.740",
+      "text": "但闭上我双眼我还看得见",
+      "translation": null
+    },
+    {
+      "time": 115.36,
+      "time_str": "01:55.360",
+      "text": "可惜不是你",
+      "translation": null
+    },
+    {
+      "time": 118.86,
+      "time_str": "01:58.860",
+      "text": "陪我到最后",
+      "translation": null
+    },
+    {
+      "time": 122.34,
+      "time_str": "02:02.340",
+      "text": "曾一起走却走失那路口",
+      "translation": null
+    },
+    {
+      "time": 128.87,
+      "time_str": "02:08.870",
+      "text": "感谢那是你",
+      "translation": null
+    },
+    {
+      "time": 132.25,
+      "time_str": "02:12.250",
+      "text": "牵过我的手",
+      "translation": null
+    },
+    {
+      "time": 135.1,
+      "time_str": "02:15.100",
+      "text": "还能感受那温柔",
+      "translation": null
+    },
+    {
+      "time": 142.09,
+      "time_str": "02:22.090",
+      "text": "那一段我们曾心贴着心",
+      "translation": null
+    },
+    {
+      "time": 147.85,
+      "time_str": "02:27.850",
+      "text": "我想我更有权利关心你",
+      "translation": null
+    },
+    {
+      "time": 154.52,
+      "time_str": "02:34.520",
+      "text": "可能你已走进别人风景",
+      "translation": null
+    },
+    {
+      "time": 160.96,
+      "time_str": "02:40.960",
+      "text": "多希望也有星光的投影",
+      "translation": null
+    },
+    {
+      "time": 167.37,
+      "time_str": "02:47.370",
+      "text": "努力为你改变",
+      "translation": null
+    },
+    {
+      "time": 169.62,
+      "time_str": "02:49.620",
+      "text": "却变不了预留的伏线",
+      "translation": null
+    },
+    {
+      "time": 173.92,
+      "time_str": "02:53.920",
+      "text": "以为在你身边那也算永远",
+      "translation": null
+    },
+    {
+      "time": 180.38,
+      "time_str": "03:00.380",
+      "text": "仿佛还是昨天",
+      "translation": null
+    },
+    {
+      "time": 182.32,
+      "time_str": "03:02.320",
+      "text": "可是昨天已非常遥远",
+      "translation": null
+    },
+    {
+      "time": 186.69,
+      "time_str": "03:06.690",
+      "text": "但闭上我双眼我还看得见",
+      "translation": null
+    },
+    {
+      "time": 193.42,
+      "time_str": "03:13.420",
+      "text": "可惜不是你",
+      "translation": null
+    },
+    {
+      "time": 197.06,
+      "time_str": "03:17.060",
+      "text": "陪我到最后",
+      "translation": null
+    },
+    {
+      "time": 200.24,
+      "time_str": "03:20.240",
+      "text": "曾一起走却走失那路口",
+      "translation": null
+    },
+    {
+      "time": 206.76,
+      "time_str": "03:26.760",
+      "text": "感谢那是你",
+      "translation": null
+    },
+    {
+      "time": 209.83,
+      "time_str": "03:29.830",
+      "text": "牵过我的手",
+      "translation": null
+    },
+    {
+      "time": 213.15,
+      "time_str": "03:33.150",
+      "text": "还能感受那温柔",
+      "translation": null
+    },
+    {
+      "time": 219.67,
+      "time_str": "03:39.670",
+      "text": "可惜不是你",
+      "translation": null
+    },
+    {
+      "time": 222.94,
+      "time_str": "03:42.940",
+      "text": "陪我到最后",
+      "translation": null
+    },
+    {
+      "time": 226.17,
+      "time_str": "03:46.170",
+      "text": "曾一起走却走失那路口",
+      "translation": null
+    },
+    {
+      "time": 232.86,
+      "time_str": "03:52.860",
+      "text": "感谢那是你",
+      "translation": null
+    },
+    {
+      "time": 235.67,
+      "time_str": "03:55.670",
+      "text": "牵过我的手",
+      "translation": null
+    },
+    {
+      "time": 239.5,
+      "time_str": "03:59.500",
+      "text": "还能感受那温柔",
+      "translation": null
+    },
+    {
+      "time": 245.86,
+      "time_str": "04:05.860",
+      "text": "感谢那是你",
+      "translation": null
+    },
+    {
+      "time": 248.86,
+      "time_str": "04:08.860",
+      "text": "牵过我的手",
+      "translation": null
+    },
+    {
+      "time": 252.11,
+      "time_str": "04:12.110",
+      "text": "还能温暖我胸口",
+      "translation": null
+    },
+    {
+      "time": 281.24,
+      "time_str": "04:41.240",
+      "text": "弦乐编写 : 李琪",
+      "translation": null
+    },
+    {
+      "time": 281.65,
+      "time_str": "04:41.650",
+      "text": "小提琴 : 李琪/蓝国融",
+      "translation": null
+    },
+    {
+      "time": 282.07,
+      "time_str": "04:42.070",
+      "text": "中提琴 : 何君恒/马纪伟",
+      "translation": null
+    },
+    {
+      "time": 282.49,
+      "time_str": "04:42.490",
+      "text": "大提琴 : 吴世杰/黄彦霖",
+      "translation": null
+    },
+    {
+      "time": 282.9,
+      "time_str": "04:42.900",
+      "text": "录音工程师 : 钟国泰/苏正成",
+      "translation": null
+    },
+    {
+      "time": 283.73,
+      "time_str": "04:43.730",
+      "text": "混音工程师 : 钟国泰",
+      "translation": null
+    },
+    {
+      "time": 284.15,
+      "time_str": "04:44.150",
+      "text": "混音室 : 白金录音室",
+      "translation": null
+    },
+    {
+      "time": 284.98,
+      "time_str": "04:44.980",
+      "text": "SP : Universal Music Publishing Ltd./Sony Music Publishing (Pte) Ltd. Taiwan Branch/Taiwan",
+      "translation": null
+    },
+    {
+      "time": 285.4,
+      "time_str": "04:45.400",
+      "text": "横笛：黎翰江",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "可惜不是你 - 梁静茹.lrc"
+}

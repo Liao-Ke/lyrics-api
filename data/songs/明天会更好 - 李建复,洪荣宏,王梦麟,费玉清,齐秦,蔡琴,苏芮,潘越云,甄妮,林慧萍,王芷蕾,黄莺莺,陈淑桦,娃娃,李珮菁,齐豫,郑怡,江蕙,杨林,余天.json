@@ -1,0 +1,328 @@
+{
+  "title": "明天会更好",
+  "title_raw": "明天会更好",
+  "version": null,
+  "artist": "李建复,洪荣宏,王梦麟,费玉清,齐秦,蔡琴,苏芮,潘越云,甄妮,林慧萍,王芷蕾,黄莺莺,陈淑桦,娃娃,李珮菁,齐豫,郑怡,江蕙,杨林,余天",
+  "group_key": "明天会更好|李建复,洪荣宏,王梦麟,费玉清,齐秦,蔡琴,苏芮,潘越云,甄妮,林慧萍,王芷蕾,黄莺莺,陈淑桦,娃娃,李珮菁,齐豫,郑怡,江蕙,杨林,余天",
+  "writers": {
+    "lyricist": "罗大佑/张大春/许乃胜/李寿全/邱复生/张艾嘉/詹宏志",
+    "composer": "罗大佑",
+    "arranger": "陈志远"
+  },
+  "lyrics": [
+    {
+      "time": 25.1,
+      "time_str": "00:25.100",
+      "text": "蔡 琴：轻轻敲醒沉睡的心灵",
+      "translation": null
+    },
+    {
+      "time": 29.6,
+      "time_str": "00:29.600",
+      "text": "蔡 琴：慢慢张开你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 32.1,
+      "time_str": "00:32.100",
+      "text": "余 天：看看忙碌的世界",
+      "translation": null
+    },
+    {
+      "time": 35.0,
+      "time_str": "00:35.000",
+      "text": "余 天：是否依然孤独地转个不停",
+      "translation": null
+    },
+    {
+      "time": 39.05,
+      "time_str": "00:39.050",
+      "text": "苏 芮：春风不解风情 吹动少年的心",
+      "translation": null
+    },
+    {
+      "time": 45.05,
+      "time_str": "00:45.050",
+      "text": "潘越云：让昨日脸上的泪痕 随记忆风干了",
+      "translation": null
+    },
+    {
+      "time": 53.38,
+      "time_str": "00:53.380",
+      "text": "甄 妮：抬头寻找天空的翅膀",
+      "translation": null
+    },
+    {
+      "time": 57.0,
+      "time_str": "00:57.000",
+      "text": "甄 妮：候鸟出现它的影迹",
+      "translation": null
+    },
+    {
+      "time": 59.55,
+      "time_str": "00:59.550",
+      "text": "李建复：带来远处的饥荒",
+      "translation": null
+    },
+    {
+      "time": 62.87,
+      "time_str": "01:02.870",
+      "text": "李建复：无情的战火依然存在的消息",
+      "translation": null
+    },
+    {
+      "time": 66.37,
+      "time_str": "01:06.370",
+      "text": "林慧萍：玉山白雪飘零 燃烧少年的心",
+      "translation": null
+    },
+    {
+      "time": 72.49,
+      "time_str": "01:12.490",
+      "text": "王芷蕾：使真情溶化成音符",
+      "translation": null
+    },
+    {
+      "time": 75.99,
+      "time_str": "01:15.990",
+      "text": "王芷蕾：倾诉遥远的祝福",
+      "translation": null
+    },
+    {
+      "time": 80.62,
+      "time_str": "01:20.620",
+      "text": "黄莺莺：唱出你的热情 伸出你双手",
+      "translation": null
+    },
+    {
+      "time": 84.55,
+      "time_str": "01:24.550",
+      "text": "黄莺莺：让我拥抱着你的梦",
+      "translation": null
+    },
+    {
+      "time": 87.95,
+      "time_str": "01:27.950",
+      "text": "黄莺莺：让我拥有你真心的面孔",
+      "translation": null
+    },
+    {
+      "time": 93.51,
+      "time_str": "01:33.510",
+      "text": "洪荣宏：让我们的笑容 充满着青春的骄傲",
+      "translation": null
+    },
+    {
+      "time": 100.0,
+      "time_str": "01:40.000",
+      "text": "洪荣宏：为明天献出虔诚的祈祷",
+      "translation": null
+    },
+    {
+      "time": 106.59,
+      "time_str": "01:46.590",
+      "text": "陈淑桦：谁能不顾自己的家园",
+      "translation": null
+    },
+    {
+      "time": 109.69,
+      "time_str": "01:49.690",
+      "text": "陈淑桦：抛开记忆中的童年",
+      "translation": null
+    },
+    {
+      "time": 112.25,
+      "time_str": "01:52.250",
+      "text": "娃 娃：谁能忍心看那昨日的忧愁",
+      "translation": null
+    },
+    {
+      "time": 116.0,
+      "time_str": "01:56.000",
+      "text": "娃 娃：带走我们的笑容",
+      "translation": null
+    },
+    {
+      "time": 119.14,
+      "time_str": "01:59.140",
+      "text": "王梦麟：青春不解红尘 胭脂沾染了灰",
+      "translation": null
+    },
+    {
+      "time": 125.16,
+      "time_str": "02:05.160",
+      "text": "李佩菁：让久违不见的泪水 滋润了你的面容",
+      "translation": null
+    },
+    {
+      "time": 133.44,
+      "time_str": "02:13.440",
+      "text": "费玉清：唱出你的热情 伸出你双手",
+      "translation": null
+    },
+    {
+      "time": 136.76,
+      "time_str": "02:16.760",
+      "text": "让我拥抱着你的梦 让我拥有你真心的面孔",
+      "translation": null
+    },
+    {
+      "time": 146.34,
+      "time_str": "02:26.340",
+      "text": "让我们的笑容 充满着青春的骄傲",
+      "translation": null
+    },
+    {
+      "time": 152.37,
+      "time_str": "02:32.370",
+      "text": "为明天献出虔诚的祈祷",
+      "translation": null
+    },
+    {
+      "time": 162.05,
+      "time_str": "02:42.050",
+      "text": "齐 豫：轻轻敲醒沉睡的心灵",
+      "translation": null
+    },
+    {
+      "time": 166.65,
+      "time_str": "02:46.650",
+      "text": "齐 豫：慢慢张开你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 169.69,
+      "time_str": "02:49.690",
+      "text": "郑 怡：看那忙碌的世界",
+      "translation": null
+    },
+    {
+      "time": 171.29,
+      "time_str": "02:51.290",
+      "text": "郑 怡：是否依然孤独地转个不停",
+      "translation": null
+    },
+    {
+      "time": 176.5,
+      "time_str": "02:56.500",
+      "text": "江 蕙：日出唤醒清晨 大地光彩重生",
+      "translation": null
+    },
+    {
+      "time": 182.47,
+      "time_str": "03:02.470",
+      "text": "杨 林：让和风拂出的音响 谱成生命的乐章",
+      "translation": null
+    },
+    {
+      "time": 189.63,
+      "time_str": "03:09.630",
+      "text": "唱出你的热情 伸出你双手",
+      "translation": null
+    },
+    {
+      "time": 193.89,
+      "time_str": "03:13.890",
+      "text": "让我拥抱着你的梦 让我拥有你真心的面孔",
+      "translation": null
+    },
+    {
+      "time": 203.44,
+      "time_str": "03:23.440",
+      "text": "让我们的笑容 充满着青春的骄傲",
+      "translation": null
+    },
+    {
+      "time": 209.64,
+      "time_str": "03:29.640",
+      "text": "让我们期待明天会更好",
+      "translation": null
+    },
+    {
+      "time": 216.68,
+      "time_str": "03:36.680",
+      "text": "唱出你的热情 伸出你双手",
+      "translation": null
+    },
+    {
+      "time": 219.39,
+      "time_str": "03:39.390",
+      "text": "让我拥抱着你的梦 让我拥有你真心的面孔",
+      "translation": null
+    },
+    {
+      "time": 229.0,
+      "time_str": "03:49.000",
+      "text": "让我们的笑容 充满着青春的骄傲",
+      "translation": null
+    },
+    {
+      "time": 235.23,
+      "time_str": "03:55.230",
+      "text": "让我们期待明天会更好",
+      "translation": null
+    },
+    {
+      "time": 241.8,
+      "time_str": "04:01.800",
+      "text": "齐秦 苏芮：唱出你的热情 伸出你双手",
+      "translation": null
+    },
+    {
+      "time": 245.08,
+      "time_str": "04:05.080",
+      "text": "让我拥抱着你的梦 让我拥有你真心的面孔",
+      "translation": null
+    },
+    {
+      "time": 254.65,
+      "time_str": "04:14.650",
+      "text": "让我们的笑容 充满着青春的骄傲",
+      "translation": null
+    },
+    {
+      "time": 260.87,
+      "time_str": "04:20.870",
+      "text": "让我们期待明天会更好",
+      "translation": null
+    },
+    {
+      "time": 267.84,
+      "time_str": "04:27.840",
+      "text": "余 天：唱出你的热情 伸出你双手",
+      "translation": null
+    },
+    {
+      "time": 270.9,
+      "time_str": "04:30.900",
+      "text": "让我拥抱着你的梦 让我拥有你真心的面孔",
+      "translation": null
+    },
+    {
+      "time": 280.41,
+      "time_str": "04:40.410",
+      "text": "让我们的笑容 充满着青春的骄傲",
+      "translation": null
+    },
+    {
+      "time": 286.48,
+      "time_str": "04:46.480",
+      "text": "让我们期待明天会更好",
+      "translation": null
+    },
+    {
+      "time": 293.23,
+      "time_str": "04:53.230",
+      "text": "齐秦 苏芮 余天：唱出你的热情 伸出你双手",
+      "translation": null
+    },
+    {
+      "time": 296.53,
+      "time_str": "04:56.530",
+      "text": "让我拥抱着你的梦 让我拥有你真心的面孔",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "明天会更好 - 李建复,洪荣宏,王梦麟,费玉清,齐秦,蔡琴,苏芮,潘越云,甄妮,林慧萍,王芷蕾,黄莺莺,陈淑桦,娃娃,李珮菁,齐豫,郑怡,江蕙,杨林,余天.lrc"
+}

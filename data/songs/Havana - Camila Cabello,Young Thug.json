@@ -1,0 +1,442 @@
+{
+  "title": "Havana",
+  "title_raw": "Havana",
+  "version": null,
+  "artist": "Camila Cabello,Young Thug",
+  "group_key": "havana|camila cabello,young thug",
+  "writers": {
+    "lyricist": "Camila Cabello/Pharrell Williams/Ali Tamposi/Brian Lee/Andrew Watt/Louis Bell/Kaan Gunesberk",
+    "composer": "Camila Cabello/Pharrell Williams/Frank Dukes/Starrah/Brian Lee/Andrew Watt/Louis Bell/Kaan Gunesberk",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.49,
+      "time_str": "00:01.490",
+      "text": "Hey",
+      "translation": null
+    },
+    {
+      "time": 8.97,
+      "time_str": "00:08.970",
+      "text": "Havana, ooh na-na (ayy)",
+      "translation": "哈瓦那 哦呐呐"
+    },
+    {
+      "time": 11.8,
+      "time_str": "00:11.800",
+      "text": "Half of my heart is in Havana, ooh-na-na (ayy, ayy)",
+      "translation": "我一半的心都留在哈瓦那"
+    },
+    {
+      "time": 16.36,
+      "time_str": "00:16.360",
+      "text": "He took me back to East Atlanta, na-na-na",
+      "translation": "他带我重回东亚特兰大"
+    },
+    {
+      "time": 20.99,
+      "time_str": "00:20.990",
+      "text": "All of my heart is in Havana (ayy)",
+      "translation": "我的所有身心如今都属于哈瓦那"
+    },
+    {
+      "time": 23.8,
+      "time_str": "00:23.800",
+      "text": "There's somethin' 'bout his manners (uh huh)",
+      "translation": "还有一些关于他一举一动的小心思"
+    },
+    {
+      "time": 26.08,
+      "time_str": "00:26.080",
+      "text": "Havana, ooh na-na",
+      "translation": "哈瓦那 哦呐呐"
+    },
+    {
+      "time": 27.41,
+      "time_str": "00:27.410",
+      "text": "He didn't walk up with that \"how you doin'?\"",
+      "translation": "他没有向我走来 没有一句最近安好的问候"
+    },
+    {
+      "time": 30.68,
+      "time_str": "00:30.680",
+      "text": "(When he came in the room)",
+      "translation": "当他走进房间"
+    },
+    {
+      "time": 31.98,
+      "time_str": "00:31.980",
+      "text": "He said there’s a lot of girls I can do with",
+      "translation": "他说 他可以搞定的女孩太多"
+    },
+    {
+      "time": 35.2,
+      "time_str": "00:35.200",
+      "text": "(But I can't without you)",
+      "translation": "但我不能离开你的陪伴"
+    },
+    {
+      "time": 36.37,
+      "time_str": "00:36.370",
+      "text": "I'm doin' forever in a minute",
+      "translation": "这一分钟仿佛有一世纪那么漫长"
+    },
+    {
+      "time": 39.78,
+      "time_str": "00:39.780",
+      "text": "(That summer night in June)",
+      "translation": "那个六月的夏夜"
+    },
+    {
+      "time": 41.9,
+      "time_str": "00:41.900",
+      "text": "And papa says he got malo in him",
+      "translation": "我父亲说那男孩体内有恶魔隐藏（malo在西班牙语中是evil的意思 ）"
+    },
+    {
+      "time": 44.35,
+      "time_str": "00:44.350",
+      "text": "He got me feelin' like",
+      "translation": "但他感觉澎湃"
+    },
+    {
+      "time": 45.78,
+      "time_str": "00:45.780",
+      "text": "Oooh-oooh-ooh, I knew it when I met him",
+      "translation": "喔喔喔 在第一次邂逅时我便已知晓"
+    },
+    {
+      "time": 51.21,
+      "time_str": "00:51.210",
+      "text": "I loved him when I left him",
+      "translation": "在离开他后我会不顾一切爱上他"
+    },
+    {
+      "time": 54.1,
+      "time_str": "00:54.100",
+      "text": "Got me feelin' like",
+      "translation": "这种感觉就像"
+    },
+    {
+      "time": 54.95,
+      "time_str": "00:54.950",
+      "text": "Oooh-oooh-ooh, and then I had to tell him",
+      "translation": "喔喔喔 我却不得不告诉他"
+    },
+    {
+      "time": 60.4,
+      "time_str": "01:00.400",
+      "text": "I had to go, oh na-na-na-na-na",
+      "translation": "我必须要走了 哦呐呐呐"
+    },
+    {
+      "time": 63.76,
+      "time_str": "01:03.760",
+      "text": "Havana, ooh na-na (ayy，ayy)",
+      "translation": "哈瓦那 哦呐呐"
+    },
+    {
+      "time": 66.58,
+      "time_str": "01:06.580",
+      "text": "Half of my heart is in Havana, ooh-na-na (ayy, ayy)",
+      "translation": "我一半的心都留在哈瓦那"
+    },
+    {
+      "time": 71.26,
+      "time_str": "01:11.260",
+      "text": "He took me back to East Atlanta, na-na-na (uh huh)",
+      "translation": "他带我重回东亚特兰大"
+    },
+    {
+      "time": 75.83,
+      "time_str": "01:15.830",
+      "text": "All of my heart is in Havana (ayy)",
+      "translation": "我的所有身心如今都属于哈瓦那"
+    },
+    {
+      "time": 78.66,
+      "time_str": "01:18.660",
+      "text": "My heart is in Havana",
+      "translation": "我的身心如今都属于哈瓦那"
+    },
+    {
+      "time": 80.95,
+      "time_str": "01:20.950",
+      "text": "Havana, ooh na-na",
+      "translation": "哈瓦那 哦呐呐"
+    },
+    {
+      "time": 82.92,
+      "time_str": "01:22.920",
+      "text": "Jeffery",
+      "translation": "（Young Thug原名）"
+    },
+    {
+      "time": 83.81,
+      "time_str": "01:23.810",
+      "text": "Just graduated, fresh on campus, mmm",
+      "translation": "毕业 又是大学的新生"
+    },
+    {
+      "time": 88.08,
+      "time_str": "01:28.080",
+      "text": "Fresh out East Atlanta with no manners, damn",
+      "translation": "新秀们冲入东亚特兰大 不要拘于礼节"
+    },
+    {
+      "time": 91.51,
+      "time_str": "01:31.510",
+      "text": "Fresh out East Atlanta",
+      "translation": "冲入东亚特兰大"
+    },
+    {
+      "time": 93.83,
+      "time_str": "01:33.830",
+      "text": "Bump on her bumper like a traffic jam (jam)",
+      "translation": "交通堵塞 在她的车后保险杠上迎面一撞"
+    },
+    {
+      "time": 96.64,
+      "time_str": "01:36.640",
+      "text": "Hey, I was quick to pay that girl like Uncle Sam (here you go, ayy)",
+      "translation": "我像山姆老爹一样快速付好了她的赔偿"
+    },
+    {
+      "time": 101.26,
+      "time_str": "01:41.260",
+      "text": "Back it on me, shawty cravin' on me",
+      "translation": "回到我身边 那女孩开始渴望我"
+    },
+    {
+      "time": 103.83,
+      "time_str": "01:43.830",
+      "text": "Get to diggin' on me (on me)",
+      "translation": "开始沉醉于我"
+    },
+    {
+      "time": 105.73,
+      "time_str": "01:45.730",
+      "text": "She waited on me (then what?)",
+      "translation": "她为我等待"
+    },
+    {
+      "time": 107.23,
+      "time_str": "01:47.230",
+      "text": "Shawty cakin' on me, got the bacon on me (wait up)",
+      "translation": "甜心辣妹在我身上，拿着培根"
+    },
+    {
+      "time": 110.3,
+      "time_str": "01:50.300",
+      "text": "This is history in the makin' on me (on me)",
+      "translation": "这将是她与我的不朽情史"
+    },
+    {
+      "time": 112.36,
+      "time_str": "01:52.360",
+      "text": "Point blank, close range, that be",
+      "translation": "空白点 越来越近的关系"
+    },
+    {
+      "time": 114.67,
+      "time_str": "01:54.670",
+      "text": "If it cost a million, that's me (that's me)",
+      "translation": "不惜为她花上百万钞票 那就是我"
+    },
+    {
+      "time": 116.95,
+      "time_str": "01:56.950",
+      "text": "I was gettin' mula, man they feel me",
+      "translation": "富可敌国的我 她迟早会爱上我（mula在俚语中是money的意思）"
+    },
+    {
+      "time": 118.61,
+      "time_str": "01:58.610",
+      "text": "Havana, ooh na-na (ayy, ayy)",
+      "translation": "哈瓦那 哦呐呐"
+    },
+    {
+      "time": 121.54,
+      "time_str": "02:01.540",
+      "text": "Half of my heart is in Havana, ooh-na-na (oh, ayy, ayy)",
+      "translation": "我一半的心都留在哈瓦那"
+    },
+    {
+      "time": 126.6,
+      "time_str": "02:06.600",
+      "text": "He took me back to East Atlanta, na-na-na (oh no)",
+      "translation": "他带我重回东亚特兰大"
+    },
+    {
+      "time": 130.66,
+      "time_str": "02:10.660",
+      "text": "All of my heart is in Havana (ayy)",
+      "translation": "我的所有身心如今都属于哈瓦那"
+    },
+    {
+      "time": 133.52,
+      "time_str": "02:13.520",
+      "text": "My heart is in Havana (ayy)",
+      "translation": "我的身心如今都属于哈瓦那"
+    },
+    {
+      "time": 135.84,
+      "time_str": "02:15.840",
+      "text": "Havana, ooh na-na",
+      "translation": "哈瓦那 哦呐呐"
+    },
+    {
+      "time": 137.4,
+      "time_str": "02:17.400",
+      "text": "Ooh na-na, oh na-na-na",
+      "translation": null
+    },
+    {
+      "time": 140.41,
+      "time_str": "02:20.410",
+      "text": "Take me back, back, back",
+      "translation": "带我回去 带我回去"
+    },
+    {
+      "time": 141.89,
+      "time_str": "02:21.890",
+      "text": "Ooh na-na, oh na-na-na",
+      "translation": null
+    },
+    {
+      "time": 144.96,
+      "time_str": "02:24.960",
+      "text": "Take me back, back, back",
+      "translation": "带我回去 带我回去"
+    },
+    {
+      "time": 146.4,
+      "time_str": "02:26.400",
+      "text": "Ooh na-na, oh na-na-na",
+      "translation": null
+    },
+    {
+      "time": 149.51,
+      "time_str": "02:29.510",
+      "text": "Take me back, back, back",
+      "translation": "带我回去 带我回去"
+    },
+    {
+      "time": 150.92,
+      "time_str": "02:30.920",
+      "text": "Ooh na-na, oh na-na-na",
+      "translation": null
+    },
+    {
+      "time": 154.08,
+      "time_str": "02:34.080",
+      "text": "Take me back, back, back",
+      "translation": "带我回去 带我回去"
+    },
+    {
+      "time": 158.4,
+      "time_str": "02:38.400",
+      "text": "Yeah, ayy",
+      "translation": null
+    },
+    {
+      "time": 164.64,
+      "time_str": "02:44.640",
+      "text": "Oooh-oooh-ooh",
+      "translation": null
+    },
+    {
+      "time": 169.22,
+      "time_str": "02:49.220",
+      "text": "Oooh-oooh-ooh",
+      "translation": null
+    },
+    {
+      "time": 172.6,
+      "time_str": "02:52.600",
+      "text": "Take me back to my Havana...",
+      "translation": "带我回到我甜蜜的哈瓦那"
+    },
+    {
+      "time": 173.54,
+      "time_str": "02:53.540",
+      "text": "Havana, ooh na-na (ayy, ayy)",
+      "translation": "哈瓦那 哦呐呐"
+    },
+    {
+      "time": 176.39,
+      "time_str": "02:56.390",
+      "text": "Half of my heart is in Havana, ooh-na-na (yeah)",
+      "translation": "我一半的心都留在哈瓦那"
+    },
+    {
+      "time": 181.0,
+      "time_str": "03:01.000",
+      "text": "He took me back to East Atlanta, na-na-na",
+      "translation": "他带我重回东亚特兰大"
+    },
+    {
+      "time": 185.5,
+      "time_str": "03:05.500",
+      "text": "All of my heart is in Havana",
+      "translation": "我的所有身心如今都属于哈瓦那"
+    },
+    {
+      "time": 188.36,
+      "time_str": "03:08.360",
+      "text": "My heart is in Havana (ayy)",
+      "translation": "我的身心如今都属于哈瓦那"
+    },
+    {
+      "time": 190.65,
+      "time_str": "03:10.650",
+      "text": "Havana, ooh na-na",
+      "translation": "哈瓦那 哦呐呐"
+    },
+    {
+      "time": 192.35,
+      "time_str": "03:12.350",
+      "text": "Uh huh",
+      "translation": null
+    },
+    {
+      "time": 193.54,
+      "time_str": "03:13.540",
+      "text": "Oh na-na-na",
+      "translation": null
+    },
+    {
+      "time": 198.08,
+      "time_str": "03:18.080",
+      "text": "Oh na-na-na (hey)",
+      "translation": null
+    },
+    {
+      "time": 202.65,
+      "time_str": "03:22.650",
+      "text": "Oh na-na-na",
+      "translation": null
+    },
+    {
+      "time": 203.34,
+      "time_str": "03:23.340",
+      "text": "No, no, no, take me back",
+      "translation": "不不不 带我回去吧"
+    },
+    {
+      "time": 207.23,
+      "time_str": "03:27.230",
+      "text": "Oh na-na-na",
+      "translation": null
+    },
+    {
+      "time": 209.07,
+      "time_str": "03:29.070",
+      "text": "Havana, ooh na-na",
+      "translation": "哈瓦那 哦呐呐"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Havana - Camila Cabello,Young Thug.lrc"
+}

@@ -1,0 +1,142 @@
+{
+  "title": "童年",
+  "title_raw": "童年",
+  "version": null,
+  "artist": "赵鹏",
+  "group_key": "童年|赵鹏",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.49,
+      "time_str": "00:29.490",
+      "text": "池塘边的榕树上，知了在声声叫着夏天",
+      "translation": null
+    },
+    {
+      "time": 37.86,
+      "time_str": "00:37.860",
+      "text": "操场边的秋千上，只有蝴蝶停在上面",
+      "translation": null
+    },
+    {
+      "time": 45.48,
+      "time_str": "00:45.480",
+      "text": "黑板上老师的粉笔还在拼命叽叽喳喳写个不停",
+      "translation": null
+    },
+    {
+      "time": 53.84,
+      "time_str": "00:53.840",
+      "text": "等待着下课等待着放学等待游戏的童年",
+      "translation": null
+    },
+    {
+      "time": 62.9,
+      "time_str": "01:02.900",
+      "text": "总是要等到睡觉前才知道功课只做了一点点",
+      "translation": null
+    },
+    {
+      "time": 71.19,
+      "time_str": "01:11.190",
+      "text": "总是要等到考试以后才知道该念的书都没有念",
+      "translation": null
+    },
+    {
+      "time": 78.62,
+      "time_str": "01:18.620",
+      "text": "一寸光阴一寸金老师说过寸金难买寸光阴",
+      "translation": null
+    },
+    {
+      "time": 86.99,
+      "time_str": "01:26.990",
+      "text": "一天又一天一年又一年迷迷糊糊的童年",
+      "translation": null
+    },
+    {
+      "time": 100.08,
+      "time_str": "01:40.080",
+      "text": "没有人知道为什么太阳总下到山的那一边",
+      "translation": null
+    },
+    {
+      "time": 108.07,
+      "time_str": "01:48.070",
+      "text": "没有人能够告诉我山里面有没有住着神仙",
+      "translation": null
+    },
+    {
+      "time": 115.85,
+      "time_str": "01:55.850",
+      "text": "多少的日子里总是一个人面对着天空发呆",
+      "translation": null
+    },
+    {
+      "time": 124.27,
+      "time_str": "02:04.270",
+      "text": "就这么好奇就这么幻想这么孤单的童年",
+      "translation": null
+    },
+    {
+      "time": 153.92,
+      "time_str": "02:33.920",
+      "text": "阳光下蜻蜓飞过来一片片绿油油的稻田",
+      "translation": null
+    },
+    {
+      "time": 161.23,
+      "time_str": "02:41.230",
+      "text": "水彩蜡笔和万花筒画不出天边那一条彩虹",
+      "translation": null
+    },
+    {
+      "time": 169.64,
+      "time_str": "02:49.640",
+      "text": "什么时候才能像高年级的同学有张成熟与长大的脸",
+      "translation": null
+    },
+    {
+      "time": 177.94,
+      "time_str": "02:57.940",
+      "text": "盼望着假期盼望着明天盼望长大的童年",
+      "translation": null
+    },
+    {
+      "time": 186.9,
+      "time_str": "03:06.900",
+      "text": "池塘边的榕树上，知了在声声叫着夏天",
+      "translation": null
+    },
+    {
+      "time": 194.64,
+      "time_str": "03:14.640",
+      "text": "草丛边的秋千上，只有蝴蝶停在上面",
+      "translation": null
+    },
+    {
+      "time": 202.87,
+      "time_str": "03:22.870",
+      "text": "黑板上老师的粉笔还在拼命叽叽喳喳写个不停",
+      "translation": null
+    },
+    {
+      "time": 210.99,
+      "time_str": "03:30.990",
+      "text": "等待着下课等待着放学等待游戏的童年",
+      "translation": null
+    },
+    {
+      "time": 219.29,
+      "time_str": "03:39.290",
+      "text": "一天又一天一年又一年盼望长大的童年",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "童年 - 赵鹏.lrc"
+}

@@ -1,0 +1,124 @@
+{
+  "title": "Bressanon 布列瑟农",
+  "title_raw": "Bressanon 布列瑟农",
+  "version": null,
+  "artist": "乔维怡",
+  "group_key": "bressanon 布列瑟农|乔维怡",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 35.88,
+      "time_str": "00:35.880",
+      "text": "Here I stand in bressanone",
+      "translation": "我站在布列瑟农"
+    },
+    {
+      "time": 41.79,
+      "time_str": "00:41.790",
+      "text": "with the stars up in the sky",
+      "translation": "的星空下"
+    },
+    {
+      "time": 46.82,
+      "time_str": "00:46.820",
+      "text": "are they shining over brenner",
+      "translation": "想问繁星是否也照亮着"
+    },
+    {
+      "time": 53.05,
+      "time_str": "00:53.050",
+      "text": "and upon the other side",
+      "translation": "星河那头的布雷纳"
+    },
+    {
+      "time": 58.08,
+      "time_str": "00:58.080",
+      "text": "You would be a sweet surrender",
+      "translation": "心中甜蜜的痛 是你"
+    },
+    {
+      "time": 63.99,
+      "time_str": "01:03.990",
+      "text": "I must go the other way",
+      "translation": "我却将在没有你的路上远去"
+    },
+    {
+      "time": 69.35,
+      "time_str": "01:09.350",
+      "text": "and my train will carry me onward",
+      "translation": "乘着不回头的列车"
+    },
+    {
+      "time": 75.25,
+      "time_str": "01:15.250",
+      "text": "though my heart would surely stay",
+      "translation": "而我的心留给你，它哪里也不去"
+    },
+    {
+      "time": 80.62,
+      "time_str": "01:20.620",
+      "text": "wo my heart would surely stay",
+      "translation": "我的心留给你，它哪里也不去"
+    },
+    {
+      "time": 142.96,
+      "time_str": "02:22.960",
+      "text": "Now the clouds are flying by me",
+      "translation": "身侧云浮影沉"
+    },
+    {
+      "time": 148.97,
+      "time_str": "02:28.970",
+      "text": "and the moon is on the rise",
+      "translation": "月亮升起时"
+    },
+    {
+      "time": 154.22,
+      "time_str": "02:34.220",
+      "text": "I have left stars behind me",
+      "translation": "愿我身后的星辰"
+    },
+    {
+      "time": 160.24,
+      "time_str": "02:40.240",
+      "text": "they were disamonds in your skies",
+      "translation": "闪烁如钻，装点你的夜空"
+    },
+    {
+      "time": 168.34,
+      "time_str": "02:48.340",
+      "text": "you would be a sweet surrender",
+      "translation": "心中甜蜜的痛 是你"
+    },
+    {
+      "time": 174.25,
+      "time_str": "02:54.250",
+      "text": "I must go the other way",
+      "translation": "我却将在没有你的路上远去"
+    },
+    {
+      "time": 179.49,
+      "time_str": "02:59.490",
+      "text": "and my train will carry me onward",
+      "translation": "乘着不回头的列车"
+    },
+    {
+      "time": 185.41,
+      "time_str": "03:05.410",
+      "text": "though my heart would surely stay",
+      "translation": "而我的心留给你，它哪里也不去"
+    },
+    {
+      "time": 190.88,
+      "time_str": "03:10.880",
+      "text": "wo my heart would surely stay",
+      "translation": "我的心留给你，它哪里也不去"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Bressanon 布列瑟农 - 乔维怡.lrc"
+}

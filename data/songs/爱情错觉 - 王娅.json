@@ -1,0 +1,286 @@
+{
+  "title": "爱情错觉",
+  "title_raw": "爱情错觉",
+  "version": null,
+  "artist": "王娅",
+  "group_key": "爱情错觉|王娅",
+  "writers": {
+    "lyricist": "二娃 李军",
+    "composer": "二娃 李军",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.4,
+      "time_str": "00:19.400",
+      "text": "看窗外的世界 繁华喧闹的夜",
+      "translation": null
+    },
+    {
+      "time": 23.5,
+      "time_str": "00:23.500",
+      "text": "孤单身影随风在空中摇摇坠跌",
+      "translation": null
+    },
+    {
+      "time": 28.37,
+      "time_str": "00:28.370",
+      "text": "秋风萧瑟凛冽 满天飞舞风雪",
+      "translation": null
+    },
+    {
+      "time": 34.4,
+      "time_str": "00:34.400",
+      "text": "因为你的出现打破所有的一切",
+      "translation": null
+    },
+    {
+      "time": 38.198,
+      "time_str": "00:38.198",
+      "text": "月儿阴晴圆缺照着疲惫黑夜",
+      "translation": null
+    },
+    {
+      "time": 42.778,
+      "time_str": "00:42.778",
+      "text": "人来人往拼命追逐未知的一切",
+      "translation": null
+    },
+    {
+      "time": 47.558,
+      "time_str": "00:47.558",
+      "text": "穿梭从前的街 感觉如此强烈",
+      "translation": null
+    },
+    {
+      "time": 52.308,
+      "time_str": "00:52.308",
+      "text": "你会和我回到那个记忆的年月",
+      "translation": null
+    },
+    {
+      "time": 57.007,
+      "time_str": "00:57.007",
+      "text": "我的爱没了解 你在哪一个世界",
+      "translation": null
+    },
+    {
+      "time": 61.534,
+      "time_str": "01:01.534",
+      "text": "如果当初没拒绝何苦不辞而别",
+      "translation": null
+    },
+    {
+      "time": 66.361,
+      "time_str": "01:06.361",
+      "text": "我若坚定一些不曾将你忽略",
+      "translation": null
+    },
+    {
+      "time": 71.489,
+      "time_str": "01:11.489",
+      "text": "再多一些体贴爱是否还会终结",
+      "translation": null
+    },
+    {
+      "time": 76.783,
+      "time_str": "01:16.783",
+      "text": "错觉",
+      "translation": null
+    },
+    {
+      "time": 98.051,
+      "time_str": "01:38.051",
+      "text": "月儿阴晴圆缺照着疲惫黑夜",
+      "translation": null
+    },
+    {
+      "time": 103.483,
+      "time_str": "01:43.483",
+      "text": "人来人往拼命追逐未知的一切",
+      "translation": null
+    },
+    {
+      "time": 107.361,
+      "time_str": "01:47.361",
+      "text": "穿梭从前的街 感觉如此强烈",
+      "translation": null
+    },
+    {
+      "time": 112.593,
+      "time_str": "01:52.593",
+      "text": "你会和我回到那个记忆的年月",
+      "translation": null
+    },
+    {
+      "time": 117.292,
+      "time_str": "01:57.292",
+      "text": "我的爱没了解 你在哪一个世界",
+      "translation": null
+    },
+    {
+      "time": 122.781,
+      "time_str": "02:02.781",
+      "text": "如果当初没拒绝何苦不辞而别",
+      "translation": null
+    },
+    {
+      "time": 126.331,
+      "time_str": "02:06.331",
+      "text": "我若坚定一些不曾将你忽略",
+      "translation": null
+    },
+    {
+      "time": 131.52,
+      "time_str": "02:11.520",
+      "text": "再多一些体贴爱是否还会终结",
+      "translation": null
+    },
+    {
+      "time": 136.292,
+      "time_str": "02:16.292",
+      "text": "错觉",
+      "translation": null
+    },
+    {
+      "time": 140.221,
+      "time_str": "02:20.221",
+      "text": "rap：",
+      "translation": null
+    },
+    {
+      "time": 141.691,
+      "time_str": "02:21.691",
+      "text": "我看着你的世界",
+      "translation": null
+    },
+    {
+      "time": 142.99,
+      "time_str": "02:22.990",
+      "text": "一个虚无缥缈飘渺虚无",
+      "translation": null
+    },
+    {
+      "time": 144.792,
+      "time_str": "02:24.792",
+      "text": "看着花开花落等你的世界",
+      "translation": null
+    },
+    {
+      "time": 146.131,
+      "time_str": "02:26.131",
+      "text": "跟你追跟你飞跟你飞得那么心碎",
+      "translation": null
+    },
+    {
+      "time": 148.691,
+      "time_str": "02:28.691",
+      "text": "爱情如此甜美如此暧昧",
+      "translation": null
+    },
+    {
+      "time": 151.792,
+      "time_str": "02:31.792",
+      "text": "一瞬间 已经 已经花谢灰飞",
+      "translation": null
+    },
+    {
+      "time": 153.53,
+      "time_str": "02:33.530",
+      "text": "LAI YU FU ZI MEI 到底爱谁",
+      "translation": null
+    },
+    {
+      "time": 155.893,
+      "time_str": "02:35.893",
+      "text": "爱上行你无所谓 跟着你不算后悔",
+      "translation": null
+    },
+    {
+      "time": 158.042,
+      "time_str": "02:38.042",
+      "text": "爱是我的我的我的所以在测速",
+      "translation": null
+    },
+    {
+      "time": 160.244,
+      "time_str": "02:40.244",
+      "text": "我的爱没了解  你在哪一个世界",
+      "translation": null
+    },
+    {
+      "time": 165.122,
+      "time_str": "02:45.122",
+      "text": "如果当初没拒绝何苦不辞而别",
+      "translation": null
+    },
+    {
+      "time": 169.583,
+      "time_str": "02:49.583",
+      "text": "我若坚定一些不曾将你忽略",
+      "translation": null
+    },
+    {
+      "time": 174.75,
+      "time_str": "02:54.750",
+      "text": "再多一些体贴爱是否还会终结",
+      "translation": null
+    },
+    {
+      "time": 179.184,
+      "time_str": "02:59.184",
+      "text": "我的爱没了解  你在哪一个世界",
+      "translation": null
+    },
+    {
+      "time": 184.352,
+      "time_str": "03:04.352",
+      "text": "如果当初没拒绝何苦不辞而别",
+      "translation": null
+    },
+    {
+      "time": 188.77,
+      "time_str": "03:08.770",
+      "text": "我若坚定一些不曾将你忽略",
+      "translation": null
+    },
+    {
+      "time": 194.191,
+      "time_str": "03:14.191",
+      "text": "再多一些体贴爱是否还会终结",
+      "translation": null
+    },
+    {
+      "time": 199.49,
+      "time_str": "03:19.490",
+      "text": "我的爱没了解  你在哪一个世界",
+      "translation": null
+    },
+    {
+      "time": 203.893,
+      "time_str": "03:23.893",
+      "text": "如果当初没拒绝何苦不辞而别",
+      "translation": null
+    },
+    {
+      "time": 208.393,
+      "time_str": "03:28.393",
+      "text": "我若坚定一些不曾将你忽略",
+      "translation": null
+    },
+    {
+      "time": 213.122,
+      "time_str": "03:33.122",
+      "text": "再多一些体贴爱是否还会终结",
+      "translation": null
+    },
+    {
+      "time": 217.52,
+      "time_str": "03:37.520",
+      "text": "错觉",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱情错觉 - 王娅.lrc"
+}

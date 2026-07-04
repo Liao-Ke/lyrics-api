@@ -1,0 +1,340 @@
+{
+  "title": "归途",
+  "title_raw": "归途",
+  "version": null,
+  "artist": "卷毛TuT",
+  "group_key": "归途|卷毛tut",
+  "writers": {
+    "lyricist": "林半首",
+    "composer": "曹俊涛",
+    "arranger": "SuperJump安逸"
+  },
+  "lyrics": [
+    {
+      "time": 2.79,
+      "time_str": "00:02.790",
+      "text": "《归途》- 星一问水",
+      "translation": null
+    },
+    {
+      "time": 23.59,
+      "time_str": "00:23.590",
+      "text": "苍穹热血一身傲骨的少年",
+      "translation": null
+    },
+    {
+      "time": 28.38,
+      "time_str": "00:28.380",
+      "text": "欲望火烧遍野间",
+      "translation": null
+    },
+    {
+      "time": 30.98,
+      "time_str": "00:30.980",
+      "text": "踏过着山河边",
+      "translation": null
+    },
+    {
+      "time": 34.17,
+      "time_str": "00:34.170",
+      "text": "任凭刀剑一声笑看过云烟",
+      "translation": null
+    },
+    {
+      "time": 39.19,
+      "time_str": "00:39.190",
+      "text": "难渡自我不妥协",
+      "translation": null
+    },
+    {
+      "time": 41.86,
+      "time_str": "00:41.860",
+      "text": "淤泥也盛红莲",
+      "translation": null
+    },
+    {
+      "time": 45.07,
+      "time_str": "00:45.070",
+      "text": "我走自己的路",
+      "translation": null
+    },
+    {
+      "time": 46.19,
+      "time_str": "00:46.190",
+      "text": "鞋脏无惧招数",
+      "translation": null
+    },
+    {
+      "time": 47.62,
+      "time_str": "00:47.620",
+      "text": "葫中酒入半腹",
+      "translation": null
+    },
+    {
+      "time": 48.86,
+      "time_str": "00:48.860",
+      "text": "抬头仰望着归途",
+      "translation": null
+    },
+    {
+      "time": 50.23,
+      "time_str": "00:50.230",
+      "text": "山间飘起大雾",
+      "translation": null
+    },
+    {
+      "time": 51.46,
+      "time_str": "00:51.460",
+      "text": "任凭寒风刺入骨",
+      "translation": null
+    },
+    {
+      "time": 52.83,
+      "time_str": "00:52.830",
+      "text": "喔喔",
+      "translation": null
+    },
+    {
+      "time": 53.45,
+      "time_str": "00:53.450",
+      "text": "吾从哪里来就是哪里的骨",
+      "translation": null
+    },
+    {
+      "time": 56.05,
+      "time_str": "00:56.050",
+      "text": "上刀山下海红尘早已退出",
+      "translation": null
+    },
+    {
+      "time": 58.71,
+      "time_str": "00:58.710",
+      "text": "命中里有路脚下荆棘稳住",
+      "translation": null
+    },
+    {
+      "time": 61.38,
+      "time_str": "01:01.380",
+      "text": "望着天山靠地英雄不问归处Yeah~",
+      "translation": null
+    },
+    {
+      "time": 63.9,
+      "time_str": "01:03.900",
+      "text": "马蹄赤兔随我去血染沙场疆土",
+      "translation": null
+    },
+    {
+      "time": 66.56,
+      "time_str": "01:06.560",
+      "text": "长戟刺下在黎明的黑暗之下",
+      "translation": null
+    },
+    {
+      "time": 68.99,
+      "time_str": "01:08.990",
+      "text": "硝烟号角响起了红色的警告",
+      "translation": null
+    },
+    {
+      "time": 71.71,
+      "time_str": "01:11.710",
+      "text": "一人脚下踩着滚烫的荣耀",
+      "translation": null
+    },
+    {
+      "time": 74.12,
+      "time_str": "01:14.120",
+      "text": "信号 扛起了无畏的旗帜展示着完美记号",
+      "translation": null
+    },
+    {
+      "time": 77.41,
+      "time_str": "01:17.410",
+      "text": "无声的高歌内心的火热",
+      "translation": null
+    },
+    {
+      "time": 80.02,
+      "time_str": "01:20.020",
+      "text": "烽烟还记得沙场中撕扯",
+      "translation": null
+    },
+    {
+      "time": 82.75,
+      "time_str": "01:22.750",
+      "text": "血液流淌着一生的长河",
+      "translation": null
+    },
+    {
+      "time": 85.41,
+      "time_str": "01:25.410",
+      "text": "一身傲骨骄傲地活着",
+      "translation": null
+    },
+    {
+      "time": 87.95,
+      "time_str": "01:27.950",
+      "text": "苍穹热血一身傲骨的少年",
+      "translation": null
+    },
+    {
+      "time": 92.54,
+      "time_str": "01:32.540",
+      "text": "欲望火烧遍野间",
+      "translation": null
+    },
+    {
+      "time": 95.2,
+      "time_str": "01:35.200",
+      "text": "踏过着山河边",
+      "translation": null
+    },
+    {
+      "time": 98.37,
+      "time_str": "01:38.370",
+      "text": "任凭刀剑一声笑看过云烟",
+      "translation": null
+    },
+    {
+      "time": 103.2,
+      "time_str": "01:43.200",
+      "text": "难渡自我不妥协",
+      "translation": null
+    },
+    {
+      "time": 105.93,
+      "time_str": "01:45.930",
+      "text": "淤泥也盛红莲",
+      "translation": null
+    },
+    {
+      "time": 109.4,
+      "time_str": "01:49.400",
+      "text": "无声的高歌内心的火热",
+      "translation": null
+    },
+    {
+      "time": 112.0,
+      "time_str": "01:52.000",
+      "text": "烽烟还记得沙场中撕扯",
+      "translation": null
+    },
+    {
+      "time": 114.73,
+      "time_str": "01:54.730",
+      "text": "血液流淌着",
+      "translation": null
+    },
+    {
+      "time": 116.03,
+      "time_str": "01:56.030",
+      "text": "一生的长河",
+      "translation": null
+    },
+    {
+      "time": 117.4,
+      "time_str": "01:57.400",
+      "text": "一身傲骨 骄傲地活着",
+      "translation": null
+    },
+    {
+      "time": 119.69,
+      "time_str": "01:59.690",
+      "text": "我顶着天 我立于地",
+      "translation": null
+    },
+    {
+      "time": 122.23,
+      "time_str": "02:02.230",
+      "text": "我顶着天 我立于地",
+      "translation": null
+    },
+    {
+      "time": 124.78,
+      "time_str": "02:04.780",
+      "text": "我顶着天 我立于地",
+      "translation": null
+    },
+    {
+      "time": 127.44,
+      "time_str": "02:07.440",
+      "text": "一身正气 万物不侵",
+      "translation": null
+    },
+    {
+      "time": 130.42,
+      "time_str": "02:10.420",
+      "text": "长戟刺下在黎明的黑暗之下",
+      "translation": null
+    },
+    {
+      "time": 132.96,
+      "time_str": "02:12.960",
+      "text": "硝烟号角响起了红色的警告",
+      "translation": null
+    },
+    {
+      "time": 135.56,
+      "time_str": "02:15.560",
+      "text": "一人脚下踩着滚烫的荣耀",
+      "translation": null
+    },
+    {
+      "time": 138.23,
+      "time_str": "02:18.230",
+      "text": "信号 扛起了无畏的旗帜展示着完美记号",
+      "translation": null
+    },
+    {
+      "time": 141.45,
+      "time_str": "02:21.450",
+      "text": "无声的高歌内心的火热",
+      "translation": null
+    },
+    {
+      "time": 144.11,
+      "time_str": "02:24.110",
+      "text": "烽烟还记得沙场中撕扯",
+      "translation": null
+    },
+    {
+      "time": 146.78,
+      "time_str": "02:26.780",
+      "text": "血液流淌着一生的长河",
+      "translation": null
+    },
+    {
+      "time": 149.38,
+      "time_str": "02:29.380",
+      "text": "一身傲骨骄傲地活着",
+      "translation": null
+    },
+    {
+      "time": 151.74,
+      "time_str": "02:31.740",
+      "text": "我顶着天 我立于地",
+      "translation": null
+    },
+    {
+      "time": 153.91,
+      "time_str": "02:33.910",
+      "text": "我顶着天 我立于地",
+      "translation": null
+    },
+    {
+      "time": 156.82,
+      "time_str": "02:36.820",
+      "text": "我顶着天 我立于地",
+      "translation": null
+    },
+    {
+      "time": 159.48,
+      "time_str": "02:39.480",
+      "text": "一身正气 万物不侵",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "归途 - 卷毛TuT.lrc"
+}

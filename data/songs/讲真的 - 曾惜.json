@@ -1,0 +1,310 @@
+{
+  "title": "讲真的",
+  "title_raw": "讲真的",
+  "version": null,
+  "artist": "曾惜",
+  "group_key": "讲真的|曾惜",
+  "writers": {
+    "lyricist": "黄然",
+    "composer": "何诗蒙",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.39,
+      "time_str": "00:18.390",
+      "text": "今夜特别漫长",
+      "translation": null
+    },
+    {
+      "time": 21.46,
+      "time_str": "00:21.460",
+      "text": "有个号码一直被存放",
+      "translation": null
+    },
+    {
+      "time": 25.68,
+      "time_str": "00:25.680",
+      "text": "源自某种倔强",
+      "translation": null
+    },
+    {
+      "time": 30.07,
+      "time_str": "00:30.070",
+      "text": "不舍删去又不敢想",
+      "translation": null
+    },
+    {
+      "time": 33.26,
+      "time_str": "00:33.260",
+      "text": "明明对你念念不忘",
+      "translation": null
+    },
+    {
+      "time": 37.41,
+      "time_str": "00:37.410",
+      "text": "思前想后越发紧张",
+      "translation": null
+    },
+    {
+      "time": 41.38,
+      "time_str": "00:41.380",
+      "text": "无法深藏",
+      "translation": null
+    },
+    {
+      "time": 43.75,
+      "time_str": "00:43.750",
+      "text": "爱没爱过想听你讲",
+      "translation": null
+    },
+    {
+      "time": 48.61,
+      "time_str": "00:48.610",
+      "text": "讲真的",
+      "translation": null
+    },
+    {
+      "time": 51.38,
+      "time_str": "00:51.380",
+      "text": "会不会是我 被鬼迷心窍了",
+      "translation": null
+    },
+    {
+      "time": 54.96,
+      "time_str": "00:54.960",
+      "text": "敷衍了太多 我怎么不难过",
+      "translation": null
+    },
+    {
+      "time": 58.95,
+      "time_str": "00:58.950",
+      "text": "要你亲口说 别只剩沉默",
+      "translation": null
+    },
+    {
+      "time": 63.23,
+      "time_str": "01:03.230",
+      "text": "或许你早就回答了我",
+      "translation": null
+    },
+    {
+      "time": 66.89,
+      "time_str": "01:06.890",
+      "text": "讲真的",
+      "translation": null
+    },
+    {
+      "time": 68.24,
+      "time_str": "01:08.240",
+      "text": "想得不可得 是最难割舍的",
+      "translation": null
+    },
+    {
+      "time": 71.84,
+      "time_str": "01:11.840",
+      "text": "各自好好过 也好过一直拖",
+      "translation": null
+    },
+    {
+      "time": 75.9,
+      "time_str": "01:15.900",
+      "text": "自作多情了 好吧我认了",
+      "translation": null
+    },
+    {
+      "time": 79.81,
+      "time_str": "01:19.810",
+      "text": "至少能换来释怀洒脱",
+      "translation": null
+    },
+    {
+      "time": 83.25,
+      "time_str": "01:23.250",
+      "text": "没丢失掉自我",
+      "translation": null
+    },
+    {
+      "time": 102.1,
+      "time_str": "01:42.100",
+      "text": "今夜特别漫长",
+      "translation": null
+    },
+    {
+      "time": 104.95,
+      "time_str": "01:44.950",
+      "text": "有个号码一直被存放",
+      "translation": null
+    },
+    {
+      "time": 109.69,
+      "time_str": "01:49.690",
+      "text": "源自某种倔强",
+      "translation": null
+    },
+    {
+      "time": 113.55,
+      "time_str": "01:53.550",
+      "text": "不舍删去又不敢想",
+      "translation": null
+    },
+    {
+      "time": 117.54,
+      "time_str": "01:57.540",
+      "text": "明明对你念念不忘",
+      "translation": null
+    },
+    {
+      "time": 121.18,
+      "time_str": "02:01.180",
+      "text": "思前想后越发紧张",
+      "translation": null
+    },
+    {
+      "time": 125.94,
+      "time_str": "02:05.940",
+      "text": "无法深藏",
+      "translation": null
+    },
+    {
+      "time": 128.1,
+      "time_str": "02:08.100",
+      "text": "爱没爱过想听你讲",
+      "translation": null
+    },
+    {
+      "time": 133.54,
+      "time_str": "02:13.540",
+      "text": "讲真的",
+      "translation": null
+    },
+    {
+      "time": 135.34,
+      "time_str": "02:15.340",
+      "text": "会不会是我 被鬼迷心窍了",
+      "translation": null
+    },
+    {
+      "time": 139.1,
+      "time_str": "02:19.100",
+      "text": "敷衍了太多 我怎么不难过",
+      "translation": null
+    },
+    {
+      "time": 143.59,
+      "time_str": "02:23.590",
+      "text": "要你亲口说 别只剩沉默",
+      "translation": null
+    },
+    {
+      "time": 147.6,
+      "time_str": "02:27.600",
+      "text": "或许你早就回答了我",
+      "translation": null
+    },
+    {
+      "time": 150.74,
+      "time_str": "02:30.740",
+      "text": "讲真的",
+      "translation": null
+    },
+    {
+      "time": 152.22,
+      "time_str": "02:32.220",
+      "text": "想得不可得 是最难割舍的",
+      "translation": null
+    },
+    {
+      "time": 155.8,
+      "time_str": "02:35.800",
+      "text": "各自好好过 也好过一直拖",
+      "translation": null
+    },
+    {
+      "time": 160.22,
+      "time_str": "02:40.220",
+      "text": "自作多情了 好吧我认了",
+      "translation": null
+    },
+    {
+      "time": 164.66,
+      "time_str": "02:44.660",
+      "text": "至少能换来释怀洒脱",
+      "translation": null
+    },
+    {
+      "time": 167.6,
+      "time_str": "02:47.600",
+      "text": "没丢失掉自我",
+      "translation": null
+    },
+    {
+      "time": 184.18,
+      "time_str": "03:04.180",
+      "text": "讲真的",
+      "translation": null
+    },
+    {
+      "time": 185.84,
+      "time_str": "03:05.840",
+      "text": "会不会是我 被鬼迷心窍了",
+      "translation": null
+    },
+    {
+      "time": 189.74,
+      "time_str": "03:09.740",
+      "text": "敷衍了太多 我怎么不难过",
+      "translation": null
+    },
+    {
+      "time": 194.13,
+      "time_str": "03:14.130",
+      "text": "要你亲口说 别只剩沉默",
+      "translation": null
+    },
+    {
+      "time": 198.16,
+      "time_str": "03:18.160",
+      "text": "或许你早就回答了我",
+      "translation": null
+    },
+    {
+      "time": 201.41,
+      "time_str": "03:21.410",
+      "text": "讲真的",
+      "translation": null
+    },
+    {
+      "time": 202.0,
+      "time_str": "03:22.000",
+      "text": "想得不可得 是最难割舍的",
+      "translation": null
+    },
+    {
+      "time": 206.48,
+      "time_str": "03:26.480",
+      "text": "各自好好过 也好过一直拖",
+      "translation": null
+    },
+    {
+      "time": 210.76,
+      "time_str": "03:30.760",
+      "text": "自作多情了 好吧我认了",
+      "translation": null
+    },
+    {
+      "time": 215.09,
+      "time_str": "03:35.090",
+      "text": "至少能换来释怀洒脱",
+      "translation": null
+    },
+    {
+      "time": 218.06,
+      "time_str": "03:38.060",
+      "text": "没丢失掉自我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "讲真的 - 曾惜.lrc"
+}

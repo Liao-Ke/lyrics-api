@@ -1,0 +1,238 @@
+{
+  "title": "朋友名义",
+  "title_raw": "朋友名义",
+  "version": null,
+  "artist": "六哲",
+  "group_key": "朋友名义|六哲",
+  "writers": {
+    "lyricist": "张保",
+    "composer": "六哲",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.272,
+      "time_str": "00:00.272",
+      "text": "六哲-朋友名义",
+      "translation": null
+    },
+    {
+      "time": 17.777,
+      "time_str": "00:17.777",
+      "text": "牵手的画面总是在梦里",
+      "translation": null
+    },
+    {
+      "time": 22.273,
+      "time_str": "00:22.273",
+      "text": "眷恋只能留在心里",
+      "translation": null
+    },
+    {
+      "time": 26.101,
+      "time_str": "00:26.101",
+      "text": "你温柔的话语洒落我心底",
+      "translation": null
+    },
+    {
+      "time": 30.492,
+      "time_str": "00:30.492",
+      "text": "你的一切刻骨铭心",
+      "translation": null
+    },
+    {
+      "time": 34.685,
+      "time_str": "00:34.685",
+      "text": "思绪有点乱来不及打理",
+      "translation": null
+    },
+    {
+      "time": 38.614,
+      "time_str": "00:38.614",
+      "text": "却再次听见你在哭泣",
+      "translation": null
+    },
+    {
+      "time": 42.742,
+      "time_str": "00:42.742",
+      "text": "难过的看着你对我诉说委屈",
+      "translation": null
+    },
+    {
+      "time": 46.963,
+      "time_str": "00:46.963",
+      "text": "多希望他是我自己",
+      "translation": null
+    },
+    {
+      "time": 52.847,
+      "time_str": "00:52.847",
+      "text": "我以朋友的名义慢慢靠近你",
+      "translation": null
+    },
+    {
+      "time": 57.325,
+      "time_str": "00:57.325",
+      "text": "只为拉近跟你的距离",
+      "translation": null
+    },
+    {
+      "time": 61.487,
+      "time_str": "01:01.487",
+      "text": "却没有勇气说出我爱你",
+      "translation": null
+    },
+    {
+      "time": 65.544,
+      "time_str": "01:05.544",
+      "text": "一次次让它变成秘密",
+      "translation": null
+    },
+    {
+      "time": 69.601,
+      "time_str": "01:09.601",
+      "text": "我以朋友的名义偷偷爱着你",
+      "translation": null
+    },
+    {
+      "time": 73.809,
+      "time_str": "01:13.809",
+      "text": "至少这样不会失去你",
+      "translation": null
+    },
+    {
+      "time": 78.25,
+      "time_str": "01:18.250",
+      "text": "再多的无奈再多的委屈",
+      "translation": null
+    },
+    {
+      "time": 82.163,
+      "time_str": "01:22.163",
+      "text": "也要以这样的方式爱下去",
+      "translation": null
+    },
+    {
+      "time": 103.05,
+      "time_str": "01:43.050",
+      "text": "思绪有点乱来不及打理",
+      "translation": null
+    },
+    {
+      "time": 106.906,
+      "time_str": "01:46.906",
+      "text": "却再次听见你在哭泣",
+      "translation": null
+    },
+    {
+      "time": 111.66,
+      "time_str": "01:51.660",
+      "text": "难过的看着你对我诉说委屈",
+      "translation": null
+    },
+    {
+      "time": 115.216,
+      "time_str": "01:55.216",
+      "text": "多希望他是我自己",
+      "translation": null
+    },
+    {
+      "time": 121.02,
+      "time_str": "02:01.020",
+      "text": "我以朋友的名义慢慢靠近你",
+      "translation": null
+    },
+    {
+      "time": 125.655,
+      "time_str": "02:05.655",
+      "text": "只为拉近跟你的距离",
+      "translation": null
+    },
+    {
+      "time": 129.989,
+      "time_str": "02:09.989",
+      "text": "却没有勇气说出我爱你",
+      "translation": null
+    },
+    {
+      "time": 133.84,
+      "time_str": "02:13.840",
+      "text": "一次次让它变成秘密",
+      "translation": null
+    },
+    {
+      "time": 137.927,
+      "time_str": "02:17.927",
+      "text": "我以朋友的名义偷偷爱着你",
+      "translation": null
+    },
+    {
+      "time": 142.179,
+      "time_str": "02:22.179",
+      "text": "至少这样不会失去你",
+      "translation": null
+    },
+    {
+      "time": 146.389,
+      "time_str": "02:26.389",
+      "text": "再多的无奈再多的委屈",
+      "translation": null
+    },
+    {
+      "time": 150.439,
+      "time_str": "02:30.439",
+      "text": "也要以这样的方式",
+      "translation": null
+    },
+    {
+      "time": 154.331,
+      "time_str": "02:34.331",
+      "text": "我以朋友的名义慢慢靠近你",
+      "translation": null
+    },
+    {
+      "time": 158.681,
+      "time_str": "02:38.681",
+      "text": "只为拉近跟你的距离",
+      "translation": null
+    },
+    {
+      "time": 162.769,
+      "time_str": "02:42.769",
+      "text": "却没有勇气说出我爱你",
+      "translation": null
+    },
+    {
+      "time": 166.921,
+      "time_str": "02:46.921",
+      "text": "一次次让它变成秘密",
+      "translation": null
+    },
+    {
+      "time": 170.869,
+      "time_str": "02:50.869",
+      "text": "我以朋友的名义偷偷爱着你",
+      "translation": null
+    },
+    {
+      "time": 175.22,
+      "time_str": "02:55.220",
+      "text": "至少这样不会失去你",
+      "translation": null
+    },
+    {
+      "time": 179.569,
+      "time_str": "02:59.569",
+      "text": "再多的无奈再多的委屈",
+      "translation": null
+    },
+    {
+      "time": 183.47,
+      "time_str": "03:03.470",
+      "text": "也要以这样的方式爱下去",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "朋友名义 - 六哲.lrc"
+}

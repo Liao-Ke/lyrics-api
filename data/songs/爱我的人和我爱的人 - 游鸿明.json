@@ -1,0 +1,322 @@
+{
+  "title": "爱我的人和我爱的人",
+  "title_raw": "爱我的人和我爱的人",
+  "version": null,
+  "artist": "游鸿明",
+  "group_key": "爱我的人和我爱的人|游鸿明",
+  "writers": {
+    "lyricist": "许常德",
+    "composer": "游鸿明",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 26.93,
+      "time_str": "00:26.930",
+      "text": "盼不到我爱的人",
+      "translation": null
+    },
+    {
+      "time": 30.1,
+      "time_str": "00:30.100",
+      "text": "我知道我愿意再等",
+      "translation": null
+    },
+    {
+      "time": 34.58,
+      "time_str": "00:34.580",
+      "text": "疼不了爱我的人",
+      "translation": null
+    },
+    {
+      "time": 37.34,
+      "time_str": "00:37.340",
+      "text": "片刻柔情它骗不了人",
+      "translation": null
+    },
+    {
+      "time": 41.67,
+      "time_str": "00:41.670",
+      "text": "我不是无情的人",
+      "translation": null
+    },
+    {
+      "time": 43.38,
+      "time_str": "00:43.380",
+      "text": "却将你伤的最深",
+      "translation": null
+    },
+    {
+      "time": 45.89,
+      "time_str": "00:45.890",
+      "text": "我不忍  我不能",
+      "translation": null
+    },
+    {
+      "time": 49.77,
+      "time_str": "00:49.770",
+      "text": "别再认真",
+      "translation": null
+    },
+    {
+      "time": 51.5,
+      "time_str": "00:51.500",
+      "text": "忘了我的人",
+      "translation": null
+    },
+    {
+      "time": 57.38,
+      "time_str": "00:57.380",
+      "text": "离不开我爱的人",
+      "translation": null
+    },
+    {
+      "time": 60.55,
+      "time_str": "01:00.550",
+      "text": "我知道爱需要缘分",
+      "translation": null
+    },
+    {
+      "time": 64.96,
+      "time_str": "01:04.960",
+      "text": "放不下爱我的人",
+      "translation": null
+    },
+    {
+      "time": 67.8,
+      "time_str": "01:07.800",
+      "text": "因为了解他多么认真",
+      "translation": null
+    },
+    {
+      "time": 71.86,
+      "time_str": "01:11.860",
+      "text": "为什么最真的心",
+      "translation": null
+    },
+    {
+      "time": 73.87,
+      "time_str": "01:13.870",
+      "text": "碰不到最好的人",
+      "translation": null
+    },
+    {
+      "time": 76.29,
+      "time_str": "01:16.290",
+      "text": "我不问  我不能",
+      "translation": null
+    },
+    {
+      "time": 80.16,
+      "time_str": "01:20.160",
+      "text": "拥在怀中",
+      "translation": null
+    },
+    {
+      "time": 82.16,
+      "time_str": "01:22.160",
+      "text": "直到她变冷",
+      "translation": null
+    },
+    {
+      "time": 87.18,
+      "time_str": "01:27.180",
+      "text": "爱我的人为我痴心不悔",
+      "translation": null
+    },
+    {
+      "time": 90.98,
+      "time_str": "01:30.980",
+      "text": "我却为我爱的人甘心一生伤悲",
+      "translation": null
+    },
+    {
+      "time": 95.41,
+      "time_str": "01:35.410",
+      "text": "在乎的人始终不对",
+      "translation": null
+    },
+    {
+      "time": 99.04,
+      "time_str": "01:39.040",
+      "text": "谁对谁不必虚伪",
+      "translation": null
+    },
+    {
+      "time": 102.64,
+      "time_str": "01:42.640",
+      "text": "爱我的人为我付出一切",
+      "translation": null
+    },
+    {
+      "time": 107.09,
+      "time_str": "01:47.090",
+      "text": "我却为我爱的人流泪狂乱心碎",
+      "translation": null
+    },
+    {
+      "time": 111.35,
+      "time_str": "01:51.350",
+      "text": "爱与被爱同样受罪",
+      "translation": null
+    },
+    {
+      "time": 115.25,
+      "time_str": "01:55.250",
+      "text": "为什么不懂拒绝痴情的包围",
+      "translation": null
+    },
+    {
+      "time": 142.15,
+      "time_str": "02:22.150",
+      "text": "离不开我爱的人",
+      "translation": null
+    },
+    {
+      "time": 145.28,
+      "time_str": "02:25.280",
+      "text": "我知道爱需要缘分",
+      "translation": null
+    },
+    {
+      "time": 149.66,
+      "time_str": "02:29.660",
+      "text": "放不下爱我的人",
+      "translation": null
+    },
+    {
+      "time": 152.49,
+      "time_str": "02:32.490",
+      "text": "因为了解她多么认真",
+      "translation": null
+    },
+    {
+      "time": 156.51,
+      "time_str": "02:36.510",
+      "text": "为什么最真的心",
+      "translation": null
+    },
+    {
+      "time": 158.54,
+      "time_str": "02:38.540",
+      "text": "碰不到最好的人",
+      "translation": null
+    },
+    {
+      "time": 160.99,
+      "time_str": "02:40.990",
+      "text": "我不问  我不能",
+      "translation": null
+    },
+    {
+      "time": 164.96,
+      "time_str": "02:44.960",
+      "text": "拥在怀中",
+      "translation": null
+    },
+    {
+      "time": 166.86,
+      "time_str": "02:46.860",
+      "text": "直到她变冷",
+      "translation": null
+    },
+    {
+      "time": 171.91,
+      "time_str": "02:51.910",
+      "text": "爱我的人为我痴心不悔",
+      "translation": null
+    },
+    {
+      "time": 175.66,
+      "time_str": "02:55.660",
+      "text": "我却为我爱的人甘心一生伤悲",
+      "translation": null
+    },
+    {
+      "time": 180.08,
+      "time_str": "03:00.080",
+      "text": "在乎的人始终不对",
+      "translation": null
+    },
+    {
+      "time": 183.74,
+      "time_str": "03:03.740",
+      "text": "谁对谁不必虚伪",
+      "translation": null
+    },
+    {
+      "time": 187.17,
+      "time_str": "03:07.170",
+      "text": "爱我的人为我付出一切",
+      "translation": null
+    },
+    {
+      "time": 190.86,
+      "time_str": "03:10.860",
+      "text": "我却为我爱的人流泪狂乱心碎",
+      "translation": null
+    },
+    {
+      "time": 195.22,
+      "time_str": "03:15.220",
+      "text": "爱与被爱同样受罪",
+      "translation": null
+    },
+    {
+      "time": 198.89,
+      "time_str": "03:18.890",
+      "text": "为什么不懂拒绝痴情的包围",
+      "translation": null
+    },
+    {
+      "time": 206.12,
+      "time_str": "03:26.120",
+      "text": "爱我的人为我痴心不悔",
+      "translation": null
+    },
+    {
+      "time": 209.91,
+      "time_str": "03:29.910",
+      "text": "我却为我爱的人甘心一生伤悲",
+      "translation": null
+    },
+    {
+      "time": 214.31,
+      "time_str": "03:34.310",
+      "text": "在乎的人始终不对",
+      "translation": null
+    },
+    {
+      "time": 218.07,
+      "time_str": "03:38.070",
+      "text": "谁对谁不必虚伪",
+      "translation": null
+    },
+    {
+      "time": 221.41,
+      "time_str": "03:41.410",
+      "text": "爱我的人为我付出一切",
+      "translation": null
+    },
+    {
+      "time": 225.15,
+      "time_str": "03:45.150",
+      "text": "我却为我爱的人流泪狂乱心碎",
+      "translation": null
+    },
+    {
+      "time": 229.52,
+      "time_str": "03:49.520",
+      "text": "爱与被爱同样受罪",
+      "translation": null
+    },
+    {
+      "time": 233.2,
+      "time_str": "03:53.200",
+      "text": "为什么不懂拒绝痴情的包围",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱我的人和我爱的人 - 游鸿明.lrc"
+}

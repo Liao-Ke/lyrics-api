@@ -1,0 +1,298 @@
+{
+  "title": "几分伤心几分痴",
+  "title_raw": "几分伤心几分痴",
+  "version": null,
+  "artist": "王杰",
+  "group_key": "几分伤心几分痴|王杰",
+  "writers": {
+    "lyricist": "潘伟源",
+    "composer": "王文清",
+    "arranger": "陈志远"
+  },
+  "lyrics": [
+    {
+      "time": 34.9,
+      "time_str": "00:34.900",
+      "text": "哭泣声绝无意义",
+      "translation": null
+    },
+    {
+      "time": 36.9,
+      "time_str": "00:36.900",
+      "text": "它不会扭转分开的心意",
+      "translation": null
+    },
+    {
+      "time": 41.9,
+      "time_str": "00:41.900",
+      "text": "梦似是失去收结一首诗",
+      "translation": null
+    },
+    {
+      "time": 47.9,
+      "time_str": "00:47.900",
+      "text": "仿佛听别人故事",
+      "translation": null
+    },
+    {
+      "time": 50.9,
+      "time_str": "00:50.900",
+      "text": "今天我岂可关心多一次",
+      "translation": null
+    },
+    {
+      "time": 54.9,
+      "time_str": "00:54.900",
+      "text": "又再让这刺痛一再开始",
+      "translation": null
+    },
+    {
+      "time": 60.9,
+      "time_str": "01:00.900",
+      "text": "到底得几分伤心几分痴",
+      "translation": null
+    },
+    {
+      "time": 63.9,
+      "time_str": "01:03.900",
+      "text": "旧事藏梦里也不再有意思",
+      "translation": null
+    },
+    {
+      "time": 67.9,
+      "time_str": "01:07.900",
+      "text": "谁要你再说那温馨的句子",
+      "translation": null
+    },
+    {
+      "time": 73.9,
+      "time_str": "01:13.900",
+      "text": "到底得几分伤心几分痴",
+      "translation": null
+    },
+    {
+      "time": 77.9,
+      "time_str": "01:17.900",
+      "text": "睡梦如欠缺了你都不可以",
+      "translation": null
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "而这晚却说我跟你",
+      "translation": null
+    },
+    {
+      "time": 83.9,
+      "time_str": "01:23.900",
+      "text": "不可再试",
+      "translation": null
+    },
+    {
+      "time": 88.9,
+      "time_str": "01:28.900",
+      "text": "分离从来不易",
+      "translation": null
+    },
+    {
+      "time": 90.9,
+      "time_str": "01:30.900",
+      "text": "这个你我早已知",
+      "translation": null
+    },
+    {
+      "time": 94.9,
+      "time_str": "01:34.900",
+      "text": "但到这夜方发觉",
+      "translation": null
+    },
+    {
+      "time": 98.9,
+      "time_str": "01:38.900",
+      "text": "情与爱何幼稚",
+      "translation": null
+    },
+    {
+      "time": 101.9,
+      "time_str": "01:41.900",
+      "text": "若是热烈地爱多一次",
+      "translation": null
+    },
+    {
+      "time": 104.9,
+      "time_str": "01:44.900",
+      "text": "放弃原来更易",
+      "translation": null
+    },
+    {
+      "time": 108.9,
+      "time_str": "01:48.900",
+      "text": "就算以后失去你",
+      "translation": null
+    },
+    {
+      "time": 111.9,
+      "time_str": "01:51.900",
+      "text": "仍笑说",
+      "translation": null
+    },
+    {
+      "time": 114.9,
+      "time_str": "01:54.900",
+      "text": "不介意",
+      "translation": null
+    },
+    {
+      "time": 141.9,
+      "time_str": "02:21.900",
+      "text": "到底得几分伤心几分痴",
+      "translation": null
+    },
+    {
+      "time": 144.9,
+      "time_str": "02:24.900",
+      "text": "旧事藏梦里也不再有意思",
+      "translation": null
+    },
+    {
+      "time": 148.9,
+      "time_str": "02:28.900",
+      "text": "谁要你再说那温馨的句子",
+      "translation": null
+    },
+    {
+      "time": 155.9,
+      "time_str": "02:35.900",
+      "text": "到底得几分伤心几分痴",
+      "translation": null
+    },
+    {
+      "time": 158.9,
+      "time_str": "02:38.900",
+      "text": "睡梦如欠缺了你都不可以",
+      "translation": null
+    },
+    {
+      "time": 162.9,
+      "time_str": "02:42.900",
+      "text": "而这晚却说我跟你",
+      "translation": null
+    },
+    {
+      "time": 164.9,
+      "time_str": "02:44.900",
+      "text": "不可再试",
+      "translation": null
+    },
+    {
+      "time": 170.8,
+      "time_str": "02:50.800",
+      "text": "分离从来不易",
+      "translation": null
+    },
+    {
+      "time": 172.8,
+      "time_str": "02:52.800",
+      "text": "这个你我早已知",
+      "translation": null
+    },
+    {
+      "time": 176.8,
+      "time_str": "02:56.800",
+      "text": "但到这夜方发觉",
+      "translation": null
+    },
+    {
+      "time": 180.8,
+      "time_str": "03:00.800",
+      "text": "情与爱何幼稚",
+      "translation": null
+    },
+    {
+      "time": 183.8,
+      "time_str": "03:03.800",
+      "text": "若是热烈地爱多一次",
+      "translation": null
+    },
+    {
+      "time": 187.8,
+      "time_str": "03:07.800",
+      "text": "放弃原来更易",
+      "translation": null
+    },
+    {
+      "time": 190.8,
+      "time_str": "03:10.800",
+      "text": "就算以后失去你",
+      "translation": null
+    },
+    {
+      "time": 193.8,
+      "time_str": "03:13.800",
+      "text": "仍笑说",
+      "translation": null
+    },
+    {
+      "time": 196.8,
+      "time_str": "03:16.800",
+      "text": "不介意",
+      "translation": null
+    },
+    {
+      "time": 200.8,
+      "time_str": "03:20.800",
+      "text": "分离从来不易",
+      "translation": null
+    },
+    {
+      "time": 203.8,
+      "time_str": "03:23.800",
+      "text": "这个你我早已知",
+      "translation": null
+    },
+    {
+      "time": 207.8,
+      "time_str": "03:27.800",
+      "text": "但到这夜方发觉",
+      "translation": null
+    },
+    {
+      "time": 210.8,
+      "time_str": "03:30.800",
+      "text": "情与爱何幼稚",
+      "translation": null
+    },
+    {
+      "time": 213.8,
+      "time_str": "03:33.800",
+      "text": "若是热烈地爱多一次",
+      "translation": null
+    },
+    {
+      "time": 217.8,
+      "time_str": "03:37.800",
+      "text": "放弃原来更易",
+      "translation": null
+    },
+    {
+      "time": 221.8,
+      "time_str": "03:41.800",
+      "text": "就算以后失去你",
+      "translation": null
+    },
+    {
+      "time": 224.8,
+      "time_str": "03:44.800",
+      "text": "仍笑说",
+      "translation": null
+    },
+    {
+      "time": 226.8,
+      "time_str": "03:46.800",
+      "text": "不介意",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "几分伤心几分痴 - 王杰.lrc"
+}

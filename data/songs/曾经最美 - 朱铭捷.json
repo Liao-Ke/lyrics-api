@@ -1,0 +1,328 @@
+{
+  "title": "曾经最美",
+  "title_raw": "曾经最美",
+  "version": null,
+  "artist": "朱铭捷",
+  "group_key": "曾经最美|朱铭捷",
+  "writers": {
+    "lyricist": "陈佳明",
+    "composer": "叶良俊",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 20.568,
+      "time_str": "00:20.568",
+      "text": "看不穿你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 24.528,
+      "time_str": "00:24.528",
+      "text": "藏有多少悲和喜",
+      "translation": null
+    },
+    {
+      "time": 27.947,
+      "time_str": "00:27.947",
+      "text": "像冰雪细腻",
+      "translation": null
+    },
+    {
+      "time": 29.951,
+      "time_str": "00:29.951",
+      "text": "又如此透明",
+      "translation": null
+    },
+    {
+      "time": 32.31,
+      "time_str": "00:32.310",
+      "text": "仿佛片刻就要老去",
+      "translation": null
+    },
+    {
+      "time": 36.545,
+      "time_str": "00:36.545",
+      "text": "整个城市的孤寂",
+      "translation": null
+    },
+    {
+      "time": 39.962,
+      "time_str": "00:39.962",
+      "text": "不止一个你",
+      "translation": null
+    },
+    {
+      "time": 43.352,
+      "time_str": "00:43.352",
+      "text": "只能远远的",
+      "translation": null
+    },
+    {
+      "time": 45.578,
+      "time_str": "00:45.578",
+      "text": "想像慰藉",
+      "translation": null
+    },
+    {
+      "time": 47.746,
+      "time_str": "00:47.746",
+      "text": "我们之间的距离",
+      "translation": null
+    },
+    {
+      "time": 51.722,
+      "time_str": "00:51.722",
+      "text": "我又不是你的谁",
+      "translation": null
+    },
+    {
+      "time": 55.654,
+      "time_str": "00:55.654",
+      "text": "不能带给你安慰",
+      "translation": null
+    },
+    {
+      "time": 59.74,
+      "time_str": "00:59.740",
+      "text": "忍心你枯萎",
+      "translation": null
+    },
+    {
+      "time": 61.82,
+      "time_str": "01:01.820",
+      "text": "凋零的玫瑰",
+      "translation": null
+    },
+    {
+      "time": 63.48,
+      "time_str": "01:03.480",
+      "text": "仿佛希望化成灰",
+      "translation": null
+    },
+    {
+      "time": 68.26,
+      "time_str": "01:08.260",
+      "text": "要不是痛彻心扉",
+      "translation": null
+    },
+    {
+      "time": 71.376,
+      "time_str": "01:11.376",
+      "text": "谁又记得谁",
+      "translation": null
+    },
+    {
+      "time": 74.846,
+      "time_str": "01:14.846",
+      "text": "只是云和月相互以为",
+      "translation": null
+    },
+    {
+      "time": 78.528,
+      "time_str": "01:18.528",
+      "text": "是彼此的盈缺",
+      "translation": null
+    },
+    {
+      "time": 82.226,
+      "time_str": "01:22.226",
+      "text": "不能哭喊已破碎",
+      "translation": null
+    },
+    {
+      "time": 87.9,
+      "time_str": "01:27.900",
+      "text": "曾经的最美",
+      "translation": null
+    },
+    {
+      "time": 90.602,
+      "time_str": "01:30.602",
+      "text": "独自一个人熟悉的街",
+      "translation": null
+    },
+    {
+      "time": 94.998,
+      "time_str": "01:34.998",
+      "text": "别问你在想谁",
+      "translation": null
+    },
+    {
+      "time": 97.922,
+      "time_str": "01:37.922",
+      "text": "不去追悔已憔悴",
+      "translation": null
+    },
+    {
+      "time": 102.874,
+      "time_str": "01:42.874",
+      "text": "爱过的机会",
+      "translation": null
+    },
+    {
+      "time": 106.298,
+      "time_str": "01:46.298",
+      "text": "真实已粉碎人事已非",
+      "translation": null
+    },
+    {
+      "time": 110.746,
+      "time_str": "01:50.746",
+      "text": "还有什么最可贵",
+      "translation": null
+    },
+    {
+      "time": 130.419,
+      "time_str": "02:10.419",
+      "text": "我又不是你的谁",
+      "translation": null
+    },
+    {
+      "time": 134.332,
+      "time_str": "02:14.332",
+      "text": "不能带给你安慰",
+      "translation": null
+    },
+    {
+      "time": 137.773,
+      "time_str": "02:17.773",
+      "text": "忍心你枯萎",
+      "translation": null
+    },
+    {
+      "time": 139.727,
+      "time_str": "02:19.727",
+      "text": "凋零的玫瑰",
+      "translation": null
+    },
+    {
+      "time": 141.7,
+      "time_str": "02:21.700",
+      "text": "仿佛希望化成灰",
+      "translation": null
+    },
+    {
+      "time": 146.728,
+      "time_str": "02:26.728",
+      "text": "要不是痛彻心扉",
+      "translation": null
+    },
+    {
+      "time": 150.116,
+      "time_str": "02:30.116",
+      "text": "谁又记得谁",
+      "translation": null
+    },
+    {
+      "time": 153.5,
+      "time_str": "02:33.500",
+      "text": "只是云和月相互以为",
+      "translation": null
+    },
+    {
+      "time": 157.252,
+      "time_str": "02:37.252",
+      "text": "是彼此的盈缺",
+      "translation": null
+    },
+    {
+      "time": 160.968,
+      "time_str": "02:40.968",
+      "text": "不能哭喊已破碎",
+      "translation": null
+    },
+    {
+      "time": 165.822,
+      "time_str": "02:45.822",
+      "text": "曾经的最美",
+      "translation": null
+    },
+    {
+      "time": 169.249,
+      "time_str": "02:49.249",
+      "text": "独自一个人熟悉的街",
+      "translation": null
+    },
+    {
+      "time": 173.677,
+      "time_str": "02:53.677",
+      "text": "别问你在想谁",
+      "translation": null
+    },
+    {
+      "time": 176.615,
+      "time_str": "02:56.615",
+      "text": "不去追悔已粉碎",
+      "translation": null
+    },
+    {
+      "time": 181.486,
+      "time_str": "03:01.486",
+      "text": "爱过的机会",
+      "translation": null
+    },
+    {
+      "time": 184.957,
+      "time_str": "03:04.957",
+      "text": "真实已粉碎人事已非",
+      "translation": null
+    },
+    {
+      "time": 189.431,
+      "time_str": "03:09.431",
+      "text": "还有什么最可贵",
+      "translation": null
+    },
+    {
+      "time": 212.49,
+      "time_str": "03:32.490",
+      "text": "不能哭喊已破碎",
+      "translation": null
+    },
+    {
+      "time": 216.909,
+      "time_str": "03:36.909",
+      "text": "曾经的最美",
+      "translation": null
+    },
+    {
+      "time": 220.426,
+      "time_str": "03:40.426",
+      "text": "独自一个人熟悉的街",
+      "translation": null
+    },
+    {
+      "time": 224.834,
+      "time_str": "03:44.834",
+      "text": "别问你在想谁",
+      "translation": null
+    },
+    {
+      "time": 227.762,
+      "time_str": "03:47.762",
+      "text": "不去追悔已憔悴",
+      "translation": null
+    },
+    {
+      "time": 232.696,
+      "time_str": "03:52.696",
+      "text": "爱过的机会",
+      "translation": null
+    },
+    {
+      "time": 236.153,
+      "time_str": "03:56.153",
+      "text": "真实已粉碎人事已非",
+      "translation": null
+    },
+    {
+      "time": 240.569,
+      "time_str": "04:00.569",
+      "text": "还有什么最可贵",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "曾经最美 - 朱铭捷.lrc"
+}

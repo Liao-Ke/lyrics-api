@@ -1,0 +1,250 @@
+{
+  "title": "爸爸妈妈",
+  "title_raw": "爸爸妈妈",
+  "version": null,
+  "artist": "王蓉",
+  "group_key": "爸爸妈妈|王蓉",
+  "writers": {
+    "lyricist": "王蓉",
+    "composer": "王蓉",
+    "arranger": "李凯 (白头翁)/老猫"
+  },
+  "lyrics": [
+    {
+      "time": 3.95,
+      "time_str": "00:03.950",
+      "text": "笛子 : 杜聪",
+      "translation": null
+    },
+    {
+      "time": 4.74,
+      "time_str": "00:04.740",
+      "text": "二胡 : 薛克",
+      "translation": null
+    },
+    {
+      "time": 7.11,
+      "time_str": "00:07.110",
+      "text": "混音室 : D&M Studio(香港)",
+      "translation": null
+    },
+    {
+      "time": 22.315,
+      "time_str": "00:22.315",
+      "text": "嘿 妈妈那天你再次为我悄悄流下泪",
+      "translation": null
+    },
+    {
+      "time": 27.278,
+      "time_str": "00:27.278",
+      "text": "你可知道它已化做伤痛滴滴落在我心扉",
+      "translation": null
+    },
+    {
+      "time": 33.186,
+      "time_str": "00:33.186",
+      "text": "永远都不会忘记你看我时那难舍的眼神",
+      "translation": null
+    },
+    {
+      "time": 41.091,
+      "time_str": "00:41.091",
+      "text": "我不会",
+      "translation": null
+    },
+    {
+      "time": 44.462,
+      "time_str": "00:44.462",
+      "text": "嘿 爸爸从小就给我最多保护那个人",
+      "translation": null
+    },
+    {
+      "time": 49.369,
+      "time_str": "00:49.369",
+      "text": "你为甚麼总是低著头一直地抽烟不说话",
+      "translation": null
+    },
+    {
+      "time": 55.292,
+      "time_str": "00:55.292",
+      "text": "这次我独自离开 寻找另一种生活",
+      "translation": null
+    },
+    {
+      "time": 60.368,
+      "time_str": "01:00.368",
+      "text": "听我说 让我说",
+      "translation": null
+    },
+    {
+      "time": 65.845,
+      "time_str": "01:05.845",
+      "text": "我爱他他是我心中的那只蝶",
+      "translation": null
+    },
+    {
+      "time": 71.388,
+      "time_str": "01:11.388",
+      "text": "飞呀飞飞到我心里面化成茧",
+      "translation": null
+    },
+    {
+      "time": 76.906,
+      "time_str": "01:16.906",
+      "text": "不知道还要多久才能叫醒我",
+      "translation": null
+    },
+    {
+      "time": 82.422,
+      "time_str": "01:22.422",
+      "text": "共谱成一曲祝英台和梁山伯",
+      "translation": null
+    },
+    {
+      "time": 87.989,
+      "time_str": "01:27.989",
+      "text": "我爱他他是我心中的那只蝶",
+      "translation": null
+    },
+    {
+      "time": 93.429,
+      "time_str": "01:33.429",
+      "text": "飞呀飞飞到我心里面化成茧",
+      "translation": null
+    },
+    {
+      "time": 99.015,
+      "time_str": "01:39.015",
+      "text": "不知道还要多久才能叫醒我",
+      "translation": null
+    },
+    {
+      "time": 104.435,
+      "time_str": "01:44.435",
+      "text": "共谱成一曲祝英台和梁山伯",
+      "translation": null
+    },
+    {
+      "time": 133.951,
+      "time_str": "02:13.951",
+      "text": "嘿 妈妈我那麼幸福能在你身边长大",
+      "translation": null
+    },
+    {
+      "time": 138.987,
+      "time_str": "02:18.987",
+      "text": "现在有一个人对我很好代替你们照顾我",
+      "translation": null
+    },
+    {
+      "time": 144.956,
+      "time_str": "02:24.956",
+      "text": "我永远是你们的 我永远是你们的",
+      "translation": null
+    },
+    {
+      "time": 150.068,
+      "time_str": "02:30.068",
+      "text": "小宝贝 好宝贝",
+      "translation": null
+    },
+    {
+      "time": 156.216,
+      "time_str": "02:36.216",
+      "text": "嘿 爸爸这麼多年来你为这个家受累",
+      "translation": null
+    },
+    {
+      "time": 161.106,
+      "time_str": "02:41.106",
+      "text": "你像一棵大树是我心中最最坚实的堡垒",
+      "translation": null
+    },
+    {
+      "time": 167.038,
+      "time_str": "02:47.038",
+      "text": "在这个时候请你也帮我劝劝妈妈",
+      "translation": null
+    },
+    {
+      "time": 172.061,
+      "time_str": "02:52.061",
+      "text": "别伤悲 不伤悲",
+      "translation": null
+    },
+    {
+      "time": 177.687,
+      "time_str": "02:57.687",
+      "text": "我爱他他是我心中的那只蝶",
+      "translation": null
+    },
+    {
+      "time": 183.203,
+      "time_str": "03:03.203",
+      "text": "飞呀飞飞到我心里面化成茧",
+      "translation": null
+    },
+    {
+      "time": 188.618,
+      "time_str": "03:08.618",
+      "text": "不知道还要多久才能叫醒我",
+      "translation": null
+    },
+    {
+      "time": 194.186,
+      "time_str": "03:14.186",
+      "text": "共谱成一曲祝英台和梁山伯",
+      "translation": null
+    },
+    {
+      "time": 199.622,
+      "time_str": "03:19.622",
+      "text": "我爱他他是我心中的那只蝶",
+      "translation": null
+    },
+    {
+      "time": 205.166,
+      "time_str": "03:25.166",
+      "text": "飞呀飞飞到我心里面化成茧",
+      "translation": null
+    },
+    {
+      "time": 210.742,
+      "time_str": "03:30.742",
+      "text": "不知道还要多久才能叫醒我",
+      "translation": null
+    },
+    {
+      "time": 216.214,
+      "time_str": "03:36.214",
+      "text": "共谱成一曲祝英台和梁山伯",
+      "translation": null
+    },
+    {
+      "time": 222.269,
+      "time_str": "03:42.269",
+      "text": "爸爸妈妈你听到了吗这是我心里的话",
+      "translation": null
+    },
+    {
+      "time": 227.302,
+      "time_str": "03:47.302",
+      "text": "请你不要难过不要悲伤女儿总是要长大",
+      "translation": null
+    },
+    {
+      "time": 233.19,
+      "time_str": "03:53.190",
+      "text": "是你教会我坚强 给我那一对翅膀",
+      "translation": null
+    },
+    {
+      "time": 238.345,
+      "time_str": "03:58.345",
+      "text": "我飞翔 我飞翔",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爸爸妈妈 - 王蓉.lrc"
+}

@@ -1,0 +1,358 @@
+{
+  "title": "离开以后",
+  "title_raw": "离开以后",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "离开以后|张学友",
+  "writers": {
+    "lyricist": "陈少琪",
+    "composer": "李偲菘",
+    "arranger": "David Garfield"
+  },
+  "lyrics": [
+    {
+      "time": 14.79,
+      "time_str": "00:14.790",
+      "text": "近日像每样话题总不适合你",
+      "translation": null
+    },
+    {
+      "time": 21.79,
+      "time_str": "00:21.790",
+      "text": "近日夜深相聚",
+      "translation": null
+    },
+    {
+      "time": 23.93,
+      "time_str": "00:23.930",
+      "text": "飘起一抹冷漠空气",
+      "translation": null
+    },
+    {
+      "time": 27.96,
+      "time_str": "00:27.960",
+      "text": "在这天",
+      "translation": null
+    },
+    {
+      "time": 29.92,
+      "time_str": "00:29.920",
+      "text": "是你事无大小多么生气",
+      "translation": null
+    },
+    {
+      "time": 36.109,
+      "time_str": "00:36.109",
+      "text": "谁人亦可知你将别离",
+      "translation": null
+    },
+    {
+      "time": 43.049,
+      "time_str": "00:43.049",
+      "text": "落寞地躺在睡床试试抱紧你",
+      "translation": null
+    },
+    {
+      "time": 50.509,
+      "time_str": "00:50.509",
+      "text": "但是目光躲避",
+      "translation": null
+    },
+    {
+      "time": 52.549,
+      "time_str": "00:52.549",
+      "text": "令我可感到你在喘气",
+      "translation": null
+    },
+    {
+      "time": 57.39,
+      "time_str": "00:57.390",
+      "text": "没说出",
+      "translation": null
+    },
+    {
+      "time": 58.519,
+      "time_str": "00:58.519",
+      "text": "亦领会谁在撩动你",
+      "translation": null
+    },
+    {
+      "time": 63.499,
+      "time_str": "01:03.499",
+      "text": "抛开苦痛去解脱自己",
+      "translation": null
+    },
+    {
+      "time": 66.969,
+      "time_str": "01:06.969",
+      "text": "让你那些冷却热情另有生机",
+      "translation": null
+    },
+    {
+      "time": 70.429,
+      "time_str": "01:10.429",
+      "text": "离开我以后我会习惯自卑",
+      "translation": null
+    },
+    {
+      "time": 74.089,
+      "time_str": "01:14.089",
+      "text": "明天再偶遇我也不敢偷望你",
+      "translation": null
+    },
+    {
+      "time": 78.19,
+      "time_str": "01:18.190",
+      "text": "离开我以后季节冷暖天气",
+      "translation": null
+    },
+    {
+      "time": 80.169,
+      "time_str": "01:20.169",
+      "text": "我也置诸不理",
+      "translation": null
+    },
+    {
+      "time": 81.779,
+      "time_str": "01:21.779",
+      "text": "愿名字也再不记起",
+      "translation": null
+    },
+    {
+      "time": 85.49,
+      "time_str": "01:25.490",
+      "text": "离开我以后我会长留这地",
+      "translation": null
+    },
+    {
+      "time": 88.299,
+      "time_str": "01:28.299",
+      "text": "晨早到午夜扑进漆黑想念你",
+      "translation": null
+    },
+    {
+      "time": 91.929,
+      "time_str": "01:31.929",
+      "text": "离开我以后醉了会看到你",
+      "translation": null
+    },
+    {
+      "time": 94.519,
+      "time_str": "01:34.519",
+      "text": "梦中方可永久地",
+      "translation": null
+    },
+    {
+      "time": 99.139,
+      "time_str": "01:39.139",
+      "text": "接近你",
+      "translation": null
+    },
+    {
+      "time": 101.409,
+      "time_str": "01:41.409",
+      "text": "oh-----",
+      "translation": null
+    },
+    {
+      "time": 132.93,
+      "time_str": "02:12.930",
+      "text": "伴着但我在预期你会说舍弃",
+      "translation": null
+    },
+    {
+      "time": 140.08,
+      "time_str": "02:20.080",
+      "text": "问事实怎躲避",
+      "translation": null
+    },
+    {
+      "time": 142.0,
+      "time_str": "02:22.000",
+      "text": "在倒数将要每日想你",
+      "translation": null
+    },
+    {
+      "time": 146.3,
+      "time_str": "02:26.300",
+      "text": "若这刻",
+      "translation": null
+    },
+    {
+      "time": 148.37,
+      "time_str": "02:28.370",
+      "text": "若最后无力留下你",
+      "translation": null
+    },
+    {
+      "time": 153.04,
+      "time_str": "02:33.040",
+      "text": "将消失勇气释放自己",
+      "translation": null
+    },
+    {
+      "time": 156.6,
+      "time_str": "02:36.600",
+      "text": "就算某天我吻别人亦当亲你",
+      "translation": null
+    },
+    {
+      "time": 160.13,
+      "time_str": "02:40.130",
+      "text": "离开我以后我会习惯自卑",
+      "translation": null
+    },
+    {
+      "time": 163.74,
+      "time_str": "02:43.740",
+      "text": "明天再偶遇我也不敢偷望你",
+      "translation": null
+    },
+    {
+      "time": 167.37,
+      "time_str": "02:47.370",
+      "text": "离开我以后季节冷暖天气",
+      "translation": null
+    },
+    {
+      "time": 169.95,
+      "time_str": "02:49.950",
+      "text": "我也置诸不理",
+      "translation": null
+    },
+    {
+      "time": 171.46,
+      "time_str": "02:51.460",
+      "text": "愿名字也再不记起",
+      "translation": null
+    },
+    {
+      "time": 174.41,
+      "time_str": "02:54.410",
+      "text": "离开我以后我会长留这地",
+      "translation": null
+    },
+    {
+      "time": 177.93,
+      "time_str": "02:57.930",
+      "text": "晨早到午夜扑进漆黑想念你",
+      "translation": null
+    },
+    {
+      "time": 181.51,
+      "time_str": "03:01.510",
+      "text": "离开我以后醉了会看到你",
+      "translation": null
+    },
+    {
+      "time": 184.12,
+      "time_str": "03:04.120",
+      "text": "梦中方可永久地",
+      "translation": null
+    },
+    {
+      "time": 188.72,
+      "time_str": "03:08.720",
+      "text": "离开我以后我会习惯自卑（接近你）",
+      "translation": null
+    },
+    {
+      "time": 192.35,
+      "time_str": "03:12.350",
+      "text": "明天再偶遇我也不敢偷望你",
+      "translation": null
+    },
+    {
+      "time": 195.94,
+      "time_str": "03:15.940",
+      "text": "离开我以后季节冷暖天气",
+      "translation": null
+    },
+    {
+      "time": 198.56,
+      "time_str": "03:18.560",
+      "text": "我也置诸不理",
+      "translation": null
+    },
+    {
+      "time": 200.19,
+      "time_str": "03:20.190",
+      "text": "愿名字也再不记起",
+      "translation": null
+    },
+    {
+      "time": 203.05,
+      "time_str": "03:23.050",
+      "text": "离开我以后我会长留这地",
+      "translation": null
+    },
+    {
+      "time": 207.3,
+      "time_str": "03:27.300",
+      "text": "晨早到午夜扑进漆黑想念你",
+      "translation": null
+    },
+    {
+      "time": 210.32,
+      "time_str": "03:30.320",
+      "text": "离开我以后醉了会看到你",
+      "translation": null
+    },
+    {
+      "time": 212.82,
+      "time_str": "03:32.820",
+      "text": "梦中方可永久地",
+      "translation": null
+    },
+    {
+      "time": 217.53,
+      "time_str": "03:37.530",
+      "text": "接近你",
+      "translation": null
+    },
+    {
+      "time": 219.89,
+      "time_str": "03:39.890",
+      "text": "oh-----",
+      "translation": null
+    },
+    {
+      "time": 237.504,
+      "time_str": "03:57.504",
+      "text": "键盘 : David Garfield",
+      "translation": null
+    },
+    {
+      "time": 238.272,
+      "time_str": "03:58.272",
+      "text": "SP : PolyGram Music, Hong Kong, Ltd.",
+      "translation": null
+    },
+    {
+      "time": 238.656,
+      "time_str": "03:58.656",
+      "text": "贝斯 : Jimmy Johnson",
+      "translation": null
+    },
+    {
+      "time": 239.424,
+      "time_str": "03:59.424",
+      "text": "混音室 : Record Plant (Los Angeles)/Conway Studios/Larrabee Sound Studios/Dragon Studios (Hong Kong)",
+      "translation": null
+    },
+    {
+      "time": 240.576,
+      "time_str": "04:00.576",
+      "text": "电吉他 : Michael Landau",
+      "translation": null
+    },
+    {
+      "time": 241.728,
+      "time_str": "04:01.728",
+      "text": "录音工程师 : Alan Hirshberg/Robert Read",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "离开以后 - 张学友.lrc"
+}

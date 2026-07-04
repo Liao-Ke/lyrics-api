@@ -1,0 +1,310 @@
+{
+  "title": "只想一生跟你走",
+  "title_raw": "只想一生跟你走",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "只想一生跟你走|张学友",
+  "writers": {
+    "lyricist": "刘卓辉",
+    "composer": "巫启贤",
+    "arranger": "赵增熹"
+  },
+  "lyrics": [
+    {
+      "time": 37.09,
+      "time_str": "00:37.090",
+      "text": "共你有过最美的邂逅",
+      "translation": null
+    },
+    {
+      "time": 44.9,
+      "time_str": "00:44.900",
+      "text": "共你有过一些风雨忧愁",
+      "translation": null
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "共你醉过痛过的最后",
+      "translation": null
+    },
+    {
+      "time": 59.9,
+      "time_str": "00:59.900",
+      "text": "但我发觉想你不能没有",
+      "translation": null
+    },
+    {
+      "time": 66.9,
+      "time_str": "01:06.900",
+      "text": "在你每次抱怨的眼眸",
+      "translation": null
+    },
+    {
+      "time": 74.05,
+      "time_str": "01:14.050",
+      "text": "像我永远不懂给你温柔",
+      "translation": null
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "别再诉说我俩早已分手",
+      "translation": null
+    },
+    {
+      "time": 89.0,
+      "time_str": "01:29.000",
+      "text": "像你教我伤心依然未够",
+      "translation": null
+    },
+    {
+      "time": 94.9,
+      "time_str": "01:34.900",
+      "text": "但你没带走 梦里的所有",
+      "translation": null
+    },
+    {
+      "time": 102.8,
+      "time_str": "01:42.800",
+      "text": "让你走 为何让你看不透",
+      "translation": null
+    },
+    {
+      "time": 109.5,
+      "time_str": "01:49.500",
+      "text": "但求你未淡忘往日旧情",
+      "translation": null
+    },
+    {
+      "time": 112.0,
+      "time_str": "01:52.000",
+      "text": "我愿默然带着泪流",
+      "translation": null
+    },
+    {
+      "time": 113.9,
+      "time_str": "01:53.900",
+      "text": "很想一生跟你走",
+      "translation": null
+    },
+    {
+      "time": 116.9,
+      "time_str": "01:56.900",
+      "text": "就算天边海角 多少改变",
+      "translation": null
+    },
+    {
+      "time": 119.87,
+      "time_str": "01:59.870",
+      "text": "一生只有 风中追究",
+      "translation": null
+    },
+    {
+      "time": 121.2,
+      "time_str": "02:01.200",
+      "text": "不想孤单的逗留",
+      "translation": null
+    },
+    {
+      "time": 124.0,
+      "time_str": "02:04.000",
+      "text": "但求你未淡忘往日旧情",
+      "translation": null
+    },
+    {
+      "time": 126.9,
+      "time_str": "02:06.900",
+      "text": "我愿默然带着泪流",
+      "translation": null
+    },
+    {
+      "time": 128.9,
+      "time_str": "02:08.900",
+      "text": "很想一生跟你走",
+      "translation": null
+    },
+    {
+      "time": 131.9,
+      "time_str": "02:11.900",
+      "text": "在我心中的你 思海的你",
+      "translation": null
+    },
+    {
+      "time": 134.09,
+      "time_str": "02:14.090",
+      "text": "今生不可不能没有",
+      "translation": null
+    },
+    {
+      "time": 155.9,
+      "time_str": "02:35.900",
+      "text": "在你每次抱怨的眼眸",
+      "translation": null
+    },
+    {
+      "time": 162.94,
+      "time_str": "02:42.940",
+      "text": "像我永远不懂给你温柔",
+      "translation": null
+    },
+    {
+      "time": 170.1,
+      "time_str": "02:50.100",
+      "text": "别再诉说我俩早已分手",
+      "translation": null
+    },
+    {
+      "time": 177.9,
+      "time_str": "02:57.900",
+      "text": "像你教我伤心依然未够",
+      "translation": null
+    },
+    {
+      "time": 183.1,
+      "time_str": "03:03.100",
+      "text": "但你没带走 梦里的所有",
+      "translation": null
+    },
+    {
+      "time": 191.0,
+      "time_str": "03:11.000",
+      "text": "让你走 为何让你看不透",
+      "translation": null
+    },
+    {
+      "time": 197.94,
+      "time_str": "03:17.940",
+      "text": "但求你未淡忘往日旧情",
+      "translation": null
+    },
+    {
+      "time": 200.9,
+      "time_str": "03:20.900",
+      "text": "我愿默然带着泪流",
+      "translation": null
+    },
+    {
+      "time": 202.89,
+      "time_str": "03:22.890",
+      "text": "很想一生跟你走",
+      "translation": null
+    },
+    {
+      "time": 205.0,
+      "time_str": "03:25.000",
+      "text": "就算天边海角 多少改变",
+      "translation": null
+    },
+    {
+      "time": 208.0,
+      "time_str": "03:28.000",
+      "text": "一生只有 风中追究",
+      "translation": null
+    },
+    {
+      "time": 209.9,
+      "time_str": "03:29.900",
+      "text": "不想孤单的逗留",
+      "translation": null
+    },
+    {
+      "time": 212.9,
+      "time_str": "03:32.900",
+      "text": "但求你未淡忘往日旧情",
+      "translation": null
+    },
+    {
+      "time": 215.78,
+      "time_str": "03:35.780",
+      "text": "我愿默然带着泪流",
+      "translation": null
+    },
+    {
+      "time": 217.0,
+      "time_str": "03:37.000",
+      "text": "很想一生跟你走",
+      "translation": null
+    },
+    {
+      "time": 220.0,
+      "time_str": "03:40.000",
+      "text": "在我心中的你 思海的你",
+      "translation": null
+    },
+    {
+      "time": 222.9,
+      "time_str": "03:42.900",
+      "text": "今生不可不能没有",
+      "translation": null
+    },
+    {
+      "time": 246.0,
+      "time_str": "04:06.000",
+      "text": "但求你未淡忘往日旧情",
+      "translation": null
+    },
+    {
+      "time": 248.9,
+      "time_str": "04:08.900",
+      "text": "我愿默然带着泪流",
+      "translation": null
+    },
+    {
+      "time": 250.9,
+      "time_str": "04:10.900",
+      "text": "很想一生跟你走",
+      "translation": null
+    },
+    {
+      "time": 253.3,
+      "time_str": "04:13.300",
+      "text": "就算天边海角 多少改变",
+      "translation": null
+    },
+    {
+      "time": 255.9,
+      "time_str": "04:15.900",
+      "text": "一生只有 风中追究",
+      "translation": null
+    },
+    {
+      "time": 257.9,
+      "time_str": "04:17.900",
+      "text": "不想孤单的逗留",
+      "translation": null
+    },
+    {
+      "time": 260.9,
+      "time_str": "04:20.900",
+      "text": "但求你未淡忘往日旧情",
+      "translation": null
+    },
+    {
+      "time": 263.9,
+      "time_str": "04:23.900",
+      "text": "我愿默然带着泪流",
+      "translation": null
+    },
+    {
+      "time": 265.05,
+      "time_str": "04:25.050",
+      "text": "很想一生跟你走",
+      "translation": null
+    },
+    {
+      "time": 268.0,
+      "time_str": "04:28.000",
+      "text": "在我心中的你 思海的你",
+      "translation": null
+    },
+    {
+      "time": 270.9,
+      "time_str": "04:30.900",
+      "text": "今生不可不能没有",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "只想一生跟你走 - 张学友.lrc"
+}

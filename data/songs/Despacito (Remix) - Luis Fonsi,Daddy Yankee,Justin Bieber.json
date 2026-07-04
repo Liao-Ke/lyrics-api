@@ -1,0 +1,586 @@
+{
+  "title": "Despacito",
+  "title_raw": "Despacito (Remix)",
+  "version": "Remix",
+  "artist": "Luis Fonsi,Daddy Yankee,Justin Bieber",
+  "group_key": "despacito|luis fonsi,daddy yankee,justin bieber",
+  "writers": {
+    "lyricist": "Luis Fonsi/Erika Ender/Daddy Yankee/Justin Bieber/Jason Boyd/Marty James",
+    "composer": "Luis Fonsi/Erika Ender/Daddy Yankee/Justin Bieber/Jason Boyd/Marty James",
+    "arranger": "艾瑞卡·安德/Luis Fonsi/Puff Daddy"
+  },
+  "lyrics": [
+    {
+      "time": 9.69,
+      "time_str": "00:09.690",
+      "text": "Come and move that in my direction",
+      "translation": "快点与我同行吧"
+    },
+    {
+      "time": 12.153,
+      "time_str": "00:12.153",
+      "text": "So thankful for that, it's such a blessin', yeah",
+      "translation": "你能来到我的身边，那是上天的眷顾"
+    },
+    {
+      "time": 15.049,
+      "time_str": "00:15.049",
+      "text": "Turn every situation into Heaven, yeah",
+      "translation": "你将一切厄运化为乌有"
+    },
+    {
+      "time": 17.977,
+      "time_str": "00:17.977",
+      "text": "Oh, you are",
+      "translation": "哦，你是"
+    },
+    {
+      "time": 20.531,
+      "time_str": "00:20.531",
+      "text": "My sunrise on the darkest day",
+      "translation": "我在黑暗黎明里的一丝曙光"
+    },
+    {
+      "time": 23.313,
+      "time_str": "00:23.313",
+      "text": "Got me feelin' some kind of way",
+      "translation": "你总会让我产生一种美好的感觉"
+    },
+    {
+      "time": 26.065,
+      "time_str": "00:26.065",
+      "text": "Make me wanna savor every moment slowly, slowly",
+      "translation": "让我想细细咀嚼生命中的每分每秒"
+    },
+    {
+      "time": 30.489,
+      "time_str": "00:30.489",
+      "text": "You fit me, tailor-made love, how you put it on",
+      "translation": "你就像是我量身定做的灰姑娘，没人知道怎么为你穿上玻璃鞋"
+    },
+    {
+      "time": 33.745,
+      "time_str": "00:33.745",
+      "text": "Got the only key, know how to turn it on",
+      "translation": "而我是唯一知道如何做的王子"
+    },
+    {
+      "time": 36.489,
+      "time_str": "00:36.489",
+      "text": "The way you nibble on my ear, the only words I wanna hear",
+      "translation": "你在我耳边的轻轻细语，那是我的天籁之音"
+    },
+    {
+      "time": 39.45,
+      "time_str": "00:39.450",
+      "text": "Baby take it slow so we can last long",
+      "translation": "宝贝，所有的爱情都需要温存，只有这样它才会长久"
+    },
+    {
+      "time": 41.241,
+      "time_str": "00:41.241",
+      "text": "Oh, tú, tú eres el imán y yo soy el metal",
+      "translation": "你 你是磁石而我是金属"
+    },
+    {
+      "time": 44.705,
+      "time_str": "00:44.705",
+      "text": "Me voy acercando y voy armando el plan",
+      "translation": "我一步步接近 盘算着如何出招"
+    },
+    {
+      "time": 47.456,
+      "time_str": "00:47.456",
+      "text": "Sólo con pensarlo se acelera el pulso",
+      "translation": "光是想想 我的脉搏就狂跳"
+    },
+    {
+      "time": 50.673,
+      "time_str": "00:50.673",
+      "text": "Oh, yeah",
+      "translation": "哦，是的"
+    },
+    {
+      "time": 52.225,
+      "time_str": "00:52.225",
+      "text": "Ya, ya me está gustando más de lo normal",
+      "translation": "现在 现在这感觉非比寻常"
+    },
+    {
+      "time": 55.601,
+      "time_str": "00:55.601",
+      "text": "Todos mis sentidos van pidiendo más",
+      "translation": "我的所有感官都饥渴万分"
+    },
+    {
+      "time": 58.185,
+      "time_str": "00:58.185",
+      "text": "Esto hay que tomarlo sin ningún apuro",
+      "translation": "但这事儿着急不得"
+    },
+    {
+      "time": 61.827,
+      "time_str": "01:01.827",
+      "text": "Despacito",
+      "translation": "慢慢地来"
+    },
+    {
+      "time": 64.225,
+      "time_str": "01:04.225",
+      "text": "Quiero respirar tu cuello despacito",
+      "translation": "想要在你脖颈间慢慢地喘息"
+    },
+    {
+      "time": 66.849,
+      "time_str": "01:06.849",
+      "text": "Deja que te diga cosas al oído",
+      "translation": "在你的耳边说尽甜言蜜语"
+    },
+    {
+      "time": 69.521,
+      "time_str": "01:09.521",
+      "text": "Para que te acuerdes si no estás conmigo",
+      "translation": "让你在以后都能想起此时此刻"
+    },
+    {
+      "time": 72.996,
+      "time_str": "01:12.996",
+      "text": "Despacito",
+      "translation": "慢慢地来"
+    },
+    {
+      "time": 74.993,
+      "time_str": "01:14.993",
+      "text": "Quiero desnudarte a besos despacito",
+      "translation": "想要用吻慢慢褪去你的衣衫"
+    },
+    {
+      "time": 77.625,
+      "time_str": "01:17.625",
+      "text": "Firmo en las paredes de tu laberinto",
+      "translation": "在你迷宫的墙上留下我的名字"
+    },
+    {
+      "time": 80.369,
+      "time_str": "01:20.369",
+      "text": "Y hacer de tu cuerpo todo un manuscrito",
+      "translation": "把你的身体变成我的手稿"
+    },
+    {
+      "time": 82.929,
+      "time_str": "01:22.929",
+      "text": "(Sube, sube, sube, sube, sube)",
+      "translation": "亲爱的，亲爱的，亲爱的，亲爱的，亲爱的"
+    },
+    {
+      "time": 85.161,
+      "time_str": "01:25.161",
+      "text": "Quiero ver bailar tu pelo",
+      "translation": "想要看你发丝飞扬"
+    },
+    {
+      "time": 86.832,
+      "time_str": "01:26.832",
+      "text": "Quiero ser tu ritmo",
+      "translation": "想要成为你舞动的旋律"
+    },
+    {
+      "time": 88.961,
+      "time_str": "01:28.961",
+      "text": "Que le enseñes a mi boca",
+      "translation": "想要你告诉我的嘴唇"
+    },
+    {
+      "time": 91.564,
+      "time_str": "01:31.564",
+      "text": "Tus lugares favoritos",
+      "translation": "何处是你想要亲吻的地方"
+    },
+    {
+      "time": 93.929,
+      "time_str": "01:33.929",
+      "text": "(Favorito, favorito, baby)",
+      "translation": "（最想要的 宝贝）"
+    },
+    {
+      "time": 95.818,
+      "time_str": "01:35.818",
+      "text": "Déjame sobrepasar tus zonas de peligro",
+      "translation": "让我越过你的危险地带"
+    },
+    {
+      "time": 99.681,
+      "time_str": "01:39.681",
+      "text": "Hasta provocar tus gritos",
+      "translation": "直到令你尖叫"
+    },
+    {
+      "time": 102.331,
+      "time_str": "01:42.331",
+      "text": "Y que olvides tu apellido",
+      "translation": "直到你忘记了自己的名字"
+    },
+    {
+      "time": 105.138,
+      "time_str": "01:45.138",
+      "text": "Si te pido un beso, ven, dámelo",
+      "translation": "若我向你索吻 那你就来轻吻我吧"
+    },
+    {
+      "time": 107.233,
+      "time_str": "01:47.233",
+      "text": "Yo sé que estás pensándolo",
+      "translation": "我知道你想这么做"
+    },
+    {
+      "time": 108.705,
+      "time_str": "01:48.705",
+      "text": "Llevo tiempo intentándolo",
+      "translation": "我已经为你努力了那么久宝贝"
+    },
+    {
+      "time": 109.946,
+      "time_str": "01:49.946",
+      "text": "Mami, esto es dando y dándolo",
+      "translation": "你就给我吧 给我一个你的吻"
+    },
+    {
+      "time": 111.361,
+      "time_str": "01:51.361",
+      "text": "Sabes que tu corazón conmigo te hace bang-bang",
+      "translation": "知道你与我在一起时 你的心跳 砰砰"
+    },
+    {
+      "time": 113.88,
+      "time_str": "01:53.880",
+      "text": "Sabes que esa beba está buscando de mi bang-bang",
+      "translation": "你知道你所需按照的那种 我能给的 砰砰"
+    },
+    {
+      "time": 116.713,
+      "time_str": "01:56.713",
+      "text": "Ven, prueba de mi boca para ver cómo te sabe",
+      "translation": "来尝尝我的唇是什么味道"
+    },
+    {
+      "time": 119.377,
+      "time_str": "01:59.377",
+      "text": "Quiero, quiero, quiero ver cuánto amor a ti te cabe",
+      "translation": "我想要 想要看看你能承受多深的爱"
+    },
+    {
+      "time": 122.088,
+      "time_str": "02:02.088",
+      "text": "Yo no tengo prisa, yo me quiero dar el viaje",
+      "translation": "我不着急 我喜欢游玩的感觉"
+    },
+    {
+      "time": 124.808,
+      "time_str": "02:04.808",
+      "text": "Empecemos lento, después salvaje",
+      "translation": "开始时风平浪静 之后则电闪雷鸣"
+    },
+    {
+      "time": 127.506,
+      "time_str": "02:07.506",
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "一点一点 温柔再温柔"
+    },
+    {
+      "time": 130.25,
+      "time_str": "02:10.250",
+      "text": "Nos vamos pegando, poquito a poquito",
+      "translation": "我们越贴越近 一点一点"
+    },
+    {
+      "time": 132.848,
+      "time_str": "02:12.848",
+      "text": "Cuando tú me besas con esa destreza",
+      "translation": "你亲吻的时候是如此娴熟"
+    },
+    {
+      "time": 135.553,
+      "time_str": "02:15.553",
+      "text": "Veo que eres malicia con delicadeza",
+      "translation": "我才发现你是一个娇媚的小坏蛋"
+    },
+    {
+      "time": 138.361,
+      "time_str": "02:18.361",
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "一点一点 温柔再温柔"
+    },
+    {
+      "time": 140.993,
+      "time_str": "02:20.993",
+      "text": "Nos vamos pegando, poquito a poquito",
+      "translation": "我们越贴越近 一点一点"
+    },
+    {
+      "time": 143.651,
+      "time_str": "02:23.651",
+      "text": "Y es que esa belleza es un rompecabezas",
+      "translation": "你的美 如同打乱的拼图一样 令人着迷"
+    },
+    {
+      "time": 146.299,
+      "time_str": "02:26.299",
+      "text": "Pero pa' montarlo aquí tengo la pieza",
+      "translation": "但我会拼好的 因为缺失的那一块在我的手中"
+    },
+    {
+      "time": 149.129,
+      "time_str": "02:29.129",
+      "text": "¡Oye!",
+      "translation": "嘿！"
+    },
+    {
+      "time": 150.089,
+      "time_str": "02:30.089",
+      "text": "Despacito",
+      "translation": "慢慢地来"
+    },
+    {
+      "time": 151.904,
+      "time_str": "02:31.904",
+      "text": "Quiero respirar tu cuello despacito",
+      "translation": "想要在你脖颈间慢慢地喘息"
+    },
+    {
+      "time": 154.465,
+      "time_str": "02:34.465",
+      "text": "Deja que te diga cosas al oído",
+      "translation": "在你的耳边说尽甜言蜜语"
+    },
+    {
+      "time": 157.08,
+      "time_str": "02:37.080",
+      "text": "Para que te acuerdes si no estás conmigo",
+      "translation": "好让你在以后都能想起此时此刻"
+    },
+    {
+      "time": 160.487,
+      "time_str": "02:40.487",
+      "text": "Despacito",
+      "translation": "慢慢地来"
+    },
+    {
+      "time": 162.635,
+      "time_str": "02:42.635",
+      "text": "Quiero desnudarte a besos despacito",
+      "translation": "想要用吻慢慢褪去你的衣衫"
+    },
+    {
+      "time": 165.177,
+      "time_str": "02:45.177",
+      "text": "Firmo en las paredes de tu laberinto",
+      "translation": "在你迷宫的墙上留下我的名字"
+    },
+    {
+      "time": 167.976,
+      "time_str": "02:47.976",
+      "text": "Y hacer de tu cuerpo todo un manuscrito",
+      "translation": "把你的身体变成我的手稿"
+    },
+    {
+      "time": 170.578,
+      "time_str": "02:50.578",
+      "text": "(Sube, sube, sube, sube, sube)",
+      "translation": "亲爱的，亲爱的，亲爱的，亲爱的，亲爱的"
+    },
+    {
+      "time": 172.752,
+      "time_str": "02:52.752",
+      "text": "Quiero ver bailar tu pelo",
+      "translation": "想要看你发丝飞扬"
+    },
+    {
+      "time": 174.466,
+      "time_str": "02:54.466",
+      "text": "Quiero ser tu ritmo",
+      "translation": "想要成为你舞动的旋律"
+    },
+    {
+      "time": 176.595,
+      "time_str": "02:56.595",
+      "text": "Que le enseñes a mi boca",
+      "translation": "想要你告诉我的嘴唇"
+    },
+    {
+      "time": 179.159,
+      "time_str": "02:59.159",
+      "text": "Tus lugares favoritos",
+      "translation": "何处是你想要亲吻的地方"
+    },
+    {
+      "time": 181.616,
+      "time_str": "03:01.616",
+      "text": "(Favorito, favorito, baby)",
+      "translation": "（最想要的 宝贝)"
+    },
+    {
+      "time": 183.355,
+      "time_str": "03:03.355",
+      "text": "Déjame sobrepasar tus zonas de peligro",
+      "translation": "让我越过你的危险地带"
+    },
+    {
+      "time": 187.249,
+      "time_str": "03:07.249",
+      "text": "Hasta provocar tus gritos",
+      "translation": "直到令你尖叫"
+    },
+    {
+      "time": 190.034,
+      "time_str": "03:10.034",
+      "text": "Y que olvides tu apellido",
+      "translation": "直到你忘记了自己的名字"
+    },
+    {
+      "time": 192.721,
+      "time_str": "03:12.721",
+      "text": "Despacito",
+      "translation": "慢慢地来"
+    },
+    {
+      "time": 195.248,
+      "time_str": "03:15.248",
+      "text": "This is how we do it down in Puerto Rico",
+      "translation": "这就是我们波多黎各的做法"
+    },
+    {
+      "time": 197.731,
+      "time_str": "03:17.731",
+      "text": "I just wanna hear you screaming, \"¡Ay, Bendito!\"",
+      "translation": "我只想听到你尖叫，“嗨，我的天！”"
+    },
+    {
+      "time": 200.449,
+      "time_str": "03:20.449",
+      "text": "I can move forever cuando esté contigo",
+      "translation": "我可以永远移动"
+    },
+    {
+      "time": 203.552,
+      "time_str": "03:23.552",
+      "text": "¡Bailalo!",
+      "translation": "跳舞吧（加利西亚语）"
+    },
+    {
+      "time": 204.418,
+      "time_str": "03:24.418",
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "一点一点 温柔再温柔"
+    },
+    {
+      "time": 207.048,
+      "time_str": "03:27.048",
+      "text": "Nos vamos pegando, poquito a poquito",
+      "translation": "我们越贴越近 一点一点"
+    },
+    {
+      "time": 209.715,
+      "time_str": "03:29.715",
+      "text": "Que le enseñes a mi boca",
+      "translation": "告诉他们 我的嘴"
+    },
+    {
+      "time": 211.667,
+      "time_str": "03:31.667",
+      "text": "Tus lugares favoritos",
+      "translation": "是你最喜欢的地方"
+    },
+    {
+      "time": 214.016,
+      "time_str": "03:34.016",
+      "text": "(Favorito, favorito, baby)",
+      "translation": "（最想要的 宝贝）"
+    },
+    {
+      "time": 214.868,
+      "time_str": "03:34.868",
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "一点一点 温柔再温柔"
+    },
+    {
+      "time": 217.816,
+      "time_str": "03:37.816",
+      "text": "Nos vamos pegando, poquito a poquito",
+      "translation": "我们越贴越近 一点一点"
+    },
+    {
+      "time": 220.353,
+      "time_str": "03:40.353",
+      "text": "Hasta provocar tus gritos (Fonsi)",
+      "translation": "直到令你尖叫(Fonsi)"
+    },
+    {
+      "time": 222.938,
+      "time_str": "03:42.938",
+      "text": "Y que olvides tu apellido (D.Y.)",
+      "translation": "直到你忘记了自己的名字（D.Y.）"
+    },
+    {
+      "time": 225.0,
+      "time_str": "03:45.000",
+      "text": "Despacito",
+      "translation": "慢慢地来"
+    },
+    {
+      "time": 227.061,
+      "time_str": "03:47.061",
+      "text": "Producers : Josh Gudwin / Mauricio Rengifo / Andrés Torres",
+      "translation": null
+    },
+    {
+      "time": 227.161,
+      "time_str": "03:47.161",
+      "text": "Vocals : Luis Fonsi / Daddy Yankee / Justin Bieber",
+      "translation": null
+    },
+    {
+      "time": 227.261,
+      "time_str": "03:47.261",
+      "text": "Vocal Coach : Juan Felipe Samper",
+      "translation": null
+    },
+    {
+      "time": 227.361,
+      "time_str": "03:47.361",
+      "text": "Recording Engineers : Josh Gudwin / Juan Rivera \"Gaby Music\" / Chris O'Ryan",
+      "translation": null
+    },
+    {
+      "time": 227.461,
+      "time_str": "03:47.461",
+      "text": "Remixer : Josh Gudwin",
+      "translation": null
+    },
+    {
+      "time": 227.561,
+      "time_str": "03:47.561",
+      "text": "Mixing : Jaycen Joshua / Josh Gudwin",
+      "translation": null
+    },
+    {
+      "time": 227.661,
+      "time_str": "03:47.661",
+      "text": "Mastering : Dave Kutch",
+      "translation": null
+    },
+    {
+      "time": 227.761,
+      "time_str": "03:47.761",
+      "text": "Mixing Assistant : Rashawn McLean / Jacob Richards / Mike Seaberg",
+      "translation": null
+    },
+    {
+      "time": 227.861,
+      "time_str": "03:47.861",
+      "text": "Recorded at Audiovisión (Bogotá, Colombia), April 13, 2017",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Despacito (Remix) - Luis Fonsi,Daddy Yankee,Justin Bieber.lrc"
+}

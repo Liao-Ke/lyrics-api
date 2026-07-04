@@ -1,0 +1,82 @@
+{
+  "title": "沧海一声笑",
+  "title_raw": "沧海一声笑",
+  "version": null,
+  "artist": "许冠杰",
+  "group_key": "沧海一声笑|许冠杰",
+  "writers": {
+    "lyricist": "黄霑",
+    "composer": "黄霑",
+    "arranger": "顾嘉辉"
+  },
+  "lyrics": [
+    {
+      "time": 12.167,
+      "time_str": "00:12.167",
+      "text": "沧海一声笑 滔滔两岸潮",
+      "translation": null
+    },
+    {
+      "time": 19.582,
+      "time_str": "00:19.582",
+      "text": "浮沉随浪只记今朝",
+      "translation": null
+    },
+    {
+      "time": 26.997,
+      "time_str": "00:26.997",
+      "text": "苍天笑 纷纷世上潮",
+      "translation": null
+    },
+    {
+      "time": 34.35,
+      "time_str": "00:34.350",
+      "text": "谁负谁胜出天知晓",
+      "translation": null
+    },
+    {
+      "time": 41.691,
+      "time_str": "00:41.691",
+      "text": "江山笑 烟雨遥",
+      "translation": null
+    },
+    {
+      "time": 49.12,
+      "time_str": "00:49.120",
+      "text": "涛浪淘尽红尘俗世几多娇",
+      "translation": null
+    },
+    {
+      "time": 56.476,
+      "time_str": "00:56.476",
+      "text": "清风笑 竟惹寂寥",
+      "translation": null
+    },
+    {
+      "time": 63.869,
+      "time_str": "01:03.869",
+      "text": "豪情还剩了一襟晚照",
+      "translation": null
+    },
+    {
+      "time": 93.433,
+      "time_str": "01:33.433",
+      "text": "苍生笑 不再寂寥",
+      "translation": null
+    },
+    {
+      "time": 100.837,
+      "time_str": "01:40.837",
+      "text": "豪情仍在痴痴笑笑",
+      "translation": null
+    },
+    {
+      "time": 115.594,
+      "time_str": "01:55.594",
+      "text": "啦……",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "沧海一声笑 - 许冠杰.lrc"
+}

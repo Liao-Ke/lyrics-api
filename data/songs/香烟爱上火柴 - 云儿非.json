@@ -1,0 +1,286 @@
+{
+  "title": "香烟爱上火柴",
+  "title_raw": "香烟爱上火柴",
+  "version": null,
+  "artist": "云儿非",
+  "group_key": "香烟爱上火柴|云儿非",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 27.81,
+      "time_str": "00:27.810",
+      "text": "香烟爱上火柴",
+      "translation": null
+    },
+    {
+      "time": 31.4,
+      "time_str": "00:31.400",
+      "text": "就注定被伤害",
+      "translation": null
+    },
+    {
+      "time": 34.9,
+      "time_str": "00:34.900",
+      "text": "老鼠爱上猫咪",
+      "translation": null
+    },
+    {
+      "time": 38.4,
+      "time_str": "00:38.400",
+      "text": "就注定被淘汰",
+      "translation": null
+    },
+    {
+      "time": 42.2,
+      "time_str": "00:42.200",
+      "text": "我爱上了你",
+      "translation": null
+    },
+    {
+      "time": 45.5,
+      "time_str": "00:45.500",
+      "text": "就注定离不开",
+      "translation": null
+    },
+    {
+      "time": 49.2,
+      "time_str": "00:49.200",
+      "text": "不要轻易说爱",
+      "translation": null
+    },
+    {
+      "time": 52.3,
+      "time_str": "00:52.300",
+      "text": "许下的承诺",
+      "translation": null
+    },
+    {
+      "time": 55.3,
+      "time_str": "00:55.300",
+      "text": "欠下的债",
+      "translation": null
+    },
+    {
+      "time": 62.799,
+      "time_str": "01:02.799",
+      "text": "如果你是我眼中的一滴泪",
+      "translation": null
+    },
+    {
+      "time": 66.4,
+      "time_str": "01:06.400",
+      "text": "那我永远都不会哭",
+      "translation": null
+    },
+    {
+      "time": 69.9,
+      "time_str": "01:09.900",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 73.4,
+      "time_str": "01:13.400",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 77.099,
+      "time_str": "01:17.099",
+      "text": "如果你是我眼中的一滴泪",
+      "translation": null
+    },
+    {
+      "time": 80.7,
+      "time_str": "01:20.700",
+      "text": "那我永远都不会哭!",
+      "translation": null
+    },
+    {
+      "time": 84.099,
+      "time_str": "01:24.099",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 87.498,
+      "time_str": "01:27.498",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 90.498,
+      "time_str": "01:30.498",
+      "text": "失去你",
+      "translation": null
+    },
+    {
+      "time": 112.7,
+      "time_str": "01:52.700",
+      "text": "香烟爱上火柴",
+      "translation": null
+    },
+    {
+      "time": 116.0,
+      "time_str": "01:56.000",
+      "text": "就注定被伤害",
+      "translation": null
+    },
+    {
+      "time": 119.7,
+      "time_str": "01:59.700",
+      "text": "老鼠爱上猫咪",
+      "translation": null
+    },
+    {
+      "time": 122.799,
+      "time_str": "02:02.799",
+      "text": "就注定被淘汰",
+      "translation": null
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "你爱上了我",
+      "translation": null
+    },
+    {
+      "time": 129.899,
+      "time_str": "02:09.899",
+      "text": "就注定离不开",
+      "translation": null
+    },
+    {
+      "time": 133.899,
+      "time_str": "02:13.899",
+      "text": "不要轻易说爱",
+      "translation": null
+    },
+    {
+      "time": 137.099,
+      "time_str": "02:17.099",
+      "text": "许下的承诺",
+      "translation": null
+    },
+    {
+      "time": 140.099,
+      "time_str": "02:20.099",
+      "text": "欠下的债",
+      "translation": null
+    },
+    {
+      "time": 147.599,
+      "time_str": "02:27.599",
+      "text": "如果你是我眼中的一滴泪",
+      "translation": null
+    },
+    {
+      "time": 151.199,
+      "time_str": "02:31.199",
+      "text": "那我永远都不会哭",
+      "translation": null
+    },
+    {
+      "time": 154.899,
+      "time_str": "02:34.899",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 158.199,
+      "time_str": "02:38.199",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 161.799,
+      "time_str": "02:41.799",
+      "text": "如果你是我眼中的一滴泪",
+      "translation": null
+    },
+    {
+      "time": 165.199,
+      "time_str": "02:45.199",
+      "text": "那我永远都不会哭!",
+      "translation": null
+    },
+    {
+      "time": 168.799,
+      "time_str": "02:48.799",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 172.199,
+      "time_str": "02:52.199",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 175.199,
+      "time_str": "02:55.199",
+      "text": "失去你",
+      "translation": null
+    },
+    {
+      "time": 179.699,
+      "time_str": "02:59.699",
+      "text": "如果你是我眼中的一滴泪",
+      "translation": null
+    },
+    {
+      "time": 182.899,
+      "time_str": "03:02.899",
+      "text": "那我永远都不会哭",
+      "translation": null
+    },
+    {
+      "time": 186.5,
+      "time_str": "03:06.500",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 190.159,
+      "time_str": "03:10.159",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 193.5,
+      "time_str": "03:13.500",
+      "text": "如果你是我眼中的一滴泪",
+      "translation": null
+    },
+    {
+      "time": 196.899,
+      "time_str": "03:16.899",
+      "text": "那我永远都不会哭!",
+      "translation": null
+    },
+    {
+      "time": 200.799,
+      "time_str": "03:20.799",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 204.099,
+      "time_str": "03:24.099",
+      "text": "因为我怕失去你",
+      "translation": null
+    },
+    {
+      "time": 207.199,
+      "time_str": "03:27.199",
+      "text": "失去你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "香烟爱上火柴 - 云儿非.lrc"
+}

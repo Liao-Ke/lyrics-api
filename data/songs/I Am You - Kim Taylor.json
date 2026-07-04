@@ -1,0 +1,340 @@
+{
+  "title": "I Am You",
+  "title_raw": "I Am You",
+  "version": null,
+  "artist": "Kim Taylor",
+  "group_key": "i am you|kim taylor",
+  "writers": {
+    "lyricist": "Kim Taylor",
+    "composer": "Kim Taylor",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "La di da di da da",
+      "translation": null
+    },
+    {
+      "time": 3.86,
+      "time_str": "00:03.860",
+      "text": "La di da di da da",
+      "translation": null
+    },
+    {
+      "time": 8.11,
+      "time_str": "00:08.110",
+      "text": "La di da di da da",
+      "translation": null
+    },
+    {
+      "time": 12.0,
+      "time_str": "00:12.000",
+      "text": "La da da",
+      "translation": null
+    },
+    {
+      "time": 16.51,
+      "time_str": "00:16.510",
+      "text": "I am tied by truth like an anchor",
+      "translation": "我被像锚一样沉重的真相困住"
+    },
+    {
+      "time": 25.44,
+      "time_str": "00:25.440",
+      "text": "Anchored to a bottomless sea",
+      "translation": "牢牢地钉在无底的深渊"
+    },
+    {
+      "time": 32.34,
+      "time_str": "00:32.340",
+      "text": "I am floating freely in the heavens",
+      "translation": "我自由自在地游走在天上"
+    },
+    {
+      "time": 41.44,
+      "time_str": "00:41.440",
+      "text": "Held in by your heart's gravity",
+      "translation": "被你深深吸引着"
+    },
+    {
+      "time": 48.92,
+      "time_str": "00:48.920",
+      "text": "All because of love",
+      "translation": "这都是因为爱"
+    },
+    {
+      "time": 53.04,
+      "time_str": "00:53.040",
+      "text": "All because of love",
+      "translation": "这都是因为爱"
+    },
+    {
+      "time": 57.41,
+      "time_str": "00:57.410",
+      "text": "Even though sometimes",
+      "translation": "尽管有时候"
+    },
+    {
+      "time": 59.999,
+      "time_str": "00:59.999",
+      "text": "You don't know who I am",
+      "translation": "你并不知道我是谁"
+    },
+    {
+      "time": 65.239,
+      "time_str": "01:05.239",
+      "text": "I am you..",
+      "translation": "我就是你"
+    },
+    {
+      "time": 69.29,
+      "time_str": "01:09.290",
+      "text": "Everything you do",
+      "translation": "你做的一切"
+    },
+    {
+      "time": 73.168,
+      "time_str": "01:13.168",
+      "text": "Anything you say,",
+      "translation": "你说的任何话语"
+    },
+    {
+      "time": 77.319,
+      "time_str": "01:17.319",
+      "text": "You want me to be",
+      "translation": "你想我成为什么样的人"
+    },
+    {
+      "time": 81.328,
+      "time_str": "01:21.328",
+      "text": "You and me..",
+      "translation": "你和我"
+    },
+    {
+      "time": 85.29,
+      "time_str": "01:25.290",
+      "text": "We're charms on a chain",
+      "translation": "手被链条束缚着"
+    },
+    {
+      "time": 89.79,
+      "time_str": "01:29.790",
+      "text": "Linked eternally one we can't undo",
+      "translation": "永远地系在一起 我们都无法解开"
+    },
+    {
+      "time": 97.11,
+      "time_str": "01:37.110",
+      "text": "And I am you",
+      "translation": "我就是你"
+    },
+    {
+      "time": 101.89,
+      "time_str": "01:41.890",
+      "text": "La di da di da da",
+      "translation": null
+    },
+    {
+      "time": 105.84,
+      "time_str": "01:45.840",
+      "text": "La di da di da da",
+      "translation": null
+    },
+    {
+      "time": 109.799,
+      "time_str": "01:49.799",
+      "text": "La da da",
+      "translation": null
+    },
+    {
+      "time": 113.92,
+      "time_str": "01:53.920",
+      "text": "All my senses awaken to the changes yeah",
+      "translation": "我察觉到了那些变化"
+    },
+    {
+      "time": 122.209,
+      "time_str": "02:02.209",
+      "text": "And I feel alive inside my own skin",
+      "translation": "我感觉全身充满了活力"
+    },
+    {
+      "time": 130.159,
+      "time_str": "02:10.159",
+      "text": "All my reasons tell me just how strange it is",
+      "translation": "我的理智告诉我那有多么的奇怪"
+    },
+    {
+      "time": 138.409,
+      "time_str": "02:18.409",
+      "text": "Coming home to a place I've always been",
+      "translation": "回家了 回到那个地方了 其实我一直都在那"
+    },
+    {
+      "time": 146.439,
+      "time_str": "02:26.439",
+      "text": "And it's all for love",
+      "translation": "这都是因为爱"
+    },
+    {
+      "time": 150.53,
+      "time_str": "02:30.530",
+      "text": "And it's all for love",
+      "translation": "这都是因为爱"
+    },
+    {
+      "time": 154.739,
+      "time_str": "02:34.739",
+      "text": "Even though sometimes,",
+      "translation": "尽管有时候"
+    },
+    {
+      "time": 157.429,
+      "time_str": "02:37.429",
+      "text": "I don't know who I am",
+      "translation": "我并不知道我是谁"
+    },
+    {
+      "time": 162.629,
+      "time_str": "02:42.629",
+      "text": "I am you..",
+      "translation": "我就是你"
+    },
+    {
+      "time": 166.699,
+      "time_str": "02:46.699",
+      "text": "Everything you do",
+      "translation": "你做的一切"
+    },
+    {
+      "time": 170.36,
+      "time_str": "02:50.360",
+      "text": "Anything you say,",
+      "translation": "你说的任何话语"
+    },
+    {
+      "time": 174.549,
+      "time_str": "02:54.549",
+      "text": "You want me to be",
+      "translation": "你想我成为什么样的人"
+    },
+    {
+      "time": 178.81,
+      "time_str": "02:58.810",
+      "text": "You and me..",
+      "translation": "你和我"
+    },
+    {
+      "time": 182.739,
+      "time_str": "03:02.739",
+      "text": "We're charms on a chain",
+      "translation": "手被链条束缚着"
+    },
+    {
+      "time": 187.109,
+      "time_str": "03:07.109",
+      "text": "Linked eternally one we can't undo, ohhh",
+      "translation": "永远地系在一起 我们都无法解开"
+    },
+    {
+      "time": 194.829,
+      "time_str": "03:14.829",
+      "text": "I am you...",
+      "translation": "我就是你"
+    },
+    {
+      "time": 198.979,
+      "time_str": "03:18.979",
+      "text": "La di da di da da",
+      "translation": null
+    },
+    {
+      "time": 202.869,
+      "time_str": "03:22.869",
+      "text": "La di da di da da (anything you say)",
+      "translation": null
+    },
+    {
+      "time": 207.069,
+      "time_str": "03:27.069",
+      "text": "La da da (everything you do)",
+      "translation": null
+    },
+    {
+      "time": 210.97,
+      "time_str": "03:30.970",
+      "text": "La di da di da da (I am you...)",
+      "translation": null
+    },
+    {
+      "time": 215.129,
+      "time_str": "03:35.129",
+      "text": "La di da di da da",
+      "translation": null
+    },
+    {
+      "time": 219.169,
+      "time_str": "03:39.169",
+      "text": "La di da di da da (anything you say)",
+      "translation": null
+    },
+    {
+      "time": 223.16,
+      "time_str": "03:43.160",
+      "text": "La da da (everything you do)",
+      "translation": null
+    },
+    {
+      "time": 227.209,
+      "time_str": "03:47.209",
+      "text": "I am you... (La di da di da da)",
+      "translation": "我就是你"
+    },
+    {
+      "time": 231.19,
+      "time_str": "03:51.190",
+      "text": "I am you... (La di da di da da)",
+      "translation": "我就是你"
+    },
+    {
+      "time": 235.119,
+      "time_str": "03:55.119",
+      "text": "I am you... (La di da di da da)",
+      "translation": "我就是你"
+    },
+    {
+      "time": 239.049,
+      "time_str": "03:59.049",
+      "text": "I am you... (La di da di da da)",
+      "translation": "我就是你"
+    },
+    {
+      "time": 243.199,
+      "time_str": "04:03.199",
+      "text": "I am you... (La di da di da da)",
+      "translation": "我就是你"
+    },
+    {
+      "time": 247.139,
+      "time_str": "04:07.139",
+      "text": "I am you... (La di da di da da)",
+      "translation": "我就是你"
+    },
+    {
+      "time": 251.379,
+      "time_str": "04:11.379",
+      "text": "Everything you do....",
+      "translation": "你做的一切"
+    },
+    {
+      "time": 260.459,
+      "time_str": "04:20.459",
+      "text": "Fading away...",
+      "translation": "正在退却"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "I Am You - Kim Taylor.lrc"
+}

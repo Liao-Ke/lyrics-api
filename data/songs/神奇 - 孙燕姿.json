@@ -1,0 +1,436 @@
+{
+  "title": "神奇",
+  "title_raw": "神奇",
+  "version": null,
+  "artist": "孙燕姿",
+  "group_key": "神奇|孙燕姿",
+  "writers": {
+    "lyricist": "天天",
+    "composer": "李偲菘",
+    "arranger": "Kenn C"
+  },
+  "lyrics": [
+    {
+      "time": 41.69,
+      "time_str": "00:41.690",
+      "text": "就在一瞬间 我们两人眼前",
+      "translation": null
+    },
+    {
+      "time": 44.12,
+      "time_str": "00:44.120",
+      "text": "一道光出现 到了另个世界",
+      "translation": null
+    },
+    {
+      "time": 46.43,
+      "time_str": "00:46.430",
+      "text": "眉中间 有个红点",
+      "translation": null
+    },
+    {
+      "time": 48.92,
+      "time_str": "00:48.920",
+      "text": "头纱遮住脸",
+      "translation": null
+    },
+    {
+      "time": 61.34,
+      "time_str": "01:01.340",
+      "text": "好像每个人 都有特別气味",
+      "translation": null
+    },
+    {
+      "time": 63.62,
+      "time_str": "01:03.620",
+      "text": "闻了才发现 那是咖哩作祟",
+      "translation": null
+    },
+    {
+      "time": 66.06,
+      "time_str": "01:06.060",
+      "text": "恒河水 菩提树叶",
+      "translation": null
+    },
+    {
+      "time": 68.52,
+      "time_str": "01:08.520",
+      "text": "古老的情节",
+      "translation": null
+    },
+    {
+      "time": 70.96,
+      "time_str": "01:10.960",
+      "text": "时间在倒回",
+      "translation": null
+    },
+    {
+      "time": 73.48,
+      "time_str": "01:13.480",
+      "text": "我们俩 穿着布纱",
+      "translation": null
+    },
+    {
+      "time": 74.31,
+      "time_str": "01:14.310",
+      "text": "听着梵乐",
+      "translation": null
+    },
+    {
+      "time": 74.95,
+      "time_str": "01:14.950",
+      "text": "还想着 是幻觉",
+      "translation": null
+    },
+    {
+      "time": 76.27,
+      "time_str": "01:16.270",
+      "text": "奇怪的语言",
+      "translation": null
+    },
+    {
+      "time": 78.36,
+      "time_str": "01:18.360",
+      "text": "催着我 快快起舞",
+      "translation": null
+    },
+    {
+      "time": 79.32,
+      "time_str": "01:19.320",
+      "text": "碎碎念啊念",
+      "translation": null
+    },
+    {
+      "time": 90.67,
+      "time_str": "01:30.670",
+      "text": "时空换换换",
+      "translation": null
+    },
+    {
+      "time": 91.76,
+      "time_str": "01:31.760",
+      "text": "分割的画面",
+      "translation": null
+    },
+    {
+      "time": 93.07,
+      "time_str": "01:33.070",
+      "text": "轮回转转转",
+      "translation": null
+    },
+    {
+      "time": 94.15,
+      "time_str": "01:34.150",
+      "text": "有一样的信念",
+      "translation": null
+    },
+    {
+      "time": 95.96,
+      "time_str": "01:35.960",
+      "text": "我的爱 从古代",
+      "translation": null
+    },
+    {
+      "time": 98.33,
+      "time_str": "01:38.330",
+      "text": "和你回来",
+      "translation": null
+    },
+    {
+      "time": 100.22,
+      "time_str": "01:40.220",
+      "text": "时空换换换",
+      "translation": null
+    },
+    {
+      "time": 101.42,
+      "time_str": "01:41.420",
+      "text": "你回到过去",
+      "translation": null
+    },
+    {
+      "time": 102.81,
+      "time_str": "01:42.810",
+      "text": "轮回转转转",
+      "translation": null
+    },
+    {
+      "time": 103.97,
+      "time_str": "01:43.970",
+      "text": "我经历了悲喜",
+      "translation": null
+    },
+    {
+      "time": 105.44,
+      "time_str": "01:45.440",
+      "text": "好神奇",
+      "translation": null
+    },
+    {
+      "time": 129.91,
+      "time_str": "02:09.910",
+      "text": "好像每个人 都有特別气味",
+      "translation": null
+    },
+    {
+      "time": 132.22,
+      "time_str": "02:12.220",
+      "text": "闻了才发现 那是咖哩作祟",
+      "translation": null
+    },
+    {
+      "time": 134.56,
+      "time_str": "02:14.560",
+      "text": "恒河水 菩提树叶",
+      "translation": null
+    },
+    {
+      "time": 137.09,
+      "time_str": "02:17.090",
+      "text": "古老的情节",
+      "translation": null
+    },
+    {
+      "time": 139.83,
+      "time_str": "02:19.830",
+      "text": "时间在倒回",
+      "translation": null
+    },
+    {
+      "time": 142.03,
+      "time_str": "02:22.030",
+      "text": "我们俩 穿着布纱",
+      "translation": null
+    },
+    {
+      "time": 142.88,
+      "time_str": "02:22.880",
+      "text": "听着梵乐",
+      "translation": null
+    },
+    {
+      "time": 143.58,
+      "time_str": "02:23.580",
+      "text": "还想着 是幻觉",
+      "translation": null
+    },
+    {
+      "time": 144.72,
+      "time_str": "02:24.720",
+      "text": "奇怪的语言",
+      "translation": null
+    },
+    {
+      "time": 146.93,
+      "time_str": "02:26.930",
+      "text": "催着我 快快起舞",
+      "translation": null
+    },
+    {
+      "time": 147.86,
+      "time_str": "02:27.860",
+      "text": "碎碎念啊念",
+      "translation": null
+    },
+    {
+      "time": 158.83,
+      "time_str": "02:38.830",
+      "text": "时空换换换",
+      "translation": null
+    },
+    {
+      "time": 160.2,
+      "time_str": "02:40.200",
+      "text": "分割的画面",
+      "translation": null
+    },
+    {
+      "time": 161.6,
+      "time_str": "02:41.600",
+      "text": "轮回转转转",
+      "translation": null
+    },
+    {
+      "time": 162.61,
+      "time_str": "02:42.610",
+      "text": "有一样的信念",
+      "translation": null
+    },
+    {
+      "time": 164.47,
+      "time_str": "02:44.470",
+      "text": "我的爱 从古代",
+      "translation": null
+    },
+    {
+      "time": 166.6,
+      "time_str": "02:46.600",
+      "text": "和你回来",
+      "translation": null
+    },
+    {
+      "time": 168.88,
+      "time_str": "02:48.880",
+      "text": "时空换换换",
+      "translation": null
+    },
+    {
+      "time": 169.99,
+      "time_str": "02:49.990",
+      "text": "你回到过去",
+      "translation": null
+    },
+    {
+      "time": 171.34,
+      "time_str": "02:51.340",
+      "text": "轮回转转转",
+      "translation": null
+    },
+    {
+      "time": 172.41,
+      "time_str": "02:52.410",
+      "text": "我经历了悲喜",
+      "translation": null
+    },
+    {
+      "time": 174.0,
+      "time_str": "02:54.000",
+      "text": "好神奇",
+      "translation": null
+    },
+    {
+      "time": 198.43,
+      "time_str": "03:18.430",
+      "text": "时空换换换",
+      "translation": null
+    },
+    {
+      "time": 199.5,
+      "time_str": "03:19.500",
+      "text": "分割的画面",
+      "translation": null
+    },
+    {
+      "time": 200.8,
+      "time_str": "03:20.800",
+      "text": "轮回转转转",
+      "translation": null
+    },
+    {
+      "time": 201.78,
+      "time_str": "03:21.780",
+      "text": "有一样的信念",
+      "translation": null
+    },
+    {
+      "time": 203.65,
+      "time_str": "03:23.650",
+      "text": "我的爱 从古代",
+      "translation": null
+    },
+    {
+      "time": 205.7,
+      "time_str": "03:25.700",
+      "text": "和你回来",
+      "translation": null
+    },
+    {
+      "time": 208.19,
+      "time_str": "03:28.190",
+      "text": "时空换换换",
+      "translation": null
+    },
+    {
+      "time": 209.18,
+      "time_str": "03:29.180",
+      "text": "你回到过去",
+      "translation": null
+    },
+    {
+      "time": 210.66,
+      "time_str": "03:30.660",
+      "text": "轮回转转转",
+      "translation": null
+    },
+    {
+      "time": 211.64,
+      "time_str": "03:31.640",
+      "text": "我经历了悲喜",
+      "translation": null
+    },
+    {
+      "time": 213.42,
+      "time_str": "03:33.420",
+      "text": "好神奇",
+      "translation": null
+    },
+    {
+      "time": 217.98,
+      "time_str": "03:37.980",
+      "text": "时空换换换",
+      "translation": null
+    },
+    {
+      "time": 219.09,
+      "time_str": "03:39.090",
+      "text": "轮回转转转",
+      "translation": null
+    },
+    {
+      "time": 227.74,
+      "time_str": "03:47.740",
+      "text": "时空换换换",
+      "translation": null
+    },
+    {
+      "time": 228.93,
+      "time_str": "03:48.930",
+      "text": "你回到过去",
+      "translation": null
+    },
+    {
+      "time": 230.14,
+      "time_str": "03:50.140",
+      "text": "轮回转转转",
+      "translation": null
+    },
+    {
+      "time": 231.3,
+      "time_str": "03:51.300",
+      "text": "又回到了这里",
+      "translation": null
+    },
+    {
+      "time": 234.22,
+      "time_str": "03:54.220",
+      "text": "好神奇",
+      "translation": null
+    },
+    {
+      "time": 258.23,
+      "time_str": "04:18.230",
+      "text": "长笛 : Terry Ang",
+      "translation": null
+    },
+    {
+      "time": 258.73,
+      "time_str": "04:18.730",
+      "text": "西塔琴 : Kenn C",
+      "translation": null
+    },
+    {
+      "time": 259.23,
+      "time_str": "04:19.230",
+      "text": "塔布拉鼓 : Ms Maniam",
+      "translation": null
+    },
+    {
+      "time": 262.23,
+      "time_str": "04:22.230",
+      "text": "混音室 : 白金录音室 (Taiwan)",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "神奇 - 孙燕姿.lrc"
+}

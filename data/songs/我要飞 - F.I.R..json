@@ -1,0 +1,526 @@
+{
+  "title": "我要飞",
+  "title_raw": "我要飞",
+  "version": null,
+  "artist": "F.I.R.",
+  "group_key": "我要飞|f.i.r.",
+  "writers": {
+    "lyricist": "F.I.R.",
+    "composer": "F.I.R.",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 36.8,
+      "time_str": "00:36.800",
+      "text": "我要飞",
+      "translation": null
+    },
+    {
+      "time": 37.5,
+      "time_str": "00:37.500",
+      "text": "飞越伤悲",
+      "translation": null
+    },
+    {
+      "time": 38.52,
+      "time_str": "00:38.520",
+      "text": "一种接近光的感觉",
+      "translation": null
+    },
+    {
+      "time": 40.19,
+      "time_str": "00:40.190",
+      "text": "自由是梦想",
+      "translation": null
+    },
+    {
+      "time": 41.62,
+      "time_str": "00:41.620",
+      "text": "无边无际的能源",
+      "translation": null
+    },
+    {
+      "time": 43.5,
+      "time_str": "00:43.500",
+      "text": "我敢飞",
+      "translation": null
+    },
+    {
+      "time": 44.48,
+      "time_str": "00:44.480",
+      "text": "有梦就追",
+      "translation": null
+    },
+    {
+      "time": 45.3,
+      "time_str": "00:45.300",
+      "text": "一种骄傲尊严的美",
+      "translation": null
+    },
+    {
+      "time": 47.15,
+      "time_str": "00:47.150",
+      "text": "巨大的考验",
+      "translation": null
+    },
+    {
+      "time": 48.3,
+      "time_str": "00:48.300",
+      "text": "现在就要跨越",
+      "translation": null
+    },
+    {
+      "time": 50.41,
+      "time_str": "00:50.410",
+      "text": "飞 飞 飞 飞 飞 飞",
+      "translation": null
+    },
+    {
+      "time": 52.63,
+      "time_str": "00:52.630",
+      "text": "我想飞",
+      "translation": null
+    },
+    {
+      "time": 53.86,
+      "time_str": "00:53.860",
+      "text": "追 追 追 追 追",
+      "translation": null
+    },
+    {
+      "time": 56.3,
+      "time_str": "00:56.300",
+      "text": "决不后退",
+      "translation": null
+    },
+    {
+      "time": 57.18,
+      "time_str": "00:57.180",
+      "text": "飞 飞 飞 飞 飞 飞",
+      "translation": null
+    },
+    {
+      "time": 59.52,
+      "time_str": "00:59.520",
+      "text": "我想飞",
+      "translation": null
+    },
+    {
+      "time": 61.16,
+      "time_str": "01:01.160",
+      "text": "YA~",
+      "translation": null
+    },
+    {
+      "time": 65.64,
+      "time_str": "01:05.640",
+      "text": "我要用力飞",
+      "translation": null
+    },
+    {
+      "time": 66.86,
+      "time_str": "01:06.860",
+      "text": "不管有多远",
+      "translation": null
+    },
+    {
+      "time": 68.4,
+      "time_str": "01:08.400",
+      "text": "超越了极限",
+      "translation": null
+    },
+    {
+      "time": 70.1,
+      "time_str": "01:10.100",
+      "text": "挑战的冒险",
+      "translation": null
+    },
+    {
+      "time": 72.36,
+      "time_str": "01:12.360",
+      "text": "我要勇敢追",
+      "translation": null
+    },
+    {
+      "time": 73.76,
+      "time_str": "01:13.760",
+      "text": "奔向到终点",
+      "translation": null
+    },
+    {
+      "time": 75.18,
+      "time_str": "01:15.180",
+      "text": "痛过的泪水",
+      "translation": null
+    },
+    {
+      "time": 76.9,
+      "time_str": "01:16.900",
+      "text": "换来是甜美",
+      "translation": null
+    },
+    {
+      "time": 79.45,
+      "time_str": "01:19.450",
+      "text": "我要用力飞",
+      "translation": null
+    },
+    {
+      "time": 80.62,
+      "time_str": "01:20.620",
+      "text": "不管有多远",
+      "translation": null
+    },
+    {
+      "time": 82.06,
+      "time_str": "01:22.060",
+      "text": "超越了极限",
+      "translation": null
+    },
+    {
+      "time": 83.68,
+      "time_str": "01:23.680",
+      "text": "挑战的冒险",
+      "translation": null
+    },
+    {
+      "time": 86.06,
+      "time_str": "01:26.060",
+      "text": "我要勇敢追",
+      "translation": null
+    },
+    {
+      "time": 87.42,
+      "time_str": "01:27.420",
+      "text": "奔向到终点",
+      "translation": null
+    },
+    {
+      "time": 88.89,
+      "time_str": "01:28.890",
+      "text": "痛过的泪水",
+      "translation": null
+    },
+    {
+      "time": 90.66,
+      "time_str": "01:30.660",
+      "text": "换来是甜美",
+      "translation": null
+    },
+    {
+      "time": 93.06,
+      "time_str": "01:33.060",
+      "text": "我要飞",
+      "translation": null
+    },
+    {
+      "time": 108.71,
+      "time_str": "01:48.710",
+      "text": "我要飞",
+      "translation": null
+    },
+    {
+      "time": 109.34,
+      "time_str": "01:49.340",
+      "text": "飞越伤悲",
+      "translation": null
+    },
+    {
+      "time": 110.3,
+      "time_str": "01:50.300",
+      "text": "一种接近光的感觉",
+      "translation": null
+    },
+    {
+      "time": 111.92,
+      "time_str": "01:51.920",
+      "text": "自由是梦想",
+      "translation": null
+    },
+    {
+      "time": 113.5,
+      "time_str": "01:53.500",
+      "text": "无边无际的能源",
+      "translation": null
+    },
+    {
+      "time": 115.52,
+      "time_str": "01:55.520",
+      "text": "我敢飞",
+      "translation": null
+    },
+    {
+      "time": 116.3,
+      "time_str": "01:56.300",
+      "text": "有梦就追",
+      "translation": null
+    },
+    {
+      "time": 117.11,
+      "time_str": "01:57.110",
+      "text": "一种骄傲尊严的美",
+      "translation": null
+    },
+    {
+      "time": 118.75,
+      "time_str": "01:58.750",
+      "text": "巨大的考验",
+      "translation": null
+    },
+    {
+      "time": 120.3,
+      "time_str": "02:00.300",
+      "text": "现在就要跨越",
+      "translation": null
+    },
+    {
+      "time": 122.37,
+      "time_str": "02:02.370",
+      "text": "飞 飞 飞 飞 飞 飞",
+      "translation": null
+    },
+    {
+      "time": 124.56,
+      "time_str": "02:04.560",
+      "text": "我想飞",
+      "translation": null
+    },
+    {
+      "time": 125.45,
+      "time_str": "02:05.450",
+      "text": "追 追 追 追 追",
+      "translation": null
+    },
+    {
+      "time": 128.13,
+      "time_str": "02:08.130",
+      "text": "决不后退",
+      "translation": null
+    },
+    {
+      "time": 129.12,
+      "time_str": "02:09.120",
+      "text": "飞 飞 飞 飞 飞 飞",
+      "translation": null
+    },
+    {
+      "time": 131.57,
+      "time_str": "02:11.570",
+      "text": "我想飞",
+      "translation": null
+    },
+    {
+      "time": 132.84,
+      "time_str": "02:12.840",
+      "text": "YA~",
+      "translation": null
+    },
+    {
+      "time": 139.4,
+      "time_str": "02:19.400",
+      "text": "我要用力飞",
+      "translation": null
+    },
+    {
+      "time": 140.87,
+      "time_str": "02:20.870",
+      "text": "不管有多远",
+      "translation": null
+    },
+    {
+      "time": 142.3,
+      "time_str": "02:22.300",
+      "text": "超越了极限",
+      "translation": null
+    },
+    {
+      "time": 143.89,
+      "time_str": "02:23.890",
+      "text": "挑战的冒险",
+      "translation": null
+    },
+    {
+      "time": 146.07,
+      "time_str": "02:26.070",
+      "text": "我要勇敢追",
+      "translation": null
+    },
+    {
+      "time": 147.6,
+      "time_str": "02:27.600",
+      "text": "奔向到终点",
+      "translation": null
+    },
+    {
+      "time": 149.0,
+      "time_str": "02:29.000",
+      "text": "痛过的泪水",
+      "translation": null
+    },
+    {
+      "time": 150.83,
+      "time_str": "02:30.830",
+      "text": "换来是甜美",
+      "translation": null
+    },
+    {
+      "time": 153.08,
+      "time_str": "02:33.080",
+      "text": "我要飞",
+      "translation": null
+    },
+    {
+      "time": 189.06,
+      "time_str": "03:09.060",
+      "text": "我要用力飞",
+      "translation": null
+    },
+    {
+      "time": 190.49,
+      "time_str": "03:10.490",
+      "text": "不管有多远",
+      "translation": null
+    },
+    {
+      "time": 191.95,
+      "time_str": "03:11.950",
+      "text": "超越了极限",
+      "translation": null
+    },
+    {
+      "time": 193.59,
+      "time_str": "03:13.590",
+      "text": "挑战的冒险",
+      "translation": null
+    },
+    {
+      "time": 195.83,
+      "time_str": "03:15.830",
+      "text": "我要勇敢追",
+      "translation": null
+    },
+    {
+      "time": 197.4,
+      "time_str": "03:17.400",
+      "text": "奔向到终点",
+      "translation": null
+    },
+    {
+      "time": 198.8,
+      "time_str": "03:18.800",
+      "text": "痛过的泪水",
+      "translation": null
+    },
+    {
+      "time": 200.52,
+      "time_str": "03:20.520",
+      "text": "换来是甜美",
+      "translation": null
+    },
+    {
+      "time": 203.0,
+      "time_str": "03:23.000",
+      "text": "我要用力飞",
+      "translation": null
+    },
+    {
+      "time": 204.16,
+      "time_str": "03:24.160",
+      "text": "不管有多远",
+      "translation": null
+    },
+    {
+      "time": 205.53,
+      "time_str": "03:25.530",
+      "text": "超越了极限",
+      "translation": null
+    },
+    {
+      "time": 207.29,
+      "time_str": "03:27.290",
+      "text": "挑战的冒险",
+      "translation": null
+    },
+    {
+      "time": 209.58,
+      "time_str": "03:29.580",
+      "text": "我要勇敢追",
+      "translation": null
+    },
+    {
+      "time": 211.02,
+      "time_str": "03:31.020",
+      "text": "奔向到终点",
+      "translation": null
+    },
+    {
+      "time": 212.48,
+      "time_str": "03:32.480",
+      "text": "痛过的泪水",
+      "translation": null
+    },
+    {
+      "time": 214.08,
+      "time_str": "03:34.080",
+      "text": "换来是甜美",
+      "translation": null
+    },
+    {
+      "time": 216.52,
+      "time_str": "03:36.520",
+      "text": "我要飞",
+      "translation": null
+    },
+    {
+      "time": 219.9,
+      "time_str": "03:39.900",
+      "text": "飞 飞 飞 飞 飞 飞",
+      "translation": null
+    },
+    {
+      "time": 222.44,
+      "time_str": "03:42.440",
+      "text": "我想飞",
+      "translation": null
+    },
+    {
+      "time": 223.5,
+      "time_str": "03:43.500",
+      "text": "追 追 追 追 追",
+      "translation": null
+    },
+    {
+      "time": 225.81,
+      "time_str": "03:45.810",
+      "text": "决不后退",
+      "translation": null
+    },
+    {
+      "time": 227.08,
+      "time_str": "03:47.080",
+      "text": "飞 飞 飞 飞 飞 飞",
+      "translation": null
+    },
+    {
+      "time": 229.45,
+      "time_str": "03:49.450",
+      "text": "我想飞",
+      "translation": null
+    },
+    {
+      "time": 230.52,
+      "time_str": "03:50.520",
+      "text": "YA~",
+      "translation": null
+    },
+    {
+      "time": 233.2,
+      "time_str": "03:53.200",
+      "text": "我想飞",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我要飞 - F.I.R..lrc"
+}

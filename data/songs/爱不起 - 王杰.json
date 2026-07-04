@@ -1,0 +1,418 @@
+{
+  "title": "爱不起",
+  "title_raw": "爱不起",
+  "version": null,
+  "artist": "王杰",
+  "group_key": "爱不起|王杰",
+  "writers": {
+    "lyricist": "梁芷珊",
+    "composer": "汤小康",
+    "arranger": "Dave Pickell"
+  },
+  "lyrics": [
+    {
+      "time": 22.84,
+      "time_str": "00:22.840",
+      "text": "讲不出的都可给你猜透",
+      "translation": null
+    },
+    {
+      "time": 30.03,
+      "time_str": "00:30.030",
+      "text": "令我发觉开不了口",
+      "translation": null
+    },
+    {
+      "time": 37.29,
+      "time_str": "00:37.290",
+      "text": "你那眼角斜望着我",
+      "translation": null
+    },
+    {
+      "time": 42.71,
+      "time_str": "00:42.710",
+      "text": "令我心动",
+      "translation": null
+    },
+    {
+      "time": 44.35,
+      "time_str": "00:44.350",
+      "text": "让我心跳",
+      "translation": null
+    },
+    {
+      "time": 46.72,
+      "time_str": "00:46.720",
+      "text": "令我失控",
+      "translation": null
+    },
+    {
+      "time": 51.61,
+      "time_str": "00:51.610",
+      "text": "很想讲的不敢跟你讲",
+      "translation": null
+    },
+    {
+      "time": 58.79,
+      "time_str": "00:58.790",
+      "text": "最怕进退不得的迷惘",
+      "translation": null
+    },
+    {
+      "time": 66.04,
+      "time_str": "01:06.040",
+      "text": "每次偶尔沿途遇上",
+      "translation": null
+    },
+    {
+      "time": 71.44,
+      "time_str": "01:11.440",
+      "text": "令我失仪",
+      "translation": null
+    },
+    {
+      "time": 73.24,
+      "time_str": "01:13.240",
+      "text": "让我失控",
+      "translation": null
+    },
+    {
+      "time": 75.6,
+      "time_str": "01:15.600",
+      "text": "令我失意",
+      "translation": null
+    },
+    {
+      "time": 78.67,
+      "time_str": "01:18.670",
+      "text": "躲于哪处",
+      "translation": null
+    },
+    {
+      "time": 80.4,
+      "time_str": "01:20.400",
+      "text": "总是想你",
+      "translation": null
+    },
+    {
+      "time": 82.98,
+      "time_str": "01:22.980",
+      "text": "没一处不在",
+      "translation": null
+    },
+    {
+      "time": 85.81,
+      "time_str": "01:25.810",
+      "text": "花花世界",
+      "translation": null
+    },
+    {
+      "time": 87.57,
+      "time_str": "01:27.570",
+      "text": "这么广阔",
+      "translation": null
+    },
+    {
+      "time": 89.92,
+      "time_str": "01:29.920",
+      "text": "就算天那样大",
+      "translation": null
+    },
+    {
+      "time": 91.75,
+      "time_str": "01:31.750",
+      "text": "或处境怎样坏",
+      "translation": null
+    },
+    {
+      "time": 93.55,
+      "time_str": "01:33.550",
+      "text": "但已跨过疆界",
+      "translation": null
+    },
+    {
+      "time": 97.47,
+      "time_str": "01:37.470",
+      "text": "Wow",
+      "translation": null
+    },
+    {
+      "time": 102.54,
+      "time_str": "01:42.540",
+      "text": "永没法子爱你",
+      "translation": null
+    },
+    {
+      "time": 106.13,
+      "time_str": "01:46.130",
+      "text": "你或会同情我",
+      "translation": null
+    },
+    {
+      "time": 109.58,
+      "time_str": "01:49.580",
+      "text": "极度迷惑了",
+      "translation": null
+    },
+    {
+      "time": 111.89,
+      "time_str": "01:51.890",
+      "text": "而能力上永远付不起",
+      "translation": null
+    },
+    {
+      "time": 114.75,
+      "time_str": "01:54.750",
+      "text": "Wow",
+      "translation": null
+    },
+    {
+      "time": 116.95,
+      "time_str": "01:56.950",
+      "text": "永远没法给予你",
+      "translation": null
+    },
+    {
+      "time": 120.54,
+      "time_str": "02:00.540",
+      "text": "你渴望那份完美",
+      "translation": null
+    },
+    {
+      "time": 124.01,
+      "time_str": "02:04.010",
+      "text": "越是迷住我",
+      "translation": null
+    },
+    {
+      "time": 126.26,
+      "time_str": "02:06.260",
+      "text": "豪华名贵",
+      "translation": null
+    },
+    {
+      "time": 127.73,
+      "time_str": "02:07.730",
+      "text": "越是发现爱不起",
+      "translation": null
+    },
+    {
+      "time": 163.3,
+      "time_str": "02:43.300",
+      "text": "很想讲的不敢跟你讲",
+      "translation": null
+    },
+    {
+      "time": 170.49,
+      "time_str": "02:50.490",
+      "text": "最怕进退不得的迷惘",
+      "translation": null
+    },
+    {
+      "time": 177.67,
+      "time_str": "02:57.670",
+      "text": "每次偶尔沿途遇上",
+      "translation": null
+    },
+    {
+      "time": 183.08,
+      "time_str": "03:03.080",
+      "text": "令我失仪",
+      "translation": null
+    },
+    {
+      "time": 184.88,
+      "time_str": "03:04.880",
+      "text": "让我失控",
+      "translation": null
+    },
+    {
+      "time": 187.26,
+      "time_str": "03:07.260",
+      "text": "令我失意",
+      "translation": null
+    },
+    {
+      "time": 190.36,
+      "time_str": "03:10.360",
+      "text": "躲于哪处",
+      "translation": null
+    },
+    {
+      "time": 192.07,
+      "time_str": "03:12.070",
+      "text": "总是想你",
+      "translation": null
+    },
+    {
+      "time": 194.66,
+      "time_str": "03:14.660",
+      "text": "没一处不在",
+      "translation": null
+    },
+    {
+      "time": 197.45,
+      "time_str": "03:17.450",
+      "text": "花花世界",
+      "translation": null
+    },
+    {
+      "time": 199.28,
+      "time_str": "03:19.280",
+      "text": "这么广阔",
+      "translation": null
+    },
+    {
+      "time": 201.64,
+      "time_str": "03:21.640",
+      "text": "就算天那样大",
+      "translation": null
+    },
+    {
+      "time": 203.37,
+      "time_str": "03:23.370",
+      "text": "或处境怎样坏",
+      "translation": null
+    },
+    {
+      "time": 205.17,
+      "time_str": "03:25.170",
+      "text": "但已跨过疆界",
+      "translation": null
+    },
+    {
+      "time": 209.17,
+      "time_str": "03:29.170",
+      "text": "Wow",
+      "translation": null
+    },
+    {
+      "time": 214.17,
+      "time_str": "03:34.170",
+      "text": "永没法子爱你",
+      "translation": null
+    },
+    {
+      "time": 217.74,
+      "time_str": "03:37.740",
+      "text": "你或会同情我",
+      "translation": null
+    },
+    {
+      "time": 221.29,
+      "time_str": "03:41.290",
+      "text": "极度迷惑了",
+      "translation": null
+    },
+    {
+      "time": 223.41,
+      "time_str": "03:43.410",
+      "text": "而能力上永远付不起",
+      "translation": null
+    },
+    {
+      "time": 226.28,
+      "time_str": "03:46.280",
+      "text": "Wow",
+      "translation": null
+    },
+    {
+      "time": 228.58,
+      "time_str": "03:48.580",
+      "text": "永远没法给予你",
+      "translation": null
+    },
+    {
+      "time": 232.16,
+      "time_str": "03:52.160",
+      "text": "你渴望那份完美",
+      "translation": null
+    },
+    {
+      "time": 235.62,
+      "time_str": "03:55.620",
+      "text": "越是迷住我",
+      "translation": null
+    },
+    {
+      "time": 237.86,
+      "time_str": "03:57.860",
+      "text": "豪华名贵",
+      "translation": null
+    },
+    {
+      "time": 239.32,
+      "time_str": "03:59.320",
+      "text": "越是发现爱不起",
+      "translation": null
+    },
+    {
+      "time": 245.18,
+      "time_str": "04:05.180",
+      "text": "Wow",
+      "translation": null
+    },
+    {
+      "time": 246.58,
+      "time_str": "04:06.580",
+      "text": "永没法子爱你",
+      "translation": null
+    },
+    {
+      "time": 250.13,
+      "time_str": "04:10.130",
+      "text": "你或会同情我",
+      "translation": null
+    },
+    {
+      "time": 253.63,
+      "time_str": "04:13.630",
+      "text": "极度迷惑了",
+      "translation": null
+    },
+    {
+      "time": 255.89,
+      "time_str": "04:15.890",
+      "text": "而能力上永远付不起",
+      "translation": null
+    },
+    {
+      "time": 258.67,
+      "time_str": "04:18.670",
+      "text": "Wow",
+      "translation": null
+    },
+    {
+      "time": 260.95,
+      "time_str": "04:20.950",
+      "text": "永远没法给予你",
+      "translation": null
+    },
+    {
+      "time": 264.55,
+      "time_str": "04:24.550",
+      "text": "你渴望那份完美",
+      "translation": null
+    },
+    {
+      "time": 268.03,
+      "time_str": "04:28.030",
+      "text": "越是迷住我",
+      "translation": null
+    },
+    {
+      "time": 270.25,
+      "time_str": "04:30.250",
+      "text": "豪华名贵",
+      "translation": null
+    },
+    {
+      "time": 271.75,
+      "time_str": "04:31.750",
+      "text": "越是发现爱不起",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱不起 - 王杰.lrc"
+}

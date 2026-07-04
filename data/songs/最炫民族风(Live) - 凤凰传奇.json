@@ -1,0 +1,364 @@
+{
+  "title": "最炫民族风",
+  "title_raw": "最炫民族风(Live)",
+  "version": "Live",
+  "artist": "凤凰传奇",
+  "group_key": "最炫民族风|凤凰传奇",
+  "writers": {
+    "lyricist": "张超",
+    "composer": "张超",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 22.6,
+      "time_str": "00:22.600",
+      "text": "苍茫的天涯是我的爱",
+      "translation": null
+    },
+    {
+      "time": 26.28,
+      "time_str": "00:26.280",
+      "text": "绵绵的青山脚下花正开",
+      "translation": null
+    },
+    {
+      "time": 30.13,
+      "time_str": "00:30.130",
+      "text": "什么样的节奏是最呀最摇摆",
+      "translation": null
+    },
+    {
+      "time": 33.88,
+      "time_str": "00:33.880",
+      "text": "什么样的歌声才是最开怀",
+      "translation": null
+    },
+    {
+      "time": 37.75,
+      "time_str": "00:37.750",
+      "text": "弯弯的河水从天上来",
+      "translation": null
+    },
+    {
+      "time": 41.31,
+      "time_str": "00:41.310",
+      "text": "流向那万紫千红一片海",
+      "translation": null
+    },
+    {
+      "time": 45.33,
+      "time_str": "00:45.330",
+      "text": "火辣辣的歌谣是我们的期待",
+      "translation": null
+    },
+    {
+      "time": 48.88,
+      "time_str": "00:48.880",
+      "text": "一路边走边唱才是最自在",
+      "translation": null
+    },
+    {
+      "time": 52.63,
+      "time_str": "00:52.630",
+      "text": "我们要唱就要唱得最痛快",
+      "translation": null
+    },
+    {
+      "time": 56.61,
+      "time_str": "00:56.610",
+      "text": "你是我天边最美的云彩",
+      "translation": null
+    },
+    {
+      "time": 60.28,
+      "time_str": "01:00.280",
+      "text": "让我用心把你留下来（留下来）",
+      "translation": null
+    },
+    {
+      "time": 64.34,
+      "time_str": "01:04.340",
+      "text": "悠悠的唱着最炫的民族风",
+      "translation": null
+    },
+    {
+      "time": 67.84,
+      "time_str": "01:07.840",
+      "text": "让爱卷走所有的尘埃",
+      "translation": null
+    },
+    {
+      "time": 70.47,
+      "time_str": "01:10.470",
+      "text": "（我知道）你是我心中最美的云彩",
+      "translation": null
+    },
+    {
+      "time": 75.38,
+      "time_str": "01:15.380",
+      "text": "斟满美酒让你留下来（留下来）",
+      "translation": null
+    },
+    {
+      "time": 79.38,
+      "time_str": "01:19.380",
+      "text": "永远都唱着最炫的民族风",
+      "translation": null
+    },
+    {
+      "time": 82.76,
+      "time_str": "01:22.760",
+      "text": "是整片天空最美的姿态",
+      "translation": null
+    },
+    {
+      "time": 86.7,
+      "time_str": "01:26.700",
+      "text": "哟啦啦呵啦呗",
+      "translation": null
+    },
+    {
+      "time": 88.52,
+      "time_str": "01:28.520",
+      "text": "伊啦嗦啦呵啦呗呀",
+      "translation": null
+    },
+    {
+      "time": 90.7,
+      "time_str": "01:30.700",
+      "text": "我听见你心中动人的天籁",
+      "translation": null
+    },
+    {
+      "time": 94.26,
+      "time_str": "01:34.260",
+      "text": "登上天外云霄的舞台",
+      "translation": null
+    },
+    {
+      "time": 113.25,
+      "time_str": "01:53.250",
+      "text": "苍茫的天涯是我的爱",
+      "translation": null
+    },
+    {
+      "time": 116.94,
+      "time_str": "01:56.940",
+      "text": "绵绵的青山脚下花正开",
+      "translation": null
+    },
+    {
+      "time": 120.82,
+      "time_str": "02:00.820",
+      "text": "什么样的节奏是最呀最摇摆",
+      "translation": null
+    },
+    {
+      "time": 124.57,
+      "time_str": "02:04.570",
+      "text": "什么样的歌声才是最开怀",
+      "translation": null
+    },
+    {
+      "time": 128.44,
+      "time_str": "02:08.440",
+      "text": "弯弯的河水从天上来",
+      "translation": null
+    },
+    {
+      "time": 132.0,
+      "time_str": "02:12.000",
+      "text": "流向那万紫千红一片海",
+      "translation": null
+    },
+    {
+      "time": 135.81,
+      "time_str": "02:15.810",
+      "text": "火辣辣的歌谣是我们的期待",
+      "translation": null
+    },
+    {
+      "time": 139.62,
+      "time_str": "02:19.620",
+      "text": "一路边走边唱才是最自在",
+      "translation": null
+    },
+    {
+      "time": 143.31,
+      "time_str": "02:23.310",
+      "text": "我们要唱就要唱得最痛快",
+      "translation": null
+    },
+    {
+      "time": 147.22,
+      "time_str": "02:27.220",
+      "text": "你是我天边最美的云彩",
+      "translation": null
+    },
+    {
+      "time": 150.92,
+      "time_str": "02:30.920",
+      "text": "让我用心把你留下来（留下来）",
+      "translation": null
+    },
+    {
+      "time": 154.92,
+      "time_str": "02:34.920",
+      "text": "悠悠的唱着最炫的民族风",
+      "translation": null
+    },
+    {
+      "time": 158.41,
+      "time_str": "02:38.410",
+      "text": "让爱卷走所有的尘埃",
+      "translation": null
+    },
+    {
+      "time": 161.41,
+      "time_str": "02:41.410",
+      "text": "（我知道）你是我心中最美的云彩",
+      "translation": null
+    },
+    {
+      "time": 166.21,
+      "time_str": "02:46.210",
+      "text": "斟满美酒让你留下来（留下来）",
+      "translation": null
+    },
+    {
+      "time": 170.14,
+      "time_str": "02:50.140",
+      "text": "永远都唱着最炫的民族风",
+      "translation": null
+    },
+    {
+      "time": 173.46,
+      "time_str": "02:53.460",
+      "text": "是整片天空最美的姿态",
+      "translation": null
+    },
+    {
+      "time": 198.29,
+      "time_str": "03:18.290",
+      "text": "你是我天边最美的云彩",
+      "translation": null
+    },
+    {
+      "time": 201.91,
+      "time_str": "03:21.910",
+      "text": "让我用心把你留下来（留下来）",
+      "translation": null
+    },
+    {
+      "time": 206.03,
+      "time_str": "03:26.030",
+      "text": "悠悠的唱着最炫的民族风",
+      "translation": null
+    },
+    {
+      "time": 209.51,
+      "time_str": "03:29.510",
+      "text": "让爱卷走所有的尘埃",
+      "translation": null
+    },
+    {
+      "time": 212.26,
+      "time_str": "03:32.260",
+      "text": "（我知道）你是我心中最美的云彩",
+      "translation": null
+    },
+    {
+      "time": 217.01,
+      "time_str": "03:37.010",
+      "text": "斟满美酒让你留下来（留下来）",
+      "translation": null
+    },
+    {
+      "time": 221.07,
+      "time_str": "03:41.070",
+      "text": "永远都唱着最炫的民族风",
+      "translation": null
+    },
+    {
+      "time": 224.57,
+      "time_str": "03:44.570",
+      "text": "是整片天空最美的姿态",
+      "translation": null
+    },
+    {
+      "time": 230.3,
+      "time_str": "03:50.300",
+      "text": "我听见你心中那动人的天籁",
+      "translation": null
+    },
+    {
+      "time": 233.99,
+      "time_str": "03:53.990",
+      "text": "就忽如一夜春风袭来满面桃花开",
+      "translation": null
+    },
+    {
+      "time": 237.86,
+      "time_str": "03:57.860",
+      "text": "我忍不住去采 我忍不住去摘",
+      "translation": null
+    },
+    {
+      "time": 241.62,
+      "time_str": "04:01.620",
+      "text": "我敞开胸怀为你等待",
+      "translation": null
+    },
+    {
+      "time": 245.84,
+      "time_str": "04:05.840",
+      "text": "你是我天边最美的云彩",
+      "translation": null
+    },
+    {
+      "time": 249.28,
+      "time_str": "04:09.280",
+      "text": "让我用心把你留下来",
+      "translation": null
+    },
+    {
+      "time": 253.01,
+      "time_str": "04:13.010",
+      "text": "悠悠的唱着最炫的民族风",
+      "translation": null
+    },
+    {
+      "time": 256.75,
+      "time_str": "04:16.750",
+      "text": "让爱卷走所有的尘埃",
+      "translation": null
+    },
+    {
+      "time": 259.5,
+      "time_str": "04:19.500",
+      "text": "（我知道）你是我心中最美的云彩",
+      "translation": null
+    },
+    {
+      "time": 264.25,
+      "time_str": "04:24.250",
+      "text": "斟满美酒让你留下来（留下来）",
+      "translation": null
+    },
+    {
+      "time": 268.38,
+      "time_str": "04:28.380",
+      "text": "永远都唱着最炫的民族风",
+      "translation": null
+    },
+    {
+      "time": 271.75,
+      "time_str": "04:31.750",
+      "text": "是整片天空最美的姿态",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "最炫民族风(Live) - 凤凰传奇.lrc"
+}

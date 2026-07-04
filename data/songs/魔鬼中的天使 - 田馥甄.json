@@ -1,0 +1,274 @@
+{
+  "title": "魔鬼中的天使",
+  "title_raw": "魔鬼中的天使",
+  "version": null,
+  "artist": "田馥甄",
+  "group_key": "魔鬼中的天使|田馥甄",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "陈小霞",
+    "arranger": "王治平"
+  },
+  "lyrics": [
+    {
+      "time": 14.12,
+      "time_str": "00:14.120",
+      "text": "把太细的神经割掉",
+      "translation": null
+    },
+    {
+      "time": 17.57,
+      "time_str": "00:17.570",
+      "text": "会不会比较睡得着",
+      "translation": null
+    },
+    {
+      "time": 20.84,
+      "time_str": "00:20.840",
+      "text": "我的心有座灰色的监牢",
+      "translation": null
+    },
+    {
+      "time": 26.74,
+      "time_str": "00:26.740",
+      "text": "关着一票黑色念头在吼叫",
+      "translation": null
+    },
+    {
+      "time": 35.82,
+      "time_str": "00:35.820",
+      "text": "把太硬的脾气抽掉",
+      "translation": null
+    },
+    {
+      "time": 39.32,
+      "time_str": "00:39.320",
+      "text": "会不会比较被明了",
+      "translation": null
+    },
+    {
+      "time": 43.12,
+      "time_str": "00:43.120",
+      "text": "你可以重重把我给打倒",
+      "translation": null
+    },
+    {
+      "time": 50.6,
+      "time_str": "00:50.600",
+      "text": "但是想都别想我求饶",
+      "translation": null
+    },
+    {
+      "time": 58.04,
+      "time_str": "00:58.040",
+      "text": "你是魔鬼中的天使",
+      "translation": null
+    },
+    {
+      "time": 61.5,
+      "time_str": "01:01.500",
+      "text": "所以送我心碎的方式",
+      "translation": null
+    },
+    {
+      "time": 65.59,
+      "time_str": "01:05.590",
+      "text": "是让我笑到最后一秒为止",
+      "translation": null
+    },
+    {
+      "time": 69.42,
+      "time_str": "01:09.420",
+      "text": "才发现自己胸口插了一把刀子",
+      "translation": null
+    },
+    {
+      "time": 72.85,
+      "time_str": "01:12.850",
+      "text": "你是魔鬼中的天使",
+      "translation": null
+    },
+    {
+      "time": 76.12,
+      "time_str": "01:16.120",
+      "text": "让恨变成太俗气的事",
+      "translation": null
+    },
+    {
+      "time": 79.88,
+      "time_str": "01:19.880",
+      "text": "从眼里流下谢谢两个字",
+      "translation": null
+    },
+    {
+      "time": 83.65,
+      "time_str": "01:23.650",
+      "text": "尽管叫我疯子 不准叫我傻子",
+      "translation": null
+    },
+    {
+      "time": 108.18,
+      "time_str": "01:48.180",
+      "text": "把太硬的脾气抽掉",
+      "translation": null
+    },
+    {
+      "time": 111.59,
+      "time_str": "01:51.590",
+      "text": "会不会比较被明了",
+      "translation": null
+    },
+    {
+      "time": 115.61,
+      "time_str": "01:55.610",
+      "text": "你可以重重把我给打倒",
+      "translation": null
+    },
+    {
+      "time": 122.96,
+      "time_str": "02:02.960",
+      "text": "但是想都别想我求饶",
+      "translation": null
+    },
+    {
+      "time": 130.36,
+      "time_str": "02:10.360",
+      "text": "你是魔鬼中的天使",
+      "translation": null
+    },
+    {
+      "time": 133.69,
+      "time_str": "02:13.690",
+      "text": "所以送我心碎的方式",
+      "translation": null
+    },
+    {
+      "time": 137.59,
+      "time_str": "02:17.590",
+      "text": "是让我笑到最后一秒为止",
+      "translation": null
+    },
+    {
+      "time": 141.67,
+      "time_str": "02:21.670",
+      "text": "才发现自己胸口插了一把刀子",
+      "translation": null
+    },
+    {
+      "time": 145.16,
+      "time_str": "02:25.160",
+      "text": "你是魔鬼中的天使",
+      "translation": null
+    },
+    {
+      "time": 148.2,
+      "time_str": "02:28.200",
+      "text": "让恨变成太俗气的事",
+      "translation": null
+    },
+    {
+      "time": 152.32,
+      "time_str": "02:32.320",
+      "text": "从眼里流下谢谢两个字",
+      "translation": null
+    },
+    {
+      "time": 156.12,
+      "time_str": "02:36.120",
+      "text": "尽管叫我疯子 不准叫我傻子",
+      "translation": null
+    },
+    {
+      "time": 166.4,
+      "time_str": "02:46.400",
+      "text": "随人去拼凑我们的故事",
+      "translation": null
+    },
+    {
+      "time": 169.62,
+      "time_str": "02:49.620",
+      "text": "我懒得解释 爱怎么解释",
+      "translation": null
+    },
+    {
+      "time": 173.56,
+      "time_str": "02:53.560",
+      "text": "当谁想看我碎裂的样子",
+      "translation": null
+    },
+    {
+      "time": 176.97,
+      "time_str": "02:56.970",
+      "text": "我已经又顽强 重生一次",
+      "translation": null
+    },
+    {
+      "time": 183.84,
+      "time_str": "03:03.840",
+      "text": "你是魔鬼中的天使",
+      "translation": null
+    },
+    {
+      "time": 186.97,
+      "time_str": "03:06.970",
+      "text": "所以送我心碎的方式",
+      "translation": null
+    },
+    {
+      "time": 190.92,
+      "time_str": "03:10.920",
+      "text": "是让我笑到最后一秒为止",
+      "translation": null
+    },
+    {
+      "time": 195.16,
+      "time_str": "03:15.160",
+      "text": "才发现自己胸口插了一把刀子",
+      "translation": null
+    },
+    {
+      "time": 198.55,
+      "time_str": "03:18.550",
+      "text": "你是魔鬼中的天使",
+      "translation": null
+    },
+    {
+      "time": 201.76,
+      "time_str": "03:21.760",
+      "text": "让恨变成太俗气的事",
+      "translation": null
+    },
+    {
+      "time": 205.76,
+      "time_str": "03:25.760",
+      "text": "从眼里流下谢谢两个字",
+      "translation": null
+    },
+    {
+      "time": 209.73,
+      "time_str": "03:29.730",
+      "text": "尽管叫我疯子 不准叫我傻子",
+      "translation": null
+    },
+    {
+      "time": 223.0,
+      "time_str": "03:43.000",
+      "text": "Bass：Dan Lutz",
+      "translation": null
+    },
+    {
+      "time": 226.0,
+      "time_str": "03:46.000",
+      "text": "执行制作：张简君伟",
+      "translation": null
+    },
+    {
+      "time": 229.0,
+      "time_str": "03:49.000",
+      "text": "混音录音师：Craig Burbidge",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "魔鬼中的天使 - 田馥甄.lrc"
+}

@@ -1,0 +1,202 @@
+{
+  "title": "我好像在哪见过你",
+  "title_raw": "我好像在哪见过你",
+  "version": null,
+  "artist": "薛之谦",
+  "group_key": "我好像在哪见过你|薛之谦",
+  "writers": {
+    "lyricist": "薛之谦",
+    "composer": "薛之谦",
+    "arranger": "周以力"
+  },
+  "lyrics": [
+    {
+      "time": 18.16,
+      "time_str": "00:18.160",
+      "text": "和你有关观后无感",
+      "translation": null
+    },
+    {
+      "time": 25.94,
+      "time_str": "00:25.940",
+      "text": "若是真的敢问作者何来罪恶",
+      "translation": null
+    },
+    {
+      "time": 33.52,
+      "time_str": "00:33.520",
+      "text": "劝人离散有多为难",
+      "translation": null
+    },
+    {
+      "time": 41.34,
+      "time_str": "00:41.340",
+      "text": "若美丽的故事来得太晚",
+      "translation": null
+    },
+    {
+      "time": 49.09,
+      "time_str": "00:49.090",
+      "text": "所以到哪里都像快乐被燃起",
+      "translation": null
+    },
+    {
+      "time": 56.58,
+      "time_str": "00:56.580",
+      "text": "就好像你曾在我隔壁的班级",
+      "translation": null
+    },
+    {
+      "time": 64.319,
+      "time_str": "01:04.319",
+      "text": "人们把难言的爱都埋入土壤里",
+      "translation": null
+    },
+    {
+      "time": 71.948,
+      "time_str": "01:11.948",
+      "text": "袖手旁观着别人尽力撇清自己",
+      "translation": null
+    },
+    {
+      "time": 81.03,
+      "time_str": "01:21.030",
+      "text": "我听见了你的声音",
+      "translation": null
+    },
+    {
+      "time": 88.958,
+      "time_str": "01:28.958",
+      "text": "也藏着颗不敢见的心",
+      "translation": null
+    },
+    {
+      "time": 96.759,
+      "time_str": "01:36.759",
+      "text": "我躲进挑剔的人群",
+      "translation": null
+    },
+    {
+      "time": 104.318,
+      "time_str": "01:44.318",
+      "text": "夜一深就找那颗星星",
+      "translation": null
+    },
+    {
+      "time": 141.479,
+      "time_str": "02:21.479",
+      "text": "我以为旅人将我热情都燃尽",
+      "translation": null
+    },
+    {
+      "time": 149.268,
+      "time_str": "02:29.268",
+      "text": "你却像一张情书感觉很初级",
+      "translation": null
+    },
+    {
+      "time": 156.928,
+      "time_str": "02:36.928",
+      "text": "人们把晚来的爱都锁在密码里",
+      "translation": null
+    },
+    {
+      "time": 164.66,
+      "time_str": "02:44.660",
+      "text": "字正腔圆的演说撇清所有关系",
+      "translation": null
+    },
+    {
+      "time": 175.349,
+      "time_str": "02:55.349",
+      "text": "我听见了你的声音",
+      "translation": null
+    },
+    {
+      "time": 183.498,
+      "time_str": "03:03.498",
+      "text": "也藏着颗不敢见的心",
+      "translation": null
+    },
+    {
+      "time": 191.298,
+      "time_str": "03:11.298",
+      "text": "我躲进挑剔的人群",
+      "translation": null
+    },
+    {
+      "time": 199.018,
+      "time_str": "03:19.018",
+      "text": "夜一深就找那颗星星",
+      "translation": null
+    },
+    {
+      "time": 206.909,
+      "time_str": "03:26.909",
+      "text": "你听不到我的声音",
+      "translation": null
+    },
+    {
+      "time": 214.678,
+      "time_str": "03:34.678",
+      "text": "怕脱口而出是你姓名",
+      "translation": null
+    },
+    {
+      "time": 222.479,
+      "time_str": "03:42.479",
+      "text": "像确定我要遇见你",
+      "translation": null
+    },
+    {
+      "time": 230.349,
+      "time_str": "03:50.349",
+      "text": "就像曾经交换过眼睛",
+      "translation": null
+    },
+    {
+      "time": 238.218,
+      "time_str": "03:58.218",
+      "text": "我好像在哪见过你",
+      "translation": null
+    },
+    {
+      "time": 245.737,
+      "time_str": "04:05.737",
+      "text": "我好像在哪见过你",
+      "translation": null
+    },
+    {
+      "time": 253.677,
+      "time_str": "04:13.677",
+      "text": "我好像在哪见过你",
+      "translation": null
+    },
+    {
+      "time": 261.288,
+      "time_str": "04:21.288",
+      "text": "我在劝我该忘了你",
+      "translation": null
+    },
+    {
+      "time": 277.001,
+      "time_str": "04:37.001",
+      "text": "大提琴 : 吴牧",
+      "translation": null
+    },
+    {
+      "time": 277.715,
+      "time_str": "04:37.715",
+      "text": "录音/混音 : 鲍锐",
+      "translation": null
+    },
+    {
+      "time": 278.429,
+      "time_str": "04:38.429",
+      "text": "录音助理 : 王晓海",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我好像在哪见过你 - 薛之谦.lrc"
+}

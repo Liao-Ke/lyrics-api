@@ -1,0 +1,316 @@
+{
+  "title": "I Just Wanna Run",
+  "title_raw": "I Just Wanna Run",
+  "version": null,
+  "artist": "The Downtown Fiction",
+  "group_key": "i just wanna run|the downtown fiction",
+  "writers": {
+    "lyricist": "Leahy, Cameron",
+    "composer": "Leahy, Cameron",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.59,
+      "time_str": "00:00.590",
+      "text": "I just wanna run hide it away",
+      "translation": "我只想逃之夭夭，销声匿迹"
+    },
+    {
+      "time": 3.94,
+      "time_str": "00:03.940",
+      "text": "Run because they're chasing me down",
+      "translation": "只因他们已将我逼上绝路"
+    },
+    {
+      "time": 7.64,
+      "time_str": "00:07.640",
+      "text": "I just wanna run throw it away",
+      "translation": "我想要高飞远走，心无旁骛"
+    },
+    {
+      "time": 11.53,
+      "time_str": "00:11.530",
+      "text": "Run before they’re finding me out",
+      "translation": "在他们找到我之前逃遁而去"
+    },
+    {
+      "time": 15.19,
+      "time_str": "00:15.190",
+      "text": "I just wanna run",
+      "translation": "超轶绝尘"
+    },
+    {
+      "time": 23.11,
+      "time_str": "00:23.110",
+      "text": "I just wanna run",
+      "translation": "逸尘断鞅"
+    },
+    {
+      "time": 24.49,
+      "time_str": "00:24.490",
+      "text": "I'm out here all alone",
+      "translation": "我孤立无援"
+    },
+    {
+      "time": 26.42,
+      "time_str": "00:26.420",
+      "text": "I try to call your house",
+      "translation": "我试着打电话向你家去"
+    },
+    {
+      "time": 28.26,
+      "time_str": "00:28.260",
+      "text": "Can't reach you on the phone",
+      "translation": "却被告知无法接通"
+    },
+    {
+      "time": 30.19,
+      "time_str": "00:30.190",
+      "text": "I'll gather up the nerve",
+      "translation": "我干脆一鼓作气"
+    },
+    {
+      "time": 31.95,
+      "time_str": "00:31.950",
+      "text": "I'm packing up my bag",
+      "translation": "背上行囊"
+    },
+    {
+      "time": 33.79,
+      "time_str": "00:33.790",
+      "text": "It's more than you deserve",
+      "translation": "而这一切都是你罪有应得"
+    },
+    {
+      "time": 35.56,
+      "time_str": "00:35.560",
+      "text": "Don't treat me like a drag",
+      "translation": "请不要再视我如草木之人"
+    },
+    {
+      "time": 37.51,
+      "time_str": "00:37.510",
+      "text": "I'm feelin' like I keep on talking",
+      "translation": "我感觉我滔滔不绝"
+    },
+    {
+      "time": 40.5,
+      "time_str": "00:40.500",
+      "text": "I'm repeating myself' my words lost all meaning",
+      "translation": "不断强调自己直到变成冗词赘句"
+    },
+    {
+      "time": 46.12,
+      "time_str": "00:46.120",
+      "text": "I keep talking I repeat myself",
+      "translation": "我就这样不停地自我暗示"
+    },
+    {
+      "time": 52.63,
+      "time_str": "00:52.630",
+      "text": "I just wanna run hide it away",
+      "translation": "我只希望逃之夭夭，销声匿迹"
+    },
+    {
+      "time": 56.39,
+      "time_str": "00:56.390",
+      "text": "Run because they're chasing me down",
+      "translation": "只因他们已将我逼上绝路"
+    },
+    {
+      "time": 60.16,
+      "time_str": "01:00.160",
+      "text": "I just wanna run throw it away",
+      "translation": "我只想要高飞远走，心无旁骛"
+    },
+    {
+      "time": 63.93,
+      "time_str": "01:03.930",
+      "text": "Run before they're finding me out",
+      "translation": "在他们找到我前逃遁而去"
+    },
+    {
+      "time": 67.67,
+      "time_str": "01:07.670",
+      "text": "I just wanna run （run run run）",
+      "translation": "我只想逃避（逃吧，逃吧，逃吧）"
+    },
+    {
+      "time": 71.74,
+      "time_str": "01:11.740",
+      "text": "I just wanna run",
+      "translation": "我只想逃跑"
+    },
+    {
+      "time": 73.03,
+      "time_str": "01:13.030",
+      "text": "（run run run）",
+      "translation": "（跑吧，跑吧，跑吧）"
+    },
+    {
+      "time": 75.52,
+      "time_str": "01:15.520",
+      "text": "Like a game of chess",
+      "translation": "如同晦暗不明的棋局"
+    },
+    {
+      "time": 76.97,
+      "time_str": "01:16.970",
+      "text": "I predict your move",
+      "translation": "我预测着你的一举一动"
+    },
+    {
+      "time": 78.86,
+      "time_str": "01:18.860",
+      "text": "I think I know you better",
+      "translation": "我想我对你已然是了如指掌"
+    },
+    {
+      "time": 80.9,
+      "time_str": "01:20.900",
+      "text": "Better than you do",
+      "translation": "甚至是冰寒于水"
+    },
+    {
+      "time": 82.61,
+      "time_str": "01:22.610",
+      "text": "I'm sick of feeling cheap",
+      "translation": "我早已厌倦了百无一用的无力感"
+    },
+    {
+      "time": 84.52,
+      "time_str": "01:24.520",
+      "text": "Cheated and abused",
+      "translation": "被欺骗着，被辱骂着"
+    },
+    {
+      "time": 86.5,
+      "time_str": "01:26.500",
+      "text": "Sick of losing sleep",
+      "translation": "厌倦了难以入眠的辗转反侧"
+    },
+    {
+      "time": 88.32,
+      "time_str": "01:28.320",
+      "text": "Thinking about you",
+      "translation": "回想起你"
+    },
+    {
+      "time": 90.73,
+      "time_str": "01:30.730",
+      "text": "I'm feelin' like I keep on talking",
+      "translation": "我感觉我滔滔不绝"
+    },
+    {
+      "time": 93.64,
+      "time_str": "01:33.640",
+      "text": "I'm repeating myself' my words lost all meaning",
+      "translation": "不断强调自己直到变成冗词赘句"
+    },
+    {
+      "time": 99.21,
+      "time_str": "01:39.210",
+      "text": "I keep talking I repeat myself",
+      "translation": "我就这样不停地自我暗示"
+    },
+    {
+      "time": 105.77,
+      "time_str": "01:45.770",
+      "text": "I just wanna run hide it away",
+      "translation": "我只希望逃之夭夭，销声匿迹"
+    },
+    {
+      "time": 109.52,
+      "time_str": "01:49.520",
+      "text": "Run because they're chasing me down",
+      "translation": "只因他们已将我逼上绝路"
+    },
+    {
+      "time": 113.22,
+      "time_str": "01:53.220",
+      "text": "I just wanna run throw it away",
+      "translation": "我只想要高飞远走，心无旁骛"
+    },
+    {
+      "time": 117.02,
+      "time_str": "01:57.020",
+      "text": "Run before they're finding me out",
+      "translation": "在他们找到我前逃遁而去"
+    },
+    {
+      "time": 120.77,
+      "time_str": "02:00.770",
+      "text": "I just wanna run （run run run）",
+      "translation": "我只想逃避（逃吧，逃吧，逃吧）"
+    },
+    {
+      "time": 124.51,
+      "time_str": "02:04.510",
+      "text": "I just wanna run （run run run）",
+      "translation": "我只想逃跑（跑吧，跑吧，跑吧）"
+    },
+    {
+      "time": 144.33,
+      "time_str": "02:24.330",
+      "text": "I just wanna run hide it away",
+      "translation": "我只希望逃之夭夭，销声匿迹"
+    },
+    {
+      "time": 148.02,
+      "time_str": "02:28.020",
+      "text": "Run because they're chasing me down",
+      "translation": "只因他们已将我逼上绝路"
+    },
+    {
+      "time": 151.72,
+      "time_str": "02:31.720",
+      "text": "I just wanna run' throw it away",
+      "translation": "我只想要高飞远走，心无旁骛"
+    },
+    {
+      "time": 155.46,
+      "time_str": "02:35.460",
+      "text": "Run before they're finding me out",
+      "translation": "在他们找到我前逃遁而去"
+    },
+    {
+      "time": 168.83,
+      "time_str": "02:48.830",
+      "text": "I just wanna run' hide it away",
+      "translation": "我只希望逃之夭夭，销声匿迹"
+    },
+    {
+      "time": 172.26,
+      "time_str": "02:52.260",
+      "text": "Run because they're chasing me down",
+      "translation": "只因他们已将我逼上绝路"
+    },
+    {
+      "time": 176.03,
+      "time_str": "02:56.030",
+      "text": "I just wanna run' throw it away",
+      "translation": "我只想要高飞远走，心无旁骛"
+    },
+    {
+      "time": 179.78,
+      "time_str": "02:59.780",
+      "text": "Run before they're finding me out",
+      "translation": "在他们找到我前逃遁而去"
+    },
+    {
+      "time": 183.55,
+      "time_str": "03:03.550",
+      "text": "I just wanna run （run' run' run）",
+      "translation": "超轶绝尘（逃吧，逃吧，逃吧）"
+    },
+    {
+      "time": 191.07,
+      "time_str": "03:11.070",
+      "text": "I just wanna run （run' run' run）",
+      "translation": "逸尘断鞅（跑吧，跑吧，跑吧）"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "I Just Wanna Run - The Downtown Fiction.lrc"
+}

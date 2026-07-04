@@ -1,0 +1,274 @@
+{
+  "title": "孟婆汤",
+  "title_raw": "孟婆汤",
+  "version": null,
+  "artist": "游鸿明",
+  "group_key": "孟婆汤|游鸿明",
+  "writers": {
+    "lyricist": "林利南",
+    "composer": "游鸿明",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 35.52,
+      "time_str": "00:35.520",
+      "text": "如果真的有一种水",
+      "translation": null
+    },
+    {
+      "time": 37.54,
+      "time_str": "00:37.540",
+      "text": "可以让你让我喝了不会醉",
+      "translation": null
+    },
+    {
+      "time": 43.35,
+      "time_str": "00:43.350",
+      "text": "那么也许有一种泪",
+      "translation": null
+    },
+    {
+      "time": 45.19,
+      "time_str": "00:45.190",
+      "text": "可以让你让我流了不伤悲",
+      "translation": null
+    },
+    {
+      "time": 50.04,
+      "time_str": "00:50.040",
+      "text": "总是把爱看得太完美",
+      "translation": null
+    },
+    {
+      "time": 53.91,
+      "time_str": "00:53.910",
+      "text": "那种豪赌一场的感觉",
+      "translation": null
+    },
+    {
+      "time": 57.72,
+      "time_str": "00:57.720",
+      "text": "今生输了前世的诺言",
+      "translation": null
+    },
+    {
+      "time": 61.61,
+      "time_str": "01:01.610",
+      "text": "才发现水已悄悄泛成了泪",
+      "translation": null
+    },
+    {
+      "time": 65.9,
+      "time_str": "01:05.900",
+      "text": "虽然看不到听不到",
+      "translation": null
+    },
+    {
+      "time": 69.68,
+      "time_str": "01:09.680",
+      "text": "可是逃不掉忘不了",
+      "translation": null
+    },
+    {
+      "time": 73.58,
+      "time_str": "01:13.580",
+      "text": "就连枕边的你的发梢",
+      "translation": null
+    },
+    {
+      "time": 76.96,
+      "time_str": "01:16.960",
+      "text": "都变成了煎熬",
+      "translation": null
+    },
+    {
+      "time": 81.25,
+      "time_str": "01:21.250",
+      "text": "虽然你知道我知道",
+      "translation": null
+    },
+    {
+      "time": 85.09,
+      "time_str": "01:25.090",
+      "text": "可是泪在飘心在掏",
+      "translation": null
+    },
+    {
+      "time": 88.99,
+      "time_str": "01:28.990",
+      "text": "过了这一秒这一个笑",
+      "translation": null
+    },
+    {
+      "time": 92.32,
+      "time_str": "01:32.320",
+      "text": "喝下这碗解药",
+      "translation": null
+    },
+    {
+      "time": 96.25,
+      "time_str": "01:36.250",
+      "text": "忘了所有的好所有的寂寥",
+      "translation": null
+    },
+    {
+      "time": 131.68,
+      "time_str": "02:11.680",
+      "text": "如果真的有一种水",
+      "translation": null
+    },
+    {
+      "time": 133.58,
+      "time_str": "02:13.580",
+      "text": "可以让你让我喝了不会醉",
+      "translation": null
+    },
+    {
+      "time": 139.4,
+      "time_str": "02:19.400",
+      "text": "那么也许有一种泪",
+      "translation": null
+    },
+    {
+      "time": 141.22,
+      "time_str": "02:21.220",
+      "text": "可以让你让我流了不伤悲",
+      "translation": null
+    },
+    {
+      "time": 146.18,
+      "time_str": "02:26.180",
+      "text": "总是把爱看得太完美",
+      "translation": null
+    },
+    {
+      "time": 149.97,
+      "time_str": "02:29.970",
+      "text": "那种豪赌一场的感觉",
+      "translation": null
+    },
+    {
+      "time": 153.78,
+      "time_str": "02:33.780",
+      "text": "今生输了前世的诺言",
+      "translation": null
+    },
+    {
+      "time": 157.6,
+      "time_str": "02:37.600",
+      "text": "才发现水已悄悄泛成了泪",
+      "translation": null
+    },
+    {
+      "time": 162.0,
+      "time_str": "02:42.000",
+      "text": "虽然看不到听不到",
+      "translation": null
+    },
+    {
+      "time": 165.87,
+      "time_str": "02:45.870",
+      "text": "可是逃不掉忘不了",
+      "translation": null
+    },
+    {
+      "time": 169.63,
+      "time_str": "02:49.630",
+      "text": "就连枕边的你的发梢",
+      "translation": null
+    },
+    {
+      "time": 172.99,
+      "time_str": "02:52.990",
+      "text": "都变成了煎熬",
+      "translation": null
+    },
+    {
+      "time": 177.32,
+      "time_str": "02:57.320",
+      "text": "虽然你知道我知道",
+      "translation": null
+    },
+    {
+      "time": 181.15,
+      "time_str": "03:01.150",
+      "text": "可是泪在飘心在掏",
+      "translation": null
+    },
+    {
+      "time": 185.08,
+      "time_str": "03:05.080",
+      "text": "过了这一秒这一个笑",
+      "translation": null
+    },
+    {
+      "time": 188.43,
+      "time_str": "03:08.430",
+      "text": "喝下这碗解药",
+      "translation": null
+    },
+    {
+      "time": 192.3,
+      "time_str": "03:12.300",
+      "text": "忘了所有的好",
+      "translation": null
+    },
+    {
+      "time": 196.53,
+      "time_str": "03:16.530",
+      "text": "虽然看不到听不到",
+      "translation": null
+    },
+    {
+      "time": 200.37,
+      "time_str": "03:20.370",
+      "text": "可是逃不掉忘不了",
+      "translation": null
+    },
+    {
+      "time": 204.18,
+      "time_str": "03:24.180",
+      "text": "就连枕边的你的发梢",
+      "translation": null
+    },
+    {
+      "time": 207.48,
+      "time_str": "03:27.480",
+      "text": "都变成了煎熬",
+      "translation": null
+    },
+    {
+      "time": 211.7,
+      "time_str": "03:31.700",
+      "text": "虽然你知道我知道",
+      "translation": null
+    },
+    {
+      "time": 215.57,
+      "time_str": "03:35.570",
+      "text": "可是泪在飘心在掏",
+      "translation": null
+    },
+    {
+      "time": 219.55,
+      "time_str": "03:39.550",
+      "text": "过了这一秒这一个笑",
+      "translation": null
+    },
+    {
+      "time": 222.94,
+      "time_str": "03:42.940",
+      "text": "喝下这碗解药",
+      "translation": null
+    },
+    {
+      "time": 226.98,
+      "time_str": "03:46.980",
+      "text": "忘了所有的好所有的寂寥",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "孟婆汤 - 游鸿明.lrc"
+}

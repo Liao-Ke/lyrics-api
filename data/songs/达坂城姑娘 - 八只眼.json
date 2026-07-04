@@ -1,0 +1,244 @@
+{
+  "title": "达坂城姑娘",
+  "title_raw": "达坂城姑娘",
+  "version": null,
+  "artist": "八只眼",
+  "group_key": "达坂城姑娘|八只眼",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.61,
+      "time_str": "00:00.610",
+      "text": "达坂城的石路硬又平啦",
+      "translation": null
+    },
+    {
+      "time": 11.52,
+      "time_str": "00:11.520",
+      "text": "西瓜大又甜啦",
+      "translation": null
+    },
+    {
+      "time": 14.45,
+      "time_str": "00:14.450",
+      "text": "那里有个姑娘叫嘎吧尔卡",
+      "translation": null
+    },
+    {
+      "time": 17.6,
+      "time_str": "00:17.600",
+      "text": "两只眼睛真漂亮",
+      "translation": null
+    },
+    {
+      "time": 20.84,
+      "time_str": "00:20.840",
+      "text": "你要想嫁人",
+      "translation": null
+    },
+    {
+      "time": 22.34,
+      "time_str": "00:22.340",
+      "text": "不要嫁给别人一定要嫁给我",
+      "translation": null
+    },
+    {
+      "time": 27.21,
+      "time_str": "00:27.210",
+      "text": "带着你的带着你的带着你的妹妹",
+      "translation": null
+    },
+    {
+      "time": 30.23,
+      "time_str": "00:30.230",
+      "text": "带着你的嫁妆",
+      "translation": null
+    },
+    {
+      "time": 31.85,
+      "time_str": "00:31.850",
+      "text": "赶着那马车来",
+      "translation": null
+    },
+    {
+      "time": 35.15,
+      "time_str": "00:35.150",
+      "text": "你要想嫁人",
+      "translation": null
+    },
+    {
+      "time": 36.59,
+      "time_str": "00:36.590",
+      "text": "不要嫁给别人",
+      "translation": null
+    },
+    {
+      "time": 38.15,
+      "time_str": "00:38.150",
+      "text": "你一定要嫁给我(你一定要嫁给我)",
+      "translation": null
+    },
+    {
+      "time": 41.27,
+      "time_str": "00:41.270",
+      "text": "带着你的带着你的带着你的妹妹",
+      "translation": null
+    },
+    {
+      "time": 44.46,
+      "time_str": "00:44.460",
+      "text": "带着你的嫁妆",
+      "translation": null
+    },
+    {
+      "time": 46.09,
+      "time_str": "00:46.090",
+      "text": "赶着那马车来",
+      "translation": null
+    },
+    {
+      "time": 52.64,
+      "time_str": "00:52.640",
+      "text": "达坂城的石路硬又平啦",
+      "translation": null
+    },
+    {
+      "time": 55.58,
+      "time_str": "00:55.580",
+      "text": "西瓜大又甜啦",
+      "translation": null
+    },
+    {
+      "time": 58.7,
+      "time_str": "00:58.700",
+      "text": "那里有个姑娘叫嘎吧尔卡",
+      "translation": null
+    },
+    {
+      "time": 62.05,
+      "time_str": "01:02.050",
+      "text": "两只眼睛真漂亮(两只眼睛真漂亮)",
+      "translation": null
+    },
+    {
+      "time": 68.32,
+      "time_str": "01:08.320",
+      "text": "你要想嫁人",
+      "translation": null
+    },
+    {
+      "time": 69.76,
+      "time_str": "01:09.760",
+      "text": "不要嫁给别人",
+      "translation": null
+    },
+    {
+      "time": 71.26,
+      "time_str": "01:11.260",
+      "text": "你一定要嫁给我(一定要嫁给我)",
+      "translation": null
+    },
+    {
+      "time": 74.57,
+      "time_str": "01:14.570",
+      "text": "带着你的妹妹(你的妹妹)",
+      "translation": null
+    },
+    {
+      "time": 76.16,
+      "time_str": "01:16.160",
+      "text": "带着你的嫁妆(你的嫁妆)",
+      "translation": null
+    },
+    {
+      "time": 77.6,
+      "time_str": "01:17.600",
+      "text": "赶着那马车来(赶着马车来)",
+      "translation": null
+    },
+    {
+      "time": 81.16,
+      "time_str": "01:21.160",
+      "text": "你要想嫁人",
+      "translation": null
+    },
+    {
+      "time": 82.41,
+      "time_str": "01:22.410",
+      "text": "不要嫁给别人",
+      "translation": null
+    },
+    {
+      "time": 83.91,
+      "time_str": "01:23.910",
+      "text": "你一定要嫁给我(一定要嫁给我)",
+      "translation": null
+    },
+    {
+      "time": 87.1,
+      "time_str": "01:27.100",
+      "text": "带着你的妹妹(你的妹妹)",
+      "translation": null
+    },
+    {
+      "time": 88.85,
+      "time_str": "01:28.850",
+      "text": "带着你的嫁妆(你的嫁妆)",
+      "translation": null
+    },
+    {
+      "time": 90.6,
+      "time_str": "01:30.600",
+      "text": "赶着那马车来(赶着马车来)",
+      "translation": null
+    },
+    {
+      "time": 93.72,
+      "time_str": "01:33.720",
+      "text": "你要想嫁人",
+      "translation": null
+    },
+    {
+      "time": 94.97,
+      "time_str": "01:34.970",
+      "text": "不要嫁给别人",
+      "translation": null
+    },
+    {
+      "time": 96.54,
+      "time_str": "01:36.540",
+      "text": "你一定要嫁给我",
+      "translation": null
+    },
+    {
+      "time": 99.66,
+      "time_str": "01:39.660",
+      "text": "带着你的妹妹",
+      "translation": null
+    },
+    {
+      "time": 101.22,
+      "time_str": "01:41.220",
+      "text": "带着你的嫁妆",
+      "translation": null
+    },
+    {
+      "time": 104.47,
+      "time_str": "01:44.470",
+      "text": "赶着那马车来",
+      "translation": null
+    },
+    {
+      "time": 108.96,
+      "time_str": "01:48.960",
+      "text": "赶着那马车来",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "达坂城姑娘 - 八只眼.lrc"
+}

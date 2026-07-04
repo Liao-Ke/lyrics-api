@@ -1,0 +1,406 @@
+{
+  "title": "Monsters",
+  "title_raw": "Monsters",
+  "version": null,
+  "artist": "Katie Sky",
+  "group_key": "monsters|katie sky",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "I see your monsters, I see your pain.",
+      "translation": "我看到你心里的野兽 看到你的痛苦"
+    },
+    {
+      "time": 5.14,
+      "time_str": "00:05.140",
+      "text": "Tell me your problems,I'll chase them away.",
+      "translation": "告诉我你的麻烦 我会把它们赶走"
+    },
+    {
+      "time": 10.96,
+      "time_str": "00:10.960",
+      "text": "I'll be your lighthouse.",
+      "translation": "我会是你的灯塔"
+    },
+    {
+      "time": 13.82,
+      "time_str": "00:13.820",
+      "text": "I'll make it okay.",
+      "translation": "我会保护你"
+    },
+    {
+      "time": 16.24,
+      "time_str": "00:16.240",
+      "text": "When I see your monsters",
+      "translation": "当我看到你内心的野兽"
+    },
+    {
+      "time": 18.96,
+      "time_str": "00:18.960",
+      "text": "I'll stand there so brave,",
+      "translation": "我会勇敢地站出来"
+    },
+    {
+      "time": 21.11,
+      "time_str": "00:21.110",
+      "text": "and chase them all away.",
+      "translation": "把它们全部赶走"
+    },
+    {
+      "time": 26.89,
+      "time_str": "00:26.890",
+      "text": "In the dark we, we, we,",
+      "translation": "在黑暗里我们....."
+    },
+    {
+      "time": 29.95,
+      "time_str": "00:29.950",
+      "text": "stand apart we, we,",
+      "translation": "分开站着.....我们"
+    },
+    {
+      "time": 32.61,
+      "time_str": "00:32.610",
+      "text": "never see that the things we need are staring right at us.",
+      "translation": "永远看不到需要的东西都在盯着我们"
+    },
+    {
+      "time": 38.23,
+      "time_str": "00:38.230",
+      "text": "You just wanna hide, hide,hide",
+      "translation": "你只是想逃避，逃避，逃避"
+    },
+    {
+      "time": 40.78,
+      "time_str": "00:40.780",
+      "text": "never show your smile, smile.",
+      "translation": "从不展现你的友好，友好"
+    },
+    {
+      "time": 43.6,
+      "time_str": "00:43.600",
+      "text": "Stand alone when you need someone",
+      "translation": "当你需要陪伴时我旁观"
+    },
+    {
+      "time": 46.41,
+      "time_str": "00:46.410",
+      "text": "its the hardest thing of all",
+      "translation": "是最困难的事情"
+    },
+    {
+      "time": 48.32,
+      "time_str": "00:48.320",
+      "text": "that you see are the bad, bad, bad memories",
+      "translation": "因为你所想都是坏的回忆"
+    },
+    {
+      "time": 53.58,
+      "time_str": "00:53.580",
+      "text": "take your time, you'll find me.",
+      "translation": "别着急，你会找到我的"
+    },
+    {
+      "time": 57.09,
+      "time_str": "00:57.090",
+      "text": "I see your monsters,",
+      "translation": "我看到你的野兽"
+    },
+    {
+      "time": 60.01,
+      "time_str": "01:00.010",
+      "text": "I see your pain.",
+      "translation": "你的痛苦"
+    },
+    {
+      "time": 62.67,
+      "time_str": "01:02.670",
+      "text": "Tell me your problems,",
+      "translation": "向我倾诉你的麻烦"
+    },
+    {
+      "time": 65.38,
+      "time_str": "01:05.380",
+      "text": "I'll chase them away.",
+      "translation": "我会把它们赶走"
+    },
+    {
+      "time": 67.91,
+      "time_str": "01:07.910",
+      "text": "I'll be your lighthouse.",
+      "translation": "我会是你的灯塔"
+    },
+    {
+      "time": 70.71,
+      "time_str": "01:10.710",
+      "text": "I'll make it okay.",
+      "translation": "我会保护你"
+    },
+    {
+      "time": 73.32,
+      "time_str": "01:13.320",
+      "text": "When I see your monsters",
+      "translation": "当我看到你内心的野兽"
+    },
+    {
+      "time": 76.09,
+      "time_str": "01:16.090",
+      "text": "I'll stand there so brave,",
+      "translation": "我会勇敢地站出来"
+    },
+    {
+      "time": 78.24,
+      "time_str": "01:18.240",
+      "text": "and chase them all away.",
+      "translation": "赶跑它们"
+    },
+    {
+      "time": 82.06,
+      "time_str": "01:22.060",
+      "text": "I can see the sky, sky, sky,",
+      "translation": "我看到天空，天空，天空"
+    },
+    {
+      "time": 84.42,
+      "time_str": "01:24.420",
+      "text": "beautiful tonight, night",
+      "translation": "美好的夜晚"
+    },
+    {
+      "time": 87.21,
+      "time_str": "01:27.210",
+      "text": "when you breathe why can't you see",
+      "translation": "当你呼吸时为何没看到"
+    },
+    {
+      "time": 89.87,
+      "time_str": "01:29.870",
+      "text": "the clouds are in your head",
+      "translation": "你头顶的乌云"
+    },
+    {
+      "time": 92.95,
+      "time_str": "01:32.950",
+      "text": "I will stay there there, there",
+      "translation": "我会留在那儿，那儿，那儿"
+    },
+    {
+      "time": 95.31,
+      "time_str": "01:35.310",
+      "text": "no need to fear, fear,",
+      "translation": "不要害怕，怕"
+    },
+    {
+      "time": 97.91,
+      "time_str": "01:37.910",
+      "text": "when you need to talk it out with someone you can trust.",
+      "translation": "当你需要倾诉时可以向你所信任的挚友倾诉"
+    },
+    {
+      "time": 102.62,
+      "time_str": "01:42.620",
+      "text": "What you see are the bad, bad, bad memories",
+      "translation": "你所想都是坏的回忆"
+    },
+    {
+      "time": 108.61,
+      "time_str": "01:48.610",
+      "text": "take your time you'll find me.",
+      "translation": "别着急，你会找到我的"
+    },
+    {
+      "time": 111.81,
+      "time_str": "01:51.810",
+      "text": "I see your monsters,",
+      "translation": "我看到你的野兽"
+    },
+    {
+      "time": 114.53,
+      "time_str": "01:54.530",
+      "text": "I see your pain.",
+      "translation": "你的痛苦"
+    },
+    {
+      "time": 117.23,
+      "time_str": "01:57.230",
+      "text": "Tell me your problems,",
+      "translation": "向我倾诉你的麻烦"
+    },
+    {
+      "time": 119.93,
+      "time_str": "01:59.930",
+      "text": "I'll chase them away.",
+      "translation": "我会把它们赶跑"
+    },
+    {
+      "time": 122.64,
+      "time_str": "02:02.640",
+      "text": "I'll be your lighthouse.",
+      "translation": "我会是你的灯塔"
+    },
+    {
+      "time": 125.38,
+      "time_str": "02:05.380",
+      "text": "I'll make it okay.",
+      "translation": "我会保护你"
+    },
+    {
+      "time": 127.69,
+      "time_str": "02:07.690",
+      "text": "When I see your monsters",
+      "translation": "当我看到你内心的野兽"
+    },
+    {
+      "time": 130.3,
+      "time_str": "02:10.300",
+      "text": "I'll stand there so brave,",
+      "translation": "我会勇敢地站出来"
+    },
+    {
+      "time": 132.41,
+      "time_str": "02:12.410",
+      "text": "and chase them all away.",
+      "translation": "把它们全部赶走"
+    },
+    {
+      "time": 138.03,
+      "time_str": "02:18.030",
+      "text": "I'll chase them all away",
+      "translation": "我会把它们全部赶走"
+    },
+    {
+      "time": 146.31,
+      "time_str": "02:26.310",
+      "text": "You've got the chance to see the light,",
+      "translation": "你已经有机会看到灯光"
+    },
+    {
+      "time": 152.54,
+      "time_str": "02:32.540",
+      "text": "even in the darkest night",
+      "translation": "即使在最黑暗的夜里"
+    },
+    {
+      "time": 157.84,
+      "time_str": "02:37.840",
+      "text": "And I will be here like you were for me,",
+      "translation": "我会像你一样为我"
+    },
+    {
+      "time": 164.41,
+      "time_str": "02:44.410",
+      "text": "so just let me in.",
+      "translation": "所以就让我加入吧"
+    },
+    {
+      "time": 168.53,
+      "time_str": "02:48.530",
+      "text": "Cause... I see your monsters,",
+      "translation": "因为...我看到你的野兽"
+    },
+    {
+      "time": 171.44,
+      "time_str": "02:51.440",
+      "text": "I see your pain.",
+      "translation": "你的痛苦"
+    },
+    {
+      "time": 174.19,
+      "time_str": "02:54.190",
+      "text": "Tell me your problems,",
+      "translation": "向我倾诉你的麻烦"
+    },
+    {
+      "time": 176.9,
+      "time_str": "02:56.900",
+      "text": "I'll chase them away.",
+      "translation": "我会把它们赶走"
+    },
+    {
+      "time": 179.62,
+      "time_str": "02:59.620",
+      "text": "I'll be your lighthouse.",
+      "translation": "我会是你的灯塔"
+    },
+    {
+      "time": 182.22,
+      "time_str": "03:02.220",
+      "text": "I'll make it okay.",
+      "translation": "我会保护你"
+    },
+    {
+      "time": 184.82,
+      "time_str": "03:04.820",
+      "text": "When I see your monsters",
+      "translation": "当我看到你内心的野兽"
+    },
+    {
+      "time": 187.33,
+      "time_str": "03:07.330",
+      "text": "I'll stand there so brave,",
+      "translation": "我会勇敢地站出来"
+    },
+    {
+      "time": 191.62,
+      "time_str": "03:11.620",
+      "text": "I see your monsters,",
+      "translation": "我看到你的野兽"
+    },
+    {
+      "time": 193.75,
+      "time_str": "03:13.750",
+      "text": "I see your pain.",
+      "translation": "你的痛苦"
+    },
+    {
+      "time": 195.81,
+      "time_str": "03:15.810",
+      "text": "Tell me your problems,",
+      "translation": "向我倾诉你的麻烦"
+    },
+    {
+      "time": 198.58,
+      "time_str": "03:18.580",
+      "text": "I'll chase them away.",
+      "translation": "我会把他们赶走"
+    },
+    {
+      "time": 201.03,
+      "time_str": "03:21.030",
+      "text": "I'll be your lighthouse.",
+      "translation": "我会是你的灯塔"
+    },
+    {
+      "time": 203.8,
+      "time_str": "03:23.800",
+      "text": "I'll make it okay.",
+      "translation": "我会保护你"
+    },
+    {
+      "time": 206.5,
+      "time_str": "03:26.500",
+      "text": "When I see your monsters",
+      "translation": "当我看到你内心的野兽"
+    },
+    {
+      "time": 209.01,
+      "time_str": "03:29.010",
+      "text": "I'll stand there so brave,",
+      "translation": "我会勇敢地站出来"
+    },
+    {
+      "time": 211.22,
+      "time_str": "03:31.220",
+      "text": "and chase them all away.",
+      "translation": "把它们全部赶走"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Monsters - Katie Sky.lrc"
+}

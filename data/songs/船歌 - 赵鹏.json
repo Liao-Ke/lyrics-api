@@ -1,0 +1,178 @@
+{
+  "title": "船歌",
+  "title_raw": "船歌",
+  "version": null,
+  "artist": "赵鹏",
+  "group_key": "船歌|赵鹏",
+  "writers": {
+    "lyricist": "罗大佑",
+    "composer": "罗大佑",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 38.899,
+      "time_str": "00:38.899",
+      "text": "姐儿头上戴着杜鹃花 呀",
+      "translation": null
+    },
+    {
+      "time": 43.896,
+      "time_str": "00:43.896",
+      "text": "迎着风儿随浪逐彩霞",
+      "translation": null
+    },
+    {
+      "time": 50.796,
+      "time_str": "00:50.796",
+      "text": "船儿摇过春水不说话 呀",
+      "translation": null
+    },
+    {
+      "time": 56.396,
+      "time_str": "00:56.396",
+      "text": "水乡温柔何处是我的家",
+      "translation": null
+    },
+    {
+      "time": 62.396,
+      "time_str": "01:02.396",
+      "text": "船儿摇过春水不说话 呀",
+      "translation": null
+    },
+    {
+      "time": 68.397,
+      "time_str": "01:08.397",
+      "text": "随着歌儿划向梦里的他",
+      "translation": null
+    },
+    {
+      "time": 74.397,
+      "time_str": "01:14.397",
+      "text": "嘴儿轻轻唱呀不说话 呀",
+      "translation": null
+    },
+    {
+      "time": 80.897,
+      "time_str": "01:20.897",
+      "text": "水乡温柔向那梦里的画",
+      "translation": null
+    },
+    {
+      "time": 100.297,
+      "time_str": "01:40.297",
+      "text": "嘴儿轻轻唱呀不说话 呀",
+      "translation": null
+    },
+    {
+      "time": 105.897,
+      "time_str": "01:45.897",
+      "text": "年华飘过歌声似水流",
+      "translation": null
+    },
+    {
+      "time": 111.897,
+      "time_str": "01:51.897",
+      "text": "船儿摇过春水不停留 呀",
+      "translation": null
+    },
+    {
+      "time": 117.897,
+      "time_str": "01:57.897",
+      "text": "摇到风儿吹破天凉的秋",
+      "translation": null
+    },
+    {
+      "time": 123.897,
+      "time_str": "02:03.897",
+      "text": "船儿摇过春水不停留 呀",
+      "translation": null
+    },
+    {
+      "time": 128.897,
+      "time_str": "02:08.897",
+      "text": "鱼儿双双结伴水底游",
+      "translation": null
+    },
+    {
+      "time": 134.899,
+      "time_str": "02:14.899",
+      "text": "谁的船歌唱的声悠悠",
+      "translation": null
+    },
+    {
+      "time": 142.099,
+      "time_str": "02:22.099",
+      "text": "水乡温柔来到天凉的秋",
+      "translation": null
+    },
+    {
+      "time": 153.899,
+      "time_str": "02:33.899",
+      "text": "music（和声）",
+      "translation": null
+    },
+    {
+      "time": 175.799,
+      "time_str": "02:55.799",
+      "text": "谁的船歌唱的声悠悠",
+      "translation": null
+    },
+    {
+      "time": 182.799,
+      "time_str": "03:02.799",
+      "text": "谁家姑娘水乡泛扁舟",
+      "translation": null
+    },
+    {
+      "time": 187.799,
+      "time_str": "03:07.799",
+      "text": "谁的梦中 他呀不说话 呀",
+      "translation": null
+    },
+    {
+      "time": 193.799,
+      "time_str": "03:13.799",
+      "text": "谁的他呀 何处是我家",
+      "translation": null
+    },
+    {
+      "time": 198.799,
+      "time_str": "03:18.799",
+      "text": "姐儿头上戴着杜鹃花 呀",
+      "translation": null
+    },
+    {
+      "time": 204.799,
+      "time_str": "03:24.799",
+      "text": "迎着风儿随浪逐彩霞",
+      "translation": null
+    },
+    {
+      "time": 210.799,
+      "time_str": "03:30.799",
+      "text": "船儿摇过春水不说话 呀",
+      "translation": null
+    },
+    {
+      "time": 216.799,
+      "time_str": "03:36.799",
+      "text": "水乡温柔何处是我的家",
+      "translation": null
+    },
+    {
+      "time": 221.799,
+      "time_str": "03:41.799",
+      "text": "船儿摇过春水不说话 呀",
+      "translation": null
+    },
+    {
+      "time": 228.799,
+      "time_str": "03:48.799",
+      "text": "水乡温柔何处是我家",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "船歌 - 赵鹏.lrc"
+}

@@ -1,0 +1,286 @@
+{
+  "title": "依恋",
+  "title_raw": "依恋",
+  "version": null,
+  "artist": "蔡淳佳",
+  "group_key": "依恋|蔡淳佳",
+  "writers": {
+    "lyricist": "张乐声",
+    "composer": "J.F Porry & G. Salesses",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.618,
+      "time_str": "00:09.618",
+      "text": "依恋 坐在我旁边",
+      "translation": null
+    },
+    {
+      "time": 14.892,
+      "time_str": "00:14.892",
+      "text": "厚厚的想念",
+      "translation": null
+    },
+    {
+      "time": 18.125,
+      "time_str": "00:18.125",
+      "text": "随月光蔓延",
+      "translation": null
+    },
+    {
+      "time": 22.605,
+      "time_str": "00:22.605",
+      "text": "依恋 跟在你身边",
+      "translation": null
+    },
+    {
+      "time": 27.833,
+      "time_str": "00:27.833",
+      "text": "看你的笑脸",
+      "translation": null
+    },
+    {
+      "time": 31.119,
+      "time_str": "00:31.119",
+      "text": "吻你的唇边",
+      "translation": null
+    },
+    {
+      "time": 35.131,
+      "time_str": "00:35.131",
+      "text": "如果爱是座秋千",
+      "translation": null
+    },
+    {
+      "time": 41.607,
+      "time_str": "00:41.607",
+      "text": "你就是我的原点",
+      "translation": null
+    },
+    {
+      "time": 48.561,
+      "time_str": "00:48.561",
+      "text": "依恋 是一叠昨天",
+      "translation": null
+    },
+    {
+      "time": 53.795,
+      "time_str": "00:53.795",
+      "text": "你给的抱歉",
+      "translation": null
+    },
+    {
+      "time": 57.035,
+      "time_str": "00:57.035",
+      "text": "多想没听见",
+      "translation": null
+    },
+    {
+      "time": 61.499,
+      "time_str": "01:01.499",
+      "text": "依恋 是一条天线",
+      "translation": null
+    },
+    {
+      "time": 66.754,
+      "time_str": "01:06.754",
+      "text": "只收到从前",
+      "translation": null
+    },
+    {
+      "time": 70.004,
+      "time_str": "01:10.004",
+      "text": "回忆的画面",
+      "translation": null
+    },
+    {
+      "time": 74.046,
+      "time_str": "01:14.046",
+      "text": "没有你该怎么演",
+      "translation": null
+    },
+    {
+      "time": 80.563,
+      "time_str": "01:20.563",
+      "text": "那些你说的永远",
+      "translation": null
+    },
+    {
+      "time": 87.459,
+      "time_str": "01:27.459",
+      "text": "依恋 就让它依恋",
+      "translation": null
+    },
+    {
+      "time": 92.715,
+      "time_str": "01:32.715",
+      "text": "毕竟拥有过",
+      "translation": null
+    },
+    {
+      "time": 95.923,
+      "time_str": "01:35.923",
+      "text": "你一段时间",
+      "translation": null
+    },
+    {
+      "time": 100.426,
+      "time_str": "01:40.426",
+      "text": "或许 分开是一种",
+      "translation": null
+    },
+    {
+      "time": 105.674,
+      "time_str": "01:45.674",
+      "text": "所谓的成全",
+      "translation": null
+    },
+    {
+      "time": 108.932,
+      "time_str": "01:48.932",
+      "text": "爱我会放在心里面",
+      "translation": null
+    },
+    {
+      "time": 112.146,
+      "time_str": "01:52.146",
+      "text": "有些事不会有期限",
+      "translation": null
+    },
+    {
+      "time": 116.628,
+      "time_str": "01:56.628",
+      "text": "依恋 是一条天线",
+      "translation": null
+    },
+    {
+      "time": 121.894,
+      "time_str": "02:01.894",
+      "text": "只收到从前",
+      "translation": null
+    },
+    {
+      "time": 125.135,
+      "time_str": "02:05.135",
+      "text": "回忆的画面",
+      "translation": null
+    },
+    {
+      "time": 129.174,
+      "time_str": "02:09.174",
+      "text": "没有你该怎么演",
+      "translation": null
+    },
+    {
+      "time": 135.613,
+      "time_str": "02:15.613",
+      "text": "那些你说的永远",
+      "translation": null
+    },
+    {
+      "time": 142.568,
+      "time_str": "02:22.568",
+      "text": "依恋 就让它依恋",
+      "translation": null
+    },
+    {
+      "time": 147.805,
+      "time_str": "02:27.805",
+      "text": "毕竟拥有过",
+      "translation": null
+    },
+    {
+      "time": 151.06,
+      "time_str": "02:31.060",
+      "text": "你一段时间",
+      "translation": null
+    },
+    {
+      "time": 155.536,
+      "time_str": "02:35.536",
+      "text": "或许 分开是一种",
+      "translation": null
+    },
+    {
+      "time": 160.777,
+      "time_str": "02:40.777",
+      "text": "所谓的成全",
+      "translation": null
+    },
+    {
+      "time": 164.05,
+      "time_str": "02:44.050",
+      "text": "爱我会放在心里面",
+      "translation": null
+    },
+    {
+      "time": 167.28,
+      "time_str": "02:47.280",
+      "text": "有些事不会有期限",
+      "translation": null
+    },
+    {
+      "time": 171.723,
+      "time_str": "02:51.723",
+      "text": "依恋 坐在我旁边",
+      "translation": null
+    },
+    {
+      "time": 177.008,
+      "time_str": "02:57.008",
+      "text": "厚厚的想念",
+      "translation": null
+    },
+    {
+      "time": 180.256,
+      "time_str": "03:00.256",
+      "text": "随月光蔓延",
+      "translation": null
+    },
+    {
+      "time": 184.74,
+      "time_str": "03:04.740",
+      "text": "依恋 跟在你身边",
+      "translation": null
+    },
+    {
+      "time": 189.997,
+      "time_str": "03:09.997",
+      "text": "看你的笑脸",
+      "translation": null
+    },
+    {
+      "time": 193.238,
+      "time_str": "03:13.238",
+      "text": "吻你的唇边",
+      "translation": null
+    },
+    {
+      "time": 197.28,
+      "time_str": "03:17.280",
+      "text": "如果爱是座秋千",
+      "translation": null
+    },
+    {
+      "time": 203.806,
+      "time_str": "03:23.806",
+      "text": "你就是我的原点",
+      "translation": null
+    },
+    {
+      "time": 210.318,
+      "time_str": "03:30.318",
+      "text": "没有你该怎么演",
+      "translation": null
+    },
+    {
+      "time": 216.747,
+      "time_str": "03:36.747",
+      "text": "那些你说的永远",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "依恋 - 蔡淳佳.lrc"
+}

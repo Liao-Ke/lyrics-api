@@ -1,0 +1,262 @@
+{
+  "title": "梦醒时分",
+  "title_raw": "梦醒时分",
+  "version": null,
+  "artist": "李翊君",
+  "group_key": "梦醒时分|李翊君",
+  "writers": {
+    "lyricist": "李宗盛",
+    "composer": "李宗盛",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 30.95,
+      "time_str": "00:30.950",
+      "text": "你说",
+      "translation": null
+    },
+    {
+      "time": 32.6,
+      "time_str": "00:32.600",
+      "text": "你爱了不该爱的人",
+      "translation": null
+    },
+    {
+      "time": 35.71,
+      "time_str": "00:35.710",
+      "text": "你的心中满是伤痕",
+      "translation": null
+    },
+    {
+      "time": 39.11,
+      "time_str": "00:39.110",
+      "text": "你说你犯了不该犯的错",
+      "translation": null
+    },
+    {
+      "time": 43.07,
+      "time_str": "00:43.070",
+      "text": "心中满是悔恨",
+      "translation": null
+    },
+    {
+      "time": 46.18,
+      "time_str": "00:46.180",
+      "text": "你说你尝尽了生活的苦",
+      "translation": null
+    },
+    {
+      "time": 49.63,
+      "time_str": "00:49.630",
+      "text": "找不到可以相信的人",
+      "translation": null
+    },
+    {
+      "time": 53.01,
+      "time_str": "00:53.010",
+      "text": "你说你感到万分沮丧",
+      "translation": null
+    },
+    {
+      "time": 56.51,
+      "time_str": "00:56.510",
+      "text": "甚至开始怀疑人生",
+      "translation": null
+    },
+    {
+      "time": 61.72,
+      "time_str": "01:01.720",
+      "text": "早知道伤心总是难免的",
+      "translation": null
+    },
+    {
+      "time": 65.17,
+      "time_str": "01:05.170",
+      "text": "你又何苦一往情深",
+      "translation": null
+    },
+    {
+      "time": 68.68,
+      "time_str": "01:08.680",
+      "text": "因为爱情总是难舍难分",
+      "translation": null
+    },
+    {
+      "time": 72.08,
+      "time_str": "01:12.080",
+      "text": "何必在意那一点点温存",
+      "translation": null
+    },
+    {
+      "time": 75.48,
+      "time_str": "01:15.480",
+      "text": "要知道伤心总是难免的",
+      "translation": null
+    },
+    {
+      "time": 79.31,
+      "time_str": "01:19.310",
+      "text": "在每一个梦醒时分",
+      "translation": null
+    },
+    {
+      "time": 82.61,
+      "time_str": "01:22.610",
+      "text": "有些事情你现在不必问",
+      "translation": null
+    },
+    {
+      "time": 86.06,
+      "time_str": "01:26.060",
+      "text": "有些人你永远不必等",
+      "translation": null
+    },
+    {
+      "time": 116.12,
+      "time_str": "01:56.120",
+      "text": "你说你爱了不该爱的人",
+      "translation": null
+    },
+    {
+      "time": 120.87,
+      "time_str": "02:00.870",
+      "text": "你的心中满是伤痕",
+      "translation": null
+    },
+    {
+      "time": 124.32,
+      "time_str": "02:04.320",
+      "text": "你说你犯了不该犯的错",
+      "translation": null
+    },
+    {
+      "time": 128.18,
+      "time_str": "02:08.180",
+      "text": "心中满是悔恨",
+      "translation": null
+    },
+    {
+      "time": 131.28,
+      "time_str": "02:11.280",
+      "text": "你说你尝尽了生活的苦",
+      "translation": null
+    },
+    {
+      "time": 134.83,
+      "time_str": "02:14.830",
+      "text": "找不到可以相信的人",
+      "translation": null
+    },
+    {
+      "time": 138.05,
+      "time_str": "02:18.050",
+      "text": "你说你感到万分沮丧",
+      "translation": null
+    },
+    {
+      "time": 141.81,
+      "time_str": "02:21.810",
+      "text": "甚至开始怀疑人生",
+      "translation": null
+    },
+    {
+      "time": 146.82,
+      "time_str": "02:26.820",
+      "text": "早知道伤心总是难免的",
+      "translation": null
+    },
+    {
+      "time": 150.42,
+      "time_str": "02:30.420",
+      "text": "你又何苦一往情深",
+      "translation": null
+    },
+    {
+      "time": 153.93,
+      "time_str": "02:33.930",
+      "text": "因为爱情总是难舍难分",
+      "translation": null
+    },
+    {
+      "time": 157.38,
+      "time_str": "02:37.380",
+      "text": "何必在意那一点点温存",
+      "translation": null
+    },
+    {
+      "time": 160.73,
+      "time_str": "02:40.730",
+      "text": "要知道伤心总是难免的",
+      "translation": null
+    },
+    {
+      "time": 164.29,
+      "time_str": "02:44.290",
+      "text": "在每一个梦醒时分",
+      "translation": null
+    },
+    {
+      "time": 167.79,
+      "time_str": "02:47.790",
+      "text": "有些事情你现在不必问",
+      "translation": null
+    },
+    {
+      "time": 171.24,
+      "time_str": "02:51.240",
+      "text": "有些人你永远不必等",
+      "translation": null
+    },
+    {
+      "time": 188.62,
+      "time_str": "03:08.620",
+      "text": "早知道伤心总是难免的",
+      "translation": null
+    },
+    {
+      "time": 192.17,
+      "time_str": "03:12.170",
+      "text": "你又何苦一往情深",
+      "translation": null
+    },
+    {
+      "time": 195.67,
+      "time_str": "03:15.670",
+      "text": "因为爱情总是难舍难分",
+      "translation": null
+    },
+    {
+      "time": 199.12,
+      "time_str": "03:19.120",
+      "text": "何必在意那一点点温存",
+      "translation": null
+    },
+    {
+      "time": 202.42,
+      "time_str": "03:22.420",
+      "text": "要知道伤心总是难免的",
+      "translation": null
+    },
+    {
+      "time": 206.08,
+      "time_str": "03:26.080",
+      "text": "在每一个梦醒时分",
+      "translation": null
+    },
+    {
+      "time": 209.58,
+      "time_str": "03:29.580",
+      "text": "有些事情你现在不必问",
+      "translation": null
+    },
+    {
+      "time": 213.03,
+      "time_str": "03:33.030",
+      "text": "有些人你永远不必等",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "梦醒时分 - 李翊君.lrc"
+}

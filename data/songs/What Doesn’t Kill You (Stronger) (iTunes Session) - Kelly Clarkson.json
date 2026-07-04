@@ -1,0 +1,376 @@
+{
+  "title": "What Doesn’t Kill You",
+  "title_raw": "What Doesn’t Kill You (Stronger) (iTunes Session)",
+  "version": "Stronger",
+  "artist": "Kelly Clarkson",
+  "group_key": "what doesn’t kill you|kelly clarkson",
+  "writers": {
+    "lyricist": "Elofsson+Gamson,Kurstin+Ta",
+    "composer": "Elofsson+Gamson,Kurstin+Ta",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.08,
+      "time_str": "00:10.080",
+      "text": "You know the bed feels warmer",
+      "translation": "你知道被窝里的温暖"
+    },
+    {
+      "time": 12.61,
+      "time_str": "00:12.610",
+      "text": "Sleeping here alone",
+      "translation": "一个人睡在这里也一样"
+    },
+    {
+      "time": 16.99,
+      "time_str": "00:16.990",
+      "text": "You know I dream in colour",
+      "translation": "你知道我多彩的梦想"
+    },
+    {
+      "time": 20.66,
+      "time_str": "00:20.660",
+      "text": "And do the things I want",
+      "translation": "我做我想做的事"
+    },
+    {
+      "time": 25.26,
+      "time_str": "00:25.260",
+      "text": "You think you got the best of me",
+      "translation": "你认为你得到了最好的我"
+    },
+    {
+      "time": 27.26,
+      "time_str": "00:27.260",
+      "text": "Think you had the last laugh",
+      "translation": "认为你笑到了最后"
+    },
+    {
+      "time": 29.8,
+      "time_str": "00:29.800",
+      "text": "Bet you think that everything good is gone",
+      "translation": "我打赌你会觉得所有好事一去不返"
+    },
+    {
+      "time": 33.448,
+      "time_str": "00:33.448",
+      "text": "Think you left me broken down",
+      "translation": "你以为你让我崩溃"
+    },
+    {
+      "time": 35.468,
+      "time_str": "00:35.468",
+      "text": "Think that I'd come running back",
+      "translation": "认为我会跑着回来"
+    },
+    {
+      "time": 37.588,
+      "time_str": "00:37.588",
+      "text": "Baby you don't know me, cause you're dead wrong",
+      "translation": "亲爱的你不了解我，因为你错得彻头彻尾"
+    },
+    {
+      "time": 41.998,
+      "time_str": "00:41.998",
+      "text": "What doesn't kill you makes you stronger",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 44.588,
+      "time_str": "00:44.588",
+      "text": "Stand a little taller",
+      "translation": "站得高一点"
+    },
+    {
+      "time": 46.428,
+      "time_str": "00:46.428",
+      "text": "Doesn't mean I'm lonely when I'm alone",
+      "translation": "当我独处时不代表我感到寂寞"
+    },
+    {
+      "time": 50.188,
+      "time_str": "00:50.188",
+      "text": "What doesn't kill you makes a fighter",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 52.738,
+      "time_str": "00:52.738",
+      "text": "footsteps even lighter",
+      "translation": "脚步也更加轻松"
+    },
+    {
+      "time": 54.918,
+      "time_str": "00:54.918",
+      "text": "Doesn't mean I'm over cause you'r gone",
+      "translation": "你的离去并不代表我的结局"
+    },
+    {
+      "time": 59.28,
+      "time_str": "00:59.280",
+      "text": "What doesn't kill you makes you stronger, stronger",
+      "translation": "杀不死你的东西只会让你更强大，更坚强"
+    },
+    {
+      "time": 63.989,
+      "time_str": "01:03.989",
+      "text": "Just me, myself and I",
+      "translation": "只做我自己"
+    },
+    {
+      "time": 66.738,
+      "time_str": "01:06.738",
+      "text": "What doesn't kill you makes you stronger",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 69.228,
+      "time_str": "01:09.228",
+      "text": "Stand a little taller",
+      "translation": "站得高一点"
+    },
+    {
+      "time": 71.218,
+      "time_str": "01:11.218",
+      "text": "Doesn't mean I'm lonely when I'm alone",
+      "translation": "当我独处时不代表我感到寂寞"
+    },
+    {
+      "time": 77.538,
+      "time_str": "01:17.538",
+      "text": "You heard that I was starting over with someone new",
+      "translation": "你只听说我和别人有了新的开始"
+    },
+    {
+      "time": 85.538,
+      "time_str": "01:25.538",
+      "text": "But told you I was moving on over you",
+      "translation": "但告诉你我已经凌驾于你"
+    },
+    {
+      "time": 93.809,
+      "time_str": "01:33.809",
+      "text": "You didn't think that I'd come back",
+      "translation": "你不会想到我会回来"
+    },
+    {
+      "time": 95.779,
+      "time_str": "01:35.779",
+      "text": "I'd come back swinging",
+      "translation": "我会惊艳复出"
+    },
+    {
+      "time": 97.729,
+      "time_str": "01:37.729",
+      "text": "You try to break me what you say",
+      "translation": "你试过击垮我可事实是"
+    },
+    {
+      "time": 100.628,
+      "time_str": "01:40.628",
+      "text": "What doesn't kill you makes you stronger",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 102.678,
+      "time_str": "01:42.678",
+      "text": "Stand a little taller",
+      "translation": "站得高一点"
+    },
+    {
+      "time": 104.678,
+      "time_str": "01:44.678",
+      "text": "Doesn't mean I'm lonely when I'm alone",
+      "translation": "当我独处时不代表我感到寂寞"
+    },
+    {
+      "time": 108.229,
+      "time_str": "01:48.229",
+      "text": "What doesn't kill you makes a fighter",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 111.18,
+      "time_str": "01:51.180",
+      "text": "footsteps even lighter",
+      "translation": "脚步也更加轻松"
+    },
+    {
+      "time": 112.789,
+      "time_str": "01:52.789",
+      "text": "Doesn't mean I'm over cause you're gone",
+      "translation": "你的离去并不代表我的结局"
+    },
+    {
+      "time": 117.248,
+      "time_str": "01:57.248",
+      "text": "What doesn't kill you makes you stronger, stronger",
+      "translation": "杀不死你的东西只会让你更强大，更坚强"
+    },
+    {
+      "time": 124.489,
+      "time_str": "02:04.489",
+      "text": "Just me, myself and I",
+      "translation": "只做我自己"
+    },
+    {
+      "time": 126.5,
+      "time_str": "02:06.500",
+      "text": "What doesn't kill you makes you stronger",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 127.929,
+      "time_str": "02:07.929",
+      "text": "Stand a little taller",
+      "translation": "站得高一点"
+    },
+    {
+      "time": 130.7,
+      "time_str": "02:10.700",
+      "text": "Doesn't mean I'm lonely when I'm alone",
+      "translation": "当我独处时不代表我感到寂寞"
+    },
+    {
+      "time": 137.63,
+      "time_str": "02:17.630",
+      "text": "Thanks to you I got a new thing started",
+      "translation": "因为你我才有了一个新的开始"
+    },
+    {
+      "time": 141.3,
+      "time_str": "02:21.300",
+      "text": "Thanks to you I'm not a broken hearted",
+      "translation": "因为你我才不是一个破碎的心"
+    },
+    {
+      "time": 147.4,
+      "time_str": "02:27.400",
+      "text": "Thanks to you I'm finally thinking bout me",
+      "translation": "因为你我终于开始为自己打算"
+    },
+    {
+      "time": 148.71,
+      "time_str": "02:28.710",
+      "text": "You know in the end the day to left was just my beginning",
+      "translation": "你知道最后你离开的那一天正是我的开始…"
+    },
+    {
+      "time": 157.4,
+      "time_str": "02:37.400",
+      "text": "In the end...",
+      "translation": "直到最后……"
+    },
+    {
+      "time": 159.6,
+      "time_str": "02:39.600",
+      "text": "What doesn't kill you makes you stronger",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 162.43,
+      "time_str": "02:42.430",
+      "text": "Stand a little taller",
+      "translation": "站得高一点"
+    },
+    {
+      "time": 164.46,
+      "time_str": "02:44.460",
+      "text": "Doesn't mean I'm lonely when I'm alone",
+      "translation": "当我独处时不代表我感到寂寞"
+    },
+    {
+      "time": 167.85,
+      "time_str": "02:47.850",
+      "text": "What doesn't kill you makes a figter",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 170.7,
+      "time_str": "02:50.700",
+      "text": "Footsteps even lighter",
+      "translation": "眼光更长远一点"
+    },
+    {
+      "time": 172.76,
+      "time_str": "02:52.760",
+      "text": "Doesn't mean I'm over cause you're gone",
+      "translation": "你的离去并不代表我的结局"
+    },
+    {
+      "time": 176.4,
+      "time_str": "02:56.400",
+      "text": "What doesn't kill you makes you stronger, stronger",
+      "translation": "杀不死你的东西只会让你更强大，更坚强"
+    },
+    {
+      "time": 181.5,
+      "time_str": "03:01.500",
+      "text": "Just me, myself and I",
+      "translation": "只做我自己"
+    },
+    {
+      "time": 184.87,
+      "time_str": "03:04.870",
+      "text": "What doesn't kill you makes you stronger",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 187.72,
+      "time_str": "03:07.720",
+      "text": "Stand a little taller",
+      "translation": "站得高一点"
+    },
+    {
+      "time": 189.85,
+      "time_str": "03:09.850",
+      "text": "Doesn't mean I'm lonely when I'm alone",
+      "translation": "当我独处时不代表我感到寂寞"
+    },
+    {
+      "time": 193.33,
+      "time_str": "03:13.330",
+      "text": "What doesn't kill you makes you stronger, stronger",
+      "translation": "杀不死你的东西只会让你更强大，更坚强"
+    },
+    {
+      "time": 199.5,
+      "time_str": "03:19.500",
+      "text": "Just me, myself and I",
+      "translation": "只做我自己"
+    },
+    {
+      "time": 201.42,
+      "time_str": "03:21.420",
+      "text": "What doesn't kill you makes you stronger",
+      "translation": "杀不死你的东西只会让你更强大"
+    },
+    {
+      "time": 204.6,
+      "time_str": "03:24.600",
+      "text": "Stand a little taller",
+      "translation": "站得高一点"
+    },
+    {
+      "time": 206.28,
+      "time_str": "03:26.280",
+      "text": "Doesn't mean I'm lonely when I'm alone",
+      "translation": "当我独处时不代表我感到寂寞"
+    },
+    {
+      "time": 211.47,
+      "time_str": "03:31.470",
+      "text": "I'm alone",
+      "translation": "我傲然独立"
+    },
+    {
+      "time": 212.24,
+      "time_str": "03:32.240",
+      "text": "end",
+      "translation": "曲终"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "What Doesn’t Kill You (Stronger) (iTunes Session) - Kelly Clarkson.lrc"
+}

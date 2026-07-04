@@ -1,0 +1,148 @@
+{
+  "title": "你的背包",
+  "title_raw": "你的背包",
+  "version": null,
+  "artist": "陈奕迅",
+  "group_key": "你的背包|陈奕迅",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "蔡政勋",
+    "arranger": "刘志远"
+  },
+  "lyrics": [
+    {
+      "time": 23.42,
+      "time_str": "00:23.420",
+      "text": "一九九五年 我们在机场的车站",
+      "translation": null
+    },
+    {
+      "time": 30.3,
+      "time_str": "00:30.300",
+      "text": "你借我 而我不想归还",
+      "translation": null
+    },
+    {
+      "time": 37.09,
+      "time_str": "00:37.090",
+      "text": "那个背包 载满 纪念品和患难",
+      "translation": null
+    },
+    {
+      "time": 45.48,
+      "time_str": "00:45.480",
+      "text": "还有摩擦留下的图案",
+      "translation": null
+    },
+    {
+      "time": 52.32,
+      "time_str": "00:52.320",
+      "text": "你的背包 背到现在还没烂",
+      "translation": null
+    },
+    {
+      "time": 60.81,
+      "time_str": "01:00.810",
+      "text": "却成为我身体另一半",
+      "translation": null
+    },
+    {
+      "time": 67.59,
+      "time_str": "01:07.590",
+      "text": "千金不换 它已熟悉我的汗",
+      "translation": null
+    },
+    {
+      "time": 75.98,
+      "time_str": "01:15.980",
+      "text": "它是我肩膀上的指环",
+      "translation": null
+    },
+    {
+      "time": 88.19,
+      "time_str": "01:28.190",
+      "text": "背了六年半 我每一天陪它上班",
+      "translation": null
+    },
+    {
+      "time": 95.02,
+      "time_str": "01:35.020",
+      "text": "你借我 我就为你保管",
+      "translation": null
+    },
+    {
+      "time": 101.91,
+      "time_str": "01:41.910",
+      "text": "我的朋友 都说 它旧得很好看",
+      "translation": null
+    },
+    {
+      "time": 110.3,
+      "time_str": "01:50.300",
+      "text": "遗憾是它已与你无关",
+      "translation": null
+    },
+    {
+      "time": 116.98,
+      "time_str": "01:56.980",
+      "text": "你的背包 让我走得好缓慢",
+      "translation": null
+    },
+    {
+      "time": 125.51,
+      "time_str": "02:05.510",
+      "text": "终有一天陪着我腐烂",
+      "translation": null
+    },
+    {
+      "time": 132.4,
+      "time_str": "02:12.400",
+      "text": "你的背包 对我沉重的审判",
+      "translation": null
+    },
+    {
+      "time": 140.75,
+      "time_str": "02:20.750",
+      "text": "借了东西为什么不还",
+      "translation": null
+    },
+    {
+      "time": 170.5,
+      "time_str": "02:50.500",
+      "text": "你的背包 让我走得好缓慢",
+      "translation": null
+    },
+    {
+      "time": 178.9,
+      "time_str": "02:58.900",
+      "text": "终有一天陪着我腐烂",
+      "translation": null
+    },
+    {
+      "time": 185.58,
+      "time_str": "03:05.580",
+      "text": "你的背包 对我沉重的审判",
+      "translation": null
+    },
+    {
+      "time": 194.14,
+      "time_str": "03:14.140",
+      "text": "借了东西为什么不还",
+      "translation": null
+    },
+    {
+      "time": 201.92,
+      "time_str": "03:21.920",
+      "text": "借了东西为什么",
+      "translation": null
+    },
+    {
+      "time": 209.82,
+      "time_str": "03:29.820",
+      "text": "不还",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你的背包 - 陈奕迅.lrc"
+}

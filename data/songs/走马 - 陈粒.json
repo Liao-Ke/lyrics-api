@@ -1,0 +1,424 @@
+{
+  "title": "走马",
+  "title_raw": "走马",
+  "version": null,
+  "artist": "陈粒",
+  "group_key": "走马|陈粒",
+  "writers": {
+    "lyricist": "陈粒",
+    "composer": "陈粒",
+    "arranger": "陈粒/燕池"
+  },
+  "lyrics": [
+    {
+      "time": 13.726,
+      "time_str": "00:13.726",
+      "text": "窗外雨都停了",
+      "translation": null
+    },
+    {
+      "time": 14.226,
+      "time_str": "00:14.226",
+      "text": "屋里灯还黑着",
+      "translation": null
+    },
+    {
+      "time": 17.47,
+      "time_str": "00:17.470",
+      "text": "数着你的冷漠",
+      "translation": null
+    },
+    {
+      "time": 18.477,
+      "time_str": "00:18.477",
+      "text": "把玩着寂寞",
+      "translation": null
+    },
+    {
+      "time": 20.177,
+      "time_str": "00:20.177",
+      "text": "电话还没拨已经口渴",
+      "translation": null
+    },
+    {
+      "time": 23.177,
+      "time_str": "00:23.177",
+      "text": "为你熬的夜都冷了",
+      "translation": null
+    },
+    {
+      "time": 25.378,
+      "time_str": "00:25.378",
+      "text": "数的羊都跑了",
+      "translation": null
+    },
+    {
+      "time": 27.028,
+      "time_str": "00:27.028",
+      "text": "一个两个",
+      "translation": null
+    },
+    {
+      "time": 28.628,
+      "time_str": "00:28.628",
+      "text": "嘲笑我",
+      "translation": null
+    },
+    {
+      "time": 30.179,
+      "time_str": "00:30.179",
+      "text": "笑我耳朵失灵的",
+      "translation": null
+    },
+    {
+      "time": 33.329,
+      "time_str": "00:33.329",
+      "text": "笑我放你走了走了走了",
+      "translation": null
+    },
+    {
+      "time": 36.379,
+      "time_str": "00:36.379",
+      "text": "走了",
+      "translation": null
+    },
+    {
+      "time": 40.838,
+      "time_str": "00:40.838",
+      "text": "路人穿街过河",
+      "translation": null
+    },
+    {
+      "time": 42.338,
+      "time_str": "00:42.338",
+      "text": "好景只有片刻",
+      "translation": null
+    },
+    {
+      "time": 44.139,
+      "time_str": "00:44.139",
+      "text": "森林都会凋落",
+      "translation": null
+    },
+    {
+      "time": 45.839,
+      "time_str": "00:45.839",
+      "text": "风吹走云朵",
+      "translation": null
+    },
+    {
+      "time": 47.641,
+      "time_str": "00:47.641",
+      "text": "你留给我的迷离扑朔",
+      "translation": null
+    },
+    {
+      "time": 50.692,
+      "time_str": "00:50.692",
+      "text": "岁月风干我的执着",
+      "translation": null
+    },
+    {
+      "time": 52.542,
+      "time_str": "00:52.542",
+      "text": "我还是把回忆紧握",
+      "translation": null
+    },
+    {
+      "time": 55.394,
+      "time_str": "00:55.394",
+      "text": "太多都散落",
+      "translation": null
+    },
+    {
+      "time": 57.444,
+      "time_str": "00:57.444",
+      "text": "散落太多好难过",
+      "translation": null
+    },
+    {
+      "time": 60.394,
+      "time_str": "01:00.394",
+      "text": "难过时你走了走了走了",
+      "translation": null
+    },
+    {
+      "time": 63.694,
+      "time_str": "01:03.694",
+      "text": "走了",
+      "translation": null
+    },
+    {
+      "time": 68.244,
+      "time_str": "01:08.244",
+      "text": "过了很久终于我愿抬头看",
+      "translation": null
+    },
+    {
+      "time": 71.65,
+      "time_str": "01:11.650",
+      "text": "你就在对岸走得好慢",
+      "translation": null
+    },
+    {
+      "time": 73.995,
+      "time_str": "01:13.995",
+      "text": "任由我独自在假寐与现实之间两难",
+      "translation": null
+    },
+    {
+      "time": 82.256,
+      "time_str": "01:22.256",
+      "text": "过了很久终于我愿抬头看",
+      "translation": null
+    },
+    {
+      "time": 85.406,
+      "time_str": "01:25.406",
+      "text": "你就在对岸等我勇敢",
+      "translation": null
+    },
+    {
+      "time": 88.256,
+      "time_str": "01:28.256",
+      "text": "你还是我的我的我的",
+      "translation": null
+    },
+    {
+      "time": 92.27,
+      "time_str": "01:32.270",
+      "text": "你看",
+      "translation": null
+    },
+    {
+      "time": 109.365,
+      "time_str": "01:49.365",
+      "text": "浪漫无处消磨",
+      "translation": null
+    },
+    {
+      "time": 110.915,
+      "time_str": "01:50.915",
+      "text": "无聊伴着生活",
+      "translation": null
+    },
+    {
+      "time": 112.816,
+      "time_str": "01:52.816",
+      "text": "空荡荡的自我",
+      "translation": null
+    },
+    {
+      "time": 114.365,
+      "time_str": "01:54.365",
+      "text": "莫名地焦灼",
+      "translation": null
+    },
+    {
+      "time": 116.266,
+      "time_str": "01:56.266",
+      "text": "世界孤立我",
+      "translation": null
+    },
+    {
+      "time": 117.567,
+      "time_str": "01:57.567",
+      "text": "任它奚落",
+      "translation": null
+    },
+    {
+      "time": 119.167,
+      "time_str": "01:59.167",
+      "text": "我只保持我的沉默",
+      "translation": null
+    },
+    {
+      "time": 121.267,
+      "time_str": "02:01.267",
+      "text": "明白什么才是好的坏的",
+      "translation": null
+    },
+    {
+      "time": 124.87,
+      "time_str": "02:04.870",
+      "text": "都散了",
+      "translation": null
+    },
+    {
+      "time": 126.171,
+      "time_str": "02:06.171",
+      "text": "散了太多无关的",
+      "translation": null
+    },
+    {
+      "time": 129.221,
+      "time_str": "02:09.221",
+      "text": "散了后我醒了醒了醒了",
+      "translation": null
+    },
+    {
+      "time": 132.926,
+      "time_str": "02:12.926",
+      "text": "醒了",
+      "translation": null
+    },
+    {
+      "time": 136.828,
+      "time_str": "02:16.828",
+      "text": "过了很久终于我愿抬头看",
+      "translation": null
+    },
+    {
+      "time": 140.278,
+      "time_str": "02:20.278",
+      "text": "你就在对岸走得好慢",
+      "translation": null
+    },
+    {
+      "time": 143.378,
+      "time_str": "02:23.378",
+      "text": "任由我独自在假寐与现实之间两难",
+      "translation": null
+    },
+    {
+      "time": 150.542,
+      "time_str": "02:30.542",
+      "text": "过了很久终于我愿抬头看",
+      "translation": null
+    },
+    {
+      "time": 153.143,
+      "time_str": "02:33.143",
+      "text": "你就在对岸等我勇敢",
+      "translation": null
+    },
+    {
+      "time": 157.2,
+      "time_str": "02:37.200",
+      "text": "你还是我的我的我的",
+      "translation": null
+    },
+    {
+      "time": 160.351,
+      "time_str": "02:40.351",
+      "text": "你看",
+      "translation": null
+    },
+    {
+      "time": 164.301,
+      "time_str": "02:44.301",
+      "text": "过了很久终于我愿抬头看",
+      "translation": null
+    },
+    {
+      "time": 167.652,
+      "time_str": "02:47.652",
+      "text": "你就在对岸走得好慢",
+      "translation": null
+    },
+    {
+      "time": 170.616,
+      "time_str": "02:50.616",
+      "text": "任由我独自在假寐与现实之间两难",
+      "translation": null
+    },
+    {
+      "time": 179.033,
+      "time_str": "02:59.033",
+      "text": "过了很久终于我愿抬头看",
+      "translation": null
+    },
+    {
+      "time": 181.384,
+      "time_str": "03:01.384",
+      "text": "你就在对岸等我勇敢",
+      "translation": null
+    },
+    {
+      "time": 184.488,
+      "time_str": "03:04.488",
+      "text": "你还是我的我的我的",
+      "translation": null
+    },
+    {
+      "time": 188.09,
+      "time_str": "03:08.090",
+      "text": "你看",
+      "translation": null
+    },
+    {
+      "time": 205.354,
+      "time_str": "03:25.354",
+      "text": "浪漫无处消磨",
+      "translation": null
+    },
+    {
+      "time": 206.904,
+      "time_str": "03:26.904",
+      "text": "无聊伴着生活",
+      "translation": null
+    },
+    {
+      "time": 208.856,
+      "time_str": "03:28.856",
+      "text": "空荡荡的自我",
+      "translation": null
+    },
+    {
+      "time": 210.359,
+      "time_str": "03:30.359",
+      "text": "莫名地焦灼",
+      "translation": null
+    },
+    {
+      "time": 211.91,
+      "time_str": "03:31.910",
+      "text": "世界孤立我",
+      "translation": null
+    },
+    {
+      "time": 213.61,
+      "time_str": "03:33.610",
+      "text": "任它奚落",
+      "translation": null
+    },
+    {
+      "time": 215.161,
+      "time_str": "03:35.161",
+      "text": "我只保持我的沉默",
+      "translation": null
+    },
+    {
+      "time": 217.417,
+      "time_str": "03:37.417",
+      "text": "明白什么才是好的坏的",
+      "translation": null
+    },
+    {
+      "time": 220.817,
+      "time_str": "03:40.817",
+      "text": "都散了",
+      "translation": null
+    },
+    {
+      "time": 222.068,
+      "time_str": "03:42.068",
+      "text": "散了太多无关的",
+      "translation": null
+    },
+    {
+      "time": 225.268,
+      "time_str": "03:45.268",
+      "text": "散了后我醒了醒了醒了",
+      "translation": null
+    },
+    {
+      "time": 229.069,
+      "time_str": "03:49.069",
+      "text": "醒了",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "走马 - 陈粒.lrc"
+}

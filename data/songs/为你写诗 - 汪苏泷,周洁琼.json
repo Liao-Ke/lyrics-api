@@ -1,0 +1,364 @@
+{
+  "title": "为你写诗",
+  "title_raw": "为你写诗",
+  "version": null,
+  "artist": "汪苏泷,周洁琼",
+  "group_key": "为你写诗|汪苏泷,周洁琼",
+  "writers": {
+    "lyricist": "吴克群",
+    "composer": "吴克群",
+    "arranger": "邹頔"
+  },
+  "lyrics": [
+    {
+      "time": 17.49,
+      "time_str": "00:17.490",
+      "text": "男：爱情是一种怪事",
+      "translation": null
+    },
+    {
+      "time": 20.35,
+      "time_str": "00:20.350",
+      "text": "我开始全身不受控制",
+      "translation": null
+    },
+    {
+      "time": 24.72,
+      "time_str": "00:24.720",
+      "text": "爱情是一种本事",
+      "translation": null
+    },
+    {
+      "time": 27.52,
+      "time_str": "00:27.520",
+      "text": "我开始连自己都不是",
+      "translation": null
+    },
+    {
+      "time": 31.85,
+      "time_str": "00:31.850",
+      "text": "为你我做了太多的傻事",
+      "translation": null
+    },
+    {
+      "time": 37.72,
+      "time_str": "00:37.720",
+      "text": "第一件就是为你写诗",
+      "translation": null
+    },
+    {
+      "time": 44.54,
+      "time_str": "00:44.540",
+      "text": "女：为你写诗为你静止",
+      "translation": null
+    },
+    {
+      "time": 48.58,
+      "time_str": "00:48.580",
+      "text": "为你做不可能的事",
+      "translation": null
+    },
+    {
+      "time": 52.15,
+      "time_str": "00:52.150",
+      "text": "为你我学会弹琴写词",
+      "translation": null
+    },
+    {
+      "time": 56.76,
+      "time_str": "00:56.760",
+      "text": "为你失去理智",
+      "translation": null
+    },
+    {
+      "time": 59.16,
+      "time_str": "00:59.160",
+      "text": "为你写诗为你静止",
+      "translation": null
+    },
+    {
+      "time": 63.11,
+      "time_str": "01:03.110",
+      "text": "为你做不可能的事",
+      "translation": null
+    },
+    {
+      "time": 66.78,
+      "time_str": "01:06.780",
+      "text": "为你弹奏",
+      "translation": null
+    },
+    {
+      "time": 68.71,
+      "time_str": "01:08.710",
+      "text": "所有情歌的句子",
+      "translation": null
+    },
+    {
+      "time": 73.96,
+      "time_str": "01:13.960",
+      "text": "我忘了说",
+      "translation": null
+    },
+    {
+      "time": 75.91,
+      "time_str": "01:15.910",
+      "text": "最美的是你的名字",
+      "translation": null
+    },
+    {
+      "time": 93.78,
+      "time_str": "01:33.780",
+      "text": "爱情是一种怪事",
+      "translation": null
+    },
+    {
+      "time": 96.69,
+      "time_str": "01:36.690",
+      "text": "你的笑容是唯一宗旨",
+      "translation": null
+    },
+    {
+      "time": 101.05,
+      "time_str": "01:41.050",
+      "text": "爱情是一种本事",
+      "translation": null
+    },
+    {
+      "time": 103.96,
+      "time_str": "01:43.960",
+      "text": "我在你心里什么位置",
+      "translation": null
+    },
+    {
+      "time": 108.11,
+      "time_str": "01:48.110",
+      "text": "为你我做了太多的傻事",
+      "translation": null
+    },
+    {
+      "time": 114.11,
+      "time_str": "01:54.110",
+      "text": "第一件就是为你写诗",
+      "translation": null
+    },
+    {
+      "time": 121.05,
+      "time_str": "02:01.050",
+      "text": "为你写诗为你静止",
+      "translation": null
+    },
+    {
+      "time": 124.86,
+      "time_str": "02:04.860",
+      "text": "为你做不可能的事",
+      "translation": null
+    },
+    {
+      "time": 128.67,
+      "time_str": "02:08.670",
+      "text": "为你我学会弹琴写词",
+      "translation": null
+    },
+    {
+      "time": 133.15,
+      "time_str": "02:13.150",
+      "text": "为你失去理智",
+      "translation": null
+    },
+    {
+      "time": 135.7,
+      "time_str": "02:15.700",
+      "text": "为你写诗为你静止",
+      "translation": null
+    },
+    {
+      "time": 139.31,
+      "time_str": "02:19.310",
+      "text": "为你做不可能的事",
+      "translation": null
+    },
+    {
+      "time": 143.07,
+      "time_str": "02:23.070",
+      "text": "为你弹奏",
+      "translation": null
+    },
+    {
+      "time": 145.01,
+      "time_str": "02:25.010",
+      "text": "所有情歌的句子",
+      "translation": null
+    },
+    {
+      "time": 149.81,
+      "time_str": "02:29.810",
+      "text": "我忘了说",
+      "translation": null
+    },
+    {
+      "time": 152.14,
+      "time_str": "02:32.140",
+      "text": "最美的是你的名字",
+      "translation": null
+    },
+    {
+      "time": 157.79,
+      "time_str": "02:37.790",
+      "text": "为你写诗为你静止",
+      "translation": null
+    },
+    {
+      "time": 161.15,
+      "time_str": "02:41.150",
+      "text": "为你做不可能的事",
+      "translation": null
+    },
+    {
+      "time": 164.86,
+      "time_str": "02:44.860",
+      "text": "为你我",
+      "translation": null
+    },
+    {
+      "time": 165.86,
+      "time_str": "02:45.860",
+      "text": "学会弹琴写词",
+      "translation": null
+    },
+    {
+      "time": 169.55,
+      "time_str": "02:49.550",
+      "text": "为你失去理智",
+      "translation": null
+    },
+    {
+      "time": 171.85,
+      "time_str": "02:51.850",
+      "text": "为你写诗为你静止",
+      "translation": null
+    },
+    {
+      "time": 175.59,
+      "time_str": "02:55.590",
+      "text": "为你做不可能的事",
+      "translation": null
+    },
+    {
+      "time": 179.46,
+      "time_str": "02:59.460",
+      "text": "为你弹奏所有情歌的句子",
+      "translation": null
+    },
+    {
+      "time": 186.27,
+      "time_str": "03:06.270",
+      "text": "我忘了说最美的是你的名字",
+      "translation": null
+    },
+    {
+      "time": 192.3,
+      "time_str": "03:12.300",
+      "text": "我什么都能忘记",
+      "translation": null
+    },
+    {
+      "time": 194.69,
+      "time_str": "03:14.690",
+      "text": "但唯一不忘是你的名字",
+      "translation": null
+    },
+    {
+      "time": 199.23,
+      "time_str": "03:19.230",
+      "text": "我什么都能忘记",
+      "translation": null
+    },
+    {
+      "time": 201.92,
+      "time_str": "03:21.920",
+      "text": "但唯一不忘是你的样子",
+      "translation": null
+    },
+    {
+      "time": 206.24,
+      "time_str": "03:26.240",
+      "text": "我什么都能忘记",
+      "translation": null
+    },
+    {
+      "time": 209.13,
+      "time_str": "03:29.130",
+      "text": "但唯一不忘是你的名字",
+      "translation": null
+    },
+    {
+      "time": 213.54,
+      "time_str": "03:33.540",
+      "text": "我什么都能忘记",
+      "translation": null
+    },
+    {
+      "time": 216.37,
+      "time_str": "03:36.370",
+      "text": "但唯一不忘是你的样子",
+      "translation": null
+    },
+    {
+      "time": 221.3,
+      "time_str": "03:41.300",
+      "text": "演唱：汪苏泷、周洁琼",
+      "translation": null
+    },
+    {
+      "time": 222.68,
+      "time_str": "03:42.680",
+      "text": "和音编写&配唱：刘颜嘉",
+      "translation": null
+    },
+    {
+      "time": 222.87,
+      "time_str": "03:42.870",
+      "text": "弦乐编写：邹頔",
+      "translation": null
+    },
+    {
+      "time": 223.08,
+      "time_str": "03:43.080",
+      "text": "贝斯：王瀚一",
+      "translation": null
+    },
+    {
+      "time": 224.09,
+      "time_str": "03:44.090",
+      "text": "小提琴：张琴",
+      "translation": null
+    },
+    {
+      "time": 224.31,
+      "time_str": "03:44.310",
+      "text": "大提琴：张平",
+      "translation": null
+    },
+    {
+      "time": 224.81,
+      "time_str": "03:44.810",
+      "text": "和音：刘雪莲",
+      "translation": null
+    },
+    {
+      "time": 225.83,
+      "time_str": "03:45.830",
+      "text": "母带：Leonard Fong@新加坡Horus Studio",
+      "translation": null
+    },
+    {
+      "time": 226.83,
+      "time_str": "03:46.830",
+      "text": "企划制作统筹：何磊@MusicPlus",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "为你写诗 - 汪苏泷,周洁琼.lrc"
+}

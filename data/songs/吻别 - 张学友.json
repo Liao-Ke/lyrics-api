@@ -1,0 +1,220 @@
+{
+  "title": "吻别",
+  "title_raw": "吻别",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "吻别|张学友",
+  "writers": {
+    "lyricist": "何启弘",
+    "composer": "殷文琦",
+    "arranger": "殷文琦"
+  },
+  "lyrics": [
+    {
+      "time": 35.1,
+      "time_str": "00:35.100",
+      "text": "前尘往事成云烟消散在彼此眼前",
+      "translation": null
+    },
+    {
+      "time": 42.67,
+      "time_str": "00:42.670",
+      "text": "就连说过了再见也看不见你有些哀怨",
+      "translation": null
+    },
+    {
+      "time": 51.07,
+      "time_str": "00:51.070",
+      "text": "给我的一切你不过是在敷衍",
+      "translation": null
+    },
+    {
+      "time": 59.38,
+      "time_str": "00:59.380",
+      "text": "你笑的越无邪我就会爱你爱得更狂野",
+      "translation": null
+    },
+    {
+      "time": 65.57,
+      "time_str": "01:05.570",
+      "text": "总在刹那间有一些了解",
+      "translation": null
+    },
+    {
+      "time": 69.54,
+      "time_str": "01:09.540",
+      "text": "说过的话不可能会实现",
+      "translation": null
+    },
+    {
+      "time": 73.25,
+      "time_str": "01:13.250",
+      "text": "就在一转眼发现你的脸",
+      "translation": null
+    },
+    {
+      "time": 77.46,
+      "time_str": "01:17.460",
+      "text": "已经陌生不会再像从前",
+      "translation": null
+    },
+    {
+      "time": 81.24,
+      "time_str": "01:21.240",
+      "text": "我的世界开始下雪",
+      "translation": null
+    },
+    {
+      "time": 85.71,
+      "time_str": "01:25.710",
+      "text": "冷得让我无法多爱一天",
+      "translation": null
+    },
+    {
+      "time": 89.65,
+      "time_str": "01:29.650",
+      "text": "冷得连隐藏的遗憾都那么地明显",
+      "translation": null
+    },
+    {
+      "time": 97.11,
+      "time_str": "01:37.110",
+      "text": "我和你吻别在无人的街",
+      "translation": null
+    },
+    {
+      "time": 101.69,
+      "time_str": "01:41.690",
+      "text": "让风痴笑我不能拒绝",
+      "translation": null
+    },
+    {
+      "time": 104.96,
+      "time_str": "01:44.960",
+      "text": "我和你吻别在狂乱的夜",
+      "translation": null
+    },
+    {
+      "time": 109.69,
+      "time_str": "01:49.690",
+      "text": "我的心等著迎接伤悲",
+      "translation": null
+    },
+    {
+      "time": 152.9,
+      "time_str": "02:32.900",
+      "text": "想要给你的思念就像风筝断了线",
+      "translation": null
+    },
+    {
+      "time": 161.0,
+      "time_str": "02:41.000",
+      "text": "飞不进你的世界也温暖不了你的视线",
+      "translation": null
+    },
+    {
+      "time": 169.38,
+      "time_str": "02:49.380",
+      "text": "我已经看见一出悲剧正上演",
+      "translation": null
+    },
+    {
+      "time": 177.14,
+      "time_str": "02:57.140",
+      "text": "剧终没有喜悦我仍然躲在你的梦里面",
+      "translation": null
+    },
+    {
+      "time": 183.5,
+      "time_str": "03:03.500",
+      "text": "总在刹那间有一些了解",
+      "translation": null
+    },
+    {
+      "time": 187.54,
+      "time_str": "03:07.540",
+      "text": "说过的话不可能会实现",
+      "translation": null
+    },
+    {
+      "time": 191.33,
+      "time_str": "03:11.330",
+      "text": "就在一转眼发现你的脸",
+      "translation": null
+    },
+    {
+      "time": 195.51,
+      "time_str": "03:15.510",
+      "text": "已经陌生不会再像从前",
+      "translation": null
+    },
+    {
+      "time": 199.27,
+      "time_str": "03:19.270",
+      "text": "我的世界开始下雪",
+      "translation": null
+    },
+    {
+      "time": 203.74,
+      "time_str": "03:23.740",
+      "text": "冷得让我无法多爱一天",
+      "translation": null
+    },
+    {
+      "time": 207.66,
+      "time_str": "03:27.660",
+      "text": "冷得连隐藏的遗憾都那么地明显",
+      "translation": null
+    },
+    {
+      "time": 214.92,
+      "time_str": "03:34.920",
+      "text": "我和你吻别在无人的街",
+      "translation": null
+    },
+    {
+      "time": 219.8,
+      "time_str": "03:39.800",
+      "text": "让风痴笑我不能拒绝",
+      "translation": null
+    },
+    {
+      "time": 222.95,
+      "time_str": "03:42.950",
+      "text": "我和你吻别在狂乱的夜",
+      "translation": null
+    },
+    {
+      "time": 227.62,
+      "time_str": "03:47.620",
+      "text": "我的心等著迎接伤悲",
+      "translation": null
+    },
+    {
+      "time": 234.54,
+      "time_str": "03:54.540",
+      "text": "我和你吻别在无人的街",
+      "translation": null
+    },
+    {
+      "time": 239.43,
+      "time_str": "03:59.430",
+      "text": "让风痴笑我不能拒绝",
+      "translation": null
+    },
+    {
+      "time": 242.58,
+      "time_str": "04:02.580",
+      "text": "我和你吻别在狂乱的夜",
+      "translation": null
+    },
+    {
+      "time": 247.28,
+      "time_str": "04:07.280",
+      "text": "我的心等著迎接伤悲",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "吻别 - 张学友.lrc"
+}

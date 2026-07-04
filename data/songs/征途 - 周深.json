@@ -1,0 +1,448 @@
+{
+  "title": "征途",
+  "title_raw": "征途",
+  "version": null,
+  "artist": "周深",
+  "group_key": "征途|周深",
+  "writers": {
+    "lyricist": "Mansy杨曼希/李欣慧",
+    "composer": "溪风",
+    "arranger": "段炼"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "出品人 : 刘健/钱彤",
+      "translation": null
+    },
+    {
+      "time": 32.44,
+      "time_str": "00:32.440",
+      "text": "在 银河流转 岁月沉淀",
+      "translation": null
+    },
+    {
+      "time": 36.02,
+      "time_str": "00:36.020",
+      "text": "有 巍峨山川 屹立千年",
+      "translation": null
+    },
+    {
+      "time": 39.61,
+      "time_str": "00:39.610",
+      "text": "看 峦峰夜幕 星火点点",
+      "translation": null
+    },
+    {
+      "time": 43.25,
+      "time_str": "00:43.250",
+      "text": "轻轻点燃了信念",
+      "translation": null
+    },
+    {
+      "time": 46.94,
+      "time_str": "00:46.940",
+      "text": "沿 无尽黑夜 探索方向",
+      "translation": null
+    },
+    {
+      "time": 50.44,
+      "time_str": "00:50.440",
+      "text": "在 无际荒芜 拥抱希望",
+      "translation": null
+    },
+    {
+      "time": 54.05,
+      "time_str": "00:54.050",
+      "text": "山遥路远 道阻且长",
+      "translation": null
+    },
+    {
+      "time": 57.7,
+      "time_str": "00:57.700",
+      "text": "内心从未彷徨",
+      "translation": null
+    },
+    {
+      "time": 62.97,
+      "time_str": "01:02.970",
+      "text": "采一缕清风携手同往",
+      "translation": null
+    },
+    {
+      "time": 66.41,
+      "time_str": "01:06.410",
+      "text": "寻一道曙光照亮信仰",
+      "translation": null
+    },
+    {
+      "time": 70.18,
+      "time_str": "01:10.180",
+      "text": "无惧风浪逐光飞翔",
+      "translation": null
+    },
+    {
+      "time": 73.51,
+      "time_str": "01:13.510",
+      "text": "举目眺望 远方晴朗",
+      "translation": null
+    },
+    {
+      "time": 77.11,
+      "time_str": "01:17.110",
+      "text": "听风起潮又落勾勒沧海",
+      "translation": null
+    },
+    {
+      "time": 80.75,
+      "time_str": "01:20.750",
+      "text": "目光所至 春潮澎湃",
+      "translation": null
+    },
+    {
+      "time": 84.35,
+      "time_str": "01:24.350",
+      "text": "奔赴山与海 流淌在血脉",
+      "translation": null
+    },
+    {
+      "time": 88.43,
+      "time_str": "01:28.430",
+      "text": "征途向未来",
+      "translation": null
+    },
+    {
+      "time": 125.37,
+      "time_str": "02:05.370",
+      "text": "在 银河流转 岁月沉淀",
+      "translation": null
+    },
+    {
+      "time": 128.96,
+      "time_str": "02:08.960",
+      "text": "有 巍峨山川 屹立千年",
+      "translation": null
+    },
+    {
+      "time": 132.55,
+      "time_str": "02:12.550",
+      "text": "看 峦峰夜幕 星火点点",
+      "translation": null
+    },
+    {
+      "time": 136.15,
+      "time_str": "02:16.150",
+      "text": "轻轻点燃了信念",
+      "translation": null
+    },
+    {
+      "time": 139.8,
+      "time_str": "02:19.800",
+      "text": "沿 无尽黑夜 探索方向",
+      "translation": null
+    },
+    {
+      "time": 143.35,
+      "time_str": "02:23.350",
+      "text": "在 无际荒芜 拥抱希望",
+      "translation": null
+    },
+    {
+      "time": 147.02,
+      "time_str": "02:27.020",
+      "text": "山遥路远 道阻且长",
+      "translation": null
+    },
+    {
+      "time": 150.61,
+      "time_str": "02:30.610",
+      "text": "内心从未彷徨",
+      "translation": null
+    },
+    {
+      "time": 153.97,
+      "time_str": "02:33.970",
+      "text": "采一缕清风携手同往",
+      "translation": null
+    },
+    {
+      "time": 157.64,
+      "time_str": "02:37.640",
+      "text": "寻一道曙光照亮信仰",
+      "translation": null
+    },
+    {
+      "time": 161.19,
+      "time_str": "02:41.190",
+      "text": "无惧风浪逐光飞翔",
+      "translation": null
+    },
+    {
+      "time": 164.6,
+      "time_str": "02:44.600",
+      "text": "举目眺望 远方晴朗",
+      "translation": null
+    },
+    {
+      "time": 168.3,
+      "time_str": "02:48.300",
+      "text": "听风起潮又落勾勒沧海",
+      "translation": null
+    },
+    {
+      "time": 171.77,
+      "time_str": "02:51.770",
+      "text": "目光所至 春潮澎湃",
+      "translation": null
+    },
+    {
+      "time": 175.31,
+      "time_str": "02:55.310",
+      "text": "奔赴山与海 流淌在血脉",
+      "translation": null
+    },
+    {
+      "time": 179.41,
+      "time_str": "02:59.410",
+      "text": "征途向未来",
+      "translation": null
+    },
+    {
+      "time": 191.81,
+      "time_str": "03:11.810",
+      "text": "雄鹰搏击海浪",
+      "translation": null
+    },
+    {
+      "time": 195.34,
+      "time_str": "03:15.340",
+      "text": "山河昂扬就在前方",
+      "translation": null
+    },
+    {
+      "time": 199.13,
+      "time_str": "03:19.130",
+      "text": "那些梦 来日可望",
+      "translation": null
+    },
+    {
+      "time": 202.47,
+      "time_str": "03:22.470",
+      "text": "那些梦 闪烁着光亮",
+      "translation": null
+    },
+    {
+      "time": 211.73,
+      "time_str": "03:31.730",
+      "text": "采一缕清风 携手同往",
+      "translation": null
+    },
+    {
+      "time": 215.44,
+      "time_str": "03:35.440",
+      "text": "寻一道曙光 照亮信仰",
+      "translation": null
+    },
+    {
+      "time": 218.95,
+      "time_str": "03:38.950",
+      "text": "无惧风浪逐光飞翔",
+      "translation": null
+    },
+    {
+      "time": 222.29,
+      "time_str": "03:42.290",
+      "text": "举目眺望 远方晴朗",
+      "translation": null
+    },
+    {
+      "time": 225.96,
+      "time_str": "03:45.960",
+      "text": "听风起潮又落 勾勒沧海",
+      "translation": null
+    },
+    {
+      "time": 229.6,
+      "time_str": "03:49.600",
+      "text": "目光所至 春潮澎湃",
+      "translation": null
+    },
+    {
+      "time": 233.07,
+      "time_str": "03:53.070",
+      "text": "奔赴山与海 流淌在血脉",
+      "translation": null
+    },
+    {
+      "time": 237.18,
+      "time_str": "03:57.180",
+      "text": "征途向未来",
+      "translation": null
+    },
+    {
+      "time": 247.67,
+      "time_str": "04:07.670",
+      "text": "奔赴山与海 流淌在血脉",
+      "translation": null
+    },
+    {
+      "time": 253.25,
+      "time_str": "04:13.250",
+      "text": "征途向未来",
+      "translation": null
+    },
+    {
+      "time": 258.12,
+      "time_str": "04:18.120",
+      "text": "策划 : 周红军",
+      "translation": null
+    },
+    {
+      "time": 258.4,
+      "time_str": "04:18.400",
+      "text": "项目总监 : 何施瑶",
+      "translation": null
+    },
+    {
+      "time": 258.54,
+      "time_str": "04:18.540",
+      "text": "导演 : 刘绍鹏",
+      "translation": null
+    },
+    {
+      "time": 258.69,
+      "time_str": "04:18.690",
+      "text": "制作统筹 : 王一瑶/司徒小春",
+      "translation": null
+    },
+    {
+      "time": 258.83,
+      "time_str": "04:18.830",
+      "text": "音乐总监 : 段炼@发条响",
+      "translation": null
+    },
+    {
+      "time": 259.11,
+      "time_str": "04:19.110",
+      "text": "电吉他 : 许晓冬",
+      "translation": null
+    },
+    {
+      "time": 259.25,
+      "time_str": "04:19.250",
+      "text": "木吉他 : 吴余涛",
+      "translation": null
+    },
+    {
+      "time": 259.4,
+      "time_str": "04:19.400",
+      "text": "贝斯 : 崔文正",
+      "translation": null
+    },
+    {
+      "time": 259.68,
+      "time_str": "04:19.680",
+      "text": "鼓录音师 : 卢楠@响鼓音乐",
+      "translation": null
+    },
+    {
+      "time": 259.82,
+      "time_str": "04:19.820",
+      "text": "小号 : 高伟然",
+      "translation": null
+    },
+    {
+      "time": 259.96,
+      "time_str": "04:19.960",
+      "text": "弦乐编写 : 冒振瑶@TalentUnion",
+      "translation": null
+    },
+    {
+      "time": 260.11,
+      "time_str": "04:20.110",
+      "text": "弦乐监制 : 庞阔",
+      "translation": null
+    },
+    {
+      "time": 260.53,
+      "time_str": "04:20.530",
+      "text": "人声录音 : 耿潇微",
+      "translation": null
+    },
+    {
+      "time": 260.82,
+      "time_str": "04:20.820",
+      "text": "人声录音室 : 55TEC Studio/Beijing",
+      "translation": null
+    },
+    {
+      "time": 261.1,
+      "time_str": "04:21.100",
+      "text": "和声编唱 : 付垚",
+      "translation": null
+    },
+    {
+      "time": 261.38,
+      "time_str": "04:21.380",
+      "text": "母带 : CALBI/FALLONE@Sterling Sound（美国）全相彦（韩国）",
+      "translation": null
+    },
+    {
+      "time": 261.67,
+      "time_str": "04:21.670",
+      "text": "营销宣发 : 虎头/蒋小瑞/张珺乔/曾蓝婧",
+      "translation": null
+    },
+    {
+      "time": 261.81,
+      "time_str": "04:21.810",
+      "text": "营销顾问 : 王新臣",
+      "translation": null
+    },
+    {
+      "time": 261.95,
+      "time_str": "04:21.950",
+      "text": "宣传物料 : 张珺乔",
+      "translation": null
+    },
+    {
+      "time": 262.09,
+      "time_str": "04:22.090",
+      "text": "封面设计 : 张桢/陈婷",
+      "translation": null
+    },
+    {
+      "time": 262.24,
+      "time_str": "04:22.240",
+      "text": "平面摄影师 : 童瑞汐",
+      "translation": null
+    },
+    {
+      "time": 262.38,
+      "time_str": "04:22.380",
+      "text": "音乐版权顾问 : 王一瑶/蒋小瑞/赵莉",
+      "translation": null
+    },
+    {
+      "time": 262.52,
+      "time_str": "04:22.520",
+      "text": "联合制作团队 : HOTPLAY STUDIO",
+      "translation": null
+    },
+    {
+      "time": 262.66,
+      "time_str": "04:22.660",
+      "text": "出品方 : 新华网/北京只要平凡文化传媒有限公司",
+      "translation": null
+    },
+    {
+      "time": 262.95,
+      "time_str": "04:22.950",
+      "text": "特别鸣谢 : 周深工作室",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "征途 - 周深.lrc"
+}

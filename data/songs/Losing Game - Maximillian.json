@@ -1,0 +1,388 @@
+{
+  "title": "Losing Game",
+  "title_raw": "Losing Game",
+  "version": null,
+  "artist": "Maximillian",
+  "group_key": "losing game|maximillian",
+  "writers": {
+    "lyricist": "Maximillian",
+    "composer": "Karl-Frederik Reichhardt/Maximillian",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 6.194,
+      "time_str": "00:06.194",
+      "text": "I think I lost my mind",
+      "translation": "我想我失去了理智"
+    },
+    {
+      "time": 8.879,
+      "time_str": "00:08.879",
+      "text": "I got a feeling something's wrong",
+      "translation": "我感觉有种不对劲"
+    },
+    {
+      "time": 11.449,
+      "time_str": "00:11.449",
+      "text": "It's like I'm falling down",
+      "translation": "就像我要倒下一样"
+    },
+    {
+      "time": 14.111,
+      "time_str": "00:14.111",
+      "text": "Like the world I know is gone",
+      "translation": "就像我所知道的世界已经消失"
+    },
+    {
+      "time": 16.723,
+      "time_str": "00:16.723",
+      "text": "And I'm on my own",
+      "translation": "我自己一个人"
+    },
+    {
+      "time": 19.188,
+      "time_str": "00:19.188",
+      "text": "Yeah I'm all alone",
+      "translation": "是的，我一个人"
+    },
+    {
+      "time": 21.98,
+      "time_str": "00:21.980",
+      "text": "I must've lost my mind",
+      "translation": "我一定是疯了"
+    },
+    {
+      "time": 23.817,
+      "time_str": "00:23.817",
+      "text": "Lost my mind",
+      "translation": "失去理智"
+    },
+    {
+      "time": 25.502,
+      "time_str": "00:25.502",
+      "text": "I'm playing all or nothing",
+      "translation": "我要么全力以赴，要么一无所获"
+    },
+    {
+      "time": 27.702,
+      "time_str": "00:27.702",
+      "text": "With the devil watching",
+      "translation": "随着魔鬼的注视"
+    },
+    {
+      "time": 30.638,
+      "time_str": "00:30.638",
+      "text": "Love is a losing game",
+      "translation": "爱情是一场失败的游戏"
+    },
+    {
+      "time": 32.663,
+      "time_str": "00:32.663",
+      "text": "Deceiving",
+      "translation": "欺骗"
+    },
+    {
+      "time": 33.948,
+      "time_str": "00:33.948",
+      "text": "Believe it",
+      "translation": "相信它"
+    },
+    {
+      "time": 35.406,
+      "time_str": "00:35.406",
+      "text": "That love is a losing game",
+      "translation": "爱情是一场失败的游戏"
+    },
+    {
+      "time": 37.787,
+      "time_str": "00:37.787",
+      "text": "My heart is",
+      "translation": "我的心是"
+    },
+    {
+      "time": 39.142,
+      "time_str": "00:39.142",
+      "text": "Defeated",
+      "translation": "被打败了"
+    },
+    {
+      "time": 40.488,
+      "time_str": "00:40.488",
+      "text": "I'm trapped and I can't escape",
+      "translation": "我被困住了无法逃脱"
+    },
+    {
+      "time": 43.093,
+      "time_str": "00:43.093",
+      "text": "Oh baby",
+      "translation": "哦，宝贝"
+    },
+    {
+      "time": 44.404,
+      "time_str": "00:44.404",
+      "text": "Just tell me",
+      "translation": "就告诉我嘛"
+    },
+    {
+      "time": 45.763,
+      "time_str": "00:45.763",
+      "text": "What do you want from me?",
+      "translation": "你想从我这里得到什么？"
+    },
+    {
+      "time": 48.257,
+      "time_str": "00:48.257",
+      "text": "Yeah what can I even say",
+      "translation": "是啊，我还能说什么呢"
+    },
+    {
+      "time": 51.004,
+      "time_str": "00:51.004",
+      "text": "This love is a losing game",
+      "translation": "这份爱是一场失败的游戏"
+    },
+    {
+      "time": 64.472,
+      "time_str": "01:04.472",
+      "text": "I'm throwing loaded dice",
+      "translation": "我正在掷骰子"
+    },
+    {
+      "time": 66.829,
+      "time_str": "01:06.829",
+      "text": "Playing dirty 'cause I wanna win",
+      "translation": "耍诈是因为我想赢"
+    },
+    {
+      "time": 69.551,
+      "time_str": "01:09.551",
+      "text": "Something about your eyes",
+      "translation": "关于你的眼睛的东西"
+    },
+    {
+      "time": 72.077,
+      "time_str": "01:12.077",
+      "text": "It got me betting on my every spin",
+      "translation": "它让我押注我的每一次旋转"
+    },
+    {
+      "time": 74.611,
+      "time_str": "01:14.611",
+      "text": "Will you keep me close",
+      "translation": "你会让我靠近吗"
+    },
+    {
+      "time": 77.204,
+      "time_str": "01:17.204",
+      "text": "Never let me go",
+      "translation": "永远别让我走"
+    },
+    {
+      "time": 79.964,
+      "time_str": "01:19.964",
+      "text": "And never tell me lies",
+      "translation": "永远不要告诉我谎言"
+    },
+    {
+      "time": 81.764,
+      "time_str": "01:21.764",
+      "text": "Tell me lies",
+      "translation": "告诉我谎言"
+    },
+    {
+      "time": 83.254,
+      "time_str": "01:23.254",
+      "text": "I'm playing all or nothing",
+      "translation": "我要么全力以赴，要么一无所获"
+    },
+    {
+      "time": 85.666,
+      "time_str": "01:25.666",
+      "text": "With the devil watching",
+      "translation": "随着魔鬼的注视"
+    },
+    {
+      "time": 88.577,
+      "time_str": "01:28.577",
+      "text": "Love is a losing game",
+      "translation": "爱情是一场失败的游戏"
+    },
+    {
+      "time": 90.567,
+      "time_str": "01:30.567",
+      "text": "Deceiving",
+      "translation": "欺骗"
+    },
+    {
+      "time": 91.838,
+      "time_str": "01:31.838",
+      "text": "Believe it",
+      "translation": "相信它"
+    },
+    {
+      "time": 93.377,
+      "time_str": "01:33.377",
+      "text": "That love is a losing game",
+      "translation": "爱情是一场失败的游戏"
+    },
+    {
+      "time": 95.65,
+      "time_str": "01:35.650",
+      "text": "My heart is",
+      "translation": "我的心是"
+    },
+    {
+      "time": 97.131,
+      "time_str": "01:37.131",
+      "text": "Defeated",
+      "translation": "被打败了"
+    },
+    {
+      "time": 98.571,
+      "time_str": "01:38.571",
+      "text": "I'm trapped and I can't escape",
+      "translation": "我被困住了无法逃脱"
+    },
+    {
+      "time": 101.072,
+      "time_str": "01:41.072",
+      "text": "Oh baby",
+      "translation": "哦，宝贝"
+    },
+    {
+      "time": 102.404,
+      "time_str": "01:42.404",
+      "text": "Just tell me",
+      "translation": "就告诉我嘛"
+    },
+    {
+      "time": 103.799,
+      "time_str": "01:43.799",
+      "text": "What do you want from me?",
+      "translation": "你想从我这里得到什么？"
+    },
+    {
+      "time": 106.346,
+      "time_str": "01:46.346",
+      "text": "Yeah what can I even say",
+      "translation": "是啊，我还能说什么呢"
+    },
+    {
+      "time": 109.114,
+      "time_str": "01:49.114",
+      "text": "This love is a losing game",
+      "translation": "这份爱是一场失败的游戏"
+    },
+    {
+      "time": 121.393,
+      "time_str": "02:01.393",
+      "text": "Take my money",
+      "translation": "拿走我的钱"
+    },
+    {
+      "time": 122.591,
+      "time_str": "02:02.591",
+      "text": "Waste my nights",
+      "translation": "浪费我的夜晚"
+    },
+    {
+      "time": 123.702,
+      "time_str": "02:03.702",
+      "text": "Thinking 'bout her all the time",
+      "translation": "一直想着她"
+    },
+    {
+      "time": 126.538,
+      "time_str": "02:06.538",
+      "text": "Devil by my shoulder side",
+      "translation": "魔鬼在我肩边"
+    },
+    {
+      "time": 129.179,
+      "time_str": "02:09.179",
+      "text": "Here let me know",
+      "translation": "在这里让我知道"
+    },
+    {
+      "time": 132.124,
+      "time_str": "02:12.124",
+      "text": "Love is a losing game",
+      "translation": "爱情是一场失败的游戏"
+    },
+    {
+      "time": 134.097,
+      "time_str": "02:14.097",
+      "text": "Deceiving",
+      "translation": "欺骗"
+    },
+    {
+      "time": 135.471,
+      "time_str": "02:15.471",
+      "text": "Believe it",
+      "translation": "相信它"
+    },
+    {
+      "time": 136.966,
+      "time_str": "02:16.966",
+      "text": "That love is a losing game",
+      "translation": "爱情是一场失败的游戏"
+    },
+    {
+      "time": 139.271,
+      "time_str": "02:19.271",
+      "text": "My heart is",
+      "translation": "我的心是"
+    },
+    {
+      "time": 140.631,
+      "time_str": "02:20.631",
+      "text": "Defeated",
+      "translation": "被打败了"
+    },
+    {
+      "time": 142.123,
+      "time_str": "02:22.123",
+      "text": "I'm trapped and I can't escape",
+      "translation": "我被困住了无法逃脱"
+    },
+    {
+      "time": 144.522,
+      "time_str": "02:24.522",
+      "text": "Oh baby",
+      "translation": "哦，宝贝"
+    },
+    {
+      "time": 145.864,
+      "time_str": "02:25.864",
+      "text": "Just tell me",
+      "translation": "就告诉我嘛"
+    },
+    {
+      "time": 147.531,
+      "time_str": "02:27.531",
+      "text": "What do you want from me?",
+      "translation": "你想从我这里得到什么？"
+    },
+    {
+      "time": 149.903,
+      "time_str": "02:29.903",
+      "text": "Yeah what can I even say",
+      "translation": "是啊，我还能说什么呢"
+    },
+    {
+      "time": 152.563,
+      "time_str": "02:32.563",
+      "text": "This love is a losing game",
+      "translation": "这份爱是一场失败的游戏"
+    },
+    {
+      "time": 158.119,
+      "time_str": "02:38.119",
+      "text": "Love is a losing game",
+      "translation": "爱情是一场失败的游戏"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Losing Game - Maximillian.lrc"
+}

@@ -1,0 +1,232 @@
+{
+  "title": "北京东路的日子",
+  "title_raw": "北京东路的日子",
+  "version": null,
+  "artist": "汪源,刘千楚,徐逸昊,鲁天舒,姜玮珉,胡梦原,张鎏依,梁竞元,游彧涵,金书援,许一璇,张夙西",
+  "group_key": "北京东路的日子|汪源,刘千楚,徐逸昊,鲁天舒,姜玮珉,胡梦原,张鎏依,梁竞元,游彧涵,金书援,许一璇,张夙西",
+  "writers": {
+    "lyricist": "汪源",
+    "composer": "汪源",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.25,
+      "time_str": "00:03.250",
+      "text": "开始的开始 我们都是孩子",
+      "translation": null
+    },
+    {
+      "time": 5.65,
+      "time_str": "00:05.650",
+      "text": "最后的最后 渴望变成天使",
+      "translation": null
+    },
+    {
+      "time": 10.69,
+      "time_str": "00:10.690",
+      "text": "歌谣的歌谣 藏着童话的影子",
+      "translation": null
+    },
+    {
+      "time": 15.43,
+      "time_str": "00:15.430",
+      "text": "孩子的孩子... 该要飞往哪去",
+      "translation": null
+    },
+    {
+      "time": 23.1,
+      "time_str": "00:23.100",
+      "text": "开始的开始 我们都是孩子",
+      "translation": null
+    },
+    {
+      "time": 27.69,
+      "time_str": "00:27.690",
+      "text": "最后的最后 渴望变成天使",
+      "translation": null
+    },
+    {
+      "time": 32.67,
+      "time_str": "00:32.670",
+      "text": "歌谣的歌谣藏着童话的影子",
+      "translation": null
+    },
+    {
+      "time": 37.8,
+      "time_str": "00:37.800",
+      "text": "孩子的孩子 该要飞往哪去",
+      "translation": null
+    },
+    {
+      "time": 69.27,
+      "time_str": "01:09.270",
+      "text": "当某天 你若听见 有人在说那些奇怪的语言",
+      "translation": null
+    },
+    {
+      "time": 79.82,
+      "time_str": "01:19.820",
+      "text": "当某天 你若看见 满街的本子还是学乐先",
+      "translation": null
+    },
+    {
+      "time": 90.45,
+      "time_str": "01:30.450",
+      "text": "当某天 再唱着 这首歌会是在哪一个角落",
+      "translation": null
+    },
+    {
+      "time": 100.85,
+      "time_str": "01:40.850",
+      "text": "当某天~ 再踏进~~",
+      "translation": null
+    },
+    {
+      "time": 105.85,
+      "time_str": "01:45.850",
+      "text": "这校园会是哪片落叶 掉进回忆的流年",
+      "translation": null
+    },
+    {
+      "time": 113.83,
+      "time_str": "01:53.830",
+      "text": "表示从 一楼到四楼的距离 原来只有三年",
+      "translation": null
+    },
+    {
+      "time": 120.5,
+      "time_str": "02:00.500",
+      "text": "表示门卫叔叔食堂阿姨 很有夫妻脸",
+      "translation": null
+    },
+    {
+      "time": 126.02,
+      "time_str": "02:06.020",
+      "text": "各种季风洋流都搞不懂 还有新视野",
+      "translation": null
+    },
+    {
+      "time": 131.249,
+      "time_str": "02:11.249",
+      "text": "各种曾经狂热的海报照片 卖几块几毛钱",
+      "translation": null
+    },
+    {
+      "time": 136.6,
+      "time_str": "02:16.600",
+      "text": "我们穿上西装假装成长 胶片挥霍习惯的笑脸",
+      "translation": null
+    },
+    {
+      "time": 142.01,
+      "time_str": "02:22.010",
+      "text": "悲伤一发 寂寞唏嘘 痛的初体验",
+      "translation": null
+    },
+    {
+      "time": 146.91,
+      "time_str": "02:26.910",
+      "text": "毕业和成年的字眼 格外扣人心弦",
+      "translation": null
+    },
+    {
+      "time": 152.3,
+      "time_str": "02:32.300",
+      "text": "各种莫名的感伤 只说句 嘻嘻一些",
+      "translation": null
+    },
+    {
+      "time": 184.11,
+      "time_str": "03:04.110",
+      "text": "十年后 你若听见 有人在说这些奇怪的语言",
+      "translation": null
+    },
+    {
+      "time": 194.9,
+      "time_str": "03:14.900",
+      "text": "十年后 你若看见 满街的本子还是学乐先",
+      "translation": null
+    },
+    {
+      "time": 208.14,
+      "time_str": "03:28.140",
+      "text": "表示从 一楼到四楼的距离 原来只有三年",
+      "translation": null
+    },
+    {
+      "time": 214.28,
+      "time_str": "03:34.280",
+      "text": "表示门卫叔叔食堂阿姨 很有夫妻脸",
+      "translation": null
+    },
+    {
+      "time": 219.44,
+      "time_str": "03:39.440",
+      "text": "各种季风洋流都搞不懂 还有新视野",
+      "translation": null
+    },
+    {
+      "time": 224.479,
+      "time_str": "03:44.479",
+      "text": "各种曾经狂热的海报照片 卖几块几毛钱",
+      "translation": null
+    },
+    {
+      "time": 230.14,
+      "time_str": "03:50.140",
+      "text": "我们即将分别 独自浪在 中国外国不同地点",
+      "translation": null
+    },
+    {
+      "time": 235.18,
+      "time_str": "03:55.180",
+      "text": "瞥见白色校服 还会以为是我认识的谁",
+      "translation": null
+    },
+    {
+      "time": 240.47,
+      "time_str": "04:00.470",
+      "text": "顾萍凡哥乌龟大师 方丈我爱你",
+      "translation": null
+    },
+    {
+      "time": 245.34,
+      "time_str": "04:05.340",
+      "text": "也许谁都忘记谁的名字 但记得",
+      "translation": null
+    },
+    {
+      "time": 249.9,
+      "time_str": "04:09.900",
+      "text": "北京东路的日子",
+      "translation": null
+    },
+    {
+      "time": 254.55,
+      "time_str": "04:14.550",
+      "text": "开始的开始 我们都是孩子",
+      "translation": null
+    },
+    {
+      "time": 259.77,
+      "time_str": "04:19.770",
+      "text": "最后的最后 渴望变成天使",
+      "translation": null
+    },
+    {
+      "time": 264.89,
+      "time_str": "04:24.890",
+      "text": "歌谣的歌谣 藏着童话的影子",
+      "translation": null
+    },
+    {
+      "time": 269.83,
+      "time_str": "04:29.830",
+      "text": "孩子的孩子 该要飞往哪去",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "北京东路的日子 - 汪源,刘千楚,徐逸昊,鲁天舒,姜玮珉,胡梦原,张鎏依,梁竞元,游彧涵,金书援,许一璇,张夙西.lrc"
+}

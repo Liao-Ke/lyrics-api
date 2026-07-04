@@ -1,0 +1,250 @@
+{
+  "title": "恩赐",
+  "title_raw": "恩赐",
+  "version": null,
+  "artist": "乐游记乐队",
+  "group_key": "恩赐|乐游记乐队",
+  "writers": {
+    "lyricist": "SAN",
+    "composer": "严彩建",
+    "arranger": "乐游记乐队"
+  },
+  "lyrics": [
+    {
+      "time": 2.445,
+      "time_str": "00:02.445",
+      "text": "恩赐",
+      "translation": null
+    },
+    {
+      "time": 15.946,
+      "time_str": "00:15.946",
+      "text": "录音、混音：陈绍楠",
+      "translation": null
+    },
+    {
+      "time": 18.944,
+      "time_str": "00:18.944",
+      "text": "车厢里再留下回忆",
+      "translation": null
+    },
+    {
+      "time": 23.446,
+      "time_str": "00:23.446",
+      "text": "偷偷看你扮诈不知",
+      "translation": null
+    },
+    {
+      "time": 27.442,
+      "time_str": "00:27.442",
+      "text": "幻想与你再度旅行",
+      "translation": null
+    },
+    {
+      "time": 31.196,
+      "time_str": "00:31.196",
+      "text": "沿路风景美丽画致",
+      "translation": null
+    },
+    {
+      "time": 35.455,
+      "time_str": "00:35.455",
+      "text": "也许荆棘路途经已",
+      "translation": null
+    },
+    {
+      "time": 39.198,
+      "time_str": "00:39.198",
+      "text": "相信世界定有天意",
+      "translation": null
+    },
+    {
+      "time": 43.457,
+      "time_str": "00:43.457",
+      "text": "春风化雨世间讽刺",
+      "translation": null
+    },
+    {
+      "time": 47.192,
+      "time_str": "00:47.192",
+      "text": "再怎么 都感动恩赐",
+      "translation": null
+    },
+    {
+      "time": 54.951,
+      "time_str": "00:54.951",
+      "text": "也许天天生活常变",
+      "translation": null
+    },
+    {
+      "time": 59.452,
+      "time_str": "00:59.452",
+      "text": "亲亲爱你胜过万语千言",
+      "translation": null
+    },
+    {
+      "time": 63.449,
+      "time_str": "01:03.449",
+      "text": "年月逝去都不紧要",
+      "translation": null
+    },
+    {
+      "time": 67.454,
+      "time_str": "01:07.454",
+      "text": "常伴开心好运不止",
+      "translation": null
+    },
+    {
+      "time": 71.449,
+      "time_str": "01:11.449",
+      "text": "地冧天崩岁月常变",
+      "translation": null
+    },
+    {
+      "time": 75.195,
+      "time_str": "01:15.195",
+      "text": "星空斗转仍永久保存",
+      "translation": null
+    },
+    {
+      "time": 79.2,
+      "time_str": "01:19.200",
+      "text": "期待与你再续情缘",
+      "translation": null
+    },
+    {
+      "time": 83.449,
+      "time_str": "01:23.449",
+      "text": "常伴你 都感动恩赐",
+      "translation": null
+    },
+    {
+      "time": 99.194,
+      "time_str": "01:39.194",
+      "text": "也许荆棘路途经已",
+      "translation": null
+    },
+    {
+      "time": 103.453,
+      "time_str": "01:43.453",
+      "text": "相信世界定有天意",
+      "translation": null
+    },
+    {
+      "time": 107.448,
+      "time_str": "01:47.448",
+      "text": "春风化雨世间讽刺",
+      "translation": null
+    },
+    {
+      "time": 111.456,
+      "time_str": "01:51.456",
+      "text": "再怎么 都感动恩赐",
+      "translation": null
+    },
+    {
+      "time": 119.452,
+      "time_str": "01:59.452",
+      "text": "也许天天生活常变",
+      "translation": null
+    },
+    {
+      "time": 123.203,
+      "time_str": "02:03.203",
+      "text": "亲亲爱你胜过万语千言",
+      "translation": null
+    },
+    {
+      "time": 127.453,
+      "time_str": "02:07.453",
+      "text": "年月逝去都不紧要",
+      "translation": null
+    },
+    {
+      "time": 131.448,
+      "time_str": "02:11.448",
+      "text": "常伴开心好运不止",
+      "translation": null
+    },
+    {
+      "time": 135.454,
+      "time_str": "02:15.454",
+      "text": "地冧天崩岁月常变",
+      "translation": null
+    },
+    {
+      "time": 139.441,
+      "time_str": "02:19.441",
+      "text": "星空斗转仍永久保存",
+      "translation": null
+    },
+    {
+      "time": 143.448,
+      "time_str": "02:23.448",
+      "text": "期待与你再续情缘",
+      "translation": null
+    },
+    {
+      "time": 151.636,
+      "time_str": "02:31.636",
+      "text": "常伴你 都感动恩赐",
+      "translation": null
+    },
+    {
+      "time": 153.141,
+      "time_str": "02:33.141",
+      "text": "SOLO",
+      "translation": null
+    },
+    {
+      "time": 171.137,
+      "time_str": "02:51.137",
+      "text": "也许天天生活常变",
+      "translation": null
+    },
+    {
+      "time": 175.641,
+      "time_str": "02:55.641",
+      "text": "亲亲爱你胜过万语千言",
+      "translation": null
+    },
+    {
+      "time": 179.392,
+      "time_str": "02:59.392",
+      "text": "年月逝去都不紧要",
+      "translation": null
+    },
+    {
+      "time": 183.384,
+      "time_str": "03:03.384",
+      "text": "常伴开心好运不止",
+      "translation": null
+    },
+    {
+      "time": 187.393,
+      "time_str": "03:07.393",
+      "text": "地冧天崩岁月常变",
+      "translation": null
+    },
+    {
+      "time": 191.388,
+      "time_str": "03:11.388",
+      "text": "星空斗转仍永久保存",
+      "translation": null
+    },
+    {
+      "time": 195.639,
+      "time_str": "03:15.639",
+      "text": "期待与你再续情缘",
+      "translation": null
+    },
+    {
+      "time": 199.383,
+      "time_str": "03:19.383",
+      "text": "常伴你 都感动恩赐",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "恩赐 - 乐游记乐队.lrc"
+}

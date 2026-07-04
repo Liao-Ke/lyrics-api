@@ -1,0 +1,238 @@
+{
+  "title": "房间",
+  "title_raw": "房间",
+  "version": null,
+  "artist": "刘瑞琦",
+  "group_key": "房间|刘瑞琦",
+  "writers": {
+    "lyricist": "刘瑞琦",
+    "composer": "刘瑞琦",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.55,
+      "time_str": "00:18.550",
+      "text": "要用多少个晴天 交换多少张相片",
+      "translation": null
+    },
+    {
+      "time": 25.99,
+      "time_str": "00:25.990",
+      "text": "还记得锁在抽屉里面的滴滴点点",
+      "translation": null
+    },
+    {
+      "time": 33.24,
+      "time_str": "00:33.240",
+      "text": "小而温馨的空间 因为有你在身边",
+      "translation": null
+    },
+    {
+      "time": 40.67,
+      "time_str": "00:40.670",
+      "text": "就不再感觉到害怕  大步走向前",
+      "translation": null
+    },
+    {
+      "time": 47.05,
+      "time_str": "00:47.050",
+      "text": "一天一月一起一年  像不像永远",
+      "translation": null
+    },
+    {
+      "time": 53.36,
+      "time_str": "00:53.360",
+      "text": "我们在同一个屋檐下",
+      "translation": null
+    },
+    {
+      "time": 56.55,
+      "time_str": "00:56.550",
+      "text": "写着属于我们  未来的诗篇",
+      "translation": null
+    },
+    {
+      "time": 64.67,
+      "time_str": "01:04.670",
+      "text": "在这温暖的房间",
+      "translation": null
+    },
+    {
+      "time": 68.42,
+      "time_str": "01:08.420",
+      "text": "我于是慢慢发现",
+      "translation": null
+    },
+    {
+      "time": 72.74,
+      "time_str": "01:12.740",
+      "text": "相聚其实就是一种缘",
+      "translation": null
+    },
+    {
+      "time": 76.69,
+      "time_str": "01:16.690",
+      "text": "多值得纪念",
+      "translation": null
+    },
+    {
+      "time": 79.32,
+      "time_str": "01:19.320",
+      "text": "在这温暖的房间",
+      "translation": null
+    },
+    {
+      "time": 83.63,
+      "time_str": "01:23.630",
+      "text": "我们都笑得很甜",
+      "translation": null
+    },
+    {
+      "time": 87.32,
+      "time_str": "01:27.320",
+      "text": "一切  停格在一瞬间",
+      "translation": null
+    },
+    {
+      "time": 125.58,
+      "time_str": "02:05.580",
+      "text": "要用多少个晴天  交换多少张相片",
+      "translation": null
+    },
+    {
+      "time": 133.02,
+      "time_str": "02:13.020",
+      "text": "还记得锁在抽屉里面的  滴滴点点",
+      "translation": null
+    },
+    {
+      "time": 140.33,
+      "time_str": "02:20.330",
+      "text": "小而温馨的空间  因为有你在身边",
+      "translation": null
+    },
+    {
+      "time": 147.77,
+      "time_str": "02:27.770",
+      "text": "就不再感觉到害怕  大步走向前",
+      "translation": null
+    },
+    {
+      "time": 154.16,
+      "time_str": "02:34.160",
+      "text": "一天一月一起一年  像不像永远",
+      "translation": null
+    },
+    {
+      "time": 160.48,
+      "time_str": "02:40.480",
+      "text": "我们在同一个屋檐下",
+      "translation": null
+    },
+    {
+      "time": 163.47,
+      "time_str": "02:43.470",
+      "text": "写着属于我们  未来的诗篇",
+      "translation": null
+    },
+    {
+      "time": 171.9,
+      "time_str": "02:51.900",
+      "text": "在这温暖的房间",
+      "translation": null
+    },
+    {
+      "time": 175.53,
+      "time_str": "02:55.530",
+      "text": "我于是慢慢发现",
+      "translation": null
+    },
+    {
+      "time": 179.84,
+      "time_str": "02:59.840",
+      "text": "相聚其实就是一种缘",
+      "translation": null
+    },
+    {
+      "time": 183.72,
+      "time_str": "03:03.720",
+      "text": "多值得纪念",
+      "translation": null
+    },
+    {
+      "time": 186.47,
+      "time_str": "03:06.470",
+      "text": "在这温暖的房间",
+      "translation": null
+    },
+    {
+      "time": 190.65,
+      "time_str": "03:10.650",
+      "text": "我们都笑得很甜",
+      "translation": null
+    },
+    {
+      "time": 194.47,
+      "time_str": "03:14.470",
+      "text": "一切  停格在一瞬间",
+      "translation": null
+    },
+    {
+      "time": 203.34,
+      "time_str": "03:23.340",
+      "text": "停在记忆里边最美的画面",
+      "translation": null
+    },
+    {
+      "time": 210.59,
+      "time_str": "03:30.590",
+      "text": "因为有你在的每天",
+      "translation": null
+    },
+    {
+      "time": 218.03,
+      "time_str": "03:38.030",
+      "text": "在这温暖的房间",
+      "translation": null
+    },
+    {
+      "time": 221.65,
+      "time_str": "03:41.650",
+      "text": "我于是慢慢发现",
+      "translation": null
+    },
+    {
+      "time": 226.16,
+      "time_str": "03:46.160",
+      "text": "相聚其实就是一种缘",
+      "translation": null
+    },
+    {
+      "time": 229.91,
+      "time_str": "03:49.910",
+      "text": "多值得纪念",
+      "translation": null
+    },
+    {
+      "time": 232.66,
+      "time_str": "03:52.660",
+      "text": "在这温暖的房间",
+      "translation": null
+    },
+    {
+      "time": 236.84,
+      "time_str": "03:56.840",
+      "text": "我们都笑得很甜",
+      "translation": null
+    },
+    {
+      "time": 240.53,
+      "time_str": "04:00.530",
+      "text": "一切  停格在一瞬间",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "房间 - 刘瑞琦.lrc"
+}

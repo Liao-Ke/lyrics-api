@@ -1,0 +1,532 @@
+{
+  "title": "中国话",
+  "title_raw": "中国话",
+  "version": null,
+  "artist": "S.H.E",
+  "group_key": "中国话|s.h.e",
+  "writers": {
+    "lyricist": "郑楠/施人诚",
+    "composer": "郑楠",
+    "arranger": "郑楠"
+  },
+  "lyrics": [
+    {
+      "time": 0.52,
+      "time_str": "00:00.520",
+      "text": "扁担宽 板凳长",
+      "translation": null
+    },
+    {
+      "time": 2.86,
+      "time_str": "00:02.860",
+      "text": "扁担想绑在板凳上",
+      "translation": null
+    },
+    {
+      "time": 5.15,
+      "time_str": "00:05.150",
+      "text": "扁担宽 板凳长",
+      "translation": null
+    },
+    {
+      "time": 7.57,
+      "time_str": "00:07.570",
+      "text": "扁担想绑在板凳上",
+      "translation": null
+    },
+    {
+      "time": 10.24,
+      "time_str": "00:10.240",
+      "text": "伦敦玛莉莲",
+      "translation": null
+    },
+    {
+      "time": 11.13,
+      "time_str": "00:11.130",
+      "text": "买了件旗袍送妈妈",
+      "translation": null
+    },
+    {
+      "time": 12.68,
+      "time_str": "00:12.680",
+      "text": "莫斯科的夫司基",
+      "translation": null
+    },
+    {
+      "time": 13.8,
+      "time_str": "00:13.800",
+      "text": "爱上牛肉面疙瘩",
+      "translation": null
+    },
+    {
+      "time": 15.13,
+      "time_str": "00:15.130",
+      "text": "各种颜色的皮肤",
+      "translation": null
+    },
+    {
+      "time": 16.33,
+      "time_str": "00:16.330",
+      "text": "各种颜色的头发",
+      "translation": null
+    },
+    {
+      "time": 17.46,
+      "time_str": "00:17.460",
+      "text": "嘴里念的说的",
+      "translation": null
+    },
+    {
+      "time": 18.46,
+      "time_str": "00:18.460",
+      "text": "开始流行中国话",
+      "translation": null
+    },
+    {
+      "time": 19.8,
+      "time_str": "00:19.800",
+      "text": "多少年我们苦练",
+      "translation": null
+    },
+    {
+      "time": 20.9,
+      "time_str": "00:20.900",
+      "text": "英文发音和文法",
+      "translation": null
+    },
+    {
+      "time": 22.22,
+      "time_str": "00:22.220",
+      "text": "这几年换他们卷着舌头学",
+      "translation": null
+    },
+    {
+      "time": 23.88,
+      "time_str": "00:23.880",
+      "text": "平上去入的变化",
+      "translation": null
+    },
+    {
+      "time": 25.3,
+      "time_str": "00:25.300",
+      "text": "平平仄仄平平仄",
+      "translation": null
+    },
+    {
+      "time": 26.45,
+      "time_str": "00:26.450",
+      "text": "好聪明的中国人",
+      "translation": null
+    },
+    {
+      "time": 27.76,
+      "time_str": "00:27.760",
+      "text": "好优美的中国话",
+      "translation": null
+    },
+    {
+      "time": 29.01,
+      "time_str": "00:29.010",
+      "text": "扁担宽 板凳长",
+      "translation": null
+    },
+    {
+      "time": 30.28,
+      "time_str": "00:30.280",
+      "text": "扁担想绑在板凳上",
+      "translation": null
+    },
+    {
+      "time": 31.51,
+      "time_str": "00:31.510",
+      "text": "板凳不让扁担绑在板凳上",
+      "translation": null
+    },
+    {
+      "time": 33.3,
+      "time_str": "00:33.300",
+      "text": "扁担偏要绑在板凳上",
+      "translation": null
+    },
+    {
+      "time": 34.83,
+      "time_str": "00:34.830",
+      "text": "板凳偏偏不让扁担绑在板凳上",
+      "translation": null
+    },
+    {
+      "time": 36.87,
+      "time_str": "00:36.870",
+      "text": "到底扁担宽还是板凳长",
+      "translation": null
+    },
+    {
+      "time": 38.67,
+      "time_str": "00:38.670",
+      "text": "哥哥弟弟坡前坐",
+      "translation": null
+    },
+    {
+      "time": 39.92,
+      "time_str": "00:39.920",
+      "text": "坡上卧着一只鹅",
+      "translation": null
+    },
+    {
+      "time": 41.1,
+      "time_str": "00:41.100",
+      "text": "坡下流着一条河",
+      "translation": null
+    },
+    {
+      "time": 42.42,
+      "time_str": "00:42.420",
+      "text": "哥哥说宽宽的河",
+      "translation": null
+    },
+    {
+      "time": 43.59,
+      "time_str": "00:43.590",
+      "text": "弟弟说白白的鹅",
+      "translation": null
+    },
+    {
+      "time": 44.82,
+      "time_str": "00:44.820",
+      "text": "鹅要过河 河要渡鹅",
+      "translation": null
+    },
+    {
+      "time": 46.39,
+      "time_str": "00:46.390",
+      "text": "不知是那鹅过河 还是河渡鹅",
+      "translation": null
+    },
+    {
+      "time": 48.19,
+      "time_str": "00:48.190",
+      "text": "全世界都在学中国话",
+      "translation": null
+    },
+    {
+      "time": 52.56,
+      "time_str": "00:52.560",
+      "text": "孔夫子的话",
+      "translation": null
+    },
+    {
+      "time": 55.25,
+      "time_str": "00:55.250",
+      "text": "越来越国际化",
+      "translation": null
+    },
+    {
+      "time": 57.27,
+      "time_str": "00:57.270",
+      "text": "全世界都在讲中国话",
+      "translation": null
+    },
+    {
+      "time": 62.16,
+      "time_str": "01:02.160",
+      "text": "我们说的话",
+      "translation": null
+    },
+    {
+      "time": 64.81,
+      "time_str": "01:04.810",
+      "text": "让世界都认真听话",
+      "translation": null
+    },
+    {
+      "time": 77.09,
+      "time_str": "01:17.090",
+      "text": "纽约苏珊娜",
+      "translation": null
+    },
+    {
+      "time": 78.42,
+      "time_str": "01:18.420",
+      "text": "开了间禅风 Lounge Bar",
+      "translation": null
+    },
+    {
+      "time": 79.8,
+      "time_str": "01:19.800",
+      "text": "柏林来的沃夫冈",
+      "translation": null
+    },
+    {
+      "time": 81.02,
+      "time_str": "01:21.020",
+      "text": "拿胡琴配着电吉他",
+      "translation": null
+    },
+    {
+      "time": 82.25,
+      "time_str": "01:22.250",
+      "text": "各种颜色的皮肤",
+      "translation": null
+    },
+    {
+      "time": 83.53,
+      "time_str": "01:23.530",
+      "text": "各种颜色的头发",
+      "translation": null
+    },
+    {
+      "time": 84.78,
+      "time_str": "01:24.780",
+      "text": "嘴里念的说的",
+      "translation": null
+    },
+    {
+      "time": 85.73,
+      "time_str": "01:25.730",
+      "text": "开始流行中国话",
+      "translation": null
+    },
+    {
+      "time": 87.02,
+      "time_str": "01:27.020",
+      "text": "多少年我们苦练",
+      "translation": null
+    },
+    {
+      "time": 88.07,
+      "time_str": "01:28.070",
+      "text": "英文发音和文法",
+      "translation": null
+    },
+    {
+      "time": 89.46,
+      "time_str": "01:29.460",
+      "text": "这几年换他们卷着舌头学",
+      "translation": null
+    },
+    {
+      "time": 91.02,
+      "time_str": "01:31.020",
+      "text": "平上去入的变化",
+      "translation": null
+    },
+    {
+      "time": 92.51,
+      "time_str": "01:32.510",
+      "text": "仄仄平平仄仄平",
+      "translation": null
+    },
+    {
+      "time": 93.84,
+      "time_str": "01:33.840",
+      "text": "好聪明的中国人",
+      "translation": null
+    },
+    {
+      "time": 94.94,
+      "time_str": "01:34.940",
+      "text": "好优美的中国话",
+      "translation": null
+    },
+    {
+      "time": 96.31,
+      "time_str": "01:36.310",
+      "text": "有个小孩叫小杜",
+      "translation": null
+    },
+    {
+      "time": 97.59,
+      "time_str": "01:37.590",
+      "text": "上街打醋又买布",
+      "translation": null
+    },
+    {
+      "time": 98.86,
+      "time_str": "01:38.860",
+      "text": "买了布 打了醋",
+      "translation": null
+    },
+    {
+      "time": 100.03,
+      "time_str": "01:40.030",
+      "text": "回头看见鹰抓兔",
+      "translation": null
+    },
+    {
+      "time": 101.24,
+      "time_str": "01:41.240",
+      "text": "放下布 搁下醋",
+      "translation": null
+    },
+    {
+      "time": 102.42,
+      "time_str": "01:42.420",
+      "text": "上前去追鹰和兔",
+      "translation": null
+    },
+    {
+      "time": 103.51,
+      "time_str": "01:43.510",
+      "text": "飞了鹰 跑了兔",
+      "translation": null
+    },
+    {
+      "time": 104.8,
+      "time_str": "01:44.800",
+      "text": "洒了醋 湿了布",
+      "translation": null
+    },
+    {
+      "time": 106.01,
+      "time_str": "01:46.010",
+      "text": "嘴说腿 腿说嘴",
+      "translation": null
+    },
+    {
+      "time": 107.25,
+      "time_str": "01:47.250",
+      "text": "嘴说腿 爱跑腿",
+      "translation": null
+    },
+    {
+      "time": 108.46,
+      "time_str": "01:48.460",
+      "text": "腿说嘴 爱卖嘴",
+      "translation": null
+    },
+    {
+      "time": 109.6,
+      "time_str": "01:49.600",
+      "text": "光动嘴 不动腿",
+      "translation": null
+    },
+    {
+      "time": 110.86,
+      "time_str": "01:50.860",
+      "text": "光动腿 不动嘴",
+      "translation": null
+    },
+    {
+      "time": 112.0,
+      "time_str": "01:52.000",
+      "text": "不如不长腿和嘴",
+      "translation": null
+    },
+    {
+      "time": 113.22,
+      "time_str": "01:53.220",
+      "text": "到底是那嘴说腿 还是腿说嘴",
+      "translation": null
+    },
+    {
+      "time": 115.21,
+      "time_str": "01:55.210",
+      "text": "全世界都在学中国话",
+      "translation": null
+    },
+    {
+      "time": 119.74,
+      "time_str": "01:59.740",
+      "text": "孔夫子的话",
+      "translation": null
+    },
+    {
+      "time": 122.54,
+      "time_str": "02:02.540",
+      "text": "越来越国际化",
+      "translation": null
+    },
+    {
+      "time": 124.5,
+      "time_str": "02:04.500",
+      "text": "全世界都在讲中国话",
+      "translation": null
+    },
+    {
+      "time": 129.34,
+      "time_str": "02:09.340",
+      "text": "我们说的话",
+      "translation": null
+    },
+    {
+      "time": 132.06,
+      "time_str": "02:12.060",
+      "text": "让世界都认真听话",
+      "translation": null
+    },
+    {
+      "time": 143.66,
+      "time_str": "02:23.660",
+      "text": "全世界都在学中国话",
+      "translation": null
+    },
+    {
+      "time": 148.52,
+      "time_str": "02:28.520",
+      "text": "孔夫子的话",
+      "translation": null
+    },
+    {
+      "time": 151.18,
+      "time_str": "02:31.180",
+      "text": "越来越国际化",
+      "translation": null
+    },
+    {
+      "time": 153.32,
+      "time_str": "02:33.320",
+      "text": "全世界都在讲中国话",
+      "translation": null
+    },
+    {
+      "time": 158.16,
+      "time_str": "02:38.160",
+      "text": "我们说的话",
+      "translation": null
+    },
+    {
+      "time": 160.88,
+      "time_str": "02:40.880",
+      "text": "让世界都认真听话",
+      "translation": null
+    },
+    {
+      "time": 163.36,
+      "time_str": "02:43.360",
+      "text": "全世界都在学中国话",
+      "translation": null
+    },
+    {
+      "time": 167.69,
+      "time_str": "02:47.690",
+      "text": "孔夫子的话",
+      "translation": null
+    },
+    {
+      "time": 170.39,
+      "time_str": "02:50.390",
+      "text": "越来越国际化",
+      "translation": null
+    },
+    {
+      "time": 172.47,
+      "time_str": "02:52.470",
+      "text": "全世界都在讲中国话",
+      "translation": null
+    },
+    {
+      "time": 177.33,
+      "time_str": "02:57.330",
+      "text": "我们说的话",
+      "translation": null
+    },
+    {
+      "time": 179.98,
+      "time_str": "02:59.980",
+      "text": "让世界都认真听话",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "中国话 - S.H.E.lrc"
+}

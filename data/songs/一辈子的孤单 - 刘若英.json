@@ -1,0 +1,370 @@
+{
+  "title": "一辈子的孤单",
+  "title_raw": "一辈子的孤单",
+  "version": null,
+  "artist": "刘若英",
+  "group_key": "一辈子的孤单|刘若英",
+  "writers": {
+    "lyricist": "深白色二人组",
+    "composer": "深白色二人组",
+    "arranger": "李雨寰"
+  },
+  "lyrics": [
+    {
+      "time": 0.67,
+      "time_str": "00:00.670",
+      "text": "我想我会一直孤单",
+      "translation": null
+    },
+    {
+      "time": 5.82,
+      "time_str": "00:05.820",
+      "text": "这一辈子都这么孤单",
+      "translation": null
+    },
+    {
+      "time": 11.17,
+      "time_str": "00:11.170",
+      "text": "我想我会一直孤单",
+      "translation": null
+    },
+    {
+      "time": 16.35,
+      "time_str": "00:16.350",
+      "text": "这样孤单一辈子",
+      "translation": null
+    },
+    {
+      "time": 22.06,
+      "time_str": "00:22.060",
+      "text": "天空越蔚蓝",
+      "translation": null
+    },
+    {
+      "time": 27.39,
+      "time_str": "00:27.390",
+      "text": "越怕抬头看",
+      "translation": null
+    },
+    {
+      "time": 32.5,
+      "time_str": "00:32.500",
+      "text": "电影越圆满",
+      "translation": null
+    },
+    {
+      "time": 37.39,
+      "time_str": "00:37.390",
+      "text": "就越觉得伤感",
+      "translation": null
+    },
+    {
+      "time": 42.72,
+      "time_str": "00:42.720",
+      "text": "有越多的时间",
+      "translation": null
+    },
+    {
+      "time": 47.96,
+      "time_str": "00:47.960",
+      "text": "就越觉得不安",
+      "translation": null
+    },
+    {
+      "time": 53.23,
+      "time_str": "00:53.230",
+      "text": "因为我总是孤单",
+      "translation": null
+    },
+    {
+      "time": 58.55,
+      "time_str": "00:58.550",
+      "text": "过着孤单的日子",
+      "translation": null
+    },
+    {
+      "time": 63.93,
+      "time_str": "01:03.930",
+      "text": "喜欢的人不出现",
+      "translation": null
+    },
+    {
+      "time": 69.1,
+      "time_str": "01:09.100",
+      "text": "出现的人不喜欢",
+      "translation": null
+    },
+    {
+      "time": 74.4,
+      "time_str": "01:14.400",
+      "text": "有的爱犹豫不决",
+      "translation": null
+    },
+    {
+      "time": 79.61,
+      "time_str": "01:19.610",
+      "text": "还在想他就离开",
+      "translation": null
+    },
+    {
+      "time": 84.9,
+      "time_str": "01:24.900",
+      "text": "想过要将就一点",
+      "translation": null
+    },
+    {
+      "time": 90.2,
+      "time_str": "01:30.200",
+      "text": "却发现将就更难",
+      "translation": null
+    },
+    {
+      "time": 95.46,
+      "time_str": "01:35.460",
+      "text": "于是我学着乐观",
+      "translation": null
+    },
+    {
+      "time": 100.72,
+      "time_str": "01:40.720",
+      "text": "过着孤单的日子",
+      "translation": null
+    },
+    {
+      "time": 108.11,
+      "time_str": "01:48.110",
+      "text": "当孤单已经变成一种习惯",
+      "translation": null
+    },
+    {
+      "time": 111.92,
+      "time_str": "01:51.920",
+      "text": "习惯到我已经不再去想该怎么办",
+      "translation": null
+    },
+    {
+      "time": 117.65,
+      "time_str": "01:57.650",
+      "text": "就算心烦意乱",
+      "translation": null
+    },
+    {
+      "time": 120.54,
+      "time_str": "02:00.540",
+      "text": "就算没有人作伴",
+      "translation": null
+    },
+    {
+      "time": 125.09,
+      "time_str": "02:05.090",
+      "text": "Oh Yeah",
+      "translation": null
+    },
+    {
+      "time": 129.08,
+      "time_str": "02:09.080",
+      "text": "自由和落寞之间怎么换算",
+      "translation": null
+    },
+    {
+      "time": 132.96,
+      "time_str": "02:12.960",
+      "text": "我独自走在街上",
+      "translation": null
+    },
+    {
+      "time": 135.23,
+      "time_str": "02:15.230",
+      "text": "看着天空找不到答案",
+      "translation": null
+    },
+    {
+      "time": 141.81,
+      "time_str": "02:21.810",
+      "text": "我没有答案",
+      "translation": null
+    },
+    {
+      "time": 171.39,
+      "time_str": "02:51.390",
+      "text": "当孤单已经变成一种习惯",
+      "translation": null
+    },
+    {
+      "time": 175.16,
+      "time_str": "02:55.160",
+      "text": "习惯到我已经不再去想该怎么办",
+      "translation": null
+    },
+    {
+      "time": 180.79,
+      "time_str": "03:00.790",
+      "text": "就算心烦意乱",
+      "translation": null
+    },
+    {
+      "time": 183.78,
+      "time_str": "03:03.780",
+      "text": "就算没有人作伴",
+      "translation": null
+    },
+    {
+      "time": 188.49,
+      "time_str": "03:08.490",
+      "text": "Oh Yeah",
+      "translation": null
+    },
+    {
+      "time": 192.36,
+      "time_str": "03:12.360",
+      "text": "自由和落寞之间怎么换算",
+      "translation": null
+    },
+    {
+      "time": 196.23,
+      "time_str": "03:16.230",
+      "text": "我独自走在街上",
+      "translation": null
+    },
+    {
+      "time": 198.6,
+      "time_str": "03:18.600",
+      "text": "看着天空找不到答案",
+      "translation": null
+    },
+    {
+      "time": 205.08,
+      "time_str": "03:25.080",
+      "text": "我没有答案",
+      "translation": null
+    },
+    {
+      "time": 211.99,
+      "time_str": "03:31.990",
+      "text": "天空已蔚蓝",
+      "translation": null
+    },
+    {
+      "time": 217.23,
+      "time_str": "03:37.230",
+      "text": "我会抬头看",
+      "translation": null
+    },
+    {
+      "time": 222.53,
+      "time_str": "03:42.530",
+      "text": "电影越圆满",
+      "translation": null
+    },
+    {
+      "time": 227.31,
+      "time_str": "03:47.310",
+      "text": "就越珍惜伤感",
+      "translation": null
+    },
+    {
+      "time": 232.55,
+      "time_str": "03:52.550",
+      "text": "有越多的时间",
+      "translation": null
+    },
+    {
+      "time": 237.81,
+      "time_str": "03:57.810",
+      "text": "就越习惯不安",
+      "translation": null
+    },
+    {
+      "time": 243.13,
+      "time_str": "04:03.130",
+      "text": "因为我总会孤单",
+      "translation": null
+    },
+    {
+      "time": 248.37,
+      "time_str": "04:08.370",
+      "text": "过着孤单的日子",
+      "translation": null
+    },
+    {
+      "time": 253.68,
+      "time_str": "04:13.680",
+      "text": "我想我会一直孤单",
+      "translation": null
+    },
+    {
+      "time": 258.0,
+      "time_str": "04:18.000",
+      "text": "Producer : 李雨寰",
+      "translation": null
+    },
+    {
+      "time": 259.0,
+      "time_str": "04:19.000",
+      "text": "Vocal Producer : 光良",
+      "translation": null
+    },
+    {
+      "time": 260.0,
+      "time_str": "04:20.000",
+      "text": "Acoustic Guitar : 钟成虎",
+      "translation": null
+    },
+    {
+      "time": 261.0,
+      "time_str": "04:21.000",
+      "text": "Drum : 陈柏州",
+      "translation": null
+    },
+    {
+      "time": 262.0,
+      "time_str": "04:22.000",
+      "text": "Bass : 蔡坤奇",
+      "translation": null
+    },
+    {
+      "time": 263.0,
+      "time_str": "04:23.000",
+      "text": "Chorus Arrangement : 光良",
+      "translation": null
+    },
+    {
+      "time": 264.0,
+      "time_str": "04:24.000",
+      "text": "Chorus : 刘若英/光良",
+      "translation": null
+    },
+    {
+      "time": 265.0,
+      "time_str": "04:25.000",
+      "text": "Recording Engineer : 蔡坤奇/杨瑞代",
+      "translation": null
+    },
+    {
+      "time": 266.0,
+      "time_str": "04:26.000",
+      "text": "Recording Studio : Monster Studio/丽风录音室",
+      "translation": null
+    },
+    {
+      "time": 266.1,
+      "time_str": "04:26.100",
+      "text": "Mixing Engineer : 林暐哲",
+      "translation": null
+    },
+    {
+      "time": 266.2,
+      "time_str": "04:26.200",
+      "text": "Mixing Studio : Monster Studio",
+      "translation": null
+    },
+    {
+      "time": 266.3,
+      "time_str": "04:26.300",
+      "text": "Production Assistant : Joanne Cheng",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一辈子的孤单 - 刘若英.lrc"
+}

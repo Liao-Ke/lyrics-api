@@ -1,0 +1,346 @@
+{
+  "title": "放开手",
+  "title_raw": "放开手",
+  "version": null,
+  "artist": "李浩文（mc暴徒）,赵小磊",
+  "group_key": "放开手|李浩文（mc暴徒）,赵小磊",
+  "writers": {
+    "lyricist": "李浩文（mc暴徒）/赵小磊",
+    "composer": "李浩文（mc暴徒）/赵小磊",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.0,
+      "time_str": "00:01.000",
+      "text": "伴奏：my life",
+      "translation": null
+    },
+    {
+      "time": 5.46,
+      "time_str": "00:05.460",
+      "text": "赵小磊：",
+      "translation": null
+    },
+    {
+      "time": 13.3,
+      "time_str": "00:13.300",
+      "text": "让我走到遥远的以后",
+      "translation": null
+    },
+    {
+      "time": 16.4,
+      "time_str": "00:16.400",
+      "text": "浩瀚沙漠或是无人的星球",
+      "translation": null
+    },
+    {
+      "time": 19.6,
+      "time_str": "00:19.600",
+      "text": "就让我一人歌唱漫天的星斗",
+      "translation": null
+    },
+    {
+      "time": 22.8,
+      "time_str": "00:22.800",
+      "text": "只想远离喧嚣因为我怕泪流",
+      "translation": null
+    },
+    {
+      "time": 26.2,
+      "time_str": "00:26.200",
+      "text": "放开手别有太多的挽留",
+      "translation": null
+    },
+    {
+      "time": 29.26,
+      "time_str": "00:29.260",
+      "text": "我怕我会迷失在午夜寂静的街头",
+      "translation": null
+    },
+    {
+      "time": 33.17,
+      "time_str": "00:33.170",
+      "text": "不想开口选择了远走",
+      "translation": null
+    },
+    {
+      "time": 35.85,
+      "time_str": "00:35.850",
+      "text": "只因太多的结局无法承受",
+      "translation": null
+    },
+    {
+      "time": 39.35,
+      "time_str": "00:39.350",
+      "text": "MC暴徒：",
+      "translation": null
+    },
+    {
+      "time": 39.48,
+      "time_str": "00:39.480",
+      "text": "时间随着春夏秋冬四季在改变",
+      "translation": null
+    },
+    {
+      "time": 42.24,
+      "time_str": "00:42.240",
+      "text": "褪色的记忆却仿佛将昨天全部重现",
+      "translation": null
+    },
+    {
+      "time": 45.6,
+      "time_str": "00:45.600",
+      "text": "脑海中闪烁的画面有你太多倔强的埋怨",
+      "translation": null
+    },
+    {
+      "time": 48.73,
+      "time_str": "00:48.730",
+      "text": "我却只能无奈叹息送你消失在我的视线",
+      "translation": null
+    },
+    {
+      "time": 52.26,
+      "time_str": "00:52.260",
+      "text": "你说我的冷淡让你总是无法承受",
+      "translation": null
+    },
+    {
+      "time": 55.09,
+      "time_str": "00:55.090",
+      "text": "可我总觉得你没有把我选择叫看透",
+      "translation": null
+    },
+    {
+      "time": 58.39,
+      "time_str": "00:58.390",
+      "text": "为了能够让你每天幸福我每天在奋斗",
+      "translation": null
+    },
+    {
+      "time": 61.68,
+      "time_str": "01:01.680",
+      "text": "而你却坚持我们所有一切到了尽头",
+      "translation": null
+    },
+    {
+      "time": 64.97,
+      "time_str": "01:04.970",
+      "text": "是什么让你开始渐渐有了自己的防备",
+      "translation": null
+    },
+    {
+      "time": 68.32,
+      "time_str": "01:08.320",
+      "text": "你开始变的虚伪",
+      "translation": null
+    },
+    {
+      "time": 69.67,
+      "time_str": "01:09.670",
+      "text": "是自尊心一直作祟",
+      "translation": null
+    },
+    {
+      "time": 71.61,
+      "time_str": "01:11.610",
+      "text": "你不想被伤害",
+      "translation": null
+    },
+    {
+      "time": 72.81,
+      "time_str": "01:12.810",
+      "text": "所以选择先离开",
+      "translation": null
+    },
+    {
+      "time": 74.43,
+      "time_str": "01:14.430",
+      "text": "我看着冰冷的墙壁",
+      "translation": null
+    },
+    {
+      "time": 75.81,
+      "time_str": "01:15.810",
+      "text": "早已经没有了对白",
+      "translation": null
+    },
+    {
+      "time": 76.99,
+      "time_str": "01:16.990",
+      "text": "赵小磊：",
+      "translation": null
+    },
+    {
+      "time": 78.37,
+      "time_str": "01:18.370",
+      "text": "放你走不管黑夜白昼",
+      "translation": null
+    },
+    {
+      "time": 81.21,
+      "time_str": "01:21.210",
+      "text": "更不会想起你哪怕片刻的温柔",
+      "translation": null
+    },
+    {
+      "time": 84.38,
+      "time_str": "01:24.380",
+      "text": "如果这就是你要的自由",
+      "translation": null
+    },
+    {
+      "time": 87.56,
+      "time_str": "01:27.560",
+      "text": "Say goodbye",
+      "translation": null
+    },
+    {
+      "time": 89.1,
+      "time_str": "01:29.100",
+      "text": "那让我痴迷的眼眸",
+      "translation": null
+    },
+    {
+      "time": 91.12,
+      "time_str": "01:31.120",
+      "text": "请你走别有太多的挽留",
+      "translation": null
+    },
+    {
+      "time": 94.29,
+      "time_str": "01:34.290",
+      "text": "我怕我会喝醉在午夜寂静的街头",
+      "translation": null
+    },
+    {
+      "time": 98.06,
+      "time_str": "01:38.060",
+      "text": "不想开口目送你远走",
+      "translation": null
+    },
+    {
+      "time": 100.74,
+      "time_str": "01:40.740",
+      "text": "只是不想让你看到颤抖的镜头",
+      "translation": null
+    },
+    {
+      "time": 104.1,
+      "time_str": "01:44.100",
+      "text": "记忆散落的城市有我们爱过的诗",
+      "translation": null
+    },
+    {
+      "time": 107.15,
+      "time_str": "01:47.150",
+      "text": "不管你爱或不爱我依然不想解释",
+      "translation": null
+    },
+    {
+      "time": 110.43,
+      "time_str": "01:50.430",
+      "text": "可叹社会的那么现实我只能无奈坚持",
+      "translation": null
+    },
+    {
+      "time": 113.69,
+      "time_str": "01:53.690",
+      "text": "对不起我并不是存心把你忽视",
+      "translation": null
+    },
+    {
+      "time": 116.67,
+      "time_str": "01:56.670",
+      "text": "小磊-暴徒合唱：",
+      "translation": null
+    },
+    {
+      "time": 117.49,
+      "time_str": "01:57.490",
+      "text": "在午夜的街道",
+      "translation": null
+    },
+    {
+      "time": 118.17,
+      "time_str": "01:58.170",
+      "text": "喝醉的人们开始稀少",
+      "translation": null
+    },
+    {
+      "time": 120.18,
+      "time_str": "02:00.180",
+      "text": "我拿着辛苦赚来的钞票",
+      "translation": null
+    },
+    {
+      "time": 122.04,
+      "time_str": "02:02.040",
+      "text": "渴望明天会变的更好",
+      "translation": null
+    },
+    {
+      "time": 123.81,
+      "time_str": "02:03.810",
+      "text": "回到家后你的行李却已经开始打包",
+      "translation": null
+    },
+    {
+      "time": 126.64,
+      "time_str": "02:06.640",
+      "text": "你说这样的生活",
+      "translation": null
+    },
+    {
+      "time": 128.26,
+      "time_str": "02:08.260",
+      "text": "像是一个人的牢",
+      "translation": null
+    },
+    {
+      "time": 130.01,
+      "time_str": "02:10.010",
+      "text": "你说你想逃",
+      "translation": null
+    },
+    {
+      "time": 131.42,
+      "time_str": "02:11.420",
+      "text": "哪怕再多一秒",
+      "translation": null
+    },
+    {
+      "time": 132.82,
+      "time_str": "02:12.820",
+      "text": "夜里宁静的风现在吹乱了我的心跳",
+      "translation": null
+    },
+    {
+      "time": 135.94,
+      "time_str": "02:15.940",
+      "text": "好吧不再打扰",
+      "translation": null
+    },
+    {
+      "time": 137.48,
+      "time_str": "02:17.480",
+      "text": "只要你所有一切都安好",
+      "translation": null
+    },
+    {
+      "time": 139.66,
+      "time_str": "02:19.660",
+      "text": "其实每天都在粘一起",
+      "translation": null
+    },
+    {
+      "time": 141.19,
+      "time_str": "02:21.190",
+      "text": "我比你更渴望得到",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "放开手 - 李浩文（mc暴徒）,赵小磊.lrc"
+}

@@ -1,0 +1,394 @@
+{
+  "title": "客官不可以",
+  "title_raw": "客官不可以",
+  "version": null,
+  "artist": "徐良,小凌",
+  "group_key": "客官不可以|徐良,小凌",
+  "writers": {
+    "lyricist": "徐良",
+    "composer": "徐良",
+    "arranger": "徐良"
+  },
+  "lyrics": [
+    {
+      "time": 20.41,
+      "time_str": "00:20.410",
+      "text": "客官不可以",
+      "translation": null
+    },
+    {
+      "time": 22.22,
+      "time_str": "00:22.220",
+      "text": "你靠的越来越近",
+      "translation": null
+    },
+    {
+      "time": 24.76,
+      "time_str": "00:24.760",
+      "text": "你眼睛在看哪里",
+      "translation": null
+    },
+    {
+      "time": 27.42,
+      "time_str": "00:27.420",
+      "text": "还假装那么冷静",
+      "translation": null
+    },
+    {
+      "time": 30.59,
+      "time_str": "00:30.590",
+      "text": "客官 不可以",
+      "translation": null
+    },
+    {
+      "time": 32.369,
+      "time_str": "00:32.369",
+      "text": "都怪我生的美丽",
+      "translation": null
+    },
+    {
+      "time": 35.19,
+      "time_str": "00:35.190",
+      "text": "气质又那么多情",
+      "translation": null
+    },
+    {
+      "time": 37.409,
+      "time_str": "00:37.409",
+      "text": "小心我真的生气",
+      "translation": null
+    },
+    {
+      "time": 41.479,
+      "time_str": "00:41.479",
+      "text": "waiter 你是不是弄错了",
+      "translation": null
+    },
+    {
+      "time": 43.969,
+      "time_str": "00:43.969",
+      "text": "好像我没有点这个煲",
+      "translation": null
+    },
+    {
+      "time": 46.509,
+      "time_str": "00:46.509",
+      "text": "又矮又胖又找不到腰",
+      "translation": null
+    },
+    {
+      "time": 48.989,
+      "time_str": "00:48.989",
+      "text": "虽然有点可爱味道",
+      "translation": null
+    },
+    {
+      "time": 51.539,
+      "time_str": "00:51.539",
+      "text": "小姐你是谁家的城堡",
+      "translation": null
+    },
+    {
+      "time": 54.349,
+      "time_str": "00:54.349",
+      "text": "请你靠边坐坐好不好",
+      "translation": null
+    },
+    {
+      "time": 56.899,
+      "time_str": "00:56.899",
+      "text": "挡到电视真的看不到",
+      "translation": null
+    },
+    {
+      "time": 59.419,
+      "time_str": "00:59.419",
+      "text": "你说的话莫名其妙",
+      "translation": null
+    },
+    {
+      "time": 61.389,
+      "time_str": "01:01.389",
+      "text": "你现在哪里",
+      "translation": null
+    },
+    {
+      "time": 62.679,
+      "time_str": "01:02.679",
+      "text": "我每天都在想你",
+      "translation": null
+    },
+    {
+      "time": 65.139,
+      "time_str": "01:05.139",
+      "text": "想念你身旁空气",
+      "translation": null
+    },
+    {
+      "time": 67.71,
+      "time_str": "01:07.710",
+      "text": "想念你坏坏眼睛",
+      "translation": null
+    },
+    {
+      "time": 70.749,
+      "time_str": "01:10.749",
+      "text": "你现在哪里",
+      "translation": null
+    },
+    {
+      "time": 73.19,
+      "time_str": "01:13.190",
+      "text": "我每天都在回忆",
+      "translation": null
+    },
+    {
+      "time": 75.219,
+      "time_str": "01:15.219",
+      "text": "回忆搞笑的相遇",
+      "translation": null
+    },
+    {
+      "time": 78.7,
+      "time_str": "01:18.700",
+      "text": "回忆悲伤的结局",
+      "translation": null
+    },
+    {
+      "time": 81.93,
+      "time_str": "01:21.930",
+      "text": "客官 客官 客官 不可以",
+      "translation": null
+    },
+    {
+      "time": 84.41,
+      "time_str": "01:24.410",
+      "text": "客官 客官 客官 你在哪里",
+      "translation": null
+    },
+    {
+      "time": 87.5,
+      "time_str": "01:27.500",
+      "text": "客官 客官 客官 我想你",
+      "translation": null
+    },
+    {
+      "time": 91.949,
+      "time_str": "01:31.949",
+      "text": "小姐 小姐 小姐 不可以",
+      "translation": null
+    },
+    {
+      "time": 94.459,
+      "time_str": "01:34.459",
+      "text": "小姐 小姐 小姐 别伤心",
+      "translation": null
+    },
+    {
+      "time": 97.01,
+      "time_str": "01:37.010",
+      "text": "小姐 小姐 小姐 对不起",
+      "translation": null
+    },
+    {
+      "time": 121.919,
+      "time_str": "02:01.919",
+      "text": "徐良L:",
+      "translation": null
+    },
+    {
+      "time": 122.939,
+      "time_str": "02:02.939",
+      "text": "waiter 你是不是弄错了",
+      "translation": null
+    },
+    {
+      "time": 125.3,
+      "time_str": "02:05.300",
+      "text": "好像我没有点这个煲",
+      "translation": null
+    },
+    {
+      "time": 127.65,
+      "time_str": "02:07.650",
+      "text": "又矮又胖又找不到腰",
+      "translation": null
+    },
+    {
+      "time": 130.2,
+      "time_str": "02:10.200",
+      "text": "虽然有点可爱味道",
+      "translation": null
+    },
+    {
+      "time": 132.69,
+      "time_str": "02:12.690",
+      "text": "小姐你是谁家的城堡",
+      "translation": null
+    },
+    {
+      "time": 135.52,
+      "time_str": "02:15.520",
+      "text": "请你靠边坐坐好不好",
+      "translation": null
+    },
+    {
+      "time": 138.07,
+      "time_str": "02:18.070",
+      "text": "挡到电视真的看不到",
+      "translation": null
+    },
+    {
+      "time": 140.9,
+      "time_str": "02:20.900",
+      "text": "你说的话莫名其妙",
+      "translation": null
+    },
+    {
+      "time": 142.97,
+      "time_str": "02:22.970",
+      "text": "你现在哪里",
+      "translation": null
+    },
+    {
+      "time": 144.42,
+      "time_str": "02:24.420",
+      "text": "我每天都在想你",
+      "translation": null
+    },
+    {
+      "time": 146.92,
+      "time_str": "02:26.920",
+      "text": "想念你身旁空气",
+      "translation": null
+    },
+    {
+      "time": 149.49,
+      "time_str": "02:29.490",
+      "text": "想念你坏坏眼睛",
+      "translation": null
+    },
+    {
+      "time": 152.62,
+      "time_str": "02:32.620",
+      "text": "你现在哪里",
+      "translation": null
+    },
+    {
+      "time": 154.5,
+      "time_str": "02:34.500",
+      "text": "我每天都在回忆",
+      "translation": null
+    },
+    {
+      "time": 157.01,
+      "time_str": "02:37.010",
+      "text": "回忆搞笑的相遇",
+      "translation": null
+    },
+    {
+      "time": 159.56,
+      "time_str": "02:39.560",
+      "text": "回忆悲伤的结局",
+      "translation": null
+    },
+    {
+      "time": 163.1,
+      "time_str": "02:43.100",
+      "text": "你现在哪里",
+      "translation": null
+    },
+    {
+      "time": 164.65,
+      "time_str": "02:44.650",
+      "text": "我每天都在想你",
+      "translation": null
+    },
+    {
+      "time": 167.13,
+      "time_str": "02:47.130",
+      "text": "想念你身旁空气",
+      "translation": null
+    },
+    {
+      "time": 170.1,
+      "time_str": "02:50.100",
+      "text": "想念你坏坏眼睛",
+      "translation": null
+    },
+    {
+      "time": 172.9,
+      "time_str": "02:52.900",
+      "text": "你现在哪里",
+      "translation": null
+    },
+    {
+      "time": 174.8,
+      "time_str": "02:54.800",
+      "text": "我每天都在回忆",
+      "translation": null
+    },
+    {
+      "time": 177.22,
+      "time_str": "02:57.220",
+      "text": "回忆搞笑的相遇",
+      "translation": null
+    },
+    {
+      "time": 180.5,
+      "time_str": "03:00.500",
+      "text": "回忆悲伤的结局",
+      "translation": null
+    },
+    {
+      "time": 183.32,
+      "time_str": "03:03.320",
+      "text": "你现在哪里",
+      "translation": null
+    },
+    {
+      "time": 185.15,
+      "time_str": "03:05.150",
+      "text": "我每天都在想你",
+      "translation": null
+    },
+    {
+      "time": 187.66,
+      "time_str": "03:07.660",
+      "text": "想念你身旁空气",
+      "translation": null
+    },
+    {
+      "time": 190.17,
+      "time_str": "03:10.170",
+      "text": "想念你坏坏眼睛",
+      "translation": null
+    },
+    {
+      "time": 193.22,
+      "time_str": "03:13.220",
+      "text": "你现在哪里",
+      "translation": null
+    },
+    {
+      "time": 195.19,
+      "time_str": "03:15.190",
+      "text": "我每天都在回忆",
+      "translation": null
+    },
+    {
+      "time": 197.73,
+      "time_str": "03:17.730",
+      "text": "回忆搞笑的相遇",
+      "translation": null
+    },
+    {
+      "time": 200.28,
+      "time_str": "03:20.280",
+      "text": "回忆悲伤的结局",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "客官不可以 - 徐良,小凌.lrc"
+}

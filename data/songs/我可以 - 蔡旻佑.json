@@ -1,0 +1,310 @@
+{
+  "title": "我可以",
+  "title_raw": "我可以",
+  "version": null,
+  "artist": "蔡旻佑",
+  "group_key": "我可以|蔡旻佑",
+  "writers": {
+    "lyricist": "林唯/蔡旻佑",
+    "composer": "蔡旻佑",
+    "arranger": "蔡旻佑/洪信杰"
+  },
+  "lyrics": [
+    {
+      "time": 14.97,
+      "time_str": "00:14.970",
+      "text": "寄",
+      "translation": null
+    },
+    {
+      "time": 16.48,
+      "time_str": "00:16.480",
+      "text": "没有地址的信",
+      "translation": null
+    },
+    {
+      "time": 20.26,
+      "time_str": "00:20.260",
+      "text": "这样的情绪 有种距离",
+      "translation": null
+    },
+    {
+      "time": 29.36,
+      "time_str": "00:29.360",
+      "text": "你",
+      "translation": null
+    },
+    {
+      "time": 30.92,
+      "time_str": "00:30.920",
+      "text": "放着谁的歌曲",
+      "translation": null
+    },
+    {
+      "time": 34.52,
+      "time_str": "00:34.520",
+      "text": "是怎样的心情",
+      "translation": null
+    },
+    {
+      "time": 38.46,
+      "time_str": "00:38.460",
+      "text": "能不能说给我听",
+      "translation": null
+    },
+    {
+      "time": 43.77,
+      "time_str": "00:43.770",
+      "text": "雨",
+      "translation": null
+    },
+    {
+      "time": 45.5,
+      "time_str": "00:45.500",
+      "text": "下的好安静",
+      "translation": null
+    },
+    {
+      "time": 50.07,
+      "time_str": "00:50.070",
+      "text": "是不是你 偷偷在哭泣",
+      "translation": null
+    },
+    {
+      "time": 57.71,
+      "time_str": "00:57.710",
+      "text": "幸福",
+      "translation": null
+    },
+    {
+      "time": 59.92,
+      "time_str": "00:59.920",
+      "text": "真的不容易",
+      "translation": null
+    },
+    {
+      "time": 63.57,
+      "time_str": "01:03.570",
+      "text": "在你的背景 有我爱你",
+      "translation": null
+    },
+    {
+      "time": 71.77,
+      "time_str": "01:11.770",
+      "text": "我可以",
+      "translation": null
+    },
+    {
+      "time": 73.99,
+      "time_str": "01:13.990",
+      "text": "陪你去看星星",
+      "translation": null
+    },
+    {
+      "time": 77.57,
+      "time_str": "01:17.570",
+      "text": "不用再多说明",
+      "translation": null
+    },
+    {
+      "time": 81.18,
+      "time_str": "01:21.180",
+      "text": "我就要和你在一起",
+      "translation": null
+    },
+    {
+      "time": 86.21,
+      "time_str": "01:26.210",
+      "text": "我不想又再一次和你分离",
+      "translation": null
+    },
+    {
+      "time": 94.02,
+      "time_str": "01:34.020",
+      "text": "我多么想每一次的美丽",
+      "translation": null
+    },
+    {
+      "time": 98.78,
+      "time_str": "01:38.780",
+      "text": "是因为你",
+      "translation": null
+    },
+    {
+      "time": 115.97,
+      "time_str": "01:55.970",
+      "text": "寄",
+      "translation": null
+    },
+    {
+      "time": 117.52,
+      "time_str": "01:57.520",
+      "text": "没有地址的信",
+      "translation": null
+    },
+    {
+      "time": 121.32,
+      "time_str": "02:01.320",
+      "text": "这样的情绪 有种距离",
+      "translation": null
+    },
+    {
+      "time": 130.4,
+      "time_str": "02:10.400",
+      "text": "喔...你",
+      "translation": null
+    },
+    {
+      "time": 131.94,
+      "time_str": "02:11.940",
+      "text": "放着谁的歌曲",
+      "translation": null
+    },
+    {
+      "time": 135.57,
+      "time_str": "02:15.570",
+      "text": "是怎样的心境",
+      "translation": null
+    },
+    {
+      "time": 139.35,
+      "time_str": "02:19.350",
+      "text": "能不能说给我听",
+      "translation": null
+    },
+    {
+      "time": 144.8,
+      "time_str": "02:24.800",
+      "text": "雨",
+      "translation": null
+    },
+    {
+      "time": 146.58,
+      "time_str": "02:26.580",
+      "text": "下的好安静",
+      "translation": null
+    },
+    {
+      "time": 150.78,
+      "time_str": "02:30.780",
+      "text": "是不是你 偷偷在哭泣",
+      "translation": null
+    },
+    {
+      "time": 158.94,
+      "time_str": "02:38.940",
+      "text": "幸福",
+      "translation": null
+    },
+    {
+      "time": 160.87,
+      "time_str": "02:40.870",
+      "text": "它真的不容易",
+      "translation": null
+    },
+    {
+      "time": 164.57,
+      "time_str": "02:44.570",
+      "text": "在你的背景 有我爱你",
+      "translation": null
+    },
+    {
+      "time": 172.76,
+      "time_str": "02:52.760",
+      "text": "我可以",
+      "translation": null
+    },
+    {
+      "time": 175.1,
+      "time_str": "02:55.100",
+      "text": "陪你去看星星",
+      "translation": null
+    },
+    {
+      "time": 178.56,
+      "time_str": "02:58.560",
+      "text": "不用再多说明",
+      "translation": null
+    },
+    {
+      "time": 182.23,
+      "time_str": "03:02.230",
+      "text": "我就要和你在一起",
+      "translation": null
+    },
+    {
+      "time": 187.14,
+      "time_str": "03:07.140",
+      "text": "我不想又再一次和你分离",
+      "translation": null
+    },
+    {
+      "time": 195.02,
+      "time_str": "03:15.020",
+      "text": "我多么想每一次的美丽",
+      "translation": null
+    },
+    {
+      "time": 199.84,
+      "time_str": "03:19.840",
+      "text": "是因为你",
+      "translation": null
+    },
+    {
+      "time": 209.82,
+      "time_str": "03:29.820",
+      "text": "Oh",
+      "translation": null
+    },
+    {
+      "time": 215.2,
+      "time_str": "03:35.200",
+      "text": "我可以",
+      "translation": null
+    },
+    {
+      "time": 218.27,
+      "time_str": "03:38.270",
+      "text": "陪你去看星星",
+      "translation": null
+    },
+    {
+      "time": 221.86,
+      "time_str": "03:41.860",
+      "text": "不用再多说明",
+      "translation": null
+    },
+    {
+      "time": 225.5,
+      "time_str": "03:45.500",
+      "text": "我就要和你在一起",
+      "translation": null
+    },
+    {
+      "time": 230.53,
+      "time_str": "03:50.530",
+      "text": "我不想又再一次和你分离",
+      "translation": null
+    },
+    {
+      "time": 238.34,
+      "time_str": "03:58.340",
+      "text": "我多么想每一次的美丽",
+      "translation": null
+    },
+    {
+      "time": 243.09,
+      "time_str": "04:03.090",
+      "text": "是因为你",
+      "translation": null
+    },
+    {
+      "time": 249.03,
+      "time_str": "04:09.030",
+      "text": "哦",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我可以 - 蔡旻佑.lrc"
+}

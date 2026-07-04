@@ -1,0 +1,136 @@
+{
+  "title": "红梅赞",
+  "title_raw": "红梅赞",
+  "version": null,
+  "artist": "龚玥",
+  "group_key": "红梅赞|龚玥",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 42.91,
+      "time_str": "00:42.910",
+      "text": "红岩上红梅开",
+      "translation": null
+    },
+    {
+      "time": 50.9,
+      "time_str": "00:50.900",
+      "text": "千里冰霜脚下踩",
+      "translation": null
+    },
+    {
+      "time": 58.9,
+      "time_str": "00:58.900",
+      "text": "三九严寒何所惧",
+      "translation": null
+    },
+    {
+      "time": 66.9,
+      "time_str": "01:06.900",
+      "text": "一片丹心向阳开 向阳开",
+      "translation": null
+    },
+    {
+      "time": 78.87,
+      "time_str": "01:18.870",
+      "text": "红梅花儿开",
+      "translation": null
+    },
+    {
+      "time": 82.86,
+      "time_str": "01:22.860",
+      "text": "朵朵放光彩",
+      "translation": null
+    },
+    {
+      "time": 86.83,
+      "time_str": "01:26.830",
+      "text": "昂首怒放花万朵",
+      "translation": null
+    },
+    {
+      "time": 90.92,
+      "time_str": "01:30.920",
+      "text": "香飘云天外",
+      "translation": null
+    },
+    {
+      "time": 94.83,
+      "time_str": "01:34.830",
+      "text": "唤醒百花齐开放",
+      "translation": null
+    },
+    {
+      "time": 102.92,
+      "time_str": "01:42.920",
+      "text": "高歌欢庆新春来 新春来",
+      "translation": null
+    },
+    {
+      "time": 174.86,
+      "time_str": "02:54.860",
+      "text": "红岩上红梅开",
+      "translation": null
+    },
+    {
+      "time": 182.85,
+      "time_str": "03:02.850",
+      "text": "千里冰霜脚下踩",
+      "translation": null
+    },
+    {
+      "time": 190.9,
+      "time_str": "03:10.900",
+      "text": "三九严寒何所惧",
+      "translation": null
+    },
+    {
+      "time": 198.89,
+      "time_str": "03:18.890",
+      "text": "一片丹心向阳开 向阳开",
+      "translation": null
+    },
+    {
+      "time": 210.9,
+      "time_str": "03:30.900",
+      "text": "红梅花儿开",
+      "translation": null
+    },
+    {
+      "time": 214.829,
+      "time_str": "03:34.829",
+      "text": "朵朵放光彩",
+      "translation": null
+    },
+    {
+      "time": 218.86,
+      "time_str": "03:38.860",
+      "text": "昂首怒放花万朵",
+      "translation": null
+    },
+    {
+      "time": 222.87,
+      "time_str": "03:42.870",
+      "text": "香飘云天外",
+      "translation": null
+    },
+    {
+      "time": 226.88,
+      "time_str": "03:46.880",
+      "text": "唤醒百花齐开放",
+      "translation": null
+    },
+    {
+      "time": 234.87,
+      "time_str": "03:54.870",
+      "text": "高歌欢庆新春来 新春来",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "红梅赞 - 龚玥.lrc"
+}

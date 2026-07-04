@@ -1,0 +1,226 @@
+{
+  "title": "你知道我在等你吗",
+  "title_raw": "你知道我在等你吗",
+  "version": null,
+  "artist": "迪克牛仔",
+  "group_key": "你知道我在等你吗|迪克牛仔",
+  "writers": {
+    "lyricist": "张洪量",
+    "composer": "张洪量",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "莫名我就喜欢你",
+      "translation": null
+    },
+    {
+      "time": 17.0,
+      "time_str": "00:17.000",
+      "text": "深深地爱上你",
+      "translation": null
+    },
+    {
+      "time": 21.0,
+      "time_str": "00:21.000",
+      "text": "没有理由 没有原因",
+      "translation": null
+    },
+    {
+      "time": 28.0,
+      "time_str": "00:28.000",
+      "text": "莫名我就喜欢你",
+      "translation": null
+    },
+    {
+      "time": 32.0,
+      "time_str": "00:32.000",
+      "text": "深深地爱上你",
+      "translation": null
+    },
+    {
+      "time": 35.3,
+      "time_str": "00:35.300",
+      "text": "从见到你的那一天起",
+      "translation": null
+    },
+    {
+      "time": 42.6,
+      "time_str": "00:42.600",
+      "text": "你知道我在等你吗",
+      "translation": null
+    },
+    {
+      "time": 46.6,
+      "time_str": "00:46.600",
+      "text": "你如果真的在乎我",
+      "translation": null
+    },
+    {
+      "time": 49.6,
+      "time_str": "00:49.600",
+      "text": "又怎会让无尽的夜陪我度过",
+      "translation": null
+    },
+    {
+      "time": 56.6,
+      "time_str": "00:56.600",
+      "text": "你知道我在等你吗",
+      "translation": null
+    },
+    {
+      "time": 60.6,
+      "time_str": "01:00.600",
+      "text": "你如果真的在乎我",
+      "translation": null
+    },
+    {
+      "time": 64.6,
+      "time_str": "01:04.600",
+      "text": "又怎会让握花的手在风中颤抖",
+      "translation": null
+    },
+    {
+      "time": 71.6,
+      "time_str": "01:11.600",
+      "text": "莫名我就喜欢你",
+      "translation": null
+    },
+    {
+      "time": 75.0,
+      "time_str": "01:15.000",
+      "text": "深深地爱上你",
+      "translation": null
+    },
+    {
+      "time": 78.3,
+      "time_str": "01:18.300",
+      "text": "没有理由 没有原因",
+      "translation": null
+    },
+    {
+      "time": 85.3,
+      "time_str": "01:25.300",
+      "text": "莫名我就喜欢你",
+      "translation": null
+    },
+    {
+      "time": 89.3,
+      "time_str": "01:29.300",
+      "text": "深深地爱上你",
+      "translation": null
+    },
+    {
+      "time": 92.3,
+      "time_str": "01:32.300",
+      "text": "从见到你的那一天起",
+      "translation": null
+    },
+    {
+      "time": 99.3,
+      "time_str": "01:39.300",
+      "text": "你知道我在等你吗",
+      "translation": null
+    },
+    {
+      "time": 103.3,
+      "time_str": "01:43.300",
+      "text": "你如果真的在乎我",
+      "translation": null
+    },
+    {
+      "time": 106.3,
+      "time_str": "01:46.300",
+      "text": "又怎会让无尽的夜陪我度过",
+      "translation": null
+    },
+    {
+      "time": 113.9,
+      "time_str": "01:53.900",
+      "text": "你知道我在等你吗",
+      "translation": null
+    },
+    {
+      "time": 117.9,
+      "time_str": "01:57.900",
+      "text": "你如果真的在乎我",
+      "translation": null
+    },
+    {
+      "time": 120.9,
+      "time_str": "02:00.900",
+      "text": "又怎会让握花的手在风中颤抖",
+      "translation": null
+    },
+    {
+      "time": 128.9,
+      "time_str": "02:08.900",
+      "text": "莫名我就喜欢你",
+      "translation": null
+    },
+    {
+      "time": 131.9,
+      "time_str": "02:11.900",
+      "text": "深深地爱上你 在黑夜里倾听你的声音",
+      "translation": null
+    },
+    {
+      "time": 167.5,
+      "time_str": "02:47.500",
+      "text": "你知道我在等你吗",
+      "translation": null
+    },
+    {
+      "time": 171.5,
+      "time_str": "02:51.500",
+      "text": "你如果真的在乎我",
+      "translation": null
+    },
+    {
+      "time": 174.5,
+      "time_str": "02:54.500",
+      "text": "又怎会让无尽的夜陪我度过",
+      "translation": null
+    },
+    {
+      "time": 181.5,
+      "time_str": "03:01.500",
+      "text": "你知道我在等你吗",
+      "translation": null
+    },
+    {
+      "time": 186.1,
+      "time_str": "03:06.100",
+      "text": "你如果真的在乎我",
+      "translation": null
+    },
+    {
+      "time": 189.1,
+      "time_str": "03:09.100",
+      "text": "又怎会让握花的手在风中颤抖",
+      "translation": null
+    },
+    {
+      "time": 197.1,
+      "time_str": "03:17.100",
+      "text": "莫名我就喜欢你",
+      "translation": null
+    },
+    {
+      "time": 200.1,
+      "time_str": "03:20.100",
+      "text": "深深地爱上你",
+      "translation": null
+    },
+    {
+      "time": 204.6,
+      "time_str": "03:24.600",
+      "text": "在黑夜里倾听你的声音",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你知道我在等你吗 - 迪克牛仔.lrc"
+}

@@ -1,0 +1,298 @@
+{
+  "title": "下一站天后",
+  "title_raw": "下一站天后",
+  "version": null,
+  "artist": "Twins",
+  "group_key": "下一站天后|twins",
+  "writers": {
+    "lyricist": "黄伟文",
+    "composer": "伍乐城",
+    "arranger": "伍乐城"
+  },
+  "lyrics": [
+    {
+      "time": 13.11,
+      "time_str": "00:13.110",
+      "text": "Sa：站在大丸前",
+      "translation": null
+    },
+    {
+      "time": 15.46,
+      "time_str": "00:15.460",
+      "text": "细心看看我的路",
+      "translation": null
+    },
+    {
+      "time": 19.35,
+      "time_str": "00:19.350",
+      "text": "再下个车站",
+      "translation": null
+    },
+    {
+      "time": 21.67,
+      "time_str": "00:21.670",
+      "text": "到天后当然最好",
+      "translation": null
+    },
+    {
+      "time": 25.55,
+      "time_str": "00:25.550",
+      "text": "但华丽的星途",
+      "translation": null
+    },
+    {
+      "time": 28.33,
+      "time_str": "00:28.330",
+      "text": "途中一旦畏高",
+      "translation": null
+    },
+    {
+      "time": 31.91,
+      "time_str": "00:31.910",
+      "text": "背后会否还有他拥抱",
+      "translation": null
+    },
+    {
+      "time": 37.38,
+      "time_str": "00:37.380",
+      "text": "Gil：在百德新街的爱侣",
+      "translation": null
+    },
+    {
+      "time": 40.57,
+      "time_str": "00:40.570",
+      "text": "面上有种顾盼自豪",
+      "translation": null
+    },
+    {
+      "time": 43.72,
+      "time_str": "00:43.720",
+      "text": "在台上任我唱",
+      "translation": null
+    },
+    {
+      "time": 45.8,
+      "time_str": "00:45.800",
+      "text": "未必风光更好",
+      "translation": null
+    },
+    {
+      "time": 48.77,
+      "time_str": "00:48.770",
+      "text": "人气不过肥皂泡",
+      "translation": null
+    },
+    {
+      "time": 53.13,
+      "time_str": "00:53.130",
+      "text": "Sa：即使有天开个唱",
+      "translation": null
+    },
+    {
+      "time": 55.22,
+      "time_str": "00:55.220",
+      "text": "谁又要唱他不可到现场",
+      "translation": null
+    },
+    {
+      "time": 59.46,
+      "time_str": "00:59.460",
+      "text": "仍然仿似白活一场",
+      "translation": null
+    },
+    {
+      "time": 63.07,
+      "time_str": "01:03.070",
+      "text": "不恋爱教我怎样唱",
+      "translation": null
+    },
+    {
+      "time": 65.75,
+      "time_str": "01:05.750",
+      "text": "Gil：几多爱歌给我唱",
+      "translation": null
+    },
+    {
+      "time": 67.74,
+      "time_str": "01:07.740",
+      "text": "还是勉强台前如何发亮",
+      "translation": null
+    },
+    {
+      "time": 72.21,
+      "time_str": "01:12.210",
+      "text": "难及给最爱在耳边",
+      "translation": null
+    },
+    {
+      "time": 75.67,
+      "time_str": "01:15.670",
+      "text": "低声温柔地唱",
+      "translation": null
+    },
+    {
+      "time": 88.79,
+      "time_str": "01:28.790",
+      "text": "Gil：白日梦飞翔",
+      "translation": null
+    },
+    {
+      "time": 91.08,
+      "time_str": "01:31.080",
+      "text": "永不太远太抽象",
+      "translation": null
+    },
+    {
+      "time": 95.01,
+      "time_str": "01:35.010",
+      "text": "最后变天后",
+      "translation": null
+    },
+    {
+      "time": 97.4,
+      "time_str": "01:37.400",
+      "text": "变新娘都是理想",
+      "translation": null
+    },
+    {
+      "time": 101.3,
+      "time_str": "01:41.300",
+      "text": "在时代的广场",
+      "translation": null
+    },
+    {
+      "time": 104.06,
+      "time_str": "01:44.060",
+      "text": "谁都总会有奖",
+      "translation": null
+    },
+    {
+      "time": 107.64,
+      "time_str": "01:47.640",
+      "text": "我没有歌迷有他景仰",
+      "translation": null
+    },
+    {
+      "time": 113.13,
+      "time_str": "01:53.130",
+      "text": "Sa：在百德新街的爱侣",
+      "translation": null
+    },
+    {
+      "time": 116.31,
+      "time_str": "01:56.310",
+      "text": "面上有种顾盼自豪",
+      "translation": null
+    },
+    {
+      "time": 119.4,
+      "time_str": "01:59.400",
+      "text": "在台上任我唱",
+      "translation": null
+    },
+    {
+      "time": 121.45,
+      "time_str": "02:01.450",
+      "text": "未必风光更好",
+      "translation": null
+    },
+    {
+      "time": 124.51,
+      "time_str": "02:04.510",
+      "text": "人气不过肥皂泡",
+      "translation": null
+    },
+    {
+      "time": 128.94,
+      "time_str": "02:08.940",
+      "text": "Gil：即使有天开个唱",
+      "translation": null
+    },
+    {
+      "time": 130.86,
+      "time_str": "02:10.860",
+      "text": "谁又要唱他不可到现场",
+      "translation": null
+    },
+    {
+      "time": 135.23,
+      "time_str": "02:15.230",
+      "text": "仍然仿似白活一场",
+      "translation": null
+    },
+    {
+      "time": 138.73,
+      "time_str": "02:18.730",
+      "text": "不恋爱教我怎样唱",
+      "translation": null
+    },
+    {
+      "time": 141.52,
+      "time_str": "02:21.520",
+      "text": "Sa：几多爱歌给我唱",
+      "translation": null
+    },
+    {
+      "time": 143.54,
+      "time_str": "02:23.540",
+      "text": "还是勉强台前如何发亮",
+      "translation": null
+    },
+    {
+      "time": 147.86,
+      "time_str": "02:27.860",
+      "text": "难及给最爱在耳边",
+      "translation": null
+    },
+    {
+      "time": 151.43,
+      "time_str": "02:31.430",
+      "text": "低声温柔地唱",
+      "translation": null
+    },
+    {
+      "time": 168.44,
+      "time_str": "02:48.440",
+      "text": "合：几多爱歌给我唱",
+      "translation": null
+    },
+    {
+      "time": 170.34,
+      "time_str": "02:50.340",
+      "text": "还是勉强台前如何发亮",
+      "translation": null
+    },
+    {
+      "time": 174.77,
+      "time_str": "02:54.770",
+      "text": "难及给最爱在耳边",
+      "translation": null
+    },
+    {
+      "time": 178.29,
+      "time_str": "02:58.290",
+      "text": "低声温柔地唱",
+      "translation": null
+    },
+    {
+      "time": 182.97,
+      "time_str": "03:02.970",
+      "text": "其实心里最大理想",
+      "translation": null
+    },
+    {
+      "time": 186.38,
+      "time_str": "03:06.380",
+      "text": "跟他归家为他唱",
+      "translation": null
+    },
+    {
+      "time": 203.26,
+      "time_str": "03:23.260",
+      "text": "音乐监制 : 伍樂城",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "下一站天后 - Twins.lrc"
+}

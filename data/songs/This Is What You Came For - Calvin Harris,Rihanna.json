@@ -1,0 +1,262 @@
+{
+  "title": "This Is What You Came For",
+  "title_raw": "This Is What You Came For",
+  "version": null,
+  "artist": "Calvin Harris,Rihanna",
+  "group_key": "this is what you came for|calvin harris,rihanna",
+  "writers": {
+    "lyricist": "Calvin Harris/Taylor Swift",
+    "composer": "Calvin Harris/Taylor Swift",
+    "arranger": "Calvin Harris/Kuk Harrell"
+  },
+  "lyrics": [
+    {
+      "time": 0.92,
+      "time_str": "00:00.920",
+      "text": "Baby, this is what you came for",
+      "translation": "亲爱的，这就是你出现的原因"
+    },
+    {
+      "time": 4.13,
+      "time_str": "00:04.130",
+      "text": "Lightning strikes every time she moves",
+      "translation": "她的每个举动，都在放出闪电，势不可挡"
+    },
+    {
+      "time": 11.62,
+      "time_str": "00:11.620",
+      "text": "And everybody’s watching her",
+      "translation": "她生来万众瞩目"
+    },
+    {
+      "time": 14.17,
+      "time_str": "00:14.170",
+      "text": "But she’s looking at you, oh, oh",
+      "translation": "可她却只心系于你"
+    },
+    {
+      "time": 17.97,
+      "time_str": "00:17.970",
+      "text": "You, oh, oh, you, oh, oh,you,oh,oh,you,oh,oh you,oh,oh",
+      "translation": "只有你，她眼中只有你"
+    },
+    {
+      "time": 29.02,
+      "time_str": "00:29.020",
+      "text": "Oh, oh",
+      "translation": null
+    },
+    {
+      "time": 32.76,
+      "time_str": "00:32.760",
+      "text": "Baby,this is what you came for",
+      "translation": "亲爱的 这就是你所期待的"
+    },
+    {
+      "time": 35.68,
+      "time_str": "00:35.680",
+      "text": "Lightning strikes every time she moves",
+      "translation": "她的每个举动，都在放出闪电，势不可挡"
+    },
+    {
+      "time": 42.74,
+      "time_str": "00:42.740",
+      "text": "And everybody’s watching her",
+      "translation": "她生来万众瞩目"
+    },
+    {
+      "time": 45.51,
+      "time_str": "00:45.510",
+      "text": "But she’s looking at you, oh, oh",
+      "translation": "可她却只心系于你"
+    },
+    {
+      "time": 48.62,
+      "time_str": "00:48.620",
+      "text": "You, oh, oh, you, oh, oh",
+      "translation": "只有你，她眼中只有你"
+    },
+    {
+      "time": 52.37,
+      "time_str": "00:52.370",
+      "text": "You, oh, oh, you, oh, oh",
+      "translation": "眼波流转只为你"
+    },
+    {
+      "time": 69.75,
+      "time_str": "01:09.750",
+      "text": "You, oh, oh, you, oh, oh",
+      "translation": "只有你"
+    },
+    {
+      "time": 74.25,
+      "time_str": "01:14.250",
+      "text": "oh, oh",
+      "translation": null
+    },
+    {
+      "time": 78.36,
+      "time_str": "01:18.360",
+      "text": "We go fast with the game we play",
+      "translation": "风驰电掣般的生活，令人目不暇接"
+    },
+    {
+      "time": 85.9,
+      "time_str": "01:25.900",
+      "text": "Who knows why it’s gotta be this way",
+      "translation": "谁能料到，我们会到如此地步"
+    },
+    {
+      "time": 93.67,
+      "time_str": "01:33.670",
+      "text": "We say nothing more than we need",
+      "translation": "我们口出狂言，好似拥有整个世界"
+    },
+    {
+      "time": 101.47,
+      "time_str": "01:41.470",
+      "text": "I say “your place” when we leave",
+      "translation": "每一寸，都是你的领地"
+    },
+    {
+      "time": 109.18,
+      "time_str": "01:49.180",
+      "text": "Baby,this is what you came for",
+      "translation": "亲爱的 这就是你所期待的"
+    },
+    {
+      "time": 112.94,
+      "time_str": "01:52.940",
+      "text": "Lightning strikes every time she moves",
+      "translation": "她的每个举动，都在放出闪电，势不可挡"
+    },
+    {
+      "time": 120.1,
+      "time_str": "02:00.100",
+      "text": "And everybody’s watching her",
+      "translation": "她生来万众瞩目"
+    },
+    {
+      "time": 122.69,
+      "time_str": "02:02.690",
+      "text": "But she’s looking at you, oh, oh",
+      "translation": "可她却只心系于你"
+    },
+    {
+      "time": 125.99,
+      "time_str": "02:05.990",
+      "text": "You, oh, oh, you, oh, oh",
+      "translation": "只有你，她眼中只有你"
+    },
+    {
+      "time": 137.29,
+      "time_str": "02:17.290",
+      "text": "Oh, oh",
+      "translation": null
+    },
+    {
+      "time": 140.15,
+      "time_str": "02:20.150",
+      "text": "You, oh, oh, you, oh, oh",
+      "translation": "眼波流转只为你"
+    },
+    {
+      "time": 149.26,
+      "time_str": "02:29.260",
+      "text": "You, oh, oh",
+      "translation": "只有你"
+    },
+    {
+      "time": 155.62,
+      "time_str": "02:35.620",
+      "text": "Baby, this is what you came for",
+      "translation": "亲爱的，这不就是你所期待的"
+    },
+    {
+      "time": 159.32,
+      "time_str": "02:39.320",
+      "text": "Lightning strikes every time she moves",
+      "translation": "她的每个举动，都在放出闪电，势不可挡"
+    },
+    {
+      "time": 166.87,
+      "time_str": "02:46.870",
+      "text": "Yeah",
+      "translation": null
+    },
+    {
+      "time": 171.21,
+      "time_str": "02:51.210",
+      "text": "Baby,this is what you came for",
+      "translation": "亲爱的 这就是你所期待的"
+    },
+    {
+      "time": 175.11,
+      "time_str": "02:55.110",
+      "text": "Lightning strikes every time she moves",
+      "translation": "她的每个举动，都在放出闪电，势不可挡"
+    },
+    {
+      "time": 182.1,
+      "time_str": "03:02.100",
+      "text": "And everybody’s watching her",
+      "translation": "她生来万众瞩目"
+    },
+    {
+      "time": 184.82,
+      "time_str": "03:04.820",
+      "text": "But she’s looking at you, oh, oh",
+      "translation": "可她却只心系于你"
+    },
+    {
+      "time": 187.9,
+      "time_str": "03:07.900",
+      "text": "You, oh, oh, you, oh, oh",
+      "translation": "只有你，她眼中只有你"
+    },
+    {
+      "time": 191.67,
+      "time_str": "03:11.670",
+      "text": "You, oh, oh, you, oh, oh",
+      "translation": "眼波流转只为你"
+    },
+    {
+      "time": 209.01,
+      "time_str": "03:29.010",
+      "text": "You, oh, oh, you, oh, oh",
+      "translation": "只有你，她只爱你"
+    },
+    {
+      "time": 213.54,
+      "time_str": "03:33.540",
+      "text": "oh, oh",
+      "translation": null
+    },
+    {
+      "time": 216.329,
+      "time_str": "03:36.329",
+      "text": "Backing Vocals : Taylor Swift",
+      "translation": null
+    },
+    {
+      "time": 216.545,
+      "time_str": "03:36.545",
+      "text": "Mixing Engineer : Calvin Harris",
+      "translation": null
+    },
+    {
+      "time": 216.716,
+      "time_str": "03:36.716",
+      "text": "Mastering Engineer : Mike Marsh",
+      "translation": null
+    },
+    {
+      "time": 216.857,
+      "time_str": "03:36.857",
+      "text": "Recording Engineer : Marcos Tovar",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "This Is What You Came For - Calvin Harris,Rihanna.lrc"
+}

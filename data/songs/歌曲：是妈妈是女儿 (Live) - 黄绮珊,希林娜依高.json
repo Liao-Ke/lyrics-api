@@ -1,0 +1,376 @@
+{
+  "title": "歌曲：是妈妈是女儿",
+  "title_raw": "歌曲：是妈妈是女儿 (Live)",
+  "version": "Live",
+  "artist": "黄绮珊,希林娜依高",
+  "group_key": "歌曲：是妈妈是女儿|黄绮珊,希林娜依高",
+  "writers": {
+    "lyricist": "唐恬",
+    "composer": "钱雷",
+    "arranger": "钱雷"
+  },
+  "lyrics": [
+    {
+      "time": 8.13,
+      "time_str": "00:08.130",
+      "text": "我的孩子啊",
+      "translation": null
+    },
+    {
+      "time": 12.93,
+      "time_str": "00:12.930",
+      "text": "我不知道自己做的够好吗",
+      "translation": null
+    },
+    {
+      "time": 19.92,
+      "time_str": "00:19.920",
+      "text": "我是第一次做妈妈",
+      "translation": null
+    },
+    {
+      "time": 25.11,
+      "time_str": "00:25.110",
+      "text": "尽管岁月已吹白我的头发",
+      "translation": null
+    },
+    {
+      "time": 36.66,
+      "time_str": "00:36.660",
+      "text": "送你上学第一天要你勇敢我却哭了",
+      "translation": null
+    },
+    {
+      "time": 43.44,
+      "time_str": "00:43.440",
+      "text": "后来你每回离家挥手说走了",
+      "translation": null
+    },
+    {
+      "time": 50.55,
+      "time_str": "00:50.550",
+      "text": "当告别已变得轻松",
+      "translation": null
+    },
+    {
+      "time": 54.66,
+      "time_str": "00:54.660",
+      "text": "可我的心还会空",
+      "translation": null
+    },
+    {
+      "time": 63.75,
+      "time_str": "01:03.750",
+      "text": "亲爱的妈妈",
+      "translation": null
+    },
+    {
+      "time": 68.64,
+      "time_str": "01:08.640",
+      "text": "我不知道自己做得够好吗",
+      "translation": null
+    },
+    {
+      "time": 75.54,
+      "time_str": "01:15.540",
+      "text": "我是第一次做女儿",
+      "translation": null
+    },
+    {
+      "time": 82.35,
+      "time_str": "01:22.350",
+      "text": "可也是第一次来做我",
+      "translation": null
+    },
+    {
+      "time": 92.55,
+      "time_str": "01:32.550",
+      "text": "离开家的那天车开之后偷偷哭了",
+      "translation": null
+    },
+    {
+      "time": 99.06,
+      "time_str": "01:39.060",
+      "text": "我不想让你担心笑着挥手了",
+      "translation": null
+    },
+    {
+      "time": 107.43,
+      "time_str": "01:47.430",
+      "text": "人长大不轻松我后来才知道",
+      "translation": null
+    },
+    {
+      "time": 117.48,
+      "time_str": "01:57.480",
+      "text": "孩子会穿过大雨",
+      "translation": null
+    },
+    {
+      "time": 120.99,
+      "time_str": "02:00.990",
+      "text": "去懂人间的道理",
+      "translation": null
+    },
+    {
+      "time": 124.5,
+      "time_str": "02:04.500",
+      "text": "我只能唠叨因为我已帮不上你了",
+      "translation": null
+    },
+    {
+      "time": 131.46,
+      "time_str": "02:11.460",
+      "text": "妈妈会留在童年给我打很多电话",
+      "translation": null
+    },
+    {
+      "time": 138.27,
+      "time_str": "02:18.270",
+      "text": "说院子的花开了我先挂了地铁上",
+      "translation": null
+    },
+    {
+      "time": 146.01,
+      "time_str": "02:26.010",
+      "text": "早上吃饭了吗按时睡觉了吗",
+      "translation": null
+    },
+    {
+      "time": 152.97,
+      "time_str": "02:32.970",
+      "text": "原谅我只懂这样参与你生活",
+      "translation": null
+    },
+    {
+      "time": 159.03,
+      "time_str": "02:39.030",
+      "text": "可我都没做的到所以不说话（吃饭了吗）",
+      "translation": null
+    },
+    {
+      "time": 162.6,
+      "time_str": "02:42.600",
+      "text": "不想对你撒谎啊又怕你难过（累不累啊）",
+      "translation": null
+    },
+    {
+      "time": 166.29,
+      "time_str": "02:46.290",
+      "text": "匆匆挂了电话后发现我是那么地想念你啊",
+      "translation": null
+    },
+    {
+      "time": 178.59,
+      "time_str": "02:58.590",
+      "text": "我的孩子啊",
+      "translation": null
+    },
+    {
+      "time": 183.3,
+      "time_str": "03:03.300",
+      "text": "我不知道自己做得够好吗",
+      "translation": null
+    },
+    {
+      "time": 190.23,
+      "time_str": "03:10.230",
+      "text": "放手如果是一门功课",
+      "translation": null
+    },
+    {
+      "time": 197.28,
+      "time_str": "03:17.280",
+      "text": "妈妈一生没考过",
+      "translation": null
+    },
+    {
+      "time": 206.88,
+      "time_str": "03:26.880",
+      "text": "没有按时吃饭忙碌不是我的错",
+      "translation": null
+    },
+    {
+      "time": 210.36,
+      "time_str": "03:30.360",
+      "text": "如果让你知道却会令我很愧疚",
+      "translation": null
+    },
+    {
+      "time": 213.84,
+      "time_str": "03:33.840",
+      "text": "你的嘘寒问暖我知道是为我好的",
+      "translation": null
+    },
+    {
+      "time": 217.32,
+      "time_str": "03:37.320",
+      "text": "但又让我觉得我不曾被信任着",
+      "translation": null
+    },
+    {
+      "time": 220.56,
+      "time_str": "03:40.560",
+      "text": "不担心的人啊一定不做妈妈",
+      "translation": null
+    },
+    {
+      "time": 224.07,
+      "time_str": "03:44.070",
+      "text": "我知道全知道可是我心疼啊",
+      "translation": null
+    },
+    {
+      "time": 227.52,
+      "time_str": "03:47.520",
+      "text": "请放心让我前往属于我的人生吧",
+      "translation": null
+    },
+    {
+      "time": 231.03,
+      "time_str": "03:51.030",
+      "text": "你那么勇敢善良我很像你就不怕",
+      "translation": null
+    },
+    {
+      "time": 234.51,
+      "time_str": "03:54.510",
+      "text": "有一天你也会成为一个妈妈",
+      "translation": null
+    },
+    {
+      "time": 238.14,
+      "time_str": "03:58.140",
+      "text": "那一天我们会深深地拥抱吗",
+      "translation": null
+    },
+    {
+      "time": 241.62,
+      "time_str": "04:01.620",
+      "text": "像溪水环游世界",
+      "translation": null
+    },
+    {
+      "time": 244.68,
+      "time_str": "04:04.680",
+      "text": "拥抱回它出生的河流",
+      "translation": null
+    },
+    {
+      "time": 253.2,
+      "time_str": "04:13.200",
+      "text": "我希望你被爱着",
+      "translation": null
+    },
+    {
+      "time": 256.65,
+      "time_str": "04:16.650",
+      "text": "我希望你要快乐",
+      "translation": null
+    },
+    {
+      "time": 260.13,
+      "time_str": "04:20.130",
+      "text": "我希望我的双手可以为你挡着风",
+      "translation": null
+    },
+    {
+      "time": 267.09,
+      "time_str": "04:27.090",
+      "text": "我知道爱会争吵",
+      "translation": null
+    },
+    {
+      "time": 270.63,
+      "time_str": "04:30.630",
+      "text": "我知道人会变老",
+      "translation": null
+    },
+    {
+      "time": 274.05,
+      "time_str": "04:34.050",
+      "text": "所以那一句爱你一定要大声地说",
+      "translation": null
+    },
+    {
+      "time": 281.67,
+      "time_str": "04:41.670",
+      "text": "列车会准点吗",
+      "translation": null
+    },
+    {
+      "time": 285.18,
+      "time_str": "04:45.180",
+      "text": "路上有吃的吗",
+      "translation": null
+    },
+    {
+      "time": 288.69,
+      "time_str": "04:48.690",
+      "text": "到家后不管几点饭都会热着",
+      "translation": null
+    },
+    {
+      "time": 294.69,
+      "time_str": "04:54.690",
+      "text": "穿过妈妈的目光离家的小巷（快到了吗）",
+      "translation": null
+    },
+    {
+      "time": 298.23,
+      "time_str": "04:58.230",
+      "text": "穿过拥挤的车厢回忆的滚烫（门开着呢）",
+      "translation": null
+    },
+    {
+      "time": 301.71,
+      "time_str": "05:01.710",
+      "text": "穿过温柔的时光",
+      "translation": null
+    },
+    {
+      "time": 303.39,
+      "time_str": "05:03.390",
+      "text": "有你的地方我就有路回家",
+      "translation": null
+    },
+    {
+      "time": 309.96,
+      "time_str": "05:09.960",
+      "text": "回家吧",
+      "translation": null
+    },
+    {
+      "time": 317.73,
+      "time_str": "05:17.730",
+      "text": "我的孩子啊",
+      "translation": null
+    },
+    {
+      "time": 322.44,
+      "time_str": "05:22.440",
+      "text": "我不知道自己做得够好吗",
+      "translation": null
+    },
+    {
+      "time": 329.46,
+      "time_str": "05:29.460",
+      "text": "但有件事我非常确定",
+      "translation": null
+    },
+    {
+      "time": 336.36,
+      "time_str": "05:36.360",
+      "text": "你是最好的女儿",
+      "translation": null
+    },
+    {
+      "time": 343.29,
+      "time_str": "05:43.290",
+      "text": "请相信自己",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "歌曲：是妈妈是女儿 (Live) - 黄绮珊,希林娜依高.lrc"
+}

@@ -1,0 +1,268 @@
+{
+  "title": "明天我要嫁给你了",
+  "title_raw": "明天我要嫁给你了(Live)",
+  "version": "Live",
+  "artist": "梁静茹",
+  "group_key": "明天我要嫁给你了|梁静茹",
+  "writers": {
+    "lyricist": "周华健",
+    "composer": "周华健",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.0,
+      "time_str": "00:15.000",
+      "text": "秒针分针滴答滴答在心中",
+      "translation": null
+    },
+    {
+      "time": 19.0,
+      "time_str": "00:19.000",
+      "text": "我的眼光闪烁闪烁好空洞",
+      "translation": null
+    },
+    {
+      "time": 23.0,
+      "time_str": "00:23.000",
+      "text": "我的心跳扑通扑通的阵阵悸动",
+      "translation": null
+    },
+    {
+      "time": 30.0,
+      "time_str": "00:30.000",
+      "text": "我问自己要你爱你有多浓",
+      "translation": null
+    },
+    {
+      "time": 34.0,
+      "time_str": "00:34.000",
+      "text": "我要和你双宿双飞多冲动",
+      "translation": null
+    },
+    {
+      "time": 38.0,
+      "time_str": "00:38.000",
+      "text": "我的内心忽上忽下的阵阵悸动",
+      "translation": null
+    },
+    {
+      "time": 46.0,
+      "time_str": "00:46.000",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 49.0,
+      "time_str": "00:49.000",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "要不是每天的交通",
+      "translation": null
+    },
+    {
+      "time": 55.0,
+      "time_str": "00:55.000",
+      "text": "烦扰着我所有的梦",
+      "translation": null
+    },
+    {
+      "time": 60.0,
+      "time_str": "01:00.000",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 64.0,
+      "time_str": "01:04.000",
+      "text": "明天终于嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 68.0,
+      "time_str": "01:08.000",
+      "text": "要不是你问我",
+      "translation": null
+    },
+    {
+      "time": 69.0,
+      "time_str": "01:09.000",
+      "text": "要不是你劝我",
+      "translation": null
+    },
+    {
+      "time": 71.0,
+      "time_str": "01:11.000",
+      "text": "要不是适当的适合",
+      "translation": null
+    },
+    {
+      "time": 74.0,
+      "time_str": "01:14.000",
+      "text": "你让我心动",
+      "translation": null
+    },
+    {
+      "time": 90.7,
+      "time_str": "01:30.700",
+      "text": "秒针分针滴答滴答在心中",
+      "translation": null
+    },
+    {
+      "time": 91.8,
+      "time_str": "01:31.800",
+      "text": "我的心跳扑通扑通的阵阵悸动",
+      "translation": null
+    },
+    {
+      "time": 92.3,
+      "time_str": "01:32.300",
+      "text": "我的眼光闪烁闪烁好空洞",
+      "translation": null
+    },
+    {
+      "time": 96.4,
+      "time_str": "01:36.400",
+      "text": "我问自己要你爱你有多浓",
+      "translation": null
+    },
+    {
+      "time": 98.3,
+      "time_str": "01:38.300",
+      "text": "我要和你双宿双飞多冲动",
+      "translation": null
+    },
+    {
+      "time": 102.3,
+      "time_str": "01:42.300",
+      "text": "我的内心忽上忽下的阵阵悸动",
+      "translation": null
+    },
+    {
+      "time": 109.3,
+      "time_str": "01:49.300",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 113.3,
+      "time_str": "01:53.300",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 116.3,
+      "time_str": "01:56.300",
+      "text": "要不是停电那一夜",
+      "translation": null
+    },
+    {
+      "time": 119.3,
+      "time_str": "01:59.300",
+      "text": "才发现我寂寞空洞",
+      "translation": null
+    },
+    {
+      "time": 124.3,
+      "time_str": "02:04.300",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 128.3,
+      "time_str": "02:08.300",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 131.3,
+      "time_str": "02:11.300",
+      "text": "要不是你问我",
+      "translation": null
+    },
+    {
+      "time": 133.3,
+      "time_str": "02:13.300",
+      "text": "要不是你劝我",
+      "translation": null
+    },
+    {
+      "time": 135.3,
+      "time_str": "02:15.300",
+      "text": "要不是适当的适合",
+      "translation": null
+    },
+    {
+      "time": 138.3,
+      "time_str": "02:18.300",
+      "text": "你让我心动",
+      "translation": null
+    },
+    {
+      "time": 144.3,
+      "time_str": "02:24.300",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 147.3,
+      "time_str": "02:27.300",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 150.3,
+      "time_str": "02:30.300",
+      "text": "要不是每天的交通",
+      "translation": null
+    },
+    {
+      "time": 153.3,
+      "time_str": "02:33.300",
+      "text": "烦扰着我所有的梦",
+      "translation": null
+    },
+    {
+      "time": 158.3,
+      "time_str": "02:38.300",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 162.3,
+      "time_str": "02:42.300",
+      "text": "明天终于嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 166.3,
+      "time_str": "02:46.300",
+      "text": "要不是你问我",
+      "translation": null
+    },
+    {
+      "time": 168.3,
+      "time_str": "02:48.300",
+      "text": "要不是你劝我",
+      "translation": null
+    },
+    {
+      "time": 169.3,
+      "time_str": "02:49.300",
+      "text": "可是我就在这时候",
+      "translation": null
+    },
+    {
+      "time": 172.3,
+      "time_str": "02:52.300",
+      "text": "害怕惶恐",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "明天我要嫁给你了(Live) - 梁静茹.lrc"
+}

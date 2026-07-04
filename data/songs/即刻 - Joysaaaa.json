@@ -1,0 +1,370 @@
+{
+  "title": "即刻",
+  "title_raw": "即刻",
+  "version": null,
+  "artist": "Joysaaaa",
+  "group_key": "即刻|joysaaaa",
+  "writers": {
+    "lyricist": "周仁",
+    "composer": "路柯",
+    "arranger": "郑聪慧"
+  },
+  "lyrics": [
+    {
+      "time": 4.48,
+      "time_str": "00:04.480",
+      "text": "【未经许可，不得翻唱或使用】",
+      "translation": null
+    },
+    {
+      "time": 19.44,
+      "time_str": "00:19.440",
+      "text": "听见叹息 以后保持距离",
+      "translation": null
+    },
+    {
+      "time": 23.75,
+      "time_str": "00:23.750",
+      "text": "我是我 你是你",
+      "translation": null
+    },
+    {
+      "time": 27.99,
+      "time_str": "00:27.990",
+      "text": "悄无声息 第一时间失去",
+      "translation": null
+    },
+    {
+      "time": 31.99,
+      "time_str": "00:31.990",
+      "text": "你已各自删掉联系",
+      "translation": null
+    },
+    {
+      "time": 36.77,
+      "time_str": "00:36.770",
+      "text": "也不可以 重新回到原地",
+      "translation": null
+    },
+    {
+      "time": 40.91,
+      "time_str": "00:40.910",
+      "text": "你迟疑 我想你",
+      "translation": null
+    },
+    {
+      "time": 45.26,
+      "time_str": "00:45.260",
+      "text": "留在心里",
+      "translation": null
+    },
+    {
+      "time": 46.83,
+      "time_str": "00:46.830",
+      "text": "那一段用来复习的回忆",
+      "translation": null
+    },
+    {
+      "time": 53.58,
+      "time_str": "00:53.580",
+      "text": "所有的关心 明显不合时宜",
+      "translation": null
+    },
+    {
+      "time": 58.21,
+      "time_str": "00:58.210",
+      "text": "分开的瞬息 深刻记忆",
+      "translation": null
+    },
+    {
+      "time": 62.47,
+      "time_str": "01:02.470",
+      "text": "无能为力 不多言语",
+      "translation": null
+    },
+    {
+      "time": 66.53,
+      "time_str": "01:06.530",
+      "text": "我们只配惋惜",
+      "translation": null
+    },
+    {
+      "time": 69.63,
+      "time_str": "01:09.630",
+      "text": "从即刻起说",
+      "translation": null
+    },
+    {
+      "time": 71.04,
+      "time_str": "01:11.040",
+      "text": "对不起谎话没恶意",
+      "translation": null
+    },
+    {
+      "time": 73.82,
+      "time_str": "01:13.820",
+      "text": "明天还 能不能",
+      "translation": null
+    },
+    {
+      "time": 75.49,
+      "time_str": "01:15.490",
+      "text": "和现在一样熟悉",
+      "translation": null
+    },
+    {
+      "time": 79.23,
+      "time_str": "01:19.230",
+      "text": "从开篇起 埋下了伏笔",
+      "translation": null
+    },
+    {
+      "time": 82.59,
+      "time_str": "01:22.590",
+      "text": "骄傲的你 哪里来的底气",
+      "translation": null
+    },
+    {
+      "time": 86.8,
+      "time_str": "01:26.800",
+      "text": "从即刻起",
+      "translation": null
+    },
+    {
+      "time": 87.81,
+      "time_str": "01:27.810",
+      "text": "说对不起谎话没恶意",
+      "translation": null
+    },
+    {
+      "time": 91.1,
+      "time_str": "01:31.100",
+      "text": "一把伞也遮不住吹过来的雨",
+      "translation": null
+    },
+    {
+      "time": 96.26,
+      "time_str": "01:36.260",
+      "text": "再纠缠没什么意义",
+      "translation": null
+    },
+    {
+      "time": 99.65,
+      "time_str": "01:39.650",
+      "text": "让我销声匿迹",
+      "translation": null
+    },
+    {
+      "time": 122.22,
+      "time_str": "02:02.220",
+      "text": "听见叹息 以后保持距离",
+      "translation": null
+    },
+    {
+      "time": 126.51,
+      "time_str": "02:06.510",
+      "text": "我是我 你是你",
+      "translation": null
+    },
+    {
+      "time": 130.86,
+      "time_str": "02:10.860",
+      "text": "悄无声息 第一时间失去",
+      "translation": null
+    },
+    {
+      "time": 135.1,
+      "time_str": "02:15.100",
+      "text": "你已各自删掉联系",
+      "translation": null
+    },
+    {
+      "time": 139.45,
+      "time_str": "02:19.450",
+      "text": "也不可以 重新回到原地",
+      "translation": null
+    },
+    {
+      "time": 143.75,
+      "time_str": "02:23.750",
+      "text": "你迟疑 我想你",
+      "translation": null
+    },
+    {
+      "time": 148.04,
+      "time_str": "02:28.040",
+      "text": "留在心里",
+      "translation": null
+    },
+    {
+      "time": 149.66,
+      "time_str": "02:29.660",
+      "text": "那一段用来复习的回忆",
+      "translation": null
+    },
+    {
+      "time": 156.62,
+      "time_str": "02:36.620",
+      "text": "所有的关心 明显不合时宜",
+      "translation": null
+    },
+    {
+      "time": 160.86,
+      "time_str": "02:40.860",
+      "text": "分开的瞬息 深刻记忆",
+      "translation": null
+    },
+    {
+      "time": 165.15,
+      "time_str": "02:45.150",
+      "text": "无能为力 不多言语",
+      "translation": null
+    },
+    {
+      "time": 169.3,
+      "time_str": "02:49.300",
+      "text": "我们只配惋惜",
+      "translation": null
+    },
+    {
+      "time": 172.42,
+      "time_str": "02:52.420",
+      "text": "从即刻起说",
+      "translation": null
+    },
+    {
+      "time": 173.74,
+      "time_str": "02:53.740",
+      "text": "对不起谎话没恶意",
+      "translation": null
+    },
+    {
+      "time": 176.72,
+      "time_str": "02:56.720",
+      "text": "明天还 能不能",
+      "translation": null
+    },
+    {
+      "time": 178.38,
+      "time_str": "02:58.380",
+      "text": "和现在一样熟悉",
+      "translation": null
+    },
+    {
+      "time": 181.97,
+      "time_str": "03:01.970",
+      "text": "从开篇起 埋下了伏笔",
+      "translation": null
+    },
+    {
+      "time": 185.38,
+      "time_str": "03:05.380",
+      "text": "骄傲的你 哪里来的底气",
+      "translation": null
+    },
+    {
+      "time": 189.6,
+      "time_str": "03:09.600",
+      "text": "从即刻起说",
+      "translation": null
+    },
+    {
+      "time": 190.97,
+      "time_str": "03:10.970",
+      "text": "对不起谎话没恶意",
+      "translation": null
+    },
+    {
+      "time": 193.85,
+      "time_str": "03:13.850",
+      "text": "一把伞也遮不住吹过来的雨",
+      "translation": null
+    },
+    {
+      "time": 199.21,
+      "time_str": "03:19.210",
+      "text": "再纠缠没什么意义",
+      "translation": null
+    },
+    {
+      "time": 202.5,
+      "time_str": "03:22.500",
+      "text": "让我销声匿迹",
+      "translation": null
+    },
+    {
+      "time": 206.8,
+      "time_str": "03:26.800",
+      "text": "从即刻起说",
+      "translation": null
+    },
+    {
+      "time": 208.11,
+      "time_str": "03:28.110",
+      "text": "对不起谎话没恶意",
+      "translation": null
+    },
+    {
+      "time": 211.0,
+      "time_str": "03:31.000",
+      "text": "明天还 能不能",
+      "translation": null
+    },
+    {
+      "time": 212.77,
+      "time_str": "03:32.770",
+      "text": "和现在一样熟悉",
+      "translation": null
+    },
+    {
+      "time": 216.21,
+      "time_str": "03:36.210",
+      "text": "从开篇起 埋下了伏笔",
+      "translation": null
+    },
+    {
+      "time": 219.65,
+      "time_str": "03:39.650",
+      "text": "骄傲的你 哪里来的底气",
+      "translation": null
+    },
+    {
+      "time": 223.9,
+      "time_str": "03:43.900",
+      "text": "从即刻起",
+      "translation": null
+    },
+    {
+      "time": 224.96,
+      "time_str": "03:44.960",
+      "text": "说对不起谎话没恶意",
+      "translation": null
+    },
+    {
+      "time": 228.1,
+      "time_str": "03:48.100",
+      "text": "一把伞也遮不住吹过来的雨",
+      "translation": null
+    },
+    {
+      "time": 233.35,
+      "time_str": "03:53.350",
+      "text": "再纠缠没什么意义",
+      "translation": null
+    },
+    {
+      "time": 236.79,
+      "time_str": "03:56.790",
+      "text": "让我销声匿迹",
+      "translation": null
+    },
+    {
+      "time": 255.78,
+      "time_str": "04:15.780",
+      "text": "封面设计 : 333%",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "即刻 - Joysaaaa.lrc"
+}

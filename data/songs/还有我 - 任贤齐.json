@@ -1,0 +1,238 @@
+{
+  "title": "还有我",
+  "title_raw": "还有我",
+  "version": null,
+  "artist": "任贤齐",
+  "group_key": "还有我|任贤齐",
+  "writers": {
+    "lyricist": "任贤齐",
+    "composer": "任贤齐",
+    "arranger": "葛子毅"
+  },
+  "lyrics": [
+    {
+      "time": 27.74,
+      "time_str": "00:27.740",
+      "text": "看着你有些累",
+      "translation": null
+    },
+    {
+      "time": 31.29,
+      "time_str": "00:31.290",
+      "text": "想要一个人静一会",
+      "translation": null
+    },
+    {
+      "time": 35.2,
+      "time_str": "00:35.200",
+      "text": "你的眼含着泪",
+      "translation": null
+    },
+    {
+      "time": 37.95,
+      "time_str": "00:37.950",
+      "text": "我的心也跟着碎",
+      "translation": null
+    },
+    {
+      "time": 41.48,
+      "time_str": "00:41.480",
+      "text": "你为哪个人憔悴",
+      "translation": null
+    },
+    {
+      "time": 44.89,
+      "time_str": "00:44.890",
+      "text": "为他扛下所有罪",
+      "translation": null
+    },
+    {
+      "time": 48.26,
+      "time_str": "00:48.260",
+      "text": "我为你执迷不悔",
+      "translation": null
+    },
+    {
+      "time": 51.48,
+      "time_str": "00:51.480",
+      "text": "整夜无法入睡",
+      "translation": null
+    },
+    {
+      "time": 56.98,
+      "time_str": "00:56.980",
+      "text": "就算全世界离开你",
+      "translation": null
+    },
+    {
+      "time": 60.32,
+      "time_str": "01:00.320",
+      "text": "还有一个我来陪",
+      "translation": null
+    },
+    {
+      "time": 63.79,
+      "time_str": "01:03.790",
+      "text": "怎么舍得让你受尽冷风吹",
+      "translation": null
+    },
+    {
+      "time": 70.08,
+      "time_str": "01:10.080",
+      "text": "就算全世界在下雪",
+      "translation": null
+    },
+    {
+      "time": 74.17,
+      "time_str": "01:14.170",
+      "text": "就算候鸟已南飞",
+      "translation": null
+    },
+    {
+      "time": 77.6,
+      "time_str": "01:17.600",
+      "text": "还有我在这里",
+      "translation": null
+    },
+    {
+      "time": 80.76,
+      "time_str": "01:20.760",
+      "text": "痴痴地等你归",
+      "translation": null
+    },
+    {
+      "time": 108.27,
+      "time_str": "01:48.270",
+      "text": "你装作无所谓",
+      "translation": null
+    },
+    {
+      "time": 111.68,
+      "time_str": "01:51.680",
+      "text": "其实已痛彻心扉",
+      "translation": null
+    },
+    {
+      "time": 115.12,
+      "time_str": "01:55.120",
+      "text": "没想象中的坚强",
+      "translation": null
+    },
+    {
+      "time": 118.46,
+      "time_str": "01:58.460",
+      "text": "坚强地面对是与非",
+      "translation": null
+    },
+    {
+      "time": 121.93,
+      "time_str": "02:01.930",
+      "text": "想要给你的安慰",
+      "translation": null
+    },
+    {
+      "time": 125.3,
+      "time_str": "02:05.300",
+      "text": "你淡淡笑着拒绝",
+      "translation": null
+    },
+    {
+      "time": 128.71,
+      "time_str": "02:08.710",
+      "text": "满身伤痕的爱情",
+      "translation": null
+    },
+    {
+      "time": 132.18,
+      "time_str": "02:12.180",
+      "text": "不值得你付出一切",
+      "translation": null
+    },
+    {
+      "time": 138.1,
+      "time_str": "02:18.100",
+      "text": "就算全世界离开你",
+      "translation": null
+    },
+    {
+      "time": 140.68,
+      "time_str": "02:20.680",
+      "text": "还有一个我来陪",
+      "translation": null
+    },
+    {
+      "time": 144.28,
+      "time_str": "02:24.280",
+      "text": "怎么舍得让你受尽冷风吹",
+      "translation": null
+    },
+    {
+      "time": 151.1,
+      "time_str": "02:31.100",
+      "text": "就算全世界在下雪",
+      "translation": null
+    },
+    {
+      "time": 154.65,
+      "time_str": "02:34.650",
+      "text": "就算候鸟已南飞",
+      "translation": null
+    },
+    {
+      "time": 158.09,
+      "time_str": "02:38.090",
+      "text": "还有我在这里",
+      "translation": null
+    },
+    {
+      "time": 160.78,
+      "time_str": "02:40.780",
+      "text": "痴痴地等你归",
+      "translation": null
+    },
+    {
+      "time": 164.44,
+      "time_str": "02:44.440",
+      "text": "就算全世界离开你",
+      "translation": null
+    },
+    {
+      "time": 168.34,
+      "time_str": "02:48.340",
+      "text": "还有一个我来陪",
+      "translation": null
+    },
+    {
+      "time": 171.72,
+      "time_str": "02:51.720",
+      "text": "怎么舍得让你受尽冷风吹",
+      "translation": null
+    },
+    {
+      "time": 178.44,
+      "time_str": "02:58.440",
+      "text": "就算全世界在下雪",
+      "translation": null
+    },
+    {
+      "time": 182.03,
+      "time_str": "03:02.030",
+      "text": "就算候鸟已南飞",
+      "translation": null
+    },
+    {
+      "time": 185.5,
+      "time_str": "03:05.500",
+      "text": "还有我在这里",
+      "translation": null
+    },
+    {
+      "time": 188.38,
+      "time_str": "03:08.380",
+      "text": "痴痴地等你归",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "还有我 - 任贤齐.lrc"
+}

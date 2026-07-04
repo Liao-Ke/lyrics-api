@@ -1,0 +1,256 @@
+{
+  "title": "独角戏",
+  "title_raw": "独角戏",
+  "version": null,
+  "artist": "许茹芸",
+  "group_key": "独角戏|许茹芸",
+  "writers": {
+    "lyricist": "许常德",
+    "composer": "季忠平",
+    "arranger": "涂惠源/徐德昌"
+  },
+  "lyrics": [
+    {
+      "time": 49.11,
+      "time_str": "00:49.110",
+      "text": "是谁导演这场戏",
+      "translation": null
+    },
+    {
+      "time": 53.29,
+      "time_str": "00:53.290",
+      "text": "在这孤单角色里",
+      "translation": null
+    },
+    {
+      "time": 56.78,
+      "time_str": "00:56.780",
+      "text": "对白总是自言自语",
+      "translation": null
+    },
+    {
+      "time": 59.37,
+      "time_str": "00:59.370",
+      "text": "对手都是回忆 看不出什么结局",
+      "translation": null
+    },
+    {
+      "time": 65.83,
+      "time_str": "01:05.830",
+      "text": "自始至终全是你",
+      "translation": null
+    },
+    {
+      "time": 70.0,
+      "time_str": "01:10.000",
+      "text": "让我投入太彻底",
+      "translation": null
+    },
+    {
+      "time": 73.31,
+      "time_str": "01:13.310",
+      "text": "故事如果注定悲剧",
+      "translation": null
+    },
+    {
+      "time": 76.03,
+      "time_str": "01:16.030",
+      "text": "何苦给我美丽 演出相聚和别离",
+      "translation": null
+    },
+    {
+      "time": 82.54,
+      "time_str": "01:22.540",
+      "text": "没有星星的夜里",
+      "translation": null
+    },
+    {
+      "time": 86.51,
+      "time_str": "01:26.510",
+      "text": "我用泪光吸引你",
+      "translation": null
+    },
+    {
+      "time": 90.22,
+      "time_str": "01:30.220",
+      "text": "既然爱你不能言语",
+      "translation": null
+    },
+    {
+      "time": 92.83,
+      "time_str": "01:32.830",
+      "text": "只能微笑哭泣 让我从此忘了你",
+      "translation": null
+    },
+    {
+      "time": 99.2,
+      "time_str": "01:39.200",
+      "text": "没有星星的夜里",
+      "translation": null
+    },
+    {
+      "time": 103.37,
+      "time_str": "01:43.370",
+      "text": "我把往事留给你",
+      "translation": null
+    },
+    {
+      "time": 107.01,
+      "time_str": "01:47.010",
+      "text": "如果一切只是演戏",
+      "translation": null
+    },
+    {
+      "time": 109.52,
+      "time_str": "01:49.520",
+      "text": "要你好好看戏 心碎只是我自己",
+      "translation": null
+    },
+    {
+      "time": 141.24,
+      "time_str": "02:21.240",
+      "text": "是谁导演这场戏",
+      "translation": null
+    },
+    {
+      "time": 145.18,
+      "time_str": "02:25.180",
+      "text": "在这孤单角色里",
+      "translation": null
+    },
+    {
+      "time": 148.8,
+      "time_str": "02:28.800",
+      "text": "对白总是自言自语",
+      "translation": null
+    },
+    {
+      "time": 151.49,
+      "time_str": "02:31.490",
+      "text": "对手都是回忆 看不出什么结局",
+      "translation": null
+    },
+    {
+      "time": 157.98,
+      "time_str": "02:37.980",
+      "text": "自始至终全是你",
+      "translation": null
+    },
+    {
+      "time": 161.97,
+      "time_str": "02:41.970",
+      "text": "让我投入太彻底",
+      "translation": null
+    },
+    {
+      "time": 165.54,
+      "time_str": "02:45.540",
+      "text": "故事如果注定悲剧",
+      "translation": null
+    },
+    {
+      "time": 168.2,
+      "time_str": "02:48.200",
+      "text": "何苦给我美丽 演出相聚和别离",
+      "translation": null
+    },
+    {
+      "time": 174.68,
+      "time_str": "02:54.680",
+      "text": "没有星星的夜里",
+      "translation": null
+    },
+    {
+      "time": 178.88,
+      "time_str": "02:58.880",
+      "text": "我用泪光吸引你",
+      "translation": null
+    },
+    {
+      "time": 182.47,
+      "time_str": "03:02.470",
+      "text": "既然爱你不能言语",
+      "translation": null
+    },
+    {
+      "time": 184.9,
+      "time_str": "03:04.900",
+      "text": "只能微笑哭泣 让我从此忘了你",
+      "translation": null
+    },
+    {
+      "time": 191.33,
+      "time_str": "03:11.330",
+      "text": "没有星星的夜里",
+      "translation": null
+    },
+    {
+      "time": 195.64,
+      "time_str": "03:15.640",
+      "text": "我把往事留给你",
+      "translation": null
+    },
+    {
+      "time": 199.08,
+      "time_str": "03:19.080",
+      "text": "如果一切只是演戏",
+      "translation": null
+    },
+    {
+      "time": 201.74,
+      "time_str": "03:21.740",
+      "text": "要你好好看戏 心碎只是我自己",
+      "translation": null
+    },
+    {
+      "time": 212.37,
+      "time_str": "03:32.370",
+      "text": "没有星星的夜里",
+      "translation": null
+    },
+    {
+      "time": 216.52,
+      "time_str": "03:36.520",
+      "text": "我用泪光吸引你",
+      "translation": null
+    },
+    {
+      "time": 220.01,
+      "time_str": "03:40.010",
+      "text": "既然爱你不能言语",
+      "translation": null
+    },
+    {
+      "time": 222.68,
+      "time_str": "03:42.680",
+      "text": "只能微笑哭泣 让我从此忘了你",
+      "translation": null
+    },
+    {
+      "time": 229.17,
+      "time_str": "03:49.170",
+      "text": "没有星星的夜里",
+      "translation": null
+    },
+    {
+      "time": 233.3,
+      "time_str": "03:53.300",
+      "text": "我把往事留给你",
+      "translation": null
+    },
+    {
+      "time": 236.71,
+      "time_str": "03:56.710",
+      "text": "如果一切只是演戏",
+      "translation": null
+    },
+    {
+      "time": 239.41,
+      "time_str": "03:59.410",
+      "text": "要你好好看戏 心碎只是我自己",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "独角戏 - 许茹芸.lrc"
+}

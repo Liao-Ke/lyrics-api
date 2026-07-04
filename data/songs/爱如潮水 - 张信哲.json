@@ -1,0 +1,220 @@
+{
+  "title": "爱如潮水",
+  "title_raw": "爱如潮水",
+  "version": null,
+  "artist": "张信哲",
+  "group_key": "爱如潮水|张信哲",
+  "writers": {
+    "lyricist": "李宗盛",
+    "composer": "黎沸挥",
+    "arranger": "鲍比达"
+  },
+  "lyrics": [
+    {
+      "time": 31.409,
+      "time_str": "00:31.409",
+      "text": "不问你为何流眼泪",
+      "translation": null
+    },
+    {
+      "time": 39.308,
+      "time_str": "00:39.308",
+      "text": "不在乎你心里还有谁",
+      "translation": null
+    },
+    {
+      "time": 46.498,
+      "time_str": "00:46.498",
+      "text": "且让我给你安慰",
+      "translation": null
+    },
+    {
+      "time": 50.338,
+      "time_str": "00:50.338",
+      "text": "不论结局是喜是悲",
+      "translation": null
+    },
+    {
+      "time": 54.098,
+      "time_str": "00:54.098",
+      "text": "走过千山万水",
+      "translation": null
+    },
+    {
+      "time": 57.018,
+      "time_str": "00:57.018",
+      "text": "在我心里你永远是那么美",
+      "translation": null
+    },
+    {
+      "time": 64.538,
+      "time_str": "01:04.538",
+      "text": "既然爱了就不后悔",
+      "translation": null
+    },
+    {
+      "time": 71.79,
+      "time_str": "01:11.790",
+      "text": "再多的苦我也愿意背",
+      "translation": null
+    },
+    {
+      "time": 78.488,
+      "time_str": "01:18.488",
+      "text": "我的爱如潮水 爱如潮水将我向你推",
+      "translation": null
+    },
+    {
+      "time": 87.008,
+      "time_str": "01:27.008",
+      "text": "紧紧跟随",
+      "translation": null
+    },
+    {
+      "time": 90.08,
+      "time_str": "01:30.080",
+      "text": "爱如潮水她将你我包围",
+      "translation": null
+    },
+    {
+      "time": 96.258,
+      "time_str": "01:36.258",
+      "text": "我再也不愿见你在深夜里买醉",
+      "translation": null
+    },
+    {
+      "time": 101.169,
+      "time_str": "01:41.169",
+      "text": "不愿别的男人见识你的妩媚",
+      "translation": null
+    },
+    {
+      "time": 104.208,
+      "time_str": "01:44.208",
+      "text": "你该知道这样会让我心碎",
+      "translation": null
+    },
+    {
+      "time": 110.677,
+      "time_str": "01:50.677",
+      "text": "答应我你从此不在深夜里徘徊",
+      "translation": null
+    },
+    {
+      "time": 114.918,
+      "time_str": "01:54.918",
+      "text": "不要轻易尝试放纵的滋味",
+      "translation": null
+    },
+    {
+      "time": 118.659,
+      "time_str": "01:58.659",
+      "text": "你可知道这样会让我心碎",
+      "translation": null
+    },
+    {
+      "time": 153.82,
+      "time_str": "02:33.820",
+      "text": "既然爱了就无怨无悔",
+      "translation": null
+    },
+    {
+      "time": 161.84,
+      "time_str": "02:41.840",
+      "text": "再多的苦我也愿意背",
+      "translation": null
+    },
+    {
+      "time": 169.19,
+      "time_str": "02:49.190",
+      "text": "我的爱如潮水 爱如潮水将我向你推",
+      "translation": null
+    },
+    {
+      "time": 177.0,
+      "time_str": "02:57.000",
+      "text": "紧紧跟随",
+      "translation": null
+    },
+    {
+      "time": 180.0,
+      "time_str": "03:00.000",
+      "text": "爱如潮水她将你我包围",
+      "translation": null
+    },
+    {
+      "time": 186.37,
+      "time_str": "03:06.370",
+      "text": "我再也不愿见你在深夜里买醉",
+      "translation": null
+    },
+    {
+      "time": 190.28,
+      "time_str": "03:10.280",
+      "text": "不愿别的男人见识你的妩媚",
+      "translation": null
+    },
+    {
+      "time": 193.95,
+      "time_str": "03:13.950",
+      "text": "你该知道这样会让我心碎",
+      "translation": null
+    },
+    {
+      "time": 200.0,
+      "time_str": "03:20.000",
+      "text": "答应我你从此不在深夜里徘徊",
+      "translation": null
+    },
+    {
+      "time": 204.57,
+      "time_str": "03:24.570",
+      "text": "不要轻易尝试放纵的滋味",
+      "translation": null
+    },
+    {
+      "time": 208.9,
+      "time_str": "03:28.900",
+      "text": "你可知道这样会让我心碎",
+      "translation": null
+    },
+    {
+      "time": 215.0,
+      "time_str": "03:35.000",
+      "text": "我再也不愿见你在深夜里买醉",
+      "translation": null
+    },
+    {
+      "time": 218.77,
+      "time_str": "03:38.770",
+      "text": "不愿别的男人见识你的妩媚",
+      "translation": null
+    },
+    {
+      "time": 222.52,
+      "time_str": "03:42.520",
+      "text": "你该知道这样会让我心碎",
+      "translation": null
+    },
+    {
+      "time": 228.74,
+      "time_str": "03:48.740",
+      "text": "答应我你从此不在深夜里徘徊",
+      "translation": null
+    },
+    {
+      "time": 233.25,
+      "time_str": "03:53.250",
+      "text": "不要轻易尝试放纵的滋味",
+      "translation": null
+    },
+    {
+      "time": 236.87,
+      "time_str": "03:56.870",
+      "text": "你可知道这样会让我心碎",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱如潮水 - 张信哲.lrc"
+}

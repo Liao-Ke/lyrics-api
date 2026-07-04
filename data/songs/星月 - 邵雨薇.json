@@ -1,0 +1,304 @@
+{
+  "title": "星月",
+  "title_raw": "星月",
+  "version": null,
+  "artist": "邵雨薇",
+  "group_key": "星月|邵雨薇",
+  "writers": {
+    "lyricist": "扬扬",
+    "composer": "刘伟德",
+    "arranger": "刘伟德"
+  },
+  "lyrics": [
+    {
+      "time": 13.05,
+      "time_str": "00:13.050",
+      "text": "星星怕一眨眼",
+      "translation": null
+    },
+    {
+      "time": 17.35,
+      "time_str": "00:17.350",
+      "text": "月就会消失不见",
+      "translation": null
+    },
+    {
+      "time": 25.36,
+      "time_str": "00:25.360",
+      "text": "月牵起她的手",
+      "translation": null
+    },
+    {
+      "time": 29.62,
+      "time_str": "00:29.620",
+      "text": "承诺会陪在身边",
+      "translation": null
+    },
+    {
+      "time": 36.94,
+      "time_str": "00:36.940",
+      "text": "星月相约 永远相随",
+      "translation": null
+    },
+    {
+      "time": 43.03,
+      "time_str": "00:43.030",
+      "text": "一起照亮世界",
+      "translation": null
+    },
+    {
+      "time": 49.25,
+      "time_str": "00:49.250",
+      "text": "直到那天月突然间",
+      "translation": null
+    },
+    {
+      "time": 55.49,
+      "time_str": "00:55.490",
+      "text": "背弃他的诺言",
+      "translation": null
+    },
+    {
+      "time": 59.68,
+      "time_str": "00:59.680",
+      "text": "星星挂在天边",
+      "translation": null
+    },
+    {
+      "time": 63.07,
+      "time_str": "01:03.070",
+      "text": "再也没有了月",
+      "translation": null
+    },
+    {
+      "time": 66.21,
+      "time_str": "01:06.210",
+      "text": "她不愿流泪",
+      "translation": null
+    },
+    {
+      "time": 68.48,
+      "time_str": "01:08.480",
+      "text": "也不会选择往下坠",
+      "translation": null
+    },
+    {
+      "time": 72.03,
+      "time_str": "01:12.030",
+      "text": "星星不再想念",
+      "translation": null
+    },
+    {
+      "time": 75.42,
+      "time_str": "01:15.420",
+      "text": "决定自己照亮这个世界",
+      "translation": null
+    },
+    {
+      "time": 79.57,
+      "time_str": "01:19.570",
+      "text": "闪耀在没有月的夜",
+      "translation": null
+    },
+    {
+      "time": 84.18,
+      "time_str": "01:24.180",
+      "text": "没有你的黑夜",
+      "translation": null
+    },
+    {
+      "time": 87.12,
+      "time_str": "01:27.120",
+      "text": "I'll keep upon shining",
+      "translation": null
+    },
+    {
+      "time": 90.46,
+      "time_str": "01:30.460",
+      "text": "没有你的黑夜",
+      "translation": null
+    },
+    {
+      "time": 93.14,
+      "time_str": "01:33.140",
+      "text": "I'll keep upon shining",
+      "translation": null
+    },
+    {
+      "time": 96.63,
+      "time_str": "01:36.630",
+      "text": "没有你的黑夜",
+      "translation": null
+    },
+    {
+      "time": 99.31,
+      "time_str": "01:39.310",
+      "text": "I'll keep upon shining",
+      "translation": null
+    },
+    {
+      "time": 102.9,
+      "time_str": "01:42.900",
+      "text": "没有你的黑夜",
+      "translation": null
+    },
+    {
+      "time": 105.33,
+      "time_str": "01:45.330",
+      "text": "I'll keep upon shining",
+      "translation": null
+    },
+    {
+      "time": 111.61,
+      "time_str": "01:51.610",
+      "text": "星星怕一眨眼",
+      "translation": null
+    },
+    {
+      "time": 115.8,
+      "time_str": "01:55.800",
+      "text": "月就会消失不见",
+      "translation": null
+    },
+    {
+      "time": 123.95,
+      "time_str": "02:03.950",
+      "text": "月牵起她的手",
+      "translation": null
+    },
+    {
+      "time": 128.06,
+      "time_str": "02:08.060",
+      "text": "承诺会陪在身边",
+      "translation": null
+    },
+    {
+      "time": 135.32,
+      "time_str": "02:15.320",
+      "text": "星月相约 永远相随",
+      "translation": null
+    },
+    {
+      "time": 141.54,
+      "time_str": "02:21.540",
+      "text": "一起照亮世界",
+      "translation": null
+    },
+    {
+      "time": 147.67,
+      "time_str": "02:27.670",
+      "text": "直到那天月突然间",
+      "translation": null
+    },
+    {
+      "time": 153.8,
+      "time_str": "02:33.800",
+      "text": "背弃他的诺言",
+      "translation": null
+    },
+    {
+      "time": 158.1,
+      "time_str": "02:38.100",
+      "text": "星星挂在天边",
+      "translation": null
+    },
+    {
+      "time": 161.49,
+      "time_str": "02:41.490",
+      "text": "再也没有了月",
+      "translation": null
+    },
+    {
+      "time": 164.58,
+      "time_str": "02:44.580",
+      "text": "她不愿流泪",
+      "translation": null
+    },
+    {
+      "time": 166.86,
+      "time_str": "02:46.860",
+      "text": "也不会选择往下坠",
+      "translation": null
+    },
+    {
+      "time": 170.5,
+      "time_str": "02:50.500",
+      "text": "星星不再想念",
+      "translation": null
+    },
+    {
+      "time": 173.84,
+      "time_str": "02:53.840",
+      "text": "决定自己照亮这个世界",
+      "translation": null
+    },
+    {
+      "time": 177.98,
+      "time_str": "02:57.980",
+      "text": "闪耀在没有月的夜",
+      "translation": null
+    },
+    {
+      "time": 182.73,
+      "time_str": "03:02.730",
+      "text": "没有你的黑夜",
+      "translation": null
+    },
+    {
+      "time": 185.71,
+      "time_str": "03:05.710",
+      "text": "I'll keep upon shining",
+      "translation": null
+    },
+    {
+      "time": 188.9,
+      "time_str": "03:08.900",
+      "text": "没有你的黑夜",
+      "translation": null
+    },
+    {
+      "time": 191.58,
+      "time_str": "03:11.580",
+      "text": "I'll keep upon shining",
+      "translation": null
+    },
+    {
+      "time": 194.98,
+      "time_str": "03:14.980",
+      "text": "没有你的黑夜",
+      "translation": null
+    },
+    {
+      "time": 197.82,
+      "time_str": "03:17.820",
+      "text": "I'll keep upon shining",
+      "translation": null
+    },
+    {
+      "time": 201.26,
+      "time_str": "03:21.260",
+      "text": "没有你的黑夜",
+      "translation": null
+    },
+    {
+      "time": 203.79,
+      "time_str": "03:23.790",
+      "text": "I'll keep upon shining",
+      "translation": null
+    },
+    {
+      "time": 210.01,
+      "time_str": "03:30.010",
+      "text": "星星怕一眨眼",
+      "translation": null
+    },
+    {
+      "time": 214.26,
+      "time_str": "03:34.260",
+      "text": "月就会消失不见",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "星月 - 邵雨薇.lrc"
+}

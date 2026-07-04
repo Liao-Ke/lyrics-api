@@ -1,0 +1,148 @@
+{
+  "title": "友谊之光",
+  "title_raw": "友谊之光",
+  "version": null,
+  "artist": "Maria Cordero",
+  "group_key": "友谊之光|maria cordero",
+  "writers": {
+    "lyricist": "南燕",
+    "composer": "周蓝萍",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.898,
+      "time_str": "00:02.898",
+      "text": "人生于世上有几个知己",
+      "translation": null
+    },
+    {
+      "time": 9.228,
+      "time_str": "00:09.228",
+      "text": "多少友谊能长存",
+      "translation": null
+    },
+    {
+      "time": 14.399,
+      "time_str": "00:14.399",
+      "text": "今日别离共你双双两握手",
+      "translation": null
+    },
+    {
+      "time": 21.399,
+      "time_str": "00:21.399",
+      "text": "友谊常在你我心里",
+      "translation": null
+    },
+    {
+      "time": 27.399,
+      "time_str": "00:27.399",
+      "text": "今天且有暂别",
+      "translation": null
+    },
+    {
+      "time": 30.198,
+      "time_str": "00:30.198",
+      "text": "他朝也定能聚首",
+      "translation": null
+    },
+    {
+      "time": 35.998,
+      "time_str": "00:35.998",
+      "text": "纵使不能会面",
+      "translation": null
+    },
+    {
+      "time": 38.934,
+      "time_str": "00:38.934",
+      "text": "始终也是朋友",
+      "translation": null
+    },
+    {
+      "time": 44.588,
+      "time_str": "00:44.588",
+      "text": "说有万里山 隔阻两地遥",
+      "translation": null
+    },
+    {
+      "time": 50.343,
+      "time_str": "00:50.343",
+      "text": "不需见面 心中也 也知晓",
+      "translation": null
+    },
+    {
+      "time": 55.68,
+      "time_str": "00:55.680",
+      "text": "友谊改不了",
+      "translation": null
+    },
+    {
+      "time": 61.587,
+      "time_str": "01:01.587",
+      "text": "人生于世上有几个知己",
+      "translation": null
+    },
+    {
+      "time": 67.1,
+      "time_str": "01:07.100",
+      "text": "多少友谊能长存",
+      "translation": null
+    },
+    {
+      "time": 72.36,
+      "time_str": "01:12.360",
+      "text": "今日别离共你双双两握手",
+      "translation": null
+    },
+    {
+      "time": 78.68,
+      "time_str": "01:18.680",
+      "text": "友谊常在你我心里",
+      "translation": null
+    },
+    {
+      "time": 84.599,
+      "time_str": "01:24.599",
+      "text": "今天且要暂别",
+      "translation": null
+    },
+    {
+      "time": 87.579,
+      "time_str": "01:27.579",
+      "text": "他朝也定能聚首",
+      "translation": null
+    },
+    {
+      "time": 93.158,
+      "time_str": "01:33.158",
+      "text": "纵使不能会面",
+      "translation": null
+    },
+    {
+      "time": 96.158,
+      "time_str": "01:36.158",
+      "text": "始终 始终也 也是朋友",
+      "translation": null
+    },
+    {
+      "time": 101.587,
+      "time_str": "01:41.587",
+      "text": "说有万里山 隔阻两地遥",
+      "translation": null
+    },
+    {
+      "time": 107.38,
+      "time_str": "01:47.380",
+      "text": "不需见面 心中也知晓",
+      "translation": null
+    },
+    {
+      "time": 112.979,
+      "time_str": "01:52.979",
+      "text": "友谊改不了",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "友谊之光 - Maria Cordero.lrc"
+}

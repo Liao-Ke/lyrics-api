@@ -1,0 +1,388 @@
+{
+  "title": "哥 只是个传说",
+  "title_raw": "哥 只是个传说",
+  "version": null,
+  "artist": "陈旭",
+  "group_key": "哥 只是个传说|陈旭",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.7,
+      "time_str": "00:09.700",
+      "text": "请你不要再迷恋哥，哥只是一个传说",
+      "translation": null
+    },
+    {
+      "time": 15.39,
+      "time_str": "00:15.390",
+      "text": "虽然我 舍不得 可是我 还是要说",
+      "translation": null
+    },
+    {
+      "time": 20.6,
+      "time_str": "00:20.600",
+      "text": "你不要再迷恋我，我只是一个传说",
+      "translation": null
+    },
+    {
+      "time": 26.45,
+      "time_str": "00:26.450",
+      "text": "我不曾寂寞，因为有你曾陪着我",
+      "translation": null
+    },
+    {
+      "time": 31.39,
+      "time_str": "00:31.390",
+      "text": "When everybody says someone is a hero",
+      "translation": null
+    },
+    {
+      "time": 34.3,
+      "time_str": "00:34.300",
+      "text": "No one really knows the truth about an idol",
+      "translation": null
+    },
+    {
+      "time": 37.0,
+      "time_str": "00:37.000",
+      "text": "Whose inside is pretty lonely n' vulnerable",
+      "translation": null
+    },
+    {
+      "time": 39.51,
+      "time_str": "00:39.510",
+      "text": "Wishing there'll be someone who do know",
+      "translation": null
+    },
+    {
+      "time": 41.89,
+      "time_str": "00:41.890",
+      "text": "One time, he set himself a high goal",
+      "translation": null
+    },
+    {
+      "time": 44.6,
+      "time_str": "00:44.600",
+      "text": "He wants to be there as a role model",
+      "translation": null
+    },
+    {
+      "time": 47.03,
+      "time_str": "00:47.030",
+      "text": "Ever since then life becomes a live show",
+      "translation": null
+    },
+    {
+      "time": 49.98,
+      "time_str": "00:49.980",
+      "text": "Real time show without any rehearsal",
+      "translation": null
+    },
+    {
+      "time": 52.575,
+      "time_str": "00:52.575",
+      "text": "每一个传说 都会随时间褪色",
+      "translation": null
+    },
+    {
+      "time": 57.146,
+      "time_str": "00:57.146",
+      "text": "每个强者都会有 背后的辛酸挫折",
+      "translation": null
+    },
+    {
+      "time": 62.344,
+      "time_str": "01:02.344",
+      "text": "之所以活的洒脱 是因为懂得取舍",
+      "translation": null
+    },
+    {
+      "time": 68.21,
+      "time_str": "01:08.210",
+      "text": "之所以淡漠 是把一切都看破",
+      "translation": null
+    },
+    {
+      "time": 72.471,
+      "time_str": "01:12.471",
+      "text": "请你不要再迷恋哥，哥只是一个传说",
+      "translation": null
+    },
+    {
+      "time": 78.009,
+      "time_str": "01:18.009",
+      "text": "虽然我 舍不得 可是我 还是要说",
+      "translation": null
+    },
+    {
+      "time": 83.217,
+      "time_str": "01:23.217",
+      "text": "你们还要记得我 ,尽管我还在飘泊",
+      "translation": null
+    },
+    {
+      "time": 89.078,
+      "time_str": "01:29.078",
+      "text": "哥不会寂寞，因为有寂寞陪着哥",
+      "translation": null
+    },
+    {
+      "time": 93.616,
+      "time_str": "01:33.616",
+      "text": "你不要再迷恋我，我只是一个传说 ( 哈 )",
+      "translation": null
+    },
+    {
+      "time": 98.868,
+      "time_str": "01:38.868",
+      "text": "虽然我 故作冷漠 是不想 再次难过",
+      "translation": null
+    },
+    {
+      "time": 104.06,
+      "time_str": "01:44.060",
+      "text": "你不要再迷恋哥，哥只是一个传说",
+      "translation": null
+    },
+    {
+      "time": 109.903,
+      "time_str": "01:49.903",
+      "text": "我 不曾寂寞， 因为有你曾陪着我",
+      "translation": null
+    },
+    {
+      "time": 117.351,
+      "time_str": "01:57.351",
+      "text": "Ey Yo",
+      "translation": null
+    },
+    {
+      "time": 120.154,
+      "time_str": "02:00.154",
+      "text": "Come on",
+      "translation": null
+    },
+    {
+      "time": 124.01,
+      "time_str": "02:04.010",
+      "text": "Everybody listen now",
+      "translation": null
+    },
+    {
+      "time": 125.473,
+      "time_str": "02:05.473",
+      "text": "나한테 미련을 두지마,설화만 이니까",
+      "translation": null
+    },
+    {
+      "time": 128.192,
+      "time_str": "02:08.192",
+      "text": "너랑 함께 있어서 고독한 사람이아니라",
+      "translation": null
+    },
+    {
+      "time": 130.836,
+      "time_str": "02:10.836",
+      "text": "모든설화는 시간에 따라서 돌아가",
+      "translation": null
+    },
+    {
+      "time": 133.389,
+      "time_str": "02:13.389",
+      "text": "고독이랑 함께 있어서 고독한 사람이 아니야",
+      "translation": null
+    },
+    {
+      "time": 136.045,
+      "time_str": "02:16.045",
+      "text": "每一个传说 都会随时间褪色",
+      "translation": null
+    },
+    {
+      "time": 140.549,
+      "time_str": "02:20.549",
+      "text": "每个强者都会有 背后的辛酸挫折",
+      "translation": null
+    },
+    {
+      "time": 145.812,
+      "time_str": "02:25.812",
+      "text": "之所以活的洒脱 是因为懂得取舍",
+      "translation": null
+    },
+    {
+      "time": 151.698,
+      "time_str": "02:31.698",
+      "text": "之所以淡漠 是把一切都看破",
+      "translation": null
+    },
+    {
+      "time": 155.935,
+      "time_str": "02:35.935",
+      "text": "请你不要再迷恋哥，哥只是一个传说",
+      "translation": null
+    },
+    {
+      "time": 161.455,
+      "time_str": "02:41.455",
+      "text": "虽然我 舍不得 可是我 还是要说",
+      "translation": null
+    },
+    {
+      "time": 166.637,
+      "time_str": "02:46.637",
+      "text": "你们还要记得我 ,尽管我还在飘泊",
+      "translation": null
+    },
+    {
+      "time": 172.555,
+      "time_str": "02:52.555",
+      "text": "哥不会寂寞，因为有寂寞陪着哥",
+      "translation": null
+    },
+    {
+      "time": 177.079,
+      "time_str": "02:57.079",
+      "text": "你不要再迷恋我 (哈)，我只是一个传说",
+      "translation": null
+    },
+    {
+      "time": 182.333,
+      "time_str": "03:02.333",
+      "text": "虽然我 故作冷漠 是不想 再次难过",
+      "translation": null
+    },
+    {
+      "time": 187.53,
+      "time_str": "03:07.530",
+      "text": "你不要再迷恋哥，哥只是一个传说",
+      "translation": null
+    },
+    {
+      "time": 193.387,
+      "time_str": "03:13.387",
+      "text": "我 不曾寂寞， 因为有你曾陪着我",
+      "translation": null
+    },
+    {
+      "time": 198.766,
+      "time_str": "03:18.766",
+      "text": "爱 也还要割舍 是因为 没有结果",
+      "translation": null
+    },
+    {
+      "time": 207.706,
+      "time_str": "03:27.706",
+      "text": "如果说 你也会懂得 就一起 唱这首歌",
+      "translation": null
+    },
+    {
+      "time": 220.333,
+      "time_str": "03:40.333",
+      "text": "请你不要再迷恋哥",
+      "translation": null
+    },
+    {
+      "time": 222.177,
+      "time_str": "03:42.177",
+      "text": "（我荣耀 我落魄 我期盼）",
+      "translation": null
+    },
+    {
+      "time": 224.056,
+      "time_str": "03:44.056",
+      "text": "哥只是一个传说",
+      "translation": null
+    },
+    {
+      "time": 225.571,
+      "time_str": "03:45.571",
+      "text": "（我堕落 我挥霍 我窘迫 我漂泊 我稳固）",
+      "translation": null
+    },
+    {
+      "time": 226.765,
+      "time_str": "03:46.765",
+      "text": "虽然我 舍不得",
+      "translation": null
+    },
+    {
+      "time": 227.718,
+      "time_str": "03:47.718",
+      "text": "（我深爱 我幸福 我放纵 我悔恨）",
+      "translation": null
+    },
+    {
+      "time": 229.326,
+      "time_str": "03:49.326",
+      "text": "可是我 还是要说",
+      "translation": null
+    },
+    {
+      "time": 230.178,
+      "time_str": "03:50.178",
+      "text": "（我醒悟 我失落 我一切都做过）",
+      "translation": null
+    },
+    {
+      "time": 231.882,
+      "time_str": "03:51.882",
+      "text": "你不要再迷恋我",
+      "translation": null
+    },
+    {
+      "time": 233.0,
+      "time_str": "03:53.000",
+      "text": "（现在我清醒了 玩够了 释然了）",
+      "translation": null
+    },
+    {
+      "time": 234.511,
+      "time_str": "03:54.511",
+      "text": "我只是一个传说",
+      "translation": null
+    },
+    {
+      "time": 235.597,
+      "time_str": "03:55.597",
+      "text": "（看透了 回头了 承受了 从此之后）",
+      "translation": null
+    },
+    {
+      "time": 237.685,
+      "time_str": "03:57.685",
+      "text": "我 不曾寂寞",
+      "translation": null
+    },
+    {
+      "time": 238.5,
+      "time_str": "03:58.500",
+      "text": "（不再争斗了不再奢求了也就）",
+      "translation": null
+    },
+    {
+      "time": 239.709,
+      "time_str": "03:59.709",
+      "text": "因为有你曾陪着我",
+      "translation": null
+    },
+    {
+      "time": 241.028,
+      "time_str": "04:01.028",
+      "text": "（不再难受了一切都默默接受了 ）",
+      "translation": null
+    },
+    {
+      "time": 242.93,
+      "time_str": "04:02.930",
+      "text": "哈哈！",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "哥 只是个传说 - 陈旭.lrc"
+}

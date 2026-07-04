@@ -1,0 +1,322 @@
+{
+  "title": "Always Online",
+  "title_raw": "Always Online",
+  "version": null,
+  "artist": "林俊杰",
+  "group_key": "always online|林俊杰",
+  "writers": {
+    "lyricist": "林怡凤",
+    "composer": "林俊杰",
+    "arranger": "蔡政勋/陈建玮"
+  },
+  "lyrics": [
+    {
+      "time": 0.1,
+      "time_str": "00:00.100",
+      "text": "Always Online - 林俊杰",
+      "translation": null
+    },
+    {
+      "time": 16.91,
+      "time_str": "00:16.910",
+      "text": "变色的生活人性的挑拨",
+      "translation": null
+    },
+    {
+      "time": 20.84,
+      "time_str": "00:20.840",
+      "text": "疯狂的冒出了头",
+      "translation": null
+    },
+    {
+      "time": 24.83,
+      "time_str": "00:24.830",
+      "text": "单方的守侯试探的温柔",
+      "translation": null
+    },
+    {
+      "time": 28.86,
+      "time_str": "00:28.860",
+      "text": "还是少了点什么",
+      "translation": null
+    },
+    {
+      "time": 32.84,
+      "time_str": "00:32.840",
+      "text": "遥远两端爱挂在天空飞",
+      "translation": null
+    },
+    {
+      "time": 36.88,
+      "time_str": "00:36.880",
+      "text": "风停了也无所谓",
+      "translation": null
+    },
+    {
+      "time": 40.41,
+      "time_str": "00:40.410",
+      "text": "只因为你曾说",
+      "translation": null
+    },
+    {
+      "time": 42.92,
+      "time_str": "00:42.920",
+      "text": "Everthing will be ok",
+      "translation": null
+    },
+    {
+      "time": 47.92,
+      "time_str": "00:47.920",
+      "text": "准备好了 Three two one",
+      "translation": null
+    },
+    {
+      "time": 50.34,
+      "time_str": "00:50.340",
+      "text": "I'm always online",
+      "translation": null
+    },
+    {
+      "time": 52.35,
+      "time_str": "00:52.350",
+      "text": "和你One two one",
+      "translation": null
+    },
+    {
+      "time": 54.37,
+      "time_str": "00:54.370",
+      "text": "爱开始扩散",
+      "translation": null
+    },
+    {
+      "time": 56.34,
+      "time_str": "00:56.340",
+      "text": "我们连接了穿越天空银河",
+      "translation": null
+    },
+    {
+      "time": 61.29,
+      "time_str": "01:01.290",
+      "text": "Wow Wow",
+      "translation": null
+    },
+    {
+      "time": 63.8,
+      "time_str": "01:03.800",
+      "text": "开始倒数 Three two one",
+      "translation": null
+    },
+    {
+      "time": 66.22,
+      "time_str": "01:06.220",
+      "text": "渗出我的孤单",
+      "translation": null
+    },
+    {
+      "time": 68.34,
+      "time_str": "01:08.340",
+      "text": "More and more既是深刻",
+      "translation": null
+    },
+    {
+      "time": 73.28,
+      "time_str": "01:13.280",
+      "text": "爱亮了爱笑了",
+      "translation": null
+    },
+    {
+      "time": 75.15,
+      "time_str": "01:15.150",
+      "text": "I'm always online",
+      "translation": null
+    },
+    {
+      "time": 81.07,
+      "time_str": "01:21.070",
+      "text": "变色的生活人性的挑拨",
+      "translation": null
+    },
+    {
+      "time": 84.84,
+      "time_str": "01:24.840",
+      "text": "疯狂的冒出了头",
+      "translation": null
+    },
+    {
+      "time": 88.88,
+      "time_str": "01:28.880",
+      "text": "单方的守侯试探的温柔",
+      "translation": null
+    },
+    {
+      "time": 92.66,
+      "time_str": "01:32.660",
+      "text": "却还是少了点什么",
+      "translation": null
+    },
+    {
+      "time": 96.9,
+      "time_str": "01:36.900",
+      "text": "遥远两端爱挂在天空飞",
+      "translation": null
+    },
+    {
+      "time": 100.88,
+      "time_str": "01:40.880",
+      "text": "风停了也无所谓",
+      "translation": null
+    },
+    {
+      "time": 104.46,
+      "time_str": "01:44.460",
+      "text": "只因为你曾说",
+      "translation": null
+    },
+    {
+      "time": 106.83,
+      "time_str": "01:46.830",
+      "text": "Everthing will be ok",
+      "translation": null
+    },
+    {
+      "time": 111.8,
+      "time_str": "01:51.800",
+      "text": "我准备好了 three two one",
+      "translation": null
+    },
+    {
+      "time": 114.37,
+      "time_str": "01:54.370",
+      "text": "I'm always online",
+      "translation": null
+    },
+    {
+      "time": 116.43,
+      "time_str": "01:56.430",
+      "text": "和你One two one",
+      "translation": null
+    },
+    {
+      "time": 118.35,
+      "time_str": "01:58.350",
+      "text": "爱开始扩散",
+      "translation": null
+    },
+    {
+      "time": 120.37,
+      "time_str": "02:00.370",
+      "text": "我们连接了穿越天空银河",
+      "translation": null
+    },
+    {
+      "time": 125.26,
+      "time_str": "02:05.260",
+      "text": "Wow Wow",
+      "translation": null
+    },
+    {
+      "time": 127.93,
+      "time_str": "02:07.930",
+      "text": "开始倒数 Three two one",
+      "translation": null
+    },
+    {
+      "time": 130.2,
+      "time_str": "02:10.200",
+      "text": "渗出我的孤单",
+      "translation": null
+    },
+    {
+      "time": 132.37,
+      "time_str": "02:12.370",
+      "text": "More and more既是深刻",
+      "translation": null
+    },
+    {
+      "time": 137.26,
+      "time_str": "02:17.260",
+      "text": "爱亮了爱笑了",
+      "translation": null
+    },
+    {
+      "time": 139.18,
+      "time_str": "02:19.180",
+      "text": "I'm always online",
+      "translation": null
+    },
+    {
+      "time": 161.86,
+      "time_str": "02:41.860",
+      "text": "准备好了 Three two one",
+      "translation": null
+    },
+    {
+      "time": 164.28,
+      "time_str": "02:44.280",
+      "text": "I'm always online",
+      "translation": null
+    },
+    {
+      "time": 166.35,
+      "time_str": "02:46.350",
+      "text": "和你One two one",
+      "translation": null
+    },
+    {
+      "time": 168.32,
+      "time_str": "02:48.320",
+      "text": "爱开始扩散",
+      "translation": null
+    },
+    {
+      "time": 170.39,
+      "time_str": "02:50.390",
+      "text": "我们连接了穿越天空银河",
+      "translation": null
+    },
+    {
+      "time": 177.85,
+      "time_str": "02:57.850",
+      "text": "开始倒数 Three two one",
+      "translation": null
+    },
+    {
+      "time": 180.26,
+      "time_str": "03:00.260",
+      "text": "渗出我的孤单",
+      "translation": null
+    },
+    {
+      "time": 182.33,
+      "time_str": "03:02.330",
+      "text": "More and more既是深刻",
+      "translation": null
+    },
+    {
+      "time": 187.22,
+      "time_str": "03:07.220",
+      "text": "爱亮了爱笑了",
+      "translation": null
+    },
+    {
+      "time": 189.23,
+      "time_str": "03:09.230",
+      "text": "I'm always online",
+      "translation": null
+    },
+    {
+      "time": 195.37,
+      "time_str": "03:15.370",
+      "text": "爱亮了爱笑了",
+      "translation": null
+    },
+    {
+      "time": 197.58,
+      "time_str": "03:17.580",
+      "text": "I'm always online",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "Always Online - 林俊杰.lrc"
+}

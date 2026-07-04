@@ -1,0 +1,322 @@
+{
+  "title": "Young For You",
+  "title_raw": "Young For You",
+  "version": null,
+  "artist": "GALA",
+  "group_key": "young for you|gala",
+  "writers": {
+    "lyricist": "苏朵",
+    "composer": "苏朵",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.48,
+      "time_str": "00:07.480",
+      "text": "制作：GALA",
+      "translation": null
+    },
+    {
+      "time": 34.23,
+      "time_str": "00:34.230",
+      "text": "Sunday's coming I wanna drive my car",
+      "translation": "星期天来临了，我要开着我的汽车"
+    },
+    {
+      "time": 37.32,
+      "time_str": "00:37.320",
+      "text": "To your apartment with the present like a star",
+      "translation": "像明星般，带着礼物，来到你的公寓"
+    },
+    {
+      "time": 41.31,
+      "time_str": "00:41.310",
+      "text": "Forecaster said the weathers may be rainy hard",
+      "translation": "天气预报说天气糟透了"
+    },
+    {
+      "time": 45.57,
+      "time_str": "00:45.570",
+      "text": "But I know the sun will shine for us",
+      "translation": "但是太阳会为我们闪耀"
+    },
+    {
+      "time": 50.02,
+      "time_str": "00:50.020",
+      "text": "Oh lazy seagull fly me from the dark",
+      "translation": "喔~慵懒的海鸥引领我走向光明"
+    },
+    {
+      "time": 53.3,
+      "time_str": "00:53.300",
+      "text": "I dress my jeans and feed my monkey banana",
+      "translation": "穿上我的牛仔裤，（俚语）把钱塞满口袋"
+    },
+    {
+      "time": 57.38,
+      "time_str": "00:57.380",
+      "text": "Then I think my age how old,skyline how far",
+      "translation": "我想到，我有多大，地平线有多远"
+    },
+    {
+      "time": 62.0,
+      "time_str": "01:02.000",
+      "text": "We need each other in California",
+      "translation": "喔~在加州我们需要彼此"
+    },
+    {
+      "time": 66.1,
+      "time_str": "01:06.100",
+      "text": "You show me your body before night comes down",
+      "translation": "夜幕降临前你向我展示你诱人的身姿"
+    },
+    {
+      "time": 70.01,
+      "time_str": "01:10.010",
+      "text": "I touch your face and promise to stay ever young",
+      "translation": "我抚摸你的脸颊，许下永远像年轻时爱你的诺言"
+    },
+    {
+      "time": 73.72,
+      "time_str": "01:13.720",
+      "text": "On this ivory beach we kissed so long",
+      "translation": "我们深情拥吻在这象牙色的海滩"
+    },
+    {
+      "time": 77.7,
+      "time_str": "01:17.700",
+      "text": "It seems that the passion's never gone",
+      "translation": "仿佛激情永不逝"
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "You sing me your melody and I feel so please",
+      "translation": "你为我哼唱你的曲子，幸福感冲昏了我的脑袋"
+    },
+    {
+      "time": 85.8,
+      "time_str": "01:25.800",
+      "text": "I want you to want me to keep your dream",
+      "translation": "我希望你也让我永远怀揣你的梦想"
+    },
+    {
+      "time": 89.34,
+      "time_str": "01:29.340",
+      "text": "Together we'll run wild by a summer symphony",
+      "translation": "在夏夜的交响乐中我们狂野的奔跑"
+    },
+    {
+      "time": 93.98,
+      "time_str": "01:33.980",
+      "text": "This is what we enjoyed not a fantasy",
+      "translation": "我们享受的不再是幻想"
+    },
+    {
+      "time": 114.25,
+      "time_str": "01:54.250",
+      "text": "The tin-man's surfing I wanna try my luck",
+      "translation": "我想去冲浪"
+    },
+    {
+      "time": 117.34,
+      "time_str": "01:57.340",
+      "text": "To the top of tide rip like just have some sex",
+      "translation": "在浪尖舞动就像吃了药药一样"
+    },
+    {
+      "time": 121.38,
+      "time_str": "02:01.380",
+      "text": "I know you have no blame for my proud moonish heart",
+      "translation": "你不会责备我骄傲易变的心"
+    },
+    {
+      "time": 125.66,
+      "time_str": "02:05.660",
+      "text": "Welcome to the golden beatnik park",
+      "translation": "欢迎来到披头士乐园"
+    },
+    {
+      "time": 130.03,
+      "time_str": "02:10.030",
+      "text": "Oh diamond seashore drag me from the yard",
+      "translation": "钻石般的海岸指引我园外风光"
+    },
+    {
+      "time": 133.29,
+      "time_str": "02:13.290",
+      "text": "Incredible sunward I watch as you're in photograph",
+      "translation": "你为这动人的景色添姿加彩"
+    },
+    {
+      "time": 137.45,
+      "time_str": "02:17.450",
+      "text": "For camera your smile's so sweet,palm trees' so lush",
+      "translation": "对着镜头，你笑的如此的甜，就像棕榈树青翠欲滴"
+    },
+    {
+      "time": 141.92,
+      "time_str": "02:21.920",
+      "text": "Would you believe my honey it's California",
+      "translation": "亲爱的，你会相信我吗，这就是加州"
+    },
+    {
+      "time": 145.83,
+      "time_str": "02:25.830",
+      "text": "You show me your body before night comes down",
+      "translation": "夜幕降临前你向我展示你诱人的身姿"
+    },
+    {
+      "time": 149.76,
+      "time_str": "02:29.760",
+      "text": "I touch your face and promise to stay ever young",
+      "translation": "我抚摸你的脸颊，许诺我们永远这样年轻"
+    },
+    {
+      "time": 153.8,
+      "time_str": "02:33.800",
+      "text": "On this ivory beach we kissed so long",
+      "translation": "我们深情拥吻在这象牙色的海滩"
+    },
+    {
+      "time": 157.63,
+      "time_str": "02:37.630",
+      "text": "It seems that the passion's never gone",
+      "translation": "仿佛激情永不逝"
+    },
+    {
+      "time": 161.89,
+      "time_str": "02:41.890",
+      "text": "You sing me your melody and I feel so please",
+      "translation": "你为我哼唱你的曲子，幸福感冲昏了我的脑袋"
+    },
+    {
+      "time": 165.88,
+      "time_str": "02:45.880",
+      "text": "I want you to want me to keep your dream",
+      "translation": "我希望你也让我永远怀揣你的梦想"
+    },
+    {
+      "time": 169.8,
+      "time_str": "02:49.800",
+      "text": "Together we'll run wild by a summer symphony",
+      "translation": "在夏夜的交响乐中我们狂野的奔跑"
+    },
+    {
+      "time": 174.05,
+      "time_str": "02:54.050",
+      "text": "This is what we enjoyed not a fantasy",
+      "translation": "我们享受的不再是幻想"
+    },
+    {
+      "time": 179.55,
+      "time_str": "02:59.550",
+      "text": "主唱：苏朵",
+      "translation": null
+    },
+    {
+      "time": 179.55,
+      "time_str": "02:59.550",
+      "text": "主唱：苏朵",
+      "translation": null
+    },
+    {
+      "time": 182.06,
+      "time_str": "03:02.060",
+      "text": "键盘：苏依拉",
+      "translation": null
+    },
+    {
+      "time": 182.06,
+      "time_str": "03:02.060",
+      "text": "键盘：苏依拉",
+      "translation": null
+    },
+    {
+      "time": 188.39,
+      "time_str": "03:08.390",
+      "text": "贝斯：石亮",
+      "translation": null
+    },
+    {
+      "time": 188.39,
+      "time_str": "03:08.390",
+      "text": "贝斯：石亮",
+      "translation": null
+    },
+    {
+      "time": 190.87,
+      "time_str": "03:10.870",
+      "text": "鼓手：于政",
+      "translation": null
+    },
+    {
+      "time": 190.87,
+      "time_str": "03:10.870",
+      "text": "鼓手：于政",
+      "translation": null
+    },
+    {
+      "time": 193.5,
+      "time_str": "03:13.500",
+      "text": "合唱／伴唱：GALA",
+      "translation": null
+    },
+    {
+      "time": 193.5,
+      "time_str": "03:13.500",
+      "text": "合唱/伴唱：GALA",
+      "translation": null
+    },
+    {
+      "time": 198.6,
+      "time_str": "03:18.600",
+      "text": "混音工程师：李南博",
+      "translation": null
+    },
+    {
+      "time": 198.6,
+      "time_str": "03:18.600",
+      "text": "混音工程师：李南博",
+      "translation": null
+    },
+    {
+      "time": 201.47,
+      "time_str": "03:21.470",
+      "text": "混音工作室：Bite Size Studio",
+      "translation": null
+    },
+    {
+      "time": 201.47,
+      "time_str": "03:21.470",
+      "text": "混音工作室：Bite Size Studio",
+      "translation": null
+    },
+    {
+      "time": 204.16,
+      "time_str": "03:24.160",
+      "text": "母带处理工程师：李南博",
+      "translation": null
+    },
+    {
+      "time": 204.16,
+      "time_str": "03:24.160",
+      "text": "母带处理工程师：李南博",
+      "translation": null
+    },
+    {
+      "time": 206.85,
+      "time_str": "03:26.850",
+      "text": "母带工作室：Bite Size Studio",
+      "translation": null
+    },
+    {
+      "time": 206.85,
+      "time_str": "03:26.850",
+      "text": "母带工作室：Bite Size Studio",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Young For You - GALA.lrc"
+}

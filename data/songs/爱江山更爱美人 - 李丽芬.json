@@ -1,0 +1,460 @@
+{
+  "title": "爱江山更爱美人",
+  "title_raw": "爱江山更爱美人",
+  "version": null,
+  "artist": "李丽芬",
+  "group_key": "爱江山更爱美人|李丽芬",
+  "writers": {
+    "lyricist": "小虫",
+    "composer": "小虫",
+    "arranger": "梁伯君/小虫"
+  },
+  "lyrics": [
+    {
+      "time": 0.71,
+      "time_str": "00:00.710",
+      "text": "爱江山更爱美人 (1994年台视版电视剧《倚天屠龙记》片尾曲) - 李丽芬 (Lily Lee)",
+      "translation": null
+    },
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "专辑：李丽芬的东西(爱不释手)",
+      "translation": null
+    },
+    {
+      "time": 32.27,
+      "time_str": "00:32.270",
+      "text": "道不尽红尘奢恋",
+      "translation": null
+    },
+    {
+      "time": 35.2,
+      "time_str": "00:35.200",
+      "text": "诉不完人间恩怨",
+      "translation": null
+    },
+    {
+      "time": 38.1,
+      "time_str": "00:38.100",
+      "text": "世世代代都是缘",
+      "translation": null
+    },
+    {
+      "time": 44.36,
+      "time_str": "00:44.360",
+      "text": "流着相同的血",
+      "translation": null
+    },
+    {
+      "time": 47.29,
+      "time_str": "00:47.290",
+      "text": "喝着相同的水",
+      "translation": null
+    },
+    {
+      "time": 51.04,
+      "time_str": "00:51.040",
+      "text": "这条路漫漫又长远",
+      "translation": null
+    },
+    {
+      "time": 56.45,
+      "time_str": "00:56.450",
+      "text": "红花当然配绿叶",
+      "translation": null
+    },
+    {
+      "time": 59.43,
+      "time_str": "00:59.430",
+      "text": "这一辈子谁来陪",
+      "translation": null
+    },
+    {
+      "time": 63.27,
+      "time_str": "01:03.270",
+      "text": "渺渺茫茫来又回",
+      "translation": null
+    },
+    {
+      "time": 68.58,
+      "time_str": "01:08.580",
+      "text": "往日情景再浮现",
+      "translation": null
+    },
+    {
+      "time": 71.62,
+      "time_str": "01:11.620",
+      "text": "藕虽断了丝还连",
+      "translation": null
+    },
+    {
+      "time": 75.26,
+      "time_str": "01:15.260",
+      "text": "轻叹世间事多变迁",
+      "translation": null
+    },
+    {
+      "time": 79.16,
+      "time_str": "01:19.160",
+      "text": "女：爱江山",
+      "translation": null
+    },
+    {
+      "time": 82.04,
+      "time_str": "01:22.040",
+      "text": "男：爱江山",
+      "translation": null
+    },
+    {
+      "time": 83.23,
+      "time_str": "01:23.230",
+      "text": "女：更爱美人",
+      "translation": null
+    },
+    {
+      "time": 84.09,
+      "time_str": "01:24.090",
+      "text": "男：更爱美人",
+      "translation": null
+    },
+    {
+      "time": 86.51,
+      "time_str": "01:26.510",
+      "text": "哪个英雄好汉宁愿孤单",
+      "translation": null
+    },
+    {
+      "time": 92.57,
+      "time_str": "01:32.570",
+      "text": "女：好儿郎",
+      "translation": null
+    },
+    {
+      "time": 94.15,
+      "time_str": "01:34.150",
+      "text": "男：好儿郎",
+      "translation": null
+    },
+    {
+      "time": 95.46,
+      "time_str": "01:35.460",
+      "text": "女：浑身是胆",
+      "translation": null
+    },
+    {
+      "time": 97.05,
+      "time_str": "01:37.050",
+      "text": "男：浑身是胆",
+      "translation": null
+    },
+    {
+      "time": 99.17,
+      "time_str": "01:39.170",
+      "text": "壮志豪情四海远名扬",
+      "translation": null
+    },
+    {
+      "time": 105.01,
+      "time_str": "01:45.010",
+      "text": "人生短短几个秋啊",
+      "translation": null
+    },
+    {
+      "time": 108.0,
+      "time_str": "01:48.000",
+      "text": "不醉不罢休",
+      "translation": null
+    },
+    {
+      "time": 111.04,
+      "time_str": "01:51.040",
+      "text": "东边我的美人哪",
+      "translation": null
+    },
+    {
+      "time": 114.02,
+      "time_str": "01:54.020",
+      "text": "西边黄河流",
+      "translation": null
+    },
+    {
+      "time": 117.05,
+      "time_str": "01:57.050",
+      "text": "来呀来个酒啊",
+      "translation": null
+    },
+    {
+      "time": 120.09,
+      "time_str": "02:00.090",
+      "text": "不醉不罢休",
+      "translation": null
+    },
+    {
+      "time": 124.07,
+      "time_str": "02:04.070",
+      "text": "愁情烦事别放心头",
+      "translation": null
+    },
+    {
+      "time": 129.28,
+      "time_str": "02:09.280",
+      "text": "啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 133.02,
+      "time_str": "02:13.020",
+      "text": "啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 136.06,
+      "time_str": "02:16.060",
+      "text": "啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 139.16,
+      "time_str": "02:19.160",
+      "text": "啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 142.17,
+      "time_str": "02:22.170",
+      "text": "啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 148.12,
+      "time_str": "02:28.120",
+      "text": "啊啊啊啊啊啊啊",
+      "translation": null
+    },
+    {
+      "time": 151.15,
+      "time_str": "02:31.150",
+      "text": "啊啊",
+      "translation": null
+    },
+    {
+      "time": 153.58,
+      "time_str": "02:33.580",
+      "text": "道不尽红尘奢恋",
+      "translation": null
+    },
+    {
+      "time": 156.61,
+      "time_str": "02:36.610",
+      "text": "诉不完人间恩怨",
+      "translation": null
+    },
+    {
+      "time": 160.3,
+      "time_str": "02:40.300",
+      "text": "世世代代都是缘",
+      "translation": null
+    },
+    {
+      "time": 165.06,
+      "time_str": "02:45.060",
+      "text": "流着相同的血",
+      "translation": null
+    },
+    {
+      "time": 168.09,
+      "time_str": "02:48.090",
+      "text": "喝着相同的水",
+      "translation": null
+    },
+    {
+      "time": 172.28,
+      "time_str": "02:52.280",
+      "text": "这条路漫漫又长远",
+      "translation": null
+    },
+    {
+      "time": 177.08,
+      "time_str": "02:57.080",
+      "text": "红花当然配绿叶",
+      "translation": null
+    },
+    {
+      "time": 180.02,
+      "time_str": "03:00.020",
+      "text": "这一辈子谁来陪",
+      "translation": null
+    },
+    {
+      "time": 184.56,
+      "time_str": "03:04.560",
+      "text": "渺渺茫茫来又回",
+      "translation": null
+    },
+    {
+      "time": 189.07,
+      "time_str": "03:09.070",
+      "text": "往日情景再浮现",
+      "translation": null
+    },
+    {
+      "time": 193.0,
+      "time_str": "03:13.000",
+      "text": "藕虽断了丝还连",
+      "translation": null
+    },
+    {
+      "time": 196.64,
+      "time_str": "03:16.640",
+      "text": "轻叹世间事多变迁",
+      "translation": null
+    },
+    {
+      "time": 200.26,
+      "time_str": "03:20.260",
+      "text": "女：爱江山",
+      "translation": null
+    },
+    {
+      "time": 203.04,
+      "time_str": "03:23.040",
+      "text": "男：爱江山",
+      "translation": null
+    },
+    {
+      "time": 204.23,
+      "time_str": "03:24.230",
+      "text": "女：更爱美人",
+      "translation": null
+    },
+    {
+      "time": 206.29,
+      "time_str": "03:26.290",
+      "text": "男：更爱美人",
+      "translation": null
+    },
+    {
+      "time": 208.51,
+      "time_str": "03:28.510",
+      "text": "哪个英雄好汉宁愿孤单",
+      "translation": null
+    },
+    {
+      "time": 214.57,
+      "time_str": "03:34.570",
+      "text": "女：好儿郎",
+      "translation": null
+    },
+    {
+      "time": 215.15,
+      "time_str": "03:35.150",
+      "text": "男：好儿郎",
+      "translation": null
+    },
+    {
+      "time": 217.46,
+      "time_str": "03:37.460",
+      "text": "女：浑身是胆",
+      "translation": null
+    },
+    {
+      "time": 218.05,
+      "time_str": "03:38.050",
+      "text": "男：浑身是胆",
+      "translation": null
+    },
+    {
+      "time": 220.17,
+      "time_str": "03:40.170",
+      "text": "壮志豪情四海远名扬",
+      "translation": null
+    },
+    {
+      "time": 226.36,
+      "time_str": "03:46.360",
+      "text": "人生短短几个秋啊",
+      "translation": null
+    },
+    {
+      "time": 230.1,
+      "time_str": "03:50.100",
+      "text": "不醉不罢休",
+      "translation": null
+    },
+    {
+      "time": 233.03,
+      "time_str": "03:53.030",
+      "text": "东边我的美人哪",
+      "translation": null
+    },
+    {
+      "time": 236.22,
+      "time_str": "03:56.220",
+      "text": "西边黄河流",
+      "translation": null
+    },
+    {
+      "time": 239.25,
+      "time_str": "03:59.250",
+      "text": "来呀来个酒啊",
+      "translation": null
+    },
+    {
+      "time": 242.28,
+      "time_str": "04:02.280",
+      "text": "不醉不罢休",
+      "translation": null
+    },
+    {
+      "time": 245.21,
+      "time_str": "04:05.210",
+      "text": "愁情烦事别放心头",
+      "translation": null
+    },
+    {
+      "time": 250.67,
+      "time_str": "04:10.670",
+      "text": "人生短短几个秋啊",
+      "translation": null
+    },
+    {
+      "time": 254.36,
+      "time_str": "04:14.360",
+      "text": "不醉不罢休",
+      "translation": null
+    },
+    {
+      "time": 257.35,
+      "time_str": "04:17.350",
+      "text": "东边我的美人哪",
+      "translation": null
+    },
+    {
+      "time": 260.48,
+      "time_str": "04:20.480",
+      "text": "西边黄河流",
+      "translation": null
+    },
+    {
+      "time": 263.41,
+      "time_str": "04:23.410",
+      "text": "来呀来个酒啊",
+      "translation": null
+    },
+    {
+      "time": 266.55,
+      "time_str": "04:26.550",
+      "text": "不醉不罢休",
+      "translation": null
+    },
+    {
+      "time": 269.53,
+      "time_str": "04:29.530",
+      "text": "愁情烦事别放心头",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱江山更爱美人 - 李丽芬.lrc"
+}

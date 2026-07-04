@@ -1,0 +1,412 @@
+{
+  "title": "在草地上肆意奔跑",
+  "title_raw": "在草地上肆意奔跑",
+  "version": null,
+  "artist": "傅如乔",
+  "group_key": "在草地上肆意奔跑|傅如乔",
+  "writers": {
+    "lyricist": "h1one",
+    "composer": "h1one",
+    "arranger": "袁野"
+  },
+  "lyrics": [
+    {
+      "time": 15.246,
+      "time_str": "00:15.246",
+      "text": "要肆意奔跑白天到晚上",
+      "translation": null
+    },
+    {
+      "time": 18.502,
+      "time_str": "00:18.502",
+      "text": "直到我看见天空变微亮",
+      "translation": null
+    },
+    {
+      "time": 21.543,
+      "time_str": "00:21.543",
+      "text": "也想要变成鸟儿在飞翔",
+      "translation": null
+    },
+    {
+      "time": 24.774,
+      "time_str": "00:24.774",
+      "text": "我想让你的笑容",
+      "translation": null
+    },
+    {
+      "time": 26.251,
+      "time_str": "00:26.251",
+      "text": "勾在我的心上",
+      "translation": null
+    },
+    {
+      "time": 28.021,
+      "time_str": "00:28.021",
+      "text": "要肆意奔跑白天到晚上",
+      "translation": null
+    },
+    {
+      "time": 31.126,
+      "time_str": "00:31.126",
+      "text": "直到我看见天空变微亮",
+      "translation": null
+    },
+    {
+      "time": 34.452,
+      "time_str": "00:34.452",
+      "text": "也想要变成鸟儿在飞翔",
+      "translation": null
+    },
+    {
+      "time": 37.544,
+      "time_str": "00:37.544",
+      "text": "我想让你的笑容",
+      "translation": null
+    },
+    {
+      "time": 39.003,
+      "time_str": "00:39.003",
+      "text": "勾在我的心上 唔~",
+      "translation": null
+    },
+    {
+      "time": 41.771,
+      "time_str": "00:41.771",
+      "text": "花",
+      "translation": null
+    },
+    {
+      "time": 44.082,
+      "time_str": "00:44.082",
+      "text": "就像她",
+      "translation": null
+    },
+    {
+      "time": 47.179,
+      "time_str": "00:47.179",
+      "text": "看阳光",
+      "translation": null
+    },
+    {
+      "time": 50.276,
+      "time_str": "00:50.276",
+      "text": "就飘在天空洒地下",
+      "translation": null
+    },
+    {
+      "time": 53.618,
+      "time_str": "00:53.618",
+      "text": "笑颜如花",
+      "translation": null
+    },
+    {
+      "time": 56.972,
+      "time_str": "00:56.972",
+      "text": "还记得吗",
+      "translation": null
+    },
+    {
+      "time": 60.039,
+      "time_str": "01:00.039",
+      "text": "没有方向",
+      "translation": null
+    },
+    {
+      "time": 63.108,
+      "time_str": "01:03.108",
+      "text": "肆意的  草地上奔跑",
+      "translation": null
+    },
+    {
+      "time": 66.45,
+      "time_str": "01:06.450",
+      "text": "要肆意奔跑白天到晚上",
+      "translation": null
+    },
+    {
+      "time": 69.537,
+      "time_str": "01:09.537",
+      "text": "直到我看见天空变微亮",
+      "translation": null
+    },
+    {
+      "time": 72.862,
+      "time_str": "01:12.862",
+      "text": "也想要变成鸟儿在飞翔",
+      "translation": null
+    },
+    {
+      "time": 75.942,
+      "time_str": "01:15.942",
+      "text": "我想让你的笑容",
+      "translation": null
+    },
+    {
+      "time": 77.615,
+      "time_str": "01:17.615",
+      "text": "勾在我的心上",
+      "translation": null
+    },
+    {
+      "time": 79.289,
+      "time_str": "01:19.289",
+      "text": "要肆意奔跑白天到晚上",
+      "translation": null
+    },
+    {
+      "time": 82.402,
+      "time_str": "01:22.402",
+      "text": "直到我看见天空变微亮",
+      "translation": null
+    },
+    {
+      "time": 85.479,
+      "time_str": "01:25.479",
+      "text": "也想要变成鸟儿在飞翔",
+      "translation": null
+    },
+    {
+      "time": 88.832,
+      "time_str": "01:28.832",
+      "text": "我想让你的笑容",
+      "translation": null
+    },
+    {
+      "time": 90.338,
+      "time_str": "01:30.338",
+      "text": "勾在我的心上  唔~",
+      "translation": null
+    },
+    {
+      "time": 92.232,
+      "time_str": "01:32.232",
+      "text": "我要跑到公司门口放声大笑",
+      "translation": null
+    },
+    {
+      "time": 95.815,
+      "time_str": "01:35.815",
+      "text": "我要跑到大学后街点一份水饺",
+      "translation": null
+    },
+    {
+      "time": 98.89,
+      "time_str": "01:38.890",
+      "text": "我要跑到一二三路公车  问叔叔阿姨你还记得我吗",
+      "translation": null
+    },
+    {
+      "time": 103.559,
+      "time_str": "01:43.559",
+      "text": "每次放学都会赶末班车回家",
+      "translation": null
+    },
+    {
+      "time": 106.074,
+      "time_str": "01:46.074",
+      "text": "跑过的路  有花瓣飘散",
+      "translation": null
+    },
+    {
+      "time": 109.092,
+      "time_str": "01:49.092",
+      "text": "记不清楚  多久没和自己交谈",
+      "translation": null
+    },
+    {
+      "time": 112.357,
+      "time_str": "01:52.357",
+      "text": "想学会魔法  让时间倒转",
+      "translation": null
+    },
+    {
+      "time": 115.684,
+      "time_str": "01:55.684",
+      "text": "弥补所有过错还有那些遗憾",
+      "translation": null
+    },
+    {
+      "time": 117.533,
+      "time_str": "01:57.533",
+      "text": "要肆意奔跑白天到晚上",
+      "translation": null
+    },
+    {
+      "time": 120.872,
+      "time_str": "02:00.872",
+      "text": "直到我看见天空变微亮",
+      "translation": null
+    },
+    {
+      "time": 123.962,
+      "time_str": "02:03.962",
+      "text": "也想要变成鸟儿在飞翔",
+      "translation": null
+    },
+    {
+      "time": 127.065,
+      "time_str": "02:07.065",
+      "text": "我想让你的笑容",
+      "translation": null
+    },
+    {
+      "time": 128.627,
+      "time_str": "02:08.627",
+      "text": "勾在我的心上",
+      "translation": null
+    },
+    {
+      "time": 130.363,
+      "time_str": "02:10.363",
+      "text": "要肆意奔跑白天到晚上",
+      "translation": null
+    },
+    {
+      "time": 133.427,
+      "time_str": "02:13.427",
+      "text": "直到我看见天空变微亮",
+      "translation": null
+    },
+    {
+      "time": 136.722,
+      "time_str": "02:16.722",
+      "text": "也想要变成鸟儿在飞翔",
+      "translation": null
+    },
+    {
+      "time": 140.078,
+      "time_str": "02:20.078",
+      "text": "我想让你的笑容",
+      "translation": null
+    },
+    {
+      "time": 141.284,
+      "time_str": "02:21.284",
+      "text": "勾在我的心上  唔~",
+      "translation": null
+    },
+    {
+      "time": 144.087,
+      "time_str": "02:24.087",
+      "text": "跑  让风拂过我脸庞",
+      "translation": null
+    },
+    {
+      "time": 149.191,
+      "time_str": "02:29.191",
+      "text": "花儿在互相歌唱",
+      "translation": null
+    },
+    {
+      "time": 152.51,
+      "time_str": "02:32.510",
+      "text": "它们也会有梦想",
+      "translation": null
+    },
+    {
+      "time": 156.295,
+      "time_str": "02:36.295",
+      "text": "将希望播种在田野上",
+      "translation": null
+    },
+    {
+      "time": 162.969,
+      "time_str": "02:42.969",
+      "text": "绽放  的光芒  照亮了守望",
+      "translation": null
+    },
+    {
+      "time": 168.894,
+      "time_str": "02:48.894",
+      "text": "要肆意奔跑白天到晚上",
+      "translation": null
+    },
+    {
+      "time": 171.749,
+      "time_str": "02:51.749",
+      "text": "直到我看见天空变微亮",
+      "translation": null
+    },
+    {
+      "time": 175.355,
+      "time_str": "02:55.355",
+      "text": "也想要变成鸟儿在飞翔",
+      "translation": null
+    },
+    {
+      "time": 178.201,
+      "time_str": "02:58.201",
+      "text": "我想让你的笑容",
+      "translation": null
+    },
+    {
+      "time": 179.927,
+      "time_str": "02:59.927",
+      "text": "勾在我的心上",
+      "translation": null
+    },
+    {
+      "time": 181.476,
+      "time_str": "03:01.476",
+      "text": "要肆意奔跑白天到晚上",
+      "translation": null
+    },
+    {
+      "time": 184.804,
+      "time_str": "03:04.804",
+      "text": "直到我看见天空变微亮",
+      "translation": null
+    },
+    {
+      "time": 188.162,
+      "time_str": "03:08.162",
+      "text": "也想要变成鸟儿在飞翔",
+      "translation": null
+    },
+    {
+      "time": 191.239,
+      "time_str": "03:11.239",
+      "text": "我想让你的笑容",
+      "translation": null
+    },
+    {
+      "time": 192.781,
+      "time_str": "03:12.781",
+      "text": "勾在我的心上  唔~",
+      "translation": null
+    },
+    {
+      "time": 195.068,
+      "time_str": "03:15.068",
+      "text": "制作 : 袁野",
+      "translation": null
+    },
+    {
+      "time": 195.782,
+      "time_str": "03:15.782",
+      "text": "混音&母带 : 谢小啵",
+      "translation": null
+    },
+    {
+      "time": 196.496,
+      "time_str": "03:16.496",
+      "text": "制作团队 : 西风过境",
+      "translation": null
+    },
+    {
+      "time": 197.21,
+      "time_str": "03:17.210",
+      "text": "营销推广 : 多米诺",
+      "translation": null
+    },
+    {
+      "time": 198.638,
+      "time_str": "03:18.638",
+      "text": "特别企划 : 寻声计划X",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "在草地上肆意奔跑 - 傅如乔.lrc"
+}

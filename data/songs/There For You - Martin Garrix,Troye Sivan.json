@@ -1,0 +1,298 @@
+{
+  "title": "There For You",
+  "title_raw": "There For You",
+  "version": null,
+  "artist": "Martin Garrix,Troye Sivan",
+  "group_key": "there for you|martin garrix,troye sivan",
+  "writers": {
+    "lyricist": "Martin Garrix/Troye Sivan/William Lobban Bean/Ben Burgess/Jesse Thomas/Brett McLaughlin",
+    "composer": "Martin Garrix/Troye Sivan/William Lobban Bean/Ben Burgess/Jesse Thomas/Brett McLaughlin",
+    "arranger": "Martin Garrix"
+  },
+  "lyrics": [
+    {
+      "time": 9.59,
+      "time_str": "00:09.590",
+      "text": "I woke up pissed off today",
+      "translation": "醒来的我盛怒难掩"
+    },
+    {
+      "time": 13.85,
+      "time_str": "00:13.850",
+      "text": "And lately, everyone feels fake",
+      "translation": "所有人都那样虚伪敷衍"
+    },
+    {
+      "time": 18.3,
+      "time_str": "00:18.300",
+      "text": "Somewhere, I lost a piece of me",
+      "translation": "内心深处 像是失魂一般"
+    },
+    {
+      "time": 22.62,
+      "time_str": "00:22.620",
+      "text": "Smoking cigarettes on balconies",
+      "translation": "阳台上静吐着烟圈"
+    },
+    {
+      "time": 27.19,
+      "time_str": "00:27.190",
+      "text": "But I can't do this alone",
+      "translation": "可我一人难做到这些"
+    },
+    {
+      "time": 29.42,
+      "time_str": "00:29.420",
+      "text": "Sometimes I just need a light",
+      "translation": "我只是渴求光芒点亮黑夜"
+    },
+    {
+      "time": 31.67,
+      "time_str": "00:31.670",
+      "text": "If I call you on the phone",
+      "translation": "若我拨通你的电话"
+    },
+    {
+      "time": 33.89,
+      "time_str": "00:33.890",
+      "text": "Need you on the other side",
+      "translation": "希望你就在话筒的另一边"
+    },
+    {
+      "time": 35.95,
+      "time_str": "00:35.950",
+      "text": "So when your tears roll down your pillow like a river",
+      "translation": "每当你泪如雨下 濡湿枕边"
+    },
+    {
+      "time": 40.67,
+      "time_str": "00:40.670",
+      "text": "I'll be there for you",
+      "translation": "我会在那儿守候着你"
+    },
+    {
+      "time": 43.03,
+      "time_str": "00:43.030",
+      "text": "I'll be there for you",
+      "translation": "我会在那儿陪伴着你"
+    },
+    {
+      "time": 45.27,
+      "time_str": "00:45.270",
+      "text": "When you're screaming, but they only hear you whisper",
+      "translation": "每当你竭力嘶吼 却无人理会"
+    },
+    {
+      "time": 49.87,
+      "time_str": "00:49.870",
+      "text": "I'll be loud for you",
+      "translation": "我会替你大声呼喊"
+    },
+    {
+      "time": 52.93,
+      "time_str": "00:52.930",
+      "text": "But you gotta be there for me too",
+      "translation": "我想你也一定会陪伴着我吧"
+    },
+    {
+      "time": 70.88,
+      "time_str": "01:10.880",
+      "text": "But you gotta be there for me too",
+      "translation": "我想你也一定会陪伴着我吧"
+    },
+    {
+      "time": 77.57,
+      "time_str": "01:17.570",
+      "text": "Last year took a toll on me",
+      "translation": "去年的我并不如意"
+    },
+    {
+      "time": 81.76,
+      "time_str": "01:21.760",
+      "text": "But I made it with you next to me",
+      "translation": "但如今我的身旁有着你"
+    },
+    {
+      "time": 86.32,
+      "time_str": "01:26.320",
+      "text": "Around the world and back again",
+      "translation": "走遍这世界 回到了起点"
+    },
+    {
+      "time": 90.82,
+      "time_str": "01:30.820",
+      "text": "I hope you're waiting at the end",
+      "translation": "希望你等候着我 在那旅途的终点"
+    },
+    {
+      "time": 95.06,
+      "time_str": "01:35.060",
+      "text": "But I can't do this alone",
+      "translation": "可我一人难做到这些"
+    },
+    {
+      "time": 97.3,
+      "time_str": "01:37.300",
+      "text": "Sometimes I just need a light",
+      "translation": "我只是渴求光芒点亮黑夜"
+    },
+    {
+      "time": 99.57,
+      "time_str": "01:39.570",
+      "text": "If I call you on the phone",
+      "translation": "若我拨通你的电话"
+    },
+    {
+      "time": 101.79,
+      "time_str": "01:41.790",
+      "text": "Need you on the other side",
+      "translation": "希望你就在话筒的另一边"
+    },
+    {
+      "time": 103.88,
+      "time_str": "01:43.880",
+      "text": "So when your tears roll down your pillow like a river",
+      "translation": "每当你泪如雨下 濡湿枕边"
+    },
+    {
+      "time": 108.7,
+      "time_str": "01:48.700",
+      "text": "I'll be there for you",
+      "translation": "我会在那儿守候着你"
+    },
+    {
+      "time": 110.94,
+      "time_str": "01:50.940",
+      "text": "I'll be there for you",
+      "translation": "我会在那儿陪伴着你"
+    },
+    {
+      "time": 113.15,
+      "time_str": "01:53.150",
+      "text": "When you're screaming, but they only hear you whisper",
+      "translation": "每当你竭力嘶吼 却无人理会"
+    },
+    {
+      "time": 117.7,
+      "time_str": "01:57.700",
+      "text": "I'll be loud for you",
+      "translation": "我会替你大声呼喊"
+    },
+    {
+      "time": 119.97,
+      "time_str": "01:59.970",
+      "text": "I'll be loud for you",
+      "translation": "为了你声嘶力竭"
+    },
+    {
+      "time": 123.13,
+      "time_str": "02:03.130",
+      "text": "I got you, I promise",
+      "translation": "我保证 我会用心爱你"
+    },
+    {
+      "time": 125.6,
+      "time_str": "02:05.600",
+      "text": "Let me be honest",
+      "translation": "就让我坦诚一切"
+    },
+    {
+      "time": 127.88,
+      "time_str": "02:07.880",
+      "text": "Love is a road that goes both ways",
+      "translation": "爱总会是一条路 延伸向两边"
+    },
+    {
+      "time": 131.33,
+      "time_str": "02:11.330",
+      "text": "When your tears roll down your pillow like a river",
+      "translation": "每当你泪流成河 浸湿枕边"
+    },
+    {
+      "time": 135.8,
+      "time_str": "02:15.800",
+      "text": "I'll be there for you",
+      "translation": "我会在那儿守候着你"
+    },
+    {
+      "time": 138.85,
+      "time_str": "02:18.850",
+      "text": "But you gotta be there for me too",
+      "translation": "我想你也一定会陪伴着我吧"
+    },
+    {
+      "time": 157.03,
+      "time_str": "02:37.030",
+      "text": "But you gotta be there for me too",
+      "translation": "我想你也一定会陪伴着我吧"
+    },
+    {
+      "time": 159.95,
+      "time_str": "02:39.950",
+      "text": "Boy, I'm holding on to something",
+      "translation": "我还仍未放手"
+    },
+    {
+      "time": 162.17,
+      "time_str": "02:42.170",
+      "text": "Won't let go of you for nothing",
+      "translation": "我怎会让你就这样溜走"
+    },
+    {
+      "time": 164.39,
+      "time_str": "02:44.390",
+      "text": "I'm running, running, just to keep my hands on you",
+      "translation": "我不停地奔跑 只是为了不松开握住你的手"
+    },
+    {
+      "time": 168.79,
+      "time_str": "02:48.790",
+      "text": "There was a time that I was so blue",
+      "translation": "曾经的我是那样忧郁"
+    },
+    {
+      "time": 171.31,
+      "time_str": "02:51.310",
+      "text": "What I got to do to show you",
+      "translation": "但我该如何向你表露"
+    },
+    {
+      "time": 173.52,
+      "time_str": "02:53.520",
+      "text": "I'm running, running, just to keep my hands on you",
+      "translation": "我不停地奔跑 只是为了不松开握住你的手"
+    },
+    {
+      "time": 178.23,
+      "time_str": "02:58.230",
+      "text": "Running, running, just to keep my hands on you",
+      "translation": "不停地奔跑 只是为了不松开握住你的手"
+    },
+    {
+      "time": 182.76,
+      "time_str": "03:02.760",
+      "text": "Running, running, just to keep my hands on you",
+      "translation": "不停地奔跑 只是为了不松开握住你的手"
+    },
+    {
+      "time": 186.98,
+      "time_str": "03:06.980",
+      "text": "So I'm running, running, just to keep my hands on you",
+      "translation": "我不停地奔跑 只是为了不松开握住你的手"
+    },
+    {
+      "time": 193.31,
+      "time_str": "03:13.310",
+      "text": "But you gotta be there for me too",
+      "translation": "我想你也一定会陪伴着我吧"
+    },
+    {
+      "time": 211.36,
+      "time_str": "03:31.360",
+      "text": "But you gotta be there for me too",
+      "translation": "我想你也一定会陪伴着我吧"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "There For You - Martin Garrix,Troye Sivan.lrc"
+}

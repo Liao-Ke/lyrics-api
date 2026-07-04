@@ -1,0 +1,238 @@
+{
+  "title": "何必在一起",
+  "title_raw": "何必在一起",
+  "version": null,
+  "artist": "张杰",
+  "group_key": "何必在一起|张杰",
+  "writers": {
+    "lyricist": "梁晓雪/赵阳",
+    "composer": "梁晓雪",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 33.728,
+      "time_str": "00:33.728",
+      "text": "夜 夜得那么美丽",
+      "translation": null
+    },
+    {
+      "time": 39.127,
+      "time_str": "00:39.127",
+      "text": "有人欢笑 有人却在哭泣",
+      "translation": null
+    },
+    {
+      "time": 46.18,
+      "time_str": "00:46.180",
+      "text": "尘封的记忆 残留着邂逅的美丽",
+      "translation": null
+    },
+    {
+      "time": 52.198,
+      "time_str": "00:52.198",
+      "text": "辗转反侧的我 失眠在夜里",
+      "translation": null
+    },
+    {
+      "time": 60.989,
+      "time_str": "01:00.989",
+      "text": "你 你带走的呼吸",
+      "translation": null
+    },
+    {
+      "time": 66.137,
+      "time_str": "01:06.137",
+      "text": "吻不到你 那感觉多委屈",
+      "translation": null
+    },
+    {
+      "time": 72.687,
+      "time_str": "01:12.687",
+      "text": "分岔的爱情 让眼泪隔出银河的距离",
+      "translation": null
+    },
+    {
+      "time": 80.98,
+      "time_str": "01:20.980",
+      "text": "轻轻关上门",
+      "translation": null
+    },
+    {
+      "time": 82.98,
+      "time_str": "01:22.980",
+      "text": "让眼泪不逃避",
+      "translation": null
+    },
+    {
+      "time": 89.928,
+      "time_str": "01:29.928",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 95.19,
+      "time_str": "01:35.190",
+      "text": "让我爱上你",
+      "translation": null
+    },
+    {
+      "time": 97.598,
+      "time_str": "01:37.598",
+      "text": "至少自己过得不必太压抑",
+      "translation": null
+    },
+    {
+      "time": 103.617,
+      "time_str": "01:43.617",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 107.937,
+      "time_str": "01:47.937",
+      "text": "逃出生命里",
+      "translation": null
+    },
+    {
+      "time": 111.187,
+      "time_str": "01:51.187",
+      "text": "才让这个夜显得那么空虚",
+      "translation": null
+    },
+    {
+      "time": 117.988,
+      "time_str": "01:57.988",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 121.587,
+      "time_str": "02:01.587",
+      "text": "让我爱上你",
+      "translation": null
+    },
+    {
+      "time": 125.97,
+      "time_str": "02:05.970",
+      "text": "感觉你的呼吸是那么清晰",
+      "translation": null
+    },
+    {
+      "time": 131.79,
+      "time_str": "02:11.790",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 135.399,
+      "time_str": "02:15.399",
+      "text": "让我没勇气",
+      "translation": null
+    },
+    {
+      "time": 139.6,
+      "time_str": "02:19.600",
+      "text": "让我独自在这寒冷的夜里",
+      "translation": null
+    },
+    {
+      "time": 144.799,
+      "time_str": "02:24.799",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 179.519,
+      "time_str": "02:59.519",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 184.619,
+      "time_str": "03:04.619",
+      "text": "让我爱上你",
+      "translation": null
+    },
+    {
+      "time": 188.14,
+      "time_str": "03:08.140",
+      "text": "至少自己过得不必太压抑",
+      "translation": null
+    },
+    {
+      "time": 194.14,
+      "time_str": "03:14.140",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 198.799,
+      "time_str": "03:18.799",
+      "text": "逃出生命里",
+      "translation": null
+    },
+    {
+      "time": 201.82,
+      "time_str": "03:21.820",
+      "text": "才让这个夜显得那么空虚",
+      "translation": null
+    },
+    {
+      "time": 207.82,
+      "time_str": "03:27.820",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 212.79,
+      "time_str": "03:32.790",
+      "text": "让我爱上你",
+      "translation": null
+    },
+    {
+      "time": 215.579,
+      "time_str": "03:35.579",
+      "text": "感觉你的呼吸是那么清晰",
+      "translation": null
+    },
+    {
+      "time": 221.5,
+      "time_str": "03:41.500",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 225.88,
+      "time_str": "03:45.880",
+      "text": "让我没勇气",
+      "translation": null
+    },
+    {
+      "time": 229.899,
+      "time_str": "03:49.899",
+      "text": "让我独自在这寒冷的夜里",
+      "translation": null
+    },
+    {
+      "time": 234.82,
+      "time_str": "03:54.820",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 241.98,
+      "time_str": "04:01.980",
+      "text": "何必要在一起",
+      "translation": null
+    },
+    {
+      "time": 247.44,
+      "time_str": "04:07.440",
+      "text": "让我爱上你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "何必在一起 - 张杰.lrc"
+}

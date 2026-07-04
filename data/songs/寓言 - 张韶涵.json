@@ -1,0 +1,454 @@
+{
+  "title": "寓言",
+  "title_raw": "寓言",
+  "version": null,
+  "artist": "张韶涵",
+  "group_key": "寓言|张韶涵",
+  "writers": {
+    "lyricist": "王雅君",
+    "composer": "小安",
+    "arranger": "陈伟/Mickey Chen"
+  },
+  "lyrics": [
+    {
+      "time": 34.07,
+      "time_str": "00:34.070",
+      "text": "我逛到这条热闹的街",
+      "translation": null
+    },
+    {
+      "time": 38.06,
+      "time_str": "00:38.060",
+      "text": "太阳晒得我有点累",
+      "translation": null
+    },
+    {
+      "time": 40.61,
+      "time_str": "00:40.610",
+      "text": "奇怪最近我爱碎碎念",
+      "translation": null
+    },
+    {
+      "time": 42.93,
+      "time_str": "00:42.930",
+      "text": "但又觉得 I Don't Care",
+      "translation": null
+    },
+    {
+      "time": 45.43,
+      "time_str": "00:45.430",
+      "text": "我站在喜怒哀乐面前",
+      "translation": null
+    },
+    {
+      "time": 47.71,
+      "time_str": "00:47.710",
+      "text": "阅读我下一个画面",
+      "translation": null
+    },
+    {
+      "time": 50.59,
+      "time_str": "00:50.590",
+      "text": "我想去冒险",
+      "translation": null
+    },
+    {
+      "time": 51.12,
+      "time_str": "00:51.120",
+      "text": "不管一路多危险",
+      "translation": null
+    },
+    {
+      "time": 52.59,
+      "time_str": "00:52.590",
+      "text": "Na Na Na Na Na",
+      "translation": null
+    },
+    {
+      "time": 55.03,
+      "time_str": "00:55.030",
+      "text": "我期待童话般的爱情",
+      "translation": null
+    },
+    {
+      "time": 57.34,
+      "time_str": "00:57.340",
+      "text": "却不想那样的绝对",
+      "translation": null
+    },
+    {
+      "time": 59.8,
+      "time_str": "00:59.800",
+      "text": "给我一个大大的拥抱",
+      "translation": null
+    },
+    {
+      "time": 62.18,
+      "time_str": "01:02.180",
+      "text": "什么语言 I Don't Care",
+      "translation": null
+    },
+    {
+      "time": 64.54,
+      "time_str": "01:04.540",
+      "text": "我要专心体会每一天",
+      "translation": null
+    },
+    {
+      "time": 66.85,
+      "time_str": "01:06.850",
+      "text": "还是学会打发时间",
+      "translation": null
+    },
+    {
+      "time": 69.59,
+      "time_str": "01:09.590",
+      "text": "飞得高一点",
+      "translation": null
+    },
+    {
+      "time": 70.34,
+      "time_str": "01:10.340",
+      "text": "做我自己最特别",
+      "translation": null
+    },
+    {
+      "time": 71.84,
+      "time_str": "01:11.840",
+      "text": "Na Na Na Na Na",
+      "translation": null
+    },
+    {
+      "time": 74.21,
+      "time_str": "01:14.210",
+      "text": "我才发现",
+      "translation": null
+    },
+    {
+      "time": 75.24,
+      "time_str": "01:15.240",
+      "text": "梦想与现实间的差别",
+      "translation": null
+    },
+    {
+      "time": 78.96,
+      "time_str": "01:18.960",
+      "text": "逆着风让自己体验",
+      "translation": null
+    },
+    {
+      "time": 81.33,
+      "time_str": "01:21.330",
+      "text": "每一个感觉",
+      "translation": null
+    },
+    {
+      "time": 83.48,
+      "time_str": "01:23.480",
+      "text": "就像是寓言",
+      "translation": null
+    },
+    {
+      "time": 84.88,
+      "time_str": "01:24.880",
+      "text": "流泪喜悦看过这一天",
+      "translation": null
+    },
+    {
+      "time": 88.59,
+      "time_str": "01:28.590",
+      "text": "我想追",
+      "translation": null
+    },
+    {
+      "time": 88.96,
+      "time_str": "01:28.960",
+      "text": "追寻完美的世界",
+      "translation": null
+    },
+    {
+      "time": 93.46,
+      "time_str": "01:33.460",
+      "text": "我期待童话般的爱情",
+      "translation": null
+    },
+    {
+      "time": 95.77,
+      "time_str": "01:35.770",
+      "text": "却不想那样的绝对",
+      "translation": null
+    },
+    {
+      "time": 98.22,
+      "time_str": "01:38.220",
+      "text": "给我一个大大的拥抱",
+      "translation": null
+    },
+    {
+      "time": 100.59,
+      "time_str": "01:40.590",
+      "text": "什么语言 I Don't Care",
+      "translation": null
+    },
+    {
+      "time": 103.05,
+      "time_str": "01:43.050",
+      "text": "我要专心体会每一天",
+      "translation": null
+    },
+    {
+      "time": 105.39,
+      "time_str": "01:45.390",
+      "text": "还是学会打发时间",
+      "translation": null
+    },
+    {
+      "time": 107.76,
+      "time_str": "01:47.760",
+      "text": "飞得高一点",
+      "translation": null
+    },
+    {
+      "time": 108.79,
+      "time_str": "01:48.790",
+      "text": "做我自己最特别",
+      "translation": null
+    },
+    {
+      "time": 110.29,
+      "time_str": "01:50.290",
+      "text": "Na Na Na Na Na",
+      "translation": null
+    },
+    {
+      "time": 112.57,
+      "time_str": "01:52.570",
+      "text": "我才发现",
+      "translation": null
+    },
+    {
+      "time": 113.72,
+      "time_str": "01:53.720",
+      "text": "梦想与现实间的差别",
+      "translation": null
+    },
+    {
+      "time": 117.34,
+      "time_str": "01:57.340",
+      "text": "逆着风让自己体验",
+      "translation": null
+    },
+    {
+      "time": 119.74,
+      "time_str": "01:59.740",
+      "text": "每一个感觉",
+      "translation": null
+    },
+    {
+      "time": 121.84,
+      "time_str": "02:01.840",
+      "text": "就像是寓言",
+      "translation": null
+    },
+    {
+      "time": 123.18,
+      "time_str": "02:03.180",
+      "text": "流泪喜悦看过这一天",
+      "translation": null
+    },
+    {
+      "time": 126.43,
+      "time_str": "02:06.430",
+      "text": "我想追",
+      "translation": null
+    },
+    {
+      "time": 127.48,
+      "time_str": "02:07.480",
+      "text": "追寻完美的世界",
+      "translation": null
+    },
+    {
+      "time": 129.91,
+      "time_str": "02:09.910",
+      "text": "我还要飞",
+      "translation": null
+    },
+    {
+      "time": 131.07,
+      "time_str": "02:11.070",
+      "text": "飞得很高很远",
+      "translation": null
+    },
+    {
+      "time": 132.95,
+      "time_str": "02:12.950",
+      "text": "在我的世界",
+      "translation": null
+    },
+    {
+      "time": 136.68,
+      "time_str": "02:16.680",
+      "text": "KAN BA DE NE 不怕不后退",
+      "translation": null
+    },
+    {
+      "time": 141.29,
+      "time_str": "02:21.290",
+      "text": "闭上双眼许一个心愿",
+      "translation": null
+    },
+    {
+      "time": 146.07,
+      "time_str": "02:26.070",
+      "text": "勇敢向前梦不会碎",
+      "translation": null
+    },
+    {
+      "time": 153.59,
+      "time_str": "02:33.590",
+      "text": "我才发现",
+      "translation": null
+    },
+    {
+      "time": 154.47,
+      "time_str": "02:34.470",
+      "text": "梦想与现实间的差别",
+      "translation": null
+    },
+    {
+      "time": 158.18,
+      "time_str": "02:38.180",
+      "text": "逆着风让自己体验",
+      "translation": null
+    },
+    {
+      "time": 160.55,
+      "time_str": "02:40.550",
+      "text": "每一个感觉",
+      "translation": null
+    },
+    {
+      "time": 162.62,
+      "time_str": "02:42.620",
+      "text": "就像是寓言",
+      "translation": null
+    },
+    {
+      "time": 164.02,
+      "time_str": "02:44.020",
+      "text": "流泪喜悦看过这一天",
+      "translation": null
+    },
+    {
+      "time": 167.11,
+      "time_str": "02:47.110",
+      "text": "我想追",
+      "translation": null
+    },
+    {
+      "time": 168.13,
+      "time_str": "02:48.130",
+      "text": "追寻完美的世界",
+      "translation": null
+    },
+    {
+      "time": 170.73,
+      "time_str": "02:50.730",
+      "text": "我还要飞",
+      "translation": null
+    },
+    {
+      "time": 171.85,
+      "time_str": "02:51.850",
+      "text": "飞得很高很远",
+      "translation": null
+    },
+    {
+      "time": 173.65,
+      "time_str": "02:53.650",
+      "text": "在我的世界",
+      "translation": null
+    },
+    {
+      "time": 177.37,
+      "time_str": "02:57.370",
+      "text": "Ah Ha Yeah Ha Yeah",
+      "translation": null
+    },
+    {
+      "time": 190.08,
+      "time_str": "03:10.080",
+      "text": "在梦想与现实之间",
+      "translation": null
+    },
+    {
+      "time": 195.31,
+      "time_str": "03:15.310",
+      "text": "我体验每一个感觉",
+      "translation": null
+    },
+    {
+      "time": 200.56,
+      "time_str": "03:20.560",
+      "text": "我的自由",
+      "translation": null
+    },
+    {
+      "time": 203.59,
+      "time_str": "03:23.590",
+      "text": "Yeah",
+      "translation": null
+    },
+    {
+      "time": 206.02,
+      "time_str": "03:26.020",
+      "text": "就像是寓言",
+      "translation": null
+    },
+    {
+      "time": 207.3,
+      "time_str": "03:27.300",
+      "text": "流泪喜悦看过这一天",
+      "translation": null
+    },
+    {
+      "time": 210.57,
+      "time_str": "03:30.570",
+      "text": "我想追",
+      "translation": null
+    },
+    {
+      "time": 211.47,
+      "time_str": "03:31.470",
+      "text": "追寻完美的世界",
+      "translation": null
+    },
+    {
+      "time": 213.94,
+      "time_str": "03:33.940",
+      "text": "我还要飞",
+      "translation": null
+    },
+    {
+      "time": 215.07,
+      "time_str": "03:35.070",
+      "text": "飞得很高很远在我的",
+      "translation": null
+    },
+    {
+      "time": 218.28,
+      "time_str": "03:38.280",
+      "text": "很高很远在我的",
+      "translation": null
+    },
+    {
+      "time": 220.62,
+      "time_str": "03:40.620",
+      "text": "很高很远在我的世界",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "寓言 - 张韶涵.lrc"
+}

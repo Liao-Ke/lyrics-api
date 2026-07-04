@@ -1,0 +1,256 @@
+{
+  "title": "遥不可及的你",
+  "title_raw": "遥不可及的你",
+  "version": null,
+  "artist": "花粥",
+  "group_key": "遥不可及的你|花粥",
+  "writers": {
+    "lyricist": "花粥",
+    "composer": "花粥",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.16,
+      "time_str": "00:01.160",
+      "text": "如果有一天我要去流浪",
+      "translation": null
+    },
+    {
+      "time": 3.94,
+      "time_str": "00:03.940",
+      "text": "不是因为我厌倦了家乡",
+      "translation": null
+    },
+    {
+      "time": 6.94,
+      "time_str": "00:06.940",
+      "text": "不是难忍这里的冬天太长",
+      "translation": null
+    },
+    {
+      "time": 10.35,
+      "time_str": "00:10.350",
+      "text": "而是我终于得知了你的方向",
+      "translation": null
+    },
+    {
+      "time": 14.04,
+      "time_str": "00:14.040",
+      "text": "如果有一天我不再感伤",
+      "translation": null
+    },
+    {
+      "time": 17.37,
+      "time_str": "00:17.370",
+      "text": "不是因为我突然的成长",
+      "translation": null
+    },
+    {
+      "time": 20.3,
+      "time_str": "00:20.300",
+      "text": "不是有天有人向我递一颗糖",
+      "translation": null
+    },
+    {
+      "time": 23.65,
+      "time_str": "00:23.650",
+      "text": "而是我终于走到了你的身旁",
+      "translation": null
+    },
+    {
+      "time": 26.36,
+      "time_str": "00:26.360",
+      "text": "我从前相信",
+      "translation": null
+    },
+    {
+      "time": 29.32,
+      "time_str": "00:29.320",
+      "text": "这世上有一个温暖的人",
+      "translation": null
+    },
+    {
+      "time": 32.9,
+      "time_str": "00:32.900",
+      "text": "只为我悲喜",
+      "translation": null
+    },
+    {
+      "time": 36.68,
+      "time_str": "00:36.680",
+      "text": "为我阻挡着人间的锋利",
+      "translation": null
+    },
+    {
+      "time": 39.66,
+      "time_str": "00:39.660",
+      "text": "为了找到你",
+      "translation": null
+    },
+    {
+      "time": 43.0,
+      "time_str": "00:43.000",
+      "text": "从未放过任何蛛丝马迹",
+      "translation": null
+    },
+    {
+      "time": 46.34,
+      "time_str": "00:46.340",
+      "text": "而事到如今",
+      "translation": null
+    },
+    {
+      "time": 50.16,
+      "time_str": "00:50.160",
+      "text": "终于明白我命里没你",
+      "translation": null
+    },
+    {
+      "time": 56.8,
+      "time_str": "00:56.800",
+      "text": "我曾遇到许多美丽故事",
+      "translation": null
+    },
+    {
+      "time": 59.58,
+      "time_str": "00:59.580",
+      "text": "也曾以为那些是你的名字",
+      "translation": null
+    },
+    {
+      "time": 63.11,
+      "time_str": "01:03.110",
+      "text": "我的执迷不悟感动了我自己",
+      "translation": null
+    },
+    {
+      "time": 66.63,
+      "time_str": "01:06.630",
+      "text": "你却还是一样遥不可及",
+      "translation": null
+    },
+    {
+      "time": 69.9,
+      "time_str": "01:09.900",
+      "text": "所以我开始向往着远方",
+      "translation": null
+    },
+    {
+      "time": 73.54,
+      "time_str": "01:13.540",
+      "text": "想去那些曾经有你的地方",
+      "translation": null
+    },
+    {
+      "time": 77.03,
+      "time_str": "01:17.030",
+      "text": "可我未曾想过的人海茫茫",
+      "translation": null
+    },
+    {
+      "time": 80.48,
+      "time_str": "01:20.480",
+      "text": "让我没日没夜迷失方向",
+      "translation": null
+    },
+    {
+      "time": 83.52,
+      "time_str": "01:23.520",
+      "text": "我从前相信",
+      "translation": null
+    },
+    {
+      "time": 86.43,
+      "time_str": "01:26.430",
+      "text": "这世上有一个温暖的人",
+      "translation": null
+    },
+    {
+      "time": 90.1,
+      "time_str": "01:30.100",
+      "text": "只为我悲喜",
+      "translation": null
+    },
+    {
+      "time": 93.88,
+      "time_str": "01:33.880",
+      "text": "为我阻挡着人间的锋利",
+      "translation": null
+    },
+    {
+      "time": 96.91,
+      "time_str": "01:36.910",
+      "text": "为了找到你",
+      "translation": null
+    },
+    {
+      "time": 100.33,
+      "time_str": "01:40.330",
+      "text": "从未放过任何蛛丝马迹",
+      "translation": null
+    },
+    {
+      "time": 104.0,
+      "time_str": "01:44.000",
+      "text": "而事到如今",
+      "translation": null
+    },
+    {
+      "time": 107.61,
+      "time_str": "01:47.610",
+      "text": "终于明白我命里没你",
+      "translation": null
+    },
+    {
+      "time": 112.8,
+      "time_str": "01:52.800",
+      "text": "我从前相信",
+      "translation": null
+    },
+    {
+      "time": 115.84,
+      "time_str": "01:55.840",
+      "text": "这世上有一个温暖的人",
+      "translation": null
+    },
+    {
+      "time": 119.63,
+      "time_str": "01:59.630",
+      "text": "只为我悲喜",
+      "translation": null
+    },
+    {
+      "time": 123.67,
+      "time_str": "02:03.670",
+      "text": "为我阻挡着人间的锋利",
+      "translation": null
+    },
+    {
+      "time": 126.87,
+      "time_str": "02:06.870",
+      "text": "为了找到你",
+      "translation": null
+    },
+    {
+      "time": 130.36,
+      "time_str": "02:10.360",
+      "text": "从未放过任何蛛丝马迹",
+      "translation": null
+    },
+    {
+      "time": 133.95,
+      "time_str": "02:13.950",
+      "text": "而事到如今",
+      "translation": null
+    },
+    {
+      "time": 137.97,
+      "time_str": "02:17.970",
+      "text": "终于明白我命里没你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "遥不可及的你 - 花粥.lrc"
+}

@@ -1,0 +1,370 @@
+{
+  "title": "这该死的爱",
+  "title_raw": "这该死的爱",
+  "version": null,
+  "artist": "阴霾娃娃",
+  "group_key": "这该死的爱|阴霾娃娃",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 22.8,
+      "time_str": "00:22.800",
+      "text": "my boy",
+      "translation": null
+    },
+    {
+      "time": 23.8,
+      "time_str": "00:23.800",
+      "text": "我现在什么都不想说",
+      "translation": null
+    },
+    {
+      "time": 25.55,
+      "time_str": "00:25.550",
+      "text": "说你说过你不会放开我",
+      "translation": null
+    },
+    {
+      "time": 28.15,
+      "time_str": "00:28.150",
+      "text": "tell me",
+      "translation": null
+    },
+    {
+      "time": 29.06,
+      "time_str": "00:29.060",
+      "text": "你的爱会一直在",
+      "translation": null
+    },
+    {
+      "time": 30.81,
+      "time_str": "00:30.810",
+      "text": "my boy",
+      "translation": null
+    },
+    {
+      "time": 31.8,
+      "time_str": "00:31.800",
+      "text": "我的你会一直都爱",
+      "translation": null
+    },
+    {
+      "time": 33.45,
+      "time_str": "00:33.450",
+      "text": "我倔强的不想把和你的过去全部都遗忘",
+      "translation": null
+    },
+    {
+      "time": 36.27,
+      "time_str": "00:36.270",
+      "text": "don't say goodbye",
+      "translation": null
+    },
+    {
+      "time": 36.78,
+      "time_str": "00:36.780",
+      "text": "一切可以从头再来",
+      "translation": null
+    },
+    {
+      "time": 38.72,
+      "time_str": "00:38.720",
+      "text": "不要在难过了 其实我一直在",
+      "translation": null
+    },
+    {
+      "time": 44.33,
+      "time_str": "00:44.330",
+      "text": "你给我的爱 我总是放不开",
+      "translation": null
+    },
+    {
+      "time": 46.97,
+      "time_str": "00:46.970",
+      "text": "我到底要怎么做才能 不那么的想你",
+      "translation": null
+    },
+    {
+      "time": 49.6,
+      "time_str": "00:49.600",
+      "text": "假装不爱你 那样就不会伤心难过",
+      "translation": null
+    },
+    {
+      "time": 52.25,
+      "time_str": "00:52.250",
+      "text": "我没有别的意思 只是想讨个拥抱",
+      "translation": null
+    },
+    {
+      "time": 54.7,
+      "time_str": "00:54.700",
+      "text": "肩并肩的擦肩而过 你看不到我的心碎",
+      "translation": null
+    },
+    {
+      "time": 57.33,
+      "time_str": "00:57.330",
+      "text": "我的直觉告诉我 我根本没有那么重要",
+      "translation": null
+    },
+    {
+      "time": 60.1,
+      "time_str": "01:00.100",
+      "text": "你没有玩世不恭 我知道你为我 好",
+      "translation": null
+    },
+    {
+      "time": 62.44,
+      "time_str": "01:02.440",
+      "text": "这个理由过于简单 所以不必再继续的乞讨",
+      "translation": null
+    },
+    {
+      "time": 65.74,
+      "time_str": "01:05.740",
+      "text": "副歌",
+      "translation": null
+    },
+    {
+      "time": 66.22,
+      "time_str": "01:06.220",
+      "text": "你不在我的身边",
+      "translation": null
+    },
+    {
+      "time": 67.88,
+      "time_str": "01:07.880",
+      "text": "那季节充满眷恋",
+      "translation": null
+    },
+    {
+      "time": 71.02,
+      "time_str": "01:11.020",
+      "text": "不想让美好的回忆和你一起走远",
+      "translation": null
+    },
+    {
+      "time": 76.27,
+      "time_str": "01:16.270",
+      "text": "风略过我的思念我们回不去从前",
+      "translation": null
+    },
+    {
+      "time": 81.6,
+      "time_str": "01:21.600",
+      "text": "渐渐的我的爱消失地平线",
+      "translation": null
+    },
+    {
+      "time": 86.91,
+      "time_str": "01:26.910",
+      "text": "你不在我的身边",
+      "translation": null
+    },
+    {
+      "time": 89.28,
+      "time_str": "01:29.280",
+      "text": "那季节充满眷恋",
+      "translation": null
+    },
+    {
+      "time": 92.23,
+      "time_str": "01:32.230",
+      "text": "不想让美好的回忆和你一起走远",
+      "translation": null
+    },
+    {
+      "time": 97.68,
+      "time_str": "01:37.680",
+      "text": "风略过我的思念我们回不去从前",
+      "translation": null
+    },
+    {
+      "time": 103.01,
+      "time_str": "01:43.010",
+      "text": "渐渐的我的爱消失地平线",
+      "translation": null
+    },
+    {
+      "time": 107.94,
+      "time_str": "01:47.940",
+      "text": "RAP",
+      "translation": null
+    },
+    {
+      "time": 108.33,
+      "time_str": "01:48.330",
+      "text": "my boy",
+      "translation": null
+    },
+    {
+      "time": 109.16,
+      "time_str": "01:49.160",
+      "text": "我现在什么 都 不想做",
+      "translation": null
+    },
+    {
+      "time": 110.9,
+      "time_str": "01:50.900",
+      "text": "无论我做什么始终都是个错",
+      "translation": null
+    },
+    {
+      "time": 113.58,
+      "time_str": "01:53.580",
+      "text": "babe",
+      "translation": null
+    },
+    {
+      "time": 113.94,
+      "time_str": "01:53.940",
+      "text": "有一天你会明白你给我的爱我始终都放不开",
+      "translation": null
+    },
+    {
+      "time": 118.99,
+      "time_str": "01:58.990",
+      "text": "my like",
+      "translation": null
+    },
+    {
+      "time": 119.91,
+      "time_str": "01:59.910",
+      "text": "多希望你能够明白",
+      "translation": null
+    },
+    {
+      "time": 121.6,
+      "time_str": "02:01.600",
+      "text": "你给的依赖我一直放不开",
+      "translation": null
+    },
+    {
+      "time": 123.83,
+      "time_str": "02:03.830",
+      "text": "don't say goodbye",
+      "translation": null
+    },
+    {
+      "time": 124.95,
+      "time_str": "02:04.950",
+      "text": "一切 可以从头再来",
+      "translation": null
+    },
+    {
+      "time": 126.97,
+      "time_str": "02:06.970",
+      "text": "不让我再难过了其实我一直在",
+      "translation": null
+    },
+    {
+      "time": 129.78,
+      "time_str": "02:09.780",
+      "text": "baby多希望你会一直爱",
+      "translation": null
+    },
+    {
+      "time": 132.31,
+      "time_str": "02:12.310",
+      "text": "tell me你真的不会手放开",
+      "translation": null
+    },
+    {
+      "time": 135.01,
+      "time_str": "02:15.010",
+      "text": "爱让人觉得渺小 可是每个人都不可缺少",
+      "translation": null
+    },
+    {
+      "time": 137.76,
+      "time_str": "02:17.760",
+      "text": "请不要再对我好 无法承受你的潦草",
+      "translation": null
+    },
+    {
+      "time": 140.33,
+      "time_str": "02:20.330",
+      "text": "请不要再对我好 我的眼泪你不会看到",
+      "translation": null
+    },
+    {
+      "time": 143.08,
+      "time_str": "02:23.080",
+      "text": "你永远都不会知道 你对我有多么的重要",
+      "translation": null
+    },
+    {
+      "time": 145.64,
+      "time_str": "02:25.640",
+      "text": "我是否会被你认可 这个答案我不会知道",
+      "translation": null
+    },
+    {
+      "time": 148.83,
+      "time_str": "02:28.830",
+      "text": "那个话题我始终没说就让眼泪来代替拥抱",
+      "translation": null
+    },
+    {
+      "time": 151.52,
+      "time_str": "02:31.520",
+      "text": "RAP",
+      "translation": null
+    },
+    {
+      "time": 193.91,
+      "time_str": "03:13.910",
+      "text": "如果爱你是错 我想要错到悬崖",
+      "translation": null
+    },
+    {
+      "time": 195.84,
+      "time_str": "03:15.840",
+      "text": "而你却把我的爱当做 厌恶的尘埃",
+      "translation": null
+    },
+    {
+      "time": 198.77,
+      "time_str": "03:18.770",
+      "text": "我到底要怎么做 让你明白泪的告白",
+      "translation": null
+    },
+    {
+      "time": 201.28,
+      "time_str": "03:21.280",
+      "text": "不要再对我伤害这是 对你唯一的爱",
+      "translation": null
+    },
+    {
+      "time": 203.81,
+      "time_str": "03:23.810",
+      "text": "你可以若无其事 可以对我不理不睬",
+      "translation": null
+    },
+    {
+      "time": 206.92,
+      "time_str": "03:26.920",
+      "text": "但至少不要给我 更多关於爱的伤害",
+      "translation": null
+    },
+    {
+      "time": 209.58,
+      "time_str": "03:29.580",
+      "text": "曾经那 属于我们的舞台 没有你不再光彩",
+      "translation": null
+    },
+    {
+      "time": 211.93,
+      "time_str": "03:31.930",
+      "text": "我只想抱这双舞鞋继续这该死的爱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "这该死的爱 - 阴霾娃娃.lrc"
+}

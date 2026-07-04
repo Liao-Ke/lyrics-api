@@ -1,0 +1,274 @@
+{
+  "title": "一格格",
+  "title_raw": "一格格",
+  "version": null,
+  "artist": "卫兰",
+  "group_key": "一格格|卫兰",
+  "writers": {
+    "lyricist": "陈咏谦",
+    "composer": "方炯嘉/伍芝仪/陈子龙",
+    "arranger": "Fergus Chow/陈子龙"
+  },
+  "lyrics": [
+    {
+      "time": 1.21,
+      "time_str": "00:01.210",
+      "text": "每次上机 都幻想",
+      "translation": null
+    },
+    {
+      "time": 7.93,
+      "time_str": "00:07.930",
+      "text": "谁带我远飞 找梦乡",
+      "translation": null
+    },
+    {
+      "time": 15.4,
+      "time_str": "00:15.400",
+      "text": "谈情令我心痒痒",
+      "translation": null
+    },
+    {
+      "time": 20.81,
+      "time_str": "00:20.810",
+      "text": "期待着什么人 会遇上",
+      "translation": null
+    },
+    {
+      "time": 29.65,
+      "time_str": "00:29.650",
+      "text": "旅客揭揭袋装小说便发梦",
+      "translation": null
+    },
+    {
+      "time": 37.18,
+      "time_str": "00:37.180",
+      "text": "教堂有钟声诗班要合唱",
+      "translation": null
+    },
+    {
+      "time": 44.05,
+      "time_str": "00:44.050",
+      "text": "到处看看漫天花瓣 难以想像",
+      "translation": null
+    },
+    {
+      "time": 49.51,
+      "time_str": "00:49.510",
+      "text": "期待着什么人 会遇上",
+      "translation": null
+    },
+    {
+      "time": 56.63,
+      "time_str": "00:56.630",
+      "text": "缠住吻住春风吹住我吗",
+      "translation": null
+    },
+    {
+      "time": 60.01,
+      "time_str": "01:00.010",
+      "text": "缠住吻住郁金香是你吗",
+      "translation": null
+    },
+    {
+      "time": 63.7,
+      "time_str": "01:03.700",
+      "text": "缠住吻住诗画歌颂爱吗",
+      "translation": null
+    },
+    {
+      "time": 67.24,
+      "time_str": "01:07.240",
+      "text": "拍 逐幅逐幅恋爱定格",
+      "translation": null
+    },
+    {
+      "time": 70.77,
+      "time_str": "01:10.770",
+      "text": "缠住吻住Cream cheese点缀我吗",
+      "translation": null
+    },
+    {
+      "time": 74.51,
+      "time_str": "01:14.510",
+      "text": "缠住吻住古雕刻似你吗",
+      "translation": null
+    },
+    {
+      "time": 77.99,
+      "time_str": "01:17.990",
+      "text": "缠住爱慢身边一拍 轻轻一拍",
+      "translation": null
+    },
+    {
+      "time": 82.39,
+      "time_str": "01:22.390",
+      "text": "再捕捉捕捉恋爱定格",
+      "translation": null
+    },
+    {
+      "time": 101.32,
+      "time_str": "01:41.320",
+      "text": "远处有个历史堡垒在看雾",
+      "translation": null
+    },
+    {
+      "time": 108.75,
+      "time_str": "01:48.750",
+      "text": "快餐店灯牌逐渐明亮",
+      "translation": null
+    },
+    {
+      "time": 115.72,
+      "time_str": "01:55.720",
+      "text": "储满已到站的车票 在我身上",
+      "translation": null
+    },
+    {
+      "time": 121.07,
+      "time_str": "02:01.070",
+      "text": "期待着什么人 会遇上",
+      "translation": null
+    },
+    {
+      "time": 128.24,
+      "time_str": "02:08.240",
+      "text": "缠住吻住春风吹住我吗",
+      "translation": null
+    },
+    {
+      "time": 131.77,
+      "time_str": "02:11.770",
+      "text": "缠住吻住郁金香是你吗",
+      "translation": null
+    },
+    {
+      "time": 135.45,
+      "time_str": "02:15.450",
+      "text": "缠住吻住诗画歌颂爱吗",
+      "translation": null
+    },
+    {
+      "time": 138.98,
+      "time_str": "02:18.980",
+      "text": "拍 逐幅逐幅恋爱定格",
+      "translation": null
+    },
+    {
+      "time": 142.42,
+      "time_str": "02:22.420",
+      "text": "缠住吻住Cream cheese点缀我吗",
+      "translation": null
+    },
+    {
+      "time": 146.11,
+      "time_str": "02:26.110",
+      "text": "缠住吻住古雕刻似你吗",
+      "translation": null
+    },
+    {
+      "time": 149.65,
+      "time_str": "02:29.650",
+      "text": "缠住爱慢身边一拍 轻轻一拍",
+      "translation": null
+    },
+    {
+      "time": 153.99,
+      "time_str": "02:33.990",
+      "text": "再捕捉捕捉恋爱定格",
+      "translation": null
+    },
+    {
+      "time": 178.74,
+      "time_str": "02:58.740",
+      "text": "前事全放下 游历寻觅我的家",
+      "translation": null
+    },
+    {
+      "time": 183.23,
+      "time_str": "03:03.230",
+      "text": "愿意吗",
+      "translation": null
+    },
+    {
+      "time": 185.3,
+      "time_str": "03:05.300",
+      "text": "缠住吻住春风吹住我吗",
+      "translation": null
+    },
+    {
+      "time": 189.09,
+      "time_str": "03:09.090",
+      "text": "缠住吻住郁金香是你吗",
+      "translation": null
+    },
+    {
+      "time": 192.72,
+      "time_str": "03:12.720",
+      "text": "一呼一吸知道爱 一点一拍",
+      "translation": null
+    },
+    {
+      "time": 197.26,
+      "time_str": "03:17.260",
+      "text": "逐幅逐幅恋爱定格",
+      "translation": null
+    },
+    {
+      "time": 199.59,
+      "time_str": "03:19.590",
+      "text": "缠住吻住Cream cheese点缀我吗",
+      "translation": null
+    },
+    {
+      "time": 203.38,
+      "time_str": "03:23.380",
+      "text": "缠住吻住古雕刻似你吗",
+      "translation": null
+    },
+    {
+      "time": 206.97,
+      "time_str": "03:26.970",
+      "text": "缠住爱慢身边一拍 轻轻一拍",
+      "translation": null
+    },
+    {
+      "time": 211.31,
+      "time_str": "03:31.310",
+      "text": "再捕捉捕捉恋爱定格",
+      "translation": null
+    },
+    {
+      "time": 214.44,
+      "time_str": "03:34.440",
+      "text": "然后我登机",
+      "translation": null
+    },
+    {
+      "time": 217.98,
+      "time_str": "03:37.980",
+      "text": "就此完了",
+      "translation": null
+    },
+    {
+      "time": 221.82,
+      "time_str": "03:41.820",
+      "text": "怀念着什么人 我遇上",
+      "translation": null
+    },
+    {
+      "time": 229.45,
+      "time_str": "03:49.450",
+      "text": "怀念着 这个人",
+      "translation": null
+    },
+    {
+      "time": 236.06,
+      "time_str": "03:56.060",
+      "text": "我遇上",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一格格 - 卫兰.lrc"
+}

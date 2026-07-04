@@ -1,0 +1,286 @@
+{
+  "title": "死不了",
+  "title_raw": "死不了",
+  "version": null,
+  "artist": "任贤齐",
+  "group_key": "死不了|任贤齐",
+  "writers": {
+    "lyricist": "刘思铭",
+    "composer": "刘志宏",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 49.093,
+      "time_str": "00:49.093",
+      "text": "剖开胸膛 我让心在烈日底下烧",
+      "translation": null
+    },
+    {
+      "time": 55.41,
+      "time_str": "00:55.410",
+      "text": "烧成记号 记你的好永远别忘掉",
+      "translation": null
+    },
+    {
+      "time": 61.687,
+      "time_str": "01:01.687",
+      "text": "头破血流 也要护你到天涯海角",
+      "translation": null
+    },
+    {
+      "time": 68.05,
+      "time_str": "01:08.050",
+      "text": "爱一个字 我敢用一辈子来回报",
+      "translation": null
+    },
+    {
+      "time": 73.518,
+      "time_str": "01:13.518",
+      "text": "狂风吹 大海啸",
+      "translation": null
+    },
+    {
+      "time": 76.709,
+      "time_str": "01:16.709",
+      "text": "真心的人死不了",
+      "translation": null
+    },
+    {
+      "time": 79.842,
+      "time_str": "01:19.842",
+      "text": "地多大 天多高",
+      "translation": null
+    },
+    {
+      "time": 82.994,
+      "time_str": "01:22.994",
+      "text": "一生只换一声好",
+      "translation": null
+    },
+    {
+      "time": 86.168,
+      "time_str": "01:26.168",
+      "text": "痛快哭 痛快笑",
+      "translation": null
+    },
+    {
+      "time": 89.307,
+      "time_str": "01:29.307",
+      "text": "痛快的痛死不了",
+      "translation": null
+    },
+    {
+      "time": 92.512,
+      "time_str": "01:32.512",
+      "text": "这一生 这一秒",
+      "translation": null
+    },
+    {
+      "time": 95.616,
+      "time_str": "01:35.616",
+      "text": "我只要求你知道",
+      "translation": null
+    },
+    {
+      "time": 110.626,
+      "time_str": "01:50.626",
+      "text": "冰天雪地 我把冰水全往头上浇",
+      "translation": null
+    },
+    {
+      "time": 116.959,
+      "time_str": "01:56.959",
+      "text": "浇熄思念 最后一处温暖的怀抱",
+      "translation": null
+    },
+    {
+      "time": 123.293,
+      "time_str": "02:03.293",
+      "text": "你为了谁 宁愿让心变成了孤岛",
+      "translation": null
+    },
+    {
+      "time": 129.619,
+      "time_str": "02:09.619",
+      "text": "敞开双手 不依不靠从此随风飘",
+      "translation": null
+    },
+    {
+      "time": 135.09,
+      "time_str": "02:15.090",
+      "text": "狂风吹 大海啸",
+      "translation": null
+    },
+    {
+      "time": 138.289,
+      "time_str": "02:18.289",
+      "text": "真心的人死不了",
+      "translation": null
+    },
+    {
+      "time": 141.455,
+      "time_str": "02:21.455",
+      "text": "地多大 天多高",
+      "translation": null
+    },
+    {
+      "time": 144.61,
+      "time_str": "02:24.610",
+      "text": "一生只换一声好",
+      "translation": null
+    },
+    {
+      "time": 147.724,
+      "time_str": "02:27.724",
+      "text": "痛快哭 痛快笑",
+      "translation": null
+    },
+    {
+      "time": 150.906,
+      "time_str": "02:30.906",
+      "text": "痛快的痛死不了",
+      "translation": null
+    },
+    {
+      "time": 154.076,
+      "time_str": "02:34.076",
+      "text": "这一生 这一秒",
+      "translation": null
+    },
+    {
+      "time": 157.25,
+      "time_str": "02:37.250",
+      "text": "我只要求你知道",
+      "translation": null
+    },
+    {
+      "time": 171.412,
+      "time_str": "02:51.412",
+      "text": "狂风吹 大海啸",
+      "translation": null
+    },
+    {
+      "time": 174.569,
+      "time_str": "02:54.569",
+      "text": "真心的人死不了",
+      "translation": null
+    },
+    {
+      "time": 177.775,
+      "time_str": "02:57.775",
+      "text": "地多大 天多高",
+      "translation": null
+    },
+    {
+      "time": 180.878,
+      "time_str": "03:00.878",
+      "text": "一生只换一声好",
+      "translation": null
+    },
+    {
+      "time": 184.069,
+      "time_str": "03:04.069",
+      "text": "痛快哭 痛快笑",
+      "translation": null
+    },
+    {
+      "time": 187.202,
+      "time_str": "03:07.202",
+      "text": "痛快的痛死不了",
+      "translation": null
+    },
+    {
+      "time": 190.334,
+      "time_str": "03:10.334",
+      "text": "这一生 这一秒",
+      "translation": null
+    },
+    {
+      "time": 193.494,
+      "time_str": "03:13.494",
+      "text": "我只要求你知道",
+      "translation": null
+    },
+    {
+      "time": 198.287,
+      "time_str": "03:18.287",
+      "text": "离别的酒容易醉",
+      "translation": null
+    },
+    {
+      "time": 201.421,
+      "time_str": "03:21.421",
+      "text": "男人流血不流泪",
+      "translation": null
+    },
+    {
+      "time": 204.601,
+      "time_str": "03:24.601",
+      "text": "干一杯 痛痛快快说再会",
+      "translation": null
+    },
+    {
+      "time": 210.897,
+      "time_str": "03:30.897",
+      "text": "狂风吹 大海啸",
+      "translation": null
+    },
+    {
+      "time": 214.066,
+      "time_str": "03:34.066",
+      "text": "真心的人死不了",
+      "translation": null
+    },
+    {
+      "time": 217.236,
+      "time_str": "03:37.236",
+      "text": "地多大 天多高",
+      "translation": null
+    },
+    {
+      "time": 220.327,
+      "time_str": "03:40.327",
+      "text": "一生只换一声好",
+      "translation": null
+    },
+    {
+      "time": 223.533,
+      "time_str": "03:43.533",
+      "text": "痛快哭 痛快笑",
+      "translation": null
+    },
+    {
+      "time": 226.696,
+      "time_str": "03:46.696",
+      "text": "痛快的痛死不了",
+      "translation": null
+    },
+    {
+      "time": 229.819,
+      "time_str": "03:49.819",
+      "text": "这一生 这一秒",
+      "translation": null
+    },
+    {
+      "time": 232.986,
+      "time_str": "03:52.986",
+      "text": "我只要求你知道",
+      "translation": null
+    },
+    {
+      "time": 265.594,
+      "time_str": "04:25.594",
+      "text": "贝斯 : Andy Peterson",
+      "translation": null
+    },
+    {
+      "time": 267.736,
+      "time_str": "04:27.736",
+      "text": "键盘 : 洪敬尧",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "死不了 - 任贤齐.lrc"
+}

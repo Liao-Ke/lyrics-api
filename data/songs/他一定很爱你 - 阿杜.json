@@ -1,0 +1,280 @@
+{
+  "title": "他一定很爱你",
+  "title_raw": "他一定很爱你",
+  "version": null,
+  "artist": "阿杜",
+  "group_key": "他一定很爱你|阿杜",
+  "writers": {
+    "lyricist": "李志清",
+    "composer": "李志清",
+    "arranger": "David Koon"
+  },
+  "lyrics": [
+    {
+      "time": 31.749,
+      "time_str": "00:31.749",
+      "text": "我躲在车里",
+      "translation": null
+    },
+    {
+      "time": 34.789,
+      "time_str": "00:34.789",
+      "text": "手握着香槟",
+      "translation": null
+    },
+    {
+      "time": 37.289,
+      "time_str": "00:37.289",
+      "text": "想要给你",
+      "translation": null
+    },
+    {
+      "time": 38.789,
+      "time_str": "00:38.789",
+      "text": "生日的惊喜",
+      "translation": null
+    },
+    {
+      "time": 41.69,
+      "time_str": "00:41.690",
+      "text": "你越走越近",
+      "translation": null
+    },
+    {
+      "time": 43.548,
+      "time_str": "00:43.548",
+      "text": "有两个声音",
+      "translation": null
+    },
+    {
+      "time": 45.688,
+      "time_str": "00:45.688",
+      "text": "我措手不及",
+      "translation": null
+    },
+    {
+      "time": 48.249,
+      "time_str": "00:48.249",
+      "text": "只得愣在那里",
+      "translation": null
+    },
+    {
+      "time": 55.69,
+      "time_str": "00:55.690",
+      "text": "我应该在车底",
+      "translation": null
+    },
+    {
+      "time": 58.2,
+      "time_str": "00:58.200",
+      "text": "不应该在车里",
+      "translation": null
+    },
+    {
+      "time": 59.639,
+      "time_str": "00:59.639",
+      "text": "看到你们有多甜蜜",
+      "translation": null
+    },
+    {
+      "time": 64.589,
+      "time_str": "01:04.589",
+      "text": "这样一来我也",
+      "translation": null
+    },
+    {
+      "time": 66.49,
+      "time_str": "01:06.490",
+      "text": "比较容易死心",
+      "translation": null
+    },
+    {
+      "time": 68.799,
+      "time_str": "01:08.799",
+      "text": "给我离开的勇气",
+      "translation": null
+    },
+    {
+      "time": 75.739,
+      "time_str": "01:15.739",
+      "text": "他一定很爱你",
+      "translation": null
+    },
+    {
+      "time": 78.219,
+      "time_str": "01:18.219",
+      "text": "也把我比下去",
+      "translation": null
+    },
+    {
+      "time": 80.479,
+      "time_str": "01:20.479",
+      "text": "分手也只用了",
+      "translation": null
+    },
+    {
+      "time": 83.589,
+      "time_str": "01:23.589",
+      "text": "一分钟而已",
+      "translation": null
+    },
+    {
+      "time": 85.939,
+      "time_str": "01:25.939",
+      "text": "他一定很爱你",
+      "translation": null
+    },
+    {
+      "time": 88.299,
+      "time_str": "01:28.299",
+      "text": "比我会讨好你",
+      "translation": null
+    },
+    {
+      "time": 90.609,
+      "time_str": "01:30.609",
+      "text": "不会像我这样孩子气",
+      "translation": null
+    },
+    {
+      "time": 95.689,
+      "time_str": "01:35.689",
+      "text": "为难着你",
+      "translation": null
+    },
+    {
+      "time": 111.299,
+      "time_str": "01:51.299",
+      "text": "我应该在车底",
+      "translation": null
+    },
+    {
+      "time": 113.519,
+      "time_str": "01:53.519",
+      "text": "不应该在车里",
+      "translation": null
+    },
+    {
+      "time": 115.669,
+      "time_str": "01:55.669",
+      "text": "看到你们有多甜蜜",
+      "translation": null
+    },
+    {
+      "time": 120.99,
+      "time_str": "02:00.990",
+      "text": "这样一来我也",
+      "translation": null
+    },
+    {
+      "time": 122.609,
+      "time_str": "02:02.609",
+      "text": "比较容易死心",
+      "translation": null
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "给我离开的勇气",
+      "translation": null
+    },
+    {
+      "time": 133.099,
+      "time_str": "02:13.099",
+      "text": "他一定很爱你",
+      "translation": null
+    },
+    {
+      "time": 135.79,
+      "time_str": "02:15.790",
+      "text": "也把我比下去",
+      "translation": null
+    },
+    {
+      "time": 138.789,
+      "time_str": "02:18.789",
+      "text": "分手也只用了",
+      "translation": null
+    },
+    {
+      "time": 141.759,
+      "time_str": "02:21.759",
+      "text": "一分钟而已",
+      "translation": null
+    },
+    {
+      "time": 144.099,
+      "time_str": "02:24.099",
+      "text": "他一定很爱你",
+      "translation": null
+    },
+    {
+      "time": 146.319,
+      "time_str": "02:26.319",
+      "text": "比我会讨好你",
+      "translation": null
+    },
+    {
+      "time": 149.8,
+      "time_str": "02:29.800",
+      "text": "不会像我这样孩子气",
+      "translation": null
+    },
+    {
+      "time": 154.89,
+      "time_str": "02:34.890",
+      "text": "为难着你",
+      "translation": null
+    },
+    {
+      "time": 169.819,
+      "time_str": "02:49.819",
+      "text": "他一定很爱你",
+      "translation": null
+    },
+    {
+      "time": 171.579,
+      "time_str": "02:51.579",
+      "text": "也把我比下去",
+      "translation": null
+    },
+    {
+      "time": 174.68,
+      "time_str": "02:54.680",
+      "text": "分手也只用了",
+      "translation": null
+    },
+    {
+      "time": 177.39,
+      "time_str": "02:57.390",
+      "text": "一分钟而已",
+      "translation": null
+    },
+    {
+      "time": 179.309,
+      "time_str": "02:59.309",
+      "text": "他一定很爱你",
+      "translation": null
+    },
+    {
+      "time": 182.199,
+      "time_str": "03:02.199",
+      "text": "比我会讨好你",
+      "translation": null
+    },
+    {
+      "time": 184.009,
+      "time_str": "03:04.009",
+      "text": "不会像我这样孩子气",
+      "translation": null
+    },
+    {
+      "time": 189.599,
+      "time_str": "03:09.599",
+      "text": "为难着你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "他一定很爱你 - 阿杜.lrc"
+}

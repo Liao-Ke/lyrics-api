@@ -1,0 +1,304 @@
+{
+  "title": "天下有情人",
+  "title_raw": "天下有情人 (国语版)",
+  "version": "国语版",
+  "artist": "童珺",
+  "group_key": "天下有情人|童珺",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "周华健",
+    "arranger": "励志豪"
+  },
+  "lyrics": [
+    {
+      "time": 2.08,
+      "time_str": "00:02.080",
+      "text": "爱是迷迷糊糊",
+      "translation": null
+    },
+    {
+      "time": 3.71,
+      "time_str": "00:03.710",
+      "text": "天地初开的时候",
+      "translation": null
+    },
+    {
+      "time": 5.29,
+      "time_str": "00:05.290",
+      "text": "那已经盛放的玫瑰",
+      "translation": null
+    },
+    {
+      "time": 8.22,
+      "time_str": "00:08.220",
+      "text": "爱是踏破红尘",
+      "translation": null
+    },
+    {
+      "time": 9.87,
+      "time_str": "00:09.870",
+      "text": "望穿秋水只因为",
+      "translation": null
+    },
+    {
+      "time": 12.45,
+      "time_str": "00:12.450",
+      "text": "爱过的人不说后悔",
+      "translation": null
+    },
+    {
+      "time": 15.11,
+      "time_str": "00:15.110",
+      "text": "爱是一生一生",
+      "translation": null
+    },
+    {
+      "time": 16.76,
+      "time_str": "00:16.760",
+      "text": "一次一次的轮回",
+      "translation": null
+    },
+    {
+      "time": 18.84,
+      "time_str": "00:18.840",
+      "text": "不管在东南和西北",
+      "translation": null
+    },
+    {
+      "time": 21.94,
+      "time_str": "00:21.940",
+      "text": "爱是一段一段",
+      "translation": null
+    },
+    {
+      "time": 23.62,
+      "time_str": "00:23.620",
+      "text": "一丝一丝的是非",
+      "translation": null
+    },
+    {
+      "time": 26.08,
+      "time_str": "00:26.080",
+      "text": "叫有情人再不能够说再会",
+      "translation": null
+    },
+    {
+      "time": 36.72,
+      "time_str": "00:36.720",
+      "text": "爱怎么做怎么错",
+      "translation": null
+    },
+    {
+      "time": 39.02,
+      "time_str": "00:39.020",
+      "text": "怎么看怎么难",
+      "translation": null
+    },
+    {
+      "time": 39.99,
+      "time_str": "00:39.990",
+      "text": "怎么叫人死生相随",
+      "translation": null
+    },
+    {
+      "time": 43.35,
+      "time_str": "00:43.350",
+      "text": "爱是一种不能说",
+      "translation": null
+    },
+    {
+      "time": 45.32,
+      "time_str": "00:45.320",
+      "text": "只能尝的滋味",
+      "translation": null
+    },
+    {
+      "time": 46.86,
+      "time_str": "00:46.860",
+      "text": "试过以后不醉不归",
+      "translation": null
+    },
+    {
+      "time": 50.5,
+      "time_str": "00:50.500",
+      "text": "等到红颜憔悴",
+      "translation": null
+    },
+    {
+      "time": 53.68,
+      "time_str": "00:53.680",
+      "text": "它却依然如此完美",
+      "translation": null
+    },
+    {
+      "time": 57.27,
+      "time_str": "00:57.270",
+      "text": "等到什么时候",
+      "translation": null
+    },
+    {
+      "time": 59.95,
+      "time_str": "00:59.950",
+      "text": "我们才能够体会",
+      "translation": null
+    },
+    {
+      "time": 64.15,
+      "time_str": "01:04.150",
+      "text": "爱是一朵六月天",
+      "translation": null
+    },
+    {
+      "time": 65.95,
+      "time_str": "01:05.950",
+      "text": "飘下来的雪花",
+      "translation": null
+    },
+    {
+      "time": 67.35,
+      "time_str": "01:07.350",
+      "text": "还没结果已经枯萎",
+      "translation": null
+    },
+    {
+      "time": 70.73,
+      "time_str": "01:10.730",
+      "text": "爱是一滴擦不干",
+      "translation": null
+    },
+    {
+      "time": 72.78,
+      "time_str": "01:12.780",
+      "text": "烧不完的眼泪",
+      "translation": null
+    },
+    {
+      "time": 74.15,
+      "time_str": "01:14.150",
+      "text": "还没凝固已经成灰",
+      "translation": null
+    },
+    {
+      "time": 77.82,
+      "time_str": "01:17.820",
+      "text": "等到情丝吐尽",
+      "translation": null
+    },
+    {
+      "time": 81.25,
+      "time_str": "01:21.250",
+      "text": "它才出现那一回",
+      "translation": null
+    },
+    {
+      "time": 84.83,
+      "time_str": "01:24.830",
+      "text": "等到红尘残碎",
+      "translation": null
+    },
+    {
+      "time": 87.93,
+      "time_str": "01:27.930",
+      "text": "它才让人双宿双飞",
+      "translation": null
+    },
+    {
+      "time": 90.82,
+      "time_str": "01:30.820",
+      "text": "啊……",
+      "translation": null
+    },
+    {
+      "time": 102.89,
+      "time_str": "01:42.890",
+      "text": "有谁懂得个中滋味",
+      "translation": null
+    },
+    {
+      "time": 104.52,
+      "time_str": "01:44.520",
+      "text": "爱是迷迷糊糊",
+      "translation": null
+    },
+    {
+      "time": 106.03,
+      "time_str": "01:46.030",
+      "text": "天地初开的时候",
+      "translation": null
+    },
+    {
+      "time": 108.13,
+      "time_str": "01:48.130",
+      "text": "那已经盛放的玫瑰",
+      "translation": null
+    },
+    {
+      "time": 110.98,
+      "time_str": "01:50.980",
+      "text": "爱是踏破红尘",
+      "translation": null
+    },
+    {
+      "time": 112.68,
+      "time_str": "01:52.680",
+      "text": "望穿秋水只因为",
+      "translation": null
+    },
+    {
+      "time": 115.05,
+      "time_str": "01:55.050",
+      "text": "爱过的人不说后悔",
+      "translation": null
+    },
+    {
+      "time": 117.94,
+      "time_str": "01:57.940",
+      "text": "爱是一生一世",
+      "translation": null
+    },
+    {
+      "time": 119.6,
+      "time_str": "01:59.600",
+      "text": "一次一次的轮回",
+      "translation": null
+    },
+    {
+      "time": 121.57,
+      "time_str": "02:01.570",
+      "text": "不管在东南和西北",
+      "translation": null
+    },
+    {
+      "time": 124.67,
+      "time_str": "02:04.670",
+      "text": "爱是一段一段",
+      "translation": null
+    },
+    {
+      "time": 126.28,
+      "time_str": "02:06.280",
+      "text": "一丝一丝的是非",
+      "translation": null
+    },
+    {
+      "time": 128.91,
+      "time_str": "02:08.910",
+      "text": "叫有情人再不能够说再会",
+      "translation": null
+    },
+    {
+      "time": 140.25,
+      "time_str": "02:20.250",
+      "text": "SP：Rock Music Publishing Co., Ltd.",
+      "translation": null
+    },
+    {
+      "time": 140.76,
+      "time_str": "02:20.760",
+      "text": "SP：Warner/Chappell Music Publishing Agency (Beijing) Ltd.",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天下有情人 (国语版) - 童珺.lrc"
+}

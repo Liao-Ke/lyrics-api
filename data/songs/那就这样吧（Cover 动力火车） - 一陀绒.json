@@ -1,0 +1,232 @@
+{
+  "title": "那就这样吧",
+  "title_raw": "那就这样吧（Cover 动力火车）",
+  "version": "Cover 动力火车",
+  "artist": "一陀绒",
+  "group_key": "那就这样吧|一陀绒",
+  "writers": {
+    "lyricist": "阿轩",
+    "composer": "阿轩",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 21.17,
+      "time_str": "00:21.170",
+      "text": "不要哭了吗 该哭的人是我吧",
+      "translation": null
+    },
+    {
+      "time": 26.33,
+      "time_str": "00:26.330",
+      "text": "你都坦白爱上了他 我有什么办法",
+      "translation": null
+    },
+    {
+      "time": 31.39,
+      "time_str": "00:31.390",
+      "text": "我也同意啦 既然你提出想法",
+      "translation": null
+    },
+    {
+      "time": 36.56,
+      "time_str": "00:36.560",
+      "text": "我们不要拖拖拉拉 就从明天开始吧",
+      "translation": null
+    },
+    {
+      "time": 44.06,
+      "time_str": "00:44.060",
+      "text": "那就这样吧 再爱都曲终人散啦",
+      "translation": null
+    },
+    {
+      "time": 49.95,
+      "time_str": "00:49.950",
+      "text": "那就分手吧 再爱都无需挣扎",
+      "translation": null
+    },
+    {
+      "time": 54.79,
+      "time_str": "00:54.790",
+      "text": "不要再问我 怎舍得拱手让他",
+      "translation": null
+    },
+    {
+      "time": 59.74,
+      "time_str": "00:59.740",
+      "text": "你走吧 到了记得要给我通电话",
+      "translation": null
+    },
+    {
+      "time": 65.18,
+      "time_str": "01:05.180",
+      "text": "那就这样吧 再爱都要Sayonara",
+      "translation": null
+    },
+    {
+      "time": 70.71,
+      "time_str": "01:10.710",
+      "text": "再给抱一下 闻一闻你的长发",
+      "translation": null
+    },
+    {
+      "time": 75.79,
+      "time_str": "01:15.790",
+      "text": "不要再哭啦 快把眼泪擦一擦",
+      "translation": null
+    },
+    {
+      "time": 80.39,
+      "time_str": "01:20.390",
+      "text": "这样吧 再爱我有缘的话",
+      "translation": null
+    },
+    {
+      "time": 104.55,
+      "time_str": "01:44.550",
+      "text": "不要哭了吗 该哭的人是我吧",
+      "translation": null
+    },
+    {
+      "time": 109.64,
+      "time_str": "01:49.640",
+      "text": "你都坦白爱上了他 我有什么办法",
+      "translation": null
+    },
+    {
+      "time": 114.75,
+      "time_str": "01:54.750",
+      "text": "我也同意啦 既然你提出想法",
+      "translation": null
+    },
+    {
+      "time": 120.15,
+      "time_str": "02:00.150",
+      "text": "我们不要拖拖拉拉 就从明天开始吧",
+      "translation": null
+    },
+    {
+      "time": 127.61,
+      "time_str": "02:07.610",
+      "text": "那就这样吧 再爱都曲终人散啦",
+      "translation": null
+    },
+    {
+      "time": 132.72,
+      "time_str": "02:12.720",
+      "text": "那就分手吧 再爱都无需挣扎",
+      "translation": null
+    },
+    {
+      "time": 137.92,
+      "time_str": "02:17.920",
+      "text": "不要再问我 怎舍得拱手让他",
+      "translation": null
+    },
+    {
+      "time": 143.06,
+      "time_str": "02:23.060",
+      "text": "你走吧 到了记得要给我通电话",
+      "translation": null
+    },
+    {
+      "time": 148.46,
+      "time_str": "02:28.460",
+      "text": "那就这样吧 再爱都要Sayonara",
+      "translation": null
+    },
+    {
+      "time": 153.87,
+      "time_str": "02:33.870",
+      "text": "再给抱一下 闻一闻你的长发",
+      "translation": null
+    },
+    {
+      "time": 158.77,
+      "time_str": "02:38.770",
+      "text": "不要再哭啦 快把眼泪擦一擦",
+      "translation": null
+    },
+    {
+      "time": 163.84,
+      "time_str": "02:43.840",
+      "text": "这样吧 再爱我有缘的话",
+      "translation": null
+    },
+    {
+      "time": 170.58,
+      "time_str": "02:50.580",
+      "text": "快去把东西收拾一下",
+      "translation": null
+    },
+    {
+      "time": 175.42,
+      "time_str": "02:55.420",
+      "text": "再耗下去都天亮啦",
+      "translation": null
+    },
+    {
+      "time": 180.63,
+      "time_str": "03:00.630",
+      "text": "这里的钥匙你先留著吧",
+      "translation": null
+    },
+    {
+      "time": 185.96,
+      "time_str": "03:05.960",
+      "text": "怕你有东西 假如你有东西忘了拿",
+      "translation": null
+    },
+    {
+      "time": 195.7,
+      "time_str": "03:15.700",
+      "text": "那就这样吧 再爱都曲终人散啦",
+      "translation": null
+    },
+    {
+      "time": 200.64,
+      "time_str": "03:20.640",
+      "text": "那就分手吧 再爱都无须挣扎",
+      "translation": null
+    },
+    {
+      "time": 205.86,
+      "time_str": "03:25.860",
+      "text": "不要再问我 怎舍得拱手让他",
+      "translation": null
+    },
+    {
+      "time": 210.87,
+      "time_str": "03:30.870",
+      "text": "你走吧 到了记得要给我通电话",
+      "translation": null
+    },
+    {
+      "time": 216.39,
+      "time_str": "03:36.390",
+      "text": "那就这样吧 再爱都要sayonara",
+      "translation": null
+    },
+    {
+      "time": 221.79,
+      "time_str": "03:41.790",
+      "text": "再给抱一下 闻一闻你的长发",
+      "translation": null
+    },
+    {
+      "time": 226.86,
+      "time_str": "03:46.860",
+      "text": "不要再哭啦 快把眼泪擦一擦",
+      "translation": null
+    },
+    {
+      "time": 231.77,
+      "time_str": "03:51.770",
+      "text": "这样吧 再爱我有缘的话",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "那就这样吧（Cover 动力火车） - 一陀绒.lrc"
+}

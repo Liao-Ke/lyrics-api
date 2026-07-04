@@ -1,0 +1,388 @@
+{
+  "title": "醉清风",
+  "title_raw": "醉清风 (2005版)",
+  "version": "2005版",
+  "artist": "弦子",
+  "group_key": "醉清风|弦子",
+  "writers": {
+    "lyricist": "薛永嘉",
+    "composer": "Marko",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 30.748,
+      "time_str": "00:30.748",
+      "text": "月色正朦胧",
+      "translation": null
+    },
+    {
+      "time": 37.241,
+      "time_str": "00:37.241",
+      "text": "与清风把酒相送",
+      "translation": null
+    },
+    {
+      "time": 43.254,
+      "time_str": "00:43.254",
+      "text": "太多的诗颂",
+      "translation": null
+    },
+    {
+      "time": 49.511,
+      "time_str": "00:49.511",
+      "text": "醉生梦死也空",
+      "translation": null
+    },
+    {
+      "time": 55.957,
+      "time_str": "00:55.957",
+      "text": "和你醉后缠绵",
+      "translation": null
+    },
+    {
+      "time": 59.318,
+      "time_str": "00:59.318",
+      "text": "你曾记得",
+      "translation": null
+    },
+    {
+      "time": 62.68,
+      "time_str": "01:02.680",
+      "text": "乱了分寸的心动",
+      "translation": null
+    },
+    {
+      "time": 67.341,
+      "time_str": "01:07.341",
+      "text": "怎么只有这首歌",
+      "translation": null
+    },
+    {
+      "time": 70.736,
+      "time_str": "01:10.736",
+      "text": "会让你轻声合",
+      "translation": null
+    },
+    {
+      "time": 73.074,
+      "time_str": "01:13.074",
+      "text": "醉清风",
+      "translation": null
+    },
+    {
+      "time": 81.223,
+      "time_str": "01:21.223",
+      "text": "梦境的虚有",
+      "translation": null
+    },
+    {
+      "time": 87.74,
+      "time_str": "01:27.740",
+      "text": "琴声一曲相送",
+      "translation": null
+    },
+    {
+      "time": 94.489,
+      "time_str": "01:34.489",
+      "text": "还有没有情浓",
+      "translation": null
+    },
+    {
+      "time": 100.748,
+      "time_str": "01:40.748",
+      "text": "风花雪月颜容",
+      "translation": null
+    },
+    {
+      "time": 107.054,
+      "time_str": "01:47.054",
+      "text": "和你醉后缠绵",
+      "translation": null
+    },
+    {
+      "time": 110.971,
+      "time_str": "01:50.971",
+      "text": "你曾记得",
+      "translation": null
+    },
+    {
+      "time": 114.076,
+      "time_str": "01:54.076",
+      "text": "乱了分寸的心动",
+      "translation": null
+    },
+    {
+      "time": 118.51,
+      "time_str": "01:58.510",
+      "text": "蝴蝶去向无影踪",
+      "translation": null
+    },
+    {
+      "time": 121.89,
+      "time_str": "02:01.890",
+      "text": "举杯消愁意正浓",
+      "translation": null
+    },
+    {
+      "time": 124.779,
+      "time_str": "02:04.779",
+      "text": "无人宠",
+      "translation": null
+    },
+    {
+      "time": 132.511,
+      "time_str": "02:12.511",
+      "text": "是我想得太多",
+      "translation": null
+    },
+    {
+      "time": 139.036,
+      "time_str": "02:19.036",
+      "text": "犹如飞蛾扑火那么冲动",
+      "translation": null
+    },
+    {
+      "time": 143.926,
+      "time_str": "02:23.926",
+      "text": "最后",
+      "translation": null
+    },
+    {
+      "time": 146.02,
+      "time_str": "02:26.020",
+      "text": "还有一盏烛火",
+      "translation": null
+    },
+    {
+      "time": 149.381,
+      "time_str": "02:29.381",
+      "text": "燃尽我",
+      "translation": null
+    },
+    {
+      "time": 152.237,
+      "time_str": "02:32.237",
+      "text": "曲终人散",
+      "translation": null
+    },
+    {
+      "time": 154.323,
+      "time_str": "02:34.323",
+      "text": "谁无过错",
+      "translation": null
+    },
+    {
+      "time": 156.674,
+      "time_str": "02:36.674",
+      "text": "我看破",
+      "translation": null
+    },
+    {
+      "time": 161.333,
+      "time_str": "02:41.333",
+      "text": "月色正朦胧与清风把酒相送",
+      "translation": null
+    },
+    {
+      "time": 164.124,
+      "time_str": "02:44.124",
+      "text": "太多的诗颂醉生梦死也空",
+      "translation": null
+    },
+    {
+      "time": 168.013,
+      "time_str": "02:48.013",
+      "text": "和你醉后缠绵",
+      "translation": null
+    },
+    {
+      "time": 170.094,
+      "time_str": "02:50.094",
+      "text": "你曾记得",
+      "translation": null
+    },
+    {
+      "time": 174.021,
+      "time_str": "02:54.021",
+      "text": "梦境的虚有琴声一曲相送",
+      "translation": null
+    },
+    {
+      "time": 177.171,
+      "time_str": "02:57.171",
+      "text": "还有没有情浓风花雪月颜容",
+      "translation": null
+    },
+    {
+      "time": 180.278,
+      "time_str": "03:00.278",
+      "text": "和你醉后缠绵",
+      "translation": null
+    },
+    {
+      "time": 182.073,
+      "time_str": "03:02.073",
+      "text": "你曾记得",
+      "translation": null
+    },
+    {
+      "time": 190.603,
+      "time_str": "03:10.603",
+      "text": "梦境的虚有",
+      "translation": null
+    },
+    {
+      "time": 196.548,
+      "time_str": "03:16.548",
+      "text": "琴声一曲相送",
+      "translation": null
+    },
+    {
+      "time": 203.044,
+      "time_str": "03:23.044",
+      "text": "还有没有情浓",
+      "translation": null
+    },
+    {
+      "time": 209.338,
+      "time_str": "03:29.338",
+      "text": "风花雪月颜容",
+      "translation": null
+    },
+    {
+      "time": 215.875,
+      "time_str": "03:35.875",
+      "text": "和你醉后缠绵",
+      "translation": null
+    },
+    {
+      "time": 218.504,
+      "time_str": "03:38.504",
+      "text": "你曾记得",
+      "translation": null
+    },
+    {
+      "time": 222.688,
+      "time_str": "03:42.688",
+      "text": "乱了分寸的心动",
+      "translation": null
+    },
+    {
+      "time": 227.402,
+      "time_str": "03:47.402",
+      "text": "蝴蝶去向无影踪",
+      "translation": null
+    },
+    {
+      "time": 231.059,
+      "time_str": "03:51.059",
+      "text": "举杯消愁意正浓",
+      "translation": null
+    },
+    {
+      "time": 233.404,
+      "time_str": "03:53.404",
+      "text": "无人宠",
+      "translation": null
+    },
+    {
+      "time": 241.511,
+      "time_str": "04:01.511",
+      "text": "是我想得太多",
+      "translation": null
+    },
+    {
+      "time": 247.999,
+      "time_str": "04:07.999",
+      "text": "犹如飞蛾扑火那么冲动",
+      "translation": null
+    },
+    {
+      "time": 252.718,
+      "time_str": "04:12.718",
+      "text": "最后",
+      "translation": null
+    },
+    {
+      "time": 254.993,
+      "time_str": "04:14.993",
+      "text": "还有一盏烛火",
+      "translation": null
+    },
+    {
+      "time": 258.376,
+      "time_str": "04:18.376",
+      "text": "燃尽我",
+      "translation": null
+    },
+    {
+      "time": 260.433,
+      "time_str": "04:20.433",
+      "text": "曲终人散",
+      "translation": null
+    },
+    {
+      "time": 263.052,
+      "time_str": "04:23.052",
+      "text": "谁无过错",
+      "translation": null
+    },
+    {
+      "time": 265.392,
+      "time_str": "04:25.392",
+      "text": "我看破",
+      "translation": null
+    },
+    {
+      "time": 271.098,
+      "time_str": "04:31.098",
+      "text": "是我想得太多 啊..",
+      "translation": null
+    },
+    {
+      "time": 276.546,
+      "time_str": "04:36.546",
+      "text": "犹如飞蛾扑火那么冲动",
+      "translation": null
+    },
+    {
+      "time": 283.049,
+      "time_str": "04:43.049",
+      "text": "最后",
+      "translation": null
+    },
+    {
+      "time": 284.369,
+      "time_str": "04:44.369",
+      "text": "还有一盏烛火",
+      "translation": null
+    },
+    {
+      "time": 287.496,
+      "time_str": "04:47.496",
+      "text": "燃尽我",
+      "translation": null
+    },
+    {
+      "time": 289.316,
+      "time_str": "04:49.316",
+      "text": "曲终人散",
+      "translation": null
+    },
+    {
+      "time": 291.647,
+      "time_str": "04:51.647",
+      "text": "谁无过错",
+      "translation": null
+    },
+    {
+      "time": 294.501,
+      "time_str": "04:54.501",
+      "text": "我看破",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "醉清风 (2005版) - 弦子.lrc"
+}

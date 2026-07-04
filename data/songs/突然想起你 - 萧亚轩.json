@@ -1,0 +1,316 @@
+{
+  "title": "突然想起你",
+  "title_raw": "突然想起你",
+  "version": null,
+  "artist": "萧亚轩",
+  "group_key": "突然想起你|萧亚轩",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "陈伟",
+    "arranger": "陈伟"
+  },
+  "lyrics": [
+    {
+      "time": 11.19,
+      "time_str": "00:11.190",
+      "text": "都是因为那灯泡",
+      "translation": null
+    },
+    {
+      "time": 16.03,
+      "time_str": "00:16.030",
+      "text": "突然闪了一下",
+      "translation": null
+    },
+    {
+      "time": 18.82,
+      "time_str": "00:18.820",
+      "text": "于是想起你",
+      "translation": null
+    },
+    {
+      "time": 22.31,
+      "time_str": "00:22.310",
+      "text": "怕你 还没休息",
+      "translation": null
+    },
+    {
+      "time": 30.91,
+      "time_str": "00:30.910",
+      "text": "都是因为这场雨",
+      "translation": null
+    },
+    {
+      "time": 35.62,
+      "time_str": "00:35.620",
+      "text": "忽然间下的那么大",
+      "translation": null
+    },
+    {
+      "time": 38.68,
+      "time_str": "00:38.680",
+      "text": "怕来不及",
+      "translation": null
+    },
+    {
+      "time": 42.06,
+      "time_str": "00:42.060",
+      "text": "跟你 走在一起",
+      "translation": null
+    },
+    {
+      "time": 48.7,
+      "time_str": "00:48.700",
+      "text": "一个人的夜 我的心",
+      "translation": null
+    },
+    {
+      "time": 51.93,
+      "time_str": "00:51.930",
+      "text": "应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 54.09,
+      "time_str": "00:54.090",
+      "text": "拥抱过后",
+      "translation": null
+    },
+    {
+      "time": 55.64,
+      "time_str": "00:55.640",
+      "text": "我的双手 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 59.01,
+      "time_str": "00:59.010",
+      "text": "我始终学不会控制",
+      "translation": null
+    },
+    {
+      "time": 62.41,
+      "time_str": "01:02.410",
+      "text": "我的呼吸",
+      "translation": null
+    },
+    {
+      "time": 63.9,
+      "time_str": "01:03.900",
+      "text": "在玻璃窗上",
+      "translation": null
+    },
+    {
+      "time": 66.14,
+      "time_str": "01:06.140",
+      "text": "呵出你美丽的名字",
+      "translation": null
+    },
+    {
+      "time": 69.01,
+      "time_str": "01:09.010",
+      "text": "寂寞来袭 旧雨衣",
+      "translation": null
+    },
+    {
+      "time": 71.72,
+      "time_str": "01:11.720",
+      "text": "到底放在哪里",
+      "translation": null
+    },
+    {
+      "time": 73.75,
+      "time_str": "01:13.750",
+      "text": "想念着你",
+      "translation": null
+    },
+    {
+      "time": 75.43,
+      "time_str": "01:15.430",
+      "text": "我的念头 应该想到哪里",
+      "translation": null
+    },
+    {
+      "time": 78.77,
+      "time_str": "01:18.770",
+      "text": "有什么方法",
+      "translation": null
+    },
+    {
+      "time": 80.82,
+      "time_str": "01:20.820",
+      "text": "让两个人 不分离",
+      "translation": null
+    },
+    {
+      "time": 108.26,
+      "time_str": "01:48.260",
+      "text": "一个人的夜",
+      "translation": null
+    },
+    {
+      "time": 110.03,
+      "time_str": "01:50.030",
+      "text": "我的心 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 113.38,
+      "time_str": "01:53.380",
+      "text": "拥抱过后",
+      "translation": null
+    },
+    {
+      "time": 114.99,
+      "time_str": "01:54.990",
+      "text": "我的双手 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 118.34,
+      "time_str": "01:58.340",
+      "text": "我始终学不会控制",
+      "translation": null
+    },
+    {
+      "time": 121.78,
+      "time_str": "02:01.780",
+      "text": "我的呼吸",
+      "translation": null
+    },
+    {
+      "time": 123.27,
+      "time_str": "02:03.270",
+      "text": "在玻璃窗上",
+      "translation": null
+    },
+    {
+      "time": 125.49,
+      "time_str": "02:05.490",
+      "text": "呵出你美丽的名字",
+      "translation": null
+    },
+    {
+      "time": 128.22,
+      "time_str": "02:08.220",
+      "text": "寂寞来袭 有眼泪",
+      "translation": null
+    },
+    {
+      "time": 131.05,
+      "time_str": "02:11.050",
+      "text": "应该流到哪里",
+      "translation": null
+    },
+    {
+      "time": 133.15,
+      "time_str": "02:13.150",
+      "text": "雨那么大",
+      "translation": null
+    },
+    {
+      "time": 134.76,
+      "time_str": "02:14.760",
+      "text": "你的车子 现在停在哪里",
+      "translation": null
+    },
+    {
+      "time": 138.13,
+      "time_str": "02:18.130",
+      "text": "只怪我忍不住",
+      "translation": null
+    },
+    {
+      "time": 140.21,
+      "time_str": "02:20.210",
+      "text": "对着你的手提",
+      "translation": null
+    },
+    {
+      "time": 143.11,
+      "time_str": "02:23.110",
+      "text": "找到了话题",
+      "translation": null
+    },
+    {
+      "time": 145.31,
+      "time_str": "02:25.310",
+      "text": "找不到活命的氧气",
+      "translation": null
+    },
+    {
+      "time": 147.98,
+      "time_str": "02:27.980",
+      "text": "寂寞来袭 我的心",
+      "translation": null
+    },
+    {
+      "time": 150.81,
+      "time_str": "02:30.810",
+      "text": "应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 152.91,
+      "time_str": "02:32.910",
+      "text": "拥抱过后",
+      "translation": null
+    },
+    {
+      "time": 154.56,
+      "time_str": "02:34.560",
+      "text": "我的双手 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 157.9,
+      "time_str": "02:37.900",
+      "text": "我始终学不会控制",
+      "translation": null
+    },
+    {
+      "time": 161.36,
+      "time_str": "02:41.360",
+      "text": "我的呼吸",
+      "translation": null
+    },
+    {
+      "time": 162.89,
+      "time_str": "02:42.890",
+      "text": "在玻璃窗上",
+      "translation": null
+    },
+    {
+      "time": 165.11,
+      "time_str": "02:45.110",
+      "text": "呵出你美丽的名字",
+      "translation": null
+    },
+    {
+      "time": 167.83,
+      "time_str": "02:47.830",
+      "text": "寂寞来袭 旧雨衣",
+      "translation": null
+    },
+    {
+      "time": 170.72,
+      "time_str": "02:50.720",
+      "text": "到底放在哪里",
+      "translation": null
+    },
+    {
+      "time": 179.12,
+      "time_str": "02:59.120",
+      "text": "有什么方法让两个人",
+      "translation": null
+    },
+    {
+      "time": 182.75,
+      "time_str": "03:02.750",
+      "text": "不分离",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "突然想起你 - 萧亚轩.lrc"
+}

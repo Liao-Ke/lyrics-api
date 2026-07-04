@@ -1,0 +1,358 @@
+{
+  "title": "Stronger",
+  "title_raw": "Stronger",
+  "version": null,
+  "artist": "Inez",
+  "group_key": "stronger|inez",
+  "writers": {
+    "lyricist": null,
+    "composer": "Kanye West/Daft Punk/Edwin Birdsong",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.91,
+      "time_str": "00:00.910",
+      "text": "Half way up feels like going down,",
+      "translation": "你说没有未来的感情就应好聚好散"
+    },
+    {
+      "time": 3.82,
+      "time_str": "00:03.820",
+      "text": "but I'm getting stronger and stronger.",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 7.98,
+      "time_str": "00:07.980",
+      "text": "Half way up feels like going down,",
+      "translation": "你说没有未来的感情就应好聚好散"
+    },
+    {
+      "time": 11.21,
+      "time_str": "00:11.210",
+      "text": "but I'm getting stronger and stronger.",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 15.24,
+      "time_str": "00:15.240",
+      "text": "I got my Inside out my headache won't stop",
+      "translation": "爱你我失去自我，换来的却只是悲伤"
+    },
+    {
+      "time": 18.84,
+      "time_str": "00:18.840",
+      "text": "I fail to not look back,",
+      "translation": "忍不住回头去看"
+    },
+    {
+      "time": 20.85,
+      "time_str": "00:20.850",
+      "text": "as I'm bouncing down the wrong track",
+      "translation": "那些破败不堪的过往"
+    },
+    {
+      "time": 23.29,
+      "time_str": "00:23.290",
+      "text": "Half way up feels like going down,",
+      "translation": "你说没有未来的感情就应好聚好散"
+    },
+    {
+      "time": 26.37,
+      "time_str": "00:26.370",
+      "text": "but I’m getting stronger and stronger.",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 30.9,
+      "time_str": "00:30.900",
+      "text": "Once Again I'm longing, for your hungry touch",
+      "translation": "曾经，你可知我是多么渴望你的抚慰"
+    },
+    {
+      "time": 38.52,
+      "time_str": "00:38.520",
+      "text": "Picturing when you on me, I'm missing you so much",
+      "translation": "回忆里那些亲密的过往"
+    },
+    {
+      "time": 45.53,
+      "time_str": "00:45.530",
+      "text": "You turn on my imagination, through you’re faraway",
+      "translation": "你是唤醒了我的梦，一如从前"
+    },
+    {
+      "time": 53.03,
+      "time_str": "00:53.030",
+      "text": "And in my fantasy you crave my body;",
+      "translation": "梦中你是我不变的唯一"
+    },
+    {
+      "time": 56.91,
+      "time_str": "00:56.910",
+      "text": "I need you back to stay",
+      "translation": "请为我留下，不要离开"
+    },
+    {
+      "time": 60.92,
+      "time_str": "01:00.920",
+      "text": "I get my Inside out my headache won't stop",
+      "translation": "爱你我失去自我，换来的却只是悲伤"
+    },
+    {
+      "time": 64.65,
+      "time_str": "01:04.650",
+      "text": "I fail to not look back,",
+      "translation": "忍不住回头去看"
+    },
+    {
+      "time": 66.62,
+      "time_str": "01:06.620",
+      "text": "as I'm bouncing down the wrong track",
+      "translation": "那些破败不堪的过往"
+    },
+    {
+      "time": 68.98,
+      "time_str": "01:08.980",
+      "text": "Half way up feels like going down,",
+      "translation": "你说没有未来的感情就应好聚好散"
+    },
+    {
+      "time": 72.41,
+      "time_str": "01:12.410",
+      "text": "but I’m getting stronger and stronger.",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 76.57,
+      "time_str": "01:16.570",
+      "text": "Uhoo Uhooo (uhoo uhoo)",
+      "translation": "..........................."
+    },
+    {
+      "time": 79.89,
+      "time_str": "01:19.890",
+      "text": "But I'm getting stronger and stronger",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 84.22,
+      "time_str": "01:24.220",
+      "text": "Uhoo Uhooo (uhoo uhoo)",
+      "translation": "..........................."
+    },
+    {
+      "time": 87.59,
+      "time_str": "01:27.590",
+      "text": "But I'm getting stronger and stronger",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 91.9,
+      "time_str": "01:31.900",
+      "text": "Midnight turns to morning, I don't get lot sleep",
+      "translation": "从深夜到黎明，辗转反侧无法入眠"
+    },
+    {
+      "time": 98.77,
+      "time_str": "01:38.770",
+      "text": "I know that you are out there somewhere,",
+      "translation": "我知道你一定就在世界的某个地方"
+    },
+    {
+      "time": 102.6,
+      "time_str": "01:42.600",
+      "text": "being someone else's treat",
+      "translation": "扮演别人的恋人"
+    },
+    {
+      "time": 106.41,
+      "time_str": "01:46.410",
+      "text": "Have think us knows just how to please me",
+      "translation": "想想如今的我们"
+    },
+    {
+      "time": 110.75,
+      "time_str": "01:50.750",
+      "text": "Chance run down my spying",
+      "translation": "不愿再继续猜疑"
+    },
+    {
+      "time": 113.93,
+      "time_str": "01:53.930",
+      "text": "And when you wake up spill your kisses,",
+      "translation": "你慢慢醒来，当我吻住你的时候"
+    },
+    {
+      "time": 117.44,
+      "time_str": "01:57.440",
+      "text": "I am shivering inside it",
+      "translation": "整个心都在颤抖"
+    },
+    {
+      "time": 121.81,
+      "time_str": "02:01.810",
+      "text": "I get my Inside out, and my headache won't stop",
+      "translation": "爱你我失去自我，换来的却只是悲伤"
+    },
+    {
+      "time": 125.42,
+      "time_str": "02:05.420",
+      "text": "I fail to not look back,",
+      "translation": "忍不住回头去看"
+    },
+    {
+      "time": 127.74,
+      "time_str": "02:07.740",
+      "text": "as I’m bouncing down the wrong track",
+      "translation": "那些破败不堪的过往"
+    },
+    {
+      "time": 129.93,
+      "time_str": "02:09.930",
+      "text": "Half way up feels like going down,",
+      "translation": "你说没有未来的感情就应好聚好散"
+    },
+    {
+      "time": 133.09,
+      "time_str": "02:13.090",
+      "text": "but I'm getting stronger and stronger.",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 137.53,
+      "time_str": "02:17.530",
+      "text": "Uhoo Uhooo (uhoo uhoo)",
+      "translation": "......................................."
+    },
+    {
+      "time": 140.84,
+      "time_str": "02:20.840",
+      "text": "But I'm getting stronger and stronger",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 145.13,
+      "time_str": "02:25.130",
+      "text": "Uhoo Uhooo (uhoo uhoo)",
+      "translation": "..........................................."
+    },
+    {
+      "time": 148.46,
+      "time_str": "02:28.460",
+      "text": "But I'm getting stronger and stronger",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 152.76,
+      "time_str": "02:32.760",
+      "text": "Uhoo Uhooo (uhoo uhoo)",
+      "translation": ".............................................."
+    },
+    {
+      "time": 156.84,
+      "time_str": "02:36.840",
+      "text": "But I'm getting stronger and stronger",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 160.41,
+      "time_str": "02:40.410",
+      "text": "Uhoo Uhooo (uhoo uhoo)",
+      "translation": "..............................................."
+    },
+    {
+      "time": 164.2,
+      "time_str": "02:44.200",
+      "text": "But I'm getting stronger and stronger",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 167.59,
+      "time_str": "02:47.590",
+      "text": "I get my Inside out my head it won't stop",
+      "translation": "爱你我失去自我，换来的却只是悲伤"
+    },
+    {
+      "time": 171.14,
+      "time_str": "02:51.140",
+      "text": "I fail to not look back,",
+      "translation": "忍不住回头去看"
+    },
+    {
+      "time": 173.3,
+      "time_str": "02:53.300",
+      "text": "as I'm bouncing down the wrong track",
+      "translation": "那些破败不堪的过往"
+    },
+    {
+      "time": 175.67,
+      "time_str": "02:55.670",
+      "text": "Half way up feels like going down,",
+      "translation": "你说没有未来的感情就应好聚好散"
+    },
+    {
+      "time": 178.74,
+      "time_str": "02:58.740",
+      "text": "but I'm getting stronger and stronger.",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 182.77,
+      "time_str": "03:02.770",
+      "text": "I get my Inside out my head it won't stop",
+      "translation": "爱你我失去自我，换来的却只是悲伤"
+    },
+    {
+      "time": 186.39,
+      "time_str": "03:06.390",
+      "text": "I fail to not look back,",
+      "translation": "忍不住回头去看"
+    },
+    {
+      "time": 188.53,
+      "time_str": "03:08.530",
+      "text": "as I'm bouncing down the wrong track",
+      "translation": "那些破败不堪的过往"
+    },
+    {
+      "time": 190.92,
+      "time_str": "03:10.920",
+      "text": "Half way up feels like going down,",
+      "translation": "你说没有未来的感情就应好聚好散"
+    },
+    {
+      "time": 194.02,
+      "time_str": "03:14.020",
+      "text": "but I'm getting stronger and stronger.",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 198.5,
+      "time_str": "03:18.500",
+      "text": "Uhoo Uhooo (uhoo uhoo)",
+      "translation": ".............................................."
+    },
+    {
+      "time": 201.89,
+      "time_str": "03:21.890",
+      "text": "But I'm getting stronger and stronger",
+      "translation": "我却爱你愈深，不愿放手"
+    },
+    {
+      "time": 206.17,
+      "time_str": "03:26.170",
+      "text": "Uhoo Uhooo (uhoo uhoo)",
+      "translation": "..............................................."
+    },
+    {
+      "time": 209.57,
+      "time_str": "03:29.570",
+      "text": "But I'm getting stronger and stronger",
+      "translation": "我却爱你愈深，不愿放手"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Stronger - Inez.lrc"
+}

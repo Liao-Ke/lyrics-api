@@ -1,0 +1,340 @@
+{
+  "title": "独立",
+  "title_raw": "独立",
+  "version": null,
+  "artist": "蜜雪薇琪",
+  "group_key": "独立|蜜雪薇琪",
+  "writers": {
+    "lyricist": "廖莹如",
+    "composer": "黄淑惠",
+    "arranger": "黄雨勋"
+  },
+  "lyrics": [
+    {
+      "time": 12.28,
+      "time_str": "00:12.280",
+      "text": "谁会先知道 可能会有多少",
+      "translation": null
+    },
+    {
+      "time": 17.97,
+      "time_str": "00:17.970",
+      "text": "去掉一半的自己",
+      "translation": null
+    },
+    {
+      "time": 20.6,
+      "time_str": "00:20.600",
+      "text": "然后互相撞击",
+      "translation": null
+    },
+    {
+      "time": 23.64,
+      "time_str": "00:23.640",
+      "text": "没想到更好 我有双份的我",
+      "translation": null
+    },
+    {
+      "time": 28.34,
+      "time_str": "00:28.340",
+      "text": "欣赏你赞美我 挑战你解决我",
+      "translation": null
+    },
+    {
+      "time": 31.22,
+      "time_str": "00:31.220",
+      "text": "交手中 看到真正的我",
+      "translation": null
+    },
+    {
+      "time": 34.49,
+      "time_str": "00:34.490",
+      "text": "爱 让我聪明的独立",
+      "translation": null
+    },
+    {
+      "time": 37.87,
+      "time_str": "00:37.870",
+      "text": "用自己 去爱人",
+      "translation": null
+    },
+    {
+      "time": 40.65,
+      "time_str": "00:40.650",
+      "text": "搞定想要的东西",
+      "translation": null
+    },
+    {
+      "time": 43.63,
+      "time_str": "00:43.630",
+      "text": "有一半已经成立",
+      "translation": null
+    },
+    {
+      "time": 46.54,
+      "time_str": "00:46.540",
+      "text": "准备随时能独立",
+      "translation": null
+    },
+    {
+      "time": 49.25,
+      "time_str": "00:49.250",
+      "text": "不贪心 不委屈",
+      "translation": null
+    },
+    {
+      "time": 52.2,
+      "time_str": "00:52.200",
+      "text": "勇闯每一个遭遇",
+      "translation": null
+    },
+    {
+      "time": 54.99,
+      "time_str": "00:54.990",
+      "text": "都跟自己有关系",
+      "translation": null
+    },
+    {
+      "time": 69.48,
+      "time_str": "01:09.480",
+      "text": "道理这么说 人要学着独立",
+      "translation": null
+    },
+    {
+      "time": 75.09,
+      "time_str": "01:15.090",
+      "text": "没那么故意 但是我要亲身经历",
+      "translation": null
+    },
+    {
+      "time": 80.78,
+      "time_str": "01:20.780",
+      "text": "越刺激越好 当我和你一起",
+      "translation": null
+    },
+    {
+      "time": 85.54,
+      "time_str": "01:25.540",
+      "text": "欣赏你 赞美我",
+      "translation": null
+    },
+    {
+      "time": 87.0,
+      "time_str": "01:27.000",
+      "text": "挑战你 解决我",
+      "translation": null
+    },
+    {
+      "time": 88.38,
+      "time_str": "01:28.380",
+      "text": "一换手 什么都又不同",
+      "translation": null
+    },
+    {
+      "time": 91.59,
+      "time_str": "01:31.590",
+      "text": "爱 让我聪明的独立",
+      "translation": null
+    },
+    {
+      "time": 95.06,
+      "time_str": "01:35.060",
+      "text": "用自己 去爱人",
+      "translation": null
+    },
+    {
+      "time": 97.89,
+      "time_str": "01:37.890",
+      "text": "搞定想要的东西",
+      "translation": null
+    },
+    {
+      "time": 100.75,
+      "time_str": "01:40.750",
+      "text": "有一半已经成立",
+      "translation": null
+    },
+    {
+      "time": 103.64,
+      "time_str": "01:43.640",
+      "text": "准备随时能独立",
+      "translation": null
+    },
+    {
+      "time": 106.45,
+      "time_str": "01:46.450",
+      "text": "不贪心 不委屈",
+      "translation": null
+    },
+    {
+      "time": 109.29,
+      "time_str": "01:49.290",
+      "text": "勇闯每一个遭遇",
+      "translation": null
+    },
+    {
+      "time": 112.23,
+      "time_str": "01:52.230",
+      "text": "都跟自己有关系",
+      "translation": null
+    },
+    {
+      "time": 116.14,
+      "time_str": "01:56.140",
+      "text": "可能 没有最好",
+      "translation": null
+    },
+    {
+      "time": 117.12,
+      "time_str": "01:57.120",
+      "text": "至少强烈要求自己去要",
+      "translation": null
+    },
+    {
+      "time": 120.23,
+      "time_str": "02:00.230",
+      "text": "可能 就快做到",
+      "translation": null
+    },
+    {
+      "time": 122.54,
+      "time_str": "02:02.540",
+      "text": "而下一步是跟自己比较",
+      "translation": null
+    },
+    {
+      "time": 125.9,
+      "time_str": "02:05.900",
+      "text": "爱 让我聪明的独立",
+      "translation": null
+    },
+    {
+      "time": 129.29,
+      "time_str": "02:09.290",
+      "text": "用自己 去爱人",
+      "translation": null
+    },
+    {
+      "time": 132.12,
+      "time_str": "02:12.120",
+      "text": "搞定想要的东西",
+      "translation": null
+    },
+    {
+      "time": 135.04,
+      "time_str": "02:15.040",
+      "text": "有一半已经成立",
+      "translation": null
+    },
+    {
+      "time": 137.83,
+      "time_str": "02:17.830",
+      "text": "准备随时能独立",
+      "translation": null
+    },
+    {
+      "time": 140.73,
+      "time_str": "02:20.730",
+      "text": "不贪心 不委屈",
+      "translation": null
+    },
+    {
+      "time": 143.58,
+      "time_str": "02:23.580",
+      "text": "勇闯每一个遭遇",
+      "translation": null
+    },
+    {
+      "time": 146.49,
+      "time_str": "02:26.490",
+      "text": "都跟自己有关系",
+      "translation": null
+    },
+    {
+      "time": 148.92,
+      "time_str": "02:28.920",
+      "text": "爱 让我聪明的独立",
+      "translation": null
+    },
+    {
+      "time": 152.16,
+      "time_str": "02:32.160",
+      "text": "用自己 去爱人",
+      "translation": null
+    },
+    {
+      "time": 155.02,
+      "time_str": "02:35.020",
+      "text": "搞定想要的东西",
+      "translation": null
+    },
+    {
+      "time": 157.85,
+      "time_str": "02:37.850",
+      "text": "有一半已经成立",
+      "translation": null
+    },
+    {
+      "time": 160.74,
+      "time_str": "02:40.740",
+      "text": "准备随时能独立",
+      "translation": null
+    },
+    {
+      "time": 163.54,
+      "time_str": "02:43.540",
+      "text": "不贪心 不委屈",
+      "translation": null
+    },
+    {
+      "time": 166.47,
+      "time_str": "02:46.470",
+      "text": "勇闯每一个遭遇",
+      "translation": null
+    },
+    {
+      "time": 169.31,
+      "time_str": "02:49.310",
+      "text": "都跟自己有关系",
+      "translation": null
+    },
+    {
+      "time": 172.45,
+      "time_str": "02:52.450",
+      "text": "可能 就快做到",
+      "translation": null
+    },
+    {
+      "time": 173.98,
+      "time_str": "02:53.980",
+      "text": "而下一步是跟自己比较",
+      "translation": null
+    },
+    {
+      "time": 177.24,
+      "time_str": "02:57.240",
+      "text": "可能 没有最好",
+      "translation": null
+    },
+    {
+      "time": 179.69,
+      "time_str": "02:59.690",
+      "text": "至少强烈要求自己去要",
+      "translation": null
+    },
+    {
+      "time": 182.97,
+      "time_str": "03:02.970",
+      "text": "可能 就快做到",
+      "translation": null
+    },
+    {
+      "time": 185.42,
+      "time_str": "03:05.420",
+      "text": "而下一步是跟自己比较",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "独立 - 蜜雪薇琪.lrc"
+}

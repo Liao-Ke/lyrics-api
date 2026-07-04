@@ -1,0 +1,352 @@
+{
+  "title": "向云端",
+  "title_raw": "向云端",
+  "version": null,
+  "artist": "小霞,海洋Bo",
+  "group_key": "向云端|小霞,海洋bo",
+  "writers": {
+    "lyricist": "海洋Bo",
+    "composer": "海洋Bo",
+    "arranger": "王大夫"
+  },
+  "lyrics": [
+    {
+      "time": 28.68,
+      "time_str": "00:28.680",
+      "text": "向云端",
+      "translation": null
+    },
+    {
+      "time": 35.34,
+      "time_str": "00:35.340",
+      "text": "山那边",
+      "translation": null
+    },
+    {
+      "time": 42.24,
+      "time_str": "00:42.240",
+      "text": "海里面",
+      "translation": null
+    },
+    {
+      "time": 49.14,
+      "time_str": "00:49.140",
+      "text": "真实的我应该走向哪边",
+      "translation": null
+    },
+    {
+      "time": 56.04,
+      "time_str": "00:56.040",
+      "text": "日落前",
+      "translation": null
+    },
+    {
+      "time": 62.79,
+      "time_str": "01:02.790",
+      "text": "风来临",
+      "translation": null
+    },
+    {
+      "time": 69.57,
+      "time_str": "01:09.570",
+      "text": "石墩下我在盘腿坐着",
+      "translation": null
+    },
+    {
+      "time": 75.33,
+      "time_str": "01:15.330",
+      "text": "人到底靠什么来定义丑恶",
+      "translation": null
+    },
+    {
+      "time": 83.76,
+      "time_str": "01:23.760",
+      "text": "神啊你在哪",
+      "translation": null
+    },
+    {
+      "time": 90.6,
+      "time_str": "01:30.600",
+      "text": "山啊我害怕",
+      "translation": null
+    },
+    {
+      "time": 97.56,
+      "time_str": "01:37.560",
+      "text": "海啊也带不走",
+      "translation": null
+    },
+    {
+      "time": 104.4,
+      "time_str": "01:44.400",
+      "text": "尽头到底有没有",
+      "translation": null
+    },
+    {
+      "time": 114.81,
+      "time_str": "01:54.810",
+      "text": "如果你很难过",
+      "translation": null
+    },
+    {
+      "time": 116.13,
+      "time_str": "01:56.130",
+      "text": "不如先收拾你的房间",
+      "translation": null
+    },
+    {
+      "time": 118.17,
+      "time_str": "01:58.170",
+      "text": "别再辗转反侧",
+      "translation": null
+    },
+    {
+      "time": 119.55,
+      "time_str": "01:59.550",
+      "text": "等会儿阳光会照在你的旁边",
+      "translation": null
+    },
+    {
+      "time": 121.44,
+      "time_str": "02:01.440",
+      "text": "没洗的别再攒着",
+      "translation": null
+    },
+    {
+      "time": 123.06,
+      "time_str": "02:03.060",
+      "text": "换个新的发型买个好看的包",
+      "translation": null
+    },
+    {
+      "time": 125.31,
+      "time_str": "02:05.310",
+      "text": "压抑焦虑心情忐忑",
+      "translation": null
+    },
+    {
+      "time": 126.72,
+      "time_str": "02:06.720",
+      "text": "就去养只爱你的猫",
+      "translation": null
+    },
+    {
+      "time": 131.88,
+      "time_str": "02:11.880",
+      "text": "不是不如意",
+      "translation": null
+    },
+    {
+      "time": 133.08,
+      "time_str": "02:13.080",
+      "text": "也许你并没围着自己的赛道走",
+      "translation": null
+    },
+    {
+      "time": 135.21,
+      "time_str": "02:15.210",
+      "text": "你真的很美丽",
+      "translation": null
+    },
+    {
+      "time": 136.38,
+      "time_str": "02:16.380",
+      "text": "为什么常说自己的外貌丑",
+      "translation": null
+    },
+    {
+      "time": 138.72,
+      "time_str": "02:18.720",
+      "text": "或许你像我一样很胖",
+      "translation": null
+    },
+    {
+      "time": 140.4,
+      "time_str": "02:20.400",
+      "text": "生活让你感到卑贱",
+      "translation": null
+    },
+    {
+      "time": 142.14,
+      "time_str": "02:22.140",
+      "text": "那么当你听到这首歌的时候",
+      "translation": null
+    },
+    {
+      "time": 144.36,
+      "time_str": "02:24.360",
+      "text": "选择与我共同蜕变",
+      "translation": null
+    },
+    {
+      "time": 145.74,
+      "time_str": "02:25.740",
+      "text": "也许你现在很难过",
+      "translation": null
+    },
+    {
+      "time": 147.27,
+      "time_str": "02:27.270",
+      "text": "也许正躺在被窝",
+      "translation": null
+    },
+    {
+      "time": 148.92,
+      "time_str": "02:28.920",
+      "text": "也许你现在很迷茫",
+      "translation": null
+    },
+    {
+      "time": 150.72,
+      "time_str": "02:30.720",
+      "text": "正在酒吧里坐着",
+      "translation": null
+    },
+    {
+      "time": 152.34,
+      "time_str": "02:32.340",
+      "text": "也许你在工作",
+      "translation": null
+    },
+    {
+      "time": 153.96,
+      "time_str": "02:33.960",
+      "text": "或者刚刚分手了",
+      "translation": null
+    },
+    {
+      "time": 155.64,
+      "time_str": "02:35.640",
+      "text": "也许你在山脚下",
+      "translation": null
+    },
+    {
+      "time": 157.02,
+      "time_str": "02:37.020",
+      "text": "会情不自禁的哼出这首歌",
+      "translation": null
+    },
+    {
+      "time": 158.97,
+      "time_str": "02:38.970",
+      "text": "向云端",
+      "translation": null
+    },
+    {
+      "time": 165.6,
+      "time_str": "02:45.600",
+      "text": "山那边",
+      "translation": null
+    },
+    {
+      "time": 172.53,
+      "time_str": "02:52.530",
+      "text": "海里面",
+      "translation": null
+    },
+    {
+      "time": 179.4,
+      "time_str": "02:59.400",
+      "text": "真实的你在于怎么选择",
+      "translation": null
+    },
+    {
+      "time": 186.6,
+      "time_str": "03:06.600",
+      "text": "神啊你在哪",
+      "translation": null
+    },
+    {
+      "time": 192.03,
+      "time_str": "03:12.030",
+      "text": "山啊我害怕",
+      "translation": null
+    },
+    {
+      "time": 200.4,
+      "time_str": "03:20.400",
+      "text": "海啊带走哀愁",
+      "translation": null
+    },
+    {
+      "time": 207.24,
+      "time_str": "03:27.240",
+      "text": "就像带走每条河流",
+      "translation": null
+    },
+    {
+      "time": 213.27,
+      "time_str": "03:33.270",
+      "text": "混音工程师：何世渝",
+      "translation": null
+    },
+    {
+      "time": 213.87,
+      "time_str": "03:33.870",
+      "text": "母带工程师：何世渝",
+      "translation": null
+    },
+    {
+      "time": 219.45,
+      "time_str": "03:39.450",
+      "text": "口琴：张德斌",
+      "translation": null
+    },
+    {
+      "time": 219.78,
+      "time_str": "03:39.780",
+      "text": "人声录音：吴身宝@Soundhub Studios",
+      "translation": null
+    },
+    {
+      "time": 219.78,
+      "time_str": "03:39.780",
+      "text": "人声录音：沈锦天@ROOM 4A",
+      "translation": null
+    },
+    {
+      "time": 223.95,
+      "time_str": "03:43.950",
+      "text": "营销：网易飓风",
+      "translation": null
+    },
+    {
+      "time": 224.34,
+      "time_str": "03:44.340",
+      "text": "企划：徐思灵",
+      "translation": null
+    },
+    {
+      "time": 224.67,
+      "time_str": "03:44.670",
+      "text": "项目统筹：宋旭辉 Shawn Song/李若嫣 Ruoyan Li",
+      "translation": null
+    },
+    {
+      "time": 232.38,
+      "time_str": "03:52.380",
+      "text": "制作统筹：赵楚峰 Chufeng Zhao",
+      "translation": null
+    },
+    {
+      "time": 242.28,
+      "time_str": "04:02.280",
+      "text": "总监制：陈国威 Andrew Chan/谢奇笛",
+      "translation": null
+    },
+    {
+      "time": 246.57,
+      "time_str": "04:06.570",
+      "text": "出品人：陈国威 Andrew Chan/谢奇笛",
+      "translation": null
+    },
+    {
+      "time": 247.57,
+      "time_str": "04:07.570",
+      "text": "制作协力 : 李彦泽",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "向云端 - 小霞,海洋Bo.lrc"
+}

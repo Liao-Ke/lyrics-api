@@ -1,0 +1,580 @@
+{
+  "title": "All About That Bass",
+  "title_raw": "All About That Bass",
+  "version": null,
+  "artist": "Meghan Trainor",
+  "group_key": "all about that bass|meghan trainor",
+  "writers": {
+    "lyricist": "Meghan Trainor/Kevin Kadish",
+    "composer": "Meghan Trainor/Kevin Kadish",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.13,
+      "time_str": "00:00.130",
+      "text": "Because you know",
+      "translation": "因为你知道"
+    },
+    {
+      "time": 0.83,
+      "time_str": "00:00.830",
+      "text": "I'm all about that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 2.27,
+      "time_str": "00:02.270",
+      "text": "'Bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 3.19,
+      "time_str": "00:03.190",
+      "text": "no treble",
+      "translation": "不飙高音"
+    },
+    {
+      "time": 4.46,
+      "time_str": "00:04.460",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 5.85,
+      "time_str": "00:05.850",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 8.01,
+      "time_str": "00:08.010",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 9.47,
+      "time_str": "00:09.470",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 11.56,
+      "time_str": "00:11.560",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 12.98,
+      "time_str": "00:12.980",
+      "text": "'bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 15.7,
+      "time_str": "00:15.700",
+      "text": "Yeah it's pretty clear,",
+      "translation": "是的 这显而易见"
+    },
+    {
+      "time": 17.34,
+      "time_str": "00:17.340",
+      "text": "I ain't no size two",
+      "translation": "我并非苗条身材"
+    },
+    {
+      "time": 19.21,
+      "time_str": "00:19.210",
+      "text": "But I can shake it,",
+      "translation": "但我依然能够摇摆"
+    },
+    {
+      "time": 20.14,
+      "time_str": "00:20.140",
+      "text": "shake it like I'm supposed to do",
+      "translation": "跟随节奏尽情摇摆 自由自在"
+    },
+    {
+      "time": 22.77,
+      "time_str": "00:22.770",
+      "text": "'Cause I got that boom boom",
+      "translation": "因为我的身材丰满"
+    },
+    {
+      "time": 24.1,
+      "time_str": "00:24.100",
+      "text": "that all the boys chase",
+      "translation": "男孩们都梦寐以求"
+    },
+    {
+      "time": 25.75,
+      "time_str": "00:25.750",
+      "text": "All the right junk",
+      "translation": "肉肉完美分散"
+    },
+    {
+      "time": 27.59,
+      "time_str": "00:27.590",
+      "text": "in all the right places",
+      "translation": "一切都恰到好处"
+    },
+    {
+      "time": 29.96,
+      "time_str": "00:29.960",
+      "text": "I see the magazines working",
+      "translation": "杂志上里美女模特"
+    },
+    {
+      "time": 32.2,
+      "time_str": "00:32.200",
+      "text": "that Photoshop",
+      "translation": "都是PS过后的产物"
+    },
+    {
+      "time": 33.63,
+      "time_str": "00:33.630",
+      "text": "We know that shit ain't real",
+      "translation": "那不是真正的美丽"
+    },
+    {
+      "time": 35.41,
+      "time_str": "00:35.410",
+      "text": "Come on now, make it stop",
+      "translation": "够了 停止自欺欺人吧"
+    },
+    {
+      "time": 37.02,
+      "time_str": "00:37.020",
+      "text": "If you got beauty beauty",
+      "translation": "如果你足够美丽动人"
+    },
+    {
+      "time": 38.76,
+      "time_str": "00:38.760",
+      "text": "just raise 'em up",
+      "translation": "那就大胆秀出来吧"
+    },
+    {
+      "time": 39.96,
+      "time_str": "00:39.960",
+      "text": "'Cause every inch of you is perfect",
+      "translation": "因为你是独一无二的"
+    },
+    {
+      "time": 41.89,
+      "time_str": "00:41.890",
+      "text": "From the bottom to the top",
+      "translation": "全身上下都真实完美"
+    },
+    {
+      "time": 43.51,
+      "time_str": "00:43.510",
+      "text": "Yeah, my momma she told me",
+      "translation": "是的 我的妈妈告诉我"
+    },
+    {
+      "time": 45.57,
+      "time_str": "00:45.570",
+      "text": "don't worry about your size",
+      "translation": "不要为身材徒增烦恼"
+    },
+    {
+      "time": 50.72,
+      "time_str": "00:50.720",
+      "text": "She says,",
+      "translation": "她说"
+    },
+    {
+      "time": 51.24,
+      "time_str": "00:51.240",
+      "text": "boys like a little more",
+      "translation": "男孩们喜欢丰满身材"
+    },
+    {
+      "time": 52.96,
+      "time_str": "00:52.960",
+      "text": "booty to hold at night",
+      "translation": "在晚上抱起来才舒服"
+    },
+    {
+      "time": 57.87,
+      "time_str": "00:57.870",
+      "text": "You know I won't be no stick figure,",
+      "translation": "你知道我不想做一个"
+    },
+    {
+      "time": 60.13,
+      "time_str": "01:00.130",
+      "text": "silicone Barbie doll,",
+      "translation": "全身塑胶的芭比娃娃"
+    },
+    {
+      "time": 65.06,
+      "time_str": "01:05.060",
+      "text": "So, if that's what's you're into",
+      "translation": "如果你喜欢那样的身材"
+    },
+    {
+      "time": 66.92,
+      "time_str": "01:06.920",
+      "text": "Then go ahead and move along",
+      "translation": "那就请你走好不送咯"
+    },
+    {
+      "time": 71.719,
+      "time_str": "01:11.719",
+      "text": "Because you know",
+      "translation": "因为你知道"
+    },
+    {
+      "time": 72.489,
+      "time_str": "01:12.489",
+      "text": "I'm all about that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 73.92,
+      "time_str": "01:13.920",
+      "text": "'Bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 74.959,
+      "time_str": "01:14.959",
+      "text": "no treble",
+      "translation": "不飙高音"
+    },
+    {
+      "time": 76.069,
+      "time_str": "01:16.069",
+      "text": "I'm all about that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 77.56,
+      "time_str": "01:17.560",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 79.58,
+      "time_str": "01:19.580",
+      "text": "I'm all about that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 81.129,
+      "time_str": "01:21.129",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 83.22,
+      "time_str": "01:23.220",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 84.7,
+      "time_str": "01:24.700",
+      "text": "'bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 86.22,
+      "time_str": "01:26.220",
+      "text": "I'm bringing booty back",
+      "translation": "我要让丰满身材重新流行"
+    },
+    {
+      "time": 89.04,
+      "time_str": "01:29.040",
+      "text": "Go ahead and tell them",
+      "translation": "快去告诉他们吧"
+    },
+    {
+      "time": 90.23,
+      "time_str": "01:30.230",
+      "text": "skinny bitches Hey",
+      "translation": "告诉那些苗条的姑娘们"
+    },
+    {
+      "time": 92.72,
+      "time_str": "01:32.720",
+      "text": "No, I'm just playing",
+      "translation": "哎呀 我只是开个玩笑"
+    },
+    {
+      "time": 93.76,
+      "time_str": "01:33.760",
+      "text": "I know you think you're fat,",
+      "translation": "我知道你觉得自己很胖"
+    },
+    {
+      "time": 96.04,
+      "time_str": "01:36.040",
+      "text": "But I'm here to tell you",
+      "translation": "但我要告诉你"
+    },
+    {
+      "time": 97.379,
+      "time_str": "01:37.379",
+      "text": "Every inch of you is perfect",
+      "translation": "因为你是独一无二的"
+    },
+    {
+      "time": 99.12,
+      "time_str": "01:39.120",
+      "text": "from the bottom to the top",
+      "translation": "全身上下都真实完美"
+    },
+    {
+      "time": 100.9,
+      "time_str": "01:40.900",
+      "text": "Yeah, my momma she told me",
+      "translation": "是的 我的妈妈告诉我"
+    },
+    {
+      "time": 102.819,
+      "time_str": "01:42.819",
+      "text": "don't worry about your size",
+      "translation": "不要为身材徒增烦恼"
+    },
+    {
+      "time": 108.069,
+      "time_str": "01:48.069",
+      "text": "She says, boys like a little more",
+      "translation": "她说 男孩们喜欢丰满身材"
+    },
+    {
+      "time": 110.33,
+      "time_str": "01:50.330",
+      "text": "booty to hold at night",
+      "translation": "在晚上抱起来才舒服"
+    },
+    {
+      "time": 115.209,
+      "time_str": "01:55.209",
+      "text": "You know I won't be no stick figure,",
+      "translation": "你知道我不想做一个"
+    },
+    {
+      "time": 117.5,
+      "time_str": "01:57.500",
+      "text": "silicone Barbie doll,",
+      "translation": "全身塑胶的芭比娃娃"
+    },
+    {
+      "time": 122.23,
+      "time_str": "02:02.230",
+      "text": "So, if that's what's you're into",
+      "translation": "如果你喜欢那样的女孩"
+    },
+    {
+      "time": 124.15,
+      "time_str": "02:04.150",
+      "text": "Then go ahead and move along",
+      "translation": "那就请你走好不送咯"
+    },
+    {
+      "time": 128.909,
+      "time_str": "02:08.909",
+      "text": "Because you know",
+      "translation": "因为你知道"
+    },
+    {
+      "time": 129.77,
+      "time_str": "02:09.770",
+      "text": "I'm all about that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 131.27,
+      "time_str": "02:11.270",
+      "text": "'Bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 132.18,
+      "time_str": "02:12.180",
+      "text": "no treble",
+      "translation": "不飙高音"
+    },
+    {
+      "time": 133.37,
+      "time_str": "02:13.370",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 134.759,
+      "time_str": "02:14.759",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 136.87,
+      "time_str": "02:16.870",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 138.389,
+      "time_str": "02:18.389",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 140.36,
+      "time_str": "02:20.360",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 141.93,
+      "time_str": "02:21.930",
+      "text": "'bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 143.349,
+      "time_str": "02:23.349",
+      "text": "Because you know",
+      "translation": "因为你知道"
+    },
+    {
+      "time": 144.129,
+      "time_str": "02:24.129",
+      "text": "I'm all about that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 145.58,
+      "time_str": "02:25.580",
+      "text": "'Bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 146.49,
+      "time_str": "02:26.490",
+      "text": "no treble",
+      "translation": "不飙高音"
+    },
+    {
+      "time": 147.8,
+      "time_str": "02:27.800",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 149.319,
+      "time_str": "02:29.319",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 151.31,
+      "time_str": "02:31.310",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 152.789,
+      "time_str": "02:32.789",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 154.919,
+      "time_str": "02:34.919",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 156.3,
+      "time_str": "02:36.300",
+      "text": "'bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 157.72,
+      "time_str": "02:37.720",
+      "text": "Because you know",
+      "translation": "因为你知道"
+    },
+    {
+      "time": 158.449,
+      "time_str": "02:38.449",
+      "text": "I'm all about that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 159.879,
+      "time_str": "02:39.879",
+      "text": "'Bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 160.8,
+      "time_str": "02:40.800",
+      "text": "no treble",
+      "translation": "不飙高音"
+    },
+    {
+      "time": 162.05,
+      "time_str": "02:42.050",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 163.47,
+      "time_str": "02:43.470",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 165.569,
+      "time_str": "02:45.569",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 167.0,
+      "time_str": "02:47.000",
+      "text": "'bout that bass, no treble",
+      "translation": "只有超重低音 不飙高音"
+    },
+    {
+      "time": 169.139,
+      "time_str": "02:49.139",
+      "text": "I'm all 'bout that bass,",
+      "translation": "我就像重低音贝斯"
+    },
+    {
+      "time": 170.629,
+      "time_str": "02:50.629",
+      "text": "'bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 171.68,
+      "time_str": "02:51.680",
+      "text": "'bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 172.49,
+      "time_str": "02:52.490",
+      "text": "'bout that bass",
+      "translation": "只有超重低音"
+    },
+    {
+      "time": 179.229,
+      "time_str": "02:59.229",
+      "text": "you know you're not that bass",
+      "translation": "你知道你不是重低音贝斯"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "All About That Bass - Meghan Trainor.lrc"
+}

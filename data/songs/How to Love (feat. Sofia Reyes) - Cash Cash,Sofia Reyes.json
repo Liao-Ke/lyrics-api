@@ -1,0 +1,304 @@
+{
+  "title": "How to Love",
+  "title_raw": "How to Love (feat. Sofia Reyes)",
+  "version": "feat. Sofia Reyes",
+  "artist": "Cash Cash,Sofia Reyes",
+  "group_key": "how to love|cash cash,sofia reyes",
+  "writers": {
+    "lyricist": "Ilsey Juber/Jenn Decilveo/Alexander Makhlouf/Jean Paul Makhlouf/Samuel Warren Frisch",
+    "composer": "Ilsey Juber/Jenn Decilveo/Alexander Makhlouf/Jean Paul Makhlouf/Samuel Warren Frisch",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.31,
+      "time_str": "00:00.310",
+      "text": "One two three",
+      "translation": "一二三"
+    },
+    {
+      "time": 1.79,
+      "time_str": "00:01.790",
+      "text": "I been running from the pain",
+      "translation": "我已脱离痛境"
+    },
+    {
+      "time": 2.98,
+      "time_str": "00:02.980",
+      "text": "Trying not to feel the same",
+      "translation": "试着不再重蹈覆辙"
+    },
+    {
+      "time": 5.4,
+      "time_str": "00:05.400",
+      "text": "But it's a shame that we sinking",
+      "translation": "但遗憾的是我们都在沉沦"
+    },
+    {
+      "time": 9.56,
+      "time_str": "00:09.560",
+      "text": "See my confidence is shaking",
+      "translation": "看见我的信心在动摇了"
+    },
+    {
+      "time": 11.5,
+      "time_str": "00:11.500",
+      "text": "And my heart is feeling vacant",
+      "translation": "而我的内心也倍感空虚"
+    },
+    {
+      "time": 13.68,
+      "time_str": "00:13.680",
+      "text": "So you try to fill it in",
+      "translation": "所以你尽力去填补空白"
+    },
+    {
+      "time": 18.0,
+      "time_str": "00:18.000",
+      "text": "You say \"I can fix the broken in your heart",
+      "translation": "你说“我可以修复你支离破碎的心"
+    },
+    {
+      "time": 21.25,
+      "time_str": "00:21.250",
+      "text": "You're worth saving darling\"",
+      "translation": "亲爱的你值得我拯救”"
+    },
+    {
+      "time": 25.74,
+      "time_str": "00:25.740",
+      "text": "But I don't know why you're shooting in the dark",
+      "translation": "但我不明白你为什么要在深夜落荒逃离"
+    },
+    {
+      "time": 29.14,
+      "time_str": "00:29.140",
+      "text": "I got faith in nothing",
+      "translation": "我对万事无自信"
+    },
+    {
+      "time": 34.0,
+      "time_str": "00:34.000",
+      "text": "But love, pray for me",
+      "translation": "但是爱，它为我祈祷"
+    },
+    {
+      "time": 38.43,
+      "time_str": "00:38.430",
+      "text": "I never had somebody",
+      "translation": "我从未幸得某人呵护"
+    },
+    {
+      "time": 40.36,
+      "time_str": "00:40.360",
+      "text": "So I don't know how to love",
+      "translation": "所以我不懂怎么去爱"
+    },
+    {
+      "time": 44.31,
+      "time_str": "00:44.310",
+      "text": "Pray for me",
+      "translation": "请为我祈祷"
+    },
+    {
+      "time": 46.27,
+      "time_str": "00:46.270",
+      "text": "I know I need somebody",
+      "translation": "我知道我需要某个人陪伴"
+    },
+    {
+      "time": 48.53,
+      "time_str": "00:48.530",
+      "text": "So I can learn how to love",
+      "translation": "所以我可以学会去热爱"
+    },
+    {
+      "time": 66.46,
+      "time_str": "01:06.460",
+      "text": "I know it's been a while",
+      "translation": "我知道我已经恍惚很久"
+    },
+    {
+      "time": 68.05,
+      "time_str": "01:08.050",
+      "text": "Cause my memory's on trial",
+      "translation": "因为我在审判我的回忆"
+    },
+    {
+      "time": 70.38,
+      "time_str": "01:10.380",
+      "text": "For the way I used to be",
+      "translation": "我曾经亦是如此"
+    },
+    {
+      "time": 74.24,
+      "time_str": "01:14.240",
+      "text": "My head is running miles",
+      "translation": "我的思绪飞跃几英里"
+    },
+    {
+      "time": 75.98,
+      "time_str": "01:15.980",
+      "text": "Round in circles and I try",
+      "translation": "循环往复而我在努力"
+    },
+    {
+      "time": 78.03,
+      "time_str": "01:18.030",
+      "text": "To find the little light in me",
+      "translation": "去探寻心中的那盏小明灯"
+    },
+    {
+      "time": 82.29,
+      "time_str": "01:22.290",
+      "text": "You say \"I can fix the broken in your heart",
+      "translation": "你说“我可以修复你的玻璃心"
+    },
+    {
+      "time": 85.52,
+      "time_str": "01:25.520",
+      "text": "You're worth saving darling\"",
+      "translation": "亲爱的你值得我拯救”"
+    },
+    {
+      "time": 89.95,
+      "time_str": "01:29.950",
+      "text": "But I don't know why you're shooting in the dark",
+      "translation": "但我不明白你为什么要在深夜落荒逃离"
+    },
+    {
+      "time": 93.53,
+      "time_str": "01:33.530",
+      "text": "I got faith in nothing",
+      "translation": "我对万事无自信"
+    },
+    {
+      "time": 98.33,
+      "time_str": "01:38.330",
+      "text": "But love, pray for me",
+      "translation": "但是爱，它为我祈祷"
+    },
+    {
+      "time": 102.3,
+      "time_str": "01:42.300",
+      "text": "I never had somebody",
+      "translation": "我从未幸得某人呵护"
+    },
+    {
+      "time": 104.82,
+      "time_str": "01:44.820",
+      "text": "So I don't know how to love",
+      "translation": "所以我不懂怎么去爱"
+    },
+    {
+      "time": 108.51,
+      "time_str": "01:48.510",
+      "text": "Pray for me",
+      "translation": "请为我祈祷"
+    },
+    {
+      "time": 110.67,
+      "time_str": "01:50.670",
+      "text": "I know I need somebody",
+      "translation": "我知道我需要某个人陪伴"
+    },
+    {
+      "time": 112.93,
+      "time_str": "01:52.930",
+      "text": "So I can learn how to love",
+      "translation": "所以我可以学会去热爱"
+    },
+    {
+      "time": 133.3,
+      "time_str": "02:13.300",
+      "text": "I know I need somebody",
+      "translation": "我知道我需要某个人陪伴"
+    },
+    {
+      "time": 137.41,
+      "time_str": "02:17.410",
+      "text": "I know I need somebody",
+      "translation": "我知道我需要某个人陪伴"
+    },
+    {
+      "time": 141.26,
+      "time_str": "02:21.260",
+      "text": "I know I need somebody",
+      "translation": "我很清楚我急需某人的陪伴"
+    },
+    {
+      "time": 145.24,
+      "time_str": "02:25.240",
+      "text": "So I can learn how to love",
+      "translation": "所以我可以学会去热爱"
+    },
+    {
+      "time": 150.43,
+      "time_str": "02:30.430",
+      "text": "How to love",
+      "translation": "怎么去爱"
+    },
+    {
+      "time": 152.44,
+      "time_str": "02:32.440",
+      "text": "How to love",
+      "translation": "如何去爱你"
+    },
+    {
+      "time": 153.81,
+      "time_str": "02:33.810",
+      "text": "So I can learn how to love",
+      "translation": "所以我可以学会去热爱"
+    },
+    {
+      "time": 155.08,
+      "time_str": "02:35.080",
+      "text": "How to love",
+      "translation": "怎么去爱"
+    },
+    {
+      "time": 156.73,
+      "time_str": "02:36.730",
+      "text": "How to love",
+      "translation": "如何去爱你"
+    },
+    {
+      "time": 158.72,
+      "time_str": "02:38.720",
+      "text": "How to love",
+      "translation": "怎样才算热爱"
+    },
+    {
+      "time": 159.74,
+      "time_str": "02:39.740",
+      "text": "Love, love, love, love, love, love, oh",
+      "translation": "爱，爱，爱，爱，爱，爱，唉"
+    },
+    {
+      "time": 175.25,
+      "time_str": "02:55.250",
+      "text": "I know I need somebody",
+      "translation": "我知道我需要某个人陪伴"
+    },
+    {
+      "time": 177.82,
+      "time_str": "02:57.820",
+      "text": "I know I need somebody",
+      "translation": "我知道我需要某个人陪伴"
+    },
+    {
+      "time": 192.03,
+      "time_str": "03:12.030",
+      "text": "I know I need somebody",
+      "translation": "我很清楚我急需某人的陪伴"
+    },
+    {
+      "time": 193.8,
+      "time_str": "03:13.800",
+      "text": "So I can learn how to love",
+      "translation": "所以我完全可以学会去爱你"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "How to Love (feat. Sofia Reyes) - Cash Cash,Sofia Reyes.lrc"
+}

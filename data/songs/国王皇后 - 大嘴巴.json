@@ -1,0 +1,232 @@
+{
+  "title": "国王皇后",
+  "title_raw": "国王皇后",
+  "version": null,
+  "artist": "大嘴巴",
+  "group_key": "国王皇后|大嘴巴",
+  "writers": {
+    "lyricist": "张怀秋",
+    "composer": "阿弟仔",
+    "arranger": "梯依恩"
+  },
+  "lyrics": [
+    {
+      "time": 14.88,
+      "time_str": "00:14.880",
+      "text": "oh my pretty girl 屁股扭一扭",
+      "translation": null
+    },
+    {
+      "time": 19.2,
+      "time_str": "00:19.200",
+      "text": "要把你占有 国王就是我",
+      "translation": null
+    },
+    {
+      "time": 23.3,
+      "time_str": "00:23.300",
+      "text": "oh my party boy 屁股扭一扭",
+      "translation": null
+    },
+    {
+      "time": 27.27,
+      "time_str": "00:27.270",
+      "text": "记得要温柔 拱我当皇后",
+      "translation": null
+    },
+    {
+      "time": 32.129,
+      "time_str": "00:32.129",
+      "text": "国王皇后 各过各的生活",
+      "translation": null
+    },
+    {
+      "time": 36.54,
+      "time_str": "00:36.540",
+      "text": "国王皇后 各有各的tempo",
+      "translation": null
+    },
+    {
+      "time": 40.75,
+      "time_str": "00:40.750",
+      "text": "国王皇后 各玩各的花火",
+      "translation": null
+    },
+    {
+      "time": 44.65,
+      "time_str": "00:44.650",
+      "text": "国王皇后 今天终於碰头",
+      "translation": null
+    },
+    {
+      "time": 48.54,
+      "time_str": "00:48.540",
+      "text": "pretty girl pretty girl pretty girl",
+      "translation": null
+    },
+    {
+      "time": 53.279,
+      "time_str": "00:53.279",
+      "text": "uh oh 举起手",
+      "translation": null
+    },
+    {
+      "time": 55.83,
+      "time_str": "00:55.830",
+      "text": "party boy party boy party boy",
+      "translation": null
+    },
+    {
+      "time": 61.199,
+      "time_str": "01:01.199",
+      "text": "uh oh 跟我走",
+      "translation": null
+    },
+    {
+      "time": 66.839,
+      "time_str": "01:06.839",
+      "text": "闪过一眼 陌生的甜 瞬间 让我失眠",
+      "translation": null
+    },
+    {
+      "time": 73.83,
+      "time_str": "01:13.830",
+      "text": "身体语言 让我倾斜 但愿 停格不变",
+      "translation": null
+    },
+    {
+      "time": 81.81,
+      "time_str": "01:21.810",
+      "text": "oh my pretty girl 屁股扭一扭",
+      "translation": null
+    },
+    {
+      "time": 83.39,
+      "time_str": "01:23.390",
+      "text": "要把你占有 国王就是我",
+      "translation": null
+    },
+    {
+      "time": 89.0,
+      "time_str": "01:29.000",
+      "text": "oh my party boy 屁股扭一扭",
+      "translation": null
+    },
+    {
+      "time": 92.6,
+      "time_str": "01:32.600",
+      "text": "记得要温柔 拱我当皇后",
+      "translation": null
+    },
+    {
+      "time": 114.839,
+      "time_str": "01:54.839",
+      "text": "K.I.N.G. 下达命令 黑桃红心 不要分心",
+      "translation": null
+    },
+    {
+      "time": 118.55,
+      "time_str": "01:58.550",
+      "text": "别怀疑 谁占便宜 我想要 创造双赢",
+      "translation": null
+    },
+    {
+      "time": 122.7,
+      "time_str": "02:02.700",
+      "text": "亲爱的queen 赶快靠近 不要犹豫 it＇s u n me",
+      "translation": null
+    },
+    {
+      "time": 126.64,
+      "time_str": "02:06.640",
+      "text": "太偏心 你要小心 别担心 会很有趣",
+      "translation": null
+    },
+    {
+      "time": 130.63,
+      "time_str": "02:10.630",
+      "text": "国王皇后 总算碰到对手",
+      "translation": null
+    },
+    {
+      "time": 134.53,
+      "time_str": "02:14.530",
+      "text": "国王皇后 现在开始交手",
+      "translation": null
+    },
+    {
+      "time": 138.54,
+      "time_str": "02:18.540",
+      "text": "国王皇后 绕了一圈地球",
+      "translation": null
+    },
+    {
+      "time": 142.53,
+      "time_str": "02:22.530",
+      "text": "国王皇后 爱到无药可救",
+      "translation": null
+    },
+    {
+      "time": 146.43,
+      "time_str": "02:26.430",
+      "text": "pretty girl pretty girl pretty girl",
+      "translation": null
+    },
+    {
+      "time": 150.23,
+      "time_str": "02:30.230",
+      "text": "uh oh 牵我手",
+      "translation": null
+    },
+    {
+      "time": 154.11,
+      "time_str": "02:34.110",
+      "text": "party boy party boy party boy",
+      "translation": null
+    },
+    {
+      "time": 159.41,
+      "time_str": "02:39.410",
+      "text": "uh oh 带我走",
+      "translation": null
+    },
+    {
+      "time": 163.2,
+      "time_str": "02:43.200",
+      "text": "爱的音符 正在起舞 oh love 升空幸福",
+      "translation": null
+    },
+    {
+      "time": 170.86,
+      "time_str": "02:50.860",
+      "text": "四个脚步 用心纪录 oh yeah 把你征服",
+      "translation": null
+    },
+    {
+      "time": 177.65,
+      "time_str": "02:57.650",
+      "text": "oh my pretty girl 屁股扭一扭",
+      "translation": null
+    },
+    {
+      "time": 181.15,
+      "time_str": "03:01.150",
+      "text": "要把你占有 国王就是我",
+      "translation": null
+    },
+    {
+      "time": 185.21,
+      "time_str": "03:05.210",
+      "text": "oh my party boy 屁股扭一扭",
+      "translation": null
+    },
+    {
+      "time": 189.11,
+      "time_str": "03:09.110",
+      "text": "记得要温柔 拱我当皇后",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "国王皇后 - 大嘴巴.lrc"
+}

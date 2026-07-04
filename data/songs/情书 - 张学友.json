@@ -1,0 +1,232 @@
+{
+  "title": "情书",
+  "title_raw": "情书",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "情书|张学友",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "戚小恋",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 22.18,
+      "time_str": "00:22.180",
+      "text": "你瘦了憔悴得让我好心疼",
+      "translation": null
+    },
+    {
+      "time": 27.1,
+      "time_str": "00:27.100",
+      "text": "有时候爱情比时间还残忍",
+      "translation": null
+    },
+    {
+      "time": 31.13,
+      "time_str": "00:31.130",
+      "text": "把人变得盲目而奋不顾身",
+      "translation": null
+    },
+    {
+      "time": 35.29,
+      "time_str": "00:35.290",
+      "text": "忘了爱要两个同样用心的人",
+      "translation": null
+    },
+    {
+      "time": 41.06,
+      "time_str": "00:41.060",
+      "text": "你醉了脆弱得藏不住泪痕",
+      "translation": null
+    },
+    {
+      "time": 45.72,
+      "time_str": "00:45.720",
+      "text": "我知道绝望比冬天还寒冷",
+      "translation": null
+    },
+    {
+      "time": 49.68,
+      "time_str": "00:49.680",
+      "text": "你恨自己是个怕孤独的人",
+      "translation": null
+    },
+    {
+      "time": 54.15,
+      "time_str": "00:54.150",
+      "text": "偏偏又爱上自由自私的灵魂",
+      "translation": null
+    },
+    {
+      "time": 62.25,
+      "time_str": "01:02.250",
+      "text": "你带着他唯一写过的情书",
+      "translation": null
+    },
+    {
+      "time": 66.68,
+      "time_str": "01:06.680",
+      "text": "想证明当初爱得并不糊涂",
+      "translation": null
+    },
+    {
+      "time": 70.91,
+      "time_str": "01:10.910",
+      "text": "他曾为了你的逃离颓废痛苦",
+      "translation": null
+    },
+    {
+      "time": 75.88,
+      "time_str": "01:15.880",
+      "text": "也为了破镜重圆抱着你哭",
+      "translation": null
+    },
+    {
+      "time": 81.67,
+      "time_str": "01:21.670",
+      "text": "哦 可惜爱不是几滴眼泪几封情书 哦",
+      "translation": null
+    },
+    {
+      "time": 87.96,
+      "time_str": "01:27.960",
+      "text": "这样的话也许有点残酷",
+      "translation": null
+    },
+    {
+      "time": 92.51,
+      "time_str": "01:32.510",
+      "text": "等待着别人给幸福的人",
+      "translation": null
+    },
+    {
+      "time": 96.32,
+      "time_str": "01:36.320",
+      "text": "往往过的都不怎么幸福",
+      "translation": null
+    },
+    {
+      "time": 100.7,
+      "time_str": "01:40.700",
+      "text": "哦 可惜爱不是忍着眼泪留着情书 哦",
+      "translation": null
+    },
+    {
+      "time": 106.62,
+      "time_str": "01:46.620",
+      "text": "伤口清醒要比昏迷痛楚",
+      "translation": null
+    },
+    {
+      "time": 111.21,
+      "time_str": "01:51.210",
+      "text": "紧闭着双眼又拖着错误",
+      "translation": null
+    },
+    {
+      "time": 114.9,
+      "time_str": "01:54.900",
+      "text": "真爱来临时你要怎么留得住",
+      "translation": null
+    },
+    {
+      "time": 139.41,
+      "time_str": "02:19.410",
+      "text": "你醉了脆弱得藏不住泪痕",
+      "translation": null
+    },
+    {
+      "time": 143.93,
+      "time_str": "02:23.930",
+      "text": "我知道绝望比冬天还寒冷",
+      "translation": null
+    },
+    {
+      "time": 147.76,
+      "time_str": "02:27.760",
+      "text": "你恨自己是个怕孤独的人",
+      "translation": null
+    },
+    {
+      "time": 152.26,
+      "time_str": "02:32.260",
+      "text": "偏偏又爱上自由自私的灵魂",
+      "translation": null
+    },
+    {
+      "time": 160.02,
+      "time_str": "02:40.020",
+      "text": "你带着他唯一写过的情书",
+      "translation": null
+    },
+    {
+      "time": 165.09,
+      "time_str": "02:45.090",
+      "text": "想证明当初爱得并不糊涂",
+      "translation": null
+    },
+    {
+      "time": 169.02,
+      "time_str": "02:49.020",
+      "text": "他曾为了你的逃离颓废痛苦",
+      "translation": null
+    },
+    {
+      "time": 174.32,
+      "time_str": "02:54.320",
+      "text": "也为了破镜重圆抱着你哭",
+      "translation": null
+    },
+    {
+      "time": 180.27,
+      "time_str": "03:00.270",
+      "text": "哦 可惜爱不是几滴眼泪几封情书 哦",
+      "translation": null
+    },
+    {
+      "time": 185.88,
+      "time_str": "03:05.880",
+      "text": "这样的话也许有点残酷",
+      "translation": null
+    },
+    {
+      "time": 190.44,
+      "time_str": "03:10.440",
+      "text": "等待着别人给幸福的人",
+      "translation": null
+    },
+    {
+      "time": 194.33,
+      "time_str": "03:14.330",
+      "text": "往往过的都不怎么幸福",
+      "translation": null
+    },
+    {
+      "time": 198.88,
+      "time_str": "03:18.880",
+      "text": "哦 可惜爱不是忍着眼泪留着情书 哦",
+      "translation": null
+    },
+    {
+      "time": 204.72,
+      "time_str": "03:24.720",
+      "text": "伤口清醒要比昏迷痛楚",
+      "translation": null
+    },
+    {
+      "time": 209.02,
+      "time_str": "03:29.020",
+      "text": "紧闭着双眼又拖着错误",
+      "translation": null
+    },
+    {
+      "time": 213.11,
+      "time_str": "03:33.110",
+      "text": "真爱来临时你要怎么留得住",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情书 - 张学友.lrc"
+}

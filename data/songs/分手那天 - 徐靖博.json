@@ -1,0 +1,352 @@
+{
+  "title": "分手那天",
+  "title_raw": "分手那天",
+  "version": null,
+  "artist": "徐靖博",
+  "group_key": "分手那天|徐靖博",
+  "writers": {
+    "lyricist": "刘颖、徐靖博",
+    "composer": "刘颖、徐靖博",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 21.55,
+      "time_str": "00:21.550",
+      "text": "这么快就走到了尽头",
+      "translation": null
+    },
+    {
+      "time": 24.9,
+      "time_str": "00:24.900",
+      "text": "还以为彼此仍然拥有",
+      "translation": null
+    },
+    {
+      "time": 29.06,
+      "time_str": "00:29.060",
+      "text": "看着那熟悉的脸",
+      "translation": null
+    },
+    {
+      "time": 32.23,
+      "time_str": "00:32.230",
+      "text": "还有双舍不得放开的手",
+      "translation": null
+    },
+    {
+      "time": 35.79,
+      "time_str": "00:35.790",
+      "text": "许多话还没有说出口",
+      "translation": null
+    },
+    {
+      "time": 39.47,
+      "time_str": "00:39.470",
+      "text": "回头看看来时的路",
+      "translation": null
+    },
+    {
+      "time": 43.05,
+      "time_str": "00:43.050",
+      "text": "虽然充满坎坷",
+      "translation": null
+    },
+    {
+      "time": 46.38,
+      "time_str": "00:46.380",
+      "text": "我们也肩并肩的渡过",
+      "translation": null
+    },
+    {
+      "time": 50.4,
+      "time_str": "00:50.400",
+      "text": "爱不是一封情书",
+      "translation": null
+    },
+    {
+      "time": 53.93,
+      "time_str": "00:53.930",
+      "text": "爱是无悔的付出",
+      "translation": null
+    },
+    {
+      "time": 57.36,
+      "time_str": "00:57.360",
+      "text": "爱不是相互约束",
+      "translation": null
+    },
+    {
+      "time": 61.04,
+      "time_str": "01:01.040",
+      "text": "爱是衷心的",
+      "translation": null
+    },
+    {
+      "time": 63.13,
+      "time_str": "01:03.130",
+      "text": "一生的祝福",
+      "translation": null
+    },
+    {
+      "time": 68.03,
+      "time_str": "01:08.030",
+      "text": "如果真有再见那天",
+      "translation": null
+    },
+    {
+      "time": 71.52,
+      "time_str": "01:11.520",
+      "text": "求求你不要泪流满面",
+      "translation": null
+    },
+    {
+      "time": 75.12,
+      "time_str": "01:15.120",
+      "text": "你知道我会哭",
+      "translation": null
+    },
+    {
+      "time": 77.18,
+      "time_str": "01:17.180",
+      "text": "我会忍不住",
+      "translation": null
+    },
+    {
+      "time": 78.92,
+      "time_str": "01:18.920",
+      "text": "我会紧紧的把你抱住",
+      "translation": null
+    },
+    {
+      "time": 82.37,
+      "time_str": "01:22.370",
+      "text": "如果也有寂寞那天",
+      "translation": null
+    },
+    {
+      "time": 85.75,
+      "time_str": "01:25.750",
+      "text": "就一起想想我们从前",
+      "translation": null
+    },
+    {
+      "time": 89.45,
+      "time_str": "01:29.450",
+      "text": "不管再多天",
+      "translation": null
+    },
+    {
+      "time": 91.39,
+      "time_str": "01:31.390",
+      "text": "不管再多年",
+      "translation": null
+    },
+    {
+      "time": 93.21,
+      "time_str": "01:33.210",
+      "text": "回忆永远是",
+      "translation": null
+    },
+    {
+      "time": 95.05,
+      "time_str": "01:35.050",
+      "text": "我给你最真的礼物",
+      "translation": null
+    },
+    {
+      "time": 114.68,
+      "time_str": "01:54.680",
+      "text": "这么快就走到了尽头",
+      "translation": null
+    },
+    {
+      "time": 118.14,
+      "time_str": "01:58.140",
+      "text": "还以为彼此仍然拥有",
+      "translation": null
+    },
+    {
+      "time": 122.32,
+      "time_str": "02:02.320",
+      "text": "看着那熟悉的脸",
+      "translation": null
+    },
+    {
+      "time": 125.37,
+      "time_str": "02:05.370",
+      "text": "还有双舍不得放开的手",
+      "translation": null
+    },
+    {
+      "time": 129.07,
+      "time_str": "02:09.070",
+      "text": "爱不是一封情书",
+      "translation": null
+    },
+    {
+      "time": 132.7,
+      "time_str": "02:12.700",
+      "text": "爱是无悔的付出",
+      "translation": null
+    },
+    {
+      "time": 136.29,
+      "time_str": "02:16.290",
+      "text": "爱不是相互约束",
+      "translation": null
+    },
+    {
+      "time": 139.8,
+      "time_str": "02:19.800",
+      "text": "爱是衷心的",
+      "translation": null
+    },
+    {
+      "time": 142.04,
+      "time_str": "02:22.040",
+      "text": "一生的祝福",
+      "translation": null
+    },
+    {
+      "time": 146.95,
+      "time_str": "02:26.950",
+      "text": "如果真有再见那天",
+      "translation": null
+    },
+    {
+      "time": 150.38,
+      "time_str": "02:30.380",
+      "text": "求求你不要泪流满面",
+      "translation": null
+    },
+    {
+      "time": 153.95,
+      "time_str": "02:33.950",
+      "text": "你知道我会哭",
+      "translation": null
+    },
+    {
+      "time": 155.95,
+      "time_str": "02:35.950",
+      "text": "我会忍不住",
+      "translation": null
+    },
+    {
+      "time": 157.69,
+      "time_str": "02:37.690",
+      "text": "我会紧紧的把你抱住",
+      "translation": null
+    },
+    {
+      "time": 161.24,
+      "time_str": "02:41.240",
+      "text": "如果也有寂寞那天",
+      "translation": null
+    },
+    {
+      "time": 164.58,
+      "time_str": "02:44.580",
+      "text": "就一起想想我们从前",
+      "translation": null
+    },
+    {
+      "time": 168.33,
+      "time_str": "02:48.330",
+      "text": "不管再多天",
+      "translation": null
+    },
+    {
+      "time": 170.24,
+      "time_str": "02:50.240",
+      "text": "不管再多年",
+      "translation": null
+    },
+    {
+      "time": 172.0,
+      "time_str": "02:52.000",
+      "text": "回忆永远是",
+      "translation": null
+    },
+    {
+      "time": 173.88,
+      "time_str": "02:53.880",
+      "text": "我给你最真的礼物",
+      "translation": null
+    },
+    {
+      "time": 179.16,
+      "time_str": "02:59.160",
+      "text": "如果真有再见那天",
+      "translation": null
+    },
+    {
+      "time": 182.61,
+      "time_str": "03:02.610",
+      "text": "求求你不要泪流满面",
+      "translation": null
+    },
+    {
+      "time": 186.22,
+      "time_str": "03:06.220",
+      "text": "你知道我会哭",
+      "translation": null
+    },
+    {
+      "time": 188.01,
+      "time_str": "03:08.010",
+      "text": "我会忍不住",
+      "translation": null
+    },
+    {
+      "time": 190.02,
+      "time_str": "03:10.020",
+      "text": "我会紧紧的把你抱住",
+      "translation": null
+    },
+    {
+      "time": 193.54,
+      "time_str": "03:13.540",
+      "text": "如果也有寂寞那天",
+      "translation": null
+    },
+    {
+      "time": 196.82,
+      "time_str": "03:16.820",
+      "text": "就一起想想我们从前",
+      "translation": null
+    },
+    {
+      "time": 200.52,
+      "time_str": "03:20.520",
+      "text": "不管再多天",
+      "translation": null
+    },
+    {
+      "time": 202.5,
+      "time_str": "03:22.500",
+      "text": "不管再多年",
+      "translation": null
+    },
+    {
+      "time": 204.22,
+      "time_str": "03:24.220",
+      "text": "回忆永远是",
+      "translation": null
+    },
+    {
+      "time": 206.11,
+      "time_str": "03:26.110",
+      "text": "我给你最真的礼物",
+      "translation": null
+    },
+    {
+      "time": 214.47,
+      "time_str": "03:34.470",
+      "text": "Ha",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "分手那天 - 徐靖博.lrc"
+}

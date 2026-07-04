@@ -1,0 +1,364 @@
+{
+  "title": "富士山下",
+  "title_raw": "富士山下",
+  "version": null,
+  "artist": "陈奕迅",
+  "group_key": "富士山下|陈奕迅",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "Christopher Chak",
+    "arranger": "陈珀/C. Y. Kong"
+  },
+  "lyrics": [
+    {
+      "time": 21.961,
+      "time_str": "00:21.961",
+      "text": "拦路雨偏似雪花 饮泣的你冻吗",
+      "translation": null
+    },
+    {
+      "time": 26.464,
+      "time_str": "00:26.464",
+      "text": "这风褛我给你磨到有襟花",
+      "translation": null
+    },
+    {
+      "time": 31.023,
+      "time_str": "00:31.023",
+      "text": "连调了职也不怕 怎么始终牵挂",
+      "translation": null
+    },
+    {
+      "time": 35.618,
+      "time_str": "00:35.618",
+      "text": "苦心选中今天想车你回家",
+      "translation": null
+    },
+    {
+      "time": 40.181,
+      "time_str": "00:40.181",
+      "text": "原谅我不再送花 伤口应要结疤",
+      "translation": null
+    },
+    {
+      "time": 44.739,
+      "time_str": "00:44.739",
+      "text": "花瓣铺满心里坟场才害怕",
+      "translation": null
+    },
+    {
+      "time": 49.337,
+      "time_str": "00:49.337",
+      "text": "如若你非我不嫁 彼此终必火化",
+      "translation": null
+    },
+    {
+      "time": 53.878,
+      "time_str": "00:53.878",
+      "text": "一生一世等一天需要代价",
+      "translation": null
+    },
+    {
+      "time": 58.438,
+      "time_str": "00:58.438",
+      "text": "谁都只得那双手靠拥抱亦难任你拥有",
+      "translation": null
+    },
+    {
+      "time": 63.612,
+      "time_str": "01:03.612",
+      "text": "要拥有必先懂失去怎接受",
+      "translation": null
+    },
+    {
+      "time": 68.177,
+      "time_str": "01:08.177",
+      "text": "曾沿着雪路浪游 为何为好事泪流",
+      "translation": null
+    },
+    {
+      "time": 72.733,
+      "time_str": "01:12.733",
+      "text": "谁能凭爱意要富士山私有",
+      "translation": null
+    },
+    {
+      "time": 77.292,
+      "time_str": "01:17.292",
+      "text": "何不把悲哀感觉假设是来自你虚构",
+      "translation": null
+    },
+    {
+      "time": 81.912,
+      "time_str": "01:21.912",
+      "text": "试管里找不到它染污眼眸",
+      "translation": null
+    },
+    {
+      "time": 86.405,
+      "time_str": "01:26.405",
+      "text": "前尘硬化像石头 随缘地抛下便逃走",
+      "translation": null
+    },
+    {
+      "time": 94.143,
+      "time_str": "01:34.143",
+      "text": "我绝不罕有 往街里绕过一周",
+      "translation": null
+    },
+    {
+      "time": 98.559,
+      "time_str": "01:38.559",
+      "text": "我便化乌有",
+      "translation": null
+    },
+    {
+      "time": 102.64,
+      "time_str": "01:42.640",
+      "text": "情人节不要说穿 只敢抚你发端",
+      "translation": null
+    },
+    {
+      "time": 107.193,
+      "time_str": "01:47.193",
+      "text": "这种姿态可会令你更心酸",
+      "translation": null
+    },
+    {
+      "time": 111.795,
+      "time_str": "01:51.795",
+      "text": "留在汽车里取暖 应该怎么规劝",
+      "translation": null
+    },
+    {
+      "time": 116.376,
+      "time_str": "01:56.376",
+      "text": "怎么可以将手腕忍痛划损",
+      "translation": null
+    },
+    {
+      "time": 120.953,
+      "time_str": "02:00.953",
+      "text": "人活到几岁算短 失恋只有更短",
+      "translation": null
+    },
+    {
+      "time": 125.501,
+      "time_str": "02:05.501",
+      "text": "归家需要几里路谁能预算",
+      "translation": null
+    },
+    {
+      "time": 130.088,
+      "time_str": "02:10.088",
+      "text": "忘掉我跟你恩怨 樱花开了几转",
+      "translation": null
+    },
+    {
+      "time": 134.697,
+      "time_str": "02:14.697",
+      "text": "东京之旅一早比一世遥远",
+      "translation": null
+    },
+    {
+      "time": 139.226,
+      "time_str": "02:19.226",
+      "text": "谁都只得那双手靠拥抱亦难任你拥有",
+      "translation": null
+    },
+    {
+      "time": 144.393,
+      "time_str": "02:24.393",
+      "text": "要拥有必先懂失去怎接受",
+      "translation": null
+    },
+    {
+      "time": 148.941,
+      "time_str": "02:28.941",
+      "text": "曾沿着雪路浪游 为何为好事泪流",
+      "translation": null
+    },
+    {
+      "time": 153.512,
+      "time_str": "02:33.512",
+      "text": "谁能凭爱意要富士山私有",
+      "translation": null
+    },
+    {
+      "time": 158.087,
+      "time_str": "02:38.087",
+      "text": "何不把悲哀感觉假设是来自你虚构",
+      "translation": null
+    },
+    {
+      "time": 162.681,
+      "time_str": "02:42.681",
+      "text": "试管里找不到它染污眼眸",
+      "translation": null
+    },
+    {
+      "time": 167.21,
+      "time_str": "02:47.210",
+      "text": "前尘硬化像石头 随缘地抛下便逃走",
+      "translation": null
+    },
+    {
+      "time": 174.214,
+      "time_str": "02:54.214",
+      "text": "我绝不罕有 往街里绕过一周",
+      "translation": null
+    },
+    {
+      "time": 179.066,
+      "time_str": "02:59.066",
+      "text": "我便化乌有",
+      "translation": null
+    },
+    {
+      "time": 183.313,
+      "time_str": "03:03.313",
+      "text": "谁都只得那双手靠拥抱亦难任你拥有",
+      "translation": null
+    },
+    {
+      "time": 188.689,
+      "time_str": "03:08.689",
+      "text": "要拥有必先懂失去怎接受",
+      "translation": null
+    },
+    {
+      "time": 193.391,
+      "time_str": "03:13.391",
+      "text": "曾沿着雪路浪游 为何为好事泪流",
+      "translation": null
+    },
+    {
+      "time": 198.156,
+      "time_str": "03:18.156",
+      "text": "谁能凭爱意要富士山私有",
+      "translation": null
+    },
+    {
+      "time": 202.849,
+      "time_str": "03:22.849",
+      "text": "何不把悲哀感觉假设是来自你虚构",
+      "translation": null
+    },
+    {
+      "time": 207.562,
+      "time_str": "03:27.562",
+      "text": "试管里找不到它染污眼眸",
+      "translation": null
+    },
+    {
+      "time": 212.248,
+      "time_str": "03:32.248",
+      "text": "前尘硬化像石头 随缘地抛下便逃走",
+      "translation": null
+    },
+    {
+      "time": 221.286,
+      "time_str": "03:41.286",
+      "text": "我绝不罕有 往街里绕过一周",
+      "translation": null
+    },
+    {
+      "time": 226.586,
+      "time_str": "03:46.586",
+      "text": "我便化乌有",
+      "translation": null
+    },
+    {
+      "time": 232.009,
+      "time_str": "03:52.009",
+      "text": "你还嫌不够 我把这陈年风褛 送赠你解咒",
+      "translation": null
+    },
+    {
+      "time": 242.699,
+      "time_str": "04:02.699",
+      "text": "Produced by 梁荣骏",
+      "translation": null
+    },
+    {
+      "time": 243.699,
+      "time_str": "04:03.699",
+      "text": "Production Coordination: Stanley Leung",
+      "translation": null
+    },
+    {
+      "time": 244.699,
+      "time_str": "04:04.699",
+      "text": "Keyboards & Programming: 陈珀 / C.Y.Kong (江志仁)",
+      "translation": null
+    },
+    {
+      "time": 245.699,
+      "time_str": "04:05.699",
+      "text": "Drums: Davy Chan (陈匡荣)",
+      "translation": null
+    },
+    {
+      "time": 246.699,
+      "time_str": "04:06.699",
+      "text": "Bass: 细威",
+      "translation": null
+    },
+    {
+      "time": 247.699,
+      "time_str": "04:07.699",
+      "text": "Guitar: Joey Tang (邓建明)",
+      "translation": null
+    },
+    {
+      "time": 248.699,
+      "time_str": "04:08.699",
+      "text": "Percussion: Davy Chan & Kevin (Hardpack)",
+      "translation": null
+    },
+    {
+      "time": 249.699,
+      "time_str": "04:09.699",
+      "text": "Strings Arranged & Conducted by 陈珀",
+      "translation": null
+    },
+    {
+      "time": 250.699,
+      "time_str": "04:10.699",
+      "text": "Recorded at aroom studio & seewisehk,",
+      "translation": null
+    },
+    {
+      "time": 251.699,
+      "time_str": "04:11.699",
+      "text": "Engineered by Davy Chan, Rob Porter & C.Y.Kong",
+      "translation": null
+    },
+    {
+      "time": 252.699,
+      "time_str": "04:12.699",
+      "text": "Vocals Recorded at Avon Studios,",
+      "translation": null
+    },
+    {
+      "time": 253.699,
+      "time_str": "04:13.699",
+      "text": "Engineered by Anthony Leung",
+      "translation": null
+    },
+    {
+      "time": 254.699,
+      "time_str": "04:14.699",
+      "text": "Mixed by Simon Li at nOiz",
+      "translation": null
+    },
+    {
+      "time": 256.699,
+      "time_str": "04:16.699",
+      "text": "SP: Fujipacific Music (S.E. Asia) Ltd",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "富士山下 - 陈奕迅.lrc"
+}

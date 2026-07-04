@@ -1,0 +1,316 @@
+{
+  "title": "一千零一夜",
+  "title_raw": "一千零一夜",
+  "version": null,
+  "artist": "蜜雪薇琪",
+  "group_key": "一千零一夜|蜜雪薇琪",
+  "writers": {
+    "lyricist": "木兰号AKA陈韦伶",
+    "composer": "木兰号AKA陈韦伶",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 24.06,
+      "time_str": "00:24.060",
+      "text": "想起你的笑",
+      "translation": null
+    },
+    {
+      "time": 27.16,
+      "time_str": "00:27.160",
+      "text": "我孤单的嘴角",
+      "translation": null
+    },
+    {
+      "time": 29.29,
+      "time_str": "00:29.290",
+      "text": "也不自觉扬起像羽毛",
+      "translation": null
+    },
+    {
+      "time": 32.44,
+      "time_str": "00:32.440",
+      "text": "当你牵着我的手",
+      "translation": null
+    },
+    {
+      "time": 36.59,
+      "time_str": "00:36.590",
+      "text": "我的心偷偷的颤抖",
+      "translation": null
+    },
+    {
+      "time": 41.49,
+      "time_str": "00:41.490",
+      "text": "当你伸出双手",
+      "translation": null
+    },
+    {
+      "time": 43.69,
+      "time_str": "00:43.690",
+      "text": "就能够温暖我被冻僵的每根指头",
+      "translation": null
+    },
+    {
+      "time": 49.55,
+      "time_str": "00:49.550",
+      "text": "忘了心多痛",
+      "translation": null
+    },
+    {
+      "time": 51.43,
+      "time_str": "00:51.430",
+      "text": "眼泪曾有多重",
+      "translation": null
+    },
+    {
+      "time": 53.64,
+      "time_str": "00:53.640",
+      "text": "有了你就不再做梦",
+      "translation": null
+    },
+    {
+      "time": 57.48,
+      "time_str": "00:57.480",
+      "text": "一千零一夜",
+      "translation": null
+    },
+    {
+      "time": 59.0,
+      "time_str": "00:59.000",
+      "text": "传说的星空",
+      "translation": null
+    },
+    {
+      "time": 61.42,
+      "time_str": "01:01.420",
+      "text": "这个故事没有",
+      "translation": null
+    },
+    {
+      "time": 63.14,
+      "time_str": "01:03.140",
+      "text": "唱完的时候",
+      "translation": null
+    },
+    {
+      "time": 65.72,
+      "time_str": "01:05.720",
+      "text": "春夏秋冬只要和你一起走",
+      "translation": null
+    },
+    {
+      "time": 70.33,
+      "time_str": "01:10.330",
+      "text": "每一个镜头都是真的感动",
+      "translation": null
+    },
+    {
+      "time": 86.74,
+      "time_str": "01:26.740",
+      "text": "有一些声音",
+      "translation": null
+    },
+    {
+      "time": 89.82,
+      "time_str": "01:29.820",
+      "text": "回荡在脑海中",
+      "translation": null
+    },
+    {
+      "time": 92.09,
+      "time_str": "01:32.090",
+      "text": "凌乱原本该有的执着",
+      "translation": null
+    },
+    {
+      "time": 95.25,
+      "time_str": "01:35.250",
+      "text": "害怕爱瞬间流走",
+      "translation": null
+    },
+    {
+      "time": 99.12,
+      "time_str": "01:39.120",
+      "text": "这样的念头我不想说",
+      "translation": null
+    },
+    {
+      "time": 104.14,
+      "time_str": "01:44.140",
+      "text": "当你伸出双手",
+      "translation": null
+    },
+    {
+      "time": 106.35,
+      "time_str": "01:46.350",
+      "text": "就能够温暖我被冻僵的每根指头",
+      "translation": null
+    },
+    {
+      "time": 112.29,
+      "time_str": "01:52.290",
+      "text": "忘了心多痛",
+      "translation": null
+    },
+    {
+      "time": 114.14,
+      "time_str": "01:54.140",
+      "text": "眼泪曾有多重",
+      "translation": null
+    },
+    {
+      "time": 116.28,
+      "time_str": "01:56.280",
+      "text": "有了你就不再做梦",
+      "translation": null
+    },
+    {
+      "time": 120.06,
+      "time_str": "02:00.060",
+      "text": "一千零一夜",
+      "translation": null
+    },
+    {
+      "time": 121.64,
+      "time_str": "02:01.640",
+      "text": "传说的星空",
+      "translation": null
+    },
+    {
+      "time": 124.04,
+      "time_str": "02:04.040",
+      "text": "这个故事没有",
+      "translation": null
+    },
+    {
+      "time": 125.92,
+      "time_str": "02:05.920",
+      "text": "唱完的时候",
+      "translation": null
+    },
+    {
+      "time": 128.42,
+      "time_str": "02:08.420",
+      "text": "春夏秋冬只要和你一起走",
+      "translation": null
+    },
+    {
+      "time": 133.06,
+      "time_str": "02:13.060",
+      "text": "每一个镜头都是真的感动",
+      "translation": null
+    },
+    {
+      "time": 155.64,
+      "time_str": "02:35.640",
+      "text": "没有什么需要挽留",
+      "translation": null
+    },
+    {
+      "time": 158.2,
+      "time_str": "02:38.200",
+      "text": "什么能被错过",
+      "translation": null
+    },
+    {
+      "time": 160.32,
+      "time_str": "02:40.320",
+      "text": "已经拥有太多",
+      "translation": null
+    },
+    {
+      "time": 164.66,
+      "time_str": "02:44.660",
+      "text": "一千零一夜",
+      "translation": null
+    },
+    {
+      "time": 167.11,
+      "time_str": "02:47.110",
+      "text": "一千零一夜",
+      "translation": null
+    },
+    {
+      "time": 169.41,
+      "time_str": "02:49.410",
+      "text": "一千零一夜",
+      "translation": null
+    },
+    {
+      "time": 171.98,
+      "time_str": "02:51.980",
+      "text": "一千零一夜",
+      "translation": null
+    },
+    {
+      "time": 173.37,
+      "time_str": "02:53.370",
+      "text": "不灭的星空",
+      "translation": null
+    },
+    {
+      "time": 176.01,
+      "time_str": "02:56.010",
+      "text": "这个故事没有",
+      "translation": null
+    },
+    {
+      "time": 177.68,
+      "time_str": "02:57.680",
+      "text": "唱完的时候",
+      "translation": null
+    },
+    {
+      "time": 180.33,
+      "time_str": "03:00.330",
+      "text": "春夏秋冬只要和你一起走",
+      "translation": null
+    },
+    {
+      "time": 184.93,
+      "time_str": "03:04.930",
+      "text": "每一个镜头都是真的感动",
+      "translation": null
+    },
+    {
+      "time": 189.48,
+      "time_str": "03:09.480",
+      "text": "一千零一夜",
+      "translation": null
+    },
+    {
+      "time": 190.65,
+      "time_str": "03:10.650",
+      "text": "传说的星空",
+      "translation": null
+    },
+    {
+      "time": 193.57,
+      "time_str": "03:13.570",
+      "text": "一千零一夜",
+      "translation": null
+    },
+    {
+      "time": 194.97,
+      "time_str": "03:14.970",
+      "text": "唱完的时候",
+      "translation": null
+    },
+    {
+      "time": 197.59,
+      "time_str": "03:17.590",
+      "text": "春夏秋冬只要和你一起走",
+      "translation": null
+    },
+    {
+      "time": 202.23,
+      "time_str": "03:22.230",
+      "text": "每一个镜头都是真的感动",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一千零一夜 - 蜜雪薇琪.lrc"
+}

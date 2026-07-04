@@ -1,0 +1,340 @@
+{
+  "title": "Floorfiller",
+  "title_raw": "Floorfiller",
+  "version": null,
+  "artist": "A*Teens",
+  "group_key": "floorfiller|a*teens",
+  "writers": {
+    "lyricist": "Tommy Tysper/Gustav Jonsson/Markus Sepehrmanesh",
+    "composer": "Tommy Tysper/Gustav Jonsson/Markus Sepehrmanesh",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.97,
+      "time_str": "00:02.970",
+      "text": "Floorfiller",
+      "translation": "注满舞池"
+    },
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "Floorfiller",
+      "translation": "注满舞池"
+    },
+    {
+      "time": 16.12,
+      "time_str": "00:16.120",
+      "text": "Hey Mr. DJ, in case you forgot",
+      "translation": "嘿,DJ先生!怕你忘记"
+    },
+    {
+      "time": 19.97,
+      "time_str": "00:19.970",
+      "text": "I came to get down So you better make it hot",
+      "translation": "我来这儿是找乐的，所以你最好使气氛热烈"
+    },
+    {
+      "time": 23.79,
+      "time_str": "00:23.790",
+      "text": "Cause I can't jump around when I hear groove killers",
+      "translation": "因为我无法跳舞，当我听见唱片杀手"
+    },
+    {
+      "time": 27.72,
+      "time_str": "00:27.720",
+      "text": "When I'm out sitting down, it's a clear time stealer",
+      "translation": "当我坐在舞池之外忙完是个十足的时间浪费者"
+    },
+    {
+      "time": 32.02,
+      "time_str": "00:32.020",
+      "text": "Give me a track with a phat kind of beat",
+      "translation": "给我一首酷毙的乐曲"
+    },
+    {
+      "time": 35.71,
+      "time_str": "00:35.710",
+      "text": "A groove so unique that it kicks me off my seat",
+      "translation": "一首独一无二的能使我从椅子上跳起来的曲子"
+    },
+    {
+      "time": 39.36,
+      "time_str": "00:39.360",
+      "text": "Cause I won't find a mood with a new spine chiller",
+      "translation": "因为听一个凉飕飕的曲子，我无法找到感觉"
+    },
+    {
+      "time": 43.48,
+      "time_str": "00:43.480",
+      "text": "When the crowd hits the room, it's a true crowd thiller",
+      "translation": "当人群在舞池涌动，你是个真正的舞迷战栗者"
+    },
+    {
+      "time": 47.68,
+      "time_str": "00:47.680",
+      "text": "Freeze, better make it hot",
+      "translation": "最好让气氛变热"
+    },
+    {
+      "time": 49.82,
+      "time_str": "00:49.820",
+      "text": "Music please, blow the spot",
+      "translation": "音乐要适应场合"
+    },
+    {
+      "time": 53.84,
+      "time_str": "00:53.840",
+      "text": "Play that funky music",
+      "translation": "放些粗犷的爵士乐"
+    },
+    {
+      "time": 55.54,
+      "time_str": "00:55.540",
+      "text": "That is how we want it Floorfiller",
+      "translation": "我们就是想要那样的，注满舞池"
+    },
+    {
+      "time": 59.47,
+      "time_str": "00:59.470",
+      "text": "That is how we need it Floorfiller",
+      "translation": "我们就是想要那样的，注满舞池"
+    },
+    {
+      "time": 63.67,
+      "time_str": "01:03.670",
+      "text": "Something's outta order, people in the corners",
+      "translation": "事情失去了秩序，呆在场边的人们"
+    },
+    {
+      "time": 67.12,
+      "time_str": "01:07.120",
+      "text": "Don't you see it",
+      "translation": "你们看不到吗"
+    },
+    {
+      "time": 69.11,
+      "time_str": "01:09.110",
+      "text": "Can't you feel it",
+      "translation": "你们感觉不到吗"
+    },
+    {
+      "time": 72.56,
+      "time_str": "01:12.560",
+      "text": "Floorfiller",
+      "translation": "注满舞池"
+    },
+    {
+      "time": 79.36,
+      "time_str": "01:19.360",
+      "text": "Crank up a bass that can raise up the roof",
+      "translation": "加快低音速度，我会抬高天花板"
+    },
+    {
+      "time": 82.85,
+      "time_str": "01:22.850",
+      "text": "A bomb diggy drum comin' at me with a poof",
+      "translation": "来吧，用舞步打败我"
+    },
+    {
+      "time": 86.44,
+      "time_str": "01:26.440",
+      "text": "Gotta boom, shake the room, cause we're all heat seekers",
+      "translation": "要撼动舞场，因为我们都是热力追求者"
+    },
+    {
+      "time": 91.01,
+      "time_str": "01:31.010",
+      "text": "With a jam that can slam down the walls, mindfreaker",
+      "translation": "我们拥挤得可以推倒墙，思想怪异者"
+    },
+    {
+      "time": 94.9,
+      "time_str": "01:34.900",
+      "text": "Freeze, better make it hot",
+      "translation": "最好让气氛变热"
+    },
+    {
+      "time": 97.1,
+      "time_str": "01:37.100",
+      "text": "Music please, blow the spot",
+      "translation": "音乐要适应场合"
+    },
+    {
+      "time": 101.05,
+      "time_str": "01:41.050",
+      "text": "Play that funky music",
+      "translation": "放些粗犷的爵士乐"
+    },
+    {
+      "time": 102.81,
+      "time_str": "01:42.810",
+      "text": "That is how we want it",
+      "translation": "我们就是想要那样的"
+    },
+    {
+      "time": 105.33,
+      "time_str": "01:45.330",
+      "text": "Floorfiller",
+      "translation": "注满舞池"
+    },
+    {
+      "time": 106.89,
+      "time_str": "01:46.890",
+      "text": "That is how we need it",
+      "translation": "我们就是想要那样的"
+    },
+    {
+      "time": 109.39,
+      "time_str": "01:49.390",
+      "text": "Floorfiller",
+      "translation": "注满舞池"
+    },
+    {
+      "time": 110.64,
+      "time_str": "01:50.640",
+      "text": "Something's outta order, people in the corners",
+      "translation": "事情失去了秩序，呆在场边的人们"
+    },
+    {
+      "time": 114.39,
+      "time_str": "01:54.390",
+      "text": "Don't you see it",
+      "translation": "你们看不到吗"
+    },
+    {
+      "time": 116.27,
+      "time_str": "01:56.270",
+      "text": "Can't you feel it",
+      "translation": "你们感觉不到吗"
+    },
+    {
+      "time": 126.34,
+      "time_str": "02:06.340",
+      "text": "You know by the sounds when the crowd is getting wild",
+      "translation": "通过疯狂舞迷们的吵闹，你们可以知道"
+    },
+    {
+      "time": 130.2,
+      "time_str": "02:10.200",
+      "text": "Hands swinging high like a chopper in the sky",
+      "translation": "挥舞的手，像飞翔的残肢断臂"
+    },
+    {
+      "time": 133.91,
+      "time_str": "02:13.910",
+      "text": "But a slow bump or flow ain't the way, floorfreezer",
+      "translation": "而慢速的摇摆或舞动不合节奏，注满舞池"
+    },
+    {
+      "time": 137.9,
+      "time_str": "02:17.900",
+      "text": "See the name of the game is to play, crowd pleaser",
+      "translation": "这个游戏的就是要放取悦舞迷的曲子"
+    },
+    {
+      "time": 142.33,
+      "time_str": "02:22.330",
+      "text": "Freeze, better make it hot",
+      "translation": "最好让气氛变热"
+    },
+    {
+      "time": 144.53,
+      "time_str": "02:24.530",
+      "text": "Music please, blow the spot",
+      "translation": "音乐要适应场合"
+    },
+    {
+      "time": 148.26,
+      "time_str": "02:28.260",
+      "text": "Play that funky music",
+      "translation": "放些粗犷的爵士乐"
+    },
+    {
+      "time": 150.0,
+      "time_str": "02:30.000",
+      "text": "That is how we want it",
+      "translation": "我们就是想要那样的"
+    },
+    {
+      "time": 152.71,
+      "time_str": "02:32.710",
+      "text": "Floorfiller",
+      "translation": "注满舞池"
+    },
+    {
+      "time": 154.14,
+      "time_str": "02:34.140",
+      "text": "That is how we need it",
+      "translation": "我们就是需要那样的"
+    },
+    {
+      "time": 156.62,
+      "time_str": "02:36.620",
+      "text": "Floorfiller",
+      "translation": "注满舞池"
+    },
+    {
+      "time": 157.85,
+      "time_str": "02:37.850",
+      "text": "Something's outta order, people in the corners",
+      "translation": "事情失去了秩序，呆在场边的人们"
+    },
+    {
+      "time": 161.35,
+      "time_str": "02:41.350",
+      "text": "Don't you see it",
+      "translation": "你们看不到吗"
+    },
+    {
+      "time": 163.45,
+      "time_str": "02:43.450",
+      "text": "Can't you feel it",
+      "translation": "你们感觉不到吗"
+    },
+    {
+      "time": 165.79,
+      "time_str": "02:45.790",
+      "text": "That is how we want it",
+      "translation": "我们就是想要那样的"
+    },
+    {
+      "time": 168.27,
+      "time_str": "02:48.270",
+      "text": "Floorfiller",
+      "translation": "注满舞池"
+    },
+    {
+      "time": 169.96,
+      "time_str": "02:49.960",
+      "text": "That is how we need it",
+      "translation": "我们就是需要那样的"
+    },
+    {
+      "time": 171.83,
+      "time_str": "02:51.830",
+      "text": "Floorfiller",
+      "translation": "注满舞池"
+    },
+    {
+      "time": 173.62,
+      "time_str": "02:53.620",
+      "text": "Something's outta order, people in the corners",
+      "translation": "事情失去了秩序，呆在场边的人们"
+    },
+    {
+      "time": 177.8,
+      "time_str": "02:57.800",
+      "text": "Don't you see it",
+      "translation": "你们看不到吗"
+    },
+    {
+      "time": 179.21,
+      "time_str": "02:59.210",
+      "text": "Can't you feel it",
+      "translation": "你们感觉不到吗"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Floorfiller - A*Teens.lrc"
+}

@@ -1,0 +1,370 @@
+{
+  "title": "对你爱不完",
+  "title_raw": "对你爱不完",
+  "version": null,
+  "artist": "郭富城",
+  "group_key": "对你爱不完|郭富城",
+  "writers": {
+    "lyricist": "陈乐融",
+    "composer": "羽田一郎",
+    "arranger": "Ricky Ho"
+  },
+  "lyrics": [
+    {
+      "time": 42.671,
+      "time_str": "00:42.671",
+      "text": "灯初上夜未央",
+      "translation": null
+    },
+    {
+      "time": 44.643,
+      "time_str": "00:44.643",
+      "text": "来往的人多匆忙",
+      "translation": null
+    },
+    {
+      "time": 46.906,
+      "time_str": "00:46.906",
+      "text": "我不要太紧张",
+      "translation": null
+    },
+    {
+      "time": 48.895,
+      "time_str": "00:48.895",
+      "text": "和别人一模样",
+      "translation": null
+    },
+    {
+      "time": 50.676,
+      "time_str": "00:50.676",
+      "text": "但是你对我望",
+      "translation": null
+    },
+    {
+      "time": 52.72,
+      "time_str": "00:52.720",
+      "text": "两只眼睛大又亮",
+      "translation": null
+    },
+    {
+      "time": 54.933,
+      "time_str": "00:54.933",
+      "text": "我开始失去了主张",
+      "translation": null
+    },
+    {
+      "time": 58.7,
+      "time_str": "00:58.700",
+      "text": "风吹得路好长",
+      "translation": null
+    },
+    {
+      "time": 60.776,
+      "time_str": "01:00.776",
+      "text": "一颗心晃呀晃",
+      "translation": null
+    },
+    {
+      "time": 62.766,
+      "time_str": "01:02.766",
+      "text": "多想找人陪我逛",
+      "translation": null
+    },
+    {
+      "time": 64.712,
+      "time_str": "01:04.712",
+      "text": "累了睡在马路上",
+      "translation": null
+    },
+    {
+      "time": 66.721,
+      "time_str": "01:06.721",
+      "text": "表面上很倔强",
+      "translation": null
+    },
+    {
+      "time": 68.752,
+      "time_str": "01:08.752",
+      "text": "其实内心一团糟",
+      "translation": null
+    },
+    {
+      "time": 71.057,
+      "time_str": "01:11.057",
+      "text": "怕自己爱得像太阳",
+      "translation": null
+    },
+    {
+      "time": 74.789,
+      "time_str": "01:14.789",
+      "text": "(Hey, let's go)",
+      "translation": null
+    },
+    {
+      "time": 76.766,
+      "time_str": "01:16.766",
+      "text": "胸中藏着一把火",
+      "translation": null
+    },
+    {
+      "time": 78.819,
+      "time_str": "01:18.819",
+      "text": "(Dancing in the night)",
+      "translation": null
+    },
+    {
+      "time": 80.828,
+      "time_str": "01:20.828",
+      "text": "这种日子不好过",
+      "translation": null
+    },
+    {
+      "time": 83.039,
+      "time_str": "01:23.039",
+      "text": "把承诺交给你",
+      "translation": null
+    },
+    {
+      "time": 85.023,
+      "time_str": "01:25.023",
+      "text": "把微笑当作信",
+      "translation": null
+    },
+    {
+      "time": 87.071,
+      "time_str": "01:27.071",
+      "text": "却怎么也抓不住你",
+      "translation": null
+    },
+    {
+      "time": 90.379,
+      "time_str": "01:30.379",
+      "text": "对你爱爱爱不完",
+      "translation": null
+    },
+    {
+      "time": 94.09,
+      "time_str": "01:34.090",
+      "text": "我可以天天月月年年到永远",
+      "translation": null
+    },
+    {
+      "time": 98.359,
+      "time_str": "01:38.359",
+      "text": "So we love love love tonight",
+      "translation": null
+    },
+    {
+      "time": 102.082,
+      "time_str": "01:42.082",
+      "text": "不愿意丝丝点点些些去面对",
+      "translation": null
+    },
+    {
+      "time": 106.412,
+      "time_str": "01:46.412",
+      "text": "对你爱爱爱不完",
+      "translation": null
+    },
+    {
+      "time": 110.181,
+      "time_str": "01:50.181",
+      "text": "相爱 原本 总是 这么难",
+      "translation": null
+    },
+    {
+      "time": 130.981,
+      "time_str": "02:10.981",
+      "text": "风吹得路好长",
+      "translation": null
+    },
+    {
+      "time": 133.038,
+      "time_str": "02:13.038",
+      "text": "一颗心晃呀晃",
+      "translation": null
+    },
+    {
+      "time": 135.063,
+      "time_str": "02:15.063",
+      "text": "多想找人陪我逛",
+      "translation": null
+    },
+    {
+      "time": 137.045,
+      "time_str": "02:17.045",
+      "text": "累了睡在马路上",
+      "translation": null
+    },
+    {
+      "time": 139.061,
+      "time_str": "02:19.061",
+      "text": "表面上很倔强",
+      "translation": null
+    },
+    {
+      "time": 141.109,
+      "time_str": "02:21.109",
+      "text": "其实内心一团糟",
+      "translation": null
+    },
+    {
+      "time": 143.339,
+      "time_str": "02:23.339",
+      "text": "怕自己爱得像太阳",
+      "translation": null
+    },
+    {
+      "time": 147.037,
+      "time_str": "02:27.037",
+      "text": "(Hey, let's go)",
+      "translation": null
+    },
+    {
+      "time": 149.092,
+      "time_str": "02:29.092",
+      "text": "胸中藏着一把火",
+      "translation": null
+    },
+    {
+      "time": 151.088,
+      "time_str": "02:31.088",
+      "text": "(Dancing in the night)",
+      "translation": null
+    },
+    {
+      "time": 153.097,
+      "time_str": "02:33.097",
+      "text": "这种日子不好过",
+      "translation": null
+    },
+    {
+      "time": 155.301,
+      "time_str": "02:35.301",
+      "text": "把承诺交给你",
+      "translation": null
+    },
+    {
+      "time": 157.341,
+      "time_str": "02:37.341",
+      "text": "把微笑当作信",
+      "translation": null
+    },
+    {
+      "time": 159.338,
+      "time_str": "02:39.338",
+      "text": "却怎么也抓不住你",
+      "translation": null
+    },
+    {
+      "time": 162.595,
+      "time_str": "02:42.595",
+      "text": "对你爱爱爱不完",
+      "translation": null
+    },
+    {
+      "time": 166.375,
+      "time_str": "02:46.375",
+      "text": "我可以天天月月年年到永远",
+      "translation": null
+    },
+    {
+      "time": 170.647,
+      "time_str": "02:50.647",
+      "text": "So we love love love tonight",
+      "translation": null
+    },
+    {
+      "time": 174.415,
+      "time_str": "02:54.415",
+      "text": "不愿意丝丝点点些些去面对",
+      "translation": null
+    },
+    {
+      "time": 178.696,
+      "time_str": "02:58.696",
+      "text": "对你爱爱爱不完",
+      "translation": null
+    },
+    {
+      "time": 182.438,
+      "time_str": "03:02.438",
+      "text": "相爱 原本 总是 这么难",
+      "translation": null
+    },
+    {
+      "time": 210.824,
+      "time_str": "03:30.824",
+      "text": "对你爱爱爱不完",
+      "translation": null
+    },
+    {
+      "time": 214.553,
+      "time_str": "03:34.553",
+      "text": "我可以天天月月年年到永远",
+      "translation": null
+    },
+    {
+      "time": 218.829,
+      "time_str": "03:38.829",
+      "text": "So we love love love tonight",
+      "translation": null
+    },
+    {
+      "time": 222.602,
+      "time_str": "03:42.602",
+      "text": "不愿意丝丝点点些些去面对",
+      "translation": null
+    },
+    {
+      "time": 226.84,
+      "time_str": "03:46.840",
+      "text": "对你爱爱爱不完",
+      "translation": null
+    },
+    {
+      "time": 230.623,
+      "time_str": "03:50.623",
+      "text": "相爱 原本 总是 这么难",
+      "translation": null
+    },
+    {
+      "time": 234.869,
+      "time_str": "03:54.869",
+      "text": "对你爱爱爱不完",
+      "translation": null
+    },
+    {
+      "time": 238.693,
+      "time_str": "03:58.693",
+      "text": "我可以天天月月年年到永远",
+      "translation": null
+    },
+    {
+      "time": 242.948,
+      "time_str": "04:02.948",
+      "text": "So we love love love tonight",
+      "translation": null
+    },
+    {
+      "time": 246.711,
+      "time_str": "04:06.711",
+      "text": "不愿意丝丝点点些些去面对",
+      "translation": null
+    },
+    {
+      "time": 250.981,
+      "time_str": "04:10.981",
+      "text": "对你爱爱爱不完",
+      "translation": null
+    },
+    {
+      "time": 254.646,
+      "time_str": "04:14.646",
+      "text": "相爱 原本 总是 这么难",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "对你爱不完 - 郭富城.lrc"
+}

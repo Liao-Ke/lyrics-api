@@ -1,0 +1,196 @@
+{
+  "title": "够钟",
+  "title_raw": "够钟",
+  "version": null,
+  "artist": "周柏豪",
+  "group_key": "够钟|周柏豪",
+  "writers": {
+    "lyricist": "冯曦妤",
+    "composer": "周国贤",
+    "arranger": "周国贤"
+  },
+  "lyrics": [
+    {
+      "time": 15.5,
+      "time_str": "00:15.500",
+      "text": "像我这样 成就或太牵强",
+      "translation": null
+    },
+    {
+      "time": 21.87,
+      "time_str": "00:21.870",
+      "text": "而像你这样 每一位也心痒",
+      "translation": null
+    },
+    {
+      "time": 28.64,
+      "time_str": "00:28.640",
+      "text": "清楚 你未暗示我 是我幻想",
+      "translation": null
+    },
+    {
+      "time": 32.92,
+      "time_str": "00:32.920",
+      "text": "给我想太多 导致内伤",
+      "translation": null
+    },
+    {
+      "time": 36.33,
+      "time_str": "00:36.330",
+      "text": "迷药快过 回复正常",
+      "translation": null
+    },
+    {
+      "time": 42.0,
+      "time_str": "00:42.000",
+      "text": "够钟死心了",
+      "translation": null
+    },
+    {
+      "time": 44.41,
+      "time_str": "00:44.410",
+      "text": "当你沉默得高调",
+      "translation": null
+    },
+    {
+      "time": 47.88,
+      "time_str": "00:47.880",
+      "text": "当得我历劫低潮",
+      "translation": null
+    },
+    {
+      "time": 51.24,
+      "time_str": "00:51.240",
+      "text": "为何尚要打扰",
+      "translation": null
+    },
+    {
+      "time": 55.56,
+      "time_str": "00:55.560",
+      "text": "过几多通宵 至肯醒觉才愿退烧",
+      "translation": null
+    },
+    {
+      "time": 63.29,
+      "time_str": "01:03.290",
+      "text": "爱不了 却偏走不了 别说笑",
+      "translation": null
+    },
+    {
+      "time": 77.14,
+      "time_str": "01:17.140",
+      "text": "没有感受 灵魂被你拖走",
+      "translation": null
+    },
+    {
+      "time": 83.56,
+      "time_str": "01:23.560",
+      "text": "缠在你左右 我乞讨等接收",
+      "translation": null
+    },
+    {
+      "time": 90.29,
+      "time_str": "01:30.290",
+      "text": "风沙扑面我未怕 为你暴走",
+      "translation": null
+    },
+    {
+      "time": 94.73,
+      "time_str": "01:34.730",
+      "text": "惊觉只有沙 没有绿洲",
+      "translation": null
+    },
+    {
+      "time": 98.1,
+      "time_str": "01:38.100",
+      "text": "还是放弃 无谓献丑",
+      "translation": null
+    },
+    {
+      "time": 103.82,
+      "time_str": "01:43.820",
+      "text": "够钟死心了",
+      "translation": null
+    },
+    {
+      "time": 106.18,
+      "time_str": "01:46.180",
+      "text": "当你沉默得高调",
+      "translation": null
+    },
+    {
+      "time": 109.7,
+      "time_str": "01:49.700",
+      "text": "当得我历劫低潮",
+      "translation": null
+    },
+    {
+      "time": 113.06,
+      "time_str": "01:53.060",
+      "text": "为何尚要骚扰",
+      "translation": null
+    },
+    {
+      "time": 117.38,
+      "time_str": "01:57.380",
+      "text": "过几多通宵 至肯醒觉才愿退烧",
+      "translation": null
+    },
+    {
+      "time": 125.17,
+      "time_str": "02:05.170",
+      "text": "爱不了 却偏走不了 没救了",
+      "translation": null
+    },
+    {
+      "time": 160.27,
+      "time_str": "02:40.270",
+      "text": "一蹶不振的我从今起好应该自量",
+      "translation": null
+    },
+    {
+      "time": 166.24,
+      "time_str": "02:46.240",
+      "text": "面对高贵漂亮的扮相",
+      "translation": null
+    },
+    {
+      "time": 169.6,
+      "time_str": "02:49.600",
+      "text": "别妄想高攀得到金奖",
+      "translation": null
+    },
+    {
+      "time": 174.76,
+      "time_str": "02:54.760",
+      "text": "何事落到这收场 枯死在你的手上",
+      "translation": null
+    },
+    {
+      "time": 181.76,
+      "time_str": "03:01.760",
+      "text": "风花月似戏一场 遗容任你瞻仰",
+      "translation": null
+    },
+    {
+      "time": 189.39,
+      "time_str": "03:09.390",
+      "text": "壮观得夸张 你可会流着泪冥想",
+      "translation": null
+    },
+    {
+      "time": 197.07,
+      "time_str": "03:17.070",
+      "text": "最终你 吐出这一句 别勉强",
+      "translation": null
+    },
+    {
+      "time": 226.78,
+      "time_str": "03:46.780",
+      "text": "人声 : 周柏豪",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "够钟 - 周柏豪.lrc"
+}

@@ -1,0 +1,334 @@
+{
+  "title": "As Long as You Love Me",
+  "title_raw": "As Long as You Love Me",
+  "version": null,
+  "artist": "Backstreet Boys",
+  "group_key": "as long as you love me|backstreet boys",
+  "writers": {
+    "lyricist": "Max Martin",
+    "composer": "Max Martin",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.72,
+      "time_str": "00:18.720",
+      "text": "Although loneliness has always been a friend of mine",
+      "translation": "虽然孤独一直是我的朋友"
+    },
+    {
+      "time": 24.08,
+      "time_str": "00:24.080",
+      "text": "I'm leaving my life in your hands",
+      "translation": "但我正将我的一切交给你"
+    },
+    {
+      "time": 29.19,
+      "time_str": "00:29.190",
+      "text": "People say I'm crazy and that I am blind",
+      "translation": "人们说我被感情冲昏了脑袋"
+    },
+    {
+      "time": 34.0,
+      "time_str": "00:34.000",
+      "text": "Risking it all in a glance",
+      "translation": "竟转眼间赌上未来"
+    },
+    {
+      "time": 38.87,
+      "time_str": "00:38.870",
+      "text": "How you got me blind is still a mystery",
+      "translation": "你怎会让我不顾一切还是个谜"
+    },
+    {
+      "time": 43.56,
+      "time_str": "00:43.560",
+      "text": "I can't get you out of my head",
+      "translation": "我就是无法忘了你"
+    },
+    {
+      "time": 48.63,
+      "time_str": "00:48.630",
+      "text": "Don't care what is written in your history",
+      "translation": "我不在乎你过去的种种"
+    },
+    {
+      "time": 53.63,
+      "time_str": "00:53.630",
+      "text": "As long as you're here with me",
+      "translation": "只要你陪在我身边"
+    },
+    {
+      "time": 57.0,
+      "time_str": "00:57.000",
+      "text": "I don't care who you are",
+      "translation": "我不在乎你是怎样的人"
+    },
+    {
+      "time": 60.44,
+      "time_str": "01:00.440",
+      "text": "Where you're from",
+      "translation": "你从哪里来"
+    },
+    {
+      "time": 62.88,
+      "time_str": "01:02.880",
+      "text": "What you did",
+      "translation": "你做过什么"
+    },
+    {
+      "time": 65.25,
+      "time_str": "01:05.250",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 67.87,
+      "time_str": "01:07.870",
+      "text": "Who you are",
+      "translation": "你是怎样的人"
+    },
+    {
+      "time": 70.13,
+      "time_str": "01:10.130",
+      "text": "Where you're from",
+      "translation": "你从哪里来"
+    },
+    {
+      "time": 72.31,
+      "time_str": "01:12.310",
+      "text": "Don't care what you did",
+      "translation": "别在意你做过什么"
+    },
+    {
+      "time": 74.88,
+      "time_str": "01:14.880",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 78.0,
+      "time_str": "01:18.000",
+      "text": "Every little thing that you have said and done",
+      "translation": "所有你说过的话和做过的事"
+    },
+    {
+      "time": 82.84,
+      "time_str": "01:22.840",
+      "text": "Feels like it's deep within me",
+      "translation": "仿佛深深的烙印在我心里"
+    },
+    {
+      "time": 88.74,
+      "time_str": "01:28.740",
+      "text": "Doesn't really matter if you're on the run",
+      "translation": "我甚至于不在乎你是否就要逃开"
+    },
+    {
+      "time": 93.43,
+      "time_str": "01:33.430",
+      "text": "It seems like we're meant to be",
+      "translation": "我们似乎命中注定"
+    },
+    {
+      "time": 97.08,
+      "time_str": "01:37.080",
+      "text": "I don't care who you are",
+      "translation": "我不在乎你是怎样的人"
+    },
+    {
+      "time": 101.0,
+      "time_str": "01:41.000",
+      "text": "Where you're from",
+      "translation": "你从哪里来"
+    },
+    {
+      "time": 103.06,
+      "time_str": "01:43.060",
+      "text": "What you did",
+      "translation": "你做过什么"
+    },
+    {
+      "time": 105.25,
+      "time_str": "01:45.250",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 108.0,
+      "time_str": "01:48.000",
+      "text": "Who you are",
+      "translation": "你是怎样的人"
+    },
+    {
+      "time": 110.71,
+      "time_str": "01:50.710",
+      "text": "Where you're from",
+      "translation": "你从哪里来"
+    },
+    {
+      "time": 112.53,
+      "time_str": "01:52.530",
+      "text": "Don't care what you did",
+      "translation": "我不在乎你做过什么"
+    },
+    {
+      "time": 115.24,
+      "time_str": "01:55.240",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 124.93,
+      "time_str": "02:04.930",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 129.53,
+      "time_str": "02:09.530",
+      "text": "I've tried to hide it so that no one knows",
+      "translation": "我试着把感情隐藏起来不让任何人知道"
+    },
+    {
+      "time": 133.2,
+      "time_str": "02:13.200",
+      "text": "But I guess it shows",
+      "translation": "但我猜它还是流露了"
+    },
+    {
+      "time": 135.7,
+      "time_str": "02:15.700",
+      "text": "When you look into my eyes",
+      "translation": "当你凝视着我时"
+    },
+    {
+      "time": 139.26,
+      "time_str": "02:19.260",
+      "text": "What you did and where you're coming from",
+      "translation": "你做过什么从哪里来"
+    },
+    {
+      "time": 143.03,
+      "time_str": "02:23.030",
+      "text": "I don't care as long as you love me baby",
+      "translation": "我不在乎,只要你爱我就好,宝贝!"
+    },
+    {
+      "time": 156.91,
+      "time_str": "02:36.910",
+      "text": "I don't care who you are",
+      "translation": "我不在乎你是怎样的人"
+    },
+    {
+      "time": 160.7,
+      "time_str": "02:40.700",
+      "text": "Where you're from",
+      "translation": "你从哪里来"
+    },
+    {
+      "time": 163.08,
+      "time_str": "02:43.080",
+      "text": "What you did",
+      "translation": "你做过什么"
+    },
+    {
+      "time": 165.27,
+      "time_str": "02:45.270",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 168.02,
+      "time_str": "02:48.020",
+      "text": "Who you are",
+      "translation": "你是怎样的人"
+    },
+    {
+      "time": 170.27,
+      "time_str": "02:50.270",
+      "text": "Where you're from",
+      "translation": "你从哪里来"
+    },
+    {
+      "time": 172.58,
+      "time_str": "02:52.580",
+      "text": "Don't care what you did",
+      "translation": "我不在乎你做过什么"
+    },
+    {
+      "time": 175.3,
+      "time_str": "02:55.300",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 179.36,
+      "time_str": "02:59.360",
+      "text": "Who you are",
+      "translation": "你是怎样的人"
+    },
+    {
+      "time": 181.43,
+      "time_str": "03:01.430",
+      "text": "Where you're from",
+      "translation": "你从哪里来"
+    },
+    {
+      "time": 183.86,
+      "time_str": "03:03.860",
+      "text": "What you did",
+      "translation": "我不在乎你做过什么"
+    },
+    {
+      "time": 186.11,
+      "time_str": "03:06.110",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 188.86,
+      "time_str": "03:08.860",
+      "text": "Who you are",
+      "translation": "你是怎样的人"
+    },
+    {
+      "time": 191.49,
+      "time_str": "03:11.490",
+      "text": "Where you're from",
+      "translation": "你从哪里来"
+    },
+    {
+      "time": 194.74,
+      "time_str": "03:14.740",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 197.37,
+      "time_str": "03:17.370",
+      "text": "Who you are",
+      "translation": "你是怎样的人"
+    },
+    {
+      "time": 199.62,
+      "time_str": "03:19.620",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 202.24,
+      "time_str": "03:22.240",
+      "text": "What you did",
+      "translation": "你做过什么"
+    },
+    {
+      "time": 203.99,
+      "time_str": "03:23.990",
+      "text": "I don't care as long as you love me",
+      "translation": "我不在乎 只要你爱我就好"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "As Long as You Love Me - Backstreet Boys.lrc"
+}

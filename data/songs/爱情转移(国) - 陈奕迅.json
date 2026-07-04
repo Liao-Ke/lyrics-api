@@ -1,0 +1,370 @@
+{
+  "title": "爱情转移",
+  "title_raw": "爱情转移(国)",
+  "version": "国",
+  "artist": "陈奕迅",
+  "group_key": "爱情转移|陈奕迅",
+  "writers": {
+    "lyricist": null,
+    "composer": "Christopher Chak",
+    "arranger": "陈珀/C. Y. Kong"
+  },
+  "lyrics": [
+    {
+      "time": 24.279,
+      "time_str": "00:24.279",
+      "text": "徘徊过多少橱窗 住过多少旅馆",
+      "translation": null
+    },
+    {
+      "time": 28.736,
+      "time_str": "00:28.736",
+      "text": "才会觉得分离也并不冤枉",
+      "translation": null
+    },
+    {
+      "time": 33.27,
+      "time_str": "00:33.270",
+      "text": "感情是用来浏览 还是用来珍藏",
+      "translation": null
+    },
+    {
+      "time": 37.927,
+      "time_str": "00:37.927",
+      "text": "好让日子天天都过得难忘",
+      "translation": null
+    },
+    {
+      "time": 42.49,
+      "time_str": "00:42.490",
+      "text": "熬过了多久患难 湿了多长眼眶",
+      "translation": null
+    },
+    {
+      "time": 47.032,
+      "time_str": "00:47.032",
+      "text": "才能知道伤感是爱的遗产",
+      "translation": null
+    },
+    {
+      "time": 51.629,
+      "time_str": "00:51.629",
+      "text": "流浪几张双人床 换过几次信仰",
+      "translation": null
+    },
+    {
+      "time": 56.213,
+      "time_str": "00:56.213",
+      "text": "才让戒指义无反顾的交换",
+      "translation": null
+    },
+    {
+      "time": 60.77,
+      "time_str": "01:00.770",
+      "text": "把一个人的温暖 转移到另一个的胸膛",
+      "translation": null
+    },
+    {
+      "time": 65.92,
+      "time_str": "01:05.920",
+      "text": "让上次犯的错反省出梦想",
+      "translation": null
+    },
+    {
+      "time": 70.485,
+      "time_str": "01:10.485",
+      "text": "每个人都是这样 享受过提心吊胆",
+      "translation": null
+    },
+    {
+      "time": 74.992,
+      "time_str": "01:14.992",
+      "text": "才拒绝做爱情待罪的羔羊",
+      "translation": null
+    },
+    {
+      "time": 79.62,
+      "time_str": "01:19.620",
+      "text": "回忆是抓不到的月光握紧就变黑暗",
+      "translation": null
+    },
+    {
+      "time": 84.218,
+      "time_str": "01:24.218",
+      "text": "等虚假的背影消失于晴朗",
+      "translation": null
+    },
+    {
+      "time": 88.769,
+      "time_str": "01:28.769",
+      "text": "阳光在身上流转 等所有业障被原谅",
+      "translation": null
+    },
+    {
+      "time": 96.297,
+      "time_str": "01:36.297",
+      "text": "爱情不停站 想开往地老天荒",
+      "translation": null
+    },
+    {
+      "time": 100.652,
+      "time_str": "01:40.652",
+      "text": "需要多勇敢",
+      "translation": null
+    },
+    {
+      "time": 104.944,
+      "time_str": "01:44.944",
+      "text": "烛光照亮了晚餐 照不出个答案",
+      "translation": null
+    },
+    {
+      "time": 109.521,
+      "time_str": "01:49.521",
+      "text": "恋爱不是温馨的请客吃饭",
+      "translation": null
+    },
+    {
+      "time": 114.081,
+      "time_str": "01:54.081",
+      "text": "床单上铺满花瓣 拥抱让它成长",
+      "translation": null
+    },
+    {
+      "time": 118.646,
+      "time_str": "01:58.646",
+      "text": "太拥挤就开到了别的土壤",
+      "translation": null
+    },
+    {
+      "time": 123.236,
+      "time_str": "02:03.236",
+      "text": "感情需要人接班 接近换来期望",
+      "translation": null
+    },
+    {
+      "time": 127.81,
+      "time_str": "02:07.810",
+      "text": "期望带来失望的恶性循环",
+      "translation": null
+    },
+    {
+      "time": 132.379,
+      "time_str": "02:12.379",
+      "text": "短暂的总是浪漫 漫长总会不满",
+      "translation": null
+    },
+    {
+      "time": 136.941,
+      "time_str": "02:16.941",
+      "text": "烧完美好青春换一个老伴",
+      "translation": null
+    },
+    {
+      "time": 141.538,
+      "time_str": "02:21.538",
+      "text": "把一个人的温暖 转移到另一个的胸膛",
+      "translation": null
+    },
+    {
+      "time": 146.717,
+      "time_str": "02:26.717",
+      "text": "让上次犯的错反省出梦想",
+      "translation": null
+    },
+    {
+      "time": 151.28,
+      "time_str": "02:31.280",
+      "text": "每个人都是这样 享受过提心吊胆",
+      "translation": null
+    },
+    {
+      "time": 155.818,
+      "time_str": "02:35.818",
+      "text": "才拒绝做爱情待罪的羔羊",
+      "translation": null
+    },
+    {
+      "time": 160.377,
+      "time_str": "02:40.377",
+      "text": "回忆是抓不到的月光握紧就变黑暗",
+      "translation": null
+    },
+    {
+      "time": 164.979,
+      "time_str": "02:44.979",
+      "text": "等虚假的背影消失于晴朗",
+      "translation": null
+    },
+    {
+      "time": 169.544,
+      "time_str": "02:49.544",
+      "text": "阳光在身上流转 等所有业障被原谅",
+      "translation": null
+    },
+    {
+      "time": 176.407,
+      "time_str": "02:56.407",
+      "text": "爱情不停站 想开往地老天荒",
+      "translation": null
+    },
+    {
+      "time": 181.034,
+      "time_str": "03:01.034",
+      "text": "需要多勇敢",
+      "translation": null
+    },
+    {
+      "time": 185.736,
+      "time_str": "03:05.736",
+      "text": "把一个人的温暖 转移到另一个的胸膛",
+      "translation": null
+    },
+    {
+      "time": 191.01,
+      "time_str": "03:11.010",
+      "text": "让上次犯的错反省出梦想",
+      "translation": null
+    },
+    {
+      "time": 195.732,
+      "time_str": "03:15.732",
+      "text": "每个人都是这样 享受过提心吊胆",
+      "translation": null
+    },
+    {
+      "time": 200.426,
+      "time_str": "03:20.426",
+      "text": "才拒绝做爱情待罪的羔羊",
+      "translation": null
+    },
+    {
+      "time": 205.107,
+      "time_str": "03:25.107",
+      "text": "回忆是抓不到的月光握紧就变黑暗",
+      "translation": null
+    },
+    {
+      "time": 209.831,
+      "time_str": "03:29.831",
+      "text": "等虚假的背影消失于晴朗",
+      "translation": null
+    },
+    {
+      "time": 214.578,
+      "time_str": "03:34.578",
+      "text": "阳光在身上流转 等所有业障被原谅",
+      "translation": null
+    },
+    {
+      "time": 223.687,
+      "time_str": "03:43.687",
+      "text": "爱情不停站 想开往地老天荒",
+      "translation": null
+    },
+    {
+      "time": 229.041,
+      "time_str": "03:49.041",
+      "text": "需要多勇敢",
+      "translation": null
+    },
+    {
+      "time": 234.223,
+      "time_str": "03:54.223",
+      "text": "你不要失望 荡气回肠是为了",
+      "translation": null
+    },
+    {
+      "time": 238.98,
+      "time_str": "03:58.980",
+      "text": "最美的平凡",
+      "translation": null
+    },
+    {
+      "time": 244.498,
+      "time_str": "04:04.498",
+      "text": "Produced by 梁荣骏",
+      "translation": null
+    },
+    {
+      "time": 245.498,
+      "time_str": "04:05.498",
+      "text": "Production Coordination: Stanley Leung",
+      "translation": null
+    },
+    {
+      "time": 246.498,
+      "time_str": "04:06.498",
+      "text": "Keyboards & Programming: 陈珀 / C.Y.Kong (江志仁)",
+      "translation": null
+    },
+    {
+      "time": 247.498,
+      "time_str": "04:07.498",
+      "text": "Drums: Davy Chan (陈匡荣)",
+      "translation": null
+    },
+    {
+      "time": 248.498,
+      "time_str": "04:08.498",
+      "text": "Bass: 细威",
+      "translation": null
+    },
+    {
+      "time": 249.498,
+      "time_str": "04:09.498",
+      "text": "Guitar: Joey Tang (邓建明)",
+      "translation": null
+    },
+    {
+      "time": 250.498,
+      "time_str": "04:10.498",
+      "text": "Percussion: Davy Chan & Kevin (Hardpack)",
+      "translation": null
+    },
+    {
+      "time": 251.498,
+      "time_str": "04:11.498",
+      "text": "Strings Arranged & Conducted by 陈珀",
+      "translation": null
+    },
+    {
+      "time": 252.498,
+      "time_str": "04:12.498",
+      "text": "Recorded at aroom studio & seewisehk,",
+      "translation": null
+    },
+    {
+      "time": 253.498,
+      "time_str": "04:13.498",
+      "text": "Engineered by Davy Chan, Rob Porter & C.Y.Kong",
+      "translation": null
+    },
+    {
+      "time": 254.498,
+      "time_str": "04:14.498",
+      "text": "Vocals Recorded at Avon Studios,",
+      "translation": null
+    },
+    {
+      "time": 255.498,
+      "time_str": "04:15.498",
+      "text": "Engineered by Anthony Leung",
+      "translation": null
+    },
+    {
+      "time": 256.499,
+      "time_str": "04:16.499",
+      "text": "Mixed by Simon Li at nOiz",
+      "translation": null
+    },
+    {
+      "time": 258.499,
+      "time_str": "04:18.499",
+      "text": "SP: Fujipacific Music (S.E. Asia) Ltd / Warner Chappell Music Hong Kong Limited",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱情转移(国) - 陈奕迅.lrc"
+}

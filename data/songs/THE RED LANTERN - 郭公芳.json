@@ -1,0 +1,88 @@
+{
+  "title": "THE RED LANTERN",
+  "title_raw": "THE RED LANTERN",
+  "version": null,
+  "artist": "郭公芳",
+  "group_key": "the red lantern|郭公芳",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "奶奶您听我说！",
+      "translation": null
+    },
+    {
+      "time": 6.5,
+      "time_str": "00:06.500",
+      "text": "我家的表叔,",
+      "translation": null
+    },
+    {
+      "time": 8.29,
+      "time_str": "00:08.290",
+      "text": "数不清.",
+      "translation": null
+    },
+    {
+      "time": 9.88,
+      "time_str": "00:09.880",
+      "text": "没有大事,",
+      "translation": null
+    },
+    {
+      "time": 12.71,
+      "time_str": "00:12.710",
+      "text": "不登门。",
+      "translation": null
+    },
+    {
+      "time": 14.29,
+      "time_str": "00:14.290",
+      "text": "虽说是，",
+      "translation": null
+    },
+    {
+      "time": 15.63,
+      "time_str": "00:15.630",
+      "text": "虽说是亲眷又不相认,",
+      "translation": null
+    },
+    {
+      "time": 18.8,
+      "time_str": "00:18.800",
+      "text": "可他比亲眷还要亲。",
+      "translation": null
+    },
+    {
+      "time": 21.29,
+      "time_str": "00:21.290",
+      "text": "爹爹和奶奶齐声唤亲人，",
+      "translation": null
+    },
+    {
+      "time": 26.26,
+      "time_str": "00:26.260",
+      "text": "这里的奥妙我也能猜出几分。",
+      "translation": null
+    },
+    {
+      "time": 34.89,
+      "time_str": "00:34.890",
+      "text": "他们和爹爹都一样,",
+      "translation": null
+    },
+    {
+      "time": 37.56,
+      "time_str": "00:37.560",
+      "text": "都有一颗,红亮的心。",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "THE RED LANTERN - 郭公芳.lrc"
+}

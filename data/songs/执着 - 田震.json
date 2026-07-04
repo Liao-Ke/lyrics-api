@@ -1,0 +1,316 @@
+{
+  "title": "执着",
+  "title_raw": "执着",
+  "version": null,
+  "artist": "田震",
+  "group_key": "执着|田震",
+  "writers": {
+    "lyricist": "许巍",
+    "composer": "许巍",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.63,
+      "time_str": "00:15.630",
+      "text": "每个夜晚来临的时候",
+      "translation": null
+    },
+    {
+      "time": 18.84,
+      "time_str": "00:18.840",
+      "text": "孤独总在我左右",
+      "translation": null
+    },
+    {
+      "time": 22.21,
+      "time_str": "00:22.210",
+      "text": "每个黄昏心跳的等候",
+      "translation": null
+    },
+    {
+      "time": 25.27,
+      "time_str": "00:25.270",
+      "text": "是我无限的温柔",
+      "translation": null
+    },
+    {
+      "time": 28.61,
+      "time_str": "00:28.610",
+      "text": "每次面对你的时候",
+      "translation": null
+    },
+    {
+      "time": 31.71,
+      "time_str": "00:31.710",
+      "text": "不敢看你的双眸",
+      "translation": null
+    },
+    {
+      "time": 34.92,
+      "time_str": "00:34.920",
+      "text": "在我温柔的笑容背后",
+      "translation": null
+    },
+    {
+      "time": 37.98,
+      "time_str": "00:37.980",
+      "text": "有多少泪水哀愁",
+      "translation": null
+    },
+    {
+      "time": 54.05,
+      "time_str": "00:54.050",
+      "text": "不管时空怎么转变",
+      "translation": null
+    },
+    {
+      "time": 57.35,
+      "time_str": "00:57.350",
+      "text": "世界怎么改变",
+      "translation": null
+    },
+    {
+      "time": 60.42,
+      "time_str": "01:00.420",
+      "text": "你的爱总在我心间",
+      "translation": null
+    },
+    {
+      "time": 63.6,
+      "time_str": "01:03.600",
+      "text": "你是否明白",
+      "translation": null
+    },
+    {
+      "time": 66.72,
+      "time_str": "01:06.720",
+      "text": "我想超越这平凡的生活",
+      "translation": null
+    },
+    {
+      "time": 69.99,
+      "time_str": "01:09.990",
+      "text": "注定现在暂时漂泊",
+      "translation": null
+    },
+    {
+      "time": 73.27,
+      "time_str": "01:13.270",
+      "text": "无法停止我内心的狂热",
+      "translation": null
+    },
+    {
+      "time": 76.45,
+      "time_str": "01:16.450",
+      "text": "对未来的执著",
+      "translation": null
+    },
+    {
+      "time": 82.67,
+      "time_str": "01:22.670",
+      "text": "拥抱着你OH MY BABY",
+      "translation": null
+    },
+    {
+      "time": 86.04,
+      "time_str": "01:26.040",
+      "text": "你看到我在流泪",
+      "translation": null
+    },
+    {
+      "time": 89.16,
+      "time_str": "01:29.160",
+      "text": "是否爱你让我伤悲",
+      "translation": null
+    },
+    {
+      "time": 91.96,
+      "time_str": "01:31.960",
+      "text": "让我心碎",
+      "translation": null
+    },
+    {
+      "time": 95.36,
+      "time_str": "01:35.360",
+      "text": "拥抱着你OH MY BABY",
+      "translation": null
+    },
+    {
+      "time": 98.69,
+      "time_str": "01:38.690",
+      "text": "可你知道我无法后退",
+      "translation": null
+    },
+    {
+      "time": 101.92,
+      "time_str": "01:41.920",
+      "text": "纵然使我苍白憔悴",
+      "translation": null
+    },
+    {
+      "time": 105.29,
+      "time_str": "01:45.290",
+      "text": "伤痕累累",
+      "translation": null
+    },
+    {
+      "time": 135.73,
+      "time_str": "02:15.730",
+      "text": "不管时空怎么转变",
+      "translation": null
+    },
+    {
+      "time": 138.8,
+      "time_str": "02:18.800",
+      "text": "世界怎么改变",
+      "translation": null
+    },
+    {
+      "time": 141.93,
+      "time_str": "02:21.930",
+      "text": "你的爱总在我心间",
+      "translation": null
+    },
+    {
+      "time": 145.03,
+      "time_str": "02:25.030",
+      "text": "你是否明白",
+      "translation": null
+    },
+    {
+      "time": 148.26,
+      "time_str": "02:28.260",
+      "text": "我想超越这平凡的生活",
+      "translation": null
+    },
+    {
+      "time": 151.34,
+      "time_str": "02:31.340",
+      "text": "注定现在暂时漂泊",
+      "translation": null
+    },
+    {
+      "time": 154.46,
+      "time_str": "02:34.460",
+      "text": "无法停止我内心的狂热",
+      "translation": null
+    },
+    {
+      "time": 157.88,
+      "time_str": "02:37.880",
+      "text": "对未来的执著",
+      "translation": null
+    },
+    {
+      "time": 164.05,
+      "time_str": "02:44.050",
+      "text": "拥抱着你OH MY BABY",
+      "translation": null
+    },
+    {
+      "time": 167.38,
+      "time_str": "02:47.380",
+      "text": "你看到我在流泪",
+      "translation": null
+    },
+    {
+      "time": 170.68,
+      "time_str": "02:50.680",
+      "text": "是否爱你让我伤悲",
+      "translation": null
+    },
+    {
+      "time": 173.91,
+      "time_str": "02:53.910",
+      "text": "让我心碎",
+      "translation": null
+    },
+    {
+      "time": 176.93,
+      "time_str": "02:56.930",
+      "text": "拥抱着你OH MY BABY",
+      "translation": null
+    },
+    {
+      "time": 180.24,
+      "time_str": "03:00.240",
+      "text": "可你知道我无法后退",
+      "translation": null
+    },
+    {
+      "time": 183.31,
+      "time_str": "03:03.310",
+      "text": "纵然使我苍白憔悴",
+      "translation": null
+    },
+    {
+      "time": 186.82,
+      "time_str": "03:06.820",
+      "text": "伤痕累累",
+      "translation": null
+    },
+    {
+      "time": 191.28,
+      "time_str": "03:11.280",
+      "text": "拥抱着你OH MY BABY",
+      "translation": null
+    },
+    {
+      "time": 194.47,
+      "time_str": "03:14.470",
+      "text": "你看到我在流泪",
+      "translation": null
+    },
+    {
+      "time": 197.71,
+      "time_str": "03:17.710",
+      "text": "是否爱你让我伤悲",
+      "translation": null
+    },
+    {
+      "time": 200.64,
+      "time_str": "03:20.640",
+      "text": "让我心碎",
+      "translation": null
+    },
+    {
+      "time": 204.06,
+      "time_str": "03:24.060",
+      "text": "拥抱着你OH MY BABY",
+      "translation": null
+    },
+    {
+      "time": 207.3,
+      "time_str": "03:27.300",
+      "text": "可你知道我无法后退",
+      "translation": null
+    },
+    {
+      "time": 210.5,
+      "time_str": "03:30.500",
+      "text": "纵然使我苍白憔悴",
+      "translation": null
+    },
+    {
+      "time": 213.72,
+      "time_str": "03:33.720",
+      "text": "伤痕累累",
+      "translation": null
+    },
+    {
+      "time": 218.52,
+      "time_str": "03:38.520",
+      "text": "纵然使我苍白憔悴",
+      "translation": null
+    },
+    {
+      "time": 222.2,
+      "time_str": "03:42.200",
+      "text": "伤痕累累",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "执着 - 田震.lrc"
+}

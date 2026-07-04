@@ -1,0 +1,286 @@
+{
+  "title": "两个少年",
+  "title_raw": "两个少年",
+  "version": null,
+  "artist": "卷毛TuT,8歌歌歌",
+  "group_key": "两个少年|卷毛tut,8歌歌歌",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.799,
+      "time_str": "00:00.799",
+      "text": "两个少年",
+      "translation": null
+    },
+    {
+      "time": 36.627,
+      "time_str": "00:36.627",
+      "text": "当初两个少年",
+      "translation": null
+    },
+    {
+      "time": 39.831,
+      "time_str": "00:39.831",
+      "text": "从日落唱到繁星满天",
+      "translation": null
+    },
+    {
+      "time": 45.465,
+      "time_str": "00:45.465",
+      "text": "不顾他人笑谈",
+      "translation": null
+    },
+    {
+      "time": 48.838,
+      "time_str": "00:48.838",
+      "text": "有否明天",
+      "translation": null
+    },
+    {
+      "time": 55.03,
+      "time_str": "00:55.030",
+      "text": "每个天色将晚",
+      "translation": null
+    },
+    {
+      "time": 58.205,
+      "time_str": "00:58.205",
+      "text": "每到他人都无醉不欢",
+      "translation": null
+    },
+    {
+      "time": 62.494,
+      "time_str": "01:02.494",
+      "text": "两只背影海边",
+      "translation": null
+    },
+    {
+      "time": 67.104,
+      "time_str": "01:07.104",
+      "text": "扰琴弦",
+      "translation": null
+    },
+    {
+      "time": 72.595,
+      "time_str": "01:12.595",
+      "text": "我们未来在哪相见",
+      "translation": null
+    },
+    {
+      "time": 76.539,
+      "time_str": "01:16.539",
+      "text": "别忙到只擦了肩",
+      "translation": null
+    },
+    {
+      "time": 81.18,
+      "time_str": "01:21.180",
+      "text": "又希望你几年",
+      "translation": null
+    },
+    {
+      "time": 84.485,
+      "time_str": "01:24.485",
+      "text": "忙到不得闲",
+      "translation": null
+    },
+    {
+      "time": 90.098,
+      "time_str": "01:30.098",
+      "text": "我们未来在哪相见",
+      "translation": null
+    },
+    {
+      "time": 94.139,
+      "time_str": "01:34.139",
+      "text": "谁又会在你身边",
+      "translation": null
+    },
+    {
+      "time": 98.701,
+      "time_str": "01:38.701",
+      "text": "希望有人静静",
+      "translation": null
+    },
+    {
+      "time": 102.013,
+      "time_str": "01:42.013",
+      "text": "听你描绘明天",
+      "translation": null
+    },
+    {
+      "time": 108.667,
+      "time_str": "01:48.667",
+      "text": "现在两个少年",
+      "translation": null
+    },
+    {
+      "time": 112.228,
+      "time_str": "01:52.228",
+      "text": "从艳阳奔波到霜满天",
+      "translation": null
+    },
+    {
+      "time": 117.967,
+      "time_str": "01:57.967",
+      "text": "不顾前路漫漫",
+      "translation": null
+    },
+    {
+      "time": 121.33,
+      "time_str": "02:01.330",
+      "text": "黑夜白天",
+      "translation": null
+    },
+    {
+      "time": 126.904,
+      "time_str": "02:06.904",
+      "text": "每个天色将晚",
+      "translation": null
+    },
+    {
+      "time": 130.37,
+      "time_str": "02:10.370",
+      "text": "每到他人都无醉不欢",
+      "translation": null
+    },
+    {
+      "time": 135.055,
+      "time_str": "02:15.055",
+      "text": "两只背影两边",
+      "translation": null
+    },
+    {
+      "time": 139.431,
+      "time_str": "02:19.431",
+      "text": "扰琴弦",
+      "translation": null
+    },
+    {
+      "time": 145.111,
+      "time_str": "02:25.111",
+      "text": "我们未来在哪相见",
+      "translation": null
+    },
+    {
+      "time": 148.953,
+      "time_str": "02:28.953",
+      "text": "别忙到只擦了肩",
+      "translation": null
+    },
+    {
+      "time": 153.123,
+      "time_str": "02:33.123",
+      "text": "又希望你几年",
+      "translation": null
+    },
+    {
+      "time": 156.927,
+      "time_str": "02:36.927",
+      "text": "忙到不得闲",
+      "translation": null
+    },
+    {
+      "time": 162.461,
+      "time_str": "02:42.461",
+      "text": "我们未来在哪相见",
+      "translation": null
+    },
+    {
+      "time": 167.034,
+      "time_str": "02:47.034",
+      "text": "谁又会在你身边",
+      "translation": null
+    },
+    {
+      "time": 171.116,
+      "time_str": "02:51.116",
+      "text": "希望有人静静",
+      "translation": null
+    },
+    {
+      "time": 174.411,
+      "time_str": "02:54.411",
+      "text": "听你描绘明天",
+      "translation": null
+    },
+    {
+      "time": 253.228,
+      "time_str": "04:13.228",
+      "text": "我们未来在哪相见",
+      "translation": null
+    },
+    {
+      "time": 257.689,
+      "time_str": "04:17.689",
+      "text": "别忙到只擦了肩",
+      "translation": null
+    },
+    {
+      "time": 261.76,
+      "time_str": "04:21.760",
+      "text": "又希望你几年",
+      "translation": null
+    },
+    {
+      "time": 265.632,
+      "time_str": "04:25.632",
+      "text": "忙到不得闲",
+      "translation": null
+    },
+    {
+      "time": 271.227,
+      "time_str": "04:31.227",
+      "text": "我们未来在哪相见",
+      "translation": null
+    },
+    {
+      "time": 275.756,
+      "time_str": "04:35.756",
+      "text": "谁又会在你身边",
+      "translation": null
+    },
+    {
+      "time": 279.827,
+      "time_str": "04:39.827",
+      "text": "希望有人静静",
+      "translation": null
+    },
+    {
+      "time": 283.063,
+      "time_str": "04:43.063",
+      "text": "听你描绘明天",
+      "translation": null
+    },
+    {
+      "time": 290.696,
+      "time_str": "04:50.696",
+      "text": "当初两个少年",
+      "translation": null
+    },
+    {
+      "time": 293.428,
+      "time_str": "04:53.428",
+      "text": "从日落唱到繁星满天",
+      "translation": null
+    },
+    {
+      "time": 298.989,
+      "time_str": "04:58.989",
+      "text": "不顾他人笑谈",
+      "translation": null
+    },
+    {
+      "time": 302.469,
+      "time_str": "05:02.469",
+      "text": "有否明天",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "两个少年 - 卷毛TuT,8歌歌歌.lrc"
+}

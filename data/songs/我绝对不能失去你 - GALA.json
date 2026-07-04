@@ -1,0 +1,202 @@
+{
+  "title": "我绝对不能失去你",
+  "title_raw": "我绝对不能失去你",
+  "version": null,
+  "artist": "GALA",
+  "group_key": "我绝对不能失去你|gala",
+  "writers": {
+    "lyricist": "苏朵",
+    "composer": "苏朵/石亮",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 32.48,
+      "time_str": "00:32.480",
+      "text": "嘿 睡了吗",
+      "translation": null
+    },
+    {
+      "time": 38.06,
+      "time_str": "00:38.060",
+      "text": "很久没通过话",
+      "translation": null
+    },
+    {
+      "time": 44.13,
+      "time_str": "00:44.130",
+      "text": "天 快亮了",
+      "translation": null
+    },
+    {
+      "time": 49.31,
+      "time_str": "00:49.310",
+      "text": "被子盖好了吗",
+      "translation": null
+    },
+    {
+      "time": 54.87,
+      "time_str": "00:54.870",
+      "text": "翻过了青春才发现你留恋过的篇章永不凋谢",
+      "translation": null
+    },
+    {
+      "time": 62.06,
+      "time_str": "01:02.060",
+      "text": "捱过了四季才明白你就是我追随不落的日月",
+      "translation": null
+    },
+    {
+      "time": 69.61,
+      "time_str": "01:09.610",
+      "text": "我曾经多么的无知",
+      "translation": null
+    },
+    {
+      "time": 73.51,
+      "time_str": "01:13.510",
+      "text": "我绝对不能失去你",
+      "translation": null
+    },
+    {
+      "time": 77.45,
+      "time_str": "01:17.450",
+      "text": "在你的怀里",
+      "translation": null
+    },
+    {
+      "time": 79.6,
+      "time_str": "01:19.600",
+      "text": "才可以做梦活得像个孩子",
+      "translation": null
+    },
+    {
+      "time": 84.35,
+      "time_str": "01:24.350",
+      "text": "原谅我年少不羁",
+      "translation": null
+    },
+    {
+      "time": 89.03,
+      "time_str": "01:29.030",
+      "text": "半世流离形影只",
+      "translation": null
+    },
+    {
+      "time": 93.2,
+      "time_str": "01:33.200",
+      "text": "没桨的船已废弃",
+      "translation": null
+    },
+    {
+      "time": 97.12,
+      "time_str": "01:37.120",
+      "text": "不要让我沉下去",
+      "translation": null
+    },
+    {
+      "time": 118.54,
+      "time_str": "01:58.540",
+      "text": "baby 感谢你",
+      "translation": null
+    },
+    {
+      "time": 125.0,
+      "time_str": "02:05.000",
+      "text": "还听我说话",
+      "translation": null
+    },
+    {
+      "time": 131.18,
+      "time_str": "02:11.180",
+      "text": "我 恨自己",
+      "translation": null
+    },
+    {
+      "time": 136.34,
+      "time_str": "02:16.340",
+      "text": "带给你伤疤",
+      "translation": null
+    },
+    {
+      "time": 139.6,
+      "time_str": "02:19.600",
+      "text": "我曾经多么的无知",
+      "translation": null
+    },
+    {
+      "time": 143.48,
+      "time_str": "02:23.480",
+      "text": "我绝对不能失去你",
+      "translation": null
+    },
+    {
+      "time": 147.34,
+      "time_str": "02:27.340",
+      "text": "在你的怀里",
+      "translation": null
+    },
+    {
+      "time": 149.24,
+      "time_str": "02:29.240",
+      "text": "才可以做梦活得像个孩子",
+      "translation": null
+    },
+    {
+      "time": 155.25,
+      "time_str": "02:35.250",
+      "text": "原谅我年少不羁",
+      "translation": null
+    },
+    {
+      "time": 159.09,
+      "time_str": "02:39.090",
+      "text": "半世飘零形影只",
+      "translation": null
+    },
+    {
+      "time": 162.67,
+      "time_str": "02:42.670",
+      "text": "折翅风筝在哭泣",
+      "translation": null
+    },
+    {
+      "time": 166.65,
+      "time_str": "02:46.650",
+      "text": "不要让我随风去",
+      "translation": null
+    },
+    {
+      "time": 170.89,
+      "time_str": "02:50.890",
+      "text": "越过了高山才发现那里的雪莲没有你更纯洁",
+      "translation": null
+    },
+    {
+      "time": 177.92,
+      "time_str": "02:57.920",
+      "text": "跨过了海洋才明白那里的飓风没有你更狂野",
+      "translation": null
+    },
+    {
+      "time": 185.8,
+      "time_str": "03:05.800",
+      "text": "翻过了青春才发现你流连过的篇章永不凋谢",
+      "translation": null
+    },
+    {
+      "time": 193.42,
+      "time_str": "03:13.420",
+      "text": "捱过了四季才明白你就是我追随不落的日月",
+      "translation": null
+    },
+    {
+      "time": 201.63,
+      "time_str": "03:21.630",
+      "text": "Wow... ...Yeah... ...",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我绝对不能失去你 - GALA.lrc"
+}

@@ -1,0 +1,292 @@
+{
+  "title": "错季",
+  "title_raw": "错季",
+  "version": null,
+  "artist": "秋原依",
+  "group_key": "错季|秋原依",
+  "writers": {
+    "lyricist": "江辉",
+    "composer": "朱海威",
+    "arranger": "张相楠"
+  },
+  "lyrics": [
+    {
+      "time": 35.09,
+      "time_str": "00:35.090",
+      "text": "话题结束在最炎热的天气",
+      "translation": null
+    },
+    {
+      "time": 42.28,
+      "time_str": "00:42.280",
+      "text": "分手两个字就像一句咒语",
+      "translation": null
+    },
+    {
+      "time": 49.87,
+      "time_str": "00:49.870",
+      "text": "意外打开封印 我误闯入冬季",
+      "translation": null
+    },
+    {
+      "time": 55.49,
+      "time_str": "00:55.490",
+      "text": "眼看着身体 正在快速结冰",
+      "translation": null
+    },
+    {
+      "time": 65.07,
+      "time_str": "01:05.070",
+      "text": "折射的阳光没有一点暖意",
+      "translation": null
+    },
+    {
+      "time": 72.25,
+      "time_str": "01:12.250",
+      "text": "我只能闭上眼睛 任凭绝望侵袭",
+      "translation": null
+    },
+    {
+      "time": 79.55,
+      "time_str": "01:19.550",
+      "text": "最后一次深呼吸 竟然自主记忆",
+      "translation": null
+    },
+    {
+      "time": 85.08,
+      "time_str": "01:25.080",
+      "text": "我可能还是希望留下你",
+      "translation": null
+    },
+    {
+      "time": 88.67,
+      "time_str": "01:28.670",
+      "text": "你的气息",
+      "translation": null
+    },
+    {
+      "time": 92.76,
+      "time_str": "01:32.760",
+      "text": "春的颜色不走进秋季",
+      "translation": null
+    },
+    {
+      "time": 95.56,
+      "time_str": "01:35.560",
+      "text": "有些爱情就经不起季节轮替",
+      "translation": null
+    },
+    {
+      "time": 99.36,
+      "time_str": "01:39.360",
+      "text": "我情愿被世界隔离",
+      "translation": null
+    },
+    {
+      "time": 101.76,
+      "time_str": "01:41.760",
+      "text": "也不愿意去面对着你的善意",
+      "translation": null
+    },
+    {
+      "time": 107.75,
+      "time_str": "01:47.750",
+      "text": "夏的炙热不温暖冬季",
+      "translation": null
+    },
+    {
+      "time": 110.47,
+      "time_str": "01:50.470",
+      "text": "而我只能停在原地无法破冰",
+      "translation": null
+    },
+    {
+      "time": 114.34,
+      "time_str": "01:54.340",
+      "text": "强烈的挣扎以后终于开始脱力",
+      "translation": null
+    },
+    {
+      "time": 118.71,
+      "time_str": "01:58.710",
+      "text": "被迫冷静",
+      "translation": null
+    },
+    {
+      "time": 136.0,
+      "time_str": "02:16.000",
+      "text": "折射的阳光没有一点暖意",
+      "translation": null
+    },
+    {
+      "time": 143.29,
+      "time_str": "02:23.290",
+      "text": "我只能闭上眼睛 任凭绝望侵袭",
+      "translation": null
+    },
+    {
+      "time": 150.89,
+      "time_str": "02:30.890",
+      "text": "最后一次深呼吸 竟然自主记忆",
+      "translation": null
+    },
+    {
+      "time": 156.5,
+      "time_str": "02:36.500",
+      "text": "我可能还是希望留下你",
+      "translation": null
+    },
+    {
+      "time": 159.91,
+      "time_str": "02:39.910",
+      "text": "你的气息",
+      "translation": null
+    },
+    {
+      "time": 163.87,
+      "time_str": "02:43.870",
+      "text": "春的颜色不走进秋季",
+      "translation": null
+    },
+    {
+      "time": 166.81,
+      "time_str": "02:46.810",
+      "text": "有些爱情就经不起季节轮替",
+      "translation": null
+    },
+    {
+      "time": 170.59,
+      "time_str": "02:50.590",
+      "text": "我情愿被世界隔离",
+      "translation": null
+    },
+    {
+      "time": 173.03,
+      "time_str": "02:53.030",
+      "text": "也不愿意去面对着你的善意",
+      "translation": null
+    },
+    {
+      "time": 178.88,
+      "time_str": "02:58.880",
+      "text": "夏的炙热不温暖冬季",
+      "translation": null
+    },
+    {
+      "time": 181.77,
+      "time_str": "03:01.770",
+      "text": "而我只能停在原地无法破冰",
+      "translation": null
+    },
+    {
+      "time": 185.53,
+      "time_str": "03:05.530",
+      "text": "强烈的挣扎以后终于开始脱力",
+      "translation": null
+    },
+    {
+      "time": 189.89,
+      "time_str": "03:09.890",
+      "text": "被迫冷静",
+      "translation": null
+    },
+    {
+      "time": 195.57,
+      "time_str": "03:15.570",
+      "text": "季节在轮替时本该有交错",
+      "translation": null
+    },
+    {
+      "time": 199.15,
+      "time_str": "03:19.150",
+      "text": "你最后迫不及待选择越过",
+      "translation": null
+    },
+    {
+      "time": 202.96,
+      "time_str": "03:22.960",
+      "text": "春秋和夏冬间存在的间隔",
+      "translation": null
+    },
+    {
+      "time": 206.05,
+      "time_str": "03:26.050",
+      "text": "我只能看着这种距离沉默",
+      "translation": null
+    },
+    {
+      "time": 212.7,
+      "time_str": "03:32.700",
+      "text": "憧憬了很多 幻想了很多",
+      "translation": null
+    },
+    {
+      "time": 215.45,
+      "time_str": "03:35.450",
+      "text": "竟然构造出一座 空中楼阁",
+      "translation": null
+    },
+    {
+      "time": 220.79,
+      "time_str": "03:40.790",
+      "text": "坍塌后无法阻止坠落",
+      "translation": null
+    },
+    {
+      "time": 225.94,
+      "time_str": "03:45.940",
+      "text": "春的颜色不走进秋季",
+      "translation": null
+    },
+    {
+      "time": 228.75,
+      "time_str": "03:48.750",
+      "text": "有些爱情就经不起季节轮替",
+      "translation": null
+    },
+    {
+      "time": 232.46,
+      "time_str": "03:52.460",
+      "text": "我情愿被世界隔离",
+      "translation": null
+    },
+    {
+      "time": 234.93,
+      "time_str": "03:54.930",
+      "text": "也不愿意去面对着你的善意",
+      "translation": null
+    },
+    {
+      "time": 240.76,
+      "time_str": "04:00.760",
+      "text": "夏的炙热不温暖冬季",
+      "translation": null
+    },
+    {
+      "time": 243.6,
+      "time_str": "04:03.600",
+      "text": "而我只能停在原地无法破冰",
+      "translation": null
+    },
+    {
+      "time": 247.35,
+      "time_str": "04:07.350",
+      "text": "强烈的挣扎以后终于开始脱力",
+      "translation": null
+    },
+    {
+      "time": 251.63,
+      "time_str": "04:11.630",
+      "text": "被迫冷静",
+      "translation": null
+    },
+    {
+      "time": 266.7,
+      "time_str": "04:26.700",
+      "text": "策划 : 程然",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "错季 - 秋原依.lrc"
+}

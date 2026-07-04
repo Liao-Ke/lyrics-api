@@ -1,0 +1,214 @@
+{
+  "title": "最远的你是我最近的爱",
+  "title_raw": "最远的你是我最近的爱",
+  "version": null,
+  "artist": "车继铃",
+  "group_key": "最远的你是我最近的爱|车继铃",
+  "writers": {
+    "lyricist": "沈陵",
+    "composer": "史俊鹏",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 26.5,
+      "time_str": "00:26.500",
+      "text": "夜已沉默心事向谁说",
+      "translation": null
+    },
+    {
+      "time": 34.5,
+      "time_str": "00:34.500",
+      "text": "不肯回头所有的爱都错过",
+      "translation": null
+    },
+    {
+      "time": 41.5,
+      "time_str": "00:41.500",
+      "text": "别笑我懦弱我始终不能猜透",
+      "translation": null
+    },
+    {
+      "time": 47.8,
+      "time_str": "00:47.800",
+      "text": "为何人生淡泊",
+      "translation": null
+    },
+    {
+      "time": 54.8,
+      "time_str": "00:54.800",
+      "text": "风雨之后无所谓拥有",
+      "translation": null
+    },
+    {
+      "time": 60.8,
+      "time_str": "01:00.800",
+      "text": "萍水相逢你却给我那么多",
+      "translation": null
+    },
+    {
+      "time": 67.8,
+      "time_str": "01:07.800",
+      "text": "你挡住寒冬温暖只保留给我",
+      "translation": null
+    },
+    {
+      "time": 75.1,
+      "time_str": "01:15.100",
+      "text": "风霜寂寞凋落在你的怀中",
+      "translation": null
+    },
+    {
+      "time": 83.1,
+      "time_str": "01:23.100",
+      "text": "人生风景在游走",
+      "translation": null
+    },
+    {
+      "time": 87.1,
+      "time_str": "01:27.100",
+      "text": "每当孤独我回首",
+      "translation": null
+    },
+    {
+      "time": 90.7,
+      "time_str": "01:30.700",
+      "text": "你的爱总在不远地方等着我",
+      "translation": null
+    },
+    {
+      "time": 97.7,
+      "time_str": "01:37.700",
+      "text": "岁月如流在穿梭",
+      "translation": null
+    },
+    {
+      "time": 101.3,
+      "time_str": "01:41.300",
+      "text": "喜怒哀乐我深锁",
+      "translation": null
+    },
+    {
+      "time": 104.6,
+      "time_str": "01:44.600",
+      "text": "只因有你在天涯尽头等着我",
+      "translation": null
+    },
+    {
+      "time": 151.1,
+      "time_str": "02:31.100",
+      "text": "风雨之后无所谓拥有",
+      "translation": null
+    },
+    {
+      "time": 160.0,
+      "time_str": "02:40.000",
+      "text": "萍水相逢你却给我那么多",
+      "translation": null
+    },
+    {
+      "time": 167.0,
+      "time_str": "02:47.000",
+      "text": "你挡住寒冬温暖只保留给我",
+      "translation": null
+    },
+    {
+      "time": 174.0,
+      "time_str": "02:54.000",
+      "text": "风霜寂寞凋落在你的怀中",
+      "translation": null
+    },
+    {
+      "time": 183.6,
+      "time_str": "03:03.600",
+      "text": "人生风景在游走",
+      "translation": null
+    },
+    {
+      "time": 186.6,
+      "time_str": "03:06.600",
+      "text": "每当孤独我回首",
+      "translation": null
+    },
+    {
+      "time": 189.6,
+      "time_str": "03:09.600",
+      "text": "你的爱总在不远地方等着我",
+      "translation": null
+    },
+    {
+      "time": 196.6,
+      "time_str": "03:16.600",
+      "text": "岁月如流在穿梭",
+      "translation": null
+    },
+    {
+      "time": 199.6,
+      "time_str": "03:19.600",
+      "text": "喜怒哀乐我深锁",
+      "translation": null
+    },
+    {
+      "time": 203.5,
+      "time_str": "03:23.500",
+      "text": "只因有你在天涯尽头等着我",
+      "translation": null
+    },
+    {
+      "time": 210.5,
+      "time_str": "03:30.500",
+      "text": "人生风景在游走",
+      "translation": null
+    },
+    {
+      "time": 213.5,
+      "time_str": "03:33.500",
+      "text": "每当孤独我回首",
+      "translation": null
+    },
+    {
+      "time": 217.5,
+      "time_str": "03:37.500",
+      "text": "你的爱总在不远地方等着我",
+      "translation": null
+    },
+    {
+      "time": 224.1,
+      "time_str": "03:44.100",
+      "text": "岁月如流在穿梭",
+      "translation": null
+    },
+    {
+      "time": 227.1,
+      "time_str": "03:47.100",
+      "text": "喜怒哀乐我深锁",
+      "translation": null
+    },
+    {
+      "time": 231.1,
+      "time_str": "03:51.100",
+      "text": "只因有你在天涯尽头等着我",
+      "translation": null
+    },
+    {
+      "time": 237.7,
+      "time_str": "03:57.700",
+      "text": "人生风景在游走",
+      "translation": null
+    },
+    {
+      "time": 240.7,
+      "time_str": "04:00.700",
+      "text": "每当孤独我回首",
+      "translation": null
+    },
+    {
+      "time": 244.7,
+      "time_str": "04:04.700",
+      "text": "你的爱总在不远地方等着我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "最远的你是我最近的爱 - 车继铃.lrc"
+}

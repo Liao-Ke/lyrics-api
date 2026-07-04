@@ -1,0 +1,334 @@
+{
+  "title": "擦肩而过",
+  "title_raw": "擦肩而过",
+  "version": null,
+  "artist": "宇桐非",
+  "group_key": "擦肩而过|宇桐非",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.29,
+      "time_str": "00:00.290",
+      "text": "女：爱上你是我的错",
+      "translation": null
+    },
+    {
+      "time": 3.94,
+      "time_str": "00:03.940",
+      "text": "可是离开又舍不得",
+      "translation": null
+    },
+    {
+      "time": 7.41,
+      "time_str": "00:07.410",
+      "text": "听着你为我写的歌",
+      "translation": null
+    },
+    {
+      "time": 10.6,
+      "time_str": "00:10.600",
+      "text": "好难过",
+      "translation": null
+    },
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "如果说 我说如果",
+      "translation": null
+    },
+    {
+      "time": 17.81,
+      "time_str": "00:17.810",
+      "text": "我们还能重新来过",
+      "translation": null
+    },
+    {
+      "time": 21.26,
+      "time_str": "00:21.260",
+      "text": "不去计较谁对谁错",
+      "translation": null
+    },
+    {
+      "time": 24.35,
+      "time_str": "00:24.350",
+      "text": "会怎么做",
+      "translation": null
+    },
+    {
+      "time": 28.63,
+      "time_str": "00:28.630",
+      "text": "男：我从来没想过",
+      "translation": null
+    },
+    {
+      "time": 31.67,
+      "time_str": "00:31.670",
+      "text": "会有这样的结果",
+      "translation": null
+    },
+    {
+      "time": 35.33,
+      "time_str": "00:35.330",
+      "text": "成为了彼此的过客",
+      "translation": null
+    },
+    {
+      "time": 42.44,
+      "time_str": "00:42.440",
+      "text": "是爱的太少",
+      "translation": null
+    },
+    {
+      "time": 45.58,
+      "time_str": "00:45.580",
+      "text": "还是要求的太多",
+      "translation": null
+    },
+    {
+      "time": 49.24,
+      "time_str": "00:49.240",
+      "text": "总是会觉得",
+      "translation": null
+    },
+    {
+      "time": 52.8,
+      "time_str": "00:52.800",
+      "text": "不快乐",
+      "translation": null
+    },
+    {
+      "time": 56.4,
+      "time_str": "00:56.400",
+      "text": "曾经就算是一个吻",
+      "translation": null
+    },
+    {
+      "time": 59.34,
+      "time_str": "00:59.340",
+      "text": "我们也能从寂寞中挣脱",
+      "translation": null
+    },
+    {
+      "time": 63.3,
+      "time_str": "01:03.300",
+      "text": "就算用泪水换来笑容也值得",
+      "translation": null
+    },
+    {
+      "time": 70.2,
+      "time_str": "01:10.200",
+      "text": "而现在就算拥抱着",
+      "translation": null
+    },
+    {
+      "time": 73.24,
+      "time_str": "01:13.240",
+      "text": "为何两颗心总不知所措",
+      "translation": null
+    },
+    {
+      "time": 77.17,
+      "time_str": "01:17.170",
+      "text": "难道注定就这样擦肩而过",
+      "translation": null
+    },
+    {
+      "time": 83.86,
+      "time_str": "01:23.860",
+      "text": "当爱情来了",
+      "translation": null
+    },
+    {
+      "time": 85.56,
+      "time_str": "01:25.560",
+      "text": "谁又能说我舍不得寂寞",
+      "translation": null
+    },
+    {
+      "time": 90.77,
+      "time_str": "01:30.770",
+      "text": "当爱情走了",
+      "translation": null
+    },
+    {
+      "time": 92.62,
+      "time_str": "01:32.620",
+      "text": "谁又能说我不觉得失落",
+      "translation": null
+    },
+    {
+      "time": 97.81,
+      "time_str": "01:37.810",
+      "text": "当爱燃烧过",
+      "translation": null
+    },
+    {
+      "time": 99.47,
+      "time_str": "01:39.470",
+      "text": "谁又能说我不觉得快乐",
+      "translation": null
+    },
+    {
+      "time": 104.82,
+      "time_str": "01:44.820",
+      "text": "当爱变沉默",
+      "translation": null
+    },
+    {
+      "time": 106.62,
+      "time_str": "01:46.620",
+      "text": "谁又能说我过的很洒脱",
+      "translation": null
+    },
+    {
+      "time": 111.16,
+      "time_str": "01:51.160",
+      "text": "女：爱上你是我的错",
+      "translation": null
+    },
+    {
+      "time": 114.71,
+      "time_str": "01:54.710",
+      "text": "可是离开又舍不得",
+      "translation": null
+    },
+    {
+      "time": 118.27,
+      "time_str": "01:58.270",
+      "text": "听着你为我写的歌",
+      "translation": null
+    },
+    {
+      "time": 121.45,
+      "time_str": "02:01.450",
+      "text": "好难过",
+      "translation": null
+    },
+    {
+      "time": 124.76,
+      "time_str": "02:04.760",
+      "text": "如果说 我说如果",
+      "translation": null
+    },
+    {
+      "time": 128.62,
+      "time_str": "02:08.620",
+      "text": "我们还能重新来过",
+      "translation": null
+    },
+    {
+      "time": 132.2,
+      "time_str": "02:12.200",
+      "text": "不去计较谁对谁错",
+      "translation": null
+    },
+    {
+      "time": 135.16,
+      "time_str": "02:15.160",
+      "text": "会怎么做",
+      "translation": null
+    },
+    {
+      "time": 139.39,
+      "time_str": "02:19.390",
+      "text": "当爱情来了",
+      "translation": null
+    },
+    {
+      "time": 141.14,
+      "time_str": "02:21.140",
+      "text": "谁又能说我舍不得寂寞",
+      "translation": null
+    },
+    {
+      "time": 146.35,
+      "time_str": "02:26.350",
+      "text": "当爱情走了",
+      "translation": null
+    },
+    {
+      "time": 147.99,
+      "time_str": "02:27.990",
+      "text": "谁又能说我不觉得失落",
+      "translation": null
+    },
+    {
+      "time": 153.2,
+      "time_str": "02:33.200",
+      "text": "当爱燃烧过",
+      "translation": null
+    },
+    {
+      "time": 154.94,
+      "time_str": "02:34.940",
+      "text": "谁又能说我不觉得快乐",
+      "translation": null
+    },
+    {
+      "time": 160.15,
+      "time_str": "02:40.150",
+      "text": "当爱变沉默",
+      "translation": null
+    },
+    {
+      "time": 161.9,
+      "time_str": "02:41.900",
+      "text": "谁又能说我过的很洒脱",
+      "translation": null
+    },
+    {
+      "time": 168.75,
+      "time_str": "02:48.750",
+      "text": "当爱情来了",
+      "translation": null
+    },
+    {
+      "time": 170.41,
+      "time_str": "02:50.410",
+      "text": "谁又能说我舍不得寂寞",
+      "translation": null
+    },
+    {
+      "time": 175.8,
+      "time_str": "02:55.800",
+      "text": "当爱情走了",
+      "translation": null
+    },
+    {
+      "time": 177.46,
+      "time_str": "02:57.460",
+      "text": "谁又能说我不觉得失落",
+      "translation": null
+    },
+    {
+      "time": 182.77,
+      "time_str": "03:02.770",
+      "text": "当爱燃烧过",
+      "translation": null
+    },
+    {
+      "time": 184.31,
+      "time_str": "03:04.310",
+      "text": "谁又能说我不觉得快乐",
+      "translation": null
+    },
+    {
+      "time": 189.72,
+      "time_str": "03:09.720",
+      "text": "当爱变沉默",
+      "translation": null
+    },
+    {
+      "time": 191.42,
+      "time_str": "03:11.420",
+      "text": "谁又能说我过的很洒脱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "擦肩而过 - 宇桐非.lrc"
+}

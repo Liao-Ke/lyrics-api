@@ -1,0 +1,184 @@
+{
+  "title": "情人",
+  "title_raw": "情人",
+  "version": null,
+  "artist": "杜德伟",
+  "group_key": "情人|杜德伟",
+  "writers": {
+    "lyricist": "于光中",
+    "composer": "林健华",
+    "arranger": "王继康"
+  },
+  "lyrics": [
+    {
+      "time": 1.15,
+      "time_str": "00:01.150",
+      "text": "Girl 每当我开始沉默的时候",
+      "translation": null
+    },
+    {
+      "time": 5.92,
+      "time_str": "00:05.920",
+      "text": "你比我更难过 好像你的错",
+      "translation": null
+    },
+    {
+      "time": 12.19,
+      "time_str": "00:12.190",
+      "text": "Girl 每当我梦想未来的时候",
+      "translation": null
+    },
+    {
+      "time": 16.73,
+      "time_str": "00:16.730",
+      "text": "你兴奋的感受 比我还要多",
+      "translation": null
+    },
+    {
+      "time": 22.56,
+      "time_str": "00:22.560",
+      "text": "轻柔 像阵微风 吹过 我的心中",
+      "translation": null
+    },
+    {
+      "time": 33.15,
+      "time_str": "00:33.150",
+      "text": "一切都会不同 透过了你的眼",
+      "translation": null
+    },
+    {
+      "time": 39.31,
+      "time_str": "00:39.310",
+      "text": "情人 爱却更多 虚情假意的话不说",
+      "translation": null
+    },
+    {
+      "time": 49.58,
+      "time_str": "00:49.580",
+      "text": "只用一颗真心 默默爱我",
+      "translation": null
+    },
+    {
+      "time": 53.58,
+      "time_str": "00:53.580",
+      "text": "最珍贵的感动 尽在不言中",
+      "translation": null
+    },
+    {
+      "time": 66.66,
+      "time_str": "01:06.660",
+      "text": "Girl 我不是故意对你冷落",
+      "translation": null
+    },
+    {
+      "time": 71.34,
+      "time_str": "01:11.340",
+      "text": "大部分的时候 我不够温柔",
+      "translation": null
+    },
+    {
+      "time": 77.46,
+      "time_str": "01:17.460",
+      "text": "Girl 我强烈感到时间不够",
+      "translation": null
+    },
+    {
+      "time": 82.19,
+      "time_str": "01:22.190",
+      "text": "想牵着你的手 对抗寂寞",
+      "translation": null
+    },
+    {
+      "time": 89.49,
+      "time_str": "01:29.490",
+      "text": "轻柔 像阵微风 让我 从容不迫",
+      "translation": null
+    },
+    {
+      "time": 100.13,
+      "time_str": "01:40.130",
+      "text": "一切 都会不同 有了你在身边",
+      "translation": null
+    },
+    {
+      "time": 106.289,
+      "time_str": "01:46.289",
+      "text": "情人 爱却更多 虚情假意的话不说",
+      "translation": null
+    },
+    {
+      "time": 116.6,
+      "time_str": "01:56.600",
+      "text": "只用一颗真心 默默爱我",
+      "translation": null
+    },
+    {
+      "time": 120.71,
+      "time_str": "02:00.710",
+      "text": "最珍贵的感动 尽在不言中",
+      "translation": null
+    },
+    {
+      "time": 149.6,
+      "time_str": "02:29.600",
+      "text": "我唯一的情人 爱却更多",
+      "translation": null
+    },
+    {
+      "time": 153.36,
+      "time_str": "02:33.360",
+      "text": "虚情假意的话不说",
+      "translation": null
+    },
+    {
+      "time": 160.29,
+      "time_str": "02:40.290",
+      "text": "只用一颗真心 默默爱我",
+      "translation": null
+    },
+    {
+      "time": 164.37,
+      "time_str": "02:44.370",
+      "text": "最珍贵的感动 My love",
+      "translation": null
+    },
+    {
+      "time": 171.84,
+      "time_str": "02:51.840",
+      "text": "情人 爱却更多 开始就要爱到最后",
+      "translation": null
+    },
+    {
+      "time": 182.19,
+      "time_str": "03:02.190",
+      "text": "于是你我真心 越来越浓",
+      "translation": null
+    },
+    {
+      "time": 186.22,
+      "time_str": "03:06.220",
+      "text": "最珍贵的感动 藏在我心中",
+      "translation": null
+    },
+    {
+      "time": 193.92,
+      "time_str": "03:13.920",
+      "text": "情人 爱却更多 开始就要爱到最后",
+      "translation": null
+    },
+    {
+      "time": 204.07,
+      "time_str": "03:24.070",
+      "text": "于是你我真心 越来越浓",
+      "translation": null
+    },
+    {
+      "time": 208.05,
+      "time_str": "03:28.050",
+      "text": "最珍贵的感动 藏在我心中",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情人 - 杜德伟.lrc"
+}

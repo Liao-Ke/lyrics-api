@@ -1,0 +1,334 @@
+{
+  "title": "海盗",
+  "title_raw": "海盗",
+  "version": null,
+  "artist": "蔡依林,周杰伦",
+  "group_key": "海盗|蔡依林,周杰伦",
+  "writers": {
+    "lyricist": "陈镇川",
+    "composer": "周杰伦",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 46.87,
+      "time_str": "00:46.870",
+      "text": "黄色烟硝 还在飘",
+      "translation": null
+    },
+    {
+      "time": 49.35,
+      "time_str": "00:49.350",
+      "text": "头顶风帆 在鼓噪",
+      "translation": null
+    },
+    {
+      "time": 51.98,
+      "time_str": "00:51.980",
+      "text": "一瞬间的风暴",
+      "translation": null
+    },
+    {
+      "time": 58.0,
+      "time_str": "00:58.000",
+      "text": "湿透双脚 干不了",
+      "translation": null
+    },
+    {
+      "time": 59.71,
+      "time_str": "00:59.710",
+      "text": "晒伤眼角 顾不了",
+      "translation": null
+    },
+    {
+      "time": 62.4,
+      "time_str": "01:02.400",
+      "text": "对着狂风咆哮",
+      "translation": null
+    },
+    {
+      "time": 67.639,
+      "time_str": "01:07.639",
+      "text": "头巾缠绕着骄傲",
+      "translation": null
+    },
+    {
+      "time": 70.7,
+      "time_str": "01:10.700",
+      "text": "泪藏在黑色眼罩",
+      "translation": null
+    },
+    {
+      "time": 72.81,
+      "time_str": "01:12.810",
+      "text": "长发在船头舞蹈",
+      "translation": null
+    },
+    {
+      "time": 77.74,
+      "time_str": "01:17.740",
+      "text": "尽头 当找到那些宝藏 以后",
+      "translation": null
+    },
+    {
+      "time": 82.3,
+      "time_str": "01:22.300",
+      "text": "当满足了冒险的 念头",
+      "translation": null
+    },
+    {
+      "time": 83.86,
+      "time_str": "01:23.860",
+      "text": "幸福是否在岸上 等候",
+      "translation": null
+    },
+    {
+      "time": 86.9,
+      "time_str": "01:26.900",
+      "text": "故事对它细说从头",
+      "translation": null
+    },
+    {
+      "time": 89.0,
+      "time_str": "01:29.000",
+      "text": "啦啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 89.94,
+      "time_str": "01:29.940",
+      "text": "冷漠背后 躲着温柔",
+      "translation": null
+    },
+    {
+      "time": 92.359,
+      "time_str": "01:32.359",
+      "text": "我还记得 谁在嘶吼",
+      "translation": null
+    },
+    {
+      "time": 94.96,
+      "time_str": "01:34.960",
+      "text": "看你低着头 我站在船头",
+      "translation": null
+    },
+    {
+      "time": 98.79,
+      "time_str": "01:38.790",
+      "text": "啦啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 100.3,
+      "time_str": "01:40.300",
+      "text": "黑色的风 吹熄烛火",
+      "translation": null
+    },
+    {
+      "time": 102.859,
+      "time_str": "01:42.859",
+      "text": "暴风雨外 那片天空",
+      "translation": null
+    },
+    {
+      "time": 106.3,
+      "time_str": "01:46.300",
+      "text": "幸福在招手",
+      "translation": null
+    },
+    {
+      "time": 150.8,
+      "time_str": "02:30.800",
+      "text": "冰山一角 在窃笑",
+      "translation": null
+    },
+    {
+      "time": 153.85,
+      "time_str": "02:33.850",
+      "text": "险恶暗潮 在围剿",
+      "translation": null
+    },
+    {
+      "time": 156.31,
+      "time_str": "02:36.310",
+      "text": "没目标的目标",
+      "translation": null
+    },
+    {
+      "time": 161.579,
+      "time_str": "02:41.579",
+      "text": "鼻间酒意 还没消",
+      "translation": null
+    },
+    {
+      "time": 164.07,
+      "time_str": "02:44.070",
+      "text": "受潮烟草 怪味道",
+      "translation": null
+    },
+    {
+      "time": 166.78,
+      "time_str": "02:46.780",
+      "text": "写封信寄不到",
+      "translation": null
+    },
+    {
+      "time": 172.06,
+      "time_str": "02:52.060",
+      "text": "扰人清梦的号角",
+      "translation": null
+    },
+    {
+      "time": 174.549,
+      "time_str": "02:54.549",
+      "text": "船舵疯狂的奔跑",
+      "translation": null
+    },
+    {
+      "time": 177.229,
+      "time_str": "02:57.229",
+      "text": "永远下不了的锚",
+      "translation": null
+    },
+    {
+      "time": 182.4,
+      "time_str": "03:02.400",
+      "text": "终点就在（前头 尽头）",
+      "translation": null
+    },
+    {
+      "time": 184.38,
+      "time_str": "03:04.380",
+      "text": "当找到那些宝藏（宝藏 以后）",
+      "translation": null
+    },
+    {
+      "time": 187.1,
+      "time_str": "03:07.100",
+      "text": "当满足了冒险的 念头",
+      "translation": null
+    },
+    {
+      "time": 188.81,
+      "time_str": "03:08.810",
+      "text": "幸福是否在岸上 等候",
+      "translation": null
+    },
+    {
+      "time": 190.889,
+      "time_str": "03:10.889",
+      "text": "它细说从头",
+      "translation": null
+    },
+    {
+      "time": 192.53,
+      "time_str": "03:12.530",
+      "text": "尽头 当找到那些宝藏 以后",
+      "translation": null
+    },
+    {
+      "time": 196.199,
+      "time_str": "03:16.199",
+      "text": "当满足了冒险的 念头",
+      "translation": null
+    },
+    {
+      "time": 198.949,
+      "time_str": "03:18.949",
+      "text": "幸福是否在岸上 等候",
+      "translation": null
+    },
+    {
+      "time": 203.699,
+      "time_str": "03:23.699",
+      "text": "啦啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 204.69,
+      "time_str": "03:24.690",
+      "text": "冷漠背后 躲着温柔",
+      "translation": null
+    },
+    {
+      "time": 207.1,
+      "time_str": "03:27.100",
+      "text": "我还记得 谁在嘶吼",
+      "translation": null
+    },
+    {
+      "time": 209.77,
+      "time_str": "03:29.770",
+      "text": "看你低着头 我站在船头",
+      "translation": null
+    },
+    {
+      "time": 213.54,
+      "time_str": "03:33.540",
+      "text": "啦啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 215.03,
+      "time_str": "03:35.030",
+      "text": "黑色的风 吹熄烛火",
+      "translation": null
+    },
+    {
+      "time": 217.63,
+      "time_str": "03:37.630",
+      "text": "暴风雨外 那片天空",
+      "translation": null
+    },
+    {
+      "time": 221.0,
+      "time_str": "03:41.000",
+      "text": "幸福在招手",
+      "translation": null
+    },
+    {
+      "time": 223.9,
+      "time_str": "03:43.900",
+      "text": "等候 好不了的伤口",
+      "translation": null
+    },
+    {
+      "time": 228.0,
+      "time_str": "03:48.000",
+      "text": "在美丽的港口",
+      "translation": null
+    },
+    {
+      "time": 230.63,
+      "time_str": "03:50.630",
+      "text": "寂寞的出口",
+      "translation": null
+    },
+    {
+      "time": 234.0,
+      "time_str": "03:54.000",
+      "text": "发烫的胸口",
+      "translation": null
+    },
+    {
+      "time": 234.579,
+      "time_str": "03:54.579",
+      "text": "等候 好不了的伤口",
+      "translation": null
+    },
+    {
+      "time": 239.19,
+      "time_str": "03:59.190",
+      "text": "在美丽的港口",
+      "translation": null
+    },
+    {
+      "time": 242.0,
+      "time_str": "04:02.000",
+      "text": "寂寞的出口",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "海盗 - 蔡依林,周杰伦.lrc"
+}

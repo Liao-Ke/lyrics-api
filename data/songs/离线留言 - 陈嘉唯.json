@@ -1,0 +1,256 @@
+{
+  "title": "离线留言",
+  "title_raw": "离线留言",
+  "version": null,
+  "artist": "陈嘉唯",
+  "group_key": "离线留言|陈嘉唯",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "温晋禾",
+    "arranger": "温晋禾"
+  },
+  "lyrics": [
+    {
+      "time": 30.91,
+      "time_str": "00:30.910",
+      "text": "把犹豫 把回忆 从手机里删去",
+      "translation": null
+    },
+    {
+      "time": 34.49,
+      "time_str": "00:34.490",
+      "text": "没信任 的感情 像夜没有星星",
+      "translation": null
+    },
+    {
+      "time": 38.05,
+      "time_str": "00:38.050",
+      "text": "第一次 第二次 已经够了",
+      "translation": null
+    },
+    {
+      "time": 41.0,
+      "time_str": "00:41.000",
+      "text": "别再敲痛我的心",
+      "translation": null
+    },
+    {
+      "time": 45.11,
+      "time_str": "00:45.110",
+      "text": "不联系 不回应 现在适合安静",
+      "translation": null
+    },
+    {
+      "time": 48.61,
+      "time_str": "00:48.610",
+      "text": "怕失控 怕泄密 部落格不更新",
+      "translation": null
+    },
+    {
+      "time": 52.14,
+      "time_str": "00:52.140",
+      "text": "难过并 不需要 公开演出来博取关心",
+      "translation": null
+    },
+    {
+      "time": 57.09,
+      "time_str": "00:57.090",
+      "text": "只想喝着音乐 大口吞下情绪",
+      "translation": null
+    },
+    {
+      "time": 65.95,
+      "time_str": "01:05.950",
+      "text": "一整夜",
+      "translation": null
+    },
+    {
+      "time": 66.69,
+      "time_str": "01:06.690",
+      "text": "La La La 在矛盾里面",
+      "translation": null
+    },
+    {
+      "time": 70.18,
+      "time_str": "01:10.180",
+      "text": "La La La 看离线留言",
+      "translation": null
+    },
+    {
+      "time": 73.74,
+      "time_str": "01:13.740",
+      "text": "La La La 我并没有哭 却滴下眼泪",
+      "translation": null
+    },
+    {
+      "time": 80.16,
+      "time_str": "01:20.160",
+      "text": "一整天",
+      "translation": null
+    },
+    {
+      "time": 80.84,
+      "time_str": "01:20.840",
+      "text": "La La La 你翻遍世界",
+      "translation": null
+    },
+    {
+      "time": 84.31,
+      "time_str": "01:24.310",
+      "text": "La La La 狂Call 狂留言",
+      "translation": null
+    },
+    {
+      "time": 87.86,
+      "time_str": "01:27.860",
+      "text": "La La La 谢谢你让我看另一面",
+      "translation": null
+    },
+    {
+      "time": 94.44,
+      "time_str": "01:34.440",
+      "text": "你可恶又可怜 你可爱又可悲",
+      "translation": null
+    },
+    {
+      "time": 115.58,
+      "time_str": "01:55.580",
+      "text": "把犹豫 把回忆 从手机里删去",
+      "translation": null
+    },
+    {
+      "time": 119.2,
+      "time_str": "01:59.200",
+      "text": "没信任 的感情 像夜没有星星",
+      "translation": null
+    },
+    {
+      "time": 122.69,
+      "time_str": "02:02.690",
+      "text": "第一次 第二次 已经够了",
+      "translation": null
+    },
+    {
+      "time": 125.99,
+      "time_str": "02:05.990",
+      "text": "别再敲痛我的心",
+      "translation": null
+    },
+    {
+      "time": 128.29,
+      "time_str": "02:08.290",
+      "text": "不联系 不回应 现在适合安静",
+      "translation": null
+    },
+    {
+      "time": 133.28,
+      "time_str": "02:13.280",
+      "text": "怕失控 怕泄密 部落格不更新",
+      "translation": null
+    },
+    {
+      "time": 136.8,
+      "time_str": "02:16.800",
+      "text": "难过并 不需要 公开演出来博取关心",
+      "translation": null
+    },
+    {
+      "time": 143.88,
+      "time_str": "02:23.880",
+      "text": "只想喝着音乐 大口吞下情绪",
+      "translation": null
+    },
+    {
+      "time": 150.66,
+      "time_str": "02:30.660",
+      "text": "一整夜",
+      "translation": null
+    },
+    {
+      "time": 151.44,
+      "time_str": "02:31.440",
+      "text": "La La La 在矛盾里面",
+      "translation": null
+    },
+    {
+      "time": 154.94,
+      "time_str": "02:34.940",
+      "text": "La La La 看离线留言",
+      "translation": null
+    },
+    {
+      "time": 158.42,
+      "time_str": "02:38.420",
+      "text": "La La La 我并没有哭 却滴下眼泪",
+      "translation": null
+    },
+    {
+      "time": 164.85,
+      "time_str": "02:44.850",
+      "text": "一整天",
+      "translation": null
+    },
+    {
+      "time": 165.53,
+      "time_str": "02:45.530",
+      "text": "La La La 你翻遍世界",
+      "translation": null
+    },
+    {
+      "time": 169.02,
+      "time_str": "02:49.020",
+      "text": "La La La 狂Call 狂留言",
+      "translation": null
+    },
+    {
+      "time": 172.52,
+      "time_str": "02:52.520",
+      "text": "La La La 谢谢你让我看另一面",
+      "translation": null
+    },
+    {
+      "time": 178.9,
+      "time_str": "02:58.900",
+      "text": "你可恶又可怜 你可爱又可悲",
+      "translation": null
+    },
+    {
+      "time": 186.62,
+      "time_str": "03:06.620",
+      "text": "La La La 我拔掉电源",
+      "translation": null
+    },
+    {
+      "time": 190.2,
+      "time_str": "03:10.200",
+      "text": "La La La 我封锁感觉",
+      "translation": null
+    },
+    {
+      "time": 193.69,
+      "time_str": "03:13.690",
+      "text": "La La La 我没有辩论的时间",
+      "translation": null
+    },
+    {
+      "time": 200.73,
+      "time_str": "03:20.730",
+      "text": "La La La 不用为我改变",
+      "translation": null
+    },
+    {
+      "time": 207.75,
+      "time_str": "03:27.750",
+      "text": "我也不想去像谁",
+      "translation": null
+    },
+    {
+      "time": 214.42,
+      "time_str": "03:34.420",
+      "text": "你的离线留言 已经不是重点",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "离线留言 - 陈嘉唯.lrc"
+}

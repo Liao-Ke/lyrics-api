@@ -1,0 +1,166 @@
+{
+  "title": "大敦煌",
+  "title_raw": "大敦煌",
+  "version": null,
+  "artist": "群星",
+  "group_key": "大敦煌|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 39.99,
+      "time_str": "00:39.990",
+      "text": "敦煌的驼铃",
+      "translation": null
+    },
+    {
+      "time": 41.42,
+      "time_str": "00:41.420",
+      "text": "随风在飘零",
+      "translation": null
+    },
+    {
+      "time": 42.86,
+      "time_str": "00:42.860",
+      "text": "那前世被敲醒",
+      "translation": null
+    },
+    {
+      "time": 45.42,
+      "time_str": "00:45.420",
+      "text": "轮回中的梵音",
+      "translation": null
+    },
+    {
+      "time": 52.65,
+      "time_str": "00:52.650",
+      "text": "转动不停",
+      "translation": null
+    },
+    {
+      "time": 54.78,
+      "time_str": "00:54.780",
+      "text": "我用佛的大藏经念你的名",
+      "translation": null
+    },
+    {
+      "time": 64.01,
+      "time_str": "01:04.010",
+      "text": "轻轻呼唤我们的宿命",
+      "translation": null
+    },
+    {
+      "time": 71.76,
+      "time_str": "01:11.760",
+      "text": "轻轻呼唤我们的宿命",
+      "translation": null
+    },
+    {
+      "time": 85.49,
+      "time_str": "01:25.490",
+      "text": "残破的石窟",
+      "translation": null
+    },
+    {
+      "time": 101.42,
+      "time_str": "01:41.420",
+      "text": "千年的羞辱",
+      "translation": null
+    },
+    {
+      "time": 102.98,
+      "time_str": "01:42.980",
+      "text": "遮蔽了日出",
+      "translation": null
+    },
+    {
+      "time": 105.54,
+      "time_str": "01:45.540",
+      "text": "浮云万里横渡",
+      "translation": null
+    },
+    {
+      "time": 110.72,
+      "time_str": "01:50.720",
+      "text": "尘世的路",
+      "translation": null
+    },
+    {
+      "time": 114.34,
+      "time_str": "01:54.340",
+      "text": "我用菩萨说法图为你演出",
+      "translation": null
+    },
+    {
+      "time": 123.51,
+      "time_str": "02:03.510",
+      "text": "今生始终无缘的共舞",
+      "translation": null
+    },
+    {
+      "time": 131.63,
+      "time_str": "02:11.630",
+      "text": "今生始终无缘的共舞",
+      "translation": null
+    },
+    {
+      "time": 162.24,
+      "time_str": "02:42.240",
+      "text": "敦煌的风沙",
+      "translation": null
+    },
+    {
+      "time": 190.7,
+      "time_str": "03:10.700",
+      "text": "淹没了繁华",
+      "translation": null
+    },
+    {
+      "time": 192.32,
+      "time_str": "03:12.320",
+      "text": "飘摇多少人家",
+      "translation": null
+    },
+    {
+      "time": 195.13,
+      "time_str": "03:15.130",
+      "text": "一杯乱世的茶",
+      "translation": null
+    },
+    {
+      "time": 201.56,
+      "time_str": "03:21.560",
+      "text": "狂饮而下",
+      "translation": null
+    },
+    {
+      "time": 204.18,
+      "time_str": "03:24.180",
+      "text": "我用飞天的壁画描你的发",
+      "translation": null
+    },
+    {
+      "time": 213.41,
+      "time_str": "03:33.410",
+      "text": "描绘我那思念的脸颊",
+      "translation": null
+    },
+    {
+      "time": 221.65,
+      "time_str": "03:41.650",
+      "text": "我在那敦煌临摹菩萨",
+      "translation": null
+    },
+    {
+      "time": 228.64,
+      "time_str": "03:48.640",
+      "text": "再用那佛法笑拈天下",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "大敦煌 - 群星.lrc"
+}

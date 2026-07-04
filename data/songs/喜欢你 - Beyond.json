@@ -1,0 +1,292 @@
+{
+  "title": "喜欢你",
+  "title_raw": "喜欢你",
+  "version": null,
+  "artist": "Beyond",
+  "group_key": "喜欢你|beyond",
+  "writers": {
+    "lyricist": "黄家驹",
+    "composer": "黄家驹",
+    "arranger": "Beyond"
+  },
+  "lyrics": [
+    {
+      "time": 16.058,
+      "time_str": "00:16.058",
+      "text": "细雨带风湿透黄昏的街道",
+      "translation": null
+    },
+    {
+      "time": 22.29,
+      "time_str": "00:22.290",
+      "text": "抹去雨水双眼无故地仰望",
+      "translation": null
+    },
+    {
+      "time": 27.778,
+      "time_str": "00:27.778",
+      "text": "望向孤单的晚灯",
+      "translation": null
+    },
+    {
+      "time": 30.837,
+      "time_str": "00:30.837",
+      "text": "是那伤感的记忆",
+      "translation": null
+    },
+    {
+      "time": 37.979,
+      "time_str": "00:37.979",
+      "text": "再次泛起心里无数的思念",
+      "translation": null
+    },
+    {
+      "time": 44.216,
+      "time_str": "00:44.216",
+      "text": "以往片刻欢笑仍挂在脸上",
+      "translation": null
+    },
+    {
+      "time": 49.701,
+      "time_str": "00:49.701",
+      "text": "愿你此刻可会知",
+      "translation": null
+    },
+    {
+      "time": 52.818,
+      "time_str": "00:52.818",
+      "text": "是我衷心的说声",
+      "translation": null
+    },
+    {
+      "time": 58.359,
+      "time_str": "00:58.359",
+      "text": "喜欢你 那双眼动人",
+      "translation": null
+    },
+    {
+      "time": 64.586,
+      "time_str": "01:04.586",
+      "text": "笑声更迷人",
+      "translation": null
+    },
+    {
+      "time": 67.761,
+      "time_str": "01:07.761",
+      "text": "愿再可 轻抚你",
+      "translation": null
+    },
+    {
+      "time": 74.005,
+      "time_str": "01:14.005",
+      "text": "那可爱面容",
+      "translation": null
+    },
+    {
+      "time": 77.116,
+      "time_str": "01:17.116",
+      "text": "挽手说梦话",
+      "translation": null
+    },
+    {
+      "time": 80.241,
+      "time_str": "01:20.241",
+      "text": "像昨天 你共我",
+      "translation": null
+    },
+    {
+      "time": 94.483,
+      "time_str": "01:34.483",
+      "text": "满带理想的我曾经多冲动",
+      "translation": null
+    },
+    {
+      "time": 100.68,
+      "time_str": "01:40.680",
+      "text": "你怨与他相爱难有自由",
+      "translation": null
+    },
+    {
+      "time": 106.12,
+      "time_str": "01:46.120",
+      "text": "愿你此刻可会知",
+      "translation": null
+    },
+    {
+      "time": 109.264,
+      "time_str": "01:49.264",
+      "text": "是我衷心的说声",
+      "translation": null
+    },
+    {
+      "time": 114.808,
+      "time_str": "01:54.808",
+      "text": "喜欢你 那双眼动人",
+      "translation": null
+    },
+    {
+      "time": 121.047,
+      "time_str": "02:01.047",
+      "text": "笑声更迷人",
+      "translation": null
+    },
+    {
+      "time": 124.218,
+      "time_str": "02:04.218",
+      "text": "愿再可 轻抚你",
+      "translation": null
+    },
+    {
+      "time": 130.454,
+      "time_str": "02:10.454",
+      "text": "那可爱面容",
+      "translation": null
+    },
+    {
+      "time": 133.62,
+      "time_str": "02:13.620",
+      "text": "挽手说梦话",
+      "translation": null
+    },
+    {
+      "time": 136.752,
+      "time_str": "02:16.752",
+      "text": "像昨天 你共我",
+      "translation": null
+    },
+    {
+      "time": 167.283,
+      "time_str": "02:47.283",
+      "text": "每晚夜里自我独行",
+      "translation": null
+    },
+    {
+      "time": 171.165,
+      "time_str": "02:51.165",
+      "text": "随处荡 多冰冷",
+      "translation": null
+    },
+    {
+      "time": 179.847,
+      "time_str": "02:59.847",
+      "text": "以往为了自我挣扎",
+      "translation": null
+    },
+    {
+      "time": 183.728,
+      "time_str": "03:03.728",
+      "text": "从不知 她的痛苦",
+      "translation": null
+    },
+    {
+      "time": 193.137,
+      "time_str": "03:13.137",
+      "text": "喜欢你 那双眼动人",
+      "translation": null
+    },
+    {
+      "time": 199.438,
+      "time_str": "03:19.438",
+      "text": "笑声更迷人",
+      "translation": null
+    },
+    {
+      "time": 202.627,
+      "time_str": "03:22.627",
+      "text": "愿再可 轻抚你",
+      "translation": null
+    },
+    {
+      "time": 208.82,
+      "time_str": "03:28.820",
+      "text": "那可爱面容",
+      "translation": null
+    },
+    {
+      "time": 212.018,
+      "time_str": "03:32.018",
+      "text": "挽手说梦话",
+      "translation": null
+    },
+    {
+      "time": 215.099,
+      "time_str": "03:35.099",
+      "text": "像昨天 你共我",
+      "translation": null
+    },
+    {
+      "time": 221.366,
+      "time_str": "03:41.366",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 224.484,
+      "time_str": "03:44.484",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 227.609,
+      "time_str": "03:47.609",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 233.891,
+      "time_str": "03:53.891",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 236.983,
+      "time_str": "03:56.983",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 240.161,
+      "time_str": "04:00.161",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 246.441,
+      "time_str": "04:06.441",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 249.578,
+      "time_str": "04:09.578",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 252.71,
+      "time_str": "04:12.710",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 259.018,
+      "time_str": "04:19.018",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 262.147,
+      "time_str": "04:22.147",
+      "text": "Shi be do ho ho",
+      "translation": null
+    },
+    {
+      "time": 265.28,
+      "time_str": "04:25.280",
+      "text": "Shi be do ho ho",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "喜欢你 - Beyond.lrc"
+}

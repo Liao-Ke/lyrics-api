@@ -1,0 +1,478 @@
+{
+  "title": "处处吻",
+  "title_raw": "处处吻",
+  "version": null,
+  "artist": "杨千嬅",
+  "group_key": "处处吻|杨千嬅",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "雷颂德",
+    "arranger": "雷颂德"
+  },
+  "lyrics": [
+    {
+      "time": 16.79,
+      "time_str": "00:16.790",
+      "text": "你爱热吻却永不爱人",
+      "translation": null
+    },
+    {
+      "time": 20.67,
+      "time_str": "00:20.670",
+      "text": "练习为乐但是怕熟人",
+      "translation": null
+    },
+    {
+      "time": 24.72,
+      "time_str": "00:24.720",
+      "text": "你爱路过去索取见闻",
+      "translation": null
+    },
+    {
+      "time": 28.78,
+      "time_str": "00:28.780",
+      "text": "陌路人便特别有份好感",
+      "translation": null
+    },
+    {
+      "time": 33.13,
+      "time_str": "00:33.130",
+      "text": "你热爱别离",
+      "translation": null
+    },
+    {
+      "time": 35.09,
+      "time_str": "00:35.090",
+      "text": "再合再离",
+      "translation": null
+    },
+    {
+      "time": 36.33,
+      "time_str": "00:36.330",
+      "text": "似花瓣献技",
+      "translation": null
+    },
+    {
+      "time": 37.99,
+      "time_str": "00:37.990",
+      "text": "叫花粉遍地 噢噢",
+      "translation": null
+    },
+    {
+      "time": 41.07,
+      "time_str": "00:41.070",
+      "text": "你在播弄这穿线游戏",
+      "translation": null
+    },
+    {
+      "time": 44.33,
+      "time_str": "00:44.330",
+      "text": "跟他结束",
+      "translation": null
+    },
+    {
+      "time": 45.84,
+      "time_str": "00:45.840",
+      "text": "他与她再一起",
+      "translation": null
+    },
+    {
+      "time": 48.03,
+      "time_str": "00:48.030",
+      "text": "你小心",
+      "translation": null
+    },
+    {
+      "time": 49.01,
+      "time_str": "00:49.010",
+      "text": "一吻便颠倒众生",
+      "translation": null
+    },
+    {
+      "time": 50.93,
+      "time_str": "00:50.930",
+      "text": "一吻便救一个人",
+      "translation": null
+    },
+    {
+      "time": 52.88,
+      "time_str": "00:52.880",
+      "text": "给你拯救的体温",
+      "translation": null
+    },
+    {
+      "time": 54.98,
+      "time_str": "00:54.980",
+      "text": "总会再捐给某人",
+      "translation": null
+    },
+    {
+      "time": 56.96,
+      "time_str": "00:56.960",
+      "text": "一吻便偷一个心",
+      "translation": null
+    },
+    {
+      "time": 58.95,
+      "time_str": "00:58.950",
+      "text": "一吻便杀一个人",
+      "translation": null
+    },
+    {
+      "time": 60.87,
+      "time_str": "01:00.870",
+      "text": "一寸吻感一寸金",
+      "translation": null
+    },
+    {
+      "time": 63.19,
+      "time_str": "01:03.190",
+      "text": "一脸崎岖的旅行",
+      "translation": null
+    },
+    {
+      "time": 65.36,
+      "time_str": "01:05.360",
+      "text": "让半夜情人",
+      "translation": null
+    },
+    {
+      "time": 67.05,
+      "time_str": "01:07.050",
+      "text": "延续吻别人",
+      "translation": null
+    },
+    {
+      "time": 69.04,
+      "time_str": "01:09.040",
+      "text": "让你旧情人",
+      "translation": null
+    },
+    {
+      "time": 70.8,
+      "time_str": "01:10.800",
+      "text": "又惠顾他人",
+      "translation": null
+    },
+    {
+      "time": 73.38,
+      "time_str": "01:13.380",
+      "text": "每晚大概有上亿个人",
+      "translation": null
+    },
+    {
+      "time": 77.34,
+      "time_str": "01:17.340",
+      "text": "在地球上落力的亲吻",
+      "translation": null
+    },
+    {
+      "time": 81.16,
+      "time_str": "01:21.160",
+      "text": "你那习惯散佈给众人",
+      "translation": null
+    },
+    {
+      "time": 85.24,
+      "time_str": "01:25.240",
+      "text": "在地球上惠泽遍及世人",
+      "translation": null
+    },
+    {
+      "time": 89.48,
+      "time_str": "01:29.480",
+      "text": "你热爱别离",
+      "translation": null
+    },
+    {
+      "time": 91.48,
+      "time_str": "01:31.480",
+      "text": "再合再离",
+      "translation": null
+    },
+    {
+      "time": 92.77,
+      "time_str": "01:32.770",
+      "text": "似花瓣献技",
+      "translation": null
+    },
+    {
+      "time": 94.44,
+      "time_str": "01:34.440",
+      "text": "叫花粉遍地 噢噢",
+      "translation": null
+    },
+    {
+      "time": 97.44,
+      "time_str": "01:37.440",
+      "text": "你在播弄这穿线游戏",
+      "translation": null
+    },
+    {
+      "time": 100.74,
+      "time_str": "01:40.740",
+      "text": "跟他结束",
+      "translation": null
+    },
+    {
+      "time": 102.29,
+      "time_str": "01:42.290",
+      "text": "他与她再一起",
+      "translation": null
+    },
+    {
+      "time": 104.45,
+      "time_str": "01:44.450",
+      "text": "你小心 一吻便颠倒众生",
+      "translation": null
+    },
+    {
+      "time": 107.45,
+      "time_str": "01:47.450",
+      "text": "一吻便救一个人",
+      "translation": null
+    },
+    {
+      "time": 109.42,
+      "time_str": "01:49.420",
+      "text": "给你拯救的体温",
+      "translation": null
+    },
+    {
+      "time": 111.44,
+      "time_str": "01:51.440",
+      "text": "总会再捐给某人",
+      "translation": null
+    },
+    {
+      "time": 113.41,
+      "time_str": "01:53.410",
+      "text": "一吻便偷一个心",
+      "translation": null
+    },
+    {
+      "time": 115.38,
+      "time_str": "01:55.380",
+      "text": "一吻便杀一个人",
+      "translation": null
+    },
+    {
+      "time": 117.38,
+      "time_str": "01:57.380",
+      "text": "一寸吻感一寸金",
+      "translation": null
+    },
+    {
+      "time": 119.45,
+      "time_str": "01:59.450",
+      "text": "一脸崎岖的旅行",
+      "translation": null
+    },
+    {
+      "time": 122.75,
+      "time_str": "02:02.750",
+      "text": "噢 你为何未曾尽兴",
+      "translation": null
+    },
+    {
+      "time": 124.71,
+      "time_str": "02:04.710",
+      "text": "这塑胶的爱情",
+      "translation": null
+    },
+    {
+      "time": 126.51,
+      "time_str": "02:06.510",
+      "text": "跳蚤的旅程 噢",
+      "translation": null
+    },
+    {
+      "time": 129.16,
+      "time_str": "02:09.160",
+      "text": "延展铺天盖地",
+      "translation": null
+    },
+    {
+      "time": 131.29,
+      "time_str": "02:11.290",
+      "text": "好本领 噢",
+      "translation": null
+    },
+    {
+      "time": 132.95,
+      "time_str": "02:12.950",
+      "text": "这吊诡的爱情",
+      "translation": null
+    },
+    {
+      "time": 134.55,
+      "time_str": "02:14.550",
+      "text": "播种的旅程 Kiss",
+      "translation": null
+    },
+    {
+      "time": 136.02,
+      "time_str": "02:16.020",
+      "text": "别了他 他吻她",
+      "translation": null
+    },
+    {
+      "time": 138.55,
+      "time_str": "02:18.550",
+      "text": "他吻她吻他吻她",
+      "translation": null
+    },
+    {
+      "time": 140.55,
+      "time_str": "02:20.550",
+      "text": "延续愉快过程",
+      "translation": null
+    },
+    {
+      "time": 142.85,
+      "time_str": "02:22.850",
+      "text": "你我他真高兴",
+      "translation": null
+    },
+    {
+      "time": 145.02,
+      "time_str": "02:25.020",
+      "text": "下个他 他吻她",
+      "translation": null
+    },
+    {
+      "time": 146.77,
+      "time_str": "02:26.770",
+      "text": "他吻她再亲你结束这旅程",
+      "translation": null
+    },
+    {
+      "time": 150.43,
+      "time_str": "02:30.430",
+      "text": "多得你这煞星",
+      "translation": null
+    },
+    {
+      "time": 152.7,
+      "time_str": "02:32.700",
+      "text": "你小心",
+      "translation": null
+    },
+    {
+      "time": 153.72,
+      "time_str": "02:33.720",
+      "text": "一吻便颠倒众生",
+      "translation": null
+    },
+    {
+      "time": 155.72,
+      "time_str": "02:35.720",
+      "text": "一吻便救一个人",
+      "translation": null
+    },
+    {
+      "time": 157.69,
+      "time_str": "02:37.690",
+      "text": "给你拯救的体温",
+      "translation": null
+    },
+    {
+      "time": 159.66,
+      "time_str": "02:39.660",
+      "text": "总会再捐给某人",
+      "translation": null
+    },
+    {
+      "time": 161.78,
+      "time_str": "02:41.780",
+      "text": "一吻便偷一个心",
+      "translation": null
+    },
+    {
+      "time": 163.77,
+      "time_str": "02:43.770",
+      "text": "一吻便杀一个人",
+      "translation": null
+    },
+    {
+      "time": 165.8,
+      "time_str": "02:45.800",
+      "text": "一寸吻感一寸金",
+      "translation": null
+    },
+    {
+      "time": 167.97,
+      "time_str": "02:47.970",
+      "text": "一脸崎岖的旅行",
+      "translation": null
+    },
+    {
+      "time": 169.43,
+      "time_str": "02:49.430",
+      "text": "别了他 他吻她",
+      "translation": null
+    },
+    {
+      "time": 170.93,
+      "time_str": "02:50.930",
+      "text": "他吻她吻他吻她",
+      "translation": null
+    },
+    {
+      "time": 172.8,
+      "time_str": "02:52.800",
+      "text": "延续愉快过程",
+      "translation": null
+    },
+    {
+      "time": 174.68,
+      "time_str": "02:54.680",
+      "text": "你我他真高兴",
+      "translation": null
+    },
+    {
+      "time": 176.87,
+      "time_str": "02:56.870",
+      "text": "下个他",
+      "translation": null
+    },
+    {
+      "time": 177.87,
+      "time_str": "02:57.870",
+      "text": "他吻她",
+      "translation": null
+    },
+    {
+      "time": 179.15,
+      "time_str": "02:59.150",
+      "text": "他吻她吻他吻她",
+      "translation": null
+    },
+    {
+      "time": 180.9,
+      "time_str": "03:00.900",
+      "text": "延续愉快过程",
+      "translation": null
+    },
+    {
+      "time": 182.9,
+      "time_str": "03:02.900",
+      "text": "你我他真高兴",
+      "translation": null
+    },
+    {
+      "time": 185.06,
+      "time_str": "03:05.060",
+      "text": "十个他 千个她",
+      "translation": null
+    },
+    {
+      "time": 187.12,
+      "time_str": "03:07.120",
+      "text": "恩爱扩展的旅程",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "处处吻 - 杨千嬅.lrc"
+}

@@ -1,0 +1,226 @@
+{
+  "title": "兰花指",
+  "title_raw": "兰花指",
+  "version": null,
+  "artist": "阿里郎",
+  "group_key": "兰花指|阿里郎",
+  "writers": {
+    "lyricist": "李世昌",
+    "composer": "阿里郎",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.49,
+      "time_str": "00:19.490",
+      "text": "花凋谢了一地",
+      "translation": null
+    },
+    {
+      "time": 21.41,
+      "time_str": "00:21.410",
+      "text": "遗落满地记忆",
+      "translation": null
+    },
+    {
+      "time": 23.67,
+      "time_str": "00:23.670",
+      "text": "望着你渐渐没入人海的背影",
+      "translation": null
+    },
+    {
+      "time": 28.08,
+      "time_str": "00:28.080",
+      "text": "仿佛隔着天与地 爱已离去",
+      "translation": null
+    },
+    {
+      "time": 33.41,
+      "time_str": "00:33.410",
+      "text": "我愿为你隐姓埋名",
+      "translation": null
+    },
+    {
+      "time": 37.99,
+      "time_str": "00:37.990",
+      "text": "如果穿梭时空 回到过去以后",
+      "translation": null
+    },
+    {
+      "time": 42.11,
+      "time_str": "00:42.110",
+      "text": "我们可以再次牵着手旧地重游",
+      "translation": null
+    },
+    {
+      "time": 46.82,
+      "time_str": "00:46.820",
+      "text": "等你亲口告诉我 你的承诺",
+      "translation": null
+    },
+    {
+      "time": 52.08,
+      "time_str": "00:52.080",
+      "text": "一起等到花开气候",
+      "translation": null
+    },
+    {
+      "time": 55.72,
+      "time_str": "00:55.720",
+      "text": "伤心已久 你的兰花指",
+      "translation": null
+    },
+    {
+      "time": 60.44,
+      "time_str": "01:00.440",
+      "text": "千年拈碎成往事",
+      "translation": null
+    },
+    {
+      "time": 64.9,
+      "time_str": "01:04.900",
+      "text": "爱你依旧 让你我再爱一次",
+      "translation": null
+    },
+    {
+      "time": 70.95,
+      "time_str": "01:10.950",
+      "text": "我对着天发誓",
+      "translation": null
+    },
+    {
+      "time": 74.75,
+      "time_str": "01:14.750",
+      "text": "......",
+      "translation": null
+    },
+    {
+      "time": 93.58,
+      "time_str": "01:33.580",
+      "text": "如果穿梭时空 回到过去以后",
+      "translation": null
+    },
+    {
+      "time": 97.62,
+      "time_str": "01:37.620",
+      "text": "我们可以再次牵着手旧地重游",
+      "translation": null
+    },
+    {
+      "time": 102.25,
+      "time_str": "01:42.250",
+      "text": "等你亲口告诉我",
+      "translation": null
+    },
+    {
+      "time": 104.78,
+      "time_str": "01:44.780",
+      "text": "你的承诺",
+      "translation": null
+    },
+    {
+      "time": 107.32,
+      "time_str": "01:47.320",
+      "text": "一起等到花开气候",
+      "translation": null
+    },
+    {
+      "time": 111.02,
+      "time_str": "01:51.020",
+      "text": "伤心已久 你的兰花指",
+      "translation": null
+    },
+    {
+      "time": 115.94,
+      "time_str": "01:55.940",
+      "text": "千年拈碎成往事",
+      "translation": null
+    },
+    {
+      "time": 120.32,
+      "time_str": "02:00.320",
+      "text": "爱你依旧 让你我再爱一次",
+      "translation": null
+    },
+    {
+      "time": 126.04,
+      "time_str": "02:06.040",
+      "text": "我对着天发誓",
+      "translation": null
+    },
+    {
+      "time": 131.03,
+      "time_str": "02:11.030",
+      "text": "活在我这一片天空",
+      "translation": null
+    },
+    {
+      "time": 135.12,
+      "time_str": "02:15.120",
+      "text": "有我温暖的胸口",
+      "translation": null
+    },
+    {
+      "time": 139.44,
+      "time_str": "02:19.440",
+      "text": "把幸福安全的送到妳手中",
+      "translation": null
+    },
+    {
+      "time": 144.9,
+      "time_str": "02:24.900",
+      "text": "爱不再退缩",
+      "translation": null
+    },
+    {
+      "time": 148.05,
+      "time_str": "02:28.050",
+      "text": "伤心已久 一朵兰花指",
+      "translation": null
+    },
+    {
+      "time": 152.57,
+      "time_str": "02:32.570",
+      "text": "千年拈碎成往事",
+      "translation": null
+    },
+    {
+      "time": 157.17,
+      "time_str": "02:37.170",
+      "text": "爱你依旧 让你我再爱一次",
+      "translation": null
+    },
+    {
+      "time": 163.12,
+      "time_str": "02:43.120",
+      "text": "我对着天发誓",
+      "translation": null
+    },
+    {
+      "time": 168.71,
+      "time_str": "02:48.710",
+      "text": "伤心已久 你的兰花指",
+      "translation": null
+    },
+    {
+      "time": 173.41,
+      "time_str": "02:53.410",
+      "text": "千年拈碎成往事",
+      "translation": null
+    },
+    {
+      "time": 178.04,
+      "time_str": "02:58.040",
+      "text": "爱你依旧 让你我再爱一次",
+      "translation": null
+    },
+    {
+      "time": 184.82,
+      "time_str": "03:04.820",
+      "text": "我对着天发誓",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "兰花指 - 阿里郎.lrc"
+}

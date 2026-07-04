@@ -1,0 +1,232 @@
+{
+  "title": "世间始终你好",
+  "title_raw": "世间始终你好",
+  "version": null,
+  "artist": "罗文,甄妮",
+  "group_key": "世间始终你好|罗文,甄妮",
+  "writers": {
+    "lyricist": "黄霑",
+    "composer": "顾嘉辉",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.88,
+      "time_str": "00:13.880",
+      "text": "问世间",
+      "translation": null
+    },
+    {
+      "time": 16.09,
+      "time_str": "00:16.090",
+      "text": "是否此山最高",
+      "translation": null
+    },
+    {
+      "time": 20.79,
+      "time_str": "00:20.790",
+      "text": "或者",
+      "translation": null
+    },
+    {
+      "time": 23.24,
+      "time_str": "00:23.240",
+      "text": "另有高处比天高",
+      "translation": null
+    },
+    {
+      "time": 27.89,
+      "time_str": "00:27.890",
+      "text": "在世间",
+      "translation": null
+    },
+    {
+      "time": 30.2,
+      "time_str": "00:30.200",
+      "text": "自有山比此山更高",
+      "translation": null
+    },
+    {
+      "time": 34.73,
+      "time_str": "00:34.730",
+      "text": "但爱心",
+      "translation": null
+    },
+    {
+      "time": 37.0,
+      "time_str": "00:37.000",
+      "text": "找不到比你好",
+      "translation": null
+    },
+    {
+      "time": 41.5,
+      "time_str": "00:41.500",
+      "text": "一山还比一山高",
+      "translation": null
+    },
+    {
+      "time": 47.2,
+      "time_str": "00:47.200",
+      "text": "（无一可比你）",
+      "translation": null
+    },
+    {
+      "time": 48.2,
+      "time_str": "00:48.200",
+      "text": "真爱有如天高",
+      "translation": null
+    },
+    {
+      "time": 51.64,
+      "time_str": "00:51.640",
+      "text": "（爱更高）",
+      "translation": null
+    },
+    {
+      "time": 52.64,
+      "time_str": "00:52.640",
+      "text": "千百样好",
+      "translation": null
+    },
+    {
+      "time": 57.5,
+      "time_str": "00:57.500",
+      "text": "论武功",
+      "translation": null
+    },
+    {
+      "time": 59.55,
+      "time_str": "00:59.550",
+      "text": "俗世中不知边个高",
+      "translation": null
+    },
+    {
+      "time": 64.5,
+      "time_str": "01:04.500",
+      "text": "或者",
+      "translation": null
+    },
+    {
+      "time": 66.71,
+      "time_str": "01:06.710",
+      "text": "绝招同途异路",
+      "translation": null
+    },
+    {
+      "time": 71.39,
+      "time_str": "01:11.390",
+      "text": "但我知",
+      "translation": null
+    },
+    {
+      "time": 73.57,
+      "time_str": "01:13.570",
+      "text": "论爱心找不到更好",
+      "translation": null
+    },
+    {
+      "time": 78.37,
+      "time_str": "01:18.370",
+      "text": "待我心",
+      "translation": null
+    },
+    {
+      "time": 80.55,
+      "time_str": "01:20.550",
+      "text": "世间始终你好",
+      "translation": null
+    },
+    {
+      "time": 98.77,
+      "time_str": "01:38.770",
+      "text": "一山还比一山高",
+      "translation": null
+    },
+    {
+      "time": 104.48,
+      "time_str": "01:44.480",
+      "text": "（无一可比你）",
+      "translation": null
+    },
+    {
+      "time": 105.48,
+      "time_str": "01:45.480",
+      "text": "真爱有如天高",
+      "translation": null
+    },
+    {
+      "time": 108.99,
+      "time_str": "01:48.990",
+      "text": "（爱更高）",
+      "translation": null
+    },
+    {
+      "time": 109.99,
+      "time_str": "01:49.990",
+      "text": "千百样好",
+      "translation": null
+    },
+    {
+      "time": 114.8,
+      "time_str": "01:54.800",
+      "text": "论武功",
+      "translation": null
+    },
+    {
+      "time": 117.07,
+      "time_str": "01:57.070",
+      "text": "俗世中不知边个高",
+      "translation": null
+    },
+    {
+      "time": 121.77,
+      "time_str": "02:01.770",
+      "text": "或者",
+      "translation": null
+    },
+    {
+      "time": 123.99,
+      "time_str": "02:03.990",
+      "text": "绝招同途异路",
+      "translation": null
+    },
+    {
+      "time": 128.59,
+      "time_str": "02:08.590",
+      "text": "但我知",
+      "translation": null
+    },
+    {
+      "time": 130.9,
+      "time_str": "02:10.900",
+      "text": "论爱心找不到更好",
+      "translation": null
+    },
+    {
+      "time": 135.65,
+      "time_str": "02:15.650",
+      "text": "待我心",
+      "translation": null
+    },
+    {
+      "time": 137.82,
+      "time_str": "02:17.820",
+      "text": "世间始终你好",
+      "translation": null
+    },
+    {
+      "time": 142.67,
+      "time_str": "02:22.670",
+      "text": "待我心",
+      "translation": null
+    },
+    {
+      "time": 144.79,
+      "time_str": "02:24.790",
+      "text": "世间始终你好",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "世间始终你好 - 罗文,甄妮.lrc"
+}

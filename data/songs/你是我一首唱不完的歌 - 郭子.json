@@ -1,0 +1,142 @@
+{
+  "title": "你是我一首唱不完的歌",
+  "title_raw": "你是我一首唱不完的歌",
+  "version": null,
+  "artist": "郭子",
+  "group_key": "你是我一首唱不完的歌|郭子",
+  "writers": {
+    "lyricist": null,
+    "composer": "郭子",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.884,
+      "time_str": "00:29.884",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 36.381,
+      "time_str": "00:36.381",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 44.125,
+      "time_str": "00:44.125",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 58.875,
+      "time_str": "00:58.875",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 64.88,
+      "time_str": "01:04.880",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 72.872,
+      "time_str": "01:12.872",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 88.356,
+      "time_str": "01:28.356",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 97.344,
+      "time_str": "01:37.344",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 102.352,
+      "time_str": "01:42.352",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 116.337,
+      "time_str": "01:56.337",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 122.611,
+      "time_str": "02:02.611",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 130.096,
+      "time_str": "02:10.096",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 173.098,
+      "time_str": "02:53.098",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 183.343,
+      "time_str": "03:03.343",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 188.096,
+      "time_str": "03:08.096",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 198.591,
+      "time_str": "03:18.591",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 208.346,
+      "time_str": "03:28.346",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 212.844,
+      "time_str": "03:32.844",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 227.35,
+      "time_str": "03:47.350",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 233.099,
+      "time_str": "03:53.099",
+      "text": "na na na na na",
+      "translation": null
+    },
+    {
+      "time": 241.336,
+      "time_str": "04:01.336",
+      "text": "na na na na na",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你是我一首唱不完的歌 - 郭子.lrc"
+}

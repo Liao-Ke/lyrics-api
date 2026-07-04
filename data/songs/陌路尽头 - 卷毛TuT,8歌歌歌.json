@@ -1,0 +1,310 @@
+{
+  "title": "陌路尽头",
+  "title_raw": "陌路尽头",
+  "version": null,
+  "artist": "卷毛TuT,8歌歌歌",
+  "group_key": "陌路尽头|卷毛tut,8歌歌歌",
+  "writers": {
+    "lyricist": "赵楠",
+    "composer": "小涛",
+    "arranger": "安逸SuperJump"
+  },
+  "lyrics": [
+    {
+      "time": 0.61,
+      "time_str": "00:00.610",
+      "text": "《陌路尽头》",
+      "translation": null
+    },
+    {
+      "time": 1.6,
+      "time_str": "00:01.600",
+      "text": "8歌&卷毛",
+      "translation": null
+    },
+    {
+      "time": 5.63,
+      "time_str": "00:05.630",
+      "text": "歌词制作：8歌",
+      "translation": null
+    },
+    {
+      "time": 7.31,
+      "time_str": "00:07.310",
+      "text": "人声录音：小风是我@Jcv Studio",
+      "translation": null
+    },
+    {
+      "time": 8.92,
+      "time_str": "00:08.920",
+      "text": "母带：小风是我@Jcv Studio/卷毛",
+      "translation": null
+    },
+    {
+      "time": 10.47,
+      "time_str": "00:10.470",
+      "text": "混音工作室：CurlyColor Studio",
+      "translation": null
+    },
+    {
+      "time": 11.27,
+      "time_str": "00:11.270",
+      "text": "母带工作室：CurlyColor Studio",
+      "translation": null
+    },
+    {
+      "time": 14.5,
+      "time_str": "00:14.500",
+      "text": "毛：从并肩而行到追逐背影",
+      "translation": null
+    },
+    {
+      "time": 17.79,
+      "time_str": "00:17.790",
+      "text": "将疏远诠释得很彻底",
+      "translation": null
+    },
+    {
+      "time": 21.75,
+      "time_str": "00:21.750",
+      "text": "8：这仓促剧情没挽留余地",
+      "translation": null
+    },
+    {
+      "time": 25.04,
+      "time_str": "00:25.040",
+      "text": "脱离被爱轨迹",
+      "translation": null
+    },
+    {
+      "time": 28.51,
+      "time_str": "00:28.510",
+      "text": "毛：世界另一边的",
+      "translation": null
+    },
+    {
+      "time": 30.43,
+      "time_str": "00:30.430",
+      "text": "8：你曾惬意的靠近只是事到如今",
+      "translation": null
+    },
+    {
+      "time": 34.04,
+      "time_str": "00:34.040",
+      "text": "毛：已被注定平行",
+      "translation": null
+    },
+    {
+      "time": 36.02,
+      "time_str": "00:36.020",
+      "text": "8：可早已经约定炙热的双手握紧",
+      "translation": null
+    },
+    {
+      "time": 39.49,
+      "time_str": "00:39.490",
+      "text": "毛：誓言太过违心",
+      "translation": null
+    },
+    {
+      "time": 42.85,
+      "time_str": "00:42.850",
+      "text": "8：倘若你与我终究陌路在旅程尽头",
+      "translation": null
+    },
+    {
+      "time": 46.44,
+      "time_str": "00:46.440",
+      "text": "我何必在开篇启程时过分期待以后",
+      "translation": null
+    },
+    {
+      "time": 50.1,
+      "time_str": "00:50.100",
+      "text": "相遇的最后竟然只能够擦肩而过",
+      "translation": null
+    },
+    {
+      "time": 53.75,
+      "time_str": "00:53.750",
+      "text": "怪我没预判到结果",
+      "translation": null
+    },
+    {
+      "time": 57.29,
+      "time_str": "00:57.290",
+      "text": "倘若你与我终究陌路在旅程尽头",
+      "translation": null
+    },
+    {
+      "time": 60.88,
+      "time_str": "01:00.880",
+      "text": "在沿途欣赏风景时就不该留念太久",
+      "translation": null
+    },
+    {
+      "time": 64.53,
+      "time_str": "01:04.530",
+      "text": "贪心的想将你温柔全部都占为己有",
+      "translation": null
+    },
+    {
+      "time": 68.19,
+      "time_str": "01:08.190",
+      "text": "未曾想自始至终都 不是我",
+      "translation": null
+    },
+    {
+      "time": 87.21,
+      "time_str": "01:27.210",
+      "text": "毛：从并肩而行到追逐背影",
+      "translation": null
+    },
+    {
+      "time": 90.62,
+      "time_str": "01:30.620",
+      "text": "将疏远诠释得很彻底",
+      "translation": null
+    },
+    {
+      "time": 94.53,
+      "time_str": "01:34.530",
+      "text": "8：这仓促剧情没挽留余地",
+      "translation": null
+    },
+    {
+      "time": 97.75,
+      "time_str": "01:37.750",
+      "text": "脱离被爱轨迹",
+      "translation": null
+    },
+    {
+      "time": 101.41,
+      "time_str": "01:41.410",
+      "text": "毛：世界另一边的",
+      "translation": null
+    },
+    {
+      "time": 103.14,
+      "time_str": "01:43.140",
+      "text": "8：你曾惬意的靠近只是事到如今",
+      "translation": null
+    },
+    {
+      "time": 106.55,
+      "time_str": "01:46.550",
+      "text": "毛：已被注定平行",
+      "translation": null
+    },
+    {
+      "time": 108.78,
+      "time_str": "01:48.780",
+      "text": "8：可早已经约定炙热的双手握紧",
+      "translation": null
+    },
+    {
+      "time": 112.07,
+      "time_str": "01:52.070",
+      "text": "毛：誓言太过违心",
+      "translation": null
+    },
+    {
+      "time": 115.53,
+      "time_str": "01:55.530",
+      "text": "毛：倘若你与我终究陌路在旅程尽头",
+      "translation": null
+    },
+    {
+      "time": 119.12,
+      "time_str": "01:59.120",
+      "text": "我何必在开篇启程时过分期待以后",
+      "translation": null
+    },
+    {
+      "time": 122.84,
+      "time_str": "02:02.840",
+      "text": "相遇的最后竟然只能够擦肩而过",
+      "translation": null
+    },
+    {
+      "time": 126.5,
+      "time_str": "02:06.500",
+      "text": "怪我没预判到结果",
+      "translation": null
+    },
+    {
+      "time": 129.9,
+      "time_str": "02:09.900",
+      "text": "倘若你与我终究陌路在旅程尽头",
+      "translation": null
+    },
+    {
+      "time": 133.68,
+      "time_str": "02:13.680",
+      "text": "在沿途欣赏风景时就不该留念太久",
+      "translation": null
+    },
+    {
+      "time": 137.28,
+      "time_str": "02:17.280",
+      "text": "贪心的想将你温柔全部都占为己有",
+      "translation": null
+    },
+    {
+      "time": 140.93,
+      "time_str": "02:20.930",
+      "text": "未曾想自始至终都 不是我",
+      "translation": null
+    },
+    {
+      "time": 151.71,
+      "time_str": "02:31.710",
+      "text": "合: 倘若你与我终究陌路在旅程尽头",
+      "translation": null
+    },
+    {
+      "time": 155.55,
+      "time_str": "02:35.550",
+      "text": "我何必在开篇启程时过分期待以后",
+      "translation": null
+    },
+    {
+      "time": 159.21,
+      "time_str": "02:39.210",
+      "text": "相遇的最后竟然只能够擦肩而过",
+      "translation": null
+    },
+    {
+      "time": 162.86,
+      "time_str": "02:42.860",
+      "text": "怪我没预判到结果",
+      "translation": null
+    },
+    {
+      "time": 166.45,
+      "time_str": "02:46.450",
+      "text": "倘若你与我终究陌路在旅程尽头",
+      "translation": null
+    },
+    {
+      "time": 170.12,
+      "time_str": "02:50.120",
+      "text": "在沿途欣赏风景时就不该留念太久",
+      "translation": null
+    },
+    {
+      "time": 173.71,
+      "time_str": "02:53.710",
+      "text": "贪心的想将你温柔全部都占为己有",
+      "translation": null
+    },
+    {
+      "time": 177.55,
+      "time_str": "02:57.550",
+      "text": "未曾想自始至终都 不是我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "陌路尽头 - 卷毛TuT,8歌歌歌.lrc"
+}

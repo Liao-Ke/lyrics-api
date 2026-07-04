@@ -1,0 +1,52 @@
+{
+  "title": "黄河的水干了",
+  "title_raw": "黄河的水干了",
+  "version": null,
+  "artist": "腾格尔",
+  "group_key": "黄河的水干了|腾格尔",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.0,
+      "time_str": "00:02.000",
+      "text": "黄河的水干了 妈妈哭了",
+      "translation": null
+    },
+    {
+      "time": 21.73,
+      "time_str": "00:21.730",
+      "text": "黄河的水干了 我的心碎了",
+      "translation": null
+    },
+    {
+      "time": 41.359,
+      "time_str": "00:41.359",
+      "text": "早知道黄河的水干了",
+      "translation": null
+    },
+    {
+      "time": 50.418,
+      "time_str": "00:50.418",
+      "text": "修他妈的铁锹是做啥那",
+      "translation": null
+    },
+    {
+      "time": 55.938,
+      "time_str": "00:55.938",
+      "text": "早知道干妹妹的心变了",
+      "translation": null
+    },
+    {
+      "time": 63.167,
+      "time_str": "01:03.167",
+      "text": "谈他妈的恋爱是做啥那",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "黄河的水干了 - 腾格尔.lrc"
+}

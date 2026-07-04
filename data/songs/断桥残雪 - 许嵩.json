@@ -1,0 +1,208 @@
+{
+  "title": "断桥残雪",
+  "title_raw": "断桥残雪",
+  "version": null,
+  "artist": "许嵩",
+  "group_key": "断桥残雪|许嵩",
+  "writers": {
+    "lyricist": "许嵩",
+    "composer": "许嵩",
+    "arranger": "许嵩"
+  },
+  "lyrics": [
+    {
+      "time": 24.38,
+      "time_str": "00:24.380",
+      "text": "寻不到花的折翼枯叶蝶",
+      "translation": null
+    },
+    {
+      "time": 29.76,
+      "time_str": "00:29.760",
+      "text": "永远也看不见凋谢",
+      "translation": null
+    },
+    {
+      "time": 36.44,
+      "time_str": "00:36.440",
+      "text": "江南夜色下的小桥屋檐",
+      "translation": null
+    },
+    {
+      "time": 41.7,
+      "time_str": "00:41.700",
+      "text": "读不懂塞北的荒野",
+      "translation": null
+    },
+    {
+      "time": 48.53,
+      "time_str": "00:48.530",
+      "text": "梅开时节因寂寞而缠绵",
+      "translation": null
+    },
+    {
+      "time": 53.72,
+      "time_str": "00:53.720",
+      "text": "春归后又很快湮灭",
+      "translation": null
+    },
+    {
+      "time": 60.46,
+      "time_str": "01:00.460",
+      "text": "独留我赏烟花飞满天",
+      "translation": null
+    },
+    {
+      "time": 65.74,
+      "time_str": "01:05.740",
+      "text": "摇曳后就随风飘远",
+      "translation": null
+    },
+    {
+      "time": 72.7,
+      "time_str": "01:12.700",
+      "text": "断桥是否下过雪",
+      "translation": null
+    },
+    {
+      "time": 75.45,
+      "time_str": "01:15.450",
+      "text": "我望着湖面",
+      "translation": null
+    },
+    {
+      "time": 78.41,
+      "time_str": "01:18.410",
+      "text": "水中寒月如雪",
+      "translation": null
+    },
+    {
+      "time": 81.41,
+      "time_str": "01:21.410",
+      "text": "指尖轻点融解",
+      "translation": null
+    },
+    {
+      "time": 84.42,
+      "time_str": "01:24.420",
+      "text": "断桥是否下过雪",
+      "translation": null
+    },
+    {
+      "time": 87.37,
+      "time_str": "01:27.370",
+      "text": "又想起你的脸",
+      "translation": null
+    },
+    {
+      "time": 90.36,
+      "time_str": "01:30.360",
+      "text": "若是无缘再见",
+      "translation": null
+    },
+    {
+      "time": 93.32,
+      "time_str": "01:33.320",
+      "text": "白堤柳帘垂泪好几遍",
+      "translation": null
+    },
+    {
+      "time": 123.6,
+      "time_str": "02:03.600",
+      "text": "寻不到花的折翼枯叶蝶",
+      "translation": null
+    },
+    {
+      "time": 128.73,
+      "time_str": "02:08.730",
+      "text": "永远也看不见凋谢",
+      "translation": null
+    },
+    {
+      "time": 135.37,
+      "time_str": "02:15.370",
+      "text": "江南夜色下的小桥屋檐",
+      "translation": null
+    },
+    {
+      "time": 140.9,
+      "time_str": "02:20.900",
+      "text": "读不懂塞北的荒野",
+      "translation": null
+    },
+    {
+      "time": 147.45,
+      "time_str": "02:27.450",
+      "text": "梅开时节因寂寞而缠绵",
+      "translation": null
+    },
+    {
+      "time": 153.5,
+      "time_str": "02:33.500",
+      "text": "春归后又很快湮灭",
+      "translation": null
+    },
+    {
+      "time": 159.38,
+      "time_str": "02:39.380",
+      "text": "独留我赏烟花飞满天",
+      "translation": null
+    },
+    {
+      "time": 165.3,
+      "time_str": "02:45.300",
+      "text": "摇曳后就随风飘远",
+      "translation": null
+    },
+    {
+      "time": 171.44,
+      "time_str": "02:51.440",
+      "text": "断桥是否下过雪",
+      "translation": null
+    },
+    {
+      "time": 175.87,
+      "time_str": "02:55.870",
+      "text": "我望着湖面",
+      "translation": null
+    },
+    {
+      "time": 178.58,
+      "time_str": "02:58.580",
+      "text": "水中寒月如雪",
+      "translation": null
+    },
+    {
+      "time": 181.58,
+      "time_str": "03:01.580",
+      "text": "指尖轻点融解",
+      "translation": null
+    },
+    {
+      "time": 184.63,
+      "time_str": "03:04.630",
+      "text": "断桥是否下过雪",
+      "translation": null
+    },
+    {
+      "time": 187.58,
+      "time_str": "03:07.580",
+      "text": "又想起你的脸",
+      "translation": null
+    },
+    {
+      "time": 190.56,
+      "time_str": "03:10.560",
+      "text": "若是无缘再见",
+      "translation": null
+    },
+    {
+      "time": 193.57,
+      "time_str": "03:13.570",
+      "text": "白堤柳帘垂泪好几遍",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "断桥残雪 - 许嵩.lrc"
+}

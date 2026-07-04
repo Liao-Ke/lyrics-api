@@ -1,0 +1,706 @@
+{
+  "title": "Uptown Funk",
+  "title_raw": "Uptown Funk",
+  "version": null,
+  "artist": "Mark Ronson,Bruno Mars",
+  "group_key": "uptown funk|mark ronson,bruno mars",
+  "writers": {
+    "lyricist": "Mark Ronson / Bruno Mars / Philip Lawrence / Jeff Bhasker / Nicholas Williams / Devon Gallaspy / Charles Wilson / Robert Wilson / Ronnie Wilson / Rudolph Taylor / Lonnie Simmons",
+    "composer": "Mark Ronson / Bruno Mars / Philip Lawrence / Jeff Bhasker / Nicholas Williams / Devon Gallaspy / Charles Wilson / Robert Wilson / Ronnie Wilson / Rudolph Taylor / Lonnie Simmons",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.72,
+      "time_str": "00:16.720",
+      "text": "This hit",
+      "translation": "这鼓点"
+    },
+    {
+      "time": 17.68,
+      "time_str": "00:17.680",
+      "text": "That ice cold",
+      "translation": "那酷爽"
+    },
+    {
+      "time": 18.63,
+      "time_str": "00:18.630",
+      "text": "Michelle Pfeiffer",
+      "translation": "米歇尔·菲弗"
+    },
+    {
+      "time": 20.31,
+      "time_str": "00:20.310",
+      "text": "That white gold",
+      "translation": "金发白肤美妞"
+    },
+    {
+      "time": 20.84,
+      "time_str": "00:20.840",
+      "text": "This one, for them hood girls",
+      "translation": "就这帮帽衫女孩"
+    },
+    {
+      "time": 22.66,
+      "time_str": "00:22.660",
+      "text": "Them good girls",
+      "translation": "个个正点"
+    },
+    {
+      "time": 23.73,
+      "time_str": "00:23.730",
+      "text": "Straight masterpieces",
+      "translation": "简直尤物"
+    },
+    {
+      "time": 24.9,
+      "time_str": "00:24.900",
+      "text": "Stylin', wildin'",
+      "translation": "够潮有型"
+    },
+    {
+      "time": 27.07,
+      "time_str": "00:27.070",
+      "text": "Livin' it up in the city",
+      "translation": "让这城市纵情享乐"
+    },
+    {
+      "time": 29.09,
+      "time_str": "00:29.090",
+      "text": "Got Chucks on with Saint Laurent",
+      "translation": "穿上帆布鞋挎个名牌包"
+    },
+    {
+      "time": 30.96,
+      "time_str": "00:30.960",
+      "text": "Gotta kiss myself I'm so pretty",
+      "translation": "都快爱上我自己就这么帅气"
+    },
+    {
+      "time": 32.89,
+      "time_str": "00:32.890",
+      "text": "I'm too hot (hot damn)",
+      "translation": "哥就是这么性感（这么火辣）"
+    },
+    {
+      "time": 35.11,
+      "time_str": "00:35.110",
+      "text": "Called the police and the fireman",
+      "translation": "快叫上警察消防员来给我降降温"
+    },
+    {
+      "time": 37.29,
+      "time_str": "00:37.290",
+      "text": "I'm too hot (hot damn)",
+      "translation": "哥就是这么性感（这么火辣）"
+    },
+    {
+      "time": 39.26,
+      "time_str": "00:39.260",
+      "text": "Make a dragon wanna retire man",
+      "translation": "暴脾气都被我的帅熄火"
+    },
+    {
+      "time": 41.37,
+      "time_str": "00:41.370",
+      "text": "I'm too hot (hot damn)",
+      "translation": "哥就是这么性感（这么火辣）"
+    },
+    {
+      "time": 43.25,
+      "time_str": "00:43.250",
+      "text": "Say my name you know who I am",
+      "translation": "高呼我的名字你知道我是谁"
+    },
+    {
+      "time": 45.67,
+      "time_str": "00:45.670",
+      "text": "I'm too hot (hot damn)",
+      "translation": "哥就是这么性感（这么火辣）"
+    },
+    {
+      "time": 47.75,
+      "time_str": "00:47.750",
+      "text": "Am I bad 'bout that money",
+      "translation": "有钱是我的错吗"
+    },
+    {
+      "time": 49.47,
+      "time_str": "00:49.470",
+      "text": "Break it down",
+      "translation": "打断一下"
+    },
+    {
+      "time": 49.92,
+      "time_str": "00:49.920",
+      "text": "Girls hit your hallelujah (whuoo)",
+      "translation": "女孩们 快献上溢美之词 （喔）"
+    },
+    {
+      "time": 51.95,
+      "time_str": "00:51.950",
+      "text": "Girls hit your hallelujah (whuoo)",
+      "translation": "女孩们 快献上溢美之词 （喔）"
+    },
+    {
+      "time": 54.01,
+      "time_str": "00:54.010",
+      "text": "Girls hit your hallelujah (whuoo)",
+      "translation": "女孩们 快献上溢美之词 （喔）"
+    },
+    {
+      "time": 56.03,
+      "time_str": "00:56.030",
+      "text": "'Cause Uptown Funk gon' give it to you",
+      "translation": "因为这上城放克乐 就是献给你们的"
+    },
+    {
+      "time": 58.22,
+      "time_str": "00:58.220",
+      "text": "'Cause Uptown Funk gon' give it to you",
+      "translation": "因为这上城放克乐 就是献给你们的"
+    },
+    {
+      "time": 60.3,
+      "time_str": "01:00.300",
+      "text": "'Cause Uptown Funk gon' give it to you",
+      "translation": "因为这上城放克乐 就是献给你们的"
+    },
+    {
+      "time": 62.36,
+      "time_str": "01:02.360",
+      "text": "Saturday night and we in the spot",
+      "translation": "周六晚我们将嗨翻现场"
+    },
+    {
+      "time": 64.19,
+      "time_str": "01:04.190",
+      "text": "Don't believe me just watch (come on)",
+      "translation": "不信我 就走着瞧 来吧"
+    },
+    {
+      "time": 73.41,
+      "time_str": "01:13.410",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 80.99,
+      "time_str": "01:20.990",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 83.17,
+      "time_str": "01:23.170",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 85.24,
+      "time_str": "01:25.240",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 87.26,
+      "time_str": "01:27.260",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 89.24,
+      "time_str": "01:29.240",
+      "text": "Hey, hey, hey, oh!",
+      "translation": "嘿 嘿 嘿 哦"
+    },
+    {
+      "time": 91.51,
+      "time_str": "01:31.510",
+      "text": "Stop",
+      "translation": "停"
+    },
+    {
+      "time": 92.62,
+      "time_str": "01:32.620",
+      "text": "Wait a minute",
+      "translation": "等一下"
+    },
+    {
+      "time": 93.58,
+      "time_str": "01:33.580",
+      "text": "Fill my cup put some liquor in it",
+      "translation": "斟满我的酒杯"
+    },
+    {
+      "time": 95.65,
+      "time_str": "01:35.650",
+      "text": "Take a sip, sign a check",
+      "translation": "抿一口 在支票上签个名"
+    },
+    {
+      "time": 97.73,
+      "time_str": "01:37.730",
+      "text": "Julio! Get the stretch!",
+      "translation": "胡里奥 放开了玩"
+    },
+    {
+      "time": 99.69,
+      "time_str": "01:39.690",
+      "text": "Ride to Harlem, Hollywood, Jackson, Mississippi",
+      "translation": "直奔哈林区 好莱坞  杰克逊 密西西比"
+    },
+    {
+      "time": 103.8,
+      "time_str": "01:43.800",
+      "text": "If we show up, we gon' show out",
+      "translation": "我们一旦亮相 就要秀个漂亮"
+    },
+    {
+      "time": 105.93,
+      "time_str": "01:45.930",
+      "text": "Smoother than a fresh jar of skippy",
+      "translation": "丝滑堪比新鲜的Skippy花生酱"
+    },
+    {
+      "time": 108.0,
+      "time_str": "01:48.000",
+      "text": "I'm too hot (hot damn)",
+      "translation": "哥就是这么性感 （这么火辣）"
+    },
+    {
+      "time": 109.88,
+      "time_str": "01:49.880",
+      "text": "Called a police and a fireman",
+      "translation": "快叫上警察消防员 来给我降降温"
+    },
+    {
+      "time": 112.0,
+      "time_str": "01:52.000",
+      "text": "I'm too hot (hot damn)",
+      "translation": "哥就是这么性感 （这么火辣）"
+    },
+    {
+      "time": 114.13,
+      "time_str": "01:54.130",
+      "text": "Make a dragon wanna retire man",
+      "translation": "暴脾气都被我的帅熄火"
+    },
+    {
+      "time": 116.09,
+      "time_str": "01:56.090",
+      "text": "I'm too hot (hot damn) (hot damn)",
+      "translation": "哥就是这么性感 （这么火辣）"
+    },
+    {
+      "time": 118.32,
+      "time_str": "01:58.320",
+      "text": "B***h, say my name you know who I am",
+      "translation": "高呼我的名字 你知道我是谁"
+    },
+    {
+      "time": 120.14,
+      "time_str": "02:00.140",
+      "text": "I'm too hot (hot damn)",
+      "translation": "哥就是这么性感 （这么火辣）"
+    },
+    {
+      "time": 122.12,
+      "time_str": "02:02.120",
+      "text": "Am I bad 'bout that money",
+      "translation": "哥就是前途无量"
+    },
+    {
+      "time": 124.19,
+      "time_str": "02:04.190",
+      "text": "Break it down",
+      "translation": "打断一下"
+    },
+    {
+      "time": 124.7,
+      "time_str": "02:04.700",
+      "text": "Girls hit your hallelujah (whuoo)",
+      "translation": "女孩们 快献上溢美之词 （喔）"
+    },
+    {
+      "time": 126.72,
+      "time_str": "02:06.720",
+      "text": "Girls hit your hallelujah (whuoo)",
+      "translation": "女孩们 快献上溢美之词 （喔）"
+    },
+    {
+      "time": 128.69,
+      "time_str": "02:08.690",
+      "text": "Girls hit your hallelujah (whuoo)",
+      "translation": "女孩们 快献上溢美之词 （喔）"
+    },
+    {
+      "time": 130.72,
+      "time_str": "02:10.720",
+      "text": "'Cause Uptown Funk gon' give it to you",
+      "translation": "因为这上城放克乐 就是献给你们的"
+    },
+    {
+      "time": 132.85,
+      "time_str": "02:12.850",
+      "text": "'Cause Uptown Funk gon' give it to you",
+      "translation": "因为这上城放克乐 就是献给你们的"
+    },
+    {
+      "time": 134.92,
+      "time_str": "02:14.920",
+      "text": "'Cause Uptown Funk gon' give it to you",
+      "translation": "因为这上城放克乐 就是献给你们的"
+    },
+    {
+      "time": 137.05,
+      "time_str": "02:17.050",
+      "text": "Saturday night and we in the spot",
+      "translation": "周六晚 我们将嗨翻现场"
+    },
+    {
+      "time": 138.92,
+      "time_str": "02:18.920",
+      "text": "Don't believe me just watch (come on)",
+      "translation": "不信我 就走着瞧 来吧"
+    },
+    {
+      "time": 147.52,
+      "time_str": "02:27.520",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 155.77,
+      "time_str": "02:35.770",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 157.94,
+      "time_str": "02:37.940",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 160.06,
+      "time_str": "02:40.060",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 161.97,
+      "time_str": "02:41.970",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 163.95,
+      "time_str": "02:43.950",
+      "text": "Hey, hey, hey, oh!",
+      "translation": "嘿 嘿 嘿 哦"
+    },
+    {
+      "time": 173.9,
+      "time_str": "02:53.900",
+      "text": "Before we leave",
+      "translation": "在我们离开之前"
+    },
+    {
+      "time": 174.31,
+      "time_str": "02:54.310",
+      "text": "Imma tell y'all a lil' something",
+      "translation": "我会告诉你一些事情"
+    },
+    {
+      "time": 175.33,
+      "time_str": "02:55.330",
+      "text": "Uptown Funk you up, Uptown Funk you up",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你"
+    },
+    {
+      "time": 178.77,
+      "time_str": "02:58.770",
+      "text": "Uptown Funk you up, Uptown Funk you up",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你"
+    },
+    {
+      "time": 182.86,
+      "time_str": "03:02.860",
+      "text": "I said Uptown Funk you up, Uptown Funk you up",
+      "translation": "我说上城放克乐嗨翻你上城放克乐嗨翻你"
+    },
+    {
+      "time": 187.06,
+      "time_str": "03:07.060",
+      "text": "Uptown Funk you up, Uptown Funk you up",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你"
+    },
+    {
+      "time": 191.04,
+      "time_str": "03:11.040",
+      "text": "Come on, dance",
+      "translation": "来吧 自由舞动"
+    },
+    {
+      "time": 192.17,
+      "time_str": "03:12.170",
+      "text": "Jump on it",
+      "translation": "跳起来"
+    },
+    {
+      "time": 193.18,
+      "time_str": "03:13.180",
+      "text": "If you sexy then flaunt it",
+      "translation": "如果你够性感 就大胆秀出来"
+    },
+    {
+      "time": 195.05,
+      "time_str": "03:15.050",
+      "text": "If you freaky then own it",
+      "translation": "你要是个丑货 就乖乖认怂"
+    },
+    {
+      "time": 197.17,
+      "time_str": "03:17.170",
+      "text": "Don't brag about it, come show me",
+      "translation": "别自夸尽管秀给我看"
+    },
+    {
+      "time": 199.19,
+      "time_str": "03:19.190",
+      "text": "Come on, dance",
+      "translation": "来吧 自由舞动"
+    },
+    {
+      "time": 199.54,
+      "time_str": "03:19.540",
+      "text": "Jump on it",
+      "translation": "跳起来"
+    },
+    {
+      "time": 201.41,
+      "time_str": "03:21.410",
+      "text": "If you sexy then flaunt it",
+      "translation": "如果你够性感 就大胆秀出来"
+    },
+    {
+      "time": 203.43,
+      "time_str": "03:23.430",
+      "text": "Well it's Saturday night and we in the spot",
+      "translation": "周六晚 我们将嗨翻现场"
+    },
+    {
+      "time": 205.41,
+      "time_str": "03:25.410",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 212.08,
+      "time_str": "03:32.080",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 222.25,
+      "time_str": "03:42.250",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 224.38,
+      "time_str": "03:44.380",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 226.4,
+      "time_str": "03:46.400",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 228.53,
+      "time_str": "03:48.530",
+      "text": "Don't believe me just watch",
+      "translation": "不信我 就走着瞧"
+    },
+    {
+      "time": 230.45,
+      "time_str": "03:50.450",
+      "text": "Hey, hey, hey, oh!",
+      "translation": "嘿 嘿 嘿 哦"
+    },
+    {
+      "time": 233.27,
+      "time_str": "03:53.270",
+      "text": "Uptown Funk you up, Uptown Funk you up (say whaa?!)",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你（叫哇）"
+    },
+    {
+      "time": 236.81,
+      "time_str": "03:56.810",
+      "text": "Uptown Funk you up, Uptown Funk you up",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你"
+    },
+    {
+      "time": 240.87,
+      "time_str": "04:00.870",
+      "text": "Uptown Funk you up, Uptown Funk you up (say whaa?!)",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你（叫哇）"
+    },
+    {
+      "time": 245.07,
+      "time_str": "04:05.070",
+      "text": "Uptown Funk you up, Uptown Funk you up",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你"
+    },
+    {
+      "time": 249.31,
+      "time_str": "04:09.310",
+      "text": "Uptown Funk you up, Uptown Funk you up (say whaa?!)",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你（叫哇）"
+    },
+    {
+      "time": 253.41,
+      "time_str": "04:13.410",
+      "text": "Uptown Funk you up, Uptown Funk you up",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你"
+    },
+    {
+      "time": 257.6,
+      "time_str": "04:17.600",
+      "text": "Uptown Funk you up, Uptown Funk you up (say whaa?!)",
+      "translation": "上城放克乐嗨翻你上城放克乐嗨翻你（叫哇）"
+    },
+    {
+      "time": 261.69,
+      "time_str": "04:21.690",
+      "text": "Uptown Funk you up",
+      "translation": "上城放克乐嗨翻你"
+    },
+    {
+      "time": 265.279,
+      "time_str": "04:25.279",
+      "text": "Producers : Mark Ronson / Jeff Bhasker / Bruno Mars",
+      "translation": null
+    },
+    {
+      "time": 265.57,
+      "time_str": "04:25.570",
+      "text": "Lead Vocals : Bruno Mars",
+      "translation": null
+    },
+    {
+      "time": 265.795,
+      "time_str": "04:25.795",
+      "text": "Guitars : Mark Ronson",
+      "translation": null
+    },
+    {
+      "time": 265.919,
+      "time_str": "04:25.919",
+      "text": "Bass : Jamareo Artis",
+      "translation": null
+    },
+    {
+      "time": 266.061,
+      "time_str": "04:26.061",
+      "text": "Drums : Bruno Mars",
+      "translation": null
+    },
+    {
+      "time": 266.191,
+      "time_str": "04:26.191",
+      "text": "Linn Drum : Mark Ronson",
+      "translation": null
+    },
+    {
+      "time": 266.342,
+      "time_str": "04:26.342",
+      "text": "Keyboards : Jeff Bhasker / Phredley Brown (Additional)",
+      "translation": null
+    },
+    {
+      "time": 266.476,
+      "time_str": "04:26.476",
+      "text": "Talkbox : Jeff Bhasker",
+      "translation": null
+    },
+    {
+      "time": 266.625,
+      "time_str": "04:26.625",
+      "text": "Trumpet : David Guy / Michael Leonhart / Jimmy King",
+      "translation": null
+    },
+    {
+      "time": 266.795,
+      "time_str": "04:26.795",
+      "text": "Tenor Saxophone : Neal Sugarman / Dwayne Dagger",
+      "translation": null
+    },
+    {
+      "time": 266.955,
+      "time_str": "04:26.955",
+      "text": "Baritone Saxophone : Ian Hendrickson-Smith",
+      "translation": null
+    },
+    {
+      "time": 267.144,
+      "time_str": "04:27.144",
+      "text": "Trombone : Ray Mason / Kameron Whalum",
+      "translation": null
+    },
+    {
+      "time": 267.293,
+      "time_str": "04:27.293",
+      "text": "Programming : Mark Ronson",
+      "translation": null
+    },
+    {
+      "time": 267.455,
+      "time_str": "04:27.455",
+      "text": "Engineers : Mark Ronson / Boo Mitchell / Charles Moniz / Wayne Gordon / Josh Blair / Inaam Haq",
+      "translation": null
+    },
+    {
+      "time": 267.623,
+      "time_str": "04:27.623",
+      "text": "Additional Engineering : Ken Lewis / Devin Nakao / Matthew Stevens / Riccardo Damian",
+      "translation": null
+    },
+    {
+      "time": 267.812,
+      "time_str": "04:27.812",
+      "text": "Mixing : Serban Ghenea",
+      "translation": null
+    },
+    {
+      "time": 267.974,
+      "time_str": "04:27.974",
+      "text": "Mix Engineering : John Hanes",
+      "translation": null
+    },
+    {
+      "time": 268.142,
+      "time_str": "04:28.142",
+      "text": "Mastering : Tom Coyne",
+      "translation": null
+    },
+    {
+      "time": 268.32,
+      "time_str": "04:28.320",
+      "text": "Recorded at Royal Studios (Memphis, Tennessee), Zelig Studios (London, UK), Cherry Beach Sound (Toronto), Armoury Studios (Vancouver, BC), Levcon Studios (Los Angeles, California) and Daptone Studios (Brooklyn, New York), 2014",
+      "translation": null
+    },
+    {
+      "time": 268.473,
+      "time_str": "04:28.473",
+      "text": "Mixed at Mixstar Studios (Virginia Beach, Virginia)",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Uptown Funk - Mark Ronson,Bruno Mars.lrc"
+}

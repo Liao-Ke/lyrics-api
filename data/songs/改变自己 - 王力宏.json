@@ -1,0 +1,394 @@
+{
+  "title": "改变自己",
+  "title_raw": "改变自己",
+  "version": null,
+  "artist": "王力宏",
+  "group_key": "改变自己|王力宏",
+  "writers": {
+    "lyricist": "王力宏",
+    "composer": "王力宏",
+    "arranger": "王力宏"
+  },
+  "lyrics": [
+    {
+      "time": 19.17,
+      "time_str": "00:19.170",
+      "text": "今早起床了",
+      "translation": null
+    },
+    {
+      "time": 21.42,
+      "time_str": "00:21.420",
+      "text": "看镜子里的我",
+      "translation": null
+    },
+    {
+      "time": 24.48,
+      "time_str": "00:24.480",
+      "text": "忽然发现我发型",
+      "translation": null
+    },
+    {
+      "time": 26.53,
+      "time_str": "00:26.530",
+      "text": "睡的有点KU SO",
+      "translation": null
+    },
+    {
+      "time": 28.64,
+      "time_str": "00:28.640",
+      "text": "一点点改变",
+      "translation": null
+    },
+    {
+      "time": 30.71,
+      "time_str": "00:30.710",
+      "text": "有很大的差别",
+      "translation": null
+    },
+    {
+      "time": 33.12,
+      "time_str": "00:33.120",
+      "text": "你我的力量",
+      "translation": null
+    },
+    {
+      "time": 34.74,
+      "time_str": "00:34.740",
+      "text": "也能改变世界",
+      "translation": null
+    },
+    {
+      "time": 38.4,
+      "time_str": "00:38.400",
+      "text": "最近比较烦",
+      "translation": null
+    },
+    {
+      "time": 40.26,
+      "time_str": "00:40.260",
+      "text": "最近情绪很Down",
+      "translation": null
+    },
+    {
+      "time": 42.47,
+      "time_str": "00:42.470",
+      "text": "每天看新闻",
+      "translation": null
+    },
+    {
+      "time": 43.81,
+      "time_str": "00:43.810",
+      "text": "都会很想大声尖叫",
+      "translation": null
+    },
+    {
+      "time": 47.0,
+      "time_str": "00:47.000",
+      "text": "但脏话没有",
+      "translation": null
+    },
+    {
+      "time": 49.4,
+      "time_str": "00:49.400",
+      "text": "大家只会嫌凶",
+      "translation": null
+    },
+    {
+      "time": 51.37,
+      "time_str": "00:51.370",
+      "text": "我改变自己",
+      "translation": null
+    },
+    {
+      "time": 52.88,
+      "time_str": "00:52.880",
+      "text": "发现大有不同",
+      "translation": null
+    },
+    {
+      "time": 55.84,
+      "time_str": "00:55.840",
+      "text": "新一代的朋友",
+      "translation": null
+    },
+    {
+      "time": 57.88,
+      "time_str": "00:57.880",
+      "text": "我们好好的加油",
+      "translation": null
+    },
+    {
+      "time": 60.31,
+      "time_str": "01:00.310",
+      "text": "大家一起大声的说",
+      "translation": null
+    },
+    {
+      "time": 62.89,
+      "time_str": "01:02.890",
+      "text": "NA NA NA NA NA",
+      "translation": null
+    },
+    {
+      "time": 67.6,
+      "time_str": "01:07.600",
+      "text": "我可以改变世界",
+      "translation": null
+    },
+    {
+      "time": 69.59,
+      "time_str": "01:09.590",
+      "text": "改变自己",
+      "translation": null
+    },
+    {
+      "time": 71.77,
+      "time_str": "01:11.770",
+      "text": "改变隔膜",
+      "translation": null
+    },
+    {
+      "time": 73.98,
+      "time_str": "01:13.980",
+      "text": "改变小气",
+      "translation": null
+    },
+    {
+      "time": 75.83,
+      "time_str": "01:15.830",
+      "text": "要一直 努力 努力",
+      "translation": null
+    },
+    {
+      "time": 78.71,
+      "time_str": "01:18.710",
+      "text": "永不放弃",
+      "translation": null
+    },
+    {
+      "time": 80.33,
+      "time_str": "01:20.330",
+      "text": "才可以改变世界",
+      "translation": null
+    },
+    {
+      "time": 83.25,
+      "time_str": "01:23.250",
+      "text": "COME ON 改变自己",
+      "translation": null
+    },
+    {
+      "time": 91.36,
+      "time_str": "01:31.360",
+      "text": "今早起床了",
+      "translation": null
+    },
+    {
+      "time": 92.84,
+      "time_str": "01:32.840",
+      "text": "觉得头有点痛",
+      "translation": null
+    },
+    {
+      "time": 94.92,
+      "time_str": "01:34.920",
+      "text": "可能是二氧化碳太多",
+      "translation": null
+    },
+    {
+      "time": 97.6,
+      "time_str": "01:37.600",
+      "text": "氧气不够",
+      "translation": null
+    },
+    {
+      "time": 99.8,
+      "time_str": "01:39.800",
+      "text": "一点点改变",
+      "translation": null
+    },
+    {
+      "time": 101.92,
+      "time_str": "01:41.920",
+      "text": "有很大的差别",
+      "translation": null
+    },
+    {
+      "time": 104.36,
+      "time_str": "01:44.360",
+      "text": "你我的热情",
+      "translation": null
+    },
+    {
+      "time": 106.0,
+      "time_str": "01:46.000",
+      "text": "也能改变世界",
+      "translation": null
+    },
+    {
+      "time": 108.41,
+      "time_str": "01:48.410",
+      "text": "只能代表自己",
+      "translation": null
+    },
+    {
+      "time": 111.7,
+      "time_str": "01:51.700",
+      "text": "没有政治立场",
+      "translation": null
+    },
+    {
+      "time": 113.789,
+      "time_str": "01:53.789",
+      "text": "其实这世界",
+      "translation": null
+    },
+    {
+      "time": 115.32,
+      "time_str": "01:55.320",
+      "text": "让我看的十分紧张",
+      "translation": null
+    },
+    {
+      "time": 117.91,
+      "time_str": "01:57.910",
+      "text": "要调整自己",
+      "translation": null
+    },
+    {
+      "time": 123.3,
+      "time_str": "02:03.300",
+      "text": "没想到一点",
+      "translation": null
+    },
+    {
+      "time": 124.39,
+      "time_str": "02:04.390",
+      "text": "就能画龙点睛",
+      "translation": null
+    },
+    {
+      "time": 126.84,
+      "time_str": "02:06.840",
+      "text": "新一代的朋友",
+      "translation": null
+    },
+    {
+      "time": 128.889,
+      "time_str": "02:08.889",
+      "text": "我们好好的加油",
+      "translation": null
+    },
+    {
+      "time": 131.9,
+      "time_str": "02:11.900",
+      "text": "大家一起大声的说",
+      "translation": null
+    },
+    {
+      "time": 133.38,
+      "time_str": "02:13.380",
+      "text": "NA NA NOA NA NA",
+      "translation": null
+    },
+    {
+      "time": 139.4,
+      "time_str": "02:19.400",
+      "text": "我可以改变世界",
+      "translation": null
+    },
+    {
+      "time": 141.7,
+      "time_str": "02:21.700",
+      "text": "改变自己",
+      "translation": null
+    },
+    {
+      "time": 144.15,
+      "time_str": "02:24.150",
+      "text": "改变隔膜",
+      "translation": null
+    },
+    {
+      "time": 146.41,
+      "time_str": "02:26.410",
+      "text": "改变小气",
+      "translation": null
+    },
+    {
+      "time": 148.1,
+      "time_str": "02:28.100",
+      "text": "要一直 努力 努力",
+      "translation": null
+    },
+    {
+      "time": 150.98,
+      "time_str": "02:30.980",
+      "text": "永不放弃",
+      "translation": null
+    },
+    {
+      "time": 152.85,
+      "time_str": "02:32.850",
+      "text": "才可以改变世界",
+      "translation": null
+    },
+    {
+      "time": 155.529,
+      "time_str": "02:35.529",
+      "text": "COME ON 改变自己",
+      "translation": null
+    },
+    {
+      "time": 175.76,
+      "time_str": "02:55.760",
+      "text": "我可以改变世界",
+      "translation": null
+    },
+    {
+      "time": 178.42,
+      "time_str": "02:58.420",
+      "text": "改变自己",
+      "translation": null
+    },
+    {
+      "time": 181.51,
+      "time_str": "03:01.510",
+      "text": "改变隔膜",
+      "translation": null
+    },
+    {
+      "time": 183.54,
+      "time_str": "03:03.540",
+      "text": "改变小气",
+      "translation": null
+    },
+    {
+      "time": 185.81,
+      "time_str": "03:05.810",
+      "text": "要一直 努力 努力",
+      "translation": null
+    },
+    {
+      "time": 188.88,
+      "time_str": "03:08.880",
+      "text": "永不放弃",
+      "translation": null
+    },
+    {
+      "time": 191.1,
+      "time_str": "03:11.100",
+      "text": "才可以改变世界",
+      "translation": null
+    },
+    {
+      "time": 193.18,
+      "time_str": "03:13.180",
+      "text": "COME ON 改变自己",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "改变自己 - 王力宏.lrc"
+}

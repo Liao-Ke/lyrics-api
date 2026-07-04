@@ -1,0 +1,172 @@
+{
+  "title": "过河",
+  "title_raw": "过河",
+  "version": null,
+  "artist": "潘长江,刘春梅",
+  "group_key": "过河|潘长江,刘春梅",
+  "writers": {
+    "lyricist": "石顺义",
+    "composer": "李海鹰",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 32.01,
+      "time_str": "00:32.010",
+      "text": "哥哥面前一条弯弯的河",
+      "translation": null
+    },
+    {
+      "time": 36.16,
+      "time_str": "00:36.160",
+      "text": "妹妹对面唱着一支甜甜的歌",
+      "translation": null
+    },
+    {
+      "time": 39.87,
+      "time_str": "00:39.870",
+      "text": "哥哥心中荡起层层的波",
+      "translation": null
+    },
+    {
+      "time": 43.58,
+      "time_str": "00:43.580",
+      "text": "妹妹何时让我渡过你呀的河",
+      "translation": null
+    },
+    {
+      "time": 47.48,
+      "time_str": "00:47.480",
+      "text": "哥哥你要把河过，先要对上妹妹的歌妹妹的歌",
+      "translation": null
+    },
+    {
+      "time": 62.18,
+      "time_str": "01:02.180",
+      "text": "不问花儿为谁开，不问蜂儿为谁落",
+      "translation": null
+    },
+    {
+      "time": 68.74,
+      "time_str": "01:08.740",
+      "text": "问你可知我的心，为啥要过我的河",
+      "translation": null
+    },
+    {
+      "time": 83.08,
+      "time_str": "01:23.080",
+      "text": "哥哥面前一条弯弯的河",
+      "translation": null
+    },
+    {
+      "time": 86.5,
+      "time_str": "01:26.500",
+      "text": "妹妹对面唱着一支甜甜的歌",
+      "translation": null
+    },
+    {
+      "time": 90.13,
+      "time_str": "01:30.130",
+      "text": "哥哥心中荡起层层的波",
+      "translation": null
+    },
+    {
+      "time": 93.83,
+      "time_str": "01:33.830",
+      "text": "妹妹何时收下我的心河",
+      "translation": null
+    },
+    {
+      "time": 97.68,
+      "time_str": "01:37.680",
+      "text": "哥哥你要把河过，等到太阳西边落西边落",
+      "translation": null
+    },
+    {
+      "time": 112.4,
+      "time_str": "01:52.400",
+      "text": "春风吹着船儿摇，已经打开心头锁",
+      "translation": null
+    },
+    {
+      "time": 119.78,
+      "time_str": "01:59.780",
+      "text": "妹妹愿作橹和船，让你飘过我的河",
+      "translation": null
+    },
+    {
+      "time": 142.14,
+      "time_str": "02:22.140",
+      "text": "哥哥面前一条弯弯的河",
+      "translation": null
+    },
+    {
+      "time": 145.59,
+      "time_str": "02:25.590",
+      "text": "妹妹对面唱着一支甜甜的歌",
+      "translation": null
+    },
+    {
+      "time": 149.31,
+      "time_str": "02:29.310",
+      "text": "哥哥心中燃起红红的火",
+      "translation": null
+    },
+    {
+      "time": 152.97,
+      "time_str": "02:32.970",
+      "text": "妹妹快快让我渡过你呀的河",
+      "translation": null
+    },
+    {
+      "time": 156.86,
+      "time_str": "02:36.860",
+      "text": "小船悠悠水中过，划开河面层层波层层波",
+      "translation": null
+    },
+    {
+      "time": 171.59,
+      "time_str": "02:51.590",
+      "text": "采一朵水莲花妹妹送哥哥",
+      "translation": null
+    },
+    {
+      "time": 178.87,
+      "time_str": "02:58.870",
+      "text": "悄悄话儿悄悄说甜甜蜜蜜洒满河",
+      "translation": null
+    },
+    {
+      "time": 186.32,
+      "time_str": "03:06.320",
+      "text": "悄悄话儿悄悄说甜甜蜜蜜洒满河",
+      "translation": null
+    },
+    {
+      "time": 193.92,
+      "time_str": "03:13.920",
+      "text": "哥哥面前一条弯弯的河",
+      "translation": null
+    },
+    {
+      "time": 197.56,
+      "time_str": "03:17.560",
+      "text": "妹妹对面唱着一支甜甜的歌",
+      "translation": null
+    },
+    {
+      "time": 201.42,
+      "time_str": "03:21.420",
+      "text": "哥哥心中荡起层层的波",
+      "translation": null
+    },
+    {
+      "time": 204.61,
+      "time_str": "03:24.610",
+      "text": "妹妹何时让我渡过你呀的河",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "过河 - 潘长江,刘春梅.lrc"
+}

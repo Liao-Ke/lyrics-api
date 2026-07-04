@@ -1,0 +1,88 @@
+{
+  "title": "红灯记",
+  "title_raw": "红灯记",
+  "version": null,
+  "artist": "群星",
+  "group_key": "红灯记|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "奶奶 您听我说",
+      "translation": null
+    },
+    {
+      "time": 5.01,
+      "time_str": "00:05.010",
+      "text": "我家的表叔数不清",
+      "translation": null
+    },
+    {
+      "time": 9.03,
+      "time_str": "00:09.030",
+      "text": "没有大事不登门",
+      "translation": null
+    },
+    {
+      "time": 14.32,
+      "time_str": "00:14.320",
+      "text": "虽说是",
+      "translation": null
+    },
+    {
+      "time": 15.49,
+      "time_str": "00:15.490",
+      "text": "虽说是亲眷又不相认",
+      "translation": null
+    },
+    {
+      "time": 17.67,
+      "time_str": "00:17.670",
+      "text": "可他比亲眷还要亲",
+      "translation": null
+    },
+    {
+      "time": 21.16,
+      "time_str": "00:21.160",
+      "text": "爹爹和奶奶",
+      "translation": null
+    },
+    {
+      "time": 24.53,
+      "time_str": "00:24.530",
+      "text": "齐声唤亲人",
+      "translation": null
+    },
+    {
+      "time": 26.32,
+      "time_str": "00:26.320",
+      "text": "这里的奥妙",
+      "translation": null
+    },
+    {
+      "time": 31.11,
+      "time_str": "00:31.110",
+      "text": "我也能猜出几分",
+      "translation": null
+    },
+    {
+      "time": 35.56,
+      "time_str": "00:35.560",
+      "text": "他们和爹爹都一样",
+      "translation": null
+    },
+    {
+      "time": 37.86,
+      "time_str": "00:37.860",
+      "text": "都有一颗红亮的心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "红灯记 - 群星.lrc"
+}

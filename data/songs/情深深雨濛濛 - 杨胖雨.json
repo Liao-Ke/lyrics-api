@@ -1,0 +1,274 @@
+{
+  "title": "情深深雨濛濛",
+  "title_raw": "情深深雨濛濛",
+  "version": null,
+  "artist": "杨胖雨",
+  "group_key": "情深深雨濛濛|杨胖雨",
+  "writers": {
+    "lyricist": "琼瑶",
+    "composer": "徐嘉良",
+    "arranger": "王大夫"
+  },
+  "lyrics": [
+    {
+      "time": 7.47,
+      "time_str": "00:07.470",
+      "text": "情深深雨濛濛",
+      "translation": null
+    },
+    {
+      "time": 10.34,
+      "time_str": "00:10.340",
+      "text": "多少楼台烟雨中",
+      "translation": null
+    },
+    {
+      "time": 13.68,
+      "time_str": "00:13.680",
+      "text": "记得当初你侬我侬",
+      "translation": null
+    },
+    {
+      "time": 17.0,
+      "time_str": "00:17.000",
+      "text": "车如流水马如龙",
+      "translation": null
+    },
+    {
+      "time": 20.29,
+      "time_str": "00:20.290",
+      "text": "尽管狂风平地起",
+      "translation": null
+    },
+    {
+      "time": 26.56,
+      "time_str": "00:26.560",
+      "text": "美人如玉剑如虹",
+      "translation": null
+    },
+    {
+      "time": 34.13,
+      "time_str": "00:34.130",
+      "text": "情深深雨濛濛",
+      "translation": null
+    },
+    {
+      "time": 35.91,
+      "time_str": "00:35.910",
+      "text": "世界只在你眼中",
+      "translation": null
+    },
+    {
+      "time": 38.86,
+      "time_str": "00:38.860",
+      "text": "相逢不晚为何匆匆",
+      "translation": null
+    },
+    {
+      "time": 42.25,
+      "time_str": "00:42.250",
+      "text": "山山水水几万重",
+      "translation": null
+    },
+    {
+      "time": 45.32,
+      "time_str": "00:45.320",
+      "text": "一曲高歌千行泪",
+      "translation": null
+    },
+    {
+      "time": 47.46,
+      "time_str": "00:47.460",
+      "text": "情在回肠荡气中",
+      "translation": null
+    },
+    {
+      "time": 52.43,
+      "time_str": "00:52.430",
+      "text": "情深深雨濛濛",
+      "translation": null
+    },
+    {
+      "time": 54.32,
+      "time_str": "00:54.320",
+      "text": "天也无尽地无穷",
+      "translation": null
+    },
+    {
+      "time": 57.2,
+      "time_str": "00:57.200",
+      "text": "高楼望断情有独钟",
+      "translation": null
+    },
+    {
+      "time": 60.52,
+      "time_str": "01:00.520",
+      "text": "盼过春夏和秋冬",
+      "translation": null
+    },
+    {
+      "time": 63.61,
+      "time_str": "01:03.610",
+      "text": "盼来盼去盼不尽",
+      "translation": null
+    },
+    {
+      "time": 65.77,
+      "time_str": "01:05.770",
+      "text": "天涯何处是归鸿",
+      "translation": null
+    },
+    {
+      "time": 84.06,
+      "time_str": "01:24.060",
+      "text": "情深深雨濛濛",
+      "translation": null
+    },
+    {
+      "time": 87.03,
+      "time_str": "01:27.030",
+      "text": "多少楼台烟雨中",
+      "translation": null
+    },
+    {
+      "time": 90.32,
+      "time_str": "01:30.320",
+      "text": "记得当初你侬我侬",
+      "translation": null
+    },
+    {
+      "time": 93.64,
+      "time_str": "01:33.640",
+      "text": "车如流水马如龙",
+      "translation": null
+    },
+    {
+      "time": 96.97,
+      "time_str": "01:36.970",
+      "text": "尽管狂风平地起",
+      "translation": null
+    },
+    {
+      "time": 103.2,
+      "time_str": "01:43.200",
+      "text": "美人如玉剑如虹",
+      "translation": null
+    },
+    {
+      "time": 110.78,
+      "time_str": "01:50.780",
+      "text": "情深深雨濛濛",
+      "translation": null
+    },
+    {
+      "time": 112.5,
+      "time_str": "01:52.500",
+      "text": "世界只在你眼中",
+      "translation": null
+    },
+    {
+      "time": 115.46,
+      "time_str": "01:55.460",
+      "text": "相逢不问为何匆匆",
+      "translation": null
+    },
+    {
+      "time": 118.77,
+      "time_str": "01:58.770",
+      "text": "山山水水几万重",
+      "translation": null
+    },
+    {
+      "time": 121.98,
+      "time_str": "02:01.980",
+      "text": "一曲高歌千行泪",
+      "translation": null
+    },
+    {
+      "time": 124.12,
+      "time_str": "02:04.120",
+      "text": "情在回肠荡气中",
+      "translation": null
+    },
+    {
+      "time": 129.1,
+      "time_str": "02:09.100",
+      "text": "情深深雨濛濛",
+      "translation": null
+    },
+    {
+      "time": 130.97,
+      "time_str": "02:10.970",
+      "text": "天也无尽地无穷",
+      "translation": null
+    },
+    {
+      "time": 134.03,
+      "time_str": "02:14.030",
+      "text": "高楼望断情有独钟",
+      "translation": null
+    },
+    {
+      "time": 137.16,
+      "time_str": "02:17.160",
+      "text": "盼过春夏和秋冬",
+      "translation": null
+    },
+    {
+      "time": 140.24,
+      "time_str": "02:20.240",
+      "text": "盼来盼去盼不尽",
+      "translation": null
+    },
+    {
+      "time": 142.49,
+      "time_str": "02:22.490",
+      "text": "天涯何处是归鸿",
+      "translation": null
+    },
+    {
+      "time": 145.07,
+      "time_str": "02:25.070",
+      "text": "混音工程师：欧姆",
+      "translation": null
+    },
+    {
+      "time": 146.07,
+      "time_str": "02:26.070",
+      "text": "母带工程师：欧姆",
+      "translation": null
+    },
+    {
+      "time": 149.07,
+      "time_str": "02:29.070",
+      "text": "视觉设计：任凯翔",
+      "translation": null
+    },
+    {
+      "time": 150.07,
+      "time_str": "02:30.070",
+      "text": "统筹：陈爽/吕林蔚",
+      "translation": null
+    },
+    {
+      "time": 152.07,
+      "time_str": "02:32.070",
+      "text": "SP：Sony/ATV Music Publishing (Hong Kong)",
+      "translation": null
+    },
+    {
+      "time": 154.07,
+      "time_str": "02:34.070",
+      "text": "SP：Universal Music Publishing Ltd/环球音乐出版有限公司",
+      "translation": null
+    },
+    {
+      "time": 155.07,
+      "time_str": "02:35.070",
+      "text": "出品发行：Top Music（塔堡文化）",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情深深雨濛濛 - 杨胖雨.lrc"
+}

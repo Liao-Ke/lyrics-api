@@ -1,0 +1,250 @@
+{
+  "title": "红色石头",
+  "title_raw": "红色石头",
+  "version": null,
+  "artist": "李智楠",
+  "group_key": "红色石头|李智楠",
+  "writers": {
+    "lyricist": "郭美珒",
+    "composer": "郭美珒",
+    "arranger": "蔡安佳"
+  },
+  "lyrics": [
+    {
+      "time": 13.35,
+      "time_str": "00:13.350",
+      "text": "你离开我 真的 不痛",
+      "translation": null
+    },
+    {
+      "time": 23.129,
+      "time_str": "00:23.129",
+      "text": "迷迷糊糊 不懂",
+      "translation": null
+    },
+    {
+      "time": 31.698,
+      "time_str": "00:31.698",
+      "text": "也许在现实生活中 会多一只狗",
+      "translation": null
+    },
+    {
+      "time": 37.4,
+      "time_str": "00:37.400",
+      "text": "也多些无聊寂寞陪伴着我",
+      "translation": null
+    },
+    {
+      "time": 41.97,
+      "time_str": "00:41.970",
+      "text": "我没被打败 也没逃脱",
+      "translation": null
+    },
+    {
+      "time": 54.13,
+      "time_str": "00:54.130",
+      "text": "朋友问我 是的 分手",
+      "translation": null
+    },
+    {
+      "time": 65.39,
+      "time_str": "01:05.390",
+      "text": "不想你走 不说",
+      "translation": null
+    },
+    {
+      "time": 71.86,
+      "time_str": "01:11.860",
+      "text": "我无法在你眼中 那么不知所措",
+      "translation": null
+    },
+    {
+      "time": 78.39,
+      "time_str": "01:18.390",
+      "text": "也无法隐瞒自己那么脆弱",
+      "translation": null
+    },
+    {
+      "time": 83.8,
+      "time_str": "01:23.800",
+      "text": "我只能承认 爱很愚蠢",
+      "translation": null
+    },
+    {
+      "time": 93.79,
+      "time_str": "01:33.790",
+      "text": "你的心就像一颗 红色石头",
+      "translation": null
+    },
+    {
+      "time": 99.94,
+      "time_str": "01:39.940",
+      "text": "有着热情血液 和石头的冰冷",
+      "translation": null
+    },
+    {
+      "time": 105.5,
+      "time_str": "01:45.500",
+      "text": "顽固的把风 抛在背后",
+      "translation": null
+    },
+    {
+      "time": 109.36,
+      "time_str": "01:49.360",
+      "text": "知道你 不会再回头",
+      "translation": null
+    },
+    {
+      "time": 114.51,
+      "time_str": "01:54.510",
+      "text": "你的心就像一颗 红色石头",
+      "translation": null
+    },
+    {
+      "time": 120.7,
+      "time_str": "02:00.700",
+      "text": "将爱情全部打破",
+      "translation": null
+    },
+    {
+      "time": 124.92,
+      "time_str": "02:04.920",
+      "text": "回忆全部没收 留在沙漠",
+      "translation": null
+    },
+    {
+      "time": 130.29,
+      "time_str": "02:10.290",
+      "text": "手中握着一颗 红色石头",
+      "translation": null
+    },
+    {
+      "time": 151.94,
+      "time_str": "02:31.940",
+      "text": "朋友问我 是的 分手",
+      "translation": null
+    },
+    {
+      "time": 160.959,
+      "time_str": "02:40.959",
+      "text": "不想你走 不说",
+      "translation": null
+    },
+    {
+      "time": 169.929,
+      "time_str": "02:49.929",
+      "text": "我无法在你眼中 那么不知所措",
+      "translation": null
+    },
+    {
+      "time": 175.42,
+      "time_str": "02:55.420",
+      "text": "也无法隐瞒自己那么脆弱",
+      "translation": null
+    },
+    {
+      "time": 180.36,
+      "time_str": "03:00.360",
+      "text": "我只能承认 爱很愚蠢",
+      "translation": null
+    },
+    {
+      "time": 190.999,
+      "time_str": "03:10.999",
+      "text": "你的心就像一颗 红色石头",
+      "translation": null
+    },
+    {
+      "time": 196.39,
+      "time_str": "03:16.390",
+      "text": "有着热情血液 和石头的冰冷",
+      "translation": null
+    },
+    {
+      "time": 201.399,
+      "time_str": "03:21.399",
+      "text": "顽固的把风 抛在背后",
+      "translation": null
+    },
+    {
+      "time": 205.709,
+      "time_str": "03:25.709",
+      "text": "知道你 不会再回头",
+      "translation": null
+    },
+    {
+      "time": 210.809,
+      "time_str": "03:30.809",
+      "text": "你的心就像一颗 红色石头",
+      "translation": null
+    },
+    {
+      "time": 217.099,
+      "time_str": "03:37.099",
+      "text": "将爱情全部打破",
+      "translation": null
+    },
+    {
+      "time": 221.209,
+      "time_str": "03:41.209",
+      "text": "回忆全部没收 留在沙漠",
+      "translation": null
+    },
+    {
+      "time": 226.319,
+      "time_str": "03:46.319",
+      "text": "手中握着一颗 红色石头",
+      "translation": null
+    },
+    {
+      "time": 246.589,
+      "time_str": "04:06.589",
+      "text": "你的心就像一颗 红色石头",
+      "translation": null
+    },
+    {
+      "time": 252.13,
+      "time_str": "04:12.130",
+      "text": "有着热情血液 和石头的冰冷",
+      "translation": null
+    },
+    {
+      "time": 257.359,
+      "time_str": "04:17.359",
+      "text": "顽固的把风 抛在背后",
+      "translation": null
+    },
+    {
+      "time": 262.198,
+      "time_str": "04:22.198",
+      "text": "知道你 不会再回头",
+      "translation": null
+    },
+    {
+      "time": 266.85,
+      "time_str": "04:26.850",
+      "text": "你的心就像一颗 红色石头",
+      "translation": null
+    },
+    {
+      "time": 272.83,
+      "time_str": "04:32.830",
+      "text": "将爱情全部打破",
+      "translation": null
+    },
+    {
+      "time": 277.27,
+      "time_str": "04:37.270",
+      "text": "回忆全部没收 留在沙漠",
+      "translation": null
+    },
+    {
+      "time": 282.65,
+      "time_str": "04:42.650",
+      "text": "手中握着一颗 红色石头",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "红色石头 - 李智楠.lrc"
+}

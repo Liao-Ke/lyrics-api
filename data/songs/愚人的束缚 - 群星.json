@@ -1,0 +1,274 @@
+{
+  "title": "愚人的束缚",
+  "title_raw": "愚人的束缚",
+  "version": null,
+  "artist": "群星",
+  "group_key": "愚人的束缚|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.78,
+      "time_str": "00:03.780",
+      "text": "专辑 荒野彪客",
+      "translation": null
+    },
+    {
+      "time": 20.37,
+      "time_str": "00:20.370",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 24.56,
+      "time_str": "00:24.560",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 28.72,
+      "time_str": "00:28.720",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 32.97,
+      "time_str": "00:32.970",
+      "text": "Chain of fools",
+      "translation": "愚人的束缚"
+    },
+    {
+      "time": 37.14,
+      "time_str": "00:37.140",
+      "text": "For five long years",
+      "translation": "整整五年时光"
+    },
+    {
+      "time": 40.77,
+      "time_str": "00:40.770",
+      "text": "I thought you were my man",
+      "translation": "我以为你是我的归宿"
+    },
+    {
+      "time": 45.49,
+      "time_str": "00:45.490",
+      "text": "But I found out, I’m just a link in your chain",
+      "translation": "却发现只是你锁链的一环"
+    },
+    {
+      "time": 54.15,
+      "time_str": "00:54.150",
+      "text": "Oh, you got me where you want me",
+      "translation": "你已将我掌控在手"
+    },
+    {
+      "time": 57.68,
+      "time_str": "00:57.680",
+      "text": "I ain’t nothin but your fool",
+      "translation": "我不过是你掌中愚人"
+    },
+    {
+      "time": 62.32,
+      "time_str": "01:02.320",
+      "text": "Ya treated me mean",
+      "translation": "待我如此刻薄"
+    },
+    {
+      "time": 66.02,
+      "time_str": "01:06.020",
+      "text": "Oh baby treated me cruel",
+      "translation": "亲爱的待我残忍如初"
+    },
+    {
+      "time": 70.87,
+      "time_str": "01:10.870",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 75.17,
+      "time_str": "01:15.170",
+      "text": "Chain of fools",
+      "translation": "愚人的束缚"
+    },
+    {
+      "time": 79.46,
+      "time_str": "01:19.460",
+      "text": "Every chain, has got a weak link",
+      "translation": "每条锁链都有脆弱环节"
+    },
+    {
+      "time": 87.1,
+      "time_str": "01:27.100",
+      "text": "I might be weak child, but I’ll give you strength",
+      "translation": "我虽脆弱却给你力量"
+    },
+    {
+      "time": 99.23,
+      "time_str": "01:39.230",
+      "text": "You told me to leave you alone",
+      "translation": "你命令我离开你身旁"
+    },
+    {
+      "time": 103.49,
+      "time_str": "01:43.490",
+      "text": "My father said ’Come on home’",
+      "translation": "父亲唤我回家乡"
+    },
+    {
+      "time": 107.68,
+      "time_str": "01:47.680",
+      "text": "My doctor said ’Take it easy’",
+      "translation": "医生叮嘱放轻松"
+    },
+    {
+      "time": 111.27,
+      "time_str": "01:51.270",
+      "text": "Oh but your lovin is just too strong",
+      "translation": "可你的爱太汹涌"
+    },
+    {
+      "time": 114.7,
+      "time_str": "01:54.700",
+      "text": "I’m added to your",
+      "translation": "我只能沦为你的"
+    },
+    {
+      "time": 116.62,
+      "time_str": "01:56.620",
+      "text": "Chain, chain, chain,",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 120.39,
+      "time_str": "02:00.390",
+      "text": "Chain, chain, chain,",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 124.58,
+      "time_str": "02:04.580",
+      "text": "Chain, chain, chain,",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 128.77,
+      "time_str": "02:08.770",
+      "text": "Chain of fools",
+      "translation": "愚人的束缚"
+    },
+    {
+      "time": 166.9,
+      "time_str": "02:46.900",
+      "text": "Oh, one of these mornings",
+      "translation": "某个清晨终将来到"
+    },
+    {
+      "time": 170.94,
+      "time_str": "02:50.940",
+      "text": "The chain is gonna break",
+      "translation": "这条锁链会断掉"
+    },
+    {
+      "time": 174.55,
+      "time_str": "02:54.550",
+      "text": "But up until the day",
+      "translation": "但在那天来临前"
+    },
+    {
+      "time": 178.6,
+      "time_str": "02:58.600",
+      "text": "I’m gonna take all I can take, oh babe",
+      "translation": "我会忍受所有煎熬"
+    },
+    {
+      "time": 183.62,
+      "time_str": "03:03.620",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 187.77,
+      "time_str": "03:07.770",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 192.0,
+      "time_str": "03:12.000",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 196.16,
+      "time_str": "03:16.160",
+      "text": "Chain of fools...",
+      "translation": "愚人的束缚..."
+    },
+    {
+      "time": 200.52,
+      "time_str": "03:20.520",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 204.63,
+      "time_str": "03:24.630",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 208.8,
+      "time_str": "03:28.800",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 212.97,
+      "time_str": "03:32.970",
+      "text": "Chain of fools...",
+      "translation": "愚人的束缚..."
+    },
+    {
+      "time": 217.46,
+      "time_str": "03:37.460",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 221.4,
+      "time_str": "03:41.400",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 225.59,
+      "time_str": "03:45.590",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 229.8,
+      "time_str": "03:49.800",
+      "text": "Chain of fools...",
+      "translation": "愚人的束缚..."
+    },
+    {
+      "time": 234.02,
+      "time_str": "03:54.020",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    },
+    {
+      "time": 238.27,
+      "time_str": "03:58.270",
+      "text": "Chain, chain, chain",
+      "translation": "锁链 锁链 锁链"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "愚人的束缚 - 群星.lrc"
+}

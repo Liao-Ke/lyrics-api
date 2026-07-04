@@ -1,0 +1,250 @@
+{
+  "title": "一生有你",
+  "title_raw": "一生有你 (粤语版)",
+  "version": "粤语版",
+  "artist": "贝贝帅",
+  "group_key": "一生有你|贝贝帅",
+  "writers": {
+    "lyricist": "吴肯森",
+    "composer": "卢庚戌",
+    "arranger": "闫明琛"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "出品人 : 徐大亮",
+      "translation": null
+    },
+    {
+      "time": 24.1,
+      "time_str": "00:24.100",
+      "text": "凌晨梦见要分开",
+      "translation": null
+    },
+    {
+      "time": 28.1,
+      "time_str": "00:28.100",
+      "text": "突然堕进了深海",
+      "translation": null
+    },
+    {
+      "time": 32.35,
+      "time_str": "00:32.350",
+      "text": "明晨盼再有色彩",
+      "translation": null
+    },
+    {
+      "time": 35.601,
+      "time_str": "00:35.601",
+      "text": "会等到春暖见花开",
+      "translation": null
+    },
+    {
+      "time": 41.101,
+      "time_str": "00:41.101",
+      "text": "抬头望见那终点",
+      "translation": null
+    },
+    {
+      "time": 45.101,
+      "time_str": "00:45.101",
+      "text": "回头再细数每一天",
+      "translation": null
+    },
+    {
+      "time": 49.352,
+      "time_str": "00:49.352",
+      "text": "繁华闹市看身边",
+      "translation": null
+    },
+    {
+      "time": 52.612,
+      "time_str": "00:52.612",
+      "text": "已飘远等到秋天",
+      "translation": null
+    },
+    {
+      "time": 59.353,
+      "time_str": "00:59.353",
+      "text": "我曾记得你与晚风擦过我的肩",
+      "translation": null
+    },
+    {
+      "time": 63.604,
+      "time_str": "01:03.604",
+      "text": "是谁幻化星空里边记载了春天",
+      "translation": null
+    },
+    {
+      "time": 67.854,
+      "time_str": "01:07.854",
+      "text": "秋风吹起过去常见青春的少年",
+      "translation": null
+    },
+    {
+      "time": 72.107,
+      "time_str": "01:12.107",
+      "text": "告诉我知一世爱意我俩永不变",
+      "translation": null
+    },
+    {
+      "time": 92.106,
+      "time_str": "01:32.106",
+      "text": "抬头望见那终点",
+      "translation": null
+    },
+    {
+      "time": 96.106,
+      "time_str": "01:36.106",
+      "text": "回头再细数每一天",
+      "translation": null
+    },
+    {
+      "time": 100.358,
+      "time_str": "01:40.358",
+      "text": "繁华闹市看身边",
+      "translation": null
+    },
+    {
+      "time": 103.36,
+      "time_str": "01:43.360",
+      "text": "已飘远等到秋天",
+      "translation": null
+    },
+    {
+      "time": 110.358,
+      "time_str": "01:50.358",
+      "text": "我曾记得你与晚风擦过我的肩",
+      "translation": null
+    },
+    {
+      "time": 114.608,
+      "time_str": "01:54.608",
+      "text": "是谁幻化星空里边记载了春天",
+      "translation": null
+    },
+    {
+      "time": 118.859,
+      "time_str": "01:58.859",
+      "text": "秋风吹起过去常见青春的少年",
+      "translation": null
+    },
+    {
+      "time": 123.109,
+      "time_str": "02:03.109",
+      "text": "告诉我知一世爱意我俩永不变",
+      "translation": null
+    },
+    {
+      "time": 131.86,
+      "time_str": "02:11.860",
+      "text": "（一个人这一辈子最大的财富",
+      "translation": null
+    },
+    {
+      "time": 134.111,
+      "time_str": "02:14.111",
+      "text": "不是金钱也不是地位",
+      "translation": null
+    },
+    {
+      "time": 136.36,
+      "time_str": "02:16.360",
+      "text": "嘿 朋友 一生有你 已足够）",
+      "translation": null
+    },
+    {
+      "time": 140.111,
+      "time_str": "02:20.111",
+      "text": "我曾记得你与晚风擦过我的肩",
+      "translation": null
+    },
+    {
+      "time": 144.362,
+      "time_str": "02:24.362",
+      "text": "是谁幻化星空里边记载了春天",
+      "translation": null
+    },
+    {
+      "time": 148.612,
+      "time_str": "02:28.612",
+      "text": "秋风吹起过去常见青春的少年",
+      "translation": null
+    },
+    {
+      "time": 152.862,
+      "time_str": "02:32.862",
+      "text": "告诉我知一世爱意我俩永不变",
+      "translation": null
+    },
+    {
+      "time": 157.112,
+      "time_str": "02:37.112",
+      "text": "我曾记得你与晚风擦过我的肩",
+      "translation": null
+    },
+    {
+      "time": 161.363,
+      "time_str": "02:41.363",
+      "text": "是谁幻化星空里边记载了春天",
+      "translation": null
+    },
+    {
+      "time": 165.856,
+      "time_str": "02:45.856",
+      "text": "秋风吹起过去常见青春的少年",
+      "translation": null
+    },
+    {
+      "time": 169.806,
+      "time_str": "02:49.806",
+      "text": "告诉我知一世爱意我俩永不变",
+      "translation": null
+    },
+    {
+      "time": 193.808,
+      "time_str": "03:13.808",
+      "text": "凌晨梦见要分开",
+      "translation": null
+    },
+    {
+      "time": 197.153,
+      "time_str": "03:17.153",
+      "text": "合成器 : 闫明琛",
+      "translation": null
+    },
+    {
+      "time": 199.457,
+      "time_str": "03:19.457",
+      "text": "混音/母带 : 蒋柽@FINN music",
+      "translation": null
+    },
+    {
+      "time": 200.225,
+      "time_str": "03:20.225",
+      "text": "企划 : 李梦维/柳竹彰",
+      "translation": null
+    },
+    {
+      "time": 200.609,
+      "time_str": "03:20.609",
+      "text": "艺人总监 : 董冠猛",
+      "translation": null
+    },
+    {
+      "time": 200.993,
+      "time_str": "03:20.993",
+      "text": "封面 : 吴丹琪",
+      "translation": null
+    },
+    {
+      "time": 201.377,
+      "time_str": "03:21.377",
+      "text": "OP/SP : 发力人音乐 FERRYMAN MUSIC",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一生有你 (粤语版) - 贝贝帅.lrc"
+}

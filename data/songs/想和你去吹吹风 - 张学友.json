@@ -1,0 +1,298 @@
+{
+  "title": "想和你去吹吹风",
+  "title_raw": "想和你去吹吹风",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "想和你去吹吹风|张学友",
+  "writers": {
+    "lyricist": "娃娃",
+    "composer": "叶良俊",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 0.329,
+      "time_str": "00:00.329",
+      "text": "张学友-想和你去吹吹风",
+      "translation": null
+    },
+    {
+      "time": 5.555,
+      "time_str": "00:05.555",
+      "text": "想和你再去吹吹风",
+      "translation": null
+    },
+    {
+      "time": 8.891,
+      "time_str": "00:08.891",
+      "text": "虽然已是不同时空",
+      "translation": null
+    },
+    {
+      "time": 13.64,
+      "time_str": "00:13.640",
+      "text": "还是可以迎著风",
+      "translation": null
+    },
+    {
+      "time": 16.265,
+      "time_str": "00:16.265",
+      "text": "随意说说心里的梦",
+      "translation": null
+    },
+    {
+      "time": 39.686,
+      "time_str": "00:39.686",
+      "text": "感情浮浮沈沈",
+      "translation": null
+    },
+    {
+      "time": 43.404,
+      "time_str": "00:43.404",
+      "text": "世事颠颠倒倒",
+      "translation": null
+    },
+    {
+      "time": 47.445,
+      "time_str": "00:47.445",
+      "text": "一颗心硬硬冷冷",
+      "translation": null
+    },
+    {
+      "time": 50.823,
+      "time_str": "00:50.823",
+      "text": "感动愈来愈少",
+      "translation": null
+    },
+    {
+      "time": 54.716,
+      "time_str": "00:54.716",
+      "text": "繁华色彩光影",
+      "translation": null
+    },
+    {
+      "time": 58.297,
+      "time_str": "00:58.297",
+      "text": "谁不为它迷倒",
+      "translation": null
+    },
+    {
+      "time": 62.28,
+      "time_str": "01:02.280",
+      "text": "笑眼泪光看自己",
+      "translation": null
+    },
+    {
+      "time": 65.974,
+      "time_str": "01:05.974",
+      "text": "感觉有些寂寥",
+      "translation": null
+    },
+    {
+      "time": 68.905,
+      "time_str": "01:08.905",
+      "text": "想起你爱恨",
+      "translation": null
+    },
+    {
+      "time": 69.99,
+      "time_str": "01:09.990",
+      "text": "早已不再萦绕",
+      "translation": null
+    },
+    {
+      "time": 73.155,
+      "time_str": "01:13.155",
+      "text": "那情份还有些味道",
+      "translation": null
+    },
+    {
+      "time": 76.857,
+      "time_str": "01:16.857",
+      "text": "喜怒哀乐依然围绕",
+      "translation": null
+    },
+    {
+      "time": 80.588,
+      "time_str": "01:20.588",
+      "text": "能分享的人哪里去寻找",
+      "translation": null
+    },
+    {
+      "time": 83.69,
+      "time_str": "01:23.690",
+      "text": "很想和你再去吹吹风",
+      "translation": null
+    },
+    {
+      "time": 87.355,
+      "time_str": "01:27.355",
+      "text": "去吹吹风",
+      "translation": null
+    },
+    {
+      "time": 91.727,
+      "time_str": "01:31.727",
+      "text": "风会带走一些短暂的轻松",
+      "translation": null
+    },
+    {
+      "time": 99.683,
+      "time_str": "01:39.683",
+      "text": "让我们像从前一样安安静静",
+      "translation": null
+    },
+    {
+      "time": 106.855,
+      "time_str": "01:46.855",
+      "text": "什么都不必说你总是能懂",
+      "translation": null
+    },
+    {
+      "time": 146.319,
+      "time_str": "02:26.319",
+      "text": "繁华色彩光影",
+      "translation": null
+    },
+    {
+      "time": 149.39,
+      "time_str": "02:29.390",
+      "text": "谁不为它迷倒",
+      "translation": null
+    },
+    {
+      "time": 153.444,
+      "time_str": "02:33.444",
+      "text": "笑眼泪光看自己",
+      "translation": null
+    },
+    {
+      "time": 157.32,
+      "time_str": "02:37.320",
+      "text": "感觉有些寂寥",
+      "translation": null
+    },
+    {
+      "time": 160.308,
+      "time_str": "02:40.308",
+      "text": "想起你爱恨早已不再萦绕",
+      "translation": null
+    },
+    {
+      "time": 164.658,
+      "time_str": "02:44.658",
+      "text": "那情份还有些味道",
+      "translation": null
+    },
+    {
+      "time": 168.566,
+      "time_str": "02:48.566",
+      "text": "喜怒哀乐依然围绕",
+      "translation": null
+    },
+    {
+      "time": 171.87,
+      "time_str": "02:51.870",
+      "text": "能分享的人哪里去寻找",
+      "translation": null
+    },
+    {
+      "time": 175.223,
+      "time_str": "02:55.223",
+      "text": "很想和你再去吹吹风",
+      "translation": null
+    },
+    {
+      "time": 178.677,
+      "time_str": "02:58.677",
+      "text": "去吹吹风",
+      "translation": null
+    },
+    {
+      "time": 182.737,
+      "time_str": "03:02.737",
+      "text": "风会带走一些短暂的轻松",
+      "translation": null
+    },
+    {
+      "time": 191.49,
+      "time_str": "03:11.490",
+      "text": "让我们像从前一样安安静静",
+      "translation": null
+    },
+    {
+      "time": 197.985,
+      "time_str": "03:17.985",
+      "text": "什么都不必说你总是能懂",
+      "translation": null
+    },
+    {
+      "time": 213.37,
+      "time_str": "03:33.370",
+      "text": "很想和你再去吹吹风",
+      "translation": null
+    },
+    {
+      "time": 216.825,
+      "time_str": "03:36.825",
+      "text": "去吹吹风",
+      "translation": null
+    },
+    {
+      "time": 220.828,
+      "time_str": "03:40.828",
+      "text": "风会带走一些短暂的轻松",
+      "translation": null
+    },
+    {
+      "time": 229.135,
+      "time_str": "03:49.135",
+      "text": "让我们像从前一样安安静静",
+      "translation": null
+    },
+    {
+      "time": 236.231,
+      "time_str": "03:56.231",
+      "text": "什么都不必说你总是能懂",
+      "translation": null
+    },
+    {
+      "time": 249.209,
+      "time_str": "04:09.209",
+      "text": "想和你再去吹吹风",
+      "translation": null
+    },
+    {
+      "time": 252.312,
+      "time_str": "04:12.312",
+      "text": "虽然已是不同时空",
+      "translation": null
+    },
+    {
+      "time": 256.988,
+      "time_str": "04:16.988",
+      "text": "还是可以迎著风",
+      "translation": null
+    },
+    {
+      "time": 260.103,
+      "time_str": "04:20.103",
+      "text": "随意说说心里的梦",
+      "translation": null
+    },
+    {
+      "time": 267.915,
+      "time_str": "04:27.915",
+      "text": "的梦",
+      "translation": null
+    },
+    {
+      "time": 271.188,
+      "time_str": "04:31.188",
+      "text": "吹吹风",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "想和你去吹吹风 - 张学友.lrc"
+}

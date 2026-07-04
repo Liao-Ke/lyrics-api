@@ -1,0 +1,178 @@
+{
+  "title": "亲爱的小孩",
+  "title_raw": "亲爱的小孩",
+  "version": null,
+  "artist": "苏芮",
+  "group_key": "亲爱的小孩|苏芮",
+  "writers": {
+    "lyricist": "杨立德",
+    "composer": "陈复明",
+    "arranger": "陈志远"
+  },
+  "lyrics": [
+    {
+      "time": 32.799,
+      "time_str": "00:32.799",
+      "text": "小小的小孩 今天有没有哭",
+      "translation": null
+    },
+    {
+      "time": 40.99,
+      "time_str": "00:40.990",
+      "text": "是否朋友都已经离去 留下了带不走的孤独",
+      "translation": null
+    },
+    {
+      "time": 48.79,
+      "time_str": "00:48.790",
+      "text": "漂亮的小孩 今天有没有哭",
+      "translation": null
+    },
+    {
+      "time": 55.699,
+      "time_str": "00:55.699",
+      "text": "是否弄脏了美丽的衣服 却找不到别人倾诉",
+      "translation": null
+    },
+    {
+      "time": 63.399,
+      "time_str": "01:03.399",
+      "text": "聪明的小孩 今天有没有哭",
+      "translation": null
+    },
+    {
+      "time": 70.56,
+      "time_str": "01:10.560",
+      "text": "是否遗失了心爱的礼物",
+      "translation": null
+    },
+    {
+      "time": 74.729,
+      "time_str": "01:14.729",
+      "text": "在风中寻找 从清晨到日暮",
+      "translation": null
+    },
+    {
+      "time": 82.739,
+      "time_str": "01:22.739",
+      "text": "我亲爱的小孩",
+      "translation": null
+    },
+    {
+      "time": 86.599,
+      "time_str": "01:26.599",
+      "text": "为什么你不让我看清楚",
+      "translation": null
+    },
+    {
+      "time": 90.59,
+      "time_str": "01:30.590",
+      "text": "是否让风吹熄了蜡烛",
+      "translation": null
+    },
+    {
+      "time": 95.3,
+      "time_str": "01:35.300",
+      "text": "在黑暗中独自漫步",
+      "translation": null
+    },
+    {
+      "time": 98.29,
+      "time_str": "01:38.290",
+      "text": "亲爱的小孩",
+      "translation": null
+    },
+    {
+      "time": 101.59,
+      "time_str": "01:41.590",
+      "text": "快快擦干你的泪珠",
+      "translation": null
+    },
+    {
+      "time": 105.579,
+      "time_str": "01:45.579",
+      "text": "我愿意陪伴你 走上回家的路",
+      "translation": null
+    },
+    {
+      "time": 151.397,
+      "time_str": "02:31.397",
+      "text": "亲爱的小孩 今天有没有哭",
+      "translation": null
+    },
+    {
+      "time": 159.796,
+      "time_str": "02:39.796",
+      "text": "是否朋友都已经离去 留下了带不走的孤独",
+      "translation": null
+    },
+    {
+      "time": 166.966,
+      "time_str": "02:46.966",
+      "text": "亲爱的小孩 今天有没有哭",
+      "translation": null
+    },
+    {
+      "time": 175.698,
+      "time_str": "02:55.698",
+      "text": "是否遗失了心爱的礼物",
+      "translation": null
+    },
+    {
+      "time": 178.636,
+      "time_str": "02:58.636",
+      "text": "在风中寻找 从清晨到日暮",
+      "translation": null
+    },
+    {
+      "time": 186.27,
+      "time_str": "03:06.270",
+      "text": "我亲爱的小孩",
+      "translation": null
+    },
+    {
+      "time": 190.516,
+      "time_str": "03:10.516",
+      "text": "为什么你不让我看清楚",
+      "translation": null
+    },
+    {
+      "time": 194.76,
+      "time_str": "03:14.760",
+      "text": "是否让风吹熄了蜡烛",
+      "translation": null
+    },
+    {
+      "time": 198.278,
+      "time_str": "03:18.278",
+      "text": "在黑暗中独自漫步",
+      "translation": null
+    },
+    {
+      "time": 202.188,
+      "time_str": "03:22.188",
+      "text": "亲爱的小孩",
+      "translation": null
+    },
+    {
+      "time": 206.369,
+      "time_str": "03:26.369",
+      "text": "快快擦干你的泪珠",
+      "translation": null
+    },
+    {
+      "time": 209.696,
+      "time_str": "03:29.696",
+      "text": "我愿意陪伴你 走上回家的路",
+      "translation": null
+    },
+    {
+      "time": 3597.298,
+      "time_str": "59:57.298",
+      "text": "苏芮：亲爱的小孩",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "亲爱的小孩 - 苏芮.lrc"
+}

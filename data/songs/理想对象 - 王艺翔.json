@@ -1,0 +1,238 @@
+{
+  "title": "理想对象",
+  "title_raw": "理想对象",
+  "version": null,
+  "artist": "王艺翔",
+  "group_key": "理想对象|王艺翔",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 20.74,
+      "time_str": "00:20.740",
+      "text": "我们一起看见了爱情的模样",
+      "translation": null
+    },
+    {
+      "time": 25.24,
+      "time_str": "00:25.240",
+      "text": "一起见证满天的星光",
+      "translation": null
+    },
+    {
+      "time": 29.29,
+      "time_str": "00:29.290",
+      "text": "我用鲜花和勇气酿出芬芳",
+      "translation": null
+    },
+    {
+      "time": 33.848,
+      "time_str": "00:33.848",
+      "text": "等你用日记本来珍藏",
+      "translation": null
+    },
+    {
+      "time": 38.88,
+      "time_str": "00:38.880",
+      "text": "我们一起刻画出快乐的形状",
+      "translation": null
+    },
+    {
+      "time": 42.618,
+      "time_str": "00:42.618",
+      "text": "一起为了日落而感伤",
+      "translation": null
+    },
+    {
+      "time": 46.728,
+      "time_str": "00:46.728",
+      "text": "我在未来路上写下了愿望",
+      "translation": null
+    },
+    {
+      "time": 51.318,
+      "time_str": "00:51.318",
+      "text": "做你环游世界的翅膀",
+      "translation": null
+    },
+    {
+      "time": 55.28,
+      "time_str": "00:55.280",
+      "text": "我最大理想做你的对象",
+      "translation": null
+    },
+    {
+      "time": 59.448,
+      "time_str": "00:59.448",
+      "text": "做你偶尔脆弱时要的坚强",
+      "translation": null
+    },
+    {
+      "time": 64.18,
+      "time_str": "01:04.180",
+      "text": "无论你走在一种坚定或迷茫",
+      "translation": null
+    },
+    {
+      "time": 69.368,
+      "time_str": "01:09.368",
+      "text": "都有我在你身旁",
+      "translation": null
+    },
+    {
+      "time": 72.479,
+      "time_str": "01:12.479",
+      "text": "我所有理想做你的对象",
+      "translation": null
+    },
+    {
+      "time": 77.8,
+      "time_str": "01:17.800",
+      "text": "做你每次贫穷时要的宝藏",
+      "translation": null
+    },
+    {
+      "time": 81.529,
+      "time_str": "01:21.529",
+      "text": "当我们一起经历过单纯沧桑",
+      "translation": null
+    },
+    {
+      "time": 86.398,
+      "time_str": "01:26.398",
+      "text": "会有幸福的泪在脸上",
+      "translation": null
+    },
+    {
+      "time": 90.658,
+      "time_str": "01:30.658",
+      "text": "我们一起刻画出快乐的形状",
+      "translation": null
+    },
+    {
+      "time": 95.29,
+      "time_str": "01:35.290",
+      "text": "一起为了日落而感伤",
+      "translation": null
+    },
+    {
+      "time": 99.238,
+      "time_str": "01:39.238",
+      "text": "我在未来路上写下了愿望",
+      "translation": null
+    },
+    {
+      "time": 103.719,
+      "time_str": "01:43.719",
+      "text": "做你环游世界的翅膀",
+      "translation": null
+    },
+    {
+      "time": 125.458,
+      "time_str": "02:05.458",
+      "text": "我们一起看见了爱情的模样",
+      "translation": null
+    },
+    {
+      "time": 129.72,
+      "time_str": "02:09.720",
+      "text": "一起见证满天的星光",
+      "translation": null
+    },
+    {
+      "time": 134.15,
+      "time_str": "02:14.150",
+      "text": "我用鲜花和勇气酿出芬芳",
+      "translation": null
+    },
+    {
+      "time": 138.51,
+      "time_str": "02:18.510",
+      "text": "等你用日记本来珍藏",
+      "translation": null
+    },
+    {
+      "time": 142.72,
+      "time_str": "02:22.720",
+      "text": "我们一起刻画出快乐的形状",
+      "translation": null
+    },
+    {
+      "time": 147.28,
+      "time_str": "02:27.280",
+      "text": "一起为了日落而感伤",
+      "translation": null
+    },
+    {
+      "time": 151.69,
+      "time_str": "02:31.690",
+      "text": "我在未来路上写下了愿望",
+      "translation": null
+    },
+    {
+      "time": 156.1,
+      "time_str": "02:36.100",
+      "text": "做你环游世界的翅膀",
+      "translation": null
+    },
+    {
+      "time": 159.68,
+      "time_str": "02:39.680",
+      "text": "我最大理想做你的对象",
+      "translation": null
+    },
+    {
+      "time": 164.6,
+      "time_str": "02:44.600",
+      "text": "做你偶尔脆弱时要的坚强",
+      "translation": null
+    },
+    {
+      "time": 168.79,
+      "time_str": "02:48.790",
+      "text": "无论你走在一种坚定或迷茫",
+      "translation": null
+    },
+    {
+      "time": 174.7,
+      "time_str": "02:54.700",
+      "text": "都有我在你身旁",
+      "translation": null
+    },
+    {
+      "time": 177.13,
+      "time_str": "02:57.130",
+      "text": "我所有理想做你的对象",
+      "translation": null
+    },
+    {
+      "time": 181.68,
+      "time_str": "03:01.680",
+      "text": "做你每次贫穷时要的宝藏",
+      "translation": null
+    },
+    {
+      "time": 186.4,
+      "time_str": "03:06.400",
+      "text": "当我们一起经历过单纯沧桑",
+      "translation": null
+    },
+    {
+      "time": 191.3,
+      "time_str": "03:11.300",
+      "text": "会有幸福的泪在脸上",
+      "translation": null
+    },
+    {
+      "time": 195.5,
+      "time_str": "03:15.500",
+      "text": "会有幸福的泪在脸上",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "理想对象 - 王艺翔.lrc"
+}

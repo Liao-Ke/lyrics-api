@@ -1,0 +1,178 @@
+{
+  "title": "梦一场",
+  "title_raw": "梦一场",
+  "version": null,
+  "artist": "那英",
+  "group_key": "梦一场|那英",
+  "writers": {
+    "lyricist": "袁惟仁",
+    "composer": "袁惟仁",
+    "arranger": "袁惟仁/许华强"
+  },
+  "lyrics": [
+    {
+      "time": 25.0,
+      "time_str": "00:25.000",
+      "text": "我们都曾经寂寞而给对方承诺",
+      "translation": null
+    },
+    {
+      "time": 30.0,
+      "time_str": "00:30.000",
+      "text": "我们都因为折磨而厌倦了生活",
+      "translation": null
+    },
+    {
+      "time": 35.0,
+      "time_str": "00:35.000",
+      "text": "只是这样的日子",
+      "translation": null
+    },
+    {
+      "time": 37.0,
+      "time_str": "00:37.000",
+      "text": "同样的方式",
+      "translation": null
+    },
+    {
+      "time": 40.0,
+      "time_str": "00:40.000",
+      "text": "还要多久",
+      "translation": null
+    },
+    {
+      "time": 46.0,
+      "time_str": "00:46.000",
+      "text": "我们改变了态度而接纳了对方",
+      "translation": null
+    },
+    {
+      "time": 50.0,
+      "time_str": "00:50.000",
+      "text": "我们委屈了自己成全谁的梦想",
+      "translation": null
+    },
+    {
+      "time": 55.0,
+      "time_str": "00:55.000",
+      "text": "只是这样的日子",
+      "translation": null
+    },
+    {
+      "time": 58.0,
+      "time_str": "00:58.000",
+      "text": "还剩下多少",
+      "translation": null
+    },
+    {
+      "time": 60.0,
+      "time_str": "01:00.000",
+      "text": "已不重要",
+      "translation": null
+    },
+    {
+      "time": 143.0,
+      "time_str": "02:23.000",
+      "text": "[01:06]时常想起过去的温存",
+      "translation": null
+    },
+    {
+      "time": 147.0,
+      "time_str": "02:27.000",
+      "text": "[01:10]它让我在夜里不会冷",
+      "translation": null
+    },
+    {
+      "time": 151.0,
+      "time_str": "02:31.000",
+      "text": "[01:15]你说一个人的美丽是认真",
+      "translation": null
+    },
+    {
+      "time": 155.0,
+      "time_str": "02:35.000",
+      "text": "[01:19]两个人能在一起是缘份",
+      "translation": null
+    },
+    {
+      "time": 162.0,
+      "time_str": "02:42.000",
+      "text": "[01:26]早知道是这样",
+      "translation": null
+    },
+    {
+      "time": 165.0,
+      "time_str": "02:45.000",
+      "text": "[01:29]像梦一场",
+      "translation": null
+    },
+    {
+      "time": 167.0,
+      "time_str": "02:47.000",
+      "text": "[01:31]我才不会把爱都放在同一个地方",
+      "translation": null
+    },
+    {
+      "time": 172.0,
+      "time_str": "02:52.000",
+      "text": "[01:35]我能原谅",
+      "translation": null
+    },
+    {
+      "time": 174.0,
+      "time_str": "02:54.000",
+      "text": "[01:38]你的荒唐",
+      "translation": null
+    },
+    {
+      "time": 176.0,
+      "time_str": "02:56.000",
+      "text": "[01:40]荒唐的是我没有办法遗忘",
+      "translation": null
+    },
+    {
+      "time": 181.0,
+      "time_str": "03:01.000",
+      "text": "[01:44]早知道是这样",
+      "translation": null
+    },
+    {
+      "time": 183.0,
+      "time_str": "03:03.000",
+      "text": "[01:47]如梦一场",
+      "translation": null
+    },
+    {
+      "time": 185.0,
+      "time_str": "03:05.000",
+      "text": "[01:49]我又何必把泪都锁在自己的眼眶",
+      "translation": null
+    },
+    {
+      "time": 189.0,
+      "time_str": "03:09.000",
+      "text": "[01:53]让你去疯",
+      "translation": null
+    },
+    {
+      "time": 192.0,
+      "time_str": "03:12.000",
+      "text": "[01:56]让你去狂",
+      "translation": null
+    },
+    {
+      "time": 194.0,
+      "time_str": "03:14.000",
+      "text": "[01:58]让你在没有我的地方坚强",
+      "translation": null
+    },
+    {
+      "time": 201.0,
+      "time_str": "03:21.000",
+      "text": "让我在没有你的地方疗伤",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "梦一场 - 那英.lrc"
+}

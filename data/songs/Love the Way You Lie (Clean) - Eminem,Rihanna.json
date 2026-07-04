@@ -1,0 +1,550 @@
+{
+  "title": "Love the Way You Lie",
+  "title_raw": "Love the Way You Lie (Clean)",
+  "version": "Clean",
+  "artist": "Eminem,Rihanna",
+  "group_key": "love the way you lie|eminem,rihanna",
+  "writers": {
+    "lyricist": "Eminem/A. Grant/H. Hafferman",
+    "composer": "Eminem/A. Grant/H. Hafferman",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.59,
+      "time_str": "00:00.590",
+      "text": "Just gonna stand there and watch me burn",
+      "translation": "你是不是就打算站在那看着我五脏如焚"
+    },
+    {
+      "time": 4.999,
+      "time_str": "00:04.999",
+      "text": "But that's alright because I like the way it hurts",
+      "translation": "不过没关系,因为我喜欢这心痛的感觉"
+    },
+    {
+      "time": 10.967,
+      "time_str": "00:10.967",
+      "text": "Just gonna stand there and hear me cry",
+      "translation": "你是不是就打算站在那听着我哭泣"
+    },
+    {
+      "time": 16.87,
+      "time_str": "00:16.870",
+      "text": "But that's alright because I love the way you lie",
+      "translation": "不过没关系,因为我连你的谎言都爱,"
+    },
+    {
+      "time": 22.589,
+      "time_str": "00:22.589",
+      "text": "I love the way you lie",
+      "translation": "连你的谎言都爱"
+    },
+    {
+      "time": 22.678,
+      "time_str": "00:22.678",
+      "text": "I can't tell you what it really is",
+      "translation": "我说不出来它到底是什么"
+    },
+    {
+      "time": 23.878,
+      "time_str": "00:23.878",
+      "text": "[Eminem]",
+      "translation": null
+    },
+    {
+      "time": 26.698,
+      "time_str": "00:26.698",
+      "text": "I can only tell you what it feels like",
+      "translation": "我只能告诉你它是一种什么感觉"
+    },
+    {
+      "time": 28.889,
+      "time_str": "00:28.889",
+      "text": "And right now it's a steel knife in my windpipe",
+      "translation": "现在我的气管像被堵住一样"
+    },
+    {
+      "time": 31.399,
+      "time_str": "00:31.399",
+      "text": "I can't breathe but I still fight while I can fight",
+      "translation": "无法呼吸 但是我仍在尽力坚持"
+    },
+    {
+      "time": 34.39,
+      "time_str": "00:34.390",
+      "text": "As long as the wrong feels right it's like I'm in flight",
+      "translation": "就像被驾到高空一样没有任何感觉"
+    },
+    {
+      "time": 37.209,
+      "time_str": "00:37.209",
+      "text": "High off of love, drunk from my hate,",
+      "translation": "借酒泄愤想要挣脱束缚"
+    },
+    {
+      "time": 39.549,
+      "time_str": "00:39.549",
+      "text": "It's like I'm huffing paint and I love it the more I suffer, I suffocate",
+      "translation": "我就像这溺水一样，越是挣扎就越窒息"
+    },
+    {
+      "time": 42.649,
+      "time_str": "00:42.649",
+      "text": "And right before I'm about to drown, she resuscitates me",
+      "translation": "就在我马上要沉下去的时候，她拯救了我"
+    },
+    {
+      "time": 46.19,
+      "time_str": "00:46.190",
+      "text": "She ******* hates me and I love it.",
+      "translation": "我爱她恨我的感觉"
+    },
+    {
+      "time": 48.19,
+      "time_str": "00:48.190",
+      "text": "Wait! Where you going?",
+      "translation": "等等！你要去哪儿？"
+    },
+    {
+      "time": 49.279,
+      "time_str": "00:49.279",
+      "text": "\"I'm leaving you\"",
+      "translation": "我要离开你"
+    },
+    {
+      "time": 50.299,
+      "time_str": "00:50.299",
+      "text": "No you ain't. Come back we're running right back.",
+      "translation": "不，你不能走。回来吧"
+    },
+    {
+      "time": 53.69,
+      "time_str": "00:53.690",
+      "text": "Here we go again",
+      "translation": "我们重新来过！"
+    },
+    {
+      "time": 54.29,
+      "time_str": "00:54.290",
+      "text": "It's so insane cause when it's going good, it's going great",
+      "translation": "这真是神奇，因为它向着完美发展"
+    },
+    {
+      "time": 57.2,
+      "time_str": "00:57.200",
+      "text": "I'm Superman with the wind at his back, she's Lois Lane",
+      "translation": "我就像超人一样无往不利！ 她就是露易丝莱恩一般"
+    },
+    {
+      "time": 57.879,
+      "time_str": "00:57.879",
+      "text": "But when it's bad it's awful, I feel so ashamed I snapped",
+      "translation": "糟糕的时候一塌糊涂我都感到羞耻"
+    },
+    {
+      "time": 62.4,
+      "time_str": "01:02.400",
+      "text": "Who's that dude? I don't even know his name",
+      "translation": "这人又是谁？我连他名字都不知道"
+    },
+    {
+      "time": 65.249,
+      "time_str": "01:05.249",
+      "text": "I laid hands on her, I'll never stoop so low again",
+      "translation": "我揍了她 ,告诉她我再也不会妥协了"
+    },
+    {
+      "time": 68.189,
+      "time_str": "01:08.189",
+      "text": "I guess I don't know my own strength",
+      "translation": "连我自己都不知道我有多强硬"
+    },
+    {
+      "time": 70.49,
+      "time_str": "01:10.490",
+      "text": "Just gonna stand there and watch me burn",
+      "translation": "你是不是就打算站在那看着我五内如焚"
+    },
+    {
+      "time": 75.729,
+      "time_str": "01:15.729",
+      "text": "But that's alright because I like the way it hurts",
+      "translation": "不过没关系,因为我喜欢这心痛的感觉"
+    },
+    {
+      "time": 80.549,
+      "time_str": "01:20.549",
+      "text": "Just gonna stand there and hear me cry",
+      "translation": "你是不是就打算站在那听着我哭泣"
+    },
+    {
+      "time": 86.5,
+      "time_str": "01:26.500",
+      "text": "But that's alright because I love the way you lie",
+      "translation": "不过没关系,因为我连你的谎言都爱,"
+    },
+    {
+      "time": 90.79,
+      "time_str": "01:30.790",
+      "text": "I love the way you lie",
+      "translation": "连你的谎言都爱"
+    },
+    {
+      "time": 96.889,
+      "time_str": "01:36.889",
+      "text": "I love the way you lie",
+      "translation": "连你的谎言都爱"
+    },
+    {
+      "time": 98.879,
+      "time_str": "01:38.879",
+      "text": "[Eminem]",
+      "translation": null
+    },
+    {
+      "time": 102.939,
+      "time_str": "01:42.939",
+      "text": "You ever love somebody so much you can barely breathe",
+      "translation": "你曾经爱一个人爱到窒息么？"
+    },
+    {
+      "time": 106.3,
+      "time_str": "01:46.300",
+      "text": "When you're with 'em",
+      "translation": "当你和他们在一起的时候"
+    },
+    {
+      "time": 107.79,
+      "time_str": "01:47.790",
+      "text": "You meet and neither one of you even knows what hit 'em",
+      "translation": "你们满足了 而你们没一个人知道到底在干什么"
+    },
+    {
+      "time": 109.09,
+      "time_str": "01:49.090",
+      "text": "Got that warm fuzzy feeling",
+      "translation": "慢慢享受你的暧昧感觉吧"
+    },
+    {
+      "time": 109.978,
+      "time_str": "01:49.978",
+      "text": "Yeah, them those chills you used to get 'em",
+      "translation": "呵~那些你们曾经的欢乐时光"
+    },
+    {
+      "time": 111.208,
+      "time_str": "01:51.208",
+      "text": "Now you're getting ******* sick of looking at 'em",
+      "translation": "现在你看对方一眼都感觉恶心"
+    },
+    {
+      "time": 113.989,
+      "time_str": "01:53.989",
+      "text": "You swore you'd never hit 'em; never do nothing to hurt 'em",
+      "translation": "你发过誓再不做出任何伤害他的事情"
+    },
+    {
+      "time": 117.2,
+      "time_str": "01:57.200",
+      "text": "Now you're in each other's face spewing venom in your words when you spit them",
+      "translation": "但是你现在却换了副嘴脸，恶语相加"
+    },
+    {
+      "time": 120.8,
+      "time_str": "02:00.800",
+      "text": "You push pull each other's hair, scratch claw hit 'em",
+      "translation": "你现在却把他推来搡去，不停地伤害着他"
+    },
+    {
+      "time": 122.29,
+      "time_str": "02:02.290",
+      "text": "Throw 'em down pin 'em",
+      "translation": "你在蹂躏着他，像用针一样刺痛他"
+    },
+    {
+      "time": 123.859,
+      "time_str": "02:03.859",
+      "text": "So lost in the moments when you're in them",
+      "translation": "如此沉迷般的伤害着对方"
+    },
+    {
+      "time": 126.469,
+      "time_str": "02:06.469",
+      "text": "It's the rage that took over it controls you both",
+      "translation": "这就如同一次比赛，但却是罪恶在掌控着你"
+    },
+    {
+      "time": 128.888,
+      "time_str": "02:08.888",
+      "text": "So they say you're best to go your separate ways",
+      "translation": "它们告诉你分道扬镳是你最好的选择"
+    },
+    {
+      "time": 130.16,
+      "time_str": "02:10.160",
+      "text": "Guess if they don't know you 'cause today that was yesterday",
+      "translation": "他们大概不知道今日是非是因昨日而起"
+    },
+    {
+      "time": 134.38,
+      "time_str": "02:14.380",
+      "text": "Yesterday is over, it's a different day",
+      "translation": "如果以前的事没发生就不会这样"
+    },
+    {
+      "time": 135.589,
+      "time_str": "02:15.589",
+      "text": "Sound like broken records playing over but you promised her",
+      "translation": "就像破唱片一样一遍又一遍的重复你对他的承诺"
+    },
+    {
+      "time": 137.977,
+      "time_str": "02:17.977",
+      "text": "Next time you show restraint",
+      "translation": "下次你要克制自己"
+    },
+    {
+      "time": 140.197,
+      "time_str": "02:20.197",
+      "text": "You don't get another chance",
+      "translation": "不然你们之间就没有机会了"
+    },
+    {
+      "time": 140.867,
+      "time_str": "02:20.867",
+      "text": "Life is no Nintendo game",
+      "translation": "生活不是任天堂的游戏"
+    },
+    {
+      "time": 142.437,
+      "time_str": "02:22.437",
+      "text": "But you lied again",
+      "translation": "然而你又食言了"
+    },
+    {
+      "time": 143.447,
+      "time_str": "02:23.447",
+      "text": "Now you get to watch her leave out the window",
+      "translation": "现在你只能眼睁睁的丢掉她给你的最后一次机会"
+    },
+    {
+      "time": 145.379,
+      "time_str": "02:25.379",
+      "text": "I guess that's why they call it window pane",
+      "translation": "我想这也就是所谓的遗憾吧 ？？"
+    },
+    {
+      "time": 145.617,
+      "time_str": "02:25.617",
+      "text": "Just gonna stand there and watch me burn",
+      "translation": "你是不是就打算站在那看着我五内如焚"
+    },
+    {
+      "time": 153.537,
+      "time_str": "02:33.537",
+      "text": "But that's alright because I like the way it hurts",
+      "translation": "不过没关系,因为我喜欢这心痛的感觉"
+    },
+    {
+      "time": 157.597,
+      "time_str": "02:37.597",
+      "text": "Just gonna stand there and hear me cry",
+      "translation": "你是不是就打算站在那听着我哭泣"
+    },
+    {
+      "time": 162.618,
+      "time_str": "02:42.618",
+      "text": "But that's alright because I love the way you lie",
+      "translation": "不过没关系,因为我连你的谎言都爱,"
+    },
+    {
+      "time": 168.079,
+      "time_str": "02:48.079",
+      "text": "I love the way you lie",
+      "translation": "连你的谎言都爱"
+    },
+    {
+      "time": 174.378,
+      "time_str": "02:54.378",
+      "text": "I love the way you lie",
+      "translation": "连你的谎言都爱"
+    },
+    {
+      "time": 177.697,
+      "time_str": "02:57.697",
+      "text": "[Eminem]",
+      "translation": null
+    },
+    {
+      "time": 180.207,
+      "time_str": "03:00.207",
+      "text": "Now I know we said things, did things that we didn't mean",
+      "translation": "现在我明白了他说的事与愿违、口是心非"
+    },
+    {
+      "time": 183.789,
+      "time_str": "03:03.789",
+      "text": "And we fall back into the same patterns, same routine",
+      "translation": "我们又回到了原来的套路上"
+    },
+    {
+      "time": 186.287,
+      "time_str": "03:06.287",
+      "text": "But your temper's just as bad as mine is",
+      "translation": "你脾气跟我一样坏"
+    },
+    {
+      "time": 188.888,
+      "time_str": "03:08.888",
+      "text": "You're the same as me",
+      "translation": "你跟我一样"
+    },
+    {
+      "time": 189.577,
+      "time_str": "03:09.577",
+      "text": "But when it comes to love you're just as blinded",
+      "translation": "但是每每当我们快修成正果时却总是错过"
+    },
+    {
+      "time": 191.697,
+      "time_str": "03:11.697",
+      "text": "Baby, please come back",
+      "translation": "宝贝，回来吧。"
+    },
+    {
+      "time": 193.367,
+      "time_str": "03:13.367",
+      "text": "It wasn't you, baby it was me",
+      "translation": "好吧，宝贝儿都是我的错"
+    },
+    {
+      "time": 194.488,
+      "time_str": "03:14.488",
+      "text": "Maybe our relationship isn't as crazy as it seems",
+      "translation": "没准我们的关系并没有看上去那么不可救药"
+    },
+    {
+      "time": 198.289,
+      "time_str": "03:18.289",
+      "text": "Maybe that's what happens when a tornado meets a volcano",
+      "translation": "也许我们就像是水火相容的结果"
+    },
+    {
+      "time": 201.147,
+      "time_str": "03:21.147",
+      "text": "All I know is I love you too much to walk away though",
+      "translation": "我只知道我爱你爱得不能自拔"
+    },
+    {
+      "time": 203.888,
+      "time_str": "03:23.888",
+      "text": "Come inside, pick up your bags off the sidewalk",
+      "translation": "回家吧，拿上你的东西回家吧"
+    },
+    {
+      "time": 205.816,
+      "time_str": "03:25.816",
+      "text": "Don't you hear sincerity in my voice when I talk",
+      "translation": "难道你没有听出我声音中的真诚么"
+    },
+    {
+      "time": 209.407,
+      "time_str": "03:29.407",
+      "text": "I told you this is my fault",
+      "translation": "我都说了，这都是我的错"
+    },
+    {
+      "time": 210.776,
+      "time_str": "03:30.776",
+      "text": "Look me in the eyeball",
+      "translation": "过来看着我的眼睛"
+    },
+    {
+      "time": 211.978,
+      "time_str": "03:31.978",
+      "text": "Next time I'm pissed, I'll aim my fist at the drywall",
+      "translation": "我绝不会再发火再动手了，决不会了"
+    },
+    {
+      "time": 214.317,
+      "time_str": "03:34.317",
+      "text": "Next time. There won't be no next time",
+      "translation": "决不会了"
+    },
+    {
+      "time": 216.348,
+      "time_str": "03:36.348",
+      "text": "I apologize even though I know its lies",
+      "translation": "我明知道我的道歉是谎话"
+    },
+    {
+      "time": 219.137,
+      "time_str": "03:39.137",
+      "text": "I'm tired of the games I just want her back",
+      "translation": "我受够这场争执了，我只想让她回来"
+    },
+    {
+      "time": 221.317,
+      "time_str": "03:41.317",
+      "text": "I know I'm a liar",
+      "translation": "我知道我就是个骗子"
+    },
+    {
+      "time": 223.98,
+      "time_str": "03:43.980",
+      "text": "If she ever tries to ******* leave again",
+      "translation": "但是如果她再TM试图离开我的话"
+    },
+    {
+      "time": 224.847,
+      "time_str": "03:44.847",
+      "text": "Im'a tie her to the bed and set this house on fire",
+      "translation": "我会把她绑在床上，点燃房子"
+    },
+    {
+      "time": 228.777,
+      "time_str": "03:48.777",
+      "text": "Just gonna stand there and watch me burn",
+      "translation": "你是不是就打算站在那看着我五内如焚"
+    },
+    {
+      "time": 231.288,
+      "time_str": "03:51.288",
+      "text": "that's alright",
+      "translation": "我就这么打算"
+    },
+    {
+      "time": 233.679,
+      "time_str": "03:53.679",
+      "text": "But that's alright because I like the way it hurts",
+      "translation": "不过没关系,因为我喜欢这心痛的感觉"
+    },
+    {
+      "time": 238.797,
+      "time_str": "03:58.797",
+      "text": "Just gonna stand there and hear me cry",
+      "translation": "你是不是就打算站在那听着我哭泣"
+    },
+    {
+      "time": 243.78,
+      "time_str": "04:03.780",
+      "text": "But that's alright because I love the way you lie",
+      "translation": "不过没关系,因为我连你的谎言都爱,"
+    },
+    {
+      "time": 248.587,
+      "time_str": "04:08.587",
+      "text": "I love the way you lie",
+      "translation": "连你的谎言都爱"
+    },
+    {
+      "time": 253.997,
+      "time_str": "04:13.997",
+      "text": "I love the way you lie",
+      "translation": "连你的谎言都爱"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Love the Way You Lie (Clean) - Eminem,Rihanna.lrc"
+}

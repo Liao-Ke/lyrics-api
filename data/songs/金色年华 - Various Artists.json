@@ -1,0 +1,310 @@
+{
+  "title": "金色年华",
+  "title_raw": "金色年华",
+  "version": null,
+  "artist": "Various Artists",
+  "group_key": "金色年华|various artists",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.74,
+      "time_str": "00:10.740",
+      "text": "e'passato un anno e siamo qua",
+      "translation": "一年已经过去，我们仍在这里"
+    },
+    {
+      "time": 14.7,
+      "time_str": "00:14.700",
+      "text": "Sotto i fari di questa realta'",
+      "translation": "站在这真实的灯火下"
+    },
+    {
+      "time": 16.22,
+      "time_str": "00:16.220",
+      "text": "Inseguendo strade dove chissa'",
+      "translation": "在熟悉的街道上追逐着"
+    },
+    {
+      "time": 19.36,
+      "time_str": "00:19.360",
+      "text": "Fermeremo il tempo(tempo)",
+      "translation": "让时间也静止（时间）"
+    },
+    {
+      "time": 21.91,
+      "time_str": "00:21.910",
+      "text": "Vivendo giorni veri",
+      "translation": "眼前生活如此真实"
+    },
+    {
+      "time": 23.12,
+      "time_str": "00:23.120",
+      "text": "Sognando come ieri",
+      "translation": "却又变幻如同昨日"
+    },
+    {
+      "time": 24.44,
+      "time_str": "00:24.440",
+      "text": "Ballando con questo ritmo che va",
+      "translation": "随这旋律一起歌唱吧"
+    },
+    {
+      "time": 26.82,
+      "time_str": "00:26.820",
+      "text": "Batte forte inesorabile",
+      "translation": "节奏强劲，没有止息"
+    },
+    {
+      "time": 29.38,
+      "time_str": "00:29.380",
+      "text": "Questo amore senza limite",
+      "translation": "这份爱意，没有限制"
+    },
+    {
+      "time": 32.34,
+      "time_str": "00:32.340",
+      "text": "Non passera' la voglia che ho di te",
+      "translation": "我对你的愿望不止于此"
+    },
+    {
+      "time": 36.18,
+      "time_str": "00:36.180",
+      "text": "Ora che ti sento",
+      "translation": "现在你感受到了吧"
+    },
+    {
+      "time": 37.64,
+      "time_str": "00:37.640",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 40.35,
+      "time_str": "00:40.350",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 43.15,
+      "time_str": "00:43.150",
+      "text": "Accendera'la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 46.88,
+      "time_str": "00:46.880",
+      "text": "Ora che ti ho dentro",
+      "translation": "现在你就在我的心里"
+    },
+    {
+      "time": 60.3,
+      "time_str": "01:00.300",
+      "text": "Storie che s'incrociano e siamo qua",
+      "translation": "故事已经开始，我们就在这里"
+    },
+    {
+      "time": 63.29,
+      "time_str": "01:03.290",
+      "text": "Tra emozioni e sogni senza eta'",
+      "translation": "来自于不老的梦想与感情"
+    },
+    {
+      "time": 65.96,
+      "time_str": "01:05.960",
+      "text": "Cinque anime un'identita'",
+      "translation": "五年时光留下的刻痕"
+    },
+    {
+      "time": 68.63,
+      "time_str": "01:08.630",
+      "text": "Sempre in movimento",
+      "translation": "依然在不断前移"
+    },
+    {
+      "time": 71.61,
+      "time_str": "01:11.610",
+      "text": "Vivendo giorni veri",
+      "translation": "眼前生活如此真实"
+    },
+    {
+      "time": 72.74,
+      "time_str": "01:12.740",
+      "text": "Sognando come ieri",
+      "translation": "却又变幻如同昨日"
+    },
+    {
+      "time": 74.0,
+      "time_str": "01:14.000",
+      "text": "Ballando con questo ritmo che va",
+      "translation": "随这旋律一同舞蹈吧"
+    },
+    {
+      "time": 76.47,
+      "time_str": "01:16.470",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 79.1,
+      "time_str": "01:19.100",
+      "text": "Questo amore senza limite",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 82.19,
+      "time_str": "01:22.190",
+      "text": "Non passera' la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 85.78,
+      "time_str": "01:25.780",
+      "text": "Ora che ti sento",
+      "translation": "现在你就在我的心里"
+    },
+    {
+      "time": 87.36,
+      "time_str": "01:27.360",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 90.6,
+      "time_str": "01:30.600",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 92.74,
+      "time_str": "01:32.740",
+      "text": "Accendera'la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 96.62,
+      "time_str": "01:36.620",
+      "text": "Ora che ti ho dentro",
+      "translation": "现在你就在我的心里"
+    },
+    {
+      "time": 119.31,
+      "time_str": "01:59.310",
+      "text": "Libera, (libera)",
+      "translation": "自由的（自由的）"
+    },
+    {
+      "time": 122.48,
+      "time_str": "02:02.480",
+      "text": "anima",
+      "translation": "灵魂啊"
+    },
+    {
+      "time": 124.99,
+      "time_str": "02:04.990",
+      "text": "Quanta vita che ancora passera'",
+      "translation": "谁知道生活还有多久呢"
+    },
+    {
+      "time": 128.51,
+      "time_str": "02:08.510",
+      "text": "In questa dolce realta'",
+      "translation": "那就趁着我们还年轻吧"
+    },
+    {
+      "time": 131.68,
+      "time_str": "02:11.680",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 134.38,
+      "time_str": "02:14.380",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 137.3,
+      "time_str": "02:17.300",
+      "text": "Accendera'la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 140.74,
+      "time_str": "02:20.740",
+      "text": "Ora che ti ho dentro",
+      "translation": "现在你就在我的心里"
+    },
+    {
+      "time": 142.23,
+      "time_str": "02:22.230",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 144.79,
+      "time_str": "02:24.790",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 147.58,
+      "time_str": "02:27.580",
+      "text": "Accendera'la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 151.35,
+      "time_str": "02:31.350",
+      "text": "Ora che ti ho dentro",
+      "translation": "现在你就在我的心里"
+    },
+    {
+      "time": 163.83,
+      "time_str": "02:43.830",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 166.44,
+      "time_str": "02:46.440",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 169.24,
+      "time_str": "02:49.240",
+      "text": "Accendera'la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 172.97,
+      "time_str": "02:52.970",
+      "text": "Ora che ti ho dentro",
+      "translation": "现在你就在我的心里"
+    },
+    {
+      "time": 174.43,
+      "time_str": "02:54.430",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 177.8,
+      "time_str": "02:57.800",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 179.87,
+      "time_str": "02:59.870",
+      "text": "Accendera'la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "金色年华 - Various Artists.lrc"
+}

@@ -1,0 +1,256 @@
+{
+  "title": "认真的雪",
+  "title_raw": "认真的雪",
+  "version": null,
+  "artist": "薛之谦",
+  "group_key": "认真的雪|薛之谦",
+  "writers": {
+    "lyricist": "薛之谦",
+    "composer": "薛之谦",
+    "arranger": "彭程"
+  },
+  "lyrics": [
+    {
+      "time": 1.29,
+      "time_str": "00:01.290",
+      "text": "雪下得那么深 下得那么认真",
+      "translation": null
+    },
+    {
+      "time": 6.67,
+      "time_str": "00:06.670",
+      "text": "倒映出我躺在雪中的伤痕",
+      "translation": null
+    },
+    {
+      "time": 24.41,
+      "time_str": "00:24.410",
+      "text": "夜深人静 那是爱情",
+      "translation": null
+    },
+    {
+      "time": 33.53,
+      "time_str": "00:33.530",
+      "text": "偷偷的控制着我的心",
+      "translation": null
+    },
+    {
+      "time": 36.39,
+      "time_str": "00:36.390",
+      "text": "提醒我爱你要随时待命",
+      "translation": null
+    },
+    {
+      "time": 42.78,
+      "time_str": "00:42.780",
+      "text": "音乐安静 还是爱情啊",
+      "translation": null
+    },
+    {
+      "time": 51.38,
+      "time_str": "00:51.380",
+      "text": "一步一步吞噬着我的心",
+      "translation": null
+    },
+    {
+      "time": 54.59,
+      "time_str": "00:54.590",
+      "text": "爱上你我失去了我自己",
+      "translation": null
+    },
+    {
+      "time": 60.639,
+      "time_str": "01:00.639",
+      "text": "爱得那么认真 爱得那么认真",
+      "translation": null
+    },
+    {
+      "time": 66.019,
+      "time_str": "01:06.019",
+      "text": "可还是听见了你说不可能",
+      "translation": null
+    },
+    {
+      "time": 70.09,
+      "time_str": "01:10.090",
+      "text": "已经十几年 没下雪的上海",
+      "translation": null
+    },
+    {
+      "time": 73.468,
+      "time_str": "01:13.468",
+      "text": "突然飘雪 就在你说了分手的瞬间",
+      "translation": null
+    },
+    {
+      "time": 78.989,
+      "time_str": "01:18.989",
+      "text": "雪下得那么深 下得那么认真",
+      "translation": null
+    },
+    {
+      "time": 84.299,
+      "time_str": "01:24.299",
+      "text": "倒映出我躺在雪中的伤痕",
+      "translation": null
+    },
+    {
+      "time": 88.968,
+      "time_str": "01:28.968",
+      "text": "我并不在乎自己究竟多伤痕累累",
+      "translation": null
+    },
+    {
+      "time": 93.629,
+      "time_str": "01:33.629",
+      "text": "可我在乎今后你有谁陪",
+      "translation": null
+    },
+    {
+      "time": 124.998,
+      "time_str": "02:04.998",
+      "text": "音乐安静 还是爱情啊",
+      "translation": null
+    },
+    {
+      "time": 133.919,
+      "time_str": "02:13.919",
+      "text": "一步一步吞噬着我的心",
+      "translation": null
+    },
+    {
+      "time": 136.919,
+      "time_str": "02:16.919",
+      "text": "爱上你我失去了我自己",
+      "translation": null
+    },
+    {
+      "time": 142.889,
+      "time_str": "02:22.889",
+      "text": "爱得那么认真 爱得那么认真",
+      "translation": null
+    },
+    {
+      "time": 148.379,
+      "time_str": "02:28.379",
+      "text": "可还是听见了你说不可能",
+      "translation": null
+    },
+    {
+      "time": 152.369,
+      "time_str": "02:32.369",
+      "text": "已经十几年 没下雪的上海",
+      "translation": null
+    },
+    {
+      "time": 155.799,
+      "time_str": "02:35.799",
+      "text": "突然飘雪 就在你说了分手的瞬间",
+      "translation": null
+    },
+    {
+      "time": 161.319,
+      "time_str": "02:41.319",
+      "text": "雪下得那么深 下得那么认真",
+      "translation": null
+    },
+    {
+      "time": 166.619,
+      "time_str": "02:46.619",
+      "text": "倒映出我躺在雪中的伤痕",
+      "translation": null
+    },
+    {
+      "time": 171.239,
+      "time_str": "02:51.239",
+      "text": "我并不在乎自己究竟多伤痕累累",
+      "translation": null
+    },
+    {
+      "time": 175.869,
+      "time_str": "02:55.869",
+      "text": "可我在乎今后你让谁陪",
+      "translation": null
+    },
+    {
+      "time": 182.139,
+      "time_str": "03:02.139",
+      "text": "爱得那么深 爱得那么认真",
+      "translation": null
+    },
+    {
+      "time": 187.25,
+      "time_str": "03:07.250",
+      "text": "可还是听见了你说不可能",
+      "translation": null
+    },
+    {
+      "time": 191.229,
+      "time_str": "03:11.229",
+      "text": "已经十几年 没下雪的上海",
+      "translation": null
+    },
+    {
+      "time": 194.549,
+      "time_str": "03:14.549",
+      "text": "突然飘雪 就在你说了分手的瞬间",
+      "translation": null
+    },
+    {
+      "time": 200.089,
+      "time_str": "03:20.089",
+      "text": "雪下得那么深 下得那么认真",
+      "translation": null
+    },
+    {
+      "time": 205.459,
+      "time_str": "03:25.459",
+      "text": "倒映出我躺在雪中的伤痕",
+      "translation": null
+    },
+    {
+      "time": 210.099,
+      "time_str": "03:30.099",
+      "text": "我并不在乎自己究竟多伤痕累累",
+      "translation": null
+    },
+    {
+      "time": 214.699,
+      "time_str": "03:34.699",
+      "text": "可我在乎今后你让谁陪",
+      "translation": null
+    },
+    {
+      "time": 221.03,
+      "time_str": "03:41.030",
+      "text": "爱得那么深 比谁都认真",
+      "translation": null
+    },
+    {
+      "time": 226.129,
+      "time_str": "03:46.129",
+      "text": "可最后还是只剩我一个人",
+      "translation": null
+    },
+    {
+      "time": 230.679,
+      "time_str": "03:50.679",
+      "text": "漫天风雪请别再把我的眼泪擦去",
+      "translation": null
+    },
+    {
+      "time": 235.329,
+      "time_str": "03:55.329",
+      "text": "毕竟那是我最爱的女人",
+      "translation": null
+    },
+    {
+      "time": 240.659,
+      "time_str": "04:00.659",
+      "text": "毕竟我曾是她深爱的人",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "认真的雪 - 薛之谦.lrc"
+}

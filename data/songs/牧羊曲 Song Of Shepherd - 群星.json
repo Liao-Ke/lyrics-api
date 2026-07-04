@@ -1,0 +1,124 @@
+{
+  "title": "牧羊曲 Song Of Shepherd",
+  "title_raw": "牧羊曲 Song Of Shepherd",
+  "version": null,
+  "artist": "群星",
+  "group_key": "牧羊曲 song of shepherd|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.56,
+      "time_str": "00:09.560",
+      "text": "Music",
+      "translation": null
+    },
+    {
+      "time": 47.57,
+      "time_str": "00:47.570",
+      "text": "日出嵩山坳 晨钟惊飞鸟",
+      "translation": null
+    },
+    {
+      "time": 61.15,
+      "time_str": "01:01.150",
+      "text": "林间小溪水潺潺",
+      "translation": null
+    },
+    {
+      "time": 69.42,
+      "time_str": "01:09.420",
+      "text": "坡上青青草",
+      "translation": null
+    },
+    {
+      "time": 74.81,
+      "time_str": "01:14.810",
+      "text": "野果香 山花俏",
+      "translation": null
+    },
+    {
+      "time": 85.16,
+      "time_str": "01:25.160",
+      "text": "狗儿跳 羊儿跑",
+      "translation": null
+    },
+    {
+      "time": 91.93,
+      "time_str": "01:31.930",
+      "text": "举起鞭儿轻轻摇",
+      "translation": null
+    },
+    {
+      "time": 102.04,
+      "time_str": "01:42.040",
+      "text": "小曲满山飘满山飘",
+      "translation": null
+    },
+    {
+      "time": 111.76,
+      "time_str": "01:51.760",
+      "text": "Music",
+      "translation": null
+    },
+    {
+      "time": 153.77,
+      "time_str": "02:33.770",
+      "text": "莫道女儿娇 无暇有奇巧",
+      "translation": null
+    },
+    {
+      "time": 167.29,
+      "time_str": "02:47.290",
+      "text": "冬去春来十六载",
+      "translation": null
+    },
+    {
+      "time": 175.35,
+      "time_str": "02:55.350",
+      "text": "黄花正年少",
+      "translation": null
+    },
+    {
+      "time": 180.99,
+      "time_str": "03:00.990",
+      "text": "腰身壮 胆气豪",
+      "translation": null
+    },
+    {
+      "time": 191.16,
+      "time_str": "03:11.160",
+      "text": "常练武 勤操劳",
+      "translation": null
+    },
+    {
+      "time": 198.2,
+      "time_str": "03:18.200",
+      "text": "耕田放牧打豺狼",
+      "translation": null
+    },
+    {
+      "time": 208.37,
+      "time_str": "03:28.370",
+      "text": "风雨一肩挑一肩挑",
+      "translation": null
+    },
+    {
+      "time": 216.77,
+      "time_str": "03:36.770",
+      "text": "风雨一肩挑一肩挑",
+      "translation": null
+    },
+    {
+      "time": 227.15,
+      "time_str": "03:47.150",
+      "text": "一肩挑",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "牧羊曲 Song Of Shepherd - 群星.lrc"
+}

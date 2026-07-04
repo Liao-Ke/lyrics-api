@@ -1,0 +1,262 @@
+{
+  "title": "拉拉爱",
+  "title_raw": "拉拉爱",
+  "version": null,
+  "artist": "邵雨涵",
+  "group_key": "拉拉爱|邵雨涵",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.69,
+      "time_str": "00:01.690",
+      "text": "拉拉拉拉拉拉拉拉拉",
+      "translation": null
+    },
+    {
+      "time": 8.35,
+      "time_str": "00:08.350",
+      "text": "只有跳舞才能",
+      "translation": null
+    },
+    {
+      "time": 9.82,
+      "time_str": "00:09.820",
+      "text": "让我的心情自由散发",
+      "translation": null
+    },
+    {
+      "time": 47.26,
+      "time_str": "00:47.260",
+      "text": "一起来跳吧 没有人喊CUT",
+      "translation": null
+    },
+    {
+      "time": 51.0,
+      "time_str": "00:51.000",
+      "text": "凌晨两点以前 谁也别回家",
+      "translation": null
+    },
+    {
+      "time": 54.96,
+      "time_str": "00:54.960",
+      "text": "可爱MADUSHA 甩动着头发",
+      "translation": null
+    },
+    {
+      "time": 59.16,
+      "time_str": "00:59.160",
+      "text": "我的麦当娜",
+      "translation": null
+    },
+    {
+      "time": 62.12,
+      "time_str": "01:02.120",
+      "text": "不管是它他她 还是菲奥娜",
+      "translation": null
+    },
+    {
+      "time": 66.45,
+      "time_str": "01:06.450",
+      "text": "空气中的温度 把一切蒸发",
+      "translation": null
+    },
+    {
+      "time": 70.19,
+      "time_str": "01:10.190",
+      "text": "冰淇淋融化在 旋转的木马",
+      "translation": null
+    },
+    {
+      "time": 74.29,
+      "time_str": "01:14.290",
+      "text": "盛开灿烂的烟花",
+      "translation": null
+    },
+    {
+      "time": 77.04,
+      "time_str": "01:17.040",
+      "text": "跟着音乐拉拉拉 不想他",
+      "translation": null
+    },
+    {
+      "time": 81.56,
+      "time_str": "01:21.560",
+      "text": "跟着音乐拉拉拉 不回家",
+      "translation": null
+    },
+    {
+      "time": 84.85,
+      "time_str": "01:24.850",
+      "text": "只有跳舞才能",
+      "translation": null
+    },
+    {
+      "time": 87.54,
+      "time_str": "01:27.540",
+      "text": "让我的心情自由散发",
+      "translation": null
+    },
+    {
+      "time": 92.52,
+      "time_str": "01:32.520",
+      "text": "跟着音乐拉拉拉 不想他",
+      "translation": null
+    },
+    {
+      "time": 96.36,
+      "time_str": "01:36.360",
+      "text": "跟着音乐拉拉拉 不回家",
+      "translation": null
+    },
+    {
+      "time": 99.2,
+      "time_str": "01:39.200",
+      "text": "只有跳舞才能",
+      "translation": null
+    },
+    {
+      "time": 102.89,
+      "time_str": "01:42.890",
+      "text": "让我的心情自由散发",
+      "translation": null
+    },
+    {
+      "time": 139.25,
+      "time_str": "02:19.250",
+      "text": "不管是它他她 还是菲奥娜",
+      "translation": null
+    },
+    {
+      "time": 143.39,
+      "time_str": "02:23.390",
+      "text": "空气中的温度 把一切蒸发",
+      "translation": null
+    },
+    {
+      "time": 147.16,
+      "time_str": "02:27.160",
+      "text": "冰淇淋融化在 旋转的木马",
+      "translation": null
+    },
+    {
+      "time": 150.69,
+      "time_str": "02:30.690",
+      "text": "盛开灿烂的烟花",
+      "translation": null
+    },
+    {
+      "time": 153.91,
+      "time_str": "02:33.910",
+      "text": "跟着音乐拉拉拉 不想他",
+      "translation": null
+    },
+    {
+      "time": 157.67,
+      "time_str": "02:37.670",
+      "text": "跟着音乐拉拉拉 不回家",
+      "translation": null
+    },
+    {
+      "time": 161.53,
+      "time_str": "02:41.530",
+      "text": "只有跳舞才能",
+      "translation": null
+    },
+    {
+      "time": 163.13,
+      "time_str": "02:43.130",
+      "text": "让我的心情自由散发",
+      "translation": null
+    },
+    {
+      "time": 169.42,
+      "time_str": "02:49.420",
+      "text": "跟着音乐拉拉拉 不想他",
+      "translation": null
+    },
+    {
+      "time": 173.09,
+      "time_str": "02:53.090",
+      "text": "跟着音乐拉拉拉 不回家",
+      "translation": null
+    },
+    {
+      "time": 177.02,
+      "time_str": "02:57.020",
+      "text": "只有跳舞才能",
+      "translation": null
+    },
+    {
+      "time": 179.78,
+      "time_str": "02:59.780",
+      "text": "让我的心情自由散发",
+      "translation": null
+    },
+    {
+      "time": 184.69,
+      "time_str": "03:04.690",
+      "text": "跟着音乐拉拉拉 不想他",
+      "translation": null
+    },
+    {
+      "time": 188.53,
+      "time_str": "03:08.530",
+      "text": "跟着音乐拉拉拉 不回家",
+      "translation": null
+    },
+    {
+      "time": 192.22,
+      "time_str": "03:12.220",
+      "text": "只有跳舞才能",
+      "translation": null
+    },
+    {
+      "time": 193.88,
+      "time_str": "03:13.880",
+      "text": "让我的心情自由散发",
+      "translation": null
+    },
+    {
+      "time": 200.25,
+      "time_str": "03:20.250",
+      "text": "跟着音乐拉拉拉 不想他",
+      "translation": null
+    },
+    {
+      "time": 203.88,
+      "time_str": "03:23.880",
+      "text": "跟着音乐拉拉拉 不回家",
+      "translation": null
+    },
+    {
+      "time": 207.69,
+      "time_str": "03:27.690",
+      "text": "只有跳舞才能",
+      "translation": null
+    },
+    {
+      "time": 210.42,
+      "time_str": "03:30.420",
+      "text": "让我的心情自由散发",
+      "translation": null
+    },
+    {
+      "time": 246.15,
+      "time_str": "04:06.150",
+      "text": "只有跳舞才能",
+      "translation": null
+    },
+    {
+      "time": 248.63,
+      "time_str": "04:08.630",
+      "text": "让我的心情自由散发",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "拉拉爱 - 邵雨涵.lrc"
+}

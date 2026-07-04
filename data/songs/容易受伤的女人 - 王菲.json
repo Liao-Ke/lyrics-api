@@ -1,0 +1,268 @@
+{
+  "title": "容易受伤的女人",
+  "title_raw": "容易受伤的女人",
+  "version": null,
+  "artist": "王菲",
+  "group_key": "容易受伤的女人|王菲",
+  "writers": {
+    "lyricist": "潘源良",
+    "composer": "中島みゆき",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 18.59,
+      "time_str": "00:18.590",
+      "text": "人渐醉了夜更深 在这一刻多么接近",
+      "translation": null
+    },
+    {
+      "time": 25.869,
+      "time_str": "00:25.869",
+      "text": "思想仿似在摇撼 矛盾也更深",
+      "translation": null
+    },
+    {
+      "time": 33.898,
+      "time_str": "00:33.898",
+      "text": "曾被破碎过的心 让你今天轻轻贴近",
+      "translation": null
+    },
+    {
+      "time": 40.347,
+      "time_str": "00:40.347",
+      "text": "多少安慰及疑问 偷偷的再生",
+      "translation": null
+    },
+    {
+      "time": 47.789,
+      "time_str": "00:47.789",
+      "text": "情难自禁 我却其实属于",
+      "translation": null
+    },
+    {
+      "time": 50.877,
+      "time_str": "00:50.877",
+      "text": "极度容易受伤的女人",
+      "translation": null
+    },
+    {
+      "time": 54.447,
+      "time_str": "00:54.447",
+      "text": "不要 不要 不要骤来骤去",
+      "translation": null
+    },
+    {
+      "time": 58.37,
+      "time_str": "00:58.370",
+      "text": "请珍惜我的心",
+      "translation": null
+    },
+    {
+      "time": 61.697,
+      "time_str": "01:01.697",
+      "text": "如明白我   继续情愿热恋",
+      "translation": null
+    },
+    {
+      "time": 65.379,
+      "time_str": "01:05.379",
+      "text": "这个容易受伤的女人",
+      "translation": null
+    },
+    {
+      "time": 69.079,
+      "time_str": "01:09.079",
+      "text": "不要等 这一刻 请热吻",
+      "translation": null
+    },
+    {
+      "time": 76.688,
+      "time_str": "01:16.688",
+      "text": "长夜有你醉也真 让我终于找到信任",
+      "translation": null
+    },
+    {
+      "time": 83.888,
+      "time_str": "01:23.888",
+      "text": "不管一切是疑问 快乐是情人",
+      "translation": null
+    },
+    {
+      "time": 120.099,
+      "time_str": "02:00.099",
+      "text": "曾害怕了这一生 是你始终甘心靠近",
+      "translation": null
+    },
+    {
+      "time": 127.468,
+      "time_str": "02:07.468",
+      "text": "我方知拥有着缘份 重建我信心",
+      "translation": null
+    },
+    {
+      "time": 134.748,
+      "time_str": "02:14.748",
+      "text": "曾被破碎过的心 让你今天轻轻贴近",
+      "translation": null
+    },
+    {
+      "time": 143.09,
+      "time_str": "02:23.090",
+      "text": "多少安慰及疑问 偷偷的再生",
+      "translation": null
+    },
+    {
+      "time": 149.098,
+      "time_str": "02:29.098",
+      "text": "情难自禁 我却其实属于",
+      "translation": null
+    },
+    {
+      "time": 152.498,
+      "time_str": "02:32.498",
+      "text": "极度容易受伤的女人",
+      "translation": null
+    },
+    {
+      "time": 156.098,
+      "time_str": "02:36.098",
+      "text": "不要 不要 不要骤来骤去",
+      "translation": null
+    },
+    {
+      "time": 159.778,
+      "time_str": "02:39.778",
+      "text": "请珍惜我的心",
+      "translation": null
+    },
+    {
+      "time": 163.338,
+      "time_str": "02:43.338",
+      "text": "如明白我   继续情愿热恋",
+      "translation": null
+    },
+    {
+      "time": 168.09,
+      "time_str": "02:48.090",
+      "text": "这个容易受伤的女人",
+      "translation": null
+    },
+    {
+      "time": 170.727,
+      "time_str": "02:50.727",
+      "text": "终此一生 也火般的热吻",
+      "translation": null
+    },
+    {
+      "time": 178.408,
+      "time_str": "02:58.408",
+      "text": "长夜有你醉也真 让我终于找到信任",
+      "translation": null
+    },
+    {
+      "time": 185.778,
+      "time_str": "03:05.778",
+      "text": "不管一切是疑问 快乐是情人",
+      "translation": null
+    },
+    {
+      "time": 192.699,
+      "time_str": "03:12.699",
+      "text": "情难自禁 我却其实属于",
+      "translation": null
+    },
+    {
+      "time": 197.09,
+      "time_str": "03:17.090",
+      "text": "极度容易受伤的女人",
+      "translation": null
+    },
+    {
+      "time": 199.669,
+      "time_str": "03:19.669",
+      "text": "不要 不要 不要骤来骤去",
+      "translation": null
+    },
+    {
+      "time": 203.308,
+      "time_str": "03:23.308",
+      "text": "请珍惜我的心",
+      "translation": null
+    },
+    {
+      "time": 207.098,
+      "time_str": "03:27.098",
+      "text": "如明白我   继续情愿热恋",
+      "translation": null
+    },
+    {
+      "time": 212.09,
+      "time_str": "03:32.090",
+      "text": "这个容易受伤的女人",
+      "translation": null
+    },
+    {
+      "time": 214.79,
+      "time_str": "03:34.790",
+      "text": "不要等 这一刻 请热吻",
+      "translation": null
+    },
+    {
+      "time": 222.298,
+      "time_str": "03:42.298",
+      "text": "长夜有你醉也真 让我终于找到信任",
+      "translation": null
+    },
+    {
+      "time": 229.98,
+      "time_str": "03:49.980",
+      "text": "不管一切是疑问 快乐是情人",
+      "translation": null
+    },
+    {
+      "time": 253.057,
+      "time_str": "04:13.057",
+      "text": "Keyboards & Synthesizers : Tony A",
+      "translation": null
+    },
+    {
+      "time": 253.189,
+      "time_str": "04:13.189",
+      "text": "Synthesizers & Drum Programming : Gary Kum (甘志伟)",
+      "translation": null
+    },
+    {
+      "time": 253.33,
+      "time_str": "04:13.330",
+      "text": "Guitar : 苏德华",
+      "translation": null
+    },
+    {
+      "time": 253.5,
+      "time_str": "04:13.500",
+      "text": "Strings : 熊宏亮",
+      "translation": null
+    },
+    {
+      "time": 253.633,
+      "time_str": "04:13.633",
+      "text": "Orchestra Recorded by Johnny Cheung-Sony Music Studio",
+      "translation": null
+    },
+    {
+      "time": 253.782,
+      "time_str": "04:13.782",
+      "text": "Mixed by Adrian Chan (陈伟文)-Studio S&R",
+      "translation": null
+    },
+    {
+      "time": 254.272,
+      "time_str": "04:14.272",
+      "text": "SP : Golden Pony Music Pub. (S. E. Asia) Ltd.",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "容易受伤的女人 - 王菲.lrc"
+}

@@ -1,0 +1,622 @@
+{
+  "title": "我想更懂你",
+  "title_raw": "我想更懂你",
+  "version": null,
+  "artist": "潘玮柏,苏芮",
+  "group_key": "我想更懂你|潘玮柏,苏芮",
+  "writers": {
+    "lyricist": "姚若龙/潘玮柏",
+    "composer": "李念和",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.28,
+      "time_str": "00:00.280",
+      "text": "rap作词人：潘玮柏",
+      "translation": null
+    },
+    {
+      "time": 0.348,
+      "time_str": "00:00.348",
+      "text": "Where you going?",
+      "translation": null
+    },
+    {
+      "time": 1.193,
+      "time_str": "00:01.193",
+      "text": "Going out",
+      "translation": null
+    },
+    {
+      "time": 2.518,
+      "time_str": "00:02.518",
+      "text": "With who?",
+      "translation": null
+    },
+    {
+      "time": 3.814,
+      "time_str": "00:03.814",
+      "text": "It's none of your business, OK?",
+      "translation": null
+    },
+    {
+      "time": 5.956,
+      "time_str": "00:05.956",
+      "text": "Would you gonna do it later?",
+      "translation": null
+    },
+    {
+      "time": 7.482,
+      "time_str": "00:07.482",
+      "text": "Stop acting like you care about me",
+      "translation": null
+    },
+    {
+      "time": 9.308,
+      "time_str": "00:09.308",
+      "text": "Stop acting like you wanna know something about me",
+      "translation": null
+    },
+    {
+      "time": 11.1,
+      "time_str": "00:11.100",
+      "text": "You don't know nothings, you don't care!",
+      "translation": null
+    },
+    {
+      "time": 13.175,
+      "time_str": "00:13.175",
+      "text": "Stop asking!",
+      "translation": null
+    },
+    {
+      "time": 15.62,
+      "time_str": "00:15.620",
+      "text": "I care...",
+      "translation": null
+    },
+    {
+      "time": 28.028,
+      "time_str": "00:28.028",
+      "text": "苏：",
+      "translation": null
+    },
+    {
+      "time": 28.52,
+      "time_str": "00:28.520",
+      "text": "每次我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 30.889,
+      "time_str": "00:30.889",
+      "text": "我们却更有距离",
+      "translation": null
+    },
+    {
+      "time": 33.285,
+      "time_str": "00:33.285",
+      "text": "是不是都用错言语",
+      "translation": null
+    },
+    {
+      "time": 36.499,
+      "time_str": "00:36.499",
+      "text": "也用错了表情",
+      "translation": null
+    },
+    {
+      "time": 39.297,
+      "time_str": "00:39.297",
+      "text": "其实我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 41.662,
+      "time_str": "00:41.662",
+      "text": "不是为了抓紧你",
+      "translation": null
+    },
+    {
+      "time": 44.104,
+      "time_str": "00:44.104",
+      "text": "我只是怕你会忘记",
+      "translation": null
+    },
+    {
+      "time": 47.004,
+      "time_str": "00:47.004",
+      "text": "有人永远爱着你",
+      "translation": null
+    },
+    {
+      "time": 51.907,
+      "time_str": "00:51.907",
+      "text": "爱你 woo...",
+      "translation": null
+    },
+    {
+      "time": 60.336,
+      "time_str": "01:00.336",
+      "text": "潘：",
+      "translation": null
+    },
+    {
+      "time": 60.546,
+      "time_str": "01:00.546",
+      "text": "请你听听我的真心话",
+      "translation": null
+    },
+    {
+      "time": 62.41,
+      "time_str": "01:02.410",
+      "text": "你每天看着我长大",
+      "translation": null
+    },
+    {
+      "time": 63.868,
+      "time_str": "01:03.868",
+      "text": "但你是否了解我内心矛盾的对话",
+      "translation": null
+    },
+    {
+      "time": 66.436,
+      "time_str": "01:06.436",
+      "text": "你板着脸孔不屑的对着我看",
+      "translation": null
+    },
+    {
+      "time": 68.746,
+      "time_str": "01:08.746",
+      "text": "我的视线没有勇气",
+      "translation": null
+    },
+    {
+      "time": 69.976,
+      "time_str": "01:09.976",
+      "text": "只好面对冷冰冰的地板",
+      "translation": null
+    },
+    {
+      "time": 71.775,
+      "time_str": "01:11.775",
+      "text": "这就是你这就是我",
+      "translation": null
+    },
+    {
+      "time": 73.147,
+      "time_str": "01:13.147",
+      "text": "我们之间的互动",
+      "translation": null
+    },
+    {
+      "time": 74.66,
+      "time_str": "01:14.660",
+      "text": "何时开始慢慢加以冷藏加以冷冻",
+      "translation": null
+    },
+    {
+      "time": 77.113,
+      "time_str": "01:17.113",
+      "text": "我好想逃我好想躲进一个洞",
+      "translation": null
+    },
+    {
+      "time": 79.139,
+      "time_str": "01:19.139",
+      "text": "我需要真正了解我的人",
+      "translation": null
+    },
+    {
+      "time": 80.681,
+      "time_str": "01:20.681",
+      "text": "为我进行解救",
+      "translation": null
+    },
+    {
+      "time": 81.729,
+      "time_str": "01:21.729",
+      "text": "这就是我的内心请你仔细的剖 (苏：放弃一点自己)",
+      "translation": null
+    },
+    {
+      "time": 84.452,
+      "time_str": "01:24.452",
+      "text": "我试过好多次的机会想要触碰你手",
+      "translation": null
+    },
+    {
+      "time": 87.355,
+      "time_str": "01:27.355",
+      "text": "课本写说你们应是我最好的朋友 (苏：开始慢慢懂你)",
+      "translation": null
+    },
+    {
+      "time": 90.145,
+      "time_str": "01:30.145",
+      "text": "但是显然不是我叙述我的故事",
+      "translation": null
+    },
+    {
+      "time": 93.029,
+      "time_str": "01:33.029",
+      "text": "苏：",
+      "translation": null
+    },
+    {
+      "time": 93.247,
+      "time_str": "01:33.247",
+      "text": "每次我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 95.586,
+      "time_str": "01:35.586",
+      "text": "我们却更有距离",
+      "translation": null
+    },
+    {
+      "time": 97.87,
+      "time_str": "01:37.870",
+      "text": "是不是都用错言语",
+      "translation": null
+    },
+    {
+      "time": 101.178,
+      "time_str": "01:41.178",
+      "text": "也用错了表情",
+      "translation": null
+    },
+    {
+      "time": 103.969,
+      "time_str": "01:43.969",
+      "text": "其实我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 106.344,
+      "time_str": "01:46.344",
+      "text": "不是为了抓紧你",
+      "translation": null
+    },
+    {
+      "time": 108.758,
+      "time_str": "01:48.758",
+      "text": "我只是怕你会忘记",
+      "translation": null
+    },
+    {
+      "time": 111.795,
+      "time_str": "01:51.795",
+      "text": "有人永远爱着你",
+      "translation": null
+    },
+    {
+      "time": 114.373,
+      "time_str": "01:54.373",
+      "text": "潘：",
+      "translation": null
+    },
+    {
+      "time": 114.53,
+      "time_str": "01:54.530",
+      "text": "In this life our love is in our hearts to see",
+      "translation": null
+    },
+    {
+      "time": 117.087,
+      "time_str": "01:57.087",
+      "text": "Though people change the future's still inside of me",
+      "translation": null
+    },
+    {
+      "time": 119.794,
+      "time_str": "01:59.794",
+      "text": "We must remember that tomorrow  comes after the dark",
+      "translation": null
+    },
+    {
+      "time": 122.454,
+      "time_str": "02:02.454",
+      "text": "But I got something trapped in my heart",
+      "translation": null
+    },
+    {
+      "time": 124.435,
+      "time_str": "02:04.435",
+      "text": "So I got something to say (苏：放弃一点自己)",
+      "translation": null
+    },
+    {
+      "time": 125.628,
+      "time_str": "02:05.628",
+      "text": "In this life our love is in our hearts to see",
+      "translation": null
+    },
+    {
+      "time": 127.741,
+      "time_str": "02:07.741",
+      "text": "Though people change the future's still inside of me",
+      "translation": null
+    },
+    {
+      "time": 130.328,
+      "time_str": "02:10.328",
+      "text": "We must remember that tomorrow comes after the dark (苏：开始慢慢懂你)",
+      "translation": null
+    },
+    {
+      "time": 133.139,
+      "time_str": "02:13.139",
+      "text": "But I got something trapped in my heart",
+      "translation": null
+    },
+    {
+      "time": 135.161,
+      "time_str": "02:15.161",
+      "text": "So I got something to say",
+      "translation": null
+    },
+    {
+      "time": 136.268,
+      "time_str": "02:16.268",
+      "text": "苏：",
+      "translation": null
+    },
+    {
+      "time": 136.415,
+      "time_str": "02:16.415",
+      "text": "每次我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 138.73,
+      "time_str": "02:18.730",
+      "text": "我们却更有距离",
+      "translation": null
+    },
+    {
+      "time": 141.057,
+      "time_str": "02:21.057",
+      "text": "是不是都用错言语",
+      "translation": null
+    },
+    {
+      "time": 144.243,
+      "time_str": "02:24.243",
+      "text": "也用错了表情",
+      "translation": null
+    },
+    {
+      "time": 147.163,
+      "time_str": "02:27.163",
+      "text": "其实我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 149.44,
+      "time_str": "02:29.440",
+      "text": "不是为了抓紧你",
+      "translation": null
+    },
+    {
+      "time": 151.852,
+      "time_str": "02:31.852",
+      "text": "我只是怕你会忘记",
+      "translation": null
+    },
+    {
+      "time": 154.886,
+      "time_str": "02:34.886",
+      "text": "有人永远爱着你",
+      "translation": null
+    },
+    {
+      "time": 159.022,
+      "time_str": "02:39.022",
+      "text": "Whenever you come",
+      "translation": null
+    },
+    {
+      "time": 161.786,
+      "time_str": "02:41.786",
+      "text": "Whatever we talk",
+      "translation": null
+    },
+    {
+      "time": 164.33,
+      "time_str": "02:44.330",
+      "text": "And I'll be right here waiting for you",
+      "translation": null
+    },
+    {
+      "time": 171.213,
+      "time_str": "02:51.213",
+      "text": "潘：",
+      "translation": null
+    },
+    {
+      "time": 171.435,
+      "time_str": "02:51.435",
+      "text": "你曾经说过当我站在十字路口",
+      "translation": null
+    },
+    {
+      "time": 173.709,
+      "time_str": "02:53.709",
+      "text": "只要有你在我不会经历漫长的夜去等待",
+      "translation": null
+    },
+    {
+      "time": 177.052,
+      "time_str": "02:57.052",
+      "text": "现在十字路口只有我独自站",
+      "translation": null
+    },
+    {
+      "time": 179.681,
+      "time_str": "02:59.681",
+      "text": "没有对象寻找答案只好自我反叛",
+      "translation": null
+    },
+    {
+      "time": 182.398,
+      "time_str": "03:02.398",
+      "text": "看我其实没那么好战",
+      "translation": null
+    },
+    {
+      "time": 184.415,
+      "time_str": "03:04.415",
+      "text": "我也希望说话可以婉转不让你心烦",
+      "translation": null
+    },
+    {
+      "time": 187.182,
+      "time_str": "03:07.182",
+      "text": "对你开口好难我想要无话不谈",
+      "translation": null
+    },
+    {
+      "time": 189.865,
+      "time_str": "03:09.865",
+      "text": "我的人生我的个性其实没那么烂",
+      "translation": null
+    },
+    {
+      "time": 192.369,
+      "time_str": "03:12.369",
+      "text": "这就是我的内心请你仔细的剖 (苏：放弃一点自己)",
+      "translation": null
+    },
+    {
+      "time": 194.996,
+      "time_str": "03:14.996",
+      "text": "我好想回到过去看你微笑摸摸我头",
+      "translation": null
+    },
+    {
+      "time": 197.888,
+      "time_str": "03:17.888",
+      "text": "课本写说你们应是我最好的朋友 (苏：开始慢慢懂你)",
+      "translation": null
+    },
+    {
+      "time": 200.636,
+      "time_str": "03:20.636",
+      "text": "如果换个公式我祈祷不同故事",
+      "translation": null
+    },
+    {
+      "time": 203.525,
+      "time_str": "03:23.525",
+      "text": "苏：",
+      "translation": null
+    },
+    {
+      "time": 203.773,
+      "time_str": "03:23.773",
+      "text": "每次我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 206.113,
+      "time_str": "03:26.113",
+      "text": "我们却更有距离",
+      "translation": null
+    },
+    {
+      "time": 208.485,
+      "time_str": "03:28.485",
+      "text": "是不是都用错言语",
+      "translation": null
+    },
+    {
+      "time": 211.718,
+      "time_str": "03:31.718",
+      "text": "也用错了表情",
+      "translation": null
+    },
+    {
+      "time": 214.441,
+      "time_str": "03:34.441",
+      "text": "其实我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 216.85,
+      "time_str": "03:36.850",
+      "text": "不是为了抓紧你",
+      "translation": null
+    },
+    {
+      "time": 219.277,
+      "time_str": "03:39.277",
+      "text": "我只是怕你会忘记",
+      "translation": null
+    },
+    {
+      "time": 222.337,
+      "time_str": "03:42.337",
+      "text": "有人永远爱着你 (永远爱着你)",
+      "translation": null
+    },
+    {
+      "time": 225.34,
+      "time_str": "03:45.340",
+      "text": "每次我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 227.638,
+      "time_str": "03:47.638",
+      "text": "我们却更有距离",
+      "translation": null
+    },
+    {
+      "time": 230.012,
+      "time_str": "03:50.012",
+      "text": "是不是都用错言语",
+      "translation": null
+    },
+    {
+      "time": 233.218,
+      "time_str": "03:53.218",
+      "text": "也用错了表情",
+      "translation": null
+    },
+    {
+      "time": 236.049,
+      "time_str": "03:56.049",
+      "text": "其实我想更懂你",
+      "translation": null
+    },
+    {
+      "time": 238.408,
+      "time_str": "03:58.408",
+      "text": "不是为了抓紧你",
+      "translation": null
+    },
+    {
+      "time": 240.894,
+      "time_str": "04:00.894",
+      "text": "我只是怕你会忘记",
+      "translation": null
+    },
+    {
+      "time": 243.87,
+      "time_str": "04:03.870",
+      "text": "有人永远爱着你",
+      "translation": null
+    },
+    {
+      "time": 245.871,
+      "time_str": "04:05.871",
+      "text": "永远爱着你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我想更懂你 - 潘玮柏,苏芮.lrc"
+}

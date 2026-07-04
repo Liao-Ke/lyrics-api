@@ -1,0 +1,442 @@
+{
+  "title": "洋葱",
+  "title_raw": "洋葱",
+  "version": null,
+  "artist": "杨宗纬",
+  "group_key": "洋葱|杨宗纬",
+  "writers": {
+    "lyricist": "五月天 阿信",
+    "composer": "五月天 阿信",
+    "arranger": "周恒毅"
+  },
+  "lyrics": [
+    {
+      "time": 15.52,
+      "time_str": "00:15.520",
+      "text": "如果你眼神能够为我",
+      "translation": null
+    },
+    {
+      "time": 19.33,
+      "time_str": "00:19.330",
+      "text": "片刻的降临",
+      "translation": null
+    },
+    {
+      "time": 24.69,
+      "time_str": "00:24.690",
+      "text": "如果你能听到",
+      "translation": null
+    },
+    {
+      "time": 26.71,
+      "time_str": "00:26.710",
+      "text": "心碎的声音",
+      "translation": null
+    },
+    {
+      "time": 31.14,
+      "time_str": "00:31.140",
+      "text": "沉默的守护着你",
+      "translation": null
+    },
+    {
+      "time": 34.8,
+      "time_str": "00:34.800",
+      "text": "沉默的等奇迹",
+      "translation": null
+    },
+    {
+      "time": 37.53,
+      "time_str": "00:37.530",
+      "text": "沉默的让自己",
+      "translation": null
+    },
+    {
+      "time": 40.31,
+      "time_str": "00:40.310",
+      "text": "像是空气",
+      "translation": null
+    },
+    {
+      "time": 44.87,
+      "time_str": "00:44.870",
+      "text": "大家都吃着聊着笑着",
+      "translation": null
+    },
+    {
+      "time": 48.54,
+      "time_str": "00:48.540",
+      "text": "今晚多开心",
+      "translation": null
+    },
+    {
+      "time": 54.0,
+      "time_str": "00:54.000",
+      "text": "最角落里的我",
+      "translation": null
+    },
+    {
+      "time": 56.07,
+      "time_str": "00:56.070",
+      "text": "笑得多合群",
+      "translation": null
+    },
+    {
+      "time": 60.53,
+      "time_str": "01:00.530",
+      "text": "盘底的洋葱像我",
+      "translation": null
+    },
+    {
+      "time": 64.2,
+      "time_str": "01:04.200",
+      "text": "永远是调味品",
+      "translation": null
+    },
+    {
+      "time": 66.98,
+      "time_str": "01:06.980",
+      "text": "偷偷的看着你",
+      "translation": null
+    },
+    {
+      "time": 69.94,
+      "time_str": "01:09.940",
+      "text": "偷偷的隐藏着自己",
+      "translation": null
+    },
+    {
+      "time": 75.78,
+      "time_str": "01:15.780",
+      "text": "如果你愿意一层一层",
+      "translation": null
+    },
+    {
+      "time": 79.12,
+      "time_str": "01:19.120",
+      "text": "一层地剥开我的心",
+      "translation": null
+    },
+    {
+      "time": 83.16,
+      "time_str": "01:23.160",
+      "text": "你会发现",
+      "translation": null
+    },
+    {
+      "time": 85.0,
+      "time_str": "01:25.000",
+      "text": "你会讶异",
+      "translation": null
+    },
+    {
+      "time": 86.76,
+      "time_str": "01:26.760",
+      "text": "你是我",
+      "translation": null
+    },
+    {
+      "time": 87.47,
+      "time_str": "01:27.470",
+      "text": "最压抑",
+      "translation": null
+    },
+    {
+      "time": 88.36,
+      "time_str": "01:28.360",
+      "text": "最深处的秘密",
+      "translation": null
+    },
+    {
+      "time": 90.63,
+      "time_str": "01:30.630",
+      "text": "如果你愿意一层一层",
+      "translation": null
+    },
+    {
+      "time": 93.82,
+      "time_str": "01:33.820",
+      "text": "一层地剥开我的心",
+      "translation": null
+    },
+    {
+      "time": 97.8,
+      "time_str": "01:37.800",
+      "text": "你会鼻酸",
+      "translation": null
+    },
+    {
+      "time": 99.73,
+      "time_str": "01:39.730",
+      "text": "你会流泪",
+      "translation": null
+    },
+    {
+      "time": 101.61,
+      "time_str": "01:41.610",
+      "text": "只要你能",
+      "translation": null
+    },
+    {
+      "time": 102.7,
+      "time_str": "01:42.700",
+      "text": "听到我",
+      "translation": null
+    },
+    {
+      "time": 103.59,
+      "time_str": "01:43.590",
+      "text": "看到我的全心全意",
+      "translation": null
+    },
+    {
+      "time": 120.77,
+      "time_str": "02:00.770",
+      "text": "听你说你和你的他们",
+      "translation": null
+    },
+    {
+      "time": 124.44,
+      "time_str": "02:04.440",
+      "text": "暧昧的空气",
+      "translation": null
+    },
+    {
+      "time": 129.85,
+      "time_str": "02:09.850",
+      "text": "我和我的绝望",
+      "translation": null
+    },
+    {
+      "time": 131.82,
+      "time_str": "02:11.820",
+      "text": "装得很风趣",
+      "translation": null
+    },
+    {
+      "time": 136.29,
+      "time_str": "02:16.290",
+      "text": "我就像一颗洋葱",
+      "translation": null
+    },
+    {
+      "time": 139.92,
+      "time_str": "02:19.920",
+      "text": "永远是配角戏",
+      "translation": null
+    },
+    {
+      "time": 142.69,
+      "time_str": "02:22.690",
+      "text": "多希望能与你",
+      "translation": null
+    },
+    {
+      "time": 145.56,
+      "time_str": "02:25.560",
+      "text": "有一秒专属的剧情",
+      "translation": null
+    },
+    {
+      "time": 149.93,
+      "time_str": "02:29.930",
+      "text": "如果你愿意一层一层",
+      "translation": null
+    },
+    {
+      "time": 152.89,
+      "time_str": "02:32.890",
+      "text": "一层地剥开我的心",
+      "translation": null
+    },
+    {
+      "time": 156.93,
+      "time_str": "02:36.930",
+      "text": "你会发现",
+      "translation": null
+    },
+    {
+      "time": 158.77,
+      "time_str": "02:38.770",
+      "text": "你会讶异",
+      "translation": null
+    },
+    {
+      "time": 160.56,
+      "time_str": "02:40.560",
+      "text": "你是我",
+      "translation": null
+    },
+    {
+      "time": 161.31,
+      "time_str": "02:41.310",
+      "text": "最压抑",
+      "translation": null
+    },
+    {
+      "time": 162.21,
+      "time_str": "02:42.210",
+      "text": "最深处的秘密",
+      "translation": null
+    },
+    {
+      "time": 164.47,
+      "time_str": "02:44.470",
+      "text": "如果你愿意一层一层",
+      "translation": null
+    },
+    {
+      "time": 167.67,
+      "time_str": "02:47.670",
+      "text": "一层地剥开我的心",
+      "translation": null
+    },
+    {
+      "time": 171.71,
+      "time_str": "02:51.710",
+      "text": "你会鼻酸",
+      "translation": null
+    },
+    {
+      "time": 173.59,
+      "time_str": "02:53.590",
+      "text": "你会流泪",
+      "translation": null
+    },
+    {
+      "time": 175.43,
+      "time_str": "02:55.430",
+      "text": "只要你能",
+      "translation": null
+    },
+    {
+      "time": 176.42,
+      "time_str": "02:56.420",
+      "text": "听到我",
+      "translation": null
+    },
+    {
+      "time": 177.39,
+      "time_str": "02:57.390",
+      "text": "看到我的全心全意",
+      "translation": null
+    },
+    {
+      "time": 209.05,
+      "time_str": "03:29.050",
+      "text": "如果你愿意一层一层",
+      "translation": null
+    },
+    {
+      "time": 212.29,
+      "time_str": "03:32.290",
+      "text": "一层地剥开我的心",
+      "translation": null
+    },
+    {
+      "time": 216.29,
+      "time_str": "03:36.290",
+      "text": "你会发现",
+      "translation": null
+    },
+    {
+      "time": 218.17,
+      "time_str": "03:38.170",
+      "text": "你会讶异",
+      "translation": null
+    },
+    {
+      "time": 220.06,
+      "time_str": "03:40.060",
+      "text": "你是我",
+      "translation": null
+    },
+    {
+      "time": 220.65,
+      "time_str": "03:40.650",
+      "text": "最压抑",
+      "translation": null
+    },
+    {
+      "time": 221.52,
+      "time_str": "03:41.520",
+      "text": "最深处的秘密",
+      "translation": null
+    },
+    {
+      "time": 223.83,
+      "time_str": "03:43.830",
+      "text": "如果你愿意一层一层",
+      "translation": null
+    },
+    {
+      "time": 227.12,
+      "time_str": "03:47.120",
+      "text": "一层地剥开我的心",
+      "translation": null
+    },
+    {
+      "time": 231.03,
+      "time_str": "03:51.030",
+      "text": "你会鼻酸",
+      "translation": null
+    },
+    {
+      "time": 232.91,
+      "time_str": "03:52.910",
+      "text": "你会流泪",
+      "translation": null
+    },
+    {
+      "time": 234.79,
+      "time_str": "03:54.790",
+      "text": "只要你能",
+      "translation": null
+    },
+    {
+      "time": 235.83,
+      "time_str": "03:55.830",
+      "text": "听到我",
+      "translation": null
+    },
+    {
+      "time": 236.77,
+      "time_str": "03:56.770",
+      "text": "看到我的全心全意",
+      "translation": null
+    },
+    {
+      "time": 241.75,
+      "time_str": "04:01.750",
+      "text": "你会鼻酸",
+      "translation": null
+    },
+    {
+      "time": 243.78,
+      "time_str": "04:03.780",
+      "text": "你会流泪",
+      "translation": null
+    },
+    {
+      "time": 245.71,
+      "time_str": "04:05.710",
+      "text": "只要你能",
+      "translation": null
+    },
+    {
+      "time": 246.79,
+      "time_str": "04:06.790",
+      "text": "听到我",
+      "translation": null
+    },
+    {
+      "time": 247.92,
+      "time_str": "04:07.920",
+      "text": "看到我的全心全意",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "洋葱 - 杨宗纬.lrc"
+}

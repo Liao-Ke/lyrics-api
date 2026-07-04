@@ -1,0 +1,262 @@
+{
+  "title": "Please Don't Go",
+  "title_raw": "Please Don't Go",
+  "version": null,
+  "artist": "Joel Adams",
+  "group_key": "please don't go|joel adams",
+  "writers": {
+    "lyricist": "Joel Vasco Goncalves",
+    "composer": "Joel Vasco Goncalves",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.5,
+      "time_str": "00:24.500",
+      "text": "Nobody ever knows",
+      "translation": "谁也不知道"
+    },
+    {
+      "time": 27.2,
+      "time_str": "00:27.200",
+      "text": "Nobody ever sees",
+      "translation": "谁也没见到"
+    },
+    {
+      "time": 30.03,
+      "time_str": "00:30.030",
+      "text": "I left my soul",
+      "translation": "我丢弃了自己的灵魂"
+    },
+    {
+      "time": 32.72,
+      "time_str": "00:32.720",
+      "text": "Back then, now I'm too weak",
+      "translation": "那时不是我太软弱"
+    },
+    {
+      "time": 35.51,
+      "time_str": "00:35.510",
+      "text": "Most nights I pray for you to come home",
+      "translation": "多少夜晚我祈祷你回家"
+    },
+    {
+      "time": 41.46,
+      "time_str": "00:41.460",
+      "text": "Praying to the lord",
+      "translation": "向上帝祈祷"
+    },
+    {
+      "time": 44.5,
+      "time_str": "00:44.500",
+      "text": "Praying for my soul",
+      "translation": "为我灵魂祈祷"
+    },
+    {
+      "time": 46.44,
+      "time_str": "00:46.440",
+      "text": "Now please don't go",
+      "translation": "现在请别走"
+    },
+    {
+      "time": 52.52,
+      "time_str": "00:52.520",
+      "text": "Most nights I hardly sleep when I'm alone",
+      "translation": "多少夜晚我独自辗转难眠"
+    },
+    {
+      "time": 57.71,
+      "time_str": "00:57.710",
+      "text": "Now please don't go, oh no",
+      "translation": "现在请别走，哦不"
+    },
+    {
+      "time": 63.649,
+      "time_str": "01:03.649",
+      "text": "I think of you whenever I'm alone",
+      "translation": "每当我孤身一人我就想起你"
+    },
+    {
+      "time": 67.98,
+      "time_str": "01:07.980",
+      "text": "So please don't go",
+      "translation": "所以请别走"
+    },
+    {
+      "time": 80.92,
+      "time_str": "01:20.920",
+      "text": "'Cause I don't ever wanna know",
+      "translation": "因为我不想知道"
+    },
+    {
+      "time": 84.379,
+      "time_str": "01:24.379",
+      "text": "Don't ever want to see things change",
+      "translation": "不想再见到任何改变"
+    },
+    {
+      "time": 87.099,
+      "time_str": "01:27.099",
+      "text": "'Cause when I'm living on my own",
+      "translation": "因为当我独自活"
+    },
+    {
+      "time": 89.81,
+      "time_str": "01:29.810",
+      "text": "I want to take it back and start again",
+      "translation": "我想带回它从头来过"
+    },
+    {
+      "time": 92.64,
+      "time_str": "01:32.640",
+      "text": "Most nights I pray for you to come home",
+      "translation": "多少夜晚我祈祷你回家"
+    },
+    {
+      "time": 98.7,
+      "time_str": "01:38.700",
+      "text": "I'm praying to the lord",
+      "translation": "我向上帝祈祷"
+    },
+    {
+      "time": 101.56,
+      "time_str": "01:41.560",
+      "text": "Praying for my soul",
+      "translation": "我为我灵魂祈祷"
+    },
+    {
+      "time": 104.78,
+      "time_str": "01:44.780",
+      "text": "Now please don't go",
+      "translation": "现在请别走"
+    },
+    {
+      "time": 111.409,
+      "time_str": "01:51.409",
+      "text": "Most nights I hardly sleep",
+      "translation": "多少夜晚我辗转难眠"
+    },
+    {
+      "time": 113.75,
+      "time_str": "01:53.750",
+      "text": "When I'm alone",
+      "translation": "当我孤身一人"
+    },
+    {
+      "time": 116.28,
+      "time_str": "01:56.280",
+      "text": "Now please don't go, oh no",
+      "translation": "现在请别走，哦不"
+    },
+    {
+      "time": 122.4,
+      "time_str": "02:02.400",
+      "text": "I think of you whenever I'm alone",
+      "translation": "每每孤身一人我总想起你"
+    },
+    {
+      "time": 126.269,
+      "time_str": "02:06.269",
+      "text": "So please don't go",
+      "translation": "所以请别走"
+    },
+    {
+      "time": 130.53,
+      "time_str": "02:10.530",
+      "text": "I sent so many messages",
+      "translation": "我发了如此多短信"
+    },
+    {
+      "time": 132.659,
+      "time_str": "02:12.659",
+      "text": "You don't reply",
+      "translation": "你却都不回"
+    },
+    {
+      "time": 135.629,
+      "time_str": "02:15.629",
+      "text": "Gotta feel around, what am I missing baby?",
+      "translation": "必须摸索吗，我想念的女孩"
+    },
+    {
+      "time": 138.81,
+      "time_str": "02:18.810",
+      "text": "Singing now, oh oh oh",
+      "translation": "现在唱吧，哦哦哦"
+    },
+    {
+      "time": 141.979,
+      "time_str": "02:21.979",
+      "text": "I need you now, I need your love, oh",
+      "translation": "我现在需要你，我要你的爱，哦"
+    },
+    {
+      "time": 152.089,
+      "time_str": "02:32.089",
+      "text": "Now please don't go",
+      "translation": "现在请别走"
+    },
+    {
+      "time": 157.69,
+      "time_str": "02:37.690",
+      "text": "I said most nights I hardly sleep",
+      "translation": "我说过多少夜晚我辗转难眠"
+    },
+    {
+      "time": 160.869,
+      "time_str": "02:40.869",
+      "text": "When I'm alone",
+      "translation": "当我孤身一人"
+    },
+    {
+      "time": 163.419,
+      "time_str": "02:43.419",
+      "text": "Now please don't go, oh no",
+      "translation": "现在请别走，哦不"
+    },
+    {
+      "time": 169.319,
+      "time_str": "02:49.319",
+      "text": "I think of you whenever I'm alone",
+      "translation": "每每孤身一人我总想起你"
+    },
+    {
+      "time": 173.509,
+      "time_str": "02:53.509",
+      "text": "So please don't go",
+      "translation": "所以请别走"
+    },
+    {
+      "time": 175.299,
+      "time_str": "02:55.299",
+      "text": "So please don't go",
+      "translation": "所以请别走"
+    },
+    {
+      "time": 179.31,
+      "time_str": "02:59.310",
+      "text": "So please don't go",
+      "translation": "所以请别走"
+    },
+    {
+      "time": 186.669,
+      "time_str": "03:06.669",
+      "text": "So please don't go",
+      "translation": "所以请别走"
+    },
+    {
+      "time": 192.259,
+      "time_str": "03:12.259",
+      "text": "I think of you whenever I'm alone",
+      "translation": "每每孤身一人我总想起你"
+    },
+    {
+      "time": 196.379,
+      "time_str": "03:16.379",
+      "text": "So please don't go",
+      "translation": "所以请别走"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Please Don't Go - Joel Adams.lrc"
+}

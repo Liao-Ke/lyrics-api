@@ -1,0 +1,286 @@
+{
+  "title": "会呼吸的痛",
+  "title_raw": "会呼吸的痛（Cover 梁静茹）",
+  "version": "Cover 梁静茹",
+  "artist": "周峰松Simon",
+  "group_key": "会呼吸的痛|周峰松simon",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "宇恒",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.94,
+      "time_str": "00:00.940",
+      "text": "梁静茹 - 会呼吸的痛",
+      "translation": null
+    },
+    {
+      "time": 18.76,
+      "time_str": "00:18.760",
+      "text": "在东京铁塔　第一次眺望",
+      "translation": null
+    },
+    {
+      "time": 27.5,
+      "time_str": "00:27.500",
+      "text": "看灯火模仿　坠落的星光",
+      "translation": null
+    },
+    {
+      "time": 35.54,
+      "time_str": "00:35.540",
+      "text": "我终於到达　但却更悲伤",
+      "translation": null
+    },
+    {
+      "time": 43.41,
+      "time_str": "00:43.410",
+      "text": "一个人完成　我们的梦想",
+      "translation": null
+    },
+    {
+      "time": 52.04,
+      "time_str": "00:52.040",
+      "text": "你总说　时间还很多",
+      "translation": null
+    },
+    {
+      "time": 57.3,
+      "time_str": "00:57.300",
+      "text": "你可以等我",
+      "translation": null
+    },
+    {
+      "time": 60.61,
+      "time_str": "01:00.610",
+      "text": "以前我不懂得",
+      "translation": null
+    },
+    {
+      "time": 63.85,
+      "time_str": "01:03.850",
+      "text": "未必明天　就有以后",
+      "translation": null
+    },
+    {
+      "time": 69.0,
+      "time_str": "01:09.000",
+      "text": "想念是会呼吸的痛",
+      "translation": null
+    },
+    {
+      "time": 73.12,
+      "time_str": "01:13.120",
+      "text": "它活在我身上所有角落",
+      "translation": null
+    },
+    {
+      "time": 77.48,
+      "time_str": "01:17.480",
+      "text": "哼你爱的歌会痛",
+      "translation": null
+    },
+    {
+      "time": 80.26,
+      "time_str": "01:20.260",
+      "text": "看你的信会痛　连沉默也痛",
+      "translation": null
+    },
+    {
+      "time": 86.35,
+      "time_str": "01:26.350",
+      "text": "遗憾是会呼吸的痛",
+      "translation": null
+    },
+    {
+      "time": 90.24,
+      "time_str": "01:30.240",
+      "text": "它流在血液中来回滚动",
+      "translation": null
+    },
+    {
+      "time": 94.18,
+      "time_str": "01:34.180",
+      "text": "后悔不贴心会痛",
+      "translation": null
+    },
+    {
+      "time": 97.41,
+      "time_str": "01:37.410",
+      "text": "恨不懂你会痛",
+      "translation": null
+    },
+    {
+      "time": 99.5,
+      "time_str": "01:39.500",
+      "text": "想见不能见最痛",
+      "translation": null
+    },
+    {
+      "time": 114.67,
+      "time_str": "01:54.670",
+      "text": "梁静茹 - 会呼吸的痛",
+      "translation": null
+    },
+    {
+      "time": 124.37,
+      "time_str": "02:04.370",
+      "text": "没看你脸上　张扬过哀伤",
+      "translation": null
+    },
+    {
+      "time": 131.62,
+      "time_str": "02:11.620",
+      "text": "那是种多么　寂寞的倔强",
+      "translation": null
+    },
+    {
+      "time": 139.57,
+      "time_str": "02:19.570",
+      "text": "你拆了城墙　让我去流浪",
+      "translation": null
+    },
+    {
+      "time": 148.05,
+      "time_str": "02:28.050",
+      "text": "在原地等我　把自己捆绑",
+      "translation": null
+    },
+    {
+      "time": 157.04,
+      "time_str": "02:37.040",
+      "text": "你没说　你也会软弱",
+      "translation": null
+    },
+    {
+      "time": 161.87,
+      "time_str": "02:41.870",
+      "text": "需要依赖我",
+      "translation": null
+    },
+    {
+      "time": 165.69,
+      "time_str": "02:45.690",
+      "text": "我就装不晓得",
+      "translation": null
+    },
+    {
+      "time": 168.62,
+      "time_str": "02:48.620",
+      "text": "自由移动　自我地过",
+      "translation": null
+    },
+    {
+      "time": 174.1,
+      "time_str": "02:54.100",
+      "text": "想念是会呼吸的痛",
+      "translation": null
+    },
+    {
+      "time": 178.19,
+      "time_str": "02:58.190",
+      "text": "它活在我身上所有角落",
+      "translation": null
+    },
+    {
+      "time": 182.23,
+      "time_str": "03:02.230",
+      "text": "哼你爱的歌会痛",
+      "translation": null
+    },
+    {
+      "time": 185.14,
+      "time_str": "03:05.140",
+      "text": "看你的信会痛　连沉默也痛",
+      "translation": null
+    },
+    {
+      "time": 191.36,
+      "time_str": "03:11.360",
+      "text": "遗憾是会呼吸的痛",
+      "translation": null
+    },
+    {
+      "time": 195.25,
+      "time_str": "03:15.250",
+      "text": "它流在血液中来回滚动",
+      "translation": null
+    },
+    {
+      "time": 199.39,
+      "time_str": "03:19.390",
+      "text": "后悔不贴心会痛",
+      "translation": null
+    },
+    {
+      "time": 202.14,
+      "time_str": "03:22.140",
+      "text": "恨不懂你会痛",
+      "translation": null
+    },
+    {
+      "time": 204.3,
+      "time_str": "03:24.300",
+      "text": "想见不能见最痛",
+      "translation": null
+    },
+    {
+      "time": 212.13,
+      "time_str": "03:32.130",
+      "text": "我发誓不再说谎了",
+      "translation": null
+    },
+    {
+      "time": 216.72,
+      "time_str": "03:36.720",
+      "text": "多爱你就会抱你多紧的",
+      "translation": null
+    },
+    {
+      "time": 220.74,
+      "time_str": "03:40.740",
+      "text": "我的微笑都假了",
+      "translation": null
+    },
+    {
+      "time": 223.87,
+      "time_str": "03:43.870",
+      "text": "灵魂像飘浮着　你在就好了",
+      "translation": null
+    },
+    {
+      "time": 229.87,
+      "time_str": "03:49.870",
+      "text": "我发誓不让你等候",
+      "translation": null
+    },
+    {
+      "time": 233.75,
+      "time_str": "03:53.750",
+      "text": "陪你做想做的无论什么",
+      "translation": null
+    },
+    {
+      "time": 238.01,
+      "time_str": "03:58.010",
+      "text": "我越来越像贝壳",
+      "translation": null
+    },
+    {
+      "time": 240.93,
+      "time_str": "04:00.930",
+      "text": "怕心被人触碰　你回来那就好了",
+      "translation": null
+    },
+    {
+      "time": 252.19,
+      "time_str": "04:12.190",
+      "text": "能重来那就好了",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "会呼吸的痛（Cover 梁静茹） - 周峰松Simon.lrc"
+}

@@ -1,0 +1,256 @@
+{
+  "title": "彩云之南",
+  "title_raw": "彩云之南",
+  "version": null,
+  "artist": "徐千雅",
+  "group_key": "彩云之南|徐千雅",
+  "writers": {
+    "lyricist": "何沐阳",
+    "composer": "何沐阳",
+    "arranger": "张楚弦"
+  },
+  "lyrics": [
+    {
+      "time": 27.83,
+      "time_str": "00:27.830",
+      "text": "彩云之南 我心的方向",
+      "translation": null
+    },
+    {
+      "time": 33.47,
+      "time_str": "00:33.470",
+      "text": "孔雀飞去 回忆悠长",
+      "translation": null
+    },
+    {
+      "time": 39.31,
+      "time_str": "00:39.310",
+      "text": "玉龙雪山 闪耀着银光",
+      "translation": null
+    },
+    {
+      "time": 45.44,
+      "time_str": "00:45.440",
+      "text": "秀色丽江 人在路上",
+      "translation": null
+    },
+    {
+      "time": 50.77,
+      "time_str": "00:50.770",
+      "text": "彩云之南 归去的地方",
+      "translation": null
+    },
+    {
+      "time": 56.45,
+      "time_str": "00:56.450",
+      "text": "往事芬芳 随风飘扬",
+      "translation": null
+    },
+    {
+      "time": 62.24,
+      "time_str": "01:02.240",
+      "text": "蝴蝶泉边 歌声在流淌",
+      "translation": null
+    },
+    {
+      "time": 68.3,
+      "time_str": "01:08.300",
+      "text": "泸沽湖畔 心仍荡漾",
+      "translation": null
+    },
+    {
+      "time": 73.93,
+      "time_str": "01:13.930",
+      "text": "记得那时那里的天多湛蓝",
+      "translation": null
+    },
+    {
+      "time": 77.389,
+      "time_str": "01:17.389",
+      "text": "你的眼里闪着温柔的阳光",
+      "translation": null
+    },
+    {
+      "time": 80.24,
+      "time_str": "01:20.240",
+      "text": "这世界变幻无常 如今你又在何方",
+      "translation": null
+    },
+    {
+      "time": 85.93,
+      "time_str": "01:25.930",
+      "text": "原谅我无法陪你走那么长",
+      "translation": null
+    },
+    {
+      "time": 88.48,
+      "time_str": "01:28.480",
+      "text": "别人的天堂不是我们的远方",
+      "translation": null
+    },
+    {
+      "time": 92.1,
+      "time_str": "01:32.100",
+      "text": "不虚此行别遗憾",
+      "translation": null
+    },
+    {
+      "time": 102.74,
+      "time_str": "01:42.740",
+      "text": "彩云之南 我心的方向",
+      "translation": null
+    },
+    {
+      "time": 108.12,
+      "time_str": "01:48.120",
+      "text": "孔雀飞去 回忆悠长",
+      "translation": null
+    },
+    {
+      "time": 113.85,
+      "time_str": "01:53.850",
+      "text": "玉龙雪山 闪耀着银光",
+      "translation": null
+    },
+    {
+      "time": 120.1,
+      "time_str": "02:00.100",
+      "text": "秀色丽江 人在路上",
+      "translation": null
+    },
+    {
+      "time": 125.3,
+      "time_str": "02:05.300",
+      "text": "彩云之南 归去的地方",
+      "translation": null
+    },
+    {
+      "time": 131.069,
+      "time_str": "02:11.069",
+      "text": "往事芬芳 随风飘扬",
+      "translation": null
+    },
+    {
+      "time": 136.74,
+      "time_str": "02:16.740",
+      "text": "蝴蝶泉边 歌声在流淌",
+      "translation": null
+    },
+    {
+      "time": 142.89,
+      "time_str": "02:22.890",
+      "text": "泸沽湖畔 心仍荡漾",
+      "translation": null
+    },
+    {
+      "time": 149.37,
+      "time_str": "02:29.370",
+      "text": "记得那时那里的天多湛蓝",
+      "translation": null
+    },
+    {
+      "time": 152.7,
+      "time_str": "02:32.700",
+      "text": "你的眼里闪着温柔的阳光",
+      "translation": null
+    },
+    {
+      "time": 155.42,
+      "time_str": "02:35.420",
+      "text": "这世界变幻无常 如今你又在何方",
+      "translation": null
+    },
+    {
+      "time": 161.15,
+      "time_str": "02:41.150",
+      "text": "原谅我无法陪你走那么长",
+      "translation": null
+    },
+    {
+      "time": 163.4,
+      "time_str": "02:43.400",
+      "text": "别人的天堂不是我们的远方",
+      "translation": null
+    },
+    {
+      "time": 167.2,
+      "time_str": "02:47.200",
+      "text": "不虚此行别遗憾",
+      "translation": null
+    },
+    {
+      "time": 184.85,
+      "time_str": "03:04.850",
+      "text": "记得那时那里的天多湛蓝",
+      "translation": null
+    },
+    {
+      "time": 187.48,
+      "time_str": "03:07.480",
+      "text": "你的眼里闪着温柔的阳光",
+      "translation": null
+    },
+    {
+      "time": 190.34,
+      "time_str": "03:10.340",
+      "text": "这世界变幻无常 如今你又在何方",
+      "translation": null
+    },
+    {
+      "time": 196.02,
+      "time_str": "03:16.020",
+      "text": "原谅我无法陪你走那么长",
+      "translation": null
+    },
+    {
+      "time": 198.929,
+      "time_str": "03:18.929",
+      "text": "别人的天堂不是我们的远方",
+      "translation": null
+    },
+    {
+      "time": 201.78,
+      "time_str": "03:21.780",
+      "text": "不虚此行别遗憾",
+      "translation": null
+    },
+    {
+      "time": 207.81,
+      "time_str": "03:27.810",
+      "text": "记得那时那里的天多湛蓝",
+      "translation": null
+    },
+    {
+      "time": 210.35,
+      "time_str": "03:30.350",
+      "text": "你的眼里闪着温柔的阳光",
+      "translation": null
+    },
+    {
+      "time": 213.21,
+      "time_str": "03:33.210",
+      "text": "这世界变幻无常 如今你又在何方",
+      "translation": null
+    },
+    {
+      "time": 219.2,
+      "time_str": "03:39.200",
+      "text": "原谅我无法陪你走那么长",
+      "translation": null
+    },
+    {
+      "time": 221.76,
+      "time_str": "03:41.760",
+      "text": "别人的天堂不是我们的远方",
+      "translation": null
+    },
+    {
+      "time": 224.5,
+      "time_str": "03:44.500",
+      "text": "不虚此行别遗憾",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "彩云之南 - 徐千雅.lrc"
+}

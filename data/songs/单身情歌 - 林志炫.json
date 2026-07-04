@@ -1,0 +1,358 @@
+{
+  "title": "单身情歌",
+  "title_raw": "单身情歌",
+  "version": null,
+  "artist": "林志炫",
+  "group_key": "单身情歌|林志炫",
+  "writers": {
+    "lyricist": "易家扬",
+    "composer": "陈耀川",
+    "arranger": "韩贤光"
+  },
+  "lyrics": [
+    {
+      "time": 16.925,
+      "time_str": "00:16.925",
+      "text": "抓不住爱情的我",
+      "translation": null
+    },
+    {
+      "time": 20.143,
+      "time_str": "00:20.143",
+      "text": "总是眼睁睁看它溜走",
+      "translation": null
+    },
+    {
+      "time": 24.66,
+      "time_str": "00:24.660",
+      "text": "世界上幸福的人到处有",
+      "translation": null
+    },
+    {
+      "time": 28.22,
+      "time_str": "00:28.220",
+      "text": "为何不能算我一个",
+      "translation": null
+    },
+    {
+      "time": 32.426,
+      "time_str": "00:32.426",
+      "text": "为了爱孤军奋斗",
+      "translation": null
+    },
+    {
+      "time": 35.566,
+      "time_str": "00:35.566",
+      "text": "早就吃够了爱情的苦",
+      "translation": null
+    },
+    {
+      "time": 40.17,
+      "time_str": "00:40.170",
+      "text": "在爱中失落的人到处有",
+      "translation": null
+    },
+    {
+      "time": 43.711,
+      "time_str": "00:43.711",
+      "text": "而我只是其中一个",
+      "translation": null
+    },
+    {
+      "time": 47.911,
+      "time_str": "00:47.911",
+      "text": "爱要越挫越勇",
+      "translation": null
+    },
+    {
+      "time": 51.787,
+      "time_str": "00:51.787",
+      "text": "爱要肯定执着",
+      "translation": null
+    },
+    {
+      "time": 55.672,
+      "time_str": "00:55.672",
+      "text": "每一个单身的人得看透",
+      "translation": null
+    },
+    {
+      "time": 59.154,
+      "time_str": "00:59.154",
+      "text": "想爱就别怕伤痛",
+      "translation": null
+    },
+    {
+      "time": 66.255,
+      "time_str": "01:06.255",
+      "text": "找一个最爱的 深爱的",
+      "translation": null
+    },
+    {
+      "time": 69.193,
+      "time_str": "01:09.193",
+      "text": "相爱的 亲爱的人",
+      "translation": null
+    },
+    {
+      "time": 71.77,
+      "time_str": "01:11.770",
+      "text": "来告别单身",
+      "translation": null
+    },
+    {
+      "time": 74.291,
+      "time_str": "01:14.291",
+      "text": "一个多情的 痴情的",
+      "translation": null
+    },
+    {
+      "time": 76.912,
+      "time_str": "01:16.912",
+      "text": "绝情的 无情的人",
+      "translation": null
+    },
+    {
+      "time": 79.481,
+      "time_str": "01:19.481",
+      "text": "来给我伤痕",
+      "translation": null
+    },
+    {
+      "time": 82.716,
+      "time_str": "01:22.716",
+      "text": "孤单的人那么多",
+      "translation": null
+    },
+    {
+      "time": 86.621,
+      "time_str": "01:26.621",
+      "text": "快乐的没有几个",
+      "translation": null
+    },
+    {
+      "time": 89.815,
+      "time_str": "01:29.815",
+      "text": "不要爱过了 错过了",
+      "translation": null
+    },
+    {
+      "time": 92.366,
+      "time_str": "01:32.366",
+      "text": "留下了单身的我",
+      "translation": null
+    },
+    {
+      "time": 94.977,
+      "time_str": "01:34.977",
+      "text": "独自唱情歌",
+      "translation": null
+    },
+    {
+      "time": 113.679,
+      "time_str": "01:53.679",
+      "text": "为了爱孤军奋斗",
+      "translation": null
+    },
+    {
+      "time": 116.886,
+      "time_str": "01:56.886",
+      "text": "早就吃够了爱情的苦",
+      "translation": null
+    },
+    {
+      "time": 121.461,
+      "time_str": "02:01.461",
+      "text": "在爱中失落的人到处有",
+      "translation": null
+    },
+    {
+      "time": 124.961,
+      "time_str": "02:04.961",
+      "text": "而我不是最后一个",
+      "translation": null
+    },
+    {
+      "time": 129.168,
+      "time_str": "02:09.168",
+      "text": "爱要越挫越勇",
+      "translation": null
+    },
+    {
+      "time": 133.046,
+      "time_str": "02:13.046",
+      "text": "爱要肯定执着",
+      "translation": null
+    },
+    {
+      "time": 136.902,
+      "time_str": "02:16.902",
+      "text": "每一个单身的人得看透",
+      "translation": null
+    },
+    {
+      "time": 140.443,
+      "time_str": "02:20.443",
+      "text": "想爱就别怕伤痛",
+      "translation": null
+    },
+    {
+      "time": 147.514,
+      "time_str": "02:27.514",
+      "text": "找一个最爱的 深爱的",
+      "translation": null
+    },
+    {
+      "time": 150.431,
+      "time_str": "02:30.431",
+      "text": "相爱的 亲爱的人",
+      "translation": null
+    },
+    {
+      "time": 152.984,
+      "time_str": "02:32.984",
+      "text": "来告别单身",
+      "translation": null
+    },
+    {
+      "time": 155.596,
+      "time_str": "02:35.596",
+      "text": "一个多情的 痴情的",
+      "translation": null
+    },
+    {
+      "time": 158.131,
+      "time_str": "02:38.131",
+      "text": "绝情的 无情的人",
+      "translation": null
+    },
+    {
+      "time": 160.703,
+      "time_str": "02:40.703",
+      "text": "来给我伤痕",
+      "translation": null
+    },
+    {
+      "time": 164.014,
+      "time_str": "02:44.014",
+      "text": "孤单的人那么多",
+      "translation": null
+    },
+    {
+      "time": 167.827,
+      "time_str": "02:47.827",
+      "text": "快乐的没有几个",
+      "translation": null
+    },
+    {
+      "time": 171.026,
+      "time_str": "02:51.026",
+      "text": "不要爱过了 错过了",
+      "translation": null
+    },
+    {
+      "time": 173.663,
+      "time_str": "02:53.663",
+      "text": "留下了单身的我",
+      "translation": null
+    },
+    {
+      "time": 176.264,
+      "time_str": "02:56.264",
+      "text": "独自唱情歌",
+      "translation": null
+    },
+    {
+      "time": 207.502,
+      "time_str": "03:27.502",
+      "text": "找一个最爱的 深爱的",
+      "translation": null
+    },
+    {
+      "time": 210.368,
+      "time_str": "03:30.368",
+      "text": "相爱的 亲爱的人",
+      "translation": null
+    },
+    {
+      "time": 212.992,
+      "time_str": "03:32.992",
+      "text": "来告别单身",
+      "translation": null
+    },
+    {
+      "time": 215.568,
+      "time_str": "03:35.568",
+      "text": "一个多情的 痴情的",
+      "translation": null
+    },
+    {
+      "time": 218.126,
+      "time_str": "03:38.126",
+      "text": "绝情的 无情的人",
+      "translation": null
+    },
+    {
+      "time": 220.708,
+      "time_str": "03:40.708",
+      "text": "来给我伤痕",
+      "translation": null
+    },
+    {
+      "time": 223.95,
+      "time_str": "03:43.950",
+      "text": "伤心的人那么多",
+      "translation": null
+    },
+    {
+      "time": 227.846,
+      "time_str": "03:47.846",
+      "text": "我应该勇敢地过",
+      "translation": null
+    },
+    {
+      "time": 231.039,
+      "time_str": "03:51.039",
+      "text": "不要爱过了 错过了",
+      "translation": null
+    },
+    {
+      "time": 233.637,
+      "time_str": "03:53.637",
+      "text": "留下了单身的我",
+      "translation": null
+    },
+    {
+      "time": 236.194,
+      "time_str": "03:56.194",
+      "text": "独自唱情歌",
+      "translation": null
+    },
+    {
+      "time": 238.761,
+      "time_str": "03:58.761",
+      "text": "这首真心的 痴心的",
+      "translation": null
+    },
+    {
+      "time": 241.357,
+      "time_str": "04:01.357",
+      "text": "伤心的单身情歌",
+      "translation": null
+    },
+    {
+      "time": 243.956,
+      "time_str": "04:03.956",
+      "text": "谁与我来和",
+      "translation": null
+    },
+    {
+      "time": 250.414,
+      "time_str": "04:10.414",
+      "text": "喔~",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "单身情歌 - 林志炫.lrc"
+}

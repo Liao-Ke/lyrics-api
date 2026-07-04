@@ -1,0 +1,256 @@
+{
+  "title": "让一切随风",
+  "title_raw": "让一切随风",
+  "version": null,
+  "artist": "陈慧娴",
+  "group_key": "让一切随风|陈慧娴",
+  "writers": {
+    "lyricist": "黄霑",
+    "composer": "大野克夫",
+    "arranger": "张兆鸿"
+  },
+  "lyrics": [
+    {
+      "time": 29.08,
+      "time_str": "00:29.080",
+      "text": "风中风中 心里冷风",
+      "translation": null
+    },
+    {
+      "time": 32.65,
+      "time_str": "00:32.650",
+      "text": "吹失了梦",
+      "translation": null
+    },
+    {
+      "time": 36.08,
+      "time_str": "00:36.080",
+      "text": "事未过去 就已失踪",
+      "translation": null
+    },
+    {
+      "time": 39.87,
+      "time_str": "00:39.870",
+      "text": "此刻有种种心痛",
+      "translation": null
+    },
+    {
+      "time": 43.42,
+      "time_str": "00:43.420",
+      "text": "心中心中 一切似空",
+      "translation": null
+    },
+    {
+      "time": 47.28,
+      "time_str": "00:47.280",
+      "text": "天黑天光都似梦",
+      "translation": null
+    },
+    {
+      "time": 50.62,
+      "time_str": "00:50.620",
+      "text": "迷迷惘惘 聚满心中",
+      "translation": null
+    },
+    {
+      "time": 54.17,
+      "time_str": "00:54.170",
+      "text": "追踪一片冷的风",
+      "translation": null
+    },
+    {
+      "time": 57.65,
+      "time_str": "00:57.650",
+      "text": "各种空虚 冷冷冷",
+      "translation": null
+    },
+    {
+      "time": 62.11,
+      "time_str": "01:02.110",
+      "text": "吹起吹起风里梦",
+      "translation": null
+    },
+    {
+      "time": 65.25,
+      "time_str": "01:05.250",
+      "text": "过去的心 火般灼热",
+      "translation": null
+    },
+    {
+      "time": 69.0,
+      "time_str": "01:09.000",
+      "text": "今天已变了冰冻",
+      "translation": null
+    },
+    {
+      "time": 72.07,
+      "time_str": "01:12.070",
+      "text": "记忆中 突然又痛",
+      "translation": null
+    },
+    {
+      "time": 76.46,
+      "time_str": "01:16.460",
+      "text": "只因空虚再作弄",
+      "translation": null
+    },
+    {
+      "time": 79.7,
+      "time_str": "01:19.700",
+      "text": "你似北风 吹走我梦",
+      "translation": null
+    },
+    {
+      "time": 83.99,
+      "time_str": "01:23.990",
+      "text": "就让一切随风",
+      "translation": null
+    },
+    {
+      "time": 101.68,
+      "time_str": "01:41.680",
+      "text": "风中风中 心里冷风",
+      "translation": null
+    },
+    {
+      "time": 105.43,
+      "time_str": "01:45.430",
+      "text": "吹失了梦",
+      "translation": null
+    },
+    {
+      "time": 108.79,
+      "time_str": "01:48.790",
+      "text": "事未过去 就已失踪",
+      "translation": null
+    },
+    {
+      "time": 112.54,
+      "time_str": "01:52.540",
+      "text": "此刻有种种心痛",
+      "translation": null
+    },
+    {
+      "time": 116.18,
+      "time_str": "01:56.180",
+      "text": "心中心中 一切似空",
+      "translation": null
+    },
+    {
+      "time": 120.07,
+      "time_str": "02:00.070",
+      "text": "天黑天光都似梦",
+      "translation": null
+    },
+    {
+      "time": 123.39,
+      "time_str": "02:03.390",
+      "text": "迷迷惘惘 聚满心中",
+      "translation": null
+    },
+    {
+      "time": 127.0,
+      "time_str": "02:07.000",
+      "text": "追踪一片冷的风",
+      "translation": null
+    },
+    {
+      "time": 130.41,
+      "time_str": "02:10.410",
+      "text": "各种空虚 冷冷冷",
+      "translation": null
+    },
+    {
+      "time": 134.94,
+      "time_str": "02:14.940",
+      "text": "吹起吹起风里梦",
+      "translation": null
+    },
+    {
+      "time": 137.77,
+      "time_str": "02:17.770",
+      "text": "过去的心 火般灼热",
+      "translation": null
+    },
+    {
+      "time": 141.92,
+      "time_str": "02:21.920",
+      "text": "今天已变了冰冻",
+      "translation": null
+    },
+    {
+      "time": 144.71,
+      "time_str": "02:24.710",
+      "text": "记忆中 突然又痛",
+      "translation": null
+    },
+    {
+      "time": 149.14,
+      "time_str": "02:29.140",
+      "text": "只因空虚再作弄",
+      "translation": null
+    },
+    {
+      "time": 152.43,
+      "time_str": "02:32.430",
+      "text": "你似北风 吹走我梦",
+      "translation": null
+    },
+    {
+      "time": 156.79,
+      "time_str": "02:36.790",
+      "text": "就让一切随风",
+      "translation": null
+    },
+    {
+      "time": 188.84,
+      "time_str": "03:08.840",
+      "text": "各种空虚 冷冷冷",
+      "translation": null
+    },
+    {
+      "time": 192.93,
+      "time_str": "03:12.930",
+      "text": "吹起吹起风里梦",
+      "translation": null
+    },
+    {
+      "time": 196.0,
+      "time_str": "03:16.000",
+      "text": "过去的心 火般灼热",
+      "translation": null
+    },
+    {
+      "time": 199.92,
+      "time_str": "03:19.920",
+      "text": "今天已变了冰冻",
+      "translation": null
+    },
+    {
+      "time": 203.12,
+      "time_str": "03:23.120",
+      "text": "记忆中 突然又痛",
+      "translation": null
+    },
+    {
+      "time": 207.15,
+      "time_str": "03:27.150",
+      "text": "只因空虚再作弄",
+      "translation": null
+    },
+    {
+      "time": 210.54,
+      "time_str": "03:30.540",
+      "text": "你似北风 吹走我梦",
+      "translation": null
+    },
+    {
+      "time": 214.98,
+      "time_str": "03:34.980",
+      "text": "就让一切随风",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "让一切随风 - 陈慧娴.lrc"
+}

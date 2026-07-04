@@ -1,0 +1,196 @@
+{
+  "title": "小酒窝",
+  "title_raw": "小酒窝",
+  "version": null,
+  "artist": "林俊杰,蔡卓妍",
+  "group_key": "小酒窝|林俊杰,蔡卓妍",
+  "writers": {
+    "lyricist": "王雅君",
+    "composer": "林俊杰",
+    "arranger": "林俊杰/吴剑泓"
+  },
+  "lyrics": [
+    {
+      "time": 1.21,
+      "time_str": "00:01.210",
+      "text": "小酒窝 - 林俊杰&蔡卓妍",
+      "translation": null
+    },
+    {
+      "time": 10.12,
+      "time_str": "00:10.120",
+      "text": "我还在寻找一个依靠和一个拥抱",
+      "translation": null
+    },
+    {
+      "time": 20.17,
+      "time_str": "00:20.170",
+      "text": "谁替我祈祷替我烦恼为我生气为我闹",
+      "translation": null
+    },
+    {
+      "time": 30.25,
+      "time_str": "00:30.250",
+      "text": "幸福开始有预兆缘分让我们慢慢紧靠",
+      "translation": null
+    },
+    {
+      "time": 39.76,
+      "time_str": "00:39.760",
+      "text": "然后孤单被吞没了无聊变得有话聊有变化了",
+      "translation": null
+    },
+    {
+      "time": 49.53,
+      "time_str": "00:49.530",
+      "text": "小酒窝长睫毛是你最美的记号",
+      "translation": null
+    },
+    {
+      "time": 54.6,
+      "time_str": "00:54.600",
+      "text": "我每天睡不着想念你的微笑",
+      "translation": null
+    },
+    {
+      "time": 60.56,
+      "time_str": "01:00.560",
+      "text": "你不知道你对我多么重要",
+      "translation": null
+    },
+    {
+      "time": 65.52,
+      "time_str": "01:05.520",
+      "text": "有了你生命完整的刚好",
+      "translation": null
+    },
+    {
+      "time": 69.73,
+      "time_str": "01:09.730",
+      "text": "小酒窝长睫毛迷人的无可救药",
+      "translation": null
+    },
+    {
+      "time": 74.98,
+      "time_str": "01:14.980",
+      "text": "我放慢了步调感觉像是喝醉了",
+      "translation": null
+    },
+    {
+      "time": 80.88,
+      "time_str": "01:20.880",
+      "text": "终于找到心有灵犀的美好",
+      "translation": null
+    },
+    {
+      "time": 85.83,
+      "time_str": "01:25.830",
+      "text": "一辈子暖暖的好",
+      "translation": null
+    },
+    {
+      "time": 90.88,
+      "time_str": "01:30.880",
+      "text": "我永远爱你到老",
+      "translation": null
+    },
+    {
+      "time": 103.59,
+      "time_str": "01:43.590",
+      "text": "幸福开始有预兆缘分让我们慢慢紧靠",
+      "translation": null
+    },
+    {
+      "time": 112.99,
+      "time_str": "01:52.990",
+      "text": "然后孤单被吞没了无聊变得有话聊有变化了",
+      "translation": null
+    },
+    {
+      "time": 122.76,
+      "time_str": "02:02.760",
+      "text": "小酒窝长睫毛是你最美的记号",
+      "translation": null
+    },
+    {
+      "time": 127.91,
+      "time_str": "02:07.910",
+      "text": "我每天睡不着想念你的微笑",
+      "translation": null
+    },
+    {
+      "time": 133.92,
+      "time_str": "02:13.920",
+      "text": "你不知道你对我多么重要",
+      "translation": null
+    },
+    {
+      "time": 138.73,
+      "time_str": "02:18.730",
+      "text": "有了你生命完整的刚好",
+      "translation": null
+    },
+    {
+      "time": 142.96,
+      "time_str": "02:22.960",
+      "text": "小酒窝长睫毛迷人的无可救药",
+      "translation": null
+    },
+    {
+      "time": 148.18,
+      "time_str": "02:28.180",
+      "text": "我放慢了步调感觉像是喝醉了",
+      "translation": null
+    },
+    {
+      "time": 154.1,
+      "time_str": "02:34.100",
+      "text": "终于找到心有灵犀的美好",
+      "translation": null
+    },
+    {
+      "time": 159.1,
+      "time_str": "02:39.100",
+      "text": "一辈子暖暖的好",
+      "translation": null
+    },
+    {
+      "time": 164.21,
+      "time_str": "02:44.210",
+      "text": "我永远爱你到老",
+      "translation": null
+    },
+    {
+      "time": 177.09,
+      "time_str": "02:57.090",
+      "text": "小酒窝长睫毛迷人的无可救药",
+      "translation": null
+    },
+    {
+      "time": 182.23,
+      "time_str": "03:02.230",
+      "text": "我放慢了步调感觉像是喝醉了",
+      "translation": null
+    },
+    {
+      "time": 188.25,
+      "time_str": "03:08.250",
+      "text": "终于找到心有灵犀的美好",
+      "translation": null
+    },
+    {
+      "time": 193.28,
+      "time_str": "03:13.280",
+      "text": "一辈子暖暖的好",
+      "translation": null
+    },
+    {
+      "time": 197.89,
+      "time_str": "03:17.890",
+      "text": "我永远爱你到老",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "小酒窝 - 林俊杰,蔡卓妍.lrc"
+}

@@ -1,0 +1,310 @@
+{
+  "title": "读你",
+  "title_raw": "读你",
+  "version": null,
+  "artist": "蔡琴",
+  "group_key": "读你|蔡琴",
+  "writers": {
+    "lyricist": "梁弘志",
+    "composer": "梁弘志",
+    "arranger": "陈志远"
+  },
+  "lyrics": [
+    {
+      "time": 24.0,
+      "time_str": "00:24.000",
+      "text": "读你千遍也不厌倦，",
+      "translation": null
+    },
+    {
+      "time": 28.0,
+      "time_str": "00:28.000",
+      "text": "读你的感觉像三月，",
+      "translation": null
+    },
+    {
+      "time": 34.0,
+      "time_str": "00:34.000",
+      "text": "浪漫的季节，",
+      "translation": null
+    },
+    {
+      "time": 37.0,
+      "time_str": "00:37.000",
+      "text": "醉人的诗篇，",
+      "translation": null
+    },
+    {
+      "time": 39.0,
+      "time_str": "00:39.000",
+      "text": "唔，",
+      "translation": null
+    },
+    {
+      "time": 43.0,
+      "time_str": "00:43.000",
+      "text": "读你千遍也不厌倦，",
+      "translation": null
+    },
+    {
+      "time": 48.0,
+      "time_str": "00:48.000",
+      "text": "读你的感觉像春天，",
+      "translation": null
+    },
+    {
+      "time": 53.0,
+      "time_str": "00:53.000",
+      "text": "喜悦的经典，",
+      "translation": null
+    },
+    {
+      "time": 56.0,
+      "time_str": "00:56.000",
+      "text": "美丽的句点。",
+      "translation": null
+    },
+    {
+      "time": 58.0,
+      "time_str": "00:58.000",
+      "text": "唔，",
+      "translation": null
+    },
+    {
+      "time": 66.0,
+      "time_str": "01:06.000",
+      "text": "你的眉目之间，",
+      "translation": null
+    },
+    {
+      "time": 68.0,
+      "time_str": "01:08.000",
+      "text": "锁着我的爱怜，",
+      "translation": null
+    },
+    {
+      "time": 71.0,
+      "time_str": "01:11.000",
+      "text": "你的唇齿之间，",
+      "translation": null
+    },
+    {
+      "time": 73.0,
+      "time_str": "01:13.000",
+      "text": "留着我的誓言。",
+      "translation": null
+    },
+    {
+      "time": 77.0,
+      "time_str": "01:17.000",
+      "text": "你的一切移动，",
+      "translation": null
+    },
+    {
+      "time": 79.0,
+      "time_str": "01:19.000",
+      "text": "左右我的视线，",
+      "translation": null
+    },
+    {
+      "time": 82.0,
+      "time_str": "01:22.000",
+      "text": "你是我的诗篇，",
+      "translation": null
+    },
+    {
+      "time": 85.0,
+      "time_str": "01:25.000",
+      "text": "读你千遍也不厌倦。",
+      "translation": null
+    },
+    {
+      "time": 116.0,
+      "time_str": "01:56.000",
+      "text": "读你千遍也不厌倦，",
+      "translation": null
+    },
+    {
+      "time": 121.0,
+      "time_str": "02:01.000",
+      "text": "读你的感觉像三月，",
+      "translation": null
+    },
+    {
+      "time": 126.0,
+      "time_str": "02:06.000",
+      "text": "浪漫的季节，",
+      "translation": null
+    },
+    {
+      "time": 129.0,
+      "time_str": "02:09.000",
+      "text": "醉人的诗篇，",
+      "translation": null
+    },
+    {
+      "time": 131.0,
+      "time_str": "02:11.000",
+      "text": "唔，",
+      "translation": null
+    },
+    {
+      "time": 134.0,
+      "time_str": "02:14.000",
+      "text": "读你千遍也不厌倦，",
+      "translation": null
+    },
+    {
+      "time": 140.0,
+      "time_str": "02:20.000",
+      "text": "读你的感觉像春天，",
+      "translation": null
+    },
+    {
+      "time": 145.0,
+      "time_str": "02:25.000",
+      "text": "喜悦的经典，",
+      "translation": null
+    },
+    {
+      "time": 148.0,
+      "time_str": "02:28.000",
+      "text": "美丽的句点。",
+      "translation": null
+    },
+    {
+      "time": 150.0,
+      "time_str": "02:30.000",
+      "text": "唔，",
+      "translation": null
+    },
+    {
+      "time": 158.0,
+      "time_str": "02:38.000",
+      "text": "你的眉目之间，",
+      "translation": null
+    },
+    {
+      "time": 160.0,
+      "time_str": "02:40.000",
+      "text": "锁着我的爱怜，",
+      "translation": null
+    },
+    {
+      "time": 163.0,
+      "time_str": "02:43.000",
+      "text": "你的唇齿之间，",
+      "translation": null
+    },
+    {
+      "time": 165.0,
+      "time_str": "02:45.000",
+      "text": "留着我的誓言。",
+      "translation": null
+    },
+    {
+      "time": 168.0,
+      "time_str": "02:48.000",
+      "text": "你的一切移动，",
+      "translation": null
+    },
+    {
+      "time": 171.0,
+      "time_str": "02:51.000",
+      "text": "左右我的视线，",
+      "translation": null
+    },
+    {
+      "time": 174.0,
+      "time_str": "02:54.000",
+      "text": "你是我的诗篇，",
+      "translation": null
+    },
+    {
+      "time": 177.0,
+      "time_str": "02:57.000",
+      "text": "读你千遍也不厌倦。",
+      "translation": null
+    },
+    {
+      "time": 185.0,
+      "time_str": "03:05.000",
+      "text": "你的眉目之间，",
+      "translation": null
+    },
+    {
+      "time": 187.0,
+      "time_str": "03:07.000",
+      "text": "锁着我的爱怜，",
+      "translation": null
+    },
+    {
+      "time": 190.0,
+      "time_str": "03:10.000",
+      "text": "你的唇齿之间，",
+      "translation": null
+    },
+    {
+      "time": 193.0,
+      "time_str": "03:13.000",
+      "text": "留着我的誓言。",
+      "translation": null
+    },
+    {
+      "time": 196.0,
+      "time_str": "03:16.000",
+      "text": "你的一切移动，",
+      "translation": null
+    },
+    {
+      "time": 198.0,
+      "time_str": "03:18.000",
+      "text": "左右我的视线，",
+      "translation": null
+    },
+    {
+      "time": 201.0,
+      "time_str": "03:21.000",
+      "text": "你是我的诗篇，",
+      "translation": null
+    },
+    {
+      "time": 204.0,
+      "time_str": "03:24.000",
+      "text": "读你千遍也不厌倦。",
+      "translation": null
+    },
+    {
+      "time": 209.0,
+      "time_str": "03:29.000",
+      "text": "读你千遍，",
+      "translation": null
+    },
+    {
+      "time": 212.0,
+      "time_str": "03:32.000",
+      "text": "也不厌倦，",
+      "translation": null
+    },
+    {
+      "time": 215.0,
+      "time_str": "03:35.000",
+      "text": "读你千遍，",
+      "translation": null
+    },
+    {
+      "time": 217.0,
+      "time_str": "03:37.000",
+      "text": "也不厌倦，",
+      "translation": null
+    },
+    {
+      "time": 221.0,
+      "time_str": "03:41.000",
+      "text": "读你。",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "读你 - 蔡琴.lrc"
+}

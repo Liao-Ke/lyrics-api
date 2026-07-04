@@ -1,0 +1,124 @@
+{
+  "title": "梁祝-化蝶",
+  "title_raw": "梁祝-化蝶",
+  "version": null,
+  "artist": "苏云",
+  "group_key": "梁祝-化蝶|苏云",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 40.33,
+      "time_str": "00:40.330",
+      "text": "碧草青青花盛开",
+      "translation": null
+    },
+    {
+      "time": 48.87,
+      "time_str": "00:48.870",
+      "text": "彩蝶双双久徘徊",
+      "translation": null
+    },
+    {
+      "time": 57.73,
+      "time_str": "00:57.730",
+      "text": "千古传颂深深爱",
+      "translation": null
+    },
+    {
+      "time": 66.47,
+      "time_str": "01:06.470",
+      "text": "山伯永恋祝英台",
+      "translation": null
+    },
+    {
+      "time": 80.37,
+      "time_str": "01:20.370",
+      "text": "同窗共读整三载",
+      "translation": null
+    },
+    {
+      "time": 88.92,
+      "time_str": "01:28.920",
+      "text": "促膝并肩两无猜",
+      "translation": null
+    },
+    {
+      "time": 97.73,
+      "time_str": "01:37.730",
+      "text": "十八相送情切切",
+      "translation": null
+    },
+    {
+      "time": 106.57,
+      "time_str": "01:46.570",
+      "text": "谁知一別在楼台",
+      "translation": null
+    },
+    {
+      "time": 160.35,
+      "time_str": "02:40.350",
+      "text": "碧草青青花盛开",
+      "translation": null
+    },
+    {
+      "time": 168.84,
+      "time_str": "02:48.840",
+      "text": "彩蝶双双久徘徊",
+      "translation": null
+    },
+    {
+      "time": 177.88,
+      "time_str": "02:57.880",
+      "text": "千古传颂生生爱",
+      "translation": null
+    },
+    {
+      "time": 186.37,
+      "time_str": "03:06.370",
+      "text": "山伯永恋祝英台",
+      "translation": null
+    },
+    {
+      "time": 200.5,
+      "time_str": "03:20.500",
+      "text": "楼台一别恨如海",
+      "translation": null
+    },
+    {
+      "time": 208.67,
+      "time_str": "03:28.670",
+      "text": "泪染双翅身化彩蝶翩翩花丛来",
+      "translation": null
+    },
+    {
+      "time": 217.67,
+      "time_str": "03:37.670",
+      "text": "历尽磨难真情在",
+      "translation": null
+    },
+    {
+      "time": 226.86,
+      "time_str": "03:46.860",
+      "text": "天长地久不分开",
+      "translation": null
+    },
+    {
+      "time": 240.16,
+      "time_str": "04:00.160",
+      "text": "历尽磨难真情在",
+      "translation": null
+    },
+    {
+      "time": 248.91,
+      "time_str": "04:08.910",
+      "text": "天长地久不分开",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "梁祝-化蝶 - 苏云.lrc"
+}

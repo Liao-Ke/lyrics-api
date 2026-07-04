@@ -1,0 +1,394 @@
+{
+  "title": "La Copa de la Vida",
+  "title_raw": "La Copa de la Vida ( Spanish Version)",
+  "version": " Spanish Version",
+  "artist": "Ricky Martin",
+  "group_key": "la copa de la vida|ricky martin",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 41.15,
+      "time_str": "00:41.150",
+      "text": "La vida es pura pasion",
+      "translation": "活着就要享受刺激"
+    },
+    {
+      "time": 45.25,
+      "time_str": "00:45.250",
+      "text": "hay que llenar copa de amor",
+      "translation": "这一杯 用爱满上"
+    },
+    {
+      "time": 49.3,
+      "time_str": "00:49.300",
+      "text": "para vivir hay que luchar",
+      "translation": "为生而战"
+    },
+    {
+      "time": 53.3,
+      "time_str": "00:53.300",
+      "text": "un corazon para ganar",
+      "translation": "决意取胜"
+    },
+    {
+      "time": 56.41,
+      "time_str": "00:56.410",
+      "text": "Como cain y abel es un partido cruel",
+      "translation": "斗争残酷有如该隐和亚伯的角逐"
+    },
+    {
+      "time": 60.91,
+      "time_str": "01:00.910",
+      "text": "tienes que pelear por una estrella",
+      "translation": "为誉而战"
+    },
+    {
+      "time": 64.31,
+      "time_str": "01:04.310",
+      "text": "consigue con honor  la copa del amor",
+      "translation": "追逐荣光 追逐爱之杯"
+    },
+    {
+      "time": 68.96,
+      "time_str": "01:08.960",
+      "text": "para sobrevivir y luchar por ella",
+      "translation": "这是为了生存而斗"
+    },
+    {
+      "time": 72.19,
+      "time_str": "01:12.190",
+      "text": "luchar por ella (si)",
+      "translation": "为她而战"
+    },
+    {
+      "time": 74.89,
+      "time_str": "01:14.890",
+      "text": "luchar por ella (si)",
+      "translation": "为她而战"
+    },
+    {
+      "time": 76.84,
+      "time_str": "01:16.840",
+      "text": "Tu y yo! Ale ale ale",
+      "translation": "你和我 Ale Ale Ale"
+    },
+    {
+      "time": 80.91,
+      "time_str": "01:20.910",
+      "text": "Go go gol! Ale ale ale",
+      "translation": "走走走 Ale Ale Ale"
+    },
+    {
+      "time": 84.86,
+      "time_str": "01:24.860",
+      "text": "Arriba va! El mundo esta de pie",
+      "translation": "快快快快 世界都在看着"
+    },
+    {
+      "time": 88.82,
+      "time_str": "01:28.820",
+      "text": "Go go gol! Allez Allez Allez",
+      "translation": "走走走 Ale Ale Ale"
+    },
+    {
+      "time": 101.42,
+      "time_str": "01:41.420",
+      "text": "La vida es",
+      "translation": "生活就是"
+    },
+    {
+      "time": 102.72,
+      "time_str": "01:42.720",
+      "text": "competicion",
+      "translation": "一场比赛"
+    },
+    {
+      "time": 105.17,
+      "time_str": "01:45.170",
+      "text": "hay que sonar",
+      "translation": "你对冠军"
+    },
+    {
+      "time": 106.68,
+      "time_str": "01:46.680",
+      "text": "ser campeon",
+      "translation": "势在必得"
+    },
+    {
+      "time": 109.13,
+      "time_str": "01:49.130",
+      "text": "la copa es",
+      "translation": "这一杯"
+    },
+    {
+      "time": 110.73,
+      "time_str": "01:50.730",
+      "text": "la bendicion",
+      "translation": "给你祝福"
+    },
+    {
+      "time": 113.23,
+      "time_str": "01:53.230",
+      "text": "la ganaras",
+      "translation": "必胜！"
+    },
+    {
+      "time": 114.68,
+      "time_str": "01:54.680",
+      "text": "Go Go GO!",
+      "translation": "走走走"
+    },
+    {
+      "time": 116.22,
+      "time_str": "01:56.220",
+      "text": "Tu instinto natural",
+      "translation": "你的本能"
+    },
+    {
+      "time": 118.44,
+      "time_str": "01:58.440",
+      "text": "vencer a tu rival",
+      "translation": "就是打败对手"
+    },
+    {
+      "time": 120.8,
+      "time_str": "02:00.800",
+      "text": "Tienes que pelear por una estrella",
+      "translation": "为誉而战"
+    },
+    {
+      "time": 124.36,
+      "time_str": "02:04.360",
+      "text": "consigue con honor",
+      "translation": "追逐荣光"
+    },
+    {
+      "time": 126.21,
+      "time_str": "02:06.210",
+      "text": "la copa de la amor",
+      "translation": "追逐生命之杯！"
+    },
+    {
+      "time": 128.87,
+      "time_str": "02:08.870",
+      "text": "para sobrevivir y luchar por ella",
+      "translation": "这是为了生存而斗"
+    },
+    {
+      "time": 132.12,
+      "time_str": "02:12.120",
+      "text": "luchar por ella (si)",
+      "translation": "为她而战"
+    },
+    {
+      "time": 134.37,
+      "time_str": "02:14.370",
+      "text": "luchar por ella (si)",
+      "translation": "为她而战"
+    },
+    {
+      "time": 136.72,
+      "time_str": "02:16.720",
+      "text": "Tu y yo",
+      "translation": "你和我"
+    },
+    {
+      "time": 138.68,
+      "time_str": "02:18.680",
+      "text": "Allez allez allez",
+      "translation": "加油加油加油"
+    },
+    {
+      "time": 140.73,
+      "time_str": "02:20.730",
+      "text": "Go go go",
+      "translation": "走走走"
+    },
+    {
+      "time": 142.68,
+      "time_str": "02:22.680",
+      "text": "Allez allez allez",
+      "translation": "加油加油加油"
+    },
+    {
+      "time": 144.73,
+      "time_str": "02:24.730",
+      "text": "Arriba va",
+      "translation": "朝上走"
+    },
+    {
+      "time": 146.73,
+      "time_str": "02:26.730",
+      "text": "El mundo esta de pie",
+      "translation": "世界尽在掌握"
+    },
+    {
+      "time": 148.78,
+      "time_str": "02:28.780",
+      "text": "Go go go",
+      "translation": "走走走"
+    },
+    {
+      "time": 150.77,
+      "time_str": "02:30.770",
+      "text": "Allez allez allez",
+      "translation": "加油加油加油"
+    },
+    {
+      "time": 192.34,
+      "time_str": "03:12.340",
+      "text": "Como Cain y Abel",
+      "translation": "有如该隐和亚伯之斗"
+    },
+    {
+      "time": 194.25,
+      "time_str": "03:14.250",
+      "text": "Es un partido cruel",
+      "translation": "比赛如此残酷"
+    },
+    {
+      "time": 196.79,
+      "time_str": "03:16.790",
+      "text": "Tienes que pelear por una estrella",
+      "translation": "为誉而战"
+    },
+    {
+      "time": 200.37,
+      "time_str": "03:20.370",
+      "text": "Consigue con honor",
+      "translation": "追逐荣光"
+    },
+    {
+      "time": 202.17,
+      "time_str": "03:22.170",
+      "text": "La copa del amor",
+      "translation": "追逐生命之杯！"
+    },
+    {
+      "time": 204.87,
+      "time_str": "03:24.870",
+      "text": "Para sobrevivir y luchar por ella",
+      "translation": "这是为了生存而斗"
+    },
+    {
+      "time": 208.17,
+      "time_str": "03:28.170",
+      "text": "Luchar por ella",
+      "translation": "为她而战"
+    },
+    {
+      "time": 210.07,
+      "time_str": "03:30.070",
+      "text": "Luchar por ella",
+      "translation": "为她而战"
+    },
+    {
+      "time": 212.42,
+      "time_str": "03:32.420",
+      "text": "Luchar por ella",
+      "translation": "为她而战"
+    },
+    {
+      "time": 216.1,
+      "time_str": "03:36.100",
+      "text": "Tu y yo",
+      "translation": "你和我"
+    },
+    {
+      "time": 217.66,
+      "time_str": "03:37.660",
+      "text": "Allez allez allez",
+      "translation": "加油加油加油"
+    },
+    {
+      "time": 219.81,
+      "time_str": "03:39.810",
+      "text": "Go go go",
+      "translation": "走走走"
+    },
+    {
+      "time": 221.66,
+      "time_str": "03:41.660",
+      "text": "Allez allez allez",
+      "translation": "加油加油加油"
+    },
+    {
+      "time": 223.76,
+      "time_str": "03:43.760",
+      "text": "Arriba va",
+      "translation": "朝上走"
+    },
+    {
+      "time": 225.71,
+      "time_str": "03:45.710",
+      "text": "El mundo esta de pie",
+      "translation": "世界尽在掌握"
+    },
+    {
+      "time": 227.71,
+      "time_str": "03:47.710",
+      "text": "Go go go",
+      "translation": "走走走"
+    },
+    {
+      "time": 229.66,
+      "time_str": "03:49.660",
+      "text": "Allez allez allez",
+      "translation": "加油加油加油"
+    },
+    {
+      "time": 231.76,
+      "time_str": "03:51.760",
+      "text": "Tu y yo",
+      "translation": "你和我"
+    },
+    {
+      "time": 233.66,
+      "time_str": "03:53.660",
+      "text": "Allez allez allez",
+      "translation": "加油加油加油"
+    },
+    {
+      "time": 235.67,
+      "time_str": "03:55.670",
+      "text": "Go go go",
+      "translation": "走走走"
+    },
+    {
+      "time": 237.62,
+      "time_str": "03:57.620",
+      "text": "Allez allez allez",
+      "translation": "加油加油加油"
+    },
+    {
+      "time": 239.77,
+      "time_str": "03:59.770",
+      "text": "Arriba va",
+      "translation": "朝上走"
+    },
+    {
+      "time": 241.67,
+      "time_str": "04:01.670",
+      "text": "El mundo esta de pie",
+      "translation": "世界尽在掌握"
+    },
+    {
+      "time": 243.82,
+      "time_str": "04:03.820",
+      "text": "Go go go",
+      "translation": "走走走"
+    },
+    {
+      "time": 245.72,
+      "time_str": "04:05.720",
+      "text": "Allez allez allez",
+      "translation": "加油加油加油"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "La Copa de la Vida ( Spanish Version) - Ricky Martin.lrc"
+}

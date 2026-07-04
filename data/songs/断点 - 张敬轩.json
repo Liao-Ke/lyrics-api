@@ -1,0 +1,304 @@
+{
+  "title": "断点",
+  "title_raw": "断点",
+  "version": null,
+  "artist": "张敬轩",
+  "group_key": "断点|张敬轩",
+  "writers": {
+    "lyricist": "张敬轩",
+    "composer": "张敬轩",
+    "arranger": "张敬轩"
+  },
+  "lyrics": [
+    {
+      "time": 20.11,
+      "time_str": "00:20.110",
+      "text": "静静地陪你走了好远好远",
+      "translation": null
+    },
+    {
+      "time": 24.78,
+      "time_str": "00:24.780",
+      "text": "连眼睛红了都没有发现",
+      "translation": null
+    },
+    {
+      "time": 30.21,
+      "time_str": "00:30.210",
+      "text": "听着你说你现在的改变",
+      "translation": null
+    },
+    {
+      "time": 34.41,
+      "time_str": "00:34.410",
+      "text": "看着我依然最爱你的笑脸",
+      "translation": null
+    },
+    {
+      "time": 39.6,
+      "time_str": "00:39.600",
+      "text": "这条旧路依然没有改变",
+      "translation": null
+    },
+    {
+      "time": 44.01,
+      "time_str": "00:44.010",
+      "text": "以往的每次路过都是晴天",
+      "translation": null
+    },
+    {
+      "time": 49.4,
+      "time_str": "00:49.400",
+      "text": "想起我们有过的从前",
+      "translation": null
+    },
+    {
+      "time": 53.58,
+      "time_str": "00:53.580",
+      "text": "泪水就一点一点开始蔓延",
+      "translation": null
+    },
+    {
+      "time": 58.33,
+      "time_str": "00:58.330",
+      "text": "我转过我的脸 不让你看见",
+      "translation": null
+    },
+    {
+      "time": 63.17,
+      "time_str": "01:03.170",
+      "text": "深藏的暗涌已经越来越明显",
+      "translation": null
+    },
+    {
+      "time": 68.24,
+      "time_str": "01:08.240",
+      "text": "过完了今天 就不要再见面",
+      "translation": null
+    },
+    {
+      "time": 72.78,
+      "time_str": "01:12.780",
+      "text": "我害怕每天醒来想你好几遍",
+      "translation": null
+    },
+    {
+      "time": 79.36,
+      "time_str": "01:19.360",
+      "text": "我吻过你的脸",
+      "translation": null
+    },
+    {
+      "time": 81.88,
+      "time_str": "01:21.880",
+      "text": "你双手曾在我的双肩",
+      "translation": null
+    },
+    {
+      "time": 84.85,
+      "time_str": "01:24.850",
+      "text": "感觉有那么甜我那么依恋",
+      "translation": null
+    },
+    {
+      "time": 89.11,
+      "time_str": "01:29.110",
+      "text": "每当我闭上眼",
+      "translation": null
+    },
+    {
+      "time": 92.02,
+      "time_str": "01:32.020",
+      "text": "我总是可以看见",
+      "translation": null
+    },
+    {
+      "time": 94.47,
+      "time_str": "01:34.470",
+      "text": "失信的诺言全部都会实现",
+      "translation": null
+    },
+    {
+      "time": 98.6,
+      "time_str": "01:38.600",
+      "text": "我吻过你的脸",
+      "translation": null
+    },
+    {
+      "time": 101.04,
+      "time_str": "01:41.040",
+      "text": "你已经不在我的身边",
+      "translation": null
+    },
+    {
+      "time": 103.96,
+      "time_str": "01:43.960",
+      "text": "我还是祝福你过得好一点",
+      "translation": null
+    },
+    {
+      "time": 108.46,
+      "time_str": "01:48.460",
+      "text": "断开的感情线我不要做断点",
+      "translation": null
+    },
+    {
+      "time": 113.68,
+      "time_str": "01:53.680",
+      "text": "只想在睡前",
+      "translation": null
+    },
+    {
+      "time": 115.6,
+      "time_str": "01:55.600",
+      "text": "再听见你的蜜语甜言",
+      "translation": null
+    },
+    {
+      "time": 140.16,
+      "time_str": "02:20.160",
+      "text": "静静地陪你走了好远好远",
+      "translation": null
+    },
+    {
+      "time": 144.87,
+      "time_str": "02:24.870",
+      "text": "连眼睛红了都没有发现",
+      "translation": null
+    },
+    {
+      "time": 150.23,
+      "time_str": "02:30.230",
+      "text": "听着你说你现在的改变",
+      "translation": null
+    },
+    {
+      "time": 154.45,
+      "time_str": "02:34.450",
+      "text": "看着我依然最爱你的笑脸",
+      "translation": null
+    },
+    {
+      "time": 159.68,
+      "time_str": "02:39.680",
+      "text": "这条旧路依然没有改变",
+      "translation": null
+    },
+    {
+      "time": 164.01,
+      "time_str": "02:44.010",
+      "text": "以往的每次路过都是晴天",
+      "translation": null
+    },
+    {
+      "time": 169.44,
+      "time_str": "02:49.440",
+      "text": "想起我们有过的从前",
+      "translation": null
+    },
+    {
+      "time": 173.63,
+      "time_str": "02:53.630",
+      "text": "泪水就一点一点开始蔓延",
+      "translation": null
+    },
+    {
+      "time": 178.43,
+      "time_str": "02:58.430",
+      "text": "我转过我的脸 不让你看见",
+      "translation": null
+    },
+    {
+      "time": 183.26,
+      "time_str": "03:03.260",
+      "text": "深藏的暗涌已经越来越明显",
+      "translation": null
+    },
+    {
+      "time": 188.24,
+      "time_str": "03:08.240",
+      "text": "过完了今天 就不要再见面",
+      "translation": null
+    },
+    {
+      "time": 192.79,
+      "time_str": "03:12.790",
+      "text": "我害怕每天醒来想你好几遍",
+      "translation": null
+    },
+    {
+      "time": 199.49,
+      "time_str": "03:19.490",
+      "text": "我吻过你的脸",
+      "translation": null
+    },
+    {
+      "time": 201.91,
+      "time_str": "03:21.910",
+      "text": "你双手曾在我的双肩",
+      "translation": null
+    },
+    {
+      "time": 204.88,
+      "time_str": "03:24.880",
+      "text": "感觉有那么甜我那么依恋",
+      "translation": null
+    },
+    {
+      "time": 209.15,
+      "time_str": "03:29.150",
+      "text": "每当我闭上眼",
+      "translation": null
+    },
+    {
+      "time": 212.02,
+      "time_str": "03:32.020",
+      "text": "我总是可以看见",
+      "translation": null
+    },
+    {
+      "time": 214.41,
+      "time_str": "03:34.410",
+      "text": "失信的诺言全部都会实现",
+      "translation": null
+    },
+    {
+      "time": 218.67,
+      "time_str": "03:38.670",
+      "text": "我吻过你的脸",
+      "translation": null
+    },
+    {
+      "time": 221.02,
+      "time_str": "03:41.020",
+      "text": "虽然你不在我的身边",
+      "translation": null
+    },
+    {
+      "time": 224.0,
+      "time_str": "03:44.000",
+      "text": "我还是祝福你过得好一点",
+      "translation": null
+    },
+    {
+      "time": 228.52,
+      "time_str": "03:48.520",
+      "text": "断开的感情线我不要做断点",
+      "translation": null
+    },
+    {
+      "time": 233.68,
+      "time_str": "03:53.680",
+      "text": "只想在睡前",
+      "translation": null
+    },
+    {
+      "time": 235.5,
+      "time_str": "03:55.500",
+      "text": "再听见你的蜜语甜言",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "断点 - 张敬轩.lrc"
+}

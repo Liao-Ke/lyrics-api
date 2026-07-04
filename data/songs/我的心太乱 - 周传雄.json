@@ -1,0 +1,274 @@
+{
+  "title": "我的心太乱",
+  "title_raw": "我的心太乱",
+  "version": null,
+  "artist": "周传雄",
+  "group_key": "我的心太乱|周传雄",
+  "writers": {
+    "lyricist": "丁晓雯",
+    "composer": "周传雄",
+    "arranger": "鲍比达"
+  },
+  "lyrics": [
+    {
+      "time": 22.87,
+      "time_str": "00:22.870",
+      "text": "夜里难以入睡　用什么可以麻醉",
+      "translation": null
+    },
+    {
+      "time": 28.66,
+      "time_str": "00:28.660",
+      "text": "情绪太多怎堪面对",
+      "translation": null
+    },
+    {
+      "time": 36.61,
+      "time_str": "00:36.610",
+      "text": "不是不要你陪　有些事你无法体会",
+      "translation": null
+    },
+    {
+      "time": 46.41,
+      "time_str": "00:46.410",
+      "text": "卸下了防备 孤独跟随",
+      "translation": null
+    },
+    {
+      "time": 54.05,
+      "time_str": "00:54.050",
+      "text": "我想要一个自己的空间",
+      "translation": null
+    },
+    {
+      "time": 60.7,
+      "time_str": "01:00.700",
+      "text": "能够好好想想我们之间的明天",
+      "translation": null
+    },
+    {
+      "time": 65.34,
+      "time_str": "01:05.340",
+      "text": "如果爱情不如我们想像的甜美",
+      "translation": null
+    },
+    {
+      "time": 69.42,
+      "time_str": "01:09.420",
+      "text": "那么所有的罪让我来背",
+      "translation": null
+    },
+    {
+      "time": 74.73,
+      "time_str": "01:14.730",
+      "text": "我的心太乱　要一些空白",
+      "translation": null
+    },
+    {
+      "time": 78.49,
+      "time_str": "01:18.490",
+      "text": "你若是明白　让我暂时的离开",
+      "translation": null
+    },
+    {
+      "time": 82.92,
+      "time_str": "01:22.920",
+      "text": "我的心太乱　不敢再贪更多爱",
+      "translation": null
+    },
+    {
+      "time": 87.15,
+      "time_str": "01:27.150",
+      "text": "想哭的我　却怎么哭也哭不出来",
+      "translation": null
+    },
+    {
+      "time": 93.36,
+      "time_str": "01:33.360",
+      "text": "我的心太乱　要一些空白",
+      "translation": null
+    },
+    {
+      "time": 97.91,
+      "time_str": "01:37.910",
+      "text": "老天在不在　忘了为我来安排",
+      "translation": null
+    },
+    {
+      "time": 102.27,
+      "time_str": "01:42.270",
+      "text": "我的心太乱　害怕爱情的背叛",
+      "translation": null
+    },
+    {
+      "time": 106.59,
+      "time_str": "01:46.590",
+      "text": "想哭的我像是一个迷路小孩",
+      "translation": null
+    },
+    {
+      "time": 112.8,
+      "time_str": "01:52.800",
+      "text": "迷路的小孩",
+      "translation": null
+    },
+    {
+      "time": 132.3,
+      "time_str": "02:12.300",
+      "text": "夜里难以入睡　用什么可以麻醉",
+      "translation": null
+    },
+    {
+      "time": 140.2,
+      "time_str": "02:20.200",
+      "text": "情绪太多怎堪面对",
+      "translation": null
+    },
+    {
+      "time": 148.25,
+      "time_str": "02:28.250",
+      "text": "不是不要你陪　有些事你无法体会",
+      "translation": null
+    },
+    {
+      "time": 156.66,
+      "time_str": "02:36.660",
+      "text": "卸下了防备 孤独跟随",
+      "translation": null
+    },
+    {
+      "time": 163.76,
+      "time_str": "02:43.760",
+      "text": "我想要一个自己的空间",
+      "translation": null
+    },
+    {
+      "time": 170.15,
+      "time_str": "02:50.150",
+      "text": "能够好好想想我们之间的明天",
+      "translation": null
+    },
+    {
+      "time": 174.4,
+      "time_str": "02:54.400",
+      "text": "如果爱情不如我们想像的甜美",
+      "translation": null
+    },
+    {
+      "time": 178.81,
+      "time_str": "02:58.810",
+      "text": "那么所有的罪让我来背",
+      "translation": null
+    },
+    {
+      "time": 183.77,
+      "time_str": "03:03.770",
+      "text": "我的心太乱　要一些空白",
+      "translation": null
+    },
+    {
+      "time": 188.33,
+      "time_str": "03:08.330",
+      "text": "你若是明白　让我暂时的离开",
+      "translation": null
+    },
+    {
+      "time": 192.19,
+      "time_str": "03:12.190",
+      "text": "我的心太乱　不敢再贪更多爱",
+      "translation": null
+    },
+    {
+      "time": 196.57,
+      "time_str": "03:16.570",
+      "text": "想哭的我　却怎么哭也哭不出来",
+      "translation": null
+    },
+    {
+      "time": 203.17,
+      "time_str": "03:23.170",
+      "text": "我的心太乱　要一些空白",
+      "translation": null
+    },
+    {
+      "time": 207.52,
+      "time_str": "03:27.520",
+      "text": "老天在不在　忘了为我来安排",
+      "translation": null
+    },
+    {
+      "time": 211.91,
+      "time_str": "03:31.910",
+      "text": "我的心太乱　害怕爱情的背叛",
+      "translation": null
+    },
+    {
+      "time": 216.18,
+      "time_str": "03:36.180",
+      "text": "想哭的我像是一个迷路小孩",
+      "translation": null
+    },
+    {
+      "time": 222.15,
+      "time_str": "03:42.150",
+      "text": "迷路的小孩",
+      "translation": null
+    },
+    {
+      "time": 233.46,
+      "time_str": "03:53.460",
+      "text": "我的心太乱　要一些空白",
+      "translation": null
+    },
+    {
+      "time": 237.41,
+      "time_str": "03:57.410",
+      "text": "你若是明白　让我暂时的离开",
+      "translation": null
+    },
+    {
+      "time": 241.83,
+      "time_str": "04:01.830",
+      "text": "我的心太乱　不敢再贪更多爱",
+      "translation": null
+    },
+    {
+      "time": 246.23,
+      "time_str": "04:06.230",
+      "text": "想哭的我　却怎么哭也哭不出来",
+      "translation": null
+    },
+    {
+      "time": 252.71,
+      "time_str": "04:12.710",
+      "text": "我的心太乱　要一些空白",
+      "translation": null
+    },
+    {
+      "time": 256.98,
+      "time_str": "04:16.980",
+      "text": "老天在不在　忘了为我来安排",
+      "translation": null
+    },
+    {
+      "time": 261.14,
+      "time_str": "04:21.140",
+      "text": "我的心太乱　害怕爱情的背叛",
+      "translation": null
+    },
+    {
+      "time": 265.14,
+      "time_str": "04:25.140",
+      "text": "想哭的我像是一个迷路小孩",
+      "translation": null
+    },
+    {
+      "time": 276.34,
+      "time_str": "04:36.340",
+      "text": "迷路的小孩",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我的心太乱 - 周传雄.lrc"
+}

@@ -1,0 +1,310 @@
+{
+  "title": "One Night In 北京",
+  "title_raw": "One Night In 北京",
+  "version": null,
+  "artist": "信乐团",
+  "group_key": "one night in 北京|信乐团",
+  "writers": {
+    "lyricist": "刘佳慧",
+    "composer": null,
+    "arranger": "王继康"
+  },
+  "lyrics": [
+    {
+      "time": 53.84,
+      "time_str": "00:53.840",
+      "text": "One Night in 北京",
+      "translation": null
+    },
+    {
+      "time": 56.56,
+      "time_str": "00:56.560",
+      "text": "我留下许多情",
+      "translation": null
+    },
+    {
+      "time": 59.95,
+      "time_str": "00:59.950",
+      "text": "不管你爱与不爱",
+      "translation": null
+    },
+    {
+      "time": 62.07,
+      "time_str": "01:02.070",
+      "text": "都是历史的尘埃",
+      "translation": null
+    },
+    {
+      "time": 65.21,
+      "time_str": "01:05.210",
+      "text": "One Night in 北京",
+      "translation": null
+    },
+    {
+      "time": 67.92,
+      "time_str": "01:07.920",
+      "text": "我留下许多情",
+      "translation": null
+    },
+    {
+      "time": 71.11,
+      "time_str": "01:11.110",
+      "text": "不敢在午夜问路",
+      "translation": null
+    },
+    {
+      "time": 73.36,
+      "time_str": "01:13.360",
+      "text": "怕走到了百花深处",
+      "translation": null
+    },
+    {
+      "time": 75.84,
+      "time_str": "01:15.840",
+      "text": "人说百花的深处",
+      "translation": null
+    },
+    {
+      "time": 81.36,
+      "time_str": "01:21.360",
+      "text": "住着老情人",
+      "translation": null
+    },
+    {
+      "time": 84.36,
+      "time_str": "01:24.360",
+      "text": "缝着绣花鞋",
+      "translation": null
+    },
+    {
+      "time": 87.41,
+      "time_str": "01:27.410",
+      "text": "面容安详的老人",
+      "translation": null
+    },
+    {
+      "time": 92.54,
+      "time_str": "01:32.540",
+      "text": "依旧等着那出征的归人",
+      "translation": null
+    },
+    {
+      "time": 98.86,
+      "time_str": "01:38.860",
+      "text": "One Night in 北京",
+      "translation": null
+    },
+    {
+      "time": 101.63,
+      "time_str": "01:41.630",
+      "text": "你可别喝太多酒",
+      "translation": null
+    },
+    {
+      "time": 104.78,
+      "time_str": "01:44.780",
+      "text": "走在地安门外",
+      "translation": null
+    },
+    {
+      "time": 107.33,
+      "time_str": "01:47.330",
+      "text": "没有人不动真情",
+      "translation": null
+    },
+    {
+      "time": 110.34,
+      "time_str": "01:50.340",
+      "text": "One Night in 北京",
+      "translation": null
+    },
+    {
+      "time": 113.09,
+      "time_str": "01:53.090",
+      "text": "我留下许多情",
+      "translation": null
+    },
+    {
+      "time": 116.23,
+      "time_str": "01:56.230",
+      "text": "把酒高歌的男儿",
+      "translation": null
+    },
+    {
+      "time": 118.7,
+      "time_str": "01:58.700",
+      "text": "是北方的狼族",
+      "translation": null
+    },
+    {
+      "time": 120.89,
+      "time_str": "02:00.890",
+      "text": "人说北方的狼族",
+      "translation": null
+    },
+    {
+      "time": 126.58,
+      "time_str": "02:06.580",
+      "text": "会在寒风起站在城门外",
+      "translation": null
+    },
+    {
+      "time": 132.53,
+      "time_str": "02:12.530",
+      "text": "穿着腐朽的铁衣",
+      "translation": null
+    },
+    {
+      "time": 137.8,
+      "time_str": "02:17.800",
+      "text": "呼唤城门开",
+      "translation": null
+    },
+    {
+      "time": 140.78,
+      "time_str": "02:20.780",
+      "text": "眼中含着泪",
+      "translation": null
+    },
+    {
+      "time": 166.44,
+      "time_str": "02:46.440",
+      "text": "呜 我已等待了千年",
+      "translation": null
+    },
+    {
+      "time": 175.02,
+      "time_str": "02:55.020",
+      "text": "为何城门还不开",
+      "translation": null
+    },
+    {
+      "time": 177.97,
+      "time_str": "02:57.970",
+      "text": "哇 我已等待了千年",
+      "translation": null
+    },
+    {
+      "time": 186.24,
+      "time_str": "03:06.240",
+      "text": "为何良人不归来",
+      "translation": null
+    },
+    {
+      "time": 189.49,
+      "time_str": "03:09.490",
+      "text": "One Night in 北京",
+      "translation": null
+    },
+    {
+      "time": 192.07,
+      "time_str": "03:12.070",
+      "text": "我留下许多情",
+      "translation": null
+    },
+    {
+      "time": 195.36,
+      "time_str": "03:15.360",
+      "text": "不敢在午夜问路",
+      "translation": null
+    },
+    {
+      "time": 197.71,
+      "time_str": "03:17.710",
+      "text": "怕触动了伤心的魂",
+      "translation": null
+    },
+    {
+      "time": 200.72,
+      "time_str": "03:20.720",
+      "text": "One Night in 北京",
+      "translation": null
+    },
+    {
+      "time": 203.46,
+      "time_str": "03:23.460",
+      "text": "我留下许多情",
+      "translation": null
+    },
+    {
+      "time": 206.39,
+      "time_str": "03:26.390",
+      "text": "不敢在午夜问路",
+      "translation": null
+    },
+    {
+      "time": 208.95,
+      "time_str": "03:28.950",
+      "text": "怕走到了地安门",
+      "translation": null
+    },
+    {
+      "time": 212.25,
+      "time_str": "03:32.250",
+      "text": "不想再问你",
+      "translation": null
+    },
+    {
+      "time": 214.58,
+      "time_str": "03:34.580",
+      "text": "你到底在何方",
+      "translation": null
+    },
+    {
+      "time": 217.95,
+      "time_str": "03:37.950",
+      "text": "不想再思量",
+      "translation": null
+    },
+    {
+      "time": 220.42,
+      "time_str": "03:40.420",
+      "text": "你能否归来嘛",
+      "translation": null
+    },
+    {
+      "time": 223.49,
+      "time_str": "03:43.490",
+      "text": "想着你的心",
+      "translation": null
+    },
+    {
+      "time": 226.15,
+      "time_str": "03:46.150",
+      "text": "想着你的脸",
+      "translation": null
+    },
+    {
+      "time": 229.3,
+      "time_str": "03:49.300",
+      "text": "想捧在胸口",
+      "translation": null
+    },
+    {
+      "time": 231.61,
+      "time_str": "03:51.610",
+      "text": "能不放就不放",
+      "translation": null
+    },
+    {
+      "time": 257.16,
+      "time_str": "04:17.160",
+      "text": "One Night In 北京 One Night In 北京",
+      "translation": null
+    },
+    {
+      "time": 262.99,
+      "time_str": "04:22.990",
+      "text": "One Night In 北京 One Night In 北京",
+      "translation": null
+    },
+    {
+      "time": 268.41,
+      "time_str": "04:28.410",
+      "text": "One Night In 北京 One Night In 北京",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "One Night In 北京 - 信乐团.lrc"
+}

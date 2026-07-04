@@ -1,0 +1,232 @@
+{
+  "title": "布兰诗歌",
+  "title_raw": "布兰诗歌",
+  "version": null,
+  "artist": "群星",
+  "group_key": "布兰诗歌|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.523,
+      "time_str": "00:01.523",
+      "text": "O Fortuna",
+      "translation": "哦，命运啊"
+    },
+    {
+      "time": 7.894,
+      "time_str": "00:07.894",
+      "text": "velut luna",
+      "translation": "如月亮般"
+    },
+    {
+      "time": 14.26,
+      "time_str": "00:14.260",
+      "text": "statu variabilis,",
+      "translation": "变幻无常"
+    },
+    {
+      "time": 23.828,
+      "time_str": "00:23.828",
+      "text": "semper crescis",
+      "translation": "时而满盈"
+    },
+    {
+      "time": 26.489,
+      "time_str": "00:26.489",
+      "text": "aut decrescis;",
+      "translation": "时而缺虚"
+    },
+    {
+      "time": 29.145,
+      "time_str": "00:29.145",
+      "text": "vita detestabilis",
+      "translation": "可恨的人生啊"
+    },
+    {
+      "time": 34.446,
+      "time_str": "00:34.446",
+      "text": "nunc obdurat",
+      "translation": "先是坎坷"
+    },
+    {
+      "time": 37.386,
+      "time_str": "00:37.386",
+      "text": "et tunc curat",
+      "translation": "后又平顺"
+    },
+    {
+      "time": 40.565,
+      "time_str": "00:40.565",
+      "text": "ludo mentis aciem,",
+      "translation": "如被命运玩于股掌"
+    },
+    {
+      "time": 44.813,
+      "time_str": "00:44.813",
+      "text": "egestatem,",
+      "translation": "无论贫贱"
+    },
+    {
+      "time": 47.21,
+      "time_str": "00:47.210",
+      "text": "potestatem",
+      "translation": "还是富贵"
+    },
+    {
+      "time": 50.122,
+      "time_str": "00:50.122",
+      "text": "dissolvit ut glaciem.",
+      "translation": "终如冰雪融化般消逝"
+    },
+    {
+      "time": 55.17,
+      "time_str": "00:55.170",
+      "text": "Sors immanis",
+      "translation": "命运之轮"
+    },
+    {
+      "time": 57.84,
+      "time_str": "00:57.840",
+      "text": "et inanis,",
+      "translation": "诡异虚无"
+    },
+    {
+      "time": 60.48,
+      "time_str": "01:00.480",
+      "text": "rota tu volubilis,",
+      "translation": "无情地不停转动"
+    },
+    {
+      "time": 65.537,
+      "time_str": "01:05.537",
+      "text": "status malus,",
+      "translation": "恶毒残酷"
+    },
+    {
+      "time": 67.92,
+      "time_str": "01:07.920",
+      "text": "vana salus",
+      "translation": "将美满与幸福"
+    },
+    {
+      "time": 70.848,
+      "time_str": "01:10.848",
+      "text": "semper dissolubilis,",
+      "translation": "转瞬摧毁成空"
+    },
+    {
+      "time": 75.892,
+      "time_str": "01:15.892",
+      "text": "obumbrata",
+      "translation": "藏身阴影"
+    },
+    {
+      "time": 78.806,
+      "time_str": "01:18.806",
+      "text": "et velata",
+      "translation": "迷离莫辨"
+    },
+    {
+      "time": 80.943,
+      "time_str": "01:20.943",
+      "text": "michi quoque niteris;",
+      "translation": "亦将我折磨"
+    },
+    {
+      "time": 86.246,
+      "time_str": "01:26.246",
+      "text": "nunc per ludum",
+      "translation": "此刻听凭运气"
+    },
+    {
+      "time": 88.915,
+      "time_str": "01:28.915",
+      "text": "dorsum nudum",
+      "translation": "赤手空拳"
+    },
+    {
+      "time": 91.296,
+      "time_str": "01:31.296",
+      "text": "fero tui sceleris.",
+      "translation": "向你讨个公道"
+    },
+    {
+      "time": 96.605,
+      "time_str": "01:36.605",
+      "text": "Sors salutis",
+      "translation": "命运与我为敌"
+    },
+    {
+      "time": 99.283,
+      "time_str": "01:39.283",
+      "text": "et virtutis",
+      "translation": "摧残健康"
+    },
+    {
+      "time": 101.668,
+      "time_str": "01:41.668",
+      "text": "michi nunc contraria,",
+      "translation": "打击意志"
+    },
+    {
+      "time": 106.975,
+      "time_str": "01:46.975",
+      "text": "est affectus",
+      "translation": "无情打击"
+    },
+    {
+      "time": 109.373,
+      "time_str": "01:49.373",
+      "text": "et defectus",
+      "translation": "残暴压迫"
+    },
+    {
+      "time": 112.056,
+      "time_str": "01:52.056",
+      "text": "semper in angaria.",
+      "translation": "奴役我心"
+    },
+    {
+      "time": 117.086,
+      "time_str": "01:57.086",
+      "text": "Hac in hora",
+      "translation": "就在此刻"
+    },
+    {
+      "time": 119.757,
+      "time_str": "01:59.757",
+      "text": "sine mora",
+      "translation": "再莫迟疑"
+    },
+    {
+      "time": 122.142,
+      "time_str": "02:02.142",
+      "text": "corde pulsum tangite;",
+      "translation": "拨响悲伤的挽歌"
+    },
+    {
+      "time": 127.472,
+      "time_str": "02:07.472",
+      "text": "quod per sortem",
+      "translation": "为被命运"
+    },
+    {
+      "time": 130.128,
+      "time_str": "02:10.128",
+      "text": "sternit fortem,",
+      "translation": "所击败的强者"
+    },
+    {
+      "time": 132.791,
+      "time_str": "02:12.791",
+      "text": "mecum omnes plangite!",
+      "translation": "皆与我一同饮泣悲叹吧!"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "布兰诗歌 - 群星.lrc"
+}

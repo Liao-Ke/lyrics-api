@@ -1,0 +1,322 @@
+{
+  "title": "Counting Sheep",
+  "title_raw": "Counting Sheep",
+  "version": null,
+  "artist": "SAFIA",
+  "group_key": "counting sheep|safia",
+  "writers": {
+    "lyricist": "Benjamin Woolner",
+    "composer": "SAFIA",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.955,
+      "time_str": "00:09.955",
+      "text": "I never make a sound",
+      "translation": "我从不敢发出声响"
+    },
+    {
+      "time": 12.422,
+      "time_str": "00:12.422",
+      "text": "Fingers crossed I shut my mouth",
+      "translation": "双手紧握 紧闭嘴巴"
+    },
+    {
+      "time": 15.489,
+      "time_str": "00:15.489",
+      "text": "Thoughts they're creeping through my teeth",
+      "translation": "想法在我齿间滋长"
+    },
+    {
+      "time": 19.974,
+      "time_str": "00:19.974",
+      "text": "Drip, drop, the night is loud",
+      "translation": "嘀 嗒 夜太喧嚣"
+    },
+    {
+      "time": 22.508,
+      "time_str": "00:22.508",
+      "text": "Silence seems to drown me out",
+      "translation": "寂静快要把我淹没"
+    },
+    {
+      "time": 25.025,
+      "time_str": "00:25.025",
+      "text": "Box my thoughts and give me some relief",
+      "translation": "禁锢我的烦恼 好让我喘口气"
+    },
+    {
+      "time": 29.996,
+      "time_str": "00:29.996",
+      "text": "I wanna let you down",
+      "translation": "恐怕是我让你有失所望"
+    },
+    {
+      "time": 32.679,
+      "time_str": "00:32.679",
+      "text": "Make you toss and turn around",
+      "translation": "让你辗转反侧 不得安眠"
+    },
+    {
+      "time": 35.497,
+      "time_str": "00:35.497",
+      "text": "Won't you give me what I need",
+      "translation": "你又可否给我欲求之物"
+    },
+    {
+      "time": 40.314,
+      "time_str": "00:40.314",
+      "text": "I wanna let you down",
+      "translation": "恐怕是我让你有失所望"
+    },
+    {
+      "time": 42.548,
+      "time_str": "00:42.548",
+      "text": "And I'm always lost and never found",
+      "translation": "我总是在迷失 从未寻得自我"
+    },
+    {
+      "time": 45.782,
+      "time_str": "00:45.782",
+      "text": "Won't you give me what I need",
+      "translation": "你又可否给我欲求之物"
+    },
+    {
+      "time": 50.349,
+      "time_str": "00:50.349",
+      "text": "Tick, tock, make me creep",
+      "translation": "嘀 嗒  让我辗转反侧"
+    },
+    {
+      "time": 52.883,
+      "time_str": "00:52.883",
+      "text": "Never ending counting sheep",
+      "translation": "数而不尽的绵羊"
+    },
+    {
+      "time": 56.733,
+      "time_str": "00:56.733",
+      "text": "Never get no sleep",
+      "translation": "永无止境的失眠"
+    },
+    {
+      "time": 60.518,
+      "time_str": "01:00.518",
+      "text": "Tick, tock, make me creep",
+      "translation": "嘀 嗒  让我辗转反侧"
+    },
+    {
+      "time": 62.918,
+      "time_str": "01:02.918",
+      "text": "Never ending counting sheep",
+      "translation": "数而不尽的绵羊"
+    },
+    {
+      "time": 66.985,
+      "time_str": "01:06.985",
+      "text": "Never get no sleep",
+      "translation": "永无止境的失眠"
+    },
+    {
+      "time": 73.388,
+      "time_str": "01:13.388",
+      "text": "Do you know what the most frightening thing in the world is?",
+      "translation": "你知道世上最可怕的是什么吗"
+    },
+    {
+      "time": 76.715,
+      "time_str": "01:16.715",
+      "text": "It's fear",
+      "translation": "是恐惧"
+    },
+    {
+      "time": 77.965,
+      "time_str": "01:17.965",
+      "text": "Did you plan on going to bed in the near future?",
+      "translation": "晚点你会上床睡觉吗"
+    },
+    {
+      "time": 80.597,
+      "time_str": "01:20.597",
+      "text": "No!",
+      "translation": "不会"
+    },
+    {
+      "time": 81.913,
+      "time_str": "01:21.913",
+      "text": "There's nothing to worry about",
+      "translation": "没啥好担心的"
+    },
+    {
+      "time": 84.363,
+      "time_str": "01:24.363",
+      "text": "you're going to be just fine",
+      "translation": "你会一切安好"
+    },
+    {
+      "time": 86.631,
+      "time_str": "01:26.631",
+      "text": "But whatever you do",
+      "translation": "但无论如何"
+    },
+    {
+      "time": 88.299,
+      "time_str": "01:28.299",
+      "text": "Don't fall asleep",
+      "translation": "不要睡去"
+    },
+    {
+      "time": 93.248,
+      "time_str": "01:33.248",
+      "text": "Don’t drop the curtains down",
+      "translation": "别把窗帘放下来"
+    },
+    {
+      "time": 95.899,
+      "time_str": "01:35.899",
+      "text": "Darkness is the whole surround",
+      "translation": "此夜被黑暗所围绕"
+    },
+    {
+      "time": 98.716,
+      "time_str": "01:38.716",
+      "text": "My mind is lurking at my feet",
+      "translation": "我思绪暗潜在脚边"
+    },
+    {
+      "time": 103.493,
+      "time_str": "01:43.493",
+      "text": "Criss, Cross",
+      "translation": "纵横交错"
+    },
+    {
+      "time": 104.91,
+      "time_str": "01:44.910",
+      "text": "The night is sour",
+      "translation": "酸涩之夜"
+    },
+    {
+      "time": 105.944,
+      "time_str": "01:45.944",
+      "text": "Pupils fixed on every hour",
+      "translation": "瞳孔一刻也没停止转动"
+    },
+    {
+      "time": 108.644,
+      "time_str": "01:48.644",
+      "text": "Sunrise is the only thing that’s sweet",
+      "translation": "阳光是唯一安心之物"
+    },
+    {
+      "time": 113.428,
+      "time_str": "01:53.428",
+      "text": "I wanna let you down",
+      "translation": "恐怕是我让你有失所望"
+    },
+    {
+      "time": 115.929,
+      "time_str": "01:55.929",
+      "text": "Make you toss and turn around",
+      "translation": "让你辗转反侧 不得安眠"
+    },
+    {
+      "time": 118.796,
+      "time_str": "01:58.796",
+      "text": "Won’t you give me what I need",
+      "translation": "你又可否给我欲求之物"
+    },
+    {
+      "time": 123.664,
+      "time_str": "02:03.664",
+      "text": "I wanna let you down",
+      "translation": "恐怕是我让你有失所望"
+    },
+    {
+      "time": 125.714,
+      "time_str": "02:05.714",
+      "text": "And I'm always lost and never found",
+      "translation": "我总是在迷失 从未寻得自我"
+    },
+    {
+      "time": 129.081,
+      "time_str": "02:09.081",
+      "text": "Won’t you give me what I need",
+      "translation": "你又可否给我欲求之物"
+    },
+    {
+      "time": 133.833,
+      "time_str": "02:13.833",
+      "text": "Tick, tock, make me creep",
+      "translation": "嘀 嗒  让我辗转反侧"
+    },
+    {
+      "time": 136.282,
+      "time_str": "02:16.282",
+      "text": "Never ending counting sheep",
+      "translation": "数而不尽的绵羊"
+    },
+    {
+      "time": 140.1,
+      "time_str": "02:20.100",
+      "text": "Never get no sleep",
+      "translation": "永无止境的失眠"
+    },
+    {
+      "time": 143.868,
+      "time_str": "02:23.868",
+      "text": "Tick, tock, make me creep",
+      "translation": "嘀 嗒  让我辗转反侧"
+    },
+    {
+      "time": 146.501,
+      "time_str": "02:26.501",
+      "text": "Never ending counting sheep",
+      "translation": "数而不尽的绵羊"
+    },
+    {
+      "time": 150.102,
+      "time_str": "02:30.102",
+      "text": "Never get no sleep",
+      "translation": "永无止境的失眠"
+    },
+    {
+      "time": 153.985,
+      "time_str": "02:33.985",
+      "text": "Tick, tock, make me creep",
+      "translation": "嘀 嗒  让我辗转反侧"
+    },
+    {
+      "time": 156.452,
+      "time_str": "02:36.452",
+      "text": "Never ending counting sheep",
+      "translation": "数而不尽的绵羊"
+    },
+    {
+      "time": 160.253,
+      "time_str": "02:40.253",
+      "text": "Never get no sleep",
+      "translation": "永无止境的失眠"
+    },
+    {
+      "time": 163.921,
+      "time_str": "02:43.921",
+      "text": "Tick, tock, make me creep",
+      "translation": "嘀 嗒  让我辗转反侧"
+    },
+    {
+      "time": 166.604,
+      "time_str": "02:46.604",
+      "text": "Never ending counting sheep",
+      "translation": "数而不尽的绵羊"
+    },
+    {
+      "time": 170.439,
+      "time_str": "02:50.439",
+      "text": "Never get no sleep",
+      "translation": "永无止境的失眠"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Counting Sheep - SAFIA.lrc"
+}

@@ -1,0 +1,316 @@
+{
+  "title": "大哥",
+  "title_raw": "大哥",
+  "version": null,
+  "artist": "卫兰",
+  "group_key": "大哥|卫兰",
+  "writers": {
+    "lyricist": null,
+    "composer": "ROBERT LAY",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 20.948,
+      "time_str": "00:20.948",
+      "text": "如果兄妹相称太多",
+      "translation": null
+    },
+    {
+      "time": 26.192,
+      "time_str": "00:26.192",
+      "text": "醒不起喜欢我",
+      "translation": null
+    },
+    {
+      "time": 28.957,
+      "time_str": "00:28.957",
+      "text": "快研究和我这异性拍拖",
+      "translation": null
+    },
+    {
+      "time": 35.195,
+      "time_str": "00:35.195",
+      "text": "讹称知己的真太多",
+      "translation": null
+    },
+    {
+      "time": 40.45,
+      "time_str": "00:40.450",
+      "text": "当女共男未变爱侣",
+      "translation": null
+    },
+    {
+      "time": 44.196,
+      "time_str": "00:44.196",
+      "text": "不吻过自然没结果",
+      "translation": null
+    },
+    {
+      "time": 49.19,
+      "time_str": "00:49.190",
+      "text": "没有好感怎会相亲相爱",
+      "translation": null
+    },
+    {
+      "time": 53.698,
+      "time_str": "00:53.698",
+      "text": "大哥只是掩饰",
+      "translation": null
+    },
+    {
+      "time": 56.632,
+      "time_str": "00:56.632",
+      "text": "能做对爱侣",
+      "translation": null
+    },
+    {
+      "time": 58.636,
+      "time_str": "00:58.636",
+      "text": "堕落成朋友谁心息",
+      "translation": null
+    },
+    {
+      "time": 64.631,
+      "time_str": "01:04.631",
+      "text": "我要爱情不需要登对",
+      "translation": null
+    },
+    {
+      "time": 68.135,
+      "time_str": "01:08.135",
+      "text": "不需得你允许",
+      "translation": null
+    },
+    {
+      "time": 71.13,
+      "time_str": "01:11.130",
+      "text": "兄妹真有趣",
+      "translation": null
+    },
+    {
+      "time": 72.885,
+      "time_str": "01:12.885",
+      "text": "不需要分居",
+      "translation": null
+    },
+    {
+      "time": 75.883,
+      "time_str": "01:15.883",
+      "text": "忘记辈份再追",
+      "translation": null
+    },
+    {
+      "time": 79.14,
+      "time_str": "01:19.140",
+      "text": "我要爱情摧毁世交",
+      "translation": null
+    },
+    {
+      "time": 81.886,
+      "time_str": "01:21.886",
+      "text": "也不失一个壮举",
+      "translation": null
+    },
+    {
+      "time": 85.143,
+      "time_str": "01:25.143",
+      "text": "相恋的证据",
+      "translation": null
+    },
+    {
+      "time": 87.129,
+      "time_str": "01:27.129",
+      "text": "假使要争取",
+      "translation": null
+    },
+    {
+      "time": 90.142,
+      "time_str": "01:30.142",
+      "text": "唯有约定和大哥喝醉",
+      "translation": null
+    },
+    {
+      "time": 106.63,
+      "time_str": "01:46.630",
+      "text": "曾经想手执一柄枪",
+      "translation": null
+    },
+    {
+      "time": 112.127,
+      "time_str": "01:52.127",
+      "text": "想逼供你一趟",
+      "translation": null
+    },
+    {
+      "time": 114.632,
+      "time_str": "01:54.632",
+      "text": "我和你无爱谁没有智商",
+      "translation": null
+    },
+    {
+      "time": 120.885,
+      "time_str": "02:00.885",
+      "text": "如果恋爱必须创伤",
+      "translation": null
+    },
+    {
+      "time": 125.889,
+      "time_str": "02:05.889",
+      "text": "想你亦明白到我俩",
+      "translation": null
+    },
+    {
+      "time": 129.633,
+      "time_str": "02:09.633",
+      "text": "需开心都也受够伤",
+      "translation": null
+    },
+    {
+      "time": 134.38,
+      "time_str": "02:14.380",
+      "text": "没有好感怎会相亲相爱",
+      "translation": null
+    },
+    {
+      "time": 138.873,
+      "time_str": "02:18.873",
+      "text": "大哥只是掩饰",
+      "translation": null
+    },
+    {
+      "time": 141.879,
+      "time_str": "02:21.879",
+      "text": "能做对爱侣",
+      "translation": null
+    },
+    {
+      "time": 143.878,
+      "time_str": "02:23.878",
+      "text": "堕落成朋友谁心息",
+      "translation": null
+    },
+    {
+      "time": 149.885,
+      "time_str": "02:29.885",
+      "text": "我要爱情不需要登对",
+      "translation": null
+    },
+    {
+      "time": 152.872,
+      "time_str": "02:32.872",
+      "text": "不需得你允许",
+      "translation": null
+    },
+    {
+      "time": 155.876,
+      "time_str": "02:35.876",
+      "text": "兄妹真有趣",
+      "translation": null
+    },
+    {
+      "time": 157.623,
+      "time_str": "02:37.623",
+      "text": "不需要分居",
+      "translation": null
+    },
+    {
+      "time": 160.634,
+      "time_str": "02:40.634",
+      "text": "忘记辈份再追",
+      "translation": null
+    },
+    {
+      "time": 163.624,
+      "time_str": "02:43.624",
+      "text": "我要爱情摧毁世交",
+      "translation": null
+    },
+    {
+      "time": 166.378,
+      "time_str": "02:46.378",
+      "text": "也不失一个壮举",
+      "translation": null
+    },
+    {
+      "time": 169.623,
+      "time_str": "02:49.623",
+      "text": "相恋的证据",
+      "translation": null
+    },
+    {
+      "time": 171.632,
+      "time_str": "02:51.632",
+      "text": "假使要争取",
+      "translation": null
+    },
+    {
+      "time": 174.372,
+      "time_str": "02:54.372",
+      "text": "唯有约定和大哥喝醉",
+      "translation": null
+    },
+    {
+      "time": 195.069,
+      "time_str": "03:15.069",
+      "text": "我要爱情不需要登对",
+      "translation": null
+    },
+    {
+      "time": 198.067,
+      "time_str": "03:18.067",
+      "text": "不需得你允许",
+      "translation": null
+    },
+    {
+      "time": 201.071,
+      "time_str": "03:21.071",
+      "text": "兄妹真有趣",
+      "translation": null
+    },
+    {
+      "time": 202.819,
+      "time_str": "03:22.819",
+      "text": "不需要分居",
+      "translation": null
+    },
+    {
+      "time": 205.808,
+      "time_str": "03:25.808",
+      "text": "忘记辈份再追",
+      "translation": null
+    },
+    {
+      "time": 208.817,
+      "time_str": "03:28.817",
+      "text": "我要爱情摧毁世交",
+      "translation": null
+    },
+    {
+      "time": 211.516,
+      "time_str": "03:31.516",
+      "text": "也不失一个壮举",
+      "translation": null
+    },
+    {
+      "time": 214.754,
+      "time_str": "03:34.754",
+      "text": "相恋的证据",
+      "translation": null
+    },
+    {
+      "time": 216.504,
+      "time_str": "03:36.504",
+      "text": "假使要争取",
+      "translation": null
+    },
+    {
+      "time": 219.516,
+      "time_str": "03:39.516",
+      "text": "唯有约定和大哥喝醉",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "大哥 - 卫兰.lrc"
+}

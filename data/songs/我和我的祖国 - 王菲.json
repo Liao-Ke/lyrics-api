@@ -1,0 +1,100 @@
+{
+  "title": "我和我的祖国",
+  "title_raw": "我和我的祖国",
+  "version": null,
+  "artist": "王菲",
+  "group_key": "我和我的祖国|王菲",
+  "writers": {
+    "lyricist": "张藜",
+    "composer": "秦咏诚",
+    "arranger": "常石磊"
+  },
+  "lyrics": [
+    {
+      "time": 26.886,
+      "time_str": "00:26.886",
+      "text": "我和我的祖国一刻也不能分割",
+      "translation": null
+    },
+    {
+      "time": 35.486,
+      "time_str": "00:35.486",
+      "text": "无论我走到哪里都流出一首赞歌",
+      "translation": null
+    },
+    {
+      "time": 44.196,
+      "time_str": "00:44.196",
+      "text": "我歌唱每一座高山我歌唱每一条河",
+      "translation": null
+    },
+    {
+      "time": 53.136,
+      "time_str": "00:53.136",
+      "text": "袅袅炊烟小小村落路上一道辙",
+      "translation": null
+    },
+    {
+      "time": 64.352,
+      "time_str": "01:04.352",
+      "text": "啦......",
+      "translation": null
+    },
+    {
+      "time": 75.141,
+      "time_str": "01:15.141",
+      "text": "你用你那母亲的脉搏和我诉说",
+      "translation": null
+    },
+    {
+      "time": 90.514,
+      "time_str": "01:30.514",
+      "text": "我的祖国和我像海和浪花一朵",
+      "translation": null
+    },
+    {
+      "time": 99.463,
+      "time_str": "01:39.463",
+      "text": "浪是海的赤子海是那浪的依托",
+      "translation": null
+    },
+    {
+      "time": 108.13,
+      "time_str": "01:48.130",
+      "text": "每当大海在微笑我就是笑的旋涡",
+      "translation": null
+    },
+    {
+      "time": 116.663,
+      "time_str": "01:56.663",
+      "text": "我分担着海的忧愁分享海的欢乐",
+      "translation": null
+    },
+    {
+      "time": 127.83,
+      "time_str": "02:07.830",
+      "text": "啦…..",
+      "translation": null
+    },
+    {
+      "time": 138.896,
+      "time_str": "02:18.896",
+      "text": "永远给我碧浪清波心中的歌",
+      "translation": null
+    },
+    {
+      "time": 149.83,
+      "time_str": "02:29.830",
+      "text": "啦…….",
+      "translation": null
+    },
+    {
+      "time": 160.796,
+      "time_str": "02:40.796",
+      "text": "永远给我碧浪清波心中的歌",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我和我的祖国 - 王菲.lrc"
+}

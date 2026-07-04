@@ -1,0 +1,244 @@
+{
+  "title": "巾帼天门",
+  "title_raw": "巾帼天门",
+  "version": null,
+  "artist": "于毅",
+  "group_key": "巾帼天门|于毅",
+  "writers": {
+    "lyricist": "徐杰",
+    "composer": "蔡华垒",
+    "arranger": "周家騵"
+  },
+  "lyrics": [
+    {
+      "time": 43.28,
+      "time_str": "00:43.280",
+      "text": "男：狼烟似血烧 战鼓若心跳",
+      "translation": null
+    },
+    {
+      "time": 46.42,
+      "time_str": "00:46.420",
+      "text": "万马丛横刀 你仰天长啸",
+      "translation": null
+    },
+    {
+      "time": 49.74,
+      "time_str": "00:49.740",
+      "text": "胡儿略地 将军恨不消",
+      "translation": null
+    },
+    {
+      "time": 52.75,
+      "time_str": "00:52.750",
+      "text": "桃花深夜无寐 蹄声雨 敲",
+      "translation": null
+    },
+    {
+      "time": 56.37,
+      "time_str": "00:56.370",
+      "text": "江山画飘摇 边塞虎狼嚎",
+      "translation": null
+    },
+    {
+      "time": 59.56,
+      "time_str": "00:59.560",
+      "text": "披戎装扬眉 你剑锋出 鞘",
+      "translation": null
+    },
+    {
+      "time": 62.86,
+      "time_str": "01:02.860",
+      "text": "雄关雁门 尘暗旧征袍",
+      "translation": null
+    },
+    {
+      "time": 66.06,
+      "time_str": "01:06.060",
+      "text": "纛旗号令风萧萧",
+      "translation": null
+    },
+    {
+      "time": 68.99,
+      "time_str": "01:08.990",
+      "text": "旦角：桃花 马上威风凛凛 敌血飞溅石榴裙",
+      "translation": null
+    },
+    {
+      "time": 75.75,
+      "time_str": "01:15.750",
+      "text": "有生之日 责任应尽 一剑当万兵",
+      "translation": null
+    },
+    {
+      "time": 81.5,
+      "time_str": "01:21.500",
+      "text": "回望汴京故里父老",
+      "translation": null
+    },
+    {
+      "time": 85.37,
+      "time_str": "01:25.370",
+      "text": "男：殷殷深情路迢迢",
+      "translation": null
+    },
+    {
+      "time": 88.27,
+      "time_str": "01:28.270",
+      "text": "旦角：万斤之重千仞之高",
+      "translation": null
+    },
+    {
+      "time": 91.78,
+      "time_str": "01:31.780",
+      "text": "男：家国霜雪一肩挑",
+      "translation": null
+    },
+    {
+      "time": 94.85,
+      "time_str": "01:34.850",
+      "text": "旦角：决战天门英豪",
+      "translation": null
+    },
+    {
+      "time": 98.43,
+      "time_str": "01:38.430",
+      "text": "男：拳拳赤胆浪滔滔",
+      "translation": null
+    },
+    {
+      "time": 101.12,
+      "time_str": "01:41.120",
+      "text": "千军逞一勇万夫麾下招",
+      "translation": null
+    },
+    {
+      "time": 104.86,
+      "time_str": "01:44.860",
+      "text": "生死 往兮你笑傲",
+      "translation": null
+    },
+    {
+      "time": 135.42,
+      "time_str": "02:15.420",
+      "text": "男：江山画飘摇 边塞虎狼嚎",
+      "translation": null
+    },
+    {
+      "time": 138.57,
+      "time_str": "02:18.570",
+      "text": "披戎装扬眉 你剑锋出 鞘",
+      "translation": null
+    },
+    {
+      "time": 141.8,
+      "time_str": "02:21.800",
+      "text": "雄关雁门 尘暗旧征袍",
+      "translation": null
+    },
+    {
+      "time": 145.07,
+      "time_str": "02:25.070",
+      "text": "纛旗号令风萧萧",
+      "translation": null
+    },
+    {
+      "time": 147.69,
+      "time_str": "02:27.690",
+      "text": "旦角：桃花 马上威风凛凛 敌血飞溅石榴裙",
+      "translation": null
+    },
+    {
+      "time": 154.58,
+      "time_str": "02:34.580",
+      "text": "有生之日 责任应尽 一剑当万兵",
+      "translation": null
+    },
+    {
+      "time": 160.31,
+      "time_str": "02:40.310",
+      "text": "回望汴京故里父老",
+      "translation": null
+    },
+    {
+      "time": 164.11,
+      "time_str": "02:44.110",
+      "text": "男：殷殷深情路迢迢",
+      "translation": null
+    },
+    {
+      "time": 166.96,
+      "time_str": "02:46.960",
+      "text": "旦角：万斤之重千仞之高",
+      "translation": null
+    },
+    {
+      "time": 170.74,
+      "time_str": "02:50.740",
+      "text": "男：家国霜雪一肩挑",
+      "translation": null
+    },
+    {
+      "time": 173.71,
+      "time_str": "02:53.710",
+      "text": "旦角：决战天门英豪",
+      "translation": null
+    },
+    {
+      "time": 177.27,
+      "time_str": "02:57.270",
+      "text": "男：拳拳赤胆浪滔滔",
+      "translation": null
+    },
+    {
+      "time": 179.98,
+      "time_str": "02:59.980",
+      "text": "千军逞一勇万夫麾下招",
+      "translation": null
+    },
+    {
+      "time": 183.76,
+      "time_str": "03:03.760",
+      "text": "生死 往兮你笑傲",
+      "translation": null
+    },
+    {
+      "time": 213.9,
+      "time_str": "03:33.900",
+      "text": "旦角 : 于毅",
+      "translation": null
+    },
+    {
+      "time": 215.26,
+      "time_str": "03:35.260",
+      "text": "二胡 : 金玥",
+      "translation": null
+    },
+    {
+      "time": 215.72,
+      "time_str": "03:35.720",
+      "text": "监唱/混音/母带：范川哲",
+      "translation": null
+    },
+    {
+      "time": 216.63,
+      "time_str": "03:36.630",
+      "text": "封面设计/宣传：王宁宁",
+      "translation": null
+    },
+    {
+      "time": 217.08,
+      "time_str": "03:37.080",
+      "text": "统筹：李鑫",
+      "translation": null
+    },
+    {
+      "time": 217.53,
+      "time_str": "03:37.530",
+      "text": "音乐版权：妙音音乐",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "巾帼天门 - 于毅.lrc"
+}

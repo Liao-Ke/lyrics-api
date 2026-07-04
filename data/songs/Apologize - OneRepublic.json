@@ -1,0 +1,160 @@
+{
+  "title": "Apologize",
+  "title_raw": "Apologize",
+  "version": null,
+  "artist": "OneRepublic",
+  "group_key": "apologize|onerepublic",
+  "writers": {
+    "lyricist": "Ryan Tedder",
+    "composer": "Ryan Tedder",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 32.209,
+      "time_str": "00:32.209",
+      "text": "I'm holding on your rope,",
+      "translation": "我正紧抓着你给的希望之索 拥抱着爱情的美梦"
+    },
+    {
+      "time": 35.039,
+      "time_str": "00:35.039",
+      "text": "Got me ten feet off the ground",
+      "translation": "使我如双脚离地十尺高"
+    },
+    {
+      "time": 41.159,
+      "time_str": "00:41.159",
+      "text": "And I'm hearing what you say but I just can't make a sound",
+      "translation": "我正倾听你的说法 但我沉默不语"
+    },
+    {
+      "time": 49.269,
+      "time_str": "00:49.269",
+      "text": "You tell me that you need me",
+      "translation": "你告诉我你只是需要我 而不是爱情"
+    },
+    {
+      "time": 51.789,
+      "time_str": "00:51.789",
+      "text": "Then you go and cut me down, but wait",
+      "translation": "然后你要离去 切断我原持守着爱的希望 只能空等待"
+    },
+    {
+      "time": 57.659,
+      "time_str": "00:57.659",
+      "text": "You tell me that you're sorry",
+      "translation": "你向我表示你的歉意"
+    },
+    {
+      "time": 59.939,
+      "time_str": "00:59.939",
+      "text": "Didn't think I'd turn around, and say",
+      "translation": "没想到我会转身怒然地说"
+    },
+    {
+      "time": 65.739,
+      "time_str": "01:05.739",
+      "text": "that It's too late to apologize, it's too late",
+      "translation": "你的道歉太迟了 已经太迟了"
+    },
+    {
+      "time": 74.589,
+      "time_str": "01:14.589",
+      "text": "I said it's too late to apologize, it's too late",
+      "translation": "你的道歉太迟了 已经太迟了"
+    },
+    {
+      "time": 90.449,
+      "time_str": "01:30.449",
+      "text": "I'd take another chance, take a fall",
+      "translation": "我还是愿再次冒险 坠入深渊"
+    },
+    {
+      "time": 94.149,
+      "time_str": "01:34.149",
+      "text": "Take a shot for you",
+      "translation": "肝脑涂地只为你一人"
+    },
+    {
+      "time": 99.379,
+      "time_str": "01:39.379",
+      "text": "And I need you like a heart needs a beat",
+      "translation": "我是如此需要你 好似心脏需跳动般"
+    },
+    {
+      "time": 101.988,
+      "time_str": "01:41.988",
+      "text": "But it's nothing new",
+      "translation": "但这并无新意"
+    },
+    {
+      "time": 107.119,
+      "time_str": "01:47.119",
+      "text": "I loved you with a fire red",
+      "translation": "我如同红色火焰般热情地爱你"
+    },
+    {
+      "time": 110.428,
+      "time_str": "01:50.428",
+      "text": "Now it's turning blue, and you say",
+      "translation": "而现在火焰正逐渐熄灭 而你只说"
+    },
+    {
+      "time": 115.419,
+      "time_str": "01:55.419",
+      "text": "\"Sorry\" like the angel heaven let me think was you",
+      "translation": "「抱歉」如天使般 天堂让我想到你如天使的化身"
+    },
+    {
+      "time": 120.869,
+      "time_str": "02:00.869",
+      "text": "But I'm afraid",
+      "translation": "但是我恐怕"
+    },
+    {
+      "time": 123.639,
+      "time_str": "02:03.639",
+      "text": "It's too late to apologize, it's too late",
+      "translation": "你的道歉太迟了 已经太迟了"
+    },
+    {
+      "time": 131.5,
+      "time_str": "02:11.500",
+      "text": "I said it's too late to apologize, it's too late",
+      "translation": "你的道歉太迟了 已经太迟了"
+    },
+    {
+      "time": 157.37,
+      "time_str": "02:37.370",
+      "text": "It's too late to apologize, it's too late",
+      "translation": "你的道歉太迟了 已经太迟了"
+    },
+    {
+      "time": 166.05,
+      "time_str": "02:46.050",
+      "text": "I said it's too late to apologize, it's too late",
+      "translation": "你的道歉太迟了 已经太迟了"
+    },
+    {
+      "time": 174.07,
+      "time_str": "02:54.070",
+      "text": "I said it's too late to apologize, yeah",
+      "translation": "你的道歉太迟了 已经太迟了"
+    },
+    {
+      "time": 182.47,
+      "time_str": "03:02.470",
+      "text": "I said it's too late to apologize, yeah",
+      "translation": "我说道歉已经太迟 已经太迟"
+    },
+    {
+      "time": 191.04,
+      "time_str": "03:11.040",
+      "text": "I'm holding on your rope, got me ten feet off the ground",
+      "translation": "我正紧抓着你给的希望之索 拥抱着爱情的美梦  使我如双脚离地十尺高"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Apologize - OneRepublic.lrc"
+}

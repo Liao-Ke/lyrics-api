@@ -1,0 +1,280 @@
+{
+  "title": "爱情抗体",
+  "title_raw": "爱情抗体",
+  "version": null,
+  "artist": "许慧欣",
+  "group_key": "爱情抗体|许慧欣",
+  "writers": {
+    "lyricist": "易家扬",
+    "composer": "Yoon Gun",
+    "arranger": "Kim Chang Kwon"
+  },
+  "lyrics": [
+    {
+      "time": 19.49,
+      "time_str": "00:19.490",
+      "text": "我不知道今天星期几",
+      "translation": null
+    },
+    {
+      "time": 22.18,
+      "time_str": "00:22.180",
+      "text": "是个坏天气",
+      "translation": null
+    },
+    {
+      "time": 24.69,
+      "time_str": "00:24.690",
+      "text": "一年又一天",
+      "translation": null
+    },
+    {
+      "time": 26.8,
+      "time_str": "00:26.800",
+      "text": "忽然又想到你",
+      "translation": null
+    },
+    {
+      "time": 29.67,
+      "time_str": "00:29.670",
+      "text": "翻翻小说 弹一弹钢琴",
+      "translation": null
+    },
+    {
+      "time": 34.33,
+      "time_str": "00:34.330",
+      "text": "顺手回几封电子信",
+      "translation": null
+    },
+    {
+      "time": 39.24,
+      "time_str": "00:39.240",
+      "text": "我在捷运线的车子里",
+      "translation": null
+    },
+    {
+      "time": 41.96,
+      "time_str": "00:41.960",
+      "text": "像低空飞行",
+      "translation": null
+    },
+    {
+      "time": 44.53,
+      "time_str": "00:44.530",
+      "text": "飞过这城市",
+      "translation": null
+    },
+    {
+      "time": 46.59,
+      "time_str": "00:46.590",
+      "text": "才不管目的地",
+      "translation": null
+    },
+    {
+      "time": 49.13,
+      "time_str": "00:49.130",
+      "text": "那些我和你有过的事情",
+      "translation": null
+    },
+    {
+      "time": 54.2,
+      "time_str": "00:54.200",
+      "text": "都像逃走的水蒸气",
+      "translation": null
+    },
+    {
+      "time": 58.44,
+      "time_str": "00:58.440",
+      "text": "I’ll be leaving you",
+      "translation": null
+    },
+    {
+      "time": 61.24,
+      "time_str": "01:01.240",
+      "text": "没有什么原因",
+      "translation": null
+    },
+    {
+      "time": 64.02,
+      "time_str": "01:04.020",
+      "text": "爱情有时候是恶作剧",
+      "translation": null
+    },
+    {
+      "time": 68.27,
+      "time_str": "01:08.270",
+      "text": "我要自己带着孤单抗体",
+      "translation": null
+    },
+    {
+      "time": 75.16,
+      "time_str": "01:15.160",
+      "text": "学习忘记",
+      "translation": null
+    },
+    {
+      "time": 76.85,
+      "time_str": "01:16.850",
+      "text": "我在捷运线的车子里",
+      "translation": null
+    },
+    {
+      "time": 79.16,
+      "time_str": "01:19.160",
+      "text": "像低空飞行",
+      "translation": null
+    },
+    {
+      "time": 81.65,
+      "time_str": "01:21.650",
+      "text": "飞过这城市",
+      "translation": null
+    },
+    {
+      "time": 83.86,
+      "time_str": "01:23.860",
+      "text": "才不管目的地",
+      "translation": null
+    },
+    {
+      "time": 86.29,
+      "time_str": "01:26.290",
+      "text": "那些我和你有过的事情",
+      "translation": null
+    },
+    {
+      "time": 91.24,
+      "time_str": "01:31.240",
+      "text": "都像逃走的水蒸气",
+      "translation": null
+    },
+    {
+      "time": 95.61,
+      "time_str": "01:35.610",
+      "text": "I’ll be leaving you",
+      "translation": null
+    },
+    {
+      "time": 98.35,
+      "time_str": "01:38.350",
+      "text": "没有什么原因",
+      "translation": null
+    },
+    {
+      "time": 101.15,
+      "time_str": "01:41.150",
+      "text": "爱情有时候是恶作剧",
+      "translation": null
+    },
+    {
+      "time": 105.48,
+      "time_str": "01:45.480",
+      "text": "我要自己带着孤单抗体",
+      "translation": null
+    },
+    {
+      "time": 112.23,
+      "time_str": "01:52.230",
+      "text": "学习忘记",
+      "translation": null
+    },
+    {
+      "time": 133.4,
+      "time_str": "02:13.400",
+      "text": "我会调整呼吸",
+      "translation": null
+    },
+    {
+      "time": 135.58,
+      "time_str": "02:15.580",
+      "text": "我会鼓起勇气",
+      "translation": null
+    },
+    {
+      "time": 138.6,
+      "time_str": "02:18.600",
+      "text": "爱情很美丽",
+      "translation": null
+    },
+    {
+      "time": 140.47,
+      "time_str": "02:20.470",
+      "text": "可是也很无情",
+      "translation": null
+    },
+    {
+      "time": 143.54,
+      "time_str": "02:23.540",
+      "text": "我学会去用走迷宫的心情",
+      "translation": null
+    },
+    {
+      "time": 148.45,
+      "time_str": "02:28.450",
+      "text": "去挣脱那些回忆",
+      "translation": null
+    },
+    {
+      "time": 162.53,
+      "time_str": "02:42.530",
+      "text": "I’ll be leaving you",
+      "translation": null
+    },
+    {
+      "time": 165.14,
+      "time_str": "02:45.140",
+      "text": "没有什么原因",
+      "translation": null
+    },
+    {
+      "time": 167.93,
+      "time_str": "02:47.930",
+      "text": "爱情有时候是恶作剧",
+      "translation": null
+    },
+    {
+      "time": 172.24,
+      "time_str": "02:52.240",
+      "text": "我要自己带着孤单抗体",
+      "translation": null
+    },
+    {
+      "time": 179.03,
+      "time_str": "02:59.030",
+      "text": "学习忘记",
+      "translation": null
+    },
+    {
+      "time": 179.95,
+      "time_str": "02:59.950",
+      "text": "I’ll be leaving you",
+      "translation": null
+    },
+    {
+      "time": 182.49,
+      "time_str": "03:02.490",
+      "text": "没有什么原因",
+      "translation": null
+    },
+    {
+      "time": 185.11,
+      "time_str": "03:05.110",
+      "text": "爱情有时候是恶作剧",
+      "translation": null
+    },
+    {
+      "time": 189.62,
+      "time_str": "03:09.620",
+      "text": "我要自己带着孤单抗体",
+      "translation": null
+    },
+    {
+      "time": 196.33,
+      "time_str": "03:16.330",
+      "text": "学习忘记",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱情抗体 - 许慧欣.lrc"
+}

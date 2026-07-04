@@ -1,0 +1,286 @@
+{
+  "title": "枫",
+  "title_raw": "枫",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "枫|周杰伦",
+  "writers": {
+    "lyricist": "宋健彰",
+    "composer": "周杰伦",
+    "arranger": "钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "贝斯 : 陈任佑",
+      "translation": null
+    },
+    {
+      "time": 6.0,
+      "time_str": "00:06.000",
+      "text": "弦乐编写 : 钟兴民",
+      "translation": null
+    },
+    {
+      "time": 9.0,
+      "time_str": "00:09.000",
+      "text": "混音室 : ALFA STUDIO/杨大纬录音工作室",
+      "translation": null
+    },
+    {
+      "time": 18.11,
+      "time_str": "00:18.110",
+      "text": "乌云在我们心里搁下一块阴影",
+      "translation": null
+    },
+    {
+      "time": 25.59,
+      "time_str": "00:25.590",
+      "text": "我聆听沉寂已久的心情",
+      "translation": null
+    },
+    {
+      "time": 31.82,
+      "time_str": "00:31.820",
+      "text": "清晰透明 就像美丽的风景",
+      "translation": null
+    },
+    {
+      "time": 39.28,
+      "time_str": "00:39.280",
+      "text": "总在回忆里才看得清",
+      "translation": null
+    },
+    {
+      "time": 46.85,
+      "time_str": "00:46.850",
+      "text": "被伤透的心能不能够继续爱我",
+      "translation": null
+    },
+    {
+      "time": 53.85,
+      "time_str": "00:53.850",
+      "text": "我用力牵起没温度的双手",
+      "translation": null
+    },
+    {
+      "time": 60.32,
+      "time_str": "01:00.320",
+      "text": "过往温柔 已经被时间上锁",
+      "translation": null
+    },
+    {
+      "time": 67.7,
+      "time_str": "01:07.700",
+      "text": "只剩挥散不去的难过",
+      "translation": null
+    },
+    {
+      "time": 75.2,
+      "time_str": "01:15.200",
+      "text": "缓缓飘落的枫叶像思念",
+      "translation": null
+    },
+    {
+      "time": 80.48,
+      "time_str": "01:20.480",
+      "text": "我点燃烛火温暖岁末的秋天",
+      "translation": null
+    },
+    {
+      "time": 87.71,
+      "time_str": "01:27.710",
+      "text": "极光掠夺天边",
+      "translation": null
+    },
+    {
+      "time": 91.34,
+      "time_str": "01:31.340",
+      "text": "北风掠过想你的容颜",
+      "translation": null
+    },
+    {
+      "time": 95.69,
+      "time_str": "01:35.690",
+      "text": "我把爱烧成了落叶",
+      "translation": null
+    },
+    {
+      "time": 99.39,
+      "time_str": "01:39.390",
+      "text": "却换不回熟悉的那张脸",
+      "translation": null
+    },
+    {
+      "time": 103.64,
+      "time_str": "01:43.640",
+      "text": "缓缓飘落的枫叶像思念",
+      "translation": null
+    },
+    {
+      "time": 108.92,
+      "time_str": "01:48.920",
+      "text": "为何挽回要赶在冬天来之前",
+      "translation": null
+    },
+    {
+      "time": 116.22,
+      "time_str": "01:56.220",
+      "text": "爱你穿越时间",
+      "translation": null
+    },
+    {
+      "time": 119.89,
+      "time_str": "01:59.890",
+      "text": "两行来自秋末的眼泪",
+      "translation": null
+    },
+    {
+      "time": 124.24,
+      "time_str": "02:04.240",
+      "text": "让爱渗透了地面",
+      "translation": null
+    },
+    {
+      "time": 127.81,
+      "time_str": "02:07.810",
+      "text": "我要的只是你在我身边",
+      "translation": null
+    },
+    {
+      "time": 146.24,
+      "time_str": "02:26.240",
+      "text": "被伤透的心能不能够继续爱我",
+      "translation": null
+    },
+    {
+      "time": 153.44,
+      "time_str": "02:33.440",
+      "text": "我用力牵起没温度的双手",
+      "translation": null
+    },
+    {
+      "time": 159.86,
+      "time_str": "02:39.860",
+      "text": "过往温柔 已经被时间上锁",
+      "translation": null
+    },
+    {
+      "time": 167.35,
+      "time_str": "02:47.350",
+      "text": "只剩挥散不去的难过",
+      "translation": null
+    },
+    {
+      "time": 174.29,
+      "time_str": "02:54.290",
+      "text": "在山腰间飘逸的红雨",
+      "translation": null
+    },
+    {
+      "time": 181.28,
+      "time_str": "03:01.280",
+      "text": "随着北风凋零 我轻轻摇曳风铃",
+      "translation": null
+    },
+    {
+      "time": 188.87,
+      "time_str": "03:08.870",
+      "text": "想 唤醒被遗弃的爱情",
+      "translation": null
+    },
+    {
+      "time": 195.53,
+      "time_str": "03:15.530",
+      "text": "雪花已铺满了地",
+      "translation": null
+    },
+    {
+      "time": 199.6,
+      "time_str": "03:19.600",
+      "text": "生怕窗外枫叶已结成冰",
+      "translation": null
+    },
+    {
+      "time": 203.34,
+      "time_str": "03:23.340",
+      "text": "缓缓飘落的枫叶像思念",
+      "translation": null
+    },
+    {
+      "time": 208.92,
+      "time_str": "03:28.920",
+      "text": "我点燃烛火温暖岁末的秋天",
+      "translation": null
+    },
+    {
+      "time": 215.97,
+      "time_str": "03:35.970",
+      "text": "极光掠夺天边",
+      "translation": null
+    },
+    {
+      "time": 219.52,
+      "time_str": "03:39.520",
+      "text": "北风掠过想你的容颜",
+      "translation": null
+    },
+    {
+      "time": 223.98,
+      "time_str": "03:43.980",
+      "text": "我把爱烧成了落叶",
+      "translation": null
+    },
+    {
+      "time": 227.55,
+      "time_str": "03:47.550",
+      "text": "却换不回熟悉的那张脸",
+      "translation": null
+    },
+    {
+      "time": 231.89,
+      "time_str": "03:51.890",
+      "text": "缓缓飘落的枫叶像思念",
+      "translation": null
+    },
+    {
+      "time": 237.24,
+      "time_str": "03:57.240",
+      "text": "为何挽回要赶在冬天来之前",
+      "translation": null
+    },
+    {
+      "time": 244.47,
+      "time_str": "04:04.470",
+      "text": "爱你穿越时间",
+      "translation": null
+    },
+    {
+      "time": 248.0,
+      "time_str": "04:08.000",
+      "text": "两行来自秋末的眼泪",
+      "translation": null
+    },
+    {
+      "time": 257.99,
+      "time_str": "04:17.990",
+      "text": "让爱渗透了地面",
+      "translation": null
+    },
+    {
+      "time": 261.87,
+      "time_str": "04:21.870",
+      "text": "我要的只是你在我身边",
+      "translation": null
+    },
+    {
+      "time": 270.0,
+      "time_str": "04:30.000",
+      "text": "Programer：魏百谦",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "枫 - 周杰伦.lrc"
+}

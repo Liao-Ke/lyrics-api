@@ -1,0 +1,328 @@
+{
+  "title": "一个人",
+  "title_raw": "一个人",
+  "version": null,
+  "artist": "韩红",
+  "group_key": "一个人|韩红",
+  "writers": {
+    "lyricist": "韩红",
+    "composer": "韩红",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.58,
+      "time_str": "00:00.580",
+      "text": "韩红 - 一个人",
+      "translation": null
+    },
+    {
+      "time": 18.49,
+      "time_str": "00:18.490",
+      "text": "我一个人喝酒",
+      "translation": null
+    },
+    {
+      "time": 20.39,
+      "time_str": "00:20.390",
+      "text": "一个人踱步",
+      "translation": null
+    },
+    {
+      "time": 22.44,
+      "time_str": "00:22.440",
+      "text": "一个人面对这世界的残酷",
+      "translation": null
+    },
+    {
+      "time": 26.22,
+      "time_str": "00:26.220",
+      "text": "我把手插在兜里",
+      "translation": null
+    },
+    {
+      "time": 28.37,
+      "time_str": "00:28.370",
+      "text": "握紧拳头",
+      "translation": null
+    },
+    {
+      "time": 30.36,
+      "time_str": "00:30.360",
+      "text": "挥向那无情的夜空",
+      "translation": null
+    },
+    {
+      "time": 34.26,
+      "time_str": "00:34.260",
+      "text": "无数过往的岁月",
+      "translation": null
+    },
+    {
+      "time": 37.76,
+      "time_str": "00:37.760",
+      "text": "有温暖的跋涉也有冰冷的苟且",
+      "translation": null
+    },
+    {
+      "time": 42.18,
+      "time_str": "00:42.180",
+      "text": "在回忆的滚烫中 归去来兮",
+      "translation": null
+    },
+    {
+      "time": 50.09,
+      "time_str": "00:50.090",
+      "text": "现实狠狠击打着我的胸口",
+      "translation": null
+    },
+    {
+      "time": 53.69,
+      "time_str": "00:53.690",
+      "text": "我想说 眼前的我到底是谁",
+      "translation": null
+    },
+    {
+      "time": 58.14,
+      "time_str": "00:58.140",
+      "text": "面目全非了",
+      "translation": null
+    },
+    {
+      "time": 59.84,
+      "time_str": "00:59.840",
+      "text": "没了最初的样子了",
+      "translation": null
+    },
+    {
+      "time": 82.62,
+      "time_str": "01:22.620",
+      "text": "无数过往的岁月",
+      "translation": null
+    },
+    {
+      "time": 85.62,
+      "time_str": "01:25.620",
+      "text": "有温暖的溶解也有冰冷的苟且",
+      "translation": null
+    },
+    {
+      "time": 90.16,
+      "time_str": "01:30.160",
+      "text": "在回忆的滚烫中 归去来兮",
+      "translation": null
+    },
+    {
+      "time": 99.69,
+      "time_str": "01:39.690",
+      "text": "现实狠狠击打着我的伤口",
+      "translation": null
+    },
+    {
+      "time": 103.67,
+      "time_str": "01:43.670",
+      "text": "我想问眼前的人到底是谁",
+      "translation": null
+    },
+    {
+      "time": 107.92,
+      "time_str": "01:47.920",
+      "text": "面目全非了",
+      "translation": null
+    },
+    {
+      "time": 110.03,
+      "time_str": "01:50.030",
+      "text": "没了最初的样子",
+      "translation": null
+    },
+    {
+      "time": 112.08,
+      "time_str": "01:52.080",
+      "text": "尽管看起来 我很富有",
+      "translation": null
+    },
+    {
+      "time": 115.53,
+      "time_str": "01:55.530",
+      "text": "于是我 一个人喝酒",
+      "translation": null
+    },
+    {
+      "time": 118.33,
+      "time_str": "01:58.330",
+      "text": "一个人唱歌",
+      "translation": null
+    },
+    {
+      "time": 120.43,
+      "time_str": "02:00.430",
+      "text": "一个人面对这无聊的生活",
+      "translation": null
+    },
+    {
+      "time": 123.88,
+      "time_str": "02:03.880",
+      "text": "一个人买来面具",
+      "translation": null
+    },
+    {
+      "time": 126.23,
+      "time_str": "02:06.230",
+      "text": "假装着强悍",
+      "translation": null
+    },
+    {
+      "time": 128.44,
+      "time_str": "02:08.440",
+      "text": "笑着跳进人海里",
+      "translation": null
+    },
+    {
+      "time": 131.59,
+      "time_str": "02:11.590",
+      "text": "于是我 一个人喝酒",
+      "translation": null
+    },
+    {
+      "time": 134.29,
+      "time_str": "02:14.290",
+      "text": "一个人唱歌",
+      "translation": null
+    },
+    {
+      "time": 136.34,
+      "time_str": "02:16.340",
+      "text": "一个人面对这无聊的生活",
+      "translation": null
+    },
+    {
+      "time": 139.99,
+      "time_str": "02:19.990",
+      "text": "一个人买来面具",
+      "translation": null
+    },
+    {
+      "time": 142.24,
+      "time_str": "02:22.240",
+      "text": "假装着强悍",
+      "translation": null
+    },
+    {
+      "time": 144.34,
+      "time_str": "02:24.340",
+      "text": "笑着跳进人海里",
+      "translation": null
+    },
+    {
+      "time": 190.53,
+      "time_str": "03:10.530",
+      "text": "一个人买来面具",
+      "translation": null
+    },
+    {
+      "time": 192.48,
+      "time_str": "03:12.480",
+      "text": "假装着强悍",
+      "translation": null
+    },
+    {
+      "time": 194.43,
+      "time_str": "03:14.430",
+      "text": "笑着跳进人海里",
+      "translation": null
+    },
+    {
+      "time": 197.28,
+      "time_str": "03:17.280",
+      "text": "于是我 一个人喝酒",
+      "translation": null
+    },
+    {
+      "time": 200.33,
+      "time_str": "03:20.330",
+      "text": "一个人唱歌",
+      "translation": null
+    },
+    {
+      "time": 202.33,
+      "time_str": "03:22.330",
+      "text": "一个人面对这无聊的生活",
+      "translation": null
+    },
+    {
+      "time": 206.32,
+      "time_str": "03:26.320",
+      "text": "一个人买来面具",
+      "translation": null
+    },
+    {
+      "time": 208.27,
+      "time_str": "03:28.270",
+      "text": "假装着强悍",
+      "translation": null
+    },
+    {
+      "time": 210.42,
+      "time_str": "03:30.420",
+      "text": "笑着跳进人海里",
+      "translation": null
+    },
+    {
+      "time": 213.42,
+      "time_str": "03:33.420",
+      "text": "于是我 一个人喝酒",
+      "translation": null
+    },
+    {
+      "time": 216.37,
+      "time_str": "03:36.370",
+      "text": "一个人唱歌",
+      "translation": null
+    },
+    {
+      "time": 218.47,
+      "time_str": "03:38.470",
+      "text": "一个人面对这无聊的生活",
+      "translation": null
+    },
+    {
+      "time": 222.42,
+      "time_str": "03:42.420",
+      "text": "一个人买来面具",
+      "translation": null
+    },
+    {
+      "time": 224.3,
+      "time_str": "03:44.300",
+      "text": "假装着强悍",
+      "translation": null
+    },
+    {
+      "time": 226.45,
+      "time_str": "03:46.450",
+      "text": "笑着跳进人海里",
+      "translation": null
+    },
+    {
+      "time": 232.7,
+      "time_str": "03:52.700",
+      "text": "一个人买来面具",
+      "translation": null
+    },
+    {
+      "time": 235.4,
+      "time_str": "03:55.400",
+      "text": "假装着强悍",
+      "translation": null
+    },
+    {
+      "time": 238.9,
+      "time_str": "03:58.900",
+      "text": "笑着跳进人海里",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一个人 - 韩红.lrc"
+}

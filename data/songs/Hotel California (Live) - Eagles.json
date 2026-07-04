@@ -1,0 +1,406 @@
+{
+  "title": "Hotel California",
+  "title_raw": "Hotel California (Live)",
+  "version": "Live",
+  "artist": "Eagles",
+  "group_key": "hotel california|eagles",
+  "writers": {
+    "lyricist": "Glenn Frey/Don Felder/Don Henley",
+    "composer": "Don Felder/Don Henley",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 129.727,
+      "time_str": "02:09.727",
+      "text": "On a dark desert highway",
+      "translation": "在漆黑荒凉的高速公路上"
+    },
+    {
+      "time": 132.909,
+      "time_str": "02:12.909",
+      "text": "Cool wind in my hair",
+      "translation": "冷风吹拂着我的头发"
+    },
+    {
+      "time": 136.78,
+      "time_str": "02:16.780",
+      "text": "Warm smell of colitas",
+      "translation": "科里塔斯温热的气息"
+    },
+    {
+      "time": 139.228,
+      "time_str": "02:19.228",
+      "text": "Rising up through the air",
+      "translation": "弥漫在空气中"
+    },
+    {
+      "time": 142.999,
+      "time_str": "02:22.999",
+      "text": "Up ahead in the distance",
+      "translation": "抬头极目远方"
+    },
+    {
+      "time": 145.78,
+      "time_str": "02:25.780",
+      "text": "I saw a shimmering light",
+      "translation": "看见微微闪烁的灯光"
+    },
+    {
+      "time": 148.868,
+      "time_str": "02:28.868",
+      "text": "My head grew heavy and my sight grew dim",
+      "translation": "我的头渐渐昏沉视线也变得模糊"
+    },
+    {
+      "time": 151.708,
+      "time_str": "02:31.708",
+      "text": "I had to stop for the night",
+      "translation": "我不得不停下来过夜"
+    },
+    {
+      "time": 155.238,
+      "time_str": "02:35.238",
+      "text": "There she stood in the doorway",
+      "translation": "她就站在门廊"
+    },
+    {
+      "time": 158.49,
+      "time_str": "02:38.490",
+      "text": "I heard the mission bell",
+      "translation": "布道的钟声在我耳边回响"
+    },
+    {
+      "time": 161.539,
+      "time_str": "02:41.539",
+      "text": "I was thinking to myself",
+      "translation": "我心中暗念"
+    },
+    {
+      "time": 164.79,
+      "time_str": "02:44.790",
+      "text": "This could be heaven or this could be hell",
+      "translation": "“还不知道这里是地狱还是天堂”"
+    },
+    {
+      "time": 167.898,
+      "time_str": "02:47.898",
+      "text": "Then she lit up a candle",
+      "translation": "她点燃了一根蜡烛"
+    },
+    {
+      "time": 171.9,
+      "time_str": "02:51.900",
+      "text": "And she showed me the way",
+      "translation": "给我引路"
+    },
+    {
+      "time": 175.29,
+      "time_str": "02:55.290",
+      "text": "There were voices down in corridor",
+      "translation": "走廊深处一阵阵歌声回荡"
+    },
+    {
+      "time": 177.539,
+      "time_str": "02:57.539",
+      "text": "I thought i heard them say:",
+      "translation": "我想我听见他们在唱"
+    },
+    {
+      "time": 181.49,
+      "time_str": "03:01.490",
+      "text": "Welcome to the Hotel California",
+      "translation": "欢迎来到加州旅馆"
+    },
+    {
+      "time": 186.18,
+      "time_str": "03:06.180",
+      "text": "Such a lovely place",
+      "translation": "如此美丽的地方"
+    },
+    {
+      "time": 189.599,
+      "time_str": "03:09.599",
+      "text": "(Such a lovely place)",
+      "translation": "如此美丽的地方"
+    },
+    {
+      "time": 190.99,
+      "time_str": "03:10.990",
+      "text": "Such a lovely face",
+      "translation": "多么可爱的的面容"
+    },
+    {
+      "time": 193.229,
+      "time_str": "03:13.229",
+      "text": "Plenty of rooms at the Hotel California",
+      "translation": "加州旅馆如此多的客房"
+    },
+    {
+      "time": 199.49,
+      "time_str": "03:19.490",
+      "text": "Any time of year",
+      "translation": "一年四季无论何时"
+    },
+    {
+      "time": 201.539,
+      "time_str": "03:21.539",
+      "text": "(Any time of year)",
+      "translation": "一年四季无论何时"
+    },
+    {
+      "time": 202.79,
+      "time_str": "03:22.790",
+      "text": "You can find it here",
+      "translation": "你都能在这找到房间"
+    },
+    {
+      "time": 205.889,
+      "time_str": "03:25.889",
+      "text": "Her mind is tiffany- twisted",
+      "translation": "她的心为珠宝所扭曲"
+    },
+    {
+      "time": 209.268,
+      "time_str": "03:29.268",
+      "text": "She got the Mercedes Benz",
+      "translation": "她开着一辆梅赛德斯•奔驰"
+    },
+    {
+      "time": 213.298,
+      "time_str": "03:33.298",
+      "text": "She got a lot of pretty pretty boys",
+      "translation": "还带着许多漂亮迷人的小伙子"
+    },
+    {
+      "time": 215.708,
+      "time_str": "03:35.708",
+      "text": "She calls friends",
+      "translation": "她都唤他们叫朋友"
+    },
+    {
+      "time": 218.809,
+      "time_str": "03:38.809",
+      "text": "How they dance in the courtyard",
+      "translation": "在庭院里她们尽情歌舞"
+    },
+    {
+      "time": 221.759,
+      "time_str": "03:41.759",
+      "text": "Sweet summer sweat",
+      "translation": "甜蜜夏日，香汗淋漓"
+    },
+    {
+      "time": 225.109,
+      "time_str": "03:45.109",
+      "text": "Some dance to remember",
+      "translation": "有人狂舞中唤起回忆"
+    },
+    {
+      "time": 228.499,
+      "time_str": "03:48.499",
+      "text": "Some dance to forget",
+      "translation": "而有人狂舞是为了忘记"
+    },
+    {
+      "time": 232.38,
+      "time_str": "03:52.380",
+      "text": "So l called up the captain:",
+      "translation": "于是我叫来领班"
+    },
+    {
+      "time": 234.89,
+      "time_str": "03:54.890",
+      "text": "Please bring me my wineHe said:",
+      "translation": "“请给我来点烈酒\"  他说:"
+    },
+    {
+      "time": 238.119,
+      "time_str": "03:58.119",
+      "text": "We havent had that spirit here since",
+      "translation": "我们再没供应  自从"
+    },
+    {
+      "time": 241.189,
+      "time_str": "04:01.189",
+      "text": "1969",
+      "translation": "一九六九年起"
+    },
+    {
+      "time": 244.879,
+      "time_str": "04:04.879",
+      "text": "And still those voices are calling from far away",
+      "translation": "而那些声音依然远远传来"
+    },
+    {
+      "time": 251.29,
+      "time_str": "04:11.290",
+      "text": "Wake you up in the middle of the night",
+      "translation": "令人在午夜也会惊醒"
+    },
+    {
+      "time": 253.969,
+      "time_str": "04:13.969",
+      "text": "Just to hear them say:",
+      "translation": "只听到他们在唱"
+    },
+    {
+      "time": 258.369,
+      "time_str": "04:18.369",
+      "text": "Welcome to the Hotel California",
+      "translation": "欢迎来到加州旅馆"
+    },
+    {
+      "time": 263.598,
+      "time_str": "04:23.598",
+      "text": "Such a lovely place",
+      "translation": "如此美丽的地方"
+    },
+    {
+      "time": 265.59,
+      "time_str": "04:25.590",
+      "text": "(Such a lovely place)",
+      "translation": "如此美丽的地方"
+    },
+    {
+      "time": 266.9,
+      "time_str": "04:26.900",
+      "text": "Such a lovely face",
+      "translation": "多么可爱的的面容"
+    },
+    {
+      "time": 271.0,
+      "time_str": "04:31.000",
+      "text": "They living it up at the Hotel California",
+      "translation": "在加州旅馆他们纵情狂欢"
+    },
+    {
+      "time": 276.158,
+      "time_str": "04:36.158",
+      "text": "What a  nice surprise",
+      "translation": "多么美妙的惊奇"
+    },
+    {
+      "time": 277.57,
+      "time_str": "04:37.570",
+      "text": "(What a nice surprise)",
+      "translation": "多么美妙的惊奇"
+    },
+    {
+      "time": 279.5,
+      "time_str": "04:39.500",
+      "text": "Bring your alibis",
+      "translation": "为你带来想要的借口"
+    },
+    {
+      "time": 283.848,
+      "time_str": "04:43.848",
+      "text": "Mirrors on the ceiling",
+      "translation": "天花板上的镜子"
+    },
+    {
+      "time": 286.9,
+      "time_str": "04:46.900",
+      "text": "Pink champage on ice",
+      "translation": "冰上粉红色的香槟"
+    },
+    {
+      "time": 289.509,
+      "time_str": "04:49.509",
+      "text": "She said:",
+      "translation": "她说"
+    },
+    {
+      "time": 291.1,
+      "time_str": "04:51.100",
+      "text": "We are all just prisoners here",
+      "translation": "我们不过是这里的囚徒"
+    },
+    {
+      "time": 294.1,
+      "time_str": "04:54.100",
+      "text": "of our own device",
+      "translation": "甘心被自己所驱使"
+    },
+    {
+      "time": 296.569,
+      "time_str": "04:56.569",
+      "text": "In the master’s chambers",
+      "translation": "然后在主人房间里"
+    },
+    {
+      "time": 299.819,
+      "time_str": "04:59.819",
+      "text": "They gathered for the feast",
+      "translation": "他们聚集在盛宴前"
+    },
+    {
+      "time": 302.929,
+      "time_str": "05:02.929",
+      "text": "They stabbed it with their steely knives",
+      "translation": "挥舞着钢制的刀叉"
+    },
+    {
+      "time": 306.79,
+      "time_str": "05:06.790",
+      "text": "But they just cant kill the beast",
+      "translation": "却杀不死心中恶魔"
+    },
+    {
+      "time": 309.519,
+      "time_str": "05:09.519",
+      "text": "Last thing I remember",
+      "translation": "我最后只记得"
+    },
+    {
+      "time": 311.969,
+      "time_str": "05:11.969",
+      "text": "I was",
+      "translation": "我在"
+    },
+    {
+      "time": 313.29,
+      "time_str": "05:13.290",
+      "text": "Running for the door",
+      "translation": "拼命奔向大门"
+    },
+    {
+      "time": 315.829,
+      "time_str": "05:15.829",
+      "text": "I had to find the passage Back",
+      "translation": "我必须找到来时的路"
+    },
+    {
+      "time": 318.779,
+      "time_str": "05:18.779",
+      "text": "to the place I was before",
+      "translation": "回到我过去的地方"
+    },
+    {
+      "time": 322.179,
+      "time_str": "05:22.179",
+      "text": "Relax said the night man",
+      "translation": "“放松点”看门人说道"
+    },
+    {
+      "time": 325.288,
+      "time_str": "05:25.288",
+      "text": "We are programed to receive",
+      "translation": "我们天生受诱惑"
+    },
+    {
+      "time": 328.589,
+      "time_str": "05:28.589",
+      "text": "You can check out any time you like",
+      "translation": "你可以随时结束"
+    },
+    {
+      "time": 331.94,
+      "time_str": "05:31.940",
+      "text": "But you can never leave",
+      "translation": "却永远无法摆脱"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Hotel California (Live) - Eagles.lrc"
+}

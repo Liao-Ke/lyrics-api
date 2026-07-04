@@ -1,0 +1,190 @@
+{
+  "title": "但愿人长久",
+  "title_raw": "但愿人长久",
+  "version": null,
+  "artist": "邓丽君",
+  "group_key": "但愿人长久|邓丽君",
+  "writers": {
+    "lyricist": "苏轼",
+    "composer": "梁弘志",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.0,
+      "time_str": "00:29.000",
+      "text": "明月几时有",
+      "translation": null
+    },
+    {
+      "time": 35.0,
+      "time_str": "00:35.000",
+      "text": "把酒问青天",
+      "translation": null
+    },
+    {
+      "time": 40.6,
+      "time_str": "00:40.600",
+      "text": "不知天上宫阙",
+      "translation": null
+    },
+    {
+      "time": 45.9,
+      "time_str": "00:45.900",
+      "text": "今夕是何年",
+      "translation": null
+    },
+    {
+      "time": 58.2,
+      "time_str": "00:58.200",
+      "text": "我欲乘风归去",
+      "translation": null
+    },
+    {
+      "time": 63.2,
+      "time_str": "01:03.200",
+      "text": "唯恐琼楼玉宇",
+      "translation": null
+    },
+    {
+      "time": 68.2,
+      "time_str": "01:08.200",
+      "text": "高处不胜寒",
+      "translation": null
+    },
+    {
+      "time": 74.2,
+      "time_str": "01:14.200",
+      "text": "起舞弄清影",
+      "translation": null
+    },
+    {
+      "time": 79.2,
+      "time_str": "01:19.200",
+      "text": "何似在人间",
+      "translation": null
+    },
+    {
+      "time": 88.2,
+      "time_str": "01:28.200",
+      "text": "转朱阁",
+      "translation": null
+    },
+    {
+      "time": 91.2,
+      "time_str": "01:31.200",
+      "text": "低绮户",
+      "translation": null
+    },
+    {
+      "time": 93.2,
+      "time_str": "01:33.200",
+      "text": "照无眠",
+      "translation": null
+    },
+    {
+      "time": 99.2,
+      "time_str": "01:39.200",
+      "text": "不应有恨",
+      "translation": null
+    },
+    {
+      "time": 101.2,
+      "time_str": "01:41.200",
+      "text": "何事长向别时圆",
+      "translation": null
+    },
+    {
+      "time": 112.2,
+      "time_str": "01:52.200",
+      "text": "人有悲欢离合",
+      "translation": null
+    },
+    {
+      "time": 118.2,
+      "time_str": "01:58.200",
+      "text": "月有阴晴圆缺",
+      "translation": null
+    },
+    {
+      "time": 123.2,
+      "time_str": "02:03.200",
+      "text": "此事古难全",
+      "translation": null
+    },
+    {
+      "time": 129.2,
+      "time_str": "02:09.200",
+      "text": "但愿人长久",
+      "translation": null
+    },
+    {
+      "time": 134.2,
+      "time_str": "02:14.200",
+      "text": "千里共婵娟",
+      "translation": null
+    },
+    {
+      "time": 165.2,
+      "time_str": "02:45.200",
+      "text": "转朱阁",
+      "translation": null
+    },
+    {
+      "time": 167.2,
+      "time_str": "02:47.200",
+      "text": "低绮户",
+      "translation": null
+    },
+    {
+      "time": 170.2,
+      "time_str": "02:50.200",
+      "text": "照无眠",
+      "translation": null
+    },
+    {
+      "time": 176.2,
+      "time_str": "02:56.200",
+      "text": "不应有恨",
+      "translation": null
+    },
+    {
+      "time": 178.2,
+      "time_str": "02:58.200",
+      "text": "何事长向别时圆别时圆",
+      "translation": null
+    },
+    {
+      "time": 197.2,
+      "time_str": "03:17.200",
+      "text": "人有悲欢离合",
+      "translation": null
+    },
+    {
+      "time": 202.2,
+      "time_str": "03:22.200",
+      "text": "月有阴晴圆缺",
+      "translation": null
+    },
+    {
+      "time": 208.2,
+      "time_str": "03:28.200",
+      "text": "此事古难全",
+      "translation": null
+    },
+    {
+      "time": 213.2,
+      "time_str": "03:33.200",
+      "text": "但愿人长久",
+      "translation": null
+    },
+    {
+      "time": 218.2,
+      "time_str": "03:38.200",
+      "text": "千里共婵娟",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "但愿人长久 - 邓丽君.lrc"
+}

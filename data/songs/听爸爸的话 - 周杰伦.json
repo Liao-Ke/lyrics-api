@@ -1,0 +1,478 @@
+{
+  "title": "听爸爸的话",
+  "title_raw": "听爸爸的话",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "听爸爸的话|周杰伦",
+  "writers": {
+    "lyricist": "周杰伦",
+    "composer": "周杰伦",
+    "arranger": "黄雨勋"
+  },
+  "lyrics": [
+    {
+      "time": 4.27,
+      "time_str": "00:04.270",
+      "text": "混音室 : 杨大伟录音工作室",
+      "translation": null
+    },
+    {
+      "time": 4.81,
+      "time_str": "00:04.810",
+      "text": "你听爸爸的话",
+      "translation": null
+    },
+    {
+      "time": 6.52,
+      "time_str": "00:06.520",
+      "text": "说我不是个好东西",
+      "translation": null
+    },
+    {
+      "time": 8.82,
+      "time_str": "00:08.820",
+      "text": "送给你的花",
+      "translation": null
+    },
+    {
+      "time": 10.37,
+      "time_str": "00:10.370",
+      "text": "不配放在你家花瓶里",
+      "translation": null
+    },
+    {
+      "time": 13.95,
+      "time_str": "00:13.950",
+      "text": "他要我越走越远越好",
+      "translation": null
+    },
+    {
+      "time": 17.76,
+      "time_str": "00:17.760",
+      "text": "不要在一起那最好",
+      "translation": null
+    },
+    {
+      "time": 19.88,
+      "time_str": "00:19.880",
+      "text": "但我听妈妈的话",
+      "translation": null
+    },
+    {
+      "time": 21.71,
+      "time_str": "00:21.710",
+      "text": "要我不能轻易放弃",
+      "translation": null
+    },
+    {
+      "time": 24.11,
+      "time_str": "00:24.110",
+      "text": "还喜欢的话",
+      "translation": null
+    },
+    {
+      "time": 25.56,
+      "time_str": "00:25.560",
+      "text": "让我再追回你求求你",
+      "translation": null
+    },
+    {
+      "time": 29.12,
+      "time_str": "00:29.120",
+      "text": "难道你要我不孝顺吗",
+      "translation": null
+    },
+    {
+      "time": 33.03,
+      "time_str": "00:33.030",
+      "text": "这是借口",
+      "translation": null
+    },
+    {
+      "time": 33.88,
+      "time_str": "00:33.880",
+      "text": "你应该懂吧",
+      "translation": null
+    },
+    {
+      "time": 51.34,
+      "time_str": "00:51.340",
+      "text": "你说谁说我说",
+      "translation": null
+    },
+    {
+      "time": 53.51,
+      "time_str": "00:53.510",
+      "text": "我不爱了",
+      "translation": null
+    },
+    {
+      "time": 55.52,
+      "time_str": "00:55.520",
+      "text": "胡说瞎说",
+      "translation": null
+    },
+    {
+      "time": 57.0,
+      "time_str": "00:57.000",
+      "text": "我习惯了",
+      "translation": null
+    },
+    {
+      "time": 59.57,
+      "time_str": "00:59.570",
+      "text": "那烟和酒",
+      "translation": null
+    },
+    {
+      "time": 60.68,
+      "time_str": "01:00.680",
+      "text": "也都戒了",
+      "translation": null
+    },
+    {
+      "time": 63.28,
+      "time_str": "01:03.280",
+      "text": "证明有多在乎你了",
+      "translation": null
+    },
+    {
+      "time": 67.15,
+      "time_str": "01:07.150",
+      "text": "光上一句",
+      "translation": null
+    },
+    {
+      "time": 68.36,
+      "time_str": "01:08.360",
+      "text": "我想你懂",
+      "translation": null
+    },
+    {
+      "time": 70.65,
+      "time_str": "01:10.650",
+      "text": "我真的不太会说话",
+      "translation": null
+    },
+    {
+      "time": 74.47,
+      "time_str": "01:14.470",
+      "text": "你看你笑了吧",
+      "translation": null
+    },
+    {
+      "time": 78.62,
+      "time_str": "01:18.620",
+      "text": "你说我算了吧",
+      "translation": null
+    },
+    {
+      "time": 82.01,
+      "time_str": "01:22.010",
+      "text": "一个人的爱情很简单",
+      "translation": null
+    },
+    {
+      "time": 88.53,
+      "time_str": "01:28.530",
+      "text": "两个人的相爱",
+      "translation": null
+    },
+    {
+      "time": 90.32,
+      "time_str": "01:30.320",
+      "text": "为什么反而变得很难",
+      "translation": null
+    },
+    {
+      "time": 95.42,
+      "time_str": "01:35.420",
+      "text": "我受够我的爱你比较多",
+      "translation": null
+    },
+    {
+      "time": 99.03,
+      "time_str": "01:39.030",
+      "text": "也受够你的爱沉默很久",
+      "translation": null
+    },
+    {
+      "time": 103.14,
+      "time_str": "01:43.140",
+      "text": "承诺太多",
+      "translation": null
+    },
+    {
+      "time": 105.12,
+      "time_str": "01:45.120",
+      "text": "多少会错",
+      "translation": null
+    },
+    {
+      "time": 106.97,
+      "time_str": "01:46.970",
+      "text": "你宁愿难过也不要有结果",
+      "translation": null
+    },
+    {
+      "time": 110.6,
+      "time_str": "01:50.600",
+      "text": "我受够我的爱你比较多",
+      "translation": null
+    },
+    {
+      "time": 114.43,
+      "time_str": "01:54.430",
+      "text": "倒不如回到从前的自由",
+      "translation": null
+    },
+    {
+      "time": 118.54,
+      "time_str": "01:58.540",
+      "text": "说好放手",
+      "translation": null
+    },
+    {
+      "time": 120.22,
+      "time_str": "02:00.220",
+      "text": "谁先开口",
+      "translation": null
+    },
+    {
+      "time": 122.06,
+      "time_str": "02:02.060",
+      "text": "没有对错",
+      "translation": null
+    },
+    {
+      "time": 124.44,
+      "time_str": "02:04.440",
+      "text": "反正花开了",
+      "translation": null
+    },
+    {
+      "time": 125.5,
+      "time_str": "02:05.500",
+      "text": "终究会落",
+      "translation": null
+    },
+    {
+      "time": 131.34,
+      "time_str": "02:11.340",
+      "text": "你说谁说我说",
+      "translation": null
+    },
+    {
+      "time": 133.4,
+      "time_str": "02:13.400",
+      "text": "我不爱了",
+      "translation": null
+    },
+    {
+      "time": 135.43,
+      "time_str": "02:15.430",
+      "text": "胡说瞎说",
+      "translation": null
+    },
+    {
+      "time": 137.01,
+      "time_str": "02:17.010",
+      "text": "我习惯了",
+      "translation": null
+    },
+    {
+      "time": 139.28,
+      "time_str": "02:19.280",
+      "text": "那烟和酒",
+      "translation": null
+    },
+    {
+      "time": 140.74,
+      "time_str": "02:20.740",
+      "text": "也都戒了",
+      "translation": null
+    },
+    {
+      "time": 143.14,
+      "time_str": "02:23.140",
+      "text": "证明有多在乎你了",
+      "translation": null
+    },
+    {
+      "time": 146.9,
+      "time_str": "02:26.900",
+      "text": "一个人的爱情很简单",
+      "translation": null
+    },
+    {
+      "time": 153.22,
+      "time_str": "02:33.220",
+      "text": "两个人的相爱",
+      "translation": null
+    },
+    {
+      "time": 155.02,
+      "time_str": "02:35.020",
+      "text": "为什么反而变得很难",
+      "translation": null
+    },
+    {
+      "time": 161.2,
+      "time_str": "02:41.200",
+      "text": "你听爸爸的话",
+      "translation": null
+    },
+    {
+      "time": 162.73,
+      "time_str": "02:42.730",
+      "text": "说我不是个好东西",
+      "translation": null
+    },
+    {
+      "time": 165.11,
+      "time_str": "02:45.110",
+      "text": "送给你的花",
+      "translation": null
+    },
+    {
+      "time": 166.55,
+      "time_str": "02:46.550",
+      "text": "不配放在你家花瓶里",
+      "translation": null
+    },
+    {
+      "time": 170.25,
+      "time_str": "02:50.250",
+      "text": "他要我越走越远越好",
+      "translation": null
+    },
+    {
+      "time": 173.85,
+      "time_str": "02:53.850",
+      "text": "不要在一起那最好",
+      "translation": null
+    },
+    {
+      "time": 176.09,
+      "time_str": "02:56.090",
+      "text": "但我听妈妈的话",
+      "translation": null
+    },
+    {
+      "time": 177.95,
+      "time_str": "02:57.950",
+      "text": "要我不能轻易放弃",
+      "translation": null
+    },
+    {
+      "time": 180.42,
+      "time_str": "03:00.420",
+      "text": "还喜欢的话",
+      "translation": null
+    },
+    {
+      "time": 181.75,
+      "time_str": "03:01.750",
+      "text": "让我再追回你求求你",
+      "translation": null
+    },
+    {
+      "time": 185.39,
+      "time_str": "03:05.390",
+      "text": "难道你要我不孝顺吗",
+      "translation": null
+    },
+    {
+      "time": 189.2,
+      "time_str": "03:09.200",
+      "text": "这是借口你应该懂吧",
+      "translation": null
+    },
+    {
+      "time": 205.91,
+      "time_str": "03:25.910",
+      "text": "我受够我的爱你比较多",
+      "translation": null
+    },
+    {
+      "time": 209.64,
+      "time_str": "03:29.640",
+      "text": "也受够你的爱沉默很久",
+      "translation": null
+    },
+    {
+      "time": 213.54,
+      "time_str": "03:33.540",
+      "text": "承诺太多",
+      "translation": null
+    },
+    {
+      "time": 215.52,
+      "time_str": "03:35.520",
+      "text": "多少会错",
+      "translation": null
+    },
+    {
+      "time": 217.4,
+      "time_str": "03:37.400",
+      "text": "你宁愿难过也不要有结果",
+      "translation": null
+    },
+    {
+      "time": 221.03,
+      "time_str": "03:41.030",
+      "text": "我受够我的爱你比较多",
+      "translation": null
+    },
+    {
+      "time": 224.78,
+      "time_str": "03:44.780",
+      "text": "倒不如回到从前的自由",
+      "translation": null
+    },
+    {
+      "time": 228.96,
+      "time_str": "03:48.960",
+      "text": "说好放手",
+      "translation": null
+    },
+    {
+      "time": 230.75,
+      "time_str": "03:50.750",
+      "text": "谁先开口",
+      "translation": null
+    },
+    {
+      "time": 232.67,
+      "time_str": "03:52.670",
+      "text": "没有对错",
+      "translation": null
+    },
+    {
+      "time": 234.89,
+      "time_str": "03:54.890",
+      "text": "反正花开了",
+      "translation": null
+    },
+    {
+      "time": 235.95,
+      "time_str": "03:55.950",
+      "text": "终究会落",
+      "translation": null
+    },
+    {
+      "time": 242.47,
+      "time_str": "04:02.470",
+      "text": "难道你要我不孝顺吗",
+      "translation": null
+    },
+    {
+      "time": 249.95,
+      "time_str": "04:09.950",
+      "text": "这是借口你应该懂吧",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "听爸爸的话 - 周杰伦.lrc"
+}

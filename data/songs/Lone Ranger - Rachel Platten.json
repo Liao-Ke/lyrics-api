@@ -1,0 +1,346 @@
+{
+  "title": "Lone Ranger",
+  "title_raw": "Lone Ranger",
+  "version": null,
+  "artist": "Rachel Platten",
+  "group_key": "lone ranger|rachel platten",
+  "writers": {
+    "lyricist": "Rachel Platten/Bonnie Baker/Brain West",
+    "composer": "Bonnie Baker/Brian West/Rachel Platten",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.149,
+      "time_str": "00:08.149",
+      "text": "Maybe I'm selfish, call me see through",
+      "translation": "也许我确实自私 还是说我都已看穿了"
+    },
+    {
+      "time": 10.2,
+      "time_str": "00:10.200",
+      "text": "But I'm debating if I really need to",
+      "translation": "但我也会为心中坚持而斗争对抗"
+    },
+    {
+      "time": 12.37,
+      "time_str": "00:12.370",
+      "text": "Tie down to someone forever",
+      "translation": "当我真的渴望为爱停驻 不再流浪"
+    },
+    {
+      "time": 14.21,
+      "time_str": "00:14.210",
+      "text": "Sure I get lonely sometimes, I miss being together",
+      "translation": "我也会有孤单的时候 有想念有人陪伴的时候"
+    },
+    {
+      "time": 16.309,
+      "time_str": "00:16.309",
+      "text": "But, hey!, when I roam from city to city",
+      "translation": "但当我在不同城市间穿梭奔流"
+    },
+    {
+      "time": 18.27,
+      "time_str": "00:18.270",
+      "text": "Let the highway and the crowds, and the hunger that's in me",
+      "translation": "急行的车道 拥挤的人群 总能让我心中的渴望和斗志汹涌"
+    },
+    {
+      "time": 20.52,
+      "time_str": "00:20.520",
+      "text": "Fill me up with fireworks and tell me I'm skinny",
+      "translation": "用漫天烟火填满我迸发的心 心有千钧我也依然瘦小轻盈"
+    },
+    {
+      "time": 22.75,
+      "time_str": "00:22.750",
+      "text": "Soak up the fire and the buzz they give me",
+      "translation": "将他人的闲言碎语 伤人火力通通吸纳滋养自己"
+    },
+    {
+      "time": 24.846,
+      "time_str": "00:24.846",
+      "text": "Oo oo oo oo oo",
+      "translation": null
+    },
+    {
+      "time": 28.434,
+      "time_str": "00:28.434",
+      "text": "Long nights, stay up late",
+      "translation": "长夜漫漫 我在枕边辗转"
+    },
+    {
+      "time": 30.562,
+      "time_str": "00:30.562",
+      "text": "Drink the sky, meditate",
+      "translation": "细品星空 我常陷入冥想"
+    },
+    {
+      "time": 32.573,
+      "time_str": "00:32.573",
+      "text": "Oo oo oo oo oo",
+      "translation": null
+    },
+    {
+      "time": 36.612,
+      "time_str": "00:36.612",
+      "text": "Open eyes, sunroof",
+      "translation": "睁开双眼 打开车顶天窗"
+    },
+    {
+      "time": 38.684,
+      "time_str": "00:38.684",
+      "text": "Give me miles  , give me truth",
+      "translation": "日出之时再行万里 用我双眼靠近真相"
+    },
+    {
+      "time": 42.536,
+      "time_str": "00:42.536",
+      "text": "Sometimes I get high, sometimes I get low",
+      "translation": "有时我斗志昂扬敢与天比高 有时也情绪失落陷入泥沼"
+    },
+    {
+      "time": 46.75,
+      "time_str": "00:46.750",
+      "text": "But I'm calm as can be in a room full of strangers",
+      "translation": "但我会像周围都是陌生人般不显露一分一毫"
+    },
+    {
+      "time": 50.61,
+      "time_str": "00:50.610",
+      "text": "But oh my, don't try to get close",
+      "translation": "若你心有属意也请别试着靠近"
+    },
+    {
+      "time": 54.96,
+      "time_str": "00:54.960",
+      "text": "I'm just gonna leave, 'cause baby I'm a lone ranger",
+      "translation": "因为亲爱的 我只是个飘摇不定的独行者 随时都会远离"
+    },
+    {
+      "time": 59.744,
+      "time_str": "00:59.744",
+      "text": "Na na na na na, na na na na na na, na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 65.444,
+      "time_str": "01:05.444",
+      "text": "I'm a lone ranger",
+      "translation": "孤独前行 心无定所"
+    },
+    {
+      "time": 67.852,
+      "time_str": "01:07.852",
+      "text": "I'm a lion, I'm a tiger",
+      "translation": "我似雄狮也似猛虎"
+    },
+    {
+      "time": 69.868,
+      "time_str": "01:09.868",
+      "text": "I'm a caged bird, I'm on fire",
+      "translation": "是那被囚之鸟 是那不灭渴望似火燃烧"
+    },
+    {
+      "time": 71.88,
+      "time_str": "01:11.880",
+      "text": "Got these paper wings, but they don't hold the air",
+      "translation": "若双翼太过脆弱 就难以护住心爱的巢"
+    },
+    {
+      "time": 73.949,
+      "time_str": "01:13.949",
+      "text": "Get so close to somebody but I don't stay there",
+      "translation": "会向某人无比靠近 但却不会就此安定交出我心"
+    },
+    {
+      "time": 75.997,
+      "time_str": "01:15.997",
+      "text": "Much less brave than I admit",
+      "translation": "或许我比我认同之中懦弱许多"
+    },
+    {
+      "time": 77.837,
+      "time_str": "01:17.837",
+      "text": "Much more scared than they all think",
+      "translation": "平静之下隐藏的也比他人想象中可怕得多"
+    },
+    {
+      "time": 80.101,
+      "time_str": "01:20.101",
+      "text": "But I'm protecting this organ in my chest",
+      "translation": "但只要保护好胸腔内的心脏依旧跳动"
+    },
+    {
+      "time": 81.963,
+      "time_str": "01:21.963",
+      "text": "'Cause the blood sweat and tears they can make quite a mess",
+      "translation": "因为汗水血泪有时会形成牵绊 搞砸一切"
+    },
+    {
+      "time": 84.002,
+      "time_str": "01:24.002",
+      "text": "Oo oo oo oo oo",
+      "translation": null
+    },
+    {
+      "time": 88.026,
+      "time_str": "01:28.026",
+      "text": "Open eyes, open roof",
+      "translation": "睁开双眼 打开天窗"
+    },
+    {
+      "time": 90.041,
+      "time_str": "01:30.041",
+      "text": "Give me miles, give me truth",
+      "translation": "日出之时再行万里 用我双眼靠近真相"
+    },
+    {
+      "time": 93.561,
+      "time_str": "01:33.561",
+      "text": "Sometimes I get high, sometimes I get low",
+      "translation": "有时我斗志昂扬敢与天比高 有时也情绪失落陷入泥沼"
+    },
+    {
+      "time": 98.041,
+      "time_str": "01:38.041",
+      "text": "But I'm calm as can be in a room full of strangers",
+      "translation": "但我会像周围都是陌生人般不显露一分一毫"
+    },
+    {
+      "time": 102.293,
+      "time_str": "01:42.293",
+      "text": "But oh my, don't try to get close",
+      "translation": "若你心有属意也请别试着靠近"
+    },
+    {
+      "time": 106.273,
+      "time_str": "01:46.273",
+      "text": "I'm just gonna leave, 'cause baby I'm a lone ranger",
+      "translation": "因为亲爱的 我只是个飘摇不定的独行者 随时都会远离"
+    },
+    {
+      "time": 111.029,
+      "time_str": "01:51.029",
+      "text": "Na na na na na, na na na na na na, na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 116.405,
+      "time_str": "01:56.405",
+      "text": "'Cause baby I'm a lone ranger",
+      "translation": "我如独行者般飘摇不定"
+    },
+    {
+      "time": 119.097,
+      "time_str": "01:59.097",
+      "text": "I don't wanna get broken baby",
+      "translation": "即使孤独 我也不要心碎"
+    },
+    {
+      "time": 121.025,
+      "time_str": "02:01.025",
+      "text": "I don't wanna get broken baby",
+      "translation": "心无定所好过心碎残破"
+    },
+    {
+      "time": 123.073,
+      "time_str": "02:03.073",
+      "text": "I don't wanna get broken baby",
+      "translation": "孤独前行也才不会心碎难过"
+    },
+    {
+      "time": 124.8,
+      "time_str": "02:04.800",
+      "text": "Cut open baby, cut open baby",
+      "translation": "剖开我的心 你就能看得清楚"
+    },
+    {
+      "time": 127.249,
+      "time_str": "02:07.249",
+      "text": "I don't wanna get broken baby",
+      "translation": "即使孤独 我也不要心碎"
+    },
+    {
+      "time": 129.185,
+      "time_str": "02:09.185",
+      "text": "I don't wanna get broken baby",
+      "translation": "心无定所好过心碎残破"
+    },
+    {
+      "time": 131.345,
+      "time_str": "02:11.345",
+      "text": "I don't wanna get broken baby",
+      "translation": "孤独前行也才不会心碎难过"
+    },
+    {
+      "time": 132.87,
+      "time_str": "02:12.870",
+      "text": "Cut open baby, cut open baby",
+      "translation": "剖开我的心 你就能看得清楚"
+    },
+    {
+      "time": 144.815,
+      "time_str": "02:24.815",
+      "text": "Sometimes I get high, sometimes I get low",
+      "translation": "有时我斗志昂扬敢与天比高 有时也情绪失落陷入泥沼"
+    },
+    {
+      "time": 149.303,
+      "time_str": "02:29.303",
+      "text": "But I'm calm as can be in a room full of strangers",
+      "translation": "但我会像周围都是陌生人般不显露一分一毫"
+    },
+    {
+      "time": 153.111,
+      "time_str": "02:33.111",
+      "text": "But oh my, don't try to get close",
+      "translation": "若你心有属意也请别试着靠近"
+    },
+    {
+      "time": 157.559,
+      "time_str": "02:37.559",
+      "text": "I'm just gonna leave, 'cause baby I'm a lone ranger",
+      "translation": "因为亲爱的 我只是个飘摇不定的独行者 随时都会远离"
+    },
+    {
+      "time": 161.807,
+      "time_str": "02:41.807",
+      "text": "Na na na na na, na na na na na na, na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 169.423,
+      "time_str": "02:49.423",
+      "text": "Sometimes I get high",
+      "translation": "有时我斗志昂扬敢与天比高"
+    },
+    {
+      "time": 171.533,
+      "time_str": "02:51.533",
+      "text": "Na na na na na, na na na na na na, na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 175.65,
+      "time_str": "02:55.650",
+      "text": "'Cause baby I'm a lone ranger",
+      "translation": "我如独行者般飘摇不定"
+    },
+    {
+      "time": 178.196,
+      "time_str": "02:58.196",
+      "text": "But oh my, don't try to get close",
+      "translation": "若你心有属意也请别试着靠近"
+    },
+    {
+      "time": 182.24,
+      "time_str": "03:02.240",
+      "text": "I'm just gonna leave, 'cause baby I'm a lone ranger",
+      "translation": "因为亲爱的我只是个飘摇的独行者啊 片刻难息"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Lone Ranger - Rachel Platten.lrc"
+}

@@ -1,0 +1,256 @@
+{
+  "title": "HIGH歌",
+  "title_raw": "HIGH歌",
+  "version": null,
+  "artist": "黄龄",
+  "group_key": "high歌|黄龄",
+  "writers": {
+    "lyricist": "常石磊",
+    "composer": "常石磊",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.5,
+      "time_str": "00:18.500",
+      "text": "mountain top",
+      "translation": null
+    },
+    {
+      "time": 20.5,
+      "time_str": "00:20.500",
+      "text": "就跟着一起来",
+      "translation": null
+    },
+    {
+      "time": 22.88,
+      "time_str": "00:22.880",
+      "text": "没有什么阻挡着未来",
+      "translation": null
+    },
+    {
+      "time": 28.2,
+      "time_str": "00:28.200",
+      "text": "day and night",
+      "translation": null
+    },
+    {
+      "time": 30.2,
+      "time_str": "00:30.200",
+      "text": "就你和我的爱",
+      "translation": null
+    },
+    {
+      "time": 31.75,
+      "time_str": "00:31.750",
+      "text": "没有什么阻挡着未来",
+      "translation": null
+    },
+    {
+      "time": 36.248,
+      "time_str": "00:36.248",
+      "text": "mountain top",
+      "translation": null
+    },
+    {
+      "time": 38.248,
+      "time_str": "00:38.248",
+      "text": "就跟着一起来",
+      "translation": null
+    },
+    {
+      "time": 40.619,
+      "time_str": "00:40.619",
+      "text": "没有什么阻挡着未来",
+      "translation": null
+    },
+    {
+      "time": 45.589,
+      "time_str": "00:45.589",
+      "text": "day and night",
+      "translation": null
+    },
+    {
+      "time": 47.119,
+      "time_str": "00:47.119",
+      "text": "就你和我的爱",
+      "translation": null
+    },
+    {
+      "time": 49.498,
+      "time_str": "00:49.498",
+      "text": "没有什么阻挡着未来",
+      "translation": null
+    },
+    {
+      "time": 53.998,
+      "time_str": "00:53.998",
+      "text": "mountain top",
+      "translation": null
+    },
+    {
+      "time": 56.589,
+      "time_str": "00:56.589",
+      "text": "就跟着一起来",
+      "translation": null
+    },
+    {
+      "time": 58.989,
+      "time_str": "00:58.989",
+      "text": "没有什么阻挡着未来",
+      "translation": null
+    },
+    {
+      "time": 62.809,
+      "time_str": "01:02.809",
+      "text": "day and night",
+      "translation": null
+    },
+    {
+      "time": 65.199,
+      "time_str": "01:05.199",
+      "text": "就你和我的爱",
+      "translation": null
+    },
+    {
+      "time": 67.99,
+      "time_str": "01:07.990",
+      "text": "没有什么阻挡着未来",
+      "translation": null
+    },
+    {
+      "time": 71.749,
+      "time_str": "01:11.749",
+      "text": "yi yi yi你不在 我不在",
+      "translation": null
+    },
+    {
+      "time": 76.179,
+      "time_str": "01:16.179",
+      "text": "yi yi yi 谁还会在",
+      "translation": null
+    },
+    {
+      "time": 80.679,
+      "time_str": "01:20.679",
+      "text": "yi yi yi你不在 我不在",
+      "translation": null
+    },
+    {
+      "time": 85.119,
+      "time_str": "01:25.119",
+      "text": "yi yi yi 谁还会在",
+      "translation": null
+    },
+    {
+      "time": 125.279,
+      "time_str": "02:05.279",
+      "text": "mountain top",
+      "translation": null
+    },
+    {
+      "time": 127.149,
+      "time_str": "02:07.149",
+      "text": "就跟着一起来",
+      "translation": null
+    },
+    {
+      "time": 129.65,
+      "time_str": "02:09.650",
+      "text": "没有什么阻挡着未来",
+      "translation": null
+    },
+    {
+      "time": 134.8,
+      "time_str": "02:14.800",
+      "text": "day and night",
+      "translation": null
+    },
+    {
+      "time": 136.9,
+      "time_str": "02:16.900",
+      "text": "就你和我的爱",
+      "translation": null
+    },
+    {
+      "time": 138.46,
+      "time_str": "02:18.460",
+      "text": "没有什么阻挡着未来",
+      "translation": null
+    },
+    {
+      "time": 142.9,
+      "time_str": "02:22.900",
+      "text": "yi yi yi你不在 我不在",
+      "translation": null
+    },
+    {
+      "time": 147.4,
+      "time_str": "02:27.400",
+      "text": "yi yi yi 谁还会在",
+      "translation": null
+    },
+    {
+      "time": 151.72,
+      "time_str": "02:31.720",
+      "text": "yi yi yi你不在 我不在",
+      "translation": null
+    },
+    {
+      "time": 156.3,
+      "time_str": "02:36.300",
+      "text": "yi yi yi 谁还会在",
+      "translation": null
+    },
+    {
+      "time": 205.79,
+      "time_str": "03:25.790",
+      "text": "mountain top",
+      "translation": null
+    },
+    {
+      "time": 209.79,
+      "time_str": "03:29.790",
+      "text": "就一起来",
+      "translation": null
+    },
+    {
+      "time": 214.3,
+      "time_str": "03:34.300",
+      "text": "mountain top",
+      "translation": null
+    },
+    {
+      "time": 218.79,
+      "time_str": "03:38.790",
+      "text": "就一起来",
+      "translation": null
+    },
+    {
+      "time": 223.599,
+      "time_str": "03:43.599",
+      "text": "mountain top",
+      "translation": null
+    },
+    {
+      "time": 227.24,
+      "time_str": "03:47.240",
+      "text": "就一起来",
+      "translation": null
+    },
+    {
+      "time": 231.84,
+      "time_str": "03:51.840",
+      "text": "mountain top",
+      "translation": null
+    },
+    {
+      "time": 236.9,
+      "time_str": "03:56.900",
+      "text": "就一起来",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "HIGH歌 - 黄龄.lrc"
+}

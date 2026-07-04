@@ -1,0 +1,388 @@
+{
+  "title": "背叛情歌",
+  "title_raw": "背叛情歌",
+  "version": null,
+  "artist": "动力火车",
+  "group_key": "背叛情歌|动力火车",
+  "writers": {
+    "lyricist": "李素珍/许常德",
+    "composer": "刘天健",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 33.3,
+      "time_str": "00:33.300",
+      "text": "你问我这世界",
+      "translation": null
+    },
+    {
+      "time": 35.98,
+      "time_str": "00:35.980",
+      "text": "最远的地方在哪里",
+      "translation": null
+    },
+    {
+      "time": 41.0,
+      "time_str": "00:41.000",
+      "text": "我将答案抛向蓝天之外",
+      "translation": null
+    },
+    {
+      "time": 43.34,
+      "time_str": "00:43.340",
+      "text": "落在你心底",
+      "translation": null
+    },
+    {
+      "time": 47.29,
+      "time_str": "00:47.290",
+      "text": "如果你的爱",
+      "translation": null
+    },
+    {
+      "time": 49.64,
+      "time_str": "00:49.640",
+      "text": "总是逆向行驶",
+      "translation": null
+    },
+    {
+      "time": 54.62,
+      "time_str": "00:54.620",
+      "text": "你说你爱我",
+      "translation": null
+    },
+    {
+      "time": 56.9,
+      "time_str": "00:56.900",
+      "text": "我怎么能跟的上你",
+      "translation": null
+    },
+    {
+      "time": 62.88,
+      "time_str": "01:02.880",
+      "text": "你问我这世界",
+      "translation": null
+    },
+    {
+      "time": 65.07,
+      "time_str": "01:05.070",
+      "text": "最后的真爱在哪里",
+      "translation": null
+    },
+    {
+      "time": 70.08,
+      "time_str": "01:10.080",
+      "text": "我把线索指向大海之外",
+      "translation": null
+    },
+    {
+      "time": 72.36,
+      "time_str": "01:12.360",
+      "text": "直达我怀里",
+      "translation": null
+    },
+    {
+      "time": 76.44,
+      "time_str": "01:16.440",
+      "text": "如果你的心",
+      "translation": null
+    },
+    {
+      "time": 78.7,
+      "time_str": "01:18.700",
+      "text": "总是闭上耳朵",
+      "translation": null
+    },
+    {
+      "time": 83.7,
+      "time_str": "01:23.700",
+      "text": "我说我爱你",
+      "translation": null
+    },
+    {
+      "time": 86.01,
+      "time_str": "01:26.010",
+      "text": "你怎么能听得下去",
+      "translation": null
+    },
+    {
+      "time": 91.39,
+      "time_str": "01:31.390",
+      "text": "诺言背叛诺言",
+      "translation": null
+    },
+    {
+      "time": 93.15,
+      "time_str": "01:33.150",
+      "text": "刀子背叛缠绵",
+      "translation": null
+    },
+    {
+      "time": 95.05,
+      "time_str": "01:35.050",
+      "text": "刺进心头我却看不见",
+      "translation": null
+    },
+    {
+      "time": 98.53,
+      "time_str": "01:38.530",
+      "text": "我忘了喊痛忘了恩怨",
+      "translation": null
+    },
+    {
+      "time": 102.07,
+      "time_str": "01:42.070",
+      "text": "任爱情麻木哭泣的脸",
+      "translation": null
+    },
+    {
+      "time": 105.78,
+      "time_str": "01:45.780",
+      "text": "永远背叛永远",
+      "translation": null
+    },
+    {
+      "time": 107.54,
+      "time_str": "01:47.540",
+      "text": "泪水背叛双眼",
+      "translation": null
+    },
+    {
+      "time": 109.46,
+      "time_str": "01:49.460",
+      "text": "爱到深渊我还不改变",
+      "translation": null
+    },
+    {
+      "time": 113.1,
+      "time_str": "01:53.100",
+      "text": "我宁愿相信你的欺骗",
+      "translation": null
+    },
+    {
+      "time": 116.67,
+      "time_str": "01:56.670",
+      "text": "再不让我有对你去恨",
+      "translation": null
+    },
+    {
+      "time": 121.49,
+      "time_str": "02:01.490",
+      "text": "的一天",
+      "translation": null
+    },
+    {
+      "time": 138.56,
+      "time_str": "02:18.560",
+      "text": "你问我这世界",
+      "translation": null
+    },
+    {
+      "time": 140.85,
+      "time_str": "02:20.850",
+      "text": "最后的真爱在哪里",
+      "translation": null
+    },
+    {
+      "time": 145.89,
+      "time_str": "02:25.890",
+      "text": "我把线索指向大海之外",
+      "translation": null
+    },
+    {
+      "time": 148.26,
+      "time_str": "02:28.260",
+      "text": "直达我怀里",
+      "translation": null
+    },
+    {
+      "time": 152.29,
+      "time_str": "02:32.290",
+      "text": "如果你的心",
+      "translation": null
+    },
+    {
+      "time": 154.73,
+      "time_str": "02:34.730",
+      "text": "总是闭上耳朵",
+      "translation": null
+    },
+    {
+      "time": 159.84,
+      "time_str": "02:39.840",
+      "text": "我说我爱你",
+      "translation": null
+    },
+    {
+      "time": 162.03,
+      "time_str": "02:42.030",
+      "text": "你怎么能听得下去",
+      "translation": null
+    },
+    {
+      "time": 167.92,
+      "time_str": "02:47.920",
+      "text": "诺言背叛诺言",
+      "translation": null
+    },
+    {
+      "time": 169.28,
+      "time_str": "02:49.280",
+      "text": "刀子背叛缠绵",
+      "translation": null
+    },
+    {
+      "time": 171.3,
+      "time_str": "02:51.300",
+      "text": "刺进心头我却看不见",
+      "translation": null
+    },
+    {
+      "time": 174.78,
+      "time_str": "02:54.780",
+      "text": "我忘了喊痛忘了恩怨",
+      "translation": null
+    },
+    {
+      "time": 178.35,
+      "time_str": "02:58.350",
+      "text": "任爱情麻木哭泣的脸",
+      "translation": null
+    },
+    {
+      "time": 182.17,
+      "time_str": "03:02.170",
+      "text": "永远背叛永远",
+      "translation": null
+    },
+    {
+      "time": 183.79,
+      "time_str": "03:03.790",
+      "text": "泪水背叛双眼",
+      "translation": null
+    },
+    {
+      "time": 185.66,
+      "time_str": "03:05.660",
+      "text": "爱到深渊我还不改变",
+      "translation": null
+    },
+    {
+      "time": 189.32,
+      "time_str": "03:09.320",
+      "text": "我宁愿相信你的欺骗",
+      "translation": null
+    },
+    {
+      "time": 192.88,
+      "time_str": "03:12.880",
+      "text": "再不让我有对你去恨",
+      "translation": null
+    },
+    {
+      "time": 197.69,
+      "time_str": "03:17.690",
+      "text": "的一天",
+      "translation": null
+    },
+    {
+      "time": 228.64,
+      "time_str": "03:48.640",
+      "text": "诺言背叛诺言",
+      "translation": null
+    },
+    {
+      "time": 230.65,
+      "time_str": "03:50.650",
+      "text": "刀子背叛缠绵",
+      "translation": null
+    },
+    {
+      "time": 232.83,
+      "time_str": "03:52.830",
+      "text": "刺进心头我却看不见",
+      "translation": null
+    },
+    {
+      "time": 236.34,
+      "time_str": "03:56.340",
+      "text": "我忘了喊痛忘了恩怨",
+      "translation": null
+    },
+    {
+      "time": 240.05,
+      "time_str": "04:00.050",
+      "text": "任爱情麻木哭泣的脸",
+      "translation": null
+    },
+    {
+      "time": 243.83,
+      "time_str": "04:03.830",
+      "text": "永远背叛永远",
+      "translation": null
+    },
+    {
+      "time": 245.59,
+      "time_str": "04:05.590",
+      "text": "泪水背叛双眼",
+      "translation": null
+    },
+    {
+      "time": 247.57,
+      "time_str": "04:07.570",
+      "text": "爱到深渊我还不改变",
+      "translation": null
+    },
+    {
+      "time": 251.03,
+      "time_str": "04:11.030",
+      "text": "我宁愿相信你的欺骗",
+      "translation": null
+    },
+    {
+      "time": 254.71,
+      "time_str": "04:14.710",
+      "text": "再不让我有对你去恨",
+      "translation": null
+    },
+    {
+      "time": 261.68,
+      "time_str": "04:21.680",
+      "text": "的一天",
+      "translation": null
+    },
+    {
+      "time": 269.67,
+      "time_str": "04:29.670",
+      "text": "Bass：邱培荣",
+      "translation": null
+    },
+    {
+      "time": 277.67,
+      "time_str": "04:37.670",
+      "text": "母带后期处理制作人：刘天健",
+      "translation": null
+    },
+    {
+      "time": 278.67,
+      "time_str": "04:38.670",
+      "text": "母带后期处理工程师：王俊杰Mr.K / 黄伟明",
+      "translation": null
+    },
+    {
+      "time": 279.67,
+      "time_str": "04:39.670",
+      "text": "母带后期处理录音室：白金录音室",
+      "translation": null
+    },
+    {
+      "time": 281.67,
+      "time_str": "04:41.670",
+      "text": "SP：上华音乐经纪股份有限公司",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "背叛情歌 - 动力火车.lrc"
+}

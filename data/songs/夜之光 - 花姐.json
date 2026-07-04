@@ -1,0 +1,424 @@
+{
+  "title": "夜之光",
+  "title_raw": "夜之光",
+  "version": null,
+  "artist": "花姐",
+  "group_key": "夜之光|花姐",
+  "writers": {
+    "lyricist": "任帅兵",
+    "composer": "任帅兵",
+    "arranger": "阿权"
+  },
+  "lyrics": [
+    {
+      "time": 0.27,
+      "time_str": "00:00.270",
+      "text": "花姐 - 夜之光",
+      "translation": null
+    },
+    {
+      "time": 19.52,
+      "time_str": "00:19.520",
+      "text": "黑黑黑的夜",
+      "translation": null
+    },
+    {
+      "time": 21.19,
+      "time_str": "00:21.190",
+      "text": "城市被孤单照亮",
+      "translation": null
+    },
+    {
+      "time": 24.02,
+      "time_str": "00:24.020",
+      "text": "不回家的人",
+      "translation": null
+    },
+    {
+      "time": 25.63,
+      "time_str": "00:25.630",
+      "text": "心事散落在街上",
+      "translation": null
+    },
+    {
+      "time": 28.49,
+      "time_str": "00:28.490",
+      "text": "忙忙忙到晚",
+      "translation": null
+    },
+    {
+      "time": 30.15,
+      "time_str": "00:30.150",
+      "text": "不如出去走一趟",
+      "translation": null
+    },
+    {
+      "time": 33.04,
+      "time_str": "00:33.040",
+      "text": "大好时光等你去闯",
+      "translation": null
+    },
+    {
+      "time": 36.74,
+      "time_str": "00:36.740",
+      "text": "我走过夜夜夜的黑",
+      "translation": null
+    },
+    {
+      "time": 39.12,
+      "time_str": "00:39.120",
+      "text": "做的梦梦梦最真",
+      "translation": null
+    },
+    {
+      "time": 41.4,
+      "time_str": "00:41.400",
+      "text": "唱着火辣辣的情歌",
+      "translation": null
+    },
+    {
+      "time": 43.57,
+      "time_str": "00:43.570",
+      "text": "对你爱爱到底",
+      "translation": null
+    },
+    {
+      "time": 45.85,
+      "time_str": "00:45.850",
+      "text": "我穿过夜夜夜的街",
+      "translation": null
+    },
+    {
+      "time": 48.07,
+      "time_str": "00:48.070",
+      "text": "只为闪亮亮的心",
+      "translation": null
+    },
+    {
+      "time": 50.3,
+      "time_str": "00:50.300",
+      "text": "遇见最好的自己",
+      "translation": null
+    },
+    {
+      "time": 52.62,
+      "time_str": "00:52.620",
+      "text": "然后狠狠拥抱你",
+      "translation": null
+    },
+    {
+      "time": 64.46,
+      "time_str": "01:04.460",
+      "text": "黑黑黑的夜",
+      "translation": null
+    },
+    {
+      "time": 66.03,
+      "time_str": "01:06.030",
+      "text": "城市被孤单照亮",
+      "translation": null
+    },
+    {
+      "time": 68.91,
+      "time_str": "01:08.910",
+      "text": "不回家的人",
+      "translation": null
+    },
+    {
+      "time": 70.52,
+      "time_str": "01:10.520",
+      "text": "心事散落在街上",
+      "translation": null
+    },
+    {
+      "time": 73.32,
+      "time_str": "01:13.320",
+      "text": "忙忙忙到晚",
+      "translation": null
+    },
+    {
+      "time": 74.94,
+      "time_str": "01:14.940",
+      "text": "不如出去走一趟",
+      "translation": null
+    },
+    {
+      "time": 77.88,
+      "time_str": "01:17.880",
+      "text": "大好时光等你去闯",
+      "translation": null
+    },
+    {
+      "time": 81.67,
+      "time_str": "01:21.670",
+      "text": "我走过夜夜夜的黑",
+      "translation": null
+    },
+    {
+      "time": 83.94,
+      "time_str": "01:23.940",
+      "text": "做的梦梦梦最真",
+      "translation": null
+    },
+    {
+      "time": 86.22,
+      "time_str": "01:26.220",
+      "text": "唱着火辣辣的情歌",
+      "translation": null
+    },
+    {
+      "time": 88.45,
+      "time_str": "01:28.450",
+      "text": "对你爱爱到底",
+      "translation": null
+    },
+    {
+      "time": 90.67,
+      "time_str": "01:30.670",
+      "text": "我穿过夜夜夜的街",
+      "translation": null
+    },
+    {
+      "time": 92.9,
+      "time_str": "01:32.900",
+      "text": "只为闪亮亮的心",
+      "translation": null
+    },
+    {
+      "time": 95.22,
+      "time_str": "01:35.220",
+      "text": "遇见最好的自己",
+      "translation": null
+    },
+    {
+      "time": 97.4,
+      "time_str": "01:37.400",
+      "text": "然后狠狠拥抱你",
+      "translation": null
+    },
+    {
+      "time": 100.54,
+      "time_str": "01:40.540",
+      "text": "这一路走的太疯狂",
+      "translation": null
+    },
+    {
+      "time": 102.36,
+      "time_str": "01:42.360",
+      "text": "我写一首情歌给你唱",
+      "translation": null
+    },
+    {
+      "time": 104.63,
+      "time_str": "01:44.630",
+      "text": "如果有什么愿望值得分享",
+      "translation": null
+    },
+    {
+      "time": 106.71,
+      "time_str": "01:46.710",
+      "text": "希望你是这夜里最美的光",
+      "translation": null
+    },
+    {
+      "time": 108.84,
+      "time_str": "01:48.840",
+      "text": "陪你一路走陪你一路唱",
+      "translation": null
+    },
+    {
+      "time": 112.93,
+      "time_str": "01:52.930",
+      "text": "我走过夜夜夜的黑",
+      "translation": null
+    },
+    {
+      "time": 115.31,
+      "time_str": "01:55.310",
+      "text": "做的梦梦梦最真",
+      "translation": null
+    },
+    {
+      "time": 117.59,
+      "time_str": "01:57.590",
+      "text": "唱着火辣辣的情歌",
+      "translation": null
+    },
+    {
+      "time": 119.82,
+      "time_str": "01:59.820",
+      "text": "对你爱爱到底",
+      "translation": null
+    },
+    {
+      "time": 121.99,
+      "time_str": "02:01.990",
+      "text": "我穿过夜夜夜的街",
+      "translation": null
+    },
+    {
+      "time": 124.27,
+      "time_str": "02:04.270",
+      "text": "只为闪亮亮的心",
+      "translation": null
+    },
+    {
+      "time": 126.59,
+      "time_str": "02:06.590",
+      "text": "遇见最好的自己",
+      "translation": null
+    },
+    {
+      "time": 128.77,
+      "time_str": "02:08.770",
+      "text": "然后狠狠拥抱你",
+      "translation": null
+    },
+    {
+      "time": 130.99,
+      "time_str": "02:10.990",
+      "text": "我走过夜夜夜的黑",
+      "translation": null
+    },
+    {
+      "time": 133.32,
+      "time_str": "02:13.320",
+      "text": "做的梦梦梦最真",
+      "translation": null
+    },
+    {
+      "time": 135.6,
+      "time_str": "02:15.600",
+      "text": "唱着火辣辣的情歌",
+      "translation": null
+    },
+    {
+      "time": 137.77,
+      "time_str": "02:17.770",
+      "text": "对你爱爱到底",
+      "translation": null
+    },
+    {
+      "time": 139.85,
+      "time_str": "02:19.850",
+      "text": "我穿过夜夜夜的街",
+      "translation": null
+    },
+    {
+      "time": 142.28,
+      "time_str": "02:22.280",
+      "text": "只为闪亮亮的心",
+      "translation": null
+    },
+    {
+      "time": 144.51,
+      "time_str": "02:24.510",
+      "text": "遇见最好的自己",
+      "translation": null
+    },
+    {
+      "time": 146.78,
+      "time_str": "02:26.780",
+      "text": "然后狠狠拥抱你",
+      "translation": null
+    },
+    {
+      "time": 148.96,
+      "time_str": "02:28.960",
+      "text": "我走过夜夜夜的黑",
+      "translation": null
+    },
+    {
+      "time": 151.23,
+      "time_str": "02:31.230",
+      "text": "做的梦梦梦最真",
+      "translation": null
+    },
+    {
+      "time": 153.51,
+      "time_str": "02:33.510",
+      "text": "唱着火辣辣的情歌",
+      "translation": null
+    },
+    {
+      "time": 155.69,
+      "time_str": "02:35.690",
+      "text": "对你爱爱到底",
+      "translation": null
+    },
+    {
+      "time": 157.81,
+      "time_str": "02:37.810",
+      "text": "我穿过夜夜夜的街",
+      "translation": null
+    },
+    {
+      "time": 160.19,
+      "time_str": "02:40.190",
+      "text": "只为闪亮亮的心",
+      "translation": null
+    },
+    {
+      "time": 162.51,
+      "time_str": "02:42.510",
+      "text": "遇见最好的自己",
+      "translation": null
+    },
+    {
+      "time": 164.69,
+      "time_str": "02:44.690",
+      "text": "然后狠狠拥抱你",
+      "translation": null
+    },
+    {
+      "time": 167.12,
+      "time_str": "02:47.120",
+      "text": "我走过夜夜夜的黑",
+      "translation": null
+    },
+    {
+      "time": 169.2,
+      "time_str": "02:49.200",
+      "text": "做的梦梦梦最真",
+      "translation": null
+    },
+    {
+      "time": 171.42,
+      "time_str": "02:51.420",
+      "text": "唱着火辣辣的情歌",
+      "translation": null
+    },
+    {
+      "time": 173.6,
+      "time_str": "02:53.600",
+      "text": "对你爱爱到底",
+      "translation": null
+    },
+    {
+      "time": 175.68,
+      "time_str": "02:55.680",
+      "text": "我穿过夜夜夜的街",
+      "translation": null
+    },
+    {
+      "time": 178.2,
+      "time_str": "02:58.200",
+      "text": "只为闪亮亮的心",
+      "translation": null
+    },
+    {
+      "time": 180.37,
+      "time_str": "03:00.370",
+      "text": "遇见最好的自己",
+      "translation": null
+    },
+    {
+      "time": 182.6,
+      "time_str": "03:02.600",
+      "text": "然后狠狠拥抱你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "夜之光 - 花姐.lrc"
+}

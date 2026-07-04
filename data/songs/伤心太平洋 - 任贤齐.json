@@ -1,0 +1,376 @@
+{
+  "title": "伤心太平洋",
+  "title_raw": "伤心太平洋",
+  "version": null,
+  "artist": "任贤齐",
+  "group_key": "伤心太平洋|任贤齐",
+  "writers": {
+    "lyricist": "陈没",
+    "composer": "中島みゆき",
+    "arranger": "Mac Chew/Jenny Chin"
+  },
+  "lyrics": [
+    {
+      "time": 26.293,
+      "time_str": "00:26.293",
+      "text": "离开真的残酷吗",
+      "translation": null
+    },
+    {
+      "time": 28.7,
+      "time_str": "00:28.700",
+      "text": "或者温柔才是可耻的",
+      "translation": null
+    },
+    {
+      "time": 31.881,
+      "time_str": "00:31.881",
+      "text": "或者孤独的人无所谓",
+      "translation": null
+    },
+    {
+      "time": 35.116,
+      "time_str": "00:35.116",
+      "text": "无日无夜无条件",
+      "translation": null
+    },
+    {
+      "time": 39.076,
+      "time_str": "00:39.076",
+      "text": "前面真的危险吗",
+      "translation": null
+    },
+    {
+      "time": 41.509,
+      "time_str": "00:41.509",
+      "text": "或者背叛才是体贴的",
+      "translation": null
+    },
+    {
+      "time": 44.672,
+      "time_str": "00:44.672",
+      "text": "或者逃避比较容易吧",
+      "translation": null
+    },
+    {
+      "time": 47.868,
+      "time_str": "00:47.868",
+      "text": "风言风语风吹沙",
+      "translation": null
+    },
+    {
+      "time": 51.472,
+      "time_str": "00:51.472",
+      "text": "往前一步是黄昏",
+      "translation": null
+    },
+    {
+      "time": 54.716,
+      "time_str": "00:54.716",
+      "text": "退后一步是人生",
+      "translation": null
+    },
+    {
+      "time": 57.86,
+      "time_str": "00:57.860",
+      "text": "风不平 浪不静",
+      "translation": null
+    },
+    {
+      "time": 59.518,
+      "time_str": "00:59.518",
+      "text": "心还不安稳",
+      "translation": null
+    },
+    {
+      "time": 61.134,
+      "time_str": "01:01.134",
+      "text": "一个岛锁住一个人",
+      "translation": null
+    },
+    {
+      "time": 65.961,
+      "time_str": "01:05.961",
+      "text": "我等的船还不来",
+      "translation": null
+    },
+    {
+      "time": 69.095,
+      "time_str": "01:09.095",
+      "text": "我等的人还不明白",
+      "translation": null
+    },
+    {
+      "time": 72.356,
+      "time_str": "01:12.356",
+      "text": "寂寞默默沉没沉入海",
+      "translation": null
+    },
+    {
+      "time": 75.543,
+      "time_str": "01:15.543",
+      "text": "未来不在我还在",
+      "translation": null
+    },
+    {
+      "time": 78.751,
+      "time_str": "01:18.751",
+      "text": "如果潮去心也去",
+      "translation": null
+    },
+    {
+      "time": 81.991,
+      "time_str": "01:21.991",
+      "text": "如果潮来你还不来",
+      "translation": null
+    },
+    {
+      "time": 85.173,
+      "time_str": "01:25.173",
+      "text": "浮浮沉沉 往事浮上来",
+      "translation": null
+    },
+    {
+      "time": 88.326,
+      "time_str": "01:28.326",
+      "text": "回忆回来 你已不在",
+      "translation": null
+    },
+    {
+      "time": 92.775,
+      "time_str": "01:32.775",
+      "text": "一波还未平息",
+      "translation": null
+    },
+    {
+      "time": 94.414,
+      "time_str": "01:34.414",
+      "text": "一波又来侵袭",
+      "translation": null
+    },
+    {
+      "time": 96.353,
+      "time_str": "01:36.353",
+      "text": "茫茫人海 狂风暴雨",
+      "translation": null
+    },
+    {
+      "time": 99.229,
+      "time_str": "01:39.229",
+      "text": "一波还来不及",
+      "translation": null
+    },
+    {
+      "time": 100.831,
+      "time_str": "01:40.831",
+      "text": "一波早就过去",
+      "translation": null
+    },
+    {
+      "time": 102.784,
+      "time_str": "01:42.784",
+      "text": "一生一世 如梦初醒",
+      "translation": null
+    },
+    {
+      "time": 106.019,
+      "time_str": "01:46.019",
+      "text": "深深太平洋底 深深伤心",
+      "translation": null
+    },
+    {
+      "time": 125.693,
+      "time_str": "02:05.693",
+      "text": "离开真的残酷吗",
+      "translation": null
+    },
+    {
+      "time": 128.1,
+      "time_str": "02:08.100",
+      "text": "或者温柔才是可耻的",
+      "translation": null
+    },
+    {
+      "time": 131.312,
+      "time_str": "02:11.312",
+      "text": "或者孤独的人无所谓",
+      "translation": null
+    },
+    {
+      "time": 134.535,
+      "time_str": "02:14.535",
+      "text": "无日无夜无条件",
+      "translation": null
+    },
+    {
+      "time": 137.747,
+      "time_str": "02:17.747",
+      "text": "往前一步是黄昏",
+      "translation": null
+    },
+    {
+      "time": 141.327,
+      "time_str": "02:21.327",
+      "text": "退后一步是人生",
+      "translation": null
+    },
+    {
+      "time": 144.527,
+      "time_str": "02:24.527",
+      "text": "风不平 浪不静",
+      "translation": null
+    },
+    {
+      "time": 146.109,
+      "time_str": "02:26.109",
+      "text": "心还不安稳",
+      "translation": null
+    },
+    {
+      "time": 147.698,
+      "time_str": "02:27.698",
+      "text": "一个岛锁住一个人",
+      "translation": null
+    },
+    {
+      "time": 152.492,
+      "time_str": "02:32.492",
+      "text": "我等的船还不来",
+      "translation": null
+    },
+    {
+      "time": 155.719,
+      "time_str": "02:35.719",
+      "text": "我等的人还不明白",
+      "translation": null
+    },
+    {
+      "time": 158.913,
+      "time_str": "02:38.913",
+      "text": "寂寞默默沉没沉入海",
+      "translation": null
+    },
+    {
+      "time": 162.112,
+      "time_str": "02:42.112",
+      "text": "回忆回来 你已不在",
+      "translation": null
+    },
+    {
+      "time": 166.552,
+      "time_str": "02:46.552",
+      "text": "一波还未平息",
+      "translation": null
+    },
+    {
+      "time": 168.158,
+      "time_str": "02:48.158",
+      "text": "一波又来侵袭",
+      "translation": null
+    },
+    {
+      "time": 170.132,
+      "time_str": "02:50.132",
+      "text": "茫茫人海 狂风暴雨",
+      "translation": null
+    },
+    {
+      "time": 172.996,
+      "time_str": "02:52.996",
+      "text": "一波还来不及",
+      "translation": null
+    },
+    {
+      "time": 174.579,
+      "time_str": "02:54.579",
+      "text": "一波早就过去",
+      "translation": null
+    },
+    {
+      "time": 176.568,
+      "time_str": "02:56.568",
+      "text": "一生一世 如梦初醒",
+      "translation": null
+    },
+    {
+      "time": 179.745,
+      "time_str": "02:59.745",
+      "text": "深深太平洋底 深深伤心",
+      "translation": null
+    },
+    {
+      "time": 211.462,
+      "time_str": "03:31.462",
+      "text": "一波还未平息",
+      "translation": null
+    },
+    {
+      "time": 214.661,
+      "time_str": "03:34.661",
+      "text": "一波又来侵袭",
+      "translation": null
+    },
+    {
+      "time": 217.92,
+      "time_str": "03:37.920",
+      "text": "一波还来不及",
+      "translation": null
+    },
+    {
+      "time": 221.108,
+      "time_str": "03:41.108",
+      "text": "一波早就过去",
+      "translation": null
+    },
+    {
+      "time": 224.618,
+      "time_str": "03:44.618",
+      "text": "深深太平洋底 深深伤心",
+      "translation": null
+    },
+    {
+      "time": 231.068,
+      "time_str": "03:51.068",
+      "text": "深深太平洋底 深深伤心",
+      "translation": null
+    },
+    {
+      "time": 261.24,
+      "time_str": "04:21.240",
+      "text": "录音工程师 : 黄卓叡/Rahmad Ayob",
+      "translation": null
+    },
+    {
+      "time": 261.597,
+      "time_str": "04:21.597",
+      "text": "混音工程师 : 钟国泰",
+      "translation": null
+    },
+    {
+      "time": 262.311,
+      "time_str": "04:22.311",
+      "text": "混音室 : 白金",
+      "translation": null
+    },
+    {
+      "time": 263.382,
+      "time_str": "04:23.382",
+      "text": "贝斯 : Norman Abd Rahman",
+      "translation": null
+    },
+    {
+      "time": 264.453,
+      "time_str": "04:24.453",
+      "text": "TWA4598147003",
+      "translation": null
+    },
+    {
+      "time": 265.881,
+      "time_str": "04:25.881",
+      "text": "SP : EMI Music Pub. (S.E. Asia) Ltd. Taiwan Branch",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "伤心太平洋 - 任贤齐.lrc"
+}

@@ -1,0 +1,166 @@
+{
+  "title": "绝世",
+  "title_raw": "绝世",
+  "version": null,
+  "artist": "张克帆",
+  "group_key": "绝世|张克帆",
+  "writers": {
+    "lyricist": "唐健",
+    "composer": "唐健",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.6,
+      "time_str": "00:15.600",
+      "text": "世间种种的诱惑",
+      "translation": null
+    },
+    {
+      "time": 18.6,
+      "time_str": "00:18.600",
+      "text": "不惊不扰我清梦",
+      "translation": null
+    },
+    {
+      "time": 22.6,
+      "time_str": "00:22.600",
+      "text": "山高路远不绝我",
+      "translation": null
+    },
+    {
+      "time": 25.6,
+      "time_str": "00:25.600",
+      "text": "追踪你绝美的笑容",
+      "translation": null
+    },
+    {
+      "time": 29.6,
+      "time_str": "00:29.600",
+      "text": "登高一呼时才懂",
+      "translation": null
+    },
+    {
+      "time": 32.598,
+      "time_str": "00:32.598",
+      "text": "始终在为你心痛",
+      "translation": null
+    },
+    {
+      "time": 35.599,
+      "time_str": "00:35.599",
+      "text": "俯首对花影摇动",
+      "translation": null
+    },
+    {
+      "time": 39.599,
+      "time_str": "00:39.599",
+      "text": "都是东风在捉弄",
+      "translation": null
+    },
+    {
+      "time": 58.199,
+      "time_str": "00:58.199",
+      "text": "世间种种的迷惑",
+      "translation": null
+    },
+    {
+      "time": 62.199,
+      "time_str": "01:02.199",
+      "text": "都是因你而猜错",
+      "translation": null
+    },
+    {
+      "time": 66.2,
+      "time_str": "01:06.200",
+      "text": "水光月光又交融",
+      "translation": null
+    },
+    {
+      "time": 69.2,
+      "time_str": "01:09.200",
+      "text": "描述这朗朗的夜空",
+      "translation": null
+    },
+    {
+      "time": 72.2,
+      "time_str": "01:12.200",
+      "text": "生死到头的相从",
+      "translation": null
+    },
+    {
+      "time": 76.2,
+      "time_str": "01:16.200",
+      "text": "似狂花落叶般从容",
+      "translation": null
+    },
+    {
+      "time": 79.2,
+      "time_str": "01:19.200",
+      "text": "当一切泯灭如梦",
+      "translation": null
+    },
+    {
+      "time": 83.2,
+      "time_str": "01:23.200",
+      "text": "就在远山被绝世尘封",
+      "translation": null
+    },
+    {
+      "time": 86.2,
+      "time_str": "01:26.200",
+      "text": "啊...",
+      "translation": null
+    },
+    {
+      "time": 114.8,
+      "time_str": "01:54.800",
+      "text": "水光月光又交融",
+      "translation": null
+    },
+    {
+      "time": 121.1,
+      "time_str": "02:01.100",
+      "text": "描述这朗朗的夜空",
+      "translation": null
+    },
+    {
+      "time": 128.4,
+      "time_str": "02:08.400",
+      "text": "生死到头的相从",
+      "translation": null
+    },
+    {
+      "time": 135.4,
+      "time_str": "02:15.400",
+      "text": "似狂花落叶般从容",
+      "translation": null
+    },
+    {
+      "time": 145.3,
+      "time_str": "02:25.300",
+      "text": "啊...",
+      "translation": null
+    },
+    {
+      "time": 150.3,
+      "time_str": "02:30.300",
+      "text": "不扰我清梦泯灭如梦",
+      "translation": null
+    },
+    {
+      "time": 164.3,
+      "time_str": "02:44.300",
+      "text": "都是东风在捉弄",
+      "translation": null
+    },
+    {
+      "time": 168.3,
+      "time_str": "02:48.300",
+      "text": "像落叶般从容",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "绝世 - 张克帆.lrc"
+}

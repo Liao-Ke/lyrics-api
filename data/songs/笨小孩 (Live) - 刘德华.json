@@ -1,0 +1,202 @@
+{
+  "title": "笨小孩",
+  "title_raw": "笨小孩 (Live)",
+  "version": "Live",
+  "artist": "刘德华",
+  "group_key": "笨小孩|刘德华",
+  "writers": {
+    "lyricist": "刘德华",
+    "composer": "高枫",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 21.98,
+      "time_str": "00:21.980",
+      "text": "哦宁静的小村外 有一个笨小孩",
+      "translation": null
+    },
+    {
+      "time": 24.78,
+      "time_str": "00:24.780",
+      "text": "出生在六零年代",
+      "translation": null
+    },
+    {
+      "time": 27.44,
+      "time_str": "00:27.440",
+      "text": "十来岁到城市 不怕那太阳晒",
+      "translation": null
+    },
+    {
+      "time": 30.21,
+      "time_str": "00:30.210",
+      "text": "努力在柒零年代",
+      "translation": null
+    },
+    {
+      "time": 32.83,
+      "time_str": "00:32.830",
+      "text": "发现呀城市里 朋友们不用去灌溉",
+      "translation": null
+    },
+    {
+      "time": 38.14,
+      "time_str": "00:38.140",
+      "text": "花自然会开",
+      "translation": null
+    },
+    {
+      "time": 43.16,
+      "time_str": "00:43.160",
+      "text": "哦转眼间那么快 这一个笨小孩",
+      "translation": null
+    },
+    {
+      "time": 46.21,
+      "time_str": "00:46.210",
+      "text": "又到了八零年代",
+      "translation": null
+    },
+    {
+      "time": 48.76,
+      "time_str": "00:48.760",
+      "text": "三十岁到头来 不算好也不坏",
+      "translation": null
+    },
+    {
+      "time": 51.63,
+      "time_str": "00:51.630",
+      "text": "经过了玖零年代",
+      "translation": null
+    },
+    {
+      "time": 54.34,
+      "time_str": "00:54.340",
+      "text": "最无奈他自己 总是会慢人家一拍",
+      "translation": null
+    },
+    {
+      "time": 59.51,
+      "time_str": "00:59.510",
+      "text": "没有钱在那口袋",
+      "translation": null
+    },
+    {
+      "time": 64.54,
+      "time_str": "01:04.540",
+      "text": "哎哟往着胸口拍一拍呀 勇敢站起来",
+      "translation": null
+    },
+    {
+      "time": 69.72,
+      "time_str": "01:09.720",
+      "text": "不用心情太坏",
+      "translation": null
+    },
+    {
+      "time": 74.99,
+      "time_str": "01:14.990",
+      "text": "哎哟向着天空拜一拜呀 别想不开",
+      "translation": null
+    },
+    {
+      "time": 80.54,
+      "time_str": "01:20.540",
+      "text": "老天自有安排",
+      "translation": null
+    },
+    {
+      "time": 110.07,
+      "time_str": "01:50.070",
+      "text": "哦他们说城市里 男不坏女不爱",
+      "translation": null
+    },
+    {
+      "time": 112.75,
+      "time_str": "01:52.750",
+      "text": "怎么想也不明白",
+      "translation": null
+    },
+    {
+      "time": 115.64,
+      "time_str": "01:55.640",
+      "text": "妈妈说真心爱 会爱得很精彩",
+      "translation": null
+    },
+    {
+      "time": 118.4,
+      "time_str": "01:58.400",
+      "text": "结果我没有女孩",
+      "translation": null
+    },
+    {
+      "time": 120.15,
+      "time_str": "02:00.150",
+      "text": "哎哟笨小孩依然是坚强 得像石头一块",
+      "translation": null
+    },
+    {
+      "time": 126.09,
+      "time_str": "02:06.090",
+      "text": "只是晚上寂寞难耐",
+      "translation": null
+    },
+    {
+      "time": 131.25,
+      "time_str": "02:11.250",
+      "text": "哎哟往着胸口拍一拍呀 勇敢站起来",
+      "translation": null
+    },
+    {
+      "time": 137.37,
+      "time_str": "02:17.370",
+      "text": "不用心情太坏",
+      "translation": null
+    },
+    {
+      "time": 141.63,
+      "time_str": "02:21.630",
+      "text": "哎哟向着天空拜一拜呀 别想不开",
+      "translation": null
+    },
+    {
+      "time": 148.13,
+      "time_str": "02:28.130",
+      "text": "老天自有安排",
+      "translation": null
+    },
+    {
+      "time": 152.33,
+      "time_str": "02:32.330",
+      "text": "哎哟往着胸口拍一拍呀 勇敢站起来",
+      "translation": null
+    },
+    {
+      "time": 157.95,
+      "time_str": "02:37.950",
+      "text": "管它上山下海",
+      "translation": null
+    },
+    {
+      "time": 162.76,
+      "time_str": "02:42.760",
+      "text": "哎哟向着天空拜一拜呀 别想不开",
+      "translation": null
+    },
+    {
+      "time": 168.25,
+      "time_str": "02:48.250",
+      "text": "老天自有安排",
+      "translation": null
+    },
+    {
+      "time": 173.61,
+      "time_str": "02:53.610",
+      "text": "老天爱笨小孩",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "笨小孩 (Live) - 刘德华.lrc"
+}

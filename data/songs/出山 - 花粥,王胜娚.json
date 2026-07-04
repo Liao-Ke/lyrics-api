@@ -1,0 +1,280 @@
+{
+  "title": "出山",
+  "title_raw": "出山",
+  "version": null,
+  "artist": "花粥,王胜娚",
+  "group_key": "出山|花粥,王胜娚",
+  "writers": {
+    "lyricist": "花粥",
+    "composer": "花粥",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.12,
+      "time_str": "00:11.120",
+      "text": "在夜半三更过天桥从来不敢回头看",
+      "translation": null
+    },
+    {
+      "time": 15.86,
+      "time_str": "00:15.860",
+      "text": "白日里是车水马龙此时脚下是忘川",
+      "translation": null
+    },
+    {
+      "time": 21.3,
+      "time_str": "00:21.300",
+      "text": "我独自走过半山腰山间野狗来作伴",
+      "translation": null
+    },
+    {
+      "time": 25.19,
+      "time_str": "00:25.190",
+      "text": "层林尽染百舸流秋风吹过鬼门关",
+      "translation": null
+    },
+    {
+      "time": 29.81,
+      "time_str": "00:29.810",
+      "text": "一瞬三年五载 品粗茶 食淡饭",
+      "translation": null
+    },
+    {
+      "time": 34.49,
+      "time_str": "00:34.490",
+      "text": "六界八荒四海 无人与我来叫板",
+      "translation": null
+    },
+    {
+      "time": 39.19,
+      "time_str": "00:39.190",
+      "text": "人间荒唐古怪 竹林外 有书斋",
+      "translation": null
+    },
+    {
+      "time": 43.78,
+      "time_str": "00:43.780",
+      "text": "匿于此地畅快 偏来者不善善者不来",
+      "translation": null
+    },
+    {
+      "time": 50.85,
+      "time_str": "00:50.850",
+      "text": "是我装模作样在瞎掰",
+      "translation": null
+    },
+    {
+      "time": 55.18,
+      "time_str": "00:55.180",
+      "text": "还是他们本就心怀鬼胎",
+      "translation": null
+    },
+    {
+      "time": 57.82,
+      "time_str": "00:57.820",
+      "text": "有人不知悔改 迷雾中混淆黑白",
+      "translation": null
+    },
+    {
+      "time": 62.46,
+      "time_str": "01:02.460",
+      "text": "在情怀里市侩 旁人不敢来拆穿",
+      "translation": null
+    },
+    {
+      "time": 67.17,
+      "time_str": "01:07.170",
+      "text": "看似时来运转 实则在顶风作案",
+      "translation": null
+    },
+    {
+      "time": 71.73,
+      "time_str": "01:11.730",
+      "text": "曲终又人散 这一出还有谁在围观",
+      "translation": null
+    },
+    {
+      "time": 76.79,
+      "time_str": "01:16.790",
+      "text": "在凡尘修炼二十载听闻水能滴石穿",
+      "translation": null
+    },
+    {
+      "time": 81.07,
+      "time_str": "01:21.070",
+      "text": "帝王豪杰风云变幻敌不过桑田沧海",
+      "translation": null
+    },
+    {
+      "time": 85.85,
+      "time_str": "01:25.850",
+      "text": "我不关心谁的江山只眷恋两小无猜",
+      "translation": null
+    },
+    {
+      "time": 90.36,
+      "time_str": "01:30.360",
+      "text": "兴风作浪不稀罕只身固守峨眉山",
+      "translation": null
+    },
+    {
+      "time": 95.14,
+      "time_str": "01:35.140",
+      "text": "一瞬三年五载 品粗茶 食淡饭",
+      "translation": null
+    },
+    {
+      "time": 99.73,
+      "time_str": "01:39.730",
+      "text": "六界八荒四海 无人与我来叫板",
+      "translation": null
+    },
+    {
+      "time": 104.33,
+      "time_str": "01:44.330",
+      "text": "人间荒唐古怪 竹林外 有书斋",
+      "translation": null
+    },
+    {
+      "time": 109.11,
+      "time_str": "01:49.110",
+      "text": "匿于此地畅快 偏来者不善善者不来",
+      "translation": null
+    },
+    {
+      "time": 116.0,
+      "time_str": "01:56.000",
+      "text": "是我装模作样在瞎猜",
+      "translation": null
+    },
+    {
+      "time": 120.39,
+      "time_str": "02:00.390",
+      "text": "还是他们本就心怀鬼胎",
+      "translation": null
+    },
+    {
+      "time": 123.15,
+      "time_str": "02:03.150",
+      "text": "有人不知悔改 迷雾中混淆黑白",
+      "translation": null
+    },
+    {
+      "time": 127.73,
+      "time_str": "02:07.730",
+      "text": "在情怀里市侩 旁人不敢来拆穿",
+      "translation": null
+    },
+    {
+      "time": 132.39,
+      "time_str": "02:12.390",
+      "text": "看似时来运转 实则在顶风作案",
+      "translation": null
+    },
+    {
+      "time": 137.06,
+      "time_str": "02:17.060",
+      "text": "待曲终又人散 这一出还有谁在围观",
+      "translation": null
+    },
+    {
+      "time": 141.82,
+      "time_str": "02:21.820",
+      "text": "静悄悄配唠唠叨叨",
+      "translation": null
+    },
+    {
+      "time": 144.0,
+      "time_str": "02:24.000",
+      "text": "随便瞧瞧我凑凑热闹",
+      "translation": null
+    },
+    {
+      "time": 146.34,
+      "time_str": "02:26.340",
+      "text": "客串也别太潦草",
+      "translation": null
+    },
+    {
+      "time": 148.7,
+      "time_str": "02:28.700",
+      "text": "吃的生蚝要蘸个酱料",
+      "translation": null
+    },
+    {
+      "time": 151.0,
+      "time_str": "02:31.000",
+      "text": "悄悄你唠唠叨叨",
+      "translation": null
+    },
+    {
+      "time": 153.3,
+      "time_str": "02:33.300",
+      "text": "随便瞧瞧你凑的热闹",
+      "translation": null
+    },
+    {
+      "time": 155.68,
+      "time_str": "02:35.680",
+      "text": "听到你做个记号",
+      "translation": null
+    },
+    {
+      "time": 157.84,
+      "time_str": "02:37.840",
+      "text": "请装进书包别四处招摇",
+      "translation": null
+    },
+    {
+      "time": 160.29,
+      "time_str": "02:40.290",
+      "text": "有人迷途知返",
+      "translation": null
+    },
+    {
+      "time": 165.08,
+      "time_str": "02:45.080",
+      "text": "便是苦尽甘来",
+      "translation": null
+    },
+    {
+      "time": 170.0,
+      "time_str": "02:50.000",
+      "text": "一瞬三年五载",
+      "translation": null
+    },
+    {
+      "time": 174.15,
+      "time_str": "02:54.150",
+      "text": "这曲终又人散",
+      "translation": null
+    },
+    {
+      "time": 213.95,
+      "time_str": "03:33.950",
+      "text": "合作音乐人：王胜娚",
+      "translation": null
+    },
+    {
+      "time": 214.13,
+      "time_str": "03:34.130",
+      "text": "音乐制作：BachBeats",
+      "translation": null
+    },
+    {
+      "time": 214.48,
+      "time_str": "03:34.480",
+      "text": "混音／母带处理：钻石狗音乐工作室（北京）",
+      "translation": null
+    },
+    {
+      "time": 214.82,
+      "time_str": "03:34.820",
+      "text": "专辑封面设计：姜小海",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "出山 - 花粥,王胜娚.lrc"
+}

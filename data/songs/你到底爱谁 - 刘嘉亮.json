@@ -1,0 +1,250 @@
+{
+  "title": "你到底爱谁",
+  "title_raw": "你到底爱谁",
+  "version": null,
+  "artist": "刘嘉亮",
+  "group_key": "你到底爱谁|刘嘉亮",
+  "writers": {
+    "lyricist": "刘嘉亮",
+    "composer": "刘嘉亮",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.962,
+      "time_str": "00:24.962",
+      "text": "一个人喝醉好想找个人来陪",
+      "translation": null
+    },
+    {
+      "time": 31.73,
+      "time_str": "00:31.730",
+      "text": "我们之间有太多的误会",
+      "translation": null
+    },
+    {
+      "time": 38.769,
+      "time_str": "00:38.769",
+      "text": "爱不能再沉睡",
+      "translation": null
+    },
+    {
+      "time": 41.915,
+      "time_str": "00:41.915",
+      "text": "是可悲是摧毁",
+      "translation": null
+    },
+    {
+      "time": 45.496,
+      "time_str": "00:45.496",
+      "text": "我不要再为谁掉眼泪",
+      "translation": null
+    },
+    {
+      "time": 53.107,
+      "time_str": "00:53.107",
+      "text": "爱过才后悔想要用酒来麻醉",
+      "translation": null
+    },
+    {
+      "time": 60.013,
+      "time_str": "01:00.013",
+      "text": "我们之间有太多的误会",
+      "translation": null
+    },
+    {
+      "time": 66.666,
+      "time_str": "01:06.666",
+      "text": "爱不能再沉睡",
+      "translation": null
+    },
+    {
+      "time": 70.2,
+      "time_str": "01:10.200",
+      "text": "是可悲是摧毁",
+      "translation": null
+    },
+    {
+      "time": 74.025,
+      "time_str": "01:14.025",
+      "text": "我不要再为谁而心碎",
+      "translation": null
+    },
+    {
+      "time": 80.63,
+      "time_str": "01:20.630",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 84.126,
+      "time_str": "01:24.126",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 88.27,
+      "time_str": "01:28.270",
+      "text": "如果相爱是完美",
+      "translation": null
+    },
+    {
+      "time": 91.34,
+      "time_str": "01:31.340",
+      "text": "就让我们用真心去面对",
+      "translation": null
+    },
+    {
+      "time": 94.502,
+      "time_str": "01:34.502",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 98.324,
+      "time_str": "01:38.324",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 102.395,
+      "time_str": "01:42.395",
+      "text": "留下了太多伤悲",
+      "translation": null
+    },
+    {
+      "time": 105.534,
+      "time_str": "01:45.534",
+      "text": "告诉我你到底爱着谁",
+      "translation": null
+    },
+    {
+      "time": 141.675,
+      "time_str": "02:21.675",
+      "text": "爱过才后悔想要用酒来麻醉",
+      "translation": null
+    },
+    {
+      "time": 148.248,
+      "time_str": "02:28.248",
+      "text": "我们之间有太多的误会",
+      "translation": null
+    },
+    {
+      "time": 154.895,
+      "time_str": "02:34.895",
+      "text": "爱不能再沉睡",
+      "translation": null
+    },
+    {
+      "time": 158.446,
+      "time_str": "02:38.446",
+      "text": "是可悲是摧毁",
+      "translation": null
+    },
+    {
+      "time": 162.005,
+      "time_str": "02:42.005",
+      "text": "我不要再为谁而心碎",
+      "translation": null
+    },
+    {
+      "time": 169.029,
+      "time_str": "02:49.029",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 172.391,
+      "time_str": "02:52.391",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 176.526,
+      "time_str": "02:56.526",
+      "text": "如果相爱是完美",
+      "translation": null
+    },
+    {
+      "time": 179.629,
+      "time_str": "02:59.629",
+      "text": "就让我们用真心去面对",
+      "translation": null
+    },
+    {
+      "time": 182.983,
+      "time_str": "03:02.983",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 186.458,
+      "time_str": "03:06.458",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 190.661,
+      "time_str": "03:10.661",
+      "text": "留下了太多伤悲",
+      "translation": null
+    },
+    {
+      "time": 193.865,
+      "time_str": "03:13.865",
+      "text": "告诉我你到底爱着谁",
+      "translation": null
+    },
+    {
+      "time": 200.649,
+      "time_str": "03:20.649",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 204.183,
+      "time_str": "03:24.183",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 208.281,
+      "time_str": "03:28.281",
+      "text": "如果相爱是完美",
+      "translation": null
+    },
+    {
+      "time": 211.361,
+      "time_str": "03:31.361",
+      "text": "就让我们用真心去面对",
+      "translation": null
+    },
+    {
+      "time": 214.658,
+      "time_str": "03:34.658",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 218.259,
+      "time_str": "03:38.259",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 222.347,
+      "time_str": "03:42.347",
+      "text": "留下了太多伤悲",
+      "translation": null
+    },
+    {
+      "time": 225.54,
+      "time_str": "03:45.540",
+      "text": "告诉我你到底爱着谁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你到底爱谁 - 刘嘉亮.lrc"
+}

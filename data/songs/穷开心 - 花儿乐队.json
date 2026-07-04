@@ -1,0 +1,400 @@
+{
+  "title": "穷开心",
+  "title_raw": "穷开心",
+  "version": null,
+  "artist": "花儿乐队",
+  "group_key": "穷开心|花儿乐队",
+  "writers": {
+    "lyricist": "花儿乐队",
+    "composer": "花儿乐队",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.59,
+      "time_str": "00:13.590",
+      "text": "小小的人儿啊 风生水起呀",
+      "translation": null
+    },
+    {
+      "time": 16.78,
+      "time_str": "00:16.780",
+      "text": "天天就爱穷开心那",
+      "translation": null
+    },
+    {
+      "time": 19.94,
+      "time_str": "00:19.940",
+      "text": "逍遥的魂儿啊 假不正经吧",
+      "translation": null
+    },
+    {
+      "time": 23.33,
+      "time_str": "00:23.330",
+      "text": "嘻嘻哈哈我们穷开心",
+      "translation": null
+    },
+    {
+      "time": 25.77,
+      "time_str": "00:25.770",
+      "text": "我是谁家那小谁 身强赛过活李逵",
+      "translation": null
+    },
+    {
+      "time": 29.03,
+      "time_str": "00:29.030",
+      "text": "貌俊赛过猛张飞 擀毡发型亮又黑",
+      "translation": null
+    },
+    {
+      "time": 32.48,
+      "time_str": "00:32.480",
+      "text": "是走南闯过北 气质出众又拔萃",
+      "translation": null
+    },
+    {
+      "time": 35.44,
+      "time_str": "00:35.440",
+      "text": "长江黄河喝过水 和鞭炮地雷亲过嘴",
+      "translation": null
+    },
+    {
+      "time": 39.02,
+      "time_str": "00:39.020",
+      "text": "可嗔很憔悴 是满脸欠人捶",
+      "translation": null
+    },
+    {
+      "time": 41.87,
+      "time_str": "00:41.870",
+      "text": "你是西山挖过煤",
+      "translation": null
+    },
+    {
+      "time": 43.47,
+      "time_str": "00:43.470",
+      "text": "还是东山见过鬼（真的？）",
+      "translation": null
+    },
+    {
+      "time": 45.27,
+      "time_str": "00:45.270",
+      "text": "这人生苦短累",
+      "translation": null
+    },
+    {
+      "time": 46.65,
+      "time_str": "00:46.650",
+      "text": "今朝有酒今朝醉（啊对！）",
+      "translation": null
+    },
+    {
+      "time": 48.32,
+      "time_str": "00:48.320",
+      "text": "为了不哭大声笑",
+      "translation": null
+    },
+    {
+      "time": 50.19,
+      "time_str": "00:50.190",
+      "text": "为了不烦大声呸",
+      "translation": null
+    },
+    {
+      "time": 52.65,
+      "time_str": "00:52.650",
+      "text": "小小的人儿啊 风生水起呀",
+      "translation": null
+    },
+    {
+      "time": 55.87,
+      "time_str": "00:55.870",
+      "text": "天天就爱穷开心那",
+      "translation": null
+    },
+    {
+      "time": 58.96,
+      "time_str": "00:58.960",
+      "text": "逍遥的魂儿啊 假不正经吧",
+      "translation": null
+    },
+    {
+      "time": 62.228,
+      "time_str": "01:02.228",
+      "text": "嘻嘻哈哈我们穷开心那",
+      "translation": null
+    },
+    {
+      "time": 65.507,
+      "time_str": "01:05.507",
+      "text": "小小的人儿啊 风生水起呀",
+      "translation": null
+    },
+    {
+      "time": 68.659,
+      "time_str": "01:08.659",
+      "text": "天天就爱穷开心那",
+      "translation": null
+    },
+    {
+      "time": 72.349,
+      "time_str": "01:12.349",
+      "text": "逍遥的魂儿啊 假不正经吧",
+      "translation": null
+    },
+    {
+      "time": 75.51,
+      "time_str": "01:15.510",
+      "text": "嘻嘻哈哈我们穷开心",
+      "translation": null
+    },
+    {
+      "time": 78.308,
+      "time_str": "01:18.308",
+      "text": "她是谁家那小谁（嗯？） 身材赛过杨贵妃",
+      "translation": null
+    },
+    {
+      "time": 81.4,
+      "time_str": "01:21.400",
+      "text": "貌美赛过七仙妹 婀娜多姿如翡翠（嗯~）",
+      "translation": null
+    },
+    {
+      "time": 84.879,
+      "time_str": "01:24.879",
+      "text": "是红男绿女配 都是二十啷当岁",
+      "translation": null
+    },
+    {
+      "time": 87.799,
+      "time_str": "01:27.799",
+      "text": "纯洁幸福勇敢追 挨打挨剋也不气馁",
+      "translation": null
+    },
+    {
+      "time": 91.48,
+      "time_str": "01:31.480",
+      "text": "可她很自卑 是满脸认倒霉",
+      "translation": null
+    },
+    {
+      "time": 94.438,
+      "time_str": "01:34.438",
+      "text": "您是白天抹过黑 还是夜里做过贼（太累）",
+      "translation": null
+    },
+    {
+      "time": 97.578,
+      "time_str": "01:37.578",
+      "text": "这人生苦短累 今朝有酒今朝醉",
+      "translation": null
+    },
+    {
+      "time": 100.879,
+      "time_str": "01:40.879",
+      "text": "为了不哭大声笑",
+      "translation": null
+    },
+    {
+      "time": 102.65,
+      "time_str": "01:42.650",
+      "text": "为了不烦大声呸",
+      "translation": null
+    },
+    {
+      "time": 104.4,
+      "time_str": "01:44.400",
+      "text": "小小的人儿啊 风生水起呀",
+      "translation": null
+    },
+    {
+      "time": 107.65,
+      "time_str": "01:47.650",
+      "text": "天天就爱穷开心那",
+      "translation": null
+    },
+    {
+      "time": 110.849,
+      "time_str": "01:50.849",
+      "text": "逍遥的魂儿啊 假不正经吧",
+      "translation": null
+    },
+    {
+      "time": 113.968,
+      "time_str": "01:53.968",
+      "text": "嘻嘻哈哈我们穷开心那",
+      "translation": null
+    },
+    {
+      "time": 117.2,
+      "time_str": "01:57.200",
+      "text": "小小的人儿啊 风生水起呀",
+      "translation": null
+    },
+    {
+      "time": 120.489,
+      "time_str": "02:00.489",
+      "text": "天天就爱穷开心那",
+      "translation": null
+    },
+    {
+      "time": 123.599,
+      "time_str": "02:03.599",
+      "text": "逍遥的魂儿啊 假不正经吧",
+      "translation": null
+    },
+    {
+      "time": 126.799,
+      "time_str": "02:06.799",
+      "text": "嘻嘻哈哈我们穷开心",
+      "translation": null
+    },
+    {
+      "time": 129.859,
+      "time_str": "02:09.859",
+      "text": "为了不输大声擂",
+      "translation": null
+    },
+    {
+      "time": 131.449,
+      "time_str": "02:11.449",
+      "text": "为了不服大声吹",
+      "translation": null
+    },
+    {
+      "time": 132.979,
+      "time_str": "02:12.979",
+      "text": "为了不哭大声笑",
+      "translation": null
+    },
+    {
+      "time": 134.598,
+      "time_str": "02:14.598",
+      "text": "为了不烦大声呸",
+      "translation": null
+    },
+    {
+      "time": 136.269,
+      "time_str": "02:16.269",
+      "text": "为了不输大声擂",
+      "translation": null
+    },
+    {
+      "time": 137.878,
+      "time_str": "02:17.878",
+      "text": "为了不服大声吹",
+      "translation": null
+    },
+    {
+      "time": 139.449,
+      "time_str": "02:19.449",
+      "text": "为了不哭大声笑",
+      "translation": null
+    },
+    {
+      "time": 141.068,
+      "time_str": "02:21.068",
+      "text": "为了不烦大声呸",
+      "translation": null
+    },
+    {
+      "time": 142.818,
+      "time_str": "02:22.818",
+      "text": "小小的人儿啊 风生水起呀",
+      "translation": null
+    },
+    {
+      "time": 146.119,
+      "time_str": "02:26.119",
+      "text": "天天就爱穷开心那",
+      "translation": null
+    },
+    {
+      "time": 149.179,
+      "time_str": "02:29.179",
+      "text": "逍遥的魂儿啊 假不正经吧",
+      "translation": null
+    },
+    {
+      "time": 152.438,
+      "time_str": "02:32.438",
+      "text": "嘻嘻哈哈我们穷开心那",
+      "translation": null
+    },
+    {
+      "time": 155.598,
+      "time_str": "02:35.598",
+      "text": "小小的人儿啊 风生水起呀",
+      "translation": null
+    },
+    {
+      "time": 158.878,
+      "time_str": "02:38.878",
+      "text": "天天就爱穷开心那",
+      "translation": null
+    },
+    {
+      "time": 161.908,
+      "time_str": "02:41.908",
+      "text": "逍遥的魂儿啊 假不正经吧",
+      "translation": null
+    },
+    {
+      "time": 165.139,
+      "time_str": "02:45.139",
+      "text": "嘻嘻哈哈我们穷开心那",
+      "translation": null
+    },
+    {
+      "time": 168.408,
+      "time_str": "02:48.408",
+      "text": "小小的人儿啊 风生水起呀",
+      "translation": null
+    },
+    {
+      "time": 171.679,
+      "time_str": "02:51.679",
+      "text": "天天就爱穷开心那",
+      "translation": null
+    },
+    {
+      "time": 174.878,
+      "time_str": "02:54.878",
+      "text": "逍遥的魂儿啊 假不正经吧",
+      "translation": null
+    },
+    {
+      "time": 178.079,
+      "time_str": "02:58.079",
+      "text": "嘻嘻哈哈我们穷开心那",
+      "translation": null
+    },
+    {
+      "time": 181.199,
+      "time_str": "03:01.199",
+      "text": "小小的人儿啊 风生水起呀",
+      "translation": null
+    },
+    {
+      "time": 184.459,
+      "time_str": "03:04.459",
+      "text": "天天就爱穷开心那",
+      "translation": null
+    },
+    {
+      "time": 187.568,
+      "time_str": "03:07.568",
+      "text": "逍遥的魂儿啊 假不正经吧",
+      "translation": null
+    },
+    {
+      "time": 190.718,
+      "time_str": "03:10.718",
+      "text": "嘻嘻哈哈我们穷开心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "穷开心 - 花儿乐队.lrc"
+}

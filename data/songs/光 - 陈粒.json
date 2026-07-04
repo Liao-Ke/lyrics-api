@@ -1,0 +1,214 @@
+{
+  "title": "光",
+  "title_raw": "光",
+  "version": null,
+  "artist": "陈粒",
+  "group_key": "光|陈粒",
+  "writers": {
+    "lyricist": "陈粒",
+    "composer": "陈粒",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.32,
+      "time_str": "00:02.320",
+      "text": "编曲/混音：陈粒",
+      "translation": null
+    },
+    {
+      "time": 3.32,
+      "time_str": "00:03.320",
+      "text": "光落在你脸上",
+      "translation": null
+    },
+    {
+      "time": 5.66,
+      "time_str": "00:05.660",
+      "text": "可爱一如往常",
+      "translation": null
+    },
+    {
+      "time": 8.4,
+      "time_str": "00:08.400",
+      "text": "你的一寸一寸",
+      "translation": null
+    },
+    {
+      "time": 10.95,
+      "time_str": "00:10.950",
+      "text": "填满欲望",
+      "translation": null
+    },
+    {
+      "time": 14.14,
+      "time_str": "00:14.140",
+      "text": "城市啊有点脏",
+      "translation": null
+    },
+    {
+      "time": 16.91,
+      "time_str": "00:16.910",
+      "text": "路人行色匆忙",
+      "translation": null
+    },
+    {
+      "time": 19.51,
+      "time_str": "00:19.510",
+      "text": "孤单 脆弱 不安",
+      "translation": null
+    },
+    {
+      "time": 22.32,
+      "time_str": "00:22.320",
+      "text": "都是平常",
+      "translation": null
+    },
+    {
+      "time": 25.55,
+      "time_str": "00:25.550",
+      "text": "你低头不说一句",
+      "translation": null
+    },
+    {
+      "time": 28.2,
+      "time_str": "00:28.200",
+      "text": "你朝着灰色走去",
+      "translation": null
+    },
+    {
+      "time": 30.94,
+      "time_str": "00:30.940",
+      "text": "你住进混沌深海",
+      "translation": null
+    },
+    {
+      "time": 33.68,
+      "time_str": "00:33.680",
+      "text": "你开始无望等待",
+      "translation": null
+    },
+    {
+      "time": 36.74,
+      "time_str": "00:36.740",
+      "text": "你低头不说一句",
+      "translation": null
+    },
+    {
+      "time": 39.48,
+      "time_str": "00:39.480",
+      "text": "你朝着灰色走去",
+      "translation": null
+    },
+    {
+      "time": 42.1,
+      "time_str": "00:42.100",
+      "text": "你住进混沌深海",
+      "translation": null
+    },
+    {
+      "time": 45.14,
+      "time_str": "00:45.140",
+      "text": "你开始无望等待",
+      "translation": null
+    },
+    {
+      "time": 59.29,
+      "time_str": "00:59.290",
+      "text": "快乐缺点勇气",
+      "translation": null
+    },
+    {
+      "time": 62.13,
+      "time_str": "01:02.130",
+      "text": "浪漫缺点诗意",
+      "translation": null
+    },
+    {
+      "time": 64.63,
+      "time_str": "01:04.630",
+      "text": "沉默一句一句",
+      "translation": null
+    },
+    {
+      "time": 67.29,
+      "time_str": "01:07.290",
+      "text": "都是谜题",
+      "translation": null
+    },
+    {
+      "time": 70.63,
+      "time_str": "01:10.630",
+      "text": "都清醒都独立",
+      "translation": null
+    },
+    {
+      "time": 73.19,
+      "time_str": "01:13.190",
+      "text": "妄想都没痕迹",
+      "translation": null
+    },
+    {
+      "time": 75.94,
+      "time_str": "01:15.940",
+      "text": "我们一声不吭",
+      "translation": null
+    },
+    {
+      "time": 78.71,
+      "time_str": "01:18.710",
+      "text": "慢慢窒息",
+      "translation": null
+    },
+    {
+      "time": 81.85,
+      "time_str": "01:21.850",
+      "text": "你低头不说一句",
+      "translation": null
+    },
+    {
+      "time": 84.92,
+      "time_str": "01:24.920",
+      "text": "你朝着灰色走去",
+      "translation": null
+    },
+    {
+      "time": 87.63,
+      "time_str": "01:27.630",
+      "text": "你住进混沌深海",
+      "translation": null
+    },
+    {
+      "time": 90.44,
+      "time_str": "01:30.440",
+      "text": "你开始无望等待",
+      "translation": null
+    },
+    {
+      "time": 93.23,
+      "time_str": "01:33.230",
+      "text": "你低头不说一句",
+      "translation": null
+    },
+    {
+      "time": 96.03,
+      "time_str": "01:36.030",
+      "text": "你朝着灰色走去",
+      "translation": null
+    },
+    {
+      "time": 98.87,
+      "time_str": "01:38.870",
+      "text": "你住进混沌深海",
+      "translation": null
+    },
+    {
+      "time": 101.81,
+      "time_str": "01:41.810",
+      "text": "你开始无望等待",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "光 - 陈粒.lrc"
+}

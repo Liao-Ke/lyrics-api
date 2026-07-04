@@ -1,0 +1,298 @@
+{
+  "title": "下雨天",
+  "title_raw": "下雨天",
+  "version": null,
+  "artist": "南拳妈妈",
+  "group_key": "下雨天|南拳妈妈",
+  "writers": {
+    "lyricist": "梁心颐",
+    "composer": "AJ张杰",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 0.4,
+      "time_str": "00:00.400",
+      "text": "下雨天了怎么办 我好想你",
+      "translation": null
+    },
+    {
+      "time": 8.1,
+      "time_str": "00:08.100",
+      "text": "不敢打给你 我找不到原因",
+      "translation": null
+    },
+    {
+      "time": 15.9,
+      "time_str": "00:15.900",
+      "text": "为什么失眠的声音",
+      "translation": null
+    },
+    {
+      "time": 19.9,
+      "time_str": "00:19.900",
+      "text": "变得好熟悉",
+      "translation": null
+    },
+    {
+      "time": 23.449,
+      "time_str": "00:23.449",
+      "text": "沉默的场景 做你的代替",
+      "translation": null
+    },
+    {
+      "time": 26.149,
+      "time_str": "00:26.149",
+      "text": "陪我等雨停",
+      "translation": null
+    },
+    {
+      "time": 31.28,
+      "time_str": "00:31.280",
+      "text": "期待让人越来越沉溺",
+      "translation": null
+    },
+    {
+      "time": 38.89,
+      "time_str": "00:38.890",
+      "text": "谁和我一样",
+      "translation": null
+    },
+    {
+      "time": 40.639,
+      "time_str": "00:40.639",
+      "text": "等不到他的谁",
+      "translation": null
+    },
+    {
+      "time": 45.599,
+      "time_str": "00:45.599",
+      "text": "爱上你我总在学会",
+      "translation": null
+    },
+    {
+      "time": 49.548,
+      "time_str": "00:49.548",
+      "text": "寂寞的滋味",
+      "translation": null
+    },
+    {
+      "time": 52.89,
+      "time_str": "00:52.890",
+      "text": "一个人撑伞 一个人擦泪",
+      "translation": null
+    },
+    {
+      "time": 57.009,
+      "time_str": "00:57.009",
+      "text": "一个人好累",
+      "translation": null
+    },
+    {
+      "time": 61.729,
+      "time_str": "01:01.729",
+      "text": "怎样的雨 怎样的夜",
+      "translation": null
+    },
+    {
+      "time": 64.7,
+      "time_str": "01:04.700",
+      "text": "怎样的我能让你更想念",
+      "translation": null
+    },
+    {
+      "time": 68.6,
+      "time_str": "01:08.600",
+      "text": "雨要多大",
+      "translation": null
+    },
+    {
+      "time": 69.719,
+      "time_str": "01:09.719",
+      "text": "天要多黑 才能够有你的体贴",
+      "translation": null
+    },
+    {
+      "time": 75.7,
+      "time_str": "01:15.700",
+      "text": "其实 没有我你分不清那些",
+      "translation": null
+    },
+    {
+      "time": 80.799,
+      "time_str": "01:20.799",
+      "text": "差别 结局还能多明显",
+      "translation": null
+    },
+    {
+      "time": 82.84,
+      "time_str": "01:22.840",
+      "text": "别说你会难过",
+      "translation": null
+    },
+    {
+      "time": 85.95,
+      "time_str": "01:25.950",
+      "text": "别说你想改变",
+      "translation": null
+    },
+    {
+      "time": 88.999,
+      "time_str": "01:28.999",
+      "text": "被爱的人不用道歉",
+      "translation": null
+    },
+    {
+      "time": 128.289,
+      "time_str": "02:08.289",
+      "text": "期待让人越来越疲惫",
+      "translation": null
+    },
+    {
+      "time": 134.689,
+      "time_str": "02:14.689",
+      "text": "谁和我一样",
+      "translation": null
+    },
+    {
+      "time": 138.078,
+      "time_str": "02:18.078",
+      "text": "等不到他的谁",
+      "translation": null
+    },
+    {
+      "time": 143.499,
+      "time_str": "02:23.499",
+      "text": "爱上你我总在学会",
+      "translation": null
+    },
+    {
+      "time": 147.79,
+      "time_str": "02:27.790",
+      "text": "寂寞的滋味",
+      "translation": null
+    },
+    {
+      "time": 149.89,
+      "time_str": "02:29.890",
+      "text": "一个人撑伞 一个人擦泪",
+      "translation": null
+    },
+    {
+      "time": 155.209,
+      "time_str": "02:35.209",
+      "text": "一个人好累",
+      "translation": null
+    },
+    {
+      "time": 157.6,
+      "time_str": "02:37.600",
+      "text": "怎样的雨 怎样的夜",
+      "translation": null
+    },
+    {
+      "time": 162.578,
+      "time_str": "02:42.578",
+      "text": "怎样的我能让你更想念",
+      "translation": null
+    },
+    {
+      "time": 165.29,
+      "time_str": "02:45.290",
+      "text": "雨要多大",
+      "translation": null
+    },
+    {
+      "time": 167.178,
+      "time_str": "02:47.178",
+      "text": "天要多黑 才能够有你的体贴",
+      "translation": null
+    },
+    {
+      "time": 172.9,
+      "time_str": "02:52.900",
+      "text": "其实 没有我你分不清那些",
+      "translation": null
+    },
+    {
+      "time": 177.679,
+      "time_str": "02:57.679",
+      "text": "差别 结局还能多明显",
+      "translation": null
+    },
+    {
+      "time": 181.469,
+      "time_str": "03:01.469",
+      "text": "别说你会难过",
+      "translation": null
+    },
+    {
+      "time": 183.069,
+      "time_str": "03:03.069",
+      "text": "别说你想改变",
+      "translation": null
+    },
+    {
+      "time": 188.4,
+      "time_str": "03:08.400",
+      "text": "被爱的人不用道歉",
+      "translation": null
+    },
+    {
+      "time": 194.328,
+      "time_str": "03:14.328",
+      "text": "怎样的雨 怎样的夜",
+      "translation": null
+    },
+    {
+      "time": 197.619,
+      "time_str": "03:17.619",
+      "text": "怎样的我能让你更想念",
+      "translation": null
+    },
+    {
+      "time": 201.4,
+      "time_str": "03:21.400",
+      "text": "雨要多大",
+      "translation": null
+    },
+    {
+      "time": 202.49,
+      "time_str": "03:22.490",
+      "text": "天要多黑 才能够有你的体贴",
+      "translation": null
+    },
+    {
+      "time": 208.79,
+      "time_str": "03:28.790",
+      "text": "其实 没有我你分不清那些",
+      "translation": null
+    },
+    {
+      "time": 212.89,
+      "time_str": "03:32.890",
+      "text": "差别 结局还能多明显",
+      "translation": null
+    },
+    {
+      "time": 216.628,
+      "time_str": "03:36.628",
+      "text": "别说你会难过",
+      "translation": null
+    },
+    {
+      "time": 219.228,
+      "time_str": "03:39.228",
+      "text": "别说你想改变",
+      "translation": null
+    },
+    {
+      "time": 223.69,
+      "time_str": "03:43.690",
+      "text": "被爱的人不用道歉",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "下雨天 - 南拳妈妈.lrc"
+}

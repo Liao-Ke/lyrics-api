@@ -1,0 +1,238 @@
+{
+  "title": "天外来物",
+  "title_raw": "天外来物",
+  "version": null,
+  "artist": "薛之谦",
+  "group_key": "天外来物|薛之谦",
+  "writers": {
+    "lyricist": "薛之谦",
+    "composer": "罗小黑",
+    "arranger": "周以力"
+  },
+  "lyrics": [
+    {
+      "time": 18.042,
+      "time_str": "00:18.042",
+      "text": "你降落的 太突然了",
+      "translation": null
+    },
+    {
+      "time": 24.24,
+      "time_str": "00:24.240",
+      "text": "我刚好呢 又路过了",
+      "translation": null
+    },
+    {
+      "time": 32.325,
+      "time_str": "00:32.325",
+      "text": "机会难得 又主观觉得",
+      "translation": null
+    },
+    {
+      "time": 38.725,
+      "time_str": "00:38.725",
+      "text": "想明抢 又碰不得",
+      "translation": null
+    },
+    {
+      "time": 46.157,
+      "time_str": "00:46.157",
+      "text": "你带来了 我的快乐",
+      "translation": null
+    },
+    {
+      "time": 53.157,
+      "time_str": "00:53.157",
+      "text": "让这世界 有点颜色",
+      "translation": null
+    },
+    {
+      "time": 60.444,
+      "time_str": "01:00.444",
+      "text": "我好想指责 你太随意了",
+      "translation": null
+    },
+    {
+      "time": 66.991,
+      "time_str": "01:06.991",
+      "text": "宝物该有人捧着  你是不是我的",
+      "translation": null
+    },
+    {
+      "time": 77.333,
+      "time_str": "01:17.333",
+      "text": "你像 天外来物一样 求之不得",
+      "translation": null
+    },
+    {
+      "time": 84.269,
+      "time_str": "01:24.269",
+      "text": "你在世俗里的名字 不重要了",
+      "translation": null
+    },
+    {
+      "time": 91.516,
+      "time_str": "01:31.516",
+      "text": "正好 我隐藏的人格是契而不舍",
+      "translation": null
+    },
+    {
+      "time": 98.299,
+      "time_str": "01:38.299",
+      "text": "直到蜂拥而至的人都透明了",
+      "translation": null
+    },
+    {
+      "time": 105.943,
+      "time_str": "01:45.943",
+      "text": "我在 不近又不远处",
+      "translation": null
+    },
+    {
+      "time": 109.925,
+      "time_str": "01:49.925",
+      "text": "用明天换你 靠近我",
+      "translation": null
+    },
+    {
+      "time": 127.554,
+      "time_str": "02:07.554",
+      "text": "你占领了 我的快乐",
+      "translation": null
+    },
+    {
+      "time": 134.406,
+      "time_str": "02:14.406",
+      "text": "和这世界 已没有瓜葛",
+      "translation": null
+    },
+    {
+      "time": 141.639,
+      "time_str": "02:21.639",
+      "text": "任事物干渴  都褪去颜色",
+      "translation": null
+    },
+    {
+      "time": 148.34,
+      "time_str": "02:28.340",
+      "text": "只有你是天蓝色  我开始找你了",
+      "translation": null
+    },
+    {
+      "time": 160.569,
+      "time_str": "02:40.569",
+      "text": "会像 天外来物一样 失而复得",
+      "translation": null
+    },
+    {
+      "time": 167.769,
+      "time_str": "02:47.769",
+      "text": "你在世俗里的名字  被人用了",
+      "translation": null
+    },
+    {
+      "time": 174.662,
+      "time_str": "02:54.662",
+      "text": "反正 我隐藏的人格是契而不舍",
+      "translation": null
+    },
+    {
+      "time": 181.73,
+      "time_str": "03:01.730",
+      "text": "直到蜂拥而至的人都透明了",
+      "translation": null
+    },
+    {
+      "time": 188.793,
+      "time_str": "03:08.793",
+      "text": "我在 不近又不远处",
+      "translation": null
+    },
+    {
+      "time": 192.651,
+      "time_str": "03:12.651",
+      "text": "用明天换你 靠近我",
+      "translation": null
+    },
+    {
+      "time": 198.765,
+      "time_str": "03:18.765",
+      "text": "你就像 天外来物一样 求之不得",
+      "translation": null
+    },
+    {
+      "time": 206.717,
+      "time_str": "03:26.717",
+      "text": "我在世俗里的描写被取笑了",
+      "translation": null
+    },
+    {
+      "time": 213.681,
+      "time_str": "03:33.681",
+      "text": "反正我隐藏的人格是非你不可",
+      "translation": null
+    },
+    {
+      "time": 220.352,
+      "time_str": "03:40.352",
+      "text": "直到别有用心的人都透明了",
+      "translation": null
+    },
+    {
+      "time": 227.895,
+      "time_str": "03:47.895",
+      "text": "我在 不近又不远处",
+      "translation": null
+    },
+    {
+      "time": 232.044,
+      "time_str": "03:52.044",
+      "text": "用明天换你 靠近我",
+      "translation": null
+    },
+    {
+      "time": 253.46,
+      "time_str": "04:13.460",
+      "text": "大提琴 : 郎莹",
+      "translation": null
+    },
+    {
+      "time": 254.292,
+      "time_str": "04:14.292",
+      "text": "贝斯 : 努而德柯",
+      "translation": null
+    },
+    {
+      "time": 254.708,
+      "time_str": "04:14.708",
+      "text": "人声录音 : 郑伟 夏之炜 吴身宝",
+      "translation": null
+    },
+    {
+      "time": 255.124,
+      "time_str": "04:15.124",
+      "text": "人声编辑 : 郑伟",
+      "translation": null
+    },
+    {
+      "time": 255.54,
+      "time_str": "04:15.540",
+      "text": "人声录音室 : 上海广播大厦200studio",
+      "translation": null
+    },
+    {
+      "time": 255.956,
+      "time_str": "04:15.956",
+      "text": "乐器录音棚 : soundhub studio",
+      "translation": null
+    },
+    {
+      "time": 256.788,
+      "time_str": "04:16.788",
+      "text": "母带 : 全相彦",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天外来物 - 薛之谦.lrc"
+}

@@ -1,0 +1,208 @@
+{
+  "title": "不如不见",
+  "title_raw": "不如不见",
+  "version": null,
+  "artist": "陈奕迅",
+  "group_key": "不如不见|陈奕迅",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "陈小霞",
+    "arranger": "孙伟明/陈珀/C. Y. Kong"
+  },
+  "lyrics": [
+    {
+      "time": 13.92,
+      "time_str": "00:13.920",
+      "text": "头沾湿无可避免",
+      "translation": null
+    },
+    {
+      "time": 21.23,
+      "time_str": "00:21.230",
+      "text": "伦敦总依恋雨点",
+      "translation": null
+    },
+    {
+      "time": 27.44,
+      "time_str": "00:27.440",
+      "text": "乘早机忍耐着呵欠",
+      "translation": null
+    },
+    {
+      "time": 33.64,
+      "time_str": "00:33.640",
+      "text": "完全为见你一面",
+      "translation": null
+    },
+    {
+      "time": 40.79,
+      "time_str": "00:40.790",
+      "text": "寻得到尘封小店",
+      "translation": null
+    },
+    {
+      "time": 47.49,
+      "time_str": "00:47.490",
+      "text": "回不到相恋那天",
+      "translation": null
+    },
+    {
+      "time": 53.71,
+      "time_str": "00:53.710",
+      "text": "灵气大概早被污染",
+      "translation": null
+    },
+    {
+      "time": 59.6,
+      "time_str": "00:59.600",
+      "text": "谁为了生活不变",
+      "translation": null
+    },
+    {
+      "time": 66.718,
+      "time_str": "01:06.718",
+      "text": "越渴望见面然后发现",
+      "translation": null
+    },
+    {
+      "time": 73.977,
+      "time_str": "01:13.977",
+      "text": "中间隔着那十年",
+      "translation": null
+    },
+    {
+      "time": 79.718,
+      "time_str": "01:19.718",
+      "text": "我想见的笑脸只有怀念",
+      "translation": null
+    },
+    {
+      "time": 86.197,
+      "time_str": "01:26.197",
+      "text": "不懂怎去再聊天",
+      "translation": null
+    },
+    {
+      "time": 92.727,
+      "time_str": "01:32.727",
+      "text": "像我在往日还未抽烟",
+      "translation": null
+    },
+    {
+      "time": 99.65,
+      "time_str": "01:39.650",
+      "text": "不知你怎么变迁",
+      "translation": null
+    },
+    {
+      "time": 105.569,
+      "time_str": "01:45.569",
+      "text": "似等了一百年忽已明白",
+      "translation": null
+    },
+    {
+      "time": 112.01,
+      "time_str": "01:52.010",
+      "text": "即使再见面",
+      "translation": null
+    },
+    {
+      "time": 114.977,
+      "time_str": "01:54.977",
+      "text": "成熟地表演",
+      "translation": null
+    },
+    {
+      "time": 120.918,
+      "time_str": "02:00.918",
+      "text": "不如不见",
+      "translation": null
+    },
+    {
+      "time": 139.518,
+      "time_str": "02:19.518",
+      "text": "寻得到尘封小店",
+      "translation": null
+    },
+    {
+      "time": 146.369,
+      "time_str": "02:26.369",
+      "text": "回不到相恋那天",
+      "translation": null
+    },
+    {
+      "time": 152.518,
+      "time_str": "02:32.518",
+      "text": "灵气大概早被污染",
+      "translation": null
+    },
+    {
+      "time": 157.978,
+      "time_str": "02:37.978",
+      "text": "谁为了生活不变",
+      "translation": null
+    },
+    {
+      "time": 165.009,
+      "time_str": "02:45.009",
+      "text": "越渴望见面然后发现",
+      "translation": null
+    },
+    {
+      "time": 172.038,
+      "time_str": "02:52.038",
+      "text": "中间隔着那十年",
+      "translation": null
+    },
+    {
+      "time": 177.828,
+      "time_str": "02:57.828",
+      "text": "我想见的笑脸只有怀念",
+      "translation": null
+    },
+    {
+      "time": 184.308,
+      "time_str": "03:04.308",
+      "text": "不懂怎去再聊天",
+      "translation": null
+    },
+    {
+      "time": 190.818,
+      "time_str": "03:10.818",
+      "text": "像我在往日还未抽烟",
+      "translation": null
+    },
+    {
+      "time": 197.558,
+      "time_str": "03:17.558",
+      "text": "不知你怎么变迁",
+      "translation": null
+    },
+    {
+      "time": 203.478,
+      "time_str": "03:23.478",
+      "text": "似等了一百年忽已明白",
+      "translation": null
+    },
+    {
+      "time": 209.818,
+      "time_str": "03:29.818",
+      "text": "即使再见面",
+      "translation": null
+    },
+    {
+      "time": 213.018,
+      "time_str": "03:33.018",
+      "text": "成熟地表演",
+      "translation": null
+    },
+    {
+      "time": 219.288,
+      "time_str": "03:39.288",
+      "text": "不如不见",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不如不见 - 陈奕迅.lrc"
+}

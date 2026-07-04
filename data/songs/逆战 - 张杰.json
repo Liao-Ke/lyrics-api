@@ -1,0 +1,388 @@
+{
+  "title": "逆战",
+  "title_raw": "逆战",
+  "version": null,
+  "artist": "张杰",
+  "group_key": "逆战|张杰",
+  "writers": {
+    "lyricist": "裴育",
+    "composer": "曲世聪",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.473,
+      "time_str": "00:16.473",
+      "text": "在这个风起云涌的战场上",
+      "translation": null
+    },
+    {
+      "time": 20.402,
+      "time_str": "00:20.402",
+      "text": "暴风少年登场",
+      "translation": null
+    },
+    {
+      "time": 24.506,
+      "time_str": "00:24.506",
+      "text": "在战胜烈火重重的咆哮声",
+      "translation": null
+    },
+    {
+      "time": 28.459,
+      "time_str": "00:28.459",
+      "text": "喧闹整个世界",
+      "translation": null
+    },
+    {
+      "time": 32.464,
+      "time_str": "00:32.464",
+      "text": "硝烟狂飞的讯号",
+      "translation": null
+    },
+    {
+      "time": 34.475,
+      "time_str": "00:34.475",
+      "text": "机甲时代正来到",
+      "translation": null
+    },
+    {
+      "time": 36.579,
+      "time_str": "00:36.579",
+      "text": "热血逆流而上",
+      "translation": null
+    },
+    {
+      "time": 40.531,
+      "time_str": "00:40.531",
+      "text": "战车在发烫",
+      "translation": null
+    },
+    {
+      "time": 41.935,
+      "time_str": "00:41.935",
+      "text": "勇士也势不可挡",
+      "translation": null
+    },
+    {
+      "time": 46.756,
+      "time_str": "00:46.756",
+      "text": "Come On!逆战逆战来也",
+      "translation": null
+    },
+    {
+      "time": 49.458,
+      "time_str": "00:49.458",
+      "text": "王牌要狂野",
+      "translation": null
+    },
+    {
+      "time": 51.47,
+      "time_str": "00:51.470",
+      "text": "闯荡宇宙摆平世界",
+      "translation": null
+    },
+    {
+      "time": 54.924,
+      "time_str": "00:54.924",
+      "text": "Oooh!逆战逆战狂野",
+      "translation": null
+    },
+    {
+      "time": 57.431,
+      "time_str": "00:57.431",
+      "text": "王牌要发泄",
+      "translation": null
+    },
+    {
+      "time": 59.432,
+      "time_str": "00:59.432",
+      "text": "战斗是我们倔强起点",
+      "translation": null
+    },
+    {
+      "time": 63.737,
+      "time_str": "01:03.737",
+      "text": "我要操控我的权势",
+      "translation": null
+    },
+    {
+      "time": 66.43,
+      "time_str": "01:06.430",
+      "text": "张扬我的声势",
+      "translation": null
+    },
+    {
+      "time": 68.253,
+      "time_str": "01:08.253",
+      "text": "看这场龙战在野",
+      "translation": null
+    },
+    {
+      "time": 70.908,
+      "time_str": "01:10.908",
+      "text": "这战场千百热血战士",
+      "translation": null
+    },
+    {
+      "time": 74.61,
+      "time_str": "01:14.610",
+      "text": "一路向前飞驰",
+      "translation": null
+    },
+    {
+      "time": 76.266,
+      "time_str": "01:16.266",
+      "text": "捍卫世界的勇士",
+      "translation": null
+    },
+    {
+      "time": 78.772,
+      "time_str": "01:18.772",
+      "text": "Fighting!再一决",
+      "translation": null
+    },
+    {
+      "time": 88.489,
+      "time_str": "01:28.489",
+      "text": "在这个风起云涌的战场上",
+      "translation": null
+    },
+    {
+      "time": 92.498,
+      "time_str": "01:32.498",
+      "text": "暴风少年登场",
+      "translation": null
+    },
+    {
+      "time": 96.463,
+      "time_str": "01:36.463",
+      "text": "在战胜烈火重重的咆哮声",
+      "translation": null
+    },
+    {
+      "time": 100.52,
+      "time_str": "01:40.520",
+      "text": "喧闹整个世界",
+      "translation": null
+    },
+    {
+      "time": 104.527,
+      "time_str": "01:44.527",
+      "text": "硝烟狂飞的讯号",
+      "translation": null
+    },
+    {
+      "time": 106.529,
+      "time_str": "01:46.529",
+      "text": "机甲时代正来到",
+      "translation": null
+    },
+    {
+      "time": 108.531,
+      "time_str": "01:48.531",
+      "text": "热血逆流而上",
+      "translation": null
+    },
+    {
+      "time": 112.447,
+      "time_str": "01:52.447",
+      "text": "战车在发烫",
+      "translation": null
+    },
+    {
+      "time": 114.11,
+      "time_str": "01:54.110",
+      "text": "勇士也势不可挡",
+      "translation": null
+    },
+    {
+      "time": 118.718,
+      "time_str": "01:58.718",
+      "text": "Come On!逆战逆战来也",
+      "translation": null
+    },
+    {
+      "time": 121.428,
+      "time_str": "02:01.428",
+      "text": "王牌要狂野",
+      "translation": null
+    },
+    {
+      "time": 123.491,
+      "time_str": "02:03.491",
+      "text": "闯荡宇宙摆平世界",
+      "translation": null
+    },
+    {
+      "time": 126.945,
+      "time_str": "02:06.945",
+      "text": "Oooh!逆战逆战狂野",
+      "translation": null
+    },
+    {
+      "time": 129.498,
+      "time_str": "02:09.498",
+      "text": "王牌要发泄",
+      "translation": null
+    },
+    {
+      "time": 131.707,
+      "time_str": "02:11.707",
+      "text": "战斗是我们倔强起点",
+      "translation": null
+    },
+    {
+      "time": 135.723,
+      "time_str": "02:15.723",
+      "text": "我要操控我的权势",
+      "translation": null
+    },
+    {
+      "time": 138.9,
+      "time_str": "02:18.900",
+      "text": "张扬我的声势",
+      "translation": null
+    },
+    {
+      "time": 140.292,
+      "time_str": "02:20.292",
+      "text": "看这场龙战在野",
+      "translation": null
+    },
+    {
+      "time": 142.962,
+      "time_str": "02:22.962",
+      "text": "这战场千百热血战士",
+      "translation": null
+    },
+    {
+      "time": 146.165,
+      "time_str": "02:26.165",
+      "text": "一路向前飞驰",
+      "translation": null
+    },
+    {
+      "time": 148.22,
+      "time_str": "02:28.220",
+      "text": "捍卫世界的勇士",
+      "translation": null
+    },
+    {
+      "time": 150.878,
+      "time_str": "02:30.878",
+      "text": "Fighting!再一决",
+      "translation": null
+    },
+    {
+      "time": 160.754,
+      "time_str": "02:40.754",
+      "text": "兄弟一场",
+      "translation": null
+    },
+    {
+      "time": 162.56,
+      "time_str": "02:42.560",
+      "text": "未来继续顽强",
+      "translation": null
+    },
+    {
+      "time": 164.558,
+      "time_str": "02:44.558",
+      "text": "看着战火飘摇",
+      "translation": null
+    },
+    {
+      "time": 168.369,
+      "time_str": "02:48.369",
+      "text": "瓦解对手力量",
+      "translation": null
+    },
+    {
+      "time": 172.239,
+      "time_str": "02:52.239",
+      "text": "熊熊气势再出发",
+      "translation": null
+    },
+    {
+      "time": 175.245,
+      "time_str": "02:55.245",
+      "text": "逆战逆战来也",
+      "translation": null
+    },
+    {
+      "time": 177.446,
+      "time_str": "02:57.446",
+      "text": "王牌要狂野",
+      "translation": null
+    },
+    {
+      "time": 179.498,
+      "time_str": "02:59.498",
+      "text": "闯荡宇宙摆平世界",
+      "translation": null
+    },
+    {
+      "time": 182.973,
+      "time_str": "03:02.973",
+      "text": "Oooh!逆战逆战狂野",
+      "translation": null
+    },
+    {
+      "time": 185.478,
+      "time_str": "03:05.478",
+      "text": "王牌要发泄",
+      "translation": null
+    },
+    {
+      "time": 187.436,
+      "time_str": "03:07.436",
+      "text": "战斗是我们倔强起点",
+      "translation": null
+    },
+    {
+      "time": 191.692,
+      "time_str": "03:11.692",
+      "text": "我要操控我的权势",
+      "translation": null
+    },
+    {
+      "time": 194.49,
+      "time_str": "03:14.490",
+      "text": "张扬我的声势",
+      "translation": null
+    },
+    {
+      "time": 196.251,
+      "time_str": "03:16.251",
+      "text": "看这场龙战在野",
+      "translation": null
+    },
+    {
+      "time": 199.03,
+      "time_str": "03:19.030",
+      "text": "这战场千百热血战士",
+      "translation": null
+    },
+    {
+      "time": 202.58,
+      "time_str": "03:22.580",
+      "text": "一路向前飞驰",
+      "translation": null
+    },
+    {
+      "time": 204.309,
+      "time_str": "03:24.309",
+      "text": "捍卫世界的勇士",
+      "translation": null
+    },
+    {
+      "time": 206.814,
+      "time_str": "03:26.814",
+      "text": "Fighting!再一决",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "逆战 - 张杰.lrc"
+}

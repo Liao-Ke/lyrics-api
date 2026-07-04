@@ -1,0 +1,388 @@
+{
+  "title": "When You're Gone",
+  "title_raw": "When You're Gone",
+  "version": null,
+  "artist": "Avril Lavigne",
+  "group_key": "when you're gone|avril lavigne",
+  "writers": {
+    "lyricist": "Avril Lavigne/Butch Walker",
+    "composer": "Avril Lavigne/Butch Walker",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.82,
+      "time_str": "00:15.820",
+      "text": "I always needed time on my own",
+      "translation": "我总是需要自己独处的时间"
+    },
+    {
+      "time": 20.69,
+      "time_str": "00:20.690",
+      "text": "I never thought",
+      "translation": "我从未想过"
+    },
+    {
+      "time": 22.03,
+      "time_str": "00:22.030",
+      "text": "I'd need you there when I cry",
+      "translation": "当我哭泣时需要你"
+    },
+    {
+      "time": 28.89,
+      "time_str": "00:28.890",
+      "text": "And the days feel like years",
+      "translation": "当我独自一人时"
+    },
+    {
+      "time": 31.48,
+      "time_str": "00:31.480",
+      "text": "when I'm alone",
+      "translation": "却度日如年"
+    },
+    {
+      "time": 33.79,
+      "time_str": "00:33.790",
+      "text": "And the bed where you lie",
+      "translation": "床上你躺的位置"
+    },
+    {
+      "time": 37.06,
+      "time_str": "00:37.060",
+      "text": "Is made up on your side",
+      "translation": "已经为你准备好"
+    },
+    {
+      "time": 45.5,
+      "time_str": "00:45.500",
+      "text": "When you walk away",
+      "translation": "当你离开时"
+    },
+    {
+      "time": 47.82,
+      "time_str": "00:47.820",
+      "text": "I count the steps that you take",
+      "translation": "我计算着你的脚步"
+    },
+    {
+      "time": 51.64,
+      "time_str": "00:51.640",
+      "text": "Do you see how much I need you right now?",
+      "translation": "你明白此刻我有多需要你吗"
+    },
+    {
+      "time": 57.03,
+      "time_str": "00:57.030",
+      "text": "When you're gone",
+      "translation": "当你离去"
+    },
+    {
+      "time": 59.47,
+      "time_str": "00:59.470",
+      "text": "The pieces of my heart",
+      "translation": "我碎成一片的心"
+    },
+    {
+      "time": 62.32,
+      "time_str": "01:02.320",
+      "text": "are missing you",
+      "translation": "想念着你"
+    },
+    {
+      "time": 63.98,
+      "time_str": "01:03.980",
+      "text": "When you're gone",
+      "translation": "当你离去"
+    },
+    {
+      "time": 66.5,
+      "time_str": "01:06.500",
+      "text": "The face I came to know",
+      "translation": "熟悉的面容"
+    },
+    {
+      "time": 69.08,
+      "time_str": "01:09.080",
+      "text": "is missing too",
+      "translation": "也消失了"
+    },
+    {
+      "time": 70.77,
+      "time_str": "01:10.770",
+      "text": "When you're gone",
+      "translation": "当你离去"
+    },
+    {
+      "time": 73.36,
+      "time_str": "01:13.360",
+      "text": "The words I need to hear",
+      "translation": "曾经的甜言蜜语"
+    },
+    {
+      "time": 75.31,
+      "time_str": "01:15.310",
+      "text": "to always get me through the day",
+      "translation": "让我撑过了每一天"
+    },
+    {
+      "time": 80.15,
+      "time_str": "01:20.150",
+      "text": "And make it ok",
+      "translation": "所以日子才没那么漫长"
+    },
+    {
+      "time": 84.59,
+      "time_str": "01:24.590",
+      "text": "I miss you",
+      "translation": "我想你"
+    },
+    {
+      "time": 99.2,
+      "time_str": "01:39.200",
+      "text": "I've never felt this way before",
+      "translation": "以前从未有过这种感觉"
+    },
+    {
+      "time": 103.79,
+      "time_str": "01:43.790",
+      "text": "Everything that I do",
+      "translation": "我做的每件事情"
+    },
+    {
+      "time": 106.98,
+      "time_str": "01:46.980",
+      "text": "reminds me of you",
+      "translation": "都会联想到你"
+    },
+    {
+      "time": 112.87,
+      "time_str": "01:52.870",
+      "text": "And the clothes you left",
+      "translation": "你留下的衣服"
+    },
+    {
+      "time": 114.32,
+      "time_str": "01:54.320",
+      "text": "they lie on the floor",
+      "translation": "仍在地板上"
+    },
+    {
+      "time": 117.56,
+      "time_str": "01:57.560",
+      "text": "And they smell just like you",
+      "translation": "它们还残留着你的气味"
+    },
+    {
+      "time": 120.83,
+      "time_str": "02:00.830",
+      "text": "I love the things that you do",
+      "translation": "我爱你这么做"
+    },
+    {
+      "time": 126.26,
+      "time_str": "02:06.260",
+      "text": "When you walk away",
+      "translation": "当你离开时"
+    },
+    {
+      "time": 128.9,
+      "time_str": "02:08.900",
+      "text": "I count the steps that you take",
+      "translation": "我计算着你的脚步"
+    },
+    {
+      "time": 132.65,
+      "time_str": "02:12.650",
+      "text": "Do you see how much",
+      "translation": "你明白此刻"
+    },
+    {
+      "time": 134.49,
+      "time_str": "02:14.490",
+      "text": "I need you right now?",
+      "translation": "我有多需要你吗"
+    },
+    {
+      "time": 139.45,
+      "time_str": "02:19.450",
+      "text": "When you're gone",
+      "translation": "当你离去"
+    },
+    {
+      "time": 141.53,
+      "time_str": "02:21.530",
+      "text": "The pieces of my heart",
+      "translation": "我碎成一片的心"
+    },
+    {
+      "time": 144.24,
+      "time_str": "02:24.240",
+      "text": "are missing you",
+      "translation": "想念着你"
+    },
+    {
+      "time": 145.38,
+      "time_str": "02:25.380",
+      "text": "When you're gone",
+      "translation": "当你离去"
+    },
+    {
+      "time": 148.0,
+      "time_str": "02:28.000",
+      "text": "The face I came to know",
+      "translation": "熟悉的面容"
+    },
+    {
+      "time": 150.58,
+      "time_str": "02:30.580",
+      "text": "is missing too",
+      "translation": "也消失了"
+    },
+    {
+      "time": 151.87,
+      "time_str": "02:31.870",
+      "text": "When you're gone",
+      "translation": "当你离去"
+    },
+    {
+      "time": 153.74,
+      "time_str": "02:33.740",
+      "text": "The words I need to hear",
+      "translation": "曾经的甜言蜜语"
+    },
+    {
+      "time": 156.05,
+      "time_str": "02:36.050",
+      "text": "to always get me through the day",
+      "translation": "让我撑过了每一天"
+    },
+    {
+      "time": 161.19,
+      "time_str": "02:41.190",
+      "text": "And make it OK",
+      "translation": "所以日子才没那么漫长"
+    },
+    {
+      "time": 164.94,
+      "time_str": "02:44.940",
+      "text": "I miss you",
+      "translation": "我想你"
+    },
+    {
+      "time": 167.5,
+      "time_str": "02:47.500",
+      "text": "We were made for each other",
+      "translation": "我们是天生一对"
+    },
+    {
+      "time": 171.68,
+      "time_str": "02:51.680",
+      "text": "Out here forever",
+      "translation": "永远在此"
+    },
+    {
+      "time": 175.45,
+      "time_str": "02:55.450",
+      "text": "I know we were",
+      "translation": "我知道我们曾经是"
+    },
+    {
+      "time": 180.88,
+      "time_str": "03:00.880",
+      "text": "All I ever wanted was for you to know",
+      "translation": "我始终想让你明白"
+    },
+    {
+      "time": 183.84,
+      "time_str": "03:03.840",
+      "text": "Everything I do I give my heart and soul",
+      "translation": "我是用心及灵魂去做每件事"
+    },
+    {
+      "time": 187.11,
+      "time_str": "03:07.110",
+      "text": "I can hardly breathe",
+      "translation": "我无法呼吸"
+    },
+    {
+      "time": 188.02,
+      "time_str": "03:08.020",
+      "text": "I need to feel you here with me",
+      "translation": "我需要感觉你在此陪伴我"
+    },
+    {
+      "time": 191.75,
+      "time_str": "03:11.750",
+      "text": "Yeah",
+      "translation": null
+    },
+    {
+      "time": 191.75,
+      "time_str": "03:11.750",
+      "text": "Yeah",
+      "translation": null
+    },
+    {
+      "time": 193.09,
+      "time_str": "03:13.090",
+      "text": "When you're gone",
+      "translation": "当你离去"
+    },
+    {
+      "time": 194.72,
+      "time_str": "03:14.720",
+      "text": "The pieces of my heart are missing you",
+      "translation": "我碎成一片的心想念着你"
+    },
+    {
+      "time": 198.89,
+      "time_str": "03:18.890",
+      "text": "When you're gone",
+      "translation": "当你离去"
+    },
+    {
+      "time": 201.3,
+      "time_str": "03:21.300",
+      "text": "The face I came to know",
+      "translation": "熟悉的面容"
+    },
+    {
+      "time": 203.99,
+      "time_str": "03:23.990",
+      "text": "is missing too",
+      "translation": "也消失了"
+    },
+    {
+      "time": 205.61,
+      "time_str": "03:25.610",
+      "text": "When you're gone",
+      "translation": "当你离去"
+    },
+    {
+      "time": 207.69,
+      "time_str": "03:27.690",
+      "text": "The words I need to hear",
+      "translation": "曾经的甜言蜜语"
+    },
+    {
+      "time": 209.95,
+      "time_str": "03:29.950",
+      "text": "will always get me through the day",
+      "translation": "让我撑过了每一天"
+    },
+    {
+      "time": 215.11,
+      "time_str": "03:35.110",
+      "text": "And make it OK",
+      "translation": "所以日子才没那么漫长"
+    },
+    {
+      "time": 219.23,
+      "time_str": "03:39.230",
+      "text": "I miss you",
+      "translation": "我想你"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "When You're Gone - Avril Lavigne.lrc"
+}

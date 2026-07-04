@@ -1,0 +1,244 @@
+{
+  "title": "心里从此永远有个你",
+  "title_raw": "心里从此永远有个你",
+  "version": null,
+  "artist": "群星",
+  "group_key": "心里从此永远有个你|群星",
+  "writers": {
+    "lyricist": "高安",
+    "composer": "徐嘉良",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 27.28,
+      "time_str": "00:27.280",
+      "text": "为什么我们相遇网络",
+      "translation": null
+    },
+    {
+      "time": 32.7,
+      "time_str": "00:32.700",
+      "text": "为什么要拿虚拟对待我",
+      "translation": null
+    },
+    {
+      "time": 37.77,
+      "time_str": "00:37.770",
+      "text": "我和你在一起 在一起的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 43.14,
+      "time_str": "00:43.140",
+      "text": "这份爱会埋在我心里",
+      "translation": null
+    },
+    {
+      "time": 48.69,
+      "time_str": "00:48.690",
+      "text": "我和你相爱网络里",
+      "translation": null
+    },
+    {
+      "time": 54.18,
+      "time_str": "00:54.180",
+      "text": "爱来爱去都变成回忆",
+      "translation": null
+    },
+    {
+      "time": 59.49,
+      "time_str": "00:59.490",
+      "text": "你的心我最懂",
+      "translation": null
+    },
+    {
+      "time": 62.17,
+      "time_str": "01:02.170",
+      "text": "你哭泣我陪你",
+      "translation": null
+    },
+    {
+      "time": 65.03,
+      "time_str": "01:05.030",
+      "text": "这辈子注定与你在一起",
+      "translation": null
+    },
+    {
+      "time": 70.53,
+      "time_str": "01:10.530",
+      "text": "大声喊出我爱你时刻把你放心底",
+      "translation": null
+    },
+    {
+      "time": 75.89,
+      "time_str": "01:15.890",
+      "text": "不怕网络的虚拟等着你",
+      "translation": null
+    },
+    {
+      "time": 81.66,
+      "time_str": "01:21.660",
+      "text": "点击鼠标的情意传达爱你的蜜语",
+      "translation": null
+    },
+    {
+      "time": 86.83,
+      "time_str": "01:26.830",
+      "text": "在心里从此永远有个你",
+      "translation": null
+    },
+    {
+      "time": 92.5,
+      "time_str": "01:32.500",
+      "text": "谢谢你让我遇到你",
+      "translation": null
+    },
+    {
+      "time": 97.809,
+      "time_str": "01:37.809",
+      "text": "谢谢你也让我爱上你",
+      "translation": null
+    },
+    {
+      "time": 103.67,
+      "time_str": "01:43.670",
+      "text": "不管风 风雨雨 不问明天在哪里",
+      "translation": null
+    },
+    {
+      "time": 108.67,
+      "time_str": "01:48.670",
+      "text": "我都会永远地陪伴你",
+      "translation": null
+    },
+    {
+      "time": 136.41,
+      "time_str": "02:16.410",
+      "text": "我和你相爱网络里",
+      "translation": null
+    },
+    {
+      "time": 142.2,
+      "time_str": "02:22.200",
+      "text": "爱来爱去都变成回忆",
+      "translation": null
+    },
+    {
+      "time": 146.69,
+      "time_str": "02:26.690",
+      "text": "你的心我最懂",
+      "translation": null
+    },
+    {
+      "time": 149.51,
+      "time_str": "02:29.510",
+      "text": "你哭泣我陪你",
+      "translation": null
+    },
+    {
+      "time": 152.19,
+      "time_str": "02:32.190",
+      "text": "这辈子注定与你在一起",
+      "translation": null
+    },
+    {
+      "time": 157.69,
+      "time_str": "02:37.690",
+      "text": "大声喊出我爱你时刻把你放心底",
+      "translation": null
+    },
+    {
+      "time": 163.2,
+      "time_str": "02:43.200",
+      "text": "不怕网络的虚拟等着你",
+      "translation": null
+    },
+    {
+      "time": 168.81,
+      "time_str": "02:48.810",
+      "text": "点击鼠标的情意传达爱你的蜜语",
+      "translation": null
+    },
+    {
+      "time": 174.12,
+      "time_str": "02:54.120",
+      "text": "在心里从此永远有个你",
+      "translation": null
+    },
+    {
+      "time": 179.48,
+      "time_str": "02:59.480",
+      "text": "为什么我们相遇网络",
+      "translation": null
+    },
+    {
+      "time": 184.98,
+      "time_str": "03:04.980",
+      "text": "为什么要拿虚拟对待我",
+      "translation": null
+    },
+    {
+      "time": 190.7,
+      "time_str": "03:10.700",
+      "text": "我和你在一起 在一起的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 195.84,
+      "time_str": "03:15.840",
+      "text": "这份爱会埋在我心底",
+      "translation": null
+    },
+    {
+      "time": 201.52,
+      "time_str": "03:21.520",
+      "text": "大声喊出我爱你时刻把你放心底",
+      "translation": null
+    },
+    {
+      "time": 206.879,
+      "time_str": "03:26.879",
+      "text": "不怕网络的虚拟等着你",
+      "translation": null
+    },
+    {
+      "time": 212.5,
+      "time_str": "03:32.500",
+      "text": "点击鼠标的情意传达爱你的蜜语",
+      "translation": null
+    },
+    {
+      "time": 217.74,
+      "time_str": "03:37.740",
+      "text": "在心里从此永远有个你",
+      "translation": null
+    },
+    {
+      "time": 223.16,
+      "time_str": "03:43.160",
+      "text": "谢谢你让我遇到你",
+      "translation": null
+    },
+    {
+      "time": 228.65,
+      "time_str": "03:48.650",
+      "text": "谢谢你也让我爱上你",
+      "translation": null
+    },
+    {
+      "time": 234.6,
+      "time_str": "03:54.600",
+      "text": "不管风 风雨雨 不问明天在哪里",
+      "translation": null
+    },
+    {
+      "time": 239.46,
+      "time_str": "03:59.460",
+      "text": "在心里从此永远有个你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "心里从此永远有个你 - 群星.lrc"
+}

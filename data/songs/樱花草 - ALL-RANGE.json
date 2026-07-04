@@ -1,0 +1,268 @@
+{
+  "title": "樱花草",
+  "title_raw": "樱花草",
+  "version": null,
+  "artist": "ALL-RANGE",
+  "group_key": "樱花草|all-range",
+  "writers": {
+    "lyricist": "李天龙",
+    "composer": "李天龙",
+    "arranger": "周恒毅/蔡科俊"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "和声编写/和声 : 梁世韵",
+      "translation": null
+    },
+    {
+      "time": 5.0,
+      "time_str": "00:05.000",
+      "text": "人声录音 : 陈宇纶 (日光橘子录音室)",
+      "translation": null
+    },
+    {
+      "time": 6.0,
+      "time_str": "00:06.000",
+      "text": "吉他/贝斯 : 蔡科俊 (树立音乐/Again Studio)",
+      "translation": null
+    },
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "弦乐录音 : 钱炜安 (玉成戏院录音室)",
+      "translation": null
+    },
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "弦乐编写 : 周恒毅",
+      "translation": null
+    },
+    {
+      "time": 9.0,
+      "time_str": "00:09.000",
+      "text": "弦乐录音助理 : 陈祺龙 (玉成戏院录音室)",
+      "translation": null
+    },
+    {
+      "time": 10.0,
+      "time_str": "00:10.000",
+      "text": "小提琴Violin : 蔡曜宇/朱奕宁",
+      "translation": null
+    },
+    {
+      "time": 11.0,
+      "time_str": "00:11.000",
+      "text": "中提琴Viola : 甘威鹏",
+      "translation": null
+    },
+    {
+      "time": 12.0,
+      "time_str": "00:12.000",
+      "text": "大提琴Cello : 刘涵（隐分子）",
+      "translation": null
+    },
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "录音助理 : 钟博儒/黄芝毓",
+      "translation": null
+    },
+    {
+      "time": 16.0,
+      "time_str": "00:16.000",
+      "text": "混音师(室) : 陈陆泰 (原艾音乐有限公司)",
+      "translation": null
+    },
+    {
+      "time": 17.0,
+      "time_str": "00:17.000",
+      "text": "OP/SP : 丰华音乐经纪股份有限公司",
+      "translation": null
+    },
+    {
+      "time": 18.0,
+      "time_str": "00:18.000",
+      "text": "发行公司 : 种子音乐",
+      "translation": null
+    },
+    {
+      "time": 28.0,
+      "time_str": "00:28.000",
+      "text": "晚风吹动着竹林 月光拉长的身影",
+      "translation": null
+    },
+    {
+      "time": 34.56,
+      "time_str": "00:34.560",
+      "text": "萤火虫 一闪闪 满山飞舞的钱币",
+      "translation": null
+    },
+    {
+      "time": 40.97,
+      "time_str": "00:40.970",
+      "text": "天上银河在发光 地上风铃来歌唱",
+      "translation": null
+    },
+    {
+      "time": 47.48,
+      "time_str": "00:47.480",
+      "text": "织女星 在远方 古老浪漫的神话",
+      "translation": null
+    },
+    {
+      "time": 54.36,
+      "time_str": "00:54.360",
+      "text": "流水走过 春夏四季的变换",
+      "translation": null
+    },
+    {
+      "time": 60.83,
+      "time_str": "01:00.830",
+      "text": "幸福 在蔓延 爱你永恒不孤单",
+      "translation": null
+    },
+    {
+      "time": 66.89,
+      "time_str": "01:06.890",
+      "text": "恋人手中樱花草 春彩满布的微笑",
+      "translation": null
+    },
+    {
+      "time": 73.45,
+      "time_str": "01:13.450",
+      "text": "种下了 一朵朵 青春璀璨的年少",
+      "translation": null
+    },
+    {
+      "time": 79.86,
+      "time_str": "01:19.860",
+      "text": "恋人怀中樱花草 听见胸膛心在跳",
+      "translation": null
+    },
+    {
+      "time": 86.41,
+      "time_str": "01:26.410",
+      "text": "偷偷的 在思念 那是我们相爱的记号",
+      "translation": null
+    },
+    {
+      "time": 108.24,
+      "time_str": "01:48.240",
+      "text": "啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 120.5,
+      "time_str": "02:00.500",
+      "text": "远方钟声再响起 蛙鸣唱起了摇篮曲",
+      "translation": null
+    },
+    {
+      "time": 126.93,
+      "time_str": "02:06.930",
+      "text": "白沙滩 月弯弯 爱你香甜的梦里",
+      "translation": null
+    },
+    {
+      "time": 133.41,
+      "time_str": "02:13.410",
+      "text": "天上银河在发光 地上风铃来歌唱",
+      "translation": null
+    },
+    {
+      "time": 139.91,
+      "time_str": "02:19.910",
+      "text": "织女星 在远方 许下爱恋的愿望",
+      "translation": null
+    },
+    {
+      "time": 146.74,
+      "time_str": "02:26.740",
+      "text": "流水 走过 春夏四季的变换",
+      "translation": null
+    },
+    {
+      "time": 153.3,
+      "time_str": "02:33.300",
+      "text": "幸福 在蔓延 爱你永恒不孤单",
+      "translation": null
+    },
+    {
+      "time": 159.39,
+      "time_str": "02:39.390",
+      "text": "恋人手中樱花草 春彩满布的微笑",
+      "translation": null
+    },
+    {
+      "time": 165.87,
+      "time_str": "02:45.870",
+      "text": "种下了 一朵朵 青春璀璨的年少",
+      "translation": null
+    },
+    {
+      "time": 172.33,
+      "time_str": "02:52.330",
+      "text": "恋人怀中樱花草 听见胸膛心在跳",
+      "translation": null
+    },
+    {
+      "time": 178.85,
+      "time_str": "02:58.850",
+      "text": "偷偷的 在思念 那是我们相爱的 味道",
+      "translation": null
+    },
+    {
+      "time": 187.7,
+      "time_str": "03:07.700",
+      "text": "啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 200.59,
+      "time_str": "03:20.590",
+      "text": "啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 212.86,
+      "time_str": "03:32.860",
+      "text": "恋人手中樱花草 春彩满布的微笑",
+      "translation": null
+    },
+    {
+      "time": 219.33,
+      "time_str": "03:39.330",
+      "text": "种下了 一朵朵 青春璀璨的年少",
+      "translation": null
+    },
+    {
+      "time": 225.81,
+      "time_str": "03:45.810",
+      "text": "恋人怀中樱花草 听见胸膛心在跳",
+      "translation": null
+    },
+    {
+      "time": 232.3,
+      "time_str": "03:52.300",
+      "text": "偷偷的 在思念 那是我们相爱的记号",
+      "translation": null
+    },
+    {
+      "time": 239.81,
+      "time_str": "03:59.810",
+      "text": "啦啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 261.67,
+      "time_str": "04:21.670",
+      "text": "偷偷的 在思念 那是我们相爱的 味道",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "樱花草 - ALL-RANGE.lrc"
+}

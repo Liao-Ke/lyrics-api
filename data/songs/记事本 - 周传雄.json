@@ -1,0 +1,322 @@
+{
+  "title": "记事本",
+  "title_raw": "记事本",
+  "version": null,
+  "artist": "周传雄",
+  "group_key": "记事本|周传雄",
+  "writers": {
+    "lyricist": "陈信荣/周传雄",
+    "composer": "周传雄",
+    "arranger": "周传雄"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "原唱 : 陈慧琳",
+      "translation": null
+    },
+    {
+      "time": 24.17,
+      "time_str": "00:24.170",
+      "text": "翻开随身携带的记事本",
+      "translation": null
+    },
+    {
+      "time": 28.31,
+      "time_str": "00:28.310",
+      "text": "写着许多事都是关于你",
+      "translation": null
+    },
+    {
+      "time": 33.56,
+      "time_str": "00:33.560",
+      "text": "你讨厌被冷落",
+      "translation": null
+    },
+    {
+      "time": 36.72,
+      "time_str": "00:36.720",
+      "text": "习惯被守候",
+      "translation": null
+    },
+    {
+      "time": 39.66,
+      "time_str": "00:39.660",
+      "text": "寂寞才找我",
+      "translation": null
+    },
+    {
+      "time": 47.31,
+      "time_str": "00:47.310",
+      "text": "我看见自己写下的心情",
+      "translation": null
+    },
+    {
+      "time": 51.68,
+      "time_str": "00:51.680",
+      "text": "把自己放在卑微的后头",
+      "translation": null
+    },
+    {
+      "time": 57.28,
+      "time_str": "00:57.280",
+      "text": "等你等太久",
+      "translation": null
+    },
+    {
+      "time": 60.14,
+      "time_str": "01:00.140",
+      "text": "想你泪会流",
+      "translation": null
+    },
+    {
+      "time": 62.75,
+      "time_str": "01:02.750",
+      "text": "而幸福快乐是什么",
+      "translation": null
+    },
+    {
+      "time": 69.28,
+      "time_str": "01:09.280",
+      "text": "爱的痛了",
+      "translation": null
+    },
+    {
+      "time": 71.83,
+      "time_str": "01:11.830",
+      "text": "痛的哭了",
+      "translation": null
+    },
+    {
+      "time": 74.82,
+      "time_str": "01:14.820",
+      "text": "哭的累了",
+      "translation": null
+    },
+    {
+      "time": 76.07,
+      "time_str": "01:16.070",
+      "text": "日记本里页页执着",
+      "translation": null
+    },
+    {
+      "time": 80.31,
+      "time_str": "01:20.310",
+      "text": "记载着你的好",
+      "translation": null
+    },
+    {
+      "time": 83.25,
+      "time_str": "01:23.250",
+      "text": "像上瘾的毒药",
+      "translation": null
+    },
+    {
+      "time": 86.17,
+      "time_str": "01:26.170",
+      "text": "它反复骗着我",
+      "translation": null
+    },
+    {
+      "time": 92.12,
+      "time_str": "01:32.120",
+      "text": "爱的痛了",
+      "translation": null
+    },
+    {
+      "time": 95.27,
+      "time_str": "01:35.270",
+      "text": "痛的哭了",
+      "translation": null
+    },
+    {
+      "time": 98.23,
+      "time_str": "01:38.230",
+      "text": "哭的累了",
+      "translation": null
+    },
+    {
+      "time": 99.47,
+      "time_str": "01:39.470",
+      "text": "矛盾心里总是强求",
+      "translation": null
+    },
+    {
+      "time": 103.61,
+      "time_str": "01:43.610",
+      "text": "劝自己要放手",
+      "translation": null
+    },
+    {
+      "time": 106.66,
+      "time_str": "01:46.660",
+      "text": "闭上眼让你走",
+      "translation": null
+    },
+    {
+      "time": 109.59,
+      "time_str": "01:49.590",
+      "text": "烧掉日记重新来过",
+      "translation": null
+    },
+    {
+      "time": 139.82,
+      "time_str": "02:19.820",
+      "text": "我看见自己写下的心情",
+      "translation": null
+    },
+    {
+      "time": 143.86,
+      "time_str": "02:23.860",
+      "text": "把自己放在卑微的后头",
+      "translation": null
+    },
+    {
+      "time": 149.42,
+      "time_str": "02:29.420",
+      "text": "等你等太久",
+      "translation": null
+    },
+    {
+      "time": 151.97,
+      "time_str": "02:31.970",
+      "text": "想你泪会流",
+      "translation": null
+    },
+    {
+      "time": 154.95,
+      "time_str": "02:34.950",
+      "text": "而幸福快乐是什么",
+      "translation": null
+    },
+    {
+      "time": 160.95,
+      "time_str": "02:40.950",
+      "text": "爱的痛了",
+      "translation": null
+    },
+    {
+      "time": 164.12,
+      "time_str": "02:44.120",
+      "text": "痛的哭了",
+      "translation": null
+    },
+    {
+      "time": 167.08,
+      "time_str": "02:47.080",
+      "text": "哭的累了",
+      "translation": null
+    },
+    {
+      "time": 168.26,
+      "time_str": "02:48.260",
+      "text": "日记本里页页执着",
+      "translation": null
+    },
+    {
+      "time": 172.64,
+      "time_str": "02:52.640",
+      "text": "记载着你的好",
+      "translation": null
+    },
+    {
+      "time": 175.35,
+      "time_str": "02:55.350",
+      "text": "像上瘾的毒药",
+      "translation": null
+    },
+    {
+      "time": 178.36,
+      "time_str": "02:58.360",
+      "text": "它反复骗着我",
+      "translation": null
+    },
+    {
+      "time": 184.19,
+      "time_str": "03:04.190",
+      "text": "爱的痛了",
+      "translation": null
+    },
+    {
+      "time": 187.54,
+      "time_str": "03:07.540",
+      "text": "痛的哭了",
+      "translation": null
+    },
+    {
+      "time": 190.51,
+      "time_str": "03:10.510",
+      "text": "哭的累了",
+      "translation": null
+    },
+    {
+      "time": 191.7,
+      "time_str": "03:11.700",
+      "text": "矛盾心里总是强求",
+      "translation": null
+    },
+    {
+      "time": 195.84,
+      "time_str": "03:15.840",
+      "text": "劝自己要放手",
+      "translation": null
+    },
+    {
+      "time": 198.8,
+      "time_str": "03:18.800",
+      "text": "闭上眼让你走",
+      "translation": null
+    },
+    {
+      "time": 201.78,
+      "time_str": "03:21.780",
+      "text": "烧掉日记重新来过",
+      "translation": null
+    },
+    {
+      "time": 207.88,
+      "time_str": "03:27.880",
+      "text": "爱的痛了",
+      "translation": null
+    },
+    {
+      "time": 210.84,
+      "time_str": "03:30.840",
+      "text": "痛的哭了",
+      "translation": null
+    },
+    {
+      "time": 213.81,
+      "time_str": "03:33.810",
+      "text": "哭的累了",
+      "translation": null
+    },
+    {
+      "time": 215.05,
+      "time_str": "03:35.050",
+      "text": "矛盾心里总是强求",
+      "translation": null
+    },
+    {
+      "time": 219.28,
+      "time_str": "03:39.280",
+      "text": "劝自己要放手",
+      "translation": null
+    },
+    {
+      "time": 222.29,
+      "time_str": "03:42.290",
+      "text": "闭上眼让你走",
+      "translation": null
+    },
+    {
+      "time": 229.89,
+      "time_str": "03:49.890",
+      "text": "重新来过",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "记事本 - 周传雄.lrc"
+}

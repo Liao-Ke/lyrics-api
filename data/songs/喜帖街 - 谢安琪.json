@@ -1,0 +1,220 @@
+{
+  "title": "喜帖街",
+  "title_raw": "喜帖街",
+  "version": null,
+  "artist": "谢安琪",
+  "group_key": "喜帖街|谢安琪",
+  "writers": {
+    "lyricist": "黄伟文",
+    "composer": "Eric Kwok",
+    "arranger": "Eric Kwok"
+  },
+  "lyrics": [
+    {
+      "time": 14.17,
+      "time_str": "00:14.170",
+      "text": "忘掉种过的花 重新的出发 放弃理想吧",
+      "translation": null
+    },
+    {
+      "time": 23.0,
+      "time_str": "00:23.000",
+      "text": "别再看尘封的囍帖 你正在要搬家",
+      "translation": null
+    },
+    {
+      "time": 30.78,
+      "time_str": "00:30.780",
+      "text": "筑得起 人应该接受 都有日倒下",
+      "translation": null
+    },
+    {
+      "time": 37.76,
+      "time_str": "00:37.760",
+      "text": "其实没有一种安稳快乐 永远也不差",
+      "translation": null
+    },
+    {
+      "time": 45.55,
+      "time_str": "00:45.550",
+      "text": "就似这一区 曾经称得上 美满甲天下",
+      "translation": null
+    },
+    {
+      "time": 53.58,
+      "time_str": "00:53.580",
+      "text": "但霎眼 全街的单位 快要住满乌鸦",
+      "translation": null
+    },
+    {
+      "time": 61.26,
+      "time_str": "01:01.260",
+      "text": "好景不会每日常在",
+      "translation": null
+    },
+    {
+      "time": 65.12,
+      "time_str": "01:05.120",
+      "text": "天梯不可只往上爬",
+      "translation": null
+    },
+    {
+      "time": 68.89,
+      "time_str": "01:08.890",
+      "text": "爱的人 没有一生一世吗",
+      "translation": null
+    },
+    {
+      "time": 74.06,
+      "time_str": "01:14.060",
+      "text": "大概不需要害怕",
+      "translation": null
+    },
+    {
+      "time": 78.78,
+      "time_str": "01:18.780",
+      "text": "忘掉爱过的他",
+      "translation": null
+    },
+    {
+      "time": 81.59,
+      "time_str": "01:21.590",
+      "text": "当初的囍帖金箔印着那位他",
+      "translation": null
+    },
+    {
+      "time": 85.46,
+      "time_str": "01:25.460",
+      "text": "裱起婚纱照那道墙",
+      "translation": null
+    },
+    {
+      "time": 87.81,
+      "time_str": "01:27.810",
+      "text": "及一切美丽旧年华 明日同步拆下",
+      "translation": null
+    },
+    {
+      "time": 94.04,
+      "time_str": "01:34.040",
+      "text": "忘掉有过的家",
+      "translation": null
+    },
+    {
+      "time": 96.9,
+      "time_str": "01:36.900",
+      "text": "小餐枱、沙发、雪柜及两份红茶",
+      "translation": null
+    },
+    {
+      "time": 100.67,
+      "time_str": "01:40.670",
+      "text": "温馨的光境不过借出 到期拿回吗",
+      "translation": null
+    },
+    {
+      "time": 106.34,
+      "time_str": "01:46.340",
+      "text": "等不到下一代 是吗",
+      "translation": null
+    },
+    {
+      "time": 124.62,
+      "time_str": "02:04.620",
+      "text": "忘掉砌过的沙",
+      "translation": null
+    },
+    {
+      "time": 127.44,
+      "time_str": "02:07.440",
+      "text": "回忆的堡垒 刹那已倒下",
+      "translation": null
+    },
+    {
+      "time": 133.59,
+      "time_str": "02:13.590",
+      "text": "面对这 坟起的荒土 你注定学会潇洒",
+      "translation": null
+    },
+    {
+      "time": 141.17,
+      "time_str": "02:21.170",
+      "text": "阶砖不会拒绝磨蚀",
+      "translation": null
+    },
+    {
+      "time": 144.94,
+      "time_str": "02:24.940",
+      "text": "窗花不可幽禁落霞",
+      "translation": null
+    },
+    {
+      "time": 148.75,
+      "time_str": "02:28.750",
+      "text": "有感情 就会一生一世吗",
+      "translation": null
+    },
+    {
+      "time": 154.13,
+      "time_str": "02:34.130",
+      "text": "又再惋惜有用吗",
+      "translation": null
+    },
+    {
+      "time": 158.8,
+      "time_str": "02:38.800",
+      "text": "忘掉爱过的他",
+      "translation": null
+    },
+    {
+      "time": 161.66,
+      "time_str": "02:41.660",
+      "text": "当初的囍帖金箔印着那位他",
+      "translation": null
+    },
+    {
+      "time": 165.33,
+      "time_str": "02:45.330",
+      "text": "裱起婚纱照那道墙",
+      "translation": null
+    },
+    {
+      "time": 167.74,
+      "time_str": "02:47.740",
+      "text": "及一切美丽旧年华 明日同步拆下",
+      "translation": null
+    },
+    {
+      "time": 173.92,
+      "time_str": "02:53.920",
+      "text": "忘掉有过的家",
+      "translation": null
+    },
+    {
+      "time": 176.83,
+      "time_str": "02:56.830",
+      "text": "小餐枱、沙发、雪柜及两份红茶",
+      "translation": null
+    },
+    {
+      "time": 180.6,
+      "time_str": "03:00.600",
+      "text": "温馨的光境不过借出 到期拿回吗",
+      "translation": null
+    },
+    {
+      "time": 186.33,
+      "time_str": "03:06.330",
+      "text": "终须会时辰到 别怕",
+      "translation": null
+    },
+    {
+      "time": 193.23,
+      "time_str": "03:13.230",
+      "text": "请放下手里那锁匙 好吗",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "喜帖街 - 谢安琪.lrc"
+}

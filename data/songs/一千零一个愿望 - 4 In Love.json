@@ -1,0 +1,310 @@
+{
+  "title": "一千零一个愿望",
+  "title_raw": "一千零一个愿望",
+  "version": null,
+  "artist": "4 In Love",
+  "group_key": "一千零一个愿望|4 in love",
+  "writers": {
+    "lyricist": "徐世珍",
+    "composer": "潘协庆",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 0.86,
+      "time_str": "00:00.860",
+      "text": "明天就像是盒子里的巧克力糖",
+      "translation": null
+    },
+    {
+      "time": 5.29,
+      "time_str": "00:05.290",
+      "text": "什么滋味",
+      "translation": null
+    },
+    {
+      "time": 7.86,
+      "time_str": "00:07.860",
+      "text": "充满想象",
+      "translation": null
+    },
+    {
+      "time": 10.69,
+      "time_str": "00:10.690",
+      "text": "失望是偶尔拨不通的电话号码",
+      "translation": null
+    },
+    {
+      "time": 15.48,
+      "time_str": "00:15.480",
+      "text": "多试几次",
+      "translation": null
+    },
+    {
+      "time": 17.95,
+      "time_str": "00:17.950",
+      "text": "总会回答",
+      "translation": null
+    },
+    {
+      "time": 20.72,
+      "time_str": "00:20.720",
+      "text": "心里有好多的梦想",
+      "translation": null
+    },
+    {
+      "time": 25.21,
+      "time_str": "00:25.210",
+      "text": "未来正要开始闪闪发亮",
+      "translation": null
+    },
+    {
+      "time": 29.8,
+      "time_str": "00:29.800",
+      "text": "就算天再高那又怎样",
+      "translation": null
+    },
+    {
+      "time": 34.54,
+      "time_str": "00:34.540",
+      "text": "踮起脚尖",
+      "translation": null
+    },
+    {
+      "time": 36.86,
+      "time_str": "00:36.860",
+      "text": "就更靠近阳光",
+      "translation": null
+    },
+    {
+      "time": 42.95,
+      "time_str": "00:42.950",
+      "text": "许下我第一千零一个愿望",
+      "translation": null
+    },
+    {
+      "time": 47.54,
+      "time_str": "00:47.540",
+      "text": "有一天幸福总会听我的话",
+      "translation": null
+    },
+    {
+      "time": 52.08,
+      "time_str": "00:52.080",
+      "text": "不怕要多少时间多少代价",
+      "translation": null
+    },
+    {
+      "time": 56.26,
+      "time_str": "00:56.260",
+      "text": "青春是我的筹码",
+      "translation": null
+    },
+    {
+      "time": 61.4,
+      "time_str": "01:01.400",
+      "text": "我只有这一千零一个愿望",
+      "translation": null
+    },
+    {
+      "time": 66.05,
+      "time_str": "01:06.050",
+      "text": "有一天幸福总会在我手上",
+      "translation": null
+    },
+    {
+      "time": 70.78,
+      "time_str": "01:10.780",
+      "text": "每一颗心都有一双翅膀",
+      "translation": null
+    },
+    {
+      "time": 74.92,
+      "time_str": "01:14.920",
+      "text": "要勇往直前的飞翔",
+      "translation": null
+    },
+    {
+      "time": 79.51,
+      "time_str": "01:19.510",
+      "text": "没有到不了的地方",
+      "translation": null
+    },
+    {
+      "time": 110.57,
+      "time_str": "01:50.570",
+      "text": "明天就像是盒子里的巧克力糖",
+      "translation": null
+    },
+    {
+      "time": 114.75,
+      "time_str": "01:54.750",
+      "text": "什么滋味",
+      "translation": null
+    },
+    {
+      "time": 117.07,
+      "time_str": "01:57.070",
+      "text": "充满想象",
+      "translation": null
+    },
+    {
+      "time": 119.79,
+      "time_str": "01:59.790",
+      "text": "失望是偶尔拨不通的电话号码",
+      "translation": null
+    },
+    {
+      "time": 124.08,
+      "time_str": "02:04.080",
+      "text": "多试几次",
+      "translation": null
+    },
+    {
+      "time": 126.3,
+      "time_str": "02:06.300",
+      "text": "总会回答",
+      "translation": null
+    },
+    {
+      "time": 129.23,
+      "time_str": "02:09.230",
+      "text": "心里有好多的梦想",
+      "translation": null
+    },
+    {
+      "time": 133.46,
+      "time_str": "02:13.460",
+      "text": "未来正要开始闪闪发亮",
+      "translation": null
+    },
+    {
+      "time": 138.04,
+      "time_str": "02:18.040",
+      "text": "就算天再高那又怎样",
+      "translation": null
+    },
+    {
+      "time": 142.94,
+      "time_str": "02:22.940",
+      "text": "踮起脚尖",
+      "translation": null
+    },
+    {
+      "time": 145.2,
+      "time_str": "02:25.200",
+      "text": "就更靠近阳光",
+      "translation": null
+    },
+    {
+      "time": 150.7,
+      "time_str": "02:30.700",
+      "text": "许下我第一千零一个愿望",
+      "translation": null
+    },
+    {
+      "time": 155.44,
+      "time_str": "02:35.440",
+      "text": "有一天幸福总会听我的话",
+      "translation": null
+    },
+    {
+      "time": 160.08,
+      "time_str": "02:40.080",
+      "text": "不怕要多少时间多少代价",
+      "translation": null
+    },
+    {
+      "time": 164.27,
+      "time_str": "02:44.270",
+      "text": "青春是我的筹码",
+      "translation": null
+    },
+    {
+      "time": 169.41,
+      "time_str": "02:49.410",
+      "text": "我只有这一千零一个愿望",
+      "translation": null
+    },
+    {
+      "time": 174.0,
+      "time_str": "02:54.000",
+      "text": "有一天幸福总会在我手上",
+      "translation": null
+    },
+    {
+      "time": 178.64,
+      "time_str": "02:58.640",
+      "text": "每一颗心都有一双翅膀",
+      "translation": null
+    },
+    {
+      "time": 182.92,
+      "time_str": "03:02.920",
+      "text": "要勇往直前的飞翔",
+      "translation": null
+    },
+    {
+      "time": 187.56,
+      "time_str": "03:07.560",
+      "text": "没有到不了的地方",
+      "translation": null
+    },
+    {
+      "time": 199.71,
+      "time_str": "03:19.710",
+      "text": "我许下第一千零一个愿望",
+      "translation": null
+    },
+    {
+      "time": 204.35,
+      "time_str": "03:24.350",
+      "text": "有一天幸福总会听我的话",
+      "translation": null
+    },
+    {
+      "time": 209.09,
+      "time_str": "03:29.090",
+      "text": "不怕要多少时间多少代价",
+      "translation": null
+    },
+    {
+      "time": 213.38,
+      "time_str": "03:33.380",
+      "text": "青春是我的筹码",
+      "translation": null
+    },
+    {
+      "time": 218.37,
+      "time_str": "03:38.370",
+      "text": "我只有这一千零一个愿望",
+      "translation": null
+    },
+    {
+      "time": 223.11,
+      "time_str": "03:43.110",
+      "text": "有一天幸福总会在我手上",
+      "translation": null
+    },
+    {
+      "time": 227.8,
+      "time_str": "03:47.800",
+      "text": "每一颗心都有一双翅膀",
+      "translation": null
+    },
+    {
+      "time": 231.88,
+      "time_str": "03:51.880",
+      "text": "要勇往直前的飞翔",
+      "translation": null
+    },
+    {
+      "time": 236.57,
+      "time_str": "03:56.570",
+      "text": "没有到不了的地方",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一千零一个愿望 - 4 In Love.lrc"
+}

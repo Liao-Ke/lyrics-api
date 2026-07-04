@@ -1,0 +1,154 @@
+{
+  "title": "小薇",
+  "title_raw": "小薇",
+  "version": null,
+  "artist": "黄品源",
+  "group_key": "小薇|黄品源",
+  "writers": {
+    "lyricist": "阿弟",
+    "composer": "阿弟",
+    "arranger": "陈杰汉"
+  },
+  "lyrics": [
+    {
+      "time": 27.99,
+      "time_str": "00:27.990",
+      "text": "有一个美丽的小女孩",
+      "translation": null
+    },
+    {
+      "time": 33.749,
+      "time_str": "00:33.749",
+      "text": "她的名字叫做小薇",
+      "translation": null
+    },
+    {
+      "time": 40.4,
+      "time_str": "00:40.400",
+      "text": "她有双温柔的眼睛",
+      "translation": null
+    },
+    {
+      "time": 45.619,
+      "time_str": "00:45.619",
+      "text": "她悄悄偷走我的心",
+      "translation": null
+    },
+    {
+      "time": 52.579,
+      "time_str": "00:52.579",
+      "text": "小薇啊",
+      "translation": null
+    },
+    {
+      "time": 54.449,
+      "time_str": "00:54.449",
+      "text": "你可知道我多爱你",
+      "translation": null
+    },
+    {
+      "time": 58.599,
+      "time_str": "00:58.599",
+      "text": "我要带你飞到天上去",
+      "translation": null
+    },
+    {
+      "time": 64.279,
+      "time_str": "01:04.279",
+      "text": "看那星星多美丽",
+      "translation": null
+    },
+    {
+      "time": 68.12,
+      "time_str": "01:08.120",
+      "text": "摘下一颗亲手送给你",
+      "translation": null
+    },
+    {
+      "time": 104.74,
+      "time_str": "01:44.740",
+      "text": "有一个美丽的小女孩",
+      "translation": null
+    },
+    {
+      "time": 111.21,
+      "time_str": "01:51.210",
+      "text": "她的名字叫作小薇",
+      "translation": null
+    },
+    {
+      "time": 117.34,
+      "time_str": "01:57.340",
+      "text": "她有双温柔的眼睛",
+      "translation": null
+    },
+    {
+      "time": 123.459,
+      "time_str": "02:03.459",
+      "text": "她悄悄偷走我的心",
+      "translation": null
+    },
+    {
+      "time": 129.799,
+      "time_str": "02:09.799",
+      "text": "小薇啊",
+      "translation": null
+    },
+    {
+      "time": 131.74,
+      "time_str": "02:11.740",
+      "text": "你可知道我多爱你",
+      "translation": null
+    },
+    {
+      "time": 135.78,
+      "time_str": "02:15.780",
+      "text": "我要带你飞到天上去",
+      "translation": null
+    },
+    {
+      "time": 141.42,
+      "time_str": "02:21.420",
+      "text": "看那星星多美丽",
+      "translation": null
+    },
+    {
+      "time": 145.64,
+      "time_str": "02:25.640",
+      "text": "摘下一颗亲手送给你",
+      "translation": null
+    },
+    {
+      "time": 151.52,
+      "time_str": "02:31.520",
+      "text": "小薇啊",
+      "translation": null
+    },
+    {
+      "time": 153.34,
+      "time_str": "02:33.340",
+      "text": "你可知道我多爱你",
+      "translation": null
+    },
+    {
+      "time": 157.9,
+      "time_str": "02:37.900",
+      "text": "我要带你飞到天上去",
+      "translation": null
+    },
+    {
+      "time": 163.57,
+      "time_str": "02:43.570",
+      "text": "看那星星多美丽",
+      "translation": null
+    },
+    {
+      "time": 167.44,
+      "time_str": "02:47.440",
+      "text": "摘下一颗亲手送给你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "小薇 - 黄品源.lrc"
+}

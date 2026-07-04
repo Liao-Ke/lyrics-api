@@ -1,0 +1,310 @@
+{
+  "title": "夏天",
+  "title_raw": "夏天",
+  "version": null,
+  "artist": "李玖哲",
+  "group_key": "夏天|李玖哲",
+  "writers": {
+    "lyricist": "古小力",
+    "composer": "周杰伦",
+    "arranger": "Jae Chong"
+  },
+  "lyrics": [
+    {
+      "time": 25.2,
+      "time_str": "00:25.200",
+      "text": "春雨后太阳缓缓的露出笑容",
+      "translation": null
+    },
+    {
+      "time": 28.05,
+      "time_str": "00:28.050",
+      "text": "你的微笑就像弯弯的彩虹",
+      "translation": null
+    },
+    {
+      "time": 30.54,
+      "time_str": "00:30.540",
+      "text": "在这片天空云朵就是我",
+      "translation": null
+    },
+    {
+      "time": 33.09,
+      "time_str": "00:33.090",
+      "text": "随时随地环绕在你四周",
+      "translation": null
+    },
+    {
+      "time": 35.64,
+      "time_str": "00:35.640",
+      "text": "河堤上的风筝拉长自由",
+      "translation": null
+    },
+    {
+      "time": 38.31,
+      "time_str": "00:38.310",
+      "text": "微风慢慢吹着幸福感动",
+      "translation": null
+    },
+    {
+      "time": 40.77,
+      "time_str": "00:40.770",
+      "text": "我也想紧紧握紧紧牵你的手",
+      "translation": null
+    },
+    {
+      "time": 43.47,
+      "time_str": "00:43.470",
+      "text": "浪漫的抱着你看着日落",
+      "translation": null
+    },
+    {
+      "time": 46.38,
+      "time_str": "00:46.380",
+      "text": "怕黑时候数着指头",
+      "translation": null
+    },
+    {
+      "time": 48.51,
+      "time_str": "00:48.510",
+      "text": "时间就会很快过",
+      "translation": null
+    },
+    {
+      "time": 51.12,
+      "time_str": "00:51.120",
+      "text": "我会小心呵护守候",
+      "translation": null
+    },
+    {
+      "time": 53.67,
+      "time_str": "00:53.670",
+      "text": "下雨有我肩膀靠",
+      "translation": null
+    },
+    {
+      "time": 56.1,
+      "time_str": "00:56.100",
+      "text": "睡不着记得想着我",
+      "translation": null
+    },
+    {
+      "time": 58.68,
+      "time_str": "00:58.680",
+      "text": "三秒后会梦见我",
+      "translation": null
+    },
+    {
+      "time": 61.05,
+      "time_str": "01:01.050",
+      "text": "载着气球陪你兜风",
+      "translation": null
+    },
+    {
+      "time": 63.84,
+      "time_str": "01:03.840",
+      "text": "看遍所有会笑的星空",
+      "translation": null
+    },
+    {
+      "time": 67.68,
+      "time_str": "01:07.680",
+      "text": "整个夏天想和你环游世界",
+      "translation": null
+    },
+    {
+      "time": 72.69,
+      "time_str": "01:12.690",
+      "text": "山路蜿蜒就像是爱的冒险",
+      "translation": null
+    },
+    {
+      "time": 77.91,
+      "time_str": "01:17.910",
+      "text": "你的笑脸是我唯一的零嘴",
+      "translation": null
+    },
+    {
+      "time": 82.98,
+      "time_str": "01:22.980",
+      "text": "我用双眼捕捉这特写",
+      "translation": null
+    },
+    {
+      "time": 88.11,
+      "time_str": "01:28.110",
+      "text": "整个夏天融化了整个季节",
+      "translation": null
+    },
+    {
+      "time": 93.36,
+      "time_str": "01:33.360",
+      "text": "一天一天把你定格在结尾",
+      "translation": null
+    },
+    {
+      "time": 98.28,
+      "time_str": "01:38.280",
+      "text": "让我了解",
+      "translation": null
+    },
+    {
+      "time": 100.02,
+      "time_str": "01:40.020",
+      "text": "爱原来可以那么简单点缀",
+      "translation": null
+    },
+    {
+      "time": 107.13,
+      "time_str": "01:47.130",
+      "text": "看窗外的蓝天在这个屋檐",
+      "translation": null
+    },
+    {
+      "time": 109.89,
+      "time_str": "01:49.890",
+      "text": "我回忆画面有你情节",
+      "translation": null
+    },
+    {
+      "time": 132.54,
+      "time_str": "02:12.540",
+      "text": "河堤上的风筝拉长自由",
+      "translation": null
+    },
+    {
+      "time": 135.3,
+      "time_str": "02:15.300",
+      "text": "微风慢慢吹着幸福感动",
+      "translation": null
+    },
+    {
+      "time": 137.82,
+      "time_str": "02:17.820",
+      "text": "我也想紧紧握紧紧牵你的手",
+      "translation": null
+    },
+    {
+      "time": 140.49,
+      "time_str": "02:20.490",
+      "text": "浪漫的抱着你看着日落",
+      "translation": null
+    },
+    {
+      "time": 143.34,
+      "time_str": "02:23.340",
+      "text": "怕黑时候数着指头",
+      "translation": null
+    },
+    {
+      "time": 145.56,
+      "time_str": "02:25.560",
+      "text": "时间就会很快过",
+      "translation": null
+    },
+    {
+      "time": 148.11,
+      "time_str": "02:28.110",
+      "text": "我会小心呵护守候",
+      "translation": null
+    },
+    {
+      "time": 150.63,
+      "time_str": "02:30.630",
+      "text": "下雨有我肩膀靠",
+      "translation": null
+    },
+    {
+      "time": 153.12,
+      "time_str": "02:33.120",
+      "text": "睡不着记得想着我",
+      "translation": null
+    },
+    {
+      "time": 155.7,
+      "time_str": "02:35.700",
+      "text": "三秒后会梦见我",
+      "translation": null
+    },
+    {
+      "time": 158.07,
+      "time_str": "02:38.070",
+      "text": "载着气球陪你兜风",
+      "translation": null
+    },
+    {
+      "time": 160.86,
+      "time_str": "02:40.860",
+      "text": "看遍所有会笑的星空",
+      "translation": null
+    },
+    {
+      "time": 164.73,
+      "time_str": "02:44.730",
+      "text": "整个夏天想和你环游世界",
+      "translation": null
+    },
+    {
+      "time": 168.99,
+      "time_str": "02:48.990",
+      "text": "山路蜿蜒就像是爱的冒险",
+      "translation": null
+    },
+    {
+      "time": 175.11,
+      "time_str": "02:55.110",
+      "text": "你的笑脸是我唯一的零嘴",
+      "translation": null
+    },
+    {
+      "time": 180.15,
+      "time_str": "03:00.150",
+      "text": "我用双眼捕捉这特写",
+      "translation": null
+    },
+    {
+      "time": 186.39,
+      "time_str": "03:06.390",
+      "text": "整个夏天融化了整个季节",
+      "translation": null
+    },
+    {
+      "time": 190.41,
+      "time_str": "03:10.410",
+      "text": "一天一天",
+      "translation": null
+    },
+    {
+      "time": 191.85,
+      "time_str": "03:11.850",
+      "text": "把你定格在结尾",
+      "translation": null
+    },
+    {
+      "time": 195.45,
+      "time_str": "03:15.450",
+      "text": "让我了解",
+      "translation": null
+    },
+    {
+      "time": 197.04,
+      "time_str": "03:17.040",
+      "text": "爱原来可以那么简单点缀",
+      "translation": null
+    },
+    {
+      "time": 204.15,
+      "time_str": "03:24.150",
+      "text": "看窗外的蓝天在这个屋檐",
+      "translation": null
+    },
+    {
+      "time": 206.91,
+      "time_str": "03:26.910",
+      "text": "我回忆画面有你情节",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "夏天 - 李玖哲.lrc"
+}

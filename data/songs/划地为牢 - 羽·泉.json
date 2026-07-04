@@ -1,0 +1,292 @@
+{
+  "title": "划地为牢",
+  "title_raw": "划地为牢",
+  "version": null,
+  "artist": "羽·泉",
+  "group_key": "划地为牢|羽·泉",
+  "writers": {
+    "lyricist": "翟廷雅",
+    "composer": "罗晓音",
+    "arranger": "郭亮"
+  },
+  "lyrics": [
+    {
+      "time": 25.5,
+      "time_str": "00:25.500",
+      "text": "只为你盈盈一笑",
+      "translation": null
+    },
+    {
+      "time": 28.96,
+      "time_str": "00:28.960",
+      "text": "我便逃也无处可逃",
+      "translation": null
+    },
+    {
+      "time": 33.53,
+      "time_str": "00:33.530",
+      "text": "拔剑斩情丝 情丝却在指尖",
+      "translation": null
+    },
+    {
+      "time": 38.89,
+      "time_str": "00:38.890",
+      "text": "轻轻绕",
+      "translation": null
+    },
+    {
+      "time": 40.95,
+      "time_str": "00:40.950",
+      "text": "都只为情字煎熬",
+      "translation": null
+    },
+    {
+      "time": 45.23,
+      "time_str": "00:45.230",
+      "text": "枉自称侠少英豪",
+      "translation": null
+    },
+    {
+      "time": 48.7,
+      "time_str": "00:48.700",
+      "text": "前世儿女情还欠你多少",
+      "translation": null
+    },
+    {
+      "time": 56.68,
+      "time_str": "00:56.680",
+      "text": "只为你盈盈一笑",
+      "translation": null
+    },
+    {
+      "time": 60.22,
+      "time_str": "01:00.220",
+      "text": "我便逃也无处可逃",
+      "translation": null
+    },
+    {
+      "time": 64.78,
+      "time_str": "01:04.780",
+      "text": "拔剑斩情丝 情丝却在指尖",
+      "translation": null
+    },
+    {
+      "time": 69.98,
+      "time_str": "01:09.980",
+      "text": "轻轻绕",
+      "translation": null
+    },
+    {
+      "time": 72.35,
+      "time_str": "01:12.350",
+      "text": "都只为情字煎熬",
+      "translation": null
+    },
+    {
+      "time": 76.61,
+      "time_str": "01:16.610",
+      "text": "枉自称侠少英豪",
+      "translation": null
+    },
+    {
+      "time": 80.34,
+      "time_str": "01:20.340",
+      "text": "前世儿女情还欠你多少",
+      "translation": null
+    },
+    {
+      "time": 88.23,
+      "time_str": "01:28.230",
+      "text": "这一生都只为你",
+      "translation": null
+    },
+    {
+      "time": 92.19,
+      "time_str": "01:32.190",
+      "text": "情愿为你划地为牢",
+      "translation": null
+    },
+    {
+      "time": 95.67,
+      "time_str": "01:35.670",
+      "text": "我在牢里慢慢的变老",
+      "translation": null
+    },
+    {
+      "time": 99.57,
+      "time_str": "01:39.570",
+      "text": "还给你看我幸福的笑",
+      "translation": null
+    },
+    {
+      "time": 103.99,
+      "time_str": "01:43.990",
+      "text": "这一生都只为你",
+      "translation": null
+    },
+    {
+      "time": 107.72,
+      "time_str": "01:47.720",
+      "text": "情愿为你划地为牢",
+      "translation": null
+    },
+    {
+      "time": 111.37,
+      "time_str": "01:51.370",
+      "text": "我在牢里慢慢的变老",
+      "translation": null
+    },
+    {
+      "time": 115.24,
+      "time_str": "01:55.240",
+      "text": "还对别人说着你的好",
+      "translation": null
+    },
+    {
+      "time": 152.68,
+      "time_str": "02:32.680",
+      "text": "这一生都只为你",
+      "translation": null
+    },
+    {
+      "time": 156.61,
+      "time_str": "02:36.610",
+      "text": "情愿为你划地为牢",
+      "translation": null
+    },
+    {
+      "time": 160.16,
+      "time_str": "02:40.160",
+      "text": "我在牢里慢慢的变老",
+      "translation": null
+    },
+    {
+      "time": 164.35,
+      "time_str": "02:44.350",
+      "text": "还给你看我幸福的笑",
+      "translation": null
+    },
+    {
+      "time": 168.51,
+      "time_str": "02:48.510",
+      "text": "这一生都只为你",
+      "translation": null
+    },
+    {
+      "time": 172.28,
+      "time_str": "02:52.280",
+      "text": "情愿为你划地为牢",
+      "translation": null
+    },
+    {
+      "time": 175.56,
+      "time_str": "02:55.560",
+      "text": "我在牢里慢慢的变老",
+      "translation": null
+    },
+    {
+      "time": 179.72,
+      "time_str": "02:59.720",
+      "text": "还对别人说着",
+      "translation": null
+    },
+    {
+      "time": 183.75,
+      "time_str": "03:03.750",
+      "text": "这一生我都只为你",
+      "translation": null
+    },
+    {
+      "time": 187.8,
+      "time_str": "03:07.800",
+      "text": "情愿为你划地为牢",
+      "translation": null
+    },
+    {
+      "time": 191.5,
+      "time_str": "03:11.500",
+      "text": "我在牢里慢慢的变老",
+      "translation": null
+    },
+    {
+      "time": 195.55,
+      "time_str": "03:15.550",
+      "text": "还给你看我幸福的笑",
+      "translation": null
+    },
+    {
+      "time": 199.54,
+      "time_str": "03:19.540",
+      "text": "这一生都只为你",
+      "translation": null
+    },
+    {
+      "time": 203.4,
+      "time_str": "03:23.400",
+      "text": "情愿为你划地为牢",
+      "translation": null
+    },
+    {
+      "time": 207.32,
+      "time_str": "03:27.320",
+      "text": "我在牢里慢慢的变老",
+      "translation": null
+    },
+    {
+      "time": 211.23,
+      "time_str": "03:31.230",
+      "text": "还对别人说着你的好",
+      "translation": null
+    },
+    {
+      "time": 223.59,
+      "time_str": "03:43.590",
+      "text": "只为你盈盈一笑",
+      "translation": null
+    },
+    {
+      "time": 226.5,
+      "time_str": "03:46.500",
+      "text": "我便逃也无处可逃",
+      "translation": null
+    },
+    {
+      "time": 231.01,
+      "time_str": "03:51.010",
+      "text": "拔剑斩情丝 情丝却在指尖",
+      "translation": null
+    },
+    {
+      "time": 236.48,
+      "time_str": "03:56.480",
+      "text": "轻轻绕",
+      "translation": null
+    },
+    {
+      "time": 238.66,
+      "time_str": "03:58.660",
+      "text": "都只为情字煎熬",
+      "translation": null
+    },
+    {
+      "time": 242.8,
+      "time_str": "04:02.800",
+      "text": "枉自称侠少英豪",
+      "translation": null
+    },
+    {
+      "time": 246.47,
+      "time_str": "04:06.470",
+      "text": "前世儿女情还欠你多少",
+      "translation": null
+    },
+    {
+      "time": 257.61,
+      "time_str": "04:17.610",
+      "text": "还你在还你在今朝",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "划地为牢 - 羽·泉.lrc"
+}

@@ -1,0 +1,76 @@
+{
+  "title": "草原之夜",
+  "title_raw": "草原之夜",
+  "version": null,
+  "artist": "群星",
+  "group_key": "草原之夜|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.49,
+      "time_str": "00:25.490",
+      "text": "美丽的夜色多沉静",
+      "translation": null
+    },
+    {
+      "time": 43.95,
+      "time_str": "00:43.950",
+      "text": "草原上只留下我的琴声",
+      "translation": null
+    },
+    {
+      "time": 64.02,
+      "time_str": "01:04.020",
+      "text": "想给远方的姑娘写封信",
+      "translation": null
+    },
+    {
+      "time": 80.05,
+      "time_str": "01:20.05",
+      "text": "可惜没有邮递员来传情",
+      "translation": null
+    },
+    {
+      "time": 107.62,
+      "time_str": "01:47.620",
+      "text": "可惜没有邮递员来传情",
+      "translation": null
+    },
+    {
+      "time": 135.42,
+      "time_str": "02:15.420",
+      "text": "等到千里冰雪消融",
+      "translation": null
+    },
+    {
+      "time": 152.77,
+      "time_str": "02:32.770",
+      "text": "等到草原上送来春风",
+      "translation": null
+    },
+    {
+      "time": 171.26,
+      "time_str": "02:51.260",
+      "text": "可克达拉改变了模样",
+      "translation": null
+    },
+    {
+      "time": 185.55,
+      "time_str": "03:05.55",
+      "text": "姑娘就会来伴我的琴声",
+      "translation": null
+    },
+    {
+      "time": 212.25,
+      "time_str": "03:32.250",
+      "text": "姑娘就会来伴我的琴声",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "草原之夜 - 群星.lrc"
+}

@@ -1,0 +1,304 @@
+{
+  "title": "舍不得",
+  "title_raw": "舍不得",
+  "version": null,
+  "artist": "馨予",
+  "group_key": "舍不得|馨予",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 37.06,
+      "time_str": "00:37.060",
+      "text": "第一次你陪我坐着",
+      "translation": null
+    },
+    {
+      "time": 41.87,
+      "time_str": "00:41.870",
+      "text": "我的手心是空空的",
+      "translation": null
+    },
+    {
+      "time": 45.59,
+      "time_str": "00:45.590",
+      "text": "我知道那些简讯声你努力藏着",
+      "translation": null
+    },
+    {
+      "time": 50.5,
+      "time_str": "00:50.500",
+      "text": "还怕我难过",
+      "translation": null
+    },
+    {
+      "time": 55.87,
+      "time_str": "00:55.870",
+      "text": "不追问到底为什么",
+      "translation": null
+    },
+    {
+      "time": 61.32,
+      "time_str": "01:01.320",
+      "text": "是我最后的温柔",
+      "translation": null
+    },
+    {
+      "time": 64.42,
+      "time_str": "01:04.420",
+      "text": "想笑着附和说分开是好的",
+      "translation": null
+    },
+    {
+      "time": 69.05,
+      "time_str": "01:09.050",
+      "text": "但我们却怎么一起哭了",
+      "translation": null
+    },
+    {
+      "time": 78.1,
+      "time_str": "01:18.100",
+      "text": "我舍不得",
+      "translation": null
+    },
+    {
+      "time": 80.89,
+      "time_str": "01:20.890",
+      "text": "可是时间回不去了",
+      "translation": null
+    },
+    {
+      "time": 85.32,
+      "time_str": "01:25.320",
+      "text": "爱你很值得",
+      "translation": null
+    },
+    {
+      "time": 87.34,
+      "time_str": "01:27.340",
+      "text": "只是该停了",
+      "translation": null
+    },
+    {
+      "time": 89.75,
+      "time_str": "01:29.750",
+      "text": "没有我你要好好的",
+      "translation": null
+    },
+    {
+      "time": 94.75,
+      "time_str": "01:34.750",
+      "text": "我舍不得",
+      "translation": null
+    },
+    {
+      "time": 99.74,
+      "time_str": "01:39.740",
+      "text": "最后一次抱紧你了",
+      "translation": null
+    },
+    {
+      "time": 104.3,
+      "time_str": "01:44.300",
+      "text": "我们错过的",
+      "translation": null
+    },
+    {
+      "time": 106.82,
+      "time_str": "01:46.820",
+      "text": "错了就错了",
+      "translation": null
+    },
+    {
+      "time": 109.51,
+      "time_str": "01:49.510",
+      "text": "不用担心我",
+      "translation": null
+    },
+    {
+      "time": 114.09,
+      "time_str": "01:54.090",
+      "text": "我不爱你了",
+      "translation": null
+    },
+    {
+      "time": 135.73,
+      "time_str": "02:15.730",
+      "text": "不追问到底为什么",
+      "translation": null
+    },
+    {
+      "time": 140.37,
+      "time_str": "02:20.370",
+      "text": "是我最后的温柔",
+      "translation": null
+    },
+    {
+      "time": 142.88,
+      "time_str": "02:22.880",
+      "text": "想笑着附和说分开是好的",
+      "translation": null
+    },
+    {
+      "time": 147.89,
+      "time_str": "02:27.890",
+      "text": "但我们却怎么一起哭了",
+      "translation": null
+    },
+    {
+      "time": 155.99,
+      "time_str": "02:35.990",
+      "text": "我舍不得",
+      "translation": null
+    },
+    {
+      "time": 160.36,
+      "time_str": "02:40.360",
+      "text": "可是时间回不去了",
+      "translation": null
+    },
+    {
+      "time": 165.24,
+      "time_str": "02:45.240",
+      "text": "爱你很值得",
+      "translation": null
+    },
+    {
+      "time": 167.67,
+      "time_str": "02:47.670",
+      "text": "只是该停了",
+      "translation": null
+    },
+    {
+      "time": 170.08,
+      "time_str": "02:50.080",
+      "text": "没有我你要好好的",
+      "translation": null
+    },
+    {
+      "time": 175.46,
+      "time_str": "02:55.460",
+      "text": "我舍不得",
+      "translation": null
+    },
+    {
+      "time": 180.23,
+      "time_str": "03:00.230",
+      "text": "最后一次抱紧你了",
+      "translation": null
+    },
+    {
+      "time": 185.25,
+      "time_str": "03:05.250",
+      "text": "我们错过的",
+      "translation": null
+    },
+    {
+      "time": 187.91,
+      "time_str": "03:07.910",
+      "text": "错了就错了",
+      "translation": null
+    },
+    {
+      "time": 189.82,
+      "time_str": "03:09.820",
+      "text": "不用担心我",
+      "translation": null
+    },
+    {
+      "time": 193.3,
+      "time_str": "03:13.300",
+      "text": "我不爱你了",
+      "translation": null
+    },
+    {
+      "time": 196.03,
+      "time_str": "03:16.030",
+      "text": "至少你记忆里的我是微笑的",
+      "translation": null
+    },
+    {
+      "time": 203.39,
+      "time_str": "03:23.390",
+      "text": "亲爱的 有你牵着我的那些日子",
+      "translation": null
+    },
+    {
+      "time": 212.88,
+      "time_str": "03:32.880",
+      "text": "真的好快乐",
+      "translation": null
+    },
+    {
+      "time": 218.05,
+      "time_str": "03:38.050",
+      "text": "我舍不得",
+      "translation": null
+    },
+    {
+      "time": 221.48,
+      "time_str": "03:41.480",
+      "text": "可是时间回不去了",
+      "translation": null
+    },
+    {
+      "time": 226.39,
+      "time_str": "03:46.390",
+      "text": "爱你很值得",
+      "translation": null
+    },
+    {
+      "time": 228.9,
+      "time_str": "03:48.900",
+      "text": "只是该停了",
+      "translation": null
+    },
+    {
+      "time": 231.42,
+      "time_str": "03:51.420",
+      "text": "没有我你要好好的",
+      "translation": null
+    },
+    {
+      "time": 235.1,
+      "time_str": "03:55.100",
+      "text": "我舍不得",
+      "translation": null
+    },
+    {
+      "time": 239.53,
+      "time_str": "03:59.530",
+      "text": "最后一次抱紧你了",
+      "translation": null
+    },
+    {
+      "time": 244.41,
+      "time_str": "04:04.410",
+      "text": "我们错过的",
+      "translation": null
+    },
+    {
+      "time": 246.43,
+      "time_str": "04:06.430",
+      "text": "错了就错了",
+      "translation": null
+    },
+    {
+      "time": 249.13,
+      "time_str": "04:09.130",
+      "text": "不用担心我",
+      "translation": null
+    },
+    {
+      "time": 254.54,
+      "time_str": "04:14.540",
+      "text": "..我..走..了..",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "舍不得 - 馨予.lrc"
+}

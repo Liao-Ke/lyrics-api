@@ -1,0 +1,238 @@
+{
+  "title": "如果这都不算爱",
+  "title_raw": "如果这都不算爱",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "如果这都不算爱|张学友",
+  "writers": {
+    "lyricist": "李焯雄",
+    "composer": "伍佰",
+    "arranger": "Davy Chan/邓建明"
+  },
+  "lyrics": [
+    {
+      "time": 0.489,
+      "time_str": "00:00.489",
+      "text": "张学友-如果这都不算爱",
+      "translation": null
+    },
+    {
+      "time": 20.963,
+      "time_str": "00:20.963",
+      "text": "是否爱就是忍耐",
+      "translation": null
+    },
+    {
+      "time": 24.112,
+      "time_str": "00:24.112",
+      "text": "不问该不该",
+      "translation": null
+    },
+    {
+      "time": 29.76,
+      "time_str": "00:29.760",
+      "text": "都怪我没能耐",
+      "translation": null
+    },
+    {
+      "time": 32.522,
+      "time_str": "00:32.522",
+      "text": "转身走开",
+      "translation": null
+    },
+    {
+      "time": 37.398,
+      "time_str": "00:37.398",
+      "text": "难道牺牲才精彩",
+      "translation": null
+    },
+    {
+      "time": 40.348,
+      "time_str": "00:40.348",
+      "text": "伤痛才实在",
+      "translation": null
+    },
+    {
+      "time": 43.294,
+      "time_str": "00:43.294",
+      "text": "要为你流下泪来",
+      "translation": null
+    },
+    {
+      "time": 48.56,
+      "time_str": "00:48.560",
+      "text": "才证明是爱",
+      "translation": null
+    },
+    {
+      "time": 52.712,
+      "time_str": "00:52.712",
+      "text": "如果这都不算爱",
+      "translation": null
+    },
+    {
+      "time": 56.471,
+      "time_str": "00:56.471",
+      "text": "我有什么好悲哀",
+      "translation": null
+    },
+    {
+      "time": 60.635,
+      "time_str": "01:00.635",
+      "text": "谢谢你的慷慨",
+      "translation": null
+    },
+    {
+      "time": 63.481,
+      "time_str": "01:03.481",
+      "text": "是我自己活该",
+      "translation": null
+    },
+    {
+      "time": 68.948,
+      "time_str": "01:08.948",
+      "text": "如果这都不算爱",
+      "translation": null
+    },
+    {
+      "time": 72.76,
+      "time_str": "01:12.760",
+      "text": "我有什么好悲哀",
+      "translation": null
+    },
+    {
+      "time": 76.822,
+      "time_str": "01:16.822",
+      "text": "你只要被期待",
+      "translation": null
+    },
+    {
+      "time": 79.716,
+      "time_str": "01:19.716",
+      "text": "不要真正去爱",
+      "translation": null
+    },
+    {
+      "time": 83.53,
+      "time_str": "01:23.530",
+      "text": "oh no",
+      "translation": null
+    },
+    {
+      "time": 86.222,
+      "time_str": "01:26.222",
+      "text": "还要怎样的表白",
+      "translation": null
+    },
+    {
+      "time": 89.116,
+      "time_str": "01:29.116",
+      "text": "才不算独白",
+      "translation": null
+    },
+    {
+      "time": 93.967,
+      "time_str": "01:33.967",
+      "text": "都怪我没能耐",
+      "translation": null
+    },
+    {
+      "time": 97.375,
+      "time_str": "01:37.375",
+      "text": "转身走开",
+      "translation": null
+    },
+    {
+      "time": 102.528,
+      "time_str": "01:42.528",
+      "text": "难道牺牲才精彩",
+      "translation": null
+    },
+    {
+      "time": 105.377,
+      "time_str": "01:45.377",
+      "text": "伤痛才实在",
+      "translation": null
+    },
+    {
+      "time": 108.323,
+      "time_str": "01:48.323",
+      "text": "要为你流下泪来",
+      "translation": null
+    },
+    {
+      "time": 113.664,
+      "time_str": "01:53.664",
+      "text": "才证明是爱",
+      "translation": null
+    },
+    {
+      "time": 135.97,
+      "time_str": "02:15.970",
+      "text": "你的感情太易割爱",
+      "translation": null
+    },
+    {
+      "time": 139.58,
+      "time_str": "02:19.580",
+      "text": "把未来转眼就删改",
+      "translation": null
+    },
+    {
+      "time": 143.73,
+      "time_str": "02:23.730",
+      "text": "我的心却为你空白了一块",
+      "translation": null
+    },
+    {
+      "time": 150.337,
+      "time_str": "02:30.337",
+      "text": "如果这都不算爱",
+      "translation": null
+    },
+    {
+      "time": 154.146,
+      "time_str": "02:34.146",
+      "text": "我有什么好悲哀",
+      "translation": null
+    },
+    {
+      "time": 158.158,
+      "time_str": "02:38.158",
+      "text": "谢谢你的慷慨",
+      "translation": null
+    },
+    {
+      "time": 161.156,
+      "time_str": "02:41.156",
+      "text": "是我自己活该",
+      "translation": null
+    },
+    {
+      "time": 166.501,
+      "time_str": "02:46.501",
+      "text": "如果这都不算爱",
+      "translation": null
+    },
+    {
+      "time": 170.364,
+      "time_str": "02:50.364",
+      "text": "我有什么好悲哀",
+      "translation": null
+    },
+    {
+      "time": 174.428,
+      "time_str": "02:54.428",
+      "text": "你要的是崇拜",
+      "translation": null
+    },
+    {
+      "time": 177.327,
+      "time_str": "02:57.327",
+      "text": "并不是谁的爱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "如果这都不算爱 - 张学友.lrc"
+}

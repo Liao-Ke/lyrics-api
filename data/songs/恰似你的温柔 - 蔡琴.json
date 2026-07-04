@@ -1,0 +1,220 @@
+{
+  "title": "恰似你的温柔",
+  "title_raw": "恰似你的温柔",
+  "version": null,
+  "artist": "蔡琴",
+  "group_key": "恰似你的温柔|蔡琴",
+  "writers": {
+    "lyricist": "梁弘志",
+    "composer": "梁弘志",
+    "arranger": "江建民"
+  },
+  "lyrics": [
+    {
+      "time": 25.02,
+      "time_str": "00:25.020",
+      "text": "某年某月的某一天",
+      "translation": null
+    },
+    {
+      "time": 30.96,
+      "time_str": "00:30.960",
+      "text": "就像一张破碎的脸",
+      "translation": null
+    },
+    {
+      "time": 36.18,
+      "time_str": "00:36.180",
+      "text": "难以开口道再见",
+      "translation": null
+    },
+    {
+      "time": 42.57,
+      "time_str": "00:42.570",
+      "text": "就让一切走远",
+      "translation": null
+    },
+    {
+      "time": 48.56,
+      "time_str": "00:48.560",
+      "text": "这不是件容易的事",
+      "translation": null
+    },
+    {
+      "time": 54.84,
+      "time_str": "00:54.840",
+      "text": "我们却都没有哭泣",
+      "translation": null
+    },
+    {
+      "time": 60.31,
+      "time_str": "01:00.310",
+      "text": "让它淡淡地来",
+      "translation": null
+    },
+    {
+      "time": 66.26,
+      "time_str": "01:06.260",
+      "text": "让它好好地去",
+      "translation": null
+    },
+    {
+      "time": 71.1,
+      "time_str": "01:11.100",
+      "text": "到如今年复一年",
+      "translation": null
+    },
+    {
+      "time": 74.82,
+      "time_str": "01:14.820",
+      "text": "我不能停止怀念",
+      "translation": null
+    },
+    {
+      "time": 78.31,
+      "time_str": "01:18.310",
+      "text": "怀念你 怀念从前",
+      "translation": null
+    },
+    {
+      "time": 82.36,
+      "time_str": "01:22.360",
+      "text": "但愿那海风再起",
+      "translation": null
+    },
+    {
+      "time": 86.94,
+      "time_str": "01:26.940",
+      "text": "只为那浪花的手",
+      "translation": null
+    },
+    {
+      "time": 90.29,
+      "time_str": "01:30.290",
+      "text": "恰似你的温柔",
+      "translation": null
+    },
+    {
+      "time": 117.83,
+      "time_str": "01:57.830",
+      "text": "某年某月的某一天",
+      "translation": null
+    },
+    {
+      "time": 124.04,
+      "time_str": "02:04.040",
+      "text": "就像一张破碎的脸",
+      "translation": null
+    },
+    {
+      "time": 129.27,
+      "time_str": "02:09.270",
+      "text": "难以开口道再见",
+      "translation": null
+    },
+    {
+      "time": 135.26,
+      "time_str": "02:15.260",
+      "text": "就让一切走远",
+      "translation": null
+    },
+    {
+      "time": 142.02,
+      "time_str": "02:22.020",
+      "text": "这不是件容易的事",
+      "translation": null
+    },
+    {
+      "time": 147.51,
+      "time_str": "02:27.510",
+      "text": "我们却都没有哭泣",
+      "translation": null
+    },
+    {
+      "time": 153.07,
+      "time_str": "02:33.070",
+      "text": "让它淡淡地来",
+      "translation": null
+    },
+    {
+      "time": 159.3,
+      "time_str": "02:39.300",
+      "text": "让它好好地去",
+      "translation": null
+    },
+    {
+      "time": 164.06,
+      "time_str": "02:44.060",
+      "text": "到如今年复一年",
+      "translation": null
+    },
+    {
+      "time": 167.9,
+      "time_str": "02:47.900",
+      "text": "我不能停止怀念",
+      "translation": null
+    },
+    {
+      "time": 171.52,
+      "time_str": "02:51.520",
+      "text": "怀念你 怀念从前",
+      "translation": null
+    },
+    {
+      "time": 176.1,
+      "time_str": "02:56.100",
+      "text": "但愿那海风再起",
+      "translation": null
+    },
+    {
+      "time": 180.09,
+      "time_str": "03:00.090",
+      "text": "只为那浪花的手",
+      "translation": null
+    },
+    {
+      "time": 183.6,
+      "time_str": "03:03.600",
+      "text": "恰似你的温柔",
+      "translation": null
+    },
+    {
+      "time": 197.55,
+      "time_str": "03:17.550",
+      "text": "到如今年复一年",
+      "translation": null
+    },
+    {
+      "time": 200.87,
+      "time_str": "03:20.870",
+      "text": "我不能停止怀念",
+      "translation": null
+    },
+    {
+      "time": 204.6,
+      "time_str": "03:24.600",
+      "text": "怀念你 怀念从前",
+      "translation": null
+    },
+    {
+      "time": 209.31,
+      "time_str": "03:29.310",
+      "text": "但愿那海风再起",
+      "translation": null
+    },
+    {
+      "time": 212.95,
+      "time_str": "03:32.950",
+      "text": "只为那浪花的手",
+      "translation": null
+    },
+    {
+      "time": 216.6,
+      "time_str": "03:36.600",
+      "text": "恰似你的温柔",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "恰似你的温柔 - 蔡琴.lrc"
+}

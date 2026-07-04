@@ -1,0 +1,268 @@
+{
+  "title": "牡丹江",
+  "title_raw": "牡丹江",
+  "version": null,
+  "artist": "南拳妈妈",
+  "group_key": "牡丹江|南拳妈妈",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "杨瑞代",
+    "arranger": "杨瑞代"
+  },
+  "lyrics": [
+    {
+      "time": 13.85,
+      "time_str": "00:13.850",
+      "text": "弯成一弯的桥梁倒映在这湖面上",
+      "translation": null
+    },
+    {
+      "time": 20.39,
+      "time_str": "00:20.390",
+      "text": "你从那头瞧这看月光下一轮美满",
+      "translation": null
+    },
+    {
+      "time": 27.3,
+      "time_str": "00:27.300",
+      "text": "青石板的老街上你我走过的地方",
+      "translation": null
+    },
+    {
+      "time": 34.1,
+      "time_str": "00:34.100",
+      "text": "那段斑驳的砖墙如今到底啥模样",
+      "translation": null
+    },
+    {
+      "time": 40.95,
+      "time_str": "00:40.950",
+      "text": "到不了的都叫做远方",
+      "translation": null
+    },
+    {
+      "time": 47.85,
+      "time_str": "00:47.850",
+      "text": "回不去的名字叫家乡",
+      "translation": null
+    },
+    {
+      "time": 53.75,
+      "time_str": "00:53.750",
+      "text": "呜~",
+      "translation": null
+    },
+    {
+      "time": 54.8,
+      "time_str": "00:54.800",
+      "text": "谁在门外唱那首牡丹江",
+      "translation": null
+    },
+    {
+      "time": 58.3,
+      "time_str": "00:58.300",
+      "text": "我聆听感伤你声音悠扬",
+      "translation": null
+    },
+    {
+      "time": 61.5,
+      "time_str": "01:01.500",
+      "text": "风铃摇晃清脆响",
+      "translation": null
+    },
+    {
+      "time": 64.75,
+      "time_str": "01:04.750",
+      "text": "江边的小村庄午睡般安祥",
+      "translation": null
+    },
+    {
+      "time": 68.26,
+      "time_str": "01:08.260",
+      "text": "谁在门外唱那首牡丹江",
+      "translation": null
+    },
+    {
+      "time": 71.86,
+      "time_str": "01:11.860",
+      "text": "我脚步轻响走向你身旁",
+      "translation": null
+    },
+    {
+      "time": 75.11,
+      "time_str": "01:15.110",
+      "text": "思念的光透进窗",
+      "translation": null
+    },
+    {
+      "time": 78.21,
+      "time_str": "01:18.210",
+      "text": "银白色的温暖洒在儿时的床",
+      "translation": null
+    },
+    {
+      "time": 102.77,
+      "time_str": "01:42.770",
+      "text": "弯成一弯的桥梁倒映在这湖面上",
+      "translation": null
+    },
+    {
+      "time": 109.47,
+      "time_str": "01:49.470",
+      "text": "你从那头瞧这看月光下一轮美满",
+      "translation": null
+    },
+    {
+      "time": 117.22,
+      "time_str": "01:57.220",
+      "text": "青石板的老街上你我走过的地方",
+      "translation": null
+    },
+    {
+      "time": 124.17,
+      "time_str": "02:04.170",
+      "text": "那段斑驳的砖墙如今到底啥模样",
+      "translation": null
+    },
+    {
+      "time": 131.12,
+      "time_str": "02:11.120",
+      "text": "到不了的都叫做远方",
+      "translation": null
+    },
+    {
+      "time": 138.02,
+      "time_str": "02:18.020",
+      "text": "回不去的名字叫家乡",
+      "translation": null
+    },
+    {
+      "time": 143.97,
+      "time_str": "02:23.970",
+      "text": "呜~",
+      "translation": null
+    },
+    {
+      "time": 144.77,
+      "time_str": "02:24.770",
+      "text": "谁在门外唱那首牡丹江",
+      "translation": null
+    },
+    {
+      "time": 148.12,
+      "time_str": "02:28.120",
+      "text": "我聆听感伤你声音悠扬",
+      "translation": null
+    },
+    {
+      "time": 151.57,
+      "time_str": "02:31.570",
+      "text": "风铃摇晃清脆响",
+      "translation": null
+    },
+    {
+      "time": 154.82,
+      "time_str": "02:34.820",
+      "text": "江边的小村庄午睡般安祥",
+      "translation": null
+    },
+    {
+      "time": 158.32,
+      "time_str": "02:38.320",
+      "text": "谁在门外唱那首牡丹江",
+      "translation": null
+    },
+    {
+      "time": 161.82,
+      "time_str": "02:41.820",
+      "text": "我脚步轻响走向你身旁",
+      "translation": null
+    },
+    {
+      "time": 165.22,
+      "time_str": "02:45.220",
+      "text": "思念的光透进窗",
+      "translation": null
+    },
+    {
+      "time": 168.12,
+      "time_str": "02:48.120",
+      "text": "银白色的温暖洒在儿时的床",
+      "translation": null
+    },
+    {
+      "time": 172.12,
+      "time_str": "02:52.120",
+      "text": "谁在门外唱那首牡丹江",
+      "translation": null
+    },
+    {
+      "time": 175.72,
+      "time_str": "02:55.720",
+      "text": "我聆听感伤你声音悠扬",
+      "translation": null
+    },
+    {
+      "time": 178.97,
+      "time_str": "02:58.970",
+      "text": "风铃摇晃清脆响",
+      "translation": null
+    },
+    {
+      "time": 182.22,
+      "time_str": "03:02.220",
+      "text": "江边的小村庄午睡般安祥",
+      "translation": null
+    },
+    {
+      "time": 186.67,
+      "time_str": "03:06.670",
+      "text": "谁在门外唱那首牡丹江",
+      "translation": null
+    },
+    {
+      "time": 190.12,
+      "time_str": "03:10.120",
+      "text": "我脚步轻响走向你身旁",
+      "translation": null
+    },
+    {
+      "time": 193.42,
+      "time_str": "03:13.420",
+      "text": "思念的光透进窗",
+      "translation": null
+    },
+    {
+      "time": 196.82,
+      "time_str": "03:16.820",
+      "text": "银白色的温暖洒在儿时的床",
+      "translation": null
+    },
+    {
+      "time": 201.22,
+      "time_str": "03:21.220",
+      "text": "牡丹江弯了几个弯小鱼儿甭上船咱们不稀罕",
+      "translation": null
+    },
+    {
+      "time": 207.17,
+      "time_str": "03:27.170",
+      "text": "捞月亮张网捕星光给爷爷下酒喝一碗家乡",
+      "translation": null
+    },
+    {
+      "time": 214.07,
+      "time_str": "03:34.070",
+      "text": "牡丹江弯了几个弯小虾米甭靠岸咱们没空装",
+      "translation": null
+    },
+    {
+      "time": 220.92,
+      "time_str": "03:40.920",
+      "text": "捞月亮张网捕星光给姥姥熬汤喝一碗家乡",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "牡丹江 - 南拳妈妈.lrc"
+}

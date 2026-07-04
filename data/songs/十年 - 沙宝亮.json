@@ -1,0 +1,232 @@
+{
+  "title": "十年",
+  "title_raw": "十年",
+  "version": null,
+  "artist": "沙宝亮",
+  "group_key": "十年|沙宝亮",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.31,
+      "time_str": "00:15.310",
+      "text": "如果那两个字没有颤抖",
+      "translation": null
+    },
+    {
+      "time": 19.25,
+      "time_str": "00:19.250",
+      "text": "我不会发现   我难受",
+      "translation": null
+    },
+    {
+      "time": 22.37,
+      "time_str": "00:22.370",
+      "text": "怎么说出口  也不过是分手",
+      "translation": null
+    },
+    {
+      "time": 30.4,
+      "time_str": "00:30.400",
+      "text": "如果对于明天没有要求",
+      "translation": null
+    },
+    {
+      "time": 34.58,
+      "time_str": "00:34.580",
+      "text": "牵牵手就像旅游",
+      "translation": null
+    },
+    {
+      "time": 37.64,
+      "time_str": "00:37.640",
+      "text": "成千上万个门口",
+      "translation": null
+    },
+    {
+      "time": 41.57,
+      "time_str": "00:41.570",
+      "text": "总有一个人要先走",
+      "translation": null
+    },
+    {
+      "time": 47.5,
+      "time_str": "00:47.500",
+      "text": "怀抱既然不能逗留",
+      "translation": null
+    },
+    {
+      "time": 50.82,
+      "time_str": "00:50.820",
+      "text": "何不在离开的时候",
+      "translation": null
+    },
+    {
+      "time": 53.55,
+      "time_str": "00:53.550",
+      "text": "一边享受   一边泪流",
+      "translation": null
+    },
+    {
+      "time": 60.83,
+      "time_str": "01:00.830",
+      "text": "十年之前",
+      "translation": null
+    },
+    {
+      "time": 62.9,
+      "time_str": "01:02.900",
+      "text": "我不认识你   你不属于我",
+      "translation": null
+    },
+    {
+      "time": 66.65,
+      "time_str": "01:06.650",
+      "text": "我们还是一样",
+      "translation": null
+    },
+    {
+      "time": 68.96,
+      "time_str": "01:08.960",
+      "text": "陪在一个陌生人左右",
+      "translation": null
+    },
+    {
+      "time": 72.52,
+      "time_str": "01:12.520",
+      "text": "走过渐渐熟悉的街头",
+      "translation": null
+    },
+    {
+      "time": 76.39,
+      "time_str": "01:16.390",
+      "text": "十年之后",
+      "translation": null
+    },
+    {
+      "time": 78.2,
+      "time_str": "01:18.200",
+      "text": "我们是朋友   还可以问候",
+      "translation": null
+    },
+    {
+      "time": 82.13,
+      "time_str": "01:22.130",
+      "text": "只是那种温柔",
+      "translation": null
+    },
+    {
+      "time": 84.44,
+      "time_str": "01:24.440",
+      "text": "再也找不到拥抱的理由",
+      "translation": null
+    },
+    {
+      "time": 88.31,
+      "time_str": "01:28.310",
+      "text": "情人最后难免沦为朋友",
+      "translation": null
+    },
+    {
+      "time": 132.51,
+      "time_str": "02:12.510",
+      "text": "怀抱既然不能逗留",
+      "translation": null
+    },
+    {
+      "time": 135.88,
+      "time_str": "02:15.880",
+      "text": "何不在离开的时候",
+      "translation": null
+    },
+    {
+      "time": 138.81,
+      "time_str": "02:18.810",
+      "text": "一边享受   一边泪流",
+      "translation": null
+    },
+    {
+      "time": 146.05,
+      "time_str": "02:26.050",
+      "text": "十年之前",
+      "translation": null
+    },
+    {
+      "time": 147.86,
+      "time_str": "02:27.860",
+      "text": "我不认识你   你不属于我",
+      "translation": null
+    },
+    {
+      "time": 151.79,
+      "time_str": "02:31.790",
+      "text": "我们还是一样",
+      "translation": null
+    },
+    {
+      "time": 154.09,
+      "time_str": "02:34.090",
+      "text": "陪在一个陌生人左右",
+      "translation": null
+    },
+    {
+      "time": 157.78,
+      "time_str": "02:37.780",
+      "text": "走过渐渐熟悉的街头",
+      "translation": null
+    },
+    {
+      "time": 161.52,
+      "time_str": "02:41.520",
+      "text": "十年之后",
+      "translation": null
+    },
+    {
+      "time": 163.39,
+      "time_str": "02:43.390",
+      "text": "我们是朋友 还可以问候",
+      "translation": null
+    },
+    {
+      "time": 167.26,
+      "time_str": "02:47.260",
+      "text": "只是那种温柔",
+      "translation": null
+    },
+    {
+      "time": 169.64,
+      "time_str": "02:49.640",
+      "text": "再也找不到拥抱的理由",
+      "translation": null
+    },
+    {
+      "time": 173.63,
+      "time_str": "02:53.630",
+      "text": "情人最后难免沦为朋友",
+      "translation": null
+    },
+    {
+      "time": 183.45,
+      "time_str": "03:03.450",
+      "text": "直到和你做了多年朋友",
+      "translation": null
+    },
+    {
+      "time": 187.58,
+      "time_str": "03:07.580",
+      "text": "才明白我的眼泪  不是为你而流",
+      "translation": null
+    },
+    {
+      "time": 194.33,
+      "time_str": "03:14.330",
+      "text": "也为别人而流",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "十年 - 沙宝亮.lrc"
+}

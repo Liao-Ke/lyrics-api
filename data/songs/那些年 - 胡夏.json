@@ -1,0 +1,490 @@
+{
+  "title": "那些年",
+  "title_raw": "那些年",
+  "version": null,
+  "artist": "胡夏",
+  "group_key": "那些年|胡夏",
+  "writers": {
+    "lyricist": "九把刀",
+    "composer": "木村充利",
+    "arranger": "侯志坚/林冠吟"
+  },
+  "lyrics": [
+    {
+      "time": 18.1,
+      "time_str": "00:18.100",
+      "text": "又回到最初的起点",
+      "translation": null
+    },
+    {
+      "time": 20.89,
+      "time_str": "00:20.890",
+      "text": "记忆中你青涩的脸",
+      "translation": null
+    },
+    {
+      "time": 24.24,
+      "time_str": "00:24.240",
+      "text": "我们终于",
+      "translation": null
+    },
+    {
+      "time": 25.95,
+      "time_str": "00:25.950",
+      "text": "来到了这一天",
+      "translation": null
+    },
+    {
+      "time": 30.33,
+      "time_str": "00:30.330",
+      "text": "桌垫下的老照片",
+      "translation": null
+    },
+    {
+      "time": 33.46,
+      "time_str": "00:33.460",
+      "text": "无数回忆连结",
+      "translation": null
+    },
+    {
+      "time": 35.7,
+      "time_str": "00:35.700",
+      "text": "今天男孩要赴女孩最后的约",
+      "translation": null
+    },
+    {
+      "time": 42.45,
+      "time_str": "00:42.450",
+      "text": "又回到最初的起点",
+      "translation": null
+    },
+    {
+      "time": 45.37,
+      "time_str": "00:45.370",
+      "text": "呆呆地站在镜子前",
+      "translation": null
+    },
+    {
+      "time": 48.58,
+      "time_str": "00:48.580",
+      "text": "笨拙系上红色领带的结",
+      "translation": null
+    },
+    {
+      "time": 53.57,
+      "time_str": "00:53.570",
+      "text": "将头发梳成大人模样",
+      "translation": null
+    },
+    {
+      "time": 57.41,
+      "time_str": "00:57.410",
+      "text": "穿上一身帅气西装",
+      "translation": null
+    },
+    {
+      "time": 59.97,
+      "time_str": "00:59.970",
+      "text": "等会儿见你一定比想象美",
+      "translation": null
+    },
+    {
+      "time": 67.19,
+      "time_str": "01:07.190",
+      "text": "好想再回到那些年的时光",
+      "translation": null
+    },
+    {
+      "time": 71.53,
+      "time_str": "01:11.530",
+      "text": "回到教室座位前后",
+      "translation": null
+    },
+    {
+      "time": 74.49,
+      "time_str": "01:14.490",
+      "text": "故意讨你温柔的骂",
+      "translation": null
+    },
+    {
+      "time": 79.31,
+      "time_str": "01:19.310",
+      "text": "黑板上排列组合",
+      "translation": null
+    },
+    {
+      "time": 82.25,
+      "time_str": "01:22.250",
+      "text": "你舍得解开吗",
+      "translation": null
+    },
+    {
+      "time": 85.39,
+      "time_str": "01:25.390",
+      "text": "谁与谁坐他又爱着她",
+      "translation": null
+    },
+    {
+      "time": 94.04,
+      "time_str": "01:34.040",
+      "text": "那些年错过的大雨",
+      "translation": null
+    },
+    {
+      "time": 97.05,
+      "time_str": "01:37.050",
+      "text": "那些年错过的爱情",
+      "translation": null
+    },
+    {
+      "time": 99.87,
+      "time_str": "01:39.870",
+      "text": "好想拥抱你",
+      "translation": null
+    },
+    {
+      "time": 102.0,
+      "time_str": "01:42.000",
+      "text": "拥抱错过的勇气",
+      "translation": null
+    },
+    {
+      "time": 106.16,
+      "time_str": "01:46.160",
+      "text": "曾经想征服全世界",
+      "translation": null
+    },
+    {
+      "time": 109.14,
+      "time_str": "01:49.140",
+      "text": "到最后回首才发现",
+      "translation": null
+    },
+    {
+      "time": 111.57,
+      "time_str": "01:51.570",
+      "text": "这世界滴滴点点全部都是你",
+      "translation": null
+    },
+    {
+      "time": 118.44,
+      "time_str": "01:58.440",
+      "text": "那些年错过的大雨",
+      "translation": null
+    },
+    {
+      "time": 121.32,
+      "time_str": "02:01.320",
+      "text": "那些年错过的爱情",
+      "translation": null
+    },
+    {
+      "time": 124.17,
+      "time_str": "02:04.170",
+      "text": "好想告诉你",
+      "translation": null
+    },
+    {
+      "time": 126.21,
+      "time_str": "02:06.210",
+      "text": "告诉你我没有忘记",
+      "translation": null
+    },
+    {
+      "time": 130.48,
+      "time_str": "02:10.480",
+      "text": "那天晚上满天星星",
+      "translation": null
+    },
+    {
+      "time": 133.45,
+      "time_str": "02:13.450",
+      "text": "平行时空下的约定",
+      "translation": null
+    },
+    {
+      "time": 135.95,
+      "time_str": "02:15.950",
+      "text": "再一次相遇我会",
+      "translation": null
+    },
+    {
+      "time": 138.5,
+      "time_str": "02:18.500",
+      "text": "紧紧抱着你",
+      "translation": null
+    },
+    {
+      "time": 141.38,
+      "time_str": "02:21.380",
+      "text": "紧紧抱着你",
+      "translation": null
+    },
+    {
+      "time": 157.89,
+      "time_str": "02:37.890",
+      "text": "又回到最初的起点",
+      "translation": null
+    },
+    {
+      "time": 160.75,
+      "time_str": "02:40.750",
+      "text": "呆呆地站在镜子前",
+      "translation": null
+    },
+    {
+      "time": 164.02,
+      "time_str": "02:44.020",
+      "text": "笨拙系上红色领带的结",
+      "translation": null
+    },
+    {
+      "time": 168.88,
+      "time_str": "02:48.880",
+      "text": "将头发梳成大人模样",
+      "translation": null
+    },
+    {
+      "time": 172.9,
+      "time_str": "02:52.900",
+      "text": "穿上一身帅气西装",
+      "translation": null
+    },
+    {
+      "time": 175.43,
+      "time_str": "02:55.430",
+      "text": "等会儿见你一定比想象美",
+      "translation": null
+    },
+    {
+      "time": 182.58,
+      "time_str": "03:02.580",
+      "text": "好想再回到那些年的时光",
+      "translation": null
+    },
+    {
+      "time": 186.95,
+      "time_str": "03:06.950",
+      "text": "回到教室座位前后",
+      "translation": null
+    },
+    {
+      "time": 189.7,
+      "time_str": "03:09.700",
+      "text": "故意讨你温柔的骂",
+      "translation": null
+    },
+    {
+      "time": 194.86,
+      "time_str": "03:14.860",
+      "text": "黑板上排列组合",
+      "translation": null
+    },
+    {
+      "time": 197.59,
+      "time_str": "03:17.590",
+      "text": "你舍得解开吗",
+      "translation": null
+    },
+    {
+      "time": 200.86,
+      "time_str": "03:20.860",
+      "text": "谁与谁坐他又爱着她",
+      "translation": null
+    },
+    {
+      "time": 209.53,
+      "time_str": "03:29.530",
+      "text": "那些年错过的大雨",
+      "translation": null
+    },
+    {
+      "time": 212.52,
+      "time_str": "03:32.520",
+      "text": "那些年错过的爱情",
+      "translation": null
+    },
+    {
+      "time": 215.25,
+      "time_str": "03:35.250",
+      "text": "好想拥抱你",
+      "translation": null
+    },
+    {
+      "time": 217.37,
+      "time_str": "03:37.370",
+      "text": "拥抱错过的勇气",
+      "translation": null
+    },
+    {
+      "time": 221.56,
+      "time_str": "03:41.560",
+      "text": "曾经想征服全世界",
+      "translation": null
+    },
+    {
+      "time": 224.58,
+      "time_str": "03:44.580",
+      "text": "到最后回首才发现",
+      "translation": null
+    },
+    {
+      "time": 227.04,
+      "time_str": "03:47.040",
+      "text": "这世界滴滴点点全部都是你",
+      "translation": null
+    },
+    {
+      "time": 233.87,
+      "time_str": "03:53.870",
+      "text": "那些年错过的大雨",
+      "translation": null
+    },
+    {
+      "time": 236.79,
+      "time_str": "03:56.790",
+      "text": "那些年错过的爱情",
+      "translation": null
+    },
+    {
+      "time": 239.59,
+      "time_str": "03:59.590",
+      "text": "好想告诉你",
+      "translation": null
+    },
+    {
+      "time": 241.62,
+      "time_str": "04:01.620",
+      "text": "告诉你我没有忘记",
+      "translation": null
+    },
+    {
+      "time": 245.82,
+      "time_str": "04:05.820",
+      "text": "那天晚上满天星星",
+      "translation": null
+    },
+    {
+      "time": 248.85,
+      "time_str": "04:08.850",
+      "text": "平行时空下的约定",
+      "translation": null
+    },
+    {
+      "time": 251.35,
+      "time_str": "04:11.350",
+      "text": "再一次相遇我会",
+      "translation": null
+    },
+    {
+      "time": 253.95,
+      "time_str": "04:13.950",
+      "text": "紧紧抱着你",
+      "translation": null
+    },
+    {
+      "time": 256.87,
+      "time_str": "04:16.870",
+      "text": "紧紧抱着你",
+      "translation": null
+    },
+    {
+      "time": 285.49,
+      "time_str": "04:45.490",
+      "text": "那些年错过的大雨",
+      "translation": null
+    },
+    {
+      "time": 288.4,
+      "time_str": "04:48.400",
+      "text": "那些年错过的爱情",
+      "translation": null
+    },
+    {
+      "time": 291.2,
+      "time_str": "04:51.200",
+      "text": "好想拥抱你",
+      "translation": null
+    },
+    {
+      "time": 293.24,
+      "time_str": "04:53.240",
+      "text": "拥抱错过的勇气",
+      "translation": null
+    },
+    {
+      "time": 297.48,
+      "time_str": "04:57.480",
+      "text": "曾经想征服全世界",
+      "translation": null
+    },
+    {
+      "time": 300.59,
+      "time_str": "05:00.590",
+      "text": "到最后回首才发现",
+      "translation": null
+    },
+    {
+      "time": 303.01,
+      "time_str": "05:03.010",
+      "text": "这世界滴滴点点全部都是你",
+      "translation": null
+    },
+    {
+      "time": 309.71,
+      "time_str": "05:09.710",
+      "text": "那些年错过的大雨",
+      "translation": null
+    },
+    {
+      "time": 312.79,
+      "time_str": "05:12.790",
+      "text": "那些年错过的爱情",
+      "translation": null
+    },
+    {
+      "time": 315.52,
+      "time_str": "05:15.520",
+      "text": "好想告诉你",
+      "translation": null
+    },
+    {
+      "time": 317.6,
+      "time_str": "05:17.600",
+      "text": "告诉你我没有忘记",
+      "translation": null
+    },
+    {
+      "time": 321.81,
+      "time_str": "05:21.810",
+      "text": "那天晚上满天星星",
+      "translation": null
+    },
+    {
+      "time": 324.83,
+      "time_str": "05:24.830",
+      "text": "平行时空下的约定",
+      "translation": null
+    },
+    {
+      "time": 327.33,
+      "time_str": "05:27.330",
+      "text": "再一次相遇我会",
+      "translation": null
+    },
+    {
+      "time": 329.98,
+      "time_str": "05:29.980",
+      "text": "紧紧抱着你",
+      "translation": null
+    },
+    {
+      "time": 332.73,
+      "time_str": "05:32.730",
+      "text": "紧紧抱着你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "那些年 - 胡夏.lrc"
+}

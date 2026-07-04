@@ -1,0 +1,292 @@
+{
+  "title": "形状",
+  "title_raw": "形状",
+  "version": null,
+  "artist": "卷毛TuT",
+  "group_key": "形状|卷毛tut",
+  "writers": {
+    "lyricist": "赵楠",
+    "composer": "小涛",
+    "arranger": "卷毛TuT"
+  },
+  "lyrics": [
+    {
+      "time": 1.52,
+      "time_str": "00:01.520",
+      "text": "形状 - 星一问水",
+      "translation": null
+    },
+    {
+      "time": 5.96,
+      "time_str": "00:05.960",
+      "text": "后期：Jove、星一问水",
+      "translation": null
+    },
+    {
+      "time": 15.88,
+      "time_str": "00:15.880",
+      "text": "我占有 你岁月 多少时光",
+      "translation": null
+    },
+    {
+      "time": 20.15,
+      "time_str": "00:20.150",
+      "text": "怎么就 转眼已 各自散场",
+      "translation": null
+    },
+    {
+      "time": 24.08,
+      "time_str": "00:24.080",
+      "text": "来不及失落 就跌宕",
+      "translation": null
+    },
+    {
+      "time": 31.6,
+      "time_str": "00:31.600",
+      "text": "我为你 也有过 几年疯狂",
+      "translation": null
+    },
+    {
+      "time": 35.25,
+      "time_str": "00:35.250",
+      "text": "当爱由 具体已 开始抽象",
+      "translation": null
+    },
+    {
+      "time": 39.38,
+      "time_str": "00:39.380",
+      "text": "我沉浸 虚空的梦乡",
+      "translation": null
+    },
+    {
+      "time": 45.43,
+      "time_str": "00:45.430",
+      "text": "是我执着 选择迷茫",
+      "translation": null
+    },
+    {
+      "time": 48.63,
+      "time_str": "00:48.630",
+      "text": "是我偏要 失去方向",
+      "translation": null
+    },
+    {
+      "time": 53.31,
+      "time_str": "00:53.310",
+      "text": "是我太张扬",
+      "translation": null
+    },
+    {
+      "time": 55.59,
+      "time_str": "00:55.590",
+      "text": "才让你退场 避开我锋芒",
+      "translation": null
+    },
+    {
+      "time": 60.56,
+      "time_str": "01:00.560",
+      "text": "如果 孤独有形状",
+      "translation": null
+    },
+    {
+      "time": 62.93,
+      "time_str": "01:02.930",
+      "text": "大概是我的模样",
+      "translation": null
+    },
+    {
+      "time": 65.09,
+      "time_str": "01:05.090",
+      "text": "是你离开太坦荡",
+      "translation": null
+    },
+    {
+      "time": 66.88,
+      "time_str": "01:06.880",
+      "text": "任我 独自流浪",
+      "translation": null
+    },
+    {
+      "time": 68.72,
+      "time_str": "01:08.720",
+      "text": "面对这夜里难抵的 一片空荡",
+      "translation": null
+    },
+    {
+      "time": 72.79,
+      "time_str": "01:12.790",
+      "text": "消磨期望 背光生长",
+      "translation": null
+    },
+    {
+      "time": 76.48,
+      "time_str": "01:16.480",
+      "text": "如果 遗憾有形状",
+      "translation": null
+    },
+    {
+      "time": 78.21,
+      "time_str": "01:18.210",
+      "text": "大概是我们这样",
+      "translation": null
+    },
+    {
+      "time": 80.13,
+      "time_str": "01:20.130",
+      "text": "不清不楚就要收场",
+      "translation": null
+    },
+    {
+      "time": 83.95,
+      "time_str": "01:23.950",
+      "text": "剩我一个人去承受 孤身的漫长",
+      "translation": null
+    },
+    {
+      "time": 102.38,
+      "time_str": "01:42.380",
+      "text": "是我执着 选择迷茫",
+      "translation": null
+    },
+    {
+      "time": 106.08,
+      "time_str": "01:46.080",
+      "text": "是我偏要 失去方向",
+      "translation": null
+    },
+    {
+      "time": 110.57,
+      "time_str": "01:50.570",
+      "text": "是我太张扬",
+      "translation": null
+    },
+    {
+      "time": 112.59,
+      "time_str": "01:52.590",
+      "text": "才让你退场 避开我锋芒",
+      "translation": null
+    },
+    {
+      "time": 117.76,
+      "time_str": "01:57.760",
+      "text": "如果 孤独有形状",
+      "translation": null
+    },
+    {
+      "time": 120.1,
+      "time_str": "02:00.100",
+      "text": "大概是我的模样",
+      "translation": null
+    },
+    {
+      "time": 122.07,
+      "time_str": "02:02.070",
+      "text": "是你离开太坦荡",
+      "translation": null
+    },
+    {
+      "time": 123.92,
+      "time_str": "02:03.920",
+      "text": "任我 独自流浪",
+      "translation": null
+    },
+    {
+      "time": 125.9,
+      "time_str": "02:05.900",
+      "text": "面对 这夜里 难抵的 一片空荡",
+      "translation": null
+    },
+    {
+      "time": 129.97,
+      "time_str": "02:09.970",
+      "text": "消磨期望 背光生长",
+      "translation": null
+    },
+    {
+      "time": 133.55,
+      "time_str": "02:13.550",
+      "text": "如果 遗憾有形状",
+      "translation": null
+    },
+    {
+      "time": 135.35,
+      "time_str": "02:15.350",
+      "text": "大概是我们这样",
+      "translation": null
+    },
+    {
+      "time": 137.33,
+      "time_str": "02:17.330",
+      "text": "不清不楚就要收场",
+      "translation": null
+    },
+    {
+      "time": 141.02,
+      "time_str": "02:21.020",
+      "text": "剩我一个人 去承受 孤身的 漫长",
+      "translation": null
+    },
+    {
+      "time": 152.05,
+      "time_str": "02:32.050",
+      "text": "如果 孤独有形状",
+      "translation": null
+    },
+    {
+      "time": 154.39,
+      "time_str": "02:34.390",
+      "text": "大概是我的模样",
+      "translation": null
+    },
+    {
+      "time": 156.35,
+      "time_str": "02:36.350",
+      "text": "是你笑得太夸张",
+      "translation": null
+    },
+    {
+      "time": 158.26,
+      "time_str": "02:38.260",
+      "text": "让我 拥抱成殇",
+      "translation": null
+    },
+    {
+      "time": 160.17,
+      "time_str": "02:40.170",
+      "text": "面对 这夜里 难抵的 一片空荡",
+      "translation": null
+    },
+    {
+      "time": 164.23,
+      "time_str": "02:44.230",
+      "text": "消磨期望 背光生长",
+      "translation": null
+    },
+    {
+      "time": 167.76,
+      "time_str": "02:47.760",
+      "text": "如果 遗憾有形状",
+      "translation": null
+    },
+    {
+      "time": 169.62,
+      "time_str": "02:49.620",
+      "text": "大概是现在这样",
+      "translation": null
+    },
+    {
+      "time": 171.65,
+      "time_str": "02:51.650",
+      "text": "不知不觉就要散场",
+      "translation": null
+    },
+    {
+      "time": 178.04,
+      "time_str": "02:58.040",
+      "text": "剩我一个人 去承受 孤身的 漫长",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "形状 - 卷毛TuT.lrc"
+}

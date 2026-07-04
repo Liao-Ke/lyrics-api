@@ -1,0 +1,304 @@
+{
+  "title": "烟火",
+  "title_raw": "烟火",
+  "version": null,
+  "artist": "光良",
+  "group_key": "烟火|光良",
+  "writers": {
+    "lyricist": "孔胜民",
+    "composer": "光良",
+    "arranger": "中村知太"
+  },
+  "lyrics": [
+    {
+      "time": 17.78,
+      "time_str": "00:17.780",
+      "text": "是否还记得一起看烟火",
+      "translation": null
+    },
+    {
+      "time": 24.96,
+      "time_str": "00:24.960",
+      "text": "我在你眼里看到闪烁",
+      "translation": null
+    },
+    {
+      "time": 31.95,
+      "time_str": "00:31.950",
+      "text": "冷冽的寒风把你吹向我",
+      "translation": null
+    },
+    {
+      "time": 38.2,
+      "time_str": "00:38.200",
+      "text": "抱你在我怀中没想太多",
+      "translation": null
+    },
+    {
+      "time": 45.48,
+      "time_str": "00:45.480",
+      "text": "爱情里的心动",
+      "translation": null
+    },
+    {
+      "time": 48.07,
+      "time_str": "00:48.070",
+      "text": "常常让我难以去捉摸",
+      "translation": null
+    },
+    {
+      "time": 52.55,
+      "time_str": "00:52.550",
+      "text": "付出感情太多",
+      "translation": null
+    },
+    {
+      "time": 55.37,
+      "time_str": "00:55.370",
+      "text": "原来多情人总被伤的最重",
+      "translation": null
+    },
+    {
+      "time": 62.86,
+      "time_str": "01:02.860",
+      "text": "想起你的拥抱",
+      "translation": null
+    },
+    {
+      "time": 64.32,
+      "time_str": "01:04.320",
+      "text": "这感觉短暂纪念",
+      "translation": null
+    },
+    {
+      "time": 67.73,
+      "time_str": "01:07.730",
+      "text": "在你我之间",
+      "translation": null
+    },
+    {
+      "time": 69.98,
+      "time_str": "01:09.980",
+      "text": "有时说变就变就像烟火",
+      "translation": null
+    },
+    {
+      "time": 74.44,
+      "time_str": "01:14.440",
+      "text": "下一秒消失不见",
+      "translation": null
+    },
+    {
+      "time": 77.16,
+      "time_str": "01:17.160",
+      "text": "想起你的微笑",
+      "translation": null
+    },
+    {
+      "time": 78.52,
+      "time_str": "01:18.520",
+      "text": "这画面短暂纪念",
+      "translation": null
+    },
+    {
+      "time": 82.07,
+      "time_str": "01:22.070",
+      "text": "放在心里面",
+      "translation": null
+    },
+    {
+      "time": 84.26,
+      "time_str": "01:24.260",
+      "text": "你说过的永远留在昨天",
+      "translation": null
+    },
+    {
+      "time": 88.82,
+      "time_str": "01:28.820",
+      "text": "就当它是我最美的纪念",
+      "translation": null
+    },
+    {
+      "time": 100.05,
+      "time_str": "01:40.050",
+      "text": "冷冽的寒风把你吹向我",
+      "translation": null
+    },
+    {
+      "time": 106.26,
+      "time_str": "01:46.260",
+      "text": "抱你在我怀中没想太多",
+      "translation": null
+    },
+    {
+      "time": 113.44,
+      "time_str": "01:53.440",
+      "text": "爱情里的心动",
+      "translation": null
+    },
+    {
+      "time": 116.16,
+      "time_str": "01:56.160",
+      "text": "常常让我难以去捉摸",
+      "translation": null
+    },
+    {
+      "time": 121.0,
+      "time_str": "02:01.000",
+      "text": "付出感情太多",
+      "translation": null
+    },
+    {
+      "time": 123.29,
+      "time_str": "02:03.290",
+      "text": "原来多情人总被伤的最重",
+      "translation": null
+    },
+    {
+      "time": 131.42,
+      "time_str": "02:11.420",
+      "text": "想起你的拥抱",
+      "translation": null
+    },
+    {
+      "time": 132.23,
+      "time_str": "02:12.230",
+      "text": "这感觉短暂纪念",
+      "translation": null
+    },
+    {
+      "time": 135.83,
+      "time_str": "02:15.830",
+      "text": "在你我之间",
+      "translation": null
+    },
+    {
+      "time": 138.06,
+      "time_str": "02:18.060",
+      "text": "有时说变就变就像烟火",
+      "translation": null
+    },
+    {
+      "time": 142.47,
+      "time_str": "02:22.470",
+      "text": "下一秒消失不见",
+      "translation": null
+    },
+    {
+      "time": 145.21,
+      "time_str": "02:25.210",
+      "text": "想起你的微笑",
+      "translation": null
+    },
+    {
+      "time": 147.03,
+      "time_str": "02:27.030",
+      "text": "这画面短暂纪念",
+      "translation": null
+    },
+    {
+      "time": 150.1,
+      "time_str": "02:30.100",
+      "text": "放在心里面",
+      "translation": null
+    },
+    {
+      "time": 152.48,
+      "time_str": "02:32.480",
+      "text": "你说过的永远留在昨天",
+      "translation": null
+    },
+    {
+      "time": 156.99,
+      "time_str": "02:36.990",
+      "text": "就当它是我最美的纪念",
+      "translation": null
+    },
+    {
+      "time": 164.91,
+      "time_str": "02:44.910",
+      "text": "我的心情今天已换了季",
+      "translation": null
+    },
+    {
+      "time": 167.8,
+      "time_str": "02:47.800",
+      "text": "天边出现彩虹",
+      "translation": null
+    },
+    {
+      "time": 172.11,
+      "time_str": "02:52.110",
+      "text": "晴朗阳光洒在我的天空闪烁oh~~",
+      "translation": null
+    },
+    {
+      "time": 177.98,
+      "time_str": "02:57.980",
+      "text": "像是笑着告诉我爱到最后是宽容",
+      "translation": null
+    },
+    {
+      "time": 185.5,
+      "time_str": "03:05.500",
+      "text": "想起你的拥抱这感觉短暂纪念",
+      "translation": null
+    },
+    {
+      "time": 189.53,
+      "time_str": "03:09.530",
+      "text": "在你我之间",
+      "translation": null
+    },
+    {
+      "time": 191.72,
+      "time_str": "03:11.720",
+      "text": "有时说变就变就像烟火",
+      "translation": null
+    },
+    {
+      "time": 196.25,
+      "time_str": "03:16.250",
+      "text": "下一秒消失不见",
+      "translation": null
+    },
+    {
+      "time": 198.99,
+      "time_str": "03:18.990",
+      "text": "想起你的微笑这画面短暂纪念",
+      "translation": null
+    },
+    {
+      "time": 203.83,
+      "time_str": "03:23.830",
+      "text": "放在心里面",
+      "translation": null
+    },
+    {
+      "time": 206.7,
+      "time_str": "03:26.700",
+      "text": "你说过的永远留在昨天",
+      "translation": null
+    },
+    {
+      "time": 210.89,
+      "time_str": "03:30.890",
+      "text": "就当它是我最美的纪念",
+      "translation": null
+    },
+    {
+      "time": 216.98,
+      "time_str": "03:36.980",
+      "text": "还有你陪我走过这一切",
+      "translation": null
+    },
+    {
+      "time": 221.29,
+      "time_str": "03:41.290",
+      "text": "记忆中你那些微笑的脸",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "烟火 - 光良.lrc"
+}

@@ -1,0 +1,196 @@
+{
+  "title": "Remember Our Summer",
+  "title_raw": "Remember Our Summer",
+  "version": null,
+  "artist": "FrogMonster 蛙蛙",
+  "group_key": "remember our summer|frogmonster 蛙蛙",
+  "writers": {
+    "lyricist": "FrogMonster 蛙蛙",
+    "composer": "FrogMonster 蛙蛙",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.366,
+      "time_str": "00:02.366",
+      "text": "Lately I wanna stay awake",
+      "translation": "最近我想保持清醒"
+    },
+    {
+      "time": 4.866,
+      "time_str": "00:04.866",
+      "text": "I don’t want the days to end",
+      "translation": "我舍不得这些美好的日子就这样结束"
+    },
+    {
+      "time": 9.866,
+      "time_str": "00:09.866",
+      "text": "I know you’ll fly away",
+      "translation": "我明白你终究会离我远去"
+    },
+    {
+      "time": 12.615,
+      "time_str": "00:12.615",
+      "text": "Need to hold you for myself",
+      "translation": "我多想紧紧抱住你留住你的一丝气息"
+    },
+    {
+      "time": 17.115,
+      "time_str": "00:17.115",
+      "text": "I feel the time run through my hands",
+      "translation": "我能感受得到时光如沙，在我掌心里慢慢流逝"
+    },
+    {
+      "time": 20.115,
+      "time_str": "00:20.115",
+      "text": "Try to grab it but it fades",
+      "translation": "我疯狂地想紧紧抓住，但它只是流逝得更快"
+    },
+    {
+      "time": 23.12,
+      "time_str": "00:23.120",
+      "text": "Say \"goodbye\" in all the possible ways",
+      "translation": "用任何可能的方式说再见"
+    },
+    {
+      "time": 31.619,
+      "time_str": "00:31.619",
+      "text": "I don’t want you to get lost",
+      "translation": "我不想把你弄丢"
+    },
+    {
+      "time": 34.117,
+      "time_str": "00:34.117",
+      "text": "Will we ever meet again?",
+      "translation": "我们还会再见面吗？"
+    },
+    {
+      "time": 35.869,
+      "time_str": "00:35.869",
+      "text": "I’ll anesthetize the pain",
+      "translation": "我会麻醉疼痛自己疗伤"
+    },
+    {
+      "time": 37.617,
+      "time_str": "00:37.617",
+      "text": "Please remember our summers",
+      "translation": "请你记住我们一起度过的那些夏天"
+    },
+    {
+      "time": 39.62,
+      "time_str": "00:39.620",
+      "text": "My heart is closed by duel",
+      "translation": "我的心门被紧紧关闭了"
+    },
+    {
+      "time": 41.62,
+      "time_str": "00:41.620",
+      "text": "Will I learn to love again?",
+      "translation": "我还能再次拥有爱一个人的能力吗？"
+    },
+    {
+      "time": 43.616,
+      "time_str": "00:43.616",
+      "text": "Who will walk with me in the rain?",
+      "translation": "谁还会再陪我在雨中漫步？"
+    },
+    {
+      "time": 45.618,
+      "time_str": "00:45.618",
+      "text": "Please remember our summers",
+      "translation": "请你，一定要记得我们一起度过的那些夏天"
+    },
+    {
+      "time": 78.116,
+      "time_str": "01:18.116",
+      "text": "Come the sun,",
+      "translation": "在阳光下"
+    },
+    {
+      "time": 80.116,
+      "time_str": "01:20.116",
+      "text": "come the rain",
+      "translation": "在雨中"
+    },
+    {
+      "time": 82.616,
+      "time_str": "01:22.616",
+      "text": "and the leaves falling",
+      "translation": "在落叶纷飞里"
+    },
+    {
+      "time": 85.616,
+      "time_str": "01:25.616",
+      "text": "I will wait even if the seasons change",
+      "translation": "四季交替，我会一直在这里等你"
+    },
+    {
+      "time": 91.918,
+      "time_str": "01:31.918",
+      "text": "Anxiety runs through my veins",
+      "translation": "悲伤与焦虑顺着血管在我身体里蔓延"
+    },
+    {
+      "time": 95.069,
+      "time_str": "01:35.069",
+      "text": "I’ll escape from all these chains",
+      "translation": "我终有一天能挣脱这些痛苦的枷锁"
+    },
+    {
+      "time": 97.869,
+      "time_str": "01:37.869",
+      "text": "Say “come back”, in all the possible ways",
+      "translation": "说“回来吧”，用所有可能的方式"
+    },
+    {
+      "time": 106.367,
+      "time_str": "01:46.367",
+      "text": "I don’t want you to get lost",
+      "translation": "我不想把你弄丢"
+    },
+    {
+      "time": 108.867,
+      "time_str": "01:48.867",
+      "text": "Will we ever meet again?",
+      "translation": "我们还会再见面吗？"
+    },
+    {
+      "time": 110.867,
+      "time_str": "01:50.867",
+      "text": "I’ll anesthetize the pain",
+      "translation": "我会麻醉疼痛自己疗伤"
+    },
+    {
+      "time": 112.867,
+      "time_str": "01:52.867",
+      "text": "Please remember our summers",
+      "translation": "请你记住我们一起度过的那些夏天"
+    },
+    {
+      "time": 114.62,
+      "time_str": "01:54.620",
+      "text": "My heart is closed by duel",
+      "translation": "我的心门被紧紧关闭了"
+    },
+    {
+      "time": 116.617,
+      "time_str": "01:56.617",
+      "text": "Will I learn to love again?",
+      "translation": "我还能再次拥有爱一个人的能力吗？"
+    },
+    {
+      "time": 118.367,
+      "time_str": "01:58.367",
+      "text": "Who will walk with me in the rain?",
+      "translation": "谁还会再陪我在雨中漫步？"
+    },
+    {
+      "time": 120.367,
+      "time_str": "02:00.367",
+      "text": "Please remember our summers",
+      "translation": "请你一定要记得我们一起度过的那些夏天"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Remember Our Summer - FrogMonster 蛙蛙.lrc"
+}

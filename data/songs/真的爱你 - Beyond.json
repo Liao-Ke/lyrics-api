@@ -1,0 +1,340 @@
+{
+  "title": "真的爱你",
+  "title_raw": "真的爱你",
+  "version": null,
+  "artist": "Beyond",
+  "group_key": "真的爱你|beyond",
+  "writers": {
+    "lyricist": "小美",
+    "composer": "黄家驹",
+    "arranger": "Beyond"
+  },
+  "lyrics": [
+    {
+      "time": 3.7,
+      "time_str": "00:03.700",
+      "text": "弦乐编排 : 林邝培",
+      "translation": null
+    },
+    {
+      "time": 24.406,
+      "time_str": "00:24.406",
+      "text": "家驹：",
+      "translation": null
+    },
+    {
+      "time": 24.98,
+      "time_str": "00:24.980",
+      "text": "无法可修饰的一对手",
+      "translation": null
+    },
+    {
+      "time": 28.758,
+      "time_str": "00:28.758",
+      "text": "带出温暖永远在背后",
+      "translation": null
+    },
+    {
+      "time": 31.863,
+      "time_str": "00:31.863",
+      "text": "纵使啰嗦始终关注",
+      "translation": null
+    },
+    {
+      "time": 33.821,
+      "time_str": "00:33.821",
+      "text": "不懂珍惜太内疚",
+      "translation": null
+    },
+    {
+      "time": 36.677,
+      "time_str": "00:36.677",
+      "text": "家强：",
+      "translation": null
+    },
+    {
+      "time": 37.372,
+      "time_str": "00:37.372",
+      "text": "沉醉于音阶她不赞赏",
+      "translation": null
+    },
+    {
+      "time": 41.197,
+      "time_str": "00:41.197",
+      "text": "母亲的爱却永未退让",
+      "translation": null
+    },
+    {
+      "time": 44.312,
+      "time_str": "00:44.312",
+      "text": "决心冲开心中挣扎",
+      "translation": null
+    },
+    {
+      "time": 46.328,
+      "time_str": "00:46.328",
+      "text": "亲恩终可报答",
+      "translation": null
+    },
+    {
+      "time": 49.334,
+      "time_str": "00:49.334",
+      "text": "家驹：",
+      "translation": null
+    },
+    {
+      "time": 50.152,
+      "time_str": "00:50.152",
+      "text": "春风化雨暖透我的心",
+      "translation": null
+    },
+    {
+      "time": 53.244,
+      "time_str": "00:53.244",
+      "text": "一生眷顾无言地送赠",
+      "translation": null
+    },
+    {
+      "time": 57.939,
+      "time_str": "00:57.939",
+      "text": "是你多么温馨的目光",
+      "translation": null
+    },
+    {
+      "time": 61.412,
+      "time_str": "01:01.412",
+      "text": "教我坚毅望着前路",
+      "translation": null
+    },
+    {
+      "time": 64.543,
+      "time_str": "01:04.543",
+      "text": "叮嘱我跌倒不应放弃",
+      "translation": null
+    },
+    {
+      "time": 70.379,
+      "time_str": "01:10.379",
+      "text": "没法解释怎可报尽亲恩",
+      "translation": null
+    },
+    {
+      "time": 73.893,
+      "time_str": "01:13.893",
+      "text": "爱意宽大是无限",
+      "translation": null
+    },
+    {
+      "time": 76.995,
+      "time_str": "01:16.995",
+      "text": "请准我说声真的爱你",
+      "translation": null
+    },
+    {
+      "time": 94.375,
+      "time_str": "01:34.375",
+      "text": "贯中：",
+      "translation": null
+    },
+    {
+      "time": 94.965,
+      "time_str": "01:34.965",
+      "text": "无法可修饰的一对手",
+      "translation": null
+    },
+    {
+      "time": 98.878,
+      "time_str": "01:38.878",
+      "text": "带出温暖永远在背后",
+      "translation": null
+    },
+    {
+      "time": 101.995,
+      "time_str": "01:41.995",
+      "text": "纵使啰嗦始终关注",
+      "translation": null
+    },
+    {
+      "time": 103.938,
+      "time_str": "01:43.938",
+      "text": "不懂珍惜太内疚",
+      "translation": null
+    },
+    {
+      "time": 106.784,
+      "time_str": "01:46.784",
+      "text": "世荣：",
+      "translation": null
+    },
+    {
+      "time": 107.4,
+      "time_str": "01:47.400",
+      "text": "仍记起温馨的一对手",
+      "translation": null
+    },
+    {
+      "time": 111.311,
+      "time_str": "01:51.311",
+      "text": "始终给我照顾未变样",
+      "translation": null
+    },
+    {
+      "time": 114.406,
+      "time_str": "01:54.406",
+      "text": "理想今天终于等到",
+      "translation": null
+    },
+    {
+      "time": 116.388,
+      "time_str": "01:56.388",
+      "text": "分享光辉盼做到",
+      "translation": null
+    },
+    {
+      "time": 119.221,
+      "time_str": "01:59.221",
+      "text": "家驹：",
+      "translation": null
+    },
+    {
+      "time": 120.21,
+      "time_str": "02:00.210",
+      "text": "春风化雨暖透我的心",
+      "translation": null
+    },
+    {
+      "time": 123.257,
+      "time_str": "02:03.257",
+      "text": "一生眷顾无言地送赠",
+      "translation": null
+    },
+    {
+      "time": 128.043,
+      "time_str": "02:08.043",
+      "text": "是你多么温馨的目光",
+      "translation": null
+    },
+    {
+      "time": 131.556,
+      "time_str": "02:11.556",
+      "text": "教我坚毅望着前路",
+      "translation": null
+    },
+    {
+      "time": 134.669,
+      "time_str": "02:14.669",
+      "text": "叮嘱我跌倒不应放弃",
+      "translation": null
+    },
+    {
+      "time": 140.482,
+      "time_str": "02:20.482",
+      "text": "没法解释怎可报尽亲恩",
+      "translation": null
+    },
+    {
+      "time": 143.989,
+      "time_str": "02:23.989",
+      "text": "爱意宽大是无限",
+      "translation": null
+    },
+    {
+      "time": 147.121,
+      "time_str": "02:27.121",
+      "text": "请准我说声真的爱你",
+      "translation": null
+    },
+    {
+      "time": 177.907,
+      "time_str": "02:57.907",
+      "text": "春风化雨暖透我的心",
+      "translation": null
+    },
+    {
+      "time": 180.968,
+      "time_str": "03:00.968",
+      "text": "一生眷顾无言地送赠",
+      "translation": null
+    },
+    {
+      "time": 185.723,
+      "time_str": "03:05.723",
+      "text": "是你多么温馨的目光",
+      "translation": null
+    },
+    {
+      "time": 189.119,
+      "time_str": "03:09.119",
+      "text": "教我坚毅望着前路",
+      "translation": null
+    },
+    {
+      "time": 192.183,
+      "time_str": "03:12.183",
+      "text": "叮嘱我跌倒不应放弃",
+      "translation": null
+    },
+    {
+      "time": 198.075,
+      "time_str": "03:18.075",
+      "text": "没法解释怎可报尽亲恩",
+      "translation": null
+    },
+    {
+      "time": 201.587,
+      "time_str": "03:21.587",
+      "text": "爱意宽大是无限",
+      "translation": null
+    },
+    {
+      "time": 204.703,
+      "time_str": "03:24.703",
+      "text": "请准我说声真的爱你",
+      "translation": null
+    },
+    {
+      "time": 209.876,
+      "time_str": "03:29.876",
+      "text": "三子：",
+      "translation": null
+    },
+    {
+      "time": 210.568,
+      "time_str": "03:30.568",
+      "text": "是你多么温馨的目光（家驹：哦）",
+      "translation": null
+    },
+    {
+      "time": 214.123,
+      "time_str": "03:34.123",
+      "text": "教我坚毅望着前路",
+      "translation": null
+    },
+    {
+      "time": 217.141,
+      "time_str": "03:37.141",
+      "text": "叮嘱我跌倒不应放弃（哦）",
+      "translation": null
+    },
+    {
+      "time": 223.016,
+      "time_str": "03:43.016",
+      "text": "没法解释怎可报尽亲恩（哦）",
+      "translation": null
+    },
+    {
+      "time": 226.543,
+      "time_str": "03:46.543",
+      "text": "爱意宽大是无限",
+      "translation": null
+    },
+    {
+      "time": 229.605,
+      "time_str": "03:49.605",
+      "text": "请准我说声真的爱你（哦）",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "真的爱你 - Beyond.lrc"
+}

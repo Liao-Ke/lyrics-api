@@ -1,0 +1,298 @@
+{
+  "title": "前所未见",
+  "title_raw": "前所未见",
+  "version": null,
+  "artist": "陈慧琳",
+  "group_key": "前所未见|陈慧琳",
+  "writers": {
+    "lyricist": "黄伟文",
+    "composer": "陈光荣",
+    "arranger": "陈光荣"
+  },
+  "lyrics": [
+    {
+      "time": 1.115,
+      "time_str": "00:01.115",
+      "text": "推开一万扇窗",
+      "translation": null
+    },
+    {
+      "time": 3.525,
+      "time_str": "00:03.525",
+      "text": "到这里才遇上",
+      "translation": null
+    },
+    {
+      "time": 6.711,
+      "time_str": "00:06.711",
+      "text": "毕生想找那片",
+      "translation": null
+    },
+    {
+      "time": 9.276,
+      "time_str": "00:09.276",
+      "text": "梦中出现过海洋",
+      "translation": null
+    },
+    {
+      "time": 12.549,
+      "time_str": "00:12.549",
+      "text": "约错的会太多",
+      "translation": null
+    },
+    {
+      "time": 15.441,
+      "time_str": "00:15.441",
+      "text": "你最尾才亮相",
+      "translation": null
+    },
+    {
+      "time": 19.346,
+      "time_str": "00:19.346",
+      "text": "唯有你的家里",
+      "translation": null
+    },
+    {
+      "time": 21.547,
+      "time_str": "00:21.547",
+      "text": "那风景最堪欣赏",
+      "translation": null
+    },
+    {
+      "time": 25.348,
+      "time_str": "00:25.348",
+      "text": "谁的手 谁的肩",
+      "translation": null
+    },
+    {
+      "time": 28.289,
+      "time_str": "00:28.289",
+      "text": "回家一样温暖",
+      "translation": null
+    },
+    {
+      "time": 32.078,
+      "time_str": "00:32.078",
+      "text": "能一扑进",
+      "translation": null
+    },
+    {
+      "time": 33.417,
+      "time_str": "00:33.417",
+      "text": "就不想再逛",
+      "translation": null
+    },
+    {
+      "time": 35.46,
+      "time_str": "00:35.460",
+      "text": "大世界花园",
+      "translation": null
+    },
+    {
+      "time": 37.648,
+      "time_str": "00:37.648",
+      "text": "碧海 蓝的天",
+      "translation": null
+    },
+    {
+      "time": 40.2,
+      "time_str": "00:40.200",
+      "text": "传说里的伊甸",
+      "translation": null
+    },
+    {
+      "time": 44.045,
+      "time_str": "00:44.045",
+      "text": "地球寸寸都走遍",
+      "translation": null
+    },
+    {
+      "time": 47.051,
+      "time_str": "00:47.051",
+      "text": "为何也看不见",
+      "translation": null
+    },
+    {
+      "time": 50.02,
+      "time_str": "00:50.020",
+      "text": "然而在你这里遇见",
+      "translation": null
+    },
+    {
+      "time": 74.545,
+      "time_str": "01:14.545",
+      "text": "仿佛枕在你肩",
+      "translation": null
+    },
+    {
+      "time": 77.044,
+      "time_str": "01:17.044",
+      "text": "才能沉沉睡去",
+      "translation": null
+    },
+    {
+      "time": 80.049,
+      "time_str": "01:20.049",
+      "text": "几多星的旅店",
+      "translation": null
+    },
+    {
+      "time": 82.584,
+      "time_str": "01:22.584",
+      "text": "亦不可让我安眠",
+      "translation": null
+    },
+    {
+      "time": 85.966,
+      "time_str": "01:25.966",
+      "text": "见惯公路两边",
+      "translation": null
+    },
+    {
+      "time": 89.008,
+      "time_str": "01:29.008",
+      "text": "四季那时令转",
+      "translation": null
+    },
+    {
+      "time": 92.808,
+      "time_str": "01:32.808",
+      "text": "来到这温室里",
+      "translation": null
+    },
+    {
+      "time": 95.055,
+      "time_str": "01:35.055",
+      "text": "至找到我的春天",
+      "translation": null
+    },
+    {
+      "time": 98.791,
+      "time_str": "01:38.791",
+      "text": "谁的手 谁的肩",
+      "translation": null
+    },
+    {
+      "time": 101.786,
+      "time_str": "01:41.786",
+      "text": "回家一样温暖",
+      "translation": null
+    },
+    {
+      "time": 105.502,
+      "time_str": "01:45.502",
+      "text": "能一扑进",
+      "translation": null
+    },
+    {
+      "time": 107.073,
+      "time_str": "01:47.073",
+      "text": "就不想再逛",
+      "translation": null
+    },
+    {
+      "time": 108.996,
+      "time_str": "01:48.996",
+      "text": "大世界花园",
+      "translation": null
+    },
+    {
+      "time": 111.063,
+      "time_str": "01:51.063",
+      "text": "碧海 蓝的天",
+      "translation": null
+    },
+    {
+      "time": 113.691,
+      "time_str": "01:53.691",
+      "text": "传说里的伊甸",
+      "translation": null
+    },
+    {
+      "time": 117.518,
+      "time_str": "01:57.518",
+      "text": "地球寸寸都走遍",
+      "translation": null
+    },
+    {
+      "time": 120.549,
+      "time_str": "02:00.549",
+      "text": "为何也看不见",
+      "translation": null
+    },
+    {
+      "time": 123.49,
+      "time_str": "02:03.490",
+      "text": "然而在你这里遇见",
+      "translation": null
+    },
+    {
+      "time": 138.078,
+      "time_str": "02:18.078",
+      "text": "谁的手 谁的肩",
+      "translation": null
+    },
+    {
+      "time": 140.651,
+      "time_str": "02:20.651",
+      "text": "回家一样温暖",
+      "translation": null
+    },
+    {
+      "time": 144.51,
+      "time_str": "02:24.510",
+      "text": "能一扑进",
+      "translation": null
+    },
+    {
+      "time": 145.914,
+      "time_str": "02:25.914",
+      "text": "就不想再逛",
+      "translation": null
+    },
+    {
+      "time": 147.896,
+      "time_str": "02:27.896",
+      "text": "大世界花园",
+      "translation": null
+    },
+    {
+      "time": 150.098,
+      "time_str": "02:30.098",
+      "text": "碧海 蓝的天",
+      "translation": null
+    },
+    {
+      "time": 152.621,
+      "time_str": "02:32.621",
+      "text": "传说里的伊甸",
+      "translation": null
+    },
+    {
+      "time": 156.515,
+      "time_str": "02:36.515",
+      "text": "地球寸寸都走遍",
+      "translation": null
+    },
+    {
+      "time": 159.46,
+      "time_str": "02:39.460",
+      "text": "为何也看不见",
+      "translation": null
+    },
+    {
+      "time": 162.435,
+      "time_str": "02:42.435",
+      "text": "然而在你眼里望见",
+      "translation": null
+    },
+    {
+      "time": 196.465,
+      "time_str": "03:16.465",
+      "text": "/Wyman(admin by EMI Music Publishing Hong Kong)",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "前所未见 - 陈慧琳.lrc"
+}

@@ -1,0 +1,298 @@
+{
+  "title": "This Is It",
+  "title_raw": "This Is It",
+  "version": null,
+  "artist": "Oh The Larceny",
+  "group_key": "this is it|oh the larceny",
+  "writers": {
+    "lyricist": "Tyrone Wells/Dustin Burnett",
+    "composer": "Tyrone Wells/Dustin Burnett",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.563,
+      "time_str": "00:00.563",
+      "text": "Oh-oh-oh",
+      "translation": "哦~哦~哦"
+    },
+    {
+      "time": 7.858,
+      "time_str": "00:07.858",
+      "text": "This day is gonna be",
+      "translation": "这一天终将成为"
+    },
+    {
+      "time": 9.751,
+      "time_str": "00:09.751",
+      "text": "The greatest memory",
+      "translation": "最美好的回忆"
+    },
+    {
+      "time": 11.625,
+      "time_str": "00:11.625",
+      "text": "Making history",
+      "translation": "历史随之被创造"
+    },
+    {
+      "time": 14.3,
+      "time_str": "00:14.300",
+      "text": "Let's go",
+      "translation": "一起吧，走"
+    },
+    {
+      "time": 16.193,
+      "time_str": "00:16.193",
+      "text": "You don't need no luck",
+      "translation": "你并不需要碰运气"
+    },
+    {
+      "time": 18.392,
+      "time_str": "00:18.392",
+      "text": "With that golden touch",
+      "translation": "点金术不会有的"
+    },
+    {
+      "time": 20.043,
+      "time_str": "00:20.043",
+      "text": "Time to light it up",
+      "translation": "是时候燃起来了"
+    },
+    {
+      "time": 21.912,
+      "time_str": "00:21.912",
+      "text": "Let's go",
+      "translation": "让我们前进"
+    },
+    {
+      "time": 24.477,
+      "time_str": "00:24.477",
+      "text": "Get ready for it, get ready for it",
+      "translation": "准备好，准备好"
+    },
+    {
+      "time": 29.447,
+      "time_str": "00:29.447",
+      "text": "Get ready for it",
+      "translation": "都给我准备好"
+    },
+    {
+      "time": 31.678,
+      "time_str": "00:31.678",
+      "text": "Yeah, This is it, Go, Go, Go",
+      "translation": "是的，让我们就这样出发"
+    },
+    {
+      "time": 38.707,
+      "time_str": "00:38.707",
+      "text": "Yeah, this is it Go,",
+      "translation": "是的，就这样出发"
+    },
+    {
+      "time": 41.283,
+      "time_str": "00:41.283",
+      "text": "Let'em know, Let's go, This is it",
+      "translation": "让他们都知道 干就完了才是硬道理"
+    },
+    {
+      "time": 47.125,
+      "time_str": "00:47.125",
+      "text": "Yeah, this is it",
+      "translation": "没错，就应该这样"
+    },
+    {
+      "time": 49.143,
+      "time_str": "00:49.143",
+      "text": "Oh-oh-oh",
+      "translation": "哦~哦~哦"
+    },
+    {
+      "time": 57.077,
+      "time_str": "00:57.077",
+      "text": "Yeah it's about to break",
+      "translation": "防线即将被突破"
+    },
+    {
+      "time": 58.775,
+      "time_str": "00:58.775",
+      "text": "Got what it's gonna take",
+      "translation": "知道要干啥了吧"
+    },
+    {
+      "time": 60.56,
+      "time_str": "01:00.560",
+      "text": "Go ahead and own that stage",
+      "translation": "昂首阔步 舞台是属于我们的"
+    },
+    {
+      "time": 63.392,
+      "time_str": "01:03.392",
+      "text": "Let's go",
+      "translation": "出发"
+    },
+    {
+      "time": 65.328,
+      "time_str": "01:05.328",
+      "text": "When you're made for this",
+      "translation": "你就是为此而生"
+    },
+    {
+      "time": 67.139,
+      "time_str": "01:07.139",
+      "text": "Yeah, it's obvious",
+      "translation": "显而易见"
+    },
+    {
+      "time": 68.861,
+      "time_str": "01:08.861",
+      "text": "Top another list",
+      "translation": "来争第一"
+    },
+    {
+      "time": 71.521,
+      "time_str": "01:11.521",
+      "text": "Let's go",
+      "translation": "让我们向前冲"
+    },
+    {
+      "time": 73.706,
+      "time_str": "01:13.706",
+      "text": "Get ready for it, get ready for it,",
+      "translation": "都给我准备好，赶紧准备好"
+    },
+    {
+      "time": 78.706,
+      "time_str": "01:18.706",
+      "text": "Get ready for it",
+      "translation": "准备好"
+    },
+    {
+      "time": 80.907,
+      "time_str": "01:20.907",
+      "text": "Yeah, This is it, Go, Go, Go",
+      "translation": "对，干就完了。"
+    },
+    {
+      "time": 88.197,
+      "time_str": "01:28.197",
+      "text": "Yeah, This is it, Go",
+      "translation": "没错，就是这样，出发吧"
+    },
+    {
+      "time": 92.655,
+      "time_str": "01:32.655",
+      "text": "Let 'em know, Let's go",
+      "translation": "让大家都知道，我们走"
+    },
+    {
+      "time": 96.102,
+      "time_str": "01:36.102",
+      "text": "This is it, Yeah this is it",
+      "translation": "是的没错，我们就这样"
+    },
+    {
+      "time": 98.305,
+      "time_str": "01:38.305",
+      "text": "Oh-oh-oh",
+      "translation": "哦~哦~哦"
+    },
+    {
+      "time": 107.645,
+      "time_str": "01:47.645",
+      "text": "It's now or it's never",
+      "translation": "现在不动身 就永远别干"
+    },
+    {
+      "time": 109.515,
+      "time_str": "01:49.515",
+      "text": "No playing with forever",
+      "translation": "不要老是玩耍着荒废时间了"
+    },
+    {
+      "time": 111.22,
+      "time_str": "01:51.220",
+      "text": "lt's now or it's never",
+      "translation": "不是现在就是永远"
+    },
+    {
+      "time": 113.879,
+      "time_str": "01:53.879",
+      "text": "lt's down to the wire",
+      "translation": "到了最后一刻"
+    },
+    {
+      "time": 117.756,
+      "time_str": "01:57.756",
+      "text": "Who gonna take the empire",
+      "translation": "就看谁能打下自己的天下了"
+    },
+    {
+      "time": 119.894,
+      "time_str": "01:59.894",
+      "text": "lt's down to the wire",
+      "translation": "最后一刻"
+    },
+    {
+      "time": 122.531,
+      "time_str": "02:02.531",
+      "text": "This is it",
+      "translation": "出发"
+    },
+    {
+      "time": 124.056,
+      "time_str": "02:04.056",
+      "text": "Get ready for it, get ready for it",
+      "translation": "准备好，为它做好准备"
+    },
+    {
+      "time": 128.026,
+      "time_str": "02:08.026",
+      "text": "Get ready for it",
+      "translation": "准备好"
+    },
+    {
+      "time": 129.509,
+      "time_str": "02:09.509",
+      "text": "This is it, Yeah, This is it, Go, Go, Go",
+      "translation": "是这样，没错，让我们就这样出发"
+    },
+    {
+      "time": 138.543,
+      "time_str": "02:18.543",
+      "text": "Yeah, this is it, Go",
+      "translation": "是的，这样就对了，出发"
+    },
+    {
+      "time": 141.878,
+      "time_str": "02:21.878",
+      "text": "Let 'em know, Let's go",
+      "translation": "让在座的各位都知道 干就完了"
+    },
+    {
+      "time": 145.948,
+      "time_str": "02:25.948",
+      "text": "Yeah, this is it，Go, Go, Go",
+      "translation": "没错，就是这样，走"
+    },
+    {
+      "time": 154.047,
+      "time_str": "02:34.047",
+      "text": "Yeah, this is it Go",
+      "translation": "是的，出发吧"
+    },
+    {
+      "time": 158.016,
+      "time_str": "02:38.016",
+      "text": "Let 'em know, Let's go",
+      "translation": "让在座的各位都知道 干就完了"
+    },
+    {
+      "time": 163.075,
+      "time_str": "02:43.075",
+      "text": "Yeah, this is it",
+      "translation": "是的，就是这样"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "This Is It - Oh The Larceny.lrc"
+}

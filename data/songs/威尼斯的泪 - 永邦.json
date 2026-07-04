@@ -1,0 +1,322 @@
+{
+  "title": "威尼斯的泪",
+  "title_raw": "威尼斯的泪",
+  "version": null,
+  "artist": "永邦",
+  "group_key": "威尼斯的泪|永邦",
+  "writers": {
+    "lyricist": "郑中庸",
+    "composer": "永邦",
+    "arranger": "涂惠源"
+  },
+  "lyrics": [
+    {
+      "time": 23.79,
+      "time_str": "00:23.790",
+      "text": "你将喧闹世界 按下静音",
+      "translation": null
+    },
+    {
+      "time": 30.86,
+      "time_str": "00:30.860",
+      "text": "选择最激烈地 无声抗议",
+      "translation": null
+    },
+    {
+      "time": 38.07,
+      "time_str": "00:38.070",
+      "text": "你比谁都清楚",
+      "translation": null
+    },
+    {
+      "time": 40.48,
+      "time_str": "00:40.480",
+      "text": "真心离伤心最近",
+      "translation": null
+    },
+    {
+      "time": 43.98,
+      "time_str": "00:43.980",
+      "text": "感情细腻 竟是命运伏笔",
+      "translation": null
+    },
+    {
+      "time": 52.58,
+      "time_str": "00:52.580",
+      "text": "你潺潺的泪水",
+      "translation": null
+    },
+    {
+      "time": 54.84,
+      "time_str": "00:54.840",
+      "text": "汇成威尼斯流域",
+      "translation": null
+    },
+    {
+      "time": 59.6,
+      "time_str": "00:59.600",
+      "text": "数着你的回忆",
+      "translation": null
+    },
+    {
+      "time": 61.96,
+      "time_str": "01:01.960",
+      "text": "竟是繁华和美丽",
+      "translation": null
+    },
+    {
+      "time": 66.8,
+      "time_str": "01:06.800",
+      "text": "看着你 线条很清晰的手心",
+      "translation": null
+    },
+    {
+      "time": 72.59,
+      "time_str": "01:12.590",
+      "text": "这一刻我迟了",
+      "translation": null
+    },
+    {
+      "time": 75.32,
+      "time_str": "01:15.320",
+      "text": "却懂了你对爱的坚定",
+      "translation": null
+    },
+    {
+      "time": 80.38,
+      "time_str": "01:20.380",
+      "text": "威尼斯的泪 像琉璃易碎",
+      "translation": null
+    },
+    {
+      "time": 86.97,
+      "time_str": "01:26.970",
+      "text": "说到感情有人懂得转圜",
+      "translation": null
+    },
+    {
+      "time": 91.1,
+      "time_str": "01:31.100",
+      "text": "有人太绝对",
+      "translation": null
+    },
+    {
+      "time": 94.52,
+      "time_str": "01:34.520",
+      "text": "为你湿的泪 在午夜梦回",
+      "translation": null
+    },
+    {
+      "time": 101.3,
+      "time_str": "01:41.300",
+      "text": "其实明明了解 就是在当时",
+      "translation": null
+    },
+    {
+      "time": 107.06,
+      "time_str": "01:47.060",
+      "text": "解不开死结",
+      "translation": null
+    },
+    {
+      "time": 126.0,
+      "time_str": "02:06.000",
+      "text": "你潺潺的泪水",
+      "translation": null
+    },
+    {
+      "time": 128.13,
+      "time_str": "02:08.130",
+      "text": "汇成威尼斯流域",
+      "translation": null
+    },
+    {
+      "time": 133.03,
+      "time_str": "02:13.030",
+      "text": "数着你的回忆",
+      "translation": null
+    },
+    {
+      "time": 135.33,
+      "time_str": "02:15.330",
+      "text": "竟是繁华和美丽",
+      "translation": null
+    },
+    {
+      "time": 140.35,
+      "time_str": "02:20.350",
+      "text": "看着你 线条很清晰的手心",
+      "translation": null
+    },
+    {
+      "time": 145.97,
+      "time_str": "02:25.970",
+      "text": "这一刻我迟了",
+      "translation": null
+    },
+    {
+      "time": 148.78,
+      "time_str": "02:28.780",
+      "text": "却懂了你对爱的坚定",
+      "translation": null
+    },
+    {
+      "time": 153.77,
+      "time_str": "02:33.770",
+      "text": "威尼斯的泪 像琉璃易碎",
+      "translation": null
+    },
+    {
+      "time": 160.38,
+      "time_str": "02:40.380",
+      "text": "说到感情有人懂得转圜",
+      "translation": null
+    },
+    {
+      "time": 164.52,
+      "time_str": "02:44.520",
+      "text": "有人太绝对",
+      "translation": null
+    },
+    {
+      "time": 168.92,
+      "time_str": "02:48.920",
+      "text": "为你湿的泪 在午夜梦回",
+      "translation": null
+    },
+    {
+      "time": 175.67,
+      "time_str": "02:55.670",
+      "text": "其实明明了解 就是在当时",
+      "translation": null
+    },
+    {
+      "time": 181.49,
+      "time_str": "03:01.490",
+      "text": "解不开死结",
+      "translation": null
+    },
+    {
+      "time": 183.39,
+      "time_str": "03:03.390",
+      "text": "多少故事 多少唏嘘",
+      "translation": null
+    },
+    {
+      "time": 184.97,
+      "time_str": "03:04.970",
+      "text": "多少余味",
+      "translation": null
+    },
+    {
+      "time": 186.29,
+      "time_str": "03:06.290",
+      "text": "千古以来都为红颜",
+      "translation": null
+    },
+    {
+      "time": 189.89,
+      "time_str": "03:09.890",
+      "text": "有多少深深浅浅",
+      "translation": null
+    },
+    {
+      "time": 191.32,
+      "time_str": "03:11.320",
+      "text": "痴痴怨怨 缠缠绵绵",
+      "translation": null
+    },
+    {
+      "time": 193.48,
+      "time_str": "03:13.480",
+      "text": "不到结局没人能解 Hey",
+      "translation": null
+    },
+    {
+      "time": 201.19,
+      "time_str": "03:21.190",
+      "text": "威尼斯的泪 像琉璃易碎",
+      "translation": null
+    },
+    {
+      "time": 207.74,
+      "time_str": "03:27.740",
+      "text": "说到感情有人懂得转圜",
+      "translation": null
+    },
+    {
+      "time": 211.96,
+      "time_str": "03:31.960",
+      "text": "有人太绝对",
+      "translation": null
+    },
+    {
+      "time": 215.42,
+      "time_str": "03:35.420",
+      "text": "为你湿的泪 在午夜梦回",
+      "translation": null
+    },
+    {
+      "time": 222.12,
+      "time_str": "03:42.120",
+      "text": "其实明明了解 就是在当时",
+      "translation": null
+    },
+    {
+      "time": 228.04,
+      "time_str": "03:48.040",
+      "text": "解不开的结",
+      "translation": null
+    },
+    {
+      "time": 229.84,
+      "time_str": "03:49.840",
+      "text": "威尼斯的泪 像琉璃易碎",
+      "translation": null
+    },
+    {
+      "time": 236.53,
+      "time_str": "03:56.530",
+      "text": "说到感情有人懂得转圜",
+      "translation": null
+    },
+    {
+      "time": 240.48,
+      "time_str": "04:00.480",
+      "text": "有人太绝对",
+      "translation": null
+    },
+    {
+      "time": 244.43,
+      "time_str": "04:04.430",
+      "text": "为你湿的泪 在午夜梦回",
+      "translation": null
+    },
+    {
+      "time": 250.72,
+      "time_str": "04:10.720",
+      "text": "其实明明了解 就是在当时",
+      "translation": null
+    },
+    {
+      "time": 256.62,
+      "time_str": "04:16.620",
+      "text": "解不开的结",
+      "translation": null
+    },
+    {
+      "time": 264.23,
+      "time_str": "04:24.230",
+      "text": "就像威尼斯 然而",
+      "translation": null
+    },
+    {
+      "time": 268.04,
+      "time_str": "04:28.040",
+      "text": "永远被泪水围绕着",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "威尼斯的泪 - 永邦.lrc"
+}

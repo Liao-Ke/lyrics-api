@@ -1,0 +1,256 @@
+{
+  "title": "一个真实的故事",
+  "title_raw": "一个真实的故事",
+  "version": null,
+  "artist": "朱哲琴",
+  "group_key": "一个真实的故事|朱哲琴",
+  "writers": {
+    "lyricist": "陈哲/解承强/陈雷",
+    "composer": "解承强",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.5,
+      "time_str": "00:02.500",
+      "text": "有一个女孩她从小就爱养丹顶鹤",
+      "translation": null
+    },
+    {
+      "time": 6.31,
+      "time_str": "00:06.310",
+      "text": "在她大学毕业以后",
+      "translation": null
+    },
+    {
+      "time": 8.87,
+      "time_str": "00:08.870",
+      "text": "她仍回到她养鹤的地方",
+      "translation": null
+    },
+    {
+      "time": 13.05,
+      "time_str": "00:13.050",
+      "text": "可是有一天",
+      "translation": null
+    },
+    {
+      "time": 15.9,
+      "time_str": "00:15.900",
+      "text": "她为了救一只受伤的丹顶鹤",
+      "translation": null
+    },
+    {
+      "time": 19.77,
+      "time_str": "00:19.770",
+      "text": "滑进了沼泽地里",
+      "translation": null
+    },
+    {
+      "time": 22.33,
+      "time_str": "00:22.330",
+      "text": "就再也没有上来",
+      "translation": null
+    },
+    {
+      "time": 26.2,
+      "time_str": "00:26.200",
+      "text": "走过那条小河",
+      "translation": null
+    },
+    {
+      "time": 29.32,
+      "time_str": "00:29.320",
+      "text": "你可曾听说",
+      "translation": null
+    },
+    {
+      "time": 33.0,
+      "time_str": "00:33.000",
+      "text": "有一位女孩她曾经来过",
+      "translation": null
+    },
+    {
+      "time": 41.9,
+      "time_str": "00:41.900",
+      "text": "走过这片芦苇坡",
+      "translation": null
+    },
+    {
+      "time": 45.14,
+      "time_str": "00:45.140",
+      "text": "你可曾听说",
+      "translation": null
+    },
+    {
+      "time": 48.7,
+      "time_str": "00:48.700",
+      "text": "有一位女孩",
+      "translation": null
+    },
+    {
+      "time": 52.07,
+      "time_str": "00:52.070",
+      "text": "她留下一首歌",
+      "translation": null
+    },
+    {
+      "time": 57.62,
+      "time_str": "00:57.620",
+      "text": "为何片片白云悄悄落泪",
+      "translation": null
+    },
+    {
+      "time": 64.55,
+      "time_str": "01:04.550",
+      "text": "为何阵阵风儿轻声诉说",
+      "translation": null
+    },
+    {
+      "time": 71.35,
+      "time_str": "01:11.350",
+      "text": "呜呜呜呜呜",
+      "translation": null
+    },
+    {
+      "time": 73.78,
+      "time_str": "01:13.780",
+      "text": "喔噢噢噢噢",
+      "translation": null
+    },
+    {
+      "time": 78.46,
+      "time_str": "01:18.460",
+      "text": "还有一群丹顶鹤轻轻地",
+      "translation": null
+    },
+    {
+      "time": 84.7,
+      "time_str": "01:24.700",
+      "text": "轻轻地飞过",
+      "translation": null
+    },
+    {
+      "time": 115.43,
+      "time_str": "01:55.430",
+      "text": "走过那条小河",
+      "translation": null
+    },
+    {
+      "time": 119.05,
+      "time_str": "01:59.050",
+      "text": "你可曾听说",
+      "translation": null
+    },
+    {
+      "time": 122.42,
+      "time_str": "02:02.420",
+      "text": "有一位女孩她曾经来过",
+      "translation": null
+    },
+    {
+      "time": 131.09,
+      "time_str": "02:11.090",
+      "text": "走过这片芦苇坡",
+      "translation": null
+    },
+    {
+      "time": 134.52,
+      "time_str": "02:14.520",
+      "text": "你可曾听说",
+      "translation": null
+    },
+    {
+      "time": 138.68,
+      "time_str": "02:18.680",
+      "text": "有一位女孩",
+      "translation": null
+    },
+    {
+      "time": 141.74,
+      "time_str": "02:21.740",
+      "text": "她再也没来过",
+      "translation": null
+    },
+    {
+      "time": 147.54,
+      "time_str": "02:27.540",
+      "text": "只有片片白云为她落泪",
+      "translation": null
+    },
+    {
+      "time": 154.53,
+      "time_str": "02:34.530",
+      "text": "只有阵阵风儿为她唱歌",
+      "translation": null
+    },
+    {
+      "time": 161.77,
+      "time_str": "02:41.770",
+      "text": "呜呜呜呜呜",
+      "translation": null
+    },
+    {
+      "time": 164.2,
+      "time_str": "02:44.200",
+      "text": "喔噢噢噢噢",
+      "translation": null
+    },
+    {
+      "time": 168.69,
+      "time_str": "02:48.690",
+      "text": "还有一只丹顶鹤轻轻地",
+      "translation": null
+    },
+    {
+      "time": 175.91,
+      "time_str": "02:55.910",
+      "text": "轻轻地飞过",
+      "translation": null
+    },
+    {
+      "time": 183.4,
+      "time_str": "03:03.400",
+      "text": "只有片片白云为她落泪",
+      "translation": null
+    },
+    {
+      "time": 190.9,
+      "time_str": "03:10.900",
+      "text": "只有阵阵风儿轻声诉说",
+      "translation": null
+    },
+    {
+      "time": 197.66,
+      "time_str": "03:17.660",
+      "text": "呜呜呜呜呜",
+      "translation": null
+    },
+    {
+      "time": 200.93,
+      "time_str": "03:20.930",
+      "text": "喔噢噢噢噢",
+      "translation": null
+    },
+    {
+      "time": 204.55,
+      "time_str": "03:24.550",
+      "text": "还有一只丹顶鹤轻轻地",
+      "translation": null
+    },
+    {
+      "time": 210.48,
+      "time_str": "03:30.480",
+      "text": "轻轻地飞过",
+      "translation": null
+    },
+    {
+      "time": 218.4,
+      "time_str": "03:38.400",
+      "text": "呜呜呜呜呜",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一个真实的故事 - 朱哲琴.lrc"
+}

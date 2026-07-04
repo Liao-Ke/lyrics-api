@@ -1,0 +1,322 @@
+{
+  "title": "空空如也",
+  "title_raw": "空空如也",
+  "version": null,
+  "artist": "胡66",
+  "group_key": "空空如也|胡66",
+  "writers": {
+    "lyricist": "雪无影",
+    "composer": "雪无影",
+    "arranger": "朱鸽"
+  },
+  "lyrics": [
+    {
+      "time": 12.12,
+      "time_str": "00:12.120",
+      "text": "熟悉的 陌生的 这种感觉",
+      "translation": null
+    },
+    {
+      "time": 16.55,
+      "time_str": "00:16.550",
+      "text": "重复的 曾经的 那些情节",
+      "translation": null
+    },
+    {
+      "time": 19.54,
+      "time_str": "00:19.540",
+      "text": "也只是 怀念",
+      "translation": null
+    },
+    {
+      "time": 24.83,
+      "time_str": "00:24.830",
+      "text": "一滴滴 一点点 一页一篇",
+      "translation": null
+    },
+    {
+      "time": 28.77,
+      "time_str": "00:28.770",
+      "text": "分手了 也不过 三百多天",
+      "translation": null
+    },
+    {
+      "time": 31.32,
+      "time_str": "00:31.320",
+      "text": "可我却 害怕遇见",
+      "translation": null
+    },
+    {
+      "time": 36.51,
+      "time_str": "00:36.510",
+      "text": "我懵懵懂懂过了一年",
+      "translation": null
+    },
+    {
+      "time": 39.54,
+      "time_str": "00:39.540",
+      "text": "这一年似乎没有改变",
+      "translation": null
+    },
+    {
+      "time": 42.62,
+      "time_str": "00:42.620",
+      "text": "守着你离开后的世界",
+      "translation": null
+    },
+    {
+      "time": 44.92,
+      "time_str": "00:44.920",
+      "text": "空 空如也",
+      "translation": null
+    },
+    {
+      "time": 48.77,
+      "time_str": "00:48.770",
+      "text": "白天和晚上都是冬夜",
+      "translation": null
+    },
+    {
+      "time": 51.76,
+      "time_str": "00:51.760",
+      "text": "悲伤的到来我从不拒~绝~",
+      "translation": null
+    },
+    {
+      "time": 55.86,
+      "time_str": "00:55.860",
+      "text": "反正亦是",
+      "translation": null
+    },
+    {
+      "time": 57.96,
+      "time_str": "00:57.960",
+      "text": "空空空空如也",
+      "translation": null
+    },
+    {
+      "time": 60.96,
+      "time_str": "01:00.960",
+      "text": "我懵懵懂懂过了一年",
+      "translation": null
+    },
+    {
+      "time": 63.99,
+      "time_str": "01:03.990",
+      "text": "徘徊在石板路的街边",
+      "translation": null
+    },
+    {
+      "time": 67.14,
+      "time_str": "01:07.140",
+      "text": "曾经笑容灿烂如今却",
+      "translation": null
+    },
+    {
+      "time": 69.49,
+      "time_str": "01:09.490",
+      "text": "空空如也",
+      "translation": null
+    },
+    {
+      "time": 73.28,
+      "time_str": "01:13.280",
+      "text": "一切的星光都已陨灭",
+      "translation": null
+    },
+    {
+      "time": 76.31,
+      "time_str": "01:16.310",
+      "text": "得过且过是我如今速写",
+      "translation": null
+    },
+    {
+      "time": 80.25,
+      "time_str": "01:20.250",
+      "text": "无所谓 让痛重叠",
+      "translation": null
+    },
+    {
+      "time": 108.98,
+      "time_str": "01:48.980",
+      "text": "我懵懵懂懂过了一年",
+      "translation": null
+    },
+    {
+      "time": 113.32,
+      "time_str": "01:53.320",
+      "text": "这一年似乎没有改变",
+      "translation": null
+    },
+    {
+      "time": 116.46,
+      "time_str": "01:56.460",
+      "text": "守着你离开后的世界",
+      "translation": null
+    },
+    {
+      "time": 118.81,
+      "time_str": "01:58.810",
+      "text": "空 空如也",
+      "translation": null
+    },
+    {
+      "time": 122.59,
+      "time_str": "02:02.590",
+      "text": "白天和晚上都是冬夜",
+      "translation": null
+    },
+    {
+      "time": 125.59,
+      "time_str": "02:05.590",
+      "text": "悲伤的到来我从不拒~绝~",
+      "translation": null
+    },
+    {
+      "time": 130.19,
+      "time_str": "02:10.190",
+      "text": "反正亦是",
+      "translation": null
+    },
+    {
+      "time": 131.88,
+      "time_str": "02:11.880",
+      "text": "空空空空如也",
+      "translation": null
+    },
+    {
+      "time": 134.78,
+      "time_str": "02:14.780",
+      "text": "我懵懵懂懂过了一年",
+      "translation": null
+    },
+    {
+      "time": 137.87,
+      "time_str": "02:17.870",
+      "text": "徘徊在石板路的街边",
+      "translation": null
+    },
+    {
+      "time": 140.96,
+      "time_str": "02:20.960",
+      "text": "曾经笑容灿烂如今却",
+      "translation": null
+    },
+    {
+      "time": 143.22,
+      "time_str": "02:23.220",
+      "text": "空空如也",
+      "translation": null
+    },
+    {
+      "time": 146.32,
+      "time_str": "02:26.320",
+      "text": "一切的星光都已陨灭",
+      "translation": null
+    },
+    {
+      "time": 150.11,
+      "time_str": "02:30.110",
+      "text": "得过且过是我如今速写",
+      "translation": null
+    },
+    {
+      "time": 154.11,
+      "time_str": "02:34.110",
+      "text": "无所谓 让痛重叠",
+      "translation": null
+    },
+    {
+      "time": 159.41,
+      "time_str": "02:39.410",
+      "text": "我懵懵懂懂过了一年",
+      "translation": null
+    },
+    {
+      "time": 162.59,
+      "time_str": "02:42.590",
+      "text": "这一年似乎没有改变",
+      "translation": null
+    },
+    {
+      "time": 165.69,
+      "time_str": "02:45.690",
+      "text": "守着你离开后的世界",
+      "translation": null
+    },
+    {
+      "time": 167.98,
+      "time_str": "02:47.980",
+      "text": "空 空如也",
+      "translation": null
+    },
+    {
+      "time": 171.82,
+      "time_str": "02:51.820",
+      "text": "白天和晚上都是冬夜",
+      "translation": null
+    },
+    {
+      "time": 174.81,
+      "time_str": "02:54.810",
+      "text": "悲伤的到来我从不拒~绝~",
+      "translation": null
+    },
+    {
+      "time": 178.7,
+      "time_str": "02:58.700",
+      "text": "反正亦是",
+      "translation": null
+    },
+    {
+      "time": 180.64,
+      "time_str": "03:00.640",
+      "text": "空空空空如也",
+      "translation": null
+    },
+    {
+      "time": 183.99,
+      "time_str": "03:03.990",
+      "text": "我懵懵懂懂过了一年",
+      "translation": null
+    },
+    {
+      "time": 187.05,
+      "time_str": "03:07.050",
+      "text": "徘徊在石板路的街边",
+      "translation": null
+    },
+    {
+      "time": 190.2,
+      "time_str": "03:10.200",
+      "text": "曾经笑容灿烂如今却",
+      "translation": null
+    },
+    {
+      "time": 192.44,
+      "time_str": "03:12.440",
+      "text": "空空如也",
+      "translation": null
+    },
+    {
+      "time": 196.37,
+      "time_str": "03:16.370",
+      "text": "一切的星光都已陨灭",
+      "translation": null
+    },
+    {
+      "time": 199.36,
+      "time_str": "03:19.360",
+      "text": "得过且过是我如今速写",
+      "translation": null
+    },
+    {
+      "time": 203.31,
+      "time_str": "03:23.310",
+      "text": "无所谓 让痛重叠",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "空空如也 - 胡66.lrc"
+}

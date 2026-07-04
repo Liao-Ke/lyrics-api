@@ -1,0 +1,184 @@
+{
+  "title": "女生",
+  "title_raw": "女生",
+  "version": null,
+  "artist": "黑Girl",
+  "group_key": "女生|黑girl",
+  "writers": {
+    "lyricist": "吴克群",
+    "composer": "吴克群/李正帆",
+    "arranger": "生命树_小王子"
+  },
+  "lyrics": [
+    {
+      "time": 5.389,
+      "time_str": "00:05.389",
+      "text": "我是女生 我只是女生",
+      "translation": null
+    },
+    {
+      "time": 22.708,
+      "time_str": "00:22.708",
+      "text": "轻轻在额头上一吻 是你对我的负责",
+      "translation": null
+    },
+    {
+      "time": 31.39,
+      "time_str": "00:31.390",
+      "text": "你说我还是只是女生 不懂爱的残忍",
+      "translation": null
+    },
+    {
+      "time": 40.49,
+      "time_str": "00:40.490",
+      "text": "轻轻擦去我的泪痕 是你成熟的象征",
+      "translation": null
+    },
+    {
+      "time": 48.99,
+      "time_str": "00:48.990",
+      "text": "你说你只会爱女人 还接着笑我笨",
+      "translation": null
+    },
+    {
+      "time": 57.359,
+      "time_str": "00:57.359",
+      "text": "但是我心中的爱情 没那么多的难题",
+      "translation": null
+    },
+    {
+      "time": 66.239,
+      "time_str": "01:06.239",
+      "text": "我只知道爱上了 那就是爱上了 没有疑问",
+      "translation": null
+    },
+    {
+      "time": 78.719,
+      "time_str": "01:18.719",
+      "text": "我是女生 只要爱一个人 用尽全力去争",
+      "translation": null
+    },
+    {
+      "time": 89.7,
+      "time_str": "01:29.700",
+      "text": "不管爱情有多残忍 不管你笑我笨",
+      "translation": null
+    },
+    {
+      "time": 97.49,
+      "time_str": "01:37.490",
+      "text": "我是女生 不管爱多残忍 我比谁都认真",
+      "translation": null
+    },
+    {
+      "time": 106.99,
+      "time_str": "01:46.990",
+      "text": "不管是女生或女人 不管你笑我笨",
+      "translation": null
+    },
+    {
+      "time": 114.739,
+      "time_str": "01:54.739",
+      "text": "我是女生",
+      "translation": null
+    },
+    {
+      "time": 125.237,
+      "time_str": "02:05.237",
+      "text": "轻轻在额头上一吻 是你对我的负责",
+      "translation": null
+    },
+    {
+      "time": 134.077,
+      "time_str": "02:14.077",
+      "text": "你说我还是只是女生 不懂爱的残忍",
+      "translation": null
+    },
+    {
+      "time": 143.147,
+      "time_str": "02:23.147",
+      "text": "轻轻擦去我的泪痕 是你成熟的象征",
+      "translation": null
+    },
+    {
+      "time": 151.917,
+      "time_str": "02:31.917",
+      "text": "你说你只会爱女人 还接着笑我笨",
+      "translation": null
+    },
+    {
+      "time": 160.788,
+      "time_str": "02:40.788",
+      "text": "但是我心中的爱情 没那么多的难题",
+      "translation": null
+    },
+    {
+      "time": 169.477,
+      "time_str": "02:49.477",
+      "text": "我只知道爱上了 那就是爱上了 没有疑问",
+      "translation": null
+    },
+    {
+      "time": 181.767,
+      "time_str": "03:01.767",
+      "text": "我是女生 只要爱一个人 用尽全力去争",
+      "translation": null
+    },
+    {
+      "time": 192.087,
+      "time_str": "03:12.087",
+      "text": "不管爱情有多残忍 不管你笑我笨",
+      "translation": null
+    },
+    {
+      "time": 199.777,
+      "time_str": "03:19.777",
+      "text": "我是女生 不管爱多残忍 我比谁都认真",
+      "translation": null
+    },
+    {
+      "time": 209.947,
+      "time_str": "03:29.947",
+      "text": "不管是女生或女人 不管你笑我笨",
+      "translation": null
+    },
+    {
+      "time": 218.47,
+      "time_str": "03:38.470",
+      "text": "我是女生",
+      "translation": null
+    },
+    {
+      "time": 236.579,
+      "time_str": "03:56.579",
+      "text": "我是女生 只要爱一个人 用尽全力去争",
+      "translation": null
+    },
+    {
+      "time": 245.797,
+      "time_str": "04:05.797",
+      "text": "不管爱情有多残忍 不管你笑我笨",
+      "translation": null
+    },
+    {
+      "time": 254.198,
+      "time_str": "04:14.198",
+      "text": "我是女生 不管爱多残忍 我比谁都认真",
+      "translation": null
+    },
+    {
+      "time": 264.097,
+      "time_str": "04:24.097",
+      "text": "不管是女生或女人 不管你笑我笨",
+      "translation": null
+    },
+    {
+      "time": 271.727,
+      "time_str": "04:31.727",
+      "text": "我是女生",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "女生 - 黑Girl.lrc"
+}

@@ -1,0 +1,298 @@
+{
+  "title": "游乐场",
+  "title_raw": "游乐场",
+  "version": null,
+  "artist": "谢霆锋",
+  "group_key": "游乐场|谢霆锋",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "谢霆锋",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.86,
+      "time_str": "00:15.860",
+      "text": "逐个字逐个字逐个认识",
+      "translation": null
+    },
+    {
+      "time": 19.8,
+      "time_str": "00:19.800",
+      "text": "糖是甜唇是红谁是奇迹",
+      "translation": null
+    },
+    {
+      "time": 22.94,
+      "time_str": "00:22.940",
+      "text": "看懂了",
+      "translation": null
+    },
+    {
+      "time": 23.83,
+      "time_str": "00:23.830",
+      "text": "然后寻觅寻觅另一种价值",
+      "translation": null
+    },
+    {
+      "time": 29.85,
+      "time_str": "00:29.850",
+      "text": "逐个梦逐副脸逐次累积",
+      "translation": null
+    },
+    {
+      "time": 33.419,
+      "time_str": "00:33.419",
+      "text": "抱起过放低了然后回忆",
+      "translation": null
+    },
+    {
+      "time": 36.979,
+      "time_str": "00:36.979",
+      "text": "然后期期待期待期待下一位接力",
+      "translation": null
+    },
+    {
+      "time": 44.099,
+      "time_str": "00:44.099",
+      "text": "你与我仍心跳",
+      "translation": null
+    },
+    {
+      "time": 46.759,
+      "time_str": "00:46.759",
+      "text": "一切都不重要",
+      "translation": null
+    },
+    {
+      "time": 51.139,
+      "time_str": "00:51.139",
+      "text": "你与我仍相信如何不得了",
+      "translation": null
+    },
+    {
+      "time": 55.909,
+      "time_str": "00:55.909",
+      "text": "烟火最后也会退烧",
+      "translation": null
+    },
+    {
+      "time": 60.279,
+      "time_str": "01:00.279",
+      "text": "最缤纷的花园游乐过",
+      "translation": null
+    },
+    {
+      "time": 64.279,
+      "time_str": "01:04.279",
+      "text": "但求动心",
+      "translation": null
+    },
+    {
+      "time": 67.299,
+      "time_str": "01:07.299",
+      "text": "就算是世间末日抚心自问",
+      "translation": null
+    },
+    {
+      "time": 71.439,
+      "time_str": "01:11.439",
+      "text": "都想秒秒惊心",
+      "translation": null
+    },
+    {
+      "time": 75.099,
+      "time_str": "01:15.099",
+      "text": "最宽广的公园游乐过",
+      "translation": null
+    },
+    {
+      "time": 78.439,
+      "time_str": "01:18.439",
+      "text": "为何认真",
+      "translation": null
+    },
+    {
+      "time": 81.408,
+      "time_str": "01:21.408",
+      "text": "若我尚占一席位都想入座",
+      "translation": null
+    },
+    {
+      "time": 86.289,
+      "time_str": "01:26.289",
+      "text": "观赏这个惊险人生",
+      "translation": null
+    },
+    {
+      "time": 96.969,
+      "time_str": "01:36.969",
+      "text": "做对事做错事换个脸色",
+      "translation": null
+    },
+    {
+      "time": 100.439,
+      "time_str": "01:40.439",
+      "text": "对不起对得起留下评击",
+      "translation": null
+    },
+    {
+      "time": 104.027,
+      "time_str": "01:44.027",
+      "text": "看开了然后承受承受",
+      "translation": null
+    },
+    {
+      "time": 107.199,
+      "time_str": "01:47.199",
+      "text": "另一种压力",
+      "translation": null
+    },
+    {
+      "time": 111.119,
+      "time_str": "01:51.119",
+      "text": "会过面道过别直到熟悉",
+      "translation": null
+    },
+    {
+      "time": 114.89,
+      "time_str": "01:54.890",
+      "text": "看一眼吻一次留下痕迹",
+      "translation": null
+    },
+    {
+      "time": 118.088,
+      "time_str": "01:58.088",
+      "text": "爱不够然后存在存在",
+      "translation": null
+    },
+    {
+      "time": 120.69,
+      "time_str": "02:00.690",
+      "text": "另一种角力",
+      "translation": null
+    },
+    {
+      "time": 125.289,
+      "time_str": "02:05.289",
+      "text": "你与我仍心跳",
+      "translation": null
+    },
+    {
+      "time": 127.71,
+      "time_str": "02:07.710",
+      "text": "一切都不重要",
+      "translation": null
+    },
+    {
+      "time": 132.19,
+      "time_str": "02:12.190",
+      "text": "你与我仍相信如何不得了",
+      "translation": null
+    },
+    {
+      "time": 136.96,
+      "time_str": "02:16.960",
+      "text": "烟火最后也会退烧",
+      "translation": null
+    },
+    {
+      "time": 141.45,
+      "time_str": "02:21.450",
+      "text": "最缤纷的花园游乐过",
+      "translation": null
+    },
+    {
+      "time": 145.6,
+      "time_str": "02:25.600",
+      "text": "但求动心",
+      "translation": null
+    },
+    {
+      "time": 148.48,
+      "time_str": "02:28.480",
+      "text": "就算是世界末日抚心自问",
+      "translation": null
+    },
+    {
+      "time": 153.2,
+      "time_str": "02:33.200",
+      "text": "都想秒秒惊心",
+      "translation": null
+    },
+    {
+      "time": 155.629,
+      "time_str": "02:35.629",
+      "text": "最宽广的公园游乐过",
+      "translation": null
+    },
+    {
+      "time": 159.46,
+      "time_str": "02:39.460",
+      "text": "为何认真",
+      "translation": null
+    },
+    {
+      "time": 162.62,
+      "time_str": "02:42.620",
+      "text": "若我尚占一席位都想入座",
+      "translation": null
+    },
+    {
+      "time": 166.72,
+      "time_str": "02:46.720",
+      "text": "观赏这个惊险人生",
+      "translation": null
+    },
+    {
+      "time": 197.879,
+      "time_str": "03:17.879",
+      "text": "最缤纷的花园游乐过",
+      "translation": null
+    },
+    {
+      "time": 201.87,
+      "time_str": "03:21.870",
+      "text": "但求动心",
+      "translation": null
+    },
+    {
+      "time": 204.95,
+      "time_str": "03:24.950",
+      "text": "就算是世界末日抚心自问",
+      "translation": null
+    },
+    {
+      "time": 208.92,
+      "time_str": "03:28.920",
+      "text": "都想秒秒惊心",
+      "translation": null
+    },
+    {
+      "time": 212.02,
+      "time_str": "03:32.020",
+      "text": "最宽广的公园游乐过",
+      "translation": null
+    },
+    {
+      "time": 216.01,
+      "time_str": "03:36.010",
+      "text": "为何认真",
+      "translation": null
+    },
+    {
+      "time": 219.0,
+      "time_str": "03:39.000",
+      "text": "若我尚占一席位都想入座",
+      "translation": null
+    },
+    {
+      "time": 223.079,
+      "time_str": "03:43.079",
+      "text": "观赏这个惊险人生",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "游乐场 - 谢霆锋.lrc"
+}

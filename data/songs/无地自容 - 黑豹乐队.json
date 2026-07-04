@@ -1,0 +1,382 @@
+{
+  "title": "无地自容",
+  "title_raw": "无地自容",
+  "version": null,
+  "artist": "黑豹乐队",
+  "group_key": "无地自容|黑豹乐队",
+  "writers": {
+    "lyricist": "窦唯",
+    "composer": "李彤",
+    "arranger": "黑豹乐队"
+  },
+  "lyrics": [
+    {
+      "time": 16.325,
+      "time_str": "00:16.325",
+      "text": "Oh…… Oh……",
+      "translation": null
+    },
+    {
+      "time": 24.278,
+      "time_str": "00:24.278",
+      "text": "Oh…… Oh……",
+      "translation": null
+    },
+    {
+      "time": 32.268,
+      "time_str": "00:32.268",
+      "text": "人潮人海中 有你有我",
+      "translation": null
+    },
+    {
+      "time": 36.493,
+      "time_str": "00:36.493",
+      "text": "相遇相识相互琢磨",
+      "translation": null
+    },
+    {
+      "time": 40.229,
+      "time_str": "00:40.229",
+      "text": "人潮人海中 是你是我",
+      "translation": null
+    },
+    {
+      "time": 44.242,
+      "time_str": "00:44.242",
+      "text": "装作正派面带笑容",
+      "translation": null
+    },
+    {
+      "time": 48.205,
+      "time_str": "00:48.205",
+      "text": "不必过分多说 自己清楚",
+      "translation": null
+    },
+    {
+      "time": 51.945,
+      "time_str": "00:51.945",
+      "text": "你我到底想要做些什么",
+      "translation": null
+    },
+    {
+      "time": 56.142,
+      "time_str": "00:56.142",
+      "text": "不必在乎许多 更不必难过",
+      "translation": null
+    },
+    {
+      "time": 59.944,
+      "time_str": "00:59.944",
+      "text": "终究有一天你会明白我",
+      "translation": null
+    },
+    {
+      "time": 64.174,
+      "time_str": "01:04.174",
+      "text": "人潮人海中 又看到你",
+      "translation": null
+    },
+    {
+      "time": 68.412,
+      "time_str": "01:08.412",
+      "text": "一样迷人一样美丽",
+      "translation": null
+    },
+    {
+      "time": 72.143,
+      "time_str": "01:12.143",
+      "text": "慢慢的放松 慢慢的抛弃",
+      "translation": null
+    },
+    {
+      "time": 76.369,
+      "time_str": "01:16.369",
+      "text": "同样仍是并不在意",
+      "translation": null
+    },
+    {
+      "time": 80.095,
+      "time_str": "01:20.095",
+      "text": "你不必过分多说 你自己清楚",
+      "translation": null
+    },
+    {
+      "time": 83.866,
+      "time_str": "01:23.866",
+      "text": "你我到底想要做些什么",
+      "translation": null
+    },
+    {
+      "time": 88.086,
+      "time_str": "01:28.086",
+      "text": "不必在乎许多 更不必难过",
+      "translation": null
+    },
+    {
+      "time": 91.786,
+      "time_str": "01:31.786",
+      "text": "终究有一天你会离开我",
+      "translation": null
+    },
+    {
+      "time": 112.041,
+      "time_str": "01:52.041",
+      "text": "人潮人海中 又看到你",
+      "translation": null
+    },
+    {
+      "time": 116.256,
+      "time_str": "01:56.256",
+      "text": "一样迷人一样美丽",
+      "translation": null
+    },
+    {
+      "time": 119.994,
+      "time_str": "01:59.994",
+      "text": "慢慢的放松 慢慢的抛弃",
+      "translation": null
+    },
+    {
+      "time": 124.256,
+      "time_str": "02:04.256",
+      "text": "同样仍是并不在意",
+      "translation": null
+    },
+    {
+      "time": 127.939,
+      "time_str": "02:07.939",
+      "text": "不必过分多说 自己清楚",
+      "translation": null
+    },
+    {
+      "time": 131.719,
+      "time_str": "02:11.719",
+      "text": "你我到底想要做些什么",
+      "translation": null
+    },
+    {
+      "time": 135.95,
+      "time_str": "02:15.950",
+      "text": "不必在乎许多 更不必难过",
+      "translation": null
+    },
+    {
+      "time": 139.667,
+      "time_str": "02:19.667",
+      "text": "终究有一天你会明白我",
+      "translation": null
+    },
+    {
+      "time": 144.177,
+      "time_str": "02:24.177",
+      "text": "不再相信 相信什么道理",
+      "translation": null
+    },
+    {
+      "time": 148.141,
+      "time_str": "02:28.141",
+      "text": "人们已是如此冷漠",
+      "translation": null
+    },
+    {
+      "time": 152.217,
+      "time_str": "02:32.217",
+      "text": "不再回忆 回忆什么过去",
+      "translation": null
+    },
+    {
+      "time": 156.127,
+      "time_str": "02:36.127",
+      "text": "现在不是从前的我",
+      "translation": null
+    },
+    {
+      "time": 160.841,
+      "time_str": "02:40.841",
+      "text": "曾感到过寂寞",
+      "translation": null
+    },
+    {
+      "time": 164.633,
+      "time_str": "02:44.633",
+      "text": "也曾被别人冷落",
+      "translation": null
+    },
+    {
+      "time": 168.893,
+      "time_str": "02:48.893",
+      "text": "却从未有感觉 我无地自容",
+      "translation": null
+    },
+    {
+      "time": 195.719,
+      "time_str": "03:15.719",
+      "text": "人潮人海中 又看到你",
+      "translation": null
+    },
+    {
+      "time": 200.042,
+      "time_str": "03:20.042",
+      "text": "一样迷人一样美丽",
+      "translation": null
+    },
+    {
+      "time": 203.726,
+      "time_str": "03:23.726",
+      "text": "慢慢的放松 慢慢的抛弃",
+      "translation": null
+    },
+    {
+      "time": 207.962,
+      "time_str": "03:27.962",
+      "text": "同样仍是并不在意",
+      "translation": null
+    },
+    {
+      "time": 211.701,
+      "time_str": "03:31.701",
+      "text": "不必过分多说 自己清楚",
+      "translation": null
+    },
+    {
+      "time": 215.496,
+      "time_str": "03:35.496",
+      "text": "你我到底想要做些什么",
+      "translation": null
+    },
+    {
+      "time": 219.647,
+      "time_str": "03:39.647",
+      "text": "不必在乎许多 更不必难过",
+      "translation": null
+    },
+    {
+      "time": 223.41,
+      "time_str": "03:43.410",
+      "text": "终究有一天你会明白我",
+      "translation": null
+    },
+    {
+      "time": 227.916,
+      "time_str": "03:47.916",
+      "text": "不再相信 相信什么道理",
+      "translation": null
+    },
+    {
+      "time": 231.897,
+      "time_str": "03:51.897",
+      "text": "人们已是如此冷漠",
+      "translation": null
+    },
+    {
+      "time": 235.703,
+      "time_str": "03:55.703",
+      "text": "我不再回忆 回忆什么过去",
+      "translation": null
+    },
+    {
+      "time": 239.825,
+      "time_str": "03:59.825",
+      "text": "现在不是从前的我",
+      "translation": null
+    },
+    {
+      "time": 244.641,
+      "time_str": "04:04.641",
+      "text": "曾感到过寂寞",
+      "translation": null
+    },
+    {
+      "time": 248.331,
+      "time_str": "04:08.331",
+      "text": "也曾被别人冷落",
+      "translation": null
+    },
+    {
+      "time": 252.584,
+      "time_str": "04:12.584",
+      "text": "却从未有感觉 我无地自容",
+      "translation": null
+    },
+    {
+      "time": 261.776,
+      "time_str": "04:21.776",
+      "text": "不再相信",
+      "translation": null
+    },
+    {
+      "time": 265.548,
+      "time_str": "04:25.548",
+      "text": "我不再相信",
+      "translation": null
+    },
+    {
+      "time": 269.845,
+      "time_str": "04:29.845",
+      "text": "不再回忆 Yeah",
+      "translation": null
+    },
+    {
+      "time": 273.769,
+      "time_str": "04:33.769",
+      "text": "现在不是从前的我",
+      "translation": null
+    },
+    {
+      "time": 277.817,
+      "time_str": "04:37.817",
+      "text": "不再相信",
+      "translation": null
+    },
+    {
+      "time": 281.543,
+      "time_str": "04:41.543",
+      "text": "我不再相信",
+      "translation": null
+    },
+    {
+      "time": 285.774,
+      "time_str": "04:45.774",
+      "text": "不再回忆",
+      "translation": null
+    },
+    {
+      "time": 289.69,
+      "time_str": "04:49.690",
+      "text": "现在不是从前的我",
+      "translation": null
+    },
+    {
+      "time": 293.595,
+      "time_str": "04:53.595",
+      "text": "Oh…… Oh……",
+      "translation": null
+    },
+    {
+      "time": 301.526,
+      "time_str": "05:01.526",
+      "text": "Oh……",
+      "translation": null
+    },
+    {
+      "time": 309.853,
+      "time_str": "05:09.853",
+      "text": "Yeah",
+      "translation": null
+    },
+    {
+      "time": 325.797,
+      "time_str": "05:25.797",
+      "text": "Oh……",
+      "translation": null
+    },
+    {
+      "time": 336.189,
+      "time_str": "05:36.189",
+      "text": "混音室 : 台北达采录音室",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "无地自容 - 黑豹乐队.lrc"
+}

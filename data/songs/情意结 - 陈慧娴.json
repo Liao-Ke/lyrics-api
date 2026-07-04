@@ -1,0 +1,250 @@
+{
+  "title": "情意结",
+  "title_raw": "情意结",
+  "version": null,
+  "artist": "陈慧娴",
+  "group_key": "情意结|陈慧娴",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "陈辉阳",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.0,
+      "time_str": "00:02.000",
+      "text": "PUBLISHER : Hilarious Productions Ltd (EMI)/ Universal Music Publishing Ltd",
+      "translation": null
+    },
+    {
+      "time": 14.49,
+      "time_str": "00:14.490",
+      "text": "为何每次早餐",
+      "translation": null
+    },
+    {
+      "time": 17.81,
+      "time_str": "00:17.810",
+      "text": "仍然魂离魄散",
+      "translation": null
+    },
+    {
+      "time": 21.32,
+      "time_str": "00:21.320",
+      "text": "原来",
+      "translation": null
+    },
+    {
+      "time": 22.83,
+      "time_str": "00:22.830",
+      "text": "那朝分手都要啜泣中上班",
+      "translation": null
+    },
+    {
+      "time": 27.97,
+      "time_str": "00:27.970",
+      "text": "明明能够过得这关",
+      "translation": null
+    },
+    {
+      "time": 31.5,
+      "time_str": "00:31.500",
+      "text": "赢回旁人盛赞",
+      "translation": null
+    },
+    {
+      "time": 34.79,
+      "time_str": "00:34.790",
+      "text": "原来顽强自爱这样难",
+      "translation": null
+    },
+    {
+      "time": 41.53,
+      "time_str": "00:41.530",
+      "text": "难得的激情总枉費",
+      "translation": null
+    },
+    {
+      "time": 44.86,
+      "time_str": "00:44.860",
+      "text": "残忍的好人都美丽",
+      "translation": null
+    },
+    {
+      "time": 48.34,
+      "time_str": "00:48.340",
+      "text": "别怕你将无人会代替",
+      "translation": null
+    },
+    {
+      "time": 54.83,
+      "time_str": "00:54.830",
+      "text": "你把玻璃放低请给我跪",
+      "translation": null
+    },
+    {
+      "time": 58.25,
+      "time_str": "00:58.250",
+      "text": "愿这便和你有新话题",
+      "translation": null
+    },
+    {
+      "time": 61.71,
+      "time_str": "01:01.710",
+      "text": "然而别叫我小心身体",
+      "translation": null
+    },
+    {
+      "time": 65.07,
+      "time_str": "01:05.070",
+      "text": "放过这回忆奴隶",
+      "translation": null
+    },
+    {
+      "time": 68.19,
+      "time_str": "01:08.190",
+      "text": "用你假的叹息当真的安慰",
+      "translation": null
+    },
+    {
+      "time": 71.43,
+      "time_str": "01:11.430",
+      "text": "再爱一次再离开都抵",
+      "translation": null
+    },
+    {
+      "time": 74.83,
+      "time_str": "01:14.830",
+      "text": "难得的激情总枉费",
+      "translation": null
+    },
+    {
+      "time": 78.23,
+      "time_str": "01:18.230",
+      "text": "残忍的好人都美丽",
+      "translation": null
+    },
+    {
+      "time": 81.6,
+      "time_str": "01:21.600",
+      "text": "让我绑好这死结才矜贵",
+      "translation": null
+    },
+    {
+      "time": 104.84,
+      "time_str": "01:44.840",
+      "text": "明明芥蒂很多",
+      "translation": null
+    },
+    {
+      "time": 108.05,
+      "time_str": "01:48.050",
+      "text": "为何还来探我",
+      "translation": null
+    },
+    {
+      "time": 111.4,
+      "time_str": "01:51.400",
+      "text": "然而",
+      "translation": null
+    },
+    {
+      "time": 113.03,
+      "time_str": "01:53.030",
+      "text": "痛苦可想起你便不必痛楚",
+      "translation": null
+    },
+    {
+      "time": 118.01,
+      "time_str": "01:58.010",
+      "text": "沦为朋友了解更多",
+      "translation": null
+    },
+    {
+      "time": 121.36,
+      "time_str": "02:01.360",
+      "text": "为何仍前嫌未过",
+      "translation": null
+    },
+    {
+      "time": 124.72,
+      "time_str": "02:04.720",
+      "text": "原来馀情未了的是我",
+      "translation": null
+    },
+    {
+      "time": 131.3,
+      "time_str": "02:11.300",
+      "text": "你把玻璃放低请给我跪",
+      "translation": null
+    },
+    {
+      "time": 134.49,
+      "time_str": "02:14.490",
+      "text": "愿这便和你有新话题",
+      "translation": null
+    },
+    {
+      "time": 137.82,
+      "time_str": "02:17.820",
+      "text": "然而别叫我小心身体",
+      "translation": null
+    },
+    {
+      "time": 141.01,
+      "time_str": "02:21.010",
+      "text": "放过这回忆奴隶",
+      "translation": null
+    },
+    {
+      "time": 144.28,
+      "time_str": "02:24.280",
+      "text": "用你假的叹息当真的安慰",
+      "translation": null
+    },
+    {
+      "time": 147.46,
+      "time_str": "02:27.460",
+      "text": "再爱一次再离开都抵",
+      "translation": null
+    },
+    {
+      "time": 150.97,
+      "time_str": "02:30.970",
+      "text": "难得的激情总枉费",
+      "translation": null
+    },
+    {
+      "time": 154.22,
+      "time_str": "02:34.220",
+      "text": "残忍的好人都美丽",
+      "translation": null
+    },
+    {
+      "time": 157.47,
+      "time_str": "02:37.470",
+      "text": "让我绑好这死结才矜贵",
+      "translation": null
+    },
+    {
+      "time": 164.1,
+      "time_str": "02:44.100",
+      "text": "难堪的关系不可畏",
+      "translation": null
+    },
+    {
+      "time": 167.57,
+      "time_str": "02:47.570",
+      "text": "离开的恋人都",
+      "translation": null
+    },
+    {
+      "time": 171.03,
+      "time_str": "02:51.030",
+      "text": "都会像命运缠绵我一世",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情意结 - 陈慧娴.lrc"
+}

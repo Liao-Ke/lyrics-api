@@ -1,0 +1,238 @@
+{
+  "title": "假如让我说下去",
+  "title_raw": "假如让我说下去",
+  "version": null,
+  "artist": "杨千嬅",
+  "group_key": "假如让我说下去|杨千嬅",
+  "writers": {
+    "lyricist": null,
+    "composer": "于逸尧",
+    "arranger": "于逸尧"
+  },
+  "lyrics": [
+    {
+      "time": 22.21,
+      "time_str": "00:22.210",
+      "text": "任我想我最多想一觉睡去",
+      "translation": null
+    },
+    {
+      "time": 27.95,
+      "time_str": "00:27.950",
+      "text": "期待你也至少劝我别劳累",
+      "translation": null
+    },
+    {
+      "time": 33.49,
+      "time_str": "00:33.490",
+      "text": "但我把谈情的气力转赠谁",
+      "translation": null
+    },
+    {
+      "time": 39.67,
+      "time_str": "00:39.670",
+      "text": "跟你电话之中讲再会再会谁",
+      "translation": null
+    },
+    {
+      "time": 44.61,
+      "time_str": "00:44.610",
+      "text": "暴雨天我至少想讲挂念你",
+      "translation": null
+    },
+    {
+      "time": 50.16,
+      "time_str": "00:50.160",
+      "text": "然后你你最多会笑着回避",
+      "translation": null
+    },
+    {
+      "time": 55.78,
+      "time_str": "00:55.780",
+      "text": "避到底明明不筋竭都力疲",
+      "translation": null
+    },
+    {
+      "time": 61.9,
+      "time_str": "01:01.900",
+      "text": "就当我还未放松自己",
+      "translation": null
+    },
+    {
+      "time": 66.87,
+      "time_str": "01:06.870",
+      "text": "我想哭",
+      "translation": null
+    },
+    {
+      "time": 68.6,
+      "time_str": "01:08.600",
+      "text": "你可不可以暂时别要睡",
+      "translation": null
+    },
+    {
+      "time": 72.45,
+      "time_str": "01:12.450",
+      "text": "陪着我像最初相识",
+      "translation": null
+    },
+    {
+      "time": 75.43,
+      "time_str": "01:15.430",
+      "text": "我当时未怕累",
+      "translation": null
+    },
+    {
+      "time": 77.8,
+      "time_str": "01:17.800",
+      "text": "但如果但如果说下去",
+      "translation": null
+    },
+    {
+      "time": 82.57,
+      "time_str": "01:22.570",
+      "text": "或者",
+      "translation": null
+    },
+    {
+      "time": 84.35,
+      "time_str": "01:24.350",
+      "text": "傻得我",
+      "translation": null
+    },
+    {
+      "time": 86.98,
+      "time_str": "01:26.980",
+      "text": "彼此怎能爱下去",
+      "translation": null
+    },
+    {
+      "time": 111.75,
+      "time_str": "01:51.750",
+      "text": "暴雨中我到底怎么要害怕",
+      "translation": null
+    },
+    {
+      "time": 117.28,
+      "time_str": "01:57.280",
+      "text": "难道你无台风会决定留下",
+      "translation": null
+    },
+    {
+      "time": 122.9,
+      "time_str": "02:02.900",
+      "text": "但我想如楼底这夜倒下来",
+      "translation": null
+    },
+    {
+      "time": 129.02,
+      "time_str": "02:09.020",
+      "text": "就算临别亦有通电话",
+      "translation": null
+    },
+    {
+      "time": 134.06,
+      "time_str": "02:14.060",
+      "text": "我怕死",
+      "translation": null
+    },
+    {
+      "time": 135.43,
+      "time_str": "02:15.430",
+      "text": "你可不可以暂时别要睡",
+      "translation": null
+    },
+    {
+      "time": 139.52,
+      "time_str": "02:19.520",
+      "text": "陪着我",
+      "translation": null
+    },
+    {
+      "time": 140.91,
+      "time_str": "02:20.910",
+      "text": "让我可以不靠安眠药进睡",
+      "translation": null
+    },
+    {
+      "time": 145.21,
+      "time_str": "02:25.210",
+      "text": "但如果",
+      "translation": null
+    },
+    {
+      "time": 146.95,
+      "time_str": "02:26.950",
+      "text": "但如果说下去亦无非逼你",
+      "translation": null
+    },
+    {
+      "time": 151.46,
+      "time_str": "02:31.460",
+      "text": "一句话如今跟某位同居",
+      "translation": null
+    },
+    {
+      "time": 156.34,
+      "time_str": "02:36.340",
+      "text": "我的天",
+      "translation": null
+    },
+    {
+      "time": 158.09,
+      "time_str": "02:38.090",
+      "text": "你可不可以暂时让我睡",
+      "translation": null
+    },
+    {
+      "time": 161.73,
+      "time_str": "02:41.730",
+      "text": "忘掉爱",
+      "translation": null
+    },
+    {
+      "time": 163.31,
+      "time_str": "02:43.310",
+      "text": "尚有多少工作失眠亦有罪",
+      "translation": null
+    },
+    {
+      "time": 167.47,
+      "time_str": "02:47.470",
+      "text": "但如果但如果怨下去",
+      "translation": null
+    },
+    {
+      "time": 172.12,
+      "time_str": "02:52.120",
+      "text": "或者",
+      "translation": null
+    },
+    {
+      "time": 175.87,
+      "time_str": "02:55.870",
+      "text": "傻得我",
+      "translation": null
+    },
+    {
+      "time": 178.9,
+      "time_str": "02:58.900",
+      "text": "通宵找谁接下去",
+      "translation": null
+    },
+    {
+      "time": 187.42,
+      "time_str": "03:07.420",
+      "text": "离开",
+      "translation": null
+    },
+    {
+      "time": 189.5,
+      "time_str": "03:09.500",
+      "text": "不应再打搅爱人对不对",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "假如让我说下去 - 杨千嬅.lrc"
+}

@@ -1,0 +1,388 @@
+{
+  "title": "有没有一首歌会让你想起我",
+  "title_raw": "有没有一首歌会让你想起我",
+  "version": null,
+  "artist": "周华健",
+  "group_key": "有没有一首歌会让你想起我|周华健",
+  "writers": {
+    "lyricist": "李宗盛/李焯雄",
+    "composer": "周传雄",
+    "arranger": "Mac Chew"
+  },
+  "lyrics": [
+    {
+      "time": 14.49,
+      "time_str": "00:14.490",
+      "text": "灯熄灭了",
+      "translation": null
+    },
+    {
+      "time": 15.91,
+      "time_str": "00:15.910",
+      "text": "月亮是寂寞的眼",
+      "translation": null
+    },
+    {
+      "time": 20.07,
+      "time_str": "00:20.070",
+      "text": "静静看着",
+      "translation": null
+    },
+    {
+      "time": 22.59,
+      "time_str": "00:22.590",
+      "text": "谁孤枕难眠",
+      "translation": null
+    },
+    {
+      "time": 26.74,
+      "time_str": "00:26.740",
+      "text": "远处传来那首熟悉的歌",
+      "translation": null
+    },
+    {
+      "time": 33.6,
+      "time_str": "00:33.600",
+      "text": "那些心声为何那样微弱",
+      "translation": null
+    },
+    {
+      "time": 41.13,
+      "time_str": "00:41.130",
+      "text": "很久不见",
+      "translation": null
+    },
+    {
+      "time": 43.32,
+      "time_str": "00:43.320",
+      "text": "你现在都还好吗",
+      "translation": null
+    },
+    {
+      "time": 47.15,
+      "time_str": "00:47.150",
+      "text": "你曾说过",
+      "translation": null
+    },
+    {
+      "time": 49.55,
+      "time_str": "00:49.550",
+      "text": "你不愿一个人",
+      "translation": null
+    },
+    {
+      "time": 53.7,
+      "time_str": "00:53.700",
+      "text": "我们都活在这个城市里面",
+      "translation": null
+    },
+    {
+      "time": 59.8,
+      "time_str": "00:59.800",
+      "text": "却为何没有再见面",
+      "translation": null
+    },
+    {
+      "time": 64.07,
+      "time_str": "01:04.070",
+      "text": "却只和陌生人擦肩",
+      "translation": null
+    },
+    {
+      "time": 70.51,
+      "time_str": "01:10.510",
+      "text": "有没有那么一首歌",
+      "translation": null
+    },
+    {
+      "time": 73.79,
+      "time_str": "01:13.790",
+      "text": "会让你轻轻跟着和",
+      "translation": null
+    },
+    {
+      "time": 78.04,
+      "time_str": "01:18.040",
+      "text": "牵动我们共同过去",
+      "translation": null
+    },
+    {
+      "time": 80.89,
+      "time_str": "01:20.890",
+      "text": "记忆它不会沉默",
+      "translation": null
+    },
+    {
+      "time": 83.95,
+      "time_str": "01:23.950",
+      "text": "有没有那么一首歌",
+      "translation": null
+    },
+    {
+      "time": 87.33,
+      "time_str": "01:27.330",
+      "text": "会让你心里记着我",
+      "translation": null
+    },
+    {
+      "time": 91.6,
+      "time_str": "01:31.600",
+      "text": "让你欢喜也让你忧",
+      "translation": null
+    },
+    {
+      "time": 94.97,
+      "time_str": "01:34.970",
+      "text": "这么一个我",
+      "translation": null
+    },
+    {
+      "time": 127.63,
+      "time_str": "02:07.630",
+      "text": "最真的梦",
+      "translation": null
+    },
+    {
+      "time": 129.81,
+      "time_str": "02:09.810",
+      "text": "你现在还记得吗",
+      "translation": null
+    },
+    {
+      "time": 133.41,
+      "time_str": "02:13.410",
+      "text": "你如今也是",
+      "translation": null
+    },
+    {
+      "time": 135.81,
+      "time_str": "02:15.810",
+      "text": "一个有故事的人",
+      "translation": null
+    },
+    {
+      "time": 140.29,
+      "time_str": "02:20.290",
+      "text": "天空下着一样冷冷的雨",
+      "translation": null
+    },
+    {
+      "time": 146.97,
+      "time_str": "02:26.970",
+      "text": "落在同样的世界",
+      "translation": null
+    },
+    {
+      "time": 150.22,
+      "time_str": "02:30.220",
+      "text": "昨天已越来越遥远",
+      "translation": null
+    },
+    {
+      "time": 156.81,
+      "time_str": "02:36.810",
+      "text": "有没有那么一首歌",
+      "translation": null
+    },
+    {
+      "time": 159.99,
+      "time_str": "02:39.990",
+      "text": "会让你轻轻跟着和",
+      "translation": null
+    },
+    {
+      "time": 164.28,
+      "time_str": "02:44.280",
+      "text": "牵动我们共同过去",
+      "translation": null
+    },
+    {
+      "time": 167.2,
+      "time_str": "02:47.200",
+      "text": "记忆从未沉默过",
+      "translation": null
+    },
+    {
+      "time": 170.28,
+      "time_str": "02:50.280",
+      "text": "有没有那么一首歌",
+      "translation": null
+    },
+    {
+      "time": 173.63,
+      "time_str": "02:53.630",
+      "text": "会让你心里记着我",
+      "translation": null
+    },
+    {
+      "time": 177.77,
+      "time_str": "02:57.770",
+      "text": "让你欢喜也让你忧",
+      "translation": null
+    },
+    {
+      "time": 180.74,
+      "time_str": "03:00.740",
+      "text": "这么一个我",
+      "translation": null
+    },
+    {
+      "time": 183.78,
+      "time_str": "03:03.780",
+      "text": "有没有那么一首歌",
+      "translation": null
+    },
+    {
+      "time": 187.27,
+      "time_str": "03:07.270",
+      "text": "会让你轻轻跟着和",
+      "translation": null
+    },
+    {
+      "time": 190.55,
+      "time_str": "03:10.550",
+      "text": "随着我们生命起伏",
+      "translation": null
+    },
+    {
+      "time": 194.38,
+      "time_str": "03:14.380",
+      "text": "一起唱的主题歌",
+      "translation": null
+    },
+    {
+      "time": 197.26,
+      "time_str": "03:17.260",
+      "text": "有没有那么一首歌",
+      "translation": null
+    },
+    {
+      "time": 200.6,
+      "time_str": "03:20.600",
+      "text": "会让你突然想起我",
+      "translation": null
+    },
+    {
+      "time": 204.88,
+      "time_str": "03:24.880",
+      "text": "让你欢喜也让你忧",
+      "translation": null
+    },
+    {
+      "time": 207.81,
+      "time_str": "03:27.810",
+      "text": "这么一个我",
+      "translation": null
+    },
+    {
+      "time": 210.87,
+      "time_str": "03:30.870",
+      "text": "我现在唱的这首歌",
+      "translation": null
+    },
+    {
+      "time": 214.7,
+      "time_str": "03:34.700",
+      "text": "若是让你想起了我",
+      "translation": null
+    },
+    {
+      "time": 218.63,
+      "time_str": "03:38.630",
+      "text": "涌上来的若是寂寞",
+      "translation": null
+    },
+    {
+      "time": 221.47,
+      "time_str": "03:41.470",
+      "text": "我想知道为什么",
+      "translation": null
+    },
+    {
+      "time": 224.3,
+      "time_str": "03:44.300",
+      "text": "有没有那么一首歌",
+      "translation": null
+    },
+    {
+      "time": 228.68,
+      "time_str": "03:48.680",
+      "text": "会让你突然想起我",
+      "translation": null
+    },
+    {
+      "time": 233.58,
+      "time_str": "03:53.580",
+      "text": "让你欢喜也让你忧",
+      "translation": null
+    },
+    {
+      "time": 236.64,
+      "time_str": "03:56.640",
+      "text": "这么一个我",
+      "translation": null
+    },
+    {
+      "time": 239.59,
+      "time_str": "03:59.590",
+      "text": "我现在唱的这首歌",
+      "translation": null
+    },
+    {
+      "time": 243.41,
+      "time_str": "04:03.410",
+      "text": "就代表我对你诉说",
+      "translation": null
+    },
+    {
+      "time": 247.12,
+      "time_str": "04:07.120",
+      "text": "就算日子匆匆过去",
+      "translation": null
+    },
+    {
+      "time": 250.29,
+      "time_str": "04:10.290",
+      "text": "我们曾一起走过",
+      "translation": null
+    },
+    {
+      "time": 253.13,
+      "time_str": "04:13.130",
+      "text": "我现在唱的这首歌",
+      "translation": null
+    },
+    {
+      "time": 256.41,
+      "time_str": "04:16.410",
+      "text": "就代表我对你诉说",
+      "translation": null
+    },
+    {
+      "time": 260.66,
+      "time_str": "04:20.660",
+      "text": "就算日子匆匆过去",
+      "translation": null
+    },
+    {
+      "time": 263.84,
+      "time_str": "04:23.840",
+      "text": "我们曾走过",
+      "translation": null
+    },
+    {
+      "time": 266.99,
+      "time_str": "04:26.990",
+      "text": "就算日子匆匆过去",
+      "translation": null
+    },
+    {
+      "time": 270.59,
+      "time_str": "04:30.590",
+      "text": "我们曾走过",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "有没有一首歌会让你想起我 - 周华健.lrc"
+}

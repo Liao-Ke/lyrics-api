@@ -1,0 +1,256 @@
+{
+  "title": "爱情惹的祸",
+  "title_raw": "爱情惹的祸",
+  "version": null,
+  "artist": "姜玉阳",
+  "group_key": "爱情惹的祸|姜玉阳",
+  "writers": {
+    "lyricist": null,
+    "composer": "爱情惹的祸",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 34.85,
+      "time_str": "00:34.850",
+      "text": "当你含着眼泪坚决对我说",
+      "translation": null
+    },
+    {
+      "time": 38.19,
+      "time_str": "00:38.190",
+      "text": "这是最后一次再见我",
+      "translation": null
+    },
+    {
+      "time": 42.22,
+      "time_str": "00:42.220",
+      "text": "你说你有你的生活 别再联络",
+      "translation": null
+    },
+    {
+      "time": 46.48,
+      "time_str": "00:46.480",
+      "text": "而我已陷入了沉默 沉默",
+      "translation": null
+    },
+    {
+      "time": 50.7,
+      "time_str": "00:50.700",
+      "text": "难道注定要在情海中飘泊",
+      "translation": null
+    },
+    {
+      "time": 54.2,
+      "time_str": "00:54.200",
+      "text": "还是这个世界太冷漠",
+      "translation": null
+    },
+    {
+      "time": 58.54,
+      "time_str": "00:58.540",
+      "text": "我望天望地望这结果",
+      "translation": null
+    },
+    {
+      "time": 62.51,
+      "time_str": "01:02.510",
+      "text": "那到底是谁犯了错",
+      "translation": null
+    },
+    {
+      "time": 66.7,
+      "time_str": "01:06.700",
+      "text": "都是爱情惹的祸",
+      "translation": null
+    },
+    {
+      "time": 70.07,
+      "time_str": "01:10.070",
+      "text": "每次都让我苦苦受折磨",
+      "translation": null
+    },
+    {
+      "time": 74.38,
+      "time_str": "01:14.380",
+      "text": "给他的承诺  同样给了我",
+      "translation": null
+    },
+    {
+      "time": 78.47,
+      "time_str": "01:18.470",
+      "text": "那结局刺痛我心窝",
+      "translation": null
+    },
+    {
+      "time": 82.69,
+      "time_str": "01:22.690",
+      "text": "都是爱情惹的祸",
+      "translation": null
+    },
+    {
+      "time": 86.0,
+      "time_str": "01:26.000",
+      "text": "把我这寂寞的心上了锁",
+      "translation": null
+    },
+    {
+      "time": 90.17,
+      "time_str": "01:30.170",
+      "text": "曾经的生活  再不能摆脱",
+      "translation": null
+    },
+    {
+      "time": 94.29,
+      "time_str": "01:34.290",
+      "text": "我守着黑夜慢慢过 哦。。。",
+      "translation": null
+    },
+    {
+      "time": 115.36,
+      "time_str": "01:55.360",
+      "text": "当你含着眼泪坚决对我说",
+      "translation": null
+    },
+    {
+      "time": 120.26,
+      "time_str": "02:00.260",
+      "text": "这是最后一次再见我",
+      "translation": null
+    },
+    {
+      "time": 124.19,
+      "time_str": "02:04.190",
+      "text": "你说你有你的生活  别再联络",
+      "translation": null
+    },
+    {
+      "time": 128.34,
+      "time_str": "02:08.340",
+      "text": "而我已陷入了沉默 沉默",
+      "translation": null
+    },
+    {
+      "time": 132.5,
+      "time_str": "02:12.500",
+      "text": "难道注定要在情海中飘泊",
+      "translation": null
+    },
+    {
+      "time": 135.99,
+      "time_str": "02:15.990",
+      "text": "还是这个世界太冷漠",
+      "translation": null
+    },
+    {
+      "time": 140.37,
+      "time_str": "02:20.370",
+      "text": "我望天望地望这结果",
+      "translation": null
+    },
+    {
+      "time": 144.34,
+      "time_str": "02:24.340",
+      "text": "那到底是谁犯了错",
+      "translation": null
+    },
+    {
+      "time": 148.5,
+      "time_str": "02:28.500",
+      "text": "都是爱情惹的祸",
+      "translation": null
+    },
+    {
+      "time": 151.87,
+      "time_str": "02:31.870",
+      "text": "每次都让我苦苦受折磨",
+      "translation": null
+    },
+    {
+      "time": 156.15,
+      "time_str": "02:36.150",
+      "text": "给他的承诺 同样给了我",
+      "translation": null
+    },
+    {
+      "time": 160.56,
+      "time_str": "02:40.560",
+      "text": "那结局刺痛我心窝",
+      "translation": null
+    },
+    {
+      "time": 164.5,
+      "time_str": "02:44.500",
+      "text": "都是爱情惹的祸",
+      "translation": null
+    },
+    {
+      "time": 167.84,
+      "time_str": "02:47.840",
+      "text": "把我这寂寞的心上了锁",
+      "translation": null
+    },
+    {
+      "time": 171.99,
+      "time_str": "02:51.990",
+      "text": "曾经的生活 再不能摆脱",
+      "translation": null
+    },
+    {
+      "time": 176.28,
+      "time_str": "02:56.280",
+      "text": "我守着黑夜慢慢过",
+      "translation": null
+    },
+    {
+      "time": 180.65,
+      "time_str": "03:00.650",
+      "text": "都是爱情惹的祸",
+      "translation": null
+    },
+    {
+      "time": 183.85,
+      "time_str": "03:03.850",
+      "text": "每次都让我苦苦受折磨",
+      "translation": null
+    },
+    {
+      "time": 187.98,
+      "time_str": "03:07.980",
+      "text": "给他的承诺 同样给了我",
+      "translation": null
+    },
+    {
+      "time": 192.33,
+      "time_str": "03:12.330",
+      "text": "那结局刺痛我心窝",
+      "translation": null
+    },
+    {
+      "time": 196.52,
+      "time_str": "03:16.520",
+      "text": "都是爱情惹的祸",
+      "translation": null
+    },
+    {
+      "time": 199.79,
+      "time_str": "03:19.790",
+      "text": "把我这寂寞的心上了锁",
+      "translation": null
+    },
+    {
+      "time": 203.98,
+      "time_str": "03:23.980",
+      "text": "曾经的生活 再不能摆脱",
+      "translation": null
+    },
+    {
+      "time": 208.3,
+      "time_str": "03:28.300",
+      "text": "我守着黑夜慢慢过 哦。。。。",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱情惹的祸 - 姜玉阳.lrc"
+}

@@ -1,0 +1,436 @@
+{
+  "title": "动脉",
+  "title_raw": "动脉",
+  "version": null,
+  "artist": "飞轮海",
+  "group_key": "动脉|飞轮海",
+  "writers": {
+    "lyricist": "小圭",
+    "composer": "郑楠",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 26.85,
+      "time_str": "00:26.850",
+      "text": "当月光被寂寞遮盖",
+      "translation": null
+    },
+    {
+      "time": 28.9,
+      "time_str": "00:28.900",
+      "text": "心情像末日般黑暗",
+      "translation": null
+    },
+    {
+      "time": 31.02,
+      "time_str": "00:31.020",
+      "text": "你怀疑城市快崩坏",
+      "translation": null
+    },
+    {
+      "time": 33.88,
+      "time_str": "00:33.880",
+      "text": "谁可以信赖",
+      "translation": null
+    },
+    {
+      "time": 35.44,
+      "time_str": "00:35.440",
+      "text": "当生命被推向悬崖",
+      "translation": null
+    },
+    {
+      "time": 37.62,
+      "time_str": "00:37.620",
+      "text": "回忆瞬间快格倒带",
+      "translation": null
+    },
+    {
+      "time": 39.78,
+      "time_str": "00:39.780",
+      "text": "你知道最后的呼喊",
+      "translation": null
+    },
+    {
+      "time": 42.03,
+      "time_str": "00:42.030",
+      "text": "谁会立刻回响",
+      "translation": null
+    },
+    {
+      "time": 44.37,
+      "time_str": "00:44.370",
+      "text": "我知道我就是答案",
+      "translation": null
+    },
+    {
+      "time": 46.87,
+      "time_str": "00:46.870",
+      "text": "不怕你来麻烦",
+      "translation": null
+    },
+    {
+      "time": 52.94,
+      "time_str": "00:52.940",
+      "text": "我知道当角色互换",
+      "translation": null
+    },
+    {
+      "time": 55.73,
+      "time_str": "00:55.730",
+      "text": "你也一样照办",
+      "translation": null
+    },
+    {
+      "time": 63.62,
+      "time_str": "01:03.620",
+      "text": "连接我的动脉",
+      "translation": null
+    },
+    {
+      "time": 65.49,
+      "time_str": "01:05.490",
+      "text": "感受彼此存在",
+      "translation": null
+    },
+    {
+      "time": 67.87,
+      "time_str": "01:07.870",
+      "text": "热血互相灌溉",
+      "translation": null
+    },
+    {
+      "time": 69.98,
+      "time_str": "01:09.980",
+      "text": "温暖澎湃",
+      "translation": null
+    },
+    {
+      "time": 72.32,
+      "time_str": "01:12.320",
+      "text": "流过我的动脉",
+      "translation": null
+    },
+    {
+      "time": 74.3,
+      "time_str": "01:14.300",
+      "text": "传送喜悦悲哀",
+      "translation": null
+    },
+    {
+      "time": 76.49,
+      "time_str": "01:16.490",
+      "text": "同步心跳节拍",
+      "translation": null
+    },
+    {
+      "time": 78.73,
+      "time_str": "01:18.730",
+      "text": "同一个未来",
+      "translation": null
+    },
+    {
+      "time": 101.13,
+      "time_str": "01:41.130",
+      "text": "当我在旅途上落难",
+      "translation": null
+    },
+    {
+      "time": 103.16,
+      "time_str": "01:43.160",
+      "text": "恶梦像蜘蛛网纠缠",
+      "translation": null
+    },
+    {
+      "time": 105.3,
+      "time_str": "01:45.300",
+      "text": "就快被撕裂的梦想",
+      "translation": null
+    },
+    {
+      "time": 108.14,
+      "time_str": "01:48.140",
+      "text": "谁帮我保管",
+      "translation": null
+    },
+    {
+      "time": 109.72,
+      "time_str": "01:49.720",
+      "text": "当我又做错了判断",
+      "translation": null
+    },
+    {
+      "time": 111.78,
+      "time_str": "01:51.780",
+      "text": "失败像崩塌了的山",
+      "translation": null
+    },
+    {
+      "time": 113.98,
+      "time_str": "01:53.980",
+      "text": "天空中只亮着绝望",
+      "translation": null
+    },
+    {
+      "time": 116.51,
+      "time_str": "01:56.510",
+      "text": "谁还肯给我光",
+      "translation": null
+    },
+    {
+      "time": 118.38,
+      "time_str": "01:58.380",
+      "text": "你就是不变的答案",
+      "translation": null
+    },
+    {
+      "time": 121.0,
+      "time_str": "02:01.000",
+      "text": "没嫌过我麻烦",
+      "translation": null
+    },
+    {
+      "time": 127.16,
+      "time_str": "02:07.160",
+      "text": "下一次当角色互换",
+      "translation": null
+    },
+    {
+      "time": 130.06,
+      "time_str": "02:10.060",
+      "text": "我会加倍奉上",
+      "translation": null
+    },
+    {
+      "time": 137.89,
+      "time_str": "02:17.890",
+      "text": "连接我的动脉",
+      "translation": null
+    },
+    {
+      "time": 139.68,
+      "time_str": "02:19.680",
+      "text": "感受彼此存在",
+      "translation": null
+    },
+    {
+      "time": 141.97,
+      "time_str": "02:21.970",
+      "text": "热血互相灌溉",
+      "translation": null
+    },
+    {
+      "time": 144.09,
+      "time_str": "02:24.090",
+      "text": "温暖澎湃",
+      "translation": null
+    },
+    {
+      "time": 146.31,
+      "time_str": "02:26.310",
+      "text": "流过我的动脉",
+      "translation": null
+    },
+    {
+      "time": 148.44,
+      "time_str": "02:28.440",
+      "text": "传送喜悦悲哀",
+      "translation": null
+    },
+    {
+      "time": 150.68,
+      "time_str": "02:30.680",
+      "text": "同步心跳节拍",
+      "translation": null
+    },
+    {
+      "time": 152.9,
+      "time_str": "02:32.900",
+      "text": "同一个未来",
+      "translation": null
+    },
+    {
+      "time": 155.3,
+      "time_str": "02:35.300",
+      "text": "空气里飘散危险讯息在蔓延",
+      "translation": null
+    },
+    {
+      "time": 157.51,
+      "time_str": "02:37.510",
+      "text": "不约而同我们都抢先一步",
+      "translation": null
+    },
+    {
+      "time": 159.11,
+      "time_str": "02:39.110",
+      "text": "想挡在对方面前",
+      "translation": null
+    },
+    {
+      "time": 160.27,
+      "time_str": "02:40.270",
+      "text": "深陷在暗黑世界",
+      "translation": null
+    },
+    {
+      "time": 161.41,
+      "time_str": "02:41.410",
+      "text": "正义是阳光铸造的宝剑",
+      "translation": null
+    },
+    {
+      "time": 163.15,
+      "time_str": "02:43.150",
+      "text": "好与坏同进同退",
+      "translation": null
+    },
+    {
+      "time": 164.61,
+      "time_str": "02:44.610",
+      "text": "团结是无坚不摧的堡垒",
+      "translation": null
+    },
+    {
+      "time": 166.25,
+      "time_str": "02:46.250",
+      "text": "我们还能相信明天",
+      "translation": null
+    },
+    {
+      "time": 167.62,
+      "time_str": "02:47.620",
+      "text": "交会的眼神就是信念",
+      "translation": null
+    },
+    {
+      "time": 169.03,
+      "time_str": "02:49.030",
+      "text": "心脏再累都不怕衰竭",
+      "translation": null
+    },
+    {
+      "time": 170.66,
+      "time_str": "02:50.660",
+      "text": "还有彼此的动脉随时支援",
+      "translation": null
+    },
+    {
+      "time": 172.74,
+      "time_str": "02:52.740",
+      "text": "连接我的动脉",
+      "translation": null
+    },
+    {
+      "time": 174.77,
+      "time_str": "02:54.770",
+      "text": "感受彼此存在",
+      "translation": null
+    },
+    {
+      "time": 176.91,
+      "time_str": "02:56.910",
+      "text": "热血互相灌溉",
+      "translation": null
+    },
+    {
+      "time": 181.61,
+      "time_str": "03:01.610",
+      "text": "连接我的动脉",
+      "translation": null
+    },
+    {
+      "time": 183.37,
+      "time_str": "03:03.370",
+      "text": "感受彼此存在",
+      "translation": null
+    },
+    {
+      "time": 185.61,
+      "time_str": "03:05.610",
+      "text": "热血互相灌溉",
+      "translation": null
+    },
+    {
+      "time": 187.79,
+      "time_str": "03:07.790",
+      "text": "温暖澎湃",
+      "translation": null
+    },
+    {
+      "time": 189.98,
+      "time_str": "03:09.980",
+      "text": "流过我的动脉",
+      "translation": null
+    },
+    {
+      "time": 192.06,
+      "time_str": "03:12.060",
+      "text": "传送喜悦悲哀",
+      "translation": null
+    },
+    {
+      "time": 194.32,
+      "time_str": "03:14.320",
+      "text": "同步心跳节拍",
+      "translation": null
+    },
+    {
+      "time": 196.58,
+      "time_str": "03:16.580",
+      "text": "同一个未来",
+      "translation": null
+    },
+    {
+      "time": 199.01,
+      "time_str": "03:19.010",
+      "text": "连接我的动脉",
+      "translation": null
+    },
+    {
+      "time": 200.8,
+      "time_str": "03:20.800",
+      "text": "感受彼此存在",
+      "translation": null
+    },
+    {
+      "time": 203.11,
+      "time_str": "03:23.110",
+      "text": "热血互相灌溉",
+      "translation": null
+    },
+    {
+      "time": 205.2,
+      "time_str": "03:25.200",
+      "text": "温暖澎湃",
+      "translation": null
+    },
+    {
+      "time": 207.43,
+      "time_str": "03:27.430",
+      "text": "流过我的动脉",
+      "translation": null
+    },
+    {
+      "time": 209.52,
+      "time_str": "03:29.520",
+      "text": "传送喜悦悲哀",
+      "translation": null
+    },
+    {
+      "time": 211.79,
+      "time_str": "03:31.790",
+      "text": "同步心跳节拍",
+      "translation": null
+    },
+    {
+      "time": 214.01,
+      "time_str": "03:34.010",
+      "text": "同一个未来",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "动脉 - 飞轮海.lrc"
+}

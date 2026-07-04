@@ -1,0 +1,328 @@
+{
+  "title": "被驯服的象",
+  "title_raw": "被驯服的象",
+  "version": null,
+  "artist": "蔡健雅",
+  "group_key": "被驯服的象|蔡健雅",
+  "writers": {
+    "lyricist": "elephant DEE 徐熙娣",
+    "composer": "蔡健雅",
+    "arranger": "蔡健雅/Doug Petty/Butch Norton/Jon Ossman/Mick Taras"
+  },
+  "lyrics": [
+    {
+      "time": 22.95,
+      "time_str": "00:22.950",
+      "text": "到底要笑得多虚伪",
+      "translation": null
+    },
+    {
+      "time": 25.67,
+      "time_str": "00:25.670",
+      "text": "才能够融入这世界",
+      "translation": null
+    },
+    {
+      "time": 28.37,
+      "time_str": "00:28.370",
+      "text": "每个人的脸上都像是",
+      "translation": null
+    },
+    {
+      "time": 31.14,
+      "time_str": "00:31.140",
+      "text": "贴了张一样的假面",
+      "translation": null
+    },
+    {
+      "time": 33.91,
+      "time_str": "00:33.910",
+      "text": "想不起我在做什么",
+      "translation": null
+    },
+    {
+      "time": 36.6,
+      "time_str": "00:36.600",
+      "text": "想不起我在想什么",
+      "translation": null
+    },
+    {
+      "time": 39.28,
+      "time_str": "00:39.280",
+      "text": "想不起灵魂深处",
+      "translation": null
+    },
+    {
+      "time": 41.0,
+      "time_str": "00:41.000",
+      "text": "到底发生了什么",
+      "translation": null
+    },
+    {
+      "time": 44.05,
+      "time_str": "00:44.050",
+      "text": "迷雾 迷雾 在迷雾",
+      "translation": null
+    },
+    {
+      "time": 46.4,
+      "time_str": "00:46.400",
+      "text": "我惊觉自己在原地踏步",
+      "translation": null
+    },
+    {
+      "time": 49.08,
+      "time_str": "00:49.080",
+      "text": "到底是谁把我 心蒙住",
+      "translation": null
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "不想再糊涂",
+      "translation": null
+    },
+    {
+      "time": 54.89,
+      "time_str": "00:54.890",
+      "text": "迷路 迷路 迷了路",
+      "translation": null
+    },
+    {
+      "time": 57.19,
+      "time_str": "00:57.190",
+      "text": "我就彻底被这团迷雾困住",
+      "translation": null
+    },
+    {
+      "time": 60.08,
+      "time_str": "01:00.080",
+      "text": "谁能够指引我 一条路",
+      "translation": null
+    },
+    {
+      "time": 63.0,
+      "time_str": "01:03.000",
+      "text": "带我走上正途",
+      "translation": null
+    },
+    {
+      "time": 77.54,
+      "time_str": "01:17.540",
+      "text": "装不出融入的态度",
+      "translation": null
+    },
+    {
+      "time": 80.3,
+      "time_str": "01:20.300",
+      "text": "空气里充斥着虚无",
+      "translation": null
+    },
+    {
+      "time": 83.0,
+      "time_str": "01:23.000",
+      "text": "说什么都掩饰不了",
+      "translation": null
+    },
+    {
+      "time": 85.44,
+      "time_str": "01:25.440",
+      "text": "我这局外人的局促",
+      "translation": null
+    },
+    {
+      "time": 88.47,
+      "time_str": "01:28.470",
+      "text": "想不通自己怎么了",
+      "translation": null
+    },
+    {
+      "time": 91.14,
+      "time_str": "01:31.140",
+      "text": "想不通世界怎么了",
+      "translation": null
+    },
+    {
+      "time": 93.88,
+      "time_str": "01:33.880",
+      "text": "想不通心灵深处",
+      "translation": null
+    },
+    {
+      "time": 95.43,
+      "time_str": "01:35.430",
+      "text": "到底变成什么了",
+      "translation": null
+    },
+    {
+      "time": 98.62,
+      "time_str": "01:38.620",
+      "text": "迷雾 迷雾 在迷雾",
+      "translation": null
+    },
+    {
+      "time": 100.89,
+      "time_str": "01:40.890",
+      "text": "我惊觉自己在原地踏步",
+      "translation": null
+    },
+    {
+      "time": 103.67,
+      "time_str": "01:43.670",
+      "text": "到底是谁把我 心蒙住",
+      "translation": null
+    },
+    {
+      "time": 106.3,
+      "time_str": "01:46.300",
+      "text": "不想再糊涂",
+      "translation": null
+    },
+    {
+      "time": 109.56,
+      "time_str": "01:49.560",
+      "text": "迷路 迷路 迷了路",
+      "translation": null
+    },
+    {
+      "time": 111.83,
+      "time_str": "01:51.830",
+      "text": "我就彻底被这团迷雾困住",
+      "translation": null
+    },
+    {
+      "time": 114.61,
+      "time_str": "01:54.610",
+      "text": "谁能够指引我 一条路",
+      "translation": null
+    },
+    {
+      "time": 117.26,
+      "time_str": "01:57.260",
+      "text": "走上正途",
+      "translation": null
+    },
+    {
+      "time": 120.54,
+      "time_str": "02:00.540",
+      "text": "掌声 若需要掌声",
+      "translation": null
+    },
+    {
+      "time": 125.0,
+      "time_str": "02:05.000",
+      "text": "只要你愿当被驯服的象",
+      "translation": null
+    },
+    {
+      "time": 128.21,
+      "time_str": "02:08.210",
+      "text": "这舞台你就可以上",
+      "translation": null
+    },
+    {
+      "time": 131.36,
+      "time_str": "02:11.360",
+      "text": "荣耀 胜过被嘲笑",
+      "translation": null
+    },
+    {
+      "time": 135.93,
+      "time_str": "02:15.930",
+      "text": "所以抛开自尊",
+      "translation": null
+    },
+    {
+      "time": 139.34,
+      "time_str": "02:19.340",
+      "text": "咬紧牙根硬撑",
+      "translation": null
+    },
+    {
+      "time": 142.29,
+      "time_str": "02:22.290",
+      "text": "迷雾 迷雾 在迷雾",
+      "translation": null
+    },
+    {
+      "time": 144.55,
+      "time_str": "02:24.550",
+      "text": "我惊觉自己在原地踏步",
+      "translation": null
+    },
+    {
+      "time": 147.27,
+      "time_str": "02:27.270",
+      "text": "到底是谁把我 心蒙住",
+      "translation": null
+    },
+    {
+      "time": 150.0,
+      "time_str": "02:30.000",
+      "text": "不想再糊涂",
+      "translation": null
+    },
+    {
+      "time": 153.16,
+      "time_str": "02:33.160",
+      "text": "迷路 迷路 迷了路",
+      "translation": null
+    },
+    {
+      "time": 155.41,
+      "time_str": "02:35.410",
+      "text": "我就彻底被这团迷雾困住",
+      "translation": null
+    },
+    {
+      "time": 158.25,
+      "time_str": "02:38.250",
+      "text": "谁能够指引我 一条路",
+      "translation": null
+    },
+    {
+      "time": 161.0,
+      "time_str": "02:41.000",
+      "text": "带我走上正途",
+      "translation": null
+    },
+    {
+      "time": 164.05,
+      "time_str": "02:44.050",
+      "text": "迷路 迷路 迷了路",
+      "translation": null
+    },
+    {
+      "time": 166.34,
+      "time_str": "02:46.340",
+      "text": "我就彻底被这团迷雾困住",
+      "translation": null
+    },
+    {
+      "time": 169.09,
+      "time_str": "02:49.090",
+      "text": "谁能够指引我 一条路",
+      "translation": null
+    },
+    {
+      "time": 172.0,
+      "time_str": "02:52.000",
+      "text": "带我走上正途",
+      "translation": null
+    },
+    {
+      "time": 177.71,
+      "time_str": "02:57.710",
+      "text": "在迷雾 在迷雾 在迷雾",
+      "translation": null
+    },
+    {
+      "time": 183.19,
+      "time_str": "03:03.190",
+      "text": "迷了路 迷了路 迷了路",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "被驯服的象 - 蔡健雅.lrc"
+}

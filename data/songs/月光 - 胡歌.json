@@ -1,0 +1,184 @@
+{
+  "title": "月光",
+  "title_raw": "月光",
+  "version": null,
+  "artist": "胡歌",
+  "group_key": "月光|胡歌",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.59,
+      "time_str": "00:24.590",
+      "text": "重复地听着这首歌",
+      "translation": null
+    },
+    {
+      "time": 30.345,
+      "time_str": "00:30.345",
+      "text": "自己难过自己泪流",
+      "translation": null
+    },
+    {
+      "time": 36.687,
+      "time_str": "00:36.687",
+      "text": "茉莉花随着风飘落",
+      "translation": null
+    },
+    {
+      "time": 42.343,
+      "time_str": "00:42.343",
+      "text": "回家的路一个人走过",
+      "translation": null
+    },
+    {
+      "time": 48.671,
+      "time_str": "00:48.671",
+      "text": "也许是哪里走错",
+      "translation": null
+    },
+    {
+      "time": 54.65,
+      "time_str": "00:54.650",
+      "text": "路的尽头没有人等我",
+      "translation": null
+    },
+    {
+      "time": 60.629,
+      "time_str": "01:00.629",
+      "text": "岁月总是擦肩而过",
+      "translation": null
+    },
+    {
+      "time": 66.212,
+      "time_str": "01:06.212",
+      "text": "流星划过什么也不留",
+      "translation": null
+    },
+    {
+      "time": 77.116,
+      "time_str": "01:17.116",
+      "text": "月光之下我们哭过笑过",
+      "translation": null
+    },
+    {
+      "time": 83.212,
+      "time_str": "01:23.212",
+      "text": "月光之下你曾说你爱我",
+      "translation": null
+    },
+    {
+      "time": 89.088,
+      "time_str": "01:29.088",
+      "text": "风雨再大我会一直握着你的手",
+      "translation": null
+    },
+    {
+      "time": 96.326,
+      "time_str": "01:36.326",
+      "text": "呵护着你不让你走",
+      "translation": null
+    },
+    {
+      "time": 102.764,
+      "time_str": "01:42.764",
+      "text": "重复地听着这首歌",
+      "translation": null
+    },
+    {
+      "time": 108.277,
+      "time_str": "01:48.277",
+      "text": "自己难过一个人泪流",
+      "translation": null
+    },
+    {
+      "time": 141.619,
+      "time_str": "02:21.619",
+      "text": "重复地听着这首歌",
+      "translation": null
+    },
+    {
+      "time": 147.271,
+      "time_str": "02:27.271",
+      "text": "自己难过自己泪流",
+      "translation": null
+    },
+    {
+      "time": 153.695,
+      "time_str": "02:33.695",
+      "text": "茉莉花随着风飘落",
+      "translation": null
+    },
+    {
+      "time": 159.285,
+      "time_str": "02:39.285",
+      "text": "回家的路一个人走过",
+      "translation": null
+    },
+    {
+      "time": 165.53,
+      "time_str": "02:45.530",
+      "text": "也许是哪里走错",
+      "translation": null
+    },
+    {
+      "time": 171.588,
+      "time_str": "02:51.588",
+      "text": "路的尽头没有人等我",
+      "translation": null
+    },
+    {
+      "time": 177.638,
+      "time_str": "02:57.638",
+      "text": "岁月总是擦肩而过",
+      "translation": null
+    },
+    {
+      "time": 183.377,
+      "time_str": "03:03.377",
+      "text": "流星划过什么也不留",
+      "translation": null
+    },
+    {
+      "time": 194.255,
+      "time_str": "03:14.255",
+      "text": "月光之下我们哭过笑过",
+      "translation": null
+    },
+    {
+      "time": 200.216,
+      "time_str": "03:20.216",
+      "text": "月光之下你曾说你爱我",
+      "translation": null
+    },
+    {
+      "time": 206.116,
+      "time_str": "03:26.116",
+      "text": "风雨再大我会一直握着你的手",
+      "translation": null
+    },
+    {
+      "time": 213.311,
+      "time_str": "03:33.311",
+      "text": "呵护着你不让你走",
+      "translation": null
+    },
+    {
+      "time": 219.636,
+      "time_str": "03:39.636",
+      "text": "重复地听着这首歌",
+      "translation": null
+    },
+    {
+      "time": 225.233,
+      "time_str": "03:45.233",
+      "text": "自己难过一个人泪流",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月光 - 胡歌.lrc"
+}

@@ -1,0 +1,274 @@
+{
+  "title": "说好的幸福呢",
+  "title_raw": "说好的幸福呢",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "说好的幸福呢|周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "弦乐编写 : 钟兴民",
+      "translation": null
+    },
+    {
+      "time": 13.0,
+      "time_str": "00:13.000",
+      "text": "中提琴 : 颜琬蕙",
+      "translation": null
+    },
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "大提琴 : 罗月廷",
+      "translation": null
+    },
+    {
+      "time": 20.4,
+      "time_str": "00:20.400",
+      "text": "你的回话凌乱着 在这个时刻",
+      "translation": null
+    },
+    {
+      "time": 29.639,
+      "time_str": "00:29.639",
+      "text": "我想起喷泉旁的白鸽 甜蜜散落了",
+      "translation": null
+    },
+    {
+      "time": 37.99,
+      "time_str": "00:37.990",
+      "text": "情绪莫名的拉扯 我还爱你呢",
+      "translation": null
+    },
+    {
+      "time": 45.949,
+      "time_str": "00:45.949",
+      "text": "而你断断续续唱着歌 假装没事了",
+      "translation": null
+    },
+    {
+      "time": 53.609,
+      "time_str": "00:53.609",
+      "text": "时间过了 走了 爱情面临选择",
+      "translation": null
+    },
+    {
+      "time": 58.899,
+      "time_str": "00:58.899",
+      "text": "你冷了 倦了 我哭了",
+      "translation": null
+    },
+    {
+      "time": 62.549,
+      "time_str": "01:02.549",
+      "text": "离开时的不快乐 你用卡片手写着",
+      "translation": null
+    },
+    {
+      "time": 65.989,
+      "time_str": "01:05.989",
+      "text": "有些爱只给到这 真的痛了",
+      "translation": null
+    },
+    {
+      "time": 72.489,
+      "time_str": "01:12.489",
+      "text": "怎么了 你累了说好的 幸福呢",
+      "translation": null
+    },
+    {
+      "time": 75.669,
+      "time_str": "01:15.669",
+      "text": "我懂了 不说了 爱淡了 梦远了",
+      "translation": null
+    },
+    {
+      "time": 80.399,
+      "time_str": "01:20.399",
+      "text": "开心与不开心一一细数着你再不舍",
+      "translation": null
+    },
+    {
+      "time": 84.429,
+      "time_str": "01:24.429",
+      "text": "那些爱过的感觉都太深刻 我都还记得",
+      "translation": null
+    },
+    {
+      "time": 88.449,
+      "time_str": "01:28.449",
+      "text": "你不等了 说好的 幸福呢",
+      "translation": null
+    },
+    {
+      "time": 93.019,
+      "time_str": "01:33.019",
+      "text": "我错了 泪干了 放手了 后悔了",
+      "translation": null
+    },
+    {
+      "time": 96.999,
+      "time_str": "01:36.999",
+      "text": "只是回忆的音乐盒还旋转着 要怎么停呢",
+      "translation": null
+    },
+    {
+      "time": 113.909,
+      "time_str": "01:53.909",
+      "text": "你的回话凌乱着 在这个时刻",
+      "translation": null
+    },
+    {
+      "time": 123.689,
+      "time_str": "02:03.689",
+      "text": "我想起喷泉旁的白鸽 甜蜜散落了",
+      "translation": null
+    },
+    {
+      "time": 132.01,
+      "time_str": "02:12.010",
+      "text": "情绪莫名的拉扯 我还爱你呢",
+      "translation": null
+    },
+    {
+      "time": 138.05,
+      "time_str": "02:18.050",
+      "text": "而你断断续续唱着歌 假装没事了",
+      "translation": null
+    },
+    {
+      "time": 147.67,
+      "time_str": "02:27.670",
+      "text": "时间过了 走了 爱情面临选择",
+      "translation": null
+    },
+    {
+      "time": 152.36,
+      "time_str": "02:32.360",
+      "text": "你冷了 倦了 我哭了",
+      "translation": null
+    },
+    {
+      "time": 156.89,
+      "time_str": "02:36.890",
+      "text": "离开时的不快乐 你用卡片手写着",
+      "translation": null
+    },
+    {
+      "time": 159.52,
+      "time_str": "02:39.520",
+      "text": "有些爱只给到这真的痛了",
+      "translation": null
+    },
+    {
+      "time": 165.99,
+      "time_str": "02:45.990",
+      "text": "怎么了 你累了 说好的 幸福呢",
+      "translation": null
+    },
+    {
+      "time": 170.5,
+      "time_str": "02:50.500",
+      "text": "我懂了 不说了 爱淡了 梦远了",
+      "translation": null
+    },
+    {
+      "time": 174.31,
+      "time_str": "02:54.310",
+      "text": "开心与不开心一一细数着你在不舍",
+      "translation": null
+    },
+    {
+      "time": 178.39,
+      "time_str": "02:58.390",
+      "text": "那些爱过的感觉都太深刻 我都还记得",
+      "translation": null
+    },
+    {
+      "time": 183.27,
+      "time_str": "03:03.270",
+      "text": "你不等了 说好的幸福呢",
+      "translation": null
+    },
+    {
+      "time": 186.58,
+      "time_str": "03:06.580",
+      "text": "我错了 泪干了 放手了 后悔了",
+      "translation": null
+    },
+    {
+      "time": 190.58,
+      "time_str": "03:10.580",
+      "text": "只是回忆的音乐盒还旋转着",
+      "translation": null
+    },
+    {
+      "time": 193.43,
+      "time_str": "03:13.430",
+      "text": "要怎么停呢",
+      "translation": null
+    },
+    {
+      "time": 198.56,
+      "time_str": "03:18.560",
+      "text": "怎么了 你累了 说好的 幸福呢",
+      "translation": null
+    },
+    {
+      "time": 206.8,
+      "time_str": "03:26.800",
+      "text": "我懂了 不说了 爱淡了 梦远了 我都还记得",
+      "translation": null
+    },
+    {
+      "time": 216.0,
+      "time_str": "03:36.000",
+      "text": "你不等了 说好的幸福呢",
+      "translation": null
+    },
+    {
+      "time": 219.59,
+      "time_str": "03:39.590",
+      "text": "我错了 泪干了 放手了 后悔了",
+      "translation": null
+    },
+    {
+      "time": 222.82,
+      "time_str": "03:42.820",
+      "text": "只是回忆的音乐盒还旋转着",
+      "translation": null
+    },
+    {
+      "time": 227.4,
+      "time_str": "03:47.400",
+      "text": "要怎么停呢",
+      "translation": null
+    },
+    {
+      "time": 251.72,
+      "time_str": "04:11.720",
+      "text": "Violin 1st：郑泽勋",
+      "translation": null
+    },
+    {
+      "time": 253.72,
+      "time_str": "04:13.720",
+      "text": "Violin 2nd：陈晏榕",
+      "translation": null
+    },
+    {
+      "time": 255.72,
+      "time_str": "04:15.720",
+      "text": "弦乐Editing：痞克四小颖",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "说好的幸福呢 - 周杰伦.lrc"
+}

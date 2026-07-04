@@ -1,0 +1,292 @@
+{
+  "title": "如果这都不算爱",
+  "title_raw": "如果这都不算爱",
+  "version": null,
+  "artist": "伍佰 & China Blue",
+  "group_key": "如果这都不算爱|伍佰 & china blue",
+  "writers": {
+    "lyricist": "李焯雄",
+    "composer": "伍佰",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 39.0,
+      "time_str": "00:39.000",
+      "text": "是否爱就得忍耐",
+      "translation": null
+    },
+    {
+      "time": 41.95,
+      "time_str": "00:41.950",
+      "text": "不问该不该",
+      "translation": null
+    },
+    {
+      "time": 46.6,
+      "time_str": "00:46.600",
+      "text": "都怪我没能耐",
+      "translation": null
+    },
+    {
+      "time": 49.55,
+      "time_str": "00:49.550",
+      "text": "转身走开",
+      "translation": null
+    },
+    {
+      "time": 54.55,
+      "time_str": "00:54.550",
+      "text": "难道牺牲才精彩",
+      "translation": null
+    },
+    {
+      "time": 57.55,
+      "time_str": "00:57.550",
+      "text": "伤痛才实在",
+      "translation": null
+    },
+    {
+      "time": 59.95,
+      "time_str": "00:59.950",
+      "text": "要为你流下泪来",
+      "translation": null
+    },
+    {
+      "time": 65.1,
+      "time_str": "01:05.100",
+      "text": "才证明是爱",
+      "translation": null
+    },
+    {
+      "time": 68.85,
+      "time_str": "01:08.850",
+      "text": "如果这都不算爱",
+      "translation": null
+    },
+    {
+      "time": 72.45,
+      "time_str": "01:12.450",
+      "text": "我有什么好悲哀",
+      "translation": null
+    },
+    {
+      "time": 76.62,
+      "time_str": "01:16.620",
+      "text": "谢谢你的慷慨",
+      "translation": null
+    },
+    {
+      "time": 79.31,
+      "time_str": "01:19.310",
+      "text": "是我自己活该",
+      "translation": null
+    },
+    {
+      "time": 84.6,
+      "time_str": "01:24.600",
+      "text": "如果这都不算爱",
+      "translation": null
+    },
+    {
+      "time": 87.68,
+      "time_str": "01:27.680",
+      "text": "我有什么好悲哀",
+      "translation": null
+    },
+    {
+      "time": 91.7,
+      "time_str": "01:31.700",
+      "text": "你只要被期待",
+      "translation": null
+    },
+    {
+      "time": 94.4,
+      "time_str": "01:34.400",
+      "text": "不要真正去爱",
+      "translation": null
+    },
+    {
+      "time": 97.6,
+      "time_str": "01:37.600",
+      "text": "Oh no!",
+      "translation": null
+    },
+    {
+      "time": 130.849,
+      "time_str": "02:10.849",
+      "text": "还要怎样的表白",
+      "translation": null
+    },
+    {
+      "time": 133.599,
+      "time_str": "02:13.599",
+      "text": "才不算独白",
+      "translation": null
+    },
+    {
+      "time": 138.349,
+      "time_str": "02:18.349",
+      "text": "都怪我没能耐",
+      "translation": null
+    },
+    {
+      "time": 141.99,
+      "time_str": "02:21.990",
+      "text": "转身走开",
+      "translation": null
+    },
+    {
+      "time": 145.999,
+      "time_str": "02:25.999",
+      "text": "难道牺牲才精彩",
+      "translation": null
+    },
+    {
+      "time": 148.749,
+      "time_str": "02:28.749",
+      "text": "伤痛才实在",
+      "translation": null
+    },
+    {
+      "time": 151.299,
+      "time_str": "02:31.299",
+      "text": "要为你流下泪来",
+      "translation": null
+    },
+    {
+      "time": 156.299,
+      "time_str": "02:36.299",
+      "text": "才证明是爱",
+      "translation": null
+    },
+    {
+      "time": 160.999,
+      "time_str": "02:40.999",
+      "text": "你的感情太易割爱",
+      "translation": null
+    },
+    {
+      "time": 165.249,
+      "time_str": "02:45.249",
+      "text": "把未来转眼就删改",
+      "translation": null
+    },
+    {
+      "time": 168.949,
+      "time_str": "02:48.949",
+      "text": "我的心却为你",
+      "translation": null
+    },
+    {
+      "time": 171.649,
+      "time_str": "02:51.649",
+      "text": "空白了一块",
+      "translation": null
+    },
+    {
+      "time": 175.599,
+      "time_str": "02:55.599",
+      "text": "如果这都不算爱",
+      "translation": null
+    },
+    {
+      "time": 179.249,
+      "time_str": "02:59.249",
+      "text": "我有什么好悲哀",
+      "translation": null
+    },
+    {
+      "time": 182.999,
+      "time_str": "03:02.999",
+      "text": "谢谢你的慷慨",
+      "translation": null
+    },
+    {
+      "time": 185.619,
+      "time_str": "03:05.619",
+      "text": "是我自己活该",
+      "translation": null
+    },
+    {
+      "time": 190.549,
+      "time_str": "03:10.549",
+      "text": "如果这都不算爱",
+      "translation": null
+    },
+    {
+      "time": 194.499,
+      "time_str": "03:14.499",
+      "text": "我有什么好悲哀",
+      "translation": null
+    },
+    {
+      "time": 198.449,
+      "time_str": "03:18.449",
+      "text": "你要的是崇拜",
+      "translation": null
+    },
+    {
+      "time": 200.849,
+      "time_str": "03:20.849",
+      "text": "并不是谁的爱",
+      "translation": null
+    },
+    {
+      "time": 204.39,
+      "time_str": "03:24.390",
+      "text": "Oh no!",
+      "translation": null
+    },
+    {
+      "time": 206.899,
+      "time_str": "03:26.899",
+      "text": "是否爱就得忍耐",
+      "translation": null
+    },
+    {
+      "time": 209.849,
+      "time_str": "03:29.849",
+      "text": "不问该不该",
+      "translation": null
+    },
+    {
+      "time": 214.249,
+      "time_str": "03:34.249",
+      "text": "都怪我没能耐",
+      "translation": null
+    },
+    {
+      "time": 217.249,
+      "time_str": "03:37.249",
+      "text": "转身走开",
+      "translation": null
+    },
+    {
+      "time": 222.99,
+      "time_str": "03:42.990",
+      "text": "难道牺牲才精彩",
+      "translation": null
+    },
+    {
+      "time": 224.639,
+      "time_str": "03:44.639",
+      "text": "伤痛才实在",
+      "translation": null
+    },
+    {
+      "time": 227.699,
+      "time_str": "03:47.699",
+      "text": "要为你流下泪来",
+      "translation": null
+    },
+    {
+      "time": 232.849,
+      "time_str": "03:52.849",
+      "text": "才证明是爱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "如果这都不算爱 - 伍佰 & China Blue.lrc"
+}

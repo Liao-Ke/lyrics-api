@@ -1,0 +1,226 @@
+{
+  "title": "她说",
+  "title_raw": "她说",
+  "version": null,
+  "artist": "林俊杰",
+  "group_key": "她说|林俊杰",
+  "writers": {
+    "lyricist": "孙燕姿",
+    "composer": "林俊杰",
+    "arranger": "蔡政勋"
+  },
+  "lyrics": [
+    {
+      "time": 25.63,
+      "time_str": "00:25.630",
+      "text": "他静悄悄地来过",
+      "translation": null
+    },
+    {
+      "time": 30.81,
+      "time_str": "00:30.810",
+      "text": "他慢慢带走沉默",
+      "translation": null
+    },
+    {
+      "time": 36.69,
+      "time_str": "00:36.690",
+      "text": "只是最后的承诺",
+      "translation": null
+    },
+    {
+      "time": 42.59,
+      "time_str": "00:42.590",
+      "text": "还是没有带走了寂寞",
+      "translation": null
+    },
+    {
+      "time": 48.33,
+      "time_str": "00:48.330",
+      "text": "我们爱的没有错",
+      "translation": null
+    },
+    {
+      "time": 53.72,
+      "time_str": "00:53.720",
+      "text": "只是美丽的独秀太折磨",
+      "translation": null
+    },
+    {
+      "time": 60.33,
+      "time_str": "01:00.330",
+      "text": "她说无所谓",
+      "translation": null
+    },
+    {
+      "time": 65.17,
+      "time_str": "01:05.170",
+      "text": "只要能在夜里 翻来覆去的时候有寄托",
+      "translation": null
+    },
+    {
+      "time": 71.71,
+      "time_str": "01:11.710",
+      "text": "等不到天黑 烟火不会太完美",
+      "translation": null
+    },
+    {
+      "time": 77.1,
+      "time_str": "01:17.100",
+      "text": "回忆烧成灰 还是等不到结尾",
+      "translation": null
+    },
+    {
+      "time": 83.45,
+      "time_str": "01:23.450",
+      "text": "她曾说的无所谓 我怕一天一天被摧毁",
+      "translation": null
+    },
+    {
+      "time": 94.13,
+      "time_str": "01:34.130",
+      "text": "等不到天黑 不敢凋谢的花蕾",
+      "translation": null
+    },
+    {
+      "time": 99.7,
+      "time_str": "01:39.700",
+      "text": "绿叶在跟随 放开刺痛的滋味",
+      "translation": null
+    },
+    {
+      "time": 104.75,
+      "time_str": "01:44.750",
+      "text": "今后不再怕天明 我想只是害怕清醒",
+      "translation": null
+    },
+    {
+      "time": 143.69,
+      "time_str": "02:23.690",
+      "text": "他静悄悄地来过",
+      "translation": null
+    },
+    {
+      "time": 149.92,
+      "time_str": "02:29.920",
+      "text": "他慢慢带走沉默",
+      "translation": null
+    },
+    {
+      "time": 155.49,
+      "time_str": "02:35.490",
+      "text": "只是最后的承诺",
+      "translation": null
+    },
+    {
+      "time": 160.9,
+      "time_str": "02:40.900",
+      "text": "还是没有带走了寂寞",
+      "translation": null
+    },
+    {
+      "time": 166.84,
+      "time_str": "02:46.840",
+      "text": "我们爱的没有错",
+      "translation": null
+    },
+    {
+      "time": 172.32,
+      "time_str": "02:52.320",
+      "text": "只是美丽的独秀太折磨",
+      "translation": null
+    },
+    {
+      "time": 178.8,
+      "time_str": "02:58.800",
+      "text": "她说无所谓",
+      "translation": null
+    },
+    {
+      "time": 183.55,
+      "time_str": "03:03.550",
+      "text": "只要能在夜里 翻来覆去的时候有寄托",
+      "translation": null
+    },
+    {
+      "time": 190.26,
+      "time_str": "03:10.260",
+      "text": "等不到天黑 烟火不会太完美",
+      "translation": null
+    },
+    {
+      "time": 195.77,
+      "time_str": "03:15.770",
+      "text": "回忆烧成灰 还是等不到结尾",
+      "translation": null
+    },
+    {
+      "time": 201.97,
+      "time_str": "03:21.970",
+      "text": "她曾说的无所谓 我怕一天一天被摧毁",
+      "translation": null
+    },
+    {
+      "time": 212.62,
+      "time_str": "03:32.620",
+      "text": "等不到天黑 不敢凋谢的花蕾",
+      "translation": null
+    },
+    {
+      "time": 218.39,
+      "time_str": "03:38.390",
+      "text": "绿叶在跟随 放开刺痛的滋味",
+      "translation": null
+    },
+    {
+      "time": 223.39,
+      "time_str": "03:43.390",
+      "text": "今后不再怕天明 我想只是害怕清醒",
+      "translation": null
+    },
+    {
+      "time": 235.25,
+      "time_str": "03:55.250",
+      "text": "等不到天黑 烟火不会太完美",
+      "translation": null
+    },
+    {
+      "time": 240.89,
+      "time_str": "04:00.890",
+      "text": "回忆烧成灰 还是等不到结尾",
+      "translation": null
+    },
+    {
+      "time": 247.14,
+      "time_str": "04:07.140",
+      "text": "她曾说的无所谓 我怕一天一天被摧毁",
+      "translation": null
+    },
+    {
+      "time": 257.88,
+      "time_str": "04:17.880",
+      "text": "等不到天黑 不敢凋谢的花蕾",
+      "translation": null
+    },
+    {
+      "time": 263.59,
+      "time_str": "04:23.590",
+      "text": "绿叶在跟随 放开刺痛的滋味",
+      "translation": null
+    },
+    {
+      "time": 268.49,
+      "time_str": "04:28.490",
+      "text": "今后不再怕天明 我想只是害怕清醒",
+      "translation": null
+    },
+    {
+      "time": 280.52,
+      "time_str": "04:40.520",
+      "text": "不怕天明 我想只是害怕清醒",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "她说 - 林俊杰.lrc"
+}

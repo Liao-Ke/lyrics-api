@@ -1,0 +1,232 @@
+{
+  "title": "如果没有你",
+  "title_raw": "如果没有你",
+  "version": null,
+  "artist": "莫文蔚",
+  "group_key": "如果没有你|莫文蔚",
+  "writers": {
+    "lyricist": "李焯雄",
+    "composer": "左安安",
+    "arranger": "周恒毅"
+  },
+  "lyrics": [
+    {
+      "time": 34.35,
+      "time_str": "00:34.350",
+      "text": "Hey 我真的好想你",
+      "translation": null
+    },
+    {
+      "time": 41.25,
+      "time_str": "00:41.250",
+      "text": "现在窗外面 又开始下着雨",
+      "translation": null
+    },
+    {
+      "time": 49.77,
+      "time_str": "00:49.770",
+      "text": "眼睛干干的 有想哭的心情",
+      "translation": null
+    },
+    {
+      "time": 56.5,
+      "time_str": "00:56.500",
+      "text": "不知道你现在 到底在哪里",
+      "translation": null
+    },
+    {
+      "time": 64.62,
+      "time_str": "01:04.620",
+      "text": "Hey 我真的好想你",
+      "translation": null
+    },
+    {
+      "time": 71.78,
+      "time_str": "01:11.780",
+      "text": "太多的情绪 没适当的表情",
+      "translation": null
+    },
+    {
+      "time": 80.33,
+      "time_str": "01:20.330",
+      "text": "最想说的话 我该从何说起",
+      "translation": null
+    },
+    {
+      "time": 87.0,
+      "time_str": "01:27.000",
+      "text": "你是否也像我一样 在想你",
+      "translation": null
+    },
+    {
+      "time": 94.66,
+      "time_str": "01:34.660",
+      "text": "如果没有你",
+      "translation": null
+    },
+    {
+      "time": 97.12,
+      "time_str": "01:37.120",
+      "text": "没有过去 我不会有伤心",
+      "translation": null
+    },
+    {
+      "time": 102.2,
+      "time_str": "01:42.200",
+      "text": "但是有如果 还是要爱你",
+      "translation": null
+    },
+    {
+      "time": 109.89,
+      "time_str": "01:49.890",
+      "text": "如果没有你",
+      "translation": null
+    },
+    {
+      "time": 112.27,
+      "time_str": "01:52.270",
+      "text": "我在哪里 又有什么可惜",
+      "translation": null
+    },
+    {
+      "time": 117.35,
+      "time_str": "01:57.350",
+      "text": "反正一切来不及",
+      "translation": null
+    },
+    {
+      "time": 121.21,
+      "time_str": "02:01.210",
+      "text": "反正没有了自己",
+      "translation": null
+    },
+    {
+      "time": 126.44,
+      "time_str": "02:06.440",
+      "text": "Hey 我真的好想你",
+      "translation": null
+    },
+    {
+      "time": 132.65,
+      "time_str": "02:12.650",
+      "text": "不知道你现在 到底在哪里",
+      "translation": null
+    },
+    {
+      "time": 152.34,
+      "time_str": "02:32.340",
+      "text": "Hey 我真的好想你",
+      "translation": null
+    },
+    {
+      "time": 159.27,
+      "time_str": "02:39.270",
+      "text": "现在窗外面 又开始下着雨",
+      "translation": null
+    },
+    {
+      "time": 167.85,
+      "time_str": "02:47.850",
+      "text": "眼睛干干的 有想哭的心情",
+      "translation": null
+    },
+    {
+      "time": 174.57,
+      "time_str": "02:54.570",
+      "text": "不知道你现在 到底在哪里",
+      "translation": null
+    },
+    {
+      "time": 182.72,
+      "time_str": "03:02.720",
+      "text": "Hey 我真的好想你",
+      "translation": null
+    },
+    {
+      "time": 189.77,
+      "time_str": "03:09.770",
+      "text": "太多的情绪 没适当的表情",
+      "translation": null
+    },
+    {
+      "time": 198.31,
+      "time_str": "03:18.310",
+      "text": "最想说的话 我应该从何说起",
+      "translation": null
+    },
+    {
+      "time": 204.95,
+      "time_str": "03:24.950",
+      "text": "你是否也像我一样 在想你",
+      "translation": null
+    },
+    {
+      "time": 212.66,
+      "time_str": "03:32.660",
+      "text": "如果没有你",
+      "translation": null
+    },
+    {
+      "time": 215.03,
+      "time_str": "03:35.030",
+      "text": "没有过去 我不会有伤心",
+      "translation": null
+    },
+    {
+      "time": 220.22,
+      "time_str": "03:40.220",
+      "text": "但是有如果 还是要爱你",
+      "translation": null
+    },
+    {
+      "time": 227.78,
+      "time_str": "03:47.780",
+      "text": "如果没有你",
+      "translation": null
+    },
+    {
+      "time": 230.17,
+      "time_str": "03:50.170",
+      "text": "我在哪里 又有什么可惜",
+      "translation": null
+    },
+    {
+      "time": 235.37,
+      "time_str": "03:55.370",
+      "text": "反正一切来不及",
+      "translation": null
+    },
+    {
+      "time": 239.15,
+      "time_str": "03:59.150",
+      "text": "反正没有了自己",
+      "translation": null
+    },
+    {
+      "time": 244.05,
+      "time_str": "04:04.050",
+      "text": "Hey 我真的好想你",
+      "translation": null
+    },
+    {
+      "time": 250.41,
+      "time_str": "04:10.410",
+      "text": "不知道你现在 到底在哪里",
+      "translation": null
+    },
+    {
+      "time": 258.79,
+      "time_str": "04:18.790",
+      "text": "你是否也像我一样",
+      "translation": null
+    },
+    {
+      "time": 263.39,
+      "time_str": "04:23.390",
+      "text": "在想你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "如果没有你 - 莫文蔚.lrc"
+}

@@ -1,0 +1,316 @@
+{
+  "title": "有何不可",
+  "title_raw": "有何不可",
+  "version": null,
+  "artist": "许嵩",
+  "group_key": "有何不可|许嵩",
+  "writers": {
+    "lyricist": "许嵩",
+    "composer": "许嵩",
+    "arranger": "许嵩"
+  },
+  "lyrics": [
+    {
+      "time": 22.8,
+      "time_str": "00:22.80",
+      "text": "天空好想下雨",
+      "translation": null
+    },
+    {
+      "time": 25.42,
+      "time_str": "00:25.42",
+      "text": "我好想住你隔壁",
+      "translation": null
+    },
+    {
+      "time": 27.48,
+      "time_str": "00:27.48",
+      "text": "傻站在你家楼下",
+      "translation": null
+    },
+    {
+      "time": 29.76,
+      "time_str": "00:29.76",
+      "text": "抬起头 数乌云",
+      "translation": null
+    },
+    {
+      "time": 32.19,
+      "time_str": "00:32.19",
+      "text": "如果场景里出现一架钢琴",
+      "translation": null
+    },
+    {
+      "time": 34.43,
+      "time_str": "00:34.43",
+      "text": "我会唱歌给你听",
+      "translation": null
+    },
+    {
+      "time": 36.53,
+      "time_str": "00:36.53",
+      "text": "哪怕好多盆水往下淋",
+      "translation": null
+    },
+    {
+      "time": 41.52,
+      "time_str": "00:41.52",
+      "text": "夏天快要过去",
+      "translation": null
+    },
+    {
+      "time": 44.02,
+      "time_str": "00:44.02",
+      "text": "请你少买冰淇淋",
+      "translation": null
+    },
+    {
+      "time": 46.44,
+      "time_str": "00:46.44",
+      "text": "天凉就别穿短裙",
+      "translation": null
+    },
+    {
+      "time": 48.75,
+      "time_str": "00:48.75",
+      "text": "别再那么淘气",
+      "translation": null
+    },
+    {
+      "time": 51.06,
+      "time_str": "00:51.06",
+      "text": "如果有时不那么开心",
+      "translation": null
+    },
+    {
+      "time": 53.28,
+      "time_str": "00:53.28",
+      "text": "我愿意将格洛米借给你",
+      "translation": null
+    },
+    {
+      "time": 55.63,
+      "time_str": "00:55.63",
+      "text": "你其实明白我心意",
+      "translation": null
+    },
+    {
+      "time": 59.11,
+      "time_str": "00:59.11",
+      "text": "为你唱这首歌 没有什么风格",
+      "translation": null
+    },
+    {
+      "time": 63.47,
+      "time_str": "01:03.47",
+      "text": "它仅仅代表着 我想给你快乐",
+      "translation": null
+    },
+    {
+      "time": 68.2,
+      "time_str": "01:08.20",
+      "text": "为你解冻冰河 为你做一只扑火的飞蛾",
+      "translation": null
+    },
+    {
+      "time": 74.11,
+      "time_str": "01:14.11",
+      "text": "没有什么事情是不值得",
+      "translation": null
+    },
+    {
+      "time": 77.97,
+      "time_str": "01:17.97",
+      "text": "为你唱这首歌 没有什么风格",
+      "translation": null
+    },
+    {
+      "time": 82.44,
+      "time_str": "01:22.44",
+      "text": "它仅仅代表着 我希望你快乐",
+      "translation": null
+    },
+    {
+      "time": 87.12,
+      "time_str": "01:27.12",
+      "text": "为你辗转反侧 为你放弃世界有何不可",
+      "translation": null
+    },
+    {
+      "time": 93.01,
+      "time_str": "01:33.01",
+      "text": "夏末秋凉里带一点温热 有换季的颜色",
+      "translation": null
+    },
+    {
+      "time": 117.55,
+      "time_str": "01:57.550",
+      "text": "天空好想下雨",
+      "translation": null
+    },
+    {
+      "time": 120.25,
+      "time_str": "02:00.250",
+      "text": "我好想住你隔壁",
+      "translation": null
+    },
+    {
+      "time": 122.43,
+      "time_str": "02:02.430",
+      "text": "傻站在你家楼下",
+      "translation": null
+    },
+    {
+      "time": 124.57,
+      "time_str": "02:04.570",
+      "text": "抬起头 数乌云",
+      "translation": null
+    },
+    {
+      "time": 127.07,
+      "time_str": "02:07.070",
+      "text": "如果场景里出现一架钢琴",
+      "translation": null
+    },
+    {
+      "time": 129.32,
+      "time_str": "02:09.320",
+      "text": "我会唱歌给你听",
+      "translation": null
+    },
+    {
+      "time": 131.55,
+      "time_str": "02:11.550",
+      "text": "哪怕好多盆水往下淋",
+      "translation": null
+    },
+    {
+      "time": 136.11,
+      "time_str": "02:16.110",
+      "text": "夏天快要过去",
+      "translation": null
+    },
+    {
+      "time": 139.15,
+      "time_str": "02:19.150",
+      "text": "请你少买冰淇淋",
+      "translation": null
+    },
+    {
+      "time": 141.33,
+      "time_str": "02:21.330",
+      "text": "天凉就别穿短裙",
+      "translation": null
+    },
+    {
+      "time": 143.74,
+      "time_str": "02:23.740",
+      "text": "别再那么淘气",
+      "translation": null
+    },
+    {
+      "time": 145.9,
+      "time_str": "02:25.900",
+      "text": "如果有时不那么开心",
+      "translation": null
+    },
+    {
+      "time": 148.1,
+      "time_str": "02:28.100",
+      "text": "我愿意将格洛米借给你",
+      "translation": null
+    },
+    {
+      "time": 150.72,
+      "time_str": "02:30.720",
+      "text": "你其实明白我心意",
+      "translation": null
+    },
+    {
+      "time": 154.19,
+      "time_str": "02:34.190",
+      "text": "为你唱这首歌 没有什么风格",
+      "translation": null
+    },
+    {
+      "time": 158.41,
+      "time_str": "02:38.410",
+      "text": "它仅仅代表着 我想给你快乐",
+      "translation": null
+    },
+    {
+      "time": 163.4,
+      "time_str": "02:43.40",
+      "text": "为你解冻冰河 为你做一只扑火的飞蛾",
+      "translation": null
+    },
+    {
+      "time": 169.06,
+      "time_str": "02:49.06",
+      "text": "没有什么事情是不值得",
+      "translation": null
+    },
+    {
+      "time": 173.04,
+      "time_str": "02:53.04",
+      "text": "为你唱这首歌 没有什么风格",
+      "translation": null
+    },
+    {
+      "time": 177.52,
+      "time_str": "02:57.52",
+      "text": "它仅仅代表着 我希望你快乐",
+      "translation": null
+    },
+    {
+      "time": 182.12,
+      "time_str": "03:02.12",
+      "text": "为你辗转反侧 为你放弃世界有何不可",
+      "translation": null
+    },
+    {
+      "time": 188.37,
+      "time_str": "03:08.370",
+      "text": "夏末秋凉里带一点温热",
+      "translation": null
+    },
+    {
+      "time": 201.69,
+      "time_str": "03:21.690",
+      "text": "为你解冻冰河 为你做一只扑火的飞蛾",
+      "translation": null
+    },
+    {
+      "time": 207.28,
+      "time_str": "03:27.280",
+      "text": "没有什么事情是不值得",
+      "translation": null
+    },
+    {
+      "time": 211.23,
+      "time_str": "03:31.230",
+      "text": "为你唱这首歌 没有什么风格",
+      "translation": null
+    },
+    {
+      "time": 215.77,
+      "time_str": "03:35.770",
+      "text": "它仅仅代表着 我希望你快乐",
+      "translation": null
+    },
+    {
+      "time": 220.57,
+      "time_str": "03:40.570",
+      "text": "为你辗转反侧 为你放弃世界有何不可",
+      "translation": null
+    },
+    {
+      "time": 225.93,
+      "time_str": "03:45.930",
+      "text": "夏末秋凉里带一点温热 有换季的颜色",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "有何不可 - 许嵩.lrc"
+}

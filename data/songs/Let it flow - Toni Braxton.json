@@ -1,0 +1,280 @@
+{
+  "title": "Let it flow",
+  "title_raw": "Let it flow",
+  "version": null,
+  "artist": "Toni Braxton",
+  "group_key": "let it flow|toni braxton",
+  "writers": {
+    "lyricist": "Babyface",
+    "composer": "Babyface",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 35.33,
+      "time_str": "00:35.330",
+      "text": "First thing early monday morning",
+      "translation": "星期一早晨的第一件事"
+    },
+    {
+      "time": 38.3,
+      "time_str": "00:38.300",
+      "text": "I'm gonna pack my tears away",
+      "translation": "我要收起我的眼泪"
+    },
+    {
+      "time": 46.71,
+      "time_str": "00:46.710",
+      "text": "Got no cause to look back",
+      "translation": "已没有回头的理由了"
+    },
+    {
+      "time": 49.43,
+      "time_str": "00:49.430",
+      "text": "I'm lookin for me a better day",
+      "translation": "我在追寻更美好的未来"
+    },
+    {
+      "time": 57.11,
+      "time_str": "00:57.110",
+      "text": "You see the thing bout love",
+      "translation": "你感受到我的爱意"
+    },
+    {
+      "time": 59.83,
+      "time_str": "00:59.830",
+      "text": "Is that it's not enough",
+      "translation": "是不是还不够"
+    },
+    {
+      "time": 62.7,
+      "time_str": "01:02.700",
+      "text": "If the only thing it brings you is pain",
+      "translation": "如果带给你的只有痛苦"
+    },
+    {
+      "time": 68.52,
+      "time_str": "01:08.520",
+      "text": "There come a time when we could all make change",
+      "translation": "我们曾经有机会改变一切"
+    },
+    {
+      "time": 73.42,
+      "time_str": "01:13.420",
+      "text": "Just let go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 76.45,
+      "time_str": "01:16.450",
+      "text": "Let it flow, let it flow, let it flow",
+      "translation": "让他走3"
+    },
+    {
+      "time": 82.1,
+      "time_str": "01:22.100",
+      "text": "Everything's gonna work out right you know",
+      "translation": "你知道一切都会结束"
+    },
+    {
+      "time": 85.7,
+      "time_str": "01:25.700",
+      "text": "Just let go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 87.78,
+      "time_str": "01:27.780",
+      "text": "Let it flow, let it flow, let it flow",
+      "translation": "让他远去"
+    },
+    {
+      "time": 93.59,
+      "time_str": "01:33.590",
+      "text": "Just let it go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 98.8,
+      "time_str": "01:38.800",
+      "text": "Don't nobody want no broke heart",
+      "translation": "别再让任何人伤透你的心"
+    },
+    {
+      "time": 101.7,
+      "time_str": "01:41.700",
+      "text": "And don't nobody want no two time losers (no, no)",
+      "translation": "没人想在同一个人身上失败两次"
+    },
+    {
+      "time": 109.289,
+      "time_str": "01:49.289",
+      "text": "Aint nobody gonna love you like you are",
+      "translation": "世上总会有个人来爱你"
+    },
+    {
+      "time": 112.1,
+      "time_str": "01:52.100",
+      "text": "If you take whatever he brings your way",
+      "translation": "你该拿回他从你身上拿走的东西"
+    },
+    {
+      "time": 119.92,
+      "time_str": "01:59.920",
+      "text": "You see the thing of it",
+      "translation": "你看到的事情"
+    },
+    {
+      "time": 122.74,
+      "time_str": "02:02.740",
+      "text": "Is we deserve respect",
+      "translation": "我们是否值得尊重"
+    },
+    {
+      "time": 125.46,
+      "time_str": "02:05.460",
+      "text": "But we can't demand respect without change",
+      "translation": "但是没有改变就没有尊重"
+    },
+    {
+      "time": 131.24,
+      "time_str": "02:11.240",
+      "text": "There comes a time whe we must go our own way",
+      "translation": "这时候我们必须用自己的方式走下去"
+    },
+    {
+      "time": 136.2,
+      "time_str": "02:16.200",
+      "text": "Just let go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 139.15,
+      "time_str": "02:19.150",
+      "text": "Let it flow, let it flow, let it flow",
+      "translation": "让他走3"
+    },
+    {
+      "time": 144.94,
+      "time_str": "02:24.940",
+      "text": "Everything's gonna work out right you know",
+      "translation": "你知道一切都会结束"
+    },
+    {
+      "time": 147.88,
+      "time_str": "02:27.880",
+      "text": "Just let go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 149.16,
+      "time_str": "02:29.160",
+      "text": "Let it flow, let it flow, let it flow",
+      "translation": "让他走3"
+    },
+    {
+      "time": 156.329,
+      "time_str": "02:36.329",
+      "text": "Just let it go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 160.7,
+      "time_str": "02:40.700",
+      "text": "Sometimes love can work out right",
+      "translation": "有时候爱会让一切有结果"
+    },
+    {
+      "time": 166.46,
+      "time_str": "02:46.460",
+      "text": "Sometimes you'll never know it",
+      "translation": "但有时候你却不知道"
+    },
+    {
+      "time": 169.64,
+      "time_str": "02:49.640",
+      "text": "You're never ever gonna know it",
+      "translation": "也许你永远不会知道"
+    },
+    {
+      "time": 172.15,
+      "time_str": "02:52.150",
+      "text": "But if it brings you pain in your life",
+      "translation": "但如果他给你的生活只是带来痛苦"
+    },
+    {
+      "time": 176.63,
+      "time_str": "02:56.630",
+      "text": "Don't be afraid to let it go",
+      "translation": "不要害怕，放手吧"
+    },
+    {
+      "time": 181.97,
+      "time_str": "03:01.970",
+      "text": "Just let go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 185.2,
+      "time_str": "03:05.200",
+      "text": "Let it flow, let it flow, let it flow",
+      "translation": "让他走3"
+    },
+    {
+      "time": 190.6,
+      "time_str": "03:10.600",
+      "text": "Everything's gonna work out right you know",
+      "translation": "你知道一切都会结束"
+    },
+    {
+      "time": 193.47,
+      "time_str": "03:13.470",
+      "text": "Just let go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 196.61,
+      "time_str": "03:16.610",
+      "text": "Let it flow, let it flow, let it flow",
+      "translation": "让他走3"
+    },
+    {
+      "time": 202.1,
+      "time_str": "03:22.100",
+      "text": "Just let it go",
+      "translation": "就放手吧"
+    },
+    {
+      "time": 204.94,
+      "time_str": "03:24.940",
+      "text": "Just let go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 207.82,
+      "time_str": "03:27.820",
+      "text": "Let it flow, let it flow, let it flow",
+      "translation": "让他走3"
+    },
+    {
+      "time": 216.36,
+      "time_str": "03:36.360",
+      "text": "Just let go",
+      "translation": "放手吧"
+    },
+    {
+      "time": 219.3,
+      "time_str": "03:39.300",
+      "text": "Let it flow, let it flow, let it flow",
+      "translation": "让他走3"
+    },
+    {
+      "time": 225.5,
+      "time_str": "03:45.500",
+      "text": "Just let it go",
+      "translation": "就放手吧"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Let it flow - Toni Braxton.lrc"
+}

@@ -1,0 +1,286 @@
+{
+  "title": "天亮以后",
+  "title_raw": "天亮以后",
+  "version": null,
+  "artist": "胡歌",
+  "group_key": "天亮以后|胡歌",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 34.287,
+      "time_str": "00:34.287",
+      "text": "客栈前那一座桥",
+      "translation": null
+    },
+    {
+      "time": 38.324,
+      "time_str": "00:38.324",
+      "text": "或许我们都到不了",
+      "translation": null
+    },
+    {
+      "time": 41.683,
+      "time_str": "00:41.683",
+      "text": "没有理由在苦笑",
+      "translation": null
+    },
+    {
+      "time": 45.627,
+      "time_str": "00:45.627",
+      "text": "只是煎熬",
+      "translation": null
+    },
+    {
+      "time": 49.131,
+      "time_str": "00:49.131",
+      "text": "反复练习的拥抱",
+      "translation": null
+    },
+    {
+      "time": 53.092,
+      "time_str": "00:53.092",
+      "text": "天亮以后就看不到",
+      "translation": null
+    },
+    {
+      "time": 56.494,
+      "time_str": "00:56.494",
+      "text": "不能陪你到苍老",
+      "translation": null
+    },
+    {
+      "time": 60.478,
+      "time_str": "01:00.478",
+      "text": "陪你到老",
+      "translation": null
+    },
+    {
+      "time": 62.947,
+      "time_str": "01:02.947",
+      "text": "我不知道",
+      "translation": null
+    },
+    {
+      "time": 64.86,
+      "time_str": "01:04.860",
+      "text": "还有谁能像我让你依靠",
+      "translation": null
+    },
+    {
+      "time": 70.425,
+      "time_str": "01:10.425",
+      "text": "我只希望",
+      "translation": null
+    },
+    {
+      "time": 72.102,
+      "time_str": "01:12.102",
+      "text": "你会牢记我的好 (牢记我的好)",
+      "translation": null
+    },
+    {
+      "time": 78.064,
+      "time_str": "01:18.064",
+      "text": "天亮以后 就再也牵不到你的手",
+      "translation": null
+    },
+    {
+      "time": 81.724,
+      "time_str": "01:21.724",
+      "text": "天亮以后 我会慢慢离开你的梦",
+      "translation": null
+    },
+    {
+      "time": 85.66,
+      "time_str": "01:25.660",
+      "text": "不敢说",
+      "translation": null
+    },
+    {
+      "time": 87.422,
+      "time_str": "01:27.422",
+      "text": "再见就是无法说出口",
+      "translation": null
+    },
+    {
+      "time": 92.642,
+      "time_str": "01:32.642",
+      "text": "天亮以后 留住你该用什么理由",
+      "translation": null
+    },
+    {
+      "time": 96.503,
+      "time_str": "01:36.503",
+      "text": "天亮以后 留下的就只剩下寂寞",
+      "translation": null
+    },
+    {
+      "time": 100.425,
+      "time_str": "01:40.425",
+      "text": "别难过",
+      "translation": null
+    },
+    {
+      "time": 102.136,
+      "time_str": "01:42.136",
+      "text": "所有的痛都由我默默承受",
+      "translation": null
+    },
+    {
+      "time": 130.324,
+      "time_str": "02:10.324",
+      "text": "我以为我做得到",
+      "translation": null
+    },
+    {
+      "time": 134.3,
+      "time_str": "02:14.300",
+      "text": "抱着你到天荒地老",
+      "translation": null
+    },
+    {
+      "time": 137.69,
+      "time_str": "02:17.690",
+      "text": "爱你我感到骄傲",
+      "translation": null
+    },
+    {
+      "time": 141.767,
+      "time_str": "02:21.767",
+      "text": "什么都好",
+      "translation": null
+    },
+    {
+      "time": 145.047,
+      "time_str": "02:25.047",
+      "text": "期待着你的拥抱",
+      "translation": null
+    },
+    {
+      "time": 149.131,
+      "time_str": "02:29.131",
+      "text": "也许这机会太渺小",
+      "translation": null
+    },
+    {
+      "time": 152.446,
+      "time_str": "02:32.446",
+      "text": "流着眼泪苦着笑",
+      "translation": null
+    },
+    {
+      "time": 156.421,
+      "time_str": "02:36.421",
+      "text": "我怎么逃",
+      "translation": null
+    },
+    {
+      "time": 158.921,
+      "time_str": "02:38.921",
+      "text": "空荡的梦",
+      "translation": null
+    },
+    {
+      "time": 160.69,
+      "time_str": "02:40.690",
+      "text": "怎么写我们的从今以后",
+      "translation": null
+    },
+    {
+      "time": 166.337,
+      "time_str": "02:46.337",
+      "text": "握紧着手",
+      "translation": null
+    },
+    {
+      "time": 168.09,
+      "time_str": "02:48.090",
+      "text": "看不到再见的尽头",
+      "translation": null
+    },
+    {
+      "time": 174.062,
+      "time_str": "02:54.062",
+      "text": "天亮以后 就再也牵不到你的手",
+      "translation": null
+    },
+    {
+      "time": 177.715,
+      "time_str": "02:57.715",
+      "text": "天亮以后 我会慢慢离开你的梦",
+      "translation": null
+    },
+    {
+      "time": 181.567,
+      "time_str": "03:01.567",
+      "text": "不敢说",
+      "translation": null
+    },
+    {
+      "time": 183.359,
+      "time_str": "03:03.359",
+      "text": "再见就是无法说出口",
+      "translation": null
+    },
+    {
+      "time": 188.661,
+      "time_str": "03:08.661",
+      "text": "天亮以后 留住你该用什么理由",
+      "translation": null
+    },
+    {
+      "time": 192.461,
+      "time_str": "03:12.461",
+      "text": "天亮以后 留下的就只剩下寂寞",
+      "translation": null
+    },
+    {
+      "time": 196.363,
+      "time_str": "03:16.363",
+      "text": "别难过",
+      "translation": null
+    },
+    {
+      "time": 198.085,
+      "time_str": "03:18.085",
+      "text": "所有的痛都由我默默承受",
+      "translation": null
+    },
+    {
+      "time": 211.239,
+      "time_str": "03:31.239",
+      "text": "不敢说 再见就是无法说出口",
+      "translation": null
+    },
+    {
+      "time": 217.214,
+      "time_str": "03:37.214",
+      "text": "woo~~天亮以后 留住你该用什么理由",
+      "translation": null
+    },
+    {
+      "time": 221.969,
+      "time_str": "03:41.969",
+      "text": "天亮以后 留下的就只剩下寂寞",
+      "translation": null
+    },
+    {
+      "time": 225.836,
+      "time_str": "03:45.836",
+      "text": "别难过",
+      "translation": null
+    },
+    {
+      "time": 227.619,
+      "time_str": "03:47.619",
+      "text": "所有的痛都由我默默承受",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天亮以后 - 胡歌.lrc"
+}

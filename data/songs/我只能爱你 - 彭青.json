@@ -1,0 +1,286 @@
+{
+  "title": "我只能爱你",
+  "title_raw": "我只能爱你",
+  "version": null,
+  "artist": "彭青",
+  "group_key": "我只能爱你|彭青",
+  "writers": {
+    "lyricist": "孙艺",
+    "composer": "金浒炫",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.27,
+      "time_str": "00:18.270",
+      "text": "当你握紧我的手",
+      "translation": null
+    },
+    {
+      "time": 21.72,
+      "time_str": "00:21.720",
+      "text": "我决定和你走",
+      "translation": null
+    },
+    {
+      "time": 25.87,
+      "time_str": "00:25.870",
+      "text": "经历再多的挫折",
+      "translation": null
+    },
+    {
+      "time": 29.51,
+      "time_str": "00:29.510",
+      "text": "也绝对不退缩",
+      "translation": null
+    },
+    {
+      "time": 33.65,
+      "time_str": "00:33.650",
+      "text": "当河流都倒流",
+      "translation": null
+    },
+    {
+      "time": 37.68,
+      "time_str": "00:37.680",
+      "text": "我还在你左右",
+      "translation": null
+    },
+    {
+      "time": 41.57,
+      "time_str": "00:41.570",
+      "text": "一直陪伴你到时间的尽头",
+      "translation": null
+    },
+    {
+      "time": 49.85,
+      "time_str": "00:49.850",
+      "text": "就算有一天",
+      "translation": null
+    },
+    {
+      "time": 53.49,
+      "time_str": "00:53.490",
+      "text": "天和地都会分离",
+      "translation": null
+    },
+    {
+      "time": 57.77,
+      "time_str": "00:57.770",
+      "text": "也永远不离也不弃",
+      "translation": null
+    },
+    {
+      "time": 61.82,
+      "time_str": "01:01.820",
+      "text": "要和你在一起",
+      "translation": null
+    },
+    {
+      "time": 65.36,
+      "time_str": "01:05.360",
+      "text": "呜",
+      "translation": null
+    },
+    {
+      "time": 69.03,
+      "time_str": "01:09.030",
+      "text": "为了你我可以",
+      "translation": null
+    },
+    {
+      "time": 72.93,
+      "time_str": "01:12.930",
+      "text": "因为爱你我只能爱你",
+      "translation": null
+    },
+    {
+      "time": 77.55,
+      "time_str": "01:17.550",
+      "text": "生命荡涤轮回里",
+      "translation": null
+    },
+    {
+      "time": 80.96,
+      "time_str": "01:20.960",
+      "text": "你是唯一不忘的记忆",
+      "translation": null
+    },
+    {
+      "time": 85.52,
+      "time_str": "01:25.520",
+      "text": "真正的爱过",
+      "translation": null
+    },
+    {
+      "time": 89.54,
+      "time_str": "01:29.540",
+      "text": "才算真正的活过",
+      "translation": null
+    },
+    {
+      "time": 93.08,
+      "time_str": "01:33.080",
+      "text": "爱你从此绝不会放手",
+      "translation": null
+    },
+    {
+      "time": 117.48,
+      "time_str": "01:57.480",
+      "text": "不曾褪色的承诺",
+      "translation": null
+    },
+    {
+      "time": 121.83,
+      "time_str": "02:01.830",
+      "text": "比永久还要久",
+      "translation": null
+    },
+    {
+      "time": 125.63,
+      "time_str": "02:05.630",
+      "text": "痛过哭过也恨过",
+      "translation": null
+    },
+    {
+      "time": 129.75,
+      "time_str": "02:09.750",
+      "text": "从未想放弃过",
+      "translation": null
+    },
+    {
+      "time": 133.73,
+      "time_str": "02:13.730",
+      "text": "莫问我要理由",
+      "translation": null
+    },
+    {
+      "time": 137.71,
+      "time_str": "02:17.710",
+      "text": "爱就是我所有",
+      "translation": null
+    },
+    {
+      "time": 141.22,
+      "time_str": "02:21.220",
+      "text": "今生来世你是不变的守候",
+      "translation": null
+    },
+    {
+      "time": 149.87,
+      "time_str": "02:29.870",
+      "text": "就算全世界",
+      "translation": null
+    },
+    {
+      "time": 153.42,
+      "time_str": "02:33.420",
+      "text": "都要来与你为敌",
+      "translation": null
+    },
+    {
+      "time": 157.53,
+      "time_str": "02:37.530",
+      "text": "也还要紧紧抱着你",
+      "translation": null
+    },
+    {
+      "time": 161.91,
+      "time_str": "02:41.910",
+      "text": "泪不会掉一滴",
+      "translation": null
+    },
+    {
+      "time": 165.09,
+      "time_str": "02:45.090",
+      "text": "呜",
+      "translation": null
+    },
+    {
+      "time": 168.79,
+      "time_str": "02:48.790",
+      "text": "为了你我可以",
+      "translation": null
+    },
+    {
+      "time": 173.05,
+      "time_str": "02:53.050",
+      "text": "因为爱你我只能爱你",
+      "translation": null
+    },
+    {
+      "time": 177.39,
+      "time_str": "02:57.390",
+      "text": "只要为你我愿意",
+      "translation": null
+    },
+    {
+      "time": 181.01,
+      "time_str": "03:01.010",
+      "text": "牺牲一切都不觉可惜",
+      "translation": null
+    },
+    {
+      "time": 185.82,
+      "time_str": "03:05.820",
+      "text": "真正的爱过",
+      "translation": null
+    },
+    {
+      "time": 189.48,
+      "time_str": "03:09.480",
+      "text": "才算真正的活过",
+      "translation": null
+    },
+    {
+      "time": 193.26,
+      "time_str": "03:13.260",
+      "text": "爱你从此再无他所求",
+      "translation": null
+    },
+    {
+      "time": 200.9,
+      "time_str": "03:20.900",
+      "text": "为了你我可以",
+      "translation": null
+    },
+    {
+      "time": 205.07,
+      "time_str": "03:25.070",
+      "text": "因为爱你我只能爱你",
+      "translation": null
+    },
+    {
+      "time": 209.42,
+      "time_str": "03:29.420",
+      "text": "只要为你我愿意",
+      "translation": null
+    },
+    {
+      "time": 212.91,
+      "time_str": "03:32.910",
+      "text": "牺牲一切都不觉可惜",
+      "translation": null
+    },
+    {
+      "time": 217.68,
+      "time_str": "03:37.680",
+      "text": "真正的爱过",
+      "translation": null
+    },
+    {
+      "time": 221.51,
+      "time_str": "03:41.510",
+      "text": "才算真正的活过",
+      "translation": null
+    },
+    {
+      "time": 225.19,
+      "time_str": "03:45.190",
+      "text": "爱你从此再无他所求",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我只能爱你 - 彭青.lrc"
+}

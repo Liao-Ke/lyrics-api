@@ -1,0 +1,316 @@
+{
+  "title": "水手",
+  "title_raw": "水手",
+  "version": null,
+  "artist": "郑智化",
+  "group_key": "水手|郑智化",
+  "writers": {
+    "lyricist": "郑智化",
+    "composer": "郑智化",
+    "arranger": "陈志远"
+  },
+  "lyrics": [
+    {
+      "time": 33.39,
+      "time_str": "00:33.390",
+      "text": "苦涩的沙 吹痛脸庞的感觉",
+      "translation": null
+    },
+    {
+      "time": 38.04,
+      "time_str": "00:38.040",
+      "text": "像父亲的责骂 母亲的哭泣 永远难忘记",
+      "translation": null
+    },
+    {
+      "time": 43.02,
+      "time_str": "00:43.020",
+      "text": "年少的我 喜欢一个人在海边",
+      "translation": null
+    },
+    {
+      "time": 48.11,
+      "time_str": "00:48.110",
+      "text": "卷起裤管 光着脚丫 踩在沙滩上",
+      "translation": null
+    },
+    {
+      "time": 52.92,
+      "time_str": "00:52.920",
+      "text": "总是幻想海洋的尽头有另一个世界",
+      "translation": null
+    },
+    {
+      "time": 57.9,
+      "time_str": "00:57.900",
+      "text": "总是以为勇敢的水手是真正的男儿",
+      "translation": null
+    },
+    {
+      "time": 62.76,
+      "time_str": "01:02.760",
+      "text": "总是一副弱不禁风孬种的样子",
+      "translation": null
+    },
+    {
+      "time": 67.86,
+      "time_str": "01:07.860",
+      "text": "在受人欺负的时候 总是听见水手说",
+      "translation": null
+    },
+    {
+      "time": 72.23,
+      "time_str": "01:12.230",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 77.23,
+      "time_str": "01:17.230",
+      "text": "擦干泪 不要怕",
+      "translation": null
+    },
+    {
+      "time": 79.68,
+      "time_str": "01:19.680",
+      "text": "至少我们还有梦",
+      "translation": null
+    },
+    {
+      "time": 82.23,
+      "time_str": "01:22.230",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 87.21,
+      "time_str": "01:27.210",
+      "text": "擦干泪 不要问 为什么",
+      "translation": null
+    },
+    {
+      "time": 95.54,
+      "time_str": "01:35.540",
+      "text": "长大以后 为了理想而努力",
+      "translation": null
+    },
+    {
+      "time": 100.33,
+      "time_str": "01:40.330",
+      "text": "渐渐地忽略了父亲母亲和故乡的消息",
+      "translation": null
+    },
+    {
+      "time": 105.28,
+      "time_str": "01:45.280",
+      "text": "如今的我 生活就像在演戏",
+      "translation": null
+    },
+    {
+      "time": 110.26,
+      "time_str": "01:50.260",
+      "text": "说着言不由衷的话 戴着伪善的面具",
+      "translation": null
+    },
+    {
+      "time": 115.18,
+      "time_str": "01:55.180",
+      "text": "总是拿着微不足道的成就来骗自己",
+      "translation": null
+    },
+    {
+      "time": 120.04,
+      "time_str": "02:00.040",
+      "text": "总是莫名其妙感到一阵的空虚",
+      "translation": null
+    },
+    {
+      "time": 125.03,
+      "time_str": "02:05.030",
+      "text": "总是靠一点酒精的麻醉才能够睡去",
+      "translation": null
+    },
+    {
+      "time": 130.02,
+      "time_str": "02:10.020",
+      "text": "在半睡半醒之间仿佛又听见水手说",
+      "translation": null
+    },
+    {
+      "time": 134.35,
+      "time_str": "02:14.350",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 139.35,
+      "time_str": "02:19.350",
+      "text": "擦干泪 不要怕",
+      "translation": null
+    },
+    {
+      "time": 141.82,
+      "time_str": "02:21.820",
+      "text": "至少我们还有梦",
+      "translation": null
+    },
+    {
+      "time": 144.3,
+      "time_str": "02:24.300",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 149.28,
+      "time_str": "02:29.280",
+      "text": "擦干泪 不要问 为什么",
+      "translation": null
+    },
+    {
+      "time": 182.45,
+      "time_str": "03:02.450",
+      "text": "寻寻觅觅寻不到活着的证据",
+      "translation": null
+    },
+    {
+      "time": 187.19,
+      "time_str": "03:07.190",
+      "text": "都市的柏油路太硬 踩不出足迹",
+      "translation": null
+    },
+    {
+      "time": 192.21,
+      "time_str": "03:12.210",
+      "text": "骄傲无知的现代人 不知道珍惜",
+      "translation": null
+    },
+    {
+      "time": 197.25,
+      "time_str": "03:17.250",
+      "text": "那一片被文明糟蹋过的海洋和天地",
+      "translation": null
+    },
+    {
+      "time": 202.09,
+      "time_str": "03:22.090",
+      "text": "只有远离人群才能找回我自己",
+      "translation": null
+    },
+    {
+      "time": 207.18,
+      "time_str": "03:27.180",
+      "text": "在带着咸味的空气中自由地呼吸",
+      "translation": null
+    },
+    {
+      "time": 212.16,
+      "time_str": "03:32.160",
+      "text": "耳畔又传来汽笛声和水手的笑语",
+      "translation": null
+    },
+    {
+      "time": 217.07,
+      "time_str": "03:37.070",
+      "text": "永远在内心的最深处 听见水手说",
+      "translation": null
+    },
+    {
+      "time": 221.45,
+      "time_str": "03:41.450",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 226.4,
+      "time_str": "03:46.400",
+      "text": "擦干泪 不要怕",
+      "translation": null
+    },
+    {
+      "time": 228.92,
+      "time_str": "03:48.920",
+      "text": "至少我们还有梦",
+      "translation": null
+    },
+    {
+      "time": 231.36,
+      "time_str": "03:51.360",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 236.44,
+      "time_str": "03:56.440",
+      "text": "擦干泪 不要问 为什么",
+      "translation": null
+    },
+    {
+      "time": 241.63,
+      "time_str": "04:01.630",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 246.33,
+      "time_str": "04:06.330",
+      "text": "擦干泪 不要怕",
+      "translation": null
+    },
+    {
+      "time": 248.75,
+      "time_str": "04:08.750",
+      "text": "至少我们还有梦",
+      "translation": null
+    },
+    {
+      "time": 251.4,
+      "time_str": "04:11.400",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 256.22,
+      "time_str": "04:16.220",
+      "text": "擦干泪 不要问 为什么",
+      "translation": null
+    },
+    {
+      "time": 261.48,
+      "time_str": "04:21.480",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 266.21,
+      "time_str": "04:26.210",
+      "text": "擦干泪 不要怕",
+      "translation": null
+    },
+    {
+      "time": 268.7,
+      "time_str": "04:28.700",
+      "text": "至少我们还有梦",
+      "translation": null
+    },
+    {
+      "time": 271.18,
+      "time_str": "04:31.180",
+      "text": "他说 风雨中 这点痛算什么",
+      "translation": null
+    },
+    {
+      "time": 276.15,
+      "time_str": "04:36.150",
+      "text": "擦干泪 不要问",
+      "translation": null
+    },
+    {
+      "time": 278.61,
+      "time_str": "04:38.610",
+      "text": "为什么",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "水手 - 郑智化.lrc"
+}

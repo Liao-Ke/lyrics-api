@@ -1,0 +1,208 @@
+{
+  "title": "你不知道的事",
+  "title_raw": "你不知道的事",
+  "version": null,
+  "artist": "王力宏",
+  "group_key": "你不知道的事|王力宏",
+  "writers": {
+    "lyricist": "王力宏",
+    "composer": "王力宏/瑞业",
+    "arranger": "王力宏/吴庆隆/Nathan Wang"
+  },
+  "lyrics": [
+    {
+      "time": 6.06,
+      "time_str": "00:06.060",
+      "text": "蝴蝶眨几次眼睛 才学会飞行",
+      "translation": null
+    },
+    {
+      "time": 17.38,
+      "time_str": "00:17.380",
+      "text": "夜空洒满了星星 但几颗会落地",
+      "translation": null
+    },
+    {
+      "time": 27.91,
+      "time_str": "00:27.910",
+      "text": "我飞行 但你坠落之际",
+      "translation": null
+    },
+    {
+      "time": 33.31,
+      "time_str": "00:33.310",
+      "text": "很靠近 还听见呼吸",
+      "translation": null
+    },
+    {
+      "time": 38.88,
+      "time_str": "00:38.880",
+      "text": "对不起 我却没捉紧你",
+      "translation": null
+    },
+    {
+      "time": 48.05,
+      "time_str": "00:48.050",
+      "text": "你不知道我为什么离开你",
+      "translation": null
+    },
+    {
+      "time": 53.66,
+      "time_str": "00:53.660",
+      "text": "我坚持不能说放任你哭泣",
+      "translation": null
+    },
+    {
+      "time": 59.23,
+      "time_str": "00:59.230",
+      "text": "你的泪滴像 倾盆大雨",
+      "translation": null
+    },
+    {
+      "time": 63.75,
+      "time_str": "01:03.750",
+      "text": "碎了满地 在心里清晰",
+      "translation": null
+    },
+    {
+      "time": 70.42,
+      "time_str": "01:10.420",
+      "text": "你不知道我为什么狠下心",
+      "translation": null
+    },
+    {
+      "time": 75.74,
+      "time_str": "01:15.740",
+      "text": "盘旋在你看不见的高空里",
+      "translation": null
+    },
+    {
+      "time": 82.67,
+      "time_str": "01:22.670",
+      "text": "多的是 你不知道的事",
+      "translation": null
+    },
+    {
+      "time": 99.96,
+      "time_str": "01:39.960",
+      "text": "蝴蝶眨几次眼睛 才学会飞行",
+      "translation": null
+    },
+    {
+      "time": 110.7,
+      "time_str": "01:50.700",
+      "text": "夜空洒满了星星 但几颗会落地",
+      "translation": null
+    },
+    {
+      "time": 121.29,
+      "time_str": "02:01.290",
+      "text": "我飞行 但你坠落之际",
+      "translation": null
+    },
+    {
+      "time": 127.05,
+      "time_str": "02:07.050",
+      "text": "很靠近 还听见呼吸",
+      "translation": null
+    },
+    {
+      "time": 132.61,
+      "time_str": "02:12.610",
+      "text": "对不起 我却没捉紧你",
+      "translation": null
+    },
+    {
+      "time": 141.83,
+      "time_str": "02:21.830",
+      "text": "你不知道我为什么离开你",
+      "translation": null
+    },
+    {
+      "time": 147.47,
+      "time_str": "02:27.470",
+      "text": "我坚持不能说放任你哭泣",
+      "translation": null
+    },
+    {
+      "time": 153.03,
+      "time_str": "02:33.030",
+      "text": "你的泪滴像 倾盆大雨",
+      "translation": null
+    },
+    {
+      "time": 157.46,
+      "time_str": "02:37.460",
+      "text": "碎了满地 在心里清晰",
+      "translation": null
+    },
+    {
+      "time": 163.91,
+      "time_str": "02:43.910",
+      "text": "你不知道我为什么狠下心",
+      "translation": null
+    },
+    {
+      "time": 169.58,
+      "time_str": "02:49.580",
+      "text": "盘旋在你看不见的高空里",
+      "translation": null
+    },
+    {
+      "time": 176.85,
+      "time_str": "02:56.850",
+      "text": "多的是  你不知道的事",
+      "translation": null
+    },
+    {
+      "time": 204.49,
+      "time_str": "03:24.490",
+      "text": "我飞行 但你坠落之际",
+      "translation": null
+    },
+    {
+      "time": 215.63,
+      "time_str": "03:35.630",
+      "text": "你不知道我为什么离开你",
+      "translation": null
+    },
+    {
+      "time": 221.06,
+      "time_str": "03:41.060",
+      "text": "我坚持不能说放任你哭泣",
+      "translation": null
+    },
+    {
+      "time": 226.59,
+      "time_str": "03:46.590",
+      "text": "你的泪滴像 倾盆大雨",
+      "translation": null
+    },
+    {
+      "time": 231.05,
+      "time_str": "03:51.050",
+      "text": "碎了满地 在心里清晰",
+      "translation": null
+    },
+    {
+      "time": 237.54,
+      "time_str": "03:57.540",
+      "text": "你不知道我为什么狠下心",
+      "translation": null
+    },
+    {
+      "time": 243.33,
+      "time_str": "04:03.330",
+      "text": "盘旋在你看不见的高空里",
+      "translation": null
+    },
+    {
+      "time": 250.41,
+      "time_str": "04:10.410",
+      "text": "多的是 你不知道的事",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你不知道的事 - 王力宏.lrc"
+}

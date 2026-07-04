@@ -1,0 +1,256 @@
+{
+  "title": "Take Me To Your Heart",
+  "title_raw": "Take Me To Your Heart",
+  "version": null,
+  "artist": "Michael Learns To Rock",
+  "group_key": "take me to your heart|michael learns to rock",
+  "writers": {
+    "lyricist": "Jascha Richter",
+    "composer": "殷文琦",
+    "arranger": "Dahye Jang"
+  },
+  "lyrics": [
+    {
+      "time": 17.91,
+      "time_str": "00:17.910",
+      "text": "Hiding from the rain and snow",
+      "translation": "避开雨雪"
+    },
+    {
+      "time": 21.2,
+      "time_str": "00:21.200",
+      "text": "Trying to forget but I won't let go",
+      "translation": "想要忘记,但又不愿放手"
+    },
+    {
+      "time": 25.74,
+      "time_str": "00:25.740",
+      "text": "Looking at a crowded street",
+      "translation": "注视拥挤的街道"
+    },
+    {
+      "time": 29.63,
+      "time_str": "00:29.630",
+      "text": "Listening to my own heart beat",
+      "translation": "聆听自己的心跳"
+    },
+    {
+      "time": 34.2,
+      "time_str": "00:34.200",
+      "text": "So many people all around the world",
+      "translation": "世界上那么多人"
+    },
+    {
+      "time": 41.399,
+      "time_str": "00:41.399",
+      "text": "Tell me where do I find someone like you girl",
+      "translation": "在哪里才能找到像你这样的女孩"
+    },
+    {
+      "time": 48.239,
+      "time_str": "00:48.239",
+      "text": "Take me to your heart take me to your soul",
+      "translation": "把我带进你的心灵"
+    },
+    {
+      "time": 52.179,
+      "time_str": "00:52.179",
+      "text": "Give me your hand before I'm old",
+      "translation": "在我还没有衰老的时候让我紧握你的手"
+    },
+    {
+      "time": 56.399,
+      "time_str": "00:56.399",
+      "text": "Show me what love is - haven't got a clue",
+      "translation": "告诉我爱的真谛--我还对爱毫无概念"
+    },
+    {
+      "time": 60.2,
+      "time_str": "01:00.200",
+      "text": "Show me that wonders can be true",
+      "translation": "让我看到奇迹可以成真"
+    },
+    {
+      "time": 63.9,
+      "time_str": "01:03.900",
+      "text": "They say nothing lasts forever",
+      "translation": "都说没有什么是永久的"
+    },
+    {
+      "time": 68.319,
+      "time_str": "01:08.319",
+      "text": "We're only here today",
+      "translation": "我们只有今天"
+    },
+    {
+      "time": 72.75,
+      "time_str": "01:12.750",
+      "text": "Love is now or never",
+      "translation": "爱是会稍纵即逝的"
+    },
+    {
+      "time": 76.68,
+      "time_str": "01:16.680",
+      "text": "Bring me far away",
+      "translation": "带我去远方吧"
+    },
+    {
+      "time": 79.56,
+      "time_str": "01:19.560",
+      "text": "Take me to your heart take me to your soul",
+      "translation": "把我带进你的心灵"
+    },
+    {
+      "time": 84.6,
+      "time_str": "01:24.600",
+      "text": "Give me your hand and hold me",
+      "translation": "让我握你的手,拥抱我"
+    },
+    {
+      "time": 87.31,
+      "time_str": "01:27.310",
+      "text": "Show me what love is - be my guiding star",
+      "translation": "告诉我爱的真谛,做我的指路明灯"
+    },
+    {
+      "time": 92.299,
+      "time_str": "01:32.299",
+      "text": "It's easy take me to your heart",
+      "translation": "一切都很简单,把我带进你的心吧"
+    },
+    {
+      "time": 132.1,
+      "time_str": "02:12.100",
+      "text": "Standing on a mountain high",
+      "translation": "站在高山上"
+    },
+    {
+      "time": 134.6,
+      "time_str": "02:14.600",
+      "text": "Looking at the moon through a clear blue sky",
+      "translation": "望着月亮,天空湛蓝"
+    },
+    {
+      "time": 139.29,
+      "time_str": "02:19.290",
+      "text": "I should go and see some friends",
+      "translation": "我该去看望一下朋友"
+    },
+    {
+      "time": 143.22,
+      "time_str": "02:23.220",
+      "text": "But they don't really comprehend",
+      "translation": "但是他们不会真正理解我的感受"
+    },
+    {
+      "time": 148.9,
+      "time_str": "02:28.900",
+      "text": "Don't need too much talking without saying anything",
+      "translation": "无话可说就不必多谈"
+    },
+    {
+      "time": 155.98,
+      "time_str": "02:35.980",
+      "text": "All I need is someone who makes me wanna sing",
+      "translation": "我只需要一个让我想歌唱的人"
+    },
+    {
+      "time": 163.0,
+      "time_str": "02:43.000",
+      "text": "Take me to your heart take me to your soul",
+      "translation": "把我带进你的心灵"
+    },
+    {
+      "time": 166.95,
+      "time_str": "02:46.950",
+      "text": "Give me your hand before I'm old",
+      "translation": "在我还没有衰老的时候让我紧握你的手"
+    },
+    {
+      "time": 170.85,
+      "time_str": "02:50.850",
+      "text": "Show me what love is - haven't got a clue",
+      "translation": "告诉我爱的真谛--我还对爱毫无概念"
+    },
+    {
+      "time": 174.78,
+      "time_str": "02:54.780",
+      "text": "Show me that wonders can be true",
+      "translation": "让我看到奇迹可以成真"
+    },
+    {
+      "time": 178.92,
+      "time_str": "02:58.920",
+      "text": "They say nothing lasts forever",
+      "translation": "都说没有什么是永久的"
+    },
+    {
+      "time": 183.53,
+      "time_str": "03:03.530",
+      "text": "We're only here today",
+      "translation": "我们只有今天"
+    },
+    {
+      "time": 188.0,
+      "time_str": "03:08.000",
+      "text": "Love is now or never",
+      "translation": "爱是会稍纵即逝的"
+    },
+    {
+      "time": 191.99,
+      "time_str": "03:11.990",
+      "text": "Bring me far away",
+      "translation": "带我去远方吧"
+    },
+    {
+      "time": 195.54,
+      "time_str": "03:15.540",
+      "text": "Take me to your heart take me to your soul",
+      "translation": "把我带进你的心灵"
+    },
+    {
+      "time": 200.42,
+      "time_str": "03:20.420",
+      "text": "Give me your hand and hold me",
+      "translation": "让我握你的手,拥抱我"
+    },
+    {
+      "time": 203.37,
+      "time_str": "03:23.370",
+      "text": "Show me what love is - be my guiding star",
+      "translation": "告诉我爱的真谛,做我的指路明灯"
+    },
+    {
+      "time": 208.4,
+      "time_str": "03:28.400",
+      "text": "It's easy take me to your heart",
+      "translation": "一切都很简单,把我带进你的心吧"
+    },
+    {
+      "time": 215.17,
+      "time_str": "03:35.170",
+      "text": "Take me to your heart take me to your soul",
+      "translation": "把我带进你的心灵"
+    },
+    {
+      "time": 219.95,
+      "time_str": "03:39.950",
+      "text": "Give me your hand and hold me",
+      "translation": "让我握你的手,拥抱我"
+    },
+    {
+      "time": 222.83,
+      "time_str": "03:42.830",
+      "text": "Show me what love is - be my guiding star",
+      "translation": "告诉我爱的真谛,做我的指路明灯"
+    },
+    {
+      "time": 227.82,
+      "time_str": "03:47.820",
+      "text": "It's easy take me to your heart",
+      "translation": "一切都很简单,把我带进你的心吧"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Take Me To Your Heart - Michael Learns To Rock.lrc"
+}

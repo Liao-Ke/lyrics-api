@@ -1,0 +1,124 @@
+{
+  "title": "天天看到你",
+  "title_raw": "天天看到你",
+  "version": null,
+  "artist": "阿杜",
+  "group_key": "天天看到你|阿杜",
+  "writers": {
+    "lyricist": "许环良",
+    "composer": "林秋离",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.321,
+      "time_str": "00:24.321",
+      "text": "一开始就误会",
+      "translation": null
+    },
+    {
+      "time": 27.301,
+      "time_str": "00:27.301",
+      "text": "关于你的倔强和不妥协",
+      "translation": null
+    },
+    {
+      "time": 31.354,
+      "time_str": "00:31.354",
+      "text": "一离开就后悔",
+      "translation": null
+    },
+    {
+      "time": 33.398,
+      "time_str": "00:33.398",
+      "text": "因为你爱的很坚决",
+      "translation": null
+    },
+    {
+      "time": 38.39,
+      "time_str": "00:38.390",
+      "text": "我被缠在一些傻问题",
+      "translation": null
+    },
+    {
+      "time": 43.347,
+      "time_str": "00:43.347",
+      "text": "譬如说用什么爱你",
+      "translation": null
+    },
+    {
+      "time": 45.382,
+      "time_str": "00:45.382",
+      "text": "如果我就这样离去",
+      "translation": null
+    },
+    {
+      "time": 49.352,
+      "time_str": "00:49.352",
+      "text": "我的心会碎的像玻璃",
+      "translation": null
+    },
+    {
+      "time": 54.345,
+      "time_str": "00:54.345",
+      "text": "天天看到你",
+      "translation": null
+    },
+    {
+      "time": 57.375,
+      "time_str": "00:57.375",
+      "text": "却产生了距离",
+      "translation": null
+    },
+    {
+      "time": 59.378,
+      "time_str": "00:59.378",
+      "text": "爱越热心越冷的关系",
+      "translation": null
+    },
+    {
+      "time": 63.337,
+      "time_str": "01:03.337",
+      "text": "也许这是我不够勇气",
+      "translation": null
+    },
+    {
+      "time": 68.309,
+      "time_str": "01:08.309",
+      "text": "去解开你防卫的外衣",
+      "translation": null
+    },
+    {
+      "time": 71.324,
+      "time_str": "01:11.324",
+      "text": "天天看到你",
+      "translation": null
+    },
+    {
+      "time": 72.397,
+      "time_str": "01:12.397",
+      "text": "是习惯和必须",
+      "translation": null
+    },
+    {
+      "time": 74.319,
+      "time_str": "01:14.319",
+      "text": "不可能的可能",
+      "translation": null
+    },
+    {
+      "time": 77.308,
+      "time_str": "01:17.308",
+      "text": "我担心面对分离",
+      "translation": null
+    },
+    {
+      "time": 82.382,
+      "time_str": "01:22.382",
+      "text": "我才知道自己有多爱你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天天看到你 - 阿杜.lrc"
+}

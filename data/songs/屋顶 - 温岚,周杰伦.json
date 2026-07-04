@@ -1,0 +1,316 @@
+{
+  "title": "屋顶",
+  "title_raw": "屋顶",
+  "version": null,
+  "artist": "温岚,周杰伦",
+  "group_key": "屋顶|温岚,周杰伦",
+  "writers": {
+    "lyricist": "周杰伦",
+    "composer": "周杰伦",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 23.74,
+      "time_str": "00:23.740",
+      "text": "半夜睡不着觉把心情哼成歌",
+      "translation": null
+    },
+    {
+      "time": 29.15,
+      "time_str": "00:29.150",
+      "text": "只好到屋顶找另一个梦境",
+      "translation": null
+    },
+    {
+      "time": 40.1,
+      "time_str": "00:40.100",
+      "text": "睡梦中被敲醒我还是不确定",
+      "translation": null
+    },
+    {
+      "time": 45.55,
+      "time_str": "00:45.550",
+      "text": "怎会有动人旋律在对面的屋顶",
+      "translation": null
+    },
+    {
+      "time": 51.1,
+      "time_str": "00:51.100",
+      "text": "我悄悄关上门带着希望上去",
+      "translation": null
+    },
+    {
+      "time": 56.43,
+      "time_str": "00:56.430",
+      "text": "原来是我梦里常出现的那个人",
+      "translation": null
+    },
+    {
+      "time": 60.74,
+      "time_str": "01:00.740",
+      "text": "那个人不就是我梦里",
+      "translation": null
+    },
+    {
+      "time": 63.89,
+      "time_str": "01:03.890",
+      "text": "那模糊的人",
+      "translation": null
+    },
+    {
+      "time": 66.19,
+      "time_str": "01:06.190",
+      "text": "我们有同样的默契",
+      "translation": null
+    },
+    {
+      "time": 71.55,
+      "time_str": "01:11.550",
+      "text": "用天线",
+      "translation": null
+    },
+    {
+      "time": 72.98,
+      "time_str": "01:12.980",
+      "text": "用天线排成爱你的形状hoho",
+      "translation": null
+    },
+    {
+      "time": 80.81,
+      "time_str": "01:20.810",
+      "text": "在屋顶唱着你的歌",
+      "translation": null
+    },
+    {
+      "time": 83.93,
+      "time_str": "01:23.930",
+      "text": "在屋顶和我爱的人",
+      "translation": null
+    },
+    {
+      "time": 86.63,
+      "time_str": "01:26.630",
+      "text": "让星星点缀成最浪漫的夜晚",
+      "translation": null
+    },
+    {
+      "time": 92.49,
+      "time_str": "01:32.490",
+      "text": "拥抱这时刻这一分一秒全都停止",
+      "translation": null
+    },
+    {
+      "time": 100.74,
+      "time_str": "01:40.740",
+      "text": "爱开始纠结",
+      "translation": null
+    },
+    {
+      "time": 102.94,
+      "time_str": "01:42.940",
+      "text": "在屋顶唱着你的歌",
+      "translation": null
+    },
+    {
+      "time": 105.71,
+      "time_str": "01:45.710",
+      "text": "在屋顶和我爱的人",
+      "translation": null
+    },
+    {
+      "time": 108.43,
+      "time_str": "01:48.430",
+      "text": "将泛黄的夜献给最孤独的月",
+      "translation": null
+    },
+    {
+      "time": 114.31,
+      "time_str": "01:54.310",
+      "text": "拥抱这时刻这一分一秒全都停止",
+      "translation": null
+    },
+    {
+      "time": 122.56,
+      "time_str": "02:02.560",
+      "text": "爱开始纠结梦有你而美",
+      "translation": null
+    },
+    {
+      "time": 162.63,
+      "time_str": "02:42.630",
+      "text": "半夜睡不着觉把心情哼成歌",
+      "translation": null
+    },
+    {
+      "time": 168.43,
+      "time_str": "02:48.430",
+      "text": "只好到屋顶找另一个梦境",
+      "translation": null
+    },
+    {
+      "time": 179.17,
+      "time_str": "02:59.170",
+      "text": "睡梦中被敲醒我还是不确定",
+      "translation": null
+    },
+    {
+      "time": 184.76,
+      "time_str": "03:04.760",
+      "text": "怎会有动人旋律在对面的屋顶",
+      "translation": null
+    },
+    {
+      "time": 190.24,
+      "time_str": "03:10.240",
+      "text": "我悄悄关上门带着希望上去",
+      "translation": null
+    },
+    {
+      "time": 195.71,
+      "time_str": "03:15.710",
+      "text": "原来是我梦里常出现的那个人",
+      "translation": null
+    },
+    {
+      "time": 199.97,
+      "time_str": "03:19.970",
+      "text": "那个人不就是我梦里",
+      "translation": null
+    },
+    {
+      "time": 202.76,
+      "time_str": "03:22.760",
+      "text": "那模糊的人",
+      "translation": null
+    },
+    {
+      "time": 205.29,
+      "time_str": "03:25.290",
+      "text": "我们有同样的默契",
+      "translation": null
+    },
+    {
+      "time": 210.66,
+      "time_str": "03:30.660",
+      "text": "用天线",
+      "translation": null
+    },
+    {
+      "time": 212.16,
+      "time_str": "03:32.160",
+      "text": "用天线排成爱你的形状hoho",
+      "translation": null
+    },
+    {
+      "time": 220.27,
+      "time_str": "03:40.270",
+      "text": "在屋顶唱着你的歌",
+      "translation": null
+    },
+    {
+      "time": 223.18,
+      "time_str": "03:43.180",
+      "text": "在屋顶和我爱的人",
+      "translation": null
+    },
+    {
+      "time": 225.86,
+      "time_str": "03:45.860",
+      "text": "让星星点缀成最浪漫的夜晚",
+      "translation": null
+    },
+    {
+      "time": 231.86,
+      "time_str": "03:51.860",
+      "text": "拥抱这时刻这一分一秒全都停止",
+      "translation": null
+    },
+    {
+      "time": 240.8,
+      "time_str": "04:00.800",
+      "text": "爱开始纠结",
+      "translation": null
+    },
+    {
+      "time": 242.13,
+      "time_str": "04:02.130",
+      "text": "在屋顶唱着你的歌",
+      "translation": null
+    },
+    {
+      "time": 244.94,
+      "time_str": "04:04.940",
+      "text": "在屋顶和我爱的人",
+      "translation": null
+    },
+    {
+      "time": 247.59,
+      "time_str": "04:07.590",
+      "text": "将泛黄的夜献给最孤独的月",
+      "translation": null
+    },
+    {
+      "time": 253.59,
+      "time_str": "04:13.590",
+      "text": "拥抱这时刻这一分一秒全都停止",
+      "translation": null
+    },
+    {
+      "time": 261.85,
+      "time_str": "04:21.850",
+      "text": "爱开始纠结梦有你而美",
+      "translation": null
+    },
+    {
+      "time": 277.7,
+      "time_str": "04:37.700",
+      "text": "让我爱你是谁",
+      "translation": null
+    },
+    {
+      "time": 280.31,
+      "time_str": "04:40.310",
+      "text": "让你爱我是谁",
+      "translation": null
+    },
+    {
+      "time": 283.16,
+      "time_str": "04:43.160",
+      "text": "怎会有动人旋律环绕在我俩的身边",
+      "translation": null
+    },
+    {
+      "time": 288.39,
+      "time_str": "04:48.390",
+      "text": "让我爱你是谁",
+      "translation": null
+    },
+    {
+      "time": 291.3,
+      "time_str": "04:51.300",
+      "text": "让你爱我是谁",
+      "translation": null
+    },
+    {
+      "time": 294.0,
+      "time_str": "04:54.000",
+      "text": "原来是这屋顶有美丽的邂逅",
+      "translation": null
+    },
+    {
+      "time": 304.5,
+      "time_str": "05:04.500",
+      "text": "在屋顶唱着你的歌",
+      "translation": null
+    },
+    {
+      "time": 307.1,
+      "time_str": "05:07.100",
+      "text": "在屋顶和我爱的人",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "屋顶 - 温岚,周杰伦.lrc"
+}

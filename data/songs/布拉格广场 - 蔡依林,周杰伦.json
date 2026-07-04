@@ -1,0 +1,490 @@
+{
+  "title": "布拉格广场",
+  "title_raw": "布拉格广场",
+  "version": null,
+  "artist": "蔡依林,周杰伦",
+  "group_key": "布拉格广场|蔡依林,周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 20.8,
+      "time_str": "00:20.800",
+      "text": "琴键上透着光",
+      "translation": null
+    },
+    {
+      "time": 22.01,
+      "time_str": "00:22.010",
+      "text": "彩绘的玻璃窗",
+      "translation": null
+    },
+    {
+      "time": 23.15,
+      "time_str": "00:23.150",
+      "text": "装饰着歌特式教堂",
+      "translation": null
+    },
+    {
+      "time": 24.61,
+      "time_str": "00:24.610",
+      "text": "谁谁谁弹一段",
+      "translation": null
+    },
+    {
+      "time": 26.19,
+      "time_str": "00:26.190",
+      "text": "一段流浪忧伤",
+      "translation": null
+    },
+    {
+      "time": 27.82,
+      "time_str": "00:27.820",
+      "text": "顺着琴声方向看见",
+      "translation": null
+    },
+    {
+      "time": 29.22,
+      "time_str": "00:29.220",
+      "text": "蔷薇依附十八世纪的油画上",
+      "translation": null
+    },
+    {
+      "time": 30.85,
+      "time_str": "00:30.850",
+      "text": "在旁",
+      "translation": null
+    },
+    {
+      "time": 31.58,
+      "time_str": "00:31.580",
+      "text": "静静欣赏",
+      "translation": null
+    },
+    {
+      "time": 32.28,
+      "time_str": "00:32.280",
+      "text": "在想",
+      "translation": null
+    },
+    {
+      "time": 32.9,
+      "time_str": "00:32.900",
+      "text": "你的浪漫",
+      "translation": null
+    },
+    {
+      "time": 33.5,
+      "time_str": "00:33.500",
+      "text": "在看",
+      "translation": null
+    },
+    {
+      "time": 34.19,
+      "time_str": "00:34.190",
+      "text": "是否多久都一样",
+      "translation": null
+    },
+    {
+      "time": 36.06,
+      "time_str": "00:36.060",
+      "text": "a a fu shou",
+      "translation": null
+    },
+    {
+      "time": 37.47,
+      "time_str": "00:37.470",
+      "text": "a a fu shou",
+      "translation": null
+    },
+    {
+      "time": 38.49,
+      "time_str": "00:38.490",
+      "text": "yap so so sorry",
+      "translation": null
+    },
+    {
+      "time": 39.75,
+      "time_str": "00:39.750",
+      "text": "so so so",
+      "translation": null
+    },
+    {
+      "time": 40.96,
+      "time_str": "00:40.960",
+      "text": "moderato yo",
+      "translation": "中速"
+    },
+    {
+      "time": 41.51,
+      "time_str": "00:41.510",
+      "text": "andantino yo",
+      "translation": "小行板"
+    },
+    {
+      "time": 42.93,
+      "time_str": "00:42.930",
+      "text": "portamento yo",
+      "translation": "滑音"
+    },
+    {
+      "time": 44.3,
+      "time_str": "00:44.300",
+      "text": "fortissimo yo",
+      "translation": "特强音"
+    },
+    {
+      "time": 45.76,
+      "time_str": "00:45.760",
+      "text": "盗贼他偷走",
+      "translation": null
+    },
+    {
+      "time": 46.72,
+      "time_str": "00:46.720",
+      "text": "修道士说No",
+      "translation": null
+    },
+    {
+      "time": 48.04,
+      "time_str": "00:48.040",
+      "text": "梦醒来后我",
+      "translation": null
+    },
+    {
+      "time": 49.28,
+      "time_str": "00:49.280",
+      "text": "一切都都没有",
+      "translation": null
+    },
+    {
+      "time": 60.41,
+      "time_str": "01:00.410",
+      "text": "我就站在布拉格黄昏的广场",
+      "translation": null
+    },
+    {
+      "time": 66.17,
+      "time_str": "01:06.170",
+      "text": "在许愿池投下了希望",
+      "translation": null
+    },
+    {
+      "time": 71.24,
+      "time_str": "01:11.240",
+      "text": "那群白鸽背对着夕阳",
+      "translation": null
+    },
+    {
+      "time": 76.31,
+      "time_str": "01:16.310",
+      "text": "那画面太美我不敢看",
+      "translation": null
+    },
+    {
+      "time": 80.8,
+      "time_str": "01:20.800",
+      "text": "布拉格的广场无人的走廊",
+      "translation": null
+    },
+    {
+      "time": 86.37,
+      "time_str": "01:26.370",
+      "text": "我一个人跳着舞旋转",
+      "translation": null
+    },
+    {
+      "time": 91.39,
+      "time_str": "01:31.390",
+      "text": "不远地方你远远吟唱",
+      "translation": null
+    },
+    {
+      "time": 96.44,
+      "time_str": "01:36.440",
+      "text": "没有我你真的不习惯",
+      "translation": null
+    },
+    {
+      "time": 145.21,
+      "time_str": "02:25.210",
+      "text": "透着光",
+      "translation": null
+    },
+    {
+      "time": 145.8,
+      "time_str": "02:25.800",
+      "text": "彩绘的玻璃窗",
+      "translation": null
+    },
+    {
+      "time": 146.9,
+      "time_str": "02:26.900",
+      "text": "装饰着歌特式教堂",
+      "translation": null
+    },
+    {
+      "time": 148.32,
+      "time_str": "02:28.320",
+      "text": "谁谁谁弹一段",
+      "translation": null
+    },
+    {
+      "time": 149.77,
+      "time_str": "02:29.770",
+      "text": "一段流浪忧伤",
+      "translation": null
+    },
+    {
+      "time": 151.83,
+      "time_str": "02:31.830",
+      "text": "顺着琴声方向看见",
+      "translation": null
+    },
+    {
+      "time": 152.64,
+      "time_str": "02:32.640",
+      "text": "蔷薇依附十八世纪的油画上",
+      "translation": null
+    },
+    {
+      "time": 154.72,
+      "time_str": "02:34.720",
+      "text": "在旁",
+      "translation": null
+    },
+    {
+      "time": 155.52,
+      "time_str": "02:35.520",
+      "text": "静静欣赏",
+      "translation": null
+    },
+    {
+      "time": 155.99,
+      "time_str": "02:35.990",
+      "text": "在想",
+      "translation": null
+    },
+    {
+      "time": 156.59,
+      "time_str": "02:36.590",
+      "text": "你的浪漫",
+      "translation": null
+    },
+    {
+      "time": 157.15,
+      "time_str": "02:37.150",
+      "text": "在看",
+      "translation": null
+    },
+    {
+      "time": 157.81,
+      "time_str": "02:37.810",
+      "text": "是否多久都一样",
+      "translation": null
+    },
+    {
+      "time": 159.67,
+      "time_str": "02:39.670",
+      "text": "a a fu shou",
+      "translation": null
+    },
+    {
+      "time": 160.88,
+      "time_str": "02:40.880",
+      "text": "a a fu shou",
+      "translation": null
+    },
+    {
+      "time": 162.24,
+      "time_str": "02:42.240",
+      "text": "yap so so sorry",
+      "translation": null
+    },
+    {
+      "time": 163.44,
+      "time_str": "02:43.440",
+      "text": "so so so",
+      "translation": null
+    },
+    {
+      "time": 164.26,
+      "time_str": "02:44.260",
+      "text": "moderato yo",
+      "translation": "中速"
+    },
+    {
+      "time": 165.16,
+      "time_str": "02:45.160",
+      "text": "andantino yo",
+      "translation": "小行板"
+    },
+    {
+      "time": 166.61,
+      "time_str": "02:46.610",
+      "text": "portamento yo",
+      "translation": "滑音"
+    },
+    {
+      "time": 167.93,
+      "time_str": "02:47.930",
+      "text": "fortissimo yo",
+      "translation": "特强音"
+    },
+    {
+      "time": 169.15,
+      "time_str": "02:49.150",
+      "text": "盗贼他偷走",
+      "translation": null
+    },
+    {
+      "time": 170.43,
+      "time_str": "02:50.430",
+      "text": "修道士说No",
+      "translation": null
+    },
+    {
+      "time": 171.72,
+      "time_str": "02:51.720",
+      "text": "梦醒来后我",
+      "translation": null
+    },
+    {
+      "time": 172.97,
+      "time_str": "02:52.970",
+      "text": "一切都都没有",
+      "translation": null
+    },
+    {
+      "time": 180.18,
+      "time_str": "03:00.180",
+      "text": "我就站在布拉格黄昏的广场",
+      "translation": null
+    },
+    {
+      "time": 186.15,
+      "time_str": "03:06.150",
+      "text": "在许愿池投下了希望",
+      "translation": null
+    },
+    {
+      "time": 191.15,
+      "time_str": "03:11.150",
+      "text": "那群白鸽背对着夕阳",
+      "translation": null
+    },
+    {
+      "time": 196.21,
+      "time_str": "03:16.210",
+      "text": "那画面太美我不敢看",
+      "translation": null
+    },
+    {
+      "time": 200.77,
+      "time_str": "03:20.770",
+      "text": "布拉格的广场无人的走廊",
+      "translation": null
+    },
+    {
+      "time": 206.31,
+      "time_str": "03:26.310",
+      "text": "我一个人跳着舞旋转",
+      "translation": null
+    },
+    {
+      "time": 211.46,
+      "time_str": "03:31.460",
+      "text": "不远地方你远远吟唱",
+      "translation": null
+    },
+    {
+      "time": 216.52,
+      "time_str": "03:36.520",
+      "text": "没有我你真的不习",
+      "translation": null
+    },
+    {
+      "time": 238.42,
+      "time_str": "03:58.420",
+      "text": "(yo moderato yo andantino yo portamento yo fortissimo yo)",
+      "translation": "在布拉格黄昏的广场"
+    },
+    {
+      "time": 243.28,
+      "time_str": "04:03.280",
+      "text": "在许愿池投下了希望",
+      "translation": null
+    },
+    {
+      "time": 243.28,
+      "time_str": "04:03.280",
+      "text": "(盗贼他偷走 修道士说no 梦醒来后我 一切都都没有 huh)",
+      "translation": null
+    },
+    {
+      "time": 248.19,
+      "time_str": "04:08.190",
+      "text": "那群白鸽背对着夕阳",
+      "translation": null
+    },
+    {
+      "time": 248.19,
+      "time_str": "04:08.190",
+      "text": "(在旁 静静欣赏 在想 你的浪漫 在看 是否多久都一样)",
+      "translation": null
+    },
+    {
+      "time": 253.32,
+      "time_str": "04:13.320",
+      "text": "(a a fu shou a a fu shou yap so so sorry so so so)",
+      "translation": "那画面太美我不敢看"
+    },
+    {
+      "time": 257.79,
+      "time_str": "04:17.790",
+      "text": "(moderato yo andantino yo portamento yo fortissimo yo)",
+      "translation": "布拉格的广场拥挤的剧场"
+    },
+    {
+      "time": 263.44,
+      "time_str": "04:23.440",
+      "text": "安静小巷一家咖啡馆",
+      "translation": null
+    },
+    {
+      "time": 263.44,
+      "time_str": "04:23.440",
+      "text": "(盗贼他偷走 修道士说no 梦醒来后我 一切都都没有 huh)",
+      "translation": null
+    },
+    {
+      "time": 268.48,
+      "time_str": "04:28.480",
+      "text": "我在结账你在煮浓汤",
+      "translation": null
+    },
+    {
+      "time": 268.48,
+      "time_str": "04:28.480",
+      "text": "(在旁 静静欣赏 在想 你的浪漫 在看 是否多久都一样)",
+      "translation": null
+    },
+    {
+      "time": 273.41,
+      "time_str": "04:33.410",
+      "text": "(a a fu shou a a fu shou yap so so sorry so so so so)",
+      "translation": "这是故事最后的答案"
+    },
+    {
+      "time": 293.6,
+      "time_str": "04:53.600",
+      "text": "混音室 : 丽风录音室",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "布拉格广场 - 蔡依林,周杰伦.lrc"
+}

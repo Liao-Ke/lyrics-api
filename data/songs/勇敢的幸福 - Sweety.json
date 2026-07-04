@@ -1,0 +1,292 @@
+{
+  "title": "勇敢的幸福",
+  "title_raw": "勇敢的幸福",
+  "version": null,
+  "artist": "Sweety",
+  "group_key": "勇敢的幸福|sweety",
+  "writers": {
+    "lyricist": "小树",
+    "composer": "織田哲郎",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.56,
+      "time_str": "00:03.560",
+      "text": "勇敢的幸福---sweety",
+      "translation": null
+    },
+    {
+      "time": 25.77,
+      "time_str": "00:25.770",
+      "text": "伴着盛开的花 蝴蝶才能飞舞",
+      "translation": null
+    },
+    {
+      "time": 30.0,
+      "time_str": "00:30.000",
+      "text": "带着希望 梦想才能飞往高处",
+      "translation": null
+    },
+    {
+      "time": 34.73,
+      "time_str": "00:34.730",
+      "text": "迎着温暖的风 我们不再无助",
+      "translation": null
+    },
+    {
+      "time": 39.52,
+      "time_str": "00:39.520",
+      "text": "因为你的祝福 我的爱不辛苦",
+      "translation": null
+    },
+    {
+      "time": 43.86,
+      "time_str": "00:43.860",
+      "text": "呼吸感动 我不再退步",
+      "translation": null
+    },
+    {
+      "time": 48.91,
+      "time_str": "00:48.910",
+      "text": "让音乐 赶走我的孤独",
+      "translation": null
+    },
+    {
+      "time": 53.2,
+      "time_str": "00:53.200",
+      "text": "我的勇气 因为你的保护",
+      "translation": null
+    },
+    {
+      "time": 58.79,
+      "time_str": "00:58.790",
+      "text": "不曾停下追逐真爱的脚步",
+      "translation": null
+    },
+    {
+      "time": 63.53,
+      "time_str": "01:03.530",
+      "text": "种下爱 种下梦  种下我们的心愿",
+      "translation": null
+    },
+    {
+      "time": 67.88,
+      "time_str": "01:07.880",
+      "text": "让阳光 照亮在 我们心灵最深处",
+      "translation": null
+    },
+    {
+      "time": 72.89,
+      "time_str": "01:12.890",
+      "text": "那些事 那些歌",
+      "translation": null
+    },
+    {
+      "time": 75.01,
+      "time_str": "01:15.010",
+      "text": "伴着我们的誓约",
+      "translation": null
+    },
+    {
+      "time": 77.38,
+      "time_str": "01:17.380",
+      "text": "不能哭 我们要 挑战未知旅途",
+      "translation": null
+    },
+    {
+      "time": 82.19,
+      "time_str": "01:22.190",
+      "text": "不怕输 我们有 笑声交织着泪水",
+      "translation": null
+    },
+    {
+      "time": 88.22,
+      "time_str": "01:28.220",
+      "text": "最勇敢的幸福",
+      "translation": null
+    },
+    {
+      "time": 98.88,
+      "time_str": "01:38.880",
+      "text": "伴着盛开的花 蝴蝶才能飞舞",
+      "translation": null
+    },
+    {
+      "time": 103.2,
+      "time_str": "01:43.200",
+      "text": "带着希望 梦想才能飞往高处",
+      "translation": null
+    },
+    {
+      "time": 107.81,
+      "time_str": "01:47.810",
+      "text": "迎着温暖的风 我们不再无助",
+      "translation": null
+    },
+    {
+      "time": 112.57,
+      "time_str": "01:52.570",
+      "text": "因为你的祝福 我的爱不辛苦",
+      "translation": null
+    },
+    {
+      "time": 116.93,
+      "time_str": "01:56.930",
+      "text": "呼吸感动 我不再退步",
+      "translation": null
+    },
+    {
+      "time": 122.07,
+      "time_str": "02:02.070",
+      "text": "让音乐 赶走我的孤独",
+      "translation": null
+    },
+    {
+      "time": 126.01,
+      "time_str": "02:06.010",
+      "text": "我的勇气 因为你的保护",
+      "translation": null
+    },
+    {
+      "time": 131.44,
+      "time_str": "02:11.440",
+      "text": "不曾停下追逐真爱的脚步",
+      "translation": null
+    },
+    {
+      "time": 136.05,
+      "time_str": "02:16.050",
+      "text": "种下爱 种下梦  种下我们的心愿",
+      "translation": null
+    },
+    {
+      "time": 141.01,
+      "time_str": "02:21.010",
+      "text": "让阳光 照亮在 我们心灵最深处",
+      "translation": null
+    },
+    {
+      "time": 145.78,
+      "time_str": "02:25.780",
+      "text": "那些事 那些歌",
+      "translation": null
+    },
+    {
+      "time": 148.02,
+      "time_str": "02:28.020",
+      "text": "伴着我们的誓约",
+      "translation": null
+    },
+    {
+      "time": 150.47,
+      "time_str": "02:30.470",
+      "text": "不能哭 我们要 挑战未知旅途",
+      "translation": null
+    },
+    {
+      "time": 155.61,
+      "time_str": "02:35.610",
+      "text": "不怕输 我们有 笑声交织着泪水",
+      "translation": null
+    },
+    {
+      "time": 161.72,
+      "time_str": "02:41.720",
+      "text": "最勇敢的幸福",
+      "translation": null
+    },
+    {
+      "time": 177.36,
+      "time_str": "02:57.360",
+      "text": "---爱过才知道痛把你留在心底最深处---",
+      "translation": null
+    },
+    {
+      "time": 182.88,
+      "time_str": "03:02.880",
+      "text": "种下爱 种下梦  种下我们的心愿",
+      "translation": null
+    },
+    {
+      "time": 187.83,
+      "time_str": "03:07.830",
+      "text": "让阳光 照亮在 我们心灵最深处",
+      "translation": null
+    },
+    {
+      "time": 192.38,
+      "time_str": "03:12.380",
+      "text": "那些事 那些歌",
+      "translation": null
+    },
+    {
+      "time": 194.71,
+      "time_str": "03:14.710",
+      "text": "伴着我们的誓约",
+      "translation": null
+    },
+    {
+      "time": 197.28,
+      "time_str": "03:17.280",
+      "text": "不能哭 我们要 挑战未知旅途",
+      "translation": null
+    },
+    {
+      "time": 203.2,
+      "time_str": "03:23.200",
+      "text": "种下爱 种下梦  种下我们的心愿",
+      "translation": null
+    },
+    {
+      "time": 208.0,
+      "time_str": "03:28.000",
+      "text": "让阳光 照亮在 我们心灵最深处",
+      "translation": null
+    },
+    {
+      "time": 212.95,
+      "time_str": "03:32.950",
+      "text": "那些事 那些歌",
+      "translation": null
+    },
+    {
+      "time": 215.6,
+      "time_str": "03:35.600",
+      "text": "伴着我们的誓约",
+      "translation": null
+    },
+    {
+      "time": 221.6,
+      "time_str": "03:41.600",
+      "text": "不能哭 我们要 挑战未知旅途",
+      "translation": null
+    },
+    {
+      "time": 228.6,
+      "time_str": "03:48.600",
+      "text": "不怕输 我们有 笑声交织着泪水",
+      "translation": null
+    },
+    {
+      "time": 230.09,
+      "time_str": "03:50.090",
+      "text": "最勇敢的幸福",
+      "translation": null
+    },
+    {
+      "time": 237.12,
+      "time_str": "03:57.120",
+      "text": "---希望大家喜欢---",
+      "translation": null
+    },
+    {
+      "time": 251.0,
+      "time_str": "04:11.000",
+      "text": "---结束---",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "勇敢的幸福 - Sweety.lrc"
+}

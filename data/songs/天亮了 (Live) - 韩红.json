@@ -1,0 +1,250 @@
+{
+  "title": "天亮了",
+  "title_raw": "天亮了 (Live)",
+  "version": "Live",
+  "artist": "韩红",
+  "group_key": "天亮了|韩红",
+  "writers": {
+    "lyricist": "韩红",
+    "composer": "韩红",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 35.04,
+      "time_str": "00:35.040",
+      "text": "那是一个秋天",
+      "translation": null
+    },
+    {
+      "time": 38.54,
+      "time_str": "00:38.540",
+      "text": "风儿那么缠绵",
+      "translation": null
+    },
+    {
+      "time": 42.14,
+      "time_str": "00:42.140",
+      "text": "让我想起他们",
+      "translation": null
+    },
+    {
+      "time": 45.6,
+      "time_str": "00:45.600",
+      "text": "那双无助的眼",
+      "translation": null
+    },
+    {
+      "time": 48.89,
+      "time_str": "00:48.890",
+      "text": "就在那美丽风景相伴的地方",
+      "translation": null
+    },
+    {
+      "time": 55.78,
+      "time_str": "00:55.780",
+      "text": "我听到一声巨响震彻山谷",
+      "translation": null
+    },
+    {
+      "time": 63.31,
+      "time_str": "01:03.310",
+      "text": "就是那个秋天",
+      "translation": null
+    },
+    {
+      "time": 65.8,
+      "time_str": "01:05.800",
+      "text": "再看不到爸爸的脸",
+      "translation": null
+    },
+    {
+      "time": 70.28,
+      "time_str": "01:10.280",
+      "text": "他用他的双肩",
+      "translation": null
+    },
+    {
+      "time": 72.96,
+      "time_str": "01:12.960",
+      "text": "托起我重生的起点",
+      "translation": null
+    },
+    {
+      "time": 76.99,
+      "time_str": "01:16.990",
+      "text": "黑暗中泪水沾满了双眼",
+      "translation": null
+    },
+    {
+      "time": 84.34,
+      "time_str": "01:24.340",
+      "text": "不要离开不要伤害",
+      "translation": null
+    },
+    {
+      "time": 91.21,
+      "time_str": "01:31.210",
+      "text": "我看到爸爸妈妈就这么走远",
+      "translation": null
+    },
+    {
+      "time": 94.9,
+      "time_str": "01:34.900",
+      "text": "留下我在这陌生的人世间",
+      "translation": null
+    },
+    {
+      "time": 98.45,
+      "time_str": "01:38.450",
+      "text": "不知道未来还会有什么风险",
+      "translation": null
+    },
+    {
+      "time": 105.38,
+      "time_str": "01:45.380",
+      "text": "我想要紧紧抓住他的手",
+      "translation": null
+    },
+    {
+      "time": 109.18,
+      "time_str": "01:49.180",
+      "text": "妈妈告诉我希望还会有",
+      "translation": null
+    },
+    {
+      "time": 112.71,
+      "time_str": "01:52.710",
+      "text": "看到太阳出来妈妈笑了",
+      "translation": null
+    },
+    {
+      "time": 120.08,
+      "time_str": "02:00.080",
+      "text": "天亮了",
+      "translation": null
+    },
+    {
+      "time": 153.16,
+      "time_str": "02:33.160",
+      "text": "这是一个夜晚",
+      "translation": null
+    },
+    {
+      "time": 156.68,
+      "time_str": "02:36.680",
+      "text": "天上宿星点点",
+      "translation": null
+    },
+    {
+      "time": 160.19,
+      "time_str": "02:40.190",
+      "text": "我在梦里看见",
+      "translation": null
+    },
+    {
+      "time": 163.87,
+      "time_str": "02:43.870",
+      "text": "我的妈妈",
+      "translation": null
+    },
+    {
+      "time": 167.08,
+      "time_str": "02:47.080",
+      "text": "一个人在世上要学会坚强",
+      "translation": null
+    },
+    {
+      "time": 174.17,
+      "time_str": "02:54.170",
+      "text": "你不要离开不要伤害",
+      "translation": null
+    },
+    {
+      "time": 181.28,
+      "time_str": "03:01.280",
+      "text": "我看到爸爸妈妈就这么走远",
+      "translation": null
+    },
+    {
+      "time": 184.98,
+      "time_str": "03:04.980",
+      "text": "留下我在这陌生的人世间",
+      "translation": null
+    },
+    {
+      "time": 188.37,
+      "time_str": "03:08.370",
+      "text": "我愿为他建造一个美丽的花园",
+      "translation": null
+    },
+    {
+      "time": 195.36,
+      "time_str": "03:15.360",
+      "text": "我想要紧紧抓住他的手",
+      "translation": null
+    },
+    {
+      "time": 199.03,
+      "time_str": "03:19.030",
+      "text": "妈妈告诉我希望还会有",
+      "translation": null
+    },
+    {
+      "time": 202.52,
+      "time_str": "03:22.520",
+      "text": "看到太阳出来 天亮了",
+      "translation": null
+    },
+    {
+      "time": 209.4,
+      "time_str": "03:29.400",
+      "text": "我看到爸爸妈妈就这么走远",
+      "translation": null
+    },
+    {
+      "time": 213.01,
+      "time_str": "03:33.010",
+      "text": "留下我在这陌生的人世间",
+      "translation": null
+    },
+    {
+      "time": 216.49,
+      "time_str": "03:36.490",
+      "text": "我愿为他建造一个美丽的花园",
+      "translation": null
+    },
+    {
+      "time": 223.55,
+      "time_str": "03:43.550",
+      "text": "我想要紧紧抓住他的手",
+      "translation": null
+    },
+    {
+      "time": 227.29,
+      "time_str": "03:47.290",
+      "text": "妈妈告诉我希望还会有",
+      "translation": null
+    },
+    {
+      "time": 230.71,
+      "time_str": "03:50.710",
+      "text": "看到太阳出来",
+      "translation": null
+    },
+    {
+      "time": 233.13,
+      "time_str": "03:53.130",
+      "text": "他们笑了",
+      "translation": null
+    },
+    {
+      "time": 241.19,
+      "time_str": "04:01.190",
+      "text": "天亮了",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天亮了 (Live) - 韩红.lrc"
+}

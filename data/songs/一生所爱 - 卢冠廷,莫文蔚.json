@@ -1,0 +1,136 @@
+{
+  "title": "一生所爱",
+  "title_raw": "一生所爱",
+  "version": null,
+  "artist": "卢冠廷,莫文蔚",
+  "group_key": "一生所爱|卢冠廷,莫文蔚",
+  "writers": {
+    "lyricist": "唐书琛",
+    "composer": "卢冠廷",
+    "arranger": "卢冠廷"
+  },
+  "lyrics": [
+    {
+      "time": 38.988,
+      "time_str": "00:38.988",
+      "text": "从前现在过去了再不来",
+      "translation": null
+    },
+    {
+      "time": 46.887,
+      "time_str": "00:46.887",
+      "text": "红红落叶长埋尘土内",
+      "translation": null
+    },
+    {
+      "time": 55.057,
+      "time_str": "00:55.057",
+      "text": "开始终结总是没变改",
+      "translation": null
+    },
+    {
+      "time": 66.689,
+      "time_str": "01:06.689",
+      "text": "天边的你飘泊白云外",
+      "translation": null
+    },
+    {
+      "time": 74.388,
+      "time_str": "01:14.388",
+      "text": "苦海翻起爱恨",
+      "translation": null
+    },
+    {
+      "time": 83.689,
+      "time_str": "01:23.689",
+      "text": "在世间难逃避命运",
+      "translation": null
+    },
+    {
+      "time": 92.177,
+      "time_str": "01:32.177",
+      "text": "相亲竟不可接近",
+      "translation": null
+    },
+    {
+      "time": 102.189,
+      "time_str": "01:42.189",
+      "text": "或我应该相信是缘分",
+      "translation": null
+    },
+    {
+      "time": 148.48,
+      "time_str": "02:28.480",
+      "text": "情人别后永远再不来(消散的情缘)",
+      "translation": null
+    },
+    {
+      "time": 157.766,
+      "time_str": "02:37.766",
+      "text": "无言独坐放眼尘世外(愿来日再续)",
+      "translation": null
+    },
+    {
+      "time": 165.57,
+      "time_str": "02:45.570",
+      "text": "鲜花虽会凋谢(只愿)但会再开(为你)",
+      "translation": null
+    },
+    {
+      "time": 174.487,
+      "time_str": "02:54.487",
+      "text": "一生所爱隐约(守候)在白云外(期待)",
+      "translation": null
+    },
+    {
+      "time": 184.737,
+      "time_str": "03:04.737",
+      "text": "苦海翻起爱恨",
+      "translation": null
+    },
+    {
+      "time": 193.487,
+      "time_str": "03:13.487",
+      "text": "在世间难逃避命运",
+      "translation": null
+    },
+    {
+      "time": 202.718,
+      "time_str": "03:22.718",
+      "text": "相亲竟不可接近",
+      "translation": null
+    },
+    {
+      "time": 211.576,
+      "time_str": "03:31.576",
+      "text": "或我应该相信是缘分",
+      "translation": null
+    },
+    {
+      "time": 221.576,
+      "time_str": "03:41.576",
+      "text": "苦海翻起爱恨",
+      "translation": null
+    },
+    {
+      "time": 231.099,
+      "time_str": "03:51.099",
+      "text": "在世间难逃避命运",
+      "translation": null
+    },
+    {
+      "time": 239.536,
+      "time_str": "03:59.536",
+      "text": "相亲竟不可接近",
+      "translation": null
+    },
+    {
+      "time": 248.487,
+      "time_str": "04:08.487",
+      "text": "或我应该相信是缘分",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一生所爱 - 卢冠廷,莫文蔚.lrc"
+}

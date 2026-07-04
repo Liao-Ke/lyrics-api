@@ -1,0 +1,166 @@
+{
+  "title": "牧羊姑娘",
+  "title_raw": "牧羊姑娘",
+  "version": null,
+  "artist": "群星",
+  "group_key": "牧羊姑娘|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 47.12,
+      "time_str": "00:47.120",
+      "text": "对面山上的姑娘",
+      "translation": null
+    },
+    {
+      "time": 54.06,
+      "time_str": "00:54.060",
+      "text": "你为谁放着群羊",
+      "translation": null
+    },
+    {
+      "time": 61.73,
+      "time_str": "01:01.730",
+      "text": "泪水湿透了你的衣裳",
+      "translation": null
+    },
+    {
+      "time": 68.5,
+      "time_str": "01:08.500",
+      "text": "你为什么这样悲伤悲伤",
+      "translation": null
+    },
+    {
+      "time": 78.03,
+      "time_str": "01:18.030",
+      "text": "山上这样得荒凉",
+      "translation": null
+    },
+    {
+      "time": 90.62,
+      "time_str": "01:30.620",
+      "text": "山上这样得荒凉",
+      "translation": null
+    },
+    {
+      "time": 97.92,
+      "time_str": "01:37.920",
+      "text": "草儿是这样枯黄",
+      "translation": null
+    },
+    {
+      "time": 105.21,
+      "time_str": "01:45.210",
+      "text": "羊儿再没有食粮",
+      "translation": null
+    },
+    {
+      "time": 112.31,
+      "time_str": "01:52.310",
+      "text": "主人的鞭儿举起了抽在我身上",
+      "translation": null
+    },
+    {
+      "time": 120.8,
+      "time_str": "02:00.800",
+      "text": "对面山上的姑娘",
+      "translation": null
+    },
+    {
+      "time": 150.49,
+      "time_str": "02:30.490",
+      "text": "对面山上的姑娘",
+      "translation": null
+    },
+    {
+      "time": 157.51,
+      "time_str": "02:37.510",
+      "text": "那缓缓风吹得好凄凉",
+      "translation": null
+    },
+    {
+      "time": 165.06,
+      "time_str": "02:45.060",
+      "text": "穿的是薄薄的衣裳",
+      "translation": null
+    },
+    {
+      "time": 171.88,
+      "time_str": "02:51.880",
+      "text": "你为什么还不回村庄回村庄",
+      "translation": null
+    },
+    {
+      "time": 180.03,
+      "time_str": "03:00.030",
+      "text": "北风吹得我冰凉",
+      "translation": null
+    },
+    {
+      "time": 194.1,
+      "time_str": "03:14.100",
+      "text": "北风吹得我冰凉",
+      "translation": null
+    },
+    {
+      "time": 201.34,
+      "time_str": "03:21.340",
+      "text": "我愿靠在羊儿身旁",
+      "translation": null
+    },
+    {
+      "time": 208.48,
+      "time_str": "03:28.480",
+      "text": "再也不愿回村庄",
+      "translation": null
+    },
+    {
+      "time": 215.76,
+      "time_str": "03:35.760",
+      "text": "主人的屠刀闪亮亮要宰我的羊",
+      "translation": null
+    },
+    {
+      "time": 252.17,
+      "time_str": "04:12.170",
+      "text": "北风吹得我冰凉",
+      "translation": null
+    },
+    {
+      "time": 259.54,
+      "time_str": "04:19.540",
+      "text": "我愿靠在羊儿身旁",
+      "translation": null
+    },
+    {
+      "time": 266.68,
+      "time_str": "04:26.680",
+      "text": "再也不愿回村庄",
+      "translation": null
+    },
+    {
+      "time": 274.07,
+      "time_str": "04:34.070",
+      "text": "主人的屠刀闪亮亮要宰我的羊",
+      "translation": null
+    },
+    {
+      "time": 281.41,
+      "time_str": "04:41.410",
+      "text": "再也不愿回村庄",
+      "translation": null
+    },
+    {
+      "time": 288.47,
+      "time_str": "04:48.470",
+      "text": "主人的屠刀闪亮亮要宰我的羊",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "牧羊姑娘 - 群星.lrc"
+}

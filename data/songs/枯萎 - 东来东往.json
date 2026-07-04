@@ -1,0 +1,238 @@
+{
+  "title": "枯萎",
+  "title_raw": "枯萎",
+  "version": null,
+  "artist": "东来东往",
+  "group_key": "枯萎|东来东往",
+  "writers": {
+    "lyricist": "戴凌鹏",
+    "composer": "戴凌鹏",
+    "arranger": "阎宁"
+  },
+  "lyrics": [
+    {
+      "time": 18.2,
+      "time_str": "00:18.200",
+      "text": "分手到底是不是你要的结果",
+      "translation": null
+    },
+    {
+      "time": 24.02,
+      "time_str": "00:24.020",
+      "text": "给不了我太多还不准我难过",
+      "translation": null
+    },
+    {
+      "time": 31.64,
+      "time_str": "00:31.640",
+      "text": "不知道是为了什么",
+      "translation": null
+    },
+    {
+      "time": 35.26,
+      "time_str": "00:35.260",
+      "text": "还要把你无力的爱 记得那么多",
+      "translation": null
+    },
+    {
+      "time": 42.07,
+      "time_str": "00:42.070",
+      "text": "怎么放手",
+      "translation": null
+    },
+    {
+      "time": 46.82,
+      "time_str": "00:46.820",
+      "text": "也许上天安排你我擦身而过",
+      "translation": null
+    },
+    {
+      "time": 53.01,
+      "time_str": "00:53.010",
+      "text": "我明白和你的爱不可能会有结果",
+      "translation": null
+    },
+    {
+      "time": 60.74,
+      "time_str": "01:00.740",
+      "text": "你留下泛黄的承诺",
+      "translation": null
+    },
+    {
+      "time": 64.23,
+      "time_str": "01:04.230",
+      "text": "要我抱着你的双手流着泪不准你走",
+      "translation": null
+    },
+    {
+      "time": 71.61,
+      "time_str": "01:11.610",
+      "text": "说我贱   我也无话可说",
+      "translation": null
+    },
+    {
+      "time": 74.74,
+      "time_str": "01:14.740",
+      "text": "连哭都是我的错",
+      "translation": null
+    },
+    {
+      "time": 78.17,
+      "time_str": "01:18.170",
+      "text": "在你面前还要我怎么做",
+      "translation": null
+    },
+    {
+      "time": 82.05,
+      "time_str": "01:22.050",
+      "text": "我看见你们拥抱还一笑而过",
+      "translation": null
+    },
+    {
+      "time": 86.55,
+      "time_str": "01:26.550",
+      "text": "沉默是我的错",
+      "translation": null
+    },
+    {
+      "time": 89.3,
+      "time_str": "01:29.300",
+      "text": "连哭都是我的错",
+      "translation": null
+    },
+    {
+      "time": 92.86,
+      "time_str": "01:32.860",
+      "text": "空房间独自等待着日落",
+      "translation": null
+    },
+    {
+      "time": 96.74,
+      "time_str": "01:36.740",
+      "text": "爱没有进入身体已经太执着",
+      "translation": null
+    },
+    {
+      "time": 101.11,
+      "time_str": "01:41.110",
+      "text": "爱你是我的错 连结束也是我的错",
+      "translation": null
+    },
+    {
+      "time": 120.23,
+      "time_str": "02:00.230",
+      "text": "也许上天安排你我擦身而过",
+      "translation": null
+    },
+    {
+      "time": 125.67,
+      "time_str": "02:05.670",
+      "text": "我明白和你的爱不可能会有结果",
+      "translation": null
+    },
+    {
+      "time": 133.49,
+      "time_str": "02:13.490",
+      "text": "你留下泛黄的承诺",
+      "translation": null
+    },
+    {
+      "time": 136.98,
+      "time_str": "02:16.980",
+      "text": "要我抱着你的双手流着泪不准你走",
+      "translation": null
+    },
+    {
+      "time": 143.98,
+      "time_str": "02:23.980",
+      "text": "说我贱我也无话可说",
+      "translation": null
+    },
+    {
+      "time": 147.42,
+      "time_str": "02:27.420",
+      "text": "连哭都是我的错",
+      "translation": null
+    },
+    {
+      "time": 150.74,
+      "time_str": "02:30.740",
+      "text": "在你面前还要我怎么做",
+      "translation": null
+    },
+    {
+      "time": 154.98,
+      "time_str": "02:34.980",
+      "text": "我看见你们拥抱还一笑而过",
+      "translation": null
+    },
+    {
+      "time": 159.17,
+      "time_str": "02:39.170",
+      "text": "沉默是我的错",
+      "translation": null
+    },
+    {
+      "time": 161.98,
+      "time_str": "02:41.980",
+      "text": "连哭都是我的错",
+      "translation": null
+    },
+    {
+      "time": 165.61,
+      "time_str": "02:45.610",
+      "text": "空房间独自等待着日落",
+      "translation": null
+    },
+    {
+      "time": 169.42,
+      "time_str": "02:49.420",
+      "text": "爱没有进入身体已经太执着",
+      "translation": null
+    },
+    {
+      "time": 173.8,
+      "time_str": "02:53.800",
+      "text": "爱你是我的错 连结束也是我的错",
+      "translation": null
+    },
+    {
+      "time": 180.55,
+      "time_str": "03:00.550",
+      "text": "哦 哦 哦",
+      "translation": null
+    },
+    {
+      "time": 191.11,
+      "time_str": "03:11.110",
+      "text": "连哭都是我的错",
+      "translation": null
+    },
+    {
+      "time": 194.61,
+      "time_str": "03:14.610",
+      "text": "空房间独自等待着日落",
+      "translation": null
+    },
+    {
+      "time": 198.48,
+      "time_str": "03:18.480",
+      "text": "爱没有进入身体已经太执着",
+      "translation": null
+    },
+    {
+      "time": 202.86,
+      "time_str": "03:22.860",
+      "text": "爱你是我的错 连结束也是我的错",
+      "translation": null
+    },
+    {
+      "time": 212.57,
+      "time_str": "03:32.570",
+      "text": "哦 哦 哦",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "枯萎 - 东来东往.lrc"
+}

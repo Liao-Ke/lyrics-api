@@ -1,0 +1,238 @@
+{
+  "title": "化蝶飞",
+  "title_raw": "化蝶飞",
+  "version": null,
+  "artist": "花儿乐队",
+  "group_key": "化蝶飞|花儿乐队",
+  "writers": {
+    "lyricist": "大张伟",
+    "composer": "大张伟",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.0,
+      "time_str": "00:01.000",
+      "text": "化蝶飞 化蝶飞",
+      "translation": null
+    },
+    {
+      "time": 7.62,
+      "time_str": "00:07.620",
+      "text": "因你沉鱼落雁而陶醉",
+      "translation": null
+    },
+    {
+      "time": 11.29,
+      "time_str": "00:11.290",
+      "text": "扑啦扑啦飞 扑啦追 相随",
+      "translation": null
+    },
+    {
+      "time": 14.91,
+      "time_str": "00:14.910",
+      "text": "吧哩呀嘿 吧哩呀嘿 吧哩呀嘿",
+      "translation": null
+    },
+    {
+      "time": 20.22,
+      "time_str": "00:20.220",
+      "text": "吧哩呀嘿 吧哩呀嘿 吧哩呀嘿",
+      "translation": null
+    },
+    {
+      "time": 25.71,
+      "time_str": "00:25.710",
+      "text": "吧哩呀嘿 吧哩呀嘿",
+      "translation": null
+    },
+    {
+      "time": 29.95,
+      "time_str": "00:29.950",
+      "text": "扑啦扑啦飞 扑啦扑啦追 紧相随",
+      "translation": null
+    },
+    {
+      "time": 37.37,
+      "time_str": "00:37.370",
+      "text": "只要你完美 我情愿破碎 无所谓",
+      "translation": null
+    },
+    {
+      "time": 44.25,
+      "time_str": "00:44.250",
+      "text": "春风来作陪 秋叶去点缀 长依偎",
+      "translation": null
+    },
+    {
+      "time": 51.86,
+      "time_str": "00:51.860",
+      "text": "愿天公做美 成全你我天仙配",
+      "translation": null
+    },
+    {
+      "time": 56.35,
+      "time_str": "00:56.350",
+      "text": "化蝶飞 化蝶飞",
+      "translation": null
+    },
+    {
+      "time": 63.53,
+      "time_str": "01:03.530",
+      "text": "因你沉鱼落雁而陶醉",
+      "translation": null
+    },
+    {
+      "time": 67.21,
+      "time_str": "01:07.210",
+      "text": "扑啦扑啦飞 扑啦追 相随",
+      "translation": null
+    },
+    {
+      "time": 70.76,
+      "time_str": "01:10.760",
+      "text": "化蝶飞 化蝶飞",
+      "translation": null
+    },
+    {
+      "time": 77.93,
+      "time_str": "01:17.930",
+      "text": "因你阴晴圆缺而喜悲",
+      "translation": null
+    },
+    {
+      "time": 81.56,
+      "time_str": "01:21.560",
+      "text": "扑啦扑啦飞 扑啦追 无悔",
+      "translation": null
+    },
+    {
+      "time": 85.18,
+      "time_str": "01:25.180",
+      "text": "吧哩呀嘿 吧哩呀嘿 吧哩呀嘿",
+      "translation": null
+    },
+    {
+      "time": 90.66,
+      "time_str": "01:30.660",
+      "text": "吧哩呀嘿 吧哩呀嘿 吧哩呀嘿",
+      "translation": null
+    },
+    {
+      "time": 95.98,
+      "time_str": "01:35.980",
+      "text": "吧哩呀嘿 吧哩呀嘿",
+      "translation": null
+    },
+    {
+      "time": 100.66,
+      "time_str": "01:40.660",
+      "text": "扑啦扑啦飞 扑啦扑啦追 人自醉",
+      "translation": null
+    },
+    {
+      "time": 107.15,
+      "time_str": "01:47.150",
+      "text": "只要你欣慰 我情愿成灰 无所畏",
+      "translation": null
+    },
+    {
+      "time": 114.83,
+      "time_str": "01:54.830",
+      "text": "春恋柳妩媚 蝶恋花香味 终相会",
+      "translation": null
+    },
+    {
+      "time": 122.19,
+      "time_str": "02:02.190",
+      "text": "愿天公做美 成全你我天仙配",
+      "translation": null
+    },
+    {
+      "time": 126.63,
+      "time_str": "02:06.630",
+      "text": "化蝶飞 化蝶飞",
+      "translation": null
+    },
+    {
+      "time": 133.8,
+      "time_str": "02:13.800",
+      "text": "因你沉鱼落雁而陶醉",
+      "translation": null
+    },
+    {
+      "time": 137.55,
+      "time_str": "02:17.550",
+      "text": "扑啦扑啦飞 扑啦追 相随",
+      "translation": null
+    },
+    {
+      "time": 141.03,
+      "time_str": "02:21.030",
+      "text": "化蝶飞 化蝶飞",
+      "translation": null
+    },
+    {
+      "time": 148.21,
+      "time_str": "02:28.210",
+      "text": "因你阴晴圆缺而喜悲",
+      "translation": null
+    },
+    {
+      "time": 151.89,
+      "time_str": "02:31.890",
+      "text": "扑啦扑啦飞 扑啦追 无悔",
+      "translation": null
+    },
+    {
+      "time": 170.27,
+      "time_str": "02:50.270",
+      "text": "化蝶飞 化蝶飞",
+      "translation": null
+    },
+    {
+      "time": 177.1,
+      "time_str": "02:57.100",
+      "text": "因你沉鱼落雁而陶醉",
+      "translation": null
+    },
+    {
+      "time": 180.78,
+      "time_str": "03:00.780",
+      "text": "扑啦扑啦飞 扑啦追 相随",
+      "translation": null
+    },
+    {
+      "time": 184.34,
+      "time_str": "03:04.340",
+      "text": "化蝶飞 化蝶飞",
+      "translation": null
+    },
+    {
+      "time": 191.51,
+      "time_str": "03:11.510",
+      "text": "因你阴晴圆缺而喜悲",
+      "translation": null
+    },
+    {
+      "time": 195.19,
+      "time_str": "03:15.190",
+      "text": "扑啦扑啦飞 扑啦追 无悔",
+      "translation": null
+    },
+    {
+      "time": 198.74,
+      "time_str": "03:18.740",
+      "text": "化蝶飞 化蝶飞",
+      "translation": null
+    },
+    {
+      "time": 205.92,
+      "time_str": "03:25.920",
+      "text": "化蝶飞 化蝶飞",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "化蝶飞 - 花儿乐队.lrc"
+}

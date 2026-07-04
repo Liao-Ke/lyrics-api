@@ -1,0 +1,298 @@
+{
+  "title": "I Want My Tears Back",
+  "title_raw": "I Want My Tears Back",
+  "version": null,
+  "artist": "Nightwish",
+  "group_key": "i want my tears back|nightwish",
+  "writers": {
+    "lyricist": "Tuomas Holopainen",
+    "composer": "Tuomas Holopainen",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 5.1,
+      "time_str": "00:05.100",
+      "text": "I want my tears back",
+      "translation": "我想再一次热泪盈眶"
+    },
+    {
+      "time": 41.5,
+      "time_str": "00:41.500",
+      "text": "The treetops, the chimneys",
+      "translation": "那些树梢，那些烟囱"
+    },
+    {
+      "time": 44.9,
+      "time_str": "00:44.900",
+      "text": "The snowbed stories, winter grey",
+      "translation": "灰色冬天，那被雪覆盖的故事。"
+    },
+    {
+      "time": 48.4,
+      "time_str": "00:48.400",
+      "text": "Wildflowers, those meadows of heaven",
+      "translation": "花之盛开，草之天堂"
+    },
+    {
+      "time": 53.1,
+      "time_str": "00:53.100",
+      "text": "Wind in the wheat",
+      "translation": "风吹麦田"
+    },
+    {
+      "time": 55.3,
+      "time_str": "00:55.300",
+      "text": "A railroad across waters",
+      "translation": "穿过水域的铁道"
+    },
+    {
+      "time": 58.4,
+      "time_str": "00:58.400",
+      "text": "The scent of grandfatherly love",
+      "translation": "四周弥漫着慈爱的气息。"
+    },
+    {
+      "time": 62.15,
+      "time_str": "01:02.150",
+      "text": "Blue bayous, Decembers",
+      "translation": "每逢十二月，蓝色海湾上，"
+    },
+    {
+      "time": 65.45,
+      "time_str": "01:05.450",
+      "text": "Moon through a dragonfly's wings",
+      "translation": "月亮抚过蜻蜓的翅膀。"
+    },
+    {
+      "time": 68.6,
+      "time_str": "01:08.600",
+      "text": "Where is the wonder where's the awe",
+      "translation": "那些不可思议与惊叹哪儿去了？"
+    },
+    {
+      "time": 71.95,
+      "time_str": "01:11.950",
+      "text": "Where's dear Alice knocking on the door",
+      "translation": "亲爱的爱丽丝正在哪儿敲门？"
+    },
+    {
+      "time": 75.75,
+      "time_str": "01:15.750",
+      "text": "Where's the trapdoor that takes me there",
+      "translation": "到底哪儿才有那扇通往"
+    },
+    {
+      "time": 78.3,
+      "time_str": "01:18.300",
+      "text": "Where the real is shattered by a Mad March Hare",
+      "translation": "被疯狂粉碎了真实的门"
+    },
+    {
+      "time": 82.15,
+      "time_str": "01:22.150",
+      "text": "Where is the wonder where's the awe",
+      "translation": "那些不可思议与惊叹哪儿去了？"
+    },
+    {
+      "time": 85.3,
+      "time_str": "01:25.300",
+      "text": "Where are the sleepless nights I used to live for",
+      "translation": "那些让我为之心心念念的失眠之夜都去哪了？"
+    },
+    {
+      "time": 89.3,
+      "time_str": "01:29.300",
+      "text": "Before the years take me",
+      "translation": "多希望在我老死之前，"
+    },
+    {
+      "time": 92.15,
+      "time_str": "01:32.150",
+      "text": "I wish to see the lost in me",
+      "translation": "我希望看见过去我所迷失的"
+    },
+    {
+      "time": 100.85,
+      "time_str": "01:40.850",
+      "text": "I want my tears back",
+      "translation": "我想再次热泪盈眶"
+    },
+    {
+      "time": 107.45,
+      "time_str": "01:47.450",
+      "text": "I want my tears back now",
+      "translation": "我现在希望过去的我从未哭泣"
+    },
+    {
+      "time": 123.55,
+      "time_str": "02:03.550",
+      "text": "A ballet on a grove",
+      "translation": "芭蕾舞台上，"
+    },
+    {
+      "time": 126.95,
+      "time_str": "02:06.950",
+      "text": "Still growing young all alone",
+      "translation": "还在演绎着经久不衰的林中仙女。"
+    },
+    {
+      "time": 130.55,
+      "time_str": "02:10.550",
+      "text": "A rag doll, a best friend",
+      "translation": "抱上布娃娃，叫个好伙伴，"
+    },
+    {
+      "time": 133.75,
+      "time_str": "02:13.750",
+      "text": "The voice of Mary Costa",
+      "translation": "一起听 Mary Costa 的声音。"
+    },
+    {
+      "time": 137.0,
+      "time_str": "02:17.000",
+      "text": "Where is the wonder where's the awe",
+      "translation": "那些不可思议与惊叹哪儿去了？"
+    },
+    {
+      "time": 140.2,
+      "time_str": "02:20.200",
+      "text": "Where's dear Alice knocking on the door",
+      "translation": "亲爱的爱丽丝正在哪儿敲门？"
+    },
+    {
+      "time": 144.3,
+      "time_str": "02:24.300",
+      "text": "Where's the trapdoor that takes me there",
+      "translation": "到底哪儿才有那扇通往"
+    },
+    {
+      "time": 146.75,
+      "time_str": "02:26.750",
+      "text": "Where the real is shattered by a Mad March Hare",
+      "translation": "被发了疯的三月兔粉碎了真实之地的暗门？"
+    },
+    {
+      "time": 150.4,
+      "time_str": "02:30.400",
+      "text": "Where is the wonder where's the awe",
+      "translation": "那些不可思议与惊叹哪儿去了？"
+    },
+    {
+      "time": 154.0,
+      "time_str": "02:34.000",
+      "text": "Where are the sleepless nights I used to live for",
+      "translation": "那些让我为之心心念念的失眠之夜都去哪了？"
+    },
+    {
+      "time": 158.0,
+      "time_str": "02:38.000",
+      "text": "Before the years take me",
+      "translation": "多希望在我老死之前，"
+    },
+    {
+      "time": 160.7,
+      "time_str": "02:40.700",
+      "text": "I wish to see the lost in me",
+      "translation": "能再看一眼我回不去的童年。"
+    },
+    {
+      "time": 164.4,
+      "time_str": "02:44.400",
+      "text": "Where is the wonder where's the awe",
+      "translation": "那些不可思议与惊叹哪儿去了？"
+    },
+    {
+      "time": 167.65,
+      "time_str": "02:47.650",
+      "text": "Where are the sleepless nights I used to live for",
+      "translation": "那些让我为之心心念念到失眠的都去哪了？"
+    },
+    {
+      "time": 171.6,
+      "time_str": "02:51.600",
+      "text": "Before the years take me",
+      "translation": "多希望在我老死之前，"
+    },
+    {
+      "time": 174.15,
+      "time_str": "02:54.150",
+      "text": "I wish to see the lost in me",
+      "translation": "能再看一眼我回不去的童年。"
+    },
+    {
+      "time": 183.25,
+      "time_str": "03:03.250",
+      "text": "I want my tears back",
+      "translation": "让我再一次热泪盈眶"
+    },
+    {
+      "time": 189.9,
+      "time_str": "03:09.900",
+      "text": "I want my tears back now",
+      "translation": "我现在希望过去的我从未哭泣"
+    },
+    {
+      "time": 263.6,
+      "time_str": "04:23.600",
+      "text": "Where is the wonder where's the awe",
+      "translation": "那些不可思议与惊叹哪儿去了？"
+    },
+    {
+      "time": 267.15,
+      "time_str": "04:27.150",
+      "text": "Where are the sleepless nights I used to live for",
+      "translation": "那些让我为之心心念念的失眠之夜都去哪了？"
+    },
+    {
+      "time": 271.3,
+      "time_str": "04:31.300",
+      "text": "Before the years take me",
+      "translation": "多希望在我老死之前，"
+    },
+    {
+      "time": 273.7,
+      "time_str": "04:33.700",
+      "text": "I wish to see the lost in me",
+      "translation": "我希望看见过去我所迷失的"
+    },
+    {
+      "time": 277.5,
+      "time_str": "04:37.500",
+      "text": "Where is the wonder where's the awe",
+      "translation": "那些不可思议与惊叹哪儿去了？"
+    },
+    {
+      "time": 280.9,
+      "time_str": "04:40.900",
+      "text": "Where are the sleepless nights I used to live for",
+      "translation": "那些让我为之心心念念的失眠之夜都去哪了？"
+    },
+    {
+      "time": 284.85,
+      "time_str": "04:44.850",
+      "text": "Before the years take me",
+      "translation": "多希望在我老死之前，"
+    },
+    {
+      "time": 287.5,
+      "time_str": "04:47.500",
+      "text": "I wish to see the lost in me",
+      "translation": "能再看一眼我回不去的童年。"
+    },
+    {
+      "time": 296.25,
+      "time_str": "04:56.250",
+      "text": "I want my tears back",
+      "translation": "让我再次热泪盈眶"
+    },
+    {
+      "time": 302.85,
+      "time_str": "05:02.850",
+      "text": "I want my tears back now",
+      "translation": "我现在希望过去的我从未哭泣"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "I Want My Tears Back - Nightwish.lrc"
+}

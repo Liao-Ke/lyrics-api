@@ -1,0 +1,310 @@
+{
+  "title": "米兰的小铁匠",
+  "title_raw": "米兰的小铁匠",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "米兰的小铁匠|周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 33.508,
+      "time_str": "00:33.508",
+      "text": "跑遍了牧场 又绕过了村庄",
+      "translation": null
+    },
+    {
+      "time": 36.394,
+      "time_str": "00:36.394",
+      "text": "他就站在 街角的旧报摊",
+      "translation": null
+    },
+    {
+      "time": 38.989,
+      "time_str": "00:38.989",
+      "text": "眼睛盯着 隔壁里的橱窗",
+      "translation": null
+    },
+    {
+      "time": 41.577,
+      "time_str": "00:41.577",
+      "text": "一把吉他 远远欣赏",
+      "translation": null
+    },
+    {
+      "time": 44.823,
+      "time_str": "00:44.823",
+      "text": "木炭 一箩筐",
+      "translation": null
+    },
+    {
+      "time": 47.384,
+      "time_str": "00:47.384",
+      "text": "木炭 一直放",
+      "translation": null
+    },
+    {
+      "time": 49.956,
+      "time_str": "00:49.956",
+      "text": "木炭 剩一半",
+      "translation": null
+    },
+    {
+      "time": 51.75,
+      "time_str": "00:51.750",
+      "text": "火炉烫 小铁匠存钱买希望 在流汗",
+      "translation": null
+    },
+    {
+      "time": 55.252,
+      "time_str": "00:55.252",
+      "text": "巴洛克建筑的街道旁",
+      "translation": null
+    },
+    {
+      "time": 57.855,
+      "time_str": "00:57.855",
+      "text": "一家烟雾缭绕的酒馆",
+      "translation": null
+    },
+    {
+      "time": 60.46,
+      "time_str": "01:00.460",
+      "text": "波兰的吟唱诗人在弹唱",
+      "translation": null
+    },
+    {
+      "time": 62.5,
+      "time_str": "01:02.500",
+      "text": "小铁匠在门外",
+      "translation": null
+    },
+    {
+      "time": 63.781,
+      "time_str": "01:03.781",
+      "text": "进不去在苦恼",
+      "translation": null
+    },
+    {
+      "time": 65.089,
+      "time_str": "01:05.089",
+      "text": "他的铜板还太少",
+      "translation": null
+    },
+    {
+      "time": 68.029,
+      "time_str": "01:08.029",
+      "text": "他真的真的想知道",
+      "translation": null
+    },
+    {
+      "time": 70.604,
+      "time_str": "01:10.604",
+      "text": "那首来自东欧的民谣 和弦到底什么调",
+      "translation": null
+    },
+    {
+      "time": 73.174,
+      "time_str": "01:13.174",
+      "text": "（米兰的天空刚破晓）",
+      "translation": null
+    },
+    {
+      "time": 75.761,
+      "time_str": "01:15.761",
+      "text": "那马蹄铁还要敲多少 吉他才能买得到（他真的真的想知道）",
+      "translation": null
+    },
+    {
+      "time": 80.603,
+      "time_str": "01:20.603",
+      "text": "他不知道怎么办才好 睡不着（他将那扑满打破了）",
+      "translation": null
+    },
+    {
+      "time": 85.749,
+      "time_str": "01:25.749",
+      "text": "小小愿望就快实现了",
+      "translation": null
+    },
+    {
+      "time": 89.66,
+      "time_str": "01:29.660",
+      "text": "他在笑",
+      "translation": null
+    },
+    {
+      "time": 100.624,
+      "time_str": "01:40.624",
+      "text": "跑遍了牧场 又绕过了村庄",
+      "translation": null
+    },
+    {
+      "time": 103.493,
+      "time_str": "01:43.493",
+      "text": "他就站在 街角的旧报摊",
+      "translation": null
+    },
+    {
+      "time": 106.032,
+      "time_str": "01:46.032",
+      "text": "眼睛盯着 隔壁里的橱窗",
+      "translation": null
+    },
+    {
+      "time": 108.626,
+      "time_str": "01:48.626",
+      "text": "一把吉他 远远欣赏",
+      "translation": null
+    },
+    {
+      "time": 111.895,
+      "time_str": "01:51.895",
+      "text": "木炭 一箩筐",
+      "translation": null
+    },
+    {
+      "time": 114.493,
+      "time_str": "01:54.493",
+      "text": "木炭 一直放",
+      "translation": null
+    },
+    {
+      "time": 117.048,
+      "time_str": "01:57.048",
+      "text": "木炭 剩一半",
+      "translation": null
+    },
+    {
+      "time": 118.879,
+      "time_str": "01:58.879",
+      "text": "火炉烫 小铁匠存钱买希望 在流汗",
+      "translation": null
+    },
+    {
+      "time": 122.439,
+      "time_str": "02:02.439",
+      "text": "巴洛克建筑的街道旁",
+      "translation": null
+    },
+    {
+      "time": 124.992,
+      "time_str": "02:04.992",
+      "text": "一家烟雾缭绕的酒馆",
+      "translation": null
+    },
+    {
+      "time": 127.565,
+      "time_str": "02:07.565",
+      "text": "波兰的吟唱诗人在弹唱",
+      "translation": null
+    },
+    {
+      "time": 129.629,
+      "time_str": "02:09.629",
+      "text": "小铁匠在门外 进不去在苦恼",
+      "translation": null
+    },
+    {
+      "time": 132.185,
+      "time_str": "02:12.185",
+      "text": "他的铜板还太少",
+      "translation": null
+    },
+    {
+      "time": 135.245,
+      "time_str": "02:15.245",
+      "text": "他真的真的想知道",
+      "translation": null
+    },
+    {
+      "time": 137.895,
+      "time_str": "02:17.895",
+      "text": "那首来自东欧的民谣 和弦到底什么调",
+      "translation": null
+    },
+    {
+      "time": 140.49,
+      "time_str": "02:20.490",
+      "text": "（米兰的天空刚破晓）",
+      "translation": null
+    },
+    {
+      "time": 143.089,
+      "time_str": "02:23.089",
+      "text": "那马蹄铁还要敲多少 吉他才能买得到（他真的真的想知道）",
+      "translation": null
+    },
+    {
+      "time": 147.913,
+      "time_str": "02:27.913",
+      "text": "他不知道怎么办才好 睡不着（他将那扑满打破了）",
+      "translation": null
+    },
+    {
+      "time": 153.112,
+      "time_str": "02:33.112",
+      "text": "小小愿望就快实现了",
+      "translation": null
+    },
+    {
+      "time": 156.958,
+      "time_str": "02:36.958",
+      "text": "他在笑",
+      "translation": null
+    },
+    {
+      "time": 198.86,
+      "time_str": "03:18.860",
+      "text": "他真的真的想知道",
+      "translation": null
+    },
+    {
+      "time": 201.476,
+      "time_str": "03:21.476",
+      "text": "那首来自东欧的民谣 和弦到底什么调",
+      "translation": null
+    },
+    {
+      "time": 204.0,
+      "time_str": "03:24.000",
+      "text": "（米兰的天空刚破晓）",
+      "translation": null
+    },
+    {
+      "time": 206.579,
+      "time_str": "03:26.579",
+      "text": "那马蹄铁还要敲多少 吉他才能买得到（他真的真的想知道）",
+      "translation": null
+    },
+    {
+      "time": 211.443,
+      "time_str": "03:31.443",
+      "text": "他不知道怎么办才好 睡不着（他将那扑满打破了）",
+      "translation": null
+    },
+    {
+      "time": 216.597,
+      "time_str": "03:36.597",
+      "text": "小小愿望就快实现了",
+      "translation": null
+    },
+    {
+      "time": 220.454,
+      "time_str": "03:40.454",
+      "text": "他在笑",
+      "translation": null
+    },
+    {
+      "time": 234.0,
+      "time_str": "03:54.000",
+      "text": "混音助理：刘勇志",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "米兰的小铁匠 - 周杰伦.lrc"
+}

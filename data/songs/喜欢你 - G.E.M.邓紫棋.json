@@ -1,0 +1,292 @@
+{
+  "title": "喜欢你",
+  "title_raw": "喜欢你",
+  "version": null,
+  "artist": "G.E.M.邓紫棋",
+  "group_key": "喜欢你|g.e.m.邓紫棋",
+  "writers": {
+    "lyricist": "黄家驹",
+    "composer": "黄家驹",
+    "arranger": "Lupo Groinig"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "原唱 : Beyond",
+      "translation": null
+    },
+    {
+      "time": 12.372,
+      "time_str": "00:12.372",
+      "text": "细雨带风湿透黄昏的街道",
+      "translation": null
+    },
+    {
+      "time": 18.485,
+      "time_str": "00:18.485",
+      "text": "抹去雨水双眼无故地仰望",
+      "translation": null
+    },
+    {
+      "time": 23.906,
+      "time_str": "00:23.906",
+      "text": "望向孤单的晚灯",
+      "translation": null
+    },
+    {
+      "time": 27.301,
+      "time_str": "00:27.301",
+      "text": "是那伤感的记忆",
+      "translation": null
+    },
+    {
+      "time": 33.845,
+      "time_str": "00:33.845",
+      "text": "再次泛起心里无数的思念",
+      "translation": null
+    },
+    {
+      "time": 40.06,
+      "time_str": "00:40.060",
+      "text": "以往片刻欢笑仍挂在脸上",
+      "translation": null
+    },
+    {
+      "time": 45.455,
+      "time_str": "00:45.455",
+      "text": "愿你此刻可会知",
+      "translation": null
+    },
+    {
+      "time": 48.854,
+      "time_str": "00:48.854",
+      "text": "是我衷心的说声",
+      "translation": null
+    },
+    {
+      "time": 53.897,
+      "time_str": "00:53.897",
+      "text": "喜欢你 那双眼动人",
+      "translation": null
+    },
+    {
+      "time": 60.023,
+      "time_str": "01:00.023",
+      "text": "笑声更迷人",
+      "translation": null
+    },
+    {
+      "time": 63.139,
+      "time_str": "01:03.139",
+      "text": "愿再可 轻抚你",
+      "translation": null
+    },
+    {
+      "time": 69.291,
+      "time_str": "01:09.291",
+      "text": "那可爱面容",
+      "translation": null
+    },
+    {
+      "time": 72.363,
+      "time_str": "01:12.363",
+      "text": "挽手说梦话",
+      "translation": null
+    },
+    {
+      "time": 75.42,
+      "time_str": "01:15.420",
+      "text": "像昨天 你共我",
+      "translation": null
+    },
+    {
+      "time": 86.218,
+      "time_str": "01:26.218",
+      "text": "满带理想的我曾经多冲动",
+      "translation": null
+    },
+    {
+      "time": 92.314,
+      "time_str": "01:32.314",
+      "text": "屡怨与她相爱难有自由",
+      "translation": null
+    },
+    {
+      "time": 97.713,
+      "time_str": "01:37.713",
+      "text": "愿你此刻可会知",
+      "translation": null
+    },
+    {
+      "time": 101.148,
+      "time_str": "01:41.148",
+      "text": "是我衷心的说声",
+      "translation": null
+    },
+    {
+      "time": 106.249,
+      "time_str": "01:46.249",
+      "text": "喜欢你 那双眼动人",
+      "translation": null
+    },
+    {
+      "time": 112.311,
+      "time_str": "01:52.311",
+      "text": "笑声更迷人",
+      "translation": null
+    },
+    {
+      "time": 115.426,
+      "time_str": "01:55.426",
+      "text": "愿再可 轻抚你",
+      "translation": null
+    },
+    {
+      "time": 121.523,
+      "time_str": "02:01.523",
+      "text": "那可爱面容",
+      "translation": null
+    },
+    {
+      "time": 124.649,
+      "time_str": "02:04.649",
+      "text": "挽手说梦话",
+      "translation": null
+    },
+    {
+      "time": 127.69,
+      "time_str": "02:07.690",
+      "text": "像昨天 你共我",
+      "translation": null
+    },
+    {
+      "time": 145.415,
+      "time_str": "02:25.415",
+      "text": "每晚夜里自我独行",
+      "translation": null
+    },
+    {
+      "time": 149.28,
+      "time_str": "02:29.280",
+      "text": "随处荡 多冰冷 Wooh",
+      "translation": null
+    },
+    {
+      "time": 157.73,
+      "time_str": "02:37.730",
+      "text": "以往为了自我挣扎",
+      "translation": null
+    },
+    {
+      "time": 161.561,
+      "time_str": "02:41.561",
+      "text": "从不知 她的痛苦 Oh",
+      "translation": null
+    },
+    {
+      "time": 173.85,
+      "time_str": "02:53.850",
+      "text": "喜欢你 那双眼动人",
+      "translation": null
+    },
+    {
+      "time": 180.014,
+      "time_str": "03:00.014",
+      "text": "笑声更迷人",
+      "translation": null
+    },
+    {
+      "time": 183.122,
+      "time_str": "03:03.122",
+      "text": "愿再可 轻抚你",
+      "translation": null
+    },
+    {
+      "time": 189.261,
+      "time_str": "03:09.261",
+      "text": "那可爱面容",
+      "translation": null
+    },
+    {
+      "time": 192.317,
+      "time_str": "03:12.317",
+      "text": "挽手说梦话",
+      "translation": null
+    },
+    {
+      "time": 195.404,
+      "time_str": "03:15.404",
+      "text": "像昨天 你共我",
+      "translation": null
+    },
+    {
+      "time": 202.346,
+      "time_str": "03:22.346",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 205.43,
+      "time_str": "03:25.430",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 208.501,
+      "time_str": "03:28.501",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 211.557,
+      "time_str": "03:31.557",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 214.616,
+      "time_str": "03:34.616",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 217.73,
+      "time_str": "03:37.730",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 220.834,
+      "time_str": "03:40.834",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 223.902,
+      "time_str": "03:43.902",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 226.96,
+      "time_str": "03:46.960",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 230.035,
+      "time_str": "03:50.035",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    },
+    {
+      "time": 233.097,
+      "time_str": "03:53.097",
+      "text": "Oh oh oh Oh oh",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "喜欢你 - G.E.M.邓紫棋.lrc"
+}

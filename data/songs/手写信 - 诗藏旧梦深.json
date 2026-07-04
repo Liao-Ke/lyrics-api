@@ -1,0 +1,136 @@
+{
+  "title": "手写信",
+  "title_raw": "手写信",
+  "version": null,
+  "artist": "诗藏旧梦深",
+  "group_key": "手写信|诗藏旧梦深",
+  "writers": {
+    "lyricist": "诗藏旧梦深",
+    "composer": "诗藏旧梦深",
+    "arranger": "诗藏旧梦深"
+  },
+  "lyrics": [
+    {
+      "time": 17.01,
+      "time_str": "00:17.010",
+      "text": "翻开单相思那封手写信",
+      "translation": null
+    },
+    {
+      "time": 24.84,
+      "time_str": "00:24.840",
+      "text": "始终相信爱会靠近",
+      "translation": null
+    },
+    {
+      "time": 30.54,
+      "time_str": "00:30.540",
+      "text": "摇摇头说爱痛的彻底",
+      "translation": null
+    },
+    {
+      "time": 37.95,
+      "time_str": "00:37.950",
+      "text": "是命运磨练我的耐心",
+      "translation": null
+    },
+    {
+      "time": 47.07,
+      "time_str": "00:47.070",
+      "text": "路过的爱情都留下脚印",
+      "translation": null
+    },
+    {
+      "time": 54.09,
+      "time_str": "00:54.090",
+      "text": "偏偏找不到你",
+      "translation": null
+    },
+    {
+      "time": 60.9,
+      "time_str": "01:00.900",
+      "text": "夜一深就把爱都装进",
+      "translation": null
+    },
+    {
+      "time": 68.1,
+      "time_str": "01:08.100",
+      "text": "折满千纸鹤的玻璃瓶",
+      "translation": null
+    },
+    {
+      "time": 75.63,
+      "time_str": "01:15.630",
+      "text": "我在等待着你的回应",
+      "translation": null
+    },
+    {
+      "time": 83.97,
+      "time_str": "01:23.970",
+      "text": "静静闭上我眼睛",
+      "translation": null
+    },
+    {
+      "time": 91.23,
+      "time_str": "01:31.230",
+      "text": "是清醒还是我在梦境",
+      "translation": null
+    },
+    {
+      "time": 98.46,
+      "time_str": "01:38.460",
+      "text": "都随意随风去",
+      "translation": null
+    },
+    {
+      "time": 122.04,
+      "time_str": "02:02.040",
+      "text": "路过的爱情都留下脚印",
+      "translation": null
+    },
+    {
+      "time": 129.06,
+      "time_str": "02:09.060",
+      "text": "偏偏找不到你",
+      "translation": null
+    },
+    {
+      "time": 135.54,
+      "time_str": "02:15.540",
+      "text": "夜一深就把情绪装进",
+      "translation": null
+    },
+    {
+      "time": 143.16,
+      "time_str": "02:23.160",
+      "text": "倒满烈酒的玻璃瓶",
+      "translation": null
+    },
+    {
+      "time": 152.34,
+      "time_str": "02:32.340",
+      "text": "我在等待着你的回应",
+      "translation": null
+    },
+    {
+      "time": 160.89,
+      "time_str": "02:40.890",
+      "text": "静静闭上我眼睛",
+      "translation": null
+    },
+    {
+      "time": 168.24,
+      "time_str": "02:48.240",
+      "text": "是清醒还是我在梦境",
+      "translation": null
+    },
+    {
+      "time": 175.62,
+      "time_str": "02:55.620",
+      "text": "都随意随风去",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "手写信 - 诗藏旧梦深.lrc"
+}

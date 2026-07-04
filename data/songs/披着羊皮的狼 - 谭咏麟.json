@@ -1,0 +1,226 @@
+{
+  "title": "披着羊皮的狼",
+  "title_raw": "披着羊皮的狼",
+  "version": null,
+  "artist": "谭咏麟",
+  "group_key": "披着羊皮的狼|谭咏麟",
+  "writers": {
+    "lyricist": "刀郎",
+    "composer": "刀郎",
+    "arranger": "杨云骠"
+  },
+  "lyrics": [
+    {
+      "time": 37.432,
+      "time_str": "00:37.432",
+      "text": "我小心翼翼地接近",
+      "translation": null
+    },
+    {
+      "time": 41.931,
+      "time_str": "00:41.931",
+      "text": "怕你在梦中惊醒",
+      "translation": null
+    },
+    {
+      "time": 47.232,
+      "time_str": "00:47.232",
+      "text": "我只是想轻轻地吻吻你",
+      "translation": null
+    },
+    {
+      "time": 53.401,
+      "time_str": "00:53.401",
+      "text": "你别担心",
+      "translation": null
+    },
+    {
+      "time": 57.618,
+      "time_str": "00:57.618",
+      "text": "我知道想要和你在一起并不容易",
+      "translation": null
+    },
+    {
+      "time": 63.208,
+      "time_str": "01:03.208",
+      "text": "我们来自不同的天和地",
+      "translation": null
+    },
+    {
+      "time": 68.646,
+      "time_str": "01:08.646",
+      "text": "你总是感觉",
+      "translation": null
+    },
+    {
+      "time": 71.619,
+      "time_str": "01:11.619",
+      "text": "和我一起 是漫无边际阴冷的恐惧",
+      "translation": null
+    },
+    {
+      "time": 78.384,
+      "time_str": "01:18.384",
+      "text": "我真的好爱你",
+      "translation": null
+    },
+    {
+      "time": 81.052,
+      "time_str": "01:21.052",
+      "text": "我愿意改变自己",
+      "translation": null
+    },
+    {
+      "time": 83.69,
+      "time_str": "01:23.690",
+      "text": "我愿意为你流浪在戈壁",
+      "translation": null
+    },
+    {
+      "time": 88.911,
+      "time_str": "01:28.911",
+      "text": "只求你不要拒绝 不要离别",
+      "translation": null
+    },
+    {
+      "time": 95.11,
+      "time_str": "01:35.110",
+      "text": "不要给我风雪",
+      "translation": null
+    },
+    {
+      "time": 99.268,
+      "time_str": "01:39.268",
+      "text": "我真的好爱你",
+      "translation": null
+    },
+    {
+      "time": 101.944,
+      "time_str": "01:41.944",
+      "text": "我愿意改变自己",
+      "translation": null
+    },
+    {
+      "time": 104.54,
+      "time_str": "01:44.540",
+      "text": "我愿意为你背负一身羊皮",
+      "translation": null
+    },
+    {
+      "time": 109.714,
+      "time_str": "01:49.714",
+      "text": "只求你让我靠近 让我爱你",
+      "translation": null
+    },
+    {
+      "time": 115.975,
+      "time_str": "01:55.975",
+      "text": "相偎相依",
+      "translation": null
+    },
+    {
+      "time": 122.814,
+      "time_str": "02:02.814",
+      "text": "我确定我就是那一只披着羊皮的狼",
+      "translation": null
+    },
+    {
+      "time": 128.377,
+      "time_str": "02:08.377",
+      "text": "而你是我的猎物",
+      "translation": null
+    },
+    {
+      "time": 130.956,
+      "time_str": "02:10.956",
+      "text": "是我嘴里的羔羊",
+      "translation": null
+    },
+    {
+      "time": 133.859,
+      "time_str": "02:13.859",
+      "text": "我抛却同伴独自流浪",
+      "translation": null
+    },
+    {
+      "time": 138.802,
+      "time_str": "02:18.802",
+      "text": "就是不愿别人把你分享",
+      "translation": null
+    },
+    {
+      "time": 143.616,
+      "time_str": "02:23.616",
+      "text": "我确定这一辈子都会在你身旁",
+      "translation": null
+    },
+    {
+      "time": 149.204,
+      "time_str": "02:29.204",
+      "text": "带着火热的心随你到任何地方",
+      "translation": null
+    },
+    {
+      "time": 154.723,
+      "time_str": "02:34.723",
+      "text": "你让我痴 让我狂",
+      "translation": null
+    },
+    {
+      "time": 160.288,
+      "time_str": "02:40.288",
+      "text": "爱你的嚎叫还在山谷回荡",
+      "translation": null
+    },
+    {
+      "time": 177.682,
+      "time_str": "02:57.682",
+      "text": "我确定你就是我心中如花的羔羊",
+      "translation": null
+    },
+    {
+      "time": 183.571,
+      "time_str": "03:03.571",
+      "text": "你是我的天使是我的梦想",
+      "translation": null
+    },
+    {
+      "time": 189.113,
+      "time_str": "03:09.113",
+      "text": "我搂你在怀里 装进我的身体",
+      "translation": null
+    },
+    {
+      "time": 194.289,
+      "time_str": "03:14.289",
+      "text": "让你我的血液交融在一起",
+      "translation": null
+    },
+    {
+      "time": 198.887,
+      "time_str": "03:18.887",
+      "text": "你确定看到我为你披上那温柔的羊皮",
+      "translation": null
+    },
+    {
+      "time": 204.474,
+      "time_str": "03:24.474",
+      "text": "是一个男人无法表露脆弱的感情",
+      "translation": null
+    },
+    {
+      "time": 210.343,
+      "time_str": "03:30.343",
+      "text": "我有多爱你 就有多少柔情",
+      "translation": null
+    },
+    {
+      "time": 215.228,
+      "time_str": "03:35.228",
+      "text": "我相信这柔情定能感动天地",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "披着羊皮的狼 - 谭咏麟.lrc"
+}

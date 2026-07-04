@@ -1,0 +1,208 @@
+{
+  "title": "Infinity",
+  "title_raw": "Infinity",
+  "version": null,
+  "artist": "Jaymes Young",
+  "group_key": "infinity|jaymes young",
+  "writers": {
+    "lyricist": "Jaymes Young/Billboard",
+    "composer": "Jaymes Young/Billboard",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.91,
+      "time_str": "00:14.910",
+      "text": "Baby this love",
+      "translation": "亲爱的"
+    },
+    {
+      "time": 17.86,
+      "time_str": "00:17.860",
+      "text": "I'll never let it die",
+      "translation": "我不会让这份爱枯萎"
+    },
+    {
+      "time": 21.62,
+      "time_str": "00:21.620",
+      "text": "Can't be touched by no one",
+      "translation": "除了你"
+    },
+    {
+      "time": 25.81,
+      "time_str": "00:25.810",
+      "text": "I'd like to see him try",
+      "translation": "无人可以触及我的灵魂"
+    },
+    {
+      "time": 31.36,
+      "time_str": "00:31.360",
+      "text": "I'm a mad man for your touch girl I've lost control",
+      "translation": "我如坠云雾 犹如脱缰之马 只为得到你的爱抚"
+    },
+    {
+      "time": 38.7,
+      "time_str": "00:38.700",
+      "text": "I'm gonna make this last forever don't tell me it's impossible",
+      "translation": "我要将这份爱持续到永远 不要对我说不可能"
+    },
+    {
+      "time": 45.64,
+      "time_str": "00:45.640",
+      "text": "'Cause I love you for infinity",
+      "translation": "因为我对你的爱无穷无尽"
+    },
+    {
+      "time": 49.87,
+      "time_str": "00:49.870",
+      "text": "I love you for infinity",
+      "translation": "我爱你无穷无尽"
+    },
+    {
+      "time": 53.58,
+      "time_str": "00:53.580",
+      "text": "'Cause I love you for infinity",
+      "translation": "因为我爱你无穷无尽"
+    },
+    {
+      "time": 57.65,
+      "time_str": "00:57.650",
+      "text": "I love you for infinity",
+      "translation": "我爱你无穷无尽"
+    },
+    {
+      "time": 77.48,
+      "time_str": "01:17.480",
+      "text": "Oh darling my soul",
+      "translation": "亲爱的 我的灵魂"
+    },
+    {
+      "time": 80.7,
+      "time_str": "01:20.700",
+      "text": "You know it aches for yours",
+      "translation": "你知道它因你而刺痛"
+    },
+    {
+      "time": 83.95,
+      "time_str": "01:23.950",
+      "text": "And you've been filling this hole",
+      "translation": "我们在呱呱坠地之时"
+    },
+    {
+      "time": 88.54,
+      "time_str": "01:28.540",
+      "text": "Since you were born",
+      "translation": "便开始填补内心的空白"
+    },
+    {
+      "time": 94.41,
+      "time_str": "01:34.410",
+      "text": "Oh 'cause you're the reason I'believe in fate",
+      "translation": "你就是让我相信命运女神之人"
+    },
+    {
+      "time": 96.88,
+      "time_str": "01:36.880",
+      "text": "You're my paradise",
+      "translation": "你就是我的神迹"
+    },
+    {
+      "time": 101.87,
+      "time_str": "01:41.870",
+      "text": "And I'll do anything to be your love or be your sacrifice",
+      "translation": "我甘愿倾尽所有 做你的另一半，或是为你牺牲"
+    },
+    {
+      "time": 108.51,
+      "time_str": "01:48.510",
+      "text": "'Cause I love you for infinity",
+      "translation": "就像我对你的爱那样无穷无尽"
+    },
+    {
+      "time": 112.59,
+      "time_str": "01:52.590",
+      "text": "I love you for infinity",
+      "translation": "我爱你无穷无尽"
+    },
+    {
+      "time": 116.36,
+      "time_str": "01:56.360",
+      "text": "'Cause I love you for infinity",
+      "translation": "因为我爱你无穷无尽"
+    },
+    {
+      "time": 120.95,
+      "time_str": "02:00.950",
+      "text": "I love you for infinity",
+      "translation": "我爱你无穷无尽"
+    },
+    {
+      "time": 142.51,
+      "time_str": "02:22.510",
+      "text": "Meet me at the bottom of the ocean",
+      "translation": "来海底与我相遇"
+    },
+    {
+      "time": 147.09,
+      "time_str": "02:27.090",
+      "text": "Where the time is frozen",
+      "translation": "在那时间冻结之地"
+    },
+    {
+      "time": 151.0,
+      "time_str": "02:31.000",
+      "text": "Where all the universe is open",
+      "translation": "在那宇宙璀璨之处"
+    },
+    {
+      "time": 154.88,
+      "time_str": "02:34.880",
+      "text": "Love isn't random we are chosen",
+      "translation": "爱本不虚无缥缈 只因我们敢于孤注一掷"
+    },
+    {
+      "time": 158.77,
+      "time_str": "02:38.770",
+      "text": "And we could wear the same crown",
+      "translation": "让我们在爱的王国为彼此加冕"
+    },
+    {
+      "time": 162.84,
+      "time_str": "02:42.840",
+      "text": "Keep slowing your heart down",
+      "translation": "让我来安抚你那颗因我而悸动的心"
+    },
+    {
+      "time": 167.42,
+      "time_str": "02:47.420",
+      "text": "We are the gods now",
+      "translation": "此时此刻世界都属于我们"
+    },
+    {
+      "time": 171.74,
+      "time_str": "02:51.740",
+      "text": "'Cause I love you for infinity",
+      "translation": "因为我对你的爱无穷无尽"
+    },
+    {
+      "time": 175.96,
+      "time_str": "02:55.960",
+      "text": "I love you for infinity",
+      "translation": "我爱你无穷无尽"
+    },
+    {
+      "time": 179.69,
+      "time_str": "02:59.690",
+      "text": "'Cause I love you for infinity",
+      "translation": "因为我爱你无穷无尽"
+    },
+    {
+      "time": 183.91,
+      "time_str": "03:03.910",
+      "text": "I love you for infinity",
+      "translation": "我对你的爱无穷无尽"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Infinity - Jaymes Young.lrc"
+}

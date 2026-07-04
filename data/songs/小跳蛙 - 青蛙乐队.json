@@ -1,0 +1,196 @@
+{
+  "title": "小跳蛙",
+  "title_raw": "小跳蛙",
+  "version": null,
+  "artist": "青蛙乐队",
+  "group_key": "小跳蛙|青蛙乐队",
+  "writers": {
+    "lyricist": "彭钧/李润",
+    "composer": "彭钧",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.81,
+      "time_str": "00:14.810",
+      "text": "快乐池塘栽种了 梦想就变成海洋",
+      "translation": null
+    },
+    {
+      "time": 18.73,
+      "time_str": "00:18.730",
+      "text": "鼓的眼睛大嘴巴 同样唱的响亮",
+      "translation": null
+    },
+    {
+      "time": 22.82,
+      "time_str": "00:22.820",
+      "text": "借我一双小翅膀 就能飞向太阳",
+      "translation": null
+    },
+    {
+      "time": 26.76,
+      "time_str": "00:26.760",
+      "text": "我相信 奇迹就在身上",
+      "translation": null
+    },
+    {
+      "time": 31.05,
+      "time_str": "00:31.050",
+      "text": "啦......",
+      "translation": null
+    },
+    {
+      "time": 36.94,
+      "time_str": "00:36.940",
+      "text": "有你相伴 leap frog",
+      "translation": null
+    },
+    {
+      "time": 38.71,
+      "time_str": "00:38.710",
+      "text": "啦......",
+      "translation": null
+    },
+    {
+      "time": 42.86,
+      "time_str": "00:42.860",
+      "text": "自信成长 有你相伴 leap frog",
+      "translation": null
+    },
+    {
+      "time": 48.14,
+      "time_str": "00:48.140",
+      "text": "快乐的一只小青蛙 leap frog",
+      "translation": null
+    },
+    {
+      "time": 51.47,
+      "time_str": "00:51.470",
+      "text": "快乐的一只小青蛙 leap frog",
+      "translation": null
+    },
+    {
+      "time": 56.13,
+      "time_str": "00:56.130",
+      "text": "快乐的池塘里面有只小青蛙",
+      "translation": null
+    },
+    {
+      "time": 60.0,
+      "time_str": "01:00.000",
+      "text": "它跳起舞来就像被王子附体了",
+      "translation": null
+    },
+    {
+      "time": 63.76,
+      "time_str": "01:03.760",
+      "text": "酷酷的眼神 没有哪只青蛙能比美",
+      "translation": null
+    },
+    {
+      "time": 68.07,
+      "time_str": "01:08.070",
+      "text": "总有一天它会被公主唤醒了",
+      "translation": null
+    },
+    {
+      "time": 72.08,
+      "time_str": "01:12.080",
+      "text": "啦...... leap frog",
+      "translation": null
+    },
+    {
+      "time": 79.09,
+      "time_str": "01:19.090",
+      "text": "啦...... leap frog",
+      "translation": null
+    },
+    {
+      "time": 88.08,
+      "time_str": "01:28.080",
+      "text": "它是一只小跳蛙 越过蓝色大西洋",
+      "translation": null
+    },
+    {
+      "time": 91.88,
+      "time_str": "01:31.880",
+      "text": "跳到遥远的东方 跳到我们身旁",
+      "translation": null
+    },
+    {
+      "time": 95.85,
+      "time_str": "01:35.850",
+      "text": "春夏秋冬 我们是最好的伙伴",
+      "translation": null
+    },
+    {
+      "time": 99.92,
+      "time_str": "01:39.920",
+      "text": "亲吻它就会变得不一样",
+      "translation": null
+    },
+    {
+      "time": 103.88,
+      "time_str": "01:43.880",
+      "text": "啦......",
+      "translation": null
+    },
+    {
+      "time": 109.32,
+      "time_str": "01:49.320",
+      "text": "变变变 leap frog",
+      "translation": null
+    },
+    {
+      "time": 111.61,
+      "time_str": "01:51.610",
+      "text": "啦......",
+      "translation": null
+    },
+    {
+      "time": 116.26,
+      "time_str": "01:56.260",
+      "text": "自信成长 有你相伴 leap frog",
+      "translation": null
+    },
+    {
+      "time": 120.05,
+      "time_str": "02:00.050",
+      "text": "啦......",
+      "translation": null
+    },
+    {
+      "time": 124.11,
+      "time_str": "02:04.110",
+      "text": "有你相伴 leap frog",
+      "translation": null
+    },
+    {
+      "time": 127.99,
+      "time_str": "02:07.990",
+      "text": "啦......",
+      "translation": null
+    },
+    {
+      "time": 132.37,
+      "time_str": "02:12.370",
+      "text": "自信成长 有你相伴 leap frog",
+      "translation": null
+    },
+    {
+      "time": 137.48,
+      "time_str": "02:17.480",
+      "text": "快乐的一只小青蛙 leap frog",
+      "translation": null
+    },
+    {
+      "time": 141.29,
+      "time_str": "02:21.290",
+      "text": "快乐的一只小青蛙 leap frog",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "小跳蛙 - 青蛙乐队.lrc"
+}

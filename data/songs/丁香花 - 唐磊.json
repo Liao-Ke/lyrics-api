@@ -1,0 +1,328 @@
+{
+  "title": "丁香花",
+  "title_raw": "丁香花",
+  "version": null,
+  "artist": "唐磊",
+  "group_key": "丁香花|唐磊",
+  "writers": {
+    "lyricist": "唐磊",
+    "composer": "唐磊",
+    "arranger": "唐磊"
+  },
+  "lyrics": [
+    {
+      "time": 25.65,
+      "time_str": "00:25.650",
+      "text": "你说你最爱丁香花",
+      "translation": null
+    },
+    {
+      "time": 29.18,
+      "time_str": "00:29.180",
+      "text": "因为你的名字就是她",
+      "translation": null
+    },
+    {
+      "time": 32.98,
+      "time_str": "00:32.980",
+      "text": "多么忧郁的花",
+      "translation": null
+    },
+    {
+      "time": 36.57,
+      "time_str": "00:36.570",
+      "text": "多愁善感的人啊",
+      "translation": null
+    },
+    {
+      "time": 39.93,
+      "time_str": "00:39.930",
+      "text": "当花儿枯萎的时候",
+      "translation": null
+    },
+    {
+      "time": 43.27,
+      "time_str": "00:43.270",
+      "text": "当画面定格的时候",
+      "translation": null
+    },
+    {
+      "time": 47.2,
+      "time_str": "00:47.200",
+      "text": "多么娇嫩的花",
+      "translation": null
+    },
+    {
+      "time": 50.4,
+      "time_str": "00:50.400",
+      "text": "却躲不过风吹雨打",
+      "translation": null
+    },
+    {
+      "time": 54.16,
+      "time_str": "00:54.160",
+      "text": "飘啊摇啊的一生",
+      "translation": null
+    },
+    {
+      "time": 57.64,
+      "time_str": "00:57.640",
+      "text": "多少美丽编织的梦啊",
+      "translation": null
+    },
+    {
+      "time": 61.06,
+      "time_str": "01:01.060",
+      "text": "就这样匆匆你走了",
+      "translation": null
+    },
+    {
+      "time": 64.84,
+      "time_str": "01:04.840",
+      "text": "留给我一生牵挂",
+      "translation": null
+    },
+    {
+      "time": 68.39,
+      "time_str": "01:08.390",
+      "text": "那坟前开满鲜花",
+      "translation": null
+    },
+    {
+      "time": 71.88,
+      "time_str": "01:11.880",
+      "text": "是你多么渴望的美啊",
+      "translation": null
+    },
+    {
+      "time": 75.41,
+      "time_str": "01:15.410",
+      "text": "你看啊漫山遍野",
+      "translation": null
+    },
+    {
+      "time": 78.95,
+      "time_str": "01:18.950",
+      "text": "你还觉得孤单吗",
+      "translation": null
+    },
+    {
+      "time": 82.48,
+      "time_str": "01:22.480",
+      "text": "你听啊有人在唱",
+      "translation": null
+    },
+    {
+      "time": 86.02,
+      "time_str": "01:26.020",
+      "text": "那首你最爱的歌谣啊",
+      "translation": null
+    },
+    {
+      "time": 89.47,
+      "time_str": "01:29.470",
+      "text": "尘世间多少繁芜",
+      "translation": null
+    },
+    {
+      "time": 93.05,
+      "time_str": "01:33.050",
+      "text": "从此不必再牵挂",
+      "translation": null
+    },
+    {
+      "time": 128.05,
+      "time_str": "02:08.050",
+      "text": "你说你最爱丁香花",
+      "translation": null
+    },
+    {
+      "time": 131.44,
+      "time_str": "02:11.440",
+      "text": "因为你的名字就是她",
+      "translation": null
+    },
+    {
+      "time": 135.39,
+      "time_str": "02:15.390",
+      "text": "多么忧郁的花",
+      "translation": null
+    },
+    {
+      "time": 138.9,
+      "time_str": "02:18.900",
+      "text": "多愁善感的人啊",
+      "translation": null
+    },
+    {
+      "time": 142.3,
+      "time_str": "02:22.300",
+      "text": "当花儿枯萎的时候",
+      "translation": null
+    },
+    {
+      "time": 145.65,
+      "time_str": "02:25.650",
+      "text": "当画面定格的时候",
+      "translation": null
+    },
+    {
+      "time": 149.49,
+      "time_str": "02:29.490",
+      "text": "多么娇嫩的花",
+      "translation": null
+    },
+    {
+      "time": 152.77,
+      "time_str": "02:32.770",
+      "text": "却躲不过风吹雨打",
+      "translation": null
+    },
+    {
+      "time": 156.52,
+      "time_str": "02:36.520",
+      "text": "飘啊摇啊的一生",
+      "translation": null
+    },
+    {
+      "time": 160.1,
+      "time_str": "02:40.100",
+      "text": "多少美丽编织的梦啊",
+      "translation": null
+    },
+    {
+      "time": 163.41,
+      "time_str": "02:43.410",
+      "text": "就这样匆匆你走了",
+      "translation": null
+    },
+    {
+      "time": 167.15,
+      "time_str": "02:47.150",
+      "text": "留给我一生牵挂",
+      "translation": null
+    },
+    {
+      "time": 170.72,
+      "time_str": "02:50.720",
+      "text": "那坟前开满鲜花",
+      "translation": null
+    },
+    {
+      "time": 174.27,
+      "time_str": "02:54.270",
+      "text": "是你多么渴望的美啊",
+      "translation": null
+    },
+    {
+      "time": 177.71,
+      "time_str": "02:57.710",
+      "text": "你看啊漫山遍野",
+      "translation": null
+    },
+    {
+      "time": 181.28,
+      "time_str": "03:01.280",
+      "text": "你还觉得孤单吗",
+      "translation": null
+    },
+    {
+      "time": 184.87,
+      "time_str": "03:04.870",
+      "text": "你听啊有人在唱",
+      "translation": null
+    },
+    {
+      "time": 188.4,
+      "time_str": "03:08.400",
+      "text": "那首你最爱的歌谣啊",
+      "translation": null
+    },
+    {
+      "time": 192.03,
+      "time_str": "03:12.030",
+      "text": "尘世间多少繁芜",
+      "translation": null
+    },
+    {
+      "time": 195.44,
+      "time_str": "03:15.440",
+      "text": "从此不必再牵挂",
+      "translation": null
+    },
+    {
+      "time": 199.05,
+      "time_str": "03:19.050",
+      "text": "那坟前开满鲜花",
+      "translation": null
+    },
+    {
+      "time": 202.48,
+      "time_str": "03:22.480",
+      "text": "是你多么渴望的美啊",
+      "translation": null
+    },
+    {
+      "time": 205.93,
+      "time_str": "03:25.930",
+      "text": "你看啊漫山遍野",
+      "translation": null
+    },
+    {
+      "time": 209.55,
+      "time_str": "03:29.550",
+      "text": "你还觉得孤单吗",
+      "translation": null
+    },
+    {
+      "time": 213.07,
+      "time_str": "03:33.070",
+      "text": "你听啊有人在唱",
+      "translation": null
+    },
+    {
+      "time": 216.64,
+      "time_str": "03:36.640",
+      "text": "那首你最爱的歌谣啊",
+      "translation": null
+    },
+    {
+      "time": 220.04,
+      "time_str": "03:40.040",
+      "text": "尘世间多少繁芜",
+      "translation": null
+    },
+    {
+      "time": 223.65,
+      "time_str": "03:43.650",
+      "text": "从此不必再牵挂",
+      "translation": null
+    },
+    {
+      "time": 228.78,
+      "time_str": "03:48.780",
+      "text": "院子里栽满丁香花",
+      "translation": null
+    },
+    {
+      "time": 231.9,
+      "time_str": "03:51.900",
+      "text": "开满紫色美丽的鲜花",
+      "translation": null
+    },
+    {
+      "time": 236.07,
+      "time_str": "03:56.070",
+      "text": "我在这里陪着她",
+      "translation": null
+    },
+    {
+      "time": 239.54,
+      "time_str": "03:59.540",
+      "text": "一生一世守护她",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "丁香花 - 唐磊.lrc"
+}

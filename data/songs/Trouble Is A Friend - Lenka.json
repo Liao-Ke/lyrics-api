@@ -1,0 +1,208 @@
+{
+  "title": "Trouble Is A Friend",
+  "title_raw": "Trouble Is A Friend",
+  "version": null,
+  "artist": "Lenka",
+  "group_key": "trouble is a friend|lenka",
+  "writers": {
+    "lyricist": "Thomas Salter/Lenka",
+    "composer": "Thomas Salter/Lenka",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.97,
+      "time_str": "00:11.970",
+      "text": "Trouble he will find you no matter where you go oh oh",
+      "translation": "无论你走到哪儿 麻烦都会找到你 哦哦"
+    },
+    {
+      "time": 20.02,
+      "time_str": "00:20.020",
+      "text": "No matter if you're fast no matter if you're slow oh oh",
+      "translation": "不管你多快 不管你多慢 噢噢"
+    },
+    {
+      "time": 28.12,
+      "time_str": "00:28.120",
+      "text": "The eye of the storm wanna cry in the morn oh oh",
+      "translation": "暴风肆虐后的场景在清晨让你哭泣，噢噢"
+    },
+    {
+      "time": 36.23,
+      "time_str": "00:36.230",
+      "text": "You're fine for a while but you start to lose control",
+      "translation": "你一会感觉良好但是却开始失去控制"
+    },
+    {
+      "time": 44.39,
+      "time_str": "00:44.390",
+      "text": "He's there in the dark he's there in my heart",
+      "translation": "他在黑暗中 他在我心中"
+    },
+    {
+      "time": 48.39,
+      "time_str": "00:48.390",
+      "text": "He waits in the wings he's gotta play a part",
+      "translation": "他张开翅膀等待，他开始发威。"
+    },
+    {
+      "time": 52.49,
+      "time_str": "00:52.490",
+      "text": "Trouble is a friend yeah trouble is a friend of mine",
+      "translation": "麻烦是朋友 yeah 麻烦在跟着我。"
+    },
+    {
+      "time": 58.54,
+      "time_str": "00:58.540",
+      "text": "Ahh",
+      "translation": "啊"
+    },
+    {
+      "time": 64.79,
+      "time_str": "01:04.790",
+      "text": "Trouble is a friend but trouble is a foe oh oh",
+      "translation": "麻烦是朋友 可是麻烦是敌人 哦哦"
+    },
+    {
+      "time": 72.4,
+      "time_str": "01:12.400",
+      "text": "And no matter what I feed him he always seems to grow oh oh",
+      "translation": "并且不管我对他怎么做他总是在长大，噢噢"
+    },
+    {
+      "time": 81.0,
+      "time_str": "01:21.000",
+      "text": "He sees what I see and he knows what I know oh oh",
+      "translation": "我看到的他都看到 我知道的他都知道 噢噢"
+    },
+    {
+      "time": 89.11,
+      "time_str": "01:29.110",
+      "text": "So don't forget as you ease on down my road",
+      "translation": "因此在轻松前行时也要铭记"
+    },
+    {
+      "time": 97.16,
+      "time_str": "01:37.160",
+      "text": "He's there in the dark he's there in my heart",
+      "translation": "他在黑暗中 他在我心中"
+    },
+    {
+      "time": 101.41,
+      "time_str": "01:41.410",
+      "text": "He waits in the wings he's gotta play a part",
+      "translation": "他张开翅膀等待，他开始发威"
+    },
+    {
+      "time": 105.41,
+      "time_str": "01:45.410",
+      "text": "Trouble is a friend yeah trouble is a friend of mine oh oh",
+      "translation": "麻烦是朋友 yeah 麻烦伴随着我"
+    },
+    {
+      "time": 111.61,
+      "time_str": "01:51.610",
+      "text": "So don't be alarmed if he takes you by the arm",
+      "translation": "所以当他拉住你的手臂 别惊慌"
+    },
+    {
+      "time": 117.56,
+      "time_str": "01:57.560",
+      "text": "I won't let him win, but I'm a sucker for his charm",
+      "translation": "我不会让他赢的，但我很喜欢他的魅力"
+    },
+    {
+      "time": 121.72,
+      "time_str": "02:01.720",
+      "text": "Trouble is a friend yeah trouble is a friend of mine",
+      "translation": "麻烦是朋友 yeah 麻烦如影随行跟着我"
+    },
+    {
+      "time": 127.32,
+      "time_str": "02:07.320",
+      "text": "Ahh",
+      "translation": "阿"
+    },
+    {
+      "time": 130.92,
+      "time_str": "02:10.920",
+      "text": "How I hate the way he makes me feel",
+      "translation": "我多恨他以这种方式让我有这样的感觉"
+    },
+    {
+      "time": 141.72,
+      "time_str": "02:21.720",
+      "text": "And how I try to make him leave",
+      "translation": "我如何让他离开"
+    },
+    {
+      "time": 149.83,
+      "time_str": "02:29.830",
+      "text": "I try oh oh I try",
+      "translation": "我尝试 哦哦 我尝试"
+    },
+    {
+      "time": 157.83,
+      "time_str": "02:37.830",
+      "text": "But he's there in the dark he's there in my heart",
+      "translation": "他在黑暗中 他在我心中"
+    },
+    {
+      "time": 162.38,
+      "time_str": "02:42.380",
+      "text": "He waits in the wings he's gotta play a part",
+      "translation": "他张开翅膀等待，他开始发威"
+    },
+    {
+      "time": 166.43,
+      "time_str": "02:46.430",
+      "text": "Trouble is a friend yeah trouble is a friend of mine",
+      "translation": "麻烦是朋友 麻烦是我的朋友"
+    },
+    {
+      "time": 174.23,
+      "time_str": "02:54.230",
+      "text": "So don't be alarmed if he takes you by the arm",
+      "translation": "所以 当他拉住你的手臂 别惊慌"
+    },
+    {
+      "time": 178.63,
+      "time_str": "02:58.630",
+      "text": "I won't let him win, but I'm a sucker for his charm",
+      "translation": "我不会让他赢的，但我很喜欢他的魅力"
+    },
+    {
+      "time": 182.68,
+      "time_str": "03:02.680",
+      "text": "Trouble is a friend yeah trouble is a friend of mine",
+      "translation": "麻烦是朋友 yeah 麻烦如影随行跟着我"
+    },
+    {
+      "time": 188.84,
+      "time_str": "03:08.840",
+      "text": "Ahh",
+      "translation": "啊"
+    },
+    {
+      "time": 193.94,
+      "time_str": "03:13.940",
+      "text": "Ooh",
+      "translation": "哦"
+    },
+    {
+      "time": 197.94,
+      "time_str": "03:17.940",
+      "text": "Ahh",
+      "translation": "啊"
+    },
+    {
+      "time": 201.79,
+      "time_str": "03:21.790",
+      "text": "Ooh",
+      "translation": "哦"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Trouble Is A Friend - Lenka.lrc"
+}

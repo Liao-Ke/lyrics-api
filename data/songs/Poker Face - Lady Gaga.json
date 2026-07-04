@@ -1,0 +1,544 @@
+{
+  "title": "Poker Face",
+  "title_raw": "Poker Face",
+  "version": null,
+  "artist": "Lady Gaga",
+  "group_key": "poker face|lady gaga",
+  "writers": {
+    "lyricist": "Lady Gaga/RedOne",
+    "composer": "Lady Gaga/RedOne",
+    "arranger": "RedOne"
+  },
+  "lyrics": [
+    {
+      "time": 7.7,
+      "time_str": "00:07.700",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 11.6,
+      "time_str": "00:11.600",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 15.68,
+      "time_str": "00:15.680",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 19.65,
+      "time_str": "00:19.650",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 23.86,
+      "time_str": "00:23.860",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 24.98,
+      "time_str": "00:24.980",
+      "text": "I wanna hold 'em like they do in Texas plays (hey)",
+      "translation": "我想要牵制他们 就像他们在德克萨斯赌场那样"
+    },
+    {
+      "time": 28.4,
+      "time_str": "00:28.400",
+      "text": "Fold 'em, let 'em, hit me, raise it baby stay with me",
+      "translation": "让他们注意到我 加注吧 宝贝 和我呆在一起"
+    },
+    {
+      "time": 31.61,
+      "time_str": "00:31.610",
+      "text": "I love it",
+      "translation": "我喜欢这感觉"
+    },
+    {
+      "time": 32.36,
+      "time_str": "00:32.360",
+      "text": "Love game intuition play the cards with spades to start",
+      "translation": "要有好运气还得凭直觉 出牌先出黑桃"
+    },
+    {
+      "time": 36.3,
+      "time_str": "00:36.300",
+      "text": "And after he's been hooked, I'll play the one that's on his heart",
+      "translation": "引他上钩之后 我就要亮出我的王牌赢得他"
+    },
+    {
+      "time": 40.52,
+      "time_str": "00:40.520",
+      "text": "Oh woah oh oh oh, oh oh oh oh oh oh",
+      "translation": null
+    },
+    {
+      "time": 45.09,
+      "time_str": "00:45.090",
+      "text": "I'll get him hot, show him what I've got",
+      "translation": "我要让他兴奋起来 让他好好瞧瞧我的本事"
+    },
+    {
+      "time": 48.88,
+      "time_str": "00:48.880",
+      "text": "Oh woah oh oh oh, oh oh oh oh oh oh",
+      "translation": null
+    },
+    {
+      "time": 53.01,
+      "time_str": "00:53.010",
+      "text": "I'll get him hot, show him what I've got",
+      "translation": "我要让他兴奋起来 让他好好瞧瞧我的本事"
+    },
+    {
+      "time": 56.9,
+      "time_str": "00:56.900",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 57.72,
+      "time_str": "00:57.720",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 58.85,
+      "time_str": "00:58.850",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 62.64,
+      "time_str": "01:02.640",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 64.89,
+      "time_str": "01:04.890",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 65.79,
+      "time_str": "01:05.790",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 66.9,
+      "time_str": "01:06.900",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 70.67,
+      "time_str": "01:10.670",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 73.1,
+      "time_str": "01:13.100",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 76.38,
+      "time_str": "01:16.380",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 77.32,
+      "time_str": "01:17.320",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 79.94,
+      "time_str": "01:19.940",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 81.02,
+      "time_str": "01:21.020",
+      "text": "I wanna roll with him a hard pair we will be (hey)",
+      "translation": "我想要和他在一起 我们会是所向披靡的一对"
+    },
+    {
+      "time": 85.08,
+      "time_str": "01:25.080",
+      "text": "A little gambling is fun when you're with me (I love it)",
+      "translation": "你和我在一起时 哪怕是一场小小的赌博都会很有趣"
+    },
+    {
+      "time": 89.27,
+      "time_str": "01:29.270",
+      "text": "Russian roulette is not the same without a gun",
+      "translation": "俄罗斯轮盘要是少了枪 那就完全不一样了"
+    },
+    {
+      "time": 92.91,
+      "time_str": "01:32.910",
+      "text": "And baby when it's love if it's not rough it isn't fun, fun",
+      "translation": "宝贝 爱情这玩意 不刺激就不好玩了"
+    },
+    {
+      "time": 97.0,
+      "time_str": "01:37.000",
+      "text": "Oh woah oh oh oh, oh oh oh oh oh oh",
+      "translation": null
+    },
+    {
+      "time": 101.14,
+      "time_str": "01:41.140",
+      "text": "I'll get him hot, show him what I've got",
+      "translation": "我要让他兴奋起来 让他好好瞧瞧我的本事"
+    },
+    {
+      "time": 104.87,
+      "time_str": "01:44.870",
+      "text": "Oh woah oh oh oh, oh oh oh oh oh oh",
+      "translation": null
+    },
+    {
+      "time": 109.38,
+      "time_str": "01:49.380",
+      "text": "I'll get him hot, show him what I've got",
+      "translation": "我要让他兴奋起来 让他好好瞧瞧我的本事"
+    },
+    {
+      "time": 113.36,
+      "time_str": "01:53.360",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 114.22,
+      "time_str": "01:54.220",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 115.21,
+      "time_str": "01:55.210",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 119.03,
+      "time_str": "01:59.030",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 121.29,
+      "time_str": "02:01.290",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 122.34,
+      "time_str": "02:02.340",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 123.28,
+      "time_str": "02:03.280",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 127.06,
+      "time_str": "02:07.060",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 129.42,
+      "time_str": "02:09.420",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 132.39,
+      "time_str": "02:12.390",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 133.51,
+      "time_str": "02:13.510",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 136.75,
+      "time_str": "02:16.750",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 145.07,
+      "time_str": "02:25.070",
+      "text": "I won't tell you that I love you",
+      "translation": "我不告诉你 我爱你"
+    },
+    {
+      "time": 146.97,
+      "time_str": "02:26.970",
+      "text": "Kiss or hug you",
+      "translation": "亲吻你或是拥抱你"
+    },
+    {
+      "time": 148.09,
+      "time_str": "02:28.090",
+      "text": "'Cause I'm bluffing with my muffin",
+      "translation": "因为我虚张声势想吓吓你"
+    },
+    {
+      "time": 149.98,
+      "time_str": "02:29.980",
+      "text": "I'm not lying, I'm just stunning with my love glue gunnin'",
+      "translation": "我没有说谎 我只是对那如胶似漆的爱情感到吃惊"
+    },
+    {
+      "time": 153.92,
+      "time_str": "02:33.920",
+      "text": "Just like a chick in the casino",
+      "translation": "就像赌场里的小妞"
+    },
+    {
+      "time": 155.71,
+      "time_str": "02:35.710",
+      "text": "Take your bank before I pay you out",
+      "translation": "在你赢钱之前就已经将你洗劫一空"
+    },
+    {
+      "time": 158.17,
+      "time_str": "02:38.170",
+      "text": "I promise this, promise this",
+      "translation": "我保证"
+    },
+    {
+      "time": 160.17,
+      "time_str": "02:40.170",
+      "text": "Check this hand cause I'm marvelous",
+      "translation": "我手上有王牌 因为我可是很不可思议的喔"
+    },
+    {
+      "time": 161.89,
+      "time_str": "02:41.890",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 162.69,
+      "time_str": "02:42.690",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 163.61,
+      "time_str": "02:43.610",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 167.51,
+      "time_str": "02:47.510",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 169.73,
+      "time_str": "02:49.730",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 170.67,
+      "time_str": "02:50.670",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 171.63,
+      "time_str": "02:51.630",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 175.45,
+      "time_str": "02:55.450",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 177.88,
+      "time_str": "02:57.880",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 178.97,
+      "time_str": "02:58.970",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 179.76,
+      "time_str": "02:59.760",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 183.6,
+      "time_str": "03:03.600",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 185.73,
+      "time_str": "03:05.730",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 186.6,
+      "time_str": "03:06.600",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 187.9,
+      "time_str": "03:07.900",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 191.68,
+      "time_str": "03:11.680",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 194.06,
+      "time_str": "03:14.060",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 194.89,
+      "time_str": "03:14.890",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 195.95,
+      "time_str": "03:15.950",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 199.81,
+      "time_str": "03:19.810",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 201.89,
+      "time_str": "03:21.890",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 202.89,
+      "time_str": "03:22.890",
+      "text": "Can't read my",
+      "translation": "猜不透"
+    },
+    {
+      "time": 203.93,
+      "time_str": "03:23.930",
+      "text": "No he can't read my poker face",
+      "translation": "我总是一副扑克脸 他根本无法读懂我"
+    },
+    {
+      "time": 207.81,
+      "time_str": "03:27.810",
+      "text": "(She's got me like nobody)",
+      "translation": "没有人像她那样如此地吸引我"
+    },
+    {
+      "time": 210.18,
+      "time_str": "03:30.180",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 214.12,
+      "time_str": "03:34.120",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 218.29,
+      "time_str": "03:38.290",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 221.45,
+      "time_str": "03:41.450",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 222.36,
+      "time_str": "03:42.360",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 225.26,
+      "time_str": "03:45.260",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 226.27,
+      "time_str": "03:46.270",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 229.4,
+      "time_str": "03:49.400",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    },
+    {
+      "time": 230.37,
+      "time_str": "03:50.370",
+      "text": "P-p-p-poker face, p-p-poker face",
+      "translation": "扑克脸啊 扑克脸"
+    },
+    {
+      "time": 233.19,
+      "time_str": "03:53.190",
+      "text": "(Mum mum mum mah)",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Poker Face - Lady Gaga.lrc"
+}

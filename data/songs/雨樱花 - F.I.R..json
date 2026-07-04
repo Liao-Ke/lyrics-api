@@ -1,0 +1,256 @@
+{
+  "title": "雨樱花",
+  "title_raw": "雨樱花",
+  "version": null,
+  "artist": "F.I.R.",
+  "group_key": "雨樱花|f.i.r.",
+  "writers": {
+    "lyricist": "F.I.R./林尚德/易家扬",
+    "composer": "阿沁",
+    "arranger": "奥斯卡"
+  },
+  "lyrics": [
+    {
+      "time": 36.58,
+      "time_str": "00:36.580",
+      "text": "雨后落下一地的忧伤",
+      "translation": null
+    },
+    {
+      "time": 40.25,
+      "time_str": "00:40.250",
+      "text": "溶化偷偷想你的伪装",
+      "translation": null
+    },
+    {
+      "time": 44.23,
+      "time_str": "00:44.230",
+      "text": "落叶排成思念的形状",
+      "translation": null
+    },
+    {
+      "time": 48.06,
+      "time_str": "00:48.060",
+      "text": "我撑着伞 不去看",
+      "translation": null
+    },
+    {
+      "time": 52.28,
+      "time_str": "00:52.280",
+      "text": "樱花飘落背后的优雅",
+      "translation": null
+    },
+    {
+      "time": 56.27,
+      "time_str": "00:56.270",
+      "text": "藏着一句说不出的话",
+      "translation": null
+    },
+    {
+      "time": 60.23,
+      "time_str": "01:00.230",
+      "text": "窗外吹着无语的牵挂",
+      "translation": null
+    },
+    {
+      "time": 64.06,
+      "time_str": "01:04.060",
+      "text": "轻轻吹动 我头发",
+      "translation": null
+    },
+    {
+      "time": 68.26,
+      "time_str": "01:08.260",
+      "text": "如此的爱你 花刺痛的伤",
+      "translation": null
+    },
+    {
+      "time": 73.77,
+      "time_str": "01:13.770",
+      "text": "我不想抵抗 该要如何学会隐藏",
+      "translation": null
+    },
+    {
+      "time": 79.81,
+      "time_str": "01:19.810",
+      "text": "傻傻的 微笑表情却无法言语",
+      "translation": null
+    },
+    {
+      "time": 83.72,
+      "time_str": "01:23.720",
+      "text": "偷偷的 像是记忆里幸福的相机",
+      "translation": null
+    },
+    {
+      "time": 87.67,
+      "time_str": "01:27.670",
+      "text": "轻轻的 呼吸身边有你的空气",
+      "translation": null
+    },
+    {
+      "time": 91.72,
+      "time_str": "01:31.720",
+      "text": "我还记得你 说樱花很美丽",
+      "translation": null
+    },
+    {
+      "time": 95.74,
+      "time_str": "01:35.740",
+      "text": "不愿意 再轻易从你身边离去",
+      "translation": null
+    },
+    {
+      "time": 99.67,
+      "time_str": "01:39.670",
+      "text": "不忘记 写下樱花飘落的那场雨",
+      "translation": null
+    },
+    {
+      "time": 103.67,
+      "time_str": "01:43.670",
+      "text": "不放弃 心中刻下了永远爱你",
+      "translation": null
+    },
+    {
+      "time": 107.64,
+      "time_str": "01:47.640",
+      "text": "你说我和你 都为了此刻 着迷",
+      "translation": null
+    },
+    {
+      "time": 134.46,
+      "time_str": "02:14.460",
+      "text": "樱花飘落背后的优雅",
+      "translation": null
+    },
+    {
+      "time": 138.19,
+      "time_str": "02:18.190",
+      "text": "藏着一句说不出的话",
+      "translation": null
+    },
+    {
+      "time": 142.24,
+      "time_str": "02:22.240",
+      "text": "窗外吹着无语的牵挂",
+      "translation": null
+    },
+    {
+      "time": 146.21,
+      "time_str": "02:26.210",
+      "text": "轻轻吹动 我头发",
+      "translation": null
+    },
+    {
+      "time": 150.23,
+      "time_str": "02:30.230",
+      "text": "如此的爱你 花刺痛的伤",
+      "translation": null
+    },
+    {
+      "time": 155.71,
+      "time_str": "02:35.710",
+      "text": "我不想抵抗 该要如何学会隐藏",
+      "translation": null
+    },
+    {
+      "time": 161.82,
+      "time_str": "02:41.820",
+      "text": "傻傻的 微笑表情却无法言语",
+      "translation": null
+    },
+    {
+      "time": 165.71,
+      "time_str": "02:45.710",
+      "text": "偷偷的 像是记忆了幸福的相机",
+      "translation": null
+    },
+    {
+      "time": 169.71,
+      "time_str": "02:49.710",
+      "text": "轻轻的呼吸 身边有你的空气",
+      "translation": null
+    },
+    {
+      "time": 173.69,
+      "time_str": "02:53.690",
+      "text": "我还记得你 说樱花很美丽",
+      "translation": null
+    },
+    {
+      "time": 177.7,
+      "time_str": "02:57.700",
+      "text": "不愿意 再轻易从你身边离去",
+      "translation": null
+    },
+    {
+      "time": 181.71,
+      "time_str": "03:01.710",
+      "text": "不忘记 写下樱花飘落的那场雨",
+      "translation": null
+    },
+    {
+      "time": 185.71,
+      "time_str": "03:05.710",
+      "text": "不放弃 心中刻下了永远爱你",
+      "translation": null
+    },
+    {
+      "time": 189.75,
+      "time_str": "03:09.750",
+      "text": "你说我和你 都为了此刻 着迷",
+      "translation": null
+    },
+    {
+      "time": 209.81,
+      "time_str": "03:29.810",
+      "text": "傻傻的 微笑表情却无法言语",
+      "translation": null
+    },
+    {
+      "time": 213.75,
+      "time_str": "03:33.750",
+      "text": "偷偷的 像是记忆了幸福的相机",
+      "translation": null
+    },
+    {
+      "time": 217.68,
+      "time_str": "03:37.680",
+      "text": "静静的 呼吸身边有你的空气",
+      "translation": null
+    },
+    {
+      "time": 221.73,
+      "time_str": "03:41.730",
+      "text": "我还记得你 说樱花很美丽",
+      "translation": null
+    },
+    {
+      "time": 225.66,
+      "time_str": "03:45.660",
+      "text": "不愿意 再轻易从你身边离去",
+      "translation": null
+    },
+    {
+      "time": 229.67,
+      "time_str": "03:49.670",
+      "text": "不忘记 写下樱花飘落的那场雨",
+      "translation": null
+    },
+    {
+      "time": 233.71,
+      "time_str": "03:53.710",
+      "text": "不放弃 心中刻下了永远爱你",
+      "translation": null
+    },
+    {
+      "time": 237.67,
+      "time_str": "03:57.670",
+      "text": "你说我和你 都为了此刻 着迷",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "雨樱花 - F.I.R..lrc"
+}

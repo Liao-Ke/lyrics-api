@@ -1,0 +1,280 @@
+{
+  "title": "少年梦",
+  "title_raw": "少年梦",
+  "version": null,
+  "artist": "麦子杰",
+  "group_key": "少年梦|麦子杰",
+  "writers": {
+    "lyricist": "杨绍鸿/韩功贵",
+    "composer": "张兆鸿",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.46,
+      "time_str": "00:13.460",
+      "text": "阳光灿烂的日子",
+      "translation": null
+    },
+    {
+      "time": 16.46,
+      "time_str": "00:16.460",
+      "text": "少年要珍惜",
+      "translation": null
+    },
+    {
+      "time": 19.15,
+      "time_str": "00:19.150",
+      "text": "不要再犹豫",
+      "translation": null
+    },
+    {
+      "time": 20.98,
+      "time_str": "00:20.980",
+      "text": "不要再迟疑",
+      "translation": null
+    },
+    {
+      "time": 22.53,
+      "time_str": "00:22.530",
+      "text": "应该把成功握手里",
+      "translation": null
+    },
+    {
+      "time": 25.78,
+      "time_str": "00:25.780",
+      "text": "人生追逐是名利",
+      "translation": null
+    },
+    {
+      "time": 28.53,
+      "time_str": "00:28.530",
+      "text": "总有些要放弃",
+      "translation": null
+    },
+    {
+      "time": 31.15,
+      "time_str": "00:31.150",
+      "text": "悲哀要忘记",
+      "translation": null
+    },
+    {
+      "time": 33.04,
+      "time_str": "00:33.040",
+      "text": "失败要忘记",
+      "translation": null
+    },
+    {
+      "time": 34.54,
+      "time_str": "00:34.540",
+      "text": "一定要胜自己",
+      "translation": null
+    },
+    {
+      "time": 37.18,
+      "time_str": "00:37.180",
+      "text": "生活本来就该多姿多彩",
+      "translation": null
+    },
+    {
+      "time": 40.55,
+      "time_str": "00:40.550",
+      "text": "幸福需要自己的努力",
+      "translation": null
+    },
+    {
+      "time": 43.58,
+      "time_str": "00:43.580",
+      "text": "走遍东南西北经过四季",
+      "translation": null
+    },
+    {
+      "time": 46.38,
+      "time_str": "00:46.380",
+      "text": "多少坎坷你别在意",
+      "translation": null
+    },
+    {
+      "time": 49.13,
+      "time_str": "00:49.130",
+      "text": "生活本来就该多姿多彩",
+      "translation": null
+    },
+    {
+      "time": 52.56,
+      "time_str": "00:52.560",
+      "text": "精采的日子在等待你",
+      "translation": null
+    },
+    {
+      "time": 55.53,
+      "time_str": "00:55.530",
+      "text": "那光辉岁月得来不会容易",
+      "translation": null
+    },
+    {
+      "time": 58.54,
+      "time_str": "00:58.540",
+      "text": "别忘了最美的花开放在春季",
+      "translation": null
+    },
+    {
+      "time": 73.89,
+      "time_str": "01:13.890",
+      "text": "阳光灿烂的日子",
+      "translation": null
+    },
+    {
+      "time": 76.84,
+      "time_str": "01:16.840",
+      "text": "少年要珍惜",
+      "translation": null
+    },
+    {
+      "time": 79.48,
+      "time_str": "01:19.480",
+      "text": "不要再犹豫",
+      "translation": null
+    },
+    {
+      "time": 81.41,
+      "time_str": "01:21.410",
+      "text": "不要再迟疑",
+      "translation": null
+    },
+    {
+      "time": 82.91,
+      "time_str": "01:22.910",
+      "text": "应该把成功握手里",
+      "translation": null
+    },
+    {
+      "time": 85.93,
+      "time_str": "01:25.930",
+      "text": "人生追逐是名利",
+      "translation": null
+    },
+    {
+      "time": 88.9,
+      "time_str": "01:28.900",
+      "text": "总有些要放弃",
+      "translation": null
+    },
+    {
+      "time": 91.55,
+      "time_str": "01:31.550",
+      "text": "悲哀要忘记",
+      "translation": null
+    },
+    {
+      "time": 93.37,
+      "time_str": "01:33.370",
+      "text": "失败要忘记",
+      "translation": null
+    },
+    {
+      "time": 94.97,
+      "time_str": "01:34.970",
+      "text": "一定要胜自己",
+      "translation": null
+    },
+    {
+      "time": 97.77,
+      "time_str": "01:37.770",
+      "text": "生活本来就该多姿多彩",
+      "translation": null
+    },
+    {
+      "time": 101.05,
+      "time_str": "01:41.050",
+      "text": "幸福需要自己的努力",
+      "translation": null
+    },
+    {
+      "time": 103.89,
+      "time_str": "01:43.890",
+      "text": "走遍东南西北经过四季",
+      "translation": null
+    },
+    {
+      "time": 106.7,
+      "time_str": "01:46.700",
+      "text": "多少坎坷你别在意",
+      "translation": null
+    },
+    {
+      "time": 109.88,
+      "time_str": "01:49.880",
+      "text": "生活本来就该多姿多彩",
+      "translation": null
+    },
+    {
+      "time": 112.94,
+      "time_str": "01:52.940",
+      "text": "精采的日子在等待你",
+      "translation": null
+    },
+    {
+      "time": 115.92,
+      "time_str": "01:55.920",
+      "text": "那光辉岁月得来不会容易",
+      "translation": null
+    },
+    {
+      "time": 118.77,
+      "time_str": "01:58.770",
+      "text": "别忘了最美的花开放在春季",
+      "translation": null
+    },
+    {
+      "time": 146.09,
+      "time_str": "02:26.090",
+      "text": "生活本来就该多姿多彩",
+      "translation": null
+    },
+    {
+      "time": 149.31,
+      "time_str": "02:29.310",
+      "text": "幸福需要自己的努力",
+      "translation": null
+    },
+    {
+      "time": 152.43,
+      "time_str": "02:32.430",
+      "text": "走遍东南西北经过四季",
+      "translation": null
+    },
+    {
+      "time": 155.29,
+      "time_str": "02:35.290",
+      "text": "多少坎坷你别在意",
+      "translation": null
+    },
+    {
+      "time": 158.32,
+      "time_str": "02:38.320",
+      "text": "生活本来就该多姿多彩",
+      "translation": null
+    },
+    {
+      "time": 161.6,
+      "time_str": "02:41.600",
+      "text": "精采的日子在等待你",
+      "translation": null
+    },
+    {
+      "time": 164.43,
+      "time_str": "02:44.430",
+      "text": "那光辉岁月得来不会容易",
+      "translation": null
+    },
+    {
+      "time": 167.46,
+      "time_str": "02:47.460",
+      "text": "别忘了最美的花开放在春季",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "少年梦 - 麦子杰.lrc"
+}

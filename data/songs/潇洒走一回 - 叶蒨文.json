@@ -1,0 +1,238 @@
+{
+  "title": "潇洒走一回",
+  "title_raw": "潇洒走一回",
+  "version": null,
+  "artist": "叶蒨文",
+  "group_key": "潇洒走一回|叶蒨文",
+  "writers": {
+    "lyricist": "陈乐融/王蕙玲",
+    "composer": "陈大力/陈秀男",
+    "arranger": "Ricky Ho"
+  },
+  "lyrics": [
+    {
+      "time": 16.36,
+      "time_str": "00:16.360",
+      "text": "嘿哈嘿哈嘿哈嘿哈嘿哈",
+      "translation": null
+    },
+    {
+      "time": 39.38,
+      "time_str": "00:39.380",
+      "text": "天地悠悠过客匆匆",
+      "translation": null
+    },
+    {
+      "time": 46.12,
+      "time_str": "00:46.120",
+      "text": "潮起又潮落",
+      "translation": null
+    },
+    {
+      "time": 50.55,
+      "time_str": "00:50.550",
+      "text": "恩恩怨怨生死白头",
+      "translation": null
+    },
+    {
+      "time": 54.55,
+      "time_str": "00:54.550",
+      "text": "几人能看透",
+      "translation": null
+    },
+    {
+      "time": 58.01,
+      "time_str": "00:58.010",
+      "text": "红尘呀滚滚痴痴呀情深",
+      "translation": null
+    },
+    {
+      "time": 62.54,
+      "time_str": "01:02.540",
+      "text": "聚散终有时",
+      "translation": null
+    },
+    {
+      "time": 66.57,
+      "time_str": "01:06.570",
+      "text": "留一半清醒留一半醉",
+      "translation": null
+    },
+    {
+      "time": 69.36,
+      "time_str": "01:09.360",
+      "text": "至少梦里有你追随",
+      "translation": null
+    },
+    {
+      "time": 75.52,
+      "time_str": "01:15.520",
+      "text": "我拿青春赌明天",
+      "translation": null
+    },
+    {
+      "time": 78.44,
+      "time_str": "01:18.440",
+      "text": "你用真情换此生",
+      "translation": null
+    },
+    {
+      "time": 82.47,
+      "time_str": "01:22.470",
+      "text": "岁月不知人间多少的忧伤",
+      "translation": null
+    },
+    {
+      "time": 86.36,
+      "time_str": "01:26.360",
+      "text": "何不潇洒走一回",
+      "translation": null
+    },
+    {
+      "time": 96.03,
+      "time_str": "01:36.030",
+      "text": "嘿哈嘿哈嘿哈嘿哈嘿哈",
+      "translation": null
+    },
+    {
+      "time": 106.5,
+      "time_str": "01:46.500",
+      "text": "天地悠悠过客匆匆",
+      "translation": null
+    },
+    {
+      "time": 110.26,
+      "time_str": "01:50.260",
+      "text": "潮起又潮落",
+      "translation": null
+    },
+    {
+      "time": 114.23,
+      "time_str": "01:54.230",
+      "text": "恩恩怨怨生死白头",
+      "translation": null
+    },
+    {
+      "time": 118.19,
+      "time_str": "01:58.190",
+      "text": "几人能看透",
+      "translation": null
+    },
+    {
+      "time": 122.24,
+      "time_str": "02:02.240",
+      "text": "红尘呀滚滚痴痴呀情深",
+      "translation": null
+    },
+    {
+      "time": 126.12,
+      "time_str": "02:06.120",
+      "text": "聚散终有时",
+      "translation": null
+    },
+    {
+      "time": 130.16,
+      "time_str": "02:10.160",
+      "text": "留一半清醒留一半醉",
+      "translation": null
+    },
+    {
+      "time": 133.58,
+      "time_str": "02:13.580",
+      "text": "至少梦里有你追随",
+      "translation": null
+    },
+    {
+      "time": 137.12,
+      "time_str": "02:17.120",
+      "text": "我拿青春赌明天",
+      "translation": null
+    },
+    {
+      "time": 141.08,
+      "time_str": "02:21.080",
+      "text": "你用真情换此生",
+      "translation": null
+    },
+    {
+      "time": 146.11,
+      "time_str": "02:26.110",
+      "text": "岁月不知人间多少的忧伤",
+      "translation": null
+    },
+    {
+      "time": 150.0,
+      "time_str": "02:30.000",
+      "text": "何不潇洒走一回",
+      "translation": null
+    },
+    {
+      "time": 183.21,
+      "time_str": "03:03.210",
+      "text": "红尘呀滚滚痴痴呀情深",
+      "translation": null
+    },
+    {
+      "time": 190.37,
+      "time_str": "03:10.370",
+      "text": "聚散终有时",
+      "translation": null
+    },
+    {
+      "time": 193.32,
+      "time_str": "03:13.320",
+      "text": "留一半清醒留一半醉",
+      "translation": null
+    },
+    {
+      "time": 197.25,
+      "time_str": "03:17.250",
+      "text": "至少梦里有你追随",
+      "translation": null
+    },
+    {
+      "time": 201.32,
+      "time_str": "03:21.320",
+      "text": "我拿青春赌明天",
+      "translation": null
+    },
+    {
+      "time": 206.34,
+      "time_str": "03:26.340",
+      "text": "你用真情换此生",
+      "translation": null
+    },
+    {
+      "time": 209.33,
+      "time_str": "03:29.330",
+      "text": "岁月不知人间多少的忧伤",
+      "translation": null
+    },
+    {
+      "time": 213.59,
+      "time_str": "03:33.590",
+      "text": "何不潇洒走一回",
+      "translation": null
+    },
+    {
+      "time": 217.15,
+      "time_str": "03:37.150",
+      "text": "岁月不知人间多少的忧伤",
+      "translation": null
+    },
+    {
+      "time": 221.63,
+      "time_str": "03:41.630",
+      "text": "何不潇洒走一回",
+      "translation": null
+    },
+    {
+      "time": 236.6,
+      "time_str": "03:56.600",
+      "text": "潇洒走一回",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "潇洒走一回 - 叶蒨文.lrc"
+}

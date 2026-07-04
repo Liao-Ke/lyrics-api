@@ -1,0 +1,208 @@
+{
+  "title": "像鱼",
+  "title_raw": "像鱼",
+  "version": null,
+  "artist": "王贰浪",
+  "group_key": "像鱼|王贰浪",
+  "writers": {
+    "lyricist": "周有才",
+    "composer": "周有才",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.342,
+      "time_str": "00:29.342",
+      "text": "这是一首简单的歌",
+      "translation": null
+    },
+    {
+      "time": 36.062,
+      "time_str": "00:36.062",
+      "text": "没有什么独特",
+      "translation": null
+    },
+    {
+      "time": 42.894,
+      "time_str": "00:42.894",
+      "text": "试着代入我的心事",
+      "translation": null
+    },
+    {
+      "time": 47.464,
+      "time_str": "00:47.464",
+      "text": "它那么幼稚",
+      "translation": null
+    },
+    {
+      "time": 51.323,
+      "time_str": "00:51.323",
+      "text": "像个顽皮的孩子",
+      "translation": null
+    },
+    {
+      "time": 57.327,
+      "time_str": "00:57.327",
+      "text": "多么可笑的心事",
+      "translation": null
+    },
+    {
+      "time": 63.723,
+      "time_str": "01:03.723",
+      "text": "只剩我还在坚持",
+      "translation": null
+    },
+    {
+      "time": 70.206,
+      "time_str": "01:10.206",
+      "text": "谁能看透我的眼睛",
+      "translation": null
+    },
+    {
+      "time": 76.972,
+      "time_str": "01:16.972",
+      "text": "让我能够不再失明",
+      "translation": null
+    },
+    {
+      "time": 83.973,
+      "time_str": "01:23.973",
+      "text": "我要记住你的样子",
+      "translation": null
+    },
+    {
+      "time": 90.643,
+      "time_str": "01:30.643",
+      "text": "像鱼记住水的拥抱",
+      "translation": null
+    },
+    {
+      "time": 97.541,
+      "time_str": "01:37.541",
+      "text": "像云在天空中停靠",
+      "translation": null
+    },
+    {
+      "time": 102.346,
+      "time_str": "01:42.346",
+      "text": "夜晚的来到",
+      "translation": null
+    },
+    {
+      "time": 105.776,
+      "time_str": "01:45.776",
+      "text": "也不会忘了阳光的温暖",
+      "translation": null
+    },
+    {
+      "time": 111.365,
+      "time_str": "01:51.365",
+      "text": "我要忘了你的样子",
+      "translation": null
+    },
+    {
+      "time": 118.015,
+      "time_str": "01:58.015",
+      "text": "像鱼忘了海的味道",
+      "translation": null
+    },
+    {
+      "time": 124.874,
+      "time_str": "02:04.874",
+      "text": "放下所有梦和烦恼",
+      "translation": null
+    },
+    {
+      "time": 131.547,
+      "time_str": "02:11.547",
+      "text": "却放不下回忆的乞讨",
+      "translation": null
+    },
+    {
+      "time": 167.049,
+      "time_str": "02:47.049",
+      "text": "多么可笑的心事",
+      "translation": null
+    },
+    {
+      "time": 172.843,
+      "time_str": "02:52.843",
+      "text": "只剩我还在坚持",
+      "translation": null
+    },
+    {
+      "time": 179.914,
+      "time_str": "02:59.914",
+      "text": "谁能看透我的眼睛",
+      "translation": null
+    },
+    {
+      "time": 186.676,
+      "time_str": "03:06.676",
+      "text": "让我能够不再失明",
+      "translation": null
+    },
+    {
+      "time": 193.732,
+      "time_str": "03:13.732",
+      "text": "记住你的样子",
+      "translation": null
+    },
+    {
+      "time": 200.431,
+      "time_str": "03:20.431",
+      "text": "像鱼记住水的拥抱",
+      "translation": null
+    },
+    {
+      "time": 207.282,
+      "time_str": "03:27.282",
+      "text": "像云在天空中停靠",
+      "translation": null
+    },
+    {
+      "time": 212.143,
+      "time_str": "03:32.143",
+      "text": "夜晚的来到",
+      "translation": null
+    },
+    {
+      "time": 215.46,
+      "time_str": "03:35.460",
+      "text": "也不会忘了阳光的温暖",
+      "translation": null
+    },
+    {
+      "time": 220.947,
+      "time_str": "03:40.947",
+      "text": "我要忘了你的样子",
+      "translation": null
+    },
+    {
+      "time": 227.839,
+      "time_str": "03:47.839",
+      "text": "像鱼忘了海的味道",
+      "translation": null
+    },
+    {
+      "time": 234.708,
+      "time_str": "03:54.708",
+      "text": "放下所有梦和烦恼",
+      "translation": null
+    },
+    {
+      "time": 241.539,
+      "time_str": "04:01.539",
+      "text": "却放不下回忆的乞讨",
+      "translation": null
+    },
+    {
+      "time": 247.977,
+      "time_str": "04:07.977",
+      "text": "只剩自己就好",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "像鱼 - 王贰浪.lrc"
+}

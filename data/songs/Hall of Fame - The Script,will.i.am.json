@@ -1,0 +1,328 @@
+{
+  "title": "Hall of Fame",
+  "title_raw": "Hall of Fame",
+  "version": null,
+  "artist": "The Script,will.i.am",
+  "group_key": "hall of fame|the script,will.i.am",
+  "writers": {
+    "lyricist": "Daniel O'Donoghue/Mark Sheehan/William Adams/James Barry",
+    "composer": "Daniel O'Donoghue/Mark Sheehan/William Adams/James Barry",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 21.64,
+      "time_str": "00:21.640",
+      "text": "Yeah, you could be the greatest",
+      "translation": "你会成为最伟大的人"
+    },
+    {
+      "time": 23.53,
+      "time_str": "00:23.530",
+      "text": "You can be the best",
+      "translation": "你能做到最好"
+    },
+    {
+      "time": 25.1,
+      "time_str": "00:25.100",
+      "text": "You can be the King Kong banging on your chest",
+      "translation": "你能像金刚一样自信满满的敲打胸脯"
+    },
+    {
+      "time": 27.8,
+      "time_str": "00:27.800",
+      "text": "You could beat the world",
+      "translation": "你可以征服全世界"
+    },
+    {
+      "time": 28.99,
+      "time_str": "00:28.990",
+      "text": "You could beat the war",
+      "translation": "能够赢得一切战争"
+    },
+    {
+      "time": 30.43,
+      "time_str": "00:30.430",
+      "text": "You could talk to God, go banging on his door",
+      "translation": "甚至能够与神对话  去敲打他的门"
+    },
+    {
+      "time": 33.39,
+      "time_str": "00:33.390",
+      "text": "You can throw your hands up",
+      "translation": "你能自信的举起双手"
+    },
+    {
+      "time": 34.58,
+      "time_str": "00:34.580",
+      "text": "You can beat the clock",
+      "translation": "你可以与时间抗争"
+    },
+    {
+      "time": 35.88,
+      "time_str": "00:35.880",
+      "text": "You can move a mountain",
+      "translation": "你有移山之力"
+    },
+    {
+      "time": 37.34,
+      "time_str": "00:37.340",
+      "text": "You can break rocks",
+      "translation": "你能击碎岩石"
+    },
+    {
+      "time": 38.87,
+      "time_str": "00:38.870",
+      "text": "You can be a master",
+      "translation": "你可以成为命运主宰"
+    },
+    {
+      "time": 40.2,
+      "time_str": "00:40.200",
+      "text": "Don't wait for luck",
+      "translation": "无需等待运气垂青"
+    },
+    {
+      "time": 42.0,
+      "time_str": "00:42.000",
+      "text": "Dedicate yourself and you can find yourself",
+      "translation": "放手一搏后你会恍然发现"
+    },
+    {
+      "time": 44.3,
+      "time_str": "00:44.300",
+      "text": "Standing in the hall of fame",
+      "translation": "你已身处名人堂之中"
+    },
+    {
+      "time": 49.02,
+      "time_str": "00:49.020",
+      "text": "And the world's gonna know your name",
+      "translation": "你的英名将会被世界所知晓"
+    },
+    {
+      "time": 54.8,
+      "time_str": "00:54.800",
+      "text": "Cause you burn with the brightest flame",
+      "translation": "因为你是最耀眼的一道火焰"
+    },
+    {
+      "time": 60.3,
+      "time_str": "01:00.300",
+      "text": "And the world's gonna know your name",
+      "translation": "你的英名将被世界所铭记"
+    },
+    {
+      "time": 64.98,
+      "time_str": "01:04.980",
+      "text": "And you'll be on the walls of the hall of fame",
+      "translation": "镌刻在名人堂的墙壁之上"
+    },
+    {
+      "time": 67.41,
+      "time_str": "01:07.410",
+      "text": "You could go the distance",
+      "translation": "你可以奔向远方"
+    },
+    {
+      "time": 68.67,
+      "time_str": "01:08.670",
+      "text": "You could run the mile",
+      "translation": "你可以日行千里"
+    },
+    {
+      "time": 69.98,
+      "time_str": "01:09.980",
+      "text": "You could walk straight through hell with a smile",
+      "translation": "你可以面带微笑直穿地狱"
+    },
+    {
+      "time": 73.6,
+      "time_str": "01:13.600",
+      "text": "You could be the hero",
+      "translation": "你是英雄"
+    },
+    {
+      "time": 74.2,
+      "time_str": "01:14.200",
+      "text": "You could get the gold",
+      "translation": "你赢得了金牌"
+    },
+    {
+      "time": 75.62,
+      "time_str": "01:15.620",
+      "text": "Breaking all the records that thought never could be broken",
+      "translation": "打破那些他们认为绝不可能被打破的记录"
+    },
+    {
+      "time": 78.7,
+      "time_str": "01:18.700",
+      "text": "Do it for your people",
+      "translation": "为你的家人而战"
+    },
+    {
+      "time": 79.82,
+      "time_str": "01:19.820",
+      "text": "Do it for your pride",
+      "translation": "为你的骄傲而战"
+    },
+    {
+      "time": 81.14,
+      "time_str": "01:21.140",
+      "text": "Never gonna know if you never even try",
+      "translation": "试都不试一下怎么会知道自己的能耐"
+    },
+    {
+      "time": 84.0,
+      "time_str": "01:24.000",
+      "text": "Do it for your country",
+      "translation": "为你的国家而战"
+    },
+    {
+      "time": 85.46,
+      "time_str": "01:25.460",
+      "text": "Do it for your name",
+      "translation": "为你的英名而战"
+    },
+    {
+      "time": 86.89,
+      "time_str": "01:26.890",
+      "text": "Cause there's gonna be a day",
+      "translation": "终有一天"
+    },
+    {
+      "time": 88.64,
+      "time_str": "01:28.640",
+      "text": "When you're, standing in the hall of fame",
+      "translation": "你将会身处名人堂之中"
+    },
+    {
+      "time": 94.15,
+      "time_str": "01:34.150",
+      "text": "And the world's gonna know your name",
+      "translation": "你的英名将会被世界所知晓"
+    },
+    {
+      "time": 99.81,
+      "time_str": "01:39.810",
+      "text": "Cause you burn with the brightest flame",
+      "translation": "因为你是最耀眼的一道火焰"
+    },
+    {
+      "time": 105.48,
+      "time_str": "01:45.480",
+      "text": "And the world's gonna know your name",
+      "translation": "你的英名将被世界所铭记"
+    },
+    {
+      "time": 110.2,
+      "time_str": "01:50.200",
+      "text": "And you'll be on the walls of the hall of fame",
+      "translation": "镌刻在名人堂的墙壁之上"
+    },
+    {
+      "time": 112.91,
+      "time_str": "01:52.910",
+      "text": "Be a champion",
+      "translation": "成为冠军吧"
+    },
+    {
+      "time": 115.64,
+      "time_str": "01:55.640",
+      "text": "Be a champion",
+      "translation": "做个王者吧"
+    },
+    {
+      "time": 118.37,
+      "time_str": "01:58.370",
+      "text": "Be a champion",
+      "translation": "成为冠军吧"
+    },
+    {
+      "time": 121.03,
+      "time_str": "02:01.030",
+      "text": "Be a champion",
+      "translation": "做个王者吧"
+    },
+    {
+      "time": 122.43,
+      "time_str": "02:02.430",
+      "text": "On the walls of the hall of fame",
+      "translation": "镌刻在名人堂的墙壁之上吧"
+    },
+    {
+      "time": 125.2,
+      "time_str": "02:05.200",
+      "text": "Be students,Be teachers Be politicians,Be preachers",
+      "translation": "无论  学生  老师   政治家   传教士"
+    },
+    {
+      "time": 130.369,
+      "time_str": "02:10.369",
+      "text": "Be believers,Be leaders",
+      "translation": "信徒   领导者"
+    },
+    {
+      "time": 131.92,
+      "time_str": "02:11.920",
+      "text": "Be astronauts,Be champions,Be truth seekers",
+      "translation": "或是 宇航员   都能成为冠军"
+    },
+    {
+      "time": 135.92,
+      "time_str": "02:15.920",
+      "text": "Be students,Be teachers Be politicians,Be preachers",
+      "translation": "无论  学生  老师   政治家   传教士"
+    },
+    {
+      "time": 142.0,
+      "time_str": "02:22.000",
+      "text": "Be believers,Be leaders Be astronauts,Be champions",
+      "translation": "信徒   领导者或是宇航员   都能成为冠军"
+    },
+    {
+      "time": 145.62,
+      "time_str": "02:25.620",
+      "text": "Standing in the hall of fame",
+      "translation": "你已身处名人堂之中"
+    },
+    {
+      "time": 150.66,
+      "time_str": "02:30.660",
+      "text": "And the world's gonna know your name",
+      "translation": "你的英名将会被世界所知晓"
+    },
+    {
+      "time": 156.3,
+      "time_str": "02:36.300",
+      "text": "Cause you burn with the brightest flame",
+      "translation": "因为你是最耀眼的一道火焰"
+    },
+    {
+      "time": 161.95,
+      "time_str": "02:41.950",
+      "text": "And the world's gonna know your name",
+      "translation": "你的英名将被世界所铭记"
+    },
+    {
+      "time": 166.94,
+      "time_str": "02:46.940",
+      "text": "And you'll be on the walls of the hall of fame",
+      "translation": "镌刻在名人堂的墙壁之上"
+    },
+    {
+      "time": 168.46,
+      "time_str": "02:48.460",
+      "text": "(will.i.am)Rap",
+      "translation": null
+    },
+    {
+      "time": 190.07,
+      "time_str": "03:10.070",
+      "text": "Standing in the hall of fame.",
+      "translation": "你已身处名人堂之中"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Hall of Fame - The Script,will.i.am.lrc"
+}

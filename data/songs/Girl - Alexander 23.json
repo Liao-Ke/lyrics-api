@@ -1,0 +1,196 @@
+{
+  "title": "Girl",
+  "title_raw": "Girl",
+  "version": null,
+  "artist": "Alexander 23",
+  "group_key": "girl|alexander 23",
+  "writers": {
+    "lyricist": "Alexander 23",
+    "composer": "Alexander 23",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.1,
+      "time_str": "00:00.100",
+      "text": "Hey, I know we just met but...",
+      "translation": "尽管有些生疏"
+    },
+    {
+      "time": 0.82,
+      "time_str": "00:00.820",
+      "text": "Girl, tell me all of your secrets",
+      "translation": "女孩请你对我敞开心扉"
+    },
+    {
+      "time": 3.84,
+      "time_str": "00:03.840",
+      "text": "From the darkest to the deepest, uh",
+      "translation": "在黑暗的最深处"
+    },
+    {
+      "time": 7.79,
+      "time_str": "00:07.790",
+      "text": "I would love to know what's underneath those curls",
+      "translation": "有多少奥秘藏在卷发之下"
+    },
+    {
+      "time": 11.07,
+      "time_str": "00:11.070",
+      "text": "I've got 21 questions",
+      "translation": "21个问题已经待命"
+    },
+    {
+      "time": 13.42,
+      "time_str": "00:13.420",
+      "text": "How could someone of your essence,uh",
+      "translation": "像你这样的人"
+    },
+    {
+      "time": 17.17,
+      "time_str": "00:17.170",
+      "text": "End up in my arms",
+      "translation": "怎么会进入我的怀抱"
+    },
+    {
+      "time": 19.92,
+      "time_str": "00:19.920",
+      "text": "I'm not gonna lie to you, I'm a little suspicious",
+      "translation": "撒谎不是我本意，多疑在作怪"
+    },
+    {
+      "time": 24.83,
+      "time_str": "00:24.830",
+      "text": "Are you really mine or are you someone else's missus?",
+      "translation": "你是否归属于我？"
+    },
+    {
+      "time": 29.6,
+      "time_str": "00:29.600",
+      "text": "This feels way too good to be true and when that's the instance",
+      "translation": "若为一例，身心愉悦"
+    },
+    {
+      "time": 34.88,
+      "time_str": "00:34.880",
+      "text": "It usually is, usually is, is, is",
+      "translation": "当然是通常一例"
+    },
+    {
+      "time": 39.14,
+      "time_str": "00:39.140",
+      "text": "Girl, tell me all of your secrets",
+      "translation": "请对我敞开心扉"
+    },
+    {
+      "time": 42.2,
+      "time_str": "00:42.200",
+      "text": "From the darkest to the deepest, uh",
+      "translation": "不论黑暗与沉沦"
+    },
+    {
+      "time": 46.13,
+      "time_str": "00:46.130",
+      "text": "I would love to know what's underneath those curls",
+      "translation": "我想探寻卷发下的奥秘"
+    },
+    {
+      "time": 49.48,
+      "time_str": "00:49.480",
+      "text": "I've got 21 questions",
+      "translation": "想来21个连环发问"
+    },
+    {
+      "time": 51.81,
+      "time_str": "00:51.810",
+      "text": "How could someone of your essence, uh",
+      "translation": "别让你的真命天子看到"
+    },
+    {
+      "time": 55.76,
+      "time_str": "00:55.760",
+      "text": "End up in my arms",
+      "translation": "倒在我怀里的你"
+    },
+    {
+      "time": 58.38,
+      "time_str": "00:58.380",
+      "text": "You left me a voicemail, didn't know I had a voicemail",
+      "translation": "迷糊的你发来语音，以为我不知道"
+    },
+    {
+      "time": 63.19,
+      "time_str": "01:03.190",
+      "text": "Now I listen to it when I wanna hear your voice, girl",
+      "translation": "现在我沦陷在你的甜蜜中"
+    },
+    {
+      "time": 67.96,
+      "time_str": "01:07.960",
+      "text": "You're my favorite type of smoke that I have ever inhaled",
+      "translation": "沉沦在你的温柔乡"
+    },
+    {
+      "time": 73.34,
+      "time_str": "01:13.340",
+      "text": "You know you're a star, know you're a star, star, star",
+      "translation": "你是璀璨明星"
+    },
+    {
+      "time": 77.61,
+      "time_str": "01:17.610",
+      "text": "Girl, tell me all of your secrets",
+      "translation": "对我敞开心扉吧"
+    },
+    {
+      "time": 80.71,
+      "time_str": "01:20.710",
+      "text": "From the darkest to the deepest, uh",
+      "translation": "即便阴暗也好"
+    },
+    {
+      "time": 84.54,
+      "time_str": "01:24.540",
+      "text": "I would love to know what's underneath those curls",
+      "translation": "让我探寻你的秘密花园"
+    },
+    {
+      "time": 87.69,
+      "time_str": "01:27.690",
+      "text": "I've got 21 questions",
+      "translation": "发起真心提问"
+    },
+    {
+      "time": 90.21,
+      "time_str": "01:30.210",
+      "text": "How could someone of your essence, uh",
+      "translation": "我是你的真命天子"
+    },
+    {
+      "time": 94.1,
+      "time_str": "01:34.100",
+      "text": "End up in my arms",
+      "translation": "这个在臂弯中的你"
+    },
+    {
+      "time": 97.67,
+      "time_str": "01:37.670",
+      "text": "Baby, bring the beat back in",
+      "translation": "宝贝 把节奏找回来"
+    },
+    {
+      "time": 99.01,
+      "time_str": "01:39.010",
+      "text": "Girl, girl, girl, girl...",
+      "translation": "女孩"
+    },
+    {
+      "time": 118.12,
+      "time_str": "01:58.120",
+      "text": "End up in my-",
+      "translation": "沦陷在我的怀抱"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Girl - Alexander 23.lrc"
+}

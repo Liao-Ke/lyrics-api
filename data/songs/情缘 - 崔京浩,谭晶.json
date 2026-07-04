@@ -1,0 +1,202 @@
+{
+  "title": "情缘",
+  "title_raw": "情缘",
+  "version": null,
+  "artist": "崔京浩,谭晶",
+  "group_key": "情缘|崔京浩,谭晶",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "情缘-崔京浩&谭晶",
+      "translation": null
+    },
+    {
+      "time": 31.0,
+      "time_str": "00:31.000",
+      "text": "（女）想走进你的港湾",
+      "translation": null
+    },
+    {
+      "time": 37.0,
+      "time_str": "00:37.000",
+      "text": "（女）把美梦连成一片",
+      "translation": null
+    },
+    {
+      "time": 42.0,
+      "time_str": "00:42.000",
+      "text": "（女）不需要太多的誓言",
+      "translation": null
+    },
+    {
+      "time": 47.0,
+      "time_str": "00:47.000",
+      "text": "（女）你的目光是我追逐的彼岸 啊 ～",
+      "translation": null
+    },
+    {
+      "time": 57.0,
+      "time_str": "00:57.000",
+      "text": "（男）在梦中见你容颜",
+      "translation": null
+    },
+    {
+      "time": 62.0,
+      "time_str": "01:02.000",
+      "text": "（男）那寂寞涌在心间",
+      "translation": null
+    },
+    {
+      "time": 68.0,
+      "time_str": "01:08.000",
+      "text": "（男）忍不住太多的思念",
+      "translation": null
+    },
+    {
+      "time": 73.0,
+      "time_str": "01:13.000",
+      "text": "（男）你的祝福伴我直到永远",
+      "translation": null
+    },
+    {
+      "time": 81.0,
+      "time_str": "01:21.000",
+      "text": "（合）如果再给我一点时间",
+      "translation": null
+    },
+    {
+      "time": 86.0,
+      "time_str": "01:26.000",
+      "text": "（合）我会留住如风的浪漫",
+      "translation": null
+    },
+    {
+      "time": 91.0,
+      "time_str": "01:31.000",
+      "text": "（合）如果再给我一点时间",
+      "translation": null
+    },
+    {
+      "time": 96.0,
+      "time_str": "01:36.000",
+      "text": "（合）我要拥有狂野的缠绵",
+      "translation": null
+    },
+    {
+      "time": 101.0,
+      "time_str": "01:41.000",
+      "text": "（女）多希望在你身边\t  （男）多希望有你陪伴",
+      "translation": null
+    },
+    {
+      "time": 107.0,
+      "time_str": "01:47.000",
+      "text": "（女）走过那风雨变幻\t  （男）笑对那人生悲欢",
+      "translation": null
+    },
+    {
+      "time": 112.0,
+      "time_str": "01:52.000",
+      "text": "（女）我留下无数的心愿",
+      "translation": null
+    },
+    {
+      "time": 117.0,
+      "time_str": "01:57.000",
+      "text": "（男）我拥有一生的情缘",
+      "translation": null
+    },
+    {
+      "time": 125.0,
+      "time_str": "02:05.000",
+      "text": "（合）如果再给我一点时间",
+      "translation": null
+    },
+    {
+      "time": 129.0,
+      "time_str": "02:09.000",
+      "text": "（合）我会留住如风的浪漫",
+      "translation": null
+    },
+    {
+      "time": 140.0,
+      "time_str": "02:20.000",
+      "text": "（合）我要拥有狂野的缠绵",
+      "translation": null
+    },
+    {
+      "time": 145.0,
+      "time_str": "02:25.000",
+      "text": "（女）多希望在你身边\t  （男）多希望有你陪伴",
+      "translation": null
+    },
+    {
+      "time": 150.0,
+      "time_str": "02:30.000",
+      "text": "（女）走过那风雨变幻  \t  （男）笑对那人生悲欢",
+      "translation": null
+    },
+    {
+      "time": 155.0,
+      "time_str": "02:35.000",
+      "text": "（女）我留下无数的心愿",
+      "translation": null
+    },
+    {
+      "time": 160.0,
+      "time_str": "02:40.000",
+      "text": "（男）我拥有一生的情缘",
+      "translation": null
+    },
+    {
+      "time": 168.0,
+      "time_str": "02:48.000",
+      "text": "（女）多希望在你身边",
+      "translation": null
+    },
+    {
+      "time": 173.0,
+      "time_str": "02:53.000",
+      "text": "（男）多希望有你陪伴",
+      "translation": null
+    },
+    {
+      "time": 178.0,
+      "time_str": "02:58.000",
+      "text": "（女）多希望在你身边",
+      "translation": null
+    },
+    {
+      "time": 184.0,
+      "time_str": "03:04.000",
+      "text": "（男）多希望有你陪伴",
+      "translation": null
+    },
+    {
+      "time": 189.0,
+      "time_str": "03:09.000",
+      "text": "（男）多希望有你陪伴（女）多希望在你身边",
+      "translation": null
+    },
+    {
+      "time": 193.0,
+      "time_str": "03:13.000",
+      "text": "（男）多希望有你陪伴（女）多希望在你身边",
+      "translation": null
+    },
+    {
+      "time": 199.0,
+      "time_str": "03:19.000",
+      "text": "（男）多希望有你陪伴（女）多希望在你身边",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情缘 - 崔京浩,谭晶.lrc"
+}

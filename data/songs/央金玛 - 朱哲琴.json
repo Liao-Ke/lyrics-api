@@ -1,0 +1,106 @@
+{
+  "title": "央金玛",
+  "title_raw": "央金玛",
+  "version": null,
+  "artist": "朱哲琴",
+  "group_key": "央金玛|朱哲琴",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 32.759,
+      "time_str": "00:32.759",
+      "text": "我一生向你问过一次路",
+      "translation": null
+    },
+    {
+      "time": 46.54,
+      "time_str": "00:46.540",
+      "text": "你一生向我挥过一次手",
+      "translation": null
+    },
+    {
+      "time": 61.79,
+      "time_str": "01:01.790",
+      "text": "遥远的我为你唱一支歌",
+      "translation": null
+    },
+    {
+      "time": 76.75,
+      "time_str": "01:16.750",
+      "text": "静静的你露出天边的笑容",
+      "translation": null
+    },
+    {
+      "time": 81.75,
+      "time_str": "01:21.750",
+      "text": "~~",
+      "translation": null
+    },
+    {
+      "time": 106.9,
+      "time_str": "01:46.900",
+      "text": "轻轻地我触摸涌来的羊群",
+      "translation": null
+    },
+    {
+      "time": 121.75,
+      "time_str": "02:01.750",
+      "text": "默默地你转动手中的经筒",
+      "translation": null
+    },
+    {
+      "time": 182.5,
+      "time_str": "03:02.500",
+      "text": "我一生向你问过一次路",
+      "translation": null
+    },
+    {
+      "time": 197.41,
+      "time_str": "03:17.410",
+      "text": "你一生向我挥过一次手",
+      "translation": null
+    },
+    {
+      "time": 212.579,
+      "time_str": "03:32.579",
+      "text": "轻轻地我触摸涌来的羊群",
+      "translation": null
+    },
+    {
+      "time": 222.42,
+      "time_str": "03:42.420",
+      "text": "默默地你转动手中的经筒",
+      "translation": null
+    },
+    {
+      "time": 234.98,
+      "time_str": "03:54.980",
+      "text": "~",
+      "translation": null
+    },
+    {
+      "time": 257.6,
+      "time_str": "04:17.600",
+      "text": "为了圣山下的相逢我向你匍匐顶啊礼",
+      "translation": null
+    },
+    {
+      "time": 277.6,
+      "time_str": "04:37.600",
+      "text": "冈仁波钦",
+      "translation": null
+    },
+    {
+      "time": 384.89,
+      "time_str": "06:24.890",
+      "text": "我向你匍匐顶礼啊",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "央金玛 - 朱哲琴.lrc"
+}

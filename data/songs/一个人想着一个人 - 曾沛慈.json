@@ -1,0 +1,268 @@
+{
+  "title": "一个人想着一个人",
+  "title_raw": "一个人想着一个人",
+  "version": null,
+  "artist": "曾沛慈",
+  "group_key": "一个人想着一个人|曾沛慈",
+  "writers": {
+    "lyricist": "张简君伟",
+    "composer": "张简君伟",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.669,
+      "time_str": "00:14.669",
+      "text": "你离开的那一天 天空有点灰",
+      "translation": null
+    },
+    {
+      "time": 21.698,
+      "time_str": "00:21.698",
+      "text": "见不着 你最爱的蓝天",
+      "translation": null
+    },
+    {
+      "time": 31.79,
+      "time_str": "00:31.790",
+      "text": "少了一个人斗嘴",
+      "translation": null
+    },
+    {
+      "time": 32.378,
+      "time_str": "00:32.378",
+      "text": "多些朋友的安慰",
+      "translation": null
+    },
+    {
+      "time": 35.835,
+      "time_str": "00:35.835",
+      "text": "一切 都不是错觉",
+      "translation": null
+    },
+    {
+      "time": 43.4,
+      "time_str": "00:43.400",
+      "text": "来不及道声感谢 故事已结尾",
+      "translation": null
+    },
+    {
+      "time": 49.786,
+      "time_str": "00:49.786",
+      "text": "太多事情 来不及后悔",
+      "translation": null
+    },
+    {
+      "time": 57.16,
+      "time_str": "00:57.160",
+      "text": "我还有太多心愿 太多梦没有实现",
+      "translation": null
+    },
+    {
+      "time": 64.27,
+      "time_str": "01:04.270",
+      "text": "桌上还留着 过去的照片",
+      "translation": null
+    },
+    {
+      "time": 70.07,
+      "time_str": "01:10.070",
+      "text": "我一个人的失眠 一个人的空间",
+      "translation": null
+    },
+    {
+      "time": 73.667,
+      "time_str": "01:13.667",
+      "text": "一个人的想念 两个人的画面",
+      "translation": null
+    },
+    {
+      "time": 77.857,
+      "time_str": "01:17.857",
+      "text": "是谁的眼泪 是谁的憔悴",
+      "translation": null
+    },
+    {
+      "time": 81.679,
+      "time_str": "01:21.679",
+      "text": "洒满地的 心碎",
+      "translation": null
+    },
+    {
+      "time": 85.09,
+      "time_str": "01:25.090",
+      "text": "我一个人的冒险 一个人的座位",
+      "translation": null
+    },
+    {
+      "time": 88.0,
+      "time_str": "01:28.000",
+      "text": "一个人想着一个人",
+      "translation": null
+    },
+    {
+      "time": 91.067,
+      "time_str": "01:31.067",
+      "text": "眼角的泪 这不是错觉",
+      "translation": null
+    },
+    {
+      "time": 114.19,
+      "time_str": "01:54.190",
+      "text": "来不及道声感谢 故事已结尾",
+      "translation": null
+    },
+    {
+      "time": 120.498,
+      "time_str": "02:00.498",
+      "text": "太多事情 来不及后悔",
+      "translation": null
+    },
+    {
+      "time": 127.28,
+      "time_str": "02:07.280",
+      "text": "我还有太多心愿 太多梦没有实现",
+      "translation": null
+    },
+    {
+      "time": 134.18,
+      "time_str": "02:14.180",
+      "text": "桌上还留着 过去的照片",
+      "translation": null
+    },
+    {
+      "time": 139.998,
+      "time_str": "02:19.998",
+      "text": "我一个人的失眠 一个人的空间",
+      "translation": null
+    },
+    {
+      "time": 145.1,
+      "time_str": "02:25.100",
+      "text": "一个人的想念 两个人的画面",
+      "translation": null
+    },
+    {
+      "time": 148.88,
+      "time_str": "02:28.880",
+      "text": "是谁的眼泪 是谁的憔悴",
+      "translation": null
+    },
+    {
+      "time": 151.768,
+      "time_str": "02:31.768",
+      "text": "洒满地的 心碎",
+      "translation": null
+    },
+    {
+      "time": 155.328,
+      "time_str": "02:35.328",
+      "text": "我一个人的冒险 一个人的座位",
+      "translation": null
+    },
+    {
+      "time": 159.277,
+      "time_str": "02:39.277",
+      "text": "一个人想着一个人",
+      "translation": null
+    },
+    {
+      "time": 164.5,
+      "time_str": "02:44.500",
+      "text": "眼角的泪 这不是错觉",
+      "translation": null
+    },
+    {
+      "time": 171.598,
+      "time_str": "02:51.598",
+      "text": "那些年 那几天 那一夜",
+      "translation": null
+    },
+    {
+      "time": 175.017,
+      "time_str": "02:55.017",
+      "text": "都恍如昨天",
+      "translation": null
+    },
+    {
+      "time": 179.808,
+      "time_str": "02:59.808",
+      "text": "这些年 这几天 这一夜",
+      "translation": null
+    },
+    {
+      "time": 184.4,
+      "time_str": "03:04.400",
+      "text": "你让我失眠",
+      "translation": null
+    },
+    {
+      "time": 187.077,
+      "time_str": "03:07.077",
+      "text": "我一个人的失眠",
+      "translation": null
+    },
+    {
+      "time": 189.8,
+      "time_str": "03:09.800",
+      "text": "一个人的空间",
+      "translation": null
+    },
+    {
+      "time": 191.08,
+      "time_str": "03:11.080",
+      "text": "一个人的想念",
+      "translation": null
+    },
+    {
+      "time": 192.78,
+      "time_str": "03:12.780",
+      "text": "两个人的画面",
+      "translation": null
+    },
+    {
+      "time": 194.88,
+      "time_str": "03:14.880",
+      "text": "是谁的眼泪",
+      "translation": null
+    },
+    {
+      "time": 196.68,
+      "time_str": "03:16.680",
+      "text": "是谁的憔悴",
+      "translation": null
+    },
+    {
+      "time": 197.918,
+      "time_str": "03:17.918",
+      "text": "洒满地的心碎",
+      "translation": null
+    },
+    {
+      "time": 202.118,
+      "time_str": "03:22.118",
+      "text": "我一个人的冒险",
+      "translation": null
+    },
+    {
+      "time": 204.048,
+      "time_str": "03:24.048",
+      "text": "一个人的座位",
+      "translation": null
+    },
+    {
+      "time": 205.208,
+      "time_str": "03:25.208",
+      "text": "一个人想着一个人",
+      "translation": null
+    },
+    {
+      "time": 209.78,
+      "time_str": "03:29.780",
+      "text": "眼角的泪这不是错觉",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一个人想着一个人 - 曾沛慈.lrc"
+}

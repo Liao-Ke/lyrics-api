@@ -1,0 +1,418 @@
+{
+  "title": "Be What You Wanna Be",
+  "title_raw": "Be What You Wanna Be",
+  "version": null,
+  "artist": "Darin",
+  "group_key": "be what you wanna be|darin",
+  "writers": {
+    "lyricist": "Darin",
+    "composer": "Darin",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.5,
+      "time_str": "00:00.500",
+      "text": "doctor, actor, lawyer or a singer",
+      "translation": "医生演员律师或歌唱家"
+    },
+    {
+      "time": 3.46,
+      "time_str": "00:03.460",
+      "text": "why not president, be a dreamer",
+      "translation": "为什么不是总统？做一个有梦想的人"
+    },
+    {
+      "time": 5.79,
+      "time_str": "00:05.790",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 9.44,
+      "time_str": "00:09.440",
+      "text": "police man, fire fighter or a post man",
+      "translation": "警察消防员或者邮递员"
+    },
+    {
+      "time": 12.59,
+      "time_str": "00:12.590",
+      "text": "why not something like your old man",
+      "translation": "为什么不是像你老爸那样的人？"
+    },
+    {
+      "time": 14.93,
+      "time_str": "00:14.930",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 18.61,
+      "time_str": "00:18.610",
+      "text": "doctor, actor, lawyer or a singer",
+      "translation": "医生演员律师或者歌唱家"
+    },
+    {
+      "time": 21.65,
+      "time_str": "00:21.650",
+      "text": "why not president, be a dreamer",
+      "translation": "为什么不是总统？做一个有梦想的人"
+    },
+    {
+      "time": 23.96,
+      "time_str": "00:23.960",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 28.21,
+      "time_str": "00:28.210",
+      "text": "I know that we all got one thing",
+      "translation": "我知道我们都得到一样东西"
+    },
+    {
+      "time": 30.89,
+      "time_str": "00:30.890",
+      "text": "that we all share together",
+      "translation": "那就是我们都在分享的"
+    },
+    {
+      "time": 33.04,
+      "time_str": "00:33.040",
+      "text": "we got that one nice dream",
+      "translation": "我们都拥有一个美好的梦想"
+    },
+    {
+      "time": 35.68,
+      "time_str": "00:35.680",
+      "text": "we live for",
+      "translation": "我们为之生存"
+    },
+    {
+      "time": 37.17,
+      "time_str": "00:37.170",
+      "text": "you never know what life could bring",
+      "translation": "你不会知道生活会给你带来什么"
+    },
+    {
+      "time": 40.01,
+      "time_str": "00:40.010",
+      "text": "cause nothing last for ever",
+      "translation": "因为没有什么能永恒"
+    },
+    {
+      "time": 42.2,
+      "time_str": "00:42.200",
+      "text": "just hold on to the team",
+      "translation": "只是坚持住"
+    },
+    {
+      "time": 44.64,
+      "time_str": "00:44.640",
+      "text": "you play for",
+      "translation": "为了你所努力的团队"
+    },
+    {
+      "time": 46.3,
+      "time_str": "00:46.300",
+      "text": "I know you could reach the top",
+      "translation": "我知道你会达到顶峰"
+    },
+    {
+      "time": 48.48,
+      "time_str": "00:48.480",
+      "text": "make sure that you won't stop",
+      "translation": "你一定不要停下来"
+    },
+    {
+      "time": 51.03,
+      "time_str": "00:51.030",
+      "text": "be the one that you wanna be",
+      "translation": "做那个你一直都想成为的人"
+    },
+    {
+      "time": 53.3,
+      "time_str": "00:53.300",
+      "text": "now sing this with me",
+      "translation": "现在和我一起歌唱"
+    },
+    {
+      "time": 55.17,
+      "time_str": "00:55.170",
+      "text": "doctor, actor, lawyer or a singer",
+      "translation": "医生演员律师或歌唱家"
+    },
+    {
+      "time": 58.25,
+      "time_str": "00:58.250",
+      "text": "why not president, be a dreamer",
+      "translation": "为什么不是总统？做一个有梦想的人"
+    },
+    {
+      "time": 60.5,
+      "time_str": "01:00.500",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 64.27,
+      "time_str": "01:04.270",
+      "text": "police man, fire fighter or a post man",
+      "translation": "警察消防员或者邮递员"
+    },
+    {
+      "time": 67.38,
+      "time_str": "01:07.380",
+      "text": "why not something like your old man",
+      "translation": "为什么不是像你老爸那样的人？"
+    },
+    {
+      "time": 69.71,
+      "time_str": "01:09.710",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 73.91,
+      "time_str": "01:13.910",
+      "text": "we may have different ways to think",
+      "translation": "我们也许会从不同角度考虑问题"
+    },
+    {
+      "time": 76.63,
+      "time_str": "01:16.630",
+      "text": "but it doesn't really matter",
+      "translation": "但这没关系"
+    },
+    {
+      "time": 78.75,
+      "time_str": "01:18.750",
+      "text": "we all caught up in the steam",
+      "translation": "我们都赶上了"
+    },
+    {
+      "time": 81.23,
+      "time_str": "01:21.230",
+      "text": "of this life",
+      "translation": "这次人生之旅"
+    },
+    {
+      "time": 82.87,
+      "time_str": "01:22.870",
+      "text": "focus on every little thing",
+      "translation": "执著于每一件琐事"
+    },
+    {
+      "time": 85.64,
+      "time_str": "01:25.640",
+      "text": "that's what does really matter",
+      "translation": "这才是问题所在"
+    },
+    {
+      "time": 87.84,
+      "time_str": "01:27.840",
+      "text": "luxury cars and bling",
+      "translation": "豪车和珠宝"
+    },
+    {
+      "time": 90.22,
+      "time_str": "01:30.220",
+      "text": "that's not real life",
+      "translation": "那都不是真正的生活"
+    },
+    {
+      "time": 91.96,
+      "time_str": "01:31.960",
+      "text": "I know you could reach the top",
+      "translation": "我知道你会达到顶峰"
+    },
+    {
+      "time": 94.28,
+      "time_str": "01:34.280",
+      "text": "make sure that you won't stop",
+      "translation": "确定你不会停下来"
+    },
+    {
+      "time": 96.45,
+      "time_str": "01:36.450",
+      "text": "be the one that you wanna be",
+      "translation": "做那个你一直都想成为的人"
+    },
+    {
+      "time": 98.66,
+      "time_str": "01:38.660",
+      "text": "now sing this with me",
+      "translation": "现在和我一起歌唱"
+    },
+    {
+      "time": 100.8,
+      "time_str": "01:40.800",
+      "text": "doctor, actor, lawyer or a singer",
+      "translation": "医生演员律师或歌唱家"
+    },
+    {
+      "time": 104.0,
+      "time_str": "01:44.000",
+      "text": "why not president, be a dreamer",
+      "translation": "为什么不是总统？做一个有梦想的人"
+    },
+    {
+      "time": 106.23,
+      "time_str": "01:46.230",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 109.93,
+      "time_str": "01:49.930",
+      "text": "police man, fire fighter or a post man",
+      "translation": "警察消防员或者邮递员"
+    },
+    {
+      "time": 113.02,
+      "time_str": "01:53.020",
+      "text": "why not something like your old man",
+      "translation": "为什么不是像你老爸那样的人？"
+    },
+    {
+      "time": 115.25,
+      "time_str": "01:55.250",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 119.5,
+      "time_str": "01:59.500",
+      "text": "last year I used to dream about this day",
+      "translation": "去年我还在梦想着有这么一天"
+    },
+    {
+      "time": 123.91,
+      "time_str": "02:03.910",
+      "text": "now I'm here I'm singing for you",
+      "translation": "现在这一切都实现我将为你而唱"
+    },
+    {
+      "time": 128.7,
+      "time_str": "02:08.700",
+      "text": "I hope I could inspire you",
+      "translation": "我希望我能鼓舞你的斗志"
+    },
+    {
+      "time": 132.49,
+      "time_str": "02:12.490",
+      "text": "cause I've got all the love, cause I've got all love for you",
+      "translation": "因为我得到了所有的爱我得到了 我对你所有的爱"
+    },
+    {
+      "time": 138.09,
+      "time_str": "02:18.090",
+      "text": "doctor, actor, lawyer or a singer",
+      "translation": "医生演员律师或歌唱家"
+    },
+    {
+      "time": 140.67,
+      "time_str": "02:20.670",
+      "text": "why not president, be a dreamer",
+      "translation": "为什么不是总统？做一个有梦想的人"
+    },
+    {
+      "time": 142.82,
+      "time_str": "02:22.820",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 146.58,
+      "time_str": "02:26.580",
+      "text": "police man, fire fighter or a post man",
+      "translation": "警察消防员或者邮递员"
+    },
+    {
+      "time": 149.65,
+      "time_str": "02:29.650",
+      "text": "why not something like your old man",
+      "translation": "为什么不是像你老爸那样的人？"
+    },
+    {
+      "time": 151.98,
+      "time_str": "02:31.980",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 155.81,
+      "time_str": "02:35.810",
+      "text": "doctor, actor, lawyer or a singer",
+      "translation": "医生演员律师或歌唱家"
+    },
+    {
+      "time": 158.82,
+      "time_str": "02:38.820",
+      "text": "why not president, be a dreamer",
+      "translation": "为什么不是总统？做一个有梦想的人"
+    },
+    {
+      "time": 161.04,
+      "time_str": "02:41.040",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 164.87,
+      "time_str": "02:44.870",
+      "text": "police man, fire fighter or a post man",
+      "translation": "警察消防员或者邮递员"
+    },
+    {
+      "time": 167.86,
+      "time_str": "02:47.860",
+      "text": "why not something like your old man",
+      "translation": "为什么不是像你老爸那样的人？"
+    },
+    {
+      "time": 170.17,
+      "time_str": "02:50.170",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 173.98,
+      "time_str": "02:53.980",
+      "text": "doctor, actor, lawyer or a singer",
+      "translation": "医生演员律师或歌唱家"
+    },
+    {
+      "time": 177.13,
+      "time_str": "02:57.130",
+      "text": "why not president, be a dreamer",
+      "translation": "为什么不是总统？做一个有梦想的人"
+    },
+    {
+      "time": 179.43,
+      "time_str": "02:59.430",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    },
+    {
+      "time": 183.17,
+      "time_str": "03:03.170",
+      "text": "police man, fire fighter or a post man",
+      "translation": "警察消防员或者邮递员"
+    },
+    {
+      "time": 186.29,
+      "time_str": "03:06.290",
+      "text": "why not something like your old man",
+      "translation": "为什么不是像你老爸那样的人？"
+    },
+    {
+      "time": 188.53,
+      "time_str": "03:08.530",
+      "text": "you can be just the one you wanna be",
+      "translation": "你可以成为任何一个你想成为的人"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Be What You Wanna Be - Darin.lrc"
+}

@@ -1,0 +1,304 @@
+{
+  "title": "如果你也听说",
+  "title_raw": "如果你也听说",
+  "version": null,
+  "artist": "张惠妹",
+  "group_key": "如果你也听说|张惠妹",
+  "writers": {
+    "lyricist": "李焯雄",
+    "composer": "周杰伦",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 20.56,
+      "time_str": "00:20.560",
+      "text": "突然发现站了好久",
+      "translation": null
+    },
+    {
+      "time": 24.71,
+      "time_str": "00:24.710",
+      "text": "不知道要往哪走",
+      "translation": null
+    },
+    {
+      "time": 29.07,
+      "time_str": "00:29.070",
+      "text": "还不想回家的我",
+      "translation": null
+    },
+    {
+      "time": 32.91,
+      "time_str": "00:32.910",
+      "text": "再多人陪 只会更寂寞",
+      "translation": null
+    },
+    {
+      "time": 37.11,
+      "time_str": "00:37.110",
+      "text": "许多话题 关于我",
+      "translation": null
+    },
+    {
+      "time": 41.05,
+      "time_str": "00:41.050",
+      "text": "就连我 也有听过",
+      "translation": null
+    },
+    {
+      "time": 45.17,
+      "time_str": "00:45.170",
+      "text": "我的快乐 要被认可",
+      "translation": null
+    },
+    {
+      "time": 49.23,
+      "time_str": "00:49.230",
+      "text": "委屈却没有人诉说",
+      "translation": null
+    },
+    {
+      "time": 53.1,
+      "time_str": "00:53.100",
+      "text": "夜把心洋葱般剥落",
+      "translation": null
+    },
+    {
+      "time": 57.26,
+      "time_str": "00:57.260",
+      "text": "拿掉防卫 剩下什么",
+      "translation": null
+    },
+    {
+      "time": 61.33,
+      "time_str": "01:01.330",
+      "text": "为什么脆弱时候 想你更多",
+      "translation": null
+    },
+    {
+      "time": 68.54,
+      "time_str": "01:08.540",
+      "text": "如果你也听说 有没有想过我",
+      "translation": null
+    },
+    {
+      "time": 76.69,
+      "time_str": "01:16.690",
+      "text": "像普通旧朋友",
+      "translation": null
+    },
+    {
+      "time": 80.3,
+      "time_str": "01:20.300",
+      "text": "还是你依然会心疼我",
+      "translation": null
+    },
+    {
+      "time": 85.46,
+      "time_str": "01:25.460",
+      "text": "好多好多的话想对你说",
+      "translation": null
+    },
+    {
+      "time": 90.0,
+      "time_str": "01:30.000",
+      "text": "悬着一颗心没着落",
+      "translation": null
+    },
+    {
+      "time": 94.22,
+      "time_str": "01:34.220",
+      "text": "要怎么附和 舍不得 又无可奈何",
+      "translation": null
+    },
+    {
+      "time": 101.57,
+      "time_str": "01:41.570",
+      "text": "如果你也听说 会不会相信我",
+      "translation": null
+    },
+    {
+      "time": 109.52,
+      "time_str": "01:49.520",
+      "text": "对流言会附和",
+      "translation": null
+    },
+    {
+      "time": 113.15,
+      "time_str": "01:53.150",
+      "text": "还是你知道我还是我",
+      "translation": null
+    },
+    {
+      "time": 118.3,
+      "time_str": "01:58.300",
+      "text": "跌跌撞撞才明白了许多",
+      "translation": null
+    },
+    {
+      "time": 122.85,
+      "time_str": "02:02.850",
+      "text": "懂我的人就你一个",
+      "translation": null
+    },
+    {
+      "time": 126.79,
+      "time_str": "02:06.790",
+      "text": "想到你想起我 胸口依然温热",
+      "translation": null
+    },
+    {
+      "time": 147.89,
+      "time_str": "02:27.890",
+      "text": "许多话题 关于我",
+      "translation": null
+    },
+    {
+      "time": 151.86,
+      "time_str": "02:31.860",
+      "text": "就连我 也有听过",
+      "translation": null
+    },
+    {
+      "time": 155.85,
+      "time_str": "02:35.850",
+      "text": "我想我宁可都沉默",
+      "translation": null
+    },
+    {
+      "time": 159.97,
+      "time_str": "02:39.970",
+      "text": "解释反而 显得做作",
+      "translation": null
+    },
+    {
+      "time": 163.86,
+      "time_str": "02:43.860",
+      "text": "夜把心洋葱般剥落",
+      "translation": null
+    },
+    {
+      "time": 167.96,
+      "time_str": "02:47.960",
+      "text": "拿掉防卫 剩下什么",
+      "translation": null
+    },
+    {
+      "time": 172.08,
+      "time_str": "02:52.080",
+      "text": "为什么脆弱时候 想你更多",
+      "translation": null
+    },
+    {
+      "time": 179.31,
+      "time_str": "02:59.310",
+      "text": "如果你也听说 有没有想过我",
+      "translation": null
+    },
+    {
+      "time": 187.44,
+      "time_str": "03:07.440",
+      "text": "像普通旧朋友",
+      "translation": null
+    },
+    {
+      "time": 191.08,
+      "time_str": "03:11.080",
+      "text": "还是你依然会心疼我",
+      "translation": null
+    },
+    {
+      "time": 196.24,
+      "time_str": "03:16.240",
+      "text": "好多好多的话想对你说",
+      "translation": null
+    },
+    {
+      "time": 200.8,
+      "time_str": "03:20.800",
+      "text": "悬着一颗心没着落",
+      "translation": null
+    },
+    {
+      "time": 204.78,
+      "time_str": "03:24.780",
+      "text": "要怎么附和 舍不得 又无可奈何",
+      "translation": null
+    },
+    {
+      "time": 212.24,
+      "time_str": "03:32.240",
+      "text": "如果你也听说 会不会相信我",
+      "translation": null
+    },
+    {
+      "time": 220.23,
+      "time_str": "03:40.230",
+      "text": "对流言会附和",
+      "translation": null
+    },
+    {
+      "time": 223.8,
+      "time_str": "03:43.800",
+      "text": "还是你知道我还是我",
+      "translation": null
+    },
+    {
+      "time": 229.07,
+      "time_str": "03:49.070",
+      "text": "跌跌撞撞 才明白了许多",
+      "translation": null
+    },
+    {
+      "time": 233.58,
+      "time_str": "03:53.580",
+      "text": "懂我的人就你一个",
+      "translation": null
+    },
+    {
+      "time": 237.45,
+      "time_str": "03:57.450",
+      "text": "想到你想起我 胸口依然温热",
+      "translation": null
+    },
+    {
+      "time": 249.23,
+      "time_str": "04:09.230",
+      "text": "如果你也听说 有没有想过我",
+      "translation": null
+    },
+    {
+      "time": 257.17,
+      "time_str": "04:17.170",
+      "text": "像普通旧朋友 还是你依然会心疼我",
+      "translation": null
+    },
+    {
+      "time": 265.94,
+      "time_str": "04:25.940",
+      "text": "跌跌撞撞才明白了许多",
+      "translation": null
+    },
+    {
+      "time": 270.56,
+      "time_str": "04:30.560",
+      "text": "懂我的人就你一个",
+      "translation": null
+    },
+    {
+      "time": 274.48,
+      "time_str": "04:34.480",
+      "text": "想到你想起我 胸口依然温热",
+      "translation": null
+    },
+    {
+      "time": 282.77,
+      "time_str": "04:42.770",
+      "text": "如果你想起我 你会想到什么",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "如果你也听说 - 张惠妹.lrc"
+}

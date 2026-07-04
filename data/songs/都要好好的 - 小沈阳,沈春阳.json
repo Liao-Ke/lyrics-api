@@ -1,0 +1,262 @@
+{
+  "title": "都要好好的",
+  "title_raw": "都要好好的",
+  "version": null,
+  "artist": "小沈阳,沈春阳",
+  "group_key": "都要好好的|小沈阳,沈春阳",
+  "writers": {
+    "lyricist": "高进/小沈阳",
+    "composer": "高进",
+    "arranger": "关天天"
+  },
+  "lyrics": [
+    {
+      "time": 11.19,
+      "time_str": "00:11.190",
+      "text": "唱一首情歌送给我的老婆",
+      "translation": null
+    },
+    {
+      "time": 16.5,
+      "time_str": "00:16.500",
+      "text": "这么多年你默默付出真的辛苦了",
+      "translation": null
+    },
+    {
+      "time": 21.45,
+      "time_str": "00:21.450",
+      "text": "艰难幸福的岁月我们曾一起走过",
+      "translation": null
+    },
+    {
+      "time": 26.85,
+      "time_str": "00:26.850",
+      "text": "眼泪笑声填满了我们平凡的生活",
+      "translation": null
+    },
+    {
+      "time": 32.5,
+      "time_str": "00:32.500",
+      "text": "亲爱的你是我生命中的一首歌",
+      "translation": null
+    },
+    {
+      "time": 37.81,
+      "time_str": "00:37.810",
+      "text": "有动人的篇章有真实的快乐",
+      "translation": null
+    },
+    {
+      "time": 42.94,
+      "time_str": "00:42.940",
+      "text": "这么多年我知道你是苦苦奋斗着",
+      "translation": null
+    },
+    {
+      "time": 48.7,
+      "time_str": "00:48.700",
+      "text": "为了我们的家为了孩子和我",
+      "translation": null
+    },
+    {
+      "time": 59.43,
+      "time_str": "00:59.430",
+      "text": "我们都说过无论 以后怎样都要好好的",
+      "translation": null
+    },
+    {
+      "time": 65.04,
+      "time_str": "01:05.040",
+      "text": "不要忘了当初有些天真许下的承诺",
+      "translation": null
+    },
+    {
+      "time": 70.44,
+      "time_str": "01:10.440",
+      "text": "男：当你不开心时让我为你唱首歌",
+      "translation": null
+    },
+    {
+      "time": 75.84,
+      "time_str": "01:15.840",
+      "text": "就算再大的风雨手拉手一起走过",
+      "translation": null
+    },
+    {
+      "time": 81.5,
+      "time_str": "01:21.500",
+      "text": "我们都说过无论贫穷富有都要好好的",
+      "translation": null
+    },
+    {
+      "time": 86.93,
+      "time_str": "01:26.930",
+      "text": "不要忘了当初我们的路是怎样走过",
+      "translation": null
+    },
+    {
+      "time": 92.31,
+      "time_str": "01:32.310",
+      "text": "男：当你伤心的时候 女：就请对我诉说",
+      "translation": null
+    },
+    {
+      "time": 97.89,
+      "time_str": "01:37.890",
+      "text": "等到老的时候一起 看日落",
+      "translation": null
+    },
+    {
+      "time": 118.1,
+      "time_str": "01:58.100",
+      "text": "唱一首情歌送给我的老婆",
+      "translation": null
+    },
+    {
+      "time": 122.87,
+      "time_str": "02:02.870",
+      "text": "这么多年你默默付出真的辛苦了",
+      "translation": null
+    },
+    {
+      "time": 128.09,
+      "time_str": "02:08.090",
+      "text": "艰难幸福的岁月我们曾一起走过",
+      "translation": null
+    },
+    {
+      "time": 133.3,
+      "time_str": "02:13.300",
+      "text": "眼泪笑声填满了我们平凡的生活",
+      "translation": null
+    },
+    {
+      "time": 139.22,
+      "time_str": "02:19.220",
+      "text": "亲爱的你是我生命中的一首歌",
+      "translation": null
+    },
+    {
+      "time": 144.48,
+      "time_str": "02:24.480",
+      "text": "有动人的篇章有真实的快乐",
+      "translation": null
+    },
+    {
+      "time": 149.46,
+      "time_str": "02:29.460",
+      "text": "这么多年我知道你是苦苦奋斗着",
+      "translation": null
+    },
+    {
+      "time": 155.3,
+      "time_str": "02:35.300",
+      "text": "为了我们的家为了孩子和我",
+      "translation": null
+    },
+    {
+      "time": 165.59,
+      "time_str": "02:45.590",
+      "text": "合：我们都说过无论 以后怎样都要好好的",
+      "translation": null
+    },
+    {
+      "time": 171.78,
+      "time_str": "02:51.780",
+      "text": "女：不要忘了当初有些天真许下的承诺",
+      "translation": null
+    },
+    {
+      "time": 178.48,
+      "time_str": "02:58.480",
+      "text": "男：你不开心时 让我为你唱首歌",
+      "translation": null
+    },
+    {
+      "time": 183.86,
+      "time_str": "03:03.860",
+      "text": "就算再大的风雨手拉手一起走过",
+      "translation": null
+    },
+    {
+      "time": 189.57,
+      "time_str": "03:09.570",
+      "text": "我们都说过无论贫穷富有都要好好的",
+      "translation": null
+    },
+    {
+      "time": 195.01,
+      "time_str": "03:15.010",
+      "text": "不要忘了当初我们的路是怎样走过",
+      "translation": null
+    },
+    {
+      "time": 200.52,
+      "time_str": "03:20.520",
+      "text": "当你伤心的时候 就请对我诉说",
+      "translation": null
+    },
+    {
+      "time": 205.97,
+      "time_str": "03:25.970",
+      "text": "等到老的时候一起 看日落",
+      "translation": null
+    },
+    {
+      "time": 214.15,
+      "time_str": "03:34.150",
+      "text": "我们都说过无论 以后怎样都要好好的",
+      "translation": null
+    },
+    {
+      "time": 219.66,
+      "time_str": "03:39.660",
+      "text": "不要忘了当初有些天真许下的承诺",
+      "translation": null
+    },
+    {
+      "time": 225.09,
+      "time_str": "03:45.090",
+      "text": "当你不开心时 让我为你唱首歌",
+      "translation": null
+    },
+    {
+      "time": 230.39,
+      "time_str": "03:50.390",
+      "text": "就算再大的风雨手拉手一起走过",
+      "translation": null
+    },
+    {
+      "time": 235.83,
+      "time_str": "03:55.830",
+      "text": "我们都说过无论贫穷富有都要好好的",
+      "translation": null
+    },
+    {
+      "time": 241.24,
+      "time_str": "04:01.240",
+      "text": "不要忘了当初我们的路是怎样走过",
+      "translation": null
+    },
+    {
+      "time": 246.75,
+      "time_str": "04:06.750",
+      "text": "当你伤心的时候 就请对我诉说",
+      "translation": null
+    },
+    {
+      "time": 252.44,
+      "time_str": "04:12.440",
+      "text": "等到老的时候一起 看日落",
+      "translation": null
+    },
+    {
+      "time": 257.96,
+      "time_str": "04:17.960",
+      "text": "等到老的时候一起 看日落",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "都要好好的 - 小沈阳,沈春阳.lrc"
+}

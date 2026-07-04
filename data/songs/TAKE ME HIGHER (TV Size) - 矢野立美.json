@@ -1,0 +1,106 @@
+{
+  "title": "TAKE ME HIGHER",
+  "title_raw": "TAKE ME HIGHER (TV Size)",
+  "version": "TV Size",
+  "artist": "矢野立美",
+  "group_key": "take me higher|矢野立美",
+  "writers": {
+    "lyricist": "铃木计见",
+    "composer": "Pasquini-Batten-Contini",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 12.79,
+      "time_str": "00:12.790",
+      "text": "静かに朝焼けが",
+      "translation": "晨曦静静地"
+    },
+    {
+      "time": 16.0,
+      "time_str": "00:16.000",
+      "text": "大地をつつんでく",
+      "translation": "逐渐笼罩了大地"
+    },
+    {
+      "time": 19.16,
+      "time_str": "00:19.160",
+      "text": "いつもと 変わらぬ夜明け",
+      "translation": "一如往常的黎明"
+    },
+    {
+      "time": 25.5,
+      "time_str": "00:25.500",
+      "text": "遥かに続いてく 繰り返しの中で",
+      "translation": "在向着遥远未来延续，周而复始"
+    },
+    {
+      "time": 31.69,
+      "time_str": "00:31.690",
+      "text": "僕らは 瞬間(いま)を生きてる",
+      "translation": "我们生活在这个瞬间"
+    },
+    {
+      "time": 38.22,
+      "time_str": "00:38.220",
+      "text": "みえない今日の風に 立ち向かってゆく",
+      "translation": "看不到今天的风，站立着面对大地"
+    },
+    {
+      "time": 44.53,
+      "time_str": "00:44.530",
+      "text": "いつまでも守りたい その微笑みを",
+      "translation": "希望能永远守卫着，你的笑容"
+    },
+    {
+      "time": 49.9,
+      "time_str": "00:49.900",
+      "text": "Wanna take you, baby, take me higher",
+      "translation": "想要带着你，宝贝，带着我飞得更高"
+    },
+    {
+      "time": 53.12,
+      "time_str": "00:53.120",
+      "text": "愛を抱きしめて いま",
+      "translation": "现在拥抱着爱"
+    },
+    {
+      "time": 56.21,
+      "time_str": "00:56.210",
+      "text": "Gonna TIGA! Take me, take me higher",
+      "translation": "去吧，迪迦！带着我，带我飞得更高"
+    },
+    {
+      "time": 59.48,
+      "time_str": "00:59.480",
+      "text": "勇気抱きしめて 強く",
+      "translation": "用力地拥抱住勇气"
+    },
+    {
+      "time": 62.55,
+      "time_str": "01:02.550",
+      "text": "Wanna take you, baby, take me higher",
+      "translation": "想要带着你，宝贝，带着我飞得更高"
+    },
+    {
+      "time": 65.76,
+      "time_str": "01:05.760",
+      "text": "きっと辿り着けるさ",
+      "translation": "我们一定能够到达"
+    },
+    {
+      "time": 69.0,
+      "time_str": "01:09.000",
+      "text": "Gonna TIGA! Take me, take me higher",
+      "translation": "去吧，迪迦！带着我，带我飞得更高"
+    },
+    {
+      "time": 72.06,
+      "time_str": "01:12.060",
+      "text": "熱い鼓動を信じて",
+      "translation": "热情的信念在涌动"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "TAKE ME HIGHER (TV Size) - 矢野立美.lrc"
+}

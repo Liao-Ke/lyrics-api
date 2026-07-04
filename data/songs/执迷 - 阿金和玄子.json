@@ -1,0 +1,724 @@
+{
+  "title": "执迷",
+  "title_raw": "执迷",
+  "version": null,
+  "artist": "阿金和玄子",
+  "group_key": "执迷|阿金和玄子",
+  "writers": {
+    "lyricist": "阿金/Y森",
+    "composer": "Y森",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 12.25,
+      "time_str": "00:12.250",
+      "text": "那就走吧",
+      "translation": null
+    },
+    {
+      "time": 15.12,
+      "time_str": "00:15.120",
+      "text": "生活本来就烦恼",
+      "translation": null
+    },
+    {
+      "time": 18.39,
+      "time_str": "00:18.390",
+      "text": "早点结束也挺好",
+      "translation": null
+    },
+    {
+      "time": 21.97,
+      "time_str": "00:21.970",
+      "text": "何必再追问谁对谁错",
+      "translation": null
+    },
+    {
+      "time": 24.32,
+      "time_str": "00:24.320",
+      "text": "得到的付出多少",
+      "translation": null
+    },
+    {
+      "time": 27.95,
+      "time_str": "00:27.950",
+      "text": "黑暗终究要破晓",
+      "translation": null
+    },
+    {
+      "time": 30.65,
+      "time_str": "00:30.650",
+      "text": "偏爱放纵了轨道",
+      "translation": null
+    },
+    {
+      "time": 34.17,
+      "time_str": "00:34.170",
+      "text": "冷冽他伴着沙撕下疤",
+      "translation": null
+    },
+    {
+      "time": 36.81,
+      "time_str": "00:36.810",
+      "text": "嘲笑着悲伤傻瓜",
+      "translation": null
+    },
+    {
+      "time": 41.29,
+      "time_str": "00:41.290",
+      "text": "结束了也好",
+      "translation": null
+    },
+    {
+      "time": 44.11,
+      "time_str": "00:44.110",
+      "text": "像风中的野草",
+      "translation": null
+    },
+    {
+      "time": 47.63,
+      "time_str": "00:47.630",
+      "text": "庸人自扰在圈套里",
+      "translation": null
+    },
+    {
+      "time": 49.52,
+      "time_str": "00:49.520",
+      "text": "输掉了最后的桀骜",
+      "translation": null
+    },
+    {
+      "time": 54.0,
+      "time_str": "00:54.000",
+      "text": "这样也好 看你走掉",
+      "translation": null
+    },
+    {
+      "time": 60.52,
+      "time_str": "01:00.520",
+      "text": "享受 这孤独 就想歇歇脚",
+      "translation": null
+    },
+    {
+      "time": 66.71,
+      "time_str": "01:06.710",
+      "text": "这样也挺好 依偎在死角",
+      "translation": null
+    },
+    {
+      "time": 73.03,
+      "time_str": "01:13.030",
+      "text": "别回眸 相信我 很快就会好",
+      "translation": null
+    },
+    {
+      "time": 77.57,
+      "time_str": "01:17.570",
+      "text": "多少人在劝你 别再执迷不悟",
+      "translation": null
+    },
+    {
+      "time": 79.66,
+      "time_str": "01:19.660",
+      "text": "可是为了理想流的汗水",
+      "translation": null
+    },
+    {
+      "time": 81.42,
+      "time_str": "01:21.420",
+      "text": "怎么能够辜负",
+      "translation": null
+    },
+    {
+      "time": 82.86,
+      "time_str": "01:22.860",
+      "text": "我倾尽全力",
+      "translation": null
+    },
+    {
+      "time": 84.04,
+      "time_str": "01:24.040",
+      "text": "为了它下了最后一注",
+      "translation": null
+    },
+    {
+      "time": 85.63,
+      "time_str": "01:25.630",
+      "text": "只求老天这次别再让",
+      "translation": null
+    },
+    {
+      "time": 87.82,
+      "time_str": "01:27.820",
+      "text": "我满盘皆输",
+      "translation": null
+    },
+    {
+      "time": 88.98,
+      "time_str": "01:28.980",
+      "text": "可能这是最后一次",
+      "translation": null
+    },
+    {
+      "time": 90.63,
+      "time_str": "01:30.630",
+      "text": "和理想合照",
+      "translation": null
+    },
+    {
+      "time": 92.17,
+      "time_str": "01:32.170",
+      "text": "也曾过不止一次",
+      "translation": null
+    },
+    {
+      "time": 93.51,
+      "time_str": "01:33.510",
+      "text": "为了理想 放下桀骜",
+      "translation": null
+    },
+    {
+      "time": 95.25,
+      "time_str": "01:35.250",
+      "text": "曾经的冷眼 袖手旁观",
+      "translation": null
+    },
+    {
+      "time": 97.02,
+      "time_str": "01:37.020",
+      "text": "那是无情和冷漠",
+      "translation": null
+    },
+    {
+      "time": 98.86,
+      "time_str": "01:38.860",
+      "text": "眼中的不屑 嗤之以鼻",
+      "translation": null
+    },
+    {
+      "time": 100.53,
+      "time_str": "01:40.530",
+      "text": "让我明白这就是生活",
+      "translation": null
+    },
+    {
+      "time": 102.32,
+      "time_str": "01:42.320",
+      "text": "他们不会懂",
+      "translation": null
+    },
+    {
+      "time": 103.84,
+      "time_str": "01:43.840",
+      "text": "他们大多时候都是沉默",
+      "translation": null
+    },
+    {
+      "time": 105.34,
+      "time_str": "01:45.340",
+      "text": "他们不会懂",
+      "translation": null
+    },
+    {
+      "time": 106.83,
+      "time_str": "01:46.830",
+      "text": "到底哥们儿我在抗争什么",
+      "translation": null
+    },
+    {
+      "time": 108.76,
+      "time_str": "01:48.760",
+      "text": "他们不会懂",
+      "translation": null
+    },
+    {
+      "time": 109.93,
+      "time_str": "01:49.930",
+      "text": "因为他们活的人心冷漠",
+      "translation": null
+    },
+    {
+      "time": 111.73,
+      "time_str": "01:51.730",
+      "text": "这无情的城市",
+      "translation": null
+    },
+    {
+      "time": 113.05,
+      "time_str": "01:53.050",
+      "text": "早把他们的人性完全消磨",
+      "translation": null
+    },
+    {
+      "time": 115.35,
+      "time_str": "01:55.350",
+      "text": "或者 活着 本生就是一场游戏",
+      "translation": null
+    },
+    {
+      "time": 117.95,
+      "time_str": "01:57.950",
+      "text": "也有可能 我的人生",
+      "translation": null
+    },
+    {
+      "time": 119.28,
+      "time_str": "01:59.280",
+      "text": "那就是一场骗局",
+      "translation": null
+    },
+    {
+      "time": 121.01,
+      "time_str": "02:01.010",
+      "text": "这是一被放大版的楚门的世界",
+      "translation": null
+    },
+    {
+      "time": 123.92,
+      "time_str": "02:03.920",
+      "text": "人与人之间",
+      "translation": null
+    },
+    {
+      "time": 125.09,
+      "time_str": "02:05.090",
+      "text": "互相操纵总来的那么直接",
+      "translation": null
+    },
+    {
+      "time": 127.9,
+      "time_str": "02:07.900",
+      "text": "所以 我把这一切",
+      "translation": null
+    },
+    {
+      "time": 129.24,
+      "time_str": "02:09.240",
+      "text": "写进歌词的字里行间",
+      "translation": null
+    },
+    {
+      "time": 130.89,
+      "time_str": "02:10.890",
+      "text": "只盼望有个知己",
+      "translation": null
+    },
+    {
+      "time": 132.41,
+      "time_str": "02:12.410",
+      "text": "某时某刻他能够听见",
+      "translation": null
+    },
+    {
+      "time": 134.15,
+      "time_str": "02:14.150",
+      "text": "愿你能独立自我",
+      "translation": null
+    },
+    {
+      "time": 135.6,
+      "time_str": "02:15.600",
+      "text": "展翅飞出巨大的高台",
+      "translation": null
+    },
+    {
+      "time": 137.3,
+      "time_str": "02:17.300",
+      "text": "别再像我一样",
+      "translation": null
+    },
+    {
+      "time": 138.54,
+      "time_str": "02:18.540",
+      "text": "执迷不悟的满怀期待",
+      "translation": null
+    },
+    {
+      "time": 140.22,
+      "time_str": "02:20.220",
+      "text": "那就走吧",
+      "translation": null
+    },
+    {
+      "time": 142.56,
+      "time_str": "02:22.560",
+      "text": "生活本来就烦恼",
+      "translation": null
+    },
+    {
+      "time": 145.81,
+      "time_str": "02:25.810",
+      "text": "早点结束也挺好",
+      "translation": null
+    },
+    {
+      "time": 148.72,
+      "time_str": "02:28.720",
+      "text": "何必再追问谁对谁错",
+      "translation": null
+    },
+    {
+      "time": 151.5,
+      "time_str": "02:31.500",
+      "text": "得到的付出多少",
+      "translation": null
+    },
+    {
+      "time": 155.35,
+      "time_str": "02:35.350",
+      "text": "黑暗终究要破晓",
+      "translation": null
+    },
+    {
+      "time": 157.58,
+      "time_str": "02:37.580",
+      "text": "偏爱放纵了轨道",
+      "translation": null
+    },
+    {
+      "time": 161.79,
+      "time_str": "02:41.790",
+      "text": "冷冽他伴着沙撕下疤",
+      "translation": null
+    },
+    {
+      "time": 164.76,
+      "time_str": "02:44.760",
+      "text": "嘲笑着悲伤傻瓜",
+      "translation": null
+    },
+    {
+      "time": 169.06,
+      "time_str": "02:49.060",
+      "text": "结束了也好",
+      "translation": null
+    },
+    {
+      "time": 171.88,
+      "time_str": "02:51.880",
+      "text": "像风中的野草",
+      "translation": null
+    },
+    {
+      "time": 175.11,
+      "time_str": "02:55.110",
+      "text": "庸人自扰在圈套里",
+      "translation": null
+    },
+    {
+      "time": 177.42,
+      "time_str": "02:57.420",
+      "text": "输掉了最后的桀骜",
+      "translation": null
+    },
+    {
+      "time": 181.51,
+      "time_str": "03:01.510",
+      "text": "这样也好 看你走掉",
+      "translation": null
+    },
+    {
+      "time": 188.44,
+      "time_str": "03:08.440",
+      "text": "享受 这孤独 就想歇歇脚",
+      "translation": null
+    },
+    {
+      "time": 194.71,
+      "time_str": "03:14.710",
+      "text": "这样也挺好 依偎在死角",
+      "translation": null
+    },
+    {
+      "time": 201.04,
+      "time_str": "03:21.040",
+      "text": "别回眸 相信我 很快就会好",
+      "translation": null
+    },
+    {
+      "time": 204.11,
+      "time_str": "03:24.110",
+      "text": "活着 或者活着",
+      "translation": null
+    },
+    {
+      "time": 205.04,
+      "time_str": "03:25.040",
+      "text": "只是为了活着 何以为乐",
+      "translation": null
+    },
+    {
+      "time": 207.04,
+      "time_str": "03:27.040",
+      "text": "被放了鸽子自我救赎的肖申克",
+      "translation": null
+    },
+    {
+      "time": 209.39,
+      "time_str": "03:29.390",
+      "text": "又何止一个",
+      "translation": null
+    },
+    {
+      "time": 210.71,
+      "time_str": "03:30.710",
+      "text": "患得患失面对舍得选择什么",
+      "translation": null
+    },
+    {
+      "time": 213.19,
+      "time_str": "03:33.190",
+      "text": "你也无可奈何",
+      "translation": null
+    },
+    {
+      "time": 214.46,
+      "time_str": "03:34.460",
+      "text": "猎豹不再奔跑换取门票",
+      "translation": null
+    },
+    {
+      "time": 217.06,
+      "time_str": "03:37.060",
+      "text": "这样的囚鸟 又何止一个",
+      "translation": null
+    },
+    {
+      "time": 218.46,
+      "time_str": "03:38.460",
+      "text": "是否信仰理想",
+      "translation": null
+    },
+    {
+      "time": 220.27,
+      "time_str": "03:40.270",
+      "text": "可以预算出她的价值观她的市值",
+      "translation": null
+    },
+    {
+      "time": 222.36,
+      "time_str": "03:42.360",
+      "text": "是否天才和疯子",
+      "translation": null
+    },
+    {
+      "time": 224.07,
+      "time_str": "03:44.070",
+      "text": "一左一右是谁掰断了戒尺",
+      "translation": null
+    },
+    {
+      "time": 225.97,
+      "time_str": "03:45.970",
+      "text": "天使和恶魔",
+      "translation": null
+    },
+    {
+      "time": 227.26,
+      "time_str": "03:47.260",
+      "text": "是不是一生都在对峙的双子",
+      "translation": null
+    },
+    {
+      "time": 229.52,
+      "time_str": "03:49.520",
+      "text": "原告和被告的倒置",
+      "translation": null
+    },
+    {
+      "time": 231.1,
+      "time_str": "03:51.100",
+      "text": "珍藏被贴上了泯灭的告示",
+      "translation": null
+    },
+    {
+      "time": 232.97,
+      "time_str": "03:52.970",
+      "text": "到底为了坚持在静止",
+      "translation": null
+    },
+    {
+      "time": 234.37,
+      "time_str": "03:54.370",
+      "text": "还是静止为了矜持",
+      "translation": null
+    },
+    {
+      "time": 235.94,
+      "time_str": "03:55.940",
+      "text": "这不知不觉的不知廉耻",
+      "translation": null
+    },
+    {
+      "time": 237.83,
+      "time_str": "03:57.830",
+      "text": "活着好像走肉行尸",
+      "translation": null
+    },
+    {
+      "time": 239.15,
+      "time_str": "03:59.150",
+      "text": "坚持理想的立场的梦想",
+      "translation": null
+    },
+    {
+      "time": 240.73,
+      "time_str": "04:00.730",
+      "text": "不加掩饰下现实的限制",
+      "translation": null
+    },
+    {
+      "time": 242.93,
+      "time_str": "04:02.930",
+      "text": "是否真的有着先知",
+      "translation": null
+    },
+    {
+      "time": 244.31,
+      "time_str": "04:04.310",
+      "text": "告诉我这事情的事实",
+      "translation": null
+    },
+    {
+      "time": 245.99,
+      "time_str": "04:05.990",
+      "text": "好让我立誓对这信仰开始了加持",
+      "translation": null
+    },
+    {
+      "time": 248.29,
+      "time_str": "04:08.290",
+      "text": "你怕不怕死",
+      "translation": null
+    },
+    {
+      "time": 250.19,
+      "time_str": "04:10.190",
+      "text": "如果死亡换来了飞翔",
+      "translation": null
+    },
+    {
+      "time": 251.82,
+      "time_str": "04:11.820",
+      "text": "又未尝不值得一试",
+      "translation": null
+    },
+    {
+      "time": 253.11,
+      "time_str": "04:13.110",
+      "text": "就让我死于这",
+      "translation": null
+    },
+    {
+      "time": 254.02,
+      "time_str": "04:14.020",
+      "text": "最真实麦克风前面的一世",
+      "translation": null
+    },
+    {
+      "time": 255.47,
+      "time_str": "04:15.470",
+      "text": "那就走吧",
+      "translation": null
+    },
+    {
+      "time": 258.03,
+      "time_str": "04:18.030",
+      "text": "生活本来就烦恼",
+      "translation": null
+    },
+    {
+      "time": 261.2,
+      "time_str": "04:21.200",
+      "text": "早点结束也挺好",
+      "translation": null
+    },
+    {
+      "time": 264.4,
+      "time_str": "04:24.400",
+      "text": "何必再追问谁对谁错",
+      "translation": null
+    },
+    {
+      "time": 267.03,
+      "time_str": "04:27.030",
+      "text": "得到的付出多少",
+      "translation": null
+    },
+    {
+      "time": 270.9,
+      "time_str": "04:30.900",
+      "text": "黑暗终究要破晓",
+      "translation": null
+    },
+    {
+      "time": 274.07,
+      "time_str": "04:34.070",
+      "text": "偏爱放纵了轨道",
+      "translation": null
+    },
+    {
+      "time": 277.18,
+      "time_str": "04:37.180",
+      "text": "冷冽他伴着沙撕下疤",
+      "translation": null
+    },
+    {
+      "time": 279.52,
+      "time_str": "04:39.520",
+      "text": "嘲笑着悲伤傻瓜",
+      "translation": null
+    },
+    {
+      "time": 283.98,
+      "time_str": "04:43.980",
+      "text": "结束了也好",
+      "translation": null
+    },
+    {
+      "time": 286.75,
+      "time_str": "04:46.750",
+      "text": "像风中的野草",
+      "translation": null
+    },
+    {
+      "time": 290.27,
+      "time_str": "04:50.270",
+      "text": "庸人自扰在圈套里",
+      "translation": null
+    },
+    {
+      "time": 292.15,
+      "time_str": "04:52.150",
+      "text": "输掉了最后的桀骜",
+      "translation": null
+    },
+    {
+      "time": 296.73,
+      "time_str": "04:56.730",
+      "text": "这样也好 看你走掉",
+      "translation": null
+    },
+    {
+      "time": 303.25,
+      "time_str": "05:03.250",
+      "text": "享受 这孤独 就想歇歇脚",
+      "translation": null
+    },
+    {
+      "time": 309.49,
+      "time_str": "05:09.490",
+      "text": "这样也挺好 依偎在死角",
+      "translation": null
+    },
+    {
+      "time": 315.42,
+      "time_str": "05:15.420",
+      "text": "别回眸 相信我 很快就会好",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "执迷 - 阿金和玄子.lrc"
+}

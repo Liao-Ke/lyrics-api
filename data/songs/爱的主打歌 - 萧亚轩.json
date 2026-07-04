@@ -1,0 +1,400 @@
+{
+  "title": "爱的主打歌",
+  "title_raw": "爱的主打歌",
+  "version": null,
+  "artist": "萧亚轩",
+  "group_key": "爱的主打歌|萧亚轩",
+  "writers": {
+    "lyricist": "周耀辉",
+    "composer": "陈伟",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 52.58,
+      "time_str": "00:52.580",
+      "text": "我在唱什么",
+      "translation": null
+    },
+    {
+      "time": 53.9,
+      "time_str": "00:53.900",
+      "text": "什么都觉得",
+      "translation": null
+    },
+    {
+      "time": 55.75,
+      "time_str": "00:55.750",
+      "text": "原来原来你是我的主打歌",
+      "translation": null
+    },
+    {
+      "time": 59.48,
+      "time_str": "00:59.480",
+      "text": "你在说什么",
+      "translation": null
+    },
+    {
+      "time": 61.12,
+      "time_str": "01:01.120",
+      "text": "只听一次也会记得",
+      "translation": null
+    },
+    {
+      "time": 65.16,
+      "time_str": "01:05.160",
+      "text": "听两次就火热",
+      "translation": null
+    },
+    {
+      "time": 67.1,
+      "time_str": "01:07.100",
+      "text": "我在干什么",
+      "translation": null
+    },
+    {
+      "time": 68.72,
+      "time_str": "01:08.720",
+      "text": "什么都觉得",
+      "translation": null
+    },
+    {
+      "time": 70.39,
+      "time_str": "01:10.390",
+      "text": "整个城市播着爱的主打歌",
+      "translation": null
+    },
+    {
+      "time": 74.32,
+      "time_str": "01:14.320",
+      "text": "主的可是你",
+      "translation": null
+    },
+    {
+      "time": 77.08,
+      "time_str": "01:17.080",
+      "text": "打得我好神不守舍",
+      "translation": null
+    },
+    {
+      "time": 80.93,
+      "time_str": "01:20.930",
+      "text": "然后 不断想起你的",
+      "translation": null
+    },
+    {
+      "time": 85.53,
+      "time_str": "01:25.530",
+      "text": "一言一语 是指定旋律",
+      "translation": null
+    },
+    {
+      "time": 88.74,
+      "time_str": "01:28.740",
+      "text": "陪我到哪条路游来游去",
+      "translation": null
+    },
+    {
+      "time": 92.63,
+      "time_str": "01:32.630",
+      "text": "不用戴起耳机",
+      "translation": null
+    },
+    {
+      "time": 94.98,
+      "time_str": "01:34.980",
+      "text": "也有好情绪 散不去",
+      "translation": null
+    },
+    {
+      "time": 100.38,
+      "time_str": "01:40.380",
+      "text": "假如有心 句句都是单曲",
+      "translation": null
+    },
+    {
+      "time": 103.68,
+      "time_str": "01:43.680",
+      "text": "假如不想 一切听不进去",
+      "translation": null
+    },
+    {
+      "time": 107.41,
+      "time_str": "01:47.410",
+      "text": "爱是这样不可理喻",
+      "translation": null
+    },
+    {
+      "time": 111.38,
+      "time_str": "01:51.380",
+      "text": "百听你不厌才是好证据",
+      "translation": null
+    },
+    {
+      "time": 114.92,
+      "time_str": "01:54.920",
+      "text": "我在唱什么",
+      "translation": null
+    },
+    {
+      "time": 116.55,
+      "time_str": "01:56.550",
+      "text": "什么都觉得",
+      "translation": null
+    },
+    {
+      "time": 118.34,
+      "time_str": "01:58.340",
+      "text": "原来原来你是我的主打歌",
+      "translation": null
+    },
+    {
+      "time": 122.11,
+      "time_str": "02:02.110",
+      "text": "你在说什么",
+      "translation": null
+    },
+    {
+      "time": 123.93,
+      "time_str": "02:03.930",
+      "text": "只听一次也会记得",
+      "translation": null
+    },
+    {
+      "time": 127.66,
+      "time_str": "02:07.660",
+      "text": "听两次就火热",
+      "translation": null
+    },
+    {
+      "time": 129.92,
+      "time_str": "02:09.920",
+      "text": "我在干什么",
+      "translation": null
+    },
+    {
+      "time": 131.7,
+      "time_str": "02:11.700",
+      "text": "什么都觉得",
+      "translation": null
+    },
+    {
+      "time": 133.79,
+      "time_str": "02:13.790",
+      "text": "整个城市播着爱的主打歌",
+      "translation": null
+    },
+    {
+      "time": 137.19,
+      "time_str": "02:17.190",
+      "text": "主的可是你",
+      "translation": null
+    },
+    {
+      "time": 139.35,
+      "time_str": "02:19.350",
+      "text": "打得我好神不守舍",
+      "translation": null
+    },
+    {
+      "time": 142.87,
+      "time_str": "02:22.870",
+      "text": "然后 不断想起你的",
+      "translation": null
+    },
+    {
+      "time": 159.96,
+      "time_str": "02:39.960",
+      "text": "一言一语 愈来愈有趣",
+      "translation": null
+    },
+    {
+      "time": 163.72,
+      "time_str": "02:43.720",
+      "text": "在我的排行榜升来升去",
+      "translation": null
+    },
+    {
+      "time": 167.62,
+      "time_str": "02:47.620",
+      "text": "不管一二三四",
+      "translation": null
+    },
+    {
+      "time": 170.2,
+      "time_str": "02:50.200",
+      "text": "也由你占据 退不去",
+      "translation": null
+    },
+    {
+      "time": 175.41,
+      "time_str": "02:55.410",
+      "text": "假如有心 句句都是单曲",
+      "translation": null
+    },
+    {
+      "time": 178.93,
+      "time_str": "02:58.930",
+      "text": "假如不想 一切听不进去",
+      "translation": null
+    },
+    {
+      "time": 182.54,
+      "time_str": "03:02.540",
+      "text": "爱是这样不可理喻",
+      "translation": null
+    },
+    {
+      "time": 187.45,
+      "time_str": "03:07.450",
+      "text": "百听你不厌才是好证据",
+      "translation": null
+    },
+    {
+      "time": 190.15,
+      "time_str": "03:10.150",
+      "text": "我在唱什么",
+      "translation": null
+    },
+    {
+      "time": 191.62,
+      "time_str": "03:11.620",
+      "text": "什么都觉得",
+      "translation": null
+    },
+    {
+      "time": 193.42,
+      "time_str": "03:13.420",
+      "text": "原来原来你是我的主打歌",
+      "translation": null
+    },
+    {
+      "time": 197.2,
+      "time_str": "03:17.200",
+      "text": "你在说什么",
+      "translation": null
+    },
+    {
+      "time": 198.97,
+      "time_str": "03:18.970",
+      "text": "只听一次也会记得",
+      "translation": null
+    },
+    {
+      "time": 202.88,
+      "time_str": "03:22.880",
+      "text": "听两次就火热",
+      "translation": null
+    },
+    {
+      "time": 204.78,
+      "time_str": "03:24.780",
+      "text": "我在干什么",
+      "translation": null
+    },
+    {
+      "time": 206.47,
+      "time_str": "03:26.470",
+      "text": "什么都觉得",
+      "translation": null
+    },
+    {
+      "time": 208.21,
+      "time_str": "03:28.210",
+      "text": "整个城市播着爱的主打歌",
+      "translation": null
+    },
+    {
+      "time": 212.09,
+      "time_str": "03:32.090",
+      "text": "主的可是你",
+      "translation": null
+    },
+    {
+      "time": 213.92,
+      "time_str": "03:33.920",
+      "text": "打得我好神不守舍",
+      "translation": null
+    },
+    {
+      "time": 217.87,
+      "time_str": "03:37.870",
+      "text": "然后 不断想起你的",
+      "translation": null
+    },
+    {
+      "time": 220.4,
+      "time_str": "03:40.400",
+      "text": "我在唱什么",
+      "translation": null
+    },
+    {
+      "time": 221.68,
+      "time_str": "03:41.680",
+      "text": "什么都觉得",
+      "translation": null
+    },
+    {
+      "time": 223.79,
+      "time_str": "03:43.790",
+      "text": "原来原来你是我的主打歌",
+      "translation": null
+    },
+    {
+      "time": 227.18,
+      "time_str": "03:47.180",
+      "text": "你在说什么",
+      "translation": null
+    },
+    {
+      "time": 228.91,
+      "time_str": "03:48.910",
+      "text": "只听一次也会记得",
+      "translation": null
+    },
+    {
+      "time": 232.95,
+      "time_str": "03:52.950",
+      "text": "听两次就火热",
+      "translation": null
+    },
+    {
+      "time": 234.81,
+      "time_str": "03:54.810",
+      "text": "我在干什么",
+      "translation": null
+    },
+    {
+      "time": 236.58,
+      "time_str": "03:56.580",
+      "text": "什么都觉得",
+      "translation": null
+    },
+    {
+      "time": 238.35,
+      "time_str": "03:58.350",
+      "text": "整个城市播着爱的主打歌",
+      "translation": null
+    },
+    {
+      "time": 242.09,
+      "time_str": "04:02.090",
+      "text": "主的可是你",
+      "translation": null
+    },
+    {
+      "time": 243.95,
+      "time_str": "04:03.950",
+      "text": "打得我好神不守舍",
+      "translation": null
+    },
+    {
+      "time": 247.92,
+      "time_str": "04:07.920",
+      "text": "然后 不断想起你的",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱的主打歌 - 萧亚轩.lrc"
+}

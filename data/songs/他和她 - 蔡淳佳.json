@@ -1,0 +1,214 @@
+{
+  "title": "他和她",
+  "title_raw": "他和她",
+  "version": null,
+  "artist": "蔡淳佳",
+  "group_key": "他和她|蔡淳佳",
+  "writers": {
+    "lyricist": "林秋离/楼南蔚",
+    "composer": "吴剑泓",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.47,
+      "time_str": "00:14.470",
+      "text": "他习惯把自己丢在热闹的场所",
+      "translation": null
+    },
+    {
+      "time": 23.02,
+      "time_str": "00:23.020",
+      "text": "他以为这样可以掩饰掉落寞",
+      "translation": null
+    },
+    {
+      "time": 31.57,
+      "time_str": "00:31.570",
+      "text": "她喜欢往这个城市最安静角落走",
+      "translation": null
+    },
+    {
+      "time": 40.39,
+      "time_str": "00:40.390",
+      "text": "担心脆弱被人识破",
+      "translation": null
+    },
+    {
+      "time": 47.26,
+      "time_str": "00:47.260",
+      "text": "他和她住在同一栋楼",
+      "translation": null
+    },
+    {
+      "time": 51.53,
+      "time_str": "00:51.530",
+      "text": "遗憾的是爱擦肩而过",
+      "translation": null
+    },
+    {
+      "time": 56.55,
+      "time_str": "00:56.550",
+      "text": "他们孤独时候",
+      "translation": null
+    },
+    {
+      "time": 59.14,
+      "time_str": "00:59.140",
+      "text": "都望着同一颗星球",
+      "translation": null
+    },
+    {
+      "time": 64.57,
+      "time_str": "01:04.570",
+      "text": "他和她都在城市飘流",
+      "translation": null
+    },
+    {
+      "time": 68.79,
+      "time_str": "01:08.790",
+      "text": "遗憾的是心无缘邂逅",
+      "translation": null
+    },
+    {
+      "time": 73.67,
+      "time_str": "01:13.670",
+      "text": "他们彼此适合却无奈的错过",
+      "translation": null
+    },
+    {
+      "time": 82.56,
+      "time_str": "01:22.560",
+      "text": "在人群中掩没",
+      "translation": null
+    },
+    {
+      "time": 91.42,
+      "time_str": "01:31.420",
+      "text": "他渴望能有人分享夜晚和失落",
+      "translation": null
+    },
+    {
+      "time": 99.88,
+      "time_str": "01:39.880",
+      "text": "她最怕独自面对黄昏和脆弱",
+      "translation": null
+    },
+    {
+      "time": 108.59,
+      "time_str": "01:48.590",
+      "text": "其实他们彼此距离才两三个窗口",
+      "translation": null
+    },
+    {
+      "time": 117.34,
+      "time_str": "01:57.340",
+      "text": "不同的心一样寂寞",
+      "translation": null
+    },
+    {
+      "time": 124.34,
+      "time_str": "02:04.340",
+      "text": "他和她住在同在一栋楼",
+      "translation": null
+    },
+    {
+      "time": 128.4,
+      "time_str": "02:08.400",
+      "text": "遗憾的是爱擦肩而过",
+      "translation": null
+    },
+    {
+      "time": 133.31,
+      "time_str": "02:13.310",
+      "text": "他们孤独时候",
+      "translation": null
+    },
+    {
+      "time": 135.67,
+      "time_str": "02:15.670",
+      "text": "都望着同一颗星球",
+      "translation": null
+    },
+    {
+      "time": 141.46,
+      "time_str": "02:21.460",
+      "text": "他和她都在城市飘流",
+      "translation": null
+    },
+    {
+      "time": 145.84,
+      "time_str": "02:25.840",
+      "text": "遗憾的是心无缘邂逅",
+      "translation": null
+    },
+    {
+      "time": 150.69,
+      "time_str": "02:30.690",
+      "text": "他们彼此适合却无奈的错过",
+      "translation": null
+    },
+    {
+      "time": 160.3,
+      "time_str": "02:40.300",
+      "text": "在人群中掩没",
+      "translation": null
+    },
+    {
+      "time": 174.38,
+      "time_str": "02:54.380",
+      "text": "他和她住在同一栋楼",
+      "translation": null
+    },
+    {
+      "time": 177.99,
+      "time_str": "02:57.990",
+      "text": "遗憾的是爱擦肩而过",
+      "translation": null
+    },
+    {
+      "time": 183.17,
+      "time_str": "03:03.170",
+      "text": "他们孤独时候",
+      "translation": null
+    },
+    {
+      "time": 185.55,
+      "time_str": "03:05.550",
+      "text": "都望着同一颗星球",
+      "translation": null
+    },
+    {
+      "time": 190.92,
+      "time_str": "03:10.920",
+      "text": "他和她都在城市飘流",
+      "translation": null
+    },
+    {
+      "time": 195.39,
+      "time_str": "03:15.390",
+      "text": "遗憾的是心无缘邂逅",
+      "translation": null
+    },
+    {
+      "time": 200.24,
+      "time_str": "03:20.240",
+      "text": "他们彼此适合却无奈的错过",
+      "translation": null
+    },
+    {
+      "time": 210.26,
+      "time_str": "03:30.260",
+      "text": "在人群中掩没",
+      "translation": null
+    },
+    {
+      "time": 219.75,
+      "time_str": "03:39.750",
+      "text": "在人群中掩没",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "他和她 - 蔡淳佳.lrc"
+}

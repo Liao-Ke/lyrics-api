@@ -1,0 +1,370 @@
+{
+  "title": "单眼皮女生",
+  "title_raw": "单眼皮女生",
+  "version": null,
+  "artist": "中国娃娃",
+  "group_key": "单眼皮女生|中国娃娃",
+  "writers": {
+    "lyricist": "许常德",
+    "composer": "Chatchai Chabament",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 23.64,
+      "time_str": "00:23.640",
+      "text": "大错特错不要来 侮辱我的美",
+      "translation": null
+    },
+    {
+      "time": 27.6,
+      "time_str": "00:27.600",
+      "text": "我不是你的Style 为何天天缠着我",
+      "translation": null
+    },
+    {
+      "time": 31.01,
+      "time_str": "00:31.010",
+      "text": "特错不要来 侮辱我的美",
+      "translation": null
+    },
+    {
+      "time": 34.57,
+      "time_str": "00:34.570",
+      "text": "但要是你喜欢我 就快点大声说出来 Yeah！",
+      "translation": null
+    },
+    {
+      "time": 38.08,
+      "time_str": "00:38.080",
+      "text": "姐妹拿起电话 喂喂靠过来",
+      "translation": null
+    },
+    {
+      "time": 41.52,
+      "time_str": "00:41.520",
+      "text": "对面那桌男孩 今天又来 哼",
+      "translation": null
+    },
+    {
+      "time": 45.07,
+      "time_str": "00:45.070",
+      "text": "瞧瞧他的眼睛 超级有自信",
+      "translation": null
+    },
+    {
+      "time": 48.56,
+      "time_str": "00:48.560",
+      "text": "好像每个女生 都会上钩",
+      "translation": null
+    },
+    {
+      "time": 59.1,
+      "time_str": "00:59.100",
+      "text": "听说他爱的女生 只挑双眼皮",
+      "translation": null
+    },
+    {
+      "time": 62.53,
+      "time_str": "01:02.530",
+      "text": "但我的单眼皮 不能挑剔",
+      "translation": null
+    },
+    {
+      "time": 66.04,
+      "time_str": "01:06.040",
+      "text": "要爱就爱所有 包括妹妹头",
+      "translation": null
+    },
+    {
+      "time": 69.54,
+      "time_str": "01:09.540",
+      "text": "流行整个地球 Pretty China Doll",
+      "translation": null
+    },
+    {
+      "time": 73.23,
+      "time_str": "01:13.230",
+      "text": "我承认我已爱上他",
+      "translation": null
+    },
+    {
+      "time": 76.72,
+      "time_str": "01:16.720",
+      "text": "但是我的自尊不能随便卸下",
+      "translation": null
+    },
+    {
+      "time": 79.56,
+      "time_str": "01:19.560",
+      "text": "【泰语】สวัสดีคะ（你好）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 81.3,
+      "time_str": "01:21.300",
+      "text": "【泰语】สวัสดีคะ（你好）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 83.02,
+      "time_str": "01:23.020",
+      "text": "求求老天让我爱上他",
+      "translation": null
+    },
+    {
+      "time": 86.56,
+      "time_str": "01:26.560",
+      "text": "【泰语】ก็หมวยนี่คะ（丹凤眼）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 88.29,
+      "time_str": "01:28.290",
+      "text": "【泰语】ก็หมวยนี่คะ（丹凤眼）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 90.12,
+      "time_str": "01:30.120",
+      "text": "单眼皮女生要的爱是完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 93.91,
+      "time_str": "01:33.910",
+      "text": "大错特错不要来 侮辱我的美",
+      "translation": null
+    },
+    {
+      "time": 97.58,
+      "time_str": "01:37.580",
+      "text": "我不是你的Style 为何天天缠着我",
+      "translation": null
+    },
+    {
+      "time": 101.11,
+      "time_str": "01:41.110",
+      "text": "特错不要来 侮辱我的美",
+      "translation": null
+    },
+    {
+      "time": 104.65,
+      "time_str": "01:44.650",
+      "text": "但要是你喜欢我 就快点大声说出来 Yeah！",
+      "translation": null
+    },
+    {
+      "time": 108.05,
+      "time_str": "01:48.050",
+      "text": "听说他爱的女生 只挑双眼皮",
+      "translation": null
+    },
+    {
+      "time": 111.58,
+      "time_str": "01:51.580",
+      "text": "但我的单眼皮 不能挑剔",
+      "translation": null
+    },
+    {
+      "time": 115.08,
+      "time_str": "01:55.080",
+      "text": "要爱就爱所有 包括妹妹头",
+      "translation": null
+    },
+    {
+      "time": 118.56,
+      "time_str": "01:58.560",
+      "text": "流行整个地球 Pretty China Doll",
+      "translation": null
+    },
+    {
+      "time": 122.33,
+      "time_str": "02:02.330",
+      "text": "我承认我已爱上他",
+      "translation": null
+    },
+    {
+      "time": 125.78,
+      "time_str": "02:05.780",
+      "text": "但是我的自尊不能随便卸下",
+      "translation": null
+    },
+    {
+      "time": 128.53,
+      "time_str": "02:08.530",
+      "text": "【泰语】สวัสดีคะ（你好）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 130.46,
+      "time_str": "02:10.460",
+      "text": "【泰语】สวัสดีคะ（你好）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 132.19,
+      "time_str": "02:12.190",
+      "text": "求求老天让我爱上他",
+      "translation": null
+    },
+    {
+      "time": 135.62,
+      "time_str": "02:15.620",
+      "text": "【泰语】ก็หมวยนี่คะ（丹凤眼）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 137.38,
+      "time_str": "02:17.380",
+      "text": "【泰语】ก็หมวยนี่คะ（丹凤眼）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 139.16,
+      "time_str": "02:19.160",
+      "text": "单眼皮女生要的爱是完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 145.82,
+      "time_str": "02:25.820",
+      "text": "完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 149.28,
+      "time_str": "02:29.280",
+      "text": "完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 152.88,
+      "time_str": "02:32.880",
+      "text": "完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 160.19,
+      "time_str": "02:40.190",
+      "text": "【泰语】สวัสดีคะ（你好）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 161.95,
+      "time_str": "02:41.950",
+      "text": "【泰语】สวัสดีคะ（你好）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 163.66,
+      "time_str": "02:43.660",
+      "text": "求求老天让我爱上他",
+      "translation": null
+    },
+    {
+      "time": 167.1,
+      "time_str": "02:47.100",
+      "text": "【泰语】ก็หมวยนี่คะ（丹凤眼）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 168.9,
+      "time_str": "02:48.900",
+      "text": "【泰语】ก็หมวยนี่คะ（丹凤眼）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 170.67,
+      "time_str": "02:50.670",
+      "text": "单眼皮女生要的爱是完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 174.53,
+      "time_str": "02:54.530",
+      "text": "【泰语】สวัสดีคะ（你好）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 175.92,
+      "time_str": "02:55.920",
+      "text": "【泰语】สวัสดีคะ（你好）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 177.72,
+      "time_str": "02:57.720",
+      "text": "求求老天让我爱上他",
+      "translation": null
+    },
+    {
+      "time": 181.21,
+      "time_str": "03:01.210",
+      "text": "【泰语】ก็หมวยนี่คะ（丹凤眼）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 182.91,
+      "time_str": "03:02.910",
+      "text": "【泰语】ก็หมวยนี่คะ（丹凤眼）说爱出来",
+      "translation": null
+    },
+    {
+      "time": 184.79,
+      "time_str": "03:04.790",
+      "text": "单眼皮女生要的爱是完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 188.45,
+      "time_str": "03:08.450",
+      "text": "大错特错不要来 侮辱我的美",
+      "translation": null
+    },
+    {
+      "time": 191.31,
+      "time_str": "03:11.310",
+      "text": "完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 192.19,
+      "time_str": "03:12.190",
+      "text": "我不是你的STYLE 为何天天缠着我",
+      "translation": null
+    },
+    {
+      "time": 194.79,
+      "time_str": "03:14.790",
+      "text": "完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 195.72,
+      "time_str": "03:15.720",
+      "text": "特错不要来 侮辱我的美",
+      "translation": null
+    },
+    {
+      "time": 198.34,
+      "time_str": "03:18.340",
+      "text": "完美无瑕",
+      "translation": null
+    },
+    {
+      "time": 199.18,
+      "time_str": "03:19.180",
+      "text": "但要是你喜欢我 就快点大声说出来 Yeah！",
+      "translation": null
+    },
+    {
+      "time": 201.81,
+      "time_str": "03:21.810",
+      "text": "完美无瑕",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "单眼皮女生 - 中国娃娃.lrc"
+}

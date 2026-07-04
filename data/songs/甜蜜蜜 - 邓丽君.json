@@ -1,0 +1,178 @@
+{
+  "title": "甜蜜蜜",
+  "title_raw": "甜蜜蜜",
+  "version": null,
+  "artist": "邓丽君",
+  "group_key": "甜蜜蜜|邓丽君",
+  "writers": {
+    "lyricist": "庄奴",
+    "composer": "Indonesian Folk Song",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "SP : Universal Music Publishing Ltd Taiwan",
+      "translation": null
+    },
+    {
+      "time": 9.0,
+      "time_str": "00:09.000",
+      "text": "甜蜜蜜你笑得甜蜜蜜",
+      "translation": null
+    },
+    {
+      "time": 16.0,
+      "time_str": "00:16.000",
+      "text": "好像花儿开在春风里",
+      "translation": null
+    },
+    {
+      "time": 21.0,
+      "time_str": "00:21.000",
+      "text": "开在春风里",
+      "translation": null
+    },
+    {
+      "time": 27.0,
+      "time_str": "00:27.000",
+      "text": "在哪里在哪里见过你",
+      "translation": null
+    },
+    {
+      "time": 35.0,
+      "time_str": "00:35.000",
+      "text": "你的笑容这样熟悉",
+      "translation": null
+    },
+    {
+      "time": 40.0,
+      "time_str": "00:40.000",
+      "text": "我一时想不起",
+      "translation": null
+    },
+    {
+      "time": 46.0,
+      "time_str": "00:46.000",
+      "text": "啊~~在梦里",
+      "translation": null
+    },
+    {
+      "time": 54.0,
+      "time_str": "00:54.000",
+      "text": "梦里梦里见过你",
+      "translation": null
+    },
+    {
+      "time": 61.0,
+      "time_str": "01:01.000",
+      "text": "甜蜜笑得多甜蜜",
+      "translation": null
+    },
+    {
+      "time": 68.0,
+      "time_str": "01:08.000",
+      "text": "是你~是你~梦见的就是你",
+      "translation": null
+    },
+    {
+      "time": 76.0,
+      "time_str": "01:16.000",
+      "text": "在哪里在哪里见过你",
+      "translation": null
+    },
+    {
+      "time": 84.0,
+      "time_str": "01:24.000",
+      "text": "你的笑容这样熟悉",
+      "translation": null
+    },
+    {
+      "time": 89.0,
+      "time_str": "01:29.000",
+      "text": "我一时想不起",
+      "translation": null
+    },
+    {
+      "time": 95.0,
+      "time_str": "01:35.000",
+      "text": "啊~~在梦里",
+      "translation": null
+    },
+    {
+      "time": 101.0,
+      "time_str": "01:41.000",
+      "text": "(音乐演奏)",
+      "translation": null
+    },
+    {
+      "time": 121.0,
+      "time_str": "02:01.000",
+      "text": "在哪里在哪里见过你",
+      "translation": null
+    },
+    {
+      "time": 128.0,
+      "time_str": "02:08.000",
+      "text": "你的笑容这样熟悉",
+      "translation": null
+    },
+    {
+      "time": 134.0,
+      "time_str": "02:14.000",
+      "text": "我一时想不起",
+      "translation": null
+    },
+    {
+      "time": 140.0,
+      "time_str": "02:20.000",
+      "text": "啊~~在梦里",
+      "translation": null
+    },
+    {
+      "time": 147.0,
+      "time_str": "02:27.000",
+      "text": "梦里梦里见过你",
+      "translation": null
+    },
+    {
+      "time": 154.0,
+      "time_str": "02:34.000",
+      "text": "甜蜜笑得多甜蜜",
+      "translation": null
+    },
+    {
+      "time": 162.0,
+      "time_str": "02:42.000",
+      "text": "是你~是你~梦见的就是你",
+      "translation": null
+    },
+    {
+      "time": 170.0,
+      "time_str": "02:50.000",
+      "text": "在哪里在哪里见过你",
+      "translation": null
+    },
+    {
+      "time": 177.0,
+      "time_str": "02:57.000",
+      "text": "你的笑容这样熟悉",
+      "translation": null
+    },
+    {
+      "time": 182.0,
+      "time_str": "03:02.000",
+      "text": "我一时想不起",
+      "translation": null
+    },
+    {
+      "time": 188.0,
+      "time_str": "03:08.000",
+      "text": "啊~~在梦里",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "甜蜜蜜 - 邓丽君.lrc"
+}

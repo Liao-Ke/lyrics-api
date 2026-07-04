@@ -1,0 +1,250 @@
+{
+  "title": "孤单北半球",
+  "title_raw": "孤单北半球",
+  "version": null,
+  "artist": "欧得洋",
+  "group_key": "孤单北半球|欧得洋",
+  "writers": {
+    "lyricist": "陈静楠",
+    "composer": "方文良",
+    "arranger": "方文良/梁介洋"
+  },
+  "lyrics": [
+    {
+      "time": 16.72,
+      "time_str": "00:16.720",
+      "text": "用我的晚安陪你吃早餐",
+      "translation": null
+    },
+    {
+      "time": 21.74,
+      "time_str": "00:21.740",
+      "text": "记得把想念存进扑满",
+      "translation": null
+    },
+    {
+      "time": 26.1,
+      "time_str": "00:26.100",
+      "text": "我望着满天星在闪",
+      "translation": null
+    },
+    {
+      "time": 30.74,
+      "time_str": "00:30.740",
+      "text": "听牛郎对织女说要勇敢",
+      "translation": null
+    },
+    {
+      "time": 36.29,
+      "time_str": "00:36.290",
+      "text": "别怕我们在地球的两端",
+      "translation": null
+    },
+    {
+      "time": 41.42,
+      "time_str": "00:41.420",
+      "text": "看我的问候骑着魔毯",
+      "translation": null
+    },
+    {
+      "time": 45.69,
+      "time_str": "00:45.690",
+      "text": "飞 用光速飞到你面前",
+      "translation": null
+    },
+    {
+      "time": 50.25,
+      "time_str": "00:50.250",
+      "text": "要你能看到十字星有北极星作伴",
+      "translation": null
+    },
+    {
+      "time": 54.89,
+      "time_str": "00:54.890",
+      "text": "少了我的手臂当枕头你习不习惯",
+      "translation": null
+    },
+    {
+      "time": 59.72,
+      "time_str": "00:59.720",
+      "text": "你的望远镜望不到我北半球的孤单",
+      "translation": null
+    },
+    {
+      "time": 64.7,
+      "time_str": "01:04.700",
+      "text": "太平洋的潮水跟着地球来回旋转",
+      "translation": null
+    },
+    {
+      "time": 69.58,
+      "time_str": "01:09.580",
+      "text": "我会耐心地等 随时欢迎你靠岸",
+      "translation": null
+    },
+    {
+      "time": 74.47,
+      "time_str": "01:14.470",
+      "text": "少了我的怀抱当暖炉你习不习惯",
+      "translation": null
+    },
+    {
+      "time": 79.35,
+      "time_str": "01:19.350",
+      "text": "E给你照片看不到我北半球的孤单",
+      "translation": null
+    },
+    {
+      "time": 84.28,
+      "time_str": "01:24.280",
+      "text": "世界再大两颗真心就能互相取暖",
+      "translation": null
+    },
+    {
+      "time": 89.11,
+      "time_str": "01:29.110",
+      "text": "想念不会偷懒",
+      "translation": null
+    },
+    {
+      "time": 91.94,
+      "time_str": "01:31.940",
+      "text": "我的梦通通给你保管",
+      "translation": null
+    },
+    {
+      "time": 104.8,
+      "time_str": "01:44.800",
+      "text": "别怕我们在地球的两端",
+      "translation": null
+    },
+    {
+      "time": 109.93,
+      "time_str": "01:49.930",
+      "text": "看我的问候骑着魔毯",
+      "translation": null
+    },
+    {
+      "time": 114.2,
+      "time_str": "01:54.200",
+      "text": "飞 用光速飞到你面前",
+      "translation": null
+    },
+    {
+      "time": 118.84,
+      "time_str": "01:58.840",
+      "text": "要你能看到十字星有北极星作伴",
+      "translation": null
+    },
+    {
+      "time": 123.45,
+      "time_str": "02:03.450",
+      "text": "少了我的手背当枕头你习不习惯",
+      "translation": null
+    },
+    {
+      "time": 128.38,
+      "time_str": "02:08.380",
+      "text": "你的望远镜望不到我北半球的孤单",
+      "translation": null
+    },
+    {
+      "time": 133.29,
+      "time_str": "02:13.290",
+      "text": "太平洋的潮水跟着地球来回旋转",
+      "translation": null
+    },
+    {
+      "time": 138.11,
+      "time_str": "02:18.110",
+      "text": "我会耐心地等 随时欢迎你靠岸",
+      "translation": null
+    },
+    {
+      "time": 143.06,
+      "time_str": "02:23.060",
+      "text": "少了我的怀抱当暖炉你习不习惯",
+      "translation": null
+    },
+    {
+      "time": 147.91,
+      "time_str": "02:27.910",
+      "text": "E给你照片看不到我北半球的孤单",
+      "translation": null
+    },
+    {
+      "time": 152.84,
+      "time_str": "02:32.840",
+      "text": "世界再大两颗真心就能互相取暖",
+      "translation": null
+    },
+    {
+      "time": 157.69,
+      "time_str": "02:37.690",
+      "text": "想念不会偷懒",
+      "translation": null
+    },
+    {
+      "time": 160.52,
+      "time_str": "02:40.520",
+      "text": "我的梦通通给你保管",
+      "translation": null
+    },
+    {
+      "time": 177.42,
+      "time_str": "02:57.420",
+      "text": "少了我的手臂当枕头你习不习惯",
+      "translation": null
+    },
+    {
+      "time": 182.25,
+      "time_str": "03:02.250",
+      "text": "你的望远镜望不到我北半球的孤单",
+      "translation": null
+    },
+    {
+      "time": 187.12,
+      "time_str": "03:07.120",
+      "text": "太平洋的潮水跟着地球来回旋转",
+      "translation": null
+    },
+    {
+      "time": 192.0,
+      "time_str": "03:12.000",
+      "text": "我会耐心地等 随时欢迎你靠岸",
+      "translation": null
+    },
+    {
+      "time": 196.91,
+      "time_str": "03:16.910",
+      "text": "少了我的怀抱当暖炉你习不习惯",
+      "translation": null
+    },
+    {
+      "time": 201.81,
+      "time_str": "03:21.810",
+      "text": "E给你照片看不到我北半球的孤单",
+      "translation": null
+    },
+    {
+      "time": 206.74,
+      "time_str": "03:26.740",
+      "text": "世界再大两颗真心就能互相取暖",
+      "translation": null
+    },
+    {
+      "time": 211.62,
+      "time_str": "03:31.620",
+      "text": "想念不会偷懒",
+      "translation": null
+    },
+    {
+      "time": 214.38,
+      "time_str": "03:34.380",
+      "text": "我的梦通通给你保管",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "孤单北半球 - 欧得洋.lrc"
+}

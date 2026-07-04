@@ -1,0 +1,322 @@
+{
+  "title": "Andy",
+  "title_raw": "Andy",
+  "version": null,
+  "artist": "阿杜",
+  "group_key": "andy|阿杜",
+  "writers": {
+    "lyricist": "林秋离/林利南",
+    "composer": "吴剑泓",
+    "arranger": "吴剑泓/吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 18.0,
+      "time_str": "00:18.000",
+      "text": "你有多久没有看过那片海",
+      "translation": null
+    },
+    {
+      "time": 24.87,
+      "time_str": "00:24.870",
+      "text": "你到现在对自己究竟多明白",
+      "translation": null
+    },
+    {
+      "time": 31.49,
+      "time_str": "00:31.490",
+      "text": "总是不服输",
+      "translation": null
+    },
+    {
+      "time": 35.42,
+      "time_str": "00:35.420",
+      "text": "永远要比别人快",
+      "translation": null
+    },
+    {
+      "time": 38.88,
+      "time_str": "00:38.880",
+      "text": "在你前方是否有你要的未来",
+      "translation": null
+    },
+    {
+      "time": 45.89,
+      "time_str": "00:45.890",
+      "text": "想到我们的过去",
+      "translation": null
+    },
+    {
+      "time": 48.32,
+      "time_str": "00:48.320",
+      "text": "都让人感慨",
+      "translation": null
+    },
+    {
+      "time": 52.99,
+      "time_str": "00:52.990",
+      "text": "希望所有好朋友都能站起来",
+      "translation": null
+    },
+    {
+      "time": 59.81,
+      "time_str": "00:59.810",
+      "text": "还有你曾经",
+      "translation": null
+    },
+    {
+      "time": 63.44,
+      "time_str": "01:03.440",
+      "text": "疯狂爱上的女孩",
+      "translation": null
+    },
+    {
+      "time": 67.12,
+      "time_str": "01:07.120",
+      "text": "再过几年是不是依旧难以忘怀",
+      "translation": null
+    },
+    {
+      "time": 74.38,
+      "time_str": "01:14.380",
+      "text": "可是Andy",
+      "translation": null
+    },
+    {
+      "time": 77.89,
+      "time_str": "01:17.890",
+      "text": "活着是不需道理",
+      "translation": null
+    },
+    {
+      "time": 81.31,
+      "time_str": "01:21.310",
+      "text": "谁都可能",
+      "translation": null
+    },
+    {
+      "time": 85.1,
+      "time_str": "01:25.100",
+      "text": "暂时的失去勇气",
+      "translation": null
+    },
+    {
+      "time": 88.68,
+      "time_str": "01:28.680",
+      "text": "外面不安的世界",
+      "translation": null
+    },
+    {
+      "time": 92.08,
+      "time_str": "01:32.080",
+      "text": "骚动的心情",
+      "translation": null
+    },
+    {
+      "time": 95.43,
+      "time_str": "01:35.430",
+      "text": "不能熄灭曾经你拥有炽热的心",
+      "translation": null
+    },
+    {
+      "time": 102.71,
+      "time_str": "01:42.710",
+      "text": "我是真的不会表达我的爱",
+      "translation": null
+    },
+    {
+      "time": 109.46,
+      "time_str": "01:49.460",
+      "text": "却很在乎每个人对我的期待",
+      "translation": null
+    },
+    {
+      "time": 116.49,
+      "time_str": "01:56.490",
+      "text": "平凡的角色",
+      "translation": null
+    },
+    {
+      "time": 120.02,
+      "time_str": "02:00.020",
+      "text": "站在小小的舞台",
+      "translation": null
+    },
+    {
+      "time": 123.38,
+      "time_str": "02:03.380",
+      "text": "我有那么勇敢地说出来",
+      "translation": null
+    },
+    {
+      "time": 159.03,
+      "time_str": "02:39.030",
+      "text": "想到我们的过去",
+      "translation": null
+    },
+    {
+      "time": 161.09,
+      "time_str": "02:41.090",
+      "text": "都让人感慨",
+      "translation": null
+    },
+    {
+      "time": 166.01,
+      "time_str": "02:46.010",
+      "text": "希望所有好朋友都能站起来",
+      "translation": null
+    },
+    {
+      "time": 173.56,
+      "time_str": "02:53.560",
+      "text": "还有你曾经",
+      "translation": null
+    },
+    {
+      "time": 176.39,
+      "time_str": "02:56.390",
+      "text": "疯狂爱上的女孩",
+      "translation": null
+    },
+    {
+      "time": 179.86,
+      "time_str": "02:59.860",
+      "text": "再过几年是不是依旧难以忘怀",
+      "translation": null
+    },
+    {
+      "time": 187.27,
+      "time_str": "03:07.270",
+      "text": "可是Andy",
+      "translation": null
+    },
+    {
+      "time": 190.81,
+      "time_str": "03:10.810",
+      "text": "活着是不需道理",
+      "translation": null
+    },
+    {
+      "time": 194.55,
+      "time_str": "03:14.550",
+      "text": "谁都可能",
+      "translation": null
+    },
+    {
+      "time": 198.34,
+      "time_str": "03:18.340",
+      "text": "暂时的失去勇气",
+      "translation": null
+    },
+    {
+      "time": 201.49,
+      "time_str": "03:21.490",
+      "text": "外面不安的世界",
+      "translation": null
+    },
+    {
+      "time": 205.45,
+      "time_str": "03:25.450",
+      "text": "骚动的心情",
+      "translation": null
+    },
+    {
+      "time": 208.34,
+      "time_str": "03:28.340",
+      "text": "不能熄灭曾经你拥有炽热的心",
+      "translation": null
+    },
+    {
+      "time": 215.49,
+      "time_str": "03:35.490",
+      "text": "我是真的不会表达我的爱",
+      "translation": null
+    },
+    {
+      "time": 222.28,
+      "time_str": "03:42.280",
+      "text": "却很在乎每个人对我的期待",
+      "translation": null
+    },
+    {
+      "time": 229.55,
+      "time_str": "03:49.550",
+      "text": "平凡的角色",
+      "translation": null
+    },
+    {
+      "time": 232.95,
+      "time_str": "03:52.950",
+      "text": "站在小小的舞台",
+      "translation": null
+    },
+    {
+      "time": 236.28,
+      "time_str": "03:56.280",
+      "text": "我有那么勇敢地说出来",
+      "translation": null
+    },
+    {
+      "time": 258.02,
+      "time_str": "04:18.020",
+      "text": "外面不安的世界",
+      "translation": null
+    },
+    {
+      "time": 261.8,
+      "time_str": "04:21.800",
+      "text": "骚动的心情",
+      "translation": null
+    },
+    {
+      "time": 264.79,
+      "time_str": "04:24.790",
+      "text": "不能熄灭曾经你拥有炽热的心",
+      "translation": null
+    },
+    {
+      "time": 272.27,
+      "time_str": "04:32.270",
+      "text": "可是Andy",
+      "translation": null
+    },
+    {
+      "time": 275.9,
+      "time_str": "04:35.900",
+      "text": "Oh Oh Oh",
+      "translation": null
+    },
+    {
+      "time": 279.23,
+      "time_str": "04:39.230",
+      "text": "Andy",
+      "translation": null
+    },
+    {
+      "time": 282.96,
+      "time_str": "04:42.960",
+      "text": "Oh Oh Oh",
+      "translation": null
+    },
+    {
+      "time": 286.38,
+      "time_str": "04:46.380",
+      "text": "外面不安的世界",
+      "translation": null
+    },
+    {
+      "time": 289.52,
+      "time_str": "04:49.520",
+      "text": "骚动的心情",
+      "translation": null
+    },
+    {
+      "time": 292.89,
+      "time_str": "04:52.890",
+      "text": "不能熄灭曾经你拥有炽热的心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "Andy - 阿杜.lrc"
+}

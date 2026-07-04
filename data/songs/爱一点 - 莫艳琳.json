@@ -1,0 +1,238 @@
+{
+  "title": "爱一点",
+  "title_raw": "爱一点",
+  "version": null,
+  "artist": "莫艳琳",
+  "group_key": "爱一点|莫艳琳",
+  "writers": {
+    "lyricist": "李斌",
+    "composer": "莫艳琳",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 26.982,
+      "time_str": "00:26.982",
+      "text": "风吹动窗 吹动叶声响",
+      "translation": null
+    },
+    {
+      "time": 32.267,
+      "time_str": "00:32.267",
+      "text": "梦在游荡 去更远地方",
+      "translation": null
+    },
+    {
+      "time": 37.54,
+      "time_str": "00:37.540",
+      "text": "天上的月 露出半只角",
+      "translation": null
+    },
+    {
+      "time": 42.552,
+      "time_str": "00:42.552",
+      "text": "看地上有个人 还睡不着",
+      "translation": null
+    },
+    {
+      "time": 48.079,
+      "time_str": "00:48.079",
+      "text": "云遮住光 遮住夜更长",
+      "translation": null
+    },
+    {
+      "time": 53.342,
+      "time_str": "00:53.342",
+      "text": "风轻轻穿过你的头发",
+      "translation": null
+    },
+    {
+      "time": 58.627,
+      "time_str": "00:58.627",
+      "text": "夜闭上双眼不说话",
+      "translation": null
+    },
+    {
+      "time": 63.71,
+      "time_str": "01:03.710",
+      "text": "我知道你在听 我怎么讲",
+      "translation": null
+    },
+    {
+      "time": 68.226,
+      "time_str": "01:08.226",
+      "text": "我想说我会爱你多一点点",
+      "translation": null
+    },
+    {
+      "time": 73.826,
+      "time_str": "01:13.826",
+      "text": "一直就在你的耳边",
+      "translation": null
+    },
+    {
+      "time": 79.05,
+      "time_str": "01:19.050",
+      "text": "相信你也爱我有一点点",
+      "translation": null
+    },
+    {
+      "time": 84.335,
+      "time_str": "01:24.335",
+      "text": "只是你一直没发现",
+      "translation": null
+    },
+    {
+      "time": 89.264,
+      "time_str": "01:29.264",
+      "text": "我想说我会爱你多一点点",
+      "translation": null
+    },
+    {
+      "time": 94.945,
+      "time_str": "01:34.945",
+      "text": "一直就在你的耳边",
+      "translation": null
+    },
+    {
+      "time": 100.145,
+      "time_str": "01:40.145",
+      "text": "相信我会爱你永远不变",
+      "translation": null
+    },
+    {
+      "time": 105.418,
+      "time_str": "01:45.418",
+      "text": "知道你一定会发现",
+      "translation": null
+    },
+    {
+      "time": 132.57,
+      "time_str": "02:12.570",
+      "text": "风吹动窗 吹动叶声响",
+      "translation": null
+    },
+    {
+      "time": 137.731,
+      "time_str": "02:17.731",
+      "text": "梦在游荡 去更远地方",
+      "translation": null
+    },
+    {
+      "time": 142.984,
+      "time_str": "02:22.984",
+      "text": "天上的月 露出半只角",
+      "translation": null
+    },
+    {
+      "time": 148.037,
+      "time_str": "02:28.037",
+      "text": "看地上有个人 还睡不着",
+      "translation": null
+    },
+    {
+      "time": 153.546,
+      "time_str": "02:33.546",
+      "text": "云遮住光 遮住夜更长",
+      "translation": null
+    },
+    {
+      "time": 158.795,
+      "time_str": "02:38.795",
+      "text": "风轻轻穿过你的头发",
+      "translation": null
+    },
+    {
+      "time": 164.127,
+      "time_str": "02:44.127",
+      "text": "夜闭上双眼不说话",
+      "translation": null
+    },
+    {
+      "time": 169.182,
+      "time_str": "02:49.182",
+      "text": "我知道你在听我怎么讲",
+      "translation": null
+    },
+    {
+      "time": 173.699,
+      "time_str": "02:53.699",
+      "text": "我想说我会爱你多一点点",
+      "translation": null
+    },
+    {
+      "time": 179.262,
+      "time_str": "02:59.262",
+      "text": "一直就在你的耳边",
+      "translation": null
+    },
+    {
+      "time": 184.443,
+      "time_str": "03:04.443",
+      "text": "相信你也爱我有一点点",
+      "translation": null
+    },
+    {
+      "time": 189.773,
+      "time_str": "03:09.773",
+      "text": "只是你一直没发现",
+      "translation": null
+    },
+    {
+      "time": 194.837,
+      "time_str": "03:14.837",
+      "text": "我想说我会爱你多一点点",
+      "translation": null
+    },
+    {
+      "time": 200.362,
+      "time_str": "03:20.362",
+      "text": "一直就在你的耳边",
+      "translation": null
+    },
+    {
+      "time": 205.642,
+      "time_str": "03:25.642",
+      "text": "相信我会爱你永远不变",
+      "translation": null
+    },
+    {
+      "time": 210.927,
+      "time_str": "03:30.927",
+      "text": "知道你一定会发现",
+      "translation": null
+    },
+    {
+      "time": 216.028,
+      "time_str": "03:36.028",
+      "text": "我想说我会爱你多一点点",
+      "translation": null
+    },
+    {
+      "time": 221.616,
+      "time_str": "03:41.616",
+      "text": "一直就在你的耳边",
+      "translation": null
+    },
+    {
+      "time": 226.923,
+      "time_str": "03:46.923",
+      "text": "相信我会爱你永远不变",
+      "translation": null
+    },
+    {
+      "time": 232.262,
+      "time_str": "03:52.262",
+      "text": "知道你一定会发现",
+      "translation": null
+    },
+    {
+      "time": 237.523,
+      "time_str": "03:57.523",
+      "text": "知道你一定会发现",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱一点 - 莫艳琳.lrc"
+}

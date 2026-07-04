@@ -1,0 +1,238 @@
+{
+  "title": "哭砂",
+  "title_raw": "哭砂",
+  "version": null,
+  "artist": "黄莺莺",
+  "group_key": "哭砂|黄莺莺",
+  "writers": {
+    "lyricist": "林秋离",
+    "composer": "熊美玲",
+    "arranger": "陈志远"
+  },
+  "lyrics": [
+    {
+      "time": 0.149,
+      "time_str": "00:00.149",
+      "text": "你是我最苦涩的等待",
+      "translation": null
+    },
+    {
+      "time": 6.65,
+      "time_str": "00:06.650",
+      "text": "让我欢喜又害怕未来",
+      "translation": null
+    },
+    {
+      "time": 12.939,
+      "time_str": "00:12.939",
+      "text": "你最爱说你是一颗尘埃",
+      "translation": null
+    },
+    {
+      "time": 18.99,
+      "time_str": "00:18.990",
+      "text": "偶尔会恶作剧的飘进我眼里",
+      "translation": null
+    },
+    {
+      "time": 24.99,
+      "time_str": "00:24.990",
+      "text": "宁愿我哭泣 不让我爱你",
+      "translation": null
+    },
+    {
+      "time": 31.398,
+      "time_str": "00:31.398",
+      "text": "你就真的象尘埃消失在风里",
+      "translation": null
+    },
+    {
+      "time": 41.99,
+      "time_str": "00:41.990",
+      "text": "你是我最痛苦的抉择",
+      "translation": null
+    },
+    {
+      "time": 48.4,
+      "time_str": "00:48.400",
+      "text": "为何你从不放弃漂泊",
+      "translation": null
+    },
+    {
+      "time": 54.83,
+      "time_str": "00:54.830",
+      "text": "海对你是那么难分难舍",
+      "translation": null
+    },
+    {
+      "time": 60.2,
+      "time_str": "01:00.200",
+      "text": "你总是带回满口袋的砂给我",
+      "translation": null
+    },
+    {
+      "time": 66.6,
+      "time_str": "01:06.600",
+      "text": "难得来看我 却又离开我",
+      "translation": null
+    },
+    {
+      "time": 73.3,
+      "time_str": "01:13.300",
+      "text": "让那手中泄落的砂像泪水流",
+      "translation": null
+    },
+    {
+      "time": 79.86,
+      "time_str": "01:19.860",
+      "text": "风吹来的砂落在悲伤的眼里",
+      "translation": null
+    },
+    {
+      "time": 86.239,
+      "time_str": "01:26.239",
+      "text": "谁都看出我在等你",
+      "translation": null
+    },
+    {
+      "time": 92.65,
+      "time_str": "01:32.650",
+      "text": "风吹来的砂堆积在心里",
+      "translation": null
+    },
+    {
+      "time": 98.608,
+      "time_str": "01:38.608",
+      "text": "是谁也擦不去的痕迹",
+      "translation": null
+    },
+    {
+      "time": 106.0,
+      "time_str": "01:46.000",
+      "text": "风吹来的砂穿过所有的记忆",
+      "translation": null
+    },
+    {
+      "time": 111.679,
+      "time_str": "01:51.679",
+      "text": "谁都知道我在想你",
+      "translation": null
+    },
+    {
+      "time": 118.209,
+      "time_str": "01:58.209",
+      "text": "风吹来的砂冥冥在哭泣",
+      "translation": null
+    },
+    {
+      "time": 124.27,
+      "time_str": "02:04.270",
+      "text": "难道早就预言了分离",
+      "translation": null
+    },
+    {
+      "time": 131.559,
+      "time_str": "02:11.559",
+      "text": "music",
+      "translation": null
+    },
+    {
+      "time": 157.88,
+      "time_str": "02:37.880",
+      "text": "你是我最痛苦的抉择",
+      "translation": null
+    },
+    {
+      "time": 163.57,
+      "time_str": "02:43.570",
+      "text": "为何你从不放弃漂泊",
+      "translation": null
+    },
+    {
+      "time": 169.699,
+      "time_str": "02:49.699",
+      "text": "海对你是那么难分难舍",
+      "translation": null
+    },
+    {
+      "time": 175.62,
+      "time_str": "02:55.620",
+      "text": "你总是带回满口袋的砂给我",
+      "translation": null
+    },
+    {
+      "time": 181.909,
+      "time_str": "03:01.909",
+      "text": "难得来看我 却又离开我",
+      "translation": null
+    },
+    {
+      "time": 188.279,
+      "time_str": "03:08.279",
+      "text": "让那手中泄落的砂象泪水流",
+      "translation": null
+    },
+    {
+      "time": 195.589,
+      "time_str": "03:15.589",
+      "text": "风吹来的砂落在悲伤的眼里",
+      "translation": null
+    },
+    {
+      "time": 201.989,
+      "time_str": "03:21.989",
+      "text": "谁都看出我在等你",
+      "translation": null
+    },
+    {
+      "time": 207.899,
+      "time_str": "03:27.899",
+      "text": "风吹来的砂堆积在心里",
+      "translation": null
+    },
+    {
+      "time": 214.99,
+      "time_str": "03:34.990",
+      "text": "是谁也擦不去的痕迹",
+      "translation": null
+    },
+    {
+      "time": 220.809,
+      "time_str": "03:40.809",
+      "text": "风吹来的砂穿过所有的记忆",
+      "translation": null
+    },
+    {
+      "time": 227.398,
+      "time_str": "03:47.398",
+      "text": "谁都知道我在想你",
+      "translation": null
+    },
+    {
+      "time": 233.989,
+      "time_str": "03:53.989",
+      "text": "风吹来的砂冥冥在哭泣",
+      "translation": null
+    },
+    {
+      "time": 239.638,
+      "time_str": "03:59.638",
+      "text": "难道早就预言了分离",
+      "translation": null
+    },
+    {
+      "time": 246.789,
+      "time_str": "04:06.789",
+      "text": "风吹来的砂冥冥在哭泣",
+      "translation": null
+    },
+    {
+      "time": 252.789,
+      "time_str": "04:12.789",
+      "text": "难道早就预言了分离",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "哭砂 - 黄莺莺.lrc"
+}

@@ -1,0 +1,628 @@
+{
+  "title": "难念的经",
+  "title_raw": "难念的经",
+  "version": null,
+  "artist": "周华健",
+  "group_key": "难念的经|周华健",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "周华健",
+    "arranger": "李庭匡"
+  },
+  "lyrics": [
+    {
+      "time": 30.819,
+      "time_str": "00:30.819",
+      "text": "吞风吻雨 葬落日",
+      "translation": null
+    },
+    {
+      "time": 32.336,
+      "time_str": "00:32.336",
+      "text": "未曾彷徨",
+      "translation": null
+    },
+    {
+      "time": 33.407,
+      "time_str": "00:33.407",
+      "text": "欺山赶海 践雪径",
+      "translation": null
+    },
+    {
+      "time": 34.911,
+      "time_str": "00:34.911",
+      "text": "也未绝望",
+      "translation": null
+    },
+    {
+      "time": 35.997,
+      "time_str": "00:35.997",
+      "text": "拈花把酒 偏折煞",
+      "translation": null
+    },
+    {
+      "time": 37.46,
+      "time_str": "00:37.460",
+      "text": "世人情狂",
+      "translation": null
+    },
+    {
+      "time": 38.551,
+      "time_str": "00:38.551",
+      "text": "凭这两眼 与百臂",
+      "translation": null
+    },
+    {
+      "time": 39.999,
+      "time_str": "00:39.999",
+      "text": "或千手 不能防",
+      "translation": null
+    },
+    {
+      "time": 41.249,
+      "time_str": "00:41.249",
+      "text": "天阔阔 雪漫漫",
+      "translation": null
+    },
+    {
+      "time": 42.527,
+      "time_str": "00:42.527",
+      "text": "共谁同航",
+      "translation": null
+    },
+    {
+      "time": 43.616,
+      "time_str": "00:43.616",
+      "text": "这沙滚滚 水皱皱",
+      "translation": null
+    },
+    {
+      "time": 45.079,
+      "time_str": "00:45.079",
+      "text": "笑着浪荡",
+      "translation": null
+    },
+    {
+      "time": 46.164,
+      "time_str": "00:46.164",
+      "text": "贪欢一饷",
+      "translation": null
+    },
+    {
+      "time": 46.982,
+      "time_str": "00:46.982",
+      "text": "偏教那女儿情长埋葬",
+      "translation": null
+    },
+    {
+      "time": 61.761,
+      "time_str": "01:01.761",
+      "text": "笑你我枉花光心计",
+      "translation": null
+    },
+    {
+      "time": 64.31,
+      "time_str": "01:04.310",
+      "text": "爱竞逐镜花那美丽",
+      "translation": null
+    },
+    {
+      "time": 66.849,
+      "time_str": "01:06.849",
+      "text": "怕幸运会转眼远逝",
+      "translation": null
+    },
+    {
+      "time": 69.418,
+      "time_str": "01:09.418",
+      "text": "为贪嗔喜恶怒着迷",
+      "translation": null
+    },
+    {
+      "time": 71.954,
+      "time_str": "01:11.954",
+      "text": "责你我太贪功恋势",
+      "translation": null
+    },
+    {
+      "time": 74.481,
+      "time_str": "01:14.481",
+      "text": "怪大地众生太美丽",
+      "translation": null
+    },
+    {
+      "time": 77.031,
+      "time_str": "01:17.031",
+      "text": "悔旧日太执信约誓",
+      "translation": null
+    },
+    {
+      "time": 79.655,
+      "time_str": "01:19.655",
+      "text": "为悲欢哀怨妒着迷",
+      "translation": null
+    },
+    {
+      "time": 82.182,
+      "time_str": "01:22.182",
+      "text": "啊 哈",
+      "translation": null
+    },
+    {
+      "time": 84.731,
+      "time_str": "01:24.731",
+      "text": "舍不得 璀璨俗世",
+      "translation": null
+    },
+    {
+      "time": 87.285,
+      "time_str": "01:27.285",
+      "text": "啊 哈",
+      "translation": null
+    },
+    {
+      "time": 89.813,
+      "time_str": "01:29.813",
+      "text": "躲不开 痴恋的欣慰",
+      "translation": null
+    },
+    {
+      "time": 92.392,
+      "time_str": "01:32.392",
+      "text": "啊 哈",
+      "translation": null
+    },
+    {
+      "time": 94.942,
+      "time_str": "01:34.942",
+      "text": "找不到 色相代替",
+      "translation": null
+    },
+    {
+      "time": 97.535,
+      "time_str": "01:37.535",
+      "text": "啊 哈",
+      "translation": null
+    },
+    {
+      "time": 100.075,
+      "time_str": "01:40.075",
+      "text": "参一生 参不透 这条难题",
+      "translation": null
+    },
+    {
+      "time": 102.3,
+      "time_str": "01:42.300",
+      "text": "吞风吻雨 葬落日",
+      "translation": null
+    },
+    {
+      "time": 103.877,
+      "time_str": "01:43.877",
+      "text": "未曾彷徨",
+      "translation": null
+    },
+    {
+      "time": 104.913,
+      "time_str": "01:44.913",
+      "text": "欺山赶海 践雪径",
+      "translation": null
+    },
+    {
+      "time": 106.403,
+      "time_str": "01:46.403",
+      "text": "也未绝望",
+      "translation": null
+    },
+    {
+      "time": 107.42,
+      "time_str": "01:47.420",
+      "text": "拈花把酒 偏折煞",
+      "translation": null
+    },
+    {
+      "time": 108.914,
+      "time_str": "01:48.914",
+      "text": "世人情狂",
+      "translation": null
+    },
+    {
+      "time": 109.985,
+      "time_str": "01:49.985",
+      "text": "凭这两眼 与百臂",
+      "translation": null
+    },
+    {
+      "time": 111.482,
+      "time_str": "01:51.482",
+      "text": "或千手 不能防",
+      "translation": null
+    },
+    {
+      "time": 112.766,
+      "time_str": "01:52.766",
+      "text": "天阔阔 雪漫漫",
+      "translation": null
+    },
+    {
+      "time": 114.059,
+      "time_str": "01:54.059",
+      "text": "共谁同航",
+      "translation": null
+    },
+    {
+      "time": 115.151,
+      "time_str": "01:55.151",
+      "text": "这沙滚滚 水皱皱",
+      "translation": null
+    },
+    {
+      "time": 116.597,
+      "time_str": "01:56.597",
+      "text": "笑着浪荡",
+      "translation": null
+    },
+    {
+      "time": 117.7,
+      "time_str": "01:57.700",
+      "text": "贪欢一饷",
+      "translation": null
+    },
+    {
+      "time": 118.516,
+      "time_str": "01:58.516",
+      "text": "偏教那女儿 情长埋葬 呜",
+      "translation": null
+    },
+    {
+      "time": 122.806,
+      "time_str": "02:02.806",
+      "text": "吞风吻雨 葬落日",
+      "translation": null
+    },
+    {
+      "time": 124.27,
+      "time_str": "02:04.270",
+      "text": "未曾彷徨",
+      "translation": null
+    },
+    {
+      "time": 125.361,
+      "time_str": "02:05.361",
+      "text": "欺山赶海 践雪径",
+      "translation": null
+    },
+    {
+      "time": 126.848,
+      "time_str": "02:06.848",
+      "text": "也未绝望",
+      "translation": null
+    },
+    {
+      "time": 127.913,
+      "time_str": "02:07.913",
+      "text": "拈花把酒 偏折煞",
+      "translation": null
+    },
+    {
+      "time": 129.374,
+      "time_str": "02:09.374",
+      "text": "世人情狂",
+      "translation": null
+    },
+    {
+      "time": 130.422,
+      "time_str": "02:10.422",
+      "text": "凭这两眼 与百臂",
+      "translation": null
+    },
+    {
+      "time": 131.901,
+      "time_str": "02:11.901",
+      "text": "或千手 不能防",
+      "translation": null
+    },
+    {
+      "time": 133.245,
+      "time_str": "02:13.245",
+      "text": "天阔阔 雪漫漫",
+      "translation": null
+    },
+    {
+      "time": 134.495,
+      "time_str": "02:14.495",
+      "text": "共谁同航",
+      "translation": null
+    },
+    {
+      "time": 135.571,
+      "time_str": "02:15.571",
+      "text": "这沙滚滚 水皱皱",
+      "translation": null
+    },
+    {
+      "time": 137.034,
+      "time_str": "02:17.034",
+      "text": "笑着浪荡",
+      "translation": null
+    },
+    {
+      "time": 138.111,
+      "time_str": "02:18.111",
+      "text": "贪欢一饷",
+      "translation": null
+    },
+    {
+      "time": 139.021,
+      "time_str": "02:19.021",
+      "text": "偏教那女儿 情长埋葬",
+      "translation": null
+    },
+    {
+      "time": 166.449,
+      "time_str": "02:46.449",
+      "text": "笑你我枉花光心计",
+      "translation": null
+    },
+    {
+      "time": 169.019,
+      "time_str": "02:49.019",
+      "text": "爱竞逐镜花那美丽",
+      "translation": null
+    },
+    {
+      "time": 171.6,
+      "time_str": "02:51.600",
+      "text": "怕幸运会转眼远逝",
+      "translation": null
+    },
+    {
+      "time": 174.129,
+      "time_str": "02:54.129",
+      "text": "为贪嗔喜恶怒着迷",
+      "translation": null
+    },
+    {
+      "time": 176.631,
+      "time_str": "02:56.631",
+      "text": "责你我太贪功恋势",
+      "translation": null
+    },
+    {
+      "time": 179.253,
+      "time_str": "02:59.253",
+      "text": "怪大地众生太美丽",
+      "translation": null
+    },
+    {
+      "time": 181.786,
+      "time_str": "03:01.786",
+      "text": "悔旧日太执信约誓",
+      "translation": null
+    },
+    {
+      "time": 184.347,
+      "time_str": "03:04.347",
+      "text": "为悲欢哀怨妒着迷",
+      "translation": null
+    },
+    {
+      "time": 186.862,
+      "time_str": "03:06.862",
+      "text": "啊 哈",
+      "translation": null
+    },
+    {
+      "time": 189.427,
+      "time_str": "03:09.427",
+      "text": "舍不得 璀璨俗世",
+      "translation": null
+    },
+    {
+      "time": 192.03,
+      "time_str": "03:12.030",
+      "text": "啊 哈",
+      "translation": null
+    },
+    {
+      "time": 194.562,
+      "time_str": "03:14.562",
+      "text": "躲不开 痴恋的欣慰",
+      "translation": null
+    },
+    {
+      "time": 197.152,
+      "time_str": "03:17.152",
+      "text": "啊 哈",
+      "translation": null
+    },
+    {
+      "time": 199.684,
+      "time_str": "03:19.684",
+      "text": "找不到 色相代替",
+      "translation": null
+    },
+    {
+      "time": 202.273,
+      "time_str": "03:22.273",
+      "text": "啊 哈",
+      "translation": null
+    },
+    {
+      "time": 204.766,
+      "time_str": "03:24.766",
+      "text": "参一生 参不透 这条难题",
+      "translation": null
+    },
+    {
+      "time": 207.047,
+      "time_str": "03:27.047",
+      "text": "吞风吻雨 葬落日",
+      "translation": null
+    },
+    {
+      "time": 208.63,
+      "time_str": "03:28.630",
+      "text": "未曾彷徨",
+      "translation": null
+    },
+    {
+      "time": 209.662,
+      "time_str": "03:29.662",
+      "text": "欺山赶海 践雪径",
+      "translation": null
+    },
+    {
+      "time": 211.147,
+      "time_str": "03:31.147",
+      "text": "也未绝望",
+      "translation": null
+    },
+    {
+      "time": 212.225,
+      "time_str": "03:32.225",
+      "text": "拈花把酒 偏折煞",
+      "translation": null
+    },
+    {
+      "time": 213.709,
+      "time_str": "03:33.709",
+      "text": "世人情狂",
+      "translation": null
+    },
+    {
+      "time": 214.774,
+      "time_str": "03:34.774",
+      "text": "凭这两眼 与百臂",
+      "translation": null
+    },
+    {
+      "time": 216.269,
+      "time_str": "03:36.269",
+      "text": "或千手 不能防",
+      "translation": null
+    },
+    {
+      "time": 217.58,
+      "time_str": "03:37.580",
+      "text": "天阔阔 雪漫漫",
+      "translation": null
+    },
+    {
+      "time": 218.832,
+      "time_str": "03:38.832",
+      "text": "共谁同航",
+      "translation": null
+    },
+    {
+      "time": 219.884,
+      "time_str": "03:39.884",
+      "text": "这沙滚滚 水皱皱",
+      "translation": null
+    },
+    {
+      "time": 221.35,
+      "time_str": "03:41.350",
+      "text": "笑着浪荡",
+      "translation": null
+    },
+    {
+      "time": 222.453,
+      "time_str": "03:42.453",
+      "text": "贪欢一饷",
+      "translation": null
+    },
+    {
+      "time": 223.299,
+      "time_str": "03:43.299",
+      "text": "偏教那女儿 情长埋葬 呜",
+      "translation": null
+    },
+    {
+      "time": 227.538,
+      "time_str": "03:47.538",
+      "text": "吞风吻雨 葬落日",
+      "translation": null
+    },
+    {
+      "time": 229.046,
+      "time_str": "03:49.046",
+      "text": "未曾彷徨",
+      "translation": null
+    },
+    {
+      "time": 230.066,
+      "time_str": "03:50.066",
+      "text": "欺山赶海 践雪径",
+      "translation": null
+    },
+    {
+      "time": 231.592,
+      "time_str": "03:51.592",
+      "text": "也未绝望",
+      "translation": null
+    },
+    {
+      "time": 232.657,
+      "time_str": "03:52.657",
+      "text": "拈花把酒 偏折煞",
+      "translation": null
+    },
+    {
+      "time": 234.142,
+      "time_str": "03:54.142",
+      "text": "世人情狂",
+      "translation": null
+    },
+    {
+      "time": 235.205,
+      "time_str": "03:55.205",
+      "text": "凭这两眼 与百臂",
+      "translation": null
+    },
+    {
+      "time": 236.656,
+      "time_str": "03:56.656",
+      "text": "或千手 不能防",
+      "translation": null
+    },
+    {
+      "time": 237.953,
+      "time_str": "03:57.953",
+      "text": "天阔阔 雪漫漫",
+      "translation": null
+    },
+    {
+      "time": 239.233,
+      "time_str": "03:59.233",
+      "text": "共谁同航",
+      "translation": null
+    },
+    {
+      "time": 240.311,
+      "time_str": "04:00.311",
+      "text": "这沙滚滚 水皱皱",
+      "translation": null
+    },
+    {
+      "time": 241.798,
+      "time_str": "04:01.798",
+      "text": "笑着浪荡",
+      "translation": null
+    },
+    {
+      "time": 242.902,
+      "time_str": "04:02.902",
+      "text": "贪欢一饷",
+      "translation": null
+    },
+    {
+      "time": 243.751,
+      "time_str": "04:03.751",
+      "text": "偏教那女儿 情长埋葬",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "难念的经 - 周华健.lrc"
+}

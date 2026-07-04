@@ -1,0 +1,196 @@
+{
+  "title": "历历万乡",
+  "title_raw": "历历万乡",
+  "version": null,
+  "artist": "陈粒",
+  "group_key": "历历万乡|陈粒",
+  "writers": {
+    "lyricist": "陈南西",
+    "composer": "陈粒",
+    "arranger": "陈粒"
+  },
+  "lyrics": [
+    {
+      "time": 1.542,
+      "time_str": "00:01.542",
+      "text": "她住在七月的洪流上",
+      "translation": null
+    },
+    {
+      "time": 4.724,
+      "time_str": "00:04.724",
+      "text": "天台倾倒理想一万丈",
+      "translation": null
+    },
+    {
+      "time": 7.534,
+      "time_str": "00:07.534",
+      "text": "她午睡在北风仓皇途经的芦苇荡",
+      "translation": null
+    },
+    {
+      "time": 15.974,
+      "time_str": "00:15.974",
+      "text": "她梦中的草原白茫茫",
+      "translation": null
+    },
+    {
+      "time": 19.337,
+      "time_str": "00:19.337",
+      "text": "列车搭上悲欢去辗转",
+      "translation": null
+    },
+    {
+      "time": 22.353,
+      "time_str": "00:22.353",
+      "text": "她尝遍了每个异乡限时赠送的糖",
+      "translation": null
+    },
+    {
+      "time": 30.913,
+      "time_str": "00:30.913",
+      "text": "若我站在朝阳上能否脱去昨日的惆怅",
+      "translation": null
+    },
+    {
+      "time": 38.1,
+      "time_str": "00:38.100",
+      "text": "单薄语言能否传达我所有的牵挂",
+      "translation": null
+    },
+    {
+      "time": 45.95,
+      "time_str": "00:45.950",
+      "text": "若有天我不复勇往能否坚持走完这一场",
+      "translation": null
+    },
+    {
+      "time": 51.756,
+      "time_str": "00:51.756",
+      "text": "踏遍万水千山总有一地故乡",
+      "translation": null
+    },
+    {
+      "time": 60.335,
+      "time_str": "01:00.335",
+      "text": "城市慷慨亮整夜光",
+      "translation": null
+    },
+    {
+      "time": 64.374,
+      "time_str": "01:04.374",
+      "text": "如同少年不惧岁月长",
+      "translation": null
+    },
+    {
+      "time": 66.532,
+      "time_str": "01:06.532",
+      "text": "她想要的不多只是和别人的不一样",
+      "translation": null
+    },
+    {
+      "time": 75.12,
+      "time_str": "01:15.120",
+      "text": "烛光倒影为我添茶",
+      "translation": null
+    },
+    {
+      "time": 78.23,
+      "time_str": "01:18.230",
+      "text": "相逢太短不等茶水凉",
+      "translation": null
+    },
+    {
+      "time": 80.995,
+      "time_str": "01:20.995",
+      "text": "你扔下的习惯还顽强活在我身上",
+      "translation": null
+    },
+    {
+      "time": 89.946,
+      "time_str": "01:29.946",
+      "text": "如果我站在朝阳上能否脱去昨日的惆怅",
+      "translation": null
+    },
+    {
+      "time": 96.25,
+      "time_str": "01:36.250",
+      "text": "单薄语言能否传达我所有的牵挂",
+      "translation": null
+    },
+    {
+      "time": 104.532,
+      "time_str": "01:44.532",
+      "text": "若有天我不复勇往能否坚持走完这一场",
+      "translation": null
+    },
+    {
+      "time": 110.86,
+      "time_str": "01:50.860",
+      "text": "踏遍万水千山总有一地故乡",
+      "translation": null
+    },
+    {
+      "time": 149.022,
+      "time_str": "02:29.022",
+      "text": "如果我站在朝阳上能否脱去昨日的惆怅",
+      "translation": null
+    },
+    {
+      "time": 155.356,
+      "time_str": "02:35.356",
+      "text": "单薄语言能否传达我所有的牵挂",
+      "translation": null
+    },
+    {
+      "time": 164.46,
+      "time_str": "02:44.460",
+      "text": "若有天我不复勇往能否坚持走完这一场",
+      "translation": null
+    },
+    {
+      "time": 170.003,
+      "time_str": "02:50.003",
+      "text": "踏遍万水千山总有一地故乡",
+      "translation": null
+    },
+    {
+      "time": 178.96,
+      "time_str": "02:58.960",
+      "text": "她走在马蹄的余声中",
+      "translation": null
+    },
+    {
+      "time": 181.795,
+      "time_str": "03:01.795",
+      "text": "夕阳燃烧离别多少场",
+      "translation": null
+    },
+    {
+      "time": 185.11,
+      "time_str": "03:05.110",
+      "text": "她向陌生人们解说陌生人的风光",
+      "translation": null
+    },
+    {
+      "time": 193.127,
+      "time_str": "03:13.127",
+      "text": "等她归来坐下对我讲",
+      "translation": null
+    },
+    {
+      "time": 196.441,
+      "time_str": "03:16.441",
+      "text": "故人旧时容颜未沧桑",
+      "translation": null
+    },
+    {
+      "time": 199.506,
+      "time_str": "03:19.506",
+      "text": "我们仍旧想要当初想要的不一样",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "历历万乡 - 陈粒.lrc"
+}

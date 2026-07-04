@@ -1,0 +1,280 @@
+{
+  "title": "搁浅",
+  "title_raw": "搁浅",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "搁浅|周杰伦",
+  "writers": {
+    "lyricist": "宋健彰",
+    "composer": "周杰伦",
+    "arranger": "钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 1.124,
+      "time_str": "00:01.124",
+      "text": "指挥家 : 钟兴民",
+      "translation": null
+    },
+    {
+      "time": 2.248,
+      "time_str": "00:02.248",
+      "text": "贝斯 : 陈任佑",
+      "translation": null
+    },
+    {
+      "time": 2.529,
+      "time_str": "00:02.529",
+      "text": "弦乐编写 : 钟兴民",
+      "translation": null
+    },
+    {
+      "time": 16.196,
+      "time_str": "00:16.196",
+      "text": "久未放晴的天空",
+      "translation": null
+    },
+    {
+      "time": 20.112,
+      "time_str": "00:20.112",
+      "text": "依旧留着你的笑容",
+      "translation": null
+    },
+    {
+      "time": 24.481,
+      "time_str": "00:24.481",
+      "text": "哭过 却无法掩埋歉疚",
+      "translation": null
+    },
+    {
+      "time": 31.818,
+      "time_str": "00:31.818",
+      "text": "风筝在阴天搁浅",
+      "translation": null
+    },
+    {
+      "time": 35.775,
+      "time_str": "00:35.775",
+      "text": "想念还在等待救援",
+      "translation": null
+    },
+    {
+      "time": 40.116,
+      "time_str": "00:40.116",
+      "text": "我拉着线 复习你给的温柔",
+      "translation": null
+    },
+    {
+      "time": 46.44,
+      "time_str": "00:46.440",
+      "text": "曝晒在一旁的寂寞",
+      "translation": null
+    },
+    {
+      "time": 50.567,
+      "time_str": "00:50.567",
+      "text": "笑我给不起承诺",
+      "translation": null
+    },
+    {
+      "time": 53.756,
+      "time_str": "00:53.756",
+      "text": "怎么会 怎么会",
+      "translation": null
+    },
+    {
+      "time": 56.406,
+      "time_str": "00:56.406",
+      "text": "你竟原谅了我",
+      "translation": null
+    },
+    {
+      "time": 61.051,
+      "time_str": "01:01.051",
+      "text": "我只能永远读着对白",
+      "translation": null
+    },
+    {
+      "time": 65.516,
+      "time_str": "01:05.516",
+      "text": "读着我给你的伤害",
+      "translation": null
+    },
+    {
+      "time": 69.366,
+      "time_str": "01:09.366",
+      "text": "我原谅不了我",
+      "translation": null
+    },
+    {
+      "time": 72.044,
+      "time_str": "01:12.044",
+      "text": "就请你当作我已不在",
+      "translation": null
+    },
+    {
+      "time": 76.725,
+      "time_str": "01:16.725",
+      "text": "我睁开双眼 看着空白",
+      "translation": null
+    },
+    {
+      "time": 81.169,
+      "time_str": "01:21.169",
+      "text": "忘记你对我的期待",
+      "translation": null
+    },
+    {
+      "time": 85.075,
+      "time_str": "01:25.075",
+      "text": "读完了依赖 我很快就离开",
+      "translation": null
+    },
+    {
+      "time": 113.944,
+      "time_str": "01:53.944",
+      "text": "久未放晴的天空",
+      "translation": null
+    },
+    {
+      "time": 117.81,
+      "time_str": "01:57.810",
+      "text": "依旧留着你的笑容",
+      "translation": null
+    },
+    {
+      "time": 122.276,
+      "time_str": "02:02.276",
+      "text": "哭过 却无法掩埋歉疚",
+      "translation": null
+    },
+    {
+      "time": 129.548,
+      "time_str": "02:09.548",
+      "text": "风筝在阴天搁浅",
+      "translation": null
+    },
+    {
+      "time": 133.416,
+      "time_str": "02:13.416",
+      "text": "想念还在等待救援",
+      "translation": null
+    },
+    {
+      "time": 137.884,
+      "time_str": "02:17.884",
+      "text": "我拉着线 复习你给的温柔",
+      "translation": null
+    },
+    {
+      "time": 144.099,
+      "time_str": "02:24.099",
+      "text": "曝晒在一旁的寂寞",
+      "translation": null
+    },
+    {
+      "time": 148.346,
+      "time_str": "02:28.346",
+      "text": "笑我给不起承诺",
+      "translation": null
+    },
+    {
+      "time": 151.548,
+      "time_str": "02:31.548",
+      "text": "怎么会 怎么会",
+      "translation": null
+    },
+    {
+      "time": 154.156,
+      "time_str": "02:34.156",
+      "text": "你竟原谅了我",
+      "translation": null
+    },
+    {
+      "time": 158.881,
+      "time_str": "02:38.881",
+      "text": "我只能永远读着对白",
+      "translation": null
+    },
+    {
+      "time": 163.258,
+      "time_str": "02:43.258",
+      "text": "读着我给你的伤害",
+      "translation": null
+    },
+    {
+      "time": 167.21,
+      "time_str": "02:47.210",
+      "text": "我原谅不了我",
+      "translation": null
+    },
+    {
+      "time": 169.817,
+      "time_str": "02:49.817",
+      "text": "就请你当作我已不在",
+      "translation": null
+    },
+    {
+      "time": 174.468,
+      "time_str": "02:54.468",
+      "text": "我睁开双眼 看着空白",
+      "translation": null
+    },
+    {
+      "time": 178.914,
+      "time_str": "02:58.914",
+      "text": "忘记你对我的期待",
+      "translation": null
+    },
+    {
+      "time": 182.84,
+      "time_str": "03:02.840",
+      "text": "读完了依赖 我很快就",
+      "translation": null
+    },
+    {
+      "time": 188.738,
+      "time_str": "03:08.738",
+      "text": "我只能永远读着对白",
+      "translation": null
+    },
+    {
+      "time": 194.596,
+      "time_str": "03:14.596",
+      "text": "读着我给你的伤害",
+      "translation": null
+    },
+    {
+      "time": 198.433,
+      "time_str": "03:18.433",
+      "text": "我原谅不了我",
+      "translation": null
+    },
+    {
+      "time": 201.105,
+      "time_str": "03:21.105",
+      "text": "就请你当作我已不在",
+      "translation": null
+    },
+    {
+      "time": 205.726,
+      "time_str": "03:25.726",
+      "text": "我睁开双眼 看着空白",
+      "translation": null
+    },
+    {
+      "time": 210.168,
+      "time_str": "03:30.168",
+      "text": "忘记你对我的期待",
+      "translation": null
+    },
+    {
+      "time": 214.116,
+      "time_str": "03:34.116",
+      "text": "读完了依赖 我很快就离开",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "搁浅 - 周杰伦.lrc"
+}

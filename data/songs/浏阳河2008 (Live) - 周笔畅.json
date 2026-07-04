@@ -1,0 +1,226 @@
+{
+  "title": "浏阳河2008",
+  "title_raw": "浏阳河2008 (Live)",
+  "version": "Live",
+  "artist": "周笔畅",
+  "group_key": "浏阳河2008|周笔畅",
+  "writers": {
+    "lyricist": "李焯雄",
+    "composer": "朱敬然",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 65.22,
+      "time_str": "01:05.220",
+      "text": "周笔畅:那是哪一年",
+      "translation": null
+    },
+    {
+      "time": 68.77,
+      "time_str": "01:08.770",
+      "text": "蝉声的夏天",
+      "translation": null
+    },
+    {
+      "time": 72.38,
+      "time_str": "01:12.380",
+      "text": "那只小手 学会了告别",
+      "translation": null
+    },
+    {
+      "time": 75.97,
+      "time_str": "01:15.970",
+      "text": "也伸向明天",
+      "translation": null
+    },
+    {
+      "time": 79.0,
+      "time_str": "01:19.000",
+      "text": "一首歌是一条河",
+      "translation": null
+    },
+    {
+      "time": 82.03,
+      "time_str": "01:22.030",
+      "text": "流过寂寞流入梦",
+      "translation": null
+    },
+    {
+      "time": 86.16,
+      "time_str": "01:26.160",
+      "text": "让我经过你那些的经过",
+      "translation": null
+    },
+    {
+      "time": 90.29,
+      "time_str": "01:30.290",
+      "text": "也勇于 不同",
+      "translation": null
+    },
+    {
+      "time": 96.53,
+      "time_str": "01:36.530",
+      "text": "浏阳河 弯过了几道弯",
+      "translation": null
+    },
+    {
+      "time": 104.58,
+      "time_str": "01:44.580",
+      "text": "弯成了新月回家路上",
+      "translation": null
+    },
+    {
+      "time": 108.14,
+      "time_str": "01:48.140",
+      "text": "妈妈的目光",
+      "translation": null
+    },
+    {
+      "time": 110.86,
+      "time_str": "01:50.860",
+      "text": "浏阳河 弯过了几道弯",
+      "translation": null
+    },
+    {
+      "time": 118.81,
+      "time_str": "01:58.810",
+      "text": "勾起多少惆怅与多少希望",
+      "translation": null
+    },
+    {
+      "time": 124.25,
+      "time_str": "02:04.250",
+      "text": "在心上",
+      "translation": null
+    },
+    {
+      "time": 133.59,
+      "time_str": "02:13.590",
+      "text": "那是哪一年 倒退的麦田",
+      "translation": null
+    },
+    {
+      "time": 140.77,
+      "time_str": "02:20.770",
+      "text": "我的小手 学会了告别",
+      "translation": null
+    },
+    {
+      "time": 144.41,
+      "time_str": "02:24.410",
+      "text": "也伸向明天",
+      "translation": null
+    },
+    {
+      "time": 147.18,
+      "time_str": "02:27.180",
+      "text": "唱着你唱过的歌",
+      "translation": null
+    },
+    {
+      "time": 150.53,
+      "time_str": "02:30.530",
+      "text": "我想要的我懂得",
+      "translation": null
+    },
+    {
+      "time": 154.7,
+      "time_str": "02:34.700",
+      "text": "让我经过你那些的经过",
+      "translation": null
+    },
+    {
+      "time": 158.72,
+      "time_str": "02:38.720",
+      "text": "更勇于 不同",
+      "translation": null
+    },
+    {
+      "time": 164.9,
+      "time_str": "02:44.900",
+      "text": "听你唱过 浏阳河 弯过了几道弯",
+      "translation": null
+    },
+    {
+      "time": 172.98,
+      "time_str": "02:52.980",
+      "text": "弯成了新月回家路上",
+      "translation": null
+    },
+    {
+      "time": 176.54,
+      "time_str": "02:56.540",
+      "text": "妈妈的目光",
+      "translation": null
+    },
+    {
+      "time": 179.26,
+      "time_str": "02:59.260",
+      "text": "听你唱过 浏阳河",
+      "translation": null
+    },
+    {
+      "time": 183.83,
+      "time_str": "03:03.830",
+      "text": "弯过了几道弯",
+      "translation": null
+    },
+    {
+      "time": 186.86,
+      "time_str": "03:06.860",
+      "text": "勾起多少惆怅与多少希望",
+      "translation": null
+    },
+    {
+      "time": 192.68,
+      "time_str": "03:12.680",
+      "text": "在心上",
+      "translation": null
+    },
+    {
+      "time": 198.04,
+      "time_str": "03:18.040",
+      "text": "雨点找到了长河",
+      "translation": null
+    },
+    {
+      "time": 201.11,
+      "time_str": "03:21.110",
+      "text": "回忆找到主题歌",
+      "translation": null
+    },
+    {
+      "time": 204.52,
+      "time_str": "03:24.520",
+      "text": "老家的热汤 熟悉的窝",
+      "translation": null
+    },
+    {
+      "time": 208.84,
+      "time_str": "03:28.840",
+      "text": "好温暖 好温暖",
+      "translation": null
+    },
+    {
+      "time": 216.77,
+      "time_str": "03:36.770",
+      "text": "听你唱着 浏阳河 弯过了九道弯",
+      "translation": null
+    },
+    {
+      "time": 225.15,
+      "time_str": "03:45.150",
+      "text": "五十里水路 到湘江",
+      "translation": null
+    },
+    {
+      "time": 231.29,
+      "time_str": "03:51.290",
+      "text": "听你唱着 浏阳河 弯过了九道弯                             流过多少惆怅     与多少希望 变 金黄",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "浏阳河2008 (Live) - 周笔畅.lrc"
+}

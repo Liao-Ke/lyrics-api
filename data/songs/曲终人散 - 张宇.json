@@ -1,0 +1,268 @@
+{
+  "title": "曲终人散",
+  "title_raw": "曲终人散",
+  "version": null,
+  "artist": "张宇",
+  "group_key": "曲终人散|张宇",
+  "writers": {
+    "lyricist": "十一郎",
+    "composer": "张宇",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 22.379,
+      "time_str": "00:22.379",
+      "text": "你让他用戒指把你套上的时候",
+      "translation": null
+    },
+    {
+      "time": 27.999,
+      "time_str": "00:27.999",
+      "text": "我察觉到你脸上复杂的笑容",
+      "translation": null
+    },
+    {
+      "time": 32.988,
+      "time_str": "00:32.988",
+      "text": "那原本该是我 付予你的承诺",
+      "translation": null
+    },
+    {
+      "time": 37.388,
+      "time_str": "00:37.388",
+      "text": "现在我只能隐身热闹中",
+      "translation": null
+    },
+    {
+      "time": 43.997,
+      "time_str": "00:43.997",
+      "text": "我跟着所有人向你祝贺的时候",
+      "translation": null
+    },
+    {
+      "time": 49.8,
+      "time_str": "00:49.800",
+      "text": "只有你知道我多喝了几杯酒",
+      "translation": null
+    },
+    {
+      "time": 53.57,
+      "time_str": "00:53.570",
+      "text": "我不能再看你 多一眼都是痛",
+      "translation": null
+    },
+    {
+      "time": 58.567,
+      "time_str": "00:58.567",
+      "text": "即使知道暗地里你又回头",
+      "translation": null
+    },
+    {
+      "time": 65.68,
+      "time_str": "01:05.680",
+      "text": "我终于知道曲终人散的寂寞",
+      "translation": null
+    },
+    {
+      "time": 69.957,
+      "time_str": "01:09.957",
+      "text": "只有伤心人才有",
+      "translation": null
+    },
+    {
+      "time": 74.638,
+      "time_str": "01:14.638",
+      "text": "你最后一身红 残留在我眼中",
+      "translation": null
+    },
+    {
+      "time": 79.867,
+      "time_str": "01:19.867",
+      "text": "我没有再依恋的借口",
+      "translation": null
+    },
+    {
+      "time": 85.647,
+      "time_str": "01:25.647",
+      "text": "原来这就是曲终人散的寂寞",
+      "translation": null
+    },
+    {
+      "time": 91.326,
+      "time_str": "01:31.326",
+      "text": "我还想等你什么",
+      "translation": null
+    },
+    {
+      "time": 95.368,
+      "time_str": "01:35.368",
+      "text": "你紧紧拉住我衣袖",
+      "translation": null
+    },
+    {
+      "time": 98.618,
+      "time_str": "01:38.618",
+      "text": "又放开让我走",
+      "translation": null
+    },
+    {
+      "time": 100.969,
+      "time_str": "01:40.969",
+      "text": "这一次跟我彻底分手",
+      "translation": null
+    },
+    {
+      "time": 129.288,
+      "time_str": "02:09.288",
+      "text": "我跟着所有人向你祝贺的时候",
+      "translation": null
+    },
+    {
+      "time": 133.828,
+      "time_str": "02:13.828",
+      "text": "只有你知道我多喝了几杯酒",
+      "translation": null
+    },
+    {
+      "time": 138.508,
+      "time_str": "02:18.508",
+      "text": "我不能再看你 多一眼都是痛",
+      "translation": null
+    },
+    {
+      "time": 143.547,
+      "time_str": "02:23.547",
+      "text": "即使知道暗地里你又回头",
+      "translation": null
+    },
+    {
+      "time": 149.818,
+      "time_str": "02:29.818",
+      "text": "我终于知道曲终人散的寂寞",
+      "translation": null
+    },
+    {
+      "time": 155.898,
+      "time_str": "02:35.898",
+      "text": "只有伤心人才有",
+      "translation": null
+    },
+    {
+      "time": 159.828,
+      "time_str": "02:39.828",
+      "text": "你最后一身红残留在我眼中",
+      "translation": null
+    },
+    {
+      "time": 164.868,
+      "time_str": "02:44.868",
+      "text": "我没有再依恋的借口",
+      "translation": null
+    },
+    {
+      "time": 171.497,
+      "time_str": "02:51.497",
+      "text": "原来这就是曲终人散的寂寞",
+      "translation": null
+    },
+    {
+      "time": 176.388,
+      "time_str": "02:56.388",
+      "text": "我还想等你什么",
+      "translation": null
+    },
+    {
+      "time": 180.698,
+      "time_str": "03:00.698",
+      "text": "你紧紧拉住我衣袖",
+      "translation": null
+    },
+    {
+      "time": 184.388,
+      "time_str": "03:04.388",
+      "text": "又放开让我走",
+      "translation": null
+    },
+    {
+      "time": 187.688,
+      "time_str": "03:07.688",
+      "text": "这一次跟我彻底分手",
+      "translation": null
+    },
+    {
+      "time": 195.398,
+      "time_str": "03:15.398",
+      "text": "我终于知道曲终人散的寂寞",
+      "translation": null
+    },
+    {
+      "time": 200.497,
+      "time_str": "03:20.497",
+      "text": "只有伤心人才有",
+      "translation": null
+    },
+    {
+      "time": 205.398,
+      "time_str": "03:25.398",
+      "text": "你最后一身红残留在我眼中",
+      "translation": null
+    },
+    {
+      "time": 210.597,
+      "time_str": "03:30.597",
+      "text": "我没有再依恋的借口",
+      "translation": null
+    },
+    {
+      "time": 216.526,
+      "time_str": "03:36.526",
+      "text": "原来这就是曲终人散的寂寞",
+      "translation": null
+    },
+    {
+      "time": 222.088,
+      "time_str": "03:42.088",
+      "text": "我还想等你什么",
+      "translation": null
+    },
+    {
+      "time": 225.687,
+      "time_str": "03:45.687",
+      "text": "你紧紧拉住我衣袖",
+      "translation": null
+    },
+    {
+      "time": 229.698,
+      "time_str": "03:49.698",
+      "text": "又放开让我走",
+      "translation": null
+    },
+    {
+      "time": 231.678,
+      "time_str": "03:51.678",
+      "text": "这一次跟我彻底分手",
+      "translation": null
+    },
+    {
+      "time": 237.097,
+      "time_str": "03:57.097",
+      "text": "你紧紧拉住我衣袖",
+      "translation": null
+    },
+    {
+      "time": 239.638,
+      "time_str": "03:59.638",
+      "text": "又放开让我走",
+      "translation": null
+    },
+    {
+      "time": 243.688,
+      "time_str": "04:03.688",
+      "text": "这一次跟我彻底分手",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "曲终人散 - 张宇.lrc"
+}

@@ -1,0 +1,220 @@
+{
+  "title": "我的全部",
+  "title_raw": "我的全部",
+  "version": null,
+  "artist": "庞龙",
+  "group_key": "我的全部|庞龙",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.254,
+      "time_str": "00:15.254",
+      "text": "天上下凡三圣母",
+      "translation": null
+    },
+    {
+      "time": 17.44,
+      "time_str": "00:17.440",
+      "text": "生下沉香和爹住",
+      "translation": null
+    },
+    {
+      "time": 21.38,
+      "time_str": "00:21.380",
+      "text": "沉香日夜哭着要寻母",
+      "translation": null
+    },
+    {
+      "time": 24.752,
+      "time_str": "00:24.752",
+      "text": "哭着哭着要寻母",
+      "translation": null
+    },
+    {
+      "time": 27.815,
+      "time_str": "00:27.815",
+      "text": "哮天犬追二郎神堵",
+      "translation": null
+    },
+    {
+      "time": 31.07,
+      "time_str": "00:31.070",
+      "text": "四大天王常拦路",
+      "translation": null
+    },
+    {
+      "time": 34.317,
+      "time_str": "00:34.317",
+      "text": "砸炼丹炉改生死薄",
+      "translation": null
+    },
+    {
+      "time": 35.881,
+      "time_str": "00:35.881",
+      "text": "背天书修法术",
+      "translation": null
+    },
+    {
+      "time": 37.57,
+      "time_str": "00:37.570",
+      "text": "应付自如",
+      "translation": null
+    },
+    {
+      "time": 40.695,
+      "time_str": "00:40.695",
+      "text": "玉皇大帝王母娘娘不食人间五谷",
+      "translation": null
+    },
+    {
+      "time": 43.948,
+      "time_str": "00:43.948",
+      "text": "也犯错误也犯错误也犯错误",
+      "translation": null
+    },
+    {
+      "time": 47.196,
+      "time_str": "00:47.196",
+      "text": "八戒悟空世间万物",
+      "translation": null
+    },
+    {
+      "time": 48.823,
+      "time_str": "00:48.823",
+      "text": "教我真功夫啊",
+      "translation": null
+    },
+    {
+      "time": 50.383,
+      "time_str": "00:50.383",
+      "text": "天兵天将天兵天将挡不住",
+      "translation": null
+    },
+    {
+      "time": 53.634,
+      "time_str": "00:53.634",
+      "text": "我是娘的全部",
+      "translation": null
+    },
+    {
+      "time": 60.14,
+      "time_str": "01:00.140",
+      "text": "娘是我的全部",
+      "translation": null
+    },
+    {
+      "time": 63.387,
+      "time_str": "01:03.387",
+      "text": "娘痛苦我就不幸福",
+      "translation": null
+    },
+    {
+      "time": 73.13,
+      "time_str": "01:13.130",
+      "text": "娘痛苦我就不幸福",
+      "translation": null
+    },
+    {
+      "time": 92.268,
+      "time_str": "01:32.268",
+      "text": "天上下凡三圣母",
+      "translation": null
+    },
+    {
+      "time": 95.455,
+      "time_str": "01:35.455",
+      "text": "生下沉香和爹住",
+      "translation": null
+    },
+    {
+      "time": 98.765,
+      "time_str": "01:38.765",
+      "text": "沉香日夜哭着要寻母",
+      "translation": null
+    },
+    {
+      "time": 101.957,
+      "time_str": "01:41.957",
+      "text": "哭着哭着要寻母",
+      "translation": null
+    },
+    {
+      "time": 105.83,
+      "time_str": "01:45.830",
+      "text": "玉皇大帝王母娘娘不食人间五谷",
+      "translation": null
+    },
+    {
+      "time": 108.395,
+      "time_str": "01:48.395",
+      "text": "也犯错误也犯错误也犯错误",
+      "translation": null
+    },
+    {
+      "time": 111.581,
+      "time_str": "01:51.581",
+      "text": "八戒悟空世间万物教我真功夫",
+      "translation": null
+    },
+    {
+      "time": 114.456,
+      "time_str": "01:54.456",
+      "text": "天兵天将天兵天将挡不住",
+      "translation": null
+    },
+    {
+      "time": 118.395,
+      "time_str": "01:58.395",
+      "text": "我是娘的全部",
+      "translation": null
+    },
+    {
+      "time": 121.271,
+      "time_str": "02:01.271",
+      "text": "娘是我的全部",
+      "translation": null
+    },
+    {
+      "time": 124.523,
+      "time_str": "02:04.523",
+      "text": "娘痛苦我就不幸福",
+      "translation": null
+    },
+    {
+      "time": 134.15,
+      "time_str": "02:14.150",
+      "text": "娘痛苦我就不幸福",
+      "translation": null
+    },
+    {
+      "time": 140.523,
+      "time_str": "02:20.523",
+      "text": "我是娘的全部",
+      "translation": null
+    },
+    {
+      "time": 143.773,
+      "time_str": "02:23.773",
+      "text": "娘是我的全部",
+      "translation": null
+    },
+    {
+      "time": 147.86,
+      "time_str": "02:27.860",
+      "text": "娘痛苦我就不幸福",
+      "translation": null
+    },
+    {
+      "time": 156.652,
+      "time_str": "02:36.652",
+      "text": "娘痛苦我就不幸福",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我的全部 - 庞龙.lrc"
+}

@@ -1,0 +1,220 @@
+{
+  "title": "爱我就跟我走",
+  "title_raw": "爱我就跟我走",
+  "version": null,
+  "artist": "王鹤铮",
+  "group_key": "爱我就跟我走|王鹤铮",
+  "writers": {
+    "lyricist": "王鹤铮",
+    "composer": "花泽冰",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.28,
+      "time_str": "00:00.280",
+      "text": "你说爱我就跟我走 风雨也跟我走",
+      "translation": null
+    },
+    {
+      "time": 6.32,
+      "time_str": "00:06.320",
+      "text": "海角也跟我走 决定就不回头",
+      "translation": null
+    },
+    {
+      "time": 11.2,
+      "time_str": "00:11.200",
+      "text": "你说爱我就跟我走 勇敢牵我的手",
+      "translation": null
+    },
+    {
+      "time": 17.64,
+      "time_str": "00:17.640",
+      "text": "让爱带我们到 尽头",
+      "translation": null
+    },
+    {
+      "time": 26.39,
+      "time_str": "00:26.390",
+      "text": "清晨的眼泪 淋湿手里的玫瑰",
+      "translation": null
+    },
+    {
+      "time": 32.07,
+      "time_str": "00:32.070",
+      "text": "昨夜点的火 早就悄悄化成灰",
+      "translation": null
+    },
+    {
+      "time": 37.76,
+      "time_str": "00:37.760",
+      "text": "我不用太久 听我最后的要求",
+      "translation": null
+    },
+    {
+      "time": 43.37,
+      "time_str": "00:43.370",
+      "text": "如果爱我你就轻轻点点头",
+      "translation": null
+    },
+    {
+      "time": 47.86,
+      "time_str": "00:47.860",
+      "text": "你说爱我就跟我走 风雨也跟我走",
+      "translation": null
+    },
+    {
+      "time": 54.37,
+      "time_str": "00:54.370",
+      "text": "海角也跟我走 决定就不回头",
+      "translation": null
+    },
+    {
+      "time": 59.06,
+      "time_str": "00:59.060",
+      "text": "你说爱我就跟我走 勇敢牵我的手",
+      "translation": null
+    },
+    {
+      "time": 65.69,
+      "time_str": "01:05.690",
+      "text": "让爱带我们到 尽头",
+      "translation": null
+    },
+    {
+      "time": 94.13,
+      "time_str": "01:34.130",
+      "text": "清晨的眼泪 淋湿手里的玫瑰",
+      "translation": null
+    },
+    {
+      "time": 99.82,
+      "time_str": "01:39.820",
+      "text": "昨夜点的火 早就悄悄化成灰",
+      "translation": null
+    },
+    {
+      "time": 105.31,
+      "time_str": "01:45.310",
+      "text": "我不用太久 听我最后的要求",
+      "translation": null
+    },
+    {
+      "time": 111.11,
+      "time_str": "01:51.110",
+      "text": "如果爱我你就轻轻点点头",
+      "translation": null
+    },
+    {
+      "time": 115.66,
+      "time_str": "01:55.660",
+      "text": "你说爱我就跟我走 风雨也跟我走",
+      "translation": null
+    },
+    {
+      "time": 122.1,
+      "time_str": "02:02.100",
+      "text": "海角也跟我走 决定就不回头",
+      "translation": null
+    },
+    {
+      "time": 126.93,
+      "time_str": "02:06.930",
+      "text": "你说爱我就跟我走 勇敢牵我的手",
+      "translation": null
+    },
+    {
+      "time": 133.39,
+      "time_str": "02:13.390",
+      "text": "让爱带我们到 尽头",
+      "translation": null
+    },
+    {
+      "time": 139.4,
+      "time_str": "02:19.400",
+      "text": "誓言忘了吗 拥抱忘了吗",
+      "translation": null
+    },
+    {
+      "time": 145.02,
+      "time_str": "02:25.020",
+      "text": "我们那些甜蜜温暖的 话",
+      "translation": null
+    },
+    {
+      "time": 155.36,
+      "time_str": "02:35.360",
+      "text": "你说爱我就跟我走 风雨也跟我走",
+      "translation": null
+    },
+    {
+      "time": 161.61,
+      "time_str": "02:41.610",
+      "text": "海角也跟我走 决定就不回头",
+      "translation": null
+    },
+    {
+      "time": 166.3,
+      "time_str": "02:46.300",
+      "text": "你说爱我就跟我走 勇敢牵我的手",
+      "translation": null
+    },
+    {
+      "time": 172.87,
+      "time_str": "02:52.870",
+      "text": "让爱带我们到 尽头",
+      "translation": null
+    },
+    {
+      "time": 177.98,
+      "time_str": "02:57.980",
+      "text": "你说爱我就跟我走 风雨也跟我走",
+      "translation": null
+    },
+    {
+      "time": 184.16,
+      "time_str": "03:04.160",
+      "text": "海角也跟我走 决定就不回头",
+      "translation": null
+    },
+    {
+      "time": 188.91,
+      "time_str": "03:08.910",
+      "text": "你说爱我就跟我走 勇敢牵我的手",
+      "translation": null
+    },
+    {
+      "time": 195.48,
+      "time_str": "03:15.480",
+      "text": "让爱带我们到 尽头",
+      "translation": null
+    },
+    {
+      "time": 200.38,
+      "time_str": "03:20.380",
+      "text": "你说爱我就跟我走 风雨也跟我走",
+      "translation": null
+    },
+    {
+      "time": 206.76,
+      "time_str": "03:26.760",
+      "text": "海角也跟我走 决定就不回头",
+      "translation": null
+    },
+    {
+      "time": 211.51,
+      "time_str": "03:31.510",
+      "text": "你说爱我就跟我走 勇敢牵我的手",
+      "translation": null
+    },
+    {
+      "time": 218.13,
+      "time_str": "03:38.130",
+      "text": "让爱带我们到 尽头",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱我就跟我走 - 王鹤铮.lrc"
+}

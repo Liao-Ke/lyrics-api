@@ -1,0 +1,310 @@
+{
+  "title": "Because of You",
+  "title_raw": "Because of You",
+  "version": null,
+  "artist": "Kelly Clarkson",
+  "group_key": "because of you|kelly clarkson",
+  "writers": {
+    "lyricist": "CLARKSON/KELLY/HODGES/DAVID/MOODY/BEN",
+    "composer": "David hodges/Kelly Clarkson/Ben Moody",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.01,
+      "time_str": "00:15.010",
+      "text": "I will not make the same mistakes that you did",
+      "translation": "我不会重复你犯过的错误"
+    },
+    {
+      "time": 20.56,
+      "time_str": "00:20.560",
+      "text": "I will not let myself cause my heart so much misery",
+      "translation": "也不会让内心承受如此痛苦"
+    },
+    {
+      "time": 28.69,
+      "time_str": "00:28.690",
+      "text": "I will not break the way you did",
+      "translation": "我不会干涉你选择的方式"
+    },
+    {
+      "time": 33.07,
+      "time_str": "00:33.070",
+      "text": "You fell so hard",
+      "translation": "你吃尽苦头"
+    },
+    {
+      "time": 35.5,
+      "time_str": "00:35.500",
+      "text": "I' ve learned the hard way",
+      "translation": "我已尝到痛苦的滋味"
+    },
+    {
+      "time": 38.29,
+      "time_str": "00:38.290",
+      "text": "so never let it get that far",
+      "translation": "所以我不会让自己一错再错"
+    },
+    {
+      "time": 42.4,
+      "time_str": "00:42.400",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 44.05,
+      "time_str": "00:44.050",
+      "text": "I never stray too far from the sidewalk",
+      "translation": "人生的轨道我从不敢偏移半分"
+    },
+    {
+      "time": 49.27,
+      "time_str": "00:49.270",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 50.8,
+      "time_str": "00:50.800",
+      "text": "I  learned to play on the safe side so I don't  get hurt",
+      "translation": "我学会站在安全的地方以免自己受到伤害"
+    },
+    {
+      "time": 56.08,
+      "time_str": "00:56.080",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 57.64,
+      "time_str": "00:57.640",
+      "text": "I    find it hard to trust not only me, but everyone around me",
+      "translation": "我发现很难去相信别人甚至连自己都怀疑"
+    },
+    {
+      "time": 63.25,
+      "time_str": "01:03.250",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 66.37,
+      "time_str": "01:06.370",
+      "text": "I am afraid",
+      "translation": "我很害怕"
+    },
+    {
+      "time": 71.56,
+      "time_str": "01:11.560",
+      "text": "I lose my way，And it's not too long before you point it out",
+      "translation": "在你为我指明道路前不久，我迷失了方向"
+    },
+    {
+      "time": 78.46,
+      "time_str": "01:18.460",
+      "text": "I cannot cry",
+      "translation": "我不能哭"
+    },
+    {
+      "time": 81.16,
+      "time_str": "01:21.160",
+      "text": "Because I know that's weakness in your eyes",
+      "translation": "因为我知道，在你眼里这就是懦弱"
+    },
+    {
+      "time": 85.36,
+      "time_str": "01:25.360",
+      "text": "I'm forced to fake a smile, a laugh everyday of my life",
+      "translation": "此后的每一天我被迫强颜欢笑"
+    },
+    {
+      "time": 92.14,
+      "time_str": "01:32.140",
+      "text": "My heart can't possibly break",
+      "translation": "我的心已无法再破碎了"
+    },
+    {
+      "time": 94.75,
+      "time_str": "01:34.750",
+      "text": "When it wasn't even whole to start with",
+      "translation": "因为它在最初之时就不再完整"
+    },
+    {
+      "time": 98.92,
+      "time_str": "01:38.920",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 100.69,
+      "time_str": "01:40.690",
+      "text": "I never stray too far from the sidewalk",
+      "translation": "人生的轨道我从不敢偏移半分"
+    },
+    {
+      "time": 105.79,
+      "time_str": "01:45.790",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 107.35,
+      "time_str": "01:47.350",
+      "text": "I learned to play on the safe side so I don't get hurt",
+      "translation": "我学会站在安全的地方以免自己受到伤害"
+    },
+    {
+      "time": 112.69,
+      "time_str": "01:52.690",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 114.25,
+      "time_str": "01:54.250",
+      "text": "I find it hard to trust not only me, but everyone around me",
+      "translation": "我发现很难去相信别人甚至连自己都怀疑"
+    },
+    {
+      "time": 119.8,
+      "time_str": "01:59.800",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 122.95,
+      "time_str": "02:02.950",
+      "text": "I am afraid",
+      "translation": "我如此害怕"
+    },
+    {
+      "time": 126.4,
+      "time_str": "02:06.400",
+      "text": "I watched you die",
+      "translation": "我看着你日渐憔悴"
+    },
+    {
+      "time": 128.2,
+      "time_str": "02:08.200",
+      "text": "I heard you cry every night in your sleep",
+      "translation": "每晚都听见你在睡梦中哭泣"
+    },
+    {
+      "time": 133.24,
+      "time_str": "02:13.240",
+      "text": "I was so young",
+      "translation": "我太年轻了啊"
+    },
+    {
+      "time": 135.07,
+      "time_str": "02:15.070",
+      "text": "You should have known better than to lean on me",
+      "translation": "你早应该明白不能依赖于我"
+    },
+    {
+      "time": 140.05,
+      "time_str": "02:20.050",
+      "text": "You never thought of anyone else",
+      "translation": "你从来不考虑别人的感受"
+    },
+    {
+      "time": 143.59,
+      "time_str": "02:23.590",
+      "text": "You just saw your pain",
+      "translation": "只知道自己的痛苦"
+    },
+    {
+      "time": 147.04,
+      "time_str": "02:27.040",
+      "text": "And now I cry in the middle of the night for the same damn thing",
+      "translation": "如今我亦为这同样的事情在深夜哭泣"
+    },
+    {
+      "time": 157.21,
+      "time_str": "02:37.210",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 158.95,
+      "time_str": "02:38.950",
+      "text": "I never stray too far from the sidewalk",
+      "translation": "人生的轨道我从不敢偏移半分"
+    },
+    {
+      "time": 164.14,
+      "time_str": "02:44.140",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 165.7,
+      "time_str": "02:45.700",
+      "text": "I learned to play on the safe side so I don't get hurt",
+      "translation": "我学会站在安全的地方以免自己受到伤害"
+    },
+    {
+      "time": 171.01,
+      "time_str": "02:51.010",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 172.57,
+      "time_str": "02:52.570",
+      "text": "I try my hardest just to forget everything",
+      "translation": "我尽我最大努力去忘掉一切"
+    },
+    {
+      "time": 177.82,
+      "time_str": "02:57.820",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 179.35,
+      "time_str": "02:59.350",
+      "text": "I don't know how to let anyone else in",
+      "translation": "我从不知道与别人心有灵犀是什么感觉"
+    },
+    {
+      "time": 184.84,
+      "time_str": "03:04.840",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 186.49,
+      "time_str": "03:06.490",
+      "text": "I'm ashamed of my life because it's empty",
+      "translation": "我的人生是一片可耻的虚无"
+    },
+    {
+      "time": 191.77,
+      "time_str": "03:11.770",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 193.57,
+      "time_str": "03:13.570",
+      "text": "I am afraid",
+      "translation": "我如此害怕"
+    },
+    {
+      "time": 198.55,
+      "time_str": "03:18.550",
+      "text": "Because of you",
+      "translation": "因为你"
+    },
+    {
+      "time": 205.48,
+      "time_str": "03:25.480",
+      "text": "Because of you",
+      "translation": "只因为你"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Because of You - Kelly Clarkson.lrc"
+}

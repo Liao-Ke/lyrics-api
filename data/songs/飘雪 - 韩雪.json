@@ -1,0 +1,334 @@
+{
+  "title": "飘雪",
+  "title_raw": "飘雪",
+  "version": null,
+  "artist": "韩雪",
+  "group_key": "飘雪|韩雪",
+  "writers": {
+    "lyricist": "林海",
+    "composer": "松本良喜",
+    "arranger": "松本良喜/林海"
+  },
+  "lyrics": [
+    {
+      "time": 34.27,
+      "time_str": "00:34.270",
+      "text": "忧郁的一片天 飘着纷飞的雪",
+      "translation": null
+    },
+    {
+      "time": 40.65,
+      "time_str": "00:40.650",
+      "text": "这一泓伊豆的温泉",
+      "translation": null
+    },
+    {
+      "time": 44.25,
+      "time_str": "00:44.250",
+      "text": "浸湿我孤单的思念",
+      "translation": null
+    },
+    {
+      "time": 47.68,
+      "time_str": "00:47.680",
+      "text": "飘零的一片叶 就像你我的终结",
+      "translation": null
+    },
+    {
+      "time": 54.23,
+      "time_str": "00:54.230",
+      "text": "这一泓伊豆的温泉",
+      "translation": null
+    },
+    {
+      "time": 57.53,
+      "time_str": "00:57.530",
+      "text": "盛满温暖的从前",
+      "translation": null
+    },
+    {
+      "time": 62.14,
+      "time_str": "01:02.140",
+      "text": "你的手 曾经拥着我的肩",
+      "translation": null
+    },
+    {
+      "time": 68.55,
+      "time_str": "01:08.550",
+      "text": "呢喃着 爱我直到永远",
+      "translation": null
+    },
+    {
+      "time": 75.41,
+      "time_str": "01:15.410",
+      "text": "雪花 像绽放的礼花",
+      "translation": null
+    },
+    {
+      "time": 80.86,
+      "time_str": "01:20.860",
+      "text": "天地间肆意地飘洒",
+      "translation": null
+    },
+    {
+      "time": 85.44,
+      "time_str": "01:25.440",
+      "text": "纵情在一刹那",
+      "translation": null
+    },
+    {
+      "time": 88.81,
+      "time_str": "01:28.810",
+      "text": "为何现在只剩下  风吹乱我的发",
+      "translation": null
+    },
+    {
+      "time": 95.1,
+      "time_str": "01:35.100",
+      "text": "撕开我记忆的伤疤",
+      "translation": null
+    },
+    {
+      "time": 98.8,
+      "time_str": "01:38.800",
+      "text": "让往事像雾气慢慢地蒸发",
+      "translation": null
+    },
+    {
+      "time": 102.47,
+      "time_str": "01:42.470",
+      "text": "让我知道什么叫放不下",
+      "translation": null
+    },
+    {
+      "time": 106.33,
+      "time_str": "01:46.330",
+      "text": "为何我的泪，会不停地流下",
+      "translation": null
+    },
+    {
+      "time": 111.6,
+      "time_str": "01:51.600",
+      "text": "滑过你曾经亲吻的脸颊",
+      "translation": null
+    },
+    {
+      "time": 115.479,
+      "time_str": "01:55.479",
+      "text": "所有的对错在顷刻  崩塌",
+      "translation": null
+    },
+    {
+      "time": 132.649,
+      "time_str": "02:12.649",
+      "text": "忧郁的一片天 飘着纷飞的雪",
+      "translation": null
+    },
+    {
+      "time": 139.25,
+      "time_str": "02:19.250",
+      "text": "这一泓伊豆的温泉",
+      "translation": null
+    },
+    {
+      "time": 142.549,
+      "time_str": "02:22.549",
+      "text": "浸湿我孤单的思念",
+      "translation": null
+    },
+    {
+      "time": 145.87,
+      "time_str": "02:25.870",
+      "text": "飘零的一片叶 就像你我的终结",
+      "translation": null
+    },
+    {
+      "time": 152.519,
+      "time_str": "02:32.519",
+      "text": "这一泓伊豆的温泉",
+      "translation": null
+    },
+    {
+      "time": 155.859,
+      "time_str": "02:35.859",
+      "text": "盛满温暖的从前",
+      "translation": null
+    },
+    {
+      "time": 160.63,
+      "time_str": "02:40.630",
+      "text": "你的手 曾经拥着我的肩",
+      "translation": null
+    },
+    {
+      "time": 167.1,
+      "time_str": "02:47.100",
+      "text": "呢喃着 爱我直到永远",
+      "translation": null
+    },
+    {
+      "time": 174.59,
+      "time_str": "02:54.590",
+      "text": "雪花 像绽放的礼花",
+      "translation": null
+    },
+    {
+      "time": 179.56,
+      "time_str": "02:59.560",
+      "text": "天地间肆意地飘洒",
+      "translation": null
+    },
+    {
+      "time": 184.11,
+      "time_str": "03:04.110",
+      "text": "纵情在一刹那",
+      "translation": null
+    },
+    {
+      "time": 187.449,
+      "time_str": "03:07.449",
+      "text": "为何现在只剩下  风吹乱我的发",
+      "translation": null
+    },
+    {
+      "time": 193.58,
+      "time_str": "03:13.580",
+      "text": "撕开我记忆的伤疤",
+      "translation": null
+    },
+    {
+      "time": 197.479,
+      "time_str": "03:17.479",
+      "text": "让往事像雾气慢慢地蒸发",
+      "translation": null
+    },
+    {
+      "time": 201.19,
+      "time_str": "03:21.190",
+      "text": "让我知道什么叫放不下",
+      "translation": null
+    },
+    {
+      "time": 205.0,
+      "time_str": "03:25.000",
+      "text": "为何我的泪，会不停地流下",
+      "translation": null
+    },
+    {
+      "time": 210.24,
+      "time_str": "03:30.240",
+      "text": "滑过你曾经亲吻的脸颊",
+      "translation": null
+    },
+    {
+      "time": 214.129,
+      "time_str": "03:34.129",
+      "text": "所有的对错在顷刻  崩塌",
+      "translation": null
+    },
+    {
+      "time": 220.9,
+      "time_str": "03:40.900",
+      "text": "原来你带走了我生命的暖春盛夏",
+      "translation": null
+    },
+    {
+      "time": 227.86,
+      "time_str": "03:47.860",
+      "text": "就连秋的果实也只在梦境里悬挂",
+      "translation": null
+    },
+    {
+      "time": 234.61,
+      "time_str": "03:54.610",
+      "text": "原来寻找的是我自己难了的牵挂",
+      "translation": null
+    },
+    {
+      "time": 240.78,
+      "time_str": "04:00.780",
+      "text": "这泓伊豆的温泉是天给的  惩罚",
+      "translation": null
+    },
+    {
+      "time": 251.21,
+      "time_str": "04:11.210",
+      "text": "如果知道结局我们还会  相爱吗?",
+      "translation": null
+    },
+    {
+      "time": 256.949,
+      "time_str": "04:16.949",
+      "text": "我猜不到你的回答",
+      "translation": null
+    },
+    {
+      "time": 260.86,
+      "time_str": "04:20.860",
+      "text": "冰雪中的誓言是真心的吗?",
+      "translation": null
+    },
+    {
+      "time": 264.58,
+      "time_str": "04:24.580",
+      "text": "怎么此刻什么也没留下",
+      "translation": null
+    },
+    {
+      "time": 269.0,
+      "time_str": "04:29.000",
+      "text": "现在只剩下  风吹乱我的发",
+      "translation": null
+    },
+    {
+      "time": 273.54,
+      "time_str": "04:33.540",
+      "text": "雪掩埋记忆的伤疤",
+      "translation": null
+    },
+    {
+      "time": 277.51,
+      "time_str": "04:37.510",
+      "text": "往事就像雾气慢慢地蒸发",
+      "translation": null
+    },
+    {
+      "time": 281.279,
+      "time_str": "04:41.279",
+      "text": "痛到麻木也许就放得下",
+      "translation": null
+    },
+    {
+      "time": 285.1,
+      "time_str": "04:45.100",
+      "text": "就让我的泪  不停地去冲刷",
+      "translation": null
+    },
+    {
+      "time": 290.22,
+      "time_str": "04:50.220",
+      "text": "冲刷你曾经亲吻的脸颊",
+      "translation": null
+    },
+    {
+      "time": 294.149,
+      "time_str": "04:54.149",
+      "text": "伸出手像留住一样的冰雪",
+      "translation": null
+    },
+    {
+      "time": 297.93,
+      "time_str": "04:57.930",
+      "text": "那瞬间的融化仿佛在",
+      "translation": null
+    },
+    {
+      "time": 301.25,
+      "time_str": "05:01.250",
+      "text": "祭奠你和我的爱情  童话",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "飘雪 - 韩雪.lrc"
+}

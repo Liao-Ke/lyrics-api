@@ -1,0 +1,316 @@
+{
+  "title": "As Long As You Love Me",
+  "title_raw": "As Long As You Love Me",
+  "version": null,
+  "artist": "Justin Bieber,Big Sean",
+  "group_key": "as long as you love me|justin bieber,big sean",
+  "writers": {
+    "lyricist": "Justin Bieber/Sean Michael Anderson/Nasri Tony Atweh/Rodney Jerkins/Andre Lindal",
+    "composer": "Justin Bieber/Sean Michael Anderson/Nasri Tony Atweh/Rodney Jerkins/Andre Lindal",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.4,
+      "time_str": "00:00.400",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 7.33,
+      "time_str": "00:07.330",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 14.18,
+      "time_str": "00:14.180",
+      "text": "As long as you love me",
+      "translation": "只要你爱我就好"
+    },
+    {
+      "time": 16.41,
+      "time_str": "00:16.410",
+      "text": "We're under pressure, seven billion people in the world trying to fit in",
+      "translation": "我们的爱倍受压迫，全世界七十亿人都试图融入"
+    },
+    {
+      "time": 23.21,
+      "time_str": "00:23.210",
+      "text": "Keep it together, smile on your face even though your heart is frowning",
+      "translation": "十指紧握，你的心中皱眉但却面挂笑靥"
+    },
+    {
+      "time": 29.5,
+      "time_str": "00:29.500",
+      "text": "But hey now, you know girl, we both know it’s a cruel world",
+      "translation": "而现在，女孩你知道，我们都知道这是一个残酷的世界"
+    },
+    {
+      "time": 36.49,
+      "time_str": "00:36.490",
+      "text": "But I will take my chances",
+      "translation": "但我会抓住所有希望"
+    },
+    {
+      "time": 42.6,
+      "time_str": "00:42.600",
+      "text": "As long as you love me, we could be starving,",
+      "translation": "只要你仍爱我，我们可以食不果腹"
+    },
+    {
+      "time": 45.2,
+      "time_str": "00:45.200",
+      "text": "We could be homeless, we could be broke",
+      "translation": "可以流离失所，也可以穷困潦倒"
+    },
+    {
+      "time": 48.32,
+      "time_str": "00:48.320",
+      "text": "As long as you love me I'll be your platinum, I'll be your silver, I'll be your gold",
+      "translation": "会是你的不离不弃，你的无坚不摧，你的所向披靡"
+    },
+    {
+      "time": 55.5,
+      "time_str": "00:55.500",
+      "text": "As long as you lo-lo-lo-lo-lo-lo-love me love me",
+      "translation": "只要你仍爱我"
+    },
+    {
+      "time": 62.8,
+      "time_str": "01:02.800",
+      "text": "As long as you lo-lo-lo-lo-lo-lo-love me love me",
+      "translation": "只要你仍爱我"
+    },
+    {
+      "time": 72.88,
+      "time_str": "01:12.880",
+      "text": "I'll be your soldier, fighting every second of the day for the dreams girl",
+      "translation": "我将是你的战士，每分每秒为你的梦想而战斗"
+    },
+    {
+      "time": 80.3,
+      "time_str": "01:20.300",
+      "text": "I'll be your Hova, you can be my Destiny's Child on a stinger",
+      "translation": "我将成为你的平民，因为你就是我的真命天女"
+    },
+    {
+      "time": 86.51,
+      "time_str": "01:26.510",
+      "text": "So don't stress, don't cry, oh we don't need no wings to fly",
+      "translation": "所以不要害怕，不要流泪，我们不需要翅膀也能飞向未来"
+    },
+    {
+      "time": 93.02,
+      "time_str": "01:33.020",
+      "text": "Just take my hand",
+      "translation": "只要你紧紧握着我的手"
+    },
+    {
+      "time": 98.57,
+      "time_str": "01:38.570",
+      "text": "As long as you love me we could be starving,",
+      "translation": "只要你仍爱我，我们可以食不果腹"
+    },
+    {
+      "time": 102.4,
+      "time_str": "01:42.400",
+      "text": "We could be homeless, we could be broke",
+      "translation": "可以流离失所，也可以穷困潦倒"
+    },
+    {
+      "time": 104.929,
+      "time_str": "01:44.929",
+      "text": "As long as you love me I'll be your platinum, I'll be your silver, I'll be your gold",
+      "translation": "我会是你的不离不弃，你的无坚不摧，你的所向披靡"
+    },
+    {
+      "time": 111.98,
+      "time_str": "01:51.980",
+      "text": "As long as you lo-lo-lo-lo-lo-lo-love me love me",
+      "translation": "只要你仍爱我"
+    },
+    {
+      "time": 119.179,
+      "time_str": "01:59.179",
+      "text": "As long as you lo-lo-lo-lo-lo-lo-love me love me",
+      "translation": "只要你仍爱我"
+    },
+    {
+      "time": 125.28,
+      "time_str": "02:05.280",
+      "text": "Big Sean",
+      "translation": null
+    },
+    {
+      "time": 126.85,
+      "time_str": "02:06.850",
+      "text": "I don't  know if this make sense",
+      "translation": "我不知道这样做有无道理"
+    },
+    {
+      "time": 128.94,
+      "time_str": "02:08.940",
+      "text": "But you're my hallelujah",
+      "translation": "但你是我的唯一"
+    },
+    {
+      "time": 131.36,
+      "time_str": "02:11.360",
+      "text": "Give me a time and place, I'll rendezvous",
+      "translation": "给我时间和地址，世界崩裂我也会赴约"
+    },
+    {
+      "time": 133.19,
+      "time_str": "02:13.190",
+      "text": "I'll fly you to it, I'll beat you there",
+      "translation": "我会飞去那里，我会一路拼到那里"
+    },
+    {
+      "time": 135.16,
+      "time_str": "02:15.160",
+      "text": "Girl you know I got you",
+      "translation": "女孩，你知道我已拥有你"
+    },
+    {
+      "time": 136.83,
+      "time_str": "02:16.830",
+      "text": "Us, trust, a couple things I can't spell without you",
+      "translation": "“我们”“信任”这样形容爱人的词语，没有你我不会拼写"
+    },
+    {
+      "time": 139.9,
+      "time_str": "02:19.900",
+      "text": "Now we on top of the world",
+      "translation": "我们在世界的顶端"
+    },
+    {
+      "time": 142.2,
+      "time_str": "02:22.200",
+      "text": "Cause that's just how we do",
+      "translation": "这就是我们要做的"
+    },
+    {
+      "time": 143.44,
+      "time_str": "02:23.440",
+      "text": "Used to tell me sky's the limit",
+      "translation": "曾经有人说天空是我们的束缚"
+    },
+    {
+      "time": 144.98,
+      "time_str": "02:24.980",
+      "text": "Now the skies are point of view",
+      "translation": "现在却是我们视域下的的风景"
+    },
+    {
+      "time": 146.7,
+      "time_str": "02:26.700",
+      "text": "Man we stepping out like woah(oh god)",
+      "translation": "我们站出来惊讶"
+    },
+    {
+      "time": 148.49,
+      "time_str": "02:28.490",
+      "text": "Cameras point at you, ask me what's my best side",
+      "translation": "要拍摄的时候，问我哪里最美"
+    },
+    {
+      "time": 151.87,
+      "time_str": "02:31.870",
+      "text": "I'll stand back and point at you, you, you",
+      "translation": "我退后一步指向你"
+    },
+    {
+      "time": 154.62,
+      "time_str": "02:34.620",
+      "text": "The one that I argue with,",
+      "translation": "那个我和她争吵之后"
+    },
+    {
+      "time": 155.65,
+      "time_str": "02:35.650",
+      "text": "Feel like I need a new girl to be bothered with",
+      "translation": "觉得自己需要换一个新的女孩来烦自己的人"
+    },
+    {
+      "time": 157.47,
+      "time_str": "02:37.470",
+      "text": "But the grass ain't always greener on the other side",
+      "translation": "但是别的地方的草"
+    },
+    {
+      "time": 159.61,
+      "time_str": "02:39.610",
+      "text": "It's greener where you water it",
+      "translation": "并不如你用心浇灌的那样绿"
+    },
+    {
+      "time": 160.83,
+      "time_str": "02:40.830",
+      "text": "So I know, we got issues baby, true true true",
+      "translation": "这时我明白了，宝贝，我们已经有了默契"
+    },
+    {
+      "time": 164.6,
+      "time_str": "02:44.600",
+      "text": "But I rather work on this with you",
+      "translation": "所以我会和你一起走下去"
+    },
+    {
+      "time": 165.279,
+      "time_str": "02:45.279",
+      "text": "Than then go ahead and start with someone new",
+      "translation": "而不是找一个新的女孩重新开始"
+    },
+    {
+      "time": 166.99,
+      "time_str": "02:46.990",
+      "text": "As long as you love me we could be starving",
+      "translation": "只要你仍爱我，我们可以食不果腹"
+    },
+    {
+      "time": 170.33,
+      "time_str": "02:50.330",
+      "text": "We could be homeless, we could be broke",
+      "translation": "可以流离失所，也可以穷困潦倒"
+    },
+    {
+      "time": 173.43,
+      "time_str": "02:53.430",
+      "text": "As long as you love me I'll be your platinum, I'll be your silver, I'll be your gold",
+      "translation": "我会是你的不离不弃，你的无坚不摧，你的所向披靡"
+    },
+    {
+      "time": 180.63,
+      "time_str": "03:00.630",
+      "text": "As long as you lo-lo-lo-lo-lo-lo-love me",
+      "translation": "只要你仍爱我"
+    },
+    {
+      "time": 186.96,
+      "time_str": "03:06.960",
+      "text": "As long as you lo-lo-lo-lo-lo-lo-love me",
+      "translation": "只要你仍爱我"
+    },
+    {
+      "time": 194.5,
+      "time_str": "03:14.500",
+      "text": "As long as you lo-lo-lo-lo-lo-lo-love me",
+      "translation": "只要你仍爱我"
+    },
+    {
+      "time": 200.95,
+      "time_str": "03:20.950",
+      "text": "As long as you lo-lo-lo-lo-lo-lo-love me",
+      "translation": "只要你仍爱我"
+    },
+    {
+      "time": 208.05,
+      "time_str": "03:28.050",
+      "text": "As long as you lo-lo-lo-lo-lo-lo-love me",
+      "translation": "只要你仍爱我"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "As Long As You Love Me - Justin Bieber,Big Sean.lrc"
+}

@@ -1,0 +1,196 @@
+{
+  "title": "虚拟",
+  "title_raw": "虚拟",
+  "version": null,
+  "artist": "陈粒",
+  "group_key": "虚拟|陈粒",
+  "writers": {
+    "lyricist": "陈粒",
+    "composer": "陈粒",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.11,
+      "time_str": "00:15.110",
+      "text": "固执押韵的排比",
+      "translation": null
+    },
+    {
+      "time": 18.86,
+      "time_str": "00:18.860",
+      "text": "固执幼稚的押韵",
+      "translation": null
+    },
+    {
+      "time": 22.15,
+      "time_str": "00:22.150",
+      "text": "零零散散凑齐了阵营",
+      "translation": null
+    },
+    {
+      "time": 29.66,
+      "time_str": "00:29.660",
+      "text": "固执美丽的意义",
+      "translation": null
+    },
+    {
+      "time": 33.54,
+      "time_str": "00:33.540",
+      "text": "固执空洞的美丽",
+      "translation": null
+    },
+    {
+      "time": 37.08,
+      "time_str": "00:37.080",
+      "text": "飘飘然然空中遇见你",
+      "translation": null
+    },
+    {
+      "time": 43.83,
+      "time_str": "00:43.830",
+      "text": "你是我未曾拥有无法捕捉的亲昵",
+      "translation": null
+    },
+    {
+      "time": 47.59,
+      "time_str": "00:47.590",
+      "text": "我却有你的吻你的魂你的心",
+      "translation": null
+    },
+    {
+      "time": 51.34,
+      "time_str": "00:51.340",
+      "text": "载着我飞呀飞呀飞 越过了意义",
+      "translation": null
+    },
+    {
+      "time": 58.59,
+      "time_str": "00:58.590",
+      "text": "你是我朝夕相伴触手可及的虚拟",
+      "translation": null
+    },
+    {
+      "time": 62.34,
+      "time_str": "01:02.340",
+      "text": "陪着我像纸笔像自己像雨滴",
+      "translation": null
+    },
+    {
+      "time": 66.09,
+      "time_str": "01:06.090",
+      "text": "看着我坠啊坠啊坠落到云里",
+      "translation": null
+    },
+    {
+      "time": 81.63,
+      "time_str": "01:21.630",
+      "text": "固执有趣的零星",
+      "translation": null
+    },
+    {
+      "time": 84.87,
+      "time_str": "01:24.870",
+      "text": "固执无聊的有趣",
+      "translation": null
+    },
+    {
+      "time": 88.88,
+      "time_str": "01:28.880",
+      "text": "平平淡淡管住了情绪",
+      "translation": null
+    },
+    {
+      "time": 96.14,
+      "time_str": "01:36.140",
+      "text": "固执声音的意义",
+      "translation": null
+    },
+    {
+      "time": 99.89,
+      "time_str": "01:39.890",
+      "text": "固执空洞的声音",
+      "translation": null
+    },
+    {
+      "time": 103.38,
+      "time_str": "01:43.380",
+      "text": "摇摇晃晃情绪却满溢",
+      "translation": null
+    },
+    {
+      "time": 110.43,
+      "time_str": "01:50.430",
+      "text": "你是我未曾拥有无法捕捉的亲昵",
+      "translation": null
+    },
+    {
+      "time": 114.18,
+      "time_str": "01:54.180",
+      "text": "我却有你的吻你的魂你的心",
+      "translation": null
+    },
+    {
+      "time": 117.94,
+      "time_str": "01:57.940",
+      "text": "载着我飞呀飞呀飞 越过了意义",
+      "translation": null
+    },
+    {
+      "time": 125.25,
+      "time_str": "02:05.250",
+      "text": "你是我朝夕相伴触手可及的虚拟",
+      "translation": null
+    },
+    {
+      "time": 128.74,
+      "time_str": "02:08.740",
+      "text": "陪着我像纸笔像自己像雨滴",
+      "translation": null
+    },
+    {
+      "time": 132.49,
+      "time_str": "02:12.490",
+      "text": "看着我坠啊坠啊坠落到云里",
+      "translation": null
+    },
+    {
+      "time": 176.98,
+      "time_str": "02:56.980",
+      "text": "你是我未曾拥有无法捕捉的亲昵",
+      "translation": null
+    },
+    {
+      "time": 180.52,
+      "time_str": "03:00.520",
+      "text": "我却有你的吻你的魂你的心",
+      "translation": null
+    },
+    {
+      "time": 184.02,
+      "time_str": "03:04.020",
+      "text": "载着我飞呀飞呀飞 越过了意义",
+      "translation": null
+    },
+    {
+      "time": 191.28,
+      "time_str": "03:11.280",
+      "text": "你是我朝夕相伴触手可及的虚拟",
+      "translation": null
+    },
+    {
+      "time": 195.29,
+      "time_str": "03:15.290",
+      "text": "陪着我像纸笔像自己像雨滴",
+      "translation": null
+    },
+    {
+      "time": 198.79,
+      "time_str": "03:18.790",
+      "text": "看着我坠啊坠啊坠落到云里",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "虚拟 - 陈粒.lrc"
+}

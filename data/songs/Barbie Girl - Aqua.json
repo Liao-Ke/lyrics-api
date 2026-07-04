@@ -1,0 +1,406 @@
+{
+  "title": "Barbie Girl",
+  "title_raw": "Barbie Girl",
+  "version": null,
+  "artist": "Aqua",
+  "group_key": "barbie girl|aqua",
+  "writers": {
+    "lyricist": "Delgado, Dif, Norreen, Nystrom ...",
+    "composer": "Søren Rasted & Claus Norreen & René Dif & Lene",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.3,
+      "time_str": "00:04.300",
+      "text": "Hi Barbie",
+      "translation": "肯：嗨，芭比~"
+    },
+    {
+      "time": 5.3,
+      "time_str": "00:05.300",
+      "text": "Hi Ken",
+      "translation": "芭比：嗨，肯"
+    },
+    {
+      "time": 6.3,
+      "time_str": "00:06.300",
+      "text": "You wanna go for a ride?",
+      "translation": "肯：你想去兜风吗？"
+    },
+    {
+      "time": 7.3,
+      "time_str": "00:07.300",
+      "text": "Sure Ken.",
+      "translation": "芭比：非常乐意，肯。"
+    },
+    {
+      "time": 8.3,
+      "time_str": "00:08.300",
+      "text": "Jump In...",
+      "translation": "肯：上来！"
+    },
+    {
+      "time": 9.3,
+      "time_str": "00:09.300",
+      "text": "i'm a Barbie girl, in a Barbie world",
+      "translation": "我是一个在芭比世界里的芭比娃娃"
+    },
+    {
+      "time": 13.3,
+      "time_str": "00:13.300",
+      "text": "Life in plastic, it's fantastic.",
+      "translation": "我的身体是塑料做成的，是人凭想象创作出来的"
+    },
+    {
+      "time": 17.3,
+      "time_str": "00:17.300",
+      "text": "You can brush my hair, undress me everywhere.",
+      "translation": "你可以给我梳头，脱下我的衣服，带我去任何地方"
+    },
+    {
+      "time": 21.3,
+      "time_str": "00:21.300",
+      "text": "Imagination, life is your creation.",
+      "translation": "想象，我的生命就在你的创造力"
+    },
+    {
+      "time": 24.3,
+      "time_str": "00:24.300",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，让我们一起去参加派对吧！"
+    },
+    {
+      "time": 26.3,
+      "time_str": "00:26.300",
+      "text": "I'm a Barbie girl, in a Barbie world",
+      "translation": "我是一个在芭比世界里的芭比娃娃"
+    },
+    {
+      "time": 30.3,
+      "time_str": "00:30.300",
+      "text": "Life in plastic, it's fantastic.",
+      "translation": "我的身体是塑料做成的，是人凭想象创作出来的"
+    },
+    {
+      "time": 34.3,
+      "time_str": "00:34.300",
+      "text": "You can brush my hair, undress me everywhere.",
+      "translation": "你可以给我梳头，脱下我的衣服，带我去任何地方"
+    },
+    {
+      "time": 37.3,
+      "time_str": "00:37.300",
+      "text": "Imagination, life is your creation.",
+      "translation": "想象，我的生命就在你的创造力"
+    },
+    {
+      "time": 42.9,
+      "time_str": "00:42.900",
+      "text": "I'm a blond bimbo girl, in a fantasy world,",
+      "translation": "我是一个在虚幻世界里的金发的美丽的女孩"
+    },
+    {
+      "time": 46.9,
+      "time_str": "00:46.900",
+      "text": "Dress me up, make it tight, I'm your darling.",
+      "translation": "给我穿上美丽的紧身的衣服，我就是你的洋娃娃"
+    },
+    {
+      "time": 49.9,
+      "time_str": "00:49.900",
+      "text": "You are my doll, rock and roll, feel the glamour in pink,",
+      "translation": "你是我的洋娃娃，伴随着摇滚的节奏，感受着粉红世界的魅力"
+    },
+    {
+      "time": 53.9,
+      "time_str": "00:53.900",
+      "text": "Kiss me here, touch me there, hanky panky.",
+      "translation": "亲吻我，拥抱着我"
+    },
+    {
+      "time": 57.9,
+      "time_str": "00:57.900",
+      "text": "You can touch, you can play, if you say: \"I am always yours\"",
+      "translation": "你可以拥抱，你可以和我一起玩耍，如果你说“我永远是你的”的话"
+    },
+    {
+      "time": 65.9,
+      "time_str": "01:05.900",
+      "text": "I'm,a Barbie girl, in a Barbie world",
+      "translation": "我是一个在芭比世界里的芭比娃娃"
+    },
+    {
+      "time": 69.9,
+      "time_str": "01:09.900",
+      "text": "Life in plastic, it's fantastic.",
+      "translation": "我的身体是塑料做成的，是人凭想象创作出来的"
+    },
+    {
+      "time": 72.9,
+      "time_str": "01:12.900",
+      "text": "You can brush my hair, undress me everywhere.",
+      "translation": "你可以给我梳头，脱下我的衣服，带我去任何地方"
+    },
+    {
+      "time": 76.9,
+      "time_str": "01:16.900",
+      "text": "Imagination, life is your creation.",
+      "translation": "想象，我的生命就在你的创造力"
+    },
+    {
+      "time": 80.9,
+      "time_str": "01:20.900",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，让我们一起去参加派对吧！"
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "Ah, Ah, Ah, yea.",
+      "translation": null
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "oh,oh,oh,yeah.",
+      "translation": null
+    },
+    {
+      "time": 83.9,
+      "time_str": "01:23.900",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，一起去参加派对"
+    },
+    {
+      "time": 85.9,
+      "time_str": "01:25.900",
+      "text": "uu-oooh.. uu-oooh..",
+      "translation": "喔~喔~"
+    },
+    {
+      "time": 87.9,
+      "time_str": "01:27.900",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，一起去参加派对"
+    },
+    {
+      "time": 89.9,
+      "time_str": "01:29.900",
+      "text": "Ah, Ah, Ah, yea.",
+      "translation": "噢~耶~"
+    },
+    {
+      "time": 91.9,
+      "time_str": "01:31.900",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，一起去参加派对"
+    },
+    {
+      "time": 92.9,
+      "time_str": "01:32.900",
+      "text": "uu-oooh.. uu-oooh..",
+      "translation": "喔~喔~"
+    },
+    {
+      "time": 95.9,
+      "time_str": "01:35.900",
+      "text": "Make me walk, make me talk, do whatever you please,",
+      "translation": "让我走路，让我讲话，做任何你感到满意的事情"
+    },
+    {
+      "time": 101.7,
+      "time_str": "01:41.700",
+      "text": "I can act like a star, I can beg on my knees.",
+      "translation": "我可以像明星一样表演，我可以用我的膝盖来求你"
+    },
+    {
+      "time": 105.4,
+      "time_str": "01:45.400",
+      "text": "Come jump in, be my friend, let us do it again,",
+      "translation": "来吧，跳上车，美丽的朋友，让我们再去玩"
+    },
+    {
+      "time": 109.4,
+      "time_str": "01:49.400",
+      "text": "hit the town, fool around, let's go party.",
+      "translation": "去城镇的每个角落疯狂，让我们去参加派对"
+    },
+    {
+      "time": 112.4,
+      "time_str": "01:52.400",
+      "text": "You can touch, you can play, if you say: \"I'm always yours\"",
+      "translation": "你可以拥抱我，可以和我一起去玩耍，如果你说“我永远是你的”的话"
+    },
+    {
+      "time": 120.4,
+      "time_str": "02:00.400",
+      "text": "You can touch, you can play, if you say: \"I'm always yours\"",
+      "translation": "你可以拥抱我，可以和我一起去玩耍，如果你说“我永远是你的”的话"
+    },
+    {
+      "time": 127.4,
+      "time_str": "02:07.400",
+      "text": "Come on Barbie, let'sgo party!",
+      "translation": "来吧，芭比，让我们一起去参加派对"
+    },
+    {
+      "time": 129.4,
+      "time_str": "02:09.400",
+      "text": "Ah, Ah, Ah, yea.",
+      "translation": "啊~耶~"
+    },
+    {
+      "time": 131.4,
+      "time_str": "02:11.400",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，让我们一起去参加派对"
+    },
+    {
+      "time": 133.4,
+      "time_str": "02:13.400",
+      "text": "uu-oooh.. uu-oooh..",
+      "translation": "喔~噢~"
+    },
+    {
+      "time": 135.4,
+      "time_str": "02:15.400",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，让我们一起去参加派对"
+    },
+    {
+      "time": 137.4,
+      "time_str": "02:17.400",
+      "text": "Ah, Ah, Ah, yea.",
+      "translation": "噢~耶~"
+    },
+    {
+      "time": 139.4,
+      "time_str": "02:19.400",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，让我们一起去参加派对"
+    },
+    {
+      "time": 140.4,
+      "time_str": "02:20.400",
+      "text": "uu-oooh.. uu-oooh..",
+      "translation": "喔~喔~"
+    },
+    {
+      "time": 143.4,
+      "time_str": "02:23.400",
+      "text": "I'm a Barbie girl, in a Barbie world",
+      "translation": "我是一个在芭比世界里的芭比娃娃"
+    },
+    {
+      "time": 147.4,
+      "time_str": "02:27.400",
+      "text": "Life in plastic, it's fantastic.",
+      "translation": "我的身体是塑料做成的，是人凭想象创作出来的"
+    },
+    {
+      "time": 150.4,
+      "time_str": "02:30.400",
+      "text": "You can brush my hair, undress me everywhere.",
+      "translation": "你可以给我梳头，脱下我的衣服，带我去任何地方"
+    },
+    {
+      "time": 154.4,
+      "time_str": "02:34.400",
+      "text": "Imagination, life is your creation.",
+      "translation": "想象，我的生命就在你的创造力"
+    },
+    {
+      "time": 158.6,
+      "time_str": "02:38.600",
+      "text": "I'm a Barbie girl, in a Barbie world",
+      "translation": "我是一个在芭比世界里的芭比娃娃"
+    },
+    {
+      "time": 162.6,
+      "time_str": "02:42.600",
+      "text": "Life in plastic, it's fantastic.",
+      "translation": "我的身体是塑料做成的，是人凭想象创作出来的"
+    },
+    {
+      "time": 166.6,
+      "time_str": "02:46.600",
+      "text": "You can brush my hair, undress me everywhere.",
+      "translation": "你可以给我梳头，脱下我的衣服，带我去任何地方"
+    },
+    {
+      "time": 170.6,
+      "time_str": "02:50.600",
+      "text": "Imagination, life is your creation.",
+      "translation": "想象，我的生命就在你的创造力"
+    },
+    {
+      "time": 173.6,
+      "time_str": "02:53.600",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，让我们一起去参加派对"
+    },
+    {
+      "time": 175.0,
+      "time_str": "02:55.000",
+      "text": "Ah, Ah, Ah, yea.",
+      "translation": "噢~噢~噢"
+    },
+    {
+      "time": 177.0,
+      "time_str": "02:57.000",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，让我们一起去参加派对"
+    },
+    {
+      "time": 179.0,
+      "time_str": "02:59.000",
+      "text": "uu-oooh.. uu-oooh..",
+      "translation": "喔~喔~喔~"
+    },
+    {
+      "time": 180.9,
+      "time_str": "03:00.900",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，让我们一起去参加派对"
+    },
+    {
+      "time": 182.9,
+      "time_str": "03:02.900",
+      "text": "Ah, Ah, Ah, yea.",
+      "translation": "啊~啊~啊~"
+    },
+    {
+      "time": 184.9,
+      "time_str": "03:04.900",
+      "text": "Come on Barbie, let's go party!",
+      "translation": "来吧，芭比，让我们一起去参加派对"
+    },
+    {
+      "time": 186.9,
+      "time_str": "03:06.900",
+      "text": "uu-oooh.. uu-oooh..",
+      "translation": "喔~喔~"
+    },
+    {
+      "time": 188.9,
+      "time_str": "03:08.900",
+      "text": "Oh, I'm having so much fun!",
+      "translation": "芭比：哇哦，我玩的很开心~！"
+    },
+    {
+      "time": 191.9,
+      "time_str": "03:11.900",
+      "text": "Well Barbie, we are just getting started.",
+      "translation": "肯：好吧芭比，这只是快乐的开始~"
+    },
+    {
+      "time": 193.9,
+      "time_str": "03:13.900",
+      "text": "Oh I love you Ken",
+      "translation": "芭比：噢我爱你肯~"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Barbie Girl - Aqua.lrc"
+}

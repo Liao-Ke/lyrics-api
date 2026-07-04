@@ -1,0 +1,340 @@
+{
+  "title": "爱不爱我",
+  "title_raw": "爱不爱我",
+  "version": null,
+  "artist": "零点乐队",
+  "group_key": "爱不爱我|零点乐队",
+  "writers": {
+    "lyricist": "零点乐队",
+    "composer": "零点乐队",
+    "arranger": "零点乐队"
+  },
+  "lyrics": [
+    {
+      "time": 30.98,
+      "time_str": "00:30.980",
+      "text": "你找个理由 让我平衡",
+      "translation": null
+    },
+    {
+      "time": 37.93,
+      "time_str": "00:37.930",
+      "text": "你找个借口 让我接受",
+      "translation": null
+    },
+    {
+      "time": 44.92,
+      "time_str": "00:44.920",
+      "text": "我知道你现在的想法",
+      "translation": null
+    },
+    {
+      "time": 48.05,
+      "time_str": "00:48.050",
+      "text": "而你却看不出我的感受",
+      "translation": null
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "天好黑 风好冷",
+      "translation": null
+    },
+    {
+      "time": 59.02,
+      "time_str": "00:59.020",
+      "text": "你说是时间 把你我捉弄",
+      "translation": null
+    },
+    {
+      "time": 66.0,
+      "time_str": "01:06.000",
+      "text": "现实的生活 难免出现裂缝",
+      "translation": null
+    },
+    {
+      "time": 73.2,
+      "time_str": "01:13.200",
+      "text": "别说是偶然一次放纵",
+      "translation": null
+    },
+    {
+      "time": 76.18,
+      "time_str": "01:16.180",
+      "text": "而我却陷入了困境",
+      "translation": null
+    },
+    {
+      "time": 80.2,
+      "time_str": "01:20.200",
+      "text": "我好累 我好疼",
+      "translation": null
+    },
+    {
+      "time": 86.66,
+      "time_str": "01:26.660",
+      "text": "你到底爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 90.96,
+      "time_str": "01:30.960",
+      "text": "我不知该说些什么",
+      "translation": null
+    },
+    {
+      "time": 94.26,
+      "time_str": "01:34.260",
+      "text": "你爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 98.02,
+      "time_str": "01:38.020",
+      "text": "撕掉虚伪 也许我会好过",
+      "translation": null
+    },
+    {
+      "time": 101.36,
+      "time_str": "01:41.360",
+      "text": "你爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 105.13,
+      "time_str": "01:45.130",
+      "text": "我不知该做些什么",
+      "translation": null
+    },
+    {
+      "time": 107.97,
+      "time_str": "01:47.970",
+      "text": "你到底爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 112.18,
+      "time_str": "01:52.180",
+      "text": "唤醒自己 也就不再难过",
+      "translation": null
+    },
+    {
+      "time": 122.62,
+      "time_str": "02:02.620",
+      "text": "别说是时间 把你我捉弄",
+      "translation": null
+    },
+    {
+      "time": 129.66,
+      "time_str": "02:09.660",
+      "text": "现实的生活 难免出现裂缝",
+      "translation": null
+    },
+    {
+      "time": 136.68,
+      "time_str": "02:16.680",
+      "text": "别说是偶然一次放纵",
+      "translation": null
+    },
+    {
+      "time": 139.72,
+      "time_str": "02:19.720",
+      "text": "而我却陷入了困境",
+      "translation": null
+    },
+    {
+      "time": 143.71,
+      "time_str": "02:23.710",
+      "text": "我好累 我好疼",
+      "translation": null
+    },
+    {
+      "time": 150.35,
+      "time_str": "02:30.350",
+      "text": "你到底爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 154.55,
+      "time_str": "02:34.550",
+      "text": "我不知该说些什么",
+      "translation": null
+    },
+    {
+      "time": 157.88,
+      "time_str": "02:37.880",
+      "text": "你爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 161.61,
+      "time_str": "02:41.610",
+      "text": "撕掉虚伪 也许我会好过",
+      "translation": null
+    },
+    {
+      "time": 164.92,
+      "time_str": "02:44.920",
+      "text": "你爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 168.71,
+      "time_str": "02:48.710",
+      "text": "我不知该做些什么",
+      "translation": null
+    },
+    {
+      "time": 171.56,
+      "time_str": "02:51.560",
+      "text": "你到底爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 175.74,
+      "time_str": "02:55.740",
+      "text": "唤醒自己 也就不再难过",
+      "translation": null
+    },
+    {
+      "time": 211.5,
+      "time_str": "03:31.500",
+      "text": "我情愿背负所有的罪",
+      "translation": null
+    },
+    {
+      "time": 218.58,
+      "time_str": "03:38.580",
+      "text": "也不愿见你伤心落泪",
+      "translation": null
+    },
+    {
+      "time": 225.57,
+      "time_str": "03:45.570",
+      "text": "我情愿忘掉所有的痛",
+      "translation": null
+    },
+    {
+      "time": 232.6,
+      "time_str": "03:52.600",
+      "text": "再一次面对你无知的冲动",
+      "translation": null
+    },
+    {
+      "time": 238.63,
+      "time_str": "03:58.630",
+      "text": "你到底爱不爱我（爱不爱我）",
+      "translation": null
+    },
+    {
+      "time": 242.83,
+      "time_str": "04:02.830",
+      "text": "我不知该说些什么",
+      "translation": null
+    },
+    {
+      "time": 245.69,
+      "time_str": "04:05.690",
+      "text": "你到底爱不爱我（爱不爱我）",
+      "translation": null
+    },
+    {
+      "time": 249.89,
+      "time_str": "04:09.890",
+      "text": "撕掉虚伪 也许我会好过",
+      "translation": null
+    },
+    {
+      "time": 253.15,
+      "time_str": "04:13.150",
+      "text": "你爱不爱我（爱不爱我）",
+      "translation": null
+    },
+    {
+      "time": 256.98,
+      "time_str": "04:16.980",
+      "text": "我不知该做些什么",
+      "translation": null
+    },
+    {
+      "time": 259.78,
+      "time_str": "04:19.780",
+      "text": "你到底爱不爱我（爱不爱我）",
+      "translation": null
+    },
+    {
+      "time": 264.06,
+      "time_str": "04:24.060",
+      "text": "唤醒自己 也就不再难过",
+      "translation": null
+    },
+    {
+      "time": 267.35,
+      "time_str": "04:27.350",
+      "text": "你爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 271.05,
+      "time_str": "04:31.050",
+      "text": "我不知该说些什么",
+      "translation": null
+    },
+    {
+      "time": 273.96,
+      "time_str": "04:33.960",
+      "text": "你到底爱不爱我（爱不爱我）",
+      "translation": null
+    },
+    {
+      "time": 278.13,
+      "time_str": "04:38.130",
+      "text": "撕掉虚伪 也许我会好过",
+      "translation": null
+    },
+    {
+      "time": 281.36,
+      "time_str": "04:41.360",
+      "text": "你爱不爱我（爱不爱我）",
+      "translation": null
+    },
+    {
+      "time": 285.17,
+      "time_str": "04:45.170",
+      "text": "我不知该做些什么",
+      "translation": null
+    },
+    {
+      "time": 287.98,
+      "time_str": "04:47.980",
+      "text": "你到底爱不爱我（爱不爱我）",
+      "translation": null
+    },
+    {
+      "time": 292.25,
+      "time_str": "04:52.250",
+      "text": "唤醒自己 也就不再难过",
+      "translation": null
+    },
+    {
+      "time": 302.26,
+      "time_str": "05:02.260",
+      "text": "你到底爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 306.37,
+      "time_str": "05:06.370",
+      "text": "爱不爱我",
+      "translation": null
+    },
+    {
+      "time": 309.97,
+      "time_str": "05:09.970",
+      "text": "爱不爱我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱不爱我 - 零点乐队.lrc"
+}

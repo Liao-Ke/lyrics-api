@@ -1,0 +1,178 @@
+{
+  "title": "只有你最好",
+  "title_raw": "只有你最好",
+  "version": null,
+  "artist": "李殊",
+  "group_key": "只有你最好|李殊",
+  "writers": {
+    "lyricist": "易茗",
+    "composer": "阿罗",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.83,
+      "time_str": "00:00.830",
+      "text": "只有你最好",
+      "translation": null
+    },
+    {
+      "time": 15.4,
+      "time_str": "00:15.400",
+      "text": "早已经不再寻找",
+      "translation": null
+    },
+    {
+      "time": 22.47,
+      "time_str": "00:22.470",
+      "text": "却难忘旧日怀抱",
+      "translation": null
+    },
+    {
+      "time": 29.16,
+      "time_str": "00:29.160",
+      "text": "任岁岁花开花落",
+      "translation": null
+    },
+    {
+      "time": 36.0,
+      "time_str": "00:36.000",
+      "text": "寂寞中不会再笑",
+      "translation": null
+    },
+    {
+      "time": 43.75,
+      "time_str": "00:43.750",
+      "text": "温柔一缕不能断绝",
+      "translation": null
+    },
+    {
+      "time": 50.47,
+      "time_str": "00:50.470",
+      "text": "借用恨来用刀",
+      "translation": null
+    },
+    {
+      "time": 57.47,
+      "time_str": "00:57.470",
+      "text": "忍心伤害你痛我痛",
+      "translation": null
+    },
+    {
+      "time": 63.41,
+      "time_str": "01:03.410",
+      "text": "斩不断情义如潮",
+      "translation": null
+    },
+    {
+      "time": 70.3,
+      "time_str": "01:10.300",
+      "text": "风吹热泪黄叶飘飘",
+      "translation": null
+    },
+    {
+      "time": 77.17,
+      "time_str": "01:17.170",
+      "text": "年年为你祈祷",
+      "translation": null
+    },
+    {
+      "time": 84.08,
+      "time_str": "01:24.080",
+      "text": "过去和现在我都知道",
+      "translation": null
+    },
+    {
+      "time": 91.31,
+      "time_str": "01:31.310",
+      "text": "只有只有你最好",
+      "translation": null
+    },
+    {
+      "time": 121.84,
+      "time_str": "02:01.840",
+      "text": "纵然你已经去了",
+      "translation": null
+    },
+    {
+      "time": 128.78,
+      "time_str": "02:08.780",
+      "text": "在梦中守住欢笑",
+      "translation": null
+    },
+    {
+      "time": 135.58,
+      "time_str": "02:15.580",
+      "text": "我的爱一生一次",
+      "translation": null
+    },
+    {
+      "time": 142.34,
+      "time_str": "02:22.340",
+      "text": "只投入你的怀抱",
+      "translation": null
+    },
+    {
+      "time": 149.82,
+      "time_str": "02:29.820",
+      "text": "温柔一缕不能断绝",
+      "translation": null
+    },
+    {
+      "time": 156.82,
+      "time_str": "02:36.820",
+      "text": "借用恨来用刀",
+      "translation": null
+    },
+    {
+      "time": 163.41,
+      "time_str": "02:43.410",
+      "text": "忍心伤害你痛我痛",
+      "translation": null
+    },
+    {
+      "time": 169.71,
+      "time_str": "02:49.710",
+      "text": "斩不断情义如潮",
+      "translation": null
+    },
+    {
+      "time": 176.66,
+      "time_str": "02:56.660",
+      "text": "风吹热泪黄叶飘飘",
+      "translation": null
+    },
+    {
+      "time": 183.4,
+      "time_str": "03:03.400",
+      "text": "年年为你祈祷",
+      "translation": null
+    },
+    {
+      "time": 190.12,
+      "time_str": "03:10.120",
+      "text": "过去和现在我都知道",
+      "translation": null
+    },
+    {
+      "time": 197.65,
+      "time_str": "03:17.650",
+      "text": "只有只有你最好",
+      "translation": null
+    },
+    {
+      "time": 204.18,
+      "time_str": "03:24.180",
+      "text": "过去和现在我都知道",
+      "translation": null
+    },
+    {
+      "time": 211.27,
+      "time_str": "03:31.270",
+      "text": "只有只有你最好",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "只有你最好 - 李殊.lrc"
+}

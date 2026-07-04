@@ -1,0 +1,340 @@
+{
+  "title": "爱你爱到无路可退",
+  "title_raw": "爱你爱到无路可退",
+  "version": null,
+  "artist": "群星",
+  "group_key": "爱你爱到无路可退|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.54,
+      "time_str": "00:01.540",
+      "text": "爱你爱到无路可退",
+      "translation": null
+    },
+    {
+      "time": 5.91,
+      "time_str": "00:05.910",
+      "text": "演唱 龙川",
+      "translation": null
+    },
+    {
+      "time": 16.95,
+      "time_str": "00:16.950",
+      "text": "我已经爱你爱到无路可退",
+      "translation": null
+    },
+    {
+      "time": 21.31,
+      "time_str": "00:21.310",
+      "text": "别看见我流泪却无所谓",
+      "translation": null
+    },
+    {
+      "time": 24.8,
+      "time_str": "00:24.800",
+      "text": "没有人安慰 一个人伤悲",
+      "translation": null
+    },
+    {
+      "time": 29.1,
+      "time_str": "00:29.100",
+      "text": "谁能够体会",
+      "translation": null
+    },
+    {
+      "time": 32.41,
+      "time_str": "00:32.410",
+      "text": "我已经爱你爱到无路可退",
+      "translation": null
+    },
+    {
+      "time": 36.62,
+      "time_str": "00:36.620",
+      "text": "别看见我流泪却无所谓",
+      "translation": null
+    },
+    {
+      "time": 40.28,
+      "time_str": "00:40.280",
+      "text": "哪怕是虚伪 也不会后悔",
+      "translation": null
+    },
+    {
+      "time": 44.51,
+      "time_str": "00:44.510",
+      "text": "就让我一个人背 所有的罪",
+      "translation": null
+    },
+    {
+      "time": 52.62,
+      "time_str": "00:52.620",
+      "text": "孤独的夜里只剩疲惫",
+      "translation": null
+    },
+    {
+      "time": 56.37,
+      "time_str": "00:56.370",
+      "text": "迷茫眼眶渗出颓废",
+      "translation": null
+    },
+    {
+      "time": 60.19,
+      "time_str": "01:00.190",
+      "text": "你说是我给的太累",
+      "translation": null
+    },
+    {
+      "time": 63.81,
+      "time_str": "01:03.810",
+      "text": "才让你想要去飞",
+      "translation": null
+    },
+    {
+      "time": 67.98,
+      "time_str": "01:07.980",
+      "text": "爱情开始的时候最美",
+      "translation": null
+    },
+    {
+      "time": 71.8,
+      "time_str": "01:11.800",
+      "text": "到了尽头只剩虚伪",
+      "translation": null
+    },
+    {
+      "time": 75.4,
+      "time_str": "01:15.400",
+      "text": "什么方式可以挽回",
+      "translation": null
+    },
+    {
+      "time": 79.22,
+      "time_str": "01:19.220",
+      "text": "这颗心伤痕累累",
+      "translation": null
+    },
+    {
+      "time": 84.79,
+      "time_str": "01:24.790",
+      "text": "我已经爱你爱到无路可退",
+      "translation": null
+    },
+    {
+      "time": 89.08,
+      "time_str": "01:29.080",
+      "text": "别看见我流泪却无所谓",
+      "translation": null
+    },
+    {
+      "time": 92.71,
+      "time_str": "01:32.710",
+      "text": "没有人安慰 一个人伤悲",
+      "translation": null
+    },
+    {
+      "time": 96.86,
+      "time_str": "01:36.860",
+      "text": "谁能够体会",
+      "translation": null
+    },
+    {
+      "time": 100.18,
+      "time_str": "01:40.180",
+      "text": "我已经爱你爱到无路可退",
+      "translation": null
+    },
+    {
+      "time": 104.44,
+      "time_str": "01:44.440",
+      "text": "别看见我流泪却无所谓",
+      "translation": null
+    },
+    {
+      "time": 108.11,
+      "time_str": "01:48.110",
+      "text": "哪怕是虚伪 也不会后悔",
+      "translation": null
+    },
+    {
+      "time": 112.43,
+      "time_str": "01:52.430",
+      "text": "就让我一个人背 所有的罪",
+      "translation": null
+    },
+    {
+      "time": 151.09,
+      "time_str": "02:31.090",
+      "text": "孤独的夜里只剩疲惫",
+      "translation": null
+    },
+    {
+      "time": 154.89,
+      "time_str": "02:34.890",
+      "text": "迷茫眼眶渗出颓废",
+      "translation": null
+    },
+    {
+      "time": 158.65,
+      "time_str": "02:38.650",
+      "text": "你说是我给的太累",
+      "translation": null
+    },
+    {
+      "time": 162.28,
+      "time_str": "02:42.280",
+      "text": "才让你想要去飞",
+      "translation": null
+    },
+    {
+      "time": 166.52,
+      "time_str": "02:46.520",
+      "text": "爱情开始的时候最美",
+      "translation": null
+    },
+    {
+      "time": 170.35,
+      "time_str": "02:50.350",
+      "text": "到了尽头只剩虚伪",
+      "translation": null
+    },
+    {
+      "time": 174.16,
+      "time_str": "02:54.160",
+      "text": "什么方式可以挽回",
+      "translation": null
+    },
+    {
+      "time": 177.98,
+      "time_str": "02:57.980",
+      "text": "这颗心伤痕累累",
+      "translation": null
+    },
+    {
+      "time": 183.2,
+      "time_str": "03:03.200",
+      "text": "我已经爱你爱到无路可退",
+      "translation": null
+    },
+    {
+      "time": 187.74,
+      "time_str": "03:07.740",
+      "text": "别看见我流泪却无所谓",
+      "translation": null
+    },
+    {
+      "time": 191.27,
+      "time_str": "03:11.270",
+      "text": "没有人安慰 一个人伤悲",
+      "translation": null
+    },
+    {
+      "time": 195.41,
+      "time_str": "03:15.410",
+      "text": "谁能够体会",
+      "translation": null
+    },
+    {
+      "time": 198.79,
+      "time_str": "03:18.790",
+      "text": "我已经爱你爱到无路可退",
+      "translation": null
+    },
+    {
+      "time": 203.07,
+      "time_str": "03:23.070",
+      "text": "别看见我流泪却无所谓",
+      "translation": null
+    },
+    {
+      "time": 206.71,
+      "time_str": "03:26.710",
+      "text": "哪怕是虚伪 也不会后悔",
+      "translation": null
+    },
+    {
+      "time": 211.03,
+      "time_str": "03:31.030",
+      "text": "就让我一个人背 所有的罪",
+      "translation": null
+    },
+    {
+      "time": 219.51,
+      "time_str": "03:39.510",
+      "text": "那些曾经依然那么美",
+      "translation": null
+    },
+    {
+      "time": 222.73,
+      "time_str": "03:42.730",
+      "text": "我如何面对",
+      "translation": null
+    },
+    {
+      "time": 226.63,
+      "time_str": "03:46.630",
+      "text": "你是我一生的醉",
+      "translation": null
+    },
+    {
+      "time": 230.28,
+      "time_str": "03:50.280",
+      "text": "也是我一生的负累",
+      "translation": null
+    },
+    {
+      "time": 235.78,
+      "time_str": "03:55.780",
+      "text": "我已经爱你爱到无路可退",
+      "translation": null
+    },
+    {
+      "time": 239.95,
+      "time_str": "03:59.950",
+      "text": "别看见我流泪却无所谓",
+      "translation": null
+    },
+    {
+      "time": 243.6,
+      "time_str": "04:03.600",
+      "text": "没有人安慰 一个人伤悲",
+      "translation": null
+    },
+    {
+      "time": 247.75,
+      "time_str": "04:07.750",
+      "text": "谁能够体会",
+      "translation": null
+    },
+    {
+      "time": 251.05,
+      "time_str": "04:11.050",
+      "text": "我已经爱你爱到无路可退",
+      "translation": null
+    },
+    {
+      "time": 255.42,
+      "time_str": "04:15.420",
+      "text": "别看见我流泪却无所谓",
+      "translation": null
+    },
+    {
+      "time": 258.95,
+      "time_str": "04:18.950",
+      "text": "哪怕是虚伪 也不会后悔",
+      "translation": null
+    },
+    {
+      "time": 263.27,
+      "time_str": "04:23.270",
+      "text": "就让我一个人背 所有的罪",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱你爱到无路可退 - 群星.lrc"
+}

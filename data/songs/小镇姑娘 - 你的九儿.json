@@ -1,0 +1,430 @@
+{
+  "title": "小镇姑娘",
+  "title_raw": "小镇姑娘",
+  "version": null,
+  "artist": "你的九儿",
+  "group_key": "小镇姑娘|你的九儿",
+  "writers": {
+    "lyricist": "陶喆",
+    "composer": "陶喆",
+    "arranger": "安念"
+  },
+  "lyrics": [
+    {
+      "time": 0.548,
+      "time_str": "00:00.548",
+      "text": "还记得多年前跟你手牵手",
+      "translation": null
+    },
+    {
+      "time": 7.169,
+      "time_str": "00:07.169",
+      "text": "还记得多年前跟你手牵手",
+      "translation": null
+    },
+    {
+      "time": 10.508,
+      "time_str": "00:10.508",
+      "text": "你都害羞的不敢抬头",
+      "translation": null
+    },
+    {
+      "time": 13.847,
+      "time_str": "00:13.847",
+      "text": "只会傻傻的看着天上的星星",
+      "translation": null
+    },
+    {
+      "time": 17.37,
+      "time_str": "00:17.370",
+      "text": "你就是那么的纯净",
+      "translation": null
+    },
+    {
+      "time": 20.269,
+      "time_str": "00:20.269",
+      "text": "知道你收到上榜的通知单",
+      "translation": null
+    },
+    {
+      "time": 23.892,
+      "time_str": "00:23.892",
+      "text": "我的心里就变得很乱",
+      "translation": null
+    },
+    {
+      "time": 27.132,
+      "time_str": "00:27.132",
+      "text": "不知为你而高兴还为自己忧愁",
+      "translation": null
+    },
+    {
+      "time": 30.897,
+      "time_str": "00:30.897",
+      "text": "只好就放你走",
+      "translation": null
+    },
+    {
+      "time": 33.326,
+      "time_str": "00:33.326",
+      "text": "不明白",
+      "translation": null
+    },
+    {
+      "time": 36.367,
+      "time_str": "00:36.367",
+      "text": "不明白",
+      "translation": null
+    },
+    {
+      "time": 36.893,
+      "time_str": "00:36.893",
+      "text": "为什么我不能放得开",
+      "translation": null
+    },
+    {
+      "time": 40.033,
+      "time_str": "00:40.033",
+      "text": "舍不得",
+      "translation": null
+    },
+    {
+      "time": 42.462,
+      "time_str": "00:42.462",
+      "text": "这个爱",
+      "translation": null
+    },
+    {
+      "time": 43.372,
+      "time_str": "00:43.372",
+      "text": "你是一生一世不会了解",
+      "translation": null
+    },
+    {
+      "time": 46.654,
+      "time_str": "00:46.654",
+      "text": "我明白",
+      "translation": null
+    },
+    {
+      "time": 48.316,
+      "time_str": "00:48.316",
+      "text": "我明白",
+      "translation": null
+    },
+    {
+      "time": 49.851,
+      "time_str": "00:49.851",
+      "text": "在我心中你永远存在",
+      "translation": null
+    },
+    {
+      "time": 54.227,
+      "time_str": "00:54.227",
+      "text": "或许你会有一天怀念",
+      "translation": null
+    },
+    {
+      "time": 57.324,
+      "time_str": "00:57.324",
+      "text": "可是我已不在",
+      "translation": null
+    },
+    {
+      "time": 73.564,
+      "time_str": "01:13.564",
+      "text": "还记得一开始你不能适应",
+      "translation": null
+    },
+    {
+      "time": 77.131,
+      "time_str": "01:17.131",
+      "text": "那个忙乱又吵的环境",
+      "translation": null
+    },
+    {
+      "time": 80.512,
+      "time_str": "01:20.512",
+      "text": "一个小镇的姑娘到了大城市",
+      "translation": null
+    },
+    {
+      "time": 84.036,
+      "time_str": "01:24.036",
+      "text": "你一定听过这故事",
+      "translation": null
+    },
+    {
+      "time": 86.892,
+      "time_str": "01:26.892",
+      "text": "当你最寂寞的时刻我陪伴你",
+      "translation": null
+    },
+    {
+      "time": 90.472,
+      "time_str": "01:30.472",
+      "text": "给你我的安慰和鼓励",
+      "translation": null
+    },
+    {
+      "time": 93.797,
+      "time_str": "01:33.797",
+      "text": "自己矛盾的私心让我每天忧愁",
+      "translation": null
+    },
+    {
+      "time": 97.52,
+      "time_str": "01:37.520",
+      "text": "只好就让你走",
+      "translation": null
+    },
+    {
+      "time": 100.049,
+      "time_str": "01:40.049",
+      "text": "不明白",
+      "translation": null
+    },
+    {
+      "time": 101.612,
+      "time_str": "01:41.612",
+      "text": "不明白",
+      "translation": null
+    },
+    {
+      "time": 103.331,
+      "time_str": "01:43.331",
+      "text": "为什么我不能放得开",
+      "translation": null
+    },
+    {
+      "time": 106.613,
+      "time_str": "01:46.613",
+      "text": "舍不得",
+      "translation": null
+    },
+    {
+      "time": 108.19,
+      "time_str": "01:48.190",
+      "text": "这个爱",
+      "translation": null
+    },
+    {
+      "time": 109.853,
+      "time_str": "01:49.853",
+      "text": "你是一生一世不会了解",
+      "translation": null
+    },
+    {
+      "time": 113.334,
+      "time_str": "01:53.334",
+      "text": "我明白",
+      "translation": null
+    },
+    {
+      "time": 114.953,
+      "time_str": "01:54.953",
+      "text": "我明白",
+      "translation": null
+    },
+    {
+      "time": 116.573,
+      "time_str": "01:56.573",
+      "text": "在我心中你永远存在",
+      "translation": null
+    },
+    {
+      "time": 121.233,
+      "time_str": "02:01.233",
+      "text": "或许你会有一天怀念",
+      "translation": null
+    },
+    {
+      "time": 124.089,
+      "time_str": "02:04.089",
+      "text": "可是我已不在",
+      "translation": null
+    },
+    {
+      "time": 127.045,
+      "time_str": "02:07.045",
+      "text": "还记得一年前站在火车站",
+      "translation": null
+    },
+    {
+      "time": 130.526,
+      "time_str": "02:10.526",
+      "text": "看着自己的悲剧演完",
+      "translation": null
+    },
+    {
+      "time": 133.836,
+      "time_str": "02:13.836",
+      "text": "透过玻璃窗看见你的泪满面",
+      "translation": null
+    },
+    {
+      "time": 137.289,
+      "time_str": "02:17.289",
+      "text": "那车头依然吐着烟",
+      "translation": null
+    },
+    {
+      "time": 140.045,
+      "time_str": "02:20.045",
+      "text": "听说现在的你成了大经理",
+      "translation": null
+    },
+    {
+      "time": 143.768,
+      "time_str": "02:23.768",
+      "text": "前途好比闪亮的星星",
+      "translation": null
+    },
+    {
+      "time": 147.093,
+      "time_str": "02:27.093",
+      "text": "我只希望这所有能够让你欢喜",
+      "translation": null
+    },
+    {
+      "time": 150.758,
+      "time_str": "02:30.758",
+      "text": "我才能放心走",
+      "translation": null
+    },
+    {
+      "time": 153.429,
+      "time_str": "02:33.429",
+      "text": "不明白",
+      "translation": null
+    },
+    {
+      "time": 154.907,
+      "time_str": "02:34.907",
+      "text": "不明白",
+      "translation": null
+    },
+    {
+      "time": 156.669,
+      "time_str": "02:36.669",
+      "text": "为什么我不能放得开",
+      "translation": null
+    },
+    {
+      "time": 160.093,
+      "time_str": "02:40.093",
+      "text": "舍不得",
+      "translation": null
+    },
+    {
+      "time": 161.713,
+      "time_str": "02:41.713",
+      "text": "这个爱",
+      "translation": null
+    },
+    {
+      "time": 163.333,
+      "time_str": "02:43.333",
+      "text": "你是一生一世不会了解",
+      "translation": null
+    },
+    {
+      "time": 166.672,
+      "time_str": "02:46.672",
+      "text": "我明白",
+      "translation": null
+    },
+    {
+      "time": 168.377,
+      "time_str": "02:48.377",
+      "text": "我明白",
+      "translation": null
+    },
+    {
+      "time": 170.053,
+      "time_str": "02:50.053",
+      "text": "在我心中你永远存在",
+      "translation": null
+    },
+    {
+      "time": 174.671,
+      "time_str": "02:54.671",
+      "text": "或许你会有一天怀念",
+      "translation": null
+    },
+    {
+      "time": 177.342,
+      "time_str": "02:57.342",
+      "text": "可是我已不在",
+      "translation": null
+    },
+    {
+      "time": 181.391,
+      "time_str": "03:01.391",
+      "text": "或许你会有一天怀念",
+      "translation": null
+    },
+    {
+      "time": 184.247,
+      "time_str": "03:04.247",
+      "text": "可是我已不在",
+      "translation": null
+    },
+    {
+      "time": 188.197,
+      "time_str": "03:08.197",
+      "text": "或许你会有一天怀念",
+      "translation": null
+    },
+    {
+      "time": 189.995,
+      "time_str": "03:09.995",
+      "text": "原唱 : 陶喆",
+      "translation": null
+    },
+    {
+      "time": 190.379,
+      "time_str": "03:10.379",
+      "text": "总策划 : 陈莹",
+      "translation": null
+    },
+    {
+      "time": 190.763,
+      "time_str": "03:10.763",
+      "text": "企划 : 牛雪吟 潘俊",
+      "translation": null
+    },
+    {
+      "time": 191.147,
+      "time_str": "03:11.147",
+      "text": "统筹 : 袁晓童 黄嘉慧",
+      "translation": null
+    },
+    {
+      "time": 192.683,
+      "time_str": "03:12.683",
+      "text": "SP : Warner Chappell Music Publishing Agency (Beijing) Ltd.",
+      "translation": null
+    },
+    {
+      "time": 193.067,
+      "time_str": "03:13.067",
+      "text": "本歌曲来自〖网易音乐人〗",
+      "translation": null
+    },
+    {
+      "time": 193.835,
+      "time_str": "03:13.835",
+      "text": "10亿现金激励，千亿流量扶持！",
+      "translation": null
+    },
+    {
+      "time": 194.603,
+      "time_str": "03:14.603",
+      "text": "合作：st399@vip.163.com",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "小镇姑娘 - 你的九儿.lrc"
+}

@@ -1,0 +1,802 @@
+{
+  "title": "Bad Romance",
+  "title_raw": "Bad Romance (Radio Edit)",
+  "version": "Radio Edit",
+  "artist": "Lady Gaga",
+  "group_key": "bad romance|lady gaga",
+  "writers": {
+    "lyricist": "Lady Gaga/RedOne",
+    "composer": "RedOne/Lady Gaga",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.46,
+      "time_str": "00:00.460",
+      "text": "Oh-oh-oh-oh-oooh",
+      "translation": "噢-噢-噢-噢-哦"
+    },
+    {
+      "time": 3.85,
+      "time_str": "00:03.850",
+      "text": "Oh-oh-oooh-oh-oh",
+      "translation": "噢-噢-哦-噢-噢"
+    },
+    {
+      "time": 5.3,
+      "time_str": "00:05.300",
+      "text": "Caught in a bad romance",
+      "translation": "陷入一场糟糕的浪漫"
+    },
+    {
+      "time": 8.2,
+      "time_str": "00:08.200",
+      "text": "Oh-oh-oh-oh-oooh",
+      "translation": "噢-噢-噢-噢-哦"
+    },
+    {
+      "time": 12.3,
+      "time_str": "00:12.300",
+      "text": "Oh-oh-oooh-oh-oh",
+      "translation": "噢-噢-哦-噢-噢"
+    },
+    {
+      "time": 13.35,
+      "time_str": "00:13.350",
+      "text": "Caught in a bad romance",
+      "translation": "陷入一场糟糕的浪漫"
+    },
+    {
+      "time": 17.35,
+      "time_str": "00:17.350",
+      "text": "Rah-rah-ah-ah-ah",
+      "translation": "啦-啦-啊-啊-啊-啊"
+    },
+    {
+      "time": 19.57,
+      "time_str": "00:19.570",
+      "text": "Rrum-mu-rrum-mum-mah",
+      "translation": "鲁姆-姆-鲁姆-嘛-嘛"
+    },
+    {
+      "time": 21.39,
+      "time_str": "00:21.390",
+      "text": "GaGa-oo-la-la",
+      "translation": "嘎嘎 呜 啦 啦"
+    },
+    {
+      "time": 23.63,
+      "time_str": "00:23.630",
+      "text": "Want your bad romance",
+      "translation": "想要你糟糕的浪漫"
+    },
+    {
+      "time": 25.92,
+      "time_str": "00:25.920",
+      "text": "Rah-rah-ah-ah-ah",
+      "translation": "啦-啦-啊-啊-啊-啊"
+    },
+    {
+      "time": 27.69,
+      "time_str": "00:27.690",
+      "text": "Rrum-mu-rrum-mum-mah",
+      "translation": "鲁姆-姆-鲁姆-嘛-嘛"
+    },
+    {
+      "time": 29.46,
+      "time_str": "00:29.460",
+      "text": "GaGa-oo-la-la",
+      "translation": "嘎嘎 呜 啦 啦"
+    },
+    {
+      "time": 31.76,
+      "time_str": "00:31.760",
+      "text": "Want your bad romance",
+      "translation": "想要你糟糕的浪漫"
+    },
+    {
+      "time": 33.66,
+      "time_str": "00:33.660",
+      "text": "I want your ugly",
+      "translation": "我想要你的丑陋"
+    },
+    {
+      "time": 35.62,
+      "time_str": "00:35.620",
+      "text": "I want your disease",
+      "translation": "我想要你的病态"
+    },
+    {
+      "time": 37.72,
+      "time_str": "00:37.720",
+      "text": "I want your everything",
+      "translation": "我想要你的一切"
+    },
+    {
+      "time": 39.67,
+      "time_str": "00:39.670",
+      "text": "As long as it's free",
+      "translation": "只要它是免费的"
+    },
+    {
+      "time": 41.32,
+      "time_str": "00:41.320",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 43.62,
+      "time_str": "00:43.620",
+      "text": "Love-love-love",
+      "translation": "爱爱爱"
+    },
+    {
+      "time": 45.3,
+      "time_str": "00:45.300",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 49.87,
+      "time_str": "00:49.870",
+      "text": "I want your drama",
+      "translation": "我想要你的戏剧"
+    },
+    {
+      "time": 51.39,
+      "time_str": "00:51.390",
+      "text": "The touch of your hand",
+      "translation": "想要你手的触摸"
+    },
+    {
+      "time": 53.97,
+      "time_str": "00:53.970",
+      "text": "I want you leather studded kiss in the scene",
+      "translation": "想要你皮衣亲吻在沙滩留下的印记"
+    },
+    {
+      "time": 56.95,
+      "time_str": "00:56.950",
+      "text": "And I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 59.69,
+      "time_str": "00:59.690",
+      "text": "Love-love-love",
+      "translation": "爱爱爱"
+    },
+    {
+      "time": 60.98,
+      "time_str": "01:00.980",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 61.86,
+      "time_str": "01:01.860",
+      "text": "Love-love-love",
+      "translation": "爱爱爱"
+    },
+    {
+      "time": 63.9,
+      "time_str": "01:03.900",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 65.98,
+      "time_str": "01:05.980",
+      "text": "You know that I want you",
+      "translation": "你知道我想要你"
+    },
+    {
+      "time": 68.19,
+      "time_str": "01:08.190",
+      "text": "And you know that I need you",
+      "translation": "你知道我需要你"
+    },
+    {
+      "time": 70.6,
+      "time_str": "01:10.600",
+      "text": "I want your bad",
+      "translation": "我想要你糟糕的"
+    },
+    {
+      "time": 71.81,
+      "time_str": "01:11.810",
+      "text": "your Bad romance",
+      "translation": "你糟糕的浪漫"
+    },
+    {
+      "time": 73.98,
+      "time_str": "01:13.980",
+      "text": "I want your love and",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 75.32,
+      "time_str": "01:15.320",
+      "text": "I want your revenge",
+      "translation": "我想要你的报复"
+    },
+    {
+      "time": 77.1,
+      "time_str": "01:17.100",
+      "text": "You and me could write a bad romance",
+      "translation": "你和我可以谱写一段糟糕的浪漫"
+    },
+    {
+      "time": 82.2,
+      "time_str": "01:22.200",
+      "text": "I want your love and",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 83.59,
+      "time_str": "01:23.590",
+      "text": "All your lover’s revenge",
+      "translation": "和所有爱人的报复"
+    },
+    {
+      "time": 85.15,
+      "time_str": "01:25.150",
+      "text": "You and me could write a bad romance",
+      "translation": "你和我可以谱写一段糟糕的浪漫"
+    },
+    {
+      "time": 89.3,
+      "time_str": "01:29.300",
+      "text": "Oh-oh-oh-oh-oooh",
+      "translation": "噢噢噢 哦哦"
+    },
+    {
+      "time": 90.84,
+      "time_str": "01:30.840",
+      "text": "Oh-oh-oooh-oh-oh",
+      "translation": "噢噢噢 哦哦"
+    },
+    {
+      "time": 94.9,
+      "time_str": "01:34.900",
+      "text": "Caught in a bad romance",
+      "translation": "陷入一场糟糕的浪漫"
+    },
+    {
+      "time": 97.0,
+      "time_str": "01:37.000",
+      "text": "Oh-oh-oh-oh-oooh",
+      "translation": "噢噢噢 哦哦"
+    },
+    {
+      "time": 98.78,
+      "time_str": "01:38.780",
+      "text": "Oh-oh-oooh-oh-oh",
+      "translation": "噢噢噢 哦哦"
+    },
+    {
+      "time": 102.8,
+      "time_str": "01:42.800",
+      "text": "Caught in a bad romance",
+      "translation": "陷入一场糟糕的浪漫"
+    },
+    {
+      "time": 106.3,
+      "time_str": "01:46.300",
+      "text": "Rah-rah-ah-ah-ah",
+      "translation": "啦-啦-啊-啊-啊-啊"
+    },
+    {
+      "time": 108.39,
+      "time_str": "01:48.390",
+      "text": "Rrum-mu-mum-mum-mah",
+      "translation": "鲁姆-姆-鲁姆-嘛-嘛"
+    },
+    {
+      "time": 110.12,
+      "time_str": "01:50.120",
+      "text": "GaGa-oo-la-la",
+      "translation": "嘎嘎 呜 啦 啦"
+    },
+    {
+      "time": 112.38,
+      "time_str": "01:52.380",
+      "text": "Want your bad romance",
+      "translation": "想要你糟糕的浪漫"
+    },
+    {
+      "time": 114.44,
+      "time_str": "01:54.440",
+      "text": "I want your horror",
+      "translation": "我想要你的恐惧"
+    },
+    {
+      "time": 115.92,
+      "time_str": "01:55.920",
+      "text": "I want your design",
+      "translation": "我想要你的设计"
+    },
+    {
+      "time": 118.45,
+      "time_str": "01:58.450",
+      "text": "'Cause you're a criminal",
+      "translation": "因为你是个罪犯"
+    },
+    {
+      "time": 120.2,
+      "time_str": "02:00.200",
+      "text": "As long as you're mine",
+      "translation": "因为你是个罪犯"
+    },
+    {
+      "time": 121.46,
+      "time_str": "02:01.460",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 124.24,
+      "time_str": "02:04.240",
+      "text": "Love-love-love",
+      "translation": "爱爱爱"
+    },
+    {
+      "time": 125.53,
+      "time_str": "02:05.530",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 130.53,
+      "time_str": "02:10.530",
+      "text": "I want your psycho",
+      "translation": "我想要你的疯狂"
+    },
+    {
+      "time": 132.5,
+      "time_str": "02:12.500",
+      "text": "Your vertical stick",
+      "translation": "你的眩晕棒"
+    },
+    {
+      "time": 134.62,
+      "time_str": "02:14.620",
+      "text": "Want you in my rear window",
+      "translation": "想你在我的后窗"
+    },
+    {
+      "time": 136.2,
+      "time_str": "02:16.200",
+      "text": "When your baby is sick",
+      "translation": "宝贝你病得不轻"
+    },
+    {
+      "time": 137.61,
+      "time_str": "02:17.610",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 140.35,
+      "time_str": "02:20.350",
+      "text": "Love-love-love",
+      "translation": "爱爱爱"
+    },
+    {
+      "time": 141.71,
+      "time_str": "02:21.710",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 142.43,
+      "time_str": "02:22.430",
+      "text": "Love-love-love",
+      "translation": "爱爱爱"
+    },
+    {
+      "time": 143.81,
+      "time_str": "02:23.810",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 146.76,
+      "time_str": "02:26.760",
+      "text": "You know that I want you",
+      "translation": "你知道我想要你"
+    },
+    {
+      "time": 148.84,
+      "time_str": "02:28.840",
+      "text": "And you know that I need you",
+      "translation": "你知道我需要你"
+    },
+    {
+      "time": 150.81,
+      "time_str": "02:30.810",
+      "text": "I want your bad",
+      "translation": "我想要你糟糕的"
+    },
+    {
+      "time": 152.47,
+      "time_str": "02:32.470",
+      "text": "your Bad romance",
+      "translation": "你糟糕的浪漫"
+    },
+    {
+      "time": 154.7,
+      "time_str": "02:34.700",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 156.1,
+      "time_str": "02:36.100",
+      "text": "And I want your revenge",
+      "translation": "我想要你的报复"
+    },
+    {
+      "time": 157.8,
+      "time_str": "02:37.800",
+      "text": "You and me could write a bad romance",
+      "translation": "你和我可以谱写一段糟糕的浪漫"
+    },
+    {
+      "time": 162.85,
+      "time_str": "02:42.850",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 164.7,
+      "time_str": "02:44.700",
+      "text": "All your lover’s revenge",
+      "translation": "和所有爱人的报复"
+    },
+    {
+      "time": 165.85,
+      "time_str": "02:45.850",
+      "text": "You and me could write a bad romance",
+      "translation": "你和我可以谱写一段糟糕的浪漫"
+    },
+    {
+      "time": 169.7,
+      "time_str": "02:49.700",
+      "text": "Oh-oh-oh-oh-oooh",
+      "translation": "噢噢噢噢 哦哦"
+    },
+    {
+      "time": 171.44,
+      "time_str": "02:51.440",
+      "text": "Oh-oh-oooh-oh-oh",
+      "translation": "噢噢噢噢 哦哦"
+    },
+    {
+      "time": 174.67,
+      "time_str": "02:54.670",
+      "text": "Caught in a bad romance",
+      "translation": "陷入一场糟糕的浪漫"
+    },
+    {
+      "time": 177.7,
+      "time_str": "02:57.700",
+      "text": "Oh-oh-oh-oh-oooh",
+      "translation": "噢噢噢噢 哦哦"
+    },
+    {
+      "time": 181.36,
+      "time_str": "03:01.360",
+      "text": "Oh-oh-oooh-oh-oh",
+      "translation": "噢噢噢噢 哦哦"
+    },
+    {
+      "time": 182.75,
+      "time_str": "03:02.750",
+      "text": "Caught in a bad romance",
+      "translation": "陷入一场糟糕的浪漫"
+    },
+    {
+      "time": 186.8,
+      "time_str": "03:06.800",
+      "text": "Rah-rah-ah-ah-ah",
+      "translation": "啦-啦-啊-啊-啊-啊"
+    },
+    {
+      "time": 188.92,
+      "time_str": "03:08.920",
+      "text": "Rrum-mu-rrum-mum-mah",
+      "translation": "鲁姆-姆-鲁姆-嘛-嘛"
+    },
+    {
+      "time": 190.81,
+      "time_str": "03:10.810",
+      "text": "GaGa-oo-la-la",
+      "translation": "嘎嘎 呜 啦 啦"
+    },
+    {
+      "time": 193.3,
+      "time_str": "03:13.300",
+      "text": "Want your bad romance",
+      "translation": "想要你糟糕的浪漫"
+    },
+    {
+      "time": 194.8,
+      "time_str": "03:14.800",
+      "text": "Rah-rah-ah-ah-ah",
+      "translation": "啦-啦-啊-啊-啊-啊"
+    },
+    {
+      "time": 197.1,
+      "time_str": "03:17.100",
+      "text": "Rrum-mu-mum-mum-mah",
+      "translation": "鲁姆-姆-鲁姆-嘛-嘛"
+    },
+    {
+      "time": 198.85,
+      "time_str": "03:18.850",
+      "text": "GaGa-oo-la-la",
+      "translation": "嘎嘎 呜 啦 啦"
+    },
+    {
+      "time": 201.13,
+      "time_str": "03:21.130",
+      "text": "Want your bad romance",
+      "translation": "想要你糟糕的浪漫"
+    },
+    {
+      "time": 202.86,
+      "time_str": "03:22.860",
+      "text": "Walk walk fashion baby",
+      "translation": "走台步 时尚宝贝"
+    },
+    {
+      "time": 204.95,
+      "time_str": "03:24.950",
+      "text": "Work it",
+      "translation": "尽情展现"
+    },
+    {
+      "time": 205.43,
+      "time_str": "03:25.430",
+      "text": "Move that crazy bitch",
+      "translation": "扭动那疯狂的身体"
+    },
+    {
+      "time": 206.91,
+      "time_str": "03:26.910",
+      "text": "Walk walk fashion baby",
+      "translation": "走台步 时尚宝贝"
+    },
+    {
+      "time": 208.96,
+      "time_str": "03:28.960",
+      "text": "Work it",
+      "translation": "尽情展现"
+    },
+    {
+      "time": 209.44,
+      "time_str": "03:29.440",
+      "text": "Move that crazy bitch",
+      "translation": "扭动那疯狂的身体"
+    },
+    {
+      "time": 210.91,
+      "time_str": "03:30.910",
+      "text": "Walk walk fashion baby",
+      "translation": "走台步 时尚宝贝"
+    },
+    {
+      "time": 212.99,
+      "time_str": "03:32.990",
+      "text": "Work it",
+      "translation": "尽情展现"
+    },
+    {
+      "time": 213.48,
+      "time_str": "03:33.480",
+      "text": "Move that crazy bitch",
+      "translation": "扭动那疯狂的身体"
+    },
+    {
+      "time": 214.98,
+      "time_str": "03:34.980",
+      "text": "Walk walk passion baby",
+      "translation": "走台步 激情宝贝"
+    },
+    {
+      "time": 217.3,
+      "time_str": "03:37.300",
+      "text": "Work it",
+      "translation": "尽情展现"
+    },
+    {
+      "time": 217.51,
+      "time_str": "03:37.510",
+      "text": "I'm a Freak bitch baby",
+      "translation": "我是个怪胎宝贝"
+    },
+    {
+      "time": 219.51,
+      "time_str": "03:39.510",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 221.57,
+      "time_str": "03:41.570",
+      "text": "And I want your revenge",
+      "translation": "我想要你的报复"
+    },
+    {
+      "time": 223.63,
+      "time_str": "03:43.630",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 225.53,
+      "time_str": "03:45.530",
+      "text": "I don't wanna be friends",
+      "translation": "我不想只做朋友"
+    },
+    {
+      "time": 227.55,
+      "time_str": "03:47.550",
+      "text": "J'veux ton amour",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 229.61,
+      "time_str": "03:49.610",
+      "text": "Et je veux ton revenge",
+      "translation": "也想要你的报复"
+    },
+    {
+      "time": 231.7,
+      "time_str": "03:51.700",
+      "text": "J'veux ton amour",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 233.67,
+      "time_str": "03:53.670",
+      "text": "I don’t wanna be friends (Oh-oh-oh-oh-oooh  Oh-oh-oooh-oh-oh)",
+      "translation": "我不想只做你的朋友（噢噢噢噢 哦哦）"
+    },
+    {
+      "time": 238.1,
+      "time_str": "03:58.100",
+      "text": "I don’t wanna be friends (Caught in a bad romance...)",
+      "translation": "我不想只做你的朋友（噢噢噢噢 哦哦）"
+    },
+    {
+      "time": 241.75,
+      "time_str": "04:01.750",
+      "text": "I don’t wanna be friends (Oh-oh-oh-oh-oooh  Oh-oh-oooh-oh-oh)",
+      "translation": "我不想只做你的朋友（噢噢噢噢 哦哦）"
+    },
+    {
+      "time": 245.83,
+      "time_str": "04:05.830",
+      "text": "Want your bad romance",
+      "translation": "和所有爱人的报复"
+    },
+    {
+      "time": 247.4,
+      "time_str": "04:07.400",
+      "text": "Caught in a bad romance",
+      "translation": "陷入一场糟糕的浪漫"
+    },
+    {
+      "time": 249.53,
+      "time_str": "04:09.530",
+      "text": "Want your bad romance",
+      "translation": "想要你糟糕的浪漫"
+    },
+    {
+      "time": 251.46,
+      "time_str": "04:11.460",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 252.75,
+      "time_str": "04:12.750",
+      "text": "And I want your revenge",
+      "translation": "我想要你的报复"
+    },
+    {
+      "time": 254.6,
+      "time_str": "04:14.600",
+      "text": "You and me could write a bad romance",
+      "translation": "你和我可以谱写一段糟糕的浪漫"
+    },
+    {
+      "time": 259.68,
+      "time_str": "04:19.680",
+      "text": "I want your love",
+      "translation": "我想要你的爱"
+    },
+    {
+      "time": 260.85,
+      "time_str": "04:20.850",
+      "text": "All your lover’s revenge",
+      "translation": "和所有爱人的报复"
+    },
+    {
+      "time": 262.62,
+      "time_str": "04:22.620",
+      "text": "You and me could write a bad romance",
+      "translation": "你和我可以谱写一段糟糕的浪漫"
+    },
+    {
+      "time": 266.41,
+      "time_str": "04:26.410",
+      "text": "Oh-oh-oh-oh-oooh",
+      "translation": "噢噢噢噢 哦哦"
+    },
+    {
+      "time": 268.43,
+      "time_str": "04:28.430",
+      "text": "Oh-oh-oooh-oh-oh (Want your bad romance)",
+      "translation": "噢噢噢噢 哦哦（陷入一场糟糕的浪漫）"
+    },
+    {
+      "time": 271.46,
+      "time_str": "04:31.460",
+      "text": "Caught in a bad romance",
+      "translation": "陷入一场糟糕的浪漫"
+    },
+    {
+      "time": 273.74,
+      "time_str": "04:33.740",
+      "text": "Want your bad romance",
+      "translation": "想要你糟糕的浪漫"
+    },
+    {
+      "time": 274.56,
+      "time_str": "04:34.560",
+      "text": "Oh-oh-oh-oh-oooh",
+      "translation": "噢噢噢噢 哦哦"
+    },
+    {
+      "time": 276.38,
+      "time_str": "04:36.380",
+      "text": "Oh-oh-oooh-oh-oh (Want your bad romance)",
+      "translation": "噢噢噢噢 哦哦（想要你糟糕的浪漫）"
+    },
+    {
+      "time": 279.57,
+      "time_str": "04:39.570",
+      "text": "Caught in a bad romance",
+      "translation": "陷入一场糟糕的浪漫"
+    },
+    {
+      "time": 283.55,
+      "time_str": "04:43.550",
+      "text": "Rah-rah-ah-ah-ah",
+      "translation": "啦-啦-啊-啊-啊-啊"
+    },
+    {
+      "time": 285.78,
+      "time_str": "04:45.780",
+      "text": "Rrum-mu-rrum-mum-mah",
+      "translation": "鲁姆-姆-鲁姆-嘛-嘛"
+    },
+    {
+      "time": 287.58,
+      "time_str": "04:47.580",
+      "text": "GaGa-oo-la-la",
+      "translation": "嘎嘎 呜 啦 啦"
+    },
+    {
+      "time": 289.76,
+      "time_str": "04:49.760",
+      "text": "Want your bad romance",
+      "translation": "想要你糟糕的浪漫"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Bad Romance (Radio Edit) - Lady Gaga.lrc"
+}

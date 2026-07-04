@@ -1,0 +1,304 @@
+{
+  "title": "相约一九九八",
+  "title_raw": "相约一九九八",
+  "version": null,
+  "artist": "那英,王菲",
+  "group_key": "相约一九九八|那英,王菲",
+  "writers": {
+    "lyricist": "靳树增",
+    "composer": "肖白",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.53,
+      "time_str": "00:19.530",
+      "text": "打开心灵剥去春的羞涩",
+      "translation": null
+    },
+    {
+      "time": 28.5,
+      "time_str": "00:28.500",
+      "text": "舞步飞旋踏破冬的沉默",
+      "translation": null
+    },
+    {
+      "time": 37.47,
+      "time_str": "00:37.470",
+      "text": "融融的暖意带着深情的问候",
+      "translation": null
+    },
+    {
+      "time": 44.28,
+      "time_str": "00:44.280",
+      "text": "绵绵细雨沐浴那昨天昨天",
+      "translation": null
+    },
+    {
+      "time": 48.66,
+      "time_str": "00:48.660",
+      "text": "昨天激动的时刻",
+      "translation": null
+    },
+    {
+      "time": 50.94,
+      "time_str": "00:50.940",
+      "text": "你用温暖的目光迎接我",
+      "translation": null
+    },
+    {
+      "time": 54.0,
+      "time_str": "00:54.000",
+      "text": "迎接我从昨天带来的欢乐欢乐",
+      "translation": null
+    },
+    {
+      "time": 60.03,
+      "time_str": "01:00.030",
+      "text": "来吧来吧相约九八",
+      "translation": null
+    },
+    {
+      "time": 64.2,
+      "time_str": "01:04.200",
+      "text": "来吧来吧相约九八",
+      "translation": null
+    },
+    {
+      "time": 70.14,
+      "time_str": "01:10.140",
+      "text": "相约在银色的月光下",
+      "translation": null
+    },
+    {
+      "time": 74.7,
+      "time_str": "01:14.700",
+      "text": "相约在温暖的情意中",
+      "translation": null
+    },
+    {
+      "time": 79.14,
+      "time_str": "01:19.140",
+      "text": "来吧来吧相约九八",
+      "translation": null
+    },
+    {
+      "time": 83.37,
+      "time_str": "01:23.370",
+      "text": "来吧来吧相约一九九八",
+      "translation": null
+    },
+    {
+      "time": 89.31,
+      "time_str": "01:29.310",
+      "text": "相约在甜美的春风里",
+      "translation": null
+    },
+    {
+      "time": 93.75,
+      "time_str": "01:33.750",
+      "text": "相约那永远的青春年华",
+      "translation": null
+    },
+    {
+      "time": 98.22,
+      "time_str": "01:38.220",
+      "text": "心相约心相约",
+      "translation": null
+    },
+    {
+      "time": 102.78,
+      "time_str": "01:42.780",
+      "text": "相约一年又一年",
+      "translation": null
+    },
+    {
+      "time": 105.09,
+      "time_str": "01:45.090",
+      "text": "无论咫尺天涯",
+      "translation": null
+    },
+    {
+      "time": 109.59,
+      "time_str": "01:49.590",
+      "text": "心相约心相约无论咫尺天涯",
+      "translation": null
+    },
+    {
+      "time": 129.99,
+      "time_str": "02:09.990",
+      "text": "歌声悠悠穿透春的绿色",
+      "translation": null
+    },
+    {
+      "time": 139.02,
+      "time_str": "02:19.020",
+      "text": "披上新装当明天到来的时刻",
+      "translation": null
+    },
+    {
+      "time": 147.9,
+      "time_str": "02:27.900",
+      "text": "悄悄无语聆听轻柔的呼吸",
+      "translation": null
+    },
+    {
+      "time": 154.29,
+      "time_str": "02:34.290",
+      "text": "那么快让我们拥抱拥抱",
+      "translation": null
+    },
+    {
+      "time": 159.21,
+      "time_str": "02:39.210",
+      "text": "拥抱彼此的梦想",
+      "translation": null
+    },
+    {
+      "time": 161.4,
+      "time_str": "02:41.400",
+      "text": "你用温暖的目光迎接我",
+      "translation": null
+    },
+    {
+      "time": 164.49,
+      "time_str": "02:44.490",
+      "text": "迎接我从昨天带来的欢乐欢乐",
+      "translation": null
+    },
+    {
+      "time": 170.55,
+      "time_str": "02:50.550",
+      "text": "来吧来吧相约九八",
+      "translation": null
+    },
+    {
+      "time": 174.36,
+      "time_str": "02:54.360",
+      "text": "来吧来吧相约九八",
+      "translation": null
+    },
+    {
+      "time": 180.57,
+      "time_str": "03:00.570",
+      "text": "相约在银色的月光下",
+      "translation": null
+    },
+    {
+      "time": 185.13,
+      "time_str": "03:05.130",
+      "text": "相约在温暖的情意中",
+      "translation": null
+    },
+    {
+      "time": 189.66,
+      "time_str": "03:09.660",
+      "text": "来吧来吧相约九八",
+      "translation": null
+    },
+    {
+      "time": 194.07,
+      "time_str": "03:14.070",
+      "text": "来吧来吧相约一九九八",
+      "translation": null
+    },
+    {
+      "time": 199.8,
+      "time_str": "03:19.800",
+      "text": "相约在甜美的春风里",
+      "translation": null
+    },
+    {
+      "time": 204.27,
+      "time_str": "03:24.270",
+      "text": "相约那永远的青春年华",
+      "translation": null
+    },
+    {
+      "time": 208.77,
+      "time_str": "03:28.770",
+      "text": "心相约心相约",
+      "translation": null
+    },
+    {
+      "time": 213.24,
+      "time_str": "03:33.240",
+      "text": "相约一年又一年",
+      "translation": null
+    },
+    {
+      "time": 215.58,
+      "time_str": "03:35.580",
+      "text": "无论咫尺天涯",
+      "translation": null
+    },
+    {
+      "time": 245.31,
+      "time_str": "04:05.310",
+      "text": "来吧来吧相约九八",
+      "translation": null
+    },
+    {
+      "time": 249.27,
+      "time_str": "04:09.270",
+      "text": "来吧来吧相约九八",
+      "translation": null
+    },
+    {
+      "time": 254.94,
+      "time_str": "04:14.940",
+      "text": "相约在银色的月光下",
+      "translation": null
+    },
+    {
+      "time": 259.53,
+      "time_str": "04:19.530",
+      "text": "相约在温暖的情意中",
+      "translation": null
+    },
+    {
+      "time": 264.06,
+      "time_str": "04:24.060",
+      "text": "来吧来吧相约九八",
+      "translation": null
+    },
+    {
+      "time": 267.6,
+      "time_str": "04:27.600",
+      "text": "来吧来吧相约一九九八",
+      "translation": null
+    },
+    {
+      "time": 274.17,
+      "time_str": "04:34.170",
+      "text": "相约在甜美的春风里",
+      "translation": null
+    },
+    {
+      "time": 278.7,
+      "time_str": "04:38.700",
+      "text": "相约那永远的青春年华",
+      "translation": null
+    },
+    {
+      "time": 283.08,
+      "time_str": "04:43.080",
+      "text": "心相约心相约",
+      "translation": null
+    },
+    {
+      "time": 287.61,
+      "time_str": "04:47.610",
+      "text": "相约一年又一年",
+      "translation": null
+    },
+    {
+      "time": 289.98,
+      "time_str": "04:49.980",
+      "text": "无论咫尺天涯",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "相约一九九八 - 那英,王菲.lrc"
+}

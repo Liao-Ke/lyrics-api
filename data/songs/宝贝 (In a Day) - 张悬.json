@@ -1,0 +1,214 @@
+{
+  "title": "宝贝",
+  "title_raw": "宝贝 (In a Day)",
+  "version": "In a Day",
+  "artist": "张悬",
+  "group_key": "宝贝|张悬",
+  "writers": {
+    "lyricist": "张悬",
+    "composer": "张悬",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.93,
+      "time_str": "00:03.930",
+      "text": "制作：张悬、陈建良",
+      "translation": null
+    },
+    {
+      "time": 5.04,
+      "time_str": "00:05.040",
+      "text": "原声吉他弹奏编写：张悬",
+      "translation": null
+    },
+    {
+      "time": 15.63,
+      "time_str": "00:15.630",
+      "text": "我的宝贝 宝贝",
+      "translation": null
+    },
+    {
+      "time": 18.22,
+      "time_str": "00:18.220",
+      "text": "给你一点甜甜",
+      "translation": null
+    },
+    {
+      "time": 20.03,
+      "time_str": "00:20.030",
+      "text": "让你今夜都好眠",
+      "translation": null
+    },
+    {
+      "time": 23.49,
+      "time_str": "00:23.490",
+      "text": "我的小鬼 小鬼",
+      "translation": null
+    },
+    {
+      "time": 26.2,
+      "time_str": "00:26.200",
+      "text": "逗逗你的眉眼",
+      "translation": null
+    },
+    {
+      "time": 28.03,
+      "time_str": "00:28.030",
+      "text": "让你喜欢这世界",
+      "translation": null
+    },
+    {
+      "time": 31.77,
+      "time_str": "00:31.770",
+      "text": "哇啦啦啦啦啦我的宝贝",
+      "translation": null
+    },
+    {
+      "time": 35.75,
+      "time_str": "00:35.750",
+      "text": "倦的时候有个人陪",
+      "translation": null
+    },
+    {
+      "time": 39.49,
+      "time_str": "00:39.490",
+      "text": "哎呀呀呀呀呀我的宝贝",
+      "translation": null
+    },
+    {
+      "time": 43.73,
+      "time_str": "00:43.730",
+      "text": "要你知道你最美",
+      "translation": null
+    },
+    {
+      "time": 49.7,
+      "time_str": "00:49.700",
+      "text": "我的宝贝 宝贝",
+      "translation": null
+    },
+    {
+      "time": 52.08,
+      "time_str": "00:52.080",
+      "text": "给你一点甜甜",
+      "translation": null
+    },
+    {
+      "time": 54.27,
+      "time_str": "00:54.270",
+      "text": "让你今夜很好眠",
+      "translation": null
+    },
+    {
+      "time": 57.49,
+      "time_str": "00:57.490",
+      "text": "我的小鬼 小鬼",
+      "translation": null
+    },
+    {
+      "time": 59.94,
+      "time_str": "00:59.940",
+      "text": "捏捏你的小脸",
+      "translation": null
+    },
+    {
+      "time": 62.3,
+      "time_str": "01:02.300",
+      "text": "让你喜欢整个明天",
+      "translation": null
+    },
+    {
+      "time": 65.62,
+      "time_str": "01:05.620",
+      "text": "哇啦啦啦啦啦我的宝贝",
+      "translation": null
+    },
+    {
+      "time": 69.76,
+      "time_str": "01:09.760",
+      "text": "倦的时候有个人陪",
+      "translation": null
+    },
+    {
+      "time": 73.67,
+      "time_str": "01:13.670",
+      "text": "哎呀呀呀呀呀我的宝贝",
+      "translation": null
+    },
+    {
+      "time": 77.64,
+      "time_str": "01:17.640",
+      "text": "要你知道你最美",
+      "translation": null
+    },
+    {
+      "time": 83.6,
+      "time_str": "01:23.600",
+      "text": "哇啦啦啦啦啦我的宝贝",
+      "translation": null
+    },
+    {
+      "time": 87.64,
+      "time_str": "01:27.640",
+      "text": "孤单时有人把你想念",
+      "translation": null
+    },
+    {
+      "time": 91.65,
+      "time_str": "01:31.650",
+      "text": "哎呀呀呀呀呀我的宝贝",
+      "translation": null
+    },
+    {
+      "time": 95.69,
+      "time_str": "01:35.690",
+      "text": "要你知道你最美",
+      "translation": null
+    },
+    {
+      "time": 101.55,
+      "time_str": "01:41.550",
+      "text": "哇啦啦啦啦啦Yeah...woo",
+      "translation": null
+    },
+    {
+      "time": 108.3,
+      "time_str": "01:48.300",
+      "text": "Yeah...woo...",
+      "translation": null
+    },
+    {
+      "time": 117.28,
+      "time_str": "01:57.280",
+      "text": "哇啦啦啦啦啦我的宝贝",
+      "translation": null
+    },
+    {
+      "time": 121.54,
+      "time_str": "02:01.540",
+      "text": "倦的时候有个人陪",
+      "translation": null
+    },
+    {
+      "time": 125.63,
+      "time_str": "02:05.630",
+      "text": "哎呀呀呀呀呀我的宝贝",
+      "translation": null
+    },
+    {
+      "time": 129.69,
+      "time_str": "02:09.690",
+      "text": "要你知道你最美",
+      "translation": null
+    },
+    {
+      "time": 135.6,
+      "time_str": "02:15.600",
+      "text": "要你知道你最美",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "宝贝 (In a Day) - 张悬.lrc"
+}

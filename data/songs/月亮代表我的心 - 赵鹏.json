@@ -1,0 +1,232 @@
+{
+  "title": "月亮代表我的心",
+  "title_raw": "月亮代表我的心",
+  "version": null,
+  "artist": "赵鹏",
+  "group_key": "月亮代表我的心|赵鹏",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 20.89,
+      "time_str": "00:20.890",
+      "text": "你问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 27.75,
+      "time_str": "00:27.750",
+      "text": "我爱你有几分",
+      "translation": null
+    },
+    {
+      "time": 33.87,
+      "time_str": "00:33.870",
+      "text": "我的情也真",
+      "translation": null
+    },
+    {
+      "time": 37.06,
+      "time_str": "00:37.060",
+      "text": "我的爱也真",
+      "translation": null
+    },
+    {
+      "time": 40.38,
+      "time_str": "00:40.380",
+      "text": "月亮代表我的心",
+      "translation": null
+    },
+    {
+      "time": 47.56,
+      "time_str": "00:47.560",
+      "text": "你问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 54.18,
+      "time_str": "00:54.180",
+      "text": "我爱你有几分",
+      "translation": null
+    },
+    {
+      "time": 60.56,
+      "time_str": "01:00.560",
+      "text": "我的情不移",
+      "translation": null
+    },
+    {
+      "time": 63.63,
+      "time_str": "01:03.630",
+      "text": "我的爱不变",
+      "translation": null
+    },
+    {
+      "time": 66.87,
+      "time_str": "01:06.870",
+      "text": "月亮代表我的心",
+      "translation": null
+    },
+    {
+      "time": 73.96,
+      "time_str": "01:13.960",
+      "text": "轻轻的一个吻",
+      "translation": null
+    },
+    {
+      "time": 79.84,
+      "time_str": "01:19.840",
+      "text": "已经打动我的心",
+      "translation": null
+    },
+    {
+      "time": 86.46,
+      "time_str": "01:26.460",
+      "text": "深深的一段情",
+      "translation": null
+    },
+    {
+      "time": 93.19,
+      "time_str": "01:33.190",
+      "text": "教我思念到如今",
+      "translation": null
+    },
+    {
+      "time": 100.4,
+      "time_str": "01:40.400",
+      "text": "你问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 106.72,
+      "time_str": "01:46.720",
+      "text": "我爱你有几分",
+      "translation": null
+    },
+    {
+      "time": 112.9,
+      "time_str": "01:52.900",
+      "text": "你去想一想",
+      "translation": null
+    },
+    {
+      "time": 116.18,
+      "time_str": "01:56.180",
+      "text": "你去看一看",
+      "translation": null
+    },
+    {
+      "time": 119.57,
+      "time_str": "01:59.570",
+      "text": "月亮代表我的心",
+      "translation": null
+    },
+    {
+      "time": 125.59,
+      "time_str": "02:05.590",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 169.39,
+      "time_str": "02:49.390",
+      "text": "你问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 175.46,
+      "time_str": "02:55.460",
+      "text": "我爱你有几分",
+      "translation": null
+    },
+    {
+      "time": 181.1,
+      "time_str": "03:01.100",
+      "text": "我的情不移 我的爱不变",
+      "translation": null
+    },
+    {
+      "time": 188.73,
+      "time_str": "03:08.730",
+      "text": "月亮代表我的心",
+      "translation": null
+    },
+    {
+      "time": 195.18,
+      "time_str": "03:15.180",
+      "text": "轻轻的一个吻",
+      "translation": null
+    },
+    {
+      "time": 201.94,
+      "time_str": "03:21.940",
+      "text": "已经打动我的心",
+      "translation": null
+    },
+    {
+      "time": 208.35,
+      "time_str": "03:28.350",
+      "text": "深深的一段情",
+      "translation": null
+    },
+    {
+      "time": 214.99,
+      "time_str": "03:34.990",
+      "text": "教我思念到如今",
+      "translation": null
+    },
+    {
+      "time": 222.27,
+      "time_str": "03:42.270",
+      "text": "你问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 228.75,
+      "time_str": "03:48.750",
+      "text": "我爱你有几分",
+      "translation": null
+    },
+    {
+      "time": 235.02,
+      "time_str": "03:55.020",
+      "text": "你去想一想",
+      "translation": null
+    },
+    {
+      "time": 238.14,
+      "time_str": "03:58.140",
+      "text": "你去看一看",
+      "translation": null
+    },
+    {
+      "time": 241.47,
+      "time_str": "04:01.470",
+      "text": "月亮代表我的心",
+      "translation": null
+    },
+    {
+      "time": 247.93,
+      "time_str": "04:07.930",
+      "text": "你去想一想",
+      "translation": null
+    },
+    {
+      "time": 251.38,
+      "time_str": "04:11.380",
+      "text": "你去看一看",
+      "translation": null
+    },
+    {
+      "time": 254.88,
+      "time_str": "04:14.880",
+      "text": "月亮代表我的心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月亮代表我的心 - 赵鹏.lrc"
+}

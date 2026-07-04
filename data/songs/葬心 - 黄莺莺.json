@@ -1,0 +1,214 @@
+{
+  "title": "葬心",
+  "title_raw": "葬心",
+  "version": null,
+  "artist": "黄莺莺",
+  "group_key": "葬心|黄莺莺",
+  "writers": {
+    "lyricist": "姚若龙/小虫",
+    "composer": "小虫",
+    "arranger": "小虫"
+  },
+  "lyrics": [
+    {
+      "time": 3.0,
+      "time_str": "00:03.000",
+      "text": "伽菲珈而",
+      "translation": null
+    },
+    {
+      "time": 70.44,
+      "time_str": "01:10.440",
+      "text": "蝴蝶儿飞去",
+      "translation": null
+    },
+    {
+      "time": 76.4,
+      "time_str": "01:16.400",
+      "text": "心亦不在",
+      "translation": null
+    },
+    {
+      "time": 80.9,
+      "time_str": "01:20.900",
+      "text": "凄清长夜谁来",
+      "translation": null
+    },
+    {
+      "time": 87.82,
+      "time_str": "01:27.820",
+      "text": "拭泪满腮",
+      "translation": null
+    },
+    {
+      "time": 93.21,
+      "time_str": "01:33.210",
+      "text": "是贪点儿依赖",
+      "translation": null
+    },
+    {
+      "time": 98.77,
+      "time_str": "01:38.770",
+      "text": "贪一点儿爱",
+      "translation": null
+    },
+    {
+      "time": 103.62,
+      "time_str": "01:43.620",
+      "text": "旧缘该了难了",
+      "translation": null
+    },
+    {
+      "time": 110.33,
+      "time_str": "01:50.330",
+      "text": "换满心哀",
+      "translation": null
+    },
+    {
+      "time": 116.18,
+      "time_str": "01:56.180",
+      "text": "怎受的住",
+      "translation": null
+    },
+    {
+      "time": 121.479,
+      "time_str": "02:01.479",
+      "text": "这头猜 那边怪",
+      "translation": null
+    },
+    {
+      "time": 124.11,
+      "time_str": "02:04.110",
+      "text": "给的灾 都不怪",
+      "translation": null
+    },
+    {
+      "time": 128.99,
+      "time_str": "02:08.990",
+      "text": "人言汇成愁海",
+      "translation": null
+    },
+    {
+      "time": 132.38,
+      "time_str": "02:12.380",
+      "text": "辛酸难捱",
+      "translation": null
+    },
+    {
+      "time": 139.57,
+      "time_str": "02:19.570",
+      "text": "天给的苦给的灾都不怪",
+      "translation": null
+    },
+    {
+      "time": 151.49,
+      "time_str": "02:31.490",
+      "text": "千不该 万不该",
+      "translation": null
+    },
+    {
+      "time": 155.73,
+      "time_str": "02:35.730",
+      "text": "芳华怕孤单",
+      "translation": null
+    },
+    {
+      "time": 161.13,
+      "time_str": "02:41.130",
+      "text": "林花儿谢了",
+      "translation": null
+    },
+    {
+      "time": 167.47,
+      "time_str": "02:47.470",
+      "text": "连心也埋",
+      "translation": null
+    },
+    {
+      "time": 173.98,
+      "time_str": "02:53.980",
+      "text": "他日春燕归来",
+      "translation": null
+    },
+    {
+      "time": 178.81,
+      "time_str": "02:58.810",
+      "text": "身何在",
+      "translation": null
+    },
+    {
+      "time": 183.47,
+      "time_str": "03:03.470",
+      "text": "凄清长夜谁来",
+      "translation": null
+    },
+    {
+      "time": 204.71,
+      "time_str": "03:24.710",
+      "text": "天给的苦",
+      "translation": null
+    },
+    {
+      "time": 209.3,
+      "time_str": "03:29.300",
+      "text": "给的灾 都不怪",
+      "translation": null
+    },
+    {
+      "time": 215.329,
+      "time_str": "03:35.329",
+      "text": "千不该 万不该",
+      "translation": null
+    },
+    {
+      "time": 220.55,
+      "time_str": "03:40.550",
+      "text": "芳华怕孤单",
+      "translation": null
+    },
+    {
+      "time": 227.43,
+      "time_str": "03:47.430",
+      "text": "蝴蝶儿飞去",
+      "translation": null
+    },
+    {
+      "time": 233.91,
+      "time_str": "03:53.910",
+      "text": "心亦不在凄清长夜谁来",
+      "translation": null
+    },
+    {
+      "time": 246.27,
+      "time_str": "04:06.270",
+      "text": "拭泪满腮",
+      "translation": null
+    },
+    {
+      "time": 253.3,
+      "time_str": "04:13.300",
+      "text": "林花儿谢了",
+      "translation": null
+    },
+    {
+      "time": 259.54,
+      "time_str": "04:19.540",
+      "text": "连心也埋",
+      "translation": null
+    },
+    {
+      "time": 264.01,
+      "time_str": "04:24.010",
+      "text": "他日春燕归来",
+      "translation": null
+    },
+    {
+      "time": 268.4,
+      "time_str": "04:28.400",
+      "text": "身何在",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "葬心 - 黄莺莺.lrc"
+}

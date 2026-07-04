@@ -1,0 +1,232 @@
+{
+  "title": "好好说再见",
+  "title_raw": "好好说再见",
+  "version": null,
+  "artist": "陶喆,关诗敏",
+  "group_key": "好好说再见|陶喆,关诗敏",
+  "writers": {
+    "lyricist": "黄婷",
+    "composer": "陶喆",
+    "arranger": "陶喆"
+  },
+  "lyrics": [
+    {
+      "time": 2.4,
+      "time_str": "00:02.400",
+      "text": "我爱过妳笑的脸庞 我爱过妳心的善良",
+      "translation": null
+    },
+    {
+      "time": 13.42,
+      "time_str": "00:13.420",
+      "text": "这些年有妳的时光 把我的孤独都照亮",
+      "translation": null
+    },
+    {
+      "time": 26.78,
+      "time_str": "00:26.780",
+      "text": "我记得妳说过的话(时间留不住一句话)",
+      "translation": null
+    },
+    {
+      "time": 33.579,
+      "time_str": "00:33.579",
+      "text": "我记得曾为妳疯狂(何时过了年少轻狂)",
+      "translation": null
+    },
+    {
+      "time": 40.319,
+      "time_str": "00:40.319",
+      "text": "当情太深而缘太浅(当你离开我的世界)",
+      "translation": null
+    },
+    {
+      "time": 47.219,
+      "time_str": "00:47.219",
+      "text": "至少要好好说再见(要怎么好好说再见)",
+      "translation": null
+    },
+    {
+      "time": 55.869,
+      "time_str": "00:55.869",
+      "text": "一直以为真爱能直到永远",
+      "translation": null
+    },
+    {
+      "time": 62.259,
+      "time_str": "01:02.259",
+      "text": "彼此相爱的每一天都是永远",
+      "translation": null
+    },
+    {
+      "time": 69.0,
+      "time_str": "01:09.000",
+      "text": "一直以为我们有同一个明天",
+      "translation": null
+    },
+    {
+      "time": 75.18,
+      "time_str": "01:15.180",
+      "text": "你曾是我的世界 不完整的世界",
+      "translation": null
+    },
+    {
+      "time": 87.66,
+      "time_str": "01:27.660",
+      "text": "如果花谢了会再开 如果错了的还能改",
+      "translation": null
+    },
+    {
+      "time": 99.799,
+      "time_str": "01:39.799",
+      "text": "这些年累积的关怀 怎能说不在就不在",
+      "translation": null
+    },
+    {
+      "time": 113.878,
+      "time_str": "01:53.878",
+      "text": "感情不该一直受伤(为何爱总是带着伤)",
+      "translation": null
+    },
+    {
+      "time": 120.799,
+      "time_str": "02:00.799",
+      "text": "我不愿让妳再失望(有期望才会有失望)",
+      "translation": null
+    },
+    {
+      "time": 127.84,
+      "time_str": "02:07.840",
+      "text": "当幸福碎成一片片(一颗心碎成一片片)",
+      "translation": null
+    },
+    {
+      "time": 134.26,
+      "time_str": "02:14.260",
+      "text": "至少要好好说再见(要怎么好好说再见)",
+      "translation": null
+    },
+    {
+      "time": 142.14,
+      "time_str": "02:22.140",
+      "text": "一直以为真爱能直到永远",
+      "translation": null
+    },
+    {
+      "time": 148.9,
+      "time_str": "02:28.900",
+      "text": "彼此相爱的每一天都是永远",
+      "translation": null
+    },
+    {
+      "time": 154.979,
+      "time_str": "02:34.979",
+      "text": "一直以为我们有同一个明天",
+      "translation": null
+    },
+    {
+      "time": 161.6,
+      "time_str": "02:41.600",
+      "text": "你曾是我的世界 不完整的世界",
+      "translation": null
+    },
+    {
+      "time": 177.07,
+      "time_str": "02:57.070",
+      "text": "相信妳会过得更好 我还不想把你忘掉",
+      "translation": null
+    },
+    {
+      "time": 190.38,
+      "time_str": "03:10.380",
+      "text": "别丢弃妳无邪的笑 再见面还可以拥抱",
+      "translation": null
+    },
+    {
+      "time": 204.04,
+      "time_str": "03:24.040",
+      "text": "我记得妳说过的话(时间留不住一句话)",
+      "translation": null
+    },
+    {
+      "time": 210.28,
+      "time_str": "03:30.280",
+      "text": "我记得曾为妳疯狂(何时过了年少轻狂)",
+      "translation": null
+    },
+    {
+      "time": 216.9,
+      "time_str": "03:36.900",
+      "text": "当爱情不再像从前(你永远是我的从前)",
+      "translation": null
+    },
+    {
+      "time": 227.08,
+      "time_str": "03:47.080",
+      "text": "原谅我沉默的再见",
+      "translation": null
+    },
+    {
+      "time": 240.5,
+      "time_str": "04:00.500",
+      "text": "计算机程式编写：陶喆",
+      "translation": null
+    },
+    {
+      "time": 240.6,
+      "time_str": "04:00.600",
+      "text": "木吉他：Jamie Wilson",
+      "translation": null
+    },
+    {
+      "time": 240.7,
+      "time_str": "04:00.700",
+      "text": "竖琴：李哲艺",
+      "translation": null
+    },
+    {
+      "time": 240.8,
+      "time_str": "04:00.800",
+      "text": "电贝斯：Paul Bushnel",
+      "translation": null
+    },
+    {
+      "time": 241.1,
+      "time_str": "04:01.100",
+      "text": "录音助理：John Cranfield / 梁恩杰",
+      "translation": null
+    },
+    {
+      "time": 241.3,
+      "time_str": "04:01.300",
+      "text": "配唱录音工程：朱敬然",
+      "translation": null
+    },
+    {
+      "time": 241.4,
+      "time_str": "04:01.400",
+      "text": "配唱录音室：新歌录音室 (台北)",
+      "translation": null
+    },
+    {
+      "time": 241.5,
+      "time_str": "04:01.500",
+      "text": "和声编写、配唱：陶喆",
+      "translation": null
+    },
+    {
+      "time": 241.6,
+      "time_str": "04:01.600",
+      "text": "和声剪辑：朱敬然",
+      "translation": null
+    },
+    {
+      "time": 242.0,
+      "time_str": "04:02.000",
+      "text": "SP：EMI MS.PUB. (S.E.ASIA) LTD., TAIWAN BRANCH",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "好好说再见 - 陶喆,关诗敏.lrc"
+}

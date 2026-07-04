@@ -1,0 +1,316 @@
+{
+  "title": "遥远的你",
+  "title_raw": "遥远的你 (正式版)",
+  "version": "正式版",
+  "artist": "221小伙伴",
+  "group_key": "遥远的你|221小伙伴",
+  "writers": {
+    "lyricist": "李亚然/王明明",
+    "composer": "王明明",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.06,
+      "time_str": "00:03.060",
+      "text": "演唱：221小伙伴（王明明/李鑫然/李尚阳/谷天丰/孔维通/曹翼）",
+      "translation": null
+    },
+    {
+      "time": 14.73,
+      "time_str": "00:14.730",
+      "text": "明明：",
+      "translation": null
+    },
+    {
+      "time": 15.2,
+      "time_str": "00:15.200",
+      "text": "眼角闪起的泪光",
+      "translation": null
+    },
+    {
+      "time": 18.77,
+      "time_str": "00:18.770",
+      "text": "无边无际地游荡",
+      "translation": null
+    },
+    {
+      "time": 22.35,
+      "time_str": "00:22.350",
+      "text": "眉下的一记荒唐",
+      "translation": null
+    },
+    {
+      "time": 25.9,
+      "time_str": "00:25.900",
+      "text": "庸俗地写在脸上",
+      "translation": null
+    },
+    {
+      "time": 29.04,
+      "time_str": "00:29.040",
+      "text": "鑫然：",
+      "translation": null
+    },
+    {
+      "time": 29.7,
+      "time_str": "00:29.700",
+      "text": "犹如一缕阳光",
+      "translation": null
+    },
+    {
+      "time": 33.11,
+      "time_str": "00:33.110",
+      "text": "但却觉得感伤",
+      "translation": null
+    },
+    {
+      "time": 36.69,
+      "time_str": "00:36.690",
+      "text": "记忆挥散不去",
+      "translation": null
+    },
+    {
+      "time": 40.26,
+      "time_str": "00:40.260",
+      "text": "却藏进了 我的诗句",
+      "translation": null
+    },
+    {
+      "time": 46.69,
+      "time_str": "00:46.690",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 47.04,
+      "time_str": "00:47.040",
+      "text": "七月的风 八月的雨",
+      "translation": null
+    },
+    {
+      "time": 50.58,
+      "time_str": "00:50.580",
+      "text": "卑微的我喜欢遥远的你",
+      "translation": null
+    },
+    {
+      "time": 54.17,
+      "time_str": "00:54.170",
+      "text": "你还未来 怎敢老去",
+      "translation": null
+    },
+    {
+      "time": 57.78,
+      "time_str": "00:57.780",
+      "text": "未来的我和你奉陪到底",
+      "translation": null
+    },
+    {
+      "time": 61.32,
+      "time_str": "01:01.320",
+      "text": "你若同意 我一定去",
+      "translation": null
+    },
+    {
+      "time": 64.94,
+      "time_str": "01:04.940",
+      "text": "可你并不在意我的出席",
+      "translation": null
+    },
+    {
+      "time": 68.5,
+      "time_str": "01:08.500",
+      "text": "你的过去 无法参与",
+      "translation": null
+    },
+    {
+      "time": 72.46,
+      "time_str": "01:12.460",
+      "text": "但我还是 喜欢你",
+      "translation": null
+    },
+    {
+      "time": 93.58,
+      "time_str": "01:33.580",
+      "text": "尚阳：",
+      "translation": null
+    },
+    {
+      "time": 93.96,
+      "time_str": "01:33.960",
+      "text": "我有一把钥匙",
+      "translation": null
+    },
+    {
+      "time": 97.52,
+      "time_str": "01:37.520",
+      "text": "能解开你的故事",
+      "translation": null
+    },
+    {
+      "time": 101.06,
+      "time_str": "01:41.060",
+      "text": "单纯的像个孩子",
+      "translation": null
+    },
+    {
+      "time": 104.67,
+      "time_str": "01:44.670",
+      "text": "偏藏进了 我的诗句",
+      "translation": null
+    },
+    {
+      "time": 111.04,
+      "time_str": "01:51.040",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 111.44,
+      "time_str": "01:51.440",
+      "text": "七月的风 八月的雨",
+      "translation": null
+    },
+    {
+      "time": 114.97,
+      "time_str": "01:54.970",
+      "text": "卑微的我喜欢遥远的你",
+      "translation": null
+    },
+    {
+      "time": 118.56,
+      "time_str": "01:58.560",
+      "text": "你还未来 怎敢老去",
+      "translation": null
+    },
+    {
+      "time": 122.18,
+      "time_str": "02:02.180",
+      "text": "未来的我和你奉陪到底",
+      "translation": null
+    },
+    {
+      "time": 125.74,
+      "time_str": "02:05.740",
+      "text": "你若同意 我一定去",
+      "translation": null
+    },
+    {
+      "time": 129.37,
+      "time_str": "02:09.370",
+      "text": "可你并不在意我的出席",
+      "translation": null
+    },
+    {
+      "time": 132.87,
+      "time_str": "02:12.870",
+      "text": "你的过去 无法参与",
+      "translation": null
+    },
+    {
+      "time": 136.93,
+      "time_str": "02:16.930",
+      "text": "但我还是 喜欢你",
+      "translation": null
+    },
+    {
+      "time": 143.72,
+      "time_str": "02:23.720",
+      "text": "七月的风 八月的雨",
+      "translation": null
+    },
+    {
+      "time": 147.29,
+      "time_str": "02:27.290",
+      "text": "卑微的我喜欢遥远的你",
+      "translation": null
+    },
+    {
+      "time": 150.87,
+      "time_str": "02:30.870",
+      "text": "你还未来 怎敢老去",
+      "translation": null
+    },
+    {
+      "time": 154.46,
+      "time_str": "02:34.460",
+      "text": "未来的我和你奉陪到底",
+      "translation": null
+    },
+    {
+      "time": 158.02,
+      "time_str": "02:38.020",
+      "text": "你若同意 我一定去",
+      "translation": null
+    },
+    {
+      "time": 161.63,
+      "time_str": "02:41.630",
+      "text": "可你并不在意我的出席",
+      "translation": null
+    },
+    {
+      "time": 165.2,
+      "time_str": "02:45.200",
+      "text": "你的过去 无法参与",
+      "translation": null
+    },
+    {
+      "time": 169.19,
+      "time_str": "02:49.190",
+      "text": "但我还是 喜欢你",
+      "translation": null
+    },
+    {
+      "time": 175.93,
+      "time_str": "02:55.930",
+      "text": "七月的风 八月的雨",
+      "translation": null
+    },
+    {
+      "time": 179.55,
+      "time_str": "02:59.550",
+      "text": "卑微的我喜欢遥远的你",
+      "translation": null
+    },
+    {
+      "time": 183.1,
+      "time_str": "03:03.100",
+      "text": "你还未来 怎敢老去",
+      "translation": null
+    },
+    {
+      "time": 186.71,
+      "time_str": "03:06.710",
+      "text": "未来的我和你奉陪到底",
+      "translation": null
+    },
+    {
+      "time": 190.27,
+      "time_str": "03:10.270",
+      "text": "你若同意 我一定去",
+      "translation": null
+    },
+    {
+      "time": 193.88,
+      "time_str": "03:13.880",
+      "text": "可你并不在意我的出席",
+      "translation": null
+    },
+    {
+      "time": 197.39,
+      "time_str": "03:17.390",
+      "text": "你的过去 无法参与",
+      "translation": null
+    },
+    {
+      "time": 201.43,
+      "time_str": "03:21.430",
+      "text": "但我还是 喜欢你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "遥远的你 (正式版) - 221小伙伴.lrc"
+}

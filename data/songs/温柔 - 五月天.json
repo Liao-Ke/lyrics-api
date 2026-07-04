@@ -1,0 +1,268 @@
+{
+  "title": "温柔",
+  "title_raw": "温柔",
+  "version": null,
+  "artist": "五月天",
+  "group_key": "温柔|五月天",
+  "writers": {
+    "lyricist": "五月天 阿信",
+    "composer": "五月天 阿信",
+    "arranger": "五月天"
+  },
+  "lyrics": [
+    {
+      "time": 3.51,
+      "time_str": "00:03.510",
+      "text": "演奏 : 五月天",
+      "translation": null
+    },
+    {
+      "time": 5.26,
+      "time_str": "00:05.260",
+      "text": "管弦乐团 : 陈建良+五月天",
+      "translation": null
+    },
+    {
+      "time": 6.14,
+      "time_str": "00:06.140",
+      "text": "管乐 : 黄任贤+赖怡蒨（陈建良+五月天/敬业录音室+288录音室）",
+      "translation": null
+    },
+    {
+      "time": 8.78,
+      "time_str": "00:08.780",
+      "text": "录音助理 : Yasuhiko Miyasaka/河口湖Studio+Shigeki Serizawa/Sound Crew Studio",
+      "translation": null
+    },
+    {
+      "time": 10.53,
+      "time_str": "00:10.530",
+      "text": "母带后期处理 : 王舒屏/异术录音室",
+      "translation": null
+    },
+    {
+      "time": 13.11,
+      "time_str": "00:13.110",
+      "text": "走在风中 今天阳光 突然好温柔",
+      "translation": null
+    },
+    {
+      "time": 19.6,
+      "time_str": "00:19.600",
+      "text": "天的温柔 地的温柔 像你抱着我",
+      "translation": null
+    },
+    {
+      "time": 26.1,
+      "time_str": "00:26.100",
+      "text": "然后发现你的改变 孤单的今后",
+      "translation": null
+    },
+    {
+      "time": 31.75,
+      "time_str": "00:31.750",
+      "text": "如果冷 该怎么度过",
+      "translation": null
+    },
+    {
+      "time": 42.3,
+      "time_str": "00:42.300",
+      "text": "天边风光 身边的我 都不在你眼中",
+      "translation": null
+    },
+    {
+      "time": 48.76,
+      "time_str": "00:48.760",
+      "text": "你的眼中藏着什么 我从来都不懂",
+      "translation": null
+    },
+    {
+      "time": 55.22,
+      "time_str": "00:55.220",
+      "text": "没有关系 你的世界 就让你拥有",
+      "translation": null
+    },
+    {
+      "time": 60.94,
+      "time_str": "01:00.940",
+      "text": "不打扰 是我的温柔",
+      "translation": null
+    },
+    {
+      "time": 71.03,
+      "time_str": "01:11.030",
+      "text": "不知道 不明了 不想要",
+      "translation": null
+    },
+    {
+      "time": 73.41,
+      "time_str": "01:13.410",
+      "text": "为什么我的心",
+      "translation": null
+    },
+    {
+      "time": 77.56,
+      "time_str": "01:17.560",
+      "text": "明明是想靠近 却孤单到黎明",
+      "translation": null
+    },
+    {
+      "time": 84.01,
+      "time_str": "01:24.010",
+      "text": "不知道 不明了 不想要",
+      "translation": null
+    },
+    {
+      "time": 86.4,
+      "time_str": "01:26.400",
+      "text": "为什么我的心",
+      "translation": null
+    },
+    {
+      "time": 90.5,
+      "time_str": "01:30.500",
+      "text": "那爱情的绮丽 总是在孤单里",
+      "translation": null
+    },
+    {
+      "time": 96.96,
+      "time_str": "01:36.960",
+      "text": "再把我的最好的爱给你",
+      "translation": null
+    },
+    {
+      "time": 103.91,
+      "time_str": "01:43.910",
+      "text": "不知不觉 不情不愿 又到巷子口",
+      "translation": null
+    },
+    {
+      "time": 110.34,
+      "time_str": "01:50.340",
+      "text": "我没有哭 也没有笑 因为这是梦",
+      "translation": null
+    },
+    {
+      "time": 116.85,
+      "time_str": "01:56.850",
+      "text": "没有预兆 没有理由 你真的有说过",
+      "translation": null
+    },
+    {
+      "time": 122.54,
+      "time_str": "02:02.540",
+      "text": "如果有 就让你自由",
+      "translation": null
+    },
+    {
+      "time": 152.09,
+      "time_str": "02:32.090",
+      "text": "不知道 不明了 不想要",
+      "translation": null
+    },
+    {
+      "time": 154.51,
+      "time_str": "02:34.510",
+      "text": "为什么我的心",
+      "translation": null
+    },
+    {
+      "time": 158.58,
+      "time_str": "02:38.580",
+      "text": "明明是想靠近 却孤单的黎明",
+      "translation": null
+    },
+    {
+      "time": 165.08,
+      "time_str": "02:45.080",
+      "text": "不知道 不明了 不想要",
+      "translation": null
+    },
+    {
+      "time": 167.46,
+      "time_str": "02:47.460",
+      "text": "为什么我的心",
+      "translation": null
+    },
+    {
+      "time": 171.56,
+      "time_str": "02:51.560",
+      "text": "那爱情的绮丽 总是在孤单里",
+      "translation": null
+    },
+    {
+      "time": 178.05,
+      "time_str": "02:58.050",
+      "text": "再把我的最好的爱给你",
+      "translation": null
+    },
+    {
+      "time": 184.96,
+      "time_str": "03:04.960",
+      "text": "不知不觉 不情不愿 又到巷子口",
+      "translation": null
+    },
+    {
+      "time": 191.4,
+      "time_str": "03:11.400",
+      "text": "我没有哭 也没有笑 因为这是梦",
+      "translation": null
+    },
+    {
+      "time": 197.89,
+      "time_str": "03:17.890",
+      "text": "没有预兆 没有理由 你真的有说过",
+      "translation": null
+    },
+    {
+      "time": 203.64,
+      "time_str": "03:23.640",
+      "text": "如果有 就让你自由",
+      "translation": null
+    },
+    {
+      "time": 213.36,
+      "time_str": "03:33.360",
+      "text": "自由",
+      "translation": null
+    },
+    {
+      "time": 218.56,
+      "time_str": "03:38.560",
+      "text": "这是我的温柔",
+      "translation": null
+    },
+    {
+      "time": 221.81,
+      "time_str": "03:41.810",
+      "text": "这是我的温柔",
+      "translation": null
+    },
+    {
+      "time": 225.01,
+      "time_str": "03:45.010",
+      "text": "这是我的温柔",
+      "translation": null
+    },
+    {
+      "time": 228.26,
+      "time_str": "03:48.260",
+      "text": "这是我的温柔",
+      "translation": null
+    },
+    {
+      "time": 243.34,
+      "time_str": "04:03.340",
+      "text": "让你自由",
+      "translation": null
+    },
+    {
+      "time": 264.8,
+      "time_str": "04:24.800",
+      "text": "乐团 : 陈建良+五月天",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "温柔 - 五月天.lrc"
+}

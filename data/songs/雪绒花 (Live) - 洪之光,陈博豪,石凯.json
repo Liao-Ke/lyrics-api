@@ -1,0 +1,322 @@
+{
+  "title": "雪绒花",
+  "title_raw": "雪绒花 (Live)",
+  "version": "Live",
+  "artist": "洪之光,陈博豪,石凯",
+  "group_key": "雪绒花|洪之光,陈博豪,石凯",
+  "writers": {
+    "lyricist": "奥斯卡·汉默斯坦",
+    "composer": "理查德·罗杰斯",
+    "arranger": "张筱真/宋堃"
+  },
+  "lyrics": [
+    {
+      "time": 1.93,
+      "time_str": "00:01.930",
+      "text": "音乐总监 : 钟兴民",
+      "translation": null
+    },
+    {
+      "time": 2.58,
+      "time_str": "00:02.580",
+      "text": "演唱总监 : 黄韵玲",
+      "translation": null
+    },
+    {
+      "time": 3.87,
+      "time_str": "00:03.870",
+      "text": "管乐 : 铜燕管乐团",
+      "translation": null
+    },
+    {
+      "time": 4.51,
+      "time_str": "00:04.510",
+      "text": "贝斯 : 章谋圣",
+      "translation": null
+    },
+    {
+      "time": 5.16,
+      "time_str": "00:05.160",
+      "text": "键盘 : 马克/金音来",
+      "translation": null
+    },
+    {
+      "time": 6.45,
+      "time_str": "00:06.450",
+      "text": "打击乐 : 王宏涛",
+      "translation": null
+    },
+    {
+      "time": 7.74,
+      "time_str": "00:07.740",
+      "text": "尼龙吉他 : 苏孟风",
+      "translation": null
+    },
+    {
+      "time": 8.38,
+      "time_str": "00:08.380",
+      "text": "伴唱 : 毕见晟/宋豪/丁香/陈虹利",
+      "translation": null
+    },
+    {
+      "time": 9.03,
+      "time_str": "00:09.030",
+      "text": "PGM : 陈佑峰",
+      "translation": null
+    },
+    {
+      "time": 10.33,
+      "time_str": "00:10.330",
+      "text": "洪之光：",
+      "translation": null
+    },
+    {
+      "time": 17.63,
+      "time_str": "00:17.630",
+      "text": "雪绒花 雪绒花",
+      "translation": null
+    },
+    {
+      "time": 25.98,
+      "time_str": "00:25.980",
+      "text": "清晨迎接我开放",
+      "translation": null
+    },
+    {
+      "time": 33.72,
+      "time_str": "00:33.720",
+      "text": "陈博豪：",
+      "translation": null
+    },
+    {
+      "time": 34.33,
+      "time_str": "00:34.330",
+      "text": "小而白",
+      "translation": null
+    },
+    {
+      "time": 38.61,
+      "time_str": "00:38.610",
+      "text": "洁而亮",
+      "translation": null
+    },
+    {
+      "time": 43.0,
+      "time_str": "00:43.000",
+      "text": "向我快乐地摇晃",
+      "translation": null
+    },
+    {
+      "time": 50.47,
+      "time_str": "00:50.470",
+      "text": "石凯：",
+      "translation": null
+    },
+    {
+      "time": 51.61,
+      "time_str": "00:51.610",
+      "text": "白雪般的花儿愿你开放",
+      "translation": null
+    },
+    {
+      "time": 59.34,
+      "time_str": "00:59.340",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 59.9,
+      "time_str": "00:59.900",
+      "text": "永远开花生长",
+      "translation": null
+    },
+    {
+      "time": 68.28,
+      "time_str": "01:08.280",
+      "text": "雪绒花 雪绒花",
+      "translation": null
+    },
+    {
+      "time": 76.98,
+      "time_str": "01:16.980",
+      "text": "永远祝福我家乡",
+      "translation": null
+    },
+    {
+      "time": 84.36,
+      "time_str": "01:24.360",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 102.28,
+      "time_str": "01:42.280",
+      "text": "啊",
+      "translation": null
+    },
+    {
+      "time": 118.97,
+      "time_str": "01:58.970",
+      "text": "白雪般的花儿愿你芬芳",
+      "translation": null
+    },
+    {
+      "time": 126.88,
+      "time_str": "02:06.880",
+      "text": "永远开花生长",
+      "translation": null
+    },
+    {
+      "time": 135.18,
+      "time_str": "02:15.180",
+      "text": "石凯/洪之光：",
+      "translation": null
+    },
+    {
+      "time": 138.41,
+      "time_str": "02:18.410",
+      "text": "雪绒花",
+      "translation": null
+    },
+    {
+      "time": 140.47,
+      "time_str": "02:20.470",
+      "text": "（陈博豪：）",
+      "translation": null
+    },
+    {
+      "time": 141.18,
+      "time_str": "02:21.180",
+      "text": "（那雪绒花啊）",
+      "translation": null
+    },
+    {
+      "time": 142.52,
+      "time_str": "02:22.520",
+      "text": "雪绒花",
+      "translation": null
+    },
+    {
+      "time": 144.99,
+      "time_str": "02:24.990",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 145.36,
+      "time_str": "02:25.360",
+      "text": "清晨迎着我开放",
+      "translation": null
+    },
+    {
+      "time": 151.54,
+      "time_str": "02:31.540",
+      "text": "陈博豪/石凯：",
+      "translation": null
+    },
+    {
+      "time": 152.29,
+      "time_str": "02:32.290",
+      "text": "小而白",
+      "translation": null
+    },
+    {
+      "time": 154.36,
+      "time_str": "02:34.360",
+      "text": "（洪之光：）",
+      "translation": null
+    },
+    {
+      "time": 155.26,
+      "time_str": "02:35.260",
+      "text": "（那雪绒花啊）",
+      "translation": null
+    },
+    {
+      "time": 156.25,
+      "time_str": "02:36.250",
+      "text": "洁而亮",
+      "translation": null
+    },
+    {
+      "time": 158.71,
+      "time_str": "02:38.710",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 159.03,
+      "time_str": "02:39.030",
+      "text": "向我快乐地摇晃",
+      "translation": null
+    },
+    {
+      "time": 165.36,
+      "time_str": "02:45.360",
+      "text": "洪之光：",
+      "translation": null
+    },
+    {
+      "time": 165.92,
+      "time_str": "02:45.920",
+      "text": "白雪般的花儿愿你芬芳",
+      "translation": null
+    },
+    {
+      "time": 172.04,
+      "time_str": "02:52.040",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 172.65,
+      "time_str": "02:52.650",
+      "text": "永远开花生长",
+      "translation": null
+    },
+    {
+      "time": 178.9,
+      "time_str": "02:58.900",
+      "text": "陈博豪/石凯：",
+      "translation": null
+    },
+    {
+      "time": 179.63,
+      "time_str": "02:59.630",
+      "text": "雪绒花",
+      "translation": null
+    },
+    {
+      "time": 182.54,
+      "time_str": "03:02.540",
+      "text": "石凯/洪之光：",
+      "translation": null
+    },
+    {
+      "time": 183.42,
+      "time_str": "03:03.420",
+      "text": "雪绒花",
+      "translation": null
+    },
+    {
+      "time": 185.91,
+      "time_str": "03:05.910",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 186.34,
+      "time_str": "03:06.340",
+      "text": "永远祝福我家乡",
+      "translation": null
+    },
+    {
+      "time": 193.25,
+      "time_str": "03:13.250",
+      "text": "永远祝福我家乡",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "雪绒花 (Live) - 洪之光,陈博豪,石凯.lrc"
+}

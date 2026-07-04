@@ -1,0 +1,106 @@
+{
+  "title": "今夜无人入睡",
+  "title_raw": "今夜无人入睡",
+  "version": null,
+  "artist": "群星",
+  "group_key": "今夜无人入睡|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.89,
+      "time_str": "00:03.890",
+      "text": "Nessun dorma! Nessun dorma!",
+      "translation": "无人入睡!无人入眠!"
+    },
+    {
+      "time": 16.62,
+      "time_str": "00:16.620",
+      "text": "Tu pure,o Principessa",
+      "translation": "公主你也是一样"
+    },
+    {
+      "time": 21.71,
+      "time_str": "00:21.710",
+      "text": "Nella tua fredda stanza",
+      "translation": "要在冰冷的闺房"
+    },
+    {
+      "time": 26.43,
+      "time_str": "00:26.430",
+      "text": "Guardi le stelle che fremono d'amore e di speranza!",
+      "translation": "焦急地观望 那因爱情和希望而闪烁的星光!"
+    },
+    {
+      "time": 44.39,
+      "time_str": "00:44.390",
+      "text": "Ma il mio mistero e' chiuso in me,",
+      "translation": "但秘密藏在我心里"
+    },
+    {
+      "time": 49.37,
+      "time_str": "00:49.370",
+      "text": "il nome mio nessun sapra!",
+      "translation": "没有人知道我姓名!"
+    },
+    {
+      "time": 52.98,
+      "time_str": "00:52.980",
+      "text": "No,no,sulla tua bocca lo diro",
+      "translation": "等黎明照耀大地,亲吻你时"
+    },
+    {
+      "time": 63.97,
+      "time_str": "01:03.970",
+      "text": "quando la luce splendera!",
+      "translation": "我才对你说分明!"
+    },
+    {
+      "time": 81.66,
+      "time_str": "01:21.660",
+      "text": "Ed il mio bacio sciogliera il silenzio",
+      "translation": "用我的吻来解开这个秘密"
+    },
+    {
+      "time": 90.97,
+      "time_str": "01:30.970",
+      "text": "che ti fa mia!",
+      "translation": "你跟我结婚!"
+    },
+    {
+      "time": 110.6,
+      "time_str": "01:50.600",
+      "text": "Dilegua,o notte!",
+      "translation": "消失吧,黑夜!"
+    },
+    {
+      "time": 116.51,
+      "time_str": "01:56.510",
+      "text": "Tramontate, stelle!",
+      "translation": "星星沉落下去"
+    },
+    {
+      "time": 121.24,
+      "time_str": "02:01.240",
+      "text": "Tramontate, stelle!",
+      "translation": "星星沉落下去"
+    },
+    {
+      "time": 124.22,
+      "time_str": "02:04.220",
+      "text": "All’alba vincero!",
+      "translation": "黎明时我将获胜!"
+    },
+    {
+      "time": 130.58,
+      "time_str": "02:10.580",
+      "text": "Vincero! Vincero！",
+      "translation": "我将获胜!我将获胜!"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "今夜无人入睡 - 群星.lrc"
+}

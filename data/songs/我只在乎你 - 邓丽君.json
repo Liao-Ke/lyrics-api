@@ -1,0 +1,274 @@
+{
+  "title": "我只在乎你",
+  "title_raw": "我只在乎你",
+  "version": null,
+  "artist": "邓丽君",
+  "group_key": "我只在乎你|邓丽君",
+  "writers": {
+    "lyricist": "慎芝",
+    "composer": "三木たかし",
+    "arranger": "川口真"
+  },
+  "lyrics": [
+    {
+      "time": 26.894,
+      "time_str": "00:26.894",
+      "text": "如果没有遇见你",
+      "translation": null
+    },
+    {
+      "time": 30.387,
+      "time_str": "00:30.387",
+      "text": "我将会是在哪里",
+      "translation": null
+    },
+    {
+      "time": 33.893,
+      "time_str": "00:33.893",
+      "text": "日子过得怎么样",
+      "translation": null
+    },
+    {
+      "time": 37.142,
+      "time_str": "00:37.142",
+      "text": "人生是否要珍惜",
+      "translation": null
+    },
+    {
+      "time": 40.638,
+      "time_str": "00:40.638",
+      "text": "也许认识某一人",
+      "translation": null
+    },
+    {
+      "time": 44.144,
+      "time_str": "00:44.144",
+      "text": "过着平凡的日子",
+      "translation": null
+    },
+    {
+      "time": 47.638,
+      "time_str": "00:47.638",
+      "text": "不知道会不会",
+      "translation": null
+    },
+    {
+      "time": 50.891,
+      "time_str": "00:50.891",
+      "text": "也有爱情甜如蜜",
+      "translation": null
+    },
+    {
+      "time": 54.896,
+      "time_str": "00:54.896",
+      "text": "任时光匆匆流去",
+      "translation": null
+    },
+    {
+      "time": 57.646,
+      "time_str": "00:57.646",
+      "text": "我只在乎你",
+      "translation": null
+    },
+    {
+      "time": 62.396,
+      "time_str": "01:02.396",
+      "text": "心甘情愿感染你的气息",
+      "translation": null
+    },
+    {
+      "time": 69.139,
+      "time_str": "01:09.139",
+      "text": "人生几何能够得到知己",
+      "translation": null
+    },
+    {
+      "time": 76.141,
+      "time_str": "01:16.141",
+      "text": "失去生命的力量也不可惜",
+      "translation": null
+    },
+    {
+      "time": 82.642,
+      "time_str": "01:22.642",
+      "text": "所以我求求你",
+      "translation": null
+    },
+    {
+      "time": 86.647,
+      "time_str": "01:26.647",
+      "text": "别让我离开你",
+      "translation": null
+    },
+    {
+      "time": 91.084,
+      "time_str": "01:31.084",
+      "text": "除了你 我不能感到",
+      "translation": null
+    },
+    {
+      "time": 93.834,
+      "time_str": "01:33.834",
+      "text": "一丝丝情意",
+      "translation": null
+    },
+    {
+      "time": 116.08,
+      "time_str": "01:56.080",
+      "text": "如果有那么一天",
+      "translation": null
+    },
+    {
+      "time": 119.587,
+      "time_str": "01:59.587",
+      "text": "你说即将要离去",
+      "translation": null
+    },
+    {
+      "time": 122.836,
+      "time_str": "02:02.836",
+      "text": "我会迷失我自己",
+      "translation": null
+    },
+    {
+      "time": 126.334,
+      "time_str": "02:06.334",
+      "text": "走入无边人海里",
+      "translation": null
+    },
+    {
+      "time": 129.837,
+      "time_str": "02:09.837",
+      "text": "不要什么诺言",
+      "translation": null
+    },
+    {
+      "time": 133.335,
+      "time_str": "02:13.335",
+      "text": "只要天天在一起",
+      "translation": null
+    },
+    {
+      "time": 136.584,
+      "time_str": "02:16.584",
+      "text": "我不能只依靠",
+      "translation": null
+    },
+    {
+      "time": 140.079,
+      "time_str": "02:20.079",
+      "text": "片片回忆活下去",
+      "translation": null
+    },
+    {
+      "time": 144.083,
+      "time_str": "02:24.083",
+      "text": "任时光匆匆流去",
+      "translation": null
+    },
+    {
+      "time": 146.834,
+      "time_str": "02:26.834",
+      "text": "我只在乎你",
+      "translation": null
+    },
+    {
+      "time": 151.584,
+      "time_str": "02:31.584",
+      "text": "心甘情愿感染你的气息",
+      "translation": null
+    },
+    {
+      "time": 158.586,
+      "time_str": "02:38.586",
+      "text": "人生几何能够得到知己",
+      "translation": null
+    },
+    {
+      "time": 165.329,
+      "time_str": "02:45.329",
+      "text": "失去生命的力量也不可惜",
+      "translation": null
+    },
+    {
+      "time": 171.829,
+      "time_str": "02:51.829",
+      "text": "所以我求求你",
+      "translation": null
+    },
+    {
+      "time": 175.835,
+      "time_str": "02:55.835",
+      "text": "别让我离开你",
+      "translation": null
+    },
+    {
+      "time": 180.278,
+      "time_str": "03:00.278",
+      "text": "除了你 我不能感到",
+      "translation": null
+    },
+    {
+      "time": 182.786,
+      "time_str": "03:02.786",
+      "text": "一丝丝情意",
+      "translation": null
+    },
+    {
+      "time": 193.719,
+      "time_str": "03:13.719",
+      "text": "任时光匆匆流去",
+      "translation": null
+    },
+    {
+      "time": 196.473,
+      "time_str": "03:16.473",
+      "text": "我只在乎你",
+      "translation": null
+    },
+    {
+      "time": 200.977,
+      "time_str": "03:20.977",
+      "text": "心甘情愿感染你的气息",
+      "translation": null
+    },
+    {
+      "time": 208.22,
+      "time_str": "03:28.220",
+      "text": "人生几何能够得到知己",
+      "translation": null
+    },
+    {
+      "time": 215.22,
+      "time_str": "03:35.220",
+      "text": "失去生命的力量也不可惜",
+      "translation": null
+    },
+    {
+      "time": 221.672,
+      "time_str": "03:41.672",
+      "text": "所以我求求你",
+      "translation": null
+    },
+    {
+      "time": 225.179,
+      "time_str": "03:45.179",
+      "text": "别让我离开你",
+      "translation": null
+    },
+    {
+      "time": 229.426,
+      "time_str": "03:49.426",
+      "text": "除了你 我不能感到",
+      "translation": null
+    },
+    {
+      "time": 232.423,
+      "time_str": "03:52.423",
+      "text": "一丝丝情意",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我只在乎你 - 邓丽君.lrc"
+}

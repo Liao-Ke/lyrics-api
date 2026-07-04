@@ -1,0 +1,220 @@
+{
+  "title": "背过手",
+  "title_raw": "背过手",
+  "version": null,
+  "artist": "薛之谦",
+  "group_key": "背过手|薛之谦",
+  "writers": {
+    "lyricist": "薛之谦",
+    "composer": "薛之谦",
+    "arranger": "宋涛"
+  },
+  "lyrics": [
+    {
+      "time": 22.98,
+      "time_str": "00:22.980",
+      "text": "花被人摘走",
+      "translation": null
+    },
+    {
+      "time": 28.2,
+      "time_str": "00:28.200",
+      "text": "心被虫吸走",
+      "translation": null
+    },
+    {
+      "time": 33.09,
+      "time_str": "00:33.090",
+      "text": "我一无所有",
+      "translation": null
+    },
+    {
+      "time": 37.79,
+      "time_str": "00:37.790",
+      "text": "错过盛开的时候",
+      "translation": null
+    },
+    {
+      "time": 42.92,
+      "time_str": "00:42.920",
+      "text": "皮被刀割走",
+      "translation": null
+    },
+    {
+      "time": 48.33,
+      "time_str": "00:48.330",
+      "text": "枝被鹿捡走",
+      "translation": null
+    },
+    {
+      "time": 53.45,
+      "time_str": "00:53.450",
+      "text": "树从不开口",
+      "translation": null
+    },
+    {
+      "time": 58.2,
+      "time_str": "00:58.200",
+      "text": "破土后哪来的自由",
+      "translation": null
+    },
+    {
+      "time": 63.34,
+      "time_str": "01:03.340",
+      "text": "无奈的请背过手 在缝里等野果成熟",
+      "translation": null
+    },
+    {
+      "time": 73.43,
+      "time_str": "01:13.430",
+      "text": "无辜的人松了手 反正那背负都雷同",
+      "translation": null
+    },
+    {
+      "time": 104.98,
+      "time_str": "01:44.980",
+      "text": "梦被人抢走",
+      "translation": null
+    },
+    {
+      "time": 109.73,
+      "time_str": "01:49.730",
+      "text": "字被人偷走",
+      "translation": null
+    },
+    {
+      "time": 114.71,
+      "time_str": "01:54.710",
+      "text": "别攥着拳头",
+      "translation": null
+    },
+    {
+      "time": 119.5,
+      "time_str": "01:59.500",
+      "text": "最多解开粒领扣",
+      "translation": null
+    },
+    {
+      "time": 124.56,
+      "time_str": "02:04.560",
+      "text": "风劝云别走",
+      "translation": null
+    },
+    {
+      "time": 129.08,
+      "time_str": "02:09.080",
+      "text": "海将河推走",
+      "translation": null
+    },
+    {
+      "time": 134.41,
+      "time_str": "02:14.410",
+      "text": "爱上就别低头",
+      "translation": null
+    },
+    {
+      "time": 139.23,
+      "time_str": "02:19.230",
+      "text": "骄傲的自作自受",
+      "translation": null
+    },
+    {
+      "time": 144.06,
+      "time_str": "02:24.060",
+      "text": "无奈的请背过手  在梦里等斑驳轻舟",
+      "translation": null
+    },
+    {
+      "time": 154.05,
+      "time_str": "02:34.050",
+      "text": "无辜的人松了手  反正那背负都雷同",
+      "translation": null
+    },
+    {
+      "time": 164.07,
+      "time_str": "02:44.070",
+      "text": "无奈了请放下手  等野草会出卖墙头",
+      "translation": null
+    },
+    {
+      "time": 173.86,
+      "time_str": "02:53.860",
+      "text": "无耻的人伸出手  跪多久能换来富有",
+      "translation": null
+    },
+    {
+      "time": 186.54,
+      "time_str": "03:06.540",
+      "text": "生劝死别走 魂被肉死守",
+      "translation": null
+    },
+    {
+      "time": 196.69,
+      "time_str": "03:16.690",
+      "text": "尽量别张口 满足狼的胃口",
+      "translation": null
+    },
+    {
+      "time": 206.6,
+      "time_str": "03:26.600",
+      "text": "等怂恿的烫了手",
+      "translation": null
+    },
+    {
+      "time": 211.81,
+      "time_str": "03:31.810",
+      "text": "等看懂的还我自由",
+      "translation": null
+    },
+    {
+      "time": 262.42,
+      "time_str": "04:22.420",
+      "text": "女声：莫宇微",
+      "translation": null
+    },
+    {
+      "time": 262.82,
+      "time_str": "04:22.820",
+      "text": "合音：薛之谦",
+      "translation": null
+    },
+    {
+      "time": 263.62,
+      "time_str": "04:23.620",
+      "text": "贝斯：韩阳",
+      "translation": null
+    },
+    {
+      "time": 264.42,
+      "time_str": "04:24.420",
+      "text": "人声录制：莫家伟（上海广播大厦200studio）",
+      "translation": null
+    },
+    {
+      "time": 264.82,
+      "time_str": "04:24.820",
+      "text": "女声、合音录制：汝文博 Bjg J Studio",
+      "translation": null
+    },
+    {
+      "time": 265.22,
+      "time_str": "04:25.220",
+      "text": "吉他、贝斯录制：汝文博 Big J Studio",
+      "translation": null
+    },
+    {
+      "time": 265.62,
+      "time_str": "04:25.620",
+      "text": "鼓录制：李游 55Tec Studio",
+      "translation": null
+    },
+    {
+      "time": 266.02,
+      "time_str": "04:26.020",
+      "text": "母带制作：Chris Gehringer",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "背过手 - 薛之谦.lrc"
+}

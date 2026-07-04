@@ -1,0 +1,346 @@
+{
+  "title": "Jar Of Love",
+  "title_raw": "Jar Of Love",
+  "version": null,
+  "artist": "曲婉婷",
+  "group_key": "jar of love|曲婉婷",
+  "writers": {
+    "lyricist": "曲婉婷",
+    "composer": "曲婉婷",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.3,
+      "time_str": "00:00.300",
+      "text": "Another sunrise, another sunset",
+      "translation": "又是一次日出，又是一次日落"
+    },
+    {
+      "time": 4.2,
+      "time_str": "00:04.200",
+      "text": "Soon it'll all be yesterday",
+      "translation": "转瞬间都将变为昨天"
+    },
+    {
+      "time": 7.43,
+      "time_str": "00:07.430",
+      "text": "Another good day, another bad day,",
+      "translation": "美好的一天，糟糕的一天"
+    },
+    {
+      "time": 11.87,
+      "time_str": "00:11.870",
+      "text": "What did you do today?",
+      "translation": "你又是如何看待今天"
+    },
+    {
+      "time": 15.05,
+      "time_str": "00:15.050",
+      "text": "Why do we choose to chase what we'll lose?",
+      "translation": "为什么我们不断苛求一些我们终将失去的东西"
+    },
+    {
+      "time": 18.87,
+      "time_str": "00:18.870",
+      "text": "What you want isn't what you have.",
+      "translation": "你所有拥有的未必是你所想要的"
+    },
+    {
+      "time": 22.44,
+      "time_str": "00:22.440",
+      "text": "What you have may not be yours, to keep.",
+      "translation": "一些你已拥有的也许不属于你的"
+    },
+    {
+      "time": 30.39,
+      "time_str": "00:30.390",
+      "text": "If I could find love, at a stop, in a park with open arms,",
+      "translation": "如果我能在一个车站，亦或在一座公园张开双臂发现真爱"
+    },
+    {
+      "time": 38.36,
+      "time_str": "00:38.360",
+      "text": "I would save all my love, in a jar,",
+      "translation": "我会将我所有的爱"
+    },
+    {
+      "time": 43.31,
+      "time_str": "00:43.310",
+      "text": "made of sparks, sealed in my beating heart,",
+      "translation": "存在这个蜜罐，然后封印在我跳动的心里"
+    },
+    {
+      "time": 45.96,
+      "time_str": "00:45.960",
+      "text": "Could it be yours to keep, the Jar of Love.",
+      "translation": "你会珍藏这满载着爱的蜜罐里吗"
+    },
+    {
+      "time": 53.24,
+      "time_str": "00:53.240",
+      "text": "Another left turn, another head turns",
+      "translation": "下一个左转，下一个路口"
+    },
+    {
+      "time": 57.52,
+      "time_str": "00:57.520",
+      "text": "Could he be someone I deserve?",
+      "translation": "他会是我的真命天子吗"
+    },
+    {
+      "time": 60.64,
+      "time_str": "01:00.640",
+      "text": "Another right turn, another lesson learned",
+      "translation": "下一个右转，又一次教训"
+    },
+    {
+      "time": 65.2,
+      "time_str": "01:05.200",
+      "text": "Never leave an open flame to burn",
+      "translation": "不要放任这热情的火燃烧"
+    },
+    {
+      "time": 68.28,
+      "time_str": "01:08.280",
+      "text": "Why do we choose to chase what we'll lose?",
+      "translation": "为什么我们不断苛求一些我们终将失去的东西"
+    },
+    {
+      "time": 72.84,
+      "time_str": "01:12.840",
+      "text": "What you want isn't what you have.",
+      "translation": "你所有拥有的未必是你所想要的"
+    },
+    {
+      "time": 75.7,
+      "time_str": "01:15.700",
+      "text": "What you have may not be yours, to keep.",
+      "translation": "一些你已拥有的也许不属于你的"
+    },
+    {
+      "time": 83.639,
+      "time_str": "01:23.639",
+      "text": "If I could find love,",
+      "translation": "如果我能找到真爱"
+    },
+    {
+      "time": 87.98,
+      "time_str": "01:27.980",
+      "text": "at a stop, in a park with open arms,",
+      "translation": "在一家车站，亦或在一座公园张开双臂"
+    },
+    {
+      "time": 91.57,
+      "time_str": "01:31.570",
+      "text": "I would save all my love,",
+      "translation": "我会将我所有的爱"
+    },
+    {
+      "time": 95.5,
+      "time_str": "01:35.500",
+      "text": "in a jar,made of sparks,",
+      "translation": "存进这个满载甜蜜的罐子里"
+    },
+    {
+      "time": 97.65,
+      "time_str": "01:37.650",
+      "text": "sealed in my beating heart,",
+      "translation": "然后封印在我的跳动的心里"
+    },
+    {
+      "time": 99.47,
+      "time_str": "01:39.470",
+      "text": "Could it be yours to keep, the Jar of Love.",
+      "translation": "你会珍藏这满载着爱的蜜罐吗"
+    },
+    {
+      "time": 111.01,
+      "time_str": "01:51.010",
+      "text": "Could you be my love",
+      "translation": "你会是我的真爱吗"
+    },
+    {
+      "time": 114.47,
+      "time_str": "01:54.470",
+      "text": "Could you be my love",
+      "translation": "你会是我的真爱吗"
+    },
+    {
+      "time": 118.31,
+      "time_str": "01:58.310",
+      "text": "Could you be my love",
+      "translation": "你会是我的真爱吗"
+    },
+    {
+      "time": 122.2,
+      "time_str": "02:02.200",
+      "text": "Could you be my love",
+      "translation": "你会是我的真爱吗"
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "Could you be her love",
+      "translation": "你会是她的真爱吗"
+    },
+    {
+      "time": 130.049,
+      "time_str": "02:10.049",
+      "text": "Could you be his love",
+      "translation": "你会是他的真爱吗"
+    },
+    {
+      "time": 133.92,
+      "time_str": "02:13.920",
+      "text": "Could you be my love",
+      "translation": "你会是我的真爱吗"
+    },
+    {
+      "time": 137.6,
+      "time_str": "02:17.600",
+      "text": "Could I be your love",
+      "translation": "我能成为你的真爱吗"
+    },
+    {
+      "time": 141.28,
+      "time_str": "02:21.280",
+      "text": "If I could find love,",
+      "translation": "如果我能找到真爱"
+    },
+    {
+      "time": 145.08,
+      "time_str": "02:25.080",
+      "text": "at a stop, in a park with open arms,",
+      "translation": "在一家车站，亦或在一座公园张开双臂"
+    },
+    {
+      "time": 148.79,
+      "time_str": "02:28.790",
+      "text": "I would save all my love,",
+      "translation": "我会珍藏我全部的爱"
+    },
+    {
+      "time": 152.7,
+      "time_str": "02:32.700",
+      "text": "in a jar,made of sparks,",
+      "translation": "存进这个满载甜蜜的罐子里"
+    },
+    {
+      "time": 154.83,
+      "time_str": "02:34.830",
+      "text": "sealed in my beating heart,",
+      "translation": "然后封印在我的跳动的心里"
+    },
+    {
+      "time": 156.51,
+      "time_str": "02:36.510",
+      "text": "Could it be yours to keep",
+      "translation": "你会珍藏这满载着爱的蜜罐吗"
+    },
+    {
+      "time": 159.94,
+      "time_str": "02:39.940",
+      "text": "If I could find love,",
+      "translation": "如果我能找到真爱"
+    },
+    {
+      "time": 164.07,
+      "time_str": "02:44.070",
+      "text": "at a stop, in a park with open arms,",
+      "translation": "在一家车站，亦或在一座公园张开双臂"
+    },
+    {
+      "time": 167.72,
+      "time_str": "02:47.720",
+      "text": "I would save all my love,",
+      "translation": "我会珍藏我全部的爱"
+    },
+    {
+      "time": 171.78,
+      "time_str": "02:51.780",
+      "text": "in a jar,made of sparks,",
+      "translation": "存进这个满载甜蜜的罐子里"
+    },
+    {
+      "time": 173.79,
+      "time_str": "02:53.790",
+      "text": "sealed in my beating heart,",
+      "translation": "然后封印在我的跳动的心里"
+    },
+    {
+      "time": 175.92,
+      "time_str": "02:55.920",
+      "text": "Could it be yours to keep",
+      "translation": "你会珍藏这满载着爱的蜜罐吗"
+    },
+    {
+      "time": 179.28,
+      "time_str": "02:59.280",
+      "text": "If I could find love,",
+      "translation": "如果我能找到真爱"
+    },
+    {
+      "time": 183.8,
+      "time_str": "03:03.800",
+      "text": "at a stop, in a park with open arms,",
+      "translation": "在一家车站，亦或在一座公园张开双臂"
+    },
+    {
+      "time": 187.09,
+      "time_str": "03:07.090",
+      "text": "I would save all my love,",
+      "translation": "我会珍藏我全部的爱"
+    },
+    {
+      "time": 191.9,
+      "time_str": "03:11.900",
+      "text": "in a jar,made of sparks,",
+      "translation": "存进这个满载甜蜜的罐子里"
+    },
+    {
+      "time": 193.8,
+      "time_str": "03:13.800",
+      "text": "sealed in my beating heart,",
+      "translation": "然后封印在我的跳动的心里"
+    },
+    {
+      "time": 194.91,
+      "time_str": "03:14.910",
+      "text": "Could it be yours to keep",
+      "translation": "你会珍藏这满载着爱的蜜罐吗"
+    },
+    {
+      "time": 198.64,
+      "time_str": "03:18.640",
+      "text": "the Jar of Love.",
+      "translation": "这罐蜜罐里的爱"
+    },
+    {
+      "time": 203.16,
+      "time_str": "03:23.160",
+      "text": "Could it be yours to keep",
+      "translation": "你会珍藏它吗"
+    },
+    {
+      "time": 206.95,
+      "time_str": "03:26.950",
+      "text": "the Jar of Love.",
+      "translation": "这罐蜜罐里的爱"
+    },
+    {
+      "time": 211.31,
+      "time_str": "03:31.310",
+      "text": "Could it be yours to keep",
+      "translation": "你会珍藏它吗"
+    },
+    {
+      "time": 215.36,
+      "time_str": "03:35.360",
+      "text": "the Jar of Love.",
+      "translation": "蜜罐里的爱"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Jar Of Love - 曲婉婷.lrc"
+}

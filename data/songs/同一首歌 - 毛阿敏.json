@@ -1,0 +1,148 @@
+{
+  "title": "同一首歌",
+  "title_raw": "同一首歌",
+  "version": null,
+  "artist": "毛阿敏",
+  "group_key": "同一首歌|毛阿敏",
+  "writers": {
+    "lyricist": "陈哲/胡迎节",
+    "composer": "孟卫东",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 27.73,
+      "time_str": "00:27.730",
+      "text": "鲜花曾告诉我你怎样走过",
+      "translation": null
+    },
+    {
+      "time": 37.77,
+      "time_str": "00:37.770",
+      "text": "大地知道你心中的每一个角落",
+      "translation": null
+    },
+    {
+      "time": 47.89,
+      "time_str": "00:47.890",
+      "text": "甜蜜的梦啊谁都不会错过",
+      "translation": null
+    },
+    {
+      "time": 58.04,
+      "time_str": "00:58.040",
+      "text": "终于迎来今天这欢聚时刻",
+      "translation": null
+    },
+    {
+      "time": 71.59,
+      "time_str": "01:11.590",
+      "text": "水千条山万座我们曾走过",
+      "translation": null
+    },
+    {
+      "time": 81.14,
+      "time_str": "01:21.140",
+      "text": "每一次相逢和笑脸都彼此铭刻",
+      "translation": null
+    },
+    {
+      "time": 91.65,
+      "time_str": "01:31.650",
+      "text": "在阳光灿烂欢乐的日子里",
+      "translation": null
+    },
+    {
+      "time": 101.67,
+      "time_str": "01:41.670",
+      "text": "我们手拉手啊想说的太多",
+      "translation": null
+    },
+    {
+      "time": 112.36,
+      "time_str": "01:52.360",
+      "text": "星光洒满了所有的童年",
+      "translation": null
+    },
+    {
+      "time": 122.17,
+      "time_str": "02:02.170",
+      "text": "风雨走遍了世界的角落",
+      "translation": null
+    },
+    {
+      "time": 132.33,
+      "time_str": "02:12.330",
+      "text": "同样的感受给了我们同样的渴望",
+      "translation": null
+    },
+    {
+      "time": 142.52,
+      "time_str": "02:22.520",
+      "text": "同样的欢乐给了我们同一首歌",
+      "translation": null
+    },
+    {
+      "time": 153.58,
+      "time_str": "02:33.580",
+      "text": "阳光想渗透所有的语言",
+      "translation": null
+    },
+    {
+      "time": 164.08,
+      "time_str": "02:44.080",
+      "text": "风儿把天下的故事传说",
+      "translation": null
+    },
+    {
+      "time": 173.52,
+      "time_str": "02:53.520",
+      "text": "同样的感受给了我们同样的渴望",
+      "translation": null
+    },
+    {
+      "time": 183.25,
+      "time_str": "03:03.250",
+      "text": "同样的欢乐给了我们同一首歌",
+      "translation": null
+    },
+    {
+      "time": 235.34,
+      "time_str": "03:55.340",
+      "text": "阳光想渗透所有的语言",
+      "translation": null
+    },
+    {
+      "time": 245.46,
+      "time_str": "04:05.460",
+      "text": "风儿把天下的故事传说",
+      "translation": null
+    },
+    {
+      "time": 322.3,
+      "time_str": "05:22.300",
+      "text": "鲜花曾告诉我你怎样走过",
+      "translation": null
+    },
+    {
+      "time": 331.86,
+      "time_str": "05:31.860",
+      "text": "大地知道你心中的每一个角落",
+      "translation": null
+    },
+    {
+      "time": 342.05,
+      "time_str": "05:42.050",
+      "text": "甜蜜的梦啊谁都不会错过",
+      "translation": null
+    },
+    {
+      "time": 352.12,
+      "time_str": "05:52.120",
+      "text": "终于迎来今天这欢聚时刻",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "同一首歌 - 毛阿敏.lrc"
+}

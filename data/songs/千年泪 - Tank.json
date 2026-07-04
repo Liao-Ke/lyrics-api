@@ -1,0 +1,286 @@
+{
+  "title": "千年泪",
+  "title_raw": "千年泪",
+  "version": null,
+  "artist": "Tank",
+  "group_key": "千年泪|tank",
+  "writers": {
+    "lyricist": "Tank/ 李姚",
+    "composer": "Tank",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.48,
+      "time_str": "00:16.480",
+      "text": "才话别已深秋",
+      "translation": null
+    },
+    {
+      "time": 19.45,
+      "time_str": "00:19.450",
+      "text": "只一眼就花落",
+      "translation": null
+    },
+    {
+      "time": 23.62,
+      "time_str": "00:23.620",
+      "text": "窗台人影独坐",
+      "translation": null
+    },
+    {
+      "time": 26.69,
+      "time_str": "00:26.690",
+      "text": "夜沉的更寂寞",
+      "translation": null
+    },
+    {
+      "time": 31.37,
+      "time_str": "00:31.370",
+      "text": "一段路分两头",
+      "translation": null
+    },
+    {
+      "time": 34.28,
+      "time_str": "00:34.280",
+      "text": "爱了却要放手",
+      "translation": null
+    },
+    {
+      "time": 38.96,
+      "time_str": "00:38.960",
+      "text": "无事东风走过",
+      "translation": null
+    },
+    {
+      "time": 41.83,
+      "time_str": "00:41.830",
+      "text": "扬起回忆如昨",
+      "translation": null
+    },
+    {
+      "time": 45.5,
+      "time_str": "00:45.500",
+      "text": "摇摇欲坠",
+      "translation": null
+    },
+    {
+      "time": 47.7,
+      "time_str": "00:47.700",
+      "text": "不只你的泪 还有仅剩的世界",
+      "translation": null
+    },
+    {
+      "time": 53.73,
+      "time_str": "00:53.730",
+      "text": "嘲笑的风",
+      "translation": null
+    },
+    {
+      "time": 55.16,
+      "time_str": "00:55.160",
+      "text": "高唱的离别 我却听不见",
+      "translation": null
+    },
+    {
+      "time": 61.55,
+      "time_str": "01:01.550",
+      "text": "穿越千年的眼泪",
+      "translation": null
+    },
+    {
+      "time": 64.849,
+      "time_str": "01:04.849",
+      "text": "只有梦里看得见",
+      "translation": null
+    },
+    {
+      "time": 68.85,
+      "time_str": "01:08.850",
+      "text": "我多想再见你哪怕一面",
+      "translation": null
+    },
+    {
+      "time": 76.58,
+      "time_str": "01:16.580",
+      "text": "前世未了的眷恋",
+      "translation": null
+    },
+    {
+      "time": 80.6,
+      "time_str": "01:20.600",
+      "text": "在我血液里分裂",
+      "translation": null
+    },
+    {
+      "time": 83.41,
+      "time_str": "01:23.410",
+      "text": "沉睡中缠绵 清醒又幻灭",
+      "translation": null
+    },
+    {
+      "time": 107.67,
+      "time_str": "01:47.670",
+      "text": "梦在千丝发间",
+      "translation": null
+    },
+    {
+      "time": 110.5,
+      "time_str": "01:50.500",
+      "text": "我在梦里搁浅",
+      "translation": null
+    },
+    {
+      "time": 114.2,
+      "time_str": "01:54.200",
+      "text": "月光浸湿从前",
+      "translation": null
+    },
+    {
+      "time": 117.92,
+      "time_str": "01:57.920",
+      "text": "掺拌了的想念",
+      "translation": null
+    },
+    {
+      "time": 121.44,
+      "time_str": "02:01.440",
+      "text": "你眺望着天边",
+      "translation": null
+    },
+    {
+      "time": 125.74,
+      "time_str": "02:05.740",
+      "text": "我眺望你的脸",
+      "translation": null
+    },
+    {
+      "time": 129.25,
+      "time_str": "02:09.250",
+      "text": "谨记你的容颜",
+      "translation": null
+    },
+    {
+      "time": 133.13,
+      "time_str": "02:13.130",
+      "text": "来世把你寻找（寻找）",
+      "translation": null
+    },
+    {
+      "time": 137.4,
+      "time_str": "02:17.400",
+      "text": "摇摇欲坠",
+      "translation": null
+    },
+    {
+      "time": 138.9,
+      "time_str": "02:18.900",
+      "text": "不只你的泪 还有仅剩的世界",
+      "translation": null
+    },
+    {
+      "time": 144.72,
+      "time_str": "02:24.720",
+      "text": "嘲笑的风",
+      "translation": null
+    },
+    {
+      "time": 146.64,
+      "time_str": "02:26.640",
+      "text": "高唱的离别 我却听不见",
+      "translation": null
+    },
+    {
+      "time": 152.48,
+      "time_str": "02:32.480",
+      "text": "穿越千年的眼泪",
+      "translation": null
+    },
+    {
+      "time": 156.329,
+      "time_str": "02:36.329",
+      "text": "只有梦里看得见",
+      "translation": null
+    },
+    {
+      "time": 159.65,
+      "time_str": "02:39.650",
+      "text": "我多想再见你哪怕一面",
+      "translation": null
+    },
+    {
+      "time": 166.4,
+      "time_str": "02:46.400",
+      "text": "前世未了的眷恋",
+      "translation": null
+    },
+    {
+      "time": 171.36,
+      "time_str": "02:51.360",
+      "text": "在我血液里分裂",
+      "translation": null
+    },
+    {
+      "time": 175.57,
+      "time_str": "02:55.570",
+      "text": "沉睡中缠绵 清醒又幻灭",
+      "translation": null
+    },
+    {
+      "time": 183.16,
+      "time_str": "03:03.160",
+      "text": "摇摇欲坠 不只你的泪",
+      "translation": null
+    },
+    {
+      "time": 187.3,
+      "time_str": "03:07.300",
+      "text": "嘲笑的风 高唱的离别",
+      "translation": null
+    },
+    {
+      "time": 191.32,
+      "time_str": "03:11.320",
+      "text": "不管还要等待多少年",
+      "translation": null
+    },
+    {
+      "time": 198.41,
+      "time_str": "03:18.410",
+      "text": "穿越千年的眼泪",
+      "translation": null
+    },
+    {
+      "time": 201.73,
+      "time_str": "03:21.730",
+      "text": "只有梦里看得见",
+      "translation": null
+    },
+    {
+      "time": 205.68,
+      "time_str": "03:25.680",
+      "text": "我多想再见你哪怕一面",
+      "translation": null
+    },
+    {
+      "time": 212.57,
+      "time_str": "03:32.570",
+      "text": "前世未了的眷恋",
+      "translation": null
+    },
+    {
+      "time": 216.94,
+      "time_str": "03:36.940",
+      "text": "在我血液里分裂",
+      "translation": null
+    },
+    {
+      "time": 221.35,
+      "time_str": "03:41.350",
+      "text": "沉睡中缠绵 清醒又幻灭",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "千年泪 - Tank.lrc"
+}

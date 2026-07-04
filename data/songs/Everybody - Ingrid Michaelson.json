@@ -1,0 +1,280 @@
+{
+  "title": "Everybody",
+  "title_raw": "Everybody",
+  "version": null,
+  "artist": "Ingrid Michaelson",
+  "group_key": "everybody|ingrid michaelson",
+  "writers": {
+    "lyricist": "Ingrid Michaelson",
+    "composer": "Ingrid Michaelson",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.998,
+      "time_str": "00:09.998",
+      "text": "em~~~~",
+      "translation": "噢~~~~"
+    },
+    {
+      "time": 11.38,
+      "time_str": "00:11.380",
+      "text": "We have fallen down again tonight",
+      "translation": "我们又失败了"
+    },
+    {
+      "time": 14.988,
+      "time_str": "00:14.988",
+      "text": "in this world it's hard to get it right",
+      "translation": "在这世上有时候就是很难做好"
+    },
+    {
+      "time": 20.179,
+      "time_str": "00:20.179",
+      "text": "trying to make your heart fit like a glove",
+      "translation": "尽量让自己心里感觉被爱"
+    },
+    {
+      "time": 24.839,
+      "time_str": "00:24.839",
+      "text": "what it needs is love love love",
+      "translation": "你的心需要的正是爱"
+    },
+    {
+      "time": 30.25,
+      "time_str": "00:30.250",
+      "text": "Everybody, everybody wants to love",
+      "translation": "人们都想爱"
+    },
+    {
+      "time": 32.78,
+      "time_str": "00:32.780",
+      "text": "Everybody, everybody wants to be loved",
+      "translation": "人们都想被爱"
+    },
+    {
+      "time": 35.5,
+      "time_str": "00:35.500",
+      "text": "Oh, oh, oh, oh, oh, oh",
+      "translation": "噢，噢，噢，噢，噢，噢"
+    },
+    {
+      "time": 40.32,
+      "time_str": "00:40.320",
+      "text": "Everybody, everybody wants to love",
+      "translation": "人们都想爱"
+    },
+    {
+      "time": 42.89,
+      "time_str": "00:42.890",
+      "text": "Everybody, everybody wants to be loved",
+      "translation": "人们都想被爱"
+    },
+    {
+      "time": 45.53,
+      "time_str": "00:45.530",
+      "text": "Oh, oh, oh, oh, oh, oh",
+      "translation": "噢，噢，噢，噢，噢，噢"
+    },
+    {
+      "time": 61.96,
+      "time_str": "01:01.960",
+      "text": "happy is the heart that still feels pain",
+      "translation": "感受酸甜苦辣正是人心的美妙之处"
+    },
+    {
+      "time": 67.1,
+      "time_str": "01:07.100",
+      "text": "darkness drains  and light will come again",
+      "translation": "生活中既有痛苦也会有快乐"
+    },
+    {
+      "time": 70.8,
+      "time_str": "01:10.800",
+      "text": "swing open up your chest and let it in",
+      "translation": "所以，敞开你的胸怀，迎接这一切"
+    },
+    {
+      "time": 75.5,
+      "time_str": "01:15.500",
+      "text": "just let the love love love begin",
+      "translation": "现在就开始爱吧"
+    },
+    {
+      "time": 79.79,
+      "time_str": "01:19.790",
+      "text": "Everybody, everybody wants to love",
+      "translation": "人们都想爱"
+    },
+    {
+      "time": 84.7,
+      "time_str": "01:24.700",
+      "text": "Everybody, everybody wants to be loved",
+      "translation": "人们都想被爱"
+    },
+    {
+      "time": 87.36,
+      "time_str": "01:27.360",
+      "text": "Oh, oh, oh, oh, oh, oh",
+      "translation": "噢~~~~~"
+    },
+    {
+      "time": 92.45,
+      "time_str": "01:32.450",
+      "text": "Everybody, everybody wants to love",
+      "translation": "人们都想爱"
+    },
+    {
+      "time": 95.05,
+      "time_str": "01:35.050",
+      "text": "Everybody, everybody wants to be loved",
+      "translation": "人们都想被爱"
+    },
+    {
+      "time": 98.2,
+      "time_str": "01:38.200",
+      "text": "Oh, oh, oh, oh, oh, oh",
+      "translation": "噢~~~~~"
+    },
+    {
+      "time": 102.49,
+      "time_str": "01:42.490",
+      "text": "oh everybody knows the love, everybody holds the love",
+      "translation": "噢，人们都懂得爱，人们都拥有爱"
+    },
+    {
+      "time": 107.2,
+      "time_str": "01:47.200",
+      "text": "everybody folds for love",
+      "translation": "人们都追寻爱"
+    },
+    {
+      "time": 110.65,
+      "time_str": "01:50.650",
+      "text": "everybody feels the love, everybody skills the love",
+      "translation": "人们都能感受到爱，人们都有爱相伴"
+    },
+    {
+      "time": 117.2,
+      "time_str": "01:57.200",
+      "text": "everybody heals with love",
+      "translation": "人们都被爱治愈"
+    },
+    {
+      "time": 122.82,
+      "time_str": "02:02.820",
+      "text": "oh oh oh oh,just let the love love love begin",
+      "translation": "噢~~~，现在就开始爱吧"
+    },
+    {
+      "time": 131.788,
+      "time_str": "02:11.788",
+      "text": "Everybody, everybody wants to love",
+      "translation": "人们都想爱"
+    },
+    {
+      "time": 135.308,
+      "time_str": "02:15.308",
+      "text": "Everybody, everybody wants to be loved",
+      "translation": "人们都想被爱"
+    },
+    {
+      "time": 138.39,
+      "time_str": "02:18.390",
+      "text": "Oh, oh, oh, just let the love love love begin",
+      "translation": "噢~~，现在就开始爱吧"
+    },
+    {
+      "time": 143.789,
+      "time_str": "02:23.789",
+      "text": "Everybody, everybody wants to love",
+      "translation": "人们都想爱"
+    },
+    {
+      "time": 144.688,
+      "time_str": "02:24.688",
+      "text": "Everybody, everybody wants to be loved",
+      "translation": "人们都想被爱"
+    },
+    {
+      "time": 147.448,
+      "time_str": "02:27.448",
+      "text": "Oh, oh, oh, just let the love love love begin",
+      "translation": "噢~~，现在就开始爱吧"
+    },
+    {
+      "time": 152.448,
+      "time_str": "02:32.448",
+      "text": "Everybody, everybody wants to love （everybody knows the love）",
+      "translation": "人们都想爱（人们都懂爱）"
+    },
+    {
+      "time": 156.478,
+      "time_str": "02:36.478",
+      "text": "Everybody, everybody wants to be loved （everybody holds the love）",
+      "translation": "人们都想被爱（人们都拥有爱）"
+    },
+    {
+      "time": 160.589,
+      "time_str": "02:40.589",
+      "text": "Oh, oh, oh, oh, oh, oh （everybody folds for love）",
+      "translation": "噢~~~~~（人们都追寻爱）"
+    },
+    {
+      "time": 165.017,
+      "time_str": "02:45.017",
+      "text": "Everybody, everybody wants to love （everybody feels with love）",
+      "translation": "人们都想爱（人们都能感受到爱）"
+    },
+    {
+      "time": 167.419,
+      "time_str": "02:47.419",
+      "text": "Everybody, everybody wants to be loved （everybody still with love）",
+      "translation": "人们都想被爱（人们都有爱相伴）"
+    },
+    {
+      "time": 170.338,
+      "time_str": "02:50.338",
+      "text": "Oh, oh, oh, oh, oh, oh （everybody heals with love）",
+      "translation": "噢~~~~~（人们都被爱治愈）"
+    },
+    {
+      "time": 174.128,
+      "time_str": "02:54.128",
+      "text": "Everybody, everybody wants to love （oh everybody）",
+      "translation": "人们都想爱"
+    },
+    {
+      "time": 177.28,
+      "time_str": "02:57.280",
+      "text": "Everybody, everybody wants to be loved （oh everybody）",
+      "translation": "人们都想被爱"
+    },
+    {
+      "time": 178.958,
+      "time_str": "02:58.958",
+      "text": "Oh, oh, oh, oh, oh, oh （oh everybody）",
+      "translation": "噢~~~~~"
+    },
+    {
+      "time": 182.978,
+      "time_str": "03:02.978",
+      "text": "Everybody, everybody wants to love （oh everybody）",
+      "translation": "人们都想爱"
+    },
+    {
+      "time": 186.128,
+      "time_str": "03:06.128",
+      "text": "Everybody, everybody wants to be loved （oh everybody）",
+      "translation": "人们都想被爱"
+    },
+    {
+      "time": 188.578,
+      "time_str": "03:08.578",
+      "text": "Oh, oh, oh, oh, oh, oh （oh everybody）",
+      "translation": "噢~~~~~"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Everybody - Ingrid Michaelson.lrc"
+}

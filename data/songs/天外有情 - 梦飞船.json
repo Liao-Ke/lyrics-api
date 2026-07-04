@@ -1,0 +1,370 @@
+{
+  "title": "天外有情",
+  "title_raw": "天外有情",
+  "version": null,
+  "artist": "梦飞船",
+  "group_key": "天外有情|梦飞船",
+  "writers": {
+    "lyricist": null,
+    "composer": "《天外有情》",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 12.99,
+      "time_str": "00:12.990",
+      "text": "《陆小凤之谁家天下》主题曲",
+      "translation": null
+    },
+    {
+      "time": 33.14,
+      "time_str": "00:33.140",
+      "text": "浩瀚天地之间",
+      "translation": null
+    },
+    {
+      "time": 36.03,
+      "time_str": "00:36.030",
+      "text": "情如风月",
+      "translation": null
+    },
+    {
+      "time": 37.92,
+      "time_str": "00:37.920",
+      "text": "挥舞飞九天",
+      "translation": null
+    },
+    {
+      "time": 42.48,
+      "time_str": "00:42.480",
+      "text": "是谁家散落",
+      "translation": null
+    },
+    {
+      "time": 45.24,
+      "time_str": "00:45.240",
+      "text": "梦与烟",
+      "translation": null
+    },
+    {
+      "time": 47.6,
+      "time_str": "00:47.600",
+      "text": "相对却无言",
+      "translation": null
+    },
+    {
+      "time": 52.59,
+      "time_str": "00:52.59",
+      "text": "昨夜彷佛看见",
+      "translation": null
+    },
+    {
+      "time": 55.48,
+      "time_str": "00:55.48",
+      "text": "天涯身边",
+      "translation": null
+    },
+    {
+      "time": 57.32,
+      "time_str": "00:57.32",
+      "text": "转眼己从前",
+      "translation": null
+    },
+    {
+      "time": 61.83,
+      "time_str": "01:01.83",
+      "text": "是一场思念",
+      "translation": null
+    },
+    {
+      "time": 64.55,
+      "time_str": "01:04.55",
+      "text": "血泪间",
+      "translation": null
+    },
+    {
+      "time": 67.04,
+      "time_str": "01:07.04",
+      "text": "爱恨到永远～～～",
+      "translation": null
+    },
+    {
+      "time": 71.85,
+      "time_str": "01:11.85",
+      "text": "天外天",
+      "translation": null
+    },
+    {
+      "time": 72.9,
+      "time_str": "01:12.90",
+      "text": "梦可圆",
+      "translation": null
+    },
+    {
+      "time": 74.04,
+      "time_str": "01:14.04",
+      "text": "刀锋间",
+      "translation": null
+    },
+    {
+      "time": 75.19,
+      "time_str": "01:15.19",
+      "text": "有依恋",
+      "translation": null
+    },
+    {
+      "time": 76.61,
+      "time_str": "01:16.61",
+      "text": "天外有情有缘",
+      "translation": null
+    },
+    {
+      "time": 79.15,
+      "time_str": "01:19.15",
+      "text": "魂魄一瞬间",
+      "translation": null
+    },
+    {
+      "time": 81.51,
+      "time_str": "01:21.51",
+      "text": "天外天",
+      "translation": null
+    },
+    {
+      "time": 82.61,
+      "time_str": "01:22.61",
+      "text": "再相见",
+      "translation": null
+    },
+    {
+      "time": 83.79,
+      "time_str": "01:23.79",
+      "text": "刀锋间",
+      "translation": null
+    },
+    {
+      "time": 84.92,
+      "time_str": "01:24.92",
+      "text": "情不变",
+      "translation": null
+    },
+    {
+      "time": 86.47,
+      "time_str": "01:26.47",
+      "text": "天外冷眼人间",
+      "translation": null
+    },
+    {
+      "time": 88.75,
+      "time_str": "01:28.75",
+      "text": "洒脱笑剑边～～～",
+      "translation": null
+    },
+    {
+      "time": 96.8,
+      "time_str": "01:36.80",
+      "text": "MUSIC",
+      "translation": null
+    },
+    {
+      "time": 100.95,
+      "time_str": "01:40.950",
+      "text": "昨夜彷佛看见",
+      "translation": null
+    },
+    {
+      "time": 104.0,
+      "time_str": "01:44.000",
+      "text": "天涯身边",
+      "translation": null
+    },
+    {
+      "time": 105.87,
+      "time_str": "01:45.870",
+      "text": "转眼己从前",
+      "translation": null
+    },
+    {
+      "time": 110.3,
+      "time_str": "01:50.300",
+      "text": "是一场思念",
+      "translation": null
+    },
+    {
+      "time": 112.95,
+      "time_str": "01:52.950",
+      "text": "血泪间",
+      "translation": null
+    },
+    {
+      "time": 115.51,
+      "time_str": "01:55.510",
+      "text": "爱恨到永远～～～",
+      "translation": null
+    },
+    {
+      "time": 120.23,
+      "time_str": "02:00.23",
+      "text": "天外天",
+      "translation": null
+    },
+    {
+      "time": 121.28,
+      "time_str": "02:01.28",
+      "text": "梦可圆",
+      "translation": null
+    },
+    {
+      "time": 122.51,
+      "time_str": "02:02.51",
+      "text": "刀锋间",
+      "translation": null
+    },
+    {
+      "time": 123.64,
+      "time_str": "02:03.64",
+      "text": "有依恋",
+      "translation": null
+    },
+    {
+      "time": 125.16,
+      "time_str": "02:05.16",
+      "text": "天外有情有缘",
+      "translation": null
+    },
+    {
+      "time": 127.29,
+      "time_str": "02:07.29",
+      "text": "魂魄一瞬间",
+      "translation": null
+    },
+    {
+      "time": 129.91,
+      "time_str": "02:09.91",
+      "text": "天外天",
+      "translation": null
+    },
+    {
+      "time": 131.02,
+      "time_str": "02:11.02",
+      "text": "再相见",
+      "translation": null
+    },
+    {
+      "time": 132.17,
+      "time_str": "02:12.17",
+      "text": "刀锋间",
+      "translation": null
+    },
+    {
+      "time": 133.35,
+      "time_str": "02:13.35",
+      "text": "情不变",
+      "translation": null
+    },
+    {
+      "time": 134.86,
+      "time_str": "02:14.86",
+      "text": "天外冷眼人间",
+      "translation": null
+    },
+    {
+      "time": 137.15,
+      "time_str": "02:17.15",
+      "text": "洒脱笑剑边～～～",
+      "translation": null
+    },
+    {
+      "time": 146.96,
+      "time_str": "02:26.96",
+      "text": "MUSIC",
+      "translation": null
+    },
+    {
+      "time": 159.06,
+      "time_str": "02:39.060",
+      "text": "天外天",
+      "translation": null
+    },
+    {
+      "time": 160.09,
+      "time_str": "02:40.090",
+      "text": "梦可圆",
+      "translation": null
+    },
+    {
+      "time": 161.78,
+      "time_str": "02:41.780",
+      "text": "刀锋间",
+      "translation": null
+    },
+    {
+      "time": 162.52,
+      "time_str": "02:42.520",
+      "text": "有依恋",
+      "translation": null
+    },
+    {
+      "time": 163.92,
+      "time_str": "02:43.920",
+      "text": "天外有情有缘",
+      "translation": null
+    },
+    {
+      "time": 166.35,
+      "time_str": "02:46.350",
+      "text": "魂魄一瞬间",
+      "translation": null
+    },
+    {
+      "time": 168.75,
+      "time_str": "02:48.750",
+      "text": "天外天",
+      "translation": null
+    },
+    {
+      "time": 169.71,
+      "time_str": "02:49.710",
+      "text": "再相见",
+      "translation": null
+    },
+    {
+      "time": 171.04,
+      "time_str": "02:51.040",
+      "text": "刀锋间",
+      "translation": null
+    },
+    {
+      "time": 172.08,
+      "time_str": "02:52.080",
+      "text": "情不变",
+      "translation": null
+    },
+    {
+      "time": 173.58,
+      "time_str": "02:53.580",
+      "text": "天外冷眼人间",
+      "translation": null
+    },
+    {
+      "time": 175.86,
+      "time_str": "02:55.860",
+      "text": "洒脱笑剑边～～～",
+      "translation": null
+    },
+    {
+      "time": 183.36,
+      "time_str": "03:03.360",
+      "text": "MUSIC",
+      "translation": null
+    },
+    {
+      "time": 194.96,
+      "time_str": "03:14.960",
+      "text": "END",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天外有情 - 梦飞船.lrc"
+}

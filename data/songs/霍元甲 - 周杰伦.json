@@ -1,0 +1,376 @@
+{
+  "title": "霍元甲",
+  "title_raw": "霍元甲",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "霍元甲|周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 54.14,
+      "time_str": "00:54.140",
+      "text": "吓 命有几回合擂台等着",
+      "translation": null
+    },
+    {
+      "time": 57.27,
+      "time_str": "00:57.270",
+      "text": "生死状赢了什么冷笑着",
+      "translation": null
+    },
+    {
+      "time": 59.72,
+      "time_str": "00:59.720",
+      "text": "天下谁的第一又如何",
+      "translation": null
+    },
+    {
+      "time": 62.19,
+      "time_str": "01:02.190",
+      "text": "止干戈我辈尚武德",
+      "translation": null
+    },
+    {
+      "time": 64.32,
+      "time_str": "01:04.320",
+      "text": "我的拳脚了得",
+      "translation": null
+    },
+    {
+      "time": 66.45,
+      "time_str": "01:06.450",
+      "text": "却奈何徒增虚名一个",
+      "translation": null
+    },
+    {
+      "time": 68.93,
+      "time_str": "01:08.930",
+      "text": "江湖难测谁是强者",
+      "translation": null
+    },
+    {
+      "time": 71.35,
+      "time_str": "01:11.350",
+      "text": "谁争一统武林的资格",
+      "translation": null
+    },
+    {
+      "time": 73.78,
+      "time_str": "01:13.780",
+      "text": "小城里岁月流过去",
+      "translation": null
+    },
+    {
+      "time": 78.68,
+      "time_str": "01:18.680",
+      "text": "清澈的勇气",
+      "translation": null
+    },
+    {
+      "time": 82.72,
+      "time_str": "01:22.720",
+      "text": "洗涤过的回忆",
+      "translation": null
+    },
+    {
+      "time": 85.76,
+      "time_str": "01:25.760",
+      "text": "我记得你",
+      "translation": null
+    },
+    {
+      "time": 88.19,
+      "time_str": "01:28.190",
+      "text": "骄傲地活下去",
+      "translation": null
+    },
+    {
+      "time": 93.35,
+      "time_str": "01:33.350",
+      "text": "霍霍 霍霍 霍霍霍霍",
+      "translation": null
+    },
+    {
+      "time": 95.58,
+      "time_str": "01:35.580",
+      "text": "霍家拳的套路招式灵活",
+      "translation": null
+    },
+    {
+      "time": 98.36,
+      "time_str": "01:38.360",
+      "text": "活活 活活 活活活活",
+      "translation": null
+    },
+    {
+      "time": 100.45,
+      "time_str": "01:40.450",
+      "text": "活着生命就该完整地过",
+      "translation": null
+    },
+    {
+      "time": 103.18,
+      "time_str": "01:43.180",
+      "text": "过过 过过 过过过过",
+      "translation": null
+    },
+    {
+      "time": 105.35,
+      "time_str": "01:45.350",
+      "text": "过错软弱从来不属于我",
+      "translation": null
+    },
+    {
+      "time": 108.08,
+      "time_str": "01:48.080",
+      "text": "我我 我我 我我我我",
+      "translation": null
+    },
+    {
+      "time": 110.26,
+      "time_str": "01:50.260",
+      "text": "我们精武出手无人能躲",
+      "translation": null
+    },
+    {
+      "time": 122.76,
+      "time_str": "02:02.760",
+      "text": "吓 命有几回合擂台等着",
+      "translation": null
+    },
+    {
+      "time": 125.85,
+      "time_str": "02:05.850",
+      "text": "生死状赢了什么冷笑着",
+      "translation": null
+    },
+    {
+      "time": 128.27,
+      "time_str": "02:08.270",
+      "text": "天下谁的第一又如何",
+      "translation": null
+    },
+    {
+      "time": 130.75,
+      "time_str": "02:10.750",
+      "text": "止干戈我辈尚武德",
+      "translation": null
+    },
+    {
+      "time": 132.88,
+      "time_str": "02:12.880",
+      "text": "我的拳脚了得",
+      "translation": null
+    },
+    {
+      "time": 135.0,
+      "time_str": "02:15.000",
+      "text": "却奈何徒增虚名一个",
+      "translation": null
+    },
+    {
+      "time": 137.43,
+      "time_str": "02:17.430",
+      "text": "江湖难测谁是强者",
+      "translation": null
+    },
+    {
+      "time": 139.86,
+      "time_str": "02:19.860",
+      "text": "谁争一统武林的资格",
+      "translation": null
+    },
+    {
+      "time": 142.39,
+      "time_str": "02:22.390",
+      "text": "小城里岁月流过去",
+      "translation": null
+    },
+    {
+      "time": 147.24,
+      "time_str": "02:27.240",
+      "text": "清澈的勇气",
+      "translation": null
+    },
+    {
+      "time": 151.24,
+      "time_str": "02:31.240",
+      "text": "洗涤过的回忆",
+      "translation": null
+    },
+    {
+      "time": 154.33,
+      "time_str": "02:34.330",
+      "text": "我记得你",
+      "translation": null
+    },
+    {
+      "time": 156.76,
+      "time_str": "02:36.760",
+      "text": "骄傲地活下去",
+      "translation": null
+    },
+    {
+      "time": 161.92,
+      "time_str": "02:41.920",
+      "text": "霍霍 霍霍 霍霍霍霍",
+      "translation": null
+    },
+    {
+      "time": 164.25,
+      "time_str": "02:44.250",
+      "text": "霍家拳的套路招式灵活",
+      "translation": null
+    },
+    {
+      "time": 166.88,
+      "time_str": "02:46.880",
+      "text": "活活 活活 活活活活",
+      "translation": null
+    },
+    {
+      "time": 169.06,
+      "time_str": "02:49.060",
+      "text": "活着生命就该完整地过",
+      "translation": null
+    },
+    {
+      "time": 171.74,
+      "time_str": "02:51.740",
+      "text": "过过 过过 过过过过",
+      "translation": null
+    },
+    {
+      "time": 173.91,
+      "time_str": "02:53.910",
+      "text": "过错软弱从来不属于我",
+      "translation": null
+    },
+    {
+      "time": 176.75,
+      "time_str": "02:56.750",
+      "text": "我我 我我 我我我我",
+      "translation": null
+    },
+    {
+      "time": 178.82,
+      "time_str": "02:58.820",
+      "text": "我们精武出手无人能躲",
+      "translation": null
+    },
+    {
+      "time": 210.85,
+      "time_str": "03:30.850",
+      "text": "霍霍 霍霍 霍霍霍霍",
+      "translation": null
+    },
+    {
+      "time": 213.13,
+      "time_str": "03:33.130",
+      "text": "霍家拳的套路招式灵活",
+      "translation": null
+    },
+    {
+      "time": 215.86,
+      "time_str": "03:35.860",
+      "text": "活活 活活 活活活活",
+      "translation": null
+    },
+    {
+      "time": 218.03,
+      "time_str": "03:38.030",
+      "text": "活着生命就该完整地过",
+      "translation": null
+    },
+    {
+      "time": 220.72,
+      "time_str": "03:40.720",
+      "text": "过过 过过 过过过过",
+      "translation": null
+    },
+    {
+      "time": 222.94,
+      "time_str": "03:42.940",
+      "text": "过错软弱从来不属于我",
+      "translation": null
+    },
+    {
+      "time": 225.68,
+      "time_str": "03:45.680",
+      "text": "我我 我我 我我我我",
+      "translation": null
+    },
+    {
+      "time": 227.8,
+      "time_str": "03:47.800",
+      "text": "我们精武出手无人能躲",
+      "translation": null
+    },
+    {
+      "time": 230.48,
+      "time_str": "03:50.480",
+      "text": "霍霍 霍霍 霍霍霍霍",
+      "translation": null
+    },
+    {
+      "time": 232.75,
+      "time_str": "03:52.750",
+      "text": "霍家拳的套路招式灵活",
+      "translation": null
+    },
+    {
+      "time": 235.43,
+      "time_str": "03:55.430",
+      "text": "活活 活活 活活活活",
+      "translation": null
+    },
+    {
+      "time": 237.66,
+      "time_str": "03:57.660",
+      "text": "活着生命就该完整地过",
+      "translation": null
+    },
+    {
+      "time": 240.34,
+      "time_str": "04:00.340",
+      "text": "过过 过过 过过过过",
+      "translation": null
+    },
+    {
+      "time": 242.46,
+      "time_str": "04:02.460",
+      "text": "过错软弱从来不属于我",
+      "translation": null
+    },
+    {
+      "time": 245.24,
+      "time_str": "04:05.240",
+      "text": "我我 我我 我我我我",
+      "translation": null
+    },
+    {
+      "time": 247.42,
+      "time_str": "04:07.420",
+      "text": "我们精武出手无人能躲",
+      "translation": null
+    },
+    {
+      "time": 273.0,
+      "time_str": "04:33.000",
+      "text": "混音工程录音室：杨大纬录音工作室",
+      "translation": null
+    },
+    {
+      "time": 274.0,
+      "time_str": "04:34.000",
+      "text": "录音工程录音室：ALFA STUDIO/杨大纬录音工作室",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "霍元甲 - 周杰伦.lrc"
+}

@@ -1,0 +1,298 @@
+{
+  "title": "Outside",
+  "title_raw": "Outside",
+  "version": null,
+  "artist": "Calvin Harris,Ellie Goulding",
+  "group_key": "outside|calvin harris,ellie goulding",
+  "writers": {
+    "lyricist": "Calvin Harris/Ellie Goulding",
+    "composer": "Calvin Harris/Ellie Goulding",
+    "arranger": "Calvin Harris"
+  },
+  "lyrics": [
+    {
+      "time": 9.53,
+      "time_str": "00:09.530",
+      "text": "Look at what you've done",
+      "translation": "看看你做了什么"
+    },
+    {
+      "time": 13.07,
+      "time_str": "00:13.070",
+      "text": "Stand still, fallin' away from me",
+      "translation": "不为所动 将我离弃"
+    },
+    {
+      "time": 17.32,
+      "time_str": "00:17.320",
+      "text": "When it takes so long,",
+      "translation": "日子久了"
+    },
+    {
+      "time": 20.8,
+      "time_str": "00:20.800",
+      "text": "Fire's out, what do you want to be?",
+      "translation": "纸包不住火 谎言燃尽 你怎么说?"
+    },
+    {
+      "time": 24.74,
+      "time_str": "00:24.740",
+      "text": "I'm holdin' on,",
+      "translation": "我忍着"
+    },
+    {
+      "time": 28.47,
+      "time_str": "00:28.470",
+      "text": "Myself was never enough for me",
+      "translation": "过去的我 还力有未竭?"
+    },
+    {
+      "time": 32.18,
+      "time_str": "00:32.180",
+      "text": "Gotta be so strong",
+      "translation": "要变得更坚强"
+    },
+    {
+      "time": 34.55,
+      "time_str": "00:34.550",
+      "text": "There's a power in what you do,",
+      "translation": "你的作为 驱使着我"
+    },
+    {
+      "time": 36.71,
+      "time_str": "00:36.710",
+      "text": "Now, every other day I'll be watching you",
+      "translation": "而现在 我会观视着你"
+    },
+    {
+      "time": 38.7,
+      "time_str": "00:38.700",
+      "text": "Oh-oh, Oh-oh,",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 42.44,
+      "time_str": "00:42.440",
+      "text": "Show you what it feels like,",
+      "translation": "让你也瞧瞧这种感受"
+    },
+    {
+      "time": 44.68,
+      "time_str": "00:44.680",
+      "text": "Now I'm on the outside",
+      "translation": "我为局外人"
+    },
+    {
+      "time": 48.22,
+      "time_str": "00:48.220",
+      "text": "Oh-oh,",
+      "translation": "哦 哦"
+    },
+    {
+      "time": 50.91,
+      "time_str": "00:50.910",
+      "text": "We did everything right, now I'm on the outside",
+      "translation": "感情没裂洞 现在我却成了局外人"
+    },
+    {
+      "time": 56.09,
+      "time_str": "00:56.090",
+      "text": "Oh-oh,",
+      "translation": "哦 哦"
+    },
+    {
+      "time": 57.94,
+      "time_str": "00:57.940",
+      "text": "Show you what it feels like,",
+      "translation": "也让你体验一下这种感受"
+    },
+    {
+      "time": 59.91,
+      "time_str": "00:59.910",
+      "text": "Now I'm on the outside",
+      "translation": "我为局外人 看你怎么办"
+    },
+    {
+      "time": 63.3,
+      "time_str": "01:03.300",
+      "text": "Oh-oh,",
+      "translation": "哦 哦"
+    },
+    {
+      "time": 65.52,
+      "time_str": "01:05.520",
+      "text": "We did everything right, now I'm on the outside",
+      "translation": "原本都还好好的 现在我却成了局外人"
+    },
+    {
+      "time": 84.32,
+      "time_str": "01:24.320",
+      "text": "Though you give me no reason",
+      "translation": "你没有给我任何"
+    },
+    {
+      "time": 88.0,
+      "time_str": "01:28.000",
+      "text": "For me to stay close to you,",
+      "translation": "让感情更进展的理由"
+    },
+    {
+      "time": 89.94,
+      "time_str": "01:29.940",
+      "text": "Tell me what lovers do",
+      "translation": "告诉我 要怎么做呀"
+    },
+    {
+      "time": 92.25,
+      "time_str": "01:32.250",
+      "text": "How are we still breathing?",
+      "translation": "这爱是否还犹存?"
+    },
+    {
+      "time": 95.87,
+      "time_str": "01:35.870",
+      "text": "It's never for us to choose,",
+      "translation": "我们没得选"
+    },
+    {
+      "time": 97.74,
+      "time_str": "01:37.740",
+      "text": "I'll be the strength in you.",
+      "translation": "我要成为你力量的来源"
+    },
+    {
+      "time": 100.03,
+      "time_str": "01:40.030",
+      "text": "I'm holdin' on (I'm holdin' on)",
+      "translation": "我忍着（我忍着 ）"
+    },
+    {
+      "time": 103.83,
+      "time_str": "01:43.830",
+      "text": "Myself was never enough for me",
+      "translation": "过去的我 还力有未逮"
+    },
+    {
+      "time": 107.17,
+      "time_str": "01:47.170",
+      "text": "Gotta be so strong",
+      "translation": "要变得更坚强"
+    },
+    {
+      "time": 110.15,
+      "time_str": "01:50.150",
+      "text": "There's a power in what you do,",
+      "translation": "你的作为 驱使着我"
+    },
+    {
+      "time": 112.29,
+      "time_str": "01:52.290",
+      "text": "Now, every other day I'll be watching you",
+      "translation": "而现在 我会观视着你"
+    },
+    {
+      "time": 114.2,
+      "time_str": "01:54.200",
+      "text": "Oh-oh, Oh-oh,",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 117.54,
+      "time_str": "01:57.540",
+      "text": "Show you what it feels like,",
+      "translation": "让你也瞧瞧这种感受"
+    },
+    {
+      "time": 120.03,
+      "time_str": "02:00.030",
+      "text": "Now I'm on the outside",
+      "translation": "我为局外人"
+    },
+    {
+      "time": 122.83,
+      "time_str": "02:02.830",
+      "text": "Oh-oh,",
+      "translation": "哦 哦"
+    },
+    {
+      "time": 125.33,
+      "time_str": "02:05.330",
+      "text": "We did everything right, now I'm on the outside",
+      "translation": "感情没裂洞 现在我却成了局外人"
+    },
+    {
+      "time": 129.96,
+      "time_str": "02:09.960",
+      "text": "Oh-oh,",
+      "translation": "哦 哦"
+    },
+    {
+      "time": 133.04,
+      "time_str": "02:13.040",
+      "text": "Show you what it feels like,",
+      "translation": "让你瞧瞧"
+    },
+    {
+      "time": 134.88,
+      "time_str": "02:14.880",
+      "text": "Now I'm on the outside",
+      "translation": "现在我为局外人"
+    },
+    {
+      "time": 137.98,
+      "time_str": "02:17.980",
+      "text": "Oh-oh,",
+      "translation": "哦 哦"
+    },
+    {
+      "time": 140.63,
+      "time_str": "02:20.630",
+      "text": "We did everything right, now I'm on the outside",
+      "translation": "感情没裂洞 现在我却成了局外人"
+    },
+    {
+      "time": 163.34,
+      "time_str": "02:43.340",
+      "text": "I'll show you what it feels like,",
+      "translation": "让你也瞧瞧这种感受"
+    },
+    {
+      "time": 165.7,
+      "time_str": "02:45.700",
+      "text": "Now I'm on the outside (eeeey)",
+      "translation": "现在我为局外人"
+    },
+    {
+      "time": 171.05,
+      "time_str": "02:51.050",
+      "text": "I'll show you what it feels like,",
+      "translation": "让你也瞧瞧这种感受"
+    },
+    {
+      "time": 178.69,
+      "time_str": "02:58.690",
+      "text": "Show you what it feels like,",
+      "translation": "让你瞧瞧"
+    },
+    {
+      "time": 180.73,
+      "time_str": "03:00.730",
+      "text": "Now I'm on the outside",
+      "translation": "现在我为局外人"
+    },
+    {
+      "time": 183.67,
+      "time_str": "03:03.670",
+      "text": "Oh-oh,",
+      "translation": "哦 哦"
+    },
+    {
+      "time": 185.59,
+      "time_str": "03:05.590",
+      "text": "We did everything right, now I'm on the outside",
+      "translation": "感情没裂洞 现在我却成了局外人"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Outside - Calvin Harris,Ellie Goulding.lrc"
+}

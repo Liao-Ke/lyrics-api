@@ -1,0 +1,568 @@
+{
+  "title": "快乐崇拜",
+  "title_raw": "快乐崇拜",
+  "version": null,
+  "artist": "潘玮柏,张韶涵",
+  "group_key": "快乐崇拜|潘玮柏,张韶涵",
+  "writers": {
+    "lyricist": "林夕/潘玮柏",
+    "composer": "乌龟组合",
+    "arranger": "马毓芬"
+  },
+  "lyrics": [
+    {
+      "time": 3.0,
+      "time_str": "00:03.000",
+      "text": "Rap作词 : 潘玮柏",
+      "translation": null
+    },
+    {
+      "time": 7.95,
+      "time_str": "00:07.950",
+      "text": "男：One two three here we go",
+      "translation": null
+    },
+    {
+      "time": 9.76,
+      "time_str": "00:09.760",
+      "text": "合：忘记了姓名的请跟我来",
+      "translation": null
+    },
+    {
+      "time": 13.5,
+      "time_str": "00:13.500",
+      "text": "现在让我们向快乐崇拜",
+      "translation": null
+    },
+    {
+      "time": 17.21,
+      "time_str": "00:17.210",
+      "text": "放下了包袱的请跟我来",
+      "translation": null
+    },
+    {
+      "time": 21.12,
+      "time_str": "00:21.120",
+      "text": "传开去建立个快乐的时代",
+      "translation": null
+    },
+    {
+      "time": 25.12,
+      "time_str": "00:25.120",
+      "text": "男：快乐到底属于哪个年代",
+      "translation": null
+    },
+    {
+      "time": 26.75,
+      "time_str": "00:26.750",
+      "text": "70 80 90 还是",
+      "translation": null
+    },
+    {
+      "time": 28.75,
+      "time_str": "00:28.750",
+      "text": "合：Y世代",
+      "translation": null
+    },
+    {
+      "time": 29.16,
+      "time_str": "00:29.160",
+      "text": "男：翻开历史课本 答案就算仔细找",
+      "translation": null
+    },
+    {
+      "time": 31.25,
+      "time_str": "00:31.250",
+      "text": "也会找不到 背也会背不好",
+      "translation": null
+    },
+    {
+      "time": 32.88,
+      "time_str": "00:32.880",
+      "text": "合：放松 让我 来说",
+      "translation": null
+    },
+    {
+      "time": 34.66,
+      "time_str": "00:34.660",
+      "text": "男：什么年代吹着什么样的风",
+      "translation": null
+    },
+    {
+      "time": 36.36,
+      "time_str": "00:36.360",
+      "text": "我拿着我的麦克风",
+      "translation": null
+    },
+    {
+      "time": 37.99,
+      "time_str": "00:37.990",
+      "text": "唱出 Old School Show",
+      "translation": null
+    },
+    {
+      "time": 39.39,
+      "time_str": "00:39.390",
+      "text": "Yall Ready To Roll",
+      "translation": null
+    },
+    {
+      "time": 40.32,
+      "time_str": "00:40.320",
+      "text": "70的年代 复古我最High",
+      "translation": null
+    },
+    {
+      "time": 42.13,
+      "time_str": "00:42.130",
+      "text": "合：Disco Fever",
+      "translation": null
+    },
+    {
+      "time": 43.25,
+      "time_str": "00:43.250",
+      "text": "从来不肯Say Goodbye",
+      "translation": null
+    },
+    {
+      "time": 44.53,
+      "time_str": "00:44.530",
+      "text": "男：只有放放放克才能酷",
+      "translation": null
+    },
+    {
+      "time": 45.84,
+      "time_str": "00:45.840",
+      "text": "男男女女老老少少",
+      "translation": null
+    },
+    {
+      "time": 47.06,
+      "time_str": "00:47.060",
+      "text": "我们穿着喇叭裤",
+      "translation": null
+    },
+    {
+      "time": 48.25,
+      "time_str": "00:48.250",
+      "text": "合：YO 爆炸头 在望春风",
+      "translation": null
+    },
+    {
+      "time": 49.8,
+      "time_str": "00:49.800",
+      "text": "男：左右摇摆 上下一指神功",
+      "translation": null
+    },
+    {
+      "time": 51.88,
+      "time_str": "00:51.880",
+      "text": "黑白电视可能无法感受",
+      "translation": null
+    },
+    {
+      "time": 53.52,
+      "time_str": "00:53.520",
+      "text": "但 相信你们可以悟出黑色幽默",
+      "translation": null
+    },
+    {
+      "time": 55.55,
+      "time_str": "00:55.550",
+      "text": "女：忘了你存在",
+      "translation": null
+    },
+    {
+      "time": 57.22,
+      "time_str": "00:57.220",
+      "text": "有什么期待",
+      "translation": null
+    },
+    {
+      "time": 59.47,
+      "time_str": "00:59.470",
+      "text": "欢乐你邀请它一定来",
+      "translation": null
+    },
+    {
+      "time": 63.49,
+      "time_str": "01:03.490",
+      "text": "与其渴望关怀",
+      "translation": null
+    },
+    {
+      "time": 65.26,
+      "time_str": "01:05.260",
+      "text": "不如一起精彩",
+      "translation": null
+    },
+    {
+      "time": 67.13,
+      "time_str": "01:07.130",
+      "text": "快乐会传染",
+      "translation": null
+    },
+    {
+      "time": 69.02,
+      "time_str": "01:09.020",
+      "text": "请你慷慨 Come on",
+      "translation": null
+    },
+    {
+      "time": 71.11,
+      "time_str": "01:11.110",
+      "text": "合：相恋的失恋的请跟我来",
+      "translation": null
+    },
+    {
+      "time": 74.83,
+      "time_str": "01:14.830",
+      "text": "一边跳一边向快乐崇拜",
+      "translation": null
+    },
+    {
+      "time": 78.67,
+      "time_str": "01:18.670",
+      "text": "开心不开心的都跟我来",
+      "translation": null
+    },
+    {
+      "time": 82.57,
+      "time_str": "01:22.570",
+      "text": "美丽而神圣的时光不等待",
+      "translation": null
+    },
+    {
+      "time": 86.03,
+      "time_str": "01:26.030",
+      "text": "男：到了80年代 要喊什么",
+      "translation": null
+    },
+    {
+      "time": 88.02,
+      "time_str": "01:28.020",
+      "text": "B Boys B Girls",
+      "translation": null
+    },
+    {
+      "time": 89.13,
+      "time_str": "01:29.130",
+      "text": "Let's Make Some Noise",
+      "translation": null
+    },
+    {
+      "time": 90.14,
+      "time_str": "01:30.140",
+      "text": "女：要穿什么呢 Hmmm...",
+      "translation": null
+    },
+    {
+      "time": 92.23,
+      "time_str": "01:32.230",
+      "text": "男：紧裤子 紧上衣",
+      "translation": null
+    },
+    {
+      "time": 93.13,
+      "time_str": "01:33.130",
+      "text": "秀出你的身材",
+      "translation": null
+    },
+    {
+      "time": 94.05,
+      "time_str": "01:34.050",
+      "text": "有人露出金牙",
+      "translation": null
+    },
+    {
+      "time": 95.02,
+      "time_str": "01:35.020",
+      "text": "千万不要惊讶",
+      "translation": null
+    },
+    {
+      "time": 95.99,
+      "time_str": "01:35.990",
+      "text": "嘻哈正在发芽",
+      "translation": null
+    },
+    {
+      "time": 96.93,
+      "time_str": "01:36.930",
+      "text": "别拔它假牙",
+      "translation": null
+    },
+    {
+      "time": 98.07,
+      "time_str": "01:38.070",
+      "text": "合：Locking Popping We Dancing",
+      "translation": null
+    },
+    {
+      "time": 99.69,
+      "time_str": "01:39.690",
+      "text": "Ain't No Stopping 跟我一起唱",
+      "translation": null
+    },
+    {
+      "time": 101.81,
+      "time_str": "01:41.810",
+      "text": "男：快乐崇拜 快乐无害",
+      "translation": null
+    },
+    {
+      "time": 103.47,
+      "time_str": "01:43.470",
+      "text": "虽然快乐像个病毒病毒会传染",
+      "translation": null
+    },
+    {
+      "time": 105.58,
+      "time_str": "01:45.580",
+      "text": "90年 我们等待千禧年",
+      "translation": null
+    },
+    {
+      "time": 107.37,
+      "time_str": "01:47.370",
+      "text": "Party电子音乐 疯狂玩整夜",
+      "translation": null
+    },
+    {
+      "time": 109.41,
+      "time_str": "01:49.410",
+      "text": "合：Hip-Hop For Life That's Right",
+      "translation": null
+    },
+    {
+      "time": 111.59,
+      "time_str": "01:51.590",
+      "text": "男：每个人嘴里喊着Westside",
+      "translation": null
+    },
+    {
+      "time": 113.23,
+      "time_str": "01:53.230",
+      "text": "管你是不是 真正Party 天才",
+      "translation": null
+    },
+    {
+      "time": 115.32,
+      "time_str": "01:55.320",
+      "text": "扬起你的嘴角",
+      "translation": null
+    },
+    {
+      "time": 116.29,
+      "time_str": "01:56.290",
+      "text": "跟我快乐崇拜",
+      "translation": null
+    },
+    {
+      "time": 117.34,
+      "time_str": "01:57.340",
+      "text": "女：忘了你存在（男：存在）",
+      "translation": null
+    },
+    {
+      "time": 118.86,
+      "time_str": "01:58.860",
+      "text": "有什么期待（男：期待）",
+      "translation": null
+    },
+    {
+      "time": 121.01,
+      "time_str": "02:01.010",
+      "text": "欢乐你邀请它一定来",
+      "translation": null
+    },
+    {
+      "time": 124.9,
+      "time_str": "02:04.900",
+      "text": "与其渴望关怀",
+      "translation": null
+    },
+    {
+      "time": 126.67,
+      "time_str": "02:06.670",
+      "text": "不如一起精彩",
+      "translation": null
+    },
+    {
+      "time": 128.55,
+      "time_str": "02:08.550",
+      "text": "快乐会传染",
+      "translation": null
+    },
+    {
+      "time": 130.45,
+      "time_str": "02:10.450",
+      "text": "请你慷慨 Come on",
+      "translation": null
+    },
+    {
+      "time": 140.52,
+      "time_str": "02:20.520",
+      "text": "合：忘记了姓名的请跟我来",
+      "translation": null
+    },
+    {
+      "time": 143.99,
+      "time_str": "02:23.990",
+      "text": "现在让我们向快乐崇拜",
+      "translation": null
+    },
+    {
+      "time": 147.57,
+      "time_str": "02:27.570",
+      "text": "放下了包袱的请跟我来",
+      "translation": null
+    },
+    {
+      "time": 151.59,
+      "time_str": "02:31.590",
+      "text": "传开去建立个快乐的时代",
+      "translation": null
+    },
+    {
+      "time": 155.52,
+      "time_str": "02:35.520",
+      "text": "男：现代 这个匆忙时代",
+      "translation": null
+    },
+    {
+      "time": 157.31,
+      "time_str": "02:37.310",
+      "text": "虽然少了时间但千万不要倦怠",
+      "translation": null
+    },
+    {
+      "time": 159.43,
+      "time_str": "02:39.430",
+      "text": "今天的事 交给今天去做",
+      "translation": null
+    },
+    {
+      "time": 161.13,
+      "time_str": "02:41.130",
+      "text": "因为明天才有很多时间一起去疯",
+      "translation": null
+    },
+    {
+      "time": 163.23,
+      "time_str": "02:43.230",
+      "text": "YO 放肆的节奏",
+      "translation": null
+    },
+    {
+      "time": 164.35,
+      "time_str": "02:44.350",
+      "text": "看你放肆的互动",
+      "translation": null
+    },
+    {
+      "time": 165.33,
+      "time_str": "02:45.330",
+      "text": "看你放肆的感动",
+      "translation": null
+    },
+    {
+      "time": 166.19,
+      "time_str": "02:46.190",
+      "text": "看我放肆的创作",
+      "translation": null
+    },
+    {
+      "time": 167.07,
+      "time_str": "02:47.070",
+      "text": "要我怎么再说",
+      "translation": null
+    },
+    {
+      "time": 167.87,
+      "time_str": "02:47.870",
+      "text": "People Feel My Flow",
+      "translation": null
+    },
+    {
+      "time": 168.74,
+      "time_str": "02:48.740",
+      "text": "看我拿着麦克风",
+      "translation": null
+    },
+    {
+      "time": 169.77,
+      "time_str": "02:49.770",
+      "text": "唱出快乐的Show",
+      "translation": null
+    },
+    {
+      "time": 170.67,
+      "time_str": "02:50.670",
+      "text": "女：忘了你存在",
+      "translation": null
+    },
+    {
+      "time": 172.46,
+      "time_str": "02:52.460",
+      "text": "有什么期待",
+      "translation": null
+    },
+    {
+      "time": 174.66,
+      "time_str": "02:54.660",
+      "text": "欢乐你邀请它一定来",
+      "translation": null
+    },
+    {
+      "time": 178.41,
+      "time_str": "02:58.410",
+      "text": "与其渴望关怀",
+      "translation": null
+    },
+    {
+      "time": 180.27,
+      "time_str": "03:00.270",
+      "text": "不如一起精彩",
+      "translation": null
+    },
+    {
+      "time": 182.14,
+      "time_str": "03:02.140",
+      "text": "快乐会传染",
+      "translation": null
+    },
+    {
+      "time": 184.12,
+      "time_str": "03:04.120",
+      "text": "请你慷慨 Come on",
+      "translation": null
+    },
+    {
+      "time": 186.21,
+      "time_str": "03:06.210",
+      "text": "合：相恋的失恋的请跟我来",
+      "translation": null
+    },
+    {
+      "time": 189.88,
+      "time_str": "03:09.880",
+      "text": "一边跳一边向快乐崇拜",
+      "translation": null
+    },
+    {
+      "time": 193.73,
+      "time_str": "03:13.730",
+      "text": "开心不开心的都跟我来",
+      "translation": null
+    },
+    {
+      "time": 197.88,
+      "time_str": "03:17.880",
+      "text": "美丽而神圣的时光不等待 da dala daladalada",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "快乐崇拜 - 潘玮柏,张韶涵.lrc"
+}

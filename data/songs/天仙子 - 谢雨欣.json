@@ -1,0 +1,190 @@
+{
+  "title": "天仙子",
+  "title_raw": "天仙子",
+  "version": null,
+  "artist": "谢雨欣",
+  "group_key": "天仙子|谢雨欣",
+  "writers": {
+    "lyricist": "李兰云",
+    "composer": "罗小音",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 5.43,
+      "time_str": "00:05.430",
+      "text": "天仙子",
+      "translation": null
+    },
+    {
+      "time": 33.07,
+      "time_str": "00:33.070",
+      "text": "冰雪少女入凡尘",
+      "translation": null
+    },
+    {
+      "time": 39.25,
+      "time_str": "00:39.250",
+      "text": "西子湖畔初见晴",
+      "translation": null
+    },
+    {
+      "time": 46.28,
+      "time_str": "00:46.280",
+      "text": "是非难解虚如影",
+      "translation": null
+    },
+    {
+      "time": 52.01,
+      "time_str": "00:52.010",
+      "text": "一腔爱",
+      "translation": null
+    },
+    {
+      "time": 55.53,
+      "time_str": "00:55.530",
+      "text": "一身恨",
+      "translation": null
+    },
+    {
+      "time": 58.73,
+      "time_str": "00:58.730",
+      "text": "一缕清风",
+      "translation": null
+    },
+    {
+      "time": 61.06,
+      "time_str": "01:01.060",
+      "text": "一丝魂",
+      "translation": null
+    },
+    {
+      "time": 66.31,
+      "time_str": "01:06.310",
+      "text": "仗剑携酒江湖行",
+      "translation": null
+    },
+    {
+      "time": 72.89,
+      "time_str": "01:12.890",
+      "text": "多少恩怨醉梦中",
+      "translation": null
+    },
+    {
+      "time": 78.84,
+      "time_str": "01:18.840",
+      "text": "募然回首万事空",
+      "translation": null
+    },
+    {
+      "time": 85.32,
+      "time_str": "01:25.320",
+      "text": "几重幕",
+      "translation": null
+    },
+    {
+      "time": 88.6,
+      "time_str": "01:28.600",
+      "text": "几棵松",
+      "translation": null
+    },
+    {
+      "time": 91.8,
+      "time_str": "01:31.800",
+      "text": "几层远峦",
+      "translation": null
+    },
+    {
+      "time": 94.3,
+      "time_str": "01:34.300",
+      "text": "几声钟",
+      "translation": null
+    },
+    {
+      "time": 127.0,
+      "time_str": "02:07.000",
+      "text": "冰雪少女入凡尘",
+      "translation": null
+    },
+    {
+      "time": 133.32,
+      "time_str": "02:13.320",
+      "text": "西子湖畔初见睛",
+      "translation": null
+    },
+    {
+      "time": 139.93,
+      "time_str": "02:19.930",
+      "text": "是非难解虚如影",
+      "translation": null
+    },
+    {
+      "time": 145.93,
+      "time_str": "02:25.930",
+      "text": "一腔爱",
+      "translation": null
+    },
+    {
+      "time": 149.21,
+      "time_str": "02:29.210",
+      "text": "一身恨",
+      "translation": null
+    },
+    {
+      "time": 152.56,
+      "time_str": "02:32.560",
+      "text": "一缕清风",
+      "translation": null
+    },
+    {
+      "time": 155.27,
+      "time_str": "02:35.270",
+      "text": "一丝魂",
+      "translation": null
+    },
+    {
+      "time": 159.88,
+      "time_str": "02:39.880",
+      "text": "仗剑携酒江湖行",
+      "translation": null
+    },
+    {
+      "time": 166.7,
+      "time_str": "02:46.700",
+      "text": "多少恩怨醉梦中",
+      "translation": null
+    },
+    {
+      "time": 172.58,
+      "time_str": "02:52.580",
+      "text": "募然回首万事空",
+      "translation": null
+    },
+    {
+      "time": 179.2,
+      "time_str": "02:59.200",
+      "text": "几重幕",
+      "translation": null
+    },
+    {
+      "time": 182.33,
+      "time_str": "03:02.330",
+      "text": "几棵松",
+      "translation": null
+    },
+    {
+      "time": 185.78,
+      "time_str": "03:05.780",
+      "text": "几层远峦",
+      "translation": null
+    },
+    {
+      "time": 188.33,
+      "time_str": "03:08.330",
+      "text": "几声钟",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天仙子 - 谢雨欣.lrc"
+}

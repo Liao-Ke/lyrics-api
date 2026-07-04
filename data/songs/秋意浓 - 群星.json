@@ -1,0 +1,220 @@
+{
+  "title": "秋意浓",
+  "title_raw": "秋意浓",
+  "version": null,
+  "artist": "群星",
+  "group_key": "秋意浓|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 36.2,
+      "time_str": "00:36.200",
+      "text": "秋意浓",
+      "translation": null
+    },
+    {
+      "time": 40.74,
+      "time_str": "00:40.740",
+      "text": "离人心上秋意浓",
+      "translation": null
+    },
+    {
+      "time": 48.47,
+      "time_str": "00:48.470",
+      "text": "一杯酒",
+      "translation": null
+    },
+    {
+      "time": 52.23,
+      "time_str": "00:52.230",
+      "text": "情绪万种",
+      "translation": null
+    },
+    {
+      "time": 61.3,
+      "time_str": "01:01.300",
+      "text": "离别多",
+      "translation": null
+    },
+    {
+      "time": 65.3,
+      "time_str": "01:05.300",
+      "text": "叶落的季节离别多",
+      "translation": null
+    },
+    {
+      "time": 71.299,
+      "time_str": "01:11.299",
+      "text": "握着你的手",
+      "translation": null
+    },
+    {
+      "time": 74.427,
+      "time_str": "01:14.427",
+      "text": "放在心头",
+      "translation": null
+    },
+    {
+      "time": 77.075,
+      "time_str": "01:17.075",
+      "text": "我要你记得",
+      "translation": null
+    },
+    {
+      "time": 80.227,
+      "time_str": "01:20.227",
+      "text": "无言的承诺",
+      "translation": null
+    },
+    {
+      "time": 83.778,
+      "time_str": "01:23.778",
+      "text": "啊~ 不怕相思苦",
+      "translation": null
+    },
+    {
+      "time": 93.206,
+      "time_str": "01:33.206",
+      "text": "只怕你伤痛",
+      "translation": null
+    },
+    {
+      "time": 99.796,
+      "time_str": "01:39.796",
+      "text": "怨只怨人在风中",
+      "translation": null
+    },
+    {
+      "time": 103.022,
+      "time_str": "01:43.022",
+      "text": "聚散都不由我",
+      "translation": null
+    },
+    {
+      "time": 107.513,
+      "time_str": "01:47.513",
+      "text": "啊~ 不怕我孤独",
+      "translation": null
+    },
+    {
+      "time": 116.781,
+      "time_str": "01:56.781",
+      "text": "只怕你寂寞",
+      "translation": null
+    },
+    {
+      "time": 122.585,
+      "time_str": "02:02.585",
+      "text": "无处说离愁",
+      "translation": null
+    },
+    {
+      "time": 153.687,
+      "time_str": "02:33.687",
+      "text": "舞秋风",
+      "translation": null
+    },
+    {
+      "time": 157.708,
+      "time_str": "02:37.708",
+      "text": "漫天回忆舞秋风",
+      "translation": null
+    },
+    {
+      "time": 165.241,
+      "time_str": "02:45.241",
+      "text": "叹一声",
+      "translation": null
+    },
+    {
+      "time": 169.012,
+      "time_str": "02:49.012",
+      "text": "黯然沉默",
+      "translation": null
+    },
+    {
+      "time": 177.405,
+      "time_str": "02:57.405",
+      "text": "不能说",
+      "translation": null
+    },
+    {
+      "time": 181.366,
+      "time_str": "03:01.366",
+      "text": "惹泪的话都不能说",
+      "translation": null
+    },
+    {
+      "time": 187.671,
+      "time_str": "03:07.671",
+      "text": "紧紧拥着你",
+      "translation": null
+    },
+    {
+      "time": 191.938,
+      "time_str": "03:11.938",
+      "text": "永远记得",
+      "translation": null
+    },
+    {
+      "time": 194.887,
+      "time_str": "03:14.887",
+      "text": "你曾经为我",
+      "translation": null
+    },
+    {
+      "time": 197.54,
+      "time_str": "03:17.540",
+      "text": "这样的哭过",
+      "translation": null
+    },
+    {
+      "time": 201.413,
+      "time_str": "03:21.413",
+      "text": "啊~ 不怕相思苦",
+      "translation": null
+    },
+    {
+      "time": 210.455,
+      "time_str": "03:30.455",
+      "text": "只怕你伤痛",
+      "translation": null
+    },
+    {
+      "time": 217.379,
+      "time_str": "03:37.379",
+      "text": "怨只怨人在风中",
+      "translation": null
+    },
+    {
+      "time": 221.041,
+      "time_str": "03:41.041",
+      "text": "聚散都不由我",
+      "translation": null
+    },
+    {
+      "time": 225.212,
+      "time_str": "03:45.212",
+      "text": "啊~ 不怕我孤独",
+      "translation": null
+    },
+    {
+      "time": 233.703,
+      "time_str": "03:53.703",
+      "text": "只怕你寂寞",
+      "translation": null
+    },
+    {
+      "time": 239.914,
+      "time_str": "03:59.914",
+      "text": "无处说离愁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "秋意浓 - 群星.lrc"
+}

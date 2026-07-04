@@ -1,0 +1,256 @@
+{
+  "title": "月牙湾",
+  "title_raw": "月牙湾",
+  "version": null,
+  "artist": "F.I.R.",
+  "group_key": "月牙湾|f.i.r.",
+  "writers": {
+    "lyricist": "谢宥慧/易家扬",
+    "composer": "阿沁",
+    "arranger": "奧斯卡Oscar"
+  },
+  "lyrics": [
+    {
+      "time": 41.29,
+      "time_str": "00:41.290",
+      "text": "敦煌天空的沙砾",
+      "translation": null
+    },
+    {
+      "time": 44.11,
+      "time_str": "00:44.110",
+      "text": "带着我们的记忆",
+      "translation": null
+    },
+    {
+      "time": 46.77,
+      "time_str": "00:46.770",
+      "text": "我从半路看回去",
+      "translation": null
+    },
+    {
+      "time": 49.59,
+      "time_str": "00:49.590",
+      "text": "这情关漫漫好弯曲",
+      "translation": null
+    },
+    {
+      "time": 52.56,
+      "time_str": "00:52.560",
+      "text": "梦想穿过了西域",
+      "translation": null
+    },
+    {
+      "time": 54.95,
+      "time_str": "00:54.950",
+      "text": "包含了多少的禅意",
+      "translation": null
+    },
+    {
+      "time": 57.58,
+      "time_str": "00:57.580",
+      "text": "爱情像一本游记",
+      "translation": null
+    },
+    {
+      "time": 60.41,
+      "time_str": "01:00.410",
+      "text": "我会找寻他的谜语",
+      "translation": null
+    },
+    {
+      "time": 63.26,
+      "time_str": "01:03.260",
+      "text": "看月牙湾下的泪光",
+      "translation": null
+    },
+    {
+      "time": 67.8,
+      "time_str": "01:07.800",
+      "text": "在丝路之上被遗忘",
+      "translation": null
+    },
+    {
+      "time": 72.49,
+      "time_str": "01:12.490",
+      "text": "是谁的心啊 孤单地留下",
+      "translation": null
+    },
+    {
+      "time": 77.72,
+      "time_str": "01:17.720",
+      "text": "他还好吗 我多想爱他",
+      "translation": null
+    },
+    {
+      "time": 83.06,
+      "time_str": "01:23.060",
+      "text": "拿永恒的泪 凝固的一句话",
+      "translation": null
+    },
+    {
+      "time": 90.26,
+      "time_str": "01:30.260",
+      "text": "也许可能蒸发",
+      "translation": null
+    },
+    {
+      "time": 94.49,
+      "time_str": "01:34.490",
+      "text": "是谁的爱啊 比泪水坚强",
+      "translation": null
+    },
+    {
+      "time": 99.89,
+      "time_str": "01:39.890",
+      "text": "轻声呼唤 就让我融化",
+      "translation": null
+    },
+    {
+      "time": 105.37,
+      "time_str": "01:45.370",
+      "text": "每一滴雨水 演化成我翅膀",
+      "translation": null
+    },
+    {
+      "time": 112.3,
+      "time_str": "01:52.300",
+      "text": "向着我爱的人 追吧",
+      "translation": null
+    },
+    {
+      "time": 140.52,
+      "time_str": "02:20.520",
+      "text": "梦想穿过了西域",
+      "translation": null
+    },
+    {
+      "time": 143.3,
+      "time_str": "02:23.300",
+      "text": "包含了多少的禅意",
+      "translation": null
+    },
+    {
+      "time": 145.86,
+      "time_str": "02:25.860",
+      "text": "爱情像一本游记",
+      "translation": null
+    },
+    {
+      "time": 149.1,
+      "time_str": "02:29.100",
+      "text": "我会找寻他的谜语",
+      "translation": null
+    },
+    {
+      "time": 151.39,
+      "time_str": "02:31.390",
+      "text": "看月牙湾下的泪光",
+      "translation": null
+    },
+    {
+      "time": 155.82,
+      "time_str": "02:35.820",
+      "text": "在丝路之上被遗忘",
+      "translation": null
+    },
+    {
+      "time": 160.86,
+      "time_str": "02:40.860",
+      "text": "是谁的心啊 孤单地留下",
+      "translation": null
+    },
+    {
+      "time": 166.17,
+      "time_str": "02:46.170",
+      "text": "他还好吗 我多想爱他",
+      "translation": null
+    },
+    {
+      "time": 171.3,
+      "time_str": "02:51.300",
+      "text": "拿永恒的泪 凝固那一句话",
+      "translation": null
+    },
+    {
+      "time": 178.59,
+      "time_str": "02:58.590",
+      "text": "也许可能蒸发",
+      "translation": null
+    },
+    {
+      "time": 182.94,
+      "time_str": "03:02.940",
+      "text": "是谁的爱啊 比泪水坚强",
+      "translation": null
+    },
+    {
+      "time": 188.07,
+      "time_str": "03:08.070",
+      "text": "轻声呼唤 就让我融化",
+      "translation": null
+    },
+    {
+      "time": 193.55,
+      "time_str": "03:13.550",
+      "text": "每一滴雨水 演化成我翅膀",
+      "translation": null
+    },
+    {
+      "time": 200.61,
+      "time_str": "03:20.610",
+      "text": "向着我爱的人 追吧",
+      "translation": null
+    },
+    {
+      "time": 226.89,
+      "time_str": "03:46.890",
+      "text": "是谁的心啊 孤单地留下",
+      "translation": null
+    },
+    {
+      "time": 232.22,
+      "time_str": "03:52.220",
+      "text": "他还好吗 我多想爱他",
+      "translation": null
+    },
+    {
+      "time": 237.76,
+      "time_str": "03:57.760",
+      "text": "拿永恒的泪 凝固的一句话",
+      "translation": null
+    },
+    {
+      "time": 244.65,
+      "time_str": "04:04.650",
+      "text": "也许可能蒸发",
+      "translation": null
+    },
+    {
+      "time": 248.99,
+      "time_str": "04:08.990",
+      "text": "是谁的爱啊 比泪水坚强",
+      "translation": null
+    },
+    {
+      "time": 254.15,
+      "time_str": "04:14.150",
+      "text": "轻声呼唤 就让我融化",
+      "translation": null
+    },
+    {
+      "time": 259.79,
+      "time_str": "04:19.790",
+      "text": "每一滴雨水 演化成我翅膀",
+      "translation": null
+    },
+    {
+      "time": 267.07,
+      "time_str": "04:27.070",
+      "text": "向着我爱的人 追吧",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月牙湾 - F.I.R..lrc"
+}

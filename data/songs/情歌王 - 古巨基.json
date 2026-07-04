@@ -1,0 +1,1198 @@
+{
+  "title": "情歌王",
+  "title_raw": "情歌王",
+  "version": null,
+  "artist": "古巨基",
+  "group_key": "情歌王|古巨基",
+  "writers": {
+    "lyricist": "雷颂德/王力宏/周华健",
+    "composer": "雷颂德/王力宏/周华健",
+    "arranger": "雷颂德/Ted Lo"
+  },
+  "lyrics": [
+    {
+      "time": 16.79,
+      "time_str": "00:16.790",
+      "text": "（Forever Love - 王力宏）",
+      "translation": null
+    },
+    {
+      "time": 17.84,
+      "time_str": "00:17.840",
+      "text": "爱你 不是因为你的美而已",
+      "translation": null
+    },
+    {
+      "time": 24.19,
+      "time_str": "00:24.190",
+      "text": "我越来越爱你",
+      "translation": null
+    },
+    {
+      "time": 27.15,
+      "time_str": "00:27.150",
+      "text": "每个眼神触动我的心",
+      "translation": null
+    },
+    {
+      "time": 30.8,
+      "time_str": "00:30.800",
+      "text": "（两个人的烟火 - 黎明）",
+      "translation": null
+    },
+    {
+      "time": 31.86,
+      "time_str": "00:31.860",
+      "text": "最爱你的是我",
+      "translation": null
+    },
+    {
+      "time": 35.21,
+      "time_str": "00:35.210",
+      "text": "否则你怎么让我",
+      "translation": null
+    },
+    {
+      "time": 38.92,
+      "time_str": "00:38.920",
+      "text": "否则我怎么可能赴汤蹈火",
+      "translation": null
+    },
+    {
+      "time": 43.77,
+      "time_str": "00:43.770",
+      "text": "你说什么都做",
+      "translation": null
+    },
+    {
+      "time": 45.87,
+      "time_str": "00:45.870",
+      "text": "（如果·爱 - 张学友）",
+      "translation": null
+    },
+    {
+      "time": 46.41,
+      "time_str": "00:46.410",
+      "text": "如果这就是爱",
+      "translation": null
+    },
+    {
+      "time": 50.06,
+      "time_str": "00:50.060",
+      "text": "再转身就该勇敢留下来",
+      "translation": null
+    },
+    {
+      "time": 54.41,
+      "time_str": "00:54.410",
+      "text": "就算受伤就算流泪",
+      "translation": null
+    },
+    {
+      "time": 58.36,
+      "time_str": "00:58.360",
+      "text": "都是生命里温柔灌溉",
+      "translation": null
+    },
+    {
+      "time": 61.158,
+      "time_str": "01:01.158",
+      "text": "（童话 - 光良）",
+      "translation": null
+    },
+    {
+      "time": 61.369,
+      "time_str": "01:01.369",
+      "text": "我要变成童话里",
+      "translation": null
+    },
+    {
+      "time": 65.67,
+      "time_str": "01:05.670",
+      "text": "你爱的那个天使",
+      "translation": null
+    },
+    {
+      "time": 68.98,
+      "time_str": "01:08.980",
+      "text": "张开双手",
+      "translation": null
+    },
+    {
+      "time": 71.179,
+      "time_str": "01:11.179",
+      "text": "变成翅膀守护你",
+      "translation": null
+    },
+    {
+      "time": 76.429,
+      "time_str": "01:16.429",
+      "text": "你要相信",
+      "translation": null
+    },
+    {
+      "time": 78.83,
+      "time_str": "01:18.830",
+      "text": "相信我们会像童话故事里",
+      "translation": null
+    },
+    {
+      "time": 83.98,
+      "time_str": "01:23.980",
+      "text": "（很爱很爱你 - 刘若英）",
+      "translation": null
+    },
+    {
+      "time": 84.11,
+      "time_str": "01:24.110",
+      "text": "往更多幸福的地方飞去",
+      "translation": null
+    },
+    {
+      "time": 88.039,
+      "time_str": "01:28.039",
+      "text": "很爱很爱你",
+      "translation": null
+    },
+    {
+      "time": 89.899,
+      "time_str": "01:29.899",
+      "text": "只有让你拥有爱情",
+      "translation": null
+    },
+    {
+      "time": 94.45,
+      "time_str": "01:34.450",
+      "text": "我才安心",
+      "translation": null
+    },
+    {
+      "time": 97.099,
+      "time_str": "01:37.099",
+      "text": "（我愿意 - 王菲）",
+      "translation": null
+    },
+    {
+      "time": 99.209,
+      "time_str": "01:39.209",
+      "text": "我愿意为你",
+      "translation": null
+    },
+    {
+      "time": 102.41,
+      "time_str": "01:42.410",
+      "text": "我愿意为你",
+      "translation": null
+    },
+    {
+      "time": 106.36,
+      "time_str": "01:46.360",
+      "text": "我愿意为你忘记我姓名",
+      "translation": null
+    },
+    {
+      "time": 114.03,
+      "time_str": "01:54.030",
+      "text": "只要你真心",
+      "translation": null
+    },
+    {
+      "time": 117.739,
+      "time_str": "01:57.739",
+      "text": "拿爱与我回应",
+      "translation": null
+    },
+    {
+      "time": 122.689,
+      "time_str": "02:02.689",
+      "text": "我什么都愿意 为你",
+      "translation": null
+    },
+    {
+      "time": 128.588,
+      "time_str": "02:08.588",
+      "text": "（好想好想 - 古巨基）",
+      "translation": null
+    },
+    {
+      "time": 130.319,
+      "time_str": "02:10.319",
+      "text": "好想好想好想好想",
+      "translation": null
+    },
+    {
+      "time": 138.27,
+      "time_str": "02:18.270",
+      "text": "好想好想",
+      "translation": null
+    },
+    {
+      "time": 139.718,
+      "time_str": "02:19.718",
+      "text": "和你在一起",
+      "translation": null
+    },
+    {
+      "time": 142.619,
+      "time_str": "02:22.619",
+      "text": "（明天我要嫁给你了 - 周华健）",
+      "translation": null
+    },
+    {
+      "time": 145.3,
+      "time_str": "02:25.300",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 149.099,
+      "time_str": "02:29.099",
+      "text": "明天我要嫁给你啦",
+      "translation": null
+    },
+    {
+      "time": 152.149,
+      "time_str": "02:32.149",
+      "text": "要不是你问我 要不是你劝我",
+      "translation": null
+    },
+    {
+      "time": 155.949,
+      "time_str": "02:35.949",
+      "text": "要不是适当的时候你让我心动",
+      "translation": null
+    },
+    {
+      "time": 160.509,
+      "time_str": "02:40.509",
+      "text": "（不得不爱 - 潘玮柏 feat.弦子）",
+      "translation": null
+    },
+    {
+      "time": 160.589,
+      "time_str": "02:40.589",
+      "text": "天天都需要你爱",
+      "translation": null
+    },
+    {
+      "time": 163.399,
+      "time_str": "02:43.399",
+      "text": "我的心思由你猜",
+      "translation": null
+    },
+    {
+      "time": 166.349,
+      "time_str": "02:46.349",
+      "text": "I love you",
+      "translation": null
+    },
+    {
+      "time": 168.05,
+      "time_str": "02:48.050",
+      "text": "我就是要你让我每天都精彩",
+      "translation": null
+    },
+    {
+      "time": 172.949,
+      "time_str": "02:52.949",
+      "text": "（阴天 - 莫文蔚）",
+      "translation": null
+    },
+    {
+      "time": 173.188,
+      "time_str": "02:53.188",
+      "text": "开始总是分分钟",
+      "translation": null
+    },
+    {
+      "time": 175.599,
+      "time_str": "02:55.599",
+      "text": "都妙不可言",
+      "translation": null
+    },
+    {
+      "time": 177.099,
+      "time_str": "02:57.099",
+      "text": "谁都以为热情它永不会灭",
+      "translation": null
+    },
+    {
+      "time": 180.449,
+      "time_str": "03:00.449",
+      "text": "总之那几年 感性赢了理性那一面",
+      "translation": null
+    },
+    {
+      "time": 185.08,
+      "time_str": "03:05.080",
+      "text": "（飞机场的10:30 - 陶喆）",
+      "translation": null
+    },
+    {
+      "time": 186.808,
+      "time_str": "03:06.808",
+      "text": "Baby Baby Baby Baby",
+      "translation": null
+    },
+    {
+      "time": 189.169,
+      "time_str": "03:09.169",
+      "text": "Oh Baby Baby Oh Baby",
+      "translation": null
+    },
+    {
+      "time": 194.019,
+      "time_str": "03:14.019",
+      "text": "是不是拥有以后就会开始要失去",
+      "translation": null
+    },
+    {
+      "time": 201.489,
+      "time_str": "03:21.489",
+      "text": "给你的越多 你却越想要躲",
+      "translation": null
+    },
+    {
+      "time": 208.339,
+      "time_str": "03:28.339",
+      "text": "爱已无法回答所有的问题",
+      "translation": null
+    },
+    {
+      "time": 212.949,
+      "time_str": "03:32.949",
+      "text": "（那么爱你为什么 - 黄品源 feat.莫文蔚）",
+      "translation": null
+    },
+    {
+      "time": 213.919,
+      "time_str": "03:33.919",
+      "text": "离开你 是傻是对是错",
+      "translation": null
+    },
+    {
+      "time": 218.619,
+      "time_str": "03:38.619",
+      "text": "是看破 是软弱",
+      "translation": null
+    },
+    {
+      "time": 222.069,
+      "time_str": "03:42.069",
+      "text": "这结果 是爱是恨",
+      "translation": null
+    },
+    {
+      "time": 225.468,
+      "time_str": "03:45.468",
+      "text": "或者是什么",
+      "translation": null
+    },
+    {
+      "time": 227.52,
+      "time_str": "03:47.520",
+      "text": "（你怎么舍得我难过 - 黄品源）",
+      "translation": null
+    },
+    {
+      "time": 228.899,
+      "time_str": "03:48.899",
+      "text": "最爱你的人是我",
+      "translation": null
+    },
+    {
+      "time": 231.649,
+      "time_str": "03:51.649",
+      "text": "你怎么舍得我难过",
+      "translation": null
+    },
+    {
+      "time": 235.3,
+      "time_str": "03:55.300",
+      "text": "对你付出了这么多",
+      "translation": null
+    },
+    {
+      "time": 237.949,
+      "time_str": "03:57.949",
+      "text": "你却没有感动过",
+      "translation": null
+    },
+    {
+      "time": 241.498,
+      "time_str": "04:01.498",
+      "text": "（爱我别走 - 张震岳）",
+      "translation": null
+    },
+    {
+      "time": 243.509,
+      "time_str": "04:03.509",
+      "text": "爱我 别走",
+      "translation": null
+    },
+    {
+      "time": 246.909,
+      "time_str": "04:06.909",
+      "text": "如果 你说 你不爱我",
+      "translation": null
+    },
+    {
+      "time": 257.149,
+      "time_str": "04:17.149",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 261.999,
+      "time_str": "04:21.999",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 267.249,
+      "time_str": "04:27.249",
+      "text": "（让我欢喜让我忧 - 周华健）",
+      "translation": null
+    },
+    {
+      "time": 269.059,
+      "time_str": "04:29.059",
+      "text": "就请你给我多一点点时间",
+      "translation": null
+    },
+    {
+      "time": 271.759,
+      "time_str": "04:31.759",
+      "text": "再多一点点问候",
+      "translation": null
+    },
+    {
+      "time": 274.11,
+      "time_str": "04:34.110",
+      "text": "不要一切都带走",
+      "translation": null
+    },
+    {
+      "time": 276.509,
+      "time_str": "04:36.509",
+      "text": "就请你给我多一点点空间",
+      "translation": null
+    },
+    {
+      "time": 279.209,
+      "time_str": "04:39.209",
+      "text": "再多一点点温柔",
+      "translation": null
+    },
+    {
+      "time": 281.36,
+      "time_str": "04:41.360",
+      "text": "不要让我如此难受",
+      "translation": null
+    },
+    {
+      "time": 284.91,
+      "time_str": "04:44.910",
+      "text": "啊……",
+      "translation": null
+    },
+    {
+      "time": 288.009,
+      "time_str": "04:48.009",
+      "text": "（原来你什么都不想要 - 张惠妹）",
+      "translation": null
+    },
+    {
+      "time": 289.809,
+      "time_str": "04:49.809",
+      "text": "原来你什么都不想要",
+      "translation": null
+    },
+    {
+      "time": 297.569,
+      "time_str": "04:57.569",
+      "text": "我不要你的承诺",
+      "translation": null
+    },
+    {
+      "time": 299.619,
+      "time_str": "04:59.619",
+      "text": "不要你的永远",
+      "translation": null
+    },
+    {
+      "time": 301.279,
+      "time_str": "05:01.279",
+      "text": "只要你真真切切爱我一遍",
+      "translation": null
+    },
+    {
+      "time": 305.129,
+      "time_str": "05:05.129",
+      "text": "就算虚荣也好 贪心也好",
+      "translation": null
+    },
+    {
+      "time": 308.829,
+      "time_str": "05:08.829",
+      "text": "最怕你把沉默",
+      "translation": null
+    },
+    {
+      "time": 310.98,
+      "time_str": "05:10.980",
+      "text": "当做对我的回答",
+      "translation": null
+    },
+    {
+      "time": 315.779,
+      "time_str": "05:15.779",
+      "text": "原来你什么都不想要",
+      "translation": null
+    },
+    {
+      "time": 321.98,
+      "time_str": "05:21.980",
+      "text": "（用心良苦 - 张宇）",
+      "translation": null
+    },
+    {
+      "time": 322.749,
+      "time_str": "05:22.749",
+      "text": "你说你 想要逃",
+      "translation": null
+    },
+    {
+      "time": 326.428,
+      "time_str": "05:26.428",
+      "text": "偏偏注定要落脚",
+      "translation": null
+    },
+    {
+      "time": 330.089,
+      "time_str": "05:30.089",
+      "text": "情灭了 爱熄了",
+      "translation": null
+    },
+    {
+      "time": 333.79,
+      "time_str": "05:33.790",
+      "text": "剩下空心要不要",
+      "translation": null
+    },
+    {
+      "time": 336.689,
+      "time_str": "05:36.689",
+      "text": "（祝福 - 张学友）",
+      "translation": null
+    },
+    {
+      "time": 337.49,
+      "time_str": "05:37.490",
+      "text": "伤离别",
+      "translation": null
+    },
+    {
+      "time": 341.24,
+      "time_str": "05:41.240",
+      "text": "离别虽然在眼前",
+      "translation": null
+    },
+    {
+      "time": 344.839,
+      "time_str": "05:44.839",
+      "text": "说再见",
+      "translation": null
+    },
+    {
+      "time": 348.54,
+      "time_str": "05:48.540",
+      "text": "再见不会太遥远",
+      "translation": null
+    },
+    {
+      "time": 352.24,
+      "time_str": "05:52.240",
+      "text": "若有缘",
+      "translation": null
+    },
+    {
+      "time": 354.089,
+      "time_str": "05:54.089",
+      "text": "有缘就能期待明天",
+      "translation": null
+    },
+    {
+      "time": 359.54,
+      "time_str": "05:59.540",
+      "text": "你和我重逢在灿烂的季节",
+      "translation": null
+    },
+    {
+      "time": 364.949,
+      "time_str": "06:04.949",
+      "text": "（吻别 - 张学友）",
+      "translation": null
+    },
+    {
+      "time": 367.029,
+      "time_str": "06:07.029",
+      "text": "我和你吻别 在无人的街",
+      "translation": null
+    },
+    {
+      "time": 371.428,
+      "time_str": "06:11.428",
+      "text": "让风痴笑我不能拒绝",
+      "translation": null
+    },
+    {
+      "time": 374.379,
+      "time_str": "06:14.379",
+      "text": "我和你吻别 在狂乱的夜",
+      "translation": null
+    },
+    {
+      "time": 378.738,
+      "time_str": "06:18.738",
+      "text": "我的心 等着迎接伤悲",
+      "translation": null
+    },
+    {
+      "time": 386.189,
+      "time_str": "06:26.189",
+      "text": "（把悲伤留给自己 ）",
+      "translation": null
+    },
+    {
+      "time": 396.178,
+      "time_str": "06:36.178",
+      "text": "能不能让我陪着你走",
+      "translation": null
+    },
+    {
+      "time": 400.379,
+      "time_str": "06:40.379",
+      "text": "既然你说留不住你",
+      "translation": null
+    },
+    {
+      "time": 404.329,
+      "time_str": "06:44.329",
+      "text": "回去的路有些黑暗",
+      "translation": null
+    },
+    {
+      "time": 408.41,
+      "time_str": "06:48.410",
+      "text": "担心让你一个人走",
+      "translation": null
+    },
+    {
+      "time": 412.86,
+      "time_str": "06:52.860",
+      "text": "（征服 - 那英）",
+      "translation": null
+    },
+    {
+      "time": 413.619,
+      "time_str": "06:53.619",
+      "text": "就这样被你征服",
+      "translation": null
+    },
+    {
+      "time": 417.619,
+      "time_str": "06:57.619",
+      "text": "切断了所有退路",
+      "translation": null
+    },
+    {
+      "time": 421.369,
+      "time_str": "07:01.369",
+      "text": "我的心情是坚固",
+      "translation": null
+    },
+    {
+      "time": 425.369,
+      "time_str": "07:05.369",
+      "text": "我的决定是糊涂",
+      "translation": null
+    },
+    {
+      "time": 428.97,
+      "time_str": "07:08.970",
+      "text": "（听海 - 张惠妹）",
+      "translation": null
+    },
+    {
+      "time": 430.869,
+      "time_str": "07:10.869",
+      "text": "听 海哭的声音",
+      "translation": null
+    },
+    {
+      "time": 437.829,
+      "time_str": "07:17.829",
+      "text": "叹惜着谁又被伤了心",
+      "translation": null
+    },
+    {
+      "time": 441.428,
+      "time_str": "07:21.428",
+      "text": "（味道 - 辛晓琪）",
+      "translation": null
+    },
+    {
+      "time": 442.36,
+      "time_str": "07:22.360",
+      "text": "想你身上的味道",
+      "translation": null
+    },
+    {
+      "time": 446.259,
+      "time_str": "07:26.259",
+      "text": "我想念你的吻",
+      "translation": null
+    },
+    {
+      "time": 449.809,
+      "time_str": "07:29.809",
+      "text": "和手指淡淡烟草味道",
+      "translation": null
+    },
+    {
+      "time": 456.97,
+      "time_str": "07:36.970",
+      "text": "记忆中曾被爱的味道",
+      "translation": null
+    },
+    {
+      "time": 462.17,
+      "time_str": "07:42.170",
+      "text": "（我怀念的 - 孙燕姿）",
+      "translation": null
+    },
+    {
+      "time": 465.069,
+      "time_str": "07:45.069",
+      "text": "我怀念的是无话不说",
+      "translation": null
+    },
+    {
+      "time": 468.769,
+      "time_str": "07:48.769",
+      "text": "我怀念的是一起做梦",
+      "translation": null
+    },
+    {
+      "time": 472.269,
+      "time_str": "07:52.269",
+      "text": "我怀念的是争吵以后",
+      "translation": null
+    },
+    {
+      "time": 475.309,
+      "time_str": "07:55.309",
+      "text": "还是想要爱你的冲动",
+      "translation": null
+    },
+    {
+      "time": 479.559,
+      "time_str": "07:59.559",
+      "text": "我记得那年生日",
+      "translation": null
+    },
+    {
+      "time": 483.16,
+      "time_str": "08:03.160",
+      "text": "也记得那一首歌",
+      "translation": null
+    },
+    {
+      "time": 486.559,
+      "time_str": "08:06.559",
+      "text": "记得那片星空",
+      "translation": null
+    },
+    {
+      "time": 488.619,
+      "time_str": "08:08.619",
+      "text": "最紧的右手",
+      "translation": null
+    },
+    {
+      "time": 490.42,
+      "time_str": "08:10.420",
+      "text": "最暖的胸口",
+      "translation": null
+    },
+    {
+      "time": 491.819,
+      "time_str": "08:11.819",
+      "text": "（领悟 - 辛晓琪）",
+      "translation": null
+    },
+    {
+      "time": 491.869,
+      "time_str": "08:11.869",
+      "text": "我多么痛的领悟",
+      "translation": null
+    },
+    {
+      "time": 495.73,
+      "time_str": "08:15.730",
+      "text": "你曾是我的全部",
+      "translation": null
+    },
+    {
+      "time": 499.309,
+      "time_str": "08:19.309",
+      "text": "只愿你挣脱情的枷锁",
+      "translation": null
+    },
+    {
+      "time": 502.209,
+      "time_str": "08:22.209",
+      "text": "爱的束缚",
+      "translation": null
+    },
+    {
+      "time": 504.009,
+      "time_str": "08:24.009",
+      "text": "任意追逐",
+      "translation": null
+    },
+    {
+      "time": 506.709,
+      "time_str": "08:26.709",
+      "text": "别再为爱受苦",
+      "translation": null
+    },
+    {
+      "time": 510.209,
+      "time_str": "08:30.209",
+      "text": "（月亮惹的祸 - 张宇）",
+      "translation": null
+    },
+    {
+      "time": 510.238,
+      "time_str": "08:30.238",
+      "text": "都是你的错",
+      "translation": null
+    },
+    {
+      "time": 512.09,
+      "time_str": "08:32.090",
+      "text": "在你的眼中",
+      "translation": null
+    },
+    {
+      "time": 513.779,
+      "time_str": "08:33.779",
+      "text": "总是藏着让人又爱又怜的朦胧",
+      "translation": null
+    },
+    {
+      "time": 517.379,
+      "time_str": "08:37.379",
+      "text": "都是你的错",
+      "translation": null
+    },
+    {
+      "time": 519.188,
+      "time_str": "08:39.188",
+      "text": "你的痴情梦",
+      "translation": null
+    },
+    {
+      "time": 520.99,
+      "time_str": "08:40.990",
+      "text": "像一个魔咒",
+      "translation": null
+    },
+    {
+      "time": 523.938,
+      "time_str": "08:43.938",
+      "text": "被你爱过还能为谁蠢动",
+      "translation": null
+    },
+    {
+      "time": 530.74,
+      "time_str": "08:50.740",
+      "text": "（我们的爱 - 飞儿乐团）",
+      "translation": null
+    },
+    {
+      "time": 531.719,
+      "time_str": "08:51.719",
+      "text": "我们的爱",
+      "translation": null
+    },
+    {
+      "time": 535.769,
+      "time_str": "08:55.769",
+      "text": "过了就不再回来",
+      "translation": null
+    },
+    {
+      "time": 539.769,
+      "time_str": "08:59.769",
+      "text": "直到现在我还默默地等待",
+      "translation": null
+    },
+    {
+      "time": 545.969,
+      "time_str": "09:05.969",
+      "text": "我们的爱我明白",
+      "translation": null
+    },
+    {
+      "time": 550.068,
+      "time_str": "09:10.068",
+      "text": "已变成你的负担",
+      "translation": null
+    },
+    {
+      "time": 554.12,
+      "time_str": "09:14.120",
+      "text": "只是永远 我都放不开",
+      "translation": null
+    },
+    {
+      "time": 559.419,
+      "time_str": "09:19.419",
+      "text": "最后的温暖",
+      "translation": null
+    },
+    {
+      "time": 562.318,
+      "time_str": "09:22.318",
+      "text": "（你把我灌醉 - 黄大炜）",
+      "translation": null
+    },
+    {
+      "time": 563.62,
+      "time_str": "09:23.620",
+      "text": "你把我灌醉",
+      "translation": null
+    },
+    {
+      "time": 567.469,
+      "time_str": "09:27.469",
+      "text": "你让我流泪",
+      "translation": null
+    },
+    {
+      "time": 571.068,
+      "time_str": "09:31.068",
+      "text": "扛下了所有罪",
+      "translation": null
+    },
+    {
+      "time": 574.469,
+      "time_str": "09:34.469",
+      "text": "我拼命挽回",
+      "translation": null
+    },
+    {
+      "time": 578.269,
+      "time_str": "09:38.269",
+      "text": "你把我灌醉",
+      "translation": null
+    },
+    {
+      "time": 581.479,
+      "time_str": "09:41.479",
+      "text": "你让我心碎",
+      "translation": null
+    },
+    {
+      "time": 585.428,
+      "time_str": "09:45.428",
+      "text": "爱得收不回",
+      "translation": null
+    },
+    {
+      "time": 590.188,
+      "time_str": "09:50.188",
+      "text": "Oh",
+      "translation": null
+    },
+    {
+      "time": 591.789,
+      "time_str": "09:51.789",
+      "text": "（眼泪 - 范晓萱）",
+      "translation": null
+    },
+    {
+      "time": 593.289,
+      "time_str": "09:53.289",
+      "text": "Oh 眼泪",
+      "translation": null
+    },
+    {
+      "time": 597.49,
+      "time_str": "09:57.490",
+      "text": "眼泪都是我的体会",
+      "translation": null
+    },
+    {
+      "time": 602.839,
+      "time_str": "10:02.839",
+      "text": "成长的滋味",
+      "translation": null
+    },
+    {
+      "time": 606.139,
+      "time_str": "10:06.139",
+      "text": "Oh 眼泪",
+      "translation": null
+    },
+    {
+      "time": 610.49,
+      "time_str": "10:10.490",
+      "text": "忍住眼泪不让你看见",
+      "translation": null
+    },
+    {
+      "time": 616.089,
+      "time_str": "10:16.089",
+      "text": "我在改变 孤单的感觉",
+      "translation": null
+    },
+    {
+      "time": 624.839,
+      "time_str": "10:24.839",
+      "text": "你从不曾发现 我笑中还有泪",
+      "translation": null
+    },
+    {
+      "time": 634.24,
+      "time_str": "10:34.240",
+      "text": "（情非得已 - 庾澄庆）",
+      "translation": null
+    },
+    {
+      "time": 636.49,
+      "time_str": "10:36.490",
+      "text": "只怕我自己会爱上你",
+      "translation": null
+    },
+    {
+      "time": 641.49,
+      "time_str": "10:41.490",
+      "text": "不敢让自己靠得太近",
+      "translation": null
+    },
+    {
+      "time": 646.24,
+      "time_str": "10:46.240",
+      "text": "怕我没什么能够给你",
+      "translation": null
+    },
+    {
+      "time": 651.24,
+      "time_str": "10:51.240",
+      "text": "爱你也需要很大的勇气",
+      "translation": null
+    },
+    {
+      "time": 654.389,
+      "time_str": "10:54.389",
+      "text": "（你是如此难以忘记 - 梁朝伟）",
+      "translation": null
+    },
+    {
+      "time": 657.058,
+      "time_str": "10:57.058",
+      "text": "你是如此的难以忘记",
+      "translation": null
+    },
+    {
+      "time": 661.958,
+      "time_str": "11:01.958",
+      "text": "浮浮沉沉的在我心里",
+      "translation": null
+    },
+    {
+      "time": 666.759,
+      "time_str": "11:06.759",
+      "text": "改变自己需要多少勇气",
+      "translation": null
+    },
+    {
+      "time": 671.568,
+      "time_str": "11:11.568",
+      "text": "翻腾的心情该如何平静",
+      "translation": null
+    },
+    {
+      "time": 677.519,
+      "time_str": "11:17.519",
+      "text": "（心太软 - 任贤齐）",
+      "translation": null
+    },
+    {
+      "time": 679.62,
+      "time_str": "11:19.620",
+      "text": "你总是心太软 心太软",
+      "translation": null
+    },
+    {
+      "time": 685.12,
+      "time_str": "11:25.120",
+      "text": "把所有问题都自己扛",
+      "translation": null
+    },
+    {
+      "time": 689.62,
+      "time_str": "11:29.620",
+      "text": "相爱总是简单 相处太难",
+      "translation": null
+    },
+    {
+      "time": 694.419,
+      "time_str": "11:34.419",
+      "text": "不是你的就别再勉强",
+      "translation": null
+    },
+    {
+      "time": 697.719,
+      "time_str": "11:37.719",
+      "text": "（Forever Love - 王力宏）",
+      "translation": null
+    },
+    {
+      "time": 699.399,
+      "time_str": "11:39.399",
+      "text": "Forever Love Forever Love",
+      "translation": null
+    },
+    {
+      "time": 708.049,
+      "time_str": "11:48.049",
+      "text": "我只想用我这一辈子去爱你",
+      "translation": null
+    },
+    {
+      "time": 715.448,
+      "time_str": "11:55.448",
+      "text": "从今以后 你会是所有 幸福的理由",
+      "translation": null
+    },
+    {
+      "time": 731.458,
+      "time_str": "12:11.458",
+      "text": "Forever Love Forever Love",
+      "translation": null
+    },
+    {
+      "time": 744.159,
+      "time_str": "12:24.159",
+      "text": "Forever Love",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情歌王 - 古巨基.lrc"
+}

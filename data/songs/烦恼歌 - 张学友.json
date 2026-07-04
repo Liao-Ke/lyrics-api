@@ -1,0 +1,304 @@
+{
+  "title": "烦恼歌",
+  "title_raw": "烦恼歌",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "烦恼歌|张学友",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "Gustav Jonsson/Markus Sepehrmanesh/Tommy Tyser",
+    "arranger": "Skot Suyama"
+  },
+  "lyrics": [
+    {
+      "time": 30.22,
+      "time_str": "00:30.220",
+      "text": "不爱的不断打扰",
+      "translation": null
+    },
+    {
+      "time": 32.47,
+      "time_str": "00:32.470",
+      "text": "你爱的不在怀抱",
+      "translation": null
+    },
+    {
+      "time": 35.09,
+      "time_str": "00:35.090",
+      "text": "得到手的不需要",
+      "translation": null
+    },
+    {
+      "time": 38.31,
+      "time_str": "00:38.310",
+      "text": "渴望拥有的得不到",
+      "translation": null
+    },
+    {
+      "time": 41.09,
+      "time_str": "00:41.090",
+      "text": "苦恼 倒不如说说笑笑",
+      "translation": null
+    },
+    {
+      "time": 45.89,
+      "time_str": "00:45.890",
+      "text": "生活不要 太多钞票",
+      "translation": null
+    },
+    {
+      "time": 48.39,
+      "time_str": "00:48.390",
+      "text": "多了就会带来困扰",
+      "translation": null
+    },
+    {
+      "time": 51.29,
+      "time_str": "00:51.290",
+      "text": "过重的背包 过度的暴躁",
+      "translation": null
+    },
+    {
+      "time": 56.42,
+      "time_str": "00:56.420",
+      "text": "什么都不要 一起呼叫",
+      "translation": null
+    },
+    {
+      "time": 62.77,
+      "time_str": "01:02.770",
+      "text": "没有烦恼",
+      "translation": null
+    },
+    {
+      "time": 63.71,
+      "time_str": "01:03.710",
+      "text": "除了呼吸其他不重要",
+      "translation": null
+    },
+    {
+      "time": 66.18,
+      "time_str": "01:06.180",
+      "text": "除了现在什么都忘掉",
+      "translation": null
+    },
+    {
+      "time": 68.74,
+      "time_str": "01:08.740",
+      "text": "心事像羽毛 越飘越逍遥",
+      "translation": null
+    },
+    {
+      "time": 71.68,
+      "time_str": "01:11.680",
+      "text": "烦恼什么烦恼",
+      "translation": null
+    },
+    {
+      "time": 73.86,
+      "time_str": "01:13.860",
+      "text": "除了心跳没有大不了",
+      "translation": null
+    },
+    {
+      "time": 76.36,
+      "time_str": "01:16.360",
+      "text": "人们不该去羡慕飞鸟",
+      "translation": null
+    },
+    {
+      "time": 78.98,
+      "time_str": "01:18.980",
+      "text": "世界比我大 把自我缩小",
+      "translation": null
+    },
+    {
+      "time": 86.63,
+      "time_str": "01:26.630",
+      "text": "把自己当做跳蚤",
+      "translation": null
+    },
+    {
+      "time": 88.6,
+      "time_str": "01:28.600",
+      "text": "谁也不值得骄傲",
+      "translation": null
+    },
+    {
+      "time": 91.75,
+      "time_str": "01:31.750",
+      "text": "人间疾苦知多少",
+      "translation": null
+    },
+    {
+      "time": 94.31,
+      "time_str": "01:34.310",
+      "text": "花开到花落知多少",
+      "translation": null
+    },
+    {
+      "time": 97.0,
+      "time_str": "01:37.000",
+      "text": "不了 把一切看成玩笑",
+      "translation": null
+    },
+    {
+      "time": 101.58,
+      "time_str": "01:41.580",
+      "text": "吵吵闹闹像G大调",
+      "translation": null
+    },
+    {
+      "time": 104.68,
+      "time_str": "01:44.680",
+      "text": "假装什么都不知道",
+      "translation": null
+    },
+    {
+      "time": 107.45,
+      "time_str": "01:47.450",
+      "text": "过重的背包 过度的暴躁",
+      "translation": null
+    },
+    {
+      "time": 112.55,
+      "time_str": "01:52.550",
+      "text": "什么都不要",
+      "translation": null
+    },
+    {
+      "time": 139.85,
+      "time_str": "02:19.850",
+      "text": "不和谁比较",
+      "translation": null
+    },
+    {
+      "time": 141.92,
+      "time_str": "02:21.920",
+      "text": "不和谁争拗",
+      "translation": null
+    },
+    {
+      "time": 144.52,
+      "time_str": "02:24.520",
+      "text": "过分思考 庸人自扰",
+      "translation": null
+    },
+    {
+      "time": 146.93,
+      "time_str": "02:26.930",
+      "text": "别庸人自扰",
+      "translation": null
+    },
+    {
+      "time": 149.57,
+      "time_str": "02:29.570",
+      "text": "一切轻于鸿毛",
+      "translation": null
+    },
+    {
+      "time": 151.85,
+      "time_str": "02:31.850",
+      "text": "才能消灭烦恼",
+      "translation": null
+    },
+    {
+      "time": 156.24,
+      "time_str": "02:36.240",
+      "text": "一起呼叫",
+      "translation": null
+    },
+    {
+      "time": 158.23,
+      "time_str": "02:38.230",
+      "text": "没有烦恼",
+      "translation": null
+    },
+    {
+      "time": 159.3,
+      "time_str": "02:39.300",
+      "text": "除了呼吸其他不重要",
+      "translation": null
+    },
+    {
+      "time": 161.83,
+      "time_str": "02:41.830",
+      "text": "除了现在什么都忘掉",
+      "translation": null
+    },
+    {
+      "time": 164.42,
+      "time_str": "02:44.420",
+      "text": "心事像羽毛 越飘越逍遥",
+      "translation": null
+    },
+    {
+      "time": 167.29,
+      "time_str": "02:47.290",
+      "text": "烦恼什么烦恼",
+      "translation": null
+    },
+    {
+      "time": 169.51,
+      "time_str": "02:49.510",
+      "text": "除了心跳没有大不了",
+      "translation": null
+    },
+    {
+      "time": 171.98,
+      "time_str": "02:51.980",
+      "text": "人们不该去羡慕飞鸟",
+      "translation": null
+    },
+    {
+      "time": 174.41,
+      "time_str": "02:54.410",
+      "text": "世界比我大 把自我缩小",
+      "translation": null
+    },
+    {
+      "time": 177.99,
+      "time_str": "02:57.990",
+      "text": "烦恼什么烦恼",
+      "translation": null
+    },
+    {
+      "time": 179.71,
+      "time_str": "02:59.710",
+      "text": "除了心跳没有大不了",
+      "translation": null
+    },
+    {
+      "time": 182.24,
+      "time_str": "03:02.240",
+      "text": "人们不该去羡慕飞鸟",
+      "translation": null
+    },
+    {
+      "time": 184.84,
+      "time_str": "03:04.840",
+      "text": "世界比我大 把自我缩小",
+      "translation": null
+    },
+    {
+      "time": 197.02,
+      "time_str": "03:17.020",
+      "text": "什么都不要",
+      "translation": null
+    },
+    {
+      "time": 207.21,
+      "time_str": "03:27.210",
+      "text": "什么都不要",
+      "translation": null
+    },
+    {
+      "time": 217.04,
+      "time_str": "03:37.040",
+      "text": "什么都不要",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "烦恼歌 - 张学友.lrc"
+}

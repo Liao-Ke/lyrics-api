@@ -1,0 +1,328 @@
+{
+  "title": "Magic  Melody",
+  "title_raw": "Magic  Melody",
+  "version": null,
+  "artist": "beFour",
+  "group_key": "magic melody|befour",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.37,
+      "time_str": "00:07.370",
+      "text": "I’m walking through a land",
+      "translation": "我走过一片土地"
+    },
+    {
+      "time": 9.22,
+      "time_str": "00:09.220",
+      "text": "Of peace and harmony",
+      "translation": "和平与和谐"
+    },
+    {
+      "time": 10.94,
+      "time_str": "00:10.940",
+      "text": "Come take me by the hand",
+      "translation": "来，抓住我的手"
+    },
+    {
+      "time": 12.85,
+      "time_str": "00:12.850",
+      "text": "And join my fantasy",
+      "translation": "加入我的幻想"
+    },
+    {
+      "time": 14.46,
+      "time_str": "00:14.460",
+      "text": "This dream has just begun",
+      "translation": "这个梦想才刚刚开始"
+    },
+    {
+      "time": 16.52,
+      "time_str": "00:16.520",
+      "text": "Come on and sing with me",
+      "translation": "来和我一起歌唱"
+    },
+    {
+      "time": 18.52,
+      "time_str": "00:18.520",
+      "text": "I know a certain song",
+      "translation": "我知道某一首歌"
+    },
+    {
+      "time": 20.38,
+      "time_str": "00:20.380",
+      "text": "A certain melody goes",
+      "translation": "一定的旋律去"
+    },
+    {
+      "time": 22.18,
+      "time_str": "00:22.180",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 24.28,
+      "time_str": "00:24.280",
+      "text": "The magic melody goes",
+      "translation": "魔术旋律去"
+    },
+    {
+      "time": 25.97,
+      "time_str": "00:25.970",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 27.83,
+      "time_str": "00:27.830",
+      "text": "Come on and sing with me just",
+      "translation": "来和我一起歌唱而已"
+    },
+    {
+      "time": 29.5,
+      "time_str": "00:29.500",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 31.5,
+      "time_str": "00:31.500",
+      "text": "Oh music is the key just",
+      "translation": "这是开启音乐的关键钥匙"
+    },
+    {
+      "time": 33.06,
+      "time_str": "00:33.060",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 35.2,
+      "time_str": "00:35.200",
+      "text": "So it will set you free",
+      "translation": "他将释放你"
+    },
+    {
+      "time": 37.27,
+      "time_str": "00:37.270",
+      "text": "La la la la la...",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 65.6,
+      "time_str": "01:05.600",
+      "text": "I know it’s just a dream",
+      "translation": "我知道它仅仅是一个梦"
+    },
+    {
+      "time": 68.33,
+      "time_str": "01:08.330",
+      "text": "It’s not reality",
+      "translation": "那不是真的"
+    },
+    {
+      "time": 69.59,
+      "time_str": "01:09.590",
+      "text": "And not that what it seems",
+      "translation": "不，似乎是什么"
+    },
+    {
+      "time": 71.73,
+      "time_str": "01:11.730",
+      "text": "I’m sure my mind is free",
+      "translation": "我确定我的思想是自由的"
+    },
+    {
+      "time": 73.21,
+      "time_str": "01:13.210",
+      "text": "Like lucy in the sky",
+      "translation": "像天空中的露西"
+    },
+    {
+      "time": 75.29,
+      "time_str": "01:15.290",
+      "text": "We just go on and on",
+      "translation": "我将一直继续"
+    },
+    {
+      "time": 76.86,
+      "time_str": "01:16.860",
+      "text": "And fly our way up high",
+      "translation": "我们一路高飞"
+    },
+    {
+      "time": 79.22,
+      "time_str": "01:19.220",
+      "text": "Until the day is gone",
+      "translation": "直到这一天过去了"
+    },
+    {
+      "time": 81.23,
+      "time_str": "01:21.230",
+      "text": "You just got to hold on",
+      "translation": "你只需要抓住他"
+    },
+    {
+      "time": 83.12,
+      "time_str": "01:23.120",
+      "text": "To what your heart believes",
+      "translation": "你真心的相信什么"
+    },
+    {
+      "time": 84.63,
+      "time_str": "01:24.630",
+      "text": "You’ll see you can’t go wrong",
+      "translation": "你讲知道你不能犯错了"
+    },
+    {
+      "time": 86.69,
+      "time_str": "01:26.690",
+      "text": "Inside this land of dreams",
+      "translation": "在这个梦想之地"
+    },
+    {
+      "time": 88.35,
+      "time_str": "01:28.350",
+      "text": "We fly into the sun",
+      "translation": "我们将飞向太阳"
+    },
+    {
+      "time": 90.31,
+      "time_str": "01:30.310",
+      "text": "Across the milky way",
+      "translation": "整个银河系"
+    },
+    {
+      "time": 92.14,
+      "time_str": "01:32.140",
+      "text": "And sing our favorite song",
+      "translation": "唱我最喜欢的歌"
+    },
+    {
+      "time": 94.44,
+      "time_str": "01:34.440",
+      "text": "A rainbow shows the way just",
+      "translation": "彩虹出现的方式"
+    },
+    {
+      "time": 96.0,
+      "time_str": "01:36.000",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 97.91,
+      "time_str": "01:37.910",
+      "text": "The magic melody goes",
+      "translation": "魔术旋律去"
+    },
+    {
+      "time": 99.7,
+      "time_str": "01:39.700",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 101.47,
+      "time_str": "01:41.470",
+      "text": "Come on and sing with me just",
+      "translation": "来和我一起歌唱而已"
+    },
+    {
+      "time": 103.0,
+      "time_str": "01:43.000",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 105.05,
+      "time_str": "01:45.050",
+      "text": "Oh music is the key just",
+      "translation": "这是开启音乐的关键钥匙"
+    },
+    {
+      "time": 106.6,
+      "time_str": "01:46.600",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 108.96,
+      "time_str": "01:48.960",
+      "text": "So it will set you free",
+      "translation": "他将释放你"
+    },
+    {
+      "time": 110.67,
+      "time_str": "01:50.670",
+      "text": "La la la la la...",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 146.8,
+      "time_str": "02:26.800",
+      "text": "The magic melody goes on and on and on and on...",
+      "translation": "魔术旋律一直一直走下去…"
+    },
+    {
+      "time": 155.68,
+      "time_str": "02:35.680",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 158.46,
+      "time_str": "02:38.460",
+      "text": "The magic melody goes",
+      "translation": "魔术旋律一直下去"
+    },
+    {
+      "time": 160.33,
+      "time_str": "02:40.330",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 162.49,
+      "time_str": "02:42.490",
+      "text": "Come on and sing with me just",
+      "translation": "来和我一起歌唱而已"
+    },
+    {
+      "time": 163.97,
+      "time_str": "02:43.970",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 166.36,
+      "time_str": "02:46.360",
+      "text": "Oh music is the key just",
+      "translation": "这是开启音乐的关键钥匙"
+    },
+    {
+      "time": 167.93,
+      "time_str": "02:47.930",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    },
+    {
+      "time": 170.16,
+      "time_str": "02:50.160",
+      "text": "So it will set you free",
+      "translation": "所以它将给你自由"
+    },
+    {
+      "time": 174.73,
+      "time_str": "02:54.730",
+      "text": "La la la la la",
+      "translation": "啦啦啦啦啦"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Magic  Melody - beFour.lrc"
+}

@@ -1,0 +1,388 @@
+{
+  "title": "Time Machine",
+  "title_raw": "Time Machine",
+  "version": null,
+  "artist": "Ingrid Michaelson",
+  "group_key": "time machine|ingrid michaelson",
+  "writers": {
+    "lyricist": "Trent Dabbs/Ingrid Michaelson/Michael Busbee",
+    "composer": "Trent Dabbs/Ingrid Michaelson/Michael Busbee",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.84,
+      "time_str": "00:10.840",
+      "text": "You lit the fire",
+      "translation": "你燃起了火焰"
+    },
+    {
+      "time": 13.02,
+      "time_str": "00:13.020",
+      "text": "Then drank the water",
+      "translation": "却把水喝光"
+    },
+    {
+      "time": 15.57,
+      "time_str": "00:15.570",
+      "text": "You slammed that door",
+      "translation": "你破门而去"
+    },
+    {
+      "time": 17.86,
+      "time_str": "00:17.860",
+      "text": "And left me standing all alone",
+      "translation": "剩我形单影只"
+    },
+    {
+      "time": 20.58,
+      "time_str": "00:20.580",
+      "text": "We wrote the story",
+      "translation": "我们共同写就了这故事"
+    },
+    {
+      "time": 23.13,
+      "time_str": "00:23.130",
+      "text": "We turned the pages",
+      "translation": "我们经历无数沧桑变化"
+    },
+    {
+      "time": 25.73,
+      "time_str": "00:25.730",
+      "text": "You changed the end",
+      "translation": "你却改变了结局"
+    },
+    {
+      "time": 27.75,
+      "time_str": "00:27.750",
+      "text": "Like everybody said you would",
+      "translation": "这结局，旁人竟料定"
+    },
+    {
+      "time": 30.69,
+      "time_str": "00:30.690",
+      "text": "I should've seen it coming",
+      "translation": "我想我早该醒悟"
+    },
+    {
+      "time": 33.21,
+      "time_str": "00:33.210",
+      "text": "It should've sent me running",
+      "translation": "我应该潇洒而去"
+    },
+    {
+      "time": 35.78,
+      "time_str": "00:35.780",
+      "text": "That's what I get for loving you",
+      "translation": "这或许也是我爱你的一种方式"
+    },
+    {
+      "time": 40.66,
+      "time_str": "00:40.660",
+      "text": "If I had a time machine",
+      "translation": "如果我有时光机器"
+    },
+    {
+      "time": 42.87,
+      "time_str": "00:42.870",
+      "text": "And if life was a movie scene",
+      "translation": "如果生活只是一出电影幕剧"
+    },
+    {
+      "time": 45.29,
+      "time_str": "00:45.290",
+      "text": "I'd rewind and I'd tell me",
+      "translation": "我会穿越时空，回溯时光，告诉自己"
+    },
+    {
+      "time": 48.08,
+      "time_str": "00:48.080",
+      "text": "Run",
+      "translation": "逃离这无疾而终的爱情"
+    },
+    {
+      "time": 50.64,
+      "time_str": "00:50.640",
+      "text": "We were never meant to be",
+      "translation": "我们永远不可能在一起"
+    },
+    {
+      "time": 52.91,
+      "time_str": "00:52.910",
+      "text": "So if I had a time machine",
+      "translation": "如果我有时光机器"
+    },
+    {
+      "time": 55.37,
+      "time_str": "00:55.370",
+      "text": "I'd go back and I'd tell me",
+      "translation": "我会回到过去，告诉自己"
+    },
+    {
+      "time": 58.2,
+      "time_str": "00:58.200",
+      "text": "Run",
+      "translation": "逃吧"
+    },
+    {
+      "time": 60.8,
+      "time_str": "01:00.800",
+      "text": "Run",
+      "translation": "逃离这无疾而终的爱情结局"
+    },
+    {
+      "time": 65.79,
+      "time_str": "01:05.790",
+      "text": "I got your letters",
+      "translation": "我收到过你的情书"
+    },
+    {
+      "time": 68.69,
+      "time_str": "01:08.690",
+      "text": "I got your words",
+      "translation": "听过你对我说的甜言蜜语"
+    },
+    {
+      "time": 71.19,
+      "time_str": "01:11.190",
+      "text": "I stacked them high",
+      "translation": "现在，我把他们堆得高高的"
+    },
+    {
+      "time": 73.34,
+      "time_str": "01:13.340",
+      "text": "And lit them all and let them burn",
+      "translation": "一把火之后，只余灰烬"
+    },
+    {
+      "time": 76.21,
+      "time_str": "01:16.210",
+      "text": "Your broken stories",
+      "translation": "你撕碎这美满故事"
+    },
+    {
+      "time": 78.63,
+      "time_str": "01:18.630",
+      "text": "Don't mean a thing",
+      "translation": "但这并不意味着"
+    },
+    {
+      "time": 81.3,
+      "time_str": "01:21.300",
+      "text": "You made that bed",
+      "translation": "它会永不见天日"
+    },
+    {
+      "time": 83.35,
+      "time_str": "01:23.350",
+      "text": "Good luck falling back asleep",
+      "translation": "只当大梦一场，醒来就雨过天晴"
+    },
+    {
+      "time": 86.36,
+      "time_str": "01:26.360",
+      "text": "I should've seen it coming",
+      "translation": "我想我早该醒悟"
+    },
+    {
+      "time": 88.8,
+      "time_str": "01:28.800",
+      "text": "It should've sent me running",
+      "translation": "我应该潇洒而去"
+    },
+    {
+      "time": 91.33,
+      "time_str": "01:31.330",
+      "text": "That's what I get for loving you",
+      "translation": "这或许也是我爱你的一种方式"
+    },
+    {
+      "time": 96.19,
+      "time_str": "01:36.190",
+      "text": "If I had a time machine",
+      "translation": "如果我有时光机器"
+    },
+    {
+      "time": 98.5,
+      "time_str": "01:38.500",
+      "text": "And if life was a movie scene",
+      "translation": "如果生活只是一出电影幕剧"
+    },
+    {
+      "time": 100.82,
+      "time_str": "01:40.820",
+      "text": "I'd rewind and I'd tell me",
+      "translation": "我会穿越时空，回溯时光，告诉自己"
+    },
+    {
+      "time": 103.64,
+      "time_str": "01:43.640",
+      "text": "Run",
+      "translation": "逃离这无疾而终的爱情"
+    },
+    {
+      "time": 106.2,
+      "time_str": "01:46.200",
+      "text": "We were never meant to be",
+      "translation": "我们永远不可能在一起"
+    },
+    {
+      "time": 108.45,
+      "time_str": "01:48.450",
+      "text": "So if I had a time machine",
+      "translation": "如果我有时光机器"
+    },
+    {
+      "time": 110.98,
+      "time_str": "01:50.980",
+      "text": "I'd go back and I'd tell me",
+      "translation": "我会回到过去，告诉自己"
+    },
+    {
+      "time": 113.77,
+      "time_str": "01:53.770",
+      "text": "Run",
+      "translation": "逃吧"
+    },
+    {
+      "time": 116.29,
+      "time_str": "01:56.290",
+      "text": "Run",
+      "translation": "逃离这无疾而终的爱情结局"
+    },
+    {
+      "time": 121.11,
+      "time_str": "02:01.110",
+      "text": "Oh, your love, it got me higher",
+      "translation": "你的爱让我以为自己登上神坛"
+    },
+    {
+      "time": 126.01,
+      "time_str": "02:06.010",
+      "text": "Then it drove me up the wall",
+      "translation": "你的爱使我跨越过千山万岭"
+    },
+    {
+      "time": 130.24,
+      "time_str": "02:10.240",
+      "text": "But the higher up you go",
+      "translation": "但站得越高"
+    },
+    {
+      "time": 133.51,
+      "time_str": "02:13.510",
+      "text": "The further you will fall",
+      "translation": "摔得越狠"
+    },
+    {
+      "time": 143.25,
+      "time_str": "02:23.250",
+      "text": "Ohhh, ohhh, ohhh, run...",
+      "translation": "快逃吧"
+    },
+    {
+      "time": 161.98,
+      "time_str": "02:41.980",
+      "text": "If I had a time machine",
+      "translation": "如果我有时光机器"
+    },
+    {
+      "time": 163.99,
+      "time_str": "02:43.990",
+      "text": "And if life was a movie scene",
+      "translation": "如果生活只是一出电影幕剧"
+    },
+    {
+      "time": 166.49,
+      "time_str": "02:46.490",
+      "text": "I'd rewind and I'd tell me",
+      "translation": "我会穿越时空，回溯时光，告诉自己"
+    },
+    {
+      "time": 169.4,
+      "time_str": "02:49.400",
+      "text": "Run",
+      "translation": "逃离这无疾而终的爱情"
+    },
+    {
+      "time": 171.77,
+      "time_str": "02:51.770",
+      "text": "We were never meant to be",
+      "translation": "我们永远不可能在一起"
+    },
+    {
+      "time": 174.13,
+      "time_str": "02:54.130",
+      "text": "So if I had a time machine",
+      "translation": "如果我有时光机器"
+    },
+    {
+      "time": 176.6,
+      "time_str": "02:56.600",
+      "text": "I'd go back and I'd tell me",
+      "translation": "我会回到过去，告诉自己"
+    },
+    {
+      "time": 179.45,
+      "time_str": "02:59.450",
+      "text": "Run",
+      "translation": "快逃"
+    },
+    {
+      "time": 182.09,
+      "time_str": "03:02.090",
+      "text": "If I had a time machine",
+      "translation": "如果我有时光机器"
+    },
+    {
+      "time": 184.16,
+      "time_str": "03:04.160",
+      "text": "And if life was a movie scene",
+      "translation": "如果生活只是一出电影幕剧"
+    },
+    {
+      "time": 186.62,
+      "time_str": "03:06.620",
+      "text": "I'd rewind and I'd tell me",
+      "translation": "我会穿越时空，回溯时光，告诉自己"
+    },
+    {
+      "time": 189.53,
+      "time_str": "03:09.530",
+      "text": "Run",
+      "translation": "逃离这无疾而终的爱情"
+    },
+    {
+      "time": 192.32,
+      "time_str": "03:12.320",
+      "text": "We were never meant to be",
+      "translation": "我们永远不可能在一起"
+    },
+    {
+      "time": 194.28,
+      "time_str": "03:14.280",
+      "text": "So if I had a time machine",
+      "translation": "如果我有时光机器"
+    },
+    {
+      "time": 196.79,
+      "time_str": "03:16.790",
+      "text": "I'd go back and I'd tell me",
+      "translation": "我会回到过去，告诉自己"
+    },
+    {
+      "time": 199.67,
+      "time_str": "03:19.670",
+      "text": "Run",
+      "translation": "逃吧"
+    },
+    {
+      "time": 202.14,
+      "time_str": "03:22.140",
+      "text": "Run",
+      "translation": "逃离这无疾而终的爱情结局"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Time Machine - Ingrid Michaelson.lrc"
+}

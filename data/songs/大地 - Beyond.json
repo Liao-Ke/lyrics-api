@@ -1,0 +1,256 @@
+{
+  "title": "大地",
+  "title_raw": "大地",
+  "version": null,
+  "artist": "Beyond",
+  "group_key": "大地|beyond",
+  "writers": {
+    "lyricist": "刘卓辉",
+    "composer": "黄家驹",
+    "arranger": "Beyond/Peter Lam"
+  },
+  "lyrics": [
+    {
+      "time": 27.14,
+      "time_str": "00:27.140",
+      "text": "在那些苍翠的路上",
+      "translation": null
+    },
+    {
+      "time": 30.63,
+      "time_str": "00:30.630",
+      "text": "历遍了多少创伤",
+      "translation": null
+    },
+    {
+      "time": 33.87,
+      "time_str": "00:33.870",
+      "text": "在那张苍老的面上",
+      "translation": null
+    },
+    {
+      "time": 37.41,
+      "time_str": "00:37.410",
+      "text": "亦记载了风霜",
+      "translation": null
+    },
+    {
+      "time": 41.43,
+      "time_str": "00:41.430",
+      "text": "秋风秋雨的度日",
+      "translation": null
+    },
+    {
+      "time": 44.06,
+      "time_str": "00:44.060",
+      "text": "是青春少年时",
+      "translation": null
+    },
+    {
+      "time": 48.13,
+      "time_str": "00:48.130",
+      "text": "迫不得已的话别",
+      "translation": null
+    },
+    {
+      "time": 50.85,
+      "time_str": "00:50.850",
+      "text": "没说再见",
+      "translation": null
+    },
+    {
+      "time": 53.53,
+      "time_str": "00:53.530",
+      "text": "回望昨日在异乡那门前",
+      "translation": null
+    },
+    {
+      "time": 57.77,
+      "time_str": "00:57.770",
+      "text": "唏嘘的感慨一年年",
+      "translation": null
+    },
+    {
+      "time": 61.13,
+      "time_str": "01:01.130",
+      "text": "但日落日出永没变迁",
+      "translation": null
+    },
+    {
+      "time": 66.96,
+      "time_str": "01:06.960",
+      "text": "这刻在望着父亲笑容时",
+      "translation": null
+    },
+    {
+      "time": 71.17,
+      "time_str": "01:11.170",
+      "text": "竟不知不觉的无言",
+      "translation": null
+    },
+    {
+      "time": 74.54,
+      "time_str": "01:14.540",
+      "text": "让日落暮色渗满泪眼",
+      "translation": null
+    },
+    {
+      "time": 94.31,
+      "time_str": "01:34.310",
+      "text": "在那些开放的路上",
+      "translation": null
+    },
+    {
+      "time": 97.82,
+      "time_str": "01:37.820",
+      "text": "踏碎过多少理想",
+      "translation": null
+    },
+    {
+      "time": 100.92,
+      "time_str": "01:40.920",
+      "text": "在那张高挂的面上",
+      "translation": null
+    },
+    {
+      "time": 104.57,
+      "time_str": "01:44.570",
+      "text": "被引证了几多",
+      "translation": null
+    },
+    {
+      "time": 108.57,
+      "time_str": "01:48.570",
+      "text": "千秋不变的日月",
+      "translation": null
+    },
+    {
+      "time": 111.3,
+      "time_str": "01:51.300",
+      "text": "在相识里共存",
+      "translation": null
+    },
+    {
+      "time": 115.3,
+      "time_str": "01:55.300",
+      "text": "姑息分割的大地",
+      "translation": null
+    },
+    {
+      "time": 118.06,
+      "time_str": "01:58.060",
+      "text": "划了界线",
+      "translation": null
+    },
+    {
+      "time": 120.83,
+      "time_str": "02:00.830",
+      "text": "回望昨日在异乡那门前",
+      "translation": null
+    },
+    {
+      "time": 124.88,
+      "time_str": "02:04.880",
+      "text": "唏嘘的感慨一年年",
+      "translation": null
+    },
+    {
+      "time": 128.25,
+      "time_str": "02:08.250",
+      "text": "但日落日出永没变迁",
+      "translation": null
+    },
+    {
+      "time": 134.14,
+      "time_str": "02:14.140",
+      "text": "这刻在望着父亲笑容时",
+      "translation": null
+    },
+    {
+      "time": 138.33,
+      "time_str": "02:18.330",
+      "text": "竟不知不觉的无言",
+      "translation": null
+    },
+    {
+      "time": 141.67,
+      "time_str": "02:21.670",
+      "text": "让日落暮色渗满泪眼",
+      "translation": null
+    },
+    {
+      "time": 162.66,
+      "time_str": "02:42.660",
+      "text": "回望昨日在异乡那门前",
+      "translation": null
+    },
+    {
+      "time": 166.85,
+      "time_str": "02:46.850",
+      "text": "唏嘘的感慨一年年",
+      "translation": null
+    },
+    {
+      "time": 170.18,
+      "time_str": "02:50.180",
+      "text": "但日落日出永没变迁",
+      "translation": null
+    },
+    {
+      "time": 176.06,
+      "time_str": "02:56.060",
+      "text": "这刻在望着父亲笑容时",
+      "translation": null
+    },
+    {
+      "time": 180.26,
+      "time_str": "03:00.260",
+      "text": "竟不知不觉的无言",
+      "translation": null
+    },
+    {
+      "time": 183.6,
+      "time_str": "03:03.600",
+      "text": "让日落暮色渗满泪眼",
+      "translation": null
+    },
+    {
+      "time": 189.53,
+      "time_str": "03:09.530",
+      "text": "回望昨日在异乡那门前",
+      "translation": null
+    },
+    {
+      "time": 193.72,
+      "time_str": "03:13.720",
+      "text": "唏嘘的感慨一年年",
+      "translation": null
+    },
+    {
+      "time": 197.01,
+      "time_str": "03:17.010",
+      "text": "但日落日出永没变迁",
+      "translation": null
+    },
+    {
+      "time": 202.96,
+      "time_str": "03:22.960",
+      "text": "这刻在望着父亲笑容时",
+      "translation": null
+    },
+    {
+      "time": 207.17,
+      "time_str": "03:27.170",
+      "text": "竟不知不觉的无言",
+      "translation": null
+    },
+    {
+      "time": 210.5,
+      "time_str": "03:30.500",
+      "text": "让日落暮色渗满泪眼",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "大地 - Beyond.lrc"
+}

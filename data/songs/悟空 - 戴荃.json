@@ -1,0 +1,262 @@
+{
+  "title": "悟空",
+  "title_raw": "悟空",
+  "version": null,
+  "artist": "戴荃",
+  "group_key": "悟空|戴荃",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 23.27,
+      "time_str": "00:23.270",
+      "text": "月溅星河",
+      "translation": null
+    },
+    {
+      "time": 25.35,
+      "time_str": "00:25.350",
+      "text": "长路漫漫",
+      "translation": null
+    },
+    {
+      "time": 30.0,
+      "time_str": "00:30.000",
+      "text": "风烟残尽",
+      "translation": null
+    },
+    {
+      "time": 32.7,
+      "time_str": "00:32.700",
+      "text": "独影阑珊",
+      "translation": null
+    },
+    {
+      "time": 36.83,
+      "time_str": "00:36.830",
+      "text": "谁叫我身手不凡",
+      "translation": null
+    },
+    {
+      "time": 40.23,
+      "time_str": "00:40.230",
+      "text": "谁让我爱恨两难",
+      "translation": null
+    },
+    {
+      "time": 43.22,
+      "time_str": "00:43.220",
+      "text": "到后来",
+      "translation": null
+    },
+    {
+      "time": 46.6,
+      "time_str": "00:46.600",
+      "text": "肝肠寸断",
+      "translation": null
+    },
+    {
+      "time": 50.97,
+      "time_str": "00:50.970",
+      "text": "幻世当空",
+      "translation": null
+    },
+    {
+      "time": 53.22,
+      "time_str": "00:53.220",
+      "text": "恩怨休怀",
+      "translation": null
+    },
+    {
+      "time": 57.78,
+      "time_str": "00:57.780",
+      "text": "舍悟离迷",
+      "translation": null
+    },
+    {
+      "time": 60.29,
+      "time_str": "01:00.290",
+      "text": "六尘不改",
+      "translation": null
+    },
+    {
+      "time": 64.73,
+      "time_str": "01:04.730",
+      "text": "且怒且悲且狂哉",
+      "translation": null
+    },
+    {
+      "time": 68.15,
+      "time_str": "01:08.150",
+      "text": "是人是鬼是妖怪",
+      "translation": null
+    },
+    {
+      "time": 71.02,
+      "time_str": "01:11.020",
+      "text": "不过是",
+      "translation": null
+    },
+    {
+      "time": 74.35,
+      "time_str": "01:14.350",
+      "text": "心有魔债",
+      "translation": null
+    },
+    {
+      "time": 77.97,
+      "time_str": "01:17.970",
+      "text": "叫一声佛祖",
+      "translation": null
+    },
+    {
+      "time": 80.96,
+      "time_str": "01:20.960",
+      "text": "回头无岸",
+      "translation": null
+    },
+    {
+      "time": 85.11,
+      "time_str": "01:25.110",
+      "text": "跪一人为师",
+      "translation": null
+    },
+    {
+      "time": 87.92,
+      "time_str": "01:27.920",
+      "text": "生死无关",
+      "translation": null
+    },
+    {
+      "time": 92.61,
+      "time_str": "01:32.610",
+      "text": "善恶浮世真假界",
+      "translation": null
+    },
+    {
+      "time": 96.05,
+      "time_str": "01:36.050",
+      "text": "尘缘散聚不分明",
+      "translation": null
+    },
+    {
+      "time": 99.11,
+      "time_str": "01:39.110",
+      "text": "难断",
+      "translation": null
+    },
+    {
+      "time": 102.66,
+      "time_str": "01:42.660",
+      "text": "我要",
+      "translation": null
+    },
+    {
+      "time": 104.48,
+      "time_str": "01:44.480",
+      "text": "这铁棒有何用",
+      "translation": null
+    },
+    {
+      "time": 109.71,
+      "time_str": "01:49.710",
+      "text": "我有",
+      "translation": null
+    },
+    {
+      "time": 111.44,
+      "time_str": "01:51.440",
+      "text": "这变化又如何",
+      "translation": null
+    },
+    {
+      "time": 116.03,
+      "time_str": "01:56.030",
+      "text": "还是不安",
+      "translation": null
+    },
+    {
+      "time": 119.38,
+      "time_str": "01:59.380",
+      "text": "还是氐惆",
+      "translation": null
+    },
+    {
+      "time": 123.44,
+      "time_str": "02:03.440",
+      "text": "金箍当头",
+      "translation": null
+    },
+    {
+      "time": 125.63,
+      "time_str": "02:05.630",
+      "text": "欲说还休",
+      "translation": null
+    },
+    {
+      "time": 146.39,
+      "time_str": "02:26.390",
+      "text": "我要",
+      "translation": null
+    },
+    {
+      "time": 148.07,
+      "time_str": "02:28.070",
+      "text": "这铁棒醉舞魔",
+      "translation": null
+    },
+    {
+      "time": 153.21,
+      "time_str": "02:33.210",
+      "text": "我有",
+      "translation": null
+    },
+    {
+      "time": 154.89,
+      "time_str": "02:34.890",
+      "text": "这变化乱迷浊",
+      "translation": null
+    },
+    {
+      "time": 159.46,
+      "time_str": "02:39.460",
+      "text": "踏碎灵霄",
+      "translation": null
+    },
+    {
+      "time": 162.59,
+      "time_str": "02:42.590",
+      "text": "放肆桀骜",
+      "translation": null
+    },
+    {
+      "time": 166.93,
+      "time_str": "02:46.930",
+      "text": "世恶道险",
+      "translation": null
+    },
+    {
+      "time": 169.04,
+      "time_str": "02:49.040",
+      "text": "终究难逃",
+      "translation": null
+    },
+    {
+      "time": 174.92,
+      "time_str": "02:54.920",
+      "text": "这一棒",
+      "translation": null
+    },
+    {
+      "time": 179.27,
+      "time_str": "02:59.270",
+      "text": "叫你灰飞烟灭",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "悟空 - 戴荃.lrc"
+}

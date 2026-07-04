@@ -1,0 +1,382 @@
+{
+  "title": "紧跟于你",
+  "title_raw": "紧跟于你",
+  "version": null,
+  "artist": "卷毛TuT",
+  "group_key": "紧跟于你|卷毛tut",
+  "writers": {
+    "lyricist": "赵楠、花生糖不甜",
+    "composer": "孙长磊_Sun",
+    "arranger": "Martin"
+  },
+  "lyrics": [
+    {
+      "time": 1.82,
+      "time_str": "00:01.820",
+      "text": "《紧跟于你》",
+      "translation": null
+    },
+    {
+      "time": 2.15,
+      "time_str": "00:02.150",
+      "text": "星一问水 & 云泽",
+      "translation": null
+    },
+    {
+      "time": 5.45,
+      "time_str": "00:05.450",
+      "text": "后期：Jove",
+      "translation": null
+    },
+    {
+      "time": 12.4,
+      "time_str": "00:12.400",
+      "text": "(星)窗外纸飞机在余晖中划过",
+      "translation": null
+    },
+    {
+      "time": 15.52,
+      "time_str": "00:15.520",
+      "text": "所有的回忆被你侧脸俘获",
+      "translation": null
+    },
+    {
+      "time": 18.55,
+      "time_str": "00:18.550",
+      "text": "连晚霞都失去它的颜色",
+      "translation": null
+    },
+    {
+      "time": 21.5,
+      "time_str": "00:21.500",
+      "text": "静悄悄地等待你的发落",
+      "translation": null
+    },
+    {
+      "time": 24.57,
+      "time_str": "00:24.570",
+      "text": "(云)星总是坠落夜空从不寂寞",
+      "translation": null
+    },
+    {
+      "time": 27.33,
+      "time_str": "00:27.330",
+      "text": "想写首情歌陪你看场烟火",
+      "translation": null
+    },
+    {
+      "time": 30.39,
+      "time_str": "00:30.390",
+      "text": "用双手去临摹你的轮廓",
+      "translation": null
+    },
+    {
+      "time": 33.52,
+      "time_str": "00:33.520",
+      "text": "以后每天我都会陪你过",
+      "translation": null
+    },
+    {
+      "time": 36.82,
+      "time_str": "00:36.820",
+      "text": "就这样去遨游到世界尽头",
+      "translation": null
+    },
+    {
+      "time": 42.74,
+      "time_str": "00:42.740",
+      "text": "一直都跟在你身后",
+      "translation": null
+    },
+    {
+      "time": 47.39,
+      "time_str": "00:47.390",
+      "text": "(云)我才不管倾盆大雨",
+      "translation": null
+    },
+    {
+      "time": 48.75,
+      "time_str": "00:48.750",
+      "text": "还是夜色突然侵袭",
+      "translation": null
+    },
+    {
+      "time": 50.66,
+      "time_str": "00:50.660",
+      "text": "(星)我都会毫不犹豫",
+      "translation": null
+    },
+    {
+      "time": 52.07,
+      "time_str": "00:52.070",
+      "text": "挥动羽翼紧跟于你",
+      "translation": null
+    },
+    {
+      "time": 53.54,
+      "time_str": "00:53.540",
+      "text": "(云)这繁星再闪烁",
+      "translation": null
+    },
+    {
+      "time": 54.91,
+      "time_str": "00:54.910",
+      "text": "都只为衬托你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 59.22,
+      "time_str": "00:59.220",
+      "text": "(星)我才不管倾盆大雨",
+      "translation": null
+    },
+    {
+      "time": 60.69,
+      "time_str": "01:00.690",
+      "text": "还是夜色突然侵袭",
+      "translation": null
+    },
+    {
+      "time": 62.48,
+      "time_str": "01:02.480",
+      "text": "(云)我都会奋不顾身",
+      "translation": null
+    },
+    {
+      "time": 63.78,
+      "time_str": "01:03.780",
+      "text": "掠过荆棘紧跟于你",
+      "translation": null
+    },
+    {
+      "time": 65.56,
+      "time_str": "01:05.560",
+      "text": "(星)这月色再温柔",
+      "translation": null
+    },
+    {
+      "time": 66.91,
+      "time_str": "01:06.910",
+      "text": "都没能抹去你的痕迹",
+      "translation": null
+    },
+    {
+      "time": 70.95,
+      "time_str": "01:10.950",
+      "text": "(星云)又怎会忘记",
+      "translation": null
+    },
+    {
+      "time": 84.39,
+      "time_str": "01:24.390",
+      "text": "(星)窗外纸飞机在余晖中划过",
+      "translation": null
+    },
+    {
+      "time": 87.33,
+      "time_str": "01:27.330",
+      "text": "所有的回忆被你侧脸俘获",
+      "translation": null
+    },
+    {
+      "time": 90.22,
+      "time_str": "01:30.220",
+      "text": "连晚霞都失去它的颜色",
+      "translation": null
+    },
+    {
+      "time": 93.3,
+      "time_str": "01:33.300",
+      "text": "静悄悄的等待你的发落",
+      "translation": null
+    },
+    {
+      "time": 96.38,
+      "time_str": "01:36.380",
+      "text": "(云)星总是坠落夜空从不寂寞",
+      "translation": null
+    },
+    {
+      "time": 99.27,
+      "time_str": "01:39.270",
+      "text": "想写首情歌陪你看场烟火",
+      "translation": null
+    },
+    {
+      "time": 102.22,
+      "time_str": "01:42.220",
+      "text": "用双手去临摹你的轮廓",
+      "translation": null
+    },
+    {
+      "time": 105.22,
+      "time_str": "01:45.220",
+      "text": "以后每天我都会陪你过",
+      "translation": null
+    },
+    {
+      "time": 108.61,
+      "time_str": "01:48.610",
+      "text": "就这样去遨游到世界尽头",
+      "translation": null
+    },
+    {
+      "time": 114.45,
+      "time_str": "01:54.450",
+      "text": "一直都跟在你身后",
+      "translation": null
+    },
+    {
+      "time": 119.19,
+      "time_str": "01:59.190",
+      "text": "(云)我才不管倾盆大雨",
+      "translation": null
+    },
+    {
+      "time": 120.55,
+      "time_str": "02:00.550",
+      "text": "还是夜色突然侵袭",
+      "translation": null
+    },
+    {
+      "time": 122.27,
+      "time_str": "02:02.270",
+      "text": "(星)我都会毫不犹豫",
+      "translation": null
+    },
+    {
+      "time": 123.14,
+      "time_str": "02:03.140",
+      "text": "挥动羽翼紧跟于你",
+      "translation": null
+    },
+    {
+      "time": 125.36,
+      "time_str": "02:05.360",
+      "text": "(云)这繁星再闪烁",
+      "translation": null
+    },
+    {
+      "time": 126.71,
+      "time_str": "02:06.710",
+      "text": "都只为衬托你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 130.96,
+      "time_str": "02:10.960",
+      "text": "(星)我才不管倾盆大雨",
+      "translation": null
+    },
+    {
+      "time": 132.5,
+      "time_str": "02:12.500",
+      "text": "还是夜色突然侵袭",
+      "translation": null
+    },
+    {
+      "time": 134.35,
+      "time_str": "02:14.350",
+      "text": "(云)我都会奋不顾身",
+      "translation": null
+    },
+    {
+      "time": 135.53,
+      "time_str": "02:15.530",
+      "text": "掠过荆棘紧跟于你",
+      "translation": null
+    },
+    {
+      "time": 137.37,
+      "time_str": "02:17.370",
+      "text": "(星)这月色再温柔",
+      "translation": null
+    },
+    {
+      "time": 138.66,
+      "time_str": "02:18.660",
+      "text": "都没能抹去你的痕迹",
+      "translation": null
+    },
+    {
+      "time": 143.67,
+      "time_str": "02:23.670",
+      "text": "(星)我才不管倾盆大雨",
+      "translation": null
+    },
+    {
+      "time": 145.03,
+      "time_str": "02:25.030",
+      "text": "还是夜色突然侵袭",
+      "translation": null
+    },
+    {
+      "time": 146.88,
+      "time_str": "02:26.880",
+      "text": "(星云)我都会毫不犹豫",
+      "translation": null
+    },
+    {
+      "time": 148.04,
+      "time_str": "02:28.040",
+      "text": "挥动羽翼紧跟于你",
+      "translation": null
+    },
+    {
+      "time": 149.94,
+      "time_str": "02:29.940",
+      "text": "(云)这繁星再闪烁",
+      "translation": null
+    },
+    {
+      "time": 151.23,
+      "time_str": "02:31.230",
+      "text": "都只为衬托你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 155.59,
+      "time_str": "02:35.590",
+      "text": "(云)我才不管倾盆大雨",
+      "translation": null
+    },
+    {
+      "time": 157.13,
+      "time_str": "02:37.130",
+      "text": "还是夜色突然侵袭",
+      "translation": null
+    },
+    {
+      "time": 158.84,
+      "time_str": "02:38.840",
+      "text": "(云星)我都会奋不顾身",
+      "translation": null
+    },
+    {
+      "time": 160.08,
+      "time_str": "02:40.080",
+      "text": "掠过荆棘紧跟于你",
+      "translation": null
+    },
+    {
+      "time": 161.86,
+      "time_str": "02:41.860",
+      "text": "(星)这月色再温柔",
+      "translation": null
+    },
+    {
+      "time": 163.26,
+      "time_str": "02:43.260",
+      "text": "都没能抹去你的痕迹",
+      "translation": null
+    },
+    {
+      "time": 167.32,
+      "time_str": "02:47.320",
+      "text": "(星云)又怎会忘记",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "紧跟于你 - 卷毛TuT.lrc"
+}

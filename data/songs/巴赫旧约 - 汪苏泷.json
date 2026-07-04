@@ -1,0 +1,454 @@
+{
+  "title": "巴赫旧约",
+  "title_raw": "巴赫旧约",
+  "version": null,
+  "artist": "汪苏泷",
+  "group_key": "巴赫旧约|汪苏泷",
+  "writers": {
+    "lyricist": "汪苏泷",
+    "composer": "汪苏泷/金若晨",
+    "arranger": "汪苏泷/金若晨"
+  },
+  "lyrics": [
+    {
+      "time": 1.16,
+      "time_str": "00:01.160",
+      "text": "Hast Du Bach gehört?",
+      "translation": null
+    },
+    {
+      "time": 3.58,
+      "time_str": "00:03.580",
+      "text": "Kannst Du Bach spielen?",
+      "translation": null
+    },
+    {
+      "time": 5.87,
+      "time_str": "00:05.870",
+      "text": "Ich singe jetzt diesen Song für dich",
+      "translation": null
+    },
+    {
+      "time": 9.07,
+      "time_str": "00:09.070",
+      "text": "Hast du verstehen?",
+      "translation": null
+    },
+    {
+      "time": 11.47,
+      "time_str": "00:11.470",
+      "text": "Liebe,ich liebe dich",
+      "translation": null
+    },
+    {
+      "time": 16.07,
+      "time_str": "00:16.070",
+      "text": "八五三月二十一",
+      "translation": null
+    },
+    {
+      "time": 17.37,
+      "time_str": "00:17.370",
+      "text": "爱森纳赫小镇里",
+      "translation": null
+    },
+    {
+      "time": 18.82,
+      "time_str": "00:18.820",
+      "text": "赫瑟尔河畔边流淌的旋律",
+      "translation": null
+    },
+    {
+      "time": 21.42,
+      "time_str": "00:21.420",
+      "text": "在圣托马斯的教堂里",
+      "translation": null
+    },
+    {
+      "time": 23.17,
+      "time_str": "00:23.170",
+      "text": "没人会去在意",
+      "translation": null
+    },
+    {
+      "time": 24.57,
+      "time_str": "00:24.570",
+      "text": "那管风琴的声音",
+      "translation": null
+    },
+    {
+      "time": 27.27,
+      "time_str": "00:27.270",
+      "text": "勃兰登堡协奏曲",
+      "translation": null
+    },
+    {
+      "time": 28.57,
+      "time_str": "00:28.570",
+      "text": "克膝宫的大键琴",
+      "translation": null
+    },
+    {
+      "time": 29.87,
+      "time_str": "00:29.870",
+      "text": "巴赫为了生计写着平均律",
+      "translation": null
+    },
+    {
+      "time": 32.72,
+      "time_str": "00:32.720",
+      "text": "魏玛宫廷的月光是咏叹的前奏曲",
+      "translation": null
+    },
+    {
+      "time": 38.77,
+      "time_str": "00:38.770",
+      "text": "你拉着提琴",
+      "translation": null
+    },
+    {
+      "time": 40.17,
+      "time_str": "00:40.170",
+      "text": "优雅美丽",
+      "translation": null
+    },
+    {
+      "time": 41.62,
+      "time_str": "00:41.620",
+      "text": "眼神却逃避",
+      "translation": null
+    },
+    {
+      "time": 44.42,
+      "time_str": "00:44.420",
+      "text": "我会像巴赫记录我们约定的爱情",
+      "translation": null
+    },
+    {
+      "time": 49.87,
+      "time_str": "00:49.870",
+      "text": "古典钢琴弹不出的回忆",
+      "translation": null
+    },
+    {
+      "time": 52.67,
+      "time_str": "00:52.670",
+      "text": "像巴赫音乐隐没人海里",
+      "translation": null
+    },
+    {
+      "time": 55.48,
+      "time_str": "00:55.480",
+      "text": "我为你创作了几百世纪",
+      "translation": null
+    },
+    {
+      "time": 58.23,
+      "time_str": "00:58.230",
+      "text": "也是注定没结局",
+      "translation": null
+    },
+    {
+      "time": 61.18,
+      "time_str": "01:01.180",
+      "text": "用笔在乐谱雕刻着唯一",
+      "translation": null
+    },
+    {
+      "time": 63.93,
+      "time_str": "01:03.930",
+      "text": "叹息你永远不懂我的心",
+      "translation": null
+    },
+    {
+      "time": 66.78,
+      "time_str": "01:06.780",
+      "text": "我的旧约圣经",
+      "translation": null
+    },
+    {
+      "time": 68.48,
+      "time_str": "01:08.480",
+      "text": "也没挽回你",
+      "translation": null
+    },
+    {
+      "time": 97.9,
+      "time_str": "01:37.900",
+      "text": "八五三月二十一",
+      "translation": null
+    },
+    {
+      "time": 99.25,
+      "time_str": "01:39.250",
+      "text": "爱森纳赫小镇里",
+      "translation": null
+    },
+    {
+      "time": 100.7,
+      "time_str": "01:40.700",
+      "text": "赫瑟尔河畔边流淌的旋律",
+      "translation": null
+    },
+    {
+      "time": 103.35,
+      "time_str": "01:43.350",
+      "text": "在圣托马斯的教堂里",
+      "translation": null
+    },
+    {
+      "time": 105.05,
+      "time_str": "01:45.050",
+      "text": "没人会去在意",
+      "translation": null
+    },
+    {
+      "time": 106.4,
+      "time_str": "01:46.400",
+      "text": "那管风琴的声音",
+      "translation": null
+    },
+    {
+      "time": 109.15,
+      "time_str": "01:49.150",
+      "text": "勃兰登堡协奏曲",
+      "translation": null
+    },
+    {
+      "time": 110.46,
+      "time_str": "01:50.460",
+      "text": "克膝宫的大键琴",
+      "translation": null
+    },
+    {
+      "time": 111.86,
+      "time_str": "01:51.860",
+      "text": "巴赫为了生计写着平均律",
+      "translation": null
+    },
+    {
+      "time": 114.56,
+      "time_str": "01:54.560",
+      "text": "魏玛宫廷的月光是咏叹的前奏曲",
+      "translation": null
+    },
+    {
+      "time": 120.66,
+      "time_str": "02:00.660",
+      "text": "你拉着提琴",
+      "translation": null
+    },
+    {
+      "time": 122.11,
+      "time_str": "02:02.110",
+      "text": "优雅美丽",
+      "translation": null
+    },
+    {
+      "time": 123.41,
+      "time_str": "02:03.410",
+      "text": "眼神却逃避",
+      "translation": null
+    },
+    {
+      "time": 126.41,
+      "time_str": "02:06.410",
+      "text": "我会像巴赫记录我们约定的爱情",
+      "translation": null
+    },
+    {
+      "time": 131.76,
+      "time_str": "02:11.760",
+      "text": "古典钢琴弹不出的回忆",
+      "translation": null
+    },
+    {
+      "time": 134.46,
+      "time_str": "02:14.460",
+      "text": "像巴赫音乐隐没人海里",
+      "translation": null
+    },
+    {
+      "time": 137.36,
+      "time_str": "02:17.360",
+      "text": "我为你创作了几百世纪",
+      "translation": null
+    },
+    {
+      "time": 140.12,
+      "time_str": "02:20.120",
+      "text": "也是注定没结局",
+      "translation": null
+    },
+    {
+      "time": 143.02,
+      "time_str": "02:23.020",
+      "text": "用笔在乐谱雕刻着唯一",
+      "translation": null
+    },
+    {
+      "time": 145.71,
+      "time_str": "02:25.710",
+      "text": "叹息你永远不懂我的心",
+      "translation": null
+    },
+    {
+      "time": 148.52,
+      "time_str": "02:28.520",
+      "text": "我的旧约圣经",
+      "translation": null
+    },
+    {
+      "time": 150.37,
+      "time_str": "02:30.370",
+      "text": "也没挽回你",
+      "translation": null
+    },
+    {
+      "time": 154.27,
+      "time_str": "02:34.270",
+      "text": "窗外摇曳着紫色的风铃",
+      "translation": null
+    },
+    {
+      "time": 157.02,
+      "time_str": "02:37.020",
+      "text": "像你清脆在耳边的声音",
+      "translation": null
+    },
+    {
+      "time": 159.87,
+      "time_str": "02:39.870",
+      "text": "我说对你的爱已经远去",
+      "translation": null
+    },
+    {
+      "time": 162.62,
+      "time_str": "02:42.620",
+      "text": "你会不会也相信",
+      "translation": null
+    },
+    {
+      "time": 165.67,
+      "time_str": "02:45.670",
+      "text": "去年秋天我为你写的信",
+      "translation": null
+    },
+    {
+      "time": 168.37,
+      "time_str": "02:48.370",
+      "text": "记着我多么想与你相遇",
+      "translation": null
+    },
+    {
+      "time": 171.22,
+      "time_str": "02:51.220",
+      "text": "可惜旧约圣经",
+      "translation": null
+    },
+    {
+      "time": 173.02,
+      "time_str": "02:53.020",
+      "text": "已经没意义",
+      "translation": null
+    },
+    {
+      "time": 176.97,
+      "time_str": "02:56.970",
+      "text": "古典钢琴弹不出的回忆",
+      "translation": null
+    },
+    {
+      "time": 179.62,
+      "time_str": "02:59.620",
+      "text": "像巴赫音乐隐没人海里",
+      "translation": null
+    },
+    {
+      "time": 182.47,
+      "time_str": "03:02.470",
+      "text": "我为你创作了几百世纪",
+      "translation": null
+    },
+    {
+      "time": 185.22,
+      "time_str": "03:05.220",
+      "text": "也是注定没结局",
+      "translation": null
+    },
+    {
+      "time": 188.18,
+      "time_str": "03:08.180",
+      "text": "用笔在乐谱雕刻着唯一",
+      "translation": null
+    },
+    {
+      "time": 190.88,
+      "time_str": "03:10.880",
+      "text": "叹息你永远不懂我的心",
+      "translation": null
+    },
+    {
+      "time": 193.73,
+      "time_str": "03:13.730",
+      "text": "我的旧约圣经",
+      "translation": null
+    },
+    {
+      "time": 195.58,
+      "time_str": "03:15.580",
+      "text": "也没挽回你",
+      "translation": null
+    },
+    {
+      "time": 199.38,
+      "time_str": "03:19.380",
+      "text": "窗外摇曳着紫色的风铃",
+      "translation": null
+    },
+    {
+      "time": 202.18,
+      "time_str": "03:22.180",
+      "text": "像你清脆在耳边的声音",
+      "translation": null
+    },
+    {
+      "time": 205.03,
+      "time_str": "03:25.030",
+      "text": "我说对你的爱已经远去",
+      "translation": null
+    },
+    {
+      "time": 207.83,
+      "time_str": "03:27.830",
+      "text": "你会不会也相信",
+      "translation": null
+    },
+    {
+      "time": 210.78,
+      "time_str": "03:30.780",
+      "text": "去年秋天我为你写的信",
+      "translation": null
+    },
+    {
+      "time": 213.42,
+      "time_str": "03:33.420",
+      "text": "记着我多么想与你相遇",
+      "translation": null
+    },
+    {
+      "time": 216.37,
+      "time_str": "03:36.370",
+      "text": "可惜旧约圣经",
+      "translation": null
+    },
+    {
+      "time": 218.13,
+      "time_str": "03:38.130",
+      "text": "已经没意义",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "巴赫旧约 - 汪苏泷.lrc"
+}

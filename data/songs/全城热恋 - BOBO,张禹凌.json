@@ -1,0 +1,202 @@
+{
+  "title": "全城热恋",
+  "title_raw": "全城热恋",
+  "version": null,
+  "artist": "BOBO,张禹凌",
+  "group_key": "全城热恋|bobo,张禹凌",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 53.4,
+      "time_str": "00:53.400",
+      "text": "雨如帷幕般落下 淋湿了那串号码",
+      "translation": null
+    },
+    {
+      "time": 60.9,
+      "time_str": "01:00.900",
+      "text": "若同时揭去的话 为什么不亲口来宣读他",
+      "translation": null
+    },
+    {
+      "time": 68.78,
+      "time_str": "01:08.780",
+      "text": "当感觉渐渐挥发 而感情却没累积升华",
+      "translation": null
+    },
+    {
+      "time": 79.46,
+      "time_str": "01:19.460",
+      "text": "爱如未凋空的花",
+      "translation": null
+    },
+    {
+      "time": 83.28,
+      "time_str": "01:23.280",
+      "text": "一切熟悉的像从前梦中的一幅幅画",
+      "translation": null
+    },
+    {
+      "time": 91.15,
+      "time_str": "01:31.150",
+      "text": "难道从一开始就有不安在萌芽",
+      "translation": null
+    },
+    {
+      "time": 99.3,
+      "time_str": "01:39.300",
+      "text": "原来相恋的人好傻（人好傻)",
+      "translation": null
+    },
+    {
+      "time": 102.97,
+      "time_str": "01:42.970",
+      "text": "反复悲伤却不说话(不说话)",
+      "translation": null
+    },
+    {
+      "time": 106.59,
+      "time_str": "01:46.590",
+      "text": "用笑与泪筑起罗马 在亲眼看他一夜间崩塌",
+      "translation": null
+    },
+    {
+      "time": 114.4,
+      "time_str": "01:54.400",
+      "text": "只好感情有一刹那(一刹那)",
+      "translation": null
+    },
+    {
+      "time": 117.96,
+      "time_str": "01:57.960",
+      "text": "拥有的美好就算如烟花 喔哦~",
+      "translation": null
+    },
+    {
+      "time": 125.21,
+      "time_str": "02:05.210",
+      "text": "那试着放下别在想多少代价啊",
+      "translation": null
+    },
+    {
+      "time": 137.15,
+      "time_str": "02:17.150",
+      "text": "雨如帷幕般落下 淋湿了那串号码",
+      "translation": null
+    },
+    {
+      "time": 144.71,
+      "time_str": "02:24.710",
+      "text": "若同时揭去的话 为什么不亲口来宣读他",
+      "translation": null
+    },
+    {
+      "time": 152.59,
+      "time_str": "02:32.590",
+      "text": "当感觉渐渐挥发 而感情却没累积升华",
+      "translation": null
+    },
+    {
+      "time": 163.329,
+      "time_str": "02:43.329",
+      "text": "爱如未凋空的花",
+      "translation": null
+    },
+    {
+      "time": 167.27,
+      "time_str": "02:47.270",
+      "text": "一切熟悉的像从前梦中的一幅幅画",
+      "translation": null
+    },
+    {
+      "time": 174.96,
+      "time_str": "02:54.960",
+      "text": "难道从一开始就有 不安在萌芽",
+      "translation": null
+    },
+    {
+      "time": 183.96,
+      "time_str": "03:03.960",
+      "text": "原来相恋的人好傻（人好傻)",
+      "translation": null
+    },
+    {
+      "time": 187.46,
+      "time_str": "03:07.460",
+      "text": "反复悲伤却不说话(不说话)",
+      "translation": null
+    },
+    {
+      "time": 191.27,
+      "time_str": "03:11.270",
+      "text": "用笑与泪筑起罗马 在亲眼看他一夜间崩塌",
+      "translation": null
+    },
+    {
+      "time": 199.46,
+      "time_str": "03:19.460",
+      "text": "只好感情有一刹那(一刹那)",
+      "translation": null
+    },
+    {
+      "time": 202.829,
+      "time_str": "03:22.829",
+      "text": "拥有的美好就算如烟花 喔哦",
+      "translation": null
+    },
+    {
+      "time": 209.96,
+      "time_str": "03:29.960",
+      "text": "那试着放下别在想多少代价",
+      "translation": null
+    },
+    {
+      "time": 218.79,
+      "time_str": "03:38.790",
+      "text": "原来相恋的人好傻（人好傻)",
+      "translation": null
+    },
+    {
+      "time": 221.65,
+      "time_str": "03:41.650",
+      "text": "反复悲伤却不说话(不说话)",
+      "translation": null
+    },
+    {
+      "time": 225.27,
+      "time_str": "03:45.270",
+      "text": "用笑与泪筑起罗马 在亲眼看他一夜间崩塌",
+      "translation": null
+    },
+    {
+      "time": 233.21,
+      "time_str": "03:53.210",
+      "text": "只好感情有一刹那(一刹那)",
+      "translation": null
+    },
+    {
+      "time": 237.14,
+      "time_str": "03:57.140",
+      "text": "拥有的美好就算如烟花 喔哦",
+      "translation": null
+    },
+    {
+      "time": 244.14,
+      "time_str": "04:04.140",
+      "text": "那试着放下别在想多少代价",
+      "translation": null
+    },
+    {
+      "time": 251.85,
+      "time_str": "04:11.850",
+      "text": "那试着放下别在想多少代价",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "全城热恋 - BOBO,张禹凌.lrc"
+}

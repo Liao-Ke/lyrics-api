@@ -1,0 +1,412 @@
+{
+  "title": "野孩子",
+  "title_raw": "野孩子",
+  "version": null,
+  "artist": "杨千嬅",
+  "group_key": "野孩子|杨千嬅",
+  "writers": {
+    "lyricist": "黄伟文",
+    "composer": "雷颂德",
+    "arranger": "雷颂德/Ted Lo"
+  },
+  "lyrics": [
+    {
+      "time": 11.7,
+      "time_str": "00:11.700",
+      "text": "就算只谈一场感情",
+      "translation": null
+    },
+    {
+      "time": 15.7,
+      "time_str": "00:15.700",
+      "text": "除外都是一时虚荣",
+      "translation": null
+    },
+    {
+      "time": 19.54,
+      "time_str": "00:19.540",
+      "text": "不等于在蜜月套房游玩过",
+      "translation": null
+    },
+    {
+      "time": 23.77,
+      "time_str": "00:23.770",
+      "text": "就可自入自出仙境",
+      "translation": null
+    },
+    {
+      "time": 27.75,
+      "time_str": "00:27.750",
+      "text": "情愿获得你的尊敬",
+      "translation": null
+    },
+    {
+      "time": 31.63,
+      "time_str": "00:31.630",
+      "text": "承受太高傲的罪名",
+      "translation": null
+    },
+    {
+      "time": 35.53,
+      "time_str": "00:35.530",
+      "text": "挤得进你臂弯 如情怀渐冷",
+      "translation": null
+    },
+    {
+      "time": 39.59,
+      "time_str": "00:39.590",
+      "text": "未算孤苦也伶仃",
+      "translation": null
+    },
+    {
+      "time": 42.76,
+      "time_str": "00:42.760",
+      "text": "明知爱",
+      "translation": null
+    },
+    {
+      "time": 44.27,
+      "time_str": "00:44.270",
+      "text": "这种男孩子",
+      "translation": null
+    },
+    {
+      "time": 45.98,
+      "time_str": "00:45.980",
+      "text": "也许只能如此",
+      "translation": null
+    },
+    {
+      "time": 48.15,
+      "time_str": "00:48.150",
+      "text": "但我会成为你",
+      "translation": null
+    },
+    {
+      "time": 49.27,
+      "time_str": "00:49.270",
+      "text": "最牵挂的一个女子",
+      "translation": null
+    },
+    {
+      "time": 52.14,
+      "time_str": "00:52.140",
+      "text": "朝朝暮暮让你",
+      "translation": null
+    },
+    {
+      "time": 53.71,
+      "time_str": "00:53.710",
+      "text": "猜想如何驯服我",
+      "translation": null
+    },
+    {
+      "time": 55.88,
+      "time_str": "00:55.880",
+      "text": "若果亲手抱住",
+      "translation": null
+    },
+    {
+      "time": 57.93,
+      "time_str": "00:57.930",
+      "text": "或者不必如此",
+      "translation": null
+    },
+    {
+      "time": 60.21,
+      "time_str": "01:00.210",
+      "text": "许多旁人说我",
+      "translation": null
+    },
+    {
+      "time": 61.74,
+      "time_str": "01:01.740",
+      "text": "不太明了男孩子",
+      "translation": null
+    },
+    {
+      "time": 64.22,
+      "time_str": "01:04.220",
+      "text": "不受命令就是",
+      "translation": null
+    },
+    {
+      "time": 65.52,
+      "time_str": "01:05.520",
+      "text": "一种最坏名字",
+      "translation": null
+    },
+    {
+      "time": 68.24,
+      "time_str": "01:08.240",
+      "text": "笑我这个毫无办法",
+      "translation": null
+    },
+    {
+      "time": 70.25,
+      "time_str": "01:10.250",
+      "text": "管束的野孩子",
+      "translation": null
+    },
+    {
+      "time": 73.67,
+      "time_str": "01:13.670",
+      "text": "连没有幸福都不介意",
+      "translation": null
+    },
+    {
+      "time": 87.76,
+      "time_str": "01:27.760",
+      "text": "若我依然坚持忠诚",
+      "translation": null
+    },
+    {
+      "time": 91.58,
+      "time_str": "01:31.580",
+      "text": "难道你又适合安定",
+      "translation": null
+    },
+    {
+      "time": 95.74,
+      "time_str": "01:35.740",
+      "text": "真可惜",
+      "translation": null
+    },
+    {
+      "time": 96.64,
+      "time_str": "01:36.640",
+      "text": "说要吻我的还未吻",
+      "translation": null
+    },
+    {
+      "time": 99.84,
+      "time_str": "01:39.840",
+      "text": "自己就自梦中苏醒",
+      "translation": null
+    },
+    {
+      "time": 103.77,
+      "time_str": "01:43.770",
+      "text": "离场是否有点失敬",
+      "translation": null
+    },
+    {
+      "time": 107.81,
+      "time_str": "01:47.810",
+      "text": "还是更轰烈的剧情",
+      "translation": null
+    },
+    {
+      "time": 111.55,
+      "time_str": "01:51.550",
+      "text": "必需有这结果",
+      "translation": null
+    },
+    {
+      "time": 113.76,
+      "time_str": "01:53.760",
+      "text": "才能怀念我",
+      "translation": null
+    },
+    {
+      "time": 115.41,
+      "time_str": "01:55.410",
+      "text": "让我于荒野驰骋",
+      "translation": null
+    },
+    {
+      "time": 118.74,
+      "time_str": "01:58.740",
+      "text": "明知爱",
+      "translation": null
+    },
+    {
+      "time": 119.68,
+      "time_str": "01:59.680",
+      "text": "这种男孩子",
+      "translation": null
+    },
+    {
+      "time": 121.93,
+      "time_str": "02:01.930",
+      "text": "也许只能如此",
+      "translation": null
+    },
+    {
+      "time": 124.07,
+      "time_str": "02:04.070",
+      "text": "但我会成为",
+      "translation": null
+    },
+    {
+      "time": 125.16,
+      "time_str": "02:05.160",
+      "text": "你最牵挂的一个女子",
+      "translation": null
+    },
+    {
+      "time": 128.17,
+      "time_str": "02:08.170",
+      "text": "朝朝暮暮",
+      "translation": null
+    },
+    {
+      "time": 129.22,
+      "time_str": "02:09.220",
+      "text": "让你猜想如何驯服我",
+      "translation": null
+    },
+    {
+      "time": 131.99,
+      "time_str": "02:11.990",
+      "text": "若果亲手抱住",
+      "translation": null
+    },
+    {
+      "time": 133.88,
+      "time_str": "02:13.880",
+      "text": "或者不必如此",
+      "translation": null
+    },
+    {
+      "time": 136.21,
+      "time_str": "02:16.210",
+      "text": "许多旁人",
+      "translation": null
+    },
+    {
+      "time": 137.25,
+      "time_str": "02:17.250",
+      "text": "说我不太明了男孩子",
+      "translation": null
+    },
+    {
+      "time": 140.15,
+      "time_str": "02:20.150",
+      "text": "不受命令",
+      "translation": null
+    },
+    {
+      "time": 141.29,
+      "time_str": "02:21.290",
+      "text": "就是一种最坏名字",
+      "translation": null
+    },
+    {
+      "time": 144.16,
+      "time_str": "02:24.160",
+      "text": "笑我这个毫无办法",
+      "translation": null
+    },
+    {
+      "time": 146.25,
+      "time_str": "02:26.250",
+      "text": "管束的野孩子",
+      "translation": null
+    },
+    {
+      "time": 149.66,
+      "time_str": "02:29.660",
+      "text": "连没有幸福都不介意",
+      "translation": null
+    },
+    {
+      "time": 166.75,
+      "time_str": "02:46.750",
+      "text": "明知爱",
+      "translation": null
+    },
+    {
+      "time": 167.88,
+      "time_str": "02:47.880",
+      "text": "这种男孩子",
+      "translation": null
+    },
+    {
+      "time": 169.92,
+      "time_str": "02:49.920",
+      "text": "也许只能如此",
+      "translation": null
+    },
+    {
+      "time": 172.0,
+      "time_str": "02:52.000",
+      "text": "但我会成为",
+      "translation": null
+    },
+    {
+      "time": 173.27,
+      "time_str": "02:53.270",
+      "text": "你最牵挂的一个女子",
+      "translation": null
+    },
+    {
+      "time": 176.16,
+      "time_str": "02:56.160",
+      "text": "朝朝暮暮",
+      "translation": null
+    },
+    {
+      "time": 177.24,
+      "time_str": "02:57.240",
+      "text": "让你猜想如何驯服我",
+      "translation": null
+    },
+    {
+      "time": 180.0,
+      "time_str": "03:00.000",
+      "text": "若果亲手抱住",
+      "translation": null
+    },
+    {
+      "time": 181.95,
+      "time_str": "03:01.950",
+      "text": "或者不必如此",
+      "translation": null
+    },
+    {
+      "time": 184.16,
+      "time_str": "03:04.160",
+      "text": "许多旁人",
+      "translation": null
+    },
+    {
+      "time": 185.12,
+      "time_str": "03:05.120",
+      "text": "说我不太明了男孩子",
+      "translation": null
+    },
+    {
+      "time": 188.13,
+      "time_str": "03:08.130",
+      "text": "不受命令",
+      "translation": null
+    },
+    {
+      "time": 189.1,
+      "time_str": "03:09.100",
+      "text": "就是一种最坏名字",
+      "translation": null
+    },
+    {
+      "time": 192.14,
+      "time_str": "03:12.140",
+      "text": "我也笑我原来",
+      "translation": null
+    },
+    {
+      "time": 193.62,
+      "time_str": "03:13.620",
+      "text": "是个天生的野孩子",
+      "translation": null
+    },
+    {
+      "time": 197.81,
+      "time_str": "03:17.810",
+      "text": "连没有幸福都不介意",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "野孩子 - 杨千嬅.lrc"
+}

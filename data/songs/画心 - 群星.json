@@ -1,0 +1,184 @@
+{
+  "title": "画心",
+  "title_raw": "画心",
+  "version": null,
+  "artist": "群星",
+  "group_key": "画心|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 28.34,
+      "time_str": "00:28.340",
+      "text": "看不穿是你失落的魂魄",
+      "translation": null
+    },
+    {
+      "time": 34.99,
+      "time_str": "00:34.990",
+      "text": "猜不透是你瞳孔的颜色",
+      "translation": null
+    },
+    {
+      "time": 42.04,
+      "time_str": "00:42.040",
+      "text": "一阵风一场梦爱如生命般莫测",
+      "translation": null
+    },
+    {
+      "time": 48.73,
+      "time_str": "00:48.730",
+      "text": "你的心到底被什么蛊惑",
+      "translation": null
+    },
+    {
+      "time": 55.55,
+      "time_str": "00:55.550",
+      "text": "你的轮廓在黑夜之中淹没",
+      "translation": null
+    },
+    {
+      "time": 62.05,
+      "time_str": "01:02.050",
+      "text": "看桃花开出怎样的结果",
+      "translation": null
+    },
+    {
+      "time": 69.24,
+      "time_str": "01:09.240",
+      "text": "看着你抱着我目光似月色寂寞",
+      "translation": null
+    },
+    {
+      "time": 75.99,
+      "time_str": "01:15.990",
+      "text": "就让你在别人怀里快乐",
+      "translation": null
+    },
+    {
+      "time": 83.17,
+      "time_str": "01:23.170",
+      "text": "爱着你像心跳难触摸",
+      "translation": null
+    },
+    {
+      "time": 90.17,
+      "time_str": "01:30.170",
+      "text": "画着你画不出你的骨骼",
+      "translation": null
+    },
+    {
+      "time": 96.92,
+      "time_str": "01:36.920",
+      "text": "记着你的脸色是我等你的执着",
+      "translation": null
+    },
+    {
+      "time": 103.8,
+      "time_str": "01:43.800",
+      "text": "你是我一首唱不完的歌",
+      "translation": null
+    },
+    {
+      "time": 124.39,
+      "time_str": "02:04.390",
+      "text": "看不穿是你失落的魂魄",
+      "translation": null
+    },
+    {
+      "time": 131.2,
+      "time_str": "02:11.200",
+      "text": "猜不透是你瞳孔的颜色",
+      "translation": null
+    },
+    {
+      "time": 138.15,
+      "time_str": "02:18.150",
+      "text": "一阵风一场梦爱是生命的莫测",
+      "translation": null
+    },
+    {
+      "time": 144.89,
+      "time_str": "02:24.890",
+      "text": "你的心到底被什么蛊惑",
+      "translation": null
+    },
+    {
+      "time": 151.83,
+      "time_str": "02:31.830",
+      "text": "你的轮廓在黑夜之中淹没",
+      "translation": null
+    },
+    {
+      "time": 159.01,
+      "time_str": "02:39.010",
+      "text": "看桃花开出怎样的结果",
+      "translation": null
+    },
+    {
+      "time": 165.82,
+      "time_str": "02:45.820",
+      "text": "看着你抱着我目光比月色寂寞",
+      "translation": null
+    },
+    {
+      "time": 172.58,
+      "time_str": "02:52.580",
+      "text": "就让你在别人怀里快乐",
+      "translation": null
+    },
+    {
+      "time": 180.11,
+      "time_str": "03:00.110",
+      "text": "爱着你像心跳难触摸",
+      "translation": null
+    },
+    {
+      "time": 186.33,
+      "time_str": "03:06.330",
+      "text": "画着你画不出你的骨骼",
+      "translation": null
+    },
+    {
+      "time": 193.5,
+      "time_str": "03:13.500",
+      "text": "记着你的脸色是我等你的执着",
+      "translation": null
+    },
+    {
+      "time": 200.38,
+      "time_str": "03:20.380",
+      "text": "你是我一首唱不完的歌",
+      "translation": null
+    },
+    {
+      "time": 235.28,
+      "time_str": "03:55.280",
+      "text": "爱着你像心跳难触摸",
+      "translation": null
+    },
+    {
+      "time": 242.04,
+      "time_str": "04:02.040",
+      "text": "画着你画不出你的骨骼",
+      "translation": null
+    },
+    {
+      "time": 248.91,
+      "time_str": "04:08.910",
+      "text": "记着你的脸色是我等你的执着",
+      "translation": null
+    },
+    {
+      "time": 256.03,
+      "time_str": "04:16.030",
+      "text": "我的心只愿为你而割舍",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "画心 - 群星.lrc"
+}

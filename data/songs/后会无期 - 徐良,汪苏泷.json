@@ -1,0 +1,316 @@
+{
+  "title": "后会无期",
+  "title_raw": "后会无期",
+  "version": null,
+  "artist": "徐良,汪苏泷",
+  "group_key": "后会无期|徐良,汪苏泷",
+  "writers": {
+    "lyricist": "汪苏泷/徐良",
+    "composer": "汪苏泷/徐良",
+    "arranger": "汪苏泷/徐良"
+  },
+  "lyrics": [
+    {
+      "time": 12.0,
+      "time_str": "00:12.000",
+      "text": "合：你若离去 后会无期",
+      "translation": null
+    },
+    {
+      "time": 14.69,
+      "time_str": "00:14.690",
+      "text": "你若离去 后会无期",
+      "translation": null
+    },
+    {
+      "time": 17.34,
+      "time_str": "00:17.340",
+      "text": "你若离去 后会无期",
+      "translation": null
+    },
+    {
+      "time": 23.83,
+      "time_str": "00:23.830",
+      "text": "徐：等不到 风中你的脸颊",
+      "translation": null
+    },
+    {
+      "time": 26.08,
+      "time_str": "00:26.080",
+      "text": "眼泪都美到很融洽",
+      "translation": null
+    },
+    {
+      "time": 29.45,
+      "time_str": "00:29.450",
+      "text": "等不到 掩饰的雨落下",
+      "translation": null
+    },
+    {
+      "time": 31.51,
+      "time_str": "00:31.510",
+      "text": "我的眼泪被你觉察",
+      "translation": null
+    },
+    {
+      "time": 35.26,
+      "time_str": "00:35.260",
+      "text": "汪：等不到 你的雪月风花",
+      "translation": null
+    },
+    {
+      "time": 37.83,
+      "time_str": "00:37.830",
+      "text": "我们的爱也有时差",
+      "translation": null
+    },
+    {
+      "time": 40.92,
+      "time_str": "00:40.920",
+      "text": "等不到 不经意的牵挂",
+      "translation": null
+    },
+    {
+      "time": 43.27,
+      "time_str": "00:43.270",
+      "text": "却没出息的放不下",
+      "translation": null
+    },
+    {
+      "time": 45.94,
+      "time_str": "00:45.940",
+      "text": "徐：你说陪我到某年某月某天",
+      "translation": null
+    },
+    {
+      "time": 48.37,
+      "time_str": "00:48.370",
+      "text": "却把我丢在某日某夜某街",
+      "translation": null
+    },
+    {
+      "time": 51.76,
+      "time_str": "00:51.760",
+      "text": "错的并不是你 而是全世界",
+      "translation": null
+    },
+    {
+      "time": 57.25,
+      "time_str": "00:57.250",
+      "text": "汪：你带走我的思念",
+      "translation": null
+    },
+    {
+      "time": 60.393,
+      "time_str": "01:00.393",
+      "text": "却没说抱歉",
+      "translation": null
+    },
+    {
+      "time": 62.904,
+      "time_str": "01:02.904",
+      "text": "一起走过的黑夜",
+      "translation": null
+    },
+    {
+      "time": 66.073,
+      "time_str": "01:06.073",
+      "text": "变一地白雪",
+      "translation": null
+    },
+    {
+      "time": 68.662,
+      "time_str": "01:08.662",
+      "text": "合：我把记忆都翻遍",
+      "translation": null
+    },
+    {
+      "time": 71.713,
+      "time_str": "01:11.713",
+      "text": "却没有发现",
+      "translation": null
+    },
+    {
+      "time": 74.302,
+      "time_str": "01:14.302",
+      "text": "我们约好的明天",
+      "translation": null
+    },
+    {
+      "time": 77.616,
+      "time_str": "01:17.616",
+      "text": "你留给昨天",
+      "translation": null
+    },
+    {
+      "time": 92.515,
+      "time_str": "01:32.515",
+      "text": "你若离去 后会无期",
+      "translation": null
+    },
+    {
+      "time": 95.175,
+      "time_str": "01:35.175",
+      "text": "你若离去 后会无期",
+      "translation": null
+    },
+    {
+      "time": 97.964,
+      "time_str": "01:37.964",
+      "text": "你若离去 后会无期",
+      "translation": null
+    },
+    {
+      "time": 103.925,
+      "time_str": "01:43.925",
+      "text": "汪：等不到 手中松开的沙",
+      "translation": null
+    },
+    {
+      "time": 106.574,
+      "time_str": "01:46.574",
+      "text": "被风扬起的很优雅",
+      "translation": null
+    },
+    {
+      "time": 109.806,
+      "time_str": "01:49.806",
+      "text": "等不到 送你蝴蝶发卡",
+      "translation": null
+    },
+    {
+      "time": 112.306,
+      "time_str": "01:52.306",
+      "text": "你的他爱上了短发",
+      "translation": null
+    },
+    {
+      "time": 114.875,
+      "time_str": "01:54.875",
+      "text": "徐：你说陪我到某年某月某天",
+      "translation": null
+    },
+    {
+      "time": 117.265,
+      "time_str": "01:57.265",
+      "text": "却把我丢在某日某夜某街",
+      "translation": null
+    },
+    {
+      "time": 120.743,
+      "time_str": "02:00.743",
+      "text": "错的并不是你 而是全世界",
+      "translation": null
+    },
+    {
+      "time": 126.174,
+      "time_str": "02:06.174",
+      "text": "合：你带走我的思念",
+      "translation": null
+    },
+    {
+      "time": 129.284,
+      "time_str": "02:09.284",
+      "text": "却没说抱歉",
+      "translation": null
+    },
+    {
+      "time": 131.754,
+      "time_str": "02:11.754",
+      "text": "一起走过的黑夜",
+      "translation": null
+    },
+    {
+      "time": 135.004,
+      "time_str": "02:15.004",
+      "text": "变一地白雪",
+      "translation": null
+    },
+    {
+      "time": 137.554,
+      "time_str": "02:17.554",
+      "text": "我把记忆都翻遍",
+      "translation": null
+    },
+    {
+      "time": 140.705,
+      "time_str": "02:20.705",
+      "text": "却没有发现",
+      "translation": null
+    },
+    {
+      "time": 143.294,
+      "time_str": "02:23.294",
+      "text": "我们约好的明天",
+      "translation": null
+    },
+    {
+      "time": 146.524,
+      "time_str": "02:26.524",
+      "text": "你留给昨天",
+      "translation": null
+    },
+    {
+      "time": 163.825,
+      "time_str": "02:43.825",
+      "text": "你带走我的思念",
+      "translation": null
+    },
+    {
+      "time": 166.635,
+      "time_str": "02:46.635",
+      "text": "却没说抱歉",
+      "translation": null
+    },
+    {
+      "time": 169.135,
+      "time_str": "02:49.135",
+      "text": "一起走过的黑夜",
+      "translation": null
+    },
+    {
+      "time": 172.365,
+      "time_str": "02:52.365",
+      "text": "变一地白雪",
+      "translation": null
+    },
+    {
+      "time": 174.934,
+      "time_str": "02:54.934",
+      "text": "我把记忆都翻遍",
+      "translation": null
+    },
+    {
+      "time": 178.035,
+      "time_str": "02:58.035",
+      "text": "却没有发现",
+      "translation": null
+    },
+    {
+      "time": 180.545,
+      "time_str": "03:00.545",
+      "text": "我们约好的明天",
+      "translation": null
+    },
+    {
+      "time": 183.813,
+      "time_str": "03:03.813",
+      "text": "你留给昨天",
+      "translation": null
+    },
+    {
+      "time": 188.294,
+      "time_str": "03:08.294",
+      "text": "汪：我们约好的明天",
+      "translation": null
+    },
+    {
+      "time": 192.514,
+      "time_str": "03:12.514",
+      "text": "合：你留给昨天",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "后会无期 - 徐良,汪苏泷.lrc"
+}

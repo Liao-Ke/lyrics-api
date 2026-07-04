@@ -1,0 +1,358 @@
+{
+  "title": "Bones",
+  "title_raw": "Bones",
+  "version": null,
+  "artist": "Imagine Dragons",
+  "group_key": "bones|imagine dragons",
+  "writers": {
+    "lyricist": "Dan Reynolds/Wayne Sermon/Ben McKee/Daniel Platzman/Robin Fredriksson/Mattias Larsson",
+    "composer": "Dan Reynolds/Wayne Sermon/Ben McKee/Daniel Platzman/Robin Fredriksson/Mattias Larsson",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.273,
+      "time_str": "00:04.273",
+      "text": "Gimme, gimme, gimme some time to think",
+      "translation": "给我些时间去思考"
+    },
+    {
+      "time": 6.494,
+      "time_str": "00:06.494",
+      "text": "I'm in the bathroom, looking at me",
+      "translation": "我在浴室里 需要审视"
+    },
+    {
+      "time": 8.444,
+      "time_str": "00:08.444",
+      "text": "Face in the mirror is all I need (Ooh)",
+      "translation": "自己镜中的那副面孔"
+    },
+    {
+      "time": 12.844,
+      "time_str": "00:12.844",
+      "text": "Wait until the reaper takes my life",
+      "translation": "等待死神来索我命"
+    },
+    {
+      "time": 14.879,
+      "time_str": "00:14.879",
+      "text": "Never gonna get me out alive",
+      "translation": "他不给我留任何生路"
+    },
+    {
+      "time": 17.01,
+      "time_str": "00:17.010",
+      "text": "I will live a thousand million lives (Ooh)",
+      "translation": "但我还能无数次重生"
+    },
+    {
+      "time": 20.898,
+      "time_str": "00:20.898",
+      "text": "My patience is waning",
+      "translation": "我耐心逐渐被磨灭"
+    },
+    {
+      "time": 22.97,
+      "time_str": "00:22.970",
+      "text": "Is this entertaining?",
+      "translation": "难道很有趣吗"
+    },
+    {
+      "time": 25.063,
+      "time_str": "00:25.063",
+      "text": "Our patience is waning",
+      "translation": "我耐心逐渐被磨灭"
+    },
+    {
+      "time": 27.163,
+      "time_str": "00:27.163",
+      "text": "Is this entertaining?",
+      "translation": "难道很有趣吗"
+    },
+    {
+      "time": 29.438,
+      "time_str": "00:29.438",
+      "text": "I-I-I got this feeling, yeah, you know",
+      "translation": "你知道 我有这种感觉"
+    },
+    {
+      "time": 33.229,
+      "time_str": "00:33.229",
+      "text": "Where I'm losing all control",
+      "translation": "自己正在逐渐失控"
+    },
+    {
+      "time": 35.353,
+      "time_str": "00:35.353",
+      "text": "'Cause there's magic in my bones",
+      "translation": "我体内的魔力被唤醒"
+    },
+    {
+      "time": 38.084,
+      "time_str": "00:38.084",
+      "text": "I-I-I got this feeling in my soul",
+      "translation": "灵魂深处有意识"
+    },
+    {
+      "time": 41.67,
+      "time_str": "00:41.670",
+      "text": "Go ahead and throw your stones",
+      "translation": "尽管行使你的话语权吧"
+    },
+    {
+      "time": 43.791,
+      "time_str": "00:43.791",
+      "text": "'Cause there's magic in my bones",
+      "translation": "我体内的魔力被召唤"
+    },
+    {
+      "time": 46.378,
+      "time_str": "00:46.378",
+      "text": "Playing with a stick of dynamite",
+      "translation": "我身处命悬一线的游戏"
+    },
+    {
+      "time": 48.563,
+      "time_str": "00:48.563",
+      "text": "There was never grey in black and white",
+      "translation": "黑白世界没有灰色地带"
+    },
+    {
+      "time": 50.612,
+      "time_str": "00:50.612",
+      "text": "There was never wrong till there was right (Ooh, oh)",
+      "translation": "标准出现之前也没有对错之分"
+    },
+    {
+      "time": 54.874,
+      "time_str": "00:54.874",
+      "text": "Feeling like a boulder hurtling",
+      "translation": "就如前方有巨石飞驰"
+    },
+    {
+      "time": 56.934,
+      "time_str": "00:56.934",
+      "text": "Seeing all the vultures circling",
+      "translation": "秃鹫在天空中盘旋"
+    },
+    {
+      "time": 59.058,
+      "time_str": "00:59.058",
+      "text": "Burning in the flames I'm working in",
+      "translation": "我身处水深火热中"
+    },
+    {
+      "time": 61.133,
+      "time_str": "01:01.133",
+      "text": "Turning in a bed that's darkening",
+      "translation": "天色灰蒙 我辗转在床上"
+    },
+    {
+      "time": 63.187,
+      "time_str": "01:03.187",
+      "text": "My patience is waning",
+      "translation": "我耐心逐渐被磨灭"
+    },
+    {
+      "time": 65.046,
+      "time_str": "01:05.046",
+      "text": "Is this entertaining?",
+      "translation": "难道很有趣吗"
+    },
+    {
+      "time": 67.241,
+      "time_str": "01:07.241",
+      "text": "Our patience is waning",
+      "translation": "我耐心逐渐被磨灭"
+    },
+    {
+      "time": 69.443,
+      "time_str": "01:09.443",
+      "text": "Is this entertaining?",
+      "translation": "难道很有趣吗"
+    },
+    {
+      "time": 71.626,
+      "time_str": "01:11.626",
+      "text": "I-I-I got this feeling, yeah, you know",
+      "translation": "你知道 我有这种感觉"
+    },
+    {
+      "time": 75.309,
+      "time_str": "01:15.309",
+      "text": "Where I'm losing all control",
+      "translation": "自己正在逐渐失控"
+    },
+    {
+      "time": 77.44,
+      "time_str": "01:17.440",
+      "text": "'Cause there's magic in my bones (In my bones)",
+      "translation": "我体内的魔力被唤醒"
+    },
+    {
+      "time": 80.06,
+      "time_str": "01:20.060",
+      "text": "I-I-I got this feeling in my soul",
+      "translation": "灵魂深处有意识"
+    },
+    {
+      "time": 83.771,
+      "time_str": "01:23.771",
+      "text": "Go ahead and throw your stones",
+      "translation": "尽管行使你的话语权吧"
+    },
+    {
+      "time": 85.867,
+      "time_str": "01:25.867",
+      "text": "'Cause there's magic in my bones",
+      "translation": "我体内的魔力被唤醒"
+    },
+    {
+      "time": 94.352,
+      "time_str": "01:34.352",
+      "text": "'Cause there's magic in my bones",
+      "translation": "我体内的魔力被唤醒"
+    },
+    {
+      "time": 96.919,
+      "time_str": "01:36.919",
+      "text": "Look in the mirror of my mind",
+      "translation": "映照着思维的明镜"
+    },
+    {
+      "time": 98.478,
+      "time_str": "01:38.478",
+      "text": "Turning the pages of my life",
+      "translation": "翻阅着人生履历"
+    },
+    {
+      "time": 100.564,
+      "time_str": "01:40.564",
+      "text": "Walking the path so many paced a million times",
+      "translation": "无数次行走在这条道路上"
+    },
+    {
+      "time": 104.842,
+      "time_str": "01:44.842",
+      "text": "Drown out the voices in the air",
+      "translation": "我的声音被淹没"
+    },
+    {
+      "time": 106.834,
+      "time_str": "01:46.834",
+      "text": "Leaving the ones that never cared",
+      "translation": "漠不关心的人离开就好"
+    },
+    {
+      "time": 108.98,
+      "time_str": "01:48.980",
+      "text": "Picking the pieces up and building to the sky",
+      "translation": "拾起碎片 重建蓝天"
+    },
+    {
+      "time": 113.576,
+      "time_str": "01:53.576",
+      "text": "My patience is waning",
+      "translation": "我耐心逐渐被磨灭"
+    },
+    {
+      "time": 115.678,
+      "time_str": "01:55.678",
+      "text": "Is this entertaining?",
+      "translation": "难道很有趣吗"
+    },
+    {
+      "time": 117.761,
+      "time_str": "01:57.761",
+      "text": "My patience is waning",
+      "translation": "我耐心逐渐被磨灭"
+    },
+    {
+      "time": 119.824,
+      "time_str": "01:59.824",
+      "text": "Is this entertaining?",
+      "translation": "难道很有趣吗"
+    },
+    {
+      "time": 122.087,
+      "time_str": "02:02.087",
+      "text": "I-I-I got this feeling, yeah, you know",
+      "translation": "你知道 我有这种感觉"
+    },
+    {
+      "time": 125.877,
+      "time_str": "02:05.877",
+      "text": "Where I'm losing all control",
+      "translation": "自己正在逐渐失控"
+    },
+    {
+      "time": 127.982,
+      "time_str": "02:07.982",
+      "text": "'Cause there's magic in my bones (Magic in my bones)",
+      "translation": "我体内的魔力被唤醒"
+    },
+    {
+      "time": 130.693,
+      "time_str": "02:10.693",
+      "text": "I-I-I got this feeling in my soul (Soul)",
+      "translation": "灵魂深处有意识"
+    },
+    {
+      "time": 134.25,
+      "time_str": "02:14.250",
+      "text": "Go ahead and throw your stones",
+      "translation": "尽管行使你的话语权吧"
+    },
+    {
+      "time": 136.347,
+      "time_str": "02:16.347",
+      "text": "'Cause there's magic in my bones",
+      "translation": "我体内的魔力被唤醒"
+    },
+    {
+      "time": 137.575,
+      "time_str": "02:17.575",
+      "text": "There goes my mind (I-I-I)",
+      "translation": "有个念头闪过脑海"
+    },
+    {
+      "time": 140.643,
+      "time_str": "02:20.643",
+      "text": "Don't mind",
+      "translation": "不要担心"
+    },
+    {
+      "time": 142.38,
+      "time_str": "02:22.380",
+      "text": "There goes my mind (There it goes, there it goes)",
+      "translation": "有个念头闪过脑海"
+    },
+    {
+      "time": 145.83,
+      "time_str": "02:25.830",
+      "text": "There goes my mind (I-I-I)",
+      "translation": "有个念头闪过脑海"
+    },
+    {
+      "time": 149.039,
+      "time_str": "02:29.039",
+      "text": "Don't mind (There it goes)",
+      "translation": "不要担心"
+    },
+    {
+      "time": 151.043,
+      "time_str": "02:31.043",
+      "text": "There goes my mind",
+      "translation": "有个念头闪过脑海"
+    },
+    {
+      "time": 153.283,
+      "time_str": "02:33.283",
+      "text": "'Cause there's magic in my bones",
+      "translation": "我体内的魔力被唤醒"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Bones - Imagine Dragons.lrc"
+}

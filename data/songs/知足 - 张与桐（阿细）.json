@@ -1,0 +1,250 @@
+{
+  "title": "知足",
+  "title_raw": "知足",
+  "version": null,
+  "artist": "张与桐（阿细）",
+  "group_key": "知足|张与桐（阿细）",
+  "writers": {
+    "lyricist": "阿细",
+    "composer": "阿信",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 22.032,
+      "time_str": "00:22.032",
+      "text": "雨后那天空 有没有风",
+      "translation": null
+    },
+    {
+      "time": 28.023,
+      "time_str": "00:28.023",
+      "text": "记下这时空 想象着抱拥",
+      "translation": null
+    },
+    {
+      "time": 34.024,
+      "time_str": "00:34.024",
+      "text": "你害怕不懂 要走的冲动",
+      "translation": null
+    },
+    {
+      "time": 39.774,
+      "time_str": "00:39.774",
+      "text": "片刻的感动 才可止一下痛",
+      "translation": null
+    },
+    {
+      "time": 52.031,
+      "time_str": "00:52.031",
+      "text": "贴近那分钟 有没接通",
+      "translation": null
+    },
+    {
+      "time": 57.781,
+      "time_str": "00:57.781",
+      "text": "我习惯悬空 竟然又扑空",
+      "translation": null
+    },
+    {
+      "time": 63.526,
+      "time_str": "01:03.526",
+      "text": "你没法知足 够钟的心动",
+      "translation": null
+    },
+    {
+      "time": 69.774,
+      "time_str": "01:09.774",
+      "text": "缘分的觉梦 在不知间放纵",
+      "translation": null
+    },
+    {
+      "time": 74.778,
+      "time_str": "01:14.778",
+      "text": "从一开始 那年",
+      "translation": null
+    },
+    {
+      "time": 77.527,
+      "time_str": "01:17.527",
+      "text": "追风找到 天使",
+      "translation": null
+    },
+    {
+      "time": 81.022,
+      "time_str": "01:21.022",
+      "text": "愿奉献 却生厌",
+      "translation": null
+    },
+    {
+      "time": 84.029,
+      "time_str": "01:24.029",
+      "text": "像停电 在那天",
+      "translation": null
+    },
+    {
+      "time": 86.781,
+      "time_str": "01:26.781",
+      "text": "离开得很远 但我知",
+      "translation": null
+    },
+    {
+      "time": 90.775,
+      "time_str": "01:30.775",
+      "text": "无可避免",
+      "translation": null
+    },
+    {
+      "time": 93.526,
+      "time_str": "01:33.526",
+      "text": "人在变 情难见 真言",
+      "translation": null
+    },
+    {
+      "time": 103.023,
+      "time_str": "01:43.023",
+      "text": "那年那首歌 你在唱么",
+      "translation": null
+    },
+    {
+      "time": 108.784,
+      "time_str": "01:48.784",
+      "text": "再没有漩涡 闯入过耳朵",
+      "translation": null
+    },
+    {
+      "time": 114.775,
+      "time_str": "01:54.775",
+      "text": "你留下很多 记忆的感觉",
+      "translation": null
+    },
+    {
+      "time": 121.03,
+      "time_str": "02:01.030",
+      "text": "我显得冷漠 全因这种错觉",
+      "translation": null
+    },
+    {
+      "time": 149.778,
+      "time_str": "02:29.778",
+      "text": "从一开始 那年",
+      "translation": null
+    },
+    {
+      "time": 152.528,
+      "time_str": "02:32.528",
+      "text": "追风找到 天使",
+      "translation": null
+    },
+    {
+      "time": 155.523,
+      "time_str": "02:35.523",
+      "text": "愿奉献 却生厌",
+      "translation": null
+    },
+    {
+      "time": 158.53,
+      "time_str": "02:38.530",
+      "text": "像停电 在那天",
+      "translation": null
+    },
+    {
+      "time": 161.026,
+      "time_str": "02:41.026",
+      "text": "离开得很远 但我知",
+      "translation": null
+    },
+    {
+      "time": 165.032,
+      "time_str": "02:45.032",
+      "text": "无可避免",
+      "translation": null
+    },
+    {
+      "time": 167.774,
+      "time_str": "02:47.774",
+      "text": "人在变 情难见 真言",
+      "translation": null
+    },
+    {
+      "time": 172.778,
+      "time_str": "02:52.778",
+      "text": "从一开始 那年",
+      "translation": null
+    },
+    {
+      "time": 175.773,
+      "time_str": "02:55.773",
+      "text": "追风找到 天使",
+      "translation": null
+    },
+    {
+      "time": 179.023,
+      "time_str": "02:59.023",
+      "text": "原纯洁 却污染",
+      "translation": null
+    },
+    {
+      "time": 181.775,
+      "time_str": "03:01.775",
+      "text": "像停电 在那天",
+      "translation": null
+    },
+    {
+      "time": 184.524,
+      "time_str": "03:04.524",
+      "text": "离开得很远 但我知",
+      "translation": null
+    },
+    {
+      "time": 188.53,
+      "time_str": "03:08.530",
+      "text": "无可避免",
+      "translation": null
+    },
+    {
+      "time": 191.027,
+      "time_str": "03:11.027",
+      "text": "人在变 情难见 昨天",
+      "translation": null
+    },
+    {
+      "time": 200.781,
+      "time_str": "03:20.781",
+      "text": "雨后那天空 有没有风",
+      "translation": null
+    },
+    {
+      "time": 206.527,
+      "time_str": "03:26.527",
+      "text": "记下这时空 想象着抱拥",
+      "translation": null
+    },
+    {
+      "time": 212.275,
+      "time_str": "03:32.275",
+      "text": "你害怕不懂 要走的冲动",
+      "translation": null
+    },
+    {
+      "time": 218.032,
+      "time_str": "03:38.032",
+      "text": "片刻的感动 才可止一下痛",
+      "translation": null
+    },
+    {
+      "time": 224.023,
+      "time_str": "03:44.023",
+      "text": "片刻的感动 才可止一下痛",
+      "translation": null
+    },
+    {
+      "time": 225.023,
+      "time_str": "03:45.023",
+      "text": "零度那天空 在不知间变冻",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "知足 - 张与桐（阿细）.lrc"
+}

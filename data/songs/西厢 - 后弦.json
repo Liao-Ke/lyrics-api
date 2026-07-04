@@ -1,0 +1,328 @@
+{
+  "title": "西厢",
+  "title_raw": "西厢",
+  "version": null,
+  "artist": "后弦",
+  "group_key": "西厢|后弦",
+  "writers": {
+    "lyricist": "后弦",
+    "composer": "后弦",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.4,
+      "time_str": "00:14.400",
+      "text": "走过西厢扑鼻一阵香",
+      "translation": null
+    },
+    {
+      "time": 17.69,
+      "time_str": "00:17.690",
+      "text": "隔壁小姐还在花中央",
+      "translation": null
+    },
+    {
+      "time": 21.2,
+      "time_str": "00:21.200",
+      "text": "鞋子忘了原来的方向",
+      "translation": null
+    },
+    {
+      "time": 24.55,
+      "time_str": "00:24.550",
+      "text": "停在十八九岁情惆怅",
+      "translation": null
+    },
+    {
+      "time": 28.01,
+      "time_str": "00:28.010",
+      "text": "敢问一句盆中花怎赏",
+      "translation": null
+    },
+    {
+      "time": 31.44,
+      "time_str": "00:31.440",
+      "text": "要拿姑娘与它比模样",
+      "translation": null
+    },
+    {
+      "time": 34.78,
+      "time_str": "00:34.780",
+      "text": "甘做花泥一片靠花旁",
+      "translation": null
+    },
+    {
+      "time": 38.14,
+      "time_str": "00:38.140",
+      "text": "不是三月也能醉人肠",
+      "translation": null
+    },
+    {
+      "time": 42.33,
+      "time_str": "00:42.330",
+      "text": "夏至的前一天",
+      "translation": null
+    },
+    {
+      "time": 43.73,
+      "time_str": "00:43.730",
+      "text": "秀才西厢走一遍",
+      "translation": null
+    },
+    {
+      "time": 45.77,
+      "time_str": "00:45.770",
+      "text": "邂逅小姐正在窗台赏花等着雨天",
+      "translation": null
+    },
+    {
+      "time": 48.86,
+      "time_str": "00:48.860",
+      "text": "名诗读了几多遍，名画临摹了几多卷",
+      "translation": null
+    },
+    {
+      "time": 52.56,
+      "time_str": "00:52.560",
+      "text": "懵懂书生的梦存在西厢正时少年",
+      "translation": null
+    },
+    {
+      "time": 55.97,
+      "time_str": "00:55.970",
+      "text": "我又从西厢过，十二年前的白日梦",
+      "translation": null
+    },
+    {
+      "time": 62.34,
+      "time_str": "01:02.340",
+      "text": "写下当年的你的我，水调歌头词一首",
+      "translation": null
+    },
+    {
+      "time": 69.54,
+      "time_str": "01:09.540",
+      "text": "我再从西厢过，十二年后的才高八斗",
+      "translation": null
+    },
+    {
+      "time": 76.13,
+      "time_str": "01:16.130",
+      "text": "百花还在人去已楼空",
+      "translation": null
+    },
+    {
+      "time": 79.86,
+      "time_str": "01:19.860",
+      "text": "那花儿常开人难留",
+      "translation": null
+    },
+    {
+      "time": 84.3,
+      "time_str": "01:24.300",
+      "text": "谁家种的桃花开了",
+      "translation": null
+    },
+    {
+      "time": 87.54,
+      "time_str": "01:27.540",
+      "text": "花下谁在哼着离骚",
+      "translation": null
+    },
+    {
+      "time": 90.95,
+      "time_str": "01:30.950",
+      "text": "赶考书生还要趁早要把功名报",
+      "translation": null
+    },
+    {
+      "time": 96.48,
+      "time_str": "01:36.480",
+      "text": "走过西厢扑鼻一阵香",
+      "translation": null
+    },
+    {
+      "time": 99.52,
+      "time_str": "01:39.520",
+      "text": "隔壁小姐还在花中央",
+      "translation": null
+    },
+    {
+      "time": 103.0,
+      "time_str": "01:43.000",
+      "text": "鞋子忘了原来的方向",
+      "translation": null
+    },
+    {
+      "time": 106.4,
+      "time_str": "01:46.400",
+      "text": "停在十八九岁情惆怅",
+      "translation": null
+    },
+    {
+      "time": 109.81,
+      "time_str": "01:49.810",
+      "text": "敢问一句盆中花怎赏",
+      "translation": null
+    },
+    {
+      "time": 113.22,
+      "time_str": "01:53.220",
+      "text": "要拿姑娘与它比模样",
+      "translation": null
+    },
+    {
+      "time": 116.71,
+      "time_str": "01:56.710",
+      "text": "甘做花泥一片靠花旁",
+      "translation": null
+    },
+    {
+      "time": 120.0,
+      "time_str": "02:00.000",
+      "text": "不是三月也能醉人肠",
+      "translation": null
+    },
+    {
+      "time": 124.1,
+      "time_str": "02:04.100",
+      "text": "夏至的前一天",
+      "translation": null
+    },
+    {
+      "time": 125.65,
+      "time_str": "02:05.650",
+      "text": "秀才西厢走一遍",
+      "translation": null
+    },
+    {
+      "time": 127.56,
+      "time_str": "02:07.560",
+      "text": "邂逅小姐正在窗台赏花等着雨天",
+      "translation": null
+    },
+    {
+      "time": 131.05,
+      "time_str": "02:11.050",
+      "text": "名诗读了几多遍，名画临摹了几多卷",
+      "translation": null
+    },
+    {
+      "time": 134.49,
+      "time_str": "02:14.490",
+      "text": "懵懂书生的梦存在西厢正时少年",
+      "translation": null
+    },
+    {
+      "time": 137.73,
+      "time_str": "02:17.730",
+      "text": "我又从西厢过，十二年前的白日梦",
+      "translation": null
+    },
+    {
+      "time": 144.32,
+      "time_str": "02:24.320",
+      "text": "写下当年的你的我，水调歌头词一首",
+      "translation": null
+    },
+    {
+      "time": 151.45,
+      "time_str": "02:31.450",
+      "text": "我再从西厢过，十二年后的才高八斗",
+      "translation": null
+    },
+    {
+      "time": 157.99,
+      "time_str": "02:37.990",
+      "text": "百花还在人去已楼空",
+      "translation": null
+    },
+    {
+      "time": 161.63,
+      "time_str": "02:41.630",
+      "text": "那花儿常开人难留",
+      "translation": null
+    },
+    {
+      "time": 172.11,
+      "time_str": "02:52.110",
+      "text": "树上的鸟儿，你为何紧皱眉",
+      "translation": null
+    },
+    {
+      "time": 178.9,
+      "time_str": "02:58.900",
+      "text": "地上的人儿，为一个情字醉",
+      "translation": null
+    },
+    {
+      "time": 185.38,
+      "time_str": "03:05.380",
+      "text": "我又从西厢过，十二年前的白日梦",
+      "translation": null
+    },
+    {
+      "time": 192.12,
+      "time_str": "03:12.120",
+      "text": "写下当年的你的我",
+      "translation": null
+    },
+    {
+      "time": 195.62,
+      "time_str": "03:15.620",
+      "text": "水调歌头词一首",
+      "translation": null
+    },
+    {
+      "time": 199.15,
+      "time_str": "03:19.150",
+      "text": "我再从西厢过，十二年后的才高八斗",
+      "translation": null
+    },
+    {
+      "time": 205.8,
+      "time_str": "03:25.800",
+      "text": "百花还在人去已楼空",
+      "translation": null
+    },
+    {
+      "time": 209.75,
+      "time_str": "03:29.750",
+      "text": "那明月照西厢",
+      "translation": null
+    },
+    {
+      "time": 212.84,
+      "time_str": "03:32.840",
+      "text": "我又从西厢过，十二年前的白日梦",
+      "translation": null
+    },
+    {
+      "time": 219.38,
+      "time_str": "03:39.380",
+      "text": "写下当年的你的我，水调歌头词一首",
+      "translation": null
+    },
+    {
+      "time": 226.47,
+      "time_str": "03:46.470",
+      "text": "我再从西厢过，十二年后的才高八斗",
+      "translation": null
+    },
+    {
+      "time": 233.22,
+      "time_str": "03:53.220",
+      "text": "百花还在人去已楼空",
+      "translation": null
+    },
+    {
+      "time": 236.91,
+      "time_str": "03:56.910",
+      "text": "那花儿长开人难留",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "西厢 - 后弦.lrc"
+}

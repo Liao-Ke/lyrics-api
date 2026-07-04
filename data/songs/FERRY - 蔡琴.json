@@ -1,0 +1,136 @@
+{
+  "title": "FERRY",
+  "title_raw": "FERRY",
+  "version": null,
+  "artist": "蔡琴",
+  "group_key": "ferry|蔡琴",
+  "writers": {
+    "lyricist": "席慕容",
+    "composer": "杨弦",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 23.5,
+      "time_str": "00:23.500",
+      "text": "让我与你握别",
+      "translation": null
+    },
+    {
+      "time": 31.5,
+      "time_str": "00:31.500",
+      "text": "再轻轻抽出我的手",
+      "translation": null
+    },
+    {
+      "time": 38.499,
+      "time_str": "00:38.499",
+      "text": "直到思念从此生根",
+      "translation": null
+    },
+    {
+      "time": 45.499,
+      "time_str": "00:45.499",
+      "text": "华年从此停顿",
+      "translation": null
+    },
+    {
+      "time": 54.499,
+      "time_str": "00:54.499",
+      "text": "热泪在心中  汇成河流",
+      "translation": null
+    },
+    {
+      "time": 62.499,
+      "time_str": "01:02.499",
+      "text": "热泪在心中  汇成河流",
+      "translation": null
+    },
+    {
+      "time": 88.499,
+      "time_str": "01:28.499",
+      "text": "让我与你握别",
+      "translation": null
+    },
+    {
+      "time": 96.499,
+      "time_str": "01:36.499",
+      "text": "再轻轻抽出我的手",
+      "translation": null
+    },
+    {
+      "time": 103.499,
+      "time_str": "01:43.499",
+      "text": "是那样万般无奈的凝视",
+      "translation": null
+    },
+    {
+      "time": 110.499,
+      "time_str": "01:50.499",
+      "text": "渡口旁找不到",
+      "translation": null
+    },
+    {
+      "time": 115.499,
+      "time_str": "01:55.499",
+      "text": "一朵相送的花",
+      "translation": null
+    },
+    {
+      "time": 120.499,
+      "time_str": "02:00.499",
+      "text": "就把祝福别在襟上吧",
+      "translation": null
+    },
+    {
+      "time": 127.499,
+      "time_str": "02:07.499",
+      "text": "而明日  明日  又隔天涯",
+      "translation": null
+    },
+    {
+      "time": 150.5,
+      "time_str": "02:30.500",
+      "text": "让我与你握别",
+      "translation": null
+    },
+    {
+      "time": 158.5,
+      "time_str": "02:38.500",
+      "text": "再轻轻抽出我的手",
+      "translation": null
+    },
+    {
+      "time": 165.5,
+      "time_str": "02:45.500",
+      "text": "是那样万般无奈的凝视",
+      "translation": null
+    },
+    {
+      "time": 172.5,
+      "time_str": "02:52.500",
+      "text": "渡口旁找不到",
+      "translation": null
+    },
+    {
+      "time": 177.5,
+      "time_str": "02:57.500",
+      "text": "一朵相送的花",
+      "translation": null
+    },
+    {
+      "time": 182.5,
+      "time_str": "03:02.500",
+      "text": "就把祝福别在襟上吧",
+      "translation": null
+    },
+    {
+      "time": 189.5,
+      "time_str": "03:09.500",
+      "text": "而明日  明日  又隔天涯",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "FERRY - 蔡琴.lrc"
+}

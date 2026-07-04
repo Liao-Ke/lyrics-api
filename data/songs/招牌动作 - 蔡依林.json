@@ -1,0 +1,538 @@
+{
+  "title": "招牌动作",
+  "title_raw": "招牌动作",
+  "version": null,
+  "artist": "蔡依林",
+  "group_key": "招牌动作|蔡依林",
+  "writers": {
+    "lyricist": "陈镇川",
+    "composer": "Edward Chan/Charles Lee",
+    "arranger": "吕绍淳/林芳岑"
+  },
+  "lyrics": [
+    {
+      "time": 0.23,
+      "time_str": "00:00.230",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 0.84,
+      "time_str": "00:00.840",
+      "text": "抬起头",
+      "translation": null
+    },
+    {
+      "time": 1.86,
+      "time_str": "00:01.860",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 2.66,
+      "time_str": "00:02.660",
+      "text": "别害羞",
+      "translation": null
+    },
+    {
+      "time": 19.98,
+      "time_str": "00:19.980",
+      "text": "衣服穿什么",
+      "translation": null
+    },
+    {
+      "time": 21.66,
+      "time_str": "00:21.660",
+      "text": "走什么风格",
+      "translation": null
+    },
+    {
+      "time": 23.41,
+      "time_str": "00:23.410",
+      "text": "为什么觉得 你的一切那么眼熟",
+      "translation": null
+    },
+    {
+      "time": 26.8,
+      "time_str": "00:26.800",
+      "text": "那口红的颜色",
+      "translation": null
+    },
+    {
+      "time": 28.54,
+      "time_str": "00:28.540",
+      "text": "连走路的动作",
+      "translation": null
+    },
+    {
+      "time": 30.29,
+      "time_str": "00:30.290",
+      "text": "忙了几个",
+      "translation": null
+    },
+    {
+      "time": 31.4,
+      "time_str": "00:31.400",
+      "text": "钟头",
+      "translation": null
+    },
+    {
+      "time": 31.65,
+      "time_str": "00:31.650",
+      "text": "努力当个分身干什么",
+      "translation": null
+    },
+    {
+      "time": 41.27,
+      "time_str": "00:41.270",
+      "text": "做事要原则",
+      "translation": null
+    },
+    {
+      "time": 42.95,
+      "time_str": "00:42.950",
+      "text": "做人要独特",
+      "translation": null
+    },
+    {
+      "time": 44.59,
+      "time_str": "00:44.590",
+      "text": "跟旧的路线走 怎么可能会跑在前头",
+      "translation": null
+    },
+    {
+      "time": 48.52,
+      "time_str": "00:48.520",
+      "text": "一旦失去自我",
+      "translation": null
+    },
+    {
+      "time": 50.01,
+      "time_str": "00:50.010",
+      "text": "下一步该怎么走",
+      "translation": null
+    },
+    {
+      "time": 52.01,
+      "time_str": "00:52.010",
+      "text": "前后左右可都是对手",
+      "translation": null
+    },
+    {
+      "time": 55.31,
+      "time_str": "00:55.310",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 55.94,
+      "time_str": "00:55.940",
+      "text": "抬起头",
+      "translation": null
+    },
+    {
+      "time": 57.02,
+      "time_str": "00:57.020",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 57.75,
+      "time_str": "00:57.750",
+      "text": "举个手",
+      "translation": null
+    },
+    {
+      "time": 58.84,
+      "time_str": "00:58.840",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 59.51,
+      "time_str": "00:59.510",
+      "text": "想个属于你自己的招牌动作",
+      "translation": null
+    },
+    {
+      "time": 62.29,
+      "time_str": "01:02.290",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 63.06,
+      "time_str": "01:03.060",
+      "text": "甩个头",
+      "translation": null
+    },
+    {
+      "time": 64.18,
+      "time_str": "01:04.180",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 64.82,
+      "time_str": "01:04.820",
+      "text": "扭一扭",
+      "translation": null
+    },
+    {
+      "time": 65.86,
+      "time_str": "01:05.860",
+      "text": "Hey Come On Everybody",
+      "translation": null
+    },
+    {
+      "time": 67.72,
+      "time_str": "01:07.720",
+      "text": "通通被你迷惑",
+      "translation": null
+    },
+    {
+      "time": 69.45,
+      "time_str": "01:09.450",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 70.21,
+      "time_str": "01:10.210",
+      "text": "动一动",
+      "translation": null
+    },
+    {
+      "time": 71.26,
+      "time_str": "01:11.260",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 71.96,
+      "time_str": "01:11.960",
+      "text": "举个手",
+      "translation": null
+    },
+    {
+      "time": 73.06,
+      "time_str": "01:13.060",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 73.74,
+      "time_str": "01:13.740",
+      "text": "想个属于你自己的招牌动作",
+      "translation": null
+    },
+    {
+      "time": 76.56,
+      "time_str": "01:16.560",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 77.26,
+      "time_str": "01:17.260",
+      "text": "甩个头",
+      "translation": null
+    },
+    {
+      "time": 78.34,
+      "time_str": "01:18.340",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 79.05,
+      "time_str": "01:19.050",
+      "text": "扭一扭",
+      "translation": null
+    },
+    {
+      "time": 80.08,
+      "time_str": "01:20.080",
+      "text": "Hey Come On Everybody",
+      "translation": null
+    },
+    {
+      "time": 81.61,
+      "time_str": "01:21.610",
+      "text": "他的目光会被你掌握",
+      "translation": null
+    },
+    {
+      "time": 90.8,
+      "time_str": "01:30.800",
+      "text": "暂停一秒钟",
+      "translation": null
+    },
+    {
+      "time": 92.79,
+      "time_str": "01:32.790",
+      "text": "想到了没有",
+      "translation": null
+    },
+    {
+      "time": 94.27,
+      "time_str": "01:34.270",
+      "text": "没有什么对错 只要切记千万别做作",
+      "translation": null
+    },
+    {
+      "time": 98.41,
+      "time_str": "01:38.410",
+      "text": "一旦找到自我",
+      "translation": null
+    },
+    {
+      "time": 99.86,
+      "time_str": "01:39.860",
+      "text": "看一眼就会记得",
+      "translation": null
+    },
+    {
+      "time": 101.9,
+      "time_str": "01:41.900",
+      "text": "随波逐流可不会快乐",
+      "translation": null
+    },
+    {
+      "time": 105.01,
+      "time_str": "01:45.010",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 105.72,
+      "time_str": "01:45.720",
+      "text": "抬起头",
+      "translation": null
+    },
+    {
+      "time": 106.77,
+      "time_str": "01:46.770",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 107.49,
+      "time_str": "01:47.490",
+      "text": "举个手",
+      "translation": null
+    },
+    {
+      "time": 108.55,
+      "time_str": "01:48.550",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 109.27,
+      "time_str": "01:49.270",
+      "text": "想个属于你自己的招牌动作",
+      "translation": null
+    },
+    {
+      "time": 112.11,
+      "time_str": "01:52.110",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 112.81,
+      "time_str": "01:52.810",
+      "text": "甩个头",
+      "translation": null
+    },
+    {
+      "time": 113.86,
+      "time_str": "01:53.860",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 114.6,
+      "time_str": "01:54.600",
+      "text": "扭一扭",
+      "translation": null
+    },
+    {
+      "time": 115.66,
+      "time_str": "01:55.660",
+      "text": "Hey Come On Everybody",
+      "translation": null
+    },
+    {
+      "time": 117.15,
+      "time_str": "01:57.150",
+      "text": "他的目光会被你掌握",
+      "translation": null
+    },
+    {
+      "time": 126.2,
+      "time_str": "02:06.200",
+      "text": "Hey",
+      "translation": null
+    },
+    {
+      "time": 126.79,
+      "time_str": "02:06.790",
+      "text": "不会错 最简单那个动作",
+      "translation": null
+    },
+    {
+      "time": 130.34,
+      "time_str": "02:10.340",
+      "text": "不会错 没有人和你会相同",
+      "translation": null
+    },
+    {
+      "time": 153.07,
+      "time_str": "02:33.070",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 153.68,
+      "time_str": "02:33.680",
+      "text": "抬起头",
+      "translation": null
+    },
+    {
+      "time": 154.85,
+      "time_str": "02:34.850",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 155.44,
+      "time_str": "02:35.440",
+      "text": "举个手",
+      "translation": null
+    },
+    {
+      "time": 156.55,
+      "time_str": "02:36.550",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 157.23,
+      "time_str": "02:37.230",
+      "text": "想个属于你自己的招牌动作",
+      "translation": null
+    },
+    {
+      "time": 160.06,
+      "time_str": "02:40.060",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 160.82,
+      "time_str": "02:40.820",
+      "text": "甩个头",
+      "translation": null
+    },
+    {
+      "time": 161.94,
+      "time_str": "02:41.940",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 162.56,
+      "time_str": "02:42.560",
+      "text": "扭一扭",
+      "translation": null
+    },
+    {
+      "time": 163.64,
+      "time_str": "02:43.640",
+      "text": "Hey Come On Everybody",
+      "translation": null
+    },
+    {
+      "time": 165.48,
+      "time_str": "02:45.480",
+      "text": "通通被你迷惑",
+      "translation": null
+    },
+    {
+      "time": 167.26,
+      "time_str": "02:47.260",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 167.89,
+      "time_str": "02:47.890",
+      "text": "动一动",
+      "translation": null
+    },
+    {
+      "time": 168.95,
+      "time_str": "02:48.950",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 169.66,
+      "time_str": "02:49.660",
+      "text": "举个手",
+      "translation": null
+    },
+    {
+      "time": 170.75,
+      "time_str": "02:50.750",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 171.46,
+      "time_str": "02:51.460",
+      "text": "想个属于你自己的招牌动作",
+      "translation": null
+    },
+    {
+      "time": 174.25,
+      "time_str": "02:54.250",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 175.01,
+      "time_str": "02:55.010",
+      "text": "甩个头",
+      "translation": null
+    },
+    {
+      "time": 176.07,
+      "time_str": "02:56.070",
+      "text": "Up Up",
+      "translation": null
+    },
+    {
+      "time": 176.77,
+      "time_str": "02:56.770",
+      "text": "扭一扭",
+      "translation": null
+    },
+    {
+      "time": 177.84,
+      "time_str": "02:57.840",
+      "text": "Hey Come On Everybody",
+      "translation": null
+    },
+    {
+      "time": 179.37,
+      "time_str": "02:59.370",
+      "text": "他的目光会被你掌握",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "招牌动作 - 蔡依林.lrc"
+}

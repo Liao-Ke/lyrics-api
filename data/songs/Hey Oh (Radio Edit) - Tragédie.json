@@ -1,0 +1,400 @@
+{
+  "title": "Hey Oh",
+  "title_raw": "Hey Oh (Radio Edit)",
+  "version": "Radio Edit",
+  "artist": "Tragédie",
+  "group_key": "hey oh|tragédie",
+  "writers": {
+    "lyricist": "Silky Shai/Tizy Bone",
+    "composer": "Dj Dem's/Silky Shai/Dom Bamboo/Tizy Bone",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.32,
+      "time_str": "00:08.320",
+      "text": "Ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 13.23,
+      "time_str": "00:13.230",
+      "text": "Ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 15.58,
+      "time_str": "00:15.580",
+      "text": "Ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 18.25,
+      "time_str": "00:18.250",
+      "text": "Ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 20.61,
+      "time_str": "00:20.610",
+      "text": "Est-ce que tu m'entends hey ho !",
+      "translation": "你是否听到我的声音， 哎哦"
+    },
+    {
+      "time": 22.97,
+      "time_str": "00:22.970",
+      "text": "Est-ce que tu me sens hey ho !",
+      "translation": "你是否心中已有我，哎哦"
+    },
+    {
+      "time": 25.25,
+      "time_str": "00:25.250",
+      "text": "Touche moi je suis là hey ho!",
+      "translation": "我在这里亲亲我，哎哦"
+    },
+    {
+      "time": 27.82,
+      "time_str": "00:27.820",
+      "text": "ho ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 30.47,
+      "time_str": "00:30.470",
+      "text": "S'il te plaît réponds moi hey ho",
+      "translation": "请回答我！哎哦"
+    },
+    {
+      "time": 32.75,
+      "time_str": "00:32.750",
+      "text": "Un geste suffira hey ho !",
+      "translation": "打一个手势就行喽， 哎哦"
+    },
+    {
+      "time": 35.17,
+      "time_str": "00:35.170",
+      "text": "Est-ce que tu m'aperçois hey ho!",
+      "translation": "你是否发现我 哎哦"
+    },
+    {
+      "time": 38.42,
+      "time_str": "00:38.420",
+      "text": "Ho ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 41.29,
+      "time_str": "00:41.290",
+      "text": "Sa fait longtemps' qu'en bas de ta fenêtre",
+      "translation": "在你窗下我久等没动窝"
+    },
+    {
+      "time": 45.74,
+      "time_str": "00:45.740",
+      "text": "J'appelle vainement mais personne ne répond",
+      "translation": "白喊没人回答我"
+    },
+    {
+      "time": 51.2,
+      "time_str": "00:51.200",
+      "text": "Fais juste un signe pour montrer que t'es là",
+      "translation": "打个招呼证明你在家唷"
+    },
+    {
+      "time": 57.08,
+      "time_str": "00:57.080",
+      "text": "Ho yé ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 61.52,
+      "time_str": "01:01.520",
+      "text": "Déjà deux heures qu'en bas de chez toi",
+      "translation": "在你窗下两小时为的是等候"
+    },
+    {
+      "time": 66.15,
+      "time_str": "01:06.150",
+      "text": "Je cris ton nom mais personne m'entend juste un signe suffira",
+      "translation": "喊你没答应，打个招呼就行喽"
+    },
+    {
+      "time": 71.59,
+      "time_str": "01:11.590",
+      "text": "baisse la tête ho ! Regarde qui est là",
+      "translation": "低头看哦！看谁在这里"
+    },
+    {
+      "time": 77.81,
+      "time_str": "01:17.810",
+      "text": "Ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "Est-ce que tu m'entends hey ho !",
+      "translation": "你是否听到我的声，哎哦"
+    },
+    {
+      "time": 84.2,
+      "time_str": "01:24.200",
+      "text": "Est-ce que tu me sens hey ho !",
+      "translation": "你是否听到我的声，哎哦"
+    },
+    {
+      "time": 86.52,
+      "time_str": "01:26.520",
+      "text": "Touche moi je suis là hey ho!",
+      "translation": "我在这里亲亲我，哎哦"
+    },
+    {
+      "time": 89.11,
+      "time_str": "01:29.110",
+      "text": "ho ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 91.77,
+      "time_str": "01:31.770",
+      "text": "S'il te plaît réponds moi hey ho",
+      "translation": "请回答我！哎哦"
+    },
+    {
+      "time": 94.38,
+      "time_str": "01:34.380",
+      "text": "Un geste suffira hey ho !",
+      "translation": "打一个手势就行喽， 哎哦"
+    },
+    {
+      "time": 96.83,
+      "time_str": "01:36.830",
+      "text": "Est-ce que tu m'aperçois hey ho!",
+      "translation": "你是否发现我 哎哦"
+    },
+    {
+      "time": 99.32,
+      "time_str": "01:39.320",
+      "text": "Ho ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 102.44,
+      "time_str": "01:42.440",
+      "text": "Je sais que t'es là mais tu n'entends pas",
+      "translation": "我知道你在那里，你却没有听到"
+    },
+    {
+      "time": 107.25,
+      "time_str": "01:47.250",
+      "text": "Qu'en bas de chez toi je t'appelle mais tu n' réponds pas",
+      "translation": "在你家楼下我打电话给你，但你没回答我"
+    },
+    {
+      "time": 112.12,
+      "time_str": "01:52.120",
+      "text": "Je sais que t'es là' mais tu n'entends pas",
+      "translation": "我知道你在那里，你却没有听到"
+    },
+    {
+      "time": 117.91,
+      "time_str": "01:57.910",
+      "text": "Qu'en bas de chez toi je t'appelle",
+      "translation": "在你家楼下我打电话给你"
+    },
+    {
+      "time": 122.72,
+      "time_str": "02:02.720",
+      "text": "Est-ce que tu m'entends ?",
+      "translation": "你可明白我的意思？"
+    },
+    {
+      "time": 124.83,
+      "time_str": "02:04.830",
+      "text": "Est-ce que tu me sens ?",
+      "translation": "你可明白我的意思？"
+    },
+    {
+      "time": 126.51,
+      "time_str": "02:06.510",
+      "text": "Un geste suffira s'il te plait réponds-moi",
+      "translation": "打一个手势就行"
+    },
+    {
+      "time": 129.7,
+      "time_str": "02:09.700",
+      "text": "Est-ce que tu m'aperçois ?",
+      "translation": "你是否发现我"
+    },
+    {
+      "time": 131.73,
+      "time_str": "02:11.730",
+      "text": "Car en bas de chez toi je fais les cents pas",
+      "translation": "我知道你在那里，你却没有听到"
+    },
+    {
+      "time": 134.62,
+      "time_str": "02:14.620",
+      "text": "Est-ce que tu me vois ?",
+      "translation": "你可看到我？"
+    },
+    {
+      "time": 136.55,
+      "time_str": "02:16.550",
+      "text": "Dis-le moi",
+      "translation": "告诉我"
+    },
+    {
+      "time": 143.7,
+      "time_str": "02:23.700",
+      "text": "Est-ce que tu m'entends hey ho !",
+      "translation": "你是否听到我的声，哎哦"
+    },
+    {
+      "time": 146.3,
+      "time_str": "02:26.300",
+      "text": "Est-ce que tu me sens hey ho !",
+      "translation": "你是否听到我的声，哎哦"
+    },
+    {
+      "time": 148.46,
+      "time_str": "02:28.460",
+      "text": "Touche moi je suis là hey ho!",
+      "translation": "我在这里亲亲我，哎哦"
+    },
+    {
+      "time": 150.14,
+      "time_str": "02:30.140",
+      "text": "ho ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 153.42,
+      "time_str": "02:33.420",
+      "text": "S'il te plaît réponds moi hey ho",
+      "translation": "请回答我！哎哦"
+    },
+    {
+      "time": 156.04,
+      "time_str": "02:36.040",
+      "text": "Un geste suffira hey ho !",
+      "translation": "打一个手势就行喽， 哎哦"
+    },
+    {
+      "time": 158.76,
+      "time_str": "02:38.760",
+      "text": "Est-ce que tu m'aperçois hey ho!",
+      "translation": "你是否发现我 哎哦"
+    },
+    {
+      "time": 160.67,
+      "time_str": "02:40.670",
+      "text": "Ho ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 164.14,
+      "time_str": "02:44.140",
+      "text": "La seule chose que j'attends'",
+      "translation": "我丧失唯一的希望”"
+    },
+    {
+      "time": 166.51,
+      "time_str": "02:46.510",
+      "text": "C'est juste que tu descendes",
+      "translation": "你亲手解决了它"
+    },
+    {
+      "time": 168.42,
+      "time_str": "02:48.420",
+      "text": "Trop longtemps que j'attends",
+      "translation": "我已经等了太久了"
+    },
+    {
+      "time": 171.26,
+      "time_str": "02:51.260",
+      "text": "Je commence à perdre patience",
+      "translation": "我开始失去耐心"
+    },
+    {
+      "time": 173.53,
+      "time_str": "02:53.530",
+      "text": "J'ai appris que tu aimais sa",
+      "translation": "我知道你爱她"
+    },
+    {
+      "time": 176.32,
+      "time_str": "02:56.320",
+      "text": "Faire languir tous les mecs comme moi",
+      "translation": "打个招呼证明你在家唷"
+    },
+    {
+      "time": 178.37,
+      "time_str": "02:58.370",
+      "text": "Et celui qui s'acharnera",
+      "translation": "你是否发现我 哎哦"
+    },
+    {
+      "time": 181.29,
+      "time_str": "03:01.290",
+      "text": "Ce sera lui que tu choisiras",
+      "translation": "你会选择他"
+    },
+    {
+      "time": 184.39,
+      "time_str": "03:04.390",
+      "text": "Est-ce que tu m'entends hey ho !",
+      "translation": "你是否听到我的声， 哎哦"
+    },
+    {
+      "time": 186.65,
+      "time_str": "03:06.650",
+      "text": "Est-ce que tu me sens hey ho !",
+      "translation": "你是否心中已有我，哎哦"
+    },
+    {
+      "time": 188.95,
+      "time_str": "03:08.950",
+      "text": "Touche moi je suis là hey ho!",
+      "translation": "我在这里亲亲我，哎哦"
+    },
+    {
+      "time": 191.4,
+      "time_str": "03:11.400",
+      "text": "ho ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 194.15,
+      "time_str": "03:14.150",
+      "text": "S'il te plaît réponds moi hey ho",
+      "translation": "请回答我！哎哦"
+    },
+    {
+      "time": 197.0,
+      "time_str": "03:17.000",
+      "text": "Un geste suffira hey ho !",
+      "translation": "打一个手势就行喽， 哎哦"
+    },
+    {
+      "time": 199.51,
+      "time_str": "03:19.510",
+      "text": "Est-ce que tu m'aperçois hey ho!",
+      "translation": "你是否发现我 哎哦"
+    },
+    {
+      "time": 202.07,
+      "time_str": "03:22.070",
+      "text": "Ho ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    },
+    {
+      "time": 204.64,
+      "time_str": "03:24.640",
+      "text": "Ho ho ho ho ho ho ho",
+      "translation": "哦 哦 哦 哦"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Hey Oh (Radio Edit) - Tragédie.lrc"
+}

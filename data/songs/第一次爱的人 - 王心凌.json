@@ -1,0 +1,208 @@
+{
+  "title": "第一次爱的人",
+  "title_raw": "第一次爱的人",
+  "version": null,
+  "artist": "王心凌",
+  "group_key": "第一次爱的人|王心凌",
+  "writers": {
+    "lyricist": "林怡芬",
+    "composer": "Marion Elise Ravn/Marit Elisabeth larsen/Matt Rowe",
+    "arranger": "Terence Teo"
+  },
+  "lyrics": [
+    {
+      "time": 20.342,
+      "time_str": "00:20.342",
+      "text": "灰色的天　你的脸",
+      "translation": null
+    },
+    {
+      "time": 24.956,
+      "time_str": "00:24.956",
+      "text": "爱过也哭过笑过痛过之后只剩再见",
+      "translation": null
+    },
+    {
+      "time": 30.051,
+      "time_str": "00:30.051",
+      "text": "我的眼泪　湿了脸",
+      "translation": null
+    },
+    {
+      "time": 35.489,
+      "time_str": "00:35.489",
+      "text": "失去第一次爱的人竟然是这种感觉",
+      "translation": null
+    },
+    {
+      "time": 40.543,
+      "time_str": "00:40.543",
+      "text": "总以为　爱是全部的心跳　失去爱我们就要",
+      "translation": null
+    },
+    {
+      "time": 47.095,
+      "time_str": "00:47.095",
+      "text": "就要　一点点慢慢地死掉",
+      "translation": null
+    },
+    {
+      "time": 51.197,
+      "time_str": "00:51.197",
+      "text": "当我　失去你那一秒　心突然就变老",
+      "translation": null
+    },
+    {
+      "time": 58.252,
+      "time_str": "00:58.252",
+      "text": "The day you went away",
+      "translation": null
+    },
+    {
+      "time": 60.853,
+      "time_str": "01:00.853",
+      "text": "喧闹的街　没发现我的泪　被遗忘在街角",
+      "translation": null
+    },
+    {
+      "time": 67.65,
+      "time_str": "01:07.650",
+      "text": "The day you went away",
+      "translation": null
+    },
+    {
+      "time": 83.877,
+      "time_str": "01:23.877",
+      "text": "我看着你　走过街",
+      "translation": null
+    },
+    {
+      "time": 89.256,
+      "time_str": "01:29.256",
+      "text": "还穿着去年夏天我送你的那双球鞋",
+      "translation": null
+    },
+    {
+      "time": 93.986,
+      "time_str": "01:33.986",
+      "text": "银色手链　还耀眼",
+      "translation": null
+    },
+    {
+      "time": 99.264,
+      "time_str": "01:39.264",
+      "text": "你的世界似乎一点也没有因此改变",
+      "translation": null
+    },
+    {
+      "time": 104.242,
+      "time_str": "01:44.242",
+      "text": "总以为　爱是全部的心跳　失去爱我们就要",
+      "translation": null
+    },
+    {
+      "time": 110.887,
+      "time_str": "01:50.887",
+      "text": "就要　一点点慢慢地死掉",
+      "translation": null
+    },
+    {
+      "time": 114.96,
+      "time_str": "01:54.960",
+      "text": "当我　失去你那一秒　心突然就变老",
+      "translation": null
+    },
+    {
+      "time": 121.521,
+      "time_str": "02:01.521",
+      "text": "The day you went away",
+      "translation": null
+    },
+    {
+      "time": 125.275,
+      "time_str": "02:05.275",
+      "text": "喧闹的街　没发现我的泪　被遗忘在街角",
+      "translation": null
+    },
+    {
+      "time": 131.472,
+      "time_str": "02:11.472",
+      "text": "The day you went away",
+      "translation": null
+    },
+    {
+      "time": 137.038,
+      "time_str": "02:17.038",
+      "text": "The day you went away",
+      "translation": null
+    },
+    {
+      "time": 150.654,
+      "time_str": "02:30.654",
+      "text": "总以为　爱是全部的心跳　失去爱我们就要",
+      "translation": null
+    },
+    {
+      "time": 156.871,
+      "time_str": "02:36.871",
+      "text": "就要　一点点慢慢地死掉",
+      "translation": null
+    },
+    {
+      "time": 160.956,
+      "time_str": "02:40.956",
+      "text": "当我　失去你那一秒　心突然就变老",
+      "translation": null
+    },
+    {
+      "time": 167.402,
+      "time_str": "02:47.402",
+      "text": "The day you went away",
+      "translation": null
+    },
+    {
+      "time": 170.567,
+      "time_str": "02:50.567",
+      "text": "喧闹的街　没发现我的泪　被遗忘在街角",
+      "translation": null
+    },
+    {
+      "time": 177.638,
+      "time_str": "02:57.638",
+      "text": "The day you went away",
+      "translation": null
+    },
+    {
+      "time": 181.234,
+      "time_str": "03:01.234",
+      "text": "有一天　也许我能把自己治好",
+      "translation": null
+    },
+    {
+      "time": 185.526,
+      "time_str": "03:05.526",
+      "text": "再一次想起来　应该要怎么笑",
+      "translation": null
+    },
+    {
+      "time": 191.013,
+      "time_str": "03:11.013",
+      "text": "第一次爱的人他的坏他的好",
+      "translation": null
+    },
+    {
+      "time": 195.85,
+      "time_str": "03:15.850",
+      "text": "却像胸口刺青　是永远的记号",
+      "translation": null
+    },
+    {
+      "time": 200.733,
+      "time_str": "03:20.733",
+      "text": "跟着我的呼吸　直到停止心跳",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "第一次爱的人 - 王心凌.lrc"
+}

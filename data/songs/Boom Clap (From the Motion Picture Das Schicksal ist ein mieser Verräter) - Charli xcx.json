@@ -1,0 +1,412 @@
+{
+  "title": "Boom Clap",
+  "title_raw": "Boom Clap (From the Motion Picture Das Schicksal ist ein mieser Verräter)",
+  "version": "From the Motion Picture Das Schicksal ist ein mieser Verräter",
+  "artist": "Charli xcx",
+  "group_key": "boom clap|charli xcx",
+  "writers": {
+    "lyricist": "Charli xcx/Stefan Gräslund/Patrik Berger/Fredrik Berger",
+    "composer": "Charli xcx/Stefan Gräslund/Patrik Berger/Fredrik Berger",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.8,
+      "time_str": "00:13.800",
+      "text": "You're picture perfect blue",
+      "translation": "你是如此的忧郁深蓝（Charli曾提及自己的联觉症 这首歌中的Boy让她联想到了蓝色）"
+    },
+    {
+      "time": 16.23,
+      "time_str": "00:16.230",
+      "text": "Sunbathing on the moon",
+      "translation": "如月亮反射着阳光"
+    },
+    {
+      "time": 18.67,
+      "time_str": "00:18.670",
+      "text": "Stars shining as your bones illuminate",
+      "translation": "群星闪耀 一如你骨髓中的光斑（在电影The Fault in The Stars中 男主的病症即会在照片时 在骨头里留下光斑）"
+    },
+    {
+      "time": 21.56,
+      "time_str": "00:21.560",
+      "text": "First kiss just like a drug",
+      "translation": "初吻好似一剂猛药"
+    },
+    {
+      "time": 26.59,
+      "time_str": "00:26.590",
+      "text": "Under your influence",
+      "translation": "让我沦陷于你"
+    },
+    {
+      "time": 29.12,
+      "time_str": "00:29.120",
+      "text": "You take me over you're the magic in my veins",
+      "translation": "你已将我占据 就像我的血液里流淌的魔力"
+    },
+    {
+      "time": 32.64,
+      "time_str": "00:32.640",
+      "text": "This must be love",
+      "translation": "这一定就是爱"
+    },
+    {
+      "time": 34.11,
+      "time_str": "00:34.110",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 35.34,
+      "time_str": "00:35.340",
+      "text": "The sound of my heart",
+      "translation": "就像我的心跳"
+    },
+    {
+      "time": 36.73,
+      "time_str": "00:36.730",
+      "text": "The beat goes on and on and on and on and",
+      "translation": "一声声 从不停歇"
+    },
+    {
+      "time": 39.43,
+      "time_str": "00:39.430",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 40.32,
+      "time_str": "00:40.320",
+      "text": "You make me feel good",
+      "translation": "你让我欣喜雀跃"
+    },
+    {
+      "time": 41.75,
+      "time_str": "00:41.750",
+      "text": "Come on to me come on to me now",
+      "translation": "请来我身边 请来到我的身边"
+    },
+    {
+      "time": 44.73,
+      "time_str": "00:44.730",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 45.65,
+      "time_str": "00:45.650",
+      "text": "The sound of my heart",
+      "translation": "就像我的心跳"
+    },
+    {
+      "time": 47.11,
+      "time_str": "00:47.110",
+      "text": "The beat goes on and on and on and on and",
+      "translation": "一声声 从不停歇"
+    },
+    {
+      "time": 49.74,
+      "time_str": "00:49.740",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 50.68,
+      "time_str": "00:50.680",
+      "text": "You make me feel good",
+      "translation": "你让我欣喜雀跃"
+    },
+    {
+      "time": 52.18,
+      "time_str": "00:52.180",
+      "text": "Come on to me come on to me now",
+      "translation": "请来我身边 请来到我的身边"
+    },
+    {
+      "time": 60.85,
+      "time_str": "01:00.850",
+      "text": "No silver or no gold",
+      "translation": "即使金银"
+    },
+    {
+      "time": 63.19,
+      "time_str": "01:03.190",
+      "text": "Could dress me up so good",
+      "translation": "也无法将我完美点缀"
+    },
+    {
+      "time": 65.74,
+      "time_str": "01:05.740",
+      "text": "You're the glitter in the darkness of my world",
+      "translation": "你就是我的黑暗世界中的光亮"
+    },
+    {
+      "time": 71.32,
+      "time_str": "01:11.320",
+      "text": "Just tell me what to do",
+      "translation": "只要告诉我该怎么做"
+    },
+    {
+      "time": 73.55,
+      "time_str": "01:13.550",
+      "text": "I'll fall right into you",
+      "translation": "我会立刻与你深陷"
+    },
+    {
+      "time": 76.1,
+      "time_str": "01:16.100",
+      "text": "Going under cast a spell just say the word",
+      "translation": "只要你说出那句话 就会如魔咒将我俘获"
+    },
+    {
+      "time": 78.9,
+      "time_str": "01:18.900",
+      "text": "I feel your love",
+      "translation": "我已感受到爱"
+    },
+    {
+      "time": 81.06,
+      "time_str": "01:21.060",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 82.31,
+      "time_str": "01:22.310",
+      "text": "The sound of my heart",
+      "translation": "就像我的心跳"
+    },
+    {
+      "time": 83.58,
+      "time_str": "01:23.580",
+      "text": "The beat goes on and on and on and on and",
+      "translation": "一声声 从不停歇"
+    },
+    {
+      "time": 86.26,
+      "time_str": "01:26.260",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 87.29,
+      "time_str": "01:27.290",
+      "text": "You make me feel good",
+      "translation": "你让我欣喜雀跃"
+    },
+    {
+      "time": 88.69,
+      "time_str": "01:28.690",
+      "text": "Come on to me come on to me now",
+      "translation": "请来我身边 请来到我的身边"
+    },
+    {
+      "time": 91.38,
+      "time_str": "01:31.380",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 92.5,
+      "time_str": "01:32.500",
+      "text": "The sound of my heart",
+      "translation": "就像我的心跳"
+    },
+    {
+      "time": 93.91,
+      "time_str": "01:33.910",
+      "text": "The beat goes on and on and on and on and",
+      "translation": "一声声 从不停歇"
+    },
+    {
+      "time": 96.53,
+      "time_str": "01:36.530",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 97.7,
+      "time_str": "01:37.700",
+      "text": "You make me feel good",
+      "translation": "你让我欣喜雀跃"
+    },
+    {
+      "time": 99.14,
+      "time_str": "01:39.140",
+      "text": "Come on to me come on to me now",
+      "translation": "请来我身边 请来到我的身边"
+    },
+    {
+      "time": 102.3,
+      "time_str": "01:42.300",
+      "text": "You are the light and I will follow",
+      "translation": "你就是我不断追寻的光"
+    },
+    {
+      "time": 107.02,
+      "time_str": "01:47.020",
+      "text": "You let me lose my shadow",
+      "translation": "你让我的阴影烟消云散"
+    },
+    {
+      "time": 114.53,
+      "time_str": "01:54.530",
+      "text": "You are the sun the glowing halo",
+      "translation": "你就是发光发热的太阳"
+    },
+    {
+      "time": 118.59,
+      "time_str": "01:58.590",
+      "text": "And you keep burning me up with all of your love",
+      "translation": "是你用你的爱将我照亮"
+    },
+    {
+      "time": 122.91,
+      "time_str": "02:02.910",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 123.83,
+      "time_str": "02:03.830",
+      "text": "The sound of my heart",
+      "translation": "就像我的心跳"
+    },
+    {
+      "time": 125.12,
+      "time_str": "02:05.120",
+      "text": "The beat goes on and on and on and on and",
+      "translation": "一声声 从不停歇"
+    },
+    {
+      "time": 128.03,
+      "time_str": "02:08.030",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 129.15,
+      "time_str": "02:09.150",
+      "text": "You make me feel good",
+      "translation": "你让我欣喜雀跃"
+    },
+    {
+      "time": 130.48,
+      "time_str": "02:10.480",
+      "text": "Come on to me come on to me now",
+      "translation": "请来我身边 请来到我的身边"
+    },
+    {
+      "time": 133.38,
+      "time_str": "02:13.380",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 134.29,
+      "time_str": "02:14.290",
+      "text": "The sound of my heart",
+      "translation": "就像我的心跳"
+    },
+    {
+      "time": 135.6,
+      "time_str": "02:15.600",
+      "text": "The beat goes on and on and on and on and",
+      "translation": "一声声 从不停歇"
+    },
+    {
+      "time": 138.55,
+      "time_str": "02:18.550",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 139.58,
+      "time_str": "02:19.580",
+      "text": "You make me feel good",
+      "translation": "你让我欣喜雀跃"
+    },
+    {
+      "time": 140.91,
+      "time_str": "02:20.910",
+      "text": "Come on to me come on to me now",
+      "translation": "请来我身边 请来到我的身边"
+    },
+    {
+      "time": 143.63,
+      "time_str": "02:23.630",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 144.79,
+      "time_str": "02:24.790",
+      "text": "The sound of my heart",
+      "translation": "就像我的心跳"
+    },
+    {
+      "time": 146.04,
+      "time_str": "02:26.040",
+      "text": "The beat goes on and on and on and on and",
+      "translation": "一声声 从不停歇"
+    },
+    {
+      "time": 148.87,
+      "time_str": "02:28.870",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 149.88,
+      "time_str": "02:29.880",
+      "text": "You make me feel good",
+      "translation": "你让我欣喜雀跃"
+    },
+    {
+      "time": 151.17,
+      "time_str": "02:31.170",
+      "text": "Come on to me come on to me now",
+      "translation": "请来我身边 请来到我的身边"
+    },
+    {
+      "time": 154.07,
+      "time_str": "02:34.070",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 155.04,
+      "time_str": "02:35.040",
+      "text": "The sound of my heart",
+      "translation": "就像我的心跳"
+    },
+    {
+      "time": 156.24,
+      "time_str": "02:36.240",
+      "text": "The beat goes on and on and on and on and",
+      "translation": "一声声 从不停歇"
+    },
+    {
+      "time": 159.43,
+      "time_str": "02:39.430",
+      "text": "Boom Clap",
+      "translation": "掌声雷动"
+    },
+    {
+      "time": 160.37,
+      "time_str": "02:40.370",
+      "text": "You make me feel good",
+      "translation": "你让我欣喜雀跃"
+    },
+    {
+      "time": 161.83,
+      "time_str": "02:41.830",
+      "text": "Come on to me come on to me now",
+      "translation": "请来我身边 请来到我的身边"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Boom Clap (From the Motion Picture Das Schicksal ist ein mieser Verräter) - Charli xcx.lrc"
+}

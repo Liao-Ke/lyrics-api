@@ -1,0 +1,322 @@
+{
+  "title": "Stay Here Forever",
+  "title_raw": "Stay Here Forever (Acoustic)",
+  "version": "Acoustic",
+  "artist": "Jewel",
+  "group_key": "stay here forever|jewel",
+  "writers": {
+    "lyricist": "Jewel Kilcher/Dallas Davidson/Bobby Pinson",
+    "composer": "Jewel Kilcher/Dallas Davidson/Bobby Pinson",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 5.01,
+      "time_str": "00:05.010",
+      "text": "Oh  Oh  Oh Oh Oh Oh",
+      "translation": "哦（哦）哦（哦）哦，哦"
+    },
+    {
+      "time": 10.81,
+      "time_str": "00:10.810",
+      "text": "I'm laying here dreaming Staring at the ceiling",
+      "translation": "我躺着，盯着天花板做着白日梦"
+    },
+    {
+      "time": 13.43,
+      "time_str": "00:13.430",
+      "text": "Wasting the day away",
+      "translation": "浪费了一整天的时间"
+    },
+    {
+      "time": 16.09,
+      "time_str": "00:16.090",
+      "text": "The world's flying by our window outside",
+      "translation": "世界从我们的窗外飞奔而过"
+    },
+    {
+      "time": 18.45,
+      "time_str": "00:18.450",
+      "text": "But hey baby thats OK",
+      "translation": "但是，嘿，宝贝，这没关系"
+    },
+    {
+      "time": 22.1,
+      "time_str": "00:22.100",
+      "text": "This feels so right it can't be wrong",
+      "translation": "这感觉真棒，不会有错"
+    },
+    {
+      "time": 24.3,
+      "time_str": "00:24.300",
+      "text": "So far as I can see",
+      "translation": "在我能看见的未来里这不会有错"
+    },
+    {
+      "time": 27.02,
+      "time_str": "00:27.020",
+      "text": "Where you wanna go baby",
+      "translation": "你想要去哪，宝贝"
+    },
+    {
+      "time": 28.21,
+      "time_str": "00:28.210",
+      "text": "I'll do anything",
+      "translation": "我会为你做任何事"
+    },
+    {
+      "time": 31.82,
+      "time_str": "00:31.820",
+      "text": "Cause if you wanna go Baby let's go",
+      "translation": "因为如果你想去，宝贝，那我们就出发吧"
+    },
+    {
+      "time": 34.55,
+      "time_str": "00:34.550",
+      "text": "If you wanna rock I am ready to roll",
+      "translation": "如果你想摇摆，我已经准备好了"
+    },
+    {
+      "time": 37.25,
+      "time_str": "00:37.250",
+      "text": "And if you wanna slow down",
+      "translation": "如果你想轻松地、慢慢地度过"
+    },
+    {
+      "time": 42.41,
+      "time_str": "00:42.410",
+      "text": "We can slow down together",
+      "translation": "我们可以一起这么过"
+    },
+    {
+      "time": 44.26,
+      "time_str": "00:44.260",
+      "text": "If you wanna walk Baby let's walk",
+      "translation": "如果你想散散步，宝贝，那我们就一起漫步吧"
+    },
+    {
+      "time": 46.89,
+      "time_str": "00:46.890",
+      "text": "Have a little kiss have a little talk",
+      "translation": "偶尔亲亲嘴，聊聊天"
+    },
+    {
+      "time": 49.65,
+      "time_str": "00:49.650",
+      "text": "We don't gotta leave at all",
+      "translation": "假如不想离开这里，我们就哪儿都不去"
+    },
+    {
+      "time": 54.42,
+      "time_str": "00:54.420",
+      "text": "We can lay here forever",
+      "translation": "我们可以永远躺在这里"
+    },
+    {
+      "time": 56.94,
+      "time_str": "00:56.940",
+      "text": "Stay here forever",
+      "translation": "永远待在这里"
+    },
+    {
+      "time": 59.74,
+      "time_str": "00:59.740",
+      "text": "Oh Oh Oh Oh",
+      "translation": "哦，哦，哦，哦"
+    },
+    {
+      "time": 65.05,
+      "time_str": "01:05.050",
+      "text": "If you wanna see that Italian tower leaning",
+      "translation": "如果你想看到意大利塔倾斜"
+    },
+    {
+      "time": 67.58,
+      "time_str": "01:07.580",
+      "text": "Baby we can leave right now",
+      "translation": "宝贝，我们现在就可以出发"
+    },
+    {
+      "time": 70.54,
+      "time_str": "01:10.540",
+      "text": "If that's too far",
+      "translation": "如果那太远了"
+    },
+    {
+      "time": 71.93,
+      "time_str": "01:11.930",
+      "text": "We can jump in the car and take a little trip around town",
+      "translation": "我们可以跳进车子里，一直绕着小镇旅行"
+    },
+    {
+      "time": 76.39,
+      "time_str": "01:16.390",
+      "text": "They say that California is nice and warm this time of year",
+      "translation": "他们说，加州每年的这个时候是暖融融的"
+    },
+    {
+      "time": 81.87,
+      "time_str": "01:21.870",
+      "text": "Baby say the word and we'll just disappear",
+      "translation": "宝贝，只要你说一句话，我们就可以消失"
+    },
+    {
+      "time": 86.45,
+      "time_str": "01:26.450",
+      "text": "Cause if you wanna go Baby let's go",
+      "translation": "因为如果你想去，宝贝，那我们就出发吧"
+    },
+    {
+      "time": 89.14,
+      "time_str": "01:29.140",
+      "text": "If you wanna rock I'm ready to roll",
+      "translation": "如果你想摇摆，我已经准备好了"
+    },
+    {
+      "time": 91.83,
+      "time_str": "01:31.830",
+      "text": "And if you wanna slow down",
+      "translation": "如果你想轻松地、慢慢地度过"
+    },
+    {
+      "time": 96.64,
+      "time_str": "01:36.640",
+      "text": "We can slow down together",
+      "translation": "我们可以一起这么过"
+    },
+    {
+      "time": 99.0,
+      "time_str": "01:39.000",
+      "text": "If you wanna walk Baby let's walk",
+      "translation": "如果你想散散步，宝贝，那我们就一起漫步吧"
+    },
+    {
+      "time": 101.34,
+      "time_str": "01:41.340",
+      "text": "Have a little kiss have a little talk",
+      "translation": "偶尔亲亲嘴，聊聊天"
+    },
+    {
+      "time": 104.08,
+      "time_str": "01:44.080",
+      "text": "We don't gotta leave at all",
+      "translation": "假如不想离开这里，我们就哪儿都不去"
+    },
+    {
+      "time": 108.72,
+      "time_str": "01:48.720",
+      "text": "We can lay here forever",
+      "translation": "我们可以永远躺在这里"
+    },
+    {
+      "time": 111.42,
+      "time_str": "01:51.420",
+      "text": "Stay here forever",
+      "translation": "永远待在这里"
+    },
+    {
+      "time": 113.62,
+      "time_str": "01:53.620",
+      "text": "Oh It's a big world for a boy and a girl",
+      "translation": "哦，这个大世界里只有我们俩"
+    },
+    {
+      "time": 116.95,
+      "time_str": "01:56.950",
+      "text": "Letting go of it all",
+      "translation": "抛开其他的一切"
+    },
+    {
+      "time": 118.47,
+      "time_str": "01:58.470",
+      "text": "Holding on to one another",
+      "translation": "紧紧拥抱对方"
+    },
+    {
+      "time": 119.58,
+      "time_str": "01:59.580",
+      "text": "Oh there's a whole lot of world to discover",
+      "translation": "哦，我隐藏的内心世界"
+    },
+    {
+      "time": 122.09,
+      "time_str": "02:02.090",
+      "text": "Under the covers",
+      "translation": "你会发现很多"
+    },
+    {
+      "time": 126.09,
+      "time_str": "02:06.090",
+      "text": "So if you wanna go Baby lets go",
+      "translation": "因为如果你想去，宝贝，那我们就出发吧"
+    },
+    {
+      "time": 128.47,
+      "time_str": "02:08.470",
+      "text": "If you wanna rock I'm ready to roll",
+      "translation": "如果你想摇摆，我已经准备好了"
+    },
+    {
+      "time": 131.22,
+      "time_str": "02:11.220",
+      "text": "If you wanna slow down",
+      "translation": "如果你想轻松地、慢慢地度过"
+    },
+    {
+      "time": 135.75,
+      "time_str": "02:15.750",
+      "text": "We can slow down together",
+      "translation": "我们可以一起这么过"
+    },
+    {
+      "time": 138.44,
+      "time_str": "02:18.440",
+      "text": "If you wanna walk Baby lets walk",
+      "translation": "如果你想散散步，宝贝，那我们就一起漫步吧"
+    },
+    {
+      "time": 140.82,
+      "time_str": "02:20.820",
+      "text": "Have a little kiss have a little talk",
+      "translation": "偶尔亲亲嘴，聊聊天"
+    },
+    {
+      "time": 143.61,
+      "time_str": "02:23.610",
+      "text": "We don't gotta leave at all",
+      "translation": "假如不想离开这里，我们就哪儿都不去"
+    },
+    {
+      "time": 148.23,
+      "time_str": "02:28.230",
+      "text": "We can lay here forever",
+      "translation": "我们可以永远躺在这里"
+    },
+    {
+      "time": 150.94,
+      "time_str": "02:30.940",
+      "text": "Stay here forever",
+      "translation": "永远待在这里"
+    },
+    {
+      "time": 153.43,
+      "time_str": "02:33.430",
+      "text": "Let's just lay here forever",
+      "translation": "让我们永远只是躺在这里"
+    },
+    {
+      "time": 155.95,
+      "time_str": "02:35.950",
+      "text": "Stay here forever",
+      "translation": "永远待在这里"
+    },
+    {
+      "time": 159.91,
+      "time_str": "02:39.910",
+      "text": "Oh Oh Oh Oh Oh",
+      "translation": "哦 哦 哦 哦"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Stay Here Forever (Acoustic) - Jewel.lrc"
+}

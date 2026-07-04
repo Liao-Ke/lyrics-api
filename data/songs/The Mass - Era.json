@@ -1,0 +1,424 @@
+{
+  "title": "The Mass",
+  "title_raw": "The Mass",
+  "version": null,
+  "artist": "Era",
+  "group_key": "the mass|era",
+  "writers": {
+    "lyricist": "Cassar & Yvan Eric(AR) & Orff & Carl",
+    "composer": "Yvan Eric Cassar & Eric J. Levisalles & Carl Orff",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.64,
+      "time_str": "00:10.640",
+      "text": "Semper crescis",
+      "translation": "始终满盈"
+    },
+    {
+      "time": 12.78,
+      "time_str": "00:12.780",
+      "text": "Aut decrescis",
+      "translation": "或又虚亏"
+    },
+    {
+      "time": 15.08,
+      "time_str": "00:15.080",
+      "text": "Vita detestabilis",
+      "translation": "可恶的生活"
+    },
+    {
+      "time": 18.37,
+      "time_str": "00:18.370",
+      "text": "Nunc obdurat",
+      "translation": "时而铁石心肠"
+    },
+    {
+      "time": 20.41,
+      "time_str": "00:20.410",
+      "text": "Et tunc curat",
+      "translation": "时而又关心抚慰"
+    },
+    {
+      "time": 22.67,
+      "time_str": "00:22.670",
+      "text": "Ludo mentis aciem",
+      "translation": "当作游戏一般"
+    },
+    {
+      "time": 33.72,
+      "time_str": "00:33.720",
+      "text": "Nunc obdurat",
+      "translation": "时而铁石心肠"
+    },
+    {
+      "time": 35.76,
+      "time_str": "00:35.760",
+      "text": "Et tunc curat",
+      "translation": "时而又关心抚慰"
+    },
+    {
+      "time": 37.99,
+      "time_str": "00:37.990",
+      "text": "Ludo mentis aciem",
+      "translation": "当作游戏一般"
+    },
+    {
+      "time": 41.27,
+      "time_str": "00:41.270",
+      "text": "Egestatem",
+      "translation": "穷困"
+    },
+    {
+      "time": 43.4,
+      "time_str": "00:43.400",
+      "text": "Potestatem",
+      "translation": "权利"
+    },
+    {
+      "time": 45.63,
+      "time_str": "00:45.630",
+      "text": "Dissolvit ut glaciem",
+      "translation": "被它如冰雪般融化"
+    },
+    {
+      "time": 49.63,
+      "time_str": "00:49.630",
+      "text": "Divano",
+      "translation": "神啊"
+    },
+    {
+      "time": 51.53,
+      "time_str": "00:51.530",
+      "text": "Divano me",
+      "translation": "神圣的弥"
+    },
+    {
+      "time": 53.74,
+      "time_str": "00:53.740",
+      "text": "Divano messi",
+      "translation": "神圣的弥赛"
+    },
+    {
+      "time": 55.88,
+      "time_str": "00:55.880",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 59.2,
+      "time_str": "00:59.200",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 62.69,
+      "time_str": "01:02.690",
+      "text": "Divano",
+      "translation": "神啊"
+    },
+    {
+      "time": 64.58,
+      "time_str": "01:04.580",
+      "text": "Divano me",
+      "translation": "神圣的弥"
+    },
+    {
+      "time": 66.84,
+      "time_str": "01:06.840",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 69.01,
+      "time_str": "01:09.010",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 81.66,
+      "time_str": "01:21.660",
+      "text": "Sors salutis",
+      "translation": "命运将我的健康"
+    },
+    {
+      "time": 83.82,
+      "time_str": "01:23.820",
+      "text": "Et virtutis",
+      "translation": "与道德情操"
+    },
+    {
+      "time": 86.03,
+      "time_str": "01:26.030",
+      "text": "Michi nunc contraria",
+      "translation": "时时摧残"
+    },
+    {
+      "time": 89.34,
+      "time_str": "01:29.340",
+      "text": "Est affectus",
+      "translation": "虚耗殆尽"
+    },
+    {
+      "time": 91.4,
+      "time_str": "01:31.400",
+      "text": "Et defectus",
+      "translation": "疲惫不堪"
+    },
+    {
+      "time": 93.55,
+      "time_str": "01:33.550",
+      "text": "Semper in angaria",
+      "translation": "永远疲于奔命"
+    },
+    {
+      "time": 97.03,
+      "time_str": "01:37.030",
+      "text": "Hac in hora",
+      "translation": "就在此刻"
+    },
+    {
+      "time": 99.01,
+      "time_str": "01:39.010",
+      "text": "Sine mora",
+      "translation": "不要拖延"
+    },
+    {
+      "time": 101.36,
+      "time_str": "01:41.360",
+      "text": "Corde pulsum tangite",
+      "translation": "快拨动震颤的琴弦"
+    },
+    {
+      "time": 105.91,
+      "time_str": "01:45.910",
+      "text": "Divano",
+      "translation": "神啊"
+    },
+    {
+      "time": 107.82,
+      "time_str": "01:47.820",
+      "text": "Divano me",
+      "translation": "神圣的弥"
+    },
+    {
+      "time": 110.0,
+      "time_str": "01:50.000",
+      "text": "Divano messi",
+      "translation": "神圣的弥赛"
+    },
+    {
+      "time": 112.33,
+      "time_str": "01:52.330",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 115.51,
+      "time_str": "01:55.510",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 119.07,
+      "time_str": "01:59.070",
+      "text": "Divano",
+      "translation": "神啊"
+    },
+    {
+      "time": 120.97,
+      "time_str": "02:00.970",
+      "text": "Divano me",
+      "translation": "神圣的弥"
+    },
+    {
+      "time": 123.22,
+      "time_str": "02:03.220",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 125.34,
+      "time_str": "02:05.340",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 131.88,
+      "time_str": "02:11.880",
+      "text": "Divano",
+      "translation": "神啊"
+    },
+    {
+      "time": 133.88,
+      "time_str": "02:13.880",
+      "text": "Divano me",
+      "translation": "神圣的弥"
+    },
+    {
+      "time": 135.99,
+      "time_str": "02:15.990",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 138.13,
+      "time_str": "02:18.130",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 145.46,
+      "time_str": "02:25.460",
+      "text": "In divanooooo",
+      "translation": "相信 全能的神~"
+    },
+    {
+      "time": 151.29,
+      "time_str": "02:31.290",
+      "text": "Sors salutis",
+      "translation": "命运将我的健康"
+    },
+    {
+      "time": 153.43,
+      "time_str": "02:33.430",
+      "text": "Et virtutis",
+      "translation": "与道德情操"
+    },
+    {
+      "time": 155.67,
+      "time_str": "02:35.670",
+      "text": "Michi nunc contraria",
+      "translation": "时时摧残"
+    },
+    {
+      "time": 158.97,
+      "time_str": "02:38.970",
+      "text": "Est affectus",
+      "translation": "虚耗殆尽"
+    },
+    {
+      "time": 161.03,
+      "time_str": "02:41.030",
+      "text": "Et defectus",
+      "translation": "疲惫不堪"
+    },
+    {
+      "time": 163.22,
+      "time_str": "02:43.220",
+      "text": "Semper in angaria",
+      "translation": "永远疲于奔命"
+    },
+    {
+      "time": 166.62,
+      "time_str": "02:46.620",
+      "text": "Hac in hora",
+      "translation": "就在此刻"
+    },
+    {
+      "time": 168.74,
+      "time_str": "02:48.740",
+      "text": "Sine mora",
+      "translation": "不要拖延"
+    },
+    {
+      "time": 170.98,
+      "time_str": "02:50.980",
+      "text": "Corde pulsum tangite",
+      "translation": "快拨动震颤的琴弦"
+    },
+    {
+      "time": 175.57,
+      "time_str": "02:55.570",
+      "text": "Divano",
+      "translation": "神啊"
+    },
+    {
+      "time": 177.54,
+      "time_str": "02:57.540",
+      "text": "Divano me",
+      "translation": "神圣的弥"
+    },
+    {
+      "time": 179.69,
+      "time_str": "02:59.690",
+      "text": "Divano messi",
+      "translation": "神圣的弥赛"
+    },
+    {
+      "time": 182.99,
+      "time_str": "03:02.990",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 186.08,
+      "time_str": "03:06.080",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 189.59,
+      "time_str": "03:09.590",
+      "text": "Divano",
+      "translation": "神啊"
+    },
+    {
+      "time": 191.59,
+      "time_str": "03:11.590",
+      "text": "Divano me",
+      "translation": "神圣的弥"
+    },
+    {
+      "time": 193.73,
+      "time_str": "03:13.730",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 195.91,
+      "time_str": "03:15.910",
+      "text": "Divano messia",
+      "translation": "神圣的弥赛亚"
+    },
+    {
+      "time": 200.37,
+      "time_str": "03:20.370",
+      "text": "Hac in hora",
+      "translation": "就在此刻"
+    },
+    {
+      "time": 202.4,
+      "time_str": "03:22.400",
+      "text": "Sine mora",
+      "translation": "不要拖延"
+    },
+    {
+      "time": 204.72,
+      "time_str": "03:24.720",
+      "text": "Corde pulsum tangite",
+      "translation": "快拨动震颤的琴弦"
+    },
+    {
+      "time": 208.02,
+      "time_str": "03:28.020",
+      "text": "Quod per sortem",
+      "translation": "因为命运"
+    },
+    {
+      "time": 210.12,
+      "time_str": "03:30.120",
+      "text": "Sternit fortem",
+      "translation": "打倒了坚强的勇者"
+    },
+    {
+      "time": 212.35,
+      "time_str": "03:32.350",
+      "text": "Mecum omnes plangite",
+      "translation": "所有人请与我一起悲号"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "The Mass - Era.lrc"
+}

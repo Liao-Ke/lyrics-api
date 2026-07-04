@@ -1,0 +1,136 @@
+{
+  "title": "月光小夜曲",
+  "title_raw": "月光小夜曲",
+  "version": null,
+  "artist": "群星",
+  "group_key": "月光小夜曲|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.14,
+      "time_str": "00:07.140",
+      "text": "月亮在我窗前荡漾",
+      "translation": null
+    },
+    {
+      "time": 14.45,
+      "time_str": "00:14.450",
+      "text": "透进了爱的光芒",
+      "translation": null
+    },
+    {
+      "time": 21.9,
+      "time_str": "00:21.900",
+      "text": "我低头静静地想一想",
+      "translation": null
+    },
+    {
+      "time": 29.13,
+      "time_str": "00:29.130",
+      "text": "猜不透你心肠",
+      "translation": null
+    },
+    {
+      "time": 36.52,
+      "time_str": "00:36.520",
+      "text": "好像今晚月亮一样",
+      "translation": null
+    },
+    {
+      "time": 42.93,
+      "time_str": "00:42.930",
+      "text": "忽明忽暗又忽亮",
+      "translation": null
+    },
+    {
+      "time": 47.5,
+      "time_str": "00:47.500",
+      "text": "啊",
+      "translation": null
+    },
+    {
+      "time": 51.38,
+      "time_str": "00:51.380",
+      "text": "到底是爱还是心慌",
+      "translation": null
+    },
+    {
+      "time": 59.4,
+      "time_str": "00:59.400",
+      "text": "啊 月光",
+      "translation": null
+    },
+    {
+      "time": 132.16,
+      "time_str": "02:12.160",
+      "text": "月亮在我窗前荡漾",
+      "translation": null
+    },
+    {
+      "time": 140.26,
+      "time_str": "02:20.260",
+      "text": "透进了爱的光芒",
+      "translation": null
+    },
+    {
+      "time": 147.75,
+      "time_str": "02:27.750",
+      "text": "我低头静静地想一想",
+      "translation": null
+    },
+    {
+      "time": 155.74,
+      "time_str": "02:35.740",
+      "text": "猜不透你心肠",
+      "translation": null
+    },
+    {
+      "time": 164.14,
+      "time_str": "02:44.140",
+      "text": "好像今晚月亮一样",
+      "translation": null
+    },
+    {
+      "time": 171.8,
+      "time_str": "02:51.800",
+      "text": "忽明忽暗又忽亮",
+      "translation": null
+    },
+    {
+      "time": 176.73,
+      "time_str": "02:56.730",
+      "text": "啊",
+      "translation": null
+    },
+    {
+      "time": 180.97,
+      "time_str": "03:00.970",
+      "text": "到底是爱还是心慌",
+      "translation": null
+    },
+    {
+      "time": 189.22,
+      "time_str": "03:09.220",
+      "text": "啊 月光",
+      "translation": null
+    },
+    {
+      "time": 197.55,
+      "time_str": "03:17.550",
+      "text": "到底是爱还是心慌",
+      "translation": null
+    },
+    {
+      "time": 208.0,
+      "time_str": "03:28.000",
+      "text": "啊 月光",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月光小夜曲 - 群星.lrc"
+}

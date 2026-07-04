@@ -1,0 +1,250 @@
+{
+  "title": "不爱我 放了我",
+  "title_raw": "不爱我 放了我",
+  "version": null,
+  "artist": "群星",
+  "group_key": "不爱我 放了我|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 53.97,
+      "time_str": "00:53.970",
+      "text": "我是这样僵着",
+      "translation": null
+    },
+    {
+      "time": 56.25,
+      "time_str": "00:56.250",
+      "text": "忍着苦着等着",
+      "translation": null
+    },
+    {
+      "time": 61.77,
+      "time_str": "01:01.770",
+      "text": "被你那样摆着",
+      "translation": null
+    },
+    {
+      "time": 63.9,
+      "time_str": "01:03.900",
+      "text": "晾着冻着空着",
+      "translation": null
+    },
+    {
+      "time": 67.17,
+      "time_str": "01:07.170",
+      "text": "泪乾了 就让眼枯了",
+      "translation": null
+    },
+    {
+      "time": 73.35,
+      "time_str": "01:13.350",
+      "text": "人走了 就让心死了",
+      "translation": null
+    },
+    {
+      "time": 77.25,
+      "time_str": "01:17.250",
+      "text": "你从来不管我",
+      "translation": null
+    },
+    {
+      "time": 79.32,
+      "time_str": "01:19.320",
+      "text": "是笑的还是哭的",
+      "translation": null
+    },
+    {
+      "time": 84.99,
+      "time_str": "01:24.990",
+      "text": "被你那样 搁着",
+      "translation": null
+    },
+    {
+      "time": 87.03,
+      "time_str": "01:27.030",
+      "text": "放着悬着藏着",
+      "translation": null
+    },
+    {
+      "time": 92.7,
+      "time_str": "01:32.700",
+      "text": "我是这样 熬着",
+      "translation": null
+    },
+    {
+      "time": 94.92,
+      "time_str": "01:34.920",
+      "text": "病着疼着蔓延着",
+      "translation": null
+    },
+    {
+      "time": 100.44,
+      "time_str": "01:40.440",
+      "text": "天黑了别让灯亮着",
+      "translation": null
+    },
+    {
+      "time": 104.34,
+      "time_str": "01:44.340",
+      "text": "你走了就让门关着",
+      "translation": null
+    },
+    {
+      "time": 108.09,
+      "time_str": "01:48.090",
+      "text": "何必非得让我",
+      "translation": null
+    },
+    {
+      "time": 110.4,
+      "time_str": "01:50.400",
+      "text": "在你面前疯了",
+      "translation": null
+    },
+    {
+      "time": 117.36,
+      "time_str": "01:57.360",
+      "text": "不爱我放了我",
+      "translation": null
+    },
+    {
+      "time": 123.63,
+      "time_str": "02:03.630",
+      "text": "别在我的苦中作乐又不走",
+      "translation": null
+    },
+    {
+      "time": 132.9,
+      "time_str": "02:12.900",
+      "text": "不爱我放了我",
+      "translation": null
+    },
+    {
+      "time": 139.17,
+      "time_str": "02:19.170",
+      "text": "别在我心灰意冷时又说爱我",
+      "translation": null
+    },
+    {
+      "time": 189.48,
+      "time_str": "03:09.480",
+      "text": "被你那样 搁着",
+      "translation": null
+    },
+    {
+      "time": 191.55,
+      "time_str": "03:11.550",
+      "text": "放着悬着藏着",
+      "translation": null
+    },
+    {
+      "time": 197.13,
+      "time_str": "03:17.130",
+      "text": "我是这样 熬着",
+      "translation": null
+    },
+    {
+      "time": 199.44,
+      "time_str": "03:19.440",
+      "text": "病着疼着蔓延着",
+      "translation": null
+    },
+    {
+      "time": 204.93,
+      "time_str": "03:24.930",
+      "text": "天黑了别让灯亮着",
+      "translation": null
+    },
+    {
+      "time": 208.89,
+      "time_str": "03:28.890",
+      "text": "你走了就让门关着",
+      "translation": null
+    },
+    {
+      "time": 212.73,
+      "time_str": "03:32.730",
+      "text": "何必非得让我",
+      "translation": null
+    },
+    {
+      "time": 214.83,
+      "time_str": "03:34.830",
+      "text": "在你面前疯了",
+      "translation": null
+    },
+    {
+      "time": 221.91,
+      "time_str": "03:41.910",
+      "text": "不爱我放了我",
+      "translation": null
+    },
+    {
+      "time": 228.21,
+      "time_str": "03:48.210",
+      "text": "别在我的苦中作乐又不走",
+      "translation": null
+    },
+    {
+      "time": 237.39,
+      "time_str": "03:57.390",
+      "text": "不爱我放了我",
+      "translation": null
+    },
+    {
+      "time": 243.66,
+      "time_str": "04:03.660",
+      "text": "别在我心灰意冷时又说爱我",
+      "translation": null
+    },
+    {
+      "time": 252.3,
+      "time_str": "04:12.300",
+      "text": "你想走你就走",
+      "translation": null
+    },
+    {
+      "time": 254.49,
+      "time_str": "04:14.490",
+      "text": "要自由就自由",
+      "translation": null
+    },
+    {
+      "time": 260.01,
+      "time_str": "04:20.010",
+      "text": "我不是你弃又可惜的玩偶",
+      "translation": null
+    },
+    {
+      "time": 270.33,
+      "time_str": "04:30.330",
+      "text": "不爱我放了我",
+      "translation": null
+    },
+    {
+      "time": 274.71,
+      "time_str": "04:34.710",
+      "text": "别在我的苦中作乐又不走",
+      "translation": null
+    },
+    {
+      "time": 283.86,
+      "time_str": "04:43.860",
+      "text": "不爱我放了我",
+      "translation": null
+    },
+    {
+      "time": 290.19,
+      "time_str": "04:50.190",
+      "text": "别在我心灰意冷时又说爱我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不爱我 放了我 - 群星.lrc"
+}

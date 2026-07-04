@@ -1,0 +1,286 @@
+{
+  "title": "我爱他",
+  "title_raw": "我爱他",
+  "version": null,
+  "artist": "丁当",
+  "group_key": "我爱他|丁当",
+  "writers": {
+    "lyricist": "黄婷",
+    "composer": "陈威全",
+    "arranger": "WAVE G"
+  },
+  "lyrics": [
+    {
+      "time": 24.75,
+      "time_str": "00:24.750",
+      "text": "他的轻狂留在",
+      "translation": null
+    },
+    {
+      "time": 27.55,
+      "time_str": "00:27.550",
+      "text": "某一节车厢",
+      "translation": null
+    },
+    {
+      "time": 30.02,
+      "time_str": "00:30.020",
+      "text": "地下铁里的风",
+      "translation": null
+    },
+    {
+      "time": 33.35,
+      "time_str": "00:33.350",
+      "text": "比回忆还重",
+      "translation": null
+    },
+    {
+      "time": 36.06,
+      "time_str": "00:36.060",
+      "text": "整座城市一直等着我",
+      "translation": null
+    },
+    {
+      "time": 40.81,
+      "time_str": "00:40.810",
+      "text": "有一段感情还在漂泊",
+      "translation": null
+    },
+    {
+      "time": 47.69,
+      "time_str": "00:47.690",
+      "text": "对他唯一遗憾",
+      "translation": null
+    },
+    {
+      "time": 51.09,
+      "time_str": "00:51.090",
+      "text": "是分手那天",
+      "translation": null
+    },
+    {
+      "time": 53.84,
+      "time_str": "00:53.840",
+      "text": "我奔腾的眼泪",
+      "translation": null
+    },
+    {
+      "time": 57.21,
+      "time_str": "00:57.210",
+      "text": "都停不下来",
+      "translation": null
+    },
+    {
+      "time": 59.54,
+      "time_str": "00:59.540",
+      "text": "若那一刻重来 我不哭",
+      "translation": null
+    },
+    {
+      "time": 65.11,
+      "time_str": "01:05.110",
+      "text": "让他知道我可以很好",
+      "translation": null
+    },
+    {
+      "time": 69.62,
+      "time_str": "01:09.620",
+      "text": "我爱他 轰轰烈烈最疯狂",
+      "translation": null
+    },
+    {
+      "time": 76.03,
+      "time_str": "01:16.030",
+      "text": "我的梦 狠狠碎过却不会忘",
+      "translation": null
+    },
+    {
+      "time": 81.17,
+      "time_str": "01:21.170",
+      "text": "曾为他 相信明天就是未来",
+      "translation": null
+    },
+    {
+      "time": 87.27,
+      "time_str": "01:27.270",
+      "text": "情节有多坏 都不肯醒来",
+      "translation": null
+    },
+    {
+      "time": 93.21,
+      "time_str": "01:33.210",
+      "text": "我爱他 跌跌撞撞到绝望",
+      "translation": null
+    },
+    {
+      "time": 98.79,
+      "time_str": "01:38.790",
+      "text": "我的心 深深伤过却不会忘",
+      "translation": null
+    },
+    {
+      "time": 104.69,
+      "time_str": "01:44.690",
+      "text": "我和他 不再属于这个地方",
+      "translation": null
+    },
+    {
+      "time": 110.58,
+      "time_str": "01:50.580",
+      "text": "最初的天堂 最终的荒唐",
+      "translation": null
+    },
+    {
+      "time": 148.25,
+      "time_str": "02:28.250",
+      "text": "如果还有遗憾",
+      "translation": null
+    },
+    {
+      "time": 151.52,
+      "time_str": "02:31.520",
+      "text": "又怎么样呢",
+      "translation": null
+    },
+    {
+      "time": 154.25,
+      "time_str": "02:34.250",
+      "text": "伤了痛了懂了",
+      "translation": null
+    },
+    {
+      "time": 157.42,
+      "time_str": "02:37.420",
+      "text": "就能好了吗",
+      "translation": null
+    },
+    {
+      "time": 159.77,
+      "time_str": "02:39.770",
+      "text": "曾经依靠彼此的肩膀",
+      "translation": null
+    },
+    {
+      "time": 164.67,
+      "time_str": "02:44.670",
+      "text": "如今各自在人海流浪",
+      "translation": null
+    },
+    {
+      "time": 169.0,
+      "time_str": "02:49.000",
+      "text": "我爱他 轰轰烈烈最疯狂",
+      "translation": null
+    },
+    {
+      "time": 174.98,
+      "time_str": "02:54.980",
+      "text": "我的梦 狠狠碎过却不会忘",
+      "translation": null
+    },
+    {
+      "time": 180.82,
+      "time_str": "03:00.820",
+      "text": "逃不开 爱越深越互相伤害",
+      "translation": null
+    },
+    {
+      "time": 187.38,
+      "time_str": "03:07.380",
+      "text": "越深的依赖 越多的空白",
+      "translation": null
+    },
+    {
+      "time": 192.41,
+      "time_str": "03:12.410",
+      "text": "该怎么 去爱",
+      "translation": null
+    },
+    {
+      "time": 198.77,
+      "time_str": "03:18.770",
+      "text": "我爱他 轰轰烈烈最疯狂",
+      "translation": null
+    },
+    {
+      "time": 204.07,
+      "time_str": "03:24.070",
+      "text": "我的梦 狠狠碎过却不会忘",
+      "translation": null
+    },
+    {
+      "time": 210.3,
+      "time_str": "03:30.300",
+      "text": "曾为他 相信明天就是未来",
+      "translation": null
+    },
+    {
+      "time": 215.89,
+      "time_str": "03:35.890",
+      "text": "情节有多坏 都不肯醒来",
+      "translation": null
+    },
+    {
+      "time": 222.2,
+      "time_str": "03:42.200",
+      "text": "我爱他 跌跌撞撞到绝望",
+      "translation": null
+    },
+    {
+      "time": 227.5,
+      "time_str": "03:47.500",
+      "text": "我的心 深深伤过却不会忘",
+      "translation": null
+    },
+    {
+      "time": 234.06,
+      "time_str": "03:54.060",
+      "text": "我和他 不再属于这个地方",
+      "translation": null
+    },
+    {
+      "time": 239.44,
+      "time_str": "03:59.440",
+      "text": "最初的天堂 最终的荒唐",
+      "translation": null
+    },
+    {
+      "time": 248.13,
+      "time_str": "04:08.130",
+      "text": "如果还有遗憾",
+      "translation": null
+    },
+    {
+      "time": 251.49,
+      "time_str": "04:11.490",
+      "text": "是分手那天",
+      "translation": null
+    },
+    {
+      "time": 254.53,
+      "time_str": "04:14.530",
+      "text": "我奔腾的眼泪",
+      "translation": null
+    },
+    {
+      "time": 257.12,
+      "time_str": "04:17.120",
+      "text": "都停不下来",
+      "translation": null
+    },
+    {
+      "time": 259.79,
+      "time_str": "04:19.790",
+      "text": "若那一刻重来 我不哭",
+      "translation": null
+    },
+    {
+      "time": 264.76,
+      "time_str": "04:24.760",
+      "text": "让他知道我可以 很好",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我爱他 - 丁当.lrc"
+}

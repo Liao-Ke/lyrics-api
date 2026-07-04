@@ -1,0 +1,340 @@
+{
+  "title": "Batte forte",
+  "title_raw": "Batte forte (Subside Extended Remix)",
+  "version": "Subside Extended Remix",
+  "artist": "Lollipop,Subside",
+  "group_key": "batte forte|lollipop,subside",
+  "writers": {
+    "lyricist": "L. Rana, G. Giorgilli and A. Blescia",
+    "composer": "L. Rana, G. Giorgilli and A. Blescia",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 17.34,
+      "time_str": "00:17.340",
+      "text": "e'passato un anno e siamo qua",
+      "translation": "一年已经过去，我们仍在这里"
+    },
+    {
+      "time": 21.32,
+      "time_str": "00:21.320",
+      "text": "Sotto i fari di questa realta'",
+      "translation": "站在这真实的灯火下"
+    },
+    {
+      "time": 25.25,
+      "time_str": "00:25.250",
+      "text": "Inseguendo strade dove chissa'",
+      "translation": "在熟悉的街道上追逐着"
+    },
+    {
+      "time": 28.66,
+      "time_str": "00:28.660",
+      "text": "Fermeremo il tempo (tempo)",
+      "translation": "让时间也静止（时间）"
+    },
+    {
+      "time": 48.25,
+      "time_str": "00:48.250",
+      "text": "e'passato un anno e siamo qua",
+      "translation": "一年已经过去，我们仍在这里"
+    },
+    {
+      "time": 52.12,
+      "time_str": "00:52.120",
+      "text": "Sotto i fari di questa realta'",
+      "translation": "站在这真实的灯火下"
+    },
+    {
+      "time": 56.07,
+      "time_str": "00:56.070",
+      "text": "Inseguendo strade dove chissa'",
+      "translation": "在熟悉的街道上追逐着"
+    },
+    {
+      "time": 59.67,
+      "time_str": "00:59.670",
+      "text": "Fermeremo il tempo",
+      "translation": "让时间也静止"
+    },
+    {
+      "time": 63.08,
+      "time_str": "01:03.080",
+      "text": "Vivendo giorni veri",
+      "translation": "眼前生活如此真实"
+    },
+    {
+      "time": 64.82,
+      "time_str": "01:04.820",
+      "text": "Sognando come ieri",
+      "translation": "却又变幻如同昨日"
+    },
+    {
+      "time": 66.7,
+      "time_str": "01:06.700",
+      "text": "Cantando con questo ritmo che va",
+      "translation": "随这旋律一起歌唱吧"
+    },
+    {
+      "time": 69.92,
+      "time_str": "01:09.920",
+      "text": "Batte forte inesorabile",
+      "translation": "节奏强劲，没有止息"
+    },
+    {
+      "time": 74.28,
+      "time_str": "01:14.280",
+      "text": "Questo amore senza limite",
+      "translation": "这份爱意，没有限制"
+    },
+    {
+      "time": 78.09,
+      "time_str": "01:18.090",
+      "text": "Non passera' la voglia che ho di te",
+      "translation": "我对你的愿望不止于此"
+    },
+    {
+      "time": 82.99,
+      "time_str": "01:22.990",
+      "text": "Ora che ti sento",
+      "translation": "现在你感受到了吧"
+    },
+    {
+      "time": 85.07,
+      "time_str": "01:25.070",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 88.96,
+      "time_str": "01:28.960",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 92.53,
+      "time_str": "01:32.530",
+      "text": "Accendera'la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 97.54,
+      "time_str": "01:37.540",
+      "text": "Ora che ti ho dentro",
+      "translation": "现在你就在我的心里"
+    },
+    {
+      "time": 116.54,
+      "time_str": "01:56.540",
+      "text": "Storie che s'incrociano e siamo qua",
+      "translation": "故事已经开始，我们就在这里"
+    },
+    {
+      "time": 120.48,
+      "time_str": "02:00.480",
+      "text": "Tra emozioni e sogni senza eta'",
+      "translation": "来自于不老的梦想与感情"
+    },
+    {
+      "time": 124.17,
+      "time_str": "02:04.170",
+      "text": "Cinque anime un'identita'",
+      "translation": "五年时光留下的刻痕"
+    },
+    {
+      "time": 127.83,
+      "time_str": "02:07.830",
+      "text": "Sempre in movimento",
+      "translation": "依然在不断前移"
+    },
+    {
+      "time": 131.01,
+      "time_str": "02:11.010",
+      "text": "Vivendo giorni veri",
+      "translation": "眼前生活如此真实"
+    },
+    {
+      "time": 133.06,
+      "time_str": "02:13.060",
+      "text": "Sognando come ieri",
+      "translation": "却又变幻如同昨日"
+    },
+    {
+      "time": 134.9,
+      "time_str": "02:14.900",
+      "text": "Ballando questo ritmo che va",
+      "translation": "随这旋律一同舞蹈吧"
+    },
+    {
+      "time": 138.28,
+      "time_str": "02:18.280",
+      "text": "Batte forte inesorabile",
+      "translation": "节奏强劲，没有止息"
+    },
+    {
+      "time": 142.15,
+      "time_str": "02:22.150",
+      "text": "Questo amore senza limite",
+      "translation": "这份爱意，没有限制"
+    },
+    {
+      "time": 146.09,
+      "time_str": "02:26.090",
+      "text": "Non passera' la voglia che ho di te",
+      "translation": "我对你的愿望不止于此"
+    },
+    {
+      "time": 150.96,
+      "time_str": "02:30.960",
+      "text": "Ora che ti sento",
+      "translation": "我对你的愿望不止于此"
+    },
+    {
+      "time": 153.36,
+      "time_str": "02:33.360",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 157.28,
+      "time_str": "02:37.280",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 160.87,
+      "time_str": "02:40.870",
+      "text": "Accendera' la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 165.76,
+      "time_str": "02:45.760",
+      "text": "Ora che ti ho dentro",
+      "translation": "现在你就在我的心里"
+    },
+    {
+      "time": 198.25,
+      "time_str": "03:18.250",
+      "text": "Libera, (libera)",
+      "translation": "自由的（自由的）"
+    },
+    {
+      "time": 201.02,
+      "time_str": "03:21.020",
+      "text": "anima",
+      "translation": "灵魂啊"
+    },
+    {
+      "time": 204.64,
+      "time_str": "03:24.640",
+      "text": "Quanta vita che ancora passera'",
+      "translation": "谁知道生活还有多久呢"
+    },
+    {
+      "time": 209.59,
+      "time_str": "03:29.590",
+      "text": "In questa dolce realta'",
+      "translation": "那就趁着我们还年轻吧"
+    },
+    {
+      "time": 213.69,
+      "time_str": "03:33.690",
+      "text": "Batte forte inesorabile",
+      "translation": "节奏强劲，没有止息"
+    },
+    {
+      "time": 217.63,
+      "time_str": "03:37.630",
+      "text": "Questo amore senza limite",
+      "translation": "这份爱意，没有限制"
+    },
+    {
+      "time": 221.58,
+      "time_str": "03:41.580",
+      "text": "Non passera' la voglia che ho di te",
+      "translation": "我对你的愿望不止于此"
+    },
+    {
+      "time": 226.5,
+      "time_str": "03:46.500",
+      "text": "Ora che ti sento",
+      "translation": "现在你感受到了吧"
+    },
+    {
+      "time": 229.27,
+      "time_str": "03:49.270",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 232.95,
+      "time_str": "03:52.950",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 236.56,
+      "time_str": "03:56.560",
+      "text": "Accendera' la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 241.34,
+      "time_str": "04:01.340",
+      "text": "Ora che ti ho dentro (dentro)",
+      "translation": "现在你就在我的心里"
+    },
+    {
+      "time": 257.94,
+      "time_str": "04:17.940",
+      "text": "Batte forte inesorabile",
+      "translation": "节奏强劲，没有止息"
+    },
+    {
+      "time": 261.81,
+      "time_str": "04:21.810",
+      "text": "Questo amore senza limite",
+      "translation": "这份爱意，没有限制"
+    },
+    {
+      "time": 265.54,
+      "time_str": "04:25.540",
+      "text": "Non passera' la voglia che ho di te",
+      "translation": "我对你的愿望不止于此"
+    },
+    {
+      "time": 270.22,
+      "time_str": "04:30.220",
+      "text": "Ora che ti sento",
+      "translation": "现在你感受到了吧"
+    },
+    {
+      "time": 272.56,
+      "time_str": "04:32.560",
+      "text": "Brucia forte inesorabile",
+      "translation": "燃烧激情，没有间断"
+    },
+    {
+      "time": 276.44,
+      "time_str": "04:36.440",
+      "text": "La passione tra le lacrime",
+      "translation": "泪水之中，也有激情"
+    },
+    {
+      "time": 280.42,
+      "time_str": "04:40.420",
+      "text": "Accendera'la voglia che ho di te",
+      "translation": "点燃我的这份愿望"
+    },
+    {
+      "time": 284.96,
+      "time_str": "04:44.960",
+      "text": "Ora che ti ho dentro (dentro)",
+      "translation": "现在你就在我的心里（在心里）"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Batte forte (Subside Extended Remix) - Lollipop,Subside.lrc"
+}

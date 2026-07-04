@@ -1,0 +1,232 @@
+{
+  "title": "别在我离开之前离开",
+  "title_raw": "别在我离开之前离开",
+  "version": null,
+  "artist": "雷诺儿",
+  "group_key": "别在我离开之前离开|雷诺儿",
+  "writers": {
+    "lyricist": "孙艺",
+    "composer": "Phee Rojanadara",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 17.98,
+      "time_str": "00:17.980",
+      "text": "说不出来 背诵的对白",
+      "translation": null
+    },
+    {
+      "time": 24.89,
+      "time_str": "00:24.890",
+      "text": "何必彩排 誓言的更改",
+      "translation": null
+    },
+    {
+      "time": 31.58,
+      "time_str": "00:31.580",
+      "text": "掩盖无奈 愉快的悲哀",
+      "translation": null
+    },
+    {
+      "time": 38.33,
+      "time_str": "00:38.330",
+      "text": "如何责怪 被自己打败",
+      "translation": null
+    },
+    {
+      "time": 44.49,
+      "time_str": "00:44.490",
+      "text": "经不起那天长地久的等待",
+      "translation": null
+    },
+    {
+      "time": 52.51,
+      "time_str": "00:52.510",
+      "text": "却又为何难以释怀",
+      "translation": null
+    },
+    {
+      "time": 57.68,
+      "time_str": "00:57.680",
+      "text": "别在我离开之前离开",
+      "translation": null
+    },
+    {
+      "time": 61.47,
+      "time_str": "01:01.470",
+      "text": "哪怕再多一秒徘徊",
+      "translation": null
+    },
+    {
+      "time": 64.84,
+      "time_str": "01:04.840",
+      "text": "纵容我对你最后的依赖",
+      "translation": null
+    },
+    {
+      "time": 71.08,
+      "time_str": "01:11.080",
+      "text": "别在我离开之前离开",
+      "translation": null
+    },
+    {
+      "time": 75.06,
+      "time_str": "01:15.060",
+      "text": "一定会笑着说 bye bye",
+      "translation": null
+    },
+    {
+      "time": 78.37,
+      "time_str": "01:18.370",
+      "text": "在我转身前绝不让眼泪 掉下来",
+      "translation": null
+    },
+    {
+      "time": 89.33,
+      "time_str": "01:29.330",
+      "text": "那么相爱 也用爱伤害",
+      "translation": null
+    },
+    {
+      "time": 95.59,
+      "time_str": "01:35.590",
+      "text": "永远用来 演一场意外",
+      "translation": null
+    },
+    {
+      "time": 102.75,
+      "time_str": "01:42.750",
+      "text": "孤单站台 苍茫的人海",
+      "translation": null
+    },
+    {
+      "time": 109.11,
+      "time_str": "01:49.110",
+      "text": "多想钟摆 此刻停下来",
+      "translation": null
+    },
+    {
+      "time": 115.44,
+      "time_str": "01:55.440",
+      "text": "经不起那天长地久的等待",
+      "translation": null
+    },
+    {
+      "time": 123.57,
+      "time_str": "02:03.570",
+      "text": "却又为何难以释怀",
+      "translation": null
+    },
+    {
+      "time": 128.51,
+      "time_str": "02:08.510",
+      "text": "别在我离开之前离开",
+      "translation": null
+    },
+    {
+      "time": 132.41,
+      "time_str": "02:12.410",
+      "text": "哪怕再多一秒徘徊",
+      "translation": null
+    },
+    {
+      "time": 135.81,
+      "time_str": "02:15.810",
+      "text": "纵容我对你最后的依赖",
+      "translation": null
+    },
+    {
+      "time": 142.02,
+      "time_str": "02:22.020",
+      "text": "别在我离开之前离开",
+      "translation": null
+    },
+    {
+      "time": 146.01,
+      "time_str": "02:26.010",
+      "text": "一定会笑着说 bye bye",
+      "translation": null
+    },
+    {
+      "time": 149.3,
+      "time_str": "02:29.300",
+      "text": "在我转身前绝不让眼泪 掉下来",
+      "translation": null
+    },
+    {
+      "time": 175.98,
+      "time_str": "02:55.980",
+      "text": "别在我离开之前离开",
+      "translation": null
+    },
+    {
+      "time": 179.87,
+      "time_str": "02:59.870",
+      "text": "哪怕再多一秒徘徊",
+      "translation": null
+    },
+    {
+      "time": 183.12,
+      "time_str": "03:03.120",
+      "text": "纵容我对你最后的依赖",
+      "translation": null
+    },
+    {
+      "time": 189.5,
+      "time_str": "03:09.500",
+      "text": "别在我离开之前离开",
+      "translation": null
+    },
+    {
+      "time": 193.33,
+      "time_str": "03:13.330",
+      "text": "一定会笑着说 bye bye",
+      "translation": null
+    },
+    {
+      "time": 196.7,
+      "time_str": "03:16.700",
+      "text": "虽然心早已裂成了碎块",
+      "translation": null
+    },
+    {
+      "time": 203.18,
+      "time_str": "03:23.180",
+      "text": "别在我离开之前离开",
+      "translation": null
+    },
+    {
+      "time": 206.83,
+      "time_str": "03:26.830",
+      "text": "哪怕再多一秒徘徊",
+      "translation": null
+    },
+    {
+      "time": 210.18,
+      "time_str": "03:30.180",
+      "text": "心死爱还在是我活该",
+      "translation": null
+    },
+    {
+      "time": 216.21,
+      "time_str": "03:36.210",
+      "text": "别在我离开之前离开",
+      "translation": null
+    },
+    {
+      "time": 220.35,
+      "time_str": "03:40.350",
+      "text": "一定会笑着说 bye bye",
+      "translation": null
+    },
+    {
+      "time": 223.84,
+      "time_str": "03:43.840",
+      "text": "寂寞涌出来把我掩埋",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "别在我离开之前离开 - 雷诺儿.lrc"
+}

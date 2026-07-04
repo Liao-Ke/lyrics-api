@@ -1,0 +1,442 @@
+{
+  "title": "心悸",
+  "title_raw": "心悸",
+  "version": null,
+  "artist": "刘亦菲",
+  "group_key": "心悸|刘亦菲",
+  "writers": {
+    "lyricist": "崔惟楷",
+    "composer": "洪信杰",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.7,
+      "time_str": "00:16.700",
+      "text": "你给的语言",
+      "translation": null
+    },
+    {
+      "time": 17.68,
+      "time_str": "00:17.680",
+      "text": "好的太危险",
+      "translation": null
+    },
+    {
+      "time": 18.82,
+      "time_str": "00:18.820",
+      "text": "该怎么分辨",
+      "translation": null
+    },
+    {
+      "time": 20.04,
+      "time_str": "00:20.040",
+      "text": "不要被你抓住心里的弱点",
+      "translation": null
+    },
+    {
+      "time": 27.1,
+      "time_str": "00:27.100",
+      "text": "给我多一点 甜蜜时间",
+      "translation": null
+    },
+    {
+      "time": 29.41,
+      "time_str": "00:29.410",
+      "text": "又不想太黏",
+      "translation": null
+    },
+    {
+      "time": 30.79,
+      "time_str": "00:30.790",
+      "text": "还不是因为爱我才会善变",
+      "translation": null
+    },
+    {
+      "time": 37.52,
+      "time_str": "00:37.520",
+      "text": "你在我的世界飘移",
+      "translation": null
+    },
+    {
+      "time": 40.72,
+      "time_str": "00:40.720",
+      "text": "你说我们有没有默契",
+      "translation": null
+    },
+    {
+      "time": 48.17,
+      "time_str": "00:48.170",
+      "text": "你在我的心里偷袭",
+      "translation": null
+    },
+    {
+      "time": 50.09,
+      "time_str": "00:50.090",
+      "text": "我也想要我的爱情胜利",
+      "translation": null
+    },
+    {
+      "time": 56.69,
+      "time_str": "00:56.690",
+      "text": "或许我是太过爱你",
+      "translation": null
+    },
+    {
+      "time": 59.45,
+      "time_str": "00:59.450",
+      "text": "爱情的战局",
+      "translation": null
+    },
+    {
+      "time": 60.29,
+      "time_str": "01:00.290",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 61.37,
+      "time_str": "01:01.370",
+      "text": "你就像谜 让人好奇",
+      "translation": null
+    },
+    {
+      "time": 64.16,
+      "time_str": "01:04.160",
+      "text": "如果要更亲密",
+      "translation": null
+    },
+    {
+      "time": 65.42,
+      "time_str": "01:05.420",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 66.65,
+      "time_str": "01:06.650",
+      "text": "没有办法 不去爱你",
+      "translation": null
+    },
+    {
+      "time": 69.3,
+      "time_str": "01:09.300",
+      "text": "爱情的战局",
+      "translation": null
+    },
+    {
+      "time": 70.61,
+      "time_str": "01:10.610",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 71.84,
+      "time_str": "01:11.840",
+      "text": "保持距离 是个难题",
+      "translation": null
+    },
+    {
+      "time": 74.66,
+      "time_str": "01:14.660",
+      "text": "我用全心全意 爱上你",
+      "translation": null
+    },
+    {
+      "time": 77.09,
+      "time_str": "01:17.090",
+      "text": "你说怎么办",
+      "translation": null
+    },
+    {
+      "time": 78.44,
+      "time_str": "01:18.440",
+      "text": "是爱情让人心悸",
+      "translation": null
+    },
+    {
+      "time": 83.07,
+      "time_str": "01:23.070",
+      "text": "不敢正视 你的脸",
+      "translation": null
+    },
+    {
+      "time": 85.39,
+      "time_str": "01:25.390",
+      "text": "当你眼神不小心带电",
+      "translation": null
+    },
+    {
+      "time": 87.7,
+      "time_str": "01:27.700",
+      "text": "我已经陷入热恋",
+      "translation": null
+    },
+    {
+      "time": 93.35,
+      "time_str": "01:33.350",
+      "text": "别让我们 太遥远",
+      "translation": null
+    },
+    {
+      "time": 96.2,
+      "time_str": "01:36.200",
+      "text": "角色该如何去扮演",
+      "translation": null
+    },
+    {
+      "time": 98.3,
+      "time_str": "01:38.300",
+      "text": "请你给我概念",
+      "translation": null
+    },
+    {
+      "time": 104.49,
+      "time_str": "01:44.490",
+      "text": "你在我的世界飘移",
+      "translation": null
+    },
+    {
+      "time": 106.92,
+      "time_str": "01:46.920",
+      "text": "你说我们有没有默契",
+      "translation": null
+    },
+    {
+      "time": 114.67,
+      "time_str": "01:54.670",
+      "text": "你在我的心里偷袭",
+      "translation": null
+    },
+    {
+      "time": 117.58,
+      "time_str": "01:57.580",
+      "text": "我也想要我的爱情胜利",
+      "translation": null
+    },
+    {
+      "time": 122.74,
+      "time_str": "02:02.740",
+      "text": "或许我是太过爱你",
+      "translation": null
+    },
+    {
+      "time": 125.74,
+      "time_str": "02:05.740",
+      "text": "爱情的战局",
+      "translation": null
+    },
+    {
+      "time": 126.94,
+      "time_str": "02:06.940",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 127.99,
+      "time_str": "02:07.990",
+      "text": "你就像谜 让人好奇",
+      "translation": null
+    },
+    {
+      "time": 130.57,
+      "time_str": "02:10.570",
+      "text": "如果要更亲密",
+      "translation": null
+    },
+    {
+      "time": 131.81,
+      "time_str": "02:11.810",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 133.22,
+      "time_str": "02:13.220",
+      "text": "没有办法 不去爱你",
+      "translation": null
+    },
+    {
+      "time": 135.88,
+      "time_str": "02:15.880",
+      "text": "爱情的战局",
+      "translation": null
+    },
+    {
+      "time": 137.03,
+      "time_str": "02:17.030",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 138.35,
+      "time_str": "02:18.350",
+      "text": "保持距离 是个难题",
+      "translation": null
+    },
+    {
+      "time": 141.18,
+      "time_str": "02:21.180",
+      "text": "我用全心全意 爱上你",
+      "translation": null
+    },
+    {
+      "time": 143.61,
+      "time_str": "02:23.610",
+      "text": "你说怎么办",
+      "translation": null
+    },
+    {
+      "time": 144.9,
+      "time_str": "02:24.900",
+      "text": "是爱情让人心悸",
+      "translation": null
+    },
+    {
+      "time": 168.38,
+      "time_str": "02:48.380",
+      "text": "爱情的战局",
+      "translation": null
+    },
+    {
+      "time": 169.34,
+      "time_str": "02:49.340",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 170.57,
+      "time_str": "02:50.570",
+      "text": "你就像谜 让人好奇",
+      "translation": null
+    },
+    {
+      "time": 173.18,
+      "time_str": "02:53.180",
+      "text": "如果要更亲密",
+      "translation": null
+    },
+    {
+      "time": 174.47,
+      "time_str": "02:54.470",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 175.86,
+      "time_str": "02:55.860",
+      "text": "没有办法 不去爱你",
+      "translation": null
+    },
+    {
+      "time": 178.56,
+      "time_str": "02:58.560",
+      "text": "爱情的战局",
+      "translation": null
+    },
+    {
+      "time": 179.84,
+      "time_str": "02:59.840",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 181.05,
+      "time_str": "03:01.050",
+      "text": "保持距离 是个难题",
+      "translation": null
+    },
+    {
+      "time": 184.15,
+      "time_str": "03:04.150",
+      "text": "我用全心全意 爱上你",
+      "translation": null
+    },
+    {
+      "time": 186.13,
+      "time_str": "03:06.130",
+      "text": "你说怎么办",
+      "translation": null
+    },
+    {
+      "time": 187.51,
+      "time_str": "03:07.510",
+      "text": "是爱情让人心悸",
+      "translation": null
+    },
+    {
+      "time": 189.99,
+      "time_str": "03:09.990",
+      "text": "爱情的战局",
+      "translation": null
+    },
+    {
+      "time": 190.66,
+      "time_str": "03:10.660",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 191.68,
+      "time_str": "03:11.680",
+      "text": "你就像谜 让人好奇",
+      "translation": null
+    },
+    {
+      "time": 194.38,
+      "time_str": "03:14.380",
+      "text": "如果要更亲密",
+      "translation": null
+    },
+    {
+      "time": 195.67,
+      "time_str": "03:15.670",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 196.96,
+      "time_str": "03:16.960",
+      "text": "没有办法 不去爱你",
+      "translation": null
+    },
+    {
+      "time": 199.81,
+      "time_str": "03:19.810",
+      "text": "爱情的战局",
+      "translation": null
+    },
+    {
+      "time": 201.02,
+      "time_str": "03:21.020",
+      "text": "不能被你吃定",
+      "translation": null
+    },
+    {
+      "time": 202.3,
+      "time_str": "03:22.300",
+      "text": "保持距离 是个难题",
+      "translation": null
+    },
+    {
+      "time": 204.91,
+      "time_str": "03:24.910",
+      "text": "我用全心全意 爱上你",
+      "translation": null
+    },
+    {
+      "time": 207.44,
+      "time_str": "03:27.440",
+      "text": "你说怎么办",
+      "translation": null
+    },
+    {
+      "time": 208.73,
+      "time_str": "03:28.730",
+      "text": "是爱情让人心悸",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "心悸 - 刘亦菲.lrc"
+}

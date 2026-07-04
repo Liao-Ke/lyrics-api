@@ -1,0 +1,316 @@
+{
+  "title": "永远永远",
+  "title_raw": "永远永远",
+  "version": null,
+  "artist": "李翊君",
+  "group_key": "永远永远|李翊君",
+  "writers": {
+    "lyricist": "吴梵",
+    "composer": "吴梵",
+    "arranger": "周恒毅"
+  },
+  "lyrics": [
+    {
+      "time": 20.23,
+      "time_str": "00:20.230",
+      "text": "一直以为自己可以很坚强",
+      "translation": null
+    },
+    {
+      "time": 26.86,
+      "time_str": "00:26.860",
+      "text": "原来和你一样害怕着孤单",
+      "translation": null
+    },
+    {
+      "time": 33.84,
+      "time_str": "00:33.840",
+      "text": "没有你的夜晚",
+      "translation": null
+    },
+    {
+      "time": 37.87,
+      "time_str": "00:37.870",
+      "text": "星星和我一样彷徨",
+      "translation": null
+    },
+    {
+      "time": 42.14,
+      "time_str": "00:42.140",
+      "text": "挂在天上 忽明又忽暗",
+      "translation": null
+    },
+    {
+      "time": 49.87,
+      "time_str": "00:49.870",
+      "text": "不知不觉窗外的天已变亮",
+      "translation": null
+    },
+    {
+      "time": 57.19,
+      "time_str": "00:57.190",
+      "text": "原来醒的时间越来越长",
+      "translation": null
+    },
+    {
+      "time": 65.04,
+      "time_str": "01:05.040",
+      "text": "没有你的异乡",
+      "translation": null
+    },
+    {
+      "time": 68.69,
+      "time_str": "01:08.690",
+      "text": "只有冷风陪我流浪",
+      "translation": null
+    },
+    {
+      "time": 72.73,
+      "time_str": "01:12.730",
+      "text": "我怕我的思念",
+      "translation": null
+    },
+    {
+      "time": 75.24,
+      "time_str": "01:15.240",
+      "text": "游不过这片海洋",
+      "translation": null
+    },
+    {
+      "time": 80.49,
+      "time_str": "01:20.490",
+      "text": "别对我说永远 永远 永远",
+      "translation": null
+    },
+    {
+      "time": 84.36,
+      "time_str": "01:24.360",
+      "text": "永远是太昂贵的誓言",
+      "translation": null
+    },
+    {
+      "time": 88.13,
+      "time_str": "01:28.130",
+      "text": "我握不住也看不见",
+      "translation": null
+    },
+    {
+      "time": 92.19,
+      "time_str": "01:32.190",
+      "text": "最后随着浪涛消失不见",
+      "translation": null
+    },
+    {
+      "time": 96.2,
+      "time_str": "01:36.200",
+      "text": "别对我说永远 永远 永远",
+      "translation": null
+    },
+    {
+      "time": 99.66,
+      "time_str": "01:39.660",
+      "text": "永远不是我要的明天",
+      "translation": null
+    },
+    {
+      "time": 103.4,
+      "time_str": "01:43.400",
+      "text": "你爱过我就已足够",
+      "translation": null
+    },
+    {
+      "time": 107.73,
+      "time_str": "01:47.730",
+      "text": "就算到了最后爱已搁浅",
+      "translation": null
+    },
+    {
+      "time": 111.44,
+      "time_str": "01:51.440",
+      "text": "只求你留我在你心田",
+      "translation": null
+    },
+    {
+      "time": 148.56,
+      "time_str": "02:28.560",
+      "text": "不知不觉窗外的天已变亮",
+      "translation": null
+    },
+    {
+      "time": 155.15,
+      "time_str": "02:35.150",
+      "text": "原来醒的时间越来越长",
+      "translation": null
+    },
+    {
+      "time": 164.25,
+      "time_str": "02:44.250",
+      "text": "没有你的异乡",
+      "translation": null
+    },
+    {
+      "time": 167.02,
+      "time_str": "02:47.020",
+      "text": "只有冷风陪我流浪",
+      "translation": null
+    },
+    {
+      "time": 171.27,
+      "time_str": "02:51.270",
+      "text": "我怕我的思念",
+      "translation": null
+    },
+    {
+      "time": 173.54,
+      "time_str": "02:53.540",
+      "text": "游不过这片海洋",
+      "translation": null
+    },
+    {
+      "time": 182.51,
+      "time_str": "03:02.510",
+      "text": "别对我说永远 永远 永远",
+      "translation": null
+    },
+    {
+      "time": 185.8,
+      "time_str": "03:05.800",
+      "text": "永远是太昂贵的誓言",
+      "translation": null
+    },
+    {
+      "time": 189.5,
+      "time_str": "03:09.500",
+      "text": "我握不住也看不见",
+      "translation": null
+    },
+    {
+      "time": 193.65,
+      "time_str": "03:13.650",
+      "text": "最后随着浪涛消失不见",
+      "translation": null
+    },
+    {
+      "time": 197.58,
+      "time_str": "03:17.580",
+      "text": "别对我说永远 永远 永远",
+      "translation": null
+    },
+    {
+      "time": 201.22,
+      "time_str": "03:21.220",
+      "text": "永远不是我要的明天",
+      "translation": null
+    },
+    {
+      "time": 205.18,
+      "time_str": "03:25.180",
+      "text": "你爱过我就已足够",
+      "translation": null
+    },
+    {
+      "time": 209.13,
+      "time_str": "03:29.130",
+      "text": "就算到了最后爱已搁浅",
+      "translation": null
+    },
+    {
+      "time": 213.21,
+      "time_str": "03:33.210",
+      "text": "只求你留我在你心田",
+      "translation": null
+    },
+    {
+      "time": 219.33,
+      "time_str": "03:39.330",
+      "text": "别对我说永远 永远 永远",
+      "translation": null
+    },
+    {
+      "time": 222.36,
+      "time_str": "03:42.360",
+      "text": "别对我说永远 永远 永远",
+      "translation": null
+    },
+    {
+      "time": 226.5,
+      "time_str": "03:46.500",
+      "text": "别对我说永远 永远 永远",
+      "translation": null
+    },
+    {
+      "time": 237.23,
+      "time_str": "03:57.230",
+      "text": "别对我说永远 永远 永远",
+      "translation": null
+    },
+    {
+      "time": 240.55,
+      "time_str": "04:00.550",
+      "text": "永远是太昂贵的誓言",
+      "translation": null
+    },
+    {
+      "time": 244.19,
+      "time_str": "04:04.190",
+      "text": "我握不住也看不见",
+      "translation": null
+    },
+    {
+      "time": 248.24,
+      "time_str": "04:08.240",
+      "text": "最后随着浪涛消失不见",
+      "translation": null
+    },
+    {
+      "time": 251.94,
+      "time_str": "04:11.940",
+      "text": "别对我说永远 永远 永远",
+      "translation": null
+    },
+    {
+      "time": 255.9,
+      "time_str": "04:15.900",
+      "text": "永远不是我要的明天",
+      "translation": null
+    },
+    {
+      "time": 260.0,
+      "time_str": "04:20.000",
+      "text": "你爱过我就已足够",
+      "translation": null
+    },
+    {
+      "time": 263.96,
+      "time_str": "04:23.960",
+      "text": "就算到了最后爱已搁浅",
+      "translation": null
+    },
+    {
+      "time": 267.34,
+      "time_str": "04:27.340",
+      "text": "只求你留我在你心田",
+      "translation": null
+    },
+    {
+      "time": 273.76,
+      "time_str": "04:33.760",
+      "text": "你爱过我就已足够",
+      "translation": null
+    },
+    {
+      "time": 277.63,
+      "time_str": "04:37.630",
+      "text": "就算到了最后爱已搁浅",
+      "translation": null
+    },
+    {
+      "time": 286.14,
+      "time_str": "04:46.140",
+      "text": "只求你留我在你心田",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "永远永远 - 李翊君.lrc"
+}

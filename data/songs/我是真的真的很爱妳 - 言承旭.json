@@ -1,0 +1,280 @@
+{
+  "title": "我是真的真的很爱妳",
+  "title_raw": "我是真的真的很爱妳",
+  "version": null,
+  "artist": "言承旭",
+  "group_key": "我是真的真的很爱妳|言承旭",
+  "writers": {
+    "lyricist": "陈镇川",
+    "composer": "罗文裕",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 38.3,
+      "time_str": "00:38.300",
+      "text": "听说感情要慢慢累积",
+      "translation": null
+    },
+    {
+      "time": 45.01,
+      "time_str": "00:45.010",
+      "text": "由不得让我放肆任性",
+      "translation": null
+    },
+    {
+      "time": 51.17,
+      "time_str": "00:51.170",
+      "text": "怎么我循规蹈矩",
+      "translation": null
+    },
+    {
+      "time": 55.87,
+      "time_str": "00:55.870",
+      "text": "拼了命付出",
+      "translation": null
+    },
+    {
+      "time": 58.76,
+      "time_str": "00:58.760",
+      "text": "你没有回应",
+      "translation": null
+    },
+    {
+      "time": 62.95,
+      "time_str": "01:02.950",
+      "text": "听说感情难免力不从心",
+      "translation": null
+    },
+    {
+      "time": 68.31,
+      "time_str": "01:08.310",
+      "text": "亦步亦趋却不见踪影",
+      "translation": null
+    },
+    {
+      "time": 76.12,
+      "time_str": "01:16.120",
+      "text": "你给的眼神好比",
+      "translation": null
+    },
+    {
+      "time": 80.65,
+      "time_str": "01:20.650",
+      "text": "大热天里一道冷空气",
+      "translation": null
+    },
+    {
+      "time": 88.48,
+      "time_str": "01:28.480",
+      "text": "我是真的真的真的很爱你",
+      "translation": null
+    },
+    {
+      "time": 99.11,
+      "time_str": "01:39.110",
+      "text": "以为付出了一切就非得有意义",
+      "translation": null
+    },
+    {
+      "time": 105.86,
+      "time_str": "01:45.860",
+      "text": "你给的难题",
+      "translation": null
+    },
+    {
+      "time": 108.93,
+      "time_str": "01:48.930",
+      "text": "我不曾逃避",
+      "translation": null
+    },
+    {
+      "time": 112.02,
+      "time_str": "01:52.020",
+      "text": "谁叫我已爱你成性",
+      "translation": null
+    },
+    {
+      "time": 117.13,
+      "time_str": "01:57.130",
+      "text": "总有一天可以用力紧紧抱住你",
+      "translation": null
+    },
+    {
+      "time": 124.33,
+      "time_str": "02:04.330",
+      "text": "毕竟继续的呼吸也要有点目的",
+      "translation": null
+    },
+    {
+      "time": 130.83,
+      "time_str": "02:10.830",
+      "text": "一身的伤痛",
+      "translation": null
+    },
+    {
+      "time": 134.8,
+      "time_str": "02:14.800",
+      "text": "委屈的痕迹",
+      "translation": null
+    },
+    {
+      "time": 137.98,
+      "time_str": "02:17.980",
+      "text": "在你防备的眼睛里",
+      "translation": null
+    },
+    {
+      "time": 143.05,
+      "time_str": "02:23.050",
+      "text": "都是零",
+      "translation": null
+    },
+    {
+      "time": 145.98,
+      "time_str": "02:25.980",
+      "text": "music",
+      "translation": null
+    },
+    {
+      "time": 156.83,
+      "time_str": "02:36.830",
+      "text": "听说感情难免力不从心",
+      "translation": null
+    },
+    {
+      "time": 163.92,
+      "time_str": "02:43.920",
+      "text": "亦步亦趋却不见踪影",
+      "translation": null
+    },
+    {
+      "time": 168.54,
+      "time_str": "02:48.540",
+      "text": "你给的眼神好比",
+      "translation": null
+    },
+    {
+      "time": 174.92,
+      "time_str": "02:54.920",
+      "text": "大热天里一道冷空气",
+      "translation": null
+    },
+    {
+      "time": 182.5,
+      "time_str": "03:02.500",
+      "text": "我是真的真的真的很爱你",
+      "translation": null
+    },
+    {
+      "time": 192.58,
+      "time_str": "03:12.580",
+      "text": "以为付出了一切就非得有意义",
+      "translation": null
+    },
+    {
+      "time": 198.68,
+      "time_str": "03:18.680",
+      "text": "你给的难题",
+      "translation": null
+    },
+    {
+      "time": 202.49,
+      "time_str": "03:22.490",
+      "text": "我不曾逃避",
+      "translation": null
+    },
+    {
+      "time": 205.27,
+      "time_str": "03:25.270",
+      "text": "谁叫我已爱你成性",
+      "translation": null
+    },
+    {
+      "time": 210.28,
+      "time_str": "03:30.280",
+      "text": "总有一天可以用力紧紧抱住你",
+      "translation": null
+    },
+    {
+      "time": 217.55,
+      "time_str": "03:37.550",
+      "text": "毕竟继续的呼吸也要有点目的",
+      "translation": null
+    },
+    {
+      "time": 224.43,
+      "time_str": "03:44.430",
+      "text": "一身的伤痛",
+      "translation": null
+    },
+    {
+      "time": 227.9,
+      "time_str": "03:47.900",
+      "text": "委屈的痕迹",
+      "translation": null
+    },
+    {
+      "time": 231.05,
+      "time_str": "03:51.050",
+      "text": "在你防备的眼睛里",
+      "translation": null
+    },
+    {
+      "time": 236.04,
+      "time_str": "03:56.040",
+      "text": "都是零",
+      "translation": null
+    },
+    {
+      "time": 241.17,
+      "time_str": "04:01.170",
+      "text": "music",
+      "translation": null
+    },
+    {
+      "time": 250.11,
+      "time_str": "04:10.110",
+      "text": "我是真的真的真的很爱你",
+      "translation": null
+    },
+    {
+      "time": 260.4,
+      "time_str": "04:20.400",
+      "text": "以为付出了一切就非得有意义",
+      "translation": null
+    },
+    {
+      "time": 266.8,
+      "time_str": "04:26.800",
+      "text": "一身的伤痛",
+      "translation": null
+    },
+    {
+      "time": 270.26,
+      "time_str": "04:30.260",
+      "text": "委屈的痕迹",
+      "translation": null
+    },
+    {
+      "time": 273.22,
+      "time_str": "04:33.220",
+      "text": "在你防备的眼睛里",
+      "translation": null
+    },
+    {
+      "time": 277.82,
+      "time_str": "04:37.820",
+      "text": "都是零",
+      "translation": null
+    },
+    {
+      "time": 283.24,
+      "time_str": "04:43.240",
+      "text": "music",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我是真的真的很爱妳 - 言承旭.lrc"
+}

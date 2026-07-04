@@ -1,0 +1,394 @@
+{
+  "title": "天涯",
+  "title_raw": "天涯",
+  "version": null,
+  "artist": "任贤齐",
+  "group_key": "天涯|任贤齐",
+  "writers": {
+    "lyricist": "陈没",
+    "composer": "中島みゆき",
+    "arranger": "蔡朝华"
+  },
+  "lyrics": [
+    {
+      "time": 43.01,
+      "time_str": "00:43.010",
+      "text": "昏天又暗地 忍不住的流星",
+      "translation": null
+    },
+    {
+      "time": 46.25,
+      "time_str": "00:46.250",
+      "text": "烫不伤被冷藏一颗死心",
+      "translation": null
+    },
+    {
+      "time": 49.81,
+      "time_str": "00:49.810",
+      "text": "苦苦的追寻 茫茫然失去",
+      "translation": null
+    },
+    {
+      "time": 53.38,
+      "time_str": "00:53.380",
+      "text": "可爱的 可恨的 多可惜",
+      "translation": null
+    },
+    {
+      "time": 56.88,
+      "time_str": "00:56.880",
+      "text": "梦中的梦中 梦中人的梦中",
+      "translation": null
+    },
+    {
+      "time": 60.52,
+      "time_str": "01:00.520",
+      "text": "梦不到被吹散往事如风",
+      "translation": null
+    },
+    {
+      "time": 63.99,
+      "time_str": "01:03.990",
+      "text": "空空的天空 容不下笑容",
+      "translation": null
+    },
+    {
+      "time": 67.54,
+      "time_str": "01:07.540",
+      "text": "伤神的 伤人的 太伤心",
+      "translation": null
+    },
+    {
+      "time": 71.07,
+      "time_str": "01:11.070",
+      "text": "何必想 何必问 何处是我家",
+      "translation": null
+    },
+    {
+      "time": 74.7,
+      "time_str": "01:14.700",
+      "text": "爱也罢 恨也罢 算了吧",
+      "translation": null
+    },
+    {
+      "time": 78.25,
+      "time_str": "01:18.250",
+      "text": "问天涯 望断了天涯",
+      "translation": null
+    },
+    {
+      "time": 81.75,
+      "time_str": "01:21.750",
+      "text": "赢得了天下 输了她",
+      "translation": null
+    },
+    {
+      "time": 85.25,
+      "time_str": "01:25.250",
+      "text": "挥别的种种 挥不去的种种",
+      "translation": null
+    },
+    {
+      "time": 88.88,
+      "time_str": "01:28.880",
+      "text": "毁不了被掩没一往情深",
+      "translation": null
+    },
+    {
+      "time": 92.36,
+      "time_str": "01:32.360",
+      "text": "忍已无可忍 恨不得别人",
+      "translation": null
+    },
+    {
+      "time": 95.93,
+      "time_str": "01:35.930",
+      "text": "害人的 迷人的 痴情人",
+      "translation": null
+    },
+    {
+      "time": 99.54,
+      "time_str": "01:39.540",
+      "text": "也挣扎 也牵挂 也不是办法",
+      "translation": null
+    },
+    {
+      "time": 103.12,
+      "time_str": "01:43.120",
+      "text": "走也罢 留也罢 错了吗",
+      "translation": null
+    },
+    {
+      "time": 106.58,
+      "time_str": "01:46.580",
+      "text": "今天涯 明天又天涯",
+      "translation": null
+    },
+    {
+      "time": 110.27,
+      "time_str": "01:50.270",
+      "text": "狠狠一巴掌忘了吧",
+      "translation": null
+    },
+    {
+      "time": 142.3,
+      "time_str": "02:22.300",
+      "text": "昏天又暗地 忍不住的流星",
+      "translation": null
+    },
+    {
+      "time": 145.72,
+      "time_str": "02:25.720",
+      "text": "烫不伤被冷藏一颗死心",
+      "translation": null
+    },
+    {
+      "time": 149.3,
+      "time_str": "02:29.300",
+      "text": "苦苦的追寻 茫茫然失去",
+      "translation": null
+    },
+    {
+      "time": 152.88,
+      "time_str": "02:32.880",
+      "text": "可爱的 可恨的 多可惜",
+      "translation": null
+    },
+    {
+      "time": 156.41,
+      "time_str": "02:36.410",
+      "text": "梦中的梦中 梦中人的梦中",
+      "translation": null
+    },
+    {
+      "time": 159.96,
+      "time_str": "02:39.960",
+      "text": "梦不到被吹散往事如风",
+      "translation": null
+    },
+    {
+      "time": 163.57,
+      "time_str": "02:43.570",
+      "text": "空空的天空 容不下笑容",
+      "translation": null
+    },
+    {
+      "time": 167.12,
+      "time_str": "02:47.120",
+      "text": "伤神的 伤人的 太伤心",
+      "translation": null
+    },
+    {
+      "time": 170.62,
+      "time_str": "02:50.620",
+      "text": "何必想 何必问 何处是我家",
+      "translation": null
+    },
+    {
+      "time": 174.3,
+      "time_str": "02:54.300",
+      "text": "爱也罢 恨也罢 算了吧",
+      "translation": null
+    },
+    {
+      "time": 177.75,
+      "time_str": "02:57.750",
+      "text": "问天涯 望断了天涯",
+      "translation": null
+    },
+    {
+      "time": 181.32,
+      "time_str": "03:01.320",
+      "text": "赢得了天下 输了她",
+      "translation": null
+    },
+    {
+      "time": 184.88,
+      "time_str": "03:04.880",
+      "text": "挥别的种种 挥不去的种种",
+      "translation": null
+    },
+    {
+      "time": 188.43,
+      "time_str": "03:08.430",
+      "text": "毁不了被掩没一往情深",
+      "translation": null
+    },
+    {
+      "time": 192.01,
+      "time_str": "03:12.010",
+      "text": "忍已无可忍恨不得别人",
+      "translation": null
+    },
+    {
+      "time": 195.48,
+      "time_str": "03:15.480",
+      "text": "害人的 迷人的 痴情人",
+      "translation": null
+    },
+    {
+      "time": 199.01,
+      "time_str": "03:19.010",
+      "text": "也挣扎 也牵挂 也不是办法",
+      "translation": null
+    },
+    {
+      "time": 202.67,
+      "time_str": "03:22.670",
+      "text": "走也罢 留也罢 错了吗",
+      "translation": null
+    },
+    {
+      "time": 206.09,
+      "time_str": "03:26.090",
+      "text": "今天涯 明天又天涯",
+      "translation": null
+    },
+    {
+      "time": 209.8,
+      "time_str": "03:29.800",
+      "text": "狠狠一巴掌忘了吧",
+      "translation": null
+    },
+    {
+      "time": 213.38,
+      "time_str": "03:33.380",
+      "text": "梦中的梦中 梦中人的梦中",
+      "translation": null
+    },
+    {
+      "time": 216.88,
+      "time_str": "03:36.880",
+      "text": "梦不到被吹散往事如风",
+      "translation": null
+    },
+    {
+      "time": 220.4,
+      "time_str": "03:40.400",
+      "text": "空空的天空 容不下笑容",
+      "translation": null
+    },
+    {
+      "time": 224.03,
+      "time_str": "03:44.030",
+      "text": "伤神的 伤人的 太伤心",
+      "translation": null
+    },
+    {
+      "time": 227.64,
+      "time_str": "03:47.640",
+      "text": "何必想 何必问 何处是我家",
+      "translation": null
+    },
+    {
+      "time": 231.17,
+      "time_str": "03:51.170",
+      "text": "爱也罢 恨也罢 算了吧",
+      "translation": null
+    },
+    {
+      "time": 234.62,
+      "time_str": "03:54.620",
+      "text": "问天涯 望断了天涯",
+      "translation": null
+    },
+    {
+      "time": 238.25,
+      "time_str": "03:58.250",
+      "text": "赢得了天下 输了她",
+      "translation": null
+    },
+    {
+      "time": 266.87,
+      "time_str": "04:26.870",
+      "text": "昏天又暗地 忍不住的流星",
+      "translation": null
+    },
+    {
+      "time": 270.26,
+      "time_str": "04:30.260",
+      "text": "烫不伤被冷藏一颗死心",
+      "translation": null
+    },
+    {
+      "time": 273.84,
+      "time_str": "04:33.840",
+      "text": "苦苦的追寻 茫茫然失去",
+      "translation": null
+    },
+    {
+      "time": 277.36,
+      "time_str": "04:37.360",
+      "text": "可爱的 可恨的 多可惜",
+      "translation": null
+    },
+    {
+      "time": 280.88,
+      "time_str": "04:40.880",
+      "text": "梦中的梦中 梦中人的梦中",
+      "translation": null
+    },
+    {
+      "time": 284.49,
+      "time_str": "04:44.490",
+      "text": "梦不到被吹散往事如风",
+      "translation": null
+    },
+    {
+      "time": 287.96,
+      "time_str": "04:47.960",
+      "text": "空空的天空 容不下笑容",
+      "translation": null
+    },
+    {
+      "time": 291.54,
+      "time_str": "04:51.540",
+      "text": "伤神的 伤人的 太伤心",
+      "translation": null
+    },
+    {
+      "time": 295.09,
+      "time_str": "04:55.090",
+      "text": "挥别的种种 挥不去的种种",
+      "translation": null
+    },
+    {
+      "time": 298.7,
+      "time_str": "04:58.700",
+      "text": "毁不了被掩没一往情深",
+      "translation": null
+    },
+    {
+      "time": 302.28,
+      "time_str": "05:02.280",
+      "text": "忍已无可忍 恨不得别人",
+      "translation": null
+    },
+    {
+      "time": 305.97,
+      "time_str": "05:05.970",
+      "text": "害人的 迷人的 痴情人",
+      "translation": null
+    },
+    {
+      "time": 324.7,
+      "time_str": "05:24.700",
+      "text": "贝斯 : Andy Peterson",
+      "translation": null
+    },
+    {
+      "time": 325.81,
+      "time_str": "05:25.810",
+      "text": "键盘 : 蔡朝华",
+      "translation": null
+    },
+    {
+      "time": 326.92,
+      "time_str": "05:26.920",
+      "text": "Programmed : 蔡朝华",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天涯 - 任贤齐.lrc"
+}

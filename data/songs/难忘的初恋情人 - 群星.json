@@ -1,0 +1,130 @@
+{
+  "title": "难忘的初恋情人",
+  "title_raw": "难忘的初恋情人",
+  "version": null,
+  "artist": "群星",
+  "group_key": "难忘的初恋情人|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.68,
+      "time_str": "00:13.680",
+      "text": "难忘的初恋情人",
+      "translation": null
+    },
+    {
+      "time": 34.24,
+      "time_str": "00:34.240",
+      "text": "我是星你是云　总是两离分",
+      "translation": null
+    },
+    {
+      "time": 44.58,
+      "time_str": "00:44.580",
+      "text": "希望你告诉我　初恋的情人",
+      "translation": null
+    },
+    {
+      "time": 54.53,
+      "time_str": "00:54.530",
+      "text": "你我各分东西　这是谁的责任",
+      "translation": null
+    },
+    {
+      "time": 64.08,
+      "time_str": "01:04.080",
+      "text": "我对你永难忘　我对你情意真",
+      "translation": null
+    },
+    {
+      "time": 69.26,
+      "time_str": "01:09.260",
+      "text": "直到海枯石烂　难忘的初恋情人",
+      "translation": null
+    },
+    {
+      "time": 91.97,
+      "time_str": "01:31.970",
+      "text": "为什么不见你　再来我家门",
+      "translation": null
+    },
+    {
+      "time": 102.01,
+      "time_str": "01:42.010",
+      "text": "盼望你告诉我　初恋的情人",
+      "translation": null
+    },
+    {
+      "time": 112.06,
+      "time_str": "01:52.060",
+      "text": "我要向你倾诉　心中无限苦闷",
+      "translation": null
+    },
+    {
+      "time": 121.89,
+      "time_str": "02:01.890",
+      "text": "只要你心不变　我依旧情意真",
+      "translation": null
+    },
+    {
+      "time": 126.79,
+      "time_str": "02:06.790",
+      "text": "直到海枯石烂　难忘的初恋情人",
+      "translation": null
+    },
+    {
+      "time": 158.71,
+      "time_str": "02:38.710",
+      "text": "是爱情不够深　还是没缘份",
+      "translation": null
+    },
+    {
+      "time": 169.67,
+      "time_str": "02:49.670",
+      "text": "盼望你告诉我　初恋的情人",
+      "translation": null
+    },
+    {
+      "time": 179.37,
+      "time_str": "02:59.370",
+      "text": "我要向你倾诉　心中无限苦闷",
+      "translation": null
+    },
+    {
+      "time": 189.14,
+      "time_str": "03:09.140",
+      "text": "只要你心不变　我依旧情意深",
+      "translation": null
+    },
+    {
+      "time": 194.26,
+      "time_str": "03:14.260",
+      "text": "直到海枯石烂　难忘的初恋情人",
+      "translation": null
+    },
+    {
+      "time": 210.0,
+      "time_str": "03:30.000",
+      "text": "我要向你倾诉　心中无限苦闷",
+      "translation": null
+    },
+    {
+      "time": 220.0,
+      "time_str": "03:40.000",
+      "text": "只要你心不变　我依旧情意深",
+      "translation": null
+    },
+    {
+      "time": 226.04,
+      "time_str": "03:46.040",
+      "text": "直到海枯石烂　难忘的初恋情人",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "难忘的初恋情人 - 群星.lrc"
+}

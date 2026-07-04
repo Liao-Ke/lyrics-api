@@ -1,0 +1,370 @@
+{
+  "title": "爱与诚",
+  "title_raw": "爱与诚",
+  "version": null,
+  "artist": "古巨基",
+  "group_key": "爱与诚|古巨基",
+  "writers": {
+    "lyricist": null,
+    "composer": "曹雪芬",
+    "arranger": "Ted Lo"
+  },
+  "lyrics": [
+    {
+      "time": 15.97,
+      "time_str": "00:15.970",
+      "text": "其实自己一个更开心",
+      "translation": null
+    },
+    {
+      "time": 19.72,
+      "time_str": "00:19.720",
+      "text": "只等你讲",
+      "translation": null
+    },
+    {
+      "time": 22.95,
+      "time_str": "00:22.950",
+      "text": "其实大家早已嫌大家却扮忙",
+      "translation": null
+    },
+    {
+      "time": 28.4,
+      "time_str": "00:28.400",
+      "text": "恨有多一点碰撞",
+      "translation": null
+    },
+    {
+      "time": 31.71,
+      "time_str": "00:31.710",
+      "text": "仍然无聊事干不敢打搅对方",
+      "translation": null
+    },
+    {
+      "time": 35.86,
+      "time_str": "00:35.860",
+      "text": "要是你愿意",
+      "translation": null
+    },
+    {
+      "time": 37.78,
+      "time_str": "00:37.780",
+      "text": "诚实讲一趟",
+      "translation": null
+    },
+    {
+      "time": 39.7,
+      "time_str": "00:39.700",
+      "text": "彼此都起码觉得释放",
+      "translation": null
+    },
+    {
+      "time": 44.43,
+      "time_str": "00:44.430",
+      "text": "不要哭",
+      "translation": null
+    },
+    {
+      "time": 46.35,
+      "time_str": "00:46.350",
+      "text": "我也忍得了这些年来的委屈",
+      "translation": null
+    },
+    {
+      "time": 51.75,
+      "time_str": "00:51.750",
+      "text": "没法真心爱下去",
+      "translation": null
+    },
+    {
+      "time": 54.33,
+      "time_str": "00:54.330",
+      "text": "只好真心真意的结束",
+      "translation": null
+    },
+    {
+      "time": 58.77,
+      "time_str": "00:58.770",
+      "text": "别再做情人",
+      "translation": null
+    },
+    {
+      "time": 61.09,
+      "time_str": "01:01.090",
+      "text": "做只猫做只狗",
+      "translation": null
+    },
+    {
+      "time": 62.86,
+      "time_str": "01:02.860",
+      "text": "不做情人",
+      "translation": null
+    },
+    {
+      "time": 64.68,
+      "time_str": "01:04.680",
+      "text": "做只宠物至少可爱迷人",
+      "translation": null
+    },
+    {
+      "time": 68.27,
+      "time_str": "01:08.270",
+      "text": "和你不瞅不睬",
+      "translation": null
+    },
+    {
+      "time": 70.5,
+      "time_str": "01:10.500",
+      "text": "最终只会成为敌人",
+      "translation": null
+    },
+    {
+      "time": 72.72,
+      "time_str": "01:12.720",
+      "text": "沦为旧朋友 是否又称心",
+      "translation": null
+    },
+    {
+      "time": 76.36,
+      "time_str": "01:16.360",
+      "text": "没有心 只像闲人",
+      "translation": null
+    },
+    {
+      "time": 78.99,
+      "time_str": "01:18.990",
+      "text": "若有空 难道有空可接吻",
+      "translation": null
+    },
+    {
+      "time": 82.57,
+      "time_str": "01:22.570",
+      "text": "注定似过路人陌生",
+      "translation": null
+    },
+    {
+      "time": 86.97,
+      "time_str": "01:26.970",
+      "text": "你怎么手震",
+      "translation": null
+    },
+    {
+      "time": 96.77,
+      "time_str": "01:36.770",
+      "text": "长期被逼恋爱也真比",
+      "translation": null
+    },
+    {
+      "time": 100.37,
+      "time_str": "01:40.370",
+      "text": "失恋更惨",
+      "translation": null
+    },
+    {
+      "time": 103.66,
+      "time_str": "01:43.660",
+      "text": "长期扮演若无其事般",
+      "translation": null
+    },
+    {
+      "time": 107.55,
+      "time_str": "01:47.550",
+      "text": "更困难",
+      "translation": null
+    },
+    {
+      "time": 109.01,
+      "time_str": "01:49.010",
+      "text": "是我专登反应慢",
+      "translation": null
+    },
+    {
+      "time": 112.37,
+      "time_str": "01:52.370",
+      "text": "明明为时甚晚",
+      "translation": null
+    },
+    {
+      "time": 114.05,
+      "time_str": "01:54.050",
+      "text": "牌一早该要摊",
+      "translation": null
+    },
+    {
+      "time": 116.27,
+      "time_str": "01:56.270",
+      "text": "再像我伴侣 仍望多一眼",
+      "translation": null
+    },
+    {
+      "time": 120.31,
+      "time_str": "02:00.310",
+      "text": "一生都将会记得今晚",
+      "translation": null
+    },
+    {
+      "time": 125.2,
+      "time_str": "02:05.200",
+      "text": "别再做情人",
+      "translation": null
+    },
+    {
+      "time": 127.42,
+      "time_str": "02:07.420",
+      "text": "做只猫做只狗",
+      "translation": null
+    },
+    {
+      "time": 129.19,
+      "time_str": "02:09.190",
+      "text": "不做情人",
+      "translation": null
+    },
+    {
+      "time": 131.01,
+      "time_str": "02:11.010",
+      "text": "做只宠物至少可爱迷人",
+      "translation": null
+    },
+    {
+      "time": 134.65,
+      "time_str": "02:14.650",
+      "text": "和你不瞅不睬",
+      "translation": null
+    },
+    {
+      "time": 136.82,
+      "time_str": "02:16.820",
+      "text": "最终只会成为敌人",
+      "translation": null
+    },
+    {
+      "time": 139.08,
+      "time_str": "02:19.080",
+      "text": "沦为旧朋友 是否又称心",
+      "translation": null
+    },
+    {
+      "time": 142.67,
+      "time_str": "02:22.670",
+      "text": "没有心 只像闲人",
+      "translation": null
+    },
+    {
+      "time": 145.25,
+      "time_str": "02:25.250",
+      "text": "若有空 难道有空可接吻",
+      "translation": null
+    },
+    {
+      "time": 148.84,
+      "time_str": "02:28.840",
+      "text": "这预告发自虔诚内心",
+      "translation": null
+    },
+    {
+      "time": 153.78,
+      "time_str": "02:33.780",
+      "text": "对不起",
+      "translation": null
+    },
+    {
+      "time": 155.9,
+      "time_str": "02:35.900",
+      "text": "自动分手错愕的你怕会伤感",
+      "translation": null
+    },
+    {
+      "time": 161.48,
+      "time_str": "02:41.480",
+      "text": "盲目的我",
+      "translation": null
+    },
+    {
+      "time": 163.2,
+      "time_str": "02:43.200",
+      "text": "现在也可转台来贺你新生",
+      "translation": null
+    },
+    {
+      "time": 169.44,
+      "time_str": "02:49.440",
+      "text": "别再做情人",
+      "translation": null
+    },
+    {
+      "time": 171.31,
+      "time_str": "02:51.310",
+      "text": "做只猫做只狗",
+      "translation": null
+    },
+    {
+      "time": 173.13,
+      "time_str": "02:53.130",
+      "text": "不做情人",
+      "translation": null
+    },
+    {
+      "time": 174.89,
+      "time_str": "02:54.890",
+      "text": "做只宠物至少可爱迷人",
+      "translation": null
+    },
+    {
+      "time": 178.48,
+      "time_str": "02:58.480",
+      "text": "和你相交不浅",
+      "translation": null
+    },
+    {
+      "time": 180.7,
+      "time_str": "03:00.700",
+      "text": "无谓明日会被你憎",
+      "translation": null
+    },
+    {
+      "time": 182.97,
+      "time_str": "03:02.970",
+      "text": "沦为旧朋友 是否又称心",
+      "translation": null
+    },
+    {
+      "time": 186.56,
+      "time_str": "03:06.560",
+      "text": "没有心 只像闲人",
+      "translation": null
+    },
+    {
+      "time": 189.17,
+      "time_str": "03:09.170",
+      "text": "若有空 难道有空可接吻",
+      "translation": null
+    },
+    {
+      "time": 192.81,
+      "time_str": "03:12.810",
+      "text": "注定似过路人陌生",
+      "translation": null
+    },
+    {
+      "time": 197.25,
+      "time_str": "03:17.250",
+      "text": "你怎么手震",
+      "translation": null
+    },
+    {
+      "time": 221.25,
+      "time_str": "03:41.250",
+      "text": "编程 : 雷颂德",
+      "translation": null
+    },
+    {
+      "time": 222.25,
+      "time_str": "03:42.250",
+      "text": "人声 : 古巨基",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱与诚 - 古巨基.lrc"
+}

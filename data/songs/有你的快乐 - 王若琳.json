@@ -1,0 +1,226 @@
+{
+  "title": "有你的快乐",
+  "title_raw": "有你的快乐",
+  "version": null,
+  "artist": "王若琳",
+  "group_key": "有你的快乐|王若琳",
+  "writers": {
+    "lyricist": "娃娃",
+    "composer": "Peter Sven Kvint/Vincent Paul Degiorgio",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 9.44,
+      "time_str": "00:09.440",
+      "text": "我怎么都不想睡",
+      "translation": null
+    },
+    {
+      "time": 13.42,
+      "time_str": "00:13.420",
+      "text": "天特别亮 夜特别的黑",
+      "translation": null
+    },
+    {
+      "time": 17.63,
+      "time_str": "00:17.630",
+      "text": "当我深深的呼吸",
+      "translation": null
+    },
+    {
+      "time": 21.96,
+      "time_str": "00:21.960",
+      "text": "心中充满想你的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 28.53,
+      "time_str": "00:28.530",
+      "text": "想和你走在雨中",
+      "translation": null
+    },
+    {
+      "time": 30.95,
+      "time_str": "00:30.950",
+      "text": "想要你牵我的手",
+      "translation": null
+    },
+    {
+      "time": 33.07,
+      "time_str": "00:33.070",
+      "text": "傻傻的你不敢说爱",
+      "translation": null
+    },
+    {
+      "time": 37.64,
+      "time_str": "00:37.640",
+      "text": "而我也故意要你为我等待",
+      "translation": null
+    },
+    {
+      "time": 45.79,
+      "time_str": "00:45.790",
+      "text": "说不出有多么快乐",
+      "translation": null
+    },
+    {
+      "time": 48.86,
+      "time_str": "00:48.860",
+      "text": "还是不够 这感觉这一切",
+      "translation": null
+    },
+    {
+      "time": 54.07,
+      "time_str": "00:54.070",
+      "text": "就好像飘在外太空",
+      "translation": null
+    },
+    {
+      "time": 57.28,
+      "time_str": "00:57.280",
+      "text": "别的星球 只有我们存在",
+      "translation": null
+    },
+    {
+      "time": 64.89,
+      "time_str": "01:04.890",
+      "text": "喜欢和你在一起",
+      "translation": null
+    },
+    {
+      "time": 69.1,
+      "time_str": "01:09.100",
+      "text": "无聊的生命也变有趣",
+      "translation": null
+    },
+    {
+      "time": 73.27,
+      "time_str": "01:13.270",
+      "text": "让你听我的音乐",
+      "translation": null
+    },
+    {
+      "time": 77.67,
+      "time_str": "01:17.670",
+      "text": "分享在每一刻的心情",
+      "translation": null
+    },
+    {
+      "time": 84.81,
+      "time_str": "01:24.810",
+      "text": "在一起越来越久",
+      "translation": null
+    },
+    {
+      "time": 86.68,
+      "time_str": "01:26.680",
+      "text": "开始会对你在乎",
+      "translation": null
+    },
+    {
+      "time": 88.87,
+      "time_str": "01:28.870",
+      "text": "这感觉我们都明白",
+      "translation": null
+    },
+    {
+      "time": 93.31,
+      "time_str": "01:33.310",
+      "text": "只要你在身边 日子就亮起来",
+      "translation": null
+    },
+    {
+      "time": 101.31,
+      "time_str": "01:41.310",
+      "text": "说不出有多么快乐",
+      "translation": null
+    },
+    {
+      "time": 104.48,
+      "time_str": "01:44.480",
+      "text": "还是不够 这感觉这一切",
+      "translation": null
+    },
+    {
+      "time": 109.86,
+      "time_str": "01:49.860",
+      "text": "就好像飘在外太空",
+      "translation": null
+    },
+    {
+      "time": 113.03,
+      "time_str": "01:53.030",
+      "text": "别的星球 只有我们存在",
+      "translation": null
+    },
+    {
+      "time": 121.95,
+      "time_str": "02:01.950",
+      "text": "爱情 在这个时候",
+      "translation": null
+    },
+    {
+      "time": 129.12,
+      "time_str": "02:09.120",
+      "text": "我的心就像天气",
+      "translation": null
+    },
+    {
+      "time": 133.84,
+      "time_str": "02:13.840",
+      "text": "晴时多云偶尔有雨",
+      "translation": null
+    },
+    {
+      "time": 137.55,
+      "time_str": "02:17.550",
+      "text": "说不出有多么快乐",
+      "translation": null
+    },
+    {
+      "time": 140.85,
+      "time_str": "02:20.850",
+      "text": "还是不够 这感觉这一切",
+      "translation": null
+    },
+    {
+      "time": 146.43,
+      "time_str": "02:26.430",
+      "text": "就好像飘在外太空",
+      "translation": null
+    },
+    {
+      "time": 149.5,
+      "time_str": "02:29.500",
+      "text": "别的星球 只有我们存在",
+      "translation": null
+    },
+    {
+      "time": 154.87,
+      "time_str": "02:34.870",
+      "text": "说不出有多么快乐",
+      "translation": null
+    },
+    {
+      "time": 158.02,
+      "time_str": "02:38.020",
+      "text": "还是不够 这感觉这一切",
+      "translation": null
+    },
+    {
+      "time": 163.35,
+      "time_str": "02:43.350",
+      "text": "就好像飘在外太空",
+      "translation": null
+    },
+    {
+      "time": 166.54,
+      "time_str": "02:46.540",
+      "text": "别的星球 只有我们存在",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "有你的快乐 - 王若琳.lrc"
+}

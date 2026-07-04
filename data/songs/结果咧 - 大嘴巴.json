@@ -1,0 +1,406 @@
+{
+  "title": "结果咧",
+  "title_raw": "结果咧",
+  "version": null,
+  "artist": "大嘴巴",
+  "group_key": "结果咧|大嘴巴",
+  "writers": {
+    "lyricist": "薛仕凌/爱纱 (AiSa)",
+    "composer": "K.Y.B",
+    "arranger": "小安"
+  },
+  "lyrics": [
+    {
+      "time": 1.47,
+      "time_str": "00:01.470",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 4.12,
+      "time_str": "00:04.120",
+      "text": "我们在舞池发疯  他们旁边空点头",
+      "translation": null
+    },
+    {
+      "time": 7.25,
+      "time_str": "00:07.250",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 10.94,
+      "time_str": "00:10.940",
+      "text": "抓紧了整个节奏  身体就全面解脱",
+      "translation": null
+    },
+    {
+      "time": 14.52,
+      "time_str": "00:14.520",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 18.11,
+      "time_str": "00:18.110",
+      "text": "整场焦点全集中  挥洒每一秒钟",
+      "translation": null
+    },
+    {
+      "time": 21.919,
+      "time_str": "00:21.919",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 25.36,
+      "time_str": "00:25.360",
+      "text": "Fly look like I’ve known",
+      "translation": null
+    },
+    {
+      "time": 27.45,
+      "time_str": "00:27.450",
+      "text": "Hell rock we do' let’s go （ohoh oh ohohohohoh）",
+      "translation": null
+    },
+    {
+      "time": 30.189,
+      "time_str": "00:30.189",
+      "text": "怕衣服行头被打抢  怕身材发型被打抢",
+      "translation": null
+    },
+    {
+      "time": 32.96,
+      "time_str": "00:32.960",
+      "text": "Don’t dance don’t rap 预设立场太多",
+      "translation": null
+    },
+    {
+      "time": 36.4,
+      "time_str": "00:36.400",
+      "text": "嫌自己造型不够趴  嫌老外总是一大挂",
+      "translation": null
+    },
+    {
+      "time": 39.94,
+      "time_str": "00:39.940",
+      "text": "太多 框架 未战就先唆哈",
+      "translation": null
+    },
+    {
+      "time": 44.3,
+      "time_str": "00:44.300",
+      "text": "So what we got yo!",
+      "translation": null
+    },
+    {
+      "time": 45.55,
+      "time_str": "00:45.550",
+      "text": "So how we rock yo!",
+      "translation": null
+    },
+    {
+      "time": 47.64,
+      "time_str": "00:47.640",
+      "text": "So how the heart is the place is does!",
+      "translation": null
+    },
+    {
+      "time": 50.84,
+      "time_str": "00:50.840",
+      "text": "用力跳起来吧  闪自己的亮光",
+      "translation": null
+    },
+    {
+      "time": 54.99,
+      "time_str": "00:54.990",
+      "text": "告诉他们全场  谁的声势最大",
+      "translation": null
+    },
+    {
+      "time": 59.1,
+      "time_str": "00:59.100",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 61.83,
+      "time_str": "01:01.830",
+      "text": "我们在舞池发疯  他们旁边空点头",
+      "translation": null
+    },
+    {
+      "time": 65.42,
+      "time_str": "01:05.420",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 69.53,
+      "time_str": "01:09.530",
+      "text": "抓紧了整个节奏  身体就全面解脱",
+      "translation": null
+    },
+    {
+      "time": 73.0,
+      "time_str": "01:13.000",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 76.52,
+      "time_str": "01:16.520",
+      "text": "整场焦点全集中  挥洒每一秒钟",
+      "translation": null
+    },
+    {
+      "time": 79.88,
+      "time_str": "01:19.880",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 83.86,
+      "time_str": "01:23.860",
+      "text": "大嘴巴已经出动",
+      "translation": null
+    },
+    {
+      "time": 85.83,
+      "time_str": "01:25.830",
+      "text": "Report the dance floor",
+      "translation": null
+    },
+    {
+      "time": 87.63,
+      "time_str": "01:27.630",
+      "text": "装傻  不是无辜还假装",
+      "translation": null
+    },
+    {
+      "time": 89.57,
+      "time_str": "01:29.570",
+      "text": "形象化还是死要hold住它",
+      "translation": null
+    },
+    {
+      "time": 90.97,
+      "time_str": "01:30.970",
+      "text": "张望  空坐着不会张望",
+      "translation": null
+    },
+    {
+      "time": 92.65,
+      "time_str": "01:32.650",
+      "text": "进帐  是要靠自己去闯",
+      "translation": null
+    },
+    {
+      "time": 94.6,
+      "time_str": "01:34.600",
+      "text": "害怕别人的眼光 去白眼 说脏话",
+      "translation": null
+    },
+    {
+      "time": 97.1,
+      "time_str": "01:37.100",
+      "text": "那干脆两手一摊妄想上帝会发光",
+      "translation": null
+    },
+    {
+      "time": 98.65,
+      "time_str": "01:38.650",
+      "text": "不要害怕 去放 交锋后 你会得到满满勋章",
+      "translation": null
+    },
+    {
+      "time": 102.15,
+      "time_str": "01:42.150",
+      "text": "So what we got yo!",
+      "translation": null
+    },
+    {
+      "time": 103.98,
+      "time_str": "01:43.980",
+      "text": "So how we rock yo!",
+      "translation": null
+    },
+    {
+      "time": 105.67,
+      "time_str": "01:45.670",
+      "text": "BA Mouth is heart on the dance floor!",
+      "translation": null
+    },
+    {
+      "time": 107.63,
+      "time_str": "01:47.630",
+      "text": "That’s how we do it yo!",
+      "translation": null
+    },
+    {
+      "time": 109.34,
+      "time_str": "01:49.340",
+      "text": "用力跳起来吧  闪自己的亮光",
+      "translation": null
+    },
+    {
+      "time": 113.13,
+      "time_str": "01:53.130",
+      "text": "告诉他们全场  谁的声势最大",
+      "translation": null
+    },
+    {
+      "time": 116.679,
+      "time_str": "01:56.679",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 120.14,
+      "time_str": "02:00.140",
+      "text": "朋友变男友  男友再多也不嫌多",
+      "translation": null
+    },
+    {
+      "time": 123.85,
+      "time_str": "02:03.850",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 127.25,
+      "time_str": "02:07.250",
+      "text": "大嘴巴 谁还在乱讲话",
+      "translation": null
+    },
+    {
+      "time": 129.238,
+      "time_str": "02:09.238",
+      "text": "大嘴巴 让我们来称霸",
+      "translation": null
+    },
+    {
+      "time": 130.949,
+      "time_str": "02:10.949",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 134.51,
+      "time_str": "02:14.510",
+      "text": "按喇叭 大脚丫 油门紧尬别放",
+      "translation": null
+    },
+    {
+      "time": 138.6,
+      "time_str": "02:18.600",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 141.829,
+      "time_str": "02:21.829",
+      "text": "变化球 是谁挥掉落空 王牌投手 是我",
+      "translation": null
+    },
+    {
+      "time": 145.89,
+      "time_str": "02:25.890",
+      "text": "就像你听到的  带头是大嘴巴",
+      "translation": null
+    },
+    {
+      "time": 149.35,
+      "time_str": "02:29.350",
+      "text": "释放深处的灵魂跳脱出来吧",
+      "translation": null
+    },
+    {
+      "time": 153.209,
+      "time_str": "02:33.209",
+      "text": "集合所有当家  蹦出节奏火花",
+      "translation": null
+    },
+    {
+      "time": 158.6,
+      "time_str": "02:38.600",
+      "text": "无法抗拒发达",
+      "translation": null
+    },
+    {
+      "time": 164.899,
+      "time_str": "02:44.899",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 170.88,
+      "time_str": "02:50.880",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 174.85,
+      "time_str": "02:54.850",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 178.549,
+      "time_str": "02:58.549",
+      "text": "朋友变女友  女友再多也不嫌多",
+      "translation": null
+    },
+    {
+      "time": 182.2,
+      "time_str": "03:02.200",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 185.399,
+      "time_str": "03:05.399",
+      "text": "大嘴巴 谁还在乱讲话",
+      "translation": null
+    },
+    {
+      "time": 187.19,
+      "time_str": "03:07.190",
+      "text": "大嘴巴 让我们来称霸",
+      "translation": null
+    },
+    {
+      "time": 189.1,
+      "time_str": "03:09.100",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 192.69,
+      "time_str": "03:12.690",
+      "text": "按喇叭 大脚丫 油门紧尬别放",
+      "translation": null
+    },
+    {
+      "time": 196.29,
+      "time_str": "03:16.290",
+      "text": "结果咧 结果咧 结果咧 结果咧",
+      "translation": null
+    },
+    {
+      "time": 200.0,
+      "time_str": "03:20.000",
+      "text": "变化球 是谁挥掉落空 王牌投手还是我",
+      "translation": null
+    },
+    {
+      "time": 221.179,
+      "time_str": "03:41.179",
+      "text": "结果咧 结果咧",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "结果咧 - 大嘴巴.lrc"
+}

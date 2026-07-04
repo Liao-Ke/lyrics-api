@@ -1,0 +1,454 @@
+{
+  "title": "Romance",
+  "title_raw": "Romance",
+  "version": null,
+  "artist": "石凯",
+  "group_key": "romance|石凯",
+  "writers": {
+    "lyricist": "卫某人/飞行少年",
+    "composer": "卫某人/飞行少年",
+    "arranger": "邓森@Dokodemo Door"
+  },
+  "lyrics": [
+    {
+      "time": 1.61,
+      "time_str": "00:01.610",
+      "text": "就让晚风吹过花海",
+      "translation": null
+    },
+    {
+      "time": 4.01,
+      "time_str": "00:04.010",
+      "text": "在你的未来每个定格画面都会有我在",
+      "translation": null
+    },
+    {
+      "time": 9.01,
+      "time_str": "00:09.010",
+      "text": "爱会加倍 像涨潮水",
+      "translation": null
+    },
+    {
+      "time": 11.79,
+      "time_str": "00:11.790",
+      "text": "认识了几周 还没有抱过你",
+      "translation": null
+    },
+    {
+      "time": 14.15,
+      "time_str": "00:14.150",
+      "text": "无数的思念 却无处下笔",
+      "translation": null
+    },
+    {
+      "time": 16.69,
+      "time_str": "00:16.690",
+      "text": "一直重播上条Message",
+      "translation": null
+    },
+    {
+      "time": 20.18,
+      "time_str": "00:20.180",
+      "text": "Make Me So Messing",
+      "translation": null
+    },
+    {
+      "time": 21.58,
+      "time_str": "00:21.580",
+      "text": "Romance",
+      "translation": null
+    },
+    {
+      "time": 24.19,
+      "time_str": "00:24.190",
+      "text": "过期的胶卷将剧情放慢",
+      "translation": null
+    },
+    {
+      "time": 26.24,
+      "time_str": "00:26.240",
+      "text": "Romance",
+      "translation": null
+    },
+    {
+      "time": 28.84,
+      "time_str": "00:28.840",
+      "text": "流出香槟的杯子 又被倒满",
+      "translation": null
+    },
+    {
+      "time": 33.6,
+      "time_str": "00:33.600",
+      "text": "素描被染上了色彩",
+      "translation": null
+    },
+    {
+      "time": 40.01,
+      "time_str": "00:40.010",
+      "text": "Yeah.",
+      "translation": null
+    },
+    {
+      "time": 41.2,
+      "time_str": "00:41.200",
+      "text": "You like You like",
+      "translation": null
+    },
+    {
+      "time": 42.47,
+      "time_str": "00:42.470",
+      "text": "灯光不再暗淡",
+      "translation": null
+    },
+    {
+      "time": 43.93,
+      "time_str": "00:43.930",
+      "text": "时间滴答",
+      "translation": null
+    },
+    {
+      "time": 44.9,
+      "time_str": "00:44.900",
+      "text": "停不下的脉搏",
+      "translation": null
+    },
+    {
+      "time": 46.47,
+      "time_str": "00:46.470",
+      "text": "追着太阳再多看一次日落",
+      "translation": null
+    },
+    {
+      "time": 50.99,
+      "time_str": "00:50.990",
+      "text": "和 我 的每一刻",
+      "translation": null
+    },
+    {
+      "time": 53.75,
+      "time_str": "00:53.750",
+      "text": "不止是电影里面演的罗曼蒂克",
+      "translation": null
+    },
+    {
+      "time": 56.32,
+      "time_str": "00:56.320",
+      "text": "每个瞬间我都记得",
+      "translation": null
+    },
+    {
+      "time": 59.75,
+      "time_str": "00:59.750",
+      "text": "Girl You like Romance",
+      "translation": null
+    },
+    {
+      "time": 61.82,
+      "time_str": "01:01.820",
+      "text": "Romance Girl!!",
+      "translation": null
+    },
+    {
+      "time": 63.35,
+      "time_str": "01:03.350",
+      "text": "We All Need Romance Girl",
+      "translation": null
+    },
+    {
+      "time": 65.95,
+      "time_str": "01:05.950",
+      "text": "夏日需要鲜花和爱!!",
+      "translation": null
+    },
+    {
+      "time": 70.94,
+      "time_str": "01:10.940",
+      "text": "Romance",
+      "translation": null
+    },
+    {
+      "time": 71.82,
+      "time_str": "01:11.820",
+      "text": "Romance Girl!!",
+      "translation": null
+    },
+    {
+      "time": 73.19,
+      "time_str": "01:13.190",
+      "text": "We All Need Romance Girl",
+      "translation": null
+    },
+    {
+      "time": 75.65,
+      "time_str": "01:15.650",
+      "text": "回忆和美好在盛开",
+      "translation": null
+    },
+    {
+      "time": 80.4,
+      "time_str": "01:20.400",
+      "text": "就让晚风吹过花海",
+      "translation": null
+    },
+    {
+      "time": 83.14,
+      "time_str": "01:23.140",
+      "text": "在你的未来每个定格画面都会有我在",
+      "translation": null
+    },
+    {
+      "time": 88.12,
+      "time_str": "01:28.120",
+      "text": "爱会加倍 像涨潮水",
+      "translation": null
+    },
+    {
+      "time": 90.9,
+      "time_str": "01:30.900",
+      "text": "认识了几周 还没有抱过你",
+      "translation": null
+    },
+    {
+      "time": 93.46,
+      "time_str": "01:33.460",
+      "text": "无数的思念 却无处下笔",
+      "translation": null
+    },
+    {
+      "time": 96.68,
+      "time_str": "01:36.680",
+      "text": "一直重播上条Message",
+      "translation": null
+    },
+    {
+      "time": 99.38,
+      "time_str": "01:39.380",
+      "text": "Make Me So Messing",
+      "translation": null
+    },
+    {
+      "time": 101.18,
+      "time_str": "01:41.180",
+      "text": "最浪漫是看花开",
+      "translation": null
+    },
+    {
+      "time": 103.27,
+      "time_str": "01:43.270",
+      "text": "希望躺在草地发呆",
+      "translation": null
+    },
+    {
+      "time": 105.73,
+      "time_str": "01:45.730",
+      "text": "这就是最浪漫的事",
+      "translation": null
+    },
+    {
+      "time": 109.45,
+      "time_str": "01:49.450",
+      "text": "在我的世界",
+      "translation": null
+    },
+    {
+      "time": 110.71,
+      "time_str": "01:50.710",
+      "text": "每时每刻",
+      "translation": null
+    },
+    {
+      "time": 111.51,
+      "time_str": "01:51.510",
+      "text": "We all need to know",
+      "translation": null
+    },
+    {
+      "time": 113.17,
+      "time_str": "01:53.170",
+      "text": "我愿为你变成一阵风",
+      "translation": null
+    },
+    {
+      "time": 115.92,
+      "time_str": "01:55.920",
+      "text": "悄无声息闯入你世界",
+      "translation": null
+    },
+    {
+      "time": 119.03,
+      "time_str": "01:59.030",
+      "text": "Girl You like Romance",
+      "translation": null
+    },
+    {
+      "time": 121.17,
+      "time_str": "02:01.170",
+      "text": "Romance Girl!!",
+      "translation": null
+    },
+    {
+      "time": 122.72,
+      "time_str": "02:02.720",
+      "text": "We All Need Romance Girl",
+      "translation": null
+    },
+    {
+      "time": 125.13,
+      "time_str": "02:05.130",
+      "text": "夏日需要鲜花和爱!!",
+      "translation": null
+    },
+    {
+      "time": 130.22,
+      "time_str": "02:10.220",
+      "text": "Romance",
+      "translation": null
+    },
+    {
+      "time": 131.1,
+      "time_str": "02:11.100",
+      "text": "Romance Girl!!",
+      "translation": null
+    },
+    {
+      "time": 132.27,
+      "time_str": "02:12.270",
+      "text": "We All Need Romance Girl",
+      "translation": null
+    },
+    {
+      "time": 135.07,
+      "time_str": "02:15.070",
+      "text": "回忆和美好在盛开",
+      "translation": null
+    },
+    {
+      "time": 140.39,
+      "time_str": "02:20.390",
+      "text": "I Need Romance Girl",
+      "translation": null
+    },
+    {
+      "time": 142.27,
+      "time_str": "02:22.270",
+      "text": "最好在每次电影散场握紧我的手",
+      "translation": null
+    },
+    {
+      "time": 145.3,
+      "time_str": "02:25.300",
+      "text": "被 带 入 偶像剧情境",
+      "translation": null
+    },
+    {
+      "time": 147.97,
+      "time_str": "02:27.970",
+      "text": "You Are The Key To好心情",
+      "translation": null
+    },
+    {
+      "time": 150.31,
+      "time_str": "02:30.310",
+      "text": "拍拖的感觉",
+      "translation": null
+    },
+    {
+      "time": 151.14,
+      "time_str": "02:31.140",
+      "text": "开启第一章节",
+      "translation": null
+    },
+    {
+      "time": 152.31,
+      "time_str": "02:32.310",
+      "text": "夏天第一只用画笔记录的蝴蝶",
+      "translation": null
+    },
+    {
+      "time": 155.14,
+      "time_str": "02:35.140",
+      "text": "Oh Maybe 和你有关一切占为己有",
+      "translation": null
+    },
+    {
+      "time": 157.92,
+      "time_str": "02:37.920",
+      "text": "就像是有牛奶搭配的Oreo（奥利奥）",
+      "translation": null
+    },
+    {
+      "time": 161.12,
+      "time_str": "02:41.120",
+      "text": "Girl You like Romance",
+      "translation": null
+    },
+    {
+      "time": 163.28,
+      "time_str": "02:43.280",
+      "text": "Romance Girl!!",
+      "translation": null
+    },
+    {
+      "time": 164.79,
+      "time_str": "02:44.790",
+      "text": "We All Need Romance Girl",
+      "translation": null
+    },
+    {
+      "time": 167.21,
+      "time_str": "02:47.210",
+      "text": "夏日需要鲜花和爱!!",
+      "translation": null
+    },
+    {
+      "time": 172.29,
+      "time_str": "02:52.290",
+      "text": "Romance",
+      "translation": null
+    },
+    {
+      "time": 173.31,
+      "time_str": "02:53.310",
+      "text": "Romance Girl!!",
+      "translation": null
+    },
+    {
+      "time": 174.62,
+      "time_str": "02:54.620",
+      "text": "We All Need Romance Girl",
+      "translation": null
+    },
+    {
+      "time": 176.99,
+      "time_str": "02:56.990",
+      "text": "回忆和美好在盛开",
+      "translation": null
+    },
+    {
+      "time": 179.4,
+      "time_str": "02:59.400",
+      "text": "母带：Dokodemo Door Music（CDC）",
+      "translation": null
+    },
+    {
+      "time": 180.1,
+      "time_str": "03:00.100",
+      "text": "音乐创意设计：飞行少年@Dokodemo Door/小卫@Dokodemo Door",
+      "translation": null
+    },
+    {
+      "time": 180.81,
+      "time_str": "03:00.810",
+      "text": "执行制作人：汪域@Dokodemo Door",
+      "translation": null
+    },
+    {
+      "time": 182.22,
+      "time_str": "03:02.220",
+      "text": "企划：王梦菲",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "Romance - 石凯.lrc"
+}

@@ -1,0 +1,268 @@
+{
+  "title": "为你而活",
+  "title_raw": "为你而活",
+  "version": null,
+  "artist": "神木与瞳",
+  "group_key": "为你而活|神木与瞳",
+  "writers": {
+    "lyricist": "马嵩惟",
+    "composer": "阿弟仔",
+    "arranger": "黄雨勋"
+  },
+  "lyrics": [
+    {
+      "time": 27.05,
+      "time_str": "00:27.050",
+      "text": "看生命 像阵风",
+      "translation": null
+    },
+    {
+      "time": 33.6,
+      "time_str": "00:33.600",
+      "text": "抱不住的痛 所以紧握双手",
+      "translation": null
+    },
+    {
+      "time": 41.27,
+      "time_str": "00:41.270",
+      "text": "抬起头 那流星般的笑容",
+      "translation": null
+    },
+    {
+      "time": 48.61,
+      "time_str": "00:48.610",
+      "text": "只不过 坠落在心中",
+      "translation": null
+    },
+    {
+      "time": 55.28,
+      "time_str": "00:55.280",
+      "text": "天空会裂缝 我肩头",
+      "translation": null
+    },
+    {
+      "time": 59.72,
+      "time_str": "00:59.720",
+      "text": "添上的爱那么重",
+      "translation": null
+    },
+    {
+      "time": 62.72,
+      "time_str": "01:02.720",
+      "text": "就不怕 滂沱",
+      "translation": null
+    },
+    {
+      "time": 69.75,
+      "time_str": "01:09.750",
+      "text": "用眼泪庆贺 跨过了",
+      "translation": null
+    },
+    {
+      "time": 73.88,
+      "time_str": "01:13.880",
+      "text": "坚信这一扇门后",
+      "translation": null
+    },
+    {
+      "time": 76.8,
+      "time_str": "01:16.800",
+      "text": "真的有 天国",
+      "translation": null
+    },
+    {
+      "time": 83.43,
+      "time_str": "01:23.430",
+      "text": "为了你而活 为了你而梦",
+      "translation": null
+    },
+    {
+      "time": 87.58,
+      "time_str": "01:27.580",
+      "text": "为了爱我会撑到最后",
+      "translation": null
+    },
+    {
+      "time": 90.93,
+      "time_str": "01:30.930",
+      "text": "当世界都乌有",
+      "translation": null
+    },
+    {
+      "time": 94.55,
+      "time_str": "01:34.550",
+      "text": "守着你的人是我",
+      "translation": null
+    },
+    {
+      "time": 97.76,
+      "time_str": "01:37.760",
+      "text": "为了你而活 为了你而梦",
+      "translation": null
+    },
+    {
+      "time": 101.45,
+      "time_str": "01:41.450",
+      "text": "伤痕再深心无法划破",
+      "translation": null
+    },
+    {
+      "time": 104.94,
+      "time_str": "01:44.940",
+      "text": "跟命运在逆流 就算错了",
+      "translation": null
+    },
+    {
+      "time": 111.86,
+      "time_str": "01:51.860",
+      "text": "也不退后",
+      "translation": null
+    },
+    {
+      "time": 132.82,
+      "time_str": "02:12.820",
+      "text": "不闪躲 在这荆棘遍布中",
+      "translation": null
+    },
+    {
+      "time": 147.47,
+      "time_str": "02:27.470",
+      "text": "那伤口会开出花朵",
+      "translation": null
+    },
+    {
+      "time": 154.54,
+      "time_str": "02:34.540",
+      "text": "天空会裂缝 我肩头",
+      "translation": null
+    },
+    {
+      "time": 158.5,
+      "time_str": "02:38.500",
+      "text": "添上的爱那么重",
+      "translation": null
+    },
+    {
+      "time": 161.71,
+      "time_str": "02:41.710",
+      "text": "就不怕 滂沱",
+      "translation": null
+    },
+    {
+      "time": 168.4,
+      "time_str": "02:48.400",
+      "text": "用眼泪庆贺 跨过了",
+      "translation": null
+    },
+    {
+      "time": 172.5,
+      "time_str": "02:52.500",
+      "text": "坚信这一扇门后",
+      "translation": null
+    },
+    {
+      "time": 175.56,
+      "time_str": "02:55.560",
+      "text": "真的有 天国",
+      "translation": null
+    },
+    {
+      "time": 182.56,
+      "time_str": "03:02.560",
+      "text": "为了你而活 为了你而梦",
+      "translation": null
+    },
+    {
+      "time": 186.11,
+      "time_str": "03:06.110",
+      "text": "为了爱我会撑到最后",
+      "translation": null
+    },
+    {
+      "time": 189.8,
+      "time_str": "03:09.800",
+      "text": "当世界都乌有",
+      "translation": null
+    },
+    {
+      "time": 193.22,
+      "time_str": "03:13.220",
+      "text": "守着你的人是我",
+      "translation": null
+    },
+    {
+      "time": 196.54,
+      "time_str": "03:16.540",
+      "text": "为了你而活 为了你而梦",
+      "translation": null
+    },
+    {
+      "time": 200.31,
+      "time_str": "03:20.310",
+      "text": "伤痕再深心无法划破",
+      "translation": null
+    },
+    {
+      "time": 203.93,
+      "time_str": "03:23.930",
+      "text": "跟命运在逆流 就算错了",
+      "translation": null
+    },
+    {
+      "time": 210.49,
+      "time_str": "03:30.490",
+      "text": "也不退后",
+      "translation": null
+    },
+    {
+      "time": 224.29,
+      "time_str": "03:44.290",
+      "text": "为了你而活 为了你而梦",
+      "translation": null
+    },
+    {
+      "time": 228.59,
+      "time_str": "03:48.590",
+      "text": "为了爱我会撑到最后",
+      "translation": null
+    },
+    {
+      "time": 232.13,
+      "time_str": "03:52.130",
+      "text": "当世界都乌有",
+      "translation": null
+    },
+    {
+      "time": 235.6,
+      "time_str": "03:55.600",
+      "text": "守着你的人是我",
+      "translation": null
+    },
+    {
+      "time": 239.09,
+      "time_str": "03:59.090",
+      "text": "为了你而活 为了你而梦",
+      "translation": null
+    },
+    {
+      "time": 242.7,
+      "time_str": "04:02.700",
+      "text": "伤痕再深心无法划破",
+      "translation": null
+    },
+    {
+      "time": 246.36,
+      "time_str": "04:06.360",
+      "text": "任命运在逆流 就算错了",
+      "translation": null
+    },
+    {
+      "time": 252.79,
+      "time_str": "04:12.790",
+      "text": "也不退后",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "为你而活 - 神木与瞳.lrc"
+}

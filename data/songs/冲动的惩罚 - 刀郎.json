@@ -1,0 +1,544 @@
+{
+  "title": "冲动的惩罚",
+  "title_raw": "冲动的惩罚",
+  "version": null,
+  "artist": "刀郎",
+  "group_key": "冲动的惩罚|刀郎",
+  "writers": {
+    "lyricist": "刀郎",
+    "composer": "刀郎",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.295,
+      "time_str": "00:25.295",
+      "text": "那夜我喝醉了拉着你的手",
+      "translation": null
+    },
+    {
+      "time": 29.929,
+      "time_str": "00:29.929",
+      "text": "胡乱地说话",
+      "translation": null
+    },
+    {
+      "time": 34.852,
+      "time_str": "00:34.852",
+      "text": "只顾着自己心中压抑的想法",
+      "translation": null
+    },
+    {
+      "time": 39.721,
+      "time_str": "00:39.721",
+      "text": "狂乱地表达",
+      "translation": null
+    },
+    {
+      "time": 44.345,
+      "time_str": "00:44.345",
+      "text": "我迷醉的眼睛",
+      "translation": null
+    },
+    {
+      "time": 46.678,
+      "time_str": "00:46.678",
+      "text": "已看不清你表情",
+      "translation": null
+    },
+    {
+      "time": 49.226,
+      "time_str": "00:49.226",
+      "text": "忘记了你当时会有怎样的反应",
+      "translation": null
+    },
+    {
+      "time": 53.893,
+      "time_str": "00:53.893",
+      "text": "我拉着你的手",
+      "translation": null
+    },
+    {
+      "time": 56.46,
+      "time_str": "00:56.460",
+      "text": "放在我手心",
+      "translation": null
+    },
+    {
+      "time": 58.792,
+      "time_str": "00:58.792",
+      "text": "我错误地感觉到你也没有生气",
+      "translation": null
+    },
+    {
+      "time": 62.906,
+      "time_str": "01:02.906",
+      "text": "所以我以为",
+      "translation": null
+    },
+    {
+      "time": 67.819,
+      "time_str": "01:07.819",
+      "text": "你会明白我的良苦用心",
+      "translation": null
+    },
+    {
+      "time": 78.133,
+      "time_str": "01:18.133",
+      "text": "直到你转身离去那一刻起",
+      "translation": null
+    },
+    {
+      "time": 82.773,
+      "time_str": "01:22.773",
+      "text": "逐渐地清醒",
+      "translation": null
+    },
+    {
+      "time": 87.652,
+      "time_str": "01:27.652",
+      "text": "才知道把我世界强加给你",
+      "translation": null
+    },
+    {
+      "time": 92.547,
+      "time_str": "01:32.547",
+      "text": "还需要勇气",
+      "translation": null
+    },
+    {
+      "time": 97.169,
+      "time_str": "01:37.169",
+      "text": "在你的内心里",
+      "translation": null
+    },
+    {
+      "time": 99.474,
+      "time_str": "01:39.474",
+      "text": "是怎样对待感情",
+      "translation": null
+    },
+    {
+      "time": 102.068,
+      "time_str": "01:42.068",
+      "text": "直到现在你都没有对我提起",
+      "translation": null
+    },
+    {
+      "time": 106.692,
+      "time_str": "01:46.692",
+      "text": "我自说自话",
+      "translation": null
+    },
+    {
+      "time": 109.281,
+      "time_str": "01:49.281",
+      "text": "简单的想法",
+      "translation": null
+    },
+    {
+      "time": 111.321,
+      "time_str": "01:51.321",
+      "text": "在你看来这根本就是一个笑话",
+      "translation": null
+    },
+    {
+      "time": 115.438,
+      "time_str": "01:55.438",
+      "text": "所以我伤悲",
+      "translation": null
+    },
+    {
+      "time": 120.848,
+      "time_str": "02:00.848",
+      "text": "尽管手中还残留着你的香味",
+      "translation": null
+    },
+    {
+      "time": 129.865,
+      "time_str": "02:09.865",
+      "text": "如果那天你不知道我喝了多少杯",
+      "translation": null
+    },
+    {
+      "time": 135.499,
+      "time_str": "02:15.499",
+      "text": "你就不会明白你究竟有多美",
+      "translation": null
+    },
+    {
+      "time": 139.873,
+      "time_str": "02:19.873",
+      "text": "我也不会相信第一次看见你",
+      "translation": null
+    },
+    {
+      "time": 144.738,
+      "time_str": "02:24.738",
+      "text": "就爱你爱得那么干脆",
+      "translation": null
+    },
+    {
+      "time": 149.135,
+      "time_str": "02:29.135",
+      "text": "可是我相信我心中的感觉",
+      "translation": null
+    },
+    {
+      "time": 154.283,
+      "time_str": "02:34.283",
+      "text": "它来得那么快来得那么直接",
+      "translation": null
+    },
+    {
+      "time": 159.157,
+      "time_str": "02:39.157",
+      "text": "就算我心狂野",
+      "translation": null
+    },
+    {
+      "time": 161.696,
+      "time_str": "02:41.696",
+      "text": "无法将火熄灭",
+      "translation": null
+    },
+    {
+      "time": 164.013,
+      "time_str": "02:44.013",
+      "text": "我依然相信是老天让你我相约",
+      "translation": null
+    },
+    {
+      "time": 168.425,
+      "time_str": "02:48.425",
+      "text": "如果说没有闻到残留",
+      "translation": null
+    },
+    {
+      "time": 171.027,
+      "time_str": "02:51.027",
+      "text": "手中你的香水",
+      "translation": null
+    },
+    {
+      "time": 173.864,
+      "time_str": "02:53.864",
+      "text": "我绝对不会辗转反侧难以入睡",
+      "translation": null
+    },
+    {
+      "time": 178.483,
+      "time_str": "02:58.483",
+      "text": "就想着你的美",
+      "translation": null
+    },
+    {
+      "time": 180.807,
+      "time_str": "03:00.807",
+      "text": "闻着你的香味",
+      "translation": null
+    },
+    {
+      "time": 183.133,
+      "time_str": "03:03.133",
+      "text": "在冰与火的情欲中挣扎徘徊",
+      "translation": null
+    },
+    {
+      "time": 187.481,
+      "time_str": "03:07.481",
+      "text": "如果说不是老天让缘分把我捉弄",
+      "translation": null
+    },
+    {
+      "time": 193.148,
+      "time_str": "03:13.148",
+      "text": "想到你我就不会那么心痛",
+      "translation": null
+    },
+    {
+      "time": 197.777,
+      "time_str": "03:17.777",
+      "text": "就把你忘记吧",
+      "translation": null
+    },
+    {
+      "time": 200.097,
+      "time_str": "03:20.097",
+      "text": "应该把你忘了",
+      "translation": null
+    },
+    {
+      "time": 203.191,
+      "time_str": "03:23.191",
+      "text": "这是对冲动",
+      "translation": null
+    },
+    {
+      "time": 206.55,
+      "time_str": "03:26.550",
+      "text": "最好的惩罚",
+      "translation": null
+    },
+    {
+      "time": 231.747,
+      "time_str": "03:51.747",
+      "text": "直到你转身离去那一刻起",
+      "translation": null
+    },
+    {
+      "time": 236.38,
+      "time_str": "03:56.380",
+      "text": "逐渐地清醒",
+      "translation": null
+    },
+    {
+      "time": 241.286,
+      "time_str": "04:01.286",
+      "text": "才知道把我世界强加给你",
+      "translation": null
+    },
+    {
+      "time": 245.937,
+      "time_str": "04:05.937",
+      "text": "还需要勇气",
+      "translation": null
+    },
+    {
+      "time": 250.605,
+      "time_str": "04:10.605",
+      "text": "在你的内心里",
+      "translation": null
+    },
+    {
+      "time": 252.929,
+      "time_str": "04:12.929",
+      "text": "是怎样对待感情",
+      "translation": null
+    },
+    {
+      "time": 255.501,
+      "time_str": "04:15.501",
+      "text": "直到现在你都没有对我提起",
+      "translation": null
+    },
+    {
+      "time": 259.903,
+      "time_str": "04:19.903",
+      "text": "我自说自话简单的想法",
+      "translation": null
+    },
+    {
+      "time": 264.742,
+      "time_str": "04:24.742",
+      "text": "在你看来这根本就是一个笑话",
+      "translation": null
+    },
+    {
+      "time": 268.863,
+      "time_str": "04:28.863",
+      "text": "所以我伤悲",
+      "translation": null
+    },
+    {
+      "time": 274.235,
+      "time_str": "04:34.235",
+      "text": "尽管手中还残留着你的香味",
+      "translation": null
+    },
+    {
+      "time": 281.179,
+      "time_str": "04:41.179",
+      "text": "如果那天你不知道我喝了多少杯",
+      "translation": null
+    },
+    {
+      "time": 286.847,
+      "time_str": "04:46.847",
+      "text": "你就不会明白你究竟有多美",
+      "translation": null
+    },
+    {
+      "time": 291.234,
+      "time_str": "04:51.234",
+      "text": "我也不会相信",
+      "translation": null
+    },
+    {
+      "time": 293.804,
+      "time_str": "04:53.804",
+      "text": "第一次看见你",
+      "translation": null
+    },
+    {
+      "time": 296.107,
+      "time_str": "04:56.107",
+      "text": "就爱你爱得那么干脆",
+      "translation": null
+    },
+    {
+      "time": 300.179,
+      "time_str": "05:00.179",
+      "text": "可是我相信我心中的感觉",
+      "translation": null
+    },
+    {
+      "time": 305.608,
+      "time_str": "05:05.608",
+      "text": "它来得那么快来得那么直接",
+      "translation": null
+    },
+    {
+      "time": 310.484,
+      "time_str": "05:10.484",
+      "text": "就算我心狂野",
+      "translation": null
+    },
+    {
+      "time": 312.8,
+      "time_str": "05:12.800",
+      "text": "无法将火熄灭",
+      "translation": null
+    },
+    {
+      "time": 315.124,
+      "time_str": "05:15.124",
+      "text": "我依然相信是老天让你我相约",
+      "translation": null
+    },
+    {
+      "time": 319.942,
+      "time_str": "05:19.942",
+      "text": "如果说没有闻到残留",
+      "translation": null
+    },
+    {
+      "time": 322.252,
+      "time_str": "05:22.252",
+      "text": "手中你的香水",
+      "translation": null
+    },
+    {
+      "time": 324.834,
+      "time_str": "05:24.834",
+      "text": "我绝对不会辗转反侧难以入睡",
+      "translation": null
+    },
+    {
+      "time": 329.484,
+      "time_str": "05:29.484",
+      "text": "就想着你的美",
+      "translation": null
+    },
+    {
+      "time": 332.054,
+      "time_str": "05:32.054",
+      "text": "闻着你的香味",
+      "translation": null
+    },
+    {
+      "time": 334.366,
+      "time_str": "05:34.366",
+      "text": "在冰与火的情欲中挣扎徘徊",
+      "translation": null
+    },
+    {
+      "time": 338.732,
+      "time_str": "05:38.732",
+      "text": "如果说不是老天让缘分把我捉弄",
+      "translation": null
+    },
+    {
+      "time": 344.416,
+      "time_str": "05:44.416",
+      "text": "想到你我就不会那么心痛",
+      "translation": null
+    },
+    {
+      "time": 349.011,
+      "time_str": "05:49.011",
+      "text": "就把你忘记吧",
+      "translation": null
+    },
+    {
+      "time": 351.091,
+      "time_str": "05:51.091",
+      "text": "应该把你忘了",
+      "translation": null
+    },
+    {
+      "time": 354.432,
+      "time_str": "05:54.432",
+      "text": "这是对冲动最好的惩罚",
+      "translation": null
+    },
+    {
+      "time": 362.671,
+      "time_str": "06:02.671",
+      "text": "这是对冲动最好的惩罚",
+      "translation": null
+    },
+    {
+      "time": 370.914,
+      "time_str": "06:10.914",
+      "text": "啊",
+      "translation": null
+    },
+    {
+      "time": 422.855,
+      "time_str": "07:02.855",
+      "text": "如果那天你不知道我喝了多少杯",
+      "translation": null
+    },
+    {
+      "time": 428.253,
+      "time_str": "07:08.253",
+      "text": "你就不会明白你究竟有多美",
+      "translation": null
+    },
+    {
+      "time": 432.87,
+      "time_str": "07:12.870",
+      "text": "我也不会相信第一次看见你",
+      "translation": null
+    },
+    {
+      "time": 437.724,
+      "time_str": "07:17.724",
+      "text": "就爱你爱得那么干脆",
+      "translation": null
+    },
+    {
+      "time": 441.837,
+      "time_str": "07:21.837",
+      "text": "可是我相信我心中的感觉",
+      "translation": null
+    },
+    {
+      "time": 447.208,
+      "time_str": "07:27.208",
+      "text": "它来的那么快来的那么直接",
+      "translation": null
+    },
+    {
+      "time": 452.101,
+      "time_str": "07:32.101",
+      "text": "就算我心狂野",
+      "translation": null
+    },
+    {
+      "time": 454.432,
+      "time_str": "07:34.432",
+      "text": "无法将火熄灭",
+      "translation": null
+    },
+    {
+      "time": 457.009,
+      "time_str": "07:37.009",
+      "text": "我依然相信是老天让你我相约",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "冲动的惩罚 - 刀郎.lrc"
+}

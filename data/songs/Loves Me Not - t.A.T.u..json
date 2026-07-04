@@ -1,0 +1,268 @@
+{
+  "title": "Loves Me Not",
+  "title_raw": "Loves Me Not",
+  "version": null,
+  "artist": "t.A.T.u.",
+  "group_key": "loves me not|t.a.t.u.",
+  "writers": {
+    "lyricist": "E. Buller/Andy Kubiszewski",
+    "composer": "E. Buller/Andy Kubiszewski",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.8,
+      "time_str": "00:00.800",
+      "text": "I complicated our lives",
+      "translation": "我的生活被打乱"
+    },
+    {
+      "time": 2.62,
+      "time_str": "00:02.620",
+      "text": "By falling in love with him",
+      "translation": "因为我爱上了他"
+    },
+    {
+      "time": 7.8,
+      "time_str": "00:07.800",
+      "text": "I complicated our lives",
+      "translation": "我的生活被打乱"
+    },
+    {
+      "time": 9.88,
+      "time_str": "00:09.880",
+      "text": "Now I'm losing my only friend",
+      "translation": "现在我没有朋友"
+    },
+    {
+      "time": 15.6,
+      "time_str": "00:15.600",
+      "text": "I don't know why, I had to try",
+      "translation": "我不知道为什么，只想试一试"
+    },
+    {
+      "time": 18.33,
+      "time_str": "00:18.330",
+      "text": "Living my life on the other side",
+      "translation": "我在离你很远的地方生活"
+    },
+    {
+      "time": 21.53,
+      "time_str": "00:21.530",
+      "text": "Now I'm so confused",
+      "translation": "现在我很迷茫"
+    },
+    {
+      "time": 24.96,
+      "time_str": "00:24.960",
+      "text": "I don't know what to do",
+      "translation": "我不知道该怎么办"
+    },
+    {
+      "time": 29.44,
+      "time_str": "00:29.440",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 33.1,
+      "time_str": "00:33.100",
+      "text": "She loves me, She loves me not",
+      "translation": "她爱我，她不爱我"
+    },
+    {
+      "time": 36.83,
+      "time_str": "00:36.830",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 40.42,
+      "time_str": "00:40.420",
+      "text": "She loves me...",
+      "translation": "她爱我..."
+    },
+    {
+      "time": 44.73,
+      "time_str": "00:44.730",
+      "text": "I started blurring the lines",
+      "translation": "我开始模糊了界限"
+    },
+    {
+      "time": 47.11,
+      "time_str": "00:47.110",
+      "text": "Because I didn’t care",
+      "translation": "因为我不在意"
+    },
+    {
+      "time": 51.98,
+      "time_str": "00:51.980",
+      "text": "I started crossing the line",
+      "translation": "我开始跨越这条线"
+    },
+    {
+      "time": 54.45,
+      "time_str": "00:54.450",
+      "text": "Cause you were never there",
+      "translation": "因为你从未在那里"
+    },
+    {
+      "time": 59.35,
+      "time_str": "00:59.350",
+      "text": "No where to turn,No one to help,",
+      "translation": "没地方可去，也没人帮我"
+    },
+    {
+      "time": 62.6,
+      "time_str": "01:02.600",
+      "text": "It's almost like I don't even know myself",
+      "translation": "我甚至不清楚自己在哪里"
+    },
+    {
+      "time": 65.73,
+      "time_str": "01:05.730",
+      "text": "Now I have to choose",
+      "translation": "现在我不得不选择"
+    },
+    {
+      "time": 69.21,
+      "time_str": "01:09.210",
+      "text": "I don't know what to do",
+      "translation": "我不知道该怎么办"
+    },
+    {
+      "time": 73.7,
+      "time_str": "01:13.700",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 77.41,
+      "time_str": "01:17.410",
+      "text": "She loves me, She loves me not",
+      "translation": "她爱我，她不爱我"
+    },
+    {
+      "time": 81.39,
+      "time_str": "01:21.390",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 84.72,
+      "time_str": "01:24.720",
+      "text": "She loves me, she loves me",
+      "translation": "她爱我，她不爱我"
+    },
+    {
+      "time": 89.24,
+      "time_str": "01:29.240",
+      "text": "She loves me...",
+      "translation": "她爱我..."
+    },
+    {
+      "time": 104.22,
+      "time_str": "01:44.220",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 107.8,
+      "time_str": "01:47.800",
+      "text": "She loves me, She loves me not",
+      "translation": "她爱我，她不爱我"
+    },
+    {
+      "time": 111.49,
+      "time_str": "01:51.490",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 115.11,
+      "time_str": "01:55.110",
+      "text": "She loves me...",
+      "translation": "她爱我..."
+    },
+    {
+      "time": 126.69,
+      "time_str": "02:06.690",
+      "text": "No where to turn,No one to help,",
+      "translation": "没地方可去，也没人帮我"
+    },
+    {
+      "time": 130.5,
+      "time_str": "02:10.500",
+      "text": "It's almost like I don't even know myself",
+      "translation": "我甚至不清楚自己在哪里"
+    },
+    {
+      "time": 133.97,
+      "time_str": "02:13.970",
+      "text": "Now I have to choose",
+      "translation": "现在我不得不选择"
+    },
+    {
+      "time": 137.37,
+      "time_str": "02:17.370",
+      "text": "I don't know what to do",
+      "translation": "我不知道该怎么办"
+    },
+    {
+      "time": 142.01,
+      "time_str": "02:22.010",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 145.65,
+      "time_str": "02:25.650",
+      "text": "She loves me, She loves me not",
+      "translation": "她爱我，她不爱我"
+    },
+    {
+      "time": 149.37,
+      "time_str": "02:29.370",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 152.97,
+      "time_str": "02:32.970",
+      "text": "She loves me, She loves me not",
+      "translation": "她爱我，她不爱我"
+    },
+    {
+      "time": 156.56,
+      "time_str": "02:36.560",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 160.28,
+      "time_str": "02:40.280",
+      "text": "She loves me, She loves me not",
+      "translation": "她爱我，她不爱我"
+    },
+    {
+      "time": 163.96,
+      "time_str": "02:43.960",
+      "text": "He loves me, He loves me not",
+      "translation": "他爱我，他不爱我"
+    },
+    {
+      "time": 167.64,
+      "time_str": "02:47.640",
+      "text": "She loves me, She loves me not",
+      "translation": "她爱我，她不爱我"
+    },
+    {
+      "time": 171.32,
+      "time_str": "02:51.320",
+      "text": "he loves me not...",
+      "translation": "他爱我吗..."
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Loves Me Not - t.A.T.u..lrc"
+}

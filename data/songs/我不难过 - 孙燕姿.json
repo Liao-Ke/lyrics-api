@@ -1,0 +1,562 @@
+{
+  "title": "我不难过",
+  "title_raw": "我不难过",
+  "version": null,
+  "artist": "孙燕姿",
+  "group_key": "我不难过|孙燕姿",
+  "writers": {
+    "lyricist": "杨明学",
+    "composer": "李偲菘",
+    "arranger": "Kenn C"
+  },
+  "lyrics": [
+    {
+      "time": 31.42,
+      "time_str": "00:31.420",
+      "text": "又站在你家的门口",
+      "translation": null
+    },
+    {
+      "time": 34.57,
+      "time_str": "00:34.570",
+      "text": "我们重复沉默",
+      "translation": null
+    },
+    {
+      "time": 37.64,
+      "time_str": "00:37.640",
+      "text": "这样子单方面的守候",
+      "translation": null
+    },
+    {
+      "time": 41.45,
+      "time_str": "00:41.450",
+      "text": "还能多久",
+      "translation": null
+    },
+    {
+      "time": 46.75,
+      "time_str": "00:46.750",
+      "text": "终于你开口向我诉说",
+      "translation": null
+    },
+    {
+      "time": 50.09,
+      "time_str": "00:50.090",
+      "text": "她有多温柔",
+      "translation": null
+    },
+    {
+      "time": 52.82,
+      "time_str": "00:52.820",
+      "text": "虽然你还握着我的手",
+      "translation": null
+    },
+    {
+      "time": 56.56,
+      "time_str": "00:56.560",
+      "text": "但我已不在你心中",
+      "translation": null
+    },
+    {
+      "time": 61.44,
+      "time_str": "01:01.440",
+      "text": "我真的懂",
+      "translation": null
+    },
+    {
+      "time": 64.63,
+      "time_str": "01:04.630",
+      "text": "你不是喜新厌旧",
+      "translation": null
+    },
+    {
+      "time": 68.69,
+      "time_str": "01:08.690",
+      "text": "是我没有",
+      "translation": null
+    },
+    {
+      "time": 71.88,
+      "time_str": "01:11.880",
+      "text": "陪在你身边",
+      "translation": null
+    },
+    {
+      "time": 73.69,
+      "time_str": "01:13.690",
+      "text": "当你寂寞时候",
+      "translation": null
+    },
+    {
+      "time": 77.32,
+      "time_str": "01:17.320",
+      "text": "别再看着我",
+      "translation": null
+    },
+    {
+      "time": 79.69,
+      "time_str": "01:19.690",
+      "text": "说着你爱过",
+      "translation": null
+    },
+    {
+      "time": 82.19,
+      "time_str": "01:22.190",
+      "text": "别太伤痛",
+      "translation": null
+    },
+    {
+      "time": 84.0,
+      "time_str": "01:24.000",
+      "text": "我不难过",
+      "translation": null
+    },
+    {
+      "time": 85.25,
+      "time_str": "01:25.250",
+      "text": "这不算什么",
+      "translation": null
+    },
+    {
+      "time": 87.06,
+      "time_str": "01:27.060",
+      "text": "只是为什么眼泪会流",
+      "translation": null
+    },
+    {
+      "time": 90.13,
+      "time_str": "01:30.130",
+      "text": "我也不懂",
+      "translation": null
+    },
+    {
+      "time": 91.32,
+      "time_str": "01:31.320",
+      "text": "就让我走",
+      "translation": null
+    },
+    {
+      "time": 94.44,
+      "time_str": "01:34.440",
+      "text": "让我开始享受自由",
+      "translation": null
+    },
+    {
+      "time": 98.75,
+      "time_str": "01:38.750",
+      "text": "回忆很多",
+      "translation": null
+    },
+    {
+      "time": 101.88,
+      "time_str": "01:41.880",
+      "text": "你的影子也会充满我生活",
+      "translation": null
+    },
+    {
+      "time": 107.19,
+      "time_str": "01:47.190",
+      "text": "我并不懦弱",
+      "translation": null
+    },
+    {
+      "time": 109.82,
+      "time_str": "01:49.820",
+      "text": "你比谁都懂",
+      "translation": null
+    },
+    {
+      "time": 112.13,
+      "time_str": "01:52.130",
+      "text": "虽然寂寞",
+      "translation": null
+    },
+    {
+      "time": 113.82,
+      "time_str": "01:53.820",
+      "text": "这会是我",
+      "translation": null
+    },
+    {
+      "time": 117.5,
+      "time_str": "01:57.500",
+      "text": "最后的宽容",
+      "translation": null
+    },
+    {
+      "time": 135.75,
+      "time_str": "02:15.750",
+      "text": "终于你开口向我诉说",
+      "translation": null
+    },
+    {
+      "time": 139.13,
+      "time_str": "02:19.130",
+      "text": "她有多温柔",
+      "translation": null
+    },
+    {
+      "time": 141.69,
+      "time_str": "02:21.690",
+      "text": "虽然你还握着我的手",
+      "translation": null
+    },
+    {
+      "time": 145.31,
+      "time_str": "02:25.310",
+      "text": "但我已不在你心中",
+      "translation": null
+    },
+    {
+      "time": 149.75,
+      "time_str": "02:29.750",
+      "text": "我真的懂",
+      "translation": null
+    },
+    {
+      "time": 152.94,
+      "time_str": "02:32.940",
+      "text": "你不是喜新厌旧",
+      "translation": null
+    },
+    {
+      "time": 157.19,
+      "time_str": "02:37.190",
+      "text": "是我没有",
+      "translation": null
+    },
+    {
+      "time": 160.31,
+      "time_str": "02:40.310",
+      "text": "陪在你身边",
+      "translation": null
+    },
+    {
+      "time": 162.0,
+      "time_str": "02:42.000",
+      "text": "当你寂寞时候",
+      "translation": null
+    },
+    {
+      "time": 165.5,
+      "time_str": "02:45.500",
+      "text": "别再看着我",
+      "translation": null
+    },
+    {
+      "time": 168.13,
+      "time_str": "02:48.130",
+      "text": "说着你爱过",
+      "translation": null
+    },
+    {
+      "time": 170.69,
+      "time_str": "02:50.690",
+      "text": "别太伤痛",
+      "translation": null
+    },
+    {
+      "time": 172.56,
+      "time_str": "02:52.560",
+      "text": "我不难过",
+      "translation": null
+    },
+    {
+      "time": 173.56,
+      "time_str": "02:53.560",
+      "text": "这不算什么",
+      "translation": null
+    },
+    {
+      "time": 175.44,
+      "time_str": "02:55.440",
+      "text": "只是为什么眼泪会流",
+      "translation": null
+    },
+    {
+      "time": 178.13,
+      "time_str": "02:58.130",
+      "text": "我也不懂",
+      "translation": null
+    },
+    {
+      "time": 179.7,
+      "time_str": "02:59.700",
+      "text": "就让我走",
+      "translation": null
+    },
+    {
+      "time": 183.07,
+      "time_str": "03:03.070",
+      "text": "让我开始享受自由",
+      "translation": null
+    },
+    {
+      "time": 187.2,
+      "time_str": "03:07.200",
+      "text": "回忆很多",
+      "translation": null
+    },
+    {
+      "time": 190.32,
+      "time_str": "03:10.320",
+      "text": "你的影子也会充满我生活",
+      "translation": null
+    },
+    {
+      "time": 195.63,
+      "time_str": "03:15.630",
+      "text": "我并不懦弱",
+      "translation": null
+    },
+    {
+      "time": 198.13,
+      "time_str": "03:18.130",
+      "text": "你比谁都懂",
+      "translation": null
+    },
+    {
+      "time": 200.38,
+      "time_str": "03:20.380",
+      "text": "虽然寂寞",
+      "translation": null
+    },
+    {
+      "time": 202.01,
+      "time_str": "03:22.010",
+      "text": "这会是我",
+      "translation": null
+    },
+    {
+      "time": 205.51,
+      "time_str": "03:25.510",
+      "text": "最后的宽容",
+      "translation": null
+    },
+    {
+      "time": 210.09,
+      "time_str": "03:30.090",
+      "text": "抱紧我",
+      "translation": null
+    },
+    {
+      "time": 211.84,
+      "time_str": "03:31.840",
+      "text": "再抱紧我",
+      "translation": null
+    },
+    {
+      "time": 213.71,
+      "time_str": "03:33.710",
+      "text": "这一份感动",
+      "translation": null
+    },
+    {
+      "time": 215.4,
+      "time_str": "03:35.400",
+      "text": "请你让我留在胸口",
+      "translation": null
+    },
+    {
+      "time": 217.96,
+      "time_str": "03:37.960",
+      "text": "别再说是你的错",
+      "translation": null
+    },
+    {
+      "time": 221.15,
+      "time_str": "03:41.150",
+      "text": "爱到了尽头",
+      "translation": null
+    },
+    {
+      "time": 222.83,
+      "time_str": "03:42.830",
+      "text": "是非对错",
+      "translation": null
+    },
+    {
+      "time": 223.9,
+      "time_str": "03:43.900",
+      "text": "就让它随风",
+      "translation": null
+    },
+    {
+      "time": 225.15,
+      "time_str": "03:45.150",
+      "text": "忘了所有",
+      "translation": null
+    },
+    {
+      "time": 228.77,
+      "time_str": "03:48.770",
+      "text": "过得比你快活",
+      "translation": null
+    },
+    {
+      "time": 233.02,
+      "time_str": "03:53.020",
+      "text": "我真的懂",
+      "translation": null
+    },
+    {
+      "time": 235.83,
+      "time_str": "03:55.830",
+      "text": "你不是喜新厌旧",
+      "translation": null
+    },
+    {
+      "time": 239.96,
+      "time_str": "03:59.960",
+      "text": "是我没有",
+      "translation": null
+    },
+    {
+      "time": 243.23,
+      "time_str": "04:03.230",
+      "text": "陪在你身边",
+      "translation": null
+    },
+    {
+      "time": 244.8,
+      "time_str": "04:04.800",
+      "text": "当你寂寞时候",
+      "translation": null
+    },
+    {
+      "time": 248.61,
+      "time_str": "04:08.610",
+      "text": "别再看着我",
+      "translation": null
+    },
+    {
+      "time": 250.98,
+      "time_str": "04:10.980",
+      "text": "说着你爱过",
+      "translation": null
+    },
+    {
+      "time": 253.54,
+      "time_str": "04:13.540",
+      "text": "别太伤痛",
+      "translation": null
+    },
+    {
+      "time": 255.29,
+      "time_str": "04:15.290",
+      "text": "我不难过",
+      "translation": null
+    },
+    {
+      "time": 256.42,
+      "time_str": "04:16.420",
+      "text": "这不算什么",
+      "translation": null
+    },
+    {
+      "time": 258.17,
+      "time_str": "04:18.170",
+      "text": "只是为什么眼泪会流",
+      "translation": null
+    },
+    {
+      "time": 261.23,
+      "time_str": "04:21.230",
+      "text": "我也不懂",
+      "translation": null
+    },
+    {
+      "time": 262.61,
+      "time_str": "04:22.610",
+      "text": "不要再说",
+      "translation": null
+    },
+    {
+      "time": 265.79,
+      "time_str": "04:25.790",
+      "text": "或许这是最好的结果",
+      "translation": null
+    },
+    {
+      "time": 270.04,
+      "time_str": "04:30.040",
+      "text": "现在分手",
+      "translation": null
+    },
+    {
+      "time": 273.23,
+      "time_str": "04:33.230",
+      "text": "总好过你不爱我一拖再拖",
+      "translation": null
+    },
+    {
+      "time": 278.48,
+      "time_str": "04:38.480",
+      "text": "松开你的手",
+      "translation": null
+    },
+    {
+      "time": 280.92,
+      "time_str": "04:40.920",
+      "text": "离开你左右",
+      "translation": null
+    },
+    {
+      "time": 283.35,
+      "time_str": "04:43.350",
+      "text": "我向前走",
+      "translation": null
+    },
+    {
+      "time": 284.98,
+      "time_str": "04:44.980",
+      "text": "这会是我",
+      "translation": null
+    },
+    {
+      "time": 288.54,
+      "time_str": "04:48.540",
+      "text": "真正的解脱",
+      "translation": null
+    },
+    {
+      "time": 315.816,
+      "time_str": "05:15.816",
+      "text": "弦乐编写 : Terence Teo",
+      "translation": null
+    },
+    {
+      "time": 316.232,
+      "time_str": "05:16.232",
+      "text": "第一小提琴 : 孔朝晖",
+      "translation": null
+    },
+    {
+      "time": 316.648,
+      "time_str": "05:16.648",
+      "text": "第二小提琴 : 顾文丽",
+      "translation": null
+    },
+    {
+      "time": 317.064,
+      "time_str": "05:17.064",
+      "text": "中提琴 : 水兵",
+      "translation": null
+    },
+    {
+      "time": 317.48,
+      "time_str": "05:17.480",
+      "text": "大提琴 : 王言",
+      "translation": null
+    },
+    {
+      "time": 319.976,
+      "time_str": "05:19.976",
+      "text": "混音室 : 谱丽音录音室 (Taiwan)",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我不难过 - 孙燕姿.lrc"
+}

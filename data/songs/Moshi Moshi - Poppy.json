@@ -1,0 +1,388 @@
+{
+  "title": "Moshi Moshi",
+  "title_raw": "Moshi Moshi",
+  "version": null,
+  "artist": "Poppy",
+  "group_key": "moshi moshi|poppy",
+  "writers": {
+    "lyricist": null,
+    "composer": "Chris Greatti/Poppy Chan",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.509,
+      "time_str": "00:07.509",
+      "text": "I'm so ready to get gone",
+      "translation": "我已经准备好要走了"
+    },
+    {
+      "time": 12.102,
+      "time_str": "00:12.102",
+      "text": "I'm feeling like a powerful girl",
+      "translation": "我感觉像个神力女超人"
+    },
+    {
+      "time": 15.441,
+      "time_str": "00:15.441",
+      "text": "So come with me, let's go",
+      "translation": "所以跟我来, 走吧!"
+    },
+    {
+      "time": 19.987,
+      "time_str": "00:19.987",
+      "text": "Together we can take on the world",
+      "translation": "我们可以一起拿下整个世界"
+    },
+    {
+      "time": 23.305,
+      "time_str": "00:23.305",
+      "text": "Cause, we're so beyond",
+      "translation": "因为我们是如此强大"
+    },
+    {
+      "time": 27.899,
+      "time_str": "00:27.899",
+      "text": "Living like we're typical girls",
+      "translation": "就像普通女孩一样相处着"
+    },
+    {
+      "time": 31.221,
+      "time_str": "00:31.221",
+      "text": "So take my hand and join me",
+      "translation": "所以拉着我的手, 跟我一起吧"
+    },
+    {
+      "time": 35.13,
+      "time_str": "00:35.130",
+      "text": "Singing hey! hey! hey! okay!",
+      "translation": "唱吧! 嘿! 嘿! 嘿!"
+    },
+    {
+      "time": 38.722,
+      "time_str": "00:38.722",
+      "text": "The world is ours",
+      "translation": "这世界是我们的"
+    },
+    {
+      "time": 40.036,
+      "time_str": "00:40.036",
+      "text": "Moshi moshi",
+      "translation": "你好 你好"
+    },
+    {
+      "time": 41.008,
+      "time_str": "00:41.008",
+      "text": "Hi, hello",
+      "translation": "嗨, 哈啰!"
+    },
+    {
+      "time": 41.792,
+      "time_str": "00:41.792",
+      "text": "Did you call to talk to me?",
+      "translation": "你可以打电话给我吗?"
+    },
+    {
+      "time": 43.907,
+      "time_str": "00:43.907",
+      "text": "Hajime konnichiwa",
+      "translation": "你好 你好"
+    },
+    {
+      "time": 45.708,
+      "time_str": "00:45.708",
+      "text": "I like you and you like me",
+      "translation": "我喜欢你而且你也喜欢我"
+    },
+    {
+      "time": 47.743,
+      "time_str": "00:47.743",
+      "text": "It's time to say hello to a new day",
+      "translation": "该是时候向新的一天说哈啰"
+    },
+    {
+      "time": 51.071,
+      "time_str": "00:51.071",
+      "text": "And have a cup of tea with my very best friend",
+      "translation": "而且和我的好朋友喝一杯茶"
+    },
+    {
+      "time": 58.305,
+      "time_str": "00:58.305",
+      "text": "Whoa, oh, oh, oh",
+      "translation": "哇, 噢, 噢, 噢"
+    },
+    {
+      "time": 63.145,
+      "time_str": "01:03.145",
+      "text": "Are you ready to get lost?",
+      "translation": "准备好了吗?"
+    },
+    {
+      "time": 66.94,
+      "time_str": "01:06.940",
+      "text": "Let's climb up to the highest peaks",
+      "translation": "来爬上最高的山峰"
+    },
+    {
+      "time": 70.613,
+      "time_str": "01:10.613",
+      "text": "And climb higher above the clouds",
+      "translation": "爬的比那些云还高"
+    },
+    {
+      "time": 75.157,
+      "time_str": "01:15.157",
+      "text": "You and I can do anything",
+      "translation": "你和我能做任何事"
+    },
+    {
+      "time": 78.501,
+      "time_str": "01:18.501",
+      "text": "'Cause, we're so far gone",
+      "translation": "因为我们在一起这么久了"
+    },
+    {
+      "time": 82.778,
+      "time_str": "01:22.778",
+      "text": "Living like the typical girls",
+      "translation": "就像普通女孩一样相处着"
+    },
+    {
+      "time": 86.232,
+      "time_str": "01:26.232",
+      "text": "So take my hand and join me",
+      "translation": "所以拉着我的手, 跟我一起吧"
+    },
+    {
+      "time": 90.349,
+      "time_str": "01:30.349",
+      "text": "Singing hey! hey! hey! okay!",
+      "translation": "唱吧! 嘿! 嘿! 嘿!"
+    },
+    {
+      "time": 93.698,
+      "time_str": "01:33.698",
+      "text": "The world is ours",
+      "translation": "这世界是我们的啊"
+    },
+    {
+      "time": 95.162,
+      "time_str": "01:35.162",
+      "text": "Moshi Moshi",
+      "translation": "你好 你好"
+    },
+    {
+      "time": 95.998,
+      "time_str": "01:35.998",
+      "text": "Hi, hello",
+      "translation": "嗨, 哈啰!"
+    },
+    {
+      "time": 96.976,
+      "time_str": "01:36.976",
+      "text": "Did you call to talk to me?",
+      "translation": "你可以打电话跟我聊天吗?"
+    },
+    {
+      "time": 98.919,
+      "time_str": "01:38.919",
+      "text": "Hajime Konnichiwa",
+      "translation": "你好 你好"
+    },
+    {
+      "time": 100.789,
+      "time_str": "01:40.789",
+      "text": "I like you and you like me",
+      "translation": "我喜欢你而且你也喜欢我"
+    },
+    {
+      "time": 102.624,
+      "time_str": "01:42.624",
+      "text": "It's time to say hello to a new day",
+      "translation": "该是时候向新的一天说哈啰"
+    },
+    {
+      "time": 106.21,
+      "time_str": "01:46.210",
+      "text": "And have a cup of tea with my very best friend",
+      "translation": "而且和我的好朋友喝一杯茶"
+    },
+    {
+      "time": 126.432,
+      "time_str": "02:06.432",
+      "text": "Very best friend, my very best friend",
+      "translation": "好朋友啊, 我最好的朋友"
+    },
+    {
+      "time": 130.278,
+      "time_str": "02:10.278",
+      "text": "Very best friend, my very-",
+      "translation": "好朋友, 我最好的..."
+    },
+    {
+      "time": 132.938,
+      "time_str": "02:12.938",
+      "text": "My very best friend",
+      "translation": "我最好的朋友"
+    },
+    {
+      "time": 134.355,
+      "time_str": "02:14.355",
+      "text": "Very best friend, my very best friend",
+      "translation": "好朋友啊, 我最好的朋友"
+    },
+    {
+      "time": 138.102,
+      "time_str": "02:18.102",
+      "text": "Very best friend, my very best friend",
+      "translation": "好朋友啊, 我最好的朋友"
+    },
+    {
+      "time": 141.411,
+      "time_str": "02:21.411",
+      "text": "'Cause we're so far gone",
+      "translation": "因为我们在一起这么久了"
+    },
+    {
+      "time": 145.995,
+      "time_str": "02:25.995",
+      "text": "Living like the typical girls",
+      "translation": "就像普通女孩一样相处着"
+    },
+    {
+      "time": 149.281,
+      "time_str": "02:29.281",
+      "text": "So take my hand and join me",
+      "translation": "所以拉着我的手, 跟我一起吧"
+    },
+    {
+      "time": 153.102,
+      "time_str": "02:33.102",
+      "text": "Singing hey! hey! hey! okay!",
+      "translation": "唱吧! 嘿! 嘿! 嘿!"
+    },
+    {
+      "time": 156.848,
+      "time_str": "02:36.848",
+      "text": "The world is ours",
+      "translation": "这世界是我们的啊"
+    },
+    {
+      "time": 158.0,
+      "time_str": "02:38.000",
+      "text": "Moshi Moshi",
+      "translation": "你好 你好"
+    },
+    {
+      "time": 159.043,
+      "time_str": "02:39.043",
+      "text": "Hi, hello",
+      "translation": "嗨, 哈啰"
+    },
+    {
+      "time": 159.908,
+      "time_str": "02:39.908",
+      "text": "Did you call to talk to me?",
+      "translation": "你可以打电话跟我聊天吗?"
+    },
+    {
+      "time": 161.798,
+      "time_str": "02:41.798",
+      "text": "Hajime Konnichiwa",
+      "translation": "你好 你好"
+    },
+    {
+      "time": 163.66,
+      "time_str": "02:43.660",
+      "text": "I like you and you like me",
+      "translation": "我喜欢你而且你也喜欢我"
+    },
+    {
+      "time": 165.655,
+      "time_str": "02:45.655",
+      "text": "It's time to say hello to a new day",
+      "translation": "该是时候向新的一天说哈啰"
+    },
+    {
+      "time": 169.15,
+      "time_str": "02:49.150",
+      "text": "And have a cup of tea with my very best",
+      "translation": "而且和我的好朋友喝一杯茶"
+    },
+    {
+      "time": 173.506,
+      "time_str": "02:53.506",
+      "text": "Have a cup of tea with my very best-",
+      "translation": "和我最好的... 喝一杯茶"
+    },
+    {
+      "time": 177.518,
+      "time_str": "02:57.518",
+      "text": "Very best friend, my very best-Whoa, oh, oh, oh",
+      "translation": "最好的朋友, 我最好的... 哇, 噢, 噢, 噢"
+    },
+    {
+      "time": 181.448,
+      "time_str": "03:01.448",
+      "text": "Very best friend, my very best friend",
+      "translation": "最好的朋友, 我最好的朋友"
+    },
+    {
+      "time": 185.377,
+      "time_str": "03:05.377",
+      "text": "Very best friend, my very best friend",
+      "translation": "最好的朋友, 我最好的朋友"
+    },
+    {
+      "time": 189.273,
+      "time_str": "03:09.273",
+      "text": "Very best friend, my very-My very best friend",
+      "translation": "最好的朋友, 我最好最好的朋友"
+    },
+    {
+      "time": 193.288,
+      "time_str": "03:13.288",
+      "text": "Very best friend, my very best friend",
+      "translation": "最好的朋友, 我最好的朋友"
+    },
+    {
+      "time": 197.264,
+      "time_str": "03:17.264",
+      "text": "Very best friend, my very-My very best friend",
+      "translation": "最好的朋友, 我最好最好的朋友"
+    },
+    {
+      "time": 201.216,
+      "time_str": "03:21.216",
+      "text": "Very best friend, my very best friend",
+      "translation": "最好的朋友, 我最好的朋友"
+    },
+    {
+      "time": 204.977,
+      "time_str": "03:24.977",
+      "text": "Very best friend, my very -My very, very best friend",
+      "translation": "最好的朋友, 我最好最好最好的朋友"
+    },
+    {
+      "time": 208.842,
+      "time_str": "03:28.842",
+      "text": "Very best friend (Moshi moshi, very best friend)",
+      "translation": "最好的朋友 (你好啊, 你好, 最好的朋友)"
+    },
+    {
+      "time": 213.047,
+      "time_str": "03:33.047",
+      "text": "Very best friend, my very best friend",
+      "translation": "最好的朋友, 我最好的朋友"
+    },
+    {
+      "time": 215.769,
+      "time_str": "03:35.769",
+      "text": "My very best",
+      "translation": "我最好的"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Moshi Moshi - Poppy.lrc"
+}

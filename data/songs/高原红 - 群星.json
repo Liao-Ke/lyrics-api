@@ -1,0 +1,184 @@
+{
+  "title": "高原红",
+  "title_raw": "高原红",
+  "version": null,
+  "artist": "群星",
+  "group_key": "高原红|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 26.96,
+      "time_str": "00:26.960",
+      "text": "许多的欢乐留在你的帐篷",
+      "translation": null
+    },
+    {
+      "time": 34.4,
+      "time_str": "00:34.400",
+      "text": "初恋的琴声撩动几次雪崩",
+      "translation": null
+    },
+    {
+      "time": 40.8,
+      "time_str": "00:40.800",
+      "text": "少年的我为何不懂心痛",
+      "translation": null
+    },
+    {
+      "time": 47.33,
+      "time_str": "00:47.330",
+      "text": "蓦然回首已是光阴如风",
+      "translation": null
+    },
+    {
+      "time": 56.21,
+      "time_str": "00:56.210",
+      "text": "离乡的行囊总是越来越重",
+      "translation": null
+    },
+    {
+      "time": 63.8,
+      "time_str": "01:03.800",
+      "text": "滚滚的红尘难掩你的笑容",
+      "translation": null
+    },
+    {
+      "time": 70.75,
+      "time_str": "01:10.750",
+      "text": "青藏的阳光日夜与我相拥",
+      "translation": null
+    },
+    {
+      "time": 77.44,
+      "time_str": "01:17.440",
+      "text": "茫茫的雪域何处寻觅你的影踪",
+      "translation": null
+    },
+    {
+      "time": 87.4,
+      "time_str": "01:27.400",
+      "text": "高原红 美丽的高原红",
+      "translation": null
+    },
+    {
+      "time": 94.57,
+      "time_str": "01:34.570",
+      "text": "煮了又煮的酥油茶",
+      "translation": null
+    },
+    {
+      "time": 96.0,
+      "time_str": "01:36.000",
+      "text": "还是当年那样浓",
+      "translation": null
+    },
+    {
+      "time": 101.21,
+      "time_str": "01:41.210",
+      "text": "高原红 梦里的高原红",
+      "translation": null
+    },
+    {
+      "time": 108.68,
+      "time_str": "01:48.680",
+      "text": "酿了又酿的青稞酒让我醉在不眠中",
+      "translation": null
+    },
+    {
+      "time": 145.73,
+      "time_str": "02:25.730",
+      "text": "离乡的行囊总是越来越重",
+      "translation": null
+    },
+    {
+      "time": 153.18,
+      "time_str": "02:33.180",
+      "text": "滚滚的红尘难掩你的笑容",
+      "translation": null
+    },
+    {
+      "time": 159.91,
+      "time_str": "02:39.910",
+      "text": "青藏的阳光日夜与我相拥",
+      "translation": null
+    },
+    {
+      "time": 166.5,
+      "time_str": "02:46.500",
+      "text": "茫茫的雪域何处寻觅你的影踪",
+      "translation": null
+    },
+    {
+      "time": 176.81,
+      "time_str": "02:56.810",
+      "text": "高原红 美丽的高原红",
+      "translation": null
+    },
+    {
+      "time": 183.46,
+      "time_str": "03:03.460",
+      "text": "煮了又煮的酥油茶",
+      "translation": null
+    },
+    {
+      "time": 187.2,
+      "time_str": "03:07.200",
+      "text": "还是当年那样浓",
+      "translation": null
+    },
+    {
+      "time": 190.48,
+      "time_str": "03:10.480",
+      "text": "高原红 梦里的高原红",
+      "translation": null
+    },
+    {
+      "time": 197.82,
+      "time_str": "03:17.820",
+      "text": "酿了又酿的青稞酒让我醉在不眠中",
+      "translation": null
+    },
+    {
+      "time": 207.56,
+      "time_str": "03:27.560",
+      "text": "高原红 美丽的高原红",
+      "translation": null
+    },
+    {
+      "time": 214.5,
+      "time_str": "03:34.500",
+      "text": "煮了又煮的酥油茶",
+      "translation": null
+    },
+    {
+      "time": 218.24,
+      "time_str": "03:38.240",
+      "text": "还是当年那样浓",
+      "translation": null
+    },
+    {
+      "time": 221.98,
+      "time_str": "03:41.980",
+      "text": "高原红 梦里的高原红",
+      "translation": null
+    },
+    {
+      "time": 229.42,
+      "time_str": "03:49.420",
+      "text": "酿了又酿的青稞酒让我醉在不眠中",
+      "translation": null
+    },
+    {
+      "time": 236.98,
+      "time_str": "03:56.980",
+      "text": "酿了又酿的青稞酒让我醉在不眠中",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "高原红 - 群星.lrc"
+}

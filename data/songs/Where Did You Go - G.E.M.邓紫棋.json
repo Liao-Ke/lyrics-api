@@ -1,0 +1,226 @@
+{
+  "title": "Where Did You Go",
+  "title_raw": "Where Did You Go",
+  "version": null,
+  "artist": "G.E.M.邓紫棋",
+  "group_key": "where did you go|g.e.m.邓紫棋",
+  "writers": {
+    "lyricist": "G.E.M.邓紫棋",
+    "composer": "Skot Suyama",
+    "arranger": "雷颂德"
+  },
+  "lyrics": [
+    {
+      "time": 24.08,
+      "time_str": "00:24.080",
+      "text": "曾看着同星空 闲聊吹风 看日出多心动",
+      "translation": null
+    },
+    {
+      "time": 29.62,
+      "time_str": "00:29.620",
+      "text": "曾每日缠一起 傻傻讲起 能爱到下世纪",
+      "translation": null
+    },
+    {
+      "time": 35.35,
+      "time_str": "00:35.350",
+      "text": "怎么你俘虏这个心 却抽身退隐 不再亲近",
+      "translation": null
+    },
+    {
+      "time": 41.33,
+      "time_str": "00:41.330",
+      "text": "独自苦等 仍然空等 难藏泪印",
+      "translation": null
+    },
+    {
+      "time": 47.04,
+      "time_str": "00:47.040",
+      "text": "看着 电话中短讯",
+      "translation": null
+    },
+    {
+      "time": 50.59,
+      "time_str": "00:50.590",
+      "text": "听着 录音的口讯",
+      "translation": null
+    },
+    {
+      "time": 53.38,
+      "time_str": "00:53.380",
+      "text": "昨天的你哪天再接近",
+      "translation": null
+    },
+    {
+      "time": 58.95,
+      "time_str": "00:58.950",
+      "text": "Tell me where did u go?",
+      "translation": null
+    },
+    {
+      "time": 64.019,
+      "time_str": "01:04.019",
+      "text": "心声都不可细诉 Oh tell me baby where did u hide?",
+      "translation": null
+    },
+    {
+      "time": 70.44,
+      "time_str": "01:10.440",
+      "text": "辛苦都未被谅解 Where did u go?",
+      "translation": null
+    },
+    {
+      "time": 75.74,
+      "time_str": "01:15.740",
+      "text": "数数多久不碰到 我在每夜 彻夜狂想 Where did u go?",
+      "translation": null
+    },
+    {
+      "time": 88.08,
+      "time_str": "01:28.080",
+      "text": "而这夜月光中 再见影纵 再献花多感动",
+      "translation": null
+    },
+    {
+      "time": 93.73,
+      "time_str": "01:33.730",
+      "text": "而似蜜甜的心 明明开心 为何又骤降温",
+      "translation": null
+    },
+    {
+      "time": 99.65,
+      "time_str": "01:39.650",
+      "text": "怎么你一下子抱紧 却一下子转身 不再亲近",
+      "translation": null
+    },
+    {
+      "time": 105.5,
+      "time_str": "01:45.500",
+      "text": "独自苦等 仍然空等 难藏泪印",
+      "translation": null
+    },
+    {
+      "time": 111.3,
+      "time_str": "01:51.300",
+      "text": "看着 电话中短讯",
+      "translation": null
+    },
+    {
+      "time": 114.66,
+      "time_str": "01:54.660",
+      "text": "听着 录音的口讯",
+      "translation": null
+    },
+    {
+      "time": 117.71,
+      "time_str": "01:57.710",
+      "text": "昨天的你哪天再接近",
+      "translation": null
+    },
+    {
+      "time": 123.18,
+      "time_str": "02:03.180",
+      "text": "Tell me where did u go? 心声都不可细诉",
+      "translation": null
+    },
+    {
+      "time": 128.4,
+      "time_str": "02:08.400",
+      "text": "Oh tell me baby where did u hide? 辛苦都未被谅解",
+      "translation": null
+    },
+    {
+      "time": 134.73,
+      "time_str": "02:14.730",
+      "text": "Where did u go? 数数多久不碰到",
+      "translation": null
+    },
+    {
+      "time": 140.21,
+      "time_str": "02:20.210",
+      "text": "我在每夜 彻夜狂想",
+      "translation": null
+    },
+    {
+      "time": 146.04,
+      "time_str": "02:26.040",
+      "text": "Where did u go? Where did u go?",
+      "translation": null
+    },
+    {
+      "time": 151.9,
+      "time_str": "02:31.900",
+      "text": "怎会当这刻我需要你 你却没在我身边",
+      "translation": null
+    },
+    {
+      "time": 157.67,
+      "time_str": "02:37.670",
+      "text": "Where did u go? Where did u go?",
+      "translation": null
+    },
+    {
+      "time": 164.07,
+      "time_str": "02:44.070",
+      "text": "这秒钟很挂牵 你却不可感觉到",
+      "translation": null
+    },
+    {
+      "time": 169.4,
+      "time_str": "02:49.400",
+      "text": "Where did u go?",
+      "translation": null
+    },
+    {
+      "time": 181.62,
+      "time_str": "03:01.620",
+      "text": "Tell me where did u go? 心声都不可细诉",
+      "translation": null
+    },
+    {
+      "time": 187.02,
+      "time_str": "03:07.020",
+      "text": "Oh tell me baby where did u hide? 辛苦都未被谅解",
+      "translation": null
+    },
+    {
+      "time": 193.21,
+      "time_str": "03:13.210",
+      "text": "Where did u go? 数数多久不碰到",
+      "translation": null
+    },
+    {
+      "time": 198.77,
+      "time_str": "03:18.770",
+      "text": "我在每夜 彻夜狂想 (Tell me where did u go?)",
+      "translation": null
+    },
+    {
+      "time": 204.71,
+      "time_str": "03:24.710",
+      "text": "Tell me where did u go? 心声都不可细诉",
+      "translation": null
+    },
+    {
+      "time": 210.24,
+      "time_str": "03:30.240",
+      "text": "Oh tell me baby where did u hide? 辛苦都未被谅解",
+      "translation": null
+    },
+    {
+      "time": 216.72,
+      "time_str": "03:36.720",
+      "text": "Where did u go? 数数多久不碰到",
+      "translation": null
+    },
+    {
+      "time": 222.06,
+      "time_str": "03:42.060",
+      "text": "我在每夜 彻夜狂想 Where did u go?",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "Where Did You Go - G.E.M.邓紫棋.lrc"
+}

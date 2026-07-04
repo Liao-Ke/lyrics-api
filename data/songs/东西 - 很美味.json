@@ -1,0 +1,244 @@
+{
+  "title": "东西",
+  "title_raw": "东西",
+  "version": null,
+  "artist": "很美味",
+  "group_key": "东西|很美味",
+  "writers": {
+    "lyricist": "何泽镔/琢十一",
+    "composer": "何泽镔",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.662,
+      "time_str": "00:11.662",
+      "text": "收到需要赶快回复的信息",
+      "translation": null
+    },
+    {
+      "time": 14.988,
+      "time_str": "00:14.988",
+      "text": "那就考虑看看是不是要回应你",
+      "translation": null
+    },
+    {
+      "time": 17.831,
+      "time_str": "00:17.831",
+      "text": "如果说以后都不用对你讲客气",
+      "translation": null
+    },
+    {
+      "time": 20.667,
+      "time_str": "00:20.667",
+      "text": "我就等着对你说一句欢迎光临",
+      "translation": null
+    },
+    {
+      "time": 23.96,
+      "time_str": "00:23.960",
+      "text": "在无人的海岛上有美丽风景",
+      "translation": null
+    },
+    {
+      "time": 26.504,
+      "time_str": "00:26.504",
+      "text": "想有梦里的竹蜻蜓带我去远行",
+      "translation": null
+    },
+    {
+      "time": 28.988,
+      "time_str": "00:28.988",
+      "text": "去到你心里的那个神秘的巴黎",
+      "translation": null
+    },
+    {
+      "time": 32.366,
+      "time_str": "00:32.366",
+      "text": "再想和你生一群baby",
+      "translation": null
+    },
+    {
+      "time": 34.502,
+      "time_str": "00:34.502",
+      "text": "我开始美丽的际遇",
+      "translation": null
+    },
+    {
+      "time": 37.782,
+      "time_str": "00:37.782",
+      "text": "你来自东或西",
+      "translation": null
+    },
+    {
+      "time": 40.132,
+      "time_str": "00:40.132",
+      "text": "都没有太大的关系",
+      "translation": null
+    },
+    {
+      "time": 43.14,
+      "time_str": "00:43.140",
+      "text": "都听你",
+      "translation": null
+    },
+    {
+      "time": 45.941,
+      "time_str": "00:45.941",
+      "text": "因为始终和你前进",
+      "translation": null
+    },
+    {
+      "time": 49.42,
+      "time_str": "00:49.420",
+      "text": "回忆并肩旅行",
+      "translation": null
+    },
+    {
+      "time": 52.348,
+      "time_str": "00:52.348",
+      "text": "我愿意陪着你去东和西",
+      "translation": null
+    },
+    {
+      "time": 81.275,
+      "time_str": "01:21.275",
+      "text": "收到需要赶快回复的信息",
+      "translation": null
+    },
+    {
+      "time": 83.888,
+      "time_str": "01:23.888",
+      "text": "那就考虑看看是不是要回应你",
+      "translation": null
+    },
+    {
+      "time": 86.752,
+      "time_str": "01:26.752",
+      "text": "如果说以后都不用对你讲客气",
+      "translation": null
+    },
+    {
+      "time": 89.815,
+      "time_str": "01:29.815",
+      "text": "我就等着对你说一句欢迎光临",
+      "translation": null
+    },
+    {
+      "time": 92.512,
+      "time_str": "01:32.512",
+      "text": "在无人的海岛上有美丽风景",
+      "translation": null
+    },
+    {
+      "time": 95.177,
+      "time_str": "01:35.177",
+      "text": "想有梦里的竹蜻蜓带我去远行",
+      "translation": null
+    },
+    {
+      "time": 98.05,
+      "time_str": "01:38.050",
+      "text": "去到你心里的那个神秘的巴黎",
+      "translation": null
+    },
+    {
+      "time": 100.727,
+      "time_str": "01:40.727",
+      "text": "再想和你生一群baby",
+      "translation": null
+    },
+    {
+      "time": 102.958,
+      "time_str": "01:42.958",
+      "text": "我开始美丽的际遇",
+      "translation": null
+    },
+    {
+      "time": 106.21,
+      "time_str": "01:46.210",
+      "text": "你来自东或西",
+      "translation": null
+    },
+    {
+      "time": 108.824,
+      "time_str": "01:48.824",
+      "text": "都没有太大的关系",
+      "translation": null
+    },
+    {
+      "time": 111.455,
+      "time_str": "01:51.455",
+      "text": "都听你",
+      "translation": null
+    },
+    {
+      "time": 114.404,
+      "time_str": "01:54.404",
+      "text": "因为始终和你前进",
+      "translation": null
+    },
+    {
+      "time": 117.687,
+      "time_str": "01:57.687",
+      "text": "回忆并肩旅行",
+      "translation": null
+    },
+    {
+      "time": 120.85,
+      "time_str": "02:00.850",
+      "text": "我愿意陪着你去东和西",
+      "translation": null
+    },
+    {
+      "time": 126.063,
+      "time_str": "02:06.063",
+      "text": "我开始美丽的际遇",
+      "translation": null
+    },
+    {
+      "time": 129.385,
+      "time_str": "02:09.385",
+      "text": "你来自东或西",
+      "translation": null
+    },
+    {
+      "time": 131.728,
+      "time_str": "02:11.728",
+      "text": "都没有太大的关系",
+      "translation": null
+    },
+    {
+      "time": 134.576,
+      "time_str": "02:14.576",
+      "text": "都听你",
+      "translation": null
+    },
+    {
+      "time": 137.366,
+      "time_str": "02:17.366",
+      "text": "因为始终和你前进",
+      "translation": null
+    },
+    {
+      "time": 140.783,
+      "time_str": "02:20.783",
+      "text": "回忆并肩旅行",
+      "translation": null
+    },
+    {
+      "time": 143.7,
+      "time_str": "02:23.700",
+      "text": "我愿意陪着你去东和西",
+      "translation": null
+    },
+    {
+      "time": 149.391,
+      "time_str": "02:29.391",
+      "text": "我愿意陪着你去东和西",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "东西 - 很美味.lrc"
+}

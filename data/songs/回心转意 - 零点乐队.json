@@ -1,0 +1,196 @@
+{
+  "title": "回心转意",
+  "title_raw": "回心转意",
+  "version": null,
+  "artist": "零点乐队",
+  "group_key": "回心转意|零点乐队",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 33.1,
+      "time_str": "00:33.100",
+      "text": "我不知是否应该把一切看得开",
+      "translation": null
+    },
+    {
+      "time": 41.1,
+      "time_str": "00:41.100",
+      "text": "丢掉往日的冲动清醒面对现在",
+      "translation": null
+    },
+    {
+      "time": 48.1,
+      "time_str": "00:48.100",
+      "text": "我不知是否不该想得太明白",
+      "translation": null
+    },
+    {
+      "time": 56.1,
+      "time_str": "00:56.100",
+      "text": "平静地默默等待你会让自己回来",
+      "translation": null
+    },
+    {
+      "time": 63.1,
+      "time_str": "01:03.100",
+      "text": "我不知是否应该把脚步再放慢",
+      "translation": null
+    },
+    {
+      "time": 71.1,
+      "time_str": "01:11.100",
+      "text": "看看周围的人们寻找生活的答案",
+      "translation": null
+    },
+    {
+      "time": 78.1,
+      "time_str": "01:18.100",
+      "text": "我不知是否不该活的太明白",
+      "translation": null
+    },
+    {
+      "time": 86.1,
+      "time_str": "01:26.100",
+      "text": "等你把一切看清 你会让自己回来",
+      "translation": null
+    },
+    {
+      "time": 93.1,
+      "time_str": "01:33.100",
+      "text": "一次次地善意欺骗 我却装作看不出来",
+      "translation": null
+    },
+    {
+      "time": 100.1,
+      "time_str": "01:40.100",
+      "text": "不管是否出于无奈 不要放纵的太过太快",
+      "translation": null
+    },
+    {
+      "time": 111.1,
+      "time_str": "01:51.100",
+      "text": "玩够了没有 我不想再等待",
+      "translation": null
+    },
+    {
+      "time": 118.1,
+      "time_str": "01:58.100",
+      "text": "玩够了没有 你心何时才能收回来",
+      "translation": null
+    },
+    {
+      "time": 125.1,
+      "time_str": "02:05.100",
+      "text": "玩够了没有 我不想再忍耐",
+      "translation": null
+    },
+    {
+      "time": 133.1,
+      "time_str": "02:13.100",
+      "text": "玩够了没有 请你把诱惑赶开",
+      "translation": null
+    },
+    {
+      "time": 190.1,
+      "time_str": "03:10.100",
+      "text": "我不知是否应该把脚步再放慢",
+      "translation": null
+    },
+    {
+      "time": 198.1,
+      "time_str": "03:18.100",
+      "text": "看看周围的人们寻找生活的答案",
+      "translation": null
+    },
+    {
+      "time": 205.1,
+      "time_str": "03:25.100",
+      "text": "我不知是否不该活的太明白",
+      "translation": null
+    },
+    {
+      "time": 213.1,
+      "time_str": "03:33.100",
+      "text": "等你把一切看清你会让自己回来",
+      "translation": null
+    },
+    {
+      "time": 220.1,
+      "time_str": "03:40.100",
+      "text": "一次次地善意欺骗我却装作看不出来",
+      "translation": null
+    },
+    {
+      "time": 227.1,
+      "time_str": "03:47.100",
+      "text": "不管是否出于无奈不要放纵的太过太快",
+      "translation": null
+    },
+    {
+      "time": 237.1,
+      "time_str": "03:57.100",
+      "text": "玩够了没有 我不想在等待",
+      "translation": null
+    },
+    {
+      "time": 245.1,
+      "time_str": "04:05.100",
+      "text": "玩够了没有 你心何时才能收回来",
+      "translation": null
+    },
+    {
+      "time": 252.1,
+      "time_str": "04:12.100",
+      "text": "玩够了没有 我不想再忍耐",
+      "translation": null
+    },
+    {
+      "time": 260.1,
+      "time_str": "04:20.100",
+      "text": "玩够了没有 请你把诱惑赶开",
+      "translation": null
+    },
+    {
+      "time": 269.1,
+      "time_str": "04:29.100",
+      "text": "玩够了没有 我不想再等待",
+      "translation": null
+    },
+    {
+      "time": 275.1,
+      "time_str": "04:35.100",
+      "text": "玩够了没有 你心何时才能收回来",
+      "translation": null
+    },
+    {
+      "time": 283.1,
+      "time_str": "04:43.100",
+      "text": "玩够了没有 我不想再等待",
+      "translation": null
+    },
+    {
+      "time": 291.1,
+      "time_str": "04:51.100",
+      "text": "玩够了没有 你心何时才能收回来",
+      "translation": null
+    },
+    {
+      "time": 298.1,
+      "time_str": "04:58.100",
+      "text": "玩够了没有 我不想再忍耐",
+      "translation": null
+    },
+    {
+      "time": 306.1,
+      "time_str": "05:06.100",
+      "text": "玩够了没有 请你把诱惑赶开",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "回心转意 - 零点乐队.lrc"
+}

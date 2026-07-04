@@ -1,0 +1,268 @@
+{
+  "title": "慢慢",
+  "title_raw": "慢慢",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "慢慢|张学友",
+  "writers": {
+    "lyricist": "白进法",
+    "composer": "林隆璇",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 29.6,
+      "time_str": "00:29.600",
+      "text": "心慢慢疼慢慢冷",
+      "translation": null
+    },
+    {
+      "time": 34.68,
+      "time_str": "00:34.680",
+      "text": "慢慢等不到爱人",
+      "translation": null
+    },
+    {
+      "time": 39.84,
+      "time_str": "00:39.840",
+      "text": "付出一生收回几成",
+      "translation": null
+    },
+    {
+      "time": 47.81,
+      "time_str": "00:47.810",
+      "text": "情不能分不能恨",
+      "translation": null
+    },
+    {
+      "time": 52.85,
+      "time_str": "00:52.850",
+      "text": "不能太轻易信任",
+      "translation": null
+    },
+    {
+      "time": 56.19,
+      "time_str": "00:56.190",
+      "text": "真爱一回尽是伤痕",
+      "translation": null
+    },
+    {
+      "time": 62.35,
+      "time_str": "01:02.350",
+      "text": "泪慢慢流慢慢收",
+      "translation": null
+    },
+    {
+      "time": 67.31,
+      "time_str": "01:07.310",
+      "text": "慢慢变成了朋友",
+      "translation": null
+    },
+    {
+      "time": 72.51,
+      "time_str": "01:12.510",
+      "text": "寂寞的夜独自承受",
+      "translation": null
+    },
+    {
+      "time": 80.7,
+      "time_str": "01:20.700",
+      "text": "爱不能久不能够",
+      "translation": null
+    },
+    {
+      "time": 85.54,
+      "time_str": "01:25.540",
+      "text": "不能太容易拥有",
+      "translation": null
+    },
+    {
+      "time": 88.81,
+      "time_str": "01:28.810",
+      "text": "伤人的爱不堪回首",
+      "translation": null
+    },
+    {
+      "time": 95.22,
+      "time_str": "01:35.220",
+      "text": "慢慢慢慢没有感觉",
+      "translation": null
+    },
+    {
+      "time": 98.81,
+      "time_str": "01:38.810",
+      "text": "慢慢慢慢我被忽略",
+      "translation": null
+    },
+    {
+      "time": 102.46,
+      "time_str": "01:42.460",
+      "text": "你何忍看我憔悴",
+      "translation": null
+    },
+    {
+      "time": 106.08,
+      "time_str": "01:46.080",
+      "text": "没有一点点安慰",
+      "translation": null
+    },
+    {
+      "time": 109.67,
+      "time_str": "01:49.670",
+      "text": "慢慢慢慢心变成铁",
+      "translation": null
+    },
+    {
+      "time": 113.37,
+      "time_str": "01:53.370",
+      "text": "慢慢慢慢我被拒绝",
+      "translation": null
+    },
+    {
+      "time": 117.07,
+      "time_str": "01:57.070",
+      "text": "你何忍远走高飞",
+      "translation": null
+    },
+    {
+      "time": 120.55,
+      "time_str": "02:00.550",
+      "text": "要我如何收拾这爱的残缺",
+      "translation": null
+    },
+    {
+      "time": 162.37,
+      "time_str": "02:42.370",
+      "text": "泪慢慢流慢慢收",
+      "translation": null
+    },
+    {
+      "time": 167.25,
+      "time_str": "02:47.250",
+      "text": "慢慢变成了朋友",
+      "translation": null
+    },
+    {
+      "time": 172.39,
+      "time_str": "02:52.390",
+      "text": "寂寞的夜独自承受",
+      "translation": null
+    },
+    {
+      "time": 180.51,
+      "time_str": "03:00.510",
+      "text": "爱不能久不能够",
+      "translation": null
+    },
+    {
+      "time": 185.41,
+      "time_str": "03:05.410",
+      "text": "不能太容易拥有",
+      "translation": null
+    },
+    {
+      "time": 188.7,
+      "time_str": "03:08.700",
+      "text": "伤人的爱不堪回首",
+      "translation": null
+    },
+    {
+      "time": 195.1,
+      "time_str": "03:15.100",
+      "text": "慢慢慢慢没有感觉",
+      "translation": null
+    },
+    {
+      "time": 198.72,
+      "time_str": "03:18.720",
+      "text": "慢慢慢慢我被忽略",
+      "translation": null
+    },
+    {
+      "time": 202.37,
+      "time_str": "03:22.370",
+      "text": "你何忍看我憔悴",
+      "translation": null
+    },
+    {
+      "time": 205.98,
+      "time_str": "03:25.980",
+      "text": "没有一点点安慰",
+      "translation": null
+    },
+    {
+      "time": 209.63,
+      "time_str": "03:29.630",
+      "text": "慢慢慢慢心变成铁",
+      "translation": null
+    },
+    {
+      "time": 213.26,
+      "time_str": "03:33.260",
+      "text": "慢慢慢慢我被拒绝",
+      "translation": null
+    },
+    {
+      "time": 216.95,
+      "time_str": "03:36.950",
+      "text": "你何忍远走高飞",
+      "translation": null
+    },
+    {
+      "time": 220.53,
+      "time_str": "03:40.530",
+      "text": "要我如何收拾这爱的残缺",
+      "translation": null
+    },
+    {
+      "time": 227.77,
+      "time_str": "03:47.770",
+      "text": "慢慢慢慢没有感觉",
+      "translation": null
+    },
+    {
+      "time": 231.43,
+      "time_str": "03:51.430",
+      "text": "慢慢慢慢我被忽略",
+      "translation": null
+    },
+    {
+      "time": 235.07,
+      "time_str": "03:55.070",
+      "text": "你何忍看我憔悴",
+      "translation": null
+    },
+    {
+      "time": 238.68,
+      "time_str": "03:58.680",
+      "text": "没有一点点安慰",
+      "translation": null
+    },
+    {
+      "time": 242.32,
+      "time_str": "04:02.320",
+      "text": "慢慢慢慢心变成铁",
+      "translation": null
+    },
+    {
+      "time": 245.94,
+      "time_str": "04:05.940",
+      "text": "慢慢慢慢我被拒绝",
+      "translation": null
+    },
+    {
+      "time": 249.62,
+      "time_str": "04:09.620",
+      "text": "你何忍远走高飞",
+      "translation": null
+    },
+    {
+      "time": 253.25,
+      "time_str": "04:13.250",
+      "text": "要我如何收拾这爱的残缺",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "慢慢 - 张学友.lrc"
+}

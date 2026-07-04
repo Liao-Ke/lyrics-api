@@ -1,0 +1,280 @@
+{
+  "title": "谢谢你的爱",
+  "title_raw": "谢谢你的爱",
+  "version": null,
+  "artist": "刘德华",
+  "group_key": "谢谢你的爱|刘德华",
+  "writers": {
+    "lyricist": "林秋离",
+    "composer": "熊美玲",
+    "arranger": "杜自持"
+  },
+  "lyrics": [
+    {
+      "time": 31.94,
+      "time_str": "00:31.940",
+      "text": "不要问我 一生曾经爱过多少人",
+      "translation": null
+    },
+    {
+      "time": 38.978,
+      "time_str": "00:38.978",
+      "text": "你不懂我伤有多深",
+      "translation": null
+    },
+    {
+      "time": 46.353,
+      "time_str": "00:46.353",
+      "text": "要剥开伤口总是很残忍",
+      "translation": null
+    },
+    {
+      "time": 49.829,
+      "time_str": "00:49.829",
+      "text": "劝你别做痴心人",
+      "translation": null
+    },
+    {
+      "time": 54.445,
+      "time_str": "00:54.445",
+      "text": "多情暂且保留几分",
+      "translation": null
+    },
+    {
+      "time": 61.289,
+      "time_str": "01:01.289",
+      "text": "不喜欢孤独",
+      "translation": null
+    },
+    {
+      "time": 64.543,
+      "time_str": "01:04.543",
+      "text": "却又害怕两个人相处",
+      "translation": null
+    },
+    {
+      "time": 68.433,
+      "time_str": "01:08.433",
+      "text": "这分明是一种痛苦",
+      "translation": null
+    },
+    {
+      "time": 75.78,
+      "time_str": "01:15.780",
+      "text": "在人多时候最沉默",
+      "translation": null
+    },
+    {
+      "time": 79.729,
+      "time_str": "01:19.729",
+      "text": "笑容也寂寞",
+      "translation": null
+    },
+    {
+      "time": 83.151,
+      "time_str": "01:23.151",
+      "text": "在万丈红尘中 啊",
+      "translation": null
+    },
+    {
+      "time": 87.103,
+      "time_str": "01:27.103",
+      "text": "找个人爱我",
+      "translation": null
+    },
+    {
+      "time": 90.304,
+      "time_str": "01:30.304",
+      "text": "当我避开你的柔情后",
+      "translation": null
+    },
+    {
+      "time": 93.043,
+      "time_str": "01:33.043",
+      "text": "泪开始坠落",
+      "translation": null
+    },
+    {
+      "time": 97.861,
+      "time_str": "01:37.861",
+      "text": "是不敢不想不应该",
+      "translation": null
+    },
+    {
+      "time": 101.555,
+      "time_str": "01:41.555",
+      "text": "再谢谢你的爱",
+      "translation": null
+    },
+    {
+      "time": 105.24,
+      "time_str": "01:45.240",
+      "text": "我不得不存在",
+      "translation": null
+    },
+    {
+      "time": 109.169,
+      "time_str": "01:49.169",
+      "text": "像一颗尘埃",
+      "translation": null
+    },
+    {
+      "time": 112.585,
+      "time_str": "01:52.585",
+      "text": "还是会带给你伤害",
+      "translation": null
+    },
+    {
+      "time": 119.971,
+      "time_str": "01:59.971",
+      "text": "是不敢不想不应该",
+      "translation": null
+    },
+    {
+      "time": 123.679,
+      "time_str": "02:03.679",
+      "text": "再谢谢你的爱",
+      "translation": null
+    },
+    {
+      "time": 127.374,
+      "time_str": "02:07.374",
+      "text": "我不得不存在",
+      "translation": null
+    },
+    {
+      "time": 131.314,
+      "time_str": "02:11.314",
+      "text": "在你的未来",
+      "translation": null
+    },
+    {
+      "time": 134.484,
+      "time_str": "02:14.484",
+      "text": "最怕这样就是带给你永远的伤害",
+      "translation": null
+    },
+    {
+      "time": 171.803,
+      "time_str": "02:51.803",
+      "text": "不喜欢孤独",
+      "translation": null
+    },
+    {
+      "time": 174.956,
+      "time_str": "02:54.956",
+      "text": "却又害怕两个人相处",
+      "translation": null
+    },
+    {
+      "time": 178.87,
+      "time_str": "02:58.870",
+      "text": "这分明是一种痛苦",
+      "translation": null
+    },
+    {
+      "time": 186.247,
+      "time_str": "03:06.247",
+      "text": "在人多时候最沉默",
+      "translation": null
+    },
+    {
+      "time": 190.196,
+      "time_str": "03:10.196",
+      "text": "笑容也寂寞",
+      "translation": null
+    },
+    {
+      "time": 193.574,
+      "time_str": "03:13.574",
+      "text": "在万丈红尘中",
+      "translation": null
+    },
+    {
+      "time": 197.552,
+      "time_str": "03:17.552",
+      "text": "找个人爱我",
+      "translation": null
+    },
+    {
+      "time": 200.755,
+      "time_str": "03:20.755",
+      "text": "当我避开你的柔情后",
+      "translation": null
+    },
+    {
+      "time": 203.493,
+      "time_str": "03:23.493",
+      "text": "泪开始坠落",
+      "translation": null
+    },
+    {
+      "time": 208.352,
+      "time_str": "03:28.352",
+      "text": "是不敢不想不应该",
+      "translation": null
+    },
+    {
+      "time": 211.986,
+      "time_str": "03:31.986",
+      "text": "再谢谢你的爱",
+      "translation": null
+    },
+    {
+      "time": 215.667,
+      "time_str": "03:35.667",
+      "text": "我不得不存在",
+      "translation": null
+    },
+    {
+      "time": 219.618,
+      "time_str": "03:39.618",
+      "text": "像一颗尘埃",
+      "translation": null
+    },
+    {
+      "time": 223.067,
+      "time_str": "03:43.067",
+      "text": "还是会带给你伤害",
+      "translation": null
+    },
+    {
+      "time": 230.423,
+      "time_str": "03:50.423",
+      "text": "是不敢不想不应该",
+      "translation": null
+    },
+    {
+      "time": 234.079,
+      "time_str": "03:54.079",
+      "text": "再谢谢你的爱",
+      "translation": null
+    },
+    {
+      "time": 237.788,
+      "time_str": "03:57.788",
+      "text": "我不得不存在 啊",
+      "translation": null
+    },
+    {
+      "time": 241.729,
+      "time_str": "04:01.729",
+      "text": "在你的未来",
+      "translation": null
+    },
+    {
+      "time": 244.962,
+      "time_str": "04:04.962",
+      "text": "最怕这样就是带给你永远的伤害",
+      "translation": null
+    },
+    {
+      "time": 276.04,
+      "time_str": "04:36.040",
+      "text": "键盘 : Alex Dela Cruz",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "谢谢你的爱 - 刘德华.lrc"
+}

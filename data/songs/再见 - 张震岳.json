@@ -1,0 +1,238 @@
+{
+  "title": "再见",
+  "title_raw": "再见",
+  "version": null,
+  "artist": "张震岳",
+  "group_key": "再见|张震岳",
+  "writers": {
+    "lyricist": "张震岳",
+    "composer": "张震岳",
+    "arranger": "张震岳"
+  },
+  "lyrics": [
+    {
+      "time": 8.62,
+      "time_str": "00:08.620",
+      "text": "我怕我没有机会",
+      "translation": null
+    },
+    {
+      "time": 12.44,
+      "time_str": "00:12.440",
+      "text": "跟你说一声再见",
+      "translation": null
+    },
+    {
+      "time": 16.31,
+      "time_str": "00:16.310",
+      "text": "因为也许就再也见不到你",
+      "translation": null
+    },
+    {
+      "time": 24.24,
+      "time_str": "00:24.240",
+      "text": "明天我要离开",
+      "translation": null
+    },
+    {
+      "time": 27.92,
+      "time_str": "00:27.920",
+      "text": "熟悉的地方和你",
+      "translation": null
+    },
+    {
+      "time": 31.86,
+      "time_str": "00:31.860",
+      "text": "要分离",
+      "translation": null
+    },
+    {
+      "time": 34.08,
+      "time_str": "00:34.080",
+      "text": "我眼泪就掉下去",
+      "translation": null
+    },
+    {
+      "time": 39.63,
+      "time_str": "00:39.630",
+      "text": "我会牢牢记住你的脸",
+      "translation": null
+    },
+    {
+      "time": 43.44,
+      "time_str": "00:43.440",
+      "text": "我会珍惜你给的思念",
+      "translation": null
+    },
+    {
+      "time": 47.29,
+      "time_str": "00:47.290",
+      "text": "这些日子在我心中永远都不会抹去",
+      "translation": null
+    },
+    {
+      "time": 55.11,
+      "time_str": "00:55.110",
+      "text": "我不能答应你",
+      "translation": null
+    },
+    {
+      "time": 58.91,
+      "time_str": "00:58.910",
+      "text": "我是否会再回来",
+      "translation": null
+    },
+    {
+      "time": 62.74,
+      "time_str": "01:02.740",
+      "text": "不回头",
+      "translation": null
+    },
+    {
+      "time": 65.409,
+      "time_str": "01:05.409",
+      "text": "不回头地走下去",
+      "translation": null
+    },
+    {
+      "time": 78.409,
+      "time_str": "01:18.409",
+      "text": "我怕我没有机会",
+      "translation": null
+    },
+    {
+      "time": 82.06,
+      "time_str": "01:22.060",
+      "text": "跟你说一声再见",
+      "translation": null
+    },
+    {
+      "time": 86.08,
+      "time_str": "01:26.080",
+      "text": "因为也许就再也见不到你",
+      "translation": null
+    },
+    {
+      "time": 93.73,
+      "time_str": "01:33.730",
+      "text": "明天我要离开",
+      "translation": null
+    },
+    {
+      "time": 97.599,
+      "time_str": "01:37.599",
+      "text": "熟悉的地方和你",
+      "translation": null
+    },
+    {
+      "time": 101.5,
+      "time_str": "01:41.500",
+      "text": "要分离",
+      "translation": null
+    },
+    {
+      "time": 103.89,
+      "time_str": "01:43.890",
+      "text": "我眼泪就掉下去",
+      "translation": null
+    },
+    {
+      "time": 109.31,
+      "time_str": "01:49.310",
+      "text": "我会牢牢记住你的脸",
+      "translation": null
+    },
+    {
+      "time": 113.099,
+      "time_str": "01:53.099",
+      "text": "我会珍惜你给的思念",
+      "translation": null
+    },
+    {
+      "time": 117.0,
+      "time_str": "01:57.000",
+      "text": "这些日子在我心中永远都不会抹去",
+      "translation": null
+    },
+    {
+      "time": 124.739,
+      "time_str": "02:04.739",
+      "text": "我不能答应你",
+      "translation": null
+    },
+    {
+      "time": 128.569,
+      "time_str": "02:08.569",
+      "text": "我是否会再回来",
+      "translation": null
+    },
+    {
+      "time": 132.469,
+      "time_str": "02:12.469",
+      "text": "不回头",
+      "translation": null
+    },
+    {
+      "time": 135.03,
+      "time_str": "02:15.030",
+      "text": "不回头地走下去",
+      "translation": null
+    },
+    {
+      "time": 140.319,
+      "time_str": "02:20.319",
+      "text": "我会牢牢记住你的脸",
+      "translation": null
+    },
+    {
+      "time": 144.03,
+      "time_str": "02:24.030",
+      "text": "我会珍惜你给的思念",
+      "translation": null
+    },
+    {
+      "time": 147.939,
+      "time_str": "02:27.939",
+      "text": "这些日子在我心中永远都不会抹去",
+      "translation": null
+    },
+    {
+      "time": 155.699,
+      "time_str": "02:35.699",
+      "text": "我不能答应你",
+      "translation": null
+    },
+    {
+      "time": 159.56,
+      "time_str": "02:39.560",
+      "text": "我是否会再回来",
+      "translation": null
+    },
+    {
+      "time": 163.43,
+      "time_str": "02:43.430",
+      "text": "不回头",
+      "translation": null
+    },
+    {
+      "time": 166.099,
+      "time_str": "02:46.099",
+      "text": "不回头地走下去",
+      "translation": null
+    },
+    {
+      "time": 171.349,
+      "time_str": "02:51.349",
+      "text": "不回头",
+      "translation": null
+    },
+    {
+      "time": 173.68,
+      "time_str": "02:53.680",
+      "text": "不回头地走下去",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "再见 - 张震岳.lrc"
+}

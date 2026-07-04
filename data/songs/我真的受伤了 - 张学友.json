@@ -1,0 +1,220 @@
+{
+  "title": "我真的受伤了",
+  "title_raw": "我真的受伤了",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "我真的受伤了|张学友",
+  "writers": {
+    "lyricist": "王菀之",
+    "composer": "王菀之",
+    "arranger": "江建民"
+  },
+  "lyrics": [
+    {
+      "time": 0.65,
+      "time_str": "00:00.650",
+      "text": "窗外阴天了",
+      "translation": null
+    },
+    {
+      "time": 4.23,
+      "time_str": "00:04.230",
+      "text": "音乐低声了",
+      "translation": null
+    },
+    {
+      "time": 7.16,
+      "time_str": "00:07.160",
+      "text": "我的心开始想你了",
+      "translation": null
+    },
+    {
+      "time": 26.55,
+      "time_str": "00:26.550",
+      "text": "灯光也暗了",
+      "translation": null
+    },
+    {
+      "time": 29.81,
+      "time_str": "00:29.810",
+      "text": "音乐低声了",
+      "translation": null
+    },
+    {
+      "time": 33.03,
+      "time_str": "00:33.030",
+      "text": "口中的棉花糖也融化了",
+      "translation": null
+    },
+    {
+      "time": 39.5,
+      "time_str": "00:39.500",
+      "text": "窗外阴天了",
+      "translation": null
+    },
+    {
+      "time": 42.68,
+      "time_str": "00:42.680",
+      "text": "人是无聊了",
+      "translation": null
+    },
+    {
+      "time": 45.23,
+      "time_str": "00:45.230",
+      "text": "我的心开始想你了",
+      "translation": null
+    },
+    {
+      "time": 52.83,
+      "time_str": "00:52.830",
+      "text": "电话响起了",
+      "translation": null
+    },
+    {
+      "time": 55.85,
+      "time_str": "00:55.850",
+      "text": "你要说话了",
+      "translation": null
+    },
+    {
+      "time": 59.25,
+      "time_str": "00:59.250",
+      "text": "还以为你心里对我又想念了",
+      "translation": null
+    },
+    {
+      "time": 65.81,
+      "time_str": "01:05.810",
+      "text": "怎么你声音变得冷淡了",
+      "translation": null
+    },
+    {
+      "time": 71.53,
+      "time_str": "01:11.530",
+      "text": "是你变了",
+      "translation": null
+    },
+    {
+      "time": 74.87,
+      "time_str": "01:14.870",
+      "text": "是你变了",
+      "translation": null
+    },
+    {
+      "time": 78.96,
+      "time_str": "01:18.960",
+      "text": "灯光熄灭了",
+      "translation": null
+    },
+    {
+      "time": 82.15,
+      "time_str": "01:22.150",
+      "text": "音乐静止了",
+      "translation": null
+    },
+    {
+      "time": 85.38,
+      "time_str": "01:25.380",
+      "text": "滴下的眼泪已停不住了",
+      "translation": null
+    },
+    {
+      "time": 91.89,
+      "time_str": "01:31.890",
+      "text": "天下起雨了",
+      "translation": null
+    },
+    {
+      "time": 94.51,
+      "time_str": "01:34.510",
+      "text": "人是不快乐",
+      "translation": null
+    },
+    {
+      "time": 97.82,
+      "time_str": "01:37.820",
+      "text": "我的心真的受伤了",
+      "translation": null
+    },
+    {
+      "time": 131.74,
+      "time_str": "02:11.740",
+      "text": "电话响起了",
+      "translation": null
+    },
+    {
+      "time": 134.66,
+      "time_str": "02:14.660",
+      "text": "你要说话了",
+      "translation": null
+    },
+    {
+      "time": 138.02,
+      "time_str": "02:18.020",
+      "text": "还以为你心里对我又想念了",
+      "translation": null
+    },
+    {
+      "time": 144.57,
+      "time_str": "02:24.570",
+      "text": "怎么你声音变得冷淡了",
+      "translation": null
+    },
+    {
+      "time": 150.26,
+      "time_str": "02:30.260",
+      "text": "是你变了",
+      "translation": null
+    },
+    {
+      "time": 153.63,
+      "time_str": "02:33.630",
+      "text": "是你变了",
+      "translation": null
+    },
+    {
+      "time": 157.85,
+      "time_str": "02:37.850",
+      "text": "灯光熄灭了",
+      "translation": null
+    },
+    {
+      "time": 161.13,
+      "time_str": "02:41.130",
+      "text": "音乐静止了",
+      "translation": null
+    },
+    {
+      "time": 164.31,
+      "time_str": "02:44.310",
+      "text": "滴下的眼泪已停不住了",
+      "translation": null
+    },
+    {
+      "time": 171.0,
+      "time_str": "02:51.000",
+      "text": "天下起雨了",
+      "translation": null
+    },
+    {
+      "time": 173.43,
+      "time_str": "02:53.430",
+      "text": "人是不快乐",
+      "translation": null
+    },
+    {
+      "time": 176.43,
+      "time_str": "02:56.430",
+      "text": "我的心真的受伤了",
+      "translation": null
+    },
+    {
+      "time": 184.06,
+      "time_str": "03:04.060",
+      "text": "我的心真的受伤了",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我真的受伤了 - 张学友.lrc"
+}

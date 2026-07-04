@@ -1,0 +1,208 @@
+{
+  "title": "Samsara",
+  "title_raw": "Samsara",
+  "version": null,
+  "artist": "Tungevaag & Raaban",
+  "group_key": "samsara|tungevaag & raaban",
+  "writers": {
+    "lyricist": null,
+    "composer": "Martin Tungevaag/Robbin Söderlund",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.13,
+      "time_str": "00:04.130",
+      "text": "Time's running up, tick tock",
+      "translation": "时间将尽，时钟滴答"
+    },
+    {
+      "time": 7.87,
+      "time_str": "00:07.870",
+      "text": "And I'm set on minely a thread of life",
+      "translation": "我细细规划了自己的人生"
+    },
+    {
+      "time": 11.5,
+      "time_str": "00:11.500",
+      "text": "Do you believe in karma?",
+      "translation": "你相信因缘吗"
+    },
+    {
+      "time": 15.37,
+      "time_str": "00:15.370",
+      "text": "Let's live it up like Samsara",
+      "translation": "让我们狂欢一场，就像轮回"
+    },
+    {
+      "time": 18.9,
+      "time_str": "00:18.900",
+      "text": "Someone might tell you life is deadly",
+      "translation": "也许有人告诉你，生命如同死水"
+    },
+    {
+      "time": 23.0,
+      "time_str": "00:23.000",
+      "text": "But with us it's just one of many",
+      "translation": "但与我们相伴，消沉不是唯一"
+    },
+    {
+      "time": 26.69,
+      "time_str": "00:26.690",
+      "text": "Come on, let us set the tone",
+      "translation": "来吧，让我们定好基调"
+    },
+    {
+      "time": 30.69,
+      "time_str": "00:30.690",
+      "text": "Follow the rave, let's get it on",
+      "translation": "伴着音乐，兴奋起来"
+    },
+    {
+      "time": 34.17,
+      "time_str": "00:34.170",
+      "text": "Take me home to Samsara, Samsara",
+      "translation": "带我回家，进入轮回"
+    },
+    {
+      "time": 37.71,
+      "time_str": "00:37.710",
+      "text": "Lose control like Samsara, Samsara",
+      "translation": "别再拘束，就像轮回"
+    },
+    {
+      "time": 41.01,
+      "time_str": "00:41.010",
+      "text": "Come join us, we'll make it",
+      "translation": "来加入我们吧，我们能成功"
+    },
+    {
+      "time": 42.62,
+      "time_str": "00:42.620",
+      "text": "Come join us, we'll take it",
+      "translation": "来加入我们吧，我们会接受"
+    },
+    {
+      "time": 44.69,
+      "time_str": "00:44.690",
+      "text": "Take me home to Samsara, Samsara",
+      "translation": "带我回家，进入轮回"
+    },
+    {
+      "time": 50.16,
+      "time_str": "00:50.160",
+      "text": "Oooh...",
+      "translation": "哦"
+    },
+    {
+      "time": 52.64,
+      "time_str": "00:52.640",
+      "text": "Home to Samsara, Samsara",
+      "translation": "进入轮回"
+    },
+    {
+      "time": 57.91,
+      "time_str": "00:57.910",
+      "text": "Oooh...",
+      "translation": "哦"
+    },
+    {
+      "time": 60.19,
+      "time_str": "01:00.190",
+      "text": "Home to Samsara, Samsara",
+      "translation": "进入轮回"
+    },
+    {
+      "time": 66.53,
+      "time_str": "01:06.530",
+      "text": "(Samsara)",
+      "translation": "轮回"
+    },
+    {
+      "time": 108.55,
+      "time_str": "01:48.550",
+      "text": "Don't waste your time, tick tock",
+      "translation": "别浪费你的时间，时钟正滴答滴答"
+    },
+    {
+      "time": 112.3,
+      "time_str": "01:52.300",
+      "text": "Spend eternity on these wheels of life",
+      "translation": "在轮回中经历永恒"
+    },
+    {
+      "time": 116.04,
+      "time_str": "01:56.040",
+      "text": "Take a trip to Nirvana",
+      "translation": "启程去涅槃"
+    },
+    {
+      "time": 119.28,
+      "time_str": "01:59.280",
+      "text": "Let's live it up like Samsara",
+      "translation": "让我们狂欢一场，就像轮回"
+    },
+    {
+      "time": 123.32,
+      "time_str": "02:03.320",
+      "text": "Someone might tell you life is deadly",
+      "translation": "也许有人告诉你，生命如同死水"
+    },
+    {
+      "time": 127.37,
+      "time_str": "02:07.370",
+      "text": "But with us it's just one of many",
+      "translation": "但与我们相伴，消沉不是唯一"
+    },
+    {
+      "time": 131.16,
+      "time_str": "02:11.160",
+      "text": "Come on, let us set the tone",
+      "translation": "来吧，让我们定好基调"
+    },
+    {
+      "time": 134.66,
+      "time_str": "02:14.660",
+      "text": "Follow the rave, let's get it on",
+      "translation": "伴着音乐，兴奋起来"
+    },
+    {
+      "time": 138.44,
+      "time_str": "02:18.440",
+      "text": "Take me home to Samsara, Samsara",
+      "translation": "带我回家，进入轮回"
+    },
+    {
+      "time": 142.03,
+      "time_str": "02:22.030",
+      "text": "Lose control like Samsara, Samsara",
+      "translation": "别再拘束，就像轮回"
+    },
+    {
+      "time": 145.43,
+      "time_str": "02:25.430",
+      "text": "Come join us, we'll make it",
+      "translation": "来加入我们吧，我们能成功"
+    },
+    {
+      "time": 147.04,
+      "time_str": "02:27.040",
+      "text": "Come join us, we'll take it",
+      "translation": "来加入我们吧，我们会接受"
+    },
+    {
+      "time": 149.52,
+      "time_str": "02:29.520",
+      "text": "Take me home to Samsara, Samsara",
+      "translation": "带我回家，进入轮回"
+    },
+    {
+      "time": 154.94,
+      "time_str": "02:34.940",
+      "text": "(Samsara)",
+      "translation": "轮回"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Samsara - Tungevaag & Raaban.lrc"
+}

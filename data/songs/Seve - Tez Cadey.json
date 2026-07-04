@@ -1,0 +1,214 @@
+{
+  "title": "Seve",
+  "title_raw": "Seve",
+  "version": null,
+  "artist": "Tez Cadey",
+  "group_key": "seve|tez cadey",
+  "writers": {
+    "lyricist": "Tez Cadey",
+    "composer": "Tez Cadey",
+    "arranger": "Tez Cadey"
+  },
+  "lyrics": [
+    {
+      "time": 15.62,
+      "time_str": "00:15.620",
+      "text": "Viumbe vyote vya mungu wetu na mfalme wetu",
+      "translation": "创造的一切的神和主啊"
+    },
+    {
+      "time": 19.48,
+      "time_str": "00:19.480",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 23.58,
+      "time_str": "00:23.580",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 27.4,
+      "time_str": "00:27.400",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    },
+    {
+      "time": 29.67,
+      "time_str": "00:29.670",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    },
+    {
+      "time": 78.78,
+      "time_str": "01:18.780",
+      "text": "Viumbe vyote vya mungu wetu na mfalme wetu",
+      "translation": "创造的一切的神和主啊"
+    },
+    {
+      "time": 82.99,
+      "time_str": "01:22.990",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 87.32,
+      "time_str": "01:27.320",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 91.19,
+      "time_str": "01:31.190",
+      "text": "Pazeni sauti mungu wetu na mfalme wetu",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 95.32,
+      "time_str": "01:35.320",
+      "text": "Viumbe vyote vya mungu wetu na mfalme wetu",
+      "translation": "创造的一切的神和主啊"
+    },
+    {
+      "time": 98.92,
+      "time_str": "01:38.920",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 103.07,
+      "time_str": "01:43.070",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 106.78,
+      "time_str": "01:46.780",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 110.81,
+      "time_str": "01:50.810",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    },
+    {
+      "time": 112.92,
+      "time_str": "01:52.920",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    },
+    {
+      "time": 114.99,
+      "time_str": "01:54.990",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 118.56,
+      "time_str": "01:58.560",
+      "text": "Pazeni",
+      "translation": "我们哭着"
+    },
+    {
+      "time": 119.66,
+      "time_str": "01:59.660",
+      "text": "Pazeni",
+      "translation": "我们哭着"
+    },
+    {
+      "time": 120.71,
+      "time_str": "02:00.710",
+      "text": "Pazeni",
+      "translation": "我们哭着"
+    },
+    {
+      "time": 121.88,
+      "time_str": "02:01.880",
+      "text": "Pazeni",
+      "translation": "我们哭着"
+    },
+    {
+      "time": 122.93,
+      "time_str": "02:02.930",
+      "text": "Pazeni",
+      "translation": "我们哭着"
+    },
+    {
+      "time": 123.95,
+      "time_str": "02:03.950",
+      "text": "Pazeni",
+      "translation": "我们哭着"
+    },
+    {
+      "time": 158.43,
+      "time_str": "02:38.430",
+      "text": "Viumbe vyote vya mungu wetu na mfalme wetu",
+      "translation": "创造的一切的神和主啊"
+    },
+    {
+      "time": 162.58,
+      "time_str": "02:42.580",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 166.71,
+      "time_str": "02:46.710",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 170.39,
+      "time_str": "02:50.390",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 174.13,
+      "time_str": "02:54.130",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    },
+    {
+      "time": 176.3,
+      "time_str": "02:56.300",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    },
+    {
+      "time": 178.36,
+      "time_str": "02:58.360",
+      "text": "Pazeni sauti ili nasi mwimbe",
+      "translation": "我们为此以歌代泣"
+    },
+    {
+      "time": 182.36,
+      "time_str": "03:02.360",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    },
+    {
+      "time": 184.37,
+      "time_str": "03:04.370",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    },
+    {
+      "time": 186.27,
+      "time_str": "03:06.270",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    },
+    {
+      "time": 188.26,
+      "time_str": "03:08.260",
+      "text": "Pazeni sauti",
+      "translation": "为此我们哭着呐喊"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Seve - Tez Cadey.lrc"
+}

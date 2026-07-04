@@ -1,0 +1,208 @@
+{
+  "title": "那又如何",
+  "title_raw": "那又如何",
+  "version": null,
+  "artist": "应嘉俐",
+  "group_key": "那又如何|应嘉俐",
+  "writers": {
+    "lyricist": "应嘉俐",
+    "composer": "应嘉俐、姜洋",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.5,
+      "time_str": "00:07.500",
+      "text": "还想什么 琴键都弹错了",
+      "translation": null
+    },
+    {
+      "time": 14.66,
+      "time_str": "00:14.660",
+      "text": "还爱他吗 不值得留恋了",
+      "translation": null
+    },
+    {
+      "time": 22.11,
+      "time_str": "00:22.110",
+      "text": "爱过之后的残缺 变得不会再怀念",
+      "translation": null
+    },
+    {
+      "time": 28.22,
+      "time_str": "00:28.220",
+      "text": "说的不会错 以为不会错",
+      "translation": null
+    },
+    {
+      "time": 35.73,
+      "time_str": "00:35.730",
+      "text": "就这样吧 请别再幻想了",
+      "translation": null
+    },
+    {
+      "time": 43.18,
+      "time_str": "00:43.180",
+      "text": "他走过了 哪还会回头呢",
+      "translation": null
+    },
+    {
+      "time": 49.47,
+      "time_str": "00:49.470",
+      "text": "你从前的自由呢 总是爱笑的你呢",
+      "translation": null
+    },
+    {
+      "time": 56.29,
+      "time_str": "00:56.290",
+      "text": "别理他了 爱就爱了",
+      "translation": null
+    },
+    {
+      "time": 63.08,
+      "time_str": "01:03.080",
+      "text": "不就是伤心了一个人躲着",
+      "translation": null
+    },
+    {
+      "time": 70.53,
+      "time_str": "01:10.530",
+      "text": "不就是难过了没有人诉说",
+      "translation": null
+    },
+    {
+      "time": 77.13,
+      "time_str": "01:17.130",
+      "text": "不就是这次又伤得更透彻",
+      "translation": null
+    },
+    {
+      "time": 84.49,
+      "time_str": "01:24.490",
+      "text": "我不怕爱却爱的那么深刻",
+      "translation": null
+    },
+    {
+      "time": 91.64,
+      "time_str": "01:31.640",
+      "text": "不就是一个人守着黑夜过",
+      "translation": null
+    },
+    {
+      "time": 98.529,
+      "time_str": "01:38.529",
+      "text": "不就是厨房里少了你和我",
+      "translation": null
+    },
+    {
+      "time": 105.75,
+      "time_str": "01:45.750",
+      "text": "不就是再也没有睡前的歌",
+      "translation": null
+    },
+    {
+      "time": 112.809,
+      "time_str": "01:52.809",
+      "text": "我还是可以一个人活",
+      "translation": null
+    },
+    {
+      "time": 134.61,
+      "time_str": "02:14.610",
+      "text": "就这样吧 请别再幻想了",
+      "translation": null
+    },
+    {
+      "time": 141.94,
+      "time_str": "02:21.940",
+      "text": "他走过了 哪还会回头呢",
+      "translation": null
+    },
+    {
+      "time": 148.89,
+      "time_str": "02:28.890",
+      "text": "你从前的自由呢 总是爱笑的你呢",
+      "translation": null
+    },
+    {
+      "time": 155.58,
+      "time_str": "02:35.580",
+      "text": "别理他了 爱就爱了",
+      "translation": null
+    },
+    {
+      "time": 162.64,
+      "time_str": "02:42.640",
+      "text": "不就是伤心了一个人躲着",
+      "translation": null
+    },
+    {
+      "time": 169.56,
+      "time_str": "02:49.560",
+      "text": "不就是难过了没有人诉说",
+      "translation": null
+    },
+    {
+      "time": 176.75,
+      "time_str": "02:56.750",
+      "text": "不就是这次又伤得更透彻",
+      "translation": null
+    },
+    {
+      "time": 183.75,
+      "time_str": "03:03.750",
+      "text": "我不怕爱却爱的那么深刻",
+      "translation": null
+    },
+    {
+      "time": 191.0,
+      "time_str": "03:11.000",
+      "text": "不就是一个人守着黑夜过",
+      "translation": null
+    },
+    {
+      "time": 198.2,
+      "time_str": "03:18.200",
+      "text": "不就是厨房里少了你和我",
+      "translation": null
+    },
+    {
+      "time": 205.6,
+      "time_str": "03:25.600",
+      "text": "不就是再也没有睡前的歌",
+      "translation": null
+    },
+    {
+      "time": 212.09,
+      "time_str": "03:32.090",
+      "text": "我还是可以一个人活",
+      "translation": null
+    },
+    {
+      "time": 250.56,
+      "time_str": "04:10.560",
+      "text": "不就是一个人守着黑夜过",
+      "translation": null
+    },
+    {
+      "time": 258.02,
+      "time_str": "04:18.020",
+      "text": "不就是厨房里少了你和我",
+      "translation": null
+    },
+    {
+      "time": 265.28,
+      "time_str": "04:25.280",
+      "text": "不就是再也没有睡前的歌",
+      "translation": null
+    },
+    {
+      "time": 272.41,
+      "time_str": "04:32.410",
+      "text": "我还是可以一个人活",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "那又如何 - 应嘉俐.lrc"
+}

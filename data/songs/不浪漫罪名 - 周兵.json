@@ -1,0 +1,346 @@
+{
+  "title": "不浪漫罪名",
+  "title_raw": "不浪漫罪名",
+  "version": null,
+  "artist": "周兵",
+  "group_key": "不浪漫罪名|周兵",
+  "writers": {
+    "lyricist": "陈少琪",
+    "composer": "王杰",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.894,
+      "time_str": "00:16.894",
+      "text": "沒有花",
+      "translation": null
+    },
+    {
+      "time": 20.146,
+      "time_str": "00:20.146",
+      "text": "這剎那被破壞嗎",
+      "translation": null
+    },
+    {
+      "time": 23.894,
+      "time_str": "00:23.894",
+      "text": "無野火都會溫暖嗎",
+      "translation": null
+    },
+    {
+      "time": 28.886,
+      "time_str": "00:28.886",
+      "text": "無菸花一起慶祝好嗎",
+      "translation": null
+    },
+    {
+      "time": 34.647,
+      "time_str": "00:34.647",
+      "text": "若愛戀",
+      "translation": null
+    },
+    {
+      "time": 37.642,
+      "time_str": "00:37.642",
+      "text": "彷似戲劇那樣假",
+      "translation": null
+    },
+    {
+      "time": 41.391,
+      "time_str": "00:41.391",
+      "text": "如佈景一切都美化",
+      "translation": null
+    },
+    {
+      "time": 46.394,
+      "time_str": "00:46.394",
+      "text": "連相擁都參照主角嗎",
+      "translation": null
+    },
+    {
+      "time": 52.143,
+      "time_str": "00:52.143",
+      "text": "你說我未能定時",
+      "translation": null
+    },
+    {
+      "time": 55.638,
+      "time_str": "00:55.638",
+      "text": "令你每天歡笑一次",
+      "translation": null
+    },
+    {
+      "time": 59.897,
+      "time_str": "00:59.897",
+      "text": "我沒說出一句美麗臺詞",
+      "translation": null
+    },
+    {
+      "time": 63.391,
+      "time_str": "01:03.391",
+      "text": "是你心中一種缺陷定義",
+      "translation": null
+    },
+    {
+      "time": 67.642,
+      "time_str": "01:07.642",
+      "text": "流進了眼角里的刺",
+      "translation": null
+    },
+    {
+      "time": 70.637,
+      "time_str": "01:10.637",
+      "text": "為何不浪漫亦是罪名",
+      "translation": null
+    },
+    {
+      "time": 74.398,
+      "time_str": "01:14.398",
+      "text": "為何不轟烈是件壞事情",
+      "translation": null
+    },
+    {
+      "time": 78.138,
+      "time_str": "01:18.138",
+      "text": "從來未察覺我每個動作",
+      "translation": null
+    },
+    {
+      "time": 82.143,
+      "time_str": "01:22.143",
+      "text": "沒有聲都有愛你的鐵證",
+      "translation": null
+    },
+    {
+      "time": 85.891,
+      "time_str": "01:25.891",
+      "text": "為何苦不浪漫亦是罪名",
+      "translation": null
+    },
+    {
+      "time": 89.897,
+      "time_str": "01:29.897",
+      "text": "為何總等待著特別事情",
+      "translation": null
+    },
+    {
+      "time": 93.637,
+      "time_str": "01:33.637",
+      "text": "從來未察覺我語氣動聽",
+      "translation": null
+    },
+    {
+      "time": 95.335,
+      "time_str": "01:35.335",
+      "text": "不浪漫罪名",
+      "translation": null
+    },
+    {
+      "time": 96.346,
+      "time_str": "01:36.346",
+      "text": "不浪漫罪名",
+      "translation": null
+    },
+    {
+      "time": 97.345,
+      "time_str": "01:37.345",
+      "text": "在我呼吸聲早已說明",
+      "translation": null
+    },
+    {
+      "time": 102.337,
+      "time_str": "01:42.337",
+      "text": "什麼都會用一生保證",
+      "translation": null
+    },
+    {
+      "time": 113.843,
+      "time_str": "01:53.843",
+      "text": "沒有花",
+      "translation": null
+    },
+    {
+      "time": 117.091,
+      "time_str": "01:57.091",
+      "text": "這剎那被破壞嗎",
+      "translation": null
+    },
+    {
+      "time": 120.586,
+      "time_str": "02:00.586",
+      "text": "無野火都會溫暖嗎",
+      "translation": null
+    },
+    {
+      "time": 125.59,
+      "time_str": "02:05.590",
+      "text": "無菸花一起慶祝好嗎",
+      "translation": null
+    },
+    {
+      "time": 131.094,
+      "time_str": "02:11.094",
+      "text": "若愛戀",
+      "translation": null
+    },
+    {
+      "time": 134.587,
+      "time_str": "02:14.587",
+      "text": "彷似戲劇那樣假",
+      "translation": null
+    },
+    {
+      "time": 138.094,
+      "time_str": "02:18.094",
+      "text": "如佈景一切都美化",
+      "translation": null
+    },
+    {
+      "time": 142.844,
+      "time_str": "02:22.844",
+      "text": "連相擁都參照主角嗎",
+      "translation": null
+    },
+    {
+      "time": 148.847,
+      "time_str": "02:28.847",
+      "text": "你說我未能定時",
+      "translation": null
+    },
+    {
+      "time": 152.341,
+      "time_str": "02:32.341",
+      "text": "令你每天歡笑一次",
+      "translation": null
+    },
+    {
+      "time": 156.346,
+      "time_str": "02:36.346",
+      "text": "我沒說出一句美麗臺詞",
+      "translation": null
+    },
+    {
+      "time": 159.841,
+      "time_str": "02:39.841",
+      "text": "是你心中一種缺陷定義",
+      "translation": null
+    },
+    {
+      "time": 164.089,
+      "time_str": "02:44.089",
+      "text": "流進了眼角里的刺",
+      "translation": null
+    },
+    {
+      "time": 167.301,
+      "time_str": "02:47.301",
+      "text": "為何不浪漫亦是罪名",
+      "translation": null
+    },
+    {
+      "time": 171.041,
+      "time_str": "02:51.041",
+      "text": "為何不轟烈是件壞事情",
+      "translation": null
+    },
+    {
+      "time": 175.372,
+      "time_str": "02:55.372",
+      "text": "從來未察覺我每個動作",
+      "translation": null
+    },
+    {
+      "time": 178.379,
+      "time_str": "02:58.379",
+      "text": "沒有聲都有愛你的鐵證",
+      "translation": null
+    },
+    {
+      "time": 182.619,
+      "time_str": "03:02.619",
+      "text": "為何苦不浪漫亦是罪名",
+      "translation": null
+    },
+    {
+      "time": 186.379,
+      "time_str": "03:06.379",
+      "text": "為何總等待著特別事情",
+      "translation": null
+    },
+    {
+      "time": 190.372,
+      "time_str": "03:10.372",
+      "text": "從來未察覺我語氣動聽",
+      "translation": null
+    },
+    {
+      "time": 194.124,
+      "time_str": "03:14.124",
+      "text": "在我呼吸聲早已說明",
+      "translation": null
+    },
+    {
+      "time": 199.055,
+      "time_str": "03:19.055",
+      "text": "什麼都會用一生保證",
+      "translation": null
+    },
+    {
+      "time": 221.256,
+      "time_str": "03:41.256",
+      "text": "為何不浪漫亦是罪名",
+      "translation": null
+    },
+    {
+      "time": 224.505,
+      "time_str": "03:44.505",
+      "text": "為何不轟烈是件壞事情",
+      "translation": null
+    },
+    {
+      "time": 228.257,
+      "time_str": "03:48.257",
+      "text": "從來未察覺我每個動作",
+      "translation": null
+    },
+    {
+      "time": 232.262,
+      "time_str": "03:52.262",
+      "text": "沒有聲都有愛你的鐵證",
+      "translation": null
+    },
+    {
+      "time": 236.01,
+      "time_str": "03:56.010",
+      "text": "為何苦不浪漫亦是罪名",
+      "translation": null
+    },
+    {
+      "time": 239.762,
+      "time_str": "03:59.762",
+      "text": "為何總等待著特別事情",
+      "translation": null
+    },
+    {
+      "time": 243.756,
+      "time_str": "04:03.756",
+      "text": "從來未察覺我語氣動聽",
+      "translation": null
+    },
+    {
+      "time": 247.505,
+      "time_str": "04:07.505",
+      "text": "在我呼吸聲早已說明",
+      "translation": null
+    },
+    {
+      "time": 252.509,
+      "time_str": "04:12.509",
+      "text": "什麼都會用一生保證",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不浪漫罪名 - 周兵.lrc"
+}

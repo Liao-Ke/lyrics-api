@@ -1,0 +1,202 @@
+{
+  "title": "白桦林",
+  "title_raw": "白桦林",
+  "version": null,
+  "artist": "朴树",
+  "group_key": "白桦林|朴树",
+  "writers": {
+    "lyricist": "朴树",
+    "composer": "朴树",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.03,
+      "time_str": "00:03.030",
+      "text": "白桦林",
+      "translation": null
+    },
+    {
+      "time": 4.01,
+      "time_str": "00:04.010",
+      "text": "演唱：朴树",
+      "translation": null
+    },
+    {
+      "time": 16.92,
+      "time_str": "00:16.920",
+      "text": "静静的村庄飘着白的雪",
+      "translation": null
+    },
+    {
+      "time": 22.41,
+      "time_str": "00:22.410",
+      "text": "阴霾的天空下鸽子飞翔",
+      "translation": null
+    },
+    {
+      "time": 28.47,
+      "time_str": "00:28.470",
+      "text": "白桦树刻着那两个名字",
+      "translation": null
+    },
+    {
+      "time": 34.43,
+      "time_str": "00:34.430",
+      "text": "他们发誓相爱用尽这一生",
+      "translation": null
+    },
+    {
+      "time": 40.46,
+      "time_str": "00:40.460",
+      "text": "有一天战火烧到了家乡",
+      "translation": null
+    },
+    {
+      "time": 46.57,
+      "time_str": "00:46.570",
+      "text": "小伙子拿起枪奔赴边疆",
+      "translation": null
+    },
+    {
+      "time": 52.5,
+      "time_str": "00:52.500",
+      "text": "心上人你不要为我担心",
+      "translation": null
+    },
+    {
+      "time": 58.57,
+      "time_str": "00:58.570",
+      "text": "等着我回来在那片白桦林",
+      "translation": null
+    },
+    {
+      "time": 64.69,
+      "time_str": "01:04.690",
+      "text": "天空依然阴霾依然有鸽子在飞翔",
+      "translation": null
+    },
+    {
+      "time": 70.51,
+      "time_str": "01:10.510",
+      "text": "谁来证明那些没有墓碑的爱情和生命",
+      "translation": null
+    },
+    {
+      "time": 76.59,
+      "time_str": "01:16.590",
+      "text": "雪依然在下那村庄依然安详",
+      "translation": null
+    },
+    {
+      "time": 82.68,
+      "time_str": "01:22.680",
+      "text": "年轻的人们消失在白桦林",
+      "translation": null
+    },
+    {
+      "time": 88.91,
+      "time_str": "01:28.910",
+      "text": "噩耗声传来在那个午后",
+      "translation": null
+    },
+    {
+      "time": 94.93,
+      "time_str": "01:34.930",
+      "text": "心上人战死在远方沙场",
+      "translation": null
+    },
+    {
+      "time": 100.92,
+      "time_str": "01:40.920",
+      "text": "她默默来到那片白桦林",
+      "translation": null
+    },
+    {
+      "time": 106.94,
+      "time_str": "01:46.940",
+      "text": "望眼欲穿地每天守在那里",
+      "translation": null
+    },
+    {
+      "time": 125.08,
+      "time_str": "02:05.080",
+      "text": "她说他只是迷失在远方",
+      "translation": null
+    },
+    {
+      "time": 131.1,
+      "time_str": "02:11.100",
+      "text": "他一定会来",
+      "translation": null
+    },
+    {
+      "time": 133.51,
+      "time_str": "02:13.510",
+      "text": "来这片白桦林",
+      "translation": null
+    },
+    {
+      "time": 137.24,
+      "time_str": "02:17.240",
+      "text": "天空依然阴霾依然有鸽子在飞翔",
+      "translation": null
+    },
+    {
+      "time": 143.24,
+      "time_str": "02:23.240",
+      "text": "谁来证明那些没有墓碑的爱情和生命",
+      "translation": null
+    },
+    {
+      "time": 149.29,
+      "time_str": "02:29.290",
+      "text": "雪依然在下那村庄依然安详",
+      "translation": null
+    },
+    {
+      "time": 155.31,
+      "time_str": "02:35.310",
+      "text": "年轻的人们消失在白桦林",
+      "translation": null
+    },
+    {
+      "time": 161.54,
+      "time_str": "02:41.540",
+      "text": "长长的路呀就要到尽头",
+      "translation": null
+    },
+    {
+      "time": 167.41,
+      "time_str": "02:47.410",
+      "text": "那姑娘已经是白发苍苍",
+      "translation": null
+    },
+    {
+      "time": 173.44,
+      "time_str": "02:53.440",
+      "text": "她时常听他在枕边呼唤",
+      "translation": null
+    },
+    {
+      "time": 179.5,
+      "time_str": "02:59.500",
+      "text": "来吧亲爱的来这片白桦林",
+      "translation": null
+    },
+    {
+      "time": 185.53,
+      "time_str": "03:05.530",
+      "text": "在死的时候他喃喃地说",
+      "translation": null
+    },
+    {
+      "time": 191.34,
+      "time_str": "03:11.340",
+      "text": "我来了等着我在那片白桦林",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "白桦林 - 朴树.lrc"
+}

@@ -1,0 +1,286 @@
+{
+  "title": "夜空中最亮的星",
+  "title_raw": "夜空中最亮的星",
+  "version": null,
+  "artist": "逃跑计划",
+  "group_key": "夜空中最亮的星|逃跑计划",
+  "writers": {
+    "lyricist": "毛川/李赤",
+    "composer": "毛川",
+    "arranger": "Giles Tully/李赤"
+  },
+  "lyrics": [
+    {
+      "time": 17.68,
+      "time_str": "00:17.680",
+      "text": "夜空中最亮的星 能否听清",
+      "translation": null
+    },
+    {
+      "time": 26.23,
+      "time_str": "00:26.230",
+      "text": "那仰望的人 心底的孤独和叹息",
+      "translation": null
+    },
+    {
+      "time": 35.65,
+      "time_str": "00:35.650",
+      "text": "夜空中最亮的星 能否记起",
+      "translation": null
+    },
+    {
+      "time": 44.21,
+      "time_str": "00:44.210",
+      "text": "曾与我同行 消失在风里的身影",
+      "translation": null
+    },
+    {
+      "time": 52.54,
+      "time_str": "00:52.540",
+      "text": "我祈祷拥有一颗透明的心灵",
+      "translation": null
+    },
+    {
+      "time": 57.64,
+      "time_str": "00:57.640",
+      "text": "和会流泪的眼睛",
+      "translation": null
+    },
+    {
+      "time": 61.88,
+      "time_str": "01:01.880",
+      "text": "给我再去相信的勇气",
+      "translation": null
+    },
+    {
+      "time": 66.4,
+      "time_str": "01:06.400",
+      "text": "越过谎言去拥抱你",
+      "translation": null
+    },
+    {
+      "time": 70.42,
+      "time_str": "01:10.420",
+      "text": "每当我找不到存在的意义",
+      "translation": null
+    },
+    {
+      "time": 75.3,
+      "time_str": "01:15.300",
+      "text": "每当我迷失在黑夜里",
+      "translation": null
+    },
+    {
+      "time": 80.16,
+      "time_str": "01:20.160",
+      "text": "夜空中最亮的星",
+      "translation": null
+    },
+    {
+      "time": 84.27,
+      "time_str": "01:24.270",
+      "text": "请指引我靠近你",
+      "translation": null
+    },
+    {
+      "time": 97.88,
+      "time_str": "01:37.880",
+      "text": "夜空中最亮的星 是否知道",
+      "translation": null
+    },
+    {
+      "time": 106.45,
+      "time_str": "01:46.450",
+      "text": "曾与我同行的身影 如今在哪里",
+      "translation": null
+    },
+    {
+      "time": 115.45,
+      "time_str": "01:55.450",
+      "text": "夜空中最亮的星 是否在意",
+      "translation": null
+    },
+    {
+      "time": 123.95,
+      "time_str": "02:03.950",
+      "text": "是等太阳升起 还是意外先来临",
+      "translation": null
+    },
+    {
+      "time": 132.37,
+      "time_str": "02:12.370",
+      "text": "我宁愿所有痛苦都留在心里",
+      "translation": null
+    },
+    {
+      "time": 137.69,
+      "time_str": "02:17.690",
+      "text": "也不愿忘记你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 142.27,
+      "time_str": "02:22.270",
+      "text": "给我再去相信的勇气",
+      "translation": null
+    },
+    {
+      "time": 146.4,
+      "time_str": "02:26.400",
+      "text": "越过谎言去拥抱你",
+      "translation": null
+    },
+    {
+      "time": 150.35,
+      "time_str": "02:30.350",
+      "text": "每当我找不到存在的意义",
+      "translation": null
+    },
+    {
+      "time": 155.27,
+      "time_str": "02:35.270",
+      "text": "每当我迷失在黑夜里",
+      "translation": null
+    },
+    {
+      "time": 160.72,
+      "time_str": "02:40.720",
+      "text": "夜空中最亮的星 请照亮我前行",
+      "translation": null
+    },
+    {
+      "time": 185.42,
+      "time_str": "03:05.420",
+      "text": "我祈祷拥有一颗透明的心灵",
+      "translation": null
+    },
+    {
+      "time": 190.87,
+      "time_str": "03:10.870",
+      "text": "和会流泪的眼睛",
+      "translation": null
+    },
+    {
+      "time": 195.93,
+      "time_str": "03:15.930",
+      "text": "给我再去相信的勇气",
+      "translation": null
+    },
+    {
+      "time": 199.66,
+      "time_str": "03:19.660",
+      "text": "越过谎言去拥抱你",
+      "translation": null
+    },
+    {
+      "time": 203.6,
+      "time_str": "03:23.600",
+      "text": "每当我找不到存在的意义",
+      "translation": null
+    },
+    {
+      "time": 208.76,
+      "time_str": "03:28.760",
+      "text": "每当我迷失在黑夜里",
+      "translation": null
+    },
+    {
+      "time": 213.54,
+      "time_str": "03:33.540",
+      "text": "夜空中最亮的星",
+      "translation": null
+    },
+    {
+      "time": 217.59,
+      "time_str": "03:37.590",
+      "text": "请照亮我前行",
+      "translation": null
+    },
+    {
+      "time": 230.89,
+      "time_str": "03:50.890",
+      "text": "夜空中最亮的星 能否听清",
+      "translation": null
+    },
+    {
+      "time": 239.81,
+      "time_str": "03:59.810",
+      "text": "那仰望的人 心底的孤独和叹息",
+      "translation": null
+    },
+    {
+      "time": 247.498,
+      "time_str": "04:07.498",
+      "text": "女声和声 : 孙亮亮",
+      "translation": null
+    },
+    {
+      "time": 247.761,
+      "time_str": "04:07.761",
+      "text": "弦乐制作 : 朱金泰",
+      "translation": null
+    },
+    {
+      "time": 248.024,
+      "time_str": "04:08.024",
+      "text": "弦乐编写 : 朱金泰/陈迪",
+      "translation": null
+    },
+    {
+      "time": 248.55,
+      "time_str": "04:08.550",
+      "text": "首席小提琴 : 董智敏",
+      "translation": null
+    },
+    {
+      "time": 249.076,
+      "time_str": "04:09.076",
+      "text": "弦乐录音 : 杨杰/郑昊杰",
+      "translation": null
+    },
+    {
+      "time": 249.339,
+      "time_str": "04:09.339",
+      "text": "制作助理 : 哈斯瑚必来",
+      "translation": null
+    },
+    {
+      "time": 249.602,
+      "time_str": "04:09.602",
+      "text": "母带 : Patrick Weyer-Brown (FR) 法国SAE Paris 录音棚",
+      "translation": null
+    },
+    {
+      "time": 249.865,
+      "time_str": "04:09.865",
+      "text": "Engineered by Hyperbolic Productions (Patrick Weyer-Brown & Giles Tully)",
+      "translation": null
+    },
+    {
+      "time": 250.391,
+      "time_str": "04:10.391",
+      "text": "Acoustic Guitar & Drum recorded by Hyperbolic Productions (Patrick Weyer-Brown) at YUM music",
+      "translation": null
+    },
+    {
+      "time": 250.917,
+      "time_str": "04:10.917",
+      "text": "Guitar Bass Vocal recorded by Hyperbolic Productions (Patrick Weyer-Brown & Giles Tully)",
+      "translation": null
+    },
+    {
+      "time": 251.443,
+      "time_str": "04:11.443",
+      "text": "其他录音：时俊峰 福达录音棚 / 姜北生 环球唱片录音棚 / 方岩 Funky Studio",
+      "translation": null
+    },
+    {
+      "time": 251.969,
+      "time_str": "04:11.969",
+      "text": "人声和声：逃跑计划",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "夜空中最亮的星 - 逃跑计划.lrc"
+}

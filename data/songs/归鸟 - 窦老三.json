@@ -1,0 +1,238 @@
+{
+  "title": "归鸟",
+  "title_raw": "归鸟",
+  "version": null,
+  "artist": "窦老三",
+  "group_key": "归鸟|窦老三",
+  "writers": {
+    "lyricist": "窦老三",
+    "composer": "赵照",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 41.58,
+      "time_str": "00:41.580",
+      "text": "走 一个人走",
+      "translation": null
+    },
+    {
+      "time": 45.59,
+      "time_str": "00:45.590",
+      "text": "走出孤独梦想自由",
+      "translation": null
+    },
+    {
+      "time": 50.93,
+      "time_str": "00:50.930",
+      "text": "飞 不停地飞",
+      "translation": null
+    },
+    {
+      "time": 55.12,
+      "time_str": "00:55.120",
+      "text": "想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 59.91,
+      "time_str": "00:59.910",
+      "text": "风儿轻轻吹过",
+      "translation": null
+    },
+    {
+      "time": 64.52,
+      "time_str": "01:04.520",
+      "text": "雨也不停洒落",
+      "translation": null
+    },
+    {
+      "time": 69.4,
+      "time_str": "01:09.400",
+      "text": "我积蓄心中力量",
+      "translation": null
+    },
+    {
+      "time": 74.08,
+      "time_str": "01:14.080",
+      "text": "想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 81.32,
+      "time_str": "01:21.320",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 85.72,
+      "time_str": "01:25.720",
+      "text": "寻找你旧时的模样",
+      "translation": null
+    },
+    {
+      "time": 90.87,
+      "time_str": "01:30.870",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 95.19,
+      "time_str": "01:35.190",
+      "text": "看一看思念已久的家",
+      "translation": null
+    },
+    {
+      "time": 100.4,
+      "time_str": "01:40.400",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 105.06,
+      "time_str": "01:45.060",
+      "text": "安抚我疲惫的翅膀",
+      "translation": null
+    },
+    {
+      "time": 109.61,
+      "time_str": "01:49.610",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 114.3,
+      "time_str": "01:54.300",
+      "text": "倾诉我心中忧伤",
+      "translation": null
+    },
+    {
+      "time": 143.77,
+      "time_str": "02:23.770",
+      "text": "走 我继续走",
+      "translation": null
+    },
+    {
+      "time": 147.85,
+      "time_str": "02:27.850",
+      "text": "迎着黎明向前走",
+      "translation": null
+    },
+    {
+      "time": 153.18,
+      "time_str": "02:33.180",
+      "text": "飞 不停地飞",
+      "translation": null
+    },
+    {
+      "time": 157.4,
+      "time_str": "02:37.400",
+      "text": "想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 162.11,
+      "time_str": "02:42.110",
+      "text": "家中柳絮飞扬",
+      "translation": null
+    },
+    {
+      "time": 166.47,
+      "time_str": "02:46.470",
+      "text": "蝉声依旧响亮",
+      "translation": null
+    },
+    {
+      "time": 171.6,
+      "time_str": "02:51.600",
+      "text": "我用尽全身力量",
+      "translation": null
+    },
+    {
+      "time": 176.33,
+      "time_str": "02:56.330",
+      "text": "想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 183.31,
+      "time_str": "03:03.310",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 188.2,
+      "time_str": "03:08.200",
+      "text": "寻找你旧时的模样",
+      "translation": null
+    },
+    {
+      "time": 192.81,
+      "time_str": "03:12.810",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 197.35,
+      "time_str": "03:17.350",
+      "text": "看一看思念已久的家",
+      "translation": null
+    },
+    {
+      "time": 202.59,
+      "time_str": "03:22.590",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 207.22,
+      "time_str": "03:27.220",
+      "text": "安抚我疲惫的翅膀",
+      "translation": null
+    },
+    {
+      "time": 211.57,
+      "time_str": "03:31.570",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 216.49,
+      "time_str": "03:36.490",
+      "text": "倾诉我心中忧伤",
+      "translation": null
+    },
+    {
+      "time": 243.1,
+      "time_str": "04:03.100",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 247.58,
+      "time_str": "04:07.580",
+      "text": "寻找你旧时的模样",
+      "translation": null
+    },
+    {
+      "time": 252.27,
+      "time_str": "04:12.270",
+      "text": "我想要飞回到你的身旁",
+      "translation": null
+    },
+    {
+      "time": 257.19,
+      "time_str": "04:17.190",
+      "text": "看一看思念已久的家",
+      "translation": null
+    },
+    {
+      "time": 262.01,
+      "time_str": "04:22.010",
+      "text": "看一看思念已久的 家",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "归鸟 - 窦老三.lrc"
+}

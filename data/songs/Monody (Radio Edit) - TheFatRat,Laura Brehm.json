@@ -1,0 +1,136 @@
+{
+  "title": "Monody",
+  "title_raw": "Monody (Radio Edit)",
+  "version": "Radio Edit",
+  "artist": "TheFatRat,Laura Brehm",
+  "group_key": "monody|thefatrat,laura brehm",
+  "writers": {
+    "lyricist": "John Dang/Rajan Singh Khanijaon/Christian F J Buettner",
+    "composer": "John Dang/Rajan Singh Khanijaon/Christian F J Buettner",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 6.2,
+      "time_str": "00:06.200",
+      "text": "Here we stand, open arms",
+      "translation": "敞开双臂怀抱这土地"
+    },
+    {
+      "time": 9.62,
+      "time_str": "00:09.620",
+      "text": "This is home where we are",
+      "translation": "看家园沧海桑田永恒不变"
+    },
+    {
+      "time": 13.2,
+      "time_str": "00:13.200",
+      "text": "Ever strong in the world that we made",
+      "translation": "浩荡世界中愈发坚强"
+    },
+    {
+      "time": 20.21,
+      "time_str": "00:20.210",
+      "text": "I still hear you in the breeze",
+      "translation": "微风中残存着你的气息"
+    },
+    {
+      "time": 23.76,
+      "time_str": "00:23.760",
+      "text": "See your shadows in the trees",
+      "translation": "树荫中模糊的你的身影"
+    },
+    {
+      "time": 27.3,
+      "time_str": "00:27.300",
+      "text": "Holding on, memories never change",
+      "translation": "坚守这一切，人事变迁，记忆永不磨灭"
+    },
+    {
+      "time": 150.88,
+      "time_str": "02:30.880",
+      "text": "Summer in the hills",
+      "translation": "山岗中度过的那个夏天"
+    },
+    {
+      "time": 153.85,
+      "time_str": "02:33.850",
+      "text": "Those hazy days I do remember",
+      "translation": "水汽朦胧的景致犹依稀可见"
+    },
+    {
+      "time": 157.71,
+      "time_str": "02:37.710",
+      "text": "We were running still",
+      "translation": "一路狂奔，我们从未停歇"
+    },
+    {
+      "time": 160.35,
+      "time_str": "02:40.350",
+      "text": "Had the whole world at our feet",
+      "translation": "走遍这大千世界"
+    },
+    {
+      "time": 164.16,
+      "time_str": "02:44.160",
+      "text": "Watching seasons change",
+      "translation": "坐观每一个寒来暑往"
+    },
+    {
+      "time": 167.14,
+      "time_str": "02:47.140",
+      "text": "Our roads were lined with adventure",
+      "translation": "用一条条小径写下拼搏的曾经"
+    },
+    {
+      "time": 170.93,
+      "time_str": "02:50.930",
+      "text": "Mountains in the way",
+      "translation": "一路崇山峻岭"
+    },
+    {
+      "time": 173.75,
+      "time_str": "02:53.750",
+      "text": "Couldn't keep us from the sea",
+      "translation": "无法阻拦我们对大海的期望"
+    },
+    {
+      "time": 176.66,
+      "time_str": "02:56.660",
+      "text": "Here we stand open arms",
+      "translation": "敞开双臂怀抱这土地"
+    },
+    {
+      "time": 180.21,
+      "time_str": "03:00.210",
+      "text": "This is home where we are",
+      "translation": "看家园沧海桑田永恒不变"
+    },
+    {
+      "time": 183.73,
+      "time_str": "03:03.730",
+      "text": "Ever strong in the world that we made",
+      "translation": "浩荡世界中愈发坚强"
+    },
+    {
+      "time": 190.78,
+      "time_str": "03:10.780",
+      "text": "I still hear you in the breeze",
+      "translation": "微风中残存着你的气息"
+    },
+    {
+      "time": 194.35,
+      "time_str": "03:14.350",
+      "text": "See your shadows in the trees",
+      "translation": "树荫中模糊的你的身影"
+    },
+    {
+      "time": 197.89,
+      "time_str": "03:17.890",
+      "text": "Holding on, memories never change",
+      "translation": "坚守这一切，人事变迁，记忆永不磨灭"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Monody (Radio Edit) - TheFatRat,Laura Brehm.lrc"
+}

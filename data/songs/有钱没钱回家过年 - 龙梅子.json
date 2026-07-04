@@ -1,0 +1,238 @@
+{
+  "title": "有钱没钱回家过年",
+  "title_raw": "有钱没钱回家过年",
+  "version": null,
+  "artist": "龙梅子",
+  "group_key": "有钱没钱回家过年|龙梅子",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": "谷粟"
+  },
+  "lyrics": [
+    {
+      "time": 18.93,
+      "time_str": "00:18.930",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 23.76,
+      "time_str": "00:23.760",
+      "text": "原来我想衣锦把乡还",
+      "translation": null
+    },
+    {
+      "time": 28.46,
+      "time_str": "00:28.460",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 33.78,
+      "time_str": "00:33.780",
+      "text": "家里总有年夜饭",
+      "translation": null
+    },
+    {
+      "time": 39.29,
+      "time_str": "00:39.290",
+      "text": "漂来荡去了又一年",
+      "translation": null
+    },
+    {
+      "time": 43.11,
+      "time_str": "00:43.110",
+      "text": "甜酸苦辣咸",
+      "translation": null
+    },
+    {
+      "time": 48.71,
+      "time_str": "00:48.710",
+      "text": "什么情况都碰过了",
+      "translation": null
+    },
+    {
+      "time": 53.64,
+      "time_str": "00:53.640",
+      "text": "心也有些变",
+      "translation": null
+    },
+    {
+      "time": 58.31,
+      "time_str": "00:58.310",
+      "text": "身份角色我来回更换",
+      "translation": null
+    },
+    {
+      "time": 63.06,
+      "time_str": "01:03.060",
+      "text": "不算情愿",
+      "translation": null
+    },
+    {
+      "time": 66.7,
+      "time_str": "01:06.700",
+      "text": "想要做的没人给我",
+      "translation": null
+    },
+    {
+      "time": 69.54,
+      "time_str": "01:09.540",
+      "text": "不想做的却总在手边",
+      "translation": null
+    },
+    {
+      "time": 77.03,
+      "time_str": "01:17.030",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 81.45,
+      "time_str": "01:21.450",
+      "text": "原来我想衣锦把乡还",
+      "translation": null
+    },
+    {
+      "time": 86.53,
+      "time_str": "01:26.530",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 91.24,
+      "time_str": "01:31.240",
+      "text": "家里总有年夜饭",
+      "translation": null
+    },
+    {
+      "time": 117.32,
+      "time_str": "01:57.320",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 122.17,
+      "time_str": "02:02.170",
+      "text": "本来我想衣锦把乡还",
+      "translation": null
+    },
+    {
+      "time": 127.48,
+      "time_str": "02:07.480",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 132.13,
+      "time_str": "02:12.130",
+      "text": "家里总有年夜饭",
+      "translation": null
+    },
+    {
+      "time": 137.53,
+      "time_str": "02:17.530",
+      "text": "出来谁还肯再回去",
+      "translation": null
+    },
+    {
+      "time": 142.18,
+      "time_str": "02:22.180",
+      "text": "外面真惹眼",
+      "translation": null
+    },
+    {
+      "time": 147.14,
+      "time_str": "02:27.140",
+      "text": "谁都有权利梦一回",
+      "translation": null
+    },
+    {
+      "time": 151.83,
+      "time_str": "02:31.830",
+      "text": "你不必再劝",
+      "translation": null
+    },
+    {
+      "time": 157.0,
+      "time_str": "02:37.000",
+      "text": "磕磕绊绊是小菜一碟",
+      "translation": null
+    },
+    {
+      "time": 161.53,
+      "time_str": "02:41.530",
+      "text": "明白深浅",
+      "translation": null
+    },
+    {
+      "time": 165.43,
+      "time_str": "02:45.430",
+      "text": "只是可惜丢了初恋",
+      "translation": null
+    },
+    {
+      "time": 167.63,
+      "time_str": "02:47.630",
+      "text": "后来再纠缠的情挺玄",
+      "translation": null
+    },
+    {
+      "time": 180.33,
+      "time_str": "03:00.330",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 184.62,
+      "time_str": "03:04.620",
+      "text": "本来我想衣锦把乡还",
+      "translation": null
+    },
+    {
+      "time": 189.59,
+      "time_str": "03:09.590",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 194.53,
+      "time_str": "03:14.530",
+      "text": "家里总有年夜饭",
+      "translation": null
+    },
+    {
+      "time": 199.61,
+      "time_str": "03:19.610",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 203.73,
+      "time_str": "03:23.730",
+      "text": "亲人从来不会嫌我烦",
+      "translation": null
+    },
+    {
+      "time": 208.36,
+      "time_str": "03:28.360",
+      "text": "有钱没钱 回家过年",
+      "translation": null
+    },
+    {
+      "time": 214.32,
+      "time_str": "03:34.320",
+      "text": "年后再折腾一番",
+      "translation": null
+    },
+    {
+      "time": 219.57,
+      "time_str": "03:39.570",
+      "text": "回家过年",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "有钱没钱回家过年 - 龙梅子.lrc"
+}

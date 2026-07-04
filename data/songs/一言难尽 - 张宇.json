@@ -1,0 +1,298 @@
+{
+  "title": "一言难尽",
+  "title_raw": "一言难尽",
+  "version": null,
+  "artist": "张宇",
+  "group_key": "一言难尽|张宇",
+  "writers": {
+    "lyricist": "十一郎",
+    "composer": "张宇",
+    "arranger": "涂惠源"
+  },
+  "lyrics": [
+    {
+      "time": 16.618,
+      "time_str": "00:16.618",
+      "text": "你给我一场戏",
+      "translation": null
+    },
+    {
+      "time": 20.243,
+      "time_str": "00:20.243",
+      "text": "你看着我入迷",
+      "translation": null
+    },
+    {
+      "time": 23.886,
+      "time_str": "00:23.886",
+      "text": "被你从心里剥落的感情",
+      "translation": null
+    },
+    {
+      "time": 27.49,
+      "time_str": "00:27.490",
+      "text": "痛得不知怎么舍去",
+      "translation": null
+    },
+    {
+      "time": 31.36,
+      "time_str": "00:31.360",
+      "text": "不要这场记忆",
+      "translation": null
+    },
+    {
+      "time": 34.8,
+      "time_str": "00:34.800",
+      "text": "不要问我结局",
+      "translation": null
+    },
+    {
+      "time": 38.402,
+      "time_str": "00:38.402",
+      "text": "心底的酸楚和脸上的笑容",
+      "translation": null
+    },
+    {
+      "time": 42.05,
+      "time_str": "00:42.050",
+      "text": "早就合而为一",
+      "translation": null
+    },
+    {
+      "time": 46.114,
+      "time_str": "00:46.114",
+      "text": "迟迟不能相信这感觉",
+      "translation": null
+    },
+    {
+      "time": 49.092,
+      "time_str": "00:49.092",
+      "text": "像自己和自己分离",
+      "translation": null
+    },
+    {
+      "time": 52.239,
+      "time_str": "00:52.239",
+      "text": "而信誓旦旦的爱情 在哪里",
+      "translation": null
+    },
+    {
+      "time": 59.258,
+      "time_str": "00:59.258",
+      "text": "我一言难尽 忍不住伤心",
+      "translation": null
+    },
+    {
+      "time": 62.951,
+      "time_str": "01:02.951",
+      "text": "衡量不出爱或不爱之间的距离",
+      "translation": null
+    },
+    {
+      "time": 66.591,
+      "time_str": "01:06.591",
+      "text": "你说你的心 不再温热如昔",
+      "translation": null
+    },
+    {
+      "time": 70.228,
+      "time_str": "01:10.228",
+      "text": "从哪里开始 从哪里失去",
+      "translation": null
+    },
+    {
+      "time": 73.848,
+      "time_str": "01:13.848",
+      "text": "我一言难尽 忍不住伤心",
+      "translation": null
+    },
+    {
+      "time": 77.506,
+      "time_str": "01:17.506",
+      "text": "衡量不出爱或不爱之间的距离",
+      "translation": null
+    },
+    {
+      "time": 81.159,
+      "time_str": "01:21.159",
+      "text": "隐隐约约中 明白你的决定",
+      "translation": null
+    },
+    {
+      "time": 84.843,
+      "time_str": "01:24.843",
+      "text": "不敢勉强你 只好为难自己",
+      "translation": null
+    },
+    {
+      "time": 89.949,
+      "time_str": "01:29.949",
+      "text": "我为难我自己",
+      "translation": null
+    },
+    {
+      "time": 122.03,
+      "time_str": "02:02.030",
+      "text": "不要这场记忆",
+      "translation": null
+    },
+    {
+      "time": 125.874,
+      "time_str": "02:05.874",
+      "text": "不要问我结局",
+      "translation": null
+    },
+    {
+      "time": 129.302,
+      "time_str": "02:09.302",
+      "text": "心底的酸楚和脸上的笑容",
+      "translation": null
+    },
+    {
+      "time": 132.95,
+      "time_str": "02:12.950",
+      "text": "早就合而为一",
+      "translation": null
+    },
+    {
+      "time": 136.955,
+      "time_str": "02:16.955",
+      "text": "迟迟不能相信这感觉",
+      "translation": null
+    },
+    {
+      "time": 140.029,
+      "time_str": "02:20.029",
+      "text": "像自己和自己分离",
+      "translation": null
+    },
+    {
+      "time": 143.149,
+      "time_str": "02:23.149",
+      "text": "而信誓旦旦的爱情 在哪里",
+      "translation": null
+    },
+    {
+      "time": 150.199,
+      "time_str": "02:30.199",
+      "text": "我一言难尽 忍不住伤心",
+      "translation": null
+    },
+    {
+      "time": 153.832,
+      "time_str": "02:33.832",
+      "text": "衡量不出爱或不爱之间的距离",
+      "translation": null
+    },
+    {
+      "time": 157.46,
+      "time_str": "02:37.460",
+      "text": "你说你的心 不再温热如昔",
+      "translation": null
+    },
+    {
+      "time": 161.093,
+      "time_str": "02:41.093",
+      "text": "从哪里开始 从哪里失去",
+      "translation": null
+    },
+    {
+      "time": 164.701,
+      "time_str": "02:44.701",
+      "text": "我一言难尽 忍不住伤心",
+      "translation": null
+    },
+    {
+      "time": 168.381,
+      "time_str": "02:48.381",
+      "text": "衡量不出爱或不爱之间的距离",
+      "translation": null
+    },
+    {
+      "time": 172.021,
+      "time_str": "02:52.021",
+      "text": "隐隐约约中 明白你的决定",
+      "translation": null
+    },
+    {
+      "time": 175.659,
+      "time_str": "02:55.659",
+      "text": "不敢勉强你 只好为难自己",
+      "translation": null
+    },
+    {
+      "time": 180.863,
+      "time_str": "03:00.863",
+      "text": "我为难我自己",
+      "translation": null
+    },
+    {
+      "time": 191.986,
+      "time_str": "03:11.986",
+      "text": "我一言难尽 忍不住伤心",
+      "translation": null
+    },
+    {
+      "time": 195.65,
+      "time_str": "03:15.650",
+      "text": "衡量不出爱或不爱之间的距离",
+      "translation": null
+    },
+    {
+      "time": 199.297,
+      "time_str": "03:19.297",
+      "text": "你说你的心 不再温热如昔",
+      "translation": null
+    },
+    {
+      "time": 202.915,
+      "time_str": "03:22.915",
+      "text": "从哪里开始 从哪里失去",
+      "translation": null
+    },
+    {
+      "time": 206.554,
+      "time_str": "03:26.554",
+      "text": "我一言难尽 忍不住伤心",
+      "translation": null
+    },
+    {
+      "time": 210.209,
+      "time_str": "03:30.209",
+      "text": "衡量不出爱或不爱之间的距离",
+      "translation": null
+    },
+    {
+      "time": 213.824,
+      "time_str": "03:33.824",
+      "text": "隐隐约约中 明白你的决定",
+      "translation": null
+    },
+    {
+      "time": 217.479,
+      "time_str": "03:37.479",
+      "text": "不敢勉强你 只好为难自己",
+      "translation": null
+    },
+    {
+      "time": 222.691,
+      "time_str": "03:42.691",
+      "text": "我为难我自己 啊…",
+      "translation": null
+    },
+    {
+      "time": 229.967,
+      "time_str": "03:49.967",
+      "text": "我为难我自己",
+      "translation": null
+    },
+    {
+      "time": 241.0,
+      "time_str": "04:01.000",
+      "text": "SP : EMI Music Publishing (S. E. Asia) Ltd.",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一言难尽 - 张宇.lrc"
+}

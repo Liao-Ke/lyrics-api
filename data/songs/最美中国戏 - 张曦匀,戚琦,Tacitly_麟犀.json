@@ -1,0 +1,478 @@
+{
+  "title": "最美中国戏",
+  "title_raw": "最美中国戏",
+  "version": null,
+  "artist": "张曦匀,戚琦,Tacitly_麟犀",
+  "group_key": "最美中国戏|张曦匀,戚琦,tacitly_麟犀",
+  "writers": {
+    "lyricist": "ZoneJay",
+    "composer": "房雪娇",
+    "arranger": "甘虎"
+  },
+  "lyrics": [
+    {
+      "time": 13.66,
+      "time_str": "00:13.660",
+      "text": "戚琦：",
+      "translation": null
+    },
+    {
+      "time": 13.66,
+      "time_str": "00:13.660",
+      "text": "中华戏曲万年传",
+      "translation": null
+    },
+    {
+      "time": 24.1,
+      "time_str": "00:24.100",
+      "text": "张晓涵：",
+      "translation": null
+    },
+    {
+      "time": 24.1,
+      "time_str": "00:24.100",
+      "text": "贵妃醉酒 意深切",
+      "translation": null
+    },
+    {
+      "time": 26.84,
+      "time_str": "00:26.840",
+      "text": "霸王别姬 英魂烈",
+      "translation": null
+    },
+    {
+      "time": 29.54,
+      "time_str": "00:29.540",
+      "text": "儿女情长 唏嘘离别",
+      "translation": null
+    },
+    {
+      "time": 31.76,
+      "time_str": "00:31.760",
+      "text": "琴曲声声 余音绕梁 梦如蝶",
+      "translation": null
+    },
+    {
+      "time": 34.85,
+      "time_str": "00:34.850",
+      "text": "麒麟：",
+      "translation": null
+    },
+    {
+      "time": 34.85,
+      "time_str": "00:34.850",
+      "text": "街亭失守 空城捷",
+      "translation": null
+    },
+    {
+      "time": 37.54,
+      "time_str": "00:37.540",
+      "text": "桂英挂帅 千古绝",
+      "translation": null
+    },
+    {
+      "time": 40.21,
+      "time_str": "00:40.210",
+      "text": "戏如人生 虚实重叠",
+      "translation": null
+    },
+    {
+      "time": 42.4,
+      "time_str": "00:42.400",
+      "text": "家国天下 代代传唱 千秋业",
+      "translation": null
+    },
+    {
+      "time": 45.56,
+      "time_str": "00:45.560",
+      "text": "张晓涵：",
+      "translation": null
+    },
+    {
+      "time": 45.56,
+      "time_str": "00:45.560",
+      "text": "戏曲中华因梦起",
+      "translation": null
+    },
+    {
+      "time": 48.19,
+      "time_str": "00:48.190",
+      "text": "一梦妆成一出戏",
+      "translation": null
+    },
+    {
+      "time": 50.79,
+      "time_str": "00:50.790",
+      "text": "仁信智勇不相离",
+      "translation": null
+    },
+    {
+      "time": 52.85,
+      "time_str": "00:52.850",
+      "text": "古戏台上唱忠孝仁义",
+      "translation": null
+    },
+    {
+      "time": 61.13,
+      "time_str": "01:01.130",
+      "text": "戚琦：",
+      "translation": null
+    },
+    {
+      "time": 61.13,
+      "time_str": "01:01.130",
+      "text": "红鬃烈马十三场",
+      "translation": null
+    },
+    {
+      "time": 63.83,
+      "time_str": "01:03.830",
+      "text": "梅花庵下雨疏窗",
+      "translation": null
+    },
+    {
+      "time": 66.44,
+      "time_str": "01:06.440",
+      "text": "千秋万世写风霜",
+      "translation": null
+    },
+    {
+      "time": 68.77,
+      "time_str": "01:08.770",
+      "text": "琴曲和鸣诉情长",
+      "translation": null
+    },
+    {
+      "time": 71.86,
+      "time_str": "01:11.860",
+      "text": "麒麟：",
+      "translation": null
+    },
+    {
+      "time": 71.86,
+      "time_str": "01:11.860",
+      "text": "替父从军木兰芳",
+      "translation": null
+    },
+    {
+      "time": 74.52,
+      "time_str": "01:14.520",
+      "text": "戏说赤壁与周郎",
+      "translation": null
+    },
+    {
+      "time": 77.08,
+      "time_str": "01:17.080",
+      "text": "词山曲海作绝唱",
+      "translation": null
+    },
+    {
+      "time": 79.26,
+      "time_str": "01:19.260",
+      "text": "锣鼓声声震天响",
+      "translation": null
+    },
+    {
+      "time": 93.51,
+      "time_str": "01:33.510",
+      "text": "张晓涵：",
+      "translation": null
+    },
+    {
+      "time": 93.51,
+      "time_str": "01:33.510",
+      "text": "贵妃醉酒 意深切",
+      "translation": null
+    },
+    {
+      "time": 96.14,
+      "time_str": "01:36.140",
+      "text": "霸王别姬 英魂烈",
+      "translation": null
+    },
+    {
+      "time": 98.85,
+      "time_str": "01:38.850",
+      "text": "儿女情长 唏嘘离别",
+      "translation": null
+    },
+    {
+      "time": 101.18,
+      "time_str": "01:41.180",
+      "text": "琴曲声声 余音绕梁 梦如蝶",
+      "translation": null
+    },
+    {
+      "time": 104.19,
+      "time_str": "01:44.190",
+      "text": "麒麟：",
+      "translation": null
+    },
+    {
+      "time": 104.19,
+      "time_str": "01:44.190",
+      "text": "戏曲中华因梦起",
+      "translation": null
+    },
+    {
+      "time": 106.92,
+      "time_str": "01:46.920",
+      "text": "一梦妆成一出戏",
+      "translation": null
+    },
+    {
+      "time": 109.56,
+      "time_str": "01:49.560",
+      "text": "仁信智勇不相离",
+      "translation": null
+    },
+    {
+      "time": 111.59,
+      "time_str": "01:51.590",
+      "text": "古戏台上唱忠孝仁义",
+      "translation": null
+    },
+    {
+      "time": 117.1,
+      "time_str": "01:57.100",
+      "text": "戚琦：",
+      "translation": null
+    },
+    {
+      "time": 117.1,
+      "time_str": "01:57.100",
+      "text": "红鬃烈马十三场",
+      "translation": null
+    },
+    {
+      "time": 119.79,
+      "time_str": "01:59.790",
+      "text": "梅花庵下雨疏窗",
+      "translation": null
+    },
+    {
+      "time": 122.46,
+      "time_str": "02:02.460",
+      "text": "千秋万世写风霜",
+      "translation": null
+    },
+    {
+      "time": 124.88,
+      "time_str": "02:04.880",
+      "text": "琴曲和鸣诉情长",
+      "translation": null
+    },
+    {
+      "time": 127.73,
+      "time_str": "02:07.730",
+      "text": "麒麟：",
+      "translation": null
+    },
+    {
+      "time": 127.73,
+      "time_str": "02:07.730",
+      "text": "替父从军木兰芳",
+      "translation": null
+    },
+    {
+      "time": 130.52,
+      "time_str": "02:10.520",
+      "text": "戏说赤壁与周郎",
+      "translation": null
+    },
+    {
+      "time": 133.15,
+      "time_str": "02:13.150",
+      "text": "词山曲海作绝唱",
+      "translation": null
+    },
+    {
+      "time": 135.57,
+      "time_str": "02:15.570",
+      "text": "锣鼓声声震天响",
+      "translation": null
+    },
+    {
+      "time": 137.9,
+      "time_str": "02:17.900",
+      "text": "张晓涵:",
+      "translation": null
+    },
+    {
+      "time": 137.9,
+      "time_str": "02:17.900",
+      "text": "京剧 不附庸风雅",
+      "translation": null
+    },
+    {
+      "time": 139.4,
+      "time_str": "02:19.400",
+      "text": "豫剧 扬传统文化",
+      "translation": null
+    },
+    {
+      "time": 140.74,
+      "time_str": "02:20.740",
+      "text": "牡丹亭下 水月镜花",
+      "translation": null
+    },
+    {
+      "time": 142.04,
+      "time_str": "02:22.040",
+      "text": "昆曲悲与喜交加",
+      "translation": null
+    },
+    {
+      "time": 143.45,
+      "time_str": "02:23.450",
+      "text": "麒麟：",
+      "translation": null
+    },
+    {
+      "time": 143.45,
+      "time_str": "02:23.450",
+      "text": "评剧入耳即化",
+      "translation": null
+    },
+    {
+      "time": 144.73,
+      "time_str": "02:24.730",
+      "text": "越剧如诗如画",
+      "translation": null
+    },
+    {
+      "time": 146.08,
+      "time_str": "02:26.080",
+      "text": "折戟沉沙 流水落花",
+      "translation": null
+    },
+    {
+      "time": 147.64,
+      "time_str": "02:27.640",
+      "text": "演绎无数佳话",
+      "translation": null
+    },
+    {
+      "time": 148.8,
+      "time_str": "02:28.800",
+      "text": "张晓涵:",
+      "translation": null
+    },
+    {
+      "time": 148.8,
+      "time_str": "02:28.800",
+      "text": "戏曲中华数千载",
+      "translation": null
+    },
+    {
+      "time": 152.16,
+      "time_str": "02:32.160",
+      "text": "代代传承演风采",
+      "translation": null
+    },
+    {
+      "time": 154.96,
+      "time_str": "02:34.960",
+      "text": "经久不衰 早扬名海外",
+      "translation": null
+    },
+    {
+      "time": 156.82,
+      "time_str": "02:36.820",
+      "text": "这是我们溶于血液的风采",
+      "translation": null
+    },
+    {
+      "time": 159.8,
+      "time_str": "02:39.800",
+      "text": "戚琦：",
+      "translation": null
+    },
+    {
+      "time": 159.8,
+      "time_str": "02:39.800",
+      "text": "红鬃烈马十三场",
+      "translation": null
+    },
+    {
+      "time": 162.48,
+      "time_str": "02:42.480",
+      "text": "梅花庵下雨疏窗",
+      "translation": null
+    },
+    {
+      "time": 165.09,
+      "time_str": "02:45.090",
+      "text": "千秋万世写风霜",
+      "translation": null
+    },
+    {
+      "time": 167.36,
+      "time_str": "02:47.360",
+      "text": "琴曲和鸣诉情长",
+      "translation": null
+    },
+    {
+      "time": 170.43,
+      "time_str": "02:50.430",
+      "text": "麒麟：",
+      "translation": null
+    },
+    {
+      "time": 170.43,
+      "time_str": "02:50.430",
+      "text": "替父从军木兰芳",
+      "translation": null
+    },
+    {
+      "time": 173.11,
+      "time_str": "02:53.110",
+      "text": "戏说赤壁与周郎",
+      "translation": null
+    },
+    {
+      "time": 175.77,
+      "time_str": "02:55.770",
+      "text": "词山曲海作绝唱",
+      "translation": null
+    },
+    {
+      "time": 178.17,
+      "time_str": "02:58.170",
+      "text": "锣鼓声声震天响",
+      "translation": null
+    },
+    {
+      "time": 183.02,
+      "time_str": "03:03.020",
+      "text": "人声录音工程师 : 顾雄/徐涛",
+      "translation": null
+    },
+    {
+      "time": 183.32,
+      "time_str": "03:03.320",
+      "text": "人声录音室 : 华音·鼎天录音棚/福祥文化录音棚",
+      "translation": null
+    },
+    {
+      "time": 183.62,
+      "time_str": "03:03.620",
+      "text": "混音工程师 : 顾雄",
+      "translation": null
+    },
+    {
+      "time": 183.92,
+      "time_str": "03:03.920",
+      "text": "母带工程师 : 顾雄",
+      "translation": null
+    },
+    {
+      "time": 184.22,
+      "time_str": "03:04.220",
+      "text": "统筹 : 杨倩",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "最美中国戏 - 张曦匀,戚琦,Tacitly_麟犀.lrc"
+}

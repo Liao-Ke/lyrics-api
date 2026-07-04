@@ -1,0 +1,334 @@
+{
+  "title": "燃烧",
+  "title_raw": "燃烧",
+  "version": null,
+  "artist": "孙楠",
+  "group_key": "燃烧|孙楠",
+  "writers": {
+    "lyricist": "易家扬",
+    "composer": "Bao Xiao-Song",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 34.89,
+      "time_str": "00:34.890",
+      "text": "你 躲在我心里",
+      "translation": null
+    },
+    {
+      "time": 41.45,
+      "time_str": "00:41.450",
+      "text": "让我有心跳",
+      "translation": null
+    },
+    {
+      "time": 45.45,
+      "time_str": "00:45.450",
+      "text": "忘了你我就活不了",
+      "translation": null
+    },
+    {
+      "time": 49.85,
+      "time_str": "00:49.850",
+      "text": "时间的刀",
+      "translation": null
+    },
+    {
+      "time": 53.4,
+      "time_str": "00:53.400",
+      "text": "在它把记忆切断那一秒",
+      "translation": null
+    },
+    {
+      "time": 58.32,
+      "time_str": "00:58.320",
+      "text": "却没有带走",
+      "translation": null
+    },
+    {
+      "time": 61.16,
+      "time_str": "01:01.160",
+      "text": "爱附赠的烦恼",
+      "translation": null
+    },
+    {
+      "time": 66.52,
+      "time_str": "01:06.520",
+      "text": "爱 已经不太重要",
+      "translation": null
+    },
+    {
+      "time": 72.82,
+      "time_str": "01:12.820",
+      "text": "重要的只是",
+      "translation": null
+    },
+    {
+      "time": 76.9,
+      "time_str": "01:16.900",
+      "text": "我忘了把你忘掉",
+      "translation": null
+    },
+    {
+      "time": 81.27,
+      "time_str": "01:21.270",
+      "text": "时间很糟",
+      "translation": null
+    },
+    {
+      "time": 84.62,
+      "time_str": "01:24.620",
+      "text": "就算那吻过的人已老",
+      "translation": null
+    },
+    {
+      "time": 89.58,
+      "time_str": "01:29.580",
+      "text": "心在隐隐作痛",
+      "translation": null
+    },
+    {
+      "time": 92.58,
+      "time_str": "01:32.580",
+      "text": "哪管你要或不要",
+      "translation": null
+    },
+    {
+      "time": 97.239,
+      "time_str": "01:37.239",
+      "text": "燃烧",
+      "translation": null
+    },
+    {
+      "time": 99.99,
+      "time_str": "01:39.990",
+      "text": "想象不到痛还在燃烧",
+      "translation": null
+    },
+    {
+      "time": 104.489,
+      "time_str": "01:44.489",
+      "text": "以为火早已扑灭了",
+      "translation": null
+    },
+    {
+      "time": 108.28,
+      "time_str": "01:48.280",
+      "text": "怎么一见你",
+      "translation": null
+    },
+    {
+      "time": 110.19,
+      "time_str": "01:50.190",
+      "text": "心又被后悔灼伤了",
+      "translation": null
+    },
+    {
+      "time": 113.8,
+      "time_str": "01:53.800",
+      "text": "燃烧",
+      "translation": null
+    },
+    {
+      "time": 115.85,
+      "time_str": "01:55.850",
+      "text": "泪是爱情的火药",
+      "translation": null
+    },
+    {
+      "time": 121.25,
+      "time_str": "02:01.250",
+      "text": "请不要 这样看我",
+      "translation": null
+    },
+    {
+      "time": 125.61,
+      "time_str": "02:05.610",
+      "text": "我知道我已逃不掉",
+      "translation": null
+    },
+    {
+      "time": 141.35,
+      "time_str": "02:21.350",
+      "text": "爱 已经不太重要",
+      "translation": null
+    },
+    {
+      "time": 147.6,
+      "time_str": "02:27.600",
+      "text": "重要的只是",
+      "translation": null
+    },
+    {
+      "time": 151.7,
+      "time_str": "02:31.700",
+      "text": "我忘了把你忘掉",
+      "translation": null
+    },
+    {
+      "time": 155.959,
+      "time_str": "02:35.959",
+      "text": "时间很糟",
+      "translation": null
+    },
+    {
+      "time": 159.209,
+      "time_str": "02:39.209",
+      "text": "就算那吻过的人已老",
+      "translation": null
+    },
+    {
+      "time": 164.31,
+      "time_str": "02:44.310",
+      "text": "心在隐隐作痛",
+      "translation": null
+    },
+    {
+      "time": 167.359,
+      "time_str": "02:47.359",
+      "text": "哪管你要或不要",
+      "translation": null
+    },
+    {
+      "time": 172.16,
+      "time_str": "02:52.160",
+      "text": "燃烧",
+      "translation": null
+    },
+    {
+      "time": 174.51,
+      "time_str": "02:54.510",
+      "text": "想象不到痛还在燃烧",
+      "translation": null
+    },
+    {
+      "time": 179.109,
+      "time_str": "02:59.109",
+      "text": "以为火早已扑灭了",
+      "translation": null
+    },
+    {
+      "time": 183.7,
+      "time_str": "03:03.700",
+      "text": "怎么一见你",
+      "translation": null
+    },
+    {
+      "time": 185.7,
+      "time_str": "03:05.700",
+      "text": "心又被后悔灼伤了",
+      "translation": null
+    },
+    {
+      "time": 188.22,
+      "time_str": "03:08.220",
+      "text": "燃烧",
+      "translation": null
+    },
+    {
+      "time": 190.32,
+      "time_str": "03:10.320",
+      "text": "泪是爱情的火药",
+      "translation": null
+    },
+    {
+      "time": 196.289,
+      "time_str": "03:16.289",
+      "text": "请不要 这样看我",
+      "translation": null
+    },
+    {
+      "time": 200.29,
+      "time_str": "03:20.290",
+      "text": "我知道我已逃不掉",
+      "translation": null
+    },
+    {
+      "time": 206.999,
+      "time_str": "03:26.999",
+      "text": "一直想找一个人",
+      "translation": null
+    },
+    {
+      "time": 209.49,
+      "time_str": "03:29.490",
+      "text": "在我的心里划一刀",
+      "translation": null
+    },
+    {
+      "time": 214.5,
+      "time_str": "03:34.500",
+      "text": "还要等到哪一天",
+      "translation": null
+    },
+    {
+      "time": 216.95,
+      "time_str": "03:36.950",
+      "text": "才能埋葬烙在心中的记号",
+      "translation": null
+    },
+    {
+      "time": 241.49,
+      "time_str": "04:01.490",
+      "text": "燃烧",
+      "translation": null
+    },
+    {
+      "time": 243.6,
+      "time_str": "04:03.600",
+      "text": "想象不到痛还在燃烧",
+      "translation": null
+    },
+    {
+      "time": 248.16,
+      "time_str": "04:08.160",
+      "text": "以为火早已扑灭了",
+      "translation": null
+    },
+    {
+      "time": 252.6,
+      "time_str": "04:12.600",
+      "text": "怎么一见你",
+      "translation": null
+    },
+    {
+      "time": 254.1,
+      "time_str": "04:14.100",
+      "text": "心又被后悔灼伤了",
+      "translation": null
+    },
+    {
+      "time": 257.11,
+      "time_str": "04:17.110",
+      "text": "燃烧",
+      "translation": null
+    },
+    {
+      "time": 259.409,
+      "time_str": "04:19.409",
+      "text": "泪是爱情的火药",
+      "translation": null
+    },
+    {
+      "time": 265.12,
+      "time_str": "04:25.120",
+      "text": "请不要 这样看我",
+      "translation": null
+    },
+    {
+      "time": 269.62,
+      "time_str": "04:29.620",
+      "text": "我知道我已逃不掉",
+      "translation": null
+    },
+    {
+      "time": 276.82,
+      "time_str": "04:36.820",
+      "text": "我已逃不掉",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "燃烧 - 孙楠.lrc"
+}

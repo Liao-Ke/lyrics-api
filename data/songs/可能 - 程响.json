@@ -1,0 +1,238 @@
+{
+  "title": "可能",
+  "title_raw": "可能",
+  "version": null,
+  "artist": "程响",
+  "group_key": "可能|程响",
+  "writers": {
+    "lyricist": "宁缺",
+    "composer": "宁缺",
+    "arranger": "曲比阿且"
+  },
+  "lyrics": [
+    {
+      "time": 3.0,
+      "time_str": "00:03.000",
+      "text": "出品人 : 潘鸿业/陆瑒",
+      "translation": null
+    },
+    {
+      "time": 26.7,
+      "time_str": "00:26.700",
+      "text": "可能南方的阳光  照着北方的风",
+      "translation": null
+    },
+    {
+      "time": 31.47,
+      "time_str": "00:31.470",
+      "text": "可能时光被吹走  从此无影无踪",
+      "translation": null
+    },
+    {
+      "time": 36.55,
+      "time_str": "00:36.550",
+      "text": "可能故事只剩下  一个难忘的人",
+      "translation": null
+    },
+    {
+      "time": 41.5,
+      "time_str": "00:41.500",
+      "text": "可能在昨夜梦里  依然笑得纯真",
+      "translation": null
+    },
+    {
+      "time": 48.91,
+      "time_str": "00:48.910",
+      "text": "可能北京的后海  许多漂泊的魂",
+      "translation": null
+    },
+    {
+      "time": 53.61,
+      "time_str": "00:53.610",
+      "text": "可能成都小酒馆  有群孤独的人",
+      "translation": null
+    },
+    {
+      "time": 58.71,
+      "time_str": "00:58.710",
+      "text": "可能枕边有微笑  才能暖你清晨",
+      "translation": null
+    },
+    {
+      "time": 63.41,
+      "time_str": "01:03.410",
+      "text": "可能夜空有流星  才能照你前行",
+      "translation": null
+    },
+    {
+      "time": 70.93,
+      "time_str": "01:10.930",
+      "text": "可能西安城墙上  有人誓言不分",
+      "translation": null
+    },
+    {
+      "time": 75.6,
+      "time_str": "01:15.600",
+      "text": "可能要去到大理  才算爱得认真",
+      "translation": null
+    },
+    {
+      "time": 80.57,
+      "time_str": "01:20.570",
+      "text": "可能谁说要陪你  牵手走完一生",
+      "translation": null
+    },
+    {
+      "time": 85.38,
+      "time_str": "01:25.380",
+      "text": "可能笑着流出泪  某天在某时辰",
+      "translation": null
+    },
+    {
+      "time": 114.9,
+      "time_str": "01:54.900",
+      "text": "可能桂林有渔船  为你迷茫点灯",
+      "translation": null
+    },
+    {
+      "time": 119.85,
+      "time_str": "01:59.850",
+      "text": "可能在呼伦草原  牛羊流成风景",
+      "translation": null
+    },
+    {
+      "time": 124.88,
+      "time_str": "02:04.880",
+      "text": "可能再也找不到  愿意相信的人",
+      "translation": null
+    },
+    {
+      "time": 129.63,
+      "time_str": "02:09.630",
+      "text": "可能穿越了彷徨  脚步才能坚定",
+      "translation": null
+    },
+    {
+      "time": 136.94,
+      "time_str": "02:16.940",
+      "text": "可能武当山道上  有人虔诚攀登",
+      "translation": null
+    },
+    {
+      "time": 141.87,
+      "time_str": "02:21.870",
+      "text": "可能周庄小巷里  忽然忘掉年轮",
+      "translation": null
+    },
+    {
+      "time": 146.9,
+      "time_str": "02:26.900",
+      "text": "可能要多年以后  才能看清曾经",
+      "translation": null
+    },
+    {
+      "time": 151.73,
+      "time_str": "02:31.730",
+      "text": "可能在当时身边  有双温柔眼晴",
+      "translation": null
+    },
+    {
+      "time": 158.88,
+      "time_str": "02:38.880",
+      "text": "可能西安城墙上  有人誓言不分",
+      "translation": null
+    },
+    {
+      "time": 163.75,
+      "time_str": "02:43.750",
+      "text": "可能要去到大理  才算爱得认真",
+      "translation": null
+    },
+    {
+      "time": 168.73,
+      "time_str": "02:48.730",
+      "text": "可能谁说要陪你  牵手走完一生",
+      "translation": null
+    },
+    {
+      "time": 173.6,
+      "time_str": "02:53.600",
+      "text": "可能笑着流出泪",
+      "translation": null
+    },
+    {
+      "time": 178.81,
+      "time_str": "02:58.810",
+      "text": "可能终于有一天  刚好遇见爱情",
+      "translation": null
+    },
+    {
+      "time": 183.44,
+      "time_str": "03:03.440",
+      "text": "可能永远在路上  有人奋斗前行",
+      "translation": null
+    },
+    {
+      "time": 188.4,
+      "time_str": "03:08.400",
+      "text": "可能一切的可能  相信才有可能",
+      "translation": null
+    },
+    {
+      "time": 193.29,
+      "time_str": "03:13.290",
+      "text": "可能拥有过梦想  才能叫做青春",
+      "translation": null
+    },
+    {
+      "time": 213.9,
+      "time_str": "03:33.900",
+      "text": "母带 : 全相彦",
+      "translation": null
+    },
+    {
+      "time": 214.35,
+      "time_str": "03:34.350",
+      "text": "平面 : 华玮轩",
+      "translation": null
+    },
+    {
+      "time": 214.81,
+      "time_str": "03:34.810",
+      "text": "宣传发行 : 冷小婧/杜梦婷",
+      "translation": null
+    },
+    {
+      "time": 215.26,
+      "time_str": "03:35.260",
+      "text": "企划 : 刘芳/袋熊/李思睿/威尔",
+      "translation": null
+    },
+    {
+      "time": 215.71,
+      "time_str": "03:35.710",
+      "text": "统筹 : 陈亚飞",
+      "translation": null
+    },
+    {
+      "time": 216.17,
+      "time_str": "03:36.170",
+      "text": "营销 : 银河方舟X壳壳菠萝",
+      "translation": null
+    },
+    {
+      "time": 216.62,
+      "time_str": "03:36.620",
+      "text": "项目总监 : 庄有豪",
+      "translation": null
+    },
+    {
+      "time": 217.53,
+      "time_str": "03:37.530",
+      "text": "SP : 银河方舟",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "可能 - 程响.lrc"
+}

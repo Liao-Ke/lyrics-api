@@ -1,0 +1,328 @@
+{
+  "title": "可不可以",
+  "title_raw": "可不可以",
+  "version": null,
+  "artist": "张紫豪",
+  "group_key": "可不可以|张紫豪",
+  "writers": {
+    "lyricist": "刘伟锋",
+    "composer": "刘伟锋",
+    "arranger": "刘伟锋"
+  },
+  "lyrics": [
+    {
+      "time": 2.16,
+      "time_str": "00:02.160",
+      "text": "录制混缩：巨人先生",
+      "translation": null
+    },
+    {
+      "time": 4.04,
+      "time_str": "00:04.040",
+      "text": "企划：谭梦",
+      "translation": null
+    },
+    {
+      "time": 5.04,
+      "time_str": "00:05.040",
+      "text": "发行公司：恬音文化",
+      "translation": null
+    },
+    {
+      "time": 16.5,
+      "time_str": "00:16.500",
+      "text": "说好带你流浪",
+      "translation": null
+    },
+    {
+      "time": 20.09,
+      "time_str": "00:20.090",
+      "text": "而我却半路返航",
+      "translation": null
+    },
+    {
+      "time": 23.62,
+      "time_str": "00:23.620",
+      "text": "坠落自责的海洋",
+      "translation": null
+    },
+    {
+      "time": 30.72,
+      "time_str": "00:30.720",
+      "text": "发现离不开你",
+      "translation": null
+    },
+    {
+      "time": 34.21,
+      "time_str": "00:34.210",
+      "text": "我开始决定回去",
+      "translation": null
+    },
+    {
+      "time": 37.8,
+      "time_str": "00:37.800",
+      "text": "你已不在原地",
+      "translation": null
+    },
+    {
+      "time": 44.02,
+      "time_str": "00:44.020",
+      "text": "我可以接受你的所有",
+      "translation": null
+    },
+    {
+      "time": 46.16,
+      "time_str": "00:46.160",
+      "text": "所有小脾气",
+      "translation": null
+    },
+    {
+      "time": 47.54,
+      "time_str": "00:47.540",
+      "text": "我可以带你去吃很多",
+      "translation": null
+    },
+    {
+      "time": 49.73,
+      "time_str": "00:49.730",
+      "text": "很多好东西",
+      "translation": null
+    },
+    {
+      "time": 51.13,
+      "time_str": "00:51.130",
+      "text": "我可以偶尔给你带来",
+      "translation": null
+    },
+    {
+      "time": 53.24,
+      "time_str": "00:53.240",
+      "text": "带来小甜蜜",
+      "translation": null
+    },
+    {
+      "time": 54.65,
+      "time_str": "00:54.650",
+      "text": "就像前几年那样",
+      "translation": null
+    },
+    {
+      "time": 56.05,
+      "time_str": "00:56.050",
+      "text": "每天都会给你制造很多惊喜",
+      "translation": null
+    },
+    {
+      "time": 58.73,
+      "time_str": "00:58.730",
+      "text": "你的心伤 我能治愈",
+      "translation": null
+    },
+    {
+      "time": 61.8,
+      "time_str": "01:01.800",
+      "text": "我的快乐也只有你能给予",
+      "translation": null
+    },
+    {
+      "time": 66.26,
+      "time_str": "01:06.260",
+      "text": "我们就别再分离",
+      "translation": null
+    },
+    {
+      "time": 71.73,
+      "time_str": "01:11.730",
+      "text": "可不可以 和你在一起",
+      "translation": null
+    },
+    {
+      "time": 75.3,
+      "time_str": "01:15.300",
+      "text": "我们之间有太多回忆",
+      "translation": null
+    },
+    {
+      "time": 78.82,
+      "time_str": "01:18.820",
+      "text": "爱上了你 没什么道理",
+      "translation": null
+    },
+    {
+      "time": 82.31,
+      "time_str": "01:22.310",
+      "text": "只是刚好情窦初开遇到你",
+      "translation": null
+    },
+    {
+      "time": 85.82,
+      "time_str": "01:25.820",
+      "text": "不希望我的未来不是你",
+      "translation": null
+    },
+    {
+      "time": 89.44,
+      "time_str": "01:29.440",
+      "text": "只愿意和你永远不分离",
+      "translation": null
+    },
+    {
+      "time": 93.03,
+      "time_str": "01:33.030",
+      "text": "趁我还没有过保质期",
+      "translation": null
+    },
+    {
+      "time": 96.59,
+      "time_str": "01:36.590",
+      "text": "趁你还愿意",
+      "translation": null
+    },
+    {
+      "time": 130.34,
+      "time_str": "02:10.340",
+      "text": "三年的回忆",
+      "translation": null
+    },
+    {
+      "time": 133.82,
+      "time_str": "02:13.820",
+      "text": "我如何抹去",
+      "translation": null
+    },
+    {
+      "time": 137.42,
+      "time_str": "02:17.420",
+      "text": "能不能再拾起",
+      "translation": null
+    },
+    {
+      "time": 144.53,
+      "time_str": "02:24.530",
+      "text": "永远在一起",
+      "translation": null
+    },
+    {
+      "time": 148.08,
+      "time_str": "02:28.080",
+      "text": "还没有过期",
+      "translation": null
+    },
+    {
+      "time": 151.64,
+      "time_str": "02:31.640",
+      "text": "我们就别再分离",
+      "translation": null
+    },
+    {
+      "time": 157.23,
+      "time_str": "02:37.230",
+      "text": "可不可以 和你在一起",
+      "translation": null
+    },
+    {
+      "time": 160.44,
+      "time_str": "02:40.440",
+      "text": "我们之间有太多回忆",
+      "translation": null
+    },
+    {
+      "time": 164.33,
+      "time_str": "02:44.330",
+      "text": "爱上了你 没什么道理",
+      "translation": null
+    },
+    {
+      "time": 167.72,
+      "time_str": "02:47.720",
+      "text": "只是刚好情窦初开遇到你",
+      "translation": null
+    },
+    {
+      "time": 171.29,
+      "time_str": "02:51.290",
+      "text": "不希望我的未来不是你",
+      "translation": null
+    },
+    {
+      "time": 174.79,
+      "time_str": "02:54.790",
+      "text": "只愿意和你永远不分离",
+      "translation": null
+    },
+    {
+      "time": 178.36,
+      "time_str": "02:58.360",
+      "text": "趁我还没有过保质期",
+      "translation": null
+    },
+    {
+      "time": 181.91,
+      "time_str": "03:01.910",
+      "text": "趁你还愿意",
+      "translation": null
+    },
+    {
+      "time": 185.34,
+      "time_str": "03:05.340",
+      "text": "可不可以 和你在一起",
+      "translation": null
+    },
+    {
+      "time": 189.1,
+      "time_str": "03:09.100",
+      "text": "我们之间有太多回忆",
+      "translation": null
+    },
+    {
+      "time": 192.57,
+      "time_str": "03:12.570",
+      "text": "爱上了你 没什么道理",
+      "translation": null
+    },
+    {
+      "time": 196.01,
+      "time_str": "03:16.010",
+      "text": "只是刚好情窦初开遇到你",
+      "translation": null
+    },
+    {
+      "time": 199.63,
+      "time_str": "03:19.630",
+      "text": "不希望我的未来不是你",
+      "translation": null
+    },
+    {
+      "time": 203.28,
+      "time_str": "03:23.280",
+      "text": "只愿意和你永远不分离",
+      "translation": null
+    },
+    {
+      "time": 206.79,
+      "time_str": "03:26.790",
+      "text": "趁我还没有过保质期",
+      "translation": null
+    },
+    {
+      "time": 210.29,
+      "time_str": "03:30.290",
+      "text": "趁你还愿意",
+      "translation": null
+    },
+    {
+      "time": 213.92,
+      "time_str": "03:33.920",
+      "text": "趁我还没有过保质期",
+      "translation": null
+    },
+    {
+      "time": 221.23,
+      "time_str": "03:41.230",
+      "text": "趁你还愿意",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "可不可以 - 张紫豪.lrc"
+}

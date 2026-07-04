@@ -1,0 +1,136 @@
+{
+  "title": "空船",
+  "title_raw": "空船",
+  "version": null,
+  "artist": "柯以敏",
+  "group_key": "空船|柯以敏",
+  "writers": {
+    "lyricist": "王勇",
+    "composer": "于江盈",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 31.06,
+      "time_str": "00:31.060",
+      "text": "山一程",
+      "translation": null
+    },
+    {
+      "time": 33.35,
+      "time_str": "00:33.350",
+      "text": "水一程",
+      "translation": null
+    },
+    {
+      "time": 35.49,
+      "time_str": "00:35.490",
+      "text": "身向天山行",
+      "translation": null
+    },
+    {
+      "time": 48.18,
+      "time_str": "00:48.180",
+      "text": "风一更",
+      "translation": null
+    },
+    {
+      "time": 51.99,
+      "time_str": "00:51.990",
+      "text": "雪一更",
+      "translation": null
+    },
+    {
+      "time": 55.85,
+      "time_str": "00:55.850",
+      "text": "夜深千帐灯",
+      "translation": null
+    },
+    {
+      "time": 79.58,
+      "time_str": "01:19.580",
+      "text": "剑沉沉",
+      "translation": null
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "爱深深",
+      "translation": null
+    },
+    {
+      "time": 84.14,
+      "time_str": "01:24.140",
+      "text": "英雄儿女行",
+      "translation": null
+    },
+    {
+      "time": 96.17,
+      "time_str": "01:36.170",
+      "text": "来一回",
+      "translation": null
+    },
+    {
+      "time": 100.08,
+      "time_str": "01:40.080",
+      "text": "去一回",
+      "translation": null
+    },
+    {
+      "time": 103.66,
+      "time_str": "01:43.660",
+      "text": "岁月不留情",
+      "translation": null
+    },
+    {
+      "time": 160.17,
+      "time_str": "02:40.17",
+      "text": "跨越世界梦不成",
+      "translation": null
+    },
+    {
+      "time": 167.84,
+      "time_str": "02:47.84",
+      "text": "起看寥落晨星",
+      "translation": null
+    },
+    {
+      "time": 175.92,
+      "time_str": "02:55.92",
+      "text": "空船一去无踪影",
+      "translation": null
+    },
+    {
+      "time": 183.89,
+      "time_str": "03:03.89",
+      "text": "苍茫误此生",
+      "translation": null
+    },
+    {
+      "time": 256.54,
+      "time_str": "04:16.540",
+      "text": "跨越世界梦不成",
+      "translation": null
+    },
+    {
+      "time": 264.17,
+      "time_str": "04:24.170",
+      "text": "起看寥落晨星",
+      "translation": null
+    },
+    {
+      "time": 272.25,
+      "time_str": "04:32.250",
+      "text": "空船一去无踪影",
+      "translation": null
+    },
+    {
+      "time": 280.0,
+      "time_str": "04:40.000",
+      "text": "苍茫误此生",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "空船 - 柯以敏.lrc"
+}

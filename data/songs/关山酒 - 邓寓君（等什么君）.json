@@ -1,0 +1,238 @@
+{
+  "title": "关山酒",
+  "title_raw": "关山酒",
+  "version": null,
+  "artist": "邓寓君（等什么君）",
+  "group_key": "关山酒|邓寓君（等什么君）",
+  "writers": {
+    "lyricist": "简吟",
+    "composer": "乐金震",
+    "arranger": "Mzf小慕"
+  },
+  "lyrics": [
+    {
+      "time": 3.0,
+      "time_str": "00:03.000",
+      "text": "改编曲 : 吕宏斌",
+      "translation": null
+    },
+    {
+      "time": 13.39,
+      "time_str": "00:13.390",
+      "text": "我自关山点酒 千秋皆入喉",
+      "translation": null
+    },
+    {
+      "time": 18.69,
+      "time_str": "00:18.690",
+      "text": "更有沸雪酌与风云某",
+      "translation": null
+    },
+    {
+      "time": 24.54,
+      "time_str": "00:24.540",
+      "text": "我是千里故人 青山应白首",
+      "translation": null
+    },
+    {
+      "time": 30.32,
+      "time_str": "00:30.320",
+      "text": "年少犹借银枪逞风流",
+      "translation": null
+    },
+    {
+      "time": 36.71,
+      "time_str": "00:36.710",
+      "text": "几载风雪卷刃 朔风同孤昼",
+      "translation": null
+    },
+    {
+      "time": 41.82,
+      "time_str": "00:41.820",
+      "text": "瞧得乱世 一般嶙峋瘦",
+      "translation": null
+    },
+    {
+      "time": 48.23,
+      "time_str": "00:48.230",
+      "text": "塞外硝烟未断 黄云遍地愁",
+      "translation": null
+    },
+    {
+      "time": 53.28,
+      "time_str": "00:53.280",
+      "text": "侥幸红梅久 不曾下枝头",
+      "translation": null
+    },
+    {
+      "time": 59.849,
+      "time_str": "00:59.849",
+      "text": "长烟入怀 潦草作运筹",
+      "translation": null
+    },
+    {
+      "time": 64.549,
+      "time_str": "01:04.549",
+      "text": "踏过飞沙拔剑斩仇寇",
+      "translation": null
+    },
+    {
+      "time": 71.078,
+      "time_str": "01:11.078",
+      "text": "残阳暮火 春风上重楼",
+      "translation": null
+    },
+    {
+      "time": 76.019,
+      "time_str": "01:16.019",
+      "text": "乱世烽火不尽长安囚",
+      "translation": null
+    },
+    {
+      "time": 81.968,
+      "time_str": "01:21.968",
+      "text": "我自关山点酒 千秋皆入喉",
+      "translation": null
+    },
+    {
+      "time": 87.4,
+      "time_str": "01:27.400",
+      "text": "更有沸雪酌与风云某",
+      "translation": null
+    },
+    {
+      "time": 92.959,
+      "time_str": "01:32.959",
+      "text": "我是千里故人 青山应白首",
+      "translation": null
+    },
+    {
+      "time": 98.879,
+      "time_str": "01:38.879",
+      "text": "年少犹借银枪逞风流",
+      "translation": null
+    },
+    {
+      "time": 128.459,
+      "time_str": "02:08.459",
+      "text": "我曾长安走马 十街任斗酒",
+      "translation": null
+    },
+    {
+      "time": 133.399,
+      "time_str": "02:13.399",
+      "text": "惊梦照烽火 今宵试新鍪",
+      "translation": null
+    },
+    {
+      "time": 139.679,
+      "time_str": "02:19.679",
+      "text": "倘若魂断沙场 不见失地收",
+      "translation": null
+    },
+    {
+      "time": 144.598,
+      "time_str": "02:24.598",
+      "text": "谁共谁不朽 金戈亦染锈",
+      "translation": null
+    },
+    {
+      "time": 151.28,
+      "time_str": "02:31.280",
+      "text": "天命轻狂 应似孤鸿游",
+      "translation": null
+    },
+    {
+      "time": 156.098,
+      "time_str": "02:36.098",
+      "text": "向人世间尽一腹鬼谋",
+      "translation": null
+    },
+    {
+      "time": 162.549,
+      "time_str": "02:42.549",
+      "text": "纵意而歌 玉怀斟北斗",
+      "translation": null
+    },
+    {
+      "time": 167.538,
+      "time_str": "02:47.538",
+      "text": "河山万里愿与君同守",
+      "translation": null
+    },
+    {
+      "time": 173.399,
+      "time_str": "02:53.399",
+      "text": "我自关山点酒 千秋皆入喉",
+      "translation": null
+    },
+    {
+      "time": 178.948,
+      "time_str": "02:58.948",
+      "text": "更有沸雪酌与风云某",
+      "translation": null
+    },
+    {
+      "time": 184.638,
+      "time_str": "03:04.638",
+      "text": "我是千里故人 青山应白首",
+      "translation": null
+    },
+    {
+      "time": 190.429,
+      "time_str": "03:10.429",
+      "text": "年少犹借银枪逞风流",
+      "translation": null
+    },
+    {
+      "time": 196.418,
+      "time_str": "03:16.418",
+      "text": "我自关山点酒 千秋皆入喉",
+      "translation": null
+    },
+    {
+      "time": 201.899,
+      "time_str": "03:21.899",
+      "text": "更有沸雪酌与风云某",
+      "translation": null
+    },
+    {
+      "time": 207.459,
+      "time_str": "03:27.459",
+      "text": "我是千里故人 青山应白首",
+      "translation": null
+    },
+    {
+      "time": 213.209,
+      "time_str": "03:33.209",
+      "text": "年少犹借银枪逞风流",
+      "translation": null
+    },
+    {
+      "time": 226.119,
+      "time_str": "03:46.119",
+      "text": "笛子：囚牛",
+      "translation": null
+    },
+    {
+      "time": 226.929,
+      "time_str": "03:46.929",
+      "text": "和声/和声编写：曾婕Joey.Z",
+      "translation": null
+    },
+    {
+      "time": 227.698,
+      "time_str": "03:47.698",
+      "text": "监唱：王中易/高漠伊",
+      "translation": null
+    },
+    {
+      "time": 231.198,
+      "time_str": "03:51.198",
+      "text": "封面手绘：井井",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "关山酒 - 邓寓君（等什么君）.lrc"
+}

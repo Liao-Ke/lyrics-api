@@ -1,0 +1,196 @@
+{
+  "title": "Waiting For Love",
+  "title_raw": "Waiting For Love",
+  "version": null,
+  "artist": "Avicii,Simon Aldred",
+  "group_key": "waiting for love|avicii,simon aldred",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 5.7,
+      "time_str": "00:05.700",
+      "text": "Where there's a will, there's a way, kinda beautiful",
+      "translation": "有志者事竟成，多么美好"
+    },
+    {
+      "time": 9.7,
+      "time_str": "00:09.700",
+      "text": "And every night has its day, so magical",
+      "translation": "黑夜过去就是黎明，这里充满神奇"
+    },
+    {
+      "time": 13.7,
+      "time_str": "00:13.700",
+      "text": "And if there's love in this life, there's no obstacle",
+      "translation": "如果生活充满爱，世界将不再有阻碍"
+    },
+    {
+      "time": 17.7,
+      "time_str": "00:17.700",
+      "text": "That can't be defeated",
+      "translation": "爱可以战胜一切"
+    },
+    {
+      "time": 20.7,
+      "time_str": "00:20.700",
+      "text": "For every tyrant a tear for the vulnerable",
+      "translation": "每一个残暴的君主都能懂得怜悯"
+    },
+    {
+      "time": 24.7,
+      "time_str": "00:24.700",
+      "text": "In every lost soul the bones of a miracle",
+      "translation": "每一个失落的灵魂中都有创造奇迹的傲骨"
+    },
+    {
+      "time": 28.7,
+      "time_str": "00:28.700",
+      "text": "For every dreamer a dream we're unstoppable",
+      "translation": "每一个梦想家都有无法阻挡的梦想"
+    },
+    {
+      "time": 31.7,
+      "time_str": "00:31.700",
+      "text": "With something to believe in",
+      "translation": "有真诚的信仰"
+    },
+    {
+      "time": 36.7,
+      "time_str": "00:36.700",
+      "text": "Monday left me broken",
+      "translation": "星期一我被无情地击败"
+    },
+    {
+      "time": 39.7,
+      "time_str": "00:39.700",
+      "text": "Tuesday I was through with hoping",
+      "translation": "星期二我就在希望中复活"
+    },
+    {
+      "time": 42.7,
+      "time_str": "00:42.700",
+      "text": "Wednesday my empty arms were open",
+      "translation": "星期三我张开空空如也的双臂"
+    },
+    {
+      "time": 46.7,
+      "time_str": "00:46.700",
+      "text": "Thursday waiting for love, waiting for love",
+      "translation": "星期四等待爱，等待爱的到来"
+    },
+    {
+      "time": 51.7,
+      "time_str": "00:51.700",
+      "text": "Thank the stars it's Friday",
+      "translation": "星期五星辰为我颤动"
+    },
+    {
+      "time": 54.7,
+      "time_str": "00:54.700",
+      "text": "I'm burning like a fire gone wild on Saturday",
+      "translation": "星期六我像疯狂燃烧的野火"
+    },
+    {
+      "time": 58.7,
+      "time_str": "00:58.700",
+      "text": "Guess I won't be coming to church on Sunday",
+      "translation": "星期日我将不会去教堂"
+    },
+    {
+      "time": 61.7,
+      "time_str": "01:01.700",
+      "text": "I'll be waiting for love, waiting for love",
+      "translation": "我会等待爱的到来，等待爱"
+    },
+    {
+      "time": 65.7,
+      "time_str": "01:05.700",
+      "text": "To come around",
+      "translation": "让我苏醒"
+    },
+    {
+      "time": 118.7,
+      "time_str": "01:58.700",
+      "text": "We are one of a kind irreplaceable",
+      "translation": "我们是不可替代的"
+    },
+    {
+      "time": 121.7,
+      "time_str": "02:01.700",
+      "text": "How did I get so blind and so cynical",
+      "translation": "我究竟为何如此盲目如此愤世嫉俗"
+    },
+    {
+      "time": 125.7,
+      "time_str": "02:05.700",
+      "text": "If there's love in this life we're unstoppable",
+      "translation": "假若此生有爱我们便所向披靡"
+    },
+    {
+      "time": 129.699,
+      "time_str": "02:09.699",
+      "text": "No we can't be defeated",
+      "translation": "没有什么能战胜我们"
+    },
+    {
+      "time": 133.699,
+      "time_str": "02:13.699",
+      "text": "Monday left me broken",
+      "translation": "星期一我被无情地击败"
+    },
+    {
+      "time": 136.699,
+      "time_str": "02:16.699",
+      "text": "Tuesday I was through with hoping",
+      "translation": "星期二我就在希望中复活"
+    },
+    {
+      "time": 140.699,
+      "time_str": "02:20.699",
+      "text": "Wednesday my empty arms were open",
+      "translation": "星期三我张开空空如也的双臂"
+    },
+    {
+      "time": 144.699,
+      "time_str": "02:24.699",
+      "text": "Thursday waiting for love, waiting for love",
+      "translation": "星期四等待爱，等待爱的到来"
+    },
+    {
+      "time": 149.699,
+      "time_str": "02:29.699",
+      "text": "Thank the stars it's Friday",
+      "translation": "星期五星辰为我颤动"
+    },
+    {
+      "time": 151.699,
+      "time_str": "02:31.699",
+      "text": "I'm burning like a fire gone wild on Saturday",
+      "translation": "星期六我像疯狂燃烧的野火"
+    },
+    {
+      "time": 155.699,
+      "time_str": "02:35.699",
+      "text": "Guess I won't be coming to church on Sunday",
+      "translation": "星期日我将不会去教堂"
+    },
+    {
+      "time": 158.699,
+      "time_str": "02:38.699",
+      "text": "I'll be waiting for love, waiting for love",
+      "translation": "我会等待爱的到来，等待爱"
+    },
+    {
+      "time": 164.699,
+      "time_str": "02:44.699",
+      "text": "To come around",
+      "translation": "让我苏醒"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Waiting For Love - Avicii,Simon Aldred.lrc"
+}

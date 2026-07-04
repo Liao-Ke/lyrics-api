@@ -1,0 +1,226 @@
+{
+  "title": "加州旅店",
+  "title_raw": "加州旅店",
+  "version": null,
+  "artist": "Eagles",
+  "group_key": "加州旅店|eagles",
+  "writers": {
+    "lyricist": "Don Felder/Don Henley/Glenn Frey",
+    "composer": "Don Felder",
+    "arranger": "Bill Szymczyk"
+  },
+  "lyrics": [
+    {
+      "time": 131.545,
+      "time_str": "02:11.545",
+      "text": "On a dark desert highway",
+      "translation": "行驶在昏黑的荒漠公路上"
+    },
+    {
+      "time": 132.546,
+      "time_str": "02:12.546",
+      "text": "cool wind in my hair",
+      "translation": "凉风吹过我的头发"
+    },
+    {
+      "time": 134.545,
+      "time_str": "02:14.545",
+      "text": "warm smell of colitas",
+      "translation": "烟草的香气"
+    },
+    {
+      "time": 138.295,
+      "time_str": "02:18.295",
+      "text": "rising up through the air",
+      "translation": "弥漫在空气中"
+    },
+    {
+      "time": 141.294,
+      "time_str": "02:21.294",
+      "text": "Up ahead in the distance",
+      "translation": "抬头遥望远方"
+    },
+    {
+      "time": 144.796,
+      "time_str": "02:24.796",
+      "text": "I saw a shimmering light",
+      "translation": "我看到微弱的灯光"
+    },
+    {
+      "time": 147.295,
+      "time_str": "02:27.295",
+      "text": "My head grew heavy and my sight grew dim",
+      "translation": "我的头越来越沉,视线也变得模糊"
+    },
+    {
+      "time": 152.046,
+      "time_str": "02:32.046",
+      "text": "I had to stop for the night",
+      "translation": "我不得不停下来过夜"
+    },
+    {
+      "time": 154.295,
+      "time_str": "02:34.295",
+      "text": "there she stood in the doorway",
+      "translation": "她站在门口"
+    },
+    {
+      "time": 157.795,
+      "time_str": "02:37.795",
+      "text": "I heard the mission bell",
+      "translation": "我听到远处教堂的钟声"
+    },
+    {
+      "time": 161.046,
+      "time_str": "02:41.046",
+      "text": "and I was thinking to myself",
+      "translation": "我在心里对自己说"
+    },
+    {
+      "time": 164.045,
+      "time_str": "02:44.045",
+      "text": "this could be heaven or this could be hell",
+      "translation": "这里可能是天堂也可能是地狱"
+    },
+    {
+      "time": 169.044,
+      "time_str": "02:49.044",
+      "text": "then she lit up a candle",
+      "translation": "然后她点燃了蜡烛"
+    },
+    {
+      "time": 170.546,
+      "time_str": "02:50.546",
+      "text": "and she showed me the way",
+      "translation": "给我引路"
+    },
+    {
+      "time": 173.795,
+      "time_str": "02:53.795",
+      "text": "there were voices down in corridor",
+      "translation": "沿着走廊传来阵阵歌声"
+    },
+    {
+      "time": 177.296,
+      "time_str": "02:57.296",
+      "text": "I thought I heard them say.....",
+      "translation": "我想我听到他们在说"
+    },
+    {
+      "time": 180.045,
+      "time_str": "03:00.045",
+      "text": "welcome to the hotel California",
+      "translation": "欢迎来到加州旅馆"
+    },
+    {
+      "time": 184.296,
+      "time_str": "03:04.296",
+      "text": "such a lovely place",
+      "translation": "如此美丽的地方"
+    },
+    {
+      "time": 187.795,
+      "time_str": "03:07.795",
+      "text": "such a lovely face",
+      "translation": "多么可爱的的面容"
+    },
+    {
+      "time": 193.795,
+      "time_str": "03:13.795",
+      "text": "plenty of rooms at the hotel California",
+      "translation": "在加州旅馆里有充足的房间"
+    },
+    {
+      "time": 197.544,
+      "time_str": "03:17.544",
+      "text": "any time of year",
+      "translation": "一年的任何时候,"
+    },
+    {
+      "time": 200.796,
+      "time_str": "03:20.796",
+      "text": "you can find it here",
+      "translation": "你都能找到这里"
+    },
+    {
+      "time": 205.045,
+      "time_str": "03:25.045",
+      "text": "her mind is Tiffany-twisted",
+      "translation": "她的心为珠宝所扭曲"
+    },
+    {
+      "time": 208.795,
+      "time_str": "03:28.795",
+      "text": "she got the Mercedes-Benz",
+      "translation": "她开着那豪华的奔驰车"
+    },
+    {
+      "time": 212.296,
+      "time_str": "03:32.296",
+      "text": "she got a lot of pretty pretty boys",
+      "translation": "她有许多漂亮的小伙子"
+    },
+    {
+      "time": 215.295,
+      "time_str": "03:35.295",
+      "text": "that she calls friends",
+      "translation": "她称之为朋友"
+    },
+    {
+      "time": 220.795,
+      "time_str": "03:40.795",
+      "text": "how they dance in the courtyard",
+      "translation": "他们在庭院里翩翩起舞"
+    },
+    {
+      "time": 222.795,
+      "time_str": "03:42.795",
+      "text": "sweet summers sweat",
+      "translation": "夏日的香汗淋漓"
+    },
+    {
+      "time": 225.045,
+      "time_str": "03:45.045",
+      "text": "some dance to remember some dance to forget",
+      "translation": "有些舞是为了回忆而有些舞是为了忘却"
+    },
+    {
+      "time": 232.545,
+      "time_str": "03:52.545",
+      "text": "so I called up the captain",
+      "translation": "于是我叫来领班"
+    },
+    {
+      "time": 234.295,
+      "time_str": "03:54.295",
+      "text": "please bring me my wine, he said:\"",
+      "translation": "请给我来些酒"
+    },
+    {
+      "time": 237.545,
+      "time_str": "03:57.545",
+      "text": "we haven't had that spirit",
+      "translation": "他说我们这不供应烈酒"
+    },
+    {
+      "time": 241.295,
+      "time_str": "04:01.295",
+      "text": "here since nineteen sixty nine",
+      "translation": "从1969年起"
+    },
+    {
+      "time": 244.545,
+      "time_str": "04:04.545",
+      "text": "and still those voices are calling from far away",
+      "translation": "远处仍然传来他们的话语"
+    },
+    {
+      "time": 251.046,
+      "time_str": "04:11.046",
+      "text": "wake you up in the middle of the night",
+      "translation": "在半夜把你吵醒"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "加州旅店 - Eagles.lrc"
+}

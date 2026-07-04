@@ -1,0 +1,346 @@
+{
+  "title": "One Day",
+  "title_raw": "One Day",
+  "version": null,
+  "artist": "Matisyahu",
+  "group_key": "one day|matisyahu",
+  "writers": {
+    "lyricist": "Levine, Ari / Mars, Bruno",
+    "composer": "Levine, Ari / Mars, Bruno",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.36,
+      "time_str": "00:14.360",
+      "text": "sometimes I lay",
+      "translation": "我时常席地而躺"
+    },
+    {
+      "time": 16.03,
+      "time_str": "00:16.030",
+      "text": "under the moon",
+      "translation": "沐浴皎洁的月光"
+    },
+    {
+      "time": 17.96,
+      "time_str": "00:17.960",
+      "text": "and thank God I'm breathing",
+      "translation": "感激上帝赐予我呼吸的权利"
+    },
+    {
+      "time": 21.11,
+      "time_str": "00:21.110",
+      "text": "then I pray",
+      "translation": "然后我祈祷"
+    },
+    {
+      "time": 22.65,
+      "time_str": "00:22.650",
+      "text": "don't take me soon",
+      "translation": "别太早带走我的生命"
+    },
+    {
+      "time": 24.53,
+      "time_str": "00:24.530",
+      "text": "i'm here for a reason",
+      "translation": "因为我不是无故在此"
+    },
+    {
+      "time": 26.93,
+      "time_str": "00:26.930",
+      "text": "sometimes in my tears I drown",
+      "translation": "我时常泪如泉涌"
+    },
+    {
+      "time": 29.75,
+      "time_str": "00:29.750",
+      "text": "but I never let it get me down",
+      "translation": "但我从未沉浸其中"
+    },
+    {
+      "time": 33.02,
+      "time_str": "00:33.020",
+      "text": "so when negativity surrounds",
+      "translation": "所以每当愁苦将我包围"
+    },
+    {
+      "time": 36.39,
+      "time_str": "00:36.390",
+      "text": "I know some day it'll all turn around",
+      "translation": "我坚信总有峰回路转之时"
+    },
+    {
+      "time": 38.85,
+      "time_str": "00:38.850",
+      "text": "because",
+      "translation": "因为"
+    },
+    {
+      "time": 39.68,
+      "time_str": "00:39.680",
+      "text": "all my live I've been waiting for",
+      "translation": "我这一生苦苦等待的"
+    },
+    {
+      "time": 42.12,
+      "time_str": "00:42.120",
+      "text": "I've been praying for",
+      "translation": "默默祈祷的"
+    },
+    {
+      "time": 44.68,
+      "time_str": "00:44.680",
+      "text": "for the people to say",
+      "translation": "为了能让人们说出那句"
+    },
+    {
+      "time": 46.96,
+      "time_str": "00:46.960",
+      "text": "that we dont wanna fight no more",
+      "translation": "再也不会有枪声了"
+    },
+    {
+      "time": 49.53,
+      "time_str": "00:49.530",
+      "text": "they'll be no more wars",
+      "translation": "再也不会有战争了"
+    },
+    {
+      "time": 51.28,
+      "time_str": "00:51.280",
+      "text": "and our children will play",
+      "translation": "我们的孩子一同玩耍"
+    },
+    {
+      "time": 53.25,
+      "time_str": "00:53.250",
+      "text": "one day x6",
+      "translation": "有朝一日......"
+    },
+    {
+      "time": 66.56,
+      "time_str": "01:06.560",
+      "text": "it's not about",
+      "translation": "不会再计较"
+    },
+    {
+      "time": 69.08,
+      "time_str": "01:09.080",
+      "text": "win or lose",
+      "translation": "输赢或胜负"
+    },
+    {
+      "time": 70.72,
+      "time_str": "01:10.720",
+      "text": "we all lose",
+      "translation": "我们满盘皆输"
+    },
+    {
+      "time": 72.26,
+      "time_str": "01:12.260",
+      "text": "when they feed on the souls of the innocent",
+      "translation": "当他们侵蚀无助的灵魂"
+    },
+    {
+      "time": 75.52,
+      "time_str": "01:15.520",
+      "text": "blood drenched pavement",
+      "translation": "鲜血染红了前行的道路"
+    },
+    {
+      "time": 76.68,
+      "time_str": "01:16.680",
+      "text": "keep on moving though the waters stay raging",
+      "translation": "继续跋涉穿越那波涛汹涌"
+    },
+    {
+      "time": 80.65,
+      "time_str": "01:20.650",
+      "text": "in this maze you can lose your way (your way)",
+      "translation": "在这迷宫里你或许会丢失方向（你的方向）"
+    },
+    {
+      "time": 84.73,
+      "time_str": "01:24.730",
+      "text": "it might drive you crazy but dont let it faze you no way (no way)",
+      "translation": "你会惊慌但别让它打碎你的希望（你的希望）"
+    },
+    {
+      "time": 93.29,
+      "time_str": "01:33.290",
+      "text": "sometimes in my tears I drown",
+      "translation": "我时常泪如泉涌"
+    },
+    {
+      "time": 95.91,
+      "time_str": "01:35.910",
+      "text": "but I never let it get me down",
+      "translation": "但我从未沉浸其中"
+    },
+    {
+      "time": 99.28,
+      "time_str": "01:39.280",
+      "text": "so when negativity surrounds",
+      "translation": "所以每当愁苦将我包围"
+    },
+    {
+      "time": 102.8,
+      "time_str": "01:42.800",
+      "text": "I know some day it'll all turn around",
+      "translation": "我相信总有峰回路转之时"
+    },
+    {
+      "time": 106.15,
+      "time_str": "01:46.150",
+      "text": "because",
+      "translation": "因为"
+    },
+    {
+      "time": 106.84,
+      "time_str": "01:46.840",
+      "text": "all my live I've been waiting for",
+      "translation": "我这一生苦苦等待的"
+    },
+    {
+      "time": 108.88,
+      "time_str": "01:48.880",
+      "text": "I've been praying for",
+      "translation": "默默祈祷的"
+    },
+    {
+      "time": 110.72,
+      "time_str": "01:50.720",
+      "text": "for the people to say",
+      "translation": "为了能让人们说出那句"
+    },
+    {
+      "time": 113.13,
+      "time_str": "01:53.130",
+      "text": "that we dont wanna fight no more",
+      "translation": "再也不会有枪声了"
+    },
+    {
+      "time": 115.75,
+      "time_str": "01:55.750",
+      "text": "they'll be no more wars",
+      "translation": "再也不会有战争了"
+    },
+    {
+      "time": 117.43,
+      "time_str": "01:57.430",
+      "text": "and our children will play",
+      "translation": "我们的孩子在阳光下嬉戏"
+    },
+    {
+      "time": 119.47,
+      "time_str": "01:59.470",
+      "text": "one day x6",
+      "translation": "有朝一日......"
+    },
+    {
+      "time": 132.87,
+      "time_str": "02:12.870",
+      "text": "one day this all will change",
+      "translation": "总有一天新旧更替"
+    },
+    {
+      "time": 134.34,
+      "time_str": "02:14.340",
+      "text": "treat people the same",
+      "translation": "人人平等将会来临"
+    },
+    {
+      "time": 136.07,
+      "time_str": "02:16.070",
+      "text": "stop with the violence",
+      "translation": "不会再有暴力"
+    },
+    {
+      "time": 137.68,
+      "time_str": "02:17.680",
+      "text": "down with the hate",
+      "translation": "不会再有仇恨"
+    },
+    {
+      "time": 139.5,
+      "time_str": "02:19.500",
+      "text": "one day we'll all be free",
+      "translation": "总有一天万物自由"
+    },
+    {
+      "time": 141.02,
+      "time_str": "02:21.020",
+      "text": "and proud to be",
+      "translation": "我们以此为荣"
+    },
+    {
+      "time": 142.73,
+      "time_str": "02:22.730",
+      "text": "under the same sun",
+      "translation": "沐浴同一束阳光"
+    },
+    {
+      "time": 144.32,
+      "time_str": "02:24.320",
+      "text": "singing songs of freedom like",
+      "translation": "吟唱着自由之歌"
+    },
+    {
+      "time": 145.98,
+      "time_str": "02:25.980",
+      "text": "one day x4",
+      "translation": "有朝一日......"
+    },
+    {
+      "time": 159.33,
+      "time_str": "02:39.330",
+      "text": "all my live I've been waiting for",
+      "translation": "我这一生苦苦等待的"
+    },
+    {
+      "time": 161.99,
+      "time_str": "02:41.990",
+      "text": "I've been praying for",
+      "translation": "默默祈祷的"
+    },
+    {
+      "time": 163.95,
+      "time_str": "02:43.950",
+      "text": "for the people to say",
+      "translation": "为了能让人们说出那句"
+    },
+    {
+      "time": 166.1,
+      "time_str": "02:46.100",
+      "text": "that we don't wanna fight no more",
+      "translation": "再也不会有枪声了"
+    },
+    {
+      "time": 169.01,
+      "time_str": "02:49.010",
+      "text": "they'll be no more wars",
+      "translation": "再也不会有战争了"
+    },
+    {
+      "time": 170.78,
+      "time_str": "02:50.780",
+      "text": "and our children will play",
+      "translation": "我们的孩子在阳光下嬉戏"
+    },
+    {
+      "time": 172.6,
+      "time_str": "02:52.600",
+      "text": "one day x6",
+      "translation": "有朝一日....."
+    },
+    {
+      "time": 207.0,
+      "time_str": "03:27.000",
+      "text": "END",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "One Day - Matisyahu.lrc"
+}

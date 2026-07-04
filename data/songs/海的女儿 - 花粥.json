@@ -1,0 +1,298 @@
+{
+  "title": "海的女儿",
+  "title_raw": "海的女儿",
+  "version": null,
+  "artist": "花粥",
+  "group_key": "海的女儿|花粥",
+  "writers": {
+    "lyricist": "汀洲/梅新杨",
+    "composer": "祝青/梅新杨",
+    "arranger": "大牛"
+  },
+  "lyrics": [
+    {
+      "time": 21.94,
+      "time_str": "00:21.940",
+      "text": "当我游过了一朵朵浪花",
+      "translation": null
+    },
+    {
+      "time": 26.65,
+      "time_str": "00:26.650",
+      "text": "当我越过了海底的尖塔",
+      "translation": null
+    },
+    {
+      "time": 31.09,
+      "time_str": "00:31.090",
+      "text": "我在灯火辉煌的海面上",
+      "translation": null
+    },
+    {
+      "time": 36.44,
+      "time_str": "00:36.440",
+      "text": "看见了他",
+      "translation": null
+    },
+    {
+      "time": 40.36,
+      "time_str": "00:40.360",
+      "text": "残忍的海浪向船只落下",
+      "translation": null
+    },
+    {
+      "time": 44.88,
+      "time_str": "00:44.880",
+      "text": "退去只剩残甲",
+      "translation": null
+    },
+    {
+      "time": 49.51,
+      "time_str": "00:49.510",
+      "text": "终于找到他 不敢叫醒他",
+      "translation": null
+    },
+    {
+      "time": 58.82,
+      "time_str": "00:58.820",
+      "text": "那是一片深蓝色的海啊",
+      "translation": null
+    },
+    {
+      "time": 63.59,
+      "time_str": "01:03.590",
+      "text": "那是我一见钟情的人呐",
+      "translation": null
+    },
+    {
+      "time": 68.07,
+      "time_str": "01:08.070",
+      "text": "这时一切就像一场童话",
+      "translation": null
+    },
+    {
+      "time": 72.24,
+      "time_str": "01:12.240",
+      "text": "一颗心 全都是他",
+      "translation": null
+    },
+    {
+      "time": 77.44,
+      "time_str": "01:17.440",
+      "text": "想象你会在我面前捧花",
+      "translation": null
+    },
+    {
+      "time": 81.78,
+      "time_str": "01:21.780",
+      "text": "陪我度过那最美丽的年华",
+      "translation": null
+    },
+    {
+      "time": 86.46,
+      "time_str": "01:26.460",
+      "text": "一起去看那海上",
+      "translation": null
+    },
+    {
+      "time": 89.25,
+      "time_str": "01:29.250",
+      "text": "最动人的晚霞",
+      "translation": null
+    },
+    {
+      "time": 114.46,
+      "time_str": "01:54.460",
+      "text": "当我失去了漂亮的尾巴",
+      "translation": null
+    },
+    {
+      "time": 118.96,
+      "time_str": "01:58.960",
+      "text": "当我背负着神奇的魔法",
+      "translation": null
+    },
+    {
+      "time": 123.46,
+      "time_str": "02:03.460",
+      "text": "今后不能唱歌 不会说话",
+      "translation": null
+    },
+    {
+      "time": 128.6,
+      "time_str": "02:08.600",
+      "text": "变成了哑巴",
+      "translation": null
+    },
+    {
+      "time": 132.82,
+      "time_str": "02:12.820",
+      "text": "我曾在海浪中见过了他",
+      "translation": null
+    },
+    {
+      "time": 137.68,
+      "time_str": "02:17.680",
+      "text": "吻过那张脸颊",
+      "translation": null
+    },
+    {
+      "time": 142.04,
+      "time_str": "02:22.040",
+      "text": "而醒来之后 或许忘了吧",
+      "translation": null
+    },
+    {
+      "time": 151.09,
+      "time_str": "02:31.090",
+      "text": "那个一直被深爱的人啊",
+      "translation": null
+    },
+    {
+      "time": 155.83,
+      "time_str": "02:35.830",
+      "text": "现在有了最心爱的人呐",
+      "translation": null
+    },
+    {
+      "time": 160.61,
+      "time_str": "02:40.610",
+      "text": "也许这才是真正的童话",
+      "translation": null
+    },
+    {
+      "time": 164.27,
+      "time_str": "02:44.270",
+      "text": "而主角变成了她",
+      "translation": null
+    },
+    {
+      "time": 169.84,
+      "time_str": "02:49.840",
+      "text": "虽然没能在我面前捧花",
+      "translation": null
+    },
+    {
+      "time": 174.43,
+      "time_str": "02:54.430",
+      "text": "但我看过你最美丽的年华",
+      "translation": null
+    },
+    {
+      "time": 178.72,
+      "time_str": "02:58.720",
+      "text": "还记得那天晚上",
+      "translation": null
+    },
+    {
+      "time": 181.57,
+      "time_str": "03:01.570",
+      "text": "你眼里的晚霞",
+      "translation": null
+    },
+    {
+      "time": 188.13,
+      "time_str": "03:08.130",
+      "text": "我听说人间有最绚丽的春夏",
+      "translation": null
+    },
+    {
+      "time": 192.81,
+      "time_str": "03:12.810",
+      "text": "那里藏着少年美好的梦啊",
+      "translation": null
+    },
+    {
+      "time": 197.44,
+      "time_str": "03:17.440",
+      "text": "可当时的那个人呀",
+      "translation": null
+    },
+    {
+      "time": 201.33,
+      "time_str": "03:21.330",
+      "text": "却不见啦",
+      "translation": null
+    },
+    {
+      "time": 206.39,
+      "time_str": "03:26.390",
+      "text": "我沉入那片深蓝色的海啊",
+      "translation": null
+    },
+    {
+      "time": 211.03,
+      "time_str": "03:31.030",
+      "text": "泡沫就像雪花 渐渐地融化",
+      "translation": null
+    },
+    {
+      "time": 215.83,
+      "time_str": "03:35.830",
+      "text": "等到往事碎成细沙",
+      "translation": null
+    },
+    {
+      "time": 219.62,
+      "time_str": "03:39.620",
+      "text": "就忘了他",
+      "translation": null
+    },
+    {
+      "time": 224.88,
+      "time_str": "03:44.880",
+      "text": "可就算往事碎成细沙",
+      "translation": null
+    },
+    {
+      "time": 228.93,
+      "time_str": "03:48.930",
+      "text": "也忘不了吧",
+      "translation": null
+    },
+    {
+      "time": 234.09,
+      "time_str": "03:54.090",
+      "text": "制作人Producer:王晨雨@S.A.G",
+      "translation": null
+    },
+    {
+      "time": 235.73,
+      "time_str": "03:55.730",
+      "text": "吉他Guitar:大牛",
+      "translation": null
+    },
+    {
+      "time": 236.83,
+      "time_str": "03:56.830",
+      "text": "混音&母带Mixing & Mastering:王晨雨@S.A.G",
+      "translation": null
+    },
+    {
+      "time": 238.11,
+      "time_str": "03:58.110",
+      "text": "录音师Recording:徐乃麟",
+      "translation": null
+    },
+    {
+      "time": 239.47,
+      "time_str": "03:59.470",
+      "text": "录音棚Recording Studio:安得音乐Studio",
+      "translation": null
+    },
+    {
+      "time": 240.55,
+      "time_str": "04:00.550",
+      "text": "统筹Coordinator:大周、岩波",
+      "translation": null
+    },
+    {
+      "time": 241.35,
+      "time_str": "04:01.350",
+      "text": "特别鸣谢(小号):陈伟伦",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "海的女儿 - 花粥.lrc"
+}

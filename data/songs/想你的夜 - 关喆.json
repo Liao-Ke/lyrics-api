@@ -1,0 +1,232 @@
+{
+  "title": "想你的夜",
+  "title_raw": "想你的夜",
+  "version": null,
+  "artist": "关喆",
+  "group_key": "想你的夜|关喆",
+  "writers": {
+    "lyricist": "关喆",
+    "composer": "关喆",
+    "arranger": "关喆"
+  },
+  "lyrics": [
+    {
+      "time": 10.84,
+      "time_str": "00:10.840",
+      "text": "分手那天",
+      "translation": null
+    },
+    {
+      "time": 14.84,
+      "time_str": "00:14.840",
+      "text": "我看着你走远",
+      "translation": null
+    },
+    {
+      "time": 18.96,
+      "time_str": "00:18.960",
+      "text": "所有承诺化成了句点",
+      "translation": null
+    },
+    {
+      "time": 25.96,
+      "time_str": "00:25.960",
+      "text": "独自守在空荡的房间",
+      "translation": null
+    },
+    {
+      "time": 34.71,
+      "time_str": "00:34.710",
+      "text": "爱与痛在我心里纠缠",
+      "translation": null
+    },
+    {
+      "time": 41.09,
+      "time_str": "00:41.090",
+      "text": "我们的爱走到了今天",
+      "translation": null
+    },
+    {
+      "time": 48.4,
+      "time_str": "00:48.400",
+      "text": "是不是我太自私了一点",
+      "translation": null
+    },
+    {
+      "time": 58.27,
+      "time_str": "00:58.270",
+      "text": "如果爱可以重来",
+      "translation": null
+    },
+    {
+      "time": 65.4,
+      "time_str": "01:05.400",
+      "text": "我会为你放弃一切",
+      "translation": null
+    },
+    {
+      "time": 71.77,
+      "time_str": "01:11.770",
+      "text": "想你的夜",
+      "translation": null
+    },
+    {
+      "time": 75.58,
+      "time_str": "01:15.580",
+      "text": "多希望你能在我身边",
+      "translation": null
+    },
+    {
+      "time": 79.83,
+      "time_str": "01:19.830",
+      "text": "不知道你心里还能否为我改变",
+      "translation": null
+    },
+    {
+      "time": 87.08,
+      "time_str": "01:27.080",
+      "text": "想你的夜",
+      "translation": null
+    },
+    {
+      "time": 90.96,
+      "time_str": "01:30.960",
+      "text": "求你让我再爱你一遍",
+      "translation": null
+    },
+    {
+      "time": 95.34,
+      "time_str": "01:35.340",
+      "text": "让爱再回到原点",
+      "translation": null
+    },
+    {
+      "time": 115.21,
+      "time_str": "01:55.210",
+      "text": "分手那天",
+      "translation": null
+    },
+    {
+      "time": 118.59,
+      "time_str": "01:58.590",
+      "text": "我看着你走远",
+      "translation": null
+    },
+    {
+      "time": 123.4,
+      "time_str": "02:03.400",
+      "text": "所有承诺化成了句点",
+      "translation": null
+    },
+    {
+      "time": 130.21,
+      "time_str": "02:10.210",
+      "text": "独自守在空荡的房间",
+      "translation": null
+    },
+    {
+      "time": 138.9,
+      "time_str": "02:18.900",
+      "text": "爱与痛在我心里纠缠",
+      "translation": null
+    },
+    {
+      "time": 145.58,
+      "time_str": "02:25.580",
+      "text": "我们的爱走到了今天",
+      "translation": null
+    },
+    {
+      "time": 152.84,
+      "time_str": "02:32.840",
+      "text": "是不是我太自私了一点",
+      "translation": null
+    },
+    {
+      "time": 162.77,
+      "time_str": "02:42.770",
+      "text": "如果爱可以重来",
+      "translation": null
+    },
+    {
+      "time": 169.96,
+      "time_str": "02:49.960",
+      "text": "我会为你放弃一切",
+      "translation": null
+    },
+    {
+      "time": 176.15,
+      "time_str": "02:56.150",
+      "text": "想你的夜",
+      "translation": null
+    },
+    {
+      "time": 179.4,
+      "time_str": "02:59.400",
+      "text": "多希望你能在我身边",
+      "translation": null
+    },
+    {
+      "time": 184.34,
+      "time_str": "03:04.340",
+      "text": "不知道你心里还能否为我改变",
+      "translation": null
+    },
+    {
+      "time": 191.77,
+      "time_str": "03:11.770",
+      "text": "想你的夜",
+      "translation": null
+    },
+    {
+      "time": 194.96,
+      "time_str": "03:14.960",
+      "text": "求你让我再爱你一遍",
+      "translation": null
+    },
+    {
+      "time": 199.77,
+      "time_str": "03:19.770",
+      "text": "让爱再回到原点",
+      "translation": null
+    },
+    {
+      "time": 207.28,
+      "time_str": "03:27.280",
+      "text": "想你的夜",
+      "translation": null
+    },
+    {
+      "time": 210.96,
+      "time_str": "03:30.960",
+      "text": "多希望你能在我身边",
+      "translation": null
+    },
+    {
+      "time": 215.53,
+      "time_str": "03:35.530",
+      "text": "不知道你心里还能否为我改变",
+      "translation": null
+    },
+    {
+      "time": 222.71,
+      "time_str": "03:42.710",
+      "text": "想你的夜",
+      "translation": null
+    },
+    {
+      "time": 226.15,
+      "time_str": "03:46.150",
+      "text": "求你让我再爱你一遍",
+      "translation": null
+    },
+    {
+      "time": 230.78,
+      "time_str": "03:50.780",
+      "text": "让爱再回到原点",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "想你的夜 - 关喆.lrc"
+}

@@ -1,0 +1,232 @@
+{
+  "title": "Need You Now",
+  "title_raw": "Need You Now (iTunes Session)",
+  "version": "iTunes Session",
+  "artist": "Lady A",
+  "group_key": "need you now|lady a",
+  "writers": {
+    "lyricist": "Haywood, David Wesley / Kear, Joshua Peter / Kelley, Charles",
+    "composer": "Charles Kelley/Hillary Scott/Dave Haywood/Josh Kear",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.4,
+      "time_str": "00:18.400",
+      "text": "Picture perfect memories scattered",
+      "translation": "在脑海绘满美好回忆"
+    },
+    {
+      "time": 21.14,
+      "time_str": "00:21.140",
+      "text": "All around the floor",
+      "translation": "任它在地上零乱"
+    },
+    {
+      "time": 27.22,
+      "time_str": "00:27.220",
+      "text": "Reaching for the phone",
+      "translation": "伸手去拿手机"
+    },
+    {
+      "time": 28.99,
+      "time_str": "00:28.990",
+      "text": "'Cause I can't fight it anymore",
+      "translation": "我已无法忍受"
+    },
+    {
+      "time": 35.28,
+      "time_str": "00:35.280",
+      "text": "And I wonder if I ever cross your mind",
+      "translation": "我好奇我是否曾在你脑海中一闪而过"
+    },
+    {
+      "time": 44.09,
+      "time_str": "00:44.090",
+      "text": "For me it happens all the time",
+      "translation": "对我来说，还是会忍不住想你"
+    },
+    {
+      "time": 49.5,
+      "time_str": "00:49.500",
+      "text": "It's a quarter after one I'm all alone",
+      "translation": "凌晨一点一刻，我却孤身一人"
+    },
+    {
+      "time": 53.78,
+      "time_str": "00:53.780",
+      "text": "And I need you now",
+      "translation": "此刻想念你的陪伴"
+    },
+    {
+      "time": 58.88,
+      "time_str": "00:58.880",
+      "text": "Said I wouldn't call",
+      "translation": "早已说过不再打给你"
+    },
+    {
+      "time": 60.53,
+      "time_str": "01:00.530",
+      "text": "But I lost all control and I need you now",
+      "translation": "但我失去控制，急需你的到来"
+    },
+    {
+      "time": 67.54,
+      "time_str": "01:07.540",
+      "text": "And I don't know how I can do without",
+      "translation": "没有你陪，不知该怎样度过"
+    },
+    {
+      "time": 72.59,
+      "time_str": "01:12.590",
+      "text": "I just need you now",
+      "translation": "现在只想你伴我左右"
+    },
+    {
+      "time": 83.88,
+      "time_str": "01:23.880",
+      "text": "Another shot of whiskey",
+      "translation": "再来一杯威士忌"
+    },
+    {
+      "time": 86.18,
+      "time_str": "01:26.180",
+      "text": "Can't stop looking at the door",
+      "translation": "不住向门外张望"
+    },
+    {
+      "time": 92.75,
+      "time_str": "01:32.750",
+      "text": "Wishing you  come sweeping",
+      "translation": "多希望你能造访"
+    },
+    {
+      "time": 95.04,
+      "time_str": "01:35.040",
+      "text": "In the way you did before",
+      "translation": "像从前那样出现"
+    },
+    {
+      "time": 101.08,
+      "time_str": "01:41.080",
+      "text": "And I wonder if I ever cross your mind",
+      "translation": "我好奇我是否曾在你脑海中一闪而过"
+    },
+    {
+      "time": 109.62,
+      "time_str": "01:49.620",
+      "text": "For me it happens all the time",
+      "translation": "对我来说，还是会忍不住想你"
+    },
+    {
+      "time": 114.82,
+      "time_str": "01:54.820",
+      "text": "It's a quarter after one I'm a little drunk",
+      "translation": "凌晨一点一刻，酒后微醺"
+    },
+    {
+      "time": 119.04,
+      "time_str": "01:59.040",
+      "text": "And I need you now",
+      "translation": "此刻想念你的陪伴"
+    },
+    {
+      "time": 124.03,
+      "time_str": "02:04.030",
+      "text": "Said I wouldn't call but I lost all control",
+      "translation": "早已说过不再打给你，但我已失去理智"
+    },
+    {
+      "time": 127.9,
+      "time_str": "02:07.900",
+      "text": "And I need you now",
+      "translation": "此刻我无比需要你"
+    },
+    {
+      "time": 132.57,
+      "time_str": "02:12.570",
+      "text": "And I don't know how I can do without",
+      "translation": "没有你陪，不知该怎样度过"
+    },
+    {
+      "time": 137.59,
+      "time_str": "02:17.590",
+      "text": "I just need you now",
+      "translation": "现在只想你伴我左右"
+    },
+    {
+      "time": 148.19,
+      "time_str": "02:28.190",
+      "text": "Ooh",
+      "translation": null
+    },
+    {
+      "time": 156.38,
+      "time_str": "02:36.380",
+      "text": "I guess I'd rather hurt than feel nothing at all",
+      "translation": "宁可伤痕累累，也不愿麻木不仁"
+    },
+    {
+      "time": 165.19,
+      "time_str": "02:45.190",
+      "text": "I guess I'd rather hurt",
+      "translation": "宁可遍体鳞伤"
+    },
+    {
+      "time": 167.9,
+      "time_str": "02:47.900",
+      "text": "Than feel nothing at all",
+      "translation": "也绝不冷若冰霜"
+    },
+    {
+      "time": 176.39,
+      "time_str": "02:56.390",
+      "text": "It's a quarter after one",
+      "translation": "凌晨一点一刻"
+    },
+    {
+      "time": 179.17,
+      "time_str": "02:59.170",
+      "text": "I'm all alone and I need you now",
+      "translation": "我孤身一人，此刻想念你的陪伴"
+    },
+    {
+      "time": 185.46,
+      "time_str": "03:05.460",
+      "text": "And I said I wouldn't call",
+      "translation": "早已说过不再打给你"
+    },
+    {
+      "time": 188.33,
+      "time_str": "03:08.330",
+      "text": "But I'm a little drunk and I need you now",
+      "translation": "酒后微醺，此刻想念你的陪伴"
+    },
+    {
+      "time": 194.47,
+      "time_str": "03:14.470",
+      "text": "And I don't know how I can do without",
+      "translation": "没有你陪，不知该怎样度过"
+    },
+    {
+      "time": 199.53,
+      "time_str": "03:19.530",
+      "text": "I just need you now",
+      "translation": "现在只想你伴我左右"
+    },
+    {
+      "time": 208.42,
+      "time_str": "03:28.420",
+      "text": "I just need you now",
+      "translation": "从未如此需要你"
+    },
+    {
+      "time": 225.89,
+      "time_str": "03:45.890",
+      "text": "Oh baby I need you now",
+      "translation": "宝贝，我需要你"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Need You Now (iTunes Session) - Lady A.lrc"
+}

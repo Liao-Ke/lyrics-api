@@ -1,0 +1,196 @@
+{
+  "title": "谪仙",
+  "title_raw": "谪仙",
+  "version": null,
+  "artist": "伊格赛听,叶里",
+  "group_key": "谪仙|伊格赛听,叶里",
+  "writers": {
+    "lyricist": "王莹",
+    "composer": "王中易",
+    "arranger": "刘哲宇"
+  },
+  "lyrics": [
+    {
+      "time": 0.6,
+      "time_str": "00:00.600",
+      "text": "谪仙-伊格赛听/叶里",
+      "translation": null
+    },
+    {
+      "time": 3.46,
+      "time_str": "00:03.460",
+      "text": "策划：李亚男",
+      "translation": null
+    },
+    {
+      "time": 12.21,
+      "time_str": "00:12.210",
+      "text": "仙歌音  玉笛灵  酒盏玉露清",
+      "translation": null
+    },
+    {
+      "time": 18.77,
+      "time_str": "00:18.770",
+      "text": "剑舞轻   潇洒过白袍影",
+      "translation": null
+    },
+    {
+      "time": 25.65,
+      "time_str": "00:25.650",
+      "text": "新殿又细雕流金   声声箜篌鸣",
+      "translation": null
+    },
+    {
+      "time": 32.84,
+      "time_str": "00:32.840",
+      "text": "一笔浓墨留诗狂情",
+      "translation": null
+    },
+    {
+      "time": 39.08,
+      "time_str": "00:39.080",
+      "text": "玉袍长剑堪风流",
+      "translation": null
+    },
+    {
+      "time": 43.15,
+      "time_str": "00:43.150",
+      "text": "山川不念旧",
+      "translation": null
+    },
+    {
+      "time": 45.65,
+      "time_str": "00:45.650",
+      "text": "赋诗为狂也无有愁",
+      "translation": null
+    },
+    {
+      "time": 52.21,
+      "time_str": "00:52.210",
+      "text": "称谪仙瑶宫难留",
+      "translation": null
+    },
+    {
+      "time": 55.34,
+      "time_str": "00:55.340",
+      "text": "去凡间红楼斗酒",
+      "translation": null
+    },
+    {
+      "time": 59.084,
+      "time_str": "00:59.084",
+      "text": "多情眸   落墨诗卷又几斗",
+      "translation": null
+    },
+    {
+      "time": 65.332,
+      "time_str": "01:05.332",
+      "text": "斟世间最烈的酒",
+      "translation": null
+    },
+    {
+      "time": 69.091,
+      "time_str": "01:09.091",
+      "text": "卧长安巍巍高楼",
+      "translation": null
+    },
+    {
+      "time": 72.515,
+      "time_str": "01:12.515",
+      "text": "看尽天下何人可似他无忧",
+      "translation": null
+    },
+    {
+      "time": 92.515,
+      "time_str": "01:32.515",
+      "text": "玉袍长剑堪风流",
+      "translation": null
+    },
+    {
+      "time": 96.265,
+      "time_str": "01:36.265",
+      "text": "山川不念旧",
+      "translation": null
+    },
+    {
+      "time": 99.083,
+      "time_str": "01:39.083",
+      "text": "赋诗为狂也无有愁",
+      "translation": null
+    },
+    {
+      "time": 105.643,
+      "time_str": "01:45.643",
+      "text": "称谪仙瑶宫难留",
+      "translation": null
+    },
+    {
+      "time": 108.765,
+      "time_str": "01:48.765",
+      "text": "去凡间红楼斗酒",
+      "translation": null
+    },
+    {
+      "time": 112.205,
+      "time_str": "01:52.205",
+      "text": "多情眸   落墨诗卷又几斗",
+      "translation": null
+    },
+    {
+      "time": 119.083,
+      "time_str": "01:59.083",
+      "text": "斟世间最烈的酒",
+      "translation": null
+    },
+    {
+      "time": 122.201,
+      "time_str": "02:02.201",
+      "text": "卧长安巍巍高楼",
+      "translation": null
+    },
+    {
+      "time": 125.643,
+      "time_str": "02:05.643",
+      "text": "看尽天下何人可似他无忧",
+      "translation": null
+    },
+    {
+      "time": 132.201,
+      "time_str": "02:12.201",
+      "text": "称谪仙瑶宫难留",
+      "translation": null
+    },
+    {
+      "time": 135.332,
+      "time_str": "02:15.332",
+      "text": "去凡间红楼斗酒",
+      "translation": null
+    },
+    {
+      "time": 139.07,
+      "time_str": "02:19.070",
+      "text": "多情眸   落墨诗卷又几斗",
+      "translation": null
+    },
+    {
+      "time": 145.643,
+      "time_str": "02:25.643",
+      "text": "斟世间最烈的酒",
+      "translation": null
+    },
+    {
+      "time": 148.762,
+      "time_str": "02:28.762",
+      "text": "卧长安巍巍高楼",
+      "translation": null
+    },
+    {
+      "time": 152.203,
+      "time_str": "02:32.203",
+      "text": "看尽天下何人可似他无忧",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "谪仙 - 伊格赛听,叶里.lrc"
+}

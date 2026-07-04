@@ -1,0 +1,112 @@
+{
+  "title": "四季歌",
+  "title_raw": "四季歌",
+  "version": null,
+  "artist": "姜苏,柏菲音乐",
+  "group_key": "四季歌|姜苏,柏菲音乐",
+  "writers": {
+    "lyricist": "田汉",
+    "composer": "贺绿汀",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 36.46,
+      "time_str": "00:36.460",
+      "text": "春季到来绿满窗,",
+      "translation": null
+    },
+    {
+      "time": 39.78,
+      "time_str": "00:39.780",
+      "text": "大姑娘窗下绣鸳鸯.",
+      "translation": null
+    },
+    {
+      "time": 43.37,
+      "time_str": "00:43.370",
+      "text": "忽然一阵无情棒,",
+      "translation": null
+    },
+    {
+      "time": 48.27,
+      "time_str": "00:48.270",
+      "text": "打得鸳鸯各一方.",
+      "translation": null
+    },
+    {
+      "time": 65.03,
+      "time_str": "01:05.030",
+      "text": "夏季到来柳丝长,",
+      "translation": null
+    },
+    {
+      "time": 68.41,
+      "time_str": "01:08.410",
+      "text": "大姑娘漂泊到长江.",
+      "translation": null
+    },
+    {
+      "time": 72.17,
+      "time_str": "01:12.170",
+      "text": "江南江北风光好,",
+      "translation": null
+    },
+    {
+      "time": 76.8,
+      "time_str": "01:16.800",
+      "text": "怎及青纱起高粱.",
+      "translation": null
+    },
+    {
+      "time": 89.05,
+      "time_str": "01:29.050",
+      "text": "秋季到来荷花香,",
+      "translation": null
+    },
+    {
+      "time": 92.56,
+      "time_str": "01:32.560",
+      "text": "大姑娘夜夜梦家乡.",
+      "translation": null
+    },
+    {
+      "time": 96.01,
+      "time_str": "01:36.010",
+      "text": "醒来不见爹娘面,",
+      "translation": null
+    },
+    {
+      "time": 100.77,
+      "time_str": "01:40.770",
+      "text": "只见窗前明月光.",
+      "translation": null
+    },
+    {
+      "time": 124.3,
+      "time_str": "02:04.300",
+      "text": "冬季到来雪茫茫,",
+      "translation": null
+    },
+    {
+      "time": 129.57,
+      "time_str": "02:09.570",
+      "text": "寒衣做好送情郎.",
+      "translation": null
+    },
+    {
+      "time": 135.9,
+      "time_str": "02:15.900",
+      "text": "血肉筑出长城长,",
+      "translation": null
+    },
+    {
+      "time": 144.0,
+      "time_str": "02:24.000",
+      "text": "奴愿做当年小孟姜.",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "四季歌 - 姜苏,柏菲音乐.lrc"
+}

@@ -1,0 +1,262 @@
+{
+  "title": "座右铭",
+  "title_raw": "座右铭",
+  "version": null,
+  "artist": "吴雨霏",
+  "group_key": "座右铭|吴雨霏",
+  "writers": {
+    "lyricist": "方杰",
+    "composer": "Walter Wong",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.479,
+      "time_str": "00:16.479",
+      "text": "很信命当我每次哭 亦只有吉他声",
+      "translation": null
+    },
+    {
+      "time": 23.219,
+      "time_str": "00:23.219",
+      "text": "喃喃自语数星星 孤单也像注定",
+      "translation": null
+    },
+    {
+      "time": 30.26,
+      "time_str": "00:30.260",
+      "text": "祈求被爱的温馨",
+      "translation": null
+    },
+    {
+      "time": 32.89,
+      "time_str": "00:32.890",
+      "text": "呼天都不应 已经很适应",
+      "translation": null
+    },
+    {
+      "time": 37.519,
+      "time_str": "00:37.519",
+      "text": "我心事谁又会在意想听",
+      "translation": null
+    },
+    {
+      "time": 44.539,
+      "time_str": "00:44.539",
+      "text": "很冷静知道我爱的 定把我当布景",
+      "translation": null
+    },
+    {
+      "time": 51.489,
+      "time_str": "00:51.489",
+      "text": "平凡像我这一种 今天要认了命",
+      "translation": null
+    },
+    {
+      "time": 57.79,
+      "time_str": "00:57.790",
+      "text": "才能学会不贪心",
+      "translation": null
+    },
+    {
+      "time": 61.219,
+      "time_str": "01:01.219",
+      "text": "碰不到恋爱 也毫无反应",
+      "translation": null
+    },
+    {
+      "time": 66.489,
+      "time_str": "01:06.489",
+      "text": "单恋双恋失恋 说穿了尽是陷阱",
+      "translation": null
+    },
+    {
+      "time": 69.529,
+      "time_str": "01:09.529",
+      "text": "放手得我有这本领",
+      "translation": null
+    },
+    {
+      "time": 72.969,
+      "time_str": "01:12.969",
+      "text": "一个自爱也好 越对我好",
+      "translation": null
+    },
+    {
+      "time": 77.129,
+      "time_str": "01:17.129",
+      "text": "越需要控制我反应",
+      "translation": null
+    },
+    {
+      "time": 80.199,
+      "time_str": "01:20.199",
+      "text": "对未来没信心 怎张开眼睛",
+      "translation": null
+    },
+    {
+      "time": 87.739,
+      "time_str": "01:27.739",
+      "text": "花花世界太过美 哪有我踪影",
+      "translation": null
+    },
+    {
+      "time": 91.759,
+      "time_str": "01:31.759",
+      "text": "怕有天放心后 才给我最爱抛弃",
+      "translation": null
+    },
+    {
+      "time": 96.459,
+      "time_str": "01:36.459",
+      "text": "我要谨守我座右铭",
+      "translation": null
+    },
+    {
+      "time": 112.899,
+      "time_str": "01:52.899",
+      "text": "很信命不信有美好 幸福过更冷清",
+      "translation": null
+    },
+    {
+      "time": 119.369,
+      "time_str": "01:59.369",
+      "text": "同情没法把不安 驱走以示确定",
+      "translation": null
+    },
+    {
+      "time": 126.459,
+      "time_str": "02:06.459",
+      "text": "原来避免输不起",
+      "translation": null
+    },
+    {
+      "time": 129.759,
+      "time_str": "02:09.759",
+      "text": "退出的方法 叫遗忘本性",
+      "translation": null
+    },
+    {
+      "time": 134.779,
+      "time_str": "02:14.779",
+      "text": "不甘不忍不想",
+      "translation": null
+    },
+    {
+      "time": 137.4,
+      "time_str": "02:17.400",
+      "text": "我只有越坐越静",
+      "translation": null
+    },
+    {
+      "time": 138.059,
+      "time_str": "02:18.059",
+      "text": "我的快乐就像泡影",
+      "translation": null
+    },
+    {
+      "time": 141.439,
+      "time_str": "02:21.439",
+      "text": "一个自爱也好",
+      "translation": null
+    },
+    {
+      "time": 143.92,
+      "time_str": "02:23.920",
+      "text": "越对我好 越需要控制我反应",
+      "translation": null
+    },
+    {
+      "time": 148.349,
+      "time_str": "02:28.349",
+      "text": "对未来没信心 怎张开眼睛",
+      "translation": null
+    },
+    {
+      "time": 155.399,
+      "time_str": "02:35.399",
+      "text": "花花世界太过美 哪有我踪影",
+      "translation": null
+    },
+    {
+      "time": 159.42,
+      "time_str": "02:39.420",
+      "text": "怕有天放心后 才给我最爱抛弃",
+      "translation": null
+    },
+    {
+      "time": 164.079,
+      "time_str": "02:44.079",
+      "text": "我要谨守我座右铭",
+      "translation": null
+    },
+    {
+      "time": 181.02,
+      "time_str": "03:01.020",
+      "text": "派对满布爱情来临的风景",
+      "translation": null
+    },
+    {
+      "time": 185.09,
+      "time_str": "03:05.090",
+      "text": "独自妒忌别人谁能够高兴",
+      "translation": null
+    },
+    {
+      "time": 187.699,
+      "time_str": "03:07.699",
+      "text": "注定无人来示爱 我都不作声",
+      "translation": null
+    },
+    {
+      "time": 194.7,
+      "time_str": "03:14.700",
+      "text": "即使一个自爱也好",
+      "translation": null
+    },
+    {
+      "time": 196.949,
+      "time_str": "03:16.949",
+      "text": "越对我好 越需要控制我反应",
+      "translation": null
+    },
+    {
+      "time": 201.369,
+      "time_str": "03:21.369",
+      "text": "对未来还没信心 怎张开眼睛",
+      "translation": null
+    },
+    {
+      "time": 208.399,
+      "time_str": "03:28.399",
+      "text": "花花世界太过美 哪有我踪影",
+      "translation": null
+    },
+    {
+      "time": 212.369,
+      "time_str": "03:32.369",
+      "text": "有更心跳选择 而比我远远优胜",
+      "translation": null
+    },
+    {
+      "time": 217.029,
+      "time_str": "03:37.029",
+      "text": "如何专一都想转性",
+      "translation": null
+    },
+    {
+      "time": 223.4,
+      "time_str": "03:43.400",
+      "text": "与情人齐眉白发",
+      "translation": null
+    },
+    {
+      "time": 225.349,
+      "time_str": "03:45.349",
+      "text": "问谁可保证",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "座右铭 - 吴雨霏.lrc"
+}

@@ -1,0 +1,298 @@
+{
+  "title": "Let Her Go",
+  "title_raw": "Let Her Go",
+  "version": null,
+  "artist": "Passenger",
+  "group_key": "let her go|passenger",
+  "writers": {
+    "lyricist": "Mike Rosenberg",
+    "composer": "Mike Rosenberg",
+    "arranger": "Passenger/Chris Vallejo"
+  },
+  "lyrics": [
+    {
+      "time": 26.2,
+      "time_str": "00:26.200",
+      "text": "Well you only need the light when it's burning low",
+      "translation": "只有在朦胧黯淡时才念及灯火光亮"
+    },
+    {
+      "time": 29.5,
+      "time_str": "00:29.500",
+      "text": "Only miss the sun when it starts to snow",
+      "translation": "只有在冰天雪地时才怀念阳光温暖"
+    },
+    {
+      "time": 32.3,
+      "time_str": "00:32.300",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在已然放手后才始知那是真爱"
+    },
+    {
+      "time": 38.3,
+      "time_str": "00:38.300",
+      "text": "Only know you've been high when you're feeling low",
+      "translation": "只有在身处低谷时才遥想过去峥嵘"
+    },
+    {
+      "time": 42.3,
+      "time_str": "00:42.300",
+      "text": "Only hate the road when you're missing home",
+      "translation": "只有在乡愁涌动时才痛恨旅途遥远"
+    },
+    {
+      "time": 46.0,
+      "time_str": "00:46.000",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在让她走之后才始知那是真爱"
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "And you let her go",
+      "translation": "你却让她走了"
+    },
+    {
+      "time": 66.0,
+      "time_str": "01:06.000",
+      "text": "Staring at the bottom of your glass",
+      "translation": "酒杯已空，醉然凝视。"
+    },
+    {
+      "time": 67.5,
+      "time_str": "01:07.500",
+      "text": "Hoping one day you'll make a dream last",
+      "translation": "希望有一天，你能让梦持续。"
+    },
+    {
+      "time": 71.2,
+      "time_str": "01:11.200",
+      "text": "But dreams come slow and they go so fast",
+      "translation": "但是梦想来的太慢，走得太快。"
+    },
+    {
+      "time": 78.3,
+      "time_str": "01:18.300",
+      "text": "You see her when you close your eyes",
+      "translation": "闭上双眼，整个脑海都是她。"
+    },
+    {
+      "time": 80.4,
+      "time_str": "01:20.400",
+      "text": "Maybe one day you'll understand why",
+      "translation": "也许有一天，你会明白，"
+    },
+    {
+      "time": 83.4,
+      "time_str": "01:23.400",
+      "text": "Everything you touch surely dies",
+      "translation": "自己是如何亲手毁掉了一段爱情"
+    },
+    {
+      "time": 90.3,
+      "time_str": "01:30.300",
+      "text": "But you only need the light when it's burning low",
+      "translation": "但是你只需要朦胧暗淡时的光亮。"
+    },
+    {
+      "time": 93.5,
+      "time_str": "01:33.500",
+      "text": "Only miss the sun when it starts to snow",
+      "translation": "只有在冰天雪地时才怀念阳光温暖"
+    },
+    {
+      "time": 96.5,
+      "time_str": "01:36.500",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在让她走之后才始知那是真爱"
+    },
+    {
+      "time": 103.0,
+      "time_str": "01:43.000",
+      "text": "Only know you've been high when you're feeling low",
+      "translation": "只有在身处低谷时才遥想过去峥嵘"
+    },
+    {
+      "time": 107.0,
+      "time_str": "01:47.000",
+      "text": "Only hate the road when you're missing home",
+      "translation": "只有在乡愁涌动时才痛恨旅途遥远"
+    },
+    {
+      "time": 110.0,
+      "time_str": "01:50.000",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在让她走之后才始知那是真爱"
+    },
+    {
+      "time": 117.0,
+      "time_str": "01:57.000",
+      "text": "Staring at the ceiling in the dark",
+      "translation": "黑夜中你痴痴地望着天花板"
+    },
+    {
+      "time": 120.0,
+      "time_str": "02:00.000",
+      "text": "Same old empty feeling in your heart",
+      "translation": "又是熟悉的空虚寂寞侵袭着你的心"
+    },
+    {
+      "time": 122.2,
+      "time_str": "02:02.200",
+      "text": "Cause love comes slow and it goes so fast",
+      "translation": "爱情来的太慢，走得太快"
+    },
+    {
+      "time": 129.4,
+      "time_str": "02:09.400",
+      "text": "Well you see her when you fall asleep",
+      "translation": "如今你只得在梦里与她相见"
+    },
+    {
+      "time": 131.4,
+      "time_str": "02:11.400",
+      "text": "But never to touch and never to keep",
+      "translation": "可这梦脆弱的经不起触碰 经不起长久"
+    },
+    {
+      "time": 135.0,
+      "time_str": "02:15.000",
+      "text": "Cause you loved her too much and you dive too deep",
+      "translation": "你爱她越深 你亦而陷的越深"
+    },
+    {
+      "time": 140.3,
+      "time_str": "02:20.300",
+      "text": "Well you only need the light when it's burning low",
+      "translation": "只有在朦胧黯淡时才念及灯火光亮"
+    },
+    {
+      "time": 145.0,
+      "time_str": "02:25.000",
+      "text": "Only miss the sun when it starts to snow",
+      "translation": "只有在冰天雪地时才怀念阳光温暖"
+    },
+    {
+      "time": 148.0,
+      "time_str": "02:28.000",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在已然放手后才始知那是真爱"
+    },
+    {
+      "time": 154.0,
+      "time_str": "02:34.000",
+      "text": "Only know you've been high when you're feeling low",
+      "translation": "只有在身处低谷时才遥想过去峥嵘"
+    },
+    {
+      "time": 157.3,
+      "time_str": "02:37.300",
+      "text": "Only hate the road when you're missing home",
+      "translation": "只有在乡愁涌动时才痛恨旅途遥远"
+    },
+    {
+      "time": 161.0,
+      "time_str": "02:41.000",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在让她走之后才始知那是真爱"
+    },
+    {
+      "time": 166.0,
+      "time_str": "02:46.000",
+      "text": "And you let her go",
+      "translation": "你却让她走了"
+    },
+    {
+      "time": 173.2,
+      "time_str": "02:53.200",
+      "text": "And you let her go",
+      "translation": "你却让她走了"
+    },
+    {
+      "time": 179.4,
+      "time_str": "02:59.400",
+      "text": "Well you let her go",
+      "translation": "你却让她走了"
+    },
+    {
+      "time": 192.4,
+      "time_str": "03:12.400",
+      "text": "Cause you only need the light when it's burning low",
+      "translation": "因为你只需要在燃烧时的光"
+    },
+    {
+      "time": 196.0,
+      "time_str": "03:16.000",
+      "text": "Only miss the sun when it starts to snow",
+      "translation": "只有在冰天雪地时才怀念阳光温暖"
+    },
+    {
+      "time": 199.4,
+      "time_str": "03:19.400",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在让她走之后才始知那是真爱"
+    },
+    {
+      "time": 205.2,
+      "time_str": "03:25.200",
+      "text": "Only know you've been high when you're feeling low",
+      "translation": "只有在身处低谷时才遥想过去峥嵘"
+    },
+    {
+      "time": 209.0,
+      "time_str": "03:29.000",
+      "text": "Only hate the road when you're missing home",
+      "translation": "只有在乡愁涌动时才痛恨旅途遥远"
+    },
+    {
+      "time": 212.0,
+      "time_str": "03:32.000",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在让她走之后才始知那是真爱"
+    },
+    {
+      "time": 218.3,
+      "time_str": "03:38.300",
+      "text": "Cause you only need the light when it's burning low",
+      "translation": "因为你只需要在燃烧时的光"
+    },
+    {
+      "time": 222.0,
+      "time_str": "03:42.000",
+      "text": "Only miss the sun when it starts to snow",
+      "translation": "只有在冰天雪地时才怀念阳光温暖"
+    },
+    {
+      "time": 225.0,
+      "time_str": "03:45.000",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在让她走之后才始知那是真爱"
+    },
+    {
+      "time": 231.5,
+      "time_str": "03:51.500",
+      "text": "Only know you've been high when you're feeling low",
+      "translation": "只有在身处低谷时才遥想过去峥嵘"
+    },
+    {
+      "time": 236.0,
+      "time_str": "03:56.000",
+      "text": "Only hate the road when you're missing home",
+      "translation": "只有在乡愁涌动时才痛恨旅途遥远"
+    },
+    {
+      "time": 239.4,
+      "time_str": "03:59.400",
+      "text": "Only know you love her when you let her go",
+      "translation": "只有在让她走之后才始知那是真爱"
+    },
+    {
+      "time": 246.4,
+      "time_str": "04:06.400",
+      "text": "And you let her go",
+      "translation": "你却让她走了"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Let Her Go - Passenger.lrc"
+}

@@ -1,0 +1,202 @@
+{
+  "title": "仙女湖",
+  "title_raw": "仙女湖",
+  "version": null,
+  "artist": "群星",
+  "group_key": "仙女湖|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.264,
+      "time_str": "00:10.264",
+      "text": "演唱：徐千雅",
+      "translation": null
+    },
+    {
+      "time": 30.176,
+      "time_str": "00:30.176",
+      "text": "慢慢升起的薄雾",
+      "translation": null
+    },
+    {
+      "time": 34.453,
+      "time_str": "00:34.453",
+      "text": "渐渐凝成了露珠",
+      "translation": null
+    },
+    {
+      "time": 38.929,
+      "time_str": "00:38.929",
+      "text": "星星也站在高处",
+      "translation": null
+    },
+    {
+      "time": 44.1,
+      "time_str": "00:44.100",
+      "text": "暗暗地为她轻舞",
+      "translation": null
+    },
+    {
+      "time": 48.73,
+      "time_str": "00:48.730",
+      "text": "水波画她的眉目",
+      "translation": null
+    },
+    {
+      "time": 52.947,
+      "time_str": "00:52.947",
+      "text": "浪花绣她的衣服",
+      "translation": null
+    },
+    {
+      "time": 57.419,
+      "time_str": "00:57.419",
+      "text": "水声似她的脚步",
+      "translation": null
+    },
+    {
+      "time": 62.699,
+      "time_str": "01:02.699",
+      "text": "月光做她的饰物",
+      "translation": null
+    },
+    {
+      "time": 68.843,
+      "time_str": "01:08.843",
+      "text": "美丽的仙女湖",
+      "translation": null
+    },
+    {
+      "time": 73.666,
+      "time_str": "01:13.666",
+      "text": "轻风吹动两岸树",
+      "translation": null
+    },
+    {
+      "time": 78.648,
+      "time_str": "01:18.648",
+      "text": "传说中有他和她",
+      "translation": null
+    },
+    {
+      "time": 82.914,
+      "time_str": "01:22.914",
+      "text": "在这里把爱摆渡",
+      "translation": null
+    },
+    {
+      "time": 87.432,
+      "time_str": "01:27.432",
+      "text": "美丽的仙女湖",
+      "translation": null
+    },
+    {
+      "time": 92.7,
+      "time_str": "01:32.700",
+      "text": "白鹭在明镜上跳舞",
+      "translation": null
+    },
+    {
+      "time": 96.577,
+      "time_str": "01:36.577",
+      "text": "后来有无数的人",
+      "translation": null
+    },
+    {
+      "time": 101.306,
+      "time_str": "01:41.306",
+      "text": "寻找到他们的幸福",
+      "translation": null
+    },
+    {
+      "time": 117.876,
+      "time_str": "01:57.876",
+      "text": "水波画她的眉目",
+      "translation": null
+    },
+    {
+      "time": 133.727,
+      "time_str": "02:13.727",
+      "text": "浪花绣她的衣服",
+      "translation": null
+    },
+    {
+      "time": 138.197,
+      "time_str": "02:18.197",
+      "text": "水声似她的脚步",
+      "translation": null
+    },
+    {
+      "time": 142.872,
+      "time_str": "02:22.872",
+      "text": "月光做她的饰物",
+      "translation": null
+    },
+    {
+      "time": 147.489,
+      "time_str": "02:27.489",
+      "text": "美丽的仙女湖",
+      "translation": null
+    },
+    {
+      "time": 151.959,
+      "time_str": "02:31.959",
+      "text": "轻风吹动两岸树",
+      "translation": null
+    },
+    {
+      "time": 156.688,
+      "time_str": "02:36.688",
+      "text": "传说中有他和她",
+      "translation": null
+    },
+    {
+      "time": 160.903,
+      "time_str": "02:40.903",
+      "text": "在这里把爱摆渡",
+      "translation": null
+    },
+    {
+      "time": 165.731,
+      "time_str": "02:45.731",
+      "text": "美丽的仙女湖",
+      "translation": null
+    },
+    {
+      "time": 170.509,
+      "time_str": "02:50.509",
+      "text": "白鹭在明镜上跳舞",
+      "translation": null
+    },
+    {
+      "time": 175.137,
+      "time_str": "02:55.137",
+      "text": "后来有无数的人",
+      "translation": null
+    },
+    {
+      "time": 180.165,
+      "time_str": "03:00.165",
+      "text": "寻找到他们的幸福",
+      "translation": null
+    },
+    {
+      "time": 186.774,
+      "time_str": "03:06.774",
+      "text": "后来有无数的人",
+      "translation": null
+    },
+    {
+      "time": 190.89,
+      "time_str": "03:10.890",
+      "text": "寻找到他们的幸福",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "仙女湖 - 群星.lrc"
+}

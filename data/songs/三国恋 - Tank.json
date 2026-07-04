@@ -1,0 +1,208 @@
+{
+  "title": "三国恋",
+  "title_raw": "三国恋",
+  "version": null,
+  "artist": "Tank",
+  "group_key": "三国恋|tank",
+  "writers": {
+    "lyricist": "Tank/颜玺轩",
+    "composer": "Tank",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 30.097,
+      "time_str": "00:30.097",
+      "text": "将军 北方仓粮占据",
+      "translation": null
+    },
+    {
+      "time": 34.098,
+      "time_str": "00:34.098",
+      "text": "六马十二兵 等待你光临",
+      "translation": null
+    },
+    {
+      "time": 37.298,
+      "time_str": "00:37.298",
+      "text": "胡琴 诉说英勇事迹",
+      "translation": null
+    },
+    {
+      "time": 39.608,
+      "time_str": "00:39.608",
+      "text": "败军 向南远北方离",
+      "translation": null
+    },
+    {
+      "time": 44.48,
+      "time_str": "00:44.480",
+      "text": "家乡 在那美的远方",
+      "translation": null
+    },
+    {
+      "time": 46.088,
+      "time_str": "00:46.088",
+      "text": "期望在身上 梦想在流浪",
+      "translation": null
+    },
+    {
+      "time": 49.68,
+      "time_str": "00:49.680",
+      "text": "肩上 剩下的能量",
+      "translation": null
+    },
+    {
+      "time": 53.39,
+      "time_str": "00:53.390",
+      "text": "还能撑到什么地方",
+      "translation": null
+    },
+    {
+      "time": 55.768,
+      "time_str": "00:55.768",
+      "text": "等待良人归来那一刻 眼泪为你唱歌",
+      "translation": null
+    },
+    {
+      "time": 68.189,
+      "time_str": "01:08.189",
+      "text": "在我离你远去那一天 蓝色的雨下在我眼前",
+      "translation": null
+    },
+    {
+      "time": 75.088,
+      "time_str": "01:15.088",
+      "text": "骄傲的泪 不敢弃守我眼睛",
+      "translation": null
+    },
+    {
+      "time": 80.498,
+      "time_str": "01:20.498",
+      "text": "在我离你远去那一天 灰色的梦睡在我身边",
+      "translation": null
+    },
+    {
+      "time": 87.008,
+      "time_str": "01:27.008",
+      "text": "我早就该习惯没有你的夜 勇敢的面对",
+      "translation": null
+    },
+    {
+      "time": 99.738,
+      "time_str": "01:39.738",
+      "text": "赤壁 烽火连天战役",
+      "translation": null
+    },
+    {
+      "time": 104.699,
+      "time_str": "01:44.699",
+      "text": "只挂掉我们 七万个兄弟",
+      "translation": null
+    },
+    {
+      "time": 106.618,
+      "time_str": "01:46.618",
+      "text": "长江 水面写日记",
+      "translation": null
+    },
+    {
+      "time": 109.489,
+      "time_str": "01:49.489",
+      "text": "连你也能看见涟漪",
+      "translation": null
+    },
+    {
+      "time": 112.728,
+      "time_str": "01:52.728",
+      "text": "家乡 在那美的远方",
+      "translation": null
+    },
+    {
+      "time": 116.28,
+      "time_str": "01:56.280",
+      "text": "泪水背着光 安静而悲伤",
+      "translation": null
+    },
+    {
+      "time": 119.228,
+      "time_str": "01:59.228",
+      "text": "肩上 剩下的能量",
+      "translation": null
+    },
+    {
+      "time": 121.728,
+      "time_str": "02:01.728",
+      "text": "还能撑到什麽地方",
+      "translation": null
+    },
+    {
+      "time": 125.298,
+      "time_str": "02:05.298",
+      "text": "等待良人归来那一刻 眼泪为你唱歌",
+      "translation": null
+    },
+    {
+      "time": 137.657,
+      "time_str": "02:17.657",
+      "text": "在我离你远去那一天 蓝色的雨下在我眼前",
+      "translation": null
+    },
+    {
+      "time": 144.479,
+      "time_str": "02:24.479",
+      "text": "骄傲的泪 不敢弃守我眼睛",
+      "translation": null
+    },
+    {
+      "time": 151.38,
+      "time_str": "02:31.380",
+      "text": "在我离你远去那一天 灰色的梦睡在我身边",
+      "translation": null
+    },
+    {
+      "time": 157.36,
+      "time_str": "02:37.360",
+      "text": "我早就该习惯没有你的夜 勇敢的面对",
+      "translation": null
+    },
+    {
+      "time": 163.237,
+      "time_str": "02:43.237",
+      "text": "我试着面对 灰色的夜 还在眼前",
+      "translation": null
+    },
+    {
+      "time": 175.726,
+      "time_str": "02:55.726",
+      "text": "等待良人归来那一刻 眼泪为你唱歌",
+      "translation": null
+    },
+    {
+      "time": 188.37,
+      "time_str": "03:08.370",
+      "text": "在我离你远去那一天 蓝色的雨下在我眼前",
+      "translation": null
+    },
+    {
+      "time": 194.87,
+      "time_str": "03:14.870",
+      "text": "骄傲的泪 不敢弃守我眼睛",
+      "translation": null
+    },
+    {
+      "time": 200.797,
+      "time_str": "03:20.797",
+      "text": "在我离你远去那一天 灰色的梦睡在我身边",
+      "translation": null
+    },
+    {
+      "time": 207.288,
+      "time_str": "03:27.288",
+      "text": "我早就该习惯没有你的夜 勇敢的面对",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "三国恋 - Tank.lrc"
+}

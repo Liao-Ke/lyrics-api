@@ -1,0 +1,52 @@
+{
+  "title": "在那遥远的地方",
+  "title_raw": "在那遥远的地方",
+  "version": null,
+  "artist": "崔岩光",
+  "group_key": "在那遥远的地方|崔岩光",
+  "writers": {
+    "lyricist": "王洛宾",
+    "composer": "王洛宾",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 45.261,
+      "time_str": "00:45.261",
+      "text": "在那遥远的地方　有位好姑娘",
+      "translation": null
+    },
+    {
+      "time": 69.381,
+      "time_str": "01:09.381",
+      "text": "人说在那遥远的地方　有位好姑娘",
+      "translation": null
+    },
+    {
+      "time": 90.207,
+      "time_str": "01:30.207",
+      "text": "奔向她的身旁",
+      "translation": null
+    },
+    {
+      "time": 151.59,
+      "time_str": "02:31.590",
+      "text": "在那遥远的地方有位好姑娘",
+      "translation": null
+    },
+    {
+      "time": 174.776,
+      "time_str": "02:54.776",
+      "text": "人说在那遥远的地方有位好姑娘",
+      "translation": null
+    },
+    {
+      "time": 195.595,
+      "time_str": "03:15.595",
+      "text": "奔向她的身旁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "在那遥远的地方 - 崔岩光.lrc"
+}

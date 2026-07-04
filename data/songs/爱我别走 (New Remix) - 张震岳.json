@@ -1,0 +1,256 @@
+{
+  "title": "爱我别走",
+  "title_raw": "爱我别走 (New Remix)",
+  "version": "New Remix",
+  "artist": "张震岳",
+  "group_key": "爱我别走|张震岳",
+  "writers": {
+    "lyricist": "张震岳",
+    "composer": "张震岳",
+    "arranger": "张震岳"
+  },
+  "lyrics": [
+    {
+      "time": 29.17,
+      "time_str": "00:29.170",
+      "text": "我到了这个时候还是一样",
+      "translation": null
+    },
+    {
+      "time": 34.63,
+      "time_str": "00:34.630",
+      "text": "夜里的寂寞容易叫人悲伤",
+      "translation": null
+    },
+    {
+      "time": 41.14,
+      "time_str": "00:41.140",
+      "text": "我不敢想的太多",
+      "translation": null
+    },
+    {
+      "time": 44.94,
+      "time_str": "00:44.940",
+      "text": "因为我一个人",
+      "translation": null
+    },
+    {
+      "time": 51.46,
+      "time_str": "00:51.460",
+      "text": "迎面而来的月光拉长身影",
+      "translation": null
+    },
+    {
+      "time": 57.15,
+      "time_str": "00:57.150",
+      "text": "漫无目的地走在冷冷的街",
+      "translation": null
+    },
+    {
+      "time": 62.56,
+      "time_str": "01:02.560",
+      "text": "我没有你的消息",
+      "translation": null
+    },
+    {
+      "time": 66.97,
+      "time_str": "01:06.970",
+      "text": "因为我在想你",
+      "translation": null
+    },
+    {
+      "time": 73.38,
+      "time_str": "01:13.380",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 75.98,
+      "time_str": "01:15.980",
+      "text": "如果你说 你不爱我",
+      "translation": null
+    },
+    {
+      "time": 85.38,
+      "time_str": "01:25.380",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 88.29,
+      "time_str": "01:28.290",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 95.54,
+      "time_str": "01:35.540",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 98.2,
+      "time_str": "01:38.200",
+      "text": "如果你说 你不爱我",
+      "translation": null
+    },
+    {
+      "time": 106.3,
+      "time_str": "01:46.300",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 111.27,
+      "time_str": "01:51.270",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 121.03,
+      "time_str": "02:01.030",
+      "text": "我到了这个时候还是一样",
+      "translation": null
+    },
+    {
+      "time": 126.39,
+      "time_str": "02:06.390",
+      "text": "夜里的寂寞容易叫人悲伤",
+      "translation": null
+    },
+    {
+      "time": 132.0,
+      "time_str": "02:12.000",
+      "text": "我不敢想的太多",
+      "translation": null
+    },
+    {
+      "time": 135.86,
+      "time_str": "02:15.860",
+      "text": "因为我一个人",
+      "translation": null
+    },
+    {
+      "time": 143.12,
+      "time_str": "02:23.120",
+      "text": "迎面而来的月光拉长身影",
+      "translation": null
+    },
+    {
+      "time": 148.13,
+      "time_str": "02:28.130",
+      "text": "漫无目的地走在冷冷的街",
+      "translation": null
+    },
+    {
+      "time": 153.25,
+      "time_str": "02:33.250",
+      "text": "我没有你的消息",
+      "translation": null
+    },
+    {
+      "time": 158.06,
+      "time_str": "02:38.060",
+      "text": "因为我在想你",
+      "translation": null
+    },
+    {
+      "time": 164.96,
+      "time_str": "02:44.960",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 168.73,
+      "time_str": "02:48.730",
+      "text": "如果你说 你不爱我",
+      "translation": null
+    },
+    {
+      "time": 175.95,
+      "time_str": "02:55.950",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 179.4,
+      "time_str": "02:59.400",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 186.67,
+      "time_str": "03:06.670",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 189.02,
+      "time_str": "03:09.020",
+      "text": "如果你说 你不爱我",
+      "translation": null
+    },
+    {
+      "time": 197.58,
+      "time_str": "03:17.580",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 201.24,
+      "time_str": "03:21.240",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 208.59,
+      "time_str": "03:28.590",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 211.2,
+      "time_str": "03:31.200",
+      "text": "如果你说 你不爱我",
+      "translation": null
+    },
+    {
+      "time": 219.26,
+      "time_str": "03:39.260",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 223.02,
+      "time_str": "03:43.020",
+      "text": "再给我一点温柔",
+      "translation": null
+    },
+    {
+      "time": 230.35,
+      "time_str": "03:50.350",
+      "text": "爱我别走",
+      "translation": null
+    },
+    {
+      "time": 233.1,
+      "time_str": "03:53.100",
+      "text": "如果你说 你不爱我",
+      "translation": null
+    },
+    {
+      "time": 241.26,
+      "time_str": "04:01.260",
+      "text": "不要听见你真的说出口",
+      "translation": null
+    },
+    {
+      "time": 244.82,
+      "time_str": "04:04.820",
+      "text": "再给我一点温柔",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱我别走 (New Remix) - 张震岳.lrc"
+}

@@ -1,0 +1,286 @@
+{
+  "title": "当真",
+  "title_raw": "当真",
+  "version": null,
+  "artist": "蒋蒋,曲肖冰",
+  "group_key": "当真|蒋蒋,曲肖冰",
+  "writers": {
+    "lyricist": "蒋家驹",
+    "composer": "蒋家驹",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.64,
+      "time_str": "00:16.640",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 33.05,
+      "time_str": "00:33.050",
+      "text": "如果谁能记得",
+      "translation": null
+    },
+    {
+      "time": 36.82,
+      "time_str": "00:36.820",
+      "text": "记得未必深刻",
+      "translation": null
+    },
+    {
+      "time": 40.46,
+      "time_str": "00:40.460",
+      "text": "深刻的记得那个我",
+      "translation": null
+    },
+    {
+      "time": 43.28,
+      "time_str": "00:43.280",
+      "text": "快乐不快乐",
+      "translation": null
+    },
+    {
+      "time": 45.91,
+      "time_str": "00:45.910",
+      "text": "男：",
+      "translation": null
+    },
+    {
+      "time": 47.62,
+      "time_str": "00:47.620",
+      "text": "如果谁还不舍",
+      "translation": null
+    },
+    {
+      "time": 51.25,
+      "time_str": "00:51.250",
+      "text": "未必有舍有得",
+      "translation": null
+    },
+    {
+      "time": 54.97,
+      "time_str": "00:54.970",
+      "text": "得到了什么别问我",
+      "translation": null
+    },
+    {
+      "time": 57.65,
+      "time_str": "00:57.650",
+      "text": "吝啬不吝啬",
+      "translation": null
+    },
+    {
+      "time": 60.01,
+      "time_str": "01:00.010",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 60.36,
+      "time_str": "01:00.360",
+      "text": "别太当真 暧昧是感性留的后遗症",
+      "translation": null
+    },
+    {
+      "time": 65.66,
+      "time_str": "01:05.660",
+      "text": "是追根刨底始终没结论",
+      "translation": null
+    },
+    {
+      "time": 69.38,
+      "time_str": "01:09.380",
+      "text": "颓废的像尊瘟神",
+      "translation": null
+    },
+    {
+      "time": 71.13,
+      "time_str": "01:11.130",
+      "text": "伤了自尊就向我注射几针",
+      "translation": null
+    },
+    {
+      "time": 73.97,
+      "time_str": "01:13.970",
+      "text": "男：",
+      "translation": null
+    },
+    {
+      "time": 74.62,
+      "time_str": "01:14.620",
+      "text": "我当了真 爱你是惯性慢慢在延伸",
+      "translation": null
+    },
+    {
+      "time": 80.12,
+      "time_str": "01:20.120",
+      "text": "是路口及时亮起了红灯",
+      "translation": null
+    },
+    {
+      "time": 83.86,
+      "time_str": "01:23.860",
+      "text": "才显得我多么蠢",
+      "translation": null
+    },
+    {
+      "time": 85.77,
+      "time_str": "01:25.770",
+      "text": "这种才能只配做个过路人 过路人",
+      "translation": null
+    },
+    {
+      "time": 103.98,
+      "time_str": "01:43.980",
+      "text": "女：",
+      "translation": null
+    },
+    {
+      "time": 108.67,
+      "time_str": "01:48.670",
+      "text": "如果谁还不舍",
+      "translation": null
+    },
+    {
+      "time": 112.81,
+      "time_str": "01:52.810",
+      "text": "未必有舍有得",
+      "translation": null
+    },
+    {
+      "time": 116.48,
+      "time_str": "01:56.480",
+      "text": "得到了什么别问我",
+      "translation": null
+    },
+    {
+      "time": 119.31,
+      "time_str": "01:59.310",
+      "text": "吝啬不吝啬",
+      "translation": null
+    },
+    {
+      "time": 121.37,
+      "time_str": "02:01.370",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 121.87,
+      "time_str": "02:01.870",
+      "text": "别太当真 暧昧是感性留的后遗症",
+      "translation": null
+    },
+    {
+      "time": 127.22,
+      "time_str": "02:07.220",
+      "text": "是追根刨底始终没结论",
+      "translation": null
+    },
+    {
+      "time": 130.91,
+      "time_str": "02:10.910",
+      "text": "颓废的像尊瘟神",
+      "translation": null
+    },
+    {
+      "time": 132.92,
+      "time_str": "02:12.920",
+      "text": "伤了自尊就向我注射几针",
+      "translation": null
+    },
+    {
+      "time": 136.0,
+      "time_str": "02:16.000",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 136.26,
+      "time_str": "02:16.260",
+      "text": "我当了真 爱你是惯性慢慢在延伸",
+      "translation": null
+    },
+    {
+      "time": 141.55,
+      "time_str": "02:21.550",
+      "text": "是路口及时亮起了红灯",
+      "translation": null
+    },
+    {
+      "time": 145.24,
+      "time_str": "02:25.240",
+      "text": "才显得我多么蠢",
+      "translation": null
+    },
+    {
+      "time": 147.22,
+      "time_str": "02:27.220",
+      "text": "这种才能只配做个过路人",
+      "translation": null
+    },
+    {
+      "time": 150.44,
+      "time_str": "02:30.440",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 150.64,
+      "time_str": "02:30.640",
+      "text": "别太当真 暧昧是感性留的后遗症",
+      "translation": null
+    },
+    {
+      "time": 156.13,
+      "time_str": "02:36.130",
+      "text": "是追根刨底始终没结论",
+      "translation": null
+    },
+    {
+      "time": 159.66,
+      "time_str": "02:39.660",
+      "text": "颓废的像尊瘟神",
+      "translation": null
+    },
+    {
+      "time": 161.63,
+      "time_str": "02:41.630",
+      "text": "伤了自尊就向我注射几针",
+      "translation": null
+    },
+    {
+      "time": 165.32,
+      "time_str": "02:45.320",
+      "text": "合：",
+      "translation": null
+    },
+    {
+      "time": 165.92,
+      "time_str": "02:45.920",
+      "text": "我当了真 爱你是惯性慢慢在延伸",
+      "translation": null
+    },
+    {
+      "time": 170.51,
+      "time_str": "02:50.510",
+      "text": "是路口及时亮起了红灯",
+      "translation": null
+    },
+    {
+      "time": 174.19,
+      "time_str": "02:54.190",
+      "text": "才显得我多么蠢",
+      "translation": null
+    },
+    {
+      "time": 176.94,
+      "time_str": "02:56.940",
+      "text": "这种才能只配做个过路人 过路人",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "当真 - 蒋蒋,曲肖冰.lrc"
+}

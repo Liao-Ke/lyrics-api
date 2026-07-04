@@ -1,0 +1,220 @@
+{
+  "title": "对你的爱越深就越来越心痛",
+  "title_raw": "对你的爱越深就越来越心痛",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "对你的爱越深就越来越心痛|张学友",
+  "writers": {
+    "lyricist": "苏越",
+    "composer": "苏越",
+    "arranger": "王豫民"
+  },
+  "lyrics": [
+    {
+      "time": 0.003,
+      "time_str": "00:00.003",
+      "text": "原唱 : 黄格选",
+      "translation": null
+    },
+    {
+      "time": 26.131,
+      "time_str": "00:26.131",
+      "text": "总想留住你匆匆的身影",
+      "translation": null
+    },
+    {
+      "time": 32.571,
+      "time_str": "00:32.571",
+      "text": "让我能有片刻的安宁",
+      "translation": null
+    },
+    {
+      "time": 39.191,
+      "time_str": "00:39.191",
+      "text": "明知我的梦像那飘忽的风",
+      "translation": null
+    },
+    {
+      "time": 45.509,
+      "time_str": "00:45.509",
+      "text": "却把我的心托付在梦中",
+      "translation": null
+    },
+    {
+      "time": 52.11,
+      "time_str": "00:52.110",
+      "text": "总想留住你回眸的笑容",
+      "translation": null
+    },
+    {
+      "time": 58.511,
+      "time_str": "00:58.511",
+      "text": "遮住我心忧伤的阴影",
+      "translation": null
+    },
+    {
+      "time": 65.11,
+      "time_str": "01:05.110",
+      "text": "明知你的心再也看不懂",
+      "translation": null
+    },
+    {
+      "time": 71.26,
+      "time_str": "01:11.260",
+      "text": "却宁愿相信你痴痴等",
+      "translation": null
+    },
+    {
+      "time": 77.761,
+      "time_str": "01:17.761",
+      "text": "总想拥有自己的天空",
+      "translation": null
+    },
+    {
+      "time": 84.135,
+      "time_str": "01:24.135",
+      "text": "却无奈流逝太多的青春",
+      "translation": null
+    },
+    {
+      "time": 90.825,
+      "time_str": "01:30.825",
+      "text": "明知你的心再也看不懂",
+      "translation": null
+    },
+    {
+      "time": 97.135,
+      "time_str": "01:37.135",
+      "text": "却宁愿相信你痴痴等",
+      "translation": null
+    },
+    {
+      "time": 103.889,
+      "time_str": "01:43.889",
+      "text": "对你的爱越深就越来越心痛",
+      "translation": null
+    },
+    {
+      "time": 110.326,
+      "time_str": "01:50.326",
+      "text": "留住你的人留不住你的心",
+      "translation": null
+    },
+    {
+      "time": 116.635,
+      "time_str": "01:56.635",
+      "text": "梦中的你何时能回头",
+      "translation": null
+    },
+    {
+      "time": 123.388,
+      "time_str": "02:03.388",
+      "text": "给我一个温暖的背影",
+      "translation": null
+    },
+    {
+      "time": 155.765,
+      "time_str": "02:35.765",
+      "text": "总想拥有自己的天空",
+      "translation": null
+    },
+    {
+      "time": 162.19,
+      "time_str": "02:42.190",
+      "text": "却无奈流逝太多的青春",
+      "translation": null
+    },
+    {
+      "time": 168.698,
+      "time_str": "02:48.698",
+      "text": "明知你的心再也看不懂",
+      "translation": null
+    },
+    {
+      "time": 175.138,
+      "time_str": "02:55.138",
+      "text": "却宁愿相信你痴痴等",
+      "translation": null
+    },
+    {
+      "time": 181.763,
+      "time_str": "03:01.763",
+      "text": "对你的爱越深就越来越心痛",
+      "translation": null
+    },
+    {
+      "time": 188.266,
+      "time_str": "03:08.266",
+      "text": "留住你的人留不住你的心",
+      "translation": null
+    },
+    {
+      "time": 194.58,
+      "time_str": "03:14.580",
+      "text": "梦中的你何时能回头",
+      "translation": null
+    },
+    {
+      "time": 201.268,
+      "time_str": "03:21.268",
+      "text": "给我一个温暖的背影",
+      "translation": null
+    },
+    {
+      "time": 210.894,
+      "time_str": "03:30.894",
+      "text": "对你的爱越深就越来越心痛",
+      "translation": null
+    },
+    {
+      "time": 217.519,
+      "time_str": "03:37.519",
+      "text": "留住你的人留不住你的心",
+      "translation": null
+    },
+    {
+      "time": 223.832,
+      "time_str": "03:43.832",
+      "text": "梦中的你何时能回头",
+      "translation": null
+    },
+    {
+      "time": 230.269,
+      "time_str": "03:50.269",
+      "text": "给我一个温暖的背影",
+      "translation": null
+    },
+    {
+      "time": 237.2,
+      "time_str": "03:57.200",
+      "text": "对你的爱越深就越来越心痛",
+      "translation": null
+    },
+    {
+      "time": 243.83,
+      "time_str": "04:03.830",
+      "text": "留住你的人留不住你的心",
+      "translation": null
+    },
+    {
+      "time": 249.521,
+      "time_str": "04:09.521",
+      "text": "梦中的你何时能回头",
+      "translation": null
+    },
+    {
+      "time": 256.272,
+      "time_str": "04:16.272",
+      "text": "给我一个温暖的背影",
+      "translation": null
+    },
+    {
+      "time": 262.896,
+      "time_str": "04:22.896",
+      "text": "对你的爱越深就越来越心痛",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "对你的爱越深就越来越心痛 - 张学友.lrc"
+}

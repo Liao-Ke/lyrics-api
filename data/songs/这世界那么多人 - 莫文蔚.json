@@ -1,0 +1,250 @@
+{
+  "title": "这世界那么多人",
+  "title_raw": "这世界那么多人",
+  "version": null,
+  "artist": "莫文蔚",
+  "group_key": "这世界那么多人|莫文蔚",
+  "writers": {
+    "lyricist": "王海涛",
+    "composer": "Akiyama Sayuri",
+    "arranger": "彭飞"
+  },
+  "lyrics": [
+    {
+      "time": 18.754,
+      "time_str": "00:18.754",
+      "text": "这世界有那么多人",
+      "translation": null
+    },
+    {
+      "time": 25.191,
+      "time_str": "00:25.191",
+      "text": "人群里 敞着一扇门",
+      "translation": null
+    },
+    {
+      "time": 31.197,
+      "time_str": "00:31.197",
+      "text": "我迷朦的眼睛里长存",
+      "translation": null
+    },
+    {
+      "time": 38.007,
+      "time_str": "00:38.007",
+      "text": "初见你  蓝色清晨",
+      "translation": null
+    },
+    {
+      "time": 45.179,
+      "time_str": "00:45.179",
+      "text": "这世界有那么多人",
+      "translation": null
+    },
+    {
+      "time": 50.98,
+      "time_str": "00:50.980",
+      "text": "多幸运 我有个我们",
+      "translation": null
+    },
+    {
+      "time": 57.976,
+      "time_str": "00:57.976",
+      "text": "这悠长命运中的晨昏",
+      "translation": null
+    },
+    {
+      "time": 64.591,
+      "time_str": "01:04.591",
+      "text": "常让我 望远方出神",
+      "translation": null
+    },
+    {
+      "time": 72.251,
+      "time_str": "01:12.251",
+      "text": "灰树叶飘转在池塘",
+      "translation": null
+    },
+    {
+      "time": 78.179,
+      "time_str": "01:18.179",
+      "text": "看飞机轰的一声去远乡",
+      "translation": null
+    },
+    {
+      "time": 84.683,
+      "time_str": "01:24.683",
+      "text": "光阴的长廊 脚步声叫嚷",
+      "translation": null
+    },
+    {
+      "time": 91.23,
+      "time_str": "01:31.230",
+      "text": "灯一亮 无人的空荡",
+      "translation": null
+    },
+    {
+      "time": 99.027,
+      "time_str": "01:39.027",
+      "text": "晚风中闪过 几帧从前啊",
+      "translation": null
+    },
+    {
+      "time": 105.061,
+      "time_str": "01:45.061",
+      "text": "飞驰中旋转 已不见了吗",
+      "translation": null
+    },
+    {
+      "time": 112.099,
+      "time_str": "01:52.099",
+      "text": "远光中走来 你一身晴朗",
+      "translation": null
+    },
+    {
+      "time": 119.084,
+      "time_str": "01:59.084",
+      "text": "身旁那么多人 可世界不声 不响",
+      "translation": null
+    },
+    {
+      "time": 131.842,
+      "time_str": "02:11.842",
+      "text": "这世界有那么多人",
+      "translation": null
+    },
+    {
+      "time": 138.705,
+      "time_str": "02:18.705",
+      "text": "多幸运 我有个我们",
+      "translation": null
+    },
+    {
+      "time": 145.067,
+      "time_str": "02:25.067",
+      "text": "这悠长命运中的晨昏",
+      "translation": null
+    },
+    {
+      "time": 151.287,
+      "time_str": "02:31.287",
+      "text": "常让我 望远方出神",
+      "translation": null
+    },
+    {
+      "time": 158.903,
+      "time_str": "02:38.903",
+      "text": "灰树叶飘转在池塘",
+      "translation": null
+    },
+    {
+      "time": 165.324,
+      "time_str": "02:45.324",
+      "text": "看飞机轰的一声去远乡",
+      "translation": null
+    },
+    {
+      "time": 171.286,
+      "time_str": "02:51.286",
+      "text": "光阴的长廊 脚步声叫嚷",
+      "translation": null
+    },
+    {
+      "time": 177.931,
+      "time_str": "02:57.931",
+      "text": "灯一亮 无人的空荡",
+      "translation": null
+    },
+    {
+      "time": 185.408,
+      "time_str": "03:05.408",
+      "text": "晚风中闪过 几帧从前啊",
+      "translation": null
+    },
+    {
+      "time": 192.195,
+      "time_str": "03:12.195",
+      "text": "飞驰中旋转 已不见了吗",
+      "translation": null
+    },
+    {
+      "time": 198.442,
+      "time_str": "03:18.442",
+      "text": "远光中走来 你一身晴朗",
+      "translation": null
+    },
+    {
+      "time": 205.538,
+      "time_str": "03:25.538",
+      "text": "身旁那么多人 可世界不声 不响",
+      "translation": null
+    },
+    {
+      "time": 215.622,
+      "time_str": "03:35.622",
+      "text": "笑声中浮过 几张旧模样",
+      "translation": null
+    },
+    {
+      "time": 221.803,
+      "time_str": "03:41.803",
+      "text": "留在梦田里 永远不散场",
+      "translation": null
+    },
+    {
+      "time": 228.489,
+      "time_str": "03:48.489",
+      "text": "暖光中醒来 好多话要讲",
+      "translation": null
+    },
+    {
+      "time": 235.747,
+      "time_str": "03:55.747",
+      "text": "世界那么多人 可是它不声 不响",
+      "translation": null
+    },
+    {
+      "time": 247.895,
+      "time_str": "04:07.895",
+      "text": "这世界有那么个人",
+      "translation": null
+    },
+    {
+      "time": 254.348,
+      "time_str": "04:14.348",
+      "text": "活在我 飞扬的青春",
+      "translation": null
+    },
+    {
+      "time": 261.439,
+      "time_str": "04:21.439",
+      "text": "在泪水里浸湿过的长吻",
+      "translation": null
+    },
+    {
+      "time": 267.966,
+      "time_str": "04:27.966",
+      "text": "常让我 想啊想出神",
+      "translation": null
+    },
+    {
+      "time": 281.994,
+      "time_str": "04:41.994",
+      "text": "曼陀林 : 彭飞",
+      "translation": null
+    },
+    {
+      "time": 284.214,
+      "time_str": "04:44.214",
+      "text": "混音室 : Studio 21A",
+      "translation": null
+    },
+    {
+      "time": 285.324,
+      "time_str": "04:45.324",
+      "text": "母带工程师 : 周天澈",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "这世界那么多人 - 莫文蔚.lrc"
+}

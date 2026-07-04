@@ -1,0 +1,292 @@
+{
+  "title": "你的选择",
+  "title_raw": "你的选择",
+  "version": null,
+  "artist": "易欣",
+  "group_key": "你的选择|易欣",
+  "writers": {
+    "lyricist": "刘航",
+    "composer": "刘航",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.74,
+      "time_str": "00:14.740",
+      "text": "看着你慢慢离开我的视线",
+      "translation": null
+    },
+    {
+      "time": 17.784,
+      "time_str": "00:17.784",
+      "text": "才明白原来这份爱情已走远",
+      "translation": null
+    },
+    {
+      "time": 21.765,
+      "time_str": "00:21.765",
+      "text": "而我还相信有永恒的诺言",
+      "translation": null
+    },
+    {
+      "time": 28.736,
+      "time_str": "00:28.736",
+      "text": "既然爱已到了痛的边缘",
+      "translation": null
+    },
+    {
+      "time": 31.742,
+      "time_str": "00:31.742",
+      "text": "就算为我们留住时间",
+      "translation": null
+    },
+    {
+      "time": 35.708,
+      "time_str": "00:35.708",
+      "text": "也换不回相爱的那一天",
+      "translation": null
+    },
+    {
+      "time": 41.767,
+      "time_str": "00:41.767",
+      "text": "沧海桑田谁为谁而改变",
+      "translation": null
+    },
+    {
+      "time": 47.792,
+      "time_str": "00:47.792",
+      "text": "心甘情愿却不见我们的永远",
+      "translation": null
+    },
+    {
+      "time": 55.768,
+      "time_str": "00:55.768",
+      "text": "爱与被爱同样是受伤害",
+      "translation": null
+    },
+    {
+      "time": 58.786,
+      "time_str": "00:58.786",
+      "text": "谁先不爱谁先离开",
+      "translation": null
+    },
+    {
+      "time": 62.719,
+      "time_str": "01:02.719",
+      "text": "留下的人满身伤痕",
+      "translation": null
+    },
+    {
+      "time": 68.771,
+      "time_str": "01:08.771",
+      "text": "你的选择没有错",
+      "translation": null
+    },
+    {
+      "time": 72.7,
+      "time_str": "01:12.700",
+      "text": "我欠你的太多",
+      "translation": null
+    },
+    {
+      "time": 75.736,
+      "time_str": "01:15.736",
+      "text": "受伤的心找不到解药",
+      "translation": null
+    },
+    {
+      "time": 78.774,
+      "time_str": "01:18.774",
+      "text": "怎么愈合",
+      "translation": null
+    },
+    {
+      "time": 82.718,
+      "time_str": "01:22.718",
+      "text": "你的选择躲不过",
+      "translation": null
+    },
+    {
+      "time": 85.741,
+      "time_str": "01:25.741",
+      "text": "泪水的折磨",
+      "translation": null
+    },
+    {
+      "time": 89.724,
+      "time_str": "01:29.724",
+      "text": "宁愿解脱一个人",
+      "translation": null
+    },
+    {
+      "time": 92.759,
+      "time_str": "01:32.759",
+      "text": "独自漂泊",
+      "translation": null
+    },
+    {
+      "time": 112.137,
+      "time_str": "01:52.137",
+      "text": "看着你慢慢离开我的视线",
+      "translation": null
+    },
+    {
+      "time": 114.575,
+      "time_str": "01:54.575",
+      "text": "才明白原来这份爱情已走远",
+      "translation": null
+    },
+    {
+      "time": 118.545,
+      "time_str": "01:58.545",
+      "text": "而我还相信有永恒的诺言",
+      "translation": null
+    },
+    {
+      "time": 125.512,
+      "time_str": "02:05.512",
+      "text": "既然爱已到了痛的边缘",
+      "translation": null
+    },
+    {
+      "time": 128.557,
+      "time_str": "02:08.557",
+      "text": "就算为我们留住时间",
+      "translation": null
+    },
+    {
+      "time": 132.52,
+      "time_str": "02:12.520",
+      "text": "也换不回相爱的那一天",
+      "translation": null
+    },
+    {
+      "time": 139.504,
+      "time_str": "02:19.504",
+      "text": "沧海桑田谁为谁而改变",
+      "translation": null
+    },
+    {
+      "time": 145.544,
+      "time_str": "02:25.544",
+      "text": "心甘情愿却不见我们的永远",
+      "translation": null
+    },
+    {
+      "time": 152.55,
+      "time_str": "02:32.550",
+      "text": "爱与被爱同样是受伤害",
+      "translation": null
+    },
+    {
+      "time": 156.5,
+      "time_str": "02:36.500",
+      "text": "谁先不爱谁先离开",
+      "translation": null
+    },
+    {
+      "time": 159.53,
+      "time_str": "02:39.530",
+      "text": "留下的人满身伤痕",
+      "translation": null
+    },
+    {
+      "time": 166.497,
+      "time_str": "02:46.497",
+      "text": "你的选择没有错",
+      "translation": null
+    },
+    {
+      "time": 168.591,
+      "time_str": "02:48.591",
+      "text": "我欠你的太多",
+      "translation": null
+    },
+    {
+      "time": 172.542,
+      "time_str": "02:52.542",
+      "text": "受伤的心找不到解药",
+      "translation": null
+    },
+    {
+      "time": 175.575,
+      "time_str": "02:55.575",
+      "text": "怎么愈合",
+      "translation": null
+    },
+    {
+      "time": 179.532,
+      "time_str": "02:59.532",
+      "text": "你的选择躲不过",
+      "translation": null
+    },
+    {
+      "time": 182.576,
+      "time_str": "03:02.576",
+      "text": "泪水的折磨",
+      "translation": null
+    },
+    {
+      "time": 186.495,
+      "time_str": "03:06.495",
+      "text": "宁愿解脱一个人",
+      "translation": null
+    },
+    {
+      "time": 189.56,
+      "time_str": "03:09.560",
+      "text": "独自漂泊",
+      "translation": null
+    },
+    {
+      "time": 193.516,
+      "time_str": "03:13.516",
+      "text": "你的选择没有错",
+      "translation": null
+    },
+    {
+      "time": 196.556,
+      "time_str": "03:16.556",
+      "text": "我欠你的太多",
+      "translation": null
+    },
+    {
+      "time": 200.498,
+      "time_str": "03:20.498",
+      "text": "受伤的心找不到解药",
+      "translation": null
+    },
+    {
+      "time": 203.542,
+      "time_str": "03:23.542",
+      "text": "怎么愈合",
+      "translation": null
+    },
+    {
+      "time": 207.551,
+      "time_str": "03:27.551",
+      "text": "你的选择躲不过",
+      "translation": null
+    },
+    {
+      "time": 210.515,
+      "time_str": "03:30.515",
+      "text": "泪水的折磨",
+      "translation": null
+    },
+    {
+      "time": 213.566,
+      "time_str": "03:33.566",
+      "text": "宁愿解脱一个人",
+      "translation": null
+    },
+    {
+      "time": 215.434,
+      "time_str": "03:35.434",
+      "text": "独自漂泊",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你的选择 - 易欣.lrc"
+}

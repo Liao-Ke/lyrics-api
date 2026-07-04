@@ -1,0 +1,160 @@
+{
+  "title": "火箭升空",
+  "title_raw": "火箭升空",
+  "version": null,
+  "artist": "群星",
+  "group_key": "火箭升空|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "[Rocket engine running]",
+      "translation": null
+    },
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "[Sonic boom]",
+      "translation": null
+    },
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "[Sonic boom]",
+      "translation": null
+    },
+    {
+      "time": 0.77,
+      "time_str": "00:00.770",
+      "text": "T-25 seconds and counting, and Apollo 13 is go. 25",
+      "translation": "秒倒计时，阿波罗13号准备发射"
+    },
+    {
+      "time": 5.58,
+      "time_str": "00:05.580",
+      "text": "T-20 seconds. T-20 seconds and counting.",
+      "translation": "还有20秒，继续倒数计时"
+    },
+    {
+      "time": 9.5,
+      "time_str": "00:09.500",
+      "text": "17, guidance release. 15 14 13",
+      "translation": "还有17秒，制导系统就位。15 14 13"
+    },
+    {
+      "time": 13.89,
+      "time_str": "00:13.890",
+      "text": "12 11 10 9 8",
+      "translation": null
+    },
+    {
+      "time": 18.37,
+      "time_str": "00:18.370",
+      "text": "Ignition sequence has started. 6 5 4 3 2 1",
+      "translation": "点火程序启动。6 5 4 3 2 1"
+    },
+    {
+      "time": 25.5,
+      "time_str": "00:25.500",
+      "text": "Zero. We have commited and liftoff at 2:13 0.",
+      "translation": "点火成功，起飞！起飞时间：2点13分"
+    },
+    {
+      "time": 31.37,
+      "time_str": "00:31.370",
+      "text": "The Saturn 5 building up to 7.6 million pounds of thrust and it is cleared the tower.",
+      "translation": "土星5号火箭产生760万磅的推力并离开了发射塔"
+    },
+    {
+      "time": 38.02,
+      "time_str": "00:38.020",
+      "text": "This is Mission Control Houston, we are current have good 1st stage at this point.",
+      "translation": "这里是休斯敦任务控制中心，目前第一级工作正常"
+    },
+    {
+      "time": 43.54,
+      "time_str": "00:43.540",
+      "text": "（火箭引擎声）",
+      "translation": null
+    },
+    {
+      "time": 50.09,
+      "time_str": "00:50.090",
+      "text": "Flight dynamics off to software, trajectory looks good. we show one half mile on altitude this time.",
+      "translation": "飞行动力学软件状态良好，弹道正常，目前高度半英里"
+    },
+    {
+      "time": 56.02,
+      "time_str": "00:56.020",
+      "text": "30 Houston go 30 seconds",
+      "translation": "休斯敦，30秒"
+    },
+    {
+      "time": 58.18,
+      "time_str": "00:58.180",
+      "text": "（音爆）",
+      "translation": null
+    },
+    {
+      "time": 60.0,
+      "time_str": "01:00.000",
+      "text": "Roll complete and we are pitching.",
+      "translation": "滚转机动完成，正在进行俯仰机动"
+    },
+    {
+      "time": 62.47,
+      "time_str": "01:02.470",
+      "text": "Roger that, standby for mode 1 throttle.",
+      "translation": "收到，油门准备进入模式1"
+    },
+    {
+      "time": 64.7,
+      "time_str": "01:04.700",
+      "text": "（音爆）",
+      "translation": null
+    },
+    {
+      "time": 68.05,
+      "time_str": "01:08.050",
+      "text": "Mach 1 throttle, 1 throttle command. 1",
+      "translation": "马赫，模式1油门指令"
+    },
+    {
+      "time": 71.32,
+      "time_str": "01:11.320",
+      "text": "Altitude: 1.2 miles, velocity: 1500 feet per second.",
+      "translation": "高度1.2英里，速度每秒1500英尺"
+    },
+    {
+      "time": 76.27,
+      "time_str": "01:16.270",
+      "text": "Houston, what's story on Engine 5?",
+      "translation": "休斯敦，5号发动机怎么了？"
+    },
+    {
+      "time": 79.54,
+      "time_str": "01:19.540",
+      "text": "Jim, Houston. We don't have a story while inboard/outboard early, but the other Engines are go and you're go.",
+      "translation": "吉姆，这里是休斯敦。我们之前没发现5号发动机的异常情况。其他的发动机能正常工作的话，继续执行任务"
+    },
+    {
+      "time": 87.23,
+      "time_str": "01:27.230",
+      "text": "Roger.",
+      "translation": "收到"
+    },
+    {
+      "time": 94.91,
+      "time_str": "01:34.910",
+      "text": "Houston we've have a problem.",
+      "translation": "休斯顿，我们出了点问题"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "火箭升空 - 群星.lrc"
+}

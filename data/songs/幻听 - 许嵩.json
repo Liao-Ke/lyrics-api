@@ -1,0 +1,292 @@
+{
+  "title": "幻听",
+  "title_raw": "幻听",
+  "version": null,
+  "artist": "许嵩",
+  "group_key": "幻听|许嵩",
+  "writers": {
+    "lyricist": "许嵩",
+    "composer": "许嵩",
+    "arranger": "杨阳/黄钰"
+  },
+  "lyrics": [
+    {
+      "time": 35.379,
+      "time_str": "00:35.379",
+      "text": "在远方的时候",
+      "translation": null
+    },
+    {
+      "time": 37.298,
+      "time_str": "00:37.298",
+      "text": "又想你到泪流",
+      "translation": null
+    },
+    {
+      "time": 42.438,
+      "time_str": "00:42.438",
+      "text": "这矫情的措辞结构",
+      "translation": null
+    },
+    {
+      "time": 46.698,
+      "time_str": "00:46.698",
+      "text": "经历过的人会懂",
+      "translation": null
+    },
+    {
+      "time": 50.779,
+      "time_str": "00:50.779",
+      "text": "那些不堪言的疼痛",
+      "translation": null
+    },
+    {
+      "time": 54.989,
+      "time_str": "00:54.989",
+      "text": "也就是我自作自受",
+      "translation": null
+    },
+    {
+      "time": 59.298,
+      "time_str": "00:59.298",
+      "text": "你没有装聋",
+      "translation": null
+    },
+    {
+      "time": 62.809,
+      "time_str": "01:02.809",
+      "text": "你真没感动",
+      "translation": null
+    },
+    {
+      "time": 67.908,
+      "time_str": "01:07.908",
+      "text": "一个人的时候",
+      "translation": null
+    },
+    {
+      "time": 70.699,
+      "time_str": "01:10.699",
+      "text": "偷偷看你的微博",
+      "translation": null
+    },
+    {
+      "time": 75.288,
+      "time_str": "01:15.288",
+      "text": "你转播的歌好耳熟",
+      "translation": null
+    },
+    {
+      "time": 78.408,
+      "time_str": "01:18.408",
+      "text": "我们坐一起听过",
+      "translation": null
+    },
+    {
+      "time": 83.359,
+      "time_str": "01:23.359",
+      "text": "当日嫌它的唱法做作",
+      "translation": null
+    },
+    {
+      "time": 87.899,
+      "time_str": "01:27.899",
+      "text": "现在听起来竟然很生动",
+      "translation": null
+    },
+    {
+      "time": 92.219,
+      "time_str": "01:32.219",
+      "text": "可能是时光让耳朵变得宽容",
+      "translation": null
+    },
+    {
+      "time": 100.21,
+      "time_str": "01:40.210",
+      "text": "如今一个人听歌总是会觉得失落",
+      "translation": null
+    },
+    {
+      "time": 104.728,
+      "time_str": "01:44.728",
+      "text": "幻听你在我的耳边轻轻诉说",
+      "translation": null
+    },
+    {
+      "time": 109.3,
+      "time_str": "01:49.300",
+      "text": "夜色多温柔",
+      "translation": null
+    },
+    {
+      "time": 111.8,
+      "time_str": "01:51.800",
+      "text": "你有多爱我",
+      "translation": null
+    },
+    {
+      "time": 116.288,
+      "time_str": "01:56.288",
+      "text": "如今一个人听歌总是会觉得难过",
+      "translation": null
+    },
+    {
+      "time": 121.219,
+      "time_str": "02:01.219",
+      "text": "爱已不在这里我却还没走脱",
+      "translation": null
+    },
+    {
+      "time": 124.899,
+      "time_str": "02:04.899",
+      "text": "列表里的歌",
+      "translation": null
+    },
+    {
+      "time": 128.0,
+      "time_str": "02:08.000",
+      "text": "随过往流动",
+      "translation": null
+    },
+    {
+      "time": 149.36,
+      "time_str": "02:29.360",
+      "text": "一个人的时候",
+      "translation": null
+    },
+    {
+      "time": 152.34,
+      "time_str": "02:32.340",
+      "text": "偷偷看你的微博",
+      "translation": null
+    },
+    {
+      "time": 156.26,
+      "time_str": "02:36.260",
+      "text": "你每天做了些什么",
+      "translation": null
+    },
+    {
+      "time": 160.27,
+      "time_str": "02:40.270",
+      "text": "我都了然于胸",
+      "translation": null
+    },
+    {
+      "time": 164.45,
+      "time_str": "02:44.450",
+      "text": "当时嫌你的蠢话太多",
+      "translation": null
+    },
+    {
+      "time": 168.46,
+      "time_str": "02:48.460",
+      "text": "现在回想起画面已泛旧",
+      "translation": null
+    },
+    {
+      "time": 173.2,
+      "time_str": "02:53.200",
+      "text": "可能是孤独让情绪变得脆弱",
+      "translation": null
+    },
+    {
+      "time": 182.2,
+      "time_str": "03:02.200",
+      "text": "如今一个人听歌总是会觉得失落",
+      "translation": null
+    },
+    {
+      "time": 185.91,
+      "time_str": "03:05.910",
+      "text": "幻听你在我的耳边轻轻诉说",
+      "translation": null
+    },
+    {
+      "time": 189.68,
+      "time_str": "03:09.680",
+      "text": "夜色多温柔",
+      "translation": null
+    },
+    {
+      "time": 191.82,
+      "time_str": "03:11.820",
+      "text": "你有多爱我",
+      "translation": null
+    },
+    {
+      "time": 197.29,
+      "time_str": "03:17.290",
+      "text": "如今一个人听歌总是会觉得难过",
+      "translation": null
+    },
+    {
+      "time": 202.38,
+      "time_str": "03:22.380",
+      "text": "爱已不在这里我却还没走脱",
+      "translation": null
+    },
+    {
+      "time": 206.3,
+      "time_str": "03:26.300",
+      "text": "列表里的歌",
+      "translation": null
+    },
+    {
+      "time": 208.3,
+      "time_str": "03:28.300",
+      "text": "随过往流动",
+      "translation": null
+    },
+    {
+      "time": 214.2,
+      "time_str": "03:34.200",
+      "text": "如今一个人听歌总是会觉得失落",
+      "translation": null
+    },
+    {
+      "time": 221.49,
+      "time_str": "03:41.490",
+      "text": "幻听你在我的耳边轻轻诉说",
+      "translation": null
+    },
+    {
+      "time": 224.32,
+      "time_str": "03:44.320",
+      "text": "夜色多温柔",
+      "translation": null
+    },
+    {
+      "time": 226.72,
+      "time_str": "03:46.720",
+      "text": "你有多爱我",
+      "translation": null
+    },
+    {
+      "time": 232.79,
+      "time_str": "03:52.790",
+      "text": "如今一个人听歌总是会觉得难过",
+      "translation": null
+    },
+    {
+      "time": 236.73,
+      "time_str": "03:56.730",
+      "text": "爱已不在这里我却还没走脱",
+      "translation": null
+    },
+    {
+      "time": 240.86,
+      "time_str": "04:00.860",
+      "text": "如果你回头",
+      "translation": null
+    },
+    {
+      "time": 243.299,
+      "time_str": "04:03.299",
+      "text": "不要放下我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "幻听 - 许嵩.lrc"
+}

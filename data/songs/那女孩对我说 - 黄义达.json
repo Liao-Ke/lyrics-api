@@ -1,0 +1,418 @@
+{
+  "title": "那女孩对我说",
+  "title_raw": "那女孩对我说",
+  "version": null,
+  "artist": "黄义达",
+  "group_key": "那女孩对我说|黄义达",
+  "writers": {
+    "lyricist": "易家扬",
+    "composer": "李偲菘",
+    "arranger": "Adam Lee"
+  },
+  "lyrics": [
+    {
+      "time": 25.5,
+      "time_str": "00:25.500",
+      "text": "心很空 天很大 云很重",
+      "translation": null
+    },
+    {
+      "time": 29.3,
+      "time_str": "00:29.300",
+      "text": "我恨孤单 却赶不走",
+      "translation": null
+    },
+    {
+      "time": 35.269,
+      "time_str": "00:35.269",
+      "text": "捧着她的名字",
+      "translation": null
+    },
+    {
+      "time": 40.09,
+      "time_str": "00:40.090",
+      "text": "她的喜怒哀乐",
+      "translation": null
+    },
+    {
+      "time": 42.239,
+      "time_str": "00:42.239",
+      "text": "往前走 多久了",
+      "translation": null
+    },
+    {
+      "time": 48.79,
+      "time_str": "00:48.790",
+      "text": "一个人心中",
+      "translation": null
+    },
+    {
+      "time": 50.979,
+      "time_str": "00:50.979",
+      "text": "只有一个宝贝",
+      "translation": null
+    },
+    {
+      "time": 53.559,
+      "time_str": "00:53.559",
+      "text": "久了之后",
+      "translation": null
+    },
+    {
+      "time": 55.439,
+      "time_str": "00:55.439",
+      "text": "她变成了眼泪",
+      "translation": null
+    },
+    {
+      "time": 60.919,
+      "time_str": "01:00.919",
+      "text": "泪一滴在左手",
+      "translation": null
+    },
+    {
+      "time": 63.999,
+      "time_str": "01:03.999",
+      "text": "凝固成为寂寞",
+      "translation": null
+    },
+    {
+      "time": 66.599,
+      "time_str": "01:06.599",
+      "text": "往回看 有什么",
+      "translation": null
+    },
+    {
+      "time": 70.519,
+      "time_str": "01:10.519",
+      "text": "那女孩对我说",
+      "translation": null
+    },
+    {
+      "time": 72.979,
+      "time_str": "01:12.979",
+      "text": "说我保护她的梦",
+      "translation": null
+    },
+    {
+      "time": 76.169,
+      "time_str": "01:16.169",
+      "text": "说这个世界",
+      "translation": null
+    },
+    {
+      "time": 79.049,
+      "time_str": "01:19.049",
+      "text": "对她这样的不多",
+      "translation": null
+    },
+    {
+      "time": 82.849,
+      "time_str": "01:22.849",
+      "text": "她渐渐忘了我",
+      "translation": null
+    },
+    {
+      "time": 85.269,
+      "time_str": "01:25.269",
+      "text": "但是她并不晓得",
+      "translation": null
+    },
+    {
+      "time": 88.729,
+      "time_str": "01:28.729",
+      "text": "遍体鳞伤的我",
+      "translation": null
+    },
+    {
+      "time": 91.288,
+      "time_str": "01:31.288",
+      "text": "一天也没再爱过",
+      "translation": null
+    },
+    {
+      "time": 94.709,
+      "time_str": "01:34.709",
+      "text": "那女孩对我说",
+      "translation": null
+    },
+    {
+      "time": 97.288,
+      "time_str": "01:37.288",
+      "text": "说我是一个小偷",
+      "translation": null
+    },
+    {
+      "time": 100.839,
+      "time_str": "01:40.839",
+      "text": "偷她的回忆",
+      "translation": null
+    },
+    {
+      "time": 103.279,
+      "time_str": "01:43.279",
+      "text": "塞进我的脑海中",
+      "translation": null
+    },
+    {
+      "time": 106.769,
+      "time_str": "01:46.769",
+      "text": "我不需要自由",
+      "translation": null
+    },
+    {
+      "time": 109.319,
+      "time_str": "01:49.319",
+      "text": "只想背着她的梦",
+      "translation": null
+    },
+    {
+      "time": 112.749,
+      "time_str": "01:52.749",
+      "text": "一步步向前走",
+      "translation": null
+    },
+    {
+      "time": 115.288,
+      "time_str": "01:55.288",
+      "text": "她给的永远 不重",
+      "translation": null
+    },
+    {
+      "time": 123.209,
+      "time_str": "02:03.209",
+      "text": "一个人心中",
+      "translation": null
+    },
+    {
+      "time": 124.529,
+      "time_str": "02:04.529",
+      "text": "只有一个宝贝",
+      "translation": null
+    },
+    {
+      "time": 127.24,
+      "time_str": "02:07.240",
+      "text": "久了之后",
+      "translation": null
+    },
+    {
+      "time": 129.16,
+      "time_str": "02:09.160",
+      "text": "她变成了眼泪",
+      "translation": null
+    },
+    {
+      "time": 134.7,
+      "time_str": "02:14.700",
+      "text": "泪一滴在左手",
+      "translation": null
+    },
+    {
+      "time": 138.08,
+      "time_str": "02:18.080",
+      "text": "凝固成为寂寞",
+      "translation": null
+    },
+    {
+      "time": 141.0,
+      "time_str": "02:21.000",
+      "text": "往回看 有什么",
+      "translation": null
+    },
+    {
+      "time": 144.88,
+      "time_str": "02:24.880",
+      "text": "那女孩对我说",
+      "translation": null
+    },
+    {
+      "time": 147.35,
+      "time_str": "02:27.350",
+      "text": "说我保护她的梦",
+      "translation": null
+    },
+    {
+      "time": 150.8,
+      "time_str": "02:30.800",
+      "text": "说这个世界",
+      "translation": null
+    },
+    {
+      "time": 153.429,
+      "time_str": "02:33.429",
+      "text": "对她这样的不多",
+      "translation": null
+    },
+    {
+      "time": 156.8,
+      "time_str": "02:36.800",
+      "text": "她渐渐忘了我",
+      "translation": null
+    },
+    {
+      "time": 159.41,
+      "time_str": "02:39.410",
+      "text": "但是她并不晓得",
+      "translation": null
+    },
+    {
+      "time": 162.86,
+      "time_str": "02:42.860",
+      "text": "遍体鳞伤的我",
+      "translation": null
+    },
+    {
+      "time": 165.41,
+      "time_str": "02:45.410",
+      "text": "一天也没再爱过",
+      "translation": null
+    },
+    {
+      "time": 168.83,
+      "time_str": "02:48.830",
+      "text": "那女孩对我说",
+      "translation": null
+    },
+    {
+      "time": 171.33,
+      "time_str": "02:51.330",
+      "text": "说我是一个小偷",
+      "translation": null
+    },
+    {
+      "time": 174.77,
+      "time_str": "02:54.770",
+      "text": "偷她的回忆",
+      "translation": null
+    },
+    {
+      "time": 177.35,
+      "time_str": "02:57.350",
+      "text": "塞进我的脑海中",
+      "translation": null
+    },
+    {
+      "time": 180.84,
+      "time_str": "03:00.840",
+      "text": "我不需要自由",
+      "translation": null
+    },
+    {
+      "time": 183.8,
+      "time_str": "03:03.800",
+      "text": "只想背着她的梦",
+      "translation": null
+    },
+    {
+      "time": 186.83,
+      "time_str": "03:06.830",
+      "text": "一步步向前走",
+      "translation": null
+    },
+    {
+      "time": 189.4,
+      "time_str": "03:09.400",
+      "text": "她给的永远 不重",
+      "translation": null
+    },
+    {
+      "time": 202.09,
+      "time_str": "03:22.090",
+      "text": "那女孩对我说",
+      "translation": null
+    },
+    {
+      "time": 204.95,
+      "time_str": "03:24.950",
+      "text": "保护她的梦",
+      "translation": null
+    },
+    {
+      "time": 207.9,
+      "time_str": "03:27.900",
+      "text": "说这个世界",
+      "translation": null
+    },
+    {
+      "time": 210.44,
+      "time_str": "03:30.440",
+      "text": "对她这样的不多",
+      "translation": null
+    },
+    {
+      "time": 213.81,
+      "time_str": "03:33.810",
+      "text": "她渐渐忘了我",
+      "translation": null
+    },
+    {
+      "time": 216.36,
+      "time_str": "03:36.360",
+      "text": "但是她并不晓得",
+      "translation": null
+    },
+    {
+      "time": 219.929,
+      "time_str": "03:39.929",
+      "text": "遍体鳞伤的我",
+      "translation": null
+    },
+    {
+      "time": 222.62,
+      "time_str": "03:42.620",
+      "text": "一天也没再爱过",
+      "translation": null
+    },
+    {
+      "time": 226.05,
+      "time_str": "03:46.050",
+      "text": "那女孩对我说",
+      "translation": null
+    },
+    {
+      "time": 228.67,
+      "time_str": "03:48.670",
+      "text": "说我是一个小偷",
+      "translation": null
+    },
+    {
+      "time": 232.17,
+      "time_str": "03:52.170",
+      "text": "偷她的回忆",
+      "translation": null
+    },
+    {
+      "time": 234.42,
+      "time_str": "03:54.420",
+      "text": "塞进我的脑海中",
+      "translation": null
+    },
+    {
+      "time": 238.16,
+      "time_str": "03:58.160",
+      "text": "我不需要自由",
+      "translation": null
+    },
+    {
+      "time": 240.69,
+      "time_str": "04:00.690",
+      "text": "只想背着她的梦",
+      "translation": null
+    },
+    {
+      "time": 244.13,
+      "time_str": "04:04.130",
+      "text": "一步步向前走",
+      "translation": null
+    },
+    {
+      "time": 246.69,
+      "time_str": "04:06.690",
+      "text": "她给的永远 不重",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "那女孩对我说 - 黄义达.lrc"
+}

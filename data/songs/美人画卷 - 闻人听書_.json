@@ -1,0 +1,256 @@
+{
+  "title": "美人画卷",
+  "title_raw": "美人画卷",
+  "version": null,
+  "artist": "闻人听書_",
+  "group_key": "美人画卷|闻人听書_",
+  "writers": {
+    "lyricist": "Zhang Bao/Xue Ya",
+    "composer": "Zhang Bao/Xue Ya",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 28.54,
+      "time_str": "00:28.540",
+      "text": "一袭白裳梅花泪",
+      "translation": null
+    },
+    {
+      "time": 31.49,
+      "time_str": "00:31.490",
+      "text": "一山水旁映一枚",
+      "translation": null
+    },
+    {
+      "time": 34.59,
+      "time_str": "00:34.590",
+      "text": "厌红尘独怜花红眼眉",
+      "translation": null
+    },
+    {
+      "time": 40.89,
+      "time_str": "00:40.890",
+      "text": "回首不见人痴嗔",
+      "translation": null
+    },
+    {
+      "time": 44.07,
+      "time_str": "00:44.070",
+      "text": "那景那物触了神",
+      "translation": null
+    },
+    {
+      "time": 47.33,
+      "time_str": "00:47.330",
+      "text": "春去秋来花开了几分",
+      "translation": null
+    },
+    {
+      "time": 53.94,
+      "time_str": "00:53.940",
+      "text": "时光怎不经一生",
+      "translation": null
+    },
+    {
+      "time": 55.53,
+      "time_str": "00:55.530",
+      "text": "浮浮沉沉已半生",
+      "translation": null
+    },
+    {
+      "time": 57.12,
+      "time_str": "00:57.120",
+      "text": "一壶浊酒欲随风",
+      "translation": null
+    },
+    {
+      "time": 58.84,
+      "time_str": "00:58.840",
+      "text": "一步一瞥似惊鸿",
+      "translation": null
+    },
+    {
+      "time": 60.44,
+      "time_str": "01:00.440",
+      "text": "情字要如何追问",
+      "translation": null
+    },
+    {
+      "time": 61.94,
+      "time_str": "01:01.940",
+      "text": "一指兰花为谁挽留",
+      "translation": null
+    },
+    {
+      "time": 66.35,
+      "time_str": "01:06.350",
+      "text": "青山常伴绿水",
+      "translation": null
+    },
+    {
+      "time": 69.76,
+      "time_str": "01:09.760",
+      "text": "燕雀已是南飞",
+      "translation": null
+    },
+    {
+      "time": 72.94,
+      "time_str": "01:12.940",
+      "text": "美人画卷残留",
+      "translation": null
+    },
+    {
+      "time": 75.98,
+      "time_str": "01:15.980",
+      "text": "一丝青灰叹余美",
+      "translation": null
+    },
+    {
+      "time": 79.31,
+      "time_str": "01:19.310",
+      "text": "回忆斑驳微醉",
+      "translation": null
+    },
+    {
+      "time": 82.34,
+      "time_str": "01:22.340",
+      "text": "叹相思未随",
+      "translation": null
+    },
+    {
+      "time": 85.92,
+      "time_str": "01:25.920",
+      "text": "几春几秋几段轮回",
+      "translation": null
+    },
+    {
+      "time": 117.95,
+      "time_str": "01:57.950",
+      "text": "时光怎不经一生",
+      "translation": null
+    },
+    {
+      "time": 119.47,
+      "time_str": "01:59.470",
+      "text": "浮浮沉沉已半生",
+      "translation": null
+    },
+    {
+      "time": 121.21,
+      "time_str": "02:01.210",
+      "text": "一壶浊酒欲随风",
+      "translation": null
+    },
+    {
+      "time": 122.81,
+      "time_str": "02:02.810",
+      "text": "一步一瞥似惊鸿",
+      "translation": null
+    },
+    {
+      "time": 124.4,
+      "time_str": "02:04.400",
+      "text": "情字要如何追问",
+      "translation": null
+    },
+    {
+      "time": 126.09,
+      "time_str": "02:06.090",
+      "text": "一指兰花为谁挽留",
+      "translation": null
+    },
+    {
+      "time": 130.48,
+      "time_str": "02:10.480",
+      "text": "青山常伴绿水",
+      "translation": null
+    },
+    {
+      "time": 133.82,
+      "time_str": "02:13.820",
+      "text": "燕雀已是南飞",
+      "translation": null
+    },
+    {
+      "time": 137.08,
+      "time_str": "02:17.080",
+      "text": "美人画卷残留",
+      "translation": null
+    },
+    {
+      "time": 139.96,
+      "time_str": "02:19.960",
+      "text": "一丝青灰叹余美",
+      "translation": null
+    },
+    {
+      "time": 143.37,
+      "time_str": "02:23.370",
+      "text": "回忆斑驳微醉",
+      "translation": null
+    },
+    {
+      "time": 146.48,
+      "time_str": "02:26.480",
+      "text": "叹相思未随",
+      "translation": null
+    },
+    {
+      "time": 149.84,
+      "time_str": "02:29.840",
+      "text": "几春几秋几段轮回",
+      "translation": null
+    },
+    {
+      "time": 156.43,
+      "time_str": "02:36.430",
+      "text": "往昔鸳鸯戏水",
+      "translation": null
+    },
+    {
+      "time": 159.31,
+      "time_str": "02:39.310",
+      "text": "而今不相依偎",
+      "translation": null
+    },
+    {
+      "time": 162.65,
+      "time_str": "02:42.650",
+      "text": "美景良辰纵然",
+      "translation": null
+    },
+    {
+      "time": 165.45,
+      "time_str": "02:45.450",
+      "text": "妩媚亦徒留伤悲",
+      "translation": null
+    },
+    {
+      "time": 169.01,
+      "time_str": "02:49.010",
+      "text": "越一步便一碎",
+      "translation": null
+    },
+    {
+      "time": 172.04,
+      "time_str": "02:52.040",
+      "text": "春梦相伴入睡",
+      "translation": null
+    },
+    {
+      "time": 175.22,
+      "time_str": "02:55.220",
+      "text": "莫染香氛莫谙世混沌",
+      "translation": null
+    },
+    {
+      "time": 181.59,
+      "time_str": "03:01.590",
+      "text": "莫染香氛莫谙世混沌",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "美人画卷 - 闻人听書_.lrc"
+}

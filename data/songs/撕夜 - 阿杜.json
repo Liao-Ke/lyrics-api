@@ -1,0 +1,274 @@
+{
+  "title": "撕夜",
+  "title_raw": "撕夜",
+  "version": null,
+  "artist": "阿杜",
+  "group_key": "撕夜|阿杜",
+  "writers": {
+    "lyricist": "武雄",
+    "composer": "蔡政勋",
+    "arranger": "袁少文"
+  },
+  "lyrics": [
+    {
+      "time": 15.85,
+      "time_str": "00:15.850",
+      "text": "我把梦撕了一页",
+      "translation": null
+    },
+    {
+      "time": 18.72,
+      "time_str": "00:18.720",
+      "text": "不懂明天该怎么写",
+      "translation": null
+    },
+    {
+      "time": 22.5,
+      "time_str": "00:22.500",
+      "text": "冷冷的街 冷冷的灯 照着谁",
+      "translation": null
+    },
+    {
+      "time": 31.04,
+      "time_str": "00:31.040",
+      "text": "一场雨湿了一夜",
+      "translation": null
+    },
+    {
+      "time": 33.94,
+      "time_str": "00:33.940",
+      "text": "你的温柔该怎么给",
+      "translation": null
+    },
+    {
+      "time": 37.72,
+      "time_str": "00:37.720",
+      "text": "冷冷的风 冷冷地吹 不停歇",
+      "translation": null
+    },
+    {
+      "time": 44.74,
+      "time_str": "00:44.740",
+      "text": "哪个人在天桥下",
+      "translation": null
+    },
+    {
+      "time": 47.24,
+      "time_str": "00:47.240",
+      "text": "留下等待工作的电话号码",
+      "translation": null
+    },
+    {
+      "time": 53.17,
+      "time_str": "00:53.170",
+      "text": "我想问他   多少人打给他",
+      "translation": null
+    },
+    {
+      "time": 59.99,
+      "time_str": "00:59.990",
+      "text": "随手翻开电话上",
+      "translation": null
+    },
+    {
+      "time": 62.49,
+      "time_str": "01:02.490",
+      "text": "那本指引迷途心灵的密码",
+      "translation": null
+    },
+    {
+      "time": 68.41,
+      "time_str": "01:08.410",
+      "text": "我的未来 依然没有解答",
+      "translation": null
+    },
+    {
+      "time": 76.66,
+      "time_str": "01:16.660",
+      "text": "旧电话撕了一页",
+      "translation": null
+    },
+    {
+      "time": 79.61,
+      "time_str": "01:19.610",
+      "text": "我的朋友还剩下谁",
+      "translation": null
+    },
+    {
+      "time": 83.4,
+      "time_str": "01:23.400",
+      "text": "冷冷的心 冷冷的梦 在哽咽",
+      "translation": null
+    },
+    {
+      "time": 91.93,
+      "time_str": "01:31.930",
+      "text": "两个人试了一夜",
+      "translation": null
+    },
+    {
+      "time": 94.87,
+      "time_str": "01:34.870",
+      "text": "抱得再紧也不能睡",
+      "translation": null
+    },
+    {
+      "time": 98.62,
+      "time_str": "01:38.620",
+      "text": "冷冷的你 冷冷的泪 湿了夜",
+      "translation": null
+    },
+    {
+      "time": 122.4,
+      "time_str": "02:02.400",
+      "text": "我把梦撕了一页",
+      "translation": null
+    },
+    {
+      "time": 125.35,
+      "time_str": "02:05.350",
+      "text": "不懂明天该怎么写",
+      "translation": null
+    },
+    {
+      "time": 129.07,
+      "time_str": "02:09.070",
+      "text": "冷冷的街 冷冷的灯 照着谁",
+      "translation": null
+    },
+    {
+      "time": 137.65,
+      "time_str": "02:17.650",
+      "text": "一场雨湿了一夜",
+      "translation": null
+    },
+    {
+      "time": 140.57,
+      "time_str": "02:20.570",
+      "text": "你的温柔该怎么给",
+      "translation": null
+    },
+    {
+      "time": 144.35,
+      "time_str": "02:24.350",
+      "text": "冷冷的风 冷冷地吹 不停歇",
+      "translation": null
+    },
+    {
+      "time": 151.28,
+      "time_str": "02:31.280",
+      "text": "哪个人在天桥下",
+      "translation": null
+    },
+    {
+      "time": 153.85,
+      "time_str": "02:33.850",
+      "text": "留下等待工作的电话号码",
+      "translation": null
+    },
+    {
+      "time": 159.79,
+      "time_str": "02:39.790",
+      "text": "我想问他   多少人打给他",
+      "translation": null
+    },
+    {
+      "time": 166.59,
+      "time_str": "02:46.590",
+      "text": "随手翻开电话上",
+      "translation": null
+    },
+    {
+      "time": 169.09,
+      "time_str": "02:49.090",
+      "text": "那本指引迷途心灵的密码",
+      "translation": null
+    },
+    {
+      "time": 174.99,
+      "time_str": "02:54.990",
+      "text": "我的未来 依然没有解答",
+      "translation": null
+    },
+    {
+      "time": 181.84,
+      "time_str": "03:01.840",
+      "text": "哪个人在天桥下",
+      "translation": null
+    },
+    {
+      "time": 184.3,
+      "time_str": "03:04.300",
+      "text": "留下等待工作的电话号码",
+      "translation": null
+    },
+    {
+      "time": 190.24,
+      "time_str": "03:10.240",
+      "text": "我想问他   多少人打给他",
+      "translation": null
+    },
+    {
+      "time": 197.05,
+      "time_str": "03:17.050",
+      "text": "随手翻开电话上",
+      "translation": null
+    },
+    {
+      "time": 199.53,
+      "time_str": "03:19.530",
+      "text": "那本指引迷途心灵的密码",
+      "translation": null
+    },
+    {
+      "time": 205.52,
+      "time_str": "03:25.520",
+      "text": "我的未来 依然没有解答",
+      "translation": null
+    },
+    {
+      "time": 213.71,
+      "time_str": "03:33.710",
+      "text": "旧电话撕了一页",
+      "translation": null
+    },
+    {
+      "time": 216.67,
+      "time_str": "03:36.670",
+      "text": "我的朋友还剩下谁",
+      "translation": null
+    },
+    {
+      "time": 220.48,
+      "time_str": "03:40.480",
+      "text": "冷冷的心 冷冷的梦 在哽咽",
+      "translation": null
+    },
+    {
+      "time": 229.0,
+      "time_str": "03:49.000",
+      "text": "两个人试了一夜",
+      "translation": null
+    },
+    {
+      "time": 231.94,
+      "time_str": "03:51.940",
+      "text": "抱得再紧也不能睡",
+      "translation": null
+    },
+    {
+      "time": 235.74,
+      "time_str": "03:55.740",
+      "text": "冷冷的你 冷冷的泪 湿了夜",
+      "translation": null
+    },
+    {
+      "time": 243.35,
+      "time_str": "04:03.350",
+      "text": "冷冷的你 冷冷的泪 湿了夜",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "撕夜 - 阿杜.lrc"
+}

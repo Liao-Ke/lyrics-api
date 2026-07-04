@@ -1,0 +1,214 @@
+{
+  "title": "相思河畔",
+  "title_raw": "相思河畔",
+  "version": null,
+  "artist": "区瑞强",
+  "group_key": "相思河畔|区瑞强",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 34.558,
+      "time_str": "00:34.558",
+      "text": "人似是带着几分醉",
+      "translation": null
+    },
+    {
+      "time": 38.627,
+      "time_str": "00:38.627",
+      "text": "轻轻的驾着帆船为爱浪",
+      "translation": null
+    },
+    {
+      "time": 43.668,
+      "time_str": "00:43.668",
+      "text": "我的身体轻轻摇晃",
+      "translation": null
+    },
+    {
+      "time": 48.686,
+      "time_str": "00:48.686",
+      "text": "就似躺身于绳网",
+      "translation": null
+    },
+    {
+      "time": 54.068,
+      "time_str": "00:54.068",
+      "text": "情爱共我又似隔张网",
+      "translation": null
+    },
+    {
+      "time": 56.785,
+      "time_str": "00:56.785",
+      "text": "孤单的我悠悠然望两岸",
+      "translation": null
+    },
+    {
+      "time": 61.794,
+      "time_str": "01:01.794",
+      "text": "看一双双的小情侣",
+      "translation": null
+    },
+    {
+      "time": 65.935,
+      "time_str": "01:05.935",
+      "text": "互诉心曲多神往",
+      "translation": null
+    },
+    {
+      "time": 71.915,
+      "time_str": "01:11.915",
+      "text": "前方远方",
+      "translation": null
+    },
+    {
+      "time": 76.988,
+      "time_str": "01:16.988",
+      "text": "人在恋爱",
+      "translation": null
+    },
+    {
+      "time": 78.068,
+      "time_str": "01:18.068",
+      "text": "我独懒洋洋",
+      "translation": null
+    },
+    {
+      "time": 79.624,
+      "time_str": "01:19.624",
+      "text": "还愿随遇",
+      "translation": null
+    },
+    {
+      "time": 82.805,
+      "time_str": "01:22.805",
+      "text": "爱若非所爱",
+      "translation": null
+    },
+    {
+      "time": 85.959,
+      "time_str": "01:25.959",
+      "text": "我并不希罕",
+      "translation": null
+    },
+    {
+      "time": 87.985,
+      "time_str": "01:27.985",
+      "text": "有没有不相干",
+      "translation": null
+    },
+    {
+      "time": 93.786,
+      "time_str": "01:33.786",
+      "text": "情侣浪与浪也偷看",
+      "translation": null
+    },
+    {
+      "time": 99.379,
+      "time_str": "01:39.379",
+      "text": "一双双快乐情人在两岸",
+      "translation": null
+    },
+    {
+      "time": 103.05,
+      "time_str": "01:43.050",
+      "text": "带出多少相思情意",
+      "translation": null
+    },
+    {
+      "time": 107.859,
+      "time_str": "01:47.859",
+      "text": "又带出多少迷惘 相思河畔",
+      "translation": null
+    },
+    {
+      "time": 127.26,
+      "time_str": "02:07.260",
+      "text": "前方远方",
+      "translation": null
+    },
+    {
+      "time": 139.838,
+      "time_str": "02:19.838",
+      "text": "人在恋爱",
+      "translation": null
+    },
+    {
+      "time": 142.58,
+      "time_str": "02:22.580",
+      "text": "我独懒洋洋",
+      "translation": null
+    },
+    {
+      "time": 144.049,
+      "time_str": "02:24.049",
+      "text": "还愿随遇",
+      "translation": null
+    },
+    {
+      "time": 146.8,
+      "time_str": "02:26.800",
+      "text": "爱若非所爱",
+      "translation": null
+    },
+    {
+      "time": 149.38,
+      "time_str": "02:29.380",
+      "text": "我并不希罕",
+      "translation": null
+    },
+    {
+      "time": 151.9,
+      "time_str": "02:31.900",
+      "text": "有没有不相干",
+      "translation": null
+    },
+    {
+      "time": 156.11,
+      "time_str": "02:36.110",
+      "text": "自从相思河畔骗了你",
+      "translation": null
+    },
+    {
+      "time": 160.99,
+      "time_str": "02:40.990",
+      "text": "无限的痛苦埋在心窝里",
+      "translation": null
+    },
+    {
+      "time": 165.3,
+      "time_str": "02:45.300",
+      "text": "我要轻轻的告诉你",
+      "translation": null
+    },
+    {
+      "time": 170.1,
+      "time_str": "02:50.100",
+      "text": "不要把我忘记",
+      "translation": null
+    },
+    {
+      "time": 174.2,
+      "time_str": "02:54.200",
+      "text": "我要轻轻的告诉你",
+      "translation": null
+    },
+    {
+      "time": 178.6,
+      "time_str": "02:58.600",
+      "text": "不要把我忘记",
+      "translation": null
+    },
+    {
+      "time": 183.17,
+      "time_str": "03:03.170",
+      "text": "End",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "相思河畔 - 区瑞强.lrc"
+}

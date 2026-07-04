@@ -1,0 +1,340 @@
+{
+  "title": "Wannabe",
+  "title_raw": "Wannabe",
+  "version": null,
+  "artist": "Why Mona,Unlike Pluto,Joanna Jones",
+  "group_key": "wannabe|why mona,unlike pluto,joanna jones",
+  "writers": {
+    "lyricist": null,
+    "composer": "Why Mona",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.25,
+      "time_str": "00:10.250",
+      "text": "Yeah I'll tell you what I want what I really really want",
+      "translation": "我会告诉你我真真正正想要的"
+    },
+    {
+      "time": 13.14,
+      "time_str": "00:13.140",
+      "text": "So tell me what you want what you really really want",
+      "translation": "所以你也告诉我你想要什么 你的真切所求吧"
+    },
+    {
+      "time": 16.0,
+      "time_str": "00:16.000",
+      "text": "I'll tell you what I want what I really really want",
+      "translation": "我会告诉你我真真正正想要的"
+    },
+    {
+      "time": 18.77,
+      "time_str": "00:18.770",
+      "text": "So tell me what you want what you really really want",
+      "translation": "所以你也告诉我你想要什么 你的真切所求吧"
+    },
+    {
+      "time": 21.45,
+      "time_str": "00:21.450",
+      "text": "I wanna I wanna I wanna I wanna",
+      "translation": "我想要 我想要 我想要"
+    },
+    {
+      "time": 24.62,
+      "time_str": "00:24.620",
+      "text": "I really really really wanna zigazig ah",
+      "translation": "我真的真的想要zigazig ah"
+    },
+    {
+      "time": 27.79,
+      "time_str": "00:27.790",
+      "text": "I wanna I wanna I wanna",
+      "translation": "我想要 我想要 我想要"
+    },
+    {
+      "time": 30.25,
+      "time_str": "00:30.250",
+      "text": "I really really really wanna zigazig ah",
+      "translation": "我真的真的想要zigazig ah"
+    },
+    {
+      "time": 33.74,
+      "time_str": "00:33.740",
+      "text": "If you want my future forget my past",
+      "translation": "如果你想要得到我的未来 就忘了我的过去吧"
+    },
+    {
+      "time": 39.32,
+      "time_str": "00:39.320",
+      "text": "If you wanna get with me better make it fast",
+      "translation": "如果你想要和我在一起 最好快点行动"
+    },
+    {
+      "time": 44.92,
+      "time_str": "00:44.920",
+      "text": "Now I don't go wasting my precious time",
+      "translation": "别再浪费我宝贵的时间了"
+    },
+    {
+      "time": 50.28,
+      "time_str": "00:50.280",
+      "text": "Get your act together we could be just fine",
+      "translation": "好好整理清楚你的心思我们就能和睦相处"
+    },
+    {
+      "time": 55.85,
+      "time_str": "00:55.850",
+      "text": "If you wanna be my lover you gotta get with my friends",
+      "translation": "如果你想成为我的爱人 你必须得学会和我的朋友们相处"
+    },
+    {
+      "time": 61.488,
+      "time_str": "01:01.488",
+      "text": "Make it last forever friendship never ends",
+      "translation": "让你们之间友谊长存"
+    },
+    {
+      "time": 67.18,
+      "time_str": "01:07.180",
+      "text": "If you wanna be my lover you have got to give",
+      "translation": "如果你想成为我的爱人 你得学会付出"
+    },
+    {
+      "time": 72.778,
+      "time_str": "01:12.778",
+      "text": "Taking is too easy but that's the way it is",
+      "translation": "索取总是很容易的 但跟我在一起得按我的方式来"
+    },
+    {
+      "time": 78.12,
+      "time_str": "01:18.120",
+      "text": "Yeah I'll tell you what I want what I really really want",
+      "translation": "我会告诉你我真真正正想要的"
+    },
+    {
+      "time": 80.98,
+      "time_str": "01:20.980",
+      "text": "So tell me what you want what you really really want",
+      "translation": "所以你也告诉我你想要什么 你的真切所求吧"
+    },
+    {
+      "time": 83.569,
+      "time_str": "01:23.569",
+      "text": "I wanna I wanna I wanna I wanna",
+      "translation": "我想要 我想要 我想要"
+    },
+    {
+      "time": 86.76,
+      "time_str": "01:26.760",
+      "text": "I really really really wanna zigazig ah",
+      "translation": "我真的真的想要zigazig ah"
+    },
+    {
+      "time": 90.12,
+      "time_str": "01:30.120",
+      "text": "What'd you think about that now you know how I feel",
+      "translation": "现在觉得如何 明白我的心了吗"
+    },
+    {
+      "time": 95.54,
+      "time_str": "01:35.540",
+      "text": "Say you can handle my love are you for real",
+      "translation": "你说你会好好对待我的爱 这是认真的吗"
+    },
+    {
+      "time": 101.379,
+      "time_str": "01:41.379",
+      "text": "I won't be hasty I'll give you a try",
+      "translation": "我不会草率地拒绝你 我会给你个机会"
+    },
+    {
+      "time": 106.76,
+      "time_str": "01:46.760",
+      "text": "If you really bug me then I'll say goodbye",
+      "translation": "但你如果真的把我惹毛了我们还是说拜拜吧"
+    },
+    {
+      "time": 112.28,
+      "time_str": "01:52.280",
+      "text": "If you wanna be my lover you gotta get with my friends",
+      "translation": "如果你想成为我的爱人 你必须得学会和我的朋友们相处"
+    },
+    {
+      "time": 117.938,
+      "time_str": "01:57.938",
+      "text": "Make it last forever friendship never ends",
+      "translation": "让你们之间友谊长存"
+    },
+    {
+      "time": 123.608,
+      "time_str": "02:03.608",
+      "text": "If you wanna be my lover you have got to give",
+      "translation": "如果你想成为我的爱人 你得学会付出"
+    },
+    {
+      "time": 129.229,
+      "time_str": "02:09.229",
+      "text": "Taking is too easy but that's the way it is",
+      "translation": "索取总是很容易的 但跟我在一起得按我的方式来"
+    },
+    {
+      "time": 134.599,
+      "time_str": "02:14.599",
+      "text": "Yeah I'll tell you what I want what I really really want",
+      "translation": "我会告诉你我真真正正想要的"
+    },
+    {
+      "time": 137.419,
+      "time_str": "02:17.419",
+      "text": "So tell me what you want what you really really want",
+      "translation": "所以你也告诉我你想要什么 你的真切所求吧"
+    },
+    {
+      "time": 140.049,
+      "time_str": "02:20.049",
+      "text": "I wanna I wanna I wanna I wanna",
+      "translation": "我想要 我想要 我想要"
+    },
+    {
+      "time": 143.199,
+      "time_str": "02:23.199",
+      "text": "I really really really wanna zigazig ah",
+      "translation": "我真的真的想要zigazig ah"
+    },
+    {
+      "time": 145.839,
+      "time_str": "02:25.839",
+      "text": "So here's a story from A to Z",
+      "translation": "现在有个从头到尾的故事"
+    },
+    {
+      "time": 148.489,
+      "time_str": "02:28.489",
+      "text": "You wanna get with me you gotta listen carefully",
+      "translation": "如果想和我谈朋友 你最好好好听好了"
+    },
+    {
+      "time": 151.319,
+      "time_str": "02:31.319",
+      "text": "We got M in the place who likes it in your face",
+      "translation": "做错事最好把抱歉写在脸上"
+    },
+    {
+      "time": 154.129,
+      "time_str": "02:34.129",
+      "text": "We got G like M C who likes it on",
+      "translation": "爱我最好大声说出来"
+    },
+    {
+      "time": 156.72,
+      "time_str": "02:36.720",
+      "text": "Easy V doesn't come for free she's a real lady",
+      "translation": "不负责任的啪是不可能发生的 别的淑女可能不会追究"
+    },
+    {
+      "time": 160.319,
+      "time_str": "02:40.319",
+      "text": "As for me ah you'll see",
+      "translation": "至于我 你等着瞧吧"
+    },
+    {
+      "time": 163.129,
+      "time_str": "02:43.129",
+      "text": "Slam your body down and wind it all around",
+      "translation": "撞击摇摆你的身体"
+    },
+    {
+      "time": 165.979,
+      "time_str": "02:45.979",
+      "text": "Slam your body down and wind it all around",
+      "translation": "撞击摇摆你的身体吧"
+    },
+    {
+      "time": 168.709,
+      "time_str": "02:48.709",
+      "text": "If you wanna be my lover you gotta get with my friends",
+      "translation": "如果你想成为我的爱人 你必须得学会和我的朋友们相处"
+    },
+    {
+      "time": 174.399,
+      "time_str": "02:54.399",
+      "text": "Make it last forever friendship never ends",
+      "translation": "让你们之间友谊长存"
+    },
+    {
+      "time": 179.739,
+      "time_str": "02:59.739",
+      "text": "Yeah I'll tell you what I want what I really really want",
+      "translation": "我会告诉你我真真正正想要的"
+    },
+    {
+      "time": 182.519,
+      "time_str": "03:02.519",
+      "text": "So tell me what you want what you really really want",
+      "translation": "所以你也告诉我你想要什么 你的真切所求吧"
+    },
+    {
+      "time": 185.199,
+      "time_str": "03:05.199",
+      "text": "I wanna I wanna I wanna I wanna",
+      "translation": "我想要 我想要 我想要"
+    },
+    {
+      "time": 188.379,
+      "time_str": "03:08.379",
+      "text": "I really really really wanna zigazig ah",
+      "translation": "我真的真的想要zigazig ha"
+    },
+    {
+      "time": 191.079,
+      "time_str": "03:11.079",
+      "text": "I'll tell you what I want what I really really want",
+      "translation": "我会告诉你我真真正正想要的"
+    },
+    {
+      "time": 193.889,
+      "time_str": "03:13.889",
+      "text": "So tell me what you want what you really really want",
+      "translation": "所以你也告诉我你想要什么 你的真实所求吧"
+    },
+    {
+      "time": 196.53,
+      "time_str": "03:16.530",
+      "text": "I wanna I wanna I wanna I wanna",
+      "translation": "我想要 我想要 我想要"
+    },
+    {
+      "time": 199.609,
+      "time_str": "03:19.609",
+      "text": "I really really really wanna zigazig ah",
+      "translation": "我真的真的想要zigazig ah"
+    },
+    {
+      "time": 202.769,
+      "time_str": "03:22.769",
+      "text": "Slam your body down and wind it all around",
+      "translation": "撞击摇摆你的身体"
+    },
+    {
+      "time": 205.359,
+      "time_str": "03:25.359",
+      "text": "I really really really wanna zigazig ah",
+      "translation": "我真的真的想要zigazig ah"
+    },
+    {
+      "time": 208.339,
+      "time_str": "03:28.339",
+      "text": "Slam your body down and wind it all around",
+      "translation": "撞击摇摆你的身体吧"
+    },
+    {
+      "time": 211.009,
+      "time_str": "03:31.009",
+      "text": "I really really really wanna zigazig ah",
+      "translation": "我真的真的想要zigazig ah"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Wannabe - Why Mona,Unlike Pluto,Joanna Jones.lrc"
+}

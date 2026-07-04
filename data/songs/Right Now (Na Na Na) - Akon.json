@@ -1,0 +1,484 @@
+{
+  "title": "Right Now",
+  "title_raw": "Right Now (Na Na Na)",
+  "version": "Na Na Na",
+  "artist": "Akon",
+  "group_key": "right now|akon",
+  "writers": {
+    "lyricist": "Aliaune \"Akon\" Thiam/Giorgio Tuinfort",
+    "composer": "Aliaune \"Akon\" Thiam/Giorgio Tuinfort",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.67,
+      "time_str": "00:14.670",
+      "text": "It's been so long",
+      "translation": "已经如此之久"
+    },
+    {
+      "time": 17.9,
+      "time_str": "00:17.900",
+      "text": "That I haven't seen your face",
+      "translation": "我没有见过你的面容"
+    },
+    {
+      "time": 21.77,
+      "time_str": "00:21.770",
+      "text": "I'm tryna' be strong",
+      "translation": "我试着坚强"
+    },
+    {
+      "time": 24.1,
+      "time_str": "00:24.100",
+      "text": "But the strength I have is washing away",
+      "translation": "但是渐渐地力不从心"
+    },
+    {
+      "time": 28.76,
+      "time_str": "00:28.760",
+      "text": "It won't be long before I get you by my side",
+      "translation": "过不了多久你就会回到我身边"
+    },
+    {
+      "time": 36.01,
+      "time_str": "00:36.010",
+      "text": "And just hold you, tease you, squeeze you til",
+      "translation": "然后抱着你，吻着你，压着你"
+    },
+    {
+      "time": 39.88,
+      "time_str": "00:39.880",
+      "text": "What's been on my mind",
+      "translation": "脑海里想的全是你"
+    },
+    {
+      "time": 42.7,
+      "time_str": "00:42.700",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 45.9,
+      "time_str": "00:45.900",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 49.27,
+      "time_str": "00:49.270",
+      "text": "Wish we never broke up right now na na",
+      "translation": "希望我们现在不分手，以后也不分手"
+    },
+    {
+      "time": 52.92,
+      "time_str": "00:52.920",
+      "text": "We need to link up right now na na",
+      "translation": "我们需要静下来好好谈谈现在，就现在"
+    },
+    {
+      "time": 56.43,
+      "time_str": "00:56.430",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 59.76,
+      "time_str": "00:59.760",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 63.21,
+      "time_str": "01:03.210",
+      "text": "Wish we never broke up right now na na",
+      "translation": "希望我们现在不分手，以后也不分手"
+    },
+    {
+      "time": 66.769,
+      "time_str": "01:06.769",
+      "text": "We need to link up right now na na",
+      "translation": "我们需要静下来好好谈谈现在，就现在，现在"
+    },
+    {
+      "time": 70.329,
+      "time_str": "01:10.329",
+      "text": "Girl, I know mistakes were made between us two",
+      "translation": "宝贝我知道我们彼此之间存在着分歧"
+    },
+    {
+      "time": 77.72,
+      "time_str": "01:17.720",
+      "text": "And we show our eyes that now even says somethings were true",
+      "translation": "彼此真诚地吐露心声"
+    },
+    {
+      "time": 84.64,
+      "time_str": "01:24.640",
+      "text": "Why'd you go and haven't seen my girl since then",
+      "translation": "为什么那时离我而去，自从那以后就再也没见过你"
+    },
+    {
+      "time": 91.099,
+      "time_str": "01:31.099",
+      "text": "Why can it be the way it was",
+      "translation": "为什么还一如既往"
+    },
+    {
+      "time": 94.739,
+      "time_str": "01:34.739",
+      "text": "'Cause you were my homie lover friend",
+      "translation": "因为你曾经是我的挚爱"
+    },
+    {
+      "time": 98.06,
+      "time_str": "01:38.060",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 101.8,
+      "time_str": "01:41.800",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 104.97,
+      "time_str": "01:44.970",
+      "text": "Wish we never broke up right now na na",
+      "translation": "希望我们现在不分手，以后也不分手"
+    },
+    {
+      "time": 108.459,
+      "time_str": "01:48.459",
+      "text": "We need to link up right now na na",
+      "translation": "我们需要静下来好好谈谈现在，就现在，现在"
+    },
+    {
+      "time": 111.959,
+      "time_str": "01:51.959",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 115.479,
+      "time_str": "01:55.479",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 118.86,
+      "time_str": "01:58.860",
+      "text": "Wish we never broke up right now na na",
+      "translation": "希望我们现在不分手，以后也不分手"
+    },
+    {
+      "time": 122.34,
+      "time_str": "02:02.340",
+      "text": "We need to link up right now na na",
+      "translation": "我们需要静下来好好谈谈现在，就现在，现在"
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "I can't lie",
+      "translation": "我没有撒谎"
+    },
+    {
+      "time": 127.599,
+      "time_str": "02:07.599",
+      "text": "I miss you much",
+      "translation": "我是如此想念着你"
+    },
+    {
+      "time": 129.009,
+      "time_str": "02:09.009",
+      "text": "Watching everyday you goes by",
+      "translation": "眼睁睁看着时光流逝"
+    },
+    {
+      "time": 131.0,
+      "time_str": "02:11.000",
+      "text": "I miss you much",
+      "translation": "我是如此地想念着你"
+    },
+    {
+      "time": 132.06,
+      "time_str": "02:12.060",
+      "text": "Til i get you back I m gonna cry",
+      "translation": "扪心自问还是希望你回来，我都快要哭了"
+    },
+    {
+      "time": 135.0,
+      "time_str": "02:15.000",
+      "text": "Yes I miss you much",
+      "translation": "我是如此想念你"
+    },
+    {
+      "time": 136.0,
+      "time_str": "02:16.000",
+      "text": "Cuz you are the apple of my eye",
+      "translation": "你是我的宝贝儿"
+    },
+    {
+      "time": 138.12,
+      "time_str": "02:18.120",
+      "text": "Girls, I miss you much",
+      "translation": "宝贝我是如此地想念你"
+    },
+    {
+      "time": 139.189,
+      "time_str": "02:19.189",
+      "text": "I miss you much",
+      "translation": "我是如此地想念你"
+    },
+    {
+      "time": 140.68,
+      "time_str": "02:20.680",
+      "text": "I can't lie",
+      "translation": "我没有撒谎"
+    },
+    {
+      "time": 142.099,
+      "time_str": "02:22.099",
+      "text": "I miss you much",
+      "translation": "我是如此地想念你"
+    },
+    {
+      "time": 142.43,
+      "time_str": "02:22.430",
+      "text": "Watching everyday you goes by",
+      "translation": "眼睁睁看着时光流逝"
+    },
+    {
+      "time": 144.99,
+      "time_str": "02:24.990",
+      "text": "I miss you much",
+      "translation": "我是如此地想念你"
+    },
+    {
+      "time": 146.0,
+      "time_str": "02:26.000",
+      "text": "'Til i get you back I'm gonna cry",
+      "translation": "扪心自问还是希望你回来，我都快要哭了"
+    },
+    {
+      "time": 148.5,
+      "time_str": "02:28.500",
+      "text": "I miss you much",
+      "translation": "我是如此地想念你"
+    },
+    {
+      "time": 149.439,
+      "time_str": "02:29.439",
+      "text": "Cuz you are the apple of my eye",
+      "translation": "你是我的宝贝儿"
+    },
+    {
+      "time": 151.97,
+      "time_str": "02:31.970",
+      "text": "I miss you much",
+      "translation": "我是如此地想念你"
+    },
+    {
+      "time": 152.84,
+      "time_str": "02:32.840",
+      "text": "I miss you much",
+      "translation": "我是如此地想念你"
+    },
+    {
+      "time": 153.979,
+      "time_str": "02:33.979",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 157.199,
+      "time_str": "02:37.199",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 160.599,
+      "time_str": "02:40.599",
+      "text": "Wish we never broke up right now na na",
+      "translation": "希望我们现在不分手，以后也不分手"
+    },
+    {
+      "time": 164.129,
+      "time_str": "02:44.129",
+      "text": "We need to link up right now na na",
+      "translation": "我们需要静下来好好谈谈现在，就现在，现在"
+    },
+    {
+      "time": 167.71,
+      "time_str": "02:47.710",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 171.03,
+      "time_str": "02:51.030",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 174.47,
+      "time_str": "02:54.470",
+      "text": "Wish we never broke up right now na na",
+      "translation": "希望我们现在不分手，以后也不分手"
+    },
+    {
+      "time": 178.009,
+      "time_str": "02:58.009",
+      "text": "We need to link up right now na na",
+      "translation": "我们需要静下来好好谈谈现在，就现在，现在"
+    },
+    {
+      "time": 181.81,
+      "time_str": "03:01.810",
+      "text": "I want you to fly with me",
+      "translation": "我希望和你一起飞翔"
+    },
+    {
+      "time": 184.009,
+      "time_str": "03:04.009",
+      "text": "Want you to fly",
+      "translation": "一起飞翔"
+    },
+    {
+      "time": 185.09,
+      "time_str": "03:05.090",
+      "text": "I miss how you lie with me",
+      "translation": "我希望你与我同眠"
+    },
+    {
+      "time": 187.069,
+      "time_str": "03:07.069",
+      "text": "Ohh miss how you lie",
+      "translation": "与我同眠"
+    },
+    {
+      "time": 189.199,
+      "time_str": "03:09.199",
+      "text": "I wish you could dine with me",
+      "translation": "我希望你与我共餐"
+    },
+    {
+      "time": 190.659,
+      "time_str": "03:10.659",
+      "text": "Wish you could dine",
+      "translation": "与我同逝"
+    },
+    {
+      "time": 192.259,
+      "time_str": "03:12.259",
+      "text": "Once that would grind with me",
+      "translation": "假如能和我拌嘴"
+    },
+    {
+      "time": 194.039,
+      "time_str": "03:14.039",
+      "text": "Ohhh One that would grind （yeah）",
+      "translation": "能和我拌嘴"
+    },
+    {
+      "time": 195.699,
+      "time_str": "03:15.699",
+      "text": "I want you to fly with me",
+      "translation": "我希望和你一起飞翔"
+    },
+    {
+      "time": 197.37,
+      "time_str": "03:17.370",
+      "text": "Want you to fly",
+      "translation": "一起飞翔"
+    },
+    {
+      "time": 198.78,
+      "time_str": "03:18.780",
+      "text": "I miss how you lie with me",
+      "translation": "我希望你与我同眠"
+    },
+    {
+      "time": 201.009,
+      "time_str": "03:21.009",
+      "text": "Miss how you lie",
+      "translation": "与我同眠"
+    },
+    {
+      "time": 203.4,
+      "time_str": "03:23.400",
+      "text": "I wish you could dine with me",
+      "translation": "我希望你与我同逝"
+    },
+    {
+      "time": 204.4,
+      "time_str": "03:24.400",
+      "text": "Wish you could dine with me",
+      "translation": "与我同逝"
+    },
+    {
+      "time": 205.909,
+      "time_str": "03:25.909",
+      "text": "One that would grind with me",
+      "translation": "假如能和我拌嘴"
+    },
+    {
+      "time": 207.879,
+      "time_str": "03:27.879",
+      "text": "Ohh One that would grind with me",
+      "translation": "能和我拌嘴"
+    },
+    {
+      "time": 209.449,
+      "time_str": "03:29.449",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 212.74,
+      "time_str": "03:32.740",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 216.27,
+      "time_str": "03:36.270",
+      "text": "Wish we never broke up right now na na",
+      "translation": "希望我们现在不分手，以后也不分手"
+    },
+    {
+      "time": 219.91,
+      "time_str": "03:39.910",
+      "text": "We need to link up right now na na",
+      "translation": "我们需要静下来好好谈谈现在，就现在，现在"
+    },
+    {
+      "time": 223.629,
+      "time_str": "03:43.629",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 226.74,
+      "time_str": "03:46.740",
+      "text": "I wanna make up right now na na",
+      "translation": "我想和你和好，就现在，现在，现在"
+    },
+    {
+      "time": 230.15,
+      "time_str": "03:50.150",
+      "text": "Wish we never broke up right now na na",
+      "translation": "希望我们现在不分手，以后也不分手"
+    },
+    {
+      "time": 233.77,
+      "time_str": "03:53.770",
+      "text": "We need to link up right now na na",
+      "translation": "我们需要静下来好好谈谈现在，就现在，现在"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Right Now (Na Na Na) - Akon.lrc"
+}

@@ -1,0 +1,286 @@
+{
+  "title": "都是你的错",
+  "title_raw": "都是你的错",
+  "version": null,
+  "artist": "陈慧琳,郑中基",
+  "group_key": "都是你的错|陈慧琳,郑中基",
+  "writers": {
+    "lyricist": "梁芷珊",
+    "composer": "张宇",
+    "arranger": "陈家健"
+  },
+  "lyrics": [
+    {
+      "time": 3.0,
+      "time_str": "00:03.000",
+      "text": "原词 : 萧十一郎",
+      "translation": null
+    },
+    {
+      "time": 20.0,
+      "time_str": "00:20.000",
+      "text": "都是你的错 关心也是错",
+      "translation": null
+    },
+    {
+      "time": 24.0,
+      "time_str": "00:24.000",
+      "text": "你还要把依依不舍都挂于脸上",
+      "translation": null
+    },
+    {
+      "time": 28.0,
+      "time_str": "00:28.000",
+      "text": "都是你的错 潇洒也是错",
+      "translation": null
+    },
+    {
+      "time": 31.0,
+      "time_str": "00:31.000",
+      "text": "你还痛哭过",
+      "translation": null
+    },
+    {
+      "time": 34.0,
+      "time_str": "00:34.000",
+      "text": "都是你的错 牺牲也是错",
+      "translation": null
+    },
+    {
+      "time": 38.0,
+      "time_str": "00:38.000",
+      "text": "你还要听解释怎么竟变得冷漠",
+      "translation": null
+    },
+    {
+      "time": 41.0,
+      "time_str": "00:41.000",
+      "text": "都是你的错 知心也是错",
+      "translation": null
+    },
+    {
+      "time": 45.0,
+      "time_str": "00:45.000",
+      "text": "你还看紧我",
+      "translation": null
+    },
+    {
+      "time": 48.0,
+      "time_str": "00:48.000",
+      "text": "你叫我怎会可以放手",
+      "translation": null
+    },
+    {
+      "time": 55.0,
+      "time_str": "00:55.000",
+      "text": "若你没厮守一生的决心",
+      "translation": null
+    },
+    {
+      "time": 59.0,
+      "time_str": "00:59.000",
+      "text": "请不要爱上我这么一个人",
+      "translation": null
+    },
+    {
+      "time": 62.0,
+      "time_str": "01:02.000",
+      "text": "在你字典中一句 挥之则去",
+      "translation": null
+    },
+    {
+      "time": 66.0,
+      "time_str": "01:06.000",
+      "text": "对我仍过份",
+      "translation": null
+    },
+    {
+      "time": 69.0,
+      "time_str": "01:09.000",
+      "text": "若你曾讲的都不可算真",
+      "translation": null
+    },
+    {
+      "time": 73.0,
+      "time_str": "01:13.000",
+      "text": "请不要爱上我这么一个人",
+      "translation": null
+    },
+    {
+      "time": 76.0,
+      "time_str": "01:16.000",
+      "text": "而其实 我太认真 心中很记恨",
+      "translation": null
+    },
+    {
+      "time": 83.0,
+      "time_str": "01:23.000",
+      "text": "都是你的错 关心也是错",
+      "translation": null
+    },
+    {
+      "time": 86.0,
+      "time_str": "01:26.000",
+      "text": "你还要把依依不舍都挂于脸上",
+      "translation": null
+    },
+    {
+      "time": 90.0,
+      "time_str": "01:30.000",
+      "text": "都是你的错 潇洒也是错",
+      "translation": null
+    },
+    {
+      "time": 93.0,
+      "time_str": "01:33.000",
+      "text": "你还痛哭过",
+      "translation": null
+    },
+    {
+      "time": 97.0,
+      "time_str": "01:37.000",
+      "text": "都是你的错 牺牲也是错",
+      "translation": null
+    },
+    {
+      "time": 100.0,
+      "time_str": "01:40.000",
+      "text": "你还要听解释怎么竟变得冷漠",
+      "translation": null
+    },
+    {
+      "time": 104.0,
+      "time_str": "01:44.000",
+      "text": "都是你的错 知心也是错",
+      "translation": null
+    },
+    {
+      "time": 107.0,
+      "time_str": "01:47.000",
+      "text": "你还看紧我",
+      "translation": null
+    },
+    {
+      "time": 110.0,
+      "time_str": "01:50.000",
+      "text": "你叫我怎会可以放手",
+      "translation": null
+    },
+    {
+      "time": 117.0,
+      "time_str": "01:57.000",
+      "text": "若你没厮守一生的决心",
+      "translation": null
+    },
+    {
+      "time": 121.0,
+      "time_str": "02:01.000",
+      "text": "请不要爱上我这么一个人",
+      "translation": null
+    },
+    {
+      "time": 125.0,
+      "time_str": "02:05.000",
+      "text": "在你字典中一句 挥之则去",
+      "translation": null
+    },
+    {
+      "time": 130.0,
+      "time_str": "02:10.000",
+      "text": "对我仍过份",
+      "translation": null
+    },
+    {
+      "time": 133.0,
+      "time_str": "02:13.000",
+      "text": "若你曾讲的都不可算真",
+      "translation": null
+    },
+    {
+      "time": 136.0,
+      "time_str": "02:16.000",
+      "text": "请不要爱上我这么一个人",
+      "translation": null
+    },
+    {
+      "time": 140.0,
+      "time_str": "02:20.000",
+      "text": "而其实 我太认真 心中很记恨",
+      "translation": null
+    },
+    {
+      "time": 146.0,
+      "time_str": "02:26.000",
+      "text": "毋须 关心我感受",
+      "translation": null
+    },
+    {
+      "time": 153.0,
+      "time_str": "02:33.000",
+      "text": "毋须 伤透后 你方可以放手",
+      "translation": null
+    },
+    {
+      "time": 175.0,
+      "time_str": "02:55.000",
+      "text": "若你曾讲的都不可算真",
+      "translation": null
+    },
+    {
+      "time": 179.0,
+      "time_str": "02:59.000",
+      "text": "请不要爱上我这么一个人",
+      "translation": null
+    },
+    {
+      "time": 182.0,
+      "time_str": "03:02.000",
+      "text": "而其实 我太认真 心中很记恨",
+      "translation": null
+    },
+    {
+      "time": 189.0,
+      "time_str": "03:09.000",
+      "text": "若你没厮守一生的决心",
+      "translation": null
+    },
+    {
+      "time": 193.0,
+      "time_str": "03:13.000",
+      "text": "请不要爱上我这么一个人",
+      "translation": null
+    },
+    {
+      "time": 196.0,
+      "time_str": "03:16.000",
+      "text": "在你字典中一句 挥之则去",
+      "translation": null
+    },
+    {
+      "time": 200.0,
+      "time_str": "03:20.000",
+      "text": "对我仍过份",
+      "translation": null
+    },
+    {
+      "time": 203.0,
+      "time_str": "03:23.000",
+      "text": "若你曾讲的都不可算真",
+      "translation": null
+    },
+    {
+      "time": 207.0,
+      "time_str": "03:27.000",
+      "text": "请不要爱上我这么一个人",
+      "translation": null
+    },
+    {
+      "time": 210.0,
+      "time_str": "03:30.000",
+      "text": "而其实 我太认真 心中很记恨",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "都是你的错 - 陈慧琳,郑中基.lrc"
+}

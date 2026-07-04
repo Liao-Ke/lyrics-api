@@ -1,0 +1,274 @@
+{
+  "title": "红豆",
+  "title_raw": "红豆",
+  "version": null,
+  "artist": "王菲",
+  "group_key": "红豆|王菲",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "柳重言",
+    "arranger": "Alex San"
+  },
+  "lyrics": [
+    {
+      "time": 15.51,
+      "time_str": "00:15.510",
+      "text": "还没好好的感受",
+      "translation": null
+    },
+    {
+      "time": 20.45,
+      "time_str": "00:20.450",
+      "text": "雪花绽放的气候",
+      "translation": null
+    },
+    {
+      "time": 24.77,
+      "time_str": "00:24.770",
+      "text": "我们一起颤抖会更明白",
+      "translation": null
+    },
+    {
+      "time": 30.1,
+      "time_str": "00:30.100",
+      "text": "什么是温柔",
+      "translation": null
+    },
+    {
+      "time": 33.35,
+      "time_str": "00:33.350",
+      "text": "还没跟你牵着手",
+      "translation": null
+    },
+    {
+      "time": 37.63,
+      "time_str": "00:37.630",
+      "text": "走过荒芜的沙丘",
+      "translation": null
+    },
+    {
+      "time": 41.91,
+      "time_str": "00:41.910",
+      "text": "可能从此以后学会珍惜",
+      "translation": null
+    },
+    {
+      "time": 47.34,
+      "time_str": "00:47.340",
+      "text": "天长和地久",
+      "translation": null
+    },
+    {
+      "time": 50.44,
+      "time_str": "00:50.440",
+      "text": "有时候有时候",
+      "translation": null
+    },
+    {
+      "time": 54.86,
+      "time_str": "00:54.860",
+      "text": "我会相信一切有尽头",
+      "translation": null
+    },
+    {
+      "time": 59.08,
+      "time_str": "00:59.080",
+      "text": "相聚离开都有时候",
+      "translation": null
+    },
+    {
+      "time": 63.4,
+      "time_str": "01:03.400",
+      "text": "没有什么会永垂不朽",
+      "translation": null
+    },
+    {
+      "time": 67.86,
+      "time_str": "01:07.860",
+      "text": "可是我有时候",
+      "translation": null
+    },
+    {
+      "time": 71.96,
+      "time_str": "01:11.960",
+      "text": "宁愿选择留恋不放手",
+      "translation": null
+    },
+    {
+      "time": 76.29,
+      "time_str": "01:16.290",
+      "text": "等到风景都看透",
+      "translation": null
+    },
+    {
+      "time": 80.51,
+      "time_str": "01:20.510",
+      "text": "也许你会",
+      "translation": null
+    },
+    {
+      "time": 82.18,
+      "time_str": "01:22.180",
+      "text": "陪我看细水长流",
+      "translation": null
+    },
+    {
+      "time": 101.22,
+      "time_str": "01:41.220",
+      "text": "还没为你把红豆",
+      "translation": null
+    },
+    {
+      "time": 106.31,
+      "time_str": "01:46.310",
+      "text": "熬成缠绵的伤口",
+      "translation": null
+    },
+    {
+      "time": 110.61,
+      "time_str": "01:50.610",
+      "text": "然后一起分享会更明白",
+      "translation": null
+    },
+    {
+      "time": 115.95,
+      "time_str": "01:55.950",
+      "text": "相思的哀愁",
+      "translation": null
+    },
+    {
+      "time": 119.07,
+      "time_str": "01:59.070",
+      "text": "还没好好的感受",
+      "translation": null
+    },
+    {
+      "time": 123.42,
+      "time_str": "02:03.420",
+      "text": "醒着亲吻的温柔",
+      "translation": null
+    },
+    {
+      "time": 127.65,
+      "time_str": "02:07.650",
+      "text": "可能在我左右你才追求",
+      "translation": null
+    },
+    {
+      "time": 133.15,
+      "time_str": "02:13.150",
+      "text": "孤独的自由",
+      "translation": null
+    },
+    {
+      "time": 138.49,
+      "time_str": "02:18.490",
+      "text": "有时候有时候",
+      "translation": null
+    },
+    {
+      "time": 142.79,
+      "time_str": "02:22.790",
+      "text": "我会相信一切有尽头",
+      "translation": null
+    },
+    {
+      "time": 146.98,
+      "time_str": "02:26.980",
+      "text": "相聚离开都有时候",
+      "translation": null
+    },
+    {
+      "time": 151.27,
+      "time_str": "02:31.270",
+      "text": "没有什么会永垂不朽",
+      "translation": null
+    },
+    {
+      "time": 155.66,
+      "time_str": "02:35.660",
+      "text": "可是我有时候",
+      "translation": null
+    },
+    {
+      "time": 159.87,
+      "time_str": "02:39.870",
+      "text": "宁愿选择留恋不放手",
+      "translation": null
+    },
+    {
+      "time": 164.19,
+      "time_str": "02:44.190",
+      "text": "等到风景都看透",
+      "translation": null
+    },
+    {
+      "time": 168.47,
+      "time_str": "02:48.470",
+      "text": "也许你会",
+      "translation": null
+    },
+    {
+      "time": 170.01,
+      "time_str": "02:50.010",
+      "text": "陪我看细水长流",
+      "translation": null
+    },
+    {
+      "time": 187.31,
+      "time_str": "03:07.310",
+      "text": "有时候有时候",
+      "translation": null
+    },
+    {
+      "time": 192.01,
+      "time_str": "03:12.010",
+      "text": "我会相信一切有尽头",
+      "translation": null
+    },
+    {
+      "time": 196.15,
+      "time_str": "03:16.150",
+      "text": "相聚离开都有时候",
+      "translation": null
+    },
+    {
+      "time": 200.55,
+      "time_str": "03:20.550",
+      "text": "没有什么会永垂不朽",
+      "translation": null
+    },
+    {
+      "time": 204.8,
+      "time_str": "03:24.800",
+      "text": "可是我有时候",
+      "translation": null
+    },
+    {
+      "time": 209.02,
+      "time_str": "03:29.020",
+      "text": "宁愿选择留恋不放手",
+      "translation": null
+    },
+    {
+      "time": 213.47,
+      "time_str": "03:33.470",
+      "text": "等到风景都看透",
+      "translation": null
+    },
+    {
+      "time": 217.76,
+      "time_str": "03:37.760",
+      "text": "也许你会",
+      "translation": null
+    },
+    {
+      "time": 219.31,
+      "time_str": "03:39.310",
+      "text": "陪我看细水长流",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "红豆 - 王菲.lrc"
+}

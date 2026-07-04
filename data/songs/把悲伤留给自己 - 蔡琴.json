@@ -1,0 +1,238 @@
+{
+  "title": "把悲伤留给自己",
+  "title_raw": "把悲伤留给自己",
+  "version": null,
+  "artist": "蔡琴",
+  "group_key": "把悲伤留给自己|蔡琴",
+  "writers": {
+    "lyricist": "陳昇",
+    "composer": "陳昇",
+    "arranger": "鲍比达"
+  },
+  "lyrics": [
+    {
+      "time": 15.5,
+      "time_str": "00:15.500",
+      "text": "能不能让我陪着你走",
+      "translation": null
+    },
+    {
+      "time": 22.35,
+      "time_str": "00:22.350",
+      "text": "既然你说留不住你",
+      "translation": null
+    },
+    {
+      "time": 29.08,
+      "time_str": "00:29.080",
+      "text": "回去的路有些黑暗",
+      "translation": null
+    },
+    {
+      "time": 35.35,
+      "time_str": "00:35.350",
+      "text": "担心让你一个人走",
+      "translation": null
+    },
+    {
+      "time": 42.31,
+      "time_str": "00:42.310",
+      "text": "我想是因为我不够温柔",
+      "translation": null
+    },
+    {
+      "time": 49.0,
+      "time_str": "00:49.000",
+      "text": "不能分担你的忧愁",
+      "translation": null
+    },
+    {
+      "time": 55.57,
+      "time_str": "00:55.570",
+      "text": "如果这样说不出口",
+      "translation": null
+    },
+    {
+      "time": 61.97,
+      "time_str": "01:01.970",
+      "text": "就把遗憾放在心中",
+      "translation": null
+    },
+    {
+      "time": 71.94,
+      "time_str": "01:11.940",
+      "text": "把我的悲伤留给自己你的美丽让你带走",
+      "translation": null
+    },
+    {
+      "time": 85.61,
+      "time_str": "01:25.610",
+      "text": "从此以后我再没有快乐起来的理由",
+      "translation": null
+    },
+    {
+      "time": 98.54,
+      "time_str": "01:38.540",
+      "text": "把我的悲伤留给自己你的美丽让你带走",
+      "translation": null
+    },
+    {
+      "time": 111.94,
+      "time_str": "01:51.940",
+      "text": "我想我可以忍住悲伤可不可以你也会想起我",
+      "translation": null
+    },
+    {
+      "time": 158.88,
+      "time_str": "02:38.880",
+      "text": "是不是可以牵你的手呢",
+      "translation": null
+    },
+    {
+      "time": 165.67,
+      "time_str": "02:45.670",
+      "text": "从来没有这样要求",
+      "translation": null
+    },
+    {
+      "time": 172.5,
+      "time_str": "02:52.500",
+      "text": "怕你难过转身就走",
+      "translation": null
+    },
+    {
+      "time": 179.05,
+      "time_str": "02:59.050",
+      "text": "那就这样吧我会了解",
+      "translation": null
+    },
+    {
+      "time": 188.53,
+      "time_str": "03:08.530",
+      "text": "把我的悲伤留给自己你的美丽让你带走",
+      "translation": null
+    },
+    {
+      "time": 202.33,
+      "time_str": "03:22.330",
+      "text": "从此以后我再没有快乐起来的理由",
+      "translation": null
+    },
+    {
+      "time": 215.2,
+      "time_str": "03:35.200",
+      "text": "我想我可以忍住悲伤假装生命中没有你",
+      "translation": null
+    },
+    {
+      "time": 229.13,
+      "time_str": "03:49.130",
+      "text": "从此以后我在这里日夜等待你的消息",
+      "translation": null
+    },
+    {
+      "time": 245.53,
+      "time_str": "04:05.530",
+      "text": "能不能让我陪着你走",
+      "translation": null
+    },
+    {
+      "time": 252.45,
+      "time_str": "04:12.450",
+      "text": "既然你说留不住你",
+      "translation": null
+    },
+    {
+      "time": 259.07,
+      "time_str": "04:19.070",
+      "text": "无论你在天涯海角",
+      "translation": null
+    },
+    {
+      "time": 265.74,
+      "time_str": "04:25.740",
+      "text": "时不时的偶尔会想起我",
+      "translation": null
+    },
+    {
+      "time": 275.68,
+      "time_str": "04:35.680",
+      "text": "可不可以你也会想起我",
+      "translation": null
+    },
+    {
+      "time": 289.35,
+      "time_str": "04:49.350",
+      "text": "可不可以",
+      "translation": null
+    },
+    {
+      "time": 293.56,
+      "time_str": "04:53.560",
+      "text": "可不可以",
+      "translation": null
+    },
+    {
+      "time": 297.56,
+      "time_str": "04:57.560",
+      "text": "可不可以",
+      "translation": null
+    },
+    {
+      "time": 303.56,
+      "time_str": "05:03.560",
+      "text": "可不可以",
+      "translation": null
+    },
+    {
+      "time": 319.666,
+      "time_str": "05:19.666",
+      "text": "木吉他: 倪方来/苏德华",
+      "translation": null
+    },
+    {
+      "time": 320.12,
+      "time_str": "05:20.120",
+      "text": "键盘/电子合成/贝斯: 鲍比达",
+      "translation": null
+    },
+    {
+      "time": 321.028,
+      "time_str": "05:21.028",
+      "text": "工程: 关葆璇/何君伟/张瑞麟/易国维/蒋自强/许经纶/黄昭浪",
+      "translation": null
+    },
+    {
+      "time": 321.482,
+      "time_str": "05:21.482",
+      "text": "母带: 陈梅苓",
+      "translation": null
+    },
+    {
+      "time": 322.39,
+      "time_str": "05:22.390",
+      "text": "封面设计: 林炳存",
+      "translation": null
+    },
+    {
+      "time": 322.844,
+      "time_str": "05:22.844",
+      "text": "MIDI编程/鼓编程: 何君伟",
+      "translation": null
+    },
+    {
+      "time": 323.752,
+      "time_str": "05:23.752",
+      "text": "混音室: Platinum Studio",
+      "translation": null
+    },
+    {
+      "time": 324.206,
+      "time_str": "05:24.206",
+      "text": "母带后期处理录音室: 异术录音室 Digital Art Studio",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "把悲伤留给自己 - 蔡琴.lrc"
+}

@@ -1,0 +1,220 @@
+{
+  "title": "红蜻蜓",
+  "title_raw": "红蜻蜓",
+  "version": null,
+  "artist": "By2",
+  "group_key": "红蜻蜓|by2",
+  "writers": {
+    "lyricist": "李子恒",
+    "composer": "Tsuyoshi Nagafuchi",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.659,
+      "time_str": "00:11.659",
+      "text": "中文词 : 李子恒",
+      "translation": null
+    },
+    {
+      "time": 31.659,
+      "time_str": "00:31.659",
+      "text": "飞呀飞呀",
+      "translation": null
+    },
+    {
+      "time": 33.51,
+      "time_str": "00:33.510",
+      "text": "看那红色蜻蜓飞在蓝色天空",
+      "translation": null
+    },
+    {
+      "time": 36.83,
+      "time_str": "00:36.830",
+      "text": "游戏在风中不断追逐他的梦",
+      "translation": null
+    },
+    {
+      "time": 41.2,
+      "time_str": "00:41.200",
+      "text": "天空是永恒的家 大地就是他的王国",
+      "translation": null
+    },
+    {
+      "time": 45.23,
+      "time_str": "00:45.230",
+      "text": "飞翔是生活",
+      "translation": null
+    },
+    {
+      "time": 49.25,
+      "time_str": "00:49.250",
+      "text": "我们的童年像追逐成长吹来的风",
+      "translation": null
+    },
+    {
+      "time": 53.55,
+      "time_str": "00:53.550",
+      "text": "轻轻地吹着梦想慢慢升空",
+      "translation": null
+    },
+    {
+      "time": 57.67,
+      "time_str": "00:57.670",
+      "text": "红色的蜻蜓我小时候的小小英雄",
+      "translation": null
+    },
+    {
+      "time": 61.92,
+      "time_str": "01:01.920",
+      "text": "多希望有一天能和它一起飞",
+      "translation": null
+    },
+    {
+      "time": 66.9,
+      "time_str": "01:06.900",
+      "text": "当烦恼愈来愈多 玻璃弹珠愈来愈少",
+      "translation": null
+    },
+    {
+      "time": 70.22,
+      "time_str": "01:10.220",
+      "text": "我知道我已慢慢地长大了",
+      "translation": null
+    },
+    {
+      "time": 75.3,
+      "time_str": "01:15.300",
+      "text": "红色的蜻蜓曾几何时",
+      "translation": null
+    },
+    {
+      "time": 77.4,
+      "time_str": "01:17.400",
+      "text": "也在我岁月慢慢不见了",
+      "translation": null
+    },
+    {
+      "time": 82.8,
+      "time_str": "01:22.800",
+      "text": "我们都已经长大 好多梦正在飞",
+      "translation": null
+    },
+    {
+      "time": 91.12,
+      "time_str": "01:31.120",
+      "text": "就像童年看到的 红色的蜻蜓",
+      "translation": null
+    },
+    {
+      "time": 99.6,
+      "time_str": "01:39.600",
+      "text": "我们都已经长大 好多梦还要飞",
+      "translation": null
+    },
+    {
+      "time": 107.75,
+      "time_str": "01:47.750",
+      "text": "就像现在心目中 红色的蜻蜓",
+      "translation": null
+    },
+    {
+      "time": 131.999,
+      "time_str": "02:11.999",
+      "text": "我们的童年像追逐成长吹来的风",
+      "translation": null
+    },
+    {
+      "time": 136.95,
+      "time_str": "02:16.950",
+      "text": "轻轻地吹着梦想慢慢升空",
+      "translation": null
+    },
+    {
+      "time": 141.17,
+      "time_str": "02:21.170",
+      "text": "红色的蜻蜓我小时候的小小英雄",
+      "translation": null
+    },
+    {
+      "time": 145.26,
+      "time_str": "02:25.260",
+      "text": "多希望有一天能和它一起飞",
+      "translation": null
+    },
+    {
+      "time": 149.57,
+      "time_str": "02:29.570",
+      "text": "当烦恼愈来愈多 玻璃弹珠愈来愈少",
+      "translation": null
+    },
+    {
+      "time": 153.728,
+      "time_str": "02:33.728",
+      "text": "我知道我已慢慢地长大了",
+      "translation": null
+    },
+    {
+      "time": 157.959,
+      "time_str": "02:37.959",
+      "text": "红色的蜻蜓曾几何时",
+      "translation": null
+    },
+    {
+      "time": 160.799,
+      "time_str": "02:40.799",
+      "text": "也在我岁月慢慢不见了",
+      "translation": null
+    },
+    {
+      "time": 167.189,
+      "time_str": "02:47.189",
+      "text": "我们都已经长大 好多梦正在飞",
+      "translation": null
+    },
+    {
+      "time": 175.299,
+      "time_str": "02:55.299",
+      "text": "就像童年看到的 红色的蜻蜓",
+      "translation": null
+    },
+    {
+      "time": 183.14,
+      "time_str": "03:03.140",
+      "text": "我们都已经长大 好多梦还要飞",
+      "translation": null
+    },
+    {
+      "time": 191.249,
+      "time_str": "03:11.249",
+      "text": "就像现在心目中 红色的蜻蜓",
+      "translation": null
+    },
+    {
+      "time": 200.39,
+      "time_str": "03:20.390",
+      "text": "我们都已经长大 好多梦正在飞",
+      "translation": null
+    },
+    {
+      "time": 207.829,
+      "time_str": "03:27.829",
+      "text": "就像童年看到的 红色的蜻蜓",
+      "translation": null
+    },
+    {
+      "time": 216.499,
+      "time_str": "03:36.499",
+      "text": "我们都已经长大 好多梦还要飞",
+      "translation": null
+    },
+    {
+      "time": 224.57,
+      "time_str": "03:44.570",
+      "text": "就像现在心目中 红色的蜻蜓",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "红蜻蜓 - By2.lrc"
+}

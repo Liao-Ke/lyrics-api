@@ -1,0 +1,268 @@
+{
+  "title": "告辞",
+  "title_raw": "告辞",
+  "version": null,
+  "artist": "蒋蒋",
+  "group_key": "告辞|蒋蒋",
+  "writers": {
+    "lyricist": "蒋蒋",
+    "composer": "蒋蒋",
+    "arranger": "邱沐阳"
+  },
+  "lyrics": [
+    {
+      "time": 23.69,
+      "time_str": "00:23.690",
+      "text": "突然离开的人都让我很胆怯",
+      "translation": null
+    },
+    {
+      "time": 32.97,
+      "time_str": "00:32.970",
+      "text": "我也学会矫揉造作的去妥协",
+      "translation": null
+    },
+    {
+      "time": 43.62,
+      "time_str": "00:43.620",
+      "text": "等你轻描淡写告了别",
+      "translation": null
+    },
+    {
+      "time": 47.87,
+      "time_str": "00:47.870",
+      "text": "看你头也不回绕过街",
+      "translation": null
+    },
+    {
+      "time": 52.99,
+      "time_str": "00:52.990",
+      "text": "我要是个孩子那该多撕裂",
+      "translation": null
+    },
+    {
+      "time": 62.97,
+      "time_str": "01:02.970",
+      "text": "其实那晚足足喝够了一整夜",
+      "translation": null
+    },
+    {
+      "time": 72.97,
+      "time_str": "01:12.970",
+      "text": "打了几通电话都提示没人接",
+      "translation": null
+    },
+    {
+      "time": 83.5,
+      "time_str": "01:23.500",
+      "text": "然后故作常态的轻蔑",
+      "translation": null
+    },
+    {
+      "time": 87.97,
+      "time_str": "01:27.970",
+      "text": "然而那是最后的通牒",
+      "translation": null
+    },
+    {
+      "time": 93.13,
+      "time_str": "01:33.130",
+      "text": "我要是个罪犯那该多分裂",
+      "translation": null
+    },
+    {
+      "time": 100.88,
+      "time_str": "01:40.880",
+      "text": "我还要装作若无其事的样子",
+      "translation": null
+    },
+    {
+      "time": 105.74,
+      "time_str": "01:45.740",
+      "text": "我感到话语之间冷漠和讽刺",
+      "translation": null
+    },
+    {
+      "time": 110.81,
+      "time_str": "01:50.810",
+      "text": "与其说爱你这件事",
+      "translation": null
+    },
+    {
+      "time": 114.67,
+      "time_str": "01:54.670",
+      "text": "倒不如痛快的告辞",
+      "translation": null
+    },
+    {
+      "time": 120.83,
+      "time_str": "02:00.830",
+      "text": "就算我像个自命清高的疯子",
+      "translation": null
+    },
+    {
+      "time": 125.73,
+      "time_str": "02:05.730",
+      "text": "绝不会颠沛流离地沦落于此",
+      "translation": null
+    },
+    {
+      "time": 130.95,
+      "time_str": "02:10.950",
+      "text": "感情里谁说谁自私",
+      "translation": null
+    },
+    {
+      "time": 134.55,
+      "time_str": "02:14.550",
+      "text": "到后来都语无伦次",
+      "translation": null
+    },
+    {
+      "time": 162.96,
+      "time_str": "02:42.960",
+      "text": "其实那晚足足喝够了一整夜",
+      "translation": null
+    },
+    {
+      "time": 172.88,
+      "time_str": "02:52.880",
+      "text": "打了几通电话都提示没人接",
+      "translation": null
+    },
+    {
+      "time": 182.88,
+      "time_str": "03:02.880",
+      "text": "然后故作常态的轻蔑",
+      "translation": null
+    },
+    {
+      "time": 188.92,
+      "time_str": "03:08.920",
+      "text": "然而那是最后的通牒",
+      "translation": null
+    },
+    {
+      "time": 193.1,
+      "time_str": "03:13.100",
+      "text": "我要是个罪犯那该多分裂",
+      "translation": null
+    },
+    {
+      "time": 200.89,
+      "time_str": "03:20.890",
+      "text": "我还要装作若无其事的样子",
+      "translation": null
+    },
+    {
+      "time": 205.78,
+      "time_str": "03:25.780",
+      "text": "我感到话语之间冷漠和讽刺",
+      "translation": null
+    },
+    {
+      "time": 210.73,
+      "time_str": "03:30.730",
+      "text": "与其说爱你这件事",
+      "translation": null
+    },
+    {
+      "time": 214.58,
+      "time_str": "03:34.580",
+      "text": "倒不如痛快的告辞",
+      "translation": null
+    },
+    {
+      "time": 220.9,
+      "time_str": "03:40.900",
+      "text": "就算我像个自命清高的疯子",
+      "translation": null
+    },
+    {
+      "time": 225.65,
+      "time_str": "03:45.650",
+      "text": "绝不会颠沛流离地沦落于此",
+      "translation": null
+    },
+    {
+      "time": 230.86,
+      "time_str": "03:50.860",
+      "text": "感情里谁说谁自私",
+      "translation": null
+    },
+    {
+      "time": 234.42,
+      "time_str": "03:54.420",
+      "text": "到后来都语无伦次",
+      "translation": null
+    },
+    {
+      "time": 240.74,
+      "time_str": "04:00.740",
+      "text": "我还要装作若无其事的样子",
+      "translation": null
+    },
+    {
+      "time": 245.9,
+      "time_str": "04:05.900",
+      "text": "我感到话语之间冷漠和讽刺",
+      "translation": null
+    },
+    {
+      "time": 250.7,
+      "time_str": "04:10.700",
+      "text": "与其说爱你这件事",
+      "translation": null
+    },
+    {
+      "time": 254.49,
+      "time_str": "04:14.490",
+      "text": "倒不如痛快的告辞",
+      "translation": null
+    },
+    {
+      "time": 260.92,
+      "time_str": "04:20.920",
+      "text": "就算我像个自命清高的疯子",
+      "translation": null
+    },
+    {
+      "time": 265.87,
+      "time_str": "04:25.870",
+      "text": "绝不会颠沛流离地沦落于此",
+      "translation": null
+    },
+    {
+      "time": 270.94,
+      "time_str": "04:30.940",
+      "text": "感情里谁说谁自私",
+      "translation": null
+    },
+    {
+      "time": 274.71,
+      "time_str": "04:34.710",
+      "text": "到后来都语无伦次",
+      "translation": null
+    },
+    {
+      "time": 277.0,
+      "time_str": "04:37.000",
+      "text": "缩混：殇小谨",
+      "translation": null
+    },
+    {
+      "time": 283.0,
+      "time_str": "04:43.000",
+      "text": "混音室：Hot Music Studio",
+      "translation": null
+    },
+    {
+      "time": 285.0,
+      "time_str": "04:45.000",
+      "text": "企划营销：梦童娱乐",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "告辞 - 蒋蒋.lrc"
+}

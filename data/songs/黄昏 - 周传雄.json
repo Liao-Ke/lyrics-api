@@ -1,0 +1,328 @@
+{
+  "title": "黄昏",
+  "title_raw": "黄昏",
+  "version": null,
+  "artist": "周传雄",
+  "group_key": "黄昏|周传雄",
+  "writers": {
+    "lyricist": "陈信荣",
+    "composer": "周传雄",
+    "arranger": "周传雄"
+  },
+  "lyrics": [
+    {
+      "time": 35.19,
+      "time_str": "00:35.190",
+      "text": "过完整个夏天忧伤并没有好一些",
+      "translation": null
+    },
+    {
+      "time": 41.29,
+      "time_str": "00:41.290",
+      "text": "开车行驶在公路无际无边",
+      "translation": null
+    },
+    {
+      "time": 47.38,
+      "time_str": "00:47.380",
+      "text": "有离开自己的感觉",
+      "translation": null
+    },
+    {
+      "time": 53.64,
+      "time_str": "00:53.640",
+      "text": "唱不完一首歌",
+      "translation": null
+    },
+    {
+      "time": 59.75,
+      "time_str": "00:59.750",
+      "text": "疲倦还剩下黑眼圈",
+      "translation": null
+    },
+    {
+      "time": 65.92,
+      "time_str": "01:05.920",
+      "text": "感情的世界伤害在所难免",
+      "translation": null
+    },
+    {
+      "time": 72.03,
+      "time_str": "01:12.030",
+      "text": "黄昏再美终要黑夜",
+      "translation": null
+    },
+    {
+      "time": 78.64,
+      "time_str": "01:18.640",
+      "text": "依然记得从你口中",
+      "translation": null
+    },
+    {
+      "time": 81.69,
+      "time_str": "01:21.690",
+      "text": "说出再见坚决如铁",
+      "translation": null
+    },
+    {
+      "time": 85.16,
+      "time_str": "01:25.160",
+      "text": "昏暗中有种烈日灼身的错觉",
+      "translation": null
+    },
+    {
+      "time": 90.48,
+      "time_str": "01:30.480",
+      "text": "黄昏的地平线",
+      "translation": null
+    },
+    {
+      "time": 93.53,
+      "time_str": "01:33.530",
+      "text": "划出一句离别",
+      "translation": null
+    },
+    {
+      "time": 96.65,
+      "time_str": "01:36.650",
+      "text": "爱情进入永夜",
+      "translation": null
+    },
+    {
+      "time": 103.23,
+      "time_str": "01:43.230",
+      "text": "依然记得从你眼中",
+      "translation": null
+    },
+    {
+      "time": 106.22,
+      "time_str": "01:46.220",
+      "text": "滑落的泪伤心欲绝",
+      "translation": null
+    },
+    {
+      "time": 109.67,
+      "time_str": "01:49.670",
+      "text": "混乱中有种热泪烧伤的错觉",
+      "translation": null
+    },
+    {
+      "time": 115.1,
+      "time_str": "01:55.100",
+      "text": "黄昏的地平线",
+      "translation": null
+    },
+    {
+      "time": 118.17,
+      "time_str": "01:58.170",
+      "text": "割断幸福喜悦",
+      "translation": null
+    },
+    {
+      "time": 121.34,
+      "time_str": "02:01.340",
+      "text": "相爱已经幻灭",
+      "translation": null
+    },
+    {
+      "time": 139.87,
+      "time_str": "02:19.870",
+      "text": "唱不完一首歌",
+      "translation": null
+    },
+    {
+      "time": 145.89,
+      "time_str": "02:25.890",
+      "text": "疲倦还剩下黑眼圈",
+      "translation": null
+    },
+    {
+      "time": 152.11,
+      "time_str": "02:32.110",
+      "text": "感情的世界伤害在所难免",
+      "translation": null
+    },
+    {
+      "time": 158.14,
+      "time_str": "02:38.140",
+      "text": "黄昏再美终要黑夜",
+      "translation": null
+    },
+    {
+      "time": 164.73,
+      "time_str": "02:44.730",
+      "text": "依然记得从你口中",
+      "translation": null
+    },
+    {
+      "time": 167.79,
+      "time_str": "02:47.790",
+      "text": "说出再见坚决如铁",
+      "translation": null
+    },
+    {
+      "time": 171.26,
+      "time_str": "02:51.260",
+      "text": "昏暗中有种烈日灼身的错觉",
+      "translation": null
+    },
+    {
+      "time": 176.65,
+      "time_str": "02:56.650",
+      "text": "黄昏的地平线",
+      "translation": null
+    },
+    {
+      "time": 179.72,
+      "time_str": "02:59.720",
+      "text": "划出一句离别",
+      "translation": null
+    },
+    {
+      "time": 182.79,
+      "time_str": "03:02.790",
+      "text": "爱情进入永夜",
+      "translation": null
+    },
+    {
+      "time": 189.46,
+      "time_str": "03:09.460",
+      "text": "依然记得从你眼中",
+      "translation": null
+    },
+    {
+      "time": 192.38,
+      "time_str": "03:12.380",
+      "text": "滑落的泪伤心欲绝",
+      "translation": null
+    },
+    {
+      "time": 195.83,
+      "time_str": "03:15.830",
+      "text": "混乱中有种热泪烧伤的错觉",
+      "translation": null
+    },
+    {
+      "time": 201.26,
+      "time_str": "03:21.260",
+      "text": "黄昏的地平线",
+      "translation": null
+    },
+    {
+      "time": 204.34,
+      "time_str": "03:24.340",
+      "text": "割断幸福喜悦",
+      "translation": null
+    },
+    {
+      "time": 207.42,
+      "time_str": "03:27.420",
+      "text": "相爱已经幻灭",
+      "translation": null
+    },
+    {
+      "time": 238.73,
+      "time_str": "03:58.730",
+      "text": "依然记得从你口中",
+      "translation": null
+    },
+    {
+      "time": 241.6,
+      "time_str": "04:01.600",
+      "text": "说出再见坚决如铁",
+      "translation": null
+    },
+    {
+      "time": 245.18,
+      "time_str": "04:05.180",
+      "text": "昏暗中有种烈日灼身的错觉",
+      "translation": null
+    },
+    {
+      "time": 250.49,
+      "time_str": "04:10.490",
+      "text": "黄昏的地平线",
+      "translation": null
+    },
+    {
+      "time": 253.56,
+      "time_str": "04:13.560",
+      "text": "划出一句离别",
+      "translation": null
+    },
+    {
+      "time": 256.64,
+      "time_str": "04:16.640",
+      "text": "爱情进入永夜",
+      "translation": null
+    },
+    {
+      "time": 263.44,
+      "time_str": "04:23.440",
+      "text": "依然记得从你眼中",
+      "translation": null
+    },
+    {
+      "time": 266.26,
+      "time_str": "04:26.260",
+      "text": "滑落的泪伤心欲绝",
+      "translation": null
+    },
+    {
+      "time": 269.71,
+      "time_str": "04:29.710",
+      "text": "混乱中有种热泪烧伤的错觉",
+      "translation": null
+    },
+    {
+      "time": 275.1,
+      "time_str": "04:35.100",
+      "text": "黄昏的地平线",
+      "translation": null
+    },
+    {
+      "time": 278.17,
+      "time_str": "04:38.170",
+      "text": "割断幸福喜悦",
+      "translation": null
+    },
+    {
+      "time": 281.23,
+      "time_str": "04:41.230",
+      "text": "相爱已经幻灭",
+      "translation": null
+    },
+    {
+      "time": 340.19,
+      "time_str": "05:40.190",
+      "text": "贝斯 : Andy Peterson",
+      "translation": null
+    },
+    {
+      "time": 341.19,
+      "time_str": "05:41.190",
+      "text": "混音室 : 白金",
+      "translation": null
+    },
+    {
+      "time": 342.86,
+      "time_str": "05:42.860",
+      "text": "弦乐编写 : 吴庆隆",
+      "translation": null
+    },
+    {
+      "time": 343.19,
+      "time_str": "05:43.190",
+      "text": "配唱编写 : 吴佳明",
+      "translation": null
+    },
+    {
+      "time": 343.52,
+      "time_str": "05:43.520",
+      "text": "SP : Sony/ATV Music Publishing Taiwan​",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "黄昏 - 周传雄.lrc"
+}

@@ -1,0 +1,304 @@
+{
+  "title": "Run Free",
+  "title_raw": "Run Free (feat. IVIE)",
+  "version": "feat. IVIE",
+  "artist": "Deep Chills,IVIE",
+  "group_key": "run free|deep chills,ivie",
+  "writers": {
+    "lyricist": "Vilde Kjos Lie/Gianmaria Sanna",
+    "composer": "Vilde Kjos Lie/Gianmaria Sanna",
+    "arranger": "Deep Chills"
+  },
+  "lyrics": [
+    {
+      "time": 0.7,
+      "time_str": "00:00.700",
+      "text": "I still remember",
+      "translation": "我依然记得"
+    },
+    {
+      "time": 2.7,
+      "time_str": "00:02.700",
+      "text": "Loving in danger",
+      "translation": "在危难中也坚持着爱情"
+    },
+    {
+      "time": 4.7,
+      "time_str": "00:04.700",
+      "text": "You set me on fire",
+      "translation": "你点燃了我热血沸腾的爱意"
+    },
+    {
+      "time": 6.7,
+      "time_str": "00:06.700",
+      "text": "When I'm by your side",
+      "translation": "当我陪伴在侧"
+    },
+    {
+      "time": 9.7,
+      "time_str": "00:09.700",
+      "text": "You taking me higher",
+      "translation": "带我飞向更高"
+    },
+    {
+      "time": 11.7,
+      "time_str": "00:11.700",
+      "text": "I follow you down if we go down",
+      "translation": "若你此刻离开 我会沿路跟随"
+    },
+    {
+      "time": 14.7,
+      "time_str": "00:14.700",
+      "text": "Now you say you wanna get away",
+      "translation": "你说你想离开"
+    },
+    {
+      "time": 16.7,
+      "time_str": "00:16.700",
+      "text": "You wanna take me all the way",
+      "translation": "你想一路带我跟随"
+    },
+    {
+      "time": 19.7,
+      "time_str": "00:19.700",
+      "text": "Might get burned if you get closer",
+      "translation": "若你靠近些 会被灼伤"
+    },
+    {
+      "time": 22.7,
+      "time_str": "00:22.700",
+      "text": "To the sun (I want yah)",
+      "translation": "阳光下 我渴望着你"
+    },
+    {
+      "time": 25.7,
+      "time_str": "00:25.700",
+      "text": "We can burn together fading into one another",
+      "translation": "我们可以尽情燃起似火爱意 直到感觉逐渐消失"
+    },
+    {
+      "time": 36.7,
+      "time_str": "00:36.700",
+      "text": "Ohh!!!Oh don't you know",
+      "translation": "你难道不知道么"
+    },
+    {
+      "time": 37.7,
+      "time_str": "00:37.700",
+      "text": "You're still heaven to me",
+      "translation": "就深爱着我 呼唤我"
+    },
+    {
+      "time": 39.7,
+      "time_str": "00:39.700",
+      "text": "Baby, we could run free",
+      "translation": "呼唤我为你的宝贝 我们就能自在欢愉"
+    },
+    {
+      "time": 42.7,
+      "time_str": "00:42.700",
+      "text": "If you do it just the way I like",
+      "translation": "若你按照我喜欢的方式来"
+    },
+    {
+      "time": 45.7,
+      "time_str": "00:45.700",
+      "text": "Maybe I could waste my time",
+      "translation": "也许我愿意 虚度光阴"
+    },
+    {
+      "time": 47.7,
+      "time_str": "00:47.700",
+      "text": "On you",
+      "translation": "为你"
+    },
+    {
+      "time": 48.7,
+      "time_str": "00:48.700",
+      "text": "Never mind all our worries",
+      "translation": "没关系 就让全世界看到"
+    },
+    {
+      "time": 51.7,
+      "time_str": "00:51.700",
+      "text": "If you do it just the way you like",
+      "translation": "若你按照我喜欢的方式来"
+    },
+    {
+      "time": 54.7,
+      "time_str": "00:54.700",
+      "text": "Maybe I could waste my time",
+      "translation": "也许我愿意 虚度光阴"
+    },
+    {
+      "time": 56.7,
+      "time_str": "00:56.700",
+      "text": "On you",
+      "translation": "为你"
+    },
+    {
+      "time": 79.7,
+      "time_str": "01:19.700",
+      "text": "My deepest of secrets",
+      "translation": "我最深处的秘密"
+    },
+    {
+      "time": 81.7,
+      "time_str": "01:21.700",
+      "text": "Trust you to keep 'em",
+      "translation": "我信任着你并交付于你保护"
+    },
+    {
+      "time": 83.7,
+      "time_str": "01:23.700",
+      "text": "Hiding the words I cannot say",
+      "translation": "我无法说出的 言语之间的隐秘"
+    },
+    {
+      "time": 88.7,
+      "time_str": "01:28.700",
+      "text": "I got what you wanted",
+      "translation": "我有着你渴望的全部"
+    },
+    {
+      "time": 91.7,
+      "time_str": "01:31.700",
+      "text": "I got what you needed",
+      "translation": "也有着你的全部所需"
+    },
+    {
+      "time": 93.7,
+      "time_str": "01:33.700",
+      "text": "It's all in the way",
+      "translation": "这一切都流露在"
+    },
+    {
+      "time": 94.7,
+      "time_str": "01:34.700",
+      "text": "That you say my name",
+      "translation": "当你深情唤出我名"
+    },
+    {
+      "time": 98.7,
+      "time_str": "01:38.700",
+      "text": "Might get burned if you get closer",
+      "translation": "若你靠近些 会被灼伤"
+    },
+    {
+      "time": 101.7,
+      "time_str": "01:41.700",
+      "text": "To the sun (I want yah)",
+      "translation": "阳光下 我渴望着你"
+    },
+    {
+      "time": 104.7,
+      "time_str": "01:44.700",
+      "text": "We can burn together fading into one another",
+      "translation": "我们可以尽情燃起似火爱意 直到感觉逐渐消失"
+    },
+    {
+      "time": 114.7,
+      "time_str": "01:54.700",
+      "text": "Ohh!!!Oh don't you know",
+      "translation": "你难道不知道么"
+    },
+    {
+      "time": 116.7,
+      "time_str": "01:56.700",
+      "text": "You're still heaven to me",
+      "translation": "就深爱着我 呼唤我"
+    },
+    {
+      "time": 118.7,
+      "time_str": "01:58.700",
+      "text": "Baby, we could run free",
+      "translation": "呼唤我为你的宝贝 我们就能自由欢愉"
+    },
+    {
+      "time": 121.7,
+      "time_str": "02:01.700",
+      "text": "If you do it just the way I like",
+      "translation": "若你按照我喜欢的方式来"
+    },
+    {
+      "time": 124.7,
+      "time_str": "02:04.700",
+      "text": "Maybe I could waste my time",
+      "translation": "也许我愿意 虚度光阴"
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "On you",
+      "translation": "为你"
+    },
+    {
+      "time": 128.699,
+      "time_str": "02:08.699",
+      "text": "Never mind all our worries",
+      "translation": "没关系 就让全世界看到"
+    },
+    {
+      "time": 130.699,
+      "time_str": "02:10.699",
+      "text": "If you do it just the way I like",
+      "translation": "若你按照我喜欢的方式来"
+    },
+    {
+      "time": 133.699,
+      "time_str": "02:13.699",
+      "text": "Maybe I could waste my time",
+      "translation": "也许我愿意 虚度光阴"
+    },
+    {
+      "time": 136.699,
+      "time_str": "02:16.699",
+      "text": "On you",
+      "translation": "为你"
+    },
+    {
+      "time": 150.699,
+      "time_str": "02:30.699",
+      "text": "If you do it just the way I like",
+      "translation": "若你按照我喜欢的方式来"
+    },
+    {
+      "time": 153.699,
+      "time_str": "02:33.699",
+      "text": "Maybe I could waste my time",
+      "translation": "也许我愿意 虚度光阴"
+    },
+    {
+      "time": 155.699,
+      "time_str": "02:35.699",
+      "text": "On you",
+      "translation": "为你"
+    },
+    {
+      "time": 157.699,
+      "time_str": "02:37.699",
+      "text": "Never mind all our worries",
+      "translation": "没关系 就让全世界看到"
+    },
+    {
+      "time": 160.699,
+      "time_str": "02:40.699",
+      "text": "If you do it just the way I like",
+      "translation": "若你按照我喜欢的方式来"
+    },
+    {
+      "time": 163.699,
+      "time_str": "02:43.699",
+      "text": "Maybe I could waste my time",
+      "translation": "也许我愿意 虚度光阴"
+    },
+    {
+      "time": 165.699,
+      "time_str": "02:45.699",
+      "text": "On you",
+      "translation": "为你"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Run Free (feat. IVIE) - Deep Chills,IVIE.lrc"
+}

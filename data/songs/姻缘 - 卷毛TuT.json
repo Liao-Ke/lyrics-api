@@ -1,0 +1,256 @@
+{
+  "title": "姻缘",
+  "title_raw": "姻缘",
+  "version": null,
+  "artist": "卷毛TuT",
+  "group_key": "姻缘|卷毛tut",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.443,
+      "time_str": "00:24.443",
+      "text": "翻唱：星一问水",
+      "translation": null
+    },
+    {
+      "time": 28.885,
+      "time_str": "00:28.885",
+      "text": "若不相识 红装难织",
+      "translation": null
+    },
+    {
+      "time": 35.387,
+      "time_str": "00:35.387",
+      "text": "当年姻缘祠已变旧址",
+      "translation": null
+    },
+    {
+      "time": 42.136,
+      "time_str": "00:42.136",
+      "text": "附言三尺 你跟随一直",
+      "translation": null
+    },
+    {
+      "time": 48.886,
+      "time_str": "00:48.886",
+      "text": "我负万般嘱咐写成诗",
+      "translation": null
+    },
+    {
+      "time": 55.137,
+      "time_str": "00:55.137",
+      "text": "弹一曲暮暮朝朝经历的事",
+      "translation": null
+    },
+    {
+      "time": 61.887,
+      "time_str": "01:01.887",
+      "text": "道一句岁岁年年结为连理枝",
+      "translation": null
+    },
+    {
+      "time": 68.888,
+      "time_str": "01:08.888",
+      "text": "化作此间无知",
+      "translation": null
+    },
+    {
+      "time": 72.387,
+      "time_str": "01:12.387",
+      "text": "与你共忆昔日",
+      "translation": null
+    },
+    {
+      "time": 75.636,
+      "time_str": "01:15.636",
+      "text": "且观愁绪化作一缕烟丝",
+      "translation": null
+    },
+    {
+      "time": 82.139,
+      "time_str": "01:22.139",
+      "text": "若是三生有幸愿为骘",
+      "translation": null
+    },
+    {
+      "time": 88.888,
+      "time_str": "01:28.888",
+      "text": "为你披荆斩棘不得弑",
+      "translation": null
+    },
+    {
+      "time": 95.552,
+      "time_str": "01:35.552",
+      "text": "坊间流传故事",
+      "translation": null
+    },
+    {
+      "time": 98.549,
+      "time_str": "01:38.549",
+      "text": "却一直在此",
+      "translation": null
+    },
+    {
+      "time": 108.799,
+      "time_str": "01:48.799",
+      "text": "若是提笔出征是恩赐",
+      "translation": null
+    },
+    {
+      "time": 115.552,
+      "time_str": "01:55.552",
+      "text": "残阳欲与昨日明已辞",
+      "translation": null
+    },
+    {
+      "time": 121.049,
+      "time_str": "02:01.049",
+      "text": "家中香燃参差",
+      "translation": null
+    },
+    {
+      "time": 125.551,
+      "time_str": "02:05.551",
+      "text": "留青史",
+      "translation": null
+    },
+    {
+      "time": 128.052,
+      "time_str": "02:08.052",
+      "text": "不如共此时",
+      "translation": null
+    },
+    {
+      "time": 152.302,
+      "time_str": "02:32.302",
+      "text": "欲言又止 情虽来迟",
+      "translation": null
+    },
+    {
+      "time": 159.052,
+      "time_str": "02:39.052",
+      "text": "海角天涯不过近在咫尺",
+      "translation": null
+    },
+    {
+      "time": 165.551,
+      "time_str": "02:45.551",
+      "text": "成婚之日 淡抹胭脂",
+      "translation": null
+    },
+    {
+      "time": 172.301,
+      "time_str": "02:52.301",
+      "text": "屋内宾客满座栉比鳞次",
+      "translation": null
+    },
+    {
+      "time": 178.552,
+      "time_str": "02:58.552",
+      "text": "弹一曲暮暮朝朝经历的事",
+      "translation": null
+    },
+    {
+      "time": 185.052,
+      "time_str": "03:05.052",
+      "text": "道一句岁岁年年结为连理枝",
+      "translation": null
+    },
+    {
+      "time": 192.302,
+      "time_str": "03:12.302",
+      "text": "化作此间无知",
+      "translation": null
+    },
+    {
+      "time": 195.551,
+      "time_str": "03:15.551",
+      "text": "与你共忆昔日",
+      "translation": null
+    },
+    {
+      "time": 198.804,
+      "time_str": "03:18.804",
+      "text": "且观愁绪化作一缕烟丝",
+      "translation": null
+    },
+    {
+      "time": 205.552,
+      "time_str": "03:25.552",
+      "text": "若是三生有幸愿为骘",
+      "translation": null
+    },
+    {
+      "time": 212.302,
+      "time_str": "03:32.302",
+      "text": "为你披荆斩棘不得弑",
+      "translation": null
+    },
+    {
+      "time": 219.052,
+      "time_str": "03:39.052",
+      "text": "坊间流传故事",
+      "translation": null
+    },
+    {
+      "time": 221.976,
+      "time_str": "03:41.976",
+      "text": "却一直在此",
+      "translation": null
+    },
+    {
+      "time": 232.401,
+      "time_str": "03:52.401",
+      "text": "若是提笔出征是恩赐",
+      "translation": null
+    },
+    {
+      "time": 238.901,
+      "time_str": "03:58.901",
+      "text": "残阳欲与昨日明已辞",
+      "translation": null
+    },
+    {
+      "time": 244.4,
+      "time_str": "04:04.400",
+      "text": "家中香燃参差",
+      "translation": null
+    },
+    {
+      "time": 248.902,
+      "time_str": "04:08.902",
+      "text": "留青史",
+      "translation": null
+    },
+    {
+      "time": 251.401,
+      "time_str": "04:11.401",
+      "text": "不如共此时",
+      "translation": null
+    },
+    {
+      "time": 258.152,
+      "time_str": "04:18.152",
+      "text": "家中香燃参差",
+      "translation": null
+    },
+    {
+      "time": 263.077,
+      "time_str": "04:23.077",
+      "text": "留青史",
+      "translation": null
+    },
+    {
+      "time": 265.577,
+      "time_str": "04:25.577",
+      "text": "不如共此时",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "姻缘 - 卷毛TuT.lrc"
+}

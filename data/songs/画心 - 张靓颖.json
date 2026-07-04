@@ -1,0 +1,226 @@
+{
+  "title": "画心",
+  "title_raw": "画心",
+  "version": null,
+  "artist": "张靓颖",
+  "group_key": "画心|张靓颖",
+  "writers": {
+    "lyricist": "陈少琪",
+    "composer": "藤原いくろう",
+    "arranger": "藤原いくろう"
+  },
+  "lyrics": [
+    {
+      "time": 6.89,
+      "time_str": "00:06.890",
+      "text": "啦啦啦……",
+      "translation": null
+    },
+    {
+      "time": 39.25,
+      "time_str": "00:39.250",
+      "text": "【前奏】",
+      "translation": null
+    },
+    {
+      "time": 65.7,
+      "time_str": "01:05.700",
+      "text": "看不穿 是你失落的魂魄",
+      "translation": null
+    },
+    {
+      "time": 72.46,
+      "time_str": "01:12.460",
+      "text": "猜不透 是你瞳孔的颜色",
+      "translation": null
+    },
+    {
+      "time": 79.23,
+      "time_str": "01:19.230",
+      "text": "一阵风 一场梦 爱如生命般莫测",
+      "translation": null
+    },
+    {
+      "time": 86.04,
+      "time_str": "01:26.040",
+      "text": "你的心到底被什么蛊惑",
+      "translation": null
+    },
+    {
+      "time": 92.7,
+      "time_str": "01:32.700",
+      "text": "你的轮廓在黑夜之中淹没",
+      "translation": null
+    },
+    {
+      "time": 99.93,
+      "time_str": "01:39.930",
+      "text": "看桃花开出怎样的结果",
+      "translation": null
+    },
+    {
+      "time": 106.67,
+      "time_str": "01:46.670",
+      "text": "看着你抱着我 目光似月色寂寞",
+      "translation": null
+    },
+    {
+      "time": 113.54,
+      "time_str": "01:53.540",
+      "text": "就让你在别人怀里快乐",
+      "translation": null
+    },
+    {
+      "time": 120.41,
+      "time_str": "02:00.410",
+      "text": "爱着你 像心跳难触摸",
+      "translation": null
+    },
+    {
+      "time": 127.18,
+      "time_str": "02:07.180",
+      "text": "画着你 画不出你的骨骼",
+      "translation": null
+    },
+    {
+      "time": 134.03,
+      "time_str": "02:14.030",
+      "text": "记着你的脸色 是我等你的执着",
+      "translation": null
+    },
+    {
+      "time": 140.86,
+      "time_str": "02:20.860",
+      "text": "你是我一首唱不完的歌",
+      "translation": null
+    },
+    {
+      "time": 161.41,
+      "time_str": "02:41.410",
+      "text": "看不穿 是你失落的魂魄",
+      "translation": null
+    },
+    {
+      "time": 168.55,
+      "time_str": "02:48.550",
+      "text": "猜不透 是你瞳孔的颜色",
+      "translation": null
+    },
+    {
+      "time": 175.37,
+      "time_str": "02:55.370",
+      "text": "一阵风 一场梦 爱是生命的莫测",
+      "translation": null
+    },
+    {
+      "time": 182.22,
+      "time_str": "03:02.220",
+      "text": "你的心到底被什么蛊惑",
+      "translation": null
+    },
+    {
+      "time": 189.1,
+      "time_str": "03:09.100",
+      "text": "你的轮廓在黑夜之中淹没",
+      "translation": null
+    },
+    {
+      "time": 195.86,
+      "time_str": "03:15.860",
+      "text": "看桃花开出怎样的结果",
+      "translation": null
+    },
+    {
+      "time": 202.72,
+      "time_str": "03:22.720",
+      "text": "看着你抱着我 目光比月色寂寞",
+      "translation": null
+    },
+    {
+      "time": 209.55,
+      "time_str": "03:29.550",
+      "text": "就让你在别人怀里快乐",
+      "translation": null
+    },
+    {
+      "time": 216.4,
+      "time_str": "03:36.400",
+      "text": "爱着你 像心跳难触摸",
+      "translation": null
+    },
+    {
+      "time": 223.17,
+      "time_str": "03:43.170",
+      "text": "画着你 画不出你的骨骼",
+      "translation": null
+    },
+    {
+      "time": 230.04,
+      "time_str": "03:50.040",
+      "text": "记着你的脸色 是我等你的执着",
+      "translation": null
+    },
+    {
+      "time": 236.86,
+      "time_str": "03:56.860",
+      "text": "你是我一首唱不完的歌",
+      "translation": null
+    },
+    {
+      "time": 331.04,
+      "time_str": "05:31.040",
+      "text": "你的轮廓在黑夜之中淹没",
+      "translation": null
+    },
+    {
+      "time": 338.32,
+      "time_str": "05:38.320",
+      "text": "看桃花开出怎样的结果",
+      "translation": null
+    },
+    {
+      "time": 345.12,
+      "time_str": "05:45.120",
+      "text": "看着你抱着我 目光比月色寂寞",
+      "translation": null
+    },
+    {
+      "time": 352.04,
+      "time_str": "05:52.040",
+      "text": "就让你在别人怀里快乐",
+      "translation": null
+    },
+    {
+      "time": 358.91,
+      "time_str": "05:58.910",
+      "text": "爱着你 像心跳难触摸",
+      "translation": null
+    },
+    {
+      "time": 365.68,
+      "time_str": "06:05.680",
+      "text": "画着你 画不出你的骨骼",
+      "translation": null
+    },
+    {
+      "time": 372.49,
+      "time_str": "06:12.490",
+      "text": "记着你的脸色 是我等你的执着",
+      "translation": null
+    },
+    {
+      "time": 379.31,
+      "time_str": "06:19.310",
+      "text": "我的心只愿为你而割舍",
+      "translation": null
+    },
+    {
+      "time": 401.81,
+      "time_str": "06:41.810",
+      "text": "啦……",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "画心 - 张靓颖.lrc"
+}

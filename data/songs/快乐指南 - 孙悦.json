@@ -1,0 +1,304 @@
+{
+  "title": "快乐指南",
+  "title_raw": "快乐指南",
+  "version": null,
+  "artist": "孙悦",
+  "group_key": "快乐指南|孙悦",
+  "writers": {
+    "lyricist": "张俊以",
+    "composer": "金昌焕",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.879,
+      "time_str": "00:29.879",
+      "text": "讨论一下你为什么不快乐",
+      "translation": null
+    },
+    {
+      "time": 32.368,
+      "time_str": "00:32.368",
+      "text": "我们看看幸福手册上它说些什么",
+      "translation": null
+    },
+    {
+      "time": 35.727,
+      "time_str": "00:35.727",
+      "text": "你照它去做 会也收获很多",
+      "translation": null
+    },
+    {
+      "time": 40.08,
+      "time_str": "00:40.080",
+      "text": "别让快乐走了 噢 吧 吧 吧",
+      "translation": null
+    },
+    {
+      "time": 43.489,
+      "time_str": "00:43.489",
+      "text": "不要守着难题总是很忧郁",
+      "translation": null
+    },
+    {
+      "time": 45.789,
+      "time_str": "00:45.789",
+      "text": "命运安排我们日子都有许多坎坷",
+      "translation": null
+    },
+    {
+      "time": 50.208,
+      "time_str": "00:50.208",
+      "text": "如果发现错了 就马上改过",
+      "translation": null
+    },
+    {
+      "time": 54.089,
+      "time_str": "00:54.089",
+      "text": "别让快乐走了噢 吧 吧 吧",
+      "translation": null
+    },
+    {
+      "time": 57.018,
+      "time_str": "00:57.018",
+      "text": "不贪不占 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 59.007,
+      "time_str": "00:59.007",
+      "text": "不抽少喝 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 60.88,
+      "time_str": "01:00.880",
+      "text": "清清白白 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 62.347,
+      "time_str": "01:02.347",
+      "text": "善待朋友 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 64.78,
+      "time_str": "01:04.780",
+      "text": "孝敬老人 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 66.588,
+      "time_str": "01:06.588",
+      "text": "有了爱情 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 68.48,
+      "time_str": "01:08.480",
+      "text": "好的心情总是让你快快乐乐",
+      "translation": null
+    },
+    {
+      "time": 71.668,
+      "time_str": "01:11.668",
+      "text": "你笑一笑它很容易",
+      "translation": null
+    },
+    {
+      "time": 74.68,
+      "time_str": "01:14.680",
+      "text": "不要忧郁不要灰心和叹息",
+      "translation": null
+    },
+    {
+      "time": 78.068,
+      "time_str": "01:18.068",
+      "text": "用你的真心和你的感激",
+      "translation": null
+    },
+    {
+      "time": 81.489,
+      "time_str": "01:21.489",
+      "text": "有了知已有了幸福和甜蜜",
+      "translation": null
+    },
+    {
+      "time": 86.38,
+      "time_str": "01:26.380",
+      "text": "别让那快乐走了 吧 吧 吧吧吧吧",
+      "translation": null
+    },
+    {
+      "time": 96.468,
+      "time_str": "01:36.468",
+      "text": "别让那快乐走了 吧 吧 吧吧吧吧",
+      "translation": null
+    },
+    {
+      "time": 114.49,
+      "time_str": "01:54.490",
+      "text": "讨论一下你为什么不快乐",
+      "translation": null
+    },
+    {
+      "time": 118.14,
+      "time_str": "01:58.140",
+      "text": "我们看看幸福手册上它说些什么",
+      "translation": null
+    },
+    {
+      "time": 122.08,
+      "time_str": "02:02.080",
+      "text": "你照它去做 会也收获很多",
+      "translation": null
+    },
+    {
+      "time": 125.179,
+      "time_str": "02:05.179",
+      "text": "别让那快乐走了 噢 吧 吧 吧",
+      "translation": null
+    },
+    {
+      "time": 128.749,
+      "time_str": "02:08.749",
+      "text": "不要守着难题总是很忧郁",
+      "translation": null
+    },
+    {
+      "time": 131.549,
+      "time_str": "02:11.549",
+      "text": "命运安排我们日子都有许多坎坷",
+      "translation": null
+    },
+    {
+      "time": 135.39,
+      "time_str": "02:15.390",
+      "text": "如果发现错了 就马上改过",
+      "translation": null
+    },
+    {
+      "time": 139.609,
+      "time_str": "02:19.609",
+      "text": "别让快乐走了噢吧吧吧吧",
+      "translation": null
+    },
+    {
+      "time": 142.799,
+      "time_str": "02:22.799",
+      "text": "不贪不占 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 145.319,
+      "time_str": "02:25.319",
+      "text": "不抽少喝 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 146.749,
+      "time_str": "02:26.749",
+      "text": "清清白白 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 148.899,
+      "time_str": "02:28.899",
+      "text": "善待朋友 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 150.489,
+      "time_str": "02:30.489",
+      "text": "孝敬老人 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 151.989,
+      "time_str": "02:31.989",
+      "text": "有了爱情 你会快乐",
+      "translation": null
+    },
+    {
+      "time": 153.899,
+      "time_str": "02:33.899",
+      "text": "好的心情总是让你快快乐乐",
+      "translation": null
+    },
+    {
+      "time": 157.299,
+      "time_str": "02:37.299",
+      "text": "你笑一笑它很容易",
+      "translation": null
+    },
+    {
+      "time": 160.799,
+      "time_str": "02:40.799",
+      "text": "不要忧郁不要灰心和叹息",
+      "translation": null
+    },
+    {
+      "time": 164.349,
+      "time_str": "02:44.349",
+      "text": "用你的真心和你的感激",
+      "translation": null
+    },
+    {
+      "time": 167.379,
+      "time_str": "02:47.379",
+      "text": "有了知已有了幸福和甜蜜",
+      "translation": null
+    },
+    {
+      "time": 172.869,
+      "time_str": "02:52.869",
+      "text": "别让那快乐走了  吧 吧 吧吧吧吧吧吧吧吧",
+      "translation": null
+    },
+    {
+      "time": 180.389,
+      "time_str": "03:00.389",
+      "text": "别让那快乐走了   吧 吧 吧吧吧吧吧吧吧吧",
+      "translation": null
+    },
+    {
+      "time": 197.059,
+      "time_str": "03:17.059",
+      "text": "你笑一笑它很容易",
+      "translation": null
+    },
+    {
+      "time": 203.99,
+      "time_str": "03:23.990",
+      "text": "不要忧郁不要灰心和叹息",
+      "translation": null
+    },
+    {
+      "time": 207.19,
+      "time_str": "03:27.190",
+      "text": "用你的真心和你的感激",
+      "translation": null
+    },
+    {
+      "time": 210.199,
+      "time_str": "03:30.199",
+      "text": "有了知已有了幸福和甜蜜",
+      "translation": null
+    },
+    {
+      "time": 214.089,
+      "time_str": "03:34.089",
+      "text": "别让那快乐走了吧吧吧吧吧吧吧吧吧吧",
+      "translation": null
+    },
+    {
+      "time": 220.299,
+      "time_str": "03:40.299",
+      "text": "别让那快乐走了吧吧吧吧吧吧吧吧吧吧",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "快乐指南 - 孙悦.lrc"
+}

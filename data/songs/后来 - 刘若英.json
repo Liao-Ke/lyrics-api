@@ -1,0 +1,310 @@
+{
+  "title": "后来",
+  "title_raw": "后来",
+  "version": null,
+  "artist": "刘若英",
+  "group_key": "后来|刘若英",
+  "writers": {
+    "lyricist": "施人诚",
+    "composer": "玉城千春",
+    "arranger": "王继康"
+  },
+  "lyrics": [
+    {
+      "time": 12.571,
+      "time_str": "00:12.571",
+      "text": "后来 我总算学会了如何去爱",
+      "translation": null
+    },
+    {
+      "time": 19.303,
+      "time_str": "00:19.303",
+      "text": "可惜你 早已远去 消失在人海",
+      "translation": null
+    },
+    {
+      "time": 25.238,
+      "time_str": "00:25.238",
+      "text": "后来 终于在眼泪中明白",
+      "translation": null
+    },
+    {
+      "time": 32.064,
+      "time_str": "00:32.064",
+      "text": "有些人 一旦错过就不在",
+      "translation": null
+    },
+    {
+      "time": 39.8,
+      "time_str": "00:39.800",
+      "text": "栀子花 白花瓣",
+      "translation": null
+    },
+    {
+      "time": 46.027,
+      "time_str": "00:46.027",
+      "text": "落在我蓝色百褶裙上",
+      "translation": null
+    },
+    {
+      "time": 51.763,
+      "time_str": "00:51.763",
+      "text": "爱你 你轻声说",
+      "translation": null
+    },
+    {
+      "time": 58.844,
+      "time_str": "00:58.844",
+      "text": "我低下头 闻见一阵芬芳",
+      "translation": null
+    },
+    {
+      "time": 65.371,
+      "time_str": "01:05.371",
+      "text": "那个永恒的夜晚",
+      "translation": null
+    },
+    {
+      "time": 69.341,
+      "time_str": "01:09.341",
+      "text": "十七岁仲夏",
+      "translation": null
+    },
+    {
+      "time": 72.104,
+      "time_str": "01:12.104",
+      "text": "你吻我的那个夜晚",
+      "translation": null
+    },
+    {
+      "time": 78.232,
+      "time_str": "01:18.232",
+      "text": "让我往后的时光",
+      "translation": null
+    },
+    {
+      "time": 81.749,
+      "time_str": "01:21.749",
+      "text": "每当有感叹",
+      "translation": null
+    },
+    {
+      "time": 84.862,
+      "time_str": "01:24.862",
+      "text": "总想起当天的星光",
+      "translation": null
+    },
+    {
+      "time": 90.992,
+      "time_str": "01:30.992",
+      "text": "那时候的爱情",
+      "translation": null
+    },
+    {
+      "time": 97.422,
+      "time_str": "01:37.422",
+      "text": "为什么就能那样简单",
+      "translation": null
+    },
+    {
+      "time": 102.493,
+      "time_str": "01:42.493",
+      "text": "而又是为什么 人年少时",
+      "translation": null
+    },
+    {
+      "time": 110.179,
+      "time_str": "01:50.179",
+      "text": "一定要让深爱的人受伤",
+      "translation": null
+    },
+    {
+      "time": 116.301,
+      "time_str": "01:56.301",
+      "text": "在这相似的深夜里",
+      "translation": null
+    },
+    {
+      "time": 120.566,
+      "time_str": "02:00.566",
+      "text": "你是否一样 也在静静追悔感伤",
+      "translation": null
+    },
+    {
+      "time": 129.35,
+      "time_str": "02:09.350",
+      "text": "如果当时我们能",
+      "translation": null
+    },
+    {
+      "time": 133.015,
+      "time_str": "02:13.015",
+      "text": "不那么倔强",
+      "translation": null
+    },
+    {
+      "time": 136.079,
+      "time_str": "02:16.079",
+      "text": "现在也 不那么遗憾",
+      "translation": null
+    },
+    {
+      "time": 141.053,
+      "time_str": "02:21.053",
+      "text": "你都如何回忆我",
+      "translation": null
+    },
+    {
+      "time": 144.014,
+      "time_str": "02:24.014",
+      "text": "带着笑或是很沉默",
+      "translation": null
+    },
+    {
+      "time": 147.231,
+      "time_str": "02:27.231",
+      "text": "这些年来",
+      "translation": null
+    },
+    {
+      "time": 148.837,
+      "time_str": "02:28.837",
+      "text": "有没有人能让你不寂寞",
+      "translation": null
+    },
+    {
+      "time": 153.455,
+      "time_str": "02:33.455",
+      "text": "后来 我总算学会了如何去爱",
+      "translation": null
+    },
+    {
+      "time": 160.238,
+      "time_str": "02:40.238",
+      "text": "可惜你 早已远去 消失在人海",
+      "translation": null
+    },
+    {
+      "time": 166.318,
+      "time_str": "02:46.318",
+      "text": "后来 终于在眼泪中明白",
+      "translation": null
+    },
+    {
+      "time": 173.042,
+      "time_str": "02:53.042",
+      "text": "有些人 一旦错过就不在",
+      "translation": null
+    },
+    {
+      "time": 205.379,
+      "time_str": "03:25.379",
+      "text": "你都如何回忆我",
+      "translation": null
+    },
+    {
+      "time": 208.132,
+      "time_str": "03:28.132",
+      "text": "带着笑或是很沉默",
+      "translation": null
+    },
+    {
+      "time": 211.296,
+      "time_str": "03:31.296",
+      "text": "这些年来",
+      "translation": null
+    },
+    {
+      "time": 212.953,
+      "time_str": "03:32.953",
+      "text": "有没有人能让你不寂寞",
+      "translation": null
+    },
+    {
+      "time": 217.523,
+      "time_str": "03:37.523",
+      "text": "后来",
+      "translation": null
+    },
+    {
+      "time": 219.53,
+      "time_str": "03:39.530",
+      "text": "我总算学会了如何去爱",
+      "translation": null
+    },
+    {
+      "time": 224.301,
+      "time_str": "03:44.301",
+      "text": "可惜你 早已远去 消失在人海",
+      "translation": null
+    },
+    {
+      "time": 230.174,
+      "time_str": "03:50.174",
+      "text": "后来 终于在眼泪中明白",
+      "translation": null
+    },
+    {
+      "time": 237.104,
+      "time_str": "03:57.104",
+      "text": "有些人 一旦错过就不在",
+      "translation": null
+    },
+    {
+      "time": 243.136,
+      "time_str": "04:03.136",
+      "text": "后来 我总算学会了如何去爱",
+      "translation": null
+    },
+    {
+      "time": 249.965,
+      "time_str": "04:09.965",
+      "text": "可惜你 早已远去 消失在人海",
+      "translation": null
+    },
+    {
+      "time": 255.937,
+      "time_str": "04:15.937",
+      "text": "后来 终于在眼泪中明白",
+      "translation": null
+    },
+    {
+      "time": 262.771,
+      "time_str": "04:22.771",
+      "text": "有些人 一旦错过就不在",
+      "translation": null
+    },
+    {
+      "time": 269.598,
+      "time_str": "04:29.598",
+      "text": "永远不会再重来",
+      "translation": null
+    },
+    {
+      "time": 275.51,
+      "time_str": "04:35.510",
+      "text": "有一个男孩爱着那个女孩",
+      "translation": null
+    },
+    {
+      "time": 302.681,
+      "time_str": "05:02.681",
+      "text": "录音工程师 : 周建平 & Peter Chong (MAL)",
+      "translation": null
+    },
+    {
+      "time": 303.781,
+      "time_str": "05:03.781",
+      "text": "混音工程师 : 王晋溢",
+      "translation": null
+    },
+    {
+      "time": 305.981,
+      "time_str": "05:05.981",
+      "text": "混音室 : 白金录音室",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "后来 - 刘若英.lrc"
+}

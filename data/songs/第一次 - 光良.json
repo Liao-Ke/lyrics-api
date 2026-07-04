@@ -1,0 +1,298 @@
+{
+  "title": "第一次",
+  "title_raw": "第一次",
+  "version": null,
+  "artist": "光良",
+  "group_key": "第一次|光良",
+  "writers": {
+    "lyricist": "张天成",
+    "composer": "光良",
+    "arranger": "Mac Chew"
+  },
+  "lyrics": [
+    {
+      "time": 1.95,
+      "time_str": "00:01.950",
+      "text": "打击乐 : Gary",
+      "translation": null
+    },
+    {
+      "time": 2.65,
+      "time_str": "00:02.650",
+      "text": "贝斯 : 玛莎@五月天",
+      "translation": null
+    },
+    {
+      "time": 4.95,
+      "time_str": "00:04.950",
+      "text": "混音室 : 谱丽音（台北）",
+      "translation": null
+    },
+    {
+      "time": 7.65,
+      "time_str": "00:07.650",
+      "text": "当你看着我",
+      "translation": null
+    },
+    {
+      "time": 10.03,
+      "time_str": "00:10.030",
+      "text": "我没有开口 已被你猜透",
+      "translation": null
+    },
+    {
+      "time": 16.98,
+      "time_str": "00:16.980",
+      "text": "还是没把握",
+      "translation": null
+    },
+    {
+      "time": 19.17,
+      "time_str": "00:19.170",
+      "text": "还是没有符合你的要求",
+      "translation": null
+    },
+    {
+      "time": 25.77,
+      "time_str": "00:25.770",
+      "text": "是我自己想得太多",
+      "translation": null
+    },
+    {
+      "time": 29.74,
+      "time_str": "00:29.740",
+      "text": "还是你也在闪躲",
+      "translation": null
+    },
+    {
+      "time": 34.84,
+      "time_str": "00:34.840",
+      "text": "如果真的选择是我",
+      "translation": null
+    },
+    {
+      "time": 38.41,
+      "time_str": "00:38.410",
+      "text": "我鼓起勇气去接受",
+      "translation": null
+    },
+    {
+      "time": 42.1,
+      "time_str": "00:42.100",
+      "text": "不知不觉让视线开始闪烁",
+      "translation": null
+    },
+    {
+      "time": 51.01,
+      "time_str": "00:51.010",
+      "text": "哦 第一次我说爱你的时候",
+      "translation": null
+    },
+    {
+      "time": 55.99,
+      "time_str": "00:55.990",
+      "text": "呼吸难过 心不停的颤抖",
+      "translation": null
+    },
+    {
+      "time": 59.96,
+      "time_str": "00:59.960",
+      "text": "哦 第一次我牵起你的双手",
+      "translation": null
+    },
+    {
+      "time": 64.74,
+      "time_str": "01:04.740",
+      "text": "失去方向 不知该往哪儿走",
+      "translation": null
+    },
+    {
+      "time": 69.97,
+      "time_str": "01:09.970",
+      "text": "那是一起相爱的理由",
+      "translation": null
+    },
+    {
+      "time": 74.67,
+      "time_str": "01:14.670",
+      "text": "那是一起厮守",
+      "translation": null
+    },
+    {
+      "time": 78.26,
+      "time_str": "01:18.260",
+      "text": "哦 第一次吻你深深的酒窝",
+      "translation": null
+    },
+    {
+      "time": 83.39,
+      "time_str": "01:23.390",
+      "text": "想要清醒 却冲昏了头",
+      "translation": null
+    },
+    {
+      "time": 87.53,
+      "time_str": "01:27.530",
+      "text": "哦 第一次你躺在我的胸口",
+      "translation": null
+    },
+    {
+      "time": 92.52,
+      "time_str": "01:32.520",
+      "text": "二十四小时没有分开过",
+      "translation": null
+    },
+    {
+      "time": 97.42,
+      "time_str": "01:37.420",
+      "text": "那是第一次知道天长地久",
+      "translation": null
+    },
+    {
+      "time": 117.4,
+      "time_str": "01:57.400",
+      "text": "是我自己想得太多",
+      "translation": null
+    },
+    {
+      "time": 120.99,
+      "time_str": "02:00.990",
+      "text": "还是你也在闪躲",
+      "translation": null
+    },
+    {
+      "time": 126.12,
+      "time_str": "02:06.120",
+      "text": "如果真的选择是我",
+      "translation": null
+    },
+    {
+      "time": 129.66,
+      "time_str": "02:09.660",
+      "text": "我鼓起勇气去接受",
+      "translation": null
+    },
+    {
+      "time": 133.44,
+      "time_str": "02:13.440",
+      "text": "不知不觉让视线开始闪烁",
+      "translation": null
+    },
+    {
+      "time": 142.31,
+      "time_str": "02:22.310",
+      "text": "哦 第一次我说爱你的时候",
+      "translation": null
+    },
+    {
+      "time": 147.13,
+      "time_str": "02:27.130",
+      "text": "呼吸难过 心不停的颤抖",
+      "translation": null
+    },
+    {
+      "time": 151.32,
+      "time_str": "02:31.320",
+      "text": "哦 第一次我牵起你的双手",
+      "translation": null
+    },
+    {
+      "time": 156.34,
+      "time_str": "02:36.340",
+      "text": "失去方向 不知该往哪儿走",
+      "translation": null
+    },
+    {
+      "time": 161.47,
+      "time_str": "02:41.470",
+      "text": "那是一起相爱的理由 对我",
+      "translation": null
+    },
+    {
+      "time": 171.76,
+      "time_str": "02:51.760",
+      "text": "感觉你属于我",
+      "translation": null
+    },
+    {
+      "time": 175.01,
+      "time_str": "02:55.010",
+      "text": "感觉你的眼眸",
+      "translation": null
+    },
+    {
+      "time": 180.95,
+      "time_str": "03:00.950",
+      "text": "第一次就决定 绝不会错",
+      "translation": null
+    },
+    {
+      "time": 188.26,
+      "time_str": "03:08.260",
+      "text": "哦 第一次我说爱你的时候",
+      "translation": null
+    },
+    {
+      "time": 192.86,
+      "time_str": "03:12.860",
+      "text": "呼吸难过 心不停的颤抖",
+      "translation": null
+    },
+    {
+      "time": 196.93,
+      "time_str": "03:16.930",
+      "text": "哦 第一次我牵起你的双手",
+      "translation": null
+    },
+    {
+      "time": 201.96,
+      "time_str": "03:21.960",
+      "text": "失去方向 不知该往哪儿走",
+      "translation": null
+    },
+    {
+      "time": 206.76,
+      "time_str": "03:26.760",
+      "text": "那是一起相爱的理由",
+      "translation": null
+    },
+    {
+      "time": 211.66,
+      "time_str": "03:31.660",
+      "text": "那是一起厮守",
+      "translation": null
+    },
+    {
+      "time": 215.86,
+      "time_str": "03:35.860",
+      "text": "哦 第一次吻你深深的酒窝",
+      "translation": null
+    },
+    {
+      "time": 221.11,
+      "time_str": "03:41.110",
+      "text": "想要清醒 却冲昏了头",
+      "translation": null
+    },
+    {
+      "time": 225.37,
+      "time_str": "03:45.370",
+      "text": "哦 第一次你躺在我的胸口",
+      "translation": null
+    },
+    {
+      "time": 230.3,
+      "time_str": "03:50.300",
+      "text": "二十四小时没有分开过",
+      "translation": null
+    },
+    {
+      "time": 236.99,
+      "time_str": "03:56.990",
+      "text": "那是第一次知道天长地久",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "第一次 - 光良.lrc"
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Valder Fields",
+  "title_raw": "Valder Fields",
+  "version": null,
+  "artist": "Tamas Wells",
+  "group_key": "valder fields|tamas wells",
+  "writers": {
+    "lyricist": "Tamas Wells",
+    "composer": "Tamas Wells",
+    "arranger": "Tamas Wells"
+  },
+  "lyrics": [
+    {
+      "time": 0.4,
+      "time_str": "00:00.400",
+      "text": "I was found on the ground by the fountain at Valder fields and was almost dry",
+      "translation": "我躺在瓦尔德的田野中，靠在泉水旁被太阳晒得昏昏沉沉"
+    },
+    {
+      "time": 10.01,
+      "time_str": "00:10.010",
+      "text": "lying in the sun after I had tried",
+      "translation": "终于挣扎不动了"
+    },
+    {
+      "time": 13.99,
+      "time_str": "00:13.990",
+      "text": "lying in the sun by the side",
+      "translation": "任凭烈日洗礼吧"
+    },
+    {
+      "time": 21.32,
+      "time_str": "00:21.320",
+      "text": "we had agreed that the council would end at three hours over time",
+      "translation": "我们一致赞同议会将在三个小时后结束"
+    },
+    {
+      "time": 28.44,
+      "time_str": "00:28.440",
+      "text": "Shoelaces were tied at the traffic lights",
+      "translation": "在红绿灯前我系了系鞋带"
+    },
+    {
+      "time": 32.49,
+      "time_str": "00:32.490",
+      "text": "I was running late, could apply",
+      "translation": "虽然还是迟到了，可我想我还能行的"
+    },
+    {
+      "time": 38.74,
+      "time_str": "00:38.740",
+      "text": "For another one I guess",
+      "translation": "换份工作吧，试试吧"
+    },
+    {
+      "time": 42.71,
+      "time_str": "00:42.710",
+      "text": "If department stores are best",
+      "translation": "如果在百货商店最好不过了"
+    },
+    {
+      "time": 47.01,
+      "time_str": "00:47.010",
+      "text": "they said there would be delays",
+      "translation": "无非是拖着几天工资而已"
+    },
+    {
+      "time": 50.98,
+      "time_str": "00:50.980",
+      "text": "Only temporary pay",
+      "translation": "我也知道，这不是长久之计"
+    },
+    {
+      "time": 94.29,
+      "time_str": "01:34.290",
+      "text": "For another one I guess",
+      "translation": "换份工作吧，试试吧"
+    },
+    {
+      "time": 98.31,
+      "time_str": "01:38.310",
+      "text": "If department stores are best",
+      "translation": "如果在百货商店最好不过了"
+    },
+    {
+      "time": 102.438,
+      "time_str": "01:42.438",
+      "text": "They said there would be delays",
+      "translation": "无非是拖着几天工资而已"
+    },
+    {
+      "time": 106.438,
+      "time_str": "01:46.438",
+      "text": "Only temporary pay",
+      "translation": "我也知道，这不是长久之计"
+    },
+    {
+      "time": 111.48,
+      "time_str": "01:51.480",
+      "text": "She was found on the ground in a gown made at Valder fields and was sound asleep",
+      "translation": "她躺在瓦尔德的田野中，穿着精美的定制礼服安稳地睡着了"
+    },
+    {
+      "time": 120.84,
+      "time_str": "02:00.840",
+      "text": "Stairs above the door to the man who cried",
+      "translation": "门外台阶上哭着的那个男人"
+    },
+    {
+      "time": 124.819,
+      "time_str": "02:04.819",
+      "text": "When he said that he loved his life",
+      "translation": "说他曾真的很热爱生活"
+    },
+    {
+      "time": 132.119,
+      "time_str": "02:12.119",
+      "text": "We had agreed that the council should take his keys to the bedroom door",
+      "translation": "我们一致赞成应该拿走他房门的钥匙"
+    },
+    {
+      "time": 139.099,
+      "time_str": "02:19.099",
+      "text": "(In)case he slept outside and was found in two days in Valder fields (with a )mountain view",
+      "translation": "既然他已在瓦尔德如画的山色中睡了两天，那就让他继续沉睡"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Valder Fields - Tamas Wells.lrc"
+}

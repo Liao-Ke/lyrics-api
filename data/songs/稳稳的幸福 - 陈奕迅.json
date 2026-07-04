@@ -1,0 +1,268 @@
+{
+  "title": "稳稳的幸福",
+  "title_raw": "稳稳的幸福",
+  "version": null,
+  "artist": "陈奕迅",
+  "group_key": "稳稳的幸福|陈奕迅",
+  "writers": {
+    "lyricist": "小柯",
+    "composer": "小柯",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.999,
+      "time_str": "00:01.999",
+      "text": "有一天",
+      "translation": null
+    },
+    {
+      "time": 4.1,
+      "time_str": "00:04.100",
+      "text": "我发现自怜资格都已没有",
+      "translation": null
+    },
+    {
+      "time": 10.18,
+      "time_str": "00:10.180",
+      "text": "只剩下不知疲倦的肩膀",
+      "translation": null
+    },
+    {
+      "time": 13.354,
+      "time_str": "00:13.354",
+      "text": "担负着简单的满足",
+      "translation": null
+    },
+    {
+      "time": 18.25,
+      "time_str": "00:18.250",
+      "text": "有一天",
+      "translation": null
+    },
+    {
+      "time": 20.05,
+      "time_str": "00:20.050",
+      "text": "开始从平淡日子感受快乐",
+      "translation": null
+    },
+    {
+      "time": 25.589,
+      "time_str": "00:25.589",
+      "text": "看到了明明白白的远方",
+      "translation": null
+    },
+    {
+      "time": 29.38,
+      "time_str": "00:29.380",
+      "text": "我要的幸福",
+      "translation": null
+    },
+    {
+      "time": 33.3,
+      "time_str": "00:33.300",
+      "text": "我要稳稳的幸福",
+      "translation": null
+    },
+    {
+      "time": 36.999,
+      "time_str": "00:36.999",
+      "text": "能抵挡末日的残酷",
+      "translation": null
+    },
+    {
+      "time": 42.2,
+      "time_str": "00:42.200",
+      "text": "在不安的深夜",
+      "translation": null
+    },
+    {
+      "time": 45.19,
+      "time_str": "00:45.190",
+      "text": "能有个归宿",
+      "translation": null
+    },
+    {
+      "time": 49.099,
+      "time_str": "00:49.099",
+      "text": "我要稳稳的幸福",
+      "translation": null
+    },
+    {
+      "time": 53.3,
+      "time_str": "00:53.300",
+      "text": "能用双手去碰触",
+      "translation": null
+    },
+    {
+      "time": 57.4,
+      "time_str": "00:57.400",
+      "text": "每次伸手入怀中",
+      "translation": null
+    },
+    {
+      "time": 61.2,
+      "time_str": "01:01.200",
+      "text": "有你的温度",
+      "translation": null
+    },
+    {
+      "time": 98.2,
+      "time_str": "01:38.200",
+      "text": "有一天",
+      "translation": null
+    },
+    {
+      "time": 100.09,
+      "time_str": "01:40.090",
+      "text": "我发现自怜资格都已没有",
+      "translation": null
+    },
+    {
+      "time": 105.5,
+      "time_str": "01:45.500",
+      "text": "只剩下不知疲倦的肩膀",
+      "translation": null
+    },
+    {
+      "time": 109.8,
+      "time_str": "01:49.800",
+      "text": "担负着简单的满足",
+      "translation": null
+    },
+    {
+      "time": 113.64,
+      "time_str": "01:53.640",
+      "text": "有一天",
+      "translation": null
+    },
+    {
+      "time": 115.64,
+      "time_str": "01:55.640",
+      "text": "开始从平淡日子感受快乐",
+      "translation": null
+    },
+    {
+      "time": 121.4,
+      "time_str": "02:01.400",
+      "text": "看到了明明白白的远方",
+      "translation": null
+    },
+    {
+      "time": 125.586,
+      "time_str": "02:05.586",
+      "text": "我要的幸福",
+      "translation": null
+    },
+    {
+      "time": 130.289,
+      "time_str": "02:10.289",
+      "text": "我要稳稳的幸福",
+      "translation": null
+    },
+    {
+      "time": 132.839,
+      "time_str": "02:12.839",
+      "text": "能抵挡末日的残酷",
+      "translation": null
+    },
+    {
+      "time": 137.63,
+      "time_str": "02:17.630",
+      "text": "在不安的深夜",
+      "translation": null
+    },
+    {
+      "time": 141.34,
+      "time_str": "02:21.340",
+      "text": "能有个归宿",
+      "translation": null
+    },
+    {
+      "time": 145.594,
+      "time_str": "02:25.594",
+      "text": "我要稳稳的幸福",
+      "translation": null
+    },
+    {
+      "time": 149.058,
+      "time_str": "02:29.058",
+      "text": "能用双手去碰触",
+      "translation": null
+    },
+    {
+      "time": 153.63,
+      "time_str": "02:33.630",
+      "text": "每次伸手入怀中",
+      "translation": null
+    },
+    {
+      "time": 156.94,
+      "time_str": "02:36.940",
+      "text": "有你的温度",
+      "translation": null
+    },
+    {
+      "time": 161.676,
+      "time_str": "02:41.676",
+      "text": "我要稳稳的幸福",
+      "translation": null
+    },
+    {
+      "time": 165.058,
+      "time_str": "02:45.058",
+      "text": "能抵挡失落的痛楚",
+      "translation": null
+    },
+    {
+      "time": 170.24,
+      "time_str": "02:50.240",
+      "text": "一个人的路途",
+      "translation": null
+    },
+    {
+      "time": 173.039,
+      "time_str": "02:53.039",
+      "text": "也不会孤独",
+      "translation": null
+    },
+    {
+      "time": 177.169,
+      "time_str": "02:57.169",
+      "text": "我要稳稳的幸福",
+      "translation": null
+    },
+    {
+      "time": 181.379,
+      "time_str": "03:01.379",
+      "text": "能用生命做长度",
+      "translation": null
+    },
+    {
+      "time": 185.769,
+      "time_str": "03:05.769",
+      "text": "无论我身在何处",
+      "translation": null
+    },
+    {
+      "time": 189.249,
+      "time_str": "03:09.249",
+      "text": "都不会迷途",
+      "translation": null
+    },
+    {
+      "time": 192.989,
+      "time_str": "03:12.989",
+      "text": "我要稳稳的幸福",
+      "translation": null
+    },
+    {
+      "time": 201.664,
+      "time_str": "03:21.664",
+      "text": "这是我想要的幸福",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "稳稳的幸福 - 陈奕迅.lrc"
+}

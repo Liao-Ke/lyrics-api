@@ -1,0 +1,340 @@
+{
+  "title": "青春纪念册",
+  "title_raw": "青春纪念册",
+  "version": null,
+  "artist": "可米小子",
+  "group_key": "青春纪念册|可米小子",
+  "writers": {
+    "lyricist": "陈忠义",
+    "composer": "Nao",
+    "arranger": "王治平"
+  },
+  "lyrics": [
+    {
+      "time": 9.96,
+      "time_str": "00:09.960",
+      "text": "给你我的心作纪念",
+      "translation": null
+    },
+    {
+      "time": 15.58,
+      "time_str": "00:15.580",
+      "text": "这份爱 任何时刻你打开都新鲜",
+      "translation": null
+    },
+    {
+      "time": 20.19,
+      "time_str": "00:20.190",
+      "text": "有我陪伴 多苦都变成甜",
+      "translation": null
+    },
+    {
+      "time": 23.69,
+      "time_str": "00:23.690",
+      "text": "睁开眼就看见永远",
+      "translation": null
+    },
+    {
+      "time": 27.74,
+      "time_str": "00:27.740",
+      "text": "给我你的心作纪念 我的梦",
+      "translation": null
+    },
+    {
+      "time": 32.81,
+      "time_str": "00:32.810",
+      "text": "有你的祝福才能够完全",
+      "translation": null
+    },
+    {
+      "time": 36.3,
+      "time_str": "00:36.300",
+      "text": "风浪再大 我也会勇往直前",
+      "translation": null
+    },
+    {
+      "time": 39.8,
+      "time_str": "00:39.800",
+      "text": "我们的爱 镶在青春的纪念册",
+      "translation": null
+    },
+    {
+      "time": 60.09,
+      "time_str": "01:00.090",
+      "text": "去年夏天",
+      "translation": null
+    },
+    {
+      "time": 64.09,
+      "time_str": "01:04.090",
+      "text": "数着贝壳和浪花的海边",
+      "translation": null
+    },
+    {
+      "time": 67.65,
+      "time_str": "01:07.650",
+      "text": "我们祈祷着明年的今天",
+      "translation": null
+    },
+    {
+      "time": 72.14,
+      "time_str": "01:12.140",
+      "text": "还能够保持这样无忧笑脸",
+      "translation": null
+    },
+    {
+      "time": 76.01,
+      "time_str": "01:16.010",
+      "text": "你是夏天",
+      "translation": null
+    },
+    {
+      "time": 80.31,
+      "time_str": "01:20.310",
+      "text": "有海风吹过棕榈的蓝天",
+      "translation": null
+    },
+    {
+      "time": 83.68,
+      "time_str": "01:23.680",
+      "text": "让我忘记了眼泪有多咸",
+      "translation": null
+    },
+    {
+      "time": 88.05,
+      "time_str": "01:28.050",
+      "text": "你一出现就是晴天",
+      "translation": null
+    },
+    {
+      "time": 91.36,
+      "time_str": "01:31.360",
+      "text": "还想听你任性的说",
+      "translation": null
+    },
+    {
+      "time": 95.16,
+      "time_str": "01:35.160",
+      "text": "要带我去环游世界",
+      "translation": null
+    },
+    {
+      "time": 100.28,
+      "time_str": "01:40.280",
+      "text": "就算整个世界都改变",
+      "translation": null
+    },
+    {
+      "time": 103.71,
+      "time_str": "01:43.710",
+      "text": "也不改变 为你勇敢的自己",
+      "translation": null
+    },
+    {
+      "time": 111.82,
+      "time_str": "01:51.820",
+      "text": "给你我的心作纪念",
+      "translation": null
+    },
+    {
+      "time": 116.38,
+      "time_str": "01:56.380",
+      "text": "这份爱 任何时刻你打开都新鲜",
+      "translation": null
+    },
+    {
+      "time": 121.0,
+      "time_str": "02:01.000",
+      "text": "有我陪伴 多苦都变成甜",
+      "translation": null
+    },
+    {
+      "time": 124.55,
+      "time_str": "02:04.550",
+      "text": "睁开眼就看见永远",
+      "translation": null
+    },
+    {
+      "time": 128.55,
+      "time_str": "02:08.550",
+      "text": "给我你的心作纪念 我的梦",
+      "translation": null
+    },
+    {
+      "time": 133.23,
+      "time_str": "02:13.230",
+      "text": "有你的祝福才能够完全",
+      "translation": null
+    },
+    {
+      "time": 137.22,
+      "time_str": "02:17.220",
+      "text": "风浪再大 我也会勇往直前",
+      "translation": null
+    },
+    {
+      "time": 140.72,
+      "time_str": "02:20.720",
+      "text": "我们的爱 镶在青春的纪念册",
+      "translation": null
+    },
+    {
+      "time": 161.49,
+      "time_str": "02:41.490",
+      "text": "一年以后",
+      "translation": null
+    },
+    {
+      "time": 165.04,
+      "time_str": "02:45.040",
+      "text": "我们踏上了各自的旅途",
+      "translation": null
+    },
+    {
+      "time": 168.73,
+      "time_str": "02:48.730",
+      "text": "虽然经历过不同的故事",
+      "translation": null
+    },
+    {
+      "time": 173.1,
+      "time_str": "02:53.100",
+      "text": "仍记得海边的约定",
+      "translation": null
+    },
+    {
+      "time": 176.96,
+      "time_str": "02:56.960",
+      "text": "还想听你任性的说",
+      "translation": null
+    },
+    {
+      "time": 181.02,
+      "time_str": "03:01.020",
+      "text": "要带我去环游世界",
+      "translation": null
+    },
+    {
+      "time": 184.45,
+      "time_str": "03:04.450",
+      "text": "就算整个世界都改变",
+      "translation": null
+    },
+    {
+      "time": 188.7,
+      "time_str": "03:08.700",
+      "text": "也不改变 为你勇敢的自己",
+      "translation": null
+    },
+    {
+      "time": 196.74,
+      "time_str": "03:16.740",
+      "text": "给你我的心作纪念 这份爱",
+      "translation": null
+    },
+    {
+      "time": 202.42,
+      "time_str": "03:22.420",
+      "text": "任何时刻你打开都新鲜",
+      "translation": null
+    },
+    {
+      "time": 205.85,
+      "time_str": "03:25.850",
+      "text": "有我陪伴 多苦都变成甜",
+      "translation": null
+    },
+    {
+      "time": 209.35,
+      "time_str": "03:29.350",
+      "text": "睁开眼就看见永远",
+      "translation": null
+    },
+    {
+      "time": 213.34,
+      "time_str": "03:33.340",
+      "text": "给我你的心作纪念 我的梦",
+      "translation": null
+    },
+    {
+      "time": 218.65,
+      "time_str": "03:38.650",
+      "text": "有你的祝福才能够完全",
+      "translation": null
+    },
+    {
+      "time": 222.03,
+      "time_str": "03:42.030",
+      "text": "风浪再大 我也会勇往直前",
+      "translation": null
+    },
+    {
+      "time": 225.58,
+      "time_str": "03:45.580",
+      "text": "我们的爱 镶在青春的纪念册",
+      "translation": null
+    },
+    {
+      "time": 245.18,
+      "time_str": "04:05.180",
+      "text": "给你我的心作纪念",
+      "translation": null
+    },
+    {
+      "time": 251.67,
+      "time_str": "04:11.670",
+      "text": "这份爱 任何时刻你打开都新鲜",
+      "translation": null
+    },
+    {
+      "time": 256.1,
+      "time_str": "04:16.100",
+      "text": "有我陪伴 多苦都变成甜",
+      "translation": null
+    },
+    {
+      "time": 259.71,
+      "time_str": "04:19.710",
+      "text": "睁开眼就看见永远",
+      "translation": null
+    },
+    {
+      "time": 263.71,
+      "time_str": "04:23.710",
+      "text": "给我你的心作纪念 我的梦",
+      "translation": null
+    },
+    {
+      "time": 268.89,
+      "time_str": "04:28.890",
+      "text": "有你的祝福才能够完全",
+      "translation": null
+    },
+    {
+      "time": 272.32,
+      "time_str": "04:32.320",
+      "text": "风浪再大 我也会勇往直前",
+      "translation": null
+    },
+    {
+      "time": 275.51,
+      "time_str": "04:35.510",
+      "text": "我们的爱 镶在青春的纪念册",
+      "translation": null
+    },
+    {
+      "time": 284.91,
+      "time_str": "04:44.910",
+      "text": "贝斯：张耿豪",
+      "translation": null
+    },
+    {
+      "time": 288.91,
+      "time_str": "04:48.910",
+      "text": "混音录音师：杨大纬",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "青春纪念册 - 可米小子.lrc"
+}

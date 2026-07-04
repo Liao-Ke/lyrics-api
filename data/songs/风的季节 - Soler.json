@@ -1,0 +1,322 @@
+{
+  "title": "风的季节",
+  "title_raw": "风的季节",
+  "version": null,
+  "artist": "Soler",
+  "group_key": "风的季节|soler",
+  "writers": {
+    "lyricist": "汤正川",
+    "composer": "李雅桑",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.0,
+      "time_str": "00:03.000",
+      "text": "编曲/监制：Soler",
+      "translation": null
+    },
+    {
+      "time": 18.75,
+      "time_str": "00:18.750",
+      "text": "凉风轻轻吹到",
+      "translation": null
+    },
+    {
+      "time": 20.86,
+      "time_str": "00:20.860",
+      "text": "悄然进了我衣襟",
+      "translation": null
+    },
+    {
+      "time": 23.5,
+      "time_str": "00:23.500",
+      "text": "夏天偷去听不见声音",
+      "translation": null
+    },
+    {
+      "time": 27.63,
+      "time_str": "00:27.630",
+      "text": "日子匆匆走过",
+      "translation": null
+    },
+    {
+      "time": 30.24,
+      "time_str": "00:30.240",
+      "text": "倍令我有百感生",
+      "translation": null
+    },
+    {
+      "time": 32.52,
+      "time_str": "00:32.520",
+      "text": "记挂那一片景象缤纷",
+      "translation": null
+    },
+    {
+      "time": 41.72,
+      "time_str": "00:41.720",
+      "text": "随风轻轻吹到",
+      "translation": null
+    },
+    {
+      "time": 44.99,
+      "time_str": "00:44.990",
+      "text": "你步进了我的心",
+      "translation": null
+    },
+    {
+      "time": 46.29,
+      "time_str": "00:46.290",
+      "text": "在一息间改变我一生",
+      "translation": null
+    },
+    {
+      "time": 50.29,
+      "time_str": "00:50.290",
+      "text": "付出多少热诚",
+      "translation": null
+    },
+    {
+      "time": 53.99,
+      "time_str": "00:53.990",
+      "text": "也没法去计得真",
+      "translation": null
+    },
+    {
+      "time": 55.37,
+      "time_str": "00:55.370",
+      "text": "却也不需再惊惧",
+      "translation": null
+    },
+    {
+      "time": 58.92,
+      "time_str": "00:58.920",
+      "text": "风雨侵",
+      "translation": null
+    },
+    {
+      "time": 64.16,
+      "time_str": "01:04.160",
+      "text": "吹啊吹让这风吹",
+      "translation": null
+    },
+    {
+      "time": 68.67,
+      "time_str": "01:08.670",
+      "text": "抹干眼眸里",
+      "translation": null
+    },
+    {
+      "time": 70.98,
+      "time_str": "01:10.980",
+      "text": "亮晶的眼泪",
+      "translation": null
+    },
+    {
+      "time": 73.36,
+      "time_str": "01:13.360",
+      "text": "吹啊吹让这风吹",
+      "translation": null
+    },
+    {
+      "time": 77.67,
+      "time_str": "01:17.670",
+      "text": "哀伤通通带走",
+      "translation": null
+    },
+    {
+      "time": 81.31,
+      "time_str": "01:21.310",
+      "text": "管风里是谁",
+      "translation": null
+    },
+    {
+      "time": 91.77,
+      "time_str": "01:31.770",
+      "text": "从风沙初起想到",
+      "translation": null
+    },
+    {
+      "time": 94.3,
+      "time_str": "01:34.300",
+      "text": "是季节变更",
+      "translation": null
+    },
+    {
+      "time": 96.52,
+      "time_str": "01:36.520",
+      "text": "梦中醒却岁月如飞奔",
+      "translation": null
+    },
+    {
+      "time": 100.73,
+      "time_str": "01:40.730",
+      "text": "是否早订下来",
+      "translation": null
+    },
+    {
+      "time": 104.29,
+      "time_str": "01:44.290",
+      "text": "你或我也会变心",
+      "translation": null
+    },
+    {
+      "time": 105.63,
+      "time_str": "01:45.630",
+      "text": "慨叹怎么会",
+      "translation": null
+    },
+    {
+      "time": 107.99,
+      "time_str": "01:47.990",
+      "text": "久合 终要分",
+      "translation": null
+    },
+    {
+      "time": 115.88,
+      "time_str": "01:55.880",
+      "text": "狂风吹得起劲",
+      "translation": null
+    },
+    {
+      "time": 117.35,
+      "time_str": "01:57.350",
+      "text": "朗月也要被敝隐",
+      "translation": null
+    },
+    {
+      "time": 119.42,
+      "time_str": "01:59.420",
+      "text": "泛起一片迷蒙尘埃滚",
+      "translation": null
+    },
+    {
+      "time": 123.34,
+      "time_str": "02:03.340",
+      "text": "掠走心里一切美梦",
+      "translation": null
+    },
+    {
+      "time": 126.99,
+      "time_str": "02:06.990",
+      "text": "带去那欢欣",
+      "translation": null
+    },
+    {
+      "time": 128.41,
+      "time_str": "02:08.410",
+      "text": "带去我的爱",
+      "translation": null
+    },
+    {
+      "time": 130.4,
+      "time_str": "02:10.400",
+      "text": "只是 独留恨",
+      "translation": null
+    },
+    {
+      "time": 137.67,
+      "time_str": "02:17.670",
+      "text": "吹啊吹 让这风吹",
+      "translation": null
+    },
+    {
+      "time": 142.24,
+      "time_str": "02:22.240",
+      "text": "抹干眼眸里",
+      "translation": null
+    },
+    {
+      "time": 144.49,
+      "time_str": "02:24.490",
+      "text": "亮晶的眼泪",
+      "translation": null
+    },
+    {
+      "time": 146.83,
+      "time_str": "02:26.830",
+      "text": "吹啊吹 让这风吹",
+      "translation": null
+    },
+    {
+      "time": 151.99,
+      "time_str": "02:31.990",
+      "text": "哀伤通通带走",
+      "translation": null
+    },
+    {
+      "time": 155.08,
+      "time_str": "02:35.080",
+      "text": "管风里是谁",
+      "translation": null
+    },
+    {
+      "time": 180.1,
+      "time_str": "03:00.100",
+      "text": "吹啊吹 让这风吹",
+      "translation": null
+    },
+    {
+      "time": 184.89,
+      "time_str": "03:04.890",
+      "text": "抹干眼眸里",
+      "translation": null
+    },
+    {
+      "time": 187.49,
+      "time_str": "03:07.490",
+      "text": "亮晶的眼泪",
+      "translation": null
+    },
+    {
+      "time": 189.39,
+      "time_str": "03:09.390",
+      "text": "吹啊吹 让这风吹",
+      "translation": null
+    },
+    {
+      "time": 193.58,
+      "time_str": "03:13.580",
+      "text": "哀伤通通带走",
+      "translation": null
+    },
+    {
+      "time": 198.53,
+      "time_str": "03:18.530",
+      "text": "吹啊吹 让这风吹",
+      "translation": null
+    },
+    {
+      "time": 202.92,
+      "time_str": "03:22.920",
+      "text": "抹干眼眸里",
+      "translation": null
+    },
+    {
+      "time": 205.39,
+      "time_str": "03:25.390",
+      "text": "亮晶的眼泪",
+      "translation": null
+    },
+    {
+      "time": 208.24,
+      "time_str": "03:28.240",
+      "text": "吹啊吹 让这风吹",
+      "translation": null
+    },
+    {
+      "time": 212.49,
+      "time_str": "03:32.490",
+      "text": "哀伤通通带走",
+      "translation": null
+    },
+    {
+      "time": 216.99,
+      "time_str": "03:36.990",
+      "text": "管风里是谁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "风的季节 - Soler.lrc"
+}

@@ -1,0 +1,334 @@
+{
+  "title": "爱一直存在",
+  "title_raw": "爱一直存在",
+  "version": null,
+  "artist": "梁文音",
+  "group_key": "爱一直存在|梁文音",
+  "writers": {
+    "lyricist": "陈俊达/马嵩惟",
+    "composer": "陈俊达",
+    "arranger": "林于贤"
+  },
+  "lyrics": [
+    {
+      "time": 24.75,
+      "time_str": "00:24.750",
+      "text": "那天我扬起帆",
+      "translation": null
+    },
+    {
+      "time": 29.63,
+      "time_str": "00:29.630",
+      "text": "想看看未知的海",
+      "translation": null
+    },
+    {
+      "time": 33.22,
+      "time_str": "00:33.220",
+      "text": "心里很多话想说说不出来",
+      "translation": null
+    },
+    {
+      "time": 38.75,
+      "time_str": "00:38.750",
+      "text": "虽然我脸上看不出来",
+      "translation": null
+    },
+    {
+      "time": 44.6,
+      "time_str": "00:44.600",
+      "text": "天空一样蔚蓝",
+      "translation": null
+    },
+    {
+      "time": 49.79,
+      "time_str": "00:49.790",
+      "text": "却换了多少云彩",
+      "translation": null
+    },
+    {
+      "time": 53.48,
+      "time_str": "00:53.480",
+      "text": "那时的你让我幸福百分百",
+      "translation": null
+    },
+    {
+      "time": 59.54,
+      "time_str": "00:59.540",
+      "text": "是否为我等待",
+      "translation": null
+    },
+    {
+      "time": 63.418,
+      "time_str": "01:03.418",
+      "text": "我知道 我的爱",
+      "translation": null
+    },
+    {
+      "time": 65.799,
+      "time_str": "01:05.799",
+      "text": "一直都会存在",
+      "translation": null
+    },
+    {
+      "time": 68.87,
+      "time_str": "01:08.870",
+      "text": "没有你泪停不下来",
+      "translation": null
+    },
+    {
+      "time": 73.319,
+      "time_str": "01:13.319",
+      "text": "你知道 我依赖",
+      "translation": null
+    },
+    {
+      "time": 76.938,
+      "time_str": "01:16.938",
+      "text": "多不想 Say good bye",
+      "translation": null
+    },
+    {
+      "time": 78.998,
+      "time_str": "01:18.998",
+      "text": "我痛说不出来",
+      "translation": null
+    },
+    {
+      "time": 83.438,
+      "time_str": "01:23.438",
+      "text": "我知道 我的爱",
+      "translation": null
+    },
+    {
+      "time": 86.06,
+      "time_str": "01:26.060",
+      "text": "一直都会存在",
+      "translation": null
+    },
+    {
+      "time": 89.23,
+      "time_str": "01:29.230",
+      "text": "没有你快乐都停摆",
+      "translation": null
+    },
+    {
+      "time": 93.61,
+      "time_str": "01:33.610",
+      "text": "某一天 我期待",
+      "translation": null
+    },
+    {
+      "time": 96.11,
+      "time_str": "01:36.110",
+      "text": "和你笑的灿烂",
+      "translation": null
+    },
+    {
+      "time": 99.92,
+      "time_str": "01:39.920",
+      "text": "回头看爱 都在",
+      "translation": null
+    },
+    {
+      "time": 123.108,
+      "time_str": "02:03.108",
+      "text": "站在你的门外",
+      "translation": null
+    },
+    {
+      "time": 128.229,
+      "time_str": "02:08.229",
+      "text": "我决心不再徘徊",
+      "translation": null
+    },
+    {
+      "time": 131.909,
+      "time_str": "02:11.909",
+      "text": "心里很多话想说说不出来",
+      "translation": null
+    },
+    {
+      "time": 137.289,
+      "time_str": "02:17.289",
+      "text": "但我想你一定都明白",
+      "translation": null
+    },
+    {
+      "time": 143.289,
+      "time_str": "02:23.289",
+      "text": "时间过的好快",
+      "translation": null
+    },
+    {
+      "time": 148.349,
+      "time_str": "02:28.349",
+      "text": "想念却不曾更改",
+      "translation": null
+    },
+    {
+      "time": 152.099,
+      "time_str": "02:32.099",
+      "text": "现在的你是否幸福百分百",
+      "translation": null
+    },
+    {
+      "time": 158.239,
+      "time_str": "02:38.239",
+      "text": "我应该怎么猜",
+      "translation": null
+    },
+    {
+      "time": 164.429,
+      "time_str": "02:44.429",
+      "text": "我知道 我的爱",
+      "translation": null
+    },
+    {
+      "time": 166.869,
+      "time_str": "02:46.869",
+      "text": "一直都会存在",
+      "translation": null
+    },
+    {
+      "time": 170.099,
+      "time_str": "02:50.099",
+      "text": "没有你泪停不下来",
+      "translation": null
+    },
+    {
+      "time": 174.41,
+      "time_str": "02:54.410",
+      "text": "你知道 我依赖",
+      "translation": null
+    },
+    {
+      "time": 177.039,
+      "time_str": "02:57.039",
+      "text": "多不想 Say good bye",
+      "translation": null
+    },
+    {
+      "time": 180.179,
+      "time_str": "03:00.179",
+      "text": "我痛说不出来",
+      "translation": null
+    },
+    {
+      "time": 184.419,
+      "time_str": "03:04.419",
+      "text": "我知道 我的爱",
+      "translation": null
+    },
+    {
+      "time": 187.049,
+      "time_str": "03:07.049",
+      "text": "一直都会存在",
+      "translation": null
+    },
+    {
+      "time": 190.299,
+      "time_str": "03:10.299",
+      "text": "没有你快乐都停摆",
+      "translation": null
+    },
+    {
+      "time": 194.679,
+      "time_str": "03:14.679",
+      "text": "某一天 我期待",
+      "translation": null
+    },
+    {
+      "time": 197.179,
+      "time_str": "03:17.179",
+      "text": "和你笑的灿烂",
+      "translation": null
+    },
+    {
+      "time": 200.919,
+      "time_str": "03:20.919",
+      "text": "回头看爱 都在",
+      "translation": null
+    },
+    {
+      "time": 207.479,
+      "time_str": "03:27.479",
+      "text": "我知道 我的爱",
+      "translation": null
+    },
+    {
+      "time": 209.859,
+      "time_str": "03:29.859",
+      "text": "一直都会存在",
+      "translation": null
+    },
+    {
+      "time": 212.94,
+      "time_str": "03:32.940",
+      "text": "没有你泪停不下来",
+      "translation": null
+    },
+    {
+      "time": 217.44,
+      "time_str": "03:37.440",
+      "text": "你知道 我依赖",
+      "translation": null
+    },
+    {
+      "time": 220.949,
+      "time_str": "03:40.949",
+      "text": "多不想 Say good bye",
+      "translation": null
+    },
+    {
+      "time": 223.179,
+      "time_str": "03:43.179",
+      "text": "我痛说不出来",
+      "translation": null
+    },
+    {
+      "time": 227.44,
+      "time_str": "03:47.440",
+      "text": "我知道 我的爱",
+      "translation": null
+    },
+    {
+      "time": 229.989,
+      "time_str": "03:49.989",
+      "text": "一直都会存在",
+      "translation": null
+    },
+    {
+      "time": 233.25,
+      "time_str": "03:53.250",
+      "text": "没有你快乐都停摆",
+      "translation": null
+    },
+    {
+      "time": 237.679,
+      "time_str": "03:57.679",
+      "text": "某一天 我期待",
+      "translation": null
+    },
+    {
+      "time": 240.118,
+      "time_str": "04:00.118",
+      "text": "和你笑的灿烂",
+      "translation": null
+    },
+    {
+      "time": 244.0,
+      "time_str": "04:04.000",
+      "text": "回头看爱 都在",
+      "translation": null
+    },
+    {
+      "time": 251.389,
+      "time_str": "04:11.389",
+      "text": "爱一直 存在",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱一直存在 - 梁文音.lrc"
+}

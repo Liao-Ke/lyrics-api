@@ -1,0 +1,268 @@
+{
+  "title": "曹操",
+  "title_raw": "曹操",
+  "version": null,
+  "artist": "林俊杰",
+  "group_key": "曹操|林俊杰",
+  "writers": {
+    "lyricist": "林秋离",
+    "composer": "林俊杰",
+    "arranger": "Kenn C"
+  },
+  "lyrics": [
+    {
+      "time": 26.847,
+      "time_str": "00:26.847",
+      "text": "不是英雄 不读三国",
+      "translation": null
+    },
+    {
+      "time": 33.491,
+      "time_str": "00:33.491",
+      "text": "若是英雄 怎么能不懂寂寞",
+      "translation": null
+    },
+    {
+      "time": 39.701,
+      "time_str": "00:39.701",
+      "text": "独自走下长坂坡 月光太温柔",
+      "translation": null
+    },
+    {
+      "time": 43.195,
+      "time_str": "00:43.195",
+      "text": "曹操不啰嗦 一心要拿荆州",
+      "translation": null
+    },
+    {
+      "time": 46.795,
+      "time_str": "00:46.795",
+      "text": "用阴谋 阳谋 明说 暗夺的摸",
+      "translation": null
+    },
+    {
+      "time": 53.461,
+      "time_str": "00:53.461",
+      "text": "东汉末年分三国",
+      "translation": null
+    },
+    {
+      "time": 56.535,
+      "time_str": "00:56.535",
+      "text": "烽火连天不休",
+      "translation": null
+    },
+    {
+      "time": 60.125,
+      "time_str": "01:00.125",
+      "text": "儿女情长 被乱世左右",
+      "translation": null
+    },
+    {
+      "time": 65.132,
+      "time_str": "01:05.132",
+      "text": "谁来煮酒",
+      "translation": null
+    },
+    {
+      "time": 66.777,
+      "time_str": "01:06.777",
+      "text": "尔虞我诈是三国",
+      "translation": null
+    },
+    {
+      "time": 69.854,
+      "time_str": "01:09.854",
+      "text": "说不清对与错",
+      "translation": null
+    },
+    {
+      "time": 73.444,
+      "time_str": "01:13.444",
+      "text": "纷纷扰扰 千百年以后",
+      "translation": null
+    },
+    {
+      "time": 78.47,
+      "time_str": "01:18.470",
+      "text": "一切又从头",
+      "translation": null
+    },
+    {
+      "time": 93.488,
+      "time_str": "01:33.488",
+      "text": "不是英雄 不读三国",
+      "translation": null
+    },
+    {
+      "time": 100.132,
+      "time_str": "01:40.132",
+      "text": "若是英雄 怎么能不懂寂寞",
+      "translation": null
+    },
+    {
+      "time": 106.39,
+      "time_str": "01:46.390",
+      "text": "独自走下长坂坡 月光太温柔",
+      "translation": null
+    },
+    {
+      "time": 109.857,
+      "time_str": "01:49.857",
+      "text": "曹操不啰嗦 一心要拿荆州",
+      "translation": null
+    },
+    {
+      "time": 113.422,
+      "time_str": "01:53.422",
+      "text": "用阴谋 阳谋 明说 暗夺的摸",
+      "translation": null
+    },
+    {
+      "time": 120.174,
+      "time_str": "02:00.174",
+      "text": "东汉末年分三国",
+      "translation": null
+    },
+    {
+      "time": 123.212,
+      "time_str": "02:03.212",
+      "text": "烽火连天不休",
+      "translation": null
+    },
+    {
+      "time": 126.801,
+      "time_str": "02:06.801",
+      "text": "儿女情长 被乱世左右",
+      "translation": null
+    },
+    {
+      "time": 131.747,
+      "time_str": "02:11.747",
+      "text": "谁来煮酒",
+      "translation": null
+    },
+    {
+      "time": 133.444,
+      "time_str": "02:13.444",
+      "text": "尔虞我诈是三国",
+      "translation": null
+    },
+    {
+      "time": 136.552,
+      "time_str": "02:16.552",
+      "text": "说不清对与错",
+      "translation": null
+    },
+    {
+      "time": 140.139,
+      "time_str": "02:20.139",
+      "text": "纷纷扰扰 千百年以后",
+      "translation": null
+    },
+    {
+      "time": 145.139,
+      "time_str": "02:25.139",
+      "text": "一切又从头",
+      "translation": null
+    },
+    {
+      "time": 159.628,
+      "time_str": "02:39.628",
+      "text": "独自走下长坂坡 月光太温柔",
+      "translation": null
+    },
+    {
+      "time": 163.173,
+      "time_str": "02:43.173",
+      "text": "曹操不啰嗦 一心要拿荆州",
+      "translation": null
+    },
+    {
+      "time": 166.753,
+      "time_str": "02:46.753",
+      "text": "用阴谋 阳谋 明说 暗夺的摸",
+      "translation": null
+    },
+    {
+      "time": 173.44,
+      "time_str": "02:53.440",
+      "text": "东汉末年分三国",
+      "translation": null
+    },
+    {
+      "time": 176.538,
+      "time_str": "02:56.538",
+      "text": "烽火连天不休",
+      "translation": null
+    },
+    {
+      "time": 180.111,
+      "time_str": "03:00.111",
+      "text": "儿女情长 被乱世左右",
+      "translation": null
+    },
+    {
+      "time": 185.068,
+      "time_str": "03:05.068",
+      "text": "谁来煮酒",
+      "translation": null
+    },
+    {
+      "time": 186.754,
+      "time_str": "03:06.754",
+      "text": "尔虞我诈是三国",
+      "translation": null
+    },
+    {
+      "time": 189.823,
+      "time_str": "03:09.823",
+      "text": "说不清对与错",
+      "translation": null
+    },
+    {
+      "time": 193.42,
+      "time_str": "03:13.420",
+      "text": "纷纷扰扰 千百年以后",
+      "translation": null
+    },
+    {
+      "time": 198.447,
+      "time_str": "03:18.447",
+      "text": "一切又从头",
+      "translation": null
+    },
+    {
+      "time": 215.1,
+      "time_str": "03:35.100",
+      "text": "配唱制作 : 许环良",
+      "translation": null
+    },
+    {
+      "time": 217.2,
+      "time_str": "03:37.200",
+      "text": "制作协力 : 林俊杰 / David Koon / 林子钦",
+      "translation": null
+    },
+    {
+      "time": 221.4,
+      "time_str": "03:41.400",
+      "text": "低音吉他 : Kenn C",
+      "translation": null
+    },
+    {
+      "time": 231.9,
+      "time_str": "03:51.900",
+      "text": "混音室 : Blue Moon Studio（加利福尼亚州）",
+      "translation": null
+    },
+    {
+      "time": 238.2,
+      "time_str": "03:58.200",
+      "text": "SP : 大潮音乐经纪有限公司",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "曹操 - 林俊杰.lrc"
+}

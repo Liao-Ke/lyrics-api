@@ -1,0 +1,88 @@
+{
+  "title": "天堂",
+  "title_raw": "天堂",
+  "version": null,
+  "artist": "腾格尔",
+  "group_key": "天堂|腾格尔",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 77.07,
+      "time_str": "01:17.070",
+      "text": "蓝蓝的天空 清清的湖水 哎耶",
+      "translation": null
+    },
+    {
+      "time": 92.51,
+      "time_str": "01:32.510",
+      "text": "绿绿的草原 这是我的家 哎耶",
+      "translation": null
+    },
+    {
+      "time": 107.59,
+      "time_str": "01:47.590",
+      "text": "奔驰的骏马 洁白的羊群 哎耶",
+      "translation": null
+    },
+    {
+      "time": 122.89,
+      "time_str": "02:02.890",
+      "text": "还有你姑娘 这是我的家 哎耶",
+      "translation": null
+    },
+    {
+      "time": 141.07,
+      "time_str": "02:21.070",
+      "text": "我爱你我的家 我的家我 的天堂",
+      "translation": null
+    },
+    {
+      "time": 157.16,
+      "time_str": "02:37.160",
+      "text": "我爱你我的家 我的家我 的天堂",
+      "translation": null
+    },
+    {
+      "time": 191.33,
+      "time_str": "03:11.330",
+      "text": "蓝蓝的天空 清清的湖水 哎耶",
+      "translation": null
+    },
+    {
+      "time": 206.55,
+      "time_str": "03:26.550",
+      "text": "绿绿的草原 这是我的家 哎耶",
+      "translation": null
+    },
+    {
+      "time": 221.81,
+      "time_str": "03:41.810",
+      "text": "奔驰的骏马 洁白的羊群 哎耶",
+      "translation": null
+    },
+    {
+      "time": 237.1,
+      "time_str": "03:57.100",
+      "text": "还有你姑娘 这是我的家 哎耶",
+      "translation": null
+    },
+    {
+      "time": 255.24,
+      "time_str": "04:15.240",
+      "text": "我爱你我的家 我的家 我的天堂",
+      "translation": null
+    },
+    {
+      "time": 271.44,
+      "time_str": "04:31.440",
+      "text": "我爱你我的家 我的家 我的天堂",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天堂 - 腾格尔.lrc"
+}

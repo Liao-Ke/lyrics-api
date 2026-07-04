@@ -1,0 +1,286 @@
+{
+  "title": "Proud Of You",
+  "title_raw": "Proud Of You",
+  "version": null,
+  "artist": "冯曦妤",
+  "group_key": "proud of you|冯曦妤",
+  "writers": {
+    "lyricist": "Anders Lee",
+    "composer": "陈光荣",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.899,
+      "time_str": "00:11.899",
+      "text": "Love in your eyes",
+      "translation": "你的眼中闪烁着爱意"
+    },
+    {
+      "time": 14.329,
+      "time_str": "00:14.329",
+      "text": "Sitting silent by my side",
+      "translation": "静静地坐在我身旁"
+    },
+    {
+      "time": 17.579,
+      "time_str": "00:17.579",
+      "text": "Going on Holding hands",
+      "translation": "请牵着我的手一起"
+    },
+    {
+      "time": 19.889,
+      "time_str": "00:19.889",
+      "text": "Walking through the nights",
+      "translation": "度过这美好的夜晚"
+    },
+    {
+      "time": 22.689,
+      "time_str": "00:22.689",
+      "text": "Hold me up Hold me tight",
+      "translation": "请紧紧地抱住我"
+    },
+    {
+      "time": 25.439,
+      "time_str": "00:25.439",
+      "text": "Lift me up to touch the sky",
+      "translation": "让我感受这天空的辽阔"
+    },
+    {
+      "time": 28.59,
+      "time_str": "00:28.590",
+      "text": "Teaching me to love with heart",
+      "translation": "让我用心爱这世界"
+    },
+    {
+      "time": 31.268,
+      "time_str": "00:31.268",
+      "text": "Helping me open my mind",
+      "translation": "让我看到未来的精彩"
+    },
+    {
+      "time": 34.688,
+      "time_str": "00:34.688",
+      "text": "I can fly",
+      "translation": "我可以飞翔"
+    },
+    {
+      "time": 36.187,
+      "time_str": "00:36.187",
+      "text": "I'm proud that I can fly",
+      "translation": "很高兴我可以飞翔"
+    },
+    {
+      "time": 39.779,
+      "time_str": "00:39.779",
+      "text": "To give the best of mine",
+      "translation": "我愿撒下心中的善意"
+    },
+    {
+      "time": 42.479,
+      "time_str": "00:42.479",
+      "text": "Till the end of the time",
+      "translation": "就这样一直努力下去"
+    },
+    {
+      "time": 44.707,
+      "time_str": "00:44.707",
+      "text": "Believe me I can fly",
+      "translation": "请相信我可以飞翔"
+    },
+    {
+      "time": 48.188,
+      "time_str": "00:48.188",
+      "text": "I'm proud that I can fly",
+      "translation": "很高兴我可以飞翔"
+    },
+    {
+      "time": 51.188,
+      "time_str": "00:51.188",
+      "text": "To give the best of mine",
+      "translation": "也请让我追逐自己的梦想"
+    },
+    {
+      "time": 53.767,
+      "time_str": "00:53.767",
+      "text": "The heaven in the sky",
+      "translation": "找到心中的天堂"
+    },
+    {
+      "time": 71.679,
+      "time_str": "01:11.679",
+      "text": "Stars in the sky",
+      "translation": "望着夜空闪烁的明星"
+    },
+    {
+      "time": 73.108,
+      "time_str": "01:13.108",
+      "text": "Wishing once upon a time",
+      "translation": "想起曾经的愿望是多么美好"
+    },
+    {
+      "time": 76.889,
+      "time_str": "01:16.889",
+      "text": "Give me love Make me smile",
+      "translation": "请给我你的爱，让我去微笑面对这一切"
+    },
+    {
+      "time": 78.999,
+      "time_str": "01:18.999",
+      "text": "Till the end of life",
+      "translation": "直到我生命的尽头"
+    },
+    {
+      "time": 81.518,
+      "time_str": "01:21.518",
+      "text": "Hold me up Hold me tight",
+      "translation": "请紧紧地抱住我"
+    },
+    {
+      "time": 85.699,
+      "time_str": "01:25.699",
+      "text": "Lift me up to touch the sky",
+      "translation": "让我感受这天空的辽阔"
+    },
+    {
+      "time": 88.597,
+      "time_str": "01:28.597",
+      "text": "Teaching me to love with heart",
+      "translation": "让我用心爱这世界"
+    },
+    {
+      "time": 92.499,
+      "time_str": "01:32.499",
+      "text": "Helping me open my mind",
+      "translation": "让我看到未来的精彩"
+    },
+    {
+      "time": 94.78,
+      "time_str": "01:34.780",
+      "text": "I can fly",
+      "translation": "我可以飞翔"
+    },
+    {
+      "time": 96.496,
+      "time_str": "01:36.496",
+      "text": "I'm proud that I can fly",
+      "translation": "很高兴我可以飞翔"
+    },
+    {
+      "time": 99.238,
+      "time_str": "01:39.238",
+      "text": "To give the best of mine",
+      "translation": "我愿撒下心中的善意"
+    },
+    {
+      "time": 102.78,
+      "time_str": "01:42.780",
+      "text": "Till the end of the time",
+      "translation": "就这样一直努力下去"
+    },
+    {
+      "time": 105.379,
+      "time_str": "01:45.379",
+      "text": "Believe me I can fly",
+      "translation": "请相信我可以飞翔"
+    },
+    {
+      "time": 108.019,
+      "time_str": "01:48.019",
+      "text": "I'm proud that I can fly",
+      "translation": "很高兴我可以飞翔"
+    },
+    {
+      "time": 111.019,
+      "time_str": "01:51.019",
+      "text": "To give the best of mine",
+      "translation": "也请让我追逐自己的梦想"
+    },
+    {
+      "time": 114.579,
+      "time_str": "01:54.579",
+      "text": "The heaven in the sky",
+      "translation": "找到心中的天堂"
+    },
+    {
+      "time": 127.909,
+      "time_str": "02:07.909",
+      "text": "Can't you believe that you light up my way",
+      "translation": "你不相信吗是你给我带来了一束光"
+    },
+    {
+      "time": 132.49,
+      "time_str": "02:12.490",
+      "text": "No matter how that ease my path",
+      "translation": "让我总能看到前方的路"
+    },
+    {
+      "time": 135.949,
+      "time_str": "02:15.949",
+      "text": "I'll never lose my faith",
+      "translation": "我会永远保持自信"
+    },
+    {
+      "time": 138.69,
+      "time_str": "02:18.690",
+      "text": "See me fly",
+      "translation": "你看我在飞翔"
+    },
+    {
+      "time": 140.309,
+      "time_str": "02:20.309",
+      "text": "I'm proud to fly up high",
+      "translation": "很幸福我飞得越来越高"
+    },
+    {
+      "time": 144.0,
+      "time_str": "02:24.000",
+      "text": "Show you the best of mine",
+      "translation": "也让你看到了全力拼搏的自己"
+    },
+    {
+      "time": 145.949,
+      "time_str": "02:25.949",
+      "text": "Till the end of the time",
+      "translation": "就这样一直努力下去"
+    },
+    {
+      "time": 149.59,
+      "time_str": "02:29.590",
+      "text": "Believe me I can fly",
+      "translation": "请相信我可以飞翔"
+    },
+    {
+      "time": 152.7,
+      "time_str": "02:32.700",
+      "text": "I'm singing in the sky",
+      "translation": "我在蓝天上大声歌唱"
+    },
+    {
+      "time": 156.09,
+      "time_str": "02:36.090",
+      "text": "Show you the best of mine",
+      "translation": "让你看到积极向上的自己"
+    },
+    {
+      "time": 157.599,
+      "time_str": "02:37.599",
+      "text": "The heaven in the sky",
+      "translation": "看到我心中的天堂"
+    },
+    {
+      "time": 163.099,
+      "time_str": "02:43.099",
+      "text": "Nothing can stop me",
+      "translation": "我会勇敢走下去"
+    },
+    {
+      "time": 165.469,
+      "time_str": "02:45.469",
+      "text": "Spread my wings so wide",
+      "translation": "随着梦想的翅膀渐渐展开"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Proud Of You - 冯曦妤.lrc"
+}

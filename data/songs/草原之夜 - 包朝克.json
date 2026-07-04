@@ -1,0 +1,130 @@
+{
+  "title": "草原之夜",
+  "title_raw": "草原之夜",
+  "version": null,
+  "artist": "包朝克",
+  "group_key": "草原之夜|包朝克",
+  "writers": {
+    "lyricist": null,
+    "composer": "田歌",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.03,
+      "time_str": "00:01.030",
+      "text": "草原之夜",
+      "translation": null
+    },
+    {
+      "time": 7.19,
+      "time_str": "00:07.190",
+      "text": "---梦之旅合唱组合---",
+      "translation": null
+    },
+    {
+      "time": 20.35,
+      "time_str": "00:20.350",
+      "text": "美丽的夜色多沉静",
+      "translation": null
+    },
+    {
+      "time": 34.61,
+      "time_str": "00:34.610",
+      "text": "草原上只留下我的琴声",
+      "translation": null
+    },
+    {
+      "time": 51.42,
+      "time_str": "00:51.420",
+      "text": "想给远方的姑娘写封信",
+      "translation": null
+    },
+    {
+      "time": 68.28,
+      "time_str": "01:08.280",
+      "text": "可惜没有邮递员来传情",
+      "translation": null
+    },
+    {
+      "time": 82.86,
+      "time_str": "01:22.860",
+      "text": "来......",
+      "translation": null
+    },
+    {
+      "time": 97.08,
+      "time_str": "01:37.080",
+      "text": "可惜没有邮递员来传情",
+      "translation": null
+    },
+    {
+      "time": 109.19,
+      "time_str": "01:49.190",
+      "text": "Music......",
+      "translation": null
+    },
+    {
+      "time": 131.09,
+      "time_str": "02:11.090",
+      "text": "等到千里雪消融",
+      "translation": null
+    },
+    {
+      "time": 145.18,
+      "time_str": "02:25.180",
+      "text": "等到草原上送来春风",
+      "translation": null
+    },
+    {
+      "time": 161.91,
+      "time_str": "02:41.910",
+      "text": "可克达拉改变了模样",
+      "translation": null
+    },
+    {
+      "time": 178.7,
+      "time_str": "02:58.700",
+      "text": "姑娘就会来伴我的琴声",
+      "translation": null
+    },
+    {
+      "time": 193.06,
+      "time_str": "03:13.060",
+      "text": "来......",
+      "translation": null
+    },
+    {
+      "time": 207.54,
+      "time_str": "03:27.540",
+      "text": "姑娘就会来伴我的琴声",
+      "translation": null
+    },
+    {
+      "time": 222.0,
+      "time_str": "03:42.000",
+      "text": "来......",
+      "translation": null
+    },
+    {
+      "time": 236.32,
+      "time_str": "03:56.320",
+      "text": "姑娘就会来伴我的琴声",
+      "translation": null
+    },
+    {
+      "time": 248.37,
+      "time_str": "04:08.370",
+      "text": "Music...",
+      "translation": null
+    },
+    {
+      "time": 260.41,
+      "time_str": "04:20.410",
+      "text": "---End---",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "草原之夜 - 包朝克.lrc"
+}

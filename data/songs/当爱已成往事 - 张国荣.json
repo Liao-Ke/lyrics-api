@@ -1,0 +1,364 @@
+{
+  "title": "当爱已成往事",
+  "title_raw": "当爱已成往事",
+  "version": null,
+  "artist": "张国荣",
+  "group_key": "当爱已成往事|张国荣",
+  "writers": {
+    "lyricist": "李宗盛",
+    "composer": "李宗盛",
+    "arranger": "梁伯君"
+  },
+  "lyrics": [
+    {
+      "time": 0.3,
+      "time_str": "00:00.300",
+      "text": "原唱 : 林忆莲 / 李宗盛",
+      "translation": null
+    },
+    {
+      "time": 1.46,
+      "time_str": "00:01.460",
+      "text": "啊呀 依孤看来",
+      "translation": null
+    },
+    {
+      "time": 8.1,
+      "time_str": "00:08.100",
+      "text": "今日已是你我分别之日了",
+      "translation": null
+    },
+    {
+      "time": 45.76,
+      "time_str": "00:45.760",
+      "text": "往事不要再提",
+      "translation": null
+    },
+    {
+      "time": 49.42,
+      "time_str": "00:49.420",
+      "text": "人生已多风雨",
+      "translation": null
+    },
+    {
+      "time": 53.2,
+      "time_str": "00:53.200",
+      "text": "纵然记忆抹不去",
+      "translation": null
+    },
+    {
+      "time": 55.61,
+      "time_str": "00:55.610",
+      "text": "爱与恨都还在心里",
+      "translation": null
+    },
+    {
+      "time": 60.76,
+      "time_str": "01:00.760",
+      "text": "真的要断了过去",
+      "translation": null
+    },
+    {
+      "time": 64.37,
+      "time_str": "01:04.370",
+      "text": "让明天好好继续",
+      "translation": null
+    },
+    {
+      "time": 68.79,
+      "time_str": "01:08.790",
+      "text": "你就不要再苦苦追问我的消息",
+      "translation": null
+    },
+    {
+      "time": 75.68,
+      "time_str": "01:15.680",
+      "text": "爱情它是个难题",
+      "translation": null
+    },
+    {
+      "time": 79.48,
+      "time_str": "01:19.480",
+      "text": "让人目眩神迷",
+      "translation": null
+    },
+    {
+      "time": 83.58,
+      "time_str": "01:23.580",
+      "text": "忘了痛或许可以",
+      "translation": null
+    },
+    {
+      "time": 84.99,
+      "time_str": "01:24.990",
+      "text": "忘了你却太不容易",
+      "translation": null
+    },
+    {
+      "time": 90.87,
+      "time_str": "01:30.870",
+      "text": "你不曾真的离去",
+      "translation": null
+    },
+    {
+      "time": 94.55,
+      "time_str": "01:34.550",
+      "text": "你始终在我心里",
+      "translation": null
+    },
+    {
+      "time": 98.84,
+      "time_str": "01:38.840",
+      "text": "我对你仍有爱意",
+      "translation": null
+    },
+    {
+      "time": 100.68,
+      "time_str": "01:40.680",
+      "text": "我对自己无能为力",
+      "translation": null
+    },
+    {
+      "time": 105.26,
+      "time_str": "01:45.260",
+      "text": "因为我仍有梦",
+      "translation": null
+    },
+    {
+      "time": 108.96,
+      "time_str": "01:48.960",
+      "text": "依然将你放在我心中",
+      "translation": null
+    },
+    {
+      "time": 113.23,
+      "time_str": "01:53.230",
+      "text": "总是容易被往事打动",
+      "translation": null
+    },
+    {
+      "time": 116.93,
+      "time_str": "01:56.930",
+      "text": "总是为了你心痛",
+      "translation": null
+    },
+    {
+      "time": 120.62,
+      "time_str": "02:00.620",
+      "text": "别留连岁月中",
+      "translation": null
+    },
+    {
+      "time": 123.85,
+      "time_str": "02:03.850",
+      "text": "我无意的柔情万种",
+      "translation": null
+    },
+    {
+      "time": 128.26,
+      "time_str": "02:08.260",
+      "text": "不要问我是否再相逢",
+      "translation": null
+    },
+    {
+      "time": 131.94,
+      "time_str": "02:11.940",
+      "text": "不要管我是否言不由衷",
+      "translation": null
+    },
+    {
+      "time": 135.07,
+      "time_str": "02:15.070",
+      "text": "为何你不懂",
+      "translation": null
+    },
+    {
+      "time": 139.45,
+      "time_str": "02:19.450",
+      "text": "只要有爱就有痛",
+      "translation": null
+    },
+    {
+      "time": 143.56,
+      "time_str": "02:23.560",
+      "text": "有一天你会知道",
+      "translation": null
+    },
+    {
+      "time": 146.78,
+      "time_str": "02:26.780",
+      "text": "人生没有我并不会不同",
+      "translation": null
+    },
+    {
+      "time": 150.57,
+      "time_str": "02:30.570",
+      "text": "人生已经太匆匆",
+      "translation": null
+    },
+    {
+      "time": 154.14,
+      "time_str": "02:34.140",
+      "text": "我好害怕总是泪眼朦胧",
+      "translation": null
+    },
+    {
+      "time": 158.34,
+      "time_str": "02:38.340",
+      "text": "忘了我就没有痛",
+      "translation": null
+    },
+    {
+      "time": 160.64,
+      "time_str": "02:40.640",
+      "text": "将往事留在风中",
+      "translation": null
+    },
+    {
+      "time": 195.13,
+      "time_str": "03:15.130",
+      "text": "因为我仍有梦",
+      "translation": null
+    },
+    {
+      "time": 198.64,
+      "time_str": "03:18.640",
+      "text": "依然将你放在我心中",
+      "translation": null
+    },
+    {
+      "time": 202.95,
+      "time_str": "03:22.950",
+      "text": "总是容易被往事打动",
+      "translation": null
+    },
+    {
+      "time": 206.6,
+      "time_str": "03:26.600",
+      "text": "总是为了你心痛",
+      "translation": null
+    },
+    {
+      "time": 209.87,
+      "time_str": "03:29.870",
+      "text": "别留连岁月中",
+      "translation": null
+    },
+    {
+      "time": 213.5,
+      "time_str": "03:33.500",
+      "text": "我无意的柔情万种",
+      "translation": null
+    },
+    {
+      "time": 217.9,
+      "time_str": "03:37.900",
+      "text": "不要问我是否再相逢",
+      "translation": null
+    },
+    {
+      "time": 221.59,
+      "time_str": "03:41.590",
+      "text": "不要管我是否言不由衷",
+      "translation": null
+    },
+    {
+      "time": 224.88,
+      "time_str": "03:44.880",
+      "text": "为何你不懂",
+      "translation": null
+    },
+    {
+      "time": 228.88,
+      "time_str": "03:48.880",
+      "text": "只要有爱就有痛",
+      "translation": null
+    },
+    {
+      "time": 233.19,
+      "time_str": "03:53.190",
+      "text": "有一天你会知道",
+      "translation": null
+    },
+    {
+      "time": 236.44,
+      "time_str": "03:56.440",
+      "text": "人生没有我并不会不同",
+      "translation": null
+    },
+    {
+      "time": 240.23,
+      "time_str": "04:00.230",
+      "text": "人生已经太匆匆",
+      "translation": null
+    },
+    {
+      "time": 243.82,
+      "time_str": "04:03.820",
+      "text": "我好害怕总是泪眼朦胧",
+      "translation": null
+    },
+    {
+      "time": 248.09,
+      "time_str": "04:08.090",
+      "text": "忘了我就没有痛",
+      "translation": null
+    },
+    {
+      "time": 250.35,
+      "time_str": "04:10.350",
+      "text": "将往事留在风中",
+      "translation": null
+    },
+    {
+      "time": 254.68,
+      "time_str": "04:14.680",
+      "text": "为何你不懂",
+      "translation": null
+    },
+    {
+      "time": 258.95,
+      "time_str": "04:18.950",
+      "text": "只要有爱就有痛",
+      "translation": null
+    },
+    {
+      "time": 263.08,
+      "time_str": "04:23.080",
+      "text": "有一天你会知道",
+      "translation": null
+    },
+    {
+      "time": 266.24,
+      "time_str": "04:26.240",
+      "text": "人生没有我并不会不同",
+      "translation": null
+    },
+    {
+      "time": 270.19,
+      "time_str": "04:30.190",
+      "text": "人生已经太匆匆",
+      "translation": null
+    },
+    {
+      "time": 273.7,
+      "time_str": "04:33.700",
+      "text": "我好害怕总是泪眼朦胧",
+      "translation": null
+    },
+    {
+      "time": 277.94,
+      "time_str": "04:37.940",
+      "text": "忘了我就没有痛",
+      "translation": null
+    },
+    {
+      "time": 284.21,
+      "time_str": "04:44.210",
+      "text": "将往事留在风中",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "当爱已成往事 - 张国荣.lrc"
+}

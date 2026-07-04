@@ -1,0 +1,124 @@
+{
+  "title": "让我们荡起双桨",
+  "title_raw": "让我们荡起双桨",
+  "version": null,
+  "artist": "黑鸭子",
+  "group_key": "让我们荡起双桨|黑鸭子",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.27,
+      "time_str": "00:29.270",
+      "text": "让我们荡起双桨",
+      "translation": null
+    },
+    {
+      "time": 33.8,
+      "time_str": "00:33.800",
+      "text": "小船儿推开波浪",
+      "translation": null
+    },
+    {
+      "time": 38.68,
+      "time_str": "00:38.680",
+      "text": "海面倒映着美丽的白塔",
+      "translation": null
+    },
+    {
+      "time": 43.67,
+      "time_str": "00:43.670",
+      "text": "四面环绕着绿树红墙",
+      "translation": null
+    },
+    {
+      "time": 50.57,
+      "time_str": "00:50.570",
+      "text": "小船儿轻轻，飘荡在水中",
+      "translation": null
+    },
+    {
+      "time": 58.45,
+      "time_str": "00:58.450",
+      "text": "迎面吹来了凉爽的风",
+      "translation": null
+    },
+    {
+      "time": 111.15,
+      "time_str": "01:51.150",
+      "text": "红领巾迎着太阳",
+      "translation": null
+    },
+    {
+      "time": 112.15,
+      "time_str": "01:52.150",
+      "text": "阳光洒在海面上",
+      "translation": null
+    },
+    {
+      "time": 115.96,
+      "time_str": "01:55.960",
+      "text": "水中鱼儿望着我们",
+      "translation": null
+    },
+    {
+      "time": 120.91,
+      "time_str": "02:00.910",
+      "text": "悄悄地听我们愉快歌唱",
+      "translation": null
+    },
+    {
+      "time": 127.7,
+      "time_str": "02:07.700",
+      "text": "小船儿轻轻，飘荡在水中",
+      "translation": null
+    },
+    {
+      "time": 135.62,
+      "time_str": "02:15.620",
+      "text": "迎面吹来了凉爽的风",
+      "translation": null
+    },
+    {
+      "time": 192.85,
+      "time_str": "03:12.850",
+      "text": "做完了一天的功课",
+      "translation": null
+    },
+    {
+      "time": 193.65,
+      "time_str": "03:13.650",
+      "text": "我们来尽情欢乐",
+      "translation": null
+    },
+    {
+      "time": 197.7,
+      "time_str": "03:17.700",
+      "text": "我问你亲爱的伙伴",
+      "translation": null
+    },
+    {
+      "time": 199.2,
+      "time_str": "03:19.200",
+      "text": "谁给我们安排下幸福的生活",
+      "translation": null
+    },
+    {
+      "time": 206.0,
+      "time_str": "03:26.000",
+      "text": "小船儿轻轻，飘荡在水中",
+      "translation": null
+    },
+    {
+      "time": 223.2,
+      "time_str": "03:43.200",
+      "text": "迎面吹来了凉爽的风",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "让我们荡起双桨 - 黑鸭子.lrc"
+}

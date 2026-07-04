@@ -1,0 +1,304 @@
+{
+  "title": "你的样子",
+  "title_raw": "你的样子",
+  "version": null,
+  "artist": "林志炫",
+  "group_key": "你的样子|林志炫",
+  "writers": {
+    "lyricist": "罗大佑",
+    "composer": "罗大佑",
+    "arranger": "Tony Smith"
+  },
+  "lyrics": [
+    {
+      "time": 14.2,
+      "time_str": "00:14.200",
+      "text": "我听到传来的谁的声音",
+      "translation": null
+    },
+    {
+      "time": 17.23,
+      "time_str": "00:17.230",
+      "text": "像那梦里呜咽中的小河",
+      "translation": null
+    },
+    {
+      "time": 21.15,
+      "time_str": "00:21.150",
+      "text": "我看到远去的谁的步伐",
+      "translation": null
+    },
+    {
+      "time": 24.5,
+      "time_str": "00:24.500",
+      "text": "遮住告别时哀伤的眼神",
+      "translation": null
+    },
+    {
+      "time": 28.6,
+      "time_str": "00:28.600",
+      "text": "不明白的是为何你情愿",
+      "translation": null
+    },
+    {
+      "time": 31.71,
+      "time_str": "00:31.710",
+      "text": "让风尘刻画你的样子",
+      "translation": null
+    },
+    {
+      "time": 35.4,
+      "time_str": "00:35.400",
+      "text": "就像早已忘情的世界",
+      "translation": null
+    },
+    {
+      "time": 37.9,
+      "time_str": "00:37.900",
+      "text": "曾经拥有你的名字我的声音",
+      "translation": null
+    },
+    {
+      "time": 42.29,
+      "time_str": "00:42.290",
+      "text": "那悲歌总会在梦中惊醒",
+      "translation": null
+    },
+    {
+      "time": 45.43,
+      "time_str": "00:45.430",
+      "text": "诉说一点哀伤过的往事",
+      "translation": null
+    },
+    {
+      "time": 49.12,
+      "time_str": "00:49.120",
+      "text": "那看似满不在乎转过身的",
+      "translation": null
+    },
+    {
+      "time": 52.3,
+      "time_str": "00:52.300",
+      "text": "是风干泪眼后萧瑟的影子",
+      "translation": null
+    },
+    {
+      "time": 56.11,
+      "time_str": "00:56.110",
+      "text": "不明白的是为何人世间",
+      "translation": null
+    },
+    {
+      "time": 59.72,
+      "time_str": "00:59.720",
+      "text": "总不能溶解你的样子",
+      "translation": null
+    },
+    {
+      "time": 63.59,
+      "time_str": "01:03.590",
+      "text": "是否来迟了明日的渊源",
+      "translation": null
+    },
+    {
+      "time": 66.8,
+      "time_str": "01:06.800",
+      "text": "早谢了你的笑容我的心情",
+      "translation": null
+    },
+    {
+      "time": 70.22,
+      "time_str": "01:10.220",
+      "text": "不变的你",
+      "translation": null
+    },
+    {
+      "time": 73.899,
+      "time_str": "01:13.899",
+      "text": "伫立在茫茫的尘世中",
+      "translation": null
+    },
+    {
+      "time": 77.69,
+      "time_str": "01:17.690",
+      "text": "聪明的孩子",
+      "translation": null
+    },
+    {
+      "time": 80.48,
+      "time_str": "01:20.480",
+      "text": "提着易碎的灯笼",
+      "translation": null
+    },
+    {
+      "time": 84.45,
+      "time_str": "01:24.450",
+      "text": "潇洒的你",
+      "translation": null
+    },
+    {
+      "time": 87.48,
+      "time_str": "01:27.480",
+      "text": "将心事化进尘缘中",
+      "translation": null
+    },
+    {
+      "time": 92.39,
+      "time_str": "01:32.390",
+      "text": "孤独的孩子",
+      "translation": null
+    },
+    {
+      "time": 95.1,
+      "time_str": "01:35.100",
+      "text": "你是造物的恩宠",
+      "translation": null
+    },
+    {
+      "time": 135.67,
+      "time_str": "02:15.670",
+      "text": "我听到传来的谁的声音",
+      "translation": null
+    },
+    {
+      "time": 138.84,
+      "time_str": "02:18.840",
+      "text": "像那梦里呜咽中的小河",
+      "translation": null
+    },
+    {
+      "time": 142.77,
+      "time_str": "02:22.770",
+      "text": "我看到远去的谁的步伐",
+      "translation": null
+    },
+    {
+      "time": 145.79,
+      "time_str": "02:25.790",
+      "text": "遮住告别时哀伤的眼神",
+      "translation": null
+    },
+    {
+      "time": 149.7,
+      "time_str": "02:29.700",
+      "text": "不明白的是为何你情愿",
+      "translation": null
+    },
+    {
+      "time": 153.8,
+      "time_str": "02:33.800",
+      "text": "让风尘刻画你的样子",
+      "translation": null
+    },
+    {
+      "time": 156.7,
+      "time_str": "02:36.700",
+      "text": "就像早已忘情的世界",
+      "translation": null
+    },
+    {
+      "time": 159.47,
+      "time_str": "02:39.470",
+      "text": "曾经拥有你的名字我的声音",
+      "translation": null
+    },
+    {
+      "time": 163.89,
+      "time_str": "02:43.890",
+      "text": "那悲歌总会在梦中惊醒",
+      "translation": null
+    },
+    {
+      "time": 166.829,
+      "time_str": "02:46.829",
+      "text": "诉说一点哀伤过的往事",
+      "translation": null
+    },
+    {
+      "time": 170.62,
+      "time_str": "02:50.620",
+      "text": "那看似满不在乎转过身的",
+      "translation": null
+    },
+    {
+      "time": 174.0,
+      "time_str": "02:54.000",
+      "text": "是风干泪眼后萧瑟的影子",
+      "translation": null
+    },
+    {
+      "time": 177.51,
+      "time_str": "02:57.510",
+      "text": "不明白的是为何人世间",
+      "translation": null
+    },
+    {
+      "time": 181.8,
+      "time_str": "03:01.800",
+      "text": "总不能溶解你的样子",
+      "translation": null
+    },
+    {
+      "time": 184.72,
+      "time_str": "03:04.720",
+      "text": "是否来迟了明日的渊源",
+      "translation": null
+    },
+    {
+      "time": 187.82,
+      "time_str": "03:07.820",
+      "text": "早谢了你的笑容我的心情",
+      "translation": null
+    },
+    {
+      "time": 192.0,
+      "time_str": "03:12.000",
+      "text": "不变的你",
+      "translation": null
+    },
+    {
+      "time": 195.5,
+      "time_str": "03:15.500",
+      "text": "伫立在茫茫的尘世中",
+      "translation": null
+    },
+    {
+      "time": 198.99,
+      "time_str": "03:18.990",
+      "text": "聪明的孩子",
+      "translation": null
+    },
+    {
+      "time": 202.4,
+      "time_str": "03:22.400",
+      "text": "提着心爱的灯笼",
+      "translation": null
+    },
+    {
+      "time": 205.89,
+      "time_str": "03:25.890",
+      "text": "潇洒的你",
+      "translation": null
+    },
+    {
+      "time": 209.7,
+      "time_str": "03:29.700",
+      "text": "将心事化进尘缘中",
+      "translation": null
+    },
+    {
+      "time": 212.95,
+      "time_str": "03:32.950",
+      "text": "孤独的孩子",
+      "translation": null
+    },
+    {
+      "time": 216.14,
+      "time_str": "03:36.140",
+      "text": "你是造物的恩宠",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你的样子 - 林志炫.lrc"
+}

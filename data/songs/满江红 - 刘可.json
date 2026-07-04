@@ -1,0 +1,166 @@
+{
+  "title": "满江红",
+  "title_raw": "满江红",
+  "version": null,
+  "artist": "刘可",
+  "group_key": "满江红|刘可",
+  "writers": {
+    "lyricist": "王凯娟",
+    "composer": "程池",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.81,
+      "time_str": "00:08.810",
+      "text": "千古悠悠",
+      "translation": null
+    },
+    {
+      "time": 14.42,
+      "time_str": "00:14.420",
+      "text": "有多少 冤魂嗟叹",
+      "translation": null
+    },
+    {
+      "time": 21.72,
+      "time_str": "00:21.720",
+      "text": "空怅望 人寰无限",
+      "translation": null
+    },
+    {
+      "time": 27.11,
+      "time_str": "00:27.110",
+      "text": "丛生哀怨",
+      "translation": null
+    },
+    {
+      "time": 35.78,
+      "time_str": "00:35.780",
+      "text": "泣血蝇虫笑苍天",
+      "translation": null
+    },
+    {
+      "time": 40.11,
+      "time_str": "00:40.110",
+      "text": "孤帆叠影锁白链",
+      "translation": null
+    },
+    {
+      "time": 47.86,
+      "time_str": "00:47.860",
+      "text": "残月升 骤起烈烈风",
+      "translation": null
+    },
+    {
+      "time": 54.38,
+      "time_str": "00:54.380",
+      "text": "尽吹散",
+      "translation": null
+    },
+    {
+      "time": 60.24,
+      "time_str": "01:00.240",
+      "text": "尽吹散",
+      "translation": null
+    },
+    {
+      "time": 69.07,
+      "time_str": "01:09.070",
+      "text": "尽吹散",
+      "translation": null
+    },
+    {
+      "time": 76.52,
+      "time_str": "01:16.520",
+      "text": "滂沱雨 无底涧",
+      "translation": null
+    },
+    {
+      "time": 84.55,
+      "time_str": "01:24.550",
+      "text": "涉激流 登彼岸",
+      "translation": null
+    },
+    {
+      "time": 93.18,
+      "time_str": "01:33.180",
+      "text": "奋力拨云间 消得雾患",
+      "translation": null
+    },
+    {
+      "time": 101.23,
+      "time_str": "01:41.230",
+      "text": "社稷安抚臣子心",
+      "translation": null
+    },
+    {
+      "time": 104.45,
+      "time_str": "01:44.450",
+      "text": "长驱鬼魅不休战",
+      "translation": null
+    },
+    {
+      "time": 108.66,
+      "time_str": "01:48.660",
+      "text": "看斜阳 照大地阡陌",
+      "translation": null
+    },
+    {
+      "time": 115.46,
+      "time_str": "01:55.460",
+      "text": "从头转",
+      "translation": null
+    },
+    {
+      "time": 136.86,
+      "time_str": "02:16.860",
+      "text": "泣血蝇虫笑苍天",
+      "translation": null
+    },
+    {
+      "time": 140.5,
+      "time_str": "02:20.500",
+      "text": "孤帆叠影锁白链",
+      "translation": null
+    },
+    {
+      "time": 144.66,
+      "time_str": "02:24.660",
+      "text": "残月升 骤起烈烈风",
+      "translation": null
+    },
+    {
+      "time": 152.5,
+      "time_str": "02:32.500",
+      "text": "社稷安抚臣子心",
+      "translation": null
+    },
+    {
+      "time": 156.66,
+      "time_str": "02:36.660",
+      "text": "长驱鬼魅不休战",
+      "translation": null
+    },
+    {
+      "time": 160.3,
+      "time_str": "02:40.300",
+      "text": "看斜阳 照大地阡陌",
+      "translation": null
+    },
+    {
+      "time": 167.66,
+      "time_str": "02:47.660",
+      "text": "从头转",
+      "translation": null
+    },
+    {
+      "time": 177.8,
+      "time_str": "02:57.800",
+      "text": "从头转",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "满江红 - 刘可.lrc"
+}

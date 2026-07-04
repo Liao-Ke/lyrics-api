@@ -1,0 +1,244 @@
+{
+  "title": "离别",
+  "title_raw": "离别",
+  "version": null,
+  "artist": "阿杜",
+  "group_key": "离别|阿杜",
+  "writers": {
+    "lyricist": "林秋离",
+    "composer": "熊美玲",
+    "arranger": "梁定江"
+  },
+  "lyrics": [
+    {
+      "time": 14.9,
+      "time_str": "00:14.900",
+      "text": "深情吻住了你的嘴",
+      "translation": null
+    },
+    {
+      "time": 18.23,
+      "time_str": "00:18.230",
+      "text": "却无能停止你的流泪",
+      "translation": null
+    },
+    {
+      "time": 22.9,
+      "time_str": "00:22.900",
+      "text": "这一刻我的心和你一起碎",
+      "translation": null
+    },
+    {
+      "time": 29.119,
+      "time_str": "00:29.119",
+      "text": "大雨下疯了的长夜",
+      "translation": null
+    },
+    {
+      "time": 32.468,
+      "time_str": "00:32.468",
+      "text": "沉睡的人们毫无知觉",
+      "translation": null
+    },
+    {
+      "time": 36.498,
+      "time_str": "00:36.498",
+      "text": "突然恨透这个世界",
+      "translation": null
+    },
+    {
+      "time": 39.898,
+      "time_str": "00:39.898",
+      "text": "因为要离别",
+      "translation": null
+    },
+    {
+      "time": 43.508,
+      "time_str": "00:43.508",
+      "text": "就走破这双鞋",
+      "translation": null
+    },
+    {
+      "time": 47.89,
+      "time_str": "00:47.890",
+      "text": "我陪你走一夜",
+      "translation": null
+    },
+    {
+      "time": 49.88,
+      "time_str": "00:49.880",
+      "text": "直到心不再滴血",
+      "translation": null
+    },
+    {
+      "time": 53.498,
+      "time_str": "00:53.498",
+      "text": "而你流尽泪水",
+      "translation": null
+    },
+    {
+      "time": 57.328,
+      "time_str": "00:57.328",
+      "text": "天空不停地闪着雷",
+      "translation": null
+    },
+    {
+      "time": 60.878,
+      "time_str": "01:00.878",
+      "text": "照不亮我心中黑黑黑黑黑的一切",
+      "translation": null
+    },
+    {
+      "time": 67.19,
+      "time_str": "01:07.190",
+      "text": "希望都早已经",
+      "translation": null
+    },
+    {
+      "time": 71.149,
+      "time_str": "01:11.149",
+      "text": "破灭我和你",
+      "translation": null
+    },
+    {
+      "time": 76.899,
+      "time_str": "01:16.899",
+      "text": "要离别 离别",
+      "translation": null
+    },
+    {
+      "time": 113.389,
+      "time_str": "01:53.389",
+      "text": "深情吻住了你的嘴",
+      "translation": null
+    },
+    {
+      "time": 115.929,
+      "time_str": "01:55.929",
+      "text": "却无能停止你的流泪",
+      "translation": null
+    },
+    {
+      "time": 119.839,
+      "time_str": "01:59.839",
+      "text": "只因和我的心和你一起碎",
+      "translation": null
+    },
+    {
+      "time": 127.3,
+      "time_str": "02:07.300",
+      "text": "大雨下疯了的长夜",
+      "translation": null
+    },
+    {
+      "time": 130.0,
+      "time_str": "02:10.000",
+      "text": "沉睡的人们毫无知觉",
+      "translation": null
+    },
+    {
+      "time": 133.9,
+      "time_str": "02:13.900",
+      "text": "突然恨透这个世界",
+      "translation": null
+    },
+    {
+      "time": 138.0,
+      "time_str": "02:18.000",
+      "text": "因为要离别",
+      "translation": null
+    },
+    {
+      "time": 141.12,
+      "time_str": "02:21.120",
+      "text": "就走破这双鞋",
+      "translation": null
+    },
+    {
+      "time": 145.11,
+      "time_str": "02:25.110",
+      "text": "我陪你走一夜",
+      "translation": null
+    },
+    {
+      "time": 149.1,
+      "time_str": "02:29.100",
+      "text": "直到心不再滴血",
+      "translation": null
+    },
+    {
+      "time": 153.3,
+      "time_str": "02:33.300",
+      "text": "而你流尽泪水",
+      "translation": null
+    },
+    {
+      "time": 156.78,
+      "time_str": "02:36.780",
+      "text": "天空不停地闪着雷",
+      "translation": null
+    },
+    {
+      "time": 160.32,
+      "time_str": "02:40.320",
+      "text": "照不亮我心中黑黑黑黑黑",
+      "translation": null
+    },
+    {
+      "time": 170.04,
+      "time_str": "02:50.040",
+      "text": "就走破这双鞋",
+      "translation": null
+    },
+    {
+      "time": 173.9,
+      "time_str": "02:53.900",
+      "text": "我陪你走一夜",
+      "translation": null
+    },
+    {
+      "time": 175.9,
+      "time_str": "02:55.900",
+      "text": "直到心不再滴血",
+      "translation": null
+    },
+    {
+      "time": 179.69,
+      "time_str": "02:59.690",
+      "text": "而你流尽泪水",
+      "translation": null
+    },
+    {
+      "time": 183.42,
+      "time_str": "03:03.420",
+      "text": "天空不停地闪着雷",
+      "translation": null
+    },
+    {
+      "time": 187.8,
+      "time_str": "03:07.800",
+      "text": "照不亮我心中黑黑黑黑黑的一切",
+      "translation": null
+    },
+    {
+      "time": 193.4,
+      "time_str": "03:13.400",
+      "text": "希望都早已经",
+      "translation": null
+    },
+    {
+      "time": 197.45,
+      "time_str": "03:17.450",
+      "text": "破灭我和你",
+      "translation": null
+    },
+    {
+      "time": 202.76,
+      "time_str": "03:22.760",
+      "text": "要离别 离别",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "离别 - 阿杜.lrc"
+}

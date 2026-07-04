@@ -1,0 +1,262 @@
+{
+  "title": "南山南",
+  "title_raw": "南山南",
+  "version": null,
+  "artist": "马頔",
+  "group_key": "南山南|马頔",
+  "writers": {
+    "lyricist": "马頔",
+    "composer": "马頔",
+    "arranger": "尧十三"
+  },
+  "lyrics": [
+    {
+      "time": 0.315,
+      "time_str": "00:00.315",
+      "text": "你在南方的艳阳里大雪纷飞",
+      "translation": null
+    },
+    {
+      "time": 8.1,
+      "time_str": "00:08.100",
+      "text": "我在北方的寒夜里四季如春",
+      "translation": null
+    },
+    {
+      "time": 14.61,
+      "time_str": "00:14.610",
+      "text": "如果天黑之前来得及",
+      "translation": null
+    },
+    {
+      "time": 18.24,
+      "time_str": "00:18.240",
+      "text": "我要忘了你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 21.97,
+      "time_str": "00:21.970",
+      "text": "穷极一生做不完一场梦",
+      "translation": null
+    },
+    {
+      "time": 30.0,
+      "time_str": "00:30.000",
+      "text": "他不再和谁谈论相逢的孤岛",
+      "translation": null
+    },
+    {
+      "time": 36.73,
+      "time_str": "00:36.730",
+      "text": "因为心里早已荒芜人烟",
+      "translation": null
+    },
+    {
+      "time": 44.1,
+      "time_str": "00:44.100",
+      "text": "他的心里再装不下一个家",
+      "translation": null
+    },
+    {
+      "time": 51.57,
+      "time_str": "00:51.570",
+      "text": "做一个只对自己说谎的哑巴",
+      "translation": null
+    },
+    {
+      "time": 58.7,
+      "time_str": "00:58.700",
+      "text": "他说你任何为人称道的美丽",
+      "translation": null
+    },
+    {
+      "time": 62.54,
+      "time_str": "01:02.540",
+      "text": "不及他第一次遇见你",
+      "translation": null
+    },
+    {
+      "time": 67.24,
+      "time_str": "01:07.240",
+      "text": "时光苟延残喘无可奈何",
+      "translation": null
+    },
+    {
+      "time": 74.07,
+      "time_str": "01:14.070",
+      "text": "如果所有土地连在一起",
+      "translation": null
+    },
+    {
+      "time": 77.14,
+      "time_str": "01:17.140",
+      "text": "走上一生只为拥抱你",
+      "translation": null
+    },
+    {
+      "time": 81.09,
+      "time_str": "01:21.090",
+      "text": "喝醉了他的梦 晚安",
+      "translation": null
+    },
+    {
+      "time": 133.31,
+      "time_str": "02:13.310",
+      "text": "他听见有人唱着古老的歌",
+      "translation": null
+    },
+    {
+      "time": 140.29,
+      "time_str": "02:20.290",
+      "text": "唱着今天还在远方发生的",
+      "translation": null
+    },
+    {
+      "time": 147.87,
+      "time_str": "02:27.870",
+      "text": "像在她眼睛里看到的孤岛",
+      "translation": null
+    },
+    {
+      "time": 155.25,
+      "time_str": "02:35.250",
+      "text": "没有悲伤但也没有花朵",
+      "translation": null
+    },
+    {
+      "time": 162.77,
+      "time_str": "02:42.770",
+      "text": "你在南方的艳阳里大雪纷飞",
+      "translation": null
+    },
+    {
+      "time": 170.54,
+      "time_str": "02:50.540",
+      "text": "我在北方的寒夜里四季如春",
+      "translation": null
+    },
+    {
+      "time": 177.05,
+      "time_str": "02:57.050",
+      "text": "如果天黑之前来得及",
+      "translation": null
+    },
+    {
+      "time": 180.59,
+      "time_str": "03:00.590",
+      "text": "我要忘了你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 184.51,
+      "time_str": "03:04.510",
+      "text": "穷极一生做不完一场梦",
+      "translation": null
+    },
+    {
+      "time": 192.33,
+      "time_str": "03:12.330",
+      "text": "你在南方的艳阳里大雪纷飞",
+      "translation": null
+    },
+    {
+      "time": 200.12,
+      "time_str": "03:20.120",
+      "text": "我在北方的寒夜里四季如春",
+      "translation": null
+    },
+    {
+      "time": 206.63,
+      "time_str": "03:26.630",
+      "text": "如果天黑之前来得及",
+      "translation": null
+    },
+    {
+      "time": 210.27,
+      "time_str": "03:30.270",
+      "text": "我要忘了你的眼睛",
+      "translation": null
+    },
+    {
+      "time": 213.95,
+      "time_str": "03:33.950",
+      "text": "穷极一生做不完一场梦",
+      "translation": null
+    },
+    {
+      "time": 221.68,
+      "time_str": "03:41.680",
+      "text": "大梦初醒荒唐了一生",
+      "translation": null
+    },
+    {
+      "time": 229.43,
+      "time_str": "03:49.430",
+      "text": "南山南 北秋悲",
+      "translation": null
+    },
+    {
+      "time": 236.64,
+      "time_str": "03:56.640",
+      "text": "南山有谷堆",
+      "translation": null
+    },
+    {
+      "time": 243.97,
+      "time_str": "04:03.970",
+      "text": "南风喃 北海北",
+      "translation": null
+    },
+    {
+      "time": 251.38,
+      "time_str": "04:11.380",
+      "text": "北海有墓碑",
+      "translation": null
+    },
+    {
+      "time": 258.86,
+      "time_str": "04:18.860",
+      "text": "南山南 北秋悲",
+      "translation": null
+    },
+    {
+      "time": 266.19,
+      "time_str": "04:26.190",
+      "text": "南山有谷堆",
+      "translation": null
+    },
+    {
+      "time": 273.45,
+      "time_str": "04:33.450",
+      "text": "南风喃 北海北",
+      "translation": null
+    },
+    {
+      "time": 280.93,
+      "time_str": "04:40.930",
+      "text": "北海有墓碑",
+      "translation": null
+    },
+    {
+      "time": 288.57,
+      "time_str": "04:48.570",
+      "text": "北海有墓碑",
+      "translation": null
+    },
+    {
+      "time": 312.032,
+      "time_str": "05:12.032",
+      "text": "大提琴：王平",
+      "translation": null
+    },
+    {
+      "time": 312.501,
+      "time_str": "05:12.501",
+      "text": "童声：孙艺菲/金秋雯",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "南山南 - 马頔.lrc"
+}

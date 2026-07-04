@@ -1,0 +1,298 @@
+{
+  "title": "在他乡",
+  "title_raw": "在他乡",
+  "version": null,
+  "artist": "程响",
+  "group_key": "在他乡|程响",
+  "writers": {
+    "lyricist": "卢庚戌",
+    "composer": "李健",
+    "arranger": "華子（刘圣华）"
+  },
+  "lyrics": [
+    {
+      "time": 0.61,
+      "time_str": "00:00.610",
+      "text": "出品人 : 潘鸿业",
+      "translation": null
+    },
+    {
+      "time": 0.77,
+      "time_str": "00:00.770",
+      "text": "我多想回到家乡",
+      "translation": null
+    },
+    {
+      "time": 3.18,
+      "time_str": "00:03.180",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 5.87,
+      "time_str": "00:05.870",
+      "text": "看她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 8.59,
+      "time_str": "00:08.590",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 12.21,
+      "time_str": "00:12.210",
+      "text": "那一夜",
+      "translation": null
+    },
+    {
+      "time": 24.07,
+      "time_str": "00:24.070",
+      "text": "那年你踏上暮色他乡",
+      "translation": null
+    },
+    {
+      "time": 29.18,
+      "time_str": "00:29.180",
+      "text": "你以为那里有你的理想",
+      "translation": null
+    },
+    {
+      "time": 34.89,
+      "time_str": "00:34.890",
+      "text": "你看着周围陌生目光",
+      "translation": null
+    },
+    {
+      "time": 40.53,
+      "time_str": "00:40.530",
+      "text": "清晨醒来却没人在身旁",
+      "translation": null
+    },
+    {
+      "time": 46.37,
+      "time_str": "00:46.370",
+      "text": "人静的雨夜想起了她",
+      "translation": null
+    },
+    {
+      "time": 51.89,
+      "time_str": "00:51.890",
+      "text": "她的挽留还萦绕耳旁",
+      "translation": null
+    },
+    {
+      "time": 57.52,
+      "time_str": "00:57.520",
+      "text": "想起离别她带泪的脸庞",
+      "translation": null
+    },
+    {
+      "time": 63.36,
+      "time_str": "01:03.360",
+      "text": "你忍不住的哭出声响",
+      "translation": null
+    },
+    {
+      "time": 68.14,
+      "time_str": "01:08.140",
+      "text": "我多想回到家乡",
+      "translation": null
+    },
+    {
+      "time": 70.16,
+      "time_str": "01:10.160",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 73.14,
+      "time_str": "01:13.140",
+      "text": "看她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 75.79,
+      "time_str": "01:15.790",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 79.03,
+      "time_str": "01:19.030",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 81.44,
+      "time_str": "01:21.440",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 84.15,
+      "time_str": "01:24.150",
+      "text": "让她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 87.25,
+      "time_str": "01:27.250",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 90.45,
+      "time_str": "01:30.450",
+      "text": "那一夜",
+      "translation": null
+    },
+    {
+      "time": 113.24,
+      "time_str": "01:53.240",
+      "text": "那年你一人迷失他乡",
+      "translation": null
+    },
+    {
+      "time": 118.53,
+      "time_str": "01:58.530",
+      "text": "你想的未来还不见模样",
+      "translation": null
+    },
+    {
+      "time": 124.33,
+      "time_str": "02:04.330",
+      "text": "你看着那些陌生目光",
+      "translation": null
+    },
+    {
+      "time": 129.66,
+      "time_str": "02:09.660",
+      "text": "不知道这条路还有多长",
+      "translation": null
+    },
+    {
+      "time": 137.72,
+      "time_str": "02:17.720",
+      "text": "我多想回到家乡",
+      "translation": null
+    },
+    {
+      "time": 139.95,
+      "time_str": "02:19.950",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 142.81,
+      "time_str": "02:22.810",
+      "text": "看她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 145.43,
+      "time_str": "02:25.430",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 148.62,
+      "time_str": "02:28.620",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 151.2,
+      "time_str": "02:31.200",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 153.94,
+      "time_str": "02:33.940",
+      "text": "让她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 156.69,
+      "time_str": "02:36.690",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 160.29,
+      "time_str": "02:40.290",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 162.27,
+      "time_str": "02:42.270",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 165.11,
+      "time_str": "02:45.110",
+      "text": "看她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 167.74,
+      "time_str": "02:47.740",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 171.23,
+      "time_str": "02:51.230",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 173.5,
+      "time_str": "02:53.500",
+      "text": "再回到她的身旁",
+      "translation": null
+    },
+    {
+      "time": 176.34,
+      "time_str": "02:56.340",
+      "text": "让她的温柔善良",
+      "translation": null
+    },
+    {
+      "time": 179.03,
+      "time_str": "02:59.030",
+      "text": "来抚慰我的心伤",
+      "translation": null
+    },
+    {
+      "time": 185.43,
+      "time_str": "03:05.430",
+      "text": "那一夜 那一夜 那一夜",
+      "translation": null
+    },
+    {
+      "time": 203.44,
+      "time_str": "03:23.440",
+      "text": "母带 : 全相彦",
+      "translation": null
+    },
+    {
+      "time": 203.93,
+      "time_str": "03:23.930",
+      "text": "宣传发行 : 冷小婧",
+      "translation": null
+    },
+    {
+      "time": 204.9,
+      "time_str": "03:24.900",
+      "text": "「此版本为正式授权作品」",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "在他乡 - 程响.lrc"
+}

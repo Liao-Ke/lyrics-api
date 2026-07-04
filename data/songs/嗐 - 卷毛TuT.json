@@ -1,0 +1,262 @@
+{
+  "title": "嗐",
+  "title_raw": "嗐",
+  "version": null,
+  "artist": "卷毛TuT",
+  "group_key": "嗐|卷毛tut",
+  "writers": {
+    "lyricist": "刘凤瑶",
+    "composer": "刘凤瑶",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.33,
+      "time_str": "00:00.330",
+      "text": "嗐 （原唱：刘凤瑶）",
+      "translation": null
+    },
+    {
+      "time": 0.98,
+      "time_str": "00:00.980",
+      "text": "翻唱：星一问水",
+      "translation": null
+    },
+    {
+      "time": 18.92,
+      "time_str": "00:18.920",
+      "text": "不问神禅不闻红颜",
+      "translation": null
+    },
+    {
+      "time": 22.77,
+      "time_str": "00:22.770",
+      "text": "烂在嘴角拧着我的孤单",
+      "translation": null
+    },
+    {
+      "time": 27.55,
+      "time_str": "00:27.550",
+      "text": "观念要多善",
+      "translation": null
+    },
+    {
+      "time": 29.27,
+      "time_str": "00:29.270",
+      "text": "就多贪",
+      "translation": null
+    },
+    {
+      "time": 30.33,
+      "time_str": "00:30.330",
+      "text": "你的不满",
+      "translation": null
+    },
+    {
+      "time": 31.64,
+      "time_str": "00:31.640",
+      "text": "我有不甘",
+      "translation": null
+    },
+    {
+      "time": 37.41,
+      "time_str": "00:37.410",
+      "text": "太阳总会西边落山",
+      "translation": null
+    },
+    {
+      "time": 41.13,
+      "time_str": "00:41.130",
+      "text": "习惯着本该习惯的习惯",
+      "translation": null
+    },
+    {
+      "time": 46.05,
+      "time_str": "00:46.050",
+      "text": "心事说一半",
+      "translation": null
+    },
+    {
+      "time": 47.62,
+      "time_str": "00:47.620",
+      "text": "留一半",
+      "translation": null
+    },
+    {
+      "time": 48.83,
+      "time_str": "00:48.830",
+      "text": "你的善感",
+      "translation": null
+    },
+    {
+      "time": 50.04,
+      "time_str": "00:50.040",
+      "text": "我的悲欢",
+      "translation": null
+    },
+    {
+      "time": 54.05,
+      "time_str": "00:54.050",
+      "text": "我不是一定要你离开",
+      "translation": null
+    },
+    {
+      "time": 59.15,
+      "time_str": "00:59.150",
+      "text": "来放大你的坏",
+      "translation": null
+    },
+    {
+      "time": 63.44,
+      "time_str": "01:03.440",
+      "text": "非要变着法的存在",
+      "translation": null
+    },
+    {
+      "time": 67.82,
+      "time_str": "01:07.820",
+      "text": "够呛能释怀",
+      "translation": null
+    },
+    {
+      "time": 72.93,
+      "time_str": "01:12.930",
+      "text": "我还是要你离开",
+      "translation": null
+    },
+    {
+      "time": 77.31,
+      "time_str": "01:17.310",
+      "text": "来放大我的爱",
+      "translation": null
+    },
+    {
+      "time": 81.76,
+      "time_str": "01:21.760",
+      "text": "痛要痛就痛个痛快",
+      "translation": null
+    },
+    {
+      "time": 86.33,
+      "time_str": "01:26.330",
+      "text": "别不知好歹",
+      "translation": null
+    },
+    {
+      "time": 102.19,
+      "time_str": "01:42.190",
+      "text": "二月大风越剪越乱",
+      "translation": null
+    },
+    {
+      "time": 105.86,
+      "time_str": "01:45.860",
+      "text": "谁家最后不是粗茶淡饭",
+      "translation": null
+    },
+    {
+      "time": 110.68,
+      "time_str": "01:50.680",
+      "text": "用几段遗憾",
+      "translation": null
+    },
+    {
+      "time": 112.35,
+      "time_str": "01:52.350",
+      "text": "解解馋",
+      "translation": null
+    },
+    {
+      "time": 113.42,
+      "time_str": "01:53.420",
+      "text": "你的不咸",
+      "translation": null
+    },
+    {
+      "time": 114.68,
+      "time_str": "01:54.680",
+      "text": "我也不淡",
+      "translation": null
+    },
+    {
+      "time": 118.44,
+      "time_str": "01:58.440",
+      "text": "我不是一定要你离开",
+      "translation": null
+    },
+    {
+      "time": 123.92,
+      "time_str": "02:03.920",
+      "text": "来放大你的坏",
+      "translation": null
+    },
+    {
+      "time": 127.97,
+      "time_str": "02:07.970",
+      "text": "非要变着法的存在",
+      "translation": null
+    },
+    {
+      "time": 132.5,
+      "time_str": "02:12.500",
+      "text": "够呛能释怀",
+      "translation": null
+    },
+    {
+      "time": 137.46,
+      "time_str": "02:17.460",
+      "text": "我还是要你离开",
+      "translation": null
+    },
+    {
+      "time": 141.92,
+      "time_str": "02:21.920",
+      "text": "来放大我的爱",
+      "translation": null
+    },
+    {
+      "time": 146.31,
+      "time_str": "02:26.310",
+      "text": "痛要痛就痛个痛快",
+      "translation": null
+    },
+    {
+      "time": 150.92,
+      "time_str": "02:30.920",
+      "text": "别不知好歹",
+      "translation": null
+    },
+    {
+      "time": 174.57,
+      "time_str": "02:54.570",
+      "text": "我还是要你离开",
+      "translation": null
+    },
+    {
+      "time": 179.06,
+      "time_str": "02:59.060",
+      "text": "来放大我的爱",
+      "translation": null
+    },
+    {
+      "time": 183.46,
+      "time_str": "03:03.460",
+      "text": "痛要痛就痛个痛快",
+      "translation": null
+    },
+    {
+      "time": 188.01,
+      "time_str": "03:08.010",
+      "text": "别不知好歹",
+      "translation": null
+    },
+    {
+      "time": 192.89,
+      "time_str": "03:12.890",
+      "text": "我不是要你离开",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "嗐 - 卷毛TuT.lrc"
+}

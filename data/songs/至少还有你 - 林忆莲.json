@@ -1,0 +1,274 @@
+{
+  "title": "至少还有你",
+  "title_raw": "至少还有你",
+  "version": null,
+  "artist": "林忆莲",
+  "group_key": "至少还有你|林忆莲",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "Davy Chan",
+    "arranger": "刘志远"
+  },
+  "lyrics": [
+    {
+      "time": 17.57,
+      "time_str": "00:17.570",
+      "text": "我怕来不及",
+      "translation": null
+    },
+    {
+      "time": 21.06,
+      "time_str": "00:21.060",
+      "text": "我要抱着你",
+      "translation": null
+    },
+    {
+      "time": 24.91,
+      "time_str": "00:24.910",
+      "text": "直到感觉你的皱纹",
+      "translation": null
+    },
+    {
+      "time": 28.75,
+      "time_str": "00:28.750",
+      "text": "有了岁月的痕迹",
+      "translation": null
+    },
+    {
+      "time": 32.55,
+      "time_str": "00:32.550",
+      "text": "直到肯定你是真的",
+      "translation": null
+    },
+    {
+      "time": 36.91,
+      "time_str": "00:36.910",
+      "text": "直到失去力气",
+      "translation": null
+    },
+    {
+      "time": 40.74,
+      "time_str": "00:40.740",
+      "text": "为了你 我愿意",
+      "translation": null
+    },
+    {
+      "time": 47.91,
+      "time_str": "00:47.910",
+      "text": "动也不能动",
+      "translation": null
+    },
+    {
+      "time": 51.91,
+      "time_str": "00:51.910",
+      "text": "也要看着你",
+      "translation": null
+    },
+    {
+      "time": 55.62,
+      "time_str": "00:55.620",
+      "text": "直到感觉你的发线",
+      "translation": null
+    },
+    {
+      "time": 59.46,
+      "time_str": "00:59.460",
+      "text": "有了白雪的痕迹",
+      "translation": null
+    },
+    {
+      "time": 63.21,
+      "time_str": "01:03.210",
+      "text": "直到视线变得模糊",
+      "translation": null
+    },
+    {
+      "time": 67.61,
+      "time_str": "01:07.610",
+      "text": "直到不能呼吸",
+      "translation": null
+    },
+    {
+      "time": 71.39,
+      "time_str": "01:11.390",
+      "text": "让我们 形影不离",
+      "translation": null
+    },
+    {
+      "time": 77.22,
+      "time_str": "01:17.220",
+      "text": "如果 全世界我也可以放弃",
+      "translation": null
+    },
+    {
+      "time": 82.55,
+      "time_str": "01:22.550",
+      "text": "至少还有你 值得我去珍惜",
+      "translation": null
+    },
+    {
+      "time": 86.45,
+      "time_str": "01:26.450",
+      "text": "而你在这里 就是生命的奇迹",
+      "translation": null
+    },
+    {
+      "time": 92.56,
+      "time_str": "01:32.560",
+      "text": "也许 全世界我也可以忘记",
+      "translation": null
+    },
+    {
+      "time": 97.91,
+      "time_str": "01:37.910",
+      "text": "只是不愿意 失去你的消息",
+      "translation": null
+    },
+    {
+      "time": 101.75,
+      "time_str": "01:41.750",
+      "text": "你掌心的痣 我总记得在那里",
+      "translation": null
+    },
+    {
+      "time": 113.33,
+      "time_str": "01:53.330",
+      "text": "我怕来不及 我要抱着你",
+      "translation": null
+    },
+    {
+      "time": 120.85,
+      "time_str": "02:00.850",
+      "text": "直到感觉你的发线",
+      "translation": null
+    },
+    {
+      "time": 124.66,
+      "time_str": "02:04.660",
+      "text": "有了白雪的痕迹",
+      "translation": null
+    },
+    {
+      "time": 128.58,
+      "time_str": "02:08.580",
+      "text": "直到视线变得模糊",
+      "translation": null
+    },
+    {
+      "time": 132.89,
+      "time_str": "02:12.890",
+      "text": "直到不能呼吸",
+      "translation": null
+    },
+    {
+      "time": 136.7,
+      "time_str": "02:16.700",
+      "text": "让我们 形影不离",
+      "translation": null
+    },
+    {
+      "time": 142.52,
+      "time_str": "02:22.520",
+      "text": "如果 全世界我也可以放弃",
+      "translation": null
+    },
+    {
+      "time": 147.87,
+      "time_str": "02:27.870",
+      "text": "至少还有你 值得我去珍惜",
+      "translation": null
+    },
+    {
+      "time": 151.68,
+      "time_str": "02:31.680",
+      "text": "而你在这里 就是生命的奇迹",
+      "translation": null
+    },
+    {
+      "time": 157.84,
+      "time_str": "02:37.840",
+      "text": "也许 全世界我也可以忘记",
+      "translation": null
+    },
+    {
+      "time": 163.23,
+      "time_str": "02:43.230",
+      "text": "只是不愿意 失去你的消息",
+      "translation": null
+    },
+    {
+      "time": 167.06,
+      "time_str": "02:47.060",
+      "text": "你掌心的痣 我总记得在那里",
+      "translation": null
+    },
+    {
+      "time": 190.1,
+      "time_str": "03:10.100",
+      "text": "我们好不容易 我们身不由己",
+      "translation": null
+    },
+    {
+      "time": 197.64,
+      "time_str": "03:17.640",
+      "text": "我怕时间太快 不够将你看仔细",
+      "translation": null
+    },
+    {
+      "time": 205.27,
+      "time_str": "03:25.270",
+      "text": "我怕时间太慢 日夜担心失去你",
+      "translation": null
+    },
+    {
+      "time": 210.32,
+      "time_str": "03:30.320",
+      "text": "恨不得一夜之间白头 永不分离",
+      "translation": null
+    },
+    {
+      "time": 219.72,
+      "time_str": "03:39.720",
+      "text": "如果 全世界我也可以放弃",
+      "translation": null
+    },
+    {
+      "time": 224.87,
+      "time_str": "03:44.870",
+      "text": "至少还有你 值得我去珍惜",
+      "translation": null
+    },
+    {
+      "time": 228.71,
+      "time_str": "03:48.710",
+      "text": "而你在这里 就是生命的奇迹",
+      "translation": null
+    },
+    {
+      "time": 234.76,
+      "time_str": "03:54.760",
+      "text": "也许 全世界我也可以忘记",
+      "translation": null
+    },
+    {
+      "time": 240.18,
+      "time_str": "04:00.180",
+      "text": "只是不愿意 失去你的消息",
+      "translation": null
+    },
+    {
+      "time": 243.99,
+      "time_str": "04:03.990",
+      "text": "你掌心的痣 我总记得在那里",
+      "translation": null
+    },
+    {
+      "time": 255.19,
+      "time_str": "04:15.190",
+      "text": "在那里",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "至少还有你 - 林忆莲.lrc"
+}

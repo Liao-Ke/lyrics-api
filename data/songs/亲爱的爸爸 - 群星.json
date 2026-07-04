@@ -1,0 +1,88 @@
+{
+  "title": "亲爱的爸爸",
+  "title_raw": "亲爱的爸爸",
+  "version": null,
+  "artist": "群星",
+  "group_key": "亲爱的爸爸|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.472,
+      "time_str": "00:02.472",
+      "text": "O mio babbino care,",
+      "translation": "啊，我亲爱的爸爸"
+    },
+    {
+      "time": 6.928,
+      "time_str": "00:06.928",
+      "text": "Mi piace,e bello bello,",
+      "translation": "我爱他，他英俊潇洒"
+    },
+    {
+      "time": 14.288,
+      "time_str": "00:14.288",
+      "text": "Vo andare in Porta Rossa",
+      "translation": "我要去罗莎门"
+    },
+    {
+      "time": 19.952,
+      "time_str": "00:19.952",
+      "text": "A comperar l anello!",
+      "translation": "买一枚戒指！"
+    },
+    {
+      "time": 21.538,
+      "time_str": "00:21.538",
+      "text": "Si,si ci voglio andare",
+      "translation": "是的，是的，我一定要去"
+    },
+    {
+      "time": 26.978,
+      "time_str": "00:26.978",
+      "text": "e se l amassi indarno",
+      "translation": "若我爱他徒劳无果"
+    },
+    {
+      "time": 33.957,
+      "time_str": "00:33.957",
+      "text": "andrei sui Ponte Vecchio",
+      "translation": "我便去老桥"
+    },
+    {
+      "time": 38.996,
+      "time_str": "00:38.996",
+      "text": "ma per buttaarmi in Arno!",
+      "translation": "纵身跃入阿尔诺河！"
+    },
+    {
+      "time": 50.545,
+      "time_str": "00:50.545",
+      "text": "Mi struggo e mi tormento!",
+      "translation": "我受尽煎熬，痛苦不堪！"
+    },
+    {
+      "time": 58.172,
+      "time_str": "00:58.172",
+      "text": "O Dio,vorrei morir!",
+      "translation": "天啊，我宁愿死去！"
+    },
+    {
+      "time": 96.65,
+      "time_str": "01:36.650",
+      "text": "Babbo,pieta,pieta!",
+      "translation": "爸爸，可怜可怜我吧！"
+    },
+    {
+      "time": 104.74,
+      "time_str": "01:44.740",
+      "text": "Babbo,pieta,pieta!",
+      "translation": "爸爸，发发慈悲吧！"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "亲爱的爸爸 - 群星.lrc"
+}

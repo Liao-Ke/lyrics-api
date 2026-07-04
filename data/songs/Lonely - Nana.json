@@ -1,0 +1,586 @@
+{
+  "title": "Lonely",
+  "title_raw": "Lonely",
+  "version": null,
+  "artist": "Nana",
+  "group_key": "lonely|nana",
+  "writers": {
+    "lyricist": "Nana",
+    "composer": "Bülent Aris & Tony Cottura & Nana",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 30.339,
+      "time_str": "00:30.339",
+      "text": "I am lonely lonely lonely",
+      "translation": "我是那么，那么，那么孤独"
+    },
+    {
+      "time": 35.14,
+      "time_str": "00:35.140",
+      "text": "I am lonely lonely in my life",
+      "translation": "我的生命中是那么，那么孤独"
+    },
+    {
+      "time": 40.29,
+      "time_str": "00:40.290",
+      "text": "I am lonely lonely lonely",
+      "translation": "我那么，那么，那么孤独"
+    },
+    {
+      "time": 45.69,
+      "time_str": "00:45.690",
+      "text": "God help me help me to survive!",
+      "translation": "上帝呀拯救我，助佑我活下去！"
+    },
+    {
+      "time": 51.64,
+      "time_str": "00:51.640",
+      "text": "Remember first time we met day one",
+      "translation": "还记得我们初遇的那一天"
+    },
+    {
+      "time": 56.1,
+      "time_str": "00:56.100",
+      "text": "Kids in the garden' playin' games heaven' fun",
+      "translation": "孩子们在花园里玩着开心的游戏"
+    },
+    {
+      "time": 58.29,
+      "time_str": "00:58.290",
+      "text": "Excitin' and amazin' havin' a real friend of mine",
+      "translation": "有一个知心朋友令我激动惊异"
+    },
+    {
+      "time": 60.59,
+      "time_str": "01:00.590",
+      "text": "Feel my heart and for real I am blind",
+      "translation": "情感真实的悸动蒙蔽住了我双眼"
+    },
+    {
+      "time": 62.99,
+      "time_str": "01:02.990",
+      "text": "Face to face and eye to eye",
+      "translation": "面对面，眼对眼"
+    },
+    {
+      "time": 65.19,
+      "time_str": "01:05.190",
+      "text": "Usin' our hands to buy and supply",
+      "translation": "用我们的双手去交换和补偿"
+    },
+    {
+      "time": 68.1,
+      "time_str": "01:08.100",
+      "text": "Chillin' is cool from January to June",
+      "translation": "从严寒的一月到凉爽的六月"
+    },
+    {
+      "time": 69.739,
+      "time_str": "01:09.739",
+      "text": "And we still sticked together like the glue",
+      "translation": "我们依然在一起，如胶似漆"
+    },
+    {
+      "time": 72.09,
+      "time_str": "01:12.090",
+      "text": "You know the rules",
+      "translation": "我们知道游戏规则"
+    },
+    {
+      "time": 72.989,
+      "time_str": "01:12.989",
+      "text": "Forever you and I and believe it was clear",
+      "translation": "你和我永远相信，明显而清晰"
+    },
+    {
+      "time": 74.94,
+      "time_str": "01:14.940",
+      "text": "If I ever should fall I could count on you with no fear",
+      "translation": "假如我倒下去，我能毫无畏惧依靠你"
+    },
+    {
+      "time": 77.39,
+      "time_str": "01:17.390",
+      "text": "Runnin' out of time I see who's fake",
+      "translation": "日久见人心"
+    },
+    {
+      "time": 79.39,
+      "time_str": "01:19.390",
+      "text": "Alone without protection from all them snakes",
+      "translation": "在那帮毒蛇面前孤独地失去防护"
+    },
+    {
+      "time": 82.7,
+      "time_str": "01:22.700",
+      "text": "All for one one for all I was told",
+      "translation": "我被他们告知“人人为我，我为人人”"
+    },
+    {
+      "time": 85.6,
+      "time_str": "01:25.600",
+      "text": "Black white yellow no matter if your young or old",
+      "translation": "“无论肤色是黑、白、黄，年轻或年老的”"
+    },
+    {
+      "time": 87.7,
+      "time_str": "01:27.700",
+      "text": "Nana's in the house to let you know",
+      "translation": "NaNa站在这里，让你明白"
+    },
+    {
+      "time": 89.9,
+      "time_str": "01:29.900",
+      "text": "What I see is how I feel and damn",
+      "translation": "我何所见是我的感受和诅咒，我孤独"
+    },
+    {
+      "time": 92.36,
+      "time_str": "01:32.360",
+      "text": "I am lonely lonely lonely",
+      "translation": "我是那么，那么，那么孤独"
+    },
+    {
+      "time": 97.259,
+      "time_str": "01:37.259",
+      "text": "I am lonely lonely in my life",
+      "translation": "我的生命中是那么，那么孤独"
+    },
+    {
+      "time": 102.259,
+      "time_str": "01:42.259",
+      "text": "I am lonely lonely lonely",
+      "translation": "我那么，那么，那么孤独"
+    },
+    {
+      "time": 107.36,
+      "time_str": "01:47.360",
+      "text": "God help me help me to survive!",
+      "translation": "上帝呀拯救我，助佑我活下去！"
+    },
+    {
+      "time": 112.81,
+      "time_str": "01:52.810",
+      "text": "Everybody's trippin' on me",
+      "translation": "所有人使我跌倒"
+    },
+    {
+      "time": 114.61,
+      "time_str": "01:54.610",
+      "text": "Oh lord come help me please",
+      "translation": "啊，主请快来拯救我"
+    },
+    {
+      "time": 118.059,
+      "time_str": "01:58.059",
+      "text": "I did some bad things in my life",
+      "translation": "我在生命中弄糟了一些事"
+    },
+    {
+      "time": 122.76,
+      "time_str": "02:02.760",
+      "text": "Why can't you rescue me 'cause you've got all I need",
+      "translation": "为什么你不能拯救我？既然你已知晓我所需要"
+    },
+    {
+      "time": 128.058,
+      "time_str": "02:08.058",
+      "text": "I know I got to pay the price",
+      "translation": "我知道了：我必须付出代价"
+    },
+    {
+      "time": 133.359,
+      "time_str": "02:13.359",
+      "text": "That's why I am lonely lonely lonely",
+      "translation": "这就是为什么我那么，那么，那么孤独"
+    },
+    {
+      "time": 137.899,
+      "time_str": "02:17.899",
+      "text": "I am so lonely lonely",
+      "translation": "我多么孤独，孤独"
+    },
+    {
+      "time": 142.8,
+      "time_str": "02:22.800",
+      "text": "That's why I am lonely lonely lonely",
+      "translation": "这就是为什么我那么，那么，那么孤独"
+    },
+    {
+      "time": 150.159,
+      "time_str": "02:30.159",
+      "text": "Creepin' thru the streets at night after a fuss and fight",
+      "translation": "窸窣细响穿过晚街，在一场忧虑与斗争之后"
+    },
+    {
+      "time": 157.19,
+      "time_str": "02:37.190",
+      "text": "Tears in my eyes I'm a man lookin' for the light",
+      "translation": "我热泪盈眶，是一个寻找光明的人"
+    },
+    {
+      "time": 158.119,
+      "time_str": "02:38.119",
+      "text": "Dark is the path I know he will rescue me",
+      "translation": "黑暗乃必经之路，我知道祂将拯救我"
+    },
+    {
+      "time": 160.97,
+      "time_str": "02:40.970",
+      "text": "The lord is my shephard I'm cool despite emergency",
+      "translation": "主是我的牧羊人，我心如止水，尽管危机四伏"
+    },
+    {
+      "time": 162.999,
+      "time_str": "02:42.999",
+      "text": "Whom shall I fear except the god",
+      "translation": "除了上帝我谁都不怕"
+    },
+    {
+      "time": 165.32,
+      "time_str": "02:45.320",
+      "text": "Thank you for the blessin' and the skills on the mic",
+      "translation": "感谢你保佑并赐予我麦克风的娴熟技巧"
+    },
+    {
+      "time": 168.07,
+      "time_str": "02:48.070",
+      "text": "Five years we know there's no dignity",
+      "translation": "五年来我们心知肚明那里不存在尊严"
+    },
+    {
+      "time": 170.32,
+      "time_str": "02:50.320",
+      "text": "Free at last see the light in me",
+      "translation": "获得自由，终将看到我焕发灵魂之光"
+    },
+    {
+      "time": 173.019,
+      "time_str": "02:53.019",
+      "text": "What goes up must come down",
+      "translation": "凡高的，必降为卑"
+    },
+    {
+      "time": 175.22,
+      "time_str": "02:55.220",
+      "text": "I'll be around while you heading towards deathtown",
+      "translation": "我将在周围相伴，当你向死亡之城前进"
+    },
+    {
+      "time": 177.169,
+      "time_str": "02:57.169",
+      "text": "Always look forward hardly never look back",
+      "translation": "总要坚定向前看，永远不回头"
+    },
+    {
+      "time": 180.279,
+      "time_str": "03:00.279",
+      "text": "So many tears and the snakes on my jock",
+      "translation": "如此多泪与毒蛇将我纠缠！"
+    },
+    {
+      "time": 183.6,
+      "time_str": "03:03.600",
+      "text": "Now I'm riding in my big fat ride",
+      "translation": "现在，我骑着满载的车"
+    },
+    {
+      "time": 186.19,
+      "time_str": "03:06.190",
+      "text": "Your ass is late so look for the line",
+      "translation": "你迟到了，就滚去排队"
+    },
+    {
+      "time": 188.1,
+      "time_str": "03:08.100",
+      "text": "Nana in the house to let you know",
+      "translation": "NaNa站在这里，让你明白"
+    },
+    {
+      "time": 190.13,
+      "time_str": "03:10.130",
+      "text": "What I see is how I feel so leave me alone",
+      "translation": "我何所见是我的感受和诅咒，所以离我远点"
+    },
+    {
+      "time": 193.1,
+      "time_str": "03:13.100",
+      "text": "I am lonely lonely lonely",
+      "translation": "我是那么，那么，那么孤独"
+    },
+    {
+      "time": 197.579,
+      "time_str": "03:17.579",
+      "text": "I am lonely lonely in my life",
+      "translation": "我的生命中是那么，那么孤独"
+    },
+    {
+      "time": 202.729,
+      "time_str": "03:22.729",
+      "text": "I am lonely lonely lonely",
+      "translation": "我那么，那么，那么孤独"
+    },
+    {
+      "time": 207.729,
+      "time_str": "03:27.729",
+      "text": "God help me help me to survive!",
+      "translation": "上帝呀拯救我，助佑我活下去！"
+    },
+    {
+      "time": 213.329,
+      "time_str": "03:33.329",
+      "text": "Everybody is trippin' on me",
+      "translation": "所有人使我跌倒"
+    },
+    {
+      "time": 215.339,
+      "time_str": "03:35.339",
+      "text": "Oh lord come help me please",
+      "translation": "啊，主请快来拯救我"
+    },
+    {
+      "time": 218.229,
+      "time_str": "03:38.229",
+      "text": "I did some bad things in my life",
+      "translation": "我在生命中弄糟了一些事"
+    },
+    {
+      "time": 222.589,
+      "time_str": "03:42.589",
+      "text": "Why can't you rescue me",
+      "translation": "为什么你不能拯救我"
+    },
+    {
+      "time": 225.689,
+      "time_str": "03:45.689",
+      "text": "cause you've got all I need",
+      "translation": "既然你已知晓我所需要"
+    },
+    {
+      "time": 228.04,
+      "time_str": "03:48.040",
+      "text": "I know I got to pay the price",
+      "translation": "我知道了：我必须付出代价"
+    },
+    {
+      "time": 232.739,
+      "time_str": "03:52.739",
+      "text": "Knock on my door whom you lookin' for",
+      "translation": "敲我的门，你要找谁"
+    },
+    {
+      "time": 236.29,
+      "time_str": "03:56.290",
+      "text": "A dream or reality enemies at my door",
+      "translation": "是一场梦还是真实的敌人在我门边"
+    },
+    {
+      "time": 237.989,
+      "time_str": "03:57.989",
+      "text": "Eyes I realize it's fantasize I must be high",
+      "translation": "双眼让我意识到这是幻觉，我一定太激动了"
+    },
+    {
+      "time": 240.79,
+      "time_str": "04:00.790",
+      "text": "So let me live before I die",
+      "translation": "所以在我死之前让我再快活一回"
+    },
+    {
+      "time": 242.79,
+      "time_str": "04:02.790",
+      "text": "Grasp the bottle twist the cap to survive",
+      "translation": "再一次我抓起酒瓶卷起帽子去生存"
+    },
+    {
+      "time": 245.339,
+      "time_str": "04:05.339",
+      "text": "Your life is yours my life is mine",
+      "translation": "你的生活是你的，我的生活是我的"
+    },
+    {
+      "time": 248.29,
+      "time_str": "04:08.290",
+      "text": "No emotions in this world full of lies",
+      "translation": "这个充满谎言的世界不存在情感"
+    },
+    {
+      "time": 250.54,
+      "time_str": "04:10.540",
+      "text": "Step by step and be versatile",
+      "translation": "步步为营，随机应变"
+    },
+    {
+      "time": 253.04,
+      "time_str": "04:13.040",
+      "text": "Love peace and crash that's what it's all about",
+      "translation": "热爱和平或毁灭，这关乎一切"
+    },
+    {
+      "time": 257.29,
+      "time_str": "04:17.290",
+      "text": "Alone by yourself than you lack there's no doubt about",
+      "translation": "独自一人比你匮乏得不懂怀疑要好"
+    },
+    {
+      "time": 260.29,
+      "time_str": "04:20.290",
+      "text": "I'm always into something making moves to improve",
+      "translation": "我通常沉湎某件事，就采取行动去改进"
+    },
+    {
+      "time": 262.59,
+      "time_str": "04:22.590",
+      "text": "What would you do if you where in my shoes",
+      "translation": "你将做什么？如果你是我？"
+    },
+    {
+      "time": 265.29,
+      "time_str": "04:25.290",
+      "text": "Boom a letter oops another suicide",
+      "translation": "砰！一封信！哎呀——又一个者"
+    },
+    {
+      "time": 268.04,
+      "time_str": "04:28.040",
+      "text": "Meet me for a ride at the boulevard",
+      "translation": "在林荫大道与我约见，开启一段旅程"
+    },
+    {
+      "time": 270.09,
+      "time_str": "04:30.090",
+      "text": "Nana's in the house to let you know",
+      "translation": "NaNa站在这里，让你明白"
+    },
+    {
+      "time": 271.64,
+      "time_str": "04:31.640",
+      "text": "What I see is how I feel and damn",
+      "translation": "我何所见是我的感受和诅咒，我孤独"
+    },
+    {
+      "time": 273.34,
+      "time_str": "04:33.340",
+      "text": "I am lonely lonely lonely",
+      "translation": "我是那么，那么，那么孤独"
+    },
+    {
+      "time": 277.689,
+      "time_str": "04:37.689",
+      "text": "I am lonely lonely in my life",
+      "translation": "我的生命中是那么，那么孤独"
+    },
+    {
+      "time": 282.689,
+      "time_str": "04:42.689",
+      "text": "I am lonely lonely lonely",
+      "translation": "我那么，那么，那么孤独"
+    },
+    {
+      "time": 287.6,
+      "time_str": "04:47.600",
+      "text": "God help me help me to survive!",
+      "translation": "上帝呀拯救我，助佑我活下去！"
+    },
+    {
+      "time": 293.89,
+      "time_str": "04:53.890",
+      "text": "Everybody's trippin' on me",
+      "translation": "所有人使我跌倒"
+    },
+    {
+      "time": 295.55,
+      "time_str": "04:55.550",
+      "text": "Oh lord come help me please",
+      "translation": "啊，主请快来拯救我"
+    },
+    {
+      "time": 298.249,
+      "time_str": "04:58.249",
+      "text": "I did some bad things in my life",
+      "translation": "我在生命中弄糟了一些事"
+    },
+    {
+      "time": 303.15,
+      "time_str": "05:03.150",
+      "text": "Why can't you rescue me 'cause you've got all I need",
+      "translation": "为什么你不能拯救我？既然你已知晓我所需要"
+    },
+    {
+      "time": 307.999,
+      "time_str": "05:07.999",
+      "text": "I know I got to pay the price",
+      "translation": "我知道了：我必须付出代价"
+    },
+    {
+      "time": 313.3,
+      "time_str": "05:13.300",
+      "text": "I am lonely lonely lonely",
+      "translation": "我是那么，那么，那么孤独"
+    },
+    {
+      "time": 317.55,
+      "time_str": "05:17.550",
+      "text": "I am lonely lonely in my life",
+      "translation": "我的生命中是那么，那么孤独"
+    },
+    {
+      "time": 322.55,
+      "time_str": "05:22.550",
+      "text": "I am lonely lonely lonely",
+      "translation": "我那么，那么，那么孤独"
+    },
+    {
+      "time": 327.89,
+      "time_str": "05:27.890",
+      "text": "God help me help me to survive!",
+      "translation": "上帝呀拯救我，助佑我活下去！"
+    },
+    {
+      "time": 333.15,
+      "time_str": "05:33.150",
+      "text": "I am lonely lonely lonely",
+      "translation": "我是那么，那么，那么孤独"
+    },
+    {
+      "time": 338.39,
+      "time_str": "05:38.390",
+      "text": "I am lonely lonely in my life",
+      "translation": "我是那么，那么，那么孤独"
+    },
+    {
+      "time": 342.65,
+      "time_str": "05:42.650",
+      "text": "I am lonely lonely lonely",
+      "translation": "我的生命中是那么，那么孤独"
+    },
+    {
+      "time": 348.39,
+      "time_str": "05:48.390",
+      "text": "God help me help me to survive!",
+      "translation": "上帝呀拯救我，助佑我活下去！"
+    },
+    {
+      "time": 353.05,
+      "time_str": "05:53.050",
+      "text": "That's why I am lonely lonely lonely",
+      "translation": "这就是为什么我那么，那么，那么孤独"
+    },
+    {
+      "time": 358.249,
+      "time_str": "05:58.249",
+      "text": "I am so lonely lonely",
+      "translation": "我多么孤独，孤独"
+    },
+    {
+      "time": 362.66,
+      "time_str": "06:02.660",
+      "text": "I am so lonely lonely lonely in my life",
+      "translation": "我生命中是那么，那么，那么孤独"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Lonely - Nana.lrc"
+}

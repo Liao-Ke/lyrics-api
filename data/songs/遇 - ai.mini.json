@@ -1,0 +1,238 @@
+{
+  "title": "遇",
+  "title_raw": "遇",
+  "version": null,
+  "artist": "ai.mini",
+  "group_key": "遇|ai.mini",
+  "writers": {
+    "lyricist": "Vannessa",
+    "composer": "Vannessa",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.03,
+      "time_str": "00:25.030",
+      "text": "都怪雨下得那么急",
+      "translation": null
+    },
+    {
+      "time": 30.9,
+      "time_str": "00:30.900",
+      "text": "都怪没有地方躲雨",
+      "translation": null
+    },
+    {
+      "time": 35.46,
+      "time_str": "00:35.460",
+      "text": "才会一头撞进了你的怀里",
+      "translation": null
+    },
+    {
+      "time": 41.16,
+      "time_str": "00:41.160",
+      "text": "跌进你深深的眼里",
+      "translation": null
+    },
+    {
+      "time": 46.65,
+      "time_str": "00:46.650",
+      "text": "都怪梦境太过迷离",
+      "translation": null
+    },
+    {
+      "time": 51.9,
+      "time_str": "00:51.900",
+      "text": "都怪你身影太清晰",
+      "translation": null
+    },
+    {
+      "time": 56.98,
+      "time_str": "00:56.980",
+      "text": "总是听见雨水耳边滴答滴",
+      "translation": null
+    },
+    {
+      "time": 62.48,
+      "time_str": "01:02.480",
+      "text": "忘不了你温柔表情",
+      "translation": null
+    },
+    {
+      "time": 70.98,
+      "time_str": "01:10.980",
+      "text": "自从遇见你的那天起",
+      "translation": null
+    },
+    {
+      "time": 75.78,
+      "time_str": "01:15.780",
+      "text": "我的心就不再属于我自己",
+      "translation": null
+    },
+    {
+      "time": 81.28,
+      "time_str": "01:21.280",
+      "text": "不管上天下地都看见你",
+      "translation": null
+    },
+    {
+      "time": 86.88,
+      "time_str": "01:26.880",
+      "text": "想念如影随形",
+      "translation": null
+    },
+    {
+      "time": 92.98,
+      "time_str": "01:32.980",
+      "text": "猜不透这是什么道理",
+      "translation": null
+    },
+    {
+      "time": 97.58,
+      "time_str": "01:37.580",
+      "text": "怎会想你想到昏天又暗地",
+      "translation": null
+    },
+    {
+      "time": 102.78,
+      "time_str": "01:42.780",
+      "text": "难道这就是他们说的爱情",
+      "translation": null
+    },
+    {
+      "time": 108.6,
+      "time_str": "01:48.600",
+      "text": "已悄悄闯进心里",
+      "translation": null
+    },
+    {
+      "time": 122.18,
+      "time_str": "02:02.180",
+      "text": "都怪梦境太过迷离",
+      "translation": null
+    },
+    {
+      "time": 127.53,
+      "time_str": "02:07.530",
+      "text": "都怪你身影太清晰",
+      "translation": null
+    },
+    {
+      "time": 132.33,
+      "time_str": "02:12.330",
+      "text": "总是听见雨水耳边滴答滴",
+      "translation": null
+    },
+    {
+      "time": 137.98,
+      "time_str": "02:17.980",
+      "text": "忘不了你温柔表情",
+      "translation": null
+    },
+    {
+      "time": 146.38,
+      "time_str": "02:26.380",
+      "text": "自从遇见你的那天起",
+      "translation": null
+    },
+    {
+      "time": 151.38,
+      "time_str": "02:31.380",
+      "text": "我的心就不再属于我自己",
+      "translation": null
+    },
+    {
+      "time": 156.48,
+      "time_str": "02:36.480",
+      "text": "不管上天下地都看见你",
+      "translation": null
+    },
+    {
+      "time": 162.43,
+      "time_str": "02:42.430",
+      "text": "想念如影随形",
+      "translation": null
+    },
+    {
+      "time": 167.88,
+      "time_str": "02:47.880",
+      "text": "猜不透这是什么道理",
+      "translation": null
+    },
+    {
+      "time": 172.59,
+      "time_str": "02:52.590",
+      "text": "怎会想你想到昏天又暗地",
+      "translation": null
+    },
+    {
+      "time": 177.88,
+      "time_str": "02:57.880",
+      "text": "难道这就是他们说的爱情",
+      "translation": null
+    },
+    {
+      "time": 183.7,
+      "time_str": "03:03.700",
+      "text": "已悄悄闯进心里",
+      "translation": null
+    },
+    {
+      "time": 190.29,
+      "time_str": "03:10.290",
+      "text": "自从遇见你的那天起",
+      "translation": null
+    },
+    {
+      "time": 194.78,
+      "time_str": "03:14.780",
+      "text": "我的心就不再属于我自己",
+      "translation": null
+    },
+    {
+      "time": 200.7,
+      "time_str": "03:20.700",
+      "text": "不管上天下地都看见你",
+      "translation": null
+    },
+    {
+      "time": 205.88,
+      "time_str": "03:25.880",
+      "text": "想念如影随形",
+      "translation": null
+    },
+    {
+      "time": 211.28,
+      "time_str": "03:31.280",
+      "text": "猜不透这是什么道理",
+      "translation": null
+    },
+    {
+      "time": 216.13,
+      "time_str": "03:36.130",
+      "text": "怎会想你想到昏天又暗地",
+      "translation": null
+    },
+    {
+      "time": 221.38,
+      "time_str": "03:41.380",
+      "text": "难道这就是他们说的爱情",
+      "translation": null
+    },
+    {
+      "time": 227.08,
+      "time_str": "03:47.080",
+      "text": "已悄悄闯进心里",
+      "translation": null
+    },
+    {
+      "time": 234.18,
+      "time_str": "03:54.180",
+      "text": "就从遇见你的那天起",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "遇 - ai.mini.lrc"
+}

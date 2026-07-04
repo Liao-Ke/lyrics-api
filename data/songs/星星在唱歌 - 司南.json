@@ -1,0 +1,520 @@
+{
+  "title": "星星在唱歌",
+  "title_raw": "星星在唱歌",
+  "version": null,
+  "artist": "司南",
+  "group_key": "星星在唱歌|司南",
+  "writers": {
+    "lyricist": "Mango Daddy",
+    "composer": "Mango Daddy",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.78,
+      "time_str": "00:09.780",
+      "text": "原唱：Mango Daddy",
+      "translation": null
+    },
+    {
+      "time": 19.81,
+      "time_str": "00:19.810",
+      "text": "我常常一个人路过",
+      "translation": null
+    },
+    {
+      "time": 26.02,
+      "time_str": "00:26.020",
+      "text": "车水马龙拥挤的路口",
+      "translation": null
+    },
+    {
+      "time": 32.26,
+      "time_str": "00:32.260",
+      "text": "此时的喧嚣",
+      "translation": null
+    },
+    {
+      "time": 36.18,
+      "time_str": "00:36.180",
+      "text": "已与我分割",
+      "translation": null
+    },
+    {
+      "time": 39.57,
+      "time_str": "00:39.570",
+      "text": "我无处可逃",
+      "translation": null
+    },
+    {
+      "time": 41.9,
+      "time_str": "00:41.900",
+      "text": "四处闪躲",
+      "translation": null
+    },
+    {
+      "time": 47.94,
+      "time_str": "00:47.940",
+      "text": "患得患失的世界",
+      "translation": null
+    },
+    {
+      "time": 54.21,
+      "time_str": "00:54.210",
+      "text": "有些画面却无法割舍",
+      "translation": null
+    },
+    {
+      "time": 60.32,
+      "time_str": "01:00.320",
+      "text": "是你永远",
+      "translation": null
+    },
+    {
+      "time": 64.088,
+      "time_str": "01:04.088",
+      "text": "在前方为我闪烁",
+      "translation": null
+    },
+    {
+      "time": 67.7,
+      "time_str": "01:07.700",
+      "text": "所有的光汇成河",
+      "translation": null
+    },
+    {
+      "time": 74.018,
+      "time_str": "01:14.018",
+      "text": "抬头看着星星在唱歌",
+      "translation": null
+    },
+    {
+      "time": 77.64,
+      "time_str": "01:17.640",
+      "text": "她的呼吸好似对我说",
+      "translation": null
+    },
+    {
+      "time": 81.33,
+      "time_str": "01:21.330",
+      "text": "她说你要慢慢长大",
+      "translation": null
+    },
+    {
+      "time": 83.619,
+      "time_str": "01:23.619",
+      "text": "不只为自己活着",
+      "translation": null
+    },
+    {
+      "time": 88.149,
+      "time_str": "01:28.149",
+      "text": "如果你也听见星星的歌",
+      "translation": null
+    },
+    {
+      "time": 91.709,
+      "time_str": "01:31.709",
+      "text": "不要哭泣不要再受折磨",
+      "translation": null
+    },
+    {
+      "time": 95.78,
+      "time_str": "01:35.780",
+      "text": "若你抬起头",
+      "translation": null
+    },
+    {
+      "time": 97.86,
+      "time_str": "01:37.860",
+      "text": "她就在天空",
+      "translation": null
+    },
+    {
+      "time": 132.588,
+      "time_str": "02:12.588",
+      "text": "我常常一个人路过",
+      "translation": null
+    },
+    {
+      "time": 138.959,
+      "time_str": "02:18.959",
+      "text": "车水马龙拥挤的路口",
+      "translation": null
+    },
+    {
+      "time": 145.11,
+      "time_str": "02:25.110",
+      "text": "此时的喧嚣",
+      "translation": null
+    },
+    {
+      "time": 149.038,
+      "time_str": "02:29.038",
+      "text": "已与我分割",
+      "translation": null
+    },
+    {
+      "time": 152.528,
+      "time_str": "02:32.528",
+      "text": "我无处可逃",
+      "translation": null
+    },
+    {
+      "time": 155.028,
+      "time_str": "02:35.028",
+      "text": "四处闪躲",
+      "translation": null
+    },
+    {
+      "time": 161.02,
+      "time_str": "02:41.020",
+      "text": "患得患失的世界",
+      "translation": null
+    },
+    {
+      "time": 167.218,
+      "time_str": "02:47.218",
+      "text": "有些画面却无法割舍",
+      "translation": null
+    },
+    {
+      "time": 173.41,
+      "time_str": "02:53.410",
+      "text": "是你永远",
+      "translation": null
+    },
+    {
+      "time": 177.218,
+      "time_str": "02:57.218",
+      "text": "在前方为我闪烁",
+      "translation": null
+    },
+    {
+      "time": 180.769,
+      "time_str": "03:00.769",
+      "text": "所有的光汇成河",
+      "translation": null
+    },
+    {
+      "time": 187.088,
+      "time_str": "03:07.088",
+      "text": "抬头看着星星在唱歌",
+      "translation": null
+    },
+    {
+      "time": 190.508,
+      "time_str": "03:10.508",
+      "text": "她的呼吸好似对我说",
+      "translation": null
+    },
+    {
+      "time": 194.088,
+      "time_str": "03:14.088",
+      "text": "她说你要慢慢长大",
+      "translation": null
+    },
+    {
+      "time": 196.688,
+      "time_str": "03:16.688",
+      "text": "不只为自己活着",
+      "translation": null
+    },
+    {
+      "time": 201.089,
+      "time_str": "03:21.089",
+      "text": "如果你也听见星星的歌",
+      "translation": null
+    },
+    {
+      "time": 204.688,
+      "time_str": "03:24.688",
+      "text": "不要哭泣不要再受折磨",
+      "translation": null
+    },
+    {
+      "time": 208.688,
+      "time_str": "03:28.688",
+      "text": "若你抬起头",
+      "translation": null
+    },
+    {
+      "time": 210.86,
+      "time_str": "03:30.860",
+      "text": "她就在天空",
+      "translation": null
+    },
+    {
+      "time": 244.378,
+      "time_str": "04:04.378",
+      "text": "我常常一个人路过",
+      "translation": null
+    },
+    {
+      "time": 247.449,
+      "time_str": "04:07.449",
+      "text": "车水马龙拥挤的路口",
+      "translation": null
+    },
+    {
+      "time": 251.209,
+      "time_str": "04:11.209",
+      "text": "此时的喧嚣已与我",
+      "translation": null
+    },
+    {
+      "time": 254.55,
+      "time_str": "04:14.550",
+      "text": "分割",
+      "translation": null
+    },
+    {
+      "time": 258.98,
+      "time_str": "04:18.980",
+      "text": "患得患失的世界",
+      "translation": null
+    },
+    {
+      "time": 261.67,
+      "time_str": "04:21.670",
+      "text": "有些画面却无法割舍",
+      "translation": null
+    },
+    {
+      "time": 265.499,
+      "time_str": "04:25.499",
+      "text": "是你永远在前方",
+      "translation": null
+    },
+    {
+      "time": 268.249,
+      "time_str": "04:28.249",
+      "text": "为我闪烁",
+      "translation": null
+    },
+    {
+      "time": 287.178,
+      "time_str": "04:47.178",
+      "text": "“哇~快看！天上有星星哎”",
+      "translation": null
+    },
+    {
+      "time": 292.879,
+      "time_str": "04:52.879",
+      "text": "抬头看着星星在唱歌",
+      "translation": null
+    },
+    {
+      "time": 296.428,
+      "time_str": "04:56.428",
+      "text": "她的呼吸好似对我说",
+      "translation": null
+    },
+    {
+      "time": 299.949,
+      "time_str": "04:59.949",
+      "text": "她说你要慢慢长大",
+      "translation": null
+    },
+    {
+      "time": 302.517,
+      "time_str": "05:02.517",
+      "text": "不只为自己活着",
+      "translation": null
+    },
+    {
+      "time": 307.119,
+      "time_str": "05:07.119",
+      "text": "如果你也听见星星的歌",
+      "translation": null
+    },
+    {
+      "time": 310.629,
+      "time_str": "05:10.629",
+      "text": "不要哭泣不要再受折磨",
+      "translation": null
+    },
+    {
+      "time": 314.559,
+      "time_str": "05:14.559",
+      "text": "若你抬起头",
+      "translation": null
+    },
+    {
+      "time": 316.749,
+      "time_str": "05:16.749",
+      "text": "她就在天空",
+      "translation": null
+    },
+    {
+      "time": 321.689,
+      "time_str": "05:21.689",
+      "text": "若你抬起头",
+      "translation": null
+    },
+    {
+      "time": 323.889,
+      "time_str": "05:23.889",
+      "text": "她就在天空",
+      "translation": null
+    },
+    {
+      "time": 327.439,
+      "time_str": "05:27.439",
+      "text": "童声：咪宝、赞、叮当、阿骁",
+      "translation": null
+    },
+    {
+      "time": 327.928,
+      "time_str": "05:27.928",
+      "text": "李姝娴、陈烨欣、凌岑",
+      "translation": null
+    },
+    {
+      "time": 328.428,
+      "time_str": "05:28.428",
+      "text": "陈王梓、蔡颖扬、王歆悦",
+      "translation": null
+    },
+    {
+      "time": 331.898,
+      "time_str": "05:31.898",
+      "text": "制作人Producer：CMJ",
+      "translation": null
+    },
+    {
+      "time": 332.178,
+      "time_str": "05:32.178",
+      "text": "编曲Arranger：CMJ",
+      "translation": null
+    },
+    {
+      "time": 332.648,
+      "time_str": "05:32.648",
+      "text": "监制Executive Producer：袁晓童",
+      "translation": null
+    },
+    {
+      "time": 333.129,
+      "time_str": "05:33.129",
+      "text": "吉他Guitar：刘帅",
+      "translation": null
+    },
+    {
+      "time": 334.16,
+      "time_str": "05:34.160",
+      "text": "贝斯Bass：刘帅",
+      "translation": null
+    },
+    {
+      "time": 334.619,
+      "time_str": "05:34.619",
+      "text": "弦乐Strings : 国际首席爱乐乐团",
+      "translation": null
+    },
+    {
+      "time": 335.66,
+      "time_str": "05:35.660",
+      "text": "弦乐监制Strings Producer：李朋",
+      "translation": null
+    },
+    {
+      "time": 336.139,
+      "time_str": "05:36.139",
+      "text": "录音Recording：within_轶名@异新音乐",
+      "translation": null
+    },
+    {
+      "time": 336.759,
+      "time_str": "05:36.759",
+      "text": "配唱Backing Vocals：皎月",
+      "translation": null
+    },
+    {
+      "time": 337.23,
+      "time_str": "05:37.230",
+      "text": "配唱编写Backing Vocals Producer：皎月",
+      "translation": null
+    },
+    {
+      "time": 337.838,
+      "time_str": "05:37.838",
+      "text": "童声录音Recording：Maimaimusic Studio/小唱音乐",
+      "translation": null
+    },
+    {
+      "time": 338.499,
+      "time_str": "05:38.499",
+      "text": "童声监制Child's Voice Producer：阿福@麦麦童声/ Mango Daddy",
+      "translation": null
+    },
+    {
+      "time": 338.99,
+      "time_str": "05:38.990",
+      "text": "混音Mixing Engineer：何世渝",
+      "translation": null
+    },
+    {
+      "time": 339.55,
+      "time_str": "05:39.550",
+      "text": "母带Mastering Engineer ：何世渝",
+      "translation": null
+    },
+    {
+      "time": 339.99,
+      "time_str": "05:39.990",
+      "text": "混音助理Mixing Assistants：欧小龙",
+      "translation": null
+    },
+    {
+      "time": 340.958,
+      "time_str": "05:40.958",
+      "text": "统筹：丁柏昕",
+      "translation": null
+    },
+    {
+      "time": 341.439,
+      "time_str": "05:41.439",
+      "text": "企划：张东旭/孙夏帆",
+      "translation": null
+    },
+    {
+      "time": 341.91,
+      "time_str": "05:41.910",
+      "text": "推广：徐思灵/王暴雨/郭凯翌",
+      "translation": null
+    },
+    {
+      "time": 342.97,
+      "time_str": "05:42.970",
+      "text": "总策划：谢奇笛/凌联兴",
+      "translation": null
+    },
+    {
+      "time": 343.379,
+      "time_str": "05:43.379",
+      "text": "出品人：李茵",
+      "translation": null
+    },
+    {
+      "time": 344.208,
+      "time_str": "05:44.208",
+      "text": "本歌曲来自〖网易飓风计划〗",
+      "translation": null
+    },
+    {
+      "time": 344.319,
+      "time_str": "05:44.319",
+      "text": "10亿现金激励，千亿流量扶持！",
+      "translation": null
+    },
+    {
+      "time": 344.889,
+      "time_str": "05:44.889",
+      "text": "业务联系：jf399@vip.163.com",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "星星在唱歌 - 司南.lrc"
+}

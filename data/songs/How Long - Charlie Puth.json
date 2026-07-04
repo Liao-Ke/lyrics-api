@@ -1,0 +1,316 @@
+{
+  "title": "How Long",
+  "title_raw": "How Long",
+  "version": null,
+  "artist": "Charlie Puth",
+  "group_key": "how long|charlie puth",
+  "writers": {
+    "lyricist": "Charlie Puth/Jacob Kasher/Justin Franks",
+    "composer": "Charlie Puth/Jacob Kasher/Justin Franks",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 11.43,
+      "time_str": "00:11.430",
+      "text": "I'll admit I was wrong",
+      "translation": "我承认都是我的错"
+    },
+    {
+      "time": 13.55,
+      "time_str": "00:13.550",
+      "text": "What else can I say girl",
+      "translation": "宝贝我还能说些什么"
+    },
+    {
+      "time": 15.39,
+      "time_str": "00:15.390",
+      "text": "Can't you blame my head and not my heart",
+      "translation": "你能不能别对我身心指责"
+    },
+    {
+      "time": 20.07,
+      "time_str": "00:20.070",
+      "text": "I was drunk I was gone",
+      "translation": "我宿醉 一去不回"
+    },
+    {
+      "time": 22.16,
+      "time_str": "00:22.160",
+      "text": "That don't make it right but",
+      "translation": "也没让一切回到正轨"
+    },
+    {
+      "time": 23.99,
+      "time_str": "00:23.990",
+      "text": "Promise there were no feelings involved",
+      "translation": "但我保证这一切都跟感情无关联"
+    },
+    {
+      "time": 28.76,
+      "time_str": "00:28.760",
+      "text": "She said boy tell me honestly",
+      "translation": "她说 宝贝你就坦白告诉我"
+    },
+    {
+      "time": 33.2,
+      "time_str": "00:33.200",
+      "text": "Was it real or just for show",
+      "translation": "这一切是真心还是你的逢场作戏"
+    },
+    {
+      "time": 37.47,
+      "time_str": "00:37.470",
+      "text": "She said save your apologies",
+      "translation": "她说 不如就省省你的歉意和愧疚"
+    },
+    {
+      "time": 42.2,
+      "time_str": "00:42.200",
+      "text": "Baby I just got to know",
+      "translation": "我只要知道事实就足够"
+    },
+    {
+      "time": 45.26,
+      "time_str": "00:45.260",
+      "text": "How long has this been goin' on",
+      "translation": "这样的情形持续了多久"
+    },
+    {
+      "time": 49.67,
+      "time_str": "00:49.670",
+      "text": "You've been creepin' round on me",
+      "translation": "你一边背着我偷腥偷摸"
+    },
+    {
+      "time": 51.97,
+      "time_str": "00:51.970",
+      "text": "While you're calling me baby",
+      "translation": "一边却还在叫我亲爱的"
+    },
+    {
+      "time": 54.0,
+      "time_str": "00:54.000",
+      "text": "How long has this been goin' on",
+      "translation": "噢这样的情形到底多久了"
+    },
+    {
+      "time": 58.39,
+      "time_str": "00:58.390",
+      "text": "You've been acting so shady",
+      "translation": "你的所作所为阴暗难琢磨"
+    },
+    {
+      "time": 60.71,
+      "time_str": "01:00.710",
+      "text": "I've been feeling it lately baby",
+      "translation": "我最近却才有所察觉呢"
+    },
+    {
+      "time": 72.47,
+      "time_str": "01:12.470",
+      "text": "I'll admit it's my fault",
+      "translation": "我承认这都是我的错"
+    },
+    {
+      "time": 74.61,
+      "time_str": "01:14.610",
+      "text": "But you gotta believe me",
+      "translation": "但你必须相信我"
+    },
+    {
+      "time": 76.56,
+      "time_str": "01:16.560",
+      "text": "When I say it only happened once",
+      "translation": "当我说一切再无下次的时候"
+    },
+    {
+      "time": 81.15,
+      "time_str": "01:21.150",
+      "text": "I try and I try but you'll never see that",
+      "translation": "我不停尝试努力但你却从未看清"
+    },
+    {
+      "time": 85.14,
+      "time_str": "01:25.140",
+      "text": "You're the only one I wanna love",
+      "translation": "你就是我最想要去爱的唯一"
+    },
+    {
+      "time": 89.86,
+      "time_str": "01:29.860",
+      "text": "She said boy tell me honestly",
+      "translation": "她说 亲爱的就老实告诉我"
+    },
+    {
+      "time": 94.5,
+      "time_str": "01:34.500",
+      "text": "Was it real or just for show",
+      "translation": "这一切是真心还是你的逢场作戏"
+    },
+    {
+      "time": 98.57,
+      "time_str": "01:38.570",
+      "text": "She said save your apologies",
+      "translation": "她说 不如就省省你的歉意和愧疚"
+    },
+    {
+      "time": 103.33,
+      "time_str": "01:43.330",
+      "text": "Baby I just got to know",
+      "translation": "我只要知道事实就足够"
+    },
+    {
+      "time": 106.39,
+      "time_str": "01:46.390",
+      "text": "How long has this been goin' on",
+      "translation": "这样的情形持续了多久"
+    },
+    {
+      "time": 110.86,
+      "time_str": "01:50.860",
+      "text": "You've been creepin' round on me",
+      "translation": "你一边背着我偷腥偷摸"
+    },
+    {
+      "time": 113.14,
+      "time_str": "01:53.140",
+      "text": "While you're calling me baby",
+      "translation": "一边却还在叫我亲爱的"
+    },
+    {
+      "time": 115.07,
+      "time_str": "01:55.070",
+      "text": "How long has this been goin' on",
+      "translation": "噢这样的情形到底多久了"
+    },
+    {
+      "time": 119.5,
+      "time_str": "01:59.500",
+      "text": "You've been acting so shady",
+      "translation": "你的所作所为阴暗难琢磨"
+    },
+    {
+      "time": 122.02,
+      "time_str": "02:02.020",
+      "text": "I've been feeling it lately baby",
+      "translation": "我最近却才有所察觉呢"
+    },
+    {
+      "time": 131.13,
+      "time_str": "02:11.130",
+      "text": "How long has this been goin' on baby",
+      "translation": "噢这样的情形到底多久了宝贝"
+    },
+    {
+      "time": 136.48,
+      "time_str": "02:16.480",
+      "text": "You gonna go tell me now",
+      "translation": "你最好现在就坦白对我说"
+    },
+    {
+      "time": 142.13,
+      "time_str": "02:22.130",
+      "text": "She said boy tell me honestly",
+      "translation": "她说 亲爱的就老实告诉我"
+    },
+    {
+      "time": 146.84,
+      "time_str": "02:26.840",
+      "text": "Was it real or just for show",
+      "translation": "这一切是真心还是你的逢场作戏"
+    },
+    {
+      "time": 150.92,
+      "time_str": "02:30.920",
+      "text": "She said save your apologies",
+      "translation": "她说 不如就省省你的歉意和愧疚"
+    },
+    {
+      "time": 155.67,
+      "time_str": "02:35.670",
+      "text": "Baby I just got to know",
+      "translation": "我只要知道事实就足够"
+    },
+    {
+      "time": 158.68,
+      "time_str": "02:38.680",
+      "text": "How long has this been goin' on",
+      "translation": "这样的情形持续了多久"
+    },
+    {
+      "time": 165.47,
+      "time_str": "02:45.470",
+      "text": "You've been creepin' round on me",
+      "translation": "你一边背着我偷腥偷摸"
+    },
+    {
+      "time": 167.52,
+      "time_str": "02:47.520",
+      "text": "While you're calling me baby",
+      "translation": "一边却还在叫我亲爱的"
+    },
+    {
+      "time": 169.62,
+      "time_str": "02:49.620",
+      "text": "How long has this been goin' on",
+      "translation": "噢这样的情形到底多久了"
+    },
+    {
+      "time": 174.01,
+      "time_str": "02:54.010",
+      "text": "You've been acting so shady",
+      "translation": "你的所作所为阴暗难琢磨"
+    },
+    {
+      "time": 176.21,
+      "time_str": "02:56.210",
+      "text": "I've been feeling it lately baby",
+      "translation": "我最近却才有所察觉呢"
+    },
+    {
+      "time": 178.55,
+      "time_str": "02:58.550",
+      "text": "How long has this been goin' on",
+      "translation": "这样的情形持续了多久"
+    },
+    {
+      "time": 182.75,
+      "time_str": "03:02.750",
+      "text": "You've been creepin' round on me",
+      "translation": "你一边背着我偷腥偷摸"
+    },
+    {
+      "time": 185.68,
+      "time_str": "03:05.680",
+      "text": "How long has this been goin' on baby",
+      "translation": "一边却还在叫我亲爱的"
+    },
+    {
+      "time": 187.6,
+      "time_str": "03:07.600",
+      "text": "How long has this been goin' on",
+      "translation": "噢这样的情形到底多久了"
+    },
+    {
+      "time": 191.49,
+      "time_str": "03:11.490",
+      "text": "You gonna go tell me now",
+      "translation": "你最好现在就坦白对我说"
+    },
+    {
+      "time": 191.65,
+      "time_str": "03:11.650",
+      "text": "You've been acting so shady",
+      "translation": "你的所作所为阴暗难琢磨"
+    },
+    {
+      "time": 193.6,
+      "time_str": "03:13.600",
+      "text": "I've been feeling it lately baby",
+      "translation": "我最近却才有所察觉呢"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "How Long - Charlie Puth.lrc"
+}

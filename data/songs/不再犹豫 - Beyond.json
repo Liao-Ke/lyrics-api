@@ -1,0 +1,298 @@
+{
+  "title": "不再犹豫",
+  "title_raw": "不再犹豫",
+  "version": null,
+  "artist": "Beyond",
+  "group_key": "不再犹豫|beyond",
+  "writers": {
+    "lyricist": "小美",
+    "composer": "黄家驹",
+    "arranger": "Beyond"
+  },
+  "lyrics": [
+    {
+      "time": 28.74,
+      "time_str": "00:28.740",
+      "text": "无聊望见了犹豫",
+      "translation": null
+    },
+    {
+      "time": 32.25,
+      "time_str": "00:32.250",
+      "text": "达到理想不太易",
+      "translation": null
+    },
+    {
+      "time": 35.85,
+      "time_str": "00:35.850",
+      "text": "即使有信心",
+      "translation": null
+    },
+    {
+      "time": 38.07,
+      "time_str": "00:38.070",
+      "text": "斗志却抑止",
+      "translation": null
+    },
+    {
+      "time": 42.99,
+      "time_str": "00:42.990",
+      "text": "谁人定我去或留",
+      "translation": null
+    },
+    {
+      "time": 45.33,
+      "time_str": "00:45.330",
+      "text": "定我心中的宇宙",
+      "translation": null
+    },
+    {
+      "time": 50.19,
+      "time_str": "00:50.190",
+      "text": "只想靠两手",
+      "translation": null
+    },
+    {
+      "time": 52.32,
+      "time_str": "00:52.320",
+      "text": "向理想挥手",
+      "translation": null
+    },
+    {
+      "time": 57.36,
+      "time_str": "00:57.360",
+      "text": "问句天几高",
+      "translation": null
+    },
+    {
+      "time": 59.01,
+      "time_str": "00:59.010",
+      "text": "心中志比天更高",
+      "translation": null
+    },
+    {
+      "time": 64.59,
+      "time_str": "01:04.590",
+      "text": "自信打不死的心态活到老",
+      "translation": null
+    },
+    {
+      "time": 71.93,
+      "time_str": "01:11.930",
+      "text": "Woo ho",
+      "translation": null
+    },
+    {
+      "time": 75.329,
+      "time_str": "01:15.329",
+      "text": "我有我心底故事",
+      "translation": null
+    },
+    {
+      "time": 78.87,
+      "time_str": "01:18.870",
+      "text": "亲手写上每段",
+      "translation": null
+    },
+    {
+      "time": 81.09,
+      "time_str": "01:21.090",
+      "text": "得失乐与悲与梦儿",
+      "translation": null
+    },
+    {
+      "time": 86.05,
+      "time_str": "01:26.050",
+      "text": "Woo ho",
+      "translation": null
+    },
+    {
+      "time": 89.61,
+      "time_str": "01:29.610",
+      "text": "纵有创伤不退避",
+      "translation": null
+    },
+    {
+      "time": 93.18,
+      "time_str": "01:33.180",
+      "text": "梦想有日达成",
+      "translation": null
+    },
+    {
+      "time": 95.37,
+      "time_str": "01:35.370",
+      "text": "找到心底梦想的世界",
+      "translation": null
+    },
+    {
+      "time": 99.93,
+      "time_str": "01:39.930",
+      "text": "终可见",
+      "translation": null
+    },
+    {
+      "time": 129.0,
+      "time_str": "02:09.000",
+      "text": "谁人没试过犹豫",
+      "translation": null
+    },
+    {
+      "time": 132.629,
+      "time_str": "02:12.629",
+      "text": "达到理想不太易",
+      "translation": null
+    },
+    {
+      "time": 136.259,
+      "time_str": "02:16.259",
+      "text": "即使有信心",
+      "translation": null
+    },
+    {
+      "time": 138.449,
+      "time_str": "02:18.449",
+      "text": "斗志却抑止",
+      "translation": null
+    },
+    {
+      "time": 143.34,
+      "time_str": "02:23.340",
+      "text": "谁人定我去或留",
+      "translation": null
+    },
+    {
+      "time": 145.8,
+      "time_str": "02:25.800",
+      "text": "定我心中的宇宙",
+      "translation": null
+    },
+    {
+      "time": 150.599,
+      "time_str": "02:30.599",
+      "text": "只想靠两手",
+      "translation": null
+    },
+    {
+      "time": 152.729,
+      "time_str": "02:32.729",
+      "text": "向理想挥手",
+      "translation": null
+    },
+    {
+      "time": 157.74,
+      "time_str": "02:37.740",
+      "text": "问句天几高",
+      "translation": null
+    },
+    {
+      "time": 159.449,
+      "time_str": "02:39.449",
+      "text": "心中志比天更高",
+      "translation": null
+    },
+    {
+      "time": 164.97,
+      "time_str": "02:44.970",
+      "text": "自信打不死的心态活到老",
+      "translation": null
+    },
+    {
+      "time": 172.759,
+      "time_str": "02:52.759",
+      "text": "Woo ho",
+      "translation": null
+    },
+    {
+      "time": 175.71,
+      "time_str": "02:55.710",
+      "text": "我有我心底故事",
+      "translation": null
+    },
+    {
+      "time": 179.28,
+      "time_str": "02:59.280",
+      "text": "亲手写上每段",
+      "translation": null
+    },
+    {
+      "time": 181.5,
+      "time_str": "03:01.500",
+      "text": "得失乐与悲与梦儿",
+      "translation": null
+    },
+    {
+      "time": 186.919,
+      "time_str": "03:06.919",
+      "text": "Woo ho",
+      "translation": null
+    },
+    {
+      "time": 189.96,
+      "time_str": "03:09.960",
+      "text": "纵有创伤不退避",
+      "translation": null
+    },
+    {
+      "time": 193.62,
+      "time_str": "03:13.620",
+      "text": "梦想有日达成",
+      "translation": null
+    },
+    {
+      "time": 195.78,
+      "time_str": "03:15.780",
+      "text": "找到心底梦想的世界",
+      "translation": null
+    },
+    {
+      "time": 200.37,
+      "time_str": "03:20.370",
+      "text": "终可见",
+      "translation": null
+    },
+    {
+      "time": 205.449,
+      "time_str": "03:25.449",
+      "text": "Woo ho",
+      "translation": null
+    },
+    {
+      "time": 208.02,
+      "time_str": "03:28.020",
+      "text": "亲手写上每段",
+      "translation": null
+    },
+    {
+      "time": 210.21,
+      "time_str": "03:30.210",
+      "text": "得失乐与悲与梦儿",
+      "translation": null
+    },
+    {
+      "time": 219.199,
+      "time_str": "03:39.199",
+      "text": "Woo ho",
+      "translation": null
+    },
+    {
+      "time": 222.33,
+      "time_str": "03:42.330",
+      "text": "梦想有日达成",
+      "translation": null
+    },
+    {
+      "time": 224.49,
+      "time_str": "03:44.490",
+      "text": "找到心底梦想的世界",
+      "translation": null
+    },
+    {
+      "time": 229.05,
+      "time_str": "03:49.050",
+      "text": "终可见嘿",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不再犹豫 - Beyond.lrc"
+}

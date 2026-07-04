@@ -1,0 +1,178 @@
+{
+  "title": "知音",
+  "title_raw": "知音 (古筝)",
+  "version": "古筝",
+  "artist": "群星",
+  "group_key": "知音|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 39.44,
+      "time_str": "00:39.44",
+      "text": "山青青",
+      "translation": null
+    },
+    {
+      "time": 45.86,
+      "time_str": "00:45.86",
+      "text": "水碧碧",
+      "translation": null
+    },
+    {
+      "time": 52.3,
+      "time_str": "00:52.30",
+      "text": "高山流水韵依依",
+      "translation": null
+    },
+    {
+      "time": 67.94,
+      "time_str": "01:07.940",
+      "text": "一声声如泣如诉",
+      "translation": null
+    },
+    {
+      "time": 80.7,
+      "time_str": "01:20.700",
+      "text": "如悲啼",
+      "translation": null
+    },
+    {
+      "time": 87.22,
+      "time_str": "01:27.220",
+      "text": "叹的是",
+      "translation": null
+    },
+    {
+      "time": 93.48,
+      "time_str": "01:33.480",
+      "text": "人生难得一知己",
+      "translation": null
+    },
+    {
+      "time": 99.69,
+      "time_str": "01:39.690",
+      "text": "千古知音最难觅",
+      "translation": null
+    },
+    {
+      "time": 162.59,
+      "time_str": "02:42.590",
+      "text": "山青青",
+      "translation": null
+    },
+    {
+      "time": 169.11,
+      "time_str": "02:49.110",
+      "text": "水碧碧",
+      "translation": null
+    },
+    {
+      "time": 175.47,
+      "time_str": "02:55.470",
+      "text": "高山流水韵依依",
+      "translation": null
+    },
+    {
+      "time": 191.41,
+      "time_str": "03:11.41",
+      "text": "一声声如颂如歌",
+      "translation": null
+    },
+    {
+      "time": 203.7,
+      "time_str": "03:23.70",
+      "text": "如赞礼",
+      "translation": null
+    },
+    {
+      "time": 210.16,
+      "time_str": "03:30.16",
+      "text": "赞的是",
+      "translation": null
+    },
+    {
+      "time": 216.45,
+      "time_str": "03:36.45",
+      "text": "将军拔剑南天起",
+      "translation": null
+    },
+    {
+      "time": 222.99,
+      "time_str": "03:42.99",
+      "text": "我愿做长风",
+      "translation": null
+    },
+    {
+      "time": 229.54,
+      "time_str": "03:49.54",
+      "text": "绕",
+      "translation": null
+    },
+    {
+      "time": 232.28,
+      "time_str": "03:52.28",
+      "text": "战",
+      "translation": null
+    },
+    {
+      "time": 235.29,
+      "time_str": "03:55.29",
+      "text": "旗",
+      "translation": null
+    },
+    {
+      "time": 245.27,
+      "time_str": "04:05.270",
+      "text": "一声声如颂如歌",
+      "translation": null
+    },
+    {
+      "time": 257.59,
+      "time_str": "04:17.590",
+      "text": "如赞礼",
+      "translation": null
+    },
+    {
+      "time": 263.92,
+      "time_str": "04:23.920",
+      "text": "赞的是",
+      "translation": null
+    },
+    {
+      "time": 270.2,
+      "time_str": "04:30.200",
+      "text": "将军拔剑南天起",
+      "translation": null
+    },
+    {
+      "time": 276.74,
+      "time_str": "04:36.740",
+      "text": "我愿做长风",
+      "translation": null
+    },
+    {
+      "time": 282.71,
+      "time_str": "04:42.710",
+      "text": "绕",
+      "translation": null
+    },
+    {
+      "time": 285.68,
+      "time_str": "04:45.680",
+      "text": "战",
+      "translation": null
+    },
+    {
+      "time": 288.91,
+      "time_str": "04:48.910",
+      "text": "旗",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "知音 (古筝) - 群星.lrc"
+}

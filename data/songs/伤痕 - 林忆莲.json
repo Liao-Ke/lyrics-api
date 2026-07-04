@@ -1,0 +1,286 @@
+{
+  "title": "伤痕",
+  "title_raw": "伤痕",
+  "version": null,
+  "artist": "林忆莲",
+  "group_key": "伤痕|林忆莲",
+  "writers": {
+    "lyricist": "李宗盛",
+    "composer": "李宗盛",
+    "arranger": "Mac Chew"
+  },
+  "lyrics": [
+    {
+      "time": 22.97,
+      "time_str": "00:22.970",
+      "text": "夜已深 还有什么人",
+      "translation": null
+    },
+    {
+      "time": 28.15,
+      "time_str": "00:28.150",
+      "text": "让你这样醒着数伤痕",
+      "translation": null
+    },
+    {
+      "time": 32.839,
+      "time_str": "00:32.839",
+      "text": "为何临睡前会想要留一盏灯",
+      "translation": null
+    },
+    {
+      "time": 37.869,
+      "time_str": "00:37.869",
+      "text": "你若不肯说 我就不问",
+      "translation": null
+    },
+    {
+      "time": 42.859,
+      "time_str": "00:42.859",
+      "text": "只是你现在不得不承认",
+      "translation": null
+    },
+    {
+      "time": 48.339,
+      "time_str": "00:48.339",
+      "text": "爱情有时候是一种沉沦",
+      "translation": null
+    },
+    {
+      "time": 53.019,
+      "time_str": "00:53.019",
+      "text": "让人失望的虽然是恋情本身",
+      "translation": null
+    },
+    {
+      "time": 57.969,
+      "time_str": "00:57.969",
+      "text": "但是不要只是因为你是女人",
+      "translation": null
+    },
+    {
+      "time": 63.459,
+      "time_str": "01:03.459",
+      "text": "若爱得深会不能平衡",
+      "translation": null
+    },
+    {
+      "time": 68.389,
+      "time_str": "01:08.389",
+      "text": "为情困 磨折了灵魂",
+      "translation": null
+    },
+    {
+      "time": 74.339,
+      "time_str": "01:14.339",
+      "text": "该爱就爱 该恨的就恨",
+      "translation": null
+    },
+    {
+      "time": 79.289,
+      "time_str": "01:19.289",
+      "text": "要为自己保留几分",
+      "translation": null
+    },
+    {
+      "time": 83.259,
+      "time_str": "01:23.259",
+      "text": "女人独有的天真和温柔的天分",
+      "translation": null
+    },
+    {
+      "time": 90.139,
+      "time_str": "01:30.139",
+      "text": "要留给真爱你的人",
+      "translation": null
+    },
+    {
+      "time": 94.129,
+      "time_str": "01:34.129",
+      "text": "不管未来多苦多难 有他陪你完成",
+      "translation": null
+    },
+    {
+      "time": 103.329,
+      "time_str": "01:43.329",
+      "text": "虽然爱是种责任 给要给得完整",
+      "translation": null
+    },
+    {
+      "time": 109.969,
+      "time_str": "01:49.969",
+      "text": "有时爱美在无法永恆",
+      "translation": null
+    },
+    {
+      "time": 114.229,
+      "time_str": "01:54.229",
+      "text": "爱有多销魂 就有多伤人",
+      "translation": null
+    },
+    {
+      "time": 119.579,
+      "time_str": "01:59.579",
+      "text": "你若勇敢爱了 就要勇敢分",
+      "translation": null
+    },
+    {
+      "time": 125.95,
+      "time_str": "02:05.950",
+      "text": "夜已深 还有什么人",
+      "translation": null
+    },
+    {
+      "time": 131.37,
+      "time_str": "02:11.370",
+      "text": "让你这样醒着数伤痕",
+      "translation": null
+    },
+    {
+      "time": 136.07,
+      "time_str": "02:16.070",
+      "text": "为何临睡前会想要留一盏灯",
+      "translation": null
+    },
+    {
+      "time": 141.02,
+      "time_str": "02:21.020",
+      "text": "你若不肯说 我就不问",
+      "translation": null
+    },
+    {
+      "time": 190.95,
+      "time_str": "03:10.950",
+      "text": "若爱得深会不能平衡",
+      "translation": null
+    },
+    {
+      "time": 196.82,
+      "time_str": "03:16.820",
+      "text": "为情困 磨折了灵魂",
+      "translation": null
+    },
+    {
+      "time": 203.4,
+      "time_str": "03:23.400",
+      "text": "该爱就爱 该恨的就恨",
+      "translation": null
+    },
+    {
+      "time": 207.86,
+      "time_str": "03:27.860",
+      "text": "要为自己保留几分",
+      "translation": null
+    },
+    {
+      "time": 214.14,
+      "time_str": "03:34.140",
+      "text": "女人独有的天真和温柔的天分",
+      "translation": null
+    },
+    {
+      "time": 221.08,
+      "time_str": "03:41.080",
+      "text": "要留给真爱你的人",
+      "translation": null
+    },
+    {
+      "time": 224.97,
+      "time_str": "03:44.970",
+      "text": "不管未来多苦多难 有他陪你完成",
+      "translation": null
+    },
+    {
+      "time": 234.27,
+      "time_str": "03:54.270",
+      "text": "虽然爱是种责任 给要给得完整",
+      "translation": null
+    },
+    {
+      "time": 241.0,
+      "time_str": "04:01.000",
+      "text": "有时爱美在无法永恆",
+      "translation": null
+    },
+    {
+      "time": 245.2,
+      "time_str": "04:05.200",
+      "text": "爱有多销魂 就有多伤人",
+      "translation": null
+    },
+    {
+      "time": 250.8,
+      "time_str": "04:10.800",
+      "text": "你若勇敢爱了 就要勇敢分",
+      "translation": null
+    },
+    {
+      "time": 254.59,
+      "time_str": "04:14.590",
+      "text": "女人独有的天真和温柔的天分",
+      "translation": null
+    },
+    {
+      "time": 261.45,
+      "time_str": "04:21.450",
+      "text": "要留给真爱你的人",
+      "translation": null
+    },
+    {
+      "time": 265.29,
+      "time_str": "04:25.290",
+      "text": "不管未来多苦多难 有他陪你完成",
+      "translation": null
+    },
+    {
+      "time": 274.52,
+      "time_str": "04:34.520",
+      "text": "虽然爱是种责任 给要给得完整",
+      "translation": null
+    },
+    {
+      "time": 281.24,
+      "time_str": "04:41.240",
+      "text": "有时爱美在无法永恆",
+      "translation": null
+    },
+    {
+      "time": 285.54,
+      "time_str": "04:45.540",
+      "text": "爱有多销魂 就有多伤人",
+      "translation": null
+    },
+    {
+      "time": 290.89,
+      "time_str": "04:50.890",
+      "text": "你若勇敢爱了 就要勇敢分",
+      "translation": null
+    },
+    {
+      "time": 297.26,
+      "time_str": "04:57.260",
+      "text": "夜已深 还有什么人",
+      "translation": null
+    },
+    {
+      "time": 303.0,
+      "time_str": "05:03.000",
+      "text": "让你这样醒着数伤痕",
+      "translation": null
+    },
+    {
+      "time": 307.36,
+      "time_str": "05:07.360",
+      "text": "为何临睡前会想要留一盏灯",
+      "translation": null
+    },
+    {
+      "time": 312.34,
+      "time_str": "05:12.340",
+      "text": "你若不肯说 我就不问",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "伤痕 - 林忆莲.lrc"
+}

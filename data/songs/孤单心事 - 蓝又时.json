@@ -1,0 +1,316 @@
+{
+  "title": "孤单心事",
+  "title_raw": "孤单心事",
+  "version": null,
+  "artist": "蓝又时",
+  "group_key": "孤单心事|蓝又时",
+  "writers": {
+    "lyricist": "徐世珍",
+    "composer": "杨子朴",
+    "arranger": "洪信杰"
+  },
+  "lyrics": [
+    {
+      "time": 16.18,
+      "time_str": "00:16.180",
+      "text": "雨下在我窗前",
+      "translation": null
+    },
+    {
+      "time": 19.3,
+      "time_str": "00:19.300",
+      "text": "玻璃也在流眼泪",
+      "translation": null
+    },
+    {
+      "time": 23.19,
+      "time_str": "00:23.190",
+      "text": "街上的人都看起来",
+      "translation": null
+    },
+    {
+      "time": 27.36,
+      "time_str": "00:27.360",
+      "text": "比我幸福一点",
+      "translation": null
+    },
+    {
+      "time": 31.37,
+      "time_str": "00:31.370",
+      "text": "用寂寞来测验",
+      "translation": null
+    },
+    {
+      "time": 34.48,
+      "time_str": "00:34.480",
+      "text": "还是最想要你陪",
+      "translation": null
+    },
+    {
+      "time": 38.25,
+      "time_str": "00:38.250",
+      "text": "曾一起走过的夏天",
+      "translation": null
+    },
+    {
+      "time": 42.47,
+      "time_str": "00:42.470",
+      "text": "我常常会梦见",
+      "translation": null
+    },
+    {
+      "time": 46.32,
+      "time_str": "00:46.320",
+      "text": "我猜不到",
+      "translation": null
+    },
+    {
+      "time": 49.74,
+      "time_str": "00:49.740",
+      "text": "你真正的",
+      "translation": null
+    },
+    {
+      "time": 51.8,
+      "time_str": "00:51.800",
+      "text": "感觉",
+      "translation": null
+    },
+    {
+      "time": 55.14,
+      "time_str": "00:55.140",
+      "text": "思念写成脸上的黑眼圈",
+      "translation": null
+    },
+    {
+      "time": 63.228,
+      "time_str": "01:03.228",
+      "text": "有的时候我宁愿",
+      "translation": null
+    },
+    {
+      "time": 66.4,
+      "time_str": "01:06.400",
+      "text": "你对我坏一点",
+      "translation": null
+    },
+    {
+      "time": 70.349,
+      "time_str": "01:10.349",
+      "text": "无法停止幻想我们的永远",
+      "translation": null
+    },
+    {
+      "time": 76.76,
+      "time_str": "01:16.760",
+      "text": "爱你是孤单的心事",
+      "translation": null
+    },
+    {
+      "time": 80.31,
+      "time_str": "01:20.310",
+      "text": "不懂你微笑的意思",
+      "translation": null
+    },
+    {
+      "time": 84.599,
+      "time_str": "01:24.599",
+      "text": "只能像一朵向日葵",
+      "translation": null
+    },
+    {
+      "time": 87.81,
+      "time_str": "01:27.810",
+      "text": "在夜里默默地坚持",
+      "translation": null
+    },
+    {
+      "time": 91.938,
+      "time_str": "01:31.938",
+      "text": "爱你是孤单的心事",
+      "translation": null
+    },
+    {
+      "time": 95.45,
+      "time_str": "01:35.450",
+      "text": "多希望你对我诚实",
+      "translation": null
+    },
+    {
+      "time": 99.65,
+      "time_str": "01:39.650",
+      "text": "一直爱着你",
+      "translation": null
+    },
+    {
+      "time": 101.938,
+      "time_str": "01:41.938",
+      "text": "用我自己的方式",
+      "translation": null
+    },
+    {
+      "time": 120.757,
+      "time_str": "02:00.757",
+      "text": "我在你的心里",
+      "translation": null
+    },
+    {
+      "time": 124.397,
+      "time_str": "02:04.397",
+      "text": "有没有一点特别",
+      "translation": null
+    },
+    {
+      "time": 128.268,
+      "time_str": "02:08.268",
+      "text": "就怕你终究没发现",
+      "translation": null
+    },
+    {
+      "time": 132.388,
+      "time_str": "02:12.388",
+      "text": "我还在你身边",
+      "translation": null
+    },
+    {
+      "time": 137.008,
+      "time_str": "02:17.008",
+      "text": "我猜不到",
+      "translation": null
+    },
+    {
+      "time": 138.977,
+      "time_str": "02:18.977",
+      "text": "你真正的",
+      "translation": null
+    },
+    {
+      "time": 140.855,
+      "time_str": "02:20.855",
+      "text": "感觉",
+      "translation": null
+    },
+    {
+      "time": 144.836,
+      "time_str": "02:24.836",
+      "text": "思念写成脸上的黑眼圈",
+      "translation": null
+    },
+    {
+      "time": 152.257,
+      "time_str": "02:32.257",
+      "text": "有的时候我宁愿",
+      "translation": null
+    },
+    {
+      "time": 156.007,
+      "time_str": "02:36.007",
+      "text": "你对我坏一点",
+      "translation": null
+    },
+    {
+      "time": 160.007,
+      "time_str": "02:40.007",
+      "text": "无法停止幻想我们的永远",
+      "translation": null
+    },
+    {
+      "time": 166.586,
+      "time_str": "02:46.586",
+      "text": "爱你是孤单的心事",
+      "translation": null
+    },
+    {
+      "time": 170.417,
+      "time_str": "02:50.417",
+      "text": "不懂你微笑的意思",
+      "translation": null
+    },
+    {
+      "time": 174.548,
+      "time_str": "02:54.548",
+      "text": "只能像一朵向日葵",
+      "translation": null
+    },
+    {
+      "time": 177.959,
+      "time_str": "02:57.959",
+      "text": "在夜里默默地坚持",
+      "translation": null
+    },
+    {
+      "time": 181.727,
+      "time_str": "03:01.727",
+      "text": "爱你是孤单的心事",
+      "translation": null
+    },
+    {
+      "time": 185.366,
+      "time_str": "03:05.366",
+      "text": "多希望你对我诚实",
+      "translation": null
+    },
+    {
+      "time": 190.016,
+      "time_str": "03:10.016",
+      "text": "一直爱着你",
+      "translation": null
+    },
+    {
+      "time": 192.116,
+      "time_str": "03:12.116",
+      "text": "用我自己的方式",
+      "translation": null
+    },
+    {
+      "time": 215.024,
+      "time_str": "03:35.024",
+      "text": "爱你是孤单的心事",
+      "translation": null
+    },
+    {
+      "time": 218.614,
+      "time_str": "03:38.614",
+      "text": "不懂你微笑的意思",
+      "translation": null
+    },
+    {
+      "time": 222.894,
+      "time_str": "03:42.894",
+      "text": "只能像一朵向日葵",
+      "translation": null
+    },
+    {
+      "time": 226.066,
+      "time_str": "03:46.066",
+      "text": "在夜里默默地坚持",
+      "translation": null
+    },
+    {
+      "time": 230.144,
+      "time_str": "03:50.144",
+      "text": "爱你是孤单的心事",
+      "translation": null
+    },
+    {
+      "time": 233.706,
+      "time_str": "03:53.706",
+      "text": "多希望你对我诚实",
+      "translation": null
+    },
+    {
+      "time": 238.454,
+      "time_str": "03:58.454",
+      "text": "一直爱着你",
+      "translation": null
+    },
+    {
+      "time": 240.304,
+      "time_str": "04:00.304",
+      "text": "用我自己的方式",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "孤单心事 - 蓝又时.lrc"
+}

@@ -1,0 +1,358 @@
+{
+  "title": "没有什么不同",
+  "title_raw": "没有什么不同",
+  "version": null,
+  "artist": "曲婉婷",
+  "group_key": "没有什么不同|曲婉婷",
+  "writers": {
+    "lyricist": "曲婉婷",
+    "composer": "曲婉婷",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 21.23,
+      "time_str": "00:21.230",
+      "text": "又是你的面孔 带给我是笑容",
+      "translation": null
+    },
+    {
+      "time": 25.71,
+      "time_str": "00:25.710",
+      "text": "在我哭泣的时候",
+      "translation": null
+    },
+    {
+      "time": 30.25,
+      "time_str": "00:30.250",
+      "text": "又是你的问候 带给我是感动",
+      "translation": null
+    },
+    {
+      "time": 34.95,
+      "time_str": "00:34.950",
+      "text": "在我孤寂的时候",
+      "translation": null
+    },
+    {
+      "time": 38.92,
+      "time_str": "00:38.920",
+      "text": "虽然没有天生一样的",
+      "translation": null
+    },
+    {
+      "time": 43.43,
+      "time_str": "00:43.430",
+      "text": "但在地球上我们是一样的",
+      "translation": null
+    },
+    {
+      "time": 48.52,
+      "time_str": "00:48.520",
+      "text": "尽管痛的苦的没说的",
+      "translation": null
+    },
+    {
+      "time": 52.54,
+      "time_str": "00:52.540",
+      "text": "但哪有一路走来都是顺风的",
+      "translation": null
+    },
+    {
+      "time": 56.93,
+      "time_str": "00:56.930",
+      "text": "因为我们没有什么不同",
+      "translation": null
+    },
+    {
+      "time": 61.32,
+      "time_str": "01:01.320",
+      "text": "天黑时我们仰望同一片星空",
+      "translation": null
+    },
+    {
+      "time": 66.55,
+      "time_str": "01:06.550",
+      "text": "没有追求和付出哪来的成功",
+      "translation": null
+    },
+    {
+      "time": 70.84,
+      "time_str": "01:10.840",
+      "text": "谁说我们一定要走别人的路",
+      "translation": null
+    },
+    {
+      "time": 75.19,
+      "time_str": "01:15.190",
+      "text": "谁说辉煌背后没有痛苦",
+      "translation": null
+    },
+    {
+      "time": 80.18,
+      "time_str": "01:20.180",
+      "text": "只要为了梦想不服输",
+      "translation": null
+    },
+    {
+      "time": 83.8,
+      "time_str": "01:23.800",
+      "text": "再苦也不停止脚步",
+      "translation": null
+    },
+    {
+      "time": 85.92,
+      "time_str": "01:25.920",
+      "text": "又是你的面孔 带给我是笑容",
+      "translation": null
+    },
+    {
+      "time": 90.24,
+      "time_str": "01:30.240",
+      "text": "在我哭泣的时候",
+      "translation": null
+    },
+    {
+      "time": 94.86,
+      "time_str": "01:34.860",
+      "text": "又是你的问候 带给我是感动",
+      "translation": null
+    },
+    {
+      "time": 99.42,
+      "time_str": "01:39.420",
+      "text": "在我孤寂的时候",
+      "translation": null
+    },
+    {
+      "time": 103.84,
+      "time_str": "01:43.840",
+      "text": "虽然没有天生一样的",
+      "translation": null
+    },
+    {
+      "time": 108.17,
+      "time_str": "01:48.170",
+      "text": "但在地球上我们是一样的",
+      "translation": null
+    },
+    {
+      "time": 112.86,
+      "time_str": "01:52.860",
+      "text": "尽管痛的苦的没说的",
+      "translation": null
+    },
+    {
+      "time": 117.21,
+      "time_str": "01:57.210",
+      "text": "但哪有一路走来都是顺风的",
+      "translation": null
+    },
+    {
+      "time": 121.45,
+      "time_str": "02:01.450",
+      "text": "因为我们没有什么不同",
+      "translation": null
+    },
+    {
+      "time": 125.9,
+      "time_str": "02:05.900",
+      "text": "天黑时我们仰望同一片星空",
+      "translation": null
+    },
+    {
+      "time": 131.23,
+      "time_str": "02:11.230",
+      "text": "没有追求和付出哪来的成功",
+      "translation": null
+    },
+    {
+      "time": 135.36,
+      "time_str": "02:15.360",
+      "text": "谁说我们一定要走别人的路",
+      "translation": null
+    },
+    {
+      "time": 139.829,
+      "time_str": "02:19.829",
+      "text": "谁说辉煌背后没有痛苦",
+      "translation": null
+    },
+    {
+      "time": 144.96,
+      "time_str": "02:24.960",
+      "text": "只要为了梦想不服输",
+      "translation": null
+    },
+    {
+      "time": 147.579,
+      "time_str": "02:27.579",
+      "text": "再苦也不停止脚步",
+      "translation": null
+    },
+    {
+      "time": 151.73,
+      "time_str": "02:31.730",
+      "text": "...",
+      "translation": null
+    },
+    {
+      "time": 155.39,
+      "time_str": "02:35.390",
+      "text": "每一天 每一年 都可以是新的起跑线",
+      "translation": null
+    },
+    {
+      "time": 164.59,
+      "time_str": "02:44.590",
+      "text": "也可以是终点 看你怎么选",
+      "translation": null
+    },
+    {
+      "time": 172.94,
+      "time_str": "02:52.940",
+      "text": "望着无边无际遥远的地平线",
+      "translation": null
+    },
+    {
+      "time": 181.8,
+      "time_str": "03:01.800",
+      "text": "哪里会是你的极限",
+      "translation": null
+    },
+    {
+      "time": 189.69,
+      "time_str": "03:09.690",
+      "text": "我们没有什么不同",
+      "translation": null
+    },
+    {
+      "time": 192.79,
+      "time_str": "03:12.790",
+      "text": "天黑时我们仰望同一片星空",
+      "translation": null
+    },
+    {
+      "time": 198.1,
+      "time_str": "03:18.100",
+      "text": "没有追求和付出哪来的成功",
+      "translation": null
+    },
+    {
+      "time": 202.36,
+      "time_str": "03:22.360",
+      "text": "因为我们没有什么不同",
+      "translation": null
+    },
+    {
+      "time": 206.66,
+      "time_str": "03:26.660",
+      "text": "天黑时我们仰望同一片星空",
+      "translation": null
+    },
+    {
+      "time": 212.0,
+      "time_str": "03:32.000",
+      "text": "没有追求和付出哪来的成功",
+      "translation": null
+    },
+    {
+      "time": 216.15,
+      "time_str": "03:36.150",
+      "text": "谁说我们一定要走别人的路",
+      "translation": null
+    },
+    {
+      "time": 220.95,
+      "time_str": "03:40.950",
+      "text": "谁说辉煌背后没有痛苦",
+      "translation": null
+    },
+    {
+      "time": 226.2,
+      "time_str": "03:46.200",
+      "text": "只要为了梦想不服输",
+      "translation": null
+    },
+    {
+      "time": 228.42,
+      "time_str": "03:48.420",
+      "text": "再苦也不停止脚步",
+      "translation": null
+    },
+    {
+      "time": 231.32,
+      "time_str": "03:51.320",
+      "text": "我们没有什么不同",
+      "translation": null
+    },
+    {
+      "time": 234.38,
+      "time_str": "03:54.380",
+      "text": "天黑时我们仰望同一片星空",
+      "translation": null
+    },
+    {
+      "time": 239.51,
+      "time_str": "03:59.510",
+      "text": "没有追求和付出哪来的成功",
+      "translation": null
+    },
+    {
+      "time": 243.85,
+      "time_str": "04:03.850",
+      "text": "谁说我们一定要走别人的路",
+      "translation": null
+    },
+    {
+      "time": 248.42,
+      "time_str": "04:08.420",
+      "text": "谁说辉煌背后没有痛苦",
+      "translation": null
+    },
+    {
+      "time": 253.39,
+      "time_str": "04:13.390",
+      "text": "只要为了梦想不服输",
+      "translation": null
+    },
+    {
+      "time": 256.149,
+      "time_str": "04:16.149",
+      "text": "再苦也不停止脚步",
+      "translation": null
+    },
+    {
+      "time": 259.29,
+      "time_str": "04:19.290",
+      "text": "我们没有什么不同",
+      "translation": null
+    },
+    {
+      "time": 262.29,
+      "time_str": "04:22.290",
+      "text": "天黑时我们仰望同一片星空",
+      "translation": null
+    },
+    {
+      "time": 267.29,
+      "time_str": "04:27.290",
+      "text": "没有追求和付出哪来的成功",
+      "translation": null
+    },
+    {
+      "time": 271.52,
+      "time_str": "04:31.520",
+      "text": "谁说我们一定要走别人的路",
+      "translation": null
+    },
+    {
+      "time": 276.59,
+      "time_str": "04:36.590",
+      "text": "...",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "没有什么不同 - 曲婉婷.lrc"
+}

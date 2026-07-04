@@ -1,0 +1,286 @@
+{
+  "title": "唱得响亮",
+  "title_raw": "唱得响亮",
+  "version": null,
+  "artist": "李宇春",
+  "group_key": "唱得响亮|李宇春",
+  "writers": {
+    "lyricist": "胡小健/唐恬",
+    "composer": "罗俊霖",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 17.36,
+      "time_str": "00:17.360",
+      "text": "我的梦想",
+      "translation": null
+    },
+    {
+      "time": 19.91,
+      "time_str": "00:19.910",
+      "text": "闪耀着彩色的光",
+      "translation": null
+    },
+    {
+      "time": 23.31,
+      "time_str": "00:23.310",
+      "text": "张开翅膀",
+      "translation": null
+    },
+    {
+      "time": 26.79,
+      "time_str": "00:26.790",
+      "text": "飞到想去的地方",
+      "translation": null
+    },
+    {
+      "time": 30.21,
+      "time_str": "00:30.210",
+      "text": "我的梦想",
+      "translation": null
+    },
+    {
+      "time": 33.96,
+      "time_str": "00:33.960",
+      "text": "伴随笑容而坚强",
+      "translation": null
+    },
+    {
+      "time": 37.11,
+      "time_str": "00:37.110",
+      "text": "大声的歌唱",
+      "translation": null
+    },
+    {
+      "time": 40.42,
+      "time_str": "00:40.420",
+      "text": "飘过辽阔的海洋",
+      "translation": null
+    },
+    {
+      "time": 43.9,
+      "time_str": "00:43.900",
+      "text": "这世界充满了想象",
+      "translation": null
+    },
+    {
+      "time": 47.29,
+      "time_str": "00:47.290",
+      "text": "乘着音符一起飞翔",
+      "translation": null
+    },
+    {
+      "time": 50.26,
+      "time_str": "00:50.260",
+      "text": "经过所有快乐悲伤",
+      "translation": null
+    },
+    {
+      "time": 53.83,
+      "time_str": "00:53.830",
+      "text": "谢谢你陪在我身旁",
+      "translation": null
+    },
+    {
+      "time": 58.48,
+      "time_str": "00:58.480",
+      "text": "快乐是我的能量",
+      "translation": null
+    },
+    {
+      "time": 61.13,
+      "time_str": "01:01.130",
+      "text": "点亮自己的光芒",
+      "translation": null
+    },
+    {
+      "time": 64.43,
+      "time_str": "01:04.430",
+      "text": "想唱就唱",
+      "translation": null
+    },
+    {
+      "time": 66.44,
+      "time_str": "01:06.440",
+      "text": "唱得响亮",
+      "translation": null
+    },
+    {
+      "time": 67.91,
+      "time_str": "01:07.910",
+      "text": "不怕风雨的阻挡",
+      "translation": null
+    },
+    {
+      "time": 71.71,
+      "time_str": "01:11.710",
+      "text": "快乐是我的能量",
+      "translation": null
+    },
+    {
+      "time": 74.65,
+      "time_str": "01:14.650",
+      "text": "点亮自己的光芒",
+      "translation": null
+    },
+    {
+      "time": 77.74,
+      "time_str": "01:17.740",
+      "text": "每一个期待的目光",
+      "translation": null
+    },
+    {
+      "time": 81.46,
+      "time_str": "01:21.460",
+      "text": "都在见证我成长",
+      "translation": null
+    },
+    {
+      "time": 84.44,
+      "time_str": "01:24.440",
+      "text": "唱得响亮",
+      "translation": null
+    },
+    {
+      "time": 116.65,
+      "time_str": "01:56.650",
+      "text": "这世界充满了想象",
+      "translation": null
+    },
+    {
+      "time": 119.5,
+      "time_str": "01:59.500",
+      "text": "乘着音符一起飞翔",
+      "translation": null
+    },
+    {
+      "time": 122.2,
+      "time_str": "02:02.200",
+      "text": "经过所有快乐悲伤",
+      "translation": null
+    },
+    {
+      "time": 125.65,
+      "time_str": "02:05.650",
+      "text": "谢谢你陪在我身旁",
+      "translation": null
+    },
+    {
+      "time": 130.21,
+      "time_str": "02:10.21",
+      "text": "快乐是我的能量",
+      "translation": null
+    },
+    {
+      "time": 132.83,
+      "time_str": "02:12.83",
+      "text": "点亮自己的光芒",
+      "translation": null
+    },
+    {
+      "time": 136.64,
+      "time_str": "02:16.64",
+      "text": "想唱就唱",
+      "translation": null
+    },
+    {
+      "time": 138.44,
+      "time_str": "02:18.44",
+      "text": "唱得响亮",
+      "translation": null
+    },
+    {
+      "time": 139.97,
+      "time_str": "02:19.97",
+      "text": "不怕风雨的阻挡",
+      "translation": null
+    },
+    {
+      "time": 143.6,
+      "time_str": "02:23.60",
+      "text": "快乐是我的能量",
+      "translation": null
+    },
+    {
+      "time": 146.63,
+      "time_str": "02:26.63",
+      "text": "点亮自己的光芒",
+      "translation": null
+    },
+    {
+      "time": 149.6,
+      "time_str": "02:29.60",
+      "text": "每一个期待的目光",
+      "translation": null
+    },
+    {
+      "time": 153.81,
+      "time_str": "02:33.81",
+      "text": "都在见证我成长",
+      "translation": null
+    },
+    {
+      "time": 157.48,
+      "time_str": "02:37.480",
+      "text": "快乐是我的能量",
+      "translation": null
+    },
+    {
+      "time": 160.48,
+      "time_str": "02:40.480",
+      "text": "点亮自己的光芒",
+      "translation": null
+    },
+    {
+      "time": 164.36,
+      "time_str": "02:44.360",
+      "text": "想唱就唱",
+      "translation": null
+    },
+    {
+      "time": 166.04,
+      "time_str": "02:46.040",
+      "text": "唱得响亮",
+      "translation": null
+    },
+    {
+      "time": 167.6,
+      "time_str": "02:47.600",
+      "text": "不怕风雨的阻挡",
+      "translation": null
+    },
+    {
+      "time": 170.96,
+      "time_str": "02:50.960",
+      "text": "快乐是我的能量",
+      "translation": null
+    },
+    {
+      "time": 174.02,
+      "time_str": "02:54.020",
+      "text": "点亮自己的光芒",
+      "translation": null
+    },
+    {
+      "time": 176.99,
+      "time_str": "02:56.990",
+      "text": "每一个期待的目光",
+      "translation": null
+    },
+    {
+      "time": 180.87,
+      "time_str": "03:00.870",
+      "text": "都在见证我成长",
+      "translation": null
+    },
+    {
+      "time": 184.29,
+      "time_str": "03:04.290",
+      "text": "我唱得响亮",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "唱得响亮 - 李宇春.lrc"
+}

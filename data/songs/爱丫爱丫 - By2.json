@@ -1,0 +1,472 @@
+{
+  "title": "爱丫爱丫",
+  "title_raw": "爱丫爱丫",
+  "version": null,
+  "artist": "By2",
+  "group_key": "爱丫爱丫|by2",
+  "writers": {
+    "lyricist": "黄淑惠/林怡凤",
+    "composer": "李志源",
+    "arranger": "Kenn C"
+  },
+  "lyrics": [
+    {
+      "time": 25.62,
+      "time_str": "00:25.620",
+      "text": "把爱留在身边",
+      "translation": null
+    },
+    {
+      "time": 28.68,
+      "time_str": "00:28.680",
+      "text": "窗外有个蓝蓝的天",
+      "translation": null
+    },
+    {
+      "time": 32.7,
+      "time_str": "00:32.700",
+      "text": "落叶那一瞬间",
+      "translation": null
+    },
+    {
+      "time": 34.71,
+      "time_str": "00:34.710",
+      "text": "记得",
+      "translation": null
+    },
+    {
+      "time": 35.98,
+      "time_str": "00:35.980",
+      "text": "多穿一件",
+      "translation": null
+    },
+    {
+      "time": 38.6,
+      "time_str": "00:38.600",
+      "text": "一天过了一天",
+      "translation": null
+    },
+    {
+      "time": 41.22,
+      "time_str": "00:41.220",
+      "text": "我的日记",
+      "translation": null
+    },
+    {
+      "time": 42.47,
+      "time_str": "00:42.470",
+      "text": "却病恹恹",
+      "translation": null
+    },
+    {
+      "time": 44.9,
+      "time_str": "00:44.900",
+      "text": "我们隔得",
+      "translation": null
+    },
+    {
+      "time": 46.46,
+      "time_str": "00:46.460",
+      "text": "太远太远",
+      "translation": null
+    },
+    {
+      "time": 50.46,
+      "time_str": "00:50.460",
+      "text": "多喜欢你",
+      "translation": null
+    },
+    {
+      "time": 51.58,
+      "time_str": "00:51.580",
+      "text": "从来不会说",
+      "translation": null
+    },
+    {
+      "time": 53.45,
+      "time_str": "00:53.450",
+      "text": "多在乎你",
+      "translation": null
+    },
+    {
+      "time": 54.64,
+      "time_str": "00:54.640",
+      "text": "到底懂不懂",
+      "translation": null
+    },
+    {
+      "time": 56.63,
+      "time_str": "00:56.630",
+      "text": "你有没有对我",
+      "translation": null
+    },
+    {
+      "time": 58.57,
+      "time_str": "00:58.570",
+      "text": "一点点心动",
+      "translation": null
+    },
+    {
+      "time": 61.75,
+      "time_str": "01:01.750",
+      "text": "Oh～",
+      "translation": null
+    },
+    {
+      "time": 62.56,
+      "time_str": "01:02.560",
+      "text": "爱我的话",
+      "translation": null
+    },
+    {
+      "time": 63.87,
+      "time_str": "01:03.870",
+      "text": "给我回答",
+      "translation": null
+    },
+    {
+      "time": 65.72,
+      "time_str": "01:05.720",
+      "text": "我的爱丫",
+      "translation": null
+    },
+    {
+      "time": 66.96,
+      "time_str": "01:06.960",
+      "text": "爱丫",
+      "translation": null
+    },
+    {
+      "time": 67.7,
+      "time_str": "01:07.700",
+      "text": "没时差",
+      "translation": null
+    },
+    {
+      "time": 68.9,
+      "time_str": "01:08.900",
+      "text": "等待",
+      "translation": null
+    },
+    {
+      "time": 69.52,
+      "time_str": "01:09.520",
+      "text": "是我为你付出的代价",
+      "translation": null
+    },
+    {
+      "time": 74.08,
+      "time_str": "01:14.080",
+      "text": "Oh～",
+      "translation": null
+    },
+    {
+      "time": 75.07,
+      "time_str": "01:15.070",
+      "text": "爱我的话",
+      "translation": null
+    },
+    {
+      "time": 76.7,
+      "time_str": "01:16.700",
+      "text": "要回答",
+      "translation": null
+    },
+    {
+      "time": 78.26,
+      "time_str": "01:18.260",
+      "text": "我只等你等你一句话",
+      "translation": null
+    },
+    {
+      "time": 81.5,
+      "time_str": "01:21.500",
+      "text": "走太远",
+      "translation": null
+    },
+    {
+      "time": 82.94,
+      "time_str": "01:22.940",
+      "text": "你",
+      "translation": null
+    },
+    {
+      "time": 83.12,
+      "time_str": "01:23.120",
+      "text": "走太远",
+      "translation": null
+    },
+    {
+      "time": 85.0,
+      "time_str": "01:25.000",
+      "text": "你的回答",
+      "translation": null
+    },
+    {
+      "time": 88.18,
+      "time_str": "01:28.180",
+      "text": "听不见",
+      "translation": null
+    },
+    {
+      "time": 95.68,
+      "time_str": "01:35.680",
+      "text": "一天过了一天",
+      "translation": null
+    },
+    {
+      "time": 98.17,
+      "time_str": "01:38.170",
+      "text": "我的日记",
+      "translation": null
+    },
+    {
+      "time": 99.3,
+      "time_str": "01:39.300",
+      "text": "却病恹恹",
+      "translation": null
+    },
+    {
+      "time": 101.48,
+      "time_str": "01:41.480",
+      "text": "我们隔得",
+      "translation": null
+    },
+    {
+      "time": 103.23,
+      "time_str": "01:43.230",
+      "text": "太远太远",
+      "translation": null
+    },
+    {
+      "time": 107.8,
+      "time_str": "01:47.800",
+      "text": "多喜欢你",
+      "translation": null
+    },
+    {
+      "time": 108.529,
+      "time_str": "01:48.529",
+      "text": "从来不会说",
+      "translation": null
+    },
+    {
+      "time": 110.279,
+      "time_str": "01:50.279",
+      "text": "多在乎你",
+      "translation": null
+    },
+    {
+      "time": 111.46,
+      "time_str": "01:51.460",
+      "text": "到底懂不懂",
+      "translation": null
+    },
+    {
+      "time": 113.71,
+      "time_str": "01:53.710",
+      "text": "你有没有对我一点点心动",
+      "translation": null
+    },
+    {
+      "time": 118.27,
+      "time_str": "01:58.270",
+      "text": "Oh～",
+      "translation": null
+    },
+    {
+      "time": 119.58,
+      "time_str": "01:59.580",
+      "text": "爱我的话",
+      "translation": null
+    },
+    {
+      "time": 120.82,
+      "time_str": "02:00.820",
+      "text": "给我回答",
+      "translation": null
+    },
+    {
+      "time": 122.53,
+      "time_str": "02:02.530",
+      "text": "我的爱丫",
+      "translation": null
+    },
+    {
+      "time": 123.78,
+      "time_str": "02:03.780",
+      "text": "爱丫",
+      "translation": null
+    },
+    {
+      "time": 124.15,
+      "time_str": "02:04.150",
+      "text": "没时差",
+      "translation": null
+    },
+    {
+      "time": 125.71,
+      "time_str": "02:05.710",
+      "text": "等待",
+      "translation": null
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "是我为你付出的代价",
+      "translation": null
+    },
+    {
+      "time": 130.83,
+      "time_str": "02:10.830",
+      "text": "Oh～",
+      "translation": null
+    },
+    {
+      "time": 131.95,
+      "time_str": "02:11.950",
+      "text": "爱我的话",
+      "translation": null
+    },
+    {
+      "time": 133.51,
+      "time_str": "02:13.510",
+      "text": "要回答",
+      "translation": null
+    },
+    {
+      "time": 135.07,
+      "time_str": "02:15.070",
+      "text": "我只等你等你一句话",
+      "translation": null
+    },
+    {
+      "time": 138.25,
+      "time_str": "02:18.250",
+      "text": "走太远",
+      "translation": null
+    },
+    {
+      "time": 139.69,
+      "time_str": "02:19.690",
+      "text": "你",
+      "translation": null
+    },
+    {
+      "time": 139.94,
+      "time_str": "02:19.940",
+      "text": "走太远",
+      "translation": null
+    },
+    {
+      "time": 141.19,
+      "time_str": "02:21.190",
+      "text": "你的回答",
+      "translation": null
+    },
+    {
+      "time": 144.87,
+      "time_str": "02:24.870",
+      "text": "听不见",
+      "translation": null
+    },
+    {
+      "time": 170.77,
+      "time_str": "02:50.770",
+      "text": "爱我的话",
+      "translation": null
+    },
+    {
+      "time": 172.2,
+      "time_str": "02:52.200",
+      "text": "给我回答",
+      "translation": null
+    },
+    {
+      "time": 173.82,
+      "time_str": "02:53.820",
+      "text": "我的爱丫",
+      "translation": null
+    },
+    {
+      "time": 175.07,
+      "time_str": "02:55.070",
+      "text": "爱丫",
+      "translation": null
+    },
+    {
+      "time": 175.51,
+      "time_str": "02:55.510",
+      "text": "没时差",
+      "translation": null
+    },
+    {
+      "time": 177.0,
+      "time_str": "02:57.000",
+      "text": "等待",
+      "translation": null
+    },
+    {
+      "time": 177.629,
+      "time_str": "02:57.629",
+      "text": "是我为你付出的代价",
+      "translation": null
+    },
+    {
+      "time": 181.81,
+      "time_str": "03:01.810",
+      "text": "Oh～",
+      "translation": null
+    },
+    {
+      "time": 183.18,
+      "time_str": "03:03.180",
+      "text": "爱我的话",
+      "translation": null
+    },
+    {
+      "time": 184.87,
+      "time_str": "03:04.870",
+      "text": "要回答",
+      "translation": null
+    },
+    {
+      "time": 186.9,
+      "time_str": "03:06.900",
+      "text": "我只等你等你一句话",
+      "translation": null
+    },
+    {
+      "time": 189.67,
+      "time_str": "03:09.670",
+      "text": "走太远",
+      "translation": null
+    },
+    {
+      "time": 190.86,
+      "time_str": "03:10.860",
+      "text": "你",
+      "translation": null
+    },
+    {
+      "time": 191.23,
+      "time_str": "03:11.230",
+      "text": "走太远",
+      "translation": null
+    },
+    {
+      "time": 192.48,
+      "time_str": "03:12.480",
+      "text": "你的回答",
+      "translation": null
+    },
+    {
+      "time": 196.16,
+      "time_str": "03:16.160",
+      "text": "听不见",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱丫爱丫 - By2.lrc"
+}

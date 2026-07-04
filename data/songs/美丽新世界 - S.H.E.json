@@ -1,0 +1,328 @@
+{
+  "title": "美丽新世界",
+  "title_raw": "美丽新世界",
+  "version": null,
+  "artist": "S.H.E",
+  "group_key": "美丽新世界|s.h.e",
+  "writers": {
+    "lyricist": "颜玺轩",
+    "composer": "李天龙",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 9.47,
+      "time_str": "00:09.470",
+      "text": "初めに 地は混沌であって",
+      "translation": "起初 地是空虚混沌 渊面黑暗"
+    },
+    {
+      "time": 12.87,
+      "time_str": "00:12.870",
+      "text": "暗がしえんの面にあり あなたは言われた 光あれ",
+      "translation": "你说要有光 就有了光"
+    },
+    {
+      "time": 23.59,
+      "time_str": "00:23.590",
+      "text": "こうして光があたった その光をよしとし 光と暗に分けられた",
+      "translation": "而光是好的 所以光和暗分开了"
+    },
+    {
+      "time": 32.83,
+      "time_str": "00:32.830",
+      "text": "光を昼と呼び 暗を夜と呼ばれた",
+      "translation": "光叫做白天 暗叫做夜晚"
+    },
+    {
+      "time": 39.89,
+      "time_str": "00:39.890",
+      "text": "そして夕べがあり 朝があった",
+      "translation": "所以 就有了夜晚 有了白天"
+    },
+    {
+      "time": 45.88,
+      "time_str": "00:45.880",
+      "text": "空ができ 陆ができ 海ができた",
+      "translation": "有了天空 有了土地 有了大海"
+    },
+    {
+      "time": 52.42,
+      "time_str": "00:52.420",
+      "text": "应该学习婴儿 再宽容一点",
+      "translation": null
+    },
+    {
+      "time": 57.43,
+      "time_str": "00:57.430",
+      "text": "哭过就忘了",
+      "translation": null
+    },
+    {
+      "time": 59.84,
+      "time_str": "00:59.840",
+      "text": "别再记着昨天 还有什么悲伤",
+      "translation": null
+    },
+    {
+      "time": 64.73,
+      "time_str": "01:04.730",
+      "text": "Baby Don't Cry",
+      "translation": null
+    },
+    {
+      "time": 66.82,
+      "time_str": "01:06.820",
+      "text": "快乐是片大海 我是飞翔的翅膀",
+      "translation": null
+    },
+    {
+      "time": 72.08,
+      "time_str": "01:12.080",
+      "text": "要自由要寻找",
+      "translation": null
+    },
+    {
+      "time": 74.14,
+      "time_str": "01:14.140",
+      "text": "一群闪亮小岛 排成很大的微笑",
+      "translation": null
+    },
+    {
+      "time": 79.47,
+      "time_str": "01:19.470",
+      "text": "叫幸福群岛",
+      "translation": null
+    },
+    {
+      "time": 88.89,
+      "time_str": "01:28.890",
+      "text": "爱存在 这美丽新世界",
+      "translation": null
+    },
+    {
+      "time": 92.61,
+      "time_str": "01:32.610",
+      "text": "我喜欢 自信的感觉",
+      "translation": null
+    },
+    {
+      "time": 96.35,
+      "time_str": "01:36.350",
+      "text": "我看见 你微笑像天使",
+      "translation": null
+    },
+    {
+      "time": 100.04,
+      "time_str": "01:40.040",
+      "text": "这就是 爱的奇妙",
+      "translation": null
+    },
+    {
+      "time": 103.68,
+      "time_str": "01:43.680",
+      "text": "我愿意 陪在你的身边",
+      "translation": null
+    },
+    {
+      "time": 107.5,
+      "time_str": "01:47.500",
+      "text": "让心跳不会变老",
+      "translation": null
+    },
+    {
+      "time": 111.13,
+      "time_str": "01:51.130",
+      "text": "欢迎来 这美丽新世界",
+      "translation": null
+    },
+    {
+      "time": 114.8,
+      "time_str": "01:54.800",
+      "text": "让感动 一个一个实现",
+      "translation": null
+    },
+    {
+      "time": 135.57,
+      "time_str": "02:15.570",
+      "text": "不管你在哪里 发射心电讯号",
+      "translation": null
+    },
+    {
+      "time": 140.49,
+      "time_str": "02:20.490",
+      "text": "就瞬间拥抱",
+      "translation": null
+    },
+    {
+      "time": 142.88,
+      "time_str": "02:22.880",
+      "text": "一起努力奔跑 超越时空轨道",
+      "translation": null
+    },
+    {
+      "time": 147.82,
+      "time_str": "02:27.820",
+      "text": "看未来多美妙",
+      "translation": null
+    },
+    {
+      "time": 149.86,
+      "time_str": "02:29.860",
+      "text": "我有一种 我们很相爱",
+      "translation": null
+    },
+    {
+      "time": 153.3,
+      "time_str": "02:33.300",
+      "text": "很强烈的预感",
+      "translation": null
+    },
+    {
+      "time": 155.2,
+      "time_str": "02:35.200",
+      "text": "仿佛下一秒实现",
+      "translation": null
+    },
+    {
+      "time": 157.28,
+      "time_str": "02:37.280",
+      "text": "眼泪闪闪 变成了钻石",
+      "translation": null
+    },
+    {
+      "time": 160.67,
+      "time_str": "02:40.670",
+      "text": "就要在 星空下",
+      "translation": null
+    },
+    {
+      "time": 162.47,
+      "time_str": "02:42.470",
+      "text": "划过你眼前",
+      "translation": null
+    },
+    {
+      "time": 172.07,
+      "time_str": "02:52.070",
+      "text": "爱存在 这美丽新世界",
+      "translation": null
+    },
+    {
+      "time": 175.7,
+      "time_str": "02:55.700",
+      "text": "我喜欢 自信的感觉",
+      "translation": null
+    },
+    {
+      "time": 179.47,
+      "time_str": "02:59.470",
+      "text": "我看见 你微笑像天使",
+      "translation": null
+    },
+    {
+      "time": 183.09,
+      "time_str": "03:03.090",
+      "text": "这就是 爱的奇妙",
+      "translation": null
+    },
+    {
+      "time": 186.74,
+      "time_str": "03:06.740",
+      "text": "我愿意 陪在你的身边",
+      "translation": null
+    },
+    {
+      "time": 190.43,
+      "time_str": "03:10.430",
+      "text": "让心跳 不会变老",
+      "translation": null
+    },
+    {
+      "time": 194.25,
+      "time_str": "03:14.250",
+      "text": "欢迎来 这美丽新世界",
+      "translation": null
+    },
+    {
+      "time": 197.89,
+      "time_str": "03:17.890",
+      "text": "让感动 一个一个实现",
+      "translation": null
+    },
+    {
+      "time": 202.76,
+      "time_str": "03:22.760",
+      "text": "啦啦啦 啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 206.9,
+      "time_str": "03:26.900",
+      "text": "做永远的恋人",
+      "translation": null
+    },
+    {
+      "time": 210.02,
+      "time_str": "03:30.020",
+      "text": "啦啦啦 啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 214.27,
+      "time_str": "03:34.270",
+      "text": "爱能量不灭",
+      "translation": null
+    },
+    {
+      "time": 218.06,
+      "time_str": "03:38.060",
+      "text": "爱存在 这美丽新世界",
+      "translation": null
+    },
+    {
+      "time": 221.96,
+      "time_str": "03:41.960",
+      "text": "我喜欢 自信的感觉",
+      "translation": null
+    },
+    {
+      "time": 225.6,
+      "time_str": "03:45.600",
+      "text": "我看见 你微笑像天使",
+      "translation": null
+    },
+    {
+      "time": 229.3,
+      "time_str": "03:49.300",
+      "text": "这就是 爱的奇妙",
+      "translation": null
+    },
+    {
+      "time": 234.13,
+      "time_str": "03:54.130",
+      "text": "啦啦啦 啦啦啦",
+      "translation": null
+    },
+    {
+      "time": 238.37,
+      "time_str": "03:58.370",
+      "text": "做永远的恋人",
+      "translation": null
+    },
+    {
+      "time": 240.14,
+      "time_str": "04:00.140",
+      "text": "欢迎来 这美丽新世界",
+      "translation": null
+    },
+    {
+      "time": 244.0,
+      "time_str": "04:04.000",
+      "text": "让感动 一个一个实现",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "美丽新世界 - S.H.E.lrc"
+}

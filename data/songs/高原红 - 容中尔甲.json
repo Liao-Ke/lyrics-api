@@ -1,0 +1,208 @@
+{
+  "title": "高原红",
+  "title_raw": "高原红",
+  "version": null,
+  "artist": "容中尔甲",
+  "group_key": "高原红|容中尔甲",
+  "writers": {
+    "lyricist": "陈小奇",
+    "composer": "陈小奇",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 26.63,
+      "time_str": "00:26.630",
+      "text": "许多的欢乐 留在你的帐篷",
+      "translation": null
+    },
+    {
+      "time": 34.03,
+      "time_str": "00:34.030",
+      "text": "初恋的琴声 撩动几次雪崩",
+      "translation": null
+    },
+    {
+      "time": 40.75,
+      "time_str": "00:40.750",
+      "text": "少年的我  为何不懂心痛",
+      "translation": null
+    },
+    {
+      "time": 47.34,
+      "time_str": "00:47.340",
+      "text": "蓦然回首  已是光阴如风",
+      "translation": null
+    },
+    {
+      "time": 55.88,
+      "time_str": "00:55.880",
+      "text": "离乡的行囊 总是越来越重",
+      "translation": null
+    },
+    {
+      "time": 63.13,
+      "time_str": "01:03.130",
+      "text": "滚滚的红尘 难掩你的笑容",
+      "translation": null
+    },
+    {
+      "time": 69.92,
+      "time_str": "01:09.920",
+      "text": "青藏的阳光 日夜与我相拥",
+      "translation": null
+    },
+    {
+      "time": 76.41,
+      "time_str": "01:16.410",
+      "text": "茫茫的雪域 何处寻觅你的影踪",
+      "translation": null
+    },
+    {
+      "time": 86.66,
+      "time_str": "01:26.660",
+      "text": "高原红  美丽的高原红",
+      "translation": null
+    },
+    {
+      "time": 93.86,
+      "time_str": "01:33.860",
+      "text": "煮了又煮的酥油茶",
+      "translation": null
+    },
+    {
+      "time": 97.52,
+      "time_str": "01:37.520",
+      "text": "还是当年那样浓",
+      "translation": null
+    },
+    {
+      "time": 101.11,
+      "time_str": "01:41.110",
+      "text": "高原红  梦里的高原红",
+      "translation": null
+    },
+    {
+      "time": 108.43,
+      "time_str": "01:48.430",
+      "text": "酿了又酿的青稞酒",
+      "translation": null
+    },
+    {
+      "time": 111.58,
+      "time_str": "01:51.580",
+      "text": "让我醉在不眠中",
+      "translation": null
+    },
+    {
+      "time": 145.05,
+      "time_str": "02:25.050",
+      "text": "离乡的行囊 总是越来越重",
+      "translation": null
+    },
+    {
+      "time": 152.31,
+      "time_str": "02:32.310",
+      "text": "滚滚的红尘 难掩你的笑容",
+      "translation": null
+    },
+    {
+      "time": 159.1,
+      "time_str": "02:39.100",
+      "text": "青藏的阳光 日夜与我相拥",
+      "translation": null
+    },
+    {
+      "time": 165.47,
+      "time_str": "02:45.470",
+      "text": "茫茫的雪域 何处寻觅你的影踪",
+      "translation": null
+    },
+    {
+      "time": 175.92,
+      "time_str": "02:55.920",
+      "text": "高原红  美丽的高原红",
+      "translation": null
+    },
+    {
+      "time": 183.07,
+      "time_str": "03:03.070",
+      "text": "煮了又煮的酥油茶",
+      "translation": null
+    },
+    {
+      "time": 186.76,
+      "time_str": "03:06.760",
+      "text": "还是当年那样浓",
+      "translation": null
+    },
+    {
+      "time": 190.35,
+      "time_str": "03:10.350",
+      "text": "高原红  梦里的高原红",
+      "translation": null
+    },
+    {
+      "time": 197.55,
+      "time_str": "03:17.550",
+      "text": "酿了又酿的青稞酒",
+      "translation": null
+    },
+    {
+      "time": 200.79,
+      "time_str": "03:20.790",
+      "text": "让我醉在不眠中",
+      "translation": null
+    },
+    {
+      "time": 206.69,
+      "time_str": "03:26.690",
+      "text": "高原红  美丽的高原红",
+      "translation": null
+    },
+    {
+      "time": 213.79,
+      "time_str": "03:33.790",
+      "text": "煮了又煮的酥油茶",
+      "translation": null
+    },
+    {
+      "time": 217.5,
+      "time_str": "03:37.500",
+      "text": "还是当年那样浓",
+      "translation": null
+    },
+    {
+      "time": 221.16,
+      "time_str": "03:41.160",
+      "text": "高原红  梦里的高原红",
+      "translation": null
+    },
+    {
+      "time": 228.35,
+      "time_str": "03:48.350",
+      "text": "酿了又酿的青稞酒",
+      "translation": null
+    },
+    {
+      "time": 231.55,
+      "time_str": "03:51.550",
+      "text": "让我醉在不眠中",
+      "translation": null
+    },
+    {
+      "time": 235.84,
+      "time_str": "03:55.840",
+      "text": "酿了又酿的青稞酒",
+      "translation": null
+    },
+    {
+      "time": 241.24,
+      "time_str": "04:01.240",
+      "text": "让我醉在不眠中",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "高原红 - 容中尔甲.lrc"
+}

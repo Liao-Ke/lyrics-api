@@ -1,0 +1,328 @@
+{
+  "title": "生而为人",
+  "title_raw": "生而为人",
+  "version": null,
+  "artist": "尚士达",
+  "group_key": "生而为人|尚士达",
+  "writers": {
+    "lyricist": "尚士达",
+    "composer": "尚士达",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.592,
+      "time_str": "00:00.592",
+      "text": "录音版权归属：‌音之邦文化科技有限公司",
+      "translation": null
+    },
+    {
+      "time": 15.516,
+      "time_str": "00:15.516",
+      "text": "曾经说过不会抽的烟",
+      "translation": null
+    },
+    {
+      "time": 18.765,
+      "time_str": "00:18.765",
+      "text": "都已经吸进肺里好几年",
+      "translation": null
+    },
+    {
+      "time": 22.424,
+      "time_str": "00:22.424",
+      "text": "曾经的梦想天真无邪",
+      "translation": null
+    },
+    {
+      "time": 25.52,
+      "time_str": "00:25.520",
+      "text": "后来满脑子都是为了钱",
+      "translation": null
+    },
+    {
+      "time": 29.371,
+      "time_str": "00:29.371",
+      "text": "每年生日闭眼许的愿",
+      "translation": null
+    },
+    {
+      "time": 33.002,
+      "time_str": "00:33.002",
+      "text": "能有几个可以灵验",
+      "translation": null
+    },
+    {
+      "time": 36.693,
+      "time_str": "00:36.693",
+      "text": "人总会变 抱歉",
+      "translation": null
+    },
+    {
+      "time": 44.835,
+      "time_str": "00:44.835",
+      "text": "都说生命可以不分贵贱",
+      "translation": null
+    },
+    {
+      "time": 47.636,
+      "time_str": "00:47.636",
+      "text": "可有人生来就被叫做少爷",
+      "translation": null
+    },
+    {
+      "time": 51.816,
+      "time_str": "00:51.816",
+      "text": "有人只能看着地面",
+      "translation": null
+    },
+    {
+      "time": 54.723,
+      "time_str": "00:54.723",
+      "text": "抬头都是些肮脏的嘴脸",
+      "translation": null
+    },
+    {
+      "time": 58.988,
+      "time_str": "00:58.988",
+      "text": "励志要走社会的前列",
+      "translation": null
+    },
+    {
+      "time": 62.176,
+      "time_str": "01:02.176",
+      "text": "可总是败在势力的面前",
+      "translation": null
+    },
+    {
+      "time": 66.254,
+      "time_str": "01:06.254",
+      "text": "肺腑之言  抱歉",
+      "translation": null
+    },
+    {
+      "time": 73.771,
+      "time_str": "01:13.771",
+      "text": "我想忘了从前的一切",
+      "translation": null
+    },
+    {
+      "time": 77.225,
+      "time_str": "01:17.225",
+      "text": "做一个凡事不问的俗人",
+      "translation": null
+    },
+    {
+      "time": 80.961,
+      "time_str": "01:20.961",
+      "text": "从今天起远离人群",
+      "translation": null
+    },
+    {
+      "time": 84.282,
+      "time_str": "01:24.282",
+      "text": "做一只狡猾的狐狸",
+      "translation": null
+    },
+    {
+      "time": 87.926,
+      "time_str": "01:27.926",
+      "text": "那天我双手合十",
+      "translation": null
+    },
+    {
+      "time": 91.676,
+      "time_str": "01:31.676",
+      "text": "看着镜子里狼狈的自己",
+      "translation": null
+    },
+    {
+      "time": 95.237,
+      "time_str": "01:35.237",
+      "text": "我用了一半的青春",
+      "translation": null
+    },
+    {
+      "time": 98.557,
+      "time_str": "01:38.557",
+      "text": "来思考做人的道理",
+      "translation": null
+    },
+    {
+      "time": 104.51,
+      "time_str": "01:44.510",
+      "text": "对不起年少的自己",
+      "translation": null
+    },
+    {
+      "time": 107.852,
+      "time_str": "01:47.852",
+      "text": "行千万里 再别忘了初心",
+      "translation": null
+    },
+    {
+      "time": 142.87,
+      "time_str": "02:22.870",
+      "text": "都说生命可以不分贵贱",
+      "translation": null
+    },
+    {
+      "time": 146.038,
+      "time_str": "02:26.038",
+      "text": "可有人生来就被叫做少爷",
+      "translation": null
+    },
+    {
+      "time": 150.398,
+      "time_str": "02:30.398",
+      "text": "有人只能看着地面",
+      "translation": null
+    },
+    {
+      "time": 152.57,
+      "time_str": "02:32.570",
+      "text": "抬头都是些肮脏的嘴脸",
+      "translation": null
+    },
+    {
+      "time": 157.287,
+      "time_str": "02:37.287",
+      "text": "励志要走社会的前列",
+      "translation": null
+    },
+    {
+      "time": 160.305,
+      "time_str": "02:40.305",
+      "text": "可总是败在势力的面前",
+      "translation": null
+    },
+    {
+      "time": 164.126,
+      "time_str": "02:44.126",
+      "text": "肺腑之言  抱歉",
+      "translation": null
+    },
+    {
+      "time": 171.739,
+      "time_str": "02:51.739",
+      "text": "我想忘了从前的一切",
+      "translation": null
+    },
+    {
+      "time": 175.37,
+      "time_str": "02:55.370",
+      "text": "做一个凡事不问的俗人",
+      "translation": null
+    },
+    {
+      "time": 178.998,
+      "time_str": "02:58.998",
+      "text": "从今天起远离人群",
+      "translation": null
+    },
+    {
+      "time": 182.506,
+      "time_str": "03:02.506",
+      "text": "做一只狡猾的狐狸",
+      "translation": null
+    },
+    {
+      "time": 187.192,
+      "time_str": "03:07.192",
+      "text": "那天我双手合十",
+      "translation": null
+    },
+    {
+      "time": 189.795,
+      "time_str": "03:09.795",
+      "text": "看着镜子里狼狈的自己",
+      "translation": null
+    },
+    {
+      "time": 193.417,
+      "time_str": "03:13.417",
+      "text": "我用了一半的青春",
+      "translation": null
+    },
+    {
+      "time": 196.804,
+      "time_str": "03:16.804",
+      "text": "来思考做人的道理",
+      "translation": null
+    },
+    {
+      "time": 202.918,
+      "time_str": "03:22.918",
+      "text": "对不起年少的自己",
+      "translation": null
+    },
+    {
+      "time": 206.436,
+      "time_str": "03:26.436",
+      "text": "行千万里 再别忘了初心",
+      "translation": null
+    },
+    {
+      "time": 241.641,
+      "time_str": "04:01.641",
+      "text": "我想忘了从前的一切",
+      "translation": null
+    },
+    {
+      "time": 244.388,
+      "time_str": "04:04.388",
+      "text": "做一个凡事不问的俗人",
+      "translation": null
+    },
+    {
+      "time": 248.149,
+      "time_str": "04:08.149",
+      "text": "从今天起远离人群",
+      "translation": null
+    },
+    {
+      "time": 251.441,
+      "time_str": "04:11.441",
+      "text": "做一只狡猾的狐狸",
+      "translation": null
+    },
+    {
+      "time": 255.697,
+      "time_str": "04:15.697",
+      "text": "那天我双手合十",
+      "translation": null
+    },
+    {
+      "time": 258.962,
+      "time_str": "04:18.962",
+      "text": "看着镜子里狼狈的自己",
+      "translation": null
+    },
+    {
+      "time": 263.101,
+      "time_str": "04:23.101",
+      "text": "我用了一半的青春",
+      "translation": null
+    },
+    {
+      "time": 266.168,
+      "time_str": "04:26.168",
+      "text": "来思考做人的道理",
+      "translation": null
+    },
+    {
+      "time": 271.634,
+      "time_str": "04:31.634",
+      "text": "对不起年少的自己",
+      "translation": null
+    },
+    {
+      "time": 275.8,
+      "time_str": "04:35.800",
+      "text": "行千万里 再别忘了初心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "生而为人 - 尚士达.lrc"
+}

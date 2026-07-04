@@ -1,0 +1,394 @@
+{
+  "title": "We Can't Stop",
+  "title_raw": "We Can't Stop",
+  "version": null,
+  "artist": "Boyce Avenue,Bea Miller",
+  "group_key": "we can't stop|boyce avenue,bea miller",
+  "writers": {
+    "lyricist": "Miley Cyrus/Douglas Davis/Pierre Slaughter/Theron Thomas/Timothy Thomas/Ricky Walters/Michael Williams",
+    "composer": "Miley Cyrus/Douglas Davis/Pierre Slaughter/Theron Thomas/Timothy Thomas/Ricky Walters/Michael Williams",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 12.81,
+      "time_str": "00:12.810",
+      "text": "Red cups and sweaty bodies everywhere",
+      "translation": "举杯欢庆，激情热舞"
+    },
+    {
+      "time": 15.45,
+      "time_str": "00:15.450",
+      "text": "Hands in the air like we don't care",
+      "translation": "挥动双臂，毫不在乎"
+    },
+    {
+      "time": 18.35,
+      "time_str": "00:18.350",
+      "text": "'Cause we came to have so much fun now",
+      "translation": "欢乐无限，乐趣无穷"
+    },
+    {
+      "time": 21.41,
+      "time_str": "00:21.410",
+      "text": "Bet somebody here might be the one now",
+      "translation": "寻觅派对达人，调动派对气氛"
+    },
+    {
+      "time": 24.37,
+      "time_str": "00:24.370",
+      "text": "If you're not ready to go home",
+      "translation": "你若无归家之心"
+    },
+    {
+      "time": 29.2,
+      "time_str": "00:29.200",
+      "text": "Can I get a \"Hell, no？！\"",
+      "translation": "就尽情狂欢吧"
+    },
+    {
+      "time": 31.2,
+      "time_str": "00:31.200",
+      "text": "Cause we're gonna go all night",
+      "translation": "今夜派对，风光无限"
+    },
+    {
+      "time": 33.09,
+      "time_str": "00:33.090",
+      "text": "Till we see the sunlight, alright",
+      "translation": "彻夜狂欢，直至天明"
+    },
+    {
+      "time": 35.57,
+      "time_str": "00:35.570",
+      "text": "So la da di da di",
+      "translation": "准备好，啦答嘀答嘀"
+    },
+    {
+      "time": 37.33,
+      "time_str": "00:37.330",
+      "text": "We like to party",
+      "translation": "我们爱派对"
+    },
+    {
+      "time": 38.87,
+      "time_str": "00:38.870",
+      "text": "Dancing you and me",
+      "translation": "你我共舞"
+    },
+    {
+      "time": 40.37,
+      "time_str": "00:40.370",
+      "text": "Doing whatever we want",
+      "translation": "随心所欲"
+    },
+    {
+      "time": 44.28,
+      "time_str": "00:44.280",
+      "text": "And this is our house  And this is our rules",
+      "translation": "我们的地盘，我们做主"
+    },
+    {
+      "time": 46.88,
+      "time_str": "00:46.880",
+      "text": "And we can't stop",
+      "translation": "我们无法停止"
+    },
+    {
+      "time": 49.87,
+      "time_str": "00:49.870",
+      "text": "And we won't stop",
+      "translation": "我们永不停止"
+    },
+    {
+      "time": 53.13,
+      "time_str": "00:53.130",
+      "text": "Can't you see it's we who own the night?",
+      "translation": "夜晚属于我们"
+    },
+    {
+      "time": 56.02,
+      "time_str": "00:56.020",
+      "text": "Can't you see it's we who about 'that' life?",
+      "translation": "生活由我们缔造"
+    },
+    {
+      "time": 58.9,
+      "time_str": "00:58.900",
+      "text": "And we can't stop",
+      "translation": "我们无法停止"
+    },
+    {
+      "time": 61.786,
+      "time_str": "01:01.786",
+      "text": "And we won't stop",
+      "translation": "我们永不停止"
+    },
+    {
+      "time": 65.218,
+      "time_str": "01:05.218",
+      "text": "We run things, things don't run we",
+      "translation": "是我们主宰世界，不是世界主宰我们"
+    },
+    {
+      "time": 68.156,
+      "time_str": "01:08.156",
+      "text": "Don't take nothing from nobody",
+      "translation": "做真实的自我，不受他人拖累"
+    },
+    {
+      "time": 71.016,
+      "time_str": "01:11.016",
+      "text": "Yeah, yeah",
+      "translation": "耶，耶"
+    },
+    {
+      "time": 84.59,
+      "time_str": "01:24.590",
+      "text": "To my homegirls just tryin' to live it up, shaking it the like they can't get enough....",
+      "translation": "家乡姑娘，身材火辣，激情热舞，如临夜店"
+    },
+    {
+      "time": 90.468,
+      "time_str": "01:30.468",
+      "text": "Remember only god can judge us.",
+      "translation": "记住！只有上帝有权力评判我们"
+    },
+    {
+      "time": 92.86,
+      "time_str": "01:32.860",
+      "text": "Forget the haters,cause somebody loves ya.",
+      "translation": "忘却仇人，我们会得到真爱"
+    },
+    {
+      "time": 96.56,
+      "time_str": "01:36.560",
+      "text": "Memories made 'til the nights through.",
+      "translation": "彻夜狂欢，记忆终止"
+    },
+    {
+      "time": 99.518,
+      "time_str": "01:39.518",
+      "text": "Surrounded by the ones who love you.",
+      "translation": "被爱你的人包围"
+    },
+    {
+      "time": 102.938,
+      "time_str": "01:42.938",
+      "text": "We all so turned up here, getting turned up...yeah!!",
+      "translation": "我们欢呼雀跃，啊，无比开心欢腾"
+    },
+    {
+      "time": 107.649,
+      "time_str": "01:47.649",
+      "text": "So La, da，di，da，di",
+      "translation": "准备好，啦答嘀答嘀"
+    },
+    {
+      "time": 109.319,
+      "time_str": "01:49.319",
+      "text": "We like to party.",
+      "translation": "我们爱派对"
+    },
+    {
+      "time": 110.968,
+      "time_str": "01:50.968",
+      "text": "Dancing you and me, doing whatever we want...",
+      "translation": "和我动起来，尽情狂欢"
+    },
+    {
+      "time": 115.92,
+      "time_str": "01:55.920",
+      "text": "And, this is our house. And, this is our rules.",
+      "translation": "我们的地盘，我们做主"
+    },
+    {
+      "time": 118.908,
+      "time_str": "01:58.908",
+      "text": "And we can't stop.",
+      "translation": "我们无法停止"
+    },
+    {
+      "time": 121.757,
+      "time_str": "02:01.757",
+      "text": "And we won't stop.",
+      "translation": "我们永不停止"
+    },
+    {
+      "time": 125.2,
+      "time_str": "02:05.200",
+      "text": "Can't you see it's we who own the night?",
+      "translation": "夜晚属于我们"
+    },
+    {
+      "time": 127.98,
+      "time_str": "02:07.980",
+      "text": "Can't you see it's we who about \"that life?\"",
+      "translation": "生活由我们缔造"
+    },
+    {
+      "time": 130.877,
+      "time_str": "02:10.877",
+      "text": "And we can't stop",
+      "translation": "我们无法停止"
+    },
+    {
+      "time": 133.687,
+      "time_str": "02:13.687",
+      "text": "And we won't stop",
+      "translation": "我们永不停止"
+    },
+    {
+      "time": 137.116,
+      "time_str": "02:17.116",
+      "text": "We run things. Things don't run we.",
+      "translation": "是我们主宰世界，不是世界主宰我们"
+    },
+    {
+      "time": 140.076,
+      "time_str": "02:20.076",
+      "text": "Don't take nothing' from nobody",
+      "translation": "做真实的自我，不受他人拖累"
+    },
+    {
+      "time": 143.007,
+      "time_str": "02:23.007",
+      "text": "Yeah! Yeah!",
+      "translation": "耶！耶！"
+    },
+    {
+      "time": 144.426,
+      "time_str": "02:24.426",
+      "text": "It's our party. We can do what we want to",
+      "translation": "我们的派对，随心所欲"
+    },
+    {
+      "time": 147.198,
+      "time_str": "02:27.198",
+      "text": "It's our house. We can LOVE who we want to!",
+      "translation": "我们的地盘，爱无界限"
+    },
+    {
+      "time": 150.146,
+      "time_str": "02:30.146",
+      "text": "It's our song. We can sing if we want to.",
+      "translation": "我们的歌谣，毫无限制"
+    },
+    {
+      "time": 153.116,
+      "time_str": "02:33.116",
+      "text": "It's my mouth. I can say what I want to!",
+      "translation": "我们的嘴巴，话无阻挡"
+    },
+    {
+      "time": 156.138,
+      "time_str": "02:36.138",
+      "text": "ohhhh.. ohhhh ohhhh ohhhh",
+      "translation": "噢噢噢噢噢"
+    },
+    {
+      "time": 166.948,
+      "time_str": "02:46.948",
+      "text": "And we can't stop.",
+      "translation": "我们无法停止"
+    },
+    {
+      "time": 169.738,
+      "time_str": "02:49.738",
+      "text": "And we won't stop.",
+      "translation": "我们永不停止"
+    },
+    {
+      "time": 173.116,
+      "time_str": "02:53.116",
+      "text": "Can't you see it's we who own the night?",
+      "translation": "夜晚属于我们"
+    },
+    {
+      "time": 175.827,
+      "time_str": "02:55.827",
+      "text": "Can't you see it’s we who about \"that life?\"",
+      "translation": "生活由我们缔造"
+    },
+    {
+      "time": 178.638,
+      "time_str": "02:58.638",
+      "text": "And we can't stop",
+      "translation": "我们无法停止"
+    },
+    {
+      "time": 181.676,
+      "time_str": "03:01.676",
+      "text": "And we won't stop",
+      "translation": "我们永不停止"
+    },
+    {
+      "time": 184.997,
+      "time_str": "03:04.997",
+      "text": "We run things. Things don't run we.",
+      "translation": "是我们主宰世界，不是世界主宰我们"
+    },
+    {
+      "time": 187.807,
+      "time_str": "03:07.807",
+      "text": "Don't take nothing from nobody",
+      "translation": "做真实的自我，不受他人拖累"
+    },
+    {
+      "time": 190.978,
+      "time_str": "03:10.978",
+      "text": "Yeah! Yeah!",
+      "translation": "耶！耶！"
+    },
+    {
+      "time": 192.768,
+      "time_str": "03:12.768",
+      "text": "It's our party. We can do what we want to",
+      "translation": "我们的派对，随心所欲"
+    },
+    {
+      "time": 195.097,
+      "time_str": "03:15.097",
+      "text": "It's our house. We can love who we want to",
+      "translation": "我们的派对，爱无界限"
+    },
+    {
+      "time": 197.937,
+      "time_str": "03:17.937",
+      "text": "Can't you see it's we who own the night?",
+      "translation": "夜晚属于我们"
+    },
+    {
+      "time": 199.988,
+      "time_str": "03:19.988",
+      "text": "Can't you see it we who about \"that life?\"",
+      "translation": "生活由我们缔造"
+    },
+    {
+      "time": 204.076,
+      "time_str": "03:24.076",
+      "text": "It's our song. We can sing if we want to.",
+      "translation": "我们的歌谣，毫无限制"
+    },
+    {
+      "time": 206.948,
+      "time_str": "03:26.948",
+      "text": "It's my mouth. I can say what I want to!",
+      "translation": "我们的嘴巴，话无阻挡"
+    },
+    {
+      "time": 209.537,
+      "time_str": "03:29.537",
+      "text": "We run things. Things don't run we",
+      "translation": "是我们主宰世界，不是世界主宰我们"
+    },
+    {
+      "time": 213.396,
+      "time_str": "03:33.396",
+      "text": "Cause we can't stop...",
+      "translation": "因为我们不可阻挡···"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "We Can't Stop - Boyce Avenue,Bea Miller.lrc"
+}

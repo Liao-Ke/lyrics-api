@@ -1,0 +1,262 @@
+{
+  "title": "当你孤单你会想起谁",
+  "title_raw": "当你孤单你会想起谁",
+  "version": null,
+  "artist": "张栋梁",
+  "group_key": "当你孤单你会想起谁|张栋梁",
+  "writers": {
+    "lyricist": "莎莎",
+    "composer": "施盈伟",
+    "arranger": "郭小霖"
+  },
+  "lyrics": [
+    {
+      "time": 13.5,
+      "time_str": "00:13.500",
+      "text": "你的心情总在飞",
+      "translation": null
+    },
+    {
+      "time": 16.01,
+      "time_str": "00:16.010",
+      "text": "什么事都想去追",
+      "translation": null
+    },
+    {
+      "time": 19.05,
+      "time_str": "00:19.050",
+      "text": "想抓住一点安慰",
+      "translation": null
+    },
+    {
+      "time": 24.4,
+      "time_str": "00:24.400",
+      "text": "你总是喜欢在人群中徘徊",
+      "translation": null
+    },
+    {
+      "time": 29.83,
+      "time_str": "00:29.830",
+      "text": "你最害怕孤单的滋味",
+      "translation": null
+    },
+    {
+      "time": 35.0,
+      "time_str": "00:35.000",
+      "text": "你的心那么脆",
+      "translation": null
+    },
+    {
+      "time": 37.42,
+      "time_str": "00:37.420",
+      "text": "一碰就会碎",
+      "translation": null
+    },
+    {
+      "time": 40.1,
+      "time_str": "00:40.100",
+      "text": "经不起一点风吹",
+      "translation": null
+    },
+    {
+      "time": 45.22,
+      "time_str": "00:45.220",
+      "text": "你的身边总是要许多人陪",
+      "translation": null
+    },
+    {
+      "time": 50.7,
+      "time_str": "00:50.700",
+      "text": "你最害怕每天的天黑",
+      "translation": null
+    },
+    {
+      "time": 55.01,
+      "time_str": "00:55.010",
+      "text": "但是天总会黑 人总要离别",
+      "translation": null
+    },
+    {
+      "time": 61.03,
+      "time_str": "01:01.030",
+      "text": "谁也不能永远陪谁",
+      "translation": null
+    },
+    {
+      "time": 66.77,
+      "time_str": "01:06.770",
+      "text": "而孤单的滋味,谁都要面对",
+      "translation": null
+    },
+    {
+      "time": 72.03,
+      "time_str": "01:12.030",
+      "text": "不只是你我 会感觉到疲惫",
+      "translation": null
+    },
+    {
+      "time": 80.05,
+      "time_str": "01:20.050",
+      "text": "当你孤单你会想起谁",
+      "translation": null
+    },
+    {
+      "time": 85.6,
+      "time_str": "01:25.600",
+      "text": "你想不想找个人来陪",
+      "translation": null
+    },
+    {
+      "time": 90.6,
+      "time_str": "01:30.600",
+      "text": "你的快乐伤悲 只有我能体会",
+      "translation": null
+    },
+    {
+      "time": 96.07,
+      "time_str": "01:36.070",
+      "text": "让我再陪你走一回",
+      "translation": null
+    },
+    {
+      "time": 102.03,
+      "time_str": "01:42.030",
+      "text": "music",
+      "translation": null
+    },
+    {
+      "time": 111.09,
+      "time_str": "01:51.090",
+      "text": "你的心情总在飞 什么事都想去追",
+      "translation": null
+    },
+    {
+      "time": 117.05,
+      "time_str": "01:57.050",
+      "text": "想抓住一点安慰",
+      "translation": null
+    },
+    {
+      "time": 121.8,
+      "time_str": "02:01.800",
+      "text": "你总是喜欢在人群中徘徊",
+      "translation": null
+    },
+    {
+      "time": 127.01,
+      "time_str": "02:07.010",
+      "text": "你最害怕孤单的滋味",
+      "translation": null
+    },
+    {
+      "time": 132.01,
+      "time_str": "02:12.010",
+      "text": "你的心那么脆 一碰就会碎",
+      "translation": null
+    },
+    {
+      "time": 137.66,
+      "time_str": "02:17.660",
+      "text": "经不起一点风吹",
+      "translation": null
+    },
+    {
+      "time": 143.05,
+      "time_str": "02:23.050",
+      "text": "你的身边总是要许多人陪",
+      "translation": null
+    },
+    {
+      "time": 148.7,
+      "time_str": "02:28.700",
+      "text": "你最害怕每天的天黑",
+      "translation": null
+    },
+    {
+      "time": 153.01,
+      "time_str": "02:33.010",
+      "text": "但是天总会黑 人总要离别",
+      "translation": null
+    },
+    {
+      "time": 158.7,
+      "time_str": "02:38.700",
+      "text": "谁也不能永远陪谁",
+      "translation": null
+    },
+    {
+      "time": 163.75,
+      "time_str": "02:43.750",
+      "text": "而孤单的滋味 谁都要面对",
+      "translation": null
+    },
+    {
+      "time": 169.01,
+      "time_str": "02:49.010",
+      "text": "不只是你我 会感觉到疲惫",
+      "translation": null
+    },
+    {
+      "time": 178.75,
+      "time_str": "02:58.750",
+      "text": "当你孤单你会想起谁",
+      "translation": null
+    },
+    {
+      "time": 183.01,
+      "time_str": "03:03.010",
+      "text": "你想不想找个人来陪",
+      "translation": null
+    },
+    {
+      "time": 187.02,
+      "time_str": "03:07.020",
+      "text": "你的快乐伤悲 只有我能体会",
+      "translation": null
+    },
+    {
+      "time": 193.05,
+      "time_str": "03:13.050",
+      "text": "让我再陪你走一回",
+      "translation": null
+    },
+    {
+      "time": 199.01,
+      "time_str": "03:19.010",
+      "text": "当你孤单你会想起谁",
+      "translation": null
+    },
+    {
+      "time": 204.7,
+      "time_str": "03:24.700",
+      "text": "你想不想找个人来陪",
+      "translation": null
+    },
+    {
+      "time": 210.02,
+      "time_str": "03:30.020",
+      "text": "你的快乐伤悲 只有我能体会",
+      "translation": null
+    },
+    {
+      "time": 215.22,
+      "time_str": "03:35.220",
+      "text": "让我再陪你走一回",
+      "translation": null
+    },
+    {
+      "time": 220.5,
+      "time_str": "03:40.500",
+      "text": "你的快乐伤悲 只有我能体会",
+      "translation": null
+    },
+    {
+      "time": 225.52,
+      "time_str": "03:45.520",
+      "text": "让我再陪你 走一回",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "当你孤单你会想起谁 - 张栋梁.lrc"
+}

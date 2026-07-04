@@ -1,0 +1,382 @@
+{
+  "title": "捕梦",
+  "title_raw": "捕梦",
+  "version": null,
+  "artist": "黄子弘凡",
+  "group_key": "捕梦|黄子弘凡",
+  "writers": {
+    "lyricist": "陈恬 @ROOM 4A",
+    "composer": "乐逸帆 @ROOM 4A",
+    "arranger": "高做"
+  },
+  "lyrics": [
+    {
+      "time": 1.07,
+      "time_str": "00:01.070",
+      "text": "贝斯 : 王聪",
+      "translation": null
+    },
+    {
+      "time": 1.29,
+      "time_str": "00:01.290",
+      "text": "乐器录音师 : 徐可",
+      "translation": null
+    },
+    {
+      "time": 1.72,
+      "time_str": "00:01.720",
+      "text": "打击乐录音棚 : 喜人音乐录音棚 NerixStudio",
+      "translation": null
+    },
+    {
+      "time": 1.93,
+      "time_str": "00:01.930",
+      "text": "打击乐录音师 : 甄浩@喜人音乐 NerixStudio",
+      "translation": null
+    },
+    {
+      "time": 2.36,
+      "time_str": "00:02.360",
+      "text": "效果口技 : 黄子弘凡",
+      "translation": null
+    },
+    {
+      "time": 3.22,
+      "time_str": "00:03.220",
+      "text": "母带 : 王昆@2496Top Music",
+      "translation": null
+    },
+    {
+      "time": 3.44,
+      "time_str": "00:03.440",
+      "text": "人声录音室 : 2496Top Music Studio",
+      "translation": null
+    },
+    {
+      "time": 3.65,
+      "time_str": "00:03.650",
+      "text": "企划监制 : 付玉",
+      "translation": null
+    },
+    {
+      "time": 3.87,
+      "time_str": "00:03.870",
+      "text": "企划 : 将来",
+      "translation": null
+    },
+    {
+      "time": 4.08,
+      "time_str": "00:04.080",
+      "text": "文案 : 将来",
+      "translation": null
+    },
+    {
+      "time": 4.3,
+      "time_str": "00:04.300",
+      "text": "封面 : 晕尖尖Yron.Xu",
+      "translation": null
+    },
+    {
+      "time": 4.51,
+      "time_str": "00:04.510",
+      "text": "A&R : 徐可",
+      "translation": null
+    },
+    {
+      "time": 16.86,
+      "time_str": "00:16.860",
+      "text": "Verse1",
+      "translation": null
+    },
+    {
+      "time": 17.6,
+      "time_str": "00:17.600",
+      "text": "被月光遗忘的窗边",
+      "translation": null
+    },
+    {
+      "time": 23.56,
+      "time_str": "00:23.560",
+      "text": "一盏不眠光线",
+      "translation": null
+    },
+    {
+      "time": 26.93,
+      "time_str": "00:26.930",
+      "text": "像人造太阳般耀眼",
+      "translation": null
+    },
+    {
+      "time": 34.75,
+      "time_str": "00:34.750",
+      "text": "Verse2",
+      "translation": null
+    },
+    {
+      "time": 35.31,
+      "time_str": "00:35.310",
+      "text": "用时间和心血堆叠",
+      "translation": null
+    },
+    {
+      "time": 38.93,
+      "time_str": "00:38.930",
+      "text": "用指尖温度溶解",
+      "translation": null
+    },
+    {
+      "time": 42.75,
+      "time_str": "00:42.750",
+      "text": "把想念织进梦里面",
+      "translation": null
+    },
+    {
+      "time": 50.12,
+      "time_str": "00:50.120",
+      "text": "Pre-Chorus1",
+      "translation": null
+    },
+    {
+      "time": 50.36,
+      "time_str": "00:50.360",
+      "text": "一勾一捻",
+      "translation": null
+    },
+    {
+      "time": 53.46,
+      "time_str": "00:53.460",
+      "text": "心意都缠绕成圈",
+      "translation": null
+    },
+    {
+      "time": 57.19,
+      "time_str": "00:57.190",
+      "text": "牵挂着羽毛装点",
+      "translation": null
+    },
+    {
+      "time": 61.45,
+      "time_str": "01:01.450",
+      "text": "让风送到你身边",
+      "translation": null
+    },
+    {
+      "time": 71.01,
+      "time_str": "01:11.010",
+      "text": "Chorus",
+      "translation": null
+    },
+    {
+      "time": 71.42,
+      "time_str": "01:11.420",
+      "text": "让我 亲手 捕梦 送你",
+      "translation": null
+    },
+    {
+      "time": 79.04,
+      "time_str": "01:19.040",
+      "text": "今夜 不会 再失眠或哭泣",
+      "translation": null
+    },
+    {
+      "time": 87.35,
+      "time_str": "01:27.350",
+      "text": "像星河轨迹 短暂分离",
+      "translation": null
+    },
+    {
+      "time": 91.35,
+      "time_str": "01:31.350",
+      "text": "还会相遇",
+      "translation": null
+    },
+    {
+      "time": 94.8,
+      "time_str": "01:34.800",
+      "text": "纯白色的心意",
+      "translation": null
+    },
+    {
+      "time": 97.87,
+      "time_str": "01:37.870",
+      "text": "咫尺间的距离",
+      "translation": null
+    },
+    {
+      "time": 99.55,
+      "time_str": "01:39.550",
+      "text": "代替我守护着你",
+      "translation": null
+    },
+    {
+      "time": 105.16,
+      "time_str": "01:45.160",
+      "text": "Verse3",
+      "translation": null
+    },
+    {
+      "time": 121.62,
+      "time_str": "02:01.620",
+      "text": "无论明天晴天雨天",
+      "translation": null
+    },
+    {
+      "time": 128.09,
+      "time_str": "02:08.090",
+      "text": "当风经过窗前",
+      "translation": null
+    },
+    {
+      "time": 131.37,
+      "time_str": "02:11.370",
+      "text": "总有熟悉声音浮现",
+      "translation": null
+    },
+    {
+      "time": 139.21,
+      "time_str": "02:19.210",
+      "text": "Verse4",
+      "translation": null
+    },
+    {
+      "time": 139.49,
+      "time_str": "02:19.490",
+      "text": "等梦境与现实交叠",
+      "translation": null
+    },
+    {
+      "time": 143.35,
+      "time_str": "02:23.350",
+      "text": "等许的愿都实现",
+      "translation": null
+    },
+    {
+      "time": 146.95,
+      "time_str": "02:26.950",
+      "text": "温暖停驻每个季节",
+      "translation": null
+    },
+    {
+      "time": 154.14,
+      "time_str": "02:34.140",
+      "text": "Pre-Chorus2",
+      "translation": null
+    },
+    {
+      "time": 154.46,
+      "time_str": "02:34.460",
+      "text": "一勾一捻",
+      "translation": null
+    },
+    {
+      "time": 157.69,
+      "time_str": "02:37.690",
+      "text": "心意都缠绕成圈",
+      "translation": null
+    },
+    {
+      "time": 161.4,
+      "time_str": "02:41.400",
+      "text": "牵挂着羽毛装点",
+      "translation": null
+    },
+    {
+      "time": 165.2,
+      "time_str": "02:45.200",
+      "text": "让风送到你身边",
+      "translation": null
+    },
+    {
+      "time": 171.58,
+      "time_str": "02:51.580",
+      "text": "Chorus",
+      "translation": null
+    },
+    {
+      "time": 172.07,
+      "time_str": "02:52.070",
+      "text": "让我 亲手 捕梦 送你",
+      "translation": null
+    },
+    {
+      "time": 179.33,
+      "time_str": "02:59.330",
+      "text": "今夜 不会 再失眠或哭泣",
+      "translation": null
+    },
+    {
+      "time": 187.05,
+      "time_str": "03:07.050",
+      "text": "像星河轨迹 短暂分离",
+      "translation": null
+    },
+    {
+      "time": 191.49,
+      "time_str": "03:11.490",
+      "text": "还会相遇",
+      "translation": null
+    },
+    {
+      "time": 195.22,
+      "time_str": "03:15.220",
+      "text": "纯白色的心意",
+      "translation": null
+    },
+    {
+      "time": 197.5,
+      "time_str": "03:17.500",
+      "text": "咫尺间的距离",
+      "translation": null
+    },
+    {
+      "time": 199.44,
+      "time_str": "03:19.440",
+      "text": "代替我守护着你",
+      "translation": null
+    },
+    {
+      "time": 207.63,
+      "time_str": "03:27.630",
+      "text": "让我 亲手 捕梦 送你",
+      "translation": null
+    },
+    {
+      "time": 215.48,
+      "time_str": "03:35.480",
+      "text": "今夜 不会 再失眠或哭泣",
+      "translation": null
+    },
+    {
+      "time": 222.83,
+      "time_str": "03:42.830",
+      "text": "像星河轨迹 短暂分离",
+      "translation": null
+    },
+    {
+      "time": 227.5,
+      "time_str": "03:47.500",
+      "text": "还会相遇",
+      "translation": null
+    },
+    {
+      "time": 230.84,
+      "time_str": "03:50.840",
+      "text": "纯白色的心意",
+      "translation": null
+    },
+    {
+      "time": 233.68,
+      "time_str": "03:53.680",
+      "text": "咫尺间的距离",
+      "translation": null
+    },
+    {
+      "time": 235.63,
+      "time_str": "03:55.630",
+      "text": "代替我守护着你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "捕梦 - 黄子弘凡.lrc"
+}

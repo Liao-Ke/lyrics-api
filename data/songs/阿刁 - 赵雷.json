@@ -1,0 +1,226 @@
+{
+  "title": "阿刁",
+  "title_raw": "阿刁",
+  "version": null,
+  "artist": "赵雷",
+  "group_key": "阿刁|赵雷",
+  "writers": {
+    "lyricist": "赵雷",
+    "composer": "赵雷",
+    "arranger": "赵雷/喜子"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "贝斯 : 张岭",
+      "translation": null
+    },
+    {
+      "time": 6.0,
+      "time_str": "00:06.000",
+      "text": "电吉他 : 喜子",
+      "translation": null
+    },
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "箱琴 : 赵雷",
+      "translation": null
+    },
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "MIDI : 喜子/赵雷",
+      "translation": null
+    },
+    {
+      "time": 9.0,
+      "time_str": "00:09.000",
+      "text": "童声 : 朵儿",
+      "translation": null
+    },
+    {
+      "time": 47.91,
+      "time_str": "00:47.910",
+      "text": "阿刁 住在西藏的某个地方",
+      "translation": null
+    },
+    {
+      "time": 56.76,
+      "time_str": "00:56.760",
+      "text": "秃鹫一样 栖息在山顶上",
+      "translation": null
+    },
+    {
+      "time": 66.89,
+      "time_str": "01:06.890",
+      "text": "阿刁 大昭寺门前铺满阳光",
+      "translation": null
+    },
+    {
+      "time": 75.68,
+      "time_str": "01:15.680",
+      "text": "打一壶甜茶 我们聊着过往",
+      "translation": null
+    },
+    {
+      "time": 105.43,
+      "time_str": "01:45.430",
+      "text": "阿刁 你总把自己打扮的像",
+      "translation": null
+    },
+    {
+      "time": 114.16,
+      "time_str": "01:54.160",
+      "text": "男孩子一样 可比格桑还顽强",
+      "translation": null
+    },
+    {
+      "time": 124.32,
+      "time_str": "02:04.320",
+      "text": "阿刁 狡猾的人有千百种笑",
+      "translation": null
+    },
+    {
+      "time": 133.37,
+      "time_str": "02:13.370",
+      "text": "你何时下山 记得带上卓玛刀",
+      "translation": null
+    },
+    {
+      "time": 142.99,
+      "time_str": "02:22.990",
+      "text": "灰色帽檐下 凹陷的脸颊",
+      "translation": null
+    },
+    {
+      "time": 147.6,
+      "time_str": "02:27.600",
+      "text": "你很少说话 简单的回答",
+      "translation": null
+    },
+    {
+      "time": 152.41,
+      "time_str": "02:32.410",
+      "text": "明天在哪里 谁会在意你",
+      "translation": null
+    },
+    {
+      "time": 157.18,
+      "time_str": "02:37.180",
+      "text": "即使死在路上格桑 妮可 阿七 石榴 东措 大冰 安子 浮游 赵雷 三文鱼 浩子 小友 卓玛 阿达 彬子 回锅肉",
+      "translation": null
+    },
+    {
+      "time": 201.35,
+      "time_str": "03:21.350",
+      "text": "阿刁 明天是否能吃顿饱饭",
+      "translation": null
+    },
+    {
+      "time": 210.46,
+      "time_str": "03:30.460",
+      "text": "你已习惯 饥饿是一种信仰",
+      "translation": null
+    },
+    {
+      "time": 220.53,
+      "time_str": "03:40.530",
+      "text": "阿刁 不会被现实磨平棱角",
+      "translation": null
+    },
+    {
+      "time": 229.38,
+      "time_str": "03:49.380",
+      "text": "你不是这世界的人 没必要在乎真相",
+      "translation": null
+    },
+    {
+      "time": 239.26,
+      "time_str": "03:59.260",
+      "text": "命运多舛 痴迷 淡然",
+      "translation": null
+    },
+    {
+      "time": 243.59,
+      "time_str": "04:03.590",
+      "text": "挥别了青春 数不尽的车站",
+      "translation": null
+    },
+    {
+      "time": 248.35,
+      "time_str": "04:08.350",
+      "text": "甘于平凡却不甘平凡的腐烂",
+      "translation": null
+    },
+    {
+      "time": 253.26,
+      "time_str": "04:13.260",
+      "text": "你是阿刁 你是自由的鸟",
+      "translation": null
+    },
+    {
+      "time": 277.27,
+      "time_str": "04:37.270",
+      "text": "灰色帽檐下 凹陷的脸颊",
+      "translation": null
+    },
+    {
+      "time": 281.84,
+      "time_str": "04:41.840",
+      "text": "你很少说话 简单的回答",
+      "translation": null
+    },
+    {
+      "time": 286.57,
+      "time_str": "04:46.570",
+      "text": "明天在哪里 谁会在意你",
+      "translation": null
+    },
+    {
+      "time": 291.46,
+      "time_str": "04:51.460",
+      "text": "即使死在路上",
+      "translation": null
+    },
+    {
+      "time": 296.3,
+      "time_str": "04:56.300",
+      "text": "命运多舛 痴迷 淡然",
+      "translation": null
+    },
+    {
+      "time": 300.93,
+      "time_str": "05:00.930",
+      "text": "挥别了青春 数不尽的车站",
+      "translation": null
+    },
+    {
+      "time": 305.75,
+      "time_str": "05:05.750",
+      "text": "甘于平凡却不甘平凡的腐烂",
+      "translation": null
+    },
+    {
+      "time": 310.61,
+      "time_str": "05:10.610",
+      "text": "你是阿刁",
+      "translation": null
+    },
+    {
+      "time": 345.32,
+      "time_str": "05:45.320",
+      "text": "阿刁 爱情是粒悲伤的种子",
+      "translation": null
+    },
+    {
+      "time": 353.75,
+      "time_str": "05:53.750",
+      "text": "你是一棵树 你永远都不会枯",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "阿刁 - 赵雷.lrc"
+}

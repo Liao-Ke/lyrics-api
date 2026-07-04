@@ -1,0 +1,196 @@
+{
+  "title": "当你",
+  "title_raw": "当你",
+  "version": null,
+  "artist": "林俊杰",
+  "group_key": "当你|林俊杰",
+  "writers": {
+    "lyricist": "张思尔",
+    "composer": "林俊杰",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 0.71,
+      "time_str": "00:00.710",
+      "text": "当你",
+      "translation": null
+    },
+    {
+      "time": 4.47,
+      "time_str": "00:04.470",
+      "text": "演唱：林俊杰",
+      "translation": null
+    },
+    {
+      "time": 14.7,
+      "time_str": "00:14.700",
+      "text": "如果有一天 我回到从前",
+      "translation": null
+    },
+    {
+      "time": 20.53,
+      "time_str": "00:20.530",
+      "text": "回到最原始的我",
+      "translation": null
+    },
+    {
+      "time": 24.91,
+      "time_str": "00:24.910",
+      "text": "你是否 会觉得我不错",
+      "translation": null
+    },
+    {
+      "time": 29.36,
+      "time_str": "00:29.360",
+      "text": "如果有一天 我离你遥远",
+      "translation": null
+    },
+    {
+      "time": 34.09,
+      "time_str": "00:34.090",
+      "text": "不能再和你相约",
+      "translation": null
+    },
+    {
+      "time": 39.22,
+      "time_str": "00:39.220",
+      "text": "你是否会发觉 我已经说再见",
+      "translation": null
+    },
+    {
+      "time": 46.78,
+      "time_str": "00:46.780",
+      "text": "当你的眼睛 眯着笑 当你喝可乐 当你吵",
+      "translation": null
+    },
+    {
+      "time": 53.9,
+      "time_str": "00:53.900",
+      "text": "我想对你好 你从来不知道 想你 想你 也能成为嗜好",
+      "translation": null
+    },
+    {
+      "time": 61.13,
+      "time_str": "01:01.130",
+      "text": "当你说今天的烦恼 当你说夜深 你睡不着",
+      "translation": null
+    },
+    {
+      "time": 68.28,
+      "time_str": "01:08.280",
+      "text": "我想对你说 却害怕都说错 好喜欢你 知不知道",
+      "translation": null
+    },
+    {
+      "time": 83.31,
+      "time_str": "01:23.310",
+      "text": "如果有一天 梦想都实现",
+      "translation": null
+    },
+    {
+      "time": 88.68,
+      "time_str": "01:28.680",
+      "text": "回忆都成了永远 你是否还会 记得今天",
+      "translation": null
+    },
+    {
+      "time": 97.43,
+      "time_str": "01:37.430",
+      "text": "如果有一天 我们都发觉",
+      "translation": null
+    },
+    {
+      "time": 102.28,
+      "time_str": "01:42.280",
+      "text": "原来什么都可以 我们是否还会 停留在这里",
+      "translation": null
+    },
+    {
+      "time": 114.79,
+      "time_str": "01:54.790",
+      "text": "当你的眼睛 眯着笑 当你喝可乐 当你吵",
+      "translation": null
+    },
+    {
+      "time": 121.96,
+      "time_str": "02:01.960",
+      "text": "我想对你好 你从来不知道 想你 想你 也能成为嗜好",
+      "translation": null
+    },
+    {
+      "time": 129.14,
+      "time_str": "02:09.140",
+      "text": "当你说今天的烦恼 当你说夜深 你睡不着",
+      "translation": null
+    },
+    {
+      "time": 136.38,
+      "time_str": "02:16.380",
+      "text": "我想对你说 却害怕都说错 好喜欢你 知不知道",
+      "translation": null
+    },
+    {
+      "time": 158.44,
+      "time_str": "02:38.440",
+      "text": "也许空虚 让我想得太多 也许该回到被窝",
+      "translation": null
+    },
+    {
+      "time": 165.06,
+      "time_str": "02:45.060",
+      "text": "梦里会相遇 就毫不犹豫 大声的说我要说",
+      "translation": null
+    },
+    {
+      "time": 172.37,
+      "time_str": "02:52.370",
+      "text": "当你的眼睛 眯着笑 当你喝可乐 当你吵",
+      "translation": null
+    },
+    {
+      "time": 179.37,
+      "time_str": "02:59.370",
+      "text": "我想对你好 你从来不知道 想你 想你 也能成为嗜好",
+      "translation": null
+    },
+    {
+      "time": 186.48,
+      "time_str": "03:06.480",
+      "text": "当你说今天的烦恼 当你说夜深 你睡不着",
+      "translation": null
+    },
+    {
+      "time": 193.66,
+      "time_str": "03:13.660",
+      "text": "我想对你说 却害怕都说错 好喜欢你 知不知道",
+      "translation": null
+    },
+    {
+      "time": 201.07,
+      "time_str": "03:21.070",
+      "text": "当你的眼睛 眯着笑 当你喝可乐 当你吵",
+      "translation": null
+    },
+    {
+      "time": 207.87,
+      "time_str": "03:27.870",
+      "text": "我想对你好 你从来不知道 想你 想你 也能成为嗜好",
+      "translation": null
+    },
+    {
+      "time": 215.06,
+      "time_str": "03:35.060",
+      "text": "啦 ~ ~ ~ 啦 ~ ~ ~",
+      "translation": null
+    },
+    {
+      "time": 222.4,
+      "time_str": "03:42.400",
+      "text": "我想对你说 却害怕都说错 好喜欢你 知不知道",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "当你 - 林俊杰.lrc"
+}

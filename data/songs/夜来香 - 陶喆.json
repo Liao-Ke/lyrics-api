@@ -1,0 +1,280 @@
+{
+  "title": "夜来香",
+  "title_raw": "夜来香",
+  "version": null,
+  "artist": "陶喆",
+  "group_key": "夜来香|陶喆",
+  "writers": {
+    "lyricist": "黎锦光",
+    "composer": "黎锦光",
+    "arranger": "陶喆"
+  },
+  "lyrics": [
+    {
+      "time": 9.762,
+      "time_str": "00:09.762",
+      "text": "那南风吹来清凉",
+      "translation": null
+    },
+    {
+      "time": 13.651,
+      "time_str": "00:13.651",
+      "text": "那夜莺啼声齐唱",
+      "translation": null
+    },
+    {
+      "time": 17.834,
+      "time_str": "00:17.834",
+      "text": "月下的花儿入梦",
+      "translation": null
+    },
+    {
+      "time": 20.582,
+      "time_str": "00:20.582",
+      "text": "只有那夜来香",
+      "translation": null
+    },
+    {
+      "time": 23.525,
+      "time_str": "00:23.525",
+      "text": "吐露着芬芳",
+      "translation": null
+    },
+    {
+      "time": 28.38,
+      "time_str": "00:28.380",
+      "text": "我爱这夜色茫茫",
+      "translation": null
+    },
+    {
+      "time": 32.333,
+      "time_str": "00:32.333",
+      "text": "也爱那夜莺歌唱",
+      "translation": null
+    },
+    {
+      "time": 36.376,
+      "time_str": "00:36.376",
+      "text": "更爱那花一般的梦",
+      "translation": null
+    },
+    {
+      "time": 39.48,
+      "time_str": "00:39.480",
+      "text": "拥抱着夜来香",
+      "translation": null
+    },
+    {
+      "time": 42.27,
+      "time_str": "00:42.270",
+      "text": "吻着夜来香",
+      "translation": null
+    },
+    {
+      "time": 47.344,
+      "time_str": "00:47.344",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 50.923,
+      "time_str": "00:50.923",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 55.532,
+      "time_str": "00:55.532",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 59.0,
+      "time_str": "00:59.000",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 65.79,
+      "time_str": "01:05.790",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 69.983,
+      "time_str": "01:09.983",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 90.355,
+      "time_str": "01:30.355",
+      "text": "我爱这夜色茫茫",
+      "translation": null
+    },
+    {
+      "time": 94.514,
+      "time_str": "01:34.514",
+      "text": "也爱那夜莺歌唱",
+      "translation": null
+    },
+    {
+      "time": 98.67,
+      "time_str": "01:38.670",
+      "text": "更爱那花一般的梦",
+      "translation": null
+    },
+    {
+      "time": 102.175,
+      "time_str": "01:42.175",
+      "text": "拥抱着夜来香",
+      "translation": null
+    },
+    {
+      "time": 104.512,
+      "time_str": "01:44.512",
+      "text": "吻着夜来香",
+      "translation": null
+    },
+    {
+      "time": 109.638,
+      "time_str": "01:49.638",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 113.393,
+      "time_str": "01:53.393",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 118.08,
+      "time_str": "01:58.080",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 121.134,
+      "time_str": "02:01.134",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 127.608,
+      "time_str": "02:07.608",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 131.796,
+      "time_str": "02:11.796",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 169.899,
+      "time_str": "02:49.899",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 172.919,
+      "time_str": "02:52.919",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 177.544,
+      "time_str": "02:57.544",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 181.272,
+      "time_str": "03:01.272",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 186.634,
+      "time_str": "03:06.634",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 190.623,
+      "time_str": "03:10.623",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 195.845,
+      "time_str": "03:15.845",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 200.507,
+      "time_str": "03:20.507",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 205.927,
+      "time_str": "03:25.927",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 210.466,
+      "time_str": "03:30.466",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 217.807,
+      "time_str": "03:37.807",
+      "text": "我为你歌唱",
+      "translation": null
+    },
+    {
+      "time": 222.751,
+      "time_str": "03:42.751",
+      "text": "我为你思量",
+      "translation": null
+    },
+    {
+      "time": 228.961,
+      "time_str": "03:48.961",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 231.951,
+      "time_str": "03:51.951",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 234.301,
+      "time_str": "03:54.301",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 236.531,
+      "time_str": "03:56.531",
+      "text": "夜来香",
+      "translation": null
+    },
+    {
+      "time": 239.391,
+      "time_str": "03:59.391",
+      "text": "夜来香",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "夜来香 - 陶喆.lrc"
+}

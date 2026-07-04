@@ -1,0 +1,256 @@
+{
+  "title": "Aloha Heja He",
+  "title_raw": "Aloha Heja He",
+  "version": null,
+  "artist": "Achim Reichel",
+  "group_key": "aloha heja he|achim reichel",
+  "writers": {
+    "lyricist": "Achim Reichel",
+    "composer": "Achim Reichel",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.93,
+      "time_str": "00:18.930",
+      "text": "Hab' die ganze Welt geseh'n",
+      "translation": "我曾看过整个世界"
+    },
+    {
+      "time": 22.72,
+      "time_str": "00:22.720",
+      "text": "Von Singapur bis Aberdeen",
+      "translation": "从新加坡到阿伯丁"
+    },
+    {
+      "time": 27.38,
+      "time_str": "00:27.380",
+      "text": "Wenn du mich fragst wo's am schönsten war",
+      "translation": "你要问我哪里最美"
+    },
+    {
+      "time": 31.85,
+      "time_str": "00:31.850",
+      "text": "Sag' ich Sansibar!",
+      "translation": "我会说是桑给巴尔"
+    },
+    {
+      "time": 36.19,
+      "time_str": "00:36.190",
+      "text": "Es war 'ne harte überfahrt –",
+      "translation": "那曾经是一段艰难的旅程"
+    },
+    {
+      "time": 40.29,
+      "time_str": "00:40.290",
+      "text": "Zehn Wochen nur das Deck geschrubbt",
+      "translation": "十个星期都在海浪中浮沉"
+    },
+    {
+      "time": 44.03,
+      "time_str": "00:44.030",
+      "text": "Hab' die Welt verflucht",
+      "translation": "我曾诅咒世界"
+    },
+    {
+      "time": 46.04,
+      "time_str": "00:46.040",
+      "text": "In den Wind gespuckt",
+      "translation": "曾对暴风唾骂"
+    },
+    {
+      "time": 49.81,
+      "time_str": "00:49.810",
+      "text": "Und salziges Wasser geschluckt!",
+      "translation": "也吞下过咸涩海水"
+    },
+    {
+      "time": 62.18,
+      "time_str": "01:02.180",
+      "text": "Als wir den Anker warfen war es himmlische Ruh'",
+      "translation": "当我们抛下锚后 是极其美妙的平静"
+    },
+    {
+      "time": 66.0,
+      "time_str": "01:06.000",
+      "text": "Und die Sonne stand senkrecht am Himmel",
+      "translation": "阳光也重新照耀我们"
+    },
+    {
+      "time": 70.47,
+      "time_str": "01:10.470",
+      "text": "Als ich über die Reeling sah",
+      "translation": "绞盘后我看到"
+    },
+    {
+      "time": 71.51,
+      "time_str": "01:11.510",
+      "text": "Da glaubte ich zu träumen –",
+      "translation": "我还以为是梦境——"
+    },
+    {
+      "time": 74.46,
+      "time_str": "01:14.460",
+      "text": "Da war'n tausend Boote und sie hielten auf uns zu!",
+      "translation": "那是数千艘船 朝着我们驶来"
+    },
+    {
+      "time": 79.57,
+      "time_str": "01:19.570",
+      "text": "In den Booten waren Männer und Frau'n",
+      "translation": "船上站着男男女女"
+    },
+    {
+      "time": 83.58,
+      "time_str": "01:23.580",
+      "text": "Ihre Leiber glänzten in der Sonne",
+      "translation": "他们的身体在阳光下引人注目"
+    },
+    {
+      "time": 87.66,
+      "time_str": "01:27.660",
+      "text": "Und sie sangen ein Lied",
+      "translation": "他们唱着一支歌"
+    },
+    {
+      "time": 89.81,
+      "time_str": "01:29.810",
+      "text": "Das kam mir seltsam bekannt vor",
+      "translation": "歌声让我感觉异常奇怪"
+    },
+    {
+      "time": 92.36,
+      "time_str": "01:32.360",
+      "text": "Aber so hab' ich's noch nie gehört",
+      "translation": "但是我却从未听过"
+    },
+    {
+      "time": 95.99,
+      "time_str": "01:35.990",
+      "text": "Uhhhh, so hab' ich's noch nie gehört!",
+      "translation": "喔，我却从未听过"
+    },
+    {
+      "time": 101.19,
+      "time_str": "01:41.190",
+      "text": "Aloha heja he – aloha heja he, aloha heja he",
+      "translation": "阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿~（这是瑞典语加油的意思）"
+    },
+    {
+      "time": 109.6,
+      "time_str": "01:49.600",
+      "text": "Aloha heja he – aloha heja he, aloha heja he",
+      "translation": "阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿~"
+    },
+    {
+      "time": 118.69,
+      "time_str": "01:58.690",
+      "text": "Ihre Boote machten längsseits fest",
+      "translation": "他们的船并排停下"
+    },
+    {
+      "time": 122.39,
+      "time_str": "02:02.390",
+      "text": "Und mit dem Wind wehte Gelächter herüber",
+      "translation": "笑声随风飘扬过来"
+    },
+    {
+      "time": 127.09,
+      "time_str": "02:07.090",
+      "text": "Sie nahmen ihre Blumenkränze ab",
+      "translation": "他们取下头上花冠"
+    },
+    {
+      "time": 130.83,
+      "time_str": "02:10.830",
+      "text": "Und warfen sie zu uns herüber",
+      "translation": "然后扔向我们"
+    },
+    {
+      "time": 134.7,
+      "time_str": "02:14.700",
+      "text": "Hehhhh, und schon war die Party im Gange!",
+      "translation": "嘿，**狂欢已经开始"
+    },
+    {
+      "time": 140.14,
+      "time_str": "02:20.140",
+      "text": "Aloha heja he – aloha heja he, aloha heja he",
+      "translation": "阿啰哈 嘿呀 嘿~"
+    },
+    {
+      "time": 148.87,
+      "time_str": "02:28.870",
+      "text": "Aloha heja he – aloha heja he, aloha heja he",
+      "translation": "阿啰哈 嘿呀 嘿~"
+    },
+    {
+      "time": 166.26,
+      "time_str": "02:46.260",
+      "text": "Ich hab' das Paradies geseh'n",
+      "translation": "我看到了天堂"
+    },
+    {
+      "time": 170.36,
+      "time_str": "02:50.360",
+      "text": "Es war um neunzehnhundertzehn!",
+      "translation": "在那1910年"
+    },
+    {
+      "time": 174.96,
+      "time_str": "02:54.960",
+      "text": "Der Steuermann hatte Matrosen am Mast",
+      "translation": "大副让水手们守在桅杆旁"
+    },
+    {
+      "time": 178.69,
+      "time_str": "02:58.690",
+      "text": "Und den Zahlmeister ha'm die Gonokokken vernascht –",
+      "translation": "军官遭受了淋球菌感染"
+    },
+    {
+      "time": 183.39,
+      "time_str": "03:03.390",
+      "text": "Aber sonst war'n wir bei bester Gesundheit!",
+      "translation": "但除此之外我们一切健康"
+    },
+    {
+      "time": 187.69,
+      "time_str": "03:07.690",
+      "text": "Aloha heja he – aloha heja he, aloha heja he",
+      "translation": "阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿~"
+    },
+    {
+      "time": 196.18,
+      "time_str": "03:16.180",
+      "text": "Aloha heja he – aloha heja he, aloha heja he",
+      "translation": "阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿~"
+    },
+    {
+      "time": 205.11,
+      "time_str": "03:25.110",
+      "text": "Aloha heja he – aloha heja he, aloha heja he",
+      "translation": "阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿~"
+    },
+    {
+      "time": 213.7,
+      "time_str": "03:33.700",
+      "text": "Aloha heja he – aloha heja he, aloha heja he",
+      "translation": "阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿~"
+    },
+    {
+      "time": 222.33,
+      "time_str": "03:42.330",
+      "text": "Aloha heja he – aloha heja he, aloha heja he",
+      "translation": "阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿~"
+    },
+    {
+      "time": 230.86,
+      "time_str": "03:50.860",
+      "text": "Aloha heja he – aloha heja he, aloha heja . . .",
+      "translation": "阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿阿啰哈嘿呀 嘿~"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Aloha Heja He - Achim Reichel.lrc"
+}

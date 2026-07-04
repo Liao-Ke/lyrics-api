@@ -1,0 +1,328 @@
+{
+  "title": "Superstar",
+  "title_raw": "Superstar",
+  "version": null,
+  "artist": "Beatrich",
+  "group_key": "superstar|beatrich",
+  "writers": {
+    "lyricist": "Beatrice Pundziute/Benas Ivanovas",
+    "composer": "Beatrice Pundziute/Benas Ivanovas",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "Love is enough for me",
+      "translation": "拥有爱情对我来说就足够了"
+    },
+    {
+      "time": 10.156,
+      "time_str": "00:10.156",
+      "text": "Paper planes will make you see",
+      "translation": "纸飞机会让你看到的"
+    },
+    {
+      "time": 14.911,
+      "time_str": "00:14.911",
+      "text": "Simplicity",
+      "translation": "最质朴的感情"
+    },
+    {
+      "time": 16.524,
+      "time_str": "00:16.524",
+      "text": "We kinda rock this bar",
+      "translation": "咱们要让这个酒吧热闹起来"
+    },
+    {
+      "time": 18.465,
+      "time_str": "00:18.465",
+      "text": "You look like a superstar",
+      "translation": "你就像巨星"
+    },
+    {
+      "time": 23.65,
+      "time_str": "00:23.650",
+      "text": "I wanna show you things I love about you",
+      "translation": "我想告诉你 我爱你的原因"
+    },
+    {
+      "time": 26.328,
+      "time_str": "00:26.328",
+      "text": "Holding hands and feeling so cool",
+      "translation": "抓住你的手 感觉有些冰凉"
+    },
+    {
+      "time": 28.456,
+      "time_str": "00:28.456",
+      "text": "All the things I love about you or",
+      "translation": "爱你的原因 又或者是吻你"
+    },
+    {
+      "time": 32.485,
+      "time_str": "00:32.485",
+      "text": "Sharing lips and kiss anytime",
+      "translation": "随时随刻接吻"
+    },
+    {
+      "time": 34.6,
+      "time_str": "00:34.600",
+      "text": "You're so nice to make me feel right",
+      "translation": "你如此美好 令我为你心动"
+    },
+    {
+      "time": 36.667,
+      "time_str": "00:36.667",
+      "text": "Giving looks and dancing all night",
+      "translation": "双眼望着你 彻夜狂欢起舞"
+    },
+    {
+      "time": 41.612,
+      "time_str": "00:41.612",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 45.57,
+      "time_str": "00:45.570",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 49.849,
+      "time_str": "00:49.849",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 53.948,
+      "time_str": "00:53.948",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 58.13,
+      "time_str": "00:58.130",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 62.272,
+      "time_str": "01:02.272",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 66.4,
+      "time_str": "01:06.400",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 70.622,
+      "time_str": "01:10.622",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 74.885,
+      "time_str": "01:14.885",
+      "text": "I chose to running now",
+      "translation": "现在我要奔跑"
+    },
+    {
+      "time": 76.842,
+      "time_str": "01:16.842",
+      "text": "Where you are or where you go",
+      "translation": "跑向你的身边 跑向你要去的地方"
+    },
+    {
+      "time": 82.088,
+      "time_str": "01:22.088",
+      "text": "Don't running no",
+      "translation": "你别逃离"
+    },
+    {
+      "time": 83.265,
+      "time_str": "01:23.265",
+      "text": "If love can make you mine",
+      "translation": "如果爱能让你成为我的爱人"
+    },
+    {
+      "time": 85.195,
+      "time_str": "01:25.195",
+      "text": "Deepest thoughts can come alive",
+      "translation": "如果最深处的想法可以成真"
+    },
+    {
+      "time": 90.228,
+      "time_str": "01:30.228",
+      "text": "I wanna show you things I love about you",
+      "translation": "我想告诉你 我爱你的原因"
+    },
+    {
+      "time": 93.067,
+      "time_str": "01:33.067",
+      "text": "Holding hands and feeling so cool",
+      "translation": "抓住你的手 感觉有些冰凉"
+    },
+    {
+      "time": 95.169,
+      "time_str": "01:35.169",
+      "text": "All the things I love about you or",
+      "translation": "爱你的原因 又或者是吻你"
+    },
+    {
+      "time": 99.405,
+      "time_str": "01:39.405",
+      "text": "Sharing lips and kiss anytime",
+      "translation": "随时随刻"
+    },
+    {
+      "time": 101.444,
+      "time_str": "01:41.444",
+      "text": "You're so nice to make me feel right",
+      "translation": "你如此美好 令我为你心动"
+    },
+    {
+      "time": 103.56,
+      "time_str": "01:43.560",
+      "text": "Giving looks and dancing all night",
+      "translation": "双眼望着你 彻夜狂欢起舞"
+    },
+    {
+      "time": 107.679,
+      "time_str": "01:47.679",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 112.323,
+      "time_str": "01:52.323",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 116.643,
+      "time_str": "01:56.643",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 120.811,
+      "time_str": "02:00.811",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 124.957,
+      "time_str": "02:04.957",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 129.108,
+      "time_str": "02:09.108",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 133.304,
+      "time_str": "02:13.304",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 137.433,
+      "time_str": "02:17.433",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 156.777,
+      "time_str": "02:36.777",
+      "text": "I wanna show you things I love about you",
+      "translation": "我想告诉你 我爱你的原因"
+    },
+    {
+      "time": 159.898,
+      "time_str": "02:39.898",
+      "text": "Holding hands and feeling so cool",
+      "translation": "抓住你的手 感觉有些冰凉"
+    },
+    {
+      "time": 161.898,
+      "time_str": "02:41.898",
+      "text": "All the things I love about you or",
+      "translation": "爱你的原因 又或者是吻你"
+    },
+    {
+      "time": 165.841,
+      "time_str": "02:45.841",
+      "text": "Sharing lips and kiss anytime",
+      "translation": "随时随刻接吻"
+    },
+    {
+      "time": 168.259,
+      "time_str": "02:48.259",
+      "text": "You're so nice to make me feel right",
+      "translation": "你如此美好 令我为你心动"
+    },
+    {
+      "time": 170.335,
+      "time_str": "02:50.335",
+      "text": "Giving looks and dancing all night",
+      "translation": "双眼望着你 彻夜狂欢起舞"
+    },
+    {
+      "time": 174.523,
+      "time_str": "02:54.523",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 179.03,
+      "time_str": "02:59.030",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 183.339,
+      "time_str": "03:03.339",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 187.407,
+      "time_str": "03:07.407",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 191.756,
+      "time_str": "03:11.756",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 195.95,
+      "time_str": "03:15.950",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    },
+    {
+      "time": 200.115,
+      "time_str": "03:20.115",
+      "text": "We are the superstars, super, super, superstars",
+      "translation": "我们是巨星"
+    },
+    {
+      "time": 204.07,
+      "time_str": "03:24.070",
+      "text": "Yeah, we the ones, who have the power",
+      "translation": "Yeah 我们就是有权有势"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Superstar - Beatrich.lrc"
+}

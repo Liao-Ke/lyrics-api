@@ -1,0 +1,226 @@
+{
+  "title": "好春光",
+  "title_raw": "好春光",
+  "version": null,
+  "artist": "吴彤",
+  "group_key": "好春光|吴彤",
+  "writers": {
+    "lyricist": "王远",
+    "composer": "钟志荣",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.85,
+      "time_str": "00:13.850",
+      "text": "好春光 不如梦一场",
+      "translation": null
+    },
+    {
+      "time": 16.88,
+      "time_str": "00:16.880",
+      "text": "梦里青草香",
+      "translation": null
+    },
+    {
+      "time": 19.85,
+      "time_str": "00:19.850",
+      "text": "你把梦想带身上",
+      "translation": null
+    },
+    {
+      "time": 23.08,
+      "time_str": "00:23.080",
+      "text": "蓝天白云 青山绿水",
+      "translation": null
+    },
+    {
+      "time": 26.9,
+      "time_str": "00:26.900",
+      "text": "还有轻风吹 斜阳",
+      "translation": null
+    },
+    {
+      "time": 32.85,
+      "time_str": "00:32.850",
+      "text": "一千年 年年花开放 天天好时光",
+      "translation": null
+    },
+    {
+      "time": 38.97,
+      "time_str": "00:38.970",
+      "text": "来一次人间也匆忙",
+      "translation": null
+    },
+    {
+      "time": 42.09,
+      "time_str": "00:42.090",
+      "text": "小风大浪 地狱天堂",
+      "translation": null
+    },
+    {
+      "time": 45.58,
+      "time_str": "00:45.580",
+      "text": "还有你的灿烂 脸庞",
+      "translation": null
+    },
+    {
+      "time": 51.77,
+      "time_str": "00:51.770",
+      "text": "开心一刻 也是地久天长",
+      "translation": null
+    },
+    {
+      "time": 55.17,
+      "time_str": "00:55.170",
+      "text": "痛痛快快 向前走决不回望",
+      "translation": null
+    },
+    {
+      "time": 58.22,
+      "time_str": "00:58.220",
+      "text": "这花开花落 一千年一切形状",
+      "translation": null
+    },
+    {
+      "time": 62.3,
+      "time_str": "01:02.300",
+      "text": "我还是自己模样",
+      "translation": null
+    },
+    {
+      "time": 64.359,
+      "time_str": "01:04.359",
+      "text": "不是神仙自己 编造的翅膀",
+      "translation": null
+    },
+    {
+      "time": 70.5,
+      "time_str": "01:10.500",
+      "text": "晃晃悠悠 飞起来 飞过四大洋",
+      "translation": null
+    },
+    {
+      "time": 78.29,
+      "time_str": "01:18.290",
+      "text": "好春光",
+      "translation": null
+    },
+    {
+      "time": 108.52,
+      "time_str": "01:48.520",
+      "text": "好春光 不如梦一场",
+      "translation": null
+    },
+    {
+      "time": 111.69,
+      "time_str": "01:51.690",
+      "text": "梦里青草香",
+      "translation": null
+    },
+    {
+      "time": 114.559,
+      "time_str": "01:54.559",
+      "text": "你把梦想带身上",
+      "translation": null
+    },
+    {
+      "time": 117.96,
+      "time_str": "01:57.960",
+      "text": "蓝天白云 青山绿水",
+      "translation": null
+    },
+    {
+      "time": 121.19,
+      "time_str": "02:01.190",
+      "text": "还有轻风吹 斜阳",
+      "translation": null
+    },
+    {
+      "time": 127.75,
+      "time_str": "02:07.750",
+      "text": "一千年 年年花开放 天天好时光",
+      "translation": null
+    },
+    {
+      "time": 133.87,
+      "time_str": "02:13.870",
+      "text": "来一次人间也匆忙",
+      "translation": null
+    },
+    {
+      "time": 136.99,
+      "time_str": "02:16.990",
+      "text": "小风大浪 地狱天堂",
+      "translation": null
+    },
+    {
+      "time": 140.48,
+      "time_str": "02:20.480",
+      "text": "还有你的灿烂 脸庞",
+      "translation": null
+    },
+    {
+      "time": 146.97,
+      "time_str": "02:26.970",
+      "text": "开心一刻 也是地久天长",
+      "translation": null
+    },
+    {
+      "time": 150.37,
+      "time_str": "02:30.370",
+      "text": "痛痛快快 向前走决不回望",
+      "translation": null
+    },
+    {
+      "time": 153.42,
+      "time_str": "02:33.420",
+      "text": "这花开花落 一千年一切形状",
+      "translation": null
+    },
+    {
+      "time": 157.5,
+      "time_str": "02:37.500",
+      "text": "我还是自己模样",
+      "translation": null
+    },
+    {
+      "time": 159.55,
+      "time_str": "02:39.550",
+      "text": "不是神仙自己 编造的翅膀",
+      "translation": null
+    },
+    {
+      "time": 164.8,
+      "time_str": "02:44.800",
+      "text": "晃晃悠悠 飞起来 飞过四大洋",
+      "translation": null
+    },
+    {
+      "time": 174.09,
+      "time_str": "02:54.090",
+      "text": "好春光",
+      "translation": null
+    },
+    {
+      "time": 203.42,
+      "time_str": "03:23.420",
+      "text": "不是神仙自己 编造的翅膀",
+      "translation": null
+    },
+    {
+      "time": 212.59,
+      "time_str": "03:32.590",
+      "text": "晃晃悠悠 飞起来 飞过四大洋",
+      "translation": null
+    },
+    {
+      "time": 215.45,
+      "time_str": "03:35.450",
+      "text": "好春光",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "好春光 - 吴彤.lrc"
+}

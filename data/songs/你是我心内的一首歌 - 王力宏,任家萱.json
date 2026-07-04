@@ -1,0 +1,220 @@
+{
+  "title": "你是我心内的一首歌",
+  "title_raw": "你是我心内的一首歌",
+  "version": null,
+  "artist": "王力宏,任家萱",
+  "group_key": "你是我心内的一首歌|王力宏,任家萱",
+  "writers": {
+    "lyricist": "丁晓雯",
+    "composer": "王力宏",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 9.51,
+      "time_str": "00:09.510",
+      "text": "王力宏：你是我心内的一首歌",
+      "translation": null
+    },
+    {
+      "time": 14.45,
+      "time_str": "00:14.450",
+      "text": "王力宏：心间开启花一朵",
+      "translation": null
+    },
+    {
+      "time": 17.25,
+      "time_str": "00:17.250",
+      "text": "任家萱：你是我生命的一首歌",
+      "translation": null
+    },
+    {
+      "time": 21.29,
+      "time_str": "00:21.290",
+      "text": "任家萱：想念汇成一条河",
+      "translation": null
+    },
+    {
+      "time": 26.78,
+      "time_str": "00:26.780",
+      "text": "王力宏：点在我心内的一首歌",
+      "translation": null
+    },
+    {
+      "time": 32.57,
+      "time_str": "00:32.570",
+      "text": "王力宏：不要只是个过客",
+      "translation": null
+    },
+    {
+      "time": 35.54,
+      "time_str": "00:35.540",
+      "text": "任家萱：在我生命留下一首歌",
+      "translation": null
+    },
+    {
+      "time": 39.86,
+      "time_str": "00:39.860",
+      "text": "任家萱：不论结局会如何",
+      "translation": null
+    },
+    {
+      "time": 46.13,
+      "time_str": "00:46.130",
+      "text": "合：好想问你",
+      "translation": null
+    },
+    {
+      "time": 51.22,
+      "time_str": "00:51.220",
+      "text": "合：对我到底有没有动心",
+      "translation": null
+    },
+    {
+      "time": 56.5,
+      "time_str": "00:56.500",
+      "text": "合：沉默太久",
+      "translation": null
+    },
+    {
+      "time": 61.41,
+      "time_str": "01:01.410",
+      "text": "任家萱：只会让我不小心犯错",
+      "translation": null
+    },
+    {
+      "time": 65.22,
+      "time_str": "01:05.220",
+      "text": "王力宏：不小心犯错",
+      "translation": null
+    },
+    {
+      "time": 67.76,
+      "time_str": "01:07.760",
+      "text": "任家萱：点在我心内的一首歌",
+      "translation": null
+    },
+    {
+      "time": 72.14,
+      "time_str": "01:12.140",
+      "text": "任家萱：不要只是个过客",
+      "translation": null
+    },
+    {
+      "time": 75.26,
+      "time_str": "01:15.260",
+      "text": "王力宏：在我生命留下一首歌",
+      "translation": null
+    },
+    {
+      "time": 80.54,
+      "time_str": "01:20.540",
+      "text": "王力宏：不论结局会如何",
+      "translation": null
+    },
+    {
+      "time": 104.13,
+      "time_str": "01:44.130",
+      "text": "合：你是我心内的一首歌",
+      "translation": null
+    },
+    {
+      "time": 109.17,
+      "time_str": "01:49.170",
+      "text": "合：心间开启花一朵",
+      "translation": null
+    },
+    {
+      "time": 112.1,
+      "time_str": "01:52.100",
+      "text": "合：你是我生命的一首歌",
+      "translation": null
+    },
+    {
+      "time": 117.25,
+      "time_str": "01:57.250",
+      "text": "任家萱：想念汇成一条河",
+      "translation": null
+    },
+    {
+      "time": 121.17,
+      "time_str": "02:01.170",
+      "text": "王力宏：想念汇成一条河",
+      "translation": null
+    },
+    {
+      "time": 123.04,
+      "time_str": "02:03.040",
+      "text": "任家萱：好想问你",
+      "translation": null
+    },
+    {
+      "time": 125.5,
+      "time_str": "02:05.500",
+      "text": "王力宏：好想问你",
+      "translation": null
+    },
+    {
+      "time": 128.05,
+      "time_str": "02:08.050",
+      "text": "任家萱：对我到底有没有动心",
+      "translation": null
+    },
+    {
+      "time": 130.91,
+      "time_str": "02:10.910",
+      "text": "王力宏：对我到底有没有动心",
+      "translation": null
+    },
+    {
+      "time": 133.49,
+      "time_str": "02:13.490",
+      "text": "任家萱：沉默太久",
+      "translation": null
+    },
+    {
+      "time": 135.92,
+      "time_str": "02:15.920",
+      "text": "王力宏：沉默太久",
+      "translation": null
+    },
+    {
+      "time": 138.66,
+      "time_str": "02:18.660",
+      "text": "任家萱：只会让我不小心犯错",
+      "translation": null
+    },
+    {
+      "time": 141.48,
+      "time_str": "02:21.480",
+      "text": "王力宏：不小心犯错",
+      "translation": null
+    },
+    {
+      "time": 143.7,
+      "time_str": "02:23.700",
+      "text": "合：点在我心内的一首歌",
+      "translation": null
+    },
+    {
+      "time": 148.62,
+      "time_str": "02:28.620",
+      "text": "合：不要只是个过客",
+      "translation": null
+    },
+    {
+      "time": 151.6,
+      "time_str": "02:31.600",
+      "text": "合：在我生命留下一首歌",
+      "translation": null
+    },
+    {
+      "time": 156.79,
+      "time_str": "02:36.790",
+      "text": "合：不论结局会如何",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你是我心内的一首歌 - 王力宏,任家萱.lrc"
+}

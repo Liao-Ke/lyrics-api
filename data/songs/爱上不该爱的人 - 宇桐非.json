@@ -1,0 +1,256 @@
+{
+  "title": "爱上不该爱的人",
+  "title_raw": "爱上不该爱的人",
+  "version": null,
+  "artist": "宇桐非",
+  "group_key": "爱上不该爱的人|宇桐非",
+  "writers": {
+    "lyricist": "宇桐非",
+    "composer": "宇桐非",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.57,
+      "time_str": "00:24.57",
+      "text": "爱多深 伤就多深",
+      "translation": null
+    },
+    {
+      "time": 28.32,
+      "time_str": "00:28.32",
+      "text": "情多真 痛就多真",
+      "translation": null
+    },
+    {
+      "time": 31.89,
+      "time_str": "00:31.89",
+      "text": "一场没有结果的爱情",
+      "translation": null
+    },
+    {
+      "time": 35.43,
+      "time_str": "00:35.43",
+      "text": "总让我欲罢不能",
+      "translation": null
+    },
+    {
+      "time": 39.14,
+      "time_str": "00:39.14",
+      "text": "总是在午夜时分",
+      "translation": null
+    },
+    {
+      "time": 42.45,
+      "time_str": "00:42.45",
+      "text": "期待黎明的来临",
+      "translation": null
+    },
+    {
+      "time": 45.91,
+      "time_str": "00:45.91",
+      "text": "因为梦里总有你在",
+      "translation": null
+    },
+    {
+      "time": 49.42,
+      "time_str": "00:49.42",
+      "text": "我曾经深爱着的女人",
+      "translation": null
+    },
+    {
+      "time": 55.84,
+      "time_str": "00:55.84",
+      "text": "我爱上一个不该爱的人",
+      "translation": null
+    },
+    {
+      "time": 59.43,
+      "time_str": "00:59.43",
+      "text": "却是我今生最爱的女人",
+      "translation": null
+    },
+    {
+      "time": 62.99,
+      "time_str": "01:02.99",
+      "text": "看着你流泪我会伤心",
+      "translation": null
+    },
+    {
+      "time": 66.97,
+      "time_str": "01:06.97",
+      "text": "别再问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 70.0,
+      "time_str": "01:10.00",
+      "text": "我爱上一个不该爱的人",
+      "translation": null
+    },
+    {
+      "time": 73.31,
+      "time_str": "01:13.31",
+      "text": "却是我今生最爱的女人",
+      "translation": null
+    },
+    {
+      "time": 77.2,
+      "time_str": "01:17.20",
+      "text": "离开你我越伤透了心",
+      "translation": null
+    },
+    {
+      "time": 80.87,
+      "time_str": "01:20.87",
+      "text": "为什么相爱的人伤害却最深",
+      "translation": null
+    },
+    {
+      "time": 105.9,
+      "time_str": "01:45.900",
+      "text": "爱多深 伤就多深",
+      "translation": null
+    },
+    {
+      "time": 109.53,
+      "time_str": "01:49.530",
+      "text": "情多真 痛就多真",
+      "translation": null
+    },
+    {
+      "time": 113.05,
+      "time_str": "01:53.050",
+      "text": "一场没有结果的爱情",
+      "translation": null
+    },
+    {
+      "time": 116.6,
+      "time_str": "01:56.600",
+      "text": "总让我欲罢不能",
+      "translation": null
+    },
+    {
+      "time": 120.23,
+      "time_str": "02:00.230",
+      "text": "总是在午夜时分",
+      "translation": null
+    },
+    {
+      "time": 123.54,
+      "time_str": "02:03.540",
+      "text": "期待黎明的来临",
+      "translation": null
+    },
+    {
+      "time": 127.02,
+      "time_str": "02:07.020",
+      "text": "因为梦里总有你在",
+      "translation": null
+    },
+    {
+      "time": 130.63,
+      "time_str": "02:10.630",
+      "text": "我曾经深爱着的女人",
+      "translation": null
+    },
+    {
+      "time": 137.4,
+      "time_str": "02:17.40",
+      "text": "我爱上一个不该爱的人",
+      "translation": null
+    },
+    {
+      "time": 140.4,
+      "time_str": "02:20.40",
+      "text": "却是我今生最爱的女人",
+      "translation": null
+    },
+    {
+      "time": 143.88,
+      "time_str": "02:23.88",
+      "text": "看着你流泪我会伤心",
+      "translation": null
+    },
+    {
+      "time": 148.13,
+      "time_str": "02:28.13",
+      "text": "别再问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 151.29,
+      "time_str": "02:31.29",
+      "text": "我爱上一个不该爱的人",
+      "translation": null
+    },
+    {
+      "time": 154.45,
+      "time_str": "02:34.45",
+      "text": "却是我今生最爱的女人",
+      "translation": null
+    },
+    {
+      "time": 158.15,
+      "time_str": "02:38.15",
+      "text": "离开你我越伤透了心",
+      "translation": null
+    },
+    {
+      "time": 162.21,
+      "time_str": "02:42.21",
+      "text": "为什么相爱的人伤害却最深",
+      "translation": null
+    },
+    {
+      "time": 168.96,
+      "time_str": "02:48.96",
+      "text": "我爱上一个不该爱的人",
+      "translation": null
+    },
+    {
+      "time": 172.16,
+      "time_str": "02:52.16",
+      "text": "却是我今生最爱的女人",
+      "translation": null
+    },
+    {
+      "time": 175.79,
+      "time_str": "02:55.790",
+      "text": "看着你流泪我会伤心",
+      "translation": null
+    },
+    {
+      "time": 179.91,
+      "time_str": "02:59.910",
+      "text": "别再问我爱你有多深",
+      "translation": null
+    },
+    {
+      "time": 183.0,
+      "time_str": "03:03.000",
+      "text": "我爱上一个不该爱的人",
+      "translation": null
+    },
+    {
+      "time": 186.34,
+      "time_str": "03:06.340",
+      "text": "却是我今生最爱的女人",
+      "translation": null
+    },
+    {
+      "time": 190.15,
+      "time_str": "03:10.150",
+      "text": "离开你我越伤透了心",
+      "translation": null
+    },
+    {
+      "time": 193.91,
+      "time_str": "03:13.910",
+      "text": "为什么相爱的人伤害却最深",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "爱上不该爱的人 - 宇桐非.lrc"
+}

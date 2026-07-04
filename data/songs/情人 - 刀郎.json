@@ -1,0 +1,250 @@
+{
+  "title": "情人",
+  "title_raw": "情人",
+  "version": null,
+  "artist": "刀郎",
+  "group_key": "情人|刀郎",
+  "writers": {
+    "lyricist": "刀郎",
+    "composer": "刀郎",
+    "arranger": "刀郎"
+  },
+  "lyrics": [
+    {
+      "time": 19.94,
+      "time_str": "00:19.940",
+      "text": "你是我的情人",
+      "translation": null
+    },
+    {
+      "time": 31.62,
+      "time_str": "00:31.620",
+      "text": "像玫瑰花一样的女人",
+      "translation": null
+    },
+    {
+      "time": 35.39,
+      "time_str": "00:35.390",
+      "text": "用你那火火的嘴唇",
+      "translation": null
+    },
+    {
+      "time": 40.18,
+      "time_str": "00:40.180",
+      "text": "让我在午夜里无尽的销魂",
+      "translation": null
+    },
+    {
+      "time": 45.91,
+      "time_str": "00:45.910",
+      "text": "让我在午夜里无尽的销魂",
+      "translation": null
+    },
+    {
+      "time": 46.23,
+      "time_str": "00:46.230",
+      "text": "你是我的爱人",
+      "translation": null
+    },
+    {
+      "time": 49.02,
+      "time_str": "00:49.020",
+      "text": "你是我的爱人",
+      "translation": null
+    },
+    {
+      "time": 51.6,
+      "time_str": "00:51.600",
+      "text": "像百合花一样的清纯",
+      "translation": null
+    },
+    {
+      "time": 53.54,
+      "time_str": "00:53.540",
+      "text": "像百合花一样的清纯",
+      "translation": null
+    },
+    {
+      "time": 56.77,
+      "time_str": "00:56.770",
+      "text": "用你那淡淡的体温",
+      "translation": null
+    },
+    {
+      "time": 59.52,
+      "time_str": "00:59.520",
+      "text": "用你那淡淡的体温",
+      "translation": null
+    },
+    {
+      "time": 61.529,
+      "time_str": "01:01.529",
+      "text": "抚平我心中那多情的伤痕",
+      "translation": null
+    },
+    {
+      "time": 68.388,
+      "time_str": "01:08.388",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 72.578,
+      "time_str": "01:12.578",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 76.28,
+      "time_str": "01:16.280",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 80.06,
+      "time_str": "01:20.060",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 85.709,
+      "time_str": "01:25.709",
+      "text": "我梦中的情人",
+      "translation": null
+    },
+    {
+      "time": 87.79,
+      "time_str": "01:27.790",
+      "text": "我梦中的情人",
+      "translation": null
+    },
+    {
+      "time": 90.43,
+      "time_str": "01:30.430",
+      "text": "忘不了甜蜜的香吻",
+      "translation": null
+    },
+    {
+      "time": 92.489,
+      "time_str": "01:32.489",
+      "text": "忘不了甜蜜的香吻",
+      "translation": null
+    },
+    {
+      "time": 94.269,
+      "time_str": "01:34.269",
+      "text": "每一个动情的眼神",
+      "translation": null
+    },
+    {
+      "time": 97.159,
+      "time_str": "01:37.159",
+      "text": "每一个动情的眼神",
+      "translation": null
+    },
+    {
+      "time": 99.92,
+      "time_str": "01:39.920",
+      "text": "都让我融化在你无边的温存",
+      "translation": null
+    },
+    {
+      "time": 107.409,
+      "time_str": "01:47.409",
+      "text": "你是我的情人",
+      "translation": null
+    },
+    {
+      "time": 111.269,
+      "time_str": "01:51.269",
+      "text": "像玫瑰花一样的女人",
+      "translation": null
+    },
+    {
+      "time": 116.18,
+      "time_str": "01:56.180",
+      "text": "用你那火火的嘴唇",
+      "translation": null
+    },
+    {
+      "time": 120.909,
+      "time_str": "02:00.909",
+      "text": "让我在午夜里无尽的销魂",
+      "translation": null
+    },
+    {
+      "time": 127.75,
+      "time_str": "02:07.750",
+      "text": "你是我的情人",
+      "translation": null
+    },
+    {
+      "time": 132.429,
+      "time_str": "02:12.429",
+      "text": "像玫瑰花一样的女人",
+      "translation": null
+    },
+    {
+      "time": 136.25,
+      "time_str": "02:16.250",
+      "text": "用你那火火的嘴唇",
+      "translation": null
+    },
+    {
+      "time": 141.849,
+      "time_str": "02:21.849",
+      "text": "让我在午夜里无尽的销魂",
+      "translation": null
+    },
+    {
+      "time": 148.239,
+      "time_str": "02:28.239",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 153.259,
+      "time_str": "02:33.259",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 157.36,
+      "time_str": "02:37.360",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 161.449,
+      "time_str": "02:41.449",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 165.78,
+      "time_str": "02:45.780",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 169.869,
+      "time_str": "02:49.869",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 174.979,
+      "time_str": "02:54.979",
+      "text": "来来来来来来",
+      "translation": null
+    },
+    {
+      "time": 178.299,
+      "time_str": "02:58.299",
+      "text": "来来来来来来",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情人 - 刀郎.lrc"
+}

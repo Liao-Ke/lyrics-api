@@ -1,0 +1,214 @@
+{
+  "title": "Apologize",
+  "title_raw": "Apologize",
+  "version": null,
+  "artist": "Timbaland,OneRepublic",
+  "group_key": "apologize|timbaland,onerepublic",
+  "writers": {
+    "lyricist": "Ryan Tedder",
+    "composer": "Ryan Tedder",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.37,
+      "time_str": "00:15.370",
+      "text": "I'm holding on your rope,",
+      "translation": "我紧抓住你给的绳索"
+    },
+    {
+      "time": 17.6,
+      "time_str": "00:17.600",
+      "text": "Got me ten feet off the ground",
+      "translation": "它将我带离地面十英尺"
+    },
+    {
+      "time": 23.23,
+      "time_str": "00:23.230",
+      "text": "And I'm hearing what you say",
+      "translation": "我听清楚你所说的话"
+    },
+    {
+      "time": 25.07,
+      "time_str": "00:25.070",
+      "text": "but I just can't make a sound",
+      "translation": "却只能无言以对"
+    },
+    {
+      "time": 31.52,
+      "time_str": "00:31.520",
+      "text": "You tell me that you need me",
+      "translation": "你告诉我 你需要我"
+    },
+    {
+      "time": 33.72,
+      "time_str": "00:33.720",
+      "text": "Then you go and cut me down, but wait",
+      "translation": "然后便将我抛下 徒留等待"
+    },
+    {
+      "time": 40.4,
+      "time_str": "00:40.400",
+      "text": "You tell me that you're sorry",
+      "translation": "你告诉我 你很抱歉"
+    },
+    {
+      "time": 42.7,
+      "time_str": "00:42.700",
+      "text": "Didn't think I'd turn around, and say.",
+      "translation": "却意料不到我会转身而来 说"
+    },
+    {
+      "time": 47.48,
+      "time_str": "00:47.480",
+      "text": "That it's too late to apologize,",
+      "translation": "道歉已经太迟了"
+    },
+    {
+      "time": 52.0,
+      "time_str": "00:52.000",
+      "text": "it's too late",
+      "translation": "它来得太晚了"
+    },
+    {
+      "time": 55.47,
+      "time_str": "00:55.470",
+      "text": "I said it's too late to apologize,",
+      "translation": "我说 道歉已经太迟了"
+    },
+    {
+      "time": 59.94,
+      "time_str": "00:59.940",
+      "text": "it's too late",
+      "translation": "那已经太迟了"
+    },
+    {
+      "time": 72.389,
+      "time_str": "01:12.389",
+      "text": "I'd take another chance, take a fall",
+      "translation": "我会抓住另一个机会 却又再一次被击倒"
+    },
+    {
+      "time": 74.93,
+      "time_str": "01:14.930",
+      "text": "Take a shot for you",
+      "translation": "我为了你酗酒而醉"
+    },
+    {
+      "time": 80.6,
+      "time_str": "01:20.600",
+      "text": "And I need you like a heart needs a beat",
+      "translation": "我需要你就像是心脏需要跳动一般"
+    },
+    {
+      "time": 83.53,
+      "time_str": "01:23.530",
+      "text": "But it's nothing new yeah yeah",
+      "translation": "但这确是已经逝之事"
+    },
+    {
+      "time": 88.53,
+      "time_str": "01:28.530",
+      "text": "I loved you with the fire red",
+      "translation": "我曾爱你到犹如飞蛾扑火"
+    },
+    {
+      "time": 91.589,
+      "time_str": "01:31.589",
+      "text": "Now it's turning blue, and you say.",
+      "translation": "现在却变成了欲熄之火令人忧郁 你说"
+    },
+    {
+      "time": 96.74,
+      "time_str": "01:36.740",
+      "text": "\"Sorry\" like the angel heaven",
+      "translation": "“对不起” 这话语犹如天堂的天使"
+    },
+    {
+      "time": 98.9,
+      "time_str": "01:38.900",
+      "text": "let me think was you",
+      "translation": "让我想到是你"
+    },
+    {
+      "time": 102.8,
+      "time_str": "01:42.800",
+      "text": "But I'm afraid.",
+      "translation": "但我却害怕着"
+    },
+    {
+      "time": 104.69,
+      "time_str": "01:44.690",
+      "text": "It's too late to apologize,",
+      "translation": "这道歉已经太迟了"
+    },
+    {
+      "time": 108.79,
+      "time_str": "01:48.790",
+      "text": "it's too late",
+      "translation": "它来得太迟了"
+    },
+    {
+      "time": 112.45,
+      "time_str": "01:52.450",
+      "text": "I said it's too late to apologize,",
+      "translation": "我说过这道歉已经太迟了"
+    },
+    {
+      "time": 116.92,
+      "time_str": "01:56.920",
+      "text": "it's too late whoa.",
+      "translation": "它来得太迟了"
+    },
+    {
+      "time": 139.26,
+      "time_str": "02:19.260",
+      "text": "It's too late to apologize,",
+      "translation": "这道歉已经太迟了"
+    },
+    {
+      "time": 143.39,
+      "time_str": "02:23.390",
+      "text": "it's too late",
+      "translation": "它来得实在是太迟了"
+    },
+    {
+      "time": 147.2,
+      "time_str": "02:27.200",
+      "text": "I said it's too late to apologize,",
+      "translation": "我说过这道歉来得太迟了"
+    },
+    {
+      "time": 151.55,
+      "time_str": "02:31.550",
+      "text": "it's too late",
+      "translation": "它来得太迟了"
+    },
+    {
+      "time": 155.5,
+      "time_str": "02:35.500",
+      "text": "I said it's too late to apologize, yeah",
+      "translation": "我说过这道歉着实是太迟了"
+    },
+    {
+      "time": 163.279,
+      "time_str": "02:43.279",
+      "text": "I said it's too late to apologize, yeah",
+      "translation": "我说过这道歉对我来说已经太迟了"
+    },
+    {
+      "time": 172.2,
+      "time_str": "02:52.200",
+      "text": "I'm holding on your rope,",
+      "translation": "我将抓住你给的绳索"
+    },
+    {
+      "time": 173.959,
+      "time_str": "02:53.959",
+      "text": "got me ten feet off the ground.",
+      "translation": "仍由它带我离开地面"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Apologize - Timbaland,OneRepublic.lrc"
+}

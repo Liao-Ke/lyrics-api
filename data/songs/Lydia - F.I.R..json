@@ -1,0 +1,184 @@
+{
+  "title": "Lydia",
+  "title_raw": "Lydia",
+  "version": null,
+  "artist": "F.I.R.",
+  "group_key": "lydia|f.i.r.",
+  "writers": {
+    "lyricist": "陈建宁/谢宥慧/Faye 詹雯婷/阿沁",
+    "composer": "陈建宁/Faye 詹雯婷/阿沁",
+    "arranger": "Terence Teo"
+  },
+  "lyrics": [
+    {
+      "time": 0.31,
+      "time_str": "00:00.310",
+      "text": "Por los momentos difíciles",
+      "translation": "因为艰难岁月"
+    },
+    {
+      "time": 2.59,
+      "time_str": "00:02.590",
+      "text": "Ya entendí que la flor más bella sería siempre para mÍ.",
+      "translation": "我才明白 最美的花只为自己盛开"
+    },
+    {
+      "time": 18.24,
+      "time_str": "00:18.240",
+      "text": "Lydia",
+      "translation": null
+    },
+    {
+      "time": 20.46,
+      "time_str": "00:20.460",
+      "text": "迷离的眼眶",
+      "translation": null
+    },
+    {
+      "time": 24.17,
+      "time_str": "00:24.170",
+      "text": "为何流浪 心碎的海洋",
+      "translation": null
+    },
+    {
+      "time": 30.09,
+      "time_str": "00:30.090",
+      "text": "受了伤 连微笑都彷徨",
+      "translation": null
+    },
+    {
+      "time": 36.04,
+      "time_str": "00:36.040",
+      "text": "Gypsy女郎 为谁而唱",
+      "translation": null
+    },
+    {
+      "time": 40.92,
+      "time_str": "00:40.920",
+      "text": "你会看见雾 看见云 看见太阳",
+      "translation": null
+    },
+    {
+      "time": 46.84,
+      "time_str": "00:46.840",
+      "text": "皲裂的大地 重复着悲伤",
+      "translation": null
+    },
+    {
+      "time": 53.16,
+      "time_str": "00:53.160",
+      "text": "他走了 带不走你的天堂",
+      "translation": null
+    },
+    {
+      "time": 59.0,
+      "time_str": "00:59.000",
+      "text": "风干后 会留下彩虹泪光",
+      "translation": null
+    },
+    {
+      "time": 64.93,
+      "time_str": "01:04.930",
+      "text": "他走了 你可以把梦留下",
+      "translation": null
+    },
+    {
+      "time": 70.89,
+      "time_str": "01:10.890",
+      "text": "总会有个地方 等待爱飞翔",
+      "translation": null
+    },
+    {
+      "time": 96.09,
+      "time_str": "01:36.090",
+      "text": "Lydia",
+      "translation": null
+    },
+    {
+      "time": 98.27,
+      "time_str": "01:38.270",
+      "text": "幸福不在远方",
+      "translation": null
+    },
+    {
+      "time": 101.97,
+      "time_str": "01:41.970",
+      "text": "开一扇窗 许下愿望",
+      "translation": null
+    },
+    {
+      "time": 106.85,
+      "time_str": "01:46.850",
+      "text": "你会感受爱 感受恨 感受原谅",
+      "translation": null
+    },
+    {
+      "time": 112.73,
+      "time_str": "01:52.730",
+      "text": "生命总不会 只充满悲伤",
+      "translation": null
+    },
+    {
+      "time": 119.04,
+      "time_str": "01:59.040",
+      "text": "他走了 带不走你的天堂",
+      "translation": null
+    },
+    {
+      "time": 124.97,
+      "time_str": "02:04.970",
+      "text": "风干后 会留下彩虹泪光",
+      "translation": null
+    },
+    {
+      "time": 130.9,
+      "time_str": "02:10.900",
+      "text": "他走了 你可以把梦留下",
+      "translation": null
+    },
+    {
+      "time": 136.83,
+      "time_str": "02:16.830",
+      "text": "总会有个地方 等待爱飞翔",
+      "translation": null
+    },
+    {
+      "time": 165.79,
+      "time_str": "02:45.790",
+      "text": "他走了 带不走你的天堂",
+      "translation": null
+    },
+    {
+      "time": 171.59,
+      "time_str": "02:51.590",
+      "text": "风干后 会留下彩虹泪光",
+      "translation": null
+    },
+    {
+      "time": 177.48,
+      "time_str": "02:57.480",
+      "text": "他走了 你可以把梦留下",
+      "translation": null
+    },
+    {
+      "time": 183.4,
+      "time_str": "03:03.400",
+      "text": "总会有个地方 等待爱飞翔",
+      "translation": null
+    },
+    {
+      "time": 196.8,
+      "time_str": "03:16.800",
+      "text": "彩虹泪光",
+      "translation": null
+    },
+    {
+      "time": 233.93,
+      "time_str": "03:53.930",
+      "text": "人声 : F.I.R.",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Lydia - F.I.R..lrc"
+}

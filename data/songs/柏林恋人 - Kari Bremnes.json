@@ -1,0 +1,196 @@
+{
+  "title": "柏林恋人",
+  "title_raw": "柏林恋人",
+  "version": null,
+  "artist": "Kari Bremnes",
+  "group_key": "柏林恋人|kari bremnes",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.73,
+      "time_str": "00:29.730",
+      "text": "Once I had a lover in Berlin",
+      "translation": "“我曾经有一个柏林恋人”"
+    },
+    {
+      "time": 36.46,
+      "time_str": "00:36.460",
+      "text": "Said a frail old woman from a table next to mine",
+      "translation": "邻桌一位瘦弱的老妇述说着，"
+    },
+    {
+      "time": 43.8,
+      "time_str": "00:43.800",
+      "text": "His voice was like an ancient violin",
+      "translation": "“他的声音像一把古老的小提琴，"
+    },
+    {
+      "time": 50.84,
+      "time_str": "00:50.840",
+      "text": "And he spoke to me  that voice  that voice",
+      "translation": "他对我说话时就是那样的，那样的声音。"
+    },
+    {
+      "time": 57.89,
+      "time_str": "00:57.890",
+      "text": "I believe they call it falling for a man",
+      "translation": "我想人们会说那是男人的堕落，"
+    },
+    {
+      "time": 65.01,
+      "time_str": "01:05.010",
+      "text": "But this falling made me fly  left me soaring to the sky",
+      "translation": "可却让我快乐得像飞上蓝天。"
+    },
+    {
+      "time": 72.75,
+      "time_str": "01:12.750",
+      "text": "There wasn any sense  there was no plan",
+      "translation": "完全发自内心，出乎预料。"
+    },
+    {
+      "time": 79.6,
+      "time_str": "01:19.600",
+      "text": "But who would trade this passion for the safety of dry land",
+      "translation": "谁又愿拿这样的情感去换平淡的安稳日子？"
+    },
+    {
+      "time": 88.81,
+      "time_str": "01:28.810",
+      "text": "Not I",
+      "translation": "我不愿，"
+    },
+    {
+      "time": 91.62,
+      "time_str": "01:31.620",
+      "text": "Not he",
+      "translation": "他也不愿。"
+    },
+    {
+      "time": 99.28,
+      "time_str": "01:39.280",
+      "text": "And we knew we had to travel far away",
+      "translation": "我们明白必须要远离，"
+    },
+    {
+      "time": 106.77,
+      "time_str": "01:46.770",
+      "text": "We know we had to disappear  were no one else could find us",
+      "translation": "消失于一个无人找到的地方。"
+    },
+    {
+      "time": 113.95,
+      "time_str": "01:53.950",
+      "text": "A sailing ship would take us from the bay",
+      "translation": "被一种离岸的激情所鼓动，"
+    },
+    {
+      "time": 120.83,
+      "time_str": "02:00.830",
+      "text": "It sails would fill with an offshore wind to blind us",
+      "translation": "我们乘着一艘帆船离开海湾。"
+    },
+    {
+      "time": 128.46,
+      "time_str": "02:08.460",
+      "text": "We gambled our security  the future for the now",
+      "translation": "只为赌一个未来，"
+    },
+    {
+      "time": 135.44,
+      "time_str": "02:15.440",
+      "text": "Sailed off towards the storm  safety east aside",
+      "translation": "一直驶向风暴，"
+    },
+    {
+      "time": 142.68,
+      "time_str": "02:22.680",
+      "text": "We gone beyond what reason would allow",
+      "translation": "将安危和理智置之度外。"
+    },
+    {
+      "time": 149.83,
+      "time_str": "02:29.830",
+      "text": "But who could tame the tidal wave and tell it where to go",
+      "translation": "而谁又能平复暗潮，告诉它何去何从？"
+    },
+    {
+      "time": 157.38,
+      "time_str": "02:37.380",
+      "text": "Not I",
+      "translation": "我不能，"
+    },
+    {
+      "time": 166.0,
+      "time_str": "02:46.000",
+      "text": "Not You",
+      "translation": "你也不能。"
+    },
+    {
+      "time": 231.16,
+      "time_str": "03:51.160",
+      "text": "Reality then brought it to an end",
+      "translation": "现实，终究还是将一切结束，”"
+    },
+    {
+      "time": 238.09,
+      "time_str": "03:58.090",
+      "text": "Said the frail old women  shaking underneath her hat",
+      "translation": "老妇在帽檐下颤抖着述说，"
+    },
+    {
+      "time": 245.59,
+      "time_str": "04:05.590",
+      "text": "A decent set of values is no friend",
+      "translation": "“所谓的正义道德都来反对。"
+    },
+    {
+      "time": 252.71,
+      "time_str": "04:12.710",
+      "text": "It reason now that blinds us  please believe",
+      "translation": "相信我，正是理智迷惑了我们，"
+    },
+    {
+      "time": 259.82,
+      "time_str": "04:19.820",
+      "text": "And passion is not willing to be steered",
+      "translation": "情感本身并不愿被改变。"
+    },
+    {
+      "time": 267.37,
+      "time_str": "04:27.370",
+      "text": "Purity alone won fill a ship wide sails",
+      "translation": "只有纯洁的爱，无法扬帆远航。"
+    },
+    {
+      "time": 274.42,
+      "time_str": "04:34.420",
+      "text": "Life will sometimes bring what we most feared",
+      "translation": "生活有时会带来我们最怕面对的，"
+    },
+    {
+      "time": 281.54,
+      "time_str": "04:41.540",
+      "text": "And who could ever say when to go or when to stay",
+      "translation": "可谁又能永远明了孰去孰留？"
+    },
+    {
+      "time": 289.7,
+      "time_str": "04:49.700",
+      "text": "Not you",
+      "translation": "你们不能，"
+    },
+    {
+      "time": 292.58,
+      "time_str": "04:52.580",
+      "text": "Not we",
+      "translation": "我们不能，"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "柏林恋人 - Kari Bremnes.lrc"
+}

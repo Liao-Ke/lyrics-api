@@ -1,0 +1,322 @@
+{
+  "title": "来生缘",
+  "title_raw": "来生缘",
+  "version": null,
+  "artist": "刘德华",
+  "group_key": "来生缘|刘德华",
+  "writers": {
+    "lyricist": "刘德华",
+    "composer": "胡伟立",
+    "arranger": "杜自持"
+  },
+  "lyrics": [
+    {
+      "time": 14.447,
+      "time_str": "00:14.447",
+      "text": "寻寻觅觅",
+      "translation": null
+    },
+    {
+      "time": 17.509,
+      "time_str": "00:17.509",
+      "text": "在无声无息中消逝",
+      "translation": null
+    },
+    {
+      "time": 21.465,
+      "time_str": "00:21.465",
+      "text": "总是找不到回忆",
+      "translation": null
+    },
+    {
+      "time": 23.874,
+      "time_str": "00:23.874",
+      "text": "找不到曾被遗忘的真实",
+      "translation": null
+    },
+    {
+      "time": 28.577,
+      "time_str": "00:28.577",
+      "text": "一生一世的过去",
+      "translation": null
+    },
+    {
+      "time": 31.647,
+      "time_str": "00:31.647",
+      "text": "你一点一滴的遗弃",
+      "translation": null
+    },
+    {
+      "time": 35.653,
+      "time_str": "00:35.653",
+      "text": "痛苦痛悲痛心痛恨痛失去你",
+      "translation": null
+    },
+    {
+      "time": 42.725,
+      "time_str": "00:42.725",
+      "text": "也许分开不容易",
+      "translation": null
+    },
+    {
+      "time": 45.554,
+      "time_str": "00:45.554",
+      "text": "也许相亲相爱不可以",
+      "translation": null
+    },
+    {
+      "time": 49.784,
+      "time_str": "00:49.784",
+      "text": "痛苦痛悲痛心痛恨痛失自己",
+      "translation": null
+    },
+    {
+      "time": 56.798,
+      "time_str": "00:56.798",
+      "text": "情深缘浅不得已",
+      "translation": null
+    },
+    {
+      "time": 59.877,
+      "time_str": "00:59.877",
+      "text": "你我也知道去珍惜",
+      "translation": null
+    },
+    {
+      "time": 63.865,
+      "time_str": "01:03.865",
+      "text": "只好等在来生里",
+      "translation": null
+    },
+    {
+      "time": 66.284,
+      "time_str": "01:06.284",
+      "text": "再踏上彼此故事的开始",
+      "translation": null
+    },
+    {
+      "time": 77.945,
+      "time_str": "01:17.945",
+      "text": "生生世世",
+      "translation": null
+    },
+    {
+      "time": 81.088,
+      "time_str": "01:21.088",
+      "text": "在无穷无尽的梦里",
+      "translation": null
+    },
+    {
+      "time": 85.06,
+      "time_str": "01:25.060",
+      "text": "偶尔翻起了日记",
+      "translation": null
+    },
+    {
+      "time": 87.44,
+      "time_str": "01:27.440",
+      "text": "翻起了你我之间的故事",
+      "translation": null
+    },
+    {
+      "time": 92.162,
+      "time_str": "01:32.162",
+      "text": "一段一段的回忆",
+      "translation": null
+    },
+    {
+      "time": 95.205,
+      "time_str": "01:35.205",
+      "text": "回忆已经没有意义",
+      "translation": null
+    },
+    {
+      "time": 99.214,
+      "time_str": "01:39.214",
+      "text": "痛苦痛悲痛心痛恨痛失去你",
+      "translation": null
+    },
+    {
+      "time": 106.258,
+      "time_str": "01:46.258",
+      "text": "也许分开不容易",
+      "translation": null
+    },
+    {
+      "time": 109.117,
+      "time_str": "01:49.117",
+      "text": "也许相亲相爱不可以",
+      "translation": null
+    },
+    {
+      "time": 113.352,
+      "time_str": "01:53.352",
+      "text": "痛苦痛悲痛心痛恨痛失自己 啊",
+      "translation": null
+    },
+    {
+      "time": 120.406,
+      "time_str": "02:00.406",
+      "text": "情深缘浅不得已",
+      "translation": null
+    },
+    {
+      "time": 123.427,
+      "time_str": "02:03.427",
+      "text": "你我也知道去珍惜",
+      "translation": null
+    },
+    {
+      "time": 127.435,
+      "time_str": "02:07.435",
+      "text": "只好等在来生里",
+      "translation": null
+    },
+    {
+      "time": 129.853,
+      "time_str": "02:09.853",
+      "text": "再踏上彼此故事的开始",
+      "translation": null
+    },
+    {
+      "time": 141.567,
+      "time_str": "02:21.567",
+      "text": "生生世世",
+      "translation": null
+    },
+    {
+      "time": 144.651,
+      "time_str": "02:24.651",
+      "text": "在无穷无尽的梦里",
+      "translation": null
+    },
+    {
+      "time": 148.67,
+      "time_str": "02:28.670",
+      "text": "偶尔翻起了日记",
+      "translation": null
+    },
+    {
+      "time": 151.062,
+      "time_str": "02:31.062",
+      "text": "翻起了你我之间的故事",
+      "translation": null
+    },
+    {
+      "time": 155.72,
+      "time_str": "02:35.720",
+      "text": "一段一段的回忆",
+      "translation": null
+    },
+    {
+      "time": 158.774,
+      "time_str": "02:38.774",
+      "text": "回忆已经没有意义",
+      "translation": null
+    },
+    {
+      "time": 162.79,
+      "time_str": "02:42.790",
+      "text": "痛苦痛悲痛心痛恨痛失去你",
+      "translation": null
+    },
+    {
+      "time": 169.829,
+      "time_str": "02:49.829",
+      "text": "也许分开不容易",
+      "translation": null
+    },
+    {
+      "time": 172.678,
+      "time_str": "02:52.678",
+      "text": "也许相亲相爱不可以",
+      "translation": null
+    },
+    {
+      "time": 176.912,
+      "time_str": "02:56.912",
+      "text": "痛苦痛悲痛心痛恨痛失自己 啊",
+      "translation": null
+    },
+    {
+      "time": 183.957,
+      "time_str": "03:03.957",
+      "text": "情深缘浅不得已",
+      "translation": null
+    },
+    {
+      "time": 187.015,
+      "time_str": "03:07.015",
+      "text": "你我也知道去珍惜",
+      "translation": null
+    },
+    {
+      "time": 191.041,
+      "time_str": "03:11.041",
+      "text": "只好等在来生里",
+      "translation": null
+    },
+    {
+      "time": 193.441,
+      "time_str": "03:13.441",
+      "text": "再踏上彼此故事的开始",
+      "translation": null
+    },
+    {
+      "time": 198.094,
+      "time_str": "03:18.094",
+      "text": "只好等在来生里",
+      "translation": null
+    },
+    {
+      "time": 200.498,
+      "time_str": "03:20.498",
+      "text": "再踏上彼此故事的开始",
+      "translation": null
+    },
+    {
+      "time": 229.533,
+      "time_str": "03:49.533",
+      "text": "制作协力 : 周治平",
+      "translation": null
+    },
+    {
+      "time": 229.949,
+      "time_str": "03:49.949",
+      "text": "制作助理 : 王双骏",
+      "translation": null
+    },
+    {
+      "time": 230.365,
+      "time_str": "03:50.365",
+      "text": "木吉他 : 苏德华",
+      "translation": null
+    },
+    {
+      "time": 230.781,
+      "time_str": "03:50.781",
+      "text": "电钢琴 : 杜自持",
+      "translation": null
+    },
+    {
+      "time": 231.197,
+      "time_str": "03:51.197",
+      "text": "合成器 : 杜自持",
+      "translation": null
+    },
+    {
+      "time": 231.613,
+      "time_str": "03:51.613",
+      "text": "贝斯 : 林志宏",
+      "translation": null
+    },
+    {
+      "time": 232.445,
+      "time_str": "03:52.445",
+      "text": "二胡 : 温金龙",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "来生缘 - 刘德华.lrc"
+}

@@ -1,0 +1,322 @@
+{
+  "title": "Eramaan Viimeinen",
+  "title_raw": "Eramaan Viimeinen",
+  "version": null,
+  "artist": "Nightwish,Jonsu,Troy Donockley",
+  "group_key": "eramaan viimeinen|nightwish,jonsu,troy donockley",
+  "writers": {
+    "lyricist": "Tuomas Holopainen",
+    "composer": "Tuomas Holopainen",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 1.5,
+      "time_str": "00:01.500",
+      "text": "Erämaan viimeinen(Jonsu)",
+      "translation": null
+    },
+    {
+      "time": 51.4,
+      "time_str": "00:51.400",
+      "text": "Nukkuu korpi, ja nyt",
+      "translation": "荒野沉睡依旧"
+    },
+    {
+      "time": 53.78,
+      "time_str": "00:53.780",
+      "text": "aatoksissain minä matkaa teen",
+      "translation": "我穿行于思绪之中"
+    },
+    {
+      "time": 56.25,
+      "time_str": "00:56.250",
+      "text": "Yli metsien, uinuvan veen",
+      "translation": "穿越丛林，趟过静水"
+    },
+    {
+      "time": 58.73,
+      "time_str": "00:58.730",
+      "text": "Kuutar taivaan yön valaisee",
+      "translation": "月之女神指引着星空"
+    },
+    {
+      "time": 61.75,
+      "time_str": "01:01.750",
+      "text": "Maalaa maiseman, pohjoisen siimeksen",
+      "translation": "点缀北绿荫下的万物"
+    },
+    {
+      "time": 65.76,
+      "time_str": "01:05.760",
+      "text": "Unta onko tää",
+      "translation": "这是梦境吗?"
+    },
+    {
+      "time": 67.71,
+      "time_str": "01:07.710",
+      "text": "Vai kuolema jossa palata sinne saan missä",
+      "translation": "还是死亡 那片我向往回归的地方"
+    },
+    {
+      "time": 72.14,
+      "time_str": "01:12.140",
+      "text": "hiillos jo luovuttaa lumen alla",
+      "translation": "星火放弃希望 甘愿被冰雪埋葬"
+    },
+    {
+      "time": 75.33,
+      "time_str": "01:15.330",
+      "text": "Kun astun maailmaan, erämaan aikaan",
+      "translation": "当我踏足此地 如今的荒野……"
+    },
+    {
+      "time": 81.37,
+      "time_str": "01:21.370",
+      "text": "Ensilumi satoi kahdesti",
+      "translation": "初雪再次降临"
+    },
+    {
+      "time": 83.82,
+      "time_str": "01:23.820",
+      "text": "Maalasi sieluni taulun /",
+      "translation": "散落在我灵魂的画卷上"
+    },
+    {
+      "time": 86.21,
+      "time_str": "01:26.210",
+      "text": "Tää jylhä kauneus ja ääretön yksinäisyys /",
+      "translation": "这份狂放的美好与无尽的孤独"
+    },
+    {
+      "time": 91.21,
+      "time_str": "01:31.210",
+      "text": "Lapsuuteni metsän, taivaan /",
+      "translation": "属于我儿时的森林和天空"
+    },
+    {
+      "time": 93.22,
+      "time_str": "01:33.220",
+      "text": "Kaikuu se haikeus halki tän matkan /",
+      "translation": "那份美好贯穿整个旅途"
+    },
+    {
+      "time": 96.48,
+      "time_str": "01:36.480",
+      "text": "Aamun tullen yö tarinansa kertoo /",
+      "translation": "当黎明破晓 黑夜诉说着它的传奇"
+    },
+    {
+      "time": 99.96,
+      "time_str": "01:39.960",
+      "text": "Jylhä on kauneus ja ääretön yksinäisyyteni /",
+      "translation": "狂放即美好 无尽的孤独"
+    },
+    {
+      "time": 104.74,
+      "time_str": "01:44.740",
+      "text": "Sitä henkeensä halajaa /",
+      "translation": "正是对灵魂的渴望"
+    },
+    {
+      "time": 107.13,
+      "time_str": "01:47.130",
+      "text": "Kehtoni hauta, hautani paikka /",
+      "translation": "我摇篮中的坟墓 埋葬我的地方"
+    },
+    {
+      "time": 110.41,
+      "time_str": "01:50.410",
+      "text": "Erämaan viimeinen on /",
+      "translation": "是荒野的最后一隅"
+    },
+    {
+      "time": 120.9,
+      "time_str": "02:00.900",
+      "text": "Minne katosivat muut /",
+      "translation": "生机都到哪里去了？"
+    },
+    {
+      "time": 122.95,
+      "time_str": "02:02.950",
+      "text": "Suon noidat, neidontornit /",
+      "translation": "沼泽女巫和她们的塔楼"
+    },
+    {
+      "time": 124.78,
+      "time_str": "02:04.780",
+      "text": "Ja varjoissa havisevat puut /",
+      "translation": "还有那幽影笼罩的针叶林"
+    },
+    {
+      "time": 128.31,
+      "time_str": "02:08.310",
+      "text": "Kielon istutin ikihankeen /",
+      "translation": "我在冰封中埋下铃兰的种子"
+    },
+    {
+      "time": 131.77,
+      "time_str": "02:11.770",
+      "text": "Ja hiljaisuuden tultua luotin tulevaan /",
+      "translation": "当寂静降临 我只能企盼未来"
+    },
+    {
+      "time": 136.98,
+      "time_str": "02:16.980",
+      "text": "Ensilumi satoi kahdesti /",
+      "translation": "初雪再次降临"
+    },
+    {
+      "time": 138.71,
+      "time_str": "02:18.710",
+      "text": "Maalasi sieluni taulun /",
+      "translation": "散落在我灵魂的画卷上"
+    },
+    {
+      "time": 141.79,
+      "time_str": "02:21.790",
+      "text": "Tää jylhä kauneus ja ääretön yksinäisyys /",
+      "translation": "这份狂放的美好与无尽的孤独"
+    },
+    {
+      "time": 145.77,
+      "time_str": "02:25.770",
+      "text": "Lapsuuteni metsän, taivaan /",
+      "translation": "属于我儿时的森林和天空"
+    },
+    {
+      "time": 148.77,
+      "time_str": "02:28.770",
+      "text": "Kaikuu se haikeus halki tän matkan /",
+      "translation": "那份美好贯穿整个旅途"
+    },
+    {
+      "time": 152.21,
+      "time_str": "02:32.210",
+      "text": "Aamun tullen yö tarinansa kertoo /",
+      "translation": "当黎明破晓 黑夜诉说着它的传奇"
+    },
+    {
+      "time": 155.55,
+      "time_str": "02:35.550",
+      "text": "Jylhä on kauneus ja ääretön yksinäisyyteni /",
+      "translation": "狂放即美好 无尽的孤独"
+    },
+    {
+      "time": 160.46,
+      "time_str": "02:40.460",
+      "text": "Sitä henkeensä halajaa /",
+      "translation": "正是对灵魂的渴望"
+    },
+    {
+      "time": 162.66,
+      "time_str": "02:42.660",
+      "text": "Kehtoni hauta, hautani paikka /",
+      "translation": "我摇篮中的坟墓 埋葬我的地方"
+    },
+    {
+      "time": 166.04,
+      "time_str": "02:46.040",
+      "text": "Erämaan viimeinen on /",
+      "translation": "是荒野的最后一隅"
+    },
+    {
+      "time": 239.54,
+      "time_str": "03:59.540",
+      "text": "Tää jylhä kauneus ja ääretön yksinäisyys /",
+      "translation": "这份狂放的美好与无尽的孤独"
+    },
+    {
+      "time": 243.33,
+      "time_str": "04:03.330",
+      "text": "Lapsuuteni metsän, taivaan /",
+      "translation": "属于我儿时的森林和天空"
+    },
+    {
+      "time": 245.96,
+      "time_str": "04:05.960",
+      "text": "Kaikuu se haikeus halki tän matkan /",
+      "translation": "那份美好贯穿整个旅途"
+    },
+    {
+      "time": 249.57,
+      "time_str": "04:09.570",
+      "text": "Aamun tullen yö tarinansa kertoo /",
+      "translation": "当黎明破晓 黑夜诉说着它的传奇"
+    },
+    {
+      "time": 253.04,
+      "time_str": "04:13.040",
+      "text": "Jylhä on kauneus ja ääretön yksinäisyyteni /",
+      "translation": "狂放即美好 无尽的孤独"
+    },
+    {
+      "time": 257.81,
+      "time_str": "04:17.810",
+      "text": "Sitä henkeensä halajaa /",
+      "translation": "正是对灵魂的渴望"
+    },
+    {
+      "time": 260.07,
+      "time_str": "04:20.070",
+      "text": "Kehtoni hauta, hautani paikka /",
+      "translation": "我摇篮中的坟墓 埋葬我的地方"
+    },
+    {
+      "time": 263.49,
+      "time_str": "04:23.490",
+      "text": "Erämaan viimeinen on /",
+      "translation": "是荒野的最后一隅"
+    },
+    {
+      "time": 267.29,
+      "time_str": "04:27.290",
+      "text": "Tää jylhä kauneus ja ääretön yksinäisyys /",
+      "translation": "这份狂放的美好与无尽的孤独"
+    },
+    {
+      "time": 270.91,
+      "time_str": "04:30.910",
+      "text": "Lapsuuteni metsän, taivaan /",
+      "translation": "属于我儿时的森林和天空"
+    },
+    {
+      "time": 273.88,
+      "time_str": "04:33.880",
+      "text": "Kaikuu se haikeus halki tän matkan /",
+      "translation": "那份美好贯穿整个旅途"
+    },
+    {
+      "time": 277.4,
+      "time_str": "04:37.400",
+      "text": "Aamun tullen yö tarinansa kertoo /",
+      "translation": "当黎明破晓 黑夜诉说着它的传奇"
+    },
+    {
+      "time": 280.88,
+      "time_str": "04:40.880",
+      "text": "Jylhä on kauneus ja ääretön yksinäisyyteni /",
+      "translation": "狂放即美好 无尽的孤独"
+    },
+    {
+      "time": 284.78,
+      "time_str": "04:44.780",
+      "text": "Sitä henkeensä halajaa /",
+      "translation": "正是对灵魂的渴望"
+    },
+    {
+      "time": 289.08,
+      "time_str": "04:49.080",
+      "text": "Kehtoni hauta, hautani paikka /",
+      "translation": "我摇篮中的坟墓 埋葬我的地方"
+    },
+    {
+      "time": 292.03,
+      "time_str": "04:52.030",
+      "text": "Erämaan viimeinen on /",
+      "translation": "是荒野的最后一隅"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Eramaan Viimeinen - Nightwish,Jonsu,Troy Donockley.lrc"
+}

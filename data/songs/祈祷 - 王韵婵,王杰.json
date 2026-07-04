@@ -1,0 +1,148 @@
+{
+  "title": "祈祷",
+  "title_raw": "祈祷",
+  "version": null,
+  "artist": "王韵婵,王杰",
+  "group_key": "祈祷|王韵婵,王杰",
+  "writers": {
+    "lyricist": "翁炳荣",
+    "composer": "日本古曲",
+    "arranger": "Ricky Ho"
+  },
+  "lyrics": [
+    {
+      "time": 32.36,
+      "time_str": "00:32.360",
+      "text": "王韵婵：让我们敲希望的钟啊",
+      "translation": null
+    },
+    {
+      "time": 38.88,
+      "time_str": "00:38.880",
+      "text": "多少祈祷在心中",
+      "translation": null
+    },
+    {
+      "time": 45.38,
+      "time_str": "00:45.380",
+      "text": "王杰：让大家看不到失败",
+      "translation": null
+    },
+    {
+      "time": 52.82,
+      "time_str": "00:52.820",
+      "text": "叫成功永远在",
+      "translation": null
+    },
+    {
+      "time": 58.06,
+      "time_str": "00:58.060",
+      "text": "王韵婵：让地球忘记了转动啊",
+      "translation": null
+    },
+    {
+      "time": 65.77,
+      "time_str": "01:05.770",
+      "text": "四季少了夏秋冬",
+      "translation": null
+    },
+    {
+      "time": 72.33,
+      "time_str": "01:12.330",
+      "text": "王杰：让宇宙关不了天窗",
+      "translation": null
+    },
+    {
+      "time": 78.8,
+      "time_str": "01:18.800",
+      "text": "叫太阳不西沉",
+      "translation": null
+    },
+    {
+      "time": 123.26,
+      "time_str": "02:03.260",
+      "text": "王杰：让欢喜代替了哀愁啊",
+      "translation": null
+    },
+    {
+      "time": 128.51,
+      "time_str": "02:08.510",
+      "text": "微笑不会再害羞",
+      "translation": null
+    },
+    {
+      "time": 135.67,
+      "time_str": "02:15.670",
+      "text": "王韵婵：让时光懂得去倒流",
+      "translation": null
+    },
+    {
+      "time": 142.59,
+      "time_str": "02:22.590",
+      "text": "叫青春不开溜",
+      "translation": null
+    },
+    {
+      "time": 148.65,
+      "time_str": "02:28.650",
+      "text": "王杰：让贫穷开始去逃亡啊",
+      "translation": null
+    },
+    {
+      "time": 155.54,
+      "time_str": "02:35.540",
+      "text": "快乐健康留四方",
+      "translation": null
+    },
+    {
+      "time": 162.59,
+      "time_str": "02:42.590",
+      "text": "王韵婵：让世界找不到黑暗",
+      "translation": null
+    },
+    {
+      "time": 168.52,
+      "time_str": "02:48.520",
+      "text": "幸福像花开放",
+      "translation": null
+    },
+    {
+      "time": 185.39,
+      "time_str": "03:05.390",
+      "text": "合：让我们敲希望的钟啊",
+      "translation": null
+    },
+    {
+      "time": 192.59,
+      "time_str": "03:12.590",
+      "text": "多少祈祷在心中",
+      "translation": null
+    },
+    {
+      "time": 199.01,
+      "time_str": "03:19.010",
+      "text": "让大家看不到失败",
+      "translation": null
+    },
+    {
+      "time": 205.53,
+      "time_str": "03:25.530",
+      "text": "叫成功永远在",
+      "translation": null
+    },
+    {
+      "time": 212.07,
+      "time_str": "03:32.070",
+      "text": "让大家看不到失败",
+      "translation": null
+    },
+    {
+      "time": 219.5,
+      "time_str": "03:39.500",
+      "text": "叫成功永远在",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "祈祷 - 王韵婵,王杰.lrc"
+}

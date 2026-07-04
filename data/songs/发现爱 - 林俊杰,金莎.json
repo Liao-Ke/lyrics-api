@@ -1,0 +1,274 @@
+{
+  "title": "发现爱",
+  "title_raw": "发现爱",
+  "version": null,
+  "artist": "林俊杰,金莎",
+  "group_key": "发现爱|林俊杰,金莎",
+  "writers": {
+    "lyricist": "林怡凤",
+    "composer": "林俊杰",
+    "arranger": "Kenn C"
+  },
+  "lyrics": [
+    {
+      "time": 12.59,
+      "time_str": "00:12.590",
+      "text": "叽叽喳喳路人小孩",
+      "translation": null
+    },
+    {
+      "time": 15.44,
+      "time_str": "00:15.440",
+      "text": "噘嘴的你站在露台",
+      "translation": null
+    },
+    {
+      "time": 18.32,
+      "time_str": "00:18.320",
+      "text": "阳光眯着眼看我们",
+      "translation": null
+    },
+    {
+      "time": 20.84,
+      "time_str": "00:20.840",
+      "text": "同时也发现爱",
+      "translation": null
+    },
+    {
+      "time": 24.33,
+      "time_str": "00:24.330",
+      "text": "嘀嘀咕咕我该不该",
+      "translation": null
+    },
+    {
+      "time": 27.28,
+      "time_str": "00:27.280",
+      "text": "让你看穿",
+      "translation": null
+    },
+    {
+      "time": 29.73,
+      "time_str": "00:29.730",
+      "text": "冰淇淋的默契就是爱",
+      "translation": null
+    },
+    {
+      "time": 36.14,
+      "time_str": "00:36.140",
+      "text": "浓郁香草 巧克玛瑙",
+      "translation": null
+    },
+    {
+      "time": 41.89,
+      "time_str": "00:41.890",
+      "text": "不觉中悄悄融化了",
+      "translation": null
+    },
+    {
+      "time": 44.81,
+      "time_str": "00:44.810",
+      "text": "变成最幸福的味道",
+      "translation": null
+    },
+    {
+      "time": 47.84,
+      "time_str": "00:47.840",
+      "text": "忘了烦恼可爱多好",
+      "translation": null
+    },
+    {
+      "time": 53.57,
+      "time_str": "00:53.570",
+      "text": "不需要说什么",
+      "translation": null
+    },
+    {
+      "time": 56.52,
+      "time_str": "00:56.520",
+      "text": "呼吸之间就尝到了你我",
+      "translation": null
+    },
+    {
+      "time": 62.39,
+      "time_str": "01:02.390",
+      "text": "心电感应我看见",
+      "translation": null
+    },
+    {
+      "time": 66.9,
+      "time_str": "01:06.900",
+      "text": "Love's in the air",
+      "translation": null
+    },
+    {
+      "time": 94.96,
+      "time_str": "01:34.960",
+      "text": "叽叽喳喳路人小孩",
+      "translation": null
+    },
+    {
+      "time": 97.66,
+      "time_str": "01:37.660",
+      "text": "噘嘴的你站在露台",
+      "translation": null
+    },
+    {
+      "time": 100.54,
+      "time_str": "01:40.540",
+      "text": "阳光眯着眼看我们",
+      "translation": null
+    },
+    {
+      "time": 103.04,
+      "time_str": "01:43.040",
+      "text": "同时也发现爱",
+      "translation": null
+    },
+    {
+      "time": 106.44,
+      "time_str": "01:46.440",
+      "text": "嘀嘀咕咕我该不该让你看穿",
+      "translation": null
+    },
+    {
+      "time": 111.76,
+      "time_str": "01:51.760",
+      "text": "冰淇淋的默契就是爱",
+      "translation": null
+    },
+    {
+      "time": 118.18,
+      "time_str": "01:58.180",
+      "text": "浓郁香草 巧克玛瑙",
+      "translation": null
+    },
+    {
+      "time": 123.9,
+      "time_str": "02:03.900",
+      "text": "不觉中悄悄融化了",
+      "translation": null
+    },
+    {
+      "time": 126.82,
+      "time_str": "02:06.820",
+      "text": "变成最幸福的味道",
+      "translation": null
+    },
+    {
+      "time": 129.88,
+      "time_str": "02:09.880",
+      "text": "忘了烦恼可爱多好",
+      "translation": null
+    },
+    {
+      "time": 135.77,
+      "time_str": "02:15.770",
+      "text": "不需要说什么",
+      "translation": null
+    },
+    {
+      "time": 138.58,
+      "time_str": "02:18.580",
+      "text": "呼吸之间就尝到了你我",
+      "translation": null
+    },
+    {
+      "time": 144.31,
+      "time_str": "02:24.310",
+      "text": "心电感应我看见",
+      "translation": null
+    },
+    {
+      "time": 148.79,
+      "time_str": "02:28.790",
+      "text": "Love's in the air",
+      "translation": null
+    },
+    {
+      "time": 153.24,
+      "time_str": "02:33.240",
+      "text": "丘比特苦恼唠叨的月老",
+      "translation": null
+    },
+    {
+      "time": 156.18,
+      "time_str": "02:36.180",
+      "text": "缘份来了他们谁也管不了",
+      "translation": null
+    },
+    {
+      "time": 158.86,
+      "time_str": "02:38.860",
+      "text": "就放手去爱Love's in the air",
+      "translation": null
+    },
+    {
+      "time": 164.78,
+      "time_str": "02:44.780",
+      "text": "花开的很好风吹的很好",
+      "translation": null
+    },
+    {
+      "time": 167.8,
+      "time_str": "02:47.800",
+      "text": "只要你在什么都好",
+      "translation": null
+    },
+    {
+      "time": 170.64,
+      "time_str": "02:50.640",
+      "text": "爱的香味随空气飘",
+      "translation": null
+    },
+    {
+      "time": 176.48,
+      "time_str": "02:56.480",
+      "text": "浓郁香草 巧克玛瑙",
+      "translation": null
+    },
+    {
+      "time": 182.3,
+      "time_str": "03:02.300",
+      "text": "不觉中悄悄融化了",
+      "translation": null
+    },
+    {
+      "time": 185.3,
+      "time_str": "03:05.300",
+      "text": "变成最幸福的味道",
+      "translation": null
+    },
+    {
+      "time": 188.23,
+      "time_str": "03:08.230",
+      "text": "忘了烦恼可爱多好",
+      "translation": null
+    },
+    {
+      "time": 194.01,
+      "time_str": "03:14.010",
+      "text": "不需要说什么",
+      "translation": null
+    },
+    {
+      "time": 197.04,
+      "time_str": "03:17.040",
+      "text": "呼吸之间就尝到了你我",
+      "translation": null
+    },
+    {
+      "time": 202.83,
+      "time_str": "03:22.830",
+      "text": "心电感应我看见",
+      "translation": null
+    },
+    {
+      "time": 210.38,
+      "time_str": "03:30.380",
+      "text": "Love's in the air",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "发现爱 - 林俊杰,金莎.lrc"
+}

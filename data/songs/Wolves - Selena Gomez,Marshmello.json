@@ -1,0 +1,328 @@
+{
+  "title": "Wolves",
+  "title_raw": "Wolves",
+  "version": null,
+  "artist": "Selena Gomez,Marshmello",
+  "group_key": "wolves|selena gomez,marshmello",
+  "writers": {
+    "lyricist": "Selena Gomez/Marshmello/Andrew Wotman/Louis Bell/Brian D. Lee/Alexandra Tamposi/Carl Rosen",
+    "composer": "Selena Gomez/Marshmello/Andrew Wotman/Louis Bell/Brian D. Lee/Alexandra Tamposi/Carl Rosen",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.13,
+      "time_str": "00:09.130",
+      "text": "In your eyes, there's a heavy blue",
+      "translation": "在你的眼眸中，那充满了忧郁"
+    },
+    {
+      "time": 12.61,
+      "time_str": "00:12.610",
+      "text": "One to love, and one to lose",
+      "translation": "左眼蕴藏爱意 右眼闪烁黯然"
+    },
+    {
+      "time": 16.34,
+      "time_str": "00:16.340",
+      "text": "Sweet divine, a heavy truth",
+      "translation": "于甜蜜中却预感到事实的沉重"
+    },
+    {
+      "time": 20.03,
+      "time_str": "00:20.030",
+      "text": "Water or wine, don't make me choose",
+      "translation": "水还是酒,别把我逼到两难的境地"
+    },
+    {
+      "time": 23.59,
+      "time_str": "00:23.590",
+      "text": "I wanna feel the way that we did that summer night, night",
+      "translation": "我只想重温我们曾一起共度的仲夏之夜"
+    },
+    {
+      "time": 30.79,
+      "time_str": "00:30.790",
+      "text": "Drunk on a feeling, alone with the stars in the sky",
+      "translation": "独自在醉意朦胧间仰望繁星点点"
+    },
+    {
+      "time": 38.0,
+      "time_str": "00:38.000",
+      "text": "I've been running through the jungle",
+      "translation": "我在丛林中不断奔跑"
+    },
+    {
+      "time": 40.02,
+      "time_str": "00:40.020",
+      "text": "I've been running with the wolves",
+      "translation": "我和狼群一同前行"
+    },
+    {
+      "time": 41.94,
+      "time_str": "00:41.940",
+      "text": "To get to you, to get to you",
+      "translation": "只为追寻你 前往你身旁"
+    },
+    {
+      "time": 45.74,
+      "time_str": "00:45.740",
+      "text": "I've been down the darkest alleys",
+      "translation": "我一路沿着墨色浓重的小径前行"
+    },
+    {
+      "time": 47.67,
+      "time_str": "00:47.670",
+      "text": "Saw the dark side of the moon",
+      "translation": "甚至都看到了月球的背面"
+    },
+    {
+      "time": 49.39,
+      "time_str": "00:49.390",
+      "text": "To get to you, to get to you",
+      "translation": "只为追寻你 前往你身旁"
+    },
+    {
+      "time": 53.31,
+      "time_str": "00:53.310",
+      "text": "I've looked for love in every stranger",
+      "translation": "我在每个过客的心中搜索爱的踪迹"
+    },
+    {
+      "time": 55.45,
+      "time_str": "00:55.450",
+      "text": "Took too much to ease the anger",
+      "translation": "喝下太多的酒才稍稍缓解心头之愤"
+    },
+    {
+      "time": 57.24,
+      "time_str": "00:57.240",
+      "text": "All for you, yeah, all for you",
+      "translation": "都是为了你 都是因为你"
+    },
+    {
+      "time": 61.04,
+      "time_str": "01:01.040",
+      "text": "I've been running through the jungle",
+      "translation": "我在丛林中不断奔跑"
+    },
+    {
+      "time": 62.98,
+      "time_str": "01:02.980",
+      "text": "I've been crying with the wolves",
+      "translation": "我和狼群一起嗥鸣"
+    },
+    {
+      "time": 64.72,
+      "time_str": "01:04.720",
+      "text": "To get to you, to get to you, only get to you",
+      "translation": "只为追寻你 前往你身旁 将你找寻"
+    },
+    {
+      "time": 76.36,
+      "time_str": "01:16.360",
+      "text": "only get to you",
+      "translation": "只为追寻你"
+    },
+    {
+      "time": 84.01,
+      "time_str": "01:24.010",
+      "text": "only get to you",
+      "translation": "只为追寻你"
+    },
+    {
+      "time": 85.68,
+      "time_str": "01:25.680",
+      "text": "Your fingertips trace my skin",
+      "translation": "你的指尖摩挲着我的肌肤"
+    },
+    {
+      "time": 89.13,
+      "time_str": "01:29.130",
+      "text": "To places I have never been",
+      "translation": "带我去领略从未踏足之境"
+    },
+    {
+      "time": 93.03,
+      "time_str": "01:33.030",
+      "text": "Blindly, I am following",
+      "translation": "我就这样不假思索地盲从"
+    },
+    {
+      "time": 96.87,
+      "time_str": "01:36.870",
+      "text": "Break down these walls and come on in",
+      "translation": "越过这垒垒高墙 一窥其中奥妙"
+    },
+    {
+      "time": 100.27,
+      "time_str": "01:40.270",
+      "text": "I wanna feel the way that we did that summer night, night",
+      "translation": "我只想重温我们曾一起共度的仲夏之夜"
+    },
+    {
+      "time": 107.68,
+      "time_str": "01:47.680",
+      "text": "Drunk on a feeling, alone with the stars in the sky",
+      "translation": "独自在醉意朦胧间仰望繁星点点"
+    },
+    {
+      "time": 114.36,
+      "time_str": "01:54.360",
+      "text": "I've been running through the jungle",
+      "translation": "我在丛林中不断奔跑"
+    },
+    {
+      "time": 116.74,
+      "time_str": "01:56.740",
+      "text": "I've been running with the wolves",
+      "translation": "我和狼群一同前行"
+    },
+    {
+      "time": 118.55,
+      "time_str": "01:58.550",
+      "text": "To get to you, to get to you",
+      "translation": "只为追寻你 前往你身旁"
+    },
+    {
+      "time": 122.53,
+      "time_str": "02:02.530",
+      "text": "I've been down the darkest alleys",
+      "translation": "我一路沿着墨色浓重的小径前行"
+    },
+    {
+      "time": 124.47,
+      "time_str": "02:04.470",
+      "text": "Saw the dark side of the moon",
+      "translation": "甚至都看到了月球的背面"
+    },
+    {
+      "time": 126.15,
+      "time_str": "02:06.150",
+      "text": "To get to you, to get to you",
+      "translation": "只为追寻你 前往你身旁"
+    },
+    {
+      "time": 130.04,
+      "time_str": "02:10.040",
+      "text": "I've looked for love in every stranger",
+      "translation": "我在每个过客的心中搜索爱的踪迹"
+    },
+    {
+      "time": 132.08,
+      "time_str": "02:12.080",
+      "text": "Took too much to ease the anger",
+      "translation": "喝下太多酒才稍稍缓解心头之愤"
+    },
+    {
+      "time": 133.99,
+      "time_str": "02:13.990",
+      "text": "All for you, yeah, all for you",
+      "translation": "都是为了你 都是因为你"
+    },
+    {
+      "time": 137.82,
+      "time_str": "02:17.820",
+      "text": "I've been running through the jungle",
+      "translation": "我在丛林中不断奔跑"
+    },
+    {
+      "time": 139.69,
+      "time_str": "02:19.690",
+      "text": "I've been crying with the wolves",
+      "translation": "我和狼群一起嗥鸣"
+    },
+    {
+      "time": 141.47,
+      "time_str": "02:21.470",
+      "text": "To get to you, to get to you, only get to you",
+      "translation": "只为追寻你 前往你身旁 将你找寻"
+    },
+    {
+      "time": 153.11,
+      "time_str": "02:33.110",
+      "text": "only get to you",
+      "translation": "只为追寻你"
+    },
+    {
+      "time": 160.81,
+      "time_str": "02:40.810",
+      "text": "only get to you",
+      "translation": "只为追寻你"
+    },
+    {
+      "time": 161.77,
+      "time_str": "02:41.770",
+      "text": "I've been running through the jungle",
+      "translation": "我在丛林中不断奔跑"
+    },
+    {
+      "time": 162.93,
+      "time_str": "02:42.930",
+      "text": "I've been running with the wolves",
+      "translation": "我和狼群一同前行"
+    },
+    {
+      "time": 164.52,
+      "time_str": "02:44.520",
+      "text": "To get to you, to get to you",
+      "translation": "只为追寻你 前往你身旁"
+    },
+    {
+      "time": 168.57,
+      "time_str": "02:48.570",
+      "text": "I've been down the darkest alleys",
+      "translation": "我一路沿着墨色浓重的小径前行"
+    },
+    {
+      "time": 170.44,
+      "time_str": "02:50.440",
+      "text": "Saw the dark side of the moon",
+      "translation": "甚至都看到了月球的背面"
+    },
+    {
+      "time": 172.24,
+      "time_str": "02:52.240",
+      "text": "To get to you, to get to you",
+      "translation": "只为追寻你 前往你身旁"
+    },
+    {
+      "time": 176.15,
+      "time_str": "02:56.150",
+      "text": "I've looked for love in every stranger",
+      "translation": "我在每个过客的心中搜索爱的踪迹"
+    },
+    {
+      "time": 177.94,
+      "time_str": "02:57.940",
+      "text": "Took too much to ease the anger",
+      "translation": "喝下太多酒才稍稍缓解心头之愤"
+    },
+    {
+      "time": 179.9,
+      "time_str": "02:59.900",
+      "text": "All for you, yeah, all for you",
+      "translation": "都是为了你 都是因为你"
+    },
+    {
+      "time": 183.78,
+      "time_str": "03:03.780",
+      "text": "I've been running through the jungle",
+      "translation": "我在丛林中不断奔跑"
+    },
+    {
+      "time": 185.59,
+      "time_str": "03:05.590",
+      "text": "I've been crying with the wolves",
+      "translation": "我和狼群一起嗥鸣"
+    },
+    {
+      "time": 187.55,
+      "time_str": "03:07.550",
+      "text": "To get to you, to get to you, only get to you",
+      "translation": "只为追寻你 前往你身旁 将你找寻"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Wolves - Selena Gomez,Marshmello.lrc"
+}

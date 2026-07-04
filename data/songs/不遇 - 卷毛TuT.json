@@ -1,0 +1,226 @@
+{
+  "title": "不遇",
+  "title_raw": "不遇",
+  "version": null,
+  "artist": "卷毛TuT",
+  "group_key": "不遇|卷毛tut",
+  "writers": {
+    "lyricist": "花生",
+    "composer": "王泽中",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.178,
+      "time_str": "00:19.178",
+      "text": "《不遇》",
+      "translation": null
+    },
+    {
+      "time": 22.437,
+      "time_str": "00:22.437",
+      "text": "演唱：星一问水",
+      "translation": null
+    },
+    {
+      "time": 31.429,
+      "time_str": "00:31.429",
+      "text": "燃尽枯灯心火",
+      "translation": null
+    },
+    {
+      "time": 34.928,
+      "time_str": "00:34.928",
+      "text": "仍高举最后一抹魂魄",
+      "translation": null
+    },
+    {
+      "time": 39.183,
+      "time_str": "00:39.183",
+      "text": "照亮你归途 兑现我承诺",
+      "translation": null
+    },
+    {
+      "time": 45.428,
+      "time_str": "00:45.428",
+      "text": "看你饮下汤浊",
+      "translation": null
+    },
+    {
+      "time": 49.179,
+      "time_str": "00:49.179",
+      "text": "桥边俯首问一问奈何",
+      "translation": null
+    },
+    {
+      "time": 53.182,
+      "time_str": "00:53.182",
+      "text": "若来生不遇我 就不必蹉跎",
+      "translation": null
+    },
+    {
+      "time": 58.685,
+      "time_str": "00:58.685",
+      "text": "路过 三月柳 四月风",
+      "translation": null
+    },
+    {
+      "time": 64.439,
+      "time_str": "01:04.439",
+      "text": "七月明灭萤火",
+      "translation": null
+    },
+    {
+      "time": 68.188,
+      "time_str": "01:08.188",
+      "text": "唯独不必路过我",
+      "translation": null
+    },
+    {
+      "time": 73.439,
+      "time_str": "01:13.439",
+      "text": "抚过春色轮廓",
+      "translation": null
+    },
+    {
+      "time": 76.684,
+      "time_str": "01:16.684",
+      "text": "吻过冬夜雪落",
+      "translation": null
+    },
+    {
+      "time": 78.928,
+      "time_str": "01:18.928",
+      "text": "不必道破 何妨挑灯对坐",
+      "translation": null
+    },
+    {
+      "time": 82.435,
+      "time_str": "01:22.435",
+      "text": "长衫落拓 累世皆静默",
+      "translation": null
+    },
+    {
+      "time": 117.183,
+      "time_str": "01:57.183",
+      "text": "燃尽枯灯心火",
+      "translation": null
+    },
+    {
+      "time": 120.934,
+      "time_str": "02:00.934",
+      "text": "仍高举最后一抹魂魄",
+      "translation": null
+    },
+    {
+      "time": 125.435,
+      "time_str": "02:05.435",
+      "text": "照亮你归途 兑现我承诺",
+      "translation": null
+    },
+    {
+      "time": 131.683,
+      "time_str": "02:11.683",
+      "text": "看你饮下汤浊",
+      "translation": null
+    },
+    {
+      "time": 135.188,
+      "time_str": "02:15.188",
+      "text": "桥边俯首问一问奈何",
+      "translation": null
+    },
+    {
+      "time": 139.178,
+      "time_str": "02:19.178",
+      "text": "若来生不遇我 就不必蹉跎",
+      "translation": null
+    },
+    {
+      "time": 144.934,
+      "time_str": "02:24.934",
+      "text": "路过 三月柳 四月风",
+      "translation": null
+    },
+    {
+      "time": 150.428,
+      "time_str": "02:30.428",
+      "text": "七月明灭萤火",
+      "translation": null
+    },
+    {
+      "time": 153.926,
+      "time_str": "02:33.926",
+      "text": "唯独不必路过我",
+      "translation": null
+    },
+    {
+      "time": 159.181,
+      "time_str": "02:39.181",
+      "text": "抚过春色轮廓",
+      "translation": null
+    },
+    {
+      "time": 162.677,
+      "time_str": "02:42.677",
+      "text": "吻过冬夜雪落",
+      "translation": null
+    },
+    {
+      "time": 164.926,
+      "time_str": "02:44.926",
+      "text": "不必道破 何妨挑灯对坐",
+      "translation": null
+    },
+    {
+      "time": 168.43,
+      "time_str": "02:48.430",
+      "text": "长衫落拓 累世皆静默",
+      "translation": null
+    },
+    {
+      "time": 173.681,
+      "time_str": "02:53.681",
+      "text": "路过 三月柳 四月风",
+      "translation": null
+    },
+    {
+      "time": 178.937,
+      "time_str": "02:58.937",
+      "text": "七月明灭萤火",
+      "translation": null
+    },
+    {
+      "time": 182.685,
+      "time_str": "03:02.685",
+      "text": "唯独不必路过我",
+      "translation": null
+    },
+    {
+      "time": 188.186,
+      "time_str": "03:08.186",
+      "text": "抚过春色轮廓",
+      "translation": null
+    },
+    {
+      "time": 191.182,
+      "time_str": "03:11.182",
+      "text": "吻过冬夜雪落",
+      "translation": null
+    },
+    {
+      "time": 193.429,
+      "time_str": "03:13.429",
+      "text": "不必道破 何妨挑灯对坐",
+      "translation": null
+    },
+    {
+      "time": 196.931,
+      "time_str": "03:16.931",
+      "text": "长衫落拓 累世皆静默",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "不遇 - 卷毛TuT.lrc"
+}

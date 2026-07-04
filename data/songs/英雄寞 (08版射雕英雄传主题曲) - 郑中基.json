@@ -1,0 +1,184 @@
+{
+  "title": "英雄寞",
+  "title_raw": "英雄寞 (08版射雕英雄传主题曲)",
+  "version": "08版射雕英雄传主题曲",
+  "artist": "郑中基",
+  "group_key": "英雄寞|郑中基",
+  "writers": {
+    "lyricist": "林乔",
+    "composer": "金大洲",
+    "arranger": "黄丹仪"
+  },
+  "lyrics": [
+    {
+      "time": 28.569,
+      "time_str": "00:28.569",
+      "text": "等谁那沸腾的魂魄 如让山水为之褪色",
+      "translation": null
+    },
+    {
+      "time": 34.698,
+      "time_str": "00:34.698",
+      "text": "来拯救这天涯萧索",
+      "translation": null
+    },
+    {
+      "time": 40.078,
+      "time_str": "00:40.078",
+      "text": "是谁恩怨情愁演活 心上牵挂无暇抖落",
+      "translation": null
+    },
+    {
+      "time": 46.28,
+      "time_str": "00:46.280",
+      "text": "只为世事杀出传说",
+      "translation": null
+    },
+    {
+      "time": 51.48,
+      "time_str": "00:51.480",
+      "text": "唯匡世经纬 胸怀天下",
+      "translation": null
+    },
+    {
+      "time": 57.18,
+      "time_str": "00:57.180",
+      "text": "血染敌镇却为残杀 难道有违天道错",
+      "translation": null
+    },
+    {
+      "time": 61.888,
+      "time_str": "01:01.888",
+      "text": "叹悲歌未切 为憾奈何",
+      "translation": null
+    },
+    {
+      "time": 67.888,
+      "time_str": "01:07.888",
+      "text": "怕岁月过只随信念活 等后世来评说",
+      "translation": null
+    },
+    {
+      "time": 74.18,
+      "time_str": "01:14.180",
+      "text": "你是风沙的怒吼 你是断崖的坚守",
+      "translation": null
+    },
+    {
+      "time": 78.848,
+      "time_str": "01:18.848",
+      "text": "你是剑锋过后 仰望月夜 眉间的寂寞",
+      "translation": null
+    },
+    {
+      "time": 84.88,
+      "time_str": "01:24.880",
+      "text": "你是滴水的沉着 你是落花的幽柔",
+      "translation": null
+    },
+    {
+      "time": 90.9,
+      "time_str": "01:30.900",
+      "text": "你是万世称颂 却为日落 默默哀叹的 血肉",
+      "translation": null
+    },
+    {
+      "time": 116.88,
+      "time_str": "01:56.880",
+      "text": "等谁那沸腾的魂魄 如让山水为之褪色",
+      "translation": null
+    },
+    {
+      "time": 121.618,
+      "time_str": "02:01.618",
+      "text": "来拯救这天涯萧索",
+      "translation": null
+    },
+    {
+      "time": 127.618,
+      "time_str": "02:07.618",
+      "text": "是谁恩怨情愁演活 心上牵挂无暇抖落",
+      "translation": null
+    },
+    {
+      "time": 134.59,
+      "time_str": "02:14.590",
+      "text": "只为世事杀出传说",
+      "translation": null
+    },
+    {
+      "time": 137.868,
+      "time_str": "02:17.868",
+      "text": "唯匡世经纬 胸怀天下",
+      "translation": null
+    },
+    {
+      "time": 144.39,
+      "time_str": "02:24.390",
+      "text": "血染敌镇却为残杀 难道有违天道错",
+      "translation": null
+    },
+    {
+      "time": 149.068,
+      "time_str": "02:29.068",
+      "text": "叹悲歌未切 为憾奈何",
+      "translation": null
+    },
+    {
+      "time": 155.698,
+      "time_str": "02:35.698",
+      "text": "怕岁月过只随信念活 等后世来评说",
+      "translation": null
+    },
+    {
+      "time": 161.699,
+      "time_str": "02:41.699",
+      "text": "你是风沙的怒吼 你是断崖的坚守",
+      "translation": null
+    },
+    {
+      "time": 166.999,
+      "time_str": "02:46.999",
+      "text": "你是剑锋过后 仰望月夜 眉间的寂寞",
+      "translation": null
+    },
+    {
+      "time": 171.978,
+      "time_str": "02:51.978",
+      "text": "你是滴水的沉着 你是落花的幽柔",
+      "translation": null
+    },
+    {
+      "time": 177.968,
+      "time_str": "02:57.968",
+      "text": "你是万世称颂 却为日落 默默哀叹的 血肉",
+      "translation": null
+    },
+    {
+      "time": 215.289,
+      "time_str": "03:35.289",
+      "text": "你是风沙的怒吼 你是断崖的坚守",
+      "translation": null
+    },
+    {
+      "time": 220.3,
+      "time_str": "03:40.300",
+      "text": "你是剑锋过后 仰望月夜 眉间的寂寞",
+      "translation": null
+    },
+    {
+      "time": 225.589,
+      "time_str": "03:45.589",
+      "text": "你是滴水的沉着 你是落花的幽柔",
+      "translation": null
+    },
+    {
+      "time": 231.589,
+      "time_str": "03:51.589",
+      "text": "你是万世称颂 却为日落 默默哀叹的 血肉",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "英雄寞 (08版射雕英雄传主题曲) - 郑中基.lrc"
+}

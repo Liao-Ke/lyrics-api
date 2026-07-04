@@ -1,0 +1,280 @@
+{
+  "title": "信天游",
+  "title_raw": "信天游",
+  "version": null,
+  "artist": "程琳",
+  "group_key": "信天游|程琳",
+  "writers": {
+    "lyricist": "刘志文/侯德健",
+    "composer": "解承强",
+    "arranger": "周晓敏"
+  },
+  "lyrics": [
+    {
+      "time": 40.34,
+      "time_str": "00:40.340",
+      "text": "我低头 向山沟",
+      "translation": null
+    },
+    {
+      "time": 43.96,
+      "time_str": "00:43.960",
+      "text": "追逐流逝的岁月",
+      "translation": null
+    },
+    {
+      "time": 47.91,
+      "time_str": "00:47.910",
+      "text": "风沙茫茫满山谷",
+      "translation": null
+    },
+    {
+      "time": 51.9,
+      "time_str": "00:51.900",
+      "text": "不见我的童年",
+      "translation": null
+    },
+    {
+      "time": 55.59,
+      "time_str": "00:55.590",
+      "text": "我抬头 向青天",
+      "translation": null
+    },
+    {
+      "time": 59.41,
+      "time_str": "00:59.410",
+      "text": "搜寻远去的从前",
+      "translation": null
+    },
+    {
+      "time": 63.41,
+      "time_str": "01:03.410",
+      "text": "白云悠悠尽情地游",
+      "translation": null
+    },
+    {
+      "time": 67.22,
+      "time_str": "01:07.220",
+      "text": "什么都没改变",
+      "translation": null
+    },
+    {
+      "time": 71.22,
+      "time_str": "01:11.220",
+      "text": "大雁听过我的歌",
+      "translation": null
+    },
+    {
+      "time": 74.9,
+      "time_str": "01:14.900",
+      "text": "小河亲过我的脸",
+      "translation": null
+    },
+    {
+      "time": 78.84,
+      "time_str": "01:18.840",
+      "text": "山丹丹花开花又落",
+      "translation": null
+    },
+    {
+      "time": 82.59,
+      "time_str": "01:22.590",
+      "text": "一遍又一遍",
+      "translation": null
+    },
+    {
+      "time": 86.53,
+      "time_str": "01:26.530",
+      "text": "大地留下我的梦",
+      "translation": null
+    },
+    {
+      "time": 90.35,
+      "time_str": "01:30.350",
+      "text": "信天游带走我的情",
+      "translation": null
+    },
+    {
+      "time": 94.22,
+      "time_str": "01:34.220",
+      "text": "天上星星一点点",
+      "translation": null
+    },
+    {
+      "time": 98.16,
+      "time_str": "01:38.160",
+      "text": "思念到永远",
+      "translation": null
+    },
+    {
+      "time": 125.25,
+      "time_str": "02:05.250",
+      "text": "我低头 向山沟",
+      "translation": null
+    },
+    {
+      "time": 128.81,
+      "time_str": "02:08.810",
+      "text": "追逐流逝的岁月",
+      "translation": null
+    },
+    {
+      "time": 132.82,
+      "time_str": "02:12.820",
+      "text": "风沙茫茫满山谷",
+      "translation": null
+    },
+    {
+      "time": 136.75,
+      "time_str": "02:16.750",
+      "text": "不见我的童年",
+      "translation": null
+    },
+    {
+      "time": 140.56,
+      "time_str": "02:20.560",
+      "text": "大雁听过我的歌",
+      "translation": null
+    },
+    {
+      "time": 144.43,
+      "time_str": "02:24.430",
+      "text": "小河亲过我的脸",
+      "translation": null
+    },
+    {
+      "time": 148.25,
+      "time_str": "02:28.250",
+      "text": "山丹丹花开花又落",
+      "translation": null
+    },
+    {
+      "time": 152.19,
+      "time_str": "02:32.190",
+      "text": "一遍又一遍",
+      "translation": null
+    },
+    {
+      "time": 155.81,
+      "time_str": "02:35.810",
+      "text": "我抬头 向青天",
+      "translation": null
+    },
+    {
+      "time": 159.56,
+      "time_str": "02:39.560",
+      "text": "搜寻远去的从前",
+      "translation": null
+    },
+    {
+      "time": 163.75,
+      "time_str": "02:43.750",
+      "text": "白云悠悠尽情地游",
+      "translation": null
+    },
+    {
+      "time": 167.69,
+      "time_str": "02:47.690",
+      "text": "什么都没改变",
+      "translation": null
+    },
+    {
+      "time": 171.62,
+      "time_str": "02:51.620",
+      "text": "大地留下我的梦",
+      "translation": null
+    },
+    {
+      "time": 175.38,
+      "time_str": "02:55.380",
+      "text": "信天游带走我的情",
+      "translation": null
+    },
+    {
+      "time": 179.19,
+      "time_str": "02:59.190",
+      "text": "天上星星一点点",
+      "translation": null
+    },
+    {
+      "time": 183.07,
+      "time_str": "03:03.070",
+      "text": "思念到永远",
+      "translation": null
+    },
+    {
+      "time": 202.5,
+      "time_str": "03:22.500",
+      "text": "大地留下我的梦",
+      "translation": null
+    },
+    {
+      "time": 206.32,
+      "time_str": "03:26.320",
+      "text": "信天游带走我的情",
+      "translation": null
+    },
+    {
+      "time": 210.07,
+      "time_str": "03:30.070",
+      "text": "天上星星一点点",
+      "translation": null
+    },
+    {
+      "time": 214.0,
+      "time_str": "03:34.000",
+      "text": "思念到永远",
+      "translation": null
+    },
+    {
+      "time": 218.01,
+      "time_str": "03:38.010",
+      "text": "大雁听过我的歌",
+      "translation": null
+    },
+    {
+      "time": 221.57,
+      "time_str": "03:41.570",
+      "text": "小河亲过我的脸",
+      "translation": null
+    },
+    {
+      "time": 225.5,
+      "time_str": "03:45.500",
+      "text": "山丹丹花开花又落",
+      "translation": null
+    },
+    {
+      "time": 229.38,
+      "time_str": "03:49.380",
+      "text": "一遍又一遍",
+      "translation": null
+    },
+    {
+      "time": 233.32,
+      "time_str": "03:53.320",
+      "text": "大地留下我的梦",
+      "translation": null
+    },
+    {
+      "time": 237.13,
+      "time_str": "03:57.130",
+      "text": "信天游带走我的情",
+      "translation": null
+    },
+    {
+      "time": 241.07,
+      "time_str": "04:01.070",
+      "text": "天上星星一点点",
+      "translation": null
+    },
+    {
+      "time": 244.88,
+      "time_str": "04:04.880",
+      "text": "思念到永远",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "信天游 - 程琳.lrc"
+}

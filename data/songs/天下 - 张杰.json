@@ -1,0 +1,274 @@
+{
+  "title": "天下",
+  "title_raw": "天下",
+  "version": null,
+  "artist": "张杰",
+  "group_key": "天下|张杰",
+  "writers": {
+    "lyricist": "周毅",
+    "composer": "刘迦宁",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 27.52,
+      "time_str": "00:27.520",
+      "text": "烽烟起寻爱似浪淘沙",
+      "translation": null
+    },
+    {
+      "time": 34.181,
+      "time_str": "00:34.181",
+      "text": "遇见她如春水映梨花",
+      "translation": null
+    },
+    {
+      "time": 40.947,
+      "time_str": "00:40.947",
+      "text": "挥剑断天涯相思轻放下",
+      "translation": null
+    },
+    {
+      "time": 47.686,
+      "time_str": "00:47.686",
+      "text": "梦中我痴痴牵挂",
+      "translation": null
+    },
+    {
+      "time": 54.766,
+      "time_str": "00:54.766",
+      "text": "顾不顾将相王侯",
+      "translation": null
+    },
+    {
+      "time": 56.176,
+      "time_str": "00:56.176",
+      "text": "管不管万世千秋",
+      "translation": null
+    },
+    {
+      "time": 57.953,
+      "time_str": "00:57.953",
+      "text": "求只求爱化解",
+      "translation": null
+    },
+    {
+      "time": 59.546,
+      "time_str": "00:59.546",
+      "text": "这万丈红尘纷乱永无休",
+      "translation": null
+    },
+    {
+      "time": 62.002,
+      "time_str": "01:02.002",
+      "text": "爱更爱天长地久",
+      "translation": null
+    },
+    {
+      "time": 63.778,
+      "time_str": "01:03.778",
+      "text": "要更要似水温柔",
+      "translation": null
+    },
+    {
+      "time": 65.45,
+      "time_str": "01:05.450",
+      "text": "谁在乎谁主春秋",
+      "translation": null
+    },
+    {
+      "time": 67.696,
+      "time_str": "01:07.696",
+      "text": "一生有爱何惧风飞沙",
+      "translation": null
+    },
+    {
+      "time": 70.805,
+      "time_str": "01:10.805",
+      "text": "悲白发留不住芳华",
+      "translation": null
+    },
+    {
+      "time": 74.645,
+      "time_str": "01:14.645",
+      "text": "抛去江山如画换她笑面如花",
+      "translation": null
+    },
+    {
+      "time": 77.832,
+      "time_str": "01:17.832",
+      "text": "抵过这一生空牵挂",
+      "translation": null
+    },
+    {
+      "time": 81.097,
+      "time_str": "01:21.097",
+      "text": "心若无怨爱恨也随她",
+      "translation": null
+    },
+    {
+      "time": 84.101,
+      "time_str": "01:24.101",
+      "text": "天地大情路永无涯",
+      "translation": null
+    },
+    {
+      "time": 87.68,
+      "time_str": "01:27.680",
+      "text": "只为她袖手天下",
+      "translation": null
+    },
+    {
+      "time": 121.038,
+      "time_str": "02:01.038",
+      "text": "顾不顾将相王侯",
+      "translation": null
+    },
+    {
+      "time": 122.997,
+      "time_str": "02:02.997",
+      "text": "管不管万世千秋",
+      "translation": null
+    },
+    {
+      "time": 124.565,
+      "time_str": "02:04.565",
+      "text": "求只求爱化解",
+      "translation": null
+    },
+    {
+      "time": 126.132,
+      "time_str": "02:06.132",
+      "text": "这万丈红尘纷乱永无休",
+      "translation": null
+    },
+    {
+      "time": 128.718,
+      "time_str": "02:08.718",
+      "text": "爱更爱天长地久",
+      "translation": null
+    },
+    {
+      "time": 130.677,
+      "time_str": "02:10.677",
+      "text": "要更要似水温柔",
+      "translation": null
+    },
+    {
+      "time": 132.14,
+      "time_str": "02:12.140",
+      "text": "谁在乎谁主春秋",
+      "translation": null
+    },
+    {
+      "time": 134.387,
+      "time_str": "02:14.387",
+      "text": "一生有爱何惧风飞沙",
+      "translation": null
+    },
+    {
+      "time": 137.443,
+      "time_str": "02:17.443",
+      "text": "悲白发留不住芳华",
+      "translation": null
+    },
+    {
+      "time": 141.1,
+      "time_str": "02:21.100",
+      "text": "抛去江山如画换她笑面如花",
+      "translation": null
+    },
+    {
+      "time": 144.627,
+      "time_str": "02:24.627",
+      "text": "抵过这一生空牵挂",
+      "translation": null
+    },
+    {
+      "time": 147.709,
+      "time_str": "02:27.709",
+      "text": "心若无怨爱恨也随她",
+      "translation": null
+    },
+    {
+      "time": 150.74,
+      "time_str": "02:30.740",
+      "text": "天地大情路永无涯",
+      "translation": null
+    },
+    {
+      "time": 154.371,
+      "time_str": "02:34.371",
+      "text": "只为她袖手天下",
+      "translation": null
+    },
+    {
+      "time": 161.215,
+      "time_str": "02:41.215",
+      "text": "一生有爱何惧风飞沙",
+      "translation": null
+    },
+    {
+      "time": 164.166,
+      "time_str": "02:44.166",
+      "text": "悲白发留不住芳华",
+      "translation": null
+    },
+    {
+      "time": 167.954,
+      "time_str": "02:47.954",
+      "text": "抛去江山如画换她笑面如花",
+      "translation": null
+    },
+    {
+      "time": 171.246,
+      "time_str": "02:51.246",
+      "text": "抵过这一生空牵挂",
+      "translation": null
+    },
+    {
+      "time": 174.328,
+      "time_str": "02:54.328",
+      "text": "心若无怨爱恨也随她",
+      "translation": null
+    },
+    {
+      "time": 177.437,
+      "time_str": "02:57.437",
+      "text": "天地大情路永无涯",
+      "translation": null
+    },
+    {
+      "time": 180.937,
+      "time_str": "03:00.937",
+      "text": "只为她袖手天下",
+      "translation": null
+    },
+    {
+      "time": 187.781,
+      "time_str": "03:07.781",
+      "text": "烽烟起寻爱似浪淘沙",
+      "translation": null
+    },
+    {
+      "time": 194.207,
+      "time_str": "03:14.207",
+      "text": "遇见她如春水映梨花",
+      "translation": null
+    },
+    {
+      "time": 200.921,
+      "time_str": "03:20.921",
+      "text": "挥剑断天涯相思轻放下",
+      "translation": null
+    },
+    {
+      "time": 207.765,
+      "time_str": "03:27.765",
+      "text": "梦中我痴痴牵挂",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天下 - 张杰.lrc"
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Somewhere My Love 重逢有日",
+  "title_raw": "Somewhere My Love 重逢有日",
+  "version": null,
+  "artist": "Shenyang",
+  "group_key": "somewhere my love 重逢有日|shenyang",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.98,
+      "time_str": "00:14.980",
+      "text": "Somewhere, my love",
+      "translation": "爱人啊 终有重逢的地方"
+    },
+    {
+      "time": 21.92,
+      "time_str": "00:21.920",
+      "text": "There will be songs to sing",
+      "translation": "那里会有歌声飘扬"
+    },
+    {
+      "time": 29.04,
+      "time_str": "00:29.040",
+      "text": "Although the snow",
+      "translation": "尽管皑皑白雪"
+    },
+    {
+      "time": 36.24,
+      "time_str": "00:36.240",
+      "text": "Covers the hope of spring",
+      "translation": "掩埋了春的希望"
+    },
+    {
+      "time": 43.31,
+      "time_str": "00:43.310",
+      "text": "Somewhere a hill",
+      "translation": "某处山岗上"
+    },
+    {
+      "time": 50.53,
+      "time_str": "00:50.530",
+      "text": "Blossoms in green and gold",
+      "translation": "正绽放绿意金光"
+    },
+    {
+      "time": 57.9,
+      "time_str": "00:57.900",
+      "text": "And there are dreams",
+      "translation": "所有你心之所向"
+    },
+    {
+      "time": 65.01,
+      "time_str": "01:05.010",
+      "text": "All that your heart can hold",
+      "translation": "都将在梦中盛放"
+    },
+    {
+      "time": 72.54,
+      "time_str": "01:12.540",
+      "text": "Someday we'll meet again, my love",
+      "translation": "终有一天再相逢 我的爱"
+    },
+    {
+      "time": 86.53,
+      "time_str": "01:26.530",
+      "text": "Someday whenever the spring breaks through",
+      "translation": "待春风吹散冰霜之时"
+    },
+    {
+      "time": 117.25,
+      "time_str": "01:57.250",
+      "text": "You'll come to me out of the long ago",
+      "translation": "穿越悠长时光 你将回到我身旁"
+    },
+    {
+      "time": 131.58,
+      "time_str": "02:11.580",
+      "text": "Warm as the wind, soft as the kiss of snow",
+      "translation": "如风般温暖 似雪吻轻柔"
+    },
+    {
+      "time": 146.05,
+      "time_str": "02:26.050",
+      "text": "Till then my sweet",
+      "translation": "亲爱的 在那之前"
+    },
+    {
+      "time": 153.12,
+      "time_str": "02:33.120",
+      "text": "Think of me now and then",
+      "translation": "请偶尔把我想念"
+    },
+    {
+      "time": 160.31,
+      "time_str": "02:40.310",
+      "text": "God speed my love till you are mine again",
+      "translation": "愿上苍保佑 直到重逢那天"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Somewhere My Love 重逢有日 - Shenyang.lrc"
+}

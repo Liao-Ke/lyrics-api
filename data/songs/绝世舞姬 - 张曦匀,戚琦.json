@@ -1,0 +1,496 @@
+{
+  "title": "绝世舞姬",
+  "title_raw": "绝世舞姬",
+  "version": null,
+  "artist": "张曦匀,戚琦",
+  "group_key": "绝世舞姬|张曦匀,戚琦",
+  "writers": {
+    "lyricist": "清玄小仙",
+    "composer": "房雪娇",
+    "arranger": "甘虎"
+  },
+  "lyrics": [
+    {
+      "time": 6.0,
+      "time_str": "00:06.000",
+      "text": "人声录音工程师 : 顾雄",
+      "translation": null
+    },
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "人声录音室 : 华音·鼎天录音棚",
+      "translation": null
+    },
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "录音制作者 : 上海华予文化发展有限公司",
+      "translation": null
+    },
+    {
+      "time": 9.0,
+      "time_str": "00:09.000",
+      "text": "混音工程师 : 顾雄",
+      "translation": null
+    },
+    {
+      "time": 10.0,
+      "time_str": "00:10.000",
+      "text": "母带工程师 : 顾雄",
+      "translation": null
+    },
+    {
+      "time": 11.0,
+      "time_str": "00:11.000",
+      "text": "封面 : 路畅",
+      "translation": null
+    },
+    {
+      "time": 12.0,
+      "time_str": "00:12.000",
+      "text": "出品人 : 胡小健",
+      "translation": null
+    },
+    {
+      "time": 13.271,
+      "time_str": "00:13.271",
+      "text": "戚琦（念白）：",
+      "translation": null
+    },
+    {
+      "time": 13.554,
+      "time_str": "00:13.554",
+      "text": "绝世舞姬",
+      "translation": null
+    },
+    {
+      "time": 15.57,
+      "time_str": "00:15.570",
+      "text": "天下先",
+      "translation": null
+    },
+    {
+      "time": 23.05,
+      "time_str": "00:23.050",
+      "text": "张晓涵：",
+      "translation": null
+    },
+    {
+      "time": 23.284,
+      "time_str": "00:23.284",
+      "text": "烽烟燃起 乱风华",
+      "translation": null
+    },
+    {
+      "time": 26.384,
+      "time_str": "00:26.384",
+      "text": "胭脂落泪 染红霞",
+      "translation": null
+    },
+    {
+      "time": 29.27,
+      "time_str": "00:29.270",
+      "text": "眉目如画 宜其室家",
+      "translation": null
+    },
+    {
+      "time": 31.742,
+      "time_str": "00:31.742",
+      "text": "说陪我浪迹天涯 都作假",
+      "translation": null
+    },
+    {
+      "time": 34.384,
+      "time_str": "00:34.384",
+      "text": "心死就在 那一刹",
+      "translation": null
+    },
+    {
+      "time": 37.004,
+      "time_str": "00:37.004",
+      "text": "世间安得 双全法",
+      "translation": null
+    },
+    {
+      "time": 39.604,
+      "time_str": "00:39.604",
+      "text": "眸中无他 便无冬夏",
+      "translation": null
+    },
+    {
+      "time": 42.411,
+      "time_str": "00:42.411",
+      "text": "君临天下",
+      "translation": null
+    },
+    {
+      "time": 43.119,
+      "time_str": "00:43.119",
+      "text": "也只能道一声 寡",
+      "translation": null
+    },
+    {
+      "time": 44.989,
+      "time_str": "00:44.989",
+      "text": "若我一舞断杀伐",
+      "translation": null
+    },
+    {
+      "time": 47.739,
+      "time_str": "00:47.739",
+      "text": "兵临城下万箭发",
+      "translation": null
+    },
+    {
+      "time": 50.337,
+      "time_str": "00:50.337",
+      "text": "若我一舞定天下",
+      "translation": null
+    },
+    {
+      "time": 52.769,
+      "time_str": "00:52.769",
+      "text": "在你方寸棋盘倒也罢",
+      "translation": null
+    },
+    {
+      "time": 58.9,
+      "time_str": "00:58.900",
+      "text": "戚琦（戏腔）：",
+      "translation": null
+    },
+    {
+      "time": 59.138,
+      "time_str": "00:59.138",
+      "text": "啊~~~",
+      "translation": null
+    },
+    {
+      "time": 60.852,
+      "time_str": "01:00.852",
+      "text": "美人舞如莲花旋",
+      "translation": null
+    },
+    {
+      "time": 63.518,
+      "time_str": "01:03.518",
+      "text": "世人见之惊且叹",
+      "translation": null
+    },
+    {
+      "time": 66.183,
+      "time_str": "01:06.183",
+      "text": "一曲终了与君断",
+      "translation": null
+    },
+    {
+      "time": 68.811,
+      "time_str": "01:08.811",
+      "text": "绝世舞姬天下先",
+      "translation": null
+    },
+    {
+      "time": 71.649,
+      "time_str": "01:11.649",
+      "text": "美人舞如清泉涧",
+      "translation": null
+    },
+    {
+      "time": 74.098,
+      "time_str": "01:14.098",
+      "text": "世人见之惊且叹",
+      "translation": null
+    },
+    {
+      "time": 76.87,
+      "time_str": "01:16.870",
+      "text": "剪不断的理还乱",
+      "translation": null
+    },
+    {
+      "time": 79.471,
+      "time_str": "01:19.471",
+      "text": "绝世舞姬天下先",
+      "translation": null
+    },
+    {
+      "time": 92.37,
+      "time_str": "01:32.370",
+      "text": "张晓涵：",
+      "translation": null
+    },
+    {
+      "time": 92.954,
+      "time_str": "01:32.954",
+      "text": "烽烟燃起 乱风华",
+      "translation": null
+    },
+    {
+      "time": 95.704,
+      "time_str": "01:35.704",
+      "text": "胭脂落泪 染红霞",
+      "translation": null
+    },
+    {
+      "time": 98.313,
+      "time_str": "01:38.313",
+      "text": "眉目如画 宜其室家",
+      "translation": null
+    },
+    {
+      "time": 100.953,
+      "time_str": "01:40.953",
+      "text": "说陪我浪迹天涯 都作假",
+      "translation": null
+    },
+    {
+      "time": 103.9,
+      "time_str": "01:43.900",
+      "text": "若我一舞断杀伐",
+      "translation": null
+    },
+    {
+      "time": 106.742,
+      "time_str": "01:46.742",
+      "text": "兵临城下万箭发",
+      "translation": null
+    },
+    {
+      "time": 108.961,
+      "time_str": "01:48.961",
+      "text": "若我一舞定天下",
+      "translation": null
+    },
+    {
+      "time": 111.42,
+      "time_str": "01:51.420",
+      "text": "在你方寸棋盘",
+      "translation": null
+    },
+    {
+      "time": 112.946,
+      "time_str": "01:52.946",
+      "text": "倒也罢",
+      "translation": null
+    },
+    {
+      "time": 116.65,
+      "time_str": "01:56.650",
+      "text": "戚琦（戏腔）：",
+      "translation": null
+    },
+    {
+      "time": 116.89,
+      "time_str": "01:56.890",
+      "text": "美人舞如莲花旋",
+      "translation": null
+    },
+    {
+      "time": 119.448,
+      "time_str": "01:59.448",
+      "text": "世人见之惊且叹",
+      "translation": null
+    },
+    {
+      "time": 122.218,
+      "time_str": "02:02.218",
+      "text": "一曲终了与君断",
+      "translation": null
+    },
+    {
+      "time": 124.669,
+      "time_str": "02:04.669",
+      "text": "绝世舞姬天下先",
+      "translation": null
+    },
+    {
+      "time": 127.645,
+      "time_str": "02:07.645",
+      "text": "美人舞如清泉涧",
+      "translation": null
+    },
+    {
+      "time": 130.027,
+      "time_str": "02:10.027",
+      "text": "世人见之惊且叹",
+      "translation": null
+    },
+    {
+      "time": 132.883,
+      "time_str": "02:12.883",
+      "text": "剪不断的理还乱",
+      "translation": null
+    },
+    {
+      "time": 135.418,
+      "time_str": "02:15.418",
+      "text": "绝世舞姬天下先",
+      "translation": null
+    },
+    {
+      "time": 138.414,
+      "time_str": "02:18.414",
+      "text": "张晓涵（Rap）:",
+      "translation": null
+    },
+    {
+      "time": 138.547,
+      "time_str": "02:18.547",
+      "text": "烽烟 燃起了风华",
+      "translation": null
+    },
+    {
+      "time": 139.384,
+      "time_str": "02:19.384",
+      "text": "胭脂 染泪染红霞",
+      "translation": null
+    },
+    {
+      "time": 140.563,
+      "time_str": "02:20.563",
+      "text": "眉目如画 宜其室家",
+      "translation": null
+    },
+    {
+      "time": 141.855,
+      "time_str": "02:21.855",
+      "text": "我陪你浪迹天涯",
+      "translation": null
+    },
+    {
+      "time": 143.164,
+      "time_str": "02:23.164",
+      "text": "心死在一刹那",
+      "translation": null
+    },
+    {
+      "time": 144.529,
+      "time_str": "02:24.529",
+      "text": "世间安得双全法",
+      "translation": null
+    },
+    {
+      "time": 145.765,
+      "time_str": "02:25.765",
+      "text": "眸中无他",
+      "translation": null
+    },
+    {
+      "time": 146.8,
+      "time_str": "02:26.800",
+      "text": "君临天下",
+      "translation": null
+    },
+    {
+      "time": 147.347,
+      "time_str": "02:27.347",
+      "text": "只能道一声寡",
+      "translation": null
+    },
+    {
+      "time": 148.772,
+      "time_str": "02:28.772",
+      "text": "张晓涵（念白）：",
+      "translation": null
+    },
+    {
+      "time": 148.969,
+      "time_str": "02:28.969",
+      "text": "血溅",
+      "translation": null
+    },
+    {
+      "time": 149.3,
+      "time_str": "02:29.300",
+      "text": "张晓涵：",
+      "translation": null
+    },
+    {
+      "time": 149.496,
+      "time_str": "02:29.496",
+      "text": "尸骸踏燃起风沙",
+      "translation": null
+    },
+    {
+      "time": 151.771,
+      "time_str": "02:31.771",
+      "text": "兵临城下万箭发",
+      "translation": null
+    },
+    {
+      "time": 154.171,
+      "time_str": "02:34.171",
+      "text": "三千鸦杀 它终是虚话",
+      "translation": null
+    },
+    {
+      "time": 156.497,
+      "time_str": "02:36.497",
+      "text": "绝世舞姬",
+      "translation": null
+    },
+    {
+      "time": 157.518,
+      "time_str": "02:37.518",
+      "text": "此生已了无牵挂",
+      "translation": null
+    },
+    {
+      "time": 159.296,
+      "time_str": "02:39.296",
+      "text": "戚琦（戏腔）：",
+      "translation": null
+    },
+    {
+      "time": 159.505,
+      "time_str": "02:39.505",
+      "text": "美人舞如莲花旋",
+      "translation": null
+    },
+    {
+      "time": 162.113,
+      "time_str": "02:42.113",
+      "text": "世人见之惊且叹",
+      "translation": null
+    },
+    {
+      "time": 164.773,
+      "time_str": "02:44.773",
+      "text": "一曲终了与君断",
+      "translation": null
+    },
+    {
+      "time": 167.287,
+      "time_str": "02:47.287",
+      "text": "绝世舞姬天下先",
+      "translation": null
+    },
+    {
+      "time": 170.264,
+      "time_str": "02:50.264",
+      "text": "美人舞如清泉涧",
+      "translation": null
+    },
+    {
+      "time": 172.75,
+      "time_str": "02:52.750",
+      "text": "世人见之惊且叹",
+      "translation": null
+    },
+    {
+      "time": 175.503,
+      "time_str": "02:55.503",
+      "text": "剪不断的理还乱",
+      "translation": null
+    },
+    {
+      "time": 177.906,
+      "time_str": "02:57.906",
+      "text": "绝世舞姬天下先",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "绝世舞姬 - 张曦匀,戚琦.lrc"
+}

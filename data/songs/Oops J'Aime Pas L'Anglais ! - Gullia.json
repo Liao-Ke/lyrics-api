@@ -1,0 +1,280 @@
+{
+  "title": "Oops J'Aime Pas L'Anglais !",
+  "title_raw": "Oops J'Aime Pas L'Anglais !",
+  "version": null,
+  "artist": "Gullia",
+  "group_key": "oops j'aime pas l'anglais !|gullia",
+  "writers": {
+    "lyricist": "Laetitia Vanhove/Serge Mounier",
+    "composer": "Simon Caby/L'Aura Marciano",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 18.83,
+      "time_str": "00:18.830",
+      "text": "Je suis douée pour toutes les matières",
+      "translation": "我多才多艺，样样精通"
+    },
+    {
+      "time": 21.7,
+      "time_str": "00:21.700",
+      "text": "Les maths et la géographie",
+      "translation": "数学地理无所不知"
+    },
+    {
+      "time": 23.2,
+      "time_str": "00:23.200",
+      "text": "Y a que pour la langue Angleterre",
+      "translation": "但是对英语"
+    },
+    {
+      "time": 25.8,
+      "time_str": "00:25.800",
+      "text": "Que j'ai bien du souci",
+      "translation": "我满是烦恼"
+    },
+    {
+      "time": 27.8,
+      "time_str": "00:27.800",
+      "text": "Mes parents voudraient m'envoyer",
+      "translation": "父母想把我送到"
+    },
+    {
+      "time": 30.06,
+      "time_str": "00:30.060",
+      "text": "Passer deux mois chez la Queen",
+      "translation": "英女皇的国家渡过2个月"
+    },
+    {
+      "time": 32.329,
+      "time_str": "00:32.329",
+      "text": "Est-ce que dieu pourra la sauver",
+      "translation": "可是上帝能拯救她吗？"
+    },
+    {
+      "time": 34.589,
+      "time_str": "00:34.589",
+      "text": "Si je deviens sa copine ?",
+      "translation": "如果我变成英女皇的伙伴"
+    },
+    {
+      "time": 36.869,
+      "time_str": "00:36.869",
+      "text": "Oops j'aime pas l'anglais",
+      "translation": "啊，我讨厌英语"
+    },
+    {
+      "time": 41.609,
+      "time_str": "00:41.609",
+      "text": "mais j'aurais la moyenne je vais vous étonner",
+      "translation": "但我总会及格 我会让你们震惊"
+    },
+    {
+      "time": 45.899,
+      "time_str": "00:45.899",
+      "text": "Oops j'aime pas l'anglais",
+      "translation": "啊，我讨厌英语"
+    },
+    {
+      "time": 51.199,
+      "time_str": "00:51.199",
+      "text": "mais je serais la reine des verbes irrégulier",
+      "translation": "但我将会是执掌不规则动词的女王"
+    },
+    {
+      "time": 55.279,
+      "time_str": "00:55.279",
+      "text": "Mais je prends des cours particuliers",
+      "translation": "但我上一些特别的课"
+    },
+    {
+      "time": 57.839,
+      "time_str": "00:57.839",
+      "text": "Avec un voisin so British",
+      "translation": "跟随一个大不列颠口音的老师"
+    },
+    {
+      "time": 60.099,
+      "time_str": "01:00.099",
+      "text": "Sa marmelade et l'heure du thé",
+      "translation": "和他的果酱和下午茶"
+    },
+    {
+      "time": 62.249,
+      "time_str": "01:02.249",
+      "text": "Il sait que je m'en fiche",
+      "translation": "他知道我根本不在乎"
+    },
+    {
+      "time": 64.619,
+      "time_str": "01:04.619",
+      "text": "Tout ce que j'ai appris en six mois",
+      "translation": "我这6个月所学的东西"
+    },
+    {
+      "time": 66.839,
+      "time_str": "01:06.839",
+      "text": "C'est que Madonna is Witch",
+      "translation": "我只学到“麦当娜很有钱”"
+    },
+    {
+      "time": 69.139,
+      "time_str": "01:09.139",
+      "text": "Mais l'Anglais ne serait pas du chinois",
+      "translation": "但英语不会像中文那样难懂"
+    },
+    {
+      "time": 71.599,
+      "time_str": "01:11.599",
+      "text": "Si mon Prof était Brad Pitt",
+      "translation": "如果我的老师是布拉德皮特"
+    },
+    {
+      "time": 73.529,
+      "time_str": "01:13.529",
+      "text": "Oops j'aime pas l'anglais",
+      "translation": "啊，我讨厌英语"
+    },
+    {
+      "time": 78.089,
+      "time_str": "01:18.089",
+      "text": "mais j'aurais la moyenne je vais vous étonner",
+      "translation": "但我总会及格 我会让你们震惊"
+    },
+    {
+      "time": 82.759,
+      "time_str": "01:22.759",
+      "text": "Oops j'aime pas l'anglais",
+      "translation": "啊，我讨厌英语"
+    },
+    {
+      "time": 87.289,
+      "time_str": "01:27.289",
+      "text": "mais je serais la reine des verbes irrégulier",
+      "translation": "但我将会是执掌不规则动词的女王"
+    },
+    {
+      "time": 92.019,
+      "time_str": "01:32.019",
+      "text": "Et pour comprendre ce que je dis",
+      "translation": "如果要弄懂我所说的"
+    },
+    {
+      "time": 94.89,
+      "time_str": "01:34.890",
+      "text": "C'est un peu mission impossible",
+      "translation": "那这简直是个不可能的任务"
+    },
+    {
+      "time": 97.299,
+      "time_str": "01:37.299",
+      "text": "Il paraît que même à l'écrit",
+      "translation": "我的书写也是一样"
+    },
+    {
+      "time": 99.699,
+      "time_str": "01:39.699",
+      "text": "J'ai un accent terrible",
+      "translation": "我的口音糟糕透顶"
+    },
+    {
+      "time": 101.839,
+      "time_str": "01:41.839",
+      "text": "Mais l'Anglais à quoi ça me sert",
+      "translation": "可是英语这玩意能干啥？"
+    },
+    {
+      "time": 104.79,
+      "time_str": "01:44.790",
+      "text": "De le parler couramment ?",
+      "translation": "讲得流利有什么用"
+    },
+    {
+      "time": 106.699,
+      "time_str": "01:46.699",
+      "text": "Car ce n'est pas en Angleterre",
+      "translation": "我又不是在英格兰"
+    },
+    {
+      "time": 108.559,
+      "time_str": "01:48.559",
+      "text": "Que vit mon prince charmant",
+      "translation": "那个住着迷人王子的地方"
+    },
+    {
+      "time": 110.819,
+      "time_str": "01:50.819",
+      "text": "Je suis douée pour toutes les matières",
+      "translation": "我多才多艺，样样精通"
+    },
+    {
+      "time": 113.709,
+      "time_str": "01:53.709",
+      "text": "Les maths et la géographie",
+      "translation": "数学地理无所不知"
+    },
+    {
+      "time": 116.11,
+      "time_str": "01:56.110",
+      "text": "Y a que pour la langue Angleterre",
+      "translation": "但是对英语"
+    },
+    {
+      "time": 118.378,
+      "time_str": "01:58.378",
+      "text": "Que j'ai bien du souci",
+      "translation": "我满是烦恼"
+    },
+    {
+      "time": 120.689,
+      "time_str": "02:00.689",
+      "text": "Oops j'aime pas l'anglais",
+      "translation": "啊，我讨厌英语"
+    },
+    {
+      "time": 125.19,
+      "time_str": "02:05.190",
+      "text": "mais j'aurais la moyenne je vais vous étonner",
+      "translation": "但我总会及格 我会让你们震惊"
+    },
+    {
+      "time": 129.56,
+      "time_str": "02:09.560",
+      "text": "Oopsj'aime pas l'anglais",
+      "translation": "啊，我讨厌英语"
+    },
+    {
+      "time": 134.01,
+      "time_str": "02:14.010",
+      "text": "mais je serais la reine des verbes irrégulier",
+      "translation": "但我将会是执掌不规则动词的女王"
+    },
+    {
+      "time": 138.84,
+      "time_str": "02:18.840",
+      "text": "Oops j'aime pas l'anglais",
+      "translation": "啊，我讨厌英语"
+    },
+    {
+      "time": 143.39,
+      "time_str": "02:23.390",
+      "text": "mais j'aurais la moyenne je vais vous étonner",
+      "translation": "但我总会及格 我会让你们震惊"
+    },
+    {
+      "time": 148.05,
+      "time_str": "02:28.050",
+      "text": "Oops j'aime pas l'anglais",
+      "translation": "啊，我讨厌英语"
+    },
+    {
+      "time": 152.9,
+      "time_str": "02:32.900",
+      "text": "mais je serais la reine des verbes irrégulier",
+      "translation": "但我将会是执掌不规则动词的女王"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Oops J'Aime Pas L'Anglais ! - Gullia.lrc"
+}

@@ -1,0 +1,454 @@
+{
+  "title": "算什么男人",
+  "title_raw": "算什么男人",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "算什么男人|周杰伦",
+  "writers": {
+    "lyricist": "周杰伦",
+    "composer": "周杰伦",
+    "arranger": "黄雨勋"
+  },
+  "lyrics": [
+    {
+      "time": 6.0,
+      "time_str": "00:06.000",
+      "text": "第一小提琴 : 陈羽柔(Fiona Chen)/薛媛云/陈俐如/周有玓",
+      "translation": null
+    },
+    {
+      "time": 7.0,
+      "time_str": "00:07.000",
+      "text": "第二小提琴 : 骆思云/易欣颖/徐冠宜/李育真",
+      "translation": null
+    },
+    {
+      "time": 8.0,
+      "time_str": "00:08.000",
+      "text": "中提琴 : 陈怡玲/叶棣绮/黄馨颖",
+      "translation": null
+    },
+    {
+      "time": 9.0,
+      "time_str": "00:09.000",
+      "text": "大提琴 : 张道文/张立青",
+      "translation": null
+    },
+    {
+      "time": 13.0,
+      "time_str": "00:13.000",
+      "text": "混音室 : 杨大伟工作室",
+      "translation": null
+    },
+    {
+      "time": 38.11,
+      "time_str": "00:38.110",
+      "text": "亲吻你的手",
+      "translation": null
+    },
+    {
+      "time": 40.01,
+      "time_str": "00:40.010",
+      "text": "还靠着你的头",
+      "translation": null
+    },
+    {
+      "time": 42.26,
+      "time_str": "00:42.260",
+      "text": "让你躺胸口",
+      "translation": null
+    },
+    {
+      "time": 43.96,
+      "time_str": "00:43.960",
+      "text": "那个人已不是我",
+      "translation": null
+    },
+    {
+      "time": 46.86,
+      "time_str": "00:46.860",
+      "text": "这些平常的举动",
+      "translation": null
+    },
+    {
+      "time": 49.06,
+      "time_str": "00:49.060",
+      "text": "现在叫做难过",
+      "translation": null
+    },
+    {
+      "time": 51.91,
+      "time_str": "00:51.910",
+      "text": "喔 难过",
+      "translation": null
+    },
+    {
+      "time": 55.98,
+      "time_str": "00:55.980",
+      "text": "日子开始过",
+      "translation": null
+    },
+    {
+      "time": 58.03,
+      "time_str": "00:58.030",
+      "text": "我没你照样过",
+      "translation": null
+    },
+    {
+      "time": 60.43,
+      "time_str": "01:00.430",
+      "text": "不会很难受",
+      "translation": null
+    },
+    {
+      "time": 62.02,
+      "time_str": "01:02.020",
+      "text": "我会默默的接受",
+      "translation": null
+    },
+    {
+      "time": 64.96,
+      "time_str": "01:04.960",
+      "text": "反正在一起时",
+      "translation": null
+    },
+    {
+      "time": 66.57,
+      "time_str": "01:06.570",
+      "text": "你我都有开心过",
+      "translation": null
+    },
+    {
+      "time": 69.76,
+      "time_str": "01:09.760",
+      "text": "就足够",
+      "translation": null
+    },
+    {
+      "time": 74.05,
+      "time_str": "01:14.050",
+      "text": "我的温暖你的冷漠",
+      "translation": null
+    },
+    {
+      "time": 76.15,
+      "time_str": "01:16.150",
+      "text": "让爱起雾了",
+      "translation": null
+    },
+    {
+      "time": 78.5,
+      "time_str": "01:18.500",
+      "text": "如果爱心画在起雾的窗",
+      "translation": null
+    },
+    {
+      "time": 81.15,
+      "time_str": "01:21.150",
+      "text": "是模糊",
+      "translation": null
+    },
+    {
+      "time": 85.23,
+      "time_str": "01:25.230",
+      "text": "还是更清楚",
+      "translation": null
+    },
+    {
+      "time": 89.99,
+      "time_str": "01:29.990",
+      "text": "你算什么男人",
+      "translation": null
+    },
+    {
+      "time": 92.14,
+      "time_str": "01:32.140",
+      "text": "算什么男人",
+      "translation": null
+    },
+    {
+      "time": 94.59,
+      "time_str": "01:34.590",
+      "text": "眼睁睁看她走却不闻不问",
+      "translation": null
+    },
+    {
+      "time": 98.84,
+      "time_str": "01:38.840",
+      "text": "是有多天真 就别再硬撑",
+      "translation": null
+    },
+    {
+      "time": 103.34,
+      "time_str": "01:43.340",
+      "text": "期待你挽回你却拱手让人",
+      "translation": null
+    },
+    {
+      "time": 107.89,
+      "time_str": "01:47.890",
+      "text": "你算什么男人",
+      "translation": null
+    },
+    {
+      "time": 109.94,
+      "time_str": "01:49.940",
+      "text": "算什么男人",
+      "translation": null
+    },
+    {
+      "time": 112.39,
+      "time_str": "01:52.390",
+      "text": "还爱着她却不敢叫她再等",
+      "translation": null
+    },
+    {
+      "time": 116.84,
+      "time_str": "01:56.840",
+      "text": "没差 你再继续认份",
+      "translation": null
+    },
+    {
+      "time": 119.94,
+      "time_str": "01:59.940",
+      "text": "她会遇到更好的男人",
+      "translation": null
+    },
+    {
+      "time": 141.27,
+      "time_str": "02:21.270",
+      "text": "亲吻你的手",
+      "translation": null
+    },
+    {
+      "time": 143.22,
+      "time_str": "02:23.220",
+      "text": "还靠着你的头",
+      "translation": null
+    },
+    {
+      "time": 145.57,
+      "time_str": "02:25.570",
+      "text": "让你躺胸口",
+      "translation": null
+    },
+    {
+      "time": 147.02,
+      "time_str": "02:27.020",
+      "text": "那个人已不是我",
+      "translation": null
+    },
+    {
+      "time": 150.17,
+      "time_str": "02:30.170",
+      "text": "这些平常的举动",
+      "translation": null
+    },
+    {
+      "time": 152.27,
+      "time_str": "02:32.270",
+      "text": "现在叫做难过",
+      "translation": null
+    },
+    {
+      "time": 155.07,
+      "time_str": "02:35.070",
+      "text": "喔 难过",
+      "translation": null
+    },
+    {
+      "time": 159.15,
+      "time_str": "02:39.150",
+      "text": "日子开始过",
+      "translation": null
+    },
+    {
+      "time": 161.15,
+      "time_str": "02:41.150",
+      "text": "我没你照样过",
+      "translation": null
+    },
+    {
+      "time": 163.5,
+      "time_str": "02:43.500",
+      "text": "不会很难受",
+      "translation": null
+    },
+    {
+      "time": 164.95,
+      "time_str": "02:44.950",
+      "text": "我会默默的接受",
+      "translation": null
+    },
+    {
+      "time": 168.1,
+      "time_str": "02:48.100",
+      "text": "反正在一起时",
+      "translation": null
+    },
+    {
+      "time": 169.85,
+      "time_str": "02:49.850",
+      "text": "你我都有开心过",
+      "translation": null
+    },
+    {
+      "time": 173.37,
+      "time_str": "02:53.370",
+      "text": "就足够",
+      "translation": null
+    },
+    {
+      "time": 177.23,
+      "time_str": "02:57.230",
+      "text": "我的温暖你的冷漠",
+      "translation": null
+    },
+    {
+      "time": 179.28,
+      "time_str": "02:59.280",
+      "text": "让爱起雾了",
+      "translation": null
+    },
+    {
+      "time": 181.53,
+      "time_str": "03:01.530",
+      "text": "如果爱心画在起雾的窗",
+      "translation": null
+    },
+    {
+      "time": 184.48,
+      "time_str": "03:04.480",
+      "text": "是模糊",
+      "translation": null
+    },
+    {
+      "time": 188.73,
+      "time_str": "03:08.730",
+      "text": "还是更清楚",
+      "translation": null
+    },
+    {
+      "time": 193.23,
+      "time_str": "03:13.230",
+      "text": "你算什么男人",
+      "translation": null
+    },
+    {
+      "time": 195.23,
+      "time_str": "03:15.230",
+      "text": "算什么男人",
+      "translation": null
+    },
+    {
+      "time": 197.88,
+      "time_str": "03:17.880",
+      "text": "眼睁睁看她走却不闻不问",
+      "translation": null
+    },
+    {
+      "time": 202.13,
+      "time_str": "03:22.130",
+      "text": "是有多天真 就别再硬撑",
+      "translation": null
+    },
+    {
+      "time": 206.43,
+      "time_str": "03:26.430",
+      "text": "期待你挽回你却拱手让人",
+      "translation": null
+    },
+    {
+      "time": 210.88,
+      "time_str": "03:30.880",
+      "text": "你算什么男人",
+      "translation": null
+    },
+    {
+      "time": 213.13,
+      "time_str": "03:33.130",
+      "text": "算什么男人",
+      "translation": null
+    },
+    {
+      "time": 215.73,
+      "time_str": "03:35.730",
+      "text": "还爱着她却不敢叫她再等",
+      "translation": null
+    },
+    {
+      "time": 219.93,
+      "time_str": "03:39.930",
+      "text": "没差 你再继续认份",
+      "translation": null
+    },
+    {
+      "time": 223.13,
+      "time_str": "03:43.130",
+      "text": "她会遇到更好的男人",
+      "translation": null
+    },
+    {
+      "time": 228.95,
+      "time_str": "03:48.950",
+      "text": "你算什么男人",
+      "translation": null
+    },
+    {
+      "time": 231.25,
+      "time_str": "03:51.250",
+      "text": "算什么男人",
+      "translation": null
+    },
+    {
+      "time": 233.7,
+      "time_str": "03:53.700",
+      "text": "眼睁睁看她走却不闻不问",
+      "translation": null
+    },
+    {
+      "time": 237.9,
+      "time_str": "03:57.900",
+      "text": "是有多天真 就别再硬撑",
+      "translation": null
+    },
+    {
+      "time": 242.4,
+      "time_str": "04:02.400",
+      "text": "期待你挽回却拱手让人",
+      "translation": null
+    },
+    {
+      "time": 246.75,
+      "time_str": "04:06.750",
+      "text": "你算什么男人",
+      "translation": null
+    },
+    {
+      "time": 249.1,
+      "time_str": "04:09.100",
+      "text": "算什么男人",
+      "translation": null
+    },
+    {
+      "time": 251.6,
+      "time_str": "04:11.600",
+      "text": "还爱着她却不敢叫她再等",
+      "translation": null
+    },
+    {
+      "time": 255.9,
+      "time_str": "04:15.900",
+      "text": "没差 你再继续认份",
+      "translation": null
+    },
+    {
+      "time": 259.05,
+      "time_str": "04:19.050",
+      "text": "她会遇到更好的男人",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "算什么男人 - 周杰伦.lrc"
+}

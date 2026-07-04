@@ -1,0 +1,280 @@
+{
+  "title": "寂寞沙洲冷",
+  "title_raw": "寂寞沙洲冷",
+  "version": null,
+  "artist": "周传雄,吴迪",
+  "group_key": "寂寞沙洲冷|周传雄,吴迪",
+  "writers": {
+    "lyricist": "陈信荣",
+    "composer": "周传雄",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.35,
+      "time_str": "00:13.350",
+      "text": "自你走后心憔悴",
+      "translation": null
+    },
+    {
+      "time": 16.92,
+      "time_str": "00:16.920",
+      "text": "白色油桐风中纷飞",
+      "translation": null
+    },
+    {
+      "time": 21.42,
+      "time_str": "00:21.420",
+      "text": "落花似人有情这个季节",
+      "translation": null
+    },
+    {
+      "time": 29.25,
+      "time_str": "00:29.250",
+      "text": "河畔的风放肆拼命的吹",
+      "translation": null
+    },
+    {
+      "time": 32.76,
+      "time_str": "00:32.760",
+      "text": "无端拨弄离人的眼泪",
+      "translation": null
+    },
+    {
+      "time": 36.78,
+      "time_str": "00:36.780",
+      "text": "那样浓烈的爱再也无法给",
+      "translation": null
+    },
+    {
+      "time": 41.01,
+      "time_str": "00:41.010",
+      "text": "伤感一夜一夜",
+      "translation": null
+    },
+    {
+      "time": 48.72,
+      "time_str": "00:48.720",
+      "text": "当记忆的线缠绕过往支离破碎",
+      "translation": null
+    },
+    {
+      "time": 52.56,
+      "time_str": "00:52.560",
+      "text": "是慌乱占据了心扉",
+      "translation": null
+    },
+    {
+      "time": 56.88,
+      "time_str": "00:56.880",
+      "text": "有花儿伴着蝴碟孤燕可以双飞",
+      "translation": null
+    },
+    {
+      "time": 61.11,
+      "time_str": "01:01.110",
+      "text": "夜深人静独徘徊",
+      "translation": null
+    },
+    {
+      "time": 64.59,
+      "time_str": "01:04.590",
+      "text": "当幸福恋人寄来红色分享喜悦",
+      "translation": null
+    },
+    {
+      "time": 68.55,
+      "time_str": "01:08.550",
+      "text": "闭上双眼难过头也不敢回",
+      "translation": null
+    },
+    {
+      "time": 72.57,
+      "time_str": "01:12.570",
+      "text": "仍然捡尽寒枝不肯安歇",
+      "translation": null
+    },
+    {
+      "time": 75.09,
+      "time_str": "01:15.090",
+      "text": "微带着后悔",
+      "translation": null
+    },
+    {
+      "time": 76.98,
+      "time_str": "01:16.980",
+      "text": "寂寞沙洲我该思念谁",
+      "translation": null
+    },
+    {
+      "time": 89.07,
+      "time_str": "01:29.070",
+      "text": "自你走后心憔悴",
+      "translation": null
+    },
+    {
+      "time": 92.37,
+      "time_str": "01:32.370",
+      "text": "白色油桐风中纷飞",
+      "translation": null
+    },
+    {
+      "time": 96.81,
+      "time_str": "01:36.810",
+      "text": "落花似人有情这个季节",
+      "translation": null
+    },
+    {
+      "time": 104.79,
+      "time_str": "01:44.790",
+      "text": "河畔的风放肆拼命的吹",
+      "translation": null
+    },
+    {
+      "time": 108.36,
+      "time_str": "01:48.360",
+      "text": "无端拨弄离人的眼泪",
+      "translation": null
+    },
+    {
+      "time": 112.17,
+      "time_str": "01:52.170",
+      "text": "那样浓烈的爱再也无法给",
+      "translation": null
+    },
+    {
+      "time": 115.83,
+      "time_str": "01:55.830",
+      "text": "伤感一夜一夜",
+      "translation": null
+    },
+    {
+      "time": 116.31,
+      "time_str": "01:56.310",
+      "text": "当记忆的线缠绕过往支离破碎",
+      "translation": null
+    },
+    {
+      "time": 117.18,
+      "time_str": "01:57.180",
+      "text": "是慌乱占据了心扉",
+      "translation": null
+    },
+    {
+      "time": 117.75,
+      "time_str": "01:57.750",
+      "text": "有花儿伴着蝴蝶孤燕可以双飞",
+      "translation": null
+    },
+    {
+      "time": 119.04,
+      "time_str": "01:59.040",
+      "text": "夜深人静独徘徊",
+      "translation": null
+    },
+    {
+      "time": 119.52,
+      "time_str": "01:59.520",
+      "text": "当幸福恋人寄来红色分享喜悦",
+      "translation": null
+    },
+    {
+      "time": 120.54,
+      "time_str": "02:00.540",
+      "text": "闭上双眼难过头也不敢回",
+      "translation": null
+    },
+    {
+      "time": 121.41,
+      "time_str": "02:01.410",
+      "text": "仍然捡尽寒枝不肯安歇",
+      "translation": null
+    },
+    {
+      "time": 122.01,
+      "time_str": "02:02.010",
+      "text": "微带着后悔",
+      "translation": null
+    },
+    {
+      "time": 122.49,
+      "time_str": "02:02.490",
+      "text": "寂寞沙洲我该思念谁",
+      "translation": null
+    },
+    {
+      "time": 124.11,
+      "time_str": "02:04.110",
+      "text": "当记忆的线缠绕过往支离破碎",
+      "translation": null
+    },
+    {
+      "time": 128.1,
+      "time_str": "02:08.100",
+      "text": "是慌乱占据了心扉",
+      "translation": null
+    },
+    {
+      "time": 132.36,
+      "time_str": "02:12.360",
+      "text": "有花儿伴着蝴蝶孤燕可以双飞",
+      "translation": null
+    },
+    {
+      "time": 136.62,
+      "time_str": "02:16.620",
+      "text": "夜深人静独徘徊",
+      "translation": null
+    },
+    {
+      "time": 140.1,
+      "time_str": "02:20.100",
+      "text": "当幸福恋人寄来红色分享喜悦",
+      "translation": null
+    },
+    {
+      "time": 144.09,
+      "time_str": "02:24.090",
+      "text": "闭上双眼难过头也不敢回",
+      "translation": null
+    },
+    {
+      "time": 148.02,
+      "time_str": "02:28.020",
+      "text": "仍然捡尽寒枝不肯安歇",
+      "translation": null
+    },
+    {
+      "time": 150.54,
+      "time_str": "02:30.540",
+      "text": "微带着后悔",
+      "translation": null
+    },
+    {
+      "time": 152.4,
+      "time_str": "02:32.400",
+      "text": "寂寞沙洲我该思念谁",
+      "translation": null
+    },
+    {
+      "time": 156.03,
+      "time_str": "02:36.030",
+      "text": "仍然捡尽寒枝不肯安歇",
+      "translation": null
+    },
+    {
+      "time": 158.46,
+      "time_str": "02:38.460",
+      "text": "微带着后悔",
+      "translation": null
+    },
+    {
+      "time": 160.35,
+      "time_str": "02:40.350",
+      "text": "寂寞沙洲我该思念谁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "寂寞沙洲冷 - 周传雄,吴迪.lrc"
+}

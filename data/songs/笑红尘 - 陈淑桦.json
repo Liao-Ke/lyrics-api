@@ -1,0 +1,424 @@
+{
+  "title": "笑红尘",
+  "title_raw": "笑红尘",
+  "version": null,
+  "artist": "陈淑桦",
+  "group_key": "笑红尘|陈淑桦",
+  "writers": {
+    "lyricist": "厉曼婷",
+    "composer": "李宗盛",
+    "arranger": "鲍比达"
+  },
+  "lyrics": [
+    {
+      "time": 11.81,
+      "time_str": "00:11.810",
+      "text": "红尘多可笑",
+      "translation": null
+    },
+    {
+      "time": 13.78,
+      "time_str": "00:13.780",
+      "text": "痴情最无聊",
+      "translation": null
+    },
+    {
+      "time": 16.23,
+      "time_str": "00:16.230",
+      "text": "目空一切也好",
+      "translation": null
+    },
+    {
+      "time": 20.16,
+      "time_str": "00:20.160",
+      "text": "此生未了",
+      "translation": null
+    },
+    {
+      "time": 21.6,
+      "time_str": "00:21.600",
+      "text": "心却已无所扰",
+      "translation": null
+    },
+    {
+      "time": 24.08,
+      "time_str": "00:24.080",
+      "text": "只想换得半世逍遥",
+      "translation": null
+    },
+    {
+      "time": 27.54,
+      "time_str": "00:27.540",
+      "text": "醒时对人笑",
+      "translation": null
+    },
+    {
+      "time": 29.51,
+      "time_str": "00:29.510",
+      "text": "梦中全忘掉",
+      "translation": null
+    },
+    {
+      "time": 31.95,
+      "time_str": "00:31.950",
+      "text": "叹天黑得太早",
+      "translation": null
+    },
+    {
+      "time": 35.87,
+      "time_str": "00:35.870",
+      "text": "来生难料",
+      "translation": null
+    },
+    {
+      "time": 37.42,
+      "time_str": "00:37.420",
+      "text": "爱恨一笔勾销",
+      "translation": null
+    },
+    {
+      "time": 39.82,
+      "time_str": "00:39.820",
+      "text": "对酒当歌我只愿开心到老",
+      "translation": null
+    },
+    {
+      "time": 43.23,
+      "time_str": "00:43.230",
+      "text": "风再冷不想逃",
+      "translation": null
+    },
+    {
+      "time": 45.24,
+      "time_str": "00:45.240",
+      "text": "花再美也不想要",
+      "translation": null
+    },
+    {
+      "time": 47.2,
+      "time_str": "00:47.200",
+      "text": "任我飘摇",
+      "translation": null
+    },
+    {
+      "time": 51.16,
+      "time_str": "00:51.160",
+      "text": "天越高心越小",
+      "translation": null
+    },
+    {
+      "time": 53.16,
+      "time_str": "00:53.160",
+      "text": "不问因果有多少",
+      "translation": null
+    },
+    {
+      "time": 55.12,
+      "time_str": "00:55.120",
+      "text": "独自醉倒",
+      "translation": null
+    },
+    {
+      "time": 59.04,
+      "time_str": "00:59.040",
+      "text": "今天哭明天笑",
+      "translation": null
+    },
+    {
+      "time": 61.01,
+      "time_str": "01:01.010",
+      "text": "不求有人能明了",
+      "translation": null
+    },
+    {
+      "time": 62.95,
+      "time_str": "01:02.950",
+      "text": "一身骄傲",
+      "translation": null
+    },
+    {
+      "time": 66.93,
+      "time_str": "01:06.930",
+      "text": "歌在唱舞在跳",
+      "translation": null
+    },
+    {
+      "time": 68.9,
+      "time_str": "01:08.900",
+      "text": "长夜漫漫不觉晓将快乐寻找",
+      "translation": null
+    },
+    {
+      "time": 90.58,
+      "time_str": "01:30.580",
+      "text": "红尘多可笑",
+      "translation": null
+    },
+    {
+      "time": 92.56,
+      "time_str": "01:32.560",
+      "text": "痴情最无聊",
+      "translation": null
+    },
+    {
+      "time": 94.95,
+      "time_str": "01:34.950",
+      "text": "目空一切也好",
+      "translation": null
+    },
+    {
+      "time": 98.63,
+      "time_str": "01:38.630",
+      "text": "此生未了",
+      "translation": null
+    },
+    {
+      "time": 100.07,
+      "time_str": "01:40.070",
+      "text": "心却已无所扰",
+      "translation": null
+    },
+    {
+      "time": 102.56,
+      "time_str": "01:42.560",
+      "text": "只想换得半世逍遥",
+      "translation": null
+    },
+    {
+      "time": 106.03,
+      "time_str": "01:46.030",
+      "text": "醒时对人笑",
+      "translation": null
+    },
+    {
+      "time": 107.97,
+      "time_str": "01:47.970",
+      "text": "梦中全忘掉",
+      "translation": null
+    },
+    {
+      "time": 110.39,
+      "time_str": "01:50.390",
+      "text": "叹天黑得太早",
+      "translation": null
+    },
+    {
+      "time": 114.33,
+      "time_str": "01:54.330",
+      "text": "来生难料",
+      "translation": null
+    },
+    {
+      "time": 115.87,
+      "time_str": "01:55.870",
+      "text": "爱恨一笔勾销",
+      "translation": null
+    },
+    {
+      "time": 118.31,
+      "time_str": "01:58.310",
+      "text": "对酒当歌我只愿开心到老",
+      "translation": null
+    },
+    {
+      "time": 121.7,
+      "time_str": "02:01.700",
+      "text": "风再冷不想逃",
+      "translation": null
+    },
+    {
+      "time": 123.69,
+      "time_str": "02:03.690",
+      "text": "花再美也不想要",
+      "translation": null
+    },
+    {
+      "time": 125.66,
+      "time_str": "02:05.660",
+      "text": "任我飘摇",
+      "translation": null
+    },
+    {
+      "time": 129.61,
+      "time_str": "02:09.610",
+      "text": "天越高心越小",
+      "translation": null
+    },
+    {
+      "time": 131.58,
+      "time_str": "02:11.580",
+      "text": "不问因果有多少",
+      "translation": null
+    },
+    {
+      "time": 133.54,
+      "time_str": "02:13.540",
+      "text": "独自醉倒",
+      "translation": null
+    },
+    {
+      "time": 137.47,
+      "time_str": "02:17.470",
+      "text": "今天哭明天笑",
+      "translation": null
+    },
+    {
+      "time": 139.5,
+      "time_str": "02:19.500",
+      "text": "不求有人能明了",
+      "translation": null
+    },
+    {
+      "time": 141.42,
+      "time_str": "02:21.420",
+      "text": "一身骄傲",
+      "translation": null
+    },
+    {
+      "time": 145.37,
+      "time_str": "02:25.370",
+      "text": "歌在唱舞在跳",
+      "translation": null
+    },
+    {
+      "time": 147.37,
+      "time_str": "02:27.370",
+      "text": "长夜漫漫不觉晓将快乐寻找",
+      "translation": null
+    },
+    {
+      "time": 184.79,
+      "time_str": "03:04.790",
+      "text": "风再冷不想逃",
+      "translation": null
+    },
+    {
+      "time": 186.73,
+      "time_str": "03:06.730",
+      "text": "花再美也不想要",
+      "translation": null
+    },
+    {
+      "time": 188.69,
+      "time_str": "03:08.690",
+      "text": "任我飘摇",
+      "translation": null
+    },
+    {
+      "time": 192.64,
+      "time_str": "03:12.640",
+      "text": "天越高心越小",
+      "translation": null
+    },
+    {
+      "time": 194.62,
+      "time_str": "03:14.620",
+      "text": "不问因果有多少",
+      "translation": null
+    },
+    {
+      "time": 196.55,
+      "time_str": "03:16.550",
+      "text": "独自醉倒",
+      "translation": null
+    },
+    {
+      "time": 200.52,
+      "time_str": "03:20.520",
+      "text": "今天哭明天笑",
+      "translation": null
+    },
+    {
+      "time": 202.49,
+      "time_str": "03:22.490",
+      "text": "不求有人能明了",
+      "translation": null
+    },
+    {
+      "time": 204.39,
+      "time_str": "03:24.390",
+      "text": "一身骄傲",
+      "translation": null
+    },
+    {
+      "time": 208.4,
+      "time_str": "03:28.400",
+      "text": "歌在唱舞在跳",
+      "translation": null
+    },
+    {
+      "time": 210.34,
+      "time_str": "03:30.340",
+      "text": "长夜漫漫不觉晓将快乐寻找",
+      "translation": null
+    },
+    {
+      "time": 216.26,
+      "time_str": "03:36.260",
+      "text": "风再冷不想逃",
+      "translation": null
+    },
+    {
+      "time": 218.22,
+      "time_str": "03:38.220",
+      "text": "花再美也不想要",
+      "translation": null
+    },
+    {
+      "time": 220.13,
+      "time_str": "03:40.130",
+      "text": "任我飘摇",
+      "translation": null
+    },
+    {
+      "time": 224.14,
+      "time_str": "03:44.140",
+      "text": "天越高心越小",
+      "translation": null
+    },
+    {
+      "time": 226.09,
+      "time_str": "03:46.090",
+      "text": "不问因果有多少",
+      "translation": null
+    },
+    {
+      "time": 228.05,
+      "time_str": "03:48.050",
+      "text": "独自醉倒",
+      "translation": null
+    },
+    {
+      "time": 232.02,
+      "time_str": "03:52.020",
+      "text": "今天哭明天笑",
+      "translation": null
+    },
+    {
+      "time": 233.94,
+      "time_str": "03:53.940",
+      "text": "不求有人能明了",
+      "translation": null
+    },
+    {
+      "time": 235.96,
+      "time_str": "03:55.960",
+      "text": "一身骄傲",
+      "translation": null
+    },
+    {
+      "time": 239.9,
+      "time_str": "03:59.900",
+      "text": "歌在唱舞在跳",
+      "translation": null
+    },
+    {
+      "time": 241.87,
+      "time_str": "04:01.870",
+      "text": "长夜漫漫不觉晓将快乐寻找",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "笑红尘 - 陈淑桦.lrc"
+}

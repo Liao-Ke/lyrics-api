@@ -1,0 +1,226 @@
+{
+  "title": "游山恋",
+  "title_raw": "游山恋",
+  "version": null,
+  "artist": "海伦",
+  "group_key": "游山恋|海伦",
+  "writers": {
+    "lyricist": "海伦",
+    "composer": "海伦",
+    "arranger": "孙星晨 / 张赫"
+  },
+  "lyrics": [
+    {
+      "time": 5.13,
+      "time_str": "00:05.130",
+      "text": "「版权所有未经许可请勿使用」",
+      "translation": null
+    },
+    {
+      "time": 14.23,
+      "time_str": "00:14.230",
+      "text": "我醉提酒游寒山 霜华满天",
+      "translation": null
+    },
+    {
+      "time": 19.74,
+      "time_str": "00:19.740",
+      "text": "一吸寒气冷风翻 酒洒河山",
+      "translation": null
+    },
+    {
+      "time": 24.78,
+      "time_str": "00:24.780",
+      "text": "仰望 蓝水云烟 翩翩雀落人间",
+      "translation": null
+    },
+    {
+      "time": 30.4,
+      "time_str": "00:30.400",
+      "text": "抬手间 我酒落湿衫前",
+      "translation": null
+    },
+    {
+      "time": 36.26,
+      "time_str": "00:36.260",
+      "text": "你看雪花 飘散 芊芊换白观",
+      "translation": null
+    },
+    {
+      "time": 41.67,
+      "time_str": "00:41.670",
+      "text": "白发老人背着孩下山",
+      "translation": null
+    },
+    {
+      "time": 47.28,
+      "time_str": "00:47.280",
+      "text": "远观天仙舞欢我今醉酒悠哉",
+      "translation": null
+    },
+    {
+      "time": 52.95,
+      "time_str": "00:52.950",
+      "text": "一别寒山 我何时归来",
+      "translation": null
+    },
+    {
+      "time": 81.9,
+      "time_str": "01:21.900",
+      "text": "我欲迎风再留住几步",
+      "translation": null
+    },
+    {
+      "time": 87.51,
+      "time_str": "01:27.510",
+      "text": "怎舍寒风吹动我痛处",
+      "translation": null
+    },
+    {
+      "time": 92.66,
+      "time_str": "01:32.660",
+      "text": "我说寒山别哭",
+      "translation": null
+    },
+    {
+      "time": 96.0,
+      "time_str": "01:36.000",
+      "text": "我带你出",
+      "translation": null
+    },
+    {
+      "time": 98.87,
+      "time_str": "01:38.870",
+      "text": "我敬滴酒带你出",
+      "translation": null
+    },
+    {
+      "time": 104.48,
+      "time_str": "01:44.480",
+      "text": "我欲成冰再也无退路",
+      "translation": null
+    },
+    {
+      "time": 110.1,
+      "time_str": "01:50.100",
+      "text": "怎舍寒冰冰冻我心窟",
+      "translation": null
+    },
+    {
+      "time": 115.31,
+      "time_str": "01:55.310",
+      "text": "我说寒山别哭",
+      "translation": null
+    },
+    {
+      "time": 118.49,
+      "time_str": "01:58.490",
+      "text": "我带你出",
+      "translation": null
+    },
+    {
+      "time": 121.22,
+      "time_str": "02:01.220",
+      "text": "我画美观带你出",
+      "translation": null
+    },
+    {
+      "time": 138.57,
+      "time_str": "02:18.570",
+      "text": "我醉提酒游寒山 难舍美观",
+      "translation": null
+    },
+    {
+      "time": 143.93,
+      "time_str": "02:23.930",
+      "text": "仙着衣裳抚琴欢 美人奏弦",
+      "translation": null
+    },
+    {
+      "time": 149.03,
+      "time_str": "02:29.030",
+      "text": "你看白雪人间 你看冰川璀璨",
+      "translation": null
+    },
+    {
+      "time": 154.59,
+      "time_str": "02:34.590",
+      "text": "来者恋 如大梦眼前",
+      "translation": null
+    },
+    {
+      "time": 160.91,
+      "time_str": "02:40.910",
+      "text": "我欲迎风再留住几步",
+      "translation": null
+    },
+    {
+      "time": 166.57,
+      "time_str": "02:46.570",
+      "text": "怎舍寒风吹动我痛处",
+      "translation": null
+    },
+    {
+      "time": 171.52,
+      "time_str": "02:51.520",
+      "text": "我说寒山别哭",
+      "translation": null
+    },
+    {
+      "time": 175.06,
+      "time_str": "02:55.060",
+      "text": "我带你出",
+      "translation": null
+    },
+    {
+      "time": 177.94,
+      "time_str": "02:57.940",
+      "text": "我敬滴酒带你出",
+      "translation": null
+    },
+    {
+      "time": 183.51,
+      "time_str": "03:03.510",
+      "text": "我欲成冰再也无退路",
+      "translation": null
+    },
+    {
+      "time": 189.12,
+      "time_str": "03:09.120",
+      "text": "怎舍寒冰冰冻我心窟",
+      "translation": null
+    },
+    {
+      "time": 194.23,
+      "time_str": "03:14.230",
+      "text": "我说寒山别哭",
+      "translation": null
+    },
+    {
+      "time": 197.61,
+      "time_str": "03:17.610",
+      "text": "我带你出",
+      "translation": null
+    },
+    {
+      "time": 200.35,
+      "time_str": "03:20.350",
+      "text": "我画美观带你出",
+      "translation": null
+    },
+    {
+      "time": 221.82,
+      "time_str": "03:41.820",
+      "text": "戏腔 : 孙星晨",
+      "translation": null
+    },
+    {
+      "time": 222.12,
+      "time_str": "03:42.120",
+      "text": "编写 : 孙星晨",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "游山恋 - 海伦.lrc"
+}

@@ -1,0 +1,304 @@
+{
+  "title": "友情岁月",
+  "title_raw": "友情岁月",
+  "version": null,
+  "artist": "陈小春",
+  "group_key": "友情岁月|陈小春",
+  "writers": {
+    "lyricist": "刘卓辉",
+    "composer": "陈光荣",
+    "arranger": "陈光荣"
+  },
+  "lyrics": [
+    {
+      "time": 8.94,
+      "time_str": "00:08.940",
+      "text": "消失的光阴散在风里",
+      "translation": null
+    },
+    {
+      "time": 13.09,
+      "time_str": "00:13.090",
+      "text": "彷彿想不起再面对",
+      "translation": null
+    },
+    {
+      "time": 17.12,
+      "time_str": "00:17.120",
+      "text": "流浪日子你在伴随",
+      "translation": null
+    },
+    {
+      "time": 21.35,
+      "time_str": "00:21.350",
+      "text": "有缘再聚",
+      "translation": null
+    },
+    {
+      "time": 25.28,
+      "time_str": "00:25.280",
+      "text": "天真的声音已在减退",
+      "translation": null
+    },
+    {
+      "time": 29.41,
+      "time_str": "00:29.410",
+      "text": "彼此为著目标相距",
+      "translation": null
+    },
+    {
+      "time": 33.31,
+      "time_str": "00:33.310",
+      "text": "凝望夜空 往日是谁",
+      "translation": null
+    },
+    {
+      "time": 37.46,
+      "time_str": "00:37.460",
+      "text": "领会心中疲累",
+      "translation": null
+    },
+    {
+      "time": 42.38,
+      "time_str": "00:42.380",
+      "text": "来忘掉错对 来怀念过去",
+      "translation": null
+    },
+    {
+      "time": 47.52,
+      "time_str": "00:47.520",
+      "text": "曾共渡患难日子总有乐趣",
+      "translation": null
+    },
+    {
+      "time": 51.38,
+      "time_str": "00:51.380",
+      "text": "不相信会绝望",
+      "translation": null
+    },
+    {
+      "time": 53.31,
+      "time_str": "00:53.310",
+      "text": "不感觉到踌躇",
+      "translation": null
+    },
+    {
+      "time": 55.35,
+      "time_str": "00:55.350",
+      "text": "在美梦里竞争",
+      "translation": null
+    },
+    {
+      "time": 57.38,
+      "time_str": "00:57.380",
+      "text": "每日拼命进取",
+      "translation": null
+    },
+    {
+      "time": 59.41,
+      "time_str": "00:59.410",
+      "text": "奔波的风雨里",
+      "translation": null
+    },
+    {
+      "time": 61.37,
+      "time_str": "01:01.370",
+      "text": "不羁的醒与醉",
+      "translation": null
+    },
+    {
+      "time": 63.65,
+      "time_str": "01:03.650",
+      "text": "所有故事像已发生飘泊岁月里",
+      "translation": null
+    },
+    {
+      "time": 67.62,
+      "time_str": "01:07.620",
+      "text": "风吹过已静下",
+      "translation": null
+    },
+    {
+      "time": 69.58,
+      "time_str": "01:09.580",
+      "text": "将心意再还谁",
+      "translation": null
+    },
+    {
+      "time": 71.61,
+      "time_str": "01:11.610",
+      "text": "让眼泪已带走 夜憔悴",
+      "translation": null
+    },
+    {
+      "time": 86.0,
+      "time_str": "01:26.000",
+      "text": "天真的声音已在减退",
+      "translation": null
+    },
+    {
+      "time": 90.43,
+      "time_str": "01:30.430",
+      "text": "彼此为著目标相距",
+      "translation": null
+    },
+    {
+      "time": 94.18,
+      "time_str": "01:34.180",
+      "text": "凝望夜空 往日是谁",
+      "translation": null
+    },
+    {
+      "time": 98.59,
+      "time_str": "01:38.590",
+      "text": "领会心中疲累",
+      "translation": null
+    },
+    {
+      "time": 103.23,
+      "time_str": "01:43.230",
+      "text": "来忘掉错对 来怀念过去",
+      "translation": null
+    },
+    {
+      "time": 108.17,
+      "time_str": "01:48.170",
+      "text": "曾共渡患难日子总有乐趣",
+      "translation": null
+    },
+    {
+      "time": 112.56,
+      "time_str": "01:52.560",
+      "text": "不相信会绝望",
+      "translation": null
+    },
+    {
+      "time": 114.43,
+      "time_str": "01:54.430",
+      "text": "不感觉到踌躇",
+      "translation": null
+    },
+    {
+      "time": 116.41,
+      "time_str": "01:56.410",
+      "text": "在美梦里竞争",
+      "translation": null
+    },
+    {
+      "time": 118.5,
+      "time_str": "01:58.500",
+      "text": "每日拼命进取",
+      "translation": null
+    },
+    {
+      "time": 120.58,
+      "time_str": "02:00.580",
+      "text": "奔波的风雨里",
+      "translation": null
+    },
+    {
+      "time": 122.45,
+      "time_str": "02:02.450",
+      "text": "不羁的醒与醉",
+      "translation": null
+    },
+    {
+      "time": 124.57,
+      "time_str": "02:04.570",
+      "text": "所有故事像已发生飘泊岁月里",
+      "translation": null
+    },
+    {
+      "time": 128.55,
+      "time_str": "02:08.550",
+      "text": "风吹过已静下",
+      "translation": null
+    },
+    {
+      "time": 130.53,
+      "time_str": "02:10.530",
+      "text": "将心意再还谁",
+      "translation": null
+    },
+    {
+      "time": 132.53,
+      "time_str": "02:12.530",
+      "text": "让眼泪已带走 夜憔悴",
+      "translation": null
+    },
+    {
+      "time": 154.39,
+      "time_str": "02:34.390",
+      "text": "来忘掉错对 来怀念过去",
+      "translation": null
+    },
+    {
+      "time": 159.24,
+      "time_str": "02:39.240",
+      "text": "曾共渡患难日子总有乐趣",
+      "translation": null
+    },
+    {
+      "time": 163.08,
+      "time_str": "02:43.080",
+      "text": "不相信会绝望",
+      "translation": null
+    },
+    {
+      "time": 165.07,
+      "time_str": "02:45.070",
+      "text": "不感觉到踌躇",
+      "translation": null
+    },
+    {
+      "time": 167.0,
+      "time_str": "02:47.000",
+      "text": "在美梦里竞争",
+      "translation": null
+    },
+    {
+      "time": 169.2,
+      "time_str": "02:49.200",
+      "text": "每日拼命进取",
+      "translation": null
+    },
+    {
+      "time": 171.27,
+      "time_str": "02:51.270",
+      "text": "奔波的风雨里",
+      "translation": null
+    },
+    {
+      "time": 173.08,
+      "time_str": "02:53.080",
+      "text": "不羈的醒与醉",
+      "translation": null
+    },
+    {
+      "time": 175.33,
+      "time_str": "02:55.330",
+      "text": "所有故事像已发生飘泊岁月里",
+      "translation": null
+    },
+    {
+      "time": 179.53,
+      "time_str": "02:59.530",
+      "text": "风吹过已静下",
+      "translation": null
+    },
+    {
+      "time": 181.68,
+      "time_str": "03:01.680",
+      "text": "将心意再还谁",
+      "translation": null
+    },
+    {
+      "time": 183.72,
+      "time_str": "03:03.720",
+      "text": "让眼泪已带走 夜憔悴",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "友情岁月 - 陈小春.lrc"
+}

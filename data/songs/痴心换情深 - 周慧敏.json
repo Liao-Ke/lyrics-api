@@ -1,0 +1,334 @@
+{
+  "title": "痴心换情深",
+  "title_raw": "痴心换情深",
+  "version": null,
+  "artist": "周慧敏",
+  "group_key": "痴心换情深|周慧敏",
+  "writers": {
+    "lyricist": "向雪怀",
+    "composer": "李子恒",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 36.86,
+      "time_str": "00:36.860",
+      "text": "这个世界或有别人",
+      "translation": null
+    },
+    {
+      "time": 40.39,
+      "time_str": "00:40.390",
+      "text": "亦能令我放肆爱一阵",
+      "translation": null
+    },
+    {
+      "time": 44.48,
+      "time_str": "00:44.480",
+      "text": "对你飘忽的爱为何认真",
+      "translation": null
+    },
+    {
+      "time": 48.8,
+      "time_str": "00:48.800",
+      "text": "热情热爱倍难枕",
+      "translation": null
+    },
+    {
+      "time": 52.88,
+      "time_str": "00:52.880",
+      "text": "怎知道爱上了你像似自焚",
+      "translation": null
+    },
+    {
+      "time": 57.2,
+      "time_str": "00:57.200",
+      "text": "仍然愿意靠向你亲近",
+      "translation": null
+    },
+    {
+      "time": 61.276,
+      "time_str": "01:01.276",
+      "text": "也许痴心可以换情深",
+      "translation": null
+    },
+    {
+      "time": 65.506,
+      "time_str": "01:05.506",
+      "text": "在无望盼天悯",
+      "translation": null
+    },
+    {
+      "time": 71.786,
+      "time_str": "01:11.786",
+      "text": "随缘分过去你不再问",
+      "translation": null
+    },
+    {
+      "time": 74.229,
+      "time_str": "01:14.229",
+      "text": "不懂珍惜此际",
+      "translation": null
+    },
+    {
+      "time": 76.418,
+      "time_str": "01:16.418",
+      "text": "每每看着我伤心",
+      "translation": null
+    },
+    {
+      "time": 79.927,
+      "time_str": "01:19.927",
+      "text": "只因你看惯我的泪痕",
+      "translation": null
+    },
+    {
+      "time": 82.668,
+      "time_str": "01:22.668",
+      "text": "对你再不震撼",
+      "translation": null
+    },
+    {
+      "time": 84.857,
+      "time_str": "01:24.857",
+      "text": "看见了都不痛心",
+      "translation": null
+    },
+    {
+      "time": 88.576,
+      "time_str": "01:28.576",
+      "text": "如何像戏里说的对白",
+      "translation": null
+    },
+    {
+      "time": 91.067,
+      "time_str": "01:31.067",
+      "text": "相恋一生一世",
+      "translation": null
+    },
+    {
+      "time": 93.309,
+      "time_str": "01:33.309",
+      "text": "说了当没有发生",
+      "translation": null
+    },
+    {
+      "time": 96.878,
+      "time_str": "01:36.878",
+      "text": "思想已永远退不回头",
+      "translation": null
+    },
+    {
+      "time": 99.53,
+      "time_str": "01:39.530",
+      "text": "爱过痛苦一生",
+      "translation": null
+    },
+    {
+      "time": 101.768,
+      "time_str": "01:41.768",
+      "text": "沾满心中的泪印",
+      "translation": null
+    },
+    {
+      "time": 123.137,
+      "time_str": "02:03.137",
+      "text": "这个世界或有别人",
+      "translation": null
+    },
+    {
+      "time": 126.616,
+      "time_str": "02:06.616",
+      "text": "亦能令我放肆爱一阵",
+      "translation": null
+    },
+    {
+      "time": 130.706,
+      "time_str": "02:10.706",
+      "text": "对你飘忽的爱为何认真",
+      "translation": null
+    },
+    {
+      "time": 135.086,
+      "time_str": "02:15.086",
+      "text": "热情热爱倍难枕",
+      "translation": null
+    },
+    {
+      "time": 138.995,
+      "time_str": "02:18.995",
+      "text": "怎知道爱上了你像似自焚",
+      "translation": null
+    },
+    {
+      "time": 142.965,
+      "time_str": "02:22.965",
+      "text": "仍然愿意靠向你亲近",
+      "translation": null
+    },
+    {
+      "time": 147.556,
+      "time_str": "02:27.556",
+      "text": "也许痴心可以换情深",
+      "translation": null
+    },
+    {
+      "time": 151.826,
+      "time_str": "02:31.826",
+      "text": "在无望盼天悯",
+      "translation": null
+    },
+    {
+      "time": 158.097,
+      "time_str": "02:38.097",
+      "text": "随缘分过去你不再问",
+      "translation": null
+    },
+    {
+      "time": 160.587,
+      "time_str": "02:40.587",
+      "text": "不懂珍惜此际",
+      "translation": null
+    },
+    {
+      "time": 162.776,
+      "time_str": "02:42.776",
+      "text": "每每看着我伤心",
+      "translation": null
+    },
+    {
+      "time": 166.385,
+      "time_str": "02:46.385",
+      "text": "只因你看惯我的泪痕",
+      "translation": null
+    },
+    {
+      "time": 168.935,
+      "time_str": "02:48.935",
+      "text": "对你再不震撼",
+      "translation": null
+    },
+    {
+      "time": 171.066,
+      "time_str": "02:51.066",
+      "text": "看见了都不痛心",
+      "translation": null
+    },
+    {
+      "time": 174.885,
+      "time_str": "02:54.885",
+      "text": "如何像戏里说的对白",
+      "translation": null
+    },
+    {
+      "time": 177.276,
+      "time_str": "02:57.276",
+      "text": "相恋一生一世",
+      "translation": null
+    },
+    {
+      "time": 179.416,
+      "time_str": "02:59.416",
+      "text": "说了当没有发生",
+      "translation": null
+    },
+    {
+      "time": 183.185,
+      "time_str": "03:03.185",
+      "text": "思想已永远退不回头",
+      "translation": null
+    },
+    {
+      "time": 185.786,
+      "time_str": "03:05.786",
+      "text": "爱过痛苦一生",
+      "translation": null
+    },
+    {
+      "time": 188.076,
+      "time_str": "03:08.076",
+      "text": "沾满心中的泪印",
+      "translation": null
+    },
+    {
+      "time": 193.876,
+      "time_str": "03:13.876",
+      "text": "随缘分过去你不再问",
+      "translation": null
+    },
+    {
+      "time": 196.266,
+      "time_str": "03:16.266",
+      "text": "不懂珍惜此际",
+      "translation": null
+    },
+    {
+      "time": 198.617,
+      "time_str": "03:18.617",
+      "text": "每每看着我伤心",
+      "translation": null
+    },
+    {
+      "time": 202.076,
+      "time_str": "03:22.076",
+      "text": "只因你看惯我的泪痕",
+      "translation": null
+    },
+    {
+      "time": 204.676,
+      "time_str": "03:24.676",
+      "text": "对你再不震撼",
+      "translation": null
+    },
+    {
+      "time": 207.016,
+      "time_str": "03:27.016",
+      "text": "看见了都不痛心",
+      "translation": null
+    },
+    {
+      "time": 210.587,
+      "time_str": "03:30.587",
+      "text": "如何像戏里说的对白",
+      "translation": null
+    },
+    {
+      "time": 213.127,
+      "time_str": "03:33.127",
+      "text": "相恋一生一世",
+      "translation": null
+    },
+    {
+      "time": 215.316,
+      "time_str": "03:35.316",
+      "text": "说了当没有发生",
+      "translation": null
+    },
+    {
+      "time": 219.077,
+      "time_str": "03:39.077",
+      "text": "思想已永远退不回头",
+      "translation": null
+    },
+    {
+      "time": 221.676,
+      "time_str": "03:41.676",
+      "text": "爱过痛苦一生",
+      "translation": null
+    },
+    {
+      "time": 223.766,
+      "time_str": "03:43.766",
+      "text": "沾满心中的泪印",
+      "translation": null
+    },
+    {
+      "time": 255.766,
+      "time_str": "04:15.766",
+      "text": "SP : 美希亚音乐版权代理（北京）有限公司",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "痴心换情深 - 周慧敏.lrc"
+}

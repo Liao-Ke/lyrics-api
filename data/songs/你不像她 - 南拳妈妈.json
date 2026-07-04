@@ -1,0 +1,262 @@
+{
+  "title": "你不像她",
+  "title_raw": "你不像她",
+  "version": null,
+  "artist": "南拳妈妈",
+  "group_key": "你不像她|南拳妈妈",
+  "writers": {
+    "lyricist": "宋健彰",
+    "composer": "周杰伦",
+    "arranger": "詹宇豪"
+  },
+  "lyrics": [
+    {
+      "time": 19.5,
+      "time_str": "00:19.500",
+      "text": "车窗外萧瑟的风 加速了寂寞",
+      "translation": null
+    },
+    {
+      "time": 26.86,
+      "time_str": "00:26.860",
+      "text": "指针绕完的温柔 绕不起我们的承诺",
+      "translation": null
+    },
+    {
+      "time": 34.18,
+      "time_str": "00:34.180",
+      "text": "走完回忆的尽头 爱还在源头",
+      "translation": null
+    },
+    {
+      "time": 42.19,
+      "time_str": "00:42.190",
+      "text": "枫叶落尽了秋末 落不尽我的等候",
+      "translation": null
+    },
+    {
+      "time": 47.71,
+      "time_str": "00:47.710",
+      "text": "哦哎哟哎哟 要走为何不说",
+      "translation": null
+    },
+    {
+      "time": 51.23,
+      "time_str": "00:51.230",
+      "text": "哦又我又我 每次都是我错",
+      "translation": null
+    },
+    {
+      "time": 55.28,
+      "time_str": "00:55.280",
+      "text": "若爱的流浪迷失方向",
+      "translation": null
+    },
+    {
+      "time": 58.66,
+      "time_str": "00:58.660",
+      "text": "被时间埋葬",
+      "translation": null
+    },
+    {
+      "time": 60.67,
+      "time_str": "01:00.670",
+      "text": "（被月光埋葬）",
+      "translation": null
+    },
+    {
+      "time": 62.56,
+      "time_str": "01:02.560",
+      "text": "哦爱我爱我 你说怎么能够",
+      "translation": null
+    },
+    {
+      "time": 66.17,
+      "time_str": "01:06.170",
+      "text": "哦挥手挥手 跟我说了保重",
+      "translation": null
+    },
+    {
+      "time": 69.88,
+      "time_str": "01:09.880",
+      "text": "逆风袭来的月光 翻阅爱的篇章",
+      "translation": null
+    },
+    {
+      "time": 76.33,
+      "time_str": "01:16.330",
+      "text": "已到最后一行 雨脆弱地淋下",
+      "translation": null
+    },
+    {
+      "time": 81.93,
+      "time_str": "01:21.930",
+      "text": "痛却不说话 泪水晕开了牵挂",
+      "translation": null
+    },
+    {
+      "time": 86.3,
+      "time_str": "01:26.300",
+      "text": "（模糊过去变成画）",
+      "translation": null
+    },
+    {
+      "time": 86.73,
+      "time_str": "01:26.730",
+      "text": "模糊成一副画 名叫 that's right",
+      "translation": null
+    },
+    {
+      "time": 91.1,
+      "time_str": "01:31.100",
+      "text": "我爱你但你爱他 雨脆弱地淋下",
+      "translation": null
+    },
+    {
+      "time": 97.65,
+      "time_str": "01:37.650",
+      "text": "痛却不说话 过去风景像幅画",
+      "translation": null
+    },
+    {
+      "time": 101.82,
+      "time_str": "01:41.820",
+      "text": "（你的风景像幅画）",
+      "translation": null
+    },
+    {
+      "time": 102.47,
+      "time_str": "01:42.470",
+      "text": "你已经不像她",
+      "translation": null
+    },
+    {
+      "time": 104.58,
+      "time_str": "01:44.580",
+      "text": "难道 that's right",
+      "translation": null
+    },
+    {
+      "time": 106.77,
+      "time_str": "01:46.770",
+      "text": "爱情本来就该傻",
+      "translation": null
+    },
+    {
+      "time": 129.56,
+      "time_str": "02:09.560",
+      "text": "走完回忆的尽头 爱还在源头",
+      "translation": null
+    },
+    {
+      "time": 136.629,
+      "time_str": "02:16.629",
+      "text": "枫叶落尽了秋末 落不尽我的等候",
+      "translation": null
+    },
+    {
+      "time": 143.08,
+      "time_str": "02:23.080",
+      "text": "哦哎哟哎哟 要走为何不说",
+      "translation": null
+    },
+    {
+      "time": 148.55,
+      "time_str": "02:28.550",
+      "text": "又我又我 每次都是我错",
+      "translation": null
+    },
+    {
+      "time": 152.48,
+      "time_str": "02:32.480",
+      "text": "若爱的流浪迷失方向",
+      "translation": null
+    },
+    {
+      "time": 156.17,
+      "time_str": "02:36.170",
+      "text": "被时间埋葬",
+      "translation": null
+    },
+    {
+      "time": 157.26,
+      "time_str": "02:37.260",
+      "text": "（被月光埋葬）",
+      "translation": null
+    },
+    {
+      "time": 159.19,
+      "time_str": "02:39.190",
+      "text": "哦爱我爱我 你说怎么能够",
+      "translation": null
+    },
+    {
+      "time": 162.7,
+      "time_str": "02:42.700",
+      "text": "哦挥手挥手 跟我说了保重",
+      "translation": null
+    },
+    {
+      "time": 167.0,
+      "time_str": "02:47.000",
+      "text": "逆风袭来的月光 翻阅爱的篇章",
+      "translation": null
+    },
+    {
+      "time": 172.97,
+      "time_str": "02:52.970",
+      "text": "已到最后一行 雨脆弱地淋下",
+      "translation": null
+    },
+    {
+      "time": 178.5,
+      "time_str": "02:58.500",
+      "text": "痛却不说话 泪水晕开了牵挂",
+      "translation": null
+    },
+    {
+      "time": 181.97,
+      "time_str": "03:01.970",
+      "text": "（模糊过去变成画）",
+      "translation": null
+    },
+    {
+      "time": 182.7,
+      "time_str": "03:02.700",
+      "text": "挂走了一副画 名叫 that's right",
+      "translation": null
+    },
+    {
+      "time": 186.98,
+      "time_str": "03:06.980",
+      "text": "我爱你但你爱他 雨脆弱地淋下",
+      "translation": null
+    },
+    {
+      "time": 192.78,
+      "time_str": "03:12.780",
+      "text": "痛却不说话 过去风景像幅画",
+      "translation": null
+    },
+    {
+      "time": 196.62,
+      "time_str": "03:16.620",
+      "text": "（你的风景像幅画）",
+      "translation": null
+    },
+    {
+      "time": 197.46,
+      "time_str": "03:17.460",
+      "text": "你已经不像她 难道 that's right",
+      "translation": null
+    },
+    {
+      "time": 202.0,
+      "time_str": "03:22.000",
+      "text": "爱情本来就该傻",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你不像她 - 南拳妈妈.lrc"
+}

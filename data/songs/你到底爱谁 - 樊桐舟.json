@@ -1,0 +1,334 @@
+{
+  "title": "你到底爱谁",
+  "title_raw": "你到底爱谁",
+  "version": null,
+  "artist": "樊桐舟",
+  "group_key": "你到底爱谁|樊桐舟",
+  "writers": {
+    "lyricist": "刘嘉亮",
+    "composer": "刘宜",
+    "arranger": "胡力"
+  },
+  "lyrics": [
+    {
+      "time": 21.17,
+      "time_str": "00:21.170",
+      "text": "一个人喝醉",
+      "translation": null
+    },
+    {
+      "time": 24.27,
+      "time_str": "00:24.270",
+      "text": "好想找个人来陪",
+      "translation": null
+    },
+    {
+      "time": 27.87,
+      "time_str": "00:27.870",
+      "text": "我们之间有太多的误会",
+      "translation": null
+    },
+    {
+      "time": 32.57,
+      "time_str": "00:32.570",
+      "text": "--",
+      "translation": null
+    },
+    {
+      "time": 34.68,
+      "time_str": "00:34.680",
+      "text": "爱不能再沉睡",
+      "translation": null
+    },
+    {
+      "time": 38.15,
+      "time_str": "00:38.150",
+      "text": "是可悲是摧毁",
+      "translation": null
+    },
+    {
+      "time": 41.86,
+      "time_str": "00:41.860",
+      "text": "我不要再为谁掉眼泪",
+      "translation": null
+    },
+    {
+      "time": 46.1,
+      "time_str": "00:46.100",
+      "text": "---",
+      "translation": null
+    },
+    {
+      "time": 49.09,
+      "time_str": "00:49.090",
+      "text": "爱过才后悔",
+      "translation": null
+    },
+    {
+      "time": 52.26,
+      "time_str": "00:52.260",
+      "text": "想要用酒来麻醉",
+      "translation": null
+    },
+    {
+      "time": 56.09,
+      "time_str": "00:56.090",
+      "text": "我们之间有太多的误会",
+      "translation": null
+    },
+    {
+      "time": 60.05,
+      "time_str": "01:00.050",
+      "text": "--",
+      "translation": null
+    },
+    {
+      "time": 62.74,
+      "time_str": "01:02.740",
+      "text": "爱不能再沉睡",
+      "translation": null
+    },
+    {
+      "time": 66.22,
+      "time_str": "01:06.220",
+      "text": "是可悲是摧毁",
+      "translation": null
+    },
+    {
+      "time": 70.07,
+      "time_str": "01:10.070",
+      "text": "我不要再为谁而心碎",
+      "translation": null
+    },
+    {
+      "time": 74.72,
+      "time_str": "01:14.720",
+      "text": "---",
+      "translation": null
+    },
+    {
+      "time": 76.92,
+      "time_str": "01:16.920",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 80.26,
+      "time_str": "01:20.260",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 84.15,
+      "time_str": "01:24.150",
+      "text": "如果相爱是完美",
+      "translation": null
+    },
+    {
+      "time": 87.1,
+      "time_str": "01:27.100",
+      "text": "就让我们用真心去面对",
+      "translation": null
+    },
+    {
+      "time": 90.86,
+      "time_str": "01:30.860",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 94.35,
+      "time_str": "01:34.350",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 98.4,
+      "time_str": "01:38.400",
+      "text": "留下了太多伤悲",
+      "translation": null
+    },
+    {
+      "time": 101.46,
+      "time_str": "01:41.460",
+      "text": "告诉我你到底爱着谁",
+      "translation": null
+    },
+    {
+      "time": 106.35,
+      "time_str": "01:46.350",
+      "text": "------",
+      "translation": null
+    },
+    {
+      "time": 126.63,
+      "time_str": "02:06.630",
+      "text": "爱过才后悔",
+      "translation": null
+    },
+    {
+      "time": 130.0,
+      "time_str": "02:10.000",
+      "text": "想要用酒来麻醉",
+      "translation": null
+    },
+    {
+      "time": 133.85,
+      "time_str": "02:13.850",
+      "text": "我们之间有太多的误会",
+      "translation": null
+    },
+    {
+      "time": 138.1,
+      "time_str": "02:18.100",
+      "text": "--",
+      "translation": null
+    },
+    {
+      "time": 140.39,
+      "time_str": "02:20.390",
+      "text": "爱不能再沉睡",
+      "translation": null
+    },
+    {
+      "time": 143.86,
+      "time_str": "02:23.860",
+      "text": "是可悲是摧毁",
+      "translation": null
+    },
+    {
+      "time": 147.82,
+      "time_str": "02:27.820",
+      "text": "我不要再为谁而心碎",
+      "translation": null
+    },
+    {
+      "time": 152.45,
+      "time_str": "02:32.450",
+      "text": "---",
+      "translation": null
+    },
+    {
+      "time": 154.06,
+      "time_str": "02:34.060",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 157.97,
+      "time_str": "02:37.970",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 161.96,
+      "time_str": "02:41.960",
+      "text": "如果相爱是完美",
+      "translation": null
+    },
+    {
+      "time": 164.88,
+      "time_str": "02:44.880",
+      "text": "就让我们用真心去面对",
+      "translation": null
+    },
+    {
+      "time": 168.5,
+      "time_str": "02:48.500",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 172.04,
+      "time_str": "02:52.040",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 176.04,
+      "time_str": "02:56.040",
+      "text": "留下了太多伤悲",
+      "translation": null
+    },
+    {
+      "time": 179.15,
+      "time_str": "02:59.150",
+      "text": "告诉我你到底爱着谁",
+      "translation": null
+    },
+    {
+      "time": 184.02,
+      "time_str": "03:04.020",
+      "text": "------",
+      "translation": null
+    },
+    {
+      "time": 186.45,
+      "time_str": "03:06.450",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 189.73,
+      "time_str": "03:09.730",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 193.6,
+      "time_str": "03:13.600",
+      "text": "如果相爱是完美",
+      "translation": null
+    },
+    {
+      "time": 196.95,
+      "time_str": "03:16.950",
+      "text": "就让我们用真心去面对",
+      "translation": null
+    },
+    {
+      "time": 200.34,
+      "time_str": "03:20.340",
+      "text": "求求你给我个机会",
+      "translation": null
+    },
+    {
+      "time": 203.84,
+      "time_str": "03:23.840",
+      "text": "不要再对爱说无所谓",
+      "translation": null
+    },
+    {
+      "time": 207.64,
+      "time_str": "03:27.640",
+      "text": "留下了太多伤悲",
+      "translation": null
+    },
+    {
+      "time": 211.0,
+      "time_str": "03:31.000",
+      "text": "告诉我你到底爱着谁",
+      "translation": null
+    },
+    {
+      "time": 215.36,
+      "time_str": "03:35.360",
+      "text": "------",
+      "translation": null
+    },
+    {
+      "time": 218.18,
+      "time_str": "03:38.180",
+      "text": "告诉我你到底爱着谁",
+      "translation": null
+    },
+    {
+      "time": 224.72,
+      "time_str": "03:44.720",
+      "text": "------",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你到底爱谁 - 樊桐舟.lrc"
+}

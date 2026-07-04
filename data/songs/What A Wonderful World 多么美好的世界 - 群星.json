@@ -1,0 +1,118 @@
+{
+  "title": "What A Wonderful World 多么美好的世界",
+  "title_raw": "What A Wonderful World 多么美好的世界",
+  "version": null,
+  "artist": "群星",
+  "group_key": "what a wonderful world 多么美好的世界|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.46,
+      "time_str": "00:25.460",
+      "text": "I see trees of green, red roses too",
+      "translation": "绿树茵茵，玫瑰其中"
+    },
+    {
+      "time": 34.9,
+      "time_str": "00:34.900",
+      "text": "I see them bloom For me and you",
+      "translation": "你我之间，万物绽放"
+    },
+    {
+      "time": 41.568,
+      "time_str": "00:41.568",
+      "text": "And I think to myself, what a wonderful world",
+      "translation": "多么美好的世界！"
+    },
+    {
+      "time": 52.889,
+      "time_str": "00:52.889",
+      "text": "I see skies of blue and clouds are white",
+      "translation": "天空布蓝，白云其中"
+    },
+    {
+      "time": 62.38,
+      "time_str": "01:02.380",
+      "text": "The bright blessed day, the dark says good night",
+      "translation": "日间祈福，夜晚道安"
+    },
+    {
+      "time": 68.578,
+      "time_str": "01:08.578",
+      "text": "And I think to myself, what a wonderful world",
+      "translation": "多么美好的世界！"
+    },
+    {
+      "time": 82.568,
+      "time_str": "01:22.568",
+      "text": "The colours of the rainbow, so pretty in the sky",
+      "translation": "虹揽苍穹，缤纷绚丽"
+    },
+    {
+      "time": 89.189,
+      "time_str": "01:29.189",
+      "text": "Are also on the faces of people going by",
+      "translation": "行人异容，摇曳其上"
+    },
+    {
+      "time": 95.338,
+      "time_str": "01:35.338",
+      "text": "I see friends shakin hands, sayin How do you do?",
+      "translation": "有朋相来，嘘寒问暖"
+    },
+    {
+      "time": 102.557,
+      "time_str": "01:42.557",
+      "text": "Theyre really saying I love you",
+      "translation": "其言道，“我爱你！”"
+    },
+    {
+      "time": 109.508,
+      "time_str": "01:49.508",
+      "text": "I hear babies cryin, I watch them grow",
+      "translation": "婴儿啼哭，咿呀学语"
+    },
+    {
+      "time": 117.58,
+      "time_str": "01:57.580",
+      "text": "Theyll learn much more that I never know",
+      "translation": "滋补学识，赶越旧人"
+    },
+    {
+      "time": 123.248,
+      "time_str": "02:03.248",
+      "text": "And I think to myself, what a wonderful world",
+      "translation": "多么美好的世界！"
+    },
+    {
+      "time": 166.99,
+      "time_str": "02:46.990",
+      "text": "I see trees of green, red roses too",
+      "translation": "绿树茵茵，玫瑰其中"
+    },
+    {
+      "time": 174.4,
+      "time_str": "02:54.400",
+      "text": "I see them bloom for me and you",
+      "translation": "你我之间，万物绽放"
+    },
+    {
+      "time": 181.9,
+      "time_str": "03:01.900",
+      "text": "And, I think to myself, what a wonderful world",
+      "translation": "多么美好的世界！"
+    },
+    {
+      "time": 193.88,
+      "time_str": "03:13.880",
+      "text": "I see skies of blue and clouds are white",
+      "translation": "天空布蓝，白云其中"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "What A Wonderful World 多么美好的世界 - 群星.lrc"
+}

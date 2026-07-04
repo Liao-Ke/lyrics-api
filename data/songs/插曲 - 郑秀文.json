@@ -1,0 +1,280 @@
+{
+  "title": "插曲",
+  "title_raw": "插曲",
+  "version": null,
+  "artist": "郑秀文",
+  "group_key": "插曲|郑秀文",
+  "writers": {
+    "lyricist": "因葵",
+    "composer": "C. Y. Kong",
+    "arranger": "C. Y. Kong"
+  },
+  "lyrics": [
+    {
+      "time": 14.434,
+      "time_str": "00:14.434",
+      "text": "如果满足 如可满足",
+      "translation": null
+    },
+    {
+      "time": 17.929,
+      "time_str": "00:17.929",
+      "text": "如若要催毁我眉目",
+      "translation": null
+    },
+    {
+      "time": 21.681,
+      "time_str": "00:21.681",
+      "text": "而我极痛 而你未痛",
+      "translation": null
+    },
+    {
+      "time": 25.187,
+      "time_str": "00:25.187",
+      "text": "但实际只当是节目",
+      "translation": null
+    },
+    {
+      "time": 28.682,
+      "time_str": "00:28.682",
+      "text": "如果我哭 如真要哭",
+      "translation": null
+    },
+    {
+      "time": 32.189,
+      "time_str": "00:32.189",
+      "text": "难道要开口说屈服",
+      "translation": null
+    },
+    {
+      "time": 35.684,
+      "time_str": "00:35.684",
+      "text": "纯粹动作 未料有风",
+      "translation": null
+    },
+    {
+      "time": 39.191,
+      "time_str": "00:39.191",
+      "text": "是否因此拼命歪曲",
+      "translation": null
+    },
+    {
+      "time": 42.943,
+      "time_str": "00:42.943",
+      "text": "I wanna fly,I wanna cry!",
+      "translation": null
+    },
+    {
+      "time": 46.692,
+      "time_str": "00:46.692",
+      "text": "愈去隐藏 愈要破坏",
+      "translation": null
+    },
+    {
+      "time": 49.932,
+      "time_str": "00:49.932",
+      "text": "如我愉快 完美状态",
+      "translation": null
+    },
+    {
+      "time": 53.694,
+      "time_str": "00:53.694",
+      "text": "才令你存敌意破坏",
+      "translation": null
+    },
+    {
+      "time": 57.188,
+      "time_str": "00:57.188",
+      "text": "如果了解 心中不快",
+      "translation": null
+    },
+    {
+      "time": 60.694,
+      "time_str": "01:00.694",
+      "text": "问你可曾为我伟大",
+      "translation": null
+    },
+    {
+      "time": 64.189,
+      "time_str": "01:04.189",
+      "text": "人太倦了 请你谅解",
+      "translation": null
+    },
+    {
+      "time": 67.941,
+      "time_str": "01:07.941",
+      "text": "求能让我此后愉快",
+      "translation": null
+    },
+    {
+      "time": 85.694,
+      "time_str": "01:25.694",
+      "text": "明知揭盅 仍加插曲",
+      "translation": null
+    },
+    {
+      "time": 89.188,
+      "time_str": "01:29.188",
+      "text": "还未算真的最残酷",
+      "translation": null
+    },
+    {
+      "time": 92.696,
+      "time_str": "01:32.696",
+      "text": "如继续痛 求再别碰",
+      "translation": null
+    },
+    {
+      "time": 96.19,
+      "time_str": "01:36.190",
+      "text": "事实你早已下了毒",
+      "translation": null
+    },
+    {
+      "time": 99.941,
+      "time_str": "01:39.941",
+      "text": "离开退缩 澄清接触",
+      "translation": null
+    },
+    {
+      "time": 103.448,
+      "time_str": "01:43.448",
+      "text": "谁料你一早已辑录",
+      "translation": null
+    },
+    {
+      "time": 107.197,
+      "time_str": "01:47.197",
+      "text": "寻我脉搏 为什快速",
+      "translation": null
+    },
+    {
+      "time": 110.439,
+      "time_str": "01:50.439",
+      "text": "未知这是致命插曲",
+      "translation": null
+    },
+    {
+      "time": 113.945,
+      "time_str": "01:53.945",
+      "text": "谁人愿痛完又痛",
+      "translation": null
+    },
+    {
+      "time": 116.441,
+      "time_str": "01:56.441",
+      "text": "再追逐 公演过目",
+      "translation": null
+    },
+    {
+      "time": 121.2,
+      "time_str": "02:01.200",
+      "text": "谁人又注意我不快",
+      "translation": null
+    },
+    {
+      "time": 123.443,
+      "time_str": "02:03.443",
+      "text": "来回场合 总要被曲解",
+      "translation": null
+    },
+    {
+      "time": 128.19,
+      "time_str": "02:08.190",
+      "text": "I wanna fly,I wanna cry!",
+      "translation": null
+    },
+    {
+      "time": 131.943,
+      "time_str": "02:11.943",
+      "text": "愈去隐藏 愈要破坏",
+      "translation": null
+    },
+    {
+      "time": 135.449,
+      "time_str": "02:15.449",
+      "text": "如我愉快 完美状态",
+      "translation": null
+    },
+    {
+      "time": 138.944,
+      "time_str": "02:18.944",
+      "text": "才令你存敌意破坏",
+      "translation": null
+    },
+    {
+      "time": 142.451,
+      "time_str": "02:22.451",
+      "text": "如果了解 心中不快",
+      "translation": null
+    },
+    {
+      "time": 145.945,
+      "time_str": "02:25.945",
+      "text": "问你可曾为我伟大",
+      "translation": null
+    },
+    {
+      "time": 149.698,
+      "time_str": "02:29.698",
+      "text": "人太倦了 请你谅解",
+      "translation": null
+    },
+    {
+      "time": 153.205,
+      "time_str": "02:33.205",
+      "text": "求能让我此后愉快",
+      "translation": null
+    },
+    {
+      "time": 184.947,
+      "time_str": "03:04.947",
+      "text": "I wanna fly,I wanna cry!",
+      "translation": null
+    },
+    {
+      "time": 188.954,
+      "time_str": "03:08.954",
+      "text": "愈去隐藏 愈要破坏",
+      "translation": null
+    },
+    {
+      "time": 192.207,
+      "time_str": "03:12.207",
+      "text": "如我愉快 完美状态",
+      "translation": null
+    },
+    {
+      "time": 195.701,
+      "time_str": "03:15.701",
+      "text": "才令你存敌意破坏",
+      "translation": null
+    },
+    {
+      "time": 199.209,
+      "time_str": "03:19.209",
+      "text": "如果了解 心中不快",
+      "translation": null
+    },
+    {
+      "time": 202.957,
+      "time_str": "03:22.957",
+      "text": "问你可曾为我伟大",
+      "translation": null
+    },
+    {
+      "time": 206.451,
+      "time_str": "03:26.451",
+      "text": "人太倦了 请你谅解",
+      "translation": null
+    },
+    {
+      "time": 209.958,
+      "time_str": "03:29.958",
+      "text": "求能让我此后愉快",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "插曲 - 郑秀文.lrc"
+}

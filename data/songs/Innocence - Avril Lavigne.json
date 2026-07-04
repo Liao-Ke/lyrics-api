@@ -1,0 +1,298 @@
+{
+  "title": "Innocence",
+  "title_raw": "Innocence",
+  "version": null,
+  "artist": "Avril Lavigne",
+  "group_key": "innocence|avril lavigne",
+  "writers": {
+    "lyricist": "Avril Lavigne/Evan Taubenfeld",
+    "composer": "Avril Lavigne/Evan Taubenfeld",
+    "arranger": "Rob Cavallo"
+  },
+  "lyrics": [
+    {
+      "time": 7.779,
+      "time_str": "00:07.779",
+      "text": "Waking up I see that everything is ok",
+      "translation": "睁开双眼 我发现 一切如期上演"
+    },
+    {
+      "time": 11.198,
+      "time_str": "00:11.198",
+      "text": "The first time in my life and now it's so great",
+      "translation": "我的生活从未如此美好呈现"
+    },
+    {
+      "time": 14.78,
+      "time_str": "00:14.780",
+      "text": "Slowing down I look around and I am so amazed",
+      "translation": "放慢脚步环顾四面 我感到惊艳"
+    },
+    {
+      "time": 18.188,
+      "time_str": "00:18.188",
+      "text": "I think about the little things that make life great",
+      "translation": "我开始看见那些让生活美好的细节"
+    },
+    {
+      "time": 22.89,
+      "time_str": "00:22.890",
+      "text": "I wouldn't change a thing about it",
+      "translation": "我不会让它改变"
+    },
+    {
+      "time": 28.779,
+      "time_str": "00:28.779",
+      "text": "This is the best feeling",
+      "translation": "这是最好的感觉"
+    },
+    {
+      "time": 35.96,
+      "time_str": "00:35.960",
+      "text": "This innocence is brilliant",
+      "translation": "这份纯真如此迷人"
+    },
+    {
+      "time": 40.134,
+      "time_str": "00:40.134",
+      "text": "I hope that it will stay",
+      "translation": "我希望它永存"
+    },
+    {
+      "time": 42.869,
+      "time_str": "00:42.869",
+      "text": "This moment is perfect",
+      "translation": "这瞬间如此完美"
+    },
+    {
+      "time": 47.066,
+      "time_str": "00:47.066",
+      "text": "please don't go away",
+      "translation": "请不要离去"
+    },
+    {
+      "time": 49.869,
+      "time_str": "00:49.869",
+      "text": "I need you now",
+      "translation": "我现在就需要你"
+    },
+    {
+      "time": 55.367,
+      "time_str": "00:55.367",
+      "text": "And I'll hold on to it",
+      "translation": "我会深深留住这感受"
+    },
+    {
+      "time": 59.484,
+      "time_str": "00:59.484",
+      "text": "don't you let it pass you by",
+      "translation": "你也别错过它"
+    },
+    {
+      "time": 70.187,
+      "time_str": "01:10.187",
+      "text": "I found a place so safe not a single tear",
+      "translation": "我发现这片没有一滴眼泪的安全空间"
+    },
+    {
+      "time": 73.58,
+      "time_str": "01:13.580",
+      "text": "The first time in my life and now it's so clear",
+      "translation": "我的生活从未如此清晰呈现"
+    },
+    {
+      "time": 77.264,
+      "time_str": "01:17.264",
+      "text": "Feel calm I belong I'm so happy here",
+      "translation": "不再狂躁开始留恋 这是我的乐园"
+    },
+    {
+      "time": 80.87,
+      "time_str": "01:20.870",
+      "text": "It's so strong and now I let myself be sincere",
+      "translation": "强烈的震撼现在我让自己变得诚虔"
+    },
+    {
+      "time": 85.55,
+      "time_str": "01:25.550",
+      "text": "I wouldn't change a thing about it",
+      "translation": "我不会让它改变"
+    },
+    {
+      "time": 91.36,
+      "time_str": "01:31.360",
+      "text": "This is the best feeling",
+      "translation": "这是最好的感觉"
+    },
+    {
+      "time": 98.113,
+      "time_str": "01:38.113",
+      "text": "This innocence is brilliant",
+      "translation": "这份纯真如此迷人"
+    },
+    {
+      "time": 102.84,
+      "time_str": "01:42.840",
+      "text": "I hope that it will stay",
+      "translation": "我希望它永存"
+    },
+    {
+      "time": 105.295,
+      "time_str": "01:45.295",
+      "text": "This moment is perfect",
+      "translation": "这瞬间如此完美"
+    },
+    {
+      "time": 109.44,
+      "time_str": "01:49.440",
+      "text": "please don't go away",
+      "translation": "请不要离去"
+    },
+    {
+      "time": 112.413,
+      "time_str": "01:52.413",
+      "text": "I need you now",
+      "translation": "我现在就需要你"
+    },
+    {
+      "time": 117.89,
+      "time_str": "01:57.890",
+      "text": "And I'll hold on to it",
+      "translation": "我会深深留住这感受"
+    },
+    {
+      "time": 121.76,
+      "time_str": "02:01.760",
+      "text": "don't you let it pass you by",
+      "translation": "你也别错过它"
+    },
+    {
+      "time": 125.876,
+      "time_str": "02:05.876",
+      "text": "It's the state of bliss you think you're dreaming",
+      "translation": "幸福的状态让你以为这是梦幻"
+    },
+    {
+      "time": 129.06,
+      "time_str": "02:09.060",
+      "text": "It's the happiness inside that you're feeling",
+      "translation": "而你真切感到快乐的浸染"
+    },
+    {
+      "time": 132.477,
+      "time_str": "02:12.477",
+      "text": "It's so beautiful,it makes you wanna cry",
+      "translation": "如此美丽令你不禁泪眼潸然"
+    },
+    {
+      "time": 138.87,
+      "time_str": "02:18.870",
+      "text": "It's the state of bliss you think you're dreaming",
+      "translation": "幸福的状态让你以为这是梦幻"
+    },
+    {
+      "time": 142.27,
+      "time_str": "02:22.270",
+      "text": "It's the happiness inside that you're feeling",
+      "translation": "而你真切感到快乐的浸染"
+    },
+    {
+      "time": 146.1,
+      "time_str": "02:26.100",
+      "text": "It's so beautiful,it makes you wanna cry",
+      "translation": "如此美丽令你不禁泪眼潸然"
+    },
+    {
+      "time": 152.888,
+      "time_str": "02:32.888",
+      "text": "It's so beautiful,it makes you wanna cry",
+      "translation": "如此美丽令你不禁泪眼潸然"
+    },
+    {
+      "time": 156.779,
+      "time_str": "02:36.779",
+      "text": "This innocence is brilliant",
+      "translation": "这份纯真如此灿烂"
+    },
+    {
+      "time": 161.288,
+      "time_str": "02:41.288",
+      "text": "it makes you want to cry",
+      "translation": "令你不禁泪眼潸然"
+    },
+    {
+      "time": 163.46,
+      "time_str": "02:43.460",
+      "text": "This innocence is brilliant",
+      "translation": "这份纯真如此珍贵"
+    },
+    {
+      "time": 168.18,
+      "time_str": "02:48.180",
+      "text": "please don't go away",
+      "translation": "请不要消退"
+    },
+    {
+      "time": 170.46,
+      "time_str": "02:50.460",
+      "text": "Cause I need you now",
+      "translation": "因为现在是我需要你的时候"
+    },
+    {
+      "time": 176.088,
+      "time_str": "02:56.088",
+      "text": "And I'll hold on to it",
+      "translation": "我会深深留住这感受"
+    },
+    {
+      "time": 180.07,
+      "time_str": "03:00.070",
+      "text": "don't you let it pass you by",
+      "translation": "你也别错过它"
+    },
+    {
+      "time": 184.397,
+      "time_str": "03:04.397",
+      "text": "This innocence is brilliant",
+      "translation": "这份纯真如此迷人"
+    },
+    {
+      "time": 188.67,
+      "time_str": "03:08.670",
+      "text": "I hope that it will stay",
+      "translation": "我希望它永存"
+    },
+    {
+      "time": 190.88,
+      "time_str": "03:10.880",
+      "text": "This moment is perfect",
+      "translation": "这瞬间如此完美"
+    },
+    {
+      "time": 195.588,
+      "time_str": "03:15.588",
+      "text": "please don't go away",
+      "translation": "请不要离去"
+    },
+    {
+      "time": 198.197,
+      "time_str": "03:18.197",
+      "text": "I need you now",
+      "translation": "我现在就需要你"
+    },
+    {
+      "time": 203.47,
+      "time_str": "03:23.470",
+      "text": "And I'll hold on to it",
+      "translation": "我会深深留住这感受"
+    },
+    {
+      "time": 207.48,
+      "time_str": "03:27.480",
+      "text": "don't you let it pass you by",
+      "translation": "你也别错过它"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Innocence - Avril Lavigne.lrc"
+}

@@ -1,0 +1,340 @@
+{
+  "title": "外滩十八号",
+  "title_raw": "外滩十八号",
+  "version": null,
+  "artist": "男才女貌",
+  "group_key": "外滩十八号|男才女貌",
+  "writers": {
+    "lyricist": "秦天",
+    "composer": "呂雯/秦天",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.3,
+      "time_str": "00:04.300",
+      "text": "女：我不知道你在想什么",
+      "translation": null
+    },
+    {
+      "time": 7.96,
+      "time_str": "00:07.960",
+      "text": "还是那个地点那条街",
+      "translation": null
+    },
+    {
+      "time": 11.8,
+      "time_str": "00:11.800",
+      "text": "(那分手的夜)  女：那缠绵的地点",
+      "translation": null
+    },
+    {
+      "time": 15.23,
+      "time_str": "00:15.230",
+      "text": "难道是爱的天平已经倾斜",
+      "translation": null
+    },
+    {
+      "time": 21.6,
+      "time_str": "00:21.600",
+      "text": "男：下着雨的夜  (太熟悉的街)",
+      "translation": null
+    },
+    {
+      "time": 25.47,
+      "time_str": "00:25.470",
+      "text": "男：所有的感觉  (已没有那么热烈)",
+      "translation": null
+    },
+    {
+      "time": 29.54,
+      "time_str": "00:29.540",
+      "text": "女：下着雨的夜  (心痛的感觉)",
+      "translation": null
+    },
+    {
+      "time": 33.35,
+      "time_str": "00:33.350",
+      "text": "女：刹那的视线  (黑夜里天空下着雪)",
+      "translation": null
+    },
+    {
+      "time": 38.04,
+      "time_str": "00:38.040",
+      "text": "女：再多的理由  男：太多的借口",
+      "translation": null
+    },
+    {
+      "time": 41.39,
+      "time_str": "00:41.390",
+      "text": "女：都无法代替  男：你对我爱的感觉",
+      "translation": null
+    },
+    {
+      "time": 45.58,
+      "time_str": "00:45.580",
+      "text": "女：再多的画面  男：太多的理由",
+      "translation": null
+    },
+    {
+      "time": 49.29,
+      "time_str": "00:49.290",
+      "text": "女：都变成要结束的一切",
+      "translation": null
+    },
+    {
+      "time": 53.19,
+      "time_str": "00:53.190",
+      "text": "女：我不知道你在想什么",
+      "translation": null
+    },
+    {
+      "time": 57.07,
+      "time_str": "00:57.070",
+      "text": "还是那个地点那条街",
+      "translation": null
+    },
+    {
+      "time": 61.12,
+      "time_str": "01:01.120",
+      "text": "(那分手的夜)  男：那缠绵的地点",
+      "translation": null
+    },
+    {
+      "time": 64.28,
+      "time_str": "01:04.280",
+      "text": "合：难道是爱的天平已经倾斜",
+      "translation": null
+    },
+    {
+      "time": 69.25,
+      "time_str": "01:09.250",
+      "text": "女：我很明白你在想什么",
+      "translation": null
+    },
+    {
+      "time": 72.88,
+      "time_str": "01:12.880",
+      "text": "还是那个地点那条街",
+      "translation": null
+    },
+    {
+      "time": 76.51,
+      "time_str": "01:16.510",
+      "text": "(相遇的地点)  男：结束的一切",
+      "translation": null
+    },
+    {
+      "time": 80.32,
+      "time_str": "01:20.320",
+      "text": "很明白爱并不是你要的一切",
+      "translation": null
+    },
+    {
+      "time": 86.85,
+      "time_str": "01:26.850",
+      "text": "女：下着雨的夜(今朝、明朝、白天、夜到)",
+      "translation": null
+    },
+    {
+      "time": 90.94,
+      "time_str": "01:30.940",
+      "text": "所有的感觉(阿拉  谢谢 外滩18号)",
+      "translation": null
+    },
+    {
+      "time": 94.94,
+      "time_str": "01:34.940",
+      "text": "下着雨的夜(侬好  吾好 色意 就好)",
+      "translation": null
+    },
+    {
+      "time": 99.04,
+      "time_str": "01:39.040",
+      "text": "刹那的视线(从此拗断  再会外滩18号)",
+      "translation": null
+    },
+    {
+      "time": 103.08,
+      "time_str": "01:43.080",
+      "text": "男：太多的理由(I want this, I want that)",
+      "translation": null
+    },
+    {
+      "time": 104.8,
+      "time_str": "01:44.800",
+      "text": "(Want everything that I can get)",
+      "translation": null
+    },
+    {
+      "time": 106.5,
+      "time_str": "01:46.500",
+      "text": "都无法代替(But honey, Am I right)",
+      "translation": null
+    },
+    {
+      "time": 108.51,
+      "time_str": "01:48.510",
+      "text": "(Our love can't forget)",
+      "translation": null
+    },
+    {
+      "time": 110.68,
+      "time_str": "01:50.680",
+      "text": "太多的画面(喝茶 打牌 一天到黑摆龙门阵)",
+      "translation": null
+    },
+    {
+      "time": 114.6,
+      "time_str": "01:54.600",
+      "text": "都变成要结束的一切(一天得尔当类 你要做啥子嘛？！)",
+      "translation": null
+    },
+    {
+      "time": 118.54,
+      "time_str": "01:58.540",
+      "text": "女：我不知道你在想什么",
+      "translation": null
+    },
+    {
+      "time": 122.62,
+      "time_str": "02:02.620",
+      "text": "还是那个地点那条街",
+      "translation": null
+    },
+    {
+      "time": 126.12,
+      "time_str": "02:06.120",
+      "text": "男：那分手的夜  合：那缠绵的地点",
+      "translation": null
+    },
+    {
+      "time": 129.47,
+      "time_str": "02:09.470",
+      "text": "难道是爱的天平已经倾斜",
+      "translation": null
+    },
+    {
+      "time": 134.6,
+      "time_str": "02:14.600",
+      "text": "女：我很明白你在想什么",
+      "translation": null
+    },
+    {
+      "time": 138.28,
+      "time_str": "02:18.280",
+      "text": "还是那个地点那条街",
+      "translation": null
+    },
+    {
+      "time": 141.79,
+      "time_str": "02:21.790",
+      "text": "男：相遇的地点  合：结束的一切",
+      "translation": null
+    },
+    {
+      "time": 145.44,
+      "time_str": "02:25.440",
+      "text": "很明白爱并不是你要的一切",
+      "translation": null
+    },
+    {
+      "time": 151.65,
+      "time_str": "02:31.650",
+      "text": "男：所有混乱的感觉",
+      "translation": null
+    },
+    {
+      "time": 156.29,
+      "time_str": "02:36.290",
+      "text": "无可救药的一切",
+      "translation": null
+    },
+    {
+      "time": 160.2,
+      "time_str": "02:40.200",
+      "text": "太多一切  太多情节",
+      "translation": null
+    },
+    {
+      "time": 163.29,
+      "time_str": "02:43.290",
+      "text": "太多伤痛的理由让我无法拒绝",
+      "translation": null
+    },
+    {
+      "time": 168.15,
+      "time_str": "02:48.150",
+      "text": "女：我不知道你在想什么  男：你很明白",
+      "translation": null
+    },
+    {
+      "time": 172.28,
+      "time_str": "02:52.280",
+      "text": "女：还是那个地点那条街 哦",
+      "translation": null
+    },
+    {
+      "time": 174.82,
+      "time_str": "02:54.820",
+      "text": "男：那分手的夜  合：那缠绵的地点",
+      "translation": null
+    },
+    {
+      "time": 179.14,
+      "time_str": "02:59.140",
+      "text": "难道是爱的天平已经倾斜",
+      "translation": null
+    },
+    {
+      "time": 184.42,
+      "time_str": "03:04.420",
+      "text": "女：我很明白你在想什么  男：我不知道",
+      "translation": null
+    },
+    {
+      "time": 188.31,
+      "time_str": "03:08.310",
+      "text": "女：还是那个地点那条街 哦",
+      "translation": null
+    },
+    {
+      "time": 191.79,
+      "time_str": "03:11.790",
+      "text": "男：相遇的地点  合：结束的一切",
+      "translation": null
+    },
+    {
+      "time": 196.08,
+      "time_str": "03:16.080",
+      "text": "很明白爱并不是你要的一切",
+      "translation": null
+    },
+    {
+      "time": 199.38,
+      "time_str": "03:19.380",
+      "text": "(我很明白你在想什么)  男：No No No No",
+      "translation": null
+    },
+    {
+      "time": 202.82,
+      "time_str": "03:22.820",
+      "text": "(还是那个地点那条街)  女：哦",
+      "translation": null
+    },
+    {
+      "time": 205.65,
+      "time_str": "03:25.650",
+      "text": "男：相遇的地点  女：相遇的地点(结束的一切)",
+      "translation": null
+    },
+    {
+      "time": 209.44,
+      "time_str": "03:29.440",
+      "text": "合：很明白爱并不是你要的一切",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "外滩十八号 - 男才女貌.lrc"
+}

@@ -1,0 +1,280 @@
+{
+  "title": "凡眼",
+  "title_raw": "凡眼",
+  "version": null,
+  "artist": "姚婷",
+  "group_key": "凡眼|姚婷",
+  "writers": {
+    "lyricist": "唐健",
+    "composer": "唐健",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.68,
+      "time_str": "00:07.680",
+      "text": "我怎么能看清",
+      "translation": null
+    },
+    {
+      "time": 10.341,
+      "time_str": "00:10.341",
+      "text": "你如梦幻般的身影",
+      "translation": null
+    },
+    {
+      "time": 14.454,
+      "time_str": "00:14.454",
+      "text": "想留住你不容易",
+      "translation": null
+    },
+    {
+      "time": 17.93,
+      "time_str": "00:17.930",
+      "text": "似水与月的关系",
+      "translation": null
+    },
+    {
+      "time": 21.854,
+      "time_str": "00:21.854",
+      "text": "我怎么能看清",
+      "translation": null
+    },
+    {
+      "time": 24.846,
+      "time_str": "00:24.846",
+      "text": "你躲在红尘中的踪迹",
+      "translation": null
+    },
+    {
+      "time": 29.129,
+      "time_str": "00:29.129",
+      "text": "没了我你会不会",
+      "translation": null
+    },
+    {
+      "time": 32.736,
+      "time_str": "00:32.736",
+      "text": "一个人哭泣",
+      "translation": null
+    },
+    {
+      "time": 36.428,
+      "time_str": "00:36.428",
+      "text": "一个人哭泣",
+      "translation": null
+    },
+    {
+      "time": 38.702,
+      "time_str": "00:38.702",
+      "text": "一个人哭泣",
+      "translation": null
+    },
+    {
+      "time": 41.766,
+      "time_str": "00:41.766",
+      "text": "凡眼看世间",
+      "translation": null
+    },
+    {
+      "time": 44.37,
+      "time_str": "00:44.370",
+      "text": "流水落花烟雨里",
+      "translation": null
+    },
+    {
+      "time": 49.31,
+      "time_str": "00:49.310",
+      "text": "醒时岸边月",
+      "translation": null
+    },
+    {
+      "time": 51.726,
+      "time_str": "00:51.726",
+      "text": "笑我痴情只为你",
+      "translation": null
+    },
+    {
+      "time": 56.448,
+      "time_str": "00:56.448",
+      "text": "昨夜为他愁",
+      "translation": null
+    },
+    {
+      "time": 59.231,
+      "time_str": "00:59.231",
+      "text": "换来今朝杯中酒",
+      "translation": null
+    },
+    {
+      "time": 63.598,
+      "time_str": "01:03.598",
+      "text": "且醉且放舟",
+      "translation": null
+    },
+    {
+      "time": 66.442,
+      "time_str": "01:06.442",
+      "text": "看破世间万般情",
+      "translation": null
+    },
+    {
+      "time": 103.556,
+      "time_str": "01:43.556",
+      "text": "我怎么能看清",
+      "translation": null
+    },
+    {
+      "time": 106.754,
+      "time_str": "01:46.754",
+      "text": "你如梦幻般的身影",
+      "translation": null
+    },
+    {
+      "time": 110.882,
+      "time_str": "01:50.882",
+      "text": "想留住你不容易",
+      "translation": null
+    },
+    {
+      "time": 114.452,
+      "time_str": "01:54.452",
+      "text": "似水与月的关系",
+      "translation": null
+    },
+    {
+      "time": 118.186,
+      "time_str": "01:58.186",
+      "text": "我怎么能看清",
+      "translation": null
+    },
+    {
+      "time": 121.37,
+      "time_str": "02:01.370",
+      "text": "你躲在红尘中的踪迹",
+      "translation": null
+    },
+    {
+      "time": 125.522,
+      "time_str": "02:05.522",
+      "text": "没了我你会不会",
+      "translation": null
+    },
+    {
+      "time": 128.854,
+      "time_str": "02:08.854",
+      "text": "一个人哭泣",
+      "translation": null
+    },
+    {
+      "time": 132.81,
+      "time_str": "02:12.810",
+      "text": "一个人哭泣",
+      "translation": null
+    },
+    {
+      "time": 134.958,
+      "time_str": "02:14.958",
+      "text": "一个人哭泣",
+      "translation": null
+    },
+    {
+      "time": 138.98,
+      "time_str": "02:18.980",
+      "text": "凡眼看世间",
+      "translation": null
+    },
+    {
+      "time": 141.42,
+      "time_str": "02:21.420",
+      "text": "流水落花烟雨里",
+      "translation": null
+    },
+    {
+      "time": 145.593,
+      "time_str": "02:25.593",
+      "text": "醒时岸边月",
+      "translation": null
+    },
+    {
+      "time": 148.358,
+      "time_str": "02:28.358",
+      "text": "笑我痴情只为你",
+      "translation": null
+    },
+    {
+      "time": 152.798,
+      "time_str": "02:32.798",
+      "text": "昨夜为他愁",
+      "translation": null
+    },
+    {
+      "time": 155.595,
+      "time_str": "02:35.595",
+      "text": "换来今朝杯中酒",
+      "translation": null
+    },
+    {
+      "time": 159.981,
+      "time_str": "02:39.981",
+      "text": "且醉且放舟",
+      "translation": null
+    },
+    {
+      "time": 162.806,
+      "time_str": "02:42.806",
+      "text": "看破世间万般情",
+      "translation": null
+    },
+    {
+      "time": 169.19,
+      "time_str": "02:49.190",
+      "text": "凡眼看世间",
+      "translation": null
+    },
+    {
+      "time": 171.956,
+      "time_str": "02:51.956",
+      "text": "流水落花烟雨里",
+      "translation": null
+    },
+    {
+      "time": 176.493,
+      "time_str": "02:56.493",
+      "text": "醒时岸边月",
+      "translation": null
+    },
+    {
+      "time": 179.172,
+      "time_str": "02:59.172",
+      "text": "笑我痴情只为你",
+      "translation": null
+    },
+    {
+      "time": 183.704,
+      "time_str": "03:03.704",
+      "text": "昨夜为他愁",
+      "translation": null
+    },
+    {
+      "time": 186.37,
+      "time_str": "03:06.370",
+      "text": "换来今朝杯中酒",
+      "translation": null
+    },
+    {
+      "time": 190.806,
+      "time_str": "03:10.806",
+      "text": "且醉且放舟",
+      "translation": null
+    },
+    {
+      "time": 193.556,
+      "time_str": "03:13.556",
+      "text": "看破世间万般情",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "凡眼 - 姚婷.lrc"
+}

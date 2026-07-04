@@ -1,0 +1,322 @@
+{
+  "title": "Dance Monkey",
+  "title_raw": "Dance Monkey",
+  "version": null,
+  "artist": "Tones and I",
+  "group_key": "dance monkey|tones and i",
+  "writers": {
+    "lyricist": "Toni Watson",
+    "composer": "Toni Watson",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 9.03,
+      "time_str": "00:09.030",
+      "text": "They say, \"Oh my God, I see the way you shine",
+      "translation": "他们说:“天哪你浑身散发着光芒"
+    },
+    {
+      "time": 13.9,
+      "time_str": "00:13.900",
+      "text": "Take your hands, my dear, and place them both in mine\"",
+      "translation": "牵起你的手亲爱的 握住别松开”"
+    },
+    {
+      "time": 18.5,
+      "time_str": "00:18.500",
+      "text": "You know you stopped me dead while I was passing by",
+      "translation": "你知道我们擦肩而过时 我的心跳都停止了"
+    },
+    {
+      "time": 23.66,
+      "time_str": "00:23.660",
+      "text": "And now I beg to see you dance just one more time",
+      "translation": "现在我想恳求你再跳一遍刚才的舞"
+    },
+    {
+      "time": 28.16,
+      "time_str": "00:28.160",
+      "text": "Ooh, I see you, see you, see you every time",
+      "translation": "你的每次出现我都移不开视线"
+    },
+    {
+      "time": 33.62,
+      "time_str": "00:33.620",
+      "text": "And oh my, I, I,I,I like your style",
+      "translation": "天哪我就欣赏你的表演风格"
+    },
+    {
+      "time": 38.3,
+      "time_str": "00:38.300",
+      "text": "You, you make me, make me, make me wanna cry",
+      "translation": "你让我开心激动喜悦到流泪"
+    },
+    {
+      "time": 43.35,
+      "time_str": "00:43.350",
+      "text": "And now I beg to see you dance just one more time",
+      "translation": "现在我恳求你为我再跳一支舞"
+    },
+    {
+      "time": 47.66,
+      "time_str": "00:47.660",
+      "text": "So they say",
+      "translation": "所以他们说"
+    },
+    {
+      "time": 48.95,
+      "time_str": "00:48.950",
+      "text": "Dance for me, dance for me, dance for me, oh-oh-oh",
+      "translation": "跳起来吧 跳起来吧 为我跳舞吧"
+    },
+    {
+      "time": 53.16,
+      "time_str": "00:53.160",
+      "text": "I’ve never seen anybody do the things you do before",
+      "translation": "我从没见过有人做过你做的事"
+    },
+    {
+      "time": 57.47,
+      "time_str": "00:57.470",
+      "text": "They say",
+      "translation": "他们说"
+    },
+    {
+      "time": 58.73,
+      "time_str": "00:58.730",
+      "text": "Move for me, move for me, move for me, ayy-ayy-ayy",
+      "translation": "动起来吧 动起来吧 为我摇摆吧"
+    },
+    {
+      "time": 62.95,
+      "time_str": "01:02.950",
+      "text": "And when you’re done, I'll make you do it all again",
+      "translation": "等这支舞结束我会恳求你再跳一支"
+    },
+    {
+      "time": 67.73,
+      "time_str": "01:07.730",
+      "text": "I said, \"Oh my God, I see you walking by",
+      "translation": "我说:“天哪我看见你经过我身旁"
+    },
+    {
+      "time": 72.78,
+      "time_str": "01:12.780",
+      "text": "Take my hands, my dear, and look me in my eyes\"",
+      "translation": "握住我的手亲爱的 认真注视我的眼睛”"
+    },
+    {
+      "time": 77.41,
+      "time_str": "01:17.410",
+      "text": "Just like a monkey, I've been dancin’ my whole life",
+      "translation": "我就像被戏耍的猴子一样以卖艺为生"
+    },
+    {
+      "time": 82.57,
+      "time_str": "01:22.570",
+      "text": "But you just beg to see me dance just one more time",
+      "translation": "现在你恳求我为你再跳一支"
+    },
+    {
+      "time": 87.02,
+      "time_str": "01:27.020",
+      "text": "Ooh, I see you, see you, see you every time",
+      "translation": "你的每次出现我都移不开视线"
+    },
+    {
+      "time": 92.33,
+      "time_str": "01:32.330",
+      "text": "And oh my, I, I，I，I like your style",
+      "translation": "天哪我就欣赏你的表演风格"
+    },
+    {
+      "time": 96.75,
+      "time_str": "01:36.750",
+      "text": "You, you make me, make me, make me wanna cry",
+      "translation": "你让我开心激动喜悦到流泪"
+    },
+    {
+      "time": 102.04,
+      "time_str": "01:42.040",
+      "text": "And now I beg to see you dance just one more time",
+      "translation": "现在我恳求你为我再跳一支"
+    },
+    {
+      "time": 106.41,
+      "time_str": "01:46.410",
+      "text": "So they say",
+      "translation": "所以他们说"
+    },
+    {
+      "time": 107.75,
+      "time_str": "01:47.750",
+      "text": "Dance for me, dance for me, dance for me, oh-oh-oh",
+      "translation": "跳起来吧 跳起来吧 为我跳舞吧"
+    },
+    {
+      "time": 111.95,
+      "time_str": "01:51.950",
+      "text": "I’ve never seen anybody do the things you do before",
+      "translation": "我从未见过如此独特的舞步"
+    },
+    {
+      "time": 116.21,
+      "time_str": "01:56.210",
+      "text": "They say",
+      "translation": "他们说"
+    },
+    {
+      "time": 117.54,
+      "time_str": "01:57.540",
+      "text": "Move for me, move for me, move for me, ayy-ayy-ayy",
+      "translation": "动起来吧 动起来吧 为我摇摆吧"
+    },
+    {
+      "time": 121.69,
+      "time_str": "02:01.690",
+      "text": "And when you're done, I'll make you do it all again",
+      "translation": "等这支舞结束我会恳求你再跳一支"
+    },
+    {
+      "time": 126.26,
+      "time_str": "02:06.260",
+      "text": "They say",
+      "translation": "他们说"
+    },
+    {
+      "time": 127.32,
+      "time_str": "02:07.320",
+      "text": "Dance for me, dance for me, dance for me, oh-oh-oh, oh-oh, oh-oh",
+      "translation": "跳起来吧 跳起来吧 为我跳舞吧"
+    },
+    {
+      "time": 131.51,
+      "time_str": "02:11.510",
+      "text": "I’ve never seen anybody do the things you do before",
+      "translation": "我从未见过如此婀娜的舞姿"
+    },
+    {
+      "time": 135.92,
+      "time_str": "02:15.920",
+      "text": "They say",
+      "translation": "他们说"
+    },
+    {
+      "time": 137.11,
+      "time_str": "02:17.110",
+      "text": "Move for me, move for me, move for me, ayy-ayy-ayy",
+      "translation": "动起来吧 动起来吧 为我摇摆吧"
+    },
+    {
+      "time": 141.29,
+      "time_str": "02:21.290",
+      "text": "And when you're done, I'll make you do it all again",
+      "translation": "等这支舞结束我会恳求你再跳一支"
+    },
+    {
+      "time": 146.99,
+      "time_str": "02:26.990",
+      "text": "Ooh, ooh, ooh, ooh, ooh",
+      "translation": null
+    },
+    {
+      "time": 154.94,
+      "time_str": "02:34.940",
+      "text": "Oh-oh, oh-oh, oh",
+      "translation": null
+    },
+    {
+      "time": 156.87,
+      "time_str": "02:36.870",
+      "text": "Ooh, ooh, ooh, ooh, ooh-ooh",
+      "translation": null
+    },
+    {
+      "time": 163.69,
+      "time_str": "02:43.690",
+      "text": "Ooh, ah-ah, ah-ah",
+      "translation": null
+    },
+    {
+      "time": 165.85,
+      "time_str": "02:45.850",
+      "text": "They say",
+      "translation": "他们说"
+    },
+    {
+      "time": 166.59,
+      "time_str": "02:46.590",
+      "text": "Dance for me, dance for me, dance for me, oh-oh-oh",
+      "translation": "跳起来吧 跳起来吧 为我跳舞吧"
+    },
+    {
+      "time": 170.7,
+      "time_str": "02:50.700",
+      "text": "I’ve never seen anybody do the things you do before",
+      "translation": "我从未见过如此独特的舞步"
+    },
+    {
+      "time": 175.06,
+      "time_str": "02:55.060",
+      "text": "They say",
+      "translation": "他们说"
+    },
+    {
+      "time": 176.27,
+      "time_str": "02:56.270",
+      "text": "Move for me, move for me, move for me, ayy-ayy-ayy",
+      "translation": "动起来吧 动起来吧 为我摇摆吧"
+    },
+    {
+      "time": 180.44,
+      "time_str": "03:00.440",
+      "text": "And when you’re done, I’ll make you do it all again",
+      "translation": "等这支舞结束我会恳求你再跳一支"
+    },
+    {
+      "time": 184.78,
+      "time_str": "03:04.780",
+      "text": "They say",
+      "translation": "他们说"
+    },
+    {
+      "time": 186.0,
+      "time_str": "03:06.000",
+      "text": "Dance for me, dance for me, dance for me, oh-oh-oh, oh-oh, oh-oh",
+      "translation": "跳起来吧 跳起来吧 为我跳舞吧"
+    },
+    {
+      "time": 190.22,
+      "time_str": "03:10.220",
+      "text": "I’ve never seen anybody do the things you do before",
+      "translation": "我从未见过如此婀娜的舞姿"
+    },
+    {
+      "time": 194.59,
+      "time_str": "03:14.590",
+      "text": "They say",
+      "translation": "他们说"
+    },
+    {
+      "time": 195.85,
+      "time_str": "03:15.850",
+      "text": "Move for me, move for me, move for me, ayy-ayy-ayy",
+      "translation": "动起来吧 动起来吧 为我摇摆吧"
+    },
+    {
+      "time": 200.03,
+      "time_str": "03:20.030",
+      "text": "And when you’re done, I'll make you do it all again",
+      "translation": "等这支舞结束我会恳求你再跳一支"
+    },
+    {
+      "time": 204.48,
+      "time_str": "03:24.480",
+      "text": "All again",
+      "translation": "再跳一支"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Dance Monkey - Tones and I.lrc"
+}

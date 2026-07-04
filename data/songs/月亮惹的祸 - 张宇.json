@@ -1,0 +1,412 @@
+{
+  "title": "月亮惹的祸",
+  "title_raw": "月亮惹的祸",
+  "version": null,
+  "artist": "张宇",
+  "group_key": "月亮惹的祸|张宇",
+  "writers": {
+    "lyricist": "十一郎",
+    "composer": "张宇",
+    "arranger": "Michael Thompson"
+  },
+  "lyrics": [
+    {
+      "time": 22.124,
+      "time_str": "00:22.124",
+      "text": "都是你的错 轻易爱上我",
+      "translation": null
+    },
+    {
+      "time": 25.813,
+      "time_str": "00:25.813",
+      "text": "让我不知不觉满足被爱的虚荣",
+      "translation": null
+    },
+    {
+      "time": 29.632,
+      "time_str": "00:29.632",
+      "text": "都是你的错 你对人的宠",
+      "translation": null
+    },
+    {
+      "time": 33.294,
+      "time_str": "00:33.294",
+      "text": "是一种诱惑",
+      "translation": null
+    },
+    {
+      "time": 37.136,
+      "time_str": "00:37.136",
+      "text": "都是你的错 在你的眼中",
+      "translation": null
+    },
+    {
+      "time": 40.854,
+      "time_str": "00:40.854",
+      "text": "总是藏着让人又爱又怜的朦胧",
+      "translation": null
+    },
+    {
+      "time": 44.575,
+      "time_str": "00:44.575",
+      "text": "都是你的错 你的痴情梦",
+      "translation": null
+    },
+    {
+      "time": 48.33,
+      "time_str": "00:48.330",
+      "text": "像一个魔咒",
+      "translation": null
+    },
+    {
+      "time": 51.46,
+      "time_str": "00:51.460",
+      "text": "被你爱过还能为谁蠢动",
+      "translation": null
+    },
+    {
+      "time": 59.92,
+      "time_str": "00:59.920",
+      "text": "我承认都是月亮惹的祸",
+      "translation": null
+    },
+    {
+      "time": 63.771,
+      "time_str": "01:03.771",
+      "text": "那样的夜色太美你太温柔",
+      "translation": null
+    },
+    {
+      "time": 67.533,
+      "time_str": "01:07.533",
+      "text": "才会在刹那之间只想和你一起到白头",
+      "translation": null
+    },
+    {
+      "time": 75.063,
+      "time_str": "01:15.063",
+      "text": "我承认都是誓言惹的祸",
+      "translation": null
+    },
+    {
+      "time": 78.719,
+      "time_str": "01:18.719",
+      "text": "偏偏似糖如蜜说来最动人",
+      "translation": null
+    },
+    {
+      "time": 82.44,
+      "time_str": "01:22.440",
+      "text": "再怎么心如钢铁也成绕指柔",
+      "translation": null
+    },
+    {
+      "time": 89.666,
+      "time_str": "01:29.666",
+      "text": "都是你的错 轻易爱上我",
+      "translation": null
+    },
+    {
+      "time": 93.416,
+      "time_str": "01:33.416",
+      "text": "让我不知不觉满足被爱的虚荣",
+      "translation": null
+    },
+    {
+      "time": 97.205,
+      "time_str": "01:37.205",
+      "text": "都是你的错 你对人的宠",
+      "translation": null
+    },
+    {
+      "time": 100.907,
+      "time_str": "01:40.907",
+      "text": "是一种诱惑",
+      "translation": null
+    },
+    {
+      "time": 104.769,
+      "time_str": "01:44.769",
+      "text": "都是你的错 在你的眼中",
+      "translation": null
+    },
+    {
+      "time": 108.461,
+      "time_str": "01:48.461",
+      "text": "总是藏着让人又爱又怜的朦胧",
+      "translation": null
+    },
+    {
+      "time": 112.279,
+      "time_str": "01:52.279",
+      "text": "都是你的错 你的痴情梦",
+      "translation": null
+    },
+    {
+      "time": 116.033,
+      "time_str": "01:56.033",
+      "text": "像一个魔咒",
+      "translation": null
+    },
+    {
+      "time": 119.229,
+      "time_str": "01:59.229",
+      "text": "被你爱过还能为谁蠢动",
+      "translation": null
+    },
+    {
+      "time": 127.438,
+      "time_str": "02:07.438",
+      "text": "我承认都是月亮惹的祸",
+      "translation": null
+    },
+    {
+      "time": 131.306,
+      "time_str": "02:11.306",
+      "text": "那样的夜色太美你太温柔",
+      "translation": null
+    },
+    {
+      "time": 134.998,
+      "time_str": "02:14.998",
+      "text": "才会在刹那之间只想和你一起到白头",
+      "translation": null
+    },
+    {
+      "time": 142.458,
+      "time_str": "02:22.458",
+      "text": "我承认都是誓言惹的祸",
+      "translation": null
+    },
+    {
+      "time": 146.279,
+      "time_str": "02:26.279",
+      "text": "偏偏似糖如蜜说来最动人",
+      "translation": null
+    },
+    {
+      "time": 150.051,
+      "time_str": "02:30.051",
+      "text": "再怎么心如钢铁也成绕指柔",
+      "translation": null
+    },
+    {
+      "time": 157.763,
+      "time_str": "02:37.763",
+      "text": "怎样的情深意动",
+      "translation": null
+    },
+    {
+      "time": 165.2,
+      "time_str": "02:45.200",
+      "text": "会让两个人拿一生当承诺",
+      "translation": null
+    },
+    {
+      "time": 189.585,
+      "time_str": "03:09.585",
+      "text": "我承认都是誓言惹的祸",
+      "translation": null
+    },
+    {
+      "time": 193.163,
+      "time_str": "03:13.163",
+      "text": "偏偏似糖如蜜说来最动人",
+      "translation": null
+    },
+    {
+      "time": 196.929,
+      "time_str": "03:16.929",
+      "text": "再怎么心如钢铁也成绕指柔",
+      "translation": null
+    },
+    {
+      "time": 204.499,
+      "time_str": "03:24.499",
+      "text": "我承认都是月亮惹的祸",
+      "translation": null
+    },
+    {
+      "time": 208.279,
+      "time_str": "03:28.279",
+      "text": "那样的夜色太美你太温柔",
+      "translation": null
+    },
+    {
+      "time": 212.032,
+      "time_str": "03:32.032",
+      "text": "才会在刹那之间只想和你一起到白头",
+      "translation": null
+    },
+    {
+      "time": 219.532,
+      "time_str": "03:39.532",
+      "text": "我承认都是誓言惹的祸",
+      "translation": null
+    },
+    {
+      "time": 223.287,
+      "time_str": "03:43.287",
+      "text": "偏偏似糖如蜜说来最动人",
+      "translation": null
+    },
+    {
+      "time": 227.104,
+      "time_str": "03:47.104",
+      "text": "再怎么心如钢铁也成绕指柔",
+      "translation": null
+    },
+    {
+      "time": 257.466,
+      "time_str": "04:17.466",
+      "text": "Arranged By – Michael Thompson",
+      "translation": null
+    },
+    {
+      "time": 257.662,
+      "time_str": "04:17.662",
+      "text": "Lyrics By – 十一郎",
+      "translation": null
+    },
+    {
+      "time": 257.858,
+      "time_str": "04:17.858",
+      "text": "Music By – 张宇",
+      "translation": null
+    },
+    {
+      "time": 258.054,
+      "time_str": "04:18.054",
+      "text": "Guitar – Michael Thompson",
+      "translation": null
+    },
+    {
+      "time": 258.25,
+      "time_str": "04:18.250",
+      "text": "Backing Vocals – Julia Tillman-Waters, Maxine Waters, Oren Waters, 张宇, 黄秀侦",
+      "translation": null
+    },
+    {
+      "time": 258.446,
+      "time_str": "04:18.446",
+      "text": "Bass – Leland Sklar",
+      "translation": null
+    },
+    {
+      "time": 258.642,
+      "time_str": "04:18.642",
+      "text": "Drums – Gregg Bissonette",
+      "translation": null
+    },
+    {
+      "time": 258.838,
+      "time_str": "04:18.838",
+      "text": "Flute – Warren Lee Ham",
+      "translation": null
+    },
+    {
+      "time": 259.034,
+      "time_str": "04:19.034",
+      "text": "Programmed By – Jeffrey \"C.J.\" Vanston",
+      "translation": null
+    },
+    {
+      "time": 259.23,
+      "time_str": "04:19.230",
+      "text": "Keyboards – Jeffrey \"C.J.\" Vanston",
+      "translation": null
+    },
+    {
+      "time": 259.426,
+      "time_str": "04:19.426",
+      "text": "Mastered By – Stephen Marcussen",
+      "translation": null
+    },
+    {
+      "time": 259.622,
+      "time_str": "04:19.622",
+      "text": "Mixed By – Bill Drescher",
+      "translation": null
+    },
+    {
+      "time": 259.818,
+      "time_str": "04:19.818",
+      "text": "Percussion – Luis Conte",
+      "translation": null
+    },
+    {
+      "time": 260.014,
+      "time_str": "04:20.014",
+      "text": "Presenter – 刘虞瑞",
+      "translation": null
+    },
+    {
+      "time": 260.21,
+      "time_str": "04:20.210",
+      "text": "Producer – 黄秀侦",
+      "translation": null
+    },
+    {
+      "time": 260.602,
+      "time_str": "04:20.602",
+      "text": "Recorded At – A&M Studios",
+      "translation": null
+    },
+    {
+      "time": 260.798,
+      "time_str": "04:20.798",
+      "text": "Recorded At – Greenhouse Studio Inc., Canada",
+      "translation": null
+    },
+    {
+      "time": 260.994,
+      "time_str": "04:20.994",
+      "text": "Mixed At – Enterprise Studios",
+      "translation": null
+    },
+    {
+      "time": 261.19,
+      "time_str": "04:21.190",
+      "text": "Mastered At – Precision Mastering",
+      "translation": null
+    },
+    {
+      "time": 261.386,
+      "time_str": "04:21.386",
+      "text": "Engineer – Bill Drescher, 林正忠",
+      "translation": null
+    },
+    {
+      "time": 261.582,
+      "time_str": "04:21.582",
+      "text": "Executive-Producer – 陈苔威",
+      "translation": null
+    },
+    {
+      "time": 261.778,
+      "time_str": "04:21.778",
+      "text": "A&R – 何启弘",
+      "translation": null
+    },
+    {
+      "time": 261.974,
+      "time_str": "04:21.974",
+      "text": "Phonographic Copyright – 喜得音乐制作有限公司",
+      "translation": null
+    },
+    {
+      "time": 262.17,
+      "time_str": "04:22.170",
+      "text": "Copyright (c) – EMI (Taiwan) Ltd.",
+      "translation": null
+    },
+    {
+      "time": 262.366,
+      "time_str": "04:22.366",
+      "text": "Distributed By – EMI (Taiwan) Ltd.",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "月亮惹的祸 - 张宇.lrc"
+}

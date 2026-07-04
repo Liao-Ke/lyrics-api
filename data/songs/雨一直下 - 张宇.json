@@ -1,0 +1,454 @@
+{
+  "title": "雨一直下",
+  "title_raw": "雨一直下",
+  "version": null,
+  "artist": "张宇",
+  "group_key": "雨一直下|张宇",
+  "writers": {
+    "lyricist": "十一郎",
+    "composer": "张宇",
+    "arranger": "Michael Thompson"
+  },
+  "lyrics": [
+    {
+      "time": 40.139,
+      "time_str": "00:40.139",
+      "text": "雨一直下",
+      "translation": null
+    },
+    {
+      "time": 43.502,
+      "time_str": "00:43.502",
+      "text": "气氛不算融洽",
+      "translation": null
+    },
+    {
+      "time": 48.152,
+      "time_str": "00:48.152",
+      "text": "在同个屋檐下",
+      "translation": null
+    },
+    {
+      "time": 49.797,
+      "time_str": "00:49.797",
+      "text": "你渐渐感到心在变化",
+      "translation": null
+    },
+    {
+      "time": 53.769,
+      "time_str": "00:53.769",
+      "text": "你爱着他",
+      "translation": null
+    },
+    {
+      "time": 57.017,
+      "time_str": "00:57.017",
+      "text": "也许也带着恨吧",
+      "translation": null
+    },
+    {
+      "time": 61.545,
+      "time_str": "01:01.545",
+      "text": "青春耗了一大半",
+      "translation": null
+    },
+    {
+      "time": 63.384,
+      "time_str": "01:03.384",
+      "text": "原来只是陪他玩耍",
+      "translation": null
+    },
+    {
+      "time": 67.336,
+      "time_str": "01:07.336",
+      "text": "正想离开他",
+      "translation": null
+    },
+    {
+      "time": 70.831,
+      "time_str": "01:10.831",
+      "text": "他却拿着鲜花",
+      "translation": null
+    },
+    {
+      "time": 75.396,
+      "time_str": "01:15.396",
+      "text": "说不着边的话",
+      "translation": null
+    },
+    {
+      "time": 77.09,
+      "time_str": "01:17.090",
+      "text": "让整个场面更加尴尬",
+      "translation": null
+    },
+    {
+      "time": 80.982,
+      "time_str": "01:20.982",
+      "text": "不可思议吧",
+      "translation": null
+    },
+    {
+      "time": 84.582,
+      "time_str": "01:24.582",
+      "text": "梦在瞬间崩塌",
+      "translation": null
+    },
+    {
+      "time": 88.921,
+      "time_str": "01:28.921",
+      "text": "为何当初那么傻",
+      "translation": null
+    },
+    {
+      "time": 90.772,
+      "time_str": "01:30.772",
+      "text": "还一心想要嫁给他",
+      "translation": null
+    },
+    {
+      "time": 95.34,
+      "time_str": "01:35.340",
+      "text": "就是爱到深处 才怨他",
+      "translation": null
+    },
+    {
+      "time": 99.621,
+      "time_str": "01:39.621",
+      "text": "舍不舍得 都断了吧",
+      "translation": null
+    },
+    {
+      "time": 102.56,
+      "time_str": "01:42.560",
+      "text": "那是从来",
+      "translation": null
+    },
+    {
+      "time": 103.675,
+      "time_str": "01:43.675",
+      "text": "都没有后路的悬崖",
+      "translation": null
+    },
+    {
+      "time": 109.03,
+      "time_str": "01:49.030",
+      "text": "就是爱到深处 才由他",
+      "translation": null
+    },
+    {
+      "time": 113.205,
+      "time_str": "01:53.205",
+      "text": "碎了心 也要放得下",
+      "translation": null
+    },
+    {
+      "time": 116.308,
+      "time_str": "01:56.308",
+      "text": "难道忘了那爱他的伤",
+      "translation": null
+    },
+    {
+      "time": 119.076,
+      "time_str": "01:59.076",
+      "text": "已密密麻麻",
+      "translation": null
+    },
+    {
+      "time": 122.389,
+      "time_str": "02:02.389",
+      "text": "雨一直下",
+      "translation": null
+    },
+    {
+      "time": 125.746,
+      "time_str": "02:05.746",
+      "text": "气氛不算融洽",
+      "translation": null
+    },
+    {
+      "time": 130.215,
+      "time_str": "02:10.215",
+      "text": "在同个屋檐下",
+      "translation": null
+    },
+    {
+      "time": 131.958,
+      "time_str": "02:11.958",
+      "text": "你渐渐感到心在变化",
+      "translation": null
+    },
+    {
+      "time": 135.89,
+      "time_str": "02:15.890",
+      "text": "不可思议吧",
+      "translation": null
+    },
+    {
+      "time": 139.395,
+      "time_str": "02:19.395",
+      "text": "梦在瞬间崩塌",
+      "translation": null
+    },
+    {
+      "time": 143.708,
+      "time_str": "02:23.708",
+      "text": "为何当初那么傻",
+      "translation": null
+    },
+    {
+      "time": 145.584,
+      "time_str": "02:25.584",
+      "text": "还一心想要嫁给他",
+      "translation": null
+    },
+    {
+      "time": 150.129,
+      "time_str": "02:30.129",
+      "text": "就是爱到深处 才怨他",
+      "translation": null
+    },
+    {
+      "time": 154.36,
+      "time_str": "02:34.360",
+      "text": "舍不舍得 都断了吧",
+      "translation": null
+    },
+    {
+      "time": 157.441,
+      "time_str": "02:37.441",
+      "text": "那是从来",
+      "translation": null
+    },
+    {
+      "time": 158.482,
+      "time_str": "02:38.482",
+      "text": "都没有后路的悬崖",
+      "translation": null
+    },
+    {
+      "time": 163.818,
+      "time_str": "02:43.818",
+      "text": "就是爱到深处 才由他",
+      "translation": null
+    },
+    {
+      "time": 168.08,
+      "time_str": "02:48.080",
+      "text": "碎了心 也要放得下",
+      "translation": null
+    },
+    {
+      "time": 171.158,
+      "time_str": "02:51.158",
+      "text": "难道忘了那爱他的伤",
+      "translation": null
+    },
+    {
+      "time": 173.923,
+      "time_str": "02:53.923",
+      "text": "已密密麻麻",
+      "translation": null
+    },
+    {
+      "time": 177.092,
+      "time_str": "02:57.092",
+      "text": "不要再为了他挣扎",
+      "translation": null
+    },
+    {
+      "time": 180.276,
+      "time_str": "03:00.276",
+      "text": "不要再为他左牵右挂",
+      "translation": null
+    },
+    {
+      "time": 183.762,
+      "time_str": "03:03.762",
+      "text": "今后不管他爱不爱谁",
+      "translation": null
+    },
+    {
+      "time": 186.91,
+      "time_str": "03:06.910",
+      "text": "快乐吗 都随他",
+      "translation": null
+    },
+    {
+      "time": 204.957,
+      "time_str": "03:24.957",
+      "text": "就是爱到深处 才由他",
+      "translation": null
+    },
+    {
+      "time": 209.131,
+      "time_str": "03:29.131",
+      "text": "碎了心 也要放得下",
+      "translation": null
+    },
+    {
+      "time": 212.185,
+      "time_str": "03:32.185",
+      "text": "难道忘了那爱他的伤",
+      "translation": null
+    },
+    {
+      "time": 215.014,
+      "time_str": "03:35.014",
+      "text": "已密密麻麻",
+      "translation": null
+    },
+    {
+      "time": 218.59,
+      "time_str": "03:38.590",
+      "text": "就是爱到深处 才怨他",
+      "translation": null
+    },
+    {
+      "time": 222.768,
+      "time_str": "03:42.768",
+      "text": "舍不舍得都断了吧",
+      "translation": null
+    },
+    {
+      "time": 225.92,
+      "time_str": "03:45.920",
+      "text": "那是从来",
+      "translation": null
+    },
+    {
+      "time": 227.006,
+      "time_str": "03:47.006",
+      "text": "都没有后路的悬崖",
+      "translation": null
+    },
+    {
+      "time": 232.347,
+      "time_str": "03:52.347",
+      "text": "就是爱到深处 才由他",
+      "translation": null
+    },
+    {
+      "time": 236.57,
+      "time_str": "03:56.570",
+      "text": "碎了心 也要放得下",
+      "translation": null
+    },
+    {
+      "time": 239.648,
+      "time_str": "03:59.648",
+      "text": "难道忘了那爱他的伤",
+      "translation": null
+    },
+    {
+      "time": 242.437,
+      "time_str": "04:02.437",
+      "text": "已密密麻麻",
+      "translation": null
+    },
+    {
+      "time": 247.366,
+      "time_str": "04:07.366",
+      "text": "Arranged By – Michael Thompson",
+      "translation": null
+    },
+    {
+      "time": 247.592,
+      "time_str": "04:07.592",
+      "text": "Acoustic Guitar – Michael Thompson",
+      "translation": null
+    },
+    {
+      "time": 247.765,
+      "time_str": "04:07.765",
+      "text": "Electric Guitar – Michael Thompson",
+      "translation": null
+    },
+    {
+      "time": 247.948,
+      "time_str": "04:07.948",
+      "text": "Guitar [Wah Wah] – Michael Thompson",
+      "translation": null
+    },
+    {
+      "time": 248.137,
+      "time_str": "04:08.137",
+      "text": "Soloist – Michael Thompson",
+      "translation": null
+    },
+    {
+      "time": 248.33,
+      "time_str": "04:08.330",
+      "text": "Bass – Randy Jackson",
+      "translation": null
+    },
+    {
+      "time": 248.516,
+      "time_str": "04:08.516",
+      "text": "Drums – Vinnie Colaiuta",
+      "translation": null
+    },
+    {
+      "time": 248.692,
+      "time_str": "04:08.692",
+      "text": "Engineer – Bill Drescher",
+      "translation": null
+    },
+    {
+      "time": 248.881,
+      "time_str": "04:08.881",
+      "text": "Engineer – David N. Cole",
+      "translation": null
+    },
+    {
+      "time": 249.051,
+      "time_str": "04:09.051",
+      "text": "Keyboards – Jeffrey \"CJ\" Vanston",
+      "translation": null
+    },
+    {
+      "time": 249.236,
+      "time_str": "04:09.236",
+      "text": "Programmed By – Jeffrey \"CJ\" Vanston",
+      "translation": null
+    },
+    {
+      "time": 249.407,
+      "time_str": "04:09.407",
+      "text": "Synth – Jeffrey \"CJ\" Vanston",
+      "translation": null
+    },
+    {
+      "time": 249.598,
+      "time_str": "04:09.598",
+      "text": "Lyrics By – 萧慧文",
+      "translation": null
+    },
+    {
+      "time": 249.782,
+      "time_str": "04:09.782",
+      "text": "Music By – 张宇",
+      "translation": null
+    },
+    {
+      "time": 249.97,
+      "time_str": "04:09.970",
+      "text": "Producer – David N. Cole, Phil Chang",
+      "translation": null
+    },
+    {
+      "time": 250.14,
+      "time_str": "04:10.140",
+      "text": "Mixed By – David N. Cole",
+      "translation": null
+    },
+    {
+      "time": 250.501,
+      "time_str": "04:10.501",
+      "text": "Recorded By – Bill Schnee, Greg Droman, Richard Flack",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "雨一直下 - 张宇.lrc"
+}

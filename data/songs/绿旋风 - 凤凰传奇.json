@@ -1,0 +1,250 @@
+{
+  "title": "绿旋风",
+  "title_raw": "绿旋风",
+  "version": null,
+  "artist": "凤凰传奇",
+  "group_key": "绿旋风|凤凰传奇",
+  "writers": {
+    "lyricist": "屈塬",
+    "composer": "何沐阳",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 33.7,
+      "time_str": "00:33.700",
+      "text": "女：金戈铁马的边塞诗声声诉衷情",
+      "translation": null
+    },
+    {
+      "time": 37.81,
+      "time_str": "00:37.810",
+      "text": "一代一代好儿女踏歌从军行",
+      "translation": null
+    },
+    {
+      "time": 42.14,
+      "time_str": "00:42.140",
+      "text": "钢铁的熔炉中锻打出英雄汉",
+      "translation": null
+    },
+    {
+      "time": 46.25,
+      "time_str": "00:46.250",
+      "text": "枕戈待旦的营盘里卧虎又藏龙",
+      "translation": null
+    },
+    {
+      "time": 50.49,
+      "time_str": "00:50.490",
+      "text": "男：一生伴随进行曲 还有那号角声",
+      "translation": null
+    },
+    {
+      "time": 54.71,
+      "time_str": "00:54.710",
+      "text": "你的歌声飘过来 像一阵绿旋风",
+      "translation": null
+    },
+    {
+      "time": 58.95,
+      "time_str": "00:58.950",
+      "text": "女：花好月圆的年代里岁岁好风景",
+      "translation": null
+    },
+    {
+      "time": 63.12,
+      "time_str": "01:03.120",
+      "text": "一天一天守望着子夜和黎明",
+      "translation": null
+    },
+    {
+      "time": 67.39,
+      "time_str": "01:07.390",
+      "text": "从军的长路上有多少风和雨",
+      "translation": null
+    },
+    {
+      "time": 71.57,
+      "time_str": "01:11.570",
+      "text": "披挂齐整的将士们侠骨也柔情",
+      "translation": null
+    },
+    {
+      "time": 75.78,
+      "time_str": "01:15.780",
+      "text": "男：无论是在硝烟里还是那花丛中",
+      "translation": null
+    },
+    {
+      "time": 79.89,
+      "time_str": "01:19.890",
+      "text": "你的队伍开过来 像一阵绿旋风",
+      "translation": null
+    },
+    {
+      "time": 84.16,
+      "time_str": "01:24.160",
+      "text": "合：一阵一阵绿旋风吹得我心动",
+      "translation": null
+    },
+    {
+      "time": 88.38,
+      "time_str": "01:28.380",
+      "text": "草绿色的生命永远年轻",
+      "translation": null
+    },
+    {
+      "time": 92.59,
+      "time_str": "01:32.590",
+      "text": "一曲一曲大风歌唱得百花红",
+      "translation": null
+    },
+    {
+      "time": 96.81,
+      "time_str": "01:36.810",
+      "text": "草绿色的旋律永远动听",
+      "translation": null
+    },
+    {
+      "time": 117.92,
+      "time_str": "01:57.920",
+      "text": "女：花好月圆的年代里岁岁好风景",
+      "translation": null
+    },
+    {
+      "time": 122.03,
+      "time_str": "02:02.030",
+      "text": "一天一天守望着子夜和黎明",
+      "translation": null
+    },
+    {
+      "time": 126.27,
+      "time_str": "02:06.270",
+      "text": "从军的长路上有多少风和雨",
+      "translation": null
+    },
+    {
+      "time": 130.55,
+      "time_str": "02:10.550",
+      "text": "披挂齐整的将士们侠骨也柔情",
+      "translation": null
+    },
+    {
+      "time": 134.74,
+      "time_str": "02:14.740",
+      "text": "男：无论是在硝烟里还是那花丛中",
+      "translation": null
+    },
+    {
+      "time": 138.91,
+      "time_str": "02:18.910",
+      "text": "你的队伍开过来 像一阵绿旋风",
+      "translation": null
+    },
+    {
+      "time": 143.12,
+      "time_str": "02:23.120",
+      "text": "合：一阵一阵绿旋风吹得我心动",
+      "translation": null
+    },
+    {
+      "time": 147.29,
+      "time_str": "02:27.290",
+      "text": "草绿色的生命永远年轻",
+      "translation": null
+    },
+    {
+      "time": 151.56,
+      "time_str": "02:31.560",
+      "text": "一曲一曲大风歌唱得百花红",
+      "translation": null
+    },
+    {
+      "time": 155.72,
+      "time_str": "02:35.720",
+      "text": "草绿色的旋律永远动听",
+      "translation": null
+    },
+    {
+      "time": 159.99,
+      "time_str": "02:39.990",
+      "text": "一阵一阵绿旋风吹得我心动",
+      "translation": null
+    },
+    {
+      "time": 164.16,
+      "time_str": "02:44.160",
+      "text": "草绿色的生命永远年轻",
+      "translation": null
+    },
+    {
+      "time": 168.37,
+      "time_str": "02:48.370",
+      "text": "一曲一曲大风歌唱得百花红",
+      "translation": null
+    },
+    {
+      "time": 172.59,
+      "time_str": "02:52.590",
+      "text": "草绿色的旋律永远动听",
+      "translation": null
+    },
+    {
+      "time": 176.85,
+      "time_str": "02:56.850",
+      "text": "女：一阵一阵绿旋风吹得我心动",
+      "translation": null
+    },
+    {
+      "time": 181.02,
+      "time_str": "03:01.020",
+      "text": "草绿色的生命永远年轻",
+      "translation": null
+    },
+    {
+      "time": 185.28,
+      "time_str": "03:05.280",
+      "text": "一曲一曲大风歌唱得百花红",
+      "translation": null
+    },
+    {
+      "time": 189.4,
+      "time_str": "03:09.400",
+      "text": "草绿色的旋律永远动听",
+      "translation": null
+    },
+    {
+      "time": 193.66,
+      "time_str": "03:13.660",
+      "text": "合：一阵一阵绿旋风吹得我心动",
+      "translation": null
+    },
+    {
+      "time": 197.83,
+      "time_str": "03:17.830",
+      "text": "草绿色的生命永远年轻",
+      "translation": null
+    },
+    {
+      "time": 202.04,
+      "time_str": "03:22.040",
+      "text": "一曲一曲大风歌唱得百花红",
+      "translation": null
+    },
+    {
+      "time": 206.26,
+      "time_str": "03:26.260",
+      "text": "草绿色的旋律永远动听",
+      "translation": null
+    },
+    {
+      "time": 210.52,
+      "time_str": "03:30.520",
+      "text": "草绿色的旋律永远动听",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "绿旋风 - 凤凰传奇.lrc"
+}

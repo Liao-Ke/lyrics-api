@@ -1,0 +1,232 @@
+{
+  "title": "没用",
+  "title_raw": "没用",
+  "version": null,
+  "artist": "群星",
+  "group_key": "没用|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.12,
+      "time_str": "00:03.120",
+      "text": "专辑 荒野彪客",
+      "translation": null
+    },
+    {
+      "time": 12.81,
+      "time_str": "00:12.810",
+      "text": "别叫醒我",
+      "translation": null
+    },
+    {
+      "time": 15.24,
+      "time_str": "00:15.240",
+      "text": "几遍了",
+      "translation": null
+    },
+    {
+      "time": 16.43,
+      "time_str": "00:16.430",
+      "text": "觉得我懒惰",
+      "translation": null
+    },
+    {
+      "time": 17.96,
+      "time_str": "00:17.960",
+      "text": "别指望叫我",
+      "translation": null
+    },
+    {
+      "time": 20.93,
+      "time_str": "00:20.930",
+      "text": "我未必懂",
+      "translation": null
+    },
+    {
+      "time": 22.92,
+      "time_str": "00:22.920",
+      "text": "请你放轻松",
+      "translation": null
+    },
+    {
+      "time": 26.6,
+      "time_str": "00:26.600",
+      "text": "放轻松",
+      "translation": null
+    },
+    {
+      "time": 29.11,
+      "time_str": "00:29.110",
+      "text": "哦别这样",
+      "translation": null
+    },
+    {
+      "time": 32.01,
+      "time_str": "00:32.010",
+      "text": "…… 没用",
+      "translation": null
+    },
+    {
+      "time": 35.95,
+      "time_str": "00:35.950",
+      "text": "别叫醒我",
+      "translation": null
+    },
+    {
+      "time": 38.41,
+      "time_str": "00:38.410",
+      "text": "在你喝完啤酒后",
+      "translation": null
+    },
+    {
+      "time": 41.07,
+      "time_str": "00:41.070",
+      "text": "别装纯情",
+      "translation": null
+    },
+    {
+      "time": 44.21,
+      "time_str": "00:44.210",
+      "text": "美男计也有",
+      "translation": null
+    },
+    {
+      "time": 46.25,
+      "time_str": "00:46.250",
+      "text": "请你放轻松",
+      "translation": null
+    },
+    {
+      "time": 49.79,
+      "time_str": "00:49.790",
+      "text": "放轻松",
+      "translation": null
+    },
+    {
+      "time": 52.33,
+      "time_str": "00:52.330",
+      "text": "哦此路",
+      "translation": null
+    },
+    {
+      "time": 55.77,
+      "time_str": "00:55.770",
+      "text": "哦童彤彤 没用",
+      "translation": null
+    },
+    {
+      "time": 59.35,
+      "time_str": "00:59.350",
+      "text": "别想太多",
+      "translation": null
+    },
+    {
+      "time": 61.6,
+      "time_str": "01:01.600",
+      "text": "想多了又不做",
+      "translation": null
+    },
+    {
+      "time": 64.25,
+      "time_str": "01:04.250",
+      "text": "别指望叫我",
+      "translation": null
+    },
+    {
+      "time": 67.39,
+      "time_str": "01:07.390",
+      "text": "我不开拓阿索",
+      "translation": null
+    },
+    {
+      "time": 69.42,
+      "time_str": "01:09.420",
+      "text": "请你放轻松",
+      "translation": null
+    },
+    {
+      "time": 73.05,
+      "time_str": "01:13.050",
+      "text": "放轻松",
+      "translation": null
+    },
+    {
+      "time": 75.56,
+      "time_str": "01:15.560",
+      "text": "哦别指做梦",
+      "translation": null
+    },
+    {
+      "time": 78.74,
+      "time_str": "01:18.740",
+      "text": "……没用",
+      "translation": null
+    },
+    {
+      "time": 128.94,
+      "time_str": "02:08.940",
+      "text": "别叫醒我",
+      "translation": null
+    },
+    {
+      "time": 131.4,
+      "time_str": "02:11.400",
+      "text": "我喜欢这种懒惰",
+      "translation": null
+    },
+    {
+      "time": 134.0,
+      "time_str": "02:14.000",
+      "text": "别说爱我",
+      "translation": null
+    },
+    {
+      "time": 137.1,
+      "time_str": "02:17.100",
+      "text": "你未必懂",
+      "translation": null
+    },
+    {
+      "time": 139.04,
+      "time_str": "02:19.040",
+      "text": "请你放轻松",
+      "translation": null
+    },
+    {
+      "time": 142.66,
+      "time_str": "02:22.660",
+      "text": "放轻松",
+      "translation": null
+    },
+    {
+      "time": 145.21,
+      "time_str": "02:25.210",
+      "text": "哦你不懂",
+      "translation": null
+    },
+    {
+      "time": 147.88,
+      "time_str": "02:27.880",
+      "text": "……没用",
+      "translation": null
+    },
+    {
+      "time": 157.98,
+      "time_str": "02:37.980",
+      "text": "你不懂",
+      "translation": null
+    },
+    {
+      "time": 162.88,
+      "time_str": "02:42.880",
+      "text": "~哦没用~真没用 哦我没用 哦你没用 你不懂我 放轻松 放轻松 哦没用 你没用 没有用",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "没用 - 群星.lrc"
+}

@@ -1,0 +1,628 @@
+{
+  "title": "红日",
+  "title_raw": "红日",
+  "version": null,
+  "artist": "李克勤",
+  "group_key": "红日|李克勤",
+  "writers": {
+    "lyricist": "李克勤",
+    "composer": "立川俊之",
+    "arranger": "方树梁"
+  },
+  "lyrics": [
+    {
+      "time": 2.0,
+      "time_str": "00:02.000",
+      "text": "Publisher : TV Asahi Ms (PolyGram)",
+      "translation": null
+    },
+    {
+      "time": 2.775,
+      "time_str": "00:02.775",
+      "text": "AH.. AH... AH",
+      "translation": null
+    },
+    {
+      "time": 20.839,
+      "time_str": "00:20.839",
+      "text": "命运就算颠沛流离",
+      "translation": null
+    },
+    {
+      "time": 22.803,
+      "time_str": "00:22.803",
+      "text": "命运就算曲折离奇",
+      "translation": null
+    },
+    {
+      "time": 24.766,
+      "time_str": "00:24.766",
+      "text": "命运就算恐吓着你",
+      "translation": null
+    },
+    {
+      "time": 26.777,
+      "time_str": "00:26.777",
+      "text": "做人没趣味",
+      "translation": null
+    },
+    {
+      "time": 28.272,
+      "time_str": "00:28.272",
+      "text": "别流泪 心酸",
+      "translation": null
+    },
+    {
+      "time": 30.232,
+      "time_str": "00:30.232",
+      "text": "更不应舍弃",
+      "translation": null
+    },
+    {
+      "time": 32.251,
+      "time_str": "00:32.251",
+      "text": "我愿能一生永远陪伴你",
+      "translation": null
+    },
+    {
+      "time": 36.806,
+      "time_str": "00:36.806",
+      "text": "命运就算颠沛流离",
+      "translation": null
+    },
+    {
+      "time": 38.809,
+      "time_str": "00:38.809",
+      "text": "命运就算曲折离奇",
+      "translation": null
+    },
+    {
+      "time": 40.799,
+      "time_str": "00:40.799",
+      "text": "命运就算恐吓着你",
+      "translation": null
+    },
+    {
+      "time": 42.715,
+      "time_str": "00:42.715",
+      "text": "做人没趣味",
+      "translation": null
+    },
+    {
+      "time": 44.235,
+      "time_str": "00:44.235",
+      "text": "别流泪 心酸",
+      "translation": null
+    },
+    {
+      "time": 46.225,
+      "time_str": "00:46.225",
+      "text": "更不应舍弃",
+      "translation": null
+    },
+    {
+      "time": 48.313,
+      "time_str": "00:48.313",
+      "text": "我愿能一生永远陪伴你",
+      "translation": null
+    },
+    {
+      "time": 52.774,
+      "time_str": "00:52.774",
+      "text": "AH.. OH.. AH.. OH.. AH",
+      "translation": null
+    },
+    {
+      "time": 60.831,
+      "time_str": "01:00.831",
+      "text": "一生之中兜兜转转",
+      "translation": null
+    },
+    {
+      "time": 62.736,
+      "time_str": "01:02.736",
+      "text": "哪会看清楚",
+      "translation": null
+    },
+    {
+      "time": 63.972,
+      "time_str": "01:03.972",
+      "text": "彷徨时我也试过",
+      "translation": null
+    },
+    {
+      "time": 65.686,
+      "time_str": "01:05.686",
+      "text": "独坐一角 像是没协助",
+      "translation": null
+    },
+    {
+      "time": 68.792,
+      "time_str": "01:08.792",
+      "text": "在某年 那幼小的我",
+      "translation": null
+    },
+    {
+      "time": 72.029,
+      "time_str": "01:12.029",
+      "text": "跌倒过几多几多落泪",
+      "translation": null
+    },
+    {
+      "time": 74.261,
+      "time_str": "01:14.261",
+      "text": "在雨夜滂沱",
+      "translation": null
+    },
+    {
+      "time": 76.761,
+      "time_str": "01:16.761",
+      "text": "一生之中弯弯曲曲",
+      "translation": null
+    },
+    {
+      "time": 78.77,
+      "time_str": "01:18.770",
+      "text": "我也要走过",
+      "translation": null
+    },
+    {
+      "time": 79.999,
+      "time_str": "01:19.999",
+      "text": "从何时有你有你",
+      "translation": null
+    },
+    {
+      "time": 81.732,
+      "time_str": "01:21.732",
+      "text": "伴我给我热烈地拍和",
+      "translation": null
+    },
+    {
+      "time": 84.239,
+      "time_str": "01:24.239",
+      "text": "像红日之火 燃点真的我",
+      "translation": null
+    },
+    {
+      "time": 88.263,
+      "time_str": "01:28.263",
+      "text": "结伴行 千山也定能踏过",
+      "translation": null
+    },
+    {
+      "time": 91.758,
+      "time_str": "01:31.758",
+      "text": "让晚风 轻轻吹过",
+      "translation": null
+    },
+    {
+      "time": 95.981,
+      "time_str": "01:35.981",
+      "text": "伴送着清幽花香",
+      "translation": null
+    },
+    {
+      "time": 97.75,
+      "time_str": "01:37.750",
+      "text": "像是在祝福你我",
+      "translation": null
+    },
+    {
+      "time": 99.973,
+      "time_str": "01:39.973",
+      "text": "让晚星 轻轻闪过",
+      "translation": null
+    },
+    {
+      "time": 103.968,
+      "time_str": "01:43.968",
+      "text": "闪出你每个希冀如浪花",
+      "translation": null
+    },
+    {
+      "time": 107.478,
+      "time_str": "01:47.478",
+      "text": "快要沾湿我 WOO...",
+      "translation": null
+    },
+    {
+      "time": 112.677,
+      "time_str": "01:52.677",
+      "text": "命运就算颠沛流离",
+      "translation": null
+    },
+    {
+      "time": 114.647,
+      "time_str": "01:54.647",
+      "text": "命运就算曲折离奇",
+      "translation": null
+    },
+    {
+      "time": 116.659,
+      "time_str": "01:56.659",
+      "text": "命运就算恐吓着你",
+      "translation": null
+    },
+    {
+      "time": 118.722,
+      "time_str": "01:58.722",
+      "text": "做人没趣味",
+      "translation": null
+    },
+    {
+      "time": 120.165,
+      "time_str": "02:00.165",
+      "text": "别流泪 心酸",
+      "translation": null
+    },
+    {
+      "time": 122.208,
+      "time_str": "02:02.208",
+      "text": "更不应舍弃",
+      "translation": null
+    },
+    {
+      "time": 124.171,
+      "time_str": "02:04.171",
+      "text": "我愿能一生永远陪伴你",
+      "translation": null
+    },
+    {
+      "time": 128.743,
+      "time_str": "02:08.743",
+      "text": "AH HA AH HA AH.. HA..",
+      "translation": null
+    },
+    {
+      "time": 136.711,
+      "time_str": "02:16.711",
+      "text": "一生之中兜兜转转",
+      "translation": null
+    },
+    {
+      "time": 138.7,
+      "time_str": "02:18.700",
+      "text": "哪会看清楚",
+      "translation": null
+    },
+    {
+      "time": 139.972,
+      "time_str": "02:19.972",
+      "text": "彷徨时我也试过",
+      "translation": null
+    },
+    {
+      "time": 141.701,
+      "time_str": "02:21.701",
+      "text": "独坐一角 像是没协助",
+      "translation": null
+    },
+    {
+      "time": 144.75,
+      "time_str": "02:24.750",
+      "text": "在某年 那幼小的我",
+      "translation": null
+    },
+    {
+      "time": 147.986,
+      "time_str": "02:27.986",
+      "text": "跌倒过几多几多落泪",
+      "translation": null
+    },
+    {
+      "time": 150.208,
+      "time_str": "02:30.208",
+      "text": "在雨夜滂沱",
+      "translation": null
+    },
+    {
+      "time": 152.687,
+      "time_str": "02:32.687",
+      "text": "一生之中弯弯曲曲",
+      "translation": null
+    },
+    {
+      "time": 154.702,
+      "time_str": "02:34.702",
+      "text": "我也要走过",
+      "translation": null
+    },
+    {
+      "time": 155.969,
+      "time_str": "02:35.969",
+      "text": "从何时有你有你",
+      "translation": null
+    },
+    {
+      "time": 157.742,
+      "time_str": "02:37.742",
+      "text": "伴我给我热烈地拍和",
+      "translation": null
+    },
+    {
+      "time": 160.214,
+      "time_str": "02:40.214",
+      "text": "像红日之火 燃点真的我",
+      "translation": null
+    },
+    {
+      "time": 164.201,
+      "time_str": "02:44.201",
+      "text": "结伴行 千山也定能踏过",
+      "translation": null
+    },
+    {
+      "time": 167.697,
+      "time_str": "02:47.697",
+      "text": "让晚风 轻轻吹过",
+      "translation": null
+    },
+    {
+      "time": 171.92,
+      "time_str": "02:51.920",
+      "text": "伴送着清幽花香",
+      "translation": null
+    },
+    {
+      "time": 173.664,
+      "time_str": "02:53.664",
+      "text": "像是在祝福你我",
+      "translation": null
+    },
+    {
+      "time": 175.963,
+      "time_str": "02:55.963",
+      "text": "让晚星 轻轻闪过",
+      "translation": null
+    },
+    {
+      "time": 179.926,
+      "time_str": "02:59.926",
+      "text": "闪出你每个希冀如浪花",
+      "translation": null
+    },
+    {
+      "time": 183.458,
+      "time_str": "03:03.458",
+      "text": "快要沾湿我 WOO...",
+      "translation": null
+    },
+    {
+      "time": 188.676,
+      "time_str": "03:08.676",
+      "text": "命运就算颠沛流离",
+      "translation": null
+    },
+    {
+      "time": 190.667,
+      "time_str": "03:10.667",
+      "text": "命运就算曲折离奇",
+      "translation": null
+    },
+    {
+      "time": 192.627,
+      "time_str": "03:12.627",
+      "text": "命运就算恐吓着你",
+      "translation": null
+    },
+    {
+      "time": 194.678,
+      "time_str": "03:14.678",
+      "text": "做人没趣味",
+      "translation": null
+    },
+    {
+      "time": 196.179,
+      "time_str": "03:16.179",
+      "text": "别流泪 心酸",
+      "translation": null
+    },
+    {
+      "time": 198.187,
+      "time_str": "03:18.187",
+      "text": "更不应舍弃",
+      "translation": null
+    },
+    {
+      "time": 200.214,
+      "time_str": "03:20.214",
+      "text": "我愿能一生永远陪伴你",
+      "translation": null
+    },
+    {
+      "time": 204.728,
+      "time_str": "03:24.728",
+      "text": "命运就算颠沛流离",
+      "translation": null
+    },
+    {
+      "time": 206.678,
+      "time_str": "03:26.678",
+      "text": "命运就算曲折离奇",
+      "translation": null
+    },
+    {
+      "time": 208.698,
+      "time_str": "03:28.698",
+      "text": "命运就算恐吓着你",
+      "translation": null
+    },
+    {
+      "time": 210.638,
+      "time_str": "03:30.638",
+      "text": "做人没趣味",
+      "translation": null
+    },
+    {
+      "time": 212.216,
+      "time_str": "03:32.216",
+      "text": "别流泪 心酸",
+      "translation": null
+    },
+    {
+      "time": 214.149,
+      "time_str": "03:34.149",
+      "text": "更不应舍弃",
+      "translation": null
+    },
+    {
+      "time": 216.214,
+      "time_str": "03:36.214",
+      "text": "我愿能一生永远陪伴你",
+      "translation": null
+    },
+    {
+      "time": 220.694,
+      "time_str": "03:40.694",
+      "text": "命运就算颠沛流离",
+      "translation": null
+    },
+    {
+      "time": 222.646,
+      "time_str": "03:42.646",
+      "text": "命运就算曲折离奇",
+      "translation": null
+    },
+    {
+      "time": 224.659,
+      "time_str": "03:44.659",
+      "text": "命运就算恐吓着你",
+      "translation": null
+    },
+    {
+      "time": 226.626,
+      "time_str": "03:46.626",
+      "text": "做人没趣味",
+      "translation": null
+    },
+    {
+      "time": 228.088,
+      "time_str": "03:48.088",
+      "text": "别流泪 心酸",
+      "translation": null
+    },
+    {
+      "time": 230.086,
+      "time_str": "03:50.086",
+      "text": "更不应舍弃",
+      "translation": null
+    },
+    {
+      "time": 232.104,
+      "time_str": "03:52.104",
+      "text": "我愿能一生永远陪伴你",
+      "translation": null
+    },
+    {
+      "time": 236.59,
+      "time_str": "03:56.590",
+      "text": "命运就算颠沛流离",
+      "translation": null
+    },
+    {
+      "time": 238.636,
+      "time_str": "03:58.636",
+      "text": "命运就算曲折离奇",
+      "translation": null
+    },
+    {
+      "time": 240.657,
+      "time_str": "04:00.657",
+      "text": "命运就算恐吓着你",
+      "translation": null
+    },
+    {
+      "time": 242.626,
+      "time_str": "04:02.626",
+      "text": "做人没趣味",
+      "translation": null
+    },
+    {
+      "time": 244.149,
+      "time_str": "04:04.149",
+      "text": "别流泪 心酸",
+      "translation": null
+    },
+    {
+      "time": 246.068,
+      "time_str": "04:06.068",
+      "text": "更不应舍弃",
+      "translation": null
+    },
+    {
+      "time": 248.108,
+      "time_str": "04:08.108",
+      "text": "我愿能一生永远陪伴你",
+      "translation": null
+    },
+    {
+      "time": 252.637,
+      "time_str": "04:12.637",
+      "text": "命运就算颠沛流离",
+      "translation": null
+    },
+    {
+      "time": 254.568,
+      "time_str": "04:14.568",
+      "text": "命运就算曲折离奇",
+      "translation": null
+    },
+    {
+      "time": 256.591,
+      "time_str": "04:16.591",
+      "text": "命运就算恐吓着你",
+      "translation": null
+    },
+    {
+      "time": 258.606,
+      "time_str": "04:18.606",
+      "text": "做人没趣味",
+      "translation": null
+    },
+    {
+      "time": 260.14,
+      "time_str": "04:20.140",
+      "text": "别流泪 心酸",
+      "translation": null
+    },
+    {
+      "time": 262.104,
+      "time_str": "04:22.104",
+      "text": "更不应舍弃",
+      "translation": null
+    },
+    {
+      "time": 264.098,
+      "time_str": "04:24.098",
+      "text": "我愿能一生永远陪伴你",
+      "translation": null
+    },
+    {
+      "time": 268.664,
+      "time_str": "04:28.664",
+      "text": "AH HA AH.. HA..",
+      "translation": null
+    },
+    {
+      "time": 272.725,
+      "time_str": "04:32.725",
+      "text": "AH.. AH. HA.....",
+      "translation": null
+    },
+    {
+      "time": 279.983,
+      "time_str": "04:39.983",
+      "text": "贝斯 : 林志宏",
+      "translation": null
+    },
+    {
+      "time": 282.983,
+      "time_str": "04:42.983",
+      "text": "键盘 : 卢东尼",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "红日 - 李克勤.lrc"
+}

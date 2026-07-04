@@ -1,0 +1,310 @@
+{
+  "title": "碌卡",
+  "title_raw": "碌卡",
+  "version": null,
+  "artist": "陈奕迅",
+  "group_key": "碌卡|陈奕迅",
+  "writers": {
+    "lyricist": "陈咏谦",
+    "composer": "Eric Kwok",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.869,
+      "time_str": "00:00.869",
+      "text": "陈奕迅-碌卡",
+      "translation": null
+    },
+    {
+      "time": 15.533,
+      "time_str": "00:15.533",
+      "text": "珍惜亲戚老友与旧同学",
+      "translation": null
+    },
+    {
+      "time": 19.397,
+      "time_str": "00:19.397",
+      "text": "即管千方百计策动娱乐",
+      "translation": null
+    },
+    {
+      "time": 22.905,
+      "time_str": "00:22.905",
+      "text": "彼此饮饱吃醉看着荧幕",
+      "translation": null
+    },
+    {
+      "time": 26.61,
+      "time_str": "00:26.610",
+      "text": "东拉西扯口吃的我跟你讲",
+      "translation": null
+    },
+    {
+      "time": 30.111,
+      "time_str": "00:30.111",
+      "text": "亲疏真假你我哪样量度",
+      "translation": null
+    },
+    {
+      "time": 33.947,
+      "time_str": "00:33.947",
+      "text": "赏面撑腰接济兑现承诺",
+      "translation": null
+    },
+    {
+      "time": 37.399,
+      "time_str": "00:37.399",
+      "text": "炒股供楼世界过份凉薄",
+      "translation": null
+    },
+    {
+      "time": 41.15,
+      "time_str": "00:41.150",
+      "text": "伸出手板眨眼的我想你帮",
+      "translation": null
+    },
+    {
+      "time": 44.503,
+      "time_str": "00:44.503",
+      "text": "人人负债",
+      "translation": null
+    },
+    {
+      "time": 46.323,
+      "time_str": "00:46.323",
+      "text": "轻轻松松的欠下人情巨债",
+      "translation": null
+    },
+    {
+      "time": 49.652,
+      "time_str": "00:49.652",
+      "text": "嘻嘻哈哈花光信用何其愉快",
+      "translation": null
+    },
+    {
+      "time": 53.509,
+      "time_str": "00:53.509",
+      "text": "位位手执一副牌",
+      "translation": null
+    },
+    {
+      "time": 57.356,
+      "time_str": "00:57.356",
+      "text": "靠友谊之光放大",
+      "translation": null
+    },
+    {
+      "time": 58.956,
+      "time_str": "00:58.956",
+      "text": "碌卡要抱住最大期望",
+      "translation": null
+    },
+    {
+      "time": 62.549,
+      "time_str": "01:02.549",
+      "text": "碌卡尴尬亦切忌流汗",
+      "translation": null
+    },
+    {
+      "time": 66.162,
+      "time_str": "01:06.162",
+      "text": "碌卡过两日我就还",
+      "translation": null
+    },
+    {
+      "time": 71.336,
+      "time_str": "01:11.336",
+      "text": "还完又系老友鬼鬼",
+      "translation": null
+    },
+    {
+      "time": 73.395,
+      "time_str": "01:13.395",
+      "text": "碌卡无内疚要抱住最大期望",
+      "translation": null
+    },
+    {
+      "time": 77.32,
+      "time_str": "01:17.320",
+      "text": "碌卡无自责尴尬亦切忌流汗",
+      "translation": null
+    },
+    {
+      "time": 80.584,
+      "time_str": "01:20.584",
+      "text": "碌卡零利率过两日我就还",
+      "translation": null
+    },
+    {
+      "time": 85.894,
+      "time_str": "01:25.894",
+      "text": "还完又系你个死党碌卡",
+      "translation": null
+    },
+    {
+      "time": 104.97,
+      "time_str": "01:44.970",
+      "text": "新婚摆酒送我贵重财物",
+      "translation": null
+    },
+    {
+      "time": 107.668,
+      "time_str": "01:47.668",
+      "text": "开张剪彩替我叫大人物",
+      "translation": null
+    },
+    {
+      "time": 111.259,
+      "time_str": "01:51.259",
+      "text": "升职加薪教我约会尤物",
+      "translation": null
+    },
+    {
+      "time": 115.162,
+      "time_str": "01:55.162",
+      "text": "急需帮手可献金也可献身",
+      "translation": null
+    },
+    {
+      "time": 118.438,
+      "time_str": "01:58.438",
+      "text": "人人负债",
+      "translation": null
+    },
+    {
+      "time": 120.552,
+      "time_str": "02:00.552",
+      "text": "轻轻松松的欠下人情巨债",
+      "translation": null
+    },
+    {
+      "time": 123.718,
+      "time_str": "02:03.718",
+      "text": "嘻嘻哈哈花光信用何其愉快",
+      "translation": null
+    },
+    {
+      "time": 127.776,
+      "time_str": "02:07.776",
+      "text": "位位手执一副牌",
+      "translation": null
+    },
+    {
+      "time": 131.362,
+      "time_str": "02:11.362",
+      "text": "靠友谊之光放大",
+      "translation": null
+    },
+    {
+      "time": 132.938,
+      "time_str": "02:12.938",
+      "text": "碌卡无内疚要抱住最大期望",
+      "translation": null
+    },
+    {
+      "time": 136.619,
+      "time_str": "02:16.619",
+      "text": "碌卡无自责尴尬亦切忌流汗",
+      "translation": null
+    },
+    {
+      "time": 140.211,
+      "time_str": "02:20.211",
+      "text": "碌卡零利率过两日我就还",
+      "translation": null
+    },
+    {
+      "time": 145.396,
+      "time_str": "02:25.396",
+      "text": "还完又系你个死党碌卡碌卡",
+      "translation": null
+    },
+    {
+      "time": 161.758,
+      "time_str": "02:41.758",
+      "text": "一身卡数无坏继续",
+      "translation": null
+    },
+    {
+      "time": 168.889,
+      "time_str": "02:48.889",
+      "text": "人人负债",
+      "translation": null
+    },
+    {
+      "time": 170.863,
+      "time_str": "02:50.863",
+      "text": "轻轻松松的欠下人情巨债",
+      "translation": null
+    },
+    {
+      "time": 174.425,
+      "time_str": "02:54.425",
+      "text": "嘻嘻哈哈花光信用何其愉快",
+      "translation": null
+    },
+    {
+      "time": 178.283,
+      "time_str": "02:58.283",
+      "text": "位位手执一副牌",
+      "translation": null
+    },
+    {
+      "time": 181.714,
+      "time_str": "03:01.714",
+      "text": "靠友谊之光放大",
+      "translation": null
+    },
+    {
+      "time": 183.456,
+      "time_str": "03:03.456",
+      "text": "碌卡无内疚要抱住最大期望",
+      "translation": null
+    },
+    {
+      "time": 187.64,
+      "time_str": "03:07.640",
+      "text": "碌卡无自责尴尬亦切忌流汗",
+      "translation": null
+    },
+    {
+      "time": 190.699,
+      "time_str": "03:10.699",
+      "text": "碌卡零利率过两日我就还",
+      "translation": null
+    },
+    {
+      "time": 195.85,
+      "time_str": "03:15.850",
+      "text": "还完又系老友鬼鬼",
+      "translation": null
+    },
+    {
+      "time": 197.9,
+      "time_str": "03:17.900",
+      "text": "碌碌要抱住最大期望",
+      "translation": null
+    },
+    {
+      "time": 201.502,
+      "time_str": "03:21.502",
+      "text": "卡卡尴尬亦切忌流汗",
+      "translation": null
+    },
+    {
+      "time": 205.54,
+      "time_str": "03:25.540",
+      "text": "卡碌过两日我实还",
+      "translation": null
+    },
+    {
+      "time": 210.454,
+      "time_str": "03:30.454",
+      "text": "还完咪又见我猛咁碌",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "碌卡 - 陈奕迅.lrc"
+}

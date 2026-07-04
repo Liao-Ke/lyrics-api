@@ -1,0 +1,292 @@
+{
+  "title": "勇气",
+  "title_raw": "勇气",
+  "version": null,
+  "artist": "梁静茹",
+  "group_key": "勇气|梁静茹",
+  "writers": {
+    "lyricist": "瑞业",
+    "composer": "光良",
+    "arranger": "Mac Chew"
+  },
+  "lyrics": [
+    {
+      "time": 22.07,
+      "time_str": "00:22.070",
+      "text": "终于做了这个决定",
+      "translation": null
+    },
+    {
+      "time": 25.19,
+      "time_str": "00:25.190",
+      "text": "别人怎么说我不理",
+      "translation": null
+    },
+    {
+      "time": 27.0,
+      "time_str": "00:27.000",
+      "text": "只要你也一样的肯定",
+      "translation": null
+    },
+    {
+      "time": 30.62,
+      "time_str": "00:30.620",
+      "text": "我愿意天涯海角都随你去",
+      "translation": null
+    },
+    {
+      "time": 34.8,
+      "time_str": "00:34.800",
+      "text": "我知道一切不容易",
+      "translation": null
+    },
+    {
+      "time": 38.71,
+      "time_str": "00:38.710",
+      "text": "我的心一直温习说服自己",
+      "translation": null
+    },
+    {
+      "time": 43.44,
+      "time_str": "00:43.440",
+      "text": "最怕你忽然说要放弃",
+      "translation": null
+    },
+    {
+      "time": 51.56,
+      "time_str": "00:51.560",
+      "text": "爱真的需要勇气",
+      "translation": null
+    },
+    {
+      "time": 55.38,
+      "time_str": "00:55.380",
+      "text": "来面对流言蜚语",
+      "translation": null
+    },
+    {
+      "time": 59.35,
+      "time_str": "00:59.350",
+      "text": "只要你一个眼神肯定",
+      "translation": null
+    },
+    {
+      "time": 63.93,
+      "time_str": "01:03.930",
+      "text": "我的爱就有意义",
+      "translation": null
+    },
+    {
+      "time": 68.37,
+      "time_str": "01:08.370",
+      "text": "我们都需要勇气",
+      "translation": null
+    },
+    {
+      "time": 71.9,
+      "time_str": "01:11.900",
+      "text": "去相信会在一起",
+      "translation": null
+    },
+    {
+      "time": 76.0,
+      "time_str": "01:16.000",
+      "text": "人潮拥挤我能感觉你",
+      "translation": null
+    },
+    {
+      "time": 80.38,
+      "time_str": "01:20.380",
+      "text": "放在我手心里",
+      "translation": null
+    },
+    {
+      "time": 83.66,
+      "time_str": "01:23.660",
+      "text": "你的真心",
+      "translation": null
+    },
+    {
+      "time": 99.24,
+      "time_str": "01:39.240",
+      "text": "终于做了这个决定",
+      "translation": null
+    },
+    {
+      "time": 101.69,
+      "time_str": "01:41.690",
+      "text": "别人怎么说我不理",
+      "translation": null
+    },
+    {
+      "time": 103.84,
+      "time_str": "01:43.840",
+      "text": "只要你也一样的肯定",
+      "translation": null
+    },
+    {
+      "time": 107.11,
+      "time_str": "01:47.110",
+      "text": "我愿意天涯海角都随你去",
+      "translation": null
+    },
+    {
+      "time": 111.26,
+      "time_str": "01:51.260",
+      "text": "我知道一切不容易",
+      "translation": null
+    },
+    {
+      "time": 115.05,
+      "time_str": "01:55.050",
+      "text": "我的心一直温习说服自己",
+      "translation": null
+    },
+    {
+      "time": 119.78,
+      "time_str": "01:59.780",
+      "text": "最怕你忽然说要放弃",
+      "translation": null
+    },
+    {
+      "time": 126.8,
+      "time_str": "02:06.800",
+      "text": "爱真的需要勇气",
+      "translation": null
+    },
+    {
+      "time": 129.98,
+      "time_str": "02:09.980",
+      "text": "来面对流言蜚语",
+      "translation": null
+    },
+    {
+      "time": 134.07,
+      "time_str": "02:14.070",
+      "text": "只要你一个眼神肯定",
+      "translation": null
+    },
+    {
+      "time": 138.41,
+      "time_str": "02:18.410",
+      "text": "我的爱就有意义",
+      "translation": null
+    },
+    {
+      "time": 142.72,
+      "time_str": "02:22.720",
+      "text": "我们都需要勇气",
+      "translation": null
+    },
+    {
+      "time": 146.4,
+      "time_str": "02:26.400",
+      "text": "去相信会在一起",
+      "translation": null
+    },
+    {
+      "time": 150.57,
+      "time_str": "02:30.570",
+      "text": "人潮拥挤我能感觉你",
+      "translation": null
+    },
+    {
+      "time": 155.04,
+      "time_str": "02:35.040",
+      "text": "放在我手心里",
+      "translation": null
+    },
+    {
+      "time": 158.33,
+      "time_str": "02:38.330",
+      "text": "你的真心",
+      "translation": null
+    },
+    {
+      "time": 164.33,
+      "time_str": "02:44.330",
+      "text": "如果我的坚强任性",
+      "translation": null
+    },
+    {
+      "time": 167.77,
+      "time_str": "02:47.770",
+      "text": "会不小心伤害了你",
+      "translation": null
+    },
+    {
+      "time": 171.96,
+      "time_str": "02:51.960",
+      "text": "你能不能温柔提醒",
+      "translation": null
+    },
+    {
+      "time": 175.97,
+      "time_str": "02:55.970",
+      "text": "我虽然心太急",
+      "translation": null
+    },
+    {
+      "time": 178.15,
+      "time_str": "02:58.150",
+      "text": "更害怕错过你",
+      "translation": null
+    },
+    {
+      "time": 180.51,
+      "time_str": "03:00.510",
+      "text": "爱真的需要勇气",
+      "translation": null
+    },
+    {
+      "time": 183.72,
+      "time_str": "03:03.720",
+      "text": "来面对流言蜚语",
+      "translation": null
+    },
+    {
+      "time": 187.85,
+      "time_str": "03:07.850",
+      "text": "只要你一个眼神肯定",
+      "translation": null
+    },
+    {
+      "time": 192.32,
+      "time_str": "03:12.320",
+      "text": "我的爱就有意义",
+      "translation": null
+    },
+    {
+      "time": 196.79,
+      "time_str": "03:16.790",
+      "text": "我们都需要勇气",
+      "translation": null
+    },
+    {
+      "time": 200.32,
+      "time_str": "03:20.320",
+      "text": "去相信会在一起",
+      "translation": null
+    },
+    {
+      "time": 204.51,
+      "time_str": "03:24.510",
+      "text": "人潮拥挤我能感觉你",
+      "translation": null
+    },
+    {
+      "time": 208.97,
+      "time_str": "03:28.970",
+      "text": "放在我手心里",
+      "translation": null
+    },
+    {
+      "time": 214.77,
+      "time_str": "03:34.770",
+      "text": "你的真心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "勇气 - 梁静茹.lrc"
+}

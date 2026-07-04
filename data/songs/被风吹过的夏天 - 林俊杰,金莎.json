@@ -1,0 +1,244 @@
+{
+  "title": "被风吹过的夏天",
+  "title_raw": "被风吹过的夏天",
+  "version": null,
+  "artist": "林俊杰,金莎",
+  "group_key": "被风吹过的夏天|林俊杰,金莎",
+  "writers": {
+    "lyricist": "冯欣慧",
+    "composer": "林俊杰",
+    "arranger": "蔡政勋"
+  },
+  "lyrics": [
+    {
+      "time": 15.69,
+      "time_str": "00:15.690",
+      "text": "还记得昨天那个夏天 微风吹过的一瞬间",
+      "translation": null
+    },
+    {
+      "time": 25.45,
+      "time_str": "00:25.450",
+      "text": "似乎吹翻一切 只剩寂寞肯沉淀",
+      "translation": null
+    },
+    {
+      "time": 31.36,
+      "time_str": "00:31.360",
+      "text": "如今风依旧在吹 秋天的雨跟随",
+      "translation": null
+    },
+    {
+      "time": 36.94,
+      "time_str": "00:36.940",
+      "text": "心中的热却不退 仿佛继续闭着双眼",
+      "translation": null
+    },
+    {
+      "time": 43.46,
+      "time_str": "00:43.460",
+      "text": "熟悉的脸又会浮现在眼前",
+      "translation": null
+    },
+    {
+      "time": 51.01,
+      "time_str": "00:51.010",
+      "text": "蓝色的思念",
+      "translation": null
+    },
+    {
+      "time": 54.01,
+      "time_str": "00:54.010",
+      "text": "突然演变成了阳光的夏天",
+      "translation": null
+    },
+    {
+      "time": 57.85,
+      "time_str": "00:57.850",
+      "text": "空气中的温暖不会很遥远",
+      "translation": null
+    },
+    {
+      "time": 62.48,
+      "time_str": "01:02.480",
+      "text": "冬天也仿佛不再留恋",
+      "translation": null
+    },
+    {
+      "time": 67.0,
+      "time_str": "01:07.000",
+      "text": "绿色的思念",
+      "translation": null
+    },
+    {
+      "time": 69.5,
+      "time_str": "01:09.500",
+      "text": "挥手对我说一声四季不变",
+      "translation": null
+    },
+    {
+      "time": 73.35,
+      "time_str": "01:13.350",
+      "text": "不过一季的时间",
+      "translation": null
+    },
+    {
+      "time": 75.12,
+      "time_str": "01:15.120",
+      "text": "又再回到从前（我回到那个）",
+      "translation": null
+    },
+    {
+      "time": 77.28,
+      "time_str": "01:17.280",
+      "text": "那个被风吹过的夏天",
+      "translation": null
+    },
+    {
+      "time": 101.27,
+      "time_str": "01:41.270",
+      "text": "还记得昨天那个夏天 微风吹过的一瞬间",
+      "translation": null
+    },
+    {
+      "time": 110.17,
+      "time_str": "01:50.170",
+      "text": "似乎吹翻一切 只剩寂寞肯沉淀",
+      "translation": null
+    },
+    {
+      "time": 116.79,
+      "time_str": "01:56.790",
+      "text": "风依旧在吹 秋天的雨跟随",
+      "translation": null
+    },
+    {
+      "time": 121.44,
+      "time_str": "02:01.440",
+      "text": "心中的热却不退 仿佛继续闭着双眼",
+      "translation": null
+    },
+    {
+      "time": 128.12,
+      "time_str": "02:08.120",
+      "text": "熟悉的脸又浮现在眼前",
+      "translation": null
+    },
+    {
+      "time": 136.11,
+      "time_str": "02:16.110",
+      "text": "蓝色的思念",
+      "translation": null
+    },
+    {
+      "time": 138.65,
+      "time_str": "02:18.650",
+      "text": "突然演变成了阳光的夏天",
+      "translation": null
+    },
+    {
+      "time": 142.48,
+      "time_str": "02:22.480",
+      "text": "空气中的温暖不会很遥远",
+      "translation": null
+    },
+    {
+      "time": 147.36,
+      "time_str": "02:27.360",
+      "text": "冬天也仿佛不再留恋",
+      "translation": null
+    },
+    {
+      "time": 151.71,
+      "time_str": "02:31.710",
+      "text": "绿色的思念",
+      "translation": null
+    },
+    {
+      "time": 154.13,
+      "time_str": "02:34.130",
+      "text": "挥手对我说一声四季不变",
+      "translation": null
+    },
+    {
+      "time": 158.01,
+      "time_str": "02:38.010",
+      "text": "不过一季的时间",
+      "translation": null
+    },
+    {
+      "time": 160.22,
+      "time_str": "02:40.220",
+      "text": "又再回到从前（我回到那个）",
+      "translation": null
+    },
+    {
+      "time": 162.79,
+      "time_str": "02:42.790",
+      "text": "那个被风吹过的夏天",
+      "translation": null
+    },
+    {
+      "time": 186.42,
+      "time_str": "03:06.420",
+      "text": "蓝色的思念",
+      "translation": null
+    },
+    {
+      "time": 188.99,
+      "time_str": "03:08.990",
+      "text": "突然演变成了阳光的夏天",
+      "translation": null
+    },
+    {
+      "time": 192.86,
+      "time_str": "03:12.860",
+      "text": "空气中的温暖不会很遥远",
+      "translation": null
+    },
+    {
+      "time": 197.65,
+      "time_str": "03:17.650",
+      "text": "冬天也仿佛不再留恋",
+      "translation": null
+    },
+    {
+      "time": 201.99,
+      "time_str": "03:21.990",
+      "text": "绿色的思念",
+      "translation": null
+    },
+    {
+      "time": 204.55,
+      "time_str": "03:24.550",
+      "text": "挥手对我说一声四季不变",
+      "translation": null
+    },
+    {
+      "time": 208.35,
+      "time_str": "03:28.350",
+      "text": "不过一季的时间",
+      "translation": null
+    },
+    {
+      "time": 210.55,
+      "time_str": "03:30.550",
+      "text": "又再回到从前（我回到那个）",
+      "translation": null
+    },
+    {
+      "time": 213.07,
+      "time_str": "03:33.070",
+      "text": "那个被风吹过的夏天",
+      "translation": null
+    },
+    {
+      "time": 221.32,
+      "time_str": "03:41.320",
+      "text": "那被风吹过的夏天",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "被风吹过的夏天 - 林俊杰,金莎.lrc"
+}

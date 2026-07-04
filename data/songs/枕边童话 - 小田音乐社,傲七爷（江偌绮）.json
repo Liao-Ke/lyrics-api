@@ -1,0 +1,244 @@
+{
+  "title": "枕边童话",
+  "title_raw": "枕边童话",
+  "version": null,
+  "artist": "小田音乐社,傲七爷（江偌绮）",
+  "group_key": "枕边童话|小田音乐社,傲七爷（江偌绮）",
+  "writers": {
+    "lyricist": "唐思淼",
+    "composer": "爱写歌的小田",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "宣发统筹 : 小小晞",
+      "translation": null
+    },
+    {
+      "time": 5.0,
+      "time_str": "00:05.000",
+      "text": "营销推广 : 噼里啪啦Studio",
+      "translation": null
+    },
+    {
+      "time": 11.85,
+      "time_str": "00:11.850",
+      "text": "枕头下的童话书",
+      "translation": null
+    },
+    {
+      "time": 14.57,
+      "time_str": "00:14.570",
+      "text": "私自收藏的幸福",
+      "translation": null
+    },
+    {
+      "time": 17.04,
+      "time_str": "00:17.040",
+      "text": "少年的我想倾诉什么感触",
+      "translation": null
+    },
+    {
+      "time": 22.34,
+      "time_str": "00:22.340",
+      "text": "迷失森林的小鹿",
+      "translation": null
+    },
+    {
+      "time": 25.05,
+      "time_str": "00:25.050",
+      "text": "会不会遇到女巫",
+      "translation": null
+    },
+    {
+      "time": 27.73,
+      "time_str": "00:27.730",
+      "text": "故事拉开序幕",
+      "translation": null
+    },
+    {
+      "time": 32.07,
+      "time_str": "00:32.070",
+      "text": "星光拨开最神秘的雾",
+      "translation": null
+    },
+    {
+      "time": 34.78,
+      "time_str": "00:34.780",
+      "text": "踮起脚尖旋转舞步",
+      "translation": null
+    },
+    {
+      "time": 37.48,
+      "time_str": "00:37.480",
+      "text": "恍恍惚惚听谁在哭",
+      "translation": null
+    },
+    {
+      "time": 42.24,
+      "time_str": "00:42.240",
+      "text": "月光叮嘱窗外的植物",
+      "translation": null
+    },
+    {
+      "time": 45.23,
+      "time_str": "00:45.230",
+      "text": "遇到孩子记得让路",
+      "translation": null
+    },
+    {
+      "time": 48.56,
+      "time_str": "00:48.560",
+      "text": "谁会救赎我孤独",
+      "translation": null
+    },
+    {
+      "time": 52.51,
+      "time_str": "00:52.510",
+      "text": "你是那童话里的公主站在光明处",
+      "translation": null
+    },
+    {
+      "time": 57.55,
+      "time_str": "00:57.550",
+      "text": "我戴上华丽假面转身躲进黑礼服",
+      "translation": null
+    },
+    {
+      "time": 62.68,
+      "time_str": "01:02.680",
+      "text": "请和我起舞趁着童话还没有结束",
+      "translation": null
+    },
+    {
+      "time": 67.86,
+      "time_str": "01:07.860",
+      "text": "天亮后让一切 恢复",
+      "translation": null
+    },
+    {
+      "time": 93.99,
+      "time_str": "01:33.990",
+      "text": "枕头下的童话书",
+      "translation": null
+    },
+    {
+      "time": 96.54,
+      "time_str": "01:36.540",
+      "text": "私自收藏的幸福",
+      "translation": null
+    },
+    {
+      "time": 99.07,
+      "time_str": "01:39.070",
+      "text": "少年的我想倾诉什么感触",
+      "translation": null
+    },
+    {
+      "time": 104.21,
+      "time_str": "01:44.210",
+      "text": "迷失森林的小鹿",
+      "translation": null
+    },
+    {
+      "time": 106.85,
+      "time_str": "01:46.850",
+      "text": "会不会遇到女巫",
+      "translation": null
+    },
+    {
+      "time": 109.69,
+      "time_str": "01:49.690",
+      "text": "故事拉开序幕",
+      "translation": null
+    },
+    {
+      "time": 114.27,
+      "time_str": "01:54.270",
+      "text": "星光拨开最神秘的雾",
+      "translation": null
+    },
+    {
+      "time": 117.09,
+      "time_str": "01:57.090",
+      "text": "踮起脚尖旋转舞步",
+      "translation": null
+    },
+    {
+      "time": 119.62,
+      "time_str": "01:59.620",
+      "text": "恍恍惚惚听谁在哭",
+      "translation": null
+    },
+    {
+      "time": 124.49,
+      "time_str": "02:04.490",
+      "text": "月光叮嘱窗外的植物",
+      "translation": null
+    },
+    {
+      "time": 127.53,
+      "time_str": "02:07.530",
+      "text": "遇到孩子记得让路",
+      "translation": null
+    },
+    {
+      "time": 130.16,
+      "time_str": "02:10.160",
+      "text": "谁会救赎我孤独",
+      "translation": null
+    },
+    {
+      "time": 135.02,
+      "time_str": "02:15.020",
+      "text": "你是那童话里的公主站在光明处",
+      "translation": null
+    },
+    {
+      "time": 139.98,
+      "time_str": "02:19.980",
+      "text": "我戴上华丽假面转身躲进黑礼服",
+      "translation": null
+    },
+    {
+      "time": 145.05,
+      "time_str": "02:25.050",
+      "text": "请和我起舞趁着童话还没有结束",
+      "translation": null
+    },
+    {
+      "time": 150.21,
+      "time_str": "02:30.210",
+      "text": "天亮后让一切 恢复",
+      "translation": null
+    },
+    {
+      "time": 155.54,
+      "time_str": "02:35.540",
+      "text": "你是那童话里的公主站在光明处",
+      "translation": null
+    },
+    {
+      "time": 160.21,
+      "time_str": "02:40.210",
+      "text": "我戴上华丽假面转身躲进黑礼服",
+      "translation": null
+    },
+    {
+      "time": 165.44,
+      "time_str": "02:45.440",
+      "text": "请和我起舞趁着童话还没有结束",
+      "translation": null
+    },
+    {
+      "time": 170.64,
+      "time_str": "02:50.640",
+      "text": "天亮后让一切 恢复",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "枕边童话 - 小田音乐社,傲七爷（江偌绮）.lrc"
+}

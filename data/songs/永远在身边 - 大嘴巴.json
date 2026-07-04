@@ -1,0 +1,508 @@
+{
+  "title": "永远在身边",
+  "title_raw": "永远在身边",
+  "version": null,
+  "artist": "大嘴巴",
+  "group_key": "永远在身边|大嘴巴",
+  "writers": {
+    "lyricist": "大嘴巴",
+    "composer": "SoulJa",
+    "arranger": "小安"
+  },
+  "lyrics": [
+    {
+      "time": 12.44,
+      "time_str": "00:12.440",
+      "text": "Baby Boy 永远永远手牵手",
+      "translation": null
+    },
+    {
+      "time": 16.67,
+      "time_str": "00:16.670",
+      "text": "一步两步一起走",
+      "translation": null
+    },
+    {
+      "time": 19.7,
+      "time_str": "00:19.700",
+      "text": "永远永远要记得",
+      "translation": null
+    },
+    {
+      "time": 22.76,
+      "time_str": "00:22.760",
+      "text": "我们要一起生活",
+      "translation": null
+    },
+    {
+      "time": 25.8,
+      "time_str": "00:25.800",
+      "text": "不管晴天的时候",
+      "translation": null
+    },
+    {
+      "time": 28.75,
+      "time_str": "00:28.750",
+      "text": "不管下雨的时候",
+      "translation": null
+    },
+    {
+      "time": 31.77,
+      "time_str": "00:31.770",
+      "text": "不放开手到永久",
+      "translation": null
+    },
+    {
+      "time": 34.71,
+      "time_str": "00:34.710",
+      "text": "我们要一起生活",
+      "translation": null
+    },
+    {
+      "time": 37.35,
+      "time_str": "00:37.350",
+      "text": "眼泪 她为你流过 也为自己掉过",
+      "translation": null
+    },
+    {
+      "time": 40.11,
+      "time_str": "00:40.110",
+      "text": "对于你们的爱 她总是抱着坚强的笑容",
+      "translation": null
+    },
+    {
+      "time": 43.2,
+      "time_str": "00:43.200",
+      "text": "错过那些时间 谢谢她的守候",
+      "translation": null
+    },
+    {
+      "time": 45.56,
+      "time_str": "00:45.560",
+      "text": "是时候 紧紧牵她的手",
+      "translation": null
+    },
+    {
+      "time": 47.27,
+      "time_str": "00:47.270",
+      "text": "带她到你的城堡里",
+      "translation": null
+    },
+    {
+      "time": 49.2,
+      "time_str": "00:49.200",
+      "text": "最近还好吗 想念的心开不了口",
+      "translation": null
+    },
+    {
+      "time": 54.6,
+      "time_str": "00:54.600",
+      "text": "苦想着你有没有好好过",
+      "translation": null
+    },
+    {
+      "time": 57.32,
+      "time_str": "00:57.320",
+      "text": "担心着你每天生活",
+      "translation": null
+    },
+    {
+      "time": 60.47,
+      "time_str": "01:00.470",
+      "text": "你好吗 最近如何",
+      "translation": null
+    },
+    {
+      "time": 63.18,
+      "time_str": "01:03.180",
+      "text": "照顾身体工作加油",
+      "translation": null
+    },
+    {
+      "time": 66.65,
+      "time_str": "01:06.650",
+      "text": "我一个人也会勇敢好好过",
+      "translation": null
+    },
+    {
+      "time": 69.46,
+      "time_str": "01:09.460",
+      "text": "不让你担心多一秒",
+      "translation": null
+    },
+    {
+      "time": 72.28,
+      "time_str": "01:12.280",
+      "text": "想念着 每天每秒我们故事",
+      "translation": null
+    },
+    {
+      "time": 74.63,
+      "time_str": "01:14.630",
+      "text": "每天每秒说好的事",
+      "translation": null
+    },
+    {
+      "time": 76.06,
+      "time_str": "01:16.060",
+      "text": "两个人一起散步",
+      "translation": null
+    },
+    {
+      "time": 77.38,
+      "time_str": "01:17.380",
+      "text": "是最浪漫的事",
+      "translation": null
+    },
+    {
+      "time": 80.29,
+      "time_str": "01:20.290",
+      "text": "你就是我的天使 给我力量能够坚持",
+      "translation": null
+    },
+    {
+      "time": 84.47,
+      "time_str": "01:24.470",
+      "text": "那些关心问候",
+      "translation": null
+    },
+    {
+      "time": 86.5,
+      "time_str": "01:26.500",
+      "text": "翅膀一样的双手",
+      "translation": null
+    },
+    {
+      "time": 87.61,
+      "time_str": "01:27.610",
+      "text": "是我最幸福的所有",
+      "translation": null
+    },
+    {
+      "time": 90.65,
+      "time_str": "01:30.650",
+      "text": "心里面有你建的角落",
+      "translation": null
+    },
+    {
+      "time": 93.33,
+      "time_str": "01:33.330",
+      "text": "脆弱时我能够躲一躲",
+      "translation": null
+    },
+    {
+      "time": 96.53,
+      "time_str": "01:36.530",
+      "text": "你爱我 像翅膀一样温柔的手",
+      "translation": null
+    },
+    {
+      "time": 99.12,
+      "time_str": "01:39.120",
+      "text": "我要抱着你不要再错过",
+      "translation": null
+    },
+    {
+      "time": 102.46,
+      "time_str": "01:42.460",
+      "text": "你的爱 是最蓝那片天空",
+      "translation": null
+    },
+    {
+      "time": 105.45,
+      "time_str": "01:45.450",
+      "text": "Cuz baby girl I’m coming back home",
+      "translation": null
+    },
+    {
+      "time": 108.02,
+      "time_str": "01:48.020",
+      "text": "Baby Boy 永远永远手牵手",
+      "translation": null
+    },
+    {
+      "time": 112.45,
+      "time_str": "01:52.450",
+      "text": "一步两步一起走",
+      "translation": null
+    },
+    {
+      "time": 115.48,
+      "time_str": "01:55.480",
+      "text": "永远永远要记得",
+      "translation": null
+    },
+    {
+      "time": 118.53,
+      "time_str": "01:58.530",
+      "text": "我们要一起生活",
+      "translation": null
+    },
+    {
+      "time": 121.59,
+      "time_str": "02:01.590",
+      "text": "不管晴天的时候",
+      "translation": null
+    },
+    {
+      "time": 124.48,
+      "time_str": "02:04.480",
+      "text": "不管下雨的时候",
+      "translation": null
+    },
+    {
+      "time": 127.53,
+      "time_str": "02:07.530",
+      "text": "不放开手到永久",
+      "translation": null
+    },
+    {
+      "time": 130.61,
+      "time_str": "02:10.610",
+      "text": "我们要一起生活",
+      "translation": null
+    },
+    {
+      "time": 133.19,
+      "time_str": "02:13.190",
+      "text": "幸福 少了你在身边不会完整",
+      "translation": null
+    },
+    {
+      "time": 136.09,
+      "time_str": "02:16.090",
+      "text": "人潮中朝你走来那张可爱微笑的脸孔",
+      "translation": null
+    },
+    {
+      "time": 139.09,
+      "time_str": "02:19.090",
+      "text": "这份爱 不是悸动 守护一辈子的感动",
+      "translation": null
+    },
+    {
+      "time": 142.09,
+      "time_str": "02:22.090",
+      "text": "这段路踏着幸福的每一步一起牵着手",
+      "translation": null
+    },
+    {
+      "time": 144.58,
+      "time_str": "02:24.580",
+      "text": "心疼你会睡不好 总是缩在床的一角",
+      "translation": null
+    },
+    {
+      "time": 150.42,
+      "time_str": "02:30.420",
+      "text": "我要回来给你依靠 哄你看你笑着睡着",
+      "translation": null
+    },
+    {
+      "time": 156.34,
+      "time_str": "02:36.340",
+      "text": "照片里 你的微笑 我们甜蜜得打闹",
+      "translation": null
+    },
+    {
+      "time": 162.39,
+      "time_str": "02:42.390",
+      "text": "好希望微风把思念 代替我亲吻你嘴角",
+      "translation": null
+    },
+    {
+      "time": 168.17,
+      "time_str": "02:48.170",
+      "text": "想念着 每天每秒我们故事",
+      "translation": null
+    },
+    {
+      "time": 170.49,
+      "time_str": "02:50.490",
+      "text": "每天每秒说好的事",
+      "translation": null
+    },
+    {
+      "time": 172.4,
+      "time_str": "02:52.400",
+      "text": "约定好去看的风景",
+      "translation": null
+    },
+    {
+      "time": 173.42,
+      "time_str": "02:53.420",
+      "text": "爱谱成了诗",
+      "translation": null
+    },
+    {
+      "time": 176.6,
+      "time_str": "02:56.600",
+      "text": "你就是我的天使",
+      "translation": null
+    },
+    {
+      "time": 177.39,
+      "time_str": "02:57.390",
+      "text": "给我力量能够坚持",
+      "translation": null
+    },
+    {
+      "time": 192.57,
+      "time_str": "03:12.570",
+      "text": "阳光灿烂午后",
+      "translation": null
+    },
+    {
+      "time": 194.1,
+      "time_str": "03:14.100",
+      "text": "我又在街上走",
+      "translation": null
+    },
+    {
+      "time": 195.43,
+      "time_str": "03:15.430",
+      "text": "你的影子不再寂寞",
+      "translation": null
+    },
+    {
+      "time": 198.46,
+      "time_str": "03:18.460",
+      "text": "想到你的身边到不了",
+      "translation": null
+    },
+    {
+      "time": 201.33,
+      "time_str": "03:21.330",
+      "text": "像个路人般看热闹",
+      "translation": null
+    },
+    {
+      "time": 204.34,
+      "time_str": "03:24.340",
+      "text": "经过那个属于我们的转角",
+      "translation": null
+    },
+    {
+      "time": 207.08,
+      "time_str": "03:27.080",
+      "text": "走过两个人曾经逛的街",
+      "translation": null
+    },
+    {
+      "time": 210.27,
+      "time_str": "03:30.270",
+      "text": "那些店 还有熟悉的画面",
+      "translation": null
+    },
+    {
+      "time": 213.37,
+      "time_str": "03:33.370",
+      "text": "Oh baby girl I’m coming back home",
+      "translation": null
+    },
+    {
+      "time": 216.28,
+      "time_str": "03:36.280",
+      "text": "Baby Boy 永远永远手牵手",
+      "translation": null
+    },
+    {
+      "time": 220.44,
+      "time_str": "03:40.440",
+      "text": "一步两步一起走",
+      "translation": null
+    },
+    {
+      "time": 223.479,
+      "time_str": "03:43.479",
+      "text": "永远永远要记得",
+      "translation": null
+    },
+    {
+      "time": 226.51,
+      "time_str": "03:46.510",
+      "text": "我们要一起生活",
+      "translation": null
+    },
+    {
+      "time": 229.55,
+      "time_str": "03:49.550",
+      "text": "不管晴天的时候",
+      "translation": null
+    },
+    {
+      "time": 232.53,
+      "time_str": "03:52.530",
+      "text": "不管下雨的时候",
+      "translation": null
+    },
+    {
+      "time": 235.51,
+      "time_str": "03:55.510",
+      "text": "不放开手到永久",
+      "translation": null
+    },
+    {
+      "time": 238.56,
+      "time_str": "03:58.560",
+      "text": "我们要一起生活",
+      "translation": null
+    },
+    {
+      "time": 241.15,
+      "time_str": "04:01.150",
+      "text": "没有办法想象 那画面",
+      "translation": null
+    },
+    {
+      "time": 243.75,
+      "time_str": "04:03.750",
+      "text": "一个孤独的背影走在 小公园",
+      "translation": null
+    },
+    {
+      "time": 246.14,
+      "time_str": "04:06.140",
+      "text": "一颗心 需要暖 一双手 需要牵",
+      "translation": null
+    },
+    {
+      "time": 249.14,
+      "time_str": "04:09.140",
+      "text": "故事要有美好结局 需要两双手来写",
+      "translation": null
+    },
+    {
+      "time": 252.35,
+      "time_str": "04:12.350",
+      "text": "永远 不是只出现在童话里的梦",
+      "translation": null
+    },
+    {
+      "time": 255.17,
+      "time_str": "04:15.170",
+      "text": "在身边 眼泪加了蜜糖甜",
+      "translation": null
+    },
+    {
+      "time": 257.169,
+      "time_str": "04:17.169",
+      "text": "这句点 要完美画在无名指上",
+      "translation": null
+    },
+    {
+      "time": 260.4,
+      "time_str": "04:20.400",
+      "text": "承诺的开始",
+      "translation": null
+    },
+    {
+      "time": 261.359,
+      "time_str": "04:21.359",
+      "text": "恋人们 要一起珍藏",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "永远在身边 - 大嘴巴.lrc"
+}

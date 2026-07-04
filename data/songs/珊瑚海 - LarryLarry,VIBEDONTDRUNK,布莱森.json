@@ -1,0 +1,418 @@
+{
+  "title": "珊瑚海",
+  "title_raw": "珊瑚海",
+  "version": null,
+  "artist": "LarryLarry,VIBEDONTDRUNK,布莱森",
+  "group_key": "珊瑚海|larrylarry,vibedontdrunk,布莱森",
+  "writers": {
+    "lyricist": "LarryLarry",
+    "composer": "LarryLarry",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.25,
+      "time_str": "00:02.250",
+      "text": "混音母带 by@ kya",
+      "translation": null
+    },
+    {
+      "time": 9.63,
+      "time_str": "00:09.630",
+      "text": "Larry",
+      "translation": null
+    },
+    {
+      "time": 22.8,
+      "time_str": "00:22.800",
+      "text": "我想要带着你走",
+      "translation": null
+    },
+    {
+      "time": 24.24,
+      "time_str": "00:24.240",
+      "text": "等待你的再度回眸",
+      "translation": null
+    },
+    {
+      "time": 25.65,
+      "time_str": "00:25.650",
+      "text": "LarryLarry选对了那是笃定的",
+      "translation": null
+    },
+    {
+      "time": 27.57,
+      "time_str": "00:27.570",
+      "text": "肯定不会回头",
+      "translation": null
+    },
+    {
+      "time": 28.62,
+      "time_str": "00:28.620",
+      "text": "想要带你逃离这世俗的全部吵杂",
+      "translation": null
+    },
+    {
+      "time": 31.53,
+      "time_str": "00:31.530",
+      "text": "babe你相信我把你心交给我好吗",
+      "translation": null
+    },
+    {
+      "time": 34.53,
+      "time_str": "00:34.530",
+      "text": "给你个惊喜我会都去做",
+      "translation": null
+    },
+    {
+      "time": 36.48,
+      "time_str": "00:36.480",
+      "text": "为你弹奏135",
+      "translation": null
+    },
+    {
+      "time": 38.16,
+      "time_str": "00:38.160",
+      "text": "在那个深夜不可否认我都为你抽泣过",
+      "translation": null
+    },
+    {
+      "time": 41.04,
+      "time_str": "00:41.040",
+      "text": "你留我这里两个人就会一起",
+      "translation": null
+    },
+    {
+      "time": 43.89,
+      "time_str": "00:43.890",
+      "text": "做彼此知己",
+      "translation": null
+    },
+    {
+      "time": 45.18,
+      "time_str": "00:45.180",
+      "text": "而不知对方之意",
+      "translation": null
+    },
+    {
+      "time": 46.92,
+      "time_str": "00:46.920",
+      "text": "你说的做的样貌全都在我心之间",
+      "translation": null
+    },
+    {
+      "time": 49.8,
+      "time_str": "00:49.800",
+      "text": "我想要回到过去就回到破冰之前",
+      "translation": null
+    },
+    {
+      "time": 52.83,
+      "time_str": "00:52.830",
+      "text": "vibe",
+      "translation": null
+    },
+    {
+      "time": 53.01,
+      "time_str": "00:53.010",
+      "text": "回道破冰之前和你相见",
+      "translation": null
+    },
+    {
+      "time": 55.74,
+      "time_str": "00:55.740",
+      "text": "窗外面太冷也抵不过我想念",
+      "translation": null
+    },
+    {
+      "time": 58.62,
+      "time_str": "00:58.620",
+      "text": "想念你包括你的每个方面",
+      "translation": null
+    },
+    {
+      "time": 61.68,
+      "time_str": "01:01.680",
+      "text": "遇到了危险我永远挡在前面",
+      "translation": null
+    },
+    {
+      "time": 64.47,
+      "time_str": "01:04.470",
+      "text": "教室坐边缘偶尔有些腼腆",
+      "translation": null
+    },
+    {
+      "time": 67.41,
+      "time_str": "01:07.410",
+      "text": "我看着你的脸就算天气变天",
+      "translation": null
+    },
+    {
+      "time": 76.23,
+      "time_str": "01:16.230",
+      "text": "是什么样的我内心被你捕获",
+      "translation": null
+    },
+    {
+      "time": 79.26,
+      "time_str": "01:19.260",
+      "text": "如果你不开心了那么就是我的错",
+      "translation": null
+    },
+    {
+      "time": 81.45,
+      "time_str": "01:21.450",
+      "text": "我想要带着你走",
+      "translation": null
+    },
+    {
+      "time": 82.8,
+      "time_str": "01:22.800",
+      "text": "等待你的再度回眸",
+      "translation": null
+    },
+    {
+      "time": 84.21,
+      "time_str": "01:24.210",
+      "text": "LarryLarry选对了那是笃定的",
+      "translation": null
+    },
+    {
+      "time": 86.1,
+      "time_str": "01:26.100",
+      "text": "肯定不会回头",
+      "translation": null
+    },
+    {
+      "time": 87.15,
+      "time_str": "01:27.150",
+      "text": "想要带你逃离这世俗的全部吵杂",
+      "translation": null
+    },
+    {
+      "time": 90.12,
+      "time_str": "01:30.120",
+      "text": "babe你相信我把你心交给我好吗",
+      "translation": null
+    },
+    {
+      "time": 93.54,
+      "time_str": "01:33.540",
+      "text": "其他事留给我好吧",
+      "translation": null
+    },
+    {
+      "time": 96.48,
+      "time_str": "01:36.480",
+      "text": "阳光正好带你喝早茶",
+      "translation": null
+    },
+    {
+      "time": 99.3,
+      "time_str": "01:39.300",
+      "text": "想要把你一切都占有",
+      "translation": null
+    },
+    {
+      "time": 101.94,
+      "time_str": "01:41.940",
+      "text": "cuz u r my barry",
+      "translation": null
+    },
+    {
+      "time": 105.48,
+      "time_str": "01:45.480",
+      "text": "水瓶座感觉肯定不得虚假",
+      "translation": null
+    },
+    {
+      "time": 108.24,
+      "time_str": "01:48.240",
+      "text": "你那些 faker前男友他吗不配跟我比划",
+      "translation": null
+    },
+    {
+      "time": 111.18,
+      "time_str": "01:51.180",
+      "text": "和你耍要专心就算时间滴答滴答",
+      "translation": null
+    },
+    {
+      "time": 114.27,
+      "time_str": "01:54.270",
+      "text": "跟 Larry做的情歌随便掌握流量密码",
+      "translation": null
+    },
+    {
+      "time": 116.97,
+      "time_str": "01:56.970",
+      "text": "吉他我能拿它能做其他 tape",
+      "translation": null
+    },
+    {
+      "time": 119.91,
+      "time_str": "01:59.910",
+      "text": "走不起来 rapper唱歌爱说起高点",
+      "translation": null
+    },
+    {
+      "time": 122.76,
+      "time_str": "02:02.760",
+      "text": "为你征服广州绝对不止七号线",
+      "translation": null
+    },
+    {
+      "time": 125.79,
+      "time_str": "02:05.790",
+      "text": "答应你的承诺晓得 vibe不拖到第二天",
+      "translation": null
+    },
+    {
+      "time": 128.91,
+      "time_str": "02:08.910",
+      "text": "我记得我们第一次相遇在七号线",
+      "translation": null
+    },
+    {
+      "time": 131.73,
+      "time_str": "02:11.730",
+      "text": "在每个七夕节牛郎织女挤照片",
+      "translation": null
+    },
+    {
+      "time": 134.67,
+      "time_str": "02:14.670",
+      "text": "我记得对到天上许的每一个愿",
+      "translation": null
+    },
+    {
+      "time": 137.22,
+      "time_str": "02:17.220",
+      "text": "我不再喜欢说废话",
+      "translation": null
+    },
+    {
+      "time": 138.87,
+      "time_str": "02:18.870",
+      "text": "因为我变得讨厌明天",
+      "translation": null
+    },
+    {
+      "time": 140.61,
+      "time_str": "02:20.610",
+      "text": "我不想再说明感情",
+      "translation": null
+    },
+    {
+      "time": 142.05,
+      "time_str": "02:22.050",
+      "text": "我不想再多云转晴",
+      "translation": null
+    },
+    {
+      "time": 143.49,
+      "time_str": "02:23.490",
+      "text": "我见过有太多的人在外面装的感性",
+      "translation": null
+    },
+    {
+      "time": 146.67,
+      "time_str": "02:26.670",
+      "text": "你想往左还是你想往右",
+      "translation": null
+    },
+    {
+      "time": 149.04,
+      "time_str": "02:29.040",
+      "text": "生活有太多的规则",
+      "translation": null
+    },
+    {
+      "time": 150.27,
+      "time_str": "02:30.270",
+      "text": "但伟大的我",
+      "translation": null
+    },
+    {
+      "time": 150.99,
+      "time_str": "02:30.990",
+      "text": "但是我不想去将就",
+      "translation": null
+    },
+    {
+      "time": 152.46,
+      "time_str": "02:32.460",
+      "text": "只有向上爬才能改变你的现状",
+      "translation": null
+    },
+    {
+      "time": 155.37,
+      "time_str": "02:35.370",
+      "text": "人往高处走才能改变你的现象",
+      "translation": null
+    },
+    {
+      "time": 158.16,
+      "time_str": "02:38.160",
+      "text": "我不想像他一样",
+      "translation": null
+    },
+    {
+      "time": 159.6,
+      "time_str": "02:39.600",
+      "text": "我不想像你一样",
+      "translation": null
+    },
+    {
+      "time": 161.04,
+      "time_str": "02:41.040",
+      "text": "我只想让我的生活在一点点的变棒",
+      "translation": null
+    },
+    {
+      "time": 164.01,
+      "time_str": "02:44.010",
+      "text": "以前在跑比赛的时候坐的每一趟火车",
+      "translation": null
+    },
+    {
+      "time": 167.1,
+      "time_str": "02:47.100",
+      "text": "努力还有天赋",
+      "translation": null
+    },
+    {
+      "time": 168.69,
+      "time_str": "02:48.690",
+      "text": "你真的一点的没有",
+      "translation": null
+    },
+    {
+      "time": 170.04,
+      "time_str": "02:50.040",
+      "text": "如果你不想要成功",
+      "translation": null
+    },
+    {
+      "time": 171.33,
+      "time_str": "02:51.330",
+      "text": "你这辈子不可能",
+      "translation": null
+    },
+    {
+      "time": 172.77,
+      "time_str": "02:52.770",
+      "text": "我走在你的前面",
+      "translation": null
+    },
+    {
+      "time": 174.27,
+      "time_str": "02:54.270",
+      "text": "只证明我能！",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "珊瑚海 - LarryLarry,VIBEDONTDRUNK,布莱森.lrc"
+}

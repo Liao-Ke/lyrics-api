@@ -1,0 +1,328 @@
+{
+  "title": "一个人的冬天",
+  "title_raw": "一个人的冬天",
+  "version": null,
+  "artist": "陈楚生",
+  "group_key": "一个人的冬天|陈楚生",
+  "writers": {
+    "lyricist": "陈楚生",
+    "composer": "陈楚生",
+    "arranger": "Terence Teo"
+  },
+  "lyrics": [
+    {
+      "time": 39.68,
+      "time_str": "00:39.680",
+      "text": "我在这里 和这座城市",
+      "translation": null
+    },
+    {
+      "time": 47.54,
+      "time_str": "00:47.540",
+      "text": "一起等待这个冬天的第一场雪",
+      "translation": null
+    },
+    {
+      "time": 56.81,
+      "time_str": "00:56.810",
+      "text": "你在哪里 我深爱的女人",
+      "translation": null
+    },
+    {
+      "time": 65.01,
+      "time_str": "01:05.010",
+      "text": "一直盼望分手之后第一次相聚",
+      "translation": null
+    },
+    {
+      "time": 73.55,
+      "time_str": "01:13.55",
+      "text": "这个冬天没有给我惊喜",
+      "translation": null
+    },
+    {
+      "time": 78.0,
+      "time_str": "01:18.00",
+      "text": "没有你在身边的空气",
+      "translation": null
+    },
+    {
+      "time": 82.44,
+      "time_str": "01:22.44",
+      "text": "那飘落的白色",
+      "translation": null
+    },
+    {
+      "time": 84.97,
+      "time_str": "01:24.97",
+      "text": "那孤单的角色",
+      "translation": null
+    },
+    {
+      "time": 87.23,
+      "time_str": "01:27.23",
+      "text": "那理所当然的失落",
+      "translation": null
+    },
+    {
+      "time": 90.65,
+      "time_str": "01:30.65",
+      "text": "这个冬天没有给我惊喜",
+      "translation": null
+    },
+    {
+      "time": 95.6,
+      "time_str": "01:35.60",
+      "text": "没有给我曾想象的画面",
+      "translation": null
+    },
+    {
+      "time": 100.01,
+      "time_str": "01:40.01",
+      "text": "也许久违的雪",
+      "translation": null
+    },
+    {
+      "time": 103.29,
+      "time_str": "01:43.29",
+      "text": "也许从未来过",
+      "translation": null
+    },
+    {
+      "time": 105.6,
+      "time_str": "01:45.60",
+      "text": "也许故事从未发生过",
+      "translation": null
+    },
+    {
+      "time": 109.91,
+      "time_str": "01:49.91",
+      "text": "爱 等待",
+      "translation": null
+    },
+    {
+      "time": 114.39,
+      "time_str": "01:54.39",
+      "text": "推开阴霾的晴朗",
+      "translation": null
+    },
+    {
+      "time": 118.52,
+      "time_str": "01:58.52",
+      "text": "情 埋在",
+      "translation": null
+    },
+    {
+      "time": 122.71,
+      "time_str": "02:02.71",
+      "text": "冰封的雪白",
+      "translation": null
+    },
+    {
+      "time": 126.93,
+      "time_str": "02:06.93",
+      "text": "我依然在等待",
+      "translation": null
+    },
+    {
+      "time": 131.77,
+      "time_str": "02:11.77",
+      "text": "你说的未来",
+      "translation": null
+    },
+    {
+      "time": 137.32,
+      "time_str": "02:17.32",
+      "text": "既然相爱",
+      "translation": null
+    },
+    {
+      "time": 139.47,
+      "time_str": "02:19.47",
+      "text": "为何分开",
+      "translation": null
+    },
+    {
+      "time": 141.44,
+      "time_str": "02:21.44",
+      "text": "剩孤单一个我",
+      "translation": null
+    },
+    {
+      "time": 177.85,
+      "time_str": "02:57.850",
+      "text": "这个冬天没有给我惊喜",
+      "translation": null
+    },
+    {
+      "time": 183.31,
+      "time_str": "03:03.310",
+      "text": "没有你在身边的空气",
+      "translation": null
+    },
+    {
+      "time": 187.45,
+      "time_str": "03:07.450",
+      "text": "那飘落的白色",
+      "translation": null
+    },
+    {
+      "time": 190.53,
+      "time_str": "03:10.530",
+      "text": "那孤单的角色",
+      "translation": null
+    },
+    {
+      "time": 192.54,
+      "time_str": "03:12.540",
+      "text": "那理所当然的失落",
+      "translation": null
+    },
+    {
+      "time": 195.52,
+      "time_str": "03:15.520",
+      "text": "这个冬天没有给我惊喜",
+      "translation": null
+    },
+    {
+      "time": 200.46,
+      "time_str": "03:20.460",
+      "text": "没有给我曾想象的画面",
+      "translation": null
+    },
+    {
+      "time": 204.91,
+      "time_str": "03:24.910",
+      "text": "也许久违的雪",
+      "translation": null
+    },
+    {
+      "time": 207.62,
+      "time_str": "03:27.620",
+      "text": "也许从未来过",
+      "translation": null
+    },
+    {
+      "time": 209.82,
+      "time_str": "03:29.820",
+      "text": "也许故事从未发生过",
+      "translation": null
+    },
+    {
+      "time": 214.48,
+      "time_str": "03:34.48",
+      "text": "爱 等待",
+      "translation": null
+    },
+    {
+      "time": 218.34,
+      "time_str": "03:38.34",
+      "text": "推开阴霾的晴朗",
+      "translation": null
+    },
+    {
+      "time": 223.15,
+      "time_str": "03:43.15",
+      "text": "情 埋在",
+      "translation": null
+    },
+    {
+      "time": 228.43,
+      "time_str": "03:48.43",
+      "text": "冰封的雪白",
+      "translation": null
+    },
+    {
+      "time": 231.55,
+      "time_str": "03:51.55",
+      "text": "我依然在等待",
+      "translation": null
+    },
+    {
+      "time": 236.48,
+      "time_str": "03:56.48",
+      "text": "你说的未来",
+      "translation": null
+    },
+    {
+      "time": 241.5,
+      "time_str": "04:01.50",
+      "text": "既然相爱",
+      "translation": null
+    },
+    {
+      "time": 243.82,
+      "time_str": "04:03.82",
+      "text": "为何分开",
+      "translation": null
+    },
+    {
+      "time": 245.79,
+      "time_str": "04:05.79",
+      "text": "剩孤单一个我",
+      "translation": null
+    },
+    {
+      "time": 250.11,
+      "time_str": "04:10.110",
+      "text": "爱 等待",
+      "translation": null
+    },
+    {
+      "time": 254.37,
+      "time_str": "04:14.370",
+      "text": "推开阴霾的晴朗",
+      "translation": null
+    },
+    {
+      "time": 259.11,
+      "time_str": "04:19.110",
+      "text": "情 埋在",
+      "translation": null
+    },
+    {
+      "time": 263.64,
+      "time_str": "04:23.640",
+      "text": "冰封的雪白",
+      "translation": null
+    },
+    {
+      "time": 267.26,
+      "time_str": "04:27.260",
+      "text": "我依然在等待",
+      "translation": null
+    },
+    {
+      "time": 271.6,
+      "time_str": "04:31.600",
+      "text": "你说的未来",
+      "translation": null
+    },
+    {
+      "time": 275.73,
+      "time_str": "04:35.730",
+      "text": "既然相爱",
+      "translation": null
+    },
+    {
+      "time": 278.89,
+      "time_str": "04:38.890",
+      "text": "为何分开",
+      "translation": null
+    },
+    {
+      "time": 281.25,
+      "time_str": "04:41.250",
+      "text": "剩孤单一个我",
+      "translation": null
+    },
+    {
+      "time": 286.78,
+      "time_str": "04:46.780",
+      "text": "独白",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一个人的冬天 - 陈楚生.lrc"
+}

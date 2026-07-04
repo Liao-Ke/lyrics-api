@@ -1,0 +1,148 @@
+{
+  "title": "又见炊烟",
+  "title_raw": "又见炊烟",
+  "version": null,
+  "artist": "邓丽君",
+  "group_key": "又见炊烟|邓丽君",
+  "writers": {
+    "lyricist": "庄奴",
+    "composer": "海沼实",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 11.87,
+      "time_str": "00:11.870",
+      "text": "又见炊烟升起",
+      "translation": null
+    },
+    {
+      "time": 17.1,
+      "time_str": "00:17.100",
+      "text": "暮色罩大地",
+      "translation": null
+    },
+    {
+      "time": 22.11,
+      "time_str": "00:22.110",
+      "text": "想问阵阵炊烟",
+      "translation": null
+    },
+    {
+      "time": 27.16,
+      "time_str": "00:27.160",
+      "text": "你要去哪里",
+      "translation": null
+    },
+    {
+      "time": 32.619,
+      "time_str": "00:32.619",
+      "text": "夕阳有诗情",
+      "translation": null
+    },
+    {
+      "time": 37.75,
+      "time_str": "00:37.750",
+      "text": "黄昏有画意",
+      "translation": null
+    },
+    {
+      "time": 43.2,
+      "time_str": "00:43.200",
+      "text": "诗情画意虽然美丽",
+      "translation": null
+    },
+    {
+      "time": 48.49,
+      "time_str": "00:48.490",
+      "text": "我心中只有你",
+      "translation": null
+    },
+    {
+      "time": 64.1,
+      "time_str": "01:04.100",
+      "text": "又见炊烟升起",
+      "translation": null
+    },
+    {
+      "time": 69.1,
+      "time_str": "01:09.100",
+      "text": "勾起我回忆",
+      "translation": null
+    },
+    {
+      "time": 74.3,
+      "time_str": "01:14.300",
+      "text": "愿你变作彩霞",
+      "translation": null
+    },
+    {
+      "time": 79.45,
+      "time_str": "01:19.450",
+      "text": "飞到我梦里",
+      "translation": null
+    },
+    {
+      "time": 84.64,
+      "time_str": "01:24.640",
+      "text": "夕阳有诗情",
+      "translation": null
+    },
+    {
+      "time": 89.81,
+      "time_str": "01:29.810",
+      "text": "黄昏有画意",
+      "translation": null
+    },
+    {
+      "time": 95.0,
+      "time_str": "01:35.000",
+      "text": "诗情画意虽然美丽",
+      "translation": null
+    },
+    {
+      "time": 100.41,
+      "time_str": "01:40.410",
+      "text": "我心中只有你",
+      "translation": null
+    },
+    {
+      "time": 126.1,
+      "time_str": "02:06.100",
+      "text": "夕阳有诗情",
+      "translation": null
+    },
+    {
+      "time": 131.44,
+      "time_str": "02:11.440",
+      "text": "黄昏有画意",
+      "translation": null
+    },
+    {
+      "time": 136.19,
+      "time_str": "02:16.190",
+      "text": "诗情画意虽然美丽",
+      "translation": null
+    },
+    {
+      "time": 142.15,
+      "time_str": "02:22.150",
+      "text": "我心中只有你",
+      "translation": null
+    },
+    {
+      "time": 147.0,
+      "time_str": "02:27.000",
+      "text": "诗情画意虽然美丽",
+      "translation": null
+    },
+    {
+      "time": 152.6,
+      "time_str": "02:32.600",
+      "text": "我心中只有你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "又见炊烟 - 邓丽君.lrc"
+}

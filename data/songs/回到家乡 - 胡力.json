@@ -1,0 +1,394 @@
+{
+  "title": "回到家乡",
+  "title_raw": "回到家乡",
+  "version": null,
+  "artist": "胡力",
+  "group_key": "回到家乡|胡力",
+  "writers": {
+    "lyricist": "胡力/大圣",
+    "composer": "胡力",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.7,
+      "time_str": "00:00.700",
+      "text": "回到家乡",
+      "translation": null
+    },
+    {
+      "time": 44.53,
+      "time_str": "00:44.530",
+      "text": "一个人的周末",
+      "translation": null
+    },
+    {
+      "time": 48.22,
+      "time_str": "00:48.220",
+      "text": "无聊的窗边的卡布奇诺",
+      "translation": null
+    },
+    {
+      "time": 55.28,
+      "time_str": "00:55.280",
+      "text": "疲惫放在角落",
+      "translation": null
+    },
+    {
+      "time": 58.86,
+      "time_str": "00:58.860",
+      "text": "我的心在哪个城市漂泊",
+      "translation": null
+    },
+    {
+      "time": 65.91,
+      "time_str": "01:05.910",
+      "text": "黑夜是否寂寞",
+      "translation": null
+    },
+    {
+      "time": 69.18,
+      "time_str": "01:09.180",
+      "text": "还以为你曾经回来过",
+      "translation": null
+    },
+    {
+      "time": 76.54,
+      "time_str": "01:16.540",
+      "text": "看行人街上游走",
+      "translation": null
+    },
+    {
+      "time": 79.76,
+      "time_str": "01:19.760",
+      "text": "影子也会在他的左右",
+      "translation": null
+    },
+    {
+      "time": 85.3,
+      "time_str": "01:25.300",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 87.34,
+      "time_str": "01:27.340",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 90.85,
+      "time_str": "01:30.850",
+      "text": "回到当初离家地方",
+      "translation": null
+    },
+    {
+      "time": 93.92,
+      "time_str": "01:33.920",
+      "text": "那可爱的村庄",
+      "translation": null
+    },
+    {
+      "time": 95.88,
+      "time_str": "01:35.880",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 98.0,
+      "time_str": "01:38.000",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 101.54,
+      "time_str": "01:41.540",
+      "text": "回到童年的小河旁",
+      "translation": null
+    },
+    {
+      "time": 104.5,
+      "time_str": "01:44.500",
+      "text": "还有野花随着风 飘香",
+      "translation": null
+    },
+    {
+      "time": 129.98,
+      "time_str": "02:09.980",
+      "text": "一个人的周末",
+      "translation": null
+    },
+    {
+      "time": 133.54,
+      "time_str": "02:13.540",
+      "text": "无聊的窗边的卡布奇诺",
+      "translation": null
+    },
+    {
+      "time": 140.6,
+      "time_str": "02:20.600",
+      "text": "疲惫放在角落",
+      "translation": null
+    },
+    {
+      "time": 144.19,
+      "time_str": "02:24.190",
+      "text": "我的心在哪个城市漂泊",
+      "translation": null
+    },
+    {
+      "time": 151.25,
+      "time_str": "02:31.250",
+      "text": "黑夜是否寂寞",
+      "translation": null
+    },
+    {
+      "time": 154.45,
+      "time_str": "02:34.450",
+      "text": "还以为你曾经回来过",
+      "translation": null
+    },
+    {
+      "time": 161.83,
+      "time_str": "02:41.830",
+      "text": "看行人街上游走",
+      "translation": null
+    },
+    {
+      "time": 165.06,
+      "time_str": "02:45.060",
+      "text": "影子也会在他的左右",
+      "translation": null
+    },
+    {
+      "time": 170.53,
+      "time_str": "02:50.530",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 172.57,
+      "time_str": "02:52.570",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 176.08,
+      "time_str": "02:56.080",
+      "text": "回到当初离家地方",
+      "translation": null
+    },
+    {
+      "time": 179.18,
+      "time_str": "02:59.180",
+      "text": "那可爱的村庄",
+      "translation": null
+    },
+    {
+      "time": 181.14,
+      "time_str": "03:01.140",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 183.19,
+      "time_str": "03:03.190",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 186.73,
+      "time_str": "03:06.730",
+      "text": "回到童年的小河旁",
+      "translation": null
+    },
+    {
+      "time": 189.85,
+      "time_str": "03:09.850",
+      "text": "还有野花随着风 飘香",
+      "translation": null
+    },
+    {
+      "time": 194.22,
+      "time_str": "03:14.220",
+      "text": "黑夜是否寂寞",
+      "translation": null
+    },
+    {
+      "time": 197.0,
+      "time_str": "03:17.000",
+      "text": "还以为你曾经回来过",
+      "translation": null
+    },
+    {
+      "time": 204.48,
+      "time_str": "03:24.480",
+      "text": "看行人街上游走",
+      "translation": null
+    },
+    {
+      "time": 207.72,
+      "time_str": "03:27.720",
+      "text": "影子也会在他的左右",
+      "translation": null
+    },
+    {
+      "time": 213.2,
+      "time_str": "03:33.200",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 215.26,
+      "time_str": "03:35.260",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 218.9,
+      "time_str": "03:38.900",
+      "text": "回到当初离家地方",
+      "translation": null
+    },
+    {
+      "time": 221.85,
+      "time_str": "03:41.850",
+      "text": "那可爱的村庄",
+      "translation": null
+    },
+    {
+      "time": 223.72,
+      "time_str": "03:43.720",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 225.85,
+      "time_str": "03:45.850",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 229.52,
+      "time_str": "03:49.520",
+      "text": "回到童年的小河旁",
+      "translation": null
+    },
+    {
+      "time": 232.43,
+      "time_str": "03:52.430",
+      "text": "还有野花随着风 飘香",
+      "translation": null
+    },
+    {
+      "time": 234.54,
+      "time_str": "03:54.540",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 236.54,
+      "time_str": "03:56.540",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 240.11,
+      "time_str": "04:00.110",
+      "text": "回到当初离家地方",
+      "translation": null
+    },
+    {
+      "time": 243.14,
+      "time_str": "04:03.140",
+      "text": "那可爱的村庄",
+      "translation": null
+    },
+    {
+      "time": 245.12,
+      "time_str": "04:05.12",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 247.23,
+      "time_str": "04:07.23",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 250.85,
+      "time_str": "04:10.850",
+      "text": "回到童年的小河旁",
+      "translation": null
+    },
+    {
+      "time": 253.78,
+      "time_str": "04:13.780",
+      "text": "还有野花随着风 飘香",
+      "translation": null
+    },
+    {
+      "time": 256.09,
+      "time_str": "04:16.09",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 257.95,
+      "time_str": "04:17.95",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 266.63,
+      "time_str": "04:26.63",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 268.61,
+      "time_str": "04:28.61",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 272.5,
+      "time_str": "04:32.500",
+      "text": "回到家乡 我的故乡",
+      "translation": null
+    },
+    {
+      "time": 277.32,
+      "time_str": "04:37.32",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 279.32,
+      "time_str": "04:39.32",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 282.36,
+      "time_str": "04:42.360",
+      "text": "爱人的身旁",
+      "translation": null
+    },
+    {
+      "time": 287.92,
+      "time_str": "04:47.920",
+      "text": "就让我回到家乡",
+      "translation": null
+    },
+    {
+      "time": 290.01,
+      "time_str": "04:50.010",
+      "text": "回到家乡爱人的身旁",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "回到家乡 - 胡力.lrc"
+}

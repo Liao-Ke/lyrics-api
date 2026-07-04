@@ -1,0 +1,394 @@
+{
+  "title": "What Makes You Beautiful",
+  "title_raw": "What Makes You Beautiful",
+  "version": null,
+  "artist": "One Direction",
+  "group_key": "what makes you beautiful|one direction",
+  "writers": {
+    "lyricist": "Yacoub, Rami/Kotecha, Savan Harish/Falk, Carl Anthony",
+    "composer": "Yacoub, Rami/Kotecha, Savan Harish/Falk, Carl Anthony",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.69,
+      "time_str": "00:07.690",
+      "text": "You're insecure",
+      "translation": "你没有安全感"
+    },
+    {
+      "time": 9.66,
+      "time_str": "00:09.660",
+      "text": "Don't know what for",
+      "translation": "不知道为什么"
+    },
+    {
+      "time": 11.42,
+      "time_str": "00:11.420",
+      "text": "You're turning heads when you walk through the door",
+      "translation": "你走过门的时候转过头"
+    },
+    {
+      "time": 15.18,
+      "time_str": "00:15.180",
+      "text": "Don't need make-up",
+      "translation": "不需要化妆"
+    },
+    {
+      "time": 17.19,
+      "time_str": "00:17.190",
+      "text": "to cover up",
+      "translation": "去掩盖什么"
+    },
+    {
+      "time": 19.25,
+      "time_str": "00:19.250",
+      "text": "Being the way that you are is enough",
+      "translation": "做你自己就足够了"
+    },
+    {
+      "time": 23.6,
+      "time_str": "00:23.600",
+      "text": "Everyone else in the room can see it",
+      "translation": "房间里的人都看得出来你的美"
+    },
+    {
+      "time": 27.43,
+      "time_str": "00:27.430",
+      "text": "Everyone else but you",
+      "translation": "每个人除了你自己"
+    },
+    {
+      "time": 30.6,
+      "time_str": "00:30.600",
+      "text": "Baby you light up my world like nobody else",
+      "translation": "宝贝没人能像你这样照亮了我的世界"
+    },
+    {
+      "time": 34.44,
+      "time_str": "00:34.440",
+      "text": "The way that you flip your hair gets me overwhelmed",
+      "translation": "你撩动头发的样子让我疯狂着迷"
+    },
+    {
+      "time": 38.4,
+      "time_str": "00:38.400",
+      "text": "But when you smile at the ground it ain't hard to tell",
+      "translation": "但当你对着地面笑的时候不难察觉"
+    },
+    {
+      "time": 42.11,
+      "time_str": "00:42.110",
+      "text": "You don't know Oh oh",
+      "translation": "你不知道"
+    },
+    {
+      "time": 44.75,
+      "time_str": "00:44.750",
+      "text": "You don't know you're beautiful",
+      "translation": "你不知道你很美"
+    },
+    {
+      "time": 46.76,
+      "time_str": "00:46.760",
+      "text": "If only you saw what I can see",
+      "translation": "如果你能看见我所看到的"
+    },
+    {
+      "time": 49.79,
+      "time_str": "00:49.790",
+      "text": "You'll understand why I want you so desperately",
+      "translation": "你会了解为什么我那么的渴望拥有你"
+    },
+    {
+      "time": 53.65,
+      "time_str": "00:53.650",
+      "text": "Right now I'm looking at you and I can't believe",
+      "translation": "现在我看着你我真不敢相信"
+    },
+    {
+      "time": 57.44,
+      "time_str": "00:57.440",
+      "text": "You don't know Oh oh",
+      "translation": "你不知道"
+    },
+    {
+      "time": 60.05,
+      "time_str": "01:00.050",
+      "text": "You don't know you're beautiful Oh oh",
+      "translation": "你不知道你很美"
+    },
+    {
+      "time": 63.91,
+      "time_str": "01:03.910",
+      "text": "That's what makes you beautiful",
+      "translation": "这就是为什么你如此美丽"
+    },
+    {
+      "time": 68.91,
+      "time_str": "01:08.910",
+      "text": "So c-come on",
+      "translation": "所以来吧!"
+    },
+    {
+      "time": 71.06,
+      "time_str": "01:11.060",
+      "text": "You got it wrong",
+      "translation": "你理解错了"
+    },
+    {
+      "time": 73.07,
+      "time_str": "01:13.070",
+      "text": "To prove I'm right",
+      "translation": "为了证明我是对的"
+    },
+    {
+      "time": 74.18,
+      "time_str": "01:14.180",
+      "text": "I put it in a so-o-ong",
+      "translation": "我把这写成一首歌"
+    },
+    {
+      "time": 76.8,
+      "time_str": "01:16.800",
+      "text": "I don't know why you're being shy",
+      "translation": "我不知道你为什么正在害羞"
+    },
+    {
+      "time": 80.74,
+      "time_str": "01:20.740",
+      "text": "And turn away when I look into your eyes",
+      "translation": "当我看着你的眼眸时你将头撇开"
+    },
+    {
+      "time": 85.03,
+      "time_str": "01:25.030",
+      "text": "Everyone else in the room can see it",
+      "translation": "房间里的人都看得出来你的美"
+    },
+    {
+      "time": 88.85,
+      "time_str": "01:28.850",
+      "text": "Everyone else but you",
+      "translation": "每个人除了你自己"
+    },
+    {
+      "time": 92.12,
+      "time_str": "01:32.120",
+      "text": "Baby you light up my world like nobody else",
+      "translation": "宝贝没人能像你这样照亮了我的世界"
+    },
+    {
+      "time": 95.9,
+      "time_str": "01:35.900",
+      "text": "The way that you flip your hair gets me overwhelmed",
+      "translation": "你撩动头发的样子让我疯狂着迷"
+    },
+    {
+      "time": 99.63,
+      "time_str": "01:39.630",
+      "text": "But when you smile at the ground it ain't hard to tell",
+      "translation": "但当你对着地面笑的时候不难察觉"
+    },
+    {
+      "time": 103.45,
+      "time_str": "01:43.450",
+      "text": "You don't know Oh oh",
+      "translation": "你不知道"
+    },
+    {
+      "time": 106.17,
+      "time_str": "01:46.170",
+      "text": "You don't know you're beautiful",
+      "translation": "你不知道你很美"
+    },
+    {
+      "time": 108.24,
+      "time_str": "01:48.240",
+      "text": "If only you saw what I can see",
+      "translation": "如果你能看见我所看到的"
+    },
+    {
+      "time": 111.18,
+      "time_str": "01:51.180",
+      "text": "You'll understand why I want you so desperately",
+      "translation": "你会了解为什么我那么的渴望拥有你"
+    },
+    {
+      "time": 115.04,
+      "time_str": "01:55.040",
+      "text": "Right now I'm looking at you and I can't believe",
+      "translation": "现在我看着你我真不敢相信"
+    },
+    {
+      "time": 118.95,
+      "time_str": "01:58.950",
+      "text": "You don't know Oh oh",
+      "translation": "你不知道"
+    },
+    {
+      "time": 121.53,
+      "time_str": "02:01.530",
+      "text": "You don't know you're beautiful Oh oh",
+      "translation": "你不知道你很美"
+    },
+    {
+      "time": 125.3,
+      "time_str": "02:05.300",
+      "text": "That's what makes you beautiful",
+      "translation": "这就是为什么你如此美丽"
+    },
+    {
+      "time": 127.86,
+      "time_str": "02:07.860",
+      "text": "Na na na na na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 127.86,
+      "time_str": "02:07.860",
+      "text": "Na na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 131.11,
+      "time_str": "02:11.110",
+      "text": "Na na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 131.11,
+      "time_str": "02:11.110",
+      "text": "Na na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 134.96,
+      "time_str": "02:14.960",
+      "text": "Na na na na na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 134.96,
+      "time_str": "02:14.960",
+      "text": "Na na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 138.74,
+      "time_str": "02:18.740",
+      "text": "Na na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 138.74,
+      "time_str": "02:18.740",
+      "text": "Na na na na na na na",
+      "translation": null
+    },
+    {
+      "time": 141.97,
+      "time_str": "02:21.970",
+      "text": "Baby you light up my world like nobody else",
+      "translation": "宝贝没人能像你这样照亮了我的世界"
+    },
+    {
+      "time": 145.85,
+      "time_str": "02:25.850",
+      "text": "The way that you flip your hair gets me overwhelmed",
+      "translation": "你撩动头发的样子让我疯狂着迷"
+    },
+    {
+      "time": 149.41,
+      "time_str": "02:29.410",
+      "text": "But when you smile at the ground it ain't hard to tell",
+      "translation": "但当你对着地面笑的时候不难察觉"
+    },
+    {
+      "time": 153.31,
+      "time_str": "02:33.310",
+      "text": "You don't know Oh oh",
+      "translation": "你不知道"
+    },
+    {
+      "time": 156.07,
+      "time_str": "02:36.070",
+      "text": "You don't know you're beautiful",
+      "translation": "你不知道你很美"
+    },
+    {
+      "time": 158.03,
+      "time_str": "02:38.030",
+      "text": "Baby you light up my world like nobody else",
+      "translation": "宝贝没人能像你这样照亮了我的世界"
+    },
+    {
+      "time": 161.12,
+      "time_str": "02:41.120",
+      "text": "The way that you flip your hair gets me overwhelmed",
+      "translation": "你撩动头发的样子让我疯狂着迷"
+    },
+    {
+      "time": 164.92,
+      "time_str": "02:44.920",
+      "text": "But when you smile at the ground it ain't hard to tell",
+      "translation": "但当你对着地面笑的时候不难察觉"
+    },
+    {
+      "time": 168.7,
+      "time_str": "02:48.700",
+      "text": "You don't know Oh oh",
+      "translation": "你不知道"
+    },
+    {
+      "time": 171.43,
+      "time_str": "02:51.430",
+      "text": "You don't know you're beautiful",
+      "translation": "你不知道你很美"
+    },
+    {
+      "time": 173.45,
+      "time_str": "02:53.450",
+      "text": "If only you saw what I can see",
+      "translation": "如果你能看见我所看到的"
+    },
+    {
+      "time": 176.52,
+      "time_str": "02:56.520",
+      "text": "You'll understand why I want you so desperately",
+      "translation": "你会了解为什么我那么的渴望拥有你"
+    },
+    {
+      "time": 180.35,
+      "time_str": "03:00.350",
+      "text": "Right now I'm looking at you and I can't believe",
+      "translation": "现在我看着你我真不敢相信"
+    },
+    {
+      "time": 184.15,
+      "time_str": "03:04.150",
+      "text": "You don't know Oh oh",
+      "translation": "你不知道"
+    },
+    {
+      "time": 186.8,
+      "time_str": "03:06.800",
+      "text": "You don't know you're beautiful Oh oh",
+      "translation": "你不知道你很美"
+    },
+    {
+      "time": 190.67,
+      "time_str": "03:10.670",
+      "text": "You don't know you're beautiful Oh oh",
+      "translation": "你不知道你很美"
+    },
+    {
+      "time": 194.47,
+      "time_str": "03:14.470",
+      "text": "That's what makes you beautiful",
+      "translation": "这就是为什么你如此美丽"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "What Makes You Beautiful - One Direction.lrc"
+}

@@ -1,0 +1,190 @@
+{
+  "title": "忽然之间",
+  "title_raw": "忽然之间",
+  "version": null,
+  "artist": "莫文蔚",
+  "group_key": "忽然之间|莫文蔚",
+  "writers": {
+    "lyricist": "周耀辉/李焯雄",
+    "composer": "林健华",
+    "arranger": "林健华"
+  },
+  "lyrics": [
+    {
+      "time": 16.0,
+      "time_str": "00:16.000",
+      "text": "忽然之间",
+      "translation": null
+    },
+    {
+      "time": 19.0,
+      "time_str": "00:19.000",
+      "text": "天昏地暗",
+      "translation": null
+    },
+    {
+      "time": 22.0,
+      "time_str": "00:22.000",
+      "text": "世界可以忽然什么都没有",
+      "translation": null
+    },
+    {
+      "time": 29.0,
+      "time_str": "00:29.000",
+      "text": "我想起了你",
+      "translation": null
+    },
+    {
+      "time": 33.0,
+      "time_str": "00:33.000",
+      "text": "再想到自己",
+      "translation": null
+    },
+    {
+      "time": 36.0,
+      "time_str": "00:36.000",
+      "text": "我为什么总在非常脆弱的时候",
+      "translation": null
+    },
+    {
+      "time": 41.0,
+      "time_str": "00:41.000",
+      "text": "怀念你",
+      "translation": null
+    },
+    {
+      "time": 45.0,
+      "time_str": "00:45.000",
+      "text": "我明白太放不开你的爱",
+      "translation": null
+    },
+    {
+      "time": 50.0,
+      "time_str": "00:50.000",
+      "text": "太熟悉你的关怀分不开",
+      "translation": null
+    },
+    {
+      "time": 55.0,
+      "time_str": "00:55.000",
+      "text": "想你算是安慰还是悲哀",
+      "translation": null
+    },
+    {
+      "time": 59.0,
+      "time_str": "00:59.000",
+      "text": "而现在就算时针都停摆",
+      "translation": null
+    },
+    {
+      "time": 64.0,
+      "time_str": "01:04.000",
+      "text": "就算生命像尘埃分不开",
+      "translation": null
+    },
+    {
+      "time": 69.0,
+      "time_str": "01:09.000",
+      "text": "我们也许反而更相信爱",
+      "translation": null
+    },
+    {
+      "time": 86.0,
+      "time_str": "01:26.000",
+      "text": "如果这天地",
+      "translation": null
+    },
+    {
+      "time": 90.0,
+      "time_str": "01:30.000",
+      "text": "最终会消失",
+      "translation": null
+    },
+    {
+      "time": 93.0,
+      "time_str": "01:33.000",
+      "text": "不想一路走来珍惜的回忆",
+      "translation": null
+    },
+    {
+      "time": 99.0,
+      "time_str": "01:39.000",
+      "text": "没有你",
+      "translation": null
+    },
+    {
+      "time": 102.0,
+      "time_str": "01:42.000",
+      "text": "我明白太放不开你的爱",
+      "translation": null
+    },
+    {
+      "time": 107.0,
+      "time_str": "01:47.000",
+      "text": "太熟悉你的关怀分不开",
+      "translation": null
+    },
+    {
+      "time": 112.0,
+      "time_str": "01:52.000",
+      "text": "想你算是安慰还是悲哀",
+      "translation": null
+    },
+    {
+      "time": 116.0,
+      "time_str": "01:56.000",
+      "text": "而现在就算时针都停摆",
+      "translation": null
+    },
+    {
+      "time": 121.0,
+      "time_str": "02:01.000",
+      "text": "就算生命像尘埃分不开",
+      "translation": null
+    },
+    {
+      "time": 126.0,
+      "time_str": "02:06.000",
+      "text": "我们也许反而更相信爱",
+      "translation": null
+    },
+    {
+      "time": 156.0,
+      "time_str": "02:36.000",
+      "text": "我明白太放不开你的爱",
+      "translation": null
+    },
+    {
+      "time": 161.0,
+      "time_str": "02:41.000",
+      "text": "太熟悉你的关怀分不开",
+      "translation": null
+    },
+    {
+      "time": 166.0,
+      "time_str": "02:46.000",
+      "text": "想你算是安慰还是悲哀",
+      "translation": null
+    },
+    {
+      "time": 170.0,
+      "time_str": "02:50.000",
+      "text": "而现在就算时针都停摆",
+      "translation": null
+    },
+    {
+      "time": 175.0,
+      "time_str": "02:55.000",
+      "text": "就算生命像尘埃分不开",
+      "translation": null
+    },
+    {
+      "time": 180.0,
+      "time_str": "03:00.000",
+      "text": "我们也许反而更相信爱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "忽然之间 - 莫文蔚.lrc"
+}

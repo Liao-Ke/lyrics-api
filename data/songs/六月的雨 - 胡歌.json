@@ -1,0 +1,244 @@
+{
+  "title": "六月的雨",
+  "title_raw": "六月的雨",
+  "version": null,
+  "artist": "胡歌",
+  "group_key": "六月的雨|胡歌",
+  "writers": {
+    "lyricist": "薛永嘉",
+    "composer": "薛永嘉",
+    "arranger": "吕绍淳"
+  },
+  "lyrics": [
+    {
+      "time": 21.194,
+      "time_str": "00:21.194",
+      "text": "一场雨 把我困在这里",
+      "translation": null
+    },
+    {
+      "time": 25.066,
+      "time_str": "00:25.066",
+      "text": "你冷漠的表情 会让我伤心",
+      "translation": null
+    },
+    {
+      "time": 29.878,
+      "time_str": "00:29.878",
+      "text": "六月的雨 就是无情的你",
+      "translation": null
+    },
+    {
+      "time": 34.696,
+      "time_str": "00:34.696",
+      "text": "伴随着点点滴滴 痛击我心里",
+      "translation": null
+    },
+    {
+      "time": 39.207,
+      "time_str": "00:39.207",
+      "text": "哦 我不相信 你不是故意的",
+      "translation": null
+    },
+    {
+      "time": 44.243,
+      "time_str": "00:44.243",
+      "text": "却为何把我丢弃在风雨里",
+      "translation": null
+    },
+    {
+      "time": 48.752,
+      "time_str": "00:48.752",
+      "text": "哦 我不忍心 也不想背叛你",
+      "translation": null
+    },
+    {
+      "time": 53.855,
+      "time_str": "00:53.855",
+      "text": "唯有默默等你 回心转意",
+      "translation": null
+    },
+    {
+      "time": 60.737,
+      "time_str": "01:00.737",
+      "text": "我没有放弃 也不会离你而去",
+      "translation": null
+    },
+    {
+      "time": 65.558,
+      "time_str": "01:05.558",
+      "text": "哪怕要分开 我依然等你",
+      "translation": null
+    },
+    {
+      "time": 70.362,
+      "time_str": "01:10.362",
+      "text": "我全心全意 等你的消息",
+      "translation": null
+    },
+    {
+      "time": 75.121,
+      "time_str": "01:15.121",
+      "text": "总会有一天 你会相信我",
+      "translation": null
+    },
+    {
+      "time": 80.266,
+      "time_str": "01:20.266",
+      "text": "我爱你",
+      "translation": null
+    },
+    {
+      "time": 81.481,
+      "time_str": "01:21.481",
+      "text": "一场雨 想念你",
+      "translation": null
+    },
+    {
+      "time": 83.876,
+      "time_str": "01:23.876",
+      "text": "在我的心中都不可比拟",
+      "translation": null
+    },
+    {
+      "time": 91.036,
+      "time_str": "01:31.036",
+      "text": "你走后 什么都",
+      "translation": null
+    },
+    {
+      "time": 93.417,
+      "time_str": "01:33.417",
+      "text": "已经消失在风雨里",
+      "translation": null
+    },
+    {
+      "time": 100.678,
+      "time_str": "01:40.678",
+      "text": "一场雨 想念你",
+      "translation": null
+    },
+    {
+      "time": 103.08,
+      "time_str": "01:43.080",
+      "text": "我爱你",
+      "translation": null
+    },
+    {
+      "time": 119.58,
+      "time_str": "01:59.580",
+      "text": "一场雨 把我困在这里",
+      "translation": null
+    },
+    {
+      "time": 123.436,
+      "time_str": "02:03.436",
+      "text": "你冷漠的表情 会让我伤心",
+      "translation": null
+    },
+    {
+      "time": 128.206,
+      "time_str": "02:08.206",
+      "text": "六月的雨 就是无情的你",
+      "translation": null
+    },
+    {
+      "time": 132.989,
+      "time_str": "02:12.989",
+      "text": "伴随着点点滴滴 痛击我心里",
+      "translation": null
+    },
+    {
+      "time": 137.515,
+      "time_str": "02:17.515",
+      "text": "哦 我不相信 你不是故意的",
+      "translation": null
+    },
+    {
+      "time": 142.587,
+      "time_str": "02:22.587",
+      "text": "却为何把我丢弃在风雨里",
+      "translation": null
+    },
+    {
+      "time": 147.123,
+      "time_str": "02:27.123",
+      "text": "哦 我不忍心 也不想背叛你",
+      "translation": null
+    },
+    {
+      "time": 152.228,
+      "time_str": "02:32.228",
+      "text": "唯有默默等你 回心转意",
+      "translation": null
+    },
+    {
+      "time": 159.167,
+      "time_str": "02:39.167",
+      "text": "我没有放弃 也不会离你而去",
+      "translation": null
+    },
+    {
+      "time": 163.901,
+      "time_str": "02:43.901",
+      "text": "哪怕要分开 我依然等你",
+      "translation": null
+    },
+    {
+      "time": 168.722,
+      "time_str": "02:48.722",
+      "text": "我全心全意 等你的消息",
+      "translation": null
+    },
+    {
+      "time": 173.559,
+      "time_str": "02:53.559",
+      "text": "总会有一天 你会相信我",
+      "translation": null
+    },
+    {
+      "time": 178.653,
+      "time_str": "02:58.653",
+      "text": "我爱你",
+      "translation": null
+    },
+    {
+      "time": 179.918,
+      "time_str": "02:59.918",
+      "text": "一场雨 想念你",
+      "translation": null
+    },
+    {
+      "time": 182.217,
+      "time_str": "03:02.217",
+      "text": "在我的心中都不可比拟",
+      "translation": null
+    },
+    {
+      "time": 189.424,
+      "time_str": "03:09.424",
+      "text": "你走后 什么都",
+      "translation": null
+    },
+    {
+      "time": 191.819,
+      "time_str": "03:11.819",
+      "text": "已经消失在风雨里",
+      "translation": null
+    },
+    {
+      "time": 199.023,
+      "time_str": "03:19.023",
+      "text": "一场雨 想念你",
+      "translation": null
+    },
+    {
+      "time": 201.478,
+      "time_str": "03:21.478",
+      "text": "我爱你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "六月的雨 - 胡歌.lrc"
+}

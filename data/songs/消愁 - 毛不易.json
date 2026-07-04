@@ -1,0 +1,286 @@
+{
+  "title": "消愁",
+  "title_raw": "消愁",
+  "version": null,
+  "artist": "毛不易",
+  "group_key": "消愁|毛不易",
+  "writers": {
+    "lyricist": "毛不易",
+    "composer": "毛不易",
+    "arranger": "赵兆"
+  },
+  "lyrics": [
+    {
+      "time": 31.626,
+      "time_str": "00:31.626",
+      "text": "当你走进这欢乐场",
+      "translation": null
+    },
+    {
+      "time": 35.809,
+      "time_str": "00:35.809",
+      "text": "背上所有的梦与想",
+      "translation": null
+    },
+    {
+      "time": 40.096,
+      "time_str": "00:40.096",
+      "text": "各色的脸上各色的妆",
+      "translation": null
+    },
+    {
+      "time": 44.392,
+      "time_str": "00:44.392",
+      "text": "没人记得你的模样",
+      "translation": null
+    },
+    {
+      "time": 48.679,
+      "time_str": "00:48.679",
+      "text": "三巡酒过你在角落",
+      "translation": null
+    },
+    {
+      "time": 52.947,
+      "time_str": "00:52.947",
+      "text": "固执的唱着苦涩的歌",
+      "translation": null
+    },
+    {
+      "time": 57.198,
+      "time_str": "00:57.198",
+      "text": "听它在喧嚣里被淹没",
+      "translation": null
+    },
+    {
+      "time": 61.143,
+      "time_str": "01:01.143",
+      "text": "你拿起酒杯对自己说",
+      "translation": null
+    },
+    {
+      "time": 67.825,
+      "time_str": "01:07.825",
+      "text": "一杯敬朝阳 一杯敬月光",
+      "translation": null
+    },
+    {
+      "time": 71.847,
+      "time_str": "01:11.847",
+      "text": "唤醒我的向往 温柔了寒窗",
+      "translation": null
+    },
+    {
+      "time": 75.599,
+      "time_str": "01:15.599",
+      "text": "于是可以不回头地逆风飞翔",
+      "translation": null
+    },
+    {
+      "time": 80.421,
+      "time_str": "01:20.421",
+      "text": "不怕心头有雨 眼底有霜",
+      "translation": null
+    },
+    {
+      "time": 84.774,
+      "time_str": "01:24.774",
+      "text": "一杯敬故乡 一杯敬远方",
+      "translation": null
+    },
+    {
+      "time": 88.977,
+      "time_str": "01:28.977",
+      "text": "守着我的善良 催着我成长",
+      "translation": null
+    },
+    {
+      "time": 92.813,
+      "time_str": "01:32.813",
+      "text": "所以南北的路从此不再漫长",
+      "translation": null
+    },
+    {
+      "time": 97.599,
+      "time_str": "01:37.599",
+      "text": "灵魂不再无处安放",
+      "translation": null
+    },
+    {
+      "time": 123.441,
+      "time_str": "02:03.441",
+      "text": "躁动不安的座上客",
+      "translation": null
+    },
+    {
+      "time": 127.561,
+      "time_str": "02:07.561",
+      "text": "自以为是地表演着",
+      "translation": null
+    },
+    {
+      "time": 132.099,
+      "time_str": "02:12.099",
+      "text": "伪装着 舞蹈着 疲惫着",
+      "translation": null
+    },
+    {
+      "time": 135.645,
+      "time_str": "02:15.645",
+      "text": "你拿起酒杯对自己说",
+      "translation": null
+    },
+    {
+      "time": 140.495,
+      "time_str": "02:20.495",
+      "text": "一杯敬朝阳 一杯敬月光",
+      "translation": null
+    },
+    {
+      "time": 144.753,
+      "time_str": "02:24.753",
+      "text": "唤醒我的向往 温柔了寒窗",
+      "translation": null
+    },
+    {
+      "time": 148.531,
+      "time_str": "02:28.531",
+      "text": "于是可以不回头地逆风飞翔",
+      "translation": null
+    },
+    {
+      "time": 153.196,
+      "time_str": "02:33.196",
+      "text": "不怕心头有雨 眼底有霜",
+      "translation": null
+    },
+    {
+      "time": 157.5,
+      "time_str": "02:37.500",
+      "text": "一杯敬故乡 一杯敬远方",
+      "translation": null
+    },
+    {
+      "time": 161.855,
+      "time_str": "02:41.855",
+      "text": "守着我的善良 催着我成长",
+      "translation": null
+    },
+    {
+      "time": 165.616,
+      "time_str": "02:45.616",
+      "text": "所以南北的路从此不再漫长",
+      "translation": null
+    },
+    {
+      "time": 170.448,
+      "time_str": "02:50.448",
+      "text": "灵魂不再无处安放",
+      "translation": null
+    },
+    {
+      "time": 181.235,
+      "time_str": "03:01.235",
+      "text": "一杯敬明天 一杯敬过往",
+      "translation": null
+    },
+    {
+      "time": 185.448,
+      "time_str": "03:05.448",
+      "text": "支撑我的身体 厚重了肩膀",
+      "translation": null
+    },
+    {
+      "time": 189.182,
+      "time_str": "03:09.182",
+      "text": "虽然从不相信所谓山高水长",
+      "translation": null
+    },
+    {
+      "time": 194.006,
+      "time_str": "03:14.006",
+      "text": "人生苦短何必念念不忘",
+      "translation": null
+    },
+    {
+      "time": 198.366,
+      "time_str": "03:18.366",
+      "text": "一杯敬自由 一杯敬死亡",
+      "translation": null
+    },
+    {
+      "time": 202.599,
+      "time_str": "03:22.599",
+      "text": "宽恕我的平凡 驱散了迷惘",
+      "translation": null
+    },
+    {
+      "time": 206.365,
+      "time_str": "03:26.365",
+      "text": "好吧天亮之后总是潦草离场",
+      "translation": null
+    },
+    {
+      "time": 211.133,
+      "time_str": "03:31.133",
+      "text": "清醒的人最荒唐",
+      "translation": null
+    },
+    {
+      "time": 217.806,
+      "time_str": "03:37.806",
+      "text": "清醒的人最荒唐",
+      "translation": null
+    },
+    {
+      "time": 256.346,
+      "time_str": "04:16.346",
+      "text": "手风琴 : 许笑男",
+      "translation": null
+    },
+    {
+      "time": 256.658,
+      "time_str": "04:16.658",
+      "text": "键盘 : 赵兆",
+      "translation": null
+    },
+    {
+      "time": 257.282,
+      "time_str": "04:17.282",
+      "text": "贝斯 : 韩阳",
+      "translation": null
+    },
+    {
+      "time": 258.842,
+      "time_str": "04:18.842",
+      "text": "母带 : Joe LaPorta .（Sterling . NY）",
+      "translation": null
+    },
+    {
+      "time": 259.778,
+      "time_str": "04:19.778",
+      "text": "人声录音 : 李杨",
+      "translation": null
+    },
+    {
+      "time": 260.09,
+      "time_str": "04:20.090",
+      "text": "人声编辑 : 李杨",
+      "translation": null
+    },
+    {
+      "time": 260.402,
+      "time_str": "04:20.402",
+      "text": "录音助理 : 郭舒文 邢铜",
+      "translation": null
+    },
+    {
+      "time": 260.714,
+      "time_str": "04:20.714",
+      "text": "制作发行 : 哇唧唧哇",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "消愁 - 毛不易.lrc"
+}

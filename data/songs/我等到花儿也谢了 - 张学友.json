@@ -1,0 +1,388 @@
+{
+  "title": "我等到花儿也谢了",
+  "title_raw": "我等到花儿也谢了",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "我等到花儿也谢了|张学友",
+  "writers": {
+    "lyricist": "吴庆康",
+    "composer": "李伟菘/陈少琪",
+    "arranger": "赵增熹"
+  },
+  "lyrics": [
+    {
+      "time": 0.726,
+      "time_str": "00:00.726",
+      "text": "改编词 : 吴庆康",
+      "translation": null
+    },
+    {
+      "time": 0.968,
+      "time_str": "00:00.968",
+      "text": "每个人都在问我",
+      "translation": null
+    },
+    {
+      "time": 2.619,
+      "time_str": "00:02.619",
+      "text": "到底还在等什么",
+      "translation": null
+    },
+    {
+      "time": 7.755,
+      "time_str": "00:07.755",
+      "text": "等到春夏秋冬",
+      "translation": null
+    },
+    {
+      "time": 9.511,
+      "time_str": "00:09.511",
+      "text": "都过了难道还不够",
+      "translation": null
+    },
+    {
+      "time": 14.423,
+      "time_str": "00:14.423",
+      "text": "其实是因为我",
+      "translation": null
+    },
+    {
+      "time": 16.425,
+      "time_str": "00:16.425",
+      "text": "的心有一个缺口",
+      "translation": null
+    },
+    {
+      "time": 20.361,
+      "time_str": "00:20.361",
+      "text": "等待拿走的人",
+      "translation": null
+    },
+    {
+      "time": 21.915,
+      "time_str": "00:21.915",
+      "text": "把它还给我",
+      "translation": null
+    },
+    {
+      "time": 28.182,
+      "time_str": "00:28.182",
+      "text": "每个人都在说这种",
+      "translation": null
+    },
+    {
+      "time": 30.185,
+      "time_str": "00:30.185",
+      "text": "爱情没有结果",
+      "translation": null
+    },
+    {
+      "time": 34.96,
+      "time_str": "00:34.960",
+      "text": "我也知道你永远",
+      "translation": null
+    },
+    {
+      "time": 36.564,
+      "time_str": "00:36.564",
+      "text": "都不能够爱我",
+      "translation": null
+    },
+    {
+      "time": 41.457,
+      "time_str": "00:41.457",
+      "text": "其实我只是希望",
+      "translation": null
+    },
+    {
+      "time": 43.471,
+      "time_str": "00:43.471",
+      "text": "你有时想一想我",
+      "translation": null
+    },
+    {
+      "time": 47.177,
+      "time_str": "00:47.177",
+      "text": "你却已经渐渐渐渐",
+      "translation": null
+    },
+    {
+      "time": 49.28,
+      "time_str": "00:49.280",
+      "text": "什么都不再说",
+      "translation": null
+    },
+    {
+      "time": 54.96,
+      "time_str": "00:54.960",
+      "text": "我睡不着的时候",
+      "translation": null
+    },
+    {
+      "time": 57.199,
+      "time_str": "00:57.199",
+      "text": "会不会有人陪着我",
+      "translation": null
+    },
+    {
+      "time": 60.925,
+      "time_str": "01:00.925",
+      "text": "我难过的时候",
+      "translation": null
+    },
+    {
+      "time": 63.831,
+      "time_str": "01:03.831",
+      "text": "会不会有人安慰我",
+      "translation": null
+    },
+    {
+      "time": 67.763,
+      "time_str": "01:07.763",
+      "text": "我想说话的时候",
+      "translation": null
+    },
+    {
+      "time": 70.418,
+      "time_str": "01:10.418",
+      "text": "会不会有人了解我",
+      "translation": null
+    },
+    {
+      "time": 74.278,
+      "time_str": "01:14.278",
+      "text": "我忘不了你的时候",
+      "translation": null
+    },
+    {
+      "time": 76.932,
+      "time_str": "01:16.932",
+      "text": "你会不会来疼我",
+      "translation": null
+    },
+    {
+      "time": 80.706,
+      "time_str": "01:20.706",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 84.139,
+      "time_str": "01:24.139",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 88.186,
+      "time_str": "01:28.186",
+      "text": "我等到花儿也谢了",
+      "translation": null
+    },
+    {
+      "time": 93.983,
+      "time_str": "01:33.983",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 97.497,
+      "time_str": "01:37.497",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 101.446,
+      "time_str": "01:41.446",
+      "text": "我等到花儿也谢了",
+      "translation": null
+    },
+    {
+      "time": 114.773,
+      "time_str": "01:54.773",
+      "text": "每个人都在说",
+      "translation": null
+    },
+    {
+      "time": 116.376,
+      "time_str": "01:56.376",
+      "text": "这种爱情没有结果",
+      "translation": null
+    },
+    {
+      "time": 121.367,
+      "time_str": "02:01.367",
+      "text": "我也知道你",
+      "translation": null
+    },
+    {
+      "time": 122.769,
+      "time_str": "02:02.769",
+      "text": "永远都不能够爱我",
+      "translation": null
+    },
+    {
+      "time": 128.157,
+      "time_str": "02:08.157",
+      "text": "其实我只是",
+      "translation": null
+    },
+    {
+      "time": 129.327,
+      "time_str": "02:09.327",
+      "text": "希望你有时想一想我",
+      "translation": null
+    },
+    {
+      "time": 133.782,
+      "time_str": "02:13.782",
+      "text": "你却已经渐渐渐渐",
+      "translation": null
+    },
+    {
+      "time": 135.835,
+      "time_str": "02:15.835",
+      "text": "什么都不再说",
+      "translation": null
+    },
+    {
+      "time": 141.01,
+      "time_str": "02:21.010",
+      "text": "我睡不着的时候",
+      "translation": null
+    },
+    {
+      "time": 143.555,
+      "time_str": "02:23.555",
+      "text": "会不会有人陪着我",
+      "translation": null
+    },
+    {
+      "time": 147.631,
+      "time_str": "02:27.631",
+      "text": "我难过的时候",
+      "translation": null
+    },
+    {
+      "time": 150.234,
+      "time_str": "02:30.234",
+      "text": "会不会有人安慰我",
+      "translation": null
+    },
+    {
+      "time": 154.323,
+      "time_str": "02:34.323",
+      "text": "我想说话的时候",
+      "translation": null
+    },
+    {
+      "time": 156.875,
+      "time_str": "02:36.875",
+      "text": "会不会有人了解我",
+      "translation": null
+    },
+    {
+      "time": 161.13,
+      "time_str": "02:41.130",
+      "text": "我忘不了你的",
+      "translation": null
+    },
+    {
+      "time": 162.466,
+      "time_str": "02:42.466",
+      "text": "时候你会不会来疼我",
+      "translation": null
+    },
+    {
+      "time": 167.231,
+      "time_str": "02:47.231",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 170.825,
+      "time_str": "02:50.825",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 174.728,
+      "time_str": "02:54.728",
+      "text": "我等到花儿也谢了",
+      "translation": null
+    },
+    {
+      "time": 180.634,
+      "time_str": "03:00.634",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 184.126,
+      "time_str": "03:04.126",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 188.97,
+      "time_str": "03:08.970",
+      "text": "我等到花儿也谢了",
+      "translation": null
+    },
+    {
+      "time": 220.891,
+      "time_str": "03:40.891",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 224.213,
+      "time_str": "03:44.213",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 228.27,
+      "time_str": "03:48.270",
+      "text": "我等到花儿也谢了",
+      "translation": null
+    },
+    {
+      "time": 234.177,
+      "time_str": "03:54.177",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 237.799,
+      "time_str": "03:57.799",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 241.808,
+      "time_str": "04:01.808",
+      "text": "我等到花儿也谢了",
+      "translation": null
+    },
+    {
+      "time": 251.326,
+      "time_str": "04:11.326",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 254.705,
+      "time_str": "04:14.705",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 258.75,
+      "time_str": "04:18.750",
+      "text": "我等到花儿也谢了",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "我等到花儿也谢了 - 张学友.lrc"
+}

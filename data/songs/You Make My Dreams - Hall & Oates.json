@@ -1,0 +1,166 @@
+{
+  "title": "You Make My Dreams",
+  "title_raw": "You Make My Dreams",
+  "version": null,
+  "artist": "Hall & Oates",
+  "group_key": "you make my dreams|hall & oates",
+  "writers": {
+    "lyricist": "John Oates/Daryl Hall/Sara Allen",
+    "composer": "John Oates/Daryl Hall/Sara Allen",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 7.79,
+      "time_str": "00:07.790",
+      "text": "What I want, you've got and it might be hard to handle",
+      "translation": "你有的是我想要的，它似乎很棘手"
+    },
+    {
+      "time": 16.21,
+      "time_str": "00:16.210",
+      "text": "But like the flame that burns the candle",
+      "translation": "但就如燃烧蜡烛的火苗"
+    },
+    {
+      "time": 19.13,
+      "time_str": "00:19.130",
+      "text": "The candle feeds the flame.",
+      "translation": "烛油供给着焰火"
+    },
+    {
+      "time": 23.12,
+      "time_str": "00:23.120",
+      "text": "What I've got's full stock of thoughts",
+      "translation": "我有的是满脑子的奇思妙想"
+    },
+    {
+      "time": 26.8,
+      "time_str": "00:26.800",
+      "text": "And dreams that scatter",
+      "translation": "所有支离破碎的梦想"
+    },
+    {
+      "time": 30.23,
+      "time_str": "00:30.230",
+      "text": "And you pull them all together",
+      "translation": "你将他们一一拼凑"
+    },
+    {
+      "time": 31.7,
+      "time_str": "00:31.700",
+      "text": "And how, I can't explain.",
+      "translation": "缘何，我也未知"
+    },
+    {
+      "time": 35.88,
+      "time_str": "00:35.880",
+      "text": "But you, you make my dreams come true.",
+      "translation": "但你，使我美梦成真"
+    },
+    {
+      "time": 42.77,
+      "time_str": "00:42.770",
+      "text": "Oh you, you make my dreams come true.",
+      "translation": "哦，你实现了我的梦想"
+    },
+    {
+      "time": 57.47,
+      "time_str": "00:57.470",
+      "text": "On a night when bad",
+      "translation": "在一个糟糕的夜晚"
+    },
+    {
+      "time": 60.56,
+      "time_str": "01:00.560",
+      "text": "Dreams become a screamer,",
+      "translation": "美梦成了梦魇"
+    },
+    {
+      "time": 62.82,
+      "time_str": "01:02.820",
+      "text": "When they're messin' with the dreamer",
+      "translation": "当它们干扰着梦中人"
+    },
+    {
+      "time": 65.95,
+      "time_str": "01:05.950",
+      "text": "I can laugh it in the face.",
+      "translation": "我脸上笑着"
+    },
+    {
+      "time": 68.72,
+      "time_str": "01:08.720",
+      "text": "Twist and shout my way out",
+      "translation": "扭动身躯，大声疾呼"
+    },
+    {
+      "time": 72.16,
+      "time_str": "01:12.160",
+      "text": "And wrap yourself around me",
+      "translation": "我紧拥你入怀"
+    },
+    {
+      "time": 74.55,
+      "time_str": "01:14.550",
+      "text": "'Cause I ain't the way you found me",
+      "translation": "因为你不能那样找到我"
+    },
+    {
+      "time": 77.45,
+      "time_str": "01:17.450",
+      "text": "And I'll never be the same",
+      "translation": "我将不再如此"
+    },
+    {
+      "time": 81.18,
+      "time_str": "01:21.180",
+      "text": "But you, you make my dreams come true.",
+      "translation": "但你，让我美梦成真"
+    },
+    {
+      "time": 90.35,
+      "time_str": "01:30.350",
+      "text": "Oh you, you make my dreams come true.",
+      "translation": "哦，你实现了我的梦想"
+    },
+    {
+      "time": 103.22,
+      "time_str": "01:43.220",
+      "text": "I'm down on the daydream",
+      "translation": "我正陷入白日梦中"
+    },
+    {
+      "time": 121.15,
+      "time_str": "02:01.150",
+      "text": "That sleepwalk should be over by now.",
+      "translation": "到现在梦游应该结束了"
+    },
+    {
+      "time": 125.17,
+      "time_str": "02:05.170",
+      "text": "I know that you, you make my dreams come true.",
+      "translation": "我深谙，你使我美梦成真"
+    },
+    {
+      "time": 136.63,
+      "time_str": "02:16.630",
+      "text": "Oh you, you make my dreams come true.",
+      "translation": "哦，你使我美梦成真"
+    },
+    {
+      "time": 148.53,
+      "time_str": "02:28.530",
+      "text": "But you, you make my dreams come true.",
+      "translation": "但你，你使我美梦成真"
+    },
+    {
+      "time": 161.91,
+      "time_str": "02:41.910",
+      "text": "Oh you, you make my dreams come true.",
+      "translation": "哦，你使我美梦成真"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "You Make My Dreams - Hall & Oates.lrc"
+}

@@ -1,0 +1,196 @@
+{
+  "title": "体面",
+  "title_raw": "体面",
+  "version": null,
+  "artist": "于文文",
+  "group_key": "体面|于文文",
+  "writers": {
+    "lyricist": "唐恬",
+    "composer": "于文文",
+    "arranger": "郑楠"
+  },
+  "lyrics": [
+    {
+      "time": 24.0,
+      "time_str": "00:24.000",
+      "text": "别堆砌怀念让剧情 变得狗血",
+      "translation": null
+    },
+    {
+      "time": 35.56,
+      "time_str": "00:35.560",
+      "text": "深爱了多年又何必 毁了经典",
+      "translation": null
+    },
+    {
+      "time": 44.28,
+      "time_str": "00:44.280",
+      "text": "都已成年不拖不欠",
+      "translation": null
+    },
+    {
+      "time": 49.84,
+      "time_str": "00:49.840",
+      "text": "浪费时间是我情愿",
+      "translation": null
+    },
+    {
+      "time": 55.53,
+      "time_str": "00:55.530",
+      "text": "像谢幕的演员眼看着灯光熄灭",
+      "translation": null
+    },
+    {
+      "time": 66.83,
+      "time_str": "01:06.830",
+      "text": "来不及 再轰轰烈烈",
+      "translation": null
+    },
+    {
+      "time": 72.43,
+      "time_str": "01:12.430",
+      "text": "就保留 告别的尊严",
+      "translation": null
+    },
+    {
+      "time": 78.09,
+      "time_str": "01:18.090",
+      "text": "我爱你不后悔 也尊重故事结尾",
+      "translation": null
+    },
+    {
+      "time": 89.55,
+      "time_str": "01:29.550",
+      "text": "分手应该体面谁都不要说抱歉",
+      "translation": null
+    },
+    {
+      "time": 96.47,
+      "time_str": "01:36.470",
+      "text": "何来亏欠 我敢给就敢心碎",
+      "translation": null
+    },
+    {
+      "time": 102.11,
+      "time_str": "01:42.110",
+      "text": "镜头前面是从前的我们",
+      "translation": null
+    },
+    {
+      "time": 106.65,
+      "time_str": "01:46.650",
+      "text": "在喝彩 流着泪声嘶力竭",
+      "translation": null
+    },
+    {
+      "time": 111.99,
+      "time_str": "01:51.990",
+      "text": "离开也很体面 才没辜负这些年",
+      "translation": null
+    },
+    {
+      "time": 119.06,
+      "time_str": "01:59.060",
+      "text": "爱得热烈 认真付出的画面",
+      "translation": null
+    },
+    {
+      "time": 124.68,
+      "time_str": "02:04.680",
+      "text": "别让执念 毁掉了昨天",
+      "translation": null
+    },
+    {
+      "time": 129.18,
+      "time_str": "02:09.180",
+      "text": "我爱过你 利落干脆",
+      "translation": null
+    },
+    {
+      "time": 156.81,
+      "time_str": "02:36.810",
+      "text": "最熟悉的街主角却 换了人演",
+      "translation": null
+    },
+    {
+      "time": 168.2,
+      "time_str": "02:48.200",
+      "text": "我哭到哽咽心再痛 就当破茧",
+      "translation": null
+    },
+    {
+      "time": 177.0,
+      "time_str": "02:57.000",
+      "text": "来不及 再轰轰烈烈",
+      "translation": null
+    },
+    {
+      "time": 182.59,
+      "time_str": "03:02.590",
+      "text": "就保留 告别的尊严",
+      "translation": null
+    },
+    {
+      "time": 188.2,
+      "time_str": "03:08.200",
+      "text": "我爱你不后悔 也尊重故事结尾",
+      "translation": null
+    },
+    {
+      "time": 199.53,
+      "time_str": "03:19.530",
+      "text": "分手应该体面 谁都不要说抱歉",
+      "translation": null
+    },
+    {
+      "time": 206.59,
+      "time_str": "03:26.590",
+      "text": "何来亏欠 我敢给就敢心碎",
+      "translation": null
+    },
+    {
+      "time": 212.15,
+      "time_str": "03:32.150",
+      "text": "镜头前面是从前的我们",
+      "translation": null
+    },
+    {
+      "time": 216.72,
+      "time_str": "03:36.720",
+      "text": "在喝彩 流着泪声嘶力竭",
+      "translation": null
+    },
+    {
+      "time": 222.12,
+      "time_str": "03:42.120",
+      "text": "离开也很体面 才没辜负这些年",
+      "translation": null
+    },
+    {
+      "time": 229.13,
+      "time_str": "03:49.130",
+      "text": "爱得热烈 认真付出的画面",
+      "translation": null
+    },
+    {
+      "time": 234.75,
+      "time_str": "03:54.750",
+      "text": "别让执念 毁掉了昨天",
+      "translation": null
+    },
+    {
+      "time": 239.38,
+      "time_str": "03:59.380",
+      "text": "我爱过你 利落干脆",
+      "translation": null
+    },
+    {
+      "time": 245.47,
+      "time_str": "04:05.470",
+      "text": "再见 不负遇见",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "体面 - 于文文.lrc"
+}

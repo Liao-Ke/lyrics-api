@@ -1,0 +1,106 @@
+{
+  "title": "小城故事",
+  "title_raw": "小城故事",
+  "version": null,
+  "artist": "邓丽君",
+  "group_key": "小城故事|邓丽君",
+  "writers": {
+    "lyricist": "庄奴",
+    "composer": "翁清溪/（汤尼）",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 12.54,
+      "time_str": "00:12.540",
+      "text": "小城故事多",
+      "translation": null
+    },
+    {
+      "time": 18.49,
+      "time_str": "00:18.490",
+      "text": "充满喜和乐",
+      "translation": null
+    },
+    {
+      "time": 23.93,
+      "time_str": "00:23.930",
+      "text": "若是你到小城来",
+      "translation": null
+    },
+    {
+      "time": 29.85,
+      "time_str": "00:29.850",
+      "text": "收获特别多",
+      "translation": null
+    },
+    {
+      "time": 36.02,
+      "time_str": "00:36.020",
+      "text": "看似一幅画",
+      "translation": null
+    },
+    {
+      "time": 41.97,
+      "time_str": "00:41.970",
+      "text": "听像一首歌",
+      "translation": null
+    },
+    {
+      "time": 48.28,
+      "time_str": "00:48.280",
+      "text": "人生境界真善美这里已包括",
+      "translation": null
+    },
+    {
+      "time": 60.67,
+      "time_str": "01:00.670",
+      "text": "谈的谈说的说",
+      "translation": null
+    },
+    {
+      "time": 66.38,
+      "time_str": "01:06.380",
+      "text": "小城故事真不错",
+      "translation": null
+    },
+    {
+      "time": 72.4,
+      "time_str": "01:12.400",
+      "text": "请你的朋友一起来",
+      "translation": null
+    },
+    {
+      "time": 78.26,
+      "time_str": "01:18.260",
+      "text": "小城来做客",
+      "translation": null
+    },
+    {
+      "time": 108.49,
+      "time_str": "01:48.490",
+      "text": "谈的谈说的说",
+      "translation": null
+    },
+    {
+      "time": 116.14,
+      "time_str": "01:56.140",
+      "text": "小城故事真不错",
+      "translation": null
+    },
+    {
+      "time": 123.0,
+      "time_str": "02:03.000",
+      "text": "请你的朋友一起来",
+      "translation": null
+    },
+    {
+      "time": 128.67,
+      "time_str": "02:08.670",
+      "text": "小城来做客",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "小城故事 - 邓丽君.lrc"
+}

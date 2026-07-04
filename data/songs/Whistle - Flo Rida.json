@@ -1,0 +1,520 @@
+{
+  "title": "Whistle",
+  "title_raw": "Whistle",
+  "version": null,
+  "artist": "Flo Rida",
+  "group_key": "whistle|flo rida",
+  "writers": {
+    "lyricist": "J. Ralph/Flo Rida/DJ Frank E/David Glass/Breyan Isaac/Arthur Pingrey/Jovii Hendrix",
+    "composer": "J. Ralph/Flo Rida/DJ Frank E/David Glass/Breyan Isaac/Arthur Pingrey/Jovii Hendrix",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 8.14,
+      "time_str": "00:08.140",
+      "text": "Can you blow my whistle baby, whistle baby",
+      "translation": "你会吹响我的口哨宝贝吗"
+    },
+    {
+      "time": 11.88,
+      "time_str": "00:11.880",
+      "text": "Let me know",
+      "translation": "让我知道"
+    },
+    {
+      "time": 13.35,
+      "time_str": "00:13.350",
+      "text": "Girl I'm gonna show you how to do it",
+      "translation": "女孩 我会告诉你怎么做"
+    },
+    {
+      "time": 15.78,
+      "time_str": "00:15.780",
+      "text": "And we start real slow",
+      "translation": "我们开始放慢速度"
+    },
+    {
+      "time": 18.19,
+      "time_str": "00:18.190",
+      "text": "You just put your lips together",
+      "translation": "你只需闭上你的双唇"
+    },
+    {
+      "time": 20.44,
+      "time_str": "00:20.440",
+      "text": "And you come real close",
+      "translation": "轻轻的发出声响"
+    },
+    {
+      "time": 22.2,
+      "time_str": "00:22.200",
+      "text": "Can you blow my whistle baby, whistle baby",
+      "translation": "你会吹响我的口哨宝贝吗"
+    },
+    {
+      "time": 26.65,
+      "time_str": "00:26.650",
+      "text": "Here we go",
+      "translation": "从这开始"
+    },
+    {
+      "time": 36.88,
+      "time_str": "00:36.880",
+      "text": "(Look) I'm betting you like people",
+      "translation": "我敢打赌你喜欢咆哮爵士"
+    },
+    {
+      "time": 39.85,
+      "time_str": "00:39.850",
+      "text": "And I'm betting you love creep mode",
+      "translation": "我敢打赌你喜欢惊悚的风格"
+    },
+    {
+      "time": 42.51,
+      "time_str": "00:42.510",
+      "text": "And I'm betting you like girls that give love to girls",
+      "translation": "我敢打赌你喜欢那个乐意奉献爱心的女孩"
+    },
+    {
+      "time": 44.9,
+      "time_str": "00:44.900",
+      "text": "And stroke your little ego",
+      "translation": "请抚你的小自我"
+    },
+    {
+      "time": 46.3,
+      "time_str": "00:46.300",
+      "text": "I bet you I'm guilty your honor",
+      "translation": "我知道我嫉妒你的光环"
+    },
+    {
+      "time": 49.05,
+      "time_str": "00:49.050",
+      "text": "That's just how we live in my genre",
+      "translation": "但这就是我相处的风格"
+    },
+    {
+      "time": 51.28,
+      "time_str": "00:51.280",
+      "text": "Who in the hell done paved the road wider?",
+      "translation": "到底是什么时候买了罗特韦尔犬"
+    },
+    {
+      "time": 53.54,
+      "time_str": "00:53.540",
+      "text": "There's only one flo, and one rida",
+      "translation": "可是这里只有一个弗洛  一个里达"
+    },
+    {
+      "time": 55.97,
+      "time_str": "00:55.970",
+      "text": "I'm a damn shame",
+      "translation": "我真的十分羞愧"
+    },
+    {
+      "time": 56.83,
+      "time_str": "00:56.830",
+      "text": "Oder more champagne, pull a damn hamstring",
+      "translation": "再来一瓶香槟  把它干掉"
+    },
+    {
+      "time": 59.18,
+      "time_str": "00:59.180",
+      "text": "Tryna put it on ya",
+      "translation": "努力把它放在你身上"
+    },
+    {
+      "time": 60.55,
+      "time_str": "01:00.550",
+      "text": "Bet your lips spin back around corner",
+      "translation": "我敢打赌  你的嘴角开始翘起"
+    },
+    {
+      "time": 62.71,
+      "time_str": "01:02.710",
+      "text": "Slow it down baby take a little longer",
+      "translation": "慢下来  宝贝  再花一点时间"
+    },
+    {
+      "time": 64.24,
+      "time_str": "01:04.240",
+      "text": "Can you blow my whistle baby, whistle baby",
+      "translation": "你会吹响我的口哨宝贝吗"
+    },
+    {
+      "time": 67.17,
+      "time_str": "01:07.170",
+      "text": "Let me know",
+      "translation": "让我知道"
+    },
+    {
+      "time": 68.58,
+      "time_str": "01:08.580",
+      "text": "Girl I'm gonna show you how to do it",
+      "translation": "女孩 我会告诉你怎么做"
+    },
+    {
+      "time": 71.01,
+      "time_str": "01:11.010",
+      "text": "And we start real slow",
+      "translation": "我们开始放慢速度"
+    },
+    {
+      "time": 73.48,
+      "time_str": "01:13.480",
+      "text": "You just put your lips together",
+      "translation": "你只需闭上你的双唇"
+    },
+    {
+      "time": 75.8,
+      "time_str": "01:15.800",
+      "text": "And you come real close",
+      "translation": "轻轻的发出声响"
+    },
+    {
+      "time": 77.82,
+      "time_str": "01:17.820",
+      "text": "Can you blow my whistle baby, whistle baby",
+      "translation": "你会吹响我的口哨宝贝吗"
+    },
+    {
+      "time": 81.77,
+      "time_str": "01:21.770",
+      "text": "Here we go",
+      "translation": "从这开始"
+    },
+    {
+      "time": 85.59,
+      "time_str": "01:25.590",
+      "text": "Whistle baby, whistle baby,",
+      "translation": "口哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 89.76,
+      "time_str": "01:29.760",
+      "text": "Whi-whistle baby, whistle baby",
+      "translation": "口哨宝贝  口哨宝贝"
+    },
+    {
+      "time": 94.73,
+      "time_str": "01:34.730",
+      "text": "Whistle baby, whistle baby",
+      "translation": "口哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 99.22,
+      "time_str": "01:39.220",
+      "text": "Whi-whistle baby, whistle baby",
+      "translation": "口哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 101.5,
+      "time_str": "01:41.500",
+      "text": "It's like everywhere I go",
+      "translation": "就好像我到过的每一个地方"
+    },
+    {
+      "time": 102.6,
+      "time_str": "01:42.600",
+      "text": "My whistle ready to blow",
+      "translation": "我的口哨不绝于耳"
+    },
+    {
+      "time": 103.87,
+      "time_str": "01:43.870",
+      "text": "Shawty don't leave a note",
+      "translation": "矮个子们  不要留下便条"
+    },
+    {
+      "time": 104.89,
+      "time_str": "01:44.890",
+      "text": "She can get any by the low",
+      "translation": "她可以用任何方式得到它"
+    },
+    {
+      "time": 106.19,
+      "time_str": "01:46.190",
+      "text": "Permission not approved",
+      "translation": "许可并不代表认同"
+    },
+    {
+      "time": 107.21,
+      "time_str": "01:47.210",
+      "text": "It's okay, it's under control",
+      "translation": "没关系  这个可以控制"
+    },
+    {
+      "time": 108.28,
+      "time_str": "01:48.280",
+      "text": "Show me soprano, 'cause girl you can handle",
+      "translation": "大声的吹起口哨来  女孩你一定能吹响"
+    },
+    {
+      "time": 110.45,
+      "time_str": "01:50.450",
+      "text": "Baby we start snagging, you come up in part clothes",
+      "translation": "宝贝  我们开始消除阻碍"
+    },
+    {
+      "time": 112.93,
+      "time_str": "01:52.930",
+      "text": "Girl I'm losing wing, my Bugatti the same road",
+      "translation": "女孩  我丢失了我的翅膀  丢失在同一条路上"
+    },
+    {
+      "time": 115.32,
+      "time_str": "01:55.320",
+      "text": "Show me your perfect pitch, you got it my banjo",
+      "translation": "让我看看你完美的调子  你学会了我的班卓琴"
+    },
+    {
+      "time": 117.6,
+      "time_str": "01:57.600",
+      "text": "Talented with your lips, like you blew out a candle",
+      "translation": "你的嘴唇具有魔力  就好像你吹灭我的蜡烛一样"
+    },
+    {
+      "time": 119.86,
+      "time_str": "01:59.860",
+      "text": "So amusing, now you can make a whistle with the music",
+      "translation": "太棒了  你可以吹着口哨和音乐一起唱"
+    },
+    {
+      "time": 122.99,
+      "time_str": "02:02.990",
+      "text": "Hope you ain't got no issue, you can do it",
+      "translation": "但愿一切都没有问题  你可以做到"
+    },
+    {
+      "time": 125.53,
+      "time_str": "02:05.530",
+      "text": "Give me the perfect pitch, ya never lose it",
+      "translation": "给我一张完美的图片  我永远不会丢弃它"
+    },
+    {
+      "time": 128.4,
+      "time_str": "02:08.400",
+      "text": "Can you blow my whistle baby, whistle baby",
+      "translation": "你会吹响我的口哨宝贝吗"
+    },
+    {
+      "time": 131.43,
+      "time_str": "02:11.430",
+      "text": "Let me know",
+      "translation": "让我知道"
+    },
+    {
+      "time": 132.86,
+      "time_str": "02:12.860",
+      "text": "Girl I'm gonna show you how to do it",
+      "translation": "女孩 我会告诉你怎么做"
+    },
+    {
+      "time": 135.66,
+      "time_str": "02:15.660",
+      "text": "And we start real slow",
+      "translation": "我们开始放慢速度"
+    },
+    {
+      "time": 137.84,
+      "time_str": "02:17.840",
+      "text": "You just put your lips together",
+      "translation": "你只需闭上你的双唇"
+    },
+    {
+      "time": 140.01,
+      "time_str": "02:20.010",
+      "text": "And you come real close",
+      "translation": "轻轻的发出声响"
+    },
+    {
+      "time": 142.15,
+      "time_str": "02:22.150",
+      "text": "Can you blow my whistle baby, whistle baby",
+      "translation": "你会吹响我的口哨宝贝吗"
+    },
+    {
+      "time": 146.39,
+      "time_str": "02:26.390",
+      "text": "Here we go",
+      "translation": "从这开始"
+    },
+    {
+      "time": 150.17,
+      "time_str": "02:30.170",
+      "text": "Whistle baby, whistle baby,",
+      "translation": "口哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 154.57,
+      "time_str": "02:34.570",
+      "text": "Whi-whistle baby, whistle baby",
+      "translation": "口-口-哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 159.42,
+      "time_str": "02:39.420",
+      "text": "Whistle baby, whistle baby,",
+      "translation": "口哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 163.31,
+      "time_str": "02:43.310",
+      "text": "Whi-whistle baby, whistle baby",
+      "translation": "口-口-哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 165.89,
+      "time_str": "02:45.890",
+      "text": "Go girl you can twerk it",
+      "translation": "女孩你一定要吹响它"
+    },
+    {
+      "time": 167.61,
+      "time_str": "02:47.610",
+      "text": "Let me see you whistle while you work it",
+      "translation": "让我听听你的口哨"
+    },
+    {
+      "time": 170.12,
+      "time_str": "02:50.120",
+      "text": "I'mma lay it back, don't stop it",
+      "translation": "我会往后躺下  请不要停下"
+    },
+    {
+      "time": 172.15,
+      "time_str": "02:52.150",
+      "text": "'Cause I love it how you drop it, drop it, drop it on me",
+      "translation": "我喜欢听你吹响它的声音"
+    },
+    {
+      "time": 175.45,
+      "time_str": "02:55.450",
+      "text": "Now, shawty let that whistle blow-oh, oh oh",
+      "translation": "现在  短暂的吹响口哨吧"
+    },
+    {
+      "time": 180.2,
+      "time_str": "03:00.200",
+      "text": "Yeah, baby let that whistle blow-oh oh!",
+      "translation": "耶  宝贝  吹响你的口哨吧"
+    },
+    {
+      "time": 183.72,
+      "time_str": "03:03.720",
+      "text": "Can you blow my whistle baby, whistle baby",
+      "translation": "你会吹响我的口哨宝贝吗"
+    },
+    {
+      "time": 186.59,
+      "time_str": "03:06.590",
+      "text": "Let me know",
+      "translation": "让我知道"
+    },
+    {
+      "time": 188.06,
+      "time_str": "03:08.060",
+      "text": "Girl I'm gonna show you how to do it",
+      "translation": "女孩 我会告诉你怎么做"
+    },
+    {
+      "time": 190.89,
+      "time_str": "03:10.890",
+      "text": "And we start real slow",
+      "translation": "我们开始放慢速度"
+    },
+    {
+      "time": 192.81,
+      "time_str": "03:12.810",
+      "text": "You just put your lips together",
+      "translation": "你只需闭上你的双唇"
+    },
+    {
+      "time": 195.24,
+      "time_str": "03:15.240",
+      "text": "And you come real close",
+      "translation": "轻轻的发出声响"
+    },
+    {
+      "time": 197.32,
+      "time_str": "03:17.320",
+      "text": "Can you blow my whistle baby, whistle baby",
+      "translation": "你会吹响我的口哨宝贝吗"
+    },
+    {
+      "time": 201.41,
+      "time_str": "03:21.410",
+      "text": "Here we go",
+      "translation": "从这开始"
+    },
+    {
+      "time": 205.54,
+      "time_str": "03:25.540",
+      "text": "Whistle baby, whistle baby,",
+      "translation": "口哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 209.56,
+      "time_str": "03:29.560",
+      "text": "Whi-whistle baby, whistle baby,",
+      "translation": "口-口-哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 214.73,
+      "time_str": "03:34.730",
+      "text": "Whistle baby, whistle baby,",
+      "translation": "口哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 219.04,
+      "time_str": "03:39.040",
+      "text": "Whi-Whistle baby, whistle",
+      "translation": "口-口-哨宝贝   口哨宝贝"
+    },
+    {
+      "time": 220.04,
+      "time_str": "03:40.040",
+      "text": "音频助理 : Chris Galland/Trent Mazur/Mike Freesh/Delbert Bowers",
+      "translation": null
+    },
+    {
+      "time": 220.5,
+      "time_str": "03:40.500",
+      "text": "音频工程师 : David Glass",
+      "translation": null
+    },
+    {
+      "time": 220.96,
+      "time_str": "03:40.960",
+      "text": "主人声 : Flo Rida",
+      "translation": null
+    },
+    {
+      "time": 222.8,
+      "time_str": "03:42.800",
+      "text": "贝斯 : Mike Freesh",
+      "translation": null
+    },
+    {
+      "time": 223.26,
+      "time_str": "03:43.260",
+      "text": "母带工程师 : Chris Gehringer",
+      "translation": null
+    },
+    {
+      "time": 223.72,
+      "time_str": "03:43.720",
+      "text": "低音吉他 : Mike Freesh",
+      "translation": null
+    },
+    {
+      "time": 224.18,
+      "time_str": "03:44.180",
+      "text": "混音工程师 : Manny Marroquin",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Whistle - Flo Rida.lrc"
+}

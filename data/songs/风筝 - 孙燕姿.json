@@ -1,0 +1,202 @@
+{
+  "title": "风筝",
+  "title_raw": "风筝",
+  "version": null,
+  "artist": "孙燕姿",
+  "group_key": "风筝|孙燕姿",
+  "writers": {
+    "lyricist": "易家扬",
+    "composer": "李伟菘",
+    "arranger": "吴庆隆"
+  },
+  "lyrics": [
+    {
+      "time": 8.04,
+      "time_str": "00:08.040",
+      "text": "我不要将你多绑住一秒",
+      "translation": null
+    },
+    {
+      "time": 20.12,
+      "time_str": "00:20.120",
+      "text": "我也知道天空多美妙",
+      "translation": null
+    },
+    {
+      "time": 33.25,
+      "time_str": "00:33.250",
+      "text": "请你替我瞧一瞧",
+      "translation": null
+    },
+    {
+      "time": 51.32,
+      "time_str": "00:51.320",
+      "text": "天上的风筝哪儿去了",
+      "translation": null
+    },
+    {
+      "time": 56.19,
+      "time_str": "00:56.190",
+      "text": "一眨眼不见了",
+      "translation": null
+    },
+    {
+      "time": 60.87,
+      "time_str": "01:00.870",
+      "text": "谁把它的线剪断了",
+      "translation": null
+    },
+    {
+      "time": 65.48,
+      "time_str": "01:05.480",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 72.85,
+      "time_str": "01:12.850",
+      "text": "从前的我们哪儿去了",
+      "translation": null
+    },
+    {
+      "time": 77.57,
+      "time_str": "01:17.570",
+      "text": "路太远我忘了",
+      "translation": null
+    },
+    {
+      "time": 82.38,
+      "time_str": "01:22.380",
+      "text": "如果你想飞我明了",
+      "translation": null
+    },
+    {
+      "time": 87.13,
+      "time_str": "01:27.130",
+      "text": "你自由也好",
+      "translation": null
+    },
+    {
+      "time": 90.75,
+      "time_str": "01:30.750",
+      "text": "我不要将你多绑住一秒",
+      "translation": null
+    },
+    {
+      "time": 100.33,
+      "time_str": "01:40.330",
+      "text": "我也知道天空多美妙",
+      "translation": null
+    },
+    {
+      "time": 110.31,
+      "time_str": "01:50.310",
+      "text": "请你替我瞧一瞧",
+      "translation": null
+    },
+    {
+      "time": 135.5,
+      "time_str": "02:15.500",
+      "text": "天上的风筝哪儿去了",
+      "translation": null
+    },
+    {
+      "time": 140.52,
+      "time_str": "02:20.520",
+      "text": "一眨眼不见了",
+      "translation": null
+    },
+    {
+      "time": 144.82,
+      "time_str": "02:24.820",
+      "text": "谁把它的线剪断了",
+      "translation": null
+    },
+    {
+      "time": 149.66,
+      "time_str": "02:29.660",
+      "text": "你知不知道",
+      "translation": null
+    },
+    {
+      "time": 153.15,
+      "time_str": "02:33.150",
+      "text": "我不要将你多绑住一秒",
+      "translation": null
+    },
+    {
+      "time": 162.7,
+      "time_str": "02:42.700",
+      "text": "我也知道天空多美妙",
+      "translation": null
+    },
+    {
+      "time": 173.26,
+      "time_str": "02:53.260",
+      "text": "请你替我瞧一瞧",
+      "translation": null
+    },
+    {
+      "time": 182.31,
+      "time_str": "03:02.310",
+      "text": "看你穿跃云端飞得很高",
+      "translation": null
+    },
+    {
+      "time": 188.7,
+      "time_str": "03:08.700",
+      "text": "站在山上的我大声叫喔～",
+      "translation": null
+    },
+    {
+      "time": 193.52,
+      "time_str": "03:13.520",
+      "text": "也许你呀不会听到",
+      "translation": null
+    },
+    {
+      "time": 197.45,
+      "time_str": "03:17.450",
+      "text": "把梦想找到要过得更好",
+      "translation": null
+    },
+    {
+      "time": 208.45,
+      "time_str": "03:28.450",
+      "text": "我不要爱情的低潮喔～",
+      "translation": null
+    },
+    {
+      "time": 218.06,
+      "time_str": "03:38.060",
+      "text": "我会微笑眼泪不准掉",
+      "translation": null
+    },
+    {
+      "time": 228.01,
+      "time_str": "03:48.010",
+      "text": "我很好后来的你好不好",
+      "translation": null
+    },
+    {
+      "time": 236.95,
+      "time_str": "03:56.950",
+      "text": "你会知道我没有走掉",
+      "translation": null
+    },
+    {
+      "time": 247.48,
+      "time_str": "04:07.480",
+      "text": "回忆飞进风里了",
+      "translation": null
+    },
+    {
+      "time": 257.62,
+      "time_str": "04:17.620",
+      "text": "天上的风筝哪儿去了",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "风筝 - 孙燕姿.lrc"
+}

@@ -1,0 +1,280 @@
+{
+  "title": "奇迹再现",
+  "title_raw": "奇迹再现",
+  "version": null,
+  "artist": "毛华锋",
+  "group_key": "奇迹再现|毛华锋",
+  "writers": {
+    "lyricist": "张鹏",
+    "composer": "The Bezz",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.03,
+      "time_str": "00:16.030",
+      "text": "就像阳光穿过黑夜",
+      "translation": null
+    },
+    {
+      "time": 19.08,
+      "time_str": "00:19.080",
+      "text": "黎明悄悄划过天边",
+      "translation": null
+    },
+    {
+      "time": 21.98,
+      "time_str": "00:21.980",
+      "text": "谁的身影穿梭轮回间",
+      "translation": null
+    },
+    {
+      "time": 27.96,
+      "time_str": "00:27.960",
+      "text": "未来的路就在脚下",
+      "translation": null
+    },
+    {
+      "time": 30.95,
+      "time_str": "00:30.950",
+      "text": "不要悲伤不要害怕",
+      "translation": null
+    },
+    {
+      "time": 34.04,
+      "time_str": "00:34.040",
+      "text": "充满信心期盼着明天",
+      "translation": null
+    },
+    {
+      "time": 39.22,
+      "time_str": "00:39.220",
+      "text": "新的风暴已经出现",
+      "translation": null
+    },
+    {
+      "time": 42.02,
+      "time_str": "00:42.020",
+      "text": "怎么能够停滞不前",
+      "translation": null
+    },
+    {
+      "time": 44.76,
+      "time_str": "00:44.760",
+      "text": "穿越时空竭尽全力",
+      "translation": null
+    },
+    {
+      "time": 48.15,
+      "time_str": "00:48.150",
+      "text": "我会来到你身边",
+      "translation": null
+    },
+    {
+      "time": 51.44,
+      "time_str": "00:51.440",
+      "text": "微笑面对危险",
+      "translation": null
+    },
+    {
+      "time": 54.02,
+      "time_str": "00:54.020",
+      "text": "梦想成真不会遥远",
+      "translation": null
+    },
+    {
+      "time": 56.71,
+      "time_str": "00:56.710",
+      "text": "鼓起勇气坚定向前",
+      "translation": null
+    },
+    {
+      "time": 60.11,
+      "time_str": "01:00.110",
+      "text": "奇迹一定会出现",
+      "translation": null
+    },
+    {
+      "time": 76.06,
+      "time_str": "01:16.060",
+      "text": "就像阳光穿过黑夜",
+      "translation": null
+    },
+    {
+      "time": 79.1,
+      "time_str": "01:19.100",
+      "text": "黎明悄悄划过天边",
+      "translation": null
+    },
+    {
+      "time": 81.99,
+      "time_str": "01:21.990",
+      "text": "谁的身影穿梭轮回间",
+      "translation": null
+    },
+    {
+      "time": 88.02,
+      "time_str": "01:28.020",
+      "text": "未来的路就在脚下",
+      "translation": null
+    },
+    {
+      "time": 90.97,
+      "time_str": "01:30.970",
+      "text": "不要悲伤不要害怕",
+      "translation": null
+    },
+    {
+      "time": 94.0,
+      "time_str": "01:34.000",
+      "text": "充满信心期盼着明天",
+      "translation": null
+    },
+    {
+      "time": 99.24,
+      "time_str": "01:39.240",
+      "text": "新的风暴已经出现",
+      "translation": null
+    },
+    {
+      "time": 102.13,
+      "time_str": "01:42.130",
+      "text": "怎么能够停滞不前",
+      "translation": null
+    },
+    {
+      "time": 104.77,
+      "time_str": "01:44.770",
+      "text": "穿越时空竭尽全力",
+      "translation": null
+    },
+    {
+      "time": 108.01,
+      "time_str": "01:48.010",
+      "text": "我会来到你身边",
+      "translation": null
+    },
+    {
+      "time": 111.55,
+      "time_str": "01:51.550",
+      "text": "微笑面对危险",
+      "translation": null
+    },
+    {
+      "time": 114.09,
+      "time_str": "01:54.090",
+      "text": "梦想成真不会遥远",
+      "translation": null
+    },
+    {
+      "time": 116.78,
+      "time_str": "01:56.780",
+      "text": "鼓起勇气坚定向前",
+      "translation": null
+    },
+    {
+      "time": 120.12,
+      "time_str": "02:00.120",
+      "text": "奇迹一定会出现",
+      "translation": null
+    },
+    {
+      "time": 171.33,
+      "time_str": "02:51.330",
+      "text": "新的风暴已经出现",
+      "translation": null
+    },
+    {
+      "time": 174.22,
+      "time_str": "02:54.220",
+      "text": "怎么能够停滞不前",
+      "translation": null
+    },
+    {
+      "time": 176.77,
+      "time_str": "02:56.770",
+      "text": "穿越时空竭尽全力",
+      "translation": null
+    },
+    {
+      "time": 180.2,
+      "time_str": "03:00.200",
+      "text": "我会来到你身边",
+      "translation": null
+    },
+    {
+      "time": 183.65,
+      "time_str": "03:03.650",
+      "text": "微笑面对危险",
+      "translation": null
+    },
+    {
+      "time": 186.09,
+      "time_str": "03:06.090",
+      "text": "梦想成真不会遥远",
+      "translation": null
+    },
+    {
+      "time": 188.77,
+      "time_str": "03:08.770",
+      "text": "鼓起勇气坚定向前",
+      "translation": null
+    },
+    {
+      "time": 192.17,
+      "time_str": "03:12.170",
+      "text": "奇迹一定会出现",
+      "translation": null
+    },
+    {
+      "time": 195.3,
+      "time_str": "03:15.300",
+      "text": "新的风暴已经出现",
+      "translation": null
+    },
+    {
+      "time": 198.19,
+      "time_str": "03:18.190",
+      "text": "怎么能够停滞不前",
+      "translation": null
+    },
+    {
+      "time": 200.77,
+      "time_str": "03:20.770",
+      "text": "穿越时空竭尽全力",
+      "translation": null
+    },
+    {
+      "time": 203.96,
+      "time_str": "03:23.960",
+      "text": "我会来到你身边",
+      "translation": null
+    },
+    {
+      "time": 207.55,
+      "time_str": "03:27.550",
+      "text": "微笑面对危险",
+      "translation": null
+    },
+    {
+      "time": 210.1,
+      "time_str": "03:30.100",
+      "text": "梦想成真不会遥远",
+      "translation": null
+    },
+    {
+      "time": 212.79,
+      "time_str": "03:32.790",
+      "text": "鼓起勇气坚定向前",
+      "translation": null
+    },
+    {
+      "time": 216.18,
+      "time_str": "03:36.180",
+      "text": "奇迹一定会出现",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "奇迹再现 - 毛华锋.lrc"
+}

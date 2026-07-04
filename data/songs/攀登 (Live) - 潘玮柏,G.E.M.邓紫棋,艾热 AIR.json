@@ -1,0 +1,874 @@
+{
+  "title": "攀登",
+  "title_raw": "攀登 (Live)",
+  "version": "Live",
+  "artist": "潘玮柏,G.E.M.邓紫棋,艾热 AIR",
+  "group_key": "攀登|潘玮柏,g.e.m.邓紫棋,艾热 air",
+  "writers": {
+    "lyricist": "Guy Berryman/Jonny Buckland/Will Champion/Chris Martin",
+    "composer": "Chris Martin/Guy Berryman/Jonny Buckland/Marcos Tovar/Mikkel S.Eriksen/Scott Zant/Tor Erik Hermansen/Venor Yard/Will Champion",
+    "arranger": "赫连长泓"
+  },
+  "lyrics": [
+    {
+      "time": 3.33,
+      "time_str": "00:03.330",
+      "text": "Rap作词 : 潘玮柏/G.E.M.邓紫棋/艾热 AIR",
+      "translation": null
+    },
+    {
+      "time": 4.16,
+      "time_str": "00:04.160",
+      "text": "音乐总监 : 刘洲",
+      "translation": null
+    },
+    {
+      "time": 4.99,
+      "time_str": "00:04.990",
+      "text": "定位制作人 : 刘洲",
+      "translation": null
+    },
+    {
+      "time": 5.83,
+      "time_str": "00:05.830",
+      "text": "中文填词 : G.E.M.邓紫棋",
+      "translation": null
+    },
+    {
+      "time": 7.5,
+      "time_str": "00:07.500",
+      "text": "改编歌曲：《Hymn For The Weekend》",
+      "translation": null
+    },
+    {
+      "time": 8.6,
+      "time_str": "00:08.600",
+      "text": "原唱：Coldplay",
+      "translation": null
+    },
+    {
+      "time": 9.7,
+      "time_str": "00:09.700",
+      "text": "原词曲：Martin, Christopher Anthony John /Berryman, Guy Rupert /Buckland, Jonathan Mark/Champion, William/Eriksen, Mikkel Storleer /Hermansen, Tor Erik/Tovar, Marcos Jesus / Yard, Venor Timothy / Zant, Scott Alan",
+      "translation": null
+    },
+    {
+      "time": 10.8,
+      "time_str": "00:10.800",
+      "text": "改编歌曲词曲版权代理：环球音乐出版有限公司(Universal Music Publishing Ltd.)",
+      "translation": null
+    },
+    {
+      "time": 11.9,
+      "time_str": "00:11.900",
+      "text": "百代音乐版权代理（北京）有限公司",
+      "translation": null
+    },
+    {
+      "time": 12.0,
+      "time_str": "00:12.000",
+      "text": "北京盛海传音文化传播有限公司",
+      "translation": null
+    },
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "有时候我会问自己",
+      "translation": null
+    },
+    {
+      "time": 19.17,
+      "time_str": "00:19.170",
+      "text": "到底为了什么努力",
+      "translation": null
+    },
+    {
+      "time": 24.86,
+      "time_str": "00:24.860",
+      "text": "赢得什么才叫胜利",
+      "translation": null
+    },
+    {
+      "time": 30.04,
+      "time_str": "00:30.040",
+      "text": "你曾否问自己",
+      "translation": null
+    },
+    {
+      "time": 36.13,
+      "time_str": "00:36.130",
+      "text": "我们明白很多时候",
+      "translation": null
+    },
+    {
+      "time": 37.45,
+      "time_str": "00:37.450",
+      "text": "当你醒来渴望自由",
+      "translation": null
+    },
+    {
+      "time": 38.86,
+      "time_str": "00:38.860",
+      "text": "但现实总变质",
+      "translation": null
+    },
+    {
+      "time": 40.17,
+      "time_str": "00:40.170",
+      "text": "并不是你想要的样子",
+      "translation": null
+    },
+    {
+      "time": 41.53,
+      "time_str": "00:41.530",
+      "text": "有人在逆境中蜕变",
+      "translation": null
+    },
+    {
+      "time": 42.67,
+      "time_str": "00:42.670",
+      "text": "想在机遇中兑现",
+      "translation": null
+    },
+    {
+      "time": 44.03,
+      "time_str": "00:44.030",
+      "text": "说过的承诺",
+      "translation": null
+    },
+    {
+      "time": 44.71,
+      "time_str": "00:44.710",
+      "text": "更多时候",
+      "translation": null
+    },
+    {
+      "time": 45.36,
+      "time_str": "00:45.360",
+      "text": "都被打磨成碎片",
+      "translation": null
+    },
+    {
+      "time": 46.79,
+      "time_str": "00:46.790",
+      "text": "是因为生活要继续",
+      "translation": null
+    },
+    {
+      "time": 48.12,
+      "time_str": "00:48.120",
+      "text": "想振作 获得惊喜",
+      "translation": null
+    },
+    {
+      "time": 49.5,
+      "time_str": "00:49.500",
+      "text": "要更多 要心意",
+      "translation": null
+    },
+    {
+      "time": 50.82,
+      "time_str": "00:50.820",
+      "text": "更精细 更尽力",
+      "translation": null
+    },
+    {
+      "time": 52.18,
+      "time_str": "00:52.180",
+      "text": "让经历跟新意",
+      "translation": null
+    },
+    {
+      "time": 53.59,
+      "time_str": "00:53.590",
+      "text": "更亲密 更凝聚",
+      "translation": null
+    },
+    {
+      "time": 54.84,
+      "time_str": "00:54.840",
+      "text": "这就是我想要的",
+      "translation": null
+    },
+    {
+      "time": 56.23,
+      "time_str": "00:56.230",
+      "text": "我想要我能被铭记",
+      "translation": null
+    },
+    {
+      "time": 58.0,
+      "time_str": "00:58.000",
+      "text": "想忘记那些",
+      "translation": null
+    },
+    {
+      "time": 58.94,
+      "time_str": "00:58.940",
+      "text": "华丽的浮夸的装点",
+      "translation": null
+    },
+    {
+      "time": 60.45,
+      "time_str": "01:00.450",
+      "text": "滑稽的实话里",
+      "translation": null
+    },
+    {
+      "time": 61.29,
+      "time_str": "01:01.290",
+      "text": "藏着谎话却又很庄严",
+      "translation": null
+    },
+    {
+      "time": 63.17,
+      "time_str": "01:03.170",
+      "text": "Do what I do (做我想做的)",
+      "translation": null
+    },
+    {
+      "time": 64.45,
+      "time_str": "01:04.450",
+      "text": "是因为不想停止迈步",
+      "translation": null
+    },
+    {
+      "time": 65.66,
+      "time_str": "01:05.660",
+      "text": "不是不在乎",
+      "translation": null
+    },
+    {
+      "time": 66.93,
+      "time_str": "01:06.930",
+      "text": "而是我害怕心思败露",
+      "translation": null
+    },
+    {
+      "time": 68.51,
+      "time_str": "01:08.510",
+      "text": "世界的面积",
+      "translation": null
+    },
+    {
+      "time": 69.36,
+      "time_str": "01:09.360",
+      "text": "可能大到让人抵触",
+      "translation": null
+    },
+    {
+      "time": 70.77,
+      "time_str": "01:10.770",
+      "text": "但时间的延续",
+      "translation": null
+    },
+    {
+      "time": 71.92,
+      "time_str": "01:11.920",
+      "text": "就是你最大的礼物",
+      "translation": null
+    },
+    {
+      "time": 73.52,
+      "time_str": "01:13.520",
+      "text": "别畏惧",
+      "translation": null
+    },
+    {
+      "time": 74.18,
+      "time_str": "01:14.180",
+      "text": "像是暴露你某个意图",
+      "translation": null
+    },
+    {
+      "time": 76.21,
+      "time_str": "01:16.210",
+      "text": "让阳光彻底照着你",
+      "translation": null
+    },
+    {
+      "time": 77.68,
+      "time_str": "01:17.680",
+      "text": "每寸皮肤",
+      "translation": null
+    },
+    {
+      "time": 78.87,
+      "time_str": "01:18.870",
+      "text": "I pray for myself(为我自己祈祷)",
+      "translation": null
+    },
+    {
+      "time": 80.14,
+      "time_str": "01:20.140",
+      "text": "I pray for my hood(为我的队友们祈祷)",
+      "translation": null
+    },
+    {
+      "time": 81.43,
+      "time_str": "01:21.430",
+      "text": "真理藏在心里",
+      "translation": null
+    },
+    {
+      "time": 82.81,
+      "time_str": "01:22.810",
+      "text": "Keep real for my world(在我的世界里保持绝对的真实)",
+      "translation": null
+    },
+    {
+      "time": 84.18,
+      "time_str": "01:24.180",
+      "text": "我为我自己买单",
+      "translation": null
+    },
+    {
+      "time": 85.4,
+      "time_str": "01:25.400",
+      "text": "不会逃脱而是负责",
+      "translation": null
+    },
+    {
+      "time": 86.9,
+      "time_str": "01:26.900",
+      "text": "我自己对抗灾难",
+      "translation": null
+    },
+    {
+      "time": 88.09,
+      "time_str": "01:28.090",
+      "text": "哪怕超过我的负荷",
+      "translation": null
+    },
+    {
+      "time": 89.6,
+      "time_str": "01:29.600",
+      "text": "You feel me(感受我的心声)",
+      "translation": null
+    },
+    {
+      "time": 89.75,
+      "time_str": "01:29.750",
+      "text": "Oh I oh I",
+      "translation": null
+    },
+    {
+      "time": 93.0,
+      "time_str": "01:33.000",
+      "text": "Got me feeling drunk and high(让我如此沉醉)",
+      "translation": null
+    },
+    {
+      "time": 96.2,
+      "time_str": "01:36.200",
+      "text": "So high so high(兴致高昂)",
+      "translation": null
+    },
+    {
+      "time": 100.63,
+      "time_str": "01:40.630",
+      "text": "Oh I oh I",
+      "translation": null
+    },
+    {
+      "time": 104.1,
+      "time_str": "01:44.100",
+      "text": "Got me feeling drunk and high(让我如此沉醉)",
+      "translation": null
+    },
+    {
+      "time": 106.62,
+      "time_str": "01:46.620",
+      "text": "So high so high(兴致高昂)",
+      "translation": null
+    },
+    {
+      "time": 110.36,
+      "time_str": "01:50.360",
+      "text": "我曾经如此随和",
+      "translation": null
+    },
+    {
+      "time": 111.55,
+      "time_str": "01:51.550",
+      "text": "跟着世界的规则",
+      "translation": null
+    },
+    {
+      "time": 112.88,
+      "time_str": "01:52.880",
+      "text": "他们说什么就什么",
+      "translation": null
+    },
+    {
+      "time": 114.61,
+      "time_str": "01:54.610",
+      "text": "听着话 心却是灰色",
+      "translation": null
+    },
+    {
+      "time": 116.17,
+      "time_str": "01:56.170",
+      "text": "沉睡着",
+      "translation": null
+    },
+    {
+      "time": 116.95,
+      "time_str": "01:56.950",
+      "text": "多努力追上",
+      "translation": null
+    },
+    {
+      "time": 117.85,
+      "time_str": "01:57.850",
+      "text": "社会太看重的荣耀",
+      "translation": null
+    },
+    {
+      "time": 119.19,
+      "time_str": "01:59.190",
+      "text": "我逐一对抗",
+      "translation": null
+    },
+    {
+      "time": 120.49,
+      "time_str": "02:00.490",
+      "text": "恶鬼在煽动的控告",
+      "translation": null
+    },
+    {
+      "time": 122.02,
+      "time_str": "02:02.020",
+      "text": "根本都不重要",
+      "translation": null
+    },
+    {
+      "time": 122.88,
+      "time_str": "02:02.880",
+      "text": "理想再崇高",
+      "translation": null
+    },
+    {
+      "time": 123.92,
+      "time_str": "02:03.920",
+      "text": "每当我动摇",
+      "translation": null
+    },
+    {
+      "time": 124.84,
+      "time_str": "02:04.840",
+      "text": "撑着我是一个拥抱",
+      "translation": null
+    },
+    {
+      "time": 126.22,
+      "time_str": "02:06.220",
+      "text": "我的忠告 别覆辙重蹈",
+      "translation": null
+    },
+    {
+      "time": 128.17,
+      "time_str": "02:08.170",
+      "text": "一切的功劳",
+      "translation": null
+    },
+    {
+      "time": 129.24,
+      "time_str": "02:09.240",
+      "text": "来自我爱的 爱着我的",
+      "translation": null
+    },
+    {
+      "time": 130.74,
+      "time_str": "02:10.740",
+      "text": "身边每一个珍贵的容貌",
+      "translation": null
+    },
+    {
+      "time": 132.94,
+      "time_str": "02:12.940",
+      "text": "Yo shout out to 2Pac(用这首歌向说唱歌手致敬)",
+      "translation": null
+    },
+    {
+      "time": 135.53,
+      "time_str": "02:15.530",
+      "text": "Put your hands up(举起你们的双手)",
+      "translation": null
+    },
+    {
+      "time": 136.94,
+      "time_str": "02:16.940",
+      "text": "So just bounce(就尽情地释放吧)",
+      "translation": null
+    },
+    {
+      "time": 138.45,
+      "time_str": "02:18.450",
+      "text": "If you feel me(如果你听懂这首歌的话)",
+      "translation": null
+    },
+    {
+      "time": 138.74,
+      "time_str": "02:18.740",
+      "text": "不要放肆 学着感激",
+      "translation": null
+    },
+    {
+      "time": 140.05,
+      "time_str": "02:20.050",
+      "text": "像个壮士 勇往向前去",
+      "translation": null
+    },
+    {
+      "time": 141.56,
+      "time_str": "02:21.560",
+      "text": "伤势再痛不要放弃",
+      "translation": null
+    },
+    {
+      "time": 142.96,
+      "time_str": "02:22.960",
+      "text": "拼死拼活地追求",
+      "translation": null
+    },
+    {
+      "time": 144.31,
+      "time_str": "02:24.310",
+      "text": "到底为了什么意义",
+      "translation": null
+    },
+    {
+      "time": 145.73,
+      "time_str": "02:25.730",
+      "text": "不就是为了成为你口中的",
+      "translation": null
+    },
+    {
+      "time": 147.6,
+      "time_str": "02:27.600",
+      "text": "Favorite MC(最佳说唱歌手)",
+      "translation": null
+    },
+    {
+      "time": 148.66,
+      "time_str": "02:28.660",
+      "text": "他要spit game on fire(火力全开)",
+      "translation": null
+    },
+    {
+      "time": 149.88,
+      "time_str": "02:29.880",
+      "text": "他要带你们higher(更好的体验)",
+      "translation": null
+    },
+    {
+      "time": 151.42,
+      "time_str": "02:31.420",
+      "text": "他要证明说唱文化",
+      "translation": null
+    },
+    {
+      "time": 152.61,
+      "time_str": "02:32.610",
+      "text": "本身就是个爷们儿",
+      "translation": null
+    },
+    {
+      "time": 154.27,
+      "time_str": "02:34.270",
+      "text": "我觉得现在可以好好入睡",
+      "translation": null
+    },
+    {
+      "time": 156.93,
+      "time_str": "02:36.930",
+      "text": "因为世界都是",
+      "translation": null
+    },
+    {
+      "time": 158.13,
+      "time_str": "02:38.130",
+      "text": "Hip-Hop(说唱音乐)词汇",
+      "translation": null
+    },
+    {
+      "time": 159.32,
+      "time_str": "02:39.320",
+      "text": "Never thought (从未想过)",
+      "translation": null
+    },
+    {
+      "time": 160.06,
+      "time_str": "02:40.060",
+      "text": "I be in position to do this  (我能够参与其中)",
+      "translation": null
+    },
+    {
+      "time": 161.31,
+      "time_str": "02:41.310",
+      "text": "It all started (一切都开始来自)",
+      "translation": null
+    },
+    {
+      "time": 162.18,
+      "time_str": "02:42.180",
+      "text": "When Pac nation chanted(他的歌)",
+      "translation": null
+    },
+    {
+      "time": 163.44,
+      "time_str": "02:43.440",
+      "text": "《How do you want It》(歌名)",
+      "translation": null
+    },
+    {
+      "time": 164.0,
+      "time_str": "02:44.000",
+      "text": "I keep it old school（我保持着传统的说唱风格)",
+      "translation": null
+    },
+    {
+      "time": 165.3,
+      "time_str": "02:45.300",
+      "text": "With some Pac imitation(模仿着)",
+      "translation": null
+    },
+    {
+      "time": 166.73,
+      "time_str": "02:46.730",
+      "text": "West side till I die(西海岸的终点)",
+      "translation": null
+    },
+    {
+      "time": 167.94,
+      "time_str": "02:47.940",
+      "text": "You love it no hesitation(爱他的人不会有一丝犹豫)",
+      "translation": null
+    },
+    {
+      "time": 169.73,
+      "time_str": "02:49.730",
+      "text": "Dear mama (亲爱的母亲)",
+      "translation": null
+    },
+    {
+      "time": 170.3,
+      "time_str": "02:50.300",
+      "text": "不要哭我永远在你身边",
+      "translation": null
+    },
+    {
+      "time": 171.73,
+      "time_str": "02:51.730",
+      "text": "别在乎世界怎么看我",
+      "translation": null
+    },
+    {
+      "time": 173.32,
+      "time_str": "02:53.320",
+      "text": "对我多少偏见",
+      "translation": null
+    },
+    {
+      "time": 174.54,
+      "time_str": "02:54.540",
+      "text": "今天忍气吞声",
+      "translation": null
+    },
+    {
+      "time": 175.74,
+      "time_str": "02:55.740",
+      "text": "为了要更好的明天",
+      "translation": null
+    },
+    {
+      "time": 177.26,
+      "time_str": "02:57.260",
+      "text": "我们说的唱的",
+      "translation": null
+    },
+    {
+      "time": 178.44,
+      "time_str": "02:58.440",
+      "text": "坚持的全都会实现",
+      "translation": null
+    },
+    {
+      "time": 179.9,
+      "time_str": "02:59.900",
+      "text": "So I pray for my loved ones(为我爱的人祈祷)",
+      "translation": null
+    },
+    {
+      "time": 181.43,
+      "time_str": "03:01.430",
+      "text": "And I pray for the warriors(也为所有的勇士们祈祷)",
+      "translation": null
+    },
+    {
+      "time": 182.76,
+      "time_str": "03:02.760",
+      "text": "I pray for the go-getters (为所有的能者志士祈祷)",
+      "translation": null
+    },
+    {
+      "time": 184.14,
+      "time_str": "03:04.140",
+      "text": "And I pray for the naysayers(也为那些唾弃我的人们祈祷)",
+      "translation": null
+    },
+    {
+      "time": 185.48,
+      "time_str": "03:05.480",
+      "text": "Lord please let me(请允许我)",
+      "translation": null
+    },
+    {
+      "time": 186.86,
+      "time_str": "03:06.860",
+      "text": "See another day(坚持下去)",
+      "translation": null
+    },
+    {
+      "time": 187.94,
+      "time_str": "03:07.940",
+      "text": "浴火凤凰展开双翼",
+      "translation": null
+    },
+    {
+      "time": 189.49,
+      "time_str": "03:09.490",
+      "text": "We will see that day let go(我们必将看到那终点)",
+      "translation": null
+    },
+    {
+      "time": 190.71,
+      "time_str": "03:10.710",
+      "text": "Oh I oh I",
+      "translation": null
+    },
+    {
+      "time": 194.74,
+      "time_str": "03:14.740",
+      "text": "Got me feeling drunk and high(让我如此沉醉)",
+      "translation": null
+    },
+    {
+      "time": 197.27,
+      "time_str": "03:17.270",
+      "text": "So high so high(兴致高昂)",
+      "translation": null
+    },
+    {
+      "time": 201.91,
+      "time_str": "03:21.910",
+      "text": "Oh I oh I",
+      "translation": null
+    },
+    {
+      "time": 205.35,
+      "time_str": "03:25.350",
+      "text": "Got me feeling drunk and high(让我如此沉醉)",
+      "translation": null
+    },
+    {
+      "time": 207.95,
+      "time_str": "03:27.950",
+      "text": "So high so high(兴致高昂)",
+      "translation": null
+    },
+    {
+      "time": 212.12,
+      "time_str": "03:32.120",
+      "text": "Oh I oh I",
+      "translation": null
+    },
+    {
+      "time": 215.96,
+      "time_str": "03:35.960",
+      "text": "Got me feeling drunk and high(让我如此沉醉)",
+      "translation": null
+    },
+    {
+      "time": 218.72,
+      "time_str": "03:38.720",
+      "text": "So high so high(兴致高昂)",
+      "translation": null
+    },
+    {
+      "time": 222.71,
+      "time_str": "03:42.710",
+      "text": "Oh I",
+      "translation": null
+    },
+    {
+      "time": 226.7,
+      "time_str": "03:46.700",
+      "text": "Got me feeling drunk and high(让我如此沉醉)",
+      "translation": null
+    },
+    {
+      "time": 229.3,
+      "time_str": "03:49.300",
+      "text": "So high so high(兴致高昂)",
+      "translation": null
+    },
+    {
+      "time": 234.74,
+      "time_str": "03:54.740",
+      "text": "你觉得我会在意么",
+      "translation": null
+    },
+    {
+      "time": 237.37,
+      "time_str": "03:57.370",
+      "text": "你给的质疑",
+      "translation": null
+    },
+    {
+      "time": 238.61,
+      "time_str": "03:58.610",
+      "text": "你觉得我会猜疑么",
+      "translation": null
+    },
+    {
+      "time": 240.06,
+      "time_str": "04:00.060",
+      "text": "只相信自己",
+      "translation": null
+    },
+    {
+      "time": 241.4,
+      "time_str": "04:01.400",
+      "text": "用音乐转换季节",
+      "translation": null
+    },
+    {
+      "time": 242.66,
+      "time_str": "04:02.660",
+      "text": "所以不会再畏惧冬天",
+      "translation": null
+    },
+    {
+      "time": 244.54,
+      "time_str": "04:04.540",
+      "text": "中文Hip-Hop(说唱音乐)有版图",
+      "translation": null
+    },
+    {
+      "time": 246.62,
+      "time_str": "04:06.620",
+      "text": "我会在最中间",
+      "translation": null
+    },
+    {
+      "time": 248.18,
+      "time_str": "04:08.180",
+      "text": "Yeah you feel me(用心感受我想说的)",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "攀登 (Live) - 潘玮柏,G.E.M.邓紫棋,艾热 AIR.lrc"
+}

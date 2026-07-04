@@ -1,0 +1,166 @@
+{
+  "title": "Nevada",
+  "title_raw": "Nevada",
+  "version": null,
+  "artist": "Vicetone,Cozi Zuehlsdorff",
+  "group_key": "nevada|vicetone,cozi zuehlsdorff",
+  "writers": {
+    "lyricist": "Cozi Zuehlsdorff/Ruben den Boer /Victor Pool",
+    "composer": "Vicetone",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.01,
+      "time_str": "00:19.010",
+      "text": "I’ve been painting every fence I know",
+      "translation": "我涂画出我所知的每一处险阻"
+    },
+    {
+      "time": 22.76,
+      "time_str": "00:22.760",
+      "text": "Every color bleeds into the same",
+      "translation": "层叠的颜色或许已经模糊"
+    },
+    {
+      "time": 26.64,
+      "time_str": "00:26.640",
+      "text": "Cause before you go and walk away",
+      "translation": "因为你即将踏上征途"
+    },
+    {
+      "time": 30.42,
+      "time_str": "00:30.420",
+      "text": "Yeah, you'd better know where you’re going",
+      "translation": "你最好知道你要去往何处"
+    },
+    {
+      "time": 33.41,
+      "time_str": "00:33.410",
+      "text": "Hey ya, hey ya",
+      "translation": null
+    },
+    {
+      "time": 38.28,
+      "time_str": "00:38.280",
+      "text": "You’re a wanderer just like me",
+      "translation": "你就像我一样是个流浪者"
+    },
+    {
+      "time": 41.03,
+      "time_str": "00:41.030",
+      "text": "Hey ya, hey ya",
+      "translation": null
+    },
+    {
+      "time": 46.06,
+      "time_str": "00:46.060",
+      "text": "Yeah, you'd better know where you’re going",
+      "translation": "你最好知道哪里是你的归宿"
+    },
+    {
+      "time": 80.87,
+      "time_str": "01:20.870",
+      "text": "I’ve been painting every fence I know",
+      "translation": "我涂画出我所知的每一处险阻"
+    },
+    {
+      "time": 85.53,
+      "time_str": "01:25.530",
+      "text": "Every color bleeds into the same",
+      "translation": "层叠的颜色或许已经模糊"
+    },
+    {
+      "time": 88.86,
+      "time_str": "01:28.860",
+      "text": "'Cause before you go and walk away",
+      "translation": "因为你即将踏上征途"
+    },
+    {
+      "time": 92.3,
+      "time_str": "01:32.300",
+      "text": "Yeah, you'd better know where you’re going",
+      "translation": "你最好知道你要去往何处"
+    },
+    {
+      "time": 95.46,
+      "time_str": "01:35.460",
+      "text": "Hey ya, hey ya",
+      "translation": null
+    },
+    {
+      "time": 100.19,
+      "time_str": "01:40.190",
+      "text": "You’re a wanderer just like me",
+      "translation": "你就像我一样是个流浪者"
+    },
+    {
+      "time": 103.18,
+      "time_str": "01:43.180",
+      "text": "Hey ya, hey ya",
+      "translation": null
+    },
+    {
+      "time": 107.89,
+      "time_str": "01:47.890",
+      "text": "Yeah, you'd better know where you’re going",
+      "translation": "你最好知道哪里是你的归宿"
+    },
+    {
+      "time": 126.44,
+      "time_str": "02:06.440",
+      "text": "Hey ya, hey ya",
+      "translation": null
+    },
+    {
+      "time": 131.33,
+      "time_str": "02:11.330",
+      "text": "You’re a wanderer just like me",
+      "translation": "你就像我一样无依无助"
+    },
+    {
+      "time": 134.07,
+      "time_str": "02:14.070",
+      "text": "Hey ya, hey ya",
+      "translation": null
+    },
+    {
+      "time": 139.05,
+      "time_str": "02:19.050",
+      "text": "Yeah, you'd better know where you’re going",
+      "translation": "所以你最好知道你要去往何处"
+    },
+    {
+      "time": 154.82,
+      "time_str": "02:34.820",
+      "text": "Yeah, you'd better know where you’re going",
+      "translation": "你最好知道你要去往何处"
+    },
+    {
+      "time": 170.06,
+      "time_str": "02:50.060",
+      "text": "Yeah, you'd better know where you’re going",
+      "translation": "你最好知道哪里是你的归宿"
+    },
+    {
+      "time": 177.91,
+      "time_str": "02:57.910",
+      "text": "You’re a wanderer just like me",
+      "translation": "你就像我一样是个流浪者"
+    },
+    {
+      "time": 185.67,
+      "time_str": "03:05.670",
+      "text": "Yeah, you'd better know where you’re going",
+      "translation": "你最好知道哪里是你的归宿"
+    },
+    {
+      "time": 193.32,
+      "time_str": "03:13.320",
+      "text": "You’re a wanderer just like me",
+      "translation": "因为你与我一样无依无助"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Nevada - Vicetone,Cozi Zuehlsdorff.lrc"
+}

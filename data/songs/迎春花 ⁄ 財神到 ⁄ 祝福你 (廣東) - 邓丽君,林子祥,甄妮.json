@@ -1,0 +1,388 @@
+{
+  "title": "迎春花 ⁄ 財神到 ⁄ 祝福你",
+  "title_raw": "迎春花 ⁄ 財神到 ⁄ 祝福你 (廣東)",
+  "version": "廣東",
+  "artist": "邓丽君,林子祥,甄妮",
+  "group_key": "迎春花 ⁄ 財神到 ⁄ 祝福你|邓丽君,林子祥,甄妮",
+  "writers": {
+    "lyricist": "rr",
+    "composer": "rr",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.4,
+      "time_str": "00:15.400",
+      "text": "好一朵迎春花 人人都爱它",
+      "translation": null
+    },
+    {
+      "time": 21.45,
+      "time_str": "00:21.450",
+      "text": "好一朵迎春花 迎来大地放光华",
+      "translation": null
+    },
+    {
+      "time": 28.86,
+      "time_str": "00:28.860",
+      "text": "好一朵迎春花 花开每一家",
+      "translation": null
+    },
+    {
+      "time": 35.17,
+      "time_str": "00:35.170",
+      "text": "好一朵迎春花 茂盛艳丽春色雅",
+      "translation": null
+    },
+    {
+      "time": 42.48,
+      "time_str": "00:42.480",
+      "text": "迎春花开 带来了好年华",
+      "translation": null
+    },
+    {
+      "time": 49.85,
+      "time_str": "00:49.850",
+      "text": "迎春花艳 倍觉景致如画",
+      "translation": null
+    },
+    {
+      "time": 56.18,
+      "time_str": "00:56.180",
+      "text": "花开富贵 人尽畅怀",
+      "translation": null
+    },
+    {
+      "time": 63.49,
+      "time_str": "01:03.490",
+      "text": "万事胜意 无牵挂",
+      "translation": null
+    },
+    {
+      "time": 70.0,
+      "time_str": "01:10.000",
+      "text": "好一朵迎春花 谁人不爱它",
+      "translation": null
+    },
+    {
+      "time": 76.33,
+      "time_str": "01:16.330",
+      "text": "好一朵迎春花 迎来大地绣彩霞",
+      "translation": null
+    },
+    {
+      "time": 83.57,
+      "time_str": "01:23.570",
+      "text": "插起那迎春花 芬芳播千家",
+      "translation": null
+    },
+    {
+      "time": 90.86,
+      "time_str": "01:30.860",
+      "text": "插起那迎春花 人人齐共欢乐哈",
+      "translation": null
+    },
+    {
+      "time": 97.44,
+      "time_str": "01:37.440",
+      "text": "财神到",
+      "translation": null
+    },
+    {
+      "time": 108.31,
+      "time_str": "01:48.310",
+      "text": "财神到 财神到 好心得好报",
+      "translation": null
+    },
+    {
+      "time": 110.0,
+      "time_str": "01:50.000",
+      "text": "财神话 财神话 揾钱依正路",
+      "translation": null
+    },
+    {
+      "time": 113.55,
+      "time_str": "01:53.550",
+      "text": "财神到 财神到 好走快两步",
+      "translation": null
+    },
+    {
+      "time": 117.33,
+      "time_str": "01:57.330",
+      "text": "得到佢睇起你 你有前途",
+      "translation": null
+    },
+    {
+      "time": 120.42,
+      "time_str": "02:00.420",
+      "text": "阖府庆新岁喜气盈盈",
+      "translation": null
+    },
+    {
+      "time": 123.87,
+      "time_str": "02:03.870",
+      "text": "齐贺你多福荫壮健强劲",
+      "translation": null
+    },
+    {
+      "time": 127.49,
+      "time_str": "02:07.490",
+      "text": "又祝你今年庆获荣升",
+      "translation": null
+    },
+    {
+      "time": 131.67,
+      "time_str": "02:11.670",
+      "text": "朝晚多多欢笑锦绣前程",
+      "translation": null
+    },
+    {
+      "time": 134.95,
+      "time_str": "02:14.950",
+      "text": "愿夫妇恩爱体贴入微",
+      "translation": null
+    },
+    {
+      "time": 137.86,
+      "time_str": "02:17.860",
+      "text": "成日有吉星照百事无忌",
+      "translation": null
+    },
+    {
+      "time": 141.25,
+      "time_str": "02:21.250",
+      "text": "共亲友相见说话投机",
+      "translation": null
+    },
+    {
+      "time": 144.82,
+      "time_str": "02:24.820",
+      "text": "充满新春喜气欢畅扬眉",
+      "translation": null
+    },
+    {
+      "time": 148.31,
+      "time_str": "02:28.310",
+      "text": "财神到 财神到 好心得好报",
+      "translation": null
+    },
+    {
+      "time": 151.0,
+      "time_str": "02:31.000",
+      "text": "财神话 财神话 揾钱依正路",
+      "translation": null
+    },
+    {
+      "time": 151.7,
+      "time_str": "02:31.700",
+      "text": "啦……",
+      "translation": null
+    },
+    {
+      "time": 154.55,
+      "time_str": "02:34.550",
+      "text": "财神到 财神到 好走快两步",
+      "translation": null
+    },
+    {
+      "time": 158.33,
+      "time_str": "02:38.330",
+      "text": "得到佢睇起你 你有前途",
+      "translation": null
+    },
+    {
+      "time": 168.56,
+      "time_str": "02:48.560",
+      "text": "财神到 财神到 好走快两步",
+      "translation": null
+    },
+    {
+      "time": 172.26,
+      "time_str": "02:52.260",
+      "text": "得到佢睇起你 你有前途",
+      "translation": null
+    },
+    {
+      "time": 175.88,
+      "time_str": "02:55.880",
+      "text": "贺所有鸳侣花结并头（结并头）",
+      "translation": null
+    },
+    {
+      "time": 178.95,
+      "time_str": "02:58.950",
+      "text": "还望各位工友百业成就（有成就）",
+      "translation": null
+    },
+    {
+      "time": 182.22,
+      "time_str": "03:02.220",
+      "text": "大家无无争斗快乐无忧（乐无忧）",
+      "translation": null
+    },
+    {
+      "time": 186.1,
+      "time_str": "03:06.100",
+      "text": "听只歌轻松下抛却恨愁",
+      "translation": null
+    },
+    {
+      "time": 189.76,
+      "time_str": "03:09.760",
+      "text": "财神到 财神到 好心得好报",
+      "translation": null
+    },
+    {
+      "time": 192.45,
+      "time_str": "03:12.450",
+      "text": "财神话 财神话 揾钱依正路",
+      "translation": null
+    },
+    {
+      "time": 196.0,
+      "time_str": "03:16.000",
+      "text": "财神到 财神到 好走快两步",
+      "translation": null
+    },
+    {
+      "time": 199.73,
+      "time_str": "03:19.730",
+      "text": "得到佢睇起你 你有前途",
+      "translation": null
+    },
+    {
+      "time": 202.7,
+      "time_str": "03:22.700",
+      "text": "啦……",
+      "translation": null
+    },
+    {
+      "time": 209.9,
+      "time_str": "03:29.900",
+      "text": "财神到 财神到 好走快两步",
+      "translation": null
+    },
+    {
+      "time": 213.55,
+      "time_str": "03:33.550",
+      "text": "得到佢睇起你 你有前途",
+      "translation": null
+    },
+    {
+      "time": 231.0,
+      "time_str": "03:51.000",
+      "text": "祝福你 在每一天里 永远多采多姿",
+      "translation": null
+    },
+    {
+      "time": 238.12,
+      "time_str": "03:58.120",
+      "text": "心坎中 聚满百般好 长存百般美",
+      "translation": null
+    },
+    {
+      "time": 245.22,
+      "time_str": "04:05.220",
+      "text": "祝福你 在你一生里 永远充满欢喜",
+      "translation": null
+    },
+    {
+      "time": 251.53,
+      "time_str": "04:11.530",
+      "text": "好开心 共你好知己 时时笑开眉",
+      "translation": null
+    },
+    {
+      "time": 258.84,
+      "time_str": "04:18.840",
+      "text": "春风为你吹开满山花 秋月伴你天空万里飞",
+      "translation": null
+    },
+    {
+      "time": 265.36,
+      "time_str": "04:25.360",
+      "text": "让夏夜灿烂渗进美梦 冬天冰霜不至",
+      "translation": null
+    },
+    {
+      "time": 272.15,
+      "time_str": "04:32.150",
+      "text": "祝福你 遂你冲天志 百尺竿头高起",
+      "translation": null
+    },
+    {
+      "time": 279.08,
+      "time_str": "04:39.080",
+      "text": "一生中 愿你每一天 时时笑开眉",
+      "translation": null
+    },
+    {
+      "time": 286.25,
+      "time_str": "04:46.250",
+      "text": "衷心祝福你 永远祝福你 达到真善美",
+      "translation": null
+    },
+    {
+      "time": 306.47,
+      "time_str": "05:06.470",
+      "text": "祝福你 在每一天里 永远多采多姿",
+      "translation": null
+    },
+    {
+      "time": 313.55,
+      "time_str": "05:13.550",
+      "text": "心坎中 聚满百般好 长存百般美",
+      "translation": null
+    },
+    {
+      "time": 320.23,
+      "time_str": "05:20.230",
+      "text": "祝福你 在你一生里 永远充满欢喜",
+      "translation": null
+    },
+    {
+      "time": 327.16,
+      "time_str": "05:27.160",
+      "text": "好开心 共你好知己 时时笑开眉",
+      "translation": null
+    },
+    {
+      "time": 333.88,
+      "time_str": "05:33.880",
+      "text": "春风为你吹开满山花 秋月伴你天空万里飞",
+      "translation": null
+    },
+    {
+      "time": 340.95,
+      "time_str": "05:40.950",
+      "text": "让夏夜灿烂渗进美梦 冬天冰霜不至",
+      "translation": null
+    },
+    {
+      "time": 347.78,
+      "time_str": "05:47.780",
+      "text": "祝福你 遂你冲天志 百尺竿头高起",
+      "translation": null
+    },
+    {
+      "time": 354.08,
+      "time_str": "05:54.080",
+      "text": "一生中 愿你每一天 时时笑开眉",
+      "translation": null
+    },
+    {
+      "time": 361.22,
+      "time_str": "06:01.220",
+      "text": "衷心祝福你 永远祝福你 达到真善美",
+      "translation": null
+    },
+    {
+      "time": 368.83,
+      "time_str": "06:08.830",
+      "text": "衷心祝福你 永远祝福你 达到真善美",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "迎春花 ⁄ 財神到 ⁄ 祝福你 (廣東) - 邓丽君,林子祥,甄妮.lrc"
+}

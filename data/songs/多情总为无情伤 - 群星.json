@@ -1,0 +1,256 @@
+{
+  "title": "多情总为无情伤",
+  "title_raw": "多情总为无情伤",
+  "version": null,
+  "artist": "群星",
+  "group_key": "多情总为无情伤|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 53.87,
+      "time_str": "00:53.870",
+      "text": "我的眼里有漫天风沙",
+      "translation": null
+    },
+    {
+      "time": 58.16,
+      "time_str": "00:58.160",
+      "text": "我的心不为谁溶化",
+      "translation": null
+    },
+    {
+      "time": 62.41,
+      "time_str": "01:02.410",
+      "text": "我的泪洒遍沙漠不开花",
+      "translation": null
+    },
+    {
+      "time": 67.6,
+      "time_str": "01:07.600",
+      "text": "不愿为你牵挂",
+      "translation": null
+    },
+    {
+      "time": 75.25,
+      "time_str": "01:15.250",
+      "text": "给爱流浪的人一个家",
+      "translation": null
+    },
+    {
+      "time": 79.35,
+      "time_str": "01:19.350",
+      "text": "送给孤独的人真心话",
+      "translation": null
+    },
+    {
+      "time": 83.65,
+      "time_str": "01:23.650",
+      "text": "经过这些年你还想我吗",
+      "translation": null
+    },
+    {
+      "time": 88.95,
+      "time_str": "01:28.950",
+      "text": "其实也不必回答",
+      "translation": null
+    },
+    {
+      "time": 96.28,
+      "time_str": "01:36.280",
+      "text": "多情的人总因为无情伤心",
+      "translation": null
+    },
+    {
+      "time": 100.72,
+      "time_str": "01:40.720",
+      "text": "又何苦执着谁对谁最真心",
+      "translation": null
+    },
+    {
+      "time": 105.12,
+      "time_str": "01:45.120",
+      "text": "风沙千年都吹不停",
+      "translation": null
+    },
+    {
+      "time": 109.24,
+      "time_str": "01:49.240",
+      "text": "掩住我滴滴泪的眼睛",
+      "translation": null
+    },
+    {
+      "time": 113.57,
+      "time_str": "01:53.570",
+      "text": "多情的人总因为无情伤心",
+      "translation": null
+    },
+    {
+      "time": 117.72,
+      "time_str": "01:57.720",
+      "text": "别问我今生何时才会梦醒",
+      "translation": null
+    },
+    {
+      "time": 122.14,
+      "time_str": "02:02.140",
+      "text": "风沙千年都吹不停",
+      "translation": null
+    },
+    {
+      "time": 126.44,
+      "time_str": "02:06.440",
+      "text": "深深地埋藏着我一生的爱情",
+      "translation": null
+    },
+    {
+      "time": 171.67,
+      "time_str": "02:51.670",
+      "text": "我的眼里有漫天风沙",
+      "translation": null
+    },
+    {
+      "time": 175.92,
+      "time_str": "02:55.920",
+      "text": "我的心不为谁溶化",
+      "translation": null
+    },
+    {
+      "time": 180.03,
+      "time_str": "03:00.030",
+      "text": "我的泪洒遍沙漠不开花",
+      "translation": null
+    },
+    {
+      "time": 185.49,
+      "time_str": "03:05.490",
+      "text": "不愿为你牵挂",
+      "translation": null
+    },
+    {
+      "time": 192.92,
+      "time_str": "03:12.920",
+      "text": "给爱流浪的人一个家",
+      "translation": null
+    },
+    {
+      "time": 197.18,
+      "time_str": "03:17.180",
+      "text": "送给孤独的人真心话",
+      "translation": null
+    },
+    {
+      "time": 201.45,
+      "time_str": "03:21.450",
+      "text": "经过这些年你还想我吗",
+      "translation": null
+    },
+    {
+      "time": 206.77,
+      "time_str": "03:26.770",
+      "text": "其实也不必回答",
+      "translation": null
+    },
+    {
+      "time": 214.19,
+      "time_str": "03:34.190",
+      "text": "多情的人总因为无情伤心",
+      "translation": null
+    },
+    {
+      "time": 218.48,
+      "time_str": "03:38.480",
+      "text": "又何苦执着谁对谁最真心",
+      "translation": null
+    },
+    {
+      "time": 222.85,
+      "time_str": "03:42.850",
+      "text": "风沙千年都吹不停",
+      "translation": null
+    },
+    {
+      "time": 227.24,
+      "time_str": "03:47.240",
+      "text": "掩住我滴滴泪的眼睛",
+      "translation": null
+    },
+    {
+      "time": 231.33,
+      "time_str": "03:51.330",
+      "text": "多情的人总因为无情伤心",
+      "translation": null
+    },
+    {
+      "time": 235.0,
+      "time_str": "03:55.000",
+      "text": "别问我今生何时才会梦醒",
+      "translation": null
+    },
+    {
+      "time": 240.11,
+      "time_str": "04:00.110",
+      "text": "风沙千年都吹不停",
+      "translation": null
+    },
+    {
+      "time": 244.36,
+      "time_str": "04:04.360",
+      "text": "深深地埋藏着我一生的爱情",
+      "translation": null
+    },
+    {
+      "time": 252.67,
+      "time_str": "04:12.670",
+      "text": "多情的人总因为无情伤心",
+      "translation": null
+    },
+    {
+      "time": 257.04,
+      "time_str": "04:17.040",
+      "text": "又何苦执着谁对谁最真心",
+      "translation": null
+    },
+    {
+      "time": 261.5,
+      "time_str": "04:21.500",
+      "text": "风沙千年都吹不停",
+      "translation": null
+    },
+    {
+      "time": 265.65,
+      "time_str": "04:25.650",
+      "text": "掩住我滴滴泪的眼睛",
+      "translation": null
+    },
+    {
+      "time": 269.83,
+      "time_str": "04:29.830",
+      "text": "多情的人总因为无情伤心",
+      "translation": null
+    },
+    {
+      "time": 274.09,
+      "time_str": "04:34.090",
+      "text": "别问我今生何时才会梦醒",
+      "translation": null
+    },
+    {
+      "time": 278.63,
+      "time_str": "04:38.630",
+      "text": "风沙千年都吹不停",
+      "translation": null
+    },
+    {
+      "time": 282.88,
+      "time_str": "04:42.880",
+      "text": "深深地埋藏着我一生的爱情",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "多情总为无情伤 - 群星.lrc"
+}

@@ -1,0 +1,292 @@
+{
+  "title": "三国杀",
+  "title_raw": "三国杀",
+  "version": null,
+  "artist": "汪苏泷",
+  "group_key": "三国杀|汪苏泷",
+  "writers": {
+    "lyricist": "汪苏泷",
+    "composer": "汪苏泷",
+    "arranger": "汪苏泷"
+  },
+  "lyrics": [
+    {
+      "time": 24.51,
+      "time_str": "00:24.510",
+      "text": "羽扇纶巾笑谈间",
+      "translation": null
+    },
+    {
+      "time": 26.87,
+      "time_str": "00:26.870",
+      "text": "千军万马我无懈",
+      "translation": null
+    },
+    {
+      "time": 30.729,
+      "time_str": "00:30.729",
+      "text": "伪面君子三尺剑",
+      "translation": null
+    },
+    {
+      "time": 33.679,
+      "time_str": "00:33.679",
+      "text": "狼火烽烟我敷衍",
+      "translation": null
+    },
+    {
+      "time": 37.539,
+      "time_str": "00:37.539",
+      "text": "生于乱世行不言",
+      "translation": null
+    },
+    {
+      "time": 41.19,
+      "time_str": "00:41.190",
+      "text": "功过不求谁来鉴",
+      "translation": null
+    },
+    {
+      "time": 43.499,
+      "time_str": "00:43.499",
+      "text": "灯为谁点 脂为谁添",
+      "translation": null
+    },
+    {
+      "time": 46.499,
+      "time_str": "00:46.499",
+      "text": "任谁来笑我太疯癫",
+      "translation": null
+    },
+    {
+      "time": 49.809,
+      "time_str": "00:49.809",
+      "text": "雨一直下 风一直刮",
+      "translation": null
+    },
+    {
+      "time": 54.2,
+      "time_str": "00:54.200",
+      "text": "谁与我煮酒论天下",
+      "translation": null
+    },
+    {
+      "time": 56.769,
+      "time_str": "00:56.769",
+      "text": "万箭齐发 杀气如麻",
+      "translation": null
+    },
+    {
+      "time": 60.299,
+      "time_str": "01:00.299",
+      "text": "谁忍我乱世中安家",
+      "translation": null
+    },
+    {
+      "time": 63.478,
+      "time_str": "01:03.478",
+      "text": "三分天下 为谁争霸",
+      "translation": null
+    },
+    {
+      "time": 66.839,
+      "time_str": "01:06.839",
+      "text": "如今我已剑指天涯",
+      "translation": null
+    },
+    {
+      "time": 70.459,
+      "time_str": "01:10.459",
+      "text": "却只想为你抚琴",
+      "translation": null
+    },
+    {
+      "time": 74.2,
+      "time_str": "01:14.200",
+      "text": "从此无牵挂",
+      "translation": null
+    },
+    {
+      "time": 106.279,
+      "time_str": "01:46.279",
+      "text": "羽扇纶巾笑谈间",
+      "translation": null
+    },
+    {
+      "time": 109.89,
+      "time_str": "01:49.890",
+      "text": "千军万马我无懈",
+      "translation": null
+    },
+    {
+      "time": 112.909,
+      "time_str": "01:52.909",
+      "text": "伪面君子三尺剑",
+      "translation": null
+    },
+    {
+      "time": 115.909,
+      "time_str": "01:55.909",
+      "text": "狼火烽烟我敷衍",
+      "translation": null
+    },
+    {
+      "time": 119.729,
+      "time_str": "01:59.729",
+      "text": "生于乱世行不言",
+      "translation": null
+    },
+    {
+      "time": 122.829,
+      "time_str": "02:02.829",
+      "text": "功过不求谁来鉴",
+      "translation": null
+    },
+    {
+      "time": 126.189,
+      "time_str": "02:06.189",
+      "text": "灯为谁点 脂为谁添",
+      "translation": null
+    },
+    {
+      "time": 128.739,
+      "time_str": "02:08.739",
+      "text": "任谁来笑我太疯癫",
+      "translation": null
+    },
+    {
+      "time": 132.599,
+      "time_str": "02:12.599",
+      "text": "雨一直下 风一直刮",
+      "translation": null
+    },
+    {
+      "time": 135.46,
+      "time_str": "02:15.460",
+      "text": "谁与我煮酒论天下",
+      "translation": null
+    },
+    {
+      "time": 138.97,
+      "time_str": "02:18.970",
+      "text": "万箭齐发 杀气如麻",
+      "translation": null
+    },
+    {
+      "time": 142.59,
+      "time_str": "02:22.590",
+      "text": "谁忍我乱世中安家",
+      "translation": null
+    },
+    {
+      "time": 145.69,
+      "time_str": "02:25.690",
+      "text": "三分天下 为谁争霸",
+      "translation": null
+    },
+    {
+      "time": 149.099,
+      "time_str": "02:29.099",
+      "text": "如今我已剑指天涯",
+      "translation": null
+    },
+    {
+      "time": 152.699,
+      "time_str": "02:32.699",
+      "text": "却只想为你抚琴",
+      "translation": null
+    },
+    {
+      "time": 155.67,
+      "time_str": "02:35.670",
+      "text": "从此无牵挂",
+      "translation": null
+    },
+    {
+      "time": 161.19,
+      "time_str": "02:41.190",
+      "text": "漫天恩恩怨怨的变化",
+      "translation": null
+    },
+    {
+      "time": 163.849,
+      "time_str": "02:43.849",
+      "text": "谁为我泡壶热茶",
+      "translation": null
+    },
+    {
+      "time": 167.699,
+      "time_str": "02:47.699",
+      "text": "你为他断了指甲",
+      "translation": null
+    },
+    {
+      "time": 168.909,
+      "time_str": "02:48.909",
+      "text": "换不回他一句牵挂",
+      "translation": null
+    },
+    {
+      "time": 171.72,
+      "time_str": "02:51.720",
+      "text": "雨一直下 风一直刮",
+      "translation": null
+    },
+    {
+      "time": 176.579,
+      "time_str": "02:56.579",
+      "text": "谁与我煮酒论天下",
+      "translation": null
+    },
+    {
+      "time": 180.5,
+      "time_str": "03:00.500",
+      "text": "万箭齐发 杀气如麻",
+      "translation": null
+    },
+    {
+      "time": 183.5,
+      "time_str": "03:03.500",
+      "text": "谁忍我乱世中安家",
+      "translation": null
+    },
+    {
+      "time": 186.909,
+      "time_str": "03:06.909",
+      "text": "三分天下 为谁争霸",
+      "translation": null
+    },
+    {
+      "time": 190.699,
+      "time_str": "03:10.699",
+      "text": "如今我已剑指天涯",
+      "translation": null
+    },
+    {
+      "time": 193.72,
+      "time_str": "03:13.720",
+      "text": "却只想为你抚琴",
+      "translation": null
+    },
+    {
+      "time": 196.78,
+      "time_str": "03:16.780",
+      "text": "从此无牵挂",
+      "translation": null
+    },
+    {
+      "time": 200.849,
+      "time_str": "03:20.849",
+      "text": "原来我一生戎马",
+      "translation": null
+    },
+    {
+      "time": 204.199,
+      "time_str": "03:24.199",
+      "text": "三国为你杀",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "三国杀 - 汪苏泷.lrc"
+}

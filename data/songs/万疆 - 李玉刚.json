@@ -1,0 +1,274 @@
+{
+  "title": "万疆",
+  "title_raw": "万疆",
+  "version": null,
+  "artist": "李玉刚",
+  "group_key": "万疆|李玉刚",
+  "writers": {
+    "lyricist": "李姝",
+    "composer": "刘颜嘉",
+    "arranger": "陈嘉伟@行人Studio"
+  },
+  "lyrics": [
+    {
+      "time": 4.2,
+      "time_str": "00:04.200",
+      "text": "红日升在东方 其大道满霞光",
+      "translation": null
+    },
+    {
+      "time": 11.22,
+      "time_str": "00:11.220",
+      "text": "我何其幸 生于你怀 承一脉血流淌",
+      "translation": null
+    },
+    {
+      "time": 18.49,
+      "time_str": "00:18.490",
+      "text": "难同当 福共享 挺立起了脊梁",
+      "translation": null
+    },
+    {
+      "time": 26.01,
+      "time_str": "00:26.010",
+      "text": "吾国万疆 以仁爱 千年不灭的信仰",
+      "translation": null
+    },
+    {
+      "time": 43.8,
+      "time_str": "00:43.800",
+      "text": "写苍天只写一角日与月悠长",
+      "translation": null
+    },
+    {
+      "time": 50.82,
+      "time_str": "00:50.820",
+      "text": "画大地只画一隅山与河无恙",
+      "translation": null
+    },
+    {
+      "time": 58.09,
+      "time_str": "00:58.090",
+      "text": "观万古上下五千年天地共仰",
+      "translation": null
+    },
+    {
+      "time": 65.11,
+      "time_str": "01:05.110",
+      "text": "唯炎黄 心坦荡 一身到四方",
+      "translation": null
+    },
+    {
+      "time": 74.13,
+      "time_str": "01:14.130",
+      "text": "抚流光一砖一瓦岁月浸红墙",
+      "translation": null
+    },
+    {
+      "time": 81.15,
+      "time_str": "01:21.150",
+      "text": "叹枯荣一花一木悲喜经沧桑",
+      "translation": null
+    },
+    {
+      "time": 88.41,
+      "time_str": "01:28.410",
+      "text": "横八荒九州一色心中的故乡",
+      "translation": null
+    },
+    {
+      "time": 95.68,
+      "time_str": "01:35.680",
+      "text": "唯华夏 崭锋芒 道路在盛放",
+      "translation": null
+    },
+    {
+      "time": 104.46,
+      "time_str": "01:44.460",
+      "text": "红日升在东方 其大道满霞光",
+      "translation": null
+    },
+    {
+      "time": 111.73,
+      "time_str": "01:51.730",
+      "text": "我何其幸 生于你怀 承一脉血流淌",
+      "translation": null
+    },
+    {
+      "time": 118.74,
+      "time_str": "01:58.740",
+      "text": "难同当 福共享 挺立起了脊梁",
+      "translation": null
+    },
+    {
+      "time": 126.01,
+      "time_str": "02:06.010",
+      "text": "吾国万疆 以仁爱 千年不灭的信仰",
+      "translation": null
+    },
+    {
+      "time": 140.54,
+      "time_str": "02:20.540",
+      "text": "抚流光一砖一瓦岁月浸红墙",
+      "translation": null
+    },
+    {
+      "time": 147.56,
+      "time_str": "02:27.560",
+      "text": "叹枯荣一花一木悲喜经沧桑",
+      "translation": null
+    },
+    {
+      "time": 154.83,
+      "time_str": "02:34.830",
+      "text": "横八荒九州一色心中的故乡",
+      "translation": null
+    },
+    {
+      "time": 161.85,
+      "time_str": "02:41.850",
+      "text": "唯华夏 崭锋芒 道路在盛放",
+      "translation": null
+    },
+    {
+      "time": 170.87,
+      "time_str": "02:50.870",
+      "text": "红日升在东方 其大道满霞光",
+      "translation": null
+    },
+    {
+      "time": 177.89,
+      "time_str": "02:57.890",
+      "text": "我何其幸 生于你怀 承一脉血流淌",
+      "translation": null
+    },
+    {
+      "time": 185.16,
+      "time_str": "03:05.160",
+      "text": "难同当 福共享 挺立起了脊梁",
+      "translation": null
+    },
+    {
+      "time": 192.18,
+      "time_str": "03:12.180",
+      "text": "吾国万疆 以仁爱 千年不灭的信仰",
+      "translation": null
+    },
+    {
+      "time": 203.46,
+      "time_str": "03:23.460",
+      "text": "红日升在东方 其大道满霞光",
+      "translation": null
+    },
+    {
+      "time": 230.09,
+      "time_str": "03:50.090",
+      "text": "贝斯 : 张步鸿",
+      "translation": null
+    },
+    {
+      "time": 230.3,
+      "time_str": "03:50.300",
+      "text": "笛子 : 丁晓逵",
+      "translation": null
+    },
+    {
+      "time": 230.52,
+      "time_str": "03:50.520",
+      "text": "琵琶 : 孙莹",
+      "translation": null
+    },
+    {
+      "time": 230.74,
+      "time_str": "03:50.740",
+      "text": "弦乐编写 : 张步鸿",
+      "translation": null
+    },
+    {
+      "time": 230.95,
+      "time_str": "03:50.950",
+      "text": "弦乐团 : 国际首席爱乐乐团",
+      "translation": null
+    },
+    {
+      "time": 231.17,
+      "time_str": "03:51.170",
+      "text": "弦乐录音监制 : 李朋",
+      "translation": null
+    },
+    {
+      "time": 231.39,
+      "time_str": "03:51.390",
+      "text": "童声合唱编写 : 陈嘉伟",
+      "translation": null
+    },
+    {
+      "time": 231.61,
+      "time_str": "03:51.610",
+      "text": "童声合唱团 : 深空少年合唱团",
+      "translation": null
+    },
+    {
+      "time": 231.82,
+      "time_str": "03:51.820",
+      "text": "童声独唱 : 谭尚儿",
+      "translation": null
+    },
+    {
+      "time": 232.69,
+      "time_str": "03:52.690",
+      "text": "母带 : 章谋杰@行人Studio",
+      "translation": null
+    },
+    {
+      "time": 233.12,
+      "time_str": "03:53.120",
+      "text": "音乐项目总监 : 宫尹琳Rainie/李微微",
+      "translation": null
+    },
+    {
+      "time": 233.34,
+      "time_str": "03:53.340",
+      "text": "发行人 : 周文惠",
+      "translation": null
+    },
+    {
+      "time": 233.56,
+      "time_str": "03:53.560",
+      "text": "总企划 : 陈钰彬/黄嘉雯Wenasa/李明/马琳璇/温沛霖/王壮",
+      "translation": null
+    },
+    {
+      "time": 233.78,
+      "time_str": "03:53.780",
+      "text": "美工 : 李桐",
+      "translation": null
+    },
+    {
+      "time": 233.99,
+      "time_str": "03:53.990",
+      "text": "总统筹 : 蔡安丽",
+      "translation": null
+    },
+    {
+      "time": 234.21,
+      "time_str": "03:54.210",
+      "text": "出品人 : 王春风@玉泽东方/@银河方舟",
+      "translation": null
+    },
+    {
+      "time": 234.43,
+      "time_str": "03:54.430",
+      "text": "企划营销 : 热客工作室Hot Cake Studio x 玉泽东方",
+      "translation": null
+    },
+    {
+      "time": 234.64,
+      "time_str": "03:54.640",
+      "text": "音乐出品 : 玉泽东方/银河方舟StarNation",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "万疆 - 李玉刚.lrc"
+}

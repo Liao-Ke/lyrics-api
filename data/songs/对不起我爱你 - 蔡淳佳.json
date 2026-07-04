@@ -1,0 +1,400 @@
+{
+  "title": "对不起我爱你",
+  "title_raw": "对不起我爱你",
+  "version": null,
+  "artist": "蔡淳佳",
+  "group_key": "对不起我爱你|蔡淳佳",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.97,
+      "time_str": "00:13.970",
+      "text": "你空出一双手",
+      "translation": null
+    },
+    {
+      "time": 17.09,
+      "time_str": "00:17.090",
+      "text": "穿过黑夜握住我",
+      "translation": null
+    },
+    {
+      "time": 20.47,
+      "time_str": "00:20.470",
+      "text": "两个人的手心里有",
+      "translation": null
+    },
+    {
+      "time": 23.84,
+      "time_str": "00:23.840",
+      "text": "一整片宽阔的天空",
+      "translation": null
+    },
+    {
+      "time": 27.15,
+      "time_str": "00:27.150",
+      "text": "谁都没有开口",
+      "translation": null
+    },
+    {
+      "time": 30.41,
+      "time_str": "00:30.410",
+      "text": "星星也忘了闪烁",
+      "translation": null
+    },
+    {
+      "time": 33.84,
+      "time_str": "00:33.840",
+      "text": "有你陪着我就可以",
+      "translation": null
+    },
+    {
+      "time": 37.03,
+      "time_str": "00:37.030",
+      "text": "走到天涯的尽头",
+      "translation": null
+    },
+    {
+      "time": 41.78,
+      "time_str": "00:41.780",
+      "text": "那时候还记得那时候",
+      "translation": null
+    },
+    {
+      "time": 48.34,
+      "time_str": "00:48.340",
+      "text": "从手心传过来的温柔",
+      "translation": null
+    },
+    {
+      "time": 54.97,
+      "time_str": "00:54.970",
+      "text": "如果说只能活这一天",
+      "translation": null
+    },
+    {
+      "time": 60.34,
+      "time_str": "01:00.340",
+      "text": "曾经与你深深相爱",
+      "translation": null
+    },
+    {
+      "time": 64.97,
+      "time_str": "01:04.970",
+      "text": "我已没有遗憾",
+      "translation": null
+    },
+    {
+      "time": 68.53,
+      "time_str": "01:08.530",
+      "text": "我用回忆温暖了",
+      "translation": null
+    },
+    {
+      "time": 71.34,
+      "time_str": "01:11.340",
+      "text": "想你的每一刻",
+      "translation": null
+    },
+    {
+      "time": 74.53,
+      "time_str": "01:14.530",
+      "text": "不让你离我太遥远",
+      "translation": null
+    },
+    {
+      "time": 78.47,
+      "time_str": "01:18.470",
+      "text": "走在这个适合拥抱的季节",
+      "translation": null
+    },
+    {
+      "time": 82.47,
+      "time_str": "01:22.470",
+      "text": "爱在心里所以我不可怜",
+      "translation": null
+    },
+    {
+      "time": 86.03,
+      "time_str": "01:26.030",
+      "text": "回忆温暖了想你的每一刻",
+      "translation": null
+    },
+    {
+      "time": 91.09,
+      "time_str": "01:31.090",
+      "text": "紧紧抱着你说过的誓言",
+      "translation": null
+    },
+    {
+      "time": 95.09,
+      "time_str": "01:35.090",
+      "text": "等待着我们说好的永远",
+      "translation": null
+    },
+    {
+      "time": 112.46,
+      "time_str": "01:52.460",
+      "text": "并肩的两个人",
+      "translation": null
+    },
+    {
+      "time": 115.47,
+      "time_str": "01:55.470",
+      "text": "在银白色的街头",
+      "translation": null
+    },
+    {
+      "time": 118.97,
+      "time_str": "01:58.970",
+      "text": "印下的脚印还一直",
+      "translation": null
+    },
+    {
+      "time": 122.16,
+      "time_str": "02:02.160",
+      "text": "在我的心里往前走",
+      "translation": null
+    },
+    {
+      "time": 125.53,
+      "time_str": "02:05.530",
+      "text": "从爱的第一秒",
+      "translation": null
+    },
+    {
+      "time": 128.61,
+      "time_str": "02:08.610",
+      "text": "直到最后一分钟",
+      "translation": null
+    },
+    {
+      "time": 132.3,
+      "time_str": "02:12.300",
+      "text": "我对我们之间没有",
+      "translation": null
+    },
+    {
+      "time": 135.42,
+      "time_str": "02:15.420",
+      "text": "任何后悔的理由",
+      "translation": null
+    },
+    {
+      "time": 140.55,
+      "time_str": "02:20.550",
+      "text": "那时候还记得那时候",
+      "translation": null
+    },
+    {
+      "time": 147.05,
+      "time_str": "02:27.050",
+      "text": "从手心传过来的温柔",
+      "translation": null
+    },
+    {
+      "time": 155.43,
+      "time_str": "02:35.430",
+      "text": "如果说只能活这一天",
+      "translation": null
+    },
+    {
+      "time": 160.49,
+      "time_str": "02:40.490",
+      "text": "曾经与你深深相爱",
+      "translation": null
+    },
+    {
+      "time": 165.05,
+      "time_str": "02:45.050",
+      "text": "我已没有遗憾",
+      "translation": null
+    },
+    {
+      "time": 168.62,
+      "time_str": "02:48.620",
+      "text": "我用回忆温暖了",
+      "translation": null
+    },
+    {
+      "time": 171.55,
+      "time_str": "02:51.550",
+      "text": "想你的每一刻",
+      "translation": null
+    },
+    {
+      "time": 174.55,
+      "time_str": "02:54.550",
+      "text": "不让你离我太遥远",
+      "translation": null
+    },
+    {
+      "time": 178.6,
+      "time_str": "02:58.600",
+      "text": "走在这个适合拥抱的季节",
+      "translation": null
+    },
+    {
+      "time": 182.6,
+      "time_str": "03:02.600",
+      "text": "爱在心里所以我不可怜",
+      "translation": null
+    },
+    {
+      "time": 186.03,
+      "time_str": "03:06.030",
+      "text": "回忆温暖了想你的每一刻",
+      "translation": null
+    },
+    {
+      "time": 191.48,
+      "time_str": "03:11.480",
+      "text": "紧紧抱着你说过的誓言",
+      "translation": null
+    },
+    {
+      "time": 195.29,
+      "time_str": "03:15.290",
+      "text": "等待着我们说好的永远",
+      "translation": null
+    },
+    {
+      "time": 202.66,
+      "time_str": "03:22.660",
+      "text": "当走过的路流过的泪",
+      "translation": null
+    },
+    {
+      "time": 206.1,
+      "time_str": "03:26.100",
+      "text": "被落叶掩没",
+      "translation": null
+    },
+    {
+      "time": 208.73,
+      "time_str": "03:28.730",
+      "text": "是你的温柔让我的心",
+      "translation": null
+    },
+    {
+      "time": 212.85,
+      "time_str": "03:32.850",
+      "text": "重新活过来",
+      "translation": null
+    },
+    {
+      "time": 215.29,
+      "time_str": "03:35.290",
+      "text": "就算相爱的人",
+      "translation": null
+    },
+    {
+      "time": 217.66,
+      "time_str": "03:37.660",
+      "text": "无论如何暂时要离开",
+      "translation": null
+    },
+    {
+      "time": 221.91,
+      "time_str": "03:41.910",
+      "text": "别问未来怎麽办",
+      "translation": null
+    },
+    {
+      "time": 224.85,
+      "time_str": "03:44.850",
+      "text": "我只需要等待",
+      "translation": null
+    },
+    {
+      "time": 232.11,
+      "time_str": "03:52.110",
+      "text": "我用回忆温暖了",
+      "translation": null
+    },
+    {
+      "time": 234.93,
+      "time_str": "03:54.930",
+      "text": "想你的每一刻",
+      "translation": null
+    },
+    {
+      "time": 237.93,
+      "time_str": "03:57.930",
+      "text": "不让你离我太遥远",
+      "translation": null
+    },
+    {
+      "time": 241.68,
+      "time_str": "04:01.680",
+      "text": "走在这个适合拥抱的季节",
+      "translation": null
+    },
+    {
+      "time": 245.8,
+      "time_str": "04:05.800",
+      "text": "爱在心里所以我不可怜",
+      "translation": null
+    },
+    {
+      "time": 249.37,
+      "time_str": "04:09.370",
+      "text": "回忆温暖了想你的每一刻",
+      "translation": null
+    },
+    {
+      "time": 254.62,
+      "time_str": "04:14.620",
+      "text": "不让你离我太遥远",
+      "translation": null
+    },
+    {
+      "time": 258.49,
+      "time_str": "04:18.490",
+      "text": "走在这个适合拥抱的季节",
+      "translation": null
+    },
+    {
+      "time": 262.62,
+      "time_str": "04:22.620",
+      "text": "爱在心里所以我不可怜",
+      "translation": null
+    },
+    {
+      "time": 266.24,
+      "time_str": "04:26.240",
+      "text": "回忆温暖了想你的每一刻",
+      "translation": null
+    },
+    {
+      "time": 271.18,
+      "time_str": "04:31.180",
+      "text": "把最后的合照摆在窗前",
+      "translation": null
+    },
+    {
+      "time": 275.18,
+      "time_str": "04:35.180",
+      "text": "想像着你也许跟我一样",
+      "translation": null
+    },
+    {
+      "time": 278.93,
+      "time_str": "04:38.930",
+      "text": "正在倒数再见的时间",
+      "translation": null
+    },
+    {
+      "time": 282.3,
+      "time_str": "04:42.300",
+      "text": "等着对我说好的永远",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "对不起我爱你 - 蔡淳佳.lrc"
+}

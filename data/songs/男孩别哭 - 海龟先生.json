@@ -1,0 +1,568 @@
+{
+  "title": "男孩别哭",
+  "title_raw": "男孩别哭",
+  "version": null,
+  "artist": "海龟先生",
+  "group_key": "男孩别哭|海龟先生",
+  "writers": {
+    "lyricist": "海龟先生",
+    "composer": "海龟先生",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.9,
+      "time_str": "00:02.900",
+      "text": "我跟你描述一个灵魂",
+      "translation": null
+    },
+    {
+      "time": 5.94,
+      "time_str": "00:05.940",
+      "text": "它拥有不谢的青春",
+      "translation": null
+    },
+    {
+      "time": 8.91,
+      "time_str": "00:08.910",
+      "text": "每当夜色降临",
+      "translation": null
+    },
+    {
+      "time": 11.13,
+      "time_str": "00:11.130",
+      "text": "就会轻轻歌唱",
+      "translation": null
+    },
+    {
+      "time": 13.54,
+      "time_str": "00:13.540",
+      "text": "它唱着一个新鲜的故事",
+      "translation": null
+    },
+    {
+      "time": 16.36,
+      "time_str": "00:16.360",
+      "text": "里面的人们相互微笑",
+      "translation": null
+    },
+    {
+      "time": 19.13,
+      "time_str": "00:19.130",
+      "text": "是不是每个夜晚都要这样",
+      "translation": null
+    },
+    {
+      "time": 21.5,
+      "time_str": "00:21.500",
+      "text": "为了爱",
+      "translation": null
+    },
+    {
+      "time": 23.07,
+      "time_str": "00:23.070",
+      "text": "去用清醒交换",
+      "translation": null
+    },
+    {
+      "time": 25.03,
+      "time_str": "00:25.030",
+      "text": "男孩别哭",
+      "translation": null
+    },
+    {
+      "time": 27.06,
+      "time_str": "00:27.060",
+      "text": "美丽世界的孤儿",
+      "translation": null
+    },
+    {
+      "time": 29.8,
+      "time_str": "00:29.800",
+      "text": "可我的心",
+      "translation": null
+    },
+    {
+      "time": 31.28,
+      "time_str": "00:31.280",
+      "text": "我的家",
+      "translation": null
+    },
+    {
+      "time": 32.93,
+      "time_str": "00:32.930",
+      "text": "在哪里",
+      "translation": null
+    },
+    {
+      "time": 34.38,
+      "time_str": "00:34.380",
+      "text": "在哪里呢我的朋友",
+      "translation": null
+    },
+    {
+      "time": 36.47,
+      "time_str": "00:36.470",
+      "text": "静静地听",
+      "translation": null
+    },
+    {
+      "time": 38.65,
+      "time_str": "00:38.650",
+      "text": "有个声音在说爱你",
+      "translation": null
+    },
+    {
+      "time": 41.57,
+      "time_str": "00:41.570",
+      "text": "闭上眼",
+      "translation": null
+    },
+    {
+      "time": 43.11,
+      "time_str": "00:43.110",
+      "text": "跟随她",
+      "translation": null
+    },
+    {
+      "time": 44.53,
+      "time_str": "00:44.530",
+      "text": "跟随她 就像跟着希望",
+      "translation": null
+    },
+    {
+      "time": 47.92,
+      "time_str": "00:47.920",
+      "text": "那些城市上空飘着一颗颗不安的心",
+      "translation": null
+    },
+    {
+      "time": 50.93,
+      "time_str": "00:50.930",
+      "text": "她一定也曾在这儿跳过欢快的舞蹈",
+      "translation": null
+    },
+    {
+      "time": 54.05,
+      "time_str": "00:54.050",
+      "text": "清风吹来让我感到一阵迷醉",
+      "translation": null
+    },
+    {
+      "time": 56.4,
+      "time_str": "00:56.400",
+      "text": "那婆娑的身影",
+      "translation": null
+    },
+    {
+      "time": 57.72,
+      "time_str": "00:57.720",
+      "text": "太阳般光洁",
+      "translation": null
+    },
+    {
+      "time": 59.34,
+      "time_str": "00:59.340",
+      "text": "那些男孩一次次地叫着寂寞妈妈",
+      "translation": null
+    },
+    {
+      "time": 62.06,
+      "time_str": "01:02.060",
+      "text": "爱是否能抚平他们内心的内心的伤痕",
+      "translation": null
+    },
+    {
+      "time": 66.33,
+      "time_str": "01:06.330",
+      "text": "孤独的人呐",
+      "translation": null
+    },
+    {
+      "time": 68.81,
+      "time_str": "01:08.810",
+      "text": "我带上你走",
+      "translation": null
+    },
+    {
+      "time": 70.6,
+      "time_str": "01:10.600",
+      "text": "boy boy boy isolation",
+      "translation": null
+    },
+    {
+      "time": 73.46,
+      "time_str": "01:13.460",
+      "text": "bye bye bye bye bye a one night stand",
+      "translation": null
+    },
+    {
+      "time": 76.9,
+      "time_str": "01:16.900",
+      "text": "Dance dance in nowhere",
+      "translation": null
+    },
+    {
+      "time": 78.94,
+      "time_str": "01:18.940",
+      "text": "Don't don't don't don't don't be afraid again",
+      "translation": null
+    },
+    {
+      "time": 81.86,
+      "time_str": "01:21.860",
+      "text": "boy boy boy isolation",
+      "translation": null
+    },
+    {
+      "time": 84.57,
+      "time_str": "01:24.570",
+      "text": "bye bye bye bye bye a one night stand",
+      "translation": null
+    },
+    {
+      "time": 87.33,
+      "time_str": "01:27.330",
+      "text": "Dance dance in nowhere",
+      "translation": null
+    },
+    {
+      "time": 90.15,
+      "time_str": "01:30.150",
+      "text": "Don't don't don't don't you don't don't don't be afraid",
+      "translation": null
+    },
+    {
+      "time": 115.81,
+      "time_str": "01:55.810",
+      "text": "我跟你描述一个灵魂",
+      "translation": null
+    },
+    {
+      "time": 118.54,
+      "time_str": "01:58.540",
+      "text": "它拥有不谢的青春",
+      "translation": null
+    },
+    {
+      "time": 121.45,
+      "time_str": "02:01.450",
+      "text": "每当夜色降临",
+      "translation": null
+    },
+    {
+      "time": 124.26,
+      "time_str": "02:04.260",
+      "text": "就会轻轻歌唱",
+      "translation": null
+    },
+    {
+      "time": 126.97,
+      "time_str": "02:06.970",
+      "text": "它唱着一个新鲜的故事",
+      "translation": null
+    },
+    {
+      "time": 130.02,
+      "time_str": "02:10.020",
+      "text": "里面的人们相互微笑",
+      "translation": null
+    },
+    {
+      "time": 132.95,
+      "time_str": "02:12.950",
+      "text": "是不是每个夜晚都要这样",
+      "translation": null
+    },
+    {
+      "time": 135.23,
+      "time_str": "02:15.230",
+      "text": "为了爱",
+      "translation": null
+    },
+    {
+      "time": 136.54,
+      "time_str": "02:16.540",
+      "text": "去用清醒交换",
+      "translation": null
+    },
+    {
+      "time": 138.4,
+      "time_str": "02:18.400",
+      "text": "男孩别哭",
+      "translation": null
+    },
+    {
+      "time": 140.58,
+      "time_str": "02:20.580",
+      "text": "美丽世界的孤儿",
+      "translation": null
+    },
+    {
+      "time": 143.19,
+      "time_str": "02:23.190",
+      "text": "可我的心",
+      "translation": null
+    },
+    {
+      "time": 144.56,
+      "time_str": "02:24.560",
+      "text": "我的家",
+      "translation": null
+    },
+    {
+      "time": 146.06,
+      "time_str": "02:26.060",
+      "text": "在哪里",
+      "translation": null
+    },
+    {
+      "time": 147.5,
+      "time_str": "02:27.500",
+      "text": "在哪里呢我的朋友",
+      "translation": null
+    },
+    {
+      "time": 149.6,
+      "time_str": "02:29.600",
+      "text": "静静地听",
+      "translation": null
+    },
+    {
+      "time": 151.72,
+      "time_str": "02:31.720",
+      "text": "有个声音在说爱你",
+      "translation": null
+    },
+    {
+      "time": 154.58,
+      "time_str": "02:34.580",
+      "text": "闭上眼",
+      "translation": null
+    },
+    {
+      "time": 155.92,
+      "time_str": "02:35.920",
+      "text": "跟随她",
+      "translation": null
+    },
+    {
+      "time": 157.33,
+      "time_str": "02:37.330",
+      "text": "跟随她 就像跟着希望",
+      "translation": null
+    },
+    {
+      "time": 160.98,
+      "time_str": "02:40.980",
+      "text": "那些城市上空飘着一颗颗不安的心",
+      "translation": null
+    },
+    {
+      "time": 164.02,
+      "time_str": "02:44.020",
+      "text": "她一定也曾在这儿跳过欢快的舞蹈",
+      "translation": null
+    },
+    {
+      "time": 166.73,
+      "time_str": "02:46.730",
+      "text": "清风吹来让我感到一阵迷醉",
+      "translation": null
+    },
+    {
+      "time": 169.24,
+      "time_str": "02:49.240",
+      "text": "那婆娑的身影",
+      "translation": null
+    },
+    {
+      "time": 170.48,
+      "time_str": "02:50.480",
+      "text": "太阳般光洁",
+      "translation": null
+    },
+    {
+      "time": 172.36,
+      "time_str": "02:52.360",
+      "text": "那些男孩一次次地叫着寂寞妈妈",
+      "translation": null
+    },
+    {
+      "time": 174.9,
+      "time_str": "02:54.900",
+      "text": "爱是否能抚平他们内心的内心的伤痕",
+      "translation": null
+    },
+    {
+      "time": 179.32,
+      "time_str": "02:59.320",
+      "text": "孤独的人啊",
+      "translation": null
+    },
+    {
+      "time": 181.99,
+      "time_str": "03:01.990",
+      "text": "我带上你走",
+      "translation": null
+    },
+    {
+      "time": 183.55,
+      "time_str": "03:03.550",
+      "text": "boy boy boy isolation",
+      "translation": null
+    },
+    {
+      "time": 186.31,
+      "time_str": "03:06.310",
+      "text": "bye bye bye bye bye a one night stand",
+      "translation": null
+    },
+    {
+      "time": 189.14,
+      "time_str": "03:09.140",
+      "text": "Dance dance in no way",
+      "translation": null
+    },
+    {
+      "time": 191.68,
+      "time_str": "03:11.680",
+      "text": "Don't don't don't don't don't be afraid again",
+      "translation": null
+    },
+    {
+      "time": 194.63,
+      "time_str": "03:14.630",
+      "text": "boy boy boy isolation",
+      "translation": null
+    },
+    {
+      "time": 197.75,
+      "time_str": "03:17.750",
+      "text": "bye bye bye bye bye a one night stand",
+      "translation": null
+    },
+    {
+      "time": 200.18,
+      "time_str": "03:20.180",
+      "text": "Dance dance  in no way",
+      "translation": null
+    },
+    {
+      "time": 203.15,
+      "time_str": "03:23.150",
+      "text": "Don't don't don't don't you don't don't don't be afraid",
+      "translation": null
+    },
+    {
+      "time": 228.89,
+      "time_str": "03:48.890",
+      "text": "这是一个放肆狂妄的年代",
+      "translation": null
+    },
+    {
+      "time": 231.35,
+      "time_str": "03:51.350",
+      "text": "我们的身体",
+      "translation": null
+    },
+    {
+      "time": 232.88,
+      "time_str": "03:52.880",
+      "text": "怎能时刻拥抱在一起",
+      "translation": null
+    },
+    {
+      "time": 235.3,
+      "time_str": "03:55.300",
+      "text": "去见证这样的爱情",
+      "translation": null
+    },
+    {
+      "time": 238.21,
+      "time_str": "03:58.210",
+      "text": "早已筋疲力尽",
+      "translation": null
+    },
+    {
+      "time": 240.21,
+      "time_str": "04:00.210",
+      "text": "你脸上尽管挂着深深的泪痕",
+      "translation": null
+    },
+    {
+      "time": 242.64,
+      "time_str": "04:02.640",
+      "text": "我的心 我的爱",
+      "translation": null
+    },
+    {
+      "time": 244.22,
+      "time_str": "04:04.220",
+      "text": "还是跟着梦想远走",
+      "translation": null
+    },
+    {
+      "time": 246.52,
+      "time_str": "04:06.520",
+      "text": "去寻找另一个生命",
+      "translation": null
+    },
+    {
+      "time": 249.55,
+      "time_str": "04:09.550",
+      "text": "它会带上我走",
+      "translation": null
+    },
+    {
+      "time": 251.32,
+      "time_str": "04:11.320",
+      "text": "boy boy boy isolation",
+      "translation": null
+    },
+    {
+      "time": 254.1,
+      "time_str": "04:14.100",
+      "text": "bye bye bye bye bye a one night stand",
+      "translation": null
+    },
+    {
+      "time": 257.35,
+      "time_str": "04:17.350",
+      "text": "Dance dance  in nowhere",
+      "translation": null
+    },
+    {
+      "time": 259.77,
+      "time_str": "04:19.770",
+      "text": "Don't don't don't don't don't be afraid again",
+      "translation": null
+    },
+    {
+      "time": 262.44,
+      "time_str": "04:22.440",
+      "text": "boy boy boy isolation",
+      "translation": null
+    },
+    {
+      "time": 265.45,
+      "time_str": "04:25.450",
+      "text": "bye bye bye bye bye a one night stand",
+      "translation": null
+    },
+    {
+      "time": 269.53,
+      "time_str": "04:29.530",
+      "text": "Dance dance  in nowhere",
+      "translation": null
+    },
+    {
+      "time": 271.04,
+      "time_str": "04:31.040",
+      "text": "Don't don't don't don't you don't don't don't be afraid",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "男孩别哭 - 海龟先生.lrc"
+}

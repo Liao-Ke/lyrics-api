@@ -1,0 +1,346 @@
+{
+  "title": "Viva La Vida",
+  "title_raw": "Viva La Vida",
+  "version": null,
+  "artist": "Coldplay",
+  "group_key": "viva la vida|coldplay",
+  "writers": {
+    "lyricist": "Chris Martin/Guy Berryman/Jonny Buckland/Will Champion",
+    "composer": "Chris Martin/Guy Berryman/Jonny Buckland/Will Champion",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.34,
+      "time_str": "00:13.340",
+      "text": "I used to rule the world",
+      "translation": "大千世界曾由我主宰"
+    },
+    {
+      "time": 17.08,
+      "time_str": "00:17.080",
+      "text": "Seas would rise when I gave the word",
+      "translation": "巨浪也曾因我之命澎湃"
+    },
+    {
+      "time": 19.72,
+      "time_str": "00:19.720",
+      "text": "Now in the morning I sleep alone",
+      "translation": "而今我却在黎明独自入眠"
+    },
+    {
+      "time": 23.84,
+      "time_str": "00:23.840",
+      "text": "Sweep the streets I used to own",
+      "translation": "在曾属于我的街道落寞徘徊"
+    },
+    {
+      "time": 41.27,
+      "time_str": "00:41.270",
+      "text": "I used to roll the dice",
+      "translation": "过去我常常孤注一掷"
+    },
+    {
+      "time": 44.8,
+      "time_str": "00:44.800",
+      "text": "Feel the fear in my enemy's eyes",
+      "translation": "尽情品味惊恐在死敌瞳孔绽开"
+    },
+    {
+      "time": 48.03,
+      "time_str": "00:48.030",
+      "text": "Listen as the crowd would sing:",
+      "translation": "欣然倾听百姓高歌喝彩"
+    },
+    {
+      "time": 51.84,
+      "time_str": "00:51.840",
+      "text": "\"Now the old king is dead! Long live the king!\"",
+      "translation": "“先王亡矣！”“新王万代！”"
+    },
+    {
+      "time": 55.05,
+      "time_str": "00:55.050",
+      "text": "One minute I held the key",
+      "translation": "曾经我手握权位经脉"
+    },
+    {
+      "time": 58.67,
+      "time_str": "00:58.670",
+      "text": "Next the walls were closed on me",
+      "translation": "如今才知宫墙深似海"
+    },
+    {
+      "time": 61.758,
+      "time_str": "01:01.758",
+      "text": "And I discovered that my castles stand",
+      "translation": "恍然发现我的城池"
+    },
+    {
+      "time": 65.659,
+      "time_str": "01:05.659",
+      "text": "Upon pillars of salt, pillars of sand",
+      "translation": "基底散如盐沙乱似尘埃"
+    },
+    {
+      "time": 69.537,
+      "time_str": "01:09.537",
+      "text": "I hear Jerusalem bells are ringing",
+      "translation": "听那钟声从耶路撒冷传来"
+    },
+    {
+      "time": 73.147,
+      "time_str": "01:13.147",
+      "text": "Roman Cavalry choirs are singing",
+      "translation": "罗马骑兵唱诗班的歌声震彻山海"
+    },
+    {
+      "time": 76.73,
+      "time_str": "01:16.730",
+      "text": "Be my mirror my sword and shield",
+      "translation": "担当我的明镜，利剑和盾牌"
+    },
+    {
+      "time": 80.147,
+      "time_str": "01:20.147",
+      "text": "My missionaries in a foreign field",
+      "translation": "我的传教士屹立边疆之外"
+    },
+    {
+      "time": 83.7,
+      "time_str": "01:23.700",
+      "text": "For some reason I can't explain",
+      "translation": "只因一些缘由我无法释怀"
+    },
+    {
+      "time": 87.099,
+      "time_str": "01:27.099",
+      "text": "Once you go there was never, never an honest word",
+      "translation": "一旦你离开这里便不再,不再有逆耳忠言存在"
+    },
+    {
+      "time": 93.56,
+      "time_str": "01:33.560",
+      "text": "That was when I ruled the world",
+      "translation": "而这便是我统治的时代"
+    },
+    {
+      "time": 110.477,
+      "time_str": "01:50.477",
+      "text": "It was the wicked and wild wind",
+      "translation": "凛冽邪风呼啸袭来"
+    },
+    {
+      "time": 114.665,
+      "time_str": "01:54.665",
+      "text": "Blew down the doors to let me in.",
+      "translation": "吹散重门使我深陷阴霾"
+    },
+    {
+      "time": 117.075,
+      "time_str": "01:57.075",
+      "text": "Shattered windows and the sound of drums",
+      "translation": "断壁残垣礼崩乐坏"
+    },
+    {
+      "time": 121.025,
+      "time_str": "02:01.025",
+      "text": "People couldn't believe what I'd become",
+      "translation": "世人不敢相信我已当年不再"
+    },
+    {
+      "time": 122.924,
+      "time_str": "02:02.924",
+      "text": "Revolutionaries Wait",
+      "translation": "起义大军翘首期待"
+    },
+    {
+      "time": 127.867,
+      "time_str": "02:07.867",
+      "text": "For my head on a silver plate",
+      "translation": "有朝一日我站上断头台"
+    },
+    {
+      "time": 131.036,
+      "time_str": "02:11.036",
+      "text": "Just a puppet on a lonely string",
+      "translation": "恰如傀儡随吊线寂寞摇摆"
+    },
+    {
+      "time": 135.073,
+      "time_str": "02:15.073",
+      "text": "Oh who would ever wanna be king?",
+      "translation": "悲哉，谁又曾渴望万人膜拜？"
+    },
+    {
+      "time": 139.074,
+      "time_str": "02:19.074",
+      "text": "I hear Jerusalem bells are ringing",
+      "translation": "听那钟声从耶路撒冷传来"
+    },
+    {
+      "time": 142.464,
+      "time_str": "02:22.464",
+      "text": "Roman Cavalry choirs are singing",
+      "translation": "罗马骑兵唱诗班的歌声震彻山海"
+    },
+    {
+      "time": 145.984,
+      "time_str": "02:25.984",
+      "text": "Be my mirror my sword and shield",
+      "translation": "担当我的明镜，利剑和盾牌"
+    },
+    {
+      "time": 149.464,
+      "time_str": "02:29.464",
+      "text": "My missionaries in a foreign field",
+      "translation": "我的传教士屹立边疆之外"
+    },
+    {
+      "time": 154.096,
+      "time_str": "02:34.096",
+      "text": "For some reason I can't explain",
+      "translation": "只因一些缘由我无法释怀"
+    },
+    {
+      "time": 156.715,
+      "time_str": "02:36.715",
+      "text": "I know Saint Peter won't call my name",
+      "translation": "我亦知天堂之门不会为我敞开"
+    },
+    {
+      "time": 159.616,
+      "time_str": "02:39.616",
+      "text": "Never an honest word",
+      "translation": "不再有逆耳忠言存在"
+    },
+    {
+      "time": 162.465,
+      "time_str": "02:42.465",
+      "text": "But that was when I ruled the world",
+      "translation": "而这便是我统治的时代"
+    },
+    {
+      "time": 179.455,
+      "time_str": "02:59.455",
+      "text": "(Ohhhhh Ohhh Ohhh)",
+      "translation": "(哦哦哦)"
+    },
+    {
+      "time": 195.432,
+      "time_str": "03:15.432",
+      "text": "Hear Jerusalem bells are ringing",
+      "translation": "听那钟声从耶路撒冷传来"
+    },
+    {
+      "time": 198.451,
+      "time_str": "03:18.451",
+      "text": "Roman Cavalry choirs are singing",
+      "translation": "罗马骑兵唱诗班的歌声震彻山海"
+    },
+    {
+      "time": 201.884,
+      "time_str": "03:21.884",
+      "text": "Be my mirror my sword and shield",
+      "translation": "担当我的明镜，利剑和盾牌"
+    },
+    {
+      "time": 205.241,
+      "time_str": "03:25.241",
+      "text": "My missionaries in a foreign field",
+      "translation": "我的传教士屹立边疆之外"
+    },
+    {
+      "time": 208.812,
+      "time_str": "03:28.812",
+      "text": "For some reason I can't explain",
+      "translation": "只因一些缘由我无法释怀"
+    },
+    {
+      "time": 212.232,
+      "time_str": "03:32.232",
+      "text": "I know Saint Peter won't call my name",
+      "translation": "我亦知天堂之门不会为我敞开"
+    },
+    {
+      "time": 215.733,
+      "time_str": "03:35.733",
+      "text": "Never an honest word",
+      "translation": "不再有逆耳忠言存在"
+    },
+    {
+      "time": 218.673,
+      "time_str": "03:38.673",
+      "text": "But that was when I ruled the world",
+      "translation": "而这便是我统治的时代"
+    },
+    {
+      "time": 237.685,
+      "time_str": "03:57.685",
+      "text": "电吉他 : Jonny Buckland",
+      "translation": null
+    },
+    {
+      "time": 238.309,
+      "time_str": "03:58.309",
+      "text": "音频助理 : Andy Rugg/Brian Thorn/Chris Allgood/Daniel Green/Vanessa Parr",
+      "translation": null
+    },
+    {
+      "time": 238.621,
+      "time_str": "03:58.621",
+      "text": "低音吉他 : Guy Berryman",
+      "translation": null
+    },
+    {
+      "time": 238.933,
+      "time_str": "03:58.933",
+      "text": "合成器 : Guy Berryman",
+      "translation": null
+    },
+    {
+      "time": 240.181,
+      "time_str": "04:00.181",
+      "text": "打击乐 : Will Champion",
+      "translation": null
+    },
+    {
+      "time": 240.493,
+      "time_str": "04:00.493",
+      "text": "木吉他 : Chris Martin",
+      "translation": null
+    },
+    {
+      "time": 240.805,
+      "time_str": "04:00.805",
+      "text": "混音助理 : William \"Will\" Hensley",
+      "translation": null
+    },
+    {
+      "time": 241.117,
+      "time_str": "04:01.117",
+      "text": "混音工程师 : Andy Wallace/Markus Dravs/Michael H. Brauer",
+      "translation": null
+    },
+    {
+      "time": 241.429,
+      "time_str": "04:01.429",
+      "text": "编程 : Francois Chevallier",
+      "translation": null
+    },
+    {
+      "time": 241.741,
+      "time_str": "04:01.741",
+      "text": "主人声 : Chris Martin",
+      "translation": null
+    },
+    {
+      "time": 242.053,
+      "time_str": "04:02.053",
+      "text": "母带工程师 : Bob Ludwig/Emily Lazar",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Viva La Vida - Coldplay.lrc"
+}

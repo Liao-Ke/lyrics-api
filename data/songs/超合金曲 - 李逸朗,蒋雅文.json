@@ -1,0 +1,874 @@
+{
+  "title": "超合金曲",
+  "title_raw": "超合金曲",
+  "version": null,
+  "artist": "李逸朗,蒋雅文",
+  "group_key": "超合金曲|李逸朗,蒋雅文",
+  "writers": {
+    "lyricist": "梁栢坚",
+    "composer": "张继聪",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.9,
+      "time_str": "00:14.900",
+      "text": "女 同是天涯沦落人",
+      "translation": null
+    },
+    {
+      "time": 18.52,
+      "time_str": "00:18.520",
+      "text": "在这伤心者通道上同行",
+      "translation": null
+    },
+    {
+      "time": 22.04,
+      "time_str": "00:22.040",
+      "text": "也许不必知道我是谁",
+      "translation": null
+    },
+    {
+      "time": 25.75,
+      "time_str": "00:25.750",
+      "text": "无谓令你令你令你令你",
+      "translation": null
+    },
+    {
+      "time": 28.08,
+      "time_str": "00:28.080",
+      "text": "又再又再考虑",
+      "translation": null
+    },
+    {
+      "time": 29.74,
+      "time_str": "00:29.740",
+      "text": "男 相逢何必曾相识",
+      "translation": null
+    },
+    {
+      "time": 32.92,
+      "time_str": "00:32.920",
+      "text": "在这一息间相遇有情人",
+      "translation": null
+    },
+    {
+      "time": 36.53,
+      "time_str": "00:36.530",
+      "text": "也许不必知道我是谁",
+      "translation": null
+    },
+    {
+      "time": 40.2,
+      "time_str": "00:40.200",
+      "text": "无谓令你令你令你令你",
+      "translation": null
+    },
+    {
+      "time": 42.57,
+      "time_str": "00:42.570",
+      "text": "再度再度洒泪儿",
+      "translation": null
+    },
+    {
+      "time": 46.76,
+      "time_str": "00:46.760",
+      "text": "女 从前共你讲",
+      "translation": null
+    },
+    {
+      "time": 48.46,
+      "time_str": "00:48.460",
+      "text": "不要分别 不要归去",
+      "translation": null
+    },
+    {
+      "time": 50.48,
+      "time_str": "00:50.480",
+      "text": "明明还流过一点眼泪",
+      "translation": null
+    },
+    {
+      "time": 53.93,
+      "time_str": "00:53.930",
+      "text": "男 又再跟你相遇 跟你相对",
+      "translation": null
+    },
+    {
+      "time": 57.52,
+      "time_str": "00:57.520",
+      "text": "为何完全已经能面对",
+      "translation": null
+    },
+    {
+      "time": 60.56,
+      "time_str": "01:00.560",
+      "text": "女 最爱都会过去 都会散去",
+      "translation": null
+    },
+    {
+      "time": 62.71,
+      "time_str": "01:02.710",
+      "text": "男 都会退去 既然难忘",
+      "translation": null
+    },
+    {
+      "time": 64.73,
+      "time_str": "01:04.730",
+      "text": "合 为何连记得都太累",
+      "translation": null
+    },
+    {
+      "time": 66.82,
+      "time_str": "01:06.820",
+      "text": "女 最痛都会过去 都会散去",
+      "translation": null
+    },
+    {
+      "time": 69.11,
+      "time_str": "01:09.110",
+      "text": "男 都会退去 我们如何",
+      "translation": null
+    },
+    {
+      "time": 71.78,
+      "time_str": "01:11.780",
+      "text": "仍然能活下去",
+      "translation": null
+    },
+    {
+      "time": 73.13,
+      "time_str": "01:13.130",
+      "text": "合 往事就像是一道桥",
+      "translation": null
+    },
+    {
+      "time": 77.01,
+      "time_str": "01:17.010",
+      "text": "你与我 会过去的",
+      "translation": null
+    },
+    {
+      "time": 79.69,
+      "time_str": "01:19.690",
+      "text": "情怀不会倒退",
+      "translation": null
+    },
+    {
+      "time": 83.47,
+      "time_str": "01:23.470",
+      "text": "男 从不喜欢孤单一个",
+      "translation": null
+    },
+    {
+      "time": 87.25,
+      "time_str": "01:27.250",
+      "text": "女 可惜偏偏孤独一个",
+      "translation": null
+    },
+    {
+      "time": 90.0,
+      "time_str": "01:30.000",
+      "text": "合 我不懂得跟我独自对坐",
+      "translation": null
+    },
+    {
+      "time": 93.25,
+      "time_str": "01:33.250",
+      "text": "原来没有你 做人相当痛楚",
+      "translation": null
+    },
+    {
+      "time": 96.75,
+      "time_str": "01:36.750",
+      "text": "男 从不喜欢孤单一个",
+      "translation": null
+    },
+    {
+      "time": 100.46,
+      "time_str": "01:40.460",
+      "text": "女 可惜偏偏孤独一个",
+      "translation": null
+    },
+    {
+      "time": 103.38,
+      "time_str": "01:43.380",
+      "text": "合 你有否想起我 若是再遇",
+      "translation": null
+    },
+    {
+      "time": 106.69,
+      "time_str": "01:46.690",
+      "text": "求让我悔过 可不可再恋过",
+      "translation": null
+    },
+    {
+      "time": 113.7,
+      "time_str": "01:53.700",
+      "text": "男 愿你先撇下我",
+      "translation": null
+    },
+    {
+      "time": 115.33,
+      "time_str": "01:55.330",
+      "text": "女 就当我遭遇横祸",
+      "translation": null
+    },
+    {
+      "time": 117.25,
+      "time_str": "01:57.250",
+      "text": "合 从此永远像隔着河",
+      "translation": null
+    },
+    {
+      "time": 120.71,
+      "time_str": "02:00.710",
+      "text": "遥望你跟他的未来是那样谐和",
+      "translation": null
+    },
+    {
+      "time": 125.57,
+      "time_str": "02:05.570",
+      "text": "女 没我做负荷 男 该轻松更多",
+      "translation": null
+    },
+    {
+      "time": 129.19,
+      "time_str": "02:09.190",
+      "text": "男 尚有他爱护我",
+      "translation": null
+    },
+    {
+      "time": 131.52,
+      "time_str": "02:11.520",
+      "text": "女 难道你拂袖离座",
+      "translation": null
+    },
+    {
+      "time": 133.51,
+      "time_str": "02:13.510",
+      "text": "合 留低爱侣抛开枷锁",
+      "translation": null
+    },
+    {
+      "time": 136.6,
+      "time_str": "02:16.600",
+      "text": "男 余孽太多",
+      "translation": null
+    },
+    {
+      "time": 139.45,
+      "time_str": "02:19.450",
+      "text": "女 还何苦出错",
+      "translation": null
+    },
+    {
+      "time": 144.86,
+      "time_str": "02:24.860",
+      "text": "男 让我再看看你",
+      "translation": null
+    },
+    {
+      "time": 148.02,
+      "time_str": "02:28.020",
+      "text": "让我再说爱你",
+      "translation": null
+    },
+    {
+      "time": 150.79,
+      "time_str": "02:30.790",
+      "text": "别将你背影离去",
+      "translation": null
+    },
+    {
+      "time": 156.1,
+      "time_str": "02:36.100",
+      "text": "女 分手时候说分手",
+      "translation": null
+    },
+    {
+      "time": 159.52,
+      "time_str": "02:39.520",
+      "text": "请不要说难忘记",
+      "translation": null
+    },
+    {
+      "time": 162.55,
+      "time_str": "02:42.550",
+      "text": "就让那回忆淡淡的随风去",
+      "translation": null
+    },
+    {
+      "time": 167.78,
+      "time_str": "02:47.780",
+      "text": "男 也许我会忘记",
+      "translation": null
+    },
+    {
+      "time": 171.22,
+      "time_str": "02:51.220",
+      "text": "也许我会更想你",
+      "translation": null
+    },
+    {
+      "time": 174.33,
+      "time_str": "02:54.330",
+      "text": "也许已没有也许",
+      "translation": null
+    },
+    {
+      "time": 179.53,
+      "time_str": "02:59.530",
+      "text": "男 离开你是傻是对是错",
+      "translation": null
+    },
+    {
+      "time": 182.82,
+      "time_str": "03:02.820",
+      "text": "是看破 是软弱",
+      "translation": null
+    },
+    {
+      "time": 184.69,
+      "time_str": "03:04.690",
+      "text": "这结果 是爱是狠",
+      "translation": null
+    },
+    {
+      "time": 188.88,
+      "time_str": "03:08.880",
+      "text": "或者是甚麽",
+      "translation": null
+    },
+    {
+      "time": 191.41,
+      "time_str": "03:11.410",
+      "text": "如果是种解脱",
+      "translation": null
+    },
+    {
+      "time": 194.25,
+      "time_str": "03:14.250",
+      "text": "怎麽会还有眷恋在我心窝",
+      "translation": null
+    },
+    {
+      "time": 198.3,
+      "time_str": "03:18.300",
+      "text": "那麽爱你 为甚麽",
+      "translation": null
+    },
+    {
+      "time": 202.82,
+      "time_str": "03:22.820",
+      "text": "女 从女性观点让我明白地说",
+      "translation": null
+    },
+    {
+      "time": 205.22,
+      "time_str": "03:25.220",
+      "text": "无论你是挖心掏肺呼天抢地",
+      "translation": null
+    },
+    {
+      "time": 206.89,
+      "time_str": "03:26.890",
+      "text": "或是热情如火",
+      "translation": null
+    },
+    {
+      "time": 208.12,
+      "time_str": "03:28.120",
+      "text": "不只白白惹人讨厌",
+      "translation": null
+    },
+    {
+      "time": 209.46,
+      "time_str": "03:29.460",
+      "text": "让人嫌你罗唆",
+      "translation": null
+    },
+    {
+      "time": 211.64,
+      "time_str": "03:31.640",
+      "text": "恨不得没跟你认识过",
+      "translation": null
+    },
+    {
+      "time": 214.48,
+      "time_str": "03:34.480",
+      "text": "你讲也讲不听听又听不懂",
+      "translation": null
+    },
+    {
+      "time": 216.66,
+      "time_str": "03:36.660",
+      "text": "懂也不会做你做也做不好",
+      "translation": null
+    },
+    {
+      "time": 218.94,
+      "time_str": "03:38.940",
+      "text": "你现在唱个这样的歌",
+      "translation": null
+    },
+    {
+      "time": 221.03,
+      "time_str": "03:41.030",
+      "text": "你到底是想对我说甚麽",
+      "translation": null
+    },
+    {
+      "time": 225.91,
+      "time_str": "03:45.910",
+      "text": "合 但愿你容我接近你更多",
+      "translation": null
+    },
+    {
+      "time": 236.41,
+      "time_str": "03:56.410",
+      "text": "谁预算情爱这样难捉摸",
+      "translation": null
+    },
+    {
+      "time": 245.78,
+      "time_str": "04:05.780",
+      "text": "男 长夜里 女 长夜里",
+      "translation": null
+    },
+    {
+      "time": 249.12,
+      "time_str": "04:09.120",
+      "text": "男 点点星火 女 我要化做",
+      "translation": null
+    },
+    {
+      "time": 250.98,
+      "time_str": "04:10.980",
+      "text": "男 犹如你窗边经过 女 你眼中星星一颗",
+      "translation": null
+    },
+    {
+      "time": 255.83,
+      "time_str": "04:15.830",
+      "text": "男 凝望我 女 来让你",
+      "translation": null
+    },
+    {
+      "time": 258.47,
+      "time_str": "04:18.470",
+      "text": "男 闪出光彩 女 每个晚 上",
+      "translation": null
+    },
+    {
+      "time": 260.85,
+      "time_str": "04:20.850",
+      "text": "男 照亮心窝女 亦望见我",
+      "translation": null
+    },
+    {
+      "time": 265.42,
+      "time_str": "04:25.420",
+      "text": "合 明知不可以再分开",
+      "translation": null
+    },
+    {
+      "time": 269.73,
+      "time_str": "04:29.730",
+      "text": "分开不想接受新爱",
+      "translation": null
+    },
+    {
+      "time": 273.46,
+      "time_str": "04:33.460",
+      "text": "女 爱令我仿似置身於死海",
+      "translation": null
+    },
+    {
+      "time": 278.01,
+      "time_str": "04:38.010",
+      "text": "男 离不开",
+      "translation": null
+    },
+    {
+      "time": 280.11,
+      "time_str": "04:40.110",
+      "text": "合 你是你是我的将来",
+      "translation": null
+    },
+    {
+      "time": 283.82,
+      "time_str": "04:43.820",
+      "text": "谁都不可以再分开",
+      "translation": null
+    },
+    {
+      "time": 287.08,
+      "time_str": "04:47.080",
+      "text": "不想担心这是否错爱",
+      "translation": null
+    },
+    {
+      "time": 292.1,
+      "time_str": "04:52.100",
+      "text": "你话过任何时候需要你",
+      "translation": null
+    },
+    {
+      "time": 296.3,
+      "time_str": "04:56.300",
+      "text": "重新可开始这热爱",
+      "translation": null
+    },
+    {
+      "time": 299.97,
+      "time_str": "04:59.970",
+      "text": "合 离别时笑笑 明晨剩我一个",
+      "translation": null
+    },
+    {
+      "time": 304.88,
+      "time_str": "05:04.880",
+      "text": "潇洒里也会 记起当初",
+      "translation": null
+    },
+    {
+      "time": 308.72,
+      "time_str": "05:08.720",
+      "text": "女 若你的心中孤单再找我",
+      "translation": null
+    },
+    {
+      "time": 313.74,
+      "time_str": "05:13.740",
+      "text": "男 若你的心窝中空虚再找我",
+      "translation": null
+    },
+    {
+      "time": 318.29,
+      "time_str": "05:18.290",
+      "text": "合 不必痛苦当忆起我",
+      "translation": null
+    },
+    {
+      "time": 325.71,
+      "time_str": "05:25.710",
+      "text": "男 曾无限次 欲话我知 却也停止",
+      "translation": null
+    },
+    {
+      "time": 334.18,
+      "time_str": "05:34.180",
+      "text": "女 I'm just the women fall in love",
+      "translation": null
+    },
+    {
+      "time": 338.44,
+      "time_str": "05:38.440",
+      "text": "男 啊……寄相思风雨中",
+      "translation": null
+    },
+    {
+      "time": 344.67,
+      "time_str": "05:44.670",
+      "text": "女 啊……寄痴心风雨中",
+      "translation": null
+    },
+    {
+      "time": 350.78,
+      "time_str": "05:50.780",
+      "text": "男 抱月去化春风云外追踪鸳侣梦",
+      "translation": null
+    },
+    {
+      "time": 357.27,
+      "time_str": "05:57.270",
+      "text": "合 恨满胸愁红尘多作弄",
+      "translation": null
+    },
+    {
+      "time": 364.33,
+      "time_str": "06:04.330",
+      "text": "女 多少往日愁 反覆心中透",
+      "translation": null
+    },
+    {
+      "time": 371.96,
+      "time_str": "06:11.960",
+      "text": "男 我往那一方走 仍驮在背後",
+      "translation": null
+    },
+    {
+      "time": 378.93,
+      "time_str": "06:18.930",
+      "text": "女 从今知道热情 原是没法说因由",
+      "translation": null
+    },
+    {
+      "time": 386.23,
+      "time_str": "06:26.230",
+      "text": "合 就是害怕再接受 还有",
+      "translation": null
+    },
+    {
+      "time": 391.17,
+      "time_str": "06:31.170",
+      "text": "男 情无限 女 将痴心",
+      "translation": null
+    },
+    {
+      "time": 394.47,
+      "time_str": "06:34.470",
+      "text": "男 换你的 女 一颗心",
+      "translation": null
+    },
+    {
+      "time": 397.08,
+      "time_str": "06:37.080",
+      "text": "男 就让我 女 爱上你",
+      "translation": null
+    },
+    {
+      "time": 399.82,
+      "time_str": "06:39.820",
+      "text": "男 常常在心",
+      "translation": null
+    },
+    {
+      "time": 402.45,
+      "time_str": "06:42.450",
+      "text": "男 谁人愿 女 将一生",
+      "translation": null
+    },
+    {
+      "time": 405.28,
+      "time_str": "06:45.280",
+      "text": "男 换你的 女 一点真",
+      "translation": null
+    },
+    {
+      "time": 407.87,
+      "time_str": "06:47.870",
+      "text": "男 愿奉上 合 每个热吻",
+      "translation": null
+    },
+    {
+      "time": 413.16,
+      "time_str": "06:53.160",
+      "text": "合 对你仍着紧 但痛心",
+      "translation": null
+    },
+    {
+      "time": 419.3,
+      "time_str": "06:59.300",
+      "text": "无奈爱在最後最终转交别人",
+      "translation": null
+    },
+    {
+      "time": 425.34,
+      "time_str": "07:05.340",
+      "text": "冷冷长夜深 梦更深",
+      "translation": null
+    },
+    {
+      "time": 429.68,
+      "time_str": "07:09.680",
+      "text": "人渐惯在爱路继续浮沉",
+      "translation": null
+    },
+    {
+      "time": 434.91,
+      "time_str": "07:14.910",
+      "text": "男 迟来一秒钟 迟疑一秒钟",
+      "translation": null
+    },
+    {
+      "time": 436.79,
+      "time_str": "07:16.790",
+      "text": "从而接你变做目送",
+      "translation": null
+    },
+    {
+      "time": 440.79,
+      "time_str": "07:20.790",
+      "text": "女 迟来一秒钟 沿途经过和结局",
+      "translation": null
+    },
+    {
+      "time": 444.35,
+      "time_str": "07:24.350",
+      "text": "其实太不同",
+      "translation": null
+    },
+    {
+      "time": 446.62,
+      "time_str": "07:26.620",
+      "text": "男 迟迟未预备 第一句爱你",
+      "translation": null
+    },
+    {
+      "time": 449.13,
+      "time_str": "07:29.130",
+      "text": "已经足够蕴酿暗涌",
+      "translation": null
+    },
+    {
+      "time": 452.58,
+      "time_str": "07:32.580",
+      "text": "女 盼望犹豫未决的情人回信",
+      "translation": null
+    },
+    {
+      "time": 454.68,
+      "time_str": "07:34.680",
+      "text": "犹如行刑悬在半空",
+      "translation": null
+    },
+    {
+      "time": 458.35,
+      "time_str": "07:38.350",
+      "text": "合 拖一拖 等一等",
+      "translation": null
+    },
+    {
+      "time": 459.89,
+      "time_str": "07:39.890",
+      "text": "合 怕得到得来已是无用",
+      "translation": null
+    },
+    {
+      "time": 464.17,
+      "time_str": "07:44.170",
+      "text": "男 拖一拖 女 等一等",
+      "translation": null
+    },
+    {
+      "time": 465.62,
+      "time_str": "07:45.620",
+      "text": "合 这刻的感动变做裂缝",
+      "translation": null
+    },
+    {
+      "time": 469.24,
+      "time_str": "07:49.240",
+      "text": "男 也许相爱很难",
+      "translation": null
+    },
+    {
+      "time": 471.61,
+      "time_str": "07:51.610",
+      "text": "就难在其实双方各有各寄望怎麽办",
+      "translation": null
+    },
+    {
+      "time": 475.88,
+      "time_str": "07:55.880",
+      "text": "女 要单恋都难",
+      "translation": null
+    },
+    {
+      "time": 477.8,
+      "time_str": "07:57.800",
+      "text": "受太大的礼会内疚却也无力归还",
+      "translation": null
+    },
+    {
+      "time": 481.17,
+      "time_str": "08:01.170",
+      "text": "男 也许不爱不难",
+      "translation": null
+    },
+    {
+      "time": 484.04,
+      "time_str": "08:04.040",
+      "text": "但如未成佛升仙也会怕爱情前途黯淡",
+      "translation": null
+    },
+    {
+      "time": 488.32,
+      "time_str": "08:08.320",
+      "text": "女 爱不爱都难",
+      "translation": null
+    },
+    {
+      "time": 490.04,
+      "time_str": "08:10.040",
+      "text": "未快乐先有责任给予对方面露欢颜",
+      "translation": null
+    },
+    {
+      "time": 494.44,
+      "time_str": "08:14.440",
+      "text": "合 得到浪漫 又要有空间",
+      "translation": null
+    },
+    {
+      "time": 497.23,
+      "time_str": "08:17.230",
+      "text": "得到定局 却怕去到终站",
+      "translation": null
+    },
+    {
+      "time": 500.41,
+      "time_str": "08:20.410",
+      "text": "然後付出多得到少不介意豁达",
+      "translation": null
+    },
+    {
+      "time": 503.67,
+      "time_str": "08:23.670",
+      "text": "又担心",
+      "translation": null
+    },
+    {
+      "time": 507.67,
+      "time_str": "08:27.670",
+      "text": "合 当真正愿意爱一个人",
+      "translation": null
+    },
+    {
+      "time": 510.56,
+      "time_str": "08:30.560",
+      "text": "没法再爱更需要恨",
+      "translation": null
+    },
+    {
+      "time": 513.66,
+      "time_str": "08:33.660",
+      "text": "要奋不顾身继续遗憾",
+      "translation": null
+    },
+    {
+      "time": 517.04,
+      "time_str": "08:37.040",
+      "text": "谁计较 有没有开过心",
+      "translation": null
+    },
+    {
+      "time": 521.35,
+      "time_str": "08:41.350",
+      "text": "当不计代价爱一个人",
+      "translation": null
+    },
+    {
+      "time": 523.89,
+      "time_str": "08:43.890",
+      "text": "大概我也免不了私心",
+      "translation": null
+    },
+    {
+      "time": 526.79,
+      "time_str": "08:46.790",
+      "text": "痛苦使我兴奋 连错爱都吸引",
+      "translation": null
+    },
+    {
+      "time": 530.3,
+      "time_str": "08:50.300",
+      "text": "亦显得我神圣牺牲作陪衬",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "超合金曲 - 李逸朗,蒋雅文.lrc"
+}

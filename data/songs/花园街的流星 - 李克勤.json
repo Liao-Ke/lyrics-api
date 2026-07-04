@@ -1,0 +1,304 @@
+{
+  "title": "花园街的流星",
+  "title_raw": "花园街的流星",
+  "version": null,
+  "artist": "李克勤",
+  "group_key": "花园街的流星|李克勤",
+  "writers": {
+    "lyricist": "陈少琪",
+    "composer": "汤小康",
+    "arranger": "Adrian Chan"
+  },
+  "lyrics": [
+    {
+      "time": 12.91,
+      "time_str": "00:12.910",
+      "text": "六岁的我这里散步",
+      "translation": null
+    },
+    {
+      "time": 17.395,
+      "time_str": "00:17.395",
+      "text": "雪白球鞋总乱舞",
+      "translation": null
+    },
+    {
+      "time": 21.779,
+      "time_str": "00:21.779",
+      "text": "我幼小眼里街灯很高",
+      "translation": null
+    },
+    {
+      "time": 26.881,
+      "time_str": "00:26.881",
+      "text": "我要增高",
+      "translation": null
+    },
+    {
+      "time": 30.5,
+      "time_str": "00:30.500",
+      "text": "现在我跟你路过这街道旁",
+      "translation": null
+    },
+    {
+      "time": 35.255,
+      "time_str": "00:35.255",
+      "text": "小贩摊档始终密布",
+      "translation": null
+    },
+    {
+      "time": 40.105,
+      "time_str": "00:40.105",
+      "text": "沿路看到这八阵图",
+      "translation": null
+    },
+    {
+      "time": 44.164,
+      "time_str": "00:44.164",
+      "text": "从前没有你未发现最好",
+      "translation": null
+    },
+    {
+      "time": 48.401,
+      "time_str": "00:48.401",
+      "text": "woo..ooh",
+      "translation": null
+    },
+    {
+      "time": 50.714,
+      "time_str": "00:50.714",
+      "text": "遥看这街灯光如流星",
+      "translation": null
+    },
+    {
+      "time": 55.454,
+      "time_str": "00:55.454",
+      "text": "夜风之下共行像畅泳",
+      "translation": null
+    },
+    {
+      "time": 59.97,
+      "time_str": "00:59.970",
+      "text": "只因今晚你是我心情",
+      "translation": null
+    },
+    {
+      "time": 64.404,
+      "time_str": "01:04.404",
+      "text": "平凡夜市也是灿烂布景",
+      "translation": null
+    },
+    {
+      "time": 68.644,
+      "time_str": "01:08.644",
+      "text": "重看这街灯光如流星",
+      "translation": null
+    },
+    {
+      "time": 73.334,
+      "time_str": "01:13.334",
+      "text": "熟悉街道上重拾记忆",
+      "translation": null
+    },
+    {
+      "time": 77.879,
+      "time_str": "01:17.879",
+      "text": "一起翻看昨日有过心情",
+      "translation": null
+    },
+    {
+      "time": 82.329,
+      "time_str": "01:22.329",
+      "text": "童年事你要逐一倾听",
+      "translation": null
+    },
+    {
+      "time": 89.112,
+      "time_str": "01:29.112",
+      "text": "十岁的我搬到对岸",
+      "translation": null
+    },
+    {
+      "time": 93.594,
+      "time_str": "01:33.594",
+      "text": "印象模糊的地方",
+      "translation": null
+    },
+    {
+      "time": 98.138,
+      "time_str": "01:38.138",
+      "text": "我有新世界躺在新床",
+      "translation": null
+    },
+    {
+      "time": 103.82,
+      "time_str": "01:43.820",
+      "text": "再见街坊",
+      "translation": null
+    },
+    {
+      "time": 106.787,
+      "time_str": "01:46.787",
+      "text": "现在我跟你路过这街道旁",
+      "translation": null
+    },
+    {
+      "time": 111.472,
+      "time_str": "01:51.472",
+      "text": "小贩摊档配上声浪",
+      "translation": null
+    },
+    {
+      "time": 116.401,
+      "time_str": "01:56.401",
+      "text": "沿路再看这是天堂",
+      "translation": null
+    },
+    {
+      "time": 120.482,
+      "time_str": "02:00.482",
+      "text": "从前没有你未发现最光",
+      "translation": null
+    },
+    {
+      "time": 124.671,
+      "time_str": "02:04.671",
+      "text": "woo..ooh",
+      "translation": null
+    },
+    {
+      "time": 127.36,
+      "time_str": "02:07.360",
+      "text": "遥看这街灯光如流星",
+      "translation": null
+    },
+    {
+      "time": 131.744,
+      "time_str": "02:11.744",
+      "text": "夜风之下共行像畅泳",
+      "translation": null
+    },
+    {
+      "time": 136.241,
+      "time_str": "02:16.241",
+      "text": "只因今晚你是我心情",
+      "translation": null
+    },
+    {
+      "time": 140.696,
+      "time_str": "02:20.696",
+      "text": "平凡夜市也是灿烂布景",
+      "translation": null
+    },
+    {
+      "time": 145.341,
+      "time_str": "02:25.341",
+      "text": "重看这街灯光如流星",
+      "translation": null
+    },
+    {
+      "time": 149.651,
+      "time_str": "02:29.651",
+      "text": "熟悉街道上重拾记忆",
+      "translation": null
+    },
+    {
+      "time": 154.141,
+      "time_str": "02:34.141",
+      "text": "一起翻看昨日有过心情",
+      "translation": null
+    },
+    {
+      "time": 158.701,
+      "time_str": "02:38.701",
+      "text": "童年事你要逐一倾听",
+      "translation": null
+    },
+    {
+      "time": 175.48,
+      "time_str": "02:55.480",
+      "text": "这里太好yeah",
+      "translation": null
+    },
+    {
+      "time": 179.23,
+      "time_str": "02:59.230",
+      "text": "亦有过我童话国度",
+      "translation": null
+    },
+    {
+      "time": 184.455,
+      "time_str": "03:04.455",
+      "text": "沿途仍只得老店铺",
+      "translation": null
+    },
+    {
+      "time": 188.55,
+      "time_str": "03:08.550",
+      "text": "没花园都有你待我好",
+      "translation": null
+    },
+    {
+      "time": 192.04,
+      "time_str": "03:12.040",
+      "text": "woo..ooh",
+      "translation": null
+    },
+    {
+      "time": 194.321,
+      "time_str": "03:14.321",
+      "text": "遥看这街灯光如流星",
+      "translation": null
+    },
+    {
+      "time": 198.991,
+      "time_str": "03:18.991",
+      "text": "夜风之下共行像畅泳",
+      "translation": null
+    },
+    {
+      "time": 203.406,
+      "time_str": "03:23.406",
+      "text": "只因今晚你是我心情",
+      "translation": null
+    },
+    {
+      "time": 208.5,
+      "time_str": "03:28.500",
+      "text": "平凡夜市也是灿烂街景",
+      "translation": null
+    },
+    {
+      "time": 212.299,
+      "time_str": "03:32.299",
+      "text": "重看这街灯光如流星",
+      "translation": null
+    },
+    {
+      "time": 216.95,
+      "time_str": "03:36.950",
+      "text": "熟悉街道上重拾记忆",
+      "translation": null
+    },
+    {
+      "time": 221.406,
+      "time_str": "03:41.406",
+      "text": "一起翻看昨日有过心情",
+      "translation": null
+    },
+    {
+      "time": 225.88,
+      "time_str": "03:45.880",
+      "text": "童年事你要逐一倾听",
+      "translation": null
+    },
+    {
+      "time": 230.373,
+      "time_str": "03:50.373",
+      "text": "人潮未察觉什么风景",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "花园街的流星 - 李克勤.lrc"
+}

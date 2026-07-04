@@ -1,0 +1,340 @@
+{
+  "title": "朋友",
+  "title_raw": "朋友",
+  "version": null,
+  "artist": "周华健",
+  "group_key": "朋友|周华健",
+  "writers": {
+    "lyricist": "刘思铭",
+    "composer": "刘志宏",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 38.7,
+      "time_str": "00:38.700",
+      "text": "这些年 一个人",
+      "translation": null
+    },
+    {
+      "time": 42.235,
+      "time_str": "00:42.235",
+      "text": "风也过 雨也走",
+      "translation": null
+    },
+    {
+      "time": 45.687,
+      "time_str": "00:45.687",
+      "text": "有过泪 有过错",
+      "translation": null
+    },
+    {
+      "time": 49.17,
+      "time_str": "00:49.170",
+      "text": "还记得坚持什么",
+      "translation": null
+    },
+    {
+      "time": 52.645,
+      "time_str": "00:52.645",
+      "text": "真爱过 才会懂",
+      "translation": null
+    },
+    {
+      "time": 56.158,
+      "time_str": "00:56.158",
+      "text": "会寂寞 会回首",
+      "translation": null
+    },
+    {
+      "time": 59.571,
+      "time_str": "00:59.571",
+      "text": "终有梦 终有你 在心中",
+      "translation": null
+    },
+    {
+      "time": 66.566,
+      "time_str": "01:06.566",
+      "text": "朋友 一生一起走",
+      "translation": null
+    },
+    {
+      "time": 70.023,
+      "time_str": "01:10.023",
+      "text": "那些日子 不再有",
+      "translation": null
+    },
+    {
+      "time": 73.498,
+      "time_str": "01:13.498",
+      "text": "一句话 一辈子",
+      "translation": null
+    },
+    {
+      "time": 77.014,
+      "time_str": "01:17.014",
+      "text": "一生情 一杯酒",
+      "translation": null
+    },
+    {
+      "time": 80.434,
+      "time_str": "01:20.434",
+      "text": "朋友 不曾孤单过",
+      "translation": null
+    },
+    {
+      "time": 83.976,
+      "time_str": "01:23.976",
+      "text": "一声朋友 你会懂",
+      "translation": null
+    },
+    {
+      "time": 87.398,
+      "time_str": "01:27.398",
+      "text": "还有伤 还有痛",
+      "translation": null
+    },
+    {
+      "time": 90.883,
+      "time_str": "01:30.883",
+      "text": "还要走 还有我",
+      "translation": null
+    },
+    {
+      "time": 127.341,
+      "time_str": "02:07.341",
+      "text": "这些年 一个人",
+      "translation": null
+    },
+    {
+      "time": 130.919,
+      "time_str": "02:10.919",
+      "text": "风也过 雨也走",
+      "translation": null
+    },
+    {
+      "time": 134.364,
+      "time_str": "02:14.364",
+      "text": "有过泪 有过错",
+      "translation": null
+    },
+    {
+      "time": 137.889,
+      "time_str": "02:17.889",
+      "text": "还记得坚持什么",
+      "translation": null
+    },
+    {
+      "time": 141.354,
+      "time_str": "02:21.354",
+      "text": "真爱过 才会懂",
+      "translation": null
+    },
+    {
+      "time": 144.861,
+      "time_str": "02:24.861",
+      "text": "会寂寞 会回首",
+      "translation": null
+    },
+    {
+      "time": 148.246,
+      "time_str": "02:28.246",
+      "text": "终有梦 终有你 在心中",
+      "translation": null
+    },
+    {
+      "time": 155.248,
+      "time_str": "02:35.248",
+      "text": "朋友 一生一起走",
+      "translation": null
+    },
+    {
+      "time": 158.724,
+      "time_str": "02:38.724",
+      "text": "那些日子 不再有",
+      "translation": null
+    },
+    {
+      "time": 162.241,
+      "time_str": "02:42.241",
+      "text": "一句话 一辈子",
+      "translation": null
+    },
+    {
+      "time": 165.698,
+      "time_str": "02:45.698",
+      "text": "一生情 一杯酒",
+      "translation": null
+    },
+    {
+      "time": 169.182,
+      "time_str": "02:49.182",
+      "text": "朋友 不曾孤单过",
+      "translation": null
+    },
+    {
+      "time": 172.646,
+      "time_str": "02:52.646",
+      "text": "一声朋友 你会懂",
+      "translation": null
+    },
+    {
+      "time": 176.108,
+      "time_str": "02:56.108",
+      "text": "还有伤 还有痛",
+      "translation": null
+    },
+    {
+      "time": 179.614,
+      "time_str": "02:59.614",
+      "text": "还要走 还有我",
+      "translation": null
+    },
+    {
+      "time": 184.801,
+      "time_str": "03:04.801",
+      "text": "朋友 一生一起走",
+      "translation": null
+    },
+    {
+      "time": 188.273,
+      "time_str": "03:08.273",
+      "text": "那些日子 不再有",
+      "translation": null
+    },
+    {
+      "time": 191.754,
+      "time_str": "03:11.754",
+      "text": "一句话 一辈子",
+      "translation": null
+    },
+    {
+      "time": 195.264,
+      "time_str": "03:15.264",
+      "text": "一生情 一杯酒",
+      "translation": null
+    },
+    {
+      "time": 198.733,
+      "time_str": "03:18.733",
+      "text": "朋友 不曾孤单过",
+      "translation": null
+    },
+    {
+      "time": 202.227,
+      "time_str": "03:22.227",
+      "text": "一声朋友 你会懂",
+      "translation": null
+    },
+    {
+      "time": 205.641,
+      "time_str": "03:25.641",
+      "text": "还有伤 还有痛",
+      "translation": null
+    },
+    {
+      "time": 209.122,
+      "time_str": "03:29.122",
+      "text": "还要走 还有我",
+      "translation": null
+    },
+    {
+      "time": 216.118,
+      "time_str": "03:36.118",
+      "text": "朋友 一生一起走",
+      "translation": null
+    },
+    {
+      "time": 219.605,
+      "time_str": "03:39.605",
+      "text": "那些日子 不再有",
+      "translation": null
+    },
+    {
+      "time": 223.067,
+      "time_str": "03:43.067",
+      "text": "一句话 一辈子",
+      "translation": null
+    },
+    {
+      "time": 226.58,
+      "time_str": "03:46.580",
+      "text": "一生情 一杯酒",
+      "translation": null
+    },
+    {
+      "time": 230.019,
+      "time_str": "03:50.019",
+      "text": "朋友 不曾孤单过",
+      "translation": null
+    },
+    {
+      "time": 233.531,
+      "time_str": "03:53.531",
+      "text": "一声朋友 你会懂",
+      "translation": null
+    },
+    {
+      "time": 237.015,
+      "time_str": "03:57.015",
+      "text": "还有伤 还有痛",
+      "translation": null
+    },
+    {
+      "time": 240.477,
+      "time_str": "04:00.477",
+      "text": "还要走 还有我",
+      "translation": null
+    },
+    {
+      "time": 245.673,
+      "time_str": "04:05.673",
+      "text": "一句话 一辈子",
+      "translation": null
+    },
+    {
+      "time": 249.281,
+      "time_str": "04:09.281",
+      "text": "一生情 一杯酒",
+      "translation": null
+    },
+    {
+      "time": 264.0,
+      "time_str": "04:24.000",
+      "text": "制作助理：陈宏佳",
+      "translation": null
+    },
+    {
+      "time": 270.0,
+      "time_str": "04:30.000",
+      "text": "和声编谱：黄秀侦",
+      "translation": null
+    },
+    {
+      "time": 276.0,
+      "time_str": "04:36.000",
+      "text": "友情大合唱：洪敬尧 / 陈杰洲 / 包小松 / 包小柏 / 赖雨辰 / Tiger / 张仲舒 / 陈宏佳",
+      "translation": null
+    },
+    {
+      "time": 279.0,
+      "time_str": "04:39.000",
+      "text": "混音工程师：陈永夫",
+      "translation": null
+    },
+    {
+      "time": 285.0,
+      "time_str": "04:45.000",
+      "text": "SP：ROCK MUSIC PUBLISHING (HK) LTD",
+      "translation": null
+    },
+    {
+      "time": 310.0,
+      "time_str": "05:10.000",
+      "text": "TWB819754502",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "朋友 - 周华健.lrc"
+}

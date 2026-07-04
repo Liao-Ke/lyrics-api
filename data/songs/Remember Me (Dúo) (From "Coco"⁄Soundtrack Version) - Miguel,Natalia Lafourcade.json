@@ -1,0 +1,358 @@
+{
+  "title": "Remember Me",
+  "title_raw": "Remember Me (Dúo) (From \"Coco\"⁄Soundtrack Version)",
+  "version": "Dúo",
+  "artist": "Miguel,Natalia Lafourcade",
+  "group_key": "remember me|miguel,natalia lafourcade",
+  "writers": {
+    "lyricist": "Robert Lopez/Kristen Anderson-Lopez",
+    "composer": "Robert Lopez/Kristen Anderson-Lopez",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.3,
+      "time_str": "00:00.300",
+      "text": "Remember me",
+      "translation": "请记住我吧"
+    },
+    {
+      "time": 3.6,
+      "time_str": "00:03.600",
+      "text": "Though I have to say goodbye",
+      "translation": "虽然我要说再见了"
+    },
+    {
+      "time": 6.17,
+      "time_str": "00:06.170",
+      "text": "Remember me",
+      "translation": "记住我"
+    },
+    {
+      "time": 9.4,
+      "time_str": "00:09.400",
+      "text": "Don't let it make you cry",
+      "translation": "希望你别哭泣"
+    },
+    {
+      "time": 12.4,
+      "time_str": "00:12.400",
+      "text": "For even if I'm far away",
+      "translation": "就算我远行"
+    },
+    {
+      "time": 15.1,
+      "time_str": "00:15.100",
+      "text": "I hold you in my heart",
+      "translation": "我也将你放在心里"
+    },
+    {
+      "time": 18.0,
+      "time_str": "00:18.000",
+      "text": "I sing a secret song to you",
+      "translation": "我都要唱一首秘密给你听"
+    },
+    {
+      "time": 20.78,
+      "time_str": "00:20.780",
+      "text": "Each night we are apart",
+      "translation": "每个分开的夜晚"
+    },
+    {
+      "time": 22.9,
+      "time_str": "00:22.900",
+      "text": "Remember me",
+      "translation": "记住我"
+    },
+    {
+      "time": 26.13,
+      "time_str": "00:26.130",
+      "text": "Though I have to travel far",
+      "translation": "虽然我要远行"
+    },
+    {
+      "time": 28.54,
+      "time_str": "00:28.540",
+      "text": "Remember me",
+      "translation": "记住我"
+    },
+    {
+      "time": 31.42,
+      "time_str": "00:31.420",
+      "text": "Each time you hear a sad guitar",
+      "translation": "每当你听见悲伤的吉他声"
+    },
+    {
+      "time": 34.87,
+      "time_str": "00:34.870",
+      "text": "Know that I'm with you",
+      "translation": "要知道是我与你在一起"
+    },
+    {
+      "time": 36.87,
+      "time_str": "00:36.870",
+      "text": "The only way that I can be",
+      "translation": "那是我能做的唯一方式"
+    },
+    {
+      "time": 40.46,
+      "time_str": "00:40.460",
+      "text": "Until you're in my arms again",
+      "translation": "直在你回到我的怀抱之前"
+    },
+    {
+      "time": 45.34,
+      "time_str": "00:45.340",
+      "text": "Remember me",
+      "translation": "记住我"
+    },
+    {
+      "time": 46.78,
+      "time_str": "00:46.780",
+      "text": "Que nuestra canción no deje de latir",
+      "translation": "我们的旋律不会停止"
+    },
+    {
+      "time": 49.52,
+      "time_str": "00:49.520",
+      "text": "Solo con tu amor yo puedo existir",
+      "translation": "我也因你的爱而存在"
+    },
+    {
+      "time": 51.13,
+      "time_str": "00:51.130",
+      "text": "Recuérdame",
+      "translation": "记住我"
+    },
+    {
+      "time": 52.35,
+      "time_str": "00:52.350",
+      "text": "Que nuestra canción no deje de latir",
+      "translation": "我们的旋律不会停止"
+    },
+    {
+      "time": 55.19,
+      "time_str": "00:55.190",
+      "text": "Solo con tu amor yo puedo existir",
+      "translation": "我也因你的爱而存在"
+    },
+    {
+      "time": 56.79,
+      "time_str": "00:56.790",
+      "text": "Recuérdame",
+      "translation": "请记住我吧"
+    },
+    {
+      "time": 59.69,
+      "time_str": "00:59.690",
+      "text": "Si en tu mente vivo estoy",
+      "translation": "将我记在你脑海里"
+    },
+    {
+      "time": 62.2,
+      "time_str": "01:02.200",
+      "text": "Recuérdame",
+      "translation": "记住我"
+    },
+    {
+      "time": 65.5,
+      "time_str": "01:05.500",
+      "text": "Mis sueños yo te doy",
+      "translation": "给予你我的梦境"
+    },
+    {
+      "time": 68.57,
+      "time_str": "01:08.570",
+      "text": "Te llevo en mi corazon",
+      "translation": "将你带进我心里"
+    },
+    {
+      "time": 71.34,
+      "time_str": "01:11.340",
+      "text": "Y te acompañaré",
+      "translation": "我会一直陪伴你"
+    },
+    {
+      "time": 74.16,
+      "time_str": "01:14.160",
+      "text": "Unidos en nuestra canción",
+      "translation": "在我们的歌声里"
+    },
+    {
+      "time": 76.98,
+      "time_str": "01:16.980",
+      "text": "Contigo ahí estaré",
+      "translation": "我会一直和你在一起"
+    },
+    {
+      "time": 79.1,
+      "time_str": "01:19.100",
+      "text": "Recuérdame",
+      "translation": "记住我"
+    },
+    {
+      "time": 82.44,
+      "time_str": "01:22.440",
+      "text": "Si sola crees estar",
+      "translation": "若你相信它的存在"
+    },
+    {
+      "time": 84.72,
+      "time_str": "01:24.720",
+      "text": "Recuérdame",
+      "translation": "记住我"
+    },
+    {
+      "time": 87.66,
+      "time_str": "01:27.660",
+      "text": "Y mi cantarte irá a abrazar",
+      "translation": "我的歌声将你环绕"
+    },
+    {
+      "time": 91.0,
+      "time_str": "01:31.000",
+      "text": "Aun en la distancia",
+      "translation": "虽然距离遥远"
+    },
+    {
+      "time": 93.37,
+      "time_str": "01:33.370",
+      "text": "Nunca vayas a olvidar",
+      "translation": "但也永远别忘记"
+    },
+    {
+      "time": 96.64,
+      "time_str": "01:36.640",
+      "text": "Que yo contigo siempre voy",
+      "translation": "我会一直和你在一起"
+    },
+    {
+      "time": 101.48,
+      "time_str": "01:41.480",
+      "text": "Recuérdame",
+      "translation": "记住我吧"
+    },
+    {
+      "time": 102.9,
+      "time_str": "01:42.900",
+      "text": "If you close your eyes and let the music play",
+      "translation": "若你闭上眼睛让音乐响起"
+    },
+    {
+      "time": 105.77,
+      "time_str": "01:45.770",
+      "text": "Keep our love alive, I'll never fade away",
+      "translation": "让爱继续 我将永不离去"
+    },
+    {
+      "time": 108.61,
+      "time_str": "01:48.610",
+      "text": "If you close your eyes and let the music play",
+      "translation": "若你闭上眼睛让音乐响起"
+    },
+    {
+      "time": 111.37,
+      "time_str": "01:51.370",
+      "text": "Keep our love alive, I'll never fade away",
+      "translation": "让爱继续 我将永不离去"
+    },
+    {
+      "time": 114.14,
+      "time_str": "01:54.140",
+      "text": "If you close your eyes and let the music play",
+      "translation": "若你闭上眼睛让音乐响起"
+    },
+    {
+      "time": 117.03,
+      "time_str": "01:57.030",
+      "text": "Keep our love alive, I'll never fade away",
+      "translation": "让爱继续 我将永不离去"
+    },
+    {
+      "time": 124.29,
+      "time_str": "02:04.290",
+      "text": "Remember me",
+      "translation": "记住我"
+    },
+    {
+      "time": 127.3,
+      "time_str": "02:07.300",
+      "text": "For I will soon be gone",
+      "translation": "因为我即将离开"
+    },
+    {
+      "time": 129.73,
+      "time_str": "02:09.730",
+      "text": "Remember me",
+      "translation": "记住我"
+    },
+    {
+      "time": 132.62,
+      "time_str": "02:12.620",
+      "text": "And let the love we have live on",
+      "translation": "让我们的爱继续存在下去"
+    },
+    {
+      "time": 135.98,
+      "time_str": "02:15.980",
+      "text": "And know that I'm with you",
+      "translation": "要知道是我与你在一起"
+    },
+    {
+      "time": 138.11,
+      "time_str": "02:18.110",
+      "text": "The only way that I can be",
+      "translation": "在你重新回到我怀抱之前"
+    },
+    {
+      "time": 141.6,
+      "time_str": "02:21.600",
+      "text": "So, until you're in my arms again",
+      "translation": "那是我存在的唯一方式"
+    },
+    {
+      "time": 146.53,
+      "time_str": "02:26.530",
+      "text": "Remember me",
+      "translation": "记住我"
+    },
+    {
+      "time": 147.96,
+      "time_str": "02:27.960",
+      "text": "Que nuestra canción no deje de latir",
+      "translation": "我们的旋律不会停止"
+    },
+    {
+      "time": 150.76,
+      "time_str": "02:30.760",
+      "text": "Solo con tu amor yo puedo existir",
+      "translation": "我也因你的爱而存在"
+    },
+    {
+      "time": 152.4,
+      "time_str": "02:32.400",
+      "text": "Remember me",
+      "translation": "记住我"
+    },
+    {
+      "time": 153.58,
+      "time_str": "02:33.580",
+      "text": "Que nuestra cancón no deje de latir",
+      "translation": "我们的旋律不会停止"
+    },
+    {
+      "time": 156.35,
+      "time_str": "02:36.350",
+      "text": "Solo con tu amor yo puedo existir",
+      "translation": "我也因你的爱而存在"
+    },
+    {
+      "time": 157.86,
+      "time_str": "02:37.860",
+      "text": "Remember me",
+      "translation": "请记住我吧"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Remember Me (Dúo) (From \"Coco\"⁄Soundtrack Version) - Miguel,Natalia Lafourcade.lrc"
+}

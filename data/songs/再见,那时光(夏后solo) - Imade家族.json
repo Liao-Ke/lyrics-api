@@ -1,0 +1,256 @@
+{
+  "title": "再见,那时光",
+  "title_raw": "再见,那时光(夏后solo)",
+  "version": "夏后solo",
+  "artist": "Imade家族",
+  "group_key": "再见,那时光|imade家族",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 13.54,
+      "time_str": "00:13.540",
+      "text": "听 那褪色的围墙",
+      "translation": null
+    },
+    {
+      "time": 17.8,
+      "time_str": "00:17.800",
+      "text": "圈起的旧时光",
+      "translation": null
+    },
+    {
+      "time": 20.6,
+      "time_str": "00:20.600",
+      "text": "那时我 拥有个梦想",
+      "translation": null
+    },
+    {
+      "time": 25.64,
+      "time_str": "00:25.640",
+      "text": "昨天 你懵懂的笑脸",
+      "translation": null
+    },
+    {
+      "time": 30.29,
+      "time_str": "00:30.290",
+      "text": "画满叉的考卷",
+      "translation": null
+    },
+    {
+      "time": 33.2,
+      "time_str": "00:33.200",
+      "text": "转一圈 已走了好远",
+      "translation": null
+    },
+    {
+      "time": 40.43,
+      "time_str": "00:40.430",
+      "text": "夕阳下斑驳的广场",
+      "translation": null
+    },
+    {
+      "time": 43.98,
+      "time_str": "00:43.980",
+      "text": "点缀着鲜嫩的希望",
+      "translation": null
+    },
+    {
+      "time": 46.6,
+      "time_str": "00:46.600",
+      "text": "时光悄悄经过",
+      "translation": null
+    },
+    {
+      "time": 49.32,
+      "time_str": "00:49.320",
+      "text": "每个稚嫩都是过往",
+      "translation": null
+    },
+    {
+      "time": 52.84,
+      "time_str": "00:52.840",
+      "text": "教室旁百合的芬芳",
+      "translation": null
+    },
+    {
+      "time": 55.97,
+      "time_str": "00:55.970",
+      "text": "洋溢在每年的盛夏",
+      "translation": null
+    },
+    {
+      "time": 59.1,
+      "time_str": "00:59.100",
+      "text": "那时种下的梦想 已开放",
+      "translation": null
+    },
+    {
+      "time": 64.29,
+      "time_str": "01:04.290",
+      "text": "时光种下了勇敢",
+      "translation": null
+    },
+    {
+      "time": 67.76,
+      "time_str": "01:07.760",
+      "text": "开出成长的花",
+      "translation": null
+    },
+    {
+      "time": 70.85,
+      "time_str": "01:10.850",
+      "text": "却来不及说再见 昨天",
+      "translation": null
+    },
+    {
+      "time": 79.19,
+      "time_str": "01:19.190",
+      "text": "听 那褪色的围墙",
+      "translation": null
+    },
+    {
+      "time": 83.23,
+      "time_str": "01:23.230",
+      "text": "圈起的旧时光",
+      "translation": null
+    },
+    {
+      "time": 86.7,
+      "time_str": "01:26.700",
+      "text": "那时我 拥有个梦想",
+      "translation": null
+    },
+    {
+      "time": 91.39,
+      "time_str": "01:31.390",
+      "text": "昨天 你懵懂的笑脸",
+      "translation": null
+    },
+    {
+      "time": 95.72,
+      "time_str": "01:35.720",
+      "text": "画满叉的考卷",
+      "translation": null
+    },
+    {
+      "time": 98.5,
+      "time_str": "01:38.500",
+      "text": "转一圈 已走了好远",
+      "translation": null
+    },
+    {
+      "time": 118.46,
+      "time_str": "01:58.460",
+      "text": "教室旁百合的芬芳",
+      "translation": null
+    },
+    {
+      "time": 121.41,
+      "time_str": "02:01.410",
+      "text": "洋溢在每年的盛夏",
+      "translation": null
+    },
+    {
+      "time": 124.52,
+      "time_str": "02:04.520",
+      "text": "那时种下的梦想 已开放",
+      "translation": null
+    },
+    {
+      "time": 129.61,
+      "time_str": "02:09.610",
+      "text": "时光种下了勇敢",
+      "translation": null
+    },
+    {
+      "time": 133.3,
+      "time_str": "02:13.300",
+      "text": "开出成长的花",
+      "translation": null
+    },
+    {
+      "time": 136.24,
+      "time_str": "02:16.240",
+      "text": "却来不及说再见 昨天",
+      "translation": null
+    },
+    {
+      "time": 144.57,
+      "time_str": "02:24.570",
+      "text": "听 那褪色的围墙",
+      "translation": null
+    },
+    {
+      "time": 148.7,
+      "time_str": "02:28.700",
+      "text": "圈起的旧时光",
+      "translation": null
+    },
+    {
+      "time": 151.42,
+      "time_str": "02:31.420",
+      "text": "那时我 拥有个梦想",
+      "translation": null
+    },
+    {
+      "time": 156.39,
+      "time_str": "02:36.390",
+      "text": "昨天 你懵懂的笑脸",
+      "translation": null
+    },
+    {
+      "time": 161.19,
+      "time_str": "02:41.190",
+      "text": "画满叉的考卷",
+      "translation": null
+    },
+    {
+      "time": 163.95,
+      "time_str": "02:43.950",
+      "text": "转一圈 已走了好远",
+      "translation": null
+    },
+    {
+      "time": 170.91,
+      "time_str": "02:50.910",
+      "text": "听 那褪色的围墙",
+      "translation": null
+    },
+    {
+      "time": 175.15,
+      "time_str": "02:55.150",
+      "text": "圈起的旧时光",
+      "translation": null
+    },
+    {
+      "time": 177.91,
+      "time_str": "02:57.910",
+      "text": "那时我 拥有个梦想",
+      "translation": null
+    },
+    {
+      "time": 182.96,
+      "time_str": "03:02.960",
+      "text": "昨天 你懵懂的笑脸",
+      "translation": null
+    },
+    {
+      "time": 187.63,
+      "time_str": "03:07.630",
+      "text": "画满叉的考卷",
+      "translation": null
+    },
+    {
+      "time": 190.47,
+      "time_str": "03:10.470",
+      "text": "转一圈 已走了好远",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "再见,那时光(夏后solo) - Imade家族.lrc"
+}

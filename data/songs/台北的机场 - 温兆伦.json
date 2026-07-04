@@ -1,0 +1,334 @@
+{
+  "title": "台北的机场",
+  "title_raw": "台北的机场",
+  "version": null,
+  "artist": "温兆伦",
+  "group_key": "台北的机场|温兆伦",
+  "writers": {
+    "lyricist": "温兆伦",
+    "composer": "徐嘉良",
+    "arranger": "钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 60.3,
+      "time_str": "01:00.300",
+      "text": "台北的机场是一个分手老地方",
+      "translation": null
+    },
+    {
+      "time": 67.0,
+      "time_str": "01:07.000",
+      "text": "你的心情也和我一样",
+      "translation": null
+    },
+    {
+      "time": 70.7,
+      "time_str": "01:10.700",
+      "text": "难过却无法去抵挡",
+      "translation": null
+    },
+    {
+      "time": 76.4,
+      "time_str": "01:16.400",
+      "text": "不再有浪漫",
+      "translation": null
+    },
+    {
+      "time": 79.2,
+      "time_str": "01:19.200",
+      "text": "也不会有地久天长",
+      "translation": null
+    },
+    {
+      "time": 83.3,
+      "time_str": "01:23.300",
+      "text": "只有一种无奈的习惯留在我身旁",
+      "translation": null
+    },
+    {
+      "time": 90.8,
+      "time_str": "01:30.800",
+      "text": "我不是不温柔",
+      "translation": null
+    },
+    {
+      "time": 93.7,
+      "time_str": "01:33.700",
+      "text": "对你的要求总是做不够",
+      "translation": null
+    },
+    {
+      "time": 99.1,
+      "time_str": "01:39.100",
+      "text": "还是我给你过分的自由",
+      "translation": null
+    },
+    {
+      "time": 103.1,
+      "time_str": "01:43.100",
+      "text": "变成我俩现在分手的理由",
+      "translation": null
+    },
+    {
+      "time": 107.3,
+      "time_str": "01:47.300",
+      "text": "我不是不温柔",
+      "translation": null
+    },
+    {
+      "time": 110.1,
+      "time_str": "01:50.100",
+      "text": "只要你想走",
+      "translation": null
+    },
+    {
+      "time": 112.9,
+      "time_str": "01:52.900",
+      "text": "向我挥挥手",
+      "translation": null
+    },
+    {
+      "time": 115.6,
+      "time_str": "01:55.600",
+      "text": "请你答应我最后的要求",
+      "translation": null
+    },
+    {
+      "time": 119.9,
+      "time_str": "01:59.900",
+      "text": "不要再回头",
+      "translation": null
+    },
+    {
+      "time": 126.98,
+      "time_str": "02:06.980",
+      "text": "台北的机场是一个分手老地方",
+      "translation": null
+    },
+    {
+      "time": 132.697,
+      "time_str": "02:12.697",
+      "text": "你的心情也和我一样",
+      "translation": null
+    },
+    {
+      "time": 136.697,
+      "time_str": "02:16.697",
+      "text": "难过却无法去抵挡",
+      "translation": null
+    },
+    {
+      "time": 143.388,
+      "time_str": "02:23.388",
+      "text": "不再有浪漫",
+      "translation": null
+    },
+    {
+      "time": 144.997,
+      "time_str": "02:24.997",
+      "text": "也不会有地久天长",
+      "translation": null
+    },
+    {
+      "time": 149.97,
+      "time_str": "02:29.970",
+      "text": "只有一种无奈的习惯留在我身旁",
+      "translation": null
+    },
+    {
+      "time": 156.597,
+      "time_str": "02:36.597",
+      "text": "我不是不温柔",
+      "translation": null
+    },
+    {
+      "time": 159.397,
+      "time_str": "02:39.397",
+      "text": "对你的要求总是做不够",
+      "translation": null
+    },
+    {
+      "time": 164.797,
+      "time_str": "02:44.797",
+      "text": "还是我给你过分的自由",
+      "translation": null
+    },
+    {
+      "time": 169.779,
+      "time_str": "02:49.779",
+      "text": "变成我俩现在分手的理由",
+      "translation": null
+    },
+    {
+      "time": 173.197,
+      "time_str": "02:53.197",
+      "text": "我不是不温柔",
+      "translation": null
+    },
+    {
+      "time": 175.797,
+      "time_str": "02:55.797",
+      "text": "只要你想走",
+      "translation": null
+    },
+    {
+      "time": 178.397,
+      "time_str": "02:58.397",
+      "text": "向我挥挥手",
+      "translation": null
+    },
+    {
+      "time": 181.297,
+      "time_str": "03:01.297",
+      "text": "请你答应我最后的要求",
+      "translation": null
+    },
+    {
+      "time": 185.697,
+      "time_str": "03:05.697",
+      "text": "不要再回头",
+      "translation": null
+    },
+    {
+      "time": 205.296,
+      "time_str": "03:25.296",
+      "text": "我不是不温柔",
+      "translation": null
+    },
+    {
+      "time": 209.69,
+      "time_str": "03:29.690",
+      "text": "对你的要求总是做不够",
+      "translation": null
+    },
+    {
+      "time": 215.96,
+      "time_str": "03:35.960",
+      "text": "还是我给你过分的自由",
+      "translation": null
+    },
+    {
+      "time": 219.196,
+      "time_str": "03:39.196",
+      "text": "变成我俩现在分手的理由",
+      "translation": null
+    },
+    {
+      "time": 224.287,
+      "time_str": "03:44.287",
+      "text": "我不是不温柔",
+      "translation": null
+    },
+    {
+      "time": 226.296,
+      "time_str": "03:46.296",
+      "text": "只要你想走",
+      "translation": null
+    },
+    {
+      "time": 228.696,
+      "time_str": "03:48.696",
+      "text": "向我挥挥手",
+      "translation": null
+    },
+    {
+      "time": 231.596,
+      "time_str": "03:51.596",
+      "text": "请你答应我最后的要求",
+      "translation": null
+    },
+    {
+      "time": 236.678,
+      "time_str": "03:56.678",
+      "text": "不要再回头",
+      "translation": null
+    },
+    {
+      "time": 240.76,
+      "time_str": "04:00.760",
+      "text": "我不是不温柔",
+      "translation": null
+    },
+    {
+      "time": 242.696,
+      "time_str": "04:02.696",
+      "text": "对你的要求总是做不够",
+      "translation": null
+    },
+    {
+      "time": 249.49,
+      "time_str": "04:09.490",
+      "text": "还是我给你过分的自由",
+      "translation": null
+    },
+    {
+      "time": 251.696,
+      "time_str": "04:11.696",
+      "text": "变成我俩现在分手的理由",
+      "translation": null
+    },
+    {
+      "time": 256.195,
+      "time_str": "04:16.195",
+      "text": "我不是不温柔",
+      "translation": null
+    },
+    {
+      "time": 259.197,
+      "time_str": "04:19.197",
+      "text": "只要你想走",
+      "translation": null
+    },
+    {
+      "time": 261.596,
+      "time_str": "04:21.596",
+      "text": "向我挥挥手",
+      "translation": null
+    },
+    {
+      "time": 264.496,
+      "time_str": "04:24.496",
+      "text": "请你答应我最后的要求",
+      "translation": null
+    },
+    {
+      "time": 268.697,
+      "time_str": "04:28.697",
+      "text": "不要再回头",
+      "translation": null
+    },
+    {
+      "time": 272.597,
+      "time_str": "04:32.597",
+      "text": "我不是不温柔",
+      "translation": null
+    },
+    {
+      "time": 275.697,
+      "time_str": "04:35.697",
+      "text": "对你的要求总是做不够",
+      "translation": null
+    },
+    {
+      "time": 281.77,
+      "time_str": "04:41.770",
+      "text": "还是我给你过分的自由",
+      "translation": null
+    },
+    {
+      "time": 285.97,
+      "time_str": "04:45.970",
+      "text": "变成我俩现在分手的理由",
+      "translation": null
+    },
+    {
+      "time": 288.197,
+      "time_str": "04:48.197",
+      "text": "......",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "台北的机场 - 温兆伦.lrc"
+}

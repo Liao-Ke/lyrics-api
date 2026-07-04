@@ -1,0 +1,310 @@
+{
+  "title": "双子星",
+  "title_raw": "双子星",
+  "version": null,
+  "artist": "光良",
+  "group_key": "双子星|光良",
+  "writers": {
+    "lyricist": "林白",
+    "composer": "光良",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 19.41,
+      "time_str": "00:19.410",
+      "text": "天上的星星数不清",
+      "translation": null
+    },
+    {
+      "time": 23.61,
+      "time_str": "00:23.610",
+      "text": "最亮的是你",
+      "translation": null
+    },
+    {
+      "time": 28.31,
+      "time_str": "00:28.310",
+      "text": "不管有多远我愿意",
+      "translation": null
+    },
+    {
+      "time": 32.86,
+      "time_str": "00:32.860",
+      "text": "放弃一切寻找你",
+      "translation": null
+    },
+    {
+      "time": 37.21,
+      "time_str": "00:37.210",
+      "text": "我不需要用时间为我证明",
+      "translation": null
+    },
+    {
+      "time": 41.66,
+      "time_str": "00:41.660",
+      "text": "就可以肯定",
+      "translation": null
+    },
+    {
+      "time": 46.71,
+      "time_str": "00:46.710",
+      "text": "你的快乐、伤心",
+      "translation": null
+    },
+    {
+      "time": 48.96,
+      "time_str": "00:48.960",
+      "text": "我都能感应",
+      "translation": null
+    },
+    {
+      "time": 51.11,
+      "time_str": "00:51.110",
+      "text": "我们就像双子星",
+      "translation": null
+    },
+    {
+      "time": 55.87,
+      "time_str": "00:55.870",
+      "text": "我们面对面 挂在天边",
+      "translation": null
+    },
+    {
+      "time": 60.52,
+      "time_str": "01:00.520",
+      "text": "在黑夜里 连成一条线",
+      "translation": null
+    },
+    {
+      "time": 65.69,
+      "time_str": "01:05.690",
+      "text": "你和我之间 只能相连",
+      "translation": null
+    },
+    {
+      "time": 69.72,
+      "time_str": "01:09.720",
+      "text": "两颗心",
+      "translation": null
+    },
+    {
+      "time": 71.37,
+      "time_str": "01:11.370",
+      "text": "有一样的信念",
+      "translation": null
+    },
+    {
+      "time": 74.72,
+      "time_str": "01:14.720",
+      "text": "我们面对面 挂在天边",
+      "translation": null
+    },
+    {
+      "time": 78.97,
+      "time_str": "01:18.970",
+      "text": "流星画出一条抛物线",
+      "translation": null
+    },
+    {
+      "time": 83.62,
+      "time_str": "01:23.620",
+      "text": "我许的心愿 早已实现",
+      "translation": null
+    },
+    {
+      "time": 88.47,
+      "time_str": "01:28.470",
+      "text": "就是我们永远",
+      "translation": null
+    },
+    {
+      "time": 91.27,
+      "time_str": "01:31.270",
+      "text": "陪伴在彼此身边",
+      "translation": null
+    },
+    {
+      "time": 112.479,
+      "time_str": "01:52.479",
+      "text": "天上的星星数不清",
+      "translation": null
+    },
+    {
+      "time": 116.88,
+      "time_str": "01:56.880",
+      "text": "最亮的是你",
+      "translation": null
+    },
+    {
+      "time": 121.48,
+      "time_str": "02:01.480",
+      "text": "不管有多远我愿意",
+      "translation": null
+    },
+    {
+      "time": 125.73,
+      "time_str": "02:05.730",
+      "text": "放弃一切寻找你",
+      "translation": null
+    },
+    {
+      "time": 130.229,
+      "time_str": "02:10.229",
+      "text": "我不需要",
+      "translation": null
+    },
+    {
+      "time": 131.77,
+      "time_str": "02:11.770",
+      "text": "用时间为我证明",
+      "translation": null
+    },
+    {
+      "time": 134.94,
+      "time_str": "02:14.940",
+      "text": "就可以肯定",
+      "translation": null
+    },
+    {
+      "time": 139.53,
+      "time_str": "02:19.530",
+      "text": "你的快乐、伤心",
+      "translation": null
+    },
+    {
+      "time": 141.98,
+      "time_str": "02:21.980",
+      "text": "我都能感应",
+      "translation": null
+    },
+    {
+      "time": 144.28,
+      "time_str": "02:24.280",
+      "text": "我们就像双子星",
+      "translation": null
+    },
+    {
+      "time": 148.88,
+      "time_str": "02:28.880",
+      "text": "我们面对面 挂在天边",
+      "translation": null
+    },
+    {
+      "time": 153.63,
+      "time_str": "02:33.630",
+      "text": "在黑夜里连成一条线",
+      "translation": null
+    },
+    {
+      "time": 158.18,
+      "time_str": "02:38.180",
+      "text": "你和我之间 只能相连",
+      "translation": null
+    },
+    {
+      "time": 162.93,
+      "time_str": "02:42.930",
+      "text": "两颗心",
+      "translation": null
+    },
+    {
+      "time": 164.579,
+      "time_str": "02:44.579",
+      "text": "有一样的信念",
+      "translation": null
+    },
+    {
+      "time": 167.579,
+      "time_str": "02:47.579",
+      "text": "我们面对面 挂在天边",
+      "translation": null
+    },
+    {
+      "time": 172.18,
+      "time_str": "02:52.180",
+      "text": "流星画出一条抛物线",
+      "translation": null
+    },
+    {
+      "time": 176.68,
+      "time_str": "02:56.680",
+      "text": "我许的心愿 早已实现",
+      "translation": null
+    },
+    {
+      "time": 181.58,
+      "time_str": "03:01.580",
+      "text": "就是我们永远",
+      "translation": null
+    },
+    {
+      "time": 184.59,
+      "time_str": "03:04.590",
+      "text": "陪伴在彼此身边",
+      "translation": null
+    },
+    {
+      "time": 188.49,
+      "time_str": "03:08.490",
+      "text": "我们面对面 挂在天边",
+      "translation": null
+    },
+    {
+      "time": 193.14,
+      "time_str": "03:13.140",
+      "text": "在黑夜里成一条线",
+      "translation": null
+    },
+    {
+      "time": 197.95,
+      "time_str": "03:17.950",
+      "text": "你和我之间 只能相连",
+      "translation": null
+    },
+    {
+      "time": 202.55,
+      "time_str": "03:22.550",
+      "text": "两颗心",
+      "translation": null
+    },
+    {
+      "time": 204.1,
+      "time_str": "03:24.100",
+      "text": "有一样的信念",
+      "translation": null
+    },
+    {
+      "time": 207.2,
+      "time_str": "03:27.200",
+      "text": "我们面对面 挂在天边",
+      "translation": null
+    },
+    {
+      "time": 211.75,
+      "time_str": "03:31.750",
+      "text": "流星画出一条抛物线",
+      "translation": null
+    },
+    {
+      "time": 216.55,
+      "time_str": "03:36.550",
+      "text": "我许的心愿 早已实现",
+      "translation": null
+    },
+    {
+      "time": 221.2,
+      "time_str": "03:41.200",
+      "text": "就是我们永远",
+      "translation": null
+    },
+    {
+      "time": 223.55,
+      "time_str": "03:43.550",
+      "text": "一起拥有每一天",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "双子星 - 光良.lrc"
+}

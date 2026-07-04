@@ -1,0 +1,238 @@
+{
+  "title": "风往北吹",
+  "title_raw": "风往北吹",
+  "version": null,
+  "artist": "孙楠",
+  "group_key": "风往北吹|孙楠",
+  "writers": {
+    "lyricist": "易家扬",
+    "composer": "玉置浩二",
+    "arranger": "孙楠"
+  },
+  "lyrics": [
+    {
+      "time": 31.33,
+      "time_str": "00:31.330",
+      "text": "你的手一挥 说要往北飞",
+      "translation": null
+    },
+    {
+      "time": 37.93,
+      "time_str": "00:37.930",
+      "text": "爱情被一刀剪碎 我的心一片黑",
+      "translation": null
+    },
+    {
+      "time": 46.26,
+      "time_str": "00:46.260",
+      "text": "你讲的很对 说永远多累",
+      "translation": null
+    },
+    {
+      "time": 53.3,
+      "time_str": "00:53.300",
+      "text": "但是这一声再会 以后谁记得谁",
+      "translation": null
+    },
+    {
+      "time": 62.38,
+      "time_str": "01:02.380",
+      "text": "我以为我的爱情",
+      "translation": null
+    },
+    {
+      "time": 65.85,
+      "time_str": "01:05.850",
+      "text": "可以满足你想买的醉",
+      "translation": null
+    },
+    {
+      "time": 70.94,
+      "time_str": "01:10.940",
+      "text": "风一吹 我才知道自己早已崩溃",
+      "translation": null
+    },
+    {
+      "time": 79.39,
+      "time_str": "01:19.390",
+      "text": "风往北吹 你走的好干脆",
+      "translation": null
+    },
+    {
+      "time": 86.33,
+      "time_str": "01:26.330",
+      "text": "我的眼睁不开 流着泪",
+      "translation": null
+    },
+    {
+      "time": 90.13,
+      "time_str": "01:30.130",
+      "text": "你用一句话把一切收回",
+      "translation": null
+    },
+    {
+      "time": 92.96,
+      "time_str": "01:32.960",
+      "text": "我往北追 用迷了路的腿",
+      "translation": null
+    },
+    {
+      "time": 100.13,
+      "time_str": "01:40.130",
+      "text": "我只有往前飞 退不回",
+      "translation": null
+    },
+    {
+      "time": 103.34,
+      "time_str": "01:43.340",
+      "text": "北方没有你",
+      "translation": null
+    },
+    {
+      "time": 106.789,
+      "time_str": "01:46.789",
+      "text": "要我如何收拾你给我的美",
+      "translation": null
+    },
+    {
+      "time": 139.81,
+      "time_str": "02:19.810",
+      "text": "你的手一挥 说要往北飞",
+      "translation": null
+    },
+    {
+      "time": 146.18,
+      "time_str": "02:26.180",
+      "text": "爱情被一刀剪碎",
+      "translation": null
+    },
+    {
+      "time": 150.81,
+      "time_str": "02:30.810",
+      "text": "我的心一片黑",
+      "translation": null
+    },
+    {
+      "time": 155.5,
+      "time_str": "02:35.500",
+      "text": "你讲的很对 说永远多累",
+      "translation": null
+    },
+    {
+      "time": 161.329,
+      "time_str": "02:41.329",
+      "text": "但是这一声再会 以后谁记得谁",
+      "translation": null
+    },
+    {
+      "time": 170.77,
+      "time_str": "02:50.770",
+      "text": "我以为我的爱情",
+      "translation": null
+    },
+    {
+      "time": 174.5,
+      "time_str": "02:54.500",
+      "text": "可以满足你想买的醉",
+      "translation": null
+    },
+    {
+      "time": 179.2,
+      "time_str": "02:59.200",
+      "text": "风一吹 我才知道自己早已崩溃",
+      "translation": null
+    },
+    {
+      "time": 187.74,
+      "time_str": "03:07.740",
+      "text": "风往北吹 你走的好干脆",
+      "translation": null
+    },
+    {
+      "time": 194.57,
+      "time_str": "03:14.570",
+      "text": "我的眼睁不开 流着泪",
+      "translation": null
+    },
+    {
+      "time": 198.9,
+      "time_str": "03:18.900",
+      "text": "你用一句话把一切收回",
+      "translation": null
+    },
+    {
+      "time": 201.86,
+      "time_str": "03:21.860",
+      "text": "我往北追 用迷了路的腿",
+      "translation": null
+    },
+    {
+      "time": 208.96,
+      "time_str": "03:28.960",
+      "text": "我只有往前飞 退不回",
+      "translation": null
+    },
+    {
+      "time": 212.48,
+      "time_str": "03:32.480",
+      "text": "北方没有你",
+      "translation": null
+    },
+    {
+      "time": 215.74,
+      "time_str": "03:35.740",
+      "text": "要我如何收拾你给我的美",
+      "translation": null
+    },
+    {
+      "time": 232.53,
+      "time_str": "03:52.530",
+      "text": "风往北吹 你走的好干脆",
+      "translation": null
+    },
+    {
+      "time": 240.45,
+      "time_str": "04:00.450",
+      "text": "我的眼睁不开 流着泪",
+      "translation": null
+    },
+    {
+      "time": 244.11,
+      "time_str": "04:04.110",
+      "text": "你用一句话把一切收回",
+      "translation": null
+    },
+    {
+      "time": 247.06,
+      "time_str": "04:07.060",
+      "text": "我往北追 用迷了路的腿",
+      "translation": null
+    },
+    {
+      "time": 254.04,
+      "time_str": "04:14.040",
+      "text": "我只有往前飞 退不回",
+      "translation": null
+    },
+    {
+      "time": 258.39,
+      "time_str": "04:18.390",
+      "text": "北方没有你",
+      "translation": null
+    },
+    {
+      "time": 261.17,
+      "time_str": "04:21.170",
+      "text": "要我如何收拾你给我的美",
+      "translation": null
+    },
+    {
+      "time": 268.08,
+      "time_str": "04:28.080",
+      "text": "要我如何收拾你给我的美",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "风往北吹 - 孙楠.lrc"
+}

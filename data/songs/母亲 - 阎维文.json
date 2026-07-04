@@ -1,0 +1,160 @@
+{
+  "title": "母亲",
+  "title_raw": "母亲",
+  "version": null,
+  "artist": "阎维文",
+  "group_key": "母亲|阎维文",
+  "writers": {
+    "lyricist": "张俊以/车行",
+    "composer": "戚建波",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 44.6,
+      "time_str": "00:44.600",
+      "text": "你入学的新书包有人给你拿",
+      "translation": null
+    },
+    {
+      "time": 53.6,
+      "time_str": "00:53.600",
+      "text": "你雨中的花折伞有人给你打",
+      "translation": null
+    },
+    {
+      "time": 63.6,
+      "time_str": "01:03.600",
+      "text": "你爱吃的（那）三鲜馅有人（他）给你包",
+      "translation": null
+    },
+    {
+      "time": 73.6,
+      "time_str": "01:13.600",
+      "text": "你委屈的泪花有人给你擦",
+      "translation": null
+    },
+    {
+      "time": 82.6,
+      "time_str": "01:22.600",
+      "text": "啊，这个人就是娘",
+      "translation": null
+    },
+    {
+      "time": 87.6,
+      "time_str": "01:27.600",
+      "text": "啊，这个人就是妈",
+      "translation": null
+    },
+    {
+      "time": 93.6,
+      "time_str": "01:33.600",
+      "text": "这个人给了我生命",
+      "translation": null
+    },
+    {
+      "time": 97.6,
+      "time_str": "01:37.600",
+      "text": "给我一个家",
+      "translation": null
+    },
+    {
+      "time": 102.6,
+      "time_str": "01:42.600",
+      "text": "啊，不管你走多远",
+      "translation": null
+    },
+    {
+      "time": 107.6,
+      "time_str": "01:47.600",
+      "text": "无论你在干啥",
+      "translation": null
+    },
+    {
+      "time": 112.6,
+      "time_str": "01:52.600",
+      "text": "到什么时候也离不开",
+      "translation": null
+    },
+    {
+      "time": 117.6,
+      "time_str": "01:57.600",
+      "text": "咱的妈",
+      "translation": null
+    },
+    {
+      "time": 147.6,
+      "time_str": "02:27.600",
+      "text": "你身在（那）他乡住有人在牵挂",
+      "translation": null
+    },
+    {
+      "time": 156.6,
+      "time_str": "02:36.600",
+      "text": "你回到（那）家里边有人沏热茶",
+      "translation": null
+    },
+    {
+      "time": 166.6,
+      "time_str": "02:46.600",
+      "text": "你躺在（那）病床上有人（他）掉眼泪",
+      "translation": null
+    },
+    {
+      "time": 176.6,
+      "time_str": "02:56.600",
+      "text": "你露出（那）笑容时有人乐开花",
+      "translation": null
+    },
+    {
+      "time": 185.6,
+      "time_str": "03:05.600",
+      "text": "啊，这个人就是娘",
+      "translation": null
+    },
+    {
+      "time": 190.6,
+      "time_str": "03:10.600",
+      "text": "啊，这个人就是妈",
+      "translation": null
+    },
+    {
+      "time": 195.6,
+      "time_str": "03:15.600",
+      "text": "这个人给了我生命",
+      "translation": null
+    },
+    {
+      "time": 200.6,
+      "time_str": "03:20.600",
+      "text": "给我一个家",
+      "translation": null
+    },
+    {
+      "time": 205.6,
+      "time_str": "03:25.600",
+      "text": "啊，不管你多富有",
+      "translation": null
+    },
+    {
+      "time": 209.6,
+      "time_str": "03:29.600",
+      "text": "无论你官多大",
+      "translation": null
+    },
+    {
+      "time": 215.6,
+      "time_str": "03:35.600",
+      "text": "到什么时候也不能忘",
+      "translation": null
+    },
+    {
+      "time": 220.6,
+      "time_str": "03:40.600",
+      "text": "咱的妈",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "母亲 - 阎维文.lrc"
+}

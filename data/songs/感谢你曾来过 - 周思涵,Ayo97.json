@@ -1,0 +1,544 @@
+{
+  "title": "感谢你曾来过",
+  "title_raw": "感谢你曾来过",
+  "version": null,
+  "artist": "周思涵,Ayo97",
+  "group_key": "感谢你曾来过|周思涵,ayo97",
+  "writers": {
+    "lyricist": "周思涵/Ayo97",
+    "composer": "周思涵/Ayo97",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 14.74,
+      "time_str": "00:14.740",
+      "text": "你最近过的还好吗",
+      "translation": null
+    },
+    {
+      "time": 16.06,
+      "time_str": "00:16.060",
+      "text": "我故事里的那个她",
+      "translation": null
+    },
+    {
+      "time": 17.54,
+      "time_str": "00:17.540",
+      "text": "海南的冬天没有雪",
+      "translation": null
+    },
+    {
+      "time": 18.88,
+      "time_str": "00:18.880",
+      "text": "但不影响他开着花",
+      "translation": null
+    },
+    {
+      "time": 20.51,
+      "time_str": "00:20.510",
+      "text": "自从你走后",
+      "translation": null
+    },
+    {
+      "time": 21.68,
+      "time_str": "00:21.680",
+      "text": "我回到了那个",
+      "translation": null
+    },
+    {
+      "time": 22.5,
+      "time_str": "00:22.500",
+      "text": "没有你的家",
+      "translation": null
+    },
+    {
+      "time": 23.61,
+      "time_str": "00:23.610",
+      "text": "就是在这个地方",
+      "translation": null
+    },
+    {
+      "time": 25.2,
+      "time_str": "00:25.200",
+      "text": "我说我要娶了她",
+      "translation": null
+    },
+    {
+      "time": 26.58,
+      "time_str": "00:26.580",
+      "text": "你是我这一辈子",
+      "translation": null
+    },
+    {
+      "time": 28.12,
+      "time_str": "00:28.120",
+      "text": "最最难忘的关卡",
+      "translation": null
+    },
+    {
+      "time": 29.87,
+      "time_str": "00:29.870",
+      "text": "我抱着吉他",
+      "translation": null
+    },
+    {
+      "time": 31.31,
+      "time_str": "00:31.310",
+      "text": "被暴雨淋伤",
+      "translation": null
+    },
+    {
+      "time": 32.83,
+      "time_str": "00:32.830",
+      "text": "到你家楼下",
+      "translation": null
+    },
+    {
+      "time": 34.27,
+      "time_str": "00:34.270",
+      "text": "为你四处游荡",
+      "translation": null
+    },
+    {
+      "time": 35.7,
+      "time_str": "00:35.700",
+      "text": "做了一个",
+      "translation": null
+    },
+    {
+      "time": 36.41,
+      "time_str": "00:36.410",
+      "text": "只会歌唱的傻瓜",
+      "translation": null
+    },
+    {
+      "time": 39.33,
+      "time_str": "00:39.330",
+      "text": "你才不是一个",
+      "translation": null
+    },
+    {
+      "time": 40.51,
+      "time_str": "00:40.510",
+      "text": "没人要的女同学",
+      "translation": null
+    },
+    {
+      "time": 44.59,
+      "time_str": "00:44.590",
+      "text": "谁会不厌其烦的",
+      "translation": null
+    },
+    {
+      "time": 47.2,
+      "time_str": "00:47.200",
+      "text": "安慰那无知的少年",
+      "translation": null
+    },
+    {
+      "time": 50.77,
+      "time_str": "00:50.770",
+      "text": "我走进了你的世界",
+      "translation": null
+    },
+    {
+      "time": 52.31,
+      "time_str": "00:52.310",
+      "text": "别怪我太耀眼",
+      "translation": null
+    },
+    {
+      "time": 53.54,
+      "time_str": "00:53.540",
+      "text": "我愿意用我十年奋斗",
+      "translation": null
+    },
+    {
+      "time": 55.07,
+      "time_str": "00:55.070",
+      "text": "换你一个小时的笑脸",
+      "translation": null
+    },
+    {
+      "time": 56.5,
+      "time_str": "00:56.500",
+      "text": "你当时特别的可爱",
+      "translation": null
+    },
+    {
+      "time": 58.31,
+      "time_str": "00:58.310",
+      "text": "但能不能靠近点",
+      "translation": null
+    },
+    {
+      "time": 59.54,
+      "time_str": "00:59.540",
+      "text": "你不说真心话",
+      "translation": null
+    },
+    {
+      "time": 60.648,
+      "time_str": "01:00.648",
+      "text": "你让我怎么为你大冒险",
+      "translation": null
+    },
+    {
+      "time": 63.357,
+      "time_str": "01:03.357",
+      "text": "曾经的照片",
+      "translation": null
+    },
+    {
+      "time": 65.259,
+      "time_str": "01:05.259",
+      "text": "还留在那个房间",
+      "translation": null
+    },
+    {
+      "time": 69.328,
+      "time_str": "01:09.328",
+      "text": "曾经的一切",
+      "translation": null
+    },
+    {
+      "time": 71.119,
+      "time_str": "01:11.119",
+      "text": "还印在我心里面",
+      "translation": null
+    },
+    {
+      "time": 74.5,
+      "time_str": "01:14.500",
+      "text": "感谢你曾经来过",
+      "translation": null
+    },
+    {
+      "time": 77.619,
+      "time_str": "01:17.619",
+      "text": "就算你是个过客",
+      "translation": null
+    },
+    {
+      "time": 80.679,
+      "time_str": "01:20.679",
+      "text": "我也无法割舍不得",
+      "translation": null
+    },
+    {
+      "time": 87.268,
+      "time_str": "01:27.268",
+      "text": "我说的每句话",
+      "translation": null
+    },
+    {
+      "time": 89.539,
+      "time_str": "01:29.539",
+      "text": "你都已听不见",
+      "translation": null
+    },
+    {
+      "time": 93.28,
+      "time_str": "01:33.280",
+      "text": "回忆的一幕幕",
+      "translation": null
+    },
+    {
+      "time": 95.679,
+      "time_str": "01:35.679",
+      "text": "不断的在浮现",
+      "translation": null
+    },
+    {
+      "time": 98.378,
+      "time_str": "01:38.378",
+      "text": "不后悔曾经爱过",
+      "translation": null
+    },
+    {
+      "time": 101.509,
+      "time_str": "01:41.509",
+      "text": "哭过痛过都值得",
+      "translation": null
+    },
+    {
+      "time": 104.58,
+      "time_str": "01:44.580",
+      "text": "如果难过也不要忘了我",
+      "translation": null
+    },
+    {
+      "time": 110.209,
+      "time_str": "01:50.209",
+      "text": "忘了我",
+      "translation": null
+    },
+    {
+      "time": 113.84,
+      "time_str": "01:53.840",
+      "text": "人总要学着孤独",
+      "translation": null
+    },
+    {
+      "time": 115.069,
+      "time_str": "01:55.069",
+      "text": "试着慢慢去长大",
+      "translation": null
+    },
+    {
+      "time": 116.8,
+      "time_str": "01:56.800",
+      "text": "遗憾就遗憾吧",
+      "translation": null
+    },
+    {
+      "time": 118.08,
+      "time_str": "01:58.080",
+      "text": "当你重新回到这",
+      "translation": null
+    },
+    {
+      "time": 119.92,
+      "time_str": "01:59.920",
+      "text": "你送我的我都不要了",
+      "translation": null
+    },
+    {
+      "time": 121.2,
+      "time_str": "02:01.200",
+      "text": "我希望你也会笑着",
+      "translation": null
+    },
+    {
+      "time": 122.959,
+      "time_str": "02:02.959",
+      "text": "走过去前面的路口",
+      "translation": null
+    },
+    {
+      "time": 124.09,
+      "time_str": "02:04.090",
+      "text": "以后我们的故事就到这",
+      "translation": null
+    },
+    {
+      "time": 126.929,
+      "time_str": "02:06.929",
+      "text": "嘿干嘛不讲话",
+      "translation": null
+    },
+    {
+      "time": 128.869,
+      "time_str": "02:08.869",
+      "text": "我希望你过的更好",
+      "translation": null
+    },
+    {
+      "time": 130.138,
+      "time_str": "02:10.138",
+      "text": "我也不会放不下",
+      "translation": null
+    },
+    {
+      "time": 131.929,
+      "time_str": "02:11.929",
+      "text": "别继续看着我",
+      "translation": null
+    },
+    {
+      "time": 132.998,
+      "time_str": "02:12.998",
+      "text": "你确实应该听你爸",
+      "translation": null
+    },
+    {
+      "time": 134.638,
+      "time_str": "02:14.638",
+      "text": "只有看着你的背影",
+      "translation": null
+    },
+    {
+      "time": 136.068,
+      "time_str": "02:16.068",
+      "text": "我才能说出心里话",
+      "translation": null
+    },
+    {
+      "time": 138.378,
+      "time_str": "02:18.378",
+      "text": "曾经的照片",
+      "translation": null
+    },
+    {
+      "time": 140.209,
+      "time_str": "02:20.209",
+      "text": "还留在那个房间",
+      "translation": null
+    },
+    {
+      "time": 144.399,
+      "time_str": "02:24.399",
+      "text": "曾经的一切",
+      "translation": null
+    },
+    {
+      "time": 146.188,
+      "time_str": "02:26.188",
+      "text": "还印在我心里面",
+      "translation": null
+    },
+    {
+      "time": 149.628,
+      "time_str": "02:29.628",
+      "text": "感谢你曾经来过",
+      "translation": null
+    },
+    {
+      "time": 152.598,
+      "time_str": "02:32.598",
+      "text": "就算你是个过客",
+      "translation": null
+    },
+    {
+      "time": 155.61,
+      "time_str": "02:35.610",
+      "text": "我也无法割舍不得",
+      "translation": null
+    },
+    {
+      "time": 162.309,
+      "time_str": "02:42.309",
+      "text": "我说的每句话",
+      "translation": null
+    },
+    {
+      "time": 164.61,
+      "time_str": "02:44.610",
+      "text": "你都已听不见",
+      "translation": null
+    },
+    {
+      "time": 168.288,
+      "time_str": "02:48.288",
+      "text": "回忆的一幕幕",
+      "translation": null
+    },
+    {
+      "time": 170.528,
+      "time_str": "02:50.528",
+      "text": "不断在浮现",
+      "translation": null
+    },
+    {
+      "time": 173.449,
+      "time_str": "02:53.449",
+      "text": "不后悔曾经爱过",
+      "translation": null
+    },
+    {
+      "time": 176.568,
+      "time_str": "02:56.568",
+      "text": "哭过痛过都值得",
+      "translation": null
+    },
+    {
+      "time": 179.58,
+      "time_str": "02:59.580",
+      "text": "如果难过也不要忘了我",
+      "translation": null
+    },
+    {
+      "time": 185.248,
+      "time_str": "03:05.248",
+      "text": "忘了我",
+      "translation": null
+    },
+    {
+      "time": 187.848,
+      "time_str": "03:07.848",
+      "text": "呼……",
+      "translation": null
+    },
+    {
+      "time": 191.179,
+      "time_str": "03:11.179",
+      "text": "嘿耶……",
+      "translation": null
+    },
+    {
+      "time": 194.709,
+      "time_str": "03:14.709",
+      "text": "哦……",
+      "translation": null
+    },
+    {
+      "time": 197.468,
+      "time_str": "03:17.468",
+      "text": "感谢你曾经来过",
+      "translation": null
+    },
+    {
+      "time": 200.649,
+      "time_str": "03:20.649",
+      "text": "就算你是个过客",
+      "translation": null
+    },
+    {
+      "time": 203.568,
+      "time_str": "03:23.568",
+      "text": "我也无法割舍不得",
+      "translation": null
+    },
+    {
+      "time": 210.369,
+      "time_str": "03:30.369",
+      "text": "我说的每句话",
+      "translation": null
+    },
+    {
+      "time": 212.669,
+      "time_str": "03:32.669",
+      "text": "你都已听不见",
+      "translation": null
+    },
+    {
+      "time": 216.3,
+      "time_str": "03:36.300",
+      "text": "回忆的一幕幕",
+      "translation": null
+    },
+    {
+      "time": 218.598,
+      "time_str": "03:38.598",
+      "text": "不断在浮现",
+      "translation": null
+    },
+    {
+      "time": 221.46,
+      "time_str": "03:41.460",
+      "text": "不后悔曾经爱过",
+      "translation": null
+    },
+    {
+      "time": 224.58,
+      "time_str": "03:44.580",
+      "text": "哭过痛过都值得",
+      "translation": null
+    },
+    {
+      "time": 227.55,
+      "time_str": "03:47.550",
+      "text": "如果难过也不要忘了我",
+      "translation": null
+    },
+    {
+      "time": 233.309,
+      "time_str": "03:53.309",
+      "text": "忘了我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "感谢你曾来过 - 周思涵,Ayo97.lrc"
+}

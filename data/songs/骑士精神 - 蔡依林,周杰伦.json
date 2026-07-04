@@ -1,0 +1,628 @@
+{
+  "title": "骑士精神",
+  "title_raw": "骑士精神",
+  "version": null,
+  "artist": "蔡依林,周杰伦",
+  "group_key": "骑士精神|蔡依林,周杰伦",
+  "writers": {
+    "lyricist": "蔡依林",
+    "composer": "周杰伦",
+    "arranger": "钟兴民"
+  },
+  "lyrics": [
+    {
+      "time": 25.17,
+      "time_str": "00:25.170",
+      "text": "当我看见左肩破损的战衣",
+      "translation": null
+    },
+    {
+      "time": 28.84,
+      "time_str": "00:28.840",
+      "text": "盔甲后你的表情带着笑意",
+      "translation": null
+    },
+    {
+      "time": 30.86,
+      "time_str": "00:30.860",
+      "text": "想要对我说",
+      "translation": null
+    },
+    {
+      "time": 32.24,
+      "time_str": "00:32.240",
+      "text": "外来的袭击即将离公主远去",
+      "translation": null
+    },
+    {
+      "time": 35.07,
+      "time_str": "00:35.070",
+      "text": "那些令人刺耳的声音",
+      "translation": null
+    },
+    {
+      "time": 36.25,
+      "time_str": "00:36.250",
+      "text": "我不听我不听",
+      "translation": null
+    },
+    {
+      "time": 37.9,
+      "time_str": "00:37.900",
+      "text": "偏偏我又容易受影响容易伤心",
+      "translation": null
+    },
+    {
+      "time": 40.13,
+      "time_str": "00:40.130",
+      "text": "没有用 微笑的表面不停骗自己",
+      "translation": null
+    },
+    {
+      "time": 42.9,
+      "time_str": "00:42.900",
+      "text": "他们的语气",
+      "translation": null
+    },
+    {
+      "time": 43.59,
+      "time_str": "00:43.590",
+      "text": "好笑的攻击",
+      "translation": null
+    },
+    {
+      "time": 43.92,
+      "time_str": "00:43.920",
+      "text": "自卑的心理",
+      "translation": null
+    },
+    {
+      "time": 44.78,
+      "time_str": "00:44.780",
+      "text": "四年来",
+      "translation": null
+    },
+    {
+      "time": 45.44,
+      "time_str": "00:45.440",
+      "text": "带着各种面具想让你我孤立",
+      "translation": null
+    },
+    {
+      "time": 48.62,
+      "time_str": "00:48.620",
+      "text": "莫名其妙那些话语",
+      "translation": null
+    },
+    {
+      "time": 49.83,
+      "time_str": "00:49.830",
+      "text": "莫名其妙那些话语",
+      "translation": null
+    },
+    {
+      "time": 51.03,
+      "time_str": "00:51.030",
+      "text": "如同沙子掉进眼里",
+      "translation": null
+    },
+    {
+      "time": 52.41,
+      "time_str": "00:52.410",
+      "text": "不用哭泣",
+      "translation": null
+    },
+    {
+      "time": 53.78,
+      "time_str": "00:53.780",
+      "text": "莫名其妙那些话语",
+      "translation": null
+    },
+    {
+      "time": 55.16,
+      "time_str": "00:55.160",
+      "text": "莫名其妙那些话语",
+      "translation": null
+    },
+    {
+      "time": 56.29,
+      "time_str": "00:56.290",
+      "text": "不如下档电影",
+      "translation": null
+    },
+    {
+      "time": 57.31,
+      "time_str": "00:57.310",
+      "text": "值得注意",
+      "translation": null
+    },
+    {
+      "time": 58.91,
+      "time_str": "00:58.910",
+      "text": "我 不要王子",
+      "translation": null
+    },
+    {
+      "time": 60.1,
+      "time_str": "01:00.100",
+      "text": "苦苦守候的故事",
+      "translation": null
+    },
+    {
+      "time": 61.82,
+      "time_str": "01:01.820",
+      "text": "梦幻不实",
+      "translation": null
+    },
+    {
+      "time": 62.53,
+      "time_str": "01:02.530",
+      "text": "我不希望 你是王子",
+      "translation": null
+    },
+    {
+      "time": 64.42,
+      "time_str": "01:04.420",
+      "text": "因为瑰丽童话结局",
+      "translation": null
+    },
+    {
+      "time": 65.84,
+      "time_str": "01:05.840",
+      "text": "为战而死",
+      "translation": null
+    },
+    {
+      "time": 67.06,
+      "time_str": "01:07.060",
+      "text": "故事开端结局会因你而真实",
+      "translation": null
+    },
+    {
+      "time": 80.05,
+      "time_str": "01:20.050",
+      "text": "像骑士的忠贞",
+      "translation": null
+    },
+    {
+      "time": 81.24,
+      "time_str": "01:21.240",
+      "text": "不畏惧邪恶的眼神",
+      "translation": null
+    },
+    {
+      "time": 82.97,
+      "time_str": "01:22.970",
+      "text": "这过程",
+      "translation": null
+    },
+    {
+      "time": 84.01,
+      "time_str": "01:24.010",
+      "text": "一直放在我心底",
+      "translation": null
+    },
+    {
+      "time": 85.44,
+      "time_str": "01:25.440",
+      "text": "就像挡在你胸前的盔甲",
+      "translation": null
+    },
+    {
+      "time": 88.36,
+      "time_str": "01:28.360",
+      "text": "保护着我",
+      "translation": null
+    },
+    {
+      "time": 89.65,
+      "time_str": "01:29.650",
+      "text": "让我心疼",
+      "translation": null
+    },
+    {
+      "time": 91.05,
+      "time_str": "01:31.050",
+      "text": "骑士们发挥出你们的精神",
+      "translation": null
+    },
+    {
+      "time": 93.65,
+      "time_str": "01:33.650",
+      "text": "就这样",
+      "translation": null
+    },
+    {
+      "time": 94.67,
+      "time_str": "01:34.670",
+      "text": "强悍的骑士撑到最后",
+      "translation": null
+    },
+    {
+      "time": 96.46,
+      "time_str": "01:36.460",
+      "text": "骄傲的公主要回家",
+      "translation": null
+    },
+    {
+      "time": 98.91,
+      "time_str": "01:38.910",
+      "text": "整装再出发",
+      "translation": null
+    },
+    {
+      "time": 101.33,
+      "time_str": "01:41.330",
+      "text": "像骑士的忠贞",
+      "translation": null
+    },
+    {
+      "time": 102.55,
+      "time_str": "01:42.550",
+      "text": "不畏惧邪恶的眼神",
+      "translation": null
+    },
+    {
+      "time": 104.32,
+      "time_str": "01:44.320",
+      "text": "这过程",
+      "translation": null
+    },
+    {
+      "time": 105.24,
+      "time_str": "01:45.240",
+      "text": "一直放在我心底",
+      "translation": null
+    },
+    {
+      "time": 106.69,
+      "time_str": "01:46.690",
+      "text": "就像挡在你胸前的盔甲",
+      "translation": null
+    },
+    {
+      "time": 109.56,
+      "time_str": "01:49.560",
+      "text": "保护着我",
+      "translation": null
+    },
+    {
+      "time": 110.83,
+      "time_str": "01:50.830",
+      "text": "让我心疼",
+      "translation": null
+    },
+    {
+      "time": 137.42,
+      "time_str": "02:17.420",
+      "text": "当我看见左肩破损的战衣",
+      "translation": null
+    },
+    {
+      "time": 139.23,
+      "time_str": "02:19.230",
+      "text": "盔甲后你的表情带着笑意",
+      "translation": null
+    },
+    {
+      "time": 141.25,
+      "time_str": "02:21.250",
+      "text": "想要对我说",
+      "translation": null
+    },
+    {
+      "time": 142.7,
+      "time_str": "02:22.700",
+      "text": "外来的袭击即将离公主远去",
+      "translation": null
+    },
+    {
+      "time": 145.13,
+      "time_str": "02:25.130",
+      "text": "那些令人刺耳的声音",
+      "translation": null
+    },
+    {
+      "time": 146.85,
+      "time_str": "02:26.850",
+      "text": "我不听我不听",
+      "translation": null
+    },
+    {
+      "time": 148.08,
+      "time_str": "02:28.080",
+      "text": "偏偏我又容易受影响容易伤心",
+      "translation": null
+    },
+    {
+      "time": 150.51,
+      "time_str": "02:30.510",
+      "text": "没有用 微笑的表面不停骗自己",
+      "translation": null
+    },
+    {
+      "time": 153.23,
+      "time_str": "02:33.230",
+      "text": "他们的语气",
+      "translation": null
+    },
+    {
+      "time": 153.92,
+      "time_str": "02:33.920",
+      "text": "好笑的攻击",
+      "translation": null
+    },
+    {
+      "time": 154.38,
+      "time_str": "02:34.380",
+      "text": "自卑的心理",
+      "translation": null
+    },
+    {
+      "time": 155.22,
+      "time_str": "02:35.220",
+      "text": "四年来",
+      "translation": null
+    },
+    {
+      "time": 155.76,
+      "time_str": "02:35.760",
+      "text": "带着各种面具想让你我孤立",
+      "translation": null
+    },
+    {
+      "time": 159.03,
+      "time_str": "02:39.030",
+      "text": "莫名其妙那些话语",
+      "translation": null
+    },
+    {
+      "time": 160.33,
+      "time_str": "02:40.330",
+      "text": "莫名其妙那些话语",
+      "translation": null
+    },
+    {
+      "time": 161.48,
+      "time_str": "02:41.480",
+      "text": "如同沙子掉进眼里",
+      "translation": null
+    },
+    {
+      "time": 162.88,
+      "time_str": "02:42.880",
+      "text": "不用哭泣",
+      "translation": null
+    },
+    {
+      "time": 164.3,
+      "time_str": "02:44.300",
+      "text": "莫名其妙那些话语",
+      "translation": null
+    },
+    {
+      "time": 165.42,
+      "time_str": "02:45.420",
+      "text": "莫名其妙那些话语",
+      "translation": null
+    },
+    {
+      "time": 166.76,
+      "time_str": "02:46.760",
+      "text": "不如下档电影",
+      "translation": null
+    },
+    {
+      "time": 167.85,
+      "time_str": "02:47.850",
+      "text": "值得注意",
+      "translation": null
+    },
+    {
+      "time": 169.33,
+      "time_str": "02:49.330",
+      "text": "我 不要王子",
+      "translation": null
+    },
+    {
+      "time": 170.6,
+      "time_str": "02:50.600",
+      "text": "苦苦守候的故事",
+      "translation": null
+    },
+    {
+      "time": 172.32,
+      "time_str": "02:52.320",
+      "text": "梦幻不实",
+      "translation": null
+    },
+    {
+      "time": 173.04,
+      "time_str": "02:53.040",
+      "text": "我不希望 你是王子",
+      "translation": null
+    },
+    {
+      "time": 174.99,
+      "time_str": "02:54.990",
+      "text": "因为瑰丽童话结局",
+      "translation": null
+    },
+    {
+      "time": 176.14,
+      "time_str": "02:56.140",
+      "text": "为战而死",
+      "translation": null
+    },
+    {
+      "time": 177.63,
+      "time_str": "02:57.630",
+      "text": "故事开端结局会因你而真实",
+      "translation": null
+    },
+    {
+      "time": 190.48,
+      "time_str": "03:10.480",
+      "text": "像骑士的忠贞",
+      "translation": null
+    },
+    {
+      "time": 191.72,
+      "time_str": "03:11.720",
+      "text": "不畏惧邪恶的眼神",
+      "translation": null
+    },
+    {
+      "time": 193.42,
+      "time_str": "03:13.420",
+      "text": "这过程",
+      "translation": null
+    },
+    {
+      "time": 194.42,
+      "time_str": "03:14.420",
+      "text": "一直放在我心底",
+      "translation": null
+    },
+    {
+      "time": 195.86,
+      "time_str": "03:15.860",
+      "text": "就像挡在你胸前的盔甲",
+      "translation": null
+    },
+    {
+      "time": 198.72,
+      "time_str": "03:18.720",
+      "text": "保护着我",
+      "translation": null
+    },
+    {
+      "time": 200.0,
+      "time_str": "03:20.000",
+      "text": "让我心疼",
+      "translation": null
+    },
+    {
+      "time": 201.5,
+      "time_str": "03:21.500",
+      "text": "骑士们发挥出你们的精神",
+      "translation": null
+    },
+    {
+      "time": 204.04,
+      "time_str": "03:24.040",
+      "text": "就这样",
+      "translation": null
+    },
+    {
+      "time": 205.0,
+      "time_str": "03:25.000",
+      "text": "强悍的骑士撑到最后",
+      "translation": null
+    },
+    {
+      "time": 206.8,
+      "time_str": "03:26.800",
+      "text": "骄傲的公主要回家",
+      "translation": null
+    },
+    {
+      "time": 209.32,
+      "time_str": "03:29.320",
+      "text": "整装再出发",
+      "translation": null
+    },
+    {
+      "time": 211.43,
+      "time_str": "03:31.430",
+      "text": "当我看见左肩破损的战衣",
+      "translation": null
+    },
+    {
+      "time": 213.6,
+      "time_str": "03:33.600",
+      "text": "盔甲后你的表情带着笑意",
+      "translation": null
+    },
+    {
+      "time": 215.82,
+      "time_str": "03:35.820",
+      "text": "想要对我说",
+      "translation": null
+    },
+    {
+      "time": 217.06,
+      "time_str": "03:37.060",
+      "text": "外来的袭击即将离公主远去",
+      "translation": null
+    },
+    {
+      "time": 219.72,
+      "time_str": "03:39.720",
+      "text": "那些令人刺耳的声音",
+      "translation": null
+    },
+    {
+      "time": 221.56,
+      "time_str": "03:41.560",
+      "text": "我不听我不听",
+      "translation": null
+    },
+    {
+      "time": 222.71,
+      "time_str": "03:42.710",
+      "text": "偏偏我又容易受影响容易伤心",
+      "translation": null
+    },
+    {
+      "time": 225.0,
+      "time_str": "03:45.000",
+      "text": "没有用",
+      "translation": null
+    },
+    {
+      "time": 225.73,
+      "time_str": "03:45.730",
+      "text": "微笑的表面不停骗自己",
+      "translation": null
+    },
+    {
+      "time": 227.7,
+      "time_str": "03:47.700",
+      "text": "他们的语气",
+      "translation": null
+    },
+    {
+      "time": 228.58,
+      "time_str": "03:48.580",
+      "text": "好笑的攻击",
+      "translation": null
+    },
+    {
+      "time": 229.27,
+      "time_str": "03:49.270",
+      "text": "自卑的心理",
+      "translation": null
+    },
+    {
+      "time": 229.75,
+      "time_str": "03:49.750",
+      "text": "四年来",
+      "translation": null
+    },
+    {
+      "time": 230.62,
+      "time_str": "03:50.620",
+      "text": "带着各种面具想让你我孤立",
+      "translation": null
+    },
+    {
+      "time": 256.57,
+      "time_str": "04:16.570",
+      "text": "混音室 : 丽风录音室",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "骑士精神 - 蔡依林,周杰伦.lrc"
+}

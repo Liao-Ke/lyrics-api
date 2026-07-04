@@ -1,0 +1,238 @@
+{
+  "title": "别让我为你心碎",
+  "title_raw": "别让我为你心碎",
+  "version": null,
+  "artist": "易欣",
+  "group_key": "别让我为你心碎|易欣",
+  "writers": {
+    "lyricist": "李伟宾",
+    "composer": "李伟宾",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 32.47,
+      "time_str": "00:32.470",
+      "text": "对于我们之间有时候有些狼狈",
+      "translation": null
+    },
+    {
+      "time": 40.0,
+      "time_str": "00:40.000",
+      "text": "因为到了最后分开还是很干脆",
+      "translation": null
+    },
+    {
+      "time": 47.44,
+      "time_str": "00:47.440",
+      "text": "其实两个人也难免会有些无谓",
+      "translation": null
+    },
+    {
+      "time": 54.91,
+      "time_str": "00:54.910",
+      "text": "久了以后适当也要彼此来相陪",
+      "translation": null
+    },
+    {
+      "time": 61.93,
+      "time_str": "01:01.930",
+      "text": "谁和谁忘了依偎",
+      "translation": null
+    },
+    {
+      "time": 65.3,
+      "time_str": "01:05.300",
+      "text": "我和你也掉下眼泪",
+      "translation": null
+    },
+    {
+      "time": 69.02,
+      "time_str": "01:09.020",
+      "text": "就在爱与不爱之间中徘徊",
+      "translation": null
+    },
+    {
+      "time": 76.57,
+      "time_str": "01:16.570",
+      "text": "别让我为了你心碎",
+      "translation": null
+    },
+    {
+      "time": 80.77,
+      "time_str": "01:20.770",
+      "text": "要好好的面对",
+      "translation": null
+    },
+    {
+      "time": 84.12,
+      "time_str": "01:24.120",
+      "text": "如果错过以后不后悔",
+      "translation": null
+    },
+    {
+      "time": 87.71,
+      "time_str": "01:27.710",
+      "text": "可能谁会忘记谁？",
+      "translation": null
+    },
+    {
+      "time": 91.62,
+      "time_str": "01:31.620",
+      "text": "别让我为你掉眼泪",
+      "translation": null
+    },
+    {
+      "time": 95.74,
+      "time_str": "01:35.740",
+      "text": "不管错与对",
+      "translation": null
+    },
+    {
+      "time": 99.18,
+      "time_str": "01:39.180",
+      "text": "也不能走的太干脆",
+      "translation": null
+    },
+    {
+      "time": 102.71,
+      "time_str": "01:42.710",
+      "text": "别让我再次为了你心碎",
+      "translation": null
+    },
+    {
+      "time": 130.1,
+      "time_str": "02:10.100",
+      "text": "其实两个人也难免会有些无谓",
+      "translation": null
+    },
+    {
+      "time": 137.46,
+      "time_str": "02:17.460",
+      "text": "久了以后适当也要彼此来相陪",
+      "translation": null
+    },
+    {
+      "time": 144.11,
+      "time_str": "02:24.110",
+      "text": "谁和谁忘了依偎",
+      "translation": null
+    },
+    {
+      "time": 147.74,
+      "time_str": "02:27.740",
+      "text": "我和你也掉下眼泪",
+      "translation": null
+    },
+    {
+      "time": 151.57,
+      "time_str": "02:31.570",
+      "text": "就在爱与不爱之间中徘徊",
+      "translation": null
+    },
+    {
+      "time": 159.08,
+      "time_str": "02:39.080",
+      "text": "别让我为了你心碎",
+      "translation": null
+    },
+    {
+      "time": 163.13,
+      "time_str": "02:43.130",
+      "text": "要好好的面对",
+      "translation": null
+    },
+    {
+      "time": 166.45,
+      "time_str": "02:46.450",
+      "text": "如果错过以后不后悔",
+      "translation": null
+    },
+    {
+      "time": 170.18,
+      "time_str": "02:50.180",
+      "text": "可能谁会忘记谁？",
+      "translation": null
+    },
+    {
+      "time": 174.36,
+      "time_str": "02:54.360",
+      "text": "别让我为你掉眼泪",
+      "translation": null
+    },
+    {
+      "time": 178.23,
+      "time_str": "02:58.230",
+      "text": "不管错与对",
+      "translation": null
+    },
+    {
+      "time": 181.61,
+      "time_str": "03:01.610",
+      "text": "也不能走的太干脆",
+      "translation": null
+    },
+    {
+      "time": 185.19,
+      "time_str": "03:05.190",
+      "text": "别让我再次为了你心碎",
+      "translation": null
+    },
+    {
+      "time": 192.89,
+      "time_str": "03:12.890",
+      "text": "别让我为了你心碎",
+      "translation": null
+    },
+    {
+      "time": 197.04,
+      "time_str": "03:17.040",
+      "text": "要好好的面对",
+      "translation": null
+    },
+    {
+      "time": 200.27,
+      "time_str": "03:20.270",
+      "text": "如果错过以后不后悔",
+      "translation": null
+    },
+    {
+      "time": 203.92,
+      "time_str": "03:23.920",
+      "text": "可能谁会忘记谁？",
+      "translation": null
+    },
+    {
+      "time": 207.81,
+      "time_str": "03:27.810",
+      "text": "别让我为你掉眼泪",
+      "translation": null
+    },
+    {
+      "time": 211.97,
+      "time_str": "03:31.970",
+      "text": "不管错与对",
+      "translation": null
+    },
+    {
+      "time": 215.3,
+      "time_str": "03:35.300",
+      "text": "也不能走的太干脆",
+      "translation": null
+    },
+    {
+      "time": 218.96,
+      "time_str": "03:38.960",
+      "text": "别让我再次为了你心碎",
+      "translation": null
+    },
+    {
+      "time": 226.89,
+      "time_str": "03:46.890",
+      "text": "别让我再次为了你心碎",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "别让我为你心碎 - 易欣.lrc"
+}

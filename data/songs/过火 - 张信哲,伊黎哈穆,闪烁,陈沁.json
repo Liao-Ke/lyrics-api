@@ -1,0 +1,370 @@
+{
+  "title": "过火",
+  "title_raw": "过火",
+  "version": null,
+  "artist": "张信哲,伊黎哈穆,闪烁,陈沁",
+  "group_key": "过火|张信哲,伊黎哈穆,闪烁,陈沁",
+  "writers": {
+    "lyricist": "陈佳明",
+    "composer": "曹俊鸿",
+    "arranger": "宋涛"
+  },
+  "lyrics": [
+    {
+      "time": 2.928,
+      "time_str": "00:02.928",
+      "text": "音乐总监 : 赵兆",
+      "translation": null
+    },
+    {
+      "time": 4.88,
+      "time_str": "00:04.880",
+      "text": "音响顾问 : 何飚",
+      "translation": null
+    },
+    {
+      "time": 5.856,
+      "time_str": "00:05.856",
+      "text": "声乐指导 : 梁古驰",
+      "translation": null
+    },
+    {
+      "time": 7.808,
+      "time_str": "00:07.808",
+      "text": "键盘 : 尹岳洋",
+      "translation": null
+    },
+    {
+      "time": 8.784,
+      "time_str": "00:08.784",
+      "text": "贝斯 : 韩阳",
+      "translation": null
+    },
+    {
+      "time": 10.736,
+      "time_str": "00:10.736",
+      "text": "打击乐 : 刘效松",
+      "translation": null
+    },
+    {
+      "time": 11.712,
+      "time_str": "00:11.712",
+      "text": "PGM : 孔潇一",
+      "translation": null
+    },
+    {
+      "time": 15.63,
+      "time_str": "00:15.630",
+      "text": "陈沁：是否对你承诺了太多",
+      "translation": null
+    },
+    {
+      "time": 18.12,
+      "time_str": "00:18.120",
+      "text": "还是我原本给的就不够",
+      "translation": null
+    },
+    {
+      "time": 23.13,
+      "time_str": "00:23.130",
+      "text": "阿穆：你始终有千万种理由",
+      "translation": null
+    },
+    {
+      "time": 25.72,
+      "time_str": "00:25.720",
+      "text": "我一直都跟随你的感受",
+      "translation": null
+    },
+    {
+      "time": 30.52,
+      "time_str": "00:30.520",
+      "text": "闪烁：让你疯 让你去放纵",
+      "translation": null
+    },
+    {
+      "time": 34.66,
+      "time_str": "00:34.660",
+      "text": "以为你 有天会感动",
+      "translation": null
+    },
+    {
+      "time": 37.94,
+      "time_str": "00:37.940",
+      "text": "关于流言 我装作无动于衷",
+      "translation": null
+    },
+    {
+      "time": 49.84,
+      "time_str": "00:49.840",
+      "text": "阿穆+闪烁：直到所有的梦已破碎",
+      "translation": null
+    },
+    {
+      "time": 52.52,
+      "time_str": "00:52.520",
+      "text": "才看见你的眼泪和后悔",
+      "translation": null
+    },
+    {
+      "time": 57.42,
+      "time_str": "00:57.420",
+      "text": "陈沁：我是多想再给你机会",
+      "translation": null
+    },
+    {
+      "time": 60.08,
+      "time_str": "01:00.080",
+      "text": "多想问你究竟爱谁",
+      "translation": null
+    },
+    {
+      "time": 65.05,
+      "time_str": "01:05.050",
+      "text": "阿穆+闪烁：既然爱 难分是非",
+      "translation": null
+    },
+    {
+      "time": 65.05,
+      "time_str": "01:05.050",
+      "text": "（陈沁：到底错与对）",
+      "translation": null
+    },
+    {
+      "time": 68.72,
+      "time_str": "01:08.720",
+      "text": "阿穆+闪烁：就别逃避 勇敢面对",
+      "translation": null
+    },
+    {
+      "time": 68.72,
+      "time_str": "01:08.720",
+      "text": "（陈沁：去面对）",
+      "translation": null
+    },
+    {
+      "time": 72.34,
+      "time_str": "01:12.340",
+      "text": "阿穆+闪烁：给了他的心",
+      "translation": null
+    },
+    {
+      "time": 74.25,
+      "time_str": "01:14.250",
+      "text": "你是否能够 要得回",
+      "translation": null
+    },
+    {
+      "time": 79.26,
+      "time_str": "01:19.260",
+      "text": "陈沁：怎么忍心怪你犯了错",
+      "translation": null
+    },
+    {
+      "time": 84.06,
+      "time_str": "01:24.060",
+      "text": "是我给你自由过了火",
+      "translation": null
+    },
+    {
+      "time": 87.81,
+      "time_str": "01:27.810",
+      "text": "阿穆：让你更寂寞",
+      "translation": null
+    },
+    {
+      "time": 91.21,
+      "time_str": "01:31.210",
+      "text": "才会陷入感情漩涡",
+      "translation": null
+    },
+    {
+      "time": 94.52,
+      "time_str": "01:34.520",
+      "text": "闪烁：怎么忍心让你受折磨",
+      "translation": null
+    },
+    {
+      "time": 99.25,
+      "time_str": "01:39.250",
+      "text": "是我给你自由过了火",
+      "translation": null
+    },
+    {
+      "time": 102.97,
+      "time_str": "01:42.970",
+      "text": "阿穆+陈沁：如果 你想飞",
+      "translation": null
+    },
+    {
+      "time": 106.6,
+      "time_str": "01:46.600",
+      "text": "素人合：伤痛我背",
+      "translation": null
+    },
+    {
+      "time": 126.13,
+      "time_str": "02:06.130",
+      "text": "阿穆：直到所有的梦已破碎",
+      "translation": null
+    },
+    {
+      "time": 126.13,
+      "time_str": "02:06.130",
+      "text": "（陈沁：所有的梦已破碎）",
+      "translation": null
+    },
+    {
+      "time": 128.69,
+      "time_str": "02:08.690",
+      "text": "阿穆：才看见你的眼泪和后悔",
+      "translation": null
+    },
+    {
+      "time": 133.72,
+      "time_str": "02:13.720",
+      "text": "闪烁：我是多想再给你机会",
+      "translation": null
+    },
+    {
+      "time": 133.72,
+      "time_str": "02:13.720",
+      "text": "（阿穆：多想再给你机会）",
+      "translation": null
+    },
+    {
+      "time": 136.26,
+      "time_str": "02:16.260",
+      "text": "闪烁：多想问你究竟爱谁",
+      "translation": null
+    },
+    {
+      "time": 141.16,
+      "time_str": "02:21.160",
+      "text": "陈沁：既然爱（闪烁：既然爱）",
+      "translation": null
+    },
+    {
+      "time": 142.72,
+      "time_str": "02:22.720",
+      "text": "难分是非（阿穆：到底错与对）",
+      "translation": null
+    },
+    {
+      "time": 144.93,
+      "time_str": "02:24.930",
+      "text": "陈沁：就别逃避（闪烁：别逃避）",
+      "translation": null
+    },
+    {
+      "time": 146.5,
+      "time_str": "02:26.500",
+      "text": "勇敢面对（阿穆：去面对）",
+      "translation": null
+    },
+    {
+      "time": 148.47,
+      "time_str": "02:28.470",
+      "text": "陈沁+闪烁：给了他的心",
+      "translation": null
+    },
+    {
+      "time": 150.28,
+      "time_str": "02:30.280",
+      "text": "你是否能够 要得回",
+      "translation": null
+    },
+    {
+      "time": 154.55,
+      "time_str": "02:34.550",
+      "text": "阿穆：oh 怎么忍心让你犯了错",
+      "translation": null
+    },
+    {
+      "time": 160.23,
+      "time_str": "02:40.230",
+      "text": "是我给你自由过了火",
+      "translation": null
+    },
+    {
+      "time": 164.14,
+      "time_str": "02:44.140",
+      "text": "张信哲+陈沁：让你更寂寞 才会陷入感情漩涡",
+      "translation": null
+    },
+    {
+      "time": 170.76,
+      "time_str": "02:50.760",
+      "text": "闪烁：怎么忍心让你受折磨",
+      "translation": null
+    },
+    {
+      "time": 175.43,
+      "time_str": "02:55.430",
+      "text": "是我给你自由过了火",
+      "translation": null
+    },
+    {
+      "time": 179.29,
+      "time_str": "02:59.290",
+      "text": "陈沁+阿穆：如果",
+      "translation": null
+    },
+    {
+      "time": 181.18,
+      "time_str": "03:01.180",
+      "text": "素人合：你想飞 伤痛我背",
+      "translation": null
+    },
+    {
+      "time": 193.86,
+      "time_str": "03:13.860",
+      "text": "张信哲：怎么忍心怪你",
+      "translation": null
+    },
+    {
+      "time": 197.44,
+      "time_str": "03:17.440",
+      "text": "怎么忍心怪你犯了错 是我给你自由过了火",
+      "translation": null
+    },
+    {
+      "time": 205.98,
+      "time_str": "03:25.980",
+      "text": "让你更寂寞 才会陷入感情漩涡",
+      "translation": null
+    },
+    {
+      "time": 212.53,
+      "time_str": "03:32.530",
+      "text": "合：怎么忍心让你受折磨",
+      "translation": null
+    },
+    {
+      "time": 212.53,
+      "time_str": "03:32.530",
+      "text": "（阿穆：怎么忍心让你受折磨）",
+      "translation": null
+    },
+    {
+      "time": 217.37,
+      "time_str": "03:37.370",
+      "text": "合：是我给你自由过了火",
+      "translation": null
+    },
+    {
+      "time": 221.1,
+      "time_str": "03:41.100",
+      "text": "合：如果你想飞 伤痛我背",
+      "translation": null
+    },
+    {
+      "time": 228.9,
+      "time_str": "03:48.900",
+      "text": "张信哲：如果你想飞 伤痛我背",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "过火 - 张信哲,伊黎哈穆,闪烁,陈沁.lrc"
+}

@@ -1,0 +1,310 @@
+{
+  "title": "Hero",
+  "title_raw": "Hero",
+  "version": null,
+  "artist": "Mariah Carey",
+  "group_key": "hero|mariah carey",
+  "writers": {
+    "lyricist": "Mariah Carey",
+    "composer": "Walter Afanasieff/Mariah Carey",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 10.91,
+      "time_str": "00:10.910",
+      "text": "Hmm~",
+      "translation": "嗯哼~"
+    },
+    {
+      "time": 15.68,
+      "time_str": "00:15.680",
+      "text": "There's a hero",
+      "translation": "有一位英雄"
+    },
+    {
+      "time": 20.17,
+      "time_str": "00:20.170",
+      "text": "If you look inside your heart",
+      "translation": "就隐藏在你的内心深处"
+    },
+    {
+      "time": 24.3,
+      "time_str": "00:24.300",
+      "text": "You don't have to be afraid",
+      "translation": "你无需恐惧"
+    },
+    {
+      "time": 27.26,
+      "time_str": "00:27.260",
+      "text": "Of what you are",
+      "translation": "你自己是谁"
+    },
+    {
+      "time": 31.8,
+      "time_str": "00:31.800",
+      "text": "There's an answer",
+      "translation": "终会有答案"
+    },
+    {
+      "time": 36.3,
+      "time_str": "00:36.300",
+      "text": "If you reach into your soul",
+      "translation": "向你的内心深处探索"
+    },
+    {
+      "time": 40.4,
+      "time_str": "00:40.400",
+      "text": "And the sorrow that you know",
+      "translation": "你所熟知的悲伤"
+    },
+    {
+      "time": 43.4,
+      "time_str": "00:43.400",
+      "text": "Will melt away",
+      "translation": "终会烟消云散"
+    },
+    {
+      "time": 49.96,
+      "time_str": "00:49.960",
+      "text": "And then a hero comes along",
+      "translation": "英雄将会出现"
+    },
+    {
+      "time": 53.89,
+      "time_str": "00:53.890",
+      "text": "With the strength to carry on",
+      "translation": "让你充满力量"
+    },
+    {
+      "time": 57.96,
+      "time_str": "00:57.960",
+      "text": "And you cast your fears aside",
+      "translation": "将恐惧甩在一旁"
+    },
+    {
+      "time": 61.75,
+      "time_str": "01:01.750",
+      "text": "And you know you can survive",
+      "translation": "你会知道你将幸存"
+    },
+    {
+      "time": 65.92,
+      "time_str": "01:05.920",
+      "text": "So when you feel like hope is gone",
+      "translation": "所以当你希望破灭时"
+    },
+    {
+      "time": 69.94,
+      "time_str": "01:09.940",
+      "text": "Look inside you and be strong",
+      "translation": "看着内心，学会坚强"
+    },
+    {
+      "time": 73.82,
+      "time_str": "01:13.820",
+      "text": "And you'll finally see the truth",
+      "translation": "你将会发现事实就是"
+    },
+    {
+      "time": 77.93,
+      "time_str": "01:17.930",
+      "text": "That a hero lies in you",
+      "translation": "那个英雄就是你"
+    },
+    {
+      "time": 88.15,
+      "time_str": "01:28.150",
+      "text": "It's a long road",
+      "translation": "这是条漫长的道路"
+    },
+    {
+      "time": 91.96,
+      "time_str": "01:31.960",
+      "text": "When you face the world alone",
+      "translation": "当你独自面对这个世界的时候"
+    },
+    {
+      "time": 96.4,
+      "time_str": "01:36.400",
+      "text": "No one reaches out a hand",
+      "translation": "没人会向你"
+    },
+    {
+      "time": 99.41,
+      "time_str": "01:39.410",
+      "text": "For you to hold",
+      "translation": "伸出援手"
+    },
+    {
+      "time": 103.7,
+      "time_str": "01:43.700",
+      "text": "You can find love",
+      "translation": "你要发现爱"
+    },
+    {
+      "time": 108.7,
+      "time_str": "01:48.700",
+      "text": "If you search within yourself",
+      "translation": "若你探索自我"
+    },
+    {
+      "time": 112.45,
+      "time_str": "01:52.450",
+      "text": "And the emptiness you felt will disappear",
+      "translation": "所感到的空虚寂寞也终会消散"
+    },
+    {
+      "time": 122.0,
+      "time_str": "02:02.000",
+      "text": "And then a hero comes along",
+      "translation": "英雄将会出现"
+    },
+    {
+      "time": 126.7,
+      "time_str": "02:06.700",
+      "text": "With the strength to carry on",
+      "translation": "让你充满力量"
+    },
+    {
+      "time": 130.199,
+      "time_str": "02:10.199",
+      "text": "And you cast your fears aside",
+      "translation": "将恐惧甩在一旁"
+    },
+    {
+      "time": 133.93,
+      "time_str": "02:13.930",
+      "text": "And you know you can survive",
+      "translation": "你会知道你将幸存"
+    },
+    {
+      "time": 137.9,
+      "time_str": "02:17.900",
+      "text": "So when you feel like hope is gone",
+      "translation": "所以当你希望破灭时"
+    },
+    {
+      "time": 142.3,
+      "time_str": "02:22.300",
+      "text": "Look inside you and be strong",
+      "translation": "看着内心，学会坚强"
+    },
+    {
+      "time": 145.98,
+      "time_str": "02:25.980",
+      "text": "And you'll finally see the truth",
+      "translation": "你将会发现事实就是"
+    },
+    {
+      "time": 149.81,
+      "time_str": "02:29.810",
+      "text": "That a hero lies in you",
+      "translation": "那个英雄就是你"
+    },
+    {
+      "time": 154.7,
+      "time_str": "02:34.700",
+      "text": "Lord knows......",
+      "translation": "天知道"
+    },
+    {
+      "time": 161.75,
+      "time_str": "02:41.750",
+      "text": "Dreams are hard to follow",
+      "translation": "梦想很难实现"
+    },
+    {
+      "time": 165.53,
+      "time_str": "02:45.530",
+      "text": "But don't let anyone",
+      "translation": "但是不要让任何人"
+    },
+    {
+      "time": 168.6,
+      "time_str": "02:48.600",
+      "text": "Tear them away",
+      "translation": "破碎掉你的梦"
+    },
+    {
+      "time": 173.55,
+      "time_str": "02:53.550",
+      "text": "hold on",
+      "translation": "再坚持一下"
+    },
+    {
+      "time": 177.69,
+      "time_str": "02:57.690",
+      "text": "There will be tomorrow",
+      "translation": "还会有希望"
+    },
+    {
+      "time": 181.68,
+      "time_str": "03:01.680",
+      "text": "In time you'll find the away",
+      "translation": "终究有一天你会找到那条路"
+    },
+    {
+      "time": 191.3,
+      "time_str": "03:11.300",
+      "text": "And then a hero comes along",
+      "translation": "英雄将会出现"
+    },
+    {
+      "time": 194.47,
+      "time_str": "03:14.470",
+      "text": "With the strength to carry on",
+      "translation": "让你充满力量"
+    },
+    {
+      "time": 198.28,
+      "time_str": "03:18.280",
+      "text": "And you cast your fears aside",
+      "translation": "将恐惧甩在一旁"
+    },
+    {
+      "time": 202.34,
+      "time_str": "03:22.340",
+      "text": "And you know you can survive",
+      "translation": "你会知道你将幸存"
+    },
+    {
+      "time": 206.54,
+      "time_str": "03:26.540",
+      "text": "So when you feel like hope is gone",
+      "translation": "所以当你希望破灭时"
+    },
+    {
+      "time": 210.28,
+      "time_str": "03:30.280",
+      "text": "Look inside you and be strong",
+      "translation": "看着内心，学会坚强"
+    },
+    {
+      "time": 214.41,
+      "time_str": "03:34.410",
+      "text": "And you'll finally see the truth",
+      "translation": "你将会发现事实就是"
+    },
+    {
+      "time": 218.47,
+      "time_str": "03:38.470",
+      "text": "That a hero lies in you",
+      "translation": "那个英雄就是你"
+    },
+    {
+      "time": 226.41,
+      "time_str": "03:46.410",
+      "text": "That a hero lies in you...",
+      "translation": "那个英雄就是你"
+    },
+    {
+      "time": 241.86,
+      "time_str": "04:01.860",
+      "text": "That a hero lies in you......",
+      "translation": "那个英雄就是你"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Hero - Mariah Carey.lrc"
+}

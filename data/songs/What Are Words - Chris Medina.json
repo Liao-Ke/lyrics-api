@@ -1,0 +1,244 @@
+{
+  "title": "What Are Words",
+  "title_raw": "What Are Words",
+  "version": null,
+  "artist": "Chris Medina",
+  "group_key": "what are words|chris medina",
+  "writers": {
+    "lyricist": "Rodney Jerkins/Andre Lindal/Lauren Christy",
+    "composer": "Rodney Jerkins/Andre Lindal/Lauren Christy",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.7,
+      "time_str": "00:15.700",
+      "text": "Anywhere you are, I am near",
+      "translation": "不管你在哪儿，我都会在你身边。"
+    },
+    {
+      "time": 19.4,
+      "time_str": "00:19.400",
+      "text": "Anywhere you go, I'll be there",
+      "translation": "不管你去哪儿，我都将会在那里。"
+    },
+    {
+      "time": 23.36,
+      "time_str": "00:23.360",
+      "text": "Anytime you whisper my name, you'll see",
+      "translation": "你任何时候轻呼我的名字，你都会看到"
+    },
+    {
+      "time": 30.99,
+      "time_str": "00:30.990",
+      "text": "how every single promise I'll keep",
+      "translation": "我是如何信守对你的每个承诺"
+    },
+    {
+      "time": 35.0,
+      "time_str": "00:35.000",
+      "text": "Cause what kind of guy would I be",
+      "translation": "造就了我将会是怎样的人"
+    },
+    {
+      "time": 38.92,
+      "time_str": "00:38.920",
+      "text": "If I was to leave when you need me most",
+      "translation": "如果我在你最需要我的时候离开。"
+    },
+    {
+      "time": 46.8,
+      "time_str": "00:46.800",
+      "text": "What are words",
+      "translation": "算什么承诺啊"
+    },
+    {
+      "time": 48.3,
+      "time_str": "00:48.300",
+      "text": "If you really don't mean them",
+      "translation": "当你完全口是心非"
+    },
+    {
+      "time": 50.2,
+      "time_str": "00:50.200",
+      "text": "When you say them",
+      "translation": "说出它们的时候"
+    },
+    {
+      "time": 53.9,
+      "time_str": "00:53.900",
+      "text": "What are words",
+      "translation": "算什么承诺啊"
+    },
+    {
+      "time": 55.9,
+      "time_str": "00:55.900",
+      "text": "If they're only for good times",
+      "translation": "如果只存在于美好的时刻"
+    },
+    {
+      "time": 57.92,
+      "time_str": "00:57.920",
+      "text": "Then they don't",
+      "translation": "那么便不是"
+    },
+    {
+      "time": 61.95,
+      "time_str": "01:01.950",
+      "text": "When it's love",
+      "translation": "当爱至情浓处时"
+    },
+    {
+      "time": 63.33,
+      "time_str": "01:03.330",
+      "text": "Yeah, you say them out-loud those words",
+      "translation": "你大声喊出自己的心声"
+    },
+    {
+      "time": 66.53,
+      "time_str": "01:06.530",
+      "text": "They never go away",
+      "translation": "那些话，永远都不会褪色"
+    },
+    {
+      "time": 70.15,
+      "time_str": "01:10.150",
+      "text": "They live on, even when we're gone",
+      "translation": "即使我们都离去了，它们会一直存在，直到海枯石烂。"
+    },
+    {
+      "time": 78.02,
+      "time_str": "01:18.020",
+      "text": "And I know an angel was sent just for me",
+      "translation": "我知道，你是上苍赠予我的天使"
+    },
+    {
+      "time": 81.56,
+      "time_str": "01:21.560",
+      "text": "And I know I'm meant to be where I am",
+      "translation": "我知道，这是命运的安排"
+    },
+    {
+      "time": 87.51,
+      "time_str": "01:27.510",
+      "text": "And I'm gonna be standing right beside her tonight",
+      "translation": "今晚我会守在你身旁"
+    },
+    {
+      "time": 96.97,
+      "time_str": "01:36.970",
+      "text": "And I'm gonna be by your side",
+      "translation": "我会一直守护在你身边"
+    },
+    {
+      "time": 101.16,
+      "time_str": "01:41.160",
+      "text": "I would never leave when she needs me most",
+      "translation": "当你最需要我的时候，我绝不会离你而去"
+    },
+    {
+      "time": 108.91,
+      "time_str": "01:48.910",
+      "text": "What are words",
+      "translation": "什么是承诺啊"
+    },
+    {
+      "time": 110.63,
+      "time_str": "01:50.630",
+      "text": "If you really don't mean them",
+      "translation": "当你完全口是心非"
+    },
+    {
+      "time": 112.4,
+      "time_str": "01:52.400",
+      "text": "When you say them",
+      "translation": "说出它们的时候"
+    },
+    {
+      "time": 116.05,
+      "time_str": "01:56.050",
+      "text": "What are words",
+      "translation": "什么是承诺啊"
+    },
+    {
+      "time": 118.02,
+      "time_str": "01:58.020",
+      "text": "If they're only for good times",
+      "translation": "如果只存在于美好的时刻"
+    },
+    {
+      "time": 120.21,
+      "time_str": "02:00.210",
+      "text": "Then they don't",
+      "translation": "那么便不是"
+    },
+    {
+      "time": 124.34,
+      "time_str": "02:04.340",
+      "text": "When it's love",
+      "translation": "当爱至情浓处时"
+    },
+    {
+      "time": 125.91,
+      "time_str": "02:05.910",
+      "text": "Yeah, you say them out-loud those words",
+      "translation": "你大声喊出自己的心声"
+    },
+    {
+      "time": 128.91,
+      "time_str": "02:08.910",
+      "text": "They never go away",
+      "translation": "那些话，永远都不会褪色"
+    },
+    {
+      "time": 132.09,
+      "time_str": "02:12.090",
+      "text": "They live on, even when we're gone",
+      "translation": "即使我们都离去了，它们会一直存在，直到海枯石烂。"
+    },
+    {
+      "time": 140.29,
+      "time_str": "02:20.290",
+      "text": "Anywhere you are, I am near",
+      "translation": "不管你在哪儿，我都会在你身边。"
+    },
+    {
+      "time": 143.64,
+      "time_str": "02:23.640",
+      "text": "Anywhere you go, I'll be there",
+      "translation": "不管你去哪儿，我都将会在那里。"
+    },
+    {
+      "time": 147.58,
+      "time_str": "02:27.580",
+      "text": "And I'm gonna be here forever more",
+      "translation": "我将会永远在哪里"
+    },
+    {
+      "time": 155.2,
+      "time_str": "02:35.200",
+      "text": "Every single promise I'll keep",
+      "translation": "对你信守的每个承诺"
+    },
+    {
+      "time": 158.97,
+      "time_str": "02:38.970",
+      "text": "Cause what kind of guy would I be",
+      "translation": "造就了我将会成为的样子"
+    },
+    {
+      "time": 163.01,
+      "time_str": "02:43.010",
+      "text": "If I was to leave when you need me most",
+      "translation": "如果我在你最需要我的时候离开。"
+    },
+    {
+      "time": 170.92,
+      "time_str": "02:50.920",
+      "text": "I'm forever keeping my angel close",
+      "translation": "我会永远守护在我的天使身边"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "What Are Words - Chris Medina.lrc"
+}

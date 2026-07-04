@@ -1,0 +1,382 @@
+{
+  "title": "止战之殇",
+  "title_raw": "止战之殇",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "止战之殇|周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "周杰伦"
+  },
+  "lyrics": [
+    {
+      "time": 46.538,
+      "time_str": "00:46.538",
+      "text": "光 轻如纸张",
+      "translation": null
+    },
+    {
+      "time": 47.85,
+      "time_str": "00:47.850",
+      "text": "光 散落地方",
+      "translation": null
+    },
+    {
+      "time": 49.187,
+      "time_str": "00:49.187",
+      "text": "光 在掌声渐息中它慌忙",
+      "translation": null
+    },
+    {
+      "time": 51.925,
+      "time_str": "00:51.925",
+      "text": "她在传唱 不堪的伤",
+      "translation": null
+    },
+    {
+      "time": 54.562,
+      "time_str": "00:54.562",
+      "text": "脚本在台上 演出最后一场",
+      "translation": null
+    },
+    {
+      "time": 57.295,
+      "time_str": "00:57.295",
+      "text": "而全村的人们在座位上",
+      "translation": null
+    },
+    {
+      "time": 59.623,
+      "time_str": "00:59.623",
+      "text": "静静的看 时间如何遗弃这剧场",
+      "translation": null
+    },
+    {
+      "time": 62.639,
+      "time_str": "01:02.639",
+      "text": "战火弄脏 她的泪光",
+      "translation": null
+    },
+    {
+      "time": 64.011,
+      "time_str": "01:04.011",
+      "text": "谁在风中 吵着吃糖",
+      "translation": null
+    },
+    {
+      "time": 65.355,
+      "time_str": "01:05.355",
+      "text": "这故事一开始的镜头灰尘就已经遮蔽了阳光",
+      "translation": null
+    },
+    {
+      "time": 67.741,
+      "time_str": "01:07.741",
+      "text": "ㄅㄧㄤˋ",
+      "translation": null
+    },
+    {
+      "time": 68.086,
+      "time_str": "01:08.086",
+      "text": "恐惧刻在孩子们脸上",
+      "translation": null
+    },
+    {
+      "time": 70.21,
+      "time_str": "01:10.210",
+      "text": "麦田已倒向战车经过的方向",
+      "translation": null
+    },
+    {
+      "time": 72.932,
+      "time_str": "01:12.932",
+      "text": "蒲公英的形状 在飘散",
+      "translation": null
+    },
+    {
+      "time": 74.822,
+      "time_str": "01:14.822",
+      "text": "它绝望 的飞翔",
+      "translation": null
+    },
+    {
+      "time": 76.165,
+      "time_str": "01:16.165",
+      "text": "她只唱 只想",
+      "translation": null
+    },
+    {
+      "time": 77.471,
+      "time_str": "01:17.471",
+      "text": "这首止战 之殇",
+      "translation": null
+    },
+    {
+      "time": 78.846,
+      "time_str": "01:18.846",
+      "text": "恶夜燃烛光 天破息战乱",
+      "translation": null
+    },
+    {
+      "time": 81.555,
+      "time_str": "01:21.555",
+      "text": "殇歌传千里 家乡平饥荒",
+      "translation": null
+    },
+    {
+      "time": 84.223,
+      "time_str": "01:24.223",
+      "text": "天真在这条路上",
+      "translation": null
+    },
+    {
+      "time": 86.633,
+      "time_str": "01:26.633",
+      "text": "跌跌撞撞",
+      "translation": null
+    },
+    {
+      "time": 87.938,
+      "time_str": "01:27.938",
+      "text": "她被芒草割伤",
+      "translation": null
+    },
+    {
+      "time": 89.65,
+      "time_str": "01:29.650",
+      "text": "孩子们眼中的希望 是什么形状",
+      "translation": null
+    },
+    {
+      "time": 94.662,
+      "time_str": "01:34.662",
+      "text": "是否醒来有面包当早餐 再喝碗热汤",
+      "translation": null
+    },
+    {
+      "time": 100.057,
+      "time_str": "01:40.057",
+      "text": "农夫被烧毁土地跟村庄 终于拿起枪",
+      "translation": null
+    },
+    {
+      "time": 105.449,
+      "time_str": "01:45.449",
+      "text": "她却慢慢习惯放弃了抵抗",
+      "translation": null
+    },
+    {
+      "time": 111.22,
+      "time_str": "01:51.220",
+      "text": "孩子们眼中的希望 是什么形状",
+      "translation": null
+    },
+    {
+      "time": 116.244,
+      "time_str": "01:56.244",
+      "text": "是否院子有秋千可以荡 口袋里有糖",
+      "translation": null
+    },
+    {
+      "time": 121.626,
+      "time_str": "02:01.626",
+      "text": "刺刀的光被仇恨所擦亮 在远方野蛮",
+      "translation": null
+    },
+    {
+      "time": 127.028,
+      "time_str": "02:07.028",
+      "text": "而她却微笑着不知道慌张",
+      "translation": null
+    },
+    {
+      "time": 149.008,
+      "time_str": "02:29.008",
+      "text": "恐惧刻在孩子们脸上",
+      "translation": null
+    },
+    {
+      "time": 151.093,
+      "time_str": "02:31.093",
+      "text": "麦田已倒向战车经过的方向",
+      "translation": null
+    },
+    {
+      "time": 153.766,
+      "time_str": "02:33.766",
+      "text": "蒲公英的形状 在飘散",
+      "translation": null
+    },
+    {
+      "time": 155.696,
+      "time_str": "02:35.696",
+      "text": "它绝望 的飞翔",
+      "translation": null
+    },
+    {
+      "time": 157.055,
+      "time_str": "02:37.055",
+      "text": "她只唱 只想",
+      "translation": null
+    },
+    {
+      "time": 158.38,
+      "time_str": "02:38.380",
+      "text": "这首止战 之殇",
+      "translation": null
+    },
+    {
+      "time": 159.684,
+      "time_str": "02:39.684",
+      "text": "恶夜燃烛光 天破息战乱",
+      "translation": null
+    },
+    {
+      "time": 162.426,
+      "time_str": "02:42.426",
+      "text": "殇歌传千里 家乡平饥荒",
+      "translation": null
+    },
+    {
+      "time": 165.147,
+      "time_str": "02:45.147",
+      "text": "天真在这条路上",
+      "translation": null
+    },
+    {
+      "time": 167.495,
+      "time_str": "02:47.495",
+      "text": "跌跌撞撞",
+      "translation": null
+    },
+    {
+      "time": 168.853,
+      "time_str": "02:48.853",
+      "text": "她被芒草割伤",
+      "translation": null
+    },
+    {
+      "time": 170.505,
+      "time_str": "02:50.505",
+      "text": "孩子们眼中的希望 是什么形状",
+      "translation": null
+    },
+    {
+      "time": 175.605,
+      "time_str": "02:55.605",
+      "text": "是否醒来有面包当早餐 再喝碗热汤",
+      "translation": null
+    },
+    {
+      "time": 180.926,
+      "time_str": "03:00.926",
+      "text": "农夫被烧毁土地跟村庄 终于拿起枪",
+      "translation": null
+    },
+    {
+      "time": 186.314,
+      "time_str": "03:06.314",
+      "text": "她却慢慢习惯放弃了抵抗",
+      "translation": null
+    },
+    {
+      "time": 192.096,
+      "time_str": "03:12.096",
+      "text": "孩子们眼中的希望 是什么形状",
+      "translation": null
+    },
+    {
+      "time": 197.136,
+      "time_str": "03:17.136",
+      "text": "是否院子有秋千可以荡 口袋里有糖",
+      "translation": null
+    },
+    {
+      "time": 202.488,
+      "time_str": "03:22.488",
+      "text": "刺刀的光被仇恨所擦亮 在远方野蛮",
+      "translation": null
+    },
+    {
+      "time": 207.876,
+      "time_str": "03:27.876",
+      "text": "而她却微笑着不知道慌张",
+      "translation": null
+    },
+    {
+      "time": 235.26,
+      "time_str": "03:55.260",
+      "text": "Ba Ba La Beng Beng",
+      "translation": null
+    },
+    {
+      "time": 236.725,
+      "time_str": "03:56.725",
+      "text": "Ba La Ba Beng Beng",
+      "translation": null
+    },
+    {
+      "time": 237.882,
+      "time_str": "03:57.882",
+      "text": "Ba Ba La Beng Beng",
+      "translation": null
+    },
+    {
+      "time": 239.433,
+      "time_str": "03:59.433",
+      "text": "Ba La Ba Beng Beng",
+      "translation": null
+    },
+    {
+      "time": 240.601,
+      "time_str": "04:00.601",
+      "text": "天真在这条路上",
+      "translation": null
+    },
+    {
+      "time": 242.963,
+      "time_str": "04:02.963",
+      "text": "跌跌撞撞 她被芒草割伤",
+      "translation": null
+    },
+    {
+      "time": 246.006,
+      "time_str": "04:06.006",
+      "text": "Ba Ba La Beng Beng",
+      "translation": null
+    },
+    {
+      "time": 247.497,
+      "time_str": "04:07.497",
+      "text": "Ba La Ba Beng Beng",
+      "translation": null
+    },
+    {
+      "time": 248.695,
+      "time_str": "04:08.695",
+      "text": "Ba Ba La Beng Beng",
+      "translation": null
+    },
+    {
+      "time": 250.223,
+      "time_str": "04:10.223",
+      "text": "Ba La Ba Beng Beng",
+      "translation": null
+    },
+    {
+      "time": 251.38,
+      "time_str": "04:11.380",
+      "text": "天真在这条路上",
+      "translation": null
+    },
+    {
+      "time": 253.758,
+      "time_str": "04:13.758",
+      "text": "跌跌撞撞 她被芒草割伤",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "止战之殇 - 周杰伦.lrc"
+}

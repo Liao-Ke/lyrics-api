@@ -1,0 +1,232 @@
+{
+  "title": "狮子座",
+  "title_raw": "狮子座",
+  "version": null,
+  "artist": "曾轶可",
+  "group_key": "狮子座|曾轶可",
+  "writers": {
+    "lyricist": "曾轶可",
+    "composer": "Mickey H./曾轶可",
+    "arranger": "旅行团乐队"
+  },
+  "lyrics": [
+    {
+      "time": 1.98,
+      "time_str": "00:01.980",
+      "text": "演奏 : 旅行团乐队",
+      "translation": null
+    },
+    {
+      "time": 3.96,
+      "time_str": "00:03.960",
+      "text": "混音室 : 东乐喷气机录音棚",
+      "translation": null
+    },
+    {
+      "time": 24.48,
+      "time_str": "00:24.480",
+      "text": "一个人的时候 不是不想你",
+      "translation": null
+    },
+    {
+      "time": 30.07,
+      "time_str": "00:30.070",
+      "text": "一个人的时候 只是怕想你",
+      "translation": null
+    },
+    {
+      "time": 35.79,
+      "time_str": "00:35.790",
+      "text": "我一个人的时候",
+      "translation": null
+    },
+    {
+      "time": 38.37,
+      "time_str": "00:38.370",
+      "text": "如果下起了雨",
+      "translation": null
+    },
+    {
+      "time": 41.63,
+      "time_str": "00:41.630",
+      "text": "也会学你把伞 丢到一边",
+      "translation": null
+    },
+    {
+      "time": 47.5,
+      "time_str": "00:47.500",
+      "text": "七月份的尾巴 你是狮子座",
+      "translation": null
+    },
+    {
+      "time": 53.27,
+      "time_str": "00:53.270",
+      "text": "八月份的前奏 你是狮子座",
+      "translation": null
+    },
+    {
+      "time": 59.12,
+      "time_str": "00:59.120",
+      "text": "相遇的时候 如果是个意外",
+      "translation": null
+    },
+    {
+      "time": 65.02,
+      "time_str": "01:05.020",
+      "text": "离别的时候 意外的看不开",
+      "translation": null
+    },
+    {
+      "time": 82.52,
+      "time_str": "01:22.520",
+      "text": "七月份的尾巴 你是狮子座",
+      "translation": null
+    },
+    {
+      "time": 88.15,
+      "time_str": "01:28.150",
+      "text": "八月份的前奏 你是狮子座",
+      "translation": null
+    },
+    {
+      "time": 94.01,
+      "time_str": "01:34.010",
+      "text": "相遇的时候 如果是个意外",
+      "translation": null
+    },
+    {
+      "time": 99.82,
+      "time_str": "01:39.820",
+      "text": "离别的时候 意外的看不开",
+      "translation": null
+    },
+    {
+      "time": 105.56,
+      "time_str": "01:45.560",
+      "text": "死性不改",
+      "translation": null
+    },
+    {
+      "time": 107.47,
+      "time_str": "01:47.470",
+      "text": "偏偏不敢用力的去爱",
+      "translation": null
+    },
+    {
+      "time": 111.46,
+      "time_str": "01:51.460",
+      "text": "短发女人",
+      "translation": null
+    },
+    {
+      "time": 113.38,
+      "time_str": "01:53.380",
+      "text": "也可以性感和可爱",
+      "translation": null
+    },
+    {
+      "time": 117.33,
+      "time_str": "01:57.330",
+      "text": "人山又人海",
+      "translation": null
+    },
+    {
+      "time": 119.13,
+      "time_str": "01:59.130",
+      "text": "别错过那一个等待",
+      "translation": null
+    },
+    {
+      "time": 123.22,
+      "time_str": "02:03.220",
+      "text": "试一试去爱",
+      "translation": null
+    },
+    {
+      "time": 124.75,
+      "time_str": "02:04.750",
+      "text": "伤害也比被爱来的爽快",
+      "translation": null
+    },
+    {
+      "time": 128.56,
+      "time_str": "02:08.560",
+      "text": "就这一次",
+      "translation": null
+    },
+    {
+      "time": 130.97,
+      "time_str": "02:10.970",
+      "text": "我不想做一个歌颂者",
+      "translation": null
+    },
+    {
+      "time": 134.8,
+      "time_str": "02:14.800",
+      "text": "如果可以",
+      "translation": null
+    },
+    {
+      "time": 136.59,
+      "time_str": "02:16.590",
+      "text": "你也可以为我写首歌",
+      "translation": null
+    },
+    {
+      "time": 140.68,
+      "time_str": "02:20.680",
+      "text": "请别问我",
+      "translation": null
+    },
+    {
+      "time": 142.55,
+      "time_str": "02:22.550",
+      "text": "摩羯座是几月份呢",
+      "translation": null
+    },
+    {
+      "time": 146.4,
+      "time_str": "02:26.400",
+      "text": "请你别说",
+      "translation": null
+    },
+    {
+      "time": 148.52,
+      "time_str": "02:28.520",
+      "text": "只有友谊 才能万万岁",
+      "translation": null
+    },
+    {
+      "time": 155.26,
+      "time_str": "02:35.260",
+      "text": "请你别说 只有友谊",
+      "translation": null
+    },
+    {
+      "time": 163.92,
+      "time_str": "02:43.920",
+      "text": "七月份的尾巴 你是狮子座",
+      "translation": null
+    },
+    {
+      "time": 169.87,
+      "time_str": "02:49.870",
+      "text": "八月份的前奏 你是狮子座",
+      "translation": null
+    },
+    {
+      "time": 175.48,
+      "time_str": "02:55.480",
+      "text": "相遇的时候 如果是个意外",
+      "translation": null
+    },
+    {
+      "time": 181.39,
+      "time_str": "03:01.390",
+      "text": "离别的时候 意外的看不开",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "狮子座 - 曾轶可.lrc"
+}

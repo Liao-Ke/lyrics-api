@@ -1,0 +1,328 @@
+{
+  "title": "Good Time",
+  "title_raw": "Good Time",
+  "version": null,
+  "artist": "Owl City,Carly Rae Jepsen",
+  "group_key": "good time|owl city,carly rae jepsen",
+  "writers": {
+    "lyricist": "Adam Young/Matthew Thiessen/Brian Lee",
+    "composer": "Adam Young/Matthew Thiessen/Brian Lee",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.58,
+      "time_str": "00:04.580",
+      "text": "Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 6.12,
+      "time_str": "00:06.120",
+      "text": "It's always a good time",
+      "translation": "共度美好时光"
+    },
+    {
+      "time": 8.23,
+      "time_str": "00:08.230",
+      "text": "Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 9.769,
+      "time_str": "00:09.769",
+      "text": "It's always a good time",
+      "translation": "共度美好时光吧"
+    },
+    {
+      "time": 16.1,
+      "time_str": "00:16.100",
+      "text": "Woke up on the right side of the bed",
+      "translation": "一觉醒来发现自己躺在床的右边"
+    },
+    {
+      "time": 19.66,
+      "time_str": "00:19.660",
+      "text": "What's up with this Prince song inside my head?",
+      "translation": "不知怎么的  脑中突然回想起王子的歌曲"
+    },
+    {
+      "time": 23.48,
+      "time_str": "00:23.480",
+      "text": "Hands up if you're down to get down tonight",
+      "translation": "今夜我们来借舞消愁"
+    },
+    {
+      "time": 28.66,
+      "time_str": "00:28.660",
+      "text": "Cause it's always a good time.",
+      "translation": "因为我们共度美好时光"
+    },
+    {
+      "time": 31.099,
+      "time_str": "00:31.099",
+      "text": "Slept in all my clothes like I didn't care",
+      "translation": "伴衣入睡如同我们毫不在乎"
+    },
+    {
+      "time": 34.83,
+      "time_str": "00:34.830",
+      "text": "Hopped into a cab, take me anywhere",
+      "translation": "跳进出租车  带我去任何好玩的地方"
+    },
+    {
+      "time": 38.69,
+      "time_str": "00:38.690",
+      "text": "I'm in if you're down to get down tonight",
+      "translation": "今夜我们来借舞消愁"
+    },
+    {
+      "time": 43.99,
+      "time_str": "00:43.990",
+      "text": "Cuz it's always a good time",
+      "translation": "一起共度美好时光吧"
+    },
+    {
+      "time": 46.81,
+      "time_str": "00:46.810",
+      "text": "Good morning and good night",
+      "translation": "美好的一天"
+    },
+    {
+      "time": 50.41,
+      "time_str": "00:50.410",
+      "text": "I wake up at twilight",
+      "translation": "总之我在暮色中醒来"
+    },
+    {
+      "time": 54.29,
+      "time_str": "00:54.290",
+      "text": "It's gonna be alright",
+      "translation": "一切都会好起来的"
+    },
+    {
+      "time": 57.56,
+      "time_str": "00:57.560",
+      "text": "We don't even have to try",
+      "translation": "我们都不必在意"
+    },
+    {
+      "time": 59.7,
+      "time_str": "00:59.700",
+      "text": "It's always a good time",
+      "translation": "一起共度美好时光吧"
+    },
+    {
+      "time": 61.56,
+      "time_str": "01:01.560",
+      "text": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 67.2,
+      "time_str": "01:07.200",
+      "text": "It's always a good time",
+      "translation": "共度美好时光"
+    },
+    {
+      "time": 69.1,
+      "time_str": "01:09.100",
+      "text": "Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 72.57,
+      "time_str": "01:12.570",
+      "text": "We don't even have to try, it's always a good time.",
+      "translation": "我们都不必在意  一起共度美好时光吧"
+    },
+    {
+      "time": 84.42,
+      "time_str": "01:24.420",
+      "text": "Freaked out dropped my phone in the pool again",
+      "translation": "手机不小心又掉进了水池"
+    },
+    {
+      "time": 88.289,
+      "time_str": "01:28.289",
+      "text": "Checked out of my room hit the ATM",
+      "translation": "离开家出去取些钱"
+    },
+    {
+      "time": 91.98,
+      "time_str": "01:31.980",
+      "text": "Let's hang out if you're down to get down tonight",
+      "translation": "今夜我们来借舞消愁"
+    },
+    {
+      "time": 97.16,
+      "time_str": "01:37.160",
+      "text": "Cuz it's always a good time",
+      "translation": "一起共度美好时光吧"
+    },
+    {
+      "time": 100.18,
+      "time_str": "01:40.180",
+      "text": "Good morning and good night",
+      "translation": "美好的一天"
+    },
+    {
+      "time": 103.74,
+      "time_str": "01:43.740",
+      "text": "I wake up at twilight",
+      "translation": "总之我在暮色中醒来"
+    },
+    {
+      "time": 107.58,
+      "time_str": "01:47.580",
+      "text": "It's gonna be alright we don't even have to try",
+      "translation": "一切都会好起来的  我们都不必在意"
+    },
+    {
+      "time": 112.729,
+      "time_str": "01:52.729",
+      "text": "It's always a good time.",
+      "translation": "一起共度美好时光吧"
+    },
+    {
+      "time": 114.979,
+      "time_str": "01:54.979",
+      "text": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 119.7,
+      "time_str": "01:59.700",
+      "text": "It's always a good time",
+      "translation": "共度美好时光"
+    },
+    {
+      "time": 122.28,
+      "time_str": "02:02.280",
+      "text": "Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 125.84,
+      "time_str": "02:05.840",
+      "text": "We don't even have to try, it's always a good time.",
+      "translation": "我们都不必在意 一起共度美好时光吧"
+    },
+    {
+      "time": 130.3,
+      "time_str": "02:10.300",
+      "text": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 136.09,
+      "time_str": "02:16.090",
+      "text": "It's always a good time",
+      "translation": "一起共度美好时光吧"
+    },
+    {
+      "time": 137.3,
+      "time_str": "02:17.300",
+      "text": "Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 141.5,
+      "time_str": "02:21.500",
+      "text": "We don't even have to try, it's always a good time.",
+      "translation": "我们都不必在意 一起共度美好时光吧"
+    },
+    {
+      "time": 145.269,
+      "time_str": "02:25.269",
+      "text": "Doesn't matter when",
+      "translation": "无论何时"
+    },
+    {
+      "time": 147.0,
+      "time_str": "02:27.000",
+      "text": "It's always a good time then",
+      "translation": "共度美好时光吧"
+    },
+    {
+      "time": 148.998,
+      "time_str": "02:28.998",
+      "text": "Doesn't matter where",
+      "translation": "无论何地"
+    },
+    {
+      "time": 150.19,
+      "time_str": "02:30.190",
+      "text": "It's always a good time there",
+      "translation": "共度美好时光吧"
+    },
+    {
+      "time": 152.81,
+      "time_str": "02:32.810",
+      "text": "Doesn't matter when,",
+      "translation": "无论何时"
+    },
+    {
+      "time": 154.239,
+      "time_str": "02:34.239",
+      "text": "It's always a good time then",
+      "translation": "一起共度美好时光吧"
+    },
+    {
+      "time": 158.649,
+      "time_str": "02:38.649",
+      "text": "It's always a good time",
+      "translation": "共度美好时光吧"
+    },
+    {
+      "time": 160.129,
+      "time_str": "02:40.129",
+      "text": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 165.539,
+      "time_str": "02:45.539",
+      "text": "It's always a good time",
+      "translation": "共度美好时光吧"
+    },
+    {
+      "time": 167.799,
+      "time_str": "02:47.799",
+      "text": "Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 171.19,
+      "time_str": "02:51.190",
+      "text": "We don't even have to try, it's always a good time",
+      "translation": "我们都不必在意 一起共度美好时光吧"
+    },
+    {
+      "time": 176.19,
+      "time_str": "02:56.190",
+      "text": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 180.929,
+      "time_str": "03:00.929",
+      "text": "It's always a good time",
+      "translation": "共度美好时光吧"
+    },
+    {
+      "time": 183.179,
+      "time_str": "03:03.179",
+      "text": "Woah-oh-oh-oh",
+      "translation": null
+    },
+    {
+      "time": 186.869,
+      "time_str": "03:06.869",
+      "text": "We don't even have to try, it's always a good time",
+      "translation": "我们都不必在意 一起共度美好时光吧"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Good Time - Owl City,Carly Rae Jepsen.lrc"
+}

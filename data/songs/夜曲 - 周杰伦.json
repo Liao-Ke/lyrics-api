@@ -1,0 +1,400 @@
+{
+  "title": "夜曲",
+  "title_raw": "夜曲",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "夜曲|周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "林迈可"
+  },
+  "lyrics": [
+    {
+      "time": 24.92,
+      "time_str": "00:24.920",
+      "text": "一群嗜血的蚂蚁 被腐肉所吸引",
+      "translation": null
+    },
+    {
+      "time": 27.67,
+      "time_str": "00:27.670",
+      "text": "我面无表情 看孤独的风景",
+      "translation": null
+    },
+    {
+      "time": 30.42,
+      "time_str": "00:30.420",
+      "text": "失去你 爱恨开始分明",
+      "translation": null
+    },
+    {
+      "time": 33.23,
+      "time_str": "00:33.230",
+      "text": "失去你 还有什么事好关心",
+      "translation": null
+    },
+    {
+      "time": 35.93,
+      "time_str": "00:35.930",
+      "text": "当鸽子不再象征和平",
+      "translation": null
+    },
+    {
+      "time": 38.24,
+      "time_str": "00:38.240",
+      "text": "我终于被提醒",
+      "translation": null
+    },
+    {
+      "time": 39.59,
+      "time_str": "00:39.590",
+      "text": "广场上喂食的是秃鹰",
+      "translation": null
+    },
+    {
+      "time": 41.59,
+      "time_str": "00:41.590",
+      "text": "我用漂亮的押韵",
+      "translation": null
+    },
+    {
+      "time": 43.09,
+      "time_str": "00:43.090",
+      "text": "形容被掠夺一空的爱情",
+      "translation": null
+    },
+    {
+      "time": 46.95,
+      "time_str": "00:46.950",
+      "text": "啊 乌云开始遮蔽 夜色不干净",
+      "translation": null
+    },
+    {
+      "time": 49.4,
+      "time_str": "00:49.400",
+      "text": "公园里 葬礼的回音 在漫天飞行",
+      "translation": null
+    },
+    {
+      "time": 52.3,
+      "time_str": "00:52.300",
+      "text": "送你的 白色玫瑰",
+      "translation": null
+    },
+    {
+      "time": 53.86,
+      "time_str": "00:53.860",
+      "text": "在纯黑的环境凋零",
+      "translation": null
+    },
+    {
+      "time": 55.41,
+      "time_str": "00:55.410",
+      "text": "乌鸦在树枝上诡异的很安静",
+      "translation": null
+    },
+    {
+      "time": 57.91,
+      "time_str": "00:57.910",
+      "text": "静静听 我黑色的大衣",
+      "translation": null
+    },
+    {
+      "time": 60.01,
+      "time_str": "01:00.010",
+      "text": "想温暖你 日渐冰冷的回忆",
+      "translation": null
+    },
+    {
+      "time": 62.41,
+      "time_str": "01:02.410",
+      "text": "走过的 走过的 生命",
+      "translation": null
+    },
+    {
+      "time": 63.87,
+      "time_str": "01:03.870",
+      "text": "啊 四周弥漫雾气",
+      "translation": null
+    },
+    {
+      "time": 65.12,
+      "time_str": "01:05.120",
+      "text": "我在空旷的墓地",
+      "translation": null
+    },
+    {
+      "time": 66.42,
+      "time_str": "01:06.420",
+      "text": "老去后还爱你",
+      "translation": null
+    },
+    {
+      "time": 69.07,
+      "time_str": "01:09.070",
+      "text": "为你弹奏肖邦的夜曲",
+      "translation": null
+    },
+    {
+      "time": 71.77,
+      "time_str": "01:11.770",
+      "text": "纪念我死去的爱情",
+      "translation": null
+    },
+    {
+      "time": 74.72,
+      "time_str": "01:14.720",
+      "text": "跟夜风一样的声音",
+      "translation": null
+    },
+    {
+      "time": 77.32,
+      "time_str": "01:17.320",
+      "text": "心碎的很好听",
+      "translation": null
+    },
+    {
+      "time": 80.08,
+      "time_str": "01:20.080",
+      "text": "手在键盘敲很轻",
+      "translation": null
+    },
+    {
+      "time": 82.88,
+      "time_str": "01:22.880",
+      "text": "我给的思念很小心",
+      "translation": null
+    },
+    {
+      "time": 85.64,
+      "time_str": "01:25.640",
+      "text": "你埋葬的地方叫幽冥",
+      "translation": null
+    },
+    {
+      "time": 90.29,
+      "time_str": "01:30.290",
+      "text": "为你弹奏肖邦的夜曲",
+      "translation": null
+    },
+    {
+      "time": 93.89,
+      "time_str": "01:33.890",
+      "text": "纪念我死去的爱情",
+      "translation": null
+    },
+    {
+      "time": 96.7,
+      "time_str": "01:36.700",
+      "text": "而我为你隐姓埋名",
+      "translation": null
+    },
+    {
+      "time": 99.4,
+      "time_str": "01:39.400",
+      "text": "在月光下弹琴",
+      "translation": null
+    },
+    {
+      "time": 102.06,
+      "time_str": "01:42.060",
+      "text": "对你心跳的感应",
+      "translation": null
+    },
+    {
+      "time": 104.96,
+      "time_str": "01:44.960",
+      "text": "还是如此温热亲近",
+      "translation": null
+    },
+    {
+      "time": 107.82,
+      "time_str": "01:47.820",
+      "text": "怀念你那鲜红的唇印",
+      "translation": null
+    },
+    {
+      "time": 135.3,
+      "time_str": "02:15.300",
+      "text": "那些断翅的蜻蜓 散落在这森林",
+      "translation": null
+    },
+    {
+      "time": 138.05,
+      "time_str": "02:18.050",
+      "text": "而我的眼睛 没有丝毫同情",
+      "translation": null
+    },
+    {
+      "time": 140.9,
+      "time_str": "02:20.900",
+      "text": "失去你 泪水混浊不清",
+      "translation": null
+    },
+    {
+      "time": 143.66,
+      "time_str": "02:23.660",
+      "text": "失去你 我连笑容都有阴影",
+      "translation": null
+    },
+    {
+      "time": 146.41,
+      "time_str": "02:26.410",
+      "text": "风在长满青苔的屋顶",
+      "translation": null
+    },
+    {
+      "time": 148.51,
+      "time_str": "02:28.510",
+      "text": "嘲笑我的伤心",
+      "translation": null
+    },
+    {
+      "time": 149.76,
+      "time_str": "02:29.760",
+      "text": "像一口没有水的枯井",
+      "translation": null
+    },
+    {
+      "time": 151.77,
+      "time_str": "02:31.770",
+      "text": "我用凄美的字型",
+      "translation": null
+    },
+    {
+      "time": 153.42,
+      "time_str": "02:33.420",
+      "text": "描绘后悔莫及的那爱情",
+      "translation": null
+    },
+    {
+      "time": 157.22,
+      "time_str": "02:37.220",
+      "text": "为你弹奏肖邦的夜曲",
+      "translation": null
+    },
+    {
+      "time": 160.07,
+      "time_str": "02:40.070",
+      "text": "纪念我死去的爱情",
+      "translation": null
+    },
+    {
+      "time": 162.82,
+      "time_str": "02:42.820",
+      "text": "跟夜风一样的声音",
+      "translation": null
+    },
+    {
+      "time": 165.62,
+      "time_str": "02:45.620",
+      "text": "心碎的很好听",
+      "translation": null
+    },
+    {
+      "time": 168.33,
+      "time_str": "02:48.330",
+      "text": "手在键盘敲很轻",
+      "translation": null
+    },
+    {
+      "time": 171.08,
+      "time_str": "02:51.080",
+      "text": "我给的思念很小心",
+      "translation": null
+    },
+    {
+      "time": 173.88,
+      "time_str": "02:53.880",
+      "text": "你埋葬的地方叫幽冥",
+      "translation": null
+    },
+    {
+      "time": 178.58,
+      "time_str": "02:58.580",
+      "text": "为你弹奏肖邦的夜曲",
+      "translation": null
+    },
+    {
+      "time": 182.18,
+      "time_str": "03:02.180",
+      "text": "纪念我死去的爱情",
+      "translation": null
+    },
+    {
+      "time": 184.89,
+      "time_str": "03:04.890",
+      "text": "而我为你隐姓埋名 在月光下弹琴",
+      "translation": null
+    },
+    {
+      "time": 190.39,
+      "time_str": "03:10.390",
+      "text": "对你心跳的感应 还是如此温热亲近",
+      "translation": null
+    },
+    {
+      "time": 196.04,
+      "time_str": "03:16.040",
+      "text": "怀念你那鲜红的唇印",
+      "translation": null
+    },
+    {
+      "time": 201.55,
+      "time_str": "03:21.550",
+      "text": "一群嗜血的蚂蚁 被腐肉所吸引",
+      "translation": null
+    },
+    {
+      "time": 204.3,
+      "time_str": "03:24.300",
+      "text": "我面无表情 看孤独的风景",
+      "translation": null
+    },
+    {
+      "time": 207.2,
+      "time_str": "03:27.200",
+      "text": "失去你 爱恨开始分明",
+      "translation": null
+    },
+    {
+      "time": 209.8,
+      "time_str": "03:29.800",
+      "text": "失去你 还有什么事好关心",
+      "translation": null
+    },
+    {
+      "time": 212.5,
+      "time_str": "03:32.500",
+      "text": "当鸽子不再象征和平",
+      "translation": null
+    },
+    {
+      "time": 214.5,
+      "time_str": "03:34.500",
+      "text": "我终于被提醒",
+      "translation": null
+    },
+    {
+      "time": 215.91,
+      "time_str": "03:35.910",
+      "text": "广场上喂食的是秃鹰",
+      "translation": null
+    },
+    {
+      "time": 218.11,
+      "time_str": "03:38.110",
+      "text": "我用漂亮的押韵",
+      "translation": null
+    },
+    {
+      "time": 219.71,
+      "time_str": "03:39.710",
+      "text": "形容被掠夺一空的爱情",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "夜曲 - 周杰伦.lrc"
+}

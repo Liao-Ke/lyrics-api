@@ -1,0 +1,214 @@
+{
+  "title": "下沙",
+  "title_raw": "下沙",
+  "version": null,
+  "artist": "游鸿明",
+  "group_key": "下沙|游鸿明",
+  "writers": {
+    "lyricist": "林利南",
+    "composer": "游鸿明",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 47.198,
+      "time_str": "00:47.198",
+      "text": "每个人都有无法忘记的人",
+      "translation": null
+    },
+    {
+      "time": 49.859,
+      "time_str": "00:49.859",
+      "text": "思念会像细沙穿过你的灵魂",
+      "translation": null
+    },
+    {
+      "time": 54.478,
+      "time_str": "00:54.478",
+      "text": "轻轻开了门 只有风雨声",
+      "translation": null
+    },
+    {
+      "time": 62.038,
+      "time_str": "01:02.038",
+      "text": "我觉得爱情让人变得残忍",
+      "translation": null
+    },
+    {
+      "time": 67.219,
+      "time_str": "01:07.219",
+      "text": "原本相爱的人变成心头的针",
+      "translation": null
+    },
+    {
+      "time": 71.098,
+      "time_str": "01:11.098",
+      "text": "越是爱的真 越是伤的深",
+      "translation": null
+    },
+    {
+      "time": 79.639,
+      "time_str": "01:19.639",
+      "text": "就像黑夜和白天相隔一瞬间",
+      "translation": null
+    },
+    {
+      "time": 88.629,
+      "time_str": "01:28.629",
+      "text": "明知道说再见 再见面也只有明天",
+      "translation": null
+    },
+    {
+      "time": 97.09,
+      "time_str": "01:37.090",
+      "text": "天空啊下着沙 也在笑我太傻",
+      "translation": null
+    },
+    {
+      "time": 106.178,
+      "time_str": "01:46.178",
+      "text": "你就别再追寻看不清的脚印",
+      "translation": null
+    },
+    {
+      "time": 114.048,
+      "time_str": "01:54.048",
+      "text": "天空啊下着沙 也在为我牵挂",
+      "translation": null
+    },
+    {
+      "time": 124.68,
+      "time_str": "02:04.680",
+      "text": "把爱葬在沙里 还有你的消息",
+      "translation": null
+    },
+    {
+      "time": 132.239,
+      "time_str": "02:12.239",
+      "text": "你走了 就走了 不要想起",
+      "translation": null
+    },
+    {
+      "time": 142.799,
+      "time_str": "02:22.799",
+      "text": "风走了 沙走了 不要想起",
+      "translation": null
+    },
+    {
+      "time": 178.509,
+      "time_str": "02:58.509",
+      "text": "每个人都有无法忘记的人",
+      "translation": null
+    },
+    {
+      "time": 183.099,
+      "time_str": "03:03.099",
+      "text": "思念会像细沙穿过你的灵魂",
+      "translation": null
+    },
+    {
+      "time": 187.119,
+      "time_str": "03:07.119",
+      "text": "轻轻开了门 只有风雨声",
+      "translation": null
+    },
+    {
+      "time": 194.109,
+      "time_str": "03:14.109",
+      "text": "我觉得爱情让人变得残忍",
+      "translation": null
+    },
+    {
+      "time": 200.499,
+      "time_str": "03:20.499",
+      "text": "原本相爱的人变成心头的针",
+      "translation": null
+    },
+    {
+      "time": 205.59,
+      "time_str": "03:25.590",
+      "text": "越是爱的真 越是伤的深",
+      "translation": null
+    },
+    {
+      "time": 213.199,
+      "time_str": "03:33.199",
+      "text": "就像黑夜和白天相隔一瞬间",
+      "translation": null
+    },
+    {
+      "time": 223.489,
+      "time_str": "03:43.489",
+      "text": "明知道说再见 再见面也只有明天",
+      "translation": null
+    },
+    {
+      "time": 229.528,
+      "time_str": "03:49.528",
+      "text": "天空啊下着沙 也在笑我太傻",
+      "translation": null
+    },
+    {
+      "time": 239.199,
+      "time_str": "03:59.199",
+      "text": "你就别再追寻看不清的脚印",
+      "translation": null
+    },
+    {
+      "time": 248.599,
+      "time_str": "04:08.599",
+      "text": "天空啊下着沙 也在为我牵挂",
+      "translation": null
+    },
+    {
+      "time": 257.158,
+      "time_str": "04:17.158",
+      "text": "把爱葬在沙里 还有你的消息",
+      "translation": null
+    },
+    {
+      "time": 265.8,
+      "time_str": "04:25.800",
+      "text": "你走了 就走了 不要想起",
+      "translation": null
+    },
+    {
+      "time": 274.499,
+      "time_str": "04:34.499",
+      "text": "天空啊下着沙 也在笑我太傻",
+      "translation": null
+    },
+    {
+      "time": 285.119,
+      "time_str": "04:45.119",
+      "text": "你就别再追寻看不清的脚印",
+      "translation": null
+    },
+    {
+      "time": 294.49,
+      "time_str": "04:54.490",
+      "text": "天空啊下着沙 也在为我牵挂",
+      "translation": null
+    },
+    {
+      "time": 302.46,
+      "time_str": "05:02.460",
+      "text": "把爱葬在沙里 还有你的消息",
+      "translation": null
+    },
+    {
+      "time": 311.699,
+      "time_str": "05:11.699",
+      "text": "你走了 就走了 不要想起",
+      "translation": null
+    },
+    {
+      "time": 320.199,
+      "time_str": "05:20.199",
+      "text": "风走了 沙走了 不要想起",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "下沙 - 游鸿明.lrc"
+}

@@ -1,0 +1,136 @@
+{
+  "title": "山歌好比春江水",
+  "title_raw": "山歌好比春江水",
+  "version": null,
+  "artist": "苏云",
+  "group_key": "山歌好比春江水|苏云",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 26.17,
+      "time_str": "00:26.170",
+      "text": "唱山歌来",
+      "translation": null
+    },
+    {
+      "time": 33.56,
+      "time_str": "00:33.560",
+      "text": "这边唱来那边合",
+      "translation": null
+    },
+    {
+      "time": 42.52,
+      "time_str": "00:42.520",
+      "text": "那边合",
+      "translation": null
+    },
+    {
+      "time": 46.81,
+      "time_str": "00:46.810",
+      "text": "山歌好比春江水也",
+      "translation": null
+    },
+    {
+      "time": 56.44,
+      "time_str": "00:56.440",
+      "text": "不怕滩险弯又多喽弯又多",
+      "translation": null
+    },
+    {
+      "time": 69.74,
+      "time_str": "01:09.740",
+      "text": "唱山歌来",
+      "translation": null
+    },
+    {
+      "time": 77.13,
+      "time_str": "01:17.130",
+      "text": "这边唱来那边合",
+      "translation": null
+    },
+    {
+      "time": 85.91,
+      "time_str": "01:25.910",
+      "text": "那边合",
+      "translation": null
+    },
+    {
+      "time": 90.32,
+      "time_str": "01:30.320",
+      "text": "山歌好比春江水也",
+      "translation": null
+    },
+    {
+      "time": 100.03,
+      "time_str": "01:40.030",
+      "text": "不怕滩险弯又多喽弯又多",
+      "translation": null
+    },
+    {
+      "time": 130.86,
+      "time_str": "02:10.860",
+      "text": "唱山歌来",
+      "translation": null
+    },
+    {
+      "time": 138.26,
+      "time_str": "02:18.260",
+      "text": "这边唱来那边合",
+      "translation": null
+    },
+    {
+      "time": 146.95,
+      "time_str": "02:26.950",
+      "text": "那边合",
+      "translation": null
+    },
+    {
+      "time": 151.43,
+      "time_str": "02:31.430",
+      "text": "山歌好比春江水也",
+      "translation": null
+    },
+    {
+      "time": 160.81,
+      "time_str": "02:40.810",
+      "text": "不怕滩险弯又多喽弯又多",
+      "translation": null
+    },
+    {
+      "time": 174.42,
+      "time_str": "02:54.420",
+      "text": "唱山歌来",
+      "translation": null
+    },
+    {
+      "time": 181.91,
+      "time_str": "03:01.910",
+      "text": "这边唱来那边合",
+      "translation": null
+    },
+    {
+      "time": 190.54,
+      "time_str": "03:10.540",
+      "text": "那边合",
+      "translation": null
+    },
+    {
+      "time": 195.07,
+      "time_str": "03:15.070",
+      "text": "山歌好比春江水也",
+      "translation": null
+    },
+    {
+      "time": 204.6,
+      "time_str": "03:24.600",
+      "text": "不怕滩险弯又多喽弯又多",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "山歌好比春江水 - 苏云.lrc"
+}

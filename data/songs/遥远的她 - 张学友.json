@@ -1,0 +1,268 @@
+{
+  "title": "遥远的她",
+  "title_raw": "遥远的她",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "遥远的她|张学友",
+  "writers": {
+    "lyricist": "潘源良",
+    "composer": "谷村新司",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "Publisher : Noel Ms. Publ. (Spraylot)",
+      "translation": null
+    },
+    {
+      "time": 25.151,
+      "time_str": "00:25.151",
+      "text": "让晚风轻轻吹送了落霞",
+      "translation": null
+    },
+    {
+      "time": 30.632,
+      "time_str": "00:30.632",
+      "text": "我已习惯每个傍晚去想她",
+      "translation": null
+    },
+    {
+      "time": 36.859,
+      "time_str": "00:36.859",
+      "text": "在远方的她 此刻可知道",
+      "translation": null
+    },
+    {
+      "time": 43.057,
+      "time_str": "00:43.057",
+      "text": "这段情在我心始终记挂",
+      "translation": null
+    },
+    {
+      "time": 49.29,
+      "time_str": "00:49.290",
+      "text": "在这半山",
+      "translation": null
+    },
+    {
+      "time": 50.67,
+      "time_str": "00:50.670",
+      "text": "那天我知我知快将要别离没说话",
+      "translation": null
+    },
+    {
+      "time": 55.507,
+      "time_str": "00:55.507",
+      "text": "望向她",
+      "translation": null
+    },
+    {
+      "time": 56.853,
+      "time_str": "00:56.853",
+      "text": "却听到她说不要相约",
+      "translation": null
+    },
+    {
+      "time": 58.586,
+      "time_str": "00:58.586",
+      "text": "纵使分隔 相爱不会害怕",
+      "translation": null
+    },
+    {
+      "time": 61.577,
+      "time_str": "01:01.577",
+      "text": "遥遥万里 心声有否偏差",
+      "translation": null
+    },
+    {
+      "time": 68.023,
+      "time_str": "01:08.023",
+      "text": "正是让这爱试出真与假",
+      "translation": null
+    },
+    {
+      "time": 74.075,
+      "time_str": "01:14.075",
+      "text": "遥远的她",
+      "translation": null
+    },
+    {
+      "time": 76.186,
+      "time_str": "01:16.186",
+      "text": "仿佛借风声跟我话",
+      "translation": null
+    },
+    {
+      "time": 80.476,
+      "time_str": "01:20.476",
+      "text": "热情若冇变 哪管它沧桑变化",
+      "translation": null
+    },
+    {
+      "time": 99.192,
+      "time_str": "01:39.192",
+      "text": "但这天收到她爸爸的一封信",
+      "translation": null
+    },
+    {
+      "time": 105.418,
+      "time_str": "01:45.418",
+      "text": "信里面说血癌已带走她",
+      "translation": null
+    },
+    {
+      "time": 111.68,
+      "time_str": "01:51.680",
+      "text": "但觉得空虚的心",
+      "translation": null
+    },
+    {
+      "time": 114.327,
+      "time_str": "01:54.327",
+      "text": "仿佛已僵化",
+      "translation": null
+    },
+    {
+      "time": 117.89,
+      "time_str": "01:57.890",
+      "text": "过去事像炮弹 心中爆炸",
+      "translation": null
+    },
+    {
+      "time": 124.069,
+      "time_str": "02:04.069",
+      "text": "在这半山",
+      "translation": null
+    },
+    {
+      "time": 125.452,
+      "time_str": "02:05.452",
+      "text": "这天我悲痛悲痛不已",
+      "translation": null
+    },
+    {
+      "time": 127.527,
+      "time_str": "02:07.527",
+      "text": "在胡乱说话",
+      "translation": null
+    },
+    {
+      "time": 130.35,
+      "time_str": "02:10.350",
+      "text": "夜雨中似听到",
+      "translation": null
+    },
+    {
+      "time": 132.248,
+      "time_str": "02:12.248",
+      "text": "她说不要相约",
+      "translation": null
+    },
+    {
+      "time": 133.373,
+      "time_str": "02:13.373",
+      "text": "纵使分隔 相爱不会害怕",
+      "translation": null
+    },
+    {
+      "time": 136.304,
+      "time_str": "02:16.304",
+      "text": "人无觅处",
+      "translation": null
+    },
+    {
+      "time": 138.403,
+      "time_str": "02:18.403",
+      "text": "心声有否偏差",
+      "translation": null
+    },
+    {
+      "time": 142.832,
+      "time_str": "02:22.832",
+      "text": "正是让这爱试出真与假",
+      "translation": null
+    },
+    {
+      "time": 148.626,
+      "time_str": "02:28.626",
+      "text": "遥远的她",
+      "translation": null
+    },
+    {
+      "time": 150.978,
+      "time_str": "02:30.978",
+      "text": "仿佛借风声跟我话",
+      "translation": null
+    },
+    {
+      "time": 155.272,
+      "time_str": "02:35.272",
+      "text": "热情若冇变 哪管它沧桑变化",
+      "translation": null
+    },
+    {
+      "time": 186.057,
+      "time_str": "03:06.057",
+      "text": "遥远的她 不可以再归家",
+      "translation": null
+    },
+    {
+      "time": 192.655,
+      "time_str": "03:12.655",
+      "text": "我在梦里却始终只有她",
+      "translation": null
+    },
+    {
+      "time": 198.522,
+      "time_str": "03:18.522",
+      "text": "遥远的她",
+      "translation": null
+    },
+    {
+      "time": 200.853,
+      "time_str": "03:20.853",
+      "text": "可知我心中的说话",
+      "translation": null
+    },
+    {
+      "time": 205.173,
+      "time_str": "03:25.173",
+      "text": "热情并冇变 哪管它沧桑变化",
+      "translation": null
+    },
+    {
+      "time": 210.923,
+      "time_str": "03:30.923",
+      "text": "遥远的她 不可以再归家",
+      "translation": null
+    },
+    {
+      "time": 217.667,
+      "time_str": "03:37.667",
+      "text": "我在梦里却始终只有她",
+      "translation": null
+    },
+    {
+      "time": 223.692,
+      "time_str": "03:43.692",
+      "text": "遥远的她",
+      "translation": null
+    },
+    {
+      "time": 225.766,
+      "time_str": "03:45.766",
+      "text": "可知我心中的说话",
+      "translation": null
+    },
+    {
+      "time": 230.156,
+      "time_str": "03:50.156",
+      "text": "热情并冇变 哪管它沧桑变化",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "遥远的她 - 张学友.lrc"
+}

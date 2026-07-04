@@ -1,0 +1,364 @@
+{
+  "title": "大城小爱",
+  "title_raw": "大城小爱",
+  "version": null,
+  "artist": "王力宏",
+  "group_key": "大城小爱|王力宏",
+  "writers": {
+    "lyricist": "王力宏/陈镇川/K.Tee",
+    "composer": "王力宏",
+    "arranger": "王力宏"
+  },
+  "lyrics": [
+    {
+      "time": 5.358,
+      "time_str": "00:05.358",
+      "text": "Instruments : 王力宏",
+      "translation": null
+    },
+    {
+      "time": 6.251,
+      "time_str": "00:06.251",
+      "text": "Bass : Andy Peterson",
+      "translation": null
+    },
+    {
+      "time": 10.716,
+      "time_str": "00:10.716",
+      "text": "混音室 : Barking Doctor Studios/Mt. Kisco/New York",
+      "translation": null
+    },
+    {
+      "time": 13.395,
+      "time_str": "00:13.395",
+      "text": "SP：Sony Music Publishing (Pte) Ltd., Taiwan Branch",
+      "translation": null
+    },
+    {
+      "time": 14.29,
+      "time_str": "00:14.290",
+      "text": "乌黑的发尾盘成一个圈",
+      "translation": null
+    },
+    {
+      "time": 17.79,
+      "time_str": "00:17.790",
+      "text": "缠绕所有对你的眷恋",
+      "translation": null
+    },
+    {
+      "time": 21.36,
+      "time_str": "00:21.360",
+      "text": "隔着半透明门帘",
+      "translation": null
+    },
+    {
+      "time": 23.28,
+      "time_str": "00:23.280",
+      "text": "嘴里说的语言完全没有欺骗",
+      "translation": null
+    },
+    {
+      "time": 28.77,
+      "time_str": "00:28.770",
+      "text": "屋顶灰色瓦片安静的画面",
+      "translation": null
+    },
+    {
+      "time": 32.36,
+      "time_str": "00:32.360",
+      "text": "灯火是你美丽那张脸",
+      "translation": null
+    },
+    {
+      "time": 36.3,
+      "time_str": "00:36.300",
+      "text": "终于找到所有流浪的终点",
+      "translation": null
+    },
+    {
+      "time": 40.9,
+      "time_str": "00:40.900",
+      "text": "你的微笑结束了疲倦",
+      "translation": null
+    },
+    {
+      "time": 45.9,
+      "time_str": "00:45.900",
+      "text": "千万不要说天长地久",
+      "translation": null
+    },
+    {
+      "time": 48.86,
+      "time_str": "00:48.860",
+      "text": "免的你觉得我不切实际",
+      "translation": null
+    },
+    {
+      "time": 52.35,
+      "time_str": "00:52.350",
+      "text": "想多么简单就多么简单",
+      "translation": null
+    },
+    {
+      "time": 56.32,
+      "time_str": "00:56.320",
+      "text": "是妈妈告诉我的哲理",
+      "translation": null
+    },
+    {
+      "time": 59.51,
+      "time_str": "00:59.510",
+      "text": "脑袋都是你心里都是你",
+      "translation": null
+    },
+    {
+      "time": 62.96,
+      "time_str": "01:02.960",
+      "text": "小小的爱在大城里好甜蜜",
+      "translation": null
+    },
+    {
+      "time": 66.6,
+      "time_str": "01:06.600",
+      "text": "念的都是你全部都是你",
+      "translation": null
+    },
+    {
+      "time": 70.41,
+      "time_str": "01:10.410",
+      "text": "小小的爱在大城里只为你倾心",
+      "translation": null
+    },
+    {
+      "time": 76.82,
+      "time_str": "01:16.820",
+      "text": "乌黑的发尾盘成一个圈",
+      "translation": null
+    },
+    {
+      "time": 80.43,
+      "time_str": "01:20.430",
+      "text": "缠绕所有对你的眷恋",
+      "translation": null
+    },
+    {
+      "time": 84.11,
+      "time_str": "01:24.110",
+      "text": "终于找到所有流浪的终点",
+      "translation": null
+    },
+    {
+      "time": 87.99,
+      "time_str": "01:27.990",
+      "text": "你的微笑结束了疲倦",
+      "translation": null
+    },
+    {
+      "time": 91.29,
+      "time_str": "01:31.290",
+      "text": "千万不要说天长地久",
+      "translation": null
+    },
+    {
+      "time": 95.05,
+      "time_str": "01:35.050",
+      "text": "免的你觉得我不切实际",
+      "translation": null
+    },
+    {
+      "time": 98.54,
+      "time_str": "01:38.540",
+      "text": "想多么简单就多么简单",
+      "translation": null
+    },
+    {
+      "time": 102.56,
+      "time_str": "01:42.560",
+      "text": "让我大声的对你说",
+      "translation": null
+    },
+    {
+      "time": 105.44,
+      "time_str": "01:45.440",
+      "text": "I’m Thinking Of You",
+      "translation": null
+    },
+    {
+      "time": 109.28,
+      "time_str": "01:49.280",
+      "text": "脑袋都是你心里都是你",
+      "translation": null
+    },
+    {
+      "time": 112.77,
+      "time_str": "01:52.770",
+      "text": "小小的爱在大城里好甜蜜",
+      "translation": null
+    },
+    {
+      "time": 116.44,
+      "time_str": "01:56.440",
+      "text": "念的都是你全部都是你",
+      "translation": null
+    },
+    {
+      "time": 120.17,
+      "time_str": "02:00.170",
+      "text": "小小的爱在大城里只为你倾心",
+      "translation": null
+    },
+    {
+      "time": 125.3,
+      "time_str": "02:05.300",
+      "text": "那回城的票根你留做纪念",
+      "translation": null
+    },
+    {
+      "time": 128.36,
+      "time_str": "02:08.360",
+      "text": "不必害怕面对离别",
+      "translation": null
+    },
+    {
+      "time": 132.02,
+      "time_str": "02:12.020",
+      "text": "剪掉一丝头发让我放在胸前",
+      "translation": null
+    },
+    {
+      "time": 135.6,
+      "time_str": "02:15.600",
+      "text": "走到那里都有你陪",
+      "translation": null
+    },
+    {
+      "time": 138.91,
+      "time_str": "02:18.910",
+      "text": "相随",
+      "translation": null
+    },
+    {
+      "time": 142.3,
+      "time_str": "02:22.300",
+      "text": "脑袋都是你心里都是你",
+      "translation": null
+    },
+    {
+      "time": 145.71,
+      "time_str": "02:25.710",
+      "text": "小小的爱在大城里好甜蜜",
+      "translation": null
+    },
+    {
+      "time": 149.31,
+      "time_str": "02:29.310",
+      "text": "念的都是你全部都是你",
+      "translation": null
+    },
+    {
+      "time": 153.14,
+      "time_str": "02:33.140",
+      "text": "小小的爱在大城里只为你倾心",
+      "translation": null
+    },
+    {
+      "time": 156.91,
+      "time_str": "02:36.910",
+      "text": "脑袋都是你心里都是你",
+      "translation": null
+    },
+    {
+      "time": 160.33,
+      "time_str": "02:40.330",
+      "text": "小小的爱在大城里好甜蜜",
+      "translation": null
+    },
+    {
+      "time": 163.95,
+      "time_str": "02:43.950",
+      "text": "OH~~念的都是你全部都是你",
+      "translation": null
+    },
+    {
+      "time": 168.0,
+      "time_str": "02:48.000",
+      "text": "小小的爱在大城里只为你倾心",
+      "translation": null
+    },
+    {
+      "time": 171.44,
+      "time_str": "02:51.440",
+      "text": "拉拉拉拉拉~~~~~拉拉拉拉拉",
+      "translation": null
+    },
+    {
+      "time": 174.76,
+      "time_str": "02:54.760",
+      "text": "拉拉拉拉拉~~~~~拉拉拉拉拉",
+      "translation": null
+    },
+    {
+      "time": 178.51,
+      "time_str": "02:58.510",
+      "text": "拉拉拉拉拉~~~~~拉拉拉拉拉",
+      "translation": null
+    },
+    {
+      "time": 182.17,
+      "time_str": "03:02.170",
+      "text": "拉拉拉拉拉~~~~~拉拉拉拉拉",
+      "translation": null
+    },
+    {
+      "time": 186.05,
+      "time_str": "03:06.050",
+      "text": "拉拉拉拉拉~~~~~拉拉拉拉拉",
+      "translation": null
+    },
+    {
+      "time": 189.5,
+      "time_str": "03:09.500",
+      "text": "拉拉拉拉拉~~~~~拉拉拉拉拉",
+      "translation": null
+    },
+    {
+      "time": 193.07,
+      "time_str": "03:13.070",
+      "text": "拉拉拉拉拉~~~~~拉拉拉拉拉",
+      "translation": null
+    },
+    {
+      "time": 196.73,
+      "time_str": "03:16.730",
+      "text": "拉拉拉拉拉~~~~~拉拉拉拉拉",
+      "translation": null
+    },
+    {
+      "time": 203.54,
+      "time_str": "03:23.540",
+      "text": "乌黑的发尾盘成一个圈",
+      "translation": null
+    },
+    {
+      "time": 207.01,
+      "time_str": "03:27.010",
+      "text": "缠绕所有对你的眷恋",
+      "translation": null
+    },
+    {
+      "time": 210.52,
+      "time_str": "03:30.520",
+      "text": "那一种寸步不离的感觉",
+      "translation": null
+    },
+    {
+      "time": 214.7,
+      "time_str": "03:34.700",
+      "text": "我知道就叫作 永远",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "大城小爱 - 王力宏.lrc"
+}

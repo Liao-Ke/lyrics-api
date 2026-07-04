@@ -1,0 +1,250 @@
+{
+  "title": "偷心",
+  "title_raw": "偷心",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "偷心|张学友",
+  "writers": {
+    "lyricist": "丁晓雯",
+    "composer": "郭子",
+    "arranger": "袁卓凡"
+  },
+  "lyrics": [
+    {
+      "time": 15.87,
+      "time_str": "00:15.870",
+      "text": "是寂寞慢慢占领我的心",
+      "translation": null
+    },
+    {
+      "time": 22.212,
+      "time_str": "00:22.212",
+      "text": "长夜里愈来愈冷清",
+      "translation": null
+    },
+    {
+      "time": 25.735,
+      "time_str": "00:25.735",
+      "text": "回忆里愈来愈孤寂",
+      "translation": null
+    },
+    {
+      "time": 29.545,
+      "time_str": "00:29.545",
+      "text": "是后悔慢慢侵蚀我的心",
+      "translation": null
+    },
+    {
+      "time": 36.4,
+      "time_str": "00:36.400",
+      "text": "抹去了最后的泪滴",
+      "translation": null
+    },
+    {
+      "time": 39.396,
+      "time_str": "00:39.396",
+      "text": "从今后不再为谁哭泣",
+      "translation": null
+    },
+    {
+      "time": 51.01,
+      "time_str": "00:51.010",
+      "text": "我不敢再问",
+      "translation": null
+    },
+    {
+      "time": 53.338,
+      "time_str": "00:53.338",
+      "text": "是什么改变你的眼神",
+      "translation": null
+    },
+    {
+      "time": 57.638,
+      "time_str": "00:57.638",
+      "text": "对爱厌倦对爱疲惫",
+      "translation": null
+    },
+    {
+      "time": 61.149,
+      "time_str": "01:01.149",
+      "text": "对我已没有感觉",
+      "translation": null
+    },
+    {
+      "time": 65.73,
+      "time_str": "01:05.730",
+      "text": "温柔的缠绵",
+      "translation": null
+    },
+    {
+      "time": 67.853,
+      "time_str": "01:07.853",
+      "text": "难道只是一时的气氛",
+      "translation": null
+    },
+    {
+      "time": 71.712,
+      "time_str": "01:11.712",
+      "text": "留不住人留不住魂",
+      "translation": null
+    },
+    {
+      "time": 75.237,
+      "time_str": "01:15.237",
+      "text": "留不住你的一切",
+      "translation": null
+    },
+    {
+      "time": 82.322,
+      "time_str": "01:22.322",
+      "text": "是了解慢慢伤害我的心",
+      "translation": null
+    },
+    {
+      "time": 89.283,
+      "time_str": "01:29.283",
+      "text": "就让我醉死在梦里",
+      "translation": null
+    },
+    {
+      "time": 92.366,
+      "time_str": "01:32.366",
+      "text": "在梦里永远不要清醒",
+      "translation": null
+    },
+    {
+      "time": 100.283,
+      "time_str": "01:40.283",
+      "text": "是谁偷偷偷走我的心",
+      "translation": null
+    },
+    {
+      "time": 107.28,
+      "time_str": "01:47.280",
+      "text": "不能分辨黑夜或天明",
+      "translation": null
+    },
+    {
+      "time": 114.462,
+      "time_str": "01:54.462",
+      "text": "是谁偷偷偷走我的心",
+      "translation": null
+    },
+    {
+      "time": 121.16,
+      "time_str": "02:01.160",
+      "text": "我的眼睛看不见我自己",
+      "translation": null
+    },
+    {
+      "time": 146.272,
+      "time_str": "02:26.272",
+      "text": "我不敢再问",
+      "translation": null
+    },
+    {
+      "time": 148.813,
+      "time_str": "02:28.813",
+      "text": "是什么改变你的眼神",
+      "translation": null
+    },
+    {
+      "time": 152.99,
+      "time_str": "02:32.990",
+      "text": "对爱厌倦对爱疲惫",
+      "translation": null
+    },
+    {
+      "time": 156.518,
+      "time_str": "02:36.518",
+      "text": "对我已没有感觉",
+      "translation": null
+    },
+    {
+      "time": 160.494,
+      "time_str": "02:40.494",
+      "text": "温柔的缠绵",
+      "translation": null
+    },
+    {
+      "time": 162.802,
+      "time_str": "02:42.802",
+      "text": "难道只是一时的气氛",
+      "translation": null
+    },
+    {
+      "time": 167.288,
+      "time_str": "02:47.288",
+      "text": "留不住人留不住魂",
+      "translation": null
+    },
+    {
+      "time": 170.727,
+      "time_str": "02:50.727",
+      "text": "留不住你的一切",
+      "translation": null
+    },
+    {
+      "time": 181.598,
+      "time_str": "03:01.598",
+      "text": "是谁偷偷偷走我的心",
+      "translation": null
+    },
+    {
+      "time": 188.237,
+      "time_str": "03:08.237",
+      "text": "不能分辨黑夜或天明",
+      "translation": null
+    },
+    {
+      "time": 195.672,
+      "time_str": "03:15.672",
+      "text": "是谁偷偷偷走我的心",
+      "translation": null
+    },
+    {
+      "time": 202.877,
+      "time_str": "03:22.877",
+      "text": "我的眼睛看不见我自己",
+      "translation": null
+    },
+    {
+      "time": 209.74,
+      "time_str": "03:29.740",
+      "text": "是寂寞慢慢占领我的心",
+      "translation": null
+    },
+    {
+      "time": 216.406,
+      "time_str": "03:36.406",
+      "text": "长夜里愈来愈冷清",
+      "translation": null
+    },
+    {
+      "time": 219.935,
+      "time_str": "03:39.935",
+      "text": "回忆里愈来愈孤寂",
+      "translation": null
+    },
+    {
+      "time": 223.365,
+      "time_str": "03:43.365",
+      "text": "是后悔慢慢侵蚀我的心",
+      "translation": null
+    },
+    {
+      "time": 230.614,
+      "time_str": "03:50.614",
+      "text": "抹去了最后的泪滴",
+      "translation": null
+    },
+    {
+      "time": 233.613,
+      "time_str": "03:53.613",
+      "text": "从今后不再为谁哭泣",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "偷心 - 张学友.lrc"
+}

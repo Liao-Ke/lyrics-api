@@ -1,0 +1,196 @@
+{
+  "title": "美丽心情",
+  "title_raw": "美丽心情",
+  "version": null,
+  "artist": "本多RuRu",
+  "group_key": "美丽心情|本多ruru",
+  "writers": {
+    "lyricist": "姚谦",
+    "composer": "中島みゆき",
+    "arranger": "屠颖"
+  },
+  "lyrics": [
+    {
+      "time": 30.04,
+      "time_str": "00:30.040",
+      "text": "多雨的冬季 总算过去",
+      "translation": null
+    },
+    {
+      "time": 35.71,
+      "time_str": "00:35.710",
+      "text": "天空微露淡蓝的晴",
+      "translation": null
+    },
+    {
+      "time": 41.77,
+      "time_str": "00:41.770",
+      "text": "我在早春清新的阳光里",
+      "translation": null
+    },
+    {
+      "time": 47.63,
+      "time_str": "00:47.630",
+      "text": "看着当时写的日记",
+      "translation": null
+    },
+    {
+      "time": 53.5,
+      "time_str": "00:53.500",
+      "text": "原来爱 曾给我美丽心情",
+      "translation": null
+    },
+    {
+      "time": 59.32,
+      "time_str": "00:59.320",
+      "text": "像一面深遂的风景",
+      "translation": null
+    },
+    {
+      "time": 65.18,
+      "time_str": "01:05.180",
+      "text": "那深爱过他 却受伤的心",
+      "translation": null
+    },
+    {
+      "time": 71.14,
+      "time_str": "01:11.140",
+      "text": "丰富了 人生的记忆",
+      "translation": null
+    },
+    {
+      "time": 76.94,
+      "time_str": "01:16.940",
+      "text": "只有曾 天真给过的心",
+      "translation": null
+    },
+    {
+      "time": 83.29,
+      "time_str": "01:23.290",
+      "text": "才了解 等待中的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 88.65,
+      "time_str": "01:28.650",
+      "text": "也只有被 辜负而长夜流过泪的心",
+      "translation": null
+    },
+    {
+      "time": 95.32,
+      "time_str": "01:35.320",
+      "text": "才能明白这也是种运气",
+      "translation": null
+    },
+    {
+      "time": 100.62,
+      "time_str": "01:40.620",
+      "text": "让他永远 记得曾经有一个人",
+      "translation": null
+    },
+    {
+      "time": 106.68,
+      "time_str": "01:46.680",
+      "text": "给过完完整整的爱情",
+      "translation": null
+    },
+    {
+      "time": 121.69,
+      "time_str": "02:01.690",
+      "text": "那曾经爱着 他的心情",
+      "translation": null
+    },
+    {
+      "time": 127.15,
+      "time_str": "02:07.150",
+      "text": "有一股傻傻的勇气",
+      "translation": null
+    },
+    {
+      "time": 133.31,
+      "time_str": "02:13.310",
+      "text": "那深爱过他 却受伤的心",
+      "translation": null
+    },
+    {
+      "time": 139.24,
+      "time_str": "02:19.240",
+      "text": "丰富了 人生的记忆",
+      "translation": null
+    },
+    {
+      "time": 145.19,
+      "time_str": "02:25.190",
+      "text": "只有曾 天真给过的心",
+      "translation": null
+    },
+    {
+      "time": 151.05,
+      "time_str": "02:31.050",
+      "text": "才了解 等待中的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 156.6,
+      "time_str": "02:36.600",
+      "text": "也只有被 辜负而长夜流过泪的心",
+      "translation": null
+    },
+    {
+      "time": 163.41,
+      "time_str": "02:43.410",
+      "text": "才能 明白这也是种运气",
+      "translation": null
+    },
+    {
+      "time": 168.71,
+      "time_str": "02:48.710",
+      "text": "让他永远 记得曾经有一个人",
+      "translation": null
+    },
+    {
+      "time": 174.87,
+      "time_str": "02:54.870",
+      "text": "给过完完整整的爱情",
+      "translation": null
+    },
+    {
+      "time": 207.76,
+      "time_str": "03:27.760",
+      "text": "只有曾 天真给过的心",
+      "translation": null
+    },
+    {
+      "time": 213.21,
+      "time_str": "03:33.210",
+      "text": "才了解 等待中的甜蜜",
+      "translation": null
+    },
+    {
+      "time": 218.92,
+      "time_str": "03:38.920",
+      "text": "也只有被 辜负而长夜流过泪的心",
+      "translation": null
+    },
+    {
+      "time": 225.53,
+      "time_str": "03:45.530",
+      "text": "才能 明白这也是种运气",
+      "translation": null
+    },
+    {
+      "time": 230.83,
+      "time_str": "03:50.830",
+      "text": "当我安安心心地走在明天里",
+      "translation": null
+    },
+    {
+      "time": 237.14,
+      "time_str": "03:57.140",
+      "text": "有不后悔美丽的心情",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "美丽心情 - 本多RuRu.lrc"
+}

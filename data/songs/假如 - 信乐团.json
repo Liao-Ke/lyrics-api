@@ -1,0 +1,244 @@
+{
+  "title": "假如",
+  "title_raw": "假如",
+  "version": null,
+  "artist": "信乐团",
+  "group_key": "假如|信乐团",
+  "writers": {
+    "lyricist": "姚若龙",
+    "composer": "Jun Hae Sung",
+    "arranger": "信乐团/Keith Stuart"
+  },
+  "lyrics": [
+    {
+      "time": 23.19,
+      "time_str": "00:23.190",
+      "text": "一份爱能承受多少的误解",
+      "translation": null
+    },
+    {
+      "time": 30.25,
+      "time_str": "00:30.250",
+      "text": "熬过飘雪的冬天",
+      "translation": null
+    },
+    {
+      "time": 34.54,
+      "time_str": "00:34.540",
+      "text": "一句话能撕裂多深的牵连",
+      "translation": null
+    },
+    {
+      "time": 41.38,
+      "time_str": "00:41.380",
+      "text": "变的比陌生人还遥远",
+      "translation": null
+    },
+    {
+      "time": 45.98,
+      "time_str": "00:45.980",
+      "text": "最初的爱越像火焰",
+      "translation": null
+    },
+    {
+      "time": 50.26,
+      "time_str": "00:50.260",
+      "text": "最后越会被风熄灭",
+      "translation": null
+    },
+    {
+      "time": 57.04,
+      "time_str": "00:57.040",
+      "text": "有时候真话太尖锐",
+      "translation": null
+    },
+    {
+      "time": 61.4,
+      "time_str": "01:01.400",
+      "text": "有人只好说着谎言",
+      "translation": null
+    },
+    {
+      "time": 65.54,
+      "time_str": "01:05.540",
+      "text": "假如时光倒流 我能做什么",
+      "translation": null
+    },
+    {
+      "time": 71.79,
+      "time_str": "01:11.790",
+      "text": "找你没说的 却想要的",
+      "translation": null
+    },
+    {
+      "time": 77.22,
+      "time_str": "01:17.220",
+      "text": "假如我不放手 你多年以后",
+      "translation": null
+    },
+    {
+      "time": 82.96,
+      "time_str": "01:22.960",
+      "text": "会怪我恨我 或感动",
+      "translation": null
+    },
+    {
+      "time": 88.16,
+      "time_str": "01:28.160",
+      "text": "想假如 是最空虚的痛",
+      "translation": null
+    },
+    {
+      "time": 106.68,
+      "time_str": "01:46.680",
+      "text": "一个人要看过 几次爱凋谢",
+      "translation": null
+    },
+    {
+      "time": 113.7,
+      "time_str": "01:53.700",
+      "text": "才甘心在孤独里冬眠",
+      "translation": null
+    },
+    {
+      "time": 118.36,
+      "time_str": "01:58.360",
+      "text": "最初的爱越像火焰",
+      "translation": null
+    },
+    {
+      "time": 122.85,
+      "time_str": "02:02.850",
+      "text": "最后越会被风熄灭",
+      "translation": null
+    },
+    {
+      "time": 129.39,
+      "time_str": "02:09.390",
+      "text": "有时候真话太尖锐",
+      "translation": null
+    },
+    {
+      "time": 133.89,
+      "time_str": "02:13.890",
+      "text": "有人只好说着谎言",
+      "translation": null
+    },
+    {
+      "time": 138.07,
+      "time_str": "02:18.070",
+      "text": "假如时光倒流 我能做什么",
+      "translation": null
+    },
+    {
+      "time": 144.39,
+      "time_str": "02:24.390",
+      "text": "找你没说的 却想要的",
+      "translation": null
+    },
+    {
+      "time": 149.99,
+      "time_str": "02:29.990",
+      "text": "假如我不放手 你多年以后",
+      "translation": null
+    },
+    {
+      "time": 155.48,
+      "time_str": "02:35.480",
+      "text": "会怪我恨我 或感动",
+      "translation": null
+    },
+    {
+      "time": 161.13,
+      "time_str": "02:41.130",
+      "text": "想假如 是最空虚的痛",
+      "translation": null
+    },
+    {
+      "time": 168.52,
+      "time_str": "02:48.520",
+      "text": "为什么幸福 都是幻梦",
+      "translation": null
+    },
+    {
+      "time": 173.08,
+      "time_str": "02:53.080",
+      "text": "一靠近天堂 也就快醒了",
+      "translation": null
+    },
+    {
+      "time": 179.62,
+      "time_str": "02:59.620",
+      "text": "或许爱情 更像落叶",
+      "translation": null
+    },
+    {
+      "time": 184.18,
+      "time_str": "03:04.180",
+      "text": "看似飞翔却在坠落",
+      "translation": null
+    },
+    {
+      "time": 191.16,
+      "time_str": "03:11.160",
+      "text": "假如时光倒流 我能做什么",
+      "translation": null
+    },
+    {
+      "time": 197.51,
+      "time_str": "03:17.510",
+      "text": "找你没说的 却想要的",
+      "translation": null
+    },
+    {
+      "time": 202.76,
+      "time_str": "03:22.760",
+      "text": "假如我不放手 你多年以后",
+      "translation": null
+    },
+    {
+      "time": 208.61,
+      "time_str": "03:28.610",
+      "text": "会怪我恨我 或感动",
+      "translation": null
+    },
+    {
+      "time": 213.11,
+      "time_str": "03:33.110",
+      "text": "假如真可以让时光倒流 你会做什么",
+      "translation": null
+    },
+    {
+      "time": 219.87,
+      "time_str": "03:39.870",
+      "text": "一样选择我 或不抱我",
+      "translation": null
+    },
+    {
+      "time": 225.08,
+      "time_str": "03:45.080",
+      "text": "假如温柔放手 你是否懂得",
+      "translation": null
+    },
+    {
+      "time": 230.88,
+      "time_str": "03:50.880",
+      "text": "走错了可以 再回头",
+      "translation": null
+    },
+    {
+      "time": 236.19,
+      "time_str": "03:56.190",
+      "text": "想假如",
+      "translation": null
+    },
+    {
+      "time": 243.6,
+      "time_str": "04:03.600",
+      "text": "是无力的寂寞",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "假如 - 信乐团.lrc"
+}

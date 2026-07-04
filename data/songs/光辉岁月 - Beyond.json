@@ -1,0 +1,316 @@
+{
+  "title": "光辉岁月",
+  "title_raw": "光辉岁月",
+  "version": null,
+  "artist": "Beyond",
+  "group_key": "光辉岁月|beyond",
+  "writers": {
+    "lyricist": "黄家驹",
+    "composer": "黄家驹",
+    "arranger": "Beyond"
+  },
+  "lyrics": [
+    {
+      "time": 28.65,
+      "time_str": "00:28.650",
+      "text": "钟声响起归家的讯号",
+      "translation": null
+    },
+    {
+      "time": 33.036,
+      "time_str": "00:33.036",
+      "text": "在他生命里",
+      "translation": null
+    },
+    {
+      "time": 36.281,
+      "time_str": "00:36.281",
+      "text": "仿佛带点唏嘘",
+      "translation": null
+    },
+    {
+      "time": 41.564,
+      "time_str": "00:41.564",
+      "text": "黑色肌肤给他的意义",
+      "translation": null
+    },
+    {
+      "time": 46.038,
+      "time_str": "00:46.038",
+      "text": "是一生奉献 肤色斗争中",
+      "translation": null
+    },
+    {
+      "time": 54.543,
+      "time_str": "00:54.543",
+      "text": "年月把拥有变做失去",
+      "translation": null
+    },
+    {
+      "time": 61.056,
+      "time_str": "01:01.056",
+      "text": "疲倦的双眼带着期望",
+      "translation": null
+    },
+    {
+      "time": 67.551,
+      "time_str": "01:07.551",
+      "text": "今天只有残留的躯壳",
+      "translation": null
+    },
+    {
+      "time": 71.162,
+      "time_str": "01:11.162",
+      "text": "迎接光辉岁月",
+      "translation": null
+    },
+    {
+      "time": 74.391,
+      "time_str": "01:14.391",
+      "text": "风雨中抱紧自由",
+      "translation": null
+    },
+    {
+      "time": 80.515,
+      "time_str": "01:20.515",
+      "text": "一生经过彷徨的挣扎",
+      "translation": null
+    },
+    {
+      "time": 84.167,
+      "time_str": "01:24.167",
+      "text": "自信可改变未来",
+      "translation": null
+    },
+    {
+      "time": 87.343,
+      "time_str": "01:27.343",
+      "text": "问谁又能做到",
+      "translation": null
+    },
+    {
+      "time": 103.174,
+      "time_str": "01:43.174",
+      "text": "可否不分肤色的界限",
+      "translation": null
+    },
+    {
+      "time": 107.643,
+      "time_str": "01:47.643",
+      "text": "愿这土地里",
+      "translation": null
+    },
+    {
+      "time": 110.774,
+      "time_str": "01:50.774",
+      "text": "不分你我高低",
+      "translation": null
+    },
+    {
+      "time": 116.103,
+      "time_str": "01:56.103",
+      "text": "缤纷色彩闪出的美丽",
+      "translation": null
+    },
+    {
+      "time": 120.572,
+      "time_str": "02:00.572",
+      "text": "是因它没有",
+      "translation": null
+    },
+    {
+      "time": 123.764,
+      "time_str": "02:03.764",
+      "text": "分开每种色彩",
+      "translation": null
+    },
+    {
+      "time": 129.06,
+      "time_str": "02:09.060",
+      "text": "年月把拥有变做失去",
+      "translation": null
+    },
+    {
+      "time": 135.509,
+      "time_str": "02:15.509",
+      "text": "疲倦的双眼带着期望",
+      "translation": null
+    },
+    {
+      "time": 142.001,
+      "time_str": "02:22.001",
+      "text": "今天只有残留的躯壳",
+      "translation": null
+    },
+    {
+      "time": 145.74,
+      "time_str": "02:25.740",
+      "text": "迎接光辉岁月",
+      "translation": null
+    },
+    {
+      "time": 148.901,
+      "time_str": "02:28.901",
+      "text": "风雨中抱紧自由",
+      "translation": null
+    },
+    {
+      "time": 154.992,
+      "time_str": "02:34.992",
+      "text": "一生经过彷徨的挣扎",
+      "translation": null
+    },
+    {
+      "time": 158.655,
+      "time_str": "02:38.655",
+      "text": "自信可改变未来",
+      "translation": null
+    },
+    {
+      "time": 161.9,
+      "time_str": "02:41.900",
+      "text": "问谁又能做到",
+      "translation": null
+    },
+    {
+      "time": 203.643,
+      "time_str": "03:23.643",
+      "text": "今天只有残留的躯壳",
+      "translation": null
+    },
+    {
+      "time": 207.339,
+      "time_str": "03:27.339",
+      "text": "迎接光辉岁月",
+      "translation": null
+    },
+    {
+      "time": 210.561,
+      "time_str": "03:30.561",
+      "text": "风雨中抱紧自由",
+      "translation": null
+    },
+    {
+      "time": 216.626,
+      "time_str": "03:36.626",
+      "text": "一生经过彷徨的挣扎",
+      "translation": null
+    },
+    {
+      "time": 220.315,
+      "time_str": "03:40.315",
+      "text": "自信可改变未来",
+      "translation": null
+    },
+    {
+      "time": 223.493,
+      "time_str": "03:43.493",
+      "text": "问谁又能做到",
+      "translation": null
+    },
+    {
+      "time": 228.026,
+      "time_str": "03:48.026",
+      "text": "Woo",
+      "translation": null
+    },
+    {
+      "time": 235.305,
+      "time_str": "03:55.305",
+      "text": "Ah",
+      "translation": null
+    },
+    {
+      "time": 239.359,
+      "time_str": "03:59.359",
+      "text": "今天只有残留的躯壳",
+      "translation": null
+    },
+    {
+      "time": 242.934,
+      "time_str": "04:02.934",
+      "text": "迎接光辉岁月",
+      "translation": null
+    },
+    {
+      "time": 246.174,
+      "time_str": "04:06.174",
+      "text": "风雨中抱紧自由",
+      "translation": null
+    },
+    {
+      "time": 252.267,
+      "time_str": "04:12.267",
+      "text": "一生经过彷徨的挣扎",
+      "translation": null
+    },
+    {
+      "time": 255.855,
+      "time_str": "04:15.855",
+      "text": "自信可改变未来",
+      "translation": null
+    },
+    {
+      "time": 259.047,
+      "time_str": "04:19.047",
+      "text": "问谁又能做到",
+      "translation": null
+    },
+    {
+      "time": 263.624,
+      "time_str": "04:23.624",
+      "text": "Woo",
+      "translation": null
+    },
+    {
+      "time": 270.932,
+      "time_str": "04:30.932",
+      "text": "Ah",
+      "translation": null
+    },
+    {
+      "time": 275.027,
+      "time_str": "04:35.027",
+      "text": "今天只有残留的躯壳",
+      "translation": null
+    },
+    {
+      "time": 278.58,
+      "time_str": "04:38.580",
+      "text": "迎接光辉岁月",
+      "translation": null
+    },
+    {
+      "time": 281.808,
+      "time_str": "04:41.808",
+      "text": "风雨中抱紧自由",
+      "translation": null
+    },
+    {
+      "time": 287.928,
+      "time_str": "04:47.928",
+      "text": "一生经过彷徨的挣扎",
+      "translation": null
+    },
+    {
+      "time": 291.555,
+      "time_str": "04:51.555",
+      "text": "自信可改变未来",
+      "translation": null
+    },
+    {
+      "time": 293.56,
+      "time_str": "04:53.560",
+      "text": "Synth Programming : Gordon O'Yang / 叶世荣",
+      "translation": null
+    },
+    {
+      "time": 294.56,
+      "time_str": "04:54.560",
+      "text": "Mixed by Philip Kwok",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "光辉岁月 - Beyond.lrc"
+}

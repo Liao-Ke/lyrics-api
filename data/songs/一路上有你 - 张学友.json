@@ -1,0 +1,400 @@
+{
+  "title": "一路上有你",
+  "title_raw": "一路上有你",
+  "version": null,
+  "artist": "张学友",
+  "group_key": "一路上有你|张学友",
+  "writers": {
+    "lyricist": "谢明训",
+    "composer": "片山圭司",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 11.18,
+      "time_str": "00:11.180",
+      "text": "你知道吗",
+      "translation": null
+    },
+    {
+      "time": 13.3,
+      "time_str": "00:13.300",
+      "text": "爱你并不容易",
+      "translation": null
+    },
+    {
+      "time": 16.23,
+      "time_str": "00:16.230",
+      "text": "还需要很多勇气",
+      "translation": null
+    },
+    {
+      "time": 21.31,
+      "time_str": "00:21.310",
+      "text": "是天意吧",
+      "translation": null
+    },
+    {
+      "time": 23.74,
+      "time_str": "00:23.740",
+      "text": "好多话说不出去",
+      "translation": null
+    },
+    {
+      "time": 27.14,
+      "time_str": "00:27.140",
+      "text": "就是怕你负担不起",
+      "translation": null
+    },
+    {
+      "time": 31.72,
+      "time_str": "00:31.720",
+      "text": "你相信吗",
+      "translation": null
+    },
+    {
+      "time": 34.02,
+      "time_str": "00:34.020",
+      "text": "这一生遇见你",
+      "translation": null
+    },
+    {
+      "time": 37.25,
+      "time_str": "00:37.250",
+      "text": "是上辈子我欠你的",
+      "translation": null
+    },
+    {
+      "time": 42.37,
+      "time_str": "00:42.370",
+      "text": "是天意吧",
+      "translation": null
+    },
+    {
+      "time": 44.51,
+      "time_str": "00:44.510",
+      "text": "让我爱上你",
+      "translation": null
+    },
+    {
+      "time": 47.61,
+      "time_str": "00:47.610",
+      "text": "才又让你 离我而去",
+      "translation": null
+    },
+    {
+      "time": 53.94,
+      "time_str": "00:53.940",
+      "text": "也许轮回里 早已注定",
+      "translation": null
+    },
+    {
+      "time": 58.52,
+      "time_str": "00:58.520",
+      "text": "今生就该我还给你",
+      "translation": null
+    },
+    {
+      "time": 64.37,
+      "time_str": "01:04.370",
+      "text": "一颗心在风雨里",
+      "translation": null
+    },
+    {
+      "time": 67.4,
+      "time_str": "01:07.400",
+      "text": "飘来飘去",
+      "translation": null
+    },
+    {
+      "time": 69.46,
+      "time_str": "01:09.460",
+      "text": "都是为你",
+      "translation": null
+    },
+    {
+      "time": 75.5,
+      "time_str": "01:15.500",
+      "text": "一路上有你",
+      "translation": null
+    },
+    {
+      "time": 78.41,
+      "time_str": "01:18.410",
+      "text": "苦一点也愿意",
+      "translation": null
+    },
+    {
+      "time": 81.02,
+      "time_str": "01:21.020",
+      "text": "就算是为了分离与我相遇",
+      "translation": null
+    },
+    {
+      "time": 85.57,
+      "time_str": "01:25.570",
+      "text": "一路上有你",
+      "translation": null
+    },
+    {
+      "time": 88.93,
+      "time_str": "01:28.930",
+      "text": "痛一点也愿意",
+      "translation": null
+    },
+    {
+      "time": 91.44,
+      "time_str": "01:31.440",
+      "text": "就算这辈子注定要和你分离",
+      "translation": null
+    },
+    {
+      "time": 105.05,
+      "time_str": "01:45.050",
+      "text": "你知道吗",
+      "translation": null
+    },
+    {
+      "time": 107.21,
+      "time_str": "01:47.210",
+      "text": "爱你并不容易",
+      "translation": null
+    },
+    {
+      "time": 110.27,
+      "time_str": "01:50.270",
+      "text": "还需要很多勇气",
+      "translation": null
+    },
+    {
+      "time": 115.18,
+      "time_str": "01:55.180",
+      "text": "是天意吧",
+      "translation": null
+    },
+    {
+      "time": 117.62,
+      "time_str": "01:57.620",
+      "text": "好多话说不出去",
+      "translation": null
+    },
+    {
+      "time": 121.09,
+      "time_str": "02:01.090",
+      "text": "就是怕你负担不起",
+      "translation": null
+    },
+    {
+      "time": 125.71,
+      "time_str": "02:05.710",
+      "text": "你相信吗",
+      "translation": null
+    },
+    {
+      "time": 127.97,
+      "time_str": "02:07.970",
+      "text": "这一生遇见你",
+      "translation": null
+    },
+    {
+      "time": 131.02,
+      "time_str": "02:11.020",
+      "text": "是上辈子我欠你的",
+      "translation": null
+    },
+    {
+      "time": 136.37,
+      "time_str": "02:16.370",
+      "text": "是天意吧",
+      "translation": null
+    },
+    {
+      "time": 138.41,
+      "time_str": "02:18.410",
+      "text": "让我爱上你",
+      "translation": null
+    },
+    {
+      "time": 141.53,
+      "time_str": "02:21.530",
+      "text": "才又让你离我而去",
+      "translation": null
+    },
+    {
+      "time": 147.4,
+      "time_str": "02:27.400",
+      "text": "也许轮回里 早已注定",
+      "translation": null
+    },
+    {
+      "time": 152.4,
+      "time_str": "02:32.400",
+      "text": "今生就该我还给你",
+      "translation": null
+    },
+    {
+      "time": 157.91,
+      "time_str": "02:37.910",
+      "text": "一颗心在风雨里",
+      "translation": null
+    },
+    {
+      "time": 161.26,
+      "time_str": "02:41.260",
+      "text": "飘来飘去",
+      "translation": null
+    },
+    {
+      "time": 163.34,
+      "time_str": "02:43.340",
+      "text": "都是为你",
+      "translation": null
+    },
+    {
+      "time": 169.67,
+      "time_str": "02:49.670",
+      "text": "一路上有你",
+      "translation": null
+    },
+    {
+      "time": 172.32,
+      "time_str": "02:52.320",
+      "text": "苦一点也愿意",
+      "translation": null
+    },
+    {
+      "time": 174.89,
+      "time_str": "02:54.890",
+      "text": "就算是为了分离与我相遇",
+      "translation": null
+    },
+    {
+      "time": 179.82,
+      "time_str": "02:59.820",
+      "text": "一路上有你",
+      "translation": null
+    },
+    {
+      "time": 182.74,
+      "time_str": "03:02.740",
+      "text": "痛一点也愿意",
+      "translation": null
+    },
+    {
+      "time": 185.32,
+      "time_str": "03:05.320",
+      "text": "就算这辈子注定要和你分离",
+      "translation": null
+    },
+    {
+      "time": 219.14,
+      "time_str": "03:39.140",
+      "text": "一路上有你",
+      "translation": null
+    },
+    {
+      "time": 221.87,
+      "time_str": "03:41.870",
+      "text": "苦一点也愿意",
+      "translation": null
+    },
+    {
+      "time": 224.44,
+      "time_str": "03:44.440",
+      "text": "就算是为了分离与我相遇",
+      "translation": null
+    },
+    {
+      "time": 229.58,
+      "time_str": "03:49.580",
+      "text": "一路上有你",
+      "translation": null
+    },
+    {
+      "time": 232.3,
+      "time_str": "03:52.300",
+      "text": "痛一点也愿意",
+      "translation": null
+    },
+    {
+      "time": 234.93,
+      "time_str": "03:54.930",
+      "text": "就算这辈子注定要和你分离",
+      "translation": null
+    },
+    {
+      "time": 240.19,
+      "time_str": "04:00.190",
+      "text": "一路上有你",
+      "translation": null
+    },
+    {
+      "time": 242.73,
+      "time_str": "04:02.730",
+      "text": "苦一点也愿意",
+      "translation": null
+    },
+    {
+      "time": 245.35,
+      "time_str": "04:05.350",
+      "text": "就算是为了分离与我相遇",
+      "translation": null
+    },
+    {
+      "time": 250.56,
+      "time_str": "04:10.560",
+      "text": "一路上有你",
+      "translation": null
+    },
+    {
+      "time": 253.15,
+      "time_str": "04:13.150",
+      "text": "痛一点也愿意",
+      "translation": null
+    },
+    {
+      "time": 255.78,
+      "time_str": "04:15.780",
+      "text": "就算只能在梦里拥抱你",
+      "translation": null
+    },
+    {
+      "time": 285.75,
+      "time_str": "04:45.750",
+      "text": "贝斯 : Rudy/林志宏",
+      "translation": null
+    },
+    {
+      "time": 286.82,
+      "time_str": "04:46.820",
+      "text": "混音室 : 白金录音室",
+      "translation": null
+    },
+    {
+      "time": 288.25,
+      "time_str": "04:48.250",
+      "text": "键盘 : 卢东尼",
+      "translation": null
+    },
+    {
+      "time": 288.61,
+      "time_str": "04:48.610",
+      "text": "SP : PolyGram",
+      "translation": null
+    },
+    {
+      "time": 288.96,
+      "time_str": "04:48.960",
+      "text": "母带后期处理混音室 : 丽风录音室",
+      "translation": null
+    },
+    {
+      "time": 289.32,
+      "time_str": "04:49.320",
+      "text": "母带工程师 : 徐崇宪/林明阳",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一路上有你 - 张学友.lrc"
+}

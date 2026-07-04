@@ -1,0 +1,184 @@
+{
+  "title": "上海滩",
+  "title_raw": "上海滩",
+  "version": null,
+  "artist": "叶丽仪",
+  "group_key": "上海滩|叶丽仪",
+  "writers": {
+    "lyricist": "黄霑",
+    "composer": "顾嘉辉",
+    "arranger": "顾嘉辉"
+  },
+  "lyrics": [
+    {
+      "time": 3.5,
+      "time_str": "00:03.500",
+      "text": "All footages are supplied and produced by",
+      "translation": null
+    },
+    {
+      "time": 4.0,
+      "time_str": "00:04.000",
+      "text": "Televsion Broadcasts Limitd",
+      "translation": null
+    },
+    {
+      "time": 16.58,
+      "time_str": "00:16.580",
+      "text": "浪奔 浪流",
+      "translation": null
+    },
+    {
+      "time": 22.51,
+      "time_str": "00:22.510",
+      "text": "万里涛涛江水永不休",
+      "translation": null
+    },
+    {
+      "time": 28.0,
+      "time_str": "00:28.000",
+      "text": "淘尽了 世间事",
+      "translation": null
+    },
+    {
+      "time": 33.4,
+      "time_str": "00:33.400",
+      "text": "混作滔滔一片潮流",
+      "translation": null
+    },
+    {
+      "time": 38.97,
+      "time_str": "00:38.970",
+      "text": "是喜 是愁",
+      "translation": null
+    },
+    {
+      "time": 44.22,
+      "time_str": "00:44.220",
+      "text": "浪里分不清欢笑悲忧",
+      "translation": null
+    },
+    {
+      "time": 49.63,
+      "time_str": "00:49.630",
+      "text": "成功 失败",
+      "translation": null
+    },
+    {
+      "time": 55.06,
+      "time_str": "00:55.060",
+      "text": "浪里看不出有未有",
+      "translation": null
+    },
+    {
+      "time": 60.13,
+      "time_str": "01:00.130",
+      "text": "爱你恨你 问君知否",
+      "translation": null
+    },
+    {
+      "time": 65.85,
+      "time_str": "01:05.850",
+      "text": "似大江一发不收",
+      "translation": null
+    },
+    {
+      "time": 71.0,
+      "time_str": "01:11.000",
+      "text": "转千弯 转千滩",
+      "translation": null
+    },
+    {
+      "time": 76.74,
+      "time_str": "01:16.740",
+      "text": "亦未平复此中争斗",
+      "translation": null
+    },
+    {
+      "time": 82.25,
+      "time_str": "01:22.250",
+      "text": "又有喜 又有愁",
+      "translation": null
+    },
+    {
+      "time": 87.63,
+      "time_str": "01:27.630",
+      "text": "就算分不清欢笑悲忧",
+      "translation": null
+    },
+    {
+      "time": 93.03,
+      "time_str": "01:33.030",
+      "text": "仍愿翻 百千浪",
+      "translation": null
+    },
+    {
+      "time": 98.44,
+      "time_str": "01:38.440",
+      "text": "在我心中起伏够",
+      "translation": null
+    },
+    {
+      "time": 124.84,
+      "time_str": "02:04.840",
+      "text": "爱你恨你 问君知否",
+      "translation": null
+    },
+    {
+      "time": 130.9,
+      "time_str": "02:10.900",
+      "text": "似大江一发不收",
+      "translation": null
+    },
+    {
+      "time": 135.96,
+      "time_str": "02:15.960",
+      "text": "转千弯 转千滩",
+      "translation": null
+    },
+    {
+      "time": 141.61,
+      "time_str": "02:21.610",
+      "text": "亦未平复此中争斗",
+      "translation": null
+    },
+    {
+      "time": 147.17,
+      "time_str": "02:27.170",
+      "text": "又有喜 又有愁",
+      "translation": null
+    },
+    {
+      "time": 152.63,
+      "time_str": "02:32.630",
+      "text": "就算分不清欢笑悲忧",
+      "translation": null
+    },
+    {
+      "time": 158.06,
+      "time_str": "02:38.060",
+      "text": "仍愿翻 百千浪",
+      "translation": null
+    },
+    {
+      "time": 163.42,
+      "time_str": "02:43.420",
+      "text": "在我心中起伏够",
+      "translation": null
+    },
+    {
+      "time": 168.75,
+      "time_str": "02:48.750",
+      "text": "仍愿翻 百千浪",
+      "translation": null
+    },
+    {
+      "time": 174.18,
+      "time_str": "02:54.180",
+      "text": "在我心中起伏够",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "上海滩 - 叶丽仪.lrc"
+}

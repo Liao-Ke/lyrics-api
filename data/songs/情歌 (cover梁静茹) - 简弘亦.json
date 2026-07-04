@@ -1,0 +1,292 @@
+{
+  "title": "情歌",
+  "title_raw": "情歌 (cover梁静茹)",
+  "version": "cover梁静茹",
+  "artist": "简弘亦",
+  "group_key": "情歌|简弘亦",
+  "writers": {
+    "lyricist": "陈没",
+    "composer": "伍冠谚",
+    "arranger": "向不二"
+  },
+  "lyrics": [
+    {
+      "time": 15.85,
+      "time_str": "00:15.850",
+      "text": "时光是琥珀",
+      "translation": null
+    },
+    {
+      "time": 18.78,
+      "time_str": "00:18.780",
+      "text": "泪一滴滴被反锁",
+      "translation": null
+    },
+    {
+      "time": 22.63,
+      "time_str": "00:22.630",
+      "text": "情书再不朽",
+      "translation": null
+    },
+    {
+      "time": 25.66,
+      "time_str": "00:25.660",
+      "text": "也磨成沙漏",
+      "translation": null
+    },
+    {
+      "time": 29.49,
+      "time_str": "00:29.490",
+      "text": "青春的上游",
+      "translation": null
+    },
+    {
+      "time": 32.48,
+      "time_str": "00:32.480",
+      "text": "白云飞走苍狗与海鸥",
+      "translation": null
+    },
+    {
+      "time": 36.68,
+      "time_str": "00:36.680",
+      "text": "闪过的念头",
+      "translation": null
+    },
+    {
+      "time": 40.34,
+      "time_str": "00:40.340",
+      "text": "潺潺的溜走",
+      "translation": null
+    },
+    {
+      "time": 43.27,
+      "time_str": "00:43.270",
+      "text": "命运好幽默",
+      "translation": null
+    },
+    {
+      "time": 46.15,
+      "time_str": "00:46.150",
+      "text": "让爱的人都沉默",
+      "translation": null
+    },
+    {
+      "time": 50.0,
+      "time_str": "00:50.000",
+      "text": "一整个宇宙",
+      "translation": null
+    },
+    {
+      "time": 53.03,
+      "time_str": "00:53.030",
+      "text": "换一颗红豆",
+      "translation": null
+    },
+    {
+      "time": 56.96,
+      "time_str": "00:56.960",
+      "text": "回忆如困兽",
+      "translation": null
+    },
+    {
+      "time": 59.89,
+      "time_str": "00:59.890",
+      "text": "寂寞太久而渐渐温柔",
+      "translation": null
+    },
+    {
+      "time": 64.19,
+      "time_str": "01:04.190",
+      "text": "放开了拳头 反而更自由",
+      "translation": null
+    },
+    {
+      "time": 70.6,
+      "time_str": "01:10.600",
+      "text": "慢动作 缱绻胶卷",
+      "translation": null
+    },
+    {
+      "time": 73.68,
+      "time_str": "01:13.680",
+      "text": "重播默片 定格一瞬间",
+      "translation": null
+    },
+    {
+      "time": 77.83,
+      "time_str": "01:17.830",
+      "text": "我们在 告别的演唱会 说好不再见",
+      "translation": null
+    },
+    {
+      "time": 86.42,
+      "time_str": "01:26.420",
+      "text": "你写给我 我的第一首歌",
+      "translation": null
+    },
+    {
+      "time": 92.39,
+      "time_str": "01:32.390",
+      "text": "我和你 十指紧扣 默写前奏",
+      "translation": null
+    },
+    {
+      "time": 97.25,
+      "time_str": "01:37.250",
+      "text": "可是那然后呢",
+      "translation": null
+    },
+    {
+      "time": 100.14,
+      "time_str": "01:40.140",
+      "text": "还好我有 我这一首情歌",
+      "translation": null
+    },
+    {
+      "time": 106.16,
+      "time_str": "01:46.160",
+      "text": "轻轻的 轻轻哼着 哭着笑着",
+      "translation": null
+    },
+    {
+      "time": 110.91,
+      "time_str": "01:50.910",
+      "text": "我的 天长地久",
+      "translation": null
+    },
+    {
+      "time": 130.68,
+      "time_str": "02:10.680",
+      "text": "命运好幽默",
+      "translation": null
+    },
+    {
+      "time": 133.57,
+      "time_str": "02:13.570",
+      "text": "让爱的人都沉默",
+      "translation": null
+    },
+    {
+      "time": 137.43,
+      "time_str": "02:17.430",
+      "text": "一整个宇宙",
+      "translation": null
+    },
+    {
+      "time": 140.41,
+      "time_str": "02:20.410",
+      "text": "换一颗红豆",
+      "translation": null
+    },
+    {
+      "time": 144.45,
+      "time_str": "02:24.450",
+      "text": "回忆如困兽",
+      "translation": null
+    },
+    {
+      "time": 147.33,
+      "time_str": "02:27.330",
+      "text": "寂寞太久而渐渐温柔",
+      "translation": null
+    },
+    {
+      "time": 151.79,
+      "time_str": "02:31.790",
+      "text": "放开了拳头 反而更自由",
+      "translation": null
+    },
+    {
+      "time": 158.15,
+      "time_str": "02:38.150",
+      "text": "长镜头 越拉越远",
+      "translation": null
+    },
+    {
+      "time": 161.13,
+      "time_str": "02:41.130",
+      "text": "越来越远 事隔好几年",
+      "translation": null
+    },
+    {
+      "time": 165.39,
+      "time_str": "02:45.390",
+      "text": "我们在 怀念的演唱会 礼貌的吻别",
+      "translation": null
+    },
+    {
+      "time": 173.91,
+      "time_str": "02:53.910",
+      "text": "你写给我 我的第一首歌",
+      "translation": null
+    },
+    {
+      "time": 180.04,
+      "time_str": "03:00.040",
+      "text": "我和你 十指紧扣 默写前奏",
+      "translation": null
+    },
+    {
+      "time": 184.65,
+      "time_str": "03:04.650",
+      "text": "可是那然后呢",
+      "translation": null
+    },
+    {
+      "time": 187.63,
+      "time_str": "03:07.630",
+      "text": "还好我有 我这一首情歌",
+      "translation": null
+    },
+    {
+      "time": 193.6,
+      "time_str": "03:13.600",
+      "text": "轻轻的 轻轻哼着 哭着笑着",
+      "translation": null
+    },
+    {
+      "time": 198.36,
+      "time_str": "03:18.360",
+      "text": "我的 天长地久",
+      "translation": null
+    },
+    {
+      "time": 215.15,
+      "time_str": "03:35.150",
+      "text": "陪我唱歌 清唱你的情歌",
+      "translation": null
+    },
+    {
+      "time": 221.06,
+      "time_str": "03:41.060",
+      "text": "舍不得 短短副歌 心还热着",
+      "translation": null
+    },
+    {
+      "time": 225.82,
+      "time_str": "03:45.820",
+      "text": "也要告一段落",
+      "translation": null
+    },
+    {
+      "time": 228.71,
+      "time_str": "03:48.710",
+      "text": "还好我有 我下一首情歌",
+      "translation": null
+    },
+    {
+      "time": 234.73,
+      "time_str": "03:54.730",
+      "text": "生命宛如 静静的 相拥的河",
+      "translation": null
+    },
+    {
+      "time": 239.44,
+      "time_str": "03:59.440",
+      "text": "永远 天长地久",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "情歌 (cover梁静茹) - 简弘亦.lrc"
+}

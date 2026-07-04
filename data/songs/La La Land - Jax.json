@@ -1,0 +1,304 @@
+{
+  "title": "La La Land",
+  "title_raw": "La La Land",
+  "version": null,
+  "artist": "Jax",
+  "group_key": "la la land|jax",
+  "writers": {
+    "lyricist": "Jax",
+    "composer": "Jax",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "Idol on set alright look alive people",
+      "translation": "我们的大明星来了，好了，看着台下的观众"
+    },
+    {
+      "time": 2.88,
+      "time_str": "00:02.880",
+      "text": "And we're live in 5 4 3 2",
+      "translation": "直播马上开始：5，4，3，2"
+    },
+    {
+      "time": 8.6,
+      "time_str": "00:08.600",
+      "text": "Welcome back to the land of r-reality",
+      "translation": "欢迎来到现实世界"
+    },
+    {
+      "time": 11.22,
+      "time_str": "00:11.220",
+      "text": "Wait, let`s get it again with a little more personality",
+      "translation": "等等，我们再录一次，再加点情绪"
+    },
+    {
+      "time": 17.04,
+      "time_str": "00:17.040",
+      "text": "Welcome back to the land of r-reality",
+      "translation": "欢迎来到现实世界"
+    },
+    {
+      "time": 20.1,
+      "time_str": "00:20.100",
+      "text": "Great now, say I want the world to see the real me",
+      "translation": "这次不错，照着我的说，说我想给世界展示一个真实的自己"
+    },
+    {
+      "time": 23.1,
+      "time_str": "00:23.100",
+      "text": "Don't eat, don't sleep, stay healthy",
+      "translation": "不要多吃，别贪睡，保持健康"
+    },
+    {
+      "time": 25.66,
+      "time_str": "00:25.660",
+      "text": "And it isn't in the budget to get a ticket for your family",
+      "translation": "让你的家人来看，无所谓，不占我们的预算"
+    },
+    {
+      "time": 28.92,
+      "time_str": "00:28.920",
+      "text": "I heard they hired us our own attorney",
+      "translation": "我听说他们雇了自己人当律师"
+    },
+    {
+      "time": 31.58,
+      "time_str": "00:31.580",
+      "text": "No conflict of interest there, don't you worry",
+      "translation": "这里没有利益冲突，别担心"
+    },
+    {
+      "time": 34.96,
+      "time_str": "00:34.960",
+      "text": "Look over there at the Hollywood sign",
+      "translation": "你向窗外看看那巨大的好莱坞标志"
+    },
+    {
+      "time": 37.72,
+      "time_str": "00:37.720",
+      "text": "Sign, sign right there on the dotted line",
+      "translation": "签个名吧，签在这条线这里"
+    },
+    {
+      "time": 40.82,
+      "time_str": "00:40.820",
+      "text": "Pretend you're dating. It's great for ratings",
+      "translation": "对公众谎称你在约会某人，这能提高曝光率"
+    },
+    {
+      "time": 43.84,
+      "time_str": "00:43.840",
+      "text": "Look into the camera",
+      "translation": "看着镜头"
+    },
+    {
+      "time": 45.34,
+      "time_str": "00:45.340",
+      "text": "America's waiting",
+      "translation": "美国都在等着看你呢"
+    },
+    {
+      "time": 48.24,
+      "time_str": "00:48.240",
+      "text": "Everything ain't always what it seems",
+      "translation": "眼见不一定为实"
+    },
+    {
+      "time": 53.36,
+      "time_str": "00:53.360",
+      "text": "to the La La Land that you see on your screen",
+      "translation": "在你屏幕上浮现的世界，都是假的"
+    },
+    {
+      "time": 60.0,
+      "time_str": "01:00.000",
+      "text": "Everything ain't always what it seems",
+      "translation": "都是虚幻的泡沫"
+    },
+    {
+      "time": 65.16,
+      "time_str": "01:05.160",
+      "text": "to the La La Land of reality",
+      "translation": "在这虚幻的真实世界"
+    },
+    {
+      "time": 71.72,
+      "time_str": "01:11.720",
+      "text": "I feel a little under the weather",
+      "translation": "我感觉不太好"
+    },
+    {
+      "time": 74.44,
+      "time_str": "01:14.440",
+      "text": "We got a pill from Beverly Hills that'll make you feel better",
+      "translation": "我们从比弗利山庄给你买了药，你会感觉好点的"
+    },
+    {
+      "time": 77.92,
+      "time_str": "01:17.920",
+      "text": "No such thing as a winner or a loser",
+      "translation": "没有输和赢"
+    },
+    {
+      "time": 80.9,
+      "time_str": "01:20.900",
+      "text": "Everyone's a winner said Every producer",
+      "translation": "我们都是赢家，每个制片人都这样说"
+    },
+    {
+      "time": 83.84,
+      "time_str": "01:23.840",
+      "text": "It ain't our call, it's America's honey",
+      "translation": "我们说了不算，甜心，这得看美国的趋势"
+    },
+    {
+      "time": 86.66,
+      "time_str": "01:26.660",
+      "text": "It's not our decision, but your time is our money",
+      "translation": "我们无法做决定，你的时间关系到我们的钱途"
+    },
+    {
+      "time": 89.4,
+      "time_str": "01:29.400",
+      "text": "We need more energy",
+      "translation": "我们要更多的能量"
+    },
+    {
+      "time": 91.14,
+      "time_str": "01:31.140",
+      "text": "We need more ratings",
+      "translation": "我们要更高的曝光率"
+    },
+    {
+      "time": 92.68,
+      "time_str": "01:32.680",
+      "text": "Dance for the camera",
+      "translation": "在镜头前卖力起舞"
+    },
+    {
+      "time": 94.18,
+      "time_str": "01:34.180",
+      "text": "America's waiting",
+      "translation": "整个美国都在等着看你呢"
+    },
+    {
+      "time": 95.48,
+      "time_str": "01:35.480",
+      "text": "Everything ain't always what it seems",
+      "translation": "眼见不一定为实"
+    },
+    {
+      "time": 100.78,
+      "time_str": "01:40.780",
+      "text": "to the La La Land that you see on your screen",
+      "translation": "在你屏幕上浮现的世界，都是假的"
+    },
+    {
+      "time": 107.34,
+      "time_str": "01:47.340",
+      "text": "Everything ain't always what it seems",
+      "translation": "都是虚幻的泡沫"
+    },
+    {
+      "time": 112.7,
+      "time_str": "01:52.700",
+      "text": "to the La La Land of reality",
+      "translation": "在这虚幻的真实世界"
+    },
+    {
+      "time": 118.1,
+      "time_str": "01:58.100",
+      "text": "in the La La Land of reality",
+      "translation": "在这虚幻的真实世界"
+    },
+    {
+      "time": 125.1,
+      "time_str": "02:05.100",
+      "text": "Lights and camera",
+      "translation": "镁光灯和闪烁的镜头"
+    },
+    {
+      "time": 126.74,
+      "time_str": "02:06.740",
+      "text": "Cut, that's me, Just like that like one, two, three",
+      "translation": "停下！再来一次，1，2，3"
+    },
+    {
+      "time": 130.86,
+      "time_str": "02:10.860",
+      "text": "Take all of your clothes off please",
+      "translation": "把衣服都脱下来好吗"
+    },
+    {
+      "time": 134.1,
+      "time_str": "02:14.100",
+      "text": "We're gonna need 'em back for the finale",
+      "translation": "在最后一幕你会穿上的"
+    },
+    {
+      "time": 137.0,
+      "time_str": "02:17.000",
+      "text": "Someone call security, and escort her out to the street",
+      "translation": "叫保安来！护送她到街上"
+    },
+    {
+      "time": 143.08,
+      "time_str": "02:23.080",
+      "text": "You should probably call an Uber",
+      "translation": "你要不要叫个优步"
+    },
+    {
+      "time": 146.06,
+      "time_str": "02:26.060",
+      "text": "It might be hard to get a taxi (taxi, taxi, taxi)",
+      "translation": "这个时间可能很难打到车了"
+    },
+    {
+      "time": 150.48,
+      "time_str": "02:30.480",
+      "text": "Everything ain't always what it seems",
+      "translation": "眼见不一定为实"
+    },
+    {
+      "time": 155.58,
+      "time_str": "02:35.580",
+      "text": "to the La La Land that you see on your screen",
+      "translation": "在你屏幕上浮现的世界，都是假的"
+    },
+    {
+      "time": 162.32,
+      "time_str": "02:42.320",
+      "text": "Everything ain't always what it seems",
+      "translation": "都是虚幻的泡沫"
+    },
+    {
+      "time": 167.44,
+      "time_str": "02:47.440",
+      "text": "to the La La Land of reality",
+      "translation": "在这虚幻的真实世界"
+    },
+    {
+      "time": 173.36,
+      "time_str": "02:53.360",
+      "text": "In the La La Land of reality",
+      "translation": "在这虚幻的真实世界"
+    },
+    {
+      "time": 180.0,
+      "time_str": "03:00.000",
+      "text": "Don't believe everything that you read",
+      "translation": "也不要相信你读到的新闻"
+    },
+    {
+      "time": 185.3,
+      "time_str": "03:05.300",
+      "text": "In the La La Land of reality",
+      "translation": "在这虚幻的真实世界"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "La La Land - Jax.lrc"
+}

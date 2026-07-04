@@ -1,0 +1,256 @@
+{
+  "title": "哈哈哈",
+  "title_raw": "哈哈哈",
+  "version": null,
+  "artist": "孟慧圆",
+  "group_key": "哈哈哈|孟慧圆",
+  "writers": {
+    "lyricist": "孟慧圆/宁夏",
+    "composer": "孟慧圆/宁夏",
+    "arranger": "王鹏"
+  },
+  "lyrics": [
+    {
+      "time": 15.883,
+      "time_str": "00:15.883",
+      "text": "亲爱的我们还不懂得什么是爱情",
+      "translation": null
+    },
+    {
+      "time": 19.826,
+      "time_str": "00:19.826",
+      "text": "但心里却不停的惦记你",
+      "translation": null
+    },
+    {
+      "time": 23.841,
+      "time_str": "00:23.841",
+      "text": "傻傻的我们还是以为这就是爱情",
+      "translation": null
+    },
+    {
+      "time": 27.659,
+      "time_str": "00:27.659",
+      "text": "把好的留下坏的都给你",
+      "translation": null
+    },
+    {
+      "time": 31.975,
+      "time_str": "00:31.975",
+      "text": "经常梦见你",
+      "translation": null
+    },
+    {
+      "time": 33.882,
+      "time_str": "00:33.882",
+      "text": "也不管星期几",
+      "translation": null
+    },
+    {
+      "time": 35.692,
+      "time_str": "00:35.692",
+      "text": "像一种解释不来的吸引",
+      "translation": null
+    },
+    {
+      "time": 39.791,
+      "time_str": "00:39.791",
+      "text": "后天要见你",
+      "translation": null
+    },
+    {
+      "time": 41.842,
+      "time_str": "00:41.842",
+      "text": "一想到就开心",
+      "translation": null
+    },
+    {
+      "time": 43.908,
+      "time_str": "00:43.908",
+      "text": "哈哈哈哈这样不行",
+      "translation": null
+    },
+    {
+      "time": 55.97,
+      "time_str": "00:55.970",
+      "text": "经常梦见你",
+      "translation": null
+    },
+    {
+      "time": 57.752,
+      "time_str": "00:57.752",
+      "text": "也不管星期几",
+      "translation": null
+    },
+    {
+      "time": 59.703,
+      "time_str": "00:59.703",
+      "text": "像一种解释不来的吸引",
+      "translation": null
+    },
+    {
+      "time": 63.719,
+      "time_str": "01:03.719",
+      "text": "后天要见你",
+      "translation": null
+    },
+    {
+      "time": 65.635,
+      "time_str": "01:05.635",
+      "text": "一想到就开心",
+      "translation": null
+    },
+    {
+      "time": 67.751,
+      "time_str": "01:07.751",
+      "text": "哈哈哈哈这样不行",
+      "translation": null
+    },
+    {
+      "time": 87.76,
+      "time_str": "01:27.760",
+      "text": "亲爱的我们还不懂得什么是爱情",
+      "translation": null
+    },
+    {
+      "time": 91.575,
+      "time_str": "01:31.575",
+      "text": "但心里却不停的惦记你",
+      "translation": null
+    },
+    {
+      "time": 95.575,
+      "time_str": "01:35.575",
+      "text": "傻傻的我们还是以为这就是爱情",
+      "translation": null
+    },
+    {
+      "time": 99.592,
+      "time_str": "01:39.592",
+      "text": "把好的留下坏的都给你",
+      "translation": null
+    },
+    {
+      "time": 103.809,
+      "time_str": "01:43.809",
+      "text": "经常梦见你",
+      "translation": null
+    },
+    {
+      "time": 105.558,
+      "time_str": "01:45.558",
+      "text": "也不管星期几",
+      "translation": null
+    },
+    {
+      "time": 107.625,
+      "time_str": "01:47.625",
+      "text": "像一种解释不来的吸引",
+      "translation": null
+    },
+    {
+      "time": 111.775,
+      "time_str": "01:51.775",
+      "text": "后天要见你",
+      "translation": null
+    },
+    {
+      "time": 113.626,
+      "time_str": "01:53.626",
+      "text": "一想到就开心",
+      "translation": null
+    },
+    {
+      "time": 115.842,
+      "time_str": "01:55.842",
+      "text": "哈哈哈哈这样不行",
+      "translation": null
+    },
+    {
+      "time": 127.81,
+      "time_str": "02:07.810",
+      "text": "经常梦见你",
+      "translation": null
+    },
+    {
+      "time": 129.776,
+      "time_str": "02:09.776",
+      "text": "也不管星期几",
+      "translation": null
+    },
+    {
+      "time": 131.574,
+      "time_str": "02:11.574",
+      "text": "像一种解释不来的吸引",
+      "translation": null
+    },
+    {
+      "time": 135.76,
+      "time_str": "02:15.760",
+      "text": "后天要见你",
+      "translation": null
+    },
+    {
+      "time": 137.641,
+      "time_str": "02:17.641",
+      "text": "一想到就开心",
+      "translation": null
+    },
+    {
+      "time": 139.808,
+      "time_str": "02:19.808",
+      "text": "哈哈哈哈这样不行",
+      "translation": null
+    },
+    {
+      "time": 143.891,
+      "time_str": "02:23.891",
+      "text": "亲爱的我们还不懂得什么是爱情",
+      "translation": null
+    },
+    {
+      "time": 147.525,
+      "time_str": "02:27.525",
+      "text": "但心里却不停的惦记你",
+      "translation": null
+    },
+    {
+      "time": 151.742,
+      "time_str": "02:31.742",
+      "text": "傻傻的我们还是以为这就是爱情",
+      "translation": null
+    },
+    {
+      "time": 155.742,
+      "time_str": "02:35.742",
+      "text": "好的坏的都分享给你",
+      "translation": null
+    },
+    {
+      "time": 159.824,
+      "time_str": "02:39.824",
+      "text": "哈哈哈哈这样不行",
+      "translation": null
+    },
+    {
+      "time": 161.229,
+      "time_str": "02:41.229",
+      "text": "音乐总监 : DJGLOBE@KMS Shanghai",
+      "translation": null
+    },
+    {
+      "time": 162.229,
+      "time_str": "02:42.229",
+      "text": "音乐统筹 : 海星勐@KMS Shanghai",
+      "translation": null
+    },
+    {
+      "time": 163.229,
+      "time_str": "02:43.229",
+      "text": "声乐指导 : 邬拉@KMS Shanghai",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "哈哈哈 - 孟慧圆.lrc"
+}

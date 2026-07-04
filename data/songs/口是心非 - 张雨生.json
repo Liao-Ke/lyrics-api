@@ -1,0 +1,226 @@
+{
+  "title": "口是心非",
+  "title_raw": "口是心非",
+  "version": null,
+  "artist": "张雨生",
+  "group_key": "口是心非|张雨生",
+  "writers": {
+    "lyricist": "张雨生",
+    "composer": "张雨生",
+    "arranger": "Koji Sakurai"
+  },
+  "lyrics": [
+    {
+      "time": 65.0,
+      "time_str": "01:05.000",
+      "text": "口是心非 你深情的承诺",
+      "translation": null
+    },
+    {
+      "time": 69.5,
+      "time_str": "01:09.500",
+      "text": "都随着西风飘渺远走",
+      "translation": null
+    },
+    {
+      "time": 75.25,
+      "time_str": "01:15.250",
+      "text": "痴人梦话 我钟情的倚托",
+      "translation": null
+    },
+    {
+      "time": 79.07,
+      "time_str": "01:19.070",
+      "text": "就像枯萎凋零的花朵",
+      "translation": null
+    },
+    {
+      "time": 86.75,
+      "time_str": "01:26.750",
+      "text": "星火燎原 我热情的眼眸",
+      "translation": null
+    },
+    {
+      "time": 91.2,
+      "time_str": "01:31.200",
+      "text": "曾点亮最灿烂的天空",
+      "translation": null
+    },
+    {
+      "time": 96.69,
+      "time_str": "01:36.690",
+      "text": "晴天霹雳 你绝情的放手",
+      "translation": null
+    },
+    {
+      "time": 100.69,
+      "time_str": "01:40.690",
+      "text": "在我最需要你的时候",
+      "translation": null
+    },
+    {
+      "time": 105.65,
+      "time_str": "01:45.650",
+      "text": "于是爱恨交错人消瘦",
+      "translation": null
+    },
+    {
+      "time": 110.27,
+      "time_str": "01:50.270",
+      "text": "怕是怕这些苦没来由",
+      "translation": null
+    },
+    {
+      "time": 115.04,
+      "time_str": "01:55.040",
+      "text": "于是悲欢起落人静默",
+      "translation": null
+    },
+    {
+      "time": 119.95,
+      "time_str": "01:59.950",
+      "text": "等一等这些伤会自由",
+      "translation": null
+    },
+    {
+      "time": 124.66,
+      "time_str": "02:04.660",
+      "text": "于是爱恨交错人消瘦",
+      "translation": null
+    },
+    {
+      "time": 129.59,
+      "time_str": "02:09.590",
+      "text": "怕是怕这些苦没来由",
+      "translation": null
+    },
+    {
+      "time": 134.24,
+      "time_str": "02:14.240",
+      "text": "于是悲欢起落人静默",
+      "translation": null
+    },
+    {
+      "time": 139.16,
+      "time_str": "02:19.160",
+      "text": "等一等这些伤会自由",
+      "translation": null
+    },
+    {
+      "time": 168.68,
+      "time_str": "02:48.680",
+      "text": "口是心非 你矫情的面容",
+      "translation": null
+    },
+    {
+      "time": 172.62,
+      "time_str": "02:52.620",
+      "text": "都烙印在心灵的角落",
+      "translation": null
+    },
+    {
+      "time": 178.22,
+      "time_str": "02:58.220",
+      "text": "无话可说 我纵情的结果",
+      "translation": null
+    },
+    {
+      "time": 182.29,
+      "time_str": "03:02.290",
+      "text": "就像残破光秃的山头",
+      "translation": null
+    },
+    {
+      "time": 188.17,
+      "time_str": "03:08.170",
+      "text": "浑然天成 我纯情的悸动",
+      "translation": null
+    },
+    {
+      "time": 191.86,
+      "time_str": "03:11.860",
+      "text": "曾奔放最滚烫的节奏",
+      "translation": null
+    },
+    {
+      "time": 197.73,
+      "time_str": "03:17.730",
+      "text": "不可收拾 你滥情的抛空",
+      "translation": null
+    },
+    {
+      "time": 201.48,
+      "time_str": "03:21.480",
+      "text": "所有晶莹剔透的感受",
+      "translation": null
+    },
+    {
+      "time": 206.3,
+      "time_str": "03:26.300",
+      "text": "于是爱恨交错人消瘦",
+      "translation": null
+    },
+    {
+      "time": 211.15,
+      "time_str": "03:31.150",
+      "text": "怕是怕这些苦没来由",
+      "translation": null
+    },
+    {
+      "time": 215.92,
+      "time_str": "03:35.920",
+      "text": "于是悲欢起落人静默",
+      "translation": null
+    },
+    {
+      "time": 220.77,
+      "time_str": "03:40.770",
+      "text": "等一等这些伤会自由",
+      "translation": null
+    },
+    {
+      "time": 225.61,
+      "time_str": "03:45.610",
+      "text": "于是爱恨交错人消瘦",
+      "translation": null
+    },
+    {
+      "time": 230.34,
+      "time_str": "03:50.340",
+      "text": "怕是怕这些苦没来由",
+      "translation": null
+    },
+    {
+      "time": 235.24,
+      "time_str": "03:55.240",
+      "text": "于是悲欢起落人静默",
+      "translation": null
+    },
+    {
+      "time": 240.0,
+      "time_str": "04:00.000",
+      "text": "等一等这些伤会自由",
+      "translation": null
+    },
+    {
+      "time": 246.8,
+      "time_str": "04:06.800",
+      "text": "会自由 会自由",
+      "translation": null
+    },
+    {
+      "time": 260.0,
+      "time_str": "04:20.000",
+      "text": "制作人、吉他：张雨生",
+      "translation": null
+    },
+    {
+      "time": 267.0,
+      "time_str": "04:27.000",
+      "text": "永远怀念“音乐魔术师”张雨生",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "口是心非 - 张雨生.lrc"
+}

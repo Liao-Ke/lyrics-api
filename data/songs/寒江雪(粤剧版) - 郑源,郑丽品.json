@@ -1,0 +1,196 @@
+{
+  "title": "寒江雪",
+  "title_raw": "寒江雪(粤剧版)",
+  "version": "粤剧版",
+  "artist": "郑源,郑丽品",
+  "group_key": "寒江雪|郑源,郑丽品",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 25.49,
+      "time_str": "00:25.490",
+      "text": "寒江雪 映出孤独的离别",
+      "translation": null
+    },
+    {
+      "time": 32.49,
+      "time_str": "00:32.490",
+      "text": "这一夜 寒风冷落无明月",
+      "translation": null
+    },
+    {
+      "time": 38.49,
+      "time_str": "00:38.490",
+      "text": "谁来解 此时心中的情结",
+      "translation": null
+    },
+    {
+      "time": 44.49,
+      "time_str": "00:44.490",
+      "text": "我孤寂 谁来填我心空缺",
+      "translation": null
+    },
+    {
+      "time": 50.49,
+      "time_str": "00:50.490",
+      "text": "心碎着你给的风雪",
+      "translation": null
+    },
+    {
+      "time": 56.49,
+      "time_str": "00:56.490",
+      "text": "思念着不分昼夜",
+      "translation": null
+    },
+    {
+      "time": 63.49,
+      "time_str": "01:03.490",
+      "text": "等待着重逢的季节",
+      "translation": null
+    },
+    {
+      "time": 70.49,
+      "time_str": "01:10.490",
+      "text": "寒江雪终映明月",
+      "translation": null
+    },
+    {
+      "time": 75.49,
+      "time_str": "01:15.490",
+      "text": "雾雪间 仿佛骤来夜雨门外唏嘘声",
+      "translation": null
+    },
+    {
+      "time": 82.49,
+      "time_str": "01:22.490",
+      "text": "梦已醒 早更未寒夜冷清",
+      "translation": null
+    },
+    {
+      "time": 88.49,
+      "time_str": "01:28.490",
+      "text": "望雪飘 叹息艳华逝去情像满江叶",
+      "translation": null
+    },
+    {
+      "time": 95.49,
+      "time_str": "01:35.490",
+      "text": "眼中泪 是你那一句离别",
+      "translation": null
+    },
+    {
+      "time": 126.49,
+      "time_str": "02:06.490",
+      "text": "寒江雪 映出孤独的离别",
+      "translation": null
+    },
+    {
+      "time": 133.49,
+      "time_str": "02:13.490",
+      "text": "这一夜 寒风冷落无明月",
+      "translation": null
+    },
+    {
+      "time": 139.49,
+      "time_str": "02:19.490",
+      "text": "谁来解 此时心中的情结",
+      "translation": null
+    },
+    {
+      "time": 145.49,
+      "time_str": "02:25.490",
+      "text": "我孤寂 谁来填我心空缺",
+      "translation": null
+    },
+    {
+      "time": 152.49,
+      "time_str": "02:32.490",
+      "text": "心碎着你给的风雪",
+      "translation": null
+    },
+    {
+      "time": 159.49,
+      "time_str": "02:39.490",
+      "text": "思念着不分昼夜",
+      "translation": null
+    },
+    {
+      "time": 165.49,
+      "time_str": "02:45.490",
+      "text": "等待着重逢的季节",
+      "translation": null
+    },
+    {
+      "time": 172.49,
+      "time_str": "02:52.490",
+      "text": "寒江雪终映明月",
+      "translation": null
+    },
+    {
+      "time": 178.49,
+      "time_str": "02:58.490",
+      "text": "雾雪间 仿佛骤来夜雨门外唏嘘声",
+      "translation": null
+    },
+    {
+      "time": 184.49,
+      "time_str": "03:04.490",
+      "text": "梦已醒 早更未寒夜冷清",
+      "translation": null
+    },
+    {
+      "time": 191.49,
+      "time_str": "03:11.490",
+      "text": "望雪飘 叹息艳华逝去情像满江叶",
+      "translation": null
+    },
+    {
+      "time": 197.49,
+      "time_str": "03:17.490",
+      "text": "眼中泪 是你那一句离别",
+      "translation": null
+    },
+    {
+      "time": 204.49,
+      "time_str": "03:24.490",
+      "text": "雾雪间 仿佛骤来夜雨门外唏嘘声",
+      "translation": null
+    },
+    {
+      "time": 211.49,
+      "time_str": "03:31.490",
+      "text": "梦已醒 早更未寒夜冷清",
+      "translation": null
+    },
+    {
+      "time": 218.49,
+      "time_str": "03:38.490",
+      "text": "望雪飘 叹息艳华逝去情像满江叶",
+      "translation": null
+    },
+    {
+      "time": 224.49,
+      "time_str": "03:44.490",
+      "text": "眼中泪 是你那一句离别",
+      "translation": null
+    },
+    {
+      "time": 232.49,
+      "time_str": "03:52.490",
+      "text": "这一夜 谁会忍心道离别",
+      "translation": null
+    },
+    {
+      "time": 238.49,
+      "time_str": "03:58.490",
+      "text": "这一别 重见到底是何月",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "寒江雪(粤剧版) - 郑源,郑丽品.lrc"
+}

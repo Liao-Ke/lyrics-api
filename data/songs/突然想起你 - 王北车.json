@@ -1,0 +1,286 @@
+{
+  "title": "突然想起你",
+  "title_raw": "突然想起你",
+  "version": null,
+  "artist": "王北车",
+  "group_key": "突然想起你|王北车",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "陈伟",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 0.92,
+      "time_str": "00:00.920",
+      "text": "编曲/吉他：牛子健",
+      "translation": null
+    },
+    {
+      "time": 2.75,
+      "time_str": "00:02.750",
+      "text": "配唱监制：开开（赵锴羿）",
+      "translation": null
+    },
+    {
+      "time": 3.74,
+      "time_str": "00:03.740",
+      "text": "和声/制作人：胜屿",
+      "translation": null
+    },
+    {
+      "time": 19.86,
+      "time_str": "00:19.860",
+      "text": "都是因为那灯泡",
+      "translation": null
+    },
+    {
+      "time": 24.39,
+      "time_str": "00:24.390",
+      "text": "突然闪了一下于是想起你",
+      "translation": null
+    },
+    {
+      "time": 29.9,
+      "time_str": "00:29.900",
+      "text": "怕你 还没休息",
+      "translation": null
+    },
+    {
+      "time": 38.14,
+      "time_str": "00:38.140",
+      "text": "都是因为这场雨",
+      "translation": null
+    },
+    {
+      "time": 42.68,
+      "time_str": "00:42.680",
+      "text": "忽然间下的那么大怕来不及",
+      "translation": null
+    },
+    {
+      "time": 48.36,
+      "time_str": "00:48.360",
+      "text": "跟你 走在一起",
+      "translation": null
+    },
+    {
+      "time": 54.88,
+      "time_str": "00:54.880",
+      "text": "一个人的夜",
+      "translation": null
+    },
+    {
+      "time": 56.55,
+      "time_str": "00:56.550",
+      "text": "我的心 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 59.75,
+      "time_str": "00:59.750",
+      "text": "拥抱过后",
+      "translation": null
+    },
+    {
+      "time": 61.21,
+      "time_str": "01:01.210",
+      "text": "我的双手应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 64.36,
+      "time_str": "01:04.360",
+      "text": "我始终学不会控制 我的呼吸",
+      "translation": null
+    },
+    {
+      "time": 68.99,
+      "time_str": "01:08.990",
+      "text": "在玻璃窗上 呵出你美丽的名字",
+      "translation": null
+    },
+    {
+      "time": 73.6,
+      "time_str": "01:13.600",
+      "text": "寂寞来袭",
+      "translation": null
+    },
+    {
+      "time": 74.95,
+      "time_str": "01:14.950",
+      "text": "旧雨衣 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 78.23,
+      "time_str": "01:18.230",
+      "text": "想念着你",
+      "translation": null
+    },
+    {
+      "time": 79.64,
+      "time_str": "01:19.640",
+      "text": "我的念头应该想到哪里",
+      "translation": null
+    },
+    {
+      "time": 82.81,
+      "time_str": "01:22.810",
+      "text": "有什么方法 让两个人不分离",
+      "translation": null
+    },
+    {
+      "time": 102.69,
+      "time_str": "01:42.690",
+      "text": "都是因为这场雨",
+      "translation": null
+    },
+    {
+      "time": 107.19,
+      "time_str": "01:47.190",
+      "text": "忽然间下的那么大怕来不及",
+      "translation": null
+    },
+    {
+      "time": 112.87,
+      "time_str": "01:52.870",
+      "text": "跟你 走在一起",
+      "translation": null
+    },
+    {
+      "time": 119.49,
+      "time_str": "01:59.490",
+      "text": "一个人的夜",
+      "translation": null
+    },
+    {
+      "time": 121.17,
+      "time_str": "02:01.170",
+      "text": "我的心 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 124.35,
+      "time_str": "02:04.350",
+      "text": "拥抱过后",
+      "translation": null
+    },
+    {
+      "time": 125.79,
+      "time_str": "02:05.790",
+      "text": "我的双手应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 128.96,
+      "time_str": "02:08.960",
+      "text": "我始终学不会控制 我的呼吸",
+      "translation": null
+    },
+    {
+      "time": 133.59,
+      "time_str": "02:13.590",
+      "text": "在玻璃窗上 呵出你美丽的名字",
+      "translation": null
+    },
+    {
+      "time": 138.22,
+      "time_str": "02:18.220",
+      "text": "寂寞来袭",
+      "translation": null
+    },
+    {
+      "time": 139.63,
+      "time_str": "02:19.630",
+      "text": "旧雨衣 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 142.82,
+      "time_str": "02:22.820",
+      "text": "想念着你",
+      "translation": null
+    },
+    {
+      "time": 144.25,
+      "time_str": "02:24.250",
+      "text": "我的念头应该想到哪里",
+      "translation": null
+    },
+    {
+      "time": 147.44,
+      "time_str": "02:27.440",
+      "text": "有什么方法 让两个人不分离",
+      "translation": null
+    },
+    {
+      "time": 174.96,
+      "time_str": "02:54.960",
+      "text": "一个人的夜",
+      "translation": null
+    },
+    {
+      "time": 176.57,
+      "time_str": "02:56.570",
+      "text": "我的心 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 179.75,
+      "time_str": "02:59.750",
+      "text": "拥抱过后",
+      "translation": null
+    },
+    {
+      "time": 181.19,
+      "time_str": "03:01.190",
+      "text": "我的双手应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 184.47,
+      "time_str": "03:04.470",
+      "text": "我始终学不会控制 我的呼吸",
+      "translation": null
+    },
+    {
+      "time": 188.99,
+      "time_str": "03:08.990",
+      "text": "在玻璃窗上 呵出你美丽的名字",
+      "translation": null
+    },
+    {
+      "time": 193.66,
+      "time_str": "03:13.660",
+      "text": "寂寞来袭",
+      "translation": null
+    },
+    {
+      "time": 194.96,
+      "time_str": "03:14.960",
+      "text": "旧雨衣 应该放在哪里",
+      "translation": null
+    },
+    {
+      "time": 198.33,
+      "time_str": "03:18.330",
+      "text": "想念着你",
+      "translation": null
+    },
+    {
+      "time": 199.65,
+      "time_str": "03:19.650",
+      "text": "我的念头应该想到哪里",
+      "translation": null
+    },
+    {
+      "time": 202.89,
+      "time_str": "03:22.890",
+      "text": "有什么方法 让两个人不分离",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "突然想起你 - 王北车.lrc"
+}

@@ -1,0 +1,280 @@
+{
+  "title": "再见 小时候",
+  "title_raw": "再见 小时候",
+  "version": null,
+  "artist": "南拳妈妈",
+  "group_key": "再见 小时候|南拳妈妈",
+  "writers": {
+    "lyricist": "宋健彰/詹宇豪",
+    "composer": "詹宇豪",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 29.269,
+      "time_str": "00:29.269",
+      "text": "有一天我 翻开旧旧的相簿",
+      "translation": null
+    },
+    {
+      "time": 32.668,
+      "time_str": "00:32.668",
+      "text": "上面写着 给最亲爱的宝物",
+      "translation": null
+    },
+    {
+      "time": 36.18,
+      "time_str": "00:36.180",
+      "text": "里面有我 穿幼稚园的制服",
+      "translation": null
+    },
+    {
+      "time": 39.198,
+      "time_str": "00:39.198",
+      "text": "还有一张 是我妈妈的笑容",
+      "translation": null
+    },
+    {
+      "time": 42.308,
+      "time_str": "00:42.308",
+      "text": "突然发现 时间变的很仓促",
+      "translation": null
+    },
+    {
+      "time": 45.848,
+      "time_str": "00:45.848",
+      "text": "爸爸妈妈 变的互相不认输",
+      "translation": null
+    },
+    {
+      "time": 49.208,
+      "time_str": "00:49.208",
+      "text": "我放下相簿 头靠着窗户",
+      "translation": null
+    },
+    {
+      "time": 52.798,
+      "time_str": "00:52.798",
+      "text": "看着天空 视线变模糊",
+      "translation": null
+    },
+    {
+      "time": 55.348,
+      "time_str": "00:55.348",
+      "text": "童年糖果罐 已经快溶化完",
+      "translation": null
+    },
+    {
+      "time": 58.508,
+      "time_str": "00:58.508",
+      "text": "缤纷的气球 在骊歌中飘散",
+      "translation": null
+    },
+    {
+      "time": 62.248,
+      "time_str": "01:02.248",
+      "text": "我们 就这样紧紧 牵起了勇敢",
+      "translation": null
+    },
+    {
+      "time": 68.698,
+      "time_str": "01:08.698",
+      "text": "隔壁班的女孩 我喜欢的女孩",
+      "translation": null
+    },
+    {
+      "time": 72.299,
+      "time_str": "01:12.299",
+      "text": "她从来不爱我",
+      "translation": null
+    },
+    {
+      "time": 74.349,
+      "time_str": "01:14.349",
+      "text": "抽屉还摆着 被退回的温柔",
+      "translation": null
+    },
+    {
+      "time": 80.998,
+      "time_str": "01:20.998",
+      "text": "再见了小时候 懵懂的我",
+      "translation": null
+    },
+    {
+      "time": 84.688,
+      "time_str": "01:24.688",
+      "text": "现在的梦已经成熟",
+      "translation": null
+    },
+    {
+      "time": 87.958,
+      "time_str": "01:27.958",
+      "text": "风在朗诵 下课的钟",
+      "translation": null
+    },
+    {
+      "time": 91.278,
+      "time_str": "01:31.278",
+      "text": "而时光静静地走",
+      "translation": null
+    },
+    {
+      "time": 94.528,
+      "time_str": "01:34.528",
+      "text": "鲜嫩的梦 已经熟透",
+      "translation": null
+    },
+    {
+      "time": 97.998,
+      "time_str": "01:37.998",
+      "text": "夕阳洒落 让剪影斑驳",
+      "translation": null
+    },
+    {
+      "time": 100.927,
+      "time_str": "01:40.927",
+      "text": "旧旧的 围墙外头",
+      "translation": null
+    },
+    {
+      "time": 104.129,
+      "time_str": "01:44.129",
+      "text": "悄悄围起未来的 轮廓",
+      "translation": null
+    },
+    {
+      "time": 133.179,
+      "time_str": "02:13.179",
+      "text": "童年糖果罐 已经快溶化完",
+      "translation": null
+    },
+    {
+      "time": 136.579,
+      "time_str": "02:16.579",
+      "text": "缤纷的气球 在骊歌中飘散",
+      "translation": null
+    },
+    {
+      "time": 139.889,
+      "time_str": "02:19.889",
+      "text": "我们 就这样紧紧 牵起了勇敢",
+      "translation": null
+    },
+    {
+      "time": 146.799,
+      "time_str": "02:26.799",
+      "text": "隔壁班的女孩 我喜欢的女孩",
+      "translation": null
+    },
+    {
+      "time": 149.599,
+      "time_str": "02:29.599",
+      "text": "她从来不爱我",
+      "translation": null
+    },
+    {
+      "time": 153.109,
+      "time_str": "02:33.109",
+      "text": "抽屉还摆着 被退回的温柔",
+      "translation": null
+    },
+    {
+      "time": 159.709,
+      "time_str": "02:39.709",
+      "text": "再见了小时候 懵懂的我",
+      "translation": null
+    },
+    {
+      "time": 163.749,
+      "time_str": "02:43.749",
+      "text": "现在的梦已经成熟",
+      "translation": null
+    },
+    {
+      "time": 167.799,
+      "time_str": "02:47.799",
+      "text": "风在朗诵 下课的钟",
+      "translation": null
+    },
+    {
+      "time": 170.228,
+      "time_str": "02:50.228",
+      "text": "而时光静静地走",
+      "translation": null
+    },
+    {
+      "time": 173.499,
+      "time_str": "02:53.499",
+      "text": "鲜嫩的梦 已经熟透",
+      "translation": null
+    },
+    {
+      "time": 176.699,
+      "time_str": "02:56.699",
+      "text": "夕阳洒落 让剪影斑驳",
+      "translation": null
+    },
+    {
+      "time": 181.499,
+      "time_str": "03:01.499",
+      "text": "旧旧的 围墙外头",
+      "translation": null
+    },
+    {
+      "time": 183.189,
+      "time_str": "03:03.189",
+      "text": "悄悄围起未来的 轮廓",
+      "translation": null
+    },
+    {
+      "time": 187.49,
+      "time_str": "03:07.490",
+      "text": "再见了小时候 懵懂的我",
+      "translation": null
+    },
+    {
+      "time": 189.779,
+      "time_str": "03:09.779",
+      "text": "现在的梦已经成熟",
+      "translation": null
+    },
+    {
+      "time": 193.699,
+      "time_str": "03:13.699",
+      "text": "风在朗诵 下课的钟",
+      "translation": null
+    },
+    {
+      "time": 196.139,
+      "time_str": "03:16.139",
+      "text": "而时光静静地走",
+      "translation": null
+    },
+    {
+      "time": 199.469,
+      "time_str": "03:19.469",
+      "text": "鲜嫩的梦 已经熟透",
+      "translation": null
+    },
+    {
+      "time": 203.299,
+      "time_str": "03:23.299",
+      "text": "夕阳洒落 让剪影斑驳",
+      "translation": null
+    },
+    {
+      "time": 205.999,
+      "time_str": "03:25.999",
+      "text": "旧旧的 围墙外头",
+      "translation": null
+    },
+    {
+      "time": 209.189,
+      "time_str": "03:29.189",
+      "text": "悄悄围起未来的 轮廓",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "再见 小时候 - 南拳妈妈.lrc"
+}

@@ -1,0 +1,160 @@
+{
+  "title": "ありがとう・・・",
+  "title_raw": "ありがとう・・・",
+  "version": null,
+  "artist": "KOKIA",
+  "group_key": "ありがとう・・・|kokia",
+  "writers": {
+    "lyricist": "KOKIA",
+    "composer": "KOKIA",
+    "arranger": "日向敏文"
+  },
+  "lyrics": [
+    {
+      "time": 14.48,
+      "time_str": "00:14.480",
+      "text": "誰もが気づかぬうちに 何かを失っている",
+      "translation": "无论是谁，都会在不经意间失去什么"
+    },
+    {
+      "time": 29.83,
+      "time_str": "00:29.830",
+      "text": "フッと気づけばあなたはいない",
+      "translation": "不经意间，你已经悄然离去"
+    },
+    {
+      "time": 35.68,
+      "time_str": "00:35.680",
+      "text": "思い出だけを残して",
+      "translation": "空留下了一段回忆"
+    },
+    {
+      "time": 44.39,
+      "time_str": "00:44.390",
+      "text": "せわしい時の中",
+      "translation": "心急慌忙之间"
+    },
+    {
+      "time": 46.8,
+      "time_str": "00:46.800",
+      "text": "言葉を失った人形達のように",
+      "translation": "就像不能言语的人偶一样"
+    },
+    {
+      "time": 57.9,
+      "time_str": "00:57.900",
+      "text": "街角に溢れたノラネコのように",
+      "translation": "就像流浪在街角的无主的猫一样"
+    },
+    {
+      "time": 63.95,
+      "time_str": "01:03.950",
+      "text": "声にならない叫びが聞こえてくる",
+      "translation": "听到的都是不能辨认声音"
+    },
+    {
+      "time": 70.47,
+      "time_str": "01:10.470",
+      "text": "もしも もう一度あなたに会えるなら",
+      "translation": "如果 能够再一次与你相会的话"
+    },
+    {
+      "time": 77.86,
+      "time_str": "01:17.860",
+      "text": "たった一言伝えたい",
+      "translation": "只想对你说一句"
+    },
+    {
+      "time": 84.6,
+      "time_str": "01:24.600",
+      "text": "ありがとう  ありがとう",
+      "translation": "谢谢，谢谢"
+    },
+    {
+      "time": 98.88,
+      "time_str": "01:38.880",
+      "text": "時には傷つけあっても",
+      "translation": "哪怕有时我们伤害了彼此"
+    },
+    {
+      "time": 106.52,
+      "time_str": "01:46.520",
+      "text": "あなたを感じていたい",
+      "translation": "我也希望能够感觉到你的存在"
+    },
+    {
+      "time": 114.77,
+      "time_str": "01:54.770",
+      "text": "思いではせめてもの慰め",
+      "translation": "即使只有回忆来安慰"
+    },
+    {
+      "time": 120.33,
+      "time_str": "02:00.330",
+      "text": "いつまでもあなたはここにいる",
+      "translation": "无论何时你都在此处"
+    },
+    {
+      "time": 126.57,
+      "time_str": "02:06.570",
+      "text": "もしも  もう一度あなたに会えるなら",
+      "translation": "如果 能够再一次与你相会的话"
+    },
+    {
+      "time": 134.54,
+      "time_str": "02:14.540",
+      "text": "たった一言伝えたい",
+      "translation": "只想对你说一句"
+    },
+    {
+      "time": 141.28,
+      "time_str": "02:21.280",
+      "text": "ありがとう  ありがとう",
+      "translation": "谢谢，谢谢"
+    },
+    {
+      "time": 175.85,
+      "time_str": "02:55.850",
+      "text": "もしも  もう一度あなたに会えるなら",
+      "translation": "如果 能够再一次与你相会的话"
+    },
+    {
+      "time": 183.83,
+      "time_str": "03:03.830",
+      "text": "たった一言伝えたい",
+      "translation": "只想对你说一句"
+    },
+    {
+      "time": 190.68,
+      "time_str": "03:10.680",
+      "text": "もしも  もう一度あなたに会えるなら",
+      "translation": "如果 能够再一次与你相会的话"
+    },
+    {
+      "time": 197.49,
+      "time_str": "03:17.490",
+      "text": "たった一言伝えたい",
+      "translation": "只想对你说一句"
+    },
+    {
+      "time": 204.57,
+      "time_str": "03:24.570",
+      "text": "ありがとう  ありがとう",
+      "translation": "谢谢，谢谢"
+    },
+    {
+      "time": 220.61,
+      "time_str": "03:40.610",
+      "text": "時には傷つけあっても",
+      "translation": "哪怕有时我们伤害了彼此"
+    },
+    {
+      "time": 228.36,
+      "time_str": "03:48.360",
+      "text": "あなたを感じていたい",
+      "translation": "我也希望能够感觉到你的存在"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "ありがとう・・・ - KOKIA.lrc"
+}

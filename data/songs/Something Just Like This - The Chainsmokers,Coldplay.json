@@ -1,0 +1,388 @@
+{
+  "title": "Something Just Like This",
+  "title_raw": "Something Just Like This",
+  "version": null,
+  "artist": "The Chainsmokers,Coldplay",
+  "group_key": "something just like this|the chainsmokers,coldplay",
+  "writers": {
+    "lyricist": "Guy Berryman/Chris Martin/Jonny Buckland/Andrew Taggart/Will Champion",
+    "composer": "Guy Berryman/Chris Martin/Jonny Buckland/Andrew Taggart/Will Champion",
+    "arranger": "The Chainsmokers/Coldplay"
+  },
+  "lyrics": [
+    {
+      "time": 7.82,
+      "time_str": "00:07.820",
+      "text": "I've been reading books of old",
+      "translation": "我曾饱览古老的书籍"
+    },
+    {
+      "time": 10.14,
+      "time_str": "00:10.140",
+      "text": "The legends and the myths",
+      "translation": "那些传说与神话"
+    },
+    {
+      "time": 12.28,
+      "time_str": "00:12.280",
+      "text": "Achilles and his gold",
+      "translation": "阿喀琉斯和他的战利品"
+    },
+    {
+      "time": 14.62,
+      "time_str": "00:14.620",
+      "text": "Hercules and his gifts",
+      "translation": "赫拉克勒斯与他的天赋神力"
+    },
+    {
+      "time": 17.1,
+      "time_str": "00:17.100",
+      "text": "Spiderman's control",
+      "translation": "**侠的控制力"
+    },
+    {
+      "time": 19.34,
+      "time_str": "00:19.340",
+      "text": "And Batman with his fists",
+      "translation": "和蝙蝠侠的铁拳"
+    },
+    {
+      "time": 22.31,
+      "time_str": "00:22.310",
+      "text": "And clearly I don't see myself upon that list",
+      "translation": "显而易见我未能名列其中"
+    },
+    {
+      "time": 26.07,
+      "time_str": "00:26.070",
+      "text": "But she said, where'd you wanna go?",
+      "translation": "她说，你想去何方？"
+    },
+    {
+      "time": 28.7,
+      "time_str": "00:28.700",
+      "text": "How much you wanna risk?",
+      "translation": "你甘愿承担多大的风险？"
+    },
+    {
+      "time": 30.7,
+      "time_str": "00:30.700",
+      "text": "I'm not looking for somebody",
+      "translation": "我并不渴求"
+    },
+    {
+      "time": 32.97,
+      "time_str": "00:32.970",
+      "text": "With some superhuman gifts",
+      "translation": "那些超人类的天赋"
+    },
+    {
+      "time": 35.61,
+      "time_str": "00:35.610",
+      "text": "Some superhero",
+      "translation": "那种超级英雄"
+    },
+    {
+      "time": 37.92,
+      "time_str": "00:37.920",
+      "text": "Some fairytale bliss",
+      "translation": "那些童话般的天赐之福"
+    },
+    {
+      "time": 40.38,
+      "time_str": "00:40.380",
+      "text": "Just something I can turn to",
+      "translation": "只是一些我能力所能及的事情"
+    },
+    {
+      "time": 42.6,
+      "time_str": "00:42.600",
+      "text": "Somebody I can kiss",
+      "translation": "吻到我爱的人就好"
+    },
+    {
+      "time": 44.67,
+      "time_str": "00:44.670",
+      "text": "I want something just like this",
+      "translation": "我想要的仅此而已"
+    },
+    {
+      "time": 47.35,
+      "time_str": "00:47.350",
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "translation": null
+    },
+    {
+      "time": 49.56,
+      "time_str": "00:49.560",
+      "text": "Doo-doo-doo, doo-doo",
+      "translation": null
+    },
+    {
+      "time": 51.88,
+      "time_str": "00:51.880",
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "translation": null
+    },
+    {
+      "time": 53.91,
+      "time_str": "00:53.910",
+      "text": "Oh I want something just like this",
+      "translation": "噢 我想要的仅此而已"
+    },
+    {
+      "time": 56.56,
+      "time_str": "00:56.560",
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "translation": null
+    },
+    {
+      "time": 58.96,
+      "time_str": "00:58.960",
+      "text": "Doo-doo-doo, doo-doo",
+      "translation": null
+    },
+    {
+      "time": 61.24,
+      "time_str": "01:01.240",
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "translation": null
+    },
+    {
+      "time": 63.14,
+      "time_str": "01:03.140",
+      "text": "Oh I want something just like this",
+      "translation": "噢 我想要的仅此而已"
+    },
+    {
+      "time": 72.77,
+      "time_str": "01:12.770",
+      "text": "I want something just like this",
+      "translation": "我只想要这些"
+    },
+    {
+      "time": 82.46,
+      "time_str": "01:22.460",
+      "text": "I've been reading books of old",
+      "translation": "我曾饱览古老的书籍"
+    },
+    {
+      "time": 84.63,
+      "time_str": "01:24.630",
+      "text": "The legends and the myths",
+      "translation": "那些传说与神话"
+    },
+    {
+      "time": 86.88,
+      "time_str": "01:26.880",
+      "text": "The testaments they told",
+      "translation": "他们所讲述的圣约"
+    },
+    {
+      "time": 89.26,
+      "time_str": "01:29.260",
+      "text": "The moon and its eclipse",
+      "translation": "月亮的阴晴圆缺"
+    },
+    {
+      "time": 91.58,
+      "time_str": "01:31.580",
+      "text": "And Superman unrolls",
+      "translation": "还有超人展示"
+    },
+    {
+      "time": 93.87,
+      "time_str": "01:33.870",
+      "text": "A suit before he lifts",
+      "translation": "他飞天前的装束"
+    },
+    {
+      "time": 97.29,
+      "time_str": "01:37.290",
+      "text": "But I'm not the kind of person that it fits",
+      "translation": "但我不是这样的英雄"
+    },
+    {
+      "time": 100.54,
+      "time_str": "01:40.540",
+      "text": "She said, where'd you wanna go?",
+      "translation": "她说，你想去何方？"
+    },
+    {
+      "time": 103.17,
+      "time_str": "01:43.170",
+      "text": "How much you wanna risk?",
+      "translation": "你能承担多大的风险？"
+    },
+    {
+      "time": 105.24,
+      "time_str": "01:45.240",
+      "text": "I'm not looking for somebody",
+      "translation": "我并不渴求"
+    },
+    {
+      "time": 107.52,
+      "time_str": "01:47.520",
+      "text": "With some superhuman gifts",
+      "translation": "那些超人类的天赋"
+    },
+    {
+      "time": 110.14,
+      "time_str": "01:50.140",
+      "text": "Some superhero",
+      "translation": "那种超级英雄"
+    },
+    {
+      "time": 112.43,
+      "time_str": "01:52.430",
+      "text": "Some fairytale bliss",
+      "translation": "那些童话般的天赐之福"
+    },
+    {
+      "time": 114.82,
+      "time_str": "01:54.820",
+      "text": "Just something I can turn to",
+      "translation": "只是一些我能改变的"
+    },
+    {
+      "time": 117.11,
+      "time_str": "01:57.110",
+      "text": "Somebody I can miss",
+      "translation": "思念我爱的人"
+    },
+    {
+      "time": 119.19,
+      "time_str": "01:59.190",
+      "text": "I want something just like this",
+      "translation": "我想要的仅此而已"
+    },
+    {
+      "time": 128.64,
+      "time_str": "02:08.640",
+      "text": "I want something just like this",
+      "translation": "我想要的仅此而已"
+    },
+    {
+      "time": 137.49,
+      "time_str": "02:17.490",
+      "text": "Oh I want something just like this",
+      "translation": "噢 我想要的仅此而已"
+    },
+    {
+      "time": 140.17,
+      "time_str": "02:20.170",
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "translation": null
+    },
+    {
+      "time": 142.78,
+      "time_str": "02:22.780",
+      "text": "Doo-doo-doo, doo-doo",
+      "translation": null
+    },
+    {
+      "time": 145.05,
+      "time_str": "02:25.050",
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "translation": null
+    },
+    {
+      "time": 147.1,
+      "time_str": "02:27.100",
+      "text": "Oh I want something just like this",
+      "translation": "噢 我想要的仅此而已"
+    },
+    {
+      "time": 149.81,
+      "time_str": "02:29.810",
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "translation": null
+    },
+    {
+      "time": 152.05,
+      "time_str": "02:32.050",
+      "text": "Doo-doo-doo, doo-doo",
+      "translation": null
+    },
+    {
+      "time": 154.47,
+      "time_str": "02:34.470",
+      "text": "Doo-doo-doo, doo-doo-doo",
+      "translation": null
+    },
+    {
+      "time": 157.27,
+      "time_str": "02:37.270",
+      "text": "Where'd you wanna go?",
+      "translation": "你想要到何方？"
+    },
+    {
+      "time": 159.2,
+      "time_str": "02:39.200",
+      "text": "How much you wanna risk?",
+      "translation": "你能经受得住多少风险？"
+    },
+    {
+      "time": 161.23,
+      "time_str": "02:41.230",
+      "text": "I'm not looking for somebody",
+      "translation": "我并不渴求那些"
+    },
+    {
+      "time": 163.55,
+      "time_str": "02:43.550",
+      "text": "With some superhuman gifts",
+      "translation": "超人类的天赋"
+    },
+    {
+      "time": 166.12,
+      "time_str": "02:46.120",
+      "text": "Some superhero",
+      "translation": "那种超级英雄"
+    },
+    {
+      "time": 168.32,
+      "time_str": "02:48.320",
+      "text": "Some fairytale bliss",
+      "translation": "那些童话般的天赐之福"
+    },
+    {
+      "time": 170.72,
+      "time_str": "02:50.720",
+      "text": "Just something I can turn to",
+      "translation": "只是一些我能力所能及的事情"
+    },
+    {
+      "time": 173.01,
+      "time_str": "02:53.010",
+      "text": "Somebody I can kiss",
+      "translation": "吻到我爱的人就好"
+    },
+    {
+      "time": 175.15,
+      "time_str": "02:55.150",
+      "text": "I want something just like this",
+      "translation": "这就是我想要的"
+    },
+    {
+      "time": 193.64,
+      "time_str": "03:13.640",
+      "text": "Oh I want something just like this",
+      "translation": "噢 我想要的仅此而已"
+    },
+    {
+      "time": 212.36,
+      "time_str": "03:32.360",
+      "text": "Oh I want something just like this",
+      "translation": "噢 我想要的仅此而已"
+    },
+    {
+      "time": 230.95,
+      "time_str": "03:50.950",
+      "text": "Oh I want something just like this",
+      "translation": "噢 我想要的仅此而已"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Something Just Like This - The Chainsmokers,Coldplay.lrc"
+}

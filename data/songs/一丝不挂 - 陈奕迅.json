@@ -1,0 +1,364 @@
+{
+  "title": "一丝不挂",
+  "title_raw": "一丝不挂",
+  "version": null,
+  "artist": "陈奕迅",
+  "group_key": "一丝不挂|陈奕迅",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "Christopher Chak",
+    "arranger": "陈珀"
+  },
+  "lyrics": [
+    {
+      "time": 25.17,
+      "time_str": "00:25.170",
+      "text": "分手时内疚的你一转脸",
+      "translation": null
+    },
+    {
+      "time": 30.255,
+      "time_str": "00:30.255",
+      "text": "为日后不想有甚么牵连",
+      "translation": null
+    },
+    {
+      "time": 34.927,
+      "time_str": "00:34.927",
+      "text": "当我工作睡觉",
+      "translation": null
+    },
+    {
+      "time": 35.979,
+      "time_str": "00:35.979",
+      "text": "祷告娱乐那么刻意过好每天",
+      "translation": null
+    },
+    {
+      "time": 39.718,
+      "time_str": "00:39.718",
+      "text": "谁料你见松绑了又愿见面",
+      "translation": null
+    },
+    {
+      "time": 45.07,
+      "time_str": "00:45.070",
+      "text": "谁当初想摆脱被围绕左右",
+      "translation": null
+    },
+    {
+      "time": 49.822,
+      "time_str": "00:49.822",
+      "text": "过后谁人被遥控于世界尽头",
+      "translation": null
+    },
+    {
+      "time": 54.297,
+      "time_str": "00:54.297",
+      "text": "勒到呼吸困难才知变扯线木偶",
+      "translation": null
+    },
+    {
+      "time": 59.371,
+      "time_str": "00:59.371",
+      "text": "这根线其实说到底 谁拿捏在手",
+      "translation": null
+    },
+    {
+      "time": 65.48,
+      "time_str": "01:05.480",
+      "text": "不聚不散",
+      "translation": null
+    },
+    {
+      "time": 66.684,
+      "time_str": "01:06.684",
+      "text": "只等你给另一对手擒获",
+      "translation": null
+    },
+    {
+      "time": 70.185,
+      "time_str": "01:10.185",
+      "text": "那时青丝",
+      "translation": null
+    },
+    {
+      "time": 71.748,
+      "time_str": "01:11.748",
+      "text": "不会用上余生来量度",
+      "translation": null
+    },
+    {
+      "time": 74.72,
+      "time_str": "01:14.720",
+      "text": "但我拖着躯壳",
+      "translation": null
+    },
+    {
+      "time": 76.763,
+      "time_str": "01:16.763",
+      "text": "发现沿途寻找的快乐",
+      "translation": null
+    },
+    {
+      "time": 79.713,
+      "time_str": "01:19.713",
+      "text": "仍系于你肩膊",
+      "translation": null
+    },
+    {
+      "time": 81.756,
+      "time_str": "01:21.756",
+      "text": "或是其实在等我舍割",
+      "translation": null
+    },
+    {
+      "time": 84.724,
+      "time_str": "01:24.724",
+      "text": "然后断线风筝会直飞天国",
+      "translation": null
+    },
+    {
+      "time": 110.307,
+      "time_str": "01:50.307",
+      "text": "这些年望你紧抱他出现",
+      "translation": null
+    },
+    {
+      "time": 115.034,
+      "time_str": "01:55.034",
+      "text": "还凭何担心再互相纠缠",
+      "translation": null
+    },
+    {
+      "time": 119.784,
+      "time_str": "01:59.784",
+      "text": "给我找个伴侣",
+      "translation": null
+    },
+    {
+      "time": 121.036,
+      "time_str": "02:01.036",
+      "text": "找到留下你的足印也可发展",
+      "translation": null
+    },
+    {
+      "time": 124.816,
+      "time_str": "02:04.816",
+      "text": "全为你背影逼我步步向前",
+      "translation": null
+    },
+    {
+      "time": 129.972,
+      "time_str": "02:09.972",
+      "text": "如一根丝牵引着拾荒之路",
+      "translation": null
+    },
+    {
+      "time": 134.759,
+      "time_str": "02:14.759",
+      "text": "结在喉咙内痕痒得似有还无",
+      "translation": null
+    },
+    {
+      "time": 139.39,
+      "time_str": "02:19.390",
+      "text": "为你安心我在微笑中想吐未吐",
+      "translation": null
+    },
+    {
+      "time": 144.286,
+      "time_str": "02:24.286",
+      "text": "只想你和伴侣要好才顽强病好",
+      "translation": null
+    },
+    {
+      "time": 150.361,
+      "time_str": "02:30.361",
+      "text": "不聚不散",
+      "translation": null
+    },
+    {
+      "time": 151.667,
+      "time_str": "02:31.667",
+      "text": "只等你给另一对手擒获",
+      "translation": null
+    },
+    {
+      "time": 154.987,
+      "time_str": "02:34.987",
+      "text": "以为青丝",
+      "translation": null
+    },
+    {
+      "time": 156.758,
+      "time_str": "02:36.758",
+      "text": "不会用上余生来量度",
+      "translation": null
+    },
+    {
+      "time": 159.637,
+      "time_str": "02:39.637",
+      "text": "但我拖着躯壳",
+      "translation": null
+    },
+    {
+      "time": 161.783,
+      "time_str": "02:41.783",
+      "text": "发现沿途寻找的快乐",
+      "translation": null
+    },
+    {
+      "time": 164.758,
+      "time_str": "02:44.758",
+      "text": "仍系于你肩膊",
+      "translation": null
+    },
+    {
+      "time": 166.81,
+      "time_str": "02:46.810",
+      "text": "或是其实在等我舍割",
+      "translation": null
+    },
+    {
+      "time": 169.788,
+      "time_str": "02:49.788",
+      "text": "然后断线风筝会直飞天国",
+      "translation": null
+    },
+    {
+      "time": 175.223,
+      "time_str": "02:55.223",
+      "text": "一直不觉",
+      "translation": null
+    },
+    {
+      "time": 176.798,
+      "time_str": "02:56.798",
+      "text": "捆绑我的未可扣紧承诺",
+      "translation": null
+    },
+    {
+      "time": 180.11,
+      "time_str": "03:00.110",
+      "text": "满头青丝",
+      "translation": null
+    },
+    {
+      "time": 181.775,
+      "time_str": "03:01.775",
+      "text": "想到白了仍懒得脱落",
+      "translation": null
+    },
+    {
+      "time": 184.714,
+      "time_str": "03:04.714",
+      "text": "被你牵动思觉",
+      "translation": null
+    },
+    {
+      "time": 186.786,
+      "time_str": "03:06.786",
+      "text": "最后谁愿缠绕到天国",
+      "translation": null
+    },
+    {
+      "time": 189.738,
+      "time_str": "03:09.738",
+      "text": "然后撕裂躯壳欲断难断在",
+      "translation": null
+    },
+    {
+      "time": 193.129,
+      "time_str": "03:13.129",
+      "text": "不甘心去舍割",
+      "translation": null
+    },
+    {
+      "time": 194.848,
+      "time_str": "03:14.848",
+      "text": "难道爱本身可爱在于束缚",
+      "translation": null
+    },
+    {
+      "time": 200.235,
+      "time_str": "03:20.235",
+      "text": "无奈你我牵过手 没绳索",
+      "translation": null
+    },
+    {
+      "time": 230.731,
+      "time_str": "03:50.731",
+      "text": "Arranged by 陈珀",
+      "translation": null
+    },
+    {
+      "time": 231.511,
+      "time_str": "03:51.511",
+      "text": "Produced by 梁荣骏",
+      "translation": null
+    },
+    {
+      "time": 232.339,
+      "time_str": "03:52.339",
+      "text": "Piano & Programming : 陈珀",
+      "translation": null
+    },
+    {
+      "time": 233.095,
+      "time_str": "03:53.095",
+      "text": "Strings Conducted & Arranged by 陈珀",
+      "translation": null
+    },
+    {
+      "time": 233.861,
+      "time_str": "03:53.861",
+      "text": "Guitars : Joey Tang",
+      "translation": null
+    },
+    {
+      "time": 234.635,
+      "time_str": "03:54.635",
+      "text": "Drums : Lawrence Tsui",
+      "translation": null
+    },
+    {
+      "time": 235.455,
+      "time_str": "03:55.455",
+      "text": "Bass : Ho Chun Kit",
+      "translation": null
+    },
+    {
+      "time": 236.271,
+      "time_str": "03:56.271",
+      "text": "Backing Vocals : Patrick Lui",
+      "translation": null
+    },
+    {
+      "time": 237.108,
+      "time_str": "03:57.108",
+      "text": "Digital Editing : Amic Tang",
+      "translation": null
+    },
+    {
+      "time": 237.941,
+      "time_str": "03:57.941",
+      "text": "Recorded by Anthony Leung & Lee Wai Ming at Avon Recording Studios",
+      "translation": null
+    },
+    {
+      "time": 238.729,
+      "time_str": "03:58.729",
+      "text": "Mixed by Frankie Hung at Avon Recording Studios",
+      "translation": null
+    },
+    {
+      "time": 240.286,
+      "time_str": "04:00.286",
+      "text": "/Denseline Co Ltd (admin by EMI Music Publishing HK)",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "一丝不挂 - 陈奕迅.lrc"
+}

@@ -1,0 +1,208 @@
+{
+  "title": "只是太爱你",
+  "title_raw": "只是太爱你",
+  "version": null,
+  "artist": "丁芙妮",
+  "group_key": "只是太爱你|丁芙妮",
+  "writers": {
+    "lyricist": "Jingxuan Zhang",
+    "composer": "Jingxuan Zhang",
+    "arranger": "翁梓铭"
+  },
+  "lyrics": [
+    {
+      "time": 19.38,
+      "time_str": "00:19.380",
+      "text": "原谅我真的喝醉了",
+      "translation": null
+    },
+    {
+      "time": 23.14,
+      "time_str": "00:23.140",
+      "text": "因为我真的想你了",
+      "translation": null
+    },
+    {
+      "time": 26.76,
+      "time_str": "00:26.760",
+      "text": "一不小心就被寂寞吞噬了爱着你的快乐",
+      "translation": null
+    },
+    {
+      "time": 34.11,
+      "time_str": "00:34.110",
+      "text": "我知道这样不应该也知道你会受伤害",
+      "translation": null
+    },
+    {
+      "time": 41.38,
+      "time_str": "00:41.380",
+      "text": "只是不想再让自己对你太过依赖",
+      "translation": null
+    },
+    {
+      "time": 48.48,
+      "time_str": "00:48.480",
+      "text": "我明白 你给的爱 是真实地存在",
+      "translation": null
+    },
+    {
+      "time": 55.92,
+      "time_str": "00:55.920",
+      "text": "只是我 不懂得如何去爱",
+      "translation": null
+    },
+    {
+      "time": 61.68,
+      "time_str": "01:01.680",
+      "text": "才会让你想离开",
+      "translation": null
+    },
+    {
+      "time": 69.37,
+      "time_str": "01:09.370",
+      "text": "因为我不知道 下一辈子还是否能遇见你",
+      "translation": null
+    },
+    {
+      "time": 76.52,
+      "time_str": "01:16.520",
+      "text": "所以我今生才会 那么努力把最好的给你",
+      "translation": null
+    },
+    {
+      "time": 84.94,
+      "time_str": "01:24.940",
+      "text": "爱你都变成伤害你",
+      "translation": null
+    },
+    {
+      "time": 88.56,
+      "time_str": "01:28.560",
+      "text": "我们的爱快要窒息",
+      "translation": null
+    },
+    {
+      "time": 92.62,
+      "time_str": "01:32.620",
+      "text": "不是故意 只是太爱你",
+      "translation": null
+    },
+    {
+      "time": 111.84,
+      "time_str": "01:51.840",
+      "text": "原谅我真的喝醉了",
+      "translation": null
+    },
+    {
+      "time": 115.32,
+      "time_str": "01:55.320",
+      "text": "因为我真的想你了",
+      "translation": null
+    },
+    {
+      "time": 119.15,
+      "time_str": "01:59.150",
+      "text": "一不小心就被寂寞",
+      "translation": null
+    },
+    {
+      "time": 122.37,
+      "time_str": "02:02.370",
+      "text": "吞噬了爱着你的快乐",
+      "translation": null
+    },
+    {
+      "time": 126.64,
+      "time_str": "02:06.640",
+      "text": "我知道这样不应该也知道你会受伤害",
+      "translation": null
+    },
+    {
+      "time": 133.77,
+      "time_str": "02:13.770",
+      "text": "只是不想再让自己对你太过依赖",
+      "translation": null
+    },
+    {
+      "time": 140.76,
+      "time_str": "02:20.760",
+      "text": "我明白 你给的爱 是真实地存在",
+      "translation": null
+    },
+    {
+      "time": 147.76,
+      "time_str": "02:27.760",
+      "text": "只是我 不懂得如何去爱",
+      "translation": null
+    },
+    {
+      "time": 153.67,
+      "time_str": "02:33.670",
+      "text": "才会让你想离开",
+      "translation": null
+    },
+    {
+      "time": 161.65,
+      "time_str": "02:41.650",
+      "text": "因为我不知道 下一辈子还是否能遇见你",
+      "translation": null
+    },
+    {
+      "time": 168.82,
+      "time_str": "02:48.820",
+      "text": "所以我今生才会那么努力把最好的给你",
+      "translation": null
+    },
+    {
+      "time": 177.24,
+      "time_str": "02:57.240",
+      "text": "爱你都变成伤害你",
+      "translation": null
+    },
+    {
+      "time": 180.88,
+      "time_str": "03:00.880",
+      "text": "我们的爱快要窒息",
+      "translation": null
+    },
+    {
+      "time": 185.0,
+      "time_str": "03:05.000",
+      "text": "不是故意 只是太爱你",
+      "translation": null
+    },
+    {
+      "time": 191.5,
+      "time_str": "03:11.500",
+      "text": "因为我不知道 下一辈子还是否能遇见你",
+      "translation": null
+    },
+    {
+      "time": 198.39,
+      "time_str": "03:18.390",
+      "text": "所以我今生才会那么努力把最好的都给你",
+      "translation": null
+    },
+    {
+      "time": 206.89,
+      "time_str": "03:26.890",
+      "text": "爱你都变成伤害你",
+      "translation": null
+    },
+    {
+      "time": 210.82,
+      "time_str": "03:30.820",
+      "text": "我们的爱快要窒息",
+      "translation": null
+    },
+    {
+      "time": 214.44,
+      "time_str": "03:34.440",
+      "text": "不是故意 只是太爱你",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "只是太爱你 - 丁芙妮.lrc"
+}

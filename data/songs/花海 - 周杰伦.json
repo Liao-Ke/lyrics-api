@@ -1,0 +1,268 @@
+{
+  "title": "花海",
+  "title_raw": "花海",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "花海|周杰伦",
+  "writers": {
+    "lyricist": "古小力/黄淩嘉",
+    "composer": "周杰伦",
+    "arranger": "黄雨勋"
+  },
+  "lyrics": [
+    {
+      "time": 26.69,
+      "time_str": "00:26.690",
+      "text": "静止了 所有的花开",
+      "translation": null
+    },
+    {
+      "time": 33.21,
+      "time_str": "00:33.210",
+      "text": "遥远了 清晰了爱",
+      "translation": null
+    },
+    {
+      "time": 39.51,
+      "time_str": "00:39.510",
+      "text": "天郁闷 爱却很喜欢",
+      "translation": null
+    },
+    {
+      "time": 45.92,
+      "time_str": "00:45.920",
+      "text": "那时候 我不懂 这叫爱",
+      "translation": null
+    },
+    {
+      "time": 52.57,
+      "time_str": "00:52.570",
+      "text": "你喜欢 站在那窗台",
+      "translation": null
+    },
+    {
+      "time": 58.65,
+      "time_str": "00:58.650",
+      "text": "你好久 都没再来",
+      "translation": null
+    },
+    {
+      "time": 65.25,
+      "time_str": "01:05.250",
+      "text": "彩色的 时间染上空白",
+      "translation": null
+    },
+    {
+      "time": 72.33,
+      "time_str": "01:12.330",
+      "text": "是你流的泪晕开",
+      "translation": null
+    },
+    {
+      "time": 77.44,
+      "time_str": "01:17.440",
+      "text": "不要你离开",
+      "translation": null
+    },
+    {
+      "time": 80.29,
+      "time_str": "01:20.290",
+      "text": "距离隔不开",
+      "translation": null
+    },
+    {
+      "time": 83.62,
+      "time_str": "01:23.620",
+      "text": "思念变成海",
+      "translation": null
+    },
+    {
+      "time": 86.23,
+      "time_str": "01:26.230",
+      "text": "在窗外进不来",
+      "translation": null
+    },
+    {
+      "time": 89.82,
+      "time_str": "01:29.820",
+      "text": "原谅说太快",
+      "translation": null
+    },
+    {
+      "time": 93.02,
+      "time_str": "01:33.020",
+      "text": "爱成了阻碍",
+      "translation": null
+    },
+    {
+      "time": 96.28,
+      "time_str": "01:36.280",
+      "text": "手中的风筝放太快 回不来",
+      "translation": null
+    },
+    {
+      "time": 102.61,
+      "time_str": "01:42.610",
+      "text": "不要你离开",
+      "translation": null
+    },
+    {
+      "time": 105.81,
+      "time_str": "01:45.810",
+      "text": "回忆划不开",
+      "translation": null
+    },
+    {
+      "time": 109.0,
+      "time_str": "01:49.000",
+      "text": "欠你的宠爱",
+      "translation": null
+    },
+    {
+      "time": 111.95,
+      "time_str": "01:51.950",
+      "text": "我在等待重来",
+      "translation": null
+    },
+    {
+      "time": 115.56,
+      "time_str": "01:55.560",
+      "text": "天空仍灿烂",
+      "translation": null
+    },
+    {
+      "time": 118.81,
+      "time_str": "01:58.810",
+      "text": "它爱着大海",
+      "translation": null
+    },
+    {
+      "time": 122.01,
+      "time_str": "02:02.010",
+      "text": "情歌被打败",
+      "translation": null
+    },
+    {
+      "time": 125.1,
+      "time_str": "02:05.100",
+      "text": "爱已不存在",
+      "translation": null
+    },
+    {
+      "time": 154.71,
+      "time_str": "02:34.710",
+      "text": "你喜欢 站在那窗台",
+      "translation": null
+    },
+    {
+      "time": 161.28,
+      "time_str": "02:41.280",
+      "text": "你好久 都没再来",
+      "translation": null
+    },
+    {
+      "time": 167.67,
+      "time_str": "02:47.670",
+      "text": "彩色的 时间染上空白",
+      "translation": null
+    },
+    {
+      "time": 174.75,
+      "time_str": "02:54.750",
+      "text": "是你流的泪晕开",
+      "translation": null
+    },
+    {
+      "time": 179.7,
+      "time_str": "02:59.700",
+      "text": "不要你离开",
+      "translation": null
+    },
+    {
+      "time": 182.82,
+      "time_str": "03:02.820",
+      "text": "距离隔不开",
+      "translation": null
+    },
+    {
+      "time": 185.92,
+      "time_str": "03:05.920",
+      "text": "思念变成海",
+      "translation": null
+    },
+    {
+      "time": 188.62,
+      "time_str": "03:08.620",
+      "text": "在窗外进不来",
+      "translation": null
+    },
+    {
+      "time": 192.27,
+      "time_str": "03:12.270",
+      "text": "原谅说太快",
+      "translation": null
+    },
+    {
+      "time": 195.56,
+      "time_str": "03:15.560",
+      "text": "爱成了阻碍",
+      "translation": null
+    },
+    {
+      "time": 198.88,
+      "time_str": "03:18.880",
+      "text": "手中的风筝放太快 回不来",
+      "translation": null
+    },
+    {
+      "time": 205.1,
+      "time_str": "03:25.100",
+      "text": "不要你离开",
+      "translation": null
+    },
+    {
+      "time": 208.2,
+      "time_str": "03:28.200",
+      "text": "回忆划不开",
+      "translation": null
+    },
+    {
+      "time": 211.72,
+      "time_str": "03:31.720",
+      "text": "欠你的宠爱",
+      "translation": null
+    },
+    {
+      "time": 214.32,
+      "time_str": "03:34.320",
+      "text": "我在等待重来",
+      "translation": null
+    },
+    {
+      "time": 217.89,
+      "time_str": "03:37.890",
+      "text": "天空仍灿烂",
+      "translation": null
+    },
+    {
+      "time": 221.22,
+      "time_str": "03:41.220",
+      "text": "它爱着大海",
+      "translation": null
+    },
+    {
+      "time": 224.33,
+      "time_str": "03:44.330",
+      "text": "情歌被打败",
+      "translation": null
+    },
+    {
+      "time": 226.22,
+      "time_str": "03:46.220",
+      "text": "爱已不存在",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "花海 - 周杰伦.lrc"
+}

@@ -1,0 +1,490 @@
+{
+  "title": "Staring at You",
+  "title_raw": "Staring at You",
+  "version": null,
+  "artist": "Diane Birch",
+  "group_key": "staring at you|diane birch",
+  "writers": {
+    "lyricist": "Blackbird Studio",
+    "composer": "Diane Birch/Homer Steinweiss",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 2.0,
+      "time_str": "00:02.000",
+      "text": "指挥家 : Marko Ivanović",
+      "translation": null
+    },
+    {
+      "time": 6.9,
+      "time_str": "00:06.900",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 12.77,
+      "time_str": "00:12.770",
+      "text": "Staring at you",
+      "translation": "凝视着你"
+    },
+    {
+      "time": 14.64,
+      "time_str": "00:14.640",
+      "text": "Staring at me",
+      "translation": "凝视着我"
+    },
+    {
+      "time": 17.89,
+      "time_str": "00:17.890",
+      "text": "It's a slow dance",
+      "translation": "这是场慢舞"
+    },
+    {
+      "time": 19.51,
+      "time_str": "00:19.510",
+      "text": "But I believe",
+      "translation": "但我相信"
+    },
+    {
+      "time": 22.7,
+      "time_str": "00:22.700",
+      "text": "Mona Lisa",
+      "translation": "蒙娜丽莎"
+    },
+    {
+      "time": 24.33,
+      "time_str": "00:24.330",
+      "text": "Who do you see",
+      "translation": "你看到了什么"
+    },
+    {
+      "time": 27.47,
+      "time_str": "00:27.470",
+      "text": "It's your one chance",
+      "translation": "这是你的一次机会"
+    },
+    {
+      "time": 29.15,
+      "time_str": "00:29.150",
+      "text": "Do you believe",
+      "translation": "你是否相信"
+    },
+    {
+      "time": 31.77,
+      "time_str": "00:31.770",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 32.45,
+      "time_str": "00:32.450",
+      "text": "Let's get naked",
+      "translation": "赤裸相见吧"
+    },
+    {
+      "time": 34.08,
+      "time_str": "00:34.080",
+      "text": "Under the knife",
+      "translation": "在刀锋下"
+    },
+    {
+      "time": 37.02,
+      "time_str": "00:37.020",
+      "text": "We are dreamers",
+      "translation": "我们是梦想家"
+    },
+    {
+      "time": 38.83,
+      "time_str": "00:38.830",
+      "text": "Larger than life",
+      "translation": "大于生活"
+    },
+    {
+      "time": 42.08,
+      "time_str": "00:42.080",
+      "text": "Staring at you",
+      "translation": "凝视着你"
+    },
+    {
+      "time": 43.89,
+      "time_str": "00:43.890",
+      "text": "Staring at me",
+      "translation": "凝视着我"
+    },
+    {
+      "time": 47.08,
+      "time_str": "00:47.080",
+      "text": "It's a slow dance",
+      "translation": "这是场慢舞"
+    },
+    {
+      "time": 48.76,
+      "time_str": "00:48.760",
+      "text": "But I believe",
+      "translation": "但我相信"
+    },
+    {
+      "time": 50.52,
+      "time_str": "00:50.520",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 51.63,
+      "time_str": "00:51.630",
+      "text": "Lock up all the doors",
+      "translation": "锁上所有的门吧"
+    },
+    {
+      "time": 53.44,
+      "time_str": "00:53.440",
+      "text": "Better seal your heart up tight",
+      "translation": "最好密封你的心"
+    },
+    {
+      "time": 61.39,
+      "time_str": "01:01.390",
+      "text": "Block out all the noise",
+      "translation": "屏蔽所有的声音"
+    },
+    {
+      "time": 63.13,
+      "time_str": "01:03.130",
+      "text": "But you can't escape the light",
+      "translation": "但你无法逃离光线"
+    },
+    {
+      "time": 66.88,
+      "time_str": "01:06.880",
+      "text": "Staring at you",
+      "translation": "凝视着你"
+    },
+    {
+      "time": 68.63,
+      "time_str": "01:08.630",
+      "text": "Staring at me",
+      "translation": "凝视着我"
+    },
+    {
+      "time": 70.51,
+      "time_str": "01:10.510",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 70.82,
+      "time_str": "01:10.820",
+      "text": "'Cause your love creeps slow like a thief in the night",
+      "translation": "因为你的爱如窃贼般在黑夜爬行"
+    },
+    {
+      "time": 76.39,
+      "time_str": "01:16.390",
+      "text": "You take my breath and you hold it inside",
+      "translation": "你拿走我的呼吸，收于心底"
+    },
+    {
+      "time": 81.33,
+      "time_str": "01:21.330",
+      "text": "You creep slow like a thief in the night",
+      "translation": "你如窃贼般在黑夜爬行"
+    },
+    {
+      "time": 86.22,
+      "time_str": "01:26.220",
+      "text": "You take my breath and you hold it inside",
+      "translation": "你拿走我的呼吸，收于心底"
+    },
+    {
+      "time": 89.8,
+      "time_str": "01:29.800",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 101.24,
+      "time_str": "01:41.240",
+      "text": "There's an ocean",
+      "translation": "这里有一片汪洋"
+    },
+    {
+      "time": 102.74,
+      "time_str": "01:42.740",
+      "text": "Inside of your head",
+      "translation": "存在于你的脑海"
+    },
+    {
+      "time": 105.93,
+      "time_str": "01:45.930",
+      "text": "With all the words",
+      "translation": "伴随着那些"
+    },
+    {
+      "time": 107.31,
+      "time_str": "01:47.310",
+      "text": "You wish you had said",
+      "translation": "你盼望却未曾说出口的词语"
+    },
+    {
+      "time": 111.04,
+      "time_str": "01:51.040",
+      "text": "We are broken",
+      "translation": "我们破碎了"
+    },
+    {
+      "time": 112.79,
+      "time_str": "01:52.790",
+      "text": "We have no pain",
+      "translation": "我们没有了痛苦"
+    },
+    {
+      "time": 115.79,
+      "time_str": "01:55.790",
+      "text": "You're the needle",
+      "translation": "你是针"
+    },
+    {
+      "time": 117.67,
+      "time_str": "01:57.670",
+      "text": "I am the vein",
+      "translation": "而我是血管"
+    },
+    {
+      "time": 119.54,
+      "time_str": "01:59.540",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 120.78,
+      "time_str": "02:00.780",
+      "text": "Lock up all the doors",
+      "translation": "锁上所有的门吧"
+    },
+    {
+      "time": 122.41,
+      "time_str": "02:02.410",
+      "text": "Gonna seal them out tonight",
+      "translation": "今夜就将它们关在门外"
+    },
+    {
+      "time": 130.47,
+      "time_str": "02:10.470",
+      "text": "Block out all the noise",
+      "translation": "屏蔽所有的声音"
+    },
+    {
+      "time": 132.03,
+      "time_str": "02:12.030",
+      "text": "'Cause the only place that's right",
+      "translation": "因为唯一正确的地点"
+    },
+    {
+      "time": 135.53,
+      "time_str": "02:15.530",
+      "text": "Is staring at you",
+      "translation": "是凝视着你"
+    },
+    {
+      "time": 137.53,
+      "time_str": "02:17.530",
+      "text": "Staring at me",
+      "translation": "凝视着我"
+    },
+    {
+      "time": 139.4,
+      "time_str": "02:19.400",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 140.02,
+      "time_str": "02:20.020",
+      "text": "'Cause your love creeps slow like a thief in the night",
+      "translation": "因为你的爱如窃贼般在黑夜爬行"
+    },
+    {
+      "time": 145.23,
+      "time_str": "02:25.230",
+      "text": "You take my breath and you hold it inside",
+      "translation": "你拿走我的呼吸，收于心底"
+    },
+    {
+      "time": 148.97,
+      "time_str": "02:28.970",
+      "text": "You creep slow like a thief in the night",
+      "translation": "你如窃贼般在黑夜爬行"
+    },
+    {
+      "time": 155.03,
+      "time_str": "02:35.030",
+      "text": "You take my breath and you hold it inside",
+      "translation": "你拿走我的呼吸，收于心底"
+    },
+    {
+      "time": 162.59,
+      "time_str": "02:42.590",
+      "text": "Oh you hold it inside",
+      "translation": "oh你收于心底"
+    },
+    {
+      "time": 166.97,
+      "time_str": "02:46.970",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 179.53,
+      "time_str": "02:59.530",
+      "text": "Lock up all the doors",
+      "translation": "锁上所有的门吧"
+    },
+    {
+      "time": 181.16,
+      "time_str": "03:01.160",
+      "text": "Gonna seal them out tonight",
+      "translation": "今夜就将它们关在门外"
+    },
+    {
+      "time": 189.3,
+      "time_str": "03:09.300",
+      "text": "Block out all the noise",
+      "translation": "屏蔽所有的声音"
+    },
+    {
+      "time": 190.92,
+      "time_str": "03:10.920",
+      "text": "'Cause the only place that's right",
+      "translation": "因为唯一正确的地点"
+    },
+    {
+      "time": 194.3,
+      "time_str": "03:14.300",
+      "text": "Is staring at you",
+      "translation": "是凝视着你"
+    },
+    {
+      "time": 196.06,
+      "time_str": "03:16.060",
+      "text": "Staring at me",
+      "translation": "凝视着我"
+    },
+    {
+      "time": 197.74,
+      "time_str": "03:17.740",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 198.72,
+      "time_str": "03:18.720",
+      "text": "'Cause your love creeps slow like a thief in the night",
+      "translation": "因为你的爱如窃贼般在黑夜爬行"
+    },
+    {
+      "time": 204.35,
+      "time_str": "03:24.350",
+      "text": "You take my breath and you hold it inside",
+      "translation": "你拿走我的呼吸，收于心底"
+    },
+    {
+      "time": 209.22,
+      "time_str": "03:29.220",
+      "text": "You creep slow like a thief in the night",
+      "translation": "你如窃贼般在黑夜爬行"
+    },
+    {
+      "time": 213.99,
+      "time_str": "03:33.990",
+      "text": "You take my breath and you hold it inside",
+      "translation": "你拿走我的呼吸，收于心底"
+    },
+    {
+      "time": 218.99,
+      "time_str": "03:38.990",
+      "text": "You creep slow like a thief in the night",
+      "translation": "你如窃贼般在黑夜爬行"
+    },
+    {
+      "time": 223.92,
+      "time_str": "03:43.920",
+      "text": "You take my breath and you hold it inside",
+      "translation": "你拿走我的呼吸，收于心底"
+    },
+    {
+      "time": 228.81,
+      "time_str": "03:48.810",
+      "text": "You creep slow like a thief in the night",
+      "translation": "你如窃贼般在黑夜爬行"
+    },
+    {
+      "time": 233.63,
+      "time_str": "03:53.630",
+      "text": "You take my breath and you hold it inside",
+      "translation": "你拿走我的呼吸，收于心底"
+    },
+    {
+      "time": 241.13,
+      "time_str": "04:01.130",
+      "text": "Oh you hold it inside",
+      "translation": "oh你收于心底"
+    },
+    {
+      "time": 246.88,
+      "time_str": "04:06.880",
+      "text": "You hold it inside",
+      "translation": "你收于心底"
+    },
+    {
+      "time": 251.38,
+      "time_str": "04:11.380",
+      "text": "You hold it inside",
+      "translation": "你收于心底"
+    },
+    {
+      "time": 255.07,
+      "time_str": "04:15.070",
+      "text": ".",
+      "translation": null
+    },
+    {
+      "time": 318.832,
+      "time_str": "05:18.832",
+      "text": "音频助理 : Lowell Reynolds at Blackbird Studio/Ted Tuthill at Sear Sound",
+      "translation": null
+    },
+    {
+      "time": 320.08,
+      "time_str": "05:20.080",
+      "text": "贝斯 : Pete Iannacone",
+      "translation": null
+    },
+    {
+      "time": 320.496,
+      "time_str": "05:20.496",
+      "text": "音频工程师 : Steve Greenwell",
+      "translation": null
+    },
+    {
+      "time": 321.744,
+      "time_str": "05:21.744",
+      "text": "制作 : Joss Stone/Steve Greenberg/Steve Greenwell",
+      "translation": null
+    },
+    {
+      "time": 322.16,
+      "time_str": "05:22.160",
+      "text": "母带工程师 : Chris Gehringer",
+      "translation": null
+    },
+    {
+      "time": 322.576,
+      "time_str": "05:22.576",
+      "text": "人声 : Joss Stone",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Staring at You - Diane Birch.lrc"
+}

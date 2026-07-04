@@ -1,0 +1,244 @@
+{
+  "title": "最爱",
+  "title_raw": "最爱",
+  "version": null,
+  "artist": "周慧敏",
+  "group_key": "最爱|周慧敏",
+  "writers": {
+    "lyricist": "李克勤",
+    "composer": "中島みゆき",
+    "arranger": "卢东尼"
+  },
+  "lyrics": [
+    {
+      "time": 15.22,
+      "time_str": "00:15.220",
+      "text": "天空一片蔚蓝 清风添上了浪漫",
+      "translation": null
+    },
+    {
+      "time": 19.1,
+      "time_str": "00:19.100",
+      "text": "心里那份柔情蜜意似海无限",
+      "translation": null
+    },
+    {
+      "time": 33.05,
+      "time_str": "00:33.050",
+      "text": "在那遥远有意无意遇上",
+      "translation": null
+    },
+    {
+      "time": 36.57,
+      "time_str": "00:36.570",
+      "text": "共你初次邂逅谁没有遐想",
+      "translation": null
+    },
+    {
+      "time": 40.93,
+      "time_str": "00:40.930",
+      "text": "诗一般的落霞 酒一般的夕阳",
+      "translation": null
+    },
+    {
+      "time": 45.25,
+      "time_str": "00:45.250",
+      "text": "似是月老给你我留印象",
+      "translation": null
+    },
+    {
+      "time": 50.07,
+      "time_str": "00:50.070",
+      "text": "斜阳离去朗月已换上",
+      "translation": null
+    },
+    {
+      "time": 53.58,
+      "time_str": "00:53.580",
+      "text": "没法掩盖这份情欲盖弥彰",
+      "translation": null
+    },
+    {
+      "time": 57.93,
+      "time_str": "00:57.930",
+      "text": "这一刹情一缕 影一对人一双",
+      "translation": null
+    },
+    {
+      "time": 62.29,
+      "time_str": "01:02.290",
+      "text": "那怕热炽爱一场",
+      "translation": null
+    },
+    {
+      "time": 66.27,
+      "time_str": "01:06.270",
+      "text": "潮汐退和涨 月冷风和霜",
+      "translation": null
+    },
+    {
+      "time": 70.39,
+      "time_str": "01:10.390",
+      "text": "夜雨的狂想 野花的微香",
+      "translation": null
+    },
+    {
+      "time": 74.49,
+      "time_str": "01:14.490",
+      "text": "伴我星夜里幻想 方知不用太紧张",
+      "translation": null
+    },
+    {
+      "time": 85.41,
+      "time_str": "01:25.410",
+      "text": "没法隐藏这份爱 是我深情深似海",
+      "translation": null
+    },
+    {
+      "time": 93.64,
+      "time_str": "01:33.640",
+      "text": "一生一世难分开 难改变也难再",
+      "translation": null
+    },
+    {
+      "time": 97.86,
+      "time_str": "01:37.860",
+      "text": "让你的爱满心内",
+      "translation": null
+    },
+    {
+      "time": 123.91,
+      "time_str": "02:03.910",
+      "text": "在那遥远有意无意遇上",
+      "translation": null
+    },
+    {
+      "time": 127.54,
+      "time_str": "02:07.540",
+      "text": "共你初次邂逅谁没有遐想",
+      "translation": null
+    },
+    {
+      "time": 131.35,
+      "time_str": "02:11.350",
+      "text": "诗一般的落霞 酒一般的夕阳",
+      "translation": null
+    },
+    {
+      "time": 136.18,
+      "time_str": "02:16.180",
+      "text": "似是月老给你我留印象",
+      "translation": null
+    },
+    {
+      "time": 140.79,
+      "time_str": "02:20.790",
+      "text": "斜阳离去朗月已换上",
+      "translation": null
+    },
+    {
+      "time": 144.53,
+      "time_str": "02:24.530",
+      "text": "没法掩盖这份情欲盖弭彰",
+      "translation": null
+    },
+    {
+      "time": 148.44,
+      "time_str": "02:28.440",
+      "text": "这一刹情一缕 影一对人一双",
+      "translation": null
+    },
+    {
+      "time": 154.52,
+      "time_str": "02:34.520",
+      "text": "那怕热炽爱一场",
+      "translation": null
+    },
+    {
+      "time": 157.1,
+      "time_str": "02:37.100",
+      "text": "潮汐退和涨 月冷风和霜",
+      "translation": null
+    },
+    {
+      "time": 161.33,
+      "time_str": "02:41.330",
+      "text": "夜雨的狂想 野花的微香",
+      "translation": null
+    },
+    {
+      "time": 165.46,
+      "time_str": "02:45.460",
+      "text": "伴我星夜里幻想 方知不用太紧张",
+      "translation": null
+    },
+    {
+      "time": 176.48,
+      "time_str": "02:56.480",
+      "text": "没法隐藏这份爱 是我深情深似海",
+      "translation": null
+    },
+    {
+      "time": 184.53,
+      "time_str": "03:04.530",
+      "text": "一生一世难分开 难改变也难再",
+      "translation": null
+    },
+    {
+      "time": 188.67,
+      "time_str": "03:08.670",
+      "text": "让你的爱满心内",
+      "translation": null
+    },
+    {
+      "time": 192.91,
+      "time_str": "03:12.910",
+      "text": "潮汐退和涨 月冷风和霜",
+      "translation": null
+    },
+    {
+      "time": 198.83,
+      "time_str": "03:18.830",
+      "text": "夜雨的狂想 野花的微香",
+      "translation": null
+    },
+    {
+      "time": 201.56,
+      "time_str": "03:21.560",
+      "text": "伴我星夜里幻想 方知不用太紧张",
+      "translation": null
+    },
+    {
+      "time": 212.14,
+      "time_str": "03:32.140",
+      "text": "没法隐藏这份爱 是我深情深似海",
+      "translation": null
+    },
+    {
+      "time": 221.92,
+      "time_str": "03:41.920",
+      "text": "一生一世难分开 难改变也难再",
+      "translation": null
+    },
+    {
+      "time": 224.58,
+      "time_str": "03:44.580",
+      "text": "让你的爱满心内",
+      "translation": null
+    },
+    {
+      "time": 228.51,
+      "time_str": "03:48.510",
+      "text": "让我的爱全给你 全给我最爱",
+      "translation": null
+    },
+    {
+      "time": 233.12,
+      "time_str": "03:53.120",
+      "text": "地老天荒仍未改",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "最爱 - 周慧敏.lrc"
+}

@@ -1,0 +1,322 @@
+{
+  "title": "必杀技",
+  "title_raw": "必杀技",
+  "version": null,
+  "artist": "古巨基",
+  "group_key": "必杀技|古巨基",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "林健华",
+    "arranger": "Robert Lay"
+  },
+  "lyrics": [
+    {
+      "time": 7.39,
+      "time_str": "00:07.390",
+      "text": "你近来又再有空",
+      "translation": null
+    },
+    {
+      "time": 11.03,
+      "time_str": "00:11.030",
+      "text": "我在防备别发功",
+      "translation": null
+    },
+    {
+      "time": 14.27,
+      "time_str": "00:14.270",
+      "text": "能勉强戒绝心痛",
+      "translation": null
+    },
+    {
+      "time": 17.94,
+      "time_str": "00:17.940",
+      "text": "但喉咙还在痛",
+      "translation": null
+    },
+    {
+      "time": 21.34,
+      "time_str": "00:21.340",
+      "text": "你在怀旧我也懂",
+      "translation": null
+    },
+    {
+      "time": 24.84,
+      "time_str": "00:24.840",
+      "text": "还称赞我够上进",
+      "translation": null
+    },
+    {
+      "time": 28.17,
+      "time_str": "00:28.170",
+      "text": "但可惜那时你都不相信",
+      "translation": null
+    },
+    {
+      "time": 35.12,
+      "time_str": "00:35.120",
+      "text": "我道行都低估了你",
+      "translation": null
+    },
+    {
+      "time": 38.94,
+      "time_str": "00:38.940",
+      "text": "我以为撑得起",
+      "translation": null
+    },
+    {
+      "time": 42.3,
+      "time_str": "00:42.300",
+      "text": "一句为什么不找找你",
+      "translation": null
+    },
+    {
+      "time": 45.72,
+      "time_str": "00:45.720",
+      "text": "我练到再倔强 再绝也",
+      "translation": null
+    },
+    {
+      "time": 48.62,
+      "time_str": "00:48.620",
+      "text": "也永没法比",
+      "translation": null
+    },
+    {
+      "time": 51.85,
+      "time_str": "00:51.850",
+      "text": "求你别要如从前纯熟地碰我",
+      "translation": null
+    },
+    {
+      "time": 56.05,
+      "time_str": "00:56.050",
+      "text": "而我问我为何还能够碰伤我",
+      "translation": null
+    },
+    {
+      "time": 59.681,
+      "time_str": "00:59.681",
+      "text": "不要让我 一败涂地",
+      "translation": null
+    },
+    {
+      "time": 63.145,
+      "time_str": "01:03.145",
+      "text": "输得更多",
+      "translation": null
+    },
+    {
+      "time": 65.918,
+      "time_str": "01:05.918",
+      "text": "求你别说错过我其实亦爱我",
+      "translation": null
+    },
+    {
+      "time": 70.028,
+      "time_str": "01:10.028",
+      "text": "何以技痒放过我",
+      "translation": null
+    },
+    {
+      "time": 72.159,
+      "time_str": "01:12.159",
+      "text": "你已仿佛有神助",
+      "translation": null
+    },
+    {
+      "time": 75.299,
+      "time_str": "01:15.299",
+      "text": "一关心我已经",
+      "translation": null
+    },
+    {
+      "time": 78.858,
+      "time_str": "01:18.858",
+      "text": "等于再杀死我",
+      "translation": null
+    },
+    {
+      "time": 91.358,
+      "time_str": "01:31.358",
+      "text": "你未提及我也知",
+      "translation": null
+    },
+    {
+      "time": 94.98,
+      "time_str": "01:34.980",
+      "text": "既是前度没法子",
+      "translation": null
+    },
+    {
+      "time": 98.409,
+      "time_str": "01:38.409",
+      "text": "如这圣伯纳得意",
+      "translation": null
+    },
+    {
+      "time": 101.739,
+      "time_str": "01:41.739",
+      "text": "分予你当玩意",
+      "translation": null
+    },
+    {
+      "time": 105.459,
+      "time_str": "01:45.459",
+      "text": "数十年后我也知",
+      "translation": null
+    },
+    {
+      "time": 108.84,
+      "time_str": "01:48.840",
+      "text": "如果见你我愿意",
+      "translation": null
+    },
+    {
+      "time": 112.26,
+      "time_str": "01:52.260",
+      "text": "像一关过完再单打一次",
+      "translation": null
+    },
+    {
+      "time": 119.049,
+      "time_str": "01:59.049",
+      "text": "我道行都低估了你",
+      "translation": null
+    },
+    {
+      "time": 122.938,
+      "time_str": "02:02.938",
+      "text": "我以为撑得起",
+      "translation": null
+    },
+    {
+      "time": 126.099,
+      "time_str": "02:06.099",
+      "text": "一句为什么不找找你",
+      "translation": null
+    },
+    {
+      "time": 129.828,
+      "time_str": "02:09.828",
+      "text": "我练到再倔强 再绝也",
+      "translation": null
+    },
+    {
+      "time": 132.639,
+      "time_str": "02:12.639",
+      "text": "也永没法比",
+      "translation": null
+    },
+    {
+      "time": 135.997,
+      "time_str": "02:15.997",
+      "text": "求你别要如从前纯熟地碰我",
+      "translation": null
+    },
+    {
+      "time": 140.157,
+      "time_str": "02:20.157",
+      "text": "而我问我为何还能够碰伤我",
+      "translation": null
+    },
+    {
+      "time": 143.867,
+      "time_str": "02:23.867",
+      "text": "不要让我 一败涂地",
+      "translation": null
+    },
+    {
+      "time": 147.288,
+      "time_str": "02:27.288",
+      "text": "输得更多",
+      "translation": null
+    },
+    {
+      "time": 150.008,
+      "time_str": "02:30.008",
+      "text": "求你别说错过我其实亦爱我",
+      "translation": null
+    },
+    {
+      "time": 154.128,
+      "time_str": "02:34.128",
+      "text": "何以技痒放过我",
+      "translation": null
+    },
+    {
+      "time": 156.12,
+      "time_str": "02:36.120",
+      "text": "你已仿佛有神助",
+      "translation": null
+    },
+    {
+      "time": 159.56,
+      "time_str": "02:39.560",
+      "text": "一关心我已经",
+      "translation": null
+    },
+    {
+      "time": 163.03,
+      "time_str": "02:43.030",
+      "text": "等于再杀死我",
+      "translation": null
+    },
+    {
+      "time": 181.358,
+      "time_str": "03:01.358",
+      "text": "求你别说仍能如良朋地对我",
+      "translation": null
+    },
+    {
+      "time": 185.769,
+      "time_str": "03:05.769",
+      "text": "而我问我为何还能对得起我",
+      "translation": null
+    },
+    {
+      "time": 189.395,
+      "time_str": "03:09.395",
+      "text": "不要让我 一败涂地",
+      "translation": null
+    },
+    {
+      "time": 192.899,
+      "time_str": "03:12.899",
+      "text": "输得更多",
+      "translation": null
+    },
+    {
+      "time": 195.639,
+      "time_str": "03:15.639",
+      "text": "求你别说错过我其实亦爱我",
+      "translation": null
+    },
+    {
+      "time": 199.747,
+      "time_str": "03:19.747",
+      "text": "何以技痒放过我",
+      "translation": null
+    },
+    {
+      "time": 201.669,
+      "time_str": "03:21.669",
+      "text": "你已仿佛有神助",
+      "translation": null
+    },
+    {
+      "time": 205.027,
+      "time_str": "03:25.027",
+      "text": "一讲起你已经",
+      "translation": null
+    },
+    {
+      "time": 208.907,
+      "time_str": "03:28.907",
+      "text": "等于再杀死我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "必杀技 - 古巨基.lrc"
+}

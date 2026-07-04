@@ -1,0 +1,430 @@
+{
+  "title": "DEAR JOHN",
+  "title_raw": "DEAR JOHN",
+  "version": null,
+  "artist": "比莉",
+  "group_key": "dear john|比莉",
+  "writers": {
+    "lyricist": "许常德",
+    "composer": "千葉 有一",
+    "arranger": "涂惠源"
+  },
+  "lyrics": [
+    {
+      "time": 14.0,
+      "time_str": "00:14.000",
+      "text": "关上门 一个人",
+      "translation": null
+    },
+    {
+      "time": 15.57,
+      "time_str": "00:15.570",
+      "text": "行李上车",
+      "translation": null
+    },
+    {
+      "time": 17.08,
+      "time_str": "00:17.080",
+      "text": "将心情 化妆成",
+      "translation": null
+    },
+    {
+      "time": 18.99,
+      "time_str": "00:18.990",
+      "text": "初恋的快乐",
+      "translation": null
+    },
+    {
+      "time": 20.66,
+      "time_str": "00:20.660",
+      "text": "我要我 为自己",
+      "translation": null
+    },
+    {
+      "time": 22.28,
+      "time_str": "00:22.280",
+      "text": "找回自我",
+      "translation": null
+    },
+    {
+      "time": 23.46,
+      "time_str": "00:23.460",
+      "text": "找到些什么",
+      "translation": null
+    },
+    {
+      "time": 27.17,
+      "time_str": "00:27.170",
+      "text": "铃声响 Dear John",
+      "translation": null
+    },
+    {
+      "time": 29.19,
+      "time_str": "00:29.190",
+      "text": "在电话那头",
+      "translation": null
+    },
+    {
+      "time": 30.7,
+      "time_str": "00:30.700",
+      "text": "你说话 很温柔",
+      "translation": null
+    },
+    {
+      "time": 32.26,
+      "time_str": "00:32.260",
+      "text": "像一颗石头",
+      "translation": null
+    },
+    {
+      "time": 34.06,
+      "time_str": "00:34.060",
+      "text": "坚定的 镇住我",
+      "translation": null
+    },
+    {
+      "time": 35.58,
+      "time_str": "00:35.580",
+      "text": "心头波涛 我想泪流",
+      "translation": null
+    },
+    {
+      "time": 39.22,
+      "time_str": "00:39.220",
+      "text": "原来",
+      "translation": null
+    },
+    {
+      "time": 40.2,
+      "time_str": "00:40.200",
+      "text": "爱没有 遗弃我",
+      "translation": null
+    },
+    {
+      "time": 44.57,
+      "time_str": "00:44.570",
+      "text": "你的爱会将我灌醉",
+      "translation": null
+    },
+    {
+      "time": 48.16,
+      "time_str": "00:48.160",
+      "text": "我没有所谓",
+      "translation": null
+    },
+    {
+      "time": 51.54,
+      "time_str": "00:51.540",
+      "text": "太过清醒怎么陶醉",
+      "translation": null
+    },
+    {
+      "time": 56.0,
+      "time_str": "00:56.000",
+      "text": "你的爱",
+      "translation": null
+    },
+    {
+      "time": 57.75,
+      "time_str": "00:57.750",
+      "text": "像是杯太浓的咖啡",
+      "translation": null
+    },
+    {
+      "time": 61.578,
+      "time_str": "01:01.578",
+      "text": "让我失眠彻夜",
+      "translation": null
+    },
+    {
+      "time": 64.718,
+      "time_str": "01:04.718",
+      "text": "好爱这种感觉",
+      "translation": null
+    },
+    {
+      "time": 83.897,
+      "time_str": "01:23.897",
+      "text": "关上门 一个人",
+      "translation": null
+    },
+    {
+      "time": 85.56,
+      "time_str": "01:25.560",
+      "text": "行李上车",
+      "translation": null
+    },
+    {
+      "time": 87.218,
+      "time_str": "01:27.218",
+      "text": "将心情 化妆成",
+      "translation": null
+    },
+    {
+      "time": 88.938,
+      "time_str": "01:28.938",
+      "text": "初恋的快乐",
+      "translation": null
+    },
+    {
+      "time": 90.56,
+      "time_str": "01:30.560",
+      "text": "我要我 为自己",
+      "translation": null
+    },
+    {
+      "time": 92.179,
+      "time_str": "01:32.179",
+      "text": "找回自我",
+      "translation": null
+    },
+    {
+      "time": 93.438,
+      "time_str": "01:33.438",
+      "text": "找到些什么",
+      "translation": null
+    },
+    {
+      "time": 97.14,
+      "time_str": "01:37.140",
+      "text": "铃声响 Dear John",
+      "translation": null
+    },
+    {
+      "time": 99.159,
+      "time_str": "01:39.159",
+      "text": "在电话那头",
+      "translation": null
+    },
+    {
+      "time": 100.679,
+      "time_str": "01:40.679",
+      "text": "你说话 很温柔",
+      "translation": null
+    },
+    {
+      "time": 102.238,
+      "time_str": "01:42.238",
+      "text": "像一颗石头",
+      "translation": null
+    },
+    {
+      "time": 103.84,
+      "time_str": "01:43.840",
+      "text": "坚定的 镇住我",
+      "translation": null
+    },
+    {
+      "time": 105.56,
+      "time_str": "01:45.560",
+      "text": "心头波涛 我想泪流",
+      "translation": null
+    },
+    {
+      "time": 108.988,
+      "time_str": "01:48.988",
+      "text": "原来",
+      "translation": null
+    },
+    {
+      "time": 110.299,
+      "time_str": "01:50.299",
+      "text": "爱没有 遗弃我",
+      "translation": null
+    },
+    {
+      "time": 114.378,
+      "time_str": "01:54.378",
+      "text": "你的爱会将我灌醉",
+      "translation": null
+    },
+    {
+      "time": 118.188,
+      "time_str": "01:58.188",
+      "text": "我没有所谓",
+      "translation": null
+    },
+    {
+      "time": 121.617,
+      "time_str": "02:01.617",
+      "text": "太过清醒怎么陶醉",
+      "translation": null
+    },
+    {
+      "time": 126.016,
+      "time_str": "02:06.016",
+      "text": "你的爱",
+      "translation": null
+    },
+    {
+      "time": 127.528,
+      "time_str": "02:07.528",
+      "text": "像是杯太浓的咖啡",
+      "translation": null
+    },
+    {
+      "time": 131.448,
+      "time_str": "02:11.448",
+      "text": "让我失眠彻夜",
+      "translation": null
+    },
+    {
+      "time": 134.728,
+      "time_str": "02:14.728",
+      "text": "好爱这种感觉",
+      "translation": null
+    },
+    {
+      "time": 147.597,
+      "time_str": "02:27.597",
+      "text": "每一次恋爱过程",
+      "translation": null
+    },
+    {
+      "time": 149.429,
+      "time_str": "02:29.429",
+      "text": "很像是赌注",
+      "translation": null
+    },
+    {
+      "time": 153.839,
+      "time_str": "02:33.839",
+      "text": "付出全部拿回",
+      "translation": null
+    },
+    {
+      "time": 155.918,
+      "time_str": "02:35.918",
+      "text": "什么不清楚",
+      "translation": null
+    },
+    {
+      "time": 160.567,
+      "time_str": "02:40.567",
+      "text": "也许爱过至少学会",
+      "translation": null
+    },
+    {
+      "time": 162.339,
+      "time_str": "02:42.339",
+      "text": "找到感动或知足",
+      "translation": null
+    },
+    {
+      "time": 167.269,
+      "time_str": "02:47.269",
+      "text": "难说当爱落幕",
+      "translation": null
+    },
+    {
+      "time": 169.418,
+      "time_str": "02:49.418",
+      "text": "赢或输",
+      "translation": null
+    },
+    {
+      "time": 200.899,
+      "time_str": "03:20.899",
+      "text": "你的爱会将我灌醉",
+      "translation": null
+    },
+    {
+      "time": 204.829,
+      "time_str": "03:24.829",
+      "text": "我没有所谓",
+      "translation": null
+    },
+    {
+      "time": 208.109,
+      "time_str": "03:28.109",
+      "text": "太过清醒怎么陶醉",
+      "translation": null
+    },
+    {
+      "time": 212.567,
+      "time_str": "03:32.567",
+      "text": "你的爱",
+      "translation": null
+    },
+    {
+      "time": 214.138,
+      "time_str": "03:34.138",
+      "text": "像是杯太浓的咖啡",
+      "translation": null
+    },
+    {
+      "time": 218.287,
+      "time_str": "03:38.287",
+      "text": "让我失眠彻夜",
+      "translation": null
+    },
+    {
+      "time": 221.399,
+      "time_str": "03:41.399",
+      "text": "好爱这种感觉",
+      "translation": null
+    },
+    {
+      "time": 224.829,
+      "time_str": "03:44.829",
+      "text": "My Love",
+      "translation": null
+    },
+    {
+      "time": 226.638,
+      "time_str": "03:46.638",
+      "text": "Baby Baby Baby",
+      "translation": null
+    },
+    {
+      "time": 229.437,
+      "time_str": "03:49.437",
+      "text": "不想牵挂",
+      "translation": null
+    },
+    {
+      "time": 231.61,
+      "time_str": "03:51.610",
+      "text": "心就要起飞",
+      "translation": null
+    },
+    {
+      "time": 234.829,
+      "time_str": "03:54.829",
+      "text": "到那充满",
+      "translation": null
+    },
+    {
+      "time": 235.967,
+      "time_str": "03:55.967",
+      "text": "可能的国界",
+      "translation": null
+    },
+    {
+      "time": 240.287,
+      "time_str": "04:00.287",
+      "text": "Baby Baby Baby",
+      "translation": null
+    },
+    {
+      "time": 242.557,
+      "time_str": "04:02.557",
+      "text": "我是你的",
+      "translation": null
+    },
+    {
+      "time": 244.937,
+      "time_str": "04:04.937",
+      "text": "你是我的就够了",
+      "translation": null
+    },
+    {
+      "time": 249.079,
+      "time_str": "04:09.079",
+      "text": "别想那么多",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "DEAR JOHN - 比莉.lrc"
+}

@@ -1,0 +1,292 @@
+{
+  "title": "老男孩",
+  "title_raw": "老男孩",
+  "version": null,
+  "artist": "筷子兄弟",
+  "group_key": "老男孩|筷子兄弟",
+  "writers": {
+    "lyricist": "筷子兄弟王太利",
+    "composer": "大橋卓弥",
+    "arranger": "赵亮"
+  },
+  "lyrics": [
+    {
+      "time": 0.0,
+      "time_str": "00:00.000",
+      "text": "原曲 : ありがとう",
+      "translation": null
+    },
+    {
+      "time": 20.53,
+      "time_str": "00:20.530",
+      "text": "王太利：那是我日夜思念深深爱着的人啊",
+      "translation": null
+    },
+    {
+      "time": 26.58,
+      "time_str": "00:26.580",
+      "text": "到底我该如何表达",
+      "translation": null
+    },
+    {
+      "time": 30.15,
+      "time_str": "00:30.150",
+      "text": "她会接受我吗",
+      "translation": null
+    },
+    {
+      "time": 33.66,
+      "time_str": "00:33.660",
+      "text": "肖央：也许永远都不会跟她说出那句话",
+      "translation": null
+    },
+    {
+      "time": 40.05,
+      "time_str": "00:40.050",
+      "text": "注定我要浪迹天涯",
+      "translation": null
+    },
+    {
+      "time": 43.35,
+      "time_str": "00:43.350",
+      "text": "怎么能有牵挂",
+      "translation": null
+    },
+    {
+      "time": 46.21,
+      "time_str": "00:46.210",
+      "text": "梦想总是遥不可及",
+      "translation": null
+    },
+    {
+      "time": 49.94,
+      "time_str": "00:49.940",
+      "text": "是不是应该放弃",
+      "translation": null
+    },
+    {
+      "time": 52.82,
+      "time_str": "00:52.820",
+      "text": "王太利：花开花落又是一季",
+      "translation": null
+    },
+    {
+      "time": 56.64,
+      "time_str": "00:56.640",
+      "text": "春天啊你在哪里",
+      "translation": null
+    },
+    {
+      "time": 65.0,
+      "time_str": "01:05.000",
+      "text": "肖央：青春如同奔流的江河",
+      "translation": null
+    },
+    {
+      "time": 68.43,
+      "time_str": "01:08.430",
+      "text": "一去不回来不及道别",
+      "translation": null
+    },
+    {
+      "time": 71.73,
+      "time_str": "01:11.730",
+      "text": "只剩下麻木的我 没有了当年的热血",
+      "translation": null
+    },
+    {
+      "time": 78.319,
+      "time_str": "01:18.319",
+      "text": "王太利：看那满天飘零的花朵",
+      "translation": null
+    },
+    {
+      "time": 81.689,
+      "time_str": "01:21.689",
+      "text": "在最美丽的时刻凋谢",
+      "translation": null
+    },
+    {
+      "time": 85.019,
+      "time_str": "01:25.019",
+      "text": "有谁会记得这世界他来过",
+      "translation": null
+    },
+    {
+      "time": 95.51,
+      "time_str": "01:35.510",
+      "text": "肖央：转眼过去多年世间 多少离合悲欢",
+      "translation": null
+    },
+    {
+      "time": 101.59,
+      "time_str": "01:41.590",
+      "text": "曾经志在四方少年 羡慕南飞的雁",
+      "translation": null
+    },
+    {
+      "time": 108.67,
+      "time_str": "01:48.670",
+      "text": "王太利：各自奔前程的身影 匆匆渐行渐远",
+      "translation": null
+    },
+    {
+      "time": 114.91,
+      "time_str": "01:54.910",
+      "text": "未来在哪里平凡 啊 谁给我答案",
+      "translation": null
+    },
+    {
+      "time": 121.2,
+      "time_str": "02:01.200",
+      "text": "肖央：那时陪伴我的人哪 你们如今在何方",
+      "translation": null
+    },
+    {
+      "time": 127.799,
+      "time_str": "02:07.799",
+      "text": "王太利：我曾经爱过的人啊 现在是什么模样",
+      "translation": null
+    },
+    {
+      "time": 140.039,
+      "time_str": "02:20.039",
+      "text": "肖央：当初的愿望实现了吗",
+      "translation": null
+    },
+    {
+      "time": 143.3,
+      "time_str": "02:23.300",
+      "text": "事到如今只好祭奠吗",
+      "translation": null
+    },
+    {
+      "time": 146.669,
+      "time_str": "02:26.669",
+      "text": "任岁月风干理想 再也找不回真的我",
+      "translation": null
+    },
+    {
+      "time": 153.4,
+      "time_str": "02:33.400",
+      "text": "王太利：抬头仰望这漫天星河",
+      "translation": null
+    },
+    {
+      "time": 156.66,
+      "time_str": "02:36.660",
+      "text": "那时候陪伴我的那颗",
+      "translation": null
+    },
+    {
+      "time": 160.03,
+      "time_str": "02:40.030",
+      "text": "这里的故事你是否还记得",
+      "translation": null
+    },
+    {
+      "time": 196.159,
+      "time_str": "03:16.159",
+      "text": "肖央：生活像一把无情刻刀",
+      "translation": null
+    },
+    {
+      "time": 200.0,
+      "time_str": "03:20.000",
+      "text": "改变了我们模样",
+      "translation": null
+    },
+    {
+      "time": 202.9,
+      "time_str": "03:22.900",
+      "text": "王太利：未曾绽放就要枯萎吗",
+      "translation": null
+    },
+    {
+      "time": 206.909,
+      "time_str": "03:26.909",
+      "text": "我有过梦想",
+      "translation": null
+    },
+    {
+      "time": 215.099,
+      "time_str": "03:35.099",
+      "text": "肖央：青春如同奔流的江河",
+      "translation": null
+    },
+    {
+      "time": 218.479,
+      "time_str": "03:38.479",
+      "text": "一去不回来不及道别",
+      "translation": null
+    },
+    {
+      "time": 221.69,
+      "time_str": "03:41.690",
+      "text": "只剩下麻木的我 没有了当年的热血",
+      "translation": null
+    },
+    {
+      "time": 228.389,
+      "time_str": "03:48.389",
+      "text": "王太利：看那满天飘零的花朵",
+      "translation": null
+    },
+    {
+      "time": 231.759,
+      "time_str": "03:51.759",
+      "text": "在最美丽的时刻凋谢",
+      "translation": null
+    },
+    {
+      "time": 235.039,
+      "time_str": "03:55.039",
+      "text": "有谁会记得 这世界他曾经来过",
+      "translation": null
+    },
+    {
+      "time": 241.52,
+      "time_str": "04:01.520",
+      "text": "肖央：当初的愿望实现了吗",
+      "translation": null
+    },
+    {
+      "time": 245.03,
+      "time_str": "04:05.030",
+      "text": "事到如今只好祭奠吗",
+      "translation": null
+    },
+    {
+      "time": 248.3,
+      "time_str": "04:08.300",
+      "text": "任岁月风干理想 再也找不回真的我",
+      "translation": null
+    },
+    {
+      "time": 254.99,
+      "time_str": "04:14.990",
+      "text": "王太利：抬头仰望这漫天星河",
+      "translation": null
+    },
+    {
+      "time": 258.279,
+      "time_str": "04:18.279",
+      "text": "那时候陪伴我的那颗",
+      "translation": null
+    },
+    {
+      "time": 261.62,
+      "time_str": "04:21.620",
+      "text": "这里的故事你是否还记得",
+      "translation": null
+    },
+    {
+      "time": 268.319,
+      "time_str": "04:28.319",
+      "text": "合：如果有明天祝福你亲爱的",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "老男孩 - 筷子兄弟.lrc"
+}

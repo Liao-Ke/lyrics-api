@@ -1,0 +1,646 @@
+{
+  "title": "今天你要嫁给我",
+  "title_raw": "今天你要嫁给我",
+  "version": null,
+  "artist": "蔡依林,陶喆",
+  "group_key": "今天你要嫁给我|蔡依林,陶喆",
+  "writers": {
+    "lyricist": "陶喆/娃娃",
+    "composer": "陶喆",
+    "arranger": "陶喆"
+  },
+  "lyrics": [
+    {
+      "time": 21.8,
+      "time_str": "00:21.800",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 22.92,
+      "time_str": "00:22.920",
+      "text": "春暖的花开",
+      "translation": null
+    },
+    {
+      "time": 24.93,
+      "time_str": "00:24.930",
+      "text": "带走冬天的感伤",
+      "translation": null
+    },
+    {
+      "time": 28.3,
+      "time_str": "00:28.300",
+      "text": "微风吹来浪漫的气息",
+      "translation": null
+    },
+    {
+      "time": 33.72,
+      "time_str": "00:33.720",
+      "text": "每一首情歌忽然",
+      "translation": null
+    },
+    {
+      "time": 35.94,
+      "time_str": "00:35.940",
+      "text": "充满意义",
+      "translation": null
+    },
+    {
+      "time": 38.5,
+      "time_str": "00:38.500",
+      "text": "我就在此刻突然见到你",
+      "translation": null
+    },
+    {
+      "time": 43.17,
+      "time_str": "00:43.170",
+      "text": "Take it way",
+      "translation": null
+    },
+    {
+      "time": 43.82,
+      "time_str": "00:43.820",
+      "text": "女 :",
+      "translation": null
+    },
+    {
+      "time": 44.29,
+      "time_str": "00:44.290",
+      "text": "春暖的花香",
+      "translation": null
+    },
+    {
+      "time": 46.15,
+      "time_str": "00:46.150",
+      "text": "带走冬天的凄寒",
+      "translation": null
+    },
+    {
+      "time": 49.45,
+      "time_str": "00:49.450",
+      "text": "微风吹来意外的爱情",
+      "translation": null
+    },
+    {
+      "time": 52.32,
+      "time_str": "00:52.320",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 52.87,
+      "time_str": "00:52.870",
+      "text": "It's love",
+      "translation": null
+    },
+    {
+      "time": 54.1,
+      "time_str": "00:54.100",
+      "text": "女 :",
+      "translation": null
+    },
+    {
+      "time": 54.68,
+      "time_str": "00:54.680",
+      "text": "鸟儿的高歌拉近",
+      "translation": null
+    },
+    {
+      "time": 56.9,
+      "time_str": "00:56.900",
+      "text": "我们距离",
+      "translation": null
+    },
+    {
+      "time": 59.56,
+      "time_str": "00:59.560",
+      "text": "我就在此刻突然爱上你",
+      "translation": null
+    },
+    {
+      "time": 63.22,
+      "time_str": "01:03.220",
+      "text": "合 :",
+      "translation": null
+    },
+    {
+      "time": 63.77,
+      "time_str": "01:03.770",
+      "text": "听我说",
+      "translation": null
+    },
+    {
+      "time": 65.15,
+      "time_str": "01:05.150",
+      "text": "手牵手 跟我一起走",
+      "translation": null
+    },
+    {
+      "time": 69.85,
+      "time_str": "01:09.850",
+      "text": "创造幸福的生活",
+      "translation": null
+    },
+    {
+      "time": 75.81,
+      "time_str": "01:15.810",
+      "text": "昨天已来不及",
+      "translation": null
+    },
+    {
+      "time": 78.43,
+      "time_str": "01:18.430",
+      "text": "明天就会可惜",
+      "translation": null
+    },
+    {
+      "time": 81.08,
+      "time_str": "01:21.080",
+      "text": "今天嫁给我好吗",
+      "translation": null
+    },
+    {
+      "time": 83.72,
+      "time_str": "01:23.720",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 84.14,
+      "time_str": "01:24.140",
+      "text": "Here we go",
+      "translation": null
+    },
+    {
+      "time": 86.8,
+      "time_str": "01:26.800",
+      "text": "Jolin in the house",
+      "translation": null
+    },
+    {
+      "time": 88.05,
+      "time_str": "01:28.050",
+      "text": "女 :",
+      "translation": null
+    },
+    {
+      "time": 89.31,
+      "time_str": "01:29.310",
+      "text": "Dt in the house",
+      "translation": null
+    },
+    {
+      "time": 90.72,
+      "time_str": "01:30.720",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 91.99,
+      "time_str": "01:31.990",
+      "text": "Jolin in the house",
+      "translation": null
+    },
+    {
+      "time": 93.37,
+      "time_str": "01:33.370",
+      "text": "女 :",
+      "translation": null
+    },
+    {
+      "time": 94.77,
+      "time_str": "01:34.770",
+      "text": "Dt in the house",
+      "translation": null
+    },
+    {
+      "time": 95.84,
+      "time_str": "01:35.840",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 96.26,
+      "time_str": "01:36.260",
+      "text": "Come on jolin in the house",
+      "translation": null
+    },
+    {
+      "time": 98.69,
+      "time_str": "01:38.690",
+      "text": "女 :",
+      "translation": null
+    },
+    {
+      "time": 99.97,
+      "time_str": "01:39.970",
+      "text": "Dt in the house",
+      "translation": null
+    },
+    {
+      "time": 101.01,
+      "time_str": "01:41.010",
+      "text": "合 :",
+      "translation": null
+    },
+    {
+      "time": 102.45,
+      "time_str": "01:42.450",
+      "text": "Our love in the house",
+      "translation": null
+    },
+    {
+      "time": 103.84,
+      "time_str": "01:43.840",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 104.62,
+      "time_str": "01:44.620",
+      "text": "Sweet sweet love",
+      "translation": null
+    },
+    {
+      "time": 107.54,
+      "time_str": "01:47.540",
+      "text": "夏日的热情",
+      "translation": null
+    },
+    {
+      "time": 109.37,
+      "time_str": "01:49.370",
+      "text": "打动春天的懒散",
+      "translation": null
+    },
+    {
+      "time": 112.74,
+      "time_str": "01:52.740",
+      "text": "阳光照耀美满的家庭",
+      "translation": null
+    },
+    {
+      "time": 117.97,
+      "time_str": "01:57.970",
+      "text": "每一首情歌都会勾起回忆",
+      "translation": null
+    },
+    {
+      "time": 122.93,
+      "time_str": "02:02.930",
+      "text": "想当年我是怎么认识你",
+      "translation": null
+    },
+    {
+      "time": 127.48,
+      "time_str": "02:07.480",
+      "text": "Back to you now",
+      "translation": null
+    },
+    {
+      "time": 128.16,
+      "time_str": "02:08.160",
+      "text": "女 :",
+      "translation": null
+    },
+    {
+      "time": 128.58,
+      "time_str": "02:08.580",
+      "text": "冬天的忧伤",
+      "translation": null
+    },
+    {
+      "time": 130.49,
+      "time_str": "02:10.490",
+      "text": "结束秋天的孤单",
+      "translation": null
+    },
+    {
+      "time": 133.87,
+      "time_str": "02:13.870",
+      "text": "微风吹来苦乐的思念",
+      "translation": null
+    },
+    {
+      "time": 136.79,
+      "time_str": "02:16.790",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 137.29,
+      "time_str": "02:17.290",
+      "text": "I'm missing you",
+      "translation": null
+    },
+    {
+      "time": 138.44,
+      "time_str": "02:18.440",
+      "text": "女 :",
+      "translation": null
+    },
+    {
+      "time": 139.09,
+      "time_str": "02:19.090",
+      "text": "鸟儿的高歌唱着不要别离",
+      "translation": null
+    },
+    {
+      "time": 143.43,
+      "time_str": "02:23.430",
+      "text": "合 :",
+      "translation": null
+    },
+    {
+      "time": 144.11,
+      "time_str": "02:24.110",
+      "text": "此刻我多么想要拥抱你",
+      "translation": null
+    },
+    {
+      "time": 148.05,
+      "time_str": "02:28.050",
+      "text": "听我说",
+      "translation": null
+    },
+    {
+      "time": 149.77,
+      "time_str": "02:29.770",
+      "text": "手牵手 跟我一起走",
+      "translation": null
+    },
+    {
+      "time": 154.37,
+      "time_str": "02:34.370",
+      "text": "过着安定的生活",
+      "translation": null
+    },
+    {
+      "time": 160.22,
+      "time_str": "02:40.220",
+      "text": "昨天已来不及",
+      "translation": null
+    },
+    {
+      "time": 162.86,
+      "time_str": "02:42.860",
+      "text": "明天就会可惜",
+      "translation": null
+    },
+    {
+      "time": 165.5,
+      "time_str": "02:45.500",
+      "text": "今天你要嫁给我",
+      "translation": null
+    },
+    {
+      "time": 168.97,
+      "time_str": "02:48.970",
+      "text": "听我说",
+      "translation": null
+    },
+    {
+      "time": 170.72,
+      "time_str": "02:50.720",
+      "text": "手牵手 我们一起走",
+      "translation": null
+    },
+    {
+      "time": 175.4,
+      "time_str": "02:55.400",
+      "text": "把你一生交给我",
+      "translation": null
+    },
+    {
+      "time": 181.3,
+      "time_str": "03:01.300",
+      "text": "昨天不要回头",
+      "translation": null
+    },
+    {
+      "time": 183.89,
+      "time_str": "03:03.890",
+      "text": "明天要到白首",
+      "translation": null
+    },
+    {
+      "time": 186.48,
+      "time_str": "03:06.480",
+      "text": "今天你要嫁给我",
+      "translation": null
+    },
+    {
+      "time": 189.46,
+      "time_str": "03:09.460",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 189.64,
+      "time_str": "03:09.640",
+      "text": "Hey hey uh uh",
+      "translation": null
+    },
+    {
+      "time": 192.15,
+      "time_str": "03:12.150",
+      "text": "叮当听着礼堂的钟声",
+      "translation": null
+    },
+    {
+      "time": 194.77,
+      "time_str": "03:14.770",
+      "text": "我们在上帝",
+      "translation": null
+    },
+    {
+      "time": 195.66,
+      "time_str": "03:15.660",
+      "text": "和亲友面前见证",
+      "translation": null
+    },
+    {
+      "time": 197.35,
+      "time_str": "03:17.350",
+      "text": "这对男女",
+      "translation": null
+    },
+    {
+      "time": 198.16,
+      "time_str": "03:18.160",
+      "text": "现在就要结为夫妻",
+      "translation": null
+    },
+    {
+      "time": 199.89,
+      "time_str": "03:19.890",
+      "text": "不要忘了这一切",
+      "translation": null
+    },
+    {
+      "time": 201.22,
+      "time_str": "03:21.220",
+      "text": "是多么的神圣",
+      "translation": null
+    },
+    {
+      "time": 202.54,
+      "time_str": "03:22.540",
+      "text": "你愿意生死苦乐",
+      "translation": null
+    },
+    {
+      "time": 203.71,
+      "time_str": "03:23.710",
+      "text": "永远和她在一起",
+      "translation": null
+    },
+    {
+      "time": 204.94,
+      "time_str": "03:24.940",
+      "text": "爱惜她尊重她",
+      "translation": null
+    },
+    {
+      "time": 206.3,
+      "time_str": "03:26.300",
+      "text": "安慰她保护着她",
+      "translation": null
+    },
+    {
+      "time": 207.76,
+      "time_str": "03:27.760",
+      "text": "俩人同心建立起",
+      "translation": null
+    },
+    {
+      "time": 209.3,
+      "time_str": "03:29.300",
+      "text": "美满的家庭",
+      "translation": null
+    },
+    {
+      "time": 210.4,
+      "time_str": "03:30.400",
+      "text": "你愿意这样做吗",
+      "translation": null
+    },
+    {
+      "time": 211.93,
+      "time_str": "03:31.930",
+      "text": "Yes I do",
+      "translation": null
+    },
+    {
+      "time": 212.95,
+      "time_str": "03:32.950",
+      "text": "合 :",
+      "translation": null
+    },
+    {
+      "time": 213.89,
+      "time_str": "03:33.890",
+      "text": "听我说",
+      "translation": null
+    },
+    {
+      "time": 215.48,
+      "time_str": "03:35.480",
+      "text": "手牵手 一路到尽头",
+      "translation": null
+    },
+    {
+      "time": 220.16,
+      "time_str": "03:40.160",
+      "text": "把你一生交给我",
+      "translation": null
+    },
+    {
+      "time": 226.14,
+      "time_str": "03:46.140",
+      "text": "昨天已是过去",
+      "translation": null
+    },
+    {
+      "time": 228.75,
+      "time_str": "03:48.750",
+      "text": "明天更多回忆",
+      "translation": null
+    },
+    {
+      "time": 231.43,
+      "time_str": "03:51.430",
+      "text": "今天你要嫁给我",
+      "translation": null
+    },
+    {
+      "time": 233.84,
+      "time_str": "03:53.840",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 234.25,
+      "time_str": "03:54.250",
+      "text": "今天你要嫁给我",
+      "translation": null
+    },
+    {
+      "time": 236.26,
+      "time_str": "03:56.260",
+      "text": "合 :",
+      "translation": null
+    },
+    {
+      "time": 236.68,
+      "time_str": "03:56.680",
+      "text": "今天你要嫁给我",
+      "translation": null
+    },
+    {
+      "time": 238.82,
+      "time_str": "03:58.820",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 239.32,
+      "time_str": "03:59.320",
+      "text": "今天你要嫁给我",
+      "translation": null
+    },
+    {
+      "time": 241.2,
+      "time_str": "04:01.200",
+      "text": "合 :",
+      "translation": null
+    },
+    {
+      "time": 241.8,
+      "time_str": "04:01.800",
+      "text": "今天你要嫁给我",
+      "translation": null
+    },
+    {
+      "time": 244.18,
+      "time_str": "04:04.180",
+      "text": "男 :",
+      "translation": null
+    },
+    {
+      "time": 244.73,
+      "time_str": "04:04.730",
+      "text": "Oh",
+      "translation": null
+    },
+    {
+      "time": 269.06,
+      "time_str": "04:29.060",
+      "text": "SP : Warner/Chappell Music Publishing Agency (Beijing) Ltd.",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "今天你要嫁给我 - 蔡依林,陶喆.lrc"
+}

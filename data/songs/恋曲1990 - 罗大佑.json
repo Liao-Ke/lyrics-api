@@ -1,0 +1,190 @@
+{
+  "title": "恋曲1990",
+  "title_raw": "恋曲1990",
+  "version": null,
+  "artist": "罗大佑",
+  "group_key": "恋曲1990|罗大佑",
+  "writers": {
+    "lyricist": "罗大佑",
+    "composer": "罗大佑",
+    "arranger": "张定元"
+  },
+  "lyrics": [
+    {
+      "time": 17.748,
+      "time_str": "00:17.748",
+      "text": "乌溜溜的黑眼珠 和你的笑脸",
+      "translation": null
+    },
+    {
+      "time": 25.839,
+      "time_str": "00:25.839",
+      "text": "怎么也难忘记你 容颜的转变",
+      "translation": null
+    },
+    {
+      "time": 34.84,
+      "time_str": "00:34.840",
+      "text": "轻飘飘的旧时光 就这么溜走",
+      "translation": null
+    },
+    {
+      "time": 42.9,
+      "time_str": "00:42.900",
+      "text": "转头回去看看时 已匆匆数年",
+      "translation": null
+    },
+    {
+      "time": 51.28,
+      "time_str": "00:51.280",
+      "text": "苍茫茫的天涯路 是你的飘泊",
+      "translation": null
+    },
+    {
+      "time": 59.57,
+      "time_str": "00:59.570",
+      "text": "寻寻觅觅长相守 是我的脚步",
+      "translation": null
+    },
+    {
+      "time": 67.83,
+      "time_str": "01:07.830",
+      "text": "黑漆漆的孤枕边 是你的温柔",
+      "translation": null
+    },
+    {
+      "time": 76.72,
+      "time_str": "01:16.720",
+      "text": "醒来时的清晨里 是我的哀愁",
+      "translation": null
+    },
+    {
+      "time": 84.93,
+      "time_str": "01:24.930",
+      "text": "或许明日太阳西下倦鸟已归时",
+      "translation": null
+    },
+    {
+      "time": 92.89,
+      "time_str": "01:32.890",
+      "text": "你将已经踏上旧时的归途",
+      "translation": null
+    },
+    {
+      "time": 102.32,
+      "time_str": "01:42.320",
+      "text": "人生难得再次寻觅相知的伴侣",
+      "translation": null
+    },
+    {
+      "time": 111.209,
+      "time_str": "01:51.209",
+      "text": "生命终究难舍蓝蓝的白云天",
+      "translation": null
+    },
+    {
+      "time": 119.82,
+      "time_str": "01:59.820",
+      "text": "轰隆隆的雷雨声 在我的窗前",
+      "translation": null
+    },
+    {
+      "time": 128.929,
+      "time_str": "02:08.929",
+      "text": "怎么也难忘记你 离去的转变",
+      "translation": null
+    },
+    {
+      "time": 137.189,
+      "time_str": "02:17.189",
+      "text": "孤单单的身影后 寂寥的心情",
+      "translation": null
+    },
+    {
+      "time": 145.519,
+      "time_str": "02:25.519",
+      "text": "永远无怨的是我的双眼",
+      "translation": null
+    },
+    {
+      "time": 171.269,
+      "time_str": "02:51.269",
+      "text": "苍茫茫的天涯路 是你的飘泊",
+      "translation": null
+    },
+    {
+      "time": 179.699,
+      "time_str": "02:59.699",
+      "text": "寻寻觅觅长相守 是我的脚步",
+      "translation": null
+    },
+    {
+      "time": 187.809,
+      "time_str": "03:07.809",
+      "text": "黑漆漆的孤枕边 是你的温柔",
+      "translation": null
+    },
+    {
+      "time": 196.199,
+      "time_str": "03:16.199",
+      "text": "醒来时的清晨里 是我的哀愁",
+      "translation": null
+    },
+    {
+      "time": 204.419,
+      "time_str": "03:24.419",
+      "text": "或许明日太阳西下倦鸟已归时",
+      "translation": null
+    },
+    {
+      "time": 212.949,
+      "time_str": "03:32.949",
+      "text": "你将已经踏上旧时的归途",
+      "translation": null
+    },
+    {
+      "time": 222.639,
+      "time_str": "03:42.639",
+      "text": "人生难得再次寻觅相知的伴侣",
+      "translation": null
+    },
+    {
+      "time": 230.969,
+      "time_str": "03:50.969",
+      "text": "生命终究难舍蓝蓝的白云天",
+      "translation": null
+    },
+    {
+      "time": 238.649,
+      "time_str": "03:58.649",
+      "text": "轰隆隆的雷雨声 在我的窗前",
+      "translation": null
+    },
+    {
+      "time": 247.459,
+      "time_str": "04:07.459",
+      "text": "怎么也难忘记你 离去的转变",
+      "translation": null
+    },
+    {
+      "time": 255.869,
+      "time_str": "04:15.869",
+      "text": "孤单单的身影后 寂寥的心情",
+      "translation": null
+    },
+    {
+      "time": 264.119,
+      "time_str": "04:24.119",
+      "text": "永远无怨的是我的双眼",
+      "translation": null
+    },
+    {
+      "time": 272.489,
+      "time_str": "04:32.489",
+      "text": "永远无怨的是我的双眼",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "恋曲1990 - 罗大佑.lrc"
+}

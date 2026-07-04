@@ -1,0 +1,316 @@
+{
+  "title": "园游会",
+  "title_raw": "园游会",
+  "version": null,
+  "artist": "周杰伦",
+  "group_key": "园游会|周杰伦",
+  "writers": {
+    "lyricist": "方文山",
+    "composer": "周杰伦",
+    "arranger": "洪敬尧"
+  },
+  "lyrics": [
+    {
+      "time": 32.35,
+      "time_str": "00:32.350",
+      "text": "琥珀色黄昏像糖在很美的远方",
+      "translation": null
+    },
+    {
+      "time": 36.42,
+      "time_str": "00:36.420",
+      "text": "你的脸没有化妆我却疯狂爱上",
+      "translation": null
+    },
+    {
+      "time": 40.33,
+      "time_str": "00:40.330",
+      "text": "思念跟影子在傍晚一起被拉长",
+      "translation": null
+    },
+    {
+      "time": 44.24,
+      "time_str": "00:44.240",
+      "text": "我手中那张入场券陪我数羊",
+      "translation": null
+    },
+    {
+      "time": 48.05,
+      "time_str": "00:48.050",
+      "text": "薄荷色草地芬芳像风没有形状",
+      "translation": null
+    },
+    {
+      "time": 52.11,
+      "time_str": "00:52.110",
+      "text": "我却能够牢记你的气质跟脸庞",
+      "translation": null
+    },
+    {
+      "time": 55.97,
+      "time_str": "00:55.970",
+      "text": "冷空气跟琉璃在清晨很有透明感",
+      "translation": null
+    },
+    {
+      "time": 59.98,
+      "time_str": "00:59.980",
+      "text": "像我的喜欢 被你看穿",
+      "translation": null
+    },
+    {
+      "time": 63.48,
+      "time_str": "01:03.480",
+      "text": "摊位上一朵艳阳",
+      "translation": null
+    },
+    {
+      "time": 66.48,
+      "time_str": "01:06.480",
+      "text": "我悄悄出现你身旁",
+      "translation": null
+    },
+    {
+      "time": 71.2,
+      "time_str": "01:11.200",
+      "text": "你慌乱的模样",
+      "translation": null
+    },
+    {
+      "time": 73.13,
+      "time_str": "01:13.130",
+      "text": "我微笑安静欣赏",
+      "translation": null
+    },
+    {
+      "time": 78.06,
+      "time_str": "01:18.060",
+      "text": "我顶着大太阳",
+      "translation": null
+    },
+    {
+      "time": 80.14,
+      "time_str": "01:20.140",
+      "text": "只想为你撑伞",
+      "translation": null
+    },
+    {
+      "time": 82.12,
+      "time_str": "01:22.120",
+      "text": "你靠在我肩膀",
+      "translation": null
+    },
+    {
+      "time": 84.0,
+      "time_str": "01:24.000",
+      "text": "深呼吸怕遗忘",
+      "translation": null
+    },
+    {
+      "time": 86.03,
+      "time_str": "01:26.030",
+      "text": "因为捞鱼的蠢游戏我们开始交谈",
+      "translation": null
+    },
+    {
+      "time": 89.94,
+      "time_str": "01:29.940",
+      "text": "多希望话题不断园游会永不打烊",
+      "translation": null
+    },
+    {
+      "time": 93.85,
+      "time_str": "01:33.850",
+      "text": "气球在我手上",
+      "translation": null
+    },
+    {
+      "time": 95.88,
+      "time_str": "01:35.880",
+      "text": "我牵着你瞎逛",
+      "translation": null
+    },
+    {
+      "time": 97.81,
+      "time_str": "01:37.810",
+      "text": "有话想对你讲",
+      "translation": null
+    },
+    {
+      "time": 99.74,
+      "time_str": "01:39.740",
+      "text": "你眼睛却装忙",
+      "translation": null
+    },
+    {
+      "time": 101.73,
+      "time_str": "01:41.730",
+      "text": "鸡蛋糕跟你嘴角果酱我都想要尝",
+      "translation": null
+    },
+    {
+      "time": 105.68,
+      "time_str": "01:45.680",
+      "text": "园游会影片在播放",
+      "translation": null
+    },
+    {
+      "time": 107.92,
+      "time_str": "01:47.920",
+      "text": "这个世界约好一起逛",
+      "translation": null
+    },
+    {
+      "time": 126.88,
+      "time_str": "02:06.880",
+      "text": "琥珀色黄昏像糖在很美的远方",
+      "translation": null
+    },
+    {
+      "time": 130.84,
+      "time_str": "02:10.840",
+      "text": "你的脸没有化妆我却疯狂爱上",
+      "translation": null
+    },
+    {
+      "time": 134.75,
+      "time_str": "02:14.750",
+      "text": "思念跟影子在傍晚一起被拉长",
+      "translation": null
+    },
+    {
+      "time": 138.67,
+      "time_str": "02:18.670",
+      "text": "我手中那张入场券陪我数羊",
+      "translation": null
+    },
+    {
+      "time": 142.58,
+      "time_str": "02:22.580",
+      "text": "薄荷色草地芬芳像风没有形状",
+      "translation": null
+    },
+    {
+      "time": 146.54,
+      "time_str": "02:26.540",
+      "text": "我却能够牢记你的气质跟脸庞",
+      "translation": null
+    },
+    {
+      "time": 150.45,
+      "time_str": "02:30.450",
+      "text": "冷空气跟琉璃在清晨很有透明感",
+      "translation": null
+    },
+    {
+      "time": 154.36,
+      "time_str": "02:34.360",
+      "text": "像我的喜欢 被你看穿",
+      "translation": null
+    },
+    {
+      "time": 157.98,
+      "time_str": "02:37.980",
+      "text": "摊位上一朵艳阳",
+      "translation": null
+    },
+    {
+      "time": 160.98,
+      "time_str": "02:40.980",
+      "text": "我悄悄出现你身旁",
+      "translation": null
+    },
+    {
+      "time": 165.6,
+      "time_str": "02:45.600",
+      "text": "你慌乱的模样",
+      "translation": null
+    },
+    {
+      "time": 167.58,
+      "time_str": "02:47.580",
+      "text": "我微笑安静欣赏",
+      "translation": null
+    },
+    {
+      "time": 172.56,
+      "time_str": "02:52.560",
+      "text": "我顶着大太阳",
+      "translation": null
+    },
+    {
+      "time": 174.54,
+      "time_str": "02:54.540",
+      "text": "只想为你撑伞",
+      "translation": null
+    },
+    {
+      "time": 176.52,
+      "time_str": "02:56.520",
+      "text": "你靠在我肩膀",
+      "translation": null
+    },
+    {
+      "time": 178.45,
+      "time_str": "02:58.450",
+      "text": "深呼吸怕遗忘",
+      "translation": null
+    },
+    {
+      "time": 180.38,
+      "time_str": "03:00.380",
+      "text": "因为捞鱼的蠢游戏我们开始交谈",
+      "translation": null
+    },
+    {
+      "time": 184.34,
+      "time_str": "03:04.340",
+      "text": "多希望话题不断园游会永不打烊",
+      "translation": null
+    },
+    {
+      "time": 188.25,
+      "time_str": "03:08.250",
+      "text": "气球在我手上",
+      "translation": null
+    },
+    {
+      "time": 190.24,
+      "time_str": "03:10.240",
+      "text": "我牵着你瞎逛",
+      "translation": null
+    },
+    {
+      "time": 192.22,
+      "time_str": "03:12.220",
+      "text": "有话想对你讲",
+      "translation": null
+    },
+    {
+      "time": 194.15,
+      "time_str": "03:14.150",
+      "text": "你眼睛却装忙",
+      "translation": null
+    },
+    {
+      "time": 196.18,
+      "time_str": "03:16.180",
+      "text": "鸡蛋糕跟你嘴角果酱我都想要尝",
+      "translation": null
+    },
+    {
+      "time": 200.14,
+      "time_str": "03:20.140",
+      "text": "园游会影片在播放",
+      "translation": null
+    },
+    {
+      "time": 202.33,
+      "time_str": "03:22.330",
+      "text": "这个世界约好一起逛",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "园游会 - 周杰伦.lrc"
+}

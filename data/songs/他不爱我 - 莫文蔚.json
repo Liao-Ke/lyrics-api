@@ -1,0 +1,226 @@
+{
+  "title": "他不爱我",
+  "title_raw": "他不爱我",
+  "version": null,
+  "artist": "莫文蔚",
+  "group_key": "他不爱我|莫文蔚",
+  "writers": {
+    "lyricist": "杨立德",
+    "composer": "陈小霞",
+    "arranger": "王豫民"
+  },
+  "lyrics": [
+    {
+      "time": 8.6,
+      "time_str": "00:08.600",
+      "text": "他不爱我",
+      "translation": null
+    },
+    {
+      "time": 12.66,
+      "time_str": "00:12.660",
+      "text": "牵手的时候 太冷清",
+      "translation": null
+    },
+    {
+      "time": 15.75,
+      "time_str": "00:15.750",
+      "text": "拥抱的时候 不够靠近",
+      "translation": null
+    },
+    {
+      "time": 23.63,
+      "time_str": "00:23.630",
+      "text": "他不爱我",
+      "translation": null
+    },
+    {
+      "time": 28.6,
+      "time_str": "00:28.600",
+      "text": "说话的时候 不认真",
+      "translation": null
+    },
+    {
+      "time": 31.78,
+      "time_str": "00:31.780",
+      "text": "沉默的时候 又太用心",
+      "translation": null
+    },
+    {
+      "time": 39.57,
+      "time_str": "00:39.570",
+      "text": "我知道 他不爱我",
+      "translation": null
+    },
+    {
+      "time": 47.9,
+      "time_str": "00:47.900",
+      "text": "他的眼神 说出他的心",
+      "translation": null
+    },
+    {
+      "time": 56.37,
+      "time_str": "00:56.370",
+      "text": "我看透了他的心",
+      "translation": null
+    },
+    {
+      "time": 60.05,
+      "time_str": "01:00.050",
+      "text": "还有别人逗留的背影",
+      "translation": null
+    },
+    {
+      "time": 64.04,
+      "time_str": "01:04.040",
+      "text": "他的回忆 清除得不够干净",
+      "translation": null
+    },
+    {
+      "time": 72.29,
+      "time_str": "01:12.290",
+      "text": "我看到了他的心",
+      "translation": null
+    },
+    {
+      "time": 76.02,
+      "time_str": "01:16.020",
+      "text": "演的全是 他和她的电影",
+      "translation": null
+    },
+    {
+      "time": 79.9,
+      "time_str": "01:19.900",
+      "text": "他不爱我",
+      "translation": null
+    },
+    {
+      "time": 83.46,
+      "time_str": "01:23.460",
+      "text": "尽管如此",
+      "translation": null
+    },
+    {
+      "time": 87.8,
+      "time_str": "01:27.800",
+      "text": "他还是赢走了 我的心",
+      "translation": null
+    },
+    {
+      "time": 107.78,
+      "time_str": "01:47.780",
+      "text": "我知道 他不爱我",
+      "translation": null
+    },
+    {
+      "time": 116.02,
+      "time_str": "01:56.020",
+      "text": "他的眼神 说出他的心",
+      "translation": null
+    },
+    {
+      "time": 124.22,
+      "time_str": "02:04.220",
+      "text": "我看透了他的心",
+      "translation": null
+    },
+    {
+      "time": 127.91,
+      "time_str": "02:07.910",
+      "text": "还有别人逗留的背影",
+      "translation": null
+    },
+    {
+      "time": 131.98,
+      "time_str": "02:11.980",
+      "text": "他的回忆 清除得不够干净",
+      "translation": null
+    },
+    {
+      "time": 140.25,
+      "time_str": "02:20.250",
+      "text": "我看到了他的心",
+      "translation": null
+    },
+    {
+      "time": 143.91,
+      "time_str": "02:23.910",
+      "text": "演的全是 他和她的电影",
+      "translation": null
+    },
+    {
+      "time": 147.66,
+      "time_str": "02:27.660",
+      "text": "他不爱我",
+      "translation": null
+    },
+    {
+      "time": 149.94,
+      "time_str": "02:29.940",
+      "text": "他不爱我",
+      "translation": null
+    },
+    {
+      "time": 151.45,
+      "time_str": "02:31.450",
+      "text": "尽管如此",
+      "translation": null
+    },
+    {
+      "time": 155.77,
+      "time_str": "02:35.770",
+      "text": "他还是赢走了 我的心",
+      "translation": null
+    },
+    {
+      "time": 172.26,
+      "time_str": "02:52.260",
+      "text": "我看透了他的心",
+      "translation": null
+    },
+    {
+      "time": 175.88,
+      "time_str": "02:55.880",
+      "text": "还有别人逗留的背影",
+      "translation": null
+    },
+    {
+      "time": 179.96,
+      "time_str": "02:59.960",
+      "text": "他的回忆 清除得不够干净",
+      "translation": null
+    },
+    {
+      "time": 188.11,
+      "time_str": "03:08.110",
+      "text": "我看到了他的心",
+      "translation": null
+    },
+    {
+      "time": 191.9,
+      "time_str": "03:11.900",
+      "text": "演的全是 他和她的电影",
+      "translation": null
+    },
+    {
+      "time": 195.64,
+      "time_str": "03:15.640",
+      "text": "他不爱我",
+      "translation": null
+    },
+    {
+      "time": 199.41,
+      "time_str": "03:19.410",
+      "text": "尽管如此",
+      "translation": null
+    },
+    {
+      "time": 203.77,
+      "time_str": "03:23.770",
+      "text": "他还是赢走了 我的心",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "他不爱我 - 莫文蔚.lrc"
+}

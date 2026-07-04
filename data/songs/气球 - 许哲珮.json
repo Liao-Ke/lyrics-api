@@ -1,0 +1,412 @@
+{
+  "title": "气球",
+  "title_raw": "气球",
+  "version": null,
+  "artist": "许哲珮",
+  "group_key": "气球|许哲珮",
+  "writers": {
+    "lyricist": "许哲珮",
+    "composer": "许哲珮",
+    "arranger": "王豫民"
+  },
+  "lyrics": [
+    {
+      "time": 27.77,
+      "time_str": "00:27.770",
+      "text": "黑的白的红的黄的",
+      "translation": null
+    },
+    {
+      "time": 29.46,
+      "time_str": "00:29.460",
+      "text": "紫的绿的蓝的灰的",
+      "translation": null
+    },
+    {
+      "time": 31.16,
+      "time_str": "00:31.160",
+      "text": "你的我的他的她的",
+      "translation": null
+    },
+    {
+      "time": 32.85,
+      "time_str": "00:32.850",
+      "text": "大的小的圆的扁的",
+      "translation": null
+    },
+    {
+      "time": 34.51,
+      "time_str": "00:34.510",
+      "text": "好的坏的美的丑的",
+      "translation": null
+    },
+    {
+      "time": 36.22,
+      "time_str": "00:36.220",
+      "text": "新的旧的各种款式各种花色",
+      "translation": null
+    },
+    {
+      "time": 38.77,
+      "time_str": "00:38.770",
+      "text": "任你选择",
+      "translation": null
+    },
+    {
+      "time": 41.29,
+      "time_str": "00:41.290",
+      "text": "黑的白的红的黄的",
+      "translation": null
+    },
+    {
+      "time": 42.97,
+      "time_str": "00:42.970",
+      "text": "紫的绿的蓝的灰的",
+      "translation": null
+    },
+    {
+      "time": 44.67,
+      "time_str": "00:44.670",
+      "text": "你的我的他的她的",
+      "translation": null
+    },
+    {
+      "time": 46.37,
+      "time_str": "00:46.370",
+      "text": "大的小的圆的扁的",
+      "translation": null
+    },
+    {
+      "time": 48.0,
+      "time_str": "00:48.000",
+      "text": "好的坏的美的丑的",
+      "translation": null
+    },
+    {
+      "time": 49.73,
+      "time_str": "00:49.730",
+      "text": "新的旧的各种款式各种花色",
+      "translation": null
+    },
+    {
+      "time": 52.24,
+      "time_str": "00:52.240",
+      "text": "任我选择",
+      "translation": null
+    },
+    {
+      "time": 54.92,
+      "time_str": "00:54.920",
+      "text": "飞的高高越远越好",
+      "translation": null
+    },
+    {
+      "time": 56.44,
+      "time_str": "00:56.440",
+      "text": "剪断了线它就死掉",
+      "translation": null
+    },
+    {
+      "time": 58.2,
+      "time_str": "00:58.200",
+      "text": "寿命短短高兴就好",
+      "translation": null
+    },
+    {
+      "time": 59.87,
+      "time_str": "00:59.870",
+      "text": "喜欢就好没大不了",
+      "translation": null
+    },
+    {
+      "time": 61.52,
+      "time_str": "01:01.520",
+      "text": "越变越小越来越小",
+      "translation": null
+    },
+    {
+      "time": 63.22,
+      "time_str": "01:03.220",
+      "text": "快要死掉也很骄傲",
+      "translation": null
+    },
+    {
+      "time": 68.32,
+      "time_str": "01:08.320",
+      "text": "你不想说就别再说",
+      "translation": null
+    },
+    {
+      "time": 69.96,
+      "time_str": "01:09.960",
+      "text": "我不想听不想再听",
+      "translation": null
+    },
+    {
+      "time": 71.65,
+      "time_str": "01:11.650",
+      "text": "就把一切誓言当作气球一般随它而去",
+      "translation": null
+    },
+    {
+      "time": 75.03,
+      "time_str": "01:15.030",
+      "text": "我不在意不会在意",
+      "translation": null
+    },
+    {
+      "time": 76.77,
+      "time_str": "01:16.770",
+      "text": "放它而去随它而去",
+      "translation": null
+    },
+    {
+      "time": 81.44,
+      "time_str": "01:21.440",
+      "text": "气球",
+      "translation": null
+    },
+    {
+      "time": 85.3,
+      "time_str": "01:25.300",
+      "text": "飘进云里",
+      "translation": null
+    },
+    {
+      "time": 88.69,
+      "time_str": "01:28.690",
+      "text": "飘进风里",
+      "translation": null
+    },
+    {
+      "time": 92.01,
+      "time_str": "01:32.010",
+      "text": "结束生命",
+      "translation": null
+    },
+    {
+      "time": 94.91,
+      "time_str": "01:34.910",
+      "text": "气球",
+      "translation": null
+    },
+    {
+      "time": 98.75,
+      "time_str": "01:38.750",
+      "text": "飘进爱里",
+      "translation": null
+    },
+    {
+      "time": 102.24,
+      "time_str": "01:42.240",
+      "text": "飘进心里",
+      "translation": null
+    },
+    {
+      "time": 104.75,
+      "time_str": "01:44.750",
+      "text": "慢慢死去",
+      "translation": null
+    },
+    {
+      "time": 139.29,
+      "time_str": "02:19.290",
+      "text": "黑的白的红的黄的",
+      "translation": null
+    },
+    {
+      "time": 141.03,
+      "time_str": "02:21.030",
+      "text": "紫的绿的蓝的灰的",
+      "translation": null
+    },
+    {
+      "time": 142.69,
+      "time_str": "02:22.690",
+      "text": "你的我的他的她的",
+      "translation": null
+    },
+    {
+      "time": 144.35,
+      "time_str": "02:24.350",
+      "text": "大的小的圆的扁的",
+      "translation": null
+    },
+    {
+      "time": 146.05,
+      "time_str": "02:26.050",
+      "text": "好的坏的美的丑的",
+      "translation": null
+    },
+    {
+      "time": 147.75,
+      "time_str": "02:27.750",
+      "text": "新的旧的各种款式各种花色",
+      "translation": null
+    },
+    {
+      "time": 150.25,
+      "time_str": "02:30.250",
+      "text": "任你选择",
+      "translation": null
+    },
+    {
+      "time": 152.79,
+      "time_str": "02:32.790",
+      "text": "黑的白的红的黄的",
+      "translation": null
+    },
+    {
+      "time": 154.51,
+      "time_str": "02:34.510",
+      "text": "紫的绿的蓝的灰的",
+      "translation": null
+    },
+    {
+      "time": 156.21,
+      "time_str": "02:36.210",
+      "text": "你的我的他的她的",
+      "translation": null
+    },
+    {
+      "time": 157.84,
+      "time_str": "02:37.840",
+      "text": "大的小的圆的扁的",
+      "translation": null
+    },
+    {
+      "time": 159.54,
+      "time_str": "02:39.540",
+      "text": "好的坏的美的丑的",
+      "translation": null
+    },
+    {
+      "time": 161.26,
+      "time_str": "02:41.260",
+      "text": "新的旧的各种款式各种花色",
+      "translation": null
+    },
+    {
+      "time": 163.85,
+      "time_str": "02:43.850",
+      "text": "任我选择",
+      "translation": null
+    },
+    {
+      "time": 166.43,
+      "time_str": "02:46.430",
+      "text": "飞的高高越远越好",
+      "translation": null
+    },
+    {
+      "time": 168.02,
+      "time_str": "02:48.020",
+      "text": "剪断了线它就死掉",
+      "translation": null
+    },
+    {
+      "time": 169.66,
+      "time_str": "02:49.660",
+      "text": "寿命短短高兴就好",
+      "translation": null
+    },
+    {
+      "time": 171.42,
+      "time_str": "02:51.420",
+      "text": "喜欢就好没大不了",
+      "translation": null
+    },
+    {
+      "time": 173.11,
+      "time_str": "02:53.110",
+      "text": "越变越小越来越小",
+      "translation": null
+    },
+    {
+      "time": 174.73,
+      "time_str": "02:54.730",
+      "text": "快要死掉也很骄傲",
+      "translation": null
+    },
+    {
+      "time": 179.84,
+      "time_str": "02:59.840",
+      "text": "你不想说就别再说",
+      "translation": null
+    },
+    {
+      "time": 181.53,
+      "time_str": "03:01.530",
+      "text": "我不想听不想再听",
+      "translation": null
+    },
+    {
+      "time": 183.22,
+      "time_str": "03:03.220",
+      "text": "就把一切誓言当作气球一般随它而去",
+      "translation": null
+    },
+    {
+      "time": 186.54,
+      "time_str": "03:06.540",
+      "text": "我不在意不会在意",
+      "translation": null
+    },
+    {
+      "time": 188.28,
+      "time_str": "03:08.280",
+      "text": "放它而去随它而去",
+      "translation": null
+    },
+    {
+      "time": 193.02,
+      "time_str": "03:13.020",
+      "text": "气球",
+      "translation": null
+    },
+    {
+      "time": 196.87,
+      "time_str": "03:16.870",
+      "text": "飘进云里",
+      "translation": null
+    },
+    {
+      "time": 200.21,
+      "time_str": "03:20.210",
+      "text": "飘进风里",
+      "translation": null
+    },
+    {
+      "time": 203.66,
+      "time_str": "03:23.660",
+      "text": "结束生命",
+      "translation": null
+    },
+    {
+      "time": 206.45,
+      "time_str": "03:26.450",
+      "text": "气球",
+      "translation": null
+    },
+    {
+      "time": 210.39,
+      "time_str": "03:30.390",
+      "text": "飘进爱里",
+      "translation": null
+    },
+    {
+      "time": 213.81,
+      "time_str": "03:33.810",
+      "text": "飘进心里",
+      "translation": null
+    },
+    {
+      "time": 216.29,
+      "time_str": "03:36.290",
+      "text": "慢慢死去",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "气球 - 许哲珮.lrc"
+}

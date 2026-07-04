@@ -1,0 +1,106 @@
+{
+  "title": "Autumn Leaves 秋叶",
+  "title_raw": "Autumn Leaves 秋叶",
+  "version": null,
+  "artist": "群星",
+  "group_key": "autumn leaves 秋叶|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 16.759,
+      "time_str": "00:16.759",
+      "text": "Autumn leaves",
+      "translation": "秋叶"
+    },
+    {
+      "time": 44.99,
+      "time_str": "00:44.990",
+      "text": "The falling leaves drift by the window",
+      "translation": "落叶飘过窗前"
+    },
+    {
+      "time": 55.369,
+      "time_str": "00:55.369",
+      "text": "The autumn leaves of red and gold",
+      "translation": "那红金色的秋叶"
+    },
+    {
+      "time": 67.99,
+      "time_str": "01:07.990",
+      "text": "I see your lips, the summer kisses",
+      "translation": "仿佛你夏日的吻"
+    },
+    {
+      "time": 77.73,
+      "time_str": "01:17.730",
+      "text": "The sunburned hand I used to hold",
+      "translation": "和我曾牵的晒伤的手"
+    },
+    {
+      "time": 89.9,
+      "time_str": "01:29.900",
+      "text": "Since you went away the days grow long",
+      "translation": "自你离去后白昼漫长"
+    },
+    {
+      "time": 100.37,
+      "time_str": "01:40.370",
+      "text": "And soon I‘‘ll hear old winter‘‘s song",
+      "translation": "很快将听见冬日的歌"
+    },
+    {
+      "time": 112.139,
+      "time_str": "01:52.139",
+      "text": "But I miss you most of all, my darling",
+      "translation": "但我最思念你 亲爱的"
+    },
+    {
+      "time": 123.2,
+      "time_str": "02:03.200",
+      "text": "When autumn leaves start to fall",
+      "translation": "当秋叶开始飘落"
+    },
+    {
+      "time": 184.379,
+      "time_str": "03:04.379",
+      "text": "Since you went away the days grow long",
+      "translation": "自你离去后白昼漫长"
+    },
+    {
+      "time": 195.948,
+      "time_str": "03:15.948",
+      "text": "And soon I‘‘ll hear old winter‘‘s song",
+      "translation": "很快将听见冬日的歌"
+    },
+    {
+      "time": 207.289,
+      "time_str": "03:27.289",
+      "text": "But I miss you most of all, my darling",
+      "translation": "但我最思念你 亲爱的"
+    },
+    {
+      "time": 217.898,
+      "time_str": "03:37.898",
+      "text": "When autumn leaves start to fall",
+      "translation": "当秋叶开始飘落"
+    },
+    {
+      "time": 228.888,
+      "time_str": "03:48.888",
+      "text": "FIN",
+      "translation": "终"
+    },
+    {
+      "time": 3598.899,
+      "time_str": "59:58.899",
+      "text": "Patricia kaas",
+      "translation": null
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Autumn Leaves 秋叶 - 群星.lrc"
+}

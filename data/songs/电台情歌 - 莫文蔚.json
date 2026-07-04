@@ -1,0 +1,172 @@
+{
+  "title": "电台情歌",
+  "title_raw": "电台情歌",
+  "version": null,
+  "artist": "莫文蔚",
+  "group_key": "电台情歌|莫文蔚",
+  "writers": {
+    "lyricist": "姚谦",
+    "composer": "王治平",
+    "arranger": "李伯杰"
+  },
+  "lyrics": [
+    {
+      "time": 21.45,
+      "time_str": "00:21.450",
+      "text": "谁能够将天上月亮电源关掉",
+      "translation": null
+    },
+    {
+      "time": 27.7,
+      "time_str": "00:27.700",
+      "text": "它把你我沉默照得太明了",
+      "translation": null
+    },
+    {
+      "time": 34.3,
+      "time_str": "00:34.300",
+      "text": "关于爱情我们了解的太少",
+      "translation": null
+    },
+    {
+      "time": 40.4,
+      "time_str": "00:40.400",
+      "text": "爱了以後又不觉可靠",
+      "translation": null
+    },
+    {
+      "time": 47.3,
+      "time_str": "00:47.300",
+      "text": "你和我看着霓虹",
+      "translation": null
+    },
+    {
+      "time": 50.5,
+      "time_str": "00:50.500",
+      "text": "穿过了爱情的街道",
+      "translation": null
+    },
+    {
+      "time": 53.9,
+      "time_str": "00:53.900",
+      "text": "有种不真实味道",
+      "translation": null
+    },
+    {
+      "time": 60.6,
+      "time_str": "01:00.600",
+      "text": "我们一直忘了要搭一座挢",
+      "translation": null
+    },
+    {
+      "time": 67.2,
+      "time_str": "01:07.200",
+      "text": "到对方的心底瞧一瞧",
+      "translation": null
+    },
+    {
+      "time": 73.9,
+      "time_str": "01:13.900",
+      "text": "体会彼此什么才最需要",
+      "translation": null
+    },
+    {
+      "time": 80.5,
+      "time_str": "01:20.500",
+      "text": "别再寂寞的拥抱",
+      "translation": null
+    },
+    {
+      "time": 114.6,
+      "time_str": "01:54.600",
+      "text": "谁能够将电台情歌关掉",
+      "translation": null
+    },
+    {
+      "time": 120.8,
+      "time_str": "02:00.800",
+      "text": "它将你我心事唱得太敏感",
+      "translation": null
+    },
+    {
+      "time": 127.4,
+      "time_str": "02:07.400",
+      "text": "当两颗心放在感情天秤上",
+      "translation": null
+    },
+    {
+      "time": 133.6,
+      "time_str": "02:13.600",
+      "text": "想了太多又做的太少",
+      "translation": null
+    },
+    {
+      "time": 140.5,
+      "time_str": "02:20.500",
+      "text": "你和我仰望星空",
+      "translation": null
+    },
+    {
+      "time": 143.7,
+      "time_str": "02:23.700",
+      "text": "走到了爱情的边疆",
+      "translation": null
+    },
+    {
+      "time": 147.1,
+      "time_str": "02:27.100",
+      "text": "有种不确定预感",
+      "translation": null
+    },
+    {
+      "time": 153.8,
+      "time_str": "02:33.800",
+      "text": "我们一直忘了要搭一座挢",
+      "translation": null
+    },
+    {
+      "time": 160.4,
+      "time_str": "02:40.400",
+      "text": "到对方的心底瞧一瞧",
+      "translation": null
+    },
+    {
+      "time": 167.1,
+      "time_str": "02:47.100",
+      "text": "体会彼此什么才最需要",
+      "translation": null
+    },
+    {
+      "time": 173.7,
+      "time_str": "02:53.700",
+      "text": "别再寂寞的拥抱",
+      "translation": null
+    },
+    {
+      "time": 180.6,
+      "time_str": "03:00.600",
+      "text": "我们一直忘了要搭一座挢",
+      "translation": null
+    },
+    {
+      "time": 187.1,
+      "time_str": "03:07.100",
+      "text": "到对方的心底瞧一瞧",
+      "translation": null
+    },
+    {
+      "time": 193.8,
+      "time_str": "03:13.800",
+      "text": "体会彼此什么才最需要",
+      "translation": null
+    },
+    {
+      "time": 200.4,
+      "time_str": "03:20.400",
+      "text": "别再寂寞的拥抱",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "电台情歌 - 莫文蔚.lrc"
+}

@@ -1,0 +1,208 @@
+{
+  "title": "Alone",
+  "title_raw": "Alone",
+  "version": null,
+  "artist": "Alan Walker",
+  "group_key": "alone|alan walker",
+  "writers": {
+    "lyricist": "Jesper Borgen/Mood Melodies/Alan Walker/Gunnar Greve/Noonie Bao",
+    "composer": "Jesper Borgen/Mood Melodies/Alan Walker/Gunnar Greve/Noonie Bao",
+    "arranger": "Alan Walker/Jesper Borgen/Mood Melodies"
+  },
+  "lyrics": [
+    {
+      "time": 2.42,
+      "time_str": "00:02.420",
+      "text": "Lost in your mind",
+      "translation": "迷失于你脑海之中"
+    },
+    {
+      "time": 8.97,
+      "time_str": "00:08.970",
+      "text": "I wanna know",
+      "translation": "此刻我只想知道"
+    },
+    {
+      "time": 11.73,
+      "time_str": "00:11.730",
+      "text": "Am I losing my mind",
+      "translation": "我是否已迷失自我"
+    },
+    {
+      "time": 18.76,
+      "time_str": "00:18.760",
+      "text": "Never let me go",
+      "translation": "请别离开我"
+    },
+    {
+      "time": 20.87,
+      "time_str": "00:20.870",
+      "text": "If this night is not forever",
+      "translation": "漫漫长夜终将迎来黎明之时"
+    },
+    {
+      "time": 24.28,
+      "time_str": "00:24.280",
+      "text": "At least we are together",
+      "translation": "可我们仍然凝聚在一起"
+    },
+    {
+      "time": 26.73,
+      "time_str": "00:26.730",
+      "text": "I know I'm not alone",
+      "translation": "从未曾孤身一人"
+    },
+    {
+      "time": 29.28,
+      "time_str": "00:29.280",
+      "text": "I know I'm not alone",
+      "translation": "我明白我从未一人"
+    },
+    {
+      "time": 32.06,
+      "time_str": "00:32.060",
+      "text": "Anywhere, whenever",
+      "translation": "无论何时何地"
+    },
+    {
+      "time": 34.23,
+      "time_str": "00:34.230",
+      "text": "Apart but still together",
+      "translation": "身虽远去，心仍凝聚"
+    },
+    {
+      "time": 36.69,
+      "time_str": "00:36.690",
+      "text": "I know I'm not alone",
+      "translation": "从未曾孤身一人"
+    },
+    {
+      "time": 39.15,
+      "time_str": "00:39.150",
+      "text": "I know I'm not alone",
+      "translation": "我明白我从未一人"
+    },
+    {
+      "time": 49.12,
+      "time_str": "00:49.120",
+      "text": "I know I'm not alone",
+      "translation": "我知道我并不孤独"
+    },
+    {
+      "time": 58.98,
+      "time_str": "00:58.980",
+      "text": "I know I'm not alone",
+      "translation": "我知道我并不孤独"
+    },
+    {
+      "time": 64.27,
+      "time_str": "01:04.270",
+      "text": "Unconscious mind",
+      "translation": "麻木的心"
+    },
+    {
+      "time": 70.85,
+      "time_str": "01:10.850",
+      "text": "I'm wide awake",
+      "translation": "全然苏醒"
+    },
+    {
+      "time": 73.42,
+      "time_str": "01:13.420",
+      "text": "Wanna feel one last time",
+      "translation": "请让我最后感受一次"
+    },
+    {
+      "time": 80.57,
+      "time_str": "01:20.570",
+      "text": "Take my pain away",
+      "translation": "这超脱痛苦的感觉"
+    },
+    {
+      "time": 92.57,
+      "time_str": "01:32.570",
+      "text": "If this night is not forever",
+      "translation": "漫漫长夜终将迎来黎明之时"
+    },
+    {
+      "time": 96.04,
+      "time_str": "01:36.040",
+      "text": "At least we are together",
+      "translation": "可我们仍然凝聚在一起"
+    },
+    {
+      "time": 98.55,
+      "time_str": "01:38.550",
+      "text": "I know I'm not alone",
+      "translation": "从未曾孤身一人"
+    },
+    {
+      "time": 100.96,
+      "time_str": "01:40.960",
+      "text": "I know I'm not alone",
+      "translation": "我明白我从未一人"
+    },
+    {
+      "time": 103.78,
+      "time_str": "01:43.780",
+      "text": "Anywhere, whenever",
+      "translation": "无论何时何地"
+    },
+    {
+      "time": 105.94,
+      "time_str": "01:45.940",
+      "text": "Apart but still together",
+      "translation": "身虽远去，心仍凝聚"
+    },
+    {
+      "time": 108.42,
+      "time_str": "01:48.420",
+      "text": "I know I'm not alone",
+      "translation": "从未曾孤身一人"
+    },
+    {
+      "time": 110.85,
+      "time_str": "01:50.850",
+      "text": "I know I'm not alone",
+      "translation": "我明白我从未一人"
+    },
+    {
+      "time": 120.89,
+      "time_str": "02:00.890",
+      "text": "I know I'm not alone",
+      "translation": "我知道我并不孤独"
+    },
+    {
+      "time": 130.68,
+      "time_str": "02:10.680",
+      "text": "I know I'm not alone",
+      "translation": "我知道我并不孤独"
+    },
+    {
+      "time": 135.0,
+      "time_str": "02:15.000",
+      "text": "I'm not alone, I'm not alone",
+      "translation": "我知道我并不孤独，并不是孤身一人"
+    },
+    {
+      "time": 139.95,
+      "time_str": "02:19.950",
+      "text": "I'm not alone, I know I'm not alone",
+      "translation": "我知道我并不孤独，从未曾孤身一人"
+    },
+    {
+      "time": 144.95,
+      "time_str": "02:24.950",
+      "text": "I'm not alone, I'm not alone",
+      "translation": "我知道我并不孤独，并不是孤身一人"
+    },
+    {
+      "time": 149.82,
+      "time_str": "02:29.820",
+      "text": "I'm not alone, I know I'm not alone",
+      "translation": "我知道我并不孤独，从未曾孤身一人"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Alone - Alan Walker.lrc"
+}

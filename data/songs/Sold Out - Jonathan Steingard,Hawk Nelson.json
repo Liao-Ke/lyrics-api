@@ -1,0 +1,478 @@
+{
+  "title": "Sold Out",
+  "title_raw": "Sold Out",
+  "version": null,
+  "artist": "Jonathan Steingard,Hawk Nelson",
+  "group_key": "sold out|jonathan steingard,hawk nelson",
+  "writers": {
+    "lyricist": "Jonathan Steingard",
+    "composer": "Jonathan Steingard",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 15.78,
+      "time_str": "00:15.780",
+      "text": "I ain't like no one you met before",
+      "translation": "我不像你以前认识的任何人"
+    },
+    {
+      "time": 19.62,
+      "time_str": "00:19.620",
+      "text": "I'm running for the front",
+      "translation": "我直面挑战"
+    },
+    {
+      "time": 21.02,
+      "time_str": "00:21.020",
+      "text": "When they're all running for the door",
+      "translation": "而他们只会一味退缩"
+    },
+    {
+      "time": 23.35,
+      "time_str": "00:23.350",
+      "text": "And I won't sit down won't back out",
+      "translation": "我不会停歇 不会逃避"
+    },
+    {
+      "time": 25.69,
+      "time_str": "00:25.690",
+      "text": "You can't ever shut me up",
+      "translation": "没有人能阻止我"
+    },
+    {
+      "time": 27.69,
+      "time_str": "00:27.690",
+      "text": "Cause I'm on a mission",
+      "translation": "因为我在完成一个使命"
+    },
+    {
+      "time": 29.71,
+      "time_str": "00:29.710",
+      "text": "And I won't quit now",
+      "translation": "并且我永不言弃"
+    },
+    {
+      "time": 31.49,
+      "time_str": "00:31.490",
+      "text": "In a world full of followers",
+      "translation": "在一个满是追随者的世界里"
+    },
+    {
+      "time": 33.19,
+      "time_str": "00:33.190",
+      "text": "I'll be a leader",
+      "translation": "我将是一个领导者"
+    },
+    {
+      "time": 35.23,
+      "time_str": "00:35.230",
+      "text": "In a world full of doubters",
+      "translation": "在一个满是怀疑者的世界里"
+    },
+    {
+      "time": 37.12,
+      "time_str": "00:37.120",
+      "text": "I'll be a believer",
+      "translation": "我将是一个信仰者"
+    },
+    {
+      "time": 40.23,
+      "time_str": "00:40.230",
+      "text": "I'm stepping out without a hesitation",
+      "translation": "我会毫不犹豫的离开"
+    },
+    {
+      "time": 43.73,
+      "time_str": "00:43.730",
+      "text": "Because the battle's already been won",
+      "translation": "因为战役已经取得了胜利"
+    },
+    {
+      "time": 47.34,
+      "time_str": "00:47.340",
+      "text": "I'm sold out",
+      "translation": "我无畏向前"
+    },
+    {
+      "time": 49.52,
+      "time_str": "00:49.520",
+      "text": "I'm no longer living",
+      "translation": "我再也不会"
+    },
+    {
+      "time": 51.62,
+      "time_str": "00:51.620",
+      "text": "Just for myself",
+      "translation": "只为我自己活着"
+    },
+    {
+      "time": 53.61,
+      "time_str": "00:53.610",
+      "text": "Running after Jesus",
+      "translation": "我追随着耶稣的脚步"
+    },
+    {
+      "time": 55.24,
+      "time_str": "00:55.240",
+      "text": "With my whole heart",
+      "translation": "全心全意地付出"
+    },
+    {
+      "time": 57.74,
+      "time_str": "00:57.740",
+      "text": "And now I'm ready to show",
+      "translation": "我已经准备好出演了"
+    },
+    {
+      "time": 60.688,
+      "time_str": "01:00.688",
+      "text": "I am sold out",
+      "translation": "我无畏向前"
+    },
+    {
+      "time": 63.627,
+      "time_str": "01:03.627",
+      "text": "I'm sold out",
+      "translation": "我无畏向前"
+    },
+    {
+      "time": 65.569,
+      "time_str": "01:05.569",
+      "text": "With every single",
+      "translation": "现在我迈出的"
+    },
+    {
+      "time": 67.188,
+      "time_str": "01:07.188",
+      "text": "Step that I take now",
+      "translation": "每一步"
+    },
+    {
+      "time": 69.4,
+      "time_str": "01:09.400",
+      "text": "With every drop of blood",
+      "translation": "每一滴流在"
+    },
+    {
+      "time": 70.808,
+      "time_str": "01:10.808",
+      "text": "Left in my veins",
+      "translation": "血管里的鲜血"
+    },
+    {
+      "time": 72.489,
+      "time_str": "01:12.489",
+      "text": "I'm gonna be making it count",
+      "translation": "都蓄势待发"
+    },
+    {
+      "time": 76.799,
+      "time_str": "01:16.799",
+      "text": "I am sold out",
+      "translation": "我无畏向前"
+    },
+    {
+      "time": 80.019,
+      "time_str": "01:20.019",
+      "text": "This ain't just some temporary phase",
+      "translation": "这不是我一时的豪言壮语"
+    },
+    {
+      "time": 83.68,
+      "time_str": "01:23.680",
+      "text": "You can't face this kind of grace",
+      "translation": "你面对不了这份恩泽"
+    },
+    {
+      "time": 86.099,
+      "time_str": "01:26.099",
+      "text": "And leave the way you came",
+      "translation": "舍弃你来时之路吧"
+    },
+    {
+      "time": 87.858,
+      "time_str": "01:27.858",
+      "text": "This is permanent with intent",
+      "translation": "这份永恒所蕴含的意义"
+    },
+    {
+      "time": 90.188,
+      "time_str": "01:30.188",
+      "text": "And there won't be no stopping it now",
+      "translation": "让我绝不会半途而废"
+    },
+    {
+      "time": 91.62,
+      "time_str": "01:31.620",
+      "text": "I'm on a mission and it's heaven sent",
+      "translation": "我在完成上天赐予我的使命"
+    },
+    {
+      "time": 95.468,
+      "time_str": "01:35.468",
+      "text": "In a world full of followers",
+      "translation": "在一个满是追随者的世界里"
+    },
+    {
+      "time": 97.409,
+      "time_str": "01:37.409",
+      "text": "I'll be a leader",
+      "translation": "我会是一个领导者"
+    },
+    {
+      "time": 99.2,
+      "time_str": "01:39.200",
+      "text": "In a world full of doubters",
+      "translation": "在一个满是怀疑者的世界里"
+    },
+    {
+      "time": 101.049,
+      "time_str": "01:41.049",
+      "text": "I'll be a believer",
+      "translation": "我会是一个信仰者"
+    },
+    {
+      "time": 103.739,
+      "time_str": "01:43.739",
+      "text": "I'm stepping out without a hesitation",
+      "translation": "我坚定不移，勇往直前"
+    },
+    {
+      "time": 107.81,
+      "time_str": "01:47.810",
+      "text": "Cause my soul is like a stadium",
+      "translation": "因为我的灵魂像一个竞技场"
+    },
+    {
+      "time": 111.498,
+      "time_str": "01:51.498",
+      "text": "I'm sold out",
+      "translation": "我无畏向前"
+    },
+    {
+      "time": 113.459,
+      "time_str": "01:53.459",
+      "text": "I'm no longer living",
+      "translation": "我再也不会"
+    },
+    {
+      "time": 115.65,
+      "time_str": "01:55.650",
+      "text": "Just for myself",
+      "translation": "只为自己活着"
+    },
+    {
+      "time": 117.73,
+      "time_str": "01:57.730",
+      "text": "Running after Jesus",
+      "translation": "我义无反顾的追随着耶稣的脚步"
+    },
+    {
+      "time": 119.718,
+      "time_str": "01:59.718",
+      "text": "With my whole heart",
+      "translation": "全心全意地追随我心所信"
+    },
+    {
+      "time": 121.918,
+      "time_str": "02:01.918",
+      "text": "And now I'm ready to shout",
+      "translation": "我已经准备好出演了"
+    },
+    {
+      "time": 124.638,
+      "time_str": "02:04.638",
+      "text": "I am sold out",
+      "translation": "我无畏向前"
+    },
+    {
+      "time": 127.638,
+      "time_str": "02:07.638",
+      "text": "I'm sold out",
+      "translation": "我无畏向前"
+    },
+    {
+      "time": 129.617,
+      "time_str": "02:09.617",
+      "text": "With every single",
+      "translation": "现在我迈出的"
+    },
+    {
+      "time": 131.278,
+      "time_str": "02:11.278",
+      "text": "Step that I take now",
+      "translation": "每一步"
+    },
+    {
+      "time": 133.418,
+      "time_str": "02:13.418",
+      "text": "With every drop of blood",
+      "translation": "每一滴流在"
+    },
+    {
+      "time": 134.738,
+      "time_str": "02:14.738",
+      "text": "Left in my veins",
+      "translation": "血管里的血"
+    },
+    {
+      "time": 137.808,
+      "time_str": "02:17.808",
+      "text": "I'm gonna be making it count",
+      "translation": "我都会奋力拼搏"
+    },
+    {
+      "time": 140.897,
+      "time_str": "02:20.897",
+      "text": "I am sold out",
+      "translation": "我将为之奉献一切"
+    },
+    {
+      "time": 145.158,
+      "time_str": "02:25.158",
+      "text": "No trials coming against me",
+      "translation": "没有审判能阻止我"
+    },
+    {
+      "time": 149.177,
+      "time_str": "02:29.177",
+      "text": "Could put a dent in my passion",
+      "translation": "给我的热情以打击"
+    },
+    {
+      "time": 153.009,
+      "time_str": "02:33.009",
+      "text": "They're just an opportunity",
+      "translation": "它们只是一个机会"
+    },
+    {
+      "time": 157.068,
+      "time_str": "02:37.068",
+      "text": "To put my faith into action",
+      "translation": "来把我的信仰付诸行动"
+    },
+    {
+      "time": 159.718,
+      "time_str": "02:39.718",
+      "text": "In a world full of followers",
+      "translation": "在一个满是追随者的世界里"
+    },
+    {
+      "time": 161.298,
+      "time_str": "02:41.298",
+      "text": "I'll be a leader",
+      "translation": "我将是一个领导者"
+    },
+    {
+      "time": 163.318,
+      "time_str": "02:43.318",
+      "text": "In a world full of doubters",
+      "translation": "在一个满是怀疑者的世界里"
+    },
+    {
+      "time": 165.208,
+      "time_str": "02:45.208",
+      "text": "I'll be a believer",
+      "translation": "我将是一个信仰者"
+    },
+    {
+      "time": 168.218,
+      "time_str": "02:48.218",
+      "text": "I'm stepping out without a hesitation",
+      "translation": "我坚定不移，勇往直前"
+    },
+    {
+      "time": 172.078,
+      "time_str": "02:52.078",
+      "text": "I ain't got nothing left to be afraid of",
+      "translation": "我无所畏惧"
+    },
+    {
+      "time": 175.397,
+      "time_str": "02:55.397",
+      "text": "I'm sold out",
+      "translation": "我为之奉献一切"
+    },
+    {
+      "time": 177.498,
+      "time_str": "02:57.498",
+      "text": "I'm no longer living",
+      "translation": "我再也不会"
+    },
+    {
+      "time": 179.199,
+      "time_str": "02:59.199",
+      "text": "Just for myself",
+      "translation": "只为自己活着"
+    },
+    {
+      "time": 181.449,
+      "time_str": "03:01.449",
+      "text": "Running after Jesus",
+      "translation": "追随着耶稣的脚步"
+    },
+    {
+      "time": 183.418,
+      "time_str": "03:03.418",
+      "text": "With my whole heart",
+      "translation": "全心全意追随我的心"
+    },
+    {
+      "time": 185.748,
+      "time_str": "03:05.748",
+      "text": "And now I'm ready to show",
+      "translation": "而且现在我准备好出演了"
+    },
+    {
+      "time": 188.598,
+      "time_str": "03:08.598",
+      "text": "I am sold out",
+      "translation": "我无畏向前"
+    },
+    {
+      "time": 191.617,
+      "time_str": "03:11.617",
+      "text": "I'm sold out",
+      "translation": "我无畏向前"
+    },
+    {
+      "time": 193.788,
+      "time_str": "03:13.788",
+      "text": "With every single",
+      "translation": "现在我迈出的"
+    },
+    {
+      "time": 195.188,
+      "time_str": "03:15.188",
+      "text": "Step that I take now",
+      "translation": "每一步"
+    },
+    {
+      "time": 197.578,
+      "time_str": "03:17.578",
+      "text": "With every drop of blood",
+      "translation": "每一滴流在"
+    },
+    {
+      "time": 199.229,
+      "time_str": "03:19.229",
+      "text": "Left in my veins",
+      "translation": "血管里的血"
+    },
+    {
+      "time": 201.177,
+      "time_str": "03:21.177",
+      "text": "I'm gonna be making it count",
+      "translation": "我都会奋力拼搏，让它们变得不可或缺"
+    },
+    {
+      "time": 204.718,
+      "time_str": "03:24.718",
+      "text": "I am sold out",
+      "translation": "我为之奉献一切"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Sold Out - Jonathan Steingard,Hawk Nelson.lrc"
+}

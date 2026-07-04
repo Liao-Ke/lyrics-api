@@ -1,0 +1,220 @@
+{
+  "title": "眼泪成诗",
+  "title_raw": "眼泪成诗",
+  "version": null,
+  "artist": "孙燕姿",
+  "group_key": "眼泪成诗|孙燕姿",
+  "writers": {
+    "lyricist": "林夕",
+    "composer": "刘宝龙",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 26.49,
+      "time_str": "00:26.490",
+      "text": "我已经",
+      "translation": null
+    },
+    {
+      "time": 28.36,
+      "time_str": "00:28.360",
+      "text": "已经把我伤口化作玫瑰",
+      "translation": null
+    },
+    {
+      "time": 33.15,
+      "time_str": "00:33.150",
+      "text": "我的泪水",
+      "translation": null
+    },
+    {
+      "time": 35.18,
+      "time_str": "00:35.180",
+      "text": "已经变成雨水早已轮回",
+      "translation": null
+    },
+    {
+      "time": 40.0,
+      "time_str": "00:40.000",
+      "text": "我已经",
+      "translation": null
+    },
+    {
+      "time": 42.3,
+      "time_str": "00:42.300",
+      "text": "已经把对白留成了永远",
+      "translation": null
+    },
+    {
+      "time": 46.8,
+      "time_str": "00:46.800",
+      "text": "忘了天色",
+      "translation": null
+    },
+    {
+      "time": 48.88,
+      "time_str": "00:48.880",
+      "text": "究竟是黑是灰",
+      "translation": null
+    },
+    {
+      "time": 52.91,
+      "time_str": "00:52.910",
+      "text": "分手伤了谁",
+      "translation": null
+    },
+    {
+      "time": 56.44,
+      "time_str": "00:56.440",
+      "text": "谁把他变美",
+      "translation": null
+    },
+    {
+      "time": 60.6,
+      "time_str": "01:00.600",
+      "text": "我的眼泪写成了诗已无所谓",
+      "translation": null
+    },
+    {
+      "time": 66.74,
+      "time_str": "01:06.740",
+      "text": "让你再回味",
+      "translation": null
+    },
+    {
+      "time": 69.94,
+      "time_str": "01:09.940",
+      "text": "字不醉人人自醉",
+      "translation": null
+    },
+    {
+      "time": 74.71,
+      "time_str": "01:14.710",
+      "text": "因为回忆总是美",
+      "translation": null
+    },
+    {
+      "time": 112.84,
+      "time_str": "01:52.840",
+      "text": "我已经",
+      "translation": null
+    },
+    {
+      "time": 115.03,
+      "time_str": "01:55.030",
+      "text": "已经把绝情变成了恭维",
+      "translation": null
+    },
+    {
+      "time": 119.46,
+      "time_str": "01:59.460",
+      "text": "因为不配",
+      "translation": null
+    },
+    {
+      "time": 122.5,
+      "time_str": "02:02.500",
+      "text": "你就忽然自卑说声失陪",
+      "translation": null
+    },
+    {
+      "time": 126.4,
+      "time_str": "02:06.400",
+      "text": "我已经",
+      "translation": null
+    },
+    {
+      "time": 128.65,
+      "time_str": "02:08.650",
+      "text": "已经把沉默变成了忏悔",
+      "translation": null
+    },
+    {
+      "time": 133.31,
+      "time_str": "02:13.310",
+      "text": "无路可退",
+      "translation": null
+    },
+    {
+      "time": 134.74,
+      "time_str": "02:14.740",
+      "text": "只能无言以对",
+      "translation": null
+    },
+    {
+      "time": 139.61,
+      "time_str": "02:19.610",
+      "text": "分手伤了谁",
+      "translation": null
+    },
+    {
+      "time": 143.12,
+      "time_str": "02:23.120",
+      "text": "谁把他变美",
+      "translation": null
+    },
+    {
+      "time": 146.18,
+      "time_str": "02:26.180",
+      "text": "我的眼泪写成了诗已无所谓",
+      "translation": null
+    },
+    {
+      "time": 153.12,
+      "time_str": "02:33.120",
+      "text": "让你再回味",
+      "translation": null
+    },
+    {
+      "time": 156.47,
+      "time_str": "02:36.470",
+      "text": "字不醉人人自醉",
+      "translation": null
+    },
+    {
+      "time": 161.229,
+      "time_str": "02:41.229",
+      "text": "因为回忆总是美",
+      "translation": null
+    },
+    {
+      "time": 166.9,
+      "time_str": "02:46.900",
+      "text": "分手伤了谁",
+      "translation": null
+    },
+    {
+      "time": 170.4,
+      "time_str": "02:50.400",
+      "text": "谁把他变美",
+      "translation": null
+    },
+    {
+      "time": 174.18,
+      "time_str": "02:54.180",
+      "text": "我的眼泪写成了诗一首无所谓",
+      "translation": null
+    },
+    {
+      "time": 180.8,
+      "time_str": "03:00.800",
+      "text": "让你再回味",
+      "translation": null
+    },
+    {
+      "time": 184.25,
+      "time_str": "03:04.250",
+      "text": "字不醉人人自醉",
+      "translation": null
+    },
+    {
+      "time": 188.89,
+      "time_str": "03:08.890",
+      "text": "你的品味总是美",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "眼泪成诗 - 孙燕姿.lrc"
+}

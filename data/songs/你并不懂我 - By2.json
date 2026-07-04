@@ -1,0 +1,196 @@
+{
+  "title": "你并不懂我",
+  "title_raw": "你并不懂我",
+  "version": null,
+  "artist": "By2",
+  "group_key": "你并不懂我|by2",
+  "writers": {
+    "lyricist": "彭潇明/杨眼眼/Mr Mars",
+    "composer": "潘沁珈",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 24.56,
+      "time_str": "00:24.560",
+      "text": "原来不爱说 以为你懂得",
+      "translation": null
+    },
+    {
+      "time": 31.07,
+      "time_str": "00:31.070",
+      "text": "每次说着说着 都是我哭了",
+      "translation": null
+    },
+    {
+      "time": 36.88,
+      "time_str": "00:36.880",
+      "text": "我擦干眼泪 慢慢习惯沉默",
+      "translation": null
+    },
+    {
+      "time": 42.44,
+      "time_str": "00:42.440",
+      "text": "朋友聊起 我就说一些别的",
+      "translation": null
+    },
+    {
+      "time": 48.74,
+      "time_str": "00:48.740",
+      "text": "你总是哄我 说永远不分手",
+      "translation": null
+    },
+    {
+      "time": 54.79,
+      "time_str": "00:54.790",
+      "text": "可是我 还不确定会停留",
+      "translation": null
+    },
+    {
+      "time": 60.65,
+      "time_str": "01:00.650",
+      "text": "终于我看透",
+      "translation": null
+    },
+    {
+      "time": 63.7,
+      "time_str": "01:03.700",
+      "text": "没退路的角落不闪躲",
+      "translation": null
+    },
+    {
+      "time": 71.61,
+      "time_str": "01:11.610",
+      "text": "你并不爱我 怎么会懂我",
+      "translation": null
+    },
+    {
+      "time": 78.4,
+      "time_str": "01:18.400",
+      "text": "你从来就不曾 在乎我的感受",
+      "translation": null
+    },
+    {
+      "time": 85.23,
+      "time_str": "01:25.230",
+      "text": "没兑现过承诺 傻瓜才当温柔",
+      "translation": null
+    },
+    {
+      "time": 91.51,
+      "time_str": "01:31.510",
+      "text": "难过时候 还假装笑着点头",
+      "translation": null
+    },
+    {
+      "time": 97.23,
+      "time_str": "01:37.230",
+      "text": "你并不懂我 怎么能爱我",
+      "translation": null
+    },
+    {
+      "time": 103.12,
+      "time_str": "01:43.120",
+      "text": "曾经我也以为 有你我就足够",
+      "translation": null
+    },
+    {
+      "time": 109.03,
+      "time_str": "01:49.030",
+      "text": "直到发现 原来我不过",
+      "translation": null
+    },
+    {
+      "time": 111.95,
+      "time_str": "01:51.950",
+      "text": "是你用来炫耀的 玩偶",
+      "translation": null
+    },
+    {
+      "time": 115.67,
+      "time_str": "01:55.670",
+      "text": "我好难过 你并不爱我",
+      "translation": null
+    },
+    {
+      "time": 134.77,
+      "time_str": "02:14.770",
+      "text": "你总是哄我 说永远不分手",
+      "translation": null
+    },
+    {
+      "time": 141.61,
+      "time_str": "02:21.610",
+      "text": "可是我 还不确定会停留",
+      "translation": null
+    },
+    {
+      "time": 147.42,
+      "time_str": "02:27.420",
+      "text": "终于我看透 没退路的角落",
+      "translation": null
+    },
+    {
+      "time": 154.64,
+      "time_str": "02:34.640",
+      "text": "不闪躲",
+      "translation": null
+    },
+    {
+      "time": 157.72,
+      "time_str": "02:37.720",
+      "text": "你并不爱我 怎么会懂我",
+      "translation": null
+    },
+    {
+      "time": 163.56,
+      "time_str": "02:43.560",
+      "text": "你从来就不曾 在乎我的感受",
+      "translation": null
+    },
+    {
+      "time": 169.49,
+      "time_str": "02:49.490",
+      "text": "没兑现过承诺 傻瓜才当温柔",
+      "translation": null
+    },
+    {
+      "time": 175.72,
+      "time_str": "02:55.720",
+      "text": "难过时候 还假装笑着点头",
+      "translation": null
+    },
+    {
+      "time": 181.3,
+      "time_str": "03:01.300",
+      "text": "你并不懂我 怎么能爱我",
+      "translation": null
+    },
+    {
+      "time": 187.27,
+      "time_str": "03:07.270",
+      "text": "曾经我也以为 有你我就足够",
+      "translation": null
+    },
+    {
+      "time": 193.13,
+      "time_str": "03:13.130",
+      "text": "直到发现 原来我不过",
+      "translation": null
+    },
+    {
+      "time": 196.11,
+      "time_str": "03:16.110",
+      "text": "是你用来炫耀的 玩偶",
+      "translation": null
+    },
+    {
+      "time": 199.74,
+      "time_str": "03:19.740",
+      "text": "我好难过 你并不爱我",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "你并不懂我 - By2.lrc"
+}

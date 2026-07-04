@@ -1,0 +1,376 @@
+{
+  "title": "Yeah!",
+  "title_raw": "Yeah!",
+  "version": null,
+  "artist": "Usher,Lil Jon,Ludacris",
+  "group_key": "yeah!|usher,lil jon,ludacris",
+  "writers": {
+    "lyricist": "Jonathan \"Lil Jon\" Smith/Sean Garrett/Patrick \"J. Que\" Smith/Chris Bridges/James Phillips/LaMarquis Jefferson",
+    "composer": "Jonathan \"Lil Jon\" Smith/Sean Garrett/Patrick \"J. Que\" Smith/Chris Bridges/James Phillips/LaMarquis Jefferson",
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 4.82,
+      "time_str": "00:04.820",
+      "text": "peace up a town  down!",
+      "translation": "我们在市中心！"
+    },
+    {
+      "time": 7.19,
+      "time_str": "00:07.190",
+      "text": "yeah,ok!lil'jon!",
+      "translation": "准备好了，Lil' Jon！"
+    },
+    {
+      "time": 10.34,
+      "time_str": "00:10.340",
+      "text": "yeah,yeah  yeah,yeah  yeah,yeaah",
+      "translation": "耶"
+    },
+    {
+      "time": 14.28,
+      "time_str": "00:14.280",
+      "text": "yeah,yeah  yeah,yeah  yeah,yeaah",
+      "translation": "耶"
+    },
+    {
+      "time": 19.12,
+      "time_str": "00:19.120",
+      "text": "i'm  in  the  club  with  my  homies,tryna  get  a  lil  v-i,",
+      "translation": "那天在酒吧和我麻吉 想要偷腥找点刺激"
+    },
+    {
+      "time": 22.5,
+      "time_str": "00:22.500",
+      "text": "keep  it  down  on  the  low  key,cause  you  know  how  it  feels.",
+      "translation": "干这档子事儿总是得低调些 因为你懂这个感觉"
+    },
+    {
+      "time": 27.96,
+      "time_str": "00:27.960",
+      "text": "i  said  shorty  she  was  checkin  up  on  me,",
+      "translation": "有个小妞眼睛不停地打量我"
+    },
+    {
+      "time": 30.38,
+      "time_str": "00:30.380",
+      "text": "from  the  game  she  was  spittin  my  ear  you'd  think  that  she  knew  me.",
+      "translation": "她对我咬耳朵的方式 不像是我们才第一次见面"
+    },
+    {
+      "time": 34.2,
+      "time_str": "00:34.200",
+      "text": "so  we  decided  to  chill",
+      "translation": "我决定先摆酷再说"
+    },
+    {
+      "time": 37.0,
+      "time_str": "00:37.000",
+      "text": "conversation  got  heavy,she  had  me  feelin  like  she's  ready  to  blow!",
+      "translation": "后来话题变得越来越难聊 看来她已经全身兴奋了起来"
+    },
+    {
+      "time": 43.03,
+      "time_str": "00:43.030",
+      "text": "（watch  out!,watch  out!）",
+      "translation": "听好了 听好了"
+    },
+    {
+      "time": 46.32,
+      "time_str": "00:46.320",
+      "text": "she  saying  come  get  me,come  get  me,",
+      "translation": "她说 想要就来吧 跟我一起来"
+    },
+    {
+      "time": 49.09,
+      "time_str": "00:49.090",
+      "text": "so  i  got  up  and  followed  her  to  the  floor,she  said  baby  lets  go,",
+      "translation": "所以我跟着她滑进舞池 还说 宝贝来吧"
+    },
+    {
+      "time": 54.71,
+      "time_str": "00:54.710",
+      "text": "when  i  told  her  i  said",
+      "translation": "同时我也告诉她"
+    },
+    {
+      "time": 56.55,
+      "time_str": "00:56.550",
+      "text": "yeah （yeah）shorty  got  down  to  come  and  get  me",
+      "translation": "耶（耶）小妞就让我们开始吧"
+    },
+    {
+      "time": 60.52,
+      "time_str": "01:00.520",
+      "text": "yeah （yeah）i  got  so  caught  up  i  forgot  she  told  me",
+      "translation": "耶（耶）我被你迷得神魂颠倒"
+    },
+    {
+      "time": 65.06,
+      "time_str": "01:05.060",
+      "text": "yeah （yeah）cause  if  my  girl  new  it'd  be  best  to  hold  me",
+      "translation": "耶（耶）早忘了她跟我女友曾经是好姐妹"
+    },
+    {
+      "time": 69.66,
+      "time_str": "01:09.660",
+      "text": "yeah （yeah）next  thing  i  knew  she  was  all  up  on  me  screaming:",
+      "translation": "耶（耶）只记得她贴在我身边说"
+    },
+    {
+      "time": 75.22,
+      "time_str": "01:15.220",
+      "text": "yeah,yeah  yeah,yeah  yeah,yeaah",
+      "translation": "耶！耶！耶！耶！耶~"
+    },
+    {
+      "time": 76.62,
+      "time_str": "01:16.620",
+      "text": "yeah,yeah  yeah,yeah  yeah,yeaah",
+      "translation": "耶！耶！耶！耶！耶~"
+    },
+    {
+      "time": 83.66,
+      "time_str": "01:23.660",
+      "text": "shes  all  up  in  my  head  now,got  me  thinking  that",
+      "translation": "害我现在满脑子都是她 使我在想"
+    },
+    {
+      "time": 86.21,
+      "time_str": "01:26.210",
+      "text": "it  might  good  idea  to  take  her  with  me,",
+      "translation": "该不该把她占为己有"
+    },
+    {
+      "time": 88.81,
+      "time_str": "01:28.810",
+      "text": "cause  she's  ready  to  leave.",
+      "translation": "反正她现在就要跟我走"
+    },
+    {
+      "time": 92.38,
+      "time_str": "01:32.380",
+      "text": "now  i  gotta  keep  it  real  now,cause  on  a  one-to-ten",
+      "translation": "还是我应该要踩煞车 可是她还真是完美无缺"
+    },
+    {
+      "time": 96.05,
+      "time_str": "01:36.050",
+      "text": "she's  a  certified  twenty,and  that  just  aint  me.",
+      "translation": "真不知道是否该更进一步"
+    },
+    {
+      "time": 100.22,
+      "time_str": "01:40.220",
+      "text": "cause  i  don't  know  if  i  take  that  chance  just  where  is  it  gonna  lead,",
+      "translation": "我不知道 我该把握机会 将一切抛到脑後吗"
+    },
+    {
+      "time": 107.43,
+      "time_str": "01:47.430",
+      "text": "but  what  i  do  know  is  the  way  she  dance  makes  shorty  alright  with  me.",
+      "translation": "该怎么办呢 是她火辣的舞姿让我看呆吗"
+    },
+    {
+      "time": 111.41,
+      "time_str": "01:51.410",
+      "text": "the  way  she  getting  low!",
+      "translation": "不过她扭腰摆臀的样子"
+    },
+    {
+      "time": 112.74,
+      "time_str": "01:52.740",
+      "text": "i'm  like  yeah,just  work  that  out  for  me.",
+      "translation": "真让我无法控制"
+    },
+    {
+      "time": 114.53,
+      "time_str": "01:54.530",
+      "text": "she  asked  for  one  more  dance  and  i'm",
+      "translation": "她来邀舞的时候"
+    },
+    {
+      "time": 116.87,
+      "time_str": "01:56.870",
+      "text": "like  yeah,how  the  hell  am  i  supposed  to  leave?",
+      "translation": "打死我也无法拒绝"
+    },
+    {
+      "time": 119.19,
+      "time_str": "01:59.190",
+      "text": "and  i  said",
+      "translation": "我说"
+    },
+    {
+      "time": 119.88,
+      "time_str": "01:59.880",
+      "text": "yeah （yeah）shorty  got  down  to  come  and  get  me",
+      "translation": "耶（耶）小妞就让我们开始吧"
+    },
+    {
+      "time": 124.41,
+      "time_str": "02:04.410",
+      "text": "yeah （yeah）i  got  so  caught  up  i  forgot  she  told  me",
+      "translation": "耶（耶）我被你迷得神魂颠倒"
+    },
+    {
+      "time": 128.95,
+      "time_str": "02:08.950",
+      "text": "yeah （yeah）cause  if  my  girl  new  it'd  be  best  to  hold  me",
+      "translation": "耶（耶）早忘了她跟我女友曾经是好姐妹"
+    },
+    {
+      "time": 133.52,
+      "time_str": "02:13.520",
+      "text": "yeah （yeah）next  thing  i  knew  she  was  all  up  on  me  screaming:",
+      "translation": "耶（耶）只记得她贴在我身边说"
+    },
+    {
+      "time": 139.28,
+      "time_str": "02:19.280",
+      "text": "yeah,yeah  yeah,yeah  yeah,yeaah",
+      "translation": "耶！耶！耶！耶！耶~"
+    },
+    {
+      "time": 142.06,
+      "time_str": "02:22.060",
+      "text": "yeah,yeah  yeah,yeah  yeah,yeaah",
+      "translation": "耶！耶！耶！耶！耶~"
+    },
+    {
+      "time": 146.16,
+      "time_str": "02:26.160",
+      "text": "lil'jon]",
+      "translation": "小乔恩"
+    },
+    {
+      "time": 146.65,
+      "time_str": "02:26.650",
+      "text": "luda!",
+      "translation": "鲁达"
+    },
+    {
+      "time": 147.93,
+      "time_str": "02:27.930",
+      "text": "watch  out!",
+      "translation": "听好了！"
+    },
+    {
+      "time": 148.38,
+      "time_str": "02:28.380",
+      "text": "my  outfit's  ridiculous,in  the  club  lookin'so  conspicuous.",
+      "translation": "我这身行头虽然古怪 到了酒吧里却很拉风"
+    },
+    {
+      "time": 150.83,
+      "time_str": "02:30.830",
+      "text": "and  rowl!these  women  al  on  the  prowl,if  you  hold  the  head  steady",
+      "translation": "想把身边的女孩们 只要抓到诀窍"
+    },
+    {
+      "time": 154.87,
+      "time_str": "02:34.870",
+      "text": "i'm  a  milk  the  cow.",
+      "translation": "就一切搞定啦"
+    },
+    {
+      "time": 156.38,
+      "time_str": "02:36.380",
+      "text": "forget  about  the  game  i'm  a  spit  the  truth,i  won't  stop  till",
+      "translation": "说真的"
+    },
+    {
+      "time": 159.97,
+      "time_str": "02:39.970",
+      "text": "i  get  em  in  they  birthday  suits.",
+      "translation": "我可不只是随便说说而已"
+    },
+    {
+      "time": 162.18,
+      "time_str": "02:42.180",
+      "text": "so  gimmie  the  rhythm  and  it'll  be  off  with  they  clothes,",
+      "translation": "我会让她们脱光身上的衣服"
+    },
+    {
+      "time": 164.84,
+      "time_str": "02:44.840",
+      "text": "then  bend  over  to  the  front  and  touch  your  toes.",
+      "translation": "跟着我饶舌的节奏"
+    },
+    {
+      "time": 171.0,
+      "time_str": "02:51.000",
+      "text": "i  left  the  jag  and  i  took  the  roles,if  they  aint  cutting",
+      "translation": "为了泡妞我会少喝点 还没轮到的"
+    },
+    {
+      "time": 174.56,
+      "time_str": "02:54.560",
+      "text": "then  i  put  em  on  foot  patrol.",
+      "translation": "就先请她们门外等著"
+    },
+    {
+      "time": 176.48,
+      "time_str": "02:56.480",
+      "text": "how  you  like  me  now,when  my  pinky's  valued  over  three  hundred  thousand,",
+      "translation": "我指头上戴的这个千万钻戒 头上戴的这个千万钻戒 肯定会让她们更爱我"
+    },
+    {
+      "time": 179.88,
+      "time_str": "02:59.880",
+      "text": "lets  drank  you  the  one  to  please,ludacris  fill  cups  like  double  d's.",
+      "translation": "我看你就先多喝点 我会招待你特大杯的"
+    },
+    {
+      "time": 183.27,
+      "time_str": "03:03.270",
+      "text": "me  and  ush  once  more  and  we  leave  em  dead,we  want  a  lady  in  the  street",
+      "translation": "我跟亚瑟的魅力无法挡 我们要那种 白天是淑女"
+    },
+    {
+      "time": 187.9,
+      "time_str": "03:07.900",
+      "text": "but  a  freak  in  the  bed  to  say",
+      "translation": "晚上又能变成另一种的..."
+    },
+    {
+      "time": 190.97,
+      "time_str": "03:10.970",
+      "text": "yeah （yeah）shorty  got  down  to  come  and  get  me",
+      "translation": "耶（耶） 小妞就让我们开始吧"
+    },
+    {
+      "time": 195.37,
+      "time_str": "03:15.370",
+      "text": "yeah （yeah）i  got  so  caught  up  i  forgot  she  told  me",
+      "translation": "耶（耶）我被你迷得神魂颠倒"
+    },
+    {
+      "time": 201.91,
+      "time_str": "03:21.910",
+      "text": "yeah （yeah）cause  if  my  girl  new  it'd  be  best  to  hold  me",
+      "translation": "耶（耶）早忘了她跟我女友曾经是好姐妹"
+    },
+    {
+      "time": 206.96,
+      "time_str": "03:26.960",
+      "text": "yeah （yeah）next  thing  i  knew  she  was  all  up  on  me  screaming:",
+      "translation": "耶（耶）只记得她贴在我身边说"
+    },
+    {
+      "time": 209.12,
+      "time_str": "03:29.120",
+      "text": "yeah,yeah  yeah,yeah  yeah,yeaah",
+      "translation": "耶！耶！耶！耶！耶~"
+    },
+    {
+      "time": 210.12,
+      "time_str": "03:30.120",
+      "text": "yeah,yeah  yeah,yeah  yeah,yeaah",
+      "translation": "耶！耶！耶！耶！耶~"
+    }
+  ],
+  "has_translation": true,
+  "source_file": "Yeah! - Usher,Lil Jon,Ludacris.lrc"
+}

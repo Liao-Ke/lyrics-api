@@ -1,0 +1,238 @@
+{
+  "title": "阿里山的姑娘",
+  "title_raw": "阿里山的姑娘",
+  "version": null,
+  "artist": "群星",
+  "group_key": "阿里山的姑娘|群星",
+  "writers": {
+    "lyricist": null,
+    "composer": null,
+    "arranger": null
+  },
+  "lyrics": [
+    {
+      "time": 3.58,
+      "time_str": "00:03.580",
+      "text": "啊......啊......",
+      "translation": null
+    },
+    {
+      "time": 35.94,
+      "time_str": "00:35.94",
+      "text": "高山青 涧水蓝",
+      "translation": null
+    },
+    {
+      "time": 44.0,
+      "time_str": "00:44.00",
+      "text": "阿里山的姑娘美如水呀",
+      "translation": null
+    },
+    {
+      "time": 48.33,
+      "time_str": "00:48.33",
+      "text": "阿里山的少年壮如山啊",
+      "translation": null
+    },
+    {
+      "time": 54.71,
+      "time_str": "00:54.71",
+      "text": "啊......啊啊......",
+      "translation": null
+    },
+    {
+      "time": 63.06,
+      "time_str": "01:03.06",
+      "text": "阿里山的姑娘美如水呀",
+      "translation": null
+    },
+    {
+      "time": 67.32,
+      "time_str": "01:07.32",
+      "text": "阿里山的少年壮如山啊",
+      "translation": null
+    },
+    {
+      "time": 73.74,
+      "time_str": "01:13.74",
+      "text": "高山常青 涧水常蓝",
+      "translation": null
+    },
+    {
+      "time": 81.79,
+      "time_str": "01:21.79",
+      "text": "姑娘和那少年永不分呀",
+      "translation": null
+    },
+    {
+      "time": 85.84,
+      "time_str": "01:25.84",
+      "text": "碧水长围着青山转",
+      "translation": null
+    },
+    {
+      "time": 93.67,
+      "time_str": "01:33.67",
+      "text": "嘿 那里努力海多那呀",
+      "translation": null
+    },
+    {
+      "time": 95.89,
+      "time_str": "01:35.89",
+      "text": "嘿伊呀嘿亚鲁娃哪呀",
+      "translation": null
+    },
+    {
+      "time": 99.49,
+      "time_str": "01:39.49",
+      "text": "荷海呀荷那鲁 娃伊都哎多那呀",
+      "translation": null
+    },
+    {
+      "time": 103.85,
+      "time_str": "01:43.85",
+      "text": "荷海呀",
+      "translation": null
+    },
+    {
+      "time": 104.98,
+      "time_str": "01:44.98",
+      "text": "高山常青 涧水常蓝",
+      "translation": null
+    },
+    {
+      "time": 112.21,
+      "time_str": "01:52.21",
+      "text": "姑娘和那少年永不分呀",
+      "translation": null
+    },
+    {
+      "time": 116.06,
+      "time_str": "01:56.06",
+      "text": "涧水长围着青山转 嘿",
+      "translation": null
+    },
+    {
+      "time": 123.48,
+      "time_str": "02:03.48",
+      "text": "嘿 那里努力海多那呀",
+      "translation": null
+    },
+    {
+      "time": 126.17,
+      "time_str": "02:06.17",
+      "text": "嘿伊呀嘿亚鲁娃哪呀",
+      "translation": null
+    },
+    {
+      "time": 130.33,
+      "time_str": "02:10.33",
+      "text": "荷海呀荷那鲁 娃伊都哎多那呀",
+      "translation": null
+    },
+    {
+      "time": 134.46,
+      "time_str": "02:14.46",
+      "text": "荷海呀",
+      "translation": null
+    },
+    {
+      "time": 135.05,
+      "time_str": "02:15.050",
+      "text": "高山青 涧水蓝",
+      "translation": null
+    },
+    {
+      "time": 142.77,
+      "time_str": "02:22.770",
+      "text": "阿里山的姑娘美如水呀",
+      "translation": null
+    },
+    {
+      "time": 146.77,
+      "time_str": "02:26.770",
+      "text": "阿里山的少年壮如山啊",
+      "translation": null
+    },
+    {
+      "time": 152.68,
+      "time_str": "02:32.680",
+      "text": "啊......啊啊......",
+      "translation": null
+    },
+    {
+      "time": 160.64,
+      "time_str": "02:40.640",
+      "text": "阿里山的姑娘美如水呀",
+      "translation": null
+    },
+    {
+      "time": 164.8,
+      "time_str": "02:44.800",
+      "text": "阿里山的少年壮如山啊",
+      "translation": null
+    },
+    {
+      "time": 170.86,
+      "time_str": "02:50.860",
+      "text": "高山常青 涧水常蓝",
+      "translation": null
+    },
+    {
+      "time": 178.72,
+      "time_str": "02:58.720",
+      "text": "姑娘和那少年永不分呀",
+      "translation": null
+    },
+    {
+      "time": 182.61,
+      "time_str": "03:02.610",
+      "text": "碧水长围着青山转",
+      "translation": null
+    },
+    {
+      "time": 190.04,
+      "time_str": "03:10.040",
+      "text": "嘿 那里努力海多那呀",
+      "translation": null
+    },
+    {
+      "time": 192.89,
+      "time_str": "03:12.890",
+      "text": "嘿伊呀嘿亚鲁娃哪呀",
+      "translation": null
+    },
+    {
+      "time": 195.88,
+      "time_str": "03:15.880",
+      "text": "荷海呀荷那鲁 娃伊都哎多那呀",
+      "translation": null
+    },
+    {
+      "time": 199.47,
+      "time_str": "03:19.470",
+      "text": "荷海呀",
+      "translation": null
+    },
+    {
+      "time": 201.31,
+      "time_str": "03:21.310",
+      "text": "高山常青 涧水常蓝",
+      "translation": null
+    },
+    {
+      "time": 208.76,
+      "time_str": "03:28.760",
+      "text": "姑娘和那少年永不分呀",
+      "translation": null
+    },
+    {
+      "time": 212.69,
+      "time_str": "03:32.690",
+      "text": "涧水长围着青山转 嘿",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "阿里山的姑娘 - 群星.lrc"
+}

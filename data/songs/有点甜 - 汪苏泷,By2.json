@@ -1,0 +1,322 @@
+{
+  "title": "有点甜",
+  "title_raw": "有点甜",
+  "version": null,
+  "artist": "汪苏泷,By2",
+  "group_key": "有点甜|汪苏泷,by2",
+  "writers": {
+    "lyricist": "汪苏泷",
+    "composer": "汪苏泷",
+    "arranger": "金若晨"
+  },
+  "lyrics": [
+    {
+      "time": 17.62,
+      "time_str": "00:17.620",
+      "text": "汪：摘一颗苹果",
+      "translation": null
+    },
+    {
+      "time": 19.49,
+      "time_str": "00:19.490",
+      "text": "等你从门前经过",
+      "translation": null
+    },
+    {
+      "time": 22.37,
+      "time_str": "00:22.370",
+      "text": "送到你的手中帮你解渴",
+      "translation": null
+    },
+    {
+      "time": 25.86,
+      "time_str": "00:25.860",
+      "text": "BY2：像夏天的可乐",
+      "translation": null
+    },
+    {
+      "time": 28.61,
+      "time_str": "00:28.610",
+      "text": "像冬天的可可",
+      "translation": null
+    },
+    {
+      "time": 31.16,
+      "time_str": "00:31.160",
+      "text": "你是对的时间对的角色",
+      "translation": null
+    },
+    {
+      "time": 35.6,
+      "time_str": "00:35.600",
+      "text": "汪：已经约定过",
+      "translation": null
+    },
+    {
+      "time": 37.71,
+      "time_str": "00:37.710",
+      "text": "一起过下个周末",
+      "translation": null
+    },
+    {
+      "time": 40.52,
+      "time_str": "00:40.520",
+      "text": "你的小小情绪对我来说",
+      "translation": null
+    },
+    {
+      "time": 44.2,
+      "time_str": "00:44.200",
+      "text": "BY2：我也不知为何",
+      "translation": null
+    },
+    {
+      "time": 46.95,
+      "time_str": "00:46.950",
+      "text": "伤口还没愈合",
+      "translation": null
+    },
+    {
+      "time": 49.7,
+      "time_str": "00:49.700",
+      "text": "你就这样闯进我的心窝",
+      "translation": null
+    },
+    {
+      "time": 53.78,
+      "time_str": "00:53.780",
+      "text": "是你让我看见干枯沙漠开出花一朵",
+      "translation": null
+    },
+    {
+      "time": 58.58,
+      "time_str": "00:58.580",
+      "text": "汪：是你让我想要每天为你写一首情歌",
+      "translation": null
+    },
+    {
+      "time": 63.128,
+      "time_str": "01:03.128",
+      "text": "BY2：用最浪漫的副歌",
+      "translation": null
+    },
+    {
+      "time": 65.319,
+      "time_str": "01:05.319",
+      "text": "汪：你也轻轻的附和",
+      "translation": null
+    },
+    {
+      "time": 68.06,
+      "time_str": "01:08.060",
+      "text": "合:眼神坚定着我们的选择",
+      "translation": null
+    },
+    {
+      "time": 72.12,
+      "time_str": "01:12.120",
+      "text": "BY2：是你让我的世界从那刻变成粉红色",
+      "translation": null
+    },
+    {
+      "time": 76.739,
+      "time_str": "01:16.739",
+      "text": "汪：是你让我的生活从此都只要你配合",
+      "translation": null
+    },
+    {
+      "time": 81.42,
+      "time_str": "01:21.420",
+      "text": "BY2：爱要精心来雕刻",
+      "translation": null
+    },
+    {
+      "time": 83.73,
+      "time_str": "01:23.730",
+      "text": "汪：我是米开朗基罗",
+      "translation": null
+    },
+    {
+      "time": 86.34,
+      "time_str": "01:26.340",
+      "text": "合：用心刻画最幸福的风格",
+      "translation": null
+    },
+    {
+      "time": 91.078,
+      "time_str": "01:31.078",
+      "text": "BY2：用时间 去思念 爱情有点甜",
+      "translation": null
+    },
+    {
+      "time": 100.26,
+      "time_str": "01:40.260",
+      "text": "这心愿 不会变 爱情有点甜",
+      "translation": null
+    },
+    {
+      "time": 109.099,
+      "time_str": "01:49.099",
+      "text": "汪：已经约定过",
+      "translation": null
+    },
+    {
+      "time": 110.909,
+      "time_str": "01:50.909",
+      "text": "一起过下个周末",
+      "translation": null
+    },
+    {
+      "time": 113.73,
+      "time_str": "01:53.730",
+      "text": "你的小小情绪对我来说",
+      "translation": null
+    },
+    {
+      "time": 117.4,
+      "time_str": "01:57.400",
+      "text": "Miko：我也不知为何",
+      "translation": null
+    },
+    {
+      "time": 120.159,
+      "time_str": "02:00.159",
+      "text": "伤口还没愈合",
+      "translation": null
+    },
+    {
+      "time": 122.718,
+      "time_str": "02:02.718",
+      "text": "你就这样闯进我的心窝",
+      "translation": null
+    },
+    {
+      "time": 127.18,
+      "time_str": "02:07.180",
+      "text": "Yumi：是你让我看见干枯沙漠开出花一朵",
+      "translation": null
+    },
+    {
+      "time": 131.739,
+      "time_str": "02:11.739",
+      "text": "汪：是你让我想要每天为你写一首情歌",
+      "translation": null
+    },
+    {
+      "time": 136.239,
+      "time_str": "02:16.239",
+      "text": "BY2：用最浪漫的副歌",
+      "translation": null
+    },
+    {
+      "time": 138.479,
+      "time_str": "02:18.479",
+      "text": "汪：你也轻轻的附和",
+      "translation": null
+    },
+    {
+      "time": 141.229,
+      "time_str": "02:21.229",
+      "text": "合：眼神坚定着我们的选择",
+      "translation": null
+    },
+    {
+      "time": 145.399,
+      "time_str": "02:25.399",
+      "text": "Miko：是你让我的世界从那刻变成粉红色",
+      "translation": null
+    },
+    {
+      "time": 149.959,
+      "time_str": "02:29.959",
+      "text": "汪：是你让我的生活从此都只要你配合",
+      "translation": null
+    },
+    {
+      "time": 154.579,
+      "time_str": "02:34.579",
+      "text": "Yumi：爱要精心来雕刻",
+      "translation": null
+    },
+    {
+      "time": 156.759,
+      "time_str": "02:36.759",
+      "text": "汪：我是米开朗基罗",
+      "translation": null
+    },
+    {
+      "time": 159.449,
+      "time_str": "02:39.449",
+      "text": "合：用心刻画最幸福的风格",
+      "translation": null
+    },
+    {
+      "time": 163.81,
+      "time_str": "02:43.810",
+      "text": "Yumi：是你让我看见干枯沙漠开出花一朵",
+      "translation": null
+    },
+    {
+      "time": 168.239,
+      "time_str": "02:48.239",
+      "text": "汪：是你让我想要每天为你写一首情歌",
+      "translation": null
+    },
+    {
+      "time": 172.799,
+      "time_str": "02:52.799",
+      "text": "Yumi：用最浪漫的副歌",
+      "translation": null
+    },
+    {
+      "time": 175.229,
+      "time_str": "02:55.229",
+      "text": "汪：你也轻轻的附和",
+      "translation": null
+    },
+    {
+      "time": 177.66,
+      "time_str": "02:57.660",
+      "text": "合：眼神坚定着我们的选择",
+      "translation": null
+    },
+    {
+      "time": 182.039,
+      "time_str": "03:02.039",
+      "text": "BY2：是你让我的世界从那刻变成粉红色",
+      "translation": null
+    },
+    {
+      "time": 186.588,
+      "time_str": "03:06.588",
+      "text": "汪：是你让我的生活从此都只要你配合",
+      "translation": null
+    },
+    {
+      "time": 191.149,
+      "time_str": "03:11.149",
+      "text": "BY2：爱要精心来雕刻",
+      "translation": null
+    },
+    {
+      "time": 193.329,
+      "time_str": "03:13.329",
+      "text": "汪：我是米开朗基罗",
+      "translation": null
+    },
+    {
+      "time": 196.009,
+      "time_str": "03:16.009",
+      "text": "合：用心刻画最幸福的风格",
+      "translation": null
+    },
+    {
+      "time": 200.189,
+      "time_str": "03:20.189",
+      "text": "用心刻画最幸福的风格",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "有点甜 - 汪苏泷,By2.lrc"
+}

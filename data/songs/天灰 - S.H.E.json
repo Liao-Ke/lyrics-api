@@ -1,0 +1,226 @@
+{
+  "title": "天灰",
+  "title_raw": "天灰",
+  "version": null,
+  "artist": "S.H.E",
+  "group_key": "天灰|s.h.e",
+  "writers": {
+    "lyricist": "冯士哲/施人诚",
+    "composer": "冯士哲",
+    "arranger": "董运昌"
+  },
+  "lyrics": [
+    {
+      "time": 26.29,
+      "time_str": "00:26.290",
+      "text": "S：如果你不再出现",
+      "translation": null
+    },
+    {
+      "time": 31.13,
+      "time_str": "00:31.130",
+      "text": "我的世界 还有什么可贵",
+      "translation": null
+    },
+    {
+      "time": 39.26,
+      "time_str": "00:39.260",
+      "text": "E：可惜不够时间",
+      "translation": null
+    },
+    {
+      "time": 44.14,
+      "time_str": "00:44.140",
+      "text": "让我们试验 什么叫永远",
+      "translation": null
+    },
+    {
+      "time": 51.59,
+      "time_str": "00:51.590",
+      "text": "H：想念变成怀念",
+      "translation": null
+    },
+    {
+      "time": 55.21,
+      "time_str": "00:55.210",
+      "text": "心动变成心碎",
+      "translation": null
+    },
+    {
+      "time": 58.7,
+      "time_str": "00:58.700",
+      "text": "偏偏还会关切",
+      "translation": null
+    },
+    {
+      "time": 61.73,
+      "time_str": "01:01.730",
+      "text": "你最后属于谁",
+      "translation": null
+    },
+    {
+      "time": 63.62,
+      "time_str": "01:03.620",
+      "text": "E：我的天空今天有点灰",
+      "translation": null
+    },
+    {
+      "time": 69.93,
+      "time_str": "01:09.930",
+      "text": "S：我的心是个落叶的季节",
+      "translation": null
+    },
+    {
+      "time": 76.53,
+      "time_str": "01:16.530",
+      "text": "E：我不知道 如何度过今夜",
+      "translation": null
+    },
+    {
+      "time": 82.83,
+      "time_str": "01:22.830",
+      "text": "H：所有的灯 早已经全都熄灭",
+      "translation": null
+    },
+    {
+      "time": 117.58,
+      "time_str": "01:57.580",
+      "text": "H：如果你从没出现",
+      "translation": null
+    },
+    {
+      "time": 121.89,
+      "time_str": "02:01.890",
+      "text": "我会不会 觉得快乐一些",
+      "translation": null
+    },
+    {
+      "time": 130.4,
+      "time_str": "02:10.400",
+      "text": "E：可惜残忍时间",
+      "translation": null
+    },
+    {
+      "time": 134.89,
+      "time_str": "02:14.890",
+      "text": "总要把诺言 一点点摧毁",
+      "translation": null
+    },
+    {
+      "time": 142.2,
+      "time_str": "02:22.200",
+      "text": "S：想念变成怀念",
+      "translation": null
+    },
+    {
+      "time": 146.02,
+      "time_str": "02:26.020",
+      "text": "心动变成心碎",
+      "translation": null
+    },
+    {
+      "time": 148.94,
+      "time_str": "02:28.940",
+      "text": "H：偏偏还会关切",
+      "translation": null
+    },
+    {
+      "time": 152.52,
+      "time_str": "02:32.520",
+      "text": "你最后属于谁",
+      "translation": null
+    },
+    {
+      "time": 154.49,
+      "time_str": "02:34.490",
+      "text": "E：我的天空今天有点灰",
+      "translation": null
+    },
+    {
+      "time": 160.94,
+      "time_str": "02:40.940",
+      "text": "H：我的心 是个落叶的季节",
+      "translation": null
+    },
+    {
+      "time": 167.39,
+      "time_str": "02:47.390",
+      "text": "E：我不知道 如何度过今夜",
+      "translation": null
+    },
+    {
+      "time": 173.83,
+      "time_str": "02:53.830",
+      "text": "S：所有的灯 早已经全都熄灭",
+      "translation": null
+    },
+    {
+      "time": 180.38,
+      "time_str": "03:00.380",
+      "text": "合：我的天空今天有点灰",
+      "translation": null
+    },
+    {
+      "time": 184.79,
+      "time_str": "03:04.790",
+      "text": "E：有一点灰",
+      "translation": null
+    },
+    {
+      "time": 186.31,
+      "time_str": "03:06.310",
+      "text": "合：我的心 是个落叶的季节",
+      "translation": null
+    },
+    {
+      "time": 191.48,
+      "time_str": "03:11.480",
+      "text": "E：耶耶",
+      "translation": null
+    },
+    {
+      "time": 193.29,
+      "time_str": "03:13.290",
+      "text": "合：我不知道 如何度过今夜",
+      "translation": null
+    },
+    {
+      "time": 200.12,
+      "time_str": "03:20.120",
+      "text": "所有的灯 早已经全都熄灭",
+      "translation": null
+    },
+    {
+      "time": 204.56,
+      "time_str": "03:24.560",
+      "text": "E：全都熄灭",
+      "translation": null
+    },
+    {
+      "time": 206.57,
+      "time_str": "03:26.570",
+      "text": "H：我的天空今天有点灰",
+      "translation": null
+    },
+    {
+      "time": 212.93,
+      "time_str": "03:32.930",
+      "text": "S：我的心 是个落叶的季节",
+      "translation": null
+    },
+    {
+      "time": 219.05,
+      "time_str": "03:39.050",
+      "text": "E：我不知道 如何度过今夜",
+      "translation": null
+    },
+    {
+      "time": 225.47,
+      "time_str": "03:45.470",
+      "text": "H：所有的灯 早已经全都熄灭",
+      "translation": null
+    }
+  ],
+  "has_translation": false,
+  "source_file": "天灰 - S.H.E.lrc"
+}
