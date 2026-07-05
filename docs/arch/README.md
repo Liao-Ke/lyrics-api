@@ -30,11 +30,12 @@ app/
 ```
 HTTP 请求 → 中间件（日志 pre）
 → FastAPI 路由匹配
-→ Depends(verify_api_key) [鉴权]
-→ Depends(check_rate_limit) [限流，/healthz 除外]
-→ 路由端点
-→ Depends(get_repository) [缓存装饰器 → SqliteSongRepository → sqlite3]
-→ Pydantic 序列化响应
+├─ /healthz 或 / → 直通（无鉴权/限流）
+└─ /api/v1/* → Depends(verify_api_key) [鉴权]
+              → Depends(check_rate_limit) [限流]
+              → 路由端点
+              → Depends(get_repository) [缓存装饰器 → SqliteSongRepository → sqlite3]
+              → Pydantic 序列化响应
 → 中间件（日志 post）
 ```
 
@@ -200,3 +201,33 @@ HTTP 请求 → 中间件（日志 pre）
 **替代方案**：
 - 裸数组（简单但不可扩展，与已有 `SongsPage` 风格不一致）
 - 全部返回裸对象（无元数据，且 `GET /songs` 已用 `SongsPage` 破坏了对称性）
+
+---
+
+### ADR-016: 构建时生成 db 烤入镜像
+
+**决策**：Dockerfile 多阶段构建，builder 阶段跑 `import_songs.py` 生成 `data/lyrics.db`，final 阶段只拷贝 db 文件。镜像自包含，启动即用。
+
+**理由**：
+- 1647 首静态数据，更新频率极低，重新 build 成本可接受
+- 开箱即用，用户无需手动导入数据（符合 ADR-005 单文件部署友好）
+- `data/songs/*.json` 已在 git 中，构建时无需额外下载
+
+**替代方案**：
+- 挂载宿主机 volume（用户需手动导入，开箱体验差）
+- 入口脚本启动时初始化（首次启动慢几秒，且需把 json 烤进镜像）
+
+---
+
+### ADR-017: 落地页挂载 StaticFiles 不鉴权
+
+**决策**：`app.mount("/", StaticFiles(directory="app/static", html=True))` 放在所有路由注册后，`/` 返回落地页 HTML，不鉴权不限流。
+
+**理由**：
+- 落地页是公开介绍层，API 才需鉴权（符合 ADR-001 半开放定位）
+- FastAPI 按注册顺序匹配，路由优先于 StaticFiles，不影响 `/healthz` `/api/v1/*` `/docs`
+- 零依赖，FastAPI 内置支持
+
+**替代方案**：
+- 集成到 FastAPI 路由（需额外路由函数，不如 StaticFiles 简洁）
+- 落地页也鉴权（违背"公开介绍"目的）

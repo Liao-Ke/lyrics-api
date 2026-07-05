@@ -1,0 +1,14 @@
+lrc/
+tests/
+.git/
+.codegraph/
+__pycache__/
+*.pyc
+.env
+data/lyrics.db
+htmlcov/
+.coverage
+.pytest_cache/
+.ruff_cache/
+docs/
+*.md

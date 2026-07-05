@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 from app.config import get_settings, is_insecure
 from app.errors import register_exception_handlers
@@ -28,6 +29,8 @@ def create_app() -> FastAPI:
     app.include_router(songs.router, prefix="/api/v1")
     app.include_router(lyrics.router, prefix="/api/v1")
     app.include_router(search.router, prefix="/api/v1")
+
+    app.mount("/", StaticFiles(directory="app/static", html=True), name="static")
 
     if is_insecure():
         logger.warning(

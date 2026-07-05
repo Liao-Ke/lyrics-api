@@ -4,16 +4,17 @@
 
 ## 项目状态
 
-阶段 0（骨架 + 文档）、阶段1（配置+日志+导入）、阶段2（Repository）、阶段3（HTTP 交叉基础设施）、阶段4（API 端点层）均已完成并提交。执行计划与决策记录在 `docs/arch/README.md`（15 条 ADR）。
+阶段 0（骨架 + 文档）、阶段1（配置+日志+导入）、阶段2（Repository）、阶段3（HTTP 交叉基础设施）、阶段4（API 端点层）、阶段5（容器化部署与落地页）均已完成并提交。执行计划与决策记录在 `docs/arch/README.md`（17 条 ADR）。
 
 ## 数据流
 
 ```
-lrc/*.lrc  →  scripts/clean_lrc.py  →  data/songs/*.json  →  scripts/import_songs.py（待实现）  →  data/lyrics.db
+lrc/*.lrc  →  scripts/clean_lrc.py  →  data/songs/*.json  →  scripts/import_songs.py  →  data/lyrics.db
+└─ 容器构建：Dockerfile builder 阶段 ──→ data/lyrics.db（烤入镜像）
 ```
 
 - `clean_lrc.py` 用相对路径 `../lrc` 和 `../data`，**必须从 `scripts/` 目录运行**：`python scripts/clean_lrc.py`（workdir=scripts/ 也可以）
-- `data/lyrics.db` 是运行时生成物，不提交（已在 `.gitignore`）
+- `data/lyrics.db` 是运行时生成物，不提交（已在 `.gitignore`），容器构建时自动生成
 
 ## 关键约束
 
@@ -43,7 +44,7 @@ ruff check .
 # 裸跑
 python -m app.main
 
-# 容器（待实现）
+# 容器
 podman compose up -d
 ```
 
