@@ -104,6 +104,27 @@ podman tag api-api:rollback api-api:latest
 podman compose up -d
 ```
 
+## 性能基线
+
+基线报告记录在 `docs/perf/baseline-YYYY-MM-DD.md`。每次压测前确认服务运行中：
+
+```bash
+# 裸跑基线
+python scripts/load_test.py --endpoint /healthz --concurrency 100 --duration 10 --markdown
+
+# FTS5 查询计划分析
+python scripts/perf_inspect.py
+```
+
+容器部署下的基线对比：
+
+```bash
+podman compose up -d
+python scripts/load_test.py --url http://localhost:8000 --endpoint /healthz --concurrency 100 --duration 10 --markdown
+```
+
+回归判断：P99 延迟超过上一基线 2 倍或成功率 < 99% 时需排查。
+
 ## 裸跑 vs 容器对照
 
 | 维度 | 裸跑 | 容器 |

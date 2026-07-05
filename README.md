@@ -76,7 +76,7 @@ open http://localhost:8000/docs
     │   ├── repositories/     # 数据访问层
     │   ├── static/           # 落地页
     │   └── auth / ratelimit / middleware / errors / models / config / deps / logging
-├── scripts/      # 工具脚本
+├── scripts/      # 工具脚本（含 load_test.py 性能压测）
 ├── data/         # 歌词数据（JSON + SQLite）
 ├── docs/         # 文档
 ├── Dockerfile    # 多阶段构建
@@ -99,6 +99,9 @@ open http://localhost:8000/docs
 # 运行测试
 pytest --cov --cov-fail-under=80
 
+# 性能压测（需先启动服务）
+python scripts/load_test.py --endpoint /healthz --concurrency 100 --duration 10
+
 # 代码检查
 ruff check .
 ```
@@ -110,3 +113,4 @@ ruff check .
 - [接口文档](docs/api/)（Swagger UI 同步）
 - [数据库设计](docs/db/)
 - [部署方案](docs/deploy/)
+- [性能基线](docs/perf/)

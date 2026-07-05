@@ -269,3 +269,21 @@ HTTP 请求 → 中间件（日志 pre）
 - 引入 OpenTelemetry（单服务过重，YAGNI）
 
 **ponytail:** `make_asgi_app()` 的 ASGI lifespan 与 FastAPI mount 不兼容（prometheus_client 0.25），改用 `generate_latest()` + 内联 route。若未来 prometheus_client 修复 lifespan 兼容（发 PR 或新版），可改回 mount 方式。
+
+---
+
+### ADR-020: 压测用手写 httpx 异步脚本，不引入 locust/k6
+
+**决策**：新增 `scripts/load_test.py`，基于 httpx + asyncio 手写 ~80 行异步发压脚本。不引入 locust、k6 或其他压测框架。
+
+**理由**：
+- locust 引入 gevent/flask 等传递依赖，与项目 asyncio 栈不兼容（需额外配置 gevent 模式），且单只读 API 用不到 web UI
+- k6 是外部二进制，非 pip 管理，需额外安装步骤
+- httpx 已在 `requirements-dev.txt` 中，`asyncio` 是 stdlib，零新增依赖
+- 1647 首静态只读数据的压测场景简单，手写脚本完全覆盖（RPS/百分位/成功率）
+
+**替代方案**：
+- locust（传递依赖，asyncio 不兼容，YAGNI）
+- k6（外部二进制，非 pip 管理）
+
+**ponytail:** 压测脚本未使用 API key 鉴权，/api/v1 端点均为 401 未覆盖。压测前需先 seed 一个 key 并用 `--key <key>` 参数。
