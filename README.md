@@ -1,5 +1,7 @@
 # 歌词API
 
+[![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<owner>/<repo>/actions/workflows/ci.yml)
+
 基于 1647 首华语流行乐 LRC 歌词的半开放查询 API，支持元数据搜索、歌词全文检索、卡拉OK 时间轴定位。
 
 数据来源：`lrc/` 目录下 1647 个 `.lrc` 文件，经 `clean_lrc.py` 清洗为结构化 JSON 后导入 sqlite。

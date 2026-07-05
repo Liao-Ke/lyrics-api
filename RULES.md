@@ -30,6 +30,10 @@
 - **不要通过 Repository 暴露 raw sqlite connection**。auth/ratelimit 读写 `api_keys`/`rate_counters` 表走 `deps.py` 提供的独立共享连接，不污染 Repository 抽象
 - **不要把 `/healthz` 和落地页（`/`）加鉴权/限流**。`/healthz` 是容器探针，落地页是公开介绍，API 才需鉴权
 - **不要在 1-2 字查询上依赖 FTS5 trigram**。trigram 对 3 字以下无匹配，短查询降级为 `text LIKE`
+- **CI 用 docker 不用 podman**。GHA ubuntu-latest 预装 docker 零配置；podman 需 `--storage-driver=vfs` 避免非交互环境下存储驱动失败。Dockerfile 标准，二者构建无差异
+- **lint 必须 gate test/build**。job 间设 `needs: lint`，lint 失败则 test/build 不执行。不并行跑 ruff 和 pytest（lint ~15s，失败后浪费 test 分钟）
+- **不矩阵多 Python 版本**。项目锁定 python:3.12-slim，矩阵增加 CI 耗时和构建复杂度，无实际收益
+- **不引入 codecov 上传**。`pytest --cov --cov-fail-under=80` 本地门槛足够。codecov 增加第三方依赖和 CI 步骤，非开源社区项目不需要 coverage 看板
 
 ## 反模式记录
 
@@ -57,6 +61,11 @@
 
 - **为什么**：`tokenize='trigram'` 仅对 3+ 字查询有效，2 字如"爱你"无匹配
 - **正确做法**：短查询降级为 `text LIKE`，不参与 FTS5 排名
+
+### 不要用 podman 跑 CI 构建（除非有强理由）
+
+- **为什么**：GHA ubuntu-latest runner 预装 podman，但非交互环境下 `podman build` 默认存储驱动（overlay）可能因权限限制失败，需 `--storage-driver=vfs` 才能稳定运行。而 docker 预装且零配置。Dockerfile 为标准多阶段 `FROM python:3.12-slim`，docker 和 podman 行为无差异
+- **正确做法**：CI 中统一用 `docker build`；部署时本地仍用 `podman compose up`（ADR-009 双模式部署）
 
 ## 命名约定
 

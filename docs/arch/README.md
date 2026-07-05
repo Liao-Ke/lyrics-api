@@ -231,3 +231,20 @@ HTTP 请求 → 中间件（日志 pre）
 **替代方案**：
 - 集成到 FastAPI 路由（需额外路由函数，不如 StaticFiles 简洁）
 - 落地页也鉴权（违背"公开介绍"目的）
+
+---
+
+### ADR-018: CI 用 docker 不用 podman，无 CD
+
+**决策**：GitHub Actions CI 工作流，三 job（lint → test ∥ build-smoke），lint 门禁。CI 用 `docker build` 而非 `podman`，不推容器 registry，无 CD（部署仍手动 `podman compose up`）。
+
+**理由**：
+- GHA ubuntu-latest runner 预装 docker，零配置；podman 需 `--storage-driver=vfs` 否则在 CI 下可能失败。Dockerfile 是标准多阶段 `python:3.12-slim`，两个引擎行为无差异
+- 无 CD 是因为用户选择「仅 CI」——部署仍是手动 podman compose，保持部署方式正交
+- 不推 GHCR：当前无需要，将来要推时加一个 job 即可
+- 不矩阵多 Python 版本：项目锁定 3.12
+
+**替代方案**：
+- 用 podman build in CI（GHA podman 有 storage-driver 问题，需额外配置 vfs；收益为零——Dockerfile 相同）
+- 推 GHCR + 自动部署（用户选择不做，YAGNI）
+- 单 job 串行（无 lint 门禁，无并行，无单检查徽章）

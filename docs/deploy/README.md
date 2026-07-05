@@ -67,6 +67,8 @@ podman compose build --no-cache
 podman compose up -d
 ```
 
+> push main 时 CI 自动验证 lint + test + 镜像构建 + 烟测，部署仍手动 `podman compose up -d`。CI 用 docker 构建（GHA 环境），Dockerfile 兼容 docker/podman。
+
 ## 回滚步骤
 
 ```bash
