@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from app.models import LyricLine, Song, SongsPage
+from app.models import LyricLine, RandomLyricLine, Song, SongsPage
 
 
 class SongRepository(ABC):
@@ -29,6 +29,18 @@ class SongRepository(ABC):
     def get_lyric_at_time(
         self, song_id: int, time_sec: float, context: int = 1
     ) -> list[LyricLine]: ...
+
+    @abstractmethod
+    def get_random_line(
+        self,
+        *,
+        artist: str | None = None,
+        writer: str | None = None,
+        version: str | None = None,
+        has_translation: bool | None = None,
+        min_chars: int = 1,
+        max_chars: int = 200,
+    ) -> RandomLyricLine | None: ...
 
     @property
     def cache_size(self) -> int:

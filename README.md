@@ -52,6 +52,7 @@ open http://localhost:8000/docs
 | GET | `/api/v1/songs/{id}` | 单首元数据 |
 | GET | `/api/v1/songs/{id}/lyrics` | 歌词全文，?time= 进入卡拉OK 模式。429 带 `Retry-After` 头，成功响应带 `X-RateLimit-Limit/Remaining/Reset` 三头 |
 | GET | `/api/v1/search?q=` | 统一搜索（标题 / 艺术家 / 作词人 / 歌词正文） |
+| GET | `/api/v1/random` | 随机一句歌词，?format=js 返回可嵌入 JavaScript，?key= 鉴权，?target= 自定义选择器 |
 
 ## 环境变量
 
@@ -73,7 +74,7 @@ open http://localhost:8000/docs
 ├── app/          # FastAPI 应用
     │   ├── main.py           # 入口
     │   ├── metrics.py        # Prometheus 指标定义
-    │   ├── routers/          # 5 个端点
+    │   ├── routers/          # 6 个端点
     │   ├── repositories/     # 数据访问层
     │   ├── static/           # 落地页
     │   └── auth / ratelimit / middleware / errors / models / config / deps / logging

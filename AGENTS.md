@@ -4,7 +4,7 @@
 
 ## 项目状态
 
-阶段 0（骨架 + 文档）、阶段1（配置+日志+导入）、阶段2（Repository）、阶段3（HTTP 交叉基础设施）、阶段4（API 端点层）、阶段5（容器化部署与落地页）、阶段6（CI 流水线）、阶段7a（可观测性增强）、阶段7b（性能压测与基线）、阶段8（安全加固）均已完成并提交。执行计划与决策记录在 `docs/arch/README.md`（21 条 ADR）。
+阶段 0（骨架 + 文档）、阶段1（配置+日志+导入）、阶段2（Repository）、阶段3（HTTP 交叉基础设施）、阶段4（API 端点层）、阶段5（容器化部署与落地页）、阶段6（CI 流水线）、阶段7a（可观测性增强）、阶段7b（性能压测与基线）、阶段8（安全加固）、阶段9（随机歌词）均已完成并提交。执行计划与决策记录在 `docs/arch/README.md`（22 条 ADR）。
 
 ## 数据流
 
@@ -17,10 +17,16 @@ HTTP 请求 → security_headers（post: 设安全响应头）
          → request_logging（pre: set request_id；post: record_request + log）
          → FastAPI 路由匹配
          ├─ /healthz / /metrics / → 直通（无鉴权/限流）
-         └─ /api/v1/* → Depends(verify_api_key) → Depends(check_rate_limit)
-                      │ 超限 → 429 + Retry-After 头 + audit 日志
-                      │ 成功 → X-RateLimit-* 三头
-                      → 路由端点 → Depends(get_repository) → 缓存装饰器 → sqlite3
+         ├─ /api/v1/*（除 /random?format=js）→ Depends(verify_api_key) → Depends(check_rate_limit)
+         │                           │ 超限 → 429 + Retry-After 头 + audit 日志
+         │                           │ 成功 → X-RateLimit-* 三头
+         │                           → 路由端点 → Depends(get_repository) → 缓存装饰器 → sqlite3
+         └─ /api/v1/random?format=js → Depends(verify_api_key_flexible)
+                                      │ Bearer 头优先 → _authenticate
+                                      │ 无 Bearer → ?key= query → _authenticate
+                                      │ 成功 → _enforce_rate_limit → X-RateLimit-* 三头
+                                      │ 超限 → 429
+                                      → get_random_line（不缓存）→ JS IIFE 响应
          → auth_failure / rate_limited / key_issued / key_revoked → audit 日志（loguru JSON stdout）
 ```
 
@@ -40,6 +46,10 @@ HTTP 请求 → security_headers（post: 设安全响应头）
 - **metrics label 不放 key_id**：基数爆炸 + 泄漏使用者身份，违反 ADR-001 半开放定位
 - **path 标签用路由模板**：`request.scope["route"].path`（如 `/songs/{song_id}`），不用 `request.url.path`
 - **/metrics 受 METRICS_ENABLED 开关**：默认开启，部署方可关闭
+- **随机结果不缓存**：`CachingSongRepository.get_random_line` 直接透传不缓存
+- **JS 模式 `?key=` 鉴权仅限 `/api/v1/random?format=js`**：`verify_api_key_flexible` 优先取 Bearer 头，回退 query 参数。应用层日志用 `path`（不含 query）不泄露 key，反代层需自行脱敏
+- **`target` 选择器与歌词文本做双重转义**：嵌入 JS 字符串前对 `\`/`'`/`</`/换行转义，防 XSS 和脚本破坏
+- **`ORDER BY RANDOM()` 全表扫描**：当前万级行可接受，ponytail 标注 ceiling。升级路径：`COUNT` + `OFFSET abs(random())%n`
 
 ## 常用命令
 
@@ -73,6 +83,15 @@ python -m app.main
 
 # 容器
 podman compose up -d
+
+# 随机歌词（JSON 模式）
+curl -H "Authorization: Bearer <key>" http://localhost:8000/api/v1/random
+
+# 随机歌词（JS 模式，query key 鉴权）
+curl "http://localhost:8000/api/v1/random?format=js&key=<key>"
+
+# 随机歌词（筛选歌手 + 字符数范围）
+curl -H "Authorization: Bearer <key>" "http://localhost:8000/api/v1/random?artist=刘德华&min_chars=10&max_chars=50"
 ```
 
 ## 技术栈锁定

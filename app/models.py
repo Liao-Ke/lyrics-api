@@ -44,3 +44,12 @@ class SearchResponse(BaseModel):
     scope: list[str]
     total: int
     items: list[Song]
+
+
+class RandomLyricLine(BaseModel):
+    text: str
+    translation: str | None = None
+    seq: int
+    time_sec: float | None = None
+    time_str: str | None = None
+    song: Song

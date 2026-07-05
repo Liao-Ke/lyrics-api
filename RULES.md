@@ -14,18 +14,19 @@
 ## 代码规范
 
 - **schema.sql 手动管理**，不上 alembic 或其他迁移工具。schema.sql 是真相源
-- **Repository ABC 抽象**：`SongRepository` 定义只读接口，`SqliteSongRepository` 实现。FTS5 trigram 搜索实现锁在 `SqliteSongRepository` 内部，接口只暴露 `search(query, scope)`
+- **Repository ABC 抽象**：`SongRepository` 定义只读接口，`SqliteSongRepository` 实现。FTS5 trigram 搜索实现锁在 `SqliteSongRepository` 内部，接口只暴露 `search(query, scope)`。随机查询用 `get_random_line` 方法（`ORDER BY RANDOM()` + `length()` 过滤），不缓存结果
 - **三层测试**：单元测试重算法正确性，集成测试重端点契约，冒烟测试重关键路径
 - **配置安全**：`API_KEYS_ENABLED=false` 且 `HOST` 非 localhost 时，启动必须打 WARNING 日志
 - **限流是滑动窗口**（`rate_counters` 存每请求时间戳），作为 FastAPI dependency 而非中间件，`/healthz` 不走限流
 - **统一错误格式**：`{"error": {"code": "...", "message": "...", "detail": {...}}}`，错误码大写蛇形
 - **响应包装**：多元素端点用 `XxxResponse` / `XxxPage` 包装对象，单对象端点返回裸模型
-- **Auth 只支持 `Authorization: Bearer`**，HTTPBearer 的 auto_error 必须设为 False + 手动 401（避免 FastAPI 默认返回 HTML）
+- **Auth 只支持 `Authorization: Bearer`**，HTTPBearer 的 auto_error 必须设为 False + 手动 401（避免 FastAPI 默认返回 HTML）。`/api/v1/random?format=js` 是受控例外：额外支持 `?key=` query 参数鉴权（浏览器 `<script>` 标签无法发 Bearer 头），通过 `verify_api_key_flexible` 依赖实现
 
 ## 禁止事项
 
 - **不要引入 ORM**。1647 首静态只读数据，ORM 的 session/relationship 是过度设计
 - **不要引入 Redis 或其他外部缓存**。内存 dict + TTL 1h 够用，将来换 Redis 只需换 `caching.py` 装饰器实现
+- **不要缓存随机结果**。随机查询每次应返回不同结果，`CachingSongRepository` 直接透传 `get_random_line`
 - **不要用固定窗口限流**。固定窗口有边界突刺（59s 和 61s 各 60 次，实际 1s 内 120 次），滑动窗口无此问题
 - **不要把限流做成中间件**。`/healthz` 不该被限流（容器探针高频调用），dependency 方式每端点可选不同策略
 - **不要返回裸数组**。包装对象可扩展，客户端解构一致，OpenAPI schema 更清晰
@@ -44,6 +45,8 @@
 - **不要让 HSTS 默认开启**。HSTS 需反代 TLS 场景，默认 false，通过 `HSTS_ENABLED` 环境变量控制
 - **429 必须设 `Retry-After` 头**，`retry_after_seconds` = 最早请求过期时间（`oldest + 60 - now`），非窗口长度
 - **成功 `/api/v1/*` 响应必须设 `X-RateLimit-Limit/Remaining/Reset`** 三头
+- **不要把 query key 鉴权扩展到非 JS 端点**。`?key=` query 鉴权仅限 `/api/v1/random?format=js`，其他端点必须走 Bearer 头
+- **不要在 JS 输出中嵌入未转义的 `target` 或歌词文本**。`target` 来自不可信 query 参数，歌词文本来自数据库，嵌入 JS 字符串前必须做 `\`/`'`/`</`/换行转义
 
 ## 反模式记录
 
@@ -87,6 +90,16 @@
 - **为什么**：`now - window_start = now - (now - 60) = 60`，恒等于窗口长度，不反映实际最早请求过期时间
 - **正确做法**：`retry_after = max(1, int(oldest + 60 - now) + 1)`，其中 `oldest = MIN(request_at)` 在窗口内
 
+### 不要依赖 ORDER BY RANDOM() 在百万级表上
+
+- **为什么**：`ORDER BY RANDOM() LIMIT 1` 在 SQLite 中会全表扫描，对当前万级行歌词表可接受，但扩展到百万级时性能不可接受
+- **正确做法**：当前万级可接受（ponytail: 加注释标注 ceiling）。升级路径：先 `COUNT` 符合条件的行数 N，再 `OFFSET abs(random()) % N` 取一行
+
+### 不要把 JS 模式 query key 鉴权扩展到其他端点
+
+- **为什么**：`?key=` 在 URL 中暴露，应用层日志已脱敏，但反代层可能记录。仅在 `<script>` 标签无法发送 Bearer 头的场景下使用
+- **正确做法**：仅 `/api/v1/random?format=js` 使用 `verify_api_key_flexible`，其他端点保持 Bearer-only
+
 ### 不要用 podman 跑 CI 构建（除非有强理由）
 
 - **为什么**：GHA ubuntu-latest runner 预装 podman，但非交互环境下 `podman build` 默认存储驱动（overlay）可能因权限限制失败，需 `--storage-driver=vfs` 才能稳定运行。而 docker 预装且零配置。Dockerfile 为标准多阶段 `FROM python:3.12-slim`，docker 和 podman 行为无差异
@@ -96,8 +109,8 @@
 
 - **端点版本化**：所有 API 端点以 `/api/v1/` 开头
 - **错误码**：大写蛇形——`UNAUTHORIZED` / `RATE_LIMITED` / `NOT_FOUND` / `VALIDATION_ERROR` / `INTERNAL_ERROR`
-- **Repository 方法**：`get_song`、`list_songs`、`search`、`get_lyrics`、`get_lyric_at_time`
-- **响应模型**：多元素端点用 `XxxResponse`（如 `LyricsResponse`、`SearchResponse`）或 `XxxPage`（如 `SongsPage`），单对象端点返回裸模型（如 `Song`）
+- **Repository 方法**：`get_song`、`list_songs`、`search`、`get_lyrics`、`get_lyric_at_time`、`get_random_line`
+- **响应模型**：多元素端点用 `XxxResponse`（如 `LyricsResponse`、`SearchResponse`）或 `XxxPage`（如 `SongsPage`），单对象端点返回裸模型（如 `Song`、`RandomLyricLine`）
 - **日志 key_id**：鉴权通过时写实际 key_id，401 未鉴权时写 `"anonymous"`
 - **测试文件**：`tests/unit/`、`tests/integration/`、`tests/smoke/` 三层目录，文件名 `test_<模块>.py`
 

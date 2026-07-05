@@ -18,9 +18,10 @@ app/
 │   ├── songs.py     # /api/v1/songs /api/v1/songs/{id}
 │   ├── search.py    # /api/v1/search
 │   ├── lyrics.py    # /api/v1/songs/{id}/lyrics?time=
+│   ├── random.py    # /api/v1/random?format=json|js
 │   └── health.py    # /healthz
 ├── repositories/    # 数据访问层
-│   ├── base.py      # SongRepository ABC 抽象基类
+│   ├── base.py      # SongRepository ABC 抽象基类（含 get_random_line）
 │   ├── sqlite_repo.py  # SqliteSongRepository 实现（FTS5 锁内部）
 │   └── caching.py   # 缓存装饰器（dict + TTL 1h）
 └── static/          # 落地页 index.html
@@ -32,11 +33,15 @@ app/
 HTTP 请求 → 中间件（日志 pre）
 → FastAPI 路由匹配
 ├─ /healthz 或 / → 直通（无鉴权/限流）
-└─ /api/v1/* → Depends(verify_api_key) [鉴权]
-              → Depends(check_rate_limit) [限流]
-              → 路由端点
-              → Depends(get_repository) [缓存装饰器 → SqliteSongRepository → sqlite3]
-              → Pydantic 序列化响应
+├─ /api/v1/* (除 /random?format=js) → Depends(verify_api_key) [鉴权]
+│                                    → Depends(check_rate_limit) [限流]
+│                                    → 路由端点
+│                                    → Depends(get_repository) [缓存装饰器 → SqliteSongRepository → sqlite3]
+│                                    → Pydantic 序列化响应
+└─ /api/v1/random?format=js → Depends(verify_api_key_flexible) [鉴权：Bearer 头优先，回退 ?key=]
+                            → _enforce_rate_limit [限流]
+                            → get_random_line [不缓存]
+                            → JS IIFE 文本响应
 → 中间件（日志 post）
 ```
 
@@ -315,3 +320,22 @@ HTTP 请求 → 中间件（日志 pre）
 - 成功响应不设 `X-RateLimit-*` 头（客户端体验差，DevTools 看不到限流余量）
 
 **ponytail:** `retry_after` 用 `MIN(request_at)` 而非 `OFFSET count - rpm` 查询第 N 旧请求。若 count >> rpm（突发大量请求），实际 retry_after 略大于计算值。60 RPM 下典型 burst ≤ 3，差异在 1-3s 内可接受。若需精确值，改为 `OFFSET count - rpm` 查询。
+
+---
+
+### ADR-022: 随机歌词 JS 模式采用 query 参数传 API key
+
+**决策**：`/api/v1/random?format=js` 端点支持通过 `?key=<api_key>` query 参数传递 API key 作为鉴权方式，优先于 Bearer header 存在时使用 header。
+
+**理由**：
+- 浏览器 `<script src="...">` 标签无法发送自定义 HTTP 头（`Authorization: Bearer`），无法使用标准 Bearer 鉴权
+- 若要求 JS 模式也走 Bearer，则只能通过 `fetch()` 获取 JS 字符串再手动注入，失去"直接可嵌入 `<script>` 标签"的便利性
+- 应用层日志使用 `request.url.path`（不含 query string），`key` 参数不被记录；metrics label 也不含 key_id
+- 反代层（nginx 等）的 access log 默认记录完整 URL，需部署方在 `log_format` 中对 `$args` 脱敏
+
+**替代方案**：
+- JS 端点公开免鉴权（简单但破坏安全模型，ADR-001 半开放定位）
+- JS 端点也走 Bearer（只能用 fetch，无法 `<script src>` 嵌入）
+- 单独一套 IP 限流无需鉴权的公开 JS 端点（复杂度增加，YAGNI）
+
+**ponytail:** `?key=` 暴露在 URL 中，可能被浏览器历史、Referer 头、反代日志记录。应用层已做脱敏，反代层需部署方自行处理。若此风险不可接受，部署方可通过 `API_KEYS_ENABLED=true` 强制 Bearer 鉴权，放弃 JS 模式的 `<script src>` 嵌入能力。

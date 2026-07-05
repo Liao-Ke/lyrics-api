@@ -1,6 +1,6 @@
 import sqlite3
 
-from app.models import LyricLine, Song, SongsPage
+from app.models import LyricLine, RandomLyricLine, Song, SongsPage
 from app.repositories.base import SongRepository
 
 _VALID_SCOPES = frozenset({"title", "artist", "writer", "lyrics"})
@@ -144,6 +144,76 @@ class SqliteSongRepository(SongRepository):
             (song_id, max(0, center - context), center + context),
         ).fetchall()
         return [self._row_to_lyric(r) for r in rows]
+
+    def get_random_line(
+        self,
+        *,
+        artist: str | None = None,
+        writer: str | None = None,
+        version: str | None = None,
+        has_translation: bool | None = None,
+        min_chars: int = 1,
+        max_chars: int = 200,
+    ) -> RandomLyricLine | None:
+        clauses: list[str] = []
+        params: list[str | int] = []
+
+        if artist:
+            clauses.append("s.artist LIKE ?")
+            params.append(f"%{artist}%")
+        if writer:
+            clauses.append(
+                "(s.lyricist LIKE ? OR s.composer LIKE ? OR s.arranger LIKE ?)"
+            )
+            params.extend([f"%{writer}%"] * 3)
+        if version is not None:
+            clauses.append("s.version LIKE ?")
+            params.append(f"%{version}%")
+        if has_translation is not None:
+            clauses.append("s.has_translation = ?")
+            params.append(1 if has_translation else 0)
+            if has_translation:
+                clauses.append("l.translation IS NOT NULL")
+
+        clauses.append("length(l.text) BETWEEN ? AND ?")
+        params.extend([min_chars, max_chars])
+        clauses.append("l.text IS NOT NULL AND l.text != ''")
+
+        where = " AND ".join(clauses)
+
+        row = self._conn.execute(
+            """SELECT l.text, l.translation, l.seq, l.time_sec, l.time_str,
+                      s.id AS song_id, s.title, s.title_raw, s.version, s.artist,
+                      s.lyricist, s.composer, s.arranger, s.has_translation
+               FROM lyrics l
+               JOIN songs s ON l.song_id = s.id
+               WHERE """ + where + """
+               ORDER BY RANDOM() LIMIT 1""",
+            params,
+        ).fetchone()
+
+        if row is None:
+            return None
+
+        song = Song(
+            id=row["song_id"],
+            title=row["title"],
+            title_raw=row["title_raw"],
+            version=row["version"],
+            artist=row["artist"],
+            lyricist=row["lyricist"],
+            composer=row["composer"],
+            arranger=row["arranger"],
+            has_translation=bool(row["has_translation"]),
+        )
+        return RandomLyricLine(
+            text=row["text"],
+            translation=row["translation"],
+            seq=row["seq"],
+            time_sec=row["time_sec"],
+            time_str=row["time_str"],
+            song=song,
+        )
 
     @staticmethod
     def _row_to_song(row: sqlite3.Row) -> Song:

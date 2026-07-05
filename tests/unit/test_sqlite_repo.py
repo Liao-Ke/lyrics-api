@@ -1,4 +1,4 @@
-from app.models import Song, LyricLine, SongsPage
+from app.models import RandomLyricLine, Song, LyricLine, SongsPage
 
 
 def test_get_song_existing(repo):
@@ -170,3 +170,64 @@ def test_get_lyric_at_time_no_song(repo):
 def test_get_lyric_at_time_first_line(repo):
     result = repo.get_lyric_at_time(1, 0.0, context=1)
     assert [ln.seq for ln in result] == [0, 1]
+
+
+def test_get_random_line_default(repo):
+    result = repo.get_random_line()
+    assert isinstance(result, RandomLyricLine)
+    assert result.text
+    assert isinstance(result.song, Song)
+    assert result.song.id in (1, 2, 3)
+
+
+def test_get_random_line_filter_artist(repo):
+    for _ in range(10):
+        result = repo.get_random_line(artist="艺术家1")
+        assert result is not None
+        assert result.song.artist == "艺术家1"
+
+
+def test_get_random_line_filter_artist_no_match(repo):
+    assert repo.get_random_line(artist="不存在") is None
+
+
+def test_get_random_line_filter_writer(repo):
+    for _ in range(10):
+        result = repo.get_random_line(writer="作词人2")
+        assert result is not None
+        assert result.song.lyricist == "作词人2" or result.song.composer == "作词人2"
+
+
+def test_get_random_line_filter_version(repo):
+    for _ in range(10):
+        result = repo.get_random_line(version="Live")
+        assert result is not None
+        assert result.song.version == "Live"
+
+
+def test_get_random_line_filter_has_translation(repo):
+    for _ in range(10):
+        result = repo.get_random_line(has_translation=True)
+        assert result is not None
+        assert result.song.has_translation is True
+        assert result.translation is not None
+
+
+def test_get_random_line_char_range_no_match(repo):
+    result = repo.get_random_line(min_chars=10, max_chars=100)
+    assert result is None
+
+
+def test_get_random_line_char_range_narrow(repo):
+    result = repo.get_random_line(min_chars=3, max_chars=3)
+    assert result is not None
+    assert len(result.text) == 3
+
+
+def test_get_random_line_randomness(repo):
+    results = set()
+    for _ in range(50):
+        r = repo.get_random_line()
+        assert r is not None
+        results.add((r.song.id, r.seq))
+    assert len(results) > 1, "should produce different results across calls"

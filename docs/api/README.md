@@ -3,7 +3,7 @@
 ## 通用约定
 
 - **Base URL**: `/api/v1`（`/healthz` 和 `/metrics` 除外）
-- **鉴权**: `Authorization: Bearer <api_key>`，所有 `/api/v1/*` 端点必须
+- **鉴权**: `Authorization: Bearer <api_key>`，所有 `/api/v1/*` 端点必须。`/api/v1/random?format=js` 额外支持 `?key=<api_key>` query 参数鉴权（浏览器 `<script>` 标签无法发送 Bearer 头，此为受控例外）
 - **限流**: 60 RPM / key（在 `api_keys` 表 `rate_limit_rpm` 配置），`/healthz` 和 `/metrics` 不限流
 - **错误格式**: 统一 `{"error": {"code": "...", "message": "...", "detail": {...}}}`（详见底部错误章节）
 - **可观测性**: `/metrics` 端点不鉴权不限流，`METRICS_ENABLED=false` 时不挂载
@@ -21,6 +21,7 @@
 | GET | `/api/v1/songs/{id}` | 是 | 单首歌曲元数据 |
 | GET | `/api/v1/songs/{id}/lyrics` | 是 | 歌词全文或卡拉OK 时间轴 |
 | GET | `/api/v1/search` | 是 | 统一搜索 |
+| GET | `/api/v1/random` | 是 | 随机一句歌词，?format=js 返回可嵌入 JavaScript，支持筛选与字符数范围 |
 
 ---
 
@@ -247,6 +248,72 @@ Content-Type: text/plain; version=1.0.0; charset=utf-8
 
 ---
 
+## GET /api/v1/random
+
+**说明：** 返回一句随机歌词。支持两种模式：`format=json` 返回 `RandomLyricLine` 结构（含歌词文本 + 歌曲元数据）；`format=js` 返回 `Content-Type: application/javascript` 的自执行脚本，可嵌入页面 `<script src="...">` 直接使用。JS 模式通过 `?key=` 参数鉴权（浏览器 `<script>` 无法发送 `Authorization` 头）。
+
+**请求：**
+
+| 参数 | 位置 | 类型 | 必填 | 默认 | 说明 |
+|------|------|------|------|------|------|
+| format | query | str | 否 | `json` | 响应格式：`json` 或 `js` |
+| key | query | str | 否 | — | API key（JS 模式替代 Bearer 头） |
+| target | query | str | 否 | — | CSS 选择器，JS 模式渲染目标容器。优先级：`?target=` 选择器 → `window.LYRIC_TARGET` → 新建 `div` |
+| min_chars | query | int | 否 | 1 | 歌词文本最小字符数，1-5000 |
+| max_chars | query | int | 否 | 200 | 歌词文本最大字符数，1-5000 |
+| artist | query | str | 否 | — | 歌手模糊匹配（LIKE） |
+| writer | query | str | 否 | — | 作词/作曲/编曲人模糊匹配（OR LIKE） |
+| version | query | str | 否 | — | 版本模糊匹配（LIKE，如 `Live`） |
+| has_translation | query | bool | 否 | — | 筛选有/无翻译的歌词行 |
+
+**成功响应（JSON 模式）:** `200 OK`
+
+```json
+{
+  "text": "暗里着迷",
+  "translation": "secretly",
+  "seq": 1,
+  "time_sec": 5.0,
+  "time_str": "00:05.000",
+  "song": {
+    "id": 1,
+    "title": "测试A",
+    "title_raw": "测试A",
+    "version": null,
+    "artist": "艺术家1",
+    "lyricist": "作词人1",
+    "composer": "作曲人1",
+    "arranger": "编曲人1",
+    "has_translation": false
+  }
+}
+```
+
+**成功响应（JS 模式）:** `200 OK`
+
+```
+Content-Type: application/javascript
+Cache-Control: no-store
+```
+
+自执行 IIFE 将歌词注入页面。目标容器选择优先级：`?target=` 参数 → `window.LYRIC_TARGET` 全局变量 → 新建 `div`。歌词文本与 `target` 选择器均做 JS 字符串 + HTML 双重转义防止 XSS。
+
+```javascript
+(function(){var d={text:'暗里着迷',title:'测试A',artist:'艺术家1',translation:null};var sel='';var el=sel?document.querySelector(sel):null;if(!el){el=document.createElement('div');document.body.appendChild(el);}el.className='lyric-random';el.innerHTML='<p class="lyric-text">「'+d.text+'」</p>'+(d.translation?'<p class="lyric-tr">'+d.translation+'</p>':'')+'<p class="lyric-meta">— '+d.title+' / '+d.artist+'</p>';if(window.onRandomLyric)window.onRandomLyric(d);})()
+```
+
+JS 模式可选回调：定义 `window.onRandomLyric` 函数，注入后收到 `{text, title, artist, translation}` 数据对象。
+
+**错误响应:**
+
+| 状态码 | 错误码 | 触发条件 |
+|--------|--------|----------|
+| 401 | `UNAUTHORIZED` | API key 缺失/无效/吊销（Bearer 或 query key 均可能） |
+| 404 | `NOT_FOUND` | 无匹配筛选条件的歌词行 |
+| 422 | `VALIDATION_ERROR` | `format` 不是 `json` 或 `js` |
+
+---
+
 ## 错误响应
 
 所有 API 端点共享统一错误响应格式。
@@ -267,9 +334,9 @@ Content-Type: text/plain; version=1.0.0; charset=utf-8
 
 | code | HTTP | 触发条件 | detail |
 |------|------|----------|--------|
-| `UNAUTHORIZED` | 401 | API key 缺失、无效、已吊销，或 `Authorization` 头格式错误 | `reason`: `missing_header` / `malformed_header` / `invalid_key` / `revoked_key` |
+| `UNAUTHORIZED` | 401 | API key 缺失、无效、已吊销，或 `Authorization` 头格式错误 | `reason`: `missing_header` / `malformed_header` / `invalid_key` / `revoked_key` / `missing_query_key` / `invalid_query_key` |
 | `RATE_LIMITED` | 429 | 请求频率超过当前 key 的 RPM 上限 | `retry_after_seconds`: 最早请求过期剩余秒数（int）; `limit`: RPM 上限 |
-| `NOT_FOUND` | 404 | 请求的资源（歌曲/歌词）不存在 | `resource_type`: `song` / `lyrics`; `resource_id`: 请求的 ID（str） |
+| `NOT_FOUND` | 404 | 请求的资源（歌曲/歌词）不存在 | `resource_type`: `song` / `lyric`; `resource_id`: 请求的 ID（str） |
 | `VALIDATION_ERROR` | 422 | 请求参数校验失败（类型错误、越界等） | `errors`: `[{field, message}]` |
 | `INTERNAL_ERROR` | 500 | 服务器内部未预期异常 | 仅开发环境含 `debug` 信息，生产环境省略 |
 

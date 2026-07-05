@@ -1,7 +1,7 @@
 import time
 
 from app.metrics import cache_ops_total
-from app.models import LyricLine, Song, SongsPage
+from app.models import LyricLine, RandomLyricLine, Song, SongsPage
 from app.repositories.base import SongRepository
 
 
@@ -69,6 +69,21 @@ class CachingSongRepository(SongRepository):
         result = self._inner.get_lyrics(song_id)
         self._set(key, result)
         return result
+
+    def get_random_line(
+        self,
+        *,
+        artist: str | None = None,
+        writer: str | None = None,
+        version: str | None = None,
+        has_translation: bool | None = None,
+        min_chars: int = 1,
+        max_chars: int = 200,
+    ) -> RandomLyricLine | None:
+        return self._inner.get_random_line(
+            artist=artist, writer=writer, version=version,
+            has_translation=has_translation, min_chars=min_chars, max_chars=max_chars,
+        )
 
     def get_lyric_at_time(self, song_id: int, time_sec: float, context: int = 1) -> list[LyricLine]:
         key = f"get_lyric_at_time:{song_id}:{time_sec}:{context}"

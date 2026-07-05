@@ -10,10 +10,8 @@ from app.logging import logger
 from app.metrics import rate_limited_total
 
 
-def check_rate_limit(
-    response: Response,
-    key: KeyContext = Depends(verify_api_key),
-    conn: sqlite3.Connection = Depends(get_db_conn),
+def _enforce_rate_limit(
+    response: Response, key: KeyContext, conn: sqlite3.Connection,
 ) -> None:
     if key.key_id == "anonymous":
         return
@@ -51,3 +49,11 @@ def check_rate_limit(
         rate_limited_total.inc()
         logger.info("audit", event="rate_limited", key_id=key.key_id, limit=rpm, retry_after_seconds=retry_after)
         raise RateLimitedError(retry_after_seconds=retry_after, limit=rpm)
+
+
+def check_rate_limit(
+    response: Response,
+    key: KeyContext = Depends(verify_api_key),
+    conn: sqlite3.Connection = Depends(get_db_conn),
+) -> None:
+    _enforce_rate_limit(response, key, conn)

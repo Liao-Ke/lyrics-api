@@ -5,7 +5,7 @@ from app.config import get_settings, is_insecure
 from app.errors import register_exception_handlers
 from app.logging import logger, setup_logging
 from app.middleware import register_middleware
-from app.routers import health, lyrics, search, songs
+from app.routers import health, lyrics, random, search, songs
 
 setup_logging()
 
@@ -20,6 +20,7 @@ def create_app() -> FastAPI:
     app.include_router(songs.router, prefix="/api/v1")
     app.include_router(lyrics.router, prefix="/api/v1")
     app.include_router(search.router, prefix="/api/v1")
+    app.include_router(random.router, prefix="/api/v1")
 
     if get_settings().METRICS_ENABLED:
         from fastapi.responses import Response

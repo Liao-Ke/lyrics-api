@@ -98,6 +98,8 @@ scrape_configs:
 
 **审计日志**：安全相关事件（鉴权失败、限流触发、key 签发/吊销）通过 `event` 字段标记（`auth_failure` / `rate_limited` / `key_issued` / `key_revoked`），含 `key_id`、`ip`、`reason` 等结构化字段。与请求日志同流输出，可被日志聚合系统（Loki、ELK 等）按 `event` 字段过滤采集。
 
+**JS 模式 query key 脱敏**：`/api/v1/random?format=js` 支持 `?key=<api_key>` query 参数鉴权。应用层日志 `request_logging` 使用 `request.url.path`（不含 query string），不记录 key 原文。但**反代层（nginx 等）的 access log 默认记录完整 URL**，部署方需在 `log_format` 中对 `$args` 的 `key=` 参数脱敏，避免 key 泄露到日志聚合系统。
+
 ## 回滚步骤
 
 ```bash
