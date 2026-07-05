@@ -4,7 +4,7 @@
 
 ## 项目状态
 
-阶段 0（骨架 + 文档）已完成并提交。`app/` 下所有 `.py` 文件是空壳，业务实现待阶段 1-8。执行计划与决策记录在 `docs/arch/README.md`（12 条 ADR）。
+阶段 0（骨架 + 文档）、阶段1（配置+日志+导入）、阶段2（Repository）、阶段3（HTTP 交叉基础设施）均已完成并提交。执行计划与决策记录在 `docs/arch/README.md`（14 条 ADR）。
 
 ## 数据流
 
@@ -27,6 +27,12 @@ lrc/*.lrc  →  scripts/clean_lrc.py  →  data/songs/*.json  →  scripts/impor
 ```bash
 # 清洗 LRC（从 scripts/ 运行）
 python scripts/clean_lrc.py
+
+# 导入 JSON → SQLite
+python scripts/import_songs.py
+
+# 生成 API key
+python scripts/seed_key.py
 
 # 测试（覆盖率门槛 80%）
 pytest --cov --cov-fail-under=80

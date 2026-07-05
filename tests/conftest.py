@@ -1,3 +1,4 @@
+import hashlib
 import os
 import sqlite3
 import tempfile
@@ -54,3 +55,42 @@ def repo():
     yield SqliteSongRepository(path)
 
     os.unlink(path)
+
+
+@pytest.fixture
+def auth_db():
+    """Temp db with schema + api_keys for auth/ratelimit tests."""
+    fd, path = tempfile.mkstemp(suffix=".db")
+    os.close(fd)
+
+    conn = sqlite3.connect(path)
+    conn.executescript(SCHEMA)
+
+    active_hash = hashlib.sha256(b"test-api-key-active").hexdigest()
+    revoked_hash = hashlib.sha256(b"test-api-key-revoked").hexdigest()
+
+    conn.execute(
+        "INSERT INTO api_keys (key_id, key_hash, name, created_at, rate_limit_rpm) "
+        "VALUES (?, ?, ?, datetime('now'), ?)",
+        ("active", active_hash, "active key", 60),
+    )
+    conn.execute(
+        "INSERT INTO api_keys (key_id, key_hash, name, created_at, revoked_at, rate_limit_rpm) "
+        "VALUES (?, ?, ?, datetime('now'), datetime('now'), ?)",
+        ("revoked", revoked_hash, "revoked key", 60),
+    )
+    conn.commit()
+    conn.close()
+
+    yield path
+
+    os.unlink(path)
+
+
+@pytest.fixture
+def auth_conn(auth_db):
+    """Sqlite3 connection (row factory) for the auth db."""
+    conn = sqlite3.connect(auth_db, check_same_thread=False)
+    conn.row_factory = sqlite3.Row
+    yield conn
+    conn.close()

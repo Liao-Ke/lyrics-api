@@ -169,3 +169,18 @@ HTTP 请求 → 中间件（日志 pre）
 **替代方案**：
 - `ABS(time_sec - t)` 取最近行（模拟意义不明——时间点落在两行中间时，最近行不是"正在唱的行"，也不是"将要唱的行"）。
 - 对称补齐（边界处也保证返回 `2*context+1` 行，算法更复杂，且模拟不到真实的"首行之前无上行"体验）。
+
+---
+
+### ADR-014: auth/ratelimit 独立共享 sqlite 连接，不复用 Repository 连接
+
+**决策**：`app/auth.py` 和 `app/ratelimit.py` 不通过 `SongRepository` 访问 `api_keys`/`rate_counters` 表，而是通过 `deps.py` 提供的共享 sqlite3 连接（singleton `get_db_conn`）直接读写。
+
+**理由**：
+- `SongRepository` 接口只暴露歌曲查询方法（get_song/list_songs/search/get_lyrics/get_lyric_at_time），若在其上加 raw 连接访问则泄漏抽象
+- auth/ratelimit 是 API 网关关注点，与歌曲数据访问职责分离
+- 除非将来把 auth 拆成独立服务，否则一个共享连接足够（只读+高频短查询，无写入竞争）
+
+**替代方案**：
+- 通过 `SongRepository` 暴露 raw connection（泄漏抽象，违反接口隔离）
+- 每请求创建新连接（sqlite 连接开销虽小，1647 RPS 时仍有浪费）

@@ -57,6 +57,13 @@ UNIQUE(song_id, seq)
 
 PRIMARY KEY (key_id, request_at) — 单调插入，无需额外去重。
 
+### 访问模式
+
+| 表 | 谁读 | 谁写 | 频率 |
+|----|------|------|------|
+| `api_keys` | `auth.verify_api_key` — 每请求按 `key_hash` 查 `revoked_at IS NULL` 的行 | `scripts/seed_key.py` — 手动签发 | 每请求 1 次 R |
+| `rate_counters` | `ratelimit.check_rate_limit` — 每请求 `COUNT WHERE request_at >= now-60s` | 同一 dependency — 每请求 INSERT + DELETE 旧记录 | 每请求 3 次 (INSERT + DELETE + COUNT) |
+
 索引：`idx_rate_counters_key_time(key_id, request_at)` — 窗口计数查询。
 
 ### lyrics_fts（FTS5 虚拟表）

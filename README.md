@@ -13,6 +13,9 @@ pip install -r requirements.txt
 # 导入歌词数据（首次运行）
 python scripts/import_songs.py
 
+# 生成 API key（需要 api_keys 表）
+python scripts/seed_key.py
+
 # 启动服务
 python -m app.main
 
