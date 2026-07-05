@@ -2,11 +2,8 @@
 """LRC 歌词清洗脚本：将 .lrc 文件转换为结构化 JSON"""
 
 import json
-import os
 import re
-import unicodedata
 from pathlib import Path
-from collections import defaultdict
 
 LRC_DIR = Path("../lrc")
 OUTPUT_DIR = Path("../data")

@@ -1,0 +1,46 @@
+# AGENTS.md — 歌词API
+
+全局开发环境、工程原则、任务分级、Git 提交规范见 `~/.config/opencode/AGENTS.md`，本文件只记录本仓库特有的高信号信息。
+
+## 项目状态
+
+阶段 0（骨架 + 文档）已完成并提交。`app/` 下所有 `.py` 文件是空壳，业务实现待阶段 1-8。执行计划与决策记录在 `docs/arch/README.md`（12 条 ADR）。
+
+## 数据流
+
+```
+lrc/*.lrc  →  scripts/clean_lrc.py  →  data/songs/*.json  →  scripts/import_songs.py（待实现）  →  data/lyrics.db
+```
+
+- `clean_lrc.py` 用相对路径 `../lrc` 和 `../data`，**必须从 `scripts/` 目录运行**：`python scripts/clean_lrc.py`（workdir=scripts/ 也可以）
+- `data/lyrics.db` 是运行时生成物，不提交（已在 `.gitignore`）
+
+## 关键约束
+
+- **schema.sql 手动管理，不上 alembic**。Repository ABC 抽象已支持将来换库时再加迁移工具
+- **FTS5 trigram 是 SQLite 专属**，搜索实现锁在 `SqliteSongRepository` 内部，接口只暴露 `search(query, scope)`
+- **限流是滑动窗口**（`rate_counters` 存每请求时间戳），不是固定窗口。作为 FastAPI dependency 而非中间件，`/healthz` 不走限流
+- **配置安全**：`API_KEYS_ENABLED=false` 且 `HOST` 非 localhost 时，启动必须打 WARNING 日志
+
+## 常用命令
+
+```bash
+# 清洗 LRC（从 scripts/ 运行）
+python scripts/clean_lrc.py
+
+# 测试（覆盖率门槛 80%）
+pytest --cov --cov-fail-under=80
+
+# Lint
+ruff check .
+
+# 裸跑（待实现）
+python -m app.main
+
+# 容器（待实现）
+podman compose up -d
+```
+
+## 技术栈锁定
+
+FastAPI + pydantic-settings + loguru + sqlite3 标准库。测试用 pytest + pytest-asyncio + httpx + pytest-cov。不引入 ORM（SQLModel/SQLAlchemy），不引入 Redis（缓存用内存 dict + TTL）。
