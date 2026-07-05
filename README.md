@@ -1,6 +1,8 @@
 # 歌词API
 
-[![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<owner>/<repo>/actions/workflows/ci.yml)
+[![CI](https://github.com/Liao-Ke/lyrics-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Liao-Ke/lyrics-api/actions/workflows/ci.yml)
+
+> 歌词数据来自公开网络收集，仅供个人学习研究，不用于商业传播。版权归原作者及版权方所有。
 
 基于 1647 首华语流行乐 LRC 歌词的半开放查询 API，支持元数据搜索、歌词全文检索、卡拉OK 时间轴定位。
 
