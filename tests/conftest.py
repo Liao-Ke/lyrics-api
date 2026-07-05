@@ -94,3 +94,24 @@ def auth_conn(auth_db):
     conn.row_factory = sqlite3.Row
     yield conn
     conn.close()
+
+
+@pytest.fixture
+def test_app(repo, auth_db):
+    """FastAPI app with overridden deps for integration/smoke testing."""
+    from app.main import create_app
+    from app.deps import get_db_conn, get_repository
+    from app.repositories.caching import CachingSongRepository
+
+    app = create_app()
+
+    cached_repo = CachingSongRepository(repo)
+    app.dependency_overrides[get_repository] = lambda: cached_repo
+
+    conn = sqlite3.connect(auth_db, check_same_thread=False)
+    conn.row_factory = sqlite3.Row
+    app.dependency_overrides[get_db_conn] = lambda: conn
+
+    yield app
+
+    conn.close()

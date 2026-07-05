@@ -184,3 +184,19 @@ HTTP 请求 → 中间件（日志 pre）
 **替代方案**：
 - 通过 `SongRepository` 暴露 raw connection（泄漏抽象，违反接口隔离）
 - 每请求创建新连接（sqlite 连接开销虽小，1647 RPS 时仍有浪费）
+
+---
+
+### ADR-015: 响应包装对象而非裸数组
+
+**决策**：所有返回多元素的端点使用包装对象：`LyricsResponse(song_id, lyrics, time_sec?, context?)`、`SearchResponse(query, scope, total, items)`、`SongsPage(items, total, page, size)`。单对象端点 `GET /songs/{id}` 返回 `Song`（裸对象）。
+
+**理由**：
+- 包装对象可扩展——未来加 metadata/分页字段无需破坏性变更
+- 客户端解构一致（`data.items` vs `data`）
+- OpenAPI schema 更清晰（`items: [...]` 有显式字段名而非数组作为根元素）
+- `SongsPage` 已开创打包先例，同一接口风格保持内外一致
+
+**替代方案**：
+- 裸数组（简单但不可扩展，与已有 `SongsPage` 风格不一致）
+- 全部返回裸对象（无元数据，且 `GET /songs` 已用 `SongsPage` 破坏了对称性）

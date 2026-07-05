@@ -30,3 +30,17 @@ class SongsPage(BaseModel):
     total: int
     page: int
     size: int
+
+
+class LyricsResponse(BaseModel):
+    song_id: int
+    lyrics: list[LyricLine]
+    time_sec: float | None = None
+    context: int | None = None
+
+
+class SearchResponse(BaseModel):
+    query: str
+    scope: list[str]
+    total: int
+    items: list[Song]

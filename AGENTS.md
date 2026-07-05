@@ -4,7 +4,7 @@
 
 ## 项目状态
 
-阶段 0（骨架 + 文档）、阶段1（配置+日志+导入）、阶段2（Repository）、阶段3（HTTP 交叉基础设施）均已完成并提交。执行计划与决策记录在 `docs/arch/README.md`（14 条 ADR）。
+阶段 0（骨架 + 文档）、阶段1（配置+日志+导入）、阶段2（Repository）、阶段3（HTTP 交叉基础设施）、阶段4（API 端点层）均已完成并提交。执行计划与决策记录在 `docs/arch/README.md`（15 条 ADR）。
 
 ## 数据流
 
@@ -40,7 +40,7 @@ pytest --cov --cov-fail-under=80
 # Lint
 ruff check .
 
-# 裸跑（待实现）
+# 裸跑
 python -m app.main
 
 # 容器（待实现）

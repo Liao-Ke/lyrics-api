@@ -35,9 +35,9 @@ podman compose up -d
 |---|---|---|
 | GET | `/healthz` | 健康检查 |
 | GET | `/api/v1/songs` | 歌曲列表，分页 + 过滤（?title= & ?artist= & ?writer=） |
-| GET | `/api/v1/songs/{id}` | 单首元数据 + 歌词全文 |
+| GET | `/api/v1/songs/{id}` | 单首元数据 |
+| GET | `/api/v1/songs/{id}/lyrics` | 歌词全文，?time= 进入卡拉OK 模式 |
 | GET | `/api/v1/search?q=` | 统一搜索（标题 / 艺术家 / 作词人 / 歌词正文） |
-| GET | `/api/v1/songs/{id}/lyrics?time=xx.xx` | 卡拉OK 模式，当前时间点附近的行 |
 
 ## 技术栈
 
