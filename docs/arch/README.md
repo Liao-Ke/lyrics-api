@@ -8,10 +8,11 @@ app/
 ├── config.py        # pydantic-settings 配置加载 + 安全 WARNING
 ├── deps.py          # 依赖注入链编排（repo / key / rate_limit）
 ├── errors.py        # 自定义异常 + @app.exception_handler 统一 JSON 错误
-├── logging.py       # loguru 配置
-├── middleware.py     # 请求日志中间件（method / path / status / latency / key_id）
-├── auth.py          # API key 鉴权 dependency（verify_api_key）
-├── ratelimit.py     # 滑动窗口限流 dependency（check_rate_limit）
+├── logging.py       # loguru 配置 + request_id contextvar
+├── middleware.py     # 请求日志中间件 + record_request 调用 + request_id 注入
+├── metrics.py       # Prometheus Counter/Histogram 定义 + record_request()
+├── auth.py          # API key 鉴权 dependency（verify_api_key）+ auth_failures counter
+├── ratelimit.py     # 滑动窗口限流 dependency（check_rate_limit）+ rate_limited counter
 ├── models.py        # Pydantic 请求/响应模型
 ├── routers/         # 端点路由
 │   ├── songs.py     # /api/v1/songs /api/v1/songs/{id}
@@ -248,3 +249,23 @@ HTTP 请求 → 中间件（日志 pre）
 - 用 podman build in CI（GHA podman 有 storage-driver 问题，需额外配置 vfs；收益为零——Dockerfile 相同）
 - 推 GHCR + 自动部署（用户选择不做，YAGNI）
 - 单 job 串行（无 lint 门禁，无并行，无单检查徽章）
+
+---
+
+### ADR-019: Metrics 用 prometheus_client，标签不放 key_id
+
+**决策**：引入 `prometheus-client>=0.20` 作为唯一可观测性依赖。`/metrics` 端点以 FastAPI route 方式提供（`generate_latest()` + `CONTENT_TYPE_LATEST`），不鉴权不限流，受 `METRICS_ENABLED` 开关控制（默认 true）。标签策略：`path` 用路由模板（`/songs/{song_id}` 而非 `/songs/1`），不放 `key_id` 作 label。
+
+**理由**：
+- prometheus_client 零传递依赖（纯 Python ~50KB），de-facto 标准，作品集信号强
+- 手写 exposition 格式有边界陷阱（`+Inf` 桶、`_total` 后缀、label 转义、exposition 顺序），flimsier
+- 用 `request.scope["route"].path` 避免路径参数 ID 爆基数；不放 key_id 避免泄漏使用者身份（ADR-001 半开放定位）
+- 不鉴权符合 Prometheus 抓取惯例，标签无 key_id 则无隐私风险
+- `METRICS_ENABLED` 开关给部署方控制权，默认开
+
+**替代方案**：
+- 手写 /metrics（无依赖但 exposition 格式有边界陷阱，flimsier）
+- `/metrics` 加鉴权（Prometheus 抓取需带 key，运维麻烦，违反惯例）
+- 引入 OpenTelemetry（单服务过重，YAGNI）
+
+**ponytail:** `make_asgi_app()` 的 ASGI lifespan 与 FastAPI mount 不兼容（prometheus_client 0.25），改用 `generate_latest()` + 内联 route。若未来 prometheus_client 修复 lifespan 兼容（发 PR 或新版），可改回 mount 方式。

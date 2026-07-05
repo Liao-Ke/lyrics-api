@@ -29,3 +29,7 @@ class SongRepository(ABC):
     def get_lyric_at_time(
         self, song_id: int, time_sec: float, context: int = 1
     ) -> list[LyricLine]: ...
+
+    @property
+    def cache_size(self) -> int:
+        return 0

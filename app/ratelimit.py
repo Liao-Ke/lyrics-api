@@ -6,6 +6,7 @@ from fastapi import Depends
 from app.auth import KeyContext, verify_api_key
 from app.deps import get_db_conn
 from app.errors import RateLimitedError
+from app.metrics import rate_limited_total
 
 
 def check_rate_limit(
@@ -30,4 +31,5 @@ def check_rate_limit(
     conn.commit()
 
     if count > rpm:
+        rate_limited_total.inc()
         raise RateLimitedError(retry_after_seconds=int(now - window_start), limit=rpm)

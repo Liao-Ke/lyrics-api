@@ -45,8 +45,9 @@ open http://localhost:8000/docs
 ## API 端点
 
 | 方法 | 路径 | 说明 |
-|---|---|---|
+|---|---|---|---|
 | GET | `/healthz` | 健康检查 |
+| GET | `/metrics` | Prometheus 指标（`METRICS_ENABLED` 开关） |
 | GET | `/api/v1/songs` | 歌曲列表，分页 + 过滤（?title= & ?artist= & ?writer=） |
 | GET | `/api/v1/songs/{id}` | 单首元数据 |
 | GET | `/api/v1/songs/{id}/lyrics` | 歌词全文，?time= 进入卡拉OK 模式 |
@@ -63,16 +64,18 @@ open http://localhost:8000/docs
 | `CORS_ORIGINS` | CORS 允许源，逗号分隔 | 空（不挂 CORS） |
 | `HOST` | 监听地址 | `127.0.0.1` |
 | `PORT` | 监听端口 | `8000` |
+| `METRICS_ENABLED` | 是否暴露 `/metrics` 端点 | `true` |
 
 ## 项目结构
 
 ```
 ├── app/          # FastAPI 应用
-│   ├── main.py           # 入口
-│   ├── routers/          # 5 个端点
-│   ├── repositories/     # 数据访问层
-│   ├── static/           # 落地页
-│   └── auth / ratelimit / middleware / errors / models / config / deps
+    │   ├── main.py           # 入口
+    │   ├── metrics.py        # Prometheus 指标定义
+    │   ├── routers/          # 5 个端点
+    │   ├── repositories/     # 数据访问层
+    │   ├── static/           # 落地页
+    │   └── auth / ratelimit / middleware / errors / models / config / deps / logging
 ├── scripts/      # 工具脚本
 ├── data/         # 歌词数据（JSON + SQLite）
 ├── docs/         # 文档
@@ -86,7 +89,8 @@ open http://localhost:8000/docs
 - **框架**：FastAPI + Pydantic
 - **数据库**：SQLite3（FTS5 trigram 全文索引）
 - **配置**：pydantic-settings + .env
-- **日志**：loguru
+- **日志**：loguru（JSON 序列化，reqeust_id 关联）
+- **可观测性**：prometheus_client（/metrics 端点）
 - **部署**：Podman 容器 / 裸跑
 
 ## 开发

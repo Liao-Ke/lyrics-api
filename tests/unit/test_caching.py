@@ -58,3 +58,23 @@ class TestCaching:
         l1 = cached.get_lyric_at_time(1, 7.5, context=1)
         l2 = cached.get_lyric_at_time(1, 7.5, context=2)
         assert l2 is not l1
+
+    def test_cache_size_detects_population(self, repo):
+        cached = CachingSongRepository(repo)
+        assert cached.cache_size == 0
+        cached.get_song(1)
+        assert cached.cache_size == 1
+        cached.get_song(2)
+        assert cached.cache_size == 2
+
+    def test_cache_hit_miss_counters(self, repo):
+        from prometheus_client import REGISTRY
+
+        cached = CachingSongRepository(repo)
+        cached.get_song(1)
+        cached.get_song(1)
+
+        hits = REGISTRY.get_sample_value("cache_ops_total", {"method": "get_song", "result": "hit"}) or 0
+        misses = REGISTRY.get_sample_value("cache_ops_total", {"method": "get_song", "result": "miss"}) or 0
+        assert hits >= 1
+        assert misses >= 1

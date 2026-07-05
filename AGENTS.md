@@ -4,13 +4,20 @@
 
 ## 项目状态
 
-阶段 0（骨架 + 文档）、阶段1（配置+日志+导入）、阶段2（Repository）、阶段3（HTTP 交叉基础设施）、阶段4（API 端点层）、阶段5（容器化部署与落地页）、阶段6（CI 流水线）均已完成并提交。执行计划与决策记录在 `docs/arch/README.md`（18 条 ADR）。
+阶段 0（骨架 + 文档）、阶段1（配置+日志+导入）、阶段2（Repository）、阶段3（HTTP 交叉基础设施）、阶段4（API 端点层）、阶段5（容器化部署与落地页）、阶段6（CI 流水线）、阶段7a（可观测性增强）均已完成并提交。执行计划与决策记录在 `docs/arch/README.md`（19 条 ADR）。
 
 ## 数据流
 
 ```
 lrc/*.lrc  →  scripts/clean_lrc.py  →  data/songs/*.json  →  scripts/import_songs.py  →  data/lyrics.db
 └─ 容器构建：Dockerfile builder 阶段 ──→ data/lyrics.db（烤入镜像）
+
+HTTP 请求 → middleware（pre: record_request + request_id）
+         → FastAPI 路由匹配
+         ├─ /healthz / /metrics / → 直通（无鉴权/限流）
+         └─ /api/v1/* → Depends(verify_api_key) → Depends(check_rate_limit)
+                      → 路由端点 → Depends(get_repository) → 缓存装饰器 → sqlite3
+         → middleware（post: record_request + log）
 ```
 
 - `clean_lrc.py` 用相对路径 `../lrc` 和 `../data`，**必须从 `scripts/` 目录运行**：`python scripts/clean_lrc.py`（workdir=scripts/ 也可以）
@@ -22,6 +29,9 @@ lrc/*.lrc  →  scripts/clean_lrc.py  →  data/songs/*.json  →  scripts/impor
 - **FTS5 trigram 是 SQLite 专属**，搜索实现锁在 `SqliteSongRepository` 内部，接口只暴露 `search(query, scope)`
 - **限流是滑动窗口**（`rate_counters` 存每请求时间戳），不是固定窗口。作为 FastAPI dependency 而非中间件，`/healthz` 不走限流
 - **配置安全**：`API_KEYS_ENABLED=false` 且 `HOST` 非 localhost 时，启动必须打 WARNING 日志
+- **metrics label 不放 key_id**：基数爆炸 + 泄漏使用者身份，违反 ADR-001 半开放定位
+- **path 标签用路由模板**：`request.scope["route"].path`（如 `/songs/{song_id}`），不用 `request.url.path`
+- **/metrics 受 METRICS_ENABLED 开关**：默认开启，部署方可关闭
 
 ## 常用命令
 
@@ -50,4 +60,4 @@ podman compose up -d
 
 ## 技术栈锁定
 
-FastAPI + pydantic-settings + loguru + sqlite3 标准库。测试用 pytest + pytest-asyncio + httpx + pytest-cov。不引入 ORM（SQLModel/SQLAlchemy），不引入 Redis（缓存用内存 dict + TTL）。
+FastAPI + pydantic-settings + loguru + sqlite3 标准库 + prometheus_client（仅 metrics）。测试用 pytest + pytest-asyncio + httpx + pytest-cov。不引入 ORM（SQLModel/SQLAlchemy），不引入 Redis（缓存用内存 dict + TTL）。

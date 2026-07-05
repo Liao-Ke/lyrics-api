@@ -2,16 +2,18 @@
 
 ## 通用约定
 
-- **Base URL**: `/api/v1`（`/healthz` 除外）
+- **Base URL**: `/api/v1`（`/healthz` 和 `/metrics` 除外）
 - **鉴权**: `Authorization: Bearer <api_key>`，所有 `/api/v1/*` 端点必须
-- **限流**: 60 RPM / key（在 `api_keys` 表 `rate_limit_rpm` 配置），`/healthz` 不限流
+- **限流**: 60 RPM / key（在 `api_keys` 表 `rate_limit_rpm` 配置），`/healthz` 和 `/metrics` 不限流
 - **错误格式**: 统一 `{"error": {"code": "...", "message": "...", "detail": {...}}}`（详见底部错误章节）
+- **可观测性**: `/metrics` 端点不鉴权不限流，`METRICS_ENABLED=false` 时不挂载
 
 ## 接口清单
 
 | 方法 | 路径 | 鉴权 | 说明 |
 |------|------|------|------|
 | GET | `/healthz` | 否 | 健康检查 |
+| GET | `/metrics` | 否 | Prometheus 指标（`METRICS_ENABLED=true` 时挂载） |
 | GET | `/api/v1/songs` | 是 | 歌曲列表，分页 + 过滤 |
 | GET | `/api/v1/songs/{id}` | 是 | 单首歌曲元数据 |
 | GET | `/api/v1/songs/{id}/lyrics` | 是 | 歌词全文或卡拉OK 时间轴 |
@@ -30,11 +32,48 @@
 ```json
 {
   "status": "ok",
-  "db": "ok"
+  "db": "ok",
+  "songs_total": 1647,
+  "cache_entries": 12,
+  "uptime_seconds": 3600
 }
 ```
 
+| 字段 | 类型 | 说明 |
+|---|---|---|
+| `status` | string | 服务状态，`"ok"` 或 `"error"` |
+| `db` | string | 数据库连接状态，`"ok"` 或 `"error"` |
+| `songs_total` | int | 数据库中的歌曲总数，`-1` 表示查询失败 |
+| `cache_entries` | int | 当前缓存条目数 |
+| `uptime_seconds` | int | 服务启动以来经过的秒数 |
+
 **错误响应:** 数据库不可用时 `db` 字段为 `"error"`，状态码仍为 200（探针需自行判断）。
+
+---
+
+## GET /metrics
+
+**说明：** Prometheus 指标端点。返回 Prometheus text exposition 格式，供 Prometheus 服务器抓取。不经过鉴权/限流，受 `METRICS_ENABLED` 环境变量控制（默认 true）。
+
+**请求：** 无参数
+
+**成功响应:** `200 OK`
+
+```
+Content-Type: text/plain; version=1.0.0; charset=utf-8
+```
+
+暴露的 metric 系列：
+
+| Metric 名 | 类型 | 标签 | 说明 |
+|---|---|---|---|
+| `http_requests_total` | Counter | `method, path, status` | HTTP 请求总数，按方法/路径模板/状态码分组 |
+| `http_request_duration_seconds` | Histogram | `method, path` | 请求延迟分布（秒） |
+| `cache_ops_total` | Counter | `method, result` | 缓存操作数，按方法/结果（hit/miss）分组 |
+| `auth_failures_total` | Counter | `reason` | 鉴权失败次数，按原因（missing_header/malformed_header/invalid_key）分组 |
+| `rate_limited_total` | Counter | 无 | 被限流拒绝的请求总数 |
+
+`path` 标签使用路由模板（如 `/api/v1/songs/{song_id}`），而非实际 URL 路径，避免路径参数导致基数爆炸。所有标签不含 `key_id`，不暴露使用者身份。
 
 ---
 

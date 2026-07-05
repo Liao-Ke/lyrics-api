@@ -45,6 +45,7 @@ python -m app.main
 | `CORS_ORIGINS` | CORS 允许源，逗号分隔 | 空（不挂 CORS） | 否 |
 | `HOST` | 监听地址 | `127.0.0.1` | 否 |
 | `PORT` | 监听端口 | `8000` | 否 |
+| `METRICS_ENABLED` | 是否暴露 `/metrics` 端点 | `true` | 否 |
 
 > **注意：** 容器部署时 `HOST` 必须设为 `0.0.0.0`（docker-compose.yml 已强制覆盖）。裸跑保留 `127.0.0.1` 即仅本地访问。
 
@@ -68,6 +69,28 @@ podman compose up -d
 ```
 
 > push main 时 CI 自动验证 lint + test + 镜像构建 + 烟测，部署仍手动 `podman compose up -d`。CI 用 docker 构建（GHA 环境），Dockerfile 兼容 docker/podman。
+
+## 可观测性
+
+服务启动后 `GET /metrics` 返回 Prometheus 格式指标（默认启用，`METRICS_ENABLED=false` 关闭）。抓取方式：
+
+```bash
+# 使用 Prometheus 容器抓取
+podman run -d --name prometheus -p 9090:9090 \
+  -v $(pwd)/prometheus.yml:/etc/prometheus/prometheus.yml:Z \
+  prom/prometheus
+```
+
+最小 `prometheus.yml` 配置：
+
+```yaml
+scrape_configs:
+  - job_name: lyrics-api
+    static_configs:
+      - targets: ['host.containers.internal:8000']
+```
+
+日志：loguru JSON 格式输出到 stdout，每条日志含 `request_id` 字段用于关联同一请求的相关事件。
 
 ## 回滚步骤
 

@@ -12,6 +12,7 @@ class Settings(BaseSettings):
     CORS_ORIGINS: str = ""
     HOST: str = "127.0.0.1"
     PORT: int = 8000
+    METRICS_ENABLED: bool = True
 
 
 @lru_cache

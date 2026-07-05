@@ -8,6 +8,7 @@ from fastapi.security import HTTPBearer
 from app.config import get_settings, Settings
 from app.deps import get_db_conn
 from app.errors import UnauthorizedError
+from app.metrics import auth_failures_total
 
 _bearer = HTTPBearer(auto_error=False)
 
@@ -32,9 +33,11 @@ def verify_api_key(
         return ANONYMOUS
 
     if creds is None:
+        auth_failures_total.labels(reason="missing_header").inc()
         raise UnauthorizedError("missing_header")
 
     if creds.scheme.lower() != "bearer":
+        auth_failures_total.labels(reason="malformed_header").inc()
         raise UnauthorizedError("malformed_header")
 
     key_hash = hashlib.sha256(creds.credentials.encode()).hexdigest()
@@ -44,6 +47,7 @@ def verify_api_key(
     ).fetchone()
 
     if row is None:
+        auth_failures_total.labels(reason="invalid_key").inc()
         raise UnauthorizedError("invalid_key")
 
     ctx = KeyContext(key_id=row["key_id"], rate_limit_rpm=row["rate_limit_rpm"])

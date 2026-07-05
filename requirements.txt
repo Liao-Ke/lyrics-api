@@ -2,3 +2,4 @@ fastapi>=0.110
 uvicorn[standard]>=0.29
 pydantic-settings>=2.2
 loguru>=0.7
+prometheus-client>=0.20

@@ -34,6 +34,9 @@
 - **lint 必须 gate test/build**。job 间设 `needs: lint`，lint 失败则 test/build 不执行。不并行跑 ruff 和 pytest（lint ~15s，失败后浪费 test 分钟）
 - **不矩阵多 Python 版本**。项目锁定 python:3.12-slim，矩阵增加 CI 耗时和构建复杂度，无实际收益
 - **不引入 codecov 上传**。`pytest --cov --cov-fail-under=80` 本地门槛足够。codecov 增加第三方依赖和 CI 步骤，非开源社区项目不需要 coverage 看板
+- **metrics label 不放 key_id**。基数爆炸 + 泄漏使用者身份，违反 ADR-001 半开放定位
+- **path 指标用路由模板，不用 url.path**。`request.scope["route"].path` 返回 `/songs/{song_id}`，`request.url.path` 返回 `/songs/1`，后者的 ID 导致基数爆炸
+- **不引入 locust / k6 做压测**。手写 httpx 异步脚本够用，locust 引入 gevent/flask 等传递依赖，单只读 API 用不到 web UI
 
 ## 反模式记录
 
@@ -61,6 +64,16 @@
 
 - **为什么**：`tokenize='trigram'` 仅对 3+ 字查询有效，2 字如"爱你"无匹配
 - **正确做法**：短查询降级为 `text LIKE`，不参与 FTS5 排名
+
+### 不要手写 Prometheus exposition format
+
+- **为什么**：Prometheus 文本格式有多个边界情况：`+Inf` 桶在 histogram 中必须正确输出、`_total` 后缀对于 Counter 类型、label 值的转义规则（`\` `\n` `"`）、exposition 顺序（HELP 行必须在 TYPE 行之前）、样本行格式。手写 ~80 行代码容易遗漏这些边界
+- **正确做法**：使用 `prometheus_client` 库的 `generate_latest()` 或 `make_asgi_app()`，它们是标准实现
+
+### 不要在 CI 里跑 load_test（除非有强理由）
+
+- **为什么**：load_test 执行耗时（30s-60s）且结果受 runner 性能影响，不适合作为 CI 门禁。CI 只验证 build 正确性
+- **正确做法**：load_test 在本地或预发布环境按需运行，基线结果写入 `docs/perf/`
 
 ### 不要用 podman 跑 CI 构建（除非有强理由）
 

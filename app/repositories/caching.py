@@ -1,5 +1,6 @@
 import time
 
+from app.metrics import cache_ops_total
 from app.models import LyricLine, Song, SongsPage
 from app.repositories.base import SongRepository
 
@@ -10,14 +11,22 @@ class CachingSongRepository(SongRepository):
         self._ttl = ttl_sec
         self._cache: dict[str, tuple[float, object]] = {}
 
+    @property
+    def cache_size(self) -> int:
+        return len(self._cache)
+
     def _get(self, key: str) -> object | None:
+        method = key.split(":")[0]
         entry = self._cache.get(key)
         if entry is None:
+            cache_ops_total.labels(method=method, result="miss").inc()
             return None
         ts, val = entry
         if time.monotonic() - ts > self._ttl:
             del self._cache[key]
+            cache_ops_total.labels(method=method, result="miss").inc()
             return None
+        cache_ops_total.labels(method=method, result="hit").inc()
         return val
 
     def _set(self, key: str, val: object) -> None:
