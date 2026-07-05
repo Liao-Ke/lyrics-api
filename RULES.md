@@ -8,6 +8,8 @@
 - **部署**：Podman 容器（非 Docker），支持裸跑 `python -m app.main`
 - **Python 运行时**：`/home/Lsk/miniconda3/bin/python`
 - **包管理**：pip，依赖写 `requirements.txt`，不引入 `pyproject.toml` 以外的构建工具
+- **安全响应头手写中间件**，不引 `secure` 库
+- **审计日志走 loguru JSON stdout**，不上 sqlite 表
 
 ## 代码规范
 
@@ -37,6 +39,11 @@
 - **metrics label 不放 key_id**。基数爆炸 + 泄漏使用者身份，违反 ADR-001 半开放定位
 - **path 指标用路由模板，不用 url.path**。`request.scope["route"].path` 返回 `/songs/{song_id}`，`request.url.path` 返回 `/songs/1`，后者的 ID 导致基数爆炸
 - **不引入 locust / k6 做压测**。手写 httpx 异步脚本够用，locust 引入 gevent/flask 等传递依赖，单只读 API 用不到 web UI
+- **不要把审计日志写进 sqlite 表**。审计走 loguru JSON stdout（ADR-021），日志聚合系统采集
+- **不要在 JSON 响应上设 CSP**。CSP 仅对 `media_type="text/html"` 的落地页有效
+- **不要让 HSTS 默认开启**。HSTS 需反代 TLS 场景，默认 false，通过 `HSTS_ENABLED` 环境变量控制
+- **429 必须设 `Retry-After` 头**，`retry_after_seconds` = 最早请求过期时间（`oldest + 60 - now`），非窗口长度
+- **成功 `/api/v1/*` 响应必须设 `X-RateLimit-Limit/Remaining/Reset`** 三头
 
 ## 反模式记录
 
@@ -74,6 +81,11 @@
 
 - **为什么**：load_test 执行耗时（30s-60s）且结果受 runner 性能影响，不适合作为 CI 门禁。CI 只验证 build 正确性
 - **正确做法**：load_test 在本地或预发布环境按需运行，基线结果写入 `docs/perf/`
+
+### 不要用 `int(now - window_start)` 算 retry_after
+
+- **为什么**：`now - window_start = now - (now - 60) = 60`，恒等于窗口长度，不反映实际最早请求过期时间
+- **正确做法**：`retry_after = max(1, int(oldest + 60 - now) + 1)`，其中 `oldest = MIN(request_at)` 在窗口内
 
 ### 不要用 podman 跑 CI 构建（除非有强理由）
 

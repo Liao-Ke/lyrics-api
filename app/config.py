@@ -13,6 +13,7 @@ class Settings(BaseSettings):
     HOST: str = "127.0.0.1"
     PORT: int = 8000
     METRICS_ENABLED: bool = True
+    HSTS_ENABLED: bool = False
 
 
 @lru_cache

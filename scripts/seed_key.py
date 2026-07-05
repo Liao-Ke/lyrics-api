@@ -7,11 +7,15 @@ import sqlite3
 import secrets
 from pathlib import Path
 
+from app.logging import setup_logging, logger
+
 _BASE = Path(__file__).resolve().parent.parent
 DATABASE_PATH = os.environ.get("DATABASE_PATH", str(_BASE / "data" / "lyrics.db"))
 
 
 def main():
+    setup_logging()
+
     name = input("Key name (e.g. dev, friend): ").strip()
     if not name:
         name = "unnamed"
@@ -27,6 +31,8 @@ def main():
     )
     conn.commit()
     conn.close()
+
+    logger.info("audit", event="key_issued", key_id=key_id, name=name)
 
     print(f"API Key: {raw_key}")
     print(f"Key ID: {key_id}")

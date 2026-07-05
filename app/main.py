@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
 from app.config import get_settings, is_insecure
@@ -17,22 +16,12 @@ def create_app() -> FastAPI:
     register_exception_handlers(app)
     register_middleware(app)
 
-    settings = get_settings()
-    if settings.CORS_ORIGINS:
-        origins = [o.strip() for o in settings.CORS_ORIGINS.split(",") if o.strip()]
-        app.add_middleware(
-            CORSMiddleware,
-            allow_origins=origins,
-            allow_methods=["GET"],
-            allow_headers=["Authorization"],
-        )
-
     app.include_router(health.router)
     app.include_router(songs.router, prefix="/api/v1")
     app.include_router(lyrics.router, prefix="/api/v1")
     app.include_router(search.router, prefix="/api/v1")
 
-    if settings.METRICS_ENABLED:
+    if get_settings().METRICS_ENABLED:
         from fastapi.responses import Response
         from prometheus_client import CONTENT_TYPE_LATEST, generate_latest
 
@@ -45,7 +34,7 @@ def create_app() -> FastAPI:
     if is_insecure():
         logger.warning(
             "INSECURE: API_KEYS_ENABLED=false with non-localhost HOST={}",
-            settings.HOST,
+            get_settings().HOST,
         )
 
     return app

@@ -4,11 +4,12 @@ from fastapi.responses import JSONResponse
 
 
 class ApiError(Exception):
-    def __init__(self, code: str, http_status: int, message: str, detail: dict | None = None):
+    def __init__(self, code: str, http_status: int, message: str, detail: dict | None = None, *, headers: dict[str, str] | None = None):
         self.code = code
         self.http_status = http_status
         self.message = message
         self.detail = detail or {}
+        self.headers = headers or {}
 
 
 class NotFoundError(ApiError):
@@ -38,12 +39,15 @@ class UnauthorizedError(ApiError):
 
 
 class RateLimitedError(ApiError):
-    def __init__(self, retry_after_seconds: int, limit: int):
+    def __init__(self, retry_after_seconds: int, limit: int, *, headers: dict[str, str] | None = None):
+        if headers is None:
+            headers = {"Retry-After": str(retry_after_seconds)}
         super().__init__(
             code="RATE_LIMITED",
             http_status=429,
             message="Rate limit exceeded",
             detail={"retry_after_seconds": retry_after_seconds, "limit": limit},
+            headers=headers,
         )
 
 
@@ -72,6 +76,7 @@ def _as_json(error: ApiError) -> JSONResponse:
     return JSONResponse(
         status_code=error.http_status,
         content={"error": {"code": error.code, "message": error.message, "detail": error.detail}},
+        headers=error.headers,
     )
 
 
@@ -92,7 +97,7 @@ def register_exception_handlers(app: FastAPI) -> None:
         elif exc.status_code in (401, 403):
             e = UnauthorizedError("invalid_key")
         elif exc.status_code == 429:
-            e = RateLimitedError(0, 0)
+            e = RateLimitedError(0, 0, headers={})
         elif exc.status_code == 422:
             detail = exc.detail if isinstance(exc.detail, list) else [{"loc": [], "msg": str(exc.detail)}]
             errors = [{"field": ".".join(str(p) for p in d["loc"]), "message": d["msg"]} for d in detail]

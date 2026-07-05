@@ -21,30 +21,41 @@ def _make_app(auth_conn, settings: Settings | None = None):
 
 
 class TestAuth:
-    def test_missing_header(self, auth_conn):
+    def test_missing_header(self, auth_conn, audit_log):
         client = _make_app(auth_conn)
         resp = client.get("/me")
         assert resp.status_code == 401
         assert resp.json()["error"]["detail"]["reason"] == "missing_header"
+        events = [r for r in audit_log if r["record"]["extra"].get("event") == "auth_failure"]
+        assert len(events) == 1
+        assert events[0]["record"]["extra"]["reason"] == "missing_header"
 
-    def test_invalid_key(self, auth_conn):
+    def test_invalid_key(self, auth_conn, audit_log):
         client = _make_app(auth_conn)
         resp = client.get("/me", headers={"Authorization": "Bearer invalid-key"})
         assert resp.status_code == 401
         assert resp.json()["error"]["detail"]["reason"] == "invalid_key"
+        events = [r for r in audit_log if r["record"]["extra"].get("event") == "auth_failure"]
+        assert len(events) == 1
+        assert events[0]["record"]["extra"]["reason"] == "invalid_key"
 
-    def test_revoked_key(self, auth_conn):
+    def test_revoked_key(self, auth_conn, audit_log):
         client = _make_app(auth_conn)
         resp = client.get("/me", headers={"Authorization": "Bearer test-api-key-revoked"})
         assert resp.status_code == 401
         assert resp.json()["error"]["detail"]["reason"] == "invalid_key"
+        events = [r for r in audit_log if r["record"]["extra"].get("event") == "auth_failure"]
+        assert len(events) == 1
+        assert events[0]["record"]["extra"]["reason"] == "invalid_key"
 
-    def test_valid_key(self, auth_conn):
+    def test_valid_key(self, auth_conn, audit_log):
         client = _make_app(auth_conn)
         resp = client.get("/me", headers={"Authorization": "Bearer test-api-key-active"})
         assert resp.status_code == 200
         assert resp.json()["key_id"] == "active"
         assert resp.json()["rpm"] == 60
+        events = [r for r in audit_log if r["record"]["extra"].get("event") == "auth_failure"]
+        assert len(events) == 0
 
     def test_api_keys_disabled(self, auth_conn):
         settings = Settings(DATABASE_PATH="", API_KEYS_ENABLED=False)

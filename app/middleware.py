@@ -1,11 +1,37 @@
 import time
 import uuid
 
+from fastapi.middleware.cors import CORSMiddleware
+
+from app.config import get_settings
 from app.logging import logger, request_id_var
 from app.metrics import record_request
+from app.security_headers import set_security_headers
 
 
 def register_middleware(app):
+    settings = get_settings()
+
+    # security_headers: outermost — applies to all responses
+    @app.middleware("http")
+    async def security_headers(request, call_next):
+        response = await call_next(request)
+        set_security_headers(response, request)
+        return response
+
+    # CORS
+    if settings.CORS_ORIGINS:
+        origins = [o.strip() for o in settings.CORS_ORIGINS.split(",") if o.strip()]
+        app.add_middleware(
+            CORSMiddleware,
+            allow_origins=origins,
+            allow_methods=["GET"],
+            allow_headers=["Authorization"],
+            expose_headers=["Retry-After", "X-RateLimit-Limit", "X-RateLimit-Remaining", "X-RateLimit-Reset"],
+            max_age=600,
+        )
+
+    # request_logging: innermost
     @app.middleware("http")
     async def request_logging(request, call_next):
         request_id = uuid.uuid4().hex[:12]

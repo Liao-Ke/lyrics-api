@@ -29,6 +29,14 @@ class TestRateLimit:
         assert resp.status_code == 200
         assert resp.json() == {"ok": True}
 
+    def test_under_limit_has_rate_limit_headers(self, auth_conn):
+        client = _make_app(auth_conn)
+        resp = client.get("/test", headers={"Authorization": "Bearer test-api-key-active"})
+        assert resp.status_code == 200
+        assert resp.headers.get("X-RateLimit-Limit") == "60"
+        assert resp.headers.get("X-RateLimit-Remaining") is not None
+        assert resp.headers.get("X-RateLimit-Reset") is not None
+
     def test_exceeds_limit(self, auth_conn):
         low_rpm_hash = hashlib.sha256(b"low-rpm-key").hexdigest()
         auth_conn.execute(
@@ -46,12 +54,36 @@ class TestRateLimit:
         body = resp2.json()["error"]
         assert body["code"] == "RATE_LIMITED"
 
+    def test_exceeds_limit_has_retry_after(self, auth_conn):
+        low_rpm_hash = hashlib.sha256(b"low-rpm-key-2").hexdigest()
+        auth_conn.execute(
+            "INSERT INTO api_keys (key_id, key_hash, name, created_at, rate_limit_rpm) "
+            "VALUES (?, ?, ?, datetime('now'), ?)",
+            ("low2", low_rpm_hash, "low rpm", 1),
+        )
+        auth_conn.commit()
+
+        client = _make_app(auth_conn)
+        client.get("/test", headers={"Authorization": "Bearer low-rpm-key-2"})
+        resp = client.get("/test", headers={"Authorization": "Bearer low-rpm-key-2"})
+        assert resp.status_code == 429
+        assert resp.headers.get("Retry-After") is not None
+        retry_after = int(resp.headers["Retry-After"])
+        assert 1 <= retry_after <= 61
+
     def test_anonymous_bypasses(self, auth_conn):
         settings = Settings(DATABASE_PATH="", API_KEYS_ENABLED=False)
         client = _make_app(auth_conn, settings=settings)
         for _ in range(10):
             resp = client.get("/test")
             assert resp.status_code == 200
+
+    def test_anonymous_has_no_rate_limit_headers(self, auth_conn):
+        settings = Settings(DATABASE_PATH="", API_KEYS_ENABLED=False)
+        client = _make_app(auth_conn, settings=settings)
+        resp = client.get("/test")
+        assert resp.status_code == 200
+        assert resp.headers.get("X-RateLimit-Limit") is None
 
     def test_per_key_isolation(self, auth_conn):
         low_rpm_hash = hashlib.sha256(b"key-a").hexdigest()

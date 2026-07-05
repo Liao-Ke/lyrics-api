@@ -4,8 +4,12 @@ import sqlite3
 import tempfile
 from pathlib import Path
 
-import pytest
+import json
 
+import pytest
+from loguru import logger
+
+import app.main  # noqa: F401 — ensure setup_logging() runs before audit_log fixture
 from app.repositories.sqlite_repo import SqliteSongRepository
 
 SCHEMA = (Path(__file__).resolve().parent.parent / "schema.sql").read_text()
@@ -115,3 +119,11 @@ def test_app(repo, auth_db):
     yield app
 
     conn.close()
+
+
+@pytest.fixture
+def audit_log():
+    records = []
+    sink_id = logger.add(lambda r: records.append(json.loads(r)), level="INFO", serialize=True)
+    yield records
+    logger.remove(sink_id)

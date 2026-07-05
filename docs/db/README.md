@@ -61,7 +61,7 @@ PRIMARY KEY (key_id, request_at) — 单调插入，无需额外去重。
 
 | 表 | 谁读 | 谁写 | 频率 |
 |----|------|------|------|
-| `api_keys` | `auth.verify_api_key` — 每请求按 `key_hash` 查 `revoked_at IS NULL` 的行 | `scripts/seed_key.py` — 手动签发 | 每请求 1 次 R |
+| `api_keys` | `auth.verify_api_key` — 每请求按 `key_hash` 查 `revoked_at IS NULL` 的行 | `scripts/seed_key.py` + `scripts/revoke_key.py` — 手动签发/吊销 | 每请求 1 次 R |
 | `rate_counters` | `ratelimit.check_rate_limit` — 每请求 `COUNT WHERE request_at >= now-60s` | 同一 dependency — 每请求 INSERT + DELETE 旧记录 | 每请求 3 次 (INSERT + DELETE + COUNT) |
 
 索引：`idx_rate_counters_key_time(key_id, request_at)` — 窗口计数查询。
@@ -81,3 +81,7 @@ CREATE VIRTUAL TABLE lyrics_fts USING fts5(
 - **trigram 分词**：3 字符滑动窗口，对中文按三字切分，无需外部分词器
 - **只索引 `text` 列**：仅歌词正文分词搜索，元数据搜索走 SQL LIKE
 - **维护**：一次性导入后 `INSERT INTO lyrics_fts(lyrics_fts) VALUES('rebuild')` 重建索引
+
+## 审计日志
+
+审计日志不走 sqlite 表，走 loguru JSON stdout（ADR-021）。4 类事件：`auth_failure` / `rate_limited` / `key_issued` / `key_revoked`，由日志聚合系统采集（见 `docs/deploy/README.md` 可观测性章节）。

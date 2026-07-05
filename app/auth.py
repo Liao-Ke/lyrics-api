@@ -8,6 +8,7 @@ from fastapi.security import HTTPBearer
 from app.config import get_settings, Settings
 from app.deps import get_db_conn
 from app.errors import UnauthorizedError
+from app.logging import logger
 from app.metrics import auth_failures_total
 
 _bearer = HTTPBearer(auto_error=False)
@@ -22,6 +23,10 @@ class KeyContext:
 ANONYMOUS = KeyContext(key_id="anonymous", rate_limit_rpm=0)
 
 
+def _client_ip(request: Request) -> str:
+    return request.client.host if request.client else "unknown"
+
+
 def verify_api_key(
     request: Request,
     creds=Depends(_bearer),
@@ -34,10 +39,12 @@ def verify_api_key(
 
     if creds is None:
         auth_failures_total.labels(reason="missing_header").inc()
+        logger.info("audit", event="auth_failure", key_id="unknown", reason="missing_header", ip=_client_ip(request), path=request.url.path)
         raise UnauthorizedError("missing_header")
 
     if creds.scheme.lower() != "bearer":
         auth_failures_total.labels(reason="malformed_header").inc()
+        logger.info("audit", event="auth_failure", key_id="unknown", reason="malformed_header", ip=_client_ip(request), path=request.url.path)
         raise UnauthorizedError("malformed_header")
 
     key_hash = hashlib.sha256(creds.credentials.encode()).hexdigest()
@@ -48,6 +55,7 @@ def verify_api_key(
 
     if row is None:
         auth_failures_total.labels(reason="invalid_key").inc()
+        logger.info("audit", event="auth_failure", key_id="unknown", reason="invalid_key", ip=_client_ip(request), path=request.url.path)
         raise UnauthorizedError("invalid_key")
 
     ctx = KeyContext(key_id=row["key_id"], rate_limit_rpm=row["rate_limit_rpm"])

@@ -23,6 +23,9 @@ podman exec -it lyrics-api python scripts/seed_key.py
 # 4. 验证
 curl http://localhost:8000/healthz
 curl -H "Authorization: Bearer <key>" http://localhost:8000/api/v1/songs
+
+# 5. 吊销 key（可选）
+podman exec -it lyrics-api python scripts/revoke_key.py <key_id>
 ```
 
 ## 快速部署（裸跑）
@@ -46,6 +49,7 @@ python -m app.main
 | `HOST` | 监听地址 | `127.0.0.1` | 否 |
 | `PORT` | 监听端口 | `8000` | 否 |
 | `METRICS_ENABLED` | 是否暴露 `/metrics` 端点 | `true` | 否 |
+| `HSTS_ENABLED` | 是否启用 HSTS 响应头（需反代 TLS 才开） | `false` | 否 |
 
 > **注意：** 容器部署时 `HOST` 必须设为 `0.0.0.0`（docker-compose.yml 已强制覆盖）。裸跑保留 `127.0.0.1` 即仅本地访问。
 
@@ -91,6 +95,8 @@ scrape_configs:
 ```
 
 日志：loguru JSON 格式输出到 stdout，每条日志含 `request_id` 字段用于关联同一请求的相关事件。
+
+**审计日志**：安全相关事件（鉴权失败、限流触发、key 签发/吊销）通过 `event` 字段标记（`auth_failure` / `rate_limited` / `key_issued` / `key_revoked`），含 `key_id`、`ip`、`reason` 等结构化字段。与请求日志同流输出，可被日志聚合系统（Loki、ELK 等）按 `event` 字段过滤采集。
 
 ## 回滚步骤
 

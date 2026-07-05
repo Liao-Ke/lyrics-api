@@ -32,6 +32,17 @@ def test_rate_limited_shape():
     assert err.code == "RATE_LIMITED"
     assert err.http_status == 429
     assert err.detail == {"retry_after_seconds": 45, "limit": 60}
+    assert err.headers == {"Retry-After": "45"}
+
+
+def test_rate_limited_empty_headers():
+    err = RateLimitedError(0, 0, headers={})
+    assert err.headers == {}
+
+
+def test_api_error_custom_headers():
+    err = ApiError("CUSTOM", 418, "test", headers={"X-Custom": "value"})
+    assert err.headers == {"X-Custom": "value"}
 
 
 def test_validation_error_shape():
@@ -69,6 +80,20 @@ def test_register_handlers_produces_correct_response():
     body = resp.json()
     assert body["error"]["code"] == "NOT_FOUND"
     assert body["error"]["detail"]["resource_id"] == "999"
+
+
+def test_rate_limited_response_has_retry_after_header():
+    app = FastAPI()
+    register_exception_handlers(app)
+
+    @app.get("/raise-429")
+    def raise_429():
+        raise RateLimitedError(30, 60)
+
+    client = TestClient(app)
+    resp = client.get("/raise-429")
+    assert resp.status_code == 429
+    assert resp.headers.get("Retry-After") == "30"
 
 
 def test_http_exception_404_wrapped():

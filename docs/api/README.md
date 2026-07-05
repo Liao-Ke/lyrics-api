@@ -7,6 +7,9 @@
 - **限流**: 60 RPM / key（在 `api_keys` 表 `rate_limit_rpm` 配置），`/healthz` 和 `/metrics` 不限流
 - **错误格式**: 统一 `{"error": {"code": "...", "message": "...", "detail": {...}}}`（详见底部错误章节）
 - **可观测性**: `/metrics` 端点不鉴权不限流，`METRICS_ENABLED=false` 时不挂载
+- **安全响应头**: 所有响应携带 `X-Content-Type-Options: nosniff`、`X-Frame-Options: DENY`、`Referrer-Policy: strict-origin-when-cross-origin`；`/api/v1/*`、`/metrics`、`/healthz` 携带 `Cache-Control: no-store`；落地页 HTML 携带 `Content-Security-Policy: default-src 'self'`；`Strict-Transport-Security` 仅在 `HSTS_ENABLED=true` 时设置
+- **限流响应头**: 429 响应携带 `Retry-After` 头（秒）；成功 `/api/v1/*` 响应携带 `X-RateLimit-Limit`（RPM 上限）、`X-RateLimit-Remaining`（剩余次数）、`X-RateLimit-Reset`（窗口重置 epoch 秒）三头
+- **审计日志**: 鉴权失败、限流触发、key 签发/吊销均记审计事件，通过 loguru JSON stdout 输出（`event=auth_failure` / `rate_limited` / `key_issued` / `key_revoked`），由日志聚合系统采集
 
 ## 接口清单
 
@@ -265,7 +268,7 @@ Content-Type: text/plain; version=1.0.0; charset=utf-8
 | code | HTTP | 触发条件 | detail |
 |------|------|----------|--------|
 | `UNAUTHORIZED` | 401 | API key 缺失、无效、已吊销，或 `Authorization` 头格式错误 | `reason`: `missing_header` / `malformed_header` / `invalid_key` / `revoked_key` |
-| `RATE_LIMITED` | 429 | 请求频率超过当前 key 的 RPM 上限 | `retry_after_seconds`: 窗口剩余秒数（int）; `limit`: RPM 上限 |
+| `RATE_LIMITED` | 429 | 请求频率超过当前 key 的 RPM 上限 | `retry_after_seconds`: 最早请求过期剩余秒数（int）; `limit`: RPM 上限 |
 | `NOT_FOUND` | 404 | 请求的资源（歌曲/歌词）不存在 | `resource_type`: `song` / `lyrics`; `resource_id`: 请求的 ID（str） |
 | `VALIDATION_ERROR` | 422 | 请求参数校验失败（类型错误、越界等） | `errors`: `[{field, message}]` |
 | `INTERNAL_ERROR` | 500 | 服务器内部未预期异常 | 仅开发环境含 `debug` 信息，生产环境省略 |

@@ -287,3 +287,31 @@ HTTP 请求 → 中间件（日志 pre）
 - k6（外部二进制，非 pip 管理）
 
 **ponytail:** 压测脚本未使用 API key 鉴权，/api/v1 端点均为 401 未覆盖。压测前需先 seed 一个 key 并用 `--key <key>` 参数。
+
+---
+
+### ADR-021: 安全加固——响应头中间件 + 限流响应头 + 审计日志走 loguru
+
+**决策**：
+
+1. **安全响应头中间件**（`app/security_headers.py`）：手写中间件，不引 `secure` 库。对所有响应设 `X-Content-Type-Options: nosniff` / `X-Frame-Options: DENY` / `Referrer-Policy: strict-origin-when-cross-origin`；对 `/api/v1/*`、`/metrics`、`/healthz` 设 `Cache-Control: no-store`；对 `media_type="text/html"` 的落地页设 `Content-Security-Policy: default-src 'self'`；`Strict-Transport-Security` 受 `HSTS_ENABLED` 环境变量控制（默认 false）。
+2. **限流响应头**：`ApiError` 基类加 `headers` 字段，`_as_json` 合并进 `JSONResponse`。`RateLimitedError` 设 `Retry-After` 头。`check_rate_limit` 接收 `Response` 参数，成功响应设 `X-RateLimit-Limit/Remaining/Reset` 三头。`retry_after_seconds` 算法修复为 `max(1, int(oldest + 60 - now) + 1)`（最早请求过期时间）。
+3. **审计日志**：4 类事件（`auth_failure` / `rate_limited` / `key_issued` / `key_revoked`）走 loguru JSON stdout。不上 sqlite 表（零 schema 变更）。字段含 `key_id`、`ip`、`reason`、`path`、`request_id`，脚本事件省略 `ip`/`path`。
+4. **CORS 完善**：`CORS_ORIGINS` 非空时，加 `expose_headers=["Retry-After","X-RateLimit-Limit","X-RateLimit-Remaining","X-RateLimit-Reset"]` 和 `max_age=600`。移到 `register_middleware` 统一管理。
+5. **Key 吊销脚本**：新增 `scripts/revoke_key.py`，手动吊销 key 并记审计日志。
+
+**理由**：
+
+- 安全响应头是生产就绪的基本要求，手写 ~20 行中间件够用，`secure` 库 YAGNI
+- `Retry-After` 头是 HTTP 429 标准要求，`X-RateLimit-*` 三头是客户端友好实践
+- 审计日志走 loguru 复用已有日志基础设施，sqlite 表增加复杂度且无查询需求（ADR-001 半开放作品集定位）
+- 日志聚合系统（如 Loki、ELK）可采集 JSON stdout，不影响可查询性
+- CORS `expose_headers` 让 JS 客户端能读到限流头
+
+**替代方案**：
+
+- 引入 `secure` 库管理安全头（新依赖，项目静态头用不到库的 CSP nonce/HSTS preload 等高级功能）
+- 审计日志上 sqlite `audit_events` 表（动 schema.sql，增加 Repository 复杂度，违背「不引入 ORM」原则）
+- 成功响应不设 `X-RateLimit-*` 头（客户端体验差，DevTools 看不到限流余量）
+
+**ponytail:** `retry_after` 用 `MIN(request_at)` 而非 `OFFSET count - rpm` 查询第 N 旧请求。若 count >> rpm（突发大量请求），实际 retry_after 略大于计算值。60 RPM 下典型 burst ≤ 3，差异在 1-3s 内可接受。若需精确值，改为 `OFFSET count - rpm` 查询。

@@ -50,7 +50,7 @@ open http://localhost:8000/docs
 | GET | `/metrics` | Prometheus 指标（`METRICS_ENABLED` 开关） |
 | GET | `/api/v1/songs` | 歌曲列表，分页 + 过滤（?title= & ?artist= & ?writer=） |
 | GET | `/api/v1/songs/{id}` | 单首元数据 |
-| GET | `/api/v1/songs/{id}/lyrics` | 歌词全文，?time= 进入卡拉OK 模式 |
+| GET | `/api/v1/songs/{id}/lyrics` | 歌词全文，?time= 进入卡拉OK 模式。429 带 `Retry-After` 头，成功响应带 `X-RateLimit-Limit/Remaining/Reset` 三头 |
 | GET | `/api/v1/search?q=` | 统一搜索（标题 / 艺术家 / 作词人 / 歌词正文） |
 
 ## 环境变量
@@ -65,6 +65,7 @@ open http://localhost:8000/docs
 | `HOST` | 监听地址 | `127.0.0.1` |
 | `PORT` | 监听端口 | `8000` |
 | `METRICS_ENABLED` | 是否暴露 `/metrics` 端点 | `true` |
+| `HSTS_ENABLED` | 是否启用 HSTS 响应头（需反代 TLS） | `false` |
 
 ## 项目结构
 
@@ -76,7 +77,7 @@ open http://localhost:8000/docs
     │   ├── repositories/     # 数据访问层
     │   ├── static/           # 落地页
     │   └── auth / ratelimit / middleware / errors / models / config / deps / logging
-├── scripts/      # 工具脚本（含 load_test.py 性能压测）
+├── scripts/      # 工具脚本（含 load_test.py 性能压测、revoke_key.py 吊销 key）
 ├── data/         # 歌词数据（JSON + SQLite）
 ├── docs/         # 文档
 ├── Dockerfile    # 多阶段构建
@@ -91,6 +92,7 @@ open http://localhost:8000/docs
 - **配置**：pydantic-settings + .env
 - **日志**：loguru（JSON 序列化，reqeust_id 关联）
 - **可观测性**：prometheus_client（/metrics 端点）
+- **安全**：安全响应头中间件（X-Content-Type-Options/X-Frame-Options/Referrer-Policy/CSP/HSTS）、限流 429 Retry-After 头 + X-RateLimit-* 三头、审计日志（loguru JSON stdout）
 - **部署**：Podman 容器 / 裸跑
 
 ## 开发
