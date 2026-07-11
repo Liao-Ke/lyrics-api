@@ -1,6 +1,7 @@
 # 歌词API
 
 [![CI](https://github.com/Liao-Ke/lyrics-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Liao-Ke/lyrics-api/actions/workflows/ci.yml)
+[![API Docs](https://img.shields.io/badge/API%20Docs-Apifox-blue)](https://y22r5peszm.apifox.cn/)
 
 > 歌词数据来自公开网络收集，仅供个人学习研究，不用于商业传播。版权归原作者及版权方所有。
 
@@ -114,6 +115,7 @@ ruff check .
 - [产品需求](docs/prd/)
 - [架构设计](docs/arch/)
 - [接口文档](docs/api/)（Swagger UI 同步）
+- [在线 API 文档](https://y22r5peszm.apifox.cn/)（Apifox）
 - [数据库设计](docs/db/)
 - [部署方案](docs/deploy/)
 - [性能基线](docs/perf/)
