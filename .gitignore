@@ -14,3 +14,9 @@ build/
 .coverage
 htmlcov/
 *.log
+.agents/
+.claude/
+.openhands/
+.pi/
+.reasonix/
+skills-lock.json
